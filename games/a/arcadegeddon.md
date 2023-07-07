@@ -6,17 +6,17 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 92.00% | ~6,939 |
-| Photogenic | 88.00% | ~6,637 |
-| Plug It In | 85.00% | ~6,411 |
-| Surge Gauntlet Jockey | 85.00% | ~6,411 |
+| Let's Get This Party Started | 92.00% | ~6,940 |
+| Photogenic | 88.00% | ~6,638 |
+| Plug It In | 85.00% | ~6,412 |
+| Surge Gauntlet Jockey | 85.00% | ~6,412 |
 | Adventure Time | 80.00% | ~6,034 |
-| Playing With Power | 78.00% | ~5,883 |
+| Playing With Power | 78.00% | ~5,884 |
 | Coup d'Etat | 59.00% | ~4,450 |
-| You're Fired | 58.00% | ~4,374 |
+| You're Fired | 58.00% | ~4,375 |
 | Get Furious | 56.00% | ~4,224 |
-| Gunplay And Cosplay | 55.00% | ~4,148 |
-| Hacks In Stacks | 55.00% | ~4,148 |
+| Gunplay And Cosplay | 55.00% | ~4,149 |
+| Hacks In Stacks | 55.00% | ~4,149 |
 | Meching Enemies | 49.00% | ~3,696 |
 | Ticket Toddler | 45.00% | ~3,394 |
 | Booty Bashing | 43.00% | ~3,243 |
@@ -31,8 +31,8 @@ Number of Ratings: 801  (23.09.2022)
 | Grey Goo | 19.00% | ~1,433 |
 | Boss of Bosses | 15.00% | ~1,131 |
 | The Final Blow | 14.00% | ~1,056 |
-| Light My Fire | 13.00% | ~980 |
-| To Be Continued | 13.00% | ~980 |
+| Light My Fire | 13.00% | ~981 |
+| To Be Continued | 13.00% | ~981 |
 | Seasoned Adventurer | 12.00% | ~905 |
 | 1.21 Gigawatts | 11.00% | ~830 |
 | This Is My Boomstick! | 10.00% | ~754 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.50% | ~38 |
 | Pyrotechnical | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,542 (Ranked 121)  
+Progressed: 7,543 (Ranked 121)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-04 | 7,512 | 0 |
 | 2023-07-05 | 7,522 | 0 |
 | 2023-07-06 | 7,534 | 0 |
-| 2023-07-07 | 7,542 | 0 |
+| 2023-07-07 | 7,543 | 0 |
 ## Awards
 Max (Relaxing): 62  (Ranked 384)  
 Sum: 488 (Ranked 298)  

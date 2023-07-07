@@ -14,7 +14,7 @@
 | Lieutenant | 14.00% | ~51 |
 | Stocking Up | 14.00% | ~51 |
 | Getting Deployment | 13.00% | ~47 |
-| Infantry Reporting | 12.00% | ~43 |
+| Infantry Reporting | 13.00% | ~47 |
 | Keeping Busy | 11.00% | ~40 |
 | Fighting for Survival | 10.00% | ~36 |
 | Silver Competitor | 10.00% | ~36 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 127,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -521,10 +521,10 @@
     }
   ],
   "EOS_Progressed": 8892,
-  "EOS_Completed": 42,
-  "EOS_NewPlayers": 66,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.47,
+  "EOS_Completed": 43,
+  "EOS_NewPlayers": 65,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.1062688+00:00",
@@ -5985,6 +5985,11 @@
       "Time": "2023-07-07T13:18:08.9382788+00:00",
       "NumProgressed": 8892,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-07-07T21:02:33.2902228+00:00",
+      "NumProgressed": 8892,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -6098,9 +6103,9 @@
       "ID": "ACH14",
       "SetID": "9llo822",
       "Name": "Greasy Palms",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3557
+      "UsersEstimate": 3646
     },
     {
       "ID": "ACH15",
@@ -6268,15 +6273,15 @@
       "ID": "9llo822",
       "IsBase": true,
       "Progressed": 8892,
-      "Completed": 42
+      "Completed": 43
     }
   ],
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-07T10:58:53.3105834+00:00",
-  "LastChanged_Achievements": "2023-07-07T20:01:55.774391+00:00",
+  "LastChanged_Achievements": "2023-07-07T21:02:33.2902222+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:48.6744993+00:00",
-  "LastUpdate_Ratings": "2023-07-07T19:58:43.4302743+00:00",
-  "LastUpdate_Achievements": "2023-07-07T20:01:55.7744653+00:00"
+  "LastUpdate_Ratings": "2023-07-07T20:58:17.696809+00:00",
+  "LastUpdate_Achievements": "2023-07-07T21:02:33.2902835+00:00"
 }

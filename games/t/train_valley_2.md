@@ -6,7 +6,7 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 11.00% | ~82 |
+| Dealmaker | 11.00% | ~83 |
 | Full garage | 10.00% | ~75 |
 | Individual delivery | 9.00% | ~68 |
 | To the eyeballs! | 9.00% | ~68 |
@@ -30,12 +30,12 @@ Number of Ratings: 87  (23.09.2022)
 | Steam Age | 4.00% | ~30 |
 | The Tortoise | 4.00% | ~30 |
 | Trapiche Emerald | 4.00% | ~4 |
-| Jewelry accuracy | 3.00% | ~22 |
-| Overseer | 3.00% | ~22 |
+| Beginner | 3.00% | ~23 |
+| Jewelry accuracy | 3.00% | ~23 |
+| Overseer | 3.00% | ~23 |
 | Star Sapphire | 3.00% | ~3 |
-| Without a lunch break | 3.00% | ~22 |
+| Without a lunch break | 3.00% | ~23 |
 | At the last moment! | 2.00% | ~15 |
-| Beginner | 2.00% | ~15 |
 | Bridge builder | 2.00% | ~15 |
 | Electrical Age | 2.00% | ~15 |
 | Engineer | 2.00% | ~15 |
@@ -82,7 +82,7 @@ Number of Ratings: 87  (23.09.2022)
 | Gemologist | 0.00% | ~0 |
 | Jeweller | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 750 (Ranked 197)  
+Progressed: 751 (Ranked 196)  
 Completed: 1 (0.13%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 1 (0.13%) (Ranked 176)
 | 2023-07-02 | 744 | 1 |
 | 2023-07-05 | 745 | 1 |
 | 2023-07-06 | 747 | 1 |
-| 2023-07-07 | 750 | 1 |
+| 2023-07-07 | 751 | 1 |
 ## Awards
 Max (Challenging Puzzles): 72  (Ranked 370)  
 Sum: 72 (Ranked 428)  

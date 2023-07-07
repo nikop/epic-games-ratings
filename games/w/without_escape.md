@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Never around when you need them | 55.00% | ~11 |
 | Became the new Maker | 25.00% | ~5 |
-| Where's the air conditioner? | 15.00% | ~3 |
+| Where's the air conditioner? | 20.00% | ~4 |
 | Jumped into the void | 10.00% | ~2 |
 | You got all endings! | 5.00% | ~1 |
 | Did you think you would make it? | 5.00% | ~1 |

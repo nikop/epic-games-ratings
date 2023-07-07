@@ -4,11 +4,11 @@
   "ProductSlug": "tropico-6",
   "Ranking_Rating": 258,
   "Ranking_Popularity": 339,
-  "Ranking_PopularitySum": 277,
+  "Ranking_PopularitySum": 276,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -916,10 +916,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 664,
       "NumberOfAwardsMax": 94
+    },
+    {
+      "Time": "2023-07-07T20:59:55.3323054+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 665,
+      "NumberOfAwardsMax": 94
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 664,
+  "NumberOfAwards": 665,
   "NumberOfAwardsMax": 94,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -963,7 +969,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 82
+      "Count": 83
     },
     {
       "Text": "This game has a Creative Community",
@@ -6026,9 +6032,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
-  "LastChanged": "2023-07-07T09:00:33.0822646+00:00",
-  "LastChanged_Achievements": "2023-07-07T20:04:36.6539703+00:00",
+  "LastChanged": "2023-07-07T20:59:55.3323052+00:00",
+  "LastChanged_Achievements": "2023-07-07T21:07:22.1876351+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:35.9732187+00:00",
-  "LastUpdate_Ratings": "2023-07-07T20:00:49.8930766+00:00",
-  "LastUpdate_Achievements": "2023-07-07T20:04:36.6540766+00:00"
+  "LastUpdate_Ratings": "2023-07-07T20:59:55.3323058+00:00",
+  "LastUpdate_Achievements": "2023-07-07T21:07:22.1876962+00:00"
 }

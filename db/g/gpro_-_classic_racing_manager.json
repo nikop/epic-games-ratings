@@ -4,8 +4,8 @@
   "ProductSlug": "classic-racing-manager-679706",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-10T08:00:00+00:00",
     "PcReleaseDate": "2023-02-12T11:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 244,
+  "EOS_Progressed": 246,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -471,6 +471,11 @@
       "Time": "2023-07-07T20:02:05.9874913+00:00",
       "NumProgressed": 244,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-07T21:02:38.4561753+00:00",
+      "NumProgressed": 246,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 162,
@@ -546,7 +551,7 @@
       "Name": "Newbie",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -1600,9 +1605,9 @@
       "ID": "ACHIEVEMENT_7",
       "SetID": "76k7b7p",
       "Name": "Photo shoot",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_76",
@@ -1777,14 +1782,14 @@
     {
       "ID": "76k7b7p",
       "IsBase": true,
-      "Progressed": 244,
+      "Progressed": 246,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2023-07-07T20:02:05.9874908+00:00",
+  "LastChanged_Achievements": "2023-07-07T21:02:38.4561747+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:03.9155251+00:00",
-  "LastUpdate_Ratings": "2023-07-07T19:57:31.7090212+00:00",
-  "LastUpdate_Achievements": "2023-07-07T20:02:05.987837+00:00"
+  "LastUpdate_Ratings": "2023-07-07T20:57:20.6217636+00:00",
+  "LastUpdate_Achievements": "2023-07-07T21:02:38.4565108+00:00"
 }

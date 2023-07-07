@@ -2,13 +2,13 @@
   "ID": "97071dce4a98441d9c0b7f0df92f7b31",
   "Name": "Football Manager 2022",
   "ProductSlug": "football-manager-2022",
-  "Ranking_Rating": 81,
+  "Ranking_Rating": 82,
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 34,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -5607,10 +5607,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 49998,
       "NumberOfAwardsMax": 6344
+    },
+    {
+      "Time": "2023-07-07T20:59:57.5396625+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 50001,
+      "NumberOfAwardsMax": 6344
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 49998,
+  "NumberOfAwards": 50001,
   "NumberOfAwardsMax": 6344,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -5660,7 +5666,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 4854
+      "Count": 4857
     },
     {
       "Text": "This game has Diverse Characters",
@@ -14531,9 +14537,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
-  "LastChanged": "2023-07-07T19:01:42.9236326+00:00",
+  "LastChanged": "2023-07-07T20:59:57.5396623+00:00",
   "LastChanged_Achievements": "2023-07-07T20:02:20.2447225+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:37.8948066+00:00",
-  "LastUpdate_Ratings": "2023-07-07T20:00:52.8359256+00:00",
+  "LastUpdate_Ratings": "2023-07-07T20:59:57.5396629+00:00",
   "LastUpdate_Achievements": "2023-07-07T20:02:20.2449071+00:00"
 }

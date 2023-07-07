@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Exam Time | 83.00% | ~237 |
-| 1st Grade | 43.00% | ~123 |
-| Smarter than a 5th Grader | 36.00% | ~103 |
-| Study Session | 33.00% | ~94 |
+| Exam Time | 83.00% | ~239 |
+| 1st Grade | 43.00% | ~124 |
+| Smarter than a 5th Grader | 36.00% | ~104 |
+| Study Session | 32.00% | ~92 |
 | Unlucky | 21.00% | ~60 |
 | Exam Practice | 13.00% | ~37 |
 | In The Honor Roll | 9.00% | ~26 |
@@ -24,7 +24,7 @@
 | Graduated | 0.00% | ~0 |
 | Librarian | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 286 (Ranked 246)  
+Progressed: 288 (Ranked 246)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -47,6 +47,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-06-20 | 283 | 0 |
 | 2023-06-22 | 284 | 0 |
 | 2023-07-02 | 286 | 0 |
+| 2023-07-07 | 288 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

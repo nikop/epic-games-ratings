@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56976,
+  "EOS_Progressed": 56978,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 431,
+  "EOS_NewPlayers": 430,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7247,6 +7247,11 @@
       "Time": "2023-07-07T20:03:00.9424194+00:00",
       "NumProgressed": 56976,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-07T21:05:38.6923728+00:00",
+      "NumProgressed": 56978,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7258,7 +7263,7 @@
       "Name": "Follow the Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 18802
+      "UsersEstimate": 18803
     },
     {
       "ID": "02",
@@ -7274,7 +7279,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11395
+      "UsersEstimate": 11396
     },
     {
       "ID": "04",
@@ -7298,7 +7303,7 @@
       "Name": "Park Ranger",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 8546
+      "UsersEstimate": 8547
     },
     {
       "ID": "07",
@@ -7314,7 +7319,7 @@
       "Name": "Iron Horse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6267
+      "UsersEstimate": 6268
     },
     {
       "ID": "09",
@@ -7322,7 +7327,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6267
+      "UsersEstimate": 6268
     },
     {
       "ID": "10",
@@ -7426,7 +7431,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6267
+      "UsersEstimate": 6268
     },
     {
       "ID": "23",
@@ -7466,7 +7471,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6267
+      "UsersEstimate": 6268
     },
     {
       "ID": "28",
@@ -7474,7 +7479,7 @@
       "Name": "Come One, Come All",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6267
+      "UsersEstimate": 6268
     },
     {
       "ID": "29",
@@ -7594,7 +7599,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8546
+      "UsersEstimate": 8547
     },
     {
       "ID": "44",
@@ -7793,21 +7798,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56976,
+      "Progressed": 56978,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20444,
+      "Progressed": 20446,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-07T20:03:00.9424188+00:00",
+  "LastChanged_Achievements": "2023-07-07T21:05:38.6923722+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:02.061333+00:00",
-  "LastUpdate_Ratings": "2023-07-07T19:58:06.7662347+00:00",
-  "LastUpdate_Achievements": "2023-07-07T20:03:00.9425466+00:00"
+  "LastUpdate_Ratings": "2023-07-07T20:57:47.9262285+00:00",
+  "LastUpdate_Achievements": "2023-07-07T21:05:38.6924791+00:00"
 }

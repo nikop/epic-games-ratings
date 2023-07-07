@@ -6,22 +6,22 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,212 |
-| The Mad Wizard | 11.00% | ~22,889 |
-| The Ring of Regeneration | 7.00% | ~14,566 |
-| Are Ya Chicken? | 7.00% | ~14,566 |
-| Were-verpowered | 5.00% | ~10,404 |
-| Seeking Allies | 5.00% | ~10,404 |
-| Mad Cow Disease | 5.00% | ~10,404 |
-| Friendly Imps | 5.00% | ~10,404 |
-| A Persistent Buzzing | 4.00% | ~8,323 |
-| Pure Energy | 4.00% | ~8,323 |
-| Beast Mode | 3.00% | ~6,242 |
-| Terror in the Dark | 3.00% | ~6,242 |
-| Unearthed Evil | 3.00% | ~6,242 |
-| The Crumbling Temple | 3.00% | ~6,242 |
-| Exploring Port Nyanzaru | 3.00% | ~6,242 |
-| The Contagious Curse | 3.00% | ~6,242 |
+| The Cursed Farmer | 15.00% | ~31,216 |
+| The Mad Wizard | 11.00% | ~22,892 |
+| The Ring of Regeneration | 7.00% | ~14,567 |
+| Are Ya Chicken? | 7.00% | ~14,567 |
+| Were-verpowered | 5.00% | ~10,405 |
+| Seeking Allies | 5.00% | ~10,405 |
+| Mad Cow Disease | 5.00% | ~10,405 |
+| Friendly Imps | 5.00% | ~10,405 |
+| A Persistent Buzzing | 4.00% | ~8,324 |
+| Pure Energy | 4.00% | ~8,324 |
+| Beast Mode | 3.00% | ~6,243 |
+| Terror in the Dark | 3.00% | ~6,243 |
+| Unearthed Evil | 3.00% | ~6,243 |
+| The Crumbling Temple | 3.00% | ~6,243 |
+| Exploring Port Nyanzaru | 3.00% | ~6,243 |
+| The Contagious Curse | 3.00% | ~6,243 |
 | Low Initiative | 2.00% | ~4,162 |
 | A Mysterious Summons | 2.00% | ~4,162 |
 | Building Trust | 2.00% | ~4,162 |
@@ -62,33 +62,34 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tomb of the Nine Gods | 0.70% | ~1,457 |
 | Treasure Hunters | 0.70% | ~1,457 |
 | Nimble Escape | 0.70% | ~1,457 |
+| Fugitives | 0.70% | ~1,457 |
 | The Darkness Runs Deeper | 0.70% | ~1,457 |
-| The Giant's Bane Tavern | 0.70% | ~1,220 |
+| The Giant's Bane Tavern | 0.70% | ~1,221 |
 | Rude Welcome | 0.70% | ~1,457 |
 | The Haunted Jungle | 0.70% | ~1,457 |
-| Family Entanglements | 0.60% | ~1,248 |
-| The Immortal Warrior | 0.60% | ~1,248 |
-| The Wyrmheart Mine | 0.60% | ~1,248 |
-| The Guardian of Orolunga | 0.60% | ~1,248 |
-| Fugitives | 0.60% | ~1,248 |
-| Hopelessly Lost | 0.60% | ~1,248 |
-| Enter the Sargauth | 0.60% | ~1,248 |
-| Crowded Streets | 0.60% | ~1,248 |
-| Difficult Terrain | 0.60% | ~1,248 |
-| Market Fluctuations | 0.60% | ~1,248 |
-| Durable Deep | 0.60% | ~1,248 |
-| Force Grey Unleashed | 0.50% | ~1,040 |
-| Sleuth It Out | 0.50% | ~1,040 |
-| Chatty Nobles | 0.50% | ~1,040 |
-| Tower on the Lake | 0.50% | ~1,040 |
-| Seeds of Deceit | 0.50% | ~1,040 |
-| The Lost Love | 0.50% | ~1,040 |
-| Lair of the Xanathar | 0.50% | ~1,040 |
-| Waterdeep Under Siege | 0.50% | ~1,040 |
-| Elturel Has Fallen | 0.50% | ~1,040 |
+| Family Entanglements | 0.60% | ~1,249 |
+| The Immortal Warrior | 0.60% | ~1,249 |
+| The Wyrmheart Mine | 0.60% | ~1,249 |
+| The Guardian of Orolunga | 0.60% | ~1,249 |
+| Hopelessly Lost | 0.60% | ~1,249 |
+| Enter the Sargauth | 0.60% | ~1,249 |
+| Crowded Streets | 0.60% | ~1,249 |
+| Difficult Terrain | 0.60% | ~1,249 |
+| Market Fluctuations | 0.60% | ~1,249 |
+| Durable Deep | 0.60% | ~1,249 |
+| Force Grey Unleashed | 0.50% | ~1,041 |
+| Sleuth It Out | 0.50% | ~1,041 |
+| Chatty Nobles | 0.50% | ~1,041 |
+| Haaave You Met Asmodeus? | 0.50% | ~1,041 |
+| Tower on the Lake | 0.50% | ~1,041 |
+| Seeds of Deceit | 0.50% | ~1,041 |
+| The Lost Love | 0.50% | ~1,041 |
+| Lair of the Xanathar | 0.50% | ~1,041 |
+| Waterdeep Under Siege | 0.50% | ~1,041 |
+| Elturel Has Fallen | 0.50% | ~1,041 |
 | The Everlasting Rime | 0.50% | ~872 |
-| Expert Opinion | 0.50% | ~1,040 |
-| Poor Guidance | 0.50% | ~1,040 |
+| Expert Opinion | 0.50% | ~1,041 |
+| Poor Guidance | 0.50% | ~1,041 |
 | Anti-Dexterous Explorers | 0.40% | ~832 |
 | Lobsterfolk Assault | 0.40% | ~832 |
 | Periodic Petrification | 0.40% | ~832 |
@@ -99,7 +100,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Hunt for Owl-y | 0.40% | ~832 |
 | Werewolves in the Mist | 0.40% | ~832 |
 | Modron Assistance | 0.40% | ~832 |
-| Haaave You Met Asmodeus? | 0.40% | ~832 |
 | Domesticated Owlbears | 0.40% | ~832 |
 | The Gargoyle's Apprentice | 0.40% | ~832 |
 | The Trepidatious Trio | 0.40% | ~832 |
@@ -115,12 +115,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Resolve Amongst Chaos | 0.40% | ~832 |
 | Once More Into The Breach | 0.40% | ~832 |
 | Wyllowwood | 0.40% | ~832 |
-| An Illithid Undertaking | 0.40% | ~697 |
-| Déjà Vu | 0.40% | ~697 |
-| Into The Fire | 0.40% | ~697 |
-| Dreamscape | 0.40% | ~697 |
-| Moose Tracks | 0.40% | ~697 |
-| Civilization | 0.40% | ~697 |
+| An Illithid Undertaking | 0.40% | ~698 |
+| Déjà Vu | 0.40% | ~698 |
+| Into The Fire | 0.40% | ~698 |
+| Dreamscape | 0.40% | ~698 |
+| Moose Tracks | 0.40% | ~698 |
+| Civilization | 0.40% | ~698 |
 | Struggling Toward Omu | 0.30% | ~624 |
 | Not Very Charming | 0.30% | ~624 |
 | Double Vision | 0.30% | ~624 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,081 (Ranked 52)  
+Progressed: 208,107 (Ranked 52)  
 Completed: 2,037 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -588,7 +588,7 @@ Completed: 2,037 (0.98%) (Ranked 101)
 | 2023-07-04 | 206,280 | 2,028 |
 | 2023-07-05 | 206,889 | 2,032 |
 | 2023-07-06 | 207,486 | 2,035 |
-| 2023-07-07 | 208,081 | 2,037 |
+| 2023-07-07 | 208,107 | 2,037 |
 ## Awards
 Max (Diverse Characters): 5,013  (Ranked 65)  
 Sum: 30,436 (Ranked 37)  

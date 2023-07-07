@@ -6,21 +6,21 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 68.00% | ~41,563 |
-| INFUSED WITH LIGHT | 53.00% | ~32,395 |
-| FOXIN' AROUND | 28.00% | ~17,114 |
-| FETCH | 27.00% | ~16,503 |
-| BLOOMS OF LIGHT | 26.00% | ~15,892 |
-| BEST FRIENDS | 22.00% | ~13,447 |
-| AWAKEN | 21.00% | ~12,836 |
-| SPIRIT BARK | 21.00% | ~12,836 |
-| ERADICATE | 20.00% | ~12,224 |
-| GARDEN OF LIGHT | 18.00% | ~11,002 |
+| A GUARDIAN FORGOTTEN | 68.00% | ~41,566 |
+| INFUSED WITH LIGHT | 53.00% | ~32,397 |
+| FOXIN' AROUND | 28.00% | ~17,116 |
+| FETCH | 27.00% | ~16,504 |
+| BLOOMS OF LIGHT | 26.00% | ~15,893 |
+| BEST FRIENDS | 22.00% | ~13,448 |
+| AWAKEN | 21.00% | ~12,837 |
+| SPIRIT BARK | 21.00% | ~12,837 |
+| ERADICATE | 20.00% | ~12,225 |
+| GARDEN OF LIGHT | 18.00% | ~11,003 |
 | SPIRIT FORM | 16.00% | ~9,780 |
-| UPROOTING DARKNESS | 15.00% | ~9,168 |
-| WRITTEN IN STONE | 15.00% | ~9,168 |
+| UPROOTING DARKNESS | 15.00% | ~9,169 |
+| WRITTEN IN STONE | 15.00% | ~9,169 |
 | WEIGHTLESS | 12.00% | ~7,335 |
-| SPIRIT DASH | 10.00% | ~6,112 |
+| SPIRIT DASH | 10.00% | ~6,113 |
 | OLD COMPANION | 9.00% | ~5,501 |
 | PLAGUE DOCTOR | 8.00% | ~4,890 |
 | SPIRITED AWAY | 8.00% | ~4,890 |
@@ -28,10 +28,10 @@ Number of Ratings: 1,175  (23.09.2022)
 | NORTHERN LIGHTS | 7.00% | ~4,279 |
 | FOX? OR FLYING SQUIRREL? | 4.00% | ~2,445 |
 | ANCIENT HISTORY | 3.00% | ~1,834 |
-| NONE FORGOTTEN | 2.00% | ~1,222 |
+| NONE FORGOTTEN | 2.00% | ~1,223 |
 | KINDRED SPIRITS | 0.60% | ~367 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,122 (Ranked 79)  
+Progressed: 61,127 (Ranked 79)  
 Completed: 309 (0.51%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 309 (0.51%) (Ranked 125)
 | 2023-07-04 | 60,812 | 307 |
 | 2023-07-05 | 60,907 | 307 |
 | 2023-07-06 | 61,027 | 307 |
-| 2023-07-07 | 61,122 | 309 |
+| 2023-07-07 | 61,127 | 309 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 474)  
 Sum: 113 (Ranked 404)  

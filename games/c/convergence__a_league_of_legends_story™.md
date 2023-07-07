@@ -8,11 +8,11 @@
 | The Mysterious Stranger | 15.00% | ~112 |
 | Rail Rat | 15.00% | ~112 |
 | The Steel Shadow | 14.00% | ~105 |
+| The Man Who Shattered Time | 14.00% | ~105 |
 | Cartographer | 14.00% | ~105 |
 | The Family Fortune | 14.00% | ~105 |
 | Treasure Trove | 13.00% | ~97 |
 | The Betrayer | 13.00% | ~97 |
-| The Man Who Shattered Time | 13.00% | ~97 |
 | The Loose Cannon | 13.00% | ~97 |
 | Make Up For Lost Time | 13.00% | ~97 |
 | Time Flies | 13.00% | ~97 |

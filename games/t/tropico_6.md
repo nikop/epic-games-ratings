@@ -128,8 +128,8 @@ Completed: 1 (0.03%) (Ranked 208)
 | 2023-07-07 | 3,986 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 94  (Ranked 339)  
-Sum: 664 (Ranked 277)  
-Diff (max vs sum): 62  
+Sum: 665 (Ranked 276)  
+Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 106 |
@@ -138,8 +138,8 @@ Diff (max vs sum): 62
 | This game is Highly Recommended | 86 |
 | This game has Amazing Storytelling | 85 |
 | This game has Amazing Characters | 83 |
+| This game is Educational | 83 |
 | This game is Extremely Fun | 82 |
-| This game is Educational | 82 |
 | This game has a Creative Community | 62 |
 | This game has Obsessive Gameplay | 52 |
 | This game has Diverse Characters | 46 |
@@ -260,4 +260,4 @@ Diff (max vs sum): 62
 | 2023-07-01 | 4.67 | - | 93 | 661 |
 | 2023-07-03 | 4.67 | - | 93 | 662 |
 | 2023-07-04 | 4.67 | - | 93 | 663 |
-| 2023-07-07 | 4.67 | - | 94 | 664 |
+| 2023-07-07 | 4.67 | - | 94 | 665 |

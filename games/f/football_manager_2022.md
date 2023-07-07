@@ -1,7 +1,7 @@
 # Football Manager 2022
 [Store](https://store.epicgames.com/en-US/p/football-manager-2022)  
 [View Rawdata](../../db/f/football_manager_2022.json)  
-Rating: 4.80 (Ranked 81)  
+Rating: 4.80 (Ranked 82)  
 Number of Ratings: 19,160  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -186,7 +186,7 @@ Completed: 19 (0.00%) (Ranked 236)
 | 2023-07-07 | 466,246 | 19 |
 ## Awards
 Max (Relaxing): 6,344  (Ranked 51)  
-Sum: 49,998 (Ranked 24)  
+Sum: 50,001 (Ranked 24)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
@@ -197,7 +197,7 @@ Diff (max vs sum): 27
 | This game is Educational | 5,770 |
 | This game is Highly Recommended | 5,754 |
 | This game has Diverse Characters | 5,383 |
-| This game has Amazing Storytelling | 4,854 |
+| This game has Amazing Storytelling | 4,857 |
 | This game has Obsessive Gameplay | 4,416 |
 | This game has Amazing Characters | 4,330 |
 | This game has a Creative Community | 1,495 |
@@ -366,4 +366,4 @@ Diff (max vs sum): 27
 | 2023-07-04 | 4.80 | - | 6,339 | 49,963 |
 | 2023-07-05 | 4.80 | - | 6,341 | 49,975 |
 | 2023-07-06 | 4.80 | - | 6,341 | 49,984 |
-| 2023-07-07 | 4.80 | - | 6,344 | 49,998 |
+| 2023-07-07 | 4.80 | - | 6,344 | 50,001 |
