@@ -6,39 +6,39 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 97.00% | ~128,068 |
-| Titan's First Steps | 96.00% | ~126,748 |
-| Basic in Bulk | 91.00% | ~120,146 |
-| Tinkle of Coins | 86.00% | ~113,545 |
+| Sponsored by Argon | 97.00% | ~128,069 |
+| Titan's First Steps | 96.00% | ~126,749 |
+| Basic in Bulk | 91.00% | ~120,147 |
+| Tinkle of Coins | 86.00% | ~113,546 |
 | Disintermediation | 75.00% | ~99,022 |
-| Capitalism Ho! | 74.00% | ~97,701 |
-| It's Free Real Estate | 70.00% | ~92,420 |
-| Budding Merchant | 66.00% | ~87,139 |
+| Capitalism Ho! | 74.00% | ~97,702 |
+| It's Free Real Estate | 70.00% | ~92,421 |
+| Budding Merchant | 66.00% | ~87,140 |
 | Another Satisfied Customer | 61.00% | ~80,538 |
-| One Easy Payment | 60.00% | ~79,217 |
-| Own the Means of Production | 60.00% | ~79,217 |
+| One Easy Payment | 60.00% | ~79,218 |
+| Own the Means of Production | 60.00% | ~79,218 |
 | Some Assembly Required | 58.00% | ~76,577 |
 | Pretty Penny | 57.00% | ~75,257 |
-| One-Armed Bandit | 49.00% | ~64,694 |
-| Through Repetition, Perfection | 46.00% | ~60,733 |
-| The Daily Grind | 45.00% | ~59,413 |
+| One-Armed Bandit | 49.00% | ~64,695 |
+| Through Repetition, Perfection | 46.00% | ~60,734 |
+| The Daily Grind | 45.00% | ~59,414 |
 | Bounty Hunters | 44.00% | ~58,093 |
-| Where it Hurts | 43.00% | ~56,772 |
-| Dungeon Imports | 42.00% | ~55,452 |
+| Where it Hurts | 43.00% | ~56,773 |
+| Dungeon Imports | 42.00% | ~55,453 |
 | Flooding the Market | 41.00% | ~54,132 |
 | Demand for Supplies | 38.00% | ~50,171 |
 | Gild-Gotten Goods | 37.00% | ~48,851 |
 | Did we pack lunch? | 35.00% | ~46,210 |
 | Arcane Industries | 34.00% | ~44,890 |
 | Accomplished Merchant | 31.00% | ~40,929 |
-| On the Path to Greatness | 28.00% | ~36,968 |
 | Ascended | 28.00% | ~36,968 |
 | Gem Expert | 28.00% | ~36,968 |
 | Helping Hand | 28.00% | ~36,968 |
+| On the Path to Greatness | 27.00% | ~35,648 |
 | Blank Page Syndrome | 27.00% | ~35,648 |
 | Efficient Floor Space | 27.00% | ~35,648 |
 | Vanity, Verily | 26.00% | ~34,328 |
-| Research & Development | 25.00% | ~33,007 |
+| Research & Development | 25.00% | ~33,008 |
 | Power of Love | 24.00% | ~31,687 |
 | Flawless Fusion | 24.00% | ~31,687 |
 | Natural 20 | 23.00% | ~30,367 |
@@ -60,11 +60,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Flying off the Shelves | 14.00% | ~18,484 |
 | Laden with Loot | 14.00% | ~18,484 |
 | Fat Cat Tag Team | 13.00% | ~17,164 |
-| Above the Norm | 12.00% | ~15,843 |
-| Hidden Potential | 12.00% | ~15,843 |
-| Mammonite | 12.00% | ~15,843 |
-| Attrition Mission | 12.00% | ~15,843 |
-| Complete Monopoly | 12.00% | ~15,843 |
+| Above the Norm | 12.00% | ~15,844 |
+| Hidden Potential | 12.00% | ~15,844 |
+| Mammonite | 12.00% | ~15,844 |
+| Attrition Mission | 12.00% | ~15,844 |
+| Complete Monopoly | 12.00% | ~15,844 |
 | Omae wa Mou Shindeiru | 11.00% | ~14,523 |
 | Cranked up to 11 | 11.00% | ~14,523 |
 | By Your Powers Combined... | 11.00% | ~14,523 |
@@ -85,8 +85,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Archivist | 6.00% | ~7,922 |
 | Bountiful Harvest | 6.00% | ~7,922 |
 | All Accounted For | 6.00% | ~7,922 |
-| Proud Paladin | 5.00% | ~6,601 |
-| Precision Engineering | 5.00% | ~6,601 |
+| Proud Paladin | 5.00% | ~6,602 |
+| Precision Engineering | 5.00% | ~6,602 |
 | Constellated | 4.00% | ~5,281 |
 | Industrial Evolution | 4.00% | ~5,281 |
 | Thank You Tom Nook | 4.00% | ~5,281 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.50% | ~660 |
 | Capitalist Camaraderie | 0.20% | ~264 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,029 (Ranked 60)  
+Progressed: 132,030 (Ranked 60)  
 Completed: 116 (0.09%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,6 +197,7 @@ Completed: 116 (0.09%) (Ranked 186)
 | 2023-07-04 | 131,928 | 113 |
 | 2023-07-05 | 131,970 | 115 |
 | 2023-07-06 | 132,029 | 116 |
+| 2023-07-07 | 132,030 | 116 |
 ## Awards
 Max (Great for Beginners): 4,649  (Ranked 68)  
 Sum: 26,880 (Ranked 46)  

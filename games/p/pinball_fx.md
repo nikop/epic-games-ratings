@@ -6,16 +6,16 @@ Number of Ratings: 756  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 82.00% | ~194,647 |
-| I know the Rules | 40.00% | ~94,950 |
-| Contender | 11.00% | ~26,111 |
-| I Found it! | 8.00% | ~18,990 |
-| First but not Last | 4.00% | ~9,495 |
-| Ready Steady Score | 3.00% | ~7,121 |
-| Dress Code | 3.00% | ~7,121 |
-| Full Loot Madness | 2.00% | ~4,747 |
-| My Table, my Rules | 0.90% | ~2,136 |
-| Nine Zeroes | 0.90% | ~2,136 |
+| Ball Launched | 82.00% | ~194,666 |
+| I know the Rules | 40.00% | ~94,959 |
+| Contender | 11.00% | ~26,114 |
+| I Found it! | 8.00% | ~18,992 |
+| First but not Last | 4.00% | ~9,496 |
+| Ready Steady Score | 3.00% | ~7,122 |
+| Dress Code | 3.00% | ~7,122 |
+| Full Loot Madness | 2.00% | ~4,748 |
+| My Table, my Rules | 0.90% | ~2,137 |
+| Nine Zeroes | 0.90% | ~2,137 |
 | Shiny Memento | 0.30% | ~712 |
 | Pinball Hoarder | 0.30% | ~712 |
 | Interior Designer | 0.30% | ~712 |
@@ -37,7 +37,7 @@ Number of Ratings: 756  (23.09.2022)
 | Fully Involved | 0.00% | ~0 |
 | Collect Them All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 237,374 (Ranked 44)  
+Progressed: 237,398 (Ranked 44)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,9 +115,10 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-04 | 236,643 | 0 |
 | 2023-07-05 | 236,912 | 0 |
 | 2023-07-06 | 237,374 | 0 |
+| 2023-07-07 | 237,398 | 0 |
 ## Awards
 Max (Great for Beginners): 179  (Ranked 279)  
-Sum: 1,509 (Ranked 218)  
+Sum: 1,510 (Ranked 218)  
 Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
@@ -129,7 +130,7 @@ Diff (max vs sum): 61
 | This game is Highly Recommended | 149 |
 | This game has Competitive Players | 146 |
 | This game has Challenging Combat | 102 |
-| This game has Amazing Storytelling | 100 |
+| This game has Amazing Storytelling | 101 |
 | This game has a Competitive Community | 99 |
 | This game has Amazing Characters | 90 |
 | This game has Obsessive Gameplay | 65 |
@@ -273,3 +274,4 @@ Diff (max vs sum): 61
 | 2023-06-26 | 4.04 | - | 177 | 1,506 |
 | 2023-06-27 | 4.04 | - | 178 | 1,507 |
 | 2023-07-06 | 4.04 | - | 179 | 1,509 |
+| 2023-07-07 | 4.04 | - | 179 | 1,510 |

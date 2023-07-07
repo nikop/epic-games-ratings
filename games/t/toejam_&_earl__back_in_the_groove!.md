@@ -5,7 +5,7 @@ Rating: 4.32 (Ranked 763)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Food Taster | 9.00% | ~5,006 |
+| Food Taster | 9.00% | ~5,007 |
 | Fall Fest | 7.00% | ~3,894 |
 | Thrill Seeker | 6.00% | ~3,338 |
 | Flying Present Catcher | 5.00% | ~2,781 |
@@ -55,7 +55,7 @@ Rating: 4.32 (Ranked 763)
 | Why Do I Keep Doing That? | 0.10% | ~56 |
 | Hey, You Did It! | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,626 (Ranked 81)  
+Progressed: 55,629 (Ranked 81)  
 Completed: 4 (0.01%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,6 +133,7 @@ Completed: 4 (0.01%) (Ranked 221)
 | 2023-07-04 | 55,587 | 4 |
 | 2023-07-05 | 55,602 | 4 |
 | 2023-07-06 | 55,626 | 4 |
+| 2023-07-07 | 55,629 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

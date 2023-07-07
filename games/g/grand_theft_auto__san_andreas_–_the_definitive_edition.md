@@ -37,12 +37,12 @@ Rating: 4.56 (Ranked 458)
 | Ain’t Nothing But a G Thing | 1.00% | ~110 |
 | Hoopin' it Up | 0.90% | ~99 |
 | Not a Player | 0.70% | ~77 |
-| Remastered | 0.50% | ~55 |
+| Remastered | 0.60% | ~66 |
 | ...Here we go again | 0.30% | ~33 |
 | I Ain't No Buster | 0.20% | ~22 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 10,966 (Ranked 115)  
-Completed: 25 (0.23%) (Ranked 155)  
+Completed: 26 (0.24%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -119,6 +119,7 @@ Completed: 25 (0.23%) (Ranked 155)
 | 2023-07-04 | 10,944 | 25 |
 | 2023-07-05 | 10,955 | 25 |
 | 2023-07-06 | 10,966 | 25 |
+| 2023-07-07 | 10,966 | 26 |
 ## Awards
 Max (Great Boss Battles): 205  (Ranked 264)  
 Sum: 205 (Ranked 358)  

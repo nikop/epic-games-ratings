@@ -22,14 +22,14 @@
 | LEGENDARY HERO | 12.00% | ~349 |
 | ACE DEFENDER | 11.00% | ~320 |
 | FRIENDLY | 11.00% | ~320 |
-| PERFECTLY POISED | 10.00% | ~290 |
-| BE OUR GUEST | 10.00% | ~290 |
-| THE EYE OF THE HUNTER | 10.00% | ~290 |
+| PERFECTLY POISED | 10.00% | ~291 |
+| BE OUR GUEST | 10.00% | ~291 |
+| THE EYE OF THE HUNTER | 10.00% | ~291 |
 | ACE TRICKSTER | 8.00% | ~232 |
 | EXPERIENCED CREW | 5.00% | ~145 |
 | FRAMED! | 4.00% | ~116 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,905 (Ranked 151)  
+Progressed: 2,906 (Ranked 151)  
 Completed: 89 (3.06%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,3 +106,4 @@ Completed: 89 (3.06%) (Ranked 56)
 | 2023-07-04 | 2,881 | 84 |
 | 2023-07-05 | 2,891 | 86 |
 | 2023-07-06 | 2,905 | 89 |
+| 2023-07-07 | 2,906 | 89 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-06-07T16:00:00+00:00",
@@ -354,9 +354,9 @@
       "ID": "ACH_ASSIGN_SHRINE_2",
       "SetID": "ajki3eh",
       "Name": "Faithful",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_ASSIGN_WORK_1",
@@ -570,8 +570,8 @@
   "FirstSeen": "2022-07-22T20:30:06.1147591+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.1712211+00:00",
   "LastChanged": "2023-03-31T05:57:36.3389853+00:00",
-  "LastChanged_Achievements": "2023-07-06T23:04:20.5508516+00:00",
+  "LastChanged_Achievements": "2023-07-07T00:05:17.6808288+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:36.4864004+00:00",
-  "LastUpdate_Ratings": "2023-07-06T22:58:55.5240529+00:00",
-  "LastUpdate_Achievements": "2023-07-06T23:04:20.5508725+00:00"
+  "LastUpdate_Ratings": "2023-07-06T23:59:03.2726631+00:00",
+  "LastUpdate_Achievements": "2023-07-07T00:05:17.6808552+00:00"
 }

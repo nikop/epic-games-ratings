@@ -4,7 +4,7 @@
   "ProductSlug": "bionic-bay-93dd7c",
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-01T02:26:02.3929684+00:00",
-  "LastUpdate_Ratings": "2023-07-06T22:58:16.9657674+00:00",
-  "LastUpdate_Achievements": "2023-07-06T23:06:40.5117764+00:00"
+  "LastUpdate_Ratings": "2023-07-06T23:58:22.7145834+00:00",
+  "LastUpdate_Achievements": "2023-07-07T00:07:37.8615875+00:00"
 }

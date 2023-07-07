@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 709,
+  "EOS_Progressed": 710,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1996,6 +1996,11 @@
       "Time": "2023-07-06T23:03:38.830493+00:00",
       "NumProgressed": 709,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-07T00:04:41.8901031+00:00",
+      "NumProgressed": 710,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2007,7 +2012,7 @@
       "Name": "Adventurous 1",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "adventurous_2",
@@ -2055,7 +2060,7 @@
       "Name": "Call of Mana 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "call_of_mana_2",
@@ -2175,7 +2180,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "elemental_stones_2",
@@ -2247,7 +2252,7 @@
       "Name": "Glitter of Gold 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "glitter_of_gold_2",
@@ -2534,14 +2539,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 709,
+      "Progressed": 710,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-07-06T23:03:38.8304926+00:00",
+  "LastChanged_Achievements": "2023-07-07T00:04:41.8901021+00:00",
   "LastUpdate_AppInfo": "2023-07-04T02:21:54.526557+00:00",
-  "LastUpdate_Ratings": "2023-07-06T22:57:16.6316089+00:00",
-  "LastUpdate_Achievements": "2023-07-06T23:03:38.8305522+00:00"
+  "LastUpdate_Ratings": "2023-07-06T23:57:15.2254563+00:00",
+  "LastUpdate_Achievements": "2023-07-07T00:04:41.8901724+00:00"
 }

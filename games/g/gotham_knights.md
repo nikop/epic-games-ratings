@@ -20,21 +20,21 @@ Rating: 4.18 (Ranked 853)
 | Whispered Words | 3.00% | ~1,997 |
 | Lock and Key | 3.00% | ~1,997 |
 | Bad Apples in Every Orchard | 3.00% | ~1,997 |
-| End of an Era | 2.00% | ~1,331 |
-| In Your Element | 2.00% | ~1,331 |
-| Protector of Gotham | 2.00% | ~1,331 |
-| The Show Mud Go On | 2.00% | ~1,331 |
-| Rock and a Hard Place | 2.00% | ~1,331 |
-| Not On My Watch | 2.00% | ~1,331 |
-| Bulldozed | 2.00% | ~1,331 |
-| Shock Til They Drop | 2.00% | ~1,331 |
-| Cooldown | 2.00% | ~1,331 |
-| Universal Health Scare | 2.00% | ~1,331 |
-| From Inside Gotham's Walls | 2.00% | ~1,331 |
-| Voiceless | 2.00% | ~1,331 |
-| Seeking Asylum | 2.00% | ~1,331 |
-| Gotham Knight | 2.00% | ~1,331 |
-| Gotham City Confidential | 2.00% | ~1,331 |
+| End of an Era | 2.00% | ~1,332 |
+| In Your Element | 2.00% | ~1,332 |
+| Protector of Gotham | 2.00% | ~1,332 |
+| The Show Mud Go On | 2.00% | ~1,332 |
+| Rock and a Hard Place | 2.00% | ~1,332 |
+| Not On My Watch | 2.00% | ~1,332 |
+| Bulldozed | 2.00% | ~1,332 |
+| Shock Til They Drop | 2.00% | ~1,332 |
+| Cooldown | 2.00% | ~1,332 |
+| Universal Health Scare | 2.00% | ~1,332 |
+| From Inside Gotham's Walls | 2.00% | ~1,332 |
+| Voiceless | 2.00% | ~1,332 |
+| Seeking Asylum | 2.00% | ~1,332 |
+| Gotham Knight | 2.00% | ~1,332 |
+| Gotham City Confidential | 2.00% | ~1,332 |
 | Fusion Expert | 1.00% | ~666 |
 | Out of Their League | 1.00% | ~666 |
 | Family Meeting | 1.00% | ~666 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 853)
 | History Major | 0.10% | ~67 |
 | Confronting Your Demon | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,572 (Ranked 73)  
+Progressed: 66,575 (Ranked 73)  
 Completed: 100 (0.15%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,6 +145,7 @@ Completed: 100 (0.15%) (Ranked 169)
 | 2023-07-04 | 66,441 | 100 |
 | 2023-07-05 | 66,504 | 100 |
 | 2023-07-06 | 66,572 | 100 |
+| 2023-07-07 | 66,575 | 100 |
 ## Awards
 Max (Great Boss Battles): 2,421  (Ranked 100)  
 Sum: 4,009 (Ranked 137)  

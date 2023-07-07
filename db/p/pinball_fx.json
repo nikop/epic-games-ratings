@@ -1502,10 +1502,16 @@
       "Rating": 4.04,
       "NumberOfAwards": 1509,
       "NumberOfAwardsMax": 179
+    },
+    {
+      "Time": "2023-07-07T00:00:38.6338748+00:00",
+      "Rating": 4.04,
+      "NumberOfAwards": 1510,
+      "NumberOfAwardsMax": 179
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1509,
+  "NumberOfAwards": 1510,
   "NumberOfAwardsMax": 179,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1567,7 +1573,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 100
+      "Count": 101
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1588,9 +1594,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 237374,
+  "EOS_Progressed": 237398,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2704,
+  "EOS_NewPlayers": 2710,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9913,6 +9919,11 @@
       "Time": "2023-07-06T23:04:29.5074299+00:00",
       "NumProgressed": 237374,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-07T00:05:28.1103673+00:00",
+      "NumProgressed": 237398,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -9972,7 +9983,7 @@
       "Name": "Contender",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 26111
+      "UsersEstimate": 26114
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -9988,7 +9999,7 @@
       "Name": "My Table, my Rules",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 2136
+      "UsersEstimate": 2137
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -10012,7 +10023,7 @@
       "Name": "First but not Last",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 9495
+      "UsersEstimate": 9496
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -10044,7 +10055,7 @@
       "Name": "Ready Steady Score",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7121
+      "UsersEstimate": 7122
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -10068,7 +10079,7 @@
       "Name": "Nine Zeroes",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 2136
+      "UsersEstimate": 2137
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -10084,7 +10095,7 @@
       "Name": "I Found it!",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 18990
+      "UsersEstimate": 18992
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -10092,7 +10103,7 @@
       "Name": "Full Loot Madness",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4747
+      "UsersEstimate": 4748
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -10132,7 +10143,7 @@
       "Name": "Dress Code",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7121
+      "UsersEstimate": 7122
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -10148,7 +10159,7 @@
       "Name": "Ball Launched",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 194647
+      "UsersEstimate": 194666
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -10156,22 +10167,22 @@
       "Name": "I know the Rules",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 94950
+      "UsersEstimate": 94959
     }
   ],
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 237374,
+      "Progressed": 237398,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
-  "LastChanged": "2023-07-06T21:00:03.4963951+00:00",
-  "LastChanged_Achievements": "2023-07-06T23:04:29.5074296+00:00",
+  "LastChanged": "2023-07-07T00:00:38.6338746+00:00",
+  "LastChanged_Achievements": "2023-07-07T00:05:28.1103668+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:53.8269593+00:00",
-  "LastUpdate_Ratings": "2023-07-06T23:00:18.9825164+00:00",
-  "LastUpdate_Achievements": "2023-07-06T23:04:29.5074866+00:00"
+  "LastUpdate_Ratings": "2023-07-07T00:00:38.6338753+00:00",
+  "LastUpdate_Achievements": "2023-07-07T00:05:28.1104862+00:00"
 }

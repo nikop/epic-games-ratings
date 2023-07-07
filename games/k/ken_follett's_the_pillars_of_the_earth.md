@@ -12,8 +12,8 @@ Number of Ratings: 368  (23.09.2022)
 | Yet another secret | 34.00% | ~4,672 |
 | Let there be darkness | 33.00% | ~4,534 |
 | End of Book One | 31.00% | ~4,259 |
+| Garden of Eden | 25.00% | ~3,435 |
 | Wannabe knight | 24.00% | ~3,298 |
-| Garden of Eden | 24.00% | ~3,298 |
 | Full house | 24.00% | ~3,298 |
 | Help an old friend | 22.00% | ~3,023 |
 | Two of us | 20.00% | ~2,748 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~412 |
 | Boy of mystery | 2.00% | ~275 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,740 (Ranked 110)  
+Progressed: 13,740 (Ranked 111)  
 Completed: 104 (0.76%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |

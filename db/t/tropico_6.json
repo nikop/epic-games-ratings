@@ -2,7 +2,7 @@
   "ID": "e1055bf1e5654b93a27e19e6bb86cb2a",
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
-  "Ranking_Rating": 259,
+  "Ranking_Rating": 260,
   "Ranking_Popularity": 341,
   "Ranking_PopularitySum": 277,
   "Ranking_EOS_Progress": 141,
@@ -984,9 +984,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3980,
+  "EOS_Progressed": 3981,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5659,6 +5659,11 @@
       "Time": "2023-07-06T20:05:17.914395+00:00",
       "NumProgressed": 3980,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-07T00:06:19.4411395+00:00",
+      "NumProgressed": 3981,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -5822,7 +5827,7 @@
       "Name": "The Governator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -5830,7 +5835,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3025
+      "UsersEstimate": 3026
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -5900,9 +5905,9 @@
       "ID": "ACH_SURVIVOR",
       "SetID": "1p8ab95",
       "Name": "Survivor",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_TEAMPLAYER",
@@ -5926,7 +5931,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1910
+      "UsersEstimate": 1911
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -5989,15 +5994,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3980,
+      "Progressed": 3981,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-04T00:00:06.3274924+00:00",
-  "LastChanged_Achievements": "2023-07-06T23:05:23.1070877+00:00",
+  "LastChanged_Achievements": "2023-07-07T00:06:19.4411387+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:35.9732187+00:00",
-  "LastUpdate_Ratings": "2023-07-06T23:02:00.6762582+00:00",
-  "LastUpdate_Achievements": "2023-07-06T23:05:23.107132+00:00"
+  "LastUpdate_Ratings": "2023-07-07T00:02:46.2479684+00:00",
+  "LastUpdate_Achievements": "2023-07-07T00:06:19.4412421+00:00"
 }

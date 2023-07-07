@@ -5,16 +5,16 @@ Rating: 4.26 (Ranked 801)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~150,851 |
-| Copacetic Coordination | 16.00% | ~52,470 |
-| Fronting the Money | 14.00% | ~45,911 |
-| The Dawn of Automation | 14.00% | ~45,911 |
-| Extraordinary Logistics | 14.00% | ~45,911 |
+| Corner Clout | 46.00% | ~150,853 |
+| Copacetic Coordination | 16.00% | ~52,471 |
+| Fronting the Money | 14.00% | ~45,912 |
+| The Dawn of Automation | 14.00% | ~45,912 |
+| Extraordinary Logistics | 14.00% | ~45,912 |
 | Dirty Money | 13.00% | ~42,632 |
 | Family First | 13.00% | ~42,632 |
-| Cleaning House | 12.00% | ~39,352 |
-| Room in the Back | 12.00% | ~39,352 |
-| Booze Baron | 11.00% | ~36,073 |
+| Cleaning House | 12.00% | ~39,353 |
+| Room in the Back | 12.00% | ~39,353 |
+| Booze Baron | 11.00% | ~36,074 |
 | Beating the Heat | 10.00% | ~32,794 |
 | Friends on the Force | 10.00% | ~32,794 |
 | Neighborhood Watch | 10.00% | ~32,794 |
@@ -36,11 +36,11 @@ Rating: 4.26 (Ranked 801)
 | Moving Experiences | 5.00% | ~16,397 |
 | Mission Mastery | 5.00% | ~16,397 |
 | Wise Head | 5.00% | ~16,397 |
-| Considerable Clams | 4.00% | ~13,117 |
-| Gin Joint | 4.00% | ~13,117 |
-| An Affront to the Enemy | 4.00% | ~13,117 |
-| Friends from Back Home | 4.00% | ~13,117 |
-| Half Century Mark | 4.00% | ~13,117 |
+| Considerable Clams | 4.00% | ~13,118 |
+| Gin Joint | 4.00% | ~13,118 |
+| An Affront to the Enemy | 4.00% | ~13,118 |
+| Friends from Back Home | 4.00% | ~13,118 |
+| Half Century Mark | 4.00% | ~13,118 |
 | Corner Opportunities | 3.00% | ~9,838 |
 | 2122 North Clark Street | 3.00% | ~9,838 |
 | Copious Cabbage | 3.00% | ~9,838 |
@@ -61,7 +61,7 @@ Rating: 4.26 (Ranked 801)
 | Cat’s Meow Clubs | 1.00% | ~3,279 |
 | Determined Deliveries | 0.90% | ~2,951 |
 | Stepping It Up | 0.90% | ~2,951 |
-| Crossing Over | 0.80% | ~2,623 |
+| Crossing Over | 0.80% | ~2,624 |
 | Boots in the Ground | 0.70% | ~2,296 |
 | Getting Fancy | 0.70% | ~2,296 |
 | Homemade Hooch | 0.40% | ~1,312 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 801)
 | High Pillow | 0.10% | ~328 |
 | Station Master | 0.10% | ~328 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 327,936 (Ranked 40)  
+Progressed: 327,941 (Ranked 40)  
 Completed: 5 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,6 +164,7 @@ Completed: 5 (0.00%) (Ranked 236)
 | 2023-07-04 | 327,471 | 5 |
 | 2023-07-05 | 327,715 | 5 |
 | 2023-07-06 | 327,936 | 5 |
+| 2023-07-07 | 327,941 | 5 |
 ## Awards
 Max (Highly Recommended): 27  (Ranked 464)  
 Sum: 115 (Ranked 401)  

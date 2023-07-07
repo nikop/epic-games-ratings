@@ -514,9 +514,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 8886,
+  "EOS_Progressed": 8887,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -5949,6 +5949,11 @@
       "Time": "2023-07-06T22:03:04.1665899+00:00",
       "NumProgressed": 8886,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-07-07T00:03:39.362758+00:00",
+      "NumProgressed": 8887,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 34,
@@ -6064,7 +6069,7 @@
       "Name": "Greasy Palms",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3554
+      "UsersEstimate": 3555
     },
     {
       "ID": "ACH15",
@@ -6128,7 +6133,7 @@
       "Name": "Life of the Party",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1688
+      "UsersEstimate": 1689
     },
     {
       "ID": "ACH23",
@@ -6231,7 +6236,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8886,
+      "Progressed": 8887,
       "Completed": 42
     }
   ],
@@ -6239,8 +6244,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-06T10:58:46.2508244+00:00",
-  "LastChanged_Achievements": "2023-07-06T23:02:44.6446397+00:00",
+  "LastChanged_Achievements": "2023-07-07T00:03:39.3627574+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:48.6744993+00:00",
-  "LastUpdate_Ratings": "2023-07-06T22:59:08.3063564+00:00",
-  "LastUpdate_Achievements": "2023-07-06T23:02:44.64469+00:00"
+  "LastUpdate_Ratings": "2023-07-06T23:59:20.068561+00:00",
+  "LastUpdate_Achievements": "2023-07-07T00:03:39.3634057+00:00"
 }
