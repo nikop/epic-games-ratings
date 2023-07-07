@@ -6,25 +6,25 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 89.00% | ~889,565 |
-| I Need a Bigger Garage | 63.00% | ~629,692 |
-| Pump my Ride | 46.00% | ~459,775 |
-| Ghostbuster | 32.00% | ~319,844 |
-| That Was Close | 18.00% | ~179,912 |
-| Call Roadside Assistance | 17.00% | ~169,917 |
-| Quickie | 10.00% | ~99,951 |
-| California Dreamer | 7.00% | ~69,966 |
-| Can't Touch This | 5.00% | ~49,976 |
-| Carménère Taster | 3.00% | ~29,985 |
-| Comeback | 3.00% | ~29,985 |
-| Marathonist | 3.00% | ~29,985 |
-| Living Legend | 3.00% | ~29,985 |
-| Driver from Ipanema | 2.00% | ~19,990 |
-| Pathfinder | 2.00% | ~19,990 |
-| Go-Kart Champion | 2.00% | ~19,990 |
-| Completionist | 2.00% | ~19,990 |
-| Supersonic | 2.00% | ~19,990 |
-| Harder, Better, Faster, Stronger | 2.00% | ~19,990 |
+| The First of Many | 89.00% | ~889,598 |
+| I Need a Bigger Garage | 63.00% | ~629,715 |
+| Pump my Ride | 46.00% | ~459,792 |
+| Ghostbuster | 32.00% | ~319,855 |
+| That Was Close | 18.00% | ~179,919 |
+| Call Roadside Assistance | 17.00% | ~169,923 |
+| Quickie | 10.00% | ~99,955 |
+| California Dreamer | 7.00% | ~69,968 |
+| Can't Touch This | 5.00% | ~49,977 |
+| Carménère Taster | 3.00% | ~29,986 |
+| Comeback | 3.00% | ~29,986 |
+| Marathonist | 3.00% | ~29,986 |
+| Living Legend | 3.00% | ~29,986 |
+| Driver from Ipanema | 2.00% | ~19,991 |
+| Pathfinder | 2.00% | ~19,991 |
+| Go-Kart Champion | 2.00% | ~19,991 |
+| Completionist | 2.00% | ~19,991 |
+| Supersonic | 2.00% | ~19,991 |
+| Harder, Better, Faster, Stronger | 2.00% | ~19,991 |
 | God of Roads | 1.00% | ~9,995 |
 | The Iceman | 1.00% | ~9,995 |
 | Oil Tycoon | 1.00% | ~9,995 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,000 |
 | Look Mom, No Hands! | 0.10% | ~1,000 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 999,511 (Ranked 12)  
+Progressed: 999,548 (Ranked 12)  
 Completed: 343 (0.03%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 343 (0.03%) (Ranked 208)
 | 2023-07-04 | 997,254 | 339 |
 | 2023-07-05 | 997,962 | 340 |
 | 2023-07-06 | 998,728 | 341 |
-| 2023-07-07 | 999,511 | 343 |
+| 2023-07-07 | 999,548 | 343 |
 ## Awards
 Max (Great for Beginners): 148  (Ranked 292)  
 Sum: 1,200 (Ranked 229)  

@@ -358,7 +358,7 @@
   "Tags": [],
   "EOS_Progressed": 5714,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3239,9 +3239,9 @@
       "ID": "Ashley",
       "SetID": "bmkn7o4",
       "Name": "Ashley",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 17
     },
     {
       "ID": "BBrahrnold",
@@ -3781,8 +3781,8 @@
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-03-31T05:57:11.1498515+00:00",
-  "LastChanged_Achievements": "2023-07-07T22:07:34.8023485+00:00",
+  "LastChanged_Achievements": "2023-07-07T23:05:47.0992613+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:22.8529128+00:00",
-  "LastUpdate_Ratings": "2023-07-07T21:57:41.4172421+00:00",
-  "LastUpdate_Achievements": "2023-07-07T22:07:34.8024401+00:00"
+  "LastUpdate_Ratings": "2023-07-07T22:57:48.0556569+00:00",
+  "LastUpdate_Achievements": "2023-07-07T23:05:47.0994228+00:00"
 }

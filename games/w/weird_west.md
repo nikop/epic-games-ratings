@@ -6,26 +6,26 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 87.00% | ~1,465 |
-| Self-Improvement | 72.00% | ~1,212 |
-| Perky | 66.00% | ~1,111 |
-| Let’s Ride | 60.00% | ~1,010 |
+| Unforgiven | 87.00% | ~1,466 |
+| Self-Improvement | 72.00% | ~1,213 |
+| Perky | 66.00% | ~1,112 |
+| Let’s Ride | 60.00% | ~1,011 |
 | Welcome to the Weird West | 57.00% | ~960 |
-| Dead or Alive | 56.00% | ~943 |
+| Dead or Alive | 56.00% | ~944 |
 | Full House | 37.00% | ~623 |
 | Off the Trail | 34.00% | ~573 |
-| Justice Served | 29.00% | ~488 |
+| Justice Served | 29.00% | ~489 |
 | Chain Reaction | 27.00% | ~455 |
 | Through Their Eyes | 26.00% | ~438 |
 | Dishonored | 25.00% | ~421 |
 | Rain of Death | 25.00% | ~421 |
 | Scholar | 25.00% | ~421 |
-| The Great Escape | 23.00% | ~387 |
+| The Great Escape | 23.00% | ~388 |
 | That’s All, Folks | 19.00% | ~320 |
-| Fallen Star | 16.00% | ~269 |
-| For Balance | 16.00% | ~269 |
-| Here Comes Santa Claus | 16.00% | ~269 |
-| Winds of War | 16.00% | ~269 |
+| Fallen Star | 16.00% | ~270 |
+| For Balance | 16.00% | ~270 |
+| Here Comes Santa Claus | 16.00% | ~270 |
+| Winds of War | 16.00% | ~270 |
 | Dog Days | 13.00% | ~219 |
 | Workers' Rights | 13.00% | ~219 |
 | Elusive Prey | 12.00% | ~202 |
@@ -50,9 +50,9 @@ Number of Ratings: 125  (23.09.2022)
 | Ghost Town | 3.00% | ~51 |
 | Moondrunk | 3.00% | ~51 |
 | Lord Inut Sends His Regards | 2.00% | ~34 |
-| I Kicked a Bird and I Liked it | 1.00% | ~17 |
 | Hog Wild | 1.00% | ~17 |
 | 'Ma Barker | 1.00% | ~17 |
+| I Kicked a Bird and I Liked it | 0.90% | ~15 |
 | Explorer | 0.50% | ~8 |
 | End the world | 0.50% | ~8 |
 | Dirt and Blame | 0.40% | ~7 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.40% | ~7 |
 | Winter Has Come | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,684 (Ranked 167)  
+Progressed: 1,685 (Ranked 167)  
 Completed: 3 (0.18%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 3 (0.18%) (Ranked 165)
 | 2023-07-04 | 1,679 | 3 |
 | 2023-07-05 | 1,681 | 3 |
 | 2023-07-06 | 1,682 | 3 |
-| 2023-07-07 | 1,684 | 3 |
+| 2023-07-07 | 1,685 | 3 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 475)  
 Sum: 24 (Ranked 481)  

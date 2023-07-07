@@ -6,22 +6,22 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,220 |
-| The Mad Wizard | 11.00% | ~22,894 |
-| The Ring of Regeneration | 7.00% | ~14,569 |
-| Are Ya Chicken? | 7.00% | ~14,569 |
-| Were-verpowered | 5.00% | ~10,406 |
-| Seeking Allies | 5.00% | ~10,406 |
-| Mad Cow Disease | 5.00% | ~10,406 |
-| Friendly Imps | 5.00% | ~10,406 |
-| A Persistent Buzzing | 4.00% | ~8,325 |
-| Pure Energy | 4.00% | ~8,325 |
-| Beast Mode | 3.00% | ~6,244 |
-| Terror in the Dark | 3.00% | ~6,244 |
-| Unearthed Evil | 3.00% | ~6,244 |
-| The Crumbling Temple | 3.00% | ~6,244 |
-| Exploring Port Nyanzaru | 3.00% | ~6,244 |
-| The Contagious Curse | 3.00% | ~6,244 |
+| The Cursed Farmer | 15.00% | ~31,223 |
+| The Mad Wizard | 11.00% | ~22,897 |
+| The Ring of Regeneration | 7.00% | ~14,571 |
+| Are Ya Chicken? | 7.00% | ~14,571 |
+| Were-verpowered | 5.00% | ~10,408 |
+| Seeking Allies | 5.00% | ~10,408 |
+| Mad Cow Disease | 5.00% | ~10,408 |
+| Friendly Imps | 5.00% | ~10,408 |
+| A Persistent Buzzing | 4.00% | ~8,326 |
+| Pure Energy | 4.00% | ~8,326 |
+| Beast Mode | 3.00% | ~6,245 |
+| Terror in the Dark | 3.00% | ~6,245 |
+| Unearthed Evil | 3.00% | ~6,245 |
+| The Crumbling Temple | 3.00% | ~6,245 |
+| Exploring Port Nyanzaru | 3.00% | ~6,245 |
+| The Contagious Curse | 3.00% | ~6,245 |
 | Low Initiative | 2.00% | ~4,163 |
 | A Mysterious Summons | 2.00% | ~4,163 |
 | Building Trust | 2.00% | ~4,163 |
@@ -33,19 +33,19 @@ Number of Ratings: 9,041  (23.09.2022)
 | Underdeep Cartography | 2.00% | ~4,163 |
 | Overdue Rendezvous | 2.00% | ~4,163 |
 | The Templar's Camp | 2.00% | ~4,163 |
-| Homecoming | 1.00% | ~2,081 |
-| Street War | 1.00% | ~2,081 |
-| March of the Undead | 1.00% | ~2,081 |
-| Invisible Shadows | 1.00% | ~2,081 |
-| The Dinner Party | 1.00% | ~2,081 |
-| The Botched Kidnapping | 1.00% | ~2,081 |
-| The Death Curse | 1.00% | ~2,081 |
-| Premature Betrayal | 1.00% | ~2,081 |
-| A Tale of Two Cities | 1.00% | ~2,081 |
-| Flying Monkey Skulls of Doom | 1.00% | ~2,081 |
-| Close Escort | 1.00% | ~2,081 |
-| Constant Banditry | 1.00% | ~2,081 |
-| Rescue in the Jungle | 1.00% | ~2,081 |
+| Homecoming | 1.00% | ~2,082 |
+| Street War | 1.00% | ~2,082 |
+| March of the Undead | 1.00% | ~2,082 |
+| Invisible Shadows | 1.00% | ~2,082 |
+| The Dinner Party | 1.00% | ~2,082 |
+| The Botched Kidnapping | 1.00% | ~2,082 |
+| The Death Curse | 1.00% | ~2,082 |
+| Premature Betrayal | 1.00% | ~2,082 |
+| A Tale of Two Cities | 1.00% | ~2,082 |
+| Flying Monkey Skulls of Doom | 1.00% | ~2,082 |
+| Close Escort | 1.00% | ~2,082 |
+| Constant Banditry | 1.00% | ~2,082 |
+| Rescue in the Jungle | 1.00% | ~2,082 |
 | The Lost Heir of Omu | 0.90% | ~1,873 |
 | Trollskull Manor | 0.90% | ~1,873 |
 | Dinosaur Racing | 0.90% | ~1,873 |
@@ -227,6 +227,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Relay Race | 0.20% | ~416 |
 | An Illithid Ambush | 0.20% | ~349 |
 | A Difficult Descent | 0.20% | ~349 |
+| The Devil Arrives | 0.20% | ~349 |
 | Dream Gauntlet | 0.20% | ~349 |
 | Zombie Dreams | 0.20% | ~349 |
 | The Path of Redcaps | 0.20% | ~349 |
@@ -325,7 +326,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wait, What? | 0.10% | ~174 |
 | Ireena von Zarovich | 0.10% | ~174 |
 | Déjà Vu All Over Again | 0.10% | ~174 |
-| The Devil Arrives | 0.10% | ~174 |
 | Hearts Aflame | 0.10% | ~174 |
 | Look Out! | 0.10% | ~174 |
 | Bad Odds in Avernus | 0.10% | ~174 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,130 (Ranked 52)  
+Progressed: 208,152 (Ranked 52)  
 Completed: 2,037 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -588,7 +588,7 @@ Completed: 2,037 (0.98%) (Ranked 101)
 | 2023-07-04 | 206,280 | 2,028 |
 | 2023-07-05 | 206,889 | 2,032 |
 | 2023-07-06 | 207,486 | 2,035 |
-| 2023-07-07 | 208,130 | 2,037 |
+| 2023-07-07 | 208,152 | 2,037 |
 ## Awards
 Max (Diverse Characters): 5,013  (Ranked 65)  
 Sum: 30,436 (Ranked 37)  

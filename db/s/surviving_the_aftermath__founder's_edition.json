@@ -1101,9 +1101,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 7170,
+  "EOS_Progressed": 7171,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 224,
+  "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7531,6 +7531,11 @@
       "Time": "2023-07-07T22:06:27.0490561+00:00",
       "NumProgressed": 7170,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-07T23:04:49.4231493+00:00",
+      "NumProgressed": 7171,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -7574,7 +7579,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3800
+      "UsersEstimate": 3801
     },
     {
       "ID": "14",
@@ -7622,7 +7627,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 3728
+      "UsersEstimate": 3729
     },
     {
       "ID": "2",
@@ -7718,7 +7723,7 @@
       "Name": "Great Leader",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1577
+      "UsersEstimate": 1578
     },
     {
       "ID": "30",
@@ -7854,7 +7859,7 @@
       "Name": "Look, no Hands!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "46",
@@ -7894,7 +7899,7 @@
       "Name": "Big Catastrofan",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "50",
@@ -7934,7 +7939,7 @@
       "Name": "Top Notch",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1792
+      "UsersEstimate": 1793
     },
     {
       "ID": "55",
@@ -7990,7 +7995,7 @@
       "Name": "Survivor",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2294
+      "UsersEstimate": 2295
     },
     {
       "ID": "8",
@@ -7998,7 +8003,7 @@
       "Name": "Real Survivor",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1577
+      "UsersEstimate": 1578
     },
     {
       "ID": "9",
@@ -8013,15 +8018,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 7170,
+      "Progressed": 7171,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-07-07T12:01:01.0535513+00:00",
-  "LastChanged_Achievements": "2023-07-07T22:06:27.0490555+00:00",
+  "LastChanged_Achievements": "2023-07-07T23:04:49.4231483+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:15.1648754+00:00",
-  "LastUpdate_Ratings": "2023-07-07T22:00:57.2156631+00:00",
-  "LastUpdate_Achievements": "2023-07-07T22:06:27.0492256+00:00"
+  "LastUpdate_Ratings": "2023-07-07T23:00:32.7758297+00:00",
+  "LastUpdate_Achievements": "2023-07-07T23:04:49.4232471+00:00"
 }

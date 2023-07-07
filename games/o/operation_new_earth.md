@@ -19,9 +19,9 @@
 | Fighting for Survival | 10.00% | ~36 |
 | Silver Competitor | 10.00% | ~36 |
 | Captain | 9.00% | ~33 |
+| Factory Expansion | 8.00% | ~29 |
 | Exterminator | 7.00% | ~25 |
 | Brothers in Arms | 7.00% | ~25 |
-| Factory Expansion | 7.00% | ~25 |
 | Know The Enemy | 4.00% | ~14 |
 | Player Betrayer | 4.00% | ~14 |
 | Silver Achiever | 4.00% | ~14 |

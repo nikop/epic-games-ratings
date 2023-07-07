@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 74,
-  "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14648,
+  "EOS_Progressed": 14650,
   "EOS_Completed": 308,
-  "EOS_NewPlayers": 637,
+  "EOS_NewPlayers": 629,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -8524,6 +8524,11 @@
       "Time": "2023-07-07T22:03:33.5221848+00:00",
       "NumProgressed": 14648,
       "NumCompleted": 308
+    },
+    {
+      "Time": "2023-07-07T23:02:21.0049945+00:00",
+      "NumProgressed": 14650,
+      "NumCompleted": 308
     }
   ],
   "TotalAchievements": 20,
@@ -8533,9 +8538,9 @@
       "ID": "COMPLETED_MAP",
       "SetID": "b6m2mm5",
       "Name": "Cartographer",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 2490
+      "UsersEstimate": 2637
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -8551,7 +8556,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2197
+      "UsersEstimate": 2198
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -8599,7 +8604,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2197
+      "UsersEstimate": 2198
     },
     {
       "ID": "FOUND_ERIN",
@@ -8639,7 +8644,7 @@
       "Name": "Written in stone",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1026
     },
     {
       "ID": "GAME_FINISHED",
@@ -8655,7 +8660,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 11132
+      "UsersEstimate": 11134
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -8663,7 +8668,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 4101
+      "UsersEstimate": 4102
     },
     {
       "ID": "NORTH_FINISHED",
@@ -8679,7 +8684,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1026
     },
     {
       "ID": "WEST_FINISHED",
@@ -8687,22 +8692,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 2783
+      "UsersEstimate": 2784
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 14648,
+      "Progressed": 14650,
       "Completed": 308
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-07-07T22:03:33.5221841+00:00",
+  "LastChanged_Achievements": "2023-07-07T23:02:21.0049938+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:31.8640473+00:00",
-  "LastUpdate_Ratings": "2023-07-07T22:01:10.8690783+00:00",
-  "LastUpdate_Achievements": "2023-07-07T22:03:33.5222754+00:00"
+  "LastUpdate_Ratings": "2023-07-07T23:00:45.8023572+00:00",
+  "LastUpdate_Achievements": "2023-07-07T23:02:21.0050851+00:00"
 }

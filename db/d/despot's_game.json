@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 404,
+  "EOS_Progressed": 405,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -305,6 +305,11 @@
       "Time": "2023-07-03T10:06:55.0628957+00:00",
       "NumProgressed": 404,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-07T23:02:08.3327267+00:00",
+      "NumProgressed": 405,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -388,7 +393,7 @@
       "Name": "Fat of the Earth",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "finished-quest-cube",
@@ -418,9 +423,9 @@
       "ID": "finished-quest-nurgle",
       "SetID": "799afm0",
       "Name": "Feed a God",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 81
     },
     {
       "ID": "finished-quest-pit",
@@ -450,9 +455,9 @@
       "ID": "finished-quest-sci",
       "SetID": "799afm0",
       "Name": "Knowledge is Power",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 174
     },
     {
       "ID": "finished-quest-secret",
@@ -492,7 +497,7 @@
       "Name": "Last Man Standing",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "save-zombie",
@@ -532,7 +537,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "win-first-level",
@@ -540,7 +545,7 @@
       "Name": "Good start!",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "win-koth-fights1",
@@ -580,7 +585,7 @@
       "Name": "Honorary Cultist",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "win-with-mrakus",
@@ -595,7 +600,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 404,
+      "Progressed": 405,
       "Completed": 1
     }
   ],
@@ -603,8 +608,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-07-07T22:02:22.0915928+00:00",
+  "LastChanged_Achievements": "2023-07-07T23:02:08.3327259+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:25.2964157+00:00",
-  "LastUpdate_Ratings": "2023-07-07T21:59:19.7591352+00:00",
-  "LastUpdate_Achievements": "2023-07-07T22:02:22.0916217+00:00"
+  "LastUpdate_Ratings": "2023-07-07T22:59:10.998006+00:00",
+  "LastUpdate_Achievements": "2023-07-07T23:02:08.3327554+00:00"
 }

@@ -700,9 +700,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6350,
+  "EOS_Progressed": 6351,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3255,6 +3255,11 @@
       "Time": "2023-07-07T20:03:39.2484082+00:00",
       "NumProgressed": 6350,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-07T23:04:20.7683513+00:00",
+      "NumProgressed": 6351,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -3282,7 +3287,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 2984
+      "UsersEstimate": 2985
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -3322,7 +3327,7 @@
       "Name": "Dante\u0027s Inferno",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "ISONZO_ACH_DECIMATION",
@@ -3394,7 +3399,7 @@
       "Name": "Insubordination",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1207
     },
     {
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
@@ -3466,7 +3471,7 @@
       "Name": "Ponte of No Return",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ISONZO_ACH_RAGAZZI_DEL_99",
@@ -3498,7 +3503,7 @@
       "Name": "Seeing Red",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ISONZO_ACH_SHAKEN_NOT_STIRRED",
@@ -3514,7 +3519,7 @@
       "Name": "Silver Lining",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 1841
+      "UsersEstimate": 1842
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -3522,7 +3527,7 @@
       "Name": "So\u010Da Drag",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ISONZO_ACH_SUPER_MARIO",
@@ -3538,7 +3543,7 @@
       "Name": "The Devil\u0027s Paintbrush",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "ISONZO_ACH_THE_ENLIGHTMENT",
@@ -3625,7 +3630,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6350,
+      "Progressed": 6351,
       "Completed": 8
     }
   ],
@@ -3633,8 +3638,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-07-04T13:15:35.7816607+00:00",
-  "LastChanged_Achievements": "2023-07-07T22:05:41.7385972+00:00",
+  "LastChanged_Achievements": "2023-07-07T23:04:20.7683506+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:30.8690584+00:00",
-  "LastUpdate_Ratings": "2023-07-07T21:57:51.2308398+00:00",
-  "LastUpdate_Achievements": "2023-07-07T22:05:41.7386524+00:00"
+  "LastUpdate_Ratings": "2023-07-07T22:57:56.4244394+00:00",
+  "LastUpdate_Achievements": "2023-07-07T23:04:20.7684279+00:00"
 }
