@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 428,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
@@ -277,9 +277,9 @@
       "Count": 72
     }
   ],
-  "EOS_Progressed": 749,
+  "EOS_Progressed": 750,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -552,6 +552,11 @@
       "Time": "2023-07-07T14:06:37.4866904+00:00",
       "NumProgressed": 749,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-07T17:16:24.8969783+00:00",
+      "NumProgressed": 750,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -595,7 +600,7 @@
       "Name": "Astronomer",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "AchievementAstrophysicist",
@@ -659,7 +664,7 @@
       "Name": "Builder",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "AchievementCloseCall",
@@ -683,7 +688,7 @@
       "Name": "Critical care",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "AchievementDealmaker",
@@ -723,7 +728,7 @@
       "Name": "Environmental activist",
       "Percentage": 1,
       "XP": 45,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "AchievementForgotSomething",
@@ -731,7 +736,7 @@
       "Name": "Forgot something",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "AchievementForgotten",
@@ -787,7 +792,7 @@
       "Name": "Individual delivery",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "AchievementIndustrialAge",
@@ -811,7 +816,7 @@
       "Name": "Innovator",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "AchievementItsNoCoincidence",
@@ -851,7 +856,7 @@
       "Name": "Just in time!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "AchievementLargeConstruction",
@@ -931,7 +936,7 @@
       "Name": "Need to think",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "AchievementNonStop",
@@ -955,7 +960,7 @@
       "Name": "Ouroboros",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "AchievementOverseer",
@@ -1099,7 +1104,7 @@
       "Name": "Upgrade complete",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "AchievementUrbanizationAge",
@@ -1139,7 +1144,7 @@
       "Name": "Will work",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "AchievementWithoutALunchBreak",
@@ -1155,28 +1160,28 @@
       "Name": "Woodcutter",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     }
   ],
   "AchievementSets": [
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 90,
+      "Progressed": 91,
       "Completed": 6
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 749,
+      "Progressed": 750,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-06-28T09:58:02.8229732+00:00",
-  "LastChanged_Achievements": "2023-07-07T16:04:58.7903872+00:00",
+  "LastChanged_Achievements": "2023-07-07T17:16:24.8969777+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:34.7563468+00:00",
-  "LastUpdate_Ratings": "2023-07-07T15:57:39.7951036+00:00",
-  "LastUpdate_Achievements": "2023-07-07T16:04:58.7904503+00:00"
+  "LastUpdate_Ratings": "2023-07-07T16:57:59.0066156+00:00",
+  "LastUpdate_Achievements": "2023-07-07T17:16:24.8970635+00:00"
 }

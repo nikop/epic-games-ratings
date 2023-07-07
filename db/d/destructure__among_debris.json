@@ -845,9 +845,9 @@
       "ID": "master_destructor",
       "SetID": "jig50d",
       "Name": "Master Destructor",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "medium_rare",
@@ -974,8 +974,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-07-07T16:03:08.3435776+00:00",
+  "LastChanged_Achievements": "2023-07-07T17:12:19.0916943+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:20.4566425+00:00",
-  "LastUpdate_Ratings": "2023-07-07T15:59:49.8742153+00:00",
-  "LastUpdate_Achievements": "2023-07-07T16:03:08.3435995+00:00"
+  "LastUpdate_Ratings": "2023-07-07T17:00:38.2170162+00:00",
+  "LastUpdate_Achievements": "2023-07-07T17:12:19.0917394+00:00"
 }

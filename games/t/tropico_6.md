@@ -1,7 +1,7 @@
 # Tropico 6
 [Store](https://store.epicgames.com/en-US/p/tropico-6)  
 [View Rawdata](../../db/t/tropico_6.json)  
-Rating: 4.67 (Ranked 259)  
+Rating: 4.67 (Ranked 258)  
 Number of Ratings: 398  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,7 +9,7 @@ Number of Ratings: 398  (23.09.2022)
 | Just One...More...Term... | 76.00% | ~3,028 |
 | Un-Lonely Island | 48.00% | ~1,912 |
 | The Beginning of a Servantship | 45.00% | ~1,793 |
-| Trade Is My Trait | 37.00% | ~1,474 |
+| Trade Is My Trait | 38.00% | ~1,514 |
 | Number 18 | 24.00% | ~956 |
 | We Don't Have Time For That | 20.00% | ~797 |
 | The Governator | 18.00% | ~717 |

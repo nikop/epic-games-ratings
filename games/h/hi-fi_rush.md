@@ -16,24 +16,26 @@ Rating: 4.87 (Ranked 25)
 | The Negotiator | 0.30% | ~10 |
 | Headliner | 0.30% | ~10 |
 | Thanks for the free chip, Peppermint! | 0.30% | ~10 |
+| Whoa! There's ANOTHER health bar!? | 0.30% | ~10 |
 | You got this, Peppermint? | 0.30% | ~10 |
 | Z-shielding's got nothing on us! | 0.30% | ~10 |
 | Out in a puff of smoke | 0.30% | ~10 |
+| Perfect Parry | 0.30% | ~10 |
+| Perfecter Parry-er! | 0.30% | ~10 |
 | Uh, they were broken when I got here | 0.30% | ~10 |
+| Alright, that felt AWESOME! | 0.30% | ~10 |
 | Start with a bang! | 0.20% | ~7 |
 | Well that was a rush! | 0.20% | ~7 |
-| Whoa! There's ANOTHER health bar!? | 0.20% | ~7 |
 | I have to read these things? | 0.20% | ~7 |
 | Feeling the beat! | 0.20% | ~7 |
 | You must like calling me in, Chai | 0.20% | ~7 |
-| Perfect Parry | 0.20% | ~7 |
-| Perfecter Parry-er! | 0.20% | ~7 |
 | That's a lot of junk metal… | 0.20% | ~7 |
 | Kissing the sky! | 0.20% | ~7 |
 | I look cool. But I can look COOLER. | 0.20% | ~7 |
-| Alright, that felt AWESOME! | 0.20% | ~7 |
+| There's such a thing as TOO helpful | 0.20% | ~7 |
 | You can pet the cat! | 0.20% | ~7 |
 | Does that say weakpoint? | 0.20% | ~7 |
+| Check out my moves! | 0.20% | ~7 |
 | New bad guys? No problem! | 0.20% | ~4 |
 | Easy Listening | 0.10% | ~3 |
 | I think I deserve some praise, here! | 0.10% | ~3 |
@@ -45,12 +47,10 @@ Rating: 4.87 (Ranked 25)
 | We're Jammin' | 0.10% | ~3 |
 | Now this is how you fight like a team! | 0.10% | ~3 |
 | This was... not what I expected. | 0.10% | ~3 |
-| There's such a thing as TOO helpful | 0.10% | ~3 |
 | I hit things with a guitar really well. | 0.10% | ~3 |
 | Wanna hear my playlist? | 0.10% | ~3 |
 | I told you I'd be fine, Peppermint! | 0.10% | ~3 |
 | I saw all those hits coming a measure away! | 0.10% | ~3 |
-| Check out my moves! | 0.10% | ~3 |
 | Choose your own adventure | 0.10% | ~2 |
 | It'll do, CNMN | 0.10% | ~2 |
 | Please don't make this awkward | 0.10% | ~2 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 25)
 | Voices from within | 0.00% | ~0 |
 | Low budget finish | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,415 (Ranked 145)  
+Progressed: 3,417 (Ranked 145)  
 Completed: 5 (0.15%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 5 (0.15%) (Ranked 169)
 | 2023-07-04 | 3,402 | 5 |
 | 2023-07-05 | 3,407 | 5 |
 | 2023-07-06 | 3,411 | 5 |
-| 2023-07-07 | 3,415 | 5 |
+| 2023-07-07 | 3,417 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

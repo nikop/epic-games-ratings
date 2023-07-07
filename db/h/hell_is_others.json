@@ -664,7 +664,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 252584,
+  "EOS_Progressed": 252587,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 454,
   "EOS_NewCompleters": 0,
@@ -8609,6 +8609,11 @@
       "Time": "2023-07-07T16:04:34.8155193+00:00",
       "NumProgressed": 252584,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-07T17:15:54.3490093+00:00",
+      "NumProgressed": 252587,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 56,
@@ -8668,7 +8673,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78301
+      "UsersEstimate": 78302
     },
     {
       "ID": "BackHomeNTimes",
@@ -8724,7 +8729,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25258
+      "UsersEstimate": 25259
     },
     {
       "ID": "CreditLevel2",
@@ -8908,7 +8913,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55568
+      "UsersEstimate": 55569
     },
     {
       "ID": "KillOthers2",
@@ -9012,7 +9017,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25258
+      "UsersEstimate": 25259
     },
     {
       "ID": "ReachNDays2",
@@ -9067,7 +9072,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 252584,
+      "Progressed": 252587,
       "Completed": 2
     }
   ],
@@ -9075,8 +9080,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-07-06T21:01:42.966299+00:00",
-  "LastChanged_Achievements": "2023-07-07T16:04:34.8155187+00:00",
+  "LastChanged_Achievements": "2023-07-07T17:15:54.3490088+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:43.1031791+00:00",
-  "LastUpdate_Ratings": "2023-07-07T16:00:01.9535057+00:00",
-  "LastUpdate_Achievements": "2023-07-07T16:04:34.8156049+00:00"
+  "LastUpdate_Ratings": "2023-07-07T17:00:54.3700409+00:00",
+  "LastUpdate_Achievements": "2023-07-07T17:15:54.3491078+00:00"
 }

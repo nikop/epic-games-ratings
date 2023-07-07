@@ -33,6 +33,7 @@
 | Xevarian Gambit | 2.00% | ~2 |
 | Deputized | 2.00% | ~2 |
 | Despised | 2.00% | ~2 |
+| A Terrible Will | 2.00% | ~2 |
 | Inquisitions of Discord | 2.00% | ~2 |
 | Unseen Patterns | 2.00% | ~2 |
 | Bounty Hunter | 0.90% | ~1 |
@@ -42,7 +43,6 @@
 | Business As Usual | 0.90% | ~1 |
 | Legacy of a Mercenary | 0.90% | ~1 |
 | Trailblazer | 0.90% | ~1 |
-| A Terrible Will | 0.90% | ~1 |
 | Delayed | 0.90% | ~1 |
 | Ruiner | 0.90% | ~1 |
 | Life... Finds a Way | 0.90% | ~1 |

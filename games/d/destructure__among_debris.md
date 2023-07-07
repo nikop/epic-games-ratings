@@ -9,8 +9,8 @@
 | Rookie | 70.00% | ~105 |
 | Apprentice Destructor | 29.00% | ~44 |
 | I Prefer Jazz Fusion | 11.00% | ~16 |
+| Master Destructor | 10.00% | ~15 |
 | Avaricerite | 9.00% | ~14 |
-| Master Destructor | 9.00% | ~14 |
 | Ball Galore | 7.00% | ~11 |
 | Easy Victory | 7.00% | ~11 |
 | Legendary Destructor | 5.00% | ~8 |

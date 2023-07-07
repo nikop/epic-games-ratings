@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | To Suffer is to Learn | 6.00% | ~190 |
-| Persephone's Guidance | 5.00% | ~158 |
-| Lochos | 5.00% | ~158 |
-| Strength of Herakles | 5.00% | ~158 |
-| Initiate's Resolve | 5.00% | ~158 |
+| Persephone's Guidance | 5.00% | ~159 |
+| Lochos | 5.00% | ~159 |
+| Strength of Herakles | 5.00% | ~159 |
+| Initiate's Resolve | 5.00% | ~159 |
 | Go For the Head | 4.00% | ~127 |
 | Spartan Sandal | 4.00% | ~127 |
 | Missilis | 4.00% | ~127 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,167 (Ranked 147)  
+Progressed: 3,171 (Ranked 147)  
 Completed: 0 (0.00%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 0 (0.00%) (Ranked 235)
 | 2023-07-04 | 3,140 | 0 |
 | 2023-07-05 | 3,141 | 0 |
 | 2023-07-06 | 3,153 | 0 |
-| 2023-07-07 | 3,167 | 0 |
+| 2023-07-07 | 3,171 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,7 +1,7 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.18 (Ranked 853)  
+Rating: 4.18 (Ranked 854)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 853)
 | History Major | 0.10% | ~67 |
 | Confronting Your Demon | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,619 (Ranked 73)  
+Progressed: 66,624 (Ranked 73)  
 Completed: 101 (0.15%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 101 (0.15%) (Ranked 169)
 | 2023-07-04 | 66,441 | 100 |
 | 2023-07-05 | 66,504 | 100 |
 | 2023-07-06 | 66,572 | 100 |
-| 2023-07-07 | 66,619 | 101 |
+| 2023-07-07 | 66,624 | 101 |
 ## Awards
 Max (Great Boss Battles): 2,421  (Ranked 100)  
 Sum: 4,010 (Ranked 137)  

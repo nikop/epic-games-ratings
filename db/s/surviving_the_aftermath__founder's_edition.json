@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 272,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1101,7 +1101,7 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 7160,
+  "EOS_Progressed": 7162,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 0,
@@ -7511,6 +7511,11 @@
       "Time": "2023-07-07T16:04:06.4246848+00:00",
       "NumProgressed": 7160,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-07T17:15:19.2058438+00:00",
+      "NumProgressed": 7162,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -7522,7 +7527,7 @@
       "Name": "Leader",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4368
+      "UsersEstimate": 4369
     },
     {
       "ID": "10",
@@ -7554,7 +7559,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3795
+      "UsersEstimate": 3796
     },
     {
       "ID": "14",
@@ -7562,7 +7567,7 @@
       "Name": "Famous Explorer",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2434
+      "UsersEstimate": 2435
     },
     {
       "ID": "15",
@@ -7570,7 +7575,7 @@
       "Name": "Legendary Explorer",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1933
+      "UsersEstimate": 1934
     },
     {
       "ID": "16",
@@ -7602,7 +7607,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 3723
+      "UsersEstimate": 3724
     },
     {
       "ID": "2",
@@ -7610,7 +7615,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2506
+      "UsersEstimate": 2507
     },
     {
       "ID": "20",
@@ -7618,7 +7623,7 @@
       "Name": "Famous Healer",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 2721
+      "UsersEstimate": 2722
     },
     {
       "ID": "21",
@@ -7634,7 +7639,7 @@
       "Name": "First Step",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 5084
+      "UsersEstimate": 5085
     },
     {
       "ID": "23",
@@ -7642,7 +7647,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2434
+      "UsersEstimate": 2435
     },
     {
       "ID": "24",
@@ -7666,7 +7671,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1217
+      "UsersEstimate": 1218
     },
     {
       "ID": "27",
@@ -7698,7 +7703,7 @@
       "Name": "Great Leader",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1575
+      "UsersEstimate": 1576
     },
     {
       "ID": "30",
@@ -7746,7 +7751,7 @@
       "Name": "War Never Changes",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1360
+      "UsersEstimate": 1361
     },
     {
       "ID": "36",
@@ -7770,7 +7775,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 3150
+      "UsersEstimate": 3151
     },
     {
       "ID": "39",
@@ -7778,7 +7783,7 @@
       "Name": "Rocket Surgeon",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1360
+      "UsersEstimate": 1361
     },
     {
       "ID": "4",
@@ -7890,7 +7895,7 @@
       "Name": "Sky Burial",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "52",
@@ -7978,7 +7983,7 @@
       "Name": "Real Survivor",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1575
+      "UsersEstimate": 1576
     },
     {
       "ID": "9",
@@ -7993,15 +7998,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 7160,
+      "Progressed": 7162,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-07-07T12:01:01.0535513+00:00",
-  "LastChanged_Achievements": "2023-07-07T16:04:06.4246844+00:00",
+  "LastChanged_Achievements": "2023-07-07T17:15:19.2058431+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:15.1648754+00:00",
-  "LastUpdate_Ratings": "2023-07-07T15:59:44.7113831+00:00",
-  "LastUpdate_Achievements": "2023-07-07T16:04:06.424759+00:00"
+  "LastUpdate_Ratings": "2023-07-07T17:00:31.5996702+00:00",
+  "LastUpdate_Achievements": "2023-07-07T17:15:19.2060088+00:00"
 }

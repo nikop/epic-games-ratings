@@ -14,14 +14,14 @@
 | Butter Fingers | 66.00% | ~47 |
 | Stay Hydrated | 66.00% | ~47 |
 | First Win | 65.00% | ~46 |
-| True Story! | 37.00% | ~26 |
+| True Story! | 38.00% | ~27 |
 | Bedroom Secret Spot | 37.00% | ~26 |
 | Kick It | 31.00% | ~22 |
 | Grand Slam! | 27.00% | ~19 |
 | Have Mercy | 27.00% | ~19 |
 | Spooky | 25.00% | ~18 |
 | Save some water for the fishies | 23.00% | ~16 |
-| Classroom Secret Spot | 20.00% | ~14 |
+| Classroom Secret Spot | 21.00% | ~15 |
 | Bathroom Secret Spot | 20.00% | ~14 |
 | At least everyone still had fun | 20.00% | ~14 |
 | Angry Dad | 18.00% | ~13 |
@@ -45,7 +45,7 @@
 | The Champ | 0.00% | ~0 |
 | He's heating Up! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71 (Ranked 318)  
+Progressed: 71 (Ranked 319)  
 Completed: 0 (0.00%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |

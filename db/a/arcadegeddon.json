@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
@@ -745,9 +745,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 7539,
+  "EOS_Progressed": 7540,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5215,6 +5215,11 @@
       "Time": "2023-07-07T16:04:48.3731207+00:00",
       "NumProgressed": 7539,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-07T17:16:11.2671116+00:00",
+      "NumProgressed": 7540,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -5226,7 +5231,7 @@
       "Name": "Adventure Time",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 6031
+      "UsersEstimate": 6032
     },
     {
       "ID": "ACH_BOOTY_BASHING",
@@ -5258,7 +5263,7 @@
       "Name": "Coup d\u0027Etat",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 4448
+      "UsersEstimate": 4449
     },
     {
       "ID": "ACH_EVENT_HORIZON",
@@ -5306,7 +5311,7 @@
       "Name": "Grey Goo",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1432
+      "UsersEstimate": 1433
     },
     {
       "ID": "ACH_GROUND_CONTROL",
@@ -5330,7 +5335,7 @@
       "Name": "Gunplay And Cosplay",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 4146
+      "UsersEstimate": 4147
     },
     {
       "ID": "ACH_HACKS_IN_STACKS",
@@ -5338,7 +5343,7 @@
       "Name": "Hacks In Stacks",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 4146
+      "UsersEstimate": 4147
     },
     {
       "ID": "ACH_HERE_COMES_A_NEW_CHALLENGER",
@@ -5370,7 +5375,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 6860
+      "UsersEstimate": 6861
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -5394,7 +5399,7 @@
       "Name": "Meching Enemies",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 3694
+      "UsersEstimate": 3695
     },
     {
       "ID": "ACH_NATURE_IS_LIT",
@@ -5426,7 +5431,7 @@
       "Name": "Photogenic",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 6634
+      "UsersEstimate": 6635
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -5434,7 +5439,7 @@
       "Name": "Playing With Power",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 5880
+      "UsersEstimate": 5881
     },
     {
       "ID": "ACH_PLUG_IT_IN",
@@ -5442,7 +5447,7 @@
       "Name": "Plug It In",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 6408
+      "UsersEstimate": 6409
     },
     {
       "ID": "ACH_POPPIN_NOGGINS",
@@ -5530,7 +5535,7 @@
       "Name": "Surge Gauntlet Jockey",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 6408
+      "UsersEstimate": 6409
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_SCHOLAR",
@@ -5562,7 +5567,7 @@
       "Name": "The Final Blow",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1056
     },
     {
       "ID": "ACH_THE_FULL_MONTY",
@@ -5625,15 +5630,15 @@
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 7539,
+      "Progressed": 7540,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-07-02T16:58:50.9856652+00:00",
-  "LastChanged_Achievements": "2023-07-07T16:04:48.3731203+00:00",
+  "LastChanged_Achievements": "2023-07-07T17:16:11.2671108+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:59.2601444+00:00",
-  "LastUpdate_Ratings": "2023-07-07T15:58:24.6993004+00:00",
-  "LastUpdate_Achievements": "2023-07-07T16:04:48.3731724+00:00"
+  "LastUpdate_Ratings": "2023-07-07T16:58:53.9846458+00:00",
+  "LastUpdate_Achievements": "2023-07-07T17:16:11.267216+00:00"
 }

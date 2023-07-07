@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -473,9 +473,9 @@
       "ID": "23_closecall",
       "SetID": "chb1m60",
       "Name": "Close call!",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 234
     },
     {
       "ID": "24_mega",
@@ -617,8 +617,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-03-31T05:57:32.453108+00:00",
-  "LastChanged_Achievements": "2023-07-07T16:02:21.2911963+00:00",
+  "LastChanged_Achievements": "2023-07-07T17:07:56.3105305+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:25:59.1045225+00:00",
-  "LastUpdate_Ratings": "2023-07-07T15:57:46.7732342+00:00",
-  "LastUpdate_Achievements": "2023-07-07T16:02:21.2912234+00:00"
+  "LastUpdate_Ratings": "2023-07-07T16:58:07.3580174+00:00",
+  "LastUpdate_Achievements": "2023-07-07T17:07:56.3105925+00:00"
 }

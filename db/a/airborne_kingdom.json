@@ -2,12 +2,12 @@
   "ID": "e1809e1742cb498080d8849b11a99c5a",
   "Name": "Airborne Kingdom",
   "ProductSlug": "airborne-kingdom",
-  "Ranking_Rating": 299,
+  "Ranking_Rating": 298,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6757,
+  "EOS_Progressed": 6758,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -2498,6 +2498,11 @@
       "Time": "2023-07-07T15:00:22.0876193+00:00",
       "NumProgressed": 6757,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-07-07T17:01:27.0875336+00:00",
+      "NumProgressed": 6758,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 27,
@@ -2525,7 +2530,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2770
+      "UsersEstimate": 2771
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -2541,7 +2546,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3581
+      "UsersEstimate": 3582
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -2565,7 +2570,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1689
+      "UsersEstimate": 1690
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -2573,7 +2578,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1689
+      "UsersEstimate": 1690
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -2589,7 +2594,7 @@
       "Name": "Knowledge Shared",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1351
+      "UsersEstimate": 1352
     },
     {
       "ID": "AK_LEARNED_SCHOLAR",
@@ -2597,7 +2602,7 @@
       "Name": "A Learned Scholar",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "AK_ON_TOWN",
@@ -2621,7 +2626,7 @@
       "Name": "Prophecy Fulfilled",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "AK_PYRE_IGNITED",
@@ -2637,15 +2642,15 @@
       "Name": "Relic Finder",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1351
+      "UsersEstimate": 1352
     },
     {
       "ID": "AK_SEEKERS_FOUND",
       "SetID": "dfmb89",
       "Name": "Seekers Found",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2703
+      "UsersEstimate": 2771
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -2653,7 +2658,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2770
+      "UsersEstimate": 2771
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -2677,7 +2682,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2297
+      "UsersEstimate": 2298
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -2724,15 +2729,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6757,
+      "Progressed": 6758,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-07-07T16:00:25.1016286+00:00",
+  "LastChanged_Achievements": "2023-07-07T17:01:27.0875327+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:31.6113901+00:00",
-  "LastUpdate_Ratings": "2023-07-07T15:57:36.4391163+00:00",
-  "LastUpdate_Achievements": "2023-07-07T16:00:25.1016574+00:00"
+  "LastUpdate_Ratings": "2023-07-07T16:57:55.1297526+00:00",
+  "LastUpdate_Achievements": "2023-07-07T17:01:27.0875914+00:00"
 }

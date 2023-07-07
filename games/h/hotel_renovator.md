@@ -19,7 +19,7 @@ Rating: 4.55 (Ranked 477)
 | Fine, I'll do it myself | 41.00% | ~349 |
 | Moving up | 41.00% | ~349 |
 | No need to call anyone | 39.00% | ~332 |
-| Big fortune | 31.00% | ~264 |
+| Big fortune | 32.00% | ~272 |
 | Still more work ahead | 28.00% | ~238 |
 | Hotel sleuthing | 27.00% | ~230 |
 | Kaboom | 26.00% | ~221 |

@@ -1,32 +1,32 @@
 # Airborne Kingdom
 [Store](https://store.epicgames.com/en-US/p/airborne-kingdom)  
 [View Rawdata](../../db/a/airborne_kingdom.json)  
-Rating: 4.65 (Ranked 299)  
+Rating: 4.65 (Ranked 298)  
 Number of Ratings: 74  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Small Community | 56.00% | ~3,784 |
-| A Grove Replanted | 53.00% | ~3,581 |
-| Fields Watered | 41.00% | ~2,770 |
-| Settling the Skies | 41.00% | ~2,770 |
-| Seekers Found | 40.00% | ~2,703 |
+| A Grove Replanted | 53.00% | ~3,582 |
+| Fields Watered | 41.00% | ~2,771 |
+| Seekers Found | 41.00% | ~2,771 |
+| Settling the Skies | 41.00% | ~2,771 |
 | Wind Powered | 40.00% | ~2,703 |
-| It Takes a Village | 34.00% | ~2,297 |
+| It Takes a Village | 34.00% | ~2,298 |
 | On the Town | 28.00% | ~1,892 |
 | Daylight Found | 26.00% | ~1,757 |
-| Irons Scorched | 25.00% | ~1,689 |
-| Islands Connected | 25.00% | ~1,689 |
+| Irons Scorched | 25.00% | ~1,690 |
+| Islands Connected | 25.00% | ~1,690 |
 | Harp Tuned | 23.00% | ~1,554 |
 | Pyre Ignited | 23.00% | ~1,554 |
 | Travelers Returned | 23.00% | ~1,554 |
 | Hopes Hoisted | 22.00% | ~1,487 |
-| Knowledge Shared | 20.00% | ~1,351 |
-| Relic Finder | 20.00% | ~1,351 |
+| Knowledge Shared | 20.00% | ~1,352 |
+| Relic Finder | 20.00% | ~1,352 |
 | Worthy of the Title | 19.00% | ~1,284 |
 | A Peaceful Respite | 14.00% | ~946 |
-| A Learned Scholar | 13.00% | ~878 |
-| Prophecy Fulfilled | 13.00% | ~878 |
+| A Learned Scholar | 13.00% | ~879 |
+| Prophecy Fulfilled | 13.00% | ~879 |
 | A Wanderer’s Guide | 11.00% | ~743 |
 | Knowledge Seeker | 7.00% | ~473 |
 | The Cycle Continues | 3.00% | ~203 |
@@ -34,7 +34,7 @@ Number of Ratings: 74  (23.09.2022)
 | Sparkling Alloys | 2.00% | ~135 |
 | A True Challenge | 2.00% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,757 (Ranked 126)  
+Progressed: 6,758 (Ranked 126)  
 Completed: 52 (0.77%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 52 (0.77%) (Ranked 107)
 | 2023-07-04 | 6,744 | 52 |
 | 2023-07-05 | 6,748 | 52 |
 | 2023-07-06 | 6,752 | 52 |
-| 2023-07-07 | 6,757 | 52 |
+| 2023-07-07 | 6,758 | 52 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -8,20 +8,20 @@ Number of Ratings: 87  (23.09.2022)
 | ---- | ---------- | ----- |
 | Dealmaker | 11.00% | ~82 |
 | Full garage | 10.00% | ~75 |
-| Individual delivery | 9.00% | ~67 |
+| Individual delivery | 9.00% | ~68 |
 | Juggler | 8.00% | ~60 |
 | To the eyeballs! | 8.00% | ~60 |
-| Forgot something | 7.00% | ~52 |
+| Forgot something | 7.00% | ~53 |
 | Close call! | 6.00% | ~45 |
 | Common cause | 6.00% | ~45 |
 | Get out my way | 6.00% | ~45 |
 | Mega-railroad | 6.00% | ~45 |
 | Non-Stop | 6.00% | ~45 |
-| Builder | 5.00% | ~37 |
-| Critical care | 5.00% | ~37 |
-| Just in time! | 5.00% | ~37 |
-| Need to think | 5.00% | ~37 |
-| Upgrade complete | 5.00% | ~37 |
+| Builder | 5.00% | ~38 |
+| Critical care | 5.00% | ~38 |
+| Just in time! | 5.00% | ~38 |
+| Need to think | 5.00% | ~38 |
+| Upgrade complete | 5.00% | ~38 |
 | Bridgemania | 4.00% | ~30 |
 | Miner | 4.00% | ~4 |
 | Multilevel road | 4.00% | ~30 |
@@ -51,12 +51,12 @@ Number of Ratings: 87  (23.09.2022)
 | Squander | 2.00% | ~15 |
 | Stargazer | 2.00% | ~15 |
 | Vandal | 2.00% | ~15 |
-| Astronomer | 1.00% | ~7 |
-| Environmental activist | 1.00% | ~7 |
-| Innovator | 1.00% | ~7 |
-| Ouroboros | 1.00% | ~7 |
-| Will work | 1.00% | ~7 |
-| Woodcutter | 1.00% | ~7 |
+| Astronomer | 1.00% | ~8 |
+| Environmental activist | 1.00% | ~8 |
+| Innovator | 1.00% | ~8 |
+| Ouroboros | 1.00% | ~8 |
+| Will work | 1.00% | ~8 |
+| Woodcutter | 1.00% | ~8 |
 | Atomic Age | 0.90% | ~1 |
 | Digital Age | 0.90% | ~1 |
 | Information Age | 0.90% | ~1 |
@@ -82,7 +82,7 @@ Number of Ratings: 87  (23.09.2022)
 | Gemologist | 0.00% | ~0 |
 | Jeweller | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 749 (Ranked 196)  
+Progressed: 750 (Ranked 196)  
 Completed: 1 (0.13%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 1 (0.13%) (Ranked 175)
 | 2023-07-02 | 744 | 1 |
 | 2023-07-05 | 745 | 1 |
 | 2023-07-06 | 747 | 1 |
-| 2023-07-07 | 749 | 1 |
+| 2023-07-07 | 750 | 1 |
 ## Awards
 Max (Challenging Puzzles): 72  (Ranked 370)  
 Sum: 72 (Ranked 428)  

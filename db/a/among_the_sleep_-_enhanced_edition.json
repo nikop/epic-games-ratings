@@ -443,9 +443,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 77744,
+  "EOS_Progressed": 77751,
   "EOS_Completed": 368,
-  "EOS_NewPlayers": 809,
+  "EOS_NewPlayers": 811,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -8683,6 +8683,11 @@
       "Time": "2023-07-07T16:03:33.7991356+00:00",
       "NumProgressed": 77744,
       "NumCompleted": 368
+    },
+    {
+      "Time": "2023-07-07T17:14:36.622313+00:00",
+      "NumProgressed": 77751,
+      "NumCompleted": 368
     }
   ],
   "TotalAchievements": 10,
@@ -8694,7 +8699,7 @@
       "Name": "Baby Mozart",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 3887
+      "UsersEstimate": 3888
     },
     {
       "ID": "Drawings01",
@@ -8702,7 +8707,7 @@
       "Name": "House Drawings",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "Drawings02",
@@ -8710,7 +8715,7 @@
       "Name": "Cave Drawings",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "Drawings03",
@@ -8742,7 +8747,7 @@
       "Name": "Prologue Drawings",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "GameCompleted",
@@ -8750,7 +8755,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 7774
+      "UsersEstimate": 7775
     },
     {
       "ID": "Level00BowlingStrike",
@@ -8758,7 +8763,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 27210
+      "UsersEstimate": 27213
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -8766,22 +8771,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 8552
+      "UsersEstimate": 8553
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 77744,
+      "Progressed": 77751,
       "Completed": 368
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-03-31T05:57:32.2303432+00:00",
-  "LastChanged_Achievements": "2023-07-07T16:03:33.7991353+00:00",
+  "LastChanged_Achievements": "2023-07-07T17:14:36.6223122+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:55.168225+00:00",
-  "LastUpdate_Ratings": "2023-07-07T16:00:08.8213034+00:00",
-  "LastUpdate_Achievements": "2023-07-07T16:03:33.7991806+00:00"
+  "LastUpdate_Ratings": "2023-07-07T17:01:03.6429719+00:00",
+  "LastUpdate_Achievements": "2023-07-07T17:14:36.6224154+00:00"
 }

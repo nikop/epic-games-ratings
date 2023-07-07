@@ -1,25 +1,25 @@
 # Galactic Civilizations IV
 [Store](https://store.epicgames.com/en-US/p/galactic-civilizations-iv)  
 [View Rawdata](../../db/g/galactic_civilizations_iv.json)  
-Rating: 4.18 (Ranked 853)  
+Rating: 4.18 (Ranked 854)  
 Number of Ratings: 429  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 79.00% | ~4,807 |
-| Worker Specialization | 78.00% | ~4,746 |
-| First Contact | 74.00% | ~4,503 |
-| Win a Battle | 67.00% | ~4,077 |
-| Anomaly Researcher | 63.00% | ~3,834 |
-| Unleash My Power | 62.00% | ~3,773 |
-| Own 30 Planets | 35.00% | ~2,130 |
-| Xenocide | 33.00% | ~2,008 |
-| Commodity Trader | 31.00% | ~1,886 |
-| Design a Civilization | 31.00% | ~1,886 |
-| Design a Ship | 29.00% | ~1,765 |
-| Commodity Seller | 26.00% | ~1,582 |
+| Colonize a Planet | 79.00% | ~4,810 |
+| Worker Specialization | 78.00% | ~4,749 |
+| First Contact | 74.00% | ~4,505 |
+| Win a Battle | 67.00% | ~4,079 |
+| Anomaly Researcher | 63.00% | ~3,835 |
+| Unleash My Power | 62.00% | ~3,775 |
+| Own 30 Planets | 35.00% | ~2,131 |
+| Xenocide | 33.00% | ~2,009 |
+| Commodity Trader | 31.00% | ~1,887 |
+| Design a Civilization | 31.00% | ~1,887 |
+| Design a Ship | 29.00% | ~1,766 |
+| Commodity Seller | 26.00% | ~1,583 |
 | Prestige Victory! | 14.00% | ~852 |
-| Galactic War | 11.00% | ~669 |
+| Galactic War | 11.00% | ~670 |
 | Trading Partner | 9.00% | ~548 |
 | Fleet Victory | 8.00% | ~487 |
 | Win as Terrans | 7.00% | ~426 |
@@ -27,8 +27,8 @@ Number of Ratings: 429  (23.09.2022)
 | Win with a Custom Faction | 6.00% | ~365 |
 | War with the Unknown | 5.00% | ~304 |
 | Win Quickly | 5.00% | ~304 |
-| Conquest Victory! | 4.00% | ~243 |
-| Win an Immense Game | 4.00% | ~243 |
+| Conquest Victory! | 4.00% | ~244 |
+| Win an Immense Game | 4.00% | ~244 |
 | Pirate Cleansing | 3.00% | ~183 |
 | Artifact Mastery | 2.00% | ~122 |
 | Win as Altarians | 2.00% | ~122 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,085 (Ranked 131)  
+Progressed: 6,088 (Ranked 131)  
 Completed: 0 (0.00%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,7 +157,7 @@ Completed: 0 (0.00%) (Ranked 235)
 | 2023-07-04 | 6,073 | 0 |
 | 2023-07-05 | 6,080 | 0 |
 | 2023-07-06 | 6,084 | 0 |
-| 2023-07-07 | 6,085 | 0 |
+| 2023-07-07 | 6,088 | 0 |
 ## Awards
 Max (Diverse Characters): 92  (Ranked 343)  
 Sum: 665 (Ranked 276)  

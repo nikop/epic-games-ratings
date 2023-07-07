@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -5291,9 +5291,9 @@
       "ID": "REWARD_DLC02_02_OPERATION_OVERLORD",
       "SetID": "83mdf7p",
       "Name": "Operation Overlord",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_DLC03_01_IF_YOU_GO_DOWN_TO_THE_WOODS_TODAY",
@@ -5362,8 +5362,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-05T19:03:38.4770688+00:00",
-  "LastChanged_Achievements": "2023-07-07T16:02:17.7570257+00:00",
+  "LastChanged_Achievements": "2023-07-07T17:07:12.3993091+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:03.6733789+00:00",
-  "LastUpdate_Ratings": "2023-07-07T16:00:14.8696475+00:00",
-  "LastUpdate_Achievements": "2023-07-07T16:02:17.7571047+00:00"
+  "LastUpdate_Ratings": "2023-07-07T17:01:10.4666826+00:00",
+  "LastUpdate_Achievements": "2023-07-07T17:07:12.3994846+00:00"
 }

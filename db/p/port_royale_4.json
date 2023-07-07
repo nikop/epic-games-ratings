@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 712,
+  "EOS_Progressed": 713,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1220,6 +1220,11 @@
       "Time": "2023-07-07T13:19:49.4345055+00:00",
       "NumProgressed": 712,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-07T17:13:32.912043+00:00",
+      "NumProgressed": 713,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -1231,7 +1236,7 @@
       "Name": "Cabin boy",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "ACH001",
@@ -1239,7 +1244,7 @@
       "Name": "Seafarer",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "ACH002",
@@ -1343,7 +1348,7 @@
       "Name": "Christening",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH015",
@@ -1399,7 +1404,7 @@
       "Name": "Collectionitis",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "ACH022",
@@ -1463,7 +1468,7 @@
       "Name": "Licence to Kill",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ACH030",
@@ -1487,7 +1492,7 @@
       "Name": "Pirates!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ACH033",
@@ -1535,7 +1540,7 @@
       "Name": "O Captain! My Captain!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "ACH039",
@@ -1581,9 +1586,9 @@
       "ID": "ACH044",
       "SetID": "69nfp41",
       "Name": "Greed for gold",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 313
+      "UsersEstimate": 307
     },
     {
       "ID": "ACH045",
@@ -1607,15 +1612,15 @@
       "Name": "Overpopulation",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH048",
       "SetID": "69nfp41",
       "Name": "Megalomania",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 206
+      "UsersEstimate": 200
     },
     {
       "ID": "ACH049",
@@ -1630,15 +1635,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 712,
+      "Progressed": 713,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-07-07T16:03:20.1756695+00:00",
+  "LastChanged_Achievements": "2023-07-07T17:13:32.9120422+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:08.6916632+00:00",
-  "LastUpdate_Ratings": "2023-07-07T15:58:28.1947783+00:00",
-  "LastUpdate_Achievements": "2023-07-07T16:03:20.1757112+00:00"
+  "LastUpdate_Ratings": "2023-07-07T16:58:58.2754671+00:00",
+  "LastUpdate_Achievements": "2023-07-07T17:13:32.9120922+00:00"
 }

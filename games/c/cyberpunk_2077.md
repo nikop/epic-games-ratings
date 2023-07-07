@@ -6,36 +6,36 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~587,676 |
-| Right Back At Ya | 38.00% | ~328,407 |
-| The Lovers | 34.00% | ~293,838 |
-| Stanislavski's Method | 28.00% | ~241,984 |
-| The Wheel of Fortune | 26.00% | ~224,700 |
-| The Hermit | 24.00% | ~207,415 |
-| Christmas Tree Attack | 22.00% | ~190,130 |
-| True Soldier | 22.00% | ~190,130 |
-| The High Priestess | 21.00% | ~181,488 |
-| Legend of The Afterlife | 21.00% | ~181,488 |
-| Life of the Road | 20.00% | ~172,846 |
-| Full Body Conversion | 17.00% | ~146,919 |
-| The World | 17.00% | ~146,919 |
-| Bushido and Chill | 16.00% | ~138,277 |
-| Gun Fu | 14.00% | ~120,992 |
-| True Warrior | 14.00% | ~120,992 |
-| To Protect and Serve | 13.00% | ~112,350 |
-| Master Crafter | 13.00% | ~112,350 |
-| I Am The Law | 13.00% | ~112,350 |
-| Judy vs Night City | 13.00% | ~112,350 |
-| Two Heads, One Bullet | 11.00% | ~95,065 |
-| The Wandering Fool | 9.00% | ~77,781 |
-| The Quick and the Dead | 9.00% | ~77,781 |
-| Ten out of Ten | 8.00% | ~69,138 |
-| Breathtaking | 7.00% | ~60,496 |
-| To Bad Decisions! | 6.00% | ~51,854 |
-| The Star | 6.00% | ~51,854 |
-| The Sun | 6.00% | ~51,854 |
-| Must Be Rats | 4.00% | ~34,569 |
-| Temperance | 4.00% | ~34,569 |
+| The Fool | 68.00% | ~587,688 |
+| Right Back At Ya | 38.00% | ~328,414 |
+| The Lovers | 34.00% | ~293,844 |
+| Stanislavski's Method | 28.00% | ~241,989 |
+| The Wheel of Fortune | 26.00% | ~224,704 |
+| The Hermit | 24.00% | ~207,419 |
+| Christmas Tree Attack | 22.00% | ~190,134 |
+| True Soldier | 22.00% | ~190,134 |
+| The High Priestess | 21.00% | ~181,492 |
+| Legend of The Afterlife | 21.00% | ~181,492 |
+| Life of the Road | 20.00% | ~172,849 |
+| Full Body Conversion | 17.00% | ~146,922 |
+| The World | 17.00% | ~146,922 |
+| Bushido and Chill | 16.00% | ~138,280 |
+| Gun Fu | 14.00% | ~120,995 |
+| True Warrior | 14.00% | ~120,995 |
+| To Protect and Serve | 13.00% | ~112,352 |
+| Master Crafter | 13.00% | ~112,352 |
+| I Am The Law | 13.00% | ~112,352 |
+| Judy vs Night City | 13.00% | ~112,352 |
+| Two Heads, One Bullet | 11.00% | ~95,067 |
+| The Wandering Fool | 9.00% | ~77,782 |
+| The Quick and the Dead | 9.00% | ~77,782 |
+| Ten out of Ten | 8.00% | ~69,140 |
+| Breathtaking | 7.00% | ~60,497 |
+| To Bad Decisions! | 6.00% | ~51,855 |
+| The Star | 6.00% | ~51,855 |
+| The Sun | 6.00% | ~51,855 |
+| Must Be Rats | 4.00% | ~34,570 |
+| Temperance | 4.00% | ~34,570 |
 | City Lights | 3.00% | ~25,927 |
 | Mean Streets | 3.00% | ~25,927 |
 | Little Tokyo | 3.00% | ~25,927 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,642 |
 | Rough Landing | 0.50% | ~4,321 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 864,229 (Ranked 14)  
+Progressed: 864,247 (Ranked 14)  
 Completed: 1,838 (0.21%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,10 +129,10 @@ Completed: 1,838 (0.21%) (Ranked 159)
 | 2023-07-04 | 863,691 | 1,831 |
 | 2023-07-05 | 863,879 | 1,833 |
 | 2023-07-06 | 864,090 | 1,837 |
-| 2023-07-07 | 864,229 | 1,838 |
+| 2023-07-07 | 864,247 | 1,838 |
 ## Awards
 Max (Character Customization): 72,350  (Ranked 9)  
-Sum: 189,576 (Ranked 13)  
+Sum: 189,587 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -146,7 +146,7 @@ Diff (max vs sum): -4
 | This game is Relaxing | 8,133 |
 | This game has Quickly Understood Controls | 8,018 |
 | This game has Amazing Characters | 7,976 |
-| This game has a Creative Community | 5,261 |
+| This game has a Creative Community | 5,272 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -319,4 +319,4 @@ Diff (max vs sum): -4
 | 2023-07-04 | 4.62 | - | 72,141 | 188,809 |
 | 2023-07-05 | 4.62 | - | 72,250 | 189,041 |
 | 2023-07-06 | 4.62 | - | 72,350 | 189,395 |
-| 2023-07-07 | 4.62 | - | 72,350 | 189,576 |
+| 2023-07-07 | 4.62 | - | 72,350 | 189,587 |
