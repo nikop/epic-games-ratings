@@ -24,13 +24,13 @@
 | Quartermaster | 3.00% | ~3 |
 | Supercargo | 3.00% | ~3 |
 | Strategist | 3.00% | ~3 |
+| Xevarian Gambit | 3.00% | ~3 |
 | The Voice of Hereafter | 3.00% | ~3 |
 | Been There | 3.00% | ~3 |
 | Spiritual Journey | 3.00% | ~3 |
 | Pilgrimage's End | 3.00% | ~3 |
 | Merchant | 3.00% | ~3 |
 | Trouble at Fort Larius | 3.00% | ~3 |
-| Xevarian Gambit | 2.00% | ~2 |
 | Deputized | 2.00% | ~2 |
 | Despised | 2.00% | ~2 |
 | A Terrible Will | 2.00% | ~2 |
@@ -104,8 +104,8 @@
 | Enterpreneur | 0.00% | ~0 |
 | Insectoid Propagator | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 113 (Ranked 292)  
-Completed: 0 (0.00%) (Ranked 235)  
+Progressed: 113 (Ranked 293)  
+Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

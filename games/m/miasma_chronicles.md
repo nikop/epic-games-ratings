@@ -5,7 +5,7 @@ Rating: 4.38 (Ranked 710)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,110 |
+| First Blood | 93.00% | ~1,123 |
 | Ranidaphobia | 78.00% | ~941 |
 | Aspiring Editor | 75.00% | ~905 |
 | Gun for Hire | 70.00% | ~845 |
@@ -13,8 +13,8 @@ Rating: 4.38 (Ranked 710)
 | Lumberjack | 52.00% | ~628 |
 | Croaked | 48.00% | ~579 |
 | Limp Richard | 47.00% | ~567 |
+| From Darkness to Light | 47.00% | ~567 |
 | Exorcist | 46.00% | ~555 |
-| From Darkness to Light | 46.00% | ~555 |
 | Editor Adept | 45.00% | ~543 |
 | Giant Killer | 43.00% | ~519 |
 | Firestarter | 42.00% | ~507 |
@@ -58,7 +58,7 @@ Rating: 4.38 (Ranked 710)
 | Goaaaaal! | 0.70% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,207 (Ranked 179)  
-Completed: 0 (0.00%) (Ranked 235)  
+Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

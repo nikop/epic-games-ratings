@@ -1,14 +1,14 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.57 (Ranked 440)  
+Rating: 4.57 (Ranked 439)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 21.00% | ~584 |
+| Infinite Growth... | 18.00% | ~501 |
 | Sputnik 2049 | 18.00% | ~501 |
 | Without Breaking Some Eggs... | 17.00% | ~473 |
-| Infinite Growth... | 17.00% | ~473 |
 | Space Society | 12.00% | ~334 |
 | A Thousand Strong | 12.00% | ~334 |
 | Ready for a New World | 12.00% | ~334 |
@@ -22,10 +22,10 @@ Rating: 4.57 (Ranked 440)
 | A Hunk of Junk | 7.00% | ~195 |
 | Breaking Protocol | 7.00% | ~195 |
 | Man's Best Friend | 5.00% | ~139 |
+| Sightseeing | 5.00% | ~139 |
 | Power Outage | 5.00% | ~139 |
 | Convenient Transport | 5.00% | ~139 |
 | Please Make it Stop! | 5.00% | ~139 |
-| Sightseeing | 4.00% | ~111 |
 | Access Granted | 4.00% | ~111 |
 | Necessary Enhancement | 4.00% | ~111 |
 | All in Good Health | 4.00% | ~111 |
@@ -64,7 +64,7 @@ Rating: 4.57 (Ranked 440)
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,781 (Ranked 153)  
-Completed: 0 (0.00%) (Ranked 235)  
+Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

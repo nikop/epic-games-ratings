@@ -5,7 +5,7 @@ Rating: 4.87 (Ranked 25)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| NOW we got a kickass hideout! | 0.60% | ~12 |
+| NOW we got a kickass hideout! | 0.70% | ~14 |
 | Time to pay up! | 0.40% | ~14 |
 | Who's the boss now? | 0.40% | ~14 |
 | I play my own way! | 0.40% | ~14 |
@@ -78,7 +78,7 @@ Rating: 4.87 (Ranked 25)
 | Low budget finish | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,417 (Ranked 145)  
-Completed: 5 (0.15%) (Ranked 169)  
+Completed: 5 (0.15%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

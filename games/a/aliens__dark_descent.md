@@ -1,26 +1,26 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.44 (Ranked 639)  
+Rating: 4.44 (Ranked 638)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 80.00% | ~2,134 |
+| This Is Hayes, Pioneer Station, Signing Off | 80.00% | ~2,135 |
 | Snatched Out | 73.00% | ~1,948 |
-| Keep 'Em Coming | 71.00% | ~1,894 |
-| Cleaning Lethe, One Nest At A Time | 62.00% | ~1,654 |
+| Keep 'Em Coming | 71.00% | ~1,895 |
+| Cleaning Lethe, One Nest At A Time | 62.00% | ~1,655 |
 | Call Me Snake | 57.00% | ~1,521 |
-| Something Lurks Under The Hills | 56.00% | ~1,494 |
-| This Was No Papercut | 54.00% | ~1,441 |
+| Something Lurks Under The Hills | 56.00% | ~1,495 |
+| This Was No Papercut | 55.00% | ~1,468 |
 | The Shrink Hates Me | 50.00% | ~1,334 |
-| People Person | 49.00% | ~1,307 |
+| People Person | 49.00% | ~1,308 |
 | Use The Bumper, That's What It's For | 47.00% | ~1,254 |
 | First Steps Into Madness | 45.00% | ~1,201 |
 | Colonial Barrels | 44.00% | ~1,174 |
-| Damn Dude, You Gotta Lose Some Weight! | 37.00% | ~987 |
+| Damn Dude, You Gotta Lose Some Weight! | 38.00% | ~1,014 |
 | Harper's Hell | 35.00% | ~934 |
-| Making a Stand | 33.00% | ~880 |
-| Recouped Investment | 30.00% | ~800 |
+| Making a Stand | 33.00% | ~881 |
+| Recouped Investment | 30.00% | ~801 |
 | Omelette Du Fromage | 29.00% | ~774 |
 | Where It All Begun | 28.00% | ~747 |
 | The More The Merrier | 21.00% | ~560 |
@@ -31,14 +31,14 @@ Rating: 4.44 (Ranked 639)
 | Deep Into Insanity | 15.00% | ~400 |
 | The Passenger | 14.00% | ~374 |
 | El Riesgo Siempre Vive | 13.00% | ~347 |
-| One For Every Occasion | 11.00% | ~293 |
-| The Spire | 11.00% | ~293 |
+| One For Every Occasion | 11.00% | ~294 |
+| The Spire | 11.00% | ~294 |
 | Bandage Lover | 10.00% | ~267 |
 | Frontliner | 10.00% | ~267 |
 | The Cable Guy | 10.00% | ~267 |
 | Excavating The Truth | 9.00% | ~240 |
-| Heavy Steps | 8.00% | ~213 |
-| Abysmal Horrors | 8.00% | ~213 |
+| Heavy Steps | 8.00% | ~214 |
+| Abysmal Horrors | 8.00% | ~214 |
 | Regicide | 6.00% | ~160 |
 | Flawless Victory | 5.00% | ~133 |
 | This Went Smoothly | 5.00% | ~133 |
@@ -51,8 +51,8 @@ Rating: 4.44 (Ranked 639)
 | Perfect Organism | 0.20% | ~5 |
 | This Ain't No Picnic | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,668 (Ranked 154)  
-Completed: 0 (0.00%) (Ranked 235)  
+Progressed: 2,669 (Ranked 154)  
+Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -73,7 +73,7 @@ Completed: 0 (0.00%) (Ranked 235)
 | 2023-07-04 | 2,580 | 0 |
 | 2023-07-05 | 2,620 | 0 |
 | 2023-07-06 | 2,648 | 0 |
-| 2023-07-07 | 2,668 | 0 |
+| 2023-07-07 | 2,669 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

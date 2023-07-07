@@ -49,7 +49,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Master Spirit Guide | 0.30% | ~1,280 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 426,607 (Ranked 37)  
-Completed: 515 (0.12%) (Ranked 178)  
+Completed: 515 (0.12%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -128,9 +128,9 @@ Completed: 515 (0.12%) (Ranked 178)
 | 2023-07-06 | 426,589 | 515 |
 | 2023-07-07 | 426,607 | 515 |
 ## Awards
-Max (Great Boss Battles): 1,306  (Ranked 126)  
+Max (Great Boss Battles): 1,306  (Ranked 127)  
 Sum: 1,679 (Ranked 208)  
-Diff (max vs sum): -82  
+Diff (max vs sum): -81  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 1,306 |

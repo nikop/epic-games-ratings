@@ -1,15 +1,15 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.56 (Ranked 457)  
+Rating: 4.56 (Ranked 456)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~8,888 |
-| Pay 'n' Spray | 50.00% | ~5,486 |
+| Getting Started | 81.00% | ~8,889 |
+| Pay 'n' Spray | 50.00% | ~5,487 |
 | All Dressed Up for San Fierro | 24.00% | ~2,634 |
 | The American Dream | 18.00% | ~1,975 |
-| School's Out | 17.00% | ~1,865 |
+| School's Out | 17.00% | ~1,866 |
 | Smooth Moves | 16.00% | ~1,756 |
 | What happens in Las Venturas... | 14.00% | ~1,536 |
 | Today Was a Good Day | 14.00% | ~1,536 |
@@ -41,8 +41,8 @@ Rating: 4.56 (Ranked 457)
 | ...Here we go again | 0.30% | ~33 |
 | I Ain't No Buster | 0.20% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,973 (Ranked 115)  
-Completed: 26 (0.24%) (Ranked 154)  
+Progressed: 10,974 (Ranked 115)  
+Completed: 26 (0.24%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -119,7 +119,7 @@ Completed: 26 (0.24%) (Ranked 154)
 | 2023-07-04 | 10,944 | 25 |
 | 2023-07-05 | 10,955 | 25 |
 | 2023-07-06 | 10,966 | 25 |
-| 2023-07-07 | 10,973 | 26 |
+| 2023-07-07 | 10,974 | 26 |
 ## Awards
 Max (Great Boss Battles): 207  (Ranked 264)  
 Sum: 207 (Ranked 358)  

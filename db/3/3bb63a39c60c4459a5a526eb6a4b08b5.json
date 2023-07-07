@@ -3,9 +3,9 @@
   "Name": "Fly Corp",
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 256,
-  "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_Completed": 131,
+  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 234,
-  "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_Progressed": 235,
+  "EOS_Completed": 1,
+  "EOS_NewPlayers": 14,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
     {
       "Time": "2023-06-13T17:01:33.4797695+00:00",
@@ -651,6 +651,11 @@
       "Time": "2023-07-07T17:05:27.4638789+00:00",
       "NumProgressed": 234,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-07T18:02:28.9100067+00:00",
+      "NumProgressed": 235,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -678,7 +683,7 @@
       "Name": "Basic Controls",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "BigPlane",
@@ -692,9 +697,9 @@
       "ID": "BudgetFlight",
       "SetID": "1e89b4i",
       "Name": "Budget Flight",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 68
+      "UsersEstimate": 70
     },
     {
       "ID": "Calculated",
@@ -726,31 +731,31 @@
       "Name": "Debtor",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "EdgeOfTheWorld",
       "SetID": "1e89b4i",
       "Name": "Edge of the World",
-      "Percentage": 0,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ExperiencedExecutive",
       "SetID": "1e89b4i",
       "Name": "Experienced Manager",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "Fifty",
       "SetID": "1e89b4i",
       "Name": "Fifty",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 38
     },
     {
       "ID": "First",
@@ -764,25 +769,25 @@
       "ID": "FullCompletion",
       "SetID": "1e89b4i",
       "Name": "Full Completion",
-      "Percentage": 0,
+      "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Hundred",
       "SetID": "1e89b4i",
       "Name": "One Hundred",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "Incredible",
       "SetID": "1e89b4i",
       "Name": "Incredible!",
-      "Percentage": 0,
+      "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "LackOfTime",
@@ -804,9 +809,9 @@
       "ID": "LargeTerritories",
       "SetID": "1e89b4i",
       "Name": "Large Territories",
-      "Percentage": 0,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "LegendaryTransporter",
@@ -820,9 +825,9 @@
       "ID": "LinearNetwork",
       "SetID": "1e89b4i",
       "Name": "Linear Network",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "LongDistance",
@@ -836,7 +841,7 @@
       "ID": "ManagementMaster",
       "SetID": "1e89b4i",
       "Name": "Management Master",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -844,9 +849,9 @@
       "ID": "MaximumUpgrade",
       "SetID": "1e89b4i",
       "Name": "Maximum Upgrade",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 54
     },
     {
       "ID": "Millionaire",
@@ -868,9 +873,9 @@
       "ID": "NoTimeForModernization",
       "SetID": "1e89b4i",
       "Name": "No Time for Modernization",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "NoWayBack",
@@ -892,33 +897,33 @@
       "ID": "Ownway",
       "SetID": "1e89b4i",
       "Name": "Own Way",
-      "Percentage": 0,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PublicFigure",
       "SetID": "1e89b4i",
       "Name": "Public Figure",
-      "Percentage": 0.4,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "RacingAgainstTime",
       "SetID": "1e89b4i",
       "Name": "Race Against Time",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 30
+      "UsersEstimate": 33
     },
     {
       "ID": "Reaction",
       "SetID": "1e89b4i",
       "Name": "Fast Response",
-      "Percentage": 0.4,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ReliableTransporter",
@@ -926,31 +931,31 @@
       "Name": "Reliable Transporter",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ResourceEconomy",
       "SetID": "1e89b4i",
       "Name": "Resource Economy",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 70
     },
     {
       "ID": "Restructuring",
       "SetID": "1e89b4i",
       "Name": "Restructuring",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 45
     },
     {
       "ID": "Reviewer",
       "SetID": "1e89b4i",
       "Name": "Reviewer",
-      "Percentage": 0,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ScenarioAmateur",
@@ -964,9 +969,9 @@
       "ID": "ScenarioExpert",
       "SetID": "1e89b4i",
       "Name": "Scenario Expert",
-      "Percentage": 0,
+      "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Ten",
@@ -980,9 +985,9 @@
       "ID": "TimeForManagement",
       "SetID": "1e89b4i",
       "Name": "Time for Management",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 59
     },
     {
       "ID": "TransportHub",
@@ -990,21 +995,21 @@
       "Name": "Transport Hub",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 234,
-      "Completed": 0
+      "Progressed": 235,
+      "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-07-07T17:05:27.4638782+00:00",
+  "LastChanged_Achievements": "2023-07-07T18:02:28.9100063+00:00",
   "LastUpdate_AppInfo": "2023-07-04T07:57:07.1618856+00:00",
-  "LastUpdate_Ratings": "2023-07-07T16:57:16.3653434+00:00",
-  "LastUpdate_Achievements": "2023-07-07T17:05:27.4639419+00:00"
+  "LastUpdate_Ratings": "2023-07-07T17:57:15.5758482+00:00",
+  "LastUpdate_Achievements": "2023-07-07T18:02:28.9100412+00:00"
 }

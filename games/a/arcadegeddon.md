@@ -6,7 +6,7 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~6,861 |
+| Let's Get This Party Started | 92.00% | ~6,937 |
 | Photogenic | 88.00% | ~6,635 |
 | Plug It In | 85.00% | ~6,409 |
 | Surge Gauntlet Jockey | 85.00% | ~6,409 |
@@ -58,7 +58,7 @@ Number of Ratings: 801  (23.09.2022)
 | Pyrotechnical | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 7,540 (Ranked 121)  
-Completed: 0 (0.00%) (Ranked 235)  
+Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -11,7 +11,7 @@ Number of Ratings: 36  (23.09.2022)
 | Let’s patch things up | 65.00% | ~522 |
 | I can fix it! | 63.00% | ~506 |
 | Post No Bills | 55.00% | ~442 |
-| Truly Shocking! | 47.00% | ~377 |
+| Truly Shocking! | 48.00% | ~385 |
 | Critical Thinker | 35.00% | ~281 |
 | Always Finding Your Mark | 29.00% | ~233 |
 | The Weight of the World | 28.00% | ~225 |
@@ -35,7 +35,7 @@ Number of Ratings: 36  (23.09.2022)
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 803 (Ranked 193)  
-Completed: 0 (0.00%) (Ranked 235)  
+Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

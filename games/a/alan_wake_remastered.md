@@ -1,12 +1,12 @@
 # Alan Wake Remastered
 [Store](https://store.epicgames.com/en-US/p/alan-wake-remastered)  
 [View Rawdata](../../db/a/alan_wake_remastered.json)  
-Rating: 4.55 (Ranked 477)  
+Rating: 4.55 (Ranked 476)  
 Number of Ratings: 524  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 33.00% | ~18,798 |
+| Follow the Light | 33.00% | ~18,799 |
 | Let There Be Light | 27.00% | ~15,381 |
 | Float Like a Butterfly | 26.00% | ~14,811 |
 | Nordic Walking | 21.00% | ~11,963 |
@@ -16,7 +16,7 @@ Number of Ratings: 524  (23.09.2022)
 | Paging Mr. Wake | 15.00% | ~8,545 |
 | Back! Back, I Say! | 14.00% | ~7,975 |
 | Finders Keepers | 14.00% | ~7,975 |
-| Damn Good Cup of Coffee | 13.00% | ~7,405 |
+| Damn Good Cup of Coffee | 13.00% | ~7,406 |
 | They're Heeeeeere! | 12.00% | ~6,836 |
 | Sound and Fury | 12.00% | ~6,836 |
 | Missed by a Mile | 12.00% | ~6,836 |
@@ -25,8 +25,8 @@ Number of Ratings: 524  (23.09.2022)
 | The Six-Gun Scribe | 11.00% | ~6,266 |
 | Collateral Carnage | 11.00% | ~6,266 |
 | Come One, Come All | 11.00% | ~6,266 |
-| Heavy Metal | 10.00% | ~5,696 |
-| Perchance to Dream | 10.00% | ~5,696 |
+| Heavy Metal | 10.00% | ~5,697 |
+| Perchance to Dream | 10.00% | ~5,697 |
 | Gatekeeper | 9.00% | ~5,127 |
 | It's Not Just a Typewriter Brand | 9.00% | ~5,127 |
 | Thunder and Lightning | 9.00% | ~5,127 |
@@ -74,8 +74,8 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~57 |
 | No Punctuation | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,965 (Ranked 80)  
-Completed: 57 (0.10%) (Ranked 181)  
+Progressed: 56,967 (Ranked 80)  
+Completed: 57 (0.10%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -152,7 +152,7 @@ Completed: 57 (0.10%) (Ranked 181)
 | 2023-07-04 | 56,827 | 57 |
 | 2023-07-05 | 56,875 | 57 |
 | 2023-07-06 | 56,931 | 57 |
-| 2023-07-07 | 56,965 | 57 |
+| 2023-07-07 | 56,967 | 57 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -6,21 +6,21 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,199 |
-| The Mad Wizard | 11.00% | ~22,879 |
-| The Ring of Regeneration | 7.00% | ~14,559 |
-| Are Ya Chicken? | 7.00% | ~14,559 |
-| Were-verpowered | 5.00% | ~10,400 |
-| Seeking Allies | 5.00% | ~10,400 |
-| Mad Cow Disease | 5.00% | ~10,400 |
-| Friendly Imps | 5.00% | ~10,400 |
-| A Persistent Buzzing | 4.00% | ~8,320 |
-| Pure Energy | 4.00% | ~8,320 |
-| Terror in the Dark | 3.00% | ~6,240 |
-| Unearthed Evil | 3.00% | ~6,240 |
-| The Crumbling Temple | 3.00% | ~6,240 |
-| Exploring Port Nyanzaru | 3.00% | ~6,240 |
-| The Contagious Curse | 3.00% | ~6,240 |
+| The Cursed Farmer | 15.00% | ~31,203 |
+| The Mad Wizard | 11.00% | ~22,882 |
+| The Ring of Regeneration | 7.00% | ~14,561 |
+| Are Ya Chicken? | 7.00% | ~14,561 |
+| Were-verpowered | 5.00% | ~10,401 |
+| Seeking Allies | 5.00% | ~10,401 |
+| Mad Cow Disease | 5.00% | ~10,401 |
+| Friendly Imps | 5.00% | ~10,401 |
+| A Persistent Buzzing | 4.00% | ~8,321 |
+| Pure Energy | 4.00% | ~8,321 |
+| Terror in the Dark | 3.00% | ~6,241 |
+| Unearthed Evil | 3.00% | ~6,241 |
+| The Crumbling Temple | 3.00% | ~6,241 |
+| Exploring Port Nyanzaru | 3.00% | ~6,241 |
+| The Contagious Curse | 3.00% | ~6,241 |
 | Beast Mode | 2.00% | ~4,160 |
 | Low Initiative | 2.00% | ~4,160 |
 | A Mysterious Summons | 2.00% | ~4,160 |
@@ -192,7 +192,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Screams of the Dead | 0.20% | ~416 |
 | Frantic Excavation | 0.20% | ~416 |
 | Guests of the Groom | 0.20% | ~416 |
-| Careful Consideration | 0.20% | ~416 |
 | Bazaar Exploits | 0.20% | ~416 |
 | Flame(skull) War | 0.20% | ~416 |
 | The Madness Grows | 0.20% | ~416 |
@@ -227,7 +226,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Relay Race | 0.20% | ~416 |
 | An Illithid Ambush | 0.20% | ~349 |
 | A Difficult Descent | 0.20% | ~349 |
-| The Devil Arrives | 0.20% | ~349 |
 | Dream Gauntlet | 0.20% | ~349 |
 | Zombie Dreams | 0.20% | ~349 |
 | The Path of Redcaps | 0.20% | ~349 |
@@ -294,6 +292,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Distracted Escape | 0.10% | ~174 |
 | Twilight Twist | 0.10% | ~174 |
 | Birds of a Feather | 0.10% | ~174 |
+| Careful Consideration | 0.10% | ~208 |
 | Tanking Expectations | 0.10% | ~174 |
 | Servants of the Demon Prince | 0.10% | ~174 |
 | The Madness Peaks | 0.10% | ~174 |
@@ -326,6 +325,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wait, What? | 0.10% | ~174 |
 | Ireena von Zarovich | 0.10% | ~174 |
 | Déjà Vu All Over Again | 0.10% | ~174 |
+| The Devil Arrives | 0.10% | ~174 |
 | Hearts Aflame | 0.10% | ~174 |
 | Look Out! | 0.10% | ~174 |
 | Bad Odds in Avernus | 0.10% | ~174 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 207,992 (Ranked 52)  
+Progressed: 208,018 (Ranked 52)  
 Completed: 2,035 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -588,7 +588,7 @@ Completed: 2,035 (0.98%) (Ranked 101)
 | 2023-07-04 | 206,280 | 2,028 |
 | 2023-07-05 | 206,889 | 2,032 |
 | 2023-07-06 | 207,486 | 2,035 |
-| 2023-07-07 | 207,992 | 2,035 |
+| 2023-07-07 | 208,018 | 2,035 |
 ## Awards
 Max (Diverse Characters): 5,013  (Ranked 65)  
 Sum: 30,436 (Ranked 37)  
