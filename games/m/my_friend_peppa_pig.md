@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | The View From Windy Castle. | 58.00% | ~42 |
 | Rocket to the Moon! | 49.00% | ~36 |
-| Daddy’s Glasses | 47.00% | ~34 |
+| Daddy’s Glasses | 48.00% | ~35 |
 | Whose tracks are these? | 47.00% | ~34 |
 | Rounding Up the Chickens. | 45.00% | ~33 |
 | Collecting Sticks For the Campfire. | 44.00% | ~32 |
@@ -16,7 +16,7 @@
 | Helping Tiddles the Tortoise. | 22.00% | ~16 |
 | Always Remember To Eat Your Five! | 11.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73 (Ranked 317)  
+Progressed: 73 (Ranked 318)  
 Completed: 4 (5.48%) (Ranked 34)  
 ## EOS Players History
 | Date | Progressed | Completed |

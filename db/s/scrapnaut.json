@@ -6,8 +6,8 @@
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 245,
-  "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_Completed": 139,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -135,11 +135,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 289,
+  "EOS_Progressed": 290,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.35,
+  "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:37.3117405+00:00",
@@ -740,6 +740,11 @@
       "Time": "2023-07-05T20:02:32.6093311+00:00",
       "NumProgressed": 289,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-07T20:01:18.7923816+00:00",
+      "NumProgressed": 290,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -751,7 +756,7 @@
       "Name": "Digger",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACH_ALL_TELEPORTS",
@@ -831,7 +836,7 @@
       "Name": "Electro-Scrap Gatherer",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH_COLLECT_50_SCRAP",
@@ -847,7 +852,7 @@
       "Name": "Cook",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_CUT_100_TREES",
@@ -885,9 +890,9 @@
       "ID": "ACH_FIRST_BASE",
       "SetID": "7c4cldc",
       "Name": "My New Home",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 174
     },
     {
       "ID": "ACH_KILL_100",
@@ -967,7 +972,7 @@
       "Name": "Survivor",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_SURVIVE_20_DAYS",
@@ -991,14 +996,14 @@
       "Name": "Teleport",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     }
   ],
   "AchievementSets": [
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 289,
+      "Progressed": 290,
       "Completed": 1
     }
   ],
@@ -1006,8 +1011,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-07-07T19:02:14.5646707+00:00",
+  "LastChanged_Achievements": "2023-07-07T20:01:18.7923806+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:07.5740905+00:00",
-  "LastUpdate_Ratings": "2023-07-07T18:59:27.6234329+00:00",
-  "LastUpdate_Achievements": "2023-07-07T19:02:14.5647331+00:00"
+  "LastUpdate_Ratings": "2023-07-07T19:58:59.1133813+00:00",
+  "LastUpdate_Achievements": "2023-07-07T20:01:18.7924239+00:00"
 }

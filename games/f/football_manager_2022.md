@@ -6,46 +6,46 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| He's Signed! | 50.00% | ~233,122 |
-| First Victory | 50.00% | ~233,122 |
-| Clean Sheet | 49.00% | ~228,460 |
-| He's Sold! | 47.00% | ~219,135 |
-| I'm The Boss! | 41.00% | ~191,160 |
-| Hat-trick | 41.00% | ~191,160 |
-| Unbeatable! | 37.00% | ~172,510 |
-| Thumping | 37.00% | ~172,510 |
-| Scoring Streak | 37.00% | ~172,510 |
-| Superb Dressing Room Atmosphere | 35.00% | ~163,185 |
-| Total Support | 32.00% | ~149,198 |
-| Record Signing | 32.00% | ~149,198 |
+| He's Signed! | 50.00% | ~233,123 |
+| First Victory | 50.00% | ~233,123 |
+| Clean Sheet | 49.00% | ~228,461 |
+| He's Sold! | 47.00% | ~219,136 |
+| I'm The Boss! | 41.00% | ~191,161 |
+| Hat-trick | 41.00% | ~191,161 |
+| Unbeatable! | 37.00% | ~172,511 |
+| Thumping | 37.00% | ~172,511 |
+| Scoring Streak | 37.00% | ~172,511 |
+| Superb Dressing Room Atmosphere | 35.00% | ~163,186 |
+| Total Support | 32.00% | ~149,199 |
+| Record Signing | 32.00% | ~149,199 |
 | Millionaire's Club | 31.00% | ~144,536 |
-| Team Performance | 30.00% | ~139,873 |
-| He's a Natural | 30.00% | ~139,873 |
+| Team Performance | 30.00% | ~139,874 |
+| He's a Natural | 30.00% | ~139,874 |
 | Parked The Bus | 29.00% | ~135,211 |
 | Shrewd Spender | 29.00% | ~135,211 |
 | Star Man | 29.00% | ~135,211 |
 | Attack! | 27.00% | ~125,886 |
-| You're On Fire | 26.00% | ~121,223 |
-| Tremendous Trio | 26.00% | ~121,223 |
-| Record Sale | 26.00% | ~121,223 |
-| On A Roll | 25.00% | ~116,561 |
-| Unstoppable Force | 25.00% | ~116,561 |
+| You're On Fire | 26.00% | ~121,224 |
+| Tremendous Trio | 26.00% | ~121,224 |
+| Record Sale | 26.00% | ~121,224 |
+| On A Roll | 25.00% | ~116,562 |
+| Unstoppable Force | 25.00% | ~116,562 |
 | Fantastic Five | 24.00% | ~111,899 |
 | Full Faith | 24.00% | ~111,899 |
 | The Boss | 24.00% | ~111,899 |
 | Armchair Expert | 24.00% | ~111,899 |
-| Iron Curtain | 23.00% | ~107,236 |
+| Iron Curtain | 23.00% | ~107,237 |
 | What A Goal! | 22.00% | ~102,574 |
 | Top Of The Class | 22.00% | ~102,574 |
 | Goal Machine | 22.00% | ~102,574 |
 | Cup Glory! | 22.00% | ~102,574 |
-| Splashing The Cash | 21.00% | ~97,911 |
-| Clean Bill of Health | 21.00% | ~97,911 |
-| Irresistible Force | 19.00% | ~88,586 |
-| Excellent Match Cohesion | 19.00% | ~88,586 |
+| Splashing The Cash | 21.00% | ~97,912 |
+| Clean Bill of Health | 21.00% | ~97,912 |
+| Irresistible Force | 19.00% | ~88,587 |
+| Excellent Match Cohesion | 19.00% | ~88,587 |
 | Do The Double | 18.00% | ~83,924 |
-| Top Form | 17.00% | ~79,261 |
-| Cash To Burn | 17.00% | ~79,261 |
+| Top Form | 17.00% | ~79,262 |
+| Cash To Burn | 17.00% | ~79,262 |
 | Beating Expectations | 15.00% | ~69,937 |
 | Overachiever! | 15.00% | ~69,937 |
 | Rushed signing | 15.00% | ~69,937 |
@@ -53,10 +53,10 @@ Number of Ratings: 19,160  (23.09.2022)
 | Eyes and Ears | 14.00% | ~65,274 |
 | Comeback King! | 13.00% | ~60,612 |
 | You're Up! | 13.00% | ~60,612 |
-| Money, Money, Money | 12.00% | ~55,949 |
-| Superb Strike | 10.00% | ~46,624 |
-| Invincible! | 10.00% | ~46,624 |
-| Best In The World | 10.00% | ~46,624 |
+| Money, Money, Money | 12.00% | ~55,950 |
+| Superb Strike | 10.00% | ~46,625 |
+| Invincible! | 10.00% | ~46,625 |
+| Best In The World | 10.00% | ~46,625 |
 | Best In Europe | 9.00% | ~41,962 |
 | Headhunted | 9.00% | ~41,962 |
 | International Superstar | 9.00% | ~41,962 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~466 |
 | Shoestring Budget | 0.10% | ~466 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 466,244 (Ranked 34)  
+Progressed: 466,246 (Ranked 34)  
 Completed: 19 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 19 (0.00%) (Ranked 236)
 | 2023-07-04 | 465,965 | 19 |
 | 2023-07-05 | 466,055 | 19 |
 | 2023-07-06 | 466,166 | 19 |
-| 2023-07-07 | 466,244 | 19 |
+| 2023-07-07 | 466,246 | 19 |
 ## Awards
 Max (Relaxing): 6,344  (Ranked 51)  
 Sum: 49,998 (Ranked 24)  

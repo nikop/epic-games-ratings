@@ -2065,9 +2065,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 638638,
+  "EOS_Progressed": 638660,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 2980,
+  "EOS_NewPlayers": 2972,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10495,6 +10495,11 @@
       "Time": "2023-07-07T19:08:07.0652004+00:00",
       "NumProgressed": 638638,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-07-07T20:06:54.4705247+00:00",
+      "NumProgressed": 638660,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 54,
@@ -10506,7 +10511,7 @@
       "Name": "The dream begins",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 517297
+      "UsersEstimate": 517315
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -10594,7 +10599,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 229910
+      "UsersEstimate": 229918
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -10618,7 +10623,7 @@
       "Name": "Size isn\u0027t everything",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 19159
+      "UsersEstimate": 19160
     },
     {
       "ID": "CONTRACT_WITHIN_10SEC",
@@ -10626,7 +10631,7 @@
       "Name": "Close shave",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 19159
+      "UsersEstimate": 19160
     },
     {
       "ID": "DLC001_CHALLENGES",
@@ -10746,7 +10751,7 @@
       "Name": "The first of many",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 204364
+      "UsersEstimate": 204371
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -10778,7 +10783,7 @@
       "Name": "Teamwork makes the dream work",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 38318
+      "UsersEstimate": 38320
     },
     {
       "ID": "NO_FINE_CONTRACT",
@@ -10786,7 +10791,7 @@
       "Name": "The grass is always greener",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 4470
+      "UsersEstimate": 4471
     },
     {
       "ID": "ONE_OF_EACH_CONTRACT",
@@ -10810,7 +10815,7 @@
       "Name": "Lawn in the U.S.A.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 95796
+      "UsersEstimate": 95799
     },
     {
       "ID": "PART_EX_LESS_EXPENSIVE",
@@ -10842,7 +10847,7 @@
       "Name": "The top of the mountain",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 6386
+      "UsersEstimate": 6387
     },
     {
       "ID": "PURCHASE_SECOND_HQ",
@@ -10866,7 +10871,7 @@
       "Name": "Credible",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 44705
+      "UsersEstimate": 44706
     },
     {
       "ID": "RP_DISTINGUISHED",
@@ -10882,7 +10887,7 @@
       "Name": "Established",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 19159
+      "UsersEstimate": 19160
     },
     {
       "ID": "RP_ESTEEMED",
@@ -10906,7 +10911,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 114955
+      "UsersEstimate": 114959
     },
     {
       "ID": "RP_TRUSTED",
@@ -10922,7 +10927,7 @@
       "Name": "Blade Runner",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 57477
+      "UsersEstimate": 57479
     },
     {
       "ID": "UPGRADE_COMPANY_HQ",
@@ -10937,15 +10942,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 638638,
+      "Progressed": 638660,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-07-07T07:58:31.6520155+00:00",
-  "LastChanged_Achievements": "2023-07-07T19:08:07.0651998+00:00",
+  "LastChanged_Achievements": "2023-07-07T20:06:54.470524+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:26.1282427+00:00",
-  "LastUpdate_Ratings": "2023-07-07T18:58:48.2026264+00:00",
-  "LastUpdate_Achievements": "2023-07-07T19:08:07.0653037+00:00"
+  "LastUpdate_Ratings": "2023-07-07T19:58:25.4329653+00:00",
+  "LastUpdate_Achievements": "2023-07-07T20:06:54.4706219+00:00"
 }

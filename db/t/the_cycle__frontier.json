@@ -5792,10 +5792,16 @@
       "Rating": 4.1,
       "NumberOfAwards": 13732,
       "NumberOfAwardsMax": 2439
+    },
+    {
+      "Time": "2023-07-07T19:58:48.524788+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 13734,
+      "NumberOfAwardsMax": 2439
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13732,
+  "NumberOfAwards": 13734,
   "NumberOfAwardsMax": 2439,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
@@ -5821,7 +5827,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 2372
+      "Count": 2374
     },
     {
       "Text": "This game has Challenging Combat",
@@ -5853,8 +5859,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:03.6642346+00:00",
-  "LastChanged": "2023-07-07T17:59:03.5362829+00:00",
+  "LastChanged": "2023-07-07T19:58:48.5247878+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:53.3613666+00:00",
-  "LastUpdate_Ratings": "2023-07-07T18:59:14.8004796+00:00",
-  "LastUpdate_Achievements": "2023-07-07T19:02:39.7069219+00:00"
+  "LastUpdate_Ratings": "2023-07-07T19:58:48.5247884+00:00",
+  "LastUpdate_Achievements": "2023-07-07T20:01:40.8493785+00:00"
 }

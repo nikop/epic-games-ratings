@@ -45,6 +45,7 @@ Rating: 4.87 (Ranked 25)
 | I think I found your calling, Macaron | 0.10% | ~3 |
 | This is a breeze! | 0.10% | ~3 |
 | We're Jammin' | 0.10% | ~3 |
+| First we parry, then we counter | 0.10% | ~3 |
 | Now this is how you fight like a team! | 0.10% | ~3 |
 | This was... not what I expected. | 0.10% | ~3 |
 | I hit things with a guitar really well. | 0.10% | ~3 |
@@ -63,7 +64,6 @@ Rating: 4.87 (Ranked 25)
 | I have to read ALL of these things? | 0.00% | ~0 |
 | OK, well THEY came after ME! | 0.00% | ~0 |
 | I'm not done with you yet | 0.00% | ~0 |
-| First we parry, then we counter | 0.00% | ~0 |
 | My Ultimate Setlist | 0.00% | ~0 |
 | What a journey it was... | 0.00% | ~0 |
 | Have we met before? | 0.00% | ~0 |

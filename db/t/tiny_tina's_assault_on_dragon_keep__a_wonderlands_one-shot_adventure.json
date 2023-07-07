@@ -4,7 +4,7 @@
   "ProductSlug": "tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure",
   "Ranking_Rating": 604,
   "Ranking_Popularity": 236,
-  "Ranking_PopularitySum": 335,
+  "Ranking_PopularitySum": 334,
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 307,
@@ -637,18 +637,24 @@
       "Rating": 4.46,
       "NumberOfAwards": 281,
       "NumberOfAwardsMax": 281
+    },
+    {
+      "Time": "2023-07-07T20:00:09.1701352+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 282,
+      "NumberOfAwardsMax": 282
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 281,
-  "NumberOfAwardsMax": 281,
+  "NumberOfAwards": 282,
+  "NumberOfAwardsMax": 282,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 281
+      "Count": 282
     }
   ],
   "EOS_Progressed": 0,
@@ -662,8 +668,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:16.2350109+00:00",
-  "LastChanged": "2023-06-29T09:00:49.6259036+00:00",
+  "LastChanged": "2023-07-07T20:00:09.170135+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:41.3131388+00:00",
-  "LastUpdate_Ratings": "2023-07-07T19:00:50.7125609+00:00",
-  "LastUpdate_Achievements": "2023-07-07T19:03:47.1362792+00:00"
+  "LastUpdate_Ratings": "2023-07-07T20:00:09.1701357+00:00",
+  "LastUpdate_Achievements": "2023-07-07T20:02:38.4429003+00:00"
 }

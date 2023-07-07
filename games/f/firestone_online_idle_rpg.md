@@ -60,8 +60,8 @@ Rating: 4.09 (Ranked 890)
 | Arena Challenger | 3.00% | ~47 |
 | Legendary | 3.00% | ~47 |
 | The Alchemist | 3.00% | ~47 |
+| What lies behind the bush | 3.00% | ~47 |
 | Ebony Jungle Liberator | 2.00% | ~32 |
-| What lies behind the bush | 2.00% | ~32 |
 | Mythic Power | 1.00% | ~16 |
 | Training makes a Pro player | 0.70% | ~11 |
 | Gear Enchanting | 0.60% | ~9 |

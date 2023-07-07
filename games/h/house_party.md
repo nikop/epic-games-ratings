@@ -9,11 +9,11 @@ Number of Ratings: 177  (23.09.2022)
 | A Friend in Need... | 3.00% | ~171 |
 | Caught in the Act | 2.00% | ~114 |
 | Katherine | 2.00% | ~114 |
+| Relentless | 2.00% | ~114 |
 | Smooth Operator: Madison | 2.00% | ~114 |
 | The Brahdyssey | 1.00% | ~57 |
 | Drunk and Disorderly: Stephanie | 1.00% | ~57 |
 | Life Found a Way | 1.00% | ~28 |
-| Relentless | 1.00% | ~57 |
 | If at First You Don't Succeed... | 1.00% | ~57 |
 | Drunk and Disorderly: Ashley | 0.70% | ~40 |
 | IRL Let's Player | 0.70% | ~40 |

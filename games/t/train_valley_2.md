@@ -82,7 +82,7 @@ Number of Ratings: 87  (23.09.2022)
 | Gemologist | 0.00% | ~0 |
 | Jeweller | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 750 (Ranked 196)  
+Progressed: 750 (Ranked 197)  
 Completed: 1 (0.13%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |

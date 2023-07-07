@@ -12,6 +12,7 @@ Rating: 4.45 (Ranked 620)
 | Climbing the Ladder | 1.00% | ~32 |
 | Liberté | 1.00% | ~32 |
 | No Stone Unturned | 1.00% | ~32 |
+| Organ Grinder | 1.00% | ~32 |
 | Meeting Resistance | 1.00% | ~32 |
 | Gunslinger | 1.00% | ~32 |
 | Sharpshooter | 1.00% | ~32 |
@@ -22,7 +23,6 @@ Rating: 4.45 (Ranked 620)
 | The Kraken Wakes | 1.00% | ~32 |
 | It's Starting to Crack | 1.00% | ~32 |
 | Change the Channel | 1.00% | ~32 |
-| Organ Grinder | 0.90% | ~29 |
 | Opposing Force | 0.80% | ~26 |
 | Set Europe Ablaze | 0.80% | ~26 |
 | Precision Is Key | 0.80% | ~26 |
@@ -35,18 +35,19 @@ Rating: 4.45 (Ranked 620)
 | Enemy at the Gates | 0.60% | ~19 |
 | Fields of Glory | 0.60% | ~19 |
 | Die Nussknacker Sweet! | 0.60% | ~19 |
+| Tinkerer | 0.60% | ~19 |
 | Just a Flesh Wound | 0.50% | ~16 |
 | The Long Game | 0.50% | ~16 |
 | Rigged to Blow | 0.50% | ~16 |
-| Tinkerer | 0.50% | ~16 |
+| From Paris with Love | 0.40% | ~13 |
 | Don't hold your breath | 0.40% | ~13 |
 | Herr Today, Gone Tomorrow | 0.40% | ~13 |
 | Siegebreaker | 0.40% | ~13 |
 | Ghost of Falaise | 0.40% | ~13 |
 | Strategist | 0.30% | ~10 |
-| From Paris with Love | 0.30% | ~10 |
 | Burn after reading | 0.30% | ~10 |
 | Souvenir hunter | 0.30% | ~10 |
+| Eagle Eyed | 0.30% | ~10 |
 | It'll Buff Right Out | 0.30% | ~10 |
 | Road Rage | 0.30% | ~10 |
 | Operation Foxley | 0.30% | ~10 |
@@ -56,7 +57,6 @@ Rating: 4.45 (Ranked 620)
 | Master of Secondaries | 0.20% | ~6 |
 | Master of Rifles | 0.20% | ~6 |
 | Out of Scope | 0.20% | ~6 |
-| Eagle Eyed | 0.20% | ~6 |
 | Locomotion Commotion | 0.20% | ~6 |
 | Up close and personal | 0.20% | ~6 |
 | Shoot for the Moon | 0.20% | ~6 |

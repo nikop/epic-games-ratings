@@ -11,7 +11,7 @@ Number of Ratings: 371  (23.09.2022)
 | Watch Where You Step... | 33.00% | ~973 |
 | Not So Fast... | 32.00% | ~943 |
 | An Ill Omen | 30.00% | ~884 |
-| Purging Spree | 24.00% | ~707 |
+| Purging Spree | 25.00% | ~737 |
 | Blood for the Blood God! | 19.00% | ~560 |
 | Surgical Excision | 17.00% | ~501 |
 | Friendly Fire | 17.00% | ~501 |

@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 455,
+  "EOS_Progressed": 456,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 448,
+  "EOS_NewPlayers": 449,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -711,6 +711,11 @@
       "Time": "2023-07-07T18:03:48.0179631+00:00",
       "NumProgressed": 455,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-07T20:03:38.4295911+00:00",
+      "NumProgressed": 456,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -722,7 +727,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -1008,9 +1013,9 @@
       "ID": "KILLR_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Who You Gonna Call?",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 105
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -1082,7 +1087,7 @@
       "Name": "Don\u0027t Turn Your Back",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -1114,7 +1119,7 @@
       "Name": "Night Snack",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -1154,7 +1159,7 @@
       "Name": "The Last of Us",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -1249,14 +1254,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 455,
+      "Progressed": 456,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-07T19:04:50.9225586+00:00",
+  "LastChanged_Achievements": "2023-07-07T20:03:38.4295906+00:00",
   "LastUpdate_AppInfo": "2023-07-06T13:16:22.5768242+00:00",
-  "LastUpdate_Ratings": "2023-07-07T18:57:16.487652+00:00",
-  "LastUpdate_Achievements": "2023-07-07T19:04:50.9226379+00:00"
+  "LastUpdate_Ratings": "2023-07-07T19:57:10.8245017+00:00",
+  "LastUpdate_Achievements": "2023-07-07T20:03:38.4296639+00:00"
 }

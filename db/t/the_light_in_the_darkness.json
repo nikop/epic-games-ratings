@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1865,
+  "EOS_Progressed": 1866,
   "EOS_Completed": 159,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 8.53,
+  "EOS_Completed_Percentage": 8.52,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -3563,6 +3563,11 @@
       "Time": "2023-07-07T08:03:09.540458+00:00",
       "NumProgressed": 1865,
       "NumCompleted": 159
+    },
+    {
+      "Time": "2023-07-07T20:01:40.4870226+00:00",
+      "NumProgressed": 1866,
+      "NumCompleted": 159
     }
   ],
   "TotalAchievements": 12,
@@ -3606,7 +3611,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "Jakob",
@@ -3614,7 +3619,7 @@
       "Name": "Jakob",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "Jude",
@@ -3630,7 +3635,7 @@
       "Name": "Le Juif et la France",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "Little Helper",
@@ -3669,7 +3674,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1865,
+      "Progressed": 1866,
       "Completed": 159
     }
   ],
@@ -3677,8 +3682,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-07-07T19:02:39.2925959+00:00",
+  "LastChanged_Achievements": "2023-07-07T20:01:40.4870221+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:39.8117525+00:00",
-  "LastUpdate_Ratings": "2023-07-07T19:00:48.965903+00:00",
-  "LastUpdate_Achievements": "2023-07-07T19:02:39.292653+00:00"
+  "LastUpdate_Ratings": "2023-07-07T20:00:07.7303199+00:00",
+  "LastUpdate_Achievements": "2023-07-07T20:01:40.4870606+00:00"
 }

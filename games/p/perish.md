@@ -28,6 +28,7 @@
 | Siege Unit | 3.00% | ~95 |
 | Divine Assemblage | 3.00% | ~95 |
 | Ophiolatreia | 3.00% | ~95 |
+| Serpentine | 3.00% | ~95 |
 | Wayward Son of Hephaestus | 2.00% | ~64 |
 | Forged in Fire | 2.00% | ~64 |
 | Rock and a Hard Place | 2.00% | ~64 |
@@ -39,7 +40,6 @@
 | Halls of Marble | 2.00% | ~64 |
 | Mors Omnibus | 2.00% | ~64 |
 | Blot Out the Sky | 2.00% | ~64 |
-| Serpentine | 2.00% | ~64 |
 | The Nameless One | 1.00% | ~32 |
 | Lament of the Constellations | 1.00% | ~32 |
 | Rule of Thirds | 1.00% | ~32 |

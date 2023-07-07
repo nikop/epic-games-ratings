@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3891,
+  "EOS_Progressed": 3893,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 329,
+  "EOS_NewPlayers": 325,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5581,6 +5581,11 @@
       "Time": "2023-07-07T19:07:54.0989496+00:00",
       "NumProgressed": 3891,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-07T20:06:42.8356827+00:00",
+      "NumProgressed": 3893,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -5592,7 +5597,7 @@
       "Name": "First Step",
       "Percentage": 40,
       "XP": 45,
-      "UsersEstimate": 1556
+      "UsersEstimate": 1557
     },
     {
       "ID": "10",
@@ -5648,7 +5653,7 @@
       "Name": "Dense Forest",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 1323
+      "UsersEstimate": 1324
     },
     {
       "ID": "3",
@@ -5688,7 +5693,7 @@
       "Name": "Blue Rapids",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "8",
@@ -5704,14 +5709,14 @@
       "Name": "Speed\u00A0walkers",
       "Percentage": 7,
       "XP": 65,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     }
   ],
   "AchievementSets": [
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 3891,
+      "Progressed": 3893,
       "Completed": 0
     }
   ],
@@ -5719,8 +5724,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-07-07T19:07:54.098949+00:00",
+  "LastChanged_Achievements": "2023-07-07T20:06:42.8356823+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:33.6056115+00:00",
-  "LastUpdate_Ratings": "2023-07-07T18:58:55.885252+00:00",
-  "LastUpdate_Achievements": "2023-07-07T19:07:54.0989984+00:00"
+  "LastUpdate_Ratings": "2023-07-07T19:58:32.5390365+00:00",
+  "LastUpdate_Achievements": "2023-07-07T20:06:42.8357423+00:00"
 }
