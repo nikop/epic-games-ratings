@@ -30,9 +30,9 @@ Rating: 4.46 (Ranked 603)
 | Come on, You Wanna Live Forever? | 14.00% | ~371 |
 | Deep Into Insanity | 14.00% | ~371 |
 | The Passenger | 14.00% | ~371 |
-| El Riesgo Siempre Vive | 12.00% | ~318 |
+| El Riesgo Siempre Vive | 13.00% | ~345 |
+| One For Every Occasion | 11.00% | ~292 |
 | The Spire | 11.00% | ~292 |
-| One For Every Occasion | 10.00% | ~265 |
 | Frontliner | 10.00% | ~265 |
 | The Cable Guy | 10.00% | ~265 |
 | Bandage Lover | 9.00% | ~239 |

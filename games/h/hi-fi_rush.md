@@ -9,6 +9,7 @@ Rating: 4.87 (Ranked 25)
 | Call me Turbo Chai | 0.40% | ~8 |
 | Who's the boss now? | 0.30% | ~10 |
 | I play my own way! | 0.30% | ~10 |
+| Uh, they were broken when I got here | 0.30% | ~10 |
 | Who put gears in there? | 0.30% | ~10 |
 | Cream of the Crop | 0.20% | ~7 |
 | This will cost you big time | 0.20% | ~7 |
@@ -21,7 +22,6 @@ Rating: 4.87 (Ranked 25)
 | Z-shielding's got nothing on us! | 0.20% | ~7 |
 | Out in a puff of smoke | 0.20% | ~7 |
 | Perfect Parry | 0.20% | ~7 |
-| Uh, they were broken when I got here | 0.20% | ~7 |
 | Kissing the sky! | 0.20% | ~7 |
 | I look cool. But I can look COOLER. | 0.20% | ~7 |
 | Alright, that felt AWESOME! | 0.20% | ~7 |

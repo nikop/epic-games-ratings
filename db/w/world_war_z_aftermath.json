@@ -3,12 +3,12 @@
   "Name": "World War Z Aftermath",
   "ProductSlug": "world-war-z",
   "Ranking_Rating": 458,
-  "Ranking_Popularity": 76,
+  "Ranking_Popularity": 75,
   "Ranking_PopularitySum": 44,
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-09-21T13:00:00+00:00",
     "PcReleaseDate": "2021-09-21T13:00:00+00:00",
@@ -6569,18 +6569,24 @@
       "Rating": 4.56,
       "NumberOfAwards": 27096,
       "NumberOfAwardsMax": 4125
+    },
+    {
+      "Time": "2023-07-07T04:57:35.0693209+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 27102,
+      "NumberOfAwardsMax": 4131
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27096,
-  "NumberOfAwardsMax": 4125,
+  "NumberOfAwards": 27102,
+  "NumberOfAwardsMax": 4131,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4125
+      "Count": 4131
     },
     {
       "Text": "This game is Relaxing",
@@ -6650,9 +6656,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:09.1230837+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.7901405+00:00",
-  "LastChanged": "2023-07-06T21:58:10.525963+00:00",
-  "LastChanged_Achievements": "2023-07-07T04:06:20.6081956+00:00",
+  "LastChanged": "2023-07-07T04:57:35.0693208+00:00",
+  "LastChanged_Achievements": "2023-07-07T05:05:40.5873221+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:35.414828+00:00",
-  "LastUpdate_Ratings": "2023-07-07T03:57:42.8426395+00:00",
-  "LastUpdate_Achievements": "2023-07-07T04:06:20.608199+00:00"
+  "LastUpdate_Ratings": "2023-07-07T04:57:35.0693214+00:00",
+  "LastUpdate_Achievements": "2023-07-07T05:05:40.5873257+00:00"
 }

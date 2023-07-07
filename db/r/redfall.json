@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -2350,9 +2350,9 @@
       "ID": "Achievement_040",
       "SetID": "6b34g18",
       "Name": "Heart Attack",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 548
+      "UsersEstimate": 565
     },
     {
       "ID": "Achievement_041",
@@ -2583,8 +2583,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-06-29T18:58:17.6632611+00:00",
-  "LastChanged_Achievements": "2023-07-07T04:03:15.4899554+00:00",
+  "LastChanged_Achievements": "2023-07-07T05:03:15.7348817+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:11.2481663+00:00",
-  "LastUpdate_Ratings": "2023-07-07T03:58:01.3318456+00:00",
-  "LastUpdate_Achievements": "2023-07-07T04:03:15.4900295+00:00"
+  "LastUpdate_Ratings": "2023-07-07T04:57:49.5634965+00:00",
+  "LastUpdate_Achievements": "2023-07-07T05:03:15.7349669+00:00"
 }

@@ -6,22 +6,22 @@ Number of Ratings: 743  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 69.00% | ~29,667 |
-| Say goodbye, creep! | 65.00% | ~27,947 |
-| Blood splattered | 65.00% | ~27,947 |
+| Shoot it, man! Shoot it in the head! | 69.00% | ~29,668 |
+| Say goodbye, creep! | 65.00% | ~27,948 |
+| Blood splattered | 65.00% | ~27,948 |
 | Choo choo! | 62.00% | ~26,658 |
 | Groovy | 61.00% | ~26,228 |
 | Cleanup on aisle 4! | 57.00% | ~24,508 |
 | Gold | 50.00% | ~21,498 |
-| The boat can leave now...tell the crew | 49.00% | ~21,068 |
-| Stand back boy! | 47.00% | ~20,208 |
-| Give me something to shoot! | 46.00% | ~19,778 |
-| Weird science | 44.00% | ~18,918 |
-| Chain reaction | 44.00% | ~18,918 |
-| What did you say, Blain? | 42.00% | ~18,058 |
-| Look mummy! A shark! | 41.00% | ~17,628 |
-| In the dark dark woods... | 39.00% | ~16,768 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,338 |
+| The boat can leave now...tell the crew | 49.00% | ~21,069 |
+| Stand back boy! | 47.00% | ~20,209 |
+| Give me something to shoot! | 46.00% | ~19,779 |
+| Weird science | 44.00% | ~18,919 |
+| Chain reaction | 44.00% | ~18,919 |
+| What did you say, Blain? | 42.00% | ~18,059 |
+| Look mummy! A shark! | 41.00% | ~17,629 |
+| In the dark dark woods... | 39.00% | ~16,769 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,339 |
 | Double tap | 37.00% | ~15,909 |
 | All of this has happened before… | 36.00% | ~15,479 |
 | Cranial blowout! | 36.00% | ~15,479 |
@@ -42,9 +42,9 @@ Number of Ratings: 743  (23.09.2022)
 | Take them down screaming | 18.00% | ~7,739 |
 | Bad Blood | 17.00% | ~7,309 |
 | Weapons expert | 17.00% | ~7,309 |
-| The bigger they are... | 15.00% | ~6,449 |
-| I'm going deeper underground | 14.00% | ~6,019 |
-| Well equipped | 13.00% | ~5,589 |
+| The bigger they are... | 15.00% | ~6,450 |
+| I'm going deeper underground | 14.00% | ~6,020 |
+| Well equipped | 13.00% | ~5,590 |
 | Into the deep | 12.00% | ~5,160 |
 | Damnedbusters | 9.00% | ~3,870 |
 | I can do anything I want. I got guns | 8.00% | ~3,440 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~430 |
 | None more hard | 0.50% | ~215 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,996 (Ranked 87)  
+Progressed: 42,997 (Ranked 87)  
 Completed: 25 (0.06%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 25 (0.06%) (Ranked 195)
 | 2023-07-04 | 42,976 | 25 |
 | 2023-07-05 | 42,988 | 25 |
 | 2023-07-06 | 42,994 | 25 |
-| 2023-07-07 | 42,996 | 25 |
+| 2023-07-07 | 42,997 | 25 |
 ## Awards
 Max (Great Boss Battles): 798  (Ranked 152)  
 Sum: 2,432 (Ranked 173)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 711,
+  "EOS_Progressed": 712,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2006,6 +2006,11 @@
       "Time": "2023-07-07T03:24:30.7492065+00:00",
       "NumProgressed": 711,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-07T05:03:10.1930129+00:00",
+      "NumProgressed": 712,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2063,9 +2068,9 @@
       "ID": "call_of_mana_1",
       "SetID": "53c1p3k",
       "Name": "Call of Mana 1",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 28
     },
     {
       "ID": "call_of_mana_2",
@@ -2185,7 +2190,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "elemental_stones_2",
@@ -2255,9 +2260,9 @@
       "ID": "glitter_of_gold_1",
       "SetID": "53c1p3k",
       "Name": "Glitter of Gold 1",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 28
     },
     {
       "ID": "glitter_of_gold_2",
@@ -2544,14 +2549,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 711,
+      "Progressed": 712,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-07-07T04:03:08.6354622+00:00",
+  "LastChanged_Achievements": "2023-07-07T05:03:10.1930124+00:00",
   "LastUpdate_AppInfo": "2023-07-04T02:21:54.526557+00:00",
-  "LastUpdate_Ratings": "2023-07-07T03:57:06.9905705+00:00",
-  "LastUpdate_Achievements": "2023-07-07T04:03:08.6355241+00:00"
+  "LastUpdate_Ratings": "2023-07-07T04:57:05.3591869+00:00",
+  "LastUpdate_Achievements": "2023-07-07T05:03:10.1930875+00:00"
 }

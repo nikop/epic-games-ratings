@@ -2,10 +2,10 @@
   "ID": "f0757a2ab13941d89476cfa09df9a545",
   "Name": "Endling - Extinction is Forever",
   "ProductSlug": "endling-extinction-is-forever",
-  "Ranking_EOS_Progress": 219,
+  "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 449,
+  "EOS_Progressed": 450,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.67,
   "EosHistory": [
@@ -451,6 +451,11 @@
       "Time": "2023-07-02T04:04:50.4796563+00:00",
       "NumProgressed": 449,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-07T05:04:21.290055+00:00",
+      "NumProgressed": 450,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -478,7 +483,7 @@
       "Name": "Three Little Foxes",
       "Percentage": 11,
       "XP": 45,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "TROP003",
@@ -486,7 +491,7 @@
       "Name": "Two Peas in a Pod",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "TROP004",
@@ -494,7 +499,7 @@
       "Name": "All For One",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "TROP005",
@@ -502,7 +507,7 @@
       "Name": "A Friend in Need",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "TROP006",
@@ -518,7 +523,7 @@
       "Name": "Family Reunion",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "TROP008",
@@ -526,7 +531,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "TROP009",
@@ -534,7 +539,7 @@
       "Name": "Surviving",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "TROP010",
@@ -550,7 +555,7 @@
       "Name": "Extinction is Forever",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "TROP012",
@@ -590,7 +595,7 @@
       "Name": "Beyond Words",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "TROP017",
@@ -614,7 +619,7 @@
       "Name": "Barking in The Rain",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "TROP020",
@@ -628,9 +633,9 @@
       "ID": "TROP021",
       "SetID": "9n0dl35",
       "Name": "Tasty",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 166
+      "UsersEstimate": 162
     },
     {
       "ID": "TROP022",
@@ -685,7 +690,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 449,
+      "Progressed": 450,
       "Completed": 3
     }
   ],
@@ -693,8 +698,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-07-07T04:04:39.8581044+00:00",
+  "LastChanged_Achievements": "2023-07-07T05:04:21.2900545+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:43.3469845+00:00",
-  "LastUpdate_Ratings": "2023-07-07T03:59:12.7694394+00:00",
-  "LastUpdate_Achievements": "2023-07-07T04:04:39.8581252+00:00"
+  "LastUpdate_Ratings": "2023-07-07T04:58:47.2493864+00:00",
+  "LastUpdate_Achievements": "2023-07-07T05:04:21.2900755+00:00"
 }

@@ -6,16 +6,16 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~437,278 |
-| The Three | 64.00% | ~337,178 |
-| The Banquet | 40.00% | ~210,736 |
-| Devara's Light | 30.00% | ~158,052 |
-| The Iron Ones | 18.00% | ~94,831 |
+| Find Sanctuary | 83.00% | ~437,280 |
+| The Three | 64.00% | ~337,180 |
+| The Banquet | 40.00% | ~210,737 |
+| Devara's Light | 30.00% | ~158,053 |
+| The Iron Ones | 18.00% | ~94,832 |
 | The Village | 16.00% | ~84,295 |
 | The Forest | 14.00% | ~73,758 |
-| Branded | 13.00% | ~68,489 |
-| The Imposter | 13.00% | ~68,489 |
-| The Keep | 13.00% | ~68,489 |
+| Branded | 13.00% | ~68,490 |
+| The Imposter | 13.00% | ~68,490 |
+| The Keep | 13.00% | ~68,490 |
 | The Castle | 11.00% | ~57,953 |
 | The Dome | 9.00% | ~47,416 |
 | The Red Hall | 9.00% | ~47,416 |
@@ -23,10 +23,10 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Cave | 7.00% | ~36,879 |
 | The Stone Roots | 7.00% | ~36,879 |
 | The Ziggurat | 7.00% | ~36,879 |
-| Storied | 6.00% | ~31,610 |
-| The Construct | 6.00% | ~31,610 |
-| The Mire | 6.00% | ~31,610 |
-| The Ruins | 6.00% | ~31,610 |
+| Storied | 6.00% | ~31,611 |
+| The Construct | 6.00% | ~31,611 |
+| The Mire | 6.00% | ~31,611 |
+| The Ruins | 6.00% | ~31,611 |
 | The Alkymancery | 5.00% | ~26,342 |
 | The Lake | 5.00% | ~26,342 |
 | The Pitchwoods | 5.00% | ~26,342 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,537 |
 | Fading Fast | 1.00% | ~5,268 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 526,841 (Ranked 28)  
+Progressed: 526,843 (Ranked 28)  
 Completed: 1,471 (0.28%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 1,471 (0.28%) (Ranked 148)
 | 2023-07-04 | 526,646 | 1,465 |
 | 2023-07-05 | 526,741 | 1,470 |
 | 2023-07-06 | 526,831 | 1,471 |
-| 2023-07-07 | 526,841 | 1,471 |
+| 2023-07-07 | 526,843 | 1,471 |
 ## Awards
 Max (Challenging Combat): 274  (Ranked 239)  
 Sum: 1,909 (Ranked 202)  

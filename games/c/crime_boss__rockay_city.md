@@ -5,13 +5,13 @@ Rating: 3.93 (Ranked 924)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~50,654 |
-| First One’s Free | 65.00% | ~44,493 |
+| Downed but Not Outed | 74.00% | ~50,655 |
+| First One’s Free | 65.00% | ~44,494 |
 | Neophyte Ninja | 50.00% | ~34,226 |
-| Too Old for This | 47.00% | ~32,172 |
-| Fancy Pants | 35.00% | ~23,958 |
-| Case Closed | 34.00% | ~23,273 |
-| King of the Hill | 34.00% | ~23,273 |
+| Too Old for This | 47.00% | ~32,173 |
+| Fancy Pants | 35.00% | ~23,959 |
+| Case Closed | 34.00% | ~23,274 |
+| King of the Hill | 34.00% | ~23,274 |
 | Underworld Initiate | 29.00% | ~19,851 |
 | Roid Ranger | 21.00% | ~14,375 |
 | True Player | 19.00% | ~13,006 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 924)
 | Geek Out | 0.50% | ~342 |
 | Full House | 0.20% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,451 (Ranked 72)  
+Progressed: 68,453 (Ranked 72)  
 Completed: 36 (0.05%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,10 +121,10 @@ Completed: 36 (0.05%) (Ranked 199)
 | 2023-07-04 | 68,337 | 35 |
 | 2023-07-05 | 68,390 | 35 |
 | 2023-07-06 | 68,442 | 36 |
-| 2023-07-07 | 68,451 | 36 |
+| 2023-07-07 | 68,453 | 36 |
 ## Awards
 Max (Diverse Characters): 358  (Ranked 220)  
-Sum: 1,698 (Ranked 206)  
+Sum: 1,700 (Ranked 206)  
 Diff (max vs sum): 14  
 | Award | Count |
 | ----- | ----- |
@@ -132,7 +132,7 @@ Diff (max vs sum): 14
 | This game is Highly Recommended | 347 |
 | This game has Quickly Understood Controls | 339 |
 | This game has Challenging Combat | 329 |
-| This game has Amazing Characters | 325 |
+| This game has Amazing Characters | 327 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
 | This game has a Silly Community | 33 |
@@ -239,4 +239,4 @@ Diff (max vs sum): 14
 | 2023-07-04 | 3.93 | 355 | 1,688 |
 | 2023-07-05 | 3.93 | 358 | 1,693 |
 | 2023-07-06 | 3.93 | 358 | 1,695 |
-| 2023-07-07 | 3.93 | 358 | 1,698 |
+| 2023-07-07 | 3.93 | 358 | 1,700 |

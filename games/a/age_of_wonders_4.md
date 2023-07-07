@@ -33,10 +33,10 @@ Rating: 4.61 (Ranked 362)
 | In a Liege of Your Own | 1.00% | ~49 |
 | Against the Odds | 1.00% | ~49 |
 | Duality | 1.00% | ~49 |
+| God Emperor | 0.90% | ~44 |
 | The Creator | 0.90% | ~44 |
 | The Goddess of Nature | 0.90% | ~44 |
 | The Magic That Empowers Me! | 0.80% | ~39 |
-| God Emperor | 0.80% | ~39 |
 | Eternal Lord | 0.80% | ~39 |
 | The Eternal Court | 0.80% | ~39 |
 | Crimson Caldera | 0.70% | ~35 |

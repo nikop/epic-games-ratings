@@ -4,8 +4,8 @@
   "ProductSlug": "dark-and-light",
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-30T23:57:28.3684102+00:00",
-  "LastUpdate_Ratings": "2023-07-07T03:57:36.9020261+00:00",
-  "LastUpdate_Achievements": "2023-07-07T04:05:39.0230635+00:00"
+  "LastUpdate_Ratings": "2023-07-07T04:57:30.3459624+00:00",
+  "LastUpdate_Achievements": "2023-07-07T05:05:08.2241895+00:00"
 }

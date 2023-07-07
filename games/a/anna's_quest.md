@@ -44,7 +44,7 @@
 | Clever reference #451 | 25.00% | ~6 |
 | Posterboy! | 25.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24 (Ranked 366)  
+Progressed: 24 (Ranked 367)  
 Completed: 5 (20.83%) (Ranked 8)  
 ## EOS Players History
 | Date | Progressed | Completed |

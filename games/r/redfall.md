@@ -18,7 +18,7 @@ Rating: 3.53 (Ranked 948)
 | Fly Fisher | 36.00% | ~616 |
 | Throw The First Stone | 35.00% | ~599 |
 | Enter of Your Own Free Will | 33.00% | ~565 |
-| Heart Attack | 32.00% | ~548 |
+| Heart Attack | 33.00% | ~565 |
 | Skin of Their Teeth | 31.00% | ~530 |
 | Grounded | 24.00% | ~411 |
 | Bad Wiring | 22.00% | ~376 |

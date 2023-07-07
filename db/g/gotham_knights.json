@@ -1860,10 +1860,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4009,
       "NumberOfAwardsMax": 2421
+    },
+    {
+      "Time": "2023-07-07T04:59:35.1524575+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4010,
+      "NumberOfAwardsMax": 2421
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4009,
+  "NumberOfAwards": 4010,
   "NumberOfAwardsMax": 2421,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1877,7 +1883,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 204
+      "Count": 205
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1928,9 +1934,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 66588,
+  "EOS_Progressed": 66592,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 462,
+  "EOS_NewPlayers": 463,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -8933,6 +8939,11 @@
       "Time": "2023-07-07T03:24:19.4581198+00:00",
       "NumProgressed": 66588,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-07-07T05:02:30.2305558+00:00",
+      "NumProgressed": 66592,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 61,
@@ -9198,9 +9209,9 @@
       "ID": "FREEZE_SHOWDOWN_1",
       "SetID": "18c818l",
       "Name": "Icebreaker",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 74
     },
     {
       "ID": "FREEZE_SHOWDOWN_2",
@@ -9288,7 +9299,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3995
+      "UsersEstimate": 3996
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -9431,22 +9442,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 66588,
+      "Progressed": 66592,
       "Completed": 100
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 36868,
+      "Progressed": 36872,
       "Completed": 2652
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-07-06T23:01:24.7580692+00:00",
-  "LastChanged_Achievements": "2023-07-07T04:02:34.3087517+00:00",
+  "LastChanged": "2023-07-07T04:59:35.1524574+00:00",
+  "LastChanged_Achievements": "2023-07-07T05:02:30.2305553+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:00.6402231+00:00",
-  "LastUpdate_Ratings": "2023-07-07T04:00:14.3043541+00:00",
-  "LastUpdate_Achievements": "2023-07-07T04:02:34.3088788+00:00"
+  "LastUpdate_Ratings": "2023-07-07T04:59:35.1524579+00:00",
+  "LastUpdate_Achievements": "2023-07-07T05:02:30.230654+00:00"
 }

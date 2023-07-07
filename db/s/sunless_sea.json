@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -667,9 +667,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 32923,
+  "EOS_Progressed": 32924,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 475,
+  "EOS_NewPlayers": 476,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8397,6 +8397,11 @@
       "Time": "2023-07-07T04:03:49.0460178+00:00",
       "NumProgressed": 32923,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-07T05:03:42.5617482+00:00",
+      "NumProgressed": 32924,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -8528,7 +8533,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 11852
+      "UsersEstimate": 11853
     },
     {
       "ID": "ach_die10",
@@ -8776,7 +8781,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 4938
+      "UsersEstimate": 4939
     },
     {
       "ID": "ach_undercurrent",
@@ -8839,15 +8844,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 32923,
+      "Progressed": 32924,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-06-27T03:23:10.0352371+00:00",
-  "LastChanged_Achievements": "2023-07-07T04:03:49.0460173+00:00",
+  "LastChanged_Achievements": "2023-07-07T05:03:42.5617477+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:47.5752682+00:00",
-  "LastUpdate_Ratings": "2023-07-07T04:00:09.5024213+00:00",
-  "LastUpdate_Achievements": "2023-07-07T04:03:49.046133+00:00"
+  "LastUpdate_Ratings": "2023-07-07T04:59:30.687913+00:00",
+  "LastUpdate_Achievements": "2023-07-07T05:03:42.5618413+00:00"
 }

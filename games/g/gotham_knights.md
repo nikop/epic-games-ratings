@@ -5,7 +5,7 @@ Rating: 4.18 (Ranked 853)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 6.00% | ~3,995 |
+| First Step Into the Knight | 6.00% | ~3,996 |
 | To the Victor Go the Spoils | 4.00% | ~2,664 |
 | Har, Har, Har, Very Funny | 4.00% | ~2,664 |
 | Loose Ends | 4.00% | ~2,664 |
@@ -54,6 +54,7 @@ Rating: 4.18 (Ranked 853)
 | The Cold, the Bad and the Ugly | 0.20% | ~74 |
 | Talonted | 0.20% | ~133 |
 | The Man-Bat Family | 0.20% | ~133 |
+| Icebreaker | 0.20% | ~74 |
 | Batarang Collector | 0.20% | ~133 |
 | Claiming the Mural High Ground | 0.20% | ~133 |
 | A Sophisticated Mallet | 0.20% | ~74 |
@@ -61,13 +62,12 @@ Rating: 4.18 (Ranked 853)
 | Gotham's Greatest Depths | 0.10% | ~37 |
 | Showdown Sovereign | 0.10% | ~37 |
 | That's Showbiz, Clayby | 0.10% | ~37 |
-| Icebreaker | 0.10% | ~37 |
 | Don't Mecha Big Deal About It | 0.10% | ~37 |
 | Read Owl About It | 0.10% | ~67 |
 | History Major | 0.10% | ~67 |
 | Confronting Your Demon | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,588 (Ranked 73)  
+Progressed: 66,592 (Ranked 73)  
 Completed: 100 (0.15%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,17 +145,17 @@ Completed: 100 (0.15%) (Ranked 169)
 | 2023-07-04 | 66,441 | 100 |
 | 2023-07-05 | 66,504 | 100 |
 | 2023-07-06 | 66,572 | 100 |
-| 2023-07-07 | 66,588 | 100 |
+| 2023-07-07 | 66,592 | 100 |
 ## Awards
 Max (Great Boss Battles): 2,421  (Ranked 100)  
-Sum: 4,009 (Ranked 137)  
+Sum: 4,010 (Ranked 137)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,421 |
+| This game has Quickly Understood Controls | 205 |
 | This game is Relaxing | 205 |
 | This game is Extremely Fun | 205 |
-| This game has Quickly Understood Controls | 204 |
 | This game has Amazing Characters | 199 |
 | This game has Diverse Characters | 196 |
 | This game is Highly Recommended | 194 |
@@ -301,3 +301,4 @@ Diff (max vs sum): -37
 | 2023-07-04 | 4.18 | 2,416 | 4,000 |
 | 2023-07-05 | 4.18 | 2,419 | 4,005 |
 | 2023-07-06 | 4.18 | 2,421 | 4,009 |
+| 2023-07-07 | 4.18 | 2,421 | 4,010 |

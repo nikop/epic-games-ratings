@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 1,
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2017-07-21T09:00:00+00:00",
     "PcReleaseDate": "2017-07-21T09:00:50+00:00",
@@ -5261,10 +5261,16 @@
       "Rating": 4.29,
       "NumberOfAwards": 10646150,
       "NumberOfAwardsMax": 1480688
+    },
+    {
+      "Time": "2023-07-07T04:57:32.3183061+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 10646653,
+      "NumberOfAwardsMax": 1480688
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10646150,
+  "NumberOfAwards": 10646653,
   "NumberOfAwardsMax": 1480688,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
@@ -5314,7 +5320,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 1079109
+      "Count": 1079612
     }
   ],
   "EOS_Progressed": 0,
@@ -5328,8 +5334,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:41.6739549+00:00",
-  "LastChanged": "2023-07-07T03:18:50.5647471+00:00",
+  "LastChanged": "2023-07-07T04:57:32.3183058+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:33.7151172+00:00",
-  "LastUpdate_Ratings": "2023-07-07T03:57:39.4065544+00:00",
-  "LastUpdate_Achievements": "2023-07-07T04:03:30.2276486+00:00"
+  "LastUpdate_Ratings": "2023-07-07T04:57:32.3183066+00:00",
+  "LastUpdate_Achievements": "2023-07-07T05:03:26.9742749+00:00"
 }

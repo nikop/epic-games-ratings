@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-06-28T22:00:00+00:00",
     "PcReleaseDate": "2021-05-26T11:00:00+00:00",
@@ -255,9 +255,9 @@
       "ID": "ACH_25_BEACH",
       "SetID": "9dl0ei6",
       "Name": "Surfer",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_26_SIDEQUEST",
@@ -285,8 +285,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-18T14:01:38.8947903+00:00",
-  "LastChanged_Achievements": "2023-07-07T04:04:11.6205889+00:00",
+  "LastChanged_Achievements": "2023-07-07T05:03:59.1738692+00:00",
   "LastUpdate_AppInfo": "2023-07-02T14:56:52.2284246+00:00",
-  "LastUpdate_Ratings": "2023-07-07T03:56:59.9624448+00:00",
-  "LastUpdate_Achievements": "2023-07-07T04:04:11.6206081+00:00"
+  "LastUpdate_Ratings": "2023-07-07T04:56:58.2833479+00:00",
+  "LastUpdate_Achievements": "2023-07-07T05:03:59.1738889+00:00"
 }

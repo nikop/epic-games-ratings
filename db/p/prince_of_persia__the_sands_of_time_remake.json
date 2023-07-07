@@ -4,8 +4,8 @@
   "ProductSlug": "prince-of-persia-sands-of-time",
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2099-01-02T03:00:00+00:00",
     "PcReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-01T02:29:30.3783638+00:00",
-  "LastUpdate_Ratings": "2023-07-07T04:00:39.3350098+00:00",
-  "LastUpdate_Achievements": "2023-07-07T04:06:12.4331704+00:00"
+  "LastUpdate_Ratings": "2023-07-07T04:59:52.2878346+00:00",
+  "LastUpdate_Achievements": "2023-07-07T05:05:33.8908742+00:00"
 }

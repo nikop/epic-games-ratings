@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -700,9 +700,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6347,
+  "EOS_Progressed": 6348,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3240,6 +3240,11 @@
       "Time": "2023-07-06T11:04:14.7205359+00:00",
       "NumProgressed": 6347,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-07T05:03:46.296976+00:00",
+      "NumProgressed": 6348,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -3259,7 +3264,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 1396
+      "UsersEstimate": 1397
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -3267,7 +3272,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 2983
+      "UsersEstimate": 2984
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -3419,7 +3424,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 2348
+      "UsersEstimate": 2349
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -3539,7 +3544,7 @@
       "Name": "The Italian Job",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     },
     {
       "ID": "ISONZO_ACH_THE_LION_OF_THE_ISONZO",
@@ -3547,7 +3552,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1143
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -3595,7 +3600,7 @@
       "Name": "Veni Vidi Vici",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1396
+      "UsersEstimate": 1397
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -3610,7 +3615,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6347,
+      "Progressed": 6348,
       "Completed": 8
     }
   ],
@@ -3618,8 +3623,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-07-04T13:15:35.7816607+00:00",
-  "LastChanged_Achievements": "2023-07-07T04:03:53.7827698+00:00",
+  "LastChanged_Achievements": "2023-07-07T05:03:46.2969755+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:30.8690584+00:00",
-  "LastUpdate_Ratings": "2023-07-07T03:57:40.5337375+00:00",
-  "LastUpdate_Achievements": "2023-07-07T04:03:53.7828666+00:00"
+  "LastUpdate_Ratings": "2023-07-07T04:57:33.3212271+00:00",
+  "LastUpdate_Achievements": "2023-07-07T05:03:46.2970293+00:00"
 }
