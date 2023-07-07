@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -380,9 +380,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3226,
+  "EOS_Progressed": 3227,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -4770,6 +4770,11 @@
       "Time": "2023-07-07T16:02:17.757026+00:00",
       "NumProgressed": 3226,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-07T22:01:55.1642838+00:00",
+      "NumProgressed": 3227,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -4819,17 +4824,17 @@
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
       "SetID": "bm6el81",
       "Name": "Enemy at the Gates",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 23
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
       "SetID": "bm6el81",
       "Name": "Fields of Glory",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 23
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -5091,9 +5096,9 @@
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
       "SetID": "bm6el81",
       "Name": "It\u0027s Starting to Crack",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 65
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -5155,9 +5160,9 @@
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
       "SetID": "bm6el81",
       "Name": "Brains of the Operation",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -5348,13 +5353,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3177,
+      "Progressed": 3178,
       "Completed": 13
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3226,
+      "Progressed": 3227,
       "Completed": 9
     }
   ],
@@ -5362,8 +5367,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-05T19:03:38.4770688+00:00",
-  "LastChanged_Achievements": "2023-07-07T20:02:10.303725+00:00",
+  "LastChanged_Achievements": "2023-07-07T22:01:55.1642828+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:03.6733789+00:00",
-  "LastUpdate_Ratings": "2023-07-07T21:00:14.3909047+00:00",
-  "LastUpdate_Achievements": "2023-07-07T20:02:10.3038466+00:00"
+  "LastUpdate_Ratings": "2023-07-07T22:01:44.1437328+00:00",
+  "LastUpdate_Achievements": "2023-07-07T22:01:55.1644652+00:00"
 }

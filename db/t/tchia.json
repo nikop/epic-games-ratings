@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 132,
   "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6678,
+  "EOS_Progressed": 6679,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -4367,6 +4367,11 @@
       "Time": "2023-07-07T21:02:41.192602+00:00",
       "NumProgressed": 6678,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-07-07T22:04:01.1776904+00:00",
+      "NumProgressed": 6679,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 21,
@@ -4394,7 +4399,7 @@
       "Name": "Audiophile",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "BODY_AND_SOUL",
@@ -4426,7 +4431,7 @@
       "Name": "Energy Saver",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -4545,7 +4550,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6678,
+      "Progressed": 6679,
       "Completed": 28
     }
   ],
@@ -4553,8 +4558,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-07-06T22:58:42.5723312+00:00",
-  "LastChanged_Achievements": "2023-07-07T21:02:41.1926012+00:00",
+  "LastChanged_Achievements": "2023-07-07T22:04:01.1776895+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:25.3635213+00:00",
-  "LastUpdate_Ratings": "2023-07-07T20:58:03.4176469+00:00",
-  "LastUpdate_Achievements": "2023-07-07T21:02:41.192649+00:00"
+  "LastUpdate_Ratings": "2023-07-07T21:58:28.0557278+00:00",
+  "LastUpdate_Achievements": "2023-07-07T22:04:01.1777331+00:00"
 }

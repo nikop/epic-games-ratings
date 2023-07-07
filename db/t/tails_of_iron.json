@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -209,9 +209,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1739,
+  "EOS_Progressed": 1740,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -1864,6 +1864,11 @@
       "Time": "2023-07-05T20:02:26.3859991+00:00",
       "NumProgressed": 1739,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-07T22:04:20.7888583+00:00",
+      "NumProgressed": 1740,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -1875,7 +1880,7 @@
       "Name": "Become King",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1252
+      "UsersEstimate": 1253
     },
     {
       "ID": "Collect20Gold",
@@ -1891,7 +1896,7 @@
       "Name": "Collect Iron Ore",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "Collect50MonsterParts",
@@ -1937,9 +1942,9 @@
       "ID": "CompleteChefsBook",
       "SetID": "9lj35g4",
       "Name": "Complete the Chefs Book",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 417
+      "UsersEstimate": 435
     },
     {
       "ID": "CompleteElderFaction",
@@ -1955,7 +1960,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1374
+      "UsersEstimate": 1375
     },
     {
       "ID": "CompleteHunterFaction",
@@ -1995,7 +2000,7 @@
       "Name": "Defeat Ratnor Rodentson",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "DefeatRattusAugustus",
@@ -2011,7 +2016,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "GetRangedWeapon",
@@ -2035,7 +2040,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 904
+      "UsersEstimate": 905
     },
     {
       "ID": "Kill25Frogs",
@@ -2043,7 +2048,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     },
     {
       "ID": "Kill25Mozi",
@@ -2067,7 +2072,7 @@
       "Name": "Discover the mystery of the Kings Chambers",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "RepairChef",
@@ -2075,7 +2080,7 @@
       "Name": "Kitchen Ready To Cook",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "RepairSmith",
@@ -2099,7 +2104,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 904
+      "UsersEstimate": 905
     },
     {
       "ID": "ReturnPowerInMines",
@@ -2114,22 +2119,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1739,
+      "Progressed": 1740,
       "Completed": 8
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 380,
-      "Completed": 380
+      "Progressed": 381,
+      "Completed": 381
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-06-23T03:22:59.0074005+00:00",
-  "LastChanged_Achievements": "2023-07-07T21:04:52.8069967+00:00",
+  "LastChanged_Achievements": "2023-07-07T22:04:20.7888577+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:00.0888696+00:00",
-  "LastUpdate_Ratings": "2023-07-07T20:58:24.9026416+00:00",
-  "LastUpdate_Achievements": "2023-07-07T21:04:52.807026+00:00"
+  "LastUpdate_Ratings": "2023-07-07T21:58:58.9896545+00:00",
+  "LastUpdate_Achievements": "2023-07-07T22:04:20.7888928+00:00"
 }

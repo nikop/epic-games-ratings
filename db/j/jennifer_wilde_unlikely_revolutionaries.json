@@ -220,17 +220,17 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "1ejicho",
       "Name": "Clothes Hunter",
-      "Percentage": 15,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "1ejicho",
       "Name": "Con Artist",
-      "Percentage": 15,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -307,8 +307,8 @@
   ],
   "FirstSeen": "2023-06-11T16:59:26.254378+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:12.1227021+00:00",
-  "LastChanged_Achievements": "2023-07-07T21:07:28.9783251+00:00",
+  "LastChanged_Achievements": "2023-07-07T22:06:42.3245079+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:05.3910293+00:00",
-  "LastUpdate_Ratings": "2023-07-07T20:59:00.7940001+00:00",
-  "LastUpdate_Achievements": "2023-07-07T21:07:28.9783353+00:00"
+  "LastUpdate_Ratings": "2023-07-07T21:59:52.0072871+00:00",
+  "LastUpdate_Achievements": "2023-07-07T22:06:42.3245193+00:00"
 }

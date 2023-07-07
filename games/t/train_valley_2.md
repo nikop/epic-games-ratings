@@ -65,8 +65,8 @@ Number of Ratings: 87  (23.09.2022)
 | Achiever | 0.80% | ~6 |
 | Railroad tycoon | 0.80% | ~6 |
 | Astrochemist | 0.70% | ~1 |
+| Highlander | 0.70% | ~5 |
 | Miscalculation | 0.70% | ~5 |
-| Highlander | 0.50% | ~4 |
 | Space Age | 0.50% | ~4 |
 | Arcturus | 0.40% | ~0 |
 | BBQ | 0.40% | ~3 |
@@ -82,7 +82,7 @@ Number of Ratings: 87  (23.09.2022)
 | Gemologist | 0.00% | ~0 |
 | Jeweller | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 751 (Ranked 196)  
+Progressed: 752 (Ranked 196)  
 Completed: 1 (0.13%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 1 (0.13%) (Ranked 176)
 | 2023-07-02 | 744 | 1 |
 | 2023-07-05 | 745 | 1 |
 | 2023-07-06 | 747 | 1 |
-| 2023-07-07 | 751 | 1 |
+| 2023-07-07 | 752 | 1 |
 ## Awards
 Max (Challenging Puzzles): 72  (Ranked 370)  
 Sum: 72 (Ranked 428)  

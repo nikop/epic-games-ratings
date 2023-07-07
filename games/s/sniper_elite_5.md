@@ -6,6 +6,7 @@ Rating: 4.45 (Ranked 620)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Resourceful | 2.00% | ~65 |
+| It's Starting to Crack | 2.00% | ~65 |
 | Taking it back | 2.00% | ~65 |
 | Target America | 2.00% | ~65 |
 | The Kraken Sleeps | 2.00% | ~65 |
@@ -21,19 +22,18 @@ Rating: 4.45 (Ranked 620)
 | Der Geist | 1.00% | ~32 |
 | As Quiet as a Mouse | 1.00% | ~32 |
 | The Kraken Wakes | 1.00% | ~32 |
-| It's Starting to Crack | 1.00% | ~32 |
 | Change the Channel | 1.00% | ~32 |
+| Brains of the Operation | 0.90% | ~29 |
 | Opposing Force | 0.80% | ~26 |
 | Set Europe Ablaze | 0.80% | ~26 |
 | Precision Is Key | 0.80% | ~26 |
 | Explosive Efficiency | 0.80% | ~26 |
 | Close Quarters | 0.80% | ~26 |
-| Brains of the Operation | 0.80% | ~26 |
+| Enemy at the Gates | 0.70% | ~23 |
+| Fields of Glory | 0.70% | ~23 |
 | Skirmisher | 0.70% | ~23 |
 | My Little Friend | 0.70% | ~23 |
 | Snake in the Grass | 0.70% | ~23 |
-| Enemy at the Gates | 0.60% | ~19 |
-| Fields of Glory | 0.60% | ~19 |
 | Die Nussknacker Sweet! | 0.60% | ~19 |
 | Tinkerer | 0.60% | ~19 |
 | Just a Flesh Wound | 0.50% | ~16 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 620)
 | Stroll in the Woods | 0.10% | ~3 |
 | Going Overboard | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,226 (Ranked 146)  
+Progressed: 3,227 (Ranked 146)  
 Completed: 9 (0.28%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 9 (0.28%) (Ranked 149)
 | 2023-07-04 | 3,206 | 7 |
 | 2023-07-05 | 3,214 | 9 |
 | 2023-07-06 | 3,221 | 9 |
-| 2023-07-07 | 3,226 | 9 |
+| 2023-07-07 | 3,227 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

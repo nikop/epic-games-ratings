@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 98,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -80,11 +80,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 469,
+  "EOS_Progressed": 470,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.07,
+  "EOS_Completed_Percentage": 1.06,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:44.5175392+00:00",
@@ -420,6 +420,11 @@
       "Time": "2023-07-04T22:03:10.1849147+00:00",
       "NumProgressed": 469,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-07T22:04:40.6091878+00:00",
+      "NumProgressed": 470,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -437,9 +442,9 @@
       "ID": "Agent_47",
       "SetID": "ek310c",
       "Name": "Identity Theft",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 52
     },
     {
       "ID": "Butterfly",
@@ -479,7 +484,7 @@
       "Name": "Between the Covers",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Gamer",
@@ -517,9 +522,9 @@
       "ID": "Healthy_Child",
       "SetID": "ek310c",
       "Name": "Bundle of Joy",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 239
+      "UsersEstimate": 235
     },
     {
       "ID": "Hitman",
@@ -591,7 +596,7 @@
       "Name": "Den Mother",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Ninja",
@@ -662,7 +667,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 469,
+      "Progressed": 470,
       "Completed": 5
     }
   ],
@@ -670,8 +675,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-07-07T21:05:38.4528622+00:00",
+  "LastChanged_Achievements": "2023-07-07T22:04:40.6091871+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:02.3296291+00:00",
-  "LastUpdate_Ratings": "2023-07-07T21:00:13.7116829+00:00",
-  "LastUpdate_Achievements": "2023-07-07T21:05:38.4528846+00:00"
+  "LastUpdate_Ratings": "2023-07-07T22:01:42.9043418+00:00",
+  "LastUpdate_Achievements": "2023-07-07T22:04:40.609226+00:00"
 }

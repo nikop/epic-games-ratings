@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 397,
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewPlayers": 54,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -181,7 +181,7 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 29120,
+  "EOS_Progressed": 29126,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 955,
   "EOS_NewCompleters": 0,
@@ -8556,6 +8556,11 @@
       "Time": "2023-07-07T21:02:35.9833564+00:00",
       "NumProgressed": 29120,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-07-07T22:03:57.7314558+00:00",
+      "NumProgressed": 29126,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -8567,7 +8572,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4659
+      "UsersEstimate": 4660
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -8575,7 +8580,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5824
+      "UsersEstimate": 5825
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -8607,7 +8612,7 @@
       "Name": "Down Boy!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "ACH_08_HIGHLANDS_SECRET_PASSAGE",
@@ -8647,7 +8652,7 @@
       "Name": "Four Legged Friend",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ACH_13_DEFEATED_WEREBEAST",
@@ -8679,7 +8684,7 @@
       "Name": "A Snowball\u0027s Chance in Hell",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "ACH_17_DEFEATED_ICE_BEAST",
@@ -8687,7 +8692,7 @@
       "Name": "Ice To See You",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ACH_18_DEFEATED_IMP",
@@ -8695,7 +8700,7 @@
       "Name": "Smack My Imp Up",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ACH_19_DEFEATED_HOGRE",
@@ -8727,7 +8732,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1747
+      "UsersEstimate": 1748
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -8798,7 +8803,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 29120,
+      "Progressed": 29126,
       "Completed": 20
     }
   ],
@@ -8806,8 +8811,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-07-07T21:02:35.9833558+00:00",
+  "LastChanged_Achievements": "2023-07-07T22:03:57.7314552+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:18.3101807+00:00",
-  "LastUpdate_Ratings": "2023-07-07T20:59:45.8335159+00:00",
-  "LastUpdate_Achievements": "2023-07-07T21:02:35.9834298+00:00"
+  "LastUpdate_Ratings": "2023-07-07T22:01:03.1803494+00:00",
+  "LastUpdate_Achievements": "2023-07-07T22:03:57.7315383+00:00"
 }

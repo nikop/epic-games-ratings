@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 428,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
@@ -277,9 +277,9 @@
       "Count": 72
     }
   ],
-  "EOS_Progressed": 751,
+  "EOS_Progressed": 752,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -562,6 +562,11 @@
       "Time": "2023-07-07T21:08:47.736129+00:00",
       "NumProgressed": 751,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-07T22:07:39.4837482+00:00",
+      "NumProgressed": 752,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -787,9 +792,9 @@
       "ID": "AchievementHighlander",
       "SetID": "76o014g",
       "Name": "Highlander",
-      "Percentage": 0.5,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "AchievementIndividualDelivery",
@@ -1172,21 +1177,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 92,
+      "Progressed": 93,
       "Completed": 6
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 751,
+      "Progressed": 752,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-06-28T09:58:02.8229732+00:00",
-  "LastChanged_Achievements": "2023-07-07T21:08:47.7361284+00:00",
+  "LastChanged_Achievements": "2023-07-07T22:07:39.4837477+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:34.7563468+00:00",
-  "LastUpdate_Ratings": "2023-07-07T20:57:40.181775+00:00",
-  "LastUpdate_Achievements": "2023-07-07T21:08:47.7362049+00:00"
+  "LastUpdate_Ratings": "2023-07-07T21:57:54.0496013+00:00",
+  "LastUpdate_Achievements": "2023-07-07T22:07:39.4838459+00:00"
 }

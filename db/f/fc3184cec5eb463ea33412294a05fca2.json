@@ -183,9 +183,9 @@
       "ID": "NEW_ACHIEVEMENT_1_14",
       "SetID": "8d3ci0",
       "Name": "Putting challenge",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 80,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_15",
@@ -239,17 +239,17 @@
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "8d3ci0",
       "Name": "Abducktion",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 95,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "8d3ci0",
       "Name": "On fire",
-      "Percentage": 13,
+      "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -270,8 +270,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-07T21:07:13.8827225+00:00",
+  "LastChanged_Achievements": "2023-07-07T22:06:22.4984308+00:00",
   "LastUpdate_AppInfo": "2023-07-01T10:57:17.0753347+00:00",
-  "LastUpdate_Ratings": "2023-07-07T20:57:08.9079287+00:00",
-  "LastUpdate_Achievements": "2023-07-07T21:07:13.8827374+00:00"
+  "LastUpdate_Ratings": "2023-07-07T21:57:06.4057657+00:00",
+  "LastUpdate_Achievements": "2023-07-07T22:06:22.4984454+00:00"
 }

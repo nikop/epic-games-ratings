@@ -6,16 +6,16 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 87.00% | ~1,464 |
+| Unforgiven | 87.00% | ~1,465 |
 | Self-Improvement | 72.00% | ~1,212 |
 | Perky | 66.00% | ~1,111 |
 | Let’s Ride | 60.00% | ~1,010 |
-| Welcome to the Weird West | 57.00% | ~959 |
-| Dead or Alive | 56.00% | ~942 |
+| Welcome to the Weird West | 57.00% | ~960 |
+| Dead or Alive | 56.00% | ~943 |
 | Full House | 37.00% | ~623 |
-| Off the Trail | 34.00% | ~572 |
+| Off the Trail | 34.00% | ~573 |
 | Justice Served | 29.00% | ~488 |
-| Chain Reaction | 27.00% | ~454 |
+| Chain Reaction | 27.00% | ~455 |
 | Through Their Eyes | 26.00% | ~438 |
 | Dishonored | 25.00% | ~421 |
 | Rain of Death | 25.00% | ~421 |
@@ -35,9 +35,9 @@ Number of Ratings: 125  (23.09.2022)
 | There is Hope | 12.00% | ~202 |
 | Turning the Tables | 12.00% | ~202 |
 | The Philosopher’s Stone | 10.00% | ~168 |
-| Loyalty to the Pack | 9.00% | ~151 |
-| Eternity Can Wait | 9.00% | ~151 |
-| Mystery Machine | 9.00% | ~151 |
+| Loyalty to the Pack | 9.00% | ~152 |
+| Eternity Can Wait | 9.00% | ~152 |
+| Mystery Machine | 9.00% | ~152 |
 | Gold Digger | 8.00% | ~135 |
 | Knuckle Sandwich | 8.00% | ~135 |
 | Do Not Pass Go… | 7.00% | ~118 |
@@ -47,8 +47,8 @@ Number of Ratings: 125  (23.09.2022)
 | Who You Gonna Call? | 6.00% | ~101 |
 | This Is Sparta | 5.00% | ~84 |
 | What’s in the Box? | 5.00% | ~84 |
-| Ghost Town | 3.00% | ~50 |
-| Moondrunk | 3.00% | ~50 |
+| Ghost Town | 3.00% | ~51 |
+| Moondrunk | 3.00% | ~51 |
 | Lord Inut Sends His Regards | 2.00% | ~34 |
 | I Kicked a Bird and I Liked it | 1.00% | ~17 |
 | Hog Wild | 1.00% | ~17 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.40% | ~7 |
 | Winter Has Come | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,683 (Ranked 167)  
+Progressed: 1,684 (Ranked 167)  
 Completed: 3 (0.18%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 3 (0.18%) (Ranked 165)
 | 2023-07-04 | 1,679 | 3 |
 | 2023-07-05 | 1,681 | 3 |
 | 2023-07-06 | 1,682 | 3 |
-| 2023-07-07 | 1,683 | 3 |
+| 2023-07-07 | 1,684 | 3 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 475)  
 Sum: 24 (Ranked 481)  

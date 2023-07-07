@@ -6,17 +6,17 @@ Rating: 4.44 (Ranked 639)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Country Bumpkin | 74.00% | ~1,100 |
+| A new Journey | 73.00% | ~1,086 |
 | Departure | 72.00% | ~1,071 |
-| A new Journey | 72.00% | ~1,071 |
 | From X to Y | 71.00% | ~1,056 |
-| Way of Iron | 69.00% | ~1,026 |
-| Mystery Tour | 67.00% | ~996 |
+| Way of Iron | 70.00% | ~1,041 |
+| Mystery Tour | 68.00% | ~1,011 |
 | We brake for nobody | 66.00% | ~981 |
 | Brainstorm | 65.00% | ~967 |
+| Travel Company | 65.00% | ~967 |
 | Mind the Gap | 64.00% | ~952 |
-| Travel Company | 64.00% | ~952 |
 | All around the World | 62.00% | ~922 |
-| Right through the middle | 56.00% | ~833 |
+| Right through the middle | 57.00% | ~848 |
 | Facility Manager | 54.00% | ~803 |
 | Poor Devil | 54.00% | ~803 |
 | Producer | 51.00% | ~758 |

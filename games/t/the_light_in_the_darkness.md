@@ -14,7 +14,7 @@
 | Le Juif et la France | 13.00% | ~243 |
 | Bernard | 12.00% | ~224 |
 | Jude | 12.00% | ~224 |
-| Nuremberg Laws | 11.00% | ~205 |
+| Nuremberg Laws | 12.00% | ~224 |
 | May Their Memories be a Blessing | 9.00% | ~168 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,867 (Ranked 163)  

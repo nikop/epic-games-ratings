@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 24,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -3670,9 +3670,9 @@
       "ID": "Nuremberg Laws",
       "SetID": "b40dflc",
       "Name": "Nuremberg Laws",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 205
+      "UsersEstimate": 224
     }
   ],
   "AchievementSets": [
@@ -3687,8 +3687,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-07-07T21:02:07.334621+00:00",
+  "LastChanged_Achievements": "2023-07-07T22:03:26.2313593+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:39.8117525+00:00",
-  "LastUpdate_Ratings": "2023-07-07T20:59:23.2705124+00:00",
-  "LastUpdate_Achievements": "2023-07-07T21:02:07.3346568+00:00"
+  "LastUpdate_Ratings": "2023-07-07T22:00:26.3959293+00:00",
+  "LastUpdate_Achievements": "2023-07-07T22:03:26.2313942+00:00"
 }

@@ -6,10 +6,10 @@
 | ---- | ---------- | ----- |
 | Bedtime Storyteller | 21.00% | ~8 |
 | Electrician | 21.00% | ~8 |
+| Clothes Hunter | 18.00% | ~7 |
+| Con Artist | 18.00% | ~7 |
 | I See Dead People | 18.00% | ~7 |
 | Exorcist | 18.00% | ~7 |
-| Clothes Hunter | 15.00% | ~6 |
-| Con Artist | 15.00% | ~6 |
 | Card Sharp | 15.00% | ~6 |
 | I Ain't Afraid of No Ghost | 13.00% | ~5 |
 | Joyrider | 10.00% | ~4 |
