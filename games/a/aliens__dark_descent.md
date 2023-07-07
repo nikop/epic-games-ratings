@@ -5,30 +5,30 @@ Rating: 4.44 (Ranked 639)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 80.00% | ~2,130 |
-| Snatched Out | 73.00% | ~1,944 |
-| Keep 'Em Coming | 71.00% | ~1,891 |
-| Cleaning Lethe, One Nest At A Time | 62.00% | ~1,651 |
-| Call Me Snake | 57.00% | ~1,518 |
-| Something Lurks Under The Hills | 56.00% | ~1,491 |
-| This Was No Papercut | 54.00% | ~1,438 |
+| This Is Hayes, Pioneer Station, Signing Off | 80.00% | ~2,132 |
+| Snatched Out | 73.00% | ~1,945 |
+| Keep 'Em Coming | 71.00% | ~1,892 |
+| Cleaning Lethe, One Nest At A Time | 62.00% | ~1,652 |
+| Call Me Snake | 57.00% | ~1,519 |
+| Something Lurks Under The Hills | 56.00% | ~1,492 |
+| This Was No Papercut | 54.00% | ~1,439 |
 | The Shrink Hates Me | 50.00% | ~1,332 |
-| People Person | 48.00% | ~1,278 |
-| Use The Bumper, That's What It's For | 47.00% | ~1,252 |
-| Colonial Barrels | 44.00% | ~1,172 |
-| First Steps Into Madness | 44.00% | ~1,172 |
-| Damn Dude, You Gotta Lose Some Weight! | 37.00% | ~985 |
-| Harper's Hell | 35.00% | ~932 |
+| People Person | 49.00% | ~1,306 |
+| Use The Bumper, That's What It's For | 47.00% | ~1,253 |
+| First Steps Into Madness | 45.00% | ~1,199 |
+| Colonial Barrels | 44.00% | ~1,173 |
+| Damn Dude, You Gotta Lose Some Weight! | 37.00% | ~986 |
+| Harper's Hell | 35.00% | ~933 |
 | Making a Stand | 33.00% | ~879 |
-| Recouped Investment | 30.00% | ~799 |
-| Omelette Du Fromage | 29.00% | ~772 |
+| Recouped Investment | 30.00% | ~800 |
+| Omelette Du Fromage | 29.00% | ~773 |
 | Where It All Begun | 28.00% | ~746 |
 | Living Nightmare | 20.00% | ~533 |
 | The More The Merrier | 20.00% | ~533 |
 | Stuff Of Nightmares | 16.00% | ~426 |
 | The Darwin Era Was Here | 16.00% | ~426 |
-| Come on, You Wanna Live Forever? | 15.00% | ~399 |
-| Deep Into Insanity | 14.00% | ~373 |
+| Come on, You Wanna Live Forever? | 15.00% | ~400 |
+| Deep Into Insanity | 15.00% | ~400 |
 | The Passenger | 14.00% | ~373 |
 | El Riesgo Siempre Vive | 13.00% | ~346 |
 | One For Every Occasion | 11.00% | ~293 |
@@ -51,7 +51,7 @@ Rating: 4.44 (Ranked 639)
 | Perfect Organism | 0.20% | ~5 |
 | This Ain't No Picnic | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,663 (Ranked 154)  
+Progressed: 2,665 (Ranked 154)  
 Completed: 0 (0.00%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 0 (0.00%) (Ranked 235)
 | 2023-07-04 | 2,580 | 0 |
 | 2023-07-05 | 2,620 | 0 |
 | 2023-07-06 | 2,648 | 0 |
-| 2023-07-07 | 2,663 | 0 |
+| 2023-07-07 | 2,665 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

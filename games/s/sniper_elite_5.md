@@ -5,10 +5,10 @@ Rating: 4.45 (Ranked 620)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Resourceful | 2.00% | ~64 |
-| Taking it back | 2.00% | ~64 |
-| Target America | 2.00% | ~64 |
-| The Kraken Sleeps | 2.00% | ~64 |
+| Resourceful | 2.00% | ~65 |
+| Taking it back | 2.00% | ~65 |
+| Target America | 2.00% | ~65 |
+| The Kraken Sleeps | 2.00% | ~65 |
 | Climbing the Ladder | 1.00% | ~32 |
 | Liberté | 1.00% | ~32 |
 | No Stone Unturned | 1.00% | ~32 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 620)
 | Stroll in the Woods | 0.10% | ~3 |
 | Going Overboard | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,225 (Ranked 146)  
+Progressed: 3,226 (Ranked 146)  
 Completed: 9 (0.28%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 9 (0.28%) (Ranked 148)
 | 2023-07-04 | 3,206 | 7 |
 | 2023-07-05 | 3,214 | 9 |
 | 2023-07-06 | 3,221 | 9 |
-| 2023-07-07 | 3,225 | 9 |
+| 2023-07-07 | 3,226 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

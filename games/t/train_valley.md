@@ -6,17 +6,17 @@ Number of Ratings: 28  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 76.00% | ~233 |
-| Close call! | 76.00% | ~233 |
-| Builder | 57.00% | ~175 |
+| Getting started | 76.00% | ~234 |
+| Close call! | 75.00% | ~231 |
+| Builder | 56.00% | ~172 |
 | Pangs of conscience | 51.00% | ~157 |
-| Living it large! | 47.00% | ~144 |
-| Collector | 44.00% | ~135 |
+| Living it large! | 46.00% | ~142 |
+| Collector | 44.00% | ~136 |
 | Need to think | 42.00% | ~129 |
 | Completely nuts! | 36.00% | ~111 |
-| Just in time! | 35.00% | ~107 |
-| It's no coincidence. | 33.00% | ~101 |
-| Europe | 32.00% | ~98 |
+| Just in time! | 35.00% | ~108 |
+| It's no coincidence. | 33.00% | ~102 |
+| Europe | 32.00% | ~99 |
 | Philatelist | 28.00% | ~86 |
 | Let's roll! | 28.00% | ~86 |
 | Non Stop! | 27.00% | ~83 |
@@ -24,29 +24,29 @@ Number of Ratings: 28  (23.09.2022)
 | Madness! | 26.00% | ~80 |
 | Foreman | 24.00% | ~74 |
 | Missed it! | 22.00% | ~68 |
-| Russia | 20.00% | ~61 |
-| Sabotage | 20.00% | ~61 |
+| Russia | 20.00% | ~62 |
+| Sabotage | 19.00% | ~59 |
 | America | 18.00% | ~55 |
 | Woodcutter | 13.00% | ~40 |
 | Engineer | 13.00% | ~40 |
 | Achtung! | 12.00% | ~37 |
 | Japan | 10.00% | ~31 |
 | Tycoon | 8.00% | ~25 |
-| Germany | 7.00% | ~21 |
+| Germany | 7.00% | ~22 |
 | Chuck Norris | 6.00% | ~18 |
 | Supercrash! | 5.00% | ~15 |
 | Сhancellor | 4.00% | ~12 |
 | Peacemaker | 4.00% | ~12 |
 | Forgotten | 3.00% | ~9 |
 | Lucky vandal | 2.00% | ~6 |
-| BBQ | 0.70% | ~2 |
-| Vandal | 0.70% | ~2 |
-| Mega-railroad | 0.70% | ~2 |
-| Juggler | 0.70% | ~2 |
-| Maniac vandal | 0.70% | ~2 |
-| Salesman | 0.70% | ~2 |
+| BBQ | 0.60% | ~2 |
+| Vandal | 0.60% | ~2 |
+| Mega-railroad | 0.60% | ~2 |
+| Juggler | 0.60% | ~2 |
+| Maniac vandal | 0.60% | ~2 |
+| Salesman | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 307 (Ranked 241)  
+Progressed: 308 (Ranked 241)  
 Completed: 2 (0.65%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 2 (0.65%) (Ranked 115)
 | 2023-06-23 | 303 | 2 |
 | 2023-06-27 | 304 | 2 |
 | 2023-07-06 | 305 | 2 |
-| 2023-07-07 | 307 | 2 |
+| 2023-07-07 | 308 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

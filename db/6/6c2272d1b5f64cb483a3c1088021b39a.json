@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 715,
+  "EOS_Progressed": 717,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2026,6 +2026,11 @@
       "Time": "2023-07-07T15:03:17.7120099+00:00",
       "NumProgressed": 715,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-07T16:02:43.6524635+00:00",
+      "NumProgressed": 717,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2037,7 +2042,7 @@
       "Name": "Adventurous 1",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "adventurous_2",
@@ -2205,7 +2210,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "elemental_stones_2",
@@ -2253,7 +2258,7 @@
       "Name": "From Day to Day 1",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "from_day_to_day_2",
@@ -2564,14 +2569,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 715,
+      "Progressed": 717,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-07-07T15:03:17.7120092+00:00",
+  "LastChanged_Achievements": "2023-07-07T16:02:43.652463+00:00",
   "LastUpdate_AppInfo": "2023-07-04T02:21:54.526557+00:00",
-  "LastUpdate_Ratings": "2023-07-07T14:57:07.772963+00:00",
-  "LastUpdate_Achievements": "2023-07-07T15:03:17.7120674+00:00"
+  "LastUpdate_Ratings": "2023-07-07T15:57:10.72723+00:00",
+  "LastUpdate_Achievements": "2023-07-07T16:02:43.6525198+00:00"
 }

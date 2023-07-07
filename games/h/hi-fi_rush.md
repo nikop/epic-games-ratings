@@ -12,6 +12,7 @@ Rating: 4.87 (Ranked 25)
 | Who put gears in there? | 0.40% | ~14 |
 | Call me Turbo Chai | 0.40% | ~8 |
 | Cream of the Crop | 0.30% | ~10 |
+| This will cost you big time | 0.30% | ~10 |
 | The Negotiator | 0.30% | ~10 |
 | Headliner | 0.30% | ~10 |
 | Thanks for the free chip, Peppermint! | 0.30% | ~10 |
@@ -19,7 +20,7 @@ Rating: 4.87 (Ranked 25)
 | Z-shielding's got nothing on us! | 0.30% | ~10 |
 | Out in a puff of smoke | 0.30% | ~10 |
 | Uh, they were broken when I got here | 0.30% | ~10 |
-| This will cost you big time | 0.20% | ~7 |
+| Start with a bang! | 0.20% | ~7 |
 | Well that was a rush! | 0.20% | ~7 |
 | Whoa! There's ANOTHER health bar!? | 0.20% | ~7 |
 | I have to read these things? | 0.20% | ~7 |
@@ -34,7 +35,6 @@ Rating: 4.87 (Ranked 25)
 | You can pet the cat! | 0.20% | ~7 |
 | Does that say weakpoint? | 0.20% | ~7 |
 | New bad guys? No problem! | 0.20% | ~4 |
-| Start with a bang! | 0.10% | ~3 |
 | Easy Listening | 0.10% | ~3 |
 | I think I deserve some praise, here! | 0.10% | ~3 |
 | Problem solved... wait, what? | 0.10% | ~3 |

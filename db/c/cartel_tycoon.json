@@ -1144,9 +1144,9 @@
       "ID": "send-smuggling",
       "SetID": "bed33dd",
       "Name": "Camellos",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 242
+      "UsersEstimate": 246
     },
     {
       "ID": "unlock-residences",
@@ -1184,8 +1184,8 @@
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-07-07T15:06:05.1666161+00:00",
+  "LastChanged_Achievements": "2023-07-07T16:05:53.6435998+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:29.5662595+00:00",
-  "LastUpdate_Ratings": "2023-07-07T14:59:54.4122751+00:00",
-  "LastUpdate_Achievements": "2023-07-07T15:06:05.1666307+00:00"
+  "LastUpdate_Ratings": "2023-07-07T15:59:55.5961563+00:00",
+  "LastUpdate_Achievements": "2023-07-07T16:05:53.6436198+00:00"
 }

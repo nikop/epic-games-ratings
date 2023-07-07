@@ -24,7 +24,7 @@ Number of Ratings: 371  (23.09.2022)
 | Just a Scratch | 9.00% | ~265 |
 | Opportunist | 8.00% | ~236 |
 | Efficient Killer | 8.00% | ~236 |
-| Hold Your Ground | 6.00% | ~177 |
+| Hold Your Ground | 7.00% | ~206 |
 | A Gift Spurned | 5.00% | ~147 |
 | Daemonkeeper | 4.00% | ~118 |
 | Corruption Cleanser | 4.00% | ~118 |

@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56960,
+  "EOS_Progressed": 56962,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 431,
+  "EOS_NewPlayers": 430,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7222,6 +7222,11 @@
       "Time": "2023-07-07T14:04:11.0912742+00:00",
       "NumProgressed": 56960,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-07T16:03:13.0464597+00:00",
+      "NumProgressed": 56962,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7337,7 +7342,7 @@
       "Name": "Gatekeeper",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5126
+      "UsersEstimate": 5127
     },
     {
       "ID": "15",
@@ -7417,7 +7422,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5126
+      "UsersEstimate": 5127
     },
     {
       "ID": "25",
@@ -7433,7 +7438,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5126
+      "UsersEstimate": 5127
     },
     {
       "ID": "27",
@@ -7465,7 +7470,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5126
+      "UsersEstimate": 5127
     },
     {
       "ID": "31",
@@ -7473,7 +7478,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 7974
+      "UsersEstimate": 7975
     },
     {
       "ID": "32",
@@ -7497,7 +7502,7 @@
       "Name": "Energized!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5126
+      "UsersEstimate": 5127
     },
     {
       "ID": "35",
@@ -7505,7 +7510,7 @@
       "Name": "Let There Be Light",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 15379
+      "UsersEstimate": 15380
     },
     {
       "ID": "36",
@@ -7553,7 +7558,7 @@
       "Name": "Finders Keepers",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 7974
+      "UsersEstimate": 7975
     },
     {
       "ID": "42",
@@ -7697,7 +7702,7 @@
       "Name": "Ding!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1021
+      "UsersEstimate": 1022
     },
     {
       "ID": "60",
@@ -7768,21 +7773,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56960,
+      "Progressed": 56962,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20428,
+      "Progressed": 20430,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-07T15:03:26.5973551+00:00",
+  "LastChanged_Achievements": "2023-07-07T16:03:13.0464593+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:02.061333+00:00",
-  "LastUpdate_Ratings": "2023-07-07T14:57:46.035339+00:00",
-  "LastUpdate_Achievements": "2023-07-07T15:03:26.5974366+00:00"
+  "LastUpdate_Ratings": "2023-07-07T15:57:48.4296687+00:00",
+  "LastUpdate_Achievements": "2023-07-07T16:03:13.0465429+00:00"
 }

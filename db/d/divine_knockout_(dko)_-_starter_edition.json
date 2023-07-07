@@ -2,7 +2,7 @@
   "ID": "1200aeb2f87c48349594d96554e2833d",
   "Name": "Divine Knockout",
   "ProductSlug": "divine-knockout",
-  "Ranking_Rating": 756,
+  "Ranking_Rating": 757,
   "Ranking_Popularity": 389,
   "Ranking_PopularitySum": 300,
   "Ranking_EOS_Progress": 490,
@@ -906,10 +906,16 @@
       "Rating": 4.33,
       "NumberOfAwards": 477,
       "NumberOfAwardsMax": 55
+    },
+    {
+      "Time": "2023-07-07T15:59:42.1547686+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 478,
+      "NumberOfAwardsMax": 55
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 477,
+  "NumberOfAwards": 478,
   "NumberOfAwardsMax": 55,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -959,7 +965,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 38
+      "Count": 39
     },
     {
       "Text": "This game is Relaxing",
@@ -1003,8 +1009,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:52.9902406+00:00",
-  "LastChanged": "2023-07-06T13:20:48.8132498+00:00",
+  "LastChanged": "2023-07-07T15:59:42.1547685+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:06.9183551+00:00",
-  "LastUpdate_Ratings": "2023-07-07T14:59:39.9192113+00:00",
-  "LastUpdate_Achievements": "2023-07-07T15:05:32.0811791+00:00"
+  "LastUpdate_Ratings": "2023-07-07T15:59:42.154769+00:00",
+  "LastUpdate_Achievements": "2023-07-07T16:05:20.4614359+00:00"
 }

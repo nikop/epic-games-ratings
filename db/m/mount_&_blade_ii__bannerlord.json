@@ -5311,18 +5311,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 13656,
       "NumberOfAwardsMax": 6762
+    },
+    {
+      "Time": "2023-07-07T15:59:35.7906211+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 13657,
+      "NumberOfAwardsMax": 6763
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13656,
-  "NumberOfAwardsMax": 6762,
+  "NumberOfAwards": 13657,
+  "NumberOfAwardsMax": 6763,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 6762
+      "Count": 6763
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5391,9 +5397,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 55221,
+  "EOS_Progressed": 55223,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 653,
+  "EOS_NewPlayers": 647,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13476,6 +13482,11 @@
       "Time": "2023-07-07T15:06:11.009435+00:00",
       "NumProgressed": 55221,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-07T16:06:09.3431665+00:00",
+      "NumProgressed": 55223,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -13487,7 +13498,7 @@
       "Name": "Against all odds",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6074
+      "UsersEstimate": 6075
     },
     {
       "ID": "Apple of my eye",
@@ -13503,7 +13514,7 @@
       "Name": "Bannerlord",
       "Percentage": 21,
       "XP": 65,
-      "UsersEstimate": 11596
+      "UsersEstimate": 11597
     },
     {
       "ID": "Best served cold",
@@ -13647,7 +13658,7 @@
       "Name": "Horde breaker",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 11596
+      "UsersEstimate": 11597
     },
     {
       "ID": "I can do it",
@@ -13679,7 +13690,7 @@
       "Name": "King Solomon",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 8835
+      "UsersEstimate": 8836
     },
     {
       "ID": "Kingslayer",
@@ -13719,7 +13730,7 @@
       "Name": "Lawbringer",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 20432
+      "UsersEstimate": 20433
     },
     {
       "ID": "Lawmaker",
@@ -13743,7 +13754,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 3865
+      "UsersEstimate": 3866
     },
     {
       "ID": "Minor Clan",
@@ -13863,7 +13874,7 @@
       "Name": "Trained",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 11596
+      "UsersEstimate": 11597
     },
     {
       "ID": "Undercover",
@@ -13894,15 +13905,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 55221,
+      "Progressed": 55223,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-07-07T09:59:28.7994444+00:00",
-  "LastChanged_Achievements": "2023-07-07T15:06:11.0094344+00:00",
+  "LastChanged": "2023-07-07T15:59:35.7906209+00:00",
+  "LastChanged_Achievements": "2023-07-07T16:06:09.3431661+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:55.0205174+00:00",
-  "LastUpdate_Ratings": "2023-07-07T14:59:32.9063685+00:00",
-  "LastUpdate_Achievements": "2023-07-07T15:06:11.0095039+00:00"
+  "LastUpdate_Ratings": "2023-07-07T15:59:35.7906215+00:00",
+  "LastUpdate_Achievements": "2023-07-07T16:06:09.3432372+00:00"
 }

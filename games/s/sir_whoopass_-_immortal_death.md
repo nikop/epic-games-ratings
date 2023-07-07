@@ -16,7 +16,7 @@
 | Up and down | 78.00% | ~70 |
 | Rolling, Rolling, Rolling | 71.00% | ~64 |
 | Fire-fighter! | 67.00% | ~60 |
-| Oh, you're up to no gouda! | 61.00% | ~55 |
+| Oh, you're up to no gouda! | 62.00% | ~56 |
 | Make Love not War-Craft a Mistlefoe | 61.00% | ~55 |
 | Meat grinder | 60.00% | ~54 |
 | You're not going to blow me up! | 54.00% | ~49 |
