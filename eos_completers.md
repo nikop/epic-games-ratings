@@ -65,7 +65,7 @@
 | 63 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 64 | [Lamentum](games/l/lamentum.md) | 2.67% |
 | 65 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
-| 66 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.60% |
+| 66 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.59% |
 | 67 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 68 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
 | 69 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.43% |
@@ -73,7 +73,7 @@
 | 70 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.30% |
 | 72 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 73 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.15% |
-| 74 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.10% |
+| 74 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.11% |
 | 75 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.08% |
 | 76 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.00% |
 | 77 | [Frogun](games/f/frogun.md) | 1.92% |
@@ -117,7 +117,7 @@
 | 115 | [Train Valley](games/t/train_valley.md) | 0.65% |
 | 116 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
 | 116 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.63% |
-| 118 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.61% |
+| 118 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.60% |
 | 119 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.59% |
 | 120 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.58% |
 | 121 | [Grindstone](games/g/grindstone.md) | 0.57% |
