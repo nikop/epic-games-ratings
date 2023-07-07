@@ -9,13 +9,13 @@ Rating: 4.87 (Ranked 25)
 | Call me Turbo Chai | 0.40% | ~8 |
 | The Negotiator | 0.30% | ~10 |
 | Headliner | 0.30% | ~10 |
+| Time to pay up! | 0.30% | ~10 |
 | Who's the boss now? | 0.30% | ~10 |
 | I play my own way! | 0.30% | ~10 |
 | Uh, they were broken when I got here | 0.30% | ~10 |
 | Who put gears in there? | 0.30% | ~10 |
 | Cream of the Crop | 0.20% | ~7 |
 | This will cost you big time | 0.20% | ~7 |
-| Time to pay up! | 0.20% | ~7 |
 | Thanks for the free chip, Peppermint! | 0.20% | ~7 |
 | Whoa! There's ANOTHER health bar!? | 0.20% | ~7 |
 | You got this, Peppermint? | 0.20% | ~7 |

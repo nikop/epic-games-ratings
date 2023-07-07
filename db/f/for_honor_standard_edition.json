@@ -4,7 +4,7 @@
   "ProductSlug": "for-honor",
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2017-02-14T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:00.9277982+00:00",
   "LastChanged": "2023-03-31T05:57:00.9277983+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:55.3567671+00:00",
-  "LastUpdate_Ratings": "2023-07-07T07:59:47.6627166+00:00",
-  "LastUpdate_Achievements": "2023-07-07T08:04:01.5100988+00:00"
+  "LastUpdate_Ratings": "2023-07-07T08:59:24.2342095+00:00",
+  "LastUpdate_Achievements": "2023-07-07T09:03:38.7228609+00:00"
 }

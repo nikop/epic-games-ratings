@@ -29,18 +29,18 @@ Rating: 4.43 (Ranked 656)
 | False God | 0.30% | ~650 |
 | Hard | 0.20% | ~433 |
 | Transonic Blur | 0.20% | ~433 |
-| Sterile Perfection | 0.10% | ~216 |
-| Impossible | 0.10% | ~216 |
-| Sensory overload | 0.10% | ~216 |
-| Melee Machine | 0.10% | ~216 |
-| AoE-phobia | 0.10% | ~216 |
-| Zero to Hero | 0.10% | ~216 |
-| No Omnissian Guidance | 0.10% | ~216 |
-| Not the Men-of-Iron | 0.10% | ~216 |
-| Perma-live | 0.10% | ~216 |
-| Purge the Heretek | 0.10% | ~216 |
+| Sterile Perfection | 0.10% | ~217 |
+| Impossible | 0.10% | ~217 |
+| Sensory overload | 0.10% | ~217 |
+| Melee Machine | 0.10% | ~217 |
+| AoE-phobia | 0.10% | ~217 |
+| Zero to Hero | 0.10% | ~217 |
+| No Omnissian Guidance | 0.10% | ~217 |
+| Not the Men-of-Iron | 0.10% | ~217 |
+| Perma-live | 0.10% | ~217 |
+| Purge the Heretek | 0.10% | ~217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,500 (Ranked 50)  
+Progressed: 216,501 (Ranked 50)  
 Completed: 4 (0.00%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 4 (0.00%) (Ranked 235)
 | 2023-07-04 | 216,287 | 4 |
 | 2023-07-05 | 216,383 | 4 |
 | 2023-07-06 | 216,474 | 4 |
-| 2023-07-07 | 216,500 | 4 |
+| 2023-07-07 | 216,501 | 4 |
 ## Awards
 Max (Highly Recommended): 280  (Ranked 237)  
 Sum: 2,118 (Ranked 191)  

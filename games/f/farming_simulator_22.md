@@ -37,8 +37,8 @@ Number of Ratings: 7,683  (23.09.2022)
 | Cowherd | 7.00% | ~3,158 |
 | Fluffyness | 6.00% | ~2,707 |
 | Helper A does not stop … ever | 6.00% | ~2,707 |
+| Bringing in the Honey | 6.00% | ~2,707 |
 | Road Trip | 5.00% | ~2,256 |
-| Bringing in the Honey | 5.00% | ~2,256 |
 | Three little piggies… | 4.00% | ~1,804 |
 | Game on | 4.00% | ~1,804 |
 | Pretty colourful | 0.90% | ~406 |
@@ -131,12 +131,12 @@ Completed: 5 (0.01%) (Ranked 221)
 | 2023-07-07 | 45,111 | 5 |
 ## Awards
 Max (Great for Beginners): 4,495  (Ranked 71)  
-Sum: 37,907 (Ranked 31)  
+Sum: 37,910 (Ranked 31)  
 Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,495 |
-| This game is Relaxing | 4,005 |
+| This game is Relaxing | 4,008 |
 | This game is Educational | 3,974 |
 | This game has Quickly Understood Controls | 3,928 |
 | This game is Extremely Fun | 3,799 |
@@ -321,3 +321,4 @@ Diff (max vs sum): 40
 | 2023-07-04 | 4.70 | - | 4,485 | 37,868 |
 | 2023-07-05 | 4.70 | - | 4,490 | 37,881 |
 | 2023-07-06 | 4.70 | - | 4,495 | 37,907 |
+| 2023-07-07 | 4.70 | - | 4,495 | 37,910 |

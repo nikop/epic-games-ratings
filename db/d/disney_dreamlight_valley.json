@@ -2464,10 +2464,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 7252,
       "NumberOfAwardsMax": 888
+    },
+    {
+      "Time": "2023-07-07T08:58:33.0830602+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 7253,
+      "NumberOfAwardsMax": 888
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7252,
+  "NumberOfAwards": 7253,
   "NumberOfAwardsMax": 888,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2511,7 +2517,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 773
+      "Count": 774
     },
     {
       "Text": "This game is Relaxing",
@@ -2538,7 +2544,7 @@
       "Count": 481
     }
   ],
-  "EOS_Progressed": 6150,
+  "EOS_Progressed": 6151,
   "EOS_Completed": 160,
   "EOS_NewPlayers": 519,
   "EOS_NewCompleters": 2,
@@ -5118,6 +5124,11 @@
       "Time": "2023-07-07T08:06:11.8189544+00:00",
       "NumProgressed": 6150,
       "NumCompleted": 160
+    },
+    {
+      "Time": "2023-07-07T09:05:29.0407695+00:00",
+      "NumProgressed": 6151,
+      "NumCompleted": 160
     }
   ],
   "TotalAchievements": 15,
@@ -5161,7 +5172,7 @@
       "Name": "Chit Chatter",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "Constructor",
@@ -5169,7 +5180,7 @@
       "Name": "Constructor",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 3505
+      "UsersEstimate": 3506
     },
     {
       "ID": "Duty_Bound",
@@ -5185,7 +5196,7 @@
       "Name": "Gardener",
       "Percentage": 35,
       "XP": 75,
-      "UsersEstimate": 2152
+      "UsersEstimate": 2153
     },
     {
       "ID": "Generous",
@@ -5201,7 +5212,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 76,
       "XP": 75,
-      "UsersEstimate": 4674
+      "UsersEstimate": 4675
     },
     {
       "ID": "Miner",
@@ -5248,16 +5259,16 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 6150,
+      "Progressed": 6151,
       "Completed": 160
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2023-07-06T21:59:06.024815+00:00",
-  "LastChanged_Achievements": "2023-07-07T08:06:11.8189534+00:00",
+  "LastChanged": "2023-07-07T08:58:33.08306+00:00",
+  "LastChanged_Achievements": "2023-07-07T09:05:29.0407691+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:32.86428+00:00",
-  "LastUpdate_Ratings": "2023-07-07T07:58:41.2032599+00:00",
-  "LastUpdate_Achievements": "2023-07-07T08:06:11.8189749+00:00"
+  "LastUpdate_Ratings": "2023-07-07T08:58:33.0830605+00:00",
+  "LastUpdate_Achievements": "2023-07-07T09:05:29.0407894+00:00"
 }

@@ -2630,9 +2630,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 49828,
+  "EOS_Progressed": 49829,
   "EOS_Completed": 203,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -8640,6 +8640,11 @@
       "Time": "2023-07-06T22:04:19.1276848+00:00",
       "NumProgressed": 49828,
       "NumCompleted": 203
+    },
+    {
+      "Time": "2023-07-07T09:03:40.8474773+00:00",
+      "NumProgressed": 49829,
+      "NumCompleted": 203
     }
   ],
   "TotalAchievements": 45,
@@ -8675,7 +8680,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 39364
+      "UsersEstimate": 39365
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -8779,7 +8784,7 @@
       "Name": "Revenge of the Sith",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 19931
+      "UsersEstimate": 19932
     },
     {
       "ID": "COMPLETE_EPISODE_4",
@@ -8787,7 +8792,7 @@
       "Name": "A New Hope",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 23419
+      "UsersEstimate": 23420
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -8795,7 +8800,7 @@
       "Name": "The Empire Strikes Back",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 18436
+      "UsersEstimate": 18437
     },
     {
       "ID": "COMPLETE_EPISODE_6",
@@ -8811,7 +8816,7 @@
       "Name": "The Force Awakens",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 12955
+      "UsersEstimate": 12956
     },
     {
       "ID": "COMPLETE_EPISODE_8",
@@ -8827,7 +8832,7 @@
       "Name": "The Rise of Skywalker",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 9467
+      "UsersEstimate": 9468
     },
     {
       "ID": "COMPLETE_FAULTYDROID_ON_TATOOINE",
@@ -8843,7 +8848,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 28402
+      "UsersEstimate": 28403
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -8891,7 +8896,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 28900
+      "UsersEstimate": 28901
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -8915,7 +8920,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 48333
+      "UsersEstimate": 48334
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -8955,7 +8960,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 35378
+      "UsersEstimate": 35379
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -8971,7 +8976,7 @@
       "Name": "\u0027\u0027A fine addition to my collection\u0027\u0027",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 18436
+      "UsersEstimate": 18437
     },
     {
       "ID": "RIDE_ALL_CREATURES",
@@ -9003,22 +9008,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 35876
+      "UsersEstimate": 35877
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 49828,
+      "Progressed": 49829,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-07-06T22:02:55.8029392+00:00",
-  "LastChanged_Achievements": "2023-07-07T08:04:03.9089728+00:00",
+  "LastChanged_Achievements": "2023-07-07T09:03:40.8474765+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:12.9319063+00:00",
-  "LastUpdate_Ratings": "2023-07-07T08:01:36.4808284+00:00",
-  "LastUpdate_Achievements": "2023-07-07T08:04:03.9090284+00:00"
+  "LastUpdate_Ratings": "2023-07-07T09:00:53.804488+00:00",
+  "LastUpdate_Achievements": "2023-07-07T09:03:40.8475318+00:00"
 }

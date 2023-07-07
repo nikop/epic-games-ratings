@@ -1175,9 +1175,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 122783,
+  "EOS_Progressed": 122788,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 348,
+  "EOS_NewPlayers": 351,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -8660,6 +8660,11 @@
       "Time": "2023-07-07T08:03:23.0668982+00:00",
       "NumProgressed": 122783,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-07-07T09:03:07.5554005+00:00",
+      "NumProgressed": 122788,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 40,
@@ -8695,7 +8700,7 @@
       "Name": "The Opener Of The Eighth Seal",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3683
+      "UsersEstimate": 3684
     },
     {
       "ID": "ACH_COP_ART",
@@ -8703,7 +8708,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 22101
+      "UsersEstimate": 22102
     },
     {
       "ID": "ACH_COP_BAD",
@@ -8727,7 +8732,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 29468
+      "UsersEstimate": 29469
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -8751,7 +8756,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 34379
+      "UsersEstimate": 34381
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -8767,7 +8772,7 @@
       "Name": "The Lawbringer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4911
+      "UsersEstimate": 4912
     },
     {
       "ID": "ACH_COP_LIBERAL",
@@ -8775,7 +8780,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 19645
+      "UsersEstimate": 19646
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -8783,7 +8788,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 24557
+      "UsersEstimate": 24558
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -8807,7 +8812,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 18417
+      "UsersEstimate": 18418
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -8815,7 +8820,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 13506
+      "UsersEstimate": 13507
     },
     {
       "ID": "ACH_CUNO",
@@ -8831,7 +8836,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 11050
+      "UsersEstimate": 11051
     },
     {
       "ID": "ACH_GLUTEN",
@@ -8895,7 +8900,7 @@
       "Name": "Bother Kim After Hours",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3683
+      "UsersEstimate": 3684
     },
     {
       "ID": "ACH_KIM_JACKET",
@@ -8935,7 +8940,7 @@
       "Name": "Networthy Individual",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 859
+      "UsersEstimate": 860
     },
     {
       "ID": "ACH_PALERUNNER",
@@ -8967,7 +8972,7 @@
       "Name": "Fairweather t-500 Vitreous Enamel",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 4911
+      "UsersEstimate": 4912
     },
     {
       "ID": "ACH_REAL_MUSOR",
@@ -8990,15 +8995,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 122783,
+      "Progressed": 122788,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-07-06T13:59:43.7002679+00:00",
-  "LastChanged_Achievements": "2023-07-07T08:03:23.0668979+00:00",
+  "LastChanged_Achievements": "2023-07-07T09:03:07.5553997+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:04.2358463+00:00",
-  "LastUpdate_Ratings": "2023-07-07T07:59:55.5622455+00:00",
-  "LastUpdate_Achievements": "2023-07-07T08:03:23.0669584+00:00"
+  "LastUpdate_Ratings": "2023-07-07T08:59:30.5190644+00:00",
+  "LastUpdate_Achievements": "2023-07-07T09:03:07.5554579+00:00"
 }

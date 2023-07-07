@@ -6367,10 +6367,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 37907,
       "NumberOfAwardsMax": 4495
+    },
+    {
+      "Time": "2023-07-07T09:00:03.4087307+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 37910,
+      "NumberOfAwardsMax": 4495
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 37907,
+  "NumberOfAwards": 37910,
   "NumberOfAwardsMax": 4495,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6384,7 +6390,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4005
+      "Count": 4008
     },
     {
       "Text": "This game is Educational",
@@ -6449,7 +6455,7 @@
   ],
   "EOS_Progressed": 45111,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 339,
+  "EOS_NewPlayers": 338,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13402,9 +13408,9 @@
       "ID": "NumBeehives",
       "SetID": "636ci4d",
       "Name": "Bringing in the Honey",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2256
+      "UsersEstimate": 2707
     },
     {
       "ID": "NumDrivables",
@@ -13537,9 +13543,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
-  "LastChanged": "2023-07-06T20:01:06.3058867+00:00",
-  "LastChanged_Achievements": "2023-07-07T08:04:13.5684665+00:00",
+  "LastChanged": "2023-07-07T09:00:03.4087305+00:00",
+  "LastChanged_Achievements": "2023-07-07T09:03:49.0395339+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:49.9264931+00:00",
-  "LastUpdate_Ratings": "2023-07-07T08:00:31.9926443+00:00",
-  "LastUpdate_Achievements": "2023-07-07T08:04:13.5685435+00:00"
+  "LastUpdate_Ratings": "2023-07-07T09:00:03.4087311+00:00",
+  "LastUpdate_Achievements": "2023-07-07T09:03:49.0395907+00:00"
 }

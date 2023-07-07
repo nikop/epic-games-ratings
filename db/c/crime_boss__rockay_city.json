@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -2424,7 +2424,7 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 68459,
+  "EOS_Progressed": 68460,
   "EOS_Completed": 36,
   "EOS_NewPlayers": 434,
   "EOS_NewCompleters": 1,
@@ -10559,6 +10559,11 @@
       "Time": "2023-07-07T08:04:44.6465893+00:00",
       "NumProgressed": 68459,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-07-07T09:04:14.7141309+00:00",
+      "NumProgressed": 68460,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 37,
@@ -10586,7 +10591,7 @@
       "Name": "Roid Ranger",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 14376
+      "UsersEstimate": 14377
     },
     {
       "ID": "ACH_0013",
@@ -10714,7 +10719,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 44498
+      "UsersEstimate": 44499
     },
     {
       "ID": "ACH_0210",
@@ -10834,7 +10839,7 @@
       "Name": "Raider\u2019s Ruin",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10953
+      "UsersEstimate": 10954
     },
     {
       "ID": "ACH_0452",
@@ -10858,14 +10863,14 @@
       "Name": "Rockay Rex",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 7530
+      "UsersEstimate": 7531
     }
   ],
   "AchievementSets": [
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 68459,
+      "Progressed": 68460,
       "Completed": 36
     }
   ],
@@ -10873,8 +10878,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-07-07T04:59:44.9402807+00:00",
-  "LastChanged_Achievements": "2023-07-07T08:04:44.6465888+00:00",
+  "LastChanged_Achievements": "2023-07-07T09:04:14.7141306+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:16.7698973+00:00",
-  "LastUpdate_Ratings": "2023-07-07T08:00:52.8528561+00:00",
-  "LastUpdate_Achievements": "2023-07-07T08:04:44.6466487+00:00"
+  "LastUpdate_Ratings": "2023-07-07T09:00:21.2307994+00:00",
+  "LastUpdate_Achievements": "2023-07-07T09:04:14.7141875+00:00"
 }

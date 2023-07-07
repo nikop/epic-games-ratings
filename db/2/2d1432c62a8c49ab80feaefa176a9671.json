@@ -4,7 +4,7 @@
   "ProductSlug": "the-precinct-e86840",
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-05T14:56:55.2005097+00:00",
-  "LastUpdate_Ratings": "2023-07-07T07:57:21.8091919+00:00",
-  "LastUpdate_Achievements": "2023-07-07T08:04:00.402179+00:00"
+  "LastUpdate_Ratings": "2023-07-07T08:57:24.9587053+00:00",
+  "LastUpdate_Achievements": "2023-07-07T09:03:37.9087154+00:00"
 }

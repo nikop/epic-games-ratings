@@ -4146,9 +4146,9 @@
       "ID": "Ach006",
       "SetID": "12n4k20",
       "Name": "Time to pay up!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "Ach007",
@@ -4689,8 +4689,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-07T08:03:14.4820597+00:00",
+  "LastChanged_Achievements": "2023-07-07T09:02:20.2811309+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:16.9967031+00:00",
-  "LastUpdate_Ratings": "2023-07-07T07:59:15.9618084+00:00",
-  "LastUpdate_Achievements": "2023-07-07T08:03:14.4821346+00:00"
+  "LastUpdate_Ratings": "2023-07-07T08:58:59.0928898+00:00",
+  "LastUpdate_Achievements": "2023-07-07T09:02:20.2812034+00:00"
 }

@@ -6,23 +6,23 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~48,333 |
-| ''I don't like you either!'' | 79.00% | ~39,364 |
-| ''You think you're some kind of Jedi?'' | 72.00% | ~35,876 |
-| ''Impressive, most impressive'' | 71.00% | ~35,378 |
+| ''You guys got yourself a ship!'' | 97.00% | ~48,334 |
+| ''I don't like you either!'' | 79.00% | ~39,365 |
+| ''You think you're some kind of Jedi?'' | 72.00% | ~35,877 |
+| ''Impressive, most impressive'' | 71.00% | ~35,379 |
 | The Phantom Menace | 59.00% | ~29,399 |
-| ''Aggressive Negotiations'' | 58.00% | ~28,900 |
-| ''I can fly anything'' | 57.00% | ~28,402 |
+| ''Aggressive Negotiations'' | 58.00% | ~28,901 |
+| ''I can fly anything'' | 57.00% | ~28,403 |
 | ''And who gave you permission...?'' | 53.00% | ~26,409 |
-| A New Hope | 47.00% | ~23,419 |
+| A New Hope | 47.00% | ~23,420 |
 | Attack of the Clones | 46.00% | ~22,921 |
-| Revenge of the Sith | 40.00% | ~19,931 |
-| The Empire Strikes Back | 37.00% | ~18,436 |
-| ''A fine addition to my collection'' | 37.00% | ~18,436 |
+| Revenge of the Sith | 40.00% | ~19,932 |
+| The Empire Strikes Back | 37.00% | ~18,437 |
+| ''A fine addition to my collection'' | 37.00% | ~18,437 |
 | Return of the Jedi | 32.00% | ~15,945 |
-| The Force Awakens | 26.00% | ~12,955 |
+| The Force Awakens | 26.00% | ~12,956 |
 | The Last Jedi | 22.00% | ~10,962 |
-| The Rise of Skywalker | 19.00% | ~9,467 |
+| The Rise of Skywalker | 19.00% | ~9,468 |
 | ''It's true... all of it'' | 18.00% | ~8,969 |
 | ''Get the crews to their fighters'' | 18.00% | ~8,969 |
 | ''Raw, untamed power'' | 8.00% | ~3,986 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''You needn't worry about your reward'' | 1.00% | ~498 |
 | ''I've never seen a real one!'' | 0.90% | ~448 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,828 (Ranked 85)  
+Progressed: 49,829 (Ranked 85)  
 Completed: 203 (0.41%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,6 +130,7 @@ Completed: 203 (0.41%) (Ranked 134)
 | 2023-07-04 | 49,816 | 201 |
 | 2023-07-05 | 49,821 | 201 |
 | 2023-07-06 | 49,828 | 203 |
+| 2023-07-07 | 49,829 | 203 |
 ## Awards
 Max (Great Boss Battles): 2,343  (Ranked 101)  
 Sum: 6,466 (Ranked 116)  

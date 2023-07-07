@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 438,
+  "EOS_Progressed": 439,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 431,
+  "EOS_NewPlayers": 432,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -666,6 +666,11 @@
       "Time": "2023-07-07T08:04:34.2352985+00:00",
       "NumProgressed": 438,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-07T09:04:06.3457264+00:00",
+      "NumProgressed": 439,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -675,17 +680,17 @@
       "ID": "AMMO_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "This Isn\u0027t The Last Box",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 233
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "How Many Do You Need?",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 145
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -805,7 +810,7 @@
       "Name": "Where There\u0027s Smoke There\u0027s Fire",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "BURN_ACHIEVEMENT_3",
@@ -925,7 +930,7 @@
       "Name": "I\u0027ll Save You!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "FREE_ACHIEVEMENT_2",
@@ -947,17 +952,17 @@
       "ID": "KALL_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Pest Control or Taxonomist?",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 44
     },
     {
       "ID": "KILLR_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Breaking Twigs",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 171
+      "UsersEstimate": 176
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -981,7 +986,7 @@
       "Name": "Call The Winchester",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "KILLR_ACHIEVEMENT_5",
@@ -1051,9 +1056,9 @@
       "ID": "MARY_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Hostage of the Elderly",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 66
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -1204,14 +1209,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 438,
+      "Progressed": 439,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-07T08:04:34.2352981+00:00",
+  "LastChanged_Achievements": "2023-07-07T09:04:06.3457261+00:00",
   "LastUpdate_AppInfo": "2023-07-06T13:16:22.5768242+00:00",
-  "LastUpdate_Ratings": "2023-07-07T07:57:15.1038494+00:00",
-  "LastUpdate_Achievements": "2023-07-07T08:04:34.235352+00:00"
+  "LastUpdate_Ratings": "2023-07-07T08:57:17.5790039+00:00",
+  "LastUpdate_Achievements": "2023-07-07T09:04:06.3457784+00:00"
 }
