@@ -4,11 +4,11 @@
   "ProductSlug": "riders-republic",
   "Ranking_Rating": 133,
   "Ranking_Popularity": 188,
-  "Ranking_PopularitySum": 131,
+  "Ranking_PopularitySum": 130,
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 308,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-10-28T04:00:00+00:00",
     "PcReleaseDate": "2021-10-28T04:00:00+00:00",
@@ -4948,10 +4948,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 4693,
       "NumberOfAwardsMax": 524
+    },
+    {
+      "Time": "2023-07-07T18:59:53.7493744+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 4697,
+      "NumberOfAwardsMax": 524
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4693,
+  "NumberOfAwards": 4697,
   "NumberOfAwardsMax": 524,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -4983,7 +4989,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 434
+      "Count": 435
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5019,7 +5025,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 498
+      "Count": 501
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5039,8 +5045,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:50.8722129+00:00",
-  "LastChanged": "2023-07-07T16:59:21.3416759+00:00",
+  "LastChanged": "2023-07-07T18:59:53.7493742+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:36.9426333+00:00",
-  "LastUpdate_Ratings": "2023-07-07T17:59:39.7613588+00:00",
-  "LastUpdate_Achievements": "2023-07-07T18:05:45.0188841+00:00"
+  "LastUpdate_Ratings": "2023-07-07T18:59:53.7493752+00:00",
+  "LastUpdate_Achievements": "2023-07-07T19:06:54.9560419+00:00"
 }

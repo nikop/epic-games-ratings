@@ -1,7 +1,7 @@
 # Sherlock Holmes The Awakened
 [Store](https://store.epicgames.com/en-US/p/sherlock-holmes-the-awakened)  
 [View Rawdata](../../db/s/sherlock_holmes_the_awakened.json)  
-Rating: 4.64 (Ranked 311)  
+Rating: 4.64 (Ranked 312)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -26,7 +26,7 @@ Rating: 4.64 (Ranked 311)
 | Fhtagn! | 42.00% | ~216 |
 | Bookworm | 41.00% | ~211 |
 | Going Once... | 39.00% | ~200 |
-| Let Me Be Frank | 37.00% | ~190 |
+| Let Me Be Frank | 38.00% | ~195 |
 | Brain Food | 36.00% | ~185 |
 | No Stone Unturned | 35.00% | ~180 |
 | Curiosity Killed The Cat | 21.00% | ~108 |

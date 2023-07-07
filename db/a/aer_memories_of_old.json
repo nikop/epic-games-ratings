@@ -2,12 +2,12 @@
   "ID": "f3720f53cccb4a20841a392a8ea0457f",
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
-  "Ranking_Rating": 603,
+  "Ranking_Rating": 604,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 74,
-  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14634,
+  "EOS_Progressed": 14636,
   "EOS_Completed": 308,
-  "EOS_NewPlayers": 638,
+  "EOS_NewPlayers": 636,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -8504,6 +8504,11 @@
       "Time": "2023-07-07T18:02:18.0416502+00:00",
       "NumProgressed": 14634,
       "NumCompleted": 308
+    },
+    {
+      "Time": "2023-07-07T19:02:45.5425566+00:00",
+      "NumProgressed": 14636,
+      "NumCompleted": 308
     }
   ],
   "TotalAchievements": 20,
@@ -8555,7 +8560,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1463
+      "UsersEstimate": 1464
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -8619,7 +8624,7 @@
       "Name": "Written in stone",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "GAME_FINISHED",
@@ -8627,7 +8632,7 @@
       "Name": "Equilibrium",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1902
+      "UsersEstimate": 1903
     },
     {
       "ID": "INTRO_FINISHED",
@@ -8635,7 +8640,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 11122
+      "UsersEstimate": 11123
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -8659,7 +8664,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "WEST_FINISHED",
@@ -8667,22 +8672,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 2780
+      "UsersEstimate": 2781
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 14634,
+      "Progressed": 14636,
       "Completed": 308
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-07-07T18:02:18.0416496+00:00",
+  "LastChanged_Achievements": "2023-07-07T19:02:45.5425558+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:31.8640473+00:00",
-  "LastUpdate_Ratings": "2023-07-07T18:01:13.0162563+00:00",
-  "LastUpdate_Achievements": "2023-07-07T18:02:18.0416984+00:00"
+  "LastUpdate_Ratings": "2023-07-07T19:01:33.2901718+00:00",
+  "LastUpdate_Achievements": "2023-07-07T19:02:45.5426488+00:00"
 }

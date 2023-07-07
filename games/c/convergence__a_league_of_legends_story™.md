@@ -9,6 +9,7 @@
 | Rail Rat | 15.00% | ~112 |
 | The Steel Shadow | 14.00% | ~105 |
 | Cartographer | 14.00% | ~105 |
+| The Family Fortune | 14.00% | ~105 |
 | Treasure Trove | 13.00% | ~97 |
 | The Betrayer | 13.00% | ~97 |
 | The Man Who Shattered Time | 13.00% | ~97 |
@@ -23,14 +24,13 @@
 | Immaculate Aim | 13.00% | ~97 |
 | Immaculate Aim | 13.00% | ~97 |
 | The Brass Boss | 13.00% | ~97 |
-| The Family Fortune | 13.00% | ~97 |
 | Like Clockwork | 12.00% | ~90 |
 | Honest Mistake | 12.00% | ~90 |
 | Golem Chaser | 12.00% | ~90 |
 | Fast Learner | 12.00% | ~90 |
 | Check Your Pulse | 12.00% | ~90 |
+| Right On Time | 11.00% | ~82 |
 | Street Style | 11.00% | ~82 |
-| Right On Time | 10.00% | ~75 |
 | Whiz Kid | 10.00% | ~75 |
 | Chaincrawler Explorer | 9.00% | ~67 |
 | Family Memories | 8.00% | ~60 |
@@ -58,7 +58,7 @@
 | Raw Talent | 0.50% | ~4 |
 | Going to Live Forever | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 748 (Ranked 197)  
+Progressed: 748 (Ranked 198)  
 Completed: 4 (0.53%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |

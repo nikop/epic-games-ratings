@@ -6,6 +6,7 @@ Rating: 4.87 (Ranked 25)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | NOW we got a kickass hideout! | 0.70% | ~14 |
+| Headliner | 0.40% | ~14 |
 | Time to pay up! | 0.40% | ~14 |
 | Who's the boss now? | 0.40% | ~14 |
 | I play my own way! | 0.40% | ~14 |
@@ -14,9 +15,9 @@ Rating: 4.87 (Ranked 25)
 | Cream of the Crop | 0.30% | ~10 |
 | This will cost you big time | 0.30% | ~10 |
 | The Negotiator | 0.30% | ~10 |
-| Headliner | 0.30% | ~10 |
 | Thanks for the free chip, Peppermint! | 0.30% | ~10 |
 | Whoa! There's ANOTHER health bar!? | 0.30% | ~10 |
+| I have to read these things? | 0.30% | ~10 |
 | You got this, Peppermint? | 0.30% | ~10 |
 | Z-shielding's got nothing on us! | 0.30% | ~10 |
 | Out in a puff of smoke | 0.30% | ~10 |
@@ -26,7 +27,6 @@ Rating: 4.87 (Ranked 25)
 | Alright, that felt AWESOME! | 0.30% | ~10 |
 | Start with a bang! | 0.20% | ~7 |
 | Well that was a rush! | 0.20% | ~7 |
-| I have to read these things? | 0.20% | ~7 |
 | Feeling the beat! | 0.20% | ~7 |
 | You must like calling me in, Chai | 0.20% | ~7 |
 | That's a lot of junk metal… | 0.20% | ~7 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 25)
 | Voices from within | 0.00% | ~0 |
 | Low budget finish | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,417 (Ranked 145)  
+Progressed: 3,418 (Ranked 145)  
 Completed: 5 (0.15%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 5 (0.15%) (Ranked 170)
 | 2023-07-04 | 3,402 | 5 |
 | 2023-07-05 | 3,407 | 5 |
 | 2023-07-06 | 3,411 | 5 |
-| 2023-07-07 | 3,417 | 5 |
+| 2023-07-07 | 3,418 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

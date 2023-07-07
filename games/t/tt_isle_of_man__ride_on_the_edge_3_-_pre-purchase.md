@@ -18,8 +18,8 @@
 | Upgradeaholic | 8.00% | ~7 |
 | Playing God | 8.00% | ~7 |
 | Tailor-Made | 6.00% | ~6 |
+| Seven-League Boots | 5.00% | ~5 |
 | POI Hunter | 4.00% | ~4 |
-| Seven-League Boots | 4.00% | ~4 |
 | Gotta Go Fast! | 4.00% | ~4 |
 | First and Foremost | 4.00% | ~4 |
 | Made Mother Proud | 4.00% | ~4 |

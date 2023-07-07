@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5098,
+  "EOS_Progressed": 5099,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2094,6 +2094,11 @@
       "Time": "2023-07-07T13:19:50.5090052+00:00",
       "NumProgressed": 5098,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-07T19:04:23.9814286+00:00",
+      "NumProgressed": 5099,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -2217,7 +2222,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2549
+      "UsersEstimate": 2550
     },
     {
       "ID": "ach_campaign_progress6",
@@ -2257,7 +2262,7 @@
       "Name": "Returning Home: Quick Learner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1325
+      "UsersEstimate": 1326
     },
     {
       "ID": "ach_campaign_special10",
@@ -2712,15 +2717,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5098,
+      "Progressed": 5099,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-07-07T18:03:22.8478219+00:00",
+  "LastChanged_Achievements": "2023-07-07T19:04:23.981428+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:49.8817899+00:00",
-  "LastUpdate_Ratings": "2023-07-07T17:59:52.8831274+00:00",
-  "LastUpdate_Achievements": "2023-07-07T18:03:22.8478959+00:00"
+  "LastUpdate_Ratings": "2023-07-07T19:00:07.7230065+00:00",
+  "LastUpdate_Achievements": "2023-07-07T19:04:23.9815507+00:00"
 }

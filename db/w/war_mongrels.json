@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
     "PcReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -1308,9 +1308,9 @@
       "ID": "ACH_FIN_CH05",
       "SetID": "1j25agn",
       "Name": "Consequences",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_FIN_CH06",
@@ -1532,8 +1532,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-06-24T07:57:51.3010975+00:00",
-  "LastChanged_Achievements": "2023-07-07T18:03:30.3543858+00:00",
+  "LastChanged_Achievements": "2023-07-07T19:04:31.8236245+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:35.8436702+00:00",
-  "LastUpdate_Ratings": "2023-07-07T17:58:04.2414256+00:00",
-  "LastUpdate_Achievements": "2023-07-07T18:03:30.3544413+00:00"
+  "LastUpdate_Ratings": "2023-07-07T18:58:13.2677357+00:00",
+  "LastUpdate_Achievements": "2023-07-07T19:04:31.8236892+00:00"
 }

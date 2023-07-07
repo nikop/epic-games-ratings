@@ -6,33 +6,33 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,203 |
-| The Mad Wizard | 11.00% | ~22,882 |
-| The Ring of Regeneration | 7.00% | ~14,561 |
-| Are Ya Chicken? | 7.00% | ~14,561 |
-| Were-verpowered | 5.00% | ~10,401 |
-| Seeking Allies | 5.00% | ~10,401 |
-| Mad Cow Disease | 5.00% | ~10,401 |
-| Friendly Imps | 5.00% | ~10,401 |
-| A Persistent Buzzing | 4.00% | ~8,321 |
-| Pure Energy | 4.00% | ~8,321 |
+| The Cursed Farmer | 15.00% | ~31,207 |
+| The Mad Wizard | 11.00% | ~22,885 |
+| The Ring of Regeneration | 7.00% | ~14,563 |
+| Are Ya Chicken? | 7.00% | ~14,563 |
+| Were-verpowered | 5.00% | ~10,402 |
+| Seeking Allies | 5.00% | ~10,402 |
+| Mad Cow Disease | 5.00% | ~10,402 |
+| Friendly Imps | 5.00% | ~10,402 |
+| A Persistent Buzzing | 4.00% | ~8,322 |
+| Pure Energy | 4.00% | ~8,322 |
+| Beast Mode | 3.00% | ~6,241 |
 | Terror in the Dark | 3.00% | ~6,241 |
 | Unearthed Evil | 3.00% | ~6,241 |
 | The Crumbling Temple | 3.00% | ~6,241 |
 | Exploring Port Nyanzaru | 3.00% | ~6,241 |
 | The Contagious Curse | 3.00% | ~6,241 |
-| Beast Mode | 2.00% | ~4,160 |
-| Low Initiative | 2.00% | ~4,160 |
-| A Mysterious Summons | 2.00% | ~4,160 |
-| Building Trust | 2.00% | ~4,160 |
-| No Time To Rest | 2.00% | ~4,160 |
-| Useless Allies | 2.00% | ~4,160 |
-| Running of the Saurs | 2.00% | ~4,160 |
-| Escort to Waterdeep | 2.00% | ~4,160 |
-| Waterdeep Detours | 2.00% | ~4,160 |
-| Underdeep Cartography | 2.00% | ~4,160 |
-| Overdue Rendezvous | 2.00% | ~4,160 |
-| The Templar's Camp | 2.00% | ~4,160 |
+| Low Initiative | 2.00% | ~4,161 |
+| A Mysterious Summons | 2.00% | ~4,161 |
+| Building Trust | 2.00% | ~4,161 |
+| No Time To Rest | 2.00% | ~4,161 |
+| Useless Allies | 2.00% | ~4,161 |
+| Running of the Saurs | 2.00% | ~4,161 |
+| Escort to Waterdeep | 2.00% | ~4,161 |
+| Waterdeep Detours | 2.00% | ~4,161 |
+| Underdeep Cartography | 2.00% | ~4,161 |
+| Overdue Rendezvous | 2.00% | ~4,161 |
+| The Templar's Camp | 2.00% | ~4,161 |
 | Homecoming | 1.00% | ~2,080 |
 | Street War | 1.00% | ~2,080 |
 | March of the Undead | 1.00% | ~2,080 |
@@ -86,7 +86,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lair of the Xanathar | 0.50% | ~1,040 |
 | Waterdeep Under Siege | 0.50% | ~1,040 |
 | Elturel Has Fallen | 0.50% | ~1,040 |
-| The Everlasting Rime | 0.50% | ~871 |
+| The Everlasting Rime | 0.50% | ~872 |
 | Expert Opinion | 0.50% | ~1,040 |
 | Poor Guidance | 0.50% | ~1,040 |
 | Anti-Dexterous Explorers | 0.40% | ~832 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,018 (Ranked 52)  
+Progressed: 208,046 (Ranked 52)  
 Completed: 2,035 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -588,7 +588,7 @@ Completed: 2,035 (0.98%) (Ranked 101)
 | 2023-07-04 | 206,280 | 2,028 |
 | 2023-07-05 | 206,889 | 2,032 |
 | 2023-07-06 | 207,486 | 2,035 |
-| 2023-07-07 | 208,018 | 2,035 |
+| 2023-07-07 | 208,046 | 2,035 |
 ## Awards
 Max (Diverse Characters): 5,013  (Ranked 65)  
 Sum: 30,436 (Ranked 37)  
