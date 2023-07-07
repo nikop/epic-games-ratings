@@ -17,7 +17,7 @@
 | 15 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.27% |
 | 16 | [Remains](games/r/remains.md) | 12.20% |
 | 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.01% |
-| 18 | [Sonic Origins](games/s/sonic_origins.md) | 11.11% |
+| 18 | [Sonic Origins](games/s/sonic_origins.md) | 11.07% |
 | 19 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.71% |
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.26% |
@@ -55,7 +55,7 @@
 | 53 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.16% |
 | 54 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.12% |
 | 55 | [The Complex](games/t/the_complex.md) | 3.10% |
-| 56 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.07% |
+| 56 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.06% |
 | 57 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 2.96% |
 | 58 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 58 | [MultiVersus](games/m/multiversus.md) | 2.93% |
@@ -85,8 +85,8 @@
 | 83 | [Somerville](games/s/somerville.md) | 1.56% |
 | 84 | [Ten Dates](games/t/ten_dates.md) | 1.52% |
 | 85 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
-| 86 | [Poosh XL](games/p/poosh_xl.md) | 1.47% |
-| 87 | [Night Book](games/n/night_book.md) | 1.46% |
+| 86 | [Night Book](games/n/night_book.md) | 1.46% |
+| 86 | [Poosh XL](games/p/poosh_xl.md) | 1.46% |
 | 88 | [A Musical Story](games/a/a_musical_story.md) | 1.43% |
 | 89 | [Late Shift](games/l/late_shift.md) | 1.35% |
 | 90 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.33% |
@@ -123,7 +123,7 @@
 | 121 | [Grindstone](games/g/grindstone.md) | 0.57% |
 | 122 | [Potion Permit](games/p/potion_permit.md) | 0.55% |
 | 122 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
-| 124 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.54% |
+| 124 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.53% |
 | 125 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
 | 125 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
 | 127 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
