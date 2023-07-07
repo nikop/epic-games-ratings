@@ -9,7 +9,7 @@
 | 7 | [Volley Pals](games/v/volley_pals.md) | 21.95% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
-| 10 | [Island Cities](games/i/island_cities.md) | 17.60% |
+| 10 | [Island Cities](games/i/island_cities.md) | 17.55% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 12 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 14.16% |
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.58% |
@@ -47,7 +47,7 @@
 | 45 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
 | 46 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.63% |
 | 47 | [Doodle God](games/d/doodle_god.md) | 3.57% |
-| 48 | [ZZT!](games/z/zzt!.md) | 3.47% |
+| 48 | [ZZT!](games/z/zzt!.md) | 3.51% |
 | 49 | [Bunny Park](games/b/bunny_park.md) | 3.42% |
 | 50 | [Monster Harvest](games/m/monster_harvest.md) | 3.39% |
 | 51 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.33% |
@@ -83,7 +83,7 @@
 | 81 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.76% |
 | 82 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.64% |
 | 83 | [Somerville](games/s/somerville.md) | 1.56% |
-| 84 | [Ten Dates](games/t/ten_dates.md) | 1.52% |
+| 84 | [Ten Dates](games/t/ten_dates.md) | 1.51% |
 | 85 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
 | 86 | [Night Book](games/n/night_book.md) | 1.46% |
 | 86 | [Poosh XL](games/p/poosh_xl.md) | 1.46% |
@@ -126,9 +126,9 @@
 | 124 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.53% |
 | 125 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.51% |
 | 126 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
-| 127 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
-| 127 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.47% |
-| 127 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.47% |
+| 127 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.48% |
+| 128 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
+| 128 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.47% |
 | 130 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
 | 131 | [Ghostrunner](games/g/ghostrunner.md) | 0.43% |
 | 132 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.42% |
