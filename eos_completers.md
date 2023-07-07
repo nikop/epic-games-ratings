@@ -16,8 +16,8 @@
 | 14 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 15 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.27% |
 | 16 | [Remains](games/r/remains.md) | 12.20% |
-| 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.01% |
-| 18 | [Sonic Origins](games/s/sonic_origins.md) | 11.07% |
+| 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.00% |
+| 18 | [Sonic Origins](games/s/sonic_origins.md) | 11.02% |
 | 19 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.71% |
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.26% |
@@ -28,7 +28,7 @@
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.34% |
 | 27 | [Time Loader](games/t/time_loader.md) | 7.27% |
 | 28 | [Scorn](games/s/scorn.md) | 7.03% |
-| 29 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.92% |
+| 29 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.91% |
 | 30 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.82% |
 | 31 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 32 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -56,7 +56,7 @@
 | 54 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.12% |
 | 55 | [The Complex](games/t/the_complex.md) | 3.10% |
 | 56 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.06% |
-| 57 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 2.96% |
+| 57 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 2.94% |
 | 58 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 58 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 60 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.86% |
