@@ -12,13 +12,13 @@ Rating: 4.87 (Ranked 25)
 | Time to pay up! | 0.30% | ~10 |
 | Who's the boss now? | 0.30% | ~10 |
 | I play my own way! | 0.30% | ~10 |
+| You got this, Peppermint? | 0.30% | ~10 |
 | Uh, they were broken when I got here | 0.30% | ~10 |
 | Who put gears in there? | 0.30% | ~10 |
 | Cream of the Crop | 0.20% | ~7 |
 | This will cost you big time | 0.20% | ~7 |
 | Thanks for the free chip, Peppermint! | 0.20% | ~7 |
 | Whoa! There's ANOTHER health bar!? | 0.20% | ~7 |
-| You got this, Peppermint? | 0.20% | ~7 |
 | Z-shielding's got nothing on us! | 0.20% | ~7 |
 | Out in a puff of smoke | 0.20% | ~7 |
 | Perfect Parry | 0.20% | ~7 |

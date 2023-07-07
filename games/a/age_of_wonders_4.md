@@ -40,10 +40,10 @@ Rating: 4.61 (Ranked 361)
 | Eternal Lord | 0.80% | ~39 |
 | The Eternal Court | 0.80% | ~39 |
 | Crimson Caldera | 0.70% | ~35 |
+| Jack of All Tomes | 0.70% | ~35 |
 | Lord of Chaos | 0.60% | ~30 |
-| Jack of All Tomes | 0.60% | ~30 |
-| Grexolis | 0.50% | ~25 |
-| One for All, All for One | 0.50% | ~25 |
+| Grexolis | 0.60% | ~30 |
+| One for All, All for One | 0.60% | ~30 |
 | I've Got Everything I Need Right Here | 0.40% | ~20 |
 | Manufactured War | 0.40% | ~20 |
 | Pruning for Progress | 0.40% | ~20 |

@@ -1175,7 +1175,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 122788,
+  "EOS_Progressed": 122790,
   "EOS_Completed": 26,
   "EOS_NewPlayers": 351,
   "EOS_NewCompleters": 0,
@@ -8665,6 +8665,11 @@
       "Time": "2023-07-07T09:03:07.5554005+00:00",
       "NumProgressed": 122788,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-07-07T10:00:42.8792414+00:00",
+      "NumProgressed": 122790,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 40,
@@ -8732,7 +8737,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 29469
+      "UsersEstimate": 29470
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -8804,7 +8809,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 15962
+      "UsersEstimate": 15963
     },
     {
       "ID": "ACH_COP_STAR",
@@ -8892,7 +8897,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 17190
+      "UsersEstimate": 17191
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -8956,7 +8961,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 15962
+      "UsersEstimate": 15963
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -8995,15 +9000,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 122788,
+      "Progressed": 122790,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-07-06T13:59:43.7002679+00:00",
-  "LastChanged_Achievements": "2023-07-07T09:03:07.5553997+00:00",
+  "LastChanged_Achievements": "2023-07-07T10:00:42.8792405+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:04.2358463+00:00",
-  "LastUpdate_Ratings": "2023-07-07T08:59:30.5190644+00:00",
-  "LastUpdate_Achievements": "2023-07-07T09:03:07.5554579+00:00"
+  "LastUpdate_Ratings": "2023-07-07T09:58:56.4246159+00:00",
+  "LastUpdate_Achievements": "2023-07-07T10:00:42.8793164+00:00"
 }

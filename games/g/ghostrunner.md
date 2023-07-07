@@ -1,37 +1,37 @@
 # Ghostrunner
 [Store](https://store.epicgames.com/en-US/p/ghostrunner)  
 [View Rawdata](../../db/g/ghostrunner.json)  
-Rating: 4.72 (Ranked 168)  
+Rating: 4.72 (Ranked 167)  
 Number of Ratings: 1,047  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 77.00% | ~9,087 |
-| Sword Runner | 63.00% | ~7,435 |
-| Wallrunner | 56.00% | ~6,609 |
-| Running out of breath | 55.00% | ~6,491 |
-| Homerunner | 46.00% | ~5,428 |
-| Out of order | 46.00% | ~5,428 |
-| I call it luck | 45.00% | ~5,310 |
-| Where are my Keys? | 42.00% | ~4,956 |
-| Back to hell | 38.00% | ~4,484 |
-| Perfection | 33.00% | ~3,894 |
-| Why not both | 31.00% | ~3,658 |
-| Sword to a gunfight | 30.00% | ~3,540 |
-| Upgrades not mandatory | 30.00% | ~3,540 |
-| Artificial selection | 29.00% | ~3,422 |
-| Control freak | 28.00% | ~3,304 |
-| Running Wild | 28.00% | ~3,304 |
-| Finish line | 27.00% | ~3,186 |
-| Unstoppable force | 23.00% | ~2,714 |
-| Wave of mutilation | 22.00% | ~2,596 |
-| Can't Run Can't Hide | 18.00% | ~2,124 |
-| R is for Running | 17.00% | ~2,006 |
-| Dead in the air | 15.00% | ~1,770 |
-| Improvise, adapt, overrun | 14.00% | ~1,652 |
-| Pre-empative strike | 13.00% | ~1,534 |
-| Strike | 13.00% | ~1,534 |
-| More than human | 12.00% | ~1,416 |
+| Longrunner | 77.00% | ~9,090 |
+| Sword Runner | 63.00% | ~7,437 |
+| Wallrunner | 56.00% | ~6,611 |
+| Running out of breath | 55.00% | ~6,493 |
+| Homerunner | 46.00% | ~5,430 |
+| Out of order | 46.00% | ~5,430 |
+| I call it luck | 45.00% | ~5,312 |
+| Where are my Keys? | 42.00% | ~4,958 |
+| Back to hell | 38.00% | ~4,486 |
+| Perfection | 33.00% | ~3,896 |
+| Why not both | 31.00% | ~3,660 |
+| Sword to a gunfight | 30.00% | ~3,542 |
+| Upgrades not mandatory | 30.00% | ~3,542 |
+| Artificial selection | 29.00% | ~3,423 |
+| Control freak | 28.00% | ~3,305 |
+| Running Wild | 28.00% | ~3,305 |
+| Finish line | 27.00% | ~3,187 |
+| Unstoppable force | 23.00% | ~2,715 |
+| Wave of mutilation | 22.00% | ~2,597 |
+| Can't Run Can't Hide | 18.00% | ~2,125 |
+| R is for Running | 17.00% | ~2,007 |
+| Dead in the air | 15.00% | ~1,771 |
+| Improvise, adapt, overrun | 14.00% | ~1,653 |
+| Pre-empative strike | 13.00% | ~1,535 |
+| Strike | 13.00% | ~1,535 |
+| More than human | 12.00% | ~1,417 |
 | Triple A | 10.00% | ~1,180 |
 | Fine addition | 7.00% | ~826 |
 | One Of Those Days | 7.00% | ~826 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~47 |
 | Up Close And Personal | 0.40% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,801 (Ranked 114)  
+Progressed: 11,805 (Ranked 114)  
 Completed: 51 (0.43%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 51 (0.43%) (Ranked 131)
 | 2023-07-04 | 11,615 | 51 |
 | 2023-07-05 | 11,693 | 51 |
 | 2023-07-06 | 11,785 | 51 |
-| 2023-07-07 | 11,801 | 51 |
+| 2023-07-07 | 11,805 | 51 |
 ## Awards
 Max (Great Boss Battles): 470  (Ranked 195)  
 Sum: 607 (Ranked 287)  

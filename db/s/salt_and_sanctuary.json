@@ -2355,9 +2355,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 526855,
+  "EOS_Progressed": 526857,
   "EOS_Completed": 1471,
-  "EOS_NewPlayers": 711,
+  "EOS_NewPlayers": 708,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -10570,6 +10570,11 @@
       "Time": "2023-07-07T09:03:23.9520668+00:00",
       "NumProgressed": 526855,
       "NumCompleted": 1471
+    },
+    {
+      "Time": "2023-07-07T10:02:19.2637818+00:00",
+      "NumProgressed": 526857,
+      "NumCompleted": 1471
     }
   ],
   "TotalAchievements": 37,
@@ -10597,7 +10602,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 158056
+      "UsersEstimate": 158057
     },
     {
       "ID": "DEVOTED",
@@ -10637,7 +10642,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 437290
+      "UsersEstimate": 437291
     },
     {
       "ID": "HONED",
@@ -10693,7 +10698,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 210742
+      "UsersEstimate": 210743
     },
     {
       "ID": "THE_CASTLE",
@@ -10821,7 +10826,7 @@
       "Name": "The Sacrifice",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 42148
+      "UsersEstimate": 42149
     },
     {
       "ID": "THE_STONE_ROOTS",
@@ -10837,7 +10842,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 337187
+      "UsersEstimate": 337188
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -10876,15 +10881,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 526855,
+      "Progressed": 526857,
       "Completed": 1471
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-07-05T17:00:10.6635387+00:00",
-  "LastChanged_Achievements": "2023-07-07T09:03:23.9520665+00:00",
+  "LastChanged_Achievements": "2023-07-07T10:02:19.2637813+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:27.2223029+00:00",
-  "LastUpdate_Ratings": "2023-07-07T08:59:47.5081371+00:00",
-  "LastUpdate_Achievements": "2023-07-07T09:03:23.9521234+00:00"
+  "LastUpdate_Ratings": "2023-07-07T09:59:11.8646876+00:00",
+  "LastUpdate_Achievements": "2023-07-07T10:02:19.2638575+00:00"
 }

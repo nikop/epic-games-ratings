@@ -6,32 +6,32 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,162 |
-| The Mad Wizard | 11.00% | ~22,852 |
-| The Ring of Regeneration | 7.00% | ~14,543 |
-| Are Ya Chicken? | 7.00% | ~14,543 |
-| Were-verpowered | 5.00% | ~10,388 |
-| Seeking Allies | 5.00% | ~10,388 |
-| Mad Cow Disease | 5.00% | ~10,388 |
-| Friendly Imps | 5.00% | ~10,388 |
-| A Persistent Buzzing | 4.00% | ~8,310 |
-| Pure Energy | 4.00% | ~8,310 |
-| Terror in the Dark | 3.00% | ~6,232 |
-| Unearthed Evil | 3.00% | ~6,232 |
-| The Crumbling Temple | 3.00% | ~6,232 |
-| Exploring Port Nyanzaru | 3.00% | ~6,232 |
-| The Contagious Curse | 3.00% | ~6,232 |
-| Beast Mode | 2.00% | ~4,155 |
-| Low Initiative | 2.00% | ~4,155 |
-| A Mysterious Summons | 2.00% | ~4,155 |
-| Building Trust | 2.00% | ~4,155 |
-| No Time To Rest | 2.00% | ~4,155 |
-| Useless Allies | 2.00% | ~4,155 |
-| Running of the Saurs | 2.00% | ~4,155 |
-| Escort to Waterdeep | 2.00% | ~4,155 |
-| Waterdeep Detours | 2.00% | ~4,155 |
-| Underdeep Cartography | 2.00% | ~4,155 |
-| The Templar's Camp | 2.00% | ~4,155 |
+| The Cursed Farmer | 15.00% | ~31,167 |
+| The Mad Wizard | 11.00% | ~22,856 |
+| The Ring of Regeneration | 7.00% | ~14,545 |
+| Are Ya Chicken? | 7.00% | ~14,545 |
+| Were-verpowered | 5.00% | ~10,389 |
+| Seeking Allies | 5.00% | ~10,389 |
+| Mad Cow Disease | 5.00% | ~10,389 |
+| Friendly Imps | 5.00% | ~10,389 |
+| A Persistent Buzzing | 4.00% | ~8,311 |
+| Pure Energy | 4.00% | ~8,311 |
+| Terror in the Dark | 3.00% | ~6,233 |
+| Unearthed Evil | 3.00% | ~6,233 |
+| The Crumbling Temple | 3.00% | ~6,233 |
+| Exploring Port Nyanzaru | 3.00% | ~6,233 |
+| The Contagious Curse | 3.00% | ~6,233 |
+| Beast Mode | 2.00% | ~4,156 |
+| Low Initiative | 2.00% | ~4,156 |
+| A Mysterious Summons | 2.00% | ~4,156 |
+| Building Trust | 2.00% | ~4,156 |
+| No Time To Rest | 2.00% | ~4,156 |
+| Useless Allies | 2.00% | ~4,156 |
+| Running of the Saurs | 2.00% | ~4,156 |
+| Escort to Waterdeep | 2.00% | ~4,156 |
+| Waterdeep Detours | 2.00% | ~4,156 |
+| Underdeep Cartography | 2.00% | ~4,156 |
+| The Templar's Camp | 2.00% | ~4,156 |
 | Homecoming | 1.00% | ~2,078 |
 | Street War | 1.00% | ~2,078 |
 | March of the Undead | 1.00% | ~2,078 |
@@ -66,15 +66,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Giant's Bane Tavern | 0.70% | ~1,218 |
 | Rude Welcome | 0.70% | ~1,454 |
 | The Haunted Jungle | 0.70% | ~1,454 |
-| Family Entanglements | 0.60% | ~1,246 |
-| The Immortal Warrior | 0.60% | ~1,246 |
-| The Wyrmheart Mine | 0.60% | ~1,246 |
-| Fugitives | 0.60% | ~1,246 |
-| Hopelessly Lost | 0.60% | ~1,246 |
-| Enter the Sargauth | 0.60% | ~1,246 |
-| Crowded Streets | 0.60% | ~1,246 |
-| Market Fluctuations | 0.60% | ~1,246 |
-| Durable Deep | 0.60% | ~1,246 |
+| Family Entanglements | 0.60% | ~1,247 |
+| The Immortal Warrior | 0.60% | ~1,247 |
+| The Wyrmheart Mine | 0.60% | ~1,247 |
+| Fugitives | 0.60% | ~1,247 |
+| Hopelessly Lost | 0.60% | ~1,247 |
+| Enter the Sargauth | 0.60% | ~1,247 |
+| Crowded Streets | 0.60% | ~1,247 |
+| Market Fluctuations | 0.60% | ~1,247 |
+| Durable Deep | 0.60% | ~1,247 |
 | Force Grey Unleashed | 0.50% | ~1,039 |
 | Sleuth It Out | 0.50% | ~1,039 |
 | Chatty Nobles | 0.50% | ~1,039 |
@@ -100,6 +100,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Haaave You Met Asmodeus? | 0.40% | ~831 |
 | Domesticated Owlbears | 0.40% | ~831 |
 | The Gargoyle's Apprentice | 0.40% | ~831 |
+| The Trepidatious Trio | 0.40% | ~831 |
 | Flies on the Wall | 0.40% | ~831 |
 | Backtracking Through Barovia | 0.40% | ~831 |
 | Excavating History | 0.40% | ~831 |
@@ -127,7 +128,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Thine Bounty is Mine! | 0.30% | ~522 |
 | Hold for the Red Wizards | 0.30% | ~623 |
 | House of Darkness | 0.30% | ~623 |
-| The Trepidatious Trio | 0.30% | ~623 |
 | Our Time To Shine | 0.30% | ~623 |
 | A Saurial's Lament | 0.30% | ~623 |
 | A Saurial's Resolve | 0.30% | ~623 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 207,750 (Ranked 52)  
+Progressed: 207,779 (Ranked 52)  
 Completed: 2,035 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -588,15 +588,15 @@ Completed: 2,035 (0.98%) (Ranked 101)
 | 2023-07-04 | 206,280 | 2,028 |
 | 2023-07-05 | 206,889 | 2,032 |
 | 2023-07-06 | 207,486 | 2,035 |
-| 2023-07-07 | 207,750 | 2,035 |
+| 2023-07-07 | 207,779 | 2,035 |
 ## Awards
 Max (Diverse Characters): 5,009  (Ranked 65)  
-Sum: 30,419 (Ranked 37)  
+Sum: 30,426 (Ranked 37)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,009 |
-| This game is Great for Beginners | 4,939 |
+| This game is Great for Beginners | 4,946 |
 | This game has Quickly Understood Controls | 4,650 |
 | This game is Relaxing | 4,543 |
 | This game has Amazing Characters | 3,996 |
@@ -767,3 +767,4 @@ Diff (max vs sum): 28
 | 2023-07-04 | 4.05 | - | 5,000 | 30,380 |
 | 2023-07-05 | 4.05 | - | 5,005 | 30,400 |
 | 2023-07-06 | 4.05 | - | 5,009 | 30,419 |
+| 2023-07-07 | 4.05 | - | 5,009 | 30,426 |

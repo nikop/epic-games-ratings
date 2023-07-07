@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 274,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_NewPlayers": 65,
   "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -225,9 +225,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 195605,
+  "EOS_Progressed": 195607,
   "EOS_Completed": 456,
-  "EOS_NewPlayers": 673,
+  "EOS_NewPlayers": 672,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -8415,6 +8415,11 @@
       "Time": "2023-07-07T09:06:13.4024316+00:00",
       "NumProgressed": 195605,
       "NumCompleted": 456
+    },
+    {
+      "Time": "2023-07-07T10:05:49.7286003+00:00",
+      "NumProgressed": 195607,
+      "NumCompleted": 456
     }
   ],
   "TotalAchievements": 29,
@@ -8450,7 +8455,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 183869
+      "UsersEstimate": 183871
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -8610,7 +8615,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 19560
+      "UsersEstimate": 19561
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -8657,7 +8662,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 195605,
+      "Progressed": 195607,
       "Completed": 456
     }
   ],
@@ -8665,8 +8670,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-06-26T22:58:32.656469+00:00",
-  "LastChanged_Achievements": "2023-07-07T09:06:13.4024307+00:00",
+  "LastChanged_Achievements": "2023-07-07T10:05:49.7285998+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:37.1895533+00:00",
-  "LastUpdate_Ratings": "2023-07-07T08:59:12.3359948+00:00",
-  "LastUpdate_Achievements": "2023-07-07T09:06:13.4024843+00:00"
+  "LastUpdate_Ratings": "2023-07-07T09:58:40.3821987+00:00",
+  "LastUpdate_Achievements": "2023-07-07T10:05:49.7286622+00:00"
 }

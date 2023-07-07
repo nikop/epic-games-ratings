@@ -24,6 +24,7 @@
 | Quartermaster | 3.00% | ~3 |
 | Supercargo | 3.00% | ~3 |
 | Strategist | 3.00% | ~3 |
+| The Voice of Hereafter | 3.00% | ~3 |
 | Been There | 3.00% | ~3 |
 | Spiritual Journey | 3.00% | ~3 |
 | Pilgrimage's End | 3.00% | ~3 |
@@ -31,7 +32,6 @@
 | Trouble at Fort Larius | 3.00% | ~3 |
 | Xevarian Gambit | 2.00% | ~2 |
 | Deputized | 2.00% | ~2 |
-| The Voice of Hereafter | 2.00% | ~2 |
 | Despised | 2.00% | ~2 |
 | Inquisitions of Discord | 2.00% | ~2 |
 | Unseen Patterns | 2.00% | ~2 |
