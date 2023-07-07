@@ -32,7 +32,7 @@ Rating: 4.66 (Ranked 271)
 | Rescue time! | 17.00% | ~776 |
 | New order | 16.00% | ~730 |
 | New species | 16.00% | ~730 |
-| A New Hope | 14.00% | ~639 |
+| A New Hope | 15.00% | ~685 |
 | Enigma | 14.00% | ~639 |
 | Challenger | 12.00% | ~548 |
 | No stone unturned | 11.00% | ~502 |

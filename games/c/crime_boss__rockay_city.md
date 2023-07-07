@@ -5,15 +5,15 @@ Rating: 3.93 (Ranked 924)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~50,663 |
+| Downed but Not Outed | 74.00% | ~50,664 |
 | First One’s Free | 65.00% | ~44,502 |
 | Neophyte Ninja | 50.00% | ~34,232 |
-| Too Old for This | 47.00% | ~32,178 |
-| Fancy Pants | 35.00% | ~23,962 |
+| Too Old for This | 47.00% | ~32,179 |
+| Fancy Pants | 35.00% | ~23,963 |
 | Case Closed | 34.00% | ~23,278 |
 | King of the Hill | 34.00% | ~23,278 |
 | Underworld Initiate | 29.00% | ~19,855 |
-| Roid Ranger | 21.00% | ~14,377 |
+| Roid Ranger | 21.00% | ~14,378 |
 | True Player | 19.00% | ~13,008 |
 | Off the Rocks | 19.00% | ~13,008 |
 | Dragonslayer | 17.00% | ~11,639 |
@@ -26,7 +26,7 @@ Rating: 3.93 (Ranked 924)
 | I Like Trains | 8.00% | ~5,477 |
 | Headhunter | 8.00% | ~5,477 |
 | Ding Dong | 8.00% | ~5,477 |
-| Foo Finder | 7.00% | ~4,792 |
+| Foo Finder | 7.00% | ~4,793 |
 | Legend Looter | 5.00% | ~3,423 |
 | Savvy Seeker | 5.00% | ~3,423 |
 | Imports and Exports | 4.00% | ~2,739 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 924)
 | Geek Out | 0.50% | ~342 |
 | Full House | 0.20% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,464 (Ranked 72)  
+Progressed: 68,465 (Ranked 72)  
 Completed: 36 (0.05%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 36 (0.05%) (Ranked 199)
 | 2023-07-04 | 68,337 | 35 |
 | 2023-07-05 | 68,390 | 35 |
 | 2023-07-06 | 68,442 | 36 |
-| 2023-07-07 | 68,464 | 36 |
+| 2023-07-07 | 68,465 | 36 |
 ## Awards
 Max (Diverse Characters): 358  (Ranked 220)  
 Sum: 1,700 (Ranked 206)  

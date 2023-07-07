@@ -19,18 +19,18 @@
 | DEFEAT OUR CHAMPION | 13.00% | ~378 |
 | TRAINING HARD | 12.00% | ~349 |
 | RELEASE THE KRAKEN | 12.00% | ~349 |
+| ACE DEFENDER | 12.00% | ~349 |
 | LEGENDARY HERO | 12.00% | ~349 |
-| ACE DEFENDER | 11.00% | ~320 |
 | FRIENDLY | 11.00% | ~320 |
 | PERFECTLY POISED | 10.00% | ~291 |
 | BE OUR GUEST | 10.00% | ~291 |
 | THE EYE OF THE HUNTER | 10.00% | ~291 |
 | ACE TRICKSTER | 8.00% | ~233 |
-| EXPERIENCED CREW | 5.00% | ~145 |
+| EXPERIENCED CREW | 5.00% | ~146 |
 | FRAMED! | 4.00% | ~116 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,909 (Ranked 151)  
-Completed: 90 (3.09%) (Ranked 55)  
+Progressed: 2,910 (Ranked 151)  
+Completed: 91 (3.13%) (Ranked 53)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -106,4 +106,4 @@ Completed: 90 (3.09%) (Ranked 55)
 | 2023-07-04 | 2,881 | 84 |
 | 2023-07-05 | 2,891 | 86 |
 | 2023-07-06 | 2,905 | 89 |
-| 2023-07-07 | 2,909 | 90 |
+| 2023-07-07 | 2,910 | 91 |

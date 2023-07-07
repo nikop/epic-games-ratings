@@ -4,7 +4,7 @@
   "ProductSlug": "titus-the-fox-150ecc",
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:02.3284714+00:00",
   "LastChanged": "2023-03-31T05:58:02.3284715+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:29.4406216+00:00",
-  "LastUpdate_Ratings": "2023-07-07T09:58:02.4978676+00:00",
-  "LastUpdate_Achievements": "2023-07-07T10:03:23.649211+00:00"
+  "LastUpdate_Ratings": "2023-07-07T10:58:39.7348466+00:00",
+  "LastUpdate_Achievements": "2023-07-07T11:04:33.3847658+00:00"
 }

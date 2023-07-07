@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56950,
+  "EOS_Progressed": 56953,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 430,
+  "EOS_NewPlayers": 433,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7202,6 +7202,11 @@
       "Time": "2023-07-07T10:02:34.263059+00:00",
       "NumProgressed": 56950,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-07T11:04:05.8079437+00:00",
+      "NumProgressed": 56953,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7229,7 +7234,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11390
+      "UsersEstimate": 11391
     },
     {
       "ID": "04",
@@ -7245,7 +7250,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10251
+      "UsersEstimate": 10252
     },
     {
       "ID": "06",
@@ -7253,7 +7258,7 @@
       "Name": "Park Ranger",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 8542
+      "UsersEstimate": 8543
     },
     {
       "ID": "07",
@@ -7269,7 +7274,7 @@
       "Name": "Iron Horse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6264
+      "UsersEstimate": 6265
     },
     {
       "ID": "09",
@@ -7277,7 +7282,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6264
+      "UsersEstimate": 6265
     },
     {
       "ID": "10",
@@ -7381,7 +7386,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6264
+      "UsersEstimate": 6265
     },
     {
       "ID": "23",
@@ -7429,7 +7434,7 @@
       "Name": "Come One, Come All",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6264
+      "UsersEstimate": 6265
     },
     {
       "ID": "29",
@@ -7461,7 +7466,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14807
+      "UsersEstimate": 14808
     },
     {
       "ID": "33",
@@ -7549,7 +7554,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8542
+      "UsersEstimate": 8543
     },
     {
       "ID": "44",
@@ -7613,7 +7618,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1633
+      "UsersEstimate": 1634
     },
     {
       "ID": "52",
@@ -7748,21 +7753,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56950,
+      "Progressed": 56953,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20418,
+      "Progressed": 20421,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-07T10:02:34.2630583+00:00",
+  "LastChanged_Achievements": "2023-07-07T11:04:05.8079433+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:02.061333+00:00",
-  "LastUpdate_Ratings": "2023-07-07T09:57:45.4005979+00:00",
-  "LastUpdate_Achievements": "2023-07-07T10:02:34.2631653+00:00"
+  "LastUpdate_Ratings": "2023-07-07T10:58:14.76623+00:00",
+  "LastUpdate_Achievements": "2023-07-07T11:04:05.8080339+00:00"
 }

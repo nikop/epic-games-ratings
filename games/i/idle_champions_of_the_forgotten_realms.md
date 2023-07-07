@@ -6,21 +6,21 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,167 |
-| The Mad Wizard | 11.00% | ~22,856 |
-| The Ring of Regeneration | 7.00% | ~14,545 |
-| Are Ya Chicken? | 7.00% | ~14,545 |
-| Were-verpowered | 5.00% | ~10,389 |
-| Seeking Allies | 5.00% | ~10,389 |
-| Mad Cow Disease | 5.00% | ~10,389 |
-| Friendly Imps | 5.00% | ~10,389 |
-| A Persistent Buzzing | 4.00% | ~8,311 |
-| Pure Energy | 4.00% | ~8,311 |
-| Terror in the Dark | 3.00% | ~6,233 |
-| Unearthed Evil | 3.00% | ~6,233 |
-| The Crumbling Temple | 3.00% | ~6,233 |
-| Exploring Port Nyanzaru | 3.00% | ~6,233 |
-| The Contagious Curse | 3.00% | ~6,233 |
+| The Cursed Farmer | 15.00% | ~31,170 |
+| The Mad Wizard | 11.00% | ~22,858 |
+| The Ring of Regeneration | 7.00% | ~14,546 |
+| Are Ya Chicken? | 7.00% | ~14,546 |
+| Were-verpowered | 5.00% | ~10,390 |
+| Seeking Allies | 5.00% | ~10,390 |
+| Mad Cow Disease | 5.00% | ~10,390 |
+| Friendly Imps | 5.00% | ~10,390 |
+| A Persistent Buzzing | 4.00% | ~8,312 |
+| Pure Energy | 4.00% | ~8,312 |
+| Terror in the Dark | 3.00% | ~6,234 |
+| Unearthed Evil | 3.00% | ~6,234 |
+| The Crumbling Temple | 3.00% | ~6,234 |
+| Exploring Port Nyanzaru | 3.00% | ~6,234 |
+| The Contagious Curse | 3.00% | ~6,234 |
 | Beast Mode | 2.00% | ~4,156 |
 | Low Initiative | 2.00% | ~4,156 |
 | A Mysterious Summons | 2.00% | ~4,156 |
@@ -31,6 +31,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Escort to Waterdeep | 2.00% | ~4,156 |
 | Waterdeep Detours | 2.00% | ~4,156 |
 | Underdeep Cartography | 2.00% | ~4,156 |
+| Overdue Rendezvous | 2.00% | ~4,156 |
 | The Templar's Camp | 2.00% | ~4,156 |
 | Homecoming | 1.00% | ~2,078 |
 | Street War | 1.00% | ~2,078 |
@@ -44,7 +45,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flying Monkey Skulls of Doom | 1.00% | ~2,078 |
 | Close Escort | 1.00% | ~2,078 |
 | Constant Banditry | 1.00% | ~2,078 |
-| Overdue Rendezvous | 1.00% | ~2,078 |
 | Rescue in the Jungle | 1.00% | ~2,078 |
 | The Lost Heir of Omu | 0.90% | ~1,870 |
 | Trollskull Manor | 0.90% | ~1,870 |
@@ -57,15 +57,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dead Three | 0.80% | ~1,662 |
 | The Long Haul | 0.80% | ~1,662 |
 | Easily Distracted | 0.80% | ~1,662 |
-| Captured! | 0.70% | ~1,454 |
-| A Grand Puzzle | 0.70% | ~1,454 |
-| Tomb of the Nine Gods | 0.70% | ~1,454 |
-| Treasure Hunters | 0.70% | ~1,454 |
-| Nimble Escape | 0.70% | ~1,454 |
-| The Darkness Runs Deeper | 0.70% | ~1,454 |
-| The Giant's Bane Tavern | 0.70% | ~1,218 |
-| Rude Welcome | 0.70% | ~1,454 |
-| The Haunted Jungle | 0.70% | ~1,454 |
+| Captured! | 0.70% | ~1,455 |
+| A Grand Puzzle | 0.70% | ~1,455 |
+| Tomb of the Nine Gods | 0.70% | ~1,455 |
+| Treasure Hunters | 0.70% | ~1,455 |
+| Nimble Escape | 0.70% | ~1,455 |
+| The Darkness Runs Deeper | 0.70% | ~1,455 |
+| The Giant's Bane Tavern | 0.70% | ~1,219 |
+| Rude Welcome | 0.70% | ~1,455 |
+| The Haunted Jungle | 0.70% | ~1,455 |
 | Family Entanglements | 0.60% | ~1,247 |
 | The Immortal Warrior | 0.60% | ~1,247 |
 | The Wyrmheart Mine | 0.60% | ~1,247 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 207,779 (Ranked 52)  
+Progressed: 207,799 (Ranked 52)  
 Completed: 2,035 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -588,20 +588,20 @@ Completed: 2,035 (0.98%) (Ranked 101)
 | 2023-07-04 | 206,280 | 2,028 |
 | 2023-07-05 | 206,889 | 2,032 |
 | 2023-07-06 | 207,486 | 2,035 |
-| 2023-07-07 | 207,779 | 2,035 |
+| 2023-07-07 | 207,799 | 2,035 |
 ## Awards
-Max (Diverse Characters): 5,009  (Ranked 65)  
-Sum: 30,426 (Ranked 37)  
+Max (Diverse Characters): 5,013  (Ranked 65)  
+Sum: 30,432 (Ranked 37)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 5,009 |
+| This game has Diverse Characters | 5,013 |
 | This game is Great for Beginners | 4,946 |
 | This game has Quickly Understood Controls | 4,650 |
 | This game is Relaxing | 4,543 |
 | This game has Amazing Characters | 3,996 |
 | This game is Highly Recommended | 3,991 |
-| This game has Playful Visuals | 3,291 |
+| This game has Playful Visuals | 3,293 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -767,4 +767,4 @@ Diff (max vs sum): 28
 | 2023-07-04 | 4.05 | - | 5,000 | 30,380 |
 | 2023-07-05 | 4.05 | - | 5,005 | 30,400 |
 | 2023-07-06 | 4.05 | - | 5,009 | 30,419 |
-| 2023-07-07 | 4.05 | - | 5,009 | 30,426 |
+| 2023-07-07 | 4.05 | - | 5,013 | 30,432 |

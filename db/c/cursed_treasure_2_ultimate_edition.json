@@ -4,8 +4,8 @@
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 13,
-  "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
     "PcReleaseDate": "2022-07-14T11:30:00+00:00",
@@ -364,9 +364,9 @@
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_8",
       "SetID": "ak6pfjk",
       "Name": "Starry: The Deep",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 55,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "BADGE_BUILDINGS_CAPTURE",
@@ -589,8 +589,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-07-07T10:04:43.5179785+00:00",
+  "LastChanged_Achievements": "2023-07-07T11:05:58.2568628+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:21.8868702+00:00",
-  "LastUpdate_Ratings": "2023-07-07T09:58:31.2399543+00:00",
-  "LastUpdate_Achievements": "2023-07-07T10:04:43.5180225+00:00"
+  "LastUpdate_Ratings": "2023-07-07T10:59:17.5588751+00:00",
+  "LastUpdate_Achievements": "2023-07-07T11:05:58.2568981+00:00"
 }

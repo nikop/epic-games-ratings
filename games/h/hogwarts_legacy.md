@@ -5,10 +5,10 @@ Rating: 4.77 (Ranked 107)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 11.00% | ~31,403 |
-| First Class Student | 10.00% | ~28,548 |
-| A Keen Sense of Spell | 9.00% | ~25,693 |
-| Troll with the Punches | 9.00% | ~25,693 |
+| The Sort Who Makes an Entrance | 11.00% | ~31,404 |
+| First Class Student | 10.00% | ~28,549 |
+| A Keen Sense of Spell | 9.00% | ~25,694 |
+| Troll with the Punches | 9.00% | ~25,694 |
 | Grappling with a Graphorn | 8.00% | ~22,839 |
 | The One Who Mastered Memories | 8.00% | ~22,839 |
 | The Hallowed Hero | 8.00% | ~22,839 |
@@ -31,12 +31,12 @@ Rating: 4.77 (Ranked 107)
 | Third Time's a Charm | 4.00% | ~11,419 |
 | The Ends Petrify the Means | 4.00% | ~11,419 |
 | Raising Expectations | 4.00% | ~11,419 |
-| The Toast of the Town | 3.00% | ~8,564 |
-| Going Through the Potions | 3.00% | ~8,564 |
-| Room with a View | 3.00% | ~8,564 |
-| The Intrepid Explorer | 3.00% | ~8,564 |
-| The Gryffindor in the Graveyard | 3.00% | ~8,564 |
-| The Wise Owl | 3.00% | ~8,564 |
+| The Toast of the Town | 3.00% | ~8,565 |
+| Going Through the Potions | 3.00% | ~8,565 |
+| Room with a View | 3.00% | ~8,565 |
+| The Intrepid Explorer | 3.00% | ~8,565 |
+| The Gryffindor in the Graveyard | 3.00% | ~8,565 |
+| The Wise Owl | 3.00% | ~8,565 |
 | Put Down Roots | 2.00% | ~5,710 |
 | The Auror's Apprentice | 2.00% | ~5,710 |
 | Floo Around the World | 2.00% | ~5,710 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 107)
 | The Nature of the Beast | 0.50% | ~1,427 |
 | Collector's Edition | 0.20% | ~571 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 285,483 (Ranked 41)  
+Progressed: 285,487 (Ranked 41)  
 Completed: 419 (0.15%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 419 (0.15%) (Ranked 169)
 | 2023-07-04 | 284,754 | 418 |
 | 2023-07-05 | 285,076 | 418 |
 | 2023-07-06 | 285,367 | 418 |
-| 2023-07-07 | 285,483 | 419 |
+| 2023-07-07 | 285,487 | 419 |
 ## Awards
 Max (Character Customization): 20,725  (Ranked 17)  
 Sum: 38,668 (Ranked 30)  
