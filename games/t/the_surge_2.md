@@ -5,28 +5,28 @@ Rating: 4.25 (Ranked 805)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,464 |
-| Don't I Know You...? | 77.00% | ~1,409 |
-| Jailbreak | 66.00% | ~1,208 |
+| Rigged And Ready | 80.00% | ~1,465 |
+| Don't I Know You...? | 77.00% | ~1,410 |
+| Jailbreak | 65.00% | ~1,190 |
 | Suited and Booted | 39.00% | ~714 |
-| HEADSHOT! | 38.00% | ~695 |
-| Sleeping With The Fishes | 35.00% | ~640 |
+| HEADSHOT! | 38.00% | ~696 |
+| Sleeping With The Fishes | 35.00% | ~641 |
 | Overheated | 30.00% | ~549 |
 | High Performance | 30.00% | ~549 |
-| Powered Up | 28.00% | ~512 |
+| Powered Up | 28.00% | ~513 |
 | Studied The Blade | 25.00% | ~458 |
 | Home Invasion | 23.00% | ~421 |
 | Luminary | 22.00% | ~403 |
 | It's a Trap | 22.00% | ~403 |
-| True Survivor | 21.00% | ~384 |
+| True Survivor | 21.00% | ~385 |
 | Offensive Defense | 20.00% | ~366 |
 | Shocking | 20.00% | ~366 |
 | Unforeseeable Consequences | 20.00% | ~366 |
 | Court Martial | 19.00% | ~348 |
-| Dead Again | 18.00% | ~329 |
-| Clean Cut | 18.00% | ~329 |
+| Dead Again | 18.00% | ~330 |
+| Clean Cut | 18.00% | ~330 |
 | Full Arsenal | 17.00% | ~311 |
-| Can't Trust Banks | 15.00% | ~274 |
+| Can't Trust Banks | 15.00% | ~275 |
 | Mommy Dearest | 13.00% | ~238 |
 | Bad Dog | 13.00% | ~238 |
 | Where It All Began | 13.00% | ~238 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 805)
 | Swiss Army Drone | 1.00% | ~18 |
 | The Easy Way Out | 1.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,830 (Ranked 164)  
+Progressed: 1,831 (Ranked 164)  
 Completed: 10 (0.55%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,6 +130,7 @@ Completed: 10 (0.55%) (Ranked 122)
 | 2023-07-04 | 1,827 | 10 |
 | 2023-07-05 | 1,829 | 10 |
 | 2023-07-06 | 1,830 | 10 |
+| 2023-07-07 | 1,831 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

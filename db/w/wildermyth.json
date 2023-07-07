@@ -2,12 +2,12 @@
   "ID": "466bb53962c14a6e80f3e3d919f123eb",
   "Name": "Wildermyth",
   "ProductSlug": "wildermyth-593344",
-  "Ranking_Rating": 108,
+  "Ranking_Rating": 107,
   "Ranking_Popularity": 464,
   "Ranking_PopularitySum": 475,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -145,7 +145,7 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1291,
+  "EOS_Progressed": 1292,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
@@ -1000,6 +1000,11 @@
       "Time": "2023-07-06T13:23:53.4924302+00:00",
       "NumProgressed": 1291,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-07T02:28:04.2198819+00:00",
+      "NumProgressed": 1292,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 56,
@@ -1059,7 +1064,7 @@
       "Name": "Let Me Get My Chisel",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "achievement_beatGameOnWalkingLunch",
@@ -1171,7 +1176,7 @@
       "Name": "This Too Shall Pass",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -1458,15 +1463,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1291,
+      "Progressed": 1292,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-07-07T00:05:41.9285217+00:00",
+  "LastChanged_Achievements": "2023-07-07T02:28:04.2198811+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:12.6488902+00:00",
-  "LastUpdate_Ratings": "2023-07-07T00:03:28.9765415+00:00",
-  "LastUpdate_Achievements": "2023-07-07T00:05:41.9285917+00:00"
+  "LastUpdate_Ratings": "2023-07-07T02:25:09.3381638+00:00",
+  "LastUpdate_Achievements": "2023-07-07T02:28:04.2199484+00:00"
 }

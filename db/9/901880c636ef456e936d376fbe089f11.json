@@ -4,7 +4,7 @@
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
   "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
@@ -236,9 +236,9 @@
       "ID": "ACH_40075_KM",
       "SetID": "8h8m55b",
       "Name": "40,075Km",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_50_DRINK_CHALLENGEMODE",
@@ -396,17 +396,17 @@
       "ID": "ACH_GUEST_OF_HONOR",
       "SetID": "8h8m55b",
       "Name": "Guest of Honor",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_HARDBOILED_ADVICE",
       "SetID": "8h8m55b",
       "Name": "A Hardboiled Advice",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_HOW_I_MET_YOUR_ANCESTOR",
@@ -651,8 +651,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-07-07T00:06:32.8037073+00:00",
+  "LastChanged_Achievements": "2023-07-07T02:28:47.7691442+00:00",
   "LastUpdate_AppInfo": "2023-07-04T04:57:00.5402859+00:00",
-  "LastUpdate_Ratings": "2023-07-06T23:57:12.7971578+00:00",
-  "LastUpdate_Achievements": "2023-07-07T00:06:32.8037519+00:00"
+  "LastUpdate_Ratings": "2023-07-07T02:20:46.2083703+00:00",
+  "LastUpdate_Achievements": "2023-07-07T02:28:47.7691998+00:00"
 }

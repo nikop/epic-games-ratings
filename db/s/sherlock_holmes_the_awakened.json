@@ -1785,9 +1785,9 @@
       "ID": "MQ03_5",
       "SetID": "bbing49",
       "Name": "A Method To His Madness",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 267
+      "UsersEstimate": 272
     },
     {
       "ID": "MQ04_1",
@@ -1825,9 +1825,9 @@
       "ID": "MQ05_2",
       "SetID": "bbing49",
       "Name": "Back In The Saddle",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 231
+      "UsersEstimate": 236
     },
     {
       "ID": "MQ05_3",
@@ -1938,8 +1938,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-06-25T15:57:48.8176349+00:00",
-  "LastChanged_Achievements": "2023-07-07T00:07:24.9421164+00:00",
+  "LastChanged_Achievements": "2023-07-07T02:29:32.5101818+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:15.1820341+00:00",
-  "LastUpdate_Ratings": "2023-07-06T23:57:46.1295044+00:00",
-  "LastUpdate_Achievements": "2023-07-07T00:07:24.9421668+00:00"
+  "LastUpdate_Ratings": "2023-07-07T02:21:09.0992999+00:00",
+  "LastUpdate_Achievements": "2023-07-07T02:29:32.5102137+00:00"
 }

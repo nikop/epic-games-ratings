@@ -2,12 +2,12 @@
   "ID": "ffa7b0821b4142d5873ecb0528715003",
   "Name": "Supraland Six Inches Under",
   "ProductSlug": "supraland-six-inches-under-dd0220",
-  "Ranking_Rating": 108,
+  "Ranking_Rating": 107,
   "Ranking_Popularity": 332,
   "Ranking_PopularitySum": 409,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 17,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
@@ -345,7 +345,7 @@
   ],
   "EOS_Progressed": 2149,
   "EOS_Completed": 258,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 12.01,
   "EosHistory": [
@@ -1511,9 +1511,9 @@
       "ID": "Magnet",
       "SetID": "5lok9mm",
       "Name": "Magnet",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 20,
-      "UsersEstimate": 1934
+      "UsersEstimate": 1956
     },
     {
       "ID": "MagnetRepel",
@@ -1719,8 +1719,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-05-31T02:21:41.8483735+00:00",
-  "LastChanged_Achievements": "2023-07-07T00:03:47.4841456+00:00",
+  "LastChanged_Achievements": "2023-07-07T02:25:25.914447+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:20.096986+00:00",
-  "LastUpdate_Ratings": "2023-07-07T00:02:30.2112936+00:00",
-  "LastUpdate_Achievements": "2023-07-07T00:03:47.4841893+00:00"
+  "LastUpdate_Ratings": "2023-07-07T02:24:28.3645109+00:00",
+  "LastUpdate_Achievements": "2023-07-07T02:25:25.914499+00:00"
 }

@@ -153,13 +153,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conquest Victory | 6.00% | ~758 |
 | Necropolis in Waset | 6.00% | ~758 |
 | Cleopatra's Love | 5.00% | ~631 |
+| Old | 5.00% | ~631 |
 | Great Difficulty | 5.00% | ~631 |
 | Event Level High | 5.00% | ~631 |
 | Run, Pheidippides, Run! | 5.00% | ~631 |
 | Hatti | 5.00% | ~631 |
 | Apadana in Parsa | 5.00% | ~631 |
 | Carthage - Riches and Influence | 4.00% | ~505 |
-| Old | 4.00% | ~505 |
 | Five Routs | 4.00% | ~505 |
 | Nenikekamen | 4.00% | ~505 |
 | Circus Maximus in Roma | 4.00% | ~505 |
@@ -373,8 +373,8 @@ Completed: 5 (0.04%) (Ranked 204)
 | 2023-07-07 | 12,625 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 255)  
-Sum: 1,776 (Ranked 206)  
-Diff (max vs sum): 49  
+Sum: 1,776 (Ranked 205)  
+Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 218 |

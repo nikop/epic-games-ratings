@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 51,
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-03-24T15:00:00+00:00",
@@ -5592,10 +5592,16 @@
       "Rating": 4.34,
       "NumberOfAwards": 22981,
       "NumberOfAwardsMax": 3380
+    },
+    {
+      "Time": "2023-07-07T02:25:07.105031+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 22991,
+      "NumberOfAwardsMax": 3380
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 22981,
+  "NumberOfAwards": 22991,
   "NumberOfAwardsMax": 3380,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5615,7 +5621,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 2994
+      "Count": 2998
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -5633,7 +5639,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 3016
+      "Count": 3020
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5645,13 +5651,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 2826
+      "Count": 2827
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 2631
+      "Count": 2632
     },
     {
       "Text": "This game has a Competitive Community",
@@ -5671,8 +5677,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:05.5508389+00:00",
-  "LastChanged": "2023-07-06T16:02:05.3240049+00:00",
+  "LastChanged": "2023-07-07T02:25:07.1050307+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:09.5245866+00:00",
-  "LastUpdate_Ratings": "2023-07-07T00:03:26.8119019+00:00",
-  "LastUpdate_Achievements": "2023-07-07T00:08:15.2441119+00:00"
+  "LastUpdate_Ratings": "2023-07-07T02:25:07.1050316+00:00",
+  "LastUpdate_Achievements": "2023-07-07T02:30:15.5055864+00:00"
 }

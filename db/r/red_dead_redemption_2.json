@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 7,
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2019-11-05T13:00:00+00:00",
@@ -8966,10 +8966,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 401738,
       "NumberOfAwardsMax": 156897
+    },
+    {
+      "Time": "2023-07-07T02:23:23.4239485+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 401769,
+      "NumberOfAwardsMax": 156897
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 401738,
+  "NumberOfAwards": 401769,
   "NumberOfAwardsMax": 156897,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -9025,7 +9031,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 15022
+      "Count": 15053
     },
     {
       "Text": "This game is Great for Beginners",
@@ -9069,8 +9075,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-07-06T21:00:09.4395558+00:00",
+  "LastChanged": "2023-07-07T02:23:23.4239482+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:01.0179813+00:00",
-  "LastUpdate_Ratings": "2023-07-07T00:00:49.0684182+00:00",
-  "LastUpdate_Achievements": "2023-07-07T00:05:41.2593573+00:00"
+  "LastUpdate_Ratings": "2023-07-07T02:23:23.4239492+00:00",
+  "LastUpdate_Achievements": "2023-07-07T02:28:03.5567145+00:00"
 }

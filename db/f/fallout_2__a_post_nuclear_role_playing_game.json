@@ -3,11 +3,11 @@
   "Name": "Fallout 2: A Post Nuclear Role Playing Game",
   "ProductSlug": "fallout-2",
   "Ranking_Rating": 181,
-  "Ranking_Popularity": 363,
-  "Ranking_PopularitySum": 424,
+  "Ranking_Popularity": 364,
+  "Ranking_PopularitySum": 425,
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -386,6 +386,6 @@
   "FirstSeenRating": "2022-10-31T14:02:48.9261194+00:00",
   "LastChanged": "2023-07-06T19:00:30.40405+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:33.8454382+00:00",
-  "LastUpdate_Ratings": "2023-07-07T00:01:33.2185133+00:00",
-  "LastUpdate_Achievements": "2023-07-07T00:03:37.0822703+00:00"
+  "LastUpdate_Ratings": "2023-07-07T02:23:50.9887398+00:00",
+  "LastUpdate_Achievements": "2023-07-07T02:25:16.7467228+00:00"
 }

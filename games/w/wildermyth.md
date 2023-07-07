@@ -1,14 +1,14 @@
 # Wildermyth
 [Store](https://store.epicgames.com/en-US/p/wildermyth-593344)  
 [View Rawdata](../../db/w/wildermyth.json)  
-Rating: 4.77 (Ranked 108)  
+Rating: 4.77 (Ranked 107)  
 Number of Ratings: 45  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Cost of Heroism | 36.00% | ~465 |
 | Me and My Familiar | 34.00% | ~439 |
-| This Too Shall Pass | 29.00% | ~374 |
+| This Too Shall Pass | 29.00% | ~375 |
 | Passing Shadow | 27.00% | ~349 |
 | Cutthroat Competitors | 27.00% | ~349 |
 | How Romantic! | 25.00% | ~323 |
@@ -27,7 +27,7 @@ Number of Ratings: 45  (23.09.2022)
 | Everfading | 7.00% | ~90 |
 | Another Tale to Tell | 7.00% | ~90 |
 | A Story of Heroes | 7.00% | ~90 |
-| Let Me Get My Chisel | 6.00% | ~77 |
+| Let Me Get My Chisel | 6.00% | ~78 |
 | Legends Never Die | 5.00% | ~65 |
 | In Soil, In Smoke | 5.00% | ~65 |
 | Wingknight's Prowess | 5.00% | ~65 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | We Call That Mortificient! | 0.70% | ~9 |
 | Peacemaker | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,291 (Ranked 176)  
+Progressed: 1,292 (Ranked 176)  
 Completed: 4 (0.31%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,6 +130,7 @@ Completed: 4 (0.31%) (Ranked 142)
 | 2023-07-04 | 1,287 | 4 |
 | 2023-07-05 | 1,289 | 4 |
 | 2023-07-06 | 1,291 | 4 |
+| 2023-07-07 | 1,292 | 4 |
 ## Awards
 Max (Character Customization): 27  (Ranked 464)  
 Sum: 27 (Ranked 475)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 24,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1861,
+  "EOS_Progressed": 1862,
   "EOS_Completed": 159,
   "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 6,
@@ -3548,6 +3548,11 @@
       "Time": "2023-07-06T23:02:53.5173364+00:00",
       "NumProgressed": 1861,
       "NumCompleted": 159
+    },
+    {
+      "Time": "2023-07-07T02:25:28.2356992+00:00",
+      "NumProgressed": 1862,
+      "NumCompleted": 159
     }
   ],
   "TotalAchievements": 12,
@@ -3631,7 +3636,7 @@
       "Name": "May Their Memories be a Blessing",
       "Percentage": 9,
       "XP": 200,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "Nazis in Paris",
@@ -3639,7 +3644,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "Nuremberg Laws",
@@ -3654,7 +3659,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1861,
+      "Progressed": 1862,
       "Completed": 159
     }
   ],
@@ -3662,8 +3667,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-07-07T00:03:50.0093133+00:00",
+  "LastChanged_Achievements": "2023-07-07T02:25:28.2356983+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:39.8117525+00:00",
-  "LastUpdate_Ratings": "2023-07-07T00:01:38.1478647+00:00",
-  "LastUpdate_Achievements": "2023-07-07T00:03:50.0093494+00:00"
+  "LastUpdate_Ratings": "2023-07-07T02:23:55.4073347+00:00",
+  "LastUpdate_Achievements": "2023-07-07T02:25:28.2357338+00:00"
 }

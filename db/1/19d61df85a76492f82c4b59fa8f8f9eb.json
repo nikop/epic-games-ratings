@@ -2,9 +2,9 @@
   "ID": "19d61df85a76492f82c4b59fa8f8f9eb",
   "Name": "The House of Da Vinci",
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
-  "Ranking_EOS_Progress": 294,
-  "Ranking_EOS_Completed": 11,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_Progress": 292,
+  "Ranking_EOS_Completed": 12,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 112,
+  "EOS_Progressed": 113,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 14.29,
+  "EOS_Completed_Percentage": 14.16,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -571,6 +571,11 @@
       "Time": "2023-07-05T03:27:16.7069667+00:00",
       "NumProgressed": 112,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-07-07T02:28:01.1583113+00:00",
+      "NumProgressed": 113,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 6,
@@ -582,7 +587,7 @@
       "Name": "Printing Press",
       "Percentage": 60,
       "XP": 175,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAQ",
@@ -629,14 +634,14 @@
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 112,
+      "Progressed": 113,
       "Completed": 16
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-07-07T00:05:38.4865054+00:00",
+  "LastChanged_Achievements": "2023-07-07T02:28:01.1583105+00:00",
   "LastUpdate_AppInfo": "2023-07-06T11:57:11.0013518+00:00",
-  "LastUpdate_Ratings": "2023-07-06T23:57:09.0906508+00:00",
-  "LastUpdate_Achievements": "2023-07-07T00:05:38.4865209+00:00"
+  "LastUpdate_Ratings": "2023-07-07T02:20:41.1864223+00:00",
+  "LastUpdate_Achievements": "2023-07-07T02:28:01.1583318+00:00"
 }

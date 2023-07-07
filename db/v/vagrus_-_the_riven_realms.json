@@ -4,7 +4,7 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -739,9 +739,9 @@
       "ID": "Vanilla_Garrik",
       "SetID": "27kik8p",
       "Name": "Business As Usual",
-      "Percentage": 0,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Vanilla_GearCollection",
@@ -1148,8 +1148,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-07-07T00:03:55.4727142+00:00",
+  "LastChanged_Achievements": "2023-07-07T02:25:32.9497763+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:34.3036965+00:00",
-  "LastUpdate_Ratings": "2023-07-07T00:00:14.9627573+00:00",
-  "LastUpdate_Achievements": "2023-07-07T00:03:55.47286+00:00"
+  "LastUpdate_Ratings": "2023-07-07T02:23:00.3656555+00:00",
+  "LastUpdate_Achievements": "2023-07-07T02:25:32.9498974+00:00"
 }

@@ -39,6 +39,7 @@
 | Loremaster | 0.90% | ~1 |
 | Potential Unlocked | 0.90% | ~1 |
 | Huntress Unbound | 0.90% | ~1 |
+| Business As Usual | 0.90% | ~1 |
 | Legacy of a Mercenary | 0.90% | ~1 |
 | A Terrible Will | 0.90% | ~1 |
 | Delayed | 0.90% | ~1 |
@@ -69,7 +70,6 @@
 | Conqueror | 0.00% | ~0 |
 | Forager | 0.00% | ~0 |
 | Metropolitan | 0.00% | ~0 |
-| Business As Usual | 0.00% | ~0 |
 | All Geared Up | 0.00% | ~0 |
 | Forged in Battle | 0.00% | ~0 |
 | Captain | 0.00% | ~0 |

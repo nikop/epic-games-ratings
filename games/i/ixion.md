@@ -47,8 +47,8 @@ Rating: 4.57 (Ranked 440)
 | Praise the Hull! | 1.00% | ~28 |
 | Space Greenhouse | 1.00% | ~28 |
 | Tiqqun Unchained | 1.00% | ~28 |
+| Scientifically Accurate | 1.00% | ~28 |
 | You Had One Job... | 0.90% | ~25 |
-| Scientifically Accurate | 0.90% | ~25 |
 | Gregor Spinoza | 0.80% | ~22 |
 | Better Him Than Me | 0.70% | ~19 |
 | Remember the Dead | 0.50% | ~14 |

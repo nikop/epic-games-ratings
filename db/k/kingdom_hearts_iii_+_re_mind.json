@@ -3,11 +3,11 @@
   "Name": "KINGDOM HEARTS III \u002B Re Mind (DLC)",
   "ProductSlug": "kingdom-hearts-iii",
   "Ranking_Rating": 100,
-  "Ranking_Popularity": 149,
-  "Ranking_PopularitySum": 177,
+  "Ranking_Popularity": 159,
+  "Ranking_PopularitySum": 222,
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-03-30T13:00:00+00:00",
@@ -1841,12 +1841,18 @@
       "Rating": 4.78,
       "NumberOfAwards": 2348,
       "NumberOfAwardsMax": 914
+    },
+    {
+      "Time": "2023-07-07T02:24:32.1281553+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 1434,
+      "NumberOfAwardsMax": 732
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2348,
-  "NumberOfAwardsMax": 914,
-  "MaxAwardTitle": "Character Customization",
+  "NumberOfAwards": 1434,
+  "NumberOfAwardsMax": 732,
+  "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
@@ -1932,8 +1938,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:33.6381012+00:00",
-  "LastChanged": "2023-07-05T23:03:02.8192768+00:00",
+  "LastChanged": "2023-07-07T02:24:32.128155+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:21.3007584+00:00",
-  "LastUpdate_Ratings": "2023-07-07T00:02:33.5572876+00:00",
-  "LastUpdate_Achievements": "2023-07-07T00:07:07.3629043+00:00"
+  "LastUpdate_Ratings": "2023-07-07T02:24:32.1281558+00:00",
+  "LastUpdate_Achievements": "2023-07-07T02:29:17.3727819+00:00"
 }
