@@ -52,9 +52,9 @@
 | 50 | [Monster Harvest](games/m/monster_harvest.md) | 3.39% |
 | 51 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.33% |
 | 52 | [JARS](games/j/jars.md) | 3.28% |
-| 53 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.12% |
-| 54 | [The Complex](games/t/the_complex.md) | 3.10% |
-| 55 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.09% |
+| 53 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.13% |
+| 54 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.12% |
+| 55 | [The Complex](games/t/the_complex.md) | 3.10% |
 | 56 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.07% |
 | 57 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 2.96% |
 | 58 | [HordeCore](games/h/hordecore.md) | 2.93% |
@@ -74,7 +74,7 @@
 | 72 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 73 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.15% |
 | 74 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.10% |
-| 75 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.09% |
+| 75 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.08% |
 | 76 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.00% |
 | 77 | [Frogun](games/f/frogun.md) | 1.92% |
 | 78 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
