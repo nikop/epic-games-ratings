@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57055,
+  "EOS_Progressed": 57059,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 427,
+  "EOS_NewPlayers": 428,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7362,6 +7362,11 @@
       "Time": "2023-07-08T21:03:53.7945473+00:00",
       "NumProgressed": 57055,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-08T22:04:11.7331416+00:00",
+      "NumProgressed": 57059,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7373,7 +7378,7 @@
       "Name": "Follow the Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 19399
+      "UsersEstimate": 19400
     },
     {
       "ID": "02",
@@ -7389,7 +7394,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11411
+      "UsersEstimate": 11412
     },
     {
       "ID": "04",
@@ -7405,7 +7410,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10270
+      "UsersEstimate": 10271
     },
     {
       "ID": "06",
@@ -7413,7 +7418,7 @@
       "Name": "Park Ranger",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 8558
+      "UsersEstimate": 8559
     },
     {
       "ID": "07",
@@ -7493,7 +7498,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3423
+      "UsersEstimate": 3424
     },
     {
       "ID": "17",
@@ -7501,7 +7506,7 @@
       "Name": "Departure",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3423
+      "UsersEstimate": 3424
     },
     {
       "ID": "18",
@@ -7621,7 +7626,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14834
+      "UsersEstimate": 14835
     },
     {
       "ID": "33",
@@ -7645,7 +7650,7 @@
       "Name": "Let There Be Light",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 15405
+      "UsersEstimate": 15406
     },
     {
       "ID": "36",
@@ -7685,7 +7690,7 @@
       "Name": "Right of Way",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4564
+      "UsersEstimate": 4565
     },
     {
       "ID": "41",
@@ -7709,7 +7714,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8558
+      "UsersEstimate": 8559
     },
     {
       "ID": "44",
@@ -7733,7 +7738,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 7417
+      "UsersEstimate": 7418
     },
     {
       "ID": "47",
@@ -7781,7 +7786,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1232
     },
     {
       "ID": "53",
@@ -7869,7 +7874,7 @@
       "Name": "Iron Will",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "64",
@@ -7908,21 +7913,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57055,
+      "Progressed": 57059,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20523,
+      "Progressed": 20527,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-08T21:03:53.7945467+00:00",
+  "LastChanged_Achievements": "2023-07-08T22:04:11.733141+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:08.3646753+00:00",
-  "LastUpdate_Ratings": "2023-07-08T20:58:00.6952513+00:00",
-  "LastUpdate_Achievements": "2023-07-08T21:03:53.7946315+00:00"
+  "LastUpdate_Ratings": "2023-07-08T21:58:12.367354+00:00",
+  "LastUpdate_Achievements": "2023-07-08T22:04:11.7332567+00:00"
 }

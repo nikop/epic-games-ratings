@@ -1,11 +1,12 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.19 (Ranked 845)  
+Rating: 4.19 (Ranked 844)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Get a Grip | 3.00% | ~470 |
+| Flesh Wound | 2.00% | ~313 |
 | Two Heads Are Better Than One | 2.00% | ~313 |
 | Float Like A Butterfly | 2.00% | ~313 |
 | Paper Jams | 2.00% | ~313 |
@@ -13,7 +14,6 @@ Rating: 4.19 (Ranked 845)
 | It's Time | 2.00% | ~72 |
 | Giving Back | 1.00% | ~157 |
 | You Need a Gun | 1.00% | ~157 |
-| Flesh Wound | 1.00% | ~157 |
 | I Do Belong Here | 1.00% | ~157 |
 | Chew 'Em Up | 1.00% | ~157 |
 | Terminated | 1.00% | ~157 |

@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2919,
+  "EOS_Progressed": 2920,
   "EOS_Completed": 92,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 3.15,
   "EosHistory": [
@@ -3305,6 +3305,11 @@
       "Time": "2023-07-08T21:05:45.844109+00:00",
       "NumProgressed": 2919,
       "NumCompleted": 92
+    },
+    {
+      "Time": "2023-07-08T22:05:37.4186048+00:00",
+      "NumProgressed": 2920,
+      "NumCompleted": 92
     }
   ],
   "TotalAchievements": 24,
@@ -3388,7 +3393,7 @@
       "Name": "ACE BRAWLER",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "19",
@@ -3396,7 +3401,7 @@
       "Name": "DEFEAT OUR CHAMPION",
       "Percentage": 13,
       "XP": 85,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "2",
@@ -3468,7 +3473,7 @@
       "Name": "ROOKIE",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1547
+      "UsersEstimate": 1548
     },
     {
       "ID": "6",
@@ -3476,7 +3481,7 @@
       "Name": "PRO",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "7",
@@ -3507,13 +3512,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2919,
+      "Progressed": 2920,
       "Completed": 92
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-07-08T21:05:45.8441085+00:00",
+  "LastChanged_Achievements": "2023-07-08T22:05:37.4186042+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:58.7714419+00:00",
-  "LastUpdate_Ratings": "2023-07-08T20:59:45.3762364+00:00",
-  "LastUpdate_Achievements": "2023-07-08T21:05:45.844138+00:00"
+  "LastUpdate_Ratings": "2023-07-08T21:59:29.1830627+00:00",
+  "LastUpdate_Achievements": "2023-07-08T22:05:37.418649+00:00"
 }

@@ -16,12 +16,12 @@
 | Bloody stream | 31.00% | ~19 |
 | Fangs | 21.00% | ~13 |
 | Mirrors | 13.00% | ~8 |
+| At least there is something to read | 7.00% | ~4 |
 | Coat | 7.00% | ~4 |
+| Sarcophagus | 7.00% | ~4 |
 | I need a hero | 7.00% | ~4 |
 | I love you all | 7.00% | ~4 |
 | Skills to pay the bills | 7.00% | ~4 |
-| At least there is something to read | 5.00% | ~3 |
-| Sarcophagus | 5.00% | ~3 |
 | Missing pages | 5.00% | ~3 |
 | Master of puppets | 3.00% | ~2 |
 ## Popularity (Based on EOS Achievements)

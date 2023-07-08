@@ -5,19 +5,19 @@ Rating: 3.82 (Ranked 936)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,429 |
-| The First Step | 89.00% | ~1,298 |
-| Moonbury Traveller | 64.00% | ~933 |
+| Welcome to Moonbury | 98.00% | ~1,430 |
+| The First Step | 88.00% | ~1,284 |
+| Moonbury Traveller | 64.00% | ~934 |
 | Rookie Chemist | 63.00% | ~919 |
-| Great Doctor | 52.00% | ~758 |
-| Dog Whisperer | 49.00% | ~714 |
+| Great Doctor | 52.00% | ~759 |
+| Dog Whisperer | 49.00% | ~715 |
 | Friendly | 48.00% | ~700 |
 | The Capitalist | 44.00% | ~642 |
 | K.O.! | 43.00% | ~627 |
-| Intermediate Chemist | 40.00% | ~583 |
+| Intermediate Chemist | 40.00% | ~584 |
 | Decorative Mind | 31.00% | ~452 |
 | Lumber Specialist | 31.00% | ~452 |
-| Catch of the Day | 25.00% | ~364 |
+| Catch of the Day | 25.00% | ~365 |
 | Kind-hearted | 24.00% | ~350 |
 | Amateur Chef | 21.00% | ~306 |
 | Fishing Guru | 20.00% | ~292 |
@@ -30,10 +30,10 @@ Rating: 3.82 (Ranked 936)
 | Ablutomaniac | 12.00% | ~175 |
 | Production Sorter | 11.00% | ~160 |
 | Good Samaritan | 10.00% | ~146 |
-| Acrobatic Adventurer | 9.00% | ~131 |
+| Acrobatic Adventurer | 8.00% | ~117 |
 | Animal Exterminator | 8.00% | ~117 |
-| Adolescent Love | 6.00% | ~87 |
-| Mail Carrier | 6.00% | ~87 |
+| Adolescent Love | 6.00% | ~88 |
+| Mail Carrier | 6.00% | ~88 |
 | Plantation Exterminator | 5.00% | ~73 |
 | Grape Supplier | 4.00% | ~58 |
 | Sous Chef | 3.00% | ~44 |
@@ -44,7 +44,7 @@ Rating: 3.82 (Ranked 936)
 | Moonbury Navigator | 1.00% | ~15 |
 | Being a donut... | 0.70% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,458 (Ranked 171)  
+Progressed: 1,459 (Ranked 171)  
 Completed: 8 (0.55%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,6 +107,7 @@ Completed: 8 (0.55%) (Ranked 123)
 | 2023-07-04 | 1,456 | 8 |
 | 2023-07-05 | 1,457 | 8 |
 | 2023-07-06 | 1,458 | 8 |
+| 2023-07-08 | 1,459 | 8 |
 ## Awards
 Max (Character Customization): 67  (Ranked 374)  
 Sum: 67 (Ranked 432)  

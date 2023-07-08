@@ -6,17 +6,17 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 34.00% | ~19,399 |
-| Let There Be Light | 27.00% | ~15,405 |
-| Float Like a Butterfly | 26.00% | ~14,834 |
+| Follow the Light | 34.00% | ~19,400 |
+| Let There Be Light | 27.00% | ~15,406 |
+| Float Like a Butterfly | 26.00% | ~14,835 |
 | Nordic Walking | 21.00% | ~11,982 |
-| Bright Falls' Finest | 20.00% | ~11,411 |
-| Under a Thin Layer of Skin | 18.00% | ~10,270 |
-| Park Ranger | 15.00% | ~8,558 |
-| Paging Mr. Wake | 15.00% | ~8,558 |
+| Bright Falls' Finest | 20.00% | ~11,412 |
+| Under a Thin Layer of Skin | 18.00% | ~10,271 |
+| Park Ranger | 15.00% | ~8,559 |
+| Paging Mr. Wake | 15.00% | ~8,559 |
 | Back! Back, I Say! | 14.00% | ~7,988 |
 | Finders Keepers | 14.00% | ~7,988 |
-| Damn Good Cup of Coffee | 13.00% | ~7,417 |
+| Damn Good Cup of Coffee | 13.00% | ~7,418 |
 | Wheels Within Wheels | 12.00% | ~6,847 |
 | They're Heeeeeere! | 12.00% | ~6,847 |
 | Sound and Fury | 12.00% | ~6,847 |
@@ -33,12 +33,12 @@ Number of Ratings: 524  (23.09.2022)
 | Thunder and Lightning | 9.00% | ~5,135 |
 | Two For the Price of One | 9.00% | ~5,135 |
 | Energized! | 9.00% | ~5,135 |
-| Right of Way | 8.00% | ~4,564 |
+| Right of Way | 8.00% | ~4,565 |
 | A Friend in Need | 8.00% | ~1,642 |
 | What Light Through Yonder Window | 7.00% | ~3,994 |
-| Tornado Wrangler | 6.00% | ~3,423 |
-| Departure | 6.00% | ~3,423 |
-| A Friend Indeed | 6.00% | ~1,231 |
+| Tornado Wrangler | 6.00% | ~3,424 |
+| Departure | 6.00% | ~3,424 |
+| A Friend Indeed | 6.00% | ~1,232 |
 | Drink 'Em Both Up | 5.00% | ~2,853 |
 | Hardboiled Writer | 5.00% | ~2,853 |
 | Ding! | 5.00% | ~1,026 |
@@ -52,7 +52,7 @@ Number of Ratings: 524  (23.09.2022)
 | Taken Season | 2.00% | ~1,141 |
 | Carny | 2.00% | ~1,141 |
 | An Idyllic Small Town | 2.00% | ~1,141 |
-| Iron Will | 2.00% | ~410 |
+| Iron Will | 2.00% | ~411 |
 | Couch Potato | 1.00% | ~571 |
 | Go Gentle Into That Good Light | 1.00% | ~205 |
 | Words Will Never Harm You | 0.60% | ~123 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~57 |
 | No Punctuation | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,055 (Ranked 80)  
+Progressed: 57,059 (Ranked 80)  
 Completed: 57 (0.10%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 57 (0.10%) (Ranked 183)
 | 2023-07-05 | 56,875 | 57 |
 | 2023-07-06 | 56,931 | 57 |
 | 2023-07-07 | 56,982 | 57 |
-| 2023-07-08 | 57,055 | 57 |
+| 2023-07-08 | 57,059 | 57 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -1,28 +1,28 @@
 # Godlike Burger
 [Store](https://store.epicgames.com/en-US/p/godlike-burger-4150a0)  
 [View Rawdata](../../db/g/godlike_burger.json)  
-Rating: 4.25 (Ranked 806)  
+Rating: 4.25 (Ranked 805)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 81.00% | ~292 |
-| FIRST BLOOD | 76.00% | ~274 |
-| KEVIN! | 66.00% | ~238 |
-| JACK OF ALL TRADES | 59.00% | ~213 |
+| MASTER CHEF | 81.00% | ~293 |
+| FIRST BLOOD | 76.00% | ~275 |
+| KEVIN! | 66.00% | ~239 |
+| JACK OF ALL TRADES | 59.00% | ~214 |
 | CRIMINAL | 55.00% | ~199 |
 | GRANDMA WOULD BE PROUD | 44.00% | ~159 |
 | WITHOUT BREAKING A SWEAT | 41.00% | ~148 |
 | HONORS STUDENT | 37.00% | ~134 |
 | BUTCHER | 26.00% | ~94 |
-| RAMBO | 22.00% | ~79 |
+| RAMBO | 22.00% | ~80 |
 | INDIVIDUAL APPROACH | 20.00% | ~72 |
 | MARTYR | 20.00% | ~72 |
 | HELL'S KITCHEN | 19.00% | ~69 |
 | CELEBRITY | 18.00% | ~65 |
-| GRATITUDE | 17.00% | ~61 |
+| GRATITUDE | 17.00% | ~62 |
 | LAW-ABIDING CITIZEN | 12.00% | ~43 |
 | PRUDENT | 11.00% | ~40 |
-| PATTY-KILLER | 9.00% | ~32 |
+| PATTY-KILLER | 9.00% | ~33 |
 | GOURMET | 8.00% | ~29 |
 | EXPERIMENTALIST | 7.00% | ~25 |
 | SCATTERBRAIN | 7.00% | ~25 |
@@ -34,7 +34,7 @@ Rating: 4.25 (Ranked 806)
 | TRAVELER | 0.80% | ~3 |
 | MISTER ALL THUMBS | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 361 (Ranked 233)  
+Progressed: 362 (Ranked 233)  
 Completed: 1 (0.28%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,6 +85,7 @@ Completed: 1 (0.28%) (Ranked 150)
 | 2023-06-29 | 357 | 1 |
 | 2023-07-01 | 358 | 1 |
 | 2023-07-05 | 361 | 1 |
+| 2023-07-08 | 362 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Relight my Cannon | 35.00% | ~18 |
 | Tour Guide Extraordinaire | 35.00% | ~18 |
 | Glass Act | 33.00% | ~17 |
-| Relight my Cannon | 33.00% | ~17 |
 | Puzzle Prodigy | 25.00% | ~13 |
 | Snitch | 23.00% | ~12 |
 | A Box of Tricks | 21.00% | ~11 |

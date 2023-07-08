@@ -7,8 +7,11 @@ Rating: 4.45 (Ranked 621)
 | ---- | ---------- | ----- |
 | Liberté | 2.00% | ~65 |
 | Meeting Resistance | 2.00% | ~65 |
+| Confirming Suspicions | 2.00% | ~65 |
 | Resourceful | 2.00% | ~65 |
+| The Kraken Wakes | 2.00% | ~65 |
 | It's Starting to Crack | 2.00% | ~65 |
+| Change the Channel | 2.00% | ~65 |
 | Taking it back | 2.00% | ~65 |
 | Target America | 2.00% | ~65 |
 | The Kraken Sleeps | 2.00% | ~65 |
@@ -17,12 +20,9 @@ Rating: 4.45 (Ranked 621)
 | Organ Grinder | 1.00% | ~32 |
 | Gunslinger | 1.00% | ~32 |
 | Sharpshooter | 1.00% | ~32 |
-| Confirming Suspicions | 1.00% | ~32 |
 | Lord of War | 1.00% | ~32 |
 | Der Geist | 1.00% | ~32 |
 | As Quiet as a Mouse | 1.00% | ~32 |
-| The Kraken Wakes | 1.00% | ~32 |
-| Change the Channel | 1.00% | ~32 |
 | Brains of the Operation | 1.00% | ~32 |
 | Opposing Force | 0.90% | ~29 |
 | Set Europe Ablaze | 0.90% | ~29 |
@@ -40,17 +40,17 @@ Rating: 4.45 (Ranked 621)
 | Die Nussknacker Sweet! | 0.60% | ~19 |
 | Rigged to Blow | 0.50% | ~16 |
 | Don't hold your breath | 0.50% | ~16 |
+| Herr Today, Gone Tomorrow | 0.50% | ~16 |
 | Strategist | 0.40% | ~13 |
 | From Paris with Love | 0.40% | ~13 |
 | Burn after reading | 0.40% | ~13 |
 | Souvenir hunter | 0.40% | ~13 |
 | Road Rage | 0.40% | ~13 |
-| Herr Today, Gone Tomorrow | 0.40% | ~13 |
+| Operation Foxley | 0.40% | ~13 |
 | Siegebreaker | 0.40% | ~13 |
 | Ghost of Falaise | 0.40% | ~13 |
 | Eagle Eyed | 0.30% | ~10 |
 | It'll Buff Right Out | 0.30% | ~10 |
-| Operation Foxley | 0.30% | ~10 |
 | Last Resort | 0.30% | ~10 |
 | If You Go Down To The Woods Today | 0.30% | ~10 |
 | Fight Another Day | 0.30% | ~10 |

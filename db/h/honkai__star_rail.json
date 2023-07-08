@@ -4,11 +4,11 @@
   "ProductSlug": "honkai-star-rail",
   "Ranking_Rating": 167,
   "Ranking_Popularity": 107,
-  "Ranking_PopularitySum": 157,
+  "Ranking_PopularitySum": 156,
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 316,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-04-26T00:30:00+00:00",
     "PcReleaseDate": "2023-04-26T00:30:00+00:00",
@@ -730,10 +730,16 @@
       "Rating": 4.72,
       "NumberOfAwards": 3037,
       "NumberOfAwardsMax": 2096
+    },
+    {
+      "Time": "2023-07-08T22:00:55.3484277+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 3046,
+      "NumberOfAwardsMax": 2096
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3037,
+  "NumberOfAwards": 3046,
   "NumberOfAwardsMax": 2096,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -801,7 +807,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 106
+      "Count": 115
     }
   ],
   "EOS_Progressed": 0,
@@ -816,8 +822,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-26T04:02:27.1386143+00:00",
   "FirstSeenRating": "2023-04-26T04:02:27.1386204+00:00",
-  "LastChanged": "2023-07-08T21:01:50.2688436+00:00",
+  "LastChanged": "2023-07-08T22:00:55.3484275+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:05.6749385+00:00",
-  "LastUpdate_Ratings": "2023-07-08T21:01:50.2688442+00:00",
-  "LastUpdate_Achievements": "2023-07-08T21:04:59.6327327+00:00"
+  "LastUpdate_Ratings": "2023-07-08T22:00:55.3484281+00:00",
+  "LastUpdate_Achievements": "2023-07-08T22:05:01.4090965+00:00"
 }

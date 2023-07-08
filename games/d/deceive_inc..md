@@ -5,19 +5,19 @@ Rating: 4.64 (Ranked 311)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 64.00% | ~4,611 |
-| Mainframe Hacker | 47.00% | ~3,386 |
-| The Spy who eliminated me | 47.00% | ~3,386 |
-| Tomorrow Never Dyes | 46.00% | ~3,314 |
+| On Deceive Inc.'s Secret Service | 64.00% | ~4,612 |
+| Mainframe Hacker | 47.00% | ~3,387 |
+| The Spy who eliminated me | 47.00% | ~3,387 |
+| Tomorrow Never Dyes | 46.00% | ~3,315 |
 | Never Say Loser Again | 40.00% | ~2,882 |
 | For your Eyes only | 39.00% | ~2,810 |
 | From the Vault with Love | 37.00% | ~2,666 |
 | Tailor-Made | 37.00% | ~2,666 |
 | Fully Decked Out | 35.00% | ~2,522 |
 | You Only Live Twice | 33.00% | ~2,378 |
-| A view to Win | 27.00% | ~1,945 |
-| Private Collection | 25.00% | ~1,801 |
-| Smells Like Trouble | 25.00% | ~1,801 |
+| A view to Win | 27.00% | ~1,946 |
+| Private Collection | 25.00% | ~1,802 |
+| Smells Like Trouble | 25.00% | ~1,802 |
 | Assistant Accountant | 24.00% | ~1,729 |
 | The Living Portrait | 24.00% | ~1,729 |
 | Killer Looks | 24.00% | ~1,729 |
@@ -26,8 +26,8 @@ Rating: 4.64 (Ranked 311)
 | Dr. No Kill | 23.00% | ~1,657 |
 | My Motto, My Creed | 23.00% | ~1,657 |
 | In It to Win It | 21.00% | ~1,513 |
-| Security Supervisor | 10.00% | ~720 |
-| License to Thrill | 9.00% | ~648 |
+| Security Supervisor | 10.00% | ~721 |
+| License to Thrill | 9.00% | ~649 |
 | Social of Solace | 8.00% | ~576 |
 | Safe Withdrawal | 6.00% | ~432 |
 | Live and let lie | 5.00% | ~360 |
@@ -42,7 +42,7 @@ Rating: 4.64 (Ranked 311)
 | Extraction Confusion | 0.30% | ~22 |
 | Spyfall | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,205 (Ranked 123)  
+Progressed: 7,206 (Ranked 123)  
 Completed: 1 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 1 (0.01%) (Ranked 223)
 | 2023-07-05 | 7,153 | 0 |
 | 2023-07-06 | 7,162 | 1 |
 | 2023-07-07 | 7,185 | 1 |
-| 2023-07-08 | 7,205 | 1 |
+| 2023-07-08 | 7,206 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

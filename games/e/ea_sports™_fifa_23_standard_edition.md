@@ -1,7 +1,7 @@
 # EA SPORTS™ FIFA 23 Standard Edition
 [Store](https://store.epicgames.com/en-US/p/fifa-23)  
 [View Rawdata](../../db/e/ea_sports™_fifa_23_standard_edition.json)  
-Rating: 4.25 (Ranked 806)  
+Rating: 4.25 (Ranked 805)  
 ## Awards
 Max (Diverse Characters): 14,798  (Ranked 22)  
 Sum: 68,349 (Ranked 19)  

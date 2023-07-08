@@ -2,10 +2,10 @@
   "ID": "f0757a2ab13941d89476cfa09df9a545",
   "Name": "Endling - Extinction is Forever",
   "ProductSlug": "endling-extinction-is-forever",
-  "Ranking_EOS_Progress": 220,
+  "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 450,
+  "EOS_Progressed": 451,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.67,
   "EosHistory": [
@@ -456,6 +456,11 @@
       "Time": "2023-07-07T05:04:21.290055+00:00",
       "NumProgressed": 450,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-08T22:05:09.274559+00:00",
+      "NumProgressed": 451,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -467,7 +472,7 @@
       "Name": "Endling",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "TROP001",
@@ -507,7 +512,7 @@
       "Name": "A Friend in Need",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "TROP006",
@@ -547,7 +552,7 @@
       "Name": "Hard Fox Life",
       "Percentage": 25,
       "XP": 60,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "TROP011",
@@ -561,9 +566,9 @@
       "ID": "TROP012",
       "SetID": "9n0dl35",
       "Name": "Never Give Up",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 176
     },
     {
       "ID": "TROP013",
@@ -667,7 +672,7 @@
       "Name": "Chicken Dinner",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "TROP026",
@@ -690,7 +695,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 450,
+      "Progressed": 451,
       "Completed": 3
     }
   ],
@@ -698,8 +703,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-07-08T21:05:10.0234214+00:00",
+  "LastChanged_Achievements": "2023-07-08T22:05:09.2745581+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:50.1029816+00:00",
-  "LastUpdate_Ratings": "2023-07-08T20:59:37.8592856+00:00",
-  "LastUpdate_Achievements": "2023-07-08T21:05:10.0234393+00:00"
+  "LastUpdate_Ratings": "2023-07-08T21:59:20.0743873+00:00",
+  "LastUpdate_Achievements": "2023-07-08T22:05:09.274585+00:00"
 }

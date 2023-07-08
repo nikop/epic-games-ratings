@@ -39,6 +39,7 @@ Number of Ratings: 45  (23.09.2022)
 | No Time for Clawmonsters | 4.00% | ~52 |
 | We Emerge Changed | 3.00% | ~39 |
 | Storied Past | 3.00% | ~39 |
+| Bonebreakers | 3.00% | ~39 |
 | No More Nightmares | 3.00% | ~39 |
 | Bears are Scary | 3.00% | ~39 |
 | Some Say I'm Too Flashy | 3.00% | ~39 |
@@ -49,7 +50,6 @@ Number of Ratings: 45  (23.09.2022)
 | Empty the Caves | 2.00% | ~26 |
 | Drauvenslayers | 2.00% | ~26 |
 | Back into the Sea | 2.00% | ~26 |
-| Bonebreakers | 2.00% | ~26 |
 | War-Ender | 2.00% | ~26 |
 | Fight Like a Bird | 2.00% | ~26 |
 | Solid as the Hills | 2.00% | ~26 |
