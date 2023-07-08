@@ -6,33 +6,33 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,293 |
-| The Mad Wizard | 11.00% | ~22,948 |
-| The Ring of Regeneration | 7.00% | ~14,603 |
-| Are Ya Chicken? | 7.00% | ~14,603 |
-| Were-verpowered | 5.00% | ~10,431 |
-| Seeking Allies | 5.00% | ~10,431 |
-| Mad Cow Disease | 5.00% | ~10,431 |
-| Friendly Imps | 5.00% | ~10,431 |
-| A Persistent Buzzing | 4.00% | ~8,345 |
-| Pure Energy | 4.00% | ~8,345 |
+| The Cursed Farmer | 15.00% | ~31,297 |
+| The Mad Wizard | 11.00% | ~22,951 |
+| The Ring of Regeneration | 7.00% | ~14,605 |
+| Are Ya Chicken? | 7.00% | ~14,605 |
+| Were-verpowered | 5.00% | ~10,432 |
+| Seeking Allies | 5.00% | ~10,432 |
+| Mad Cow Disease | 5.00% | ~10,432 |
+| Friendly Imps | 5.00% | ~10,432 |
+| A Persistent Buzzing | 4.00% | ~8,346 |
+| Pure Energy | 4.00% | ~8,346 |
 | Beast Mode | 3.00% | ~6,259 |
 | Terror in the Dark | 3.00% | ~6,259 |
 | Unearthed Evil | 3.00% | ~6,259 |
 | The Crumbling Temple | 3.00% | ~6,259 |
 | Exploring Port Nyanzaru | 3.00% | ~6,259 |
 | The Contagious Curse | 3.00% | ~6,259 |
-| Low Initiative | 2.00% | ~4,172 |
-| A Mysterious Summons | 2.00% | ~4,172 |
-| Building Trust | 2.00% | ~4,172 |
-| No Time To Rest | 2.00% | ~4,172 |
-| Useless Allies | 2.00% | ~4,172 |
-| Running of the Saurs | 2.00% | ~4,172 |
-| Escort to Waterdeep | 2.00% | ~4,172 |
-| Waterdeep Detours | 2.00% | ~4,172 |
-| Underdeep Cartography | 2.00% | ~4,172 |
-| Overdue Rendezvous | 2.00% | ~4,172 |
-| The Templar's Camp | 2.00% | ~4,172 |
+| Low Initiative | 2.00% | ~4,173 |
+| A Mysterious Summons | 2.00% | ~4,173 |
+| Building Trust | 2.00% | ~4,173 |
+| No Time To Rest | 2.00% | ~4,173 |
+| Useless Allies | 2.00% | ~4,173 |
+| Running of the Saurs | 2.00% | ~4,173 |
+| Escort to Waterdeep | 2.00% | ~4,173 |
+| Waterdeep Detours | 2.00% | ~4,173 |
+| Underdeep Cartography | 2.00% | ~4,173 |
+| Overdue Rendezvous | 2.00% | ~4,173 |
+| The Templar's Camp | 2.00% | ~4,173 |
 | Homecoming | 1.00% | ~2,086 |
 | Street War | 1.00% | ~2,086 |
 | March of the Undead | 1.00% | ~2,086 |
@@ -58,16 +58,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | Captured! | 0.80% | ~1,669 |
 | Wisdom Check | 0.80% | ~1,669 |
 | The Mists of Ravenloft | 0.80% | ~1,669 |
-| A Grand Puzzle | 0.70% | ~1,460 |
-| Tomb of the Nine Gods | 0.70% | ~1,460 |
-| Treasure Hunters | 0.70% | ~1,460 |
-| Nimble Escape | 0.70% | ~1,460 |
-| Fugitives | 0.70% | ~1,460 |
-| The Darkness Runs Deeper | 0.70% | ~1,460 |
+| A Grand Puzzle | 0.70% | ~1,461 |
+| Tomb of the Nine Gods | 0.70% | ~1,461 |
+| Treasure Hunters | 0.70% | ~1,461 |
+| Nimble Escape | 0.70% | ~1,461 |
+| Fugitives | 0.70% | ~1,461 |
+| The Darkness Runs Deeper | 0.70% | ~1,461 |
 | The Giant's Bane Tavern | 0.70% | ~1,224 |
-| Rude Welcome | 0.70% | ~1,460 |
-| Durable Deep | 0.70% | ~1,460 |
-| The Haunted Jungle | 0.70% | ~1,460 |
+| Rude Welcome | 0.70% | ~1,461 |
+| Durable Deep | 0.70% | ~1,461 |
+| The Haunted Jungle | 0.70% | ~1,461 |
 | Family Entanglements | 0.60% | ~1,252 |
 | The Immortal Warrior | 0.60% | ~1,252 |
 | The Wyrmheart Mine | 0.60% | ~1,252 |
@@ -92,29 +92,29 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vault of Dragons | 0.50% | ~1,043 |
 | Elturel Has Fallen | 0.50% | ~1,043 |
 | Resolve Amongst Chaos | 0.50% | ~1,043 |
-| The Everlasting Rime | 0.50% | ~874 |
+| The Everlasting Rime | 0.50% | ~875 |
 | Expert Opinion | 0.50% | ~1,043 |
 | Poor Guidance | 0.50% | ~1,043 |
-| Anti-Dexterous Explorers | 0.40% | ~834 |
-| Lobsterfolk Assault | 0.40% | ~834 |
-| Periodic Petrification | 0.40% | ~834 |
-| Vajra's Guards | 0.40% | ~834 |
-| Azaka's Procession - Part 2 | 0.40% | ~834 |
-| The Hunt for Owl-y | 0.40% | ~834 |
-| Werewolves in the Mist | 0.40% | ~834 |
-| Modron Assistance | 0.40% | ~834 |
-| Domesticated Owlbears | 0.40% | ~834 |
-| The Gargoyle's Apprentice | 0.40% | ~834 |
-| The Trepidatious Trio | 0.40% | ~834 |
-| Backtracking Through Barovia | 0.40% | ~834 |
-| Excavating History | 0.40% | ~834 |
-| Towering Expectations | 0.40% | ~834 |
-| Cramped Quarters | 0.40% | ~834 |
-| A Tale of Two Fiends | 0.40% | ~834 |
-| Slow and Steady | 0.40% | ~834 |
-| Champions of Waterdeep | 0.40% | ~834 |
-| Once More Into The Breach | 0.40% | ~834 |
-| Wyllowwood | 0.40% | ~834 |
+| Anti-Dexterous Explorers | 0.40% | ~835 |
+| Lobsterfolk Assault | 0.40% | ~835 |
+| Periodic Petrification | 0.40% | ~835 |
+| Vajra's Guards | 0.40% | ~835 |
+| Azaka's Procession - Part 2 | 0.40% | ~835 |
+| The Hunt for Owl-y | 0.40% | ~835 |
+| Werewolves in the Mist | 0.40% | ~835 |
+| Modron Assistance | 0.40% | ~835 |
+| Domesticated Owlbears | 0.40% | ~835 |
+| The Gargoyle's Apprentice | 0.40% | ~835 |
+| The Trepidatious Trio | 0.40% | ~835 |
+| Backtracking Through Barovia | 0.40% | ~835 |
+| Excavating History | 0.40% | ~835 |
+| Towering Expectations | 0.40% | ~835 |
+| Cramped Quarters | 0.40% | ~835 |
+| A Tale of Two Fiends | 0.40% | ~835 |
+| Slow and Steady | 0.40% | ~835 |
+| Champions of Waterdeep | 0.40% | ~835 |
+| Once More Into The Breach | 0.40% | ~835 |
+| Wyllowwood | 0.40% | ~835 |
 | An Illithid Undertaking | 0.40% | ~700 |
 | Déjà Vu | 0.40% | ~700 |
 | Into The Fire | 0.40% | ~700 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,620 (Ranked 52)  
+Progressed: 208,646 (Ranked 52)  
 Completed: 2,040 (0.98%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -589,17 +589,17 @@ Completed: 2,040 (0.98%) (Ranked 102)
 | 2023-07-05 | 206,889 | 2,032 |
 | 2023-07-06 | 207,486 | 2,035 |
 | 2023-07-07 | 208,152 | 2,037 |
-| 2023-07-08 | 208,620 | 2,040 |
+| 2023-07-08 | 208,646 | 2,040 |
 ## Awards
 Max (Diverse Characters): 5,013  (Ranked 65)  
-Sum: 30,445 (Ranked 37)  
+Sum: 30,446 (Ranked 37)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,013 |
 | This game is Great for Beginners | 4,946 |
 | This game has Quickly Understood Controls | 4,652 |
-| This game is Relaxing | 4,546 |
+| This game is Relaxing | 4,547 |
 | This game is Highly Recommended | 3,997 |
 | This game has Amazing Characters | 3,997 |
 | This game has Playful Visuals | 3,294 |
@@ -769,4 +769,4 @@ Diff (max vs sum): 28
 | 2023-07-05 | 4.05 | - | 5,005 | 30,400 |
 | 2023-07-06 | 4.05 | - | 5,009 | 30,419 |
 | 2023-07-07 | 4.05 | - | 5,013 | 30,436 |
-| 2023-07-08 | 4.05 | - | 5,013 | 30,445 |
+| 2023-07-08 | 4.05 | - | 5,013 | 30,446 |

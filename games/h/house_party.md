@@ -20,8 +20,8 @@ Number of Ratings: 177  (23.09.2022)
 | Inspector | 0.60% | ~34 |
 | Newcomer: Vickie | 0.60% | ~34 |
 | Social Butterfly | 0.60% | ~34 |
+| Amy | 0.50% | ~29 |
 | The Muse: Madison | 0.50% | ~29 |
-| Amy | 0.40% | ~23 |
 | Amy: Scavenger Hunt | 0.40% | ~23 |
 | I'll Be Back | 0.40% | ~23 |
 | Casanova | 0.40% | ~23 |

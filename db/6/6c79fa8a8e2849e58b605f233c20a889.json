@@ -3529,9 +3529,9 @@
       "ID": "MEDIC_MASTERY",
       "SetID": "8lhbnh7",
       "Name": "Chief Physician",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "REGICIDE_MASTER",
@@ -3568,8 +3568,8 @@
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-07-08T17:05:12.7562414+00:00",
+  "LastChanged_Achievements": "2023-07-08T18:05:36.9005096+00:00",
   "LastUpdate_AppInfo": "2023-07-04T17:56:54.4886907+00:00",
-  "LastUpdate_Ratings": "2023-07-08T16:57:36.122363+00:00",
-  "LastUpdate_Achievements": "2023-07-08T17:05:12.756268+00:00"
+  "LastUpdate_Ratings": "2023-07-08T17:57:26.221695+00:00",
+  "LastUpdate_Achievements": "2023-07-08T18:05:36.9005464+00:00"
 }

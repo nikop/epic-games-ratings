@@ -2,7 +2,7 @@
   "ID": "720cc28ab09b455f8388decfa0ba4796",
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
-  "Ranking_Rating": 552,
+  "Ranking_Rating": 551,
   "Ranking_Popularity": 446,
   "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 490,
@@ -477,10 +477,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 222,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2023-07-08T17:58:57.3964285+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 225,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 222,
+  "NumberOfAwards": 225,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -506,13 +512,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 23
+      "Count": 25
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -564,9 +570,9 @@
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
-  "LastChanged": "2023-06-22T13:59:40.5393133+00:00",
-  "LastChanged_Achievements": "2023-07-08T17:04:58.2796661+00:00",
+  "LastChanged": "2023-07-08T17:58:57.3964284+00:00",
+  "LastChanged_Achievements": "2023-07-08T18:05:19.0163713+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:11.0930426+00:00",
-  "LastUpdate_Ratings": "2023-07-08T16:58:54.14222+00:00",
-  "LastUpdate_Achievements": "2023-07-08T17:04:58.2796714+00:00"
+  "LastUpdate_Ratings": "2023-07-08T17:58:57.3964289+00:00",
+  "LastUpdate_Achievements": "2023-07-08T18:05:19.0163744+00:00"
 }

@@ -1004,7 +1004,7 @@
   ],
   "EOS_Progressed": 4007,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -5950,9 +5950,9 @@
       "ID": "ACH_MISSION_NOELECTION",
       "SetID": "1p8ab95",
       "Name": "We Don\u0027t Have Time For That",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 761
+      "UsersEstimate": 801
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -6094,8 +6094,8 @@
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-07T22:01:17.7826149+00:00",
-  "LastChanged_Achievements": "2023-07-08T17:04:48.0713194+00:00",
+  "LastChanged_Achievements": "2023-07-08T18:05:06.6889581+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:41.4762855+00:00",
-  "LastUpdate_Ratings": "2023-07-08T17:00:37.1116745+00:00",
-  "LastUpdate_Achievements": "2023-07-08T17:04:48.0713661+00:00"
+  "LastUpdate_Ratings": "2023-07-08T18:00:57.1858912+00:00",
+  "LastUpdate_Achievements": "2023-07-08T18:05:06.6890195+00:00"
 }

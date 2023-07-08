@@ -1,18 +1,18 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.49 (Ranked 574)  
+Rating: 4.49 (Ranked 573)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~20,723 |
-| Advancement | 73.00% | ~17,591 |
-| Meticulously Efficient | 64.00% | ~15,422 |
-| Discovery | 61.00% | ~14,699 |
-| Fully Upgraded | 54.00% | ~13,012 |
-| Swift Rift Removers | 54.00% | ~13,012 |
-| Cultured | 52.00% | ~12,530 |
-| I collect Spores, Molds, and Fungi | 51.00% | ~12,289 |
+| Stylish | 86.00% | ~20,724 |
+| Advancement | 73.00% | ~17,592 |
+| Meticulously Efficient | 64.00% | ~15,423 |
+| Discovery | 61.00% | ~14,700 |
+| Fully Upgraded | 54.00% | ~13,013 |
+| Swift Rift Removers | 54.00% | ~13,013 |
+| Cultured | 52.00% | ~12,531 |
+| I collect Spores, Molds, and Fungi | 51.00% | ~12,290 |
 | Vaporous Expansion | 48.00% | ~11,567 |
 | Teamwork | 44.00% | ~10,603 |
 | There you are! | 43.00% | ~10,362 |
@@ -30,14 +30,14 @@ Rating: 4.49 (Ranked 574)
 | Pesky Jerks | 26.00% | ~6,265 |
 | Right back at ya | 26.00% | ~6,265 |
 | Stunner | 26.00% | ~6,265 |
-| Animated | 24.00% | ~5,783 |
-| Skilled | 24.00% | ~5,783 |
-| Collector | 23.00% | ~5,542 |
-| Ectoplasmic Entity | 23.00% | ~5,542 |
-| Rift Destroyer | 20.00% | ~4,819 |
-| Terrifying | 18.00% | ~4,337 |
-| Tobin's Prodigy | 18.00% | ~4,337 |
-| Reckless | 17.00% | ~4,096 |
+| Animated | 24.00% | ~5,784 |
+| Skilled | 24.00% | ~5,784 |
+| Collector | 23.00% | ~5,543 |
+| Ectoplasmic Entity | 23.00% | ~5,543 |
+| Rift Destroyer | 20.00% | ~4,820 |
+| Terrifying | 18.00% | ~4,338 |
+| Tobin's Prodigy | 18.00% | ~4,338 |
+| Reckless | 17.00% | ~4,097 |
 | Diabolical | 16.00% | ~3,856 |
 | Escape Artist | 16.00% | ~3,856 |
 | Seasoned | 16.00% | ~3,856 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 574)
 | I don't need these | 1.00% | ~241 |
 | Mycophile | 1.00% | ~241 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,097 (Ranked 97)  
+Progressed: 24,098 (Ranked 97)  
 Completed: 46 (0.19%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 46 (0.19%) (Ranked 163)
 | 2023-07-05 | 24,022 | 46 |
 | 2023-07-06 | 24,061 | 46 |
 | 2023-07-07 | 24,081 | 46 |
-| 2023-07-08 | 24,097 | 46 |
+| 2023-07-08 | 24,098 | 46 |
 ## Awards
 Max (Great for Quick Sessions): 240  (Ranked 249)  
 Sum: 2,152 (Ranked 189)  

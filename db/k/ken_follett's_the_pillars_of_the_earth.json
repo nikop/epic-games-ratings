@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13776,
+  "EOS_Progressed": 13777,
   "EOS_Completed": 104,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -5709,6 +5709,11 @@
       "Time": "2023-07-08T17:01:09.5136616+00:00",
       "NumProgressed": 13776,
       "NumCompleted": 104
+    },
+    {
+      "Time": "2023-07-08T18:02:08.4232378+00:00",
+      "NumProgressed": 13777,
+      "NumCompleted": 104
     }
   ],
   "TotalAchievements": 41,
@@ -5800,7 +5805,7 @@
       "Name": "Negotiation skills",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2617
+      "UsersEstimate": 2618
     },
     {
       "ID": "tpote_achievement_2",
@@ -5920,7 +5925,7 @@
       "Name": "Jack was here!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2066
+      "UsersEstimate": 2067
     },
     {
       "ID": "tpote_achievement_33",
@@ -5984,7 +5989,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 5648
+      "UsersEstimate": 5649
     },
     {
       "ID": "tpote_achievement_40",
@@ -6047,15 +6052,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13776,
+      "Progressed": 13777,
       "Completed": 104
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-08T17:01:09.5136613+00:00",
+  "LastChanged_Achievements": "2023-07-08T18:02:08.4232371+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:22.7316946+00:00",
-  "LastUpdate_Ratings": "2023-07-08T17:00:23.6244826+00:00",
-  "LastUpdate_Achievements": "2023-07-08T17:01:09.513718+00:00"
+  "LastUpdate_Ratings": "2023-07-08T18:00:42.64878+00:00",
+  "LastUpdate_Achievements": "2023-07-08T18:02:08.4233061+00:00"
 }

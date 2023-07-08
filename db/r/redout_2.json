@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -68,9 +68,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1050,
+  "EOS_Progressed": 1051,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -528,6 +528,11 @@
       "Time": "2023-07-08T16:03:29.9381204+00:00",
       "NumProgressed": 1050,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-08T18:03:44.8729832+00:00",
+      "NumProgressed": 1051,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -539,7 +544,7 @@
       "Name": "Fashion Racer",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ALLCHASSIS",
@@ -563,7 +568,7 @@
       "Name": "B-asic!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ALLMODULESS",
@@ -571,7 +576,7 @@
       "Name": "S-uper!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ALLMODULESSIGNATURE",
@@ -579,7 +584,7 @@
       "Name": "Put a sign on it",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ALLTRACKSBLACK",
@@ -643,7 +648,7 @@
       "Name": "To the core",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ALLTRACKSTOKYO",
@@ -675,7 +680,7 @@
       "Name": "Rookie No-No More",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "CAREERCLASSA",
@@ -691,7 +696,7 @@
       "Name": "Enter the Speed Gauntlet",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "CAREERCLASSMASTERS",
@@ -755,7 +760,7 @@
       "Name": "Everything is better with friends",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "FINISHFAST",
@@ -763,7 +768,7 @@
       "Name": "Blurred photofinish",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "FINISHSOUND",
@@ -771,7 +776,7 @@
       "Name": "Running at the speed of sound",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "FLYLONG",
@@ -795,7 +800,7 @@
       "Name": "Redout Grandmaster",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "JOIN50ONLINE",
@@ -803,7 +808,7 @@
       "Name": "Familiar Face",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "JOINONEFRIEND",
@@ -835,7 +840,7 @@
       "Name": "I just can\u0027t choose",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ONELIVERY",
@@ -843,7 +848,7 @@
       "Name": "Suit up",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ONEMODULE",
@@ -883,7 +888,7 @@
       "Name": "Eat dust my friend",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "PARMESANCHEESE",
@@ -899,7 +904,7 @@
       "Name": "Better than half the studio...",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "WIN50ONLINE",
@@ -923,7 +928,7 @@
       "Name": "Grandslam",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "WINLAST",
@@ -954,7 +959,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1050,
+      "Progressed": 1051,
       "Completed": 0
     }
   ],
@@ -962,8 +967,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-04-30T22:57:45.7615692+00:00",
-  "LastChanged_Achievements": "2023-07-08T17:03:39.1236067+00:00",
+  "LastChanged_Achievements": "2023-07-08T18:03:44.8729826+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:48.1905608+00:00",
-  "LastUpdate_Ratings": "2023-07-08T16:58:40.2603783+00:00",
-  "LastUpdate_Achievements": "2023-07-08T17:03:39.123644+00:00"
+  "LastUpdate_Ratings": "2023-07-08T17:58:40.6265665+00:00",
+  "LastUpdate_Achievements": "2023-07-08T18:03:44.8730336+00:00"
 }

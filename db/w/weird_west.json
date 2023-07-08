@@ -1422,9 +1422,9 @@
       "ID": "ACH_IT_ALL_DIES",
       "SetID": "8j30i9k",
       "Name": "End the world",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_I_KICKED_A_BIRD_AND_I_LIKED_IT",
@@ -1486,9 +1486,9 @@
       "ID": "ACH_MA_BARKER",
       "SetID": "8j30i9k",
       "Name": "\u0027Ma Barker",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_MONSTER_HUNTER",
@@ -1726,8 +1726,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-07-08T17:03:44.2386543+00:00",
+  "LastChanged_Achievements": "2023-07-08T18:03:51.1411876+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:12.2963629+00:00",
-  "LastUpdate_Ratings": "2023-07-08T16:58:54.6052309+00:00",
-  "LastUpdate_Achievements": "2023-07-08T17:03:44.2386959+00:00"
+  "LastUpdate_Ratings": "2023-07-08T17:58:57.9802003+00:00",
+  "LastUpdate_Achievements": "2023-07-08T18:03:51.1412412+00:00"
 }

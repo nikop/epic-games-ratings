@@ -6,28 +6,28 @@ Number of Ratings: 170  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 76.00% | ~11,177 |
-| Mama? | 28.00% | ~4,118 |
-| People's Haven | 19.00% | ~2,794 |
-| Cartographer | 18.00% | ~2,647 |
-| Knowledge for Power | 15.00% | ~2,206 |
-| Antlers of Stone | 15.00% | ~2,206 |
-| Gaze into the abyss | 14.00% | ~2,059 |
-| Mausoleum of Ice | 14.00% | ~2,059 |
-| Equilibrium | 13.00% | ~1,912 |
+| Light at the end of the tunnel | 76.00% | ~11,181 |
+| Mama? | 28.00% | ~4,119 |
+| People's Haven | 19.00% | ~2,795 |
+| Cartographer | 18.00% | ~2,648 |
+| Knowledge for Power | 15.00% | ~2,207 |
+| Antlers of Stone | 15.00% | ~2,207 |
+| Gaze into the abyss | 14.00% | ~2,060 |
+| Mausoleum of Ice | 14.00% | ~2,060 |
+| Equilibrium | 13.00% | ~1,913 |
 | In the belly of the beast | 12.00% | ~1,765 |
 | Wings of Stone | 12.00% | ~1,765 |
 | Condor condo | 10.00% | ~1,471 |
 | Memorial | 9.00% | ~1,324 |
 | An uninvited guest | 8.00% | ~1,177 |
-| Written in stone | 7.00% | ~1,029 |
-| Talk to all the spirit animals | 7.00% | ~1,029 |
-| Ripples on the surface | 6.00% | ~882 |
-| Tails of Stone | 6.00% | ~882 |
-| Baa from the past | 6.00% | ~882 |
-| Hide and Seek | 5.00% | ~735 |
+| Written in stone | 7.00% | ~1,030 |
+| Talk to all the spirit animals | 7.00% | ~1,030 |
+| Ripples on the surface | 6.00% | ~883 |
+| Tails of Stone | 6.00% | ~883 |
+| Baa from the past | 6.00% | ~883 |
+| Hide and Seek | 5.00% | ~736 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,707 (Ranked 110)  
+Progressed: 14,712 (Ranked 110)  
 Completed: 310 (2.11%) (Ranked 75)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 310 (2.11%) (Ranked 75)
 | 2023-07-05 | 14,494 | 306 |
 | 2023-07-06 | 14,567 | 307 |
 | 2023-07-07 | 14,650 | 308 |
-| 2023-07-08 | 14,707 | 310 |
+| 2023-07-08 | 14,712 | 310 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

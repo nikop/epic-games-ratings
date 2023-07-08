@@ -6,6 +6,7 @@ Rating: 4.61 (Ranked 361)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 3.00% | ~148 |
+| Walls Cannot Stop Us | 3.00% | ~148 |
 | Magical Synergy | 3.00% | ~148 |
 | Tipping the Scales | 3.00% | ~148 |
 | Blood of the Dragon | 3.00% | ~148 |
@@ -14,7 +15,6 @@ Rating: 4.61 (Ranked 361)
 | Full Ascension | 2.00% | ~99 |
 | Realm Estate | 2.00% | ~99 |
 | A Wonderful Discovery | 2.00% | ~99 |
-| Walls Cannot Stop Us | 2.00% | ~99 |
 | Bone Peddler | 2.00% | ~99 |
 | From Friends to Family | 2.00% | ~99 |
 | Stronger Together | 2.00% | ~99 |
@@ -26,15 +26,15 @@ Rating: 4.61 (Ranked 361)
 | Impenetrable Fortress | 2.00% | ~99 |
 | Intimidation Tactics | 2.00% | ~99 |
 | Here be Dragons | 2.00% | ~99 |
-| Valley of Wonders | 1.00% | ~49 |
-| Return of the Wizard King | 1.00% | ~49 |
-| Arch Mage | 1.00% | ~49 |
-| The Creator | 1.00% | ~49 |
-| Enchanted Archipelago | 1.00% | ~49 |
-| The Goddess of Nature | 1.00% | ~49 |
-| Digging for Treasure | 1.00% | ~49 |
-| Preparation Is Everything | 1.00% | ~49 |
-| Duality | 1.00% | ~49 |
+| Valley of Wonders | 1.00% | ~50 |
+| Return of the Wizard King | 1.00% | ~50 |
+| Arch Mage | 1.00% | ~50 |
+| The Creator | 1.00% | ~50 |
+| Enchanted Archipelago | 1.00% | ~50 |
+| The Goddess of Nature | 1.00% | ~50 |
+| Digging for Treasure | 1.00% | ~50 |
+| Preparation Is Everything | 1.00% | ~50 |
+| Duality | 1.00% | ~50 |
 | The Magic That Empowers Me! | 0.90% | ~45 |
 | God Emperor | 0.90% | ~45 |
 | Eternal Lord | 0.90% | ~45 |
@@ -56,7 +56,7 @@ Rating: 4.61 (Ranked 361)
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,949 (Ranked 135)  
+Progressed: 4,950 (Ranked 135)  
 Completed: 5 (0.10%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 5 (0.10%) (Ranked 183)
 | 2023-07-05 | 4,926 | 5 |
 | 2023-07-06 | 4,933 | 5 |
 | 2023-07-07 | 4,937 | 5 |
-| 2023-07-08 | 4,949 | 5 |
+| 2023-07-08 | 4,950 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

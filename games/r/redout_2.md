@@ -7,26 +7,26 @@ Rating: 4.45 (Ranked 621)
 | ---- | ---------- | ----- |
 | Rookie No More | 28.00% | ~294 |
 | Increasing your Power Level | 28.00% | ~294 |
-| Enter the Speed Gauntlet | 25.00% | ~262 |
-| I just can't choose | 25.00% | ~262 |
+| Enter the Speed Gauntlet | 25.00% | ~263 |
+| I just can't choose | 25.00% | ~263 |
 | A Cheese Grater to the Face | 20.00% | ~210 |
 | Put it on a shelf | 19.00% | ~200 |
 | It's like an haircut | 18.00% | ~189 |
-| Suit up | 17.00% | ~178 |
+| Suit up | 17.00% | ~179 |
 | Ride in the rising sun | 16.00% | ~168 |
 | Walked like an Egyptian | 15.00% | ~158 |
-| Rookie No-No More | 13.00% | ~136 |
-| Running at the speed of sound | 13.00% | ~136 |
+| Rookie No-No More | 13.00% | ~137 |
+| Running at the speed of sound | 13.00% | ~137 |
 | Martian explorer | 12.00% | ~126 |
-| To the core | 9.00% | ~94 |
-| Blurred photofinish | 9.00% | ~94 |
+| To the core | 9.00% | ~95 |
+| Blurred photofinish | 9.00% | ~95 |
 | EZ game EZ life | 7.00% | ~74 |
 | First step into a larger world | 7.00% | ~74 |
 | Over the clouds | 6.00% | ~63 |
 | Under the sea, under the sea | 6.00% | ~63 |
 | Even Faster! | 6.00% | ~63 |
 | Longshot | 6.00% | ~63 |
-| B-asic! | 5.00% | ~52 |
+| B-asic! | 5.00% | ~53 |
 | Under the neon lights | 4.00% | ~42 |
 | All Power to Engines! | 4.00% | ~42 |
 | Had to sweat a bit | 4.00% | ~42 |
@@ -45,20 +45,20 @@ Rating: 4.45 (Ranked 621)
 | Gitting Gud | 2.00% | ~21 |
 | Redout Champion | 2.00% | ~21 |
 | Great Start | 2.00% | ~21 |
-| Fashion Racer | 1.00% | ~10 |
-| S-uper! | 1.00% | ~10 |
-| Put a sign on it | 1.00% | ~10 |
-| Everything is better with friends | 1.00% | ~10 |
-| Redout Grandmaster | 1.00% | ~10 |
-| Familiar Face | 1.00% | ~10 |
-| Eat dust my friend | 1.00% | ~10 |
-| Better than half the studio... | 1.00% | ~10 |
-| Grandslam | 1.00% | ~10 |
+| Fashion Racer | 1.00% | ~11 |
+| S-uper! | 1.00% | ~11 |
+| Put a sign on it | 1.00% | ~11 |
+| Everything is better with friends | 1.00% | ~11 |
+| Redout Grandmaster | 1.00% | ~11 |
+| Familiar Face | 1.00% | ~11 |
+| Eat dust my friend | 1.00% | ~11 |
+| Better than half the studio... | 1.00% | ~11 |
+| Grandslam | 1.00% | ~11 |
 | Beat you to it! | 0.80% | ~8 |
 | I, need, more, shelves! | 0.50% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,050 (Ranked 184)  
+Progressed: 1,051 (Ranked 184)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-04 | 1,039 | 0 |
 | 2023-07-06 | 1,041 | 0 |
 | 2023-07-07 | 1,045 | 0 |
-| 2023-07-08 | 1,050 | 0 |
+| 2023-07-08 | 1,051 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

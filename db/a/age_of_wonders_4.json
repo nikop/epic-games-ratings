@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -268,9 +268,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4949,
+  "EOS_Progressed": 4950,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5018,6 +5018,11 @@
       "Time": "2023-07-08T16:02:16.7798102+00:00",
       "NumProgressed": 4949,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-08T18:02:19.274497+00:00",
+      "NumProgressed": 4950,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 50,
@@ -5029,7 +5034,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "10",
@@ -5077,7 +5082,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "16",
@@ -5101,7 +5106,7 @@
       "Name": "Arch Mage",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "19",
@@ -5109,7 +5114,7 @@
       "Name": "The Creator",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "2",
@@ -5117,7 +5122,7 @@
       "Name": "Enchanted Archipelago",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "20",
@@ -5125,7 +5130,7 @@
       "Name": "The Goddess of Nature",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "21",
@@ -5163,9 +5168,9 @@
       "ID": "25",
       "SetID": "3aa2279",
       "Name": "Walls Cannot Stop Us",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 148
     },
     {
       "ID": "26",
@@ -5181,7 +5186,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "28",
@@ -5213,7 +5218,7 @@
       "Name": "Preparation Is Everything",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "31",
@@ -5397,7 +5402,7 @@
       "Name": "Duality",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "48",
@@ -5428,13 +5433,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4949,
+      "Progressed": 4950,
       "Completed": 4760
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4949,
+      "Progressed": 4950,
       "Completed": 5
     }
   ],
@@ -5442,8 +5447,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-07-04T17:00:43.3128649+00:00",
-  "LastChanged_Achievements": "2023-07-08T17:01:18.6618355+00:00",
+  "LastChanged_Achievements": "2023-07-08T18:02:19.2744962+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:44.6563449+00:00",
-  "LastUpdate_Ratings": "2023-07-08T16:59:56.3954137+00:00",
-  "LastUpdate_Achievements": "2023-07-08T17:01:18.6618947+00:00"
+  "LastUpdate_Ratings": "2023-07-08T18:00:09.4700493+00:00",
+  "LastUpdate_Achievements": "2023-07-08T18:02:19.2745733+00:00"
 }

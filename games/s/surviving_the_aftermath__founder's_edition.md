@@ -1,25 +1,25 @@
 # Surviving the Aftermath
 [Store](https://store.epicgames.com/en-US/p/surviving-the-aftermath)  
 [View Rawdata](../../db/s/surviving_the_aftermath__founder's_edition.json)  
-Rating: 4.47 (Ranked 595)  
+Rating: 4.47 (Ranked 594)  
 Number of Ratings: 836  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 71.00% | ~5,108 |
-| Leader | 61.00% | ~4,389 |
-| Explorer | 53.00% | ~3,813 |
-| Healer | 52.00% | ~3,741 |
+| First Step | 71.00% | ~5,109 |
+| Leader | 61.00% | ~4,390 |
+| Explorer | 53.00% | ~3,814 |
+| Healer | 52.00% | ~3,742 |
 | Aspiring Inventor | 44.00% | ~3,166 |
 | Adventurer | 41.00% | ~2,950 |
 | Famous Healer | 38.00% | ~2,734 |
-| Local Leader | 35.00% | ~2,518 |
-| Famous Explorer | 34.00% | ~2,446 |
-| New Opportunities | 34.00% | ~2,446 |
-| Energized | 33.00% | ~2,374 |
-| The Long Haul | 33.00% | ~2,374 |
-| Survivor | 32.00% | ~2,302 |
-| The Great Healer | 31.00% | ~2,230 |
+| Local Leader | 35.00% | ~2,519 |
+| Famous Explorer | 34.00% | ~2,447 |
+| New Opportunities | 34.00% | ~2,447 |
+| Energized | 33.00% | ~2,375 |
+| The Long Haul | 33.00% | ~2,375 |
+| Survivor | 32.00% | ~2,303 |
+| The Great Healer | 31.00% | ~2,231 |
 | Cleaner | 28.00% | ~2,015 |
 | Catastrofan | 28.00% | ~2,015 |
 | Legendary Explorer | 27.00% | ~1,943 |
@@ -39,7 +39,7 @@ Number of Ratings: 836  (23.09.2022)
 | Bookworm | 15.00% | ~1,079 |
 | Famous Adventurer | 13.00% | ~935 |
 | Prepared for Anything | 13.00% | ~935 |
-| Big Catastrofan | 12.00% | ~863 |
+| Big Catastrofan | 12.00% | ~864 |
 | It's a Finnish Thing | 10.00% | ~720 |
 | Sky Burial | 9.00% | ~648 |
 | Trader | 8.00% | ~576 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~14 |
 | Customized calamities | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,195 (Ranked 124)  
+Progressed: 7,196 (Ranked 124)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-05 | 7,116 | 0 |
 | 2023-07-06 | 7,145 | 0 |
 | 2023-07-07 | 7,171 | 0 |
-| 2023-07-08 | 7,195 | 0 |
+| 2023-07-08 | 7,196 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 329)  
 Sum: 675 (Ranked 272)  
