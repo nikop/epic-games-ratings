@@ -7,17 +7,17 @@ Rating: 4.77 (Ranked 107)
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 11.00% | ~31,429 |
 | First Class Student | 10.00% | ~28,572 |
-| A Keen Sense of Spell | 9.00% | ~25,714 |
-| Troll with the Punches | 9.00% | ~25,714 |
-| Grappling with a Graphorn | 8.00% | ~22,857 |
-| The One Who Mastered Memories | 8.00% | ~22,857 |
-| The Hallowed Hero | 8.00% | ~22,857 |
-| The Hero of Hogwarts | 8.00% | ~22,857 |
-| The Defender of Dragons | 8.00% | ~22,857 |
-| Loom for Improvement | 8.00% | ~22,857 |
-| A Talent for Spending | 8.00% | ~22,857 |
-| Coasting Along | 8.00% | ~22,857 |
-| That's a Keeper | 8.00% | ~22,857 |
+| A Keen Sense of Spell | 9.00% | ~25,715 |
+| Troll with the Punches | 9.00% | ~25,715 |
+| Grappling with a Graphorn | 8.00% | ~22,858 |
+| The One Who Mastered Memories | 8.00% | ~22,858 |
+| The Hallowed Hero | 8.00% | ~22,858 |
+| The Hero of Hogwarts | 8.00% | ~22,858 |
+| The Defender of Dragons | 8.00% | ~22,858 |
+| Loom for Improvement | 8.00% | ~22,858 |
+| A Talent for Spending | 8.00% | ~22,858 |
+| Coasting Along | 8.00% | ~22,858 |
+| That's a Keeper | 8.00% | ~22,858 |
 | Challenge Accepted | 7.00% | ~20,000 |
 | Followed the Butterflies | 7.00% | ~20,000 |
 | Rising From the Ashes | 7.00% | ~20,000 |
@@ -31,12 +31,12 @@ Rating: 4.77 (Ranked 107)
 | Third Time's a Charm | 4.00% | ~11,429 |
 | The Ends Petrify the Means | 4.00% | ~11,429 |
 | Raising Expectations | 4.00% | ~11,429 |
-| The Toast of the Town | 3.00% | ~8,571 |
-| Going Through the Potions | 3.00% | ~8,571 |
-| Room with a View | 3.00% | ~8,571 |
-| The Intrepid Explorer | 3.00% | ~8,571 |
-| The Gryffindor in the Graveyard | 3.00% | ~8,571 |
-| The Wise Owl | 3.00% | ~8,571 |
+| The Toast of the Town | 3.00% | ~8,572 |
+| Going Through the Potions | 3.00% | ~8,572 |
+| Room with a View | 3.00% | ~8,572 |
+| The Intrepid Explorer | 3.00% | ~8,572 |
+| The Gryffindor in the Graveyard | 3.00% | ~8,572 |
+| The Wise Owl | 3.00% | ~8,572 |
 | Put Down Roots | 2.00% | ~5,714 |
 | The Auror's Apprentice | 2.00% | ~5,714 |
 | Floo Around the World | 2.00% | ~5,714 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 107)
 | The Nature of the Beast | 0.50% | ~1,429 |
 | Collector's Edition | 0.20% | ~571 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 285,715 (Ranked 41)  
+Progressed: 285,721 (Ranked 41)  
 Completed: 419 (0.15%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 419 (0.15%) (Ranked 171)
 | 2023-07-05 | 285,076 | 418 |
 | 2023-07-06 | 285,367 | 418 |
 | 2023-07-07 | 285,655 | 419 |
-| 2023-07-08 | 285,715 | 419 |
+| 2023-07-08 | 285,721 | 419 |
 ## Awards
 Max (Character Customization): 20,762  (Ranked 17)  
 Sum: 38,713 (Ranked 30)  

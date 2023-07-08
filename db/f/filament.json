@@ -225,9 +225,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 195683,
+  "EOS_Progressed": 195684,
   "EOS_Completed": 459,
-  "EOS_NewPlayers": 671,
+  "EOS_NewPlayers": 669,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -8500,6 +8500,11 @@
       "Time": "2023-07-08T03:34:51.1821987+00:00",
       "NumProgressed": 195683,
       "NumCompleted": 459
+    },
+    {
+      "Time": "2023-07-08T04:07:34.8169311+00:00",
+      "NumProgressed": 195684,
+      "NumCompleted": 459
     }
   ],
   "TotalAchievements": 29,
@@ -8535,7 +8540,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 183942
+      "UsersEstimate": 183943
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -8583,7 +8588,7 @@
       "Name": "Answers can be found amongst the stars",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5870
+      "UsersEstimate": 5871
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTED",
@@ -8679,7 +8684,7 @@
       "Name": "Bend to the will of the arrows.",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5870
+      "UsersEstimate": 5871
     },
     {
       "ID": "ACHIEVEMENT_SECRET",
@@ -8742,7 +8747,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 195683,
+      "Progressed": 195684,
       "Completed": 459
     }
   ],
@@ -8750,8 +8755,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-06-26T22:58:32.656469+00:00",
-  "LastChanged_Achievements": "2023-07-08T03:34:51.1821981+00:00",
+  "LastChanged_Achievements": "2023-07-08T04:07:34.8169306+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:47.2271443+00:00",
-  "LastUpdate_Ratings": "2023-07-08T03:27:01.983815+00:00",
-  "LastUpdate_Achievements": "2023-07-08T03:34:51.1822806+00:00"
+  "LastUpdate_Ratings": "2023-07-08T03:59:44.9468858+00:00",
+  "LastUpdate_Achievements": "2023-07-08T04:07:34.8170085+00:00"
 }

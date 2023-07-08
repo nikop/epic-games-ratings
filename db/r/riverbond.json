@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 29,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
@@ -480,7 +480,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 521582,
+  "EOS_Progressed": 521583,
   "EOS_Completed": 440,
   "EOS_NewPlayers": 631,
   "EOS_NewCompleters": 5,
@@ -8555,6 +8555,11 @@
       "Time": "2023-07-08T03:31:17.2782569+00:00",
       "NumProgressed": 521582,
       "NumCompleted": 440
+    },
+    {
+      "Time": "2023-07-08T04:04:07.3999218+00:00",
+      "NumProgressed": 521583,
+      "NumCompleted": 440
     }
   ],
   "TotalAchievements": 57,
@@ -8582,7 +8587,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 365107
+      "UsersEstimate": 365108
     },
     {
       "ID": "12",
@@ -8790,7 +8795,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 260791
+      "UsersEstimate": 260792
     },
     {
       "ID": "36",
@@ -8902,7 +8907,7 @@
       "Name": "To the Beat",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 104316
+      "UsersEstimate": 104317
     },
     {
       "ID": "49",
@@ -8926,7 +8931,7 @@
       "Name": "Two of a Kind",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 73021
+      "UsersEstimate": 73022
     },
     {
       "ID": "51",
@@ -9021,15 +9026,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 521582,
+      "Progressed": 521583,
       "Completed": 440
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-07-08T03:31:17.278256+00:00",
+  "LastChanged_Achievements": "2023-07-08T04:04:07.3999211+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:39.1461956+00:00",
-  "LastUpdate_Ratings": "2023-07-08T03:25:07.4867295+00:00",
-  "LastUpdate_Achievements": "2023-07-08T03:31:17.2784373+00:00"
+  "LastUpdate_Ratings": "2023-07-08T03:57:51.3253138+00:00",
+  "LastUpdate_Achievements": "2023-07-08T04:04:07.400029+00:00"
 }

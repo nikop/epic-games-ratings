@@ -1181,9 +1181,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 122830,
+  "EOS_Progressed": 122832,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 352,
+  "EOS_NewPlayers": 354,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -8741,6 +8741,11 @@
       "Time": "2023-07-08T03:29:50.2900646+00:00",
       "NumProgressed": 122830,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-07-08T04:02:32.6212507+00:00",
+      "NumProgressed": 122832,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 40,
@@ -8784,7 +8789,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 22109
+      "UsersEstimate": 22110
     },
     {
       "ID": "ACH_COP_BAD",
@@ -8800,7 +8805,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 9826
+      "UsersEstimate": 9827
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -8808,7 +8813,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 29479
+      "UsersEstimate": 29480
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -8816,7 +8821,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 9826
+      "UsersEstimate": 9827
     },
     {
       "ID": "ACH_COP_DORK",
@@ -8832,7 +8837,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 34392
+      "UsersEstimate": 34393
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -8888,7 +8893,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 18424
+      "UsersEstimate": 18425
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -8896,7 +8901,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 13511
+      "UsersEstimate": 13512
     },
     {
       "ID": "ACH_CUNO",
@@ -9071,15 +9076,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 122830,
+      "Progressed": 122832,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-07-07T16:59:40.5892511+00:00",
-  "LastChanged_Achievements": "2023-07-08T03:29:50.2900637+00:00",
+  "LastChanged_Achievements": "2023-07-08T04:02:32.6212498+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:13.7032583+00:00",
-  "LastUpdate_Ratings": "2023-07-08T03:27:24.5697598+00:00",
-  "LastUpdate_Achievements": "2023-07-08T03:29:50.2902022+00:00"
+  "LastUpdate_Ratings": "2023-07-08T04:00:11.1872421+00:00",
+  "LastUpdate_Achievements": "2023-07-08T04:02:32.6213364+00:00"
 }

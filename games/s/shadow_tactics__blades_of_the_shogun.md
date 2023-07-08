@@ -6,18 +6,18 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~20,231 |
+| Genin | 11.00% | ~20,232 |
 | Thorough | 9.00% | ~16,553 |
 | A thief's beginning | 8.00% | ~14,714 |
 | Tanuki Time | 8.00% | ~14,714 |
 | Disguised | 7.00% | ~12,875 |
 | Rescue Takuma | 7.00% | ~12,875 |
 | Rollin' | 7.00% | ~12,875 |
-| Chunin | 6.00% | ~11,035 |
-| Ice Ice Yuki | 6.00% | ~11,035 |
-| Jonin | 6.00% | ~11,035 |
-| Stoned Ox | 6.00% | ~11,035 |
-| Yabu | 6.00% | ~11,035 |
+| Chunin | 6.00% | ~11,036 |
+| Ice Ice Yuki | 6.00% | ~11,036 |
+| Jonin | 6.00% | ~11,036 |
+| Stoned Ox | 6.00% | ~11,036 |
+| Yabu | 6.00% | ~11,036 |
 | Flying Rocks | 5.00% | ~9,196 |
 | Happy Planning | 5.00% | ~9,196 |
 | Mugen Unchained | 5.00% | ~9,196 |
@@ -30,11 +30,11 @@ Number of Ratings: 495  (23.09.2022)
 | Noboru | 3.00% | ~5,518 |
 | Still Rollin' | 3.00% | ~5,518 |
 | Stoned | 3.00% | ~5,518 |
-| Atheist Ox | 2.00% | ~3,678 |
-| It's raining men | 2.00% | ~3,678 |
-| Old Man | 2.00% | ~3,678 |
-| The Old Way | 2.00% | ~3,678 |
-| Winner Winner | 2.00% | ~3,678 |
+| Atheist Ox | 2.00% | ~3,679 |
+| It's raining men | 2.00% | ~3,679 |
+| Old Man | 2.00% | ~3,679 |
+| The Old Way | 2.00% | ~3,679 |
+| Winner Winner | 2.00% | ~3,679 |
 | Meticulous | 1.00% | ~1,839 |
 | No Gimmicks | 1.00% | ~1,839 |
 | The End | 1.00% | ~1,839 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~184 |
 | Release the Kraken | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 183,922 (Ranked 57)  
+Progressed: 183,927 (Ranked 57)  
 Completed: 56 (0.03%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 56 (0.03%) (Ranked 209)
 | 2023-07-05 | 183,423 | 56 |
 | 2023-07-06 | 183,647 | 56 |
 | 2023-07-07 | 183,884 | 56 |
-| 2023-07-08 | 183,922 | 56 |
+| 2023-07-08 | 183,927 | 56 |
 ## Awards
 Max (Great for Beginners): 553  (Ranked 183)  
 Sum: 4,695 (Ranked 131)  

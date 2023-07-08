@@ -8537,7 +8537,7 @@
       "Count": 5272
     }
   ],
-  "EOS_Progressed": 864346,
+  "EOS_Progressed": 864348,
   "EOS_Completed": 1840,
   "EOS_NewPlayers": 1759,
   "EOS_NewCompleters": 27,
@@ -16977,6 +16977,11 @@
       "Time": "2023-07-08T03:34:55.2165811+00:00",
       "NumProgressed": 864346,
       "NumCompleted": 1840
+    },
+    {
+      "Time": "2023-07-08T04:07:38.757102+00:00",
+      "NumProgressed": 864348,
+      "NumCompleted": 1840
     }
   ],
   "TotalAchievements": 44,
@@ -17004,7 +17009,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 138295
+      "UsersEstimate": 138296
     },
     {
       "ID": "Cyberjunkie",
@@ -17020,7 +17025,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 328451
+      "UsersEstimate": 328452
     },
     {
       "ID": "FollowingTheRiver",
@@ -17060,7 +17065,7 @@
       "Name": "Gun Fu",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 121008
+      "UsersEstimate": 121009
     },
     {
       "ID": "Gunslinger",
@@ -17108,7 +17113,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 190156
+      "UsersEstimate": 190157
     },
     {
       "ID": "MaxPain",
@@ -17156,7 +17161,7 @@
       "Name": "Life of the Road",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 172869
+      "UsersEstimate": 172870
     },
     {
       "ID": "Roleplayer",
@@ -17204,7 +17209,7 @@
       "Name": "The Fool",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 587755
+      "UsersEstimate": 587757
     },
     {
       "ID": "TheHermit",
@@ -17212,7 +17217,7 @@
       "Name": "The Hermit",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 207443
+      "UsersEstimate": 207444
     },
     {
       "ID": "TheHightPriestess",
@@ -17284,7 +17289,7 @@
       "Name": "True Soldier",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 190156
+      "UsersEstimate": 190157
     },
     {
       "ID": "TrueWarrior",
@@ -17292,7 +17297,7 @@
       "Name": "True Warrior",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 121008
+      "UsersEstimate": 121009
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -17339,15 +17344,15 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 864346,
+      "Progressed": 864348,
       "Completed": 1840
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-07-08T02:21:13.7079613+00:00",
-  "LastChanged_Achievements": "2023-07-08T03:34:55.2165806+00:00",
+  "LastChanged_Achievements": "2023-07-08T04:07:38.7571013+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:16.9313784+00:00",
-  "LastUpdate_Ratings": "2023-07-08T03:25:39.8825569+00:00",
-  "LastUpdate_Achievements": "2023-07-08T03:34:55.2167187+00:00"
+  "LastUpdate_Ratings": "2023-07-08T03:58:23.8462+00:00",
+  "LastUpdate_Achievements": "2023-07-08T04:07:38.7571944+00:00"
 }

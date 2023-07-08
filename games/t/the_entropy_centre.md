@@ -22,9 +22,9 @@
 | Kaboom! | 13.00% | ~28 |
 | Looper | 13.00% | ~28 |
 | So Close | 12.00% | ~26 |
+| All Alone | 12.00% | ~26 |
 | Reunited | 12.00% | ~26 |
 | Transformers, cubes in disguise | 11.00% | ~24 |
-| All Alone | 11.00% | ~24 |
 | Cataclysm | 11.00% | ~24 |
 | Final Charge | 10.00% | ~22 |
 | Summer Luvin' | 4.00% | ~9 |

@@ -6,22 +6,22 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~587,755 |
-| Right Back At Ya | 38.00% | ~328,451 |
+| The Fool | 68.00% | ~587,757 |
+| Right Back At Ya | 38.00% | ~328,452 |
 | The Lovers | 34.00% | ~293,878 |
 | Stanislavski's Method | 28.00% | ~242,017 |
 | The Wheel of Fortune | 26.00% | ~224,730 |
-| The Hermit | 24.00% | ~207,443 |
-| Christmas Tree Attack | 22.00% | ~190,156 |
-| True Soldier | 22.00% | ~190,156 |
+| The Hermit | 24.00% | ~207,444 |
+| Christmas Tree Attack | 22.00% | ~190,157 |
+| True Soldier | 22.00% | ~190,157 |
 | The High Priestess | 21.00% | ~181,513 |
 | Legend of The Afterlife | 21.00% | ~181,513 |
-| Life of the Road | 20.00% | ~172,869 |
+| Life of the Road | 20.00% | ~172,870 |
 | Full Body Conversion | 17.00% | ~146,939 |
 | The World | 17.00% | ~146,939 |
-| Bushido and Chill | 16.00% | ~138,295 |
-| Gun Fu | 14.00% | ~121,008 |
-| True Warrior | 14.00% | ~121,008 |
+| Bushido and Chill | 16.00% | ~138,296 |
+| Gun Fu | 14.00% | ~121,009 |
+| True Warrior | 14.00% | ~121,009 |
 | To Protect and Serve | 13.00% | ~112,365 |
 | Master Crafter | 13.00% | ~112,365 |
 | I Am The Law | 13.00% | ~112,365 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,643 |
 | Rough Landing | 0.50% | ~4,322 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 864,346 (Ranked 14)  
+Progressed: 864,348 (Ranked 14)  
 Completed: 1,840 (0.21%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 1,840 (0.21%) (Ranked 161)
 | 2023-07-05 | 863,879 | 1,833 |
 | 2023-07-06 | 864,090 | 1,837 |
 | 2023-07-07 | 864,312 | 1,839 |
-| 2023-07-08 | 864,346 | 1,840 |
+| 2023-07-08 | 864,348 | 1,840 |
 ## Awards
 Max (Character Customization): 72,454  (Ranked 9)  
 Sum: 189,778 (Ranked 13)  

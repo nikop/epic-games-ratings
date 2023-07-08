@@ -7171,9 +7171,9 @@
       "Count": 8394
     }
   ],
-  "EOS_Progressed": 1305315,
+  "EOS_Progressed": 1305321,
   "EOS_Completed": 2099,
-  "EOS_NewPlayers": 3263,
+  "EOS_NewPlayers": 3262,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -15636,6 +15636,11 @@
       "Time": "2023-07-08T03:29:38.6717271+00:00",
       "NumProgressed": 1305315,
       "NumCompleted": 2099
+    },
+    {
+      "Time": "2023-07-08T04:02:21.0618758+00:00",
+      "NumProgressed": 1305321,
+      "NumCompleted": 2099
     }
   ],
   "TotalAchievements": 47,
@@ -15647,7 +15652,7 @@
       "Name": "The Result of Previous Training",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 365488
+      "UsersEstimate": 365490
     },
     {
       "ID": "ACH_001",
@@ -15655,7 +15660,7 @@
       "Name": "Cleared for Field Duty",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 352435
+      "UsersEstimate": 352437
     },
     {
       "ID": "ACH_002",
@@ -15663,7 +15668,7 @@
       "Name": "Seizing the Opportunity",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 326329
+      "UsersEstimate": 326330
     },
     {
       "ID": "ACH_003",
@@ -15679,7 +15684,7 @@
       "Name": "Silent Assassin",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 182744
+      "UsersEstimate": 182745
     },
     {
       "ID": "ACH_005",
@@ -15687,7 +15692,7 @@
       "Name": "Training Escalated",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 39159
+      "UsersEstimate": 39160
     },
     {
       "ID": "ACH_006",
@@ -15703,7 +15708,7 @@
       "Name": "A New Profile",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 117478
+      "UsersEstimate": 117479
     },
     {
       "ID": "ACH_008",
@@ -15711,7 +15716,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 365488
+      "UsersEstimate": 365490
     },
     {
       "ID": "ACH_009",
@@ -15719,7 +15724,7 @@
       "Name": "Unseen Assassin",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 600445
+      "UsersEstimate": 600448
     },
     {
       "ID": "ACH_010",
@@ -15735,7 +15740,7 @@
       "Name": "Stylish Assassin",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 261063
+      "UsersEstimate": 261064
     },
     {
       "ID": "ACH_012",
@@ -15743,7 +15748,7 @@
       "Name": "Death From Above",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 600445
+      "UsersEstimate": 600448
     },
     {
       "ID": "ACH_013",
@@ -15751,7 +15756,7 @@
       "Name": "Dune Raider",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 104425
+      "UsersEstimate": 104426
     },
     {
       "ID": "ACH_014",
@@ -15767,7 +15772,7 @@
       "Name": "Keep Your Eyes Peeled",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 39159
+      "UsersEstimate": 39160
     },
     {
       "ID": "ACH_016",
@@ -15775,7 +15780,7 @@
       "Name": "Rise Up",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 169691
+      "UsersEstimate": 169692
     },
     {
       "ID": "ACH_017",
@@ -15791,7 +15796,7 @@
       "Name": "Master of the Household",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 509073
+      "UsersEstimate": 509075
     },
     {
       "ID": "ACH_019",
@@ -15799,7 +15804,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 104425
+      "UsersEstimate": 104426
     },
     {
       "ID": "ACH_020",
@@ -15823,7 +15828,7 @@
       "Name": "Full House",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 117478
+      "UsersEstimate": 117479
     },
     {
       "ID": "ACH_023",
@@ -15839,7 +15844,7 @@
       "Name": "Death of the Party",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 469913
+      "UsersEstimate": 469916
     },
     {
       "ID": "ACH_025",
@@ -15879,7 +15884,7 @@
       "Name": "Warehouse Veteran",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 39159
+      "UsersEstimate": 39160
     },
     {
       "ID": "ACH_030",
@@ -15887,7 +15892,7 @@
       "Name": "NEXUS-47",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 430754
+      "UsersEstimate": 430756
     },
     {
       "ID": "ACH_031",
@@ -15903,7 +15908,7 @@
       "Name": "Future Shock",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 39159
+      "UsersEstimate": 39160
     },
     {
       "ID": "ACH_033",
@@ -15935,7 +15940,7 @@
       "Name": "The Last Tango",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 417701
+      "UsersEstimate": 417703
     },
     {
       "ID": "ACH_037",
@@ -15943,7 +15948,7 @@
       "Name": "Master the Terroir",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 39159
+      "UsersEstimate": 39160
     },
     {
       "ID": "ACH_038",
@@ -15959,7 +15964,7 @@
       "Name": "Evil Wine Club",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 156638
+      "UsersEstimate": 156639
     },
     {
       "ID": "ACH_040",
@@ -15975,7 +15980,7 @@
       "Name": "Vineyard Virtuoso",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 39159
+      "UsersEstimate": 39160
     },
     {
       "ID": "ACH_042",
@@ -15983,7 +15988,7 @@
       "Name": "Nightmare Fuel",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 404648
+      "UsersEstimate": 404650
     },
     {
       "ID": "ACH_043",
@@ -15991,7 +15996,7 @@
       "Name": "Bullet Train",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 274116
+      "UsersEstimate": 274117
     },
     {
       "ID": "ACH_044",
@@ -16007,7 +16012,7 @@
       "Name": "Train Surfing",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 104425
+      "UsersEstimate": 104426
     },
     {
       "ID": "ACH_046",
@@ -16022,15 +16027,15 @@
     {
       "ID": "62l33o1",
       "IsBase": true,
-      "Progressed": 1305315,
+      "Progressed": 1305321,
       "Completed": 2099
     }
   ],
   "FirstSeen": "2022-07-22T20:17:51.8099598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:56.7371376+00:00",
   "LastChanged": "2023-07-08T03:27:53.7341514+00:00",
-  "LastChanged_Achievements": "2023-07-08T03:29:38.6717262+00:00",
+  "LastChanged_Achievements": "2023-07-08T04:02:21.0618751+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:43.0252938+00:00",
-  "LastUpdate_Ratings": "2023-07-08T03:27:53.7341521+00:00",
-  "LastUpdate_Achievements": "2023-07-08T03:29:38.6718265+00:00"
+  "LastUpdate_Ratings": "2023-07-08T04:00:38.5244674+00:00",
+  "LastUpdate_Achievements": "2023-07-08T04:02:21.061971+00:00"
 }

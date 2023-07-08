@@ -318,9 +318,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 61154,
+  "EOS_Progressed": 61155,
   "EOS_Completed": 309,
-  "EOS_NewPlayers": 839,
+  "EOS_NewPlayers": 837,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -8618,6 +8618,11 @@
       "Time": "2023-07-08T03:29:53.0513033+00:00",
       "NumProgressed": 61154,
       "NumCompleted": 309
+    },
+    {
+      "Time": "2023-07-08T04:02:35.3570477+00:00",
+      "NumProgressed": 61155,
+      "NumCompleted": 309
     }
   ],
   "TotalAchievements": 24,
@@ -8637,7 +8642,7 @@
       "Name": "AWAKEN",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 12842
+      "UsersEstimate": 12843
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -8773,7 +8778,7 @@
       "Name": "SPIRIT BARK",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 12842
+      "UsersEstimate": 12843
     },
     {
       "ID": "SPIRIT_DASH",
@@ -8781,7 +8786,7 @@
       "Name": "SPIRIT DASH",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 6115
+      "UsersEstimate": 6116
     },
     {
       "ID": "SPIRIT_FORM",
@@ -8805,7 +8810,7 @@
       "Name": "WEIGHTLESS",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7338
+      "UsersEstimate": 7339
     },
     {
       "ID": "WRITTEN_IN_STONE",
@@ -8820,7 +8825,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 61154,
+      "Progressed": 61155,
       "Completed": 309
     }
   ],
@@ -8828,8 +8833,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-06-20T12:00:48.5369511+00:00",
-  "LastChanged_Achievements": "2023-07-08T03:29:53.0513026+00:00",
+  "LastChanged_Achievements": "2023-07-08T04:02:35.357047+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:39.6580646+00:00",
-  "LastUpdate_Ratings": "2023-07-08T03:27:50.9932547+00:00",
-  "LastUpdate_Achievements": "2023-07-08T03:29:53.0513715+00:00"
+  "LastUpdate_Ratings": "2023-07-08T04:00:34.1745912+00:00",
+  "LastUpdate_Achievements": "2023-07-08T04:02:35.3571208+00:00"
 }

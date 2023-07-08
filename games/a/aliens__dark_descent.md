@@ -5,18 +5,18 @@ Rating: 4.45 (Ranked 621)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 80.00% | ~2,157 |
-| Snatched Out | 73.00% | ~1,968 |
-| Keep 'Em Coming | 71.00% | ~1,914 |
+| This Is Hayes, Pioneer Station, Signing Off | 80.00% | ~2,158 |
+| Snatched Out | 73.00% | ~1,969 |
+| Keep 'Em Coming | 71.00% | ~1,915 |
 | Cleaning Lethe, One Nest At A Time | 62.00% | ~1,672 |
 | Call Me Snake | 57.00% | ~1,537 |
 | Something Lurks Under The Hills | 56.00% | ~1,510 |
 | This Was No Papercut | 54.00% | ~1,456 |
 | The Shrink Hates Me | 50.00% | ~1,348 |
-| People Person | 49.00% | ~1,321 |
-| Use The Bumper, That's What It's For | 47.00% | ~1,267 |
-| First Steps Into Madness | 45.00% | ~1,213 |
-| Colonial Barrels | 44.00% | ~1,186 |
+| People Person | 49.00% | ~1,322 |
+| Use The Bumper, That's What It's For | 47.00% | ~1,268 |
+| First Steps Into Madness | 45.00% | ~1,214 |
+| Colonial Barrels | 44.00% | ~1,187 |
 | Damn Dude, You Gotta Lose Some Weight! | 37.00% | ~998 |
 | Harper's Hell | 35.00% | ~944 |
 | Making a Stand | 33.00% | ~890 |
@@ -25,12 +25,12 @@ Rating: 4.45 (Ranked 621)
 | Where It All Begun | 28.00% | ~755 |
 | The More The Merrier | 21.00% | ~566 |
 | Living Nightmare | 20.00% | ~539 |
-| Stuff Of Nightmares | 16.00% | ~431 |
-| The Darwin Era Was Here | 16.00% | ~431 |
-| Come on, You Wanna Live Forever? | 15.00% | ~404 |
-| Deep Into Insanity | 15.00% | ~404 |
-| The Passenger | 14.00% | ~377 |
-| El Riesgo Siempre Vive | 13.00% | ~350 |
+| Stuff Of Nightmares | 16.00% | ~432 |
+| The Darwin Era Was Here | 16.00% | ~432 |
+| Come on, You Wanna Live Forever? | 15.00% | ~405 |
+| Deep Into Insanity | 15.00% | ~405 |
+| The Passenger | 14.00% | ~378 |
+| El Riesgo Siempre Vive | 13.00% | ~351 |
 | One For Every Occasion | 11.00% | ~297 |
 | Frontliner | 11.00% | ~297 |
 | The Spire | 11.00% | ~297 |
@@ -51,7 +51,7 @@ Rating: 4.45 (Ranked 621)
 | Perfect Organism | 0.20% | ~5 |
 | This Ain't No Picnic | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,696 (Ranked 154)  
+Progressed: 2,697 (Ranked 154)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-05 | 2,620 | 0 |
 | 2023-07-06 | 2,648 | 0 |
 | 2023-07-07 | 2,686 | 0 |
-| 2023-07-08 | 2,696 | 0 |
+| 2023-07-08 | 2,697 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

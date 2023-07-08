@@ -297,9 +297,9 @@
       "ID": "achievement_05",
       "SetID": "7881h0d",
       "Name": "Bloodrush",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "achievement_06",
@@ -313,9 +313,9 @@
       "ID": "achievement_07",
       "SetID": "7881h0d",
       "Name": "True magic doesn\u0027t exist",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "achievement_08",
@@ -418,8 +418,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-03-31T05:57:59.5947046+00:00",
-  "LastChanged_Achievements": "2023-07-08T03:33:56.8305866+00:00",
+  "LastChanged_Achievements": "2023-07-08T04:06:42.4502231+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:14.0326858+00:00",
-  "LastUpdate_Ratings": "2023-07-08T03:25:37.3170185+00:00",
-  "LastUpdate_Achievements": "2023-07-08T03:33:56.8306051+00:00"
+  "LastUpdate_Ratings": "2023-07-08T03:58:21.3561025+00:00",
+  "LastUpdate_Achievements": "2023-07-08T04:06:42.4502407+00:00"
 }

@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 246221,
+  "EOS_Progressed": 246222,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 397,
+  "EOS_NewPlayers": 396,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7639,6 +7639,11 @@
       "Time": "2023-07-08T03:34:58.406446+00:00",
       "NumProgressed": 246221,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-08T04:07:41.8668109+00:00",
+      "NumProgressed": 246222,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -7674,7 +7679,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 51706
+      "UsersEstimate": 51707
     },
     {
       "ID": "blotbuster",
@@ -7826,7 +7831,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 130497
+      "UsersEstimate": 130498
     },
     {
       "ID": "indegestible",
@@ -7842,7 +7847,7 @@
       "Name": "Into The Drift",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17235
+      "UsersEstimate": 17236
     },
     {
       "ID": "itsTheFall",
@@ -7850,7 +7855,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 64017
+      "UsersEstimate": 64018
     },
     {
       "ID": "justABit",
@@ -7890,7 +7895,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 123110
+      "UsersEstimate": 123111
     },
     {
       "ID": "notScared",
@@ -7922,7 +7927,7 @@
       "Name": "Ready? Fight!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17235
+      "UsersEstimate": 17236
     },
     {
       "ID": "rideTheWave",
@@ -7954,7 +7959,7 @@
       "Name": "The Stunner",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 51706
+      "UsersEstimate": 51707
     },
     {
       "ID": "thunderstruck",
@@ -8010,14 +8015,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 39395
+      "UsersEstimate": 39396
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 246221,
+      "Progressed": 246222,
       "Completed": 3
     }
   ],
@@ -8025,8 +8030,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-07-08T03:34:58.4064454+00:00",
+  "LastChanged_Achievements": "2023-07-08T04:07:41.8668103+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:16.5016071+00:00",
-  "LastUpdate_Ratings": "2023-07-08T03:27:27.2508161+00:00",
-  "LastUpdate_Achievements": "2023-07-08T03:34:58.4065345+00:00"
+  "LastUpdate_Ratings": "2023-07-08T04:00:13.9973594+00:00",
+  "LastUpdate_Achievements": "2023-07-08T04:07:41.8668992+00:00"
 }

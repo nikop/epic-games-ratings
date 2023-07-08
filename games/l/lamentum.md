@@ -17,9 +17,9 @@ Rating: 4.37 (Ranked 721)
 | There is freedom in awakening | 11.00% | ~33 |
 | Ritual | 9.00% | ~27 |
 | Cowardice | 9.00% | ~27 |
-| Bloodrush | 7.00% | ~21 |
+| Bloodrush | 8.00% | ~24 |
+| True magic doesn't exist | 7.00% | ~21 |
 | Moon Cloudiness Sonata by Danloop | 6.00% | ~18 |
-| True magic doesn't exist | 6.00% | ~18 |
 | The moth and the flame | 5.00% | ~15 |
 | Redemption | 4.00% | ~12 |
 | Sacrifice | 3.00% | ~9 |

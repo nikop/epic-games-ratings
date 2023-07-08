@@ -5778,9 +5778,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 791447,
+  "EOS_Progressed": 791448,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 1129,
+  "EOS_NewPlayers": 1128,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14178,6 +14178,11 @@
       "Time": "2023-07-08T03:31:06.2436893+00:00",
       "NumProgressed": 791447,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-07-08T04:03:47.2720873+00:00",
+      "NumProgressed": 791448,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -14221,7 +14226,7 @@
       "Name": "Awakening",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 158289
+      "UsersEstimate": 158290
     },
     {
       "ID": "BadGirl",
@@ -14669,7 +14674,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 158289
+      "UsersEstimate": 158290
     },
     {
       "ID": "RevenantOfLedechko",
@@ -14709,7 +14714,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 158289
+      "UsersEstimate": 158290
     },
     {
       "ID": "SerialKiller",
@@ -14844,15 +14849,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 791447,
+      "Progressed": 791448,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-07-07T19:58:54.9798706+00:00",
-  "LastChanged_Achievements": "2023-07-08T03:31:06.2436886+00:00",
+  "LastChanged_Achievements": "2023-07-08T04:03:47.2720867+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:10.689818+00:00",
-  "LastUpdate_Ratings": "2023-07-08T03:26:29.2565931+00:00",
-  "LastUpdate_Achievements": "2023-07-08T03:31:06.243984+00:00"
+  "LastUpdate_Ratings": "2023-07-08T03:59:14.5252781+00:00",
+  "LastUpdate_Achievements": "2023-07-08T04:03:47.2722361+00:00"
 }
