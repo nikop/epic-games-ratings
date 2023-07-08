@@ -2,9 +2,9 @@
   "ID": "ba2b8f9cfb9344b6b76f87d3fc5f8b80",
   "Name": "Colossal Cave",
   "ProductSlug": "colossal-cave-6f902f",
-  "Ranking_EOS_Progress": 309,
+  "Ranking_EOS_Progress": 308,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-01-19T05:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 84,
+  "EOS_Progressed": 85,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -78,6 +78,11 @@
       "Time": "2023-07-02T02:37:04.7069952+00:00",
       "NumProgressed": 84,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-08T19:06:42.7436818+00:00",
+      "NumProgressed": 85,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -89,13 +94,13 @@
       "Name": "We\u0027ve only just begun",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "02-YoureSpelunkinNow",
       "SetID": "5iij4gg",
       "Name": "You\u0027re spelunkin\u0027 now!",
-      "Percentage": 87,
+      "Percentage": 86,
       "XP": 5,
       "UsersEstimate": 73
     },
@@ -111,7 +116,7 @@
       "ID": "04-CharminTheSnake",
       "SetID": "5iij4gg",
       "Name": "Charmin\u0027 the Snake",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 5,
       "UsersEstimate": 31
     },
@@ -119,7 +124,7 @@
       "ID": "05-DrumsInTheDeep",
       "SetID": "5iij4gg",
       "Name": "Drums in the Deep",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
       "UsersEstimate": 19
     },
@@ -143,7 +148,7 @@
       "ID": "08-TreasureSeeker",
       "SetID": "5iij4gg",
       "Name": "Treasure Seeker",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
       "UsersEstimate": 19
     },
@@ -159,7 +164,7 @@
       "ID": "10-BridgeBuilder",
       "SetID": "5iij4gg",
       "Name": "Bridge Builder",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
       "UsersEstimate": 19
     },
@@ -280,7 +285,7 @@
     {
       "ID": "5iij4gg",
       "IsBase": true,
-      "Progressed": 84,
+      "Progressed": 85,
       "Completed": 0
     }
   ],
@@ -288,8 +293,8 @@
   "FirstSeenRating": "2023-03-31T05:57:02.114987+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.1369826+00:00",
   "LastChanged": "2023-03-31T05:57:02.1149872+00:00",
-  "LastChanged_Achievements": "2023-07-08T18:07:01.0952236+00:00",
+  "LastChanged_Achievements": "2023-07-08T19:06:42.7436814+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:54.920625+00:00",
-  "LastUpdate_Ratings": "2023-07-08T18:01:07.1631109+00:00",
-  "LastUpdate_Achievements": "2023-07-08T18:07:01.095242+00:00"
+  "LastUpdate_Ratings": "2023-07-08T19:00:57.2230189+00:00",
+  "LastUpdate_Achievements": "2023-07-08T19:06:42.7436951+00:00"
 }

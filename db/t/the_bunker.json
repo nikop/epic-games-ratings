@@ -4,7 +4,7 @@
   "ProductSlug": "the-bunker-03b712",
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -253,17 +253,17 @@
       "ID": "CHAPTER_11_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Awakenings",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "CHAPTER_12_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Cold Storage",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "LEAVE",
@@ -374,8 +374,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.332275+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:47.0734489+00:00",
   "LastChanged": "2023-03-31T05:58:47.3322751+00:00",
-  "LastChanged_Achievements": "2023-07-08T18:04:07.8513194+00:00",
+  "LastChanged_Achievements": "2023-07-08T19:03:47.6968763+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:36.4273003+00:00",
-  "LastUpdate_Ratings": "2023-07-08T17:58:29.3142119+00:00",
-  "LastUpdate_Achievements": "2023-07-08T18:04:07.8513397+00:00"
+  "LastUpdate_Ratings": "2023-07-08T18:58:12.7658077+00:00",
+  "LastUpdate_Achievements": "2023-07-08T19:03:47.696892+00:00"
 }

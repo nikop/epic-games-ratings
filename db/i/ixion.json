@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2785,
+  "EOS_Progressed": 2787,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3378,6 +3378,11 @@
       "Time": "2023-07-08T13:16:47.6061559+00:00",
       "NumProgressed": 2785,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-08T19:04:08.8912247+00:00",
+      "NumProgressed": 2787,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -3389,7 +3394,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "ACH_BASE_10",
@@ -3413,7 +3418,7 @@
       "Name": "Better Him Than Me",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_BASE_14",
@@ -3453,7 +3458,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "ACH_BASE_19",
@@ -3501,7 +3506,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "ACH_BASE_25",
@@ -3685,7 +3690,7 @@
       "Name": "Permanent Redesigns",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "ACH_BASE_49",
@@ -3844,13 +3849,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 966,
+      "Progressed": 968,
       "Completed": 5
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2785,
+      "Progressed": 2787,
       "Completed": 0
     }
   ],
@@ -3858,8 +3863,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-07-08T02:22:11.1138638+00:00",
-  "LastChanged_Achievements": "2023-07-08T18:04:29.1825235+00:00",
+  "LastChanged_Achievements": "2023-07-08T19:04:08.8912236+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:17.2355244+00:00",
-  "LastUpdate_Ratings": "2023-07-08T17:59:02.7242642+00:00",
-  "LastUpdate_Achievements": "2023-07-08T18:04:29.1826032+00:00"
+  "LastUpdate_Ratings": "2023-07-08T18:58:49.3657856+00:00",
+  "LastUpdate_Achievements": "2023-07-08T19:04:08.8912829+00:00"
 }

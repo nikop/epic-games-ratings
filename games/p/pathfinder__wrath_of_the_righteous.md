@@ -8,10 +8,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 20.00% | ~2,045 |
 | A Spark | 14.00% | ~1,432 |
-| Burning City | 13.00% | ~1,329 |
+| Burning City | 13.00% | ~1,330 |
 | Mythic Choices | 11.00% | ~1,125 |
 | Defender's Heart | 11.00% | ~1,125 |
-| Banner over the Citadel | 10.00% | ~1,022 |
+| Banner over the Citadel | 10.00% | ~1,023 |
 | Queen's Gratitude | 9.00% | ~920 |
 | Fifth Crusade | 6.00% | ~614 |
 | Embrace of the Abyss | 5.00% | ~511 |
@@ -30,13 +30,13 @@ Number of Ratings: 1,354  (23.09.2022)
 | Next-Door Play | 3.00% | ~307 |
 | Get the Toad | 3.00% | ~307 |
 | Beware Still Water | 3.00% | ~270 |
-| Heart of the Fallen Land | 2.00% | ~204 |
-| Path of the Trickster | 2.00% | ~204 |
-| Path of the Lich | 2.00% | ~204 |
-| Heroic Victory | 2.00% | ~204 |
-| Capitulation Is Now Moot | 2.00% | ~204 |
-| Core of the Riddle | 2.00% | ~204 |
-| Your First Big Enemy | 2.00% | ~204 |
+| Heart of the Fallen Land | 2.00% | ~205 |
+| Path of the Trickster | 2.00% | ~205 |
+| Path of the Lich | 2.00% | ~205 |
+| Heroic Victory | 2.00% | ~205 |
+| Capitulation Is Now Moot | 2.00% | ~205 |
+| Core of the Riddle | 2.00% | ~205 |
+| Your First Big Enemy | 2.00% | ~205 |
 | Stay Underground | 2.00% | ~180 |
 | Hanged Man's Notes | 2.00% | ~180 |
 | Sarkoris Will Be Green | 2.00% | ~180 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,225 (Ranked 116)  
+Progressed: 10,227 (Ranked 116)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-05 | 10,186 | 0 |
 | 2023-07-06 | 10,195 | 0 |
 | 2023-07-07 | 10,209 | 0 |
-| 2023-07-08 | 10,225 | 0 |
+| 2023-07-08 | 10,227 | 0 |
 ## Awards
 Max (Character Customization): 1,674  (Ranked 117)  
 Sum: 6,800 (Ranked 112)  

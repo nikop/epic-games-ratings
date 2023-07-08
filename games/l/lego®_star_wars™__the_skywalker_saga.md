@@ -22,7 +22,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | Return of the Jedi | 32.00% | ~15,949 |
 | The Force Awakens | 26.00% | ~12,959 |
 | The Last Jedi | 22.00% | ~10,965 |
-| The Rise of Skywalker | 19.00% | ~9,470 |
+| The Rise of Skywalker | 20.00% | ~9,968 |
 | ''It's true... all of it'' | 18.00% | ~8,971 |
 | ''Get the crews to their fighters'' | 18.00% | ~8,971 |
 | ''Raw, untamed power'' | 8.00% | ~3,987 |

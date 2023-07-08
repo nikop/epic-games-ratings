@@ -2,12 +2,12 @@
   "ID": "2a14cf8a83b149919a2399504e5686a6",
   "Name": "The Sims\u2122 4",
   "ProductSlug": "the-sims-4",
-  "Ranking_Rating": 344,
+  "Ranking_Rating": 343,
   "Ranking_Popularity": 195,
   "Ranking_PopularitySum": 160,
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-02-02T18:00:00+00:00",
@@ -3930,6 +3930,6 @@
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
   "LastChanged": "2023-07-08T13:58:00.9456306+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:00.4729128+00:00",
-  "LastUpdate_Ratings": "2023-07-08T17:58:01.2501894+00:00",
-  "LastUpdate_Achievements": "2023-07-08T18:02:13.607861+00:00"
+  "LastUpdate_Ratings": "2023-07-08T18:57:44.3057415+00:00",
+  "LastUpdate_Achievements": "2023-07-08T19:01:33.2700522+00:00"
 }

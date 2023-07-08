@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 135,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -2639,7 +2639,7 @@
   "EOS_Progressed": 49841,
   "EOS_Completed": 203,
   "EOS_NewPlayers": 54,
-  "EOS_NewCompleters": 5,
+  "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
     {
@@ -8876,9 +8876,9 @@
       "ID": "COMPLETE_EPISODE_9",
       "SetID": "3fcpmbm",
       "Name": "The Rise of Skywalker",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 9470
+      "UsersEstimate": 9968
     },
     {
       "ID": "COMPLETE_FAULTYDROID_ON_TATOOINE",
@@ -9068,8 +9068,8 @@
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-07-08T02:24:49.7741322+00:00",
-  "LastChanged_Achievements": "2023-07-08T18:03:15.1687488+00:00",
+  "LastChanged_Achievements": "2023-07-08T19:02:24.2765902+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:13.8094619+00:00",
-  "LastUpdate_Ratings": "2023-07-08T18:01:24.2948471+00:00",
-  "LastUpdate_Achievements": "2023-07-08T18:03:15.1688228+00:00"
+  "LastUpdate_Ratings": "2023-07-08T19:01:13.1073656+00:00",
+  "LastUpdate_Achievements": "2023-07-08T19:02:24.2766438+00:00"
 }

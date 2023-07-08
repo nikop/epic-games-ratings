@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 80,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -5052,9 +5052,9 @@
       "Count": 360
     }
   ],
-  "EOS_Progressed": 710580,
+  "EOS_Progressed": 710584,
   "EOS_Completed": 12808,
-  "EOS_NewPlayers": 204,
+  "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -12542,6 +12542,11 @@
       "Time": "2023-07-08T18:07:06.6638675+00:00",
       "NumProgressed": 710580,
       "NumCompleted": 12808
+    },
+    {
+      "Time": "2023-07-08T19:06:48.8329584+00:00",
+      "NumProgressed": 710584,
+      "NumCompleted": 12808
     }
   ],
   "TotalAchievements": 50,
@@ -12609,7 +12614,7 @@
       "Name": "Tiger on Fire",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 4263
+      "UsersEstimate": 4264
     },
     {
       "ID": "09_Wude_H3",
@@ -12617,7 +12622,7 @@
       "Name": "Source of Flying Daggers",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 4263
+      "UsersEstimate": 4264
     },
     {
       "ID": "10_Wude_H4",
@@ -12625,7 +12630,7 @@
       "Name": "Iron Money",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 4263
+      "UsersEstimate": 4264
     },
     {
       "ID": "11_Wude_H5",
@@ -12663,9 +12668,9 @@
       "ID": "15_Detective_H1",
       "SetID": "adcm20g",
       "Name": "Detective Story",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 4263
+      "UsersEstimate": 4974
     },
     {
       "ID": "16_Detective_H2",
@@ -12952,21 +12957,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 19881,
+      "Progressed": 19885,
       "Completed": 10374
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 710580,
+      "Progressed": 710584,
       "Completed": 12808
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-08T14:58:57.9646695+00:00",
-  "LastChanged_Achievements": "2023-07-08T18:07:06.6638668+00:00",
+  "LastChanged_Achievements": "2023-07-08T19:06:48.832958+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:05.6915334+00:00",
-  "LastUpdate_Ratings": "2023-07-08T17:59:38.610349+00:00",
-  "LastUpdate_Achievements": "2023-07-08T18:07:06.6639587+00:00"
+  "LastUpdate_Ratings": "2023-07-08T18:59:27.9695339+00:00",
+  "LastUpdate_Achievements": "2023-07-08T19:06:48.8330249+00:00"
 }

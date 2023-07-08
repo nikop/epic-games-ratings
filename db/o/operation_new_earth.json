@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 372,
+  "EOS_Progressed": 374,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1271,6 +1271,11 @@
       "Time": "2023-07-08T17:04:51.7008736+00:00",
       "NumProgressed": 372,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-08T19:04:51.2922652+00:00",
+      "NumProgressed": 374,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1384,9 +1389,9 @@
       "ID": "objective_headquarters_5",
       "SetID": "bm61c2p",
       "Name": "Facility Online",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 135
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -1394,7 +1399,7 @@
       "Name": "Corporal",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -1418,7 +1423,7 @@
       "Name": "Captain",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -1458,7 +1463,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -1474,7 +1479,7 @@
       "Name": "Getting Deployment",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -1504,9 +1509,9 @@
       "ID": "objective_key_objectives_completed_2",
       "SetID": "bm61c2p",
       "Name": "On Target",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 52
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -1522,7 +1527,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -1530,7 +1535,7 @@
       "Name": "Factory Expansion",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -1585,14 +1590,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 372,
+      "Progressed": 374,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-08T18:05:11.2120953+00:00",
+  "LastChanged_Achievements": "2023-07-08T19:04:51.2922648+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:58.5226048+00:00",
-  "LastUpdate_Ratings": "2023-07-08T18:01:09.5689574+00:00",
-  "LastUpdate_Achievements": "2023-07-08T18:05:11.2121309+00:00"
+  "LastUpdate_Ratings": "2023-07-08T19:00:59.7625937+00:00",
+  "LastUpdate_Achievements": "2023-07-08T19:04:51.292293+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -4161,9 +4161,9 @@
       "ID": "guardianmaster",
       "SetID": "3nl4bcg",
       "Name": "Guardian Master",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "guildpower",
@@ -4546,8 +4546,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-07-06T11:58:21.6174539+00:00",
-  "LastChanged_Achievements": "2023-07-08T18:07:06.2620616+00:00",
+  "LastChanged_Achievements": "2023-07-08T19:06:48.4558675+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:35.1051404+00:00",
-  "LastUpdate_Ratings": "2023-07-08T17:58:27.8097394+00:00",
-  "LastUpdate_Achievements": "2023-07-08T18:07:06.2621646+00:00"
+  "LastUpdate_Ratings": "2023-07-08T18:58:11.3109294+00:00",
+  "LastUpdate_Achievements": "2023-07-08T19:06:48.455944+00:00"
 }

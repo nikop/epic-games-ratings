@@ -7,15 +7,15 @@ Number of Ratings: 34  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Explorer | 63.00% | ~256 |
-| Cowardice | 55.00% | ~223 |
+| Cowardice | 55.00% | ~224 |
 | NO LIFE IS WORTH SAVING... | 48.00% | ~195 |
 | Eat Lead! | 46.00% | ~187 |
+| Prospector | 42.00% | ~171 |
 | The Breaking Point | 42.00% | ~171 |
 | Here Comes the Boom | 42.00% | ~171 |
-| Prospector | 41.00% | ~166 |
-| Treasure Hunter | 38.00% | ~154 |
-| Sniper Wolf | 37.00% | ~150 |
-| The Motivation | 36.00% | ~146 |
+| Treasure Hunter | 38.00% | ~155 |
+| Sniper Wolf | 37.00% | ~151 |
+| The Motivation | 36.00% | ~147 |
 | Heroism | 34.00% | ~138 |
 | Missing in Action | 34.00% | ~138 |
 | Collectibles of Chapter I | 33.00% | ~134 |
@@ -23,21 +23,21 @@ Number of Ratings: 34  (23.09.2022)
 | King of Knives | 30.00% | ~122 |
 | Opportunities | 28.00% | ~114 |
 | The Horror | 26.00% | ~106 |
-| The Difference | 24.00% | ~97 |
-| Collectibles of Chapter II | 22.00% | ~89 |
-| Vengeance | 22.00% | ~89 |
-| It's Just an Accident | 22.00% | ~89 |
+| The Difference | 24.00% | ~98 |
+| Collectibles of Chapter II | 22.00% | ~90 |
+| Vengeance | 22.00% | ~90 |
+| It's Just an Accident | 22.00% | ~90 |
 | Broken Hopes | 19.00% | ~77 |
 | Bullseye! | 19.00% | ~77 |
-| Sorrow | 17.00% | ~69 |
 | Food Massacre | 17.00% | ~69 |
-| Collectibles of Chapter III | 15.00% | ~61 |
+| Sorrow | 16.00% | ~65 |
 | Collectibles of Chapter IV | 15.00% | ~61 |
 | Atonement | 15.00% | ~61 |
 | Helping Hand | 15.00% | ~61 |
+| Collectibles of Chapter III | 14.00% | ~57 |
 | Without a Second Thought | 13.00% | ~53 |
 | Collectibles of Chapter V | 10.00% | ~41 |
-| Tiptoe Around | 8.00% | ~32 |
+| Tiptoe Around | 8.00% | ~33 |
 | Such is War! | 7.00% | ~28 |
 | Collectibles of Chapter XII | 6.00% | ~24 |
 | Piece of Cake | 6.00% | ~24 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 406 (Ranked 223)  
+Progressed: 407 (Ranked 223)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-03 | 398 | 0 |
 | 2023-07-04 | 400 | 0 |
 | 2023-07-07 | 403 | 0 |
-| 2023-07-08 | 406 | 0 |
+| 2023-07-08 | 407 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

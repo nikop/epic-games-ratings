@@ -3062,9 +3062,9 @@
       "Count": 380
     }
   ],
-  "EOS_Progressed": 10225,
+  "EOS_Progressed": 10227,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8012,6 +8012,11 @@
       "Time": "2023-07-08T18:03:55.7228232+00:00",
       "NumProgressed": 10225,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-08T19:03:35.6318779+00:00",
+      "NumProgressed": 10227,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -8031,7 +8036,7 @@
       "Name": "Burning City",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1329
+      "UsersEstimate": 1330
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -8039,7 +8044,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1023
     },
     {
       "ID": "04_FithCrusade",
@@ -8063,7 +8068,7 @@
       "Name": "Heart of the Fallen Land",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "07_FinalThreshold",
@@ -8111,7 +8116,7 @@
       "Name": "Path of the Trickster",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "13_PathOfLich",
@@ -8119,7 +8124,7 @@
       "Name": "Path of the Lich",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "14_PathOfSwarm",
@@ -8247,7 +8252,7 @@
       "Name": "Heroic Victory",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "31_DivideAndRule",
@@ -8279,7 +8284,7 @@
       "Name": "Capitulation Is Now Moot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "35_AbyssalConspiracy",
@@ -8295,7 +8300,7 @@
       "Name": "Core of the Riddle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "37_FirstBigEnemy",
@@ -8303,7 +8308,7 @@
       "Name": "Your First Big Enemy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "38_PrelatesNemesis",
@@ -8950,21 +8955,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9007,
+      "Progressed": 9009,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10225,
+      "Progressed": 10227,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-08T10:59:04.6378997+00:00",
-  "LastChanged_Achievements": "2023-07-08T18:03:55.7228229+00:00",
+  "LastChanged_Achievements": "2023-07-08T19:03:35.6318768+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:12.7052521+00:00",
-  "LastUpdate_Ratings": "2023-07-08T17:58:58.1465916+00:00",
-  "LastUpdate_Achievements": "2023-07-08T18:03:55.7230032+00:00"
+  "LastUpdate_Ratings": "2023-07-08T18:58:45.0583482+00:00",
+  "LastUpdate_Achievements": "2023-07-08T19:03:35.6320245+00:00"
 }

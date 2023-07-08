@@ -4,7 +4,7 @@
   "ProductSlug": "romancelvania-47d94a",
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-03-07T18:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:57:42.0189588+00:00",
   "LastChanged": "2023-03-31T05:57:42.0189589+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:13.8212148+00:00",
-  "LastUpdate_Ratings": "2023-07-08T17:58:13.7553068+00:00",
-  "LastUpdate_Achievements": "2023-07-08T18:04:34.1476985+00:00"
+  "LastUpdate_Ratings": "2023-07-08T18:57:57.2900359+00:00",
+  "LastUpdate_Achievements": "2023-07-08T19:04:13.8517084+00:00"
 }

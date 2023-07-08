@@ -4,7 +4,7 @@
   "ProductSlug": "time-loader",
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-11-03T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 110,
+  "EOS_Progressed": 111,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.27,
+  "EOS_Completed_Percentage": 7.21,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:23.4088376+00:00",
@@ -116,6 +116,11 @@
       "Time": "2023-07-03T16:06:49.3638848+00:00",
       "NumProgressed": 110,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-08T19:06:44.6927586+00:00",
+      "NumProgressed": 111,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 29,
@@ -125,7 +130,7 @@
       "ID": "01_WRENCH",
       "SetID": "681m9fa",
       "Name": "Wrench",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 50,
       "UsersEstimate": 36
     },
@@ -133,9 +138,9 @@
       "ID": "02_Soap",
       "SetID": "681m9fa",
       "Name": "Soap",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "03_Cassette",
@@ -207,7 +212,7 @@
       "Name": "It\u2019s in the Vault",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "12_Purrfect",
@@ -215,13 +220,13 @@
       "Name": "Purr-fect",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "13_DrAntivirus",
       "SetID": "681m9fa",
       "Name": "Dr. Antivirus",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 16
     },
@@ -239,7 +244,7 @@
       "Name": "Screwdriver",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "16_Springs",
@@ -253,7 +258,7 @@
       "ID": "17_Capacitors",
       "SetID": "681m9fa",
       "Name": "Capacitors",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
       "UsersEstimate": 36
     },
@@ -279,7 +284,7 @@
       "Name": "Access protocol",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "21_RobotBros",
@@ -333,7 +338,7 @@
       "ID": "27_Act1",
       "SetID": "681m9fa",
       "Name": "Act 1",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 70,
       "UsersEstimate": 37
     },
@@ -341,9 +346,9 @@
       "ID": "28_Act2",
       "SetID": "681m9fa",
       "Name": "Act 2",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 70,
-      "UsersEstimate": 28
+      "UsersEstimate": 27
     },
     {
       "ID": "29_Act3",
@@ -358,7 +363,7 @@
     {
       "ID": "681m9fa",
       "IsBase": true,
-      "Progressed": 110,
+      "Progressed": 111,
       "Completed": 8
     }
   ],
@@ -366,8 +371,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.0272628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.4088384+00:00",
   "LastChanged": "2023-03-31T05:58:23.0272628+00:00",
-  "LastChanged_Achievements": "2023-07-08T18:07:02.7345462+00:00",
+  "LastChanged_Achievements": "2023-07-08T19:06:44.6927582+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:26.087187+00:00",
-  "LastUpdate_Ratings": "2023-07-08T17:58:21.4280282+00:00",
-  "LastUpdate_Achievements": "2023-07-08T18:07:02.7345683+00:00"
+  "LastUpdate_Ratings": "2023-07-08T18:58:05.0040697+00:00",
+  "LastUpdate_Achievements": "2023-07-08T19:06:44.6927755+00:00"
 }
