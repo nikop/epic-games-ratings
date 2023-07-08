@@ -6,33 +6,33 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,248 |
-| The Mad Wizard | 11.00% | ~22,915 |
-| The Ring of Regeneration | 7.00% | ~14,582 |
-| Are Ya Chicken? | 7.00% | ~14,582 |
-| Were-verpowered | 5.00% | ~10,416 |
-| Seeking Allies | 5.00% | ~10,416 |
-| Mad Cow Disease | 5.00% | ~10,416 |
-| Friendly Imps | 5.00% | ~10,416 |
-| A Persistent Buzzing | 4.00% | ~8,333 |
-| Pure Energy | 4.00% | ~8,333 |
+| The Cursed Farmer | 15.00% | ~31,251 |
+| The Mad Wizard | 11.00% | ~22,918 |
+| The Ring of Regeneration | 7.00% | ~14,584 |
+| Are Ya Chicken? | 7.00% | ~14,584 |
+| Were-verpowered | 5.00% | ~10,417 |
+| Seeking Allies | 5.00% | ~10,417 |
+| Mad Cow Disease | 5.00% | ~10,417 |
+| Friendly Imps | 5.00% | ~10,417 |
+| A Persistent Buzzing | 4.00% | ~8,334 |
+| Pure Energy | 4.00% | ~8,334 |
 | Beast Mode | 3.00% | ~6,250 |
 | Terror in the Dark | 3.00% | ~6,250 |
 | Unearthed Evil | 3.00% | ~6,250 |
 | The Crumbling Temple | 3.00% | ~6,250 |
 | Exploring Port Nyanzaru | 3.00% | ~6,250 |
 | The Contagious Curse | 3.00% | ~6,250 |
-| Low Initiative | 2.00% | ~4,166 |
-| A Mysterious Summons | 2.00% | ~4,166 |
-| Building Trust | 2.00% | ~4,166 |
-| No Time To Rest | 2.00% | ~4,166 |
-| Useless Allies | 2.00% | ~4,166 |
-| Running of the Saurs | 2.00% | ~4,166 |
-| Escort to Waterdeep | 2.00% | ~4,166 |
-| Waterdeep Detours | 2.00% | ~4,166 |
-| Underdeep Cartography | 2.00% | ~4,166 |
-| Overdue Rendezvous | 2.00% | ~4,166 |
-| The Templar's Camp | 2.00% | ~4,166 |
+| Low Initiative | 2.00% | ~4,167 |
+| A Mysterious Summons | 2.00% | ~4,167 |
+| Building Trust | 2.00% | ~4,167 |
+| No Time To Rest | 2.00% | ~4,167 |
+| Useless Allies | 2.00% | ~4,167 |
+| Running of the Saurs | 2.00% | ~4,167 |
+| Escort to Waterdeep | 2.00% | ~4,167 |
+| Waterdeep Detours | 2.00% | ~4,167 |
+| Underdeep Cartography | 2.00% | ~4,167 |
+| Overdue Rendezvous | 2.00% | ~4,167 |
+| The Templar's Camp | 2.00% | ~4,167 |
 | Homecoming | 1.00% | ~2,083 |
 | Street War | 1.00% | ~2,083 |
 | March of the Undead | 1.00% | ~2,083 |
@@ -66,6 +66,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Darkness Runs Deeper | 0.70% | ~1,458 |
 | The Giant's Bane Tavern | 0.70% | ~1,222 |
 | Rude Welcome | 0.70% | ~1,458 |
+| Durable Deep | 0.70% | ~1,458 |
 | The Haunted Jungle | 0.70% | ~1,458 |
 | Family Entanglements | 0.60% | ~1,250 |
 | The Immortal Warrior | 0.60% | ~1,250 |
@@ -76,7 +77,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Crowded Streets | 0.60% | ~1,250 |
 | Difficult Terrain | 0.60% | ~1,250 |
 | Market Fluctuations | 0.60% | ~1,250 |
-| Durable Deep | 0.60% | ~1,250 |
 | Home Field Advantage | 0.50% | ~1,042 |
 | Force Grey Unleashed | 0.50% | ~1,042 |
 | Sleuth It Out | 0.50% | ~1,042 |
@@ -510,8 +510,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,318 (Ranked 52)  
-Completed: 2,038 (0.98%) (Ranked 102)  
+Progressed: 208,341 (Ranked 52)  
+Completed: 2,039 (0.98%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -589,19 +589,19 @@ Completed: 2,038 (0.98%) (Ranked 102)
 | 2023-07-05 | 206,889 | 2,032 |
 | 2023-07-06 | 207,486 | 2,035 |
 | 2023-07-07 | 208,152 | 2,037 |
-| 2023-07-08 | 208,318 | 2,038 |
+| 2023-07-08 | 208,341 | 2,039 |
 ## Awards
 Max (Diverse Characters): 5,013  (Ranked 65)  
-Sum: 30,436 (Ranked 37)  
+Sum: 30,444 (Ranked 37)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,013 |
 | This game is Great for Beginners | 4,946 |
-| This game has Quickly Understood Controls | 4,650 |
+| This game has Quickly Understood Controls | 4,652 |
 | This game is Relaxing | 4,546 |
+| This game is Highly Recommended | 3,997 |
 | This game has Amazing Characters | 3,997 |
-| This game is Highly Recommended | 3,991 |
 | This game has Playful Visuals | 3,293 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -769,3 +769,4 @@ Diff (max vs sum): 28
 | 2023-07-05 | 4.05 | - | 5,005 | 30,400 |
 | 2023-07-06 | 4.05 | - | 5,009 | 30,419 |
 | 2023-07-07 | 4.05 | - | 5,013 | 30,436 |
+| 2023-07-08 | 4.05 | - | 5,013 | 30,444 |

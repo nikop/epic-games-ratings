@@ -37,11 +37,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Refinery | 1.00% | ~157 |
 | Ruined Armory | 1.00% | ~157 |
 | Dangerous Lands | 1.00% | ~157 |
+| Fishmen Ritual Site | 1.00% | ~157 |
 | Forbidden Lands | 1.00% | ~157 |
 | Forsaken Gods Temple | 1.00% | ~157 |
 | Defying the Crown | 1.00% | ~157 |
 | Into the Forest | 1.00% | ~157 |
-| Fishmen Ritual Site | 0.90% | ~141 |
 | Efficient Explorer | 0.70% | ~110 |
 | Prestigious Expedition | 0.60% | ~94 |
 | Blood Flower Farmer | 0.60% | ~94 |

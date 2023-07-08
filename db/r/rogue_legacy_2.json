@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1245,9 +1245,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 22437,
+  "EOS_Progressed": 22438,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -5100,6 +5100,11 @@
       "Time": "2023-07-08T02:30:43.8334239+00:00",
       "NumProgressed": 22437,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-07-08T08:05:49.668895+00:00",
+      "NumProgressed": 22438,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -5207,7 +5212,7 @@
       "Name": "Hands and Hammers",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "BossFinalAdvancedDefeated",
@@ -5422,21 +5427,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 22437,
+      "Progressed": 22438,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 1367,
+      "Progressed": 1368,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-07-07T23:59:52.7458147+00:00",
-  "LastChanged_Achievements": "2023-07-08T07:06:09.185505+00:00",
+  "LastChanged_Achievements": "2023-07-08T08:05:49.6688941+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:19.0758026+00:00",
-  "LastUpdate_Ratings": "2023-07-08T06:59:11.6409886+00:00",
-  "LastUpdate_Achievements": "2023-07-08T07:06:09.1855578+00:00"
+  "LastUpdate_Ratings": "2023-07-08T07:58:52.2314154+00:00",
+  "LastUpdate_Achievements": "2023-07-08T08:05:49.6689506+00:00"
 }

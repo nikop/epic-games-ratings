@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1181,9 +1181,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 122835,
+  "EOS_Progressed": 122837,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 342,
+  "EOS_NewPlayers": 343,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -8756,6 +8756,11 @@
       "Time": "2023-07-08T07:00:56.4329186+00:00",
       "NumProgressed": 122835,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-07-08T08:02:09.9949112+00:00",
+      "NumProgressed": 122837,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 40,
@@ -8799,7 +8804,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 22110
+      "UsersEstimate": 22111
     },
     {
       "ID": "ACH_COP_BAD",
@@ -8823,7 +8828,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 29480
+      "UsersEstimate": 29481
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -8903,7 +8908,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 18425
+      "UsersEstimate": 18426
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -9086,15 +9091,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 122835,
+      "Progressed": 122837,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-07-07T16:59:40.5892511+00:00",
-  "LastChanged_Achievements": "2023-07-08T07:00:56.4329182+00:00",
+  "LastChanged_Achievements": "2023-07-08T08:02:09.9949106+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:13.7032583+00:00",
-  "LastUpdate_Ratings": "2023-07-08T06:59:08.3096132+00:00",
-  "LastUpdate_Achievements": "2023-07-08T07:00:56.4329955+00:00"
+  "LastUpdate_Ratings": "2023-07-08T07:58:48.8135736+00:00",
+  "LastUpdate_Achievements": "2023-07-08T08:02:09.9949878+00:00"
 }

@@ -5,10 +5,10 @@ Rating: 4.09 (Ranked 890)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,474 |
-| World Map | 79.00% | ~1,252 |
-| Temple of Eternals | 57.00% | ~903 |
-| Prestigious | 53.00% | ~840 |
+| Victor | 93.00% | ~1,475 |
+| World Map | 79.00% | ~1,253 |
+| Temple of Eternals | 57.00% | ~904 |
+| Prestigious | 53.00% | ~841 |
 | Fellowship Power | 41.00% | ~650 |
 | Guild Power | 25.00% | ~396 |
 | Prestigious x10 | 21.00% | ~333 |
@@ -28,7 +28,7 @@ Rating: 4.09 (Ranked 890)
 | Superior | 12.00% | ~190 |
 | The Unstoppable | 12.00% | ~190 |
 | Scientist | 11.00% | ~174 |
-| Hunter | 10.00% | ~158 |
+| Hunter | 10.00% | ~159 |
 | Challenger | 9.00% | ~143 |
 | Daily Quest Completionist | 9.00% | ~143 |
 | Doing My Part | 9.00% | ~143 |
@@ -81,7 +81,7 @@ Rating: 4.09 (Ranked 890)
 | War Machines Army | 0.20% | ~3 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,585 (Ranked 169)  
+Progressed: 1,586 (Ranked 169)  
 Completed: 1 (0.06%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 1 (0.06%) (Ranked 197)
 | 2023-07-05 | 1,573 | 1 |
 | 2023-07-06 | 1,577 | 1 |
 | 2023-07-07 | 1,584 | 1 |
-| 2023-07-08 | 1,585 | 1 |
+| 2023-07-08 | 1,586 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

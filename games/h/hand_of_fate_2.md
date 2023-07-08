@@ -6,17 +6,17 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~474,468 |
-| Apprentice | 58.00% | ~382,210 |
+| The Fool | 72.00% | ~474,470 |
+| Apprentice | 58.00% | ~382,212 |
 | Close Shave | 25.00% | ~164,746 |
-| Mercenary | 23.00% | ~151,566 |
-| Ninja | 23.00% | ~151,566 |
-| Northern Scourge | 17.00% | ~112,027 |
+| Mercenary | 23.00% | ~151,567 |
+| Ninja | 23.00% | ~151,567 |
+| Northern Scourge | 17.00% | ~112,028 |
 | Thief Bane | 14.00% | ~92,258 |
 | Master of Arms | 12.00% | ~79,078 |
-| Gambler | 10.00% | ~65,898 |
-| Dice Master | 10.00% | ~65,898 |
-| Swordsman | 9.00% | ~59,308 |
+| Gambler | 10.00% | ~65,899 |
+| Dice Master | 10.00% | ~65,899 |
+| Swordsman | 9.00% | ~59,309 |
 | Knight | 8.00% | ~52,719 |
 | Cure for Corruption | 8.00% | ~52,719 |
 | Focused | 8.00% | ~52,719 |
@@ -28,9 +28,9 @@ Number of Ratings: 780  (23.09.2022)
 | Empire's Bane | 6.00% | ~39,539 |
 | Jack of all Trades | 5.00% | ~32,949 |
 | Smithy | 5.00% | ~32,949 |
-| Leap of Faith | 3.00% | ~19,769 |
-| Combat Ready | 3.00% | ~19,769 |
-| Stuffed Potato | 3.00% | ~19,769 |
+| Leap of Faith | 3.00% | ~19,770 |
+| Combat Ready | 3.00% | ~19,770 |
+| Stuffed Potato | 3.00% | ~19,770 |
 | Card Sharp | 2.00% | ~13,180 |
 | Magician | 2.00% | ~13,180 |
 | Draknar's Bane | 2.00% | ~13,180 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~659 |
 | Blood Pact | 0.10% | ~659 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 658,983 (Ranked 21)  
+Progressed: 658,986 (Ranked 21)  
 Completed: 165 (0.03%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 165 (0.03%) (Ranked 209)
 | 2023-07-05 | 658,888 | 165 |
 | 2023-07-06 | 658,931 | 165 |
 | 2023-07-07 | 658,973 | 165 |
-| 2023-07-08 | 658,983 | 165 |
+| 2023-07-08 | 658,986 | 165 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 434)  
 Sum: 180 (Ranked 372)  

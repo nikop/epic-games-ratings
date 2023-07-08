@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -382,7 +382,7 @@
   "Tags": [],
   "EOS_Progressed": 3228,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -5165,9 +5165,9 @@
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
       "SetID": "bm6el81",
       "Name": "Brains of the Operation",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 32
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -5372,8 +5372,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-05T19:03:38.4770688+00:00",
-  "LastChanged_Achievements": "2023-07-08T07:00:39.3635634+00:00",
+  "LastChanged_Achievements": "2023-07-08T08:00:16.5240765+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:07.1687539+00:00",
-  "LastUpdate_Ratings": "2023-07-08T07:00:24.4382501+00:00",
-  "LastUpdate_Achievements": "2023-07-08T07:00:39.3636869+00:00"
+  "LastUpdate_Ratings": "2023-07-08T07:59:59.623491+00:00",
+  "LastUpdate_Achievements": "2023-07-08T08:00:16.5241889+00:00"
 }

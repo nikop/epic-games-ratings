@@ -7,19 +7,19 @@ Number of Ratings: 524  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Follow the Light | 33.00% | ~18,814 |
-| Let There Be Light | 27.00% | ~15,393 |
+| Let There Be Light | 27.00% | ~15,394 |
 | Float Like a Butterfly | 26.00% | ~14,823 |
 | Nordic Walking | 21.00% | ~11,973 |
-| Bright Falls' Finest | 20.00% | ~11,402 |
+| Bright Falls' Finest | 20.00% | ~11,403 |
 | Under a Thin Layer of Skin | 18.00% | ~10,262 |
 | Park Ranger | 15.00% | ~8,552 |
 | Paging Mr. Wake | 15.00% | ~8,552 |
 | Back! Back, I Say! | 14.00% | ~7,982 |
 | Finders Keepers | 14.00% | ~7,982 |
 | Damn Good Cup of Coffee | 13.00% | ~7,412 |
-| They're Heeeeeere! | 12.00% | ~6,841 |
-| Sound and Fury | 12.00% | ~6,841 |
-| Missed by a Mile | 12.00% | ~6,841 |
+| They're Heeeeeere! | 12.00% | ~6,842 |
+| Sound and Fury | 12.00% | ~6,842 |
+| Missed by a Mile | 12.00% | ~6,842 |
 | Iron Horse | 11.00% | ~6,271 |
 | Wheels Within Wheels | 11.00% | ~6,271 |
 | The Six-Gun Scribe | 11.00% | ~6,271 |
@@ -42,10 +42,10 @@ Number of Ratings: 524  (23.09.2022)
 | Drink 'Em Both Up | 5.00% | ~2,851 |
 | Hardboiled Writer | 5.00% | ~2,851 |
 | Ding! | 5.00% | ~1,024 |
-| Boob Tube | 4.00% | ~2,280 |
-| Children of the Elder God | 4.00% | ~2,280 |
-| If It Flies, It Burns | 4.00% | ~2,280 |
-| KBF-FM | 4.00% | ~2,280 |
+| Boob Tube | 4.00% | ~2,281 |
+| Children of the Elder God | 4.00% | ~2,281 |
+| If It Flies, It Burns | 4.00% | ~2,281 |
+| KBF-FM | 4.00% | ~2,281 |
 | Kill Your Darlings | 3.00% | ~614 |
 | Heartbreaker | 3.00% | ~614 |
 | Medical Opinions | 2.00% | ~1,140 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~57 |
 | No Punctuation | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,012 (Ranked 80)  
+Progressed: 57,013 (Ranked 80)  
 Completed: 57 (0.10%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 57 (0.10%) (Ranked 183)
 | 2023-07-05 | 56,875 | 57 |
 | 2023-07-06 | 56,931 | 57 |
 | 2023-07-07 | 56,982 | 57 |
-| 2023-07-08 | 57,012 | 57 |
+| 2023-07-08 | 57,013 | 57 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

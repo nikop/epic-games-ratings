@@ -5,23 +5,23 @@ Rating: 4.40 (Ranked 688)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~716,074 |
-| The ABCs | 43.00% | ~628,392 |
-| Home Run | 41.00% | ~599,164 |
-| Keeps Coming Off | 41.00% | ~599,164 |
-| Guts | 20.00% | ~292,275 |
-| Meat Grinder | 20.00% | ~292,275 |
-| Burning Man | 16.00% | ~233,820 |
-| Lived to Tell the Tale | 12.00% | ~175,365 |
-| Highlander | 10.00% | ~146,138 |
-| Unstoppable | 10.00% | ~146,138 |
-| Just a Scratch | 9.00% | ~131,524 |
-| Tough Nut to Crack | 6.00% | ~87,683 |
-| Yoink | 6.00% | ~87,683 |
-| Long List of Names | 4.00% | ~58,455 |
-| Pyromaniac | 4.00% | ~58,455 |
-| The Queen of Weapons | 4.00% | ~58,455 |
-| This isn’t Sparta | 3.00% | ~43,841 |
+| Justice from the Grave | 49.00% | ~716,090 |
+| The ABCs | 43.00% | ~628,405 |
+| Home Run | 41.00% | ~599,177 |
+| Keeps Coming Off | 41.00% | ~599,177 |
+| Guts | 20.00% | ~292,282 |
+| Meat Grinder | 20.00% | ~292,282 |
+| Burning Man | 16.00% | ~233,825 |
+| Lived to Tell the Tale | 12.00% | ~175,369 |
+| Highlander | 10.00% | ~146,141 |
+| Unstoppable | 10.00% | ~146,141 |
+| Just a Scratch | 9.00% | ~131,527 |
+| Tough Nut to Crack | 6.00% | ~87,684 |
+| Yoink | 6.00% | ~87,684 |
+| Long List of Names | 4.00% | ~58,456 |
+| Pyromaniac | 4.00% | ~58,456 |
+| The Queen of Weapons | 4.00% | ~58,456 |
+| This isn’t Sparta | 3.00% | ~43,842 |
 | Crybaby | 2.00% | ~29,228 |
 | Eagle Eye | 2.00% | ~29,228 |
 | I Know Kung Fu | 2.00% | ~29,228 |
@@ -44,7 +44,7 @@ Rating: 4.40 (Ranked 688)
 | That’s No Ordinary Cold | 0.10% | ~1,461 |
 | Stairway to Hell | 0.10% | ~1,461 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,461,376 (Ranked 7)  
+Progressed: 1,461,408 (Ranked 7)  
 Completed: 44 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,11 +123,11 @@ Completed: 44 (0.00%) (Ranked 237)
 | 2023-07-05 | 1,458,678 | 43 |
 | 2023-07-06 | 1,459,821 | 44 |
 | 2023-07-07 | 1,461,048 | 44 |
-| 2023-07-08 | 1,461,376 | 44 |
+| 2023-07-08 | 1,461,408 | 44 |
 ## Awards
 Max (Highly Recommended): 366  (Ranked 217)  
-Sum: 2,151 (Ranked 189)  
-Diff (max vs sum): 28  
+Sum: 2,151 (Ranked 190)  
+Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 366 |

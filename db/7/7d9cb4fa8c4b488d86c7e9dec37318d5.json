@@ -4,8 +4,8 @@
   "ProductSlug": "suicide-guy-9f7963",
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-06-14T00:00:00+00:00",
     "PcReleaseDate": "2017-06-14T00:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 164,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -699,9 +699,9 @@
       "ID": "Game Completed",
       "SetID": "1fffk9d",
       "Name": "Congrats",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 200,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "Statue Collector Complete",
@@ -762,8 +762,8 @@
   ],
   "FirstSeen": "2023-06-15T07:57:21.3305809+00:00",
   "FirstSeenAchievements": "2023-05-16T16:00:57.0168149+00:00",
-  "LastChanged_Achievements": "2023-07-08T07:05:07.1710307+00:00",
+  "LastChanged_Achievements": "2023-07-08T08:04:47.7728536+00:00",
   "LastUpdate_AppInfo": "2023-07-04T21:57:03.7334577+00:00",
-  "LastUpdate_Ratings": "2023-07-08T06:57:16.924513+00:00",
-  "LastUpdate_Achievements": "2023-07-08T07:05:07.1710589+00:00"
+  "LastUpdate_Ratings": "2023-07-08T07:57:06.9696933+00:00",
+  "LastUpdate_Achievements": "2023-07-08T08:04:47.7728661+00:00"
 }

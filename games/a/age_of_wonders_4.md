@@ -38,8 +38,8 @@ Rating: 4.61 (Ranked 361)
 | The Magic That Empowers Me! | 0.90% | ~44 |
 | God Emperor | 0.90% | ~44 |
 | Eternal Lord | 0.90% | ~44 |
-| The Eternal Court | 0.80% | ~40 |
-| Lord of Chaos | 0.70% | ~35 |
+| The Eternal Court | 0.90% | ~44 |
+| Lord of Chaos | 0.80% | ~40 |
 | Crimson Caldera | 0.70% | ~35 |
 | Jack of All Tomes | 0.70% | ~35 |
 | Grexolis | 0.60% | ~30 |
