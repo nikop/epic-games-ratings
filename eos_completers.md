@@ -23,7 +23,7 @@
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.26% |
 | 22 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.00% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.53% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.52% |
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.33% |
 | 27 | [Time Loader](games/t/time_loader.md) | 7.21% |
@@ -46,9 +46,9 @@
 | 44 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 3.70% |
 | 45 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
 | 46 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.63% |
-| 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 3.57% |
-| 48 | [Doodle God](games/d/doodle_god.md) | 3.56% |
-| 49 | [ZZT!](games/z/zzt!.md) | 3.50% |
+| 47 | [Doodle God](games/d/doodle_god.md) | 3.56% |
+| 48 | [ZZT!](games/z/zzt!.md) | 3.50% |
+| 49 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 3.45% |
 | 50 | [Bunny Park](games/b/bunny_park.md) | 3.42% |
 | 51 | [Monster Harvest](games/m/monster_harvest.md) | 3.38% |
 | 52 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.33% |
@@ -66,10 +66,10 @@
 | 64 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 65 | [Lamentum](games/l/lamentum.md) | 2.67% |
 | 66 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
-| 67 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.58% |
+| 67 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.57% |
 | 68 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 69 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
-| 70 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.42% |
+| 70 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.41% |
 | 71 | [Bloodshore](games/b/bloodshore.md) | 2.30% |
 | 71 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.30% |
 | 73 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
@@ -127,9 +127,9 @@
 | 125 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.53% |
 | 126 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.51% |
 | 127 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
-| 128 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.48% |
 | 128 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.48% |
-| 130 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.47% |
+| 129 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
+| 129 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.47% |
 | 131 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
 | 132 | [Ghostrunner](games/g/ghostrunner.md) | 0.43% |
 | 133 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
@@ -137,18 +137,18 @@
 | 135 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.41% |
 | 135 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.41% |
 | 137 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.40% |
-| 138 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
-| 139 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.35% |
-| 140 | [Scrapnaut](games/s/scrapnaut.md) | 0.34% |
-| 141 | [Dead Island 2](games/d/dead_island_2.md) | 0.33% |
-| 141 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.33% |
-| 141 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.33% |
-| 144 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.31% |
-| 144 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
-| 144 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
-| 144 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
-| 144 | [The Surge](games/t/the_surge.md) | 0.31% |
-| 144 | [Wildermyth](games/w/wildermyth.md) | 0.31% |
+| 138 | [Wildermyth](games/w/wildermyth.md) | 0.39% |
+| 139 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
+| 140 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.35% |
+| 141 | [Scrapnaut](games/s/scrapnaut.md) | 0.34% |
+| 142 | [Dead Island 2](games/d/dead_island_2.md) | 0.33% |
+| 142 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.33% |
+| 142 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.33% |
+| 145 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.31% |
+| 145 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
+| 145 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
+| 145 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 145 | [The Surge](games/t/the_surge.md) | 0.31% |
 | 150 | [Godlike Burger](games/g/godlike_burger.md) | 0.28% |
 | 150 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
 | 150 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.28% |
@@ -488,4 +488,4 @@
 | 237 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 237 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 237 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,884 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
+| 2,885 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
