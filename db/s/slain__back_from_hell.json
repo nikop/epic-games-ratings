@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 54,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 29248,
+  "EOS_Progressed": 29252,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 912,
+  "EOS_NewPlayers": 908,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -8676,6 +8676,11 @@
       "Time": "2023-07-08T22:03:18.3051261+00:00",
       "NumProgressed": 29248,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-07-08T23:03:46.1991853+00:00",
+      "NumProgressed": 29252,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -8703,7 +8708,7 @@
       "Name": "Start As You Mean To Go On",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "ACH_05_DEFEATED_THORN_BEAST",
@@ -8743,7 +8748,7 @@
       "Name": "Flame Retardant",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_10_DEFEATED_BANSHEE_QUEEN",
@@ -8751,7 +8756,7 @@
       "Name": "Enjoy The Silence",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ACH_11_WOLF_GUARD_CRUSHED",
@@ -8759,7 +8764,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1462
+      "UsersEstimate": 1463
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -8839,7 +8844,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1462
+      "UsersEstimate": 1463
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -8863,7 +8868,7 @@
       "Name": "Hail the Great Horned Metal God!",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "ACH_25_TALISMAN_COMPLETE",
@@ -8911,14 +8916,14 @@
       "Name": "Death or Glory",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     }
   ],
   "AchievementSets": [
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 29248,
+      "Progressed": 29252,
       "Completed": 20
     }
   ],
@@ -8926,8 +8931,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-07-08T22:03:18.3051256+00:00",
+  "LastChanged_Achievements": "2023-07-08T23:03:46.1991848+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:25.1516139+00:00",
-  "LastUpdate_Ratings": "2023-07-08T22:00:26.0109712+00:00",
-  "LastUpdate_Achievements": "2023-07-08T22:03:18.3052857+00:00"
+  "LastUpdate_Ratings": "2023-07-08T23:01:45.6550491+00:00",
+  "LastUpdate_Achievements": "2023-07-08T23:03:46.1992402+00:00"
 }

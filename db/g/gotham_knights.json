@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 171,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1940,9 +1940,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 66713,
+  "EOS_Progressed": 66718,
   "EOS_Completed": 101,
-  "EOS_NewPlayers": 474,
+  "EOS_NewPlayers": 476,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -9120,6 +9120,11 @@
       "Time": "2023-07-08T22:03:32.5416483+00:00",
       "NumProgressed": 66713,
       "NumCompleted": 101
+    },
+    {
+      "Time": "2023-07-08T23:04:05.5364285+00:00",
+      "NumProgressed": 66718,
+      "NumCompleted": 101
     }
   ],
   "TotalAchievements": 61,
@@ -9179,7 +9184,7 @@
       "Name": "The Batman Family",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2001
+      "UsersEstimate": 2002
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -9235,7 +9240,7 @@
       "Name": "Something in the Clay",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2001
+      "UsersEstimate": 2002
     },
     {
       "ID": "CLAYFACE_2",
@@ -9243,7 +9248,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2001
+      "UsersEstimate": 2002
     },
     {
       "ID": "CLAYFACE_3",
@@ -9363,7 +9368,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2001
+      "UsersEstimate": 2002
     },
     {
       "ID": "FREEZE_2",
@@ -9371,7 +9376,7 @@
       "Name": "Snow Problem",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2001
+      "UsersEstimate": 2002
     },
     {
       "ID": "FREEZE_3",
@@ -9443,7 +9448,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2001
+      "UsersEstimate": 2002
     },
     {
       "ID": "HARLEY_3",
@@ -9451,7 +9456,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2001
+      "UsersEstimate": 2002
     },
     {
       "ID": "HARLEY_4",
@@ -9499,7 +9504,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2001
+      "UsersEstimate": 2002
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -9507,7 +9512,7 @@
       "Name": "Knighthood",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2001
+      "UsersEstimate": 2002
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -9531,7 +9536,7 @@
       "Name": "Whispered Words",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2001
+      "UsersEstimate": 2002
     },
     {
       "ID": "MYSTERY_03",
@@ -9539,7 +9544,7 @@
       "Name": "Lock and Key",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2001
+      "UsersEstimate": 2002
     },
     {
       "ID": "MYSTERY_04",
@@ -9547,7 +9552,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2001
+      "UsersEstimate": 2002
     },
     {
       "ID": "MYSTERY_05",
@@ -9618,13 +9623,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 66713,
+      "Progressed": 66718,
       "Completed": 101
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 36993,
+      "Progressed": 36998,
       "Completed": 2652
     }
   ],
@@ -9632,8 +9637,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-07-08T13:12:38.2426147+00:00",
-  "LastChanged_Achievements": "2023-07-08T22:03:32.5416479+00:00",
+  "LastChanged_Achievements": "2023-07-08T23:04:05.5364278+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:06.0757808+00:00",
-  "LastUpdate_Ratings": "2023-07-08T22:00:13.9373731+00:00",
-  "LastUpdate_Achievements": "2023-07-08T22:03:32.5417707+00:00"
+  "LastUpdate_Ratings": "2023-07-08T23:01:22.2205534+00:00",
+  "LastUpdate_Achievements": "2023-07-08T23:04:05.5365068+00:00"
 }

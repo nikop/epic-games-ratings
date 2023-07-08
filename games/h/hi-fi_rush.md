@@ -6,36 +6,38 @@ Rating: 4.87 (Ranked 25)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | NOW we got a kickass hideout! | 0.90% | ~18 |
+| Cream of the Crop | 0.60% | ~21 |
 | The Negotiator | 0.60% | ~21 |
+| Time to pay up! | 0.60% | ~21 |
+| Who's the boss now? | 0.60% | ~21 |
 | I play my own way! | 0.60% | ~21 |
 | Whoa! There's ANOTHER health bar!? | 0.60% | ~21 |
-| Cream of the Crop | 0.50% | ~17 |
-| Time to pay up! | 0.50% | ~17 |
-| Who's the boss now? | 0.50% | ~17 |
+| Out in a puff of smoke | 0.60% | ~21 |
+| This will cost you big time | 0.50% | ~17 |
 | Thanks for the free chip, Peppermint! | 0.50% | ~17 |
 | You got this, Peppermint? | 0.50% | ~17 |
 | Z-shielding's got nothing on us! | 0.50% | ~17 |
-| Out in a puff of smoke | 0.50% | ~17 |
 | Uh, they were broken when I got here | 0.50% | ~17 |
+| Kissing the sky! | 0.50% | ~17 |
 | Who put gears in there? | 0.50% | ~17 |
-| This will cost you big time | 0.40% | ~14 |
+| Start with a bang! | 0.40% | ~14 |
 | Headliner | 0.40% | ~14 |
 | Well that was a rush! | 0.40% | ~14 |
 | I have to read these things? | 0.40% | ~14 |
 | Feeling the beat! | 0.40% | ~14 |
+| You must like calling me in, Chai | 0.40% | ~14 |
 | Perfect Parry | 0.40% | ~14 |
-| Kissing the sky! | 0.40% | ~14 |
+| That's a lot of junk metal… | 0.40% | ~14 |
 | Alright, that felt AWESOME! | 0.40% | ~14 |
+| You can pet the cat! | 0.40% | ~14 |
 | Call me Turbo Chai | 0.40% | ~8 |
-| Start with a bang! | 0.30% | ~10 |
-| You must like calling me in, Chai | 0.30% | ~10 |
 | Perfecter Parry-er! | 0.30% | ~10 |
-| That's a lot of junk metal… | 0.30% | ~10 |
 | I look cool. But I can look COOLER. | 0.30% | ~10 |
-| You can pet the cat! | 0.30% | ~10 |
+| There's such a thing as TOO helpful | 0.30% | ~10 |
 | New bad guys? No problem! | 0.30% | ~6 |
+| Beat-hit mania | 0.20% | ~7 |
+| I think I found your calling, Macaron | 0.20% | ~7 |
 | This is a breeze! | 0.20% | ~7 |
-| There's such a thing as TOO helpful | 0.20% | ~7 |
 | Does that say weakpoint? | 0.20% | ~7 |
 | Check out my moves! | 0.20% | ~7 |
 | Easy Listening | 0.10% | ~3 |
@@ -43,10 +45,9 @@ Rating: 4.87 (Ranked 25)
 | Problem solved... wait, what? | 0.10% | ~3 |
 | I can't see this ever being a problem again | 0.10% | ~3 |
 | Chip-tuned | 0.10% | ~3 |
-| Beat-hit mania | 0.10% | ~3 |
-| I think I found your calling, Macaron | 0.10% | ~3 |
 | OK, well THEY came after ME! | 0.10% | ~3 |
 | We're Jammin' | 0.10% | ~3 |
+| I'm not done with you yet | 0.10% | ~3 |
 | First we parry, then we counter | 0.10% | ~3 |
 | Now this is how you fight like a team! | 0.10% | ~3 |
 | This was... not what I expected. | 0.10% | ~3 |
@@ -65,7 +66,6 @@ Rating: 4.87 (Ranked 25)
 | I think that's enough health for now | 0.00% | ~0 |
 | Fully Powered Up! | 0.00% | ~0 |
 | I have to read ALL of these things? | 0.00% | ~0 |
-| I'm not done with you yet | 0.00% | ~0 |
 | My Ultimate Setlist | 0.00% | ~0 |
 | What a journey it was... | 0.00% | ~0 |
 | Have we met before? | 0.00% | ~0 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 25)
 | OK, I THINK I know what I'm doing now | 0.00% | ~0 |
 | Low budget finish | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,425 (Ranked 145)  
+Progressed: 3,426 (Ranked 145)  
 Completed: 5 (0.15%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 5 (0.15%) (Ranked 171)
 | 2023-07-05 | 3,407 | 5 |
 | 2023-07-06 | 3,411 | 5 |
 | 2023-07-07 | 3,418 | 5 |
-| 2023-07-08 | 3,425 | 5 |
+| 2023-07-08 | 3,426 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

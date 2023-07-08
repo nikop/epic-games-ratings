@@ -2,13 +2,13 @@
   "ID": "cb62701a29834de6a91e5f634a72b6f8",
   "Name": "ATOM RPG",
   "ProductSlug": "atom-rpg-3adb54",
-  "Ranking_Rating": 605,
+  "Ranking_Rating": 606,
   "Ranking_Popularity": 403,
   "Ranking_PopularitySum": 447,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -358,9 +358,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 1006,
+  "EOS_Progressed": 1007,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1568,6 +1568,11 @@
       "Time": "2023-07-07T17:17:37.7162989+00:00",
       "NumProgressed": 1006,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-08T23:07:51.8522527+00:00",
+      "NumProgressed": 1007,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1635,7 +1640,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 996
+      "UsersEstimate": 997
     },
     {
       "ID": "EXPERT_1",
@@ -1763,7 +1768,7 @@
       "Name": "Not-so-private Eye",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "PROTECTION_RACKET",
@@ -1827,7 +1832,7 @@
       "Name": "Superhuman",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "TRAVELER_1",
@@ -1866,15 +1871,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1006,
+      "Progressed": 1007,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-11T18:59:46.5771351+00:00",
-  "LastChanged_Achievements": "2023-07-08T22:06:41.4377832+00:00",
+  "LastChanged_Achievements": "2023-07-08T23:07:51.8522519+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:36.4768526+00:00",
-  "LastUpdate_Ratings": "2023-07-08T22:00:33.7193962+00:00",
-  "LastUpdate_Achievements": "2023-07-08T22:06:41.4378237+00:00"
+  "LastUpdate_Ratings": "2023-07-08T23:01:55.9986509+00:00",
+  "LastUpdate_Achievements": "2023-07-08T23:07:51.8522829+00:00"
 }

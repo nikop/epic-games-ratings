@@ -4,8 +4,8 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2920,
+  "EOS_Progressed": 2921,
   "EOS_Completed": 92,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 3.15,
   "EosHistory": [
@@ -3310,6 +3310,11 @@
       "Time": "2023-07-08T22:05:37.4186048+00:00",
       "NumProgressed": 2920,
       "NumCompleted": 92
+    },
+    {
+      "Time": "2023-07-08T23:06:22.2637292+00:00",
+      "NumProgressed": 2921,
+      "NumCompleted": 92
     }
   ],
   "TotalAchievements": 24,
@@ -3329,7 +3334,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1198
     },
     {
       "ID": "11",
@@ -3345,7 +3350,7 @@
       "Name": "TRAINING HARD",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "13",
@@ -3361,7 +3366,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1198
     },
     {
       "ID": "15",
@@ -3377,7 +3382,7 @@
       "Name": "RELEASE THE KRAKEN",
       "Percentage": 12,
       "XP": 45,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "17",
@@ -3409,7 +3414,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "20",
@@ -3417,7 +3422,7 @@
       "Name": "PROTECTED",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 905
+      "UsersEstimate": 906
     },
     {
       "ID": "21",
@@ -3425,7 +3430,7 @@
       "Name": "ACE DEFENDER",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "22",
@@ -3505,20 +3510,20 @@
       "Name": "LEGENDARY HERO",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     }
   ],
   "AchievementSets": [
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2920,
+      "Progressed": 2921,
       "Completed": 92
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-07-08T22:05:37.4186042+00:00",
+  "LastChanged_Achievements": "2023-07-08T23:06:22.2637288+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:58.7714419+00:00",
-  "LastUpdate_Ratings": "2023-07-08T21:59:29.1830627+00:00",
-  "LastUpdate_Achievements": "2023-07-08T22:05:37.418649+00:00"
+  "LastUpdate_Ratings": "2023-07-08T23:00:08.6577944+00:00",
+  "LastUpdate_Achievements": "2023-07-08T23:06:22.2637577+00:00"
 }

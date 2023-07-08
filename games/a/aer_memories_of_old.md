@@ -1,33 +1,33 @@
 # AER Memories of Old
 [Store](https://store.epicgames.com/en-US/p/aer-memories-of-old)  
 [View Rawdata](../../db/a/aer_memories_of_old.json)  
-Rating: 4.46 (Ranked 605)  
+Rating: 4.46 (Ranked 606)  
 Number of Ratings: 170  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 76.00% | ~11,196 |
-| Mama? | 28.00% | ~4,125 |
-| People's Haven | 19.00% | ~2,799 |
+| Light at the end of the tunnel | 76.00% | ~11,199 |
+| Mama? | 28.00% | ~4,126 |
+| People's Haven | 19.00% | ~2,800 |
 | Cartographer | 18.00% | ~2,652 |
 | Knowledge for Power | 15.00% | ~2,210 |
 | Antlers of Stone | 15.00% | ~2,210 |
-| Gaze into the abyss | 14.00% | ~2,062 |
-| Mausoleum of Ice | 14.00% | ~2,062 |
-| Equilibrium | 13.00% | ~1,915 |
+| Gaze into the abyss | 14.00% | ~2,063 |
+| Mausoleum of Ice | 14.00% | ~2,063 |
+| Equilibrium | 13.00% | ~1,916 |
 | In the belly of the beast | 12.00% | ~1,768 |
 | Wings of Stone | 12.00% | ~1,768 |
-| Condor condo | 10.00% | ~1,473 |
+| Condor condo | 10.00% | ~1,474 |
 | Memorial | 9.00% | ~1,326 |
-| An uninvited guest | 8.00% | ~1,178 |
-| Written in stone | 7.00% | ~1,031 |
-| Talk to all the spirit animals | 7.00% | ~1,031 |
+| An uninvited guest | 8.00% | ~1,179 |
+| Written in stone | 7.00% | ~1,032 |
+| Talk to all the spirit animals | 7.00% | ~1,032 |
 | Ripples on the surface | 6.00% | ~884 |
 | Tails of Stone | 6.00% | ~884 |
 | Baa from the past | 6.00% | ~884 |
 | Hide and Seek | 5.00% | ~737 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,731 (Ranked 110)  
+Progressed: 14,736 (Ranked 110)  
 Completed: 310 (2.10%) (Ranked 75)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 310 (2.10%) (Ranked 75)
 | 2023-07-05 | 14,494 | 306 |
 | 2023-07-06 | 14,567 | 307 |
 | 2023-07-07 | 14,650 | 308 |
-| 2023-07-08 | 14,731 | 310 |
+| 2023-07-08 | 14,736 | 310 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -5,6 +5,7 @@ Rating: 4.61 (Ranked 361)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Realm Estate | 3.00% | ~149 |
 | A Wonderful Discovery | 3.00% | ~149 |
 | Secret Technique | 3.00% | ~149 |
 | Walls Cannot Stop Us | 3.00% | ~149 |
@@ -15,7 +16,6 @@ Rating: 4.61 (Ranked 361)
 | Mighty Hoard | 3.00% | ~149 |
 | There Can Only Be One! | 2.00% | ~99 |
 | Full Ascension | 2.00% | ~99 |
-| Realm Estate | 2.00% | ~99 |
 | Bone Peddler | 2.00% | ~99 |
 | Stronger Together | 2.00% | ~99 |
 | My Final Form | 2.00% | ~99 |

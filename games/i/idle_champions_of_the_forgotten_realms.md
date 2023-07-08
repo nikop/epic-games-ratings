@@ -6,33 +6,33 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,314 |
-| The Mad Wizard | 11.00% | ~22,963 |
-| The Ring of Regeneration | 7.00% | ~14,613 |
-| Are Ya Chicken? | 7.00% | ~14,613 |
-| Were-verpowered | 5.00% | ~10,438 |
-| Seeking Allies | 5.00% | ~10,438 |
-| Mad Cow Disease | 5.00% | ~10,438 |
-| Friendly Imps | 5.00% | ~10,438 |
-| A Persistent Buzzing | 4.00% | ~8,350 |
-| Pure Energy | 4.00% | ~8,350 |
+| The Cursed Farmer | 15.00% | ~31,317 |
+| The Mad Wizard | 11.00% | ~22,966 |
+| The Ring of Regeneration | 7.00% | ~14,615 |
+| Are Ya Chicken? | 7.00% | ~14,615 |
+| Were-verpowered | 5.00% | ~10,439 |
+| Seeking Allies | 5.00% | ~10,439 |
+| Mad Cow Disease | 5.00% | ~10,439 |
+| Friendly Imps | 5.00% | ~10,439 |
+| A Persistent Buzzing | 4.00% | ~8,351 |
+| Pure Energy | 4.00% | ~8,351 |
 | Beast Mode | 3.00% | ~6,263 |
 | Terror in the Dark | 3.00% | ~6,263 |
 | Unearthed Evil | 3.00% | ~6,263 |
 | The Crumbling Temple | 3.00% | ~6,263 |
 | Exploring Port Nyanzaru | 3.00% | ~6,263 |
 | The Contagious Curse | 3.00% | ~6,263 |
-| Low Initiative | 2.00% | ~4,175 |
-| A Mysterious Summons | 2.00% | ~4,175 |
-| Building Trust | 2.00% | ~4,175 |
-| No Time To Rest | 2.00% | ~4,175 |
-| Useless Allies | 2.00% | ~4,175 |
-| Running of the Saurs | 2.00% | ~4,175 |
-| Escort to Waterdeep | 2.00% | ~4,175 |
-| Waterdeep Detours | 2.00% | ~4,175 |
-| Underdeep Cartography | 2.00% | ~4,175 |
-| Overdue Rendezvous | 2.00% | ~4,175 |
-| The Templar's Camp | 2.00% | ~4,175 |
+| Low Initiative | 2.00% | ~4,176 |
+| A Mysterious Summons | 2.00% | ~4,176 |
+| Building Trust | 2.00% | ~4,176 |
+| No Time To Rest | 2.00% | ~4,176 |
+| Useless Allies | 2.00% | ~4,176 |
+| Running of the Saurs | 2.00% | ~4,176 |
+| Escort to Waterdeep | 2.00% | ~4,176 |
+| Waterdeep Detours | 2.00% | ~4,176 |
+| Underdeep Cartography | 2.00% | ~4,176 |
+| Overdue Rendezvous | 2.00% | ~4,176 |
+| The Templar's Camp | 2.00% | ~4,176 |
 | Homecoming | 1.00% | ~2,088 |
 | Street War | 1.00% | ~2,088 |
 | March of the Undead | 1.00% | ~2,088 |
@@ -58,10 +58,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Captured! | 0.80% | ~1,670 |
 | Wisdom Check | 0.80% | ~1,670 |
 | The Mists of Ravenloft | 0.80% | ~1,670 |
+| Nimble Escape | 0.80% | ~1,670 |
 | A Grand Puzzle | 0.70% | ~1,461 |
 | Tomb of the Nine Gods | 0.70% | ~1,461 |
 | Treasure Hunters | 0.70% | ~1,461 |
-| Nimble Escape | 0.70% | ~1,461 |
 | Fugitives | 0.70% | ~1,461 |
 | Crowded Streets | 0.70% | ~1,461 |
 | The Darkness Runs Deeper | 0.70% | ~1,461 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,757 (Ranked 52)  
+Progressed: 208,782 (Ranked 52)  
 Completed: 2,041 (0.98%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -589,7 +589,7 @@ Completed: 2,041 (0.98%) (Ranked 102)
 | 2023-07-05 | 206,889 | 2,032 |
 | 2023-07-06 | 207,486 | 2,035 |
 | 2023-07-07 | 208,152 | 2,037 |
-| 2023-07-08 | 208,757 | 2,041 |
+| 2023-07-08 | 208,782 | 2,041 |
 ## Awards
 Max (Diverse Characters): 5,013  (Ranked 65)  
 Sum: 30,446 (Ranked 37)  

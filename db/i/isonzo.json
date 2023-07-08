@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -3307,9 +3307,9 @@
       "ID": "ISONZO_ACH_AURELIO_BARUZZI",
       "SetID": "akchbl3",
       "Name": "Aurelio Baruzzi",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 1399
+      "UsersEstimate": 1462
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -3668,8 +3668,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-07-04T13:15:35.7816607+00:00",
-  "LastChanged_Achievements": "2023-07-08T22:04:36.581214+00:00",
+  "LastChanged_Achievements": "2023-07-08T23:04:58.097982+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:47.5967083+00:00",
-  "LastUpdate_Ratings": "2023-07-08T21:57:59.6949222+00:00",
-  "LastUpdate_Achievements": "2023-07-08T22:04:36.5812907+00:00"
+  "LastUpdate_Ratings": "2023-07-08T22:57:58.8143173+00:00",
+  "LastUpdate_Achievements": "2023-07-08T23:04:58.0980216+00:00"
 }

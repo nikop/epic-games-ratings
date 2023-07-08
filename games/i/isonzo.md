@@ -14,7 +14,7 @@ Number of Ratings: 98  (23.09.2022)
 | Conrad von Hotzensocks | 36.00% | ~2,289 |
 | Gabriele D'Annunzio | 33.00% | ~2,098 |
 | Silver Lining | 29.00% | ~1,844 |
-| Aurelio Baruzzi | 22.00% | ~1,399 |
+| Aurelio Baruzzi | 23.00% | ~1,462 |
 | Veni Vidi Vici | 22.00% | ~1,399 |
 | Decimation | 21.00% | ~1,335 |
 | Donatello | 21.00% | ~1,335 |

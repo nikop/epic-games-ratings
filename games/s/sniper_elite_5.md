@@ -1,7 +1,7 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.45 (Ranked 621)  
+Rating: 4.45 (Ranked 622)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -45,12 +45,12 @@ Rating: 4.45 (Ranked 621)
 | From Paris with Love | 0.40% | ~13 |
 | Burn after reading | 0.40% | ~13 |
 | Souvenir hunter | 0.40% | ~13 |
+| It'll Buff Right Out | 0.40% | ~13 |
 | Road Rage | 0.40% | ~13 |
 | Operation Foxley | 0.40% | ~13 |
 | Siegebreaker | 0.40% | ~13 |
 | Ghost of Falaise | 0.40% | ~13 |
 | Eagle Eyed | 0.30% | ~10 |
-| It'll Buff Right Out | 0.30% | ~10 |
 | Last Resort | 0.30% | ~10 |
 | If You Go Down To The Woods Today | 0.30% | ~10 |
 | Fight Another Day | 0.30% | ~10 |

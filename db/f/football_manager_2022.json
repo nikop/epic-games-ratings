@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 34,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -5711,9 +5711,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 466365,
+  "EOS_Progressed": 466366,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 700,
+  "EOS_NewPlayers": 698,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13876,6 +13876,11 @@
       "Time": "2023-07-08T22:02:20.502735+00:00",
       "NumProgressed": 466365,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-07-08T23:03:22.1208409+00:00",
+      "NumProgressed": 466366,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 98,
@@ -14159,7 +14164,7 @@
       "Name": "What A Goal!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 102600
+      "UsersEstimate": 102601
     },
     {
       "ID": "achievement_goal_of_the_season",
@@ -14167,7 +14172,7 @@
       "Name": "Superb Strike",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 46636
+      "UsersEstimate": 46637
     },
     {
       "ID": "achievement_goal_scored_in_20_consecutive_matches",
@@ -14183,7 +14188,7 @@
       "Name": "Irresistible Force",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 88609
+      "UsersEstimate": 88610
     },
     {
       "ID": "achievement_golden_boot_award",
@@ -14263,7 +14268,7 @@
       "Name": "Top Of The Class",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 102600
+      "UsersEstimate": 102601
     },
     {
       "ID": "achievement_manager_of_the_year",
@@ -14279,7 +14284,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 116591
+      "UsersEstimate": 116592
     },
     {
       "ID": "achievement_mr_delegator",
@@ -14327,7 +14332,7 @@
       "Name": "Excellent Match Cohesion",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 88609
+      "UsersEstimate": 88610
     },
     {
       "ID": "achievement_pick_feeder",
@@ -14439,7 +14444,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 233182
+      "UsersEstimate": 233183
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -14447,7 +14452,7 @@
       "Name": "Goal Machine",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 102600
+      "UsersEstimate": 102601
     },
     {
       "ID": "achievement_unbeaten_host_in_fantasy_draft",
@@ -14463,7 +14468,7 @@
       "Name": "Invincible!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 46636
+      "UsersEstimate": 46637
     },
     {
       "ID": "achievement_watch_popup_match_viewer",
@@ -14487,7 +14492,7 @@
       "Name": "Comeback King!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 60627
+      "UsersEstimate": 60628
     },
     {
       "ID": "achievement_win_fantasy_draft",
@@ -14519,7 +14524,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 233182
+      "UsersEstimate": 233183
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -14527,7 +14532,7 @@
       "Name": "Cup Glory!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 102600
+      "UsersEstimate": 102601
     },
     {
       "ID": "achievement_won_international_championship",
@@ -14543,7 +14548,7 @@
       "Name": "You\u0027re Up!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 60627
+      "UsersEstimate": 60628
     },
     {
       "ID": "achievement_won_world_cup",
@@ -14559,7 +14564,7 @@
       "Name": "Best In The World",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 46636
+      "UsersEstimate": 46637
     },
     {
       "ID": "career_earnings_over_100_million",
@@ -14670,15 +14675,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 466365,
+      "Progressed": 466366,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-07-08T21:01:32.3732318+00:00",
-  "LastChanged_Achievements": "2023-07-08T22:02:20.5027344+00:00",
+  "LastChanged_Achievements": "2023-07-08T23:03:22.1208405+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:45.2137608+00:00",
-  "LastUpdate_Ratings": "2023-07-08T22:00:39.859537+00:00",
-  "LastUpdate_Achievements": "2023-07-08T22:02:20.5029206+00:00"
+  "LastUpdate_Ratings": "2023-07-08T23:02:05.546326+00:00",
+  "LastUpdate_Achievements": "2023-07-08T23:03:22.120969+00:00"
 }

@@ -48,10 +48,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthaginian Paganism | 37.00% | ~4,693 |
 | Necropolis | 36.00% | ~4,566 |
 | Apadana | 35.00% | ~4,439 |
+| Musaeum | 35.00% | ~4,439 |
 | Manichaeism | 35.00% | ~4,439 |
 | Egyptian Paganism | 35.00% | ~4,439 |
 | Brilliant | 34.00% | ~4,313 |
-| Musaeum | 34.00% | ~4,313 |
 | Drillmaster | 32.00% | ~4,059 |
 | Learn to Play 1 | 32.00% | ~4,059 |
 | Colossus | 31.00% | ~3,932 |

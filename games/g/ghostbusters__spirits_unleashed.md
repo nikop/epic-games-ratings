@@ -11,8 +11,8 @@ Rating: 4.49 (Ranked 574)
 | Discovery | 61.00% | ~14,703 |
 | Fully Upgraded | 54.00% | ~13,016 |
 | Swift Rift Removers | 54.00% | ~13,016 |
+| Cultured | 52.00% | ~12,534 |
 | I collect Spores, Molds, and Fungi | 51.00% | ~12,293 |
-| Cultured | 51.00% | ~12,293 |
 | Vaporous Expansion | 48.00% | ~11,570 |
 | Teamwork | 44.00% | ~10,606 |
 | There you are! | 43.00% | ~10,365 |
@@ -58,7 +58,7 @@ Rating: 4.49 (Ranked 574)
 | Mycophile | 1.00% | ~241 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 24,104 (Ranked 97)  
-Completed: 46 (0.19%) (Ranked 163)  
+Completed: 46 (0.19%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

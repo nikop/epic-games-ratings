@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 318,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -908,9 +908,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 15666,
+  "EOS_Progressed": 15667,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -5403,6 +5403,11 @@
       "Time": "2023-07-08T19:05:54.871222+00:00",
       "NumProgressed": 15666,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-07-08T23:06:54.5282212+00:00",
+      "NumProgressed": 15667,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 47,
@@ -5444,9 +5449,9 @@
       "ID": "DISARM_ENEMY",
       "SetID": "4hj6d86",
       "Name": "Flesh Wound",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 313
+      "UsersEstimate": 157
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -5789,13 +5794,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15666,
+      "Progressed": 15667,
       "Completed": 64
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3592,
+      "Progressed": 3593,
       "Completed": 29
     }
   ],
@@ -5803,8 +5808,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-07-08T16:58:27.4258495+00:00",
-  "LastChanged_Achievements": "2023-07-08T22:06:00.121562+00:00",
+  "LastChanged_Achievements": "2023-07-08T23:06:54.5282207+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:30.5014032+00:00",
-  "LastUpdate_Ratings": "2023-07-08T21:58:31.0007173+00:00",
-  "LastUpdate_Achievements": "2023-07-08T22:06:00.1216752+00:00"
+  "LastUpdate_Ratings": "2023-07-08T22:58:41.6476287+00:00",
+  "LastUpdate_Achievements": "2023-07-08T23:06:54.5282723+00:00"
 }

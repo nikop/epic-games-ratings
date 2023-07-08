@@ -1,12 +1,12 @@
 # Redout 2
 [Store](https://store.epicgames.com/en-US/p/redout-2)  
 [View Rawdata](../../db/r/redout_2.json)  
-Rating: 4.45 (Ranked 621)  
+Rating: 4.47 (Ranked 594)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie No More | 28.00% | ~294 |
-| Increasing your Power Level | 28.00% | ~294 |
+| Rookie No More | 28.00% | ~295 |
+| Increasing your Power Level | 28.00% | ~295 |
 | Enter the Speed Gauntlet | 25.00% | ~263 |
 | I just can't choose | 25.00% | ~263 |
 | A Cheese Grater to the Face | 20.00% | ~210 |
@@ -58,7 +58,7 @@ Rating: 4.45 (Ranked 621)
 | I, need, more, shelves! | 0.50% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,051 (Ranked 184)  
+Progressed: 1,052 (Ranked 184)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-04 | 1,039 | 0 |
 | 2023-07-06 | 1,041 | 0 |
 | 2023-07-07 | 1,045 | 0 |
-| 2023-07-08 | 1,051 | 0 |
+| 2023-07-08 | 1,052 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -124,3 +124,4 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-03-31 | 4.44 | 0 | 0 |
 | 2023-04-12 | 4.46 | 0 | 0 |
 | 2023-04-30 | 4.45 | 0 | 0 |
+| 2023-07-08 | 4.47 | 0 | 0 |
