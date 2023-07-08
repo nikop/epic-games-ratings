@@ -130,7 +130,7 @@
 | 120 | [Outlast](games/o/outlast.md) | 4.76 | 0 | 504 |
 | 120 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,673 | 116 |
 | 120 | [Quake](games/q/quake.md) | 4.76 | 46 | 406 |
-| 120 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 9,045 | 38 |
+| 120 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 9,061 | 38 |
 | 120 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.76 | 344 | 223 |
 | 133 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 24 | 475 |
 | 133 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 5,414 | 62 |
@@ -159,6 +159,7 @@
 | 157 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 408 | 207 |
 | 157 | [DOOM II](games/d/doom_ii.md) | 4.73 | 26 | 471 |
 | 157 | [Haven](games/h/haven.md) | 4.73 | 0 | 504 |
+| 157 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.73 | 1,982 | 108 |
 | 157 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 583 | 178 |
 | 157 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.73 | 229 | 252 |
 | 157 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 0 | 504 |
@@ -166,20 +167,19 @@
 | 157 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.73 | 0 | 504 |
 | 157 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 0 | 504 |
 | 157 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 79 | 353 |
-| 167 | [Fez](games/f/fez.md) | 4.72 | 23 | 480 |
-| 167 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 470 | 195 |
-| 167 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.72 | 1,982 | 108 |
-| 167 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.72 | 0 | 504 |
-| 167 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 140 | 297 |
-| 167 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.72 | 39 | 423 |
-| 167 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 0 | 504 |
-| 167 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 0 | 504 |
-| 167 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 73 | 365 |
-| 167 | [Slipways](games/s/slipways.md) | 4.72 | 0 | 504 |
-| 167 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 315 | 229 |
-| 167 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 0 | 504 |
-| 167 | [Timberborn](games/t/timberborn.md) | 4.72 | 128 | 304 |
-| 167 | [Townscaper](games/t/townscaper.md) | 4.72 | 0 | 504 |
+| 168 | [Fez](games/f/fez.md) | 4.72 | 23 | 480 |
+| 168 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 470 | 195 |
+| 168 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.72 | 0 | 504 |
+| 168 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 140 | 297 |
+| 168 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.72 | 39 | 423 |
+| 168 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 0 | 504 |
+| 168 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 0 | 504 |
+| 168 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 73 | 365 |
+| 168 | [Slipways](games/s/slipways.md) | 4.72 | 0 | 504 |
+| 168 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 315 | 229 |
+| 168 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 0 | 504 |
+| 168 | [Timberborn](games/t/timberborn.md) | 4.72 | 128 | 304 |
+| 168 | [Townscaper](games/t/townscaper.md) | 4.72 | 0 | 504 |
 | 181 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.71 | 0 | 504 |
 | 181 | [Barony](games/b/barony.md) | 4.71 | 73 | 365 |
 | 181 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 0 | 504 |
@@ -817,7 +817,7 @@
 | 813 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.24 | 22 | 484 |
 | 813 | [Flatout](games/f/flatout.md) | 4.24 | 0 | 504 |
 | 813 | [OVERPASS™](games/o/overpass™.md) | 4.24 | 0 | 504 |
-| 813 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 489 | 193 |
+| 813 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 491 | 193 |
 | 813 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 45 | 409 |
 | 813 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.24 | 0 | 504 |
 | 813 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 23 | 480 |
@@ -869,7 +869,7 @@
 | 862 | [Wreckfest](games/w/wreckfest.md) | 4.16 | 0 | 504 |
 | 868 | [Chernobylite](games/c/chernobylite.md) | 4.15 | 0 | 504 |
 | 868 | [Pine](games/p/pine.md) | 4.15 | 0 | 504 |
-| 868 | [Relicta](games/r/relicta.md) | 4.15 | 198 | 271 |
+| 868 | [Relicta](games/r/relicta.md) | 4.15 | 199 | 270 |
 | 868 | [The Alien Cube](games/t/the_alien_cube.md) | 4.15 | 0 | 504 |
 | 868 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 0 | 504 |
 | 868 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.15 | 0 | 504 |
