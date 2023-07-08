@@ -10,7 +10,7 @@
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 112,569 | 4.69 | 219 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 72,454 | 4.62 | 344 |
 | 10 | [VALORANT](games/v/valorant.md) | 59,887 | 4.53 | 506 |
-| 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 58,740 | 4.58 | 421 |
+| 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 58,778 | 4.58 | 421 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 40,300 | 4.61 | 361 |
 | 13 | [Destiny 2](games/d/destiny_2.md) | 35,554 | 4.50 | 552 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 34,159 | 4.74 | 144 |
@@ -65,7 +65,7 @@
 | 63 | [Rogue Company](games/r/rogue_company.md) | 5,112 | 4.34 | 745 |
 | 64 | [Dead Island 2](games/d/dead_island_2.md) | 5,070 | 4.54 | 491 |
 | 65 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,013 | 4.05 | 901 |
-| 66 | [Cities: Skylines](games/c/cities__skylines.md) | 4,883 | 4.65 | 298 |
+| 66 | [Cities: Skylines](games/c/cities__skylines.md) | 4,894 | 4.65 | 298 |
 | 67 | [MultiVersus](games/m/multiversus.md) | 4,745 | 4.56 | 455 |
 | 68 | [Shop Titans](games/s/shop_titans.md) | 4,650 | 3.99 | 915 |
 | 69 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4,624 | 4.57 | 439 |
@@ -76,7 +76,7 @@
 | 74 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4,266 | 4.76 | 120 |
 | 75 | [God of War](games/g/god_of_war.md) | 4,132 | 4.88 | 18 |
 | 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,131 | 4.56 | 455 |
-| 77 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,101 | 4.51 | 539 |
+| 77 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,102 | 4.51 | 539 |
 | 78 | [SMITE](games/s/smite.md) | 3,982 | 4.45 | 621 |
 | 79 | [Days Gone](games/d/days_gone.md) | 3,868 | 4.68 | 238 |
 | 80 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,668 | 4.29 | 780 |
