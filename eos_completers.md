@@ -17,7 +17,7 @@
 | 15 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.22% |
 | 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.05% |
 | 17 | [Remains](games/r/remains.md) | 11.90% |
-| 18 | [Sonic Origins](games/s/sonic_origins.md) | 10.85% |
+| 18 | [Sonic Origins](games/s/sonic_origins.md) | 10.81% |
 | 19 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.71% |
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.26% |
@@ -37,9 +37,9 @@
 | 35 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.13% |
 | 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.11% |
 | 37 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.91% |
-| 38 | [Without Escape](games/w/without_escape.md) | 4.76% |
-| 39 | [Bugsnax](games/b/bugsnax.md) | 4.68% |
-| 40 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.64% |
+| 38 | [Bugsnax](games/b/bugsnax.md) | 4.68% |
+| 39 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.64% |
+| 40 | [Without Escape](games/w/without_escape.md) | 4.55% |
 | 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.43% |
 | 42 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
 | 43 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.72% |
@@ -49,10 +49,10 @@
 | 47 | [Doodle God](games/d/doodle_god.md) | 3.56% |
 | 48 | [ZZT!](games/z/zzt!.md) | 3.50% |
 | 49 | [Bunny Park](games/b/bunny_park.md) | 3.42% |
-| 50 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 3.39% |
-| 51 | [Monster Harvest](games/m/monster_harvest.md) | 3.38% |
-| 52 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.33% |
-| 53 | [JARS](games/j/jars.md) | 3.28% |
+| 50 | [Monster Harvest](games/m/monster_harvest.md) | 3.38% |
+| 51 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.33% |
+| 52 | [JARS](games/j/jars.md) | 3.28% |
+| 52 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 3.28% |
 | 54 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.15% |
 | 55 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.12% |
 | 56 | [The Complex](games/t/the_complex.md) | 3.10% |
@@ -69,7 +69,7 @@
 | 67 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.57% |
 | 68 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 69 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
-| 70 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.41% |
+| 70 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.40% |
 | 71 | [Bloodshore](games/b/bloodshore.md) | 2.30% |
 | 71 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.30% |
 | 73 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
@@ -95,7 +95,7 @@
 | 93 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.28% |
 | 94 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.25% |
 | 95 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.21% |
-| 96 | [Chorus](games/c/chorus.md) | 1.18% |
+| 96 | [Chorus](games/c/chorus.md) | 1.17% |
 | 97 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.15% |
 | 98 | [Trifox](games/t/trifox.md) | 1.11% |
 | 99 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.06% |
@@ -161,10 +161,10 @@
 | 159 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
 | 159 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.22% |
 | 161 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.21% |
+| 162 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
 | 162 | [Going Medieval](games/g/going_medieval.md) | 0.20% |
-| 163 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.19% |
-| 163 | [BLACKTAIL](games/b/blacktail.md) | 0.19% |
-| 163 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
+| 164 | [BLACKTAIL](games/b/blacktail.md) | 0.19% |
+| 164 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
 | 166 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.18% |
 | 167 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
 | 167 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.17% |
