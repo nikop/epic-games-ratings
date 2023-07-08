@@ -42,7 +42,7 @@
 | 40 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.66% |
 | 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.43% |
 | 42 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
-| 43 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 3.85% |
+| 43 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 3.77% |
 | 44 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.73% |
 | 45 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 3.70% |
 | 46 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
@@ -74,7 +74,7 @@
 | 71 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.30% |
 | 73 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 74 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.15% |
-| 75 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.10% |
+| 75 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.11% |
 | 76 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.08% |
 | 77 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.96% |
 | 78 | [Frogun](games/f/frogun.md) | 1.92% |
@@ -177,9 +177,9 @@
 | 171 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
 | 176 | [Port Royale 4](games/p/port_royale_4.md) | 0.14% |
 | 177 | [Isonzo](games/i/isonzo.md) | 0.13% |
-| 177 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.13% |
 | 177 | [Train Valley 2](games/t/train_valley_2.md) | 0.13% |
-| 180 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
+| 179 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
+| 179 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.12% |
 | 181 | [Fall Guys](games/f/fall_guys.md) | 0.11% |
 | 181 | [Ring of Pain](games/r/ring_of_pain.md) | 0.11% |
 | 183 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.10% |
