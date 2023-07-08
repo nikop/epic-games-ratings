@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 226671,
+  "EOS_Progressed": 226673,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 570,
+  "EOS_NewPlayers": 571,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -8418,6 +8418,11 @@
       "Time": "2023-07-08T11:06:45.7956067+00:00",
       "NumProgressed": 226671,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-07-08T12:06:52.8292117+00:00",
+      "NumProgressed": 226673,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 34,
@@ -8517,7 +8522,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 45334
+      "UsersEstimate": 45335
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -8589,7 +8594,7 @@
       "Name": "ON A ROLL",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20400
+      "UsersEstimate": 20401
     },
     {
       "ID": "PHOTOFINISH",
@@ -8693,22 +8698,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 92935
+      "UsersEstimate": 92936
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 226671,
+      "Progressed": 226673,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-07-08T11:06:45.7956061+00:00",
+  "LastChanged_Achievements": "2023-07-08T12:06:52.8292109+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:56.9727616+00:00",
-  "LastUpdate_Ratings": "2023-07-08T10:58:51.7786908+00:00",
-  "LastUpdate_Achievements": "2023-07-08T11:06:45.7956627+00:00"
+  "LastUpdate_Ratings": "2023-07-08T11:58:40.1830767+00:00",
+  "LastUpdate_Achievements": "2023-07-08T12:06:52.8292703+00:00"
 }

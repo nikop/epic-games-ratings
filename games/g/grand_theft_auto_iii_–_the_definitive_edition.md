@@ -9,7 +9,7 @@ Rating: 4.14 (Ranked 874)
 | Disposing of the Evidence | 37.00% | ~2,563 |
 | Without a Scratch | 33.00% | ~2,286 |
 | Wreckless Driving | 28.00% | ~1,940 |
-| A Marked Man | 24.00% | ~1,663 |
+| A Marked Man | 25.00% | ~1,732 |
 | Street Sweeper | 18.00% | ~1,247 |
 | Liberty City Minute | 16.00% | ~1,108 |
 | Offshore Delivery | 13.00% | ~901 |

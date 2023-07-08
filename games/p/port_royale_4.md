@@ -6,11 +6,11 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~580 |
-| My little farm | 65.00% | ~465 |
-| Every beginning is difficult | 62.00% | ~444 |
-| 3, 2, 1, mine | 56.00% | ~401 |
-| Gofer | 56.00% | ~401 |
+| Cabin boy | 80.00% | ~574 |
+| My little farm | 65.00% | ~466 |
+| Every beginning is difficult | 62.00% | ~445 |
+| 3, 2, 1, mine | 56.00% | ~402 |
+| Gofer | 56.00% | ~402 |
 | Seafarer | 54.00% | ~387 |
 | O Captain! My Captain! | 54.00% | ~387 |
 | Greed for gold | 43.00% | ~308 |
@@ -19,18 +19,18 @@ Number of Ratings: 53  (23.09.2022)
 | In a mint condition | 38.00% | ~272 |
 | Licence to Kill | 36.00% | ~258 |
 | Pirates! | 35.00% | ~251 |
-| Collectionitis | 28.00% | ~200 |
-| Megalomania | 28.00% | ~200 |
-| Christening | 27.00% | ~193 |
+| Collectionitis | 28.00% | ~201 |
+| Megalomania | 28.00% | ~201 |
+| Christening | 27.00% | ~194 |
 | Groundskeeper | 25.00% | ~179 |
 | Wholesale | 22.00% | ~158 |
-| Walk the plank | 21.00% | ~150 |
+| Walk the plank | 21.00% | ~151 |
 | Pearly gates | 17.00% | ~122 |
 | My precious! | 17.00% | ~122 |
 | Conquistador | 14.00% | ~100 |
 | Panic buying | 11.00% | ~79 |
-| Just a scratch | 9.00% | ~64 |
-| Your vessel, my vessel | 9.00% | ~64 |
+| Just a scratch | 9.00% | ~65 |
+| Your vessel, my vessel | 9.00% | ~65 |
 | All mine! | 8.00% | ~57 |
 | Paths of Glory | 8.00% | ~57 |
 | Panel of experts | 8.00% | ~57 |
@@ -40,9 +40,9 @@ Number of Ratings: 53  (23.09.2022)
 | Flying Dutchman | 5.00% | ~36 |
 | The Grande Bouffe | 5.00% | ~36 |
 | Overpopulation | 4.00% | ~29 |
-| Premier Maître | 3.00% | ~21 |
-| Supreme conqueror | 3.00% | ~21 |
-| A true pirate! | 3.00% | ~21 |
+| Premier Maître | 3.00% | ~22 |
+| Supreme conqueror | 3.00% | ~22 |
+| A true pirate! | 3.00% | ~22 |
 | Strategist | 2.00% | ~14 |
 | The customer is always right | 2.00% | ~14 |
 | Master & Commander | 2.00% | ~14 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Fleet Admiral | 0.60% | ~4 |
 | Davy Jones' locker | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 716 (Ranked 201)  
+Progressed: 717 (Ranked 201)  
 Completed: 1 (0.14%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,6 +127,7 @@ Completed: 1 (0.14%) (Ranked 176)
 | 2023-07-04 | 709 | 1 |
 | 2023-07-05 | 711 | 1 |
 | 2023-07-07 | 716 | 1 |
+| 2023-07-08 | 717 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

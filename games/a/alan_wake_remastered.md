@@ -6,14 +6,14 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 33.00% | ~18,815 |
-| Let There Be Light | 27.00% | ~15,394 |
+| Follow the Light | 33.00% | ~18,816 |
+| Let There Be Light | 27.00% | ~15,395 |
 | Float Like a Butterfly | 26.00% | ~14,824 |
-| Nordic Walking | 21.00% | ~11,973 |
+| Nordic Walking | 21.00% | ~11,974 |
 | Bright Falls' Finest | 20.00% | ~11,403 |
 | Under a Thin Layer of Skin | 18.00% | ~10,263 |
-| Park Ranger | 15.00% | ~8,552 |
-| Paging Mr. Wake | 15.00% | ~8,552 |
+| Park Ranger | 15.00% | ~8,553 |
+| Paging Mr. Wake | 15.00% | ~8,553 |
 | Back! Back, I Say! | 14.00% | ~7,982 |
 | Finders Keepers | 14.00% | ~7,982 |
 | Damn Good Cup of Coffee | 13.00% | ~7,412 |
@@ -27,11 +27,11 @@ Number of Ratings: 524  (23.09.2022)
 | Come One, Come All | 11.00% | ~6,272 |
 | Heavy Metal | 10.00% | ~5,702 |
 | Perchance to Dream | 10.00% | ~5,702 |
-| Gatekeeper | 9.00% | ~5,131 |
-| It's Not Just a Typewriter Brand | 9.00% | ~5,131 |
-| Thunder and Lightning | 9.00% | ~5,131 |
-| Two For the Price of One | 9.00% | ~5,131 |
-| Energized! | 9.00% | ~5,131 |
+| Gatekeeper | 9.00% | ~5,132 |
+| It's Not Just a Typewriter Brand | 9.00% | ~5,132 |
+| Thunder and Lightning | 9.00% | ~5,132 |
+| Two For the Price of One | 9.00% | ~5,132 |
+| Energized! | 9.00% | ~5,132 |
 | The Lady of the Light | 8.00% | ~4,561 |
 | Right of Way | 8.00% | ~4,561 |
 | A Friend in Need | 8.00% | ~1,639 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~57 |
 | No Punctuation | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,016 (Ranked 80)  
+Progressed: 57,017 (Ranked 80)  
 Completed: 57 (0.10%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 57 (0.10%) (Ranked 183)
 | 2023-07-05 | 56,875 | 57 |
 | 2023-07-06 | 56,931 | 57 |
 | 2023-07-07 | 56,982 | 57 |
-| 2023-07-08 | 57,016 | 57 |
+| 2023-07-08 | 57,017 | 57 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

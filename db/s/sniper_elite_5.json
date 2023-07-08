@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -380,9 +380,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3229,
+  "EOS_Progressed": 3230,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -4785,6 +4785,11 @@
       "Time": "2023-07-08T11:01:50.5122766+00:00",
       "NumProgressed": 3229,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-08T12:02:05.491796+00:00",
+      "NumProgressed": 3230,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -5050,17 +5055,17 @@
       "ID": "REWARD_40_CLOSE_QUARTERS",
       "SetID": "bm6el81",
       "Name": "Close Quarters",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
       "SetID": "bm6el81",
       "Name": "Snake in the Grass",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -5178,9 +5183,9 @@
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
       "SetID": "bm6el81",
       "Name": "Sight Beyond Sights",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_7_TARGET_AMERICA",
@@ -5363,13 +5368,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3180,
+      "Progressed": 3181,
       "Completed": 13
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3229,
+      "Progressed": 3230,
       "Completed": 9
     }
   ],
@@ -5377,8 +5382,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-05T19:03:38.4770688+00:00",
-  "LastChanged_Achievements": "2023-07-08T11:01:50.5122761+00:00",
+  "LastChanged_Achievements": "2023-07-08T12:02:05.4917952+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:07.1687539+00:00",
-  "LastUpdate_Ratings": "2023-07-08T11:01:23.3237978+00:00",
-  "LastUpdate_Achievements": "2023-07-08T11:01:50.5123537+00:00"
+  "LastUpdate_Ratings": "2023-07-08T12:01:07.9039639+00:00",
+  "LastUpdate_Achievements": "2023-07-08T12:02:05.4918722+00:00"
 }

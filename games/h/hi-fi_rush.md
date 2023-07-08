@@ -7,11 +7,12 @@ Rating: 4.87 (Ranked 25)
 | ---- | ---------- | ----- |
 | NOW we got a kickass hideout! | 0.80% | ~16 |
 | Time to pay up! | 0.50% | ~17 |
+| Who's the boss now? | 0.50% | ~17 |
 | I play my own way! | 0.50% | ~17 |
 | Cream of the Crop | 0.40% | ~14 |
+| This will cost you big time | 0.40% | ~14 |
 | The Negotiator | 0.40% | ~14 |
 | Headliner | 0.40% | ~14 |
-| Who's the boss now? | 0.40% | ~14 |
 | Thanks for the free chip, Peppermint! | 0.40% | ~14 |
 | Whoa! There's ANOTHER health bar!? | 0.40% | ~14 |
 | You got this, Peppermint? | 0.40% | ~14 |
@@ -20,7 +21,6 @@ Rating: 4.87 (Ranked 25)
 | Uh, they were broken when I got here | 0.40% | ~14 |
 | Who put gears in there? | 0.40% | ~14 |
 | Call me Turbo Chai | 0.40% | ~8 |
-| This will cost you big time | 0.30% | ~10 |
 | Well that was a rush! | 0.30% | ~10 |
 | I have to read these things? | 0.30% | ~10 |
 | Feeling the beat! | 0.30% | ~10 |

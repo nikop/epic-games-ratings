@@ -970,9 +970,9 @@
       "ID": "Restructuring",
       "SetID": "1e89b4i",
       "Name": "Restructuring",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 46
     },
     {
       "ID": "Reviewer",
@@ -1033,8 +1033,8 @@
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-07-08T11:03:14.0011903+00:00",
+  "LastChanged_Achievements": "2023-07-08T12:03:17.5652388+00:00",
   "LastUpdate_AppInfo": "2023-07-04T07:57:07.1618856+00:00",
-  "LastUpdate_Ratings": "2023-07-08T10:57:19.2418268+00:00",
-  "LastUpdate_Achievements": "2023-07-08T11:03:14.0012195+00:00"
+  "LastUpdate_Ratings": "2023-07-08T11:57:08.0544393+00:00",
+  "LastUpdate_Achievements": "2023-07-08T12:03:17.5652679+00:00"
 }

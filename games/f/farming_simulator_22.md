@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~181 |
 | Raisin the stakes | 0.30% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,155 (Ranked 86)  
+Progressed: 45,155 (Ranked 87)  
 Completed: 5 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 5 (0.01%) (Ranked 223)
 | 2023-07-08 | 45,155 | 5 |
 ## Awards
 Max (Great for Beginners): 4,500  (Ranked 71)  
-Sum: 37,932 (Ranked 31)  
+Sum: 37,937 (Ranked 31)  
 Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
@@ -140,8 +140,8 @@ Diff (max vs sum): 40
 | This game is Relaxing | 4,008 |
 | This game is Educational | 3,978 |
 | This game has Quickly Understood Controls | 3,928 |
+| This game is Extremely Fun | 3,804 |
 | This game is Highly Recommended | 3,799 |
-| This game is Extremely Fun | 3,799 |
 | This game has Diverse Characters | 3,794 |
 | This game has Amazing Storytelling | 3,693 |
 | This game has Amazing Characters | 3,307 |
@@ -323,4 +323,4 @@ Diff (max vs sum): 40
 | 2023-07-05 | 4.70 | - | 4,490 | 37,881 |
 | 2023-07-06 | 4.70 | - | 4,495 | 37,907 |
 | 2023-07-07 | 4.70 | - | 4,500 | 37,926 |
-| 2023-07-08 | 4.70 | - | 4,500 | 37,932 |
+| 2023-07-08 | 4.70 | - | 4,500 | 37,937 |

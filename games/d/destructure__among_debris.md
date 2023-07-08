@@ -11,7 +11,7 @@
 | I Prefer Jazz Fusion | 11.00% | ~16 |
 | Master Destructor | 10.00% | ~15 |
 | Avaricerite | 9.00% | ~14 |
-| Ball Galore | 7.00% | ~11 |
+| Ball Galore | 8.00% | ~12 |
 | Easy Victory | 7.00% | ~11 |
 | Legendary Destructor | 5.00% | ~8 |
 | You Are Actually Supposed To Use Those | 5.00% | ~8 |

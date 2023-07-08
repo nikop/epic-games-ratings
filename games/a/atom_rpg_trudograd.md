@@ -20,7 +20,7 @@ Rating: 4.52 (Ranked 520)
 | Human Antidote | 2.00% | ~23 |
 | Albino Bloodsucker | 1.00% | ~11 |
 | Death of the Author | 1.00% | ~11 |
-| Memoirs of a Nibbler | 0.80% | ~9 |
+| Memoirs of a Nibbler | 0.90% | ~10 |
 | KGB Bunker | 0.70% | ~8 |
 | Sixth Sense | 0.70% | ~8 |
 | Rising Star | 0.60% | ~7 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2421,
+  "EOS_Progressed": 2422,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -2919,6 +2919,11 @@
       "Time": "2023-07-08T11:06:55.4534788+00:00",
       "NumProgressed": 2421,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-08T12:07:02.842305+00:00",
+      "NumProgressed": 2422,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -2938,7 +2943,7 @@
       "Name": "Whispers in the Woods I",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -2986,7 +2991,7 @@
       "Name": "No more holding back",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "STB_DEFEAT_GAREN_I",
@@ -2994,7 +2999,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2324
+      "UsersEstimate": 2325
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -3010,7 +3015,7 @@
       "Name": "Everfrost",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 1888
+      "UsersEstimate": 1889
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -3058,7 +3063,7 @@
       "Name": "Little light",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_I",
@@ -3104,9 +3109,9 @@
       "ID": "STB_KILL_5_ENEMIES_SAME_TIME",
       "SetID": "3pe2bac",
       "Name": "Pentakill",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1840
+      "UsersEstimate": 1865
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -3114,7 +3119,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2227
+      "UsersEstimate": 2228
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -3146,7 +3151,7 @@
       "Name": "Dark Forest",
       "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 1864
+      "UsersEstimate": 1865
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -3194,7 +3199,7 @@
       "Name": "Capelworth",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -3290,7 +3295,7 @@
       "Name": "Quickmoore Headquarters",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_V",
@@ -3306,7 +3311,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 1767
+      "UsersEstimate": 1768
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -3353,7 +3358,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2421,
+      "Progressed": 2422,
       "Completed": 4
     }
   ],
@@ -3361,8 +3366,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-07-07T20:57:43.6161991+00:00",
-  "LastChanged_Achievements": "2023-07-08T11:06:55.4534783+00:00",
+  "LastChanged_Achievements": "2023-07-08T12:07:02.8423046+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:00.9514452+00:00",
-  "LastUpdate_Ratings": "2023-07-08T10:58:09.0164622+00:00",
-  "LastUpdate_Achievements": "2023-07-08T11:06:55.4535438+00:00"
+  "LastUpdate_Ratings": "2023-07-08T11:57:56.1172185+00:00",
+  "LastUpdate_Achievements": "2023-07-08T12:07:02.842355+00:00"
 }

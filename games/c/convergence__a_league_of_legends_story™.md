@@ -10,6 +10,7 @@
 | The Steel Shadow | 14.00% | ~105 |
 | The Man Who Shattered Time | 14.00% | ~105 |
 | Cartographer | 14.00% | ~105 |
+| Breaking Down Barriers | 14.00% | ~105 |
 | The Family Fortune | 14.00% | ~105 |
 | Treasure Trove | 13.00% | ~97 |
 | The Betrayer | 13.00% | ~97 |
@@ -18,7 +19,6 @@
 | Time Flies | 13.00% | ~97 |
 | The Harder They Fall | 13.00% | ~97 |
 | No, Thanks! | 13.00% | ~97 |
-| Breaking Down Barriers | 13.00% | ~97 |
 | The Wicked Twins | 13.00% | ~97 |
 | The Prince in Heels | 13.00% | ~97 |
 | Immaculate Aim | 13.00% | ~97 |

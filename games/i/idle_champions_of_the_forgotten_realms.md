@@ -6,58 +6,58 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,264 |
-| The Mad Wizard | 11.00% | ~22,927 |
-| The Ring of Regeneration | 7.00% | ~14,590 |
-| Are Ya Chicken? | 7.00% | ~14,590 |
-| Were-verpowered | 5.00% | ~10,421 |
-| Seeking Allies | 5.00% | ~10,421 |
-| Mad Cow Disease | 5.00% | ~10,421 |
-| Friendly Imps | 5.00% | ~10,421 |
-| A Persistent Buzzing | 4.00% | ~8,337 |
-| Pure Energy | 4.00% | ~8,337 |
-| Beast Mode | 3.00% | ~6,253 |
-| Terror in the Dark | 3.00% | ~6,253 |
-| Unearthed Evil | 3.00% | ~6,253 |
-| The Crumbling Temple | 3.00% | ~6,253 |
-| Exploring Port Nyanzaru | 3.00% | ~6,253 |
-| The Contagious Curse | 3.00% | ~6,253 |
-| Low Initiative | 2.00% | ~4,168 |
-| A Mysterious Summons | 2.00% | ~4,168 |
-| Building Trust | 2.00% | ~4,168 |
-| No Time To Rest | 2.00% | ~4,168 |
-| Useless Allies | 2.00% | ~4,168 |
-| Running of the Saurs | 2.00% | ~4,168 |
-| Escort to Waterdeep | 2.00% | ~4,168 |
-| Waterdeep Detours | 2.00% | ~4,168 |
-| Underdeep Cartography | 2.00% | ~4,168 |
-| Overdue Rendezvous | 2.00% | ~4,168 |
-| The Templar's Camp | 2.00% | ~4,168 |
-| Homecoming | 1.00% | ~2,084 |
-| Street War | 1.00% | ~2,084 |
-| March of the Undead | 1.00% | ~2,084 |
-| Invisible Shadows | 1.00% | ~2,084 |
-| The Dinner Party | 1.00% | ~2,084 |
-| The Botched Kidnapping | 1.00% | ~2,084 |
-| Trollskull Manor | 1.00% | ~2,084 |
-| The Death Curse | 1.00% | ~2,084 |
-| Premature Betrayal | 1.00% | ~2,084 |
-| A Tale of Two Cities | 1.00% | ~2,084 |
-| Flying Monkey Skulls of Doom | 1.00% | ~2,084 |
-| Close Escort | 1.00% | ~2,084 |
-| Constant Banditry | 1.00% | ~2,084 |
-| Rescue in the Jungle | 1.00% | ~2,084 |
+| The Cursed Farmer | 15.00% | ~31,270 |
+| The Mad Wizard | 11.00% | ~22,931 |
+| The Ring of Regeneration | 7.00% | ~14,592 |
+| Are Ya Chicken? | 7.00% | ~14,592 |
+| Were-verpowered | 5.00% | ~10,423 |
+| Seeking Allies | 5.00% | ~10,423 |
+| Mad Cow Disease | 5.00% | ~10,423 |
+| Friendly Imps | 5.00% | ~10,423 |
+| A Persistent Buzzing | 4.00% | ~8,339 |
+| Pure Energy | 4.00% | ~8,339 |
+| Beast Mode | 3.00% | ~6,254 |
+| Terror in the Dark | 3.00% | ~6,254 |
+| Unearthed Evil | 3.00% | ~6,254 |
+| The Crumbling Temple | 3.00% | ~6,254 |
+| Exploring Port Nyanzaru | 3.00% | ~6,254 |
+| The Contagious Curse | 3.00% | ~6,254 |
+| Low Initiative | 2.00% | ~4,169 |
+| A Mysterious Summons | 2.00% | ~4,169 |
+| Building Trust | 2.00% | ~4,169 |
+| No Time To Rest | 2.00% | ~4,169 |
+| Useless Allies | 2.00% | ~4,169 |
+| Running of the Saurs | 2.00% | ~4,169 |
+| Escort to Waterdeep | 2.00% | ~4,169 |
+| Waterdeep Detours | 2.00% | ~4,169 |
+| Underdeep Cartography | 2.00% | ~4,169 |
+| Overdue Rendezvous | 2.00% | ~4,169 |
+| The Templar's Camp | 2.00% | ~4,169 |
+| Homecoming | 1.00% | ~2,085 |
+| Street War | 1.00% | ~2,085 |
+| March of the Undead | 1.00% | ~2,085 |
+| Invisible Shadows | 1.00% | ~2,085 |
+| The Dinner Party | 1.00% | ~2,085 |
+| The Botched Kidnapping | 1.00% | ~2,085 |
+| Trollskull Manor | 1.00% | ~2,085 |
+| The Death Curse | 1.00% | ~2,085 |
+| Premature Betrayal | 1.00% | ~2,085 |
+| A Tale of Two Cities | 1.00% | ~2,085 |
+| Flying Monkey Skulls of Doom | 1.00% | ~2,085 |
+| Close Escort | 1.00% | ~2,085 |
+| Constant Banditry | 1.00% | ~2,085 |
+| Rescue in the Jungle | 1.00% | ~2,085 |
 | The Lost Heir of Omu | 0.90% | ~1,876 |
+| Attack on the Manor | 0.90% | ~1,876 |
 | Dinosaur Racing | 0.90% | ~1,876 |
 | The Long Haul | 0.90% | ~1,876 |
 | Lost in the Deep | 0.90% | ~1,876 |
 | Easily Distracted | 0.90% | ~1,876 |
-| The Forbidden City | 0.80% | ~1,667 |
-| Captured! | 0.80% | ~1,667 |
-| Wisdom Check | 0.80% | ~1,667 |
-| The Mists of Ravenloft | 0.80% | ~1,667 |
-| Attack on the Manor | 0.80% | ~1,667 |
-| The Dead Three | 0.80% | ~1,667 |
+| The Forbidden City | 0.80% | ~1,668 |
+| Captured! | 0.80% | ~1,668 |
+| Wisdom Check | 0.80% | ~1,668 |
+| The Mists of Ravenloft | 0.80% | ~1,668 |
+| The Dead Three | 0.80% | ~1,668 |
 | A Grand Puzzle | 0.70% | ~1,459 |
 | Tomb of the Nine Gods | 0.70% | ~1,459 |
 | Treasure Hunters | 0.70% | ~1,459 |
@@ -91,7 +91,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Waterdeep Under Siege | 0.50% | ~1,042 |
 | Vault of Dragons | 0.50% | ~1,042 |
 | Elturel Has Fallen | 0.50% | ~1,042 |
-| The Everlasting Rime | 0.50% | ~873 |
+| The Everlasting Rime | 0.50% | ~874 |
 | Expert Opinion | 0.50% | ~1,042 |
 | Poor Guidance | 0.50% | ~1,042 |
 | Anti-Dexterous Explorers | 0.40% | ~834 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,425 (Ranked 52)  
+Progressed: 208,464 (Ranked 52)  
 Completed: 2,039 (0.98%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -589,7 +589,7 @@ Completed: 2,039 (0.98%) (Ranked 102)
 | 2023-07-05 | 206,889 | 2,032 |
 | 2023-07-06 | 207,486 | 2,035 |
 | 2023-07-07 | 208,152 | 2,037 |
-| 2023-07-08 | 208,425 | 2,039 |
+| 2023-07-08 | 208,464 | 2,039 |
 ## Awards
 Max (Diverse Characters): 5,013  (Ranked 65)  
 Sum: 30,445 (Ranked 37)  

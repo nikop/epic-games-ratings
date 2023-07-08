@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dash Crash | 70.00% | ~227 |
-| Be water, my friend | 65.00% | ~211 |
+| Dash Crash | 70.00% | ~228 |
+| Be water, my friend | 64.00% | ~209 |
 | Snake Eyes | 59.00% | ~192 |
-| Fireball | 52.00% | ~169 |
+| Fireball | 52.00% | ~170 |
 | The King of Flat | 47.00% | ~153 |
 | Air Slash | 38.00% | ~124 |
 | Hit That Ball | 38.00% | ~124 |
@@ -22,14 +22,14 @@
 | Black Belt | 5.00% | ~16 |
 | Dash Crash - Hero Edition | 4.00% | ~13 |
 | Quite The Hero | 3.00% | ~10 |
-| Path of the Hero | 2.00% | ~6 |
-| Snake Eyes - Hero Edition | 2.00% | ~6 |
-| The King of Flat - Hero Edition | 2.00% | ~6 |
-| Eat That Apple - Hero Edition | 2.00% | ~6 |
-| Snakecharmer | 2.00% | ~6 |
-| Apprentice | 2.00% | ~6 |
-| Vertigo | 2.00% | ~6 |
-| Rogue | 2.00% | ~6 |
+| Path of the Hero | 2.00% | ~7 |
+| Snake Eyes - Hero Edition | 2.00% | ~7 |
+| The King of Flat - Hero Edition | 2.00% | ~7 |
+| Eat That Apple - Hero Edition | 2.00% | ~7 |
+| Snakecharmer | 2.00% | ~7 |
+| Apprentice | 2.00% | ~7 |
+| Vertigo | 2.00% | ~7 |
+| Rogue | 2.00% | ~7 |
 | Hit That Ball - Hero Edition | 1.00% | ~3 |
 | Tornado Chaser - Hero Edition | 1.00% | ~3 |
 | Bomberman - Hero Edition | 1.00% | ~3 |
@@ -49,7 +49,7 @@
 | Warrior Trials | 0.00% | ~0 |
 | Colorful | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 325 (Ranked 238)  
+Progressed: 326 (Ranked 238)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,6 +76,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-01 | 323 | 0 |
 | 2023-07-06 | 324 | 0 |
 | 2023-07-07 | 325 | 0 |
+| 2023-07-08 | 326 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

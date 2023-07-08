@@ -6,31 +6,31 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 73.00% | ~3,240 |
-| Having A Field Day | 72.00% | ~3,196 |
-| Reap What You Sow | 69.00% | ~3,063 |
+| Get A Room | 73.00% | ~3,241 |
+| Having A Field Day | 72.00% | ~3,197 |
+| Reap What You Sow | 69.00% | ~3,064 |
 | The First Day | 66.00% | ~2,930 |
-| Green Thumb | 65.00% | ~2,885 |
+| Green Thumb | 65.00% | ~2,886 |
 | Novice Researcher | 63.00% | ~2,797 |
-| Putting Food on the Table | 59.00% | ~2,619 |
-| Onward | 55.00% | ~2,441 |
+| Putting Food on the Table | 59.00% | ~2,620 |
+| Onward | 55.00% | ~2,442 |
 | Home Cooked Meal | 53.00% | ~2,353 |
-| The First Week | 52.00% | ~2,308 |
+| The First Week | 52.00% | ~2,309 |
 | Studious Researcher | 50.00% | ~2,220 |
-| Beam Me Up | 49.00% | ~2,175 |
-| Feast or Famine | 49.00% | ~2,175 |
-| Adept Researcher | 44.00% | ~1,953 |
-| Retribution | 39.00% | ~1,731 |
-| ...And Don’t Come Back! | 39.00% | ~1,731 |
+| Beam Me Up | 49.00% | ~2,176 |
+| Feast or Famine | 49.00% | ~2,176 |
+| Adept Researcher | 44.00% | ~1,954 |
+| Retribution | 39.00% | ~1,732 |
+| ...And Don’t Come Back! | 39.00% | ~1,732 |
 | Fit For A King | 38.00% | ~1,687 |
-| Luminary Researcher | 34.00% | ~1,509 |
+| Luminary Researcher | 34.00% | ~1,510 |
 | Heating Up | 27.00% | ~1,199 |
-| Winter Is Coming | 24.00% | ~1,065 |
+| Winter Is Coming | 24.00% | ~1,066 |
 | Winter Is Here | 21.00% | ~932 |
-| Disassembled | 19.00% | ~843 |
-| A Party Now | 18.00% | ~799 |
+| Disassembled | 19.00% | ~844 |
+| A Party Now | 19.00% | ~844 |
+| All Year Round | 19.00% | ~844 |
 | Oh Deer! | 18.00% | ~799 |
-| All Year Round | 18.00% | ~799 |
 | Nothing Wasted | 12.00% | ~533 |
 | Don't Cry Wolf | 11.00% | ~488 |
 | Deerly Departed | 8.00% | ~355 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~89 |
 | Wabbit Season | 0.60% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,439 (Ranked 139)  
+Progressed: 4,440 (Ranked 139)  
 Completed: 9 (0.20%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 9 (0.20%) (Ranked 162)
 | 2023-07-05 | 4,382 | 9 |
 | 2023-07-06 | 4,407 | 9 |
 | 2023-07-07 | 4,430 | 9 |
-| 2023-07-08 | 4,439 | 9 |
+| 2023-07-08 | 4,440 | 9 |
 ## Awards
 Max (Relaxing): 120  (Ranked 310)  
 Sum: 959 (Ranked 239)  

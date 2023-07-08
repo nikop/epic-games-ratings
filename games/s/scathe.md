@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 12.00% | ~17 |
+| First Blood | 12.00% | ~18 |
 | Half a Life | 6.00% | ~9 |
 | Shock to the System | 4.00% | ~6 |
 | Bad Blood | 3.00% | ~4 |
@@ -35,7 +35,7 @@
 | Unreal 4 | 0.00% | ~0 |
 | Until Dusk | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 145 (Ranked 284)  
+Progressed: 147 (Ranked 284)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,6 +65,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-05 | 138 | 0 |
 | 2023-07-06 | 142 | 0 |
 | 2023-07-07 | 145 | 0 |
+| 2023-07-08 | 147 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

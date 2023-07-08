@@ -25,15 +25,15 @@ Rating: 4.45 (Ranked 621)
 | Change the Channel | 1.00% | ~32 |
 | Brains of the Operation | 1.00% | ~32 |
 | Opposing Force | 0.90% | ~29 |
+| Close Quarters | 0.90% | ~29 |
 | Set Europe Ablaze | 0.80% | ~26 |
 | Precision Is Key | 0.80% | ~26 |
 | Explosive Efficiency | 0.80% | ~26 |
-| Close Quarters | 0.80% | ~26 |
+| Snake in the Grass | 0.80% | ~26 |
 | Enemy at the Gates | 0.70% | ~23 |
 | Fields of Glory | 0.70% | ~23 |
 | Skirmisher | 0.70% | ~23 |
 | My Little Friend | 0.70% | ~23 |
-| Snake in the Grass | 0.70% | ~23 |
 | The Long Game | 0.60% | ~19 |
 | Die Nussknacker Sweet! | 0.60% | ~19 |
 | Tinkerer | 0.60% | ~19 |
@@ -62,13 +62,13 @@ Rating: 4.45 (Ranked 621)
 | Out of Scope | 0.20% | ~6 |
 | Locomotion Commotion | 0.20% | ~6 |
 | Up close and personal | 0.20% | ~6 |
+| Sight Beyond Sights | 0.20% | ~6 |
 | Shoot for the Moon | 0.20% | ~6 |
 | Can't Outrun A Bullet | 0.20% | ~6 |
 | Führerious Repetition | 0.20% | ~6 |
 | Operation Overlord | 0.20% | ~6 |
 | Master of Pistols | 0.10% | ~3 |
 | Master-at-arms | 0.10% | ~3 |
-| Sight Beyond Sights | 0.10% | ~3 |
 | Reich To The Point | 0.10% | ~3 |
 | From Führer Away | 0.10% | ~3 |
 | Covert Elimination | 0.10% | ~3 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 621)
 | Stroll in the Woods | 0.10% | ~3 |
 | Going Overboard | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,229 (Ranked 146)  
+Progressed: 3,230 (Ranked 146)  
 Completed: 9 (0.28%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 9 (0.28%) (Ranked 150)
 | 2023-07-05 | 3,214 | 9 |
 | 2023-07-06 | 3,221 | 9 |
 | 2023-07-07 | 3,227 | 9 |
-| 2023-07-08 | 3,229 | 9 |
+| 2023-07-08 | 3,230 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

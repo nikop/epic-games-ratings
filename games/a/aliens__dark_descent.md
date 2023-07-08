@@ -20,7 +20,7 @@ Rating: 4.45 (Ranked 621)
 | Damn Dude, You Gotta Lose Some Weight! | 37.00% | ~1,002 |
 | Harper's Hell | 35.00% | ~948 |
 | Making a Stand | 33.00% | ~894 |
-| Recouped Investment | 30.00% | ~813 |
+| Recouped Investment | 31.00% | ~840 |
 | Omelette Du Fromage | 29.00% | ~786 |
 | Where It All Begun | 28.00% | ~759 |
 | Living Nightmare | 21.00% | ~569 |
@@ -29,8 +29,8 @@ Rating: 4.45 (Ranked 621)
 | Stuff Of Nightmares | 16.00% | ~433 |
 | Come on, You Wanna Live Forever? | 15.00% | ~406 |
 | Deep Into Insanity | 15.00% | ~406 |
+| The Passenger | 15.00% | ~406 |
 | El Riesgo Siempre Vive | 14.00% | ~379 |
-| The Passenger | 14.00% | ~379 |
 | One For Every Occasion | 11.00% | ~298 |
 | Frontliner | 11.00% | ~298 |
 | The Cable Guy | 11.00% | ~298 |
