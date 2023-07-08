@@ -48,8 +48,8 @@
 | 46 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.63% |
 | 47 | [Doodle God](games/d/doodle_god.md) | 3.56% |
 | 48 | [ZZT!](games/z/zzt!.md) | 3.50% |
-| 49 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 3.45% |
-| 50 | [Bunny Park](games/b/bunny_park.md) | 3.42% |
+| 49 | [Bunny Park](games/b/bunny_park.md) | 3.42% |
+| 50 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 3.39% |
 | 51 | [Monster Harvest](games/m/monster_harvest.md) | 3.38% |
 | 52 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.33% |
 | 53 | [JARS](games/j/jars.md) | 3.28% |
@@ -74,10 +74,10 @@
 | 71 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.30% |
 | 73 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 74 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.15% |
-| 75 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.11% |
+| 75 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.10% |
 | 76 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.08% |
-| 77 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.96% |
-| 78 | [Frogun](games/f/frogun.md) | 1.92% |
+| 77 | [Frogun](games/f/frogun.md) | 1.92% |
+| 77 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
 | 79 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 80 | [Sifu](games/s/sifu.md) | 1.80% |
 | 81 | [Iron Danger](games/i/iron_danger.md) | 1.79% |
