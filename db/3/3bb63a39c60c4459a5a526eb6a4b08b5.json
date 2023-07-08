@@ -3,8 +3,8 @@
   "Name": "Fly Corp",
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 255,
-  "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_Completed": 133,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 237,
+  "EOS_Progressed": 238,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -666,6 +666,11 @@
       "Time": "2023-07-07T21:02:36.8845154+00:00",
       "NumProgressed": 237,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-08T00:03:07.0179897+00:00",
+      "NumProgressed": 238,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -693,7 +698,7 @@
       "Name": "Basic Controls",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "BigPlane",
@@ -717,7 +722,7 @@
       "Name": "Calculated",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "Close",
@@ -813,7 +818,7 @@
       "Name": "Large Airport",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "LargeTerritories",
@@ -829,7 +834,7 @@
       "Name": "Legendary transporter",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "LinearNetwork",
@@ -845,7 +850,7 @@
       "Name": "Long Distances",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ManagementMaster",
@@ -891,9 +896,9 @@
       "ID": "NoWayBack",
       "SetID": "1e89b4i",
       "Name": "No Way Back",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 62
     },
     {
       "ID": "NotPlanned",
@@ -901,7 +906,7 @@
       "Name": "This Wasn\u0027t Part of the Plan...",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Ownway",
@@ -923,9 +928,9 @@
       "ID": "RacingAgainstTime",
       "SetID": "1e89b4i",
       "Name": "Race Against Time",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 33
+      "UsersEstimate": 31
     },
     {
       "ID": "Reaction",
@@ -941,7 +946,7 @@
       "Name": "Reliable Transporter",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ResourceEconomy",
@@ -955,9 +960,9 @@
       "ID": "Restructuring",
       "SetID": "1e89b4i",
       "Name": "Restructuring",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 43
     },
     {
       "ID": "Reviewer",
@@ -987,9 +992,9 @@
       "ID": "Ten",
       "SetID": "1e89b4i",
       "Name": "Ten!",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 95
     },
     {
       "ID": "TimeForManagement",
@@ -1003,23 +1008,23 @@
       "ID": "TransportHub",
       "SetID": "1e89b4i",
       "Name": "Transport Hub",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 121
+      "UsersEstimate": 119
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 237,
+      "Progressed": 238,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-07-07T23:02:29.5875819+00:00",
+  "LastChanged_Achievements": "2023-07-08T00:03:07.0179892+00:00",
   "LastUpdate_AppInfo": "2023-07-04T07:57:07.1618856+00:00",
-  "LastUpdate_Ratings": "2023-07-07T22:57:14.2120333+00:00",
-  "LastUpdate_Achievements": "2023-07-07T23:02:29.5876198+00:00"
+  "LastUpdate_Ratings": "2023-07-07T23:57:06.8305896+00:00",
+  "LastUpdate_Achievements": "2023-07-08T00:03:07.0180193+00:00"
 }

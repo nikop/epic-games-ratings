@@ -6,9 +6,9 @@
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 110,
-  "Ranking_EOS_Completed": 74,
-  "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_Completed": 75,
+  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14650,
+  "EOS_Progressed": 14652,
   "EOS_Completed": 308,
-  "EOS_NewPlayers": 629,
+  "EOS_NewPlayers": 625,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -8529,6 +8529,11 @@
       "Time": "2023-07-07T23:02:21.0049945+00:00",
       "NumProgressed": 14650,
       "NumCompleted": 308
+    },
+    {
+      "Time": "2023-07-08T00:02:17.7946475+00:00",
+      "NumProgressed": 14652,
+      "NumCompleted": 308
     }
   ],
   "TotalAchievements": 20,
@@ -8564,7 +8569,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1318
+      "UsersEstimate": 1319
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -8612,7 +8617,7 @@
       "Name": "Hide and Seek",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -8652,7 +8657,7 @@
       "Name": "Equilibrium",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1904
+      "UsersEstimate": 1905
     },
     {
       "ID": "INTRO_FINISHED",
@@ -8660,7 +8665,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 11134
+      "UsersEstimate": 11136
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -8668,7 +8673,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 4102
+      "UsersEstimate": 4103
     },
     {
       "ID": "NORTH_FINISHED",
@@ -8699,15 +8704,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 14650,
+      "Progressed": 14652,
       "Completed": 308
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-07-07T23:02:21.0049938+00:00",
+  "LastChanged_Achievements": "2023-07-08T00:02:17.794647+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:31.8640473+00:00",
-  "LastUpdate_Ratings": "2023-07-07T23:00:45.8023572+00:00",
-  "LastUpdate_Achievements": "2023-07-07T23:02:21.0050851+00:00"
+  "LastUpdate_Ratings": "2023-07-08T00:00:58.2771676+00:00",
+  "LastUpdate_Achievements": "2023-07-08T00:02:17.7946956+00:00"
 }

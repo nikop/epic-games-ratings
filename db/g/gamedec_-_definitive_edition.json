@@ -6,9 +6,9 @@
   "Ranking_Popularity": 361,
   "Ranking_PopularitySum": 423,
   "Ranking_EOS_Progress": 45,
-  "Ranking_EOS_Completed": 236,
+  "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -360,9 +360,9 @@
       "Count": 74
     }
   ],
-  "EOS_Progressed": 236094,
+  "EOS_Progressed": 236095,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1181,
+  "EOS_NewPlayers": 1177,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8780,6 +8780,11 @@
       "Time": "2023-07-07T23:02:21.1596715+00:00",
       "NumProgressed": 236094,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-07-08T00:02:18.0093937+00:00",
+      "NumProgressed": 236095,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -8791,7 +8796,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 63745
+      "UsersEstimate": 63746
     },
     {
       "ID": "ACH_AON",
@@ -8871,7 +8876,7 @@
       "Name": "Elementary!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 21248
+      "UsersEstimate": 21249
     },
     {
       "ID": "ACH_HIDEANDSEEK",
@@ -8935,7 +8940,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 66106
+      "UsersEstimate": 66107
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -9206,7 +9211,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 236094,
+      "Progressed": 236095,
       "Completed": 7
     }
   ],
@@ -9214,8 +9219,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-06-27T19:58:13.5702969+00:00",
-  "LastChanged_Achievements": "2023-07-07T23:02:21.1596705+00:00",
+  "LastChanged_Achievements": "2023-07-08T00:02:18.009393+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:23.5972045+00:00",
-  "LastUpdate_Ratings": "2023-07-07T22:58:26.9353093+00:00",
-  "LastUpdate_Achievements": "2023-07-07T23:02:21.159842+00:00"
+  "LastUpdate_Ratings": "2023-07-07T23:58:23.2919918+00:00",
+  "LastUpdate_Achievements": "2023-07-08T00:02:18.009468+00:00"
 }

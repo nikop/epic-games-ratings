@@ -6,35 +6,35 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 89.00% | ~889,598 |
-| I Need a Bigger Garage | 63.00% | ~629,715 |
-| Pump my Ride | 46.00% | ~459,792 |
-| Ghostbuster | 32.00% | ~319,855 |
-| That Was Close | 18.00% | ~179,919 |
-| Call Roadside Assistance | 17.00% | ~169,923 |
-| Quickie | 10.00% | ~99,955 |
-| California Dreamer | 7.00% | ~69,968 |
-| Can't Touch This | 5.00% | ~49,977 |
-| Carménère Taster | 3.00% | ~29,986 |
-| Comeback | 3.00% | ~29,986 |
-| Marathonist | 3.00% | ~29,986 |
-| Living Legend | 3.00% | ~29,986 |
-| Driver from Ipanema | 2.00% | ~19,991 |
-| Pathfinder | 2.00% | ~19,991 |
-| Go-Kart Champion | 2.00% | ~19,991 |
-| Completionist | 2.00% | ~19,991 |
-| Supersonic | 2.00% | ~19,991 |
-| Harder, Better, Faster, Stronger | 2.00% | ~19,991 |
-| God of Roads | 1.00% | ~9,995 |
-| The Iceman | 1.00% | ~9,995 |
-| Oil Tycoon | 1.00% | ~9,995 |
-| Round the Globe | 1.00% | ~9,995 |
-| Golden Passport | 1.00% | ~9,995 |
-| Brave and Bold | 1.00% | ~9,995 |
+| The First of Many | 89.00% | ~889,624 |
+| I Need a Bigger Garage | 63.00% | ~629,734 |
+| Pump my Ride | 46.00% | ~459,805 |
+| Ghostbuster | 32.00% | ~319,865 |
+| That Was Close | 18.00% | ~179,924 |
+| Call Roadside Assistance | 17.00% | ~169,928 |
+| Quickie | 10.00% | ~99,958 |
+| California Dreamer | 7.00% | ~69,970 |
+| Can't Touch This | 5.00% | ~49,979 |
+| Carménère Taster | 3.00% | ~29,987 |
+| Comeback | 3.00% | ~29,987 |
+| Marathonist | 3.00% | ~29,987 |
+| Living Legend | 3.00% | ~29,987 |
+| Driver from Ipanema | 2.00% | ~19,992 |
+| Pathfinder | 2.00% | ~19,992 |
+| Go-Kart Champion | 2.00% | ~19,992 |
+| Completionist | 2.00% | ~19,992 |
+| Supersonic | 2.00% | ~19,992 |
+| Harder, Better, Faster, Stronger | 2.00% | ~19,992 |
+| God of Roads | 1.00% | ~9,996 |
+| The Iceman | 1.00% | ~9,996 |
+| Oil Tycoon | 1.00% | ~9,996 |
+| Round the Globe | 1.00% | ~9,996 |
+| Golden Passport | 1.00% | ~9,996 |
+| Brave and Bold | 1.00% | ~9,996 |
 | Crocodile Hunter | 0.90% | ~8,996 |
 | Bollywood Star | 0.90% | ~8,996 |
-| Old Master | 0.80% | ~7,996 |
-| Otaku | 0.80% | ~7,996 |
+| Old Master | 0.80% | ~7,997 |
+| Otaku | 0.80% | ~7,997 |
 | Volcano Surfer | 0.70% | ~6,997 |
 | Survivor | 0.60% | ~5,997 |
 | King of the World | 0.50% | ~4,998 |
@@ -44,8 +44,8 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,000 |
 | Look Mom, No Hands! | 0.10% | ~1,000 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 999,548 (Ranked 12)  
-Completed: 343 (0.03%) (Ranked 208)  
+Progressed: 999,577 (Ranked 12)  
+Completed: 343 (0.03%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -123,6 +123,7 @@ Completed: 343 (0.03%) (Ranked 208)
 | 2023-07-05 | 997,962 | 340 |
 | 2023-07-06 | 998,728 | 341 |
 | 2023-07-07 | 999,548 | 343 |
+| 2023-07-08 | 999,577 | 343 |
 ## Awards
 Max (Great for Beginners): 148  (Ranked 292)  
 Sum: 1,200 (Ranked 229)  

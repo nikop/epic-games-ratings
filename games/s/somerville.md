@@ -18,7 +18,7 @@ Rating: 4.20 (Ranked 835)
 | First contact. | 0.50% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,600 (Ranked 168)  
-Completed: 25 (1.56%) (Ranked 83)  
+Completed: 25 (1.56%) (Ranked 84)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

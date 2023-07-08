@@ -6,9 +6,9 @@
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 240,
-  "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 306,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_Completed": 144,
+  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
     "PcReleaseDate": "2021-01-28T00:00:00+00:00",
@@ -55,7 +55,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 318,
+  "EOS_Progressed": 319,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -210,6 +210,11 @@
       "Time": "2023-06-22T22:07:33.6234212+00:00",
       "NumProgressed": 318,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-08T00:03:38.9591134+00:00",
+      "NumProgressed": 319,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -259,9 +264,9 @@
       "ID": "ach-ascension-complete-year",
       "SetID": "17ih7ma",
       "Name": "The New Director",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 41
     },
     {
       "ID": "ach-ascension-complete-years",
@@ -275,9 +280,9 @@
       "ID": "ach-ascension-die",
       "SetID": "17ih7ma",
       "Name": "The Director is Dead",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 41
     },
     {
       "ID": "ach-ascension-inspector-return",
@@ -293,7 +298,7 @@
       "Name": "SCHMETTERLING",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ach-campaign-allEndings",
@@ -317,7 +322,7 @@
       "Name": "Traveller",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ach-campaign-finish-hard",
@@ -331,9 +336,9 @@
       "ID": "ach-campaign-finish-normal",
       "SetID": "17ih7ma",
       "Name": "Adventurer",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 80,
-      "UsersEstimate": 45
+      "UsersEstimate": 41
     },
     {
       "ID": "ach-campaign-noDeath",
@@ -357,7 +362,7 @@
       "Name": "A Strange Artefact",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ach-campaign-story2",
@@ -365,7 +370,7 @@
       "Name": "Lost \u0026 Found \u0026 Lost Again",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ach-campaign-story3",
@@ -373,7 +378,7 @@
       "Name": "O Captain My Captain",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ach-cartography-complete",
@@ -429,7 +434,7 @@
       "Name": "Red Flag Pirate",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ach-find-treasure-high",
@@ -493,7 +498,7 @@
       "Name": "No Laughing Matter",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ach-kill-sandworm",
@@ -533,7 +538,7 @@
       "Name": "The Great Library",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ach-maxLevelCharacter",
@@ -541,7 +546,7 @@
       "Name": "Veteran Explorer",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ach-meetGhost",
@@ -549,7 +554,7 @@
       "Name": "Spooky!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ach-noEquipment",
@@ -565,7 +570,7 @@
       "Name": "Insomnia",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ach-pacifist-goals",
@@ -589,7 +594,7 @@
       "Name": "Uncertain Loyalties",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ach-portal-return",
@@ -597,7 +602,7 @@
       "Name": "From Whence we Came",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ach-promotion",
@@ -605,7 +610,7 @@
       "Name": "Level Up",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ach-raiseDino",
@@ -645,7 +650,7 @@
       "Name": "Cold Blood, Warm Heart",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ach-spendNoMoney",
@@ -700,7 +705,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 318,
+      "Progressed": 319,
       "Completed": 1
     }
   ],
@@ -708,8 +713,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-06-15T11:00:18.1212208+00:00",
-  "LastChanged_Achievements": "2023-07-07T23:03:30.1282406+00:00",
+  "LastChanged_Achievements": "2023-07-08T00:03:38.959113+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:08.6377987+00:00",
-  "LastUpdate_Ratings": "2023-07-07T23:01:18.5764363+00:00",
-  "LastUpdate_Achievements": "2023-07-07T23:03:30.1282992+00:00"
+  "LastUpdate_Ratings": "2023-07-08T00:01:29.5662098+00:00",
+  "LastUpdate_Achievements": "2023-07-08T00:03:38.9591571+00:00"
 }

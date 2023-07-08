@@ -26,6 +26,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Monastery of the Holy Flame | 2.00% | ~314 |
 | Royal Outpost | 2.00% | ~314 |
 | Lost Colonies | 2.00% | ~314 |
+| Statue of the Forefathers | 2.00% | ~314 |
 | Corrosive Torrent | 2.00% | ~314 |
 | Watchtower | 2.00% | ~314 |
 | Cursed Lands | 2.00% | ~314 |
@@ -37,7 +38,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ruined Armory | 1.00% | ~157 |
 | Dangerous Lands | 1.00% | ~157 |
 | Forbidden Lands | 1.00% | ~157 |
-| Statue of the Forefathers | 1.00% | ~157 |
 | Forsaken Gods Temple | 1.00% | ~157 |
 | Defying the Crown | 1.00% | ~157 |
 | Into the Forest | 1.00% | ~157 |
@@ -57,8 +57,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~16 |
 | Higher Needs | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,694 (Ranked 107)  
-Completed: 40 (0.25%) (Ranked 152)  
+Progressed: 15,697 (Ranked 107)  
+Completed: 40 (0.25%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -136,6 +136,7 @@ Completed: 40 (0.25%) (Ranked 152)
 | 2023-07-05 | 15,654 | 39 |
 | 2023-07-06 | 15,675 | 39 |
 | 2023-07-07 | 15,694 | 40 |
+| 2023-07-08 | 15,697 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 418  (Ranked 202)  
 Sum: 3,062 (Ranked 155)  

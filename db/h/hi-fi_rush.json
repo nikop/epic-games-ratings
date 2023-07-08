@@ -6,9 +6,9 @@
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 145,
-  "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_Completed": 171,
+  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -112,7 +112,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3418,
+  "EOS_Progressed": 3419,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
@@ -4107,6 +4107,11 @@
       "Time": "2023-07-07T19:03:22.7586535+00:00",
       "NumProgressed": 3418,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-08T00:01:34.300816+00:00",
+      "NumProgressed": 3419,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 71,
@@ -4124,9 +4129,9 @@
       "ID": "Ach002",
       "SetID": "12n4k20",
       "Name": "Cream of the Crop",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 14
     },
     {
       "ID": "Ach003",
@@ -4228,9 +4233,9 @@
       "ID": "Ach015",
       "SetID": "12n4k20",
       "Name": "Thanks for the free chip, Peppermint!",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 14
     },
     {
       "ID": "Ach016",
@@ -4685,13 +4690,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3418,
+      "Progressed": 3419,
       "Completed": 5
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 1939,
+      "Progressed": 1940,
       "Completed": 1927
     }
   ],
@@ -4699,8 +4704,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-07T22:04:03.696135+00:00",
+  "LastChanged_Achievements": "2023-07-08T00:01:34.3008155+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:16.9967031+00:00",
-  "LastUpdate_Ratings": "2023-07-07T22:59:06.6177702+00:00",
-  "LastUpdate_Achievements": "2023-07-07T22:04:03.6962437+00:00"
+  "LastUpdate_Ratings": "2023-07-07T23:59:05.2945392+00:00",
+  "LastUpdate_Achievements": "2023-07-08T00:01:34.3009093+00:00"
 }

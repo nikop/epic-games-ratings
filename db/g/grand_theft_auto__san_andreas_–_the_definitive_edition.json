@@ -6,7 +6,7 @@
   "Ranking_Popularity": 264,
   "Ranking_PopularitySum": 358,
   "Ranking_EOS_Progress": 115,
-  "Ranking_EOS_Completed": 155,
+  "Ranking_EOS_Completed": 156,
   "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
@@ -526,9 +526,9 @@
       "Count": 207
     }
   ],
-  "EOS_Progressed": 10975,
+  "EOS_Progressed": 10977,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -6251,6 +6251,11 @@
       "Time": "2023-07-07T21:12:58.9863388+00:00",
       "NumProgressed": 10975,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-07-08T00:07:07.2860399+00:00",
+      "NumProgressed": 10977,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 35,
@@ -6262,7 +6267,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 8890
+      "UsersEstimate": 8891
     },
     {
       "ID": "ACH02",
@@ -6270,7 +6275,7 @@
       "Name": "With Extra Dip",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "ACH03",
@@ -6541,7 +6546,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 10975,
+      "Progressed": 10977,
       "Completed": 26
     }
   ],
@@ -6549,8 +6554,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-07T02:24:44.6988348+00:00",
-  "LastChanged_Achievements": "2023-07-07T23:06:55.3953447+00:00",
+  "LastChanged_Achievements": "2023-07-08T00:07:07.2860394+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:38.8017023+00:00",
-  "LastUpdate_Ratings": "2023-07-07T23:00:52.3789594+00:00",
-  "LastUpdate_Achievements": "2023-07-07T23:06:55.3954108+00:00"
+  "LastUpdate_Ratings": "2023-07-08T00:01:05.5654864+00:00",
+  "LastUpdate_Achievements": "2023-07-08T00:07:07.2860859+00:00"
 }

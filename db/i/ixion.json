@@ -6,9 +6,9 @@
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 153,
-  "Ranking_EOS_Completed": 236,
+  "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2781,
+  "EOS_Progressed": 2782,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3352,6 +3352,11 @@
       "Time": "2023-07-07T17:14:44.662684+00:00",
       "NumProgressed": 2781,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-08T00:04:14.5968501+00:00",
+      "NumProgressed": 2782,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -3531,7 +3536,7 @@
       "Name": "Exceeding Capacity",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACH_BASE_31",
@@ -3747,7 +3752,7 @@
       "Name": "Hope Seeker",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACH_BASE_60",
@@ -3818,13 +3823,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 962,
+      "Progressed": 963,
       "Completed": 5
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2781,
+      "Progressed": 2782,
       "Completed": 0
     }
   ],
@@ -3832,8 +3837,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-06-20T16:59:32.1537088+00:00",
-  "LastChanged_Achievements": "2023-07-07T23:04:18.1784029+00:00",
+  "LastChanged_Achievements": "2023-07-08T00:04:14.596849+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:09.917837+00:00",
-  "LastUpdate_Ratings": "2023-07-07T22:59:01.5154251+00:00",
-  "LastUpdate_Achievements": "2023-07-07T23:04:18.1784839+00:00"
+  "LastUpdate_Ratings": "2023-07-07T23:59:00.2189247+00:00",
+  "LastUpdate_Achievements": "2023-07-08T00:04:14.5969101+00:00"
 }

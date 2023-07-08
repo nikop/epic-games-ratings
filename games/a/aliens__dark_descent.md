@@ -1,58 +1,58 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.45 (Ranked 620)  
+Rating: 4.45 (Ranked 621)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 80.00% | ~2,149 |
-| Snatched Out | 73.00% | ~1,961 |
-| Keep 'Em Coming | 71.00% | ~1,907 |
-| Cleaning Lethe, One Nest At A Time | 62.00% | ~1,665 |
-| Call Me Snake | 57.00% | ~1,531 |
-| Something Lurks Under The Hills | 56.00% | ~1,504 |
-| This Was No Papercut | 54.00% | ~1,450 |
-| The Shrink Hates Me | 50.00% | ~1,343 |
-| People Person | 49.00% | ~1,316 |
-| Use The Bumper, That's What It's For | 47.00% | ~1,262 |
-| First Steps Into Madness | 45.00% | ~1,209 |
-| Colonial Barrels | 44.00% | ~1,182 |
-| Damn Dude, You Gotta Lose Some Weight! | 37.00% | ~994 |
-| Harper's Hell | 35.00% | ~940 |
-| Making a Stand | 33.00% | ~886 |
-| Recouped Investment | 30.00% | ~806 |
-| Omelette Du Fromage | 29.00% | ~779 |
-| Where It All Begun | 28.00% | ~752 |
-| The More The Merrier | 21.00% | ~564 |
-| Living Nightmare | 20.00% | ~537 |
-| Stuff Of Nightmares | 16.00% | ~430 |
-| The Darwin Era Was Here | 16.00% | ~430 |
-| Come on, You Wanna Live Forever? | 15.00% | ~403 |
-| Deep Into Insanity | 15.00% | ~403 |
-| The Passenger | 14.00% | ~376 |
-| El Riesgo Siempre Vive | 13.00% | ~349 |
-| One For Every Occasion | 11.00% | ~295 |
-| The Spire | 11.00% | ~295 |
+| This Is Hayes, Pioneer Station, Signing Off | 80.00% | ~2,153 |
+| Snatched Out | 73.00% | ~1,964 |
+| Keep 'Em Coming | 71.00% | ~1,911 |
+| Cleaning Lethe, One Nest At A Time | 62.00% | ~1,668 |
+| Call Me Snake | 57.00% | ~1,534 |
+| Something Lurks Under The Hills | 56.00% | ~1,507 |
+| This Was No Papercut | 54.00% | ~1,453 |
+| The Shrink Hates Me | 50.00% | ~1,346 |
+| People Person | 49.00% | ~1,319 |
+| Use The Bumper, That's What It's For | 47.00% | ~1,265 |
+| First Steps Into Madness | 45.00% | ~1,211 |
+| Colonial Barrels | 44.00% | ~1,184 |
+| Damn Dude, You Gotta Lose Some Weight! | 37.00% | ~996 |
+| Harper's Hell | 35.00% | ~942 |
+| Making a Stand | 33.00% | ~888 |
+| Recouped Investment | 30.00% | ~807 |
+| Omelette Du Fromage | 29.00% | ~780 |
+| Where It All Begun | 28.00% | ~753 |
+| The More The Merrier | 21.00% | ~565 |
+| Living Nightmare | 20.00% | ~538 |
+| Stuff Of Nightmares | 16.00% | ~431 |
+| The Darwin Era Was Here | 16.00% | ~431 |
+| Come on, You Wanna Live Forever? | 15.00% | ~404 |
+| Deep Into Insanity | 15.00% | ~404 |
+| The Passenger | 14.00% | ~377 |
+| El Riesgo Siempre Vive | 13.00% | ~350 |
+| One For Every Occasion | 11.00% | ~296 |
+| Frontliner | 11.00% | ~296 |
+| The Spire | 11.00% | ~296 |
 | Bandage Lover | 10.00% | ~269 |
-| Frontliner | 10.00% | ~269 |
 | The Cable Guy | 10.00% | ~269 |
 | Excavating The Truth | 9.00% | ~242 |
 | Abysmal Horrors | 9.00% | ~242 |
 | Heavy Steps | 8.00% | ~215 |
 | Regicide | 6.00% | ~161 |
-| Flawless Victory | 5.00% | ~134 |
-| This Went Smoothly | 5.00% | ~134 |
-| Perfect Enhancements | 4.00% | ~107 |
-| The True Experience | 4.00% | ~107 |
+| Flawless Victory | 5.00% | ~135 |
+| This Went Smoothly | 5.00% | ~135 |
+| Perfect Enhancements | 4.00% | ~108 |
+| The True Experience | 4.00% | ~108 |
 | Hardened In The Heat Of Battle | 3.00% | ~81 |
-| Fair And Square | 0.80% | ~21 |
+| Fair And Square | 0.80% | ~22 |
 | Archivist | 0.60% | ~16 |
 | Chalk It Up To Experience | 0.30% | ~8 |
 | Perfect Organism | 0.20% | ~5 |
 | This Ain't No Picnic | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,686 (Ranked 154)  
-Completed: 0 (0.00%) (Ranked 236)  
+Progressed: 2,691 (Ranked 154)  
+Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -74,6 +74,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-05 | 2,620 | 0 |
 | 2023-07-06 | 2,648 | 0 |
 | 2023-07-07 | 2,686 | 0 |
+| 2023-07-08 | 2,691 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

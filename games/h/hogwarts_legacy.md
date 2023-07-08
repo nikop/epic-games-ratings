@@ -5,32 +5,32 @@ Rating: 4.77 (Ranked 107)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 11.00% | ~31,422 |
-| First Class Student | 10.00% | ~28,566 |
-| A Keen Sense of Spell | 9.00% | ~25,709 |
-| Troll with the Punches | 9.00% | ~25,709 |
-| Grappling with a Graphorn | 8.00% | ~22,852 |
-| The One Who Mastered Memories | 8.00% | ~22,852 |
-| The Hallowed Hero | 8.00% | ~22,852 |
-| The Hero of Hogwarts | 8.00% | ~22,852 |
-| The Defender of Dragons | 8.00% | ~22,852 |
-| Loom for Improvement | 8.00% | ~22,852 |
-| A Talent for Spending | 8.00% | ~22,852 |
-| Coasting Along | 8.00% | ~22,852 |
-| That's a Keeper | 8.00% | ~22,852 |
-| Challenge Accepted | 7.00% | ~19,996 |
-| Followed the Butterflies | 7.00% | ~19,996 |
-| Rising From the Ashes | 7.00% | ~19,996 |
-| The Avenging Gazelle | 6.00% | ~17,139 |
-| Beast Friends | 6.00% | ~17,139 |
-| A Sallow Grave | 6.00% | ~17,139 |
-| Flight the Good Flight | 6.00% | ~17,139 |
-| The Spell Master | 6.00% | ~17,139 |
-| The Seeker of Knowledge | 4.00% | ~11,426 |
-| The Root of the Problem | 4.00% | ~11,426 |
-| Third Time's a Charm | 4.00% | ~11,426 |
-| The Ends Petrify the Means | 4.00% | ~11,426 |
-| Raising Expectations | 4.00% | ~11,426 |
+| The Sort Who Makes an Entrance | 11.00% | ~31,424 |
+| First Class Student | 10.00% | ~28,567 |
+| A Keen Sense of Spell | 9.00% | ~25,710 |
+| Troll with the Punches | 9.00% | ~25,710 |
+| Grappling with a Graphorn | 8.00% | ~22,854 |
+| The One Who Mastered Memories | 8.00% | ~22,854 |
+| The Hallowed Hero | 8.00% | ~22,854 |
+| The Hero of Hogwarts | 8.00% | ~22,854 |
+| The Defender of Dragons | 8.00% | ~22,854 |
+| Loom for Improvement | 8.00% | ~22,854 |
+| A Talent for Spending | 8.00% | ~22,854 |
+| Coasting Along | 8.00% | ~22,854 |
+| That's a Keeper | 8.00% | ~22,854 |
+| Challenge Accepted | 7.00% | ~19,997 |
+| Followed the Butterflies | 7.00% | ~19,997 |
+| Rising From the Ashes | 7.00% | ~19,997 |
+| The Avenging Gazelle | 6.00% | ~17,140 |
+| Beast Friends | 6.00% | ~17,140 |
+| A Sallow Grave | 6.00% | ~17,140 |
+| Flight the Good Flight | 6.00% | ~17,140 |
+| The Spell Master | 6.00% | ~17,140 |
+| The Seeker of Knowledge | 4.00% | ~11,427 |
+| The Root of the Problem | 4.00% | ~11,427 |
+| Third Time's a Charm | 4.00% | ~11,427 |
+| The Ends Petrify the Means | 4.00% | ~11,427 |
+| Raising Expectations | 4.00% | ~11,427 |
 | The Toast of the Town | 3.00% | ~8,570 |
 | Going Through the Potions | 3.00% | ~8,570 |
 | Room with a View | 3.00% | ~8,570 |
@@ -51,8 +51,8 @@ Rating: 4.77 (Ranked 107)
 | The Nature of the Beast | 0.50% | ~1,428 |
 | Collector's Edition | 0.20% | ~571 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 285,655 (Ranked 41)  
-Completed: 419 (0.15%) (Ranked 170)  
+Progressed: 285,672 (Ranked 41)  
+Completed: 419 (0.15%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -130,18 +130,19 @@ Completed: 419 (0.15%) (Ranked 170)
 | 2023-07-05 | 285,076 | 418 |
 | 2023-07-06 | 285,367 | 418 |
 | 2023-07-07 | 285,655 | 419 |
+| 2023-07-08 | 285,672 | 419 |
 ## Awards
 Max (Character Customization): 20,762  (Ranked 17)  
-Sum: 38,707 (Ranked 30)  
+Sum: 38,712 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 20,762 |
 | This game has Great Boss Battles | 9,897 |
-| This game is Great for Beginners | 887 |
+| This game is Great for Beginners | 890 |
 | This game is Extremely Fun | 876 |
 | This game is Relaxing | 866 |
-| This game has Amazing Storytelling | 863 |
+| This game has Amazing Storytelling | 865 |
 | This game has Diverse Characters | 856 |
 | This game has Amazing Characters | 844 |
 | This game is Highly Recommended | 818 |
@@ -256,4 +257,4 @@ Diff (max vs sum): -13
 | 2023-07-04 | 4.77 | 20,673 | 38,523 |
 | 2023-07-05 | 4.77 | 20,698 | 38,587 |
 | 2023-07-06 | 4.77 | 20,725 | 38,649 |
-| 2023-07-07 | 4.77 | 20,762 | 38,707 |
+| 2023-07-07 | 4.77 | 20,762 | 38,712 |

@@ -17,8 +17,8 @@ Rating: 4.57 (Ranked 439)
 | Fully Recycled | 9.00% | ~250 |
 | Ain't Nobody Got Time for That | 9.00% | ~250 |
 | The Ship of Theseus | 9.00% | ~250 |
-| Exceeding Capacity | 8.00% | ~222 |
-| Hope Seeker | 8.00% | ~222 |
+| Exceeding Capacity | 8.00% | ~223 |
+| Hope Seeker | 8.00% | ~223 |
 | A Hunk of Junk | 7.00% | ~195 |
 | Breaking Protocol | 7.00% | ~195 |
 | Man's Best Friend | 5.00% | ~139 |
@@ -63,8 +63,8 @@ Rating: 4.57 (Ranked 439)
 | This is Fine | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,781 (Ranked 153)  
-Completed: 0 (0.00%) (Ranked 236)  
+Progressed: 2,782 (Ranked 153)  
+Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -142,6 +142,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-05 | 2,774 | 0 |
 | 2023-07-06 | 2,779 | 0 |
 | 2023-07-07 | 2,781 | 0 |
+| 2023-07-08 | 2,782 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

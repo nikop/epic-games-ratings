@@ -6,16 +6,16 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,223 |
-| The Mad Wizard | 11.00% | ~22,897 |
-| The Ring of Regeneration | 7.00% | ~14,571 |
-| Are Ya Chicken? | 7.00% | ~14,571 |
+| The Cursed Farmer | 15.00% | ~31,225 |
+| The Mad Wizard | 11.00% | ~22,899 |
+| The Ring of Regeneration | 7.00% | ~14,572 |
+| Are Ya Chicken? | 7.00% | ~14,572 |
 | Were-verpowered | 5.00% | ~10,408 |
 | Seeking Allies | 5.00% | ~10,408 |
 | Mad Cow Disease | 5.00% | ~10,408 |
 | Friendly Imps | 5.00% | ~10,408 |
-| A Persistent Buzzing | 4.00% | ~8,326 |
-| Pure Energy | 4.00% | ~8,326 |
+| A Persistent Buzzing | 4.00% | ~8,327 |
+| Pure Energy | 4.00% | ~8,327 |
 | Beast Mode | 3.00% | ~6,245 |
 | Terror in the Dark | 3.00% | ~6,245 |
 | Unearthed Evil | 3.00% | ~6,245 |
@@ -39,6 +39,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Invisible Shadows | 1.00% | ~2,082 |
 | The Dinner Party | 1.00% | ~2,082 |
 | The Botched Kidnapping | 1.00% | ~2,082 |
+| Trollskull Manor | 1.00% | ~2,082 |
 | The Death Curse | 1.00% | ~2,082 |
 | Premature Betrayal | 1.00% | ~2,082 |
 | A Tale of Two Cities | 1.00% | ~2,082 |
@@ -46,12 +47,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Close Escort | 1.00% | ~2,082 |
 | Constant Banditry | 1.00% | ~2,082 |
 | Rescue in the Jungle | 1.00% | ~2,082 |
-| The Lost Heir of Omu | 0.90% | ~1,873 |
-| Trollskull Manor | 0.90% | ~1,873 |
-| Dinosaur Racing | 0.90% | ~1,873 |
-| The Long Haul | 0.90% | ~1,873 |
-| Lost in the Deep | 0.90% | ~1,873 |
-| Easily Distracted | 0.90% | ~1,873 |
+| The Lost Heir of Omu | 0.90% | ~1,874 |
+| Dinosaur Racing | 0.90% | ~1,874 |
+| The Long Haul | 0.90% | ~1,874 |
+| Lost in the Deep | 0.90% | ~1,874 |
+| Easily Distracted | 0.90% | ~1,874 |
 | The Forbidden City | 0.80% | ~1,665 |
 | Wisdom Check | 0.80% | ~1,665 |
 | The Mists of Ravenloft | 0.80% | ~1,665 |
@@ -84,6 +84,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tower on the Lake | 0.50% | ~1,041 |
 | Seeds of Deceit | 0.50% | ~1,041 |
 | The Lost Love | 0.50% | ~1,041 |
+| Flies on the Wall | 0.50% | ~1,041 |
 | Lair of the Xanathar | 0.50% | ~1,041 |
 | Waterdeep Under Siege | 0.50% | ~1,041 |
 | Elturel Has Fallen | 0.50% | ~1,041 |
@@ -103,7 +104,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Domesticated Owlbears | 0.40% | ~833 |
 | The Gargoyle's Apprentice | 0.40% | ~833 |
 | The Trepidatious Trio | 0.40% | ~833 |
-| Flies on the Wall | 0.40% | ~833 |
 | Backtracking Through Barovia | 0.40% | ~833 |
 | Excavating History | 0.40% | ~833 |
 | Towering Expectations | 0.40% | ~833 |
@@ -121,26 +121,26 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dreamscape | 0.40% | ~698 |
 | Moose Tracks | 0.40% | ~698 |
 | Civilization | 0.40% | ~698 |
-| Struggling Toward Omu | 0.30% | ~624 |
-| Not Very Charming | 0.30% | ~624 |
-| Double Vision | 0.30% | ~624 |
+| Struggling Toward Omu | 0.30% | ~625 |
+| Not Very Charming | 0.30% | ~625 |
+| Double Vision | 0.30% | ~625 |
 | The Newcomers of Notoriety | 0.30% | ~523 |
-| We're not in Faerûn Anymore | 0.30% | ~624 |
+| We're not in Faerûn Anymore | 0.30% | ~625 |
 | Thine Bounty is Mine! | 0.30% | ~523 |
-| Hold for the Red Wizards | 0.30% | ~624 |
-| House of Darkness | 0.30% | ~624 |
-| Our Time To Shine | 0.30% | ~624 |
-| A Saurial's Lament | 0.30% | ~624 |
-| A Saurial's Resolve | 0.30% | ~624 |
-| Nimblest Escape | 0.30% | ~624 |
-| Stumbling Escape | 0.30% | ~624 |
-| From The Shadows | 0.30% | ~624 |
-| Spined Nuisances | 0.30% | ~624 |
-| Elder Rune Madness | 0.30% | ~624 |
-| Who Lurks in Lurkwood | 0.30% | ~624 |
-| Orcs Are Wild | 0.30% | ~624 |
-| Patience is Key | 0.30% | ~624 |
-| Troublesome Prisoner | 0.30% | ~624 |
+| Hold for the Red Wizards | 0.30% | ~625 |
+| House of Darkness | 0.30% | ~625 |
+| Our Time To Shine | 0.30% | ~625 |
+| A Saurial's Lament | 0.30% | ~625 |
+| A Saurial's Resolve | 0.30% | ~625 |
+| Nimblest Escape | 0.30% | ~625 |
+| Stumbling Escape | 0.30% | ~625 |
+| From The Shadows | 0.30% | ~625 |
+| Spined Nuisances | 0.30% | ~625 |
+| Elder Rune Madness | 0.30% | ~625 |
+| Who Lurks in Lurkwood | 0.30% | ~625 |
+| Orcs Are Wild | 0.30% | ~625 |
+| Patience is Key | 0.30% | ~625 |
+| Troublesome Prisoner | 0.30% | ~625 |
 | The Path of Dreams | 0.30% | ~523 |
 | The Lost Hollyphant | 0.30% | ~523 |
 | Alterdeep | 0.30% | ~523 |
@@ -158,7 +158,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Radiant Nightmare | 0.30% | ~523 |
 | Waiting on Sunrise | 0.30% | ~523 |
 | The Battle of High Hall Tower | 0.30% | ~523 |
-| Overwhelming Force | 0.30% | ~624 |
+| Overwhelming Force | 0.30% | ~625 |
 | The Castle of a Thousand Vecnas | 0.20% | ~349 |
 | The Sanctum of the Sword | 0.20% | ~349 |
 | Get Back In The Castle | 0.20% | ~349 |
@@ -510,8 +510,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,152 (Ranked 52)  
-Completed: 2,037 (0.98%) (Ranked 101)  
+Progressed: 208,169 (Ranked 52)  
+Completed: 2,037 (0.98%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -589,6 +589,7 @@ Completed: 2,037 (0.98%) (Ranked 101)
 | 2023-07-05 | 206,889 | 2,032 |
 | 2023-07-06 | 207,486 | 2,035 |
 | 2023-07-07 | 208,152 | 2,037 |
+| 2023-07-08 | 208,169 | 2,037 |
 ## Awards
 Max (Diverse Characters): 5,013  (Ranked 65)  
 Sum: 30,436 (Ranked 37)  
