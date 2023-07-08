@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 72.73% |
+| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 66.67% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.82% |
 | 3 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 30.00% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
@@ -40,9 +40,9 @@
 | 38 | [Without Escape](games/w/without_escape.md) | 4.76% |
 | 39 | [Bugsnax](games/b/bugsnax.md) | 4.68% |
 | 40 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.66% |
-| 41 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 4.55% |
-| 42 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.43% |
-| 43 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
+| 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.43% |
+| 42 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
+| 42 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 3.92% |
 | 44 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.73% |
 | 45 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 3.70% |
 | 46 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
@@ -132,11 +132,11 @@
 | 130 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.47% |
 | 131 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
 | 132 | [Ghostrunner](games/g/ghostrunner.md) | 0.43% |
-| 133 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.42% |
 | 133 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
 | 133 | [Tchia](games/t/tchia.md) | 0.42% |
-| 136 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.41% |
-| 136 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.41% |
+| 135 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.41% |
+| 135 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.41% |
+| 135 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.41% |
 | 138 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 139 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.35% |
 | 140 | [Scrapnaut](games/s/scrapnaut.md) | 0.34% |
@@ -161,10 +161,10 @@
 | 159 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
 | 159 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.22% |
 | 161 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.21% |
-| 162 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
 | 162 | [Going Medieval](games/g/going_medieval.md) | 0.20% |
-| 164 | [BLACKTAIL](games/b/blacktail.md) | 0.19% |
-| 164 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
+| 163 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.19% |
+| 163 | [BLACKTAIL](games/b/blacktail.md) | 0.19% |
+| 163 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
 | 166 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.18% |
 | 167 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
 | 167 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.17% |
