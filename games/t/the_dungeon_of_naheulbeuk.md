@@ -6,50 +6,50 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 57.00% | ~95,902 |
-| Where's that freaking Dwarf? | 45.00% | ~75,712 |
-| GG EZ | 27.00% | ~45,428 |
-| Speedrun | 25.00% | ~42,062 |
-| Déjà vu | 19.00% | ~31,968 |
-| Sock! SOCK! | 13.00% | ~21,872 |
-| DM intervention | 12.00% | ~20,190 |
-| A beer, two curses, three companions | 6.00% | ~10,095 |
-| Fireproof Wizardess | 6.00% | ~10,095 |
-| Livin' in a dwarven paradise | 4.00% | ~6,730 |
-| Way of the Wimp | 4.00% | ~6,730 |
-| The plot thickens... At the tavern | 3.00% | ~5,048 |
-| The Woman in the High Castle | 3.00% | ~5,048 |
-| Res Judicata | 2.00% | ~3,365 |
-| Team Building Exercise | 2.00% | ~3,365 |
-| The demons' feast | 1.00% | ~1,682 |
-| I am the night | 1.00% | ~1,682 |
-| The Great Library | 0.80% | ~1,346 |
-| Oh, when I'll be level 10... | 0.80% | ~1,346 |
-| Shiny and Crôm | 0.70% | ~1,178 |
-| Torture and Sensibility | 0.70% | ~1,178 |
-| Dwarf Fortress | 0.70% | ~1,178 |
-| The Ranger of Chaos | 0.70% | ~1,178 |
-| Lust and Debauchery | 0.60% | ~1,010 |
-| Thieves' Guild Accreditation | 0.60% | ~1,010 |
-| The beards of change | 0.50% | ~841 |
-| Material Girl | 0.50% | ~841 |
-| I'd rather... Just... Sing! | 0.40% | ~673 |
-| The number of the counting shalt be 7 | 0.40% | ~673 |
-| Gargantua | 0.40% | ~673 |
-| In Navalu's footsteps | 0.40% | ~673 |
-| Lëgal Legend | 0.40% | ~673 |
+| Alt+F4 | 57.00% | ~96,010 |
+| Where's that freaking Dwarf? | 45.00% | ~75,797 |
+| GG EZ | 27.00% | ~45,478 |
+| Speedrun | 25.00% | ~42,110 |
+| Déjà vu | 19.00% | ~32,003 |
+| Sock! SOCK! | 13.00% | ~21,897 |
+| DM intervention | 12.00% | ~20,213 |
+| A beer, two curses, three companions | 6.00% | ~10,106 |
+| Fireproof Wizardess | 6.00% | ~10,106 |
+| Livin' in a dwarven paradise | 4.00% | ~6,738 |
+| Way of the Wimp | 4.00% | ~6,738 |
+| The plot thickens... At the tavern | 3.00% | ~5,053 |
+| The Woman in the High Castle | 3.00% | ~5,053 |
+| Res Judicata | 2.00% | ~3,369 |
+| Team Building Exercise | 2.00% | ~3,369 |
+| The demons' feast | 1.00% | ~1,684 |
+| I am the night | 1.00% | ~1,684 |
+| The Great Library | 0.80% | ~1,348 |
+| Oh, when I'll be level 10... | 0.80% | ~1,348 |
+| Shiny and Crôm | 0.70% | ~1,179 |
+| Torture and Sensibility | 0.70% | ~1,179 |
+| Dwarf Fortress | 0.70% | ~1,179 |
+| The Ranger of Chaos | 0.70% | ~1,179 |
+| Lust and Debauchery | 0.60% | ~1,011 |
+| Thieves' Guild Accreditation | 0.60% | ~1,011 |
+| The beards of change | 0.50% | ~842 |
+| Material Girl | 0.50% | ~842 |
+| I'd rather... Just... Sing! | 0.40% | ~674 |
+| The number of the counting shalt be 7 | 0.40% | ~674 |
+| Gargantua | 0.40% | ~674 |
+| In Navalu's footsteps | 0.40% | ~674 |
+| Lëgal Legend | 0.40% | ~674 |
 | Urik's Depths | 0.30% | ~505 |
 | The Statuette of Gladeulfeurah | 0.30% | ~505 |
 | A tale of adventurers not quite like the others... | 0.30% | ~505 |
 | Look but don't touch | 0.30% | ~505 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.30% | ~505 |
 | Dead for good | 0.30% | ~505 |
+| Law and Order | 0.30% | ~505 |
 | It's been a hard day's night | 0.30% | ~505 |
-| The Dungeon Master | 0.20% | ~336 |
-| Friendly fire | 0.20% | ~336 |
-| The Famous Dungeon of Naheulbeuk | 0.20% | ~336 |
-| An old poacher makes the best gamekeeper | 0.20% | ~336 |
-| Law and Order | 0.20% | ~336 |
+| The Dungeon Master | 0.20% | ~337 |
+| Friendly fire | 0.20% | ~337 |
+| The Famous Dungeon of Naheulbeuk | 0.20% | ~337 |
+| An old poacher makes the best gamekeeper | 0.20% | ~337 |
 | Cursed die | 0.10% | ~168 |
 | Holistic Adventuring Party | 0.10% | ~168 |
 | Scholar of the Lands of Fangh | 0.10% | ~168 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 168,250 (Ranked 58)  
+Progressed: 168,438 (Ranked 58)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-05 | 152,547 | 0 |
 | 2023-07-06 | 161,722 | 0 |
 | 2023-07-07 | 166,795 | 0 |
-| 2023-07-08 | 168,250 | 0 |
+| 2023-07-08 | 168,438 | 0 |
 ## Awards
 Max (Character Customization): 75  (Ranked 359)  
 Sum: 75 (Ranked 421)  

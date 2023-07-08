@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Good to have Allies | 45.00% | ~164 |
-| Defenses Online | 41.00% | ~150 |
+| It's Good to have Allies | 45.00% | ~165 |
+| Defenses Online | 42.00% | ~154 |
 | Facility Online | 37.00% | ~135 |
 | Corporal | 27.00% | ~99 |
-| Covert Operative | 22.00% | ~80 |
-| Sergeant | 19.00% | ~69 |
+| Covert Operative | 22.00% | ~81 |
+| Sergeant | 19.00% | ~70 |
 | Lieutenant | 15.00% | ~55 |
 | On Target | 15.00% | ~55 |
 | Stocking Up | 14.00% | ~51 |
-| Getting Deployment | 13.00% | ~47 |
-| Infantry Reporting | 13.00% | ~47 |
+| Getting Deployment | 13.00% | ~48 |
+| Infantry Reporting | 13.00% | ~48 |
 | Keeping Busy | 12.00% | ~44 |
-| Fighting for Survival | 10.00% | ~36 |
-| Silver Competitor | 10.00% | ~36 |
-| Captain | 8.00% | ~29 |
+| Fighting for Survival | 11.00% | ~40 |
+| Silver Competitor | 10.00% | ~37 |
+| Captain | 9.00% | ~33 |
 | Factory Expansion | 8.00% | ~29 |
 | Exterminator | 7.00% | ~26 |
 | Brothers in Arms | 7.00% | ~26 |
@@ -26,24 +26,24 @@
 | Player Betrayer | 4.00% | ~15 |
 | Silver Achiever | 4.00% | ~15 |
 | Moving On Up | 4.00% | ~15 |
+| Gold Achiever | 3.00% | ~11 |
 | Advanced Warfare | 3.00% | ~11 |
 | Major | 3.00% | ~11 |
+| Colonel | 3.00% | ~11 |
 | Battle Ready | 3.00% | ~11 |
-| Gold Achiever | 2.00% | ~7 |
-| Colonel | 2.00% | ~7 |
+| Control the Skies | 3.00% | ~11 |
 | General | 2.00% | ~7 |
+| Seek & Destroy | 2.00% | ~7 |
 | Resourceful | 2.00% | ~7 |
-| Control the Skies | 2.00% | ~7 |
-| Seek & Destroy | 1.00% | ~4 |
-| Titan Tanks | 1.00% | ~4 |
+| Titan Tanks | 2.00% | ~7 |
+| Shock Troops | 1.00% | ~4 |
 | Jet Troops | 1.00% | ~4 |
-| Shock Troops | 0.80% | ~3 |
 | Advanced Interceptors | 0.50% | ~2 |
 | Gold Competitor | 0.00% | ~0 |
 | Platinum Achiever | 0.00% | ~0 |
 | Platinum Competitor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 365 (Ranked 231)  
+Progressed: 366 (Ranked 231)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,4 +73,4 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-05 | 342 | 0 |
 | 2023-07-06 | 357 | 0 |
 | 2023-07-07 | 362 | 0 |
-| 2023-07-08 | 365 | 0 |
+| 2023-07-08 | 366 | 0 |

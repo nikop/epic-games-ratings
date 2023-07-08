@@ -6,31 +6,31 @@ Rating: 4.87 (Ranked 25)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | NOW we got a kickass hideout! | 0.80% | ~16 |
+| I play my own way! | 0.50% | ~17 |
 | Cream of the Crop | 0.40% | ~14 |
 | The Negotiator | 0.40% | ~14 |
 | Headliner | 0.40% | ~14 |
 | Time to pay up! | 0.40% | ~14 |
 | Who's the boss now? | 0.40% | ~14 |
 | Thanks for the free chip, Peppermint! | 0.40% | ~14 |
-| I play my own way! | 0.40% | ~14 |
 | Whoa! There's ANOTHER health bar!? | 0.40% | ~14 |
 | You got this, Peppermint? | 0.40% | ~14 |
 | Z-shielding's got nothing on us! | 0.40% | ~14 |
 | Out in a puff of smoke | 0.40% | ~14 |
+| Uh, they were broken when I got here | 0.40% | ~14 |
 | Who put gears in there? | 0.40% | ~14 |
 | Call me Turbo Chai | 0.40% | ~8 |
 | This will cost you big time | 0.30% | ~10 |
+| Well that was a rush! | 0.30% | ~10 |
 | I have to read these things? | 0.30% | ~10 |
 | Feeling the beat! | 0.30% | ~10 |
 | Perfect Parry | 0.30% | ~10 |
 | Perfecter Parry-er! | 0.30% | ~10 |
-| Uh, they were broken when I got here | 0.30% | ~10 |
 | That's a lot of junk metal… | 0.30% | ~10 |
 | Kissing the sky! | 0.30% | ~10 |
 | I look cool. But I can look COOLER. | 0.30% | ~10 |
 | Alright, that felt AWESOME! | 0.30% | ~10 |
 | Start with a bang! | 0.20% | ~7 |
-| Well that was a rush! | 0.20% | ~7 |
 | You must like calling me in, Chai | 0.20% | ~7 |
 | There's such a thing as TOO helpful | 0.20% | ~7 |
 | You can pet the cat! | 0.20% | ~7 |

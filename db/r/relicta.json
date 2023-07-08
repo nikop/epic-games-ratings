@@ -3,7 +3,7 @@
   "Name": "Relicta",
   "ProductSlug": "relicta",
   "Ranking_Rating": 868,
-  "Ranking_Popularity": 271,
+  "Ranking_Popularity": 270,
   "Ranking_PopularitySum": 340,
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
@@ -577,18 +577,24 @@
       "Rating": 4.15,
       "NumberOfAwards": 270,
       "NumberOfAwardsMax": 198
+    },
+    {
+      "Time": "2023-07-08T09:58:32.9785743+00:00",
+      "Rating": 4.15,
+      "NumberOfAwards": 271,
+      "NumberOfAwardsMax": 199
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 270,
-  "NumberOfAwardsMax": 198,
+  "NumberOfAwards": 271,
+  "NumberOfAwardsMax": 199,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 198
+      "Count": 199
     },
     {
       "Text": "In this game, your choices Don\u0027t Impact the Story",
@@ -608,8 +614,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:55.5563049+00:00",
-  "LastChanged": "2023-07-07T13:15:05.8086505+00:00",
+  "LastChanged": "2023-07-08T09:58:32.9785741+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:39.0797244+00:00",
-  "LastUpdate_Ratings": "2023-07-08T08:59:31.3062718+00:00",
-  "LastUpdate_Achievements": "2023-07-08T09:05:06.6741973+00:00"
+  "LastUpdate_Ratings": "2023-07-08T09:58:32.9785748+00:00",
+  "LastUpdate_Achievements": "2023-07-08T10:04:11.4286716+00:00"
 }

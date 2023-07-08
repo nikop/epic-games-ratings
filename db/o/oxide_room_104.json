@@ -561,9 +561,9 @@
       "ID": "ACH_ANTIDOTE",
       "SetID": "511e31d",
       "Name": "Antidote",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_BANDAGES",
@@ -800,8 +800,8 @@
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-07-08T09:07:39.7498664+00:00",
+  "LastChanged_Achievements": "2023-07-08T10:05:56.270264+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:30.8178758+00:00",
-  "LastUpdate_Ratings": "2023-07-08T08:57:41.3636062+00:00",
-  "LastUpdate_Achievements": "2023-07-08T09:07:39.7498923+00:00"
+  "LastUpdate_Ratings": "2023-07-08T09:57:18.4402849+00:00",
+  "LastUpdate_Achievements": "2023-07-08T10:05:56.2702952+00:00"
 }

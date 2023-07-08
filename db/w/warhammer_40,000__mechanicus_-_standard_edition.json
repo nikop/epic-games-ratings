@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 192,
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewPlayers": 67,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -525,9 +525,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 216596,
+  "EOS_Progressed": 216601,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 638,
+  "EOS_NewPlayers": 641,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8860,6 +8860,11 @@
       "Time": "2023-07-08T09:05:57.490727+00:00",
       "NumProgressed": 216596,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-08T10:04:46.637818+00:00",
+      "NumProgressed": 216601,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 34,
@@ -8871,7 +8876,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 41153
+      "UsersEstimate": 41154
     },
     {
       "ID": "ACH_BASE_10",
@@ -8879,7 +8884,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 54149
+      "UsersEstimate": 54150
     },
     {
       "ID": "ACH_BASE_11",
@@ -9142,7 +9147,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 216596,
+      "Progressed": 216601,
       "Completed": 4
     }
   ],
@@ -9150,8 +9155,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-07-07T16:58:59.406798+00:00",
-  "LastChanged_Achievements": "2023-07-08T09:05:57.4907264+00:00",
+  "LastChanged_Achievements": "2023-07-08T10:04:46.6378176+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:16.5954522+00:00",
-  "LastUpdate_Ratings": "2023-07-08T08:59:12.6306295+00:00",
-  "LastUpdate_Achievements": "2023-07-08T09:05:57.4908237+00:00"
+  "LastUpdate_Ratings": "2023-07-08T09:58:19.5634542+00:00",
+  "LastUpdate_Achievements": "2023-07-08T10:04:46.6379022+00:00"
 }

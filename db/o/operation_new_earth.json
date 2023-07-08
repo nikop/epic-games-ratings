@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 365,
+  "EOS_Progressed": 366,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1241,6 +1241,11 @@
       "Time": "2023-07-08T05:05:13.0627744+00:00",
       "NumProgressed": 365,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-08T10:04:25.5279897+00:00",
+      "NumProgressed": 366,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1266,9 +1271,9 @@
       "ID": "ach_defeat_players_10",
       "SetID": "bm61c2p",
       "Name": "Fighting for Survival",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 40
     },
     {
       "ID": "ach_defeat_players_100",
@@ -1282,9 +1287,9 @@
       "ID": "ach_gold_rewards_100",
       "SetID": "bm61c2p",
       "Name": "Gold Achiever",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 11
     },
     {
       "ID": "ach_gold_rewards_25",
@@ -1316,7 +1321,7 @@
       "Name": "Silver Competitor",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -1372,7 +1377,7 @@
       "Name": "Sergeant",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -1386,9 +1391,9 @@
       "ID": "objective_hero_level_up_4",
       "SetID": "bm61c2p",
       "Name": "Captain",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 33
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -1402,9 +1407,9 @@
       "ID": "objective_hero_level_up_6",
       "SetID": "bm61c2p",
       "Name": "Colonel",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 11
     },
     {
       "ID": "objective_hero_level_up_7",
@@ -1428,7 +1433,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -1436,7 +1441,7 @@
       "Name": "Covert Operative",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -1444,15 +1449,15 @@
       "Name": "Getting Deployment",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
       "SetID": "bm61c2p",
       "Name": "Seek \u0026 Destroy",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_3",
@@ -1492,7 +1497,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -1506,9 +1511,9 @@
       "ID": "objective_multiple_turrets_2",
       "SetID": "bm61c2p",
       "Name": "Defenses Online",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 154
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -1522,17 +1527,17 @@
       "ID": "objective_research_unlock_ground_vehicle_tier_4",
       "SetID": "bm61c2p",
       "Name": "Titan Tanks",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "objective_research_unlock_heavy_infantry_tier_4",
       "SetID": "bm61c2p",
       "Name": "Shock Troops",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "objective_research_unlock_light_infantry_tier_4",
@@ -1546,23 +1551,23 @@
       "ID": "objective_upgrade_dropships_2",
       "SetID": "bm61c2p",
       "Name": "Control the Skies",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 11
     }
   ],
   "AchievementSets": [
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 365,
+      "Progressed": 366,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-08T09:05:27.197046+00:00",
+  "LastChanged_Achievements": "2023-07-08T10:04:25.5279892+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:58.5226048+00:00",
-  "LastUpdate_Ratings": "2023-07-08T09:01:38.0184807+00:00",
-  "LastUpdate_Achievements": "2023-07-08T09:05:27.1971083+00:00"
+  "LastUpdate_Ratings": "2023-07-08T09:59:56.4506307+00:00",
+  "LastUpdate_Achievements": "2023-07-08T10:04:25.5280259+00:00"
 }

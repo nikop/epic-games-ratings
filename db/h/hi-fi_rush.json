@@ -4190,9 +4190,9 @@
       "ID": "Ach009",
       "SetID": "12n4k20",
       "Name": "Well that was a rush!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "Ach010",
@@ -4254,9 +4254,9 @@
       "ID": "Ach017",
       "SetID": "12n4k20",
       "Name": "I play my own way!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "Ach018",
@@ -4382,9 +4382,9 @@
       "ID": "Ach033",
       "SetID": "12n4k20",
       "Name": "Uh, they were broken when I got here",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 14
     },
     {
       "ID": "Ach034",
@@ -4709,8 +4709,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-08T09:02:07.8314762+00:00",
+  "LastChanged_Achievements": "2023-07-08T10:00:19.2311084+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:24.9104218+00:00",
-  "LastUpdate_Ratings": "2023-07-08T08:59:18.8664781+00:00",
-  "LastUpdate_Achievements": "2023-07-08T09:02:07.8316017+00:00"
+  "LastUpdate_Ratings": "2023-07-08T09:58:23.4475348+00:00",
+  "LastUpdate_Achievements": "2023-07-08T10:00:19.2312084+00:00"
 }

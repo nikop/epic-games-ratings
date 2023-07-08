@@ -2058,9 +2058,9 @@
       "ID": "MenuGastronomic",
       "SetID": "d1bm05f",
       "Name": "Haute Cuisine",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 36
+      "UsersEstimate": 41
     },
     {
       "ID": "Money10000",
@@ -2227,8 +2227,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-07-08T09:03:07.0397891+00:00",
+  "LastChanged_Achievements": "2023-07-08T10:02:18.7898099+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:09.4073719+00:00",
-  "LastUpdate_Ratings": "2023-07-08T08:59:06.6713694+00:00",
-  "LastUpdate_Achievements": "2023-07-08T09:03:07.0398347+00:00"
+  "LastUpdate_Ratings": "2023-07-08T09:58:15.8302324+00:00",
+  "LastUpdate_Achievements": "2023-07-08T10:02:18.7898532+00:00"
 }

@@ -6,21 +6,21 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,019 |
-| That's a Grand Army | 8.00% | ~5,350 |
-| That is mine! | 8.00% | ~5,350 |
-| Victorious! | 8.00% | ~5,350 |
-| Brothers in Arms | 6.00% | ~4,013 |
-| That's a Grand Navy | 6.00% | ~4,013 |
-| Seriously?! | 6.00% | ~4,013 |
-| For the Glory | 5.00% | ~3,344 |
-| Cold War | 4.00% | ~2,675 |
-| True Catholic | 4.00% | ~2,675 |
-| Defender of the Faith | 3.00% | ~2,006 |
-| It's all about the money | 3.00% | ~2,006 |
-| Respected | 3.00% | ~2,006 |
-| The Princess is in this Castle | 3.00% | ~2,006 |
-| Truly Divine Ruler | 3.00% | ~2,006 |
+| Until death do us apart | 9.00% | ~6,021 |
+| That's a Grand Army | 8.00% | ~5,352 |
+| That is mine! | 8.00% | ~5,352 |
+| Victorious! | 8.00% | ~5,352 |
+| Brothers in Arms | 6.00% | ~4,014 |
+| That's a Grand Navy | 6.00% | ~4,014 |
+| Seriously?! | 6.00% | ~4,014 |
+| For the Glory | 5.00% | ~3,345 |
+| Cold War | 4.00% | ~2,676 |
+| True Catholic | 4.00% | ~2,676 |
+| Defender of the Faith | 3.00% | ~2,007 |
+| It's all about the money | 3.00% | ~2,007 |
+| Respected | 3.00% | ~2,007 |
+| The Princess is in this Castle | 3.00% | ~2,007 |
+| Truly Divine Ruler | 3.00% | ~2,007 |
 | Agressive Expander | 2.00% | ~1,338 |
 | Blockader | 2.00% | ~1,338 |
 | Combined Arms | 2.00% | ~1,338 |
@@ -55,7 +55,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Time Bandit | 0.60% | ~401 |
 | Absolutely | 0.50% | ~334 |
 | Grand Coalition | 0.50% | ~334 |
-| Live Long and Prosper | 0.50% | ~334 |
 | Ruina Imperii | 0.50% | ~334 |
 | Trophy Hunter | 0.50% | ~334 |
 | Voting Streak | 0.50% | ~334 |
@@ -67,6 +66,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | In the Name of the Father | 0.40% | ~268 |
 | Italian Ambition | 0.40% | ~268 |
 | Just a Little Patience | 0.40% | ~268 |
+| Live Long and Prosper | 0.40% | ~268 |
 | One Night in Paris | 0.40% | ~268 |
 | Tear Down This Wall | 0.40% | ~268 |
 | The Continuation of Diplomacy | 0.40% | ~268 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,877 (Ranked 73)  
+Progressed: 66,898 (Ranked 73)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -440,17 +440,17 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-05 | 65,889 | 0 |
 | 2023-07-06 | 66,326 | 0 |
 | 2023-07-07 | 66,739 | 0 |
-| 2023-07-08 | 66,877 | 0 |
+| 2023-07-08 | 66,898 | 0 |
 ## Awards
 Max (Educational): 5,515  (Ranked 60)  
-Sum: 45,531 (Ranked 27)  
+Sum: 45,538 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,515 |
 | This game is Highly Recommended | 5,285 |
 | This game has Challenging Combat | 5,244 |
-| This game is Extremely Fun | 5,226 |
+| This game is Extremely Fun | 5,233 |
 | This game has Diverse Characters | 5,200 |
 | This game is Relaxing | 5,113 |
 | This game has Competitive Players | 4,954 |
@@ -632,4 +632,4 @@ Diff (max vs sum): 33
 | 2023-07-05 | 4.69 | - | 5,507 | 45,444 |
 | 2023-07-06 | 4.69 | - | 5,511 | 45,478 |
 | 2023-07-07 | 4.69 | - | 5,515 | 45,515 |
-| 2023-07-08 | 4.69 | - | 5,515 | 45,531 |
+| 2023-07-08 | 4.69 | - | 5,515 | 45,538 |

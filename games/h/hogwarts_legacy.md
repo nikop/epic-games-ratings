@@ -5,10 +5,11 @@ Rating: 4.77 (Ranked 107)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 11.00% | ~31,436 |
-| First Class Student | 10.00% | ~28,578 |
+| The Sort Who Makes an Entrance | 11.00% | ~31,437 |
+| First Class Student | 10.00% | ~28,579 |
 | A Keen Sense of Spell | 9.00% | ~25,721 |
 | Troll with the Punches | 9.00% | ~25,721 |
+| That's a Keeper | 9.00% | ~25,721 |
 | Grappling with a Graphorn | 8.00% | ~22,863 |
 | The One Who Mastered Memories | 8.00% | ~22,863 |
 | The Hallowed Hero | 8.00% | ~22,863 |
@@ -17,7 +18,6 @@ Rating: 4.77 (Ranked 107)
 | Loom for Improvement | 8.00% | ~22,863 |
 | A Talent for Spending | 8.00% | ~22,863 |
 | Coasting Along | 8.00% | ~22,863 |
-| That's a Keeper | 8.00% | ~22,863 |
 | Challenge Accepted | 7.00% | ~20,005 |
 | Followed the Butterflies | 7.00% | ~20,005 |
 | Rising From the Ashes | 7.00% | ~20,005 |
@@ -26,11 +26,11 @@ Rating: 4.77 (Ranked 107)
 | A Sallow Grave | 6.00% | ~17,147 |
 | Flight the Good Flight | 6.00% | ~17,147 |
 | The Spell Master | 6.00% | ~17,147 |
-| The Seeker of Knowledge | 4.00% | ~11,431 |
-| The Root of the Problem | 4.00% | ~11,431 |
-| Third Time's a Charm | 4.00% | ~11,431 |
-| The Ends Petrify the Means | 4.00% | ~11,431 |
-| Raising Expectations | 4.00% | ~11,431 |
+| The Seeker of Knowledge | 4.00% | ~11,432 |
+| The Root of the Problem | 4.00% | ~11,432 |
+| Third Time's a Charm | 4.00% | ~11,432 |
+| The Ends Petrify the Means | 4.00% | ~11,432 |
+| Raising Expectations | 4.00% | ~11,432 |
 | The Toast of the Town | 3.00% | ~8,574 |
 | Going Through the Potions | 3.00% | ~8,574 |
 | Room with a View | 3.00% | ~8,574 |
@@ -46,12 +46,12 @@ Rating: 4.77 (Ranked 107)
 | Demiguise Dread | 1.00% | ~2,858 |
 | Finishing Touches | 1.00% | ~2,858 |
 | A Forte for Achievement | 1.00% | ~2,858 |
-| Spilled Milk | 0.70% | ~2,000 |
-| Merlin's Beard! | 0.70% | ~2,000 |
+| Spilled Milk | 0.70% | ~2,001 |
+| Merlin's Beard! | 0.70% | ~2,001 |
 | The Nature of the Beast | 0.50% | ~1,429 |
 | Collector's Edition | 0.20% | ~572 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 285,785 (Ranked 41)  
+Progressed: 285,790 (Ranked 41)  
 Completed: 419 (0.15%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,10 +130,10 @@ Completed: 419 (0.15%) (Ranked 171)
 | 2023-07-05 | 285,076 | 418 |
 | 2023-07-06 | 285,367 | 418 |
 | 2023-07-07 | 285,655 | 419 |
-| 2023-07-08 | 285,785 | 419 |
+| 2023-07-08 | 285,790 | 419 |
 ## Awards
 Max (Character Customization): 20,762  (Ranked 17)  
-Sum: 38,725 (Ranked 30)  
+Sum: 38,726 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -148,7 +148,7 @@ Diff (max vs sum): -13
 | This game is Highly Recommended | 819 |
 | This game has Quickly Understood Controls | 774 |
 | This game has Beautiful Visuals | 719 |
-| This game has a Creative Community | 545 |
+| This game has a Creative Community | 546 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -258,4 +258,4 @@ Diff (max vs sum): -13
 | 2023-07-05 | 4.77 | 20,698 | 38,587 |
 | 2023-07-06 | 4.77 | 20,725 | 38,649 |
 | 2023-07-07 | 4.77 | 20,762 | 38,712 |
-| 2023-07-08 | 4.77 | 20,762 | 38,725 |
+| 2023-07-08 | 4.77 | 20,762 | 38,726 |

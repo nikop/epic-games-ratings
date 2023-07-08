@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 246235,
+  "EOS_Progressed": 246236,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 401,
+  "EOS_NewPlayers": 399,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7669,6 +7669,11 @@
       "Time": "2023-07-08T09:07:40.8215979+00:00",
       "NumProgressed": 246235,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-08T10:05:57.0327056+00:00",
+      "NumProgressed": 246236,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -7704,7 +7709,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 51709
+      "UsersEstimate": 51710
     },
     {
       "ID": "blotbuster",
@@ -7872,7 +7877,7 @@
       "Name": "Into The Drift",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17236
+      "UsersEstimate": 17237
     },
     {
       "ID": "itsTheFall",
@@ -7952,7 +7957,7 @@
       "Name": "Ready? Fight!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17236
+      "UsersEstimate": 17237
     },
     {
       "ID": "rideTheWave",
@@ -7984,7 +7989,7 @@
       "Name": "The Stunner",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 51709
+      "UsersEstimate": 51710
     },
     {
       "ID": "thunderstruck",
@@ -8047,7 +8052,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 246235,
+      "Progressed": 246236,
       "Completed": 3
     }
   ],
@@ -8055,8 +8060,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-07-08T09:07:40.8215975+00:00",
+  "LastChanged_Achievements": "2023-07-08T10:05:57.0327051+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:16.5016071+00:00",
-  "LastUpdate_Ratings": "2023-07-08T09:00:05.3311621+00:00",
-  "LastUpdate_Achievements": "2023-07-08T09:07:40.8216958+00:00"
+  "LastUpdate_Ratings": "2023-07-08T09:58:53.8870313+00:00",
+  "LastUpdate_Achievements": "2023-07-08T10:05:57.0327982+00:00"
 }

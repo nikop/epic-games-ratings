@@ -5,24 +5,24 @@ Rating: 4.49 (Ranked 574)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~20,716 |
-| Advancement | 73.00% | ~17,584 |
-| Meticulously Efficient | 64.00% | ~15,416 |
-| Discovery | 61.00% | ~14,694 |
-| Fully Upgraded | 54.00% | ~13,008 |
-| Swift Rift Removers | 54.00% | ~13,008 |
-| I collect Spores, Molds, and Fungi | 51.00% | ~12,285 |
-| Cultured | 51.00% | ~12,285 |
-| Vaporous Expansion | 48.00% | ~11,562 |
-| Teamwork | 44.00% | ~10,599 |
-| There you are! | 43.00% | ~10,358 |
-| Clutch Capture | 41.00% | ~9,876 |
-| Back Off | 35.00% | ~8,431 |
-| Daily Dose | 35.00% | ~8,431 |
-| Solo Capture | 32.00% | ~7,708 |
-| Welcome to the Crew | 32.00% | ~7,708 |
-| Ghostbuster In Training | 30.00% | ~7,226 |
-| Icing on the Cake | 30.00% | ~7,226 |
+| Stylish | 86.00% | ~20,717 |
+| Advancement | 73.00% | ~17,586 |
+| Meticulously Efficient | 64.00% | ~15,418 |
+| Discovery | 61.00% | ~14,695 |
+| Fully Upgraded | 54.00% | ~13,009 |
+| Swift Rift Removers | 54.00% | ~13,009 |
+| Cultured | 52.00% | ~12,527 |
+| I collect Spores, Molds, and Fungi | 51.00% | ~12,286 |
+| Vaporous Expansion | 48.00% | ~11,563 |
+| Teamwork | 44.00% | ~10,600 |
+| There you are! | 43.00% | ~10,359 |
+| Clutch Capture | 41.00% | ~9,877 |
+| Back Off | 35.00% | ~8,432 |
+| Daily Dose | 35.00% | ~8,432 |
+| Solo Capture | 32.00% | ~7,709 |
+| Welcome to the Crew | 32.00% | ~7,709 |
+| Ghostbuster In Training | 30.00% | ~7,227 |
+| Icing on the Cake | 30.00% | ~7,227 |
 | We have the best insurance | 27.00% | ~6,504 |
 | Side Hustle | 27.00% | ~6,504 |
 | Summoner | 27.00% | ~6,504 |
@@ -30,10 +30,10 @@ Rating: 4.49 (Ranked 574)
 | Pesky Jerks | 26.00% | ~6,263 |
 | Right back at ya | 26.00% | ~6,263 |
 | Stunner | 26.00% | ~6,263 |
-| Animated | 24.00% | ~5,781 |
-| Skilled | 24.00% | ~5,781 |
-| Collector | 23.00% | ~5,540 |
-| Ectoplasmic Entity | 23.00% | ~5,540 |
+| Animated | 24.00% | ~5,782 |
+| Skilled | 24.00% | ~5,782 |
+| Collector | 23.00% | ~5,541 |
+| Ectoplasmic Entity | 23.00% | ~5,541 |
 | Rift Destroyer | 20.00% | ~4,818 |
 | Terrifying | 18.00% | ~4,336 |
 | Tobin's Prodigy | 18.00% | ~4,336 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 574)
 | I don't need these | 1.00% | ~241 |
 | Mycophile | 1.00% | ~241 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,088 (Ranked 97)  
+Progressed: 24,090 (Ranked 97)  
 Completed: 46 (0.19%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 46 (0.19%) (Ranked 164)
 | 2023-07-05 | 24,022 | 46 |
 | 2023-07-06 | 24,061 | 46 |
 | 2023-07-07 | 24,081 | 46 |
-| 2023-07-08 | 24,088 | 46 |
+| 2023-07-08 | 24,090 | 46 |
 ## Awards
 Max (Great for Quick Sessions): 240  (Ranked 249)  
 Sum: 2,152 (Ranked 189)  
