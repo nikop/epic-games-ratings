@@ -93,20 +93,20 @@
 | 88 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 504 |
 | 88 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.79 | 0 | 504 |
 | 88 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 700 | 163 |
+| 88 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 1,299 | 129 |
 | 88 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,905 | 56 |
 | 88 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.79 | 44 | 413 |
 | 88 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 376 | 214 |
 | 88 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 118 | 312 |
 | 88 | [Superliminal](games/s/superliminal.md) | 4.79 | 0 | 504 |
-| 99 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 0 | 504 |
-| 99 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,433 | 36 |
-| 99 | [Journey](games/j/journey.md) | 4.78 | 0 | 504 |
-| 99 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 732 | 159 |
-| 99 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,344 | 101 |
-| 99 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,294 | 129 |
-| 99 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 919 | 148 |
-| 99 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 504 |
-| 107 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 3,567 | 81 |
+| 100 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 0 | 504 |
+| 100 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,433 | 36 |
+| 100 | [Journey](games/j/journey.md) | 4.78 | 0 | 504 |
+| 100 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 732 | 159 |
+| 100 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,344 | 101 |
+| 100 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 919 | 148 |
+| 100 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 504 |
+| 107 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 3,581 | 81 |
 | 107 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 6,174 | 54 |
 | 107 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 20,762 | 17 |
 | 107 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 0 | 504 |
@@ -393,7 +393,7 @@
 | 389 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.60 | 661 | 167 |
 | 389 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 12,731 | 28 |
 | 389 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 200 | 269 |
-| 389 | [Control](games/c/control.md) | 4.60 | 8,387 | 39 |
+| 389 | [Control](games/c/control.md) | 4.60 | 8,388 | 39 |
 | 389 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 217 | 257 |
 | 389 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,470 | 27 |
 | 389 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 0 | 504 |
@@ -570,7 +570,7 @@
 | 552 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.50 | 21 | 492 |
 | 552 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.50 | 0 | 504 |
 | 552 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 0 | 504 |
-| 552 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 719 | 160 |
+| 552 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 722 | 160 |
 | 552 | [Rocket League®](games/r/rocket_league®.md) | 4.50 | 466,809 | 2 |
 | 552 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.50 | 0 | 504 |
 | 574 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 62 | 384 |
