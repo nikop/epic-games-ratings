@@ -11,7 +11,7 @@
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 10 | [Island Cities](games/i/island_cities.md) | 17.55% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
-| 12 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 14.16% |
+| 12 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 14.04% |
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.58% |
 | 14 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 15 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.24% |
@@ -38,9 +38,9 @@
 | 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.11% |
 | 37 | [Without Escape](games/w/without_escape.md) | 5.00% |
 | 38 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.91% |
-| 39 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 4.88% |
-| 40 | [Bugsnax](games/b/bugsnax.md) | 4.68% |
-| 41 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.66% |
+| 39 | [Bugsnax](games/b/bugsnax.md) | 4.68% |
+| 40 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.66% |
+| 41 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 4.65% |
 | 42 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.43% |
 | 43 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
 | 44 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.73% |
@@ -79,8 +79,8 @@
 | 77 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.96% |
 | 78 | [Frogun](games/f/frogun.md) | 1.92% |
 | 79 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
-| 80 | [Iron Danger](games/i/iron_danger.md) | 1.81% |
-| 81 | [Sifu](games/s/sifu.md) | 1.80% |
+| 80 | [Iron Danger](games/i/iron_danger.md) | 1.80% |
+| 80 | [Sifu](games/s/sifu.md) | 1.80% |
 | 82 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.76% |
 | 83 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.64% |
 | 84 | [Somerville](games/s/somerville.md) | 1.56% |

@@ -434,7 +434,7 @@
 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 298 | 4,883 | 66 |
 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.83 | 57 | 0 | 504 |
 | [City of Beats](games/c/city_of_beats.md) | - | - | 0 | - |
-| [City of Brass](games/c/city_of_brass.md) | 4.22 | 827 | 0 | 504 |
+| [City of Brass](games/c/city_of_brass.md) | 4.23 | 822 | 0 | 504 |
 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.26 | 801 | 27 | 464 |
 | [Clad In Iron War of The Pacific 1879](games/c/clad_in_iron_war_of_the_pacific_1879.md) | - | - | 0 | - |
 | [Claire de Lune](games/c/claire_de_lune.md) | - | - | 0 | - |
@@ -912,7 +912,7 @@
 | [FUSER™](games/f/fuser™.md) | 4.71 | 181 | 35 | 434 |
 | [Fusion Paradox](games/f/fusion_paradox.md) | - | - | 0 | - |
 | [FutureGrind](games/8/80a76982ecc941dd864a8792a03a5ddc.md) | - | - | - | - |
-| [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 827 | 176 | 280 |
+| [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 828 | 176 | 280 |
 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 854 | 92 | 343 |
 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | - | - | 0 | - |
 | [GALAHAD 3093](games/g/galahad_3093.md) | - | - | - | - |
@@ -979,7 +979,7 @@
 | [GPRO - Classic racing manager](games/g/gpro_-_classic_racing_manager.md) | - | - | 0 | - |
 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.17 | 859 | 0 | 504 |
 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.14 | 874 | 0 | 504 |
-| [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 238 | 195,405 | 4 |
+| [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 238 | 195,829 | 4 |
 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.56 | 455 | 208 | 264 |
 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.54 | 491 | 60 | 386 |
 | [GRAVEN](games/g/graven.md) | - | - | 0 | - |
@@ -1067,7 +1067,7 @@
 | [Horace](games/h/horace.md) | 4.50 | 552 | 0 | 504 |
 | [HordeCore](games/h/hordecore.md) | - | - | 0 | - |
 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.55 | 476 | 148 | 292 |
-| [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 120 | 4,263 | 74 |
+| [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 120 | 4,266 | 74 |
 | [Horror Story: Hallowseed](games/h/horror_story__hallowseed.md) | - | - | 0 | - |
 | [HORROR TALES The Wine](games/h/horror_tales_the_wine.md) | - | - | 0 | - |
 | [HORSE CLUB Adventures](games/3/3003b961602b4ecfa8dd7dd16a3646bc.md) | - | - | - | - |
@@ -1803,7 +1803,7 @@
 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 674 | 32 | 446 |
 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 640 | 0 | 504 |
 | [RECALL](games/r/recall.md) | - | - | - | - |
-| [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.22 | 827 | 0 | 504 |
+| [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.22 | 828 | 0 | 504 |
 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | - | - | - | - |
 | [Recompile](games/r/recompile.md) | - | - | 0 | - |
 | [Recursive Ruin](games/r/recursive_ruin.md) | - | - | 0 | - |
@@ -2169,7 +2169,7 @@
 | [Stonekeep](games/s/stonekeep.md) | - | - | 0 | - |
 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 539 | 0 | 504 |
 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 82 | 0 | 504 |
-| [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 827 | 203 | 265 |
+| [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 828 | 203 | 265 |
 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.53 | 506 | 0 | 504 |
 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.73 | 157 | 0 | 504 |
 | [Strange House](games/s/strange_house.md) | - | - | - | - |
@@ -2596,7 +2596,7 @@
 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 219 | 39 | 423 |
 | [Trash Sailors](games/t/trash_sailors.md) | - | - | 0 | - |
 | [Travellers Rest](games/t/travellers_rest.md) | 4.58 | 421 | 0 | 504 |
-| [Trek to Yomi](games/t/trek_to_yomi.md) | 4.22 | 827 | 0 | 504 |
+| [Trek to Yomi](games/t/trek_to_yomi.md) | 4.22 | 828 | 0 | 504 |
 | [Trenches - World War 1 Horror Survival Game](games/t/trenches_-_world_war_1_horror_survival_game.md) | - | - | 0 | - |
 | [Tri6 Infinite](games/9/9588d511dc28483dbadb1b8c1ec196e9.md) | - | - | - | - |
 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.56 | 455 | 0 | 504 |

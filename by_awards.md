@@ -3,7 +3,7 @@
 | 1 | [Fortnite](games/f/fortnite.md) | 1,483,143 | 4.29 | 780 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 466,809 | 4.50 | 552 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 299,636 | 4.68 | 238 |
-| 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 195,405 | 4.68 | 238 |
+| 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 195,829 | 4.68 | 238 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 185,398 | 4.19 | 845 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 157,177 | 4.88 | 18 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 143,613 | 4.52 | 520 |
@@ -73,7 +73,7 @@
 | 71 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,500 | 4.70 | 196 |
 | 72 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,406 | 4.70 | 196 |
 | 73 | [Chivalry 2](games/c/chivalry_2.md) | 4,333 | 4.61 | 361 |
-| 74 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4,263 | 4.76 | 120 |
+| 74 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4,266 | 4.76 | 120 |
 | 75 | [God of War](games/g/god_of_war.md) | 4,132 | 4.88 | 18 |
 | 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,131 | 4.56 | 455 |
 | 77 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,101 | 4.51 | 539 |
@@ -265,7 +265,7 @@
 | 263 | [Sunless Sea](games/s/sunless_sea.md) | 209 | 4.58 | 421 |
 | 264 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 208 | 4.56 | 455 |
 | 265 | [shapez](games/s/shapez.md) | 203 | 4.71 | 181 |
-| 265 | [Stranded Deep](games/s/stranded_deep.md) | 203 | 4.22 | 827 |
+| 265 | [Stranded Deep](games/s/stranded_deep.md) | 203 | 4.22 | 828 |
 | 267 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 202 | 4.35 | 736 |
 | 268 | [HITMAN](games/h/hitman.md) | 201 | 4.64 | 312 |
 | 269 | [Brawlhalla](games/b/brawlhalla.md) | 200 | 4.60 | 389 |
@@ -279,7 +279,7 @@
 | 277 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 182 | 4.64 | 312 |
 | 278 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 181 | 4.07 | 899 |
 | 279 | [Pinball FX](games/p/pinball_fx.md) | 179 | 4.04 | 904 |
-| 280 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 176 | 4.22 | 827 |
+| 280 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 176 | 4.22 | 828 |
 | 280 | [The Witness](games/t/the_witness.md) | 176 | 4.70 | 196 |
 | 282 | [Space Punks](games/s/space_punks.md) | 174 | 4.16 | 862 |
 | 283 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 173 | 4.28 | 790 |

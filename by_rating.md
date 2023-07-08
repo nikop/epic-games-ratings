@@ -125,7 +125,7 @@
 | 120 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,256 | 87 |
 | 120 | [Diabotical](games/d/diabotical.md) | 4.76 | 270 | 241 |
 | 120 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 41 | 416 |
-| 120 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,263 | 74 |
+| 120 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,266 | 74 |
 | 120 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 504 |
 | 120 | [Outlast](games/o/outlast.md) | 4.76 | 0 | 504 |
 | 120 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,673 | 116 |
@@ -246,7 +246,7 @@
 | 238 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,868 | 79 |
 | 238 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 0 | 504 |
 | 238 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 299,636 | 3 |
-| 238 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 195,405 | 4 |
+| 238 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 195,829 | 4 |
 | 238 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 414 | 205 |
 | 238 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 560 | 180 |
 | 238 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 674 | 165 |
@@ -821,16 +821,16 @@
 | 813 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 45 | 409 |
 | 813 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.24 | 0 | 504 |
 | 813 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 23 | 480 |
+| 822 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 | 504 |
 | 822 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.23 | 0 | 504 |
 | 822 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 143 |
 | 822 | [Rise of Industry](games/r/rise_of_industry.md) | 4.23 | 0 | 504 |
 | 822 | [Starsand](games/s/starsand.md) | 4.23 | 0 | 504 |
 | 822 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 0 | 504 |
-| 827 | [City of Brass](games/c/city_of_brass.md) | 4.22 | 0 | 504 |
-| 827 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 176 | 280 |
-| 827 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.22 | 0 | 504 |
-| 827 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 203 | 265 |
-| 827 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.22 | 0 | 504 |
+| 828 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 176 | 280 |
+| 828 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.22 | 0 | 504 |
+| 828 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 203 | 265 |
+| 828 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.22 | 0 | 504 |
 | 832 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 14,564 | 24 |
 | 832 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 0 | 504 |
 | 832 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.21 | 78 | 356 |
