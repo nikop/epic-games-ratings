@@ -17,7 +17,7 @@
 | 15 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.24% |
 | 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.05% |
 | 17 | [Remains](games/r/remains.md) | 11.90% |
-| 18 | [Sonic Origins](games/s/sonic_origins.md) | 10.94% |
+| 18 | [Sonic Origins](games/s/sonic_origins.md) | 10.89% |
 | 19 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.71% |
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.26% |
@@ -28,7 +28,7 @@
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.34% |
 | 27 | [Time Loader](games/t/time_loader.md) | 7.27% |
 | 28 | [Scorn](games/s/scorn.md) | 7.03% |
-| 29 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.93% |
+| 29 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.91% |
 | 30 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.82% |
 | 31 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 32 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -36,8 +36,8 @@
 | 34 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
 | 35 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.13% |
 | 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.11% |
-| 37 | [Without Escape](games/w/without_escape.md) | 5.00% |
-| 38 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.91% |
+| 37 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.91% |
+| 38 | [Without Escape](games/w/without_escape.md) | 4.76% |
 | 39 | [Bugsnax](games/b/bugsnax.md) | 4.68% |
 | 40 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.66% |
 | 41 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 4.55% |
@@ -66,7 +66,7 @@
 | 64 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 65 | [Lamentum](games/l/lamentum.md) | 2.67% |
 | 66 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
-| 67 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.57% |
+| 67 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.59% |
 | 68 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 69 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
 | 70 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.43% |
@@ -79,8 +79,8 @@
 | 77 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.96% |
 | 78 | [Frogun](games/f/frogun.md) | 1.92% |
 | 79 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
-| 80 | [Iron Danger](games/i/iron_danger.md) | 1.80% |
 | 80 | [Sifu](games/s/sifu.md) | 1.80% |
+| 81 | [Iron Danger](games/i/iron_danger.md) | 1.79% |
 | 82 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.76% |
 | 83 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.64% |
 | 84 | [Somerville](games/s/somerville.md) | 1.56% |
@@ -203,11 +203,11 @@
 | 201 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
 | 201 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
 | 201 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.05% |
+| 201 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.05% |
 | 201 | [House Party](games/h/house_party.md) | 0.05% |
 | 201 | [Saints Row](games/s/saints_row.md) | 0.05% |
-| 206 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
-| 206 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.04% |
-| 206 | [Old World](games/o/old_world.md) | 0.04% |
+| 207 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
+| 207 | [Old World](games/o/old_world.md) | 0.04% |
 | 209 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.03% |
 | 209 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
 | 209 | [High On Life](games/h/high_on_life.md) | 0.03% |

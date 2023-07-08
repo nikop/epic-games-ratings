@@ -631,7 +631,6 @@
 | 621 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 504 |
 | 621 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 51 | 394 |
 | 621 | [Redout 2](games/r/redout_2.md) | 4.45 | 0 | 504 |
-| 621 | [SMITE](games/s/smite.md) | 4.45 | 3,982 | 78 |
 | 621 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.45 | 0 | 504 |
 | 621 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.45 | 0 | 504 |
 | 621 | [STG Football](games/s/stg_football.md) | 4.45 | 40 | 419 |
@@ -640,21 +639,22 @@
 | 621 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.45 | 0 | 504 |
 | 621 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.45 | 0 | 504 |
 | 621 | [Weird West: Definitive Edition](games/w/weird_west.md) | 4.45 | 24 | 475 |
-| 641 | [Chorus](games/c/chorus.md) | 4.44 | 32 | 446 |
-| 641 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 0 | 504 |
-| 641 | [Death Coming](games/d/death_coming.md) | 4.44 | 0 | 504 |
-| 641 | [ELEX](games/e/elex.md) | 4.44 | 24 | 475 |
-| 641 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 504 |
-| 641 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.44 | 0 | 504 |
-| 641 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 861 | 151 |
-| 641 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 0 | 504 |
-| 641 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 0 | 504 |
-| 641 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 554 | 182 |
-| 641 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 504 |
-| 641 | [The Captain](games/t/the_captain.md) | 4.44 | 97 | 333 |
-| 641 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 0 | 504 |
-| 641 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 387 |
-| 641 | [WRC Generations](games/w/wrc_generations.md) | 4.44 | 0 | 504 |
+| 640 | [Chorus](games/c/chorus.md) | 4.44 | 32 | 446 |
+| 640 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 0 | 504 |
+| 640 | [Death Coming](games/d/death_coming.md) | 4.44 | 0 | 504 |
+| 640 | [ELEX](games/e/elex.md) | 4.44 | 24 | 475 |
+| 640 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 504 |
+| 640 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.44 | 0 | 504 |
+| 640 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 861 | 151 |
+| 640 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 0 | 504 |
+| 640 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 0 | 504 |
+| 640 | [SMITE](games/s/smite.md) | 4.44 | 3,982 | 78 |
+| 640 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 554 | 182 |
+| 640 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 504 |
+| 640 | [The Captain](games/t/the_captain.md) | 4.44 | 97 | 333 |
+| 640 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 0 | 504 |
+| 640 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 387 |
+| 640 | [WRC Generations](games/w/wrc_generations.md) | 4.44 | 0 | 504 |
 | 656 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 199 | 270 |
 | 656 | [Good Company](games/g/good_company.md) | 4.43 | 0 | 504 |
 | 656 | [Hell is Others](games/h/hell_is_others.md) | 4.43 | 32 | 446 |
