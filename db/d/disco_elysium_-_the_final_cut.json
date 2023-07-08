@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1181,9 +1181,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 122870,
+  "EOS_Progressed": 122871,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 346,
+  "EOS_NewPlayers": 344,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -8816,6 +8816,11 @@
       "Time": "2023-07-08T19:02:21.7579174+00:00",
       "NumProgressed": 122870,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-07-08T20:02:20.8741351+00:00",
+      "NumProgressed": 122871,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 40,
@@ -8963,7 +8968,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 18430
+      "UsersEstimate": 18431
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -9146,15 +9151,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 122870,
+      "Progressed": 122871,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-07-07T16:59:40.5892511+00:00",
-  "LastChanged_Achievements": "2023-07-08T19:02:21.7579169+00:00",
+  "LastChanged_Achievements": "2023-07-08T20:02:20.8741347+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:13.7032583+00:00",
-  "LastUpdate_Ratings": "2023-07-08T18:59:33.6369746+00:00",
-  "LastUpdate_Achievements": "2023-07-08T19:02:21.7579758+00:00"
+  "LastUpdate_Ratings": "2023-07-08T19:59:55.4293936+00:00",
+  "LastUpdate_Achievements": "2023-07-08T20:02:20.8742206+00:00"
 }

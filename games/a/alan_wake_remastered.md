@@ -6,27 +6,27 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 34.00% | ~19,395 |
-| Let There Be Light | 27.00% | ~15,402 |
-| Float Like a Butterfly | 26.00% | ~14,831 |
-| Nordic Walking | 21.00% | ~11,979 |
-| Bright Falls' Finest | 20.00% | ~11,409 |
-| Under a Thin Layer of Skin | 18.00% | ~10,268 |
+| Follow the Light | 34.00% | ~19,397 |
+| Let There Be Light | 27.00% | ~15,403 |
+| Float Like a Butterfly | 26.00% | ~14,833 |
+| Nordic Walking | 21.00% | ~11,980 |
+| Bright Falls' Finest | 20.00% | ~11,410 |
+| Under a Thin Layer of Skin | 18.00% | ~10,269 |
 | Park Ranger | 15.00% | ~8,557 |
 | Paging Mr. Wake | 15.00% | ~8,557 |
-| Back! Back, I Say! | 14.00% | ~7,986 |
-| Finders Keepers | 14.00% | ~7,986 |
+| Back! Back, I Say! | 14.00% | ~7,987 |
+| Finders Keepers | 14.00% | ~7,987 |
 | Damn Good Cup of Coffee | 13.00% | ~7,416 |
-| Wheels Within Wheels | 12.00% | ~6,845 |
-| They're Heeeeeere! | 12.00% | ~6,845 |
-| Sound and Fury | 12.00% | ~6,845 |
-| Missed by a Mile | 12.00% | ~6,845 |
+| Wheels Within Wheels | 12.00% | ~6,846 |
+| They're Heeeeeere! | 12.00% | ~6,846 |
+| Sound and Fury | 12.00% | ~6,846 |
+| Missed by a Mile | 12.00% | ~6,846 |
 | Iron Horse | 11.00% | ~6,275 |
 | The Six-Gun Scribe | 11.00% | ~6,275 |
 | Collateral Carnage | 11.00% | ~6,275 |
 | Come One, Come All | 11.00% | ~6,275 |
-| Heavy Metal | 10.00% | ~5,704 |
-| Perchance to Dream | 10.00% | ~5,704 |
+| Heavy Metal | 10.00% | ~5,705 |
+| Perchance to Dream | 10.00% | ~5,705 |
 | Gatekeeper | 9.00% | ~5,134 |
 | The Lady of the Light | 9.00% | ~5,134 |
 | It's Not Just a Typewriter Brand | 9.00% | ~5,134 |
@@ -46,8 +46,8 @@ Number of Ratings: 524  (23.09.2022)
 | Children of the Elder God | 4.00% | ~2,282 |
 | If It Flies, It Burns | 4.00% | ~2,282 |
 | KBF-FM | 4.00% | ~2,282 |
-| Kill Your Darlings | 3.00% | ~615 |
-| Heartbreaker | 3.00% | ~615 |
+| Kill Your Darlings | 3.00% | ~616 |
+| Heartbreaker | 3.00% | ~616 |
 | Medical Opinions | 2.00% | ~1,141 |
 | Taken Season | 2.00% | ~1,141 |
 | Carny | 2.00% | ~1,141 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~57 |
 | No Punctuation | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,044 (Ranked 80)  
+Progressed: 57,049 (Ranked 80)  
 Completed: 57 (0.10%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 57 (0.10%) (Ranked 183)
 | 2023-07-05 | 56,875 | 57 |
 | 2023-07-06 | 56,931 | 57 |
 | 2023-07-07 | 56,982 | 57 |
-| 2023-07-08 | 57,044 | 57 |
+| 2023-07-08 | 57,049 | 57 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

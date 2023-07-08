@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -2409,9 +2409,9 @@
       "ID": "HOLD_THE_LINE",
       "SetID": "9a4jnji",
       "Name": "Hold The Line",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 302
+      "UsersEstimate": 315
     },
     {
       "ID": "IM_THE_LAW",
@@ -2586,8 +2586,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-07-02T03:58:55.7545466+00:00",
-  "LastChanged_Achievements": "2023-07-08T19:02:15.9091836+00:00",
+  "LastChanged_Achievements": "2023-07-08T20:02:14.8497281+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:59.5184485+00:00",
-  "LastUpdate_Ratings": "2023-07-08T18:58:35.3169108+00:00",
-  "LastUpdate_Achievements": "2023-07-08T19:02:15.9092247+00:00"
+  "LastUpdate_Ratings": "2023-07-08T19:58:57.0605941+00:00",
+  "LastUpdate_Achievements": "2023-07-08T20:02:14.8498056+00:00"
 }

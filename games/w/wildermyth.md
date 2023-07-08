@@ -64,7 +64,7 @@ Number of Ratings: 45  (23.09.2022)
 | Peacemaker | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,294 (Ranked 176)  
-Completed: 4 (0.31%) (Ranked 144)  
+Completed: 5 (0.39%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -131,13 +131,14 @@ Completed: 4 (0.31%) (Ranked 144)
 | 2023-07-05 | 1,289 | 4 |
 | 2023-07-06 | 1,291 | 4 |
 | 2023-07-07 | 1,294 | 4 |
+| 2023-07-08 | 1,294 | 5 |
 ## Awards
-Max (Character Customization): 27  (Ranked 464)  
-Sum: 27 (Ranked 475)  
-Diff (max vs sum): -11  
+Max (Character Customization): 28  (Ranked 462)  
+Sum: 28 (Ranked 474)  
+Diff (max vs sum): -12  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 27 |
+| This game has Inclusive Character Customization | 28 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -161,3 +162,4 @@ Diff (max vs sum): -11
 | 2022-10-14 | 4.75 | - | - | - |
 | 2022-11-02 | 4.76 | - | - | - |
 | 2022-12-16 | 4.77 | - | - | - |
+| 2023-07-08 | 4.77 | - | 28 | 28 |

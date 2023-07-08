@@ -2443,9 +2443,9 @@
       "Count": 730
     }
   ],
-  "EOS_Progressed": 232133,
+  "EOS_Progressed": 232134,
   "EOS_Completed": 245,
-  "EOS_NewPlayers": 370,
+  "EOS_NewPlayers": 369,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -10328,6 +10328,11 @@
       "Time": "2023-07-08T19:06:51.287112+00:00",
       "NumProgressed": 232133,
       "NumCompleted": 245
+    },
+    {
+      "Time": "2023-07-08T20:07:11.4351329+00:00",
+      "NumProgressed": 232134,
+      "NumCompleted": 245
     }
   ],
   "TotalAchievements": 122,
@@ -10371,7 +10376,7 @@
       "Name": "First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 222848
+      "UsersEstimate": 222849
     },
     {
       "ID": "CURSE1HP",
@@ -10379,7 +10384,7 @@
       "Name": "Nothing To Lose",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 92853
+      "UsersEstimate": 92854
     },
     {
       "ID": "CURSEDPOTIONS",
@@ -10419,7 +10424,7 @@
       "Name": "Heavy Hitter",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 123030
+      "UsersEstimate": 123031
     },
     {
       "ID": "DEAL99DAMAGE",
@@ -10459,7 +10464,7 @@
       "Name": "Getting A Glimpse",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 169457
+      "UsersEstimate": 169458
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -10515,7 +10520,7 @@
       "Name": "That Was Quick",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 129994
+      "UsersEstimate": 129995
     },
     {
       "ID": "DIERAINBOWSOCKS",
@@ -10523,7 +10528,7 @@
       "Name": "Colorful Corpse",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 134637
+      "UsersEstimate": 134638
     },
     {
       "ID": "DIETOGRAVESTONE",
@@ -10603,7 +10608,7 @@
       "Name": "Cold Hearted",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 78925
+      "UsersEstimate": 78926
     },
     {
       "ID": "FULLINVENTORY",
@@ -10715,7 +10720,7 @@
       "Name": "Save Our Souls",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 58033
+      "UsersEstimate": 58034
     },
     {
       "ID": "HUGESOULSPILL",
@@ -10739,7 +10744,7 @@
       "Name": "Defeat The Dark",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 141601
+      "UsersEstimate": 141602
     },
     {
       "ID": "KILL1000",
@@ -10771,7 +10776,7 @@
       "Name": "The Bestiary",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 92853
+      "UsersEstimate": 92854
     },
     {
       "ID": "KILLABOMINATIONHIGHDEF",
@@ -10835,7 +10840,7 @@
       "Name": "Heartless",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 106781
+      "UsersEstimate": 106782
     },
     {
       "ID": "KILLPARANOIA",
@@ -10867,7 +10872,7 @@
       "Name": "Spine Breaker",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 106781
+      "UsersEstimate": 106782
     },
     {
       "ID": "KILLSPITTER",
@@ -10923,7 +10928,7 @@
       "Name": "A Donation",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 129994
+      "UsersEstimate": 129995
     },
     {
       "ID": "MULTEXPLOSIONS",
@@ -10987,7 +10992,7 @@
       "Name": "A Quick Escape",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 150886
+      "UsersEstimate": 150887
     },
     {
       "ID": "PETRIFY50",
@@ -11083,7 +11088,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 206598
+      "UsersEstimate": 206599
     },
     {
       "ID": "SPECIALROOMS10",
@@ -11091,7 +11096,7 @@
       "Name": "Explorer",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 143922
+      "UsersEstimate": 143923
     },
     {
       "ID": "SPEEDRUN10",
@@ -11107,7 +11112,7 @@
       "Name": "Sneaky",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 99817
+      "UsersEstimate": 99818
     },
     {
       "ID": "STEALTH100",
@@ -11155,7 +11160,7 @@
       "Name": "An Offering",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 141601
+      "UsersEstimate": 141602
     },
     {
       "ID": "VISIT35DUNGEONS",
@@ -11314,7 +11319,7 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 232133,
+      "Progressed": 232134,
       "Completed": 245
     }
   ],
@@ -11322,8 +11327,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-07-07T08:00:20.6480575+00:00",
-  "LastChanged_Achievements": "2023-07-08T19:06:51.2871116+00:00",
+  "LastChanged_Achievements": "2023-07-08T20:07:11.4351324+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:43.9796817+00:00",
-  "LastUpdate_Ratings": "2023-07-08T18:59:58.1035046+00:00",
-  "LastUpdate_Achievements": "2023-07-08T19:06:51.2872884+00:00"
+  "LastUpdate_Ratings": "2023-07-08T20:00:20.3339403+00:00",
+  "LastUpdate_Achievements": "2023-07-08T20:07:11.435359+00:00"
 }

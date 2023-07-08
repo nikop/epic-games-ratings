@@ -6,32 +6,32 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~222,848 |
-| Uncharted Territory | 89.00% | ~206,598 |
-| Getting A Glimpse | 73.00% | ~169,457 |
-| A Quick Escape | 65.00% | ~150,886 |
-| Explorer | 62.00% | ~143,922 |
-| Defeat The Dark | 61.00% | ~141,601 |
-| An Offering | 61.00% | ~141,601 |
-| Colorful Corpse | 58.00% | ~134,637 |
-| That Was Quick | 56.00% | ~129,994 |
-| A Donation | 56.00% | ~129,994 |
+| First Steps | 96.00% | ~222,849 |
+| Uncharted Territory | 89.00% | ~206,599 |
+| Getting A Glimpse | 73.00% | ~169,458 |
+| A Quick Escape | 65.00% | ~150,887 |
+| Explorer | 62.00% | ~143,923 |
+| Defeat The Dark | 61.00% | ~141,602 |
+| An Offering | 61.00% | ~141,602 |
+| Colorful Corpse | 58.00% | ~134,638 |
+| That Was Quick | 56.00% | ~129,995 |
+| A Donation | 56.00% | ~129,995 |
 | Goodbye, Frog Friend | 54.00% | ~125,352 |
-| Heavy Hitter | 53.00% | ~123,030 |
-| Heartless | 46.00% | ~106,781 |
-| Spine Breaker | 46.00% | ~106,781 |
+| Heavy Hitter | 53.00% | ~123,031 |
+| Heartless | 46.00% | ~106,782 |
+| Spine Breaker | 46.00% | ~106,782 |
 | Deflection | 45.00% | ~104,460 |
-| Sneaky | 43.00% | ~99,817 |
+| Sneaky | 43.00% | ~99,818 |
 | Delving Deeper | 42.00% | ~97,496 |
 | Ambitious Intent | 41.00% | ~95,175 |
 | C-C-Combo | 41.00% | ~95,175 |
-| Nothing To Lose | 40.00% | ~92,853 |
-| The Bestiary | 40.00% | ~92,853 |
+| Nothing To Lose | 40.00% | ~92,854 |
+| The Bestiary | 40.00% | ~92,854 |
 | What's Yours Is Mine | 38.00% | ~88,211 |
 | R.I.P | 36.00% | ~83,568 |
 | Shootout | 36.00% | ~83,568 |
 | I Am Overburdened | 35.00% | ~81,247 |
-| Cold Hearted | 34.00% | ~78,925 |
+| Cold Hearted | 34.00% | ~78,926 |
 | Dig Your Own Grave | 33.00% | ~76,604 |
 | Toxic | 33.00% | ~76,604 |
 | Who To Trust? | 32.00% | ~74,283 |
@@ -44,7 +44,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Consecutive Curses | 26.00% | ~60,355 |
 | Destroy Your Fears | 26.00% | ~60,355 |
 | Shapeshifting | 26.00% | ~60,355 |
-| Save Our Souls | 25.00% | ~58,033 |
+| Save Our Souls | 25.00% | ~58,034 |
 | To The Death! | 20.00% | ~46,427 |
 | Well Prepared | 20.00% | ~46,427 |
 | Just Chilling | 20.00% | ~46,427 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Never Too Many Hats | 0.40% | ~929 |
 | Near Death Experience | 0.30% | ~696 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,133 (Ranked 46)  
+Progressed: 232,134 (Ranked 46)  
 Completed: 245 (0.11%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 245 (0.11%) (Ranked 181)
 | 2023-07-05 | 231,981 | 244 |
 | 2023-07-06 | 232,030 | 244 |
 | 2023-07-07 | 232,079 | 245 |
-| 2023-07-08 | 232,133 | 245 |
+| 2023-07-08 | 232,134 | 245 |
 ## Awards
 Max (Quickly Understood Controls): 1,483  (Ranked 120)  
 Sum: 11,478 (Ranked 75)  

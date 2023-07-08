@@ -22,6 +22,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Great Upstart | 4.00% | ~409 |
 | Voice from Your Dreams | 4.00% | ~409 |
 | All Paths Open | 4.00% | ~409 |
+| Heart of the Fallen Land | 3.00% | ~307 |
 | The Legacy | 3.00% | ~307 |
 | Divide and Rule | 3.00% | ~307 |
 | Mythic Reinforcements | 3.00% | ~307 |
@@ -30,7 +31,6 @@ Number of Ratings: 1,354  (23.09.2022)
 | Next-Door Play | 3.00% | ~307 |
 | Get the Toad | 3.00% | ~307 |
 | Beware Still Water | 3.00% | ~270 |
-| Heart of the Fallen Land | 2.00% | ~205 |
 | Path of the Trickster | 2.00% | ~205 |
 | Path of the Lich | 2.00% | ~205 |
 | Heroic Victory | 2.00% | ~205 |

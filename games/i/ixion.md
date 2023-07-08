@@ -5,13 +5,13 @@ Rating: 4.56 (Ranked 455)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 21.00% | ~585 |
+| Wakey Wakey | 21.00% | ~586 |
 | Infinite Growth... | 18.00% | ~502 |
 | Sputnik 2049 | 18.00% | ~502 |
 | Without Breaking Some Eggs... | 17.00% | ~474 |
-| Space Society | 12.00% | ~334 |
-| A Thousand Strong | 12.00% | ~334 |
-| Ready for a New World | 12.00% | ~334 |
+| Space Society | 12.00% | ~335 |
+| A Thousand Strong | 12.00% | ~335 |
+| Ready for a New World | 12.00% | ~335 |
 | Permanent Redesigns | 10.00% | ~279 |
 | Guy de Borderlands | 9.00% | ~251 |
 | Fully Recycled | 9.00% | ~251 |
@@ -26,10 +26,10 @@ Rating: 4.56 (Ranked 455)
 | Power Outage | 5.00% | ~139 |
 | Convenient Transport | 5.00% | ~139 |
 | Please Make it Stop! | 5.00% | ~139 |
-| Access Granted | 4.00% | ~111 |
-| Necessary Enhancement | 4.00% | ~111 |
-| All in Good Health | 4.00% | ~111 |
-| From the Past | 4.00% | ~111 |
+| Access Granted | 4.00% | ~112 |
+| Necessary Enhancement | 4.00% | ~112 |
+| All in Good Health | 4.00% | ~112 |
+| From the Past | 4.00% | ~112 |
 | Oats | 3.00% | ~84 |
 | What They Hide From Us | 3.00% | ~84 |
 | ...  in a finite world | 3.00% | ~84 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 455)
 | This is Fine | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,787 (Ranked 153)  
+Progressed: 2,789 (Ranked 153)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-05 | 2,774 | 0 |
 | 2023-07-06 | 2,779 | 0 |
 | 2023-07-07 | 2,781 | 0 |
-| 2023-07-08 | 2,787 | 0 |
+| 2023-07-08 | 2,789 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

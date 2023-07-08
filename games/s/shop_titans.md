@@ -6,30 +6,30 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 97.00% | ~128,175 |
-| Titan's First Steps | 96.00% | ~126,853 |
-| Basic in Bulk | 91.00% | ~120,246 |
+| Sponsored by Argon | 97.00% | ~128,176 |
+| Titan's First Steps | 96.00% | ~126,854 |
+| Basic in Bulk | 91.00% | ~120,247 |
 | Tinkle of Coins | 86.00% | ~113,640 |
-| Disintermediation | 75.00% | ~99,104 |
-| Capitalism Ho! | 74.00% | ~97,783 |
-| It's Free Real Estate | 70.00% | ~92,497 |
+| Disintermediation | 75.00% | ~99,105 |
+| Capitalism Ho! | 74.00% | ~97,784 |
+| It's Free Real Estate | 70.00% | ~92,498 |
 | Budding Merchant | 66.00% | ~87,212 |
 | Another Satisfied Customer | 61.00% | ~80,605 |
-| One Easy Payment | 60.00% | ~79,283 |
-| Own the Means of Production | 60.00% | ~79,283 |
+| One Easy Payment | 60.00% | ~79,284 |
+| Own the Means of Production | 60.00% | ~79,284 |
 | Some Assembly Required | 58.00% | ~76,641 |
-| Pretty Penny | 57.00% | ~75,319 |
-| One-Armed Bandit | 49.00% | ~64,748 |
+| Pretty Penny | 57.00% | ~75,320 |
+| One-Armed Bandit | 49.00% | ~64,749 |
 | Through Repetition, Perfection | 46.00% | ~60,784 |
 | The Daily Grind | 45.00% | ~59,463 |
-| Bounty Hunters | 44.00% | ~58,141 |
+| Bounty Hunters | 44.00% | ~58,142 |
 | Where it Hurts | 43.00% | ~56,820 |
-| Dungeon Imports | 42.00% | ~55,498 |
+| Dungeon Imports | 42.00% | ~55,499 |
 | Flooding the Market | 41.00% | ~54,177 |
 | Demand for Supplies | 38.00% | ~50,213 |
-| Gild-Gotten Goods | 37.00% | ~48,891 |
+| Gild-Gotten Goods | 37.00% | ~48,892 |
 | Did we pack lunch? | 35.00% | ~46,249 |
-| Arcane Industries | 34.00% | ~44,927 |
+| Arcane Industries | 34.00% | ~44,928 |
 | Accomplished Merchant | 31.00% | ~40,963 |
 | Ascended | 28.00% | ~36,999 |
 | Gem Expert | 28.00% | ~36,999 |
@@ -39,14 +39,14 @@ Number of Ratings: 12,664  (23.09.2022)
 | Efficient Floor Space | 27.00% | ~35,678 |
 | Vanity, Verily | 26.00% | ~34,356 |
 | Research & Development | 25.00% | ~33,035 |
-| Power of Love | 24.00% | ~31,713 |
-| Flawless Fusion | 24.00% | ~31,713 |
+| Power of Love | 24.00% | ~31,714 |
+| Flawless Fusion | 24.00% | ~31,714 |
 | Natural 20 | 23.00% | ~30,392 |
 | Fated Encounters | 21.00% | ~27,749 |
 | Royal Ransom | 21.00% | ~27,749 |
 | Magical Harmony | 21.00% | ~27,749 |
 | Tax not Included | 20.00% | ~26,428 |
-| Trash to Treasure | 19.00% | ~25,106 |
+| Trash to Treasure | 19.00% | ~25,107 |
 | For the Hoard! | 18.00% | ~23,785 |
 | Special Ingredient | 17.00% | ~22,464 |
 | Scrapbooker | 16.00% | ~21,142 |
@@ -55,10 +55,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Expansion in Session | 15.00% | ~19,821 |
 | Seasoned Journeyman | 15.00% | ~19,821 |
 | Black Friday Special | 15.00% | ~19,821 |
-| Big Game Hunting | 14.00% | ~18,499 |
-| Locally Sourced | 14.00% | ~18,499 |
-| Flying off the Shelves | 14.00% | ~18,499 |
-| Laden with Loot | 14.00% | ~18,499 |
+| Big Game Hunting | 14.00% | ~18,500 |
+| Locally Sourced | 14.00% | ~18,500 |
+| Flying off the Shelves | 14.00% | ~18,500 |
+| Laden with Loot | 14.00% | ~18,500 |
 | Fat Cat Tag Team | 13.00% | ~17,178 |
 | Above the Norm | 12.00% | ~15,857 |
 | Hidden Potential | 12.00% | ~15,857 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.50% | ~661 |
 | Capitalist Camaraderie | 0.20% | ~264 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,139 (Ranked 60)  
+Progressed: 132,140 (Ranked 60)  
 Completed: 116 (0.09%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,17 +198,17 @@ Completed: 116 (0.09%) (Ranked 188)
 | 2023-07-05 | 131,970 | 115 |
 | 2023-07-06 | 132,029 | 116 |
 | 2023-07-07 | 132,089 | 116 |
-| 2023-07-08 | 132,139 | 116 |
+| 2023-07-08 | 132,140 | 116 |
 ## Awards
 Max (Great for Beginners): 4,650  (Ranked 69)  
-Sum: 26,886 (Ranked 46)  
+Sum: 26,889 (Ranked 46)  
 Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,650 |
 | This game is Relaxing | 3,977 |
 | This game has Quickly Understood Controls | 3,964 |
-| This game has Diverse Characters | 3,816 |
+| This game has Diverse Characters | 3,819 |
 | This game is Highly Recommended | 3,703 |
 | This game has Easy Combat | 3,647 |
 | This game has Playful Visuals | 3,129 |
@@ -381,4 +381,4 @@ Diff (max vs sum): 23
 | 2023-07-05 | 3.99 | - | 4,648 | 26,872 |
 | 2023-07-06 | 3.99 | - | 4,649 | 26,880 |
 | 2023-07-07 | 3.99 | - | 4,649 | 26,882 |
-| 2023-07-08 | 3.99 | - | 4,650 | 26,886 |
+| 2023-07-08 | 3.99 | - | 4,650 | 26,889 |

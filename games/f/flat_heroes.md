@@ -38,13 +38,13 @@
 | Killing Spree | 0.90% | ~3 |
 | Rogue - Hero Edition | 0.60% | ~2 |
 | Pim Pam Pum - Hero Edition | 0.60% | ~2 |
+| Dear Diary | 0.30% | ~1 |
 | Lone Wolf | 0.30% | ~1 |
 | Explorer | 0.30% | ~1 |
 | Flat Hero | 0.00% | ~0 |
 | Pacifist | 0.00% | ~0 |
 | Shepherd | 0.00% | ~0 |
 | Yondu | 0.00% | ~0 |
-| Dear Diary | 0.00% | ~0 |
 | Persistence | 0.00% | ~0 |
 | Warrior Trials | 0.00% | ~0 |
 | Colorful | 0.00% | ~0 |

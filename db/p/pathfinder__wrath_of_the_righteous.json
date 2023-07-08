@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3064,7 +3064,7 @@
   ],
   "EOS_Progressed": 10227,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8066,9 +8066,9 @@
       "ID": "06_HeartOfFallenLand",
       "SetID": "989of5o",
       "Name": "Heart of the Fallen Land",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 307
     },
     {
       "ID": "07_FinalThreshold",
@@ -8968,8 +8968,8 @@
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-08T10:59:04.6378997+00:00",
-  "LastChanged_Achievements": "2023-07-08T19:03:35.6318768+00:00",
+  "LastChanged_Achievements": "2023-07-08T20:03:43.0717615+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:12.7052521+00:00",
-  "LastUpdate_Ratings": "2023-07-08T18:58:45.0583482+00:00",
-  "LastUpdate_Achievements": "2023-07-08T19:03:35.6320245+00:00"
+  "LastUpdate_Ratings": "2023-07-08T19:59:08.5993414+00:00",
+  "LastUpdate_Achievements": "2023-07-08T20:03:43.0719939+00:00"
 }

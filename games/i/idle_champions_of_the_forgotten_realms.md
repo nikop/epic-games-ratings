@@ -6,22 +6,22 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,302 |
-| The Mad Wizard | 11.00% | ~22,955 |
-| The Ring of Regeneration | 7.00% | ~14,608 |
-| Are Ya Chicken? | 7.00% | ~14,608 |
-| Were-verpowered | 5.00% | ~10,434 |
-| Seeking Allies | 5.00% | ~10,434 |
-| Mad Cow Disease | 5.00% | ~10,434 |
-| Friendly Imps | 5.00% | ~10,434 |
-| A Persistent Buzzing | 4.00% | ~8,347 |
-| Pure Energy | 4.00% | ~8,347 |
-| Beast Mode | 3.00% | ~6,260 |
-| Terror in the Dark | 3.00% | ~6,260 |
-| Unearthed Evil | 3.00% | ~6,260 |
-| The Crumbling Temple | 3.00% | ~6,260 |
-| Exploring Port Nyanzaru | 3.00% | ~6,260 |
-| The Contagious Curse | 3.00% | ~6,260 |
+| The Cursed Farmer | 15.00% | ~31,306 |
+| The Mad Wizard | 11.00% | ~22,958 |
+| The Ring of Regeneration | 7.00% | ~14,610 |
+| Are Ya Chicken? | 7.00% | ~14,610 |
+| Were-verpowered | 5.00% | ~10,435 |
+| Seeking Allies | 5.00% | ~10,435 |
+| Mad Cow Disease | 5.00% | ~10,435 |
+| Friendly Imps | 5.00% | ~10,435 |
+| A Persistent Buzzing | 4.00% | ~8,348 |
+| Pure Energy | 4.00% | ~8,348 |
+| Beast Mode | 3.00% | ~6,261 |
+| Terror in the Dark | 3.00% | ~6,261 |
+| Unearthed Evil | 3.00% | ~6,261 |
+| The Crumbling Temple | 3.00% | ~6,261 |
+| Exploring Port Nyanzaru | 3.00% | ~6,261 |
+| The Contagious Curse | 3.00% | ~6,261 |
 | Low Initiative | 2.00% | ~4,174 |
 | A Mysterious Summons | 2.00% | ~4,174 |
 | Building Trust | 2.00% | ~4,174 |
@@ -54,15 +54,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Long Haul | 0.90% | ~1,878 |
 | Lost in the Deep | 0.90% | ~1,878 |
 | Easily Distracted | 0.90% | ~1,878 |
-| The Forbidden City | 0.80% | ~1,669 |
-| Captured! | 0.80% | ~1,669 |
-| Wisdom Check | 0.80% | ~1,669 |
-| The Mists of Ravenloft | 0.80% | ~1,669 |
+| The Forbidden City | 0.80% | ~1,670 |
+| Captured! | 0.80% | ~1,670 |
+| Wisdom Check | 0.80% | ~1,670 |
+| The Mists of Ravenloft | 0.80% | ~1,670 |
 | A Grand Puzzle | 0.70% | ~1,461 |
 | Tomb of the Nine Gods | 0.70% | ~1,461 |
 | Treasure Hunters | 0.70% | ~1,461 |
 | Nimble Escape | 0.70% | ~1,461 |
 | Fugitives | 0.70% | ~1,461 |
+| Crowded Streets | 0.70% | ~1,461 |
 | The Darkness Runs Deeper | 0.70% | ~1,461 |
 | The Giant's Bane Tavern | 0.70% | ~1,225 |
 | Rude Welcome | 0.70% | ~1,461 |
@@ -74,27 +75,26 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Guardian of Orolunga | 0.60% | ~1,252 |
 | Hopelessly Lost | 0.60% | ~1,252 |
 | Enter the Sargauth | 0.60% | ~1,252 |
-| Crowded Streets | 0.60% | ~1,252 |
 | Difficult Terrain | 0.60% | ~1,252 |
 | Market Fluctuations | 0.60% | ~1,252 |
-| Home Field Advantage | 0.50% | ~1,043 |
-| Force Grey Unleashed | 0.50% | ~1,043 |
-| Sleuth It Out | 0.50% | ~1,043 |
-| Azaka's Procession - Part 1 | 0.50% | ~1,043 |
-| Chatty Nobles | 0.50% | ~1,043 |
-| Haaave You Met Asmodeus? | 0.50% | ~1,043 |
-| Tower on the Lake | 0.50% | ~1,043 |
-| Seeds of Deceit | 0.50% | ~1,043 |
-| The Lost Love | 0.50% | ~1,043 |
-| Flies on the Wall | 0.50% | ~1,043 |
-| Lair of the Xanathar | 0.50% | ~1,043 |
-| Waterdeep Under Siege | 0.50% | ~1,043 |
-| Vault of Dragons | 0.50% | ~1,043 |
-| Elturel Has Fallen | 0.50% | ~1,043 |
-| Resolve Amongst Chaos | 0.50% | ~1,043 |
+| Home Field Advantage | 0.50% | ~1,044 |
+| Force Grey Unleashed | 0.50% | ~1,044 |
+| Sleuth It Out | 0.50% | ~1,044 |
+| Azaka's Procession - Part 1 | 0.50% | ~1,044 |
+| Chatty Nobles | 0.50% | ~1,044 |
+| Haaave You Met Asmodeus? | 0.50% | ~1,044 |
+| Tower on the Lake | 0.50% | ~1,044 |
+| Seeds of Deceit | 0.50% | ~1,044 |
+| The Lost Love | 0.50% | ~1,044 |
+| Flies on the Wall | 0.50% | ~1,044 |
+| Lair of the Xanathar | 0.50% | ~1,044 |
+| Waterdeep Under Siege | 0.50% | ~1,044 |
+| Vault of Dragons | 0.50% | ~1,044 |
+| Elturel Has Fallen | 0.50% | ~1,044 |
+| Resolve Amongst Chaos | 0.50% | ~1,044 |
 | The Everlasting Rime | 0.50% | ~875 |
-| Expert Opinion | 0.50% | ~1,043 |
-| Poor Guidance | 0.50% | ~1,043 |
+| Expert Opinion | 0.50% | ~1,044 |
+| Poor Guidance | 0.50% | ~1,044 |
 | Anti-Dexterous Explorers | 0.40% | ~835 |
 | Lobsterfolk Assault | 0.40% | ~835 |
 | Periodic Petrification | 0.40% | ~835 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,681 (Ranked 52)  
+Progressed: 208,709 (Ranked 52)  
 Completed: 2,041 (0.98%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -589,7 +589,7 @@ Completed: 2,041 (0.98%) (Ranked 102)
 | 2023-07-05 | 206,889 | 2,032 |
 | 2023-07-06 | 207,486 | 2,035 |
 | 2023-07-07 | 208,152 | 2,037 |
-| 2023-07-08 | 208,681 | 2,041 |
+| 2023-07-08 | 208,709 | 2,041 |
 ## Awards
 Max (Diverse Characters): 5,013  (Ranked 65)  
 Sum: 30,446 (Ranked 37)  

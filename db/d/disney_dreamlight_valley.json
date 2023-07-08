@@ -2568,11 +2568,11 @@
       "Count": 481
     }
   ],
-  "EOS_Progressed": 6252,
+  "EOS_Progressed": 6253,
   "EOS_Completed": 161,
-  "EOS_NewPlayers": 503,
+  "EOS_NewPlayers": 497,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 2.58,
+  "EOS_Completed_Percentage": 2.57,
   "EosHistory": [
     {
       "Time": "2023-06-13T12:05:01.9582543+00:00",
@@ -5298,6 +5298,11 @@
       "Time": "2023-07-08T19:01:15.5666568+00:00",
       "NumProgressed": 6252,
       "NumCompleted": 161
+    },
+    {
+      "Time": "2023-07-08T20:01:45.0349512+00:00",
+      "NumProgressed": 6253,
+      "NumCompleted": 161
     }
   ],
   "TotalAchievements": 15,
@@ -5365,7 +5370,7 @@
       "Name": "Gardener",
       "Percentage": 35,
       "XP": 75,
-      "UsersEstimate": 2188
+      "UsersEstimate": 2189
     },
     {
       "ID": "Generous",
@@ -5397,7 +5402,7 @@
       "Name": "Photographer",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 4564
+      "UsersEstimate": 4565
     },
     {
       "ID": "Renovator",
@@ -5421,14 +5426,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 69,
       "XP": 100,
-      "UsersEstimate": 4314
+      "UsersEstimate": 4315
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 6252,
+      "Progressed": 6253,
       "Completed": 161
     }
   ],
@@ -5436,8 +5441,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-07-07T22:58:34.5048046+00:00",
-  "LastChanged_Achievements": "2023-07-08T19:01:15.5666559+00:00",
+  "LastChanged_Achievements": "2023-07-08T20:01:45.0349508+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:42.1936986+00:00",
-  "LastUpdate_Ratings": "2023-07-08T18:58:17.9909936+00:00",
-  "LastUpdate_Achievements": "2023-07-08T19:01:15.5668125+00:00"
+  "LastUpdate_Ratings": "2023-07-08T19:58:42.7624077+00:00",
+  "LastUpdate_Achievements": "2023-07-08T20:01:45.0350843+00:00"
 }

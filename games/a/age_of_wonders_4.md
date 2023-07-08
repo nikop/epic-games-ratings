@@ -27,6 +27,7 @@ Rating: 4.61 (Ranked 361)
 | Intimidation Tactics | 2.00% | ~99 |
 | Here be Dragons | 2.00% | ~99 |
 | Valley of Wonders | 1.00% | ~50 |
+| The Magic That Empowers Me! | 1.00% | ~50 |
 | Return of the Wizard King | 1.00% | ~50 |
 | Arch Mage | 1.00% | ~50 |
 | The Creator | 1.00% | ~50 |
@@ -35,7 +36,6 @@ Rating: 4.61 (Ranked 361)
 | Digging for Treasure | 1.00% | ~50 |
 | Preparation Is Everything | 1.00% | ~50 |
 | Duality | 1.00% | ~50 |
-| The Magic That Empowers Me! | 0.90% | ~45 |
 | God Emperor | 0.90% | ~45 |
 | Eternal Lord | 0.90% | ~45 |
 | The Eternal Court | 0.90% | ~45 |
@@ -56,7 +56,7 @@ Rating: 4.61 (Ranked 361)
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,952 (Ranked 135)  
+Progressed: 4,953 (Ranked 135)  
 Completed: 5 (0.10%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 5 (0.10%) (Ranked 183)
 | 2023-07-05 | 4,926 | 5 |
 | 2023-07-06 | 4,933 | 5 |
 | 2023-07-07 | 4,937 | 5 |
-| 2023-07-08 | 4,952 | 5 |
+| 2023-07-08 | 4,953 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

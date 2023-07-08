@@ -39,6 +39,7 @@
 | Unseen Patterns | 2.00% | ~2 |
 | Bounty Hunter | 0.90% | ~1 |
 | Loremaster | 0.90% | ~1 |
+| Adept | 0.90% | ~1 |
 | Embellished | 0.90% | ~1 |
 | Huntress Unbound | 0.90% | ~1 |
 | Business As Usual | 0.90% | ~1 |
@@ -60,7 +61,6 @@
 | Watcher | 0.00% | ~0 |
 | Executor | 0.00% | ~0 |
 | General | 0.00% | ~0 |
-| Adept | 0.00% | ~0 |
 | Talent Nurtured | 0.00% | ~0 |
 | Company of Heroes | 0.00% | ~0 |
 | Accomplished Explorer | 0.00% | ~0 |
