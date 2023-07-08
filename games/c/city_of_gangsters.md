@@ -5,28 +5,28 @@ Rating: 4.26 (Ranked 801)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~150,968 |
+| Corner Clout | 46.00% | ~150,970 |
 | Copacetic Coordination | 16.00% | ~52,511 |
 | Fronting the Money | 14.00% | ~45,947 |
 | The Dawn of Automation | 14.00% | ~45,947 |
 | Extraordinary Logistics | 14.00% | ~45,947 |
 | Dirty Money | 13.00% | ~42,665 |
 | Family First | 13.00% | ~42,665 |
-| Cleaning House | 12.00% | ~39,383 |
-| Room in the Back | 12.00% | ~39,383 |
-| Booze Baron | 11.00% | ~36,101 |
-| Beating the Heat | 10.00% | ~32,819 |
-| Friends on the Force | 10.00% | ~32,819 |
-| Neighborhood Watch | 10.00% | ~32,819 |
-| Core Corps | 8.00% | ~26,255 |
-| Sizeable Stash | 7.00% | ~22,973 |
-| Street Fighter | 7.00% | ~22,973 |
-| Friendly Gestures | 7.00% | ~22,973 |
-| People Person | 7.00% | ~22,973 |
-| Liquor Lord | 6.00% | ~19,691 |
-| Safety in Numbers | 6.00% | ~19,691 |
-| Show ‘em the Sugar | 6.00% | ~19,691 |
-| Killing Them Softly | 6.00% | ~19,691 |
+| Cleaning House | 12.00% | ~39,384 |
+| Room in the Back | 12.00% | ~39,384 |
+| Booze Baron | 11.00% | ~36,102 |
+| Beating the Heat | 10.00% | ~32,820 |
+| Friends on the Force | 10.00% | ~32,820 |
+| Neighborhood Watch | 10.00% | ~32,820 |
+| Core Corps | 8.00% | ~26,256 |
+| Sizeable Stash | 7.00% | ~22,974 |
+| Street Fighter | 7.00% | ~22,974 |
+| Friendly Gestures | 7.00% | ~22,974 |
+| People Person | 7.00% | ~22,974 |
+| Liquor Lord | 6.00% | ~19,692 |
+| Safety in Numbers | 6.00% | ~19,692 |
+| Show ‘em the Sugar | 6.00% | ~19,692 |
+| Killing Them Softly | 6.00% | ~19,692 |
 | Street Knowledge | 5.00% | ~16,410 |
 | Oh Captain | 5.00% | ~16,410 |
 | Branching Out | 5.00% | ~16,410 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 801)
 | High Pillow | 0.10% | ~328 |
 | Station Master | 0.10% | ~328 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 328,191 (Ranked 40)  
+Progressed: 328,196 (Ranked 40)  
 Completed: 5 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,15 +165,15 @@ Completed: 5 (0.00%) (Ranked 237)
 | 2023-07-05 | 327,715 | 5 |
 | 2023-07-06 | 327,936 | 5 |
 | 2023-07-07 | 328,149 | 5 |
-| 2023-07-08 | 328,191 | 5 |
+| 2023-07-08 | 328,196 | 5 |
 ## Awards
 Max (Highly Recommended): 27  (Ranked 464)  
-Sum: 116 (Ranked 401)  
+Sum: 117 (Ranked 401)  
 Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 27 |
-| This game is Relaxing | 25 |
+| This game is Relaxing | 26 |
 | This game has Quickly Understood Controls | 23 |
 | This game has Easy Combat | 21 |
 | This game is Extremely Fun | 20 |
@@ -234,3 +234,4 @@ Diff (max vs sum): 63
 | 2023-06-30 | 4.26 | 27 | 95 |
 | 2023-07-01 | 4.26 | 27 | 115 |
 | 2023-07-07 | 4.26 | 27 | 116 |
+| 2023-07-08 | 4.26 | 27 | 117 |

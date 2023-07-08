@@ -7,7 +7,7 @@ Number of Ratings: 495  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Genin | 11.00% | ~20,233 |
-| Thorough | 9.00% | ~16,554 |
+| Thorough | 9.00% | ~16,555 |
 | A thief's beginning | 8.00% | ~14,715 |
 | Tanuki Time | 8.00% | ~14,715 |
 | Disguised | 7.00% | ~12,876 |
@@ -22,9 +22,9 @@ Number of Ratings: 495  (23.09.2022)
 | Happy Planning | 5.00% | ~9,197 |
 | Mugen Unchained | 5.00% | ~9,197 |
 | Warzone | 5.00% | ~9,197 |
-| Okkoto | 4.00% | ~7,357 |
-| Prisoners | 4.00% | ~7,357 |
-| Too Early | 4.00% | ~7,357 |
+| Okkoto | 4.00% | ~7,358 |
+| Prisoners | 4.00% | ~7,358 |
+| Too Early | 4.00% | ~7,358 |
 | Gear up | 3.00% | ~5,518 |
 | Happy little accidents | 3.00% | ~5,518 |
 | Noboru | 3.00% | ~5,518 |
@@ -39,7 +39,7 @@ Number of Ratings: 495  (23.09.2022)
 | No Gimmicks | 1.00% | ~1,839 |
 | The End | 1.00% | ~1,839 |
 | Undeserved Honor | 0.90% | ~1,655 |
-| When Cut Across the Neck | 0.80% | ~1,471 |
+| When Cut Across the Neck | 0.80% | ~1,472 |
 | High Five the Moon | 0.70% | ~1,288 |
 | The Cave | 0.70% | ~1,288 |
 | Merciful | 0.40% | ~736 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~184 |
 | Release the Kraken | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 183,937 (Ranked 57)  
+Progressed: 183,940 (Ranked 57)  
 Completed: 56 (0.03%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 56 (0.03%) (Ranked 209)
 | 2023-07-05 | 183,423 | 56 |
 | 2023-07-06 | 183,647 | 56 |
 | 2023-07-07 | 183,884 | 56 |
-| 2023-07-08 | 183,937 | 56 |
+| 2023-07-08 | 183,940 | 56 |
 ## Awards
 Max (Great for Beginners): 553  (Ranked 183)  
 Sum: 4,695 (Ranked 131)  

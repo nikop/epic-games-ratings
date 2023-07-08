@@ -6,22 +6,22 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,242 |
-| The Mad Wizard | 11.00% | ~22,910 |
-| The Ring of Regeneration | 7.00% | ~14,579 |
-| Are Ya Chicken? | 7.00% | ~14,579 |
-| Were-verpowered | 5.00% | ~10,414 |
-| Seeking Allies | 5.00% | ~10,414 |
-| Mad Cow Disease | 5.00% | ~10,414 |
-| Friendly Imps | 5.00% | ~10,414 |
-| A Persistent Buzzing | 4.00% | ~8,331 |
-| Pure Energy | 4.00% | ~8,331 |
-| Beast Mode | 3.00% | ~6,248 |
-| Terror in the Dark | 3.00% | ~6,248 |
-| Unearthed Evil | 3.00% | ~6,248 |
-| The Crumbling Temple | 3.00% | ~6,248 |
-| Exploring Port Nyanzaru | 3.00% | ~6,248 |
-| The Contagious Curse | 3.00% | ~6,248 |
+| The Cursed Farmer | 15.00% | ~31,245 |
+| The Mad Wizard | 11.00% | ~22,913 |
+| The Ring of Regeneration | 7.00% | ~14,581 |
+| Are Ya Chicken? | 7.00% | ~14,581 |
+| Were-verpowered | 5.00% | ~10,415 |
+| Seeking Allies | 5.00% | ~10,415 |
+| Mad Cow Disease | 5.00% | ~10,415 |
+| Friendly Imps | 5.00% | ~10,415 |
+| A Persistent Buzzing | 4.00% | ~8,332 |
+| Pure Energy | 4.00% | ~8,332 |
+| Beast Mode | 3.00% | ~6,249 |
+| Terror in the Dark | 3.00% | ~6,249 |
+| Unearthed Evil | 3.00% | ~6,249 |
+| The Crumbling Temple | 3.00% | ~6,249 |
+| Exploring Port Nyanzaru | 3.00% | ~6,249 |
+| The Contagious Curse | 3.00% | ~6,249 |
 | Low Initiative | 2.00% | ~4,166 |
 | A Mysterious Summons | 2.00% | ~4,166 |
 | Building Trust | 2.00% | ~4,166 |
@@ -47,11 +47,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Close Escort | 1.00% | ~2,083 |
 | Constant Banditry | 1.00% | ~2,083 |
 | Rescue in the Jungle | 1.00% | ~2,083 |
-| The Lost Heir of Omu | 0.90% | ~1,874 |
-| Dinosaur Racing | 0.90% | ~1,874 |
-| The Long Haul | 0.90% | ~1,874 |
-| Lost in the Deep | 0.90% | ~1,874 |
-| Easily Distracted | 0.90% | ~1,874 |
+| The Lost Heir of Omu | 0.90% | ~1,875 |
+| Dinosaur Racing | 0.90% | ~1,875 |
+| The Long Haul | 0.90% | ~1,875 |
+| Lost in the Deep | 0.90% | ~1,875 |
+| Easily Distracted | 0.90% | ~1,875 |
 | The Forbidden City | 0.80% | ~1,666 |
 | Captured! | 0.80% | ~1,666 |
 | Wisdom Check | 0.80% | ~1,666 |
@@ -77,20 +77,20 @@ Number of Ratings: 9,041  (23.09.2022)
 | Difficult Terrain | 0.60% | ~1,250 |
 | Market Fluctuations | 0.60% | ~1,250 |
 | Durable Deep | 0.60% | ~1,250 |
-| Force Grey Unleashed | 0.50% | ~1,041 |
-| Sleuth It Out | 0.50% | ~1,041 |
-| Chatty Nobles | 0.50% | ~1,041 |
-| Haaave You Met Asmodeus? | 0.50% | ~1,041 |
-| Tower on the Lake | 0.50% | ~1,041 |
-| Seeds of Deceit | 0.50% | ~1,041 |
-| The Lost Love | 0.50% | ~1,041 |
-| Flies on the Wall | 0.50% | ~1,041 |
-| Lair of the Xanathar | 0.50% | ~1,041 |
-| Waterdeep Under Siege | 0.50% | ~1,041 |
-| Elturel Has Fallen | 0.50% | ~1,041 |
+| Force Grey Unleashed | 0.50% | ~1,042 |
+| Sleuth It Out | 0.50% | ~1,042 |
+| Chatty Nobles | 0.50% | ~1,042 |
+| Haaave You Met Asmodeus? | 0.50% | ~1,042 |
+| Tower on the Lake | 0.50% | ~1,042 |
+| Seeds of Deceit | 0.50% | ~1,042 |
+| The Lost Love | 0.50% | ~1,042 |
+| Flies on the Wall | 0.50% | ~1,042 |
+| Lair of the Xanathar | 0.50% | ~1,042 |
+| Waterdeep Under Siege | 0.50% | ~1,042 |
+| Elturel Has Fallen | 0.50% | ~1,042 |
 | The Everlasting Rime | 0.50% | ~873 |
-| Expert Opinion | 0.50% | ~1,041 |
-| Poor Guidance | 0.50% | ~1,041 |
+| Expert Opinion | 0.50% | ~1,042 |
+| Poor Guidance | 0.50% | ~1,042 |
 | Anti-Dexterous Explorers | 0.40% | ~833 |
 | Lobsterfolk Assault | 0.40% | ~833 |
 | Periodic Petrification | 0.40% | ~833 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,277 (Ranked 52)  
+Progressed: 208,300 (Ranked 52)  
 Completed: 2,038 (0.98%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -589,7 +589,7 @@ Completed: 2,038 (0.98%) (Ranked 102)
 | 2023-07-05 | 206,889 | 2,032 |
 | 2023-07-06 | 207,486 | 2,035 |
 | 2023-07-07 | 208,152 | 2,037 |
-| 2023-07-08 | 208,277 | 2,038 |
+| 2023-07-08 | 208,300 | 2,038 |
 ## Awards
 Max (Diverse Characters): 5,013  (Ranked 65)  
 Sum: 30,436 (Ranked 37)  

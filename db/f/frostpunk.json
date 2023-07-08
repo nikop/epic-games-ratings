@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-06-03T15:00:00+00:00",
     "PcReleaseDate": "2021-06-03T15:00:00+00:00",
@@ -4128,10 +4128,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 6633,
       "NumberOfAwardsMax": 793
+    },
+    {
+      "Time": "2023-07-08T05:58:04.5603882+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 6634,
+      "NumberOfAwardsMax": 793
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6633,
+  "NumberOfAwards": 6634,
   "NumberOfAwardsMax": 793,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -4199,7 +4205,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 633
+      "Count": 634
     }
   ],
   "EOS_Progressed": 0,
@@ -4221,9 +4227,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:37.412546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.239094+00:00",
-  "LastChanged": "2023-07-08T02:21:08.1733581+00:00",
-  "LastChanged_Achievements": "2023-07-08T05:02:18.745787+00:00",
+  "LastChanged": "2023-07-08T05:58:04.5603881+00:00",
+  "LastChanged_Achievements": "2023-07-08T06:01:06.5904976+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:10.9095287+00:00",
-  "LastUpdate_Ratings": "2023-07-08T04:58:09.6442445+00:00",
-  "LastUpdate_Achievements": "2023-07-08T05:02:18.7457901+00:00"
+  "LastUpdate_Ratings": "2023-07-08T05:58:04.5603887+00:00",
+  "LastUpdate_Achievements": "2023-07-08T06:01:06.5905013+00:00"
 }

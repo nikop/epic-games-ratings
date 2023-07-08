@@ -6,28 +6,28 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 36.00% | ~18,688 |
-| To The Nines | 32.00% | ~16,612 |
-| Optimized | 28.00% | ~14,535 |
-| Performance Review | 27.00% | ~14,016 |
-| Making a Name | 26.00% | ~13,497 |
-| Tune Up | 25.00% | ~12,978 |
-| The Side Job | 24.00% | ~12,459 |
-| Wet Work | 24.00% | ~12,459 |
-| Landlord | 24.00% | ~12,459 |
-| Wrecking Ball | 21.00% | ~10,902 |
-| Food for Thought | 21.00% | ~10,902 |
-| Finders Keepers | 19.00% | ~9,863 |
-| A Young Empire | 19.00% | ~9,863 |
-| Work Ethic | 18.00% | ~9,344 |
-| Power Players | 14.00% | ~7,268 |
-| Picking Fights | 14.00% | ~7,268 |
+| First F#@!ing Day | 36.00% | ~18,690 |
+| To The Nines | 32.00% | ~16,614 |
+| Optimized | 28.00% | ~14,537 |
+| Performance Review | 27.00% | ~14,018 |
+| Making a Name | 26.00% | ~13,499 |
+| Tune Up | 25.00% | ~12,980 |
+| Wet Work | 24.00% | ~12,460 |
+| Landlord | 24.00% | ~12,460 |
+| The Side Job | 23.00% | ~11,941 |
+| Wrecking Ball | 21.00% | ~10,903 |
+| Food for Thought | 21.00% | ~10,903 |
+| Finders Keepers | 19.00% | ~9,864 |
+| A Young Empire | 19.00% | ~9,864 |
+| Work Ethic | 18.00% | ~9,345 |
+| Power Players | 14.00% | ~7,269 |
+| Picking Fights | 14.00% | ~7,269 |
 | Quality Time | 13.00% | ~6,749 |
-| Showdown | 12.00% | ~6,229 |
-| Et tu? | 12.00% | ~6,229 |
-| Took It to The Limit | 12.00% | ~6,229 |
-| Kitted Out | 10.00% | ~5,191 |
-| Masters of Santo Ileso | 9.00% | ~4,672 |
+| Showdown | 12.00% | ~6,230 |
+| Et tu? | 12.00% | ~6,230 |
+| Took It to The Limit | 12.00% | ~6,230 |
+| Kitted Out | 10.00% | ~5,192 |
+| Masters of Santo Ileso | 9.00% | ~4,673 |
 | Hijacked | 8.00% | ~4,153 |
 | The Spins | 7.00% | ~3,634 |
 | The Mechanic | 7.00% | ~3,634 |
@@ -36,16 +36,16 @@ Number of Ratings: 22,103  (23.09.2022)
 | We could go home, or… | 5.00% | ~2,596 |
 | Challenge Accepted | 5.00% | ~2,596 |
 | A Golden Age | 5.00% | ~2,596 |
-| Face Off | 5.00% | ~1,177 |
-| The Professional | 4.00% | ~2,076 |
-| Chaos Tamer | 4.00% | ~2,076 |
-| Untouchable | 4.00% | ~2,076 |
-| Free Refills | 4.00% | ~2,076 |
-| Smooth Moves | 4.00% | ~2,076 |
+| Face Off | 5.00% | ~1,178 |
+| The Professional | 4.00% | ~2,077 |
+| Chaos Tamer | 4.00% | ~2,077 |
+| Untouchable | 4.00% | ~2,077 |
+| Free Refills | 4.00% | ~2,077 |
+| Smooth Moves | 4.00% | ~2,077 |
 | Hazardous Heist | 4.00% | ~942 |
-| Neighborly | 3.00% | ~1,557 |
-| Prankster | 3.00% | ~1,557 |
-| Tourist | 3.00% | ~1,557 |
+| Neighborly | 3.00% | ~1,558 |
+| Prankster | 3.00% | ~1,558 |
+| Tourist | 3.00% | ~1,558 |
 | Shopping Spree | 2.00% | ~1,038 |
 | Always Be Hustling | 2.00% | ~1,038 |
 | Bonus Round | 2.00% | ~1,038 |
@@ -54,13 +54,13 @@ Number of Ratings: 22,103  (23.09.2022)
 | All Mine | 1.00% | ~519 |
 | The Collector | 0.90% | ~467 |
 | Armor Piercing | 0.70% | ~363 |
-| Heard You Like Wheels | 0.60% | ~311 |
+| Heard You Like Wheels | 0.60% | ~312 |
 | Jack of All Trades | 0.40% | ~208 |
 | Statement Pieces | 0.30% | ~156 |
 | A Car Named Simone | 0.10% | ~52 |
 | Fiesta Time | 0.10% | ~52 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,912 (Ranked 83)  
+Progressed: 51,918 (Ranked 83)  
 Completed: 28 (0.05%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,10 +139,10 @@ Completed: 28 (0.05%) (Ranked 201)
 | 2023-07-05 | 51,428 | 28 |
 | 2023-07-06 | 51,631 | 28 |
 | 2023-07-07 | 51,846 | 28 |
-| 2023-07-08 | 51,912 | 28 |
+| 2023-07-08 | 51,918 | 28 |
 ## Awards
 Max (Extremely Fun): 1,047  (Ranked 139)  
-Sum: 8,500 (Ranked 91)  
+Sum: 8,501 (Ranked 91)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
@@ -155,7 +155,7 @@ Diff (max vs sum): 48
 | This game has Amazing Characters | 970 |
 | This game has Amazing Storytelling | 962 |
 | This game has Playful Visuals | 777 |
-| This game has a Silly Community | 587 |
+| This game has a Silly Community | 588 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -279,3 +279,4 @@ Diff (max vs sum): 48
 | 2023-07-05 | 3.78 | - | 1,046 | 8,496 |
 | 2023-07-06 | 3.78 | - | 1,046 | 8,497 |
 | 2023-07-07 | 3.78 | - | 1,047 | 8,500 |
+| 2023-07-08 | 3.78 | - | 1,047 | 8,501 |

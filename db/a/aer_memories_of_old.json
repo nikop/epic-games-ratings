@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 75,
-  "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -374,11 +374,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14668,
-  "EOS_Completed": 308,
+  "EOS_Progressed": 14669,
+  "EOS_Completed": 309,
   "EOS_NewPlayers": 627,
-  "EOS_NewCompleters": 12,
-  "EOS_Completed_Percentage": 2.1,
+  "EOS_NewCompleters": 13,
+  "EOS_Completed_Percentage": 2.11,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.7860479+00:00",
@@ -8554,6 +8554,11 @@
       "Time": "2023-07-08T05:03:05.1710667+00:00",
       "NumProgressed": 14668,
       "NumCompleted": 308
+    },
+    {
+      "Time": "2023-07-08T06:03:07.2340989+00:00",
+      "NumProgressed": 14669,
+      "NumCompleted": 309
     }
   ],
   "TotalAchievements": 20,
@@ -8613,7 +8618,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1173
+      "UsersEstimate": 1174
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -8724,15 +8729,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 14668,
-      "Completed": 308
+      "Progressed": 14669,
+      "Completed": 309
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-07-08T05:03:05.1710663+00:00",
+  "LastChanged_Achievements": "2023-07-08T06:03:07.2340985+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:34.4370622+00:00",
-  "LastUpdate_Ratings": "2023-07-08T05:01:06.3399193+00:00",
-  "LastUpdate_Achievements": "2023-07-08T05:03:05.171113+00:00"
+  "LastUpdate_Ratings": "2023-07-08T06:00:15.8944968+00:00",
+  "LastUpdate_Achievements": "2023-07-08T06:03:07.2341487+00:00"
 }

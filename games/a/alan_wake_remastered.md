@@ -6,17 +6,17 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 33.00% | ~18,812 |
-| Let There Be Light | 27.00% | ~15,392 |
-| Float Like a Butterfly | 26.00% | ~14,822 |
-| Nordic Walking | 21.00% | ~11,971 |
-| Bright Falls' Finest | 20.00% | ~11,401 |
-| Under a Thin Layer of Skin | 18.00% | ~10,261 |
-| Park Ranger | 15.00% | ~8,551 |
-| Paging Mr. Wake | 15.00% | ~8,551 |
-| Back! Back, I Say! | 14.00% | ~7,981 |
-| Finders Keepers | 14.00% | ~7,981 |
-| Damn Good Cup of Coffee | 13.00% | ~7,411 |
+| Follow the Light | 33.00% | ~18,814 |
+| Let There Be Light | 27.00% | ~15,393 |
+| Float Like a Butterfly | 26.00% | ~14,823 |
+| Nordic Walking | 21.00% | ~11,973 |
+| Bright Falls' Finest | 20.00% | ~11,402 |
+| Under a Thin Layer of Skin | 18.00% | ~10,262 |
+| Park Ranger | 15.00% | ~8,552 |
+| Paging Mr. Wake | 15.00% | ~8,552 |
+| Back! Back, I Say! | 14.00% | ~7,982 |
+| Finders Keepers | 14.00% | ~7,982 |
+| Damn Good Cup of Coffee | 13.00% | ~7,412 |
 | They're Heeeeeere! | 12.00% | ~6,841 |
 | Sound and Fury | 12.00% | ~6,841 |
 | Missed by a Mile | 12.00% | ~6,841 |
@@ -35,12 +35,12 @@ Number of Ratings: 524  (23.09.2022)
 | The Lady of the Light | 8.00% | ~4,561 |
 | Right of Way | 8.00% | ~4,561 |
 | A Friend in Need | 8.00% | ~1,638 |
-| What Light Through Yonder Window | 7.00% | ~3,990 |
-| Tornado Wrangler | 6.00% | ~3,420 |
-| Departure | 6.00% | ~3,420 |
-| A Friend Indeed | 6.00% | ~1,228 |
-| Drink 'Em Both Up | 5.00% | ~2,850 |
-| Hardboiled Writer | 5.00% | ~2,850 |
+| What Light Through Yonder Window | 7.00% | ~3,991 |
+| Tornado Wrangler | 6.00% | ~3,421 |
+| Departure | 6.00% | ~3,421 |
+| A Friend Indeed | 6.00% | ~1,229 |
+| Drink 'Em Both Up | 5.00% | ~2,851 |
+| Hardboiled Writer | 5.00% | ~2,851 |
 | Ding! | 5.00% | ~1,024 |
 | Boob Tube | 4.00% | ~2,280 |
 | Children of the Elder God | 4.00% | ~2,280 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~57 |
 | No Punctuation | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,007 (Ranked 80)  
+Progressed: 57,012 (Ranked 80)  
 Completed: 57 (0.10%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 57 (0.10%) (Ranked 183)
 | 2023-07-05 | 56,875 | 57 |
 | 2023-07-06 | 56,931 | 57 |
 | 2023-07-07 | 56,982 | 57 |
-| 2023-07-08 | 57,007 | 57 |
+| 2023-07-08 | 57,012 | 57 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

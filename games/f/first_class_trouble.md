@@ -3,9 +3,9 @@
 [View Rawdata](../../db/f/first_class_trouble.json)  
 Rating: 4.50 (Ranked 552)  
 ## Awards
-Max (Great for Quick Sessions): 110  (Ranked 319)  
+Max (Great for Quick Sessions): 110  (Ranked 320)  
 Sum: 575 (Ranked 293)  
-Diff (max vs sum): 26  
+Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 110 |

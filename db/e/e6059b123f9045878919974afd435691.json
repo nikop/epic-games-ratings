@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 467,
+  "EOS_Progressed": 468,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 460,
+  "EOS_NewPlayers": 461,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -746,6 +746,11 @@
       "Time": "2023-07-08T04:04:44.6225582+00:00",
       "NumProgressed": 467,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-08T06:04:07.181197+00:00",
+      "NumProgressed": 468,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -763,9 +768,9 @@
       "ID": "AMMO_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "How Many Do You Need?",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 164
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -773,7 +778,7 @@
       "Name": "FULLCLIP",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "AMMO_ACHIEVEMENT_4",
@@ -829,7 +834,7 @@
       "Name": "Capraphobia",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -877,7 +882,7 @@
       "Name": "Burnt Smell",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
@@ -931,9 +936,9 @@
       "ID": "COOP_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Way It Should Be",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 14
+      "UsersEstimate": 19
     },
     {
       "ID": "COOP_ACHIEVEMENT_2",
@@ -955,25 +960,25 @@
       "ID": "DUCHESS_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Greetings from Royalty",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 117
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Think Bullets Will Affect Her?",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 33
     },
     {
       "ID": "EXT_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Fire Alarm",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 47
     },
     {
       "ID": "FREEB_ACHIEVEMENT_1",
@@ -1037,7 +1042,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -1115,9 +1120,9 @@
       "ID": "LEECHER_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Don\u0027t Turn Your Back",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 98
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -1149,7 +1154,7 @@
       "Name": "Night Snack",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -1275,23 +1280,23 @@
       "ID": "WINS_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Do You Accept The Challenge?",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 5
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 467,
+      "Progressed": 468,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-08T05:04:27.4287171+00:00",
+  "LastChanged_Achievements": "2023-07-08T06:04:07.1811967+00:00",
   "LastUpdate_AppInfo": "2023-07-06T13:16:22.5768242+00:00",
-  "LastUpdate_Ratings": "2023-07-08T04:56:55.9738347+00:00",
-  "LastUpdate_Achievements": "2023-07-08T05:04:27.4287737+00:00"
+  "LastUpdate_Ratings": "2023-07-08T05:57:15.8055045+00:00",
+  "LastUpdate_Achievements": "2023-07-08T06:04:07.1812517+00:00"
 }

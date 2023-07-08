@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3905,
+  "EOS_Progressed": 3906,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 323,
+  "EOS_NewPlayers": 321,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5616,6 +5616,11 @@
       "Time": "2023-07-08T04:07:34.3106871+00:00",
       "NumProgressed": 3905,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-08T06:06:23.0890512+00:00",
+      "NumProgressed": 3906,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -5643,7 +5648,7 @@
       "Name": "Telepathic",
       "Percentage": 10,
       "XP": 70,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "12",
@@ -5707,7 +5712,7 @@
       "Name": "Snowy Peak",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "6",
@@ -5746,7 +5751,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 3905,
+      "Progressed": 3906,
       "Completed": 0
     }
   ],
@@ -5754,8 +5759,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-07-08T05:07:12.7651089+00:00",
+  "LastChanged_Achievements": "2023-07-08T06:06:23.0890508+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:39.9836246+00:00",
-  "LastUpdate_Ratings": "2023-07-08T04:58:35.5317987+00:00",
-  "LastUpdate_Achievements": "2023-07-08T05:07:12.7651425+00:00"
+  "LastUpdate_Ratings": "2023-07-08T05:58:21.3070558+00:00",
+  "LastUpdate_Achievements": "2023-07-08T06:06:23.089086+00:00"
 }

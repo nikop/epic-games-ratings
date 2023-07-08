@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13763,
+  "EOS_Progressed": 13764,
   "EOS_Completed": 104,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -5679,6 +5679,11 @@
       "Time": "2023-07-08T00:03:10.3866695+00:00",
       "NumProgressed": 13763,
       "NumCompleted": 104
+    },
+    {
+      "Time": "2023-07-08T06:03:16.196802+00:00",
+      "NumProgressed": 13764,
+      "NumCompleted": 104
     }
   ],
   "TotalAchievements": 41,
@@ -5730,7 +5735,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4679
+      "UsersEstimate": 4680
     },
     {
       "ID": "tpote_achievement_15",
@@ -5778,7 +5783,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4679
+      "UsersEstimate": 4680
     },
     {
       "ID": "tpote_achievement_20",
@@ -5842,7 +5847,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2477
+      "UsersEstimate": 2478
     },
     {
       "ID": "tpote_achievement_28",
@@ -5882,7 +5887,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2477
+      "UsersEstimate": 2478
     },
     {
       "ID": "tpote_achievement_32",
@@ -5890,7 +5895,7 @@
       "Name": "Jack was here!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2064
+      "UsersEstimate": 2065
     },
     {
       "ID": "tpote_achievement_33",
@@ -6017,15 +6022,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13763,
+      "Progressed": 13764,
       "Completed": 104
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-08T05:03:17.407419+00:00",
+  "LastChanged_Achievements": "2023-07-08T06:03:16.1968015+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:22.7316946+00:00",
-  "LastUpdate_Ratings": "2023-07-08T05:00:56.5457874+00:00",
-  "LastUpdate_Achievements": "2023-07-08T05:03:17.4074691+00:00"
+  "LastUpdate_Ratings": "2023-07-08T06:00:09.3492908+00:00",
+  "LastUpdate_Achievements": "2023-07-08T06:03:16.1968549+00:00"
 }
