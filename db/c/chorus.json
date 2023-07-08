@@ -2,7 +2,7 @@
   "ID": "4930dde6add240a9bfc7ddc415dc2799",
   "Name": "Chorus",
   "ProductSlug": "chorus",
-  "Ranking_Rating": 641,
+  "Ranking_Rating": 640,
   "Ranking_Popularity": 446,
   "Ranking_PopularitySum": 469,
   "Ranking_EOS_Progress": 187,
@@ -1194,9 +1194,9 @@
       "ID": "Find20Memories",
       "SetID": "a6c395p",
       "Name": "Voices from the Past",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 796
+      "UsersEstimate": 806
     },
     {
       "ID": "Finish5SideMissions",
@@ -1506,17 +1506,17 @@
       "ID": "VisitAllLocations",
       "SetID": "a6c395p",
       "Name": "Space Traveler",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 50,
-      "UsersEstimate": 796
+      "UsersEstimate": 806
     },
     {
       "ID": "WinARace",
       "SetID": "a6c395p",
       "Name": "Relentless",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 490
+      "UsersEstimate": 500
     }
   ],
   "AchievementSets": [
@@ -1530,8 +1530,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-06-14T02:10:06.2983893+00:00",
-  "LastChanged_Achievements": "2023-07-08T08:05:50.7021146+00:00",
+  "LastChanged_Achievements": "2023-07-08T09:07:44.703992+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:28.6804295+00:00",
-  "LastUpdate_Ratings": "2023-07-08T07:59:35.6286311+00:00",
-  "LastUpdate_Achievements": "2023-07-08T08:05:50.7021544+00:00"
+  "LastUpdate_Ratings": "2023-07-08T09:01:09.8880131+00:00",
+  "LastUpdate_Achievements": "2023-07-08T09:07:44.7040366+00:00"
 }

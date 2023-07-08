@@ -24,7 +24,7 @@ Rating: 4.45 (Ranked 621)
 | The Kraken Wakes | 1.00% | ~32 |
 | Change the Channel | 1.00% | ~32 |
 | Brains of the Operation | 1.00% | ~32 |
-| Opposing Force | 0.80% | ~26 |
+| Opposing Force | 0.90% | ~29 |
 | Set Europe Ablaze | 0.80% | ~26 |
 | Precision Is Key | 0.80% | ~26 |
 | Explosive Efficiency | 0.80% | ~26 |

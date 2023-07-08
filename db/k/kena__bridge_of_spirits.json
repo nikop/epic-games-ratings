@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1196,9 +1196,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 426618,
+  "EOS_Progressed": 426619,
   "EOS_Completed": 515,
-  "EOS_NewPlayers": 178,
+  "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -6871,6 +6871,11 @@
       "Time": "2023-07-08T04:05:52.5544457+00:00",
       "NumProgressed": 426618,
       "NumCompleted": 515
+    },
+    {
+      "Time": "2023-07-08T09:05:49.0916124+00:00",
+      "NumProgressed": 426619,
+      "NumCompleted": 515
     }
   ],
   "TotalAchievements": 41,
@@ -6906,7 +6911,7 @@
       "Name": "Crossing Over",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 123719
+      "UsersEstimate": 123720
     },
     {
       "ID": "ACH_BOSS_ROT_GOD",
@@ -6914,7 +6919,7 @@
       "Name": "Restore Balance",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 106654
+      "UsersEstimate": 106655
     },
     {
       "ID": "ACH_BOSS_TARO",
@@ -6938,7 +6943,7 @@
       "Name": "A Heavy Hammer",
       "Percentage": 30,
       "XP": 60,
-      "UsersEstimate": 127985
+      "UsersEstimate": 127986
     },
     {
       "ID": "ACH_CHALLENGE_ARROW",
@@ -6970,7 +6975,7 @@
       "Name": "Quick Draw",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 123719
+      "UsersEstimate": 123720
     },
     {
       "ID": "ACH_CHALLENGE_DASH_KILL",
@@ -7018,7 +7023,7 @@
       "Name": "Between the Eyes",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 196244
+      "UsersEstimate": 196245
     },
     {
       "ID": "ACH_CHESTS_ALL",
@@ -7050,7 +7055,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 405287
+      "UsersEstimate": 405288
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -7066,7 +7071,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 307165
+      "UsersEstimate": 307166
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -7082,7 +7087,7 @@
       "Name": "Into the Woods",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 294366
+      "UsersEstimate": 294367
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -7098,7 +7103,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 341294
+      "UsersEstimate": 341295
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -7114,7 +7119,7 @@
       "Name": "Zen Master",
       "Percentage": 8,
       "XP": 60,
-      "UsersEstimate": 34129
+      "UsersEstimate": 34130
     },
     {
       "ID": "ACH_PHOTO_MODE",
@@ -7130,7 +7135,7 @@
       "Name": "Taro\u0027s Love",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 191978
+      "UsersEstimate": 191979
     },
     {
       "ID": "ACH_RELIC_HAMMER",
@@ -7162,7 +7167,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 238906
+      "UsersEstimate": 238907
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -7209,15 +7214,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 426618,
+      "Progressed": 426619,
       "Completed": 515
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-07-05T18:59:40.4264202+00:00",
-  "LastChanged_Achievements": "2023-07-08T08:04:30.9812233+00:00",
+  "LastChanged_Achievements": "2023-07-08T09:05:49.0916116+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:00.7181392+00:00",
-  "LastUpdate_Ratings": "2023-07-08T07:58:08.1733604+00:00",
-  "LastUpdate_Achievements": "2023-07-08T08:04:30.9812914+00:00"
+  "LastUpdate_Ratings": "2023-07-08T08:58:58.228903+00:00",
+  "LastUpdate_Achievements": "2023-07-08T09:05:49.0916944+00:00"
 }

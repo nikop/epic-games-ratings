@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -68,9 +68,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1047,
+  "EOS_Progressed": 1048,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -518,6 +518,11 @@
       "Time": "2023-07-08T07:02:30.8324569+00:00",
       "NumProgressed": 1047,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-08T09:03:45.4990416+00:00",
+      "NumProgressed": 1048,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -849,7 +854,7 @@
       "Name": "It\u0027s like an haircut",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ONEPLATINUM",
@@ -881,7 +886,7 @@
       "Name": "A Cheese Grater to the Face",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "TENPLATINUM",
@@ -944,7 +949,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1047,
+      "Progressed": 1048,
       "Completed": 0
     }
   ],
@@ -952,8 +957,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-04-30T22:57:45.7615692+00:00",
-  "LastChanged_Achievements": "2023-07-08T08:02:40.3146196+00:00",
+  "LastChanged_Achievements": "2023-07-08T09:03:45.4990411+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:48.1905608+00:00",
-  "LastUpdate_Ratings": "2023-07-08T07:58:01.7584323+00:00",
-  "LastUpdate_Achievements": "2023-07-08T08:02:40.3146698+00:00"
+  "LastUpdate_Ratings": "2023-07-08T08:58:48.1509041+00:00",
+  "LastUpdate_Achievements": "2023-07-08T09:03:45.4990909+00:00"
 }

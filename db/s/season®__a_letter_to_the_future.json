@@ -4,7 +4,7 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 44,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1126,
+  "EOS_Progressed": 1127,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.73,
   "EosHistory": [
@@ -1756,6 +1756,11 @@
       "Time": "2023-07-08T05:07:11.7556932+00:00",
       "NumProgressed": 1126,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-07-08T09:07:31.9315957+00:00",
+      "NumProgressed": 1127,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 16,
@@ -1823,7 +1828,7 @@
       "Name": "Home Leaver",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -1831,7 +1836,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -1863,7 +1868,7 @@
       "Name": "Shrine Arriver",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ACH_STRANGERENCOUNTERER",
@@ -1894,7 +1899,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1126,
+      "Progressed": 1127,
       "Completed": 42
     }
   ],
@@ -1902,8 +1907,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-07-08T08:05:40.8751657+00:00",
+  "LastChanged_Achievements": "2023-07-08T09:07:31.931595+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:27.6668752+00:00",
-  "LastUpdate_Ratings": "2023-07-08T07:58:22.4120295+00:00",
-  "LastUpdate_Achievements": "2023-07-08T08:05:40.8751889+00:00"
+  "LastUpdate_Ratings": "2023-07-08T08:59:21.7962834+00:00",
+  "LastUpdate_Achievements": "2023-07-08T09:07:31.9316221+00:00"
 }

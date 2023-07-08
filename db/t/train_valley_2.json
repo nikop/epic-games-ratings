@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 428,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
@@ -277,9 +277,9 @@
       "Count": 72
     }
   ],
-  "EOS_Progressed": 754,
+  "EOS_Progressed": 755,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -577,6 +577,11 @@
       "Time": "2023-07-08T04:06:29.997978+00:00",
       "NumProgressed": 754,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-08T09:06:27.2639843+00:00",
+      "NumProgressed": 755,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -772,7 +777,7 @@
       "Name": "Full garage",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "AchievementGemologist_NAME",
@@ -874,9 +879,9 @@
       "ID": "AchievementJustInTime",
       "SetID": "76o014g",
       "Name": "Just in time!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 45
     },
     {
       "ID": "AchievementLargeConstruction",
@@ -1187,21 +1192,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 95,
+      "Progressed": 96,
       "Completed": 6
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 754,
+      "Progressed": 755,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-06-28T09:58:02.8229732+00:00",
-  "LastChanged_Achievements": "2023-07-08T08:04:56.6306995+00:00",
+  "LastChanged_Achievements": "2023-07-08T09:06:27.2639838+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:50.3569514+00:00",
-  "LastUpdate_Ratings": "2023-07-08T07:57:29.0897696+00:00",
-  "LastUpdate_Achievements": "2023-07-08T08:04:56.6307829+00:00"
+  "LastUpdate_Ratings": "2023-07-08T08:57:59.3224946+00:00",
+  "LastUpdate_Achievements": "2023-07-08T09:06:27.2640856+00:00"
 }

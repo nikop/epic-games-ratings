@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -576,9 +576,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 2947,
+  "EOS_Progressed": 2948,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2106,6 +2106,11 @@
       "Time": "2023-07-07T14:03:13.1280607+00:00",
       "NumProgressed": 2947,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-08T09:03:30.1029856+00:00",
+      "NumProgressed": 2948,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2339,9 +2344,9 @@
       "ID": "Kills_Knockback",
       "SetID": "3jha1np",
       "Name": "Watch Where You Step...",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 973
+      "UsersEstimate": 943
     },
     {
       "ID": "Kills_Streak",
@@ -2459,9 +2464,9 @@
       "ID": "MissionVictory_NoWP",
       "SetID": "3jha1np",
       "Name": "Exercise in Restraint",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 27
     },
     {
       "ID": "MissionVictory_Purgators",
@@ -2588,21 +2593,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2947,
+      "Progressed": 2948,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2947,
+      "Progressed": 2948,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-04T16:59:35.6470966+00:00",
-  "LastChanged_Achievements": "2023-07-08T08:02:29.6724939+00:00",
+  "LastChanged_Achievements": "2023-07-08T09:03:30.1029853+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:34.0888616+00:00",
-  "LastUpdate_Ratings": "2023-07-08T07:58:26.0494615+00:00",
-  "LastUpdate_Achievements": "2023-07-08T08:02:29.6725604+00:00"
+  "LastUpdate_Ratings": "2023-07-08T08:59:27.0057887+00:00",
+  "LastUpdate_Achievements": "2023-07-08T09:03:30.1030458+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -172,9 +172,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7187,
+  "EOS_Progressed": 7188,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5397,6 +5397,11 @@
       "Time": "2023-07-08T07:00:56.6365043+00:00",
       "NumProgressed": 7187,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-08T09:02:32.0473857+00:00",
+      "NumProgressed": 7188,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -5464,7 +5469,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 2659
+      "UsersEstimate": 2660
     },
     {
       "ID": "0009",
@@ -5512,7 +5517,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2515
+      "UsersEstimate": 2516
     },
     {
       "ID": "0015",
@@ -5568,7 +5573,7 @@
       "Name": "Call Me Maybe",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "0022",
@@ -5576,7 +5581,7 @@
       "Name": "PHD in VIP",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "0023",
@@ -5600,7 +5605,7 @@
       "Name": "Tailor-Made",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 2659
+      "UsersEstimate": 2660
     },
     {
       "ID": "0026",
@@ -5632,7 +5637,7 @@
       "Name": "A view to Win",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1940
+      "UsersEstimate": 1941
     },
     {
       "ID": "0030",
@@ -5695,7 +5700,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 7187,
+      "Progressed": 7188,
       "Completed": 1
     }
   ],
@@ -5703,8 +5708,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-06-24T11:00:56.980815+00:00",
-  "LastChanged_Achievements": "2023-07-08T08:02:10.1284465+00:00",
+  "LastChanged_Achievements": "2023-07-08T09:02:32.0473851+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:58.7971193+00:00",
-  "LastUpdate_Ratings": "2023-07-08T07:59:17.2018286+00:00",
-  "LastUpdate_Achievements": "2023-07-08T08:02:10.1285064+00:00"
+  "LastUpdate_Ratings": "2023-07-08T09:00:43.6669904+00:00",
+  "LastUpdate_Achievements": "2023-07-08T09:02:32.047455+00:00"
 }

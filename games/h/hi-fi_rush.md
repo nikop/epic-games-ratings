@@ -25,13 +25,13 @@ Rating: 4.87 (Ranked 25)
 | Perfect Parry | 0.30% | ~10 |
 | Perfecter Parry-er! | 0.30% | ~10 |
 | Uh, they were broken when I got here | 0.30% | ~10 |
+| That's a lot of junk metal… | 0.30% | ~10 |
 | Kissing the sky! | 0.30% | ~10 |
 | I look cool. But I can look COOLER. | 0.30% | ~10 |
 | Alright, that felt AWESOME! | 0.30% | ~10 |
 | Start with a bang! | 0.20% | ~7 |
 | Well that was a rush! | 0.20% | ~7 |
 | You must like calling me in, Chai | 0.20% | ~7 |
-| That's a lot of junk metal… | 0.20% | ~7 |
 | There's such a thing as TOO helpful | 0.20% | ~7 |
 | You can pet the cat! | 0.20% | ~7 |
 | Does that say weakpoint? | 0.20% | ~7 |

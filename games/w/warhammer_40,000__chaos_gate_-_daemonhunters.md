@@ -8,8 +8,8 @@ Number of Ratings: 371  (23.09.2022)
 | ---- | ---------- | ----- |
 | Executioner | 38.00% | ~1,120 |
 | Look Over There! | 33.00% | ~973 |
-| Watch Where You Step... | 33.00% | ~973 |
 | Not So Fast... | 32.00% | ~943 |
+| Watch Where You Step... | 32.00% | ~943 |
 | An Ill Omen | 30.00% | ~884 |
 | Purging Spree | 25.00% | ~737 |
 | Blood for the Blood God! | 19.00% | ~560 |
@@ -45,7 +45,7 @@ Number of Ratings: 371  (23.09.2022)
 | For the Machine God | 1.00% | ~29 |
 | Unstable Immaterium | 1.00% | ~29 |
 | Strike Force | 1.00% | ~29 |
-| Exercise in Restraint | 1.00% | ~29 |
+| Exercise in Restraint | 0.90% | ~27 |
 | True Mastery | 0.60% | ~18 |
 | The Flesh is Weak | 0.50% | ~15 |
 | Warp Flickers | 0.50% | ~15 |
@@ -66,7 +66,7 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,947 (Ranked 150)  
+Progressed: 2,948 (Ranked 150)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,6 +140,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-05 | 2,942 | 0 |
 | 2023-07-06 | 2,945 | 0 |
 | 2023-07-07 | 2,947 | 0 |
+| 2023-07-08 | 2,948 | 0 |
 ## Awards
 Max (Character Customization): 213  (Ranked 262)  
 Sum: 427 (Ranked 305)  

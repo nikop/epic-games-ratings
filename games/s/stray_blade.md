@@ -4,9 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 50.00% | ~5 |
-| Tinkerer | 30.00% | ~3 |
+| Self-Defence | 60.00% | ~6 |
+| Tinkerer | 40.00% | ~4 |
 | Bringing guns to a sword fight | 20.00% | ~2 |
+| Welcome to the Club | 20.00% | ~2 |
 | Don't Cry Wolf | 20.00% | ~2 |
 | A new World ahead | 20.00% | ~2 |
 | Apprentice | 20.00% | ~2 |
@@ -18,7 +19,6 @@
 | Searing Heat | 10.00% | ~1 |
 | Through Dangers Untold | 10.00% | ~1 |
 | Finally! | 10.00% | ~1 |
-| Welcome to the Club | 10.00% | ~1 |
 | The End | 10.00% | ~1 |
 | Can't touch this | 10.00% | ~1 |
 | But what of the Acreans? | 10.00% | ~1 |

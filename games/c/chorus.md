@@ -1,14 +1,14 @@
 # Chorus
 [Store](https://store.epicgames.com/en-US/p/chorus)  
 [View Rawdata](../../db/c/chorus.json)  
-Rating: 4.44 (Ranked 641)  
+Rating: 4.44 (Ranked 640)  
 Number of Ratings: 58  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Another Life | 86.00% | ~877 |
-| Voices from the Past | 78.00% | ~796 |
-| Space Traveler | 78.00% | ~796 |
+| Voices from the Past | 79.00% | ~806 |
+| Space Traveler | 79.00% | ~806 |
 | Demigod | 76.00% | ~775 |
 | The Great Destroyer | 75.00% | ~765 |
 | Shields Down | 72.00% | ~734 |
@@ -21,7 +21,7 @@ Number of Ratings: 58  (23.09.2022)
 | Payback | 54.00% | ~551 |
 | Huntress | 53.00% | ~541 |
 | Born to Drift | 52.00% | ~530 |
-| Relentless | 48.00% | ~490 |
+| Relentless | 49.00% | ~500 |
 | The Path Forward | 46.00% | ~469 |
 | Disruption | 45.00% | ~459 |
 | Phoenix | 44.00% | ~449 |

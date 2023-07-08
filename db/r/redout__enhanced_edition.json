@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 226665,
+  "EOS_Progressed": 226667,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 575,
+  "EOS_NewPlayers": 572,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -8403,6 +8403,11 @@
       "Time": "2023-07-08T08:05:42.603447+00:00",
       "NumProgressed": 226665,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-07-08T09:07:34.2926037+00:00",
+      "NumProgressed": 226667,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 34,
@@ -8430,7 +8435,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 63466
+      "UsersEstimate": 63467
     },
     {
       "ID": "CENTAUR",
@@ -8638,7 +8643,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 49866
+      "UsersEstimate": 49867
     },
     {
       "ID": "TACTICIAN",
@@ -8662,7 +8667,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 49866
+      "UsersEstimate": 49867
     },
     {
       "ID": "TUNINGMANIAC",
@@ -8685,15 +8690,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 226665,
+      "Progressed": 226667,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-07-08T08:05:42.6034465+00:00",
+  "LastChanged_Achievements": "2023-07-08T09:07:34.2926032+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:56.9727616+00:00",
-  "LastUpdate_Ratings": "2023-07-08T07:58:05.8525809+00:00",
-  "LastUpdate_Achievements": "2023-07-08T08:05:42.6035265+00:00"
+  "LastUpdate_Ratings": "2023-07-08T08:58:54.6862255+00:00",
+  "LastUpdate_Achievements": "2023-07-08T09:07:34.2926936+00:00"
 }

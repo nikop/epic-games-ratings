@@ -532,9 +532,9 @@
       "Count": 208
     }
   ],
-  "EOS_Progressed": 10979,
+  "EOS_Progressed": 10981,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -6272,6 +6272,11 @@
       "Time": "2023-07-08T08:05:49.775821+00:00",
       "NumProgressed": 10979,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-07-08T09:07:43.5665519+00:00",
+      "NumProgressed": 10981,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 35,
@@ -6283,7 +6288,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 8893
+      "UsersEstimate": 8895
     },
     {
       "ID": "ACH02",
@@ -6331,7 +6336,7 @@
       "Name": "The American Dream",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1976
+      "UsersEstimate": 1977
     },
     {
       "ID": "ACH08",
@@ -6361,9 +6366,9 @@
       "ID": "ACH11",
       "SetID": "4ck5mbe",
       "Name": "Liberty City State of Mind",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 878
+      "UsersEstimate": 988
     },
     {
       "ID": "ACH12",
@@ -6379,7 +6384,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1866
+      "UsersEstimate": 1867
     },
     {
       "ID": "ACH14",
@@ -6562,7 +6567,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 10979,
+      "Progressed": 10981,
       "Completed": 26
     }
   ],
@@ -6570,8 +6575,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-08T02:24:21.2335521+00:00",
-  "LastChanged_Achievements": "2023-07-08T08:05:49.77582+00:00",
+  "LastChanged_Achievements": "2023-07-08T09:07:43.5665514+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:43.1834453+00:00",
-  "LastUpdate_Ratings": "2023-07-08T07:59:44.8570819+00:00",
-  "LastUpdate_Achievements": "2023-07-08T08:05:49.7758821+00:00"
+  "LastUpdate_Ratings": "2023-07-08T09:01:22.5711146+00:00",
+  "LastUpdate_Achievements": "2023-07-08T09:07:43.5666253+00:00"
 }
