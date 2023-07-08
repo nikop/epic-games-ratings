@@ -5,33 +5,33 @@ Rating: 4.87 (Ranked 25)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| NOW we got a kickass hideout! | 0.70% | ~14 |
+| NOW we got a kickass hideout! | 0.80% | ~16 |
 | Cream of the Crop | 0.40% | ~14 |
 | Headliner | 0.40% | ~14 |
 | Time to pay up! | 0.40% | ~14 |
 | Who's the boss now? | 0.40% | ~14 |
 | Thanks for the free chip, Peppermint! | 0.40% | ~14 |
 | I play my own way! | 0.40% | ~14 |
+| Whoa! There's ANOTHER health bar!? | 0.40% | ~14 |
+| You got this, Peppermint? | 0.40% | ~14 |
 | Who put gears in there? | 0.40% | ~14 |
 | Call me Turbo Chai | 0.40% | ~8 |
 | This will cost you big time | 0.30% | ~10 |
 | The Negotiator | 0.30% | ~10 |
-| Whoa! There's ANOTHER health bar!? | 0.30% | ~10 |
 | I have to read these things? | 0.30% | ~10 |
-| You got this, Peppermint? | 0.30% | ~10 |
+| Feeling the beat! | 0.30% | ~10 |
 | Z-shielding's got nothing on us! | 0.30% | ~10 |
 | Out in a puff of smoke | 0.30% | ~10 |
 | Perfect Parry | 0.30% | ~10 |
 | Perfecter Parry-er! | 0.30% | ~10 |
 | Uh, they were broken when I got here | 0.30% | ~10 |
 | Kissing the sky! | 0.30% | ~10 |
+| I look cool. But I can look COOLER. | 0.30% | ~10 |
 | Alright, that felt AWESOME! | 0.30% | ~10 |
 | Start with a bang! | 0.20% | ~7 |
 | Well that was a rush! | 0.20% | ~7 |
-| Feeling the beat! | 0.20% | ~7 |
 | You must like calling me in, Chai | 0.20% | ~7 |
 | That's a lot of junk metal… | 0.20% | ~7 |
-| I look cool. But I can look COOLER. | 0.20% | ~7 |
 | There's such a thing as TOO helpful | 0.20% | ~7 |
 | You can pet the cat! | 0.20% | ~7 |
 | Does that say weakpoint? | 0.20% | ~7 |
@@ -56,6 +56,8 @@ Rating: 4.87 (Ranked 25)
 | It'll do, CNMN | 0.10% | ~2 |
 | Please don't make this awkward | 0.10% | ~2 |
 | That was just EVIL | 0.10% | ~2 |
+| It was all for this | 0.10% | ~2 |
+| Voices from within | 0.10% | ~2 |
 | And the crowd goes wild! | 0.00% | ~0 |
 | Didn't skip a beat! | 0.00% | ~0 |
 | I can't see this ever being a problem again | 0.00% | ~0 |
@@ -73,11 +75,9 @@ Rating: 4.87 (Ranked 25)
 | I'm trying to FOCUS HERE! | 0.00% | ~0 |
 | With our powers combined…and to the rhythm… | 0.00% | ~0 |
 | OK, I THINK I know what I'm doing now | 0.00% | ~0 |
-| It was all for this | 0.00% | ~0 |
-| Voices from within | 0.00% | ~0 |
 | Low budget finish | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,419 (Ranked 145)  
+Progressed: 3,420 (Ranked 145)  
 Completed: 5 (0.15%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 5 (0.15%) (Ranked 171)
 | 2023-07-05 | 3,407 | 5 |
 | 2023-07-06 | 3,411 | 5 |
 | 2023-07-07 | 3,418 | 5 |
-| 2023-07-08 | 3,419 | 5 |
+| 2023-07-08 | 3,420 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

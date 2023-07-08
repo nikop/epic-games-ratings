@@ -2,7 +2,7 @@
   "ID": "7b57136ac766477eb1e687dcd0310da5",
   "Name": "War Mongrels",
   "ProductSlug": "war-mongrels",
-  "Ranking_Rating": 757,
+  "Ranking_Rating": 756,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 224,
@@ -1318,9 +1318,9 @@
       "ID": "ACH_FIN_CH05",
       "SetID": "1j25agn",
       "Name": "Consequences",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_FIN_CH06",
@@ -1542,8 +1542,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-06-24T07:57:51.3010975+00:00",
-  "LastChanged_Achievements": "2023-07-08T00:04:00.2654964+00:00",
-  "LastUpdate_AppInfo": "2023-06-30T23:57:35.8436702+00:00",
-  "LastUpdate_Ratings": "2023-07-07T23:57:52.6148409+00:00",
-  "LastUpdate_Achievements": "2023-07-08T00:04:00.2655428+00:00"
+  "LastChanged_Achievements": "2023-07-08T02:27:19.2836691+00:00",
+  "LastUpdate_AppInfo": "2023-07-08T02:19:50.0000159+00:00",
+  "LastUpdate_Ratings": "2023-07-08T02:20:52.9696731+00:00",
+  "LastUpdate_Achievements": "2023-07-08T02:27:19.2837797+00:00"
 }

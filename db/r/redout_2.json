@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -68,9 +68,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1045,
+  "EOS_Progressed": 1046,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -508,6 +508,11 @@
       "Time": "2023-07-07T20:02:31.582946+00:00",
       "NumProgressed": 1045,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-08T02:26:41.8151223+00:00",
+      "NumProgressed": 1046,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -573,9 +578,9 @@
       "ID": "ALLTRACKSCAIRO",
       "SetID": "3dh70f3",
       "Name": "Walked like an Egyptian",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 157
     },
     {
       "ID": "ALLTRACKSCLOUD",
@@ -615,7 +620,7 @@
       "Name": "Martian explorer",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ALLTRACKSTARTARUS",
@@ -671,7 +676,7 @@
       "Name": "Enter the Speed Gauntlet",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "CAREERCLASSMASTERS",
@@ -815,7 +820,7 @@
       "Name": "I just can\u0027t choose",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ONELIVERY",
@@ -934,7 +939,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1045,
+      "Progressed": 1046,
       "Completed": 0
     }
   ],
@@ -942,8 +947,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-04-30T22:57:45.7615692+00:00",
-  "LastChanged_Achievements": "2023-07-08T00:03:25.825799+00:00",
+  "LastChanged_Achievements": "2023-07-08T02:26:41.8151214+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:40.0134084+00:00",
-  "LastUpdate_Ratings": "2023-07-07T23:58:36.1388464+00:00",
-  "LastUpdate_Achievements": "2023-07-08T00:03:25.8258391+00:00"
+  "LastUpdate_Ratings": "2023-07-08T02:21:43.1699388+00:00",
+  "LastUpdate_Achievements": "2023-07-08T02:26:41.8151715+00:00"
 }

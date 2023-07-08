@@ -21,14 +21,14 @@
 | Running Boots | 16.00% | ~35 |
 | Kaboom! | 13.00% | ~28 |
 | Looper | 13.00% | ~28 |
+| So Close | 12.00% | ~26 |
 | Reunited | 12.00% | ~26 |
-| So Close | 11.00% | ~24 |
 | Transformers, cubes in disguise | 11.00% | ~24 |
 | All Alone | 11.00% | ~24 |
 | Cataclysm | 11.00% | ~24 |
 | Final Charge | 10.00% | ~22 |
 | Summer Luvin' | 4.00% | ~9 |
-| You Are Terminated | 0.90% | ~2 |
+| You Are Terminated | 1.00% | ~2 |
 | So, this is the End? | 0.00% | ~0 |
 | Data Research | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

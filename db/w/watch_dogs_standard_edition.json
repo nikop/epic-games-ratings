@@ -2,12 +2,12 @@
   "ID": "ecebf45065bc4993abfe0e84c40ff18e",
   "Name": "Watch Dogs Standard Edition",
   "ProductSlug": "watch-dogs",
-  "Ranking_Rating": 456,
+  "Ranking_Rating": 455,
   "Ranking_Popularity": 391,
   "Ranking_PopularitySum": 311,
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-03-19T15:00:00+00:00",
@@ -1501,6 +1501,6 @@
   "FirstSeen": "2022-07-22T20:20:01.9847852+00:00",
   "LastChanged": "2023-07-08T00:01:31.1080768+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:10.6056609+00:00",
-  "LastUpdate_Ratings": "2023-07-08T00:01:31.1080776+00:00",
-  "LastUpdate_Achievements": "2023-07-08T00:05:14.877421+00:00"
+  "LastUpdate_Ratings": "2023-07-08T02:24:48.8238796+00:00",
+  "LastUpdate_Achievements": "2023-07-08T02:28:41.3726308+00:00"
 }

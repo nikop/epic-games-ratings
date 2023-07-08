@@ -48,9 +48,9 @@ Number of Ratings: 75  (23.09.2022)
 | Merry-Go-Around: Self-Made | 0.70% | ~36 |
 | Bet On Bots: Inspector's Favorite | 0.60% | ~31 |
 | Trendsetter | 0.60% | ~31 |
-| Level: Heating-Up | 0.50% | ~25 |
-| Level: Eye In The Sky | 0.50% | ~25 |
-| CEO | 0.50% | ~25 |
+| Level: Heating-Up | 0.50% | ~26 |
+| Level: Eye In The Sky | 0.50% | ~26 |
+| CEO | 0.50% | ~26 |
 | Campaign: Man vs. Machine | 0.40% | ~20 |
 | Rockstar | 0.40% | ~20 |
 | A Happy Taskforce: Interior Designer | 0.30% | ~15 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~5 |
 | Prestigious | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,099 (Ranked 134)  
+Progressed: 5,100 (Ranked 134)  
 Completed: 1 (0.02%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,6 +161,7 @@ Completed: 1 (0.02%) (Ranked 215)
 | 2023-07-05 | 5,092 | 1 |
 | 2023-07-06 | 5,096 | 1 |
 | 2023-07-07 | 5,099 | 1 |
+| 2023-07-08 | 5,100 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

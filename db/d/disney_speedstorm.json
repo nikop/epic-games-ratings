@@ -3,8 +3,8 @@
   "Name": "Disney Speedstorm",
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 151,
-  "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_Completed": 54,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2915,
+  "EOS_Progressed": 2916,
   "EOS_Completed": 92,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 3.16,
   "EosHistory": [
@@ -3285,6 +3285,11 @@
       "Time": "2023-07-07T22:07:21.5300137+00:00",
       "NumProgressed": 2915,
       "NumCompleted": 92
+    },
+    {
+      "Time": "2023-07-08T02:29:08.6937683+00:00",
+      "NumProgressed": 2916,
+      "NumCompleted": 92
     }
   ],
   "TotalAchievements": 24,
@@ -3304,7 +3309,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1195
+      "UsersEstimate": 1196
     },
     {
       "ID": "11",
@@ -3336,7 +3341,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1195
+      "UsersEstimate": 1196
     },
     {
       "ID": "15",
@@ -3384,7 +3389,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "20",
@@ -3416,7 +3421,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "24",
@@ -3424,7 +3429,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "3",
@@ -3440,7 +3445,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 30,
       "XP": 80,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "5",
@@ -3487,13 +3492,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2915,
+      "Progressed": 2916,
       "Completed": 92
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-07-08T00:05:39.9589732+00:00",
+  "LastChanged_Achievements": "2023-07-08T02:29:08.6937674+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:50.2007614+00:00",
-  "LastUpdate_Ratings": "2023-07-07T23:59:33.9905895+00:00",
-  "LastUpdate_Achievements": "2023-07-08T00:05:39.9590017+00:00"
+  "LastUpdate_Ratings": "2023-07-08T02:22:47.2150786+00:00",
+  "LastUpdate_Achievements": "2023-07-08T02:29:08.6938356+00:00"
 }

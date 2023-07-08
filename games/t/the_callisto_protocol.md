@@ -31,7 +31,7 @@ Rating: 4.19 (Ranked 845)
 | The Commonality | 0.80% | ~125 |
 | One Last Job | 0.70% | ~25 |
 | In Striking Distance | 0.60% | ~94 |
-| This Isn't About Escape | 0.40% | ~14 |
+| This Isn't About Escape | 0.50% | ~18 |
 | Armed to the Teeth | 0.30% | ~11 |
 | Grim Reaper | 0.30% | ~47 |
 | Information Overload | 0.30% | ~11 |
@@ -133,7 +133,7 @@ Completed: 64 (0.41%) (Ranked 136)
 | 2023-07-07 | 15,660 | 64 |
 ## Awards
 Max (Amazing Storytelling): 64  (Ranked 379)  
-Sum: 370 (Ranked 318)  
+Sum: 371 (Ranked 318)  
 Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
@@ -142,7 +142,7 @@ Diff (max vs sum): 61
 | This game has Amazing Characters | 60 |
 | This game has Quickly Understood Controls | 59 |
 | This game is Extremely Fun | 53 |
-| This game has Challenging Combat | 47 |
+| This game has Challenging Combat | 48 |
 | This game has a Creative Community | 24 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -233,3 +233,4 @@ Diff (max vs sum): 61
 | 2023-07-04 | 4.19 | 64 | 364 |
 | 2023-07-06 | 4.19 | 64 | 367 |
 | 2023-07-07 | 4.19 | 64 | 370 |
+| 2023-07-08 | 4.19 | 64 | 371 |

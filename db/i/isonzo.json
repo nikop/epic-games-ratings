@@ -2,7 +2,7 @@
   "ID": "30de69013f3b41b0ba594a8ef3b693ba",
   "Name": "Isonzo",
   "ProductSlug": "isonzo",
-  "Ranking_Rating": 456,
+  "Ranking_Rating": 455,
   "Ranking_Popularity": 434,
   "Ranking_PopularitySum": 347,
   "Ranking_EOS_Progress": 128,
@@ -700,7 +700,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6351,
+  "EOS_Progressed": 6352,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
@@ -3260,6 +3260,11 @@
       "Time": "2023-07-07T23:04:20.7683513+00:00",
       "NumProgressed": 6351,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-08T02:27:38.3270262+00:00",
+      "NumProgressed": 6352,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -3319,7 +3324,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2286
+      "UsersEstimate": 2287
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -3463,7 +3468,7 @@
       "Name": "Peak Performance",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3493
+      "UsersEstimate": 3494
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -3599,7 +3604,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3493
+      "UsersEstimate": 3494
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -3623,14 +3628,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3366
+      "UsersEstimate": 3367
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6351,
+      "Progressed": 6352,
       "Completed": 8
     }
   ],
@@ -3638,8 +3643,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-07-04T13:15:35.7816607+00:00",
-  "LastChanged_Achievements": "2023-07-08T00:04:17.1736146+00:00",
-  "LastUpdate_AppInfo": "2023-06-30T23:57:30.8690584+00:00",
-  "LastUpdate_Ratings": "2023-07-07T23:57:50.7890603+00:00",
-  "LastUpdate_Achievements": "2023-07-08T00:04:17.1736597+00:00"
+  "LastChanged_Achievements": "2023-07-08T02:27:38.3270255+00:00",
+  "LastUpdate_AppInfo": "2023-07-08T02:19:47.5967083+00:00",
+  "LastUpdate_Ratings": "2023-07-08T02:20:50.9576705+00:00",
+  "LastUpdate_Achievements": "2023-07-08T02:27:38.32709+00:00"
 }

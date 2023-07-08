@@ -45,7 +45,7 @@ Number of Ratings: 371  (23.09.2022)
 | For the Machine God | 1.00% | ~29 |
 | Unstable Immaterium | 1.00% | ~29 |
 | Strike Force | 1.00% | ~29 |
-| Exercise in Restraint | 0.90% | ~27 |
+| Exercise in Restraint | 1.00% | ~29 |
 | True Mastery | 0.60% | ~18 |
 | The Flesh is Weak | 0.50% | ~15 |
 | Warp Flickers | 0.50% | ~15 |

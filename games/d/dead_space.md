@@ -1,7 +1,7 @@
 # Dead Space
 [Store](https://store.epicgames.com/en-US/p/dead-space)  
 [View Rawdata](../../db/d/dead_space.json)  
-Rating: 4.62 (Ranked 344)  
+Rating: 4.61 (Ranked 361)  
 ## Awards
 Max (Great Boss Battles): 74  (Ranked 361)  
 Sum: 74 (Ranked 423)  
@@ -83,3 +83,4 @@ Diff (max vs sum): -62
 | 2023-07-02 | 4.62 | 70 | 70 |
 | 2023-07-05 | 4.62 | 73 | 73 |
 | 2023-07-07 | 4.62 | 74 | 74 |
+| 2023-07-08 | 4.61 | 74 | 74 |

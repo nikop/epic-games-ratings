@@ -6,33 +6,33 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,225 |
-| The Mad Wizard | 11.00% | ~22,899 |
-| The Ring of Regeneration | 7.00% | ~14,572 |
-| Are Ya Chicken? | 7.00% | ~14,572 |
-| Were-verpowered | 5.00% | ~10,408 |
-| Seeking Allies | 5.00% | ~10,408 |
-| Mad Cow Disease | 5.00% | ~10,408 |
-| Friendly Imps | 5.00% | ~10,408 |
-| A Persistent Buzzing | 4.00% | ~8,327 |
-| Pure Energy | 4.00% | ~8,327 |
-| Beast Mode | 3.00% | ~6,245 |
-| Terror in the Dark | 3.00% | ~6,245 |
-| Unearthed Evil | 3.00% | ~6,245 |
-| The Crumbling Temple | 3.00% | ~6,245 |
-| Exploring Port Nyanzaru | 3.00% | ~6,245 |
-| The Contagious Curse | 3.00% | ~6,245 |
-| Low Initiative | 2.00% | ~4,163 |
-| A Mysterious Summons | 2.00% | ~4,163 |
-| Building Trust | 2.00% | ~4,163 |
-| No Time To Rest | 2.00% | ~4,163 |
-| Useless Allies | 2.00% | ~4,163 |
-| Running of the Saurs | 2.00% | ~4,163 |
-| Escort to Waterdeep | 2.00% | ~4,163 |
-| Waterdeep Detours | 2.00% | ~4,163 |
-| Underdeep Cartography | 2.00% | ~4,163 |
-| Overdue Rendezvous | 2.00% | ~4,163 |
-| The Templar's Camp | 2.00% | ~4,163 |
+| The Cursed Farmer | 15.00% | ~31,233 |
+| The Mad Wizard | 11.00% | ~22,904 |
+| The Ring of Regeneration | 7.00% | ~14,575 |
+| Are Ya Chicken? | 7.00% | ~14,575 |
+| Were-verpowered | 5.00% | ~10,411 |
+| Seeking Allies | 5.00% | ~10,411 |
+| Mad Cow Disease | 5.00% | ~10,411 |
+| Friendly Imps | 5.00% | ~10,411 |
+| A Persistent Buzzing | 4.00% | ~8,329 |
+| Pure Energy | 4.00% | ~8,329 |
+| Beast Mode | 3.00% | ~6,247 |
+| Terror in the Dark | 3.00% | ~6,247 |
+| Unearthed Evil | 3.00% | ~6,247 |
+| The Crumbling Temple | 3.00% | ~6,247 |
+| Exploring Port Nyanzaru | 3.00% | ~6,247 |
+| The Contagious Curse | 3.00% | ~6,247 |
+| Low Initiative | 2.00% | ~4,164 |
+| A Mysterious Summons | 2.00% | ~4,164 |
+| Building Trust | 2.00% | ~4,164 |
+| No Time To Rest | 2.00% | ~4,164 |
+| Useless Allies | 2.00% | ~4,164 |
+| Running of the Saurs | 2.00% | ~4,164 |
+| Escort to Waterdeep | 2.00% | ~4,164 |
+| Waterdeep Detours | 2.00% | ~4,164 |
+| Underdeep Cartography | 2.00% | ~4,164 |
+| Overdue Rendezvous | 2.00% | ~4,164 |
+| The Templar's Camp | 2.00% | ~4,164 |
 | Homecoming | 1.00% | ~2,082 |
 | Street War | 1.00% | ~2,082 |
 | March of the Undead | 1.00% | ~2,082 |
@@ -52,21 +52,21 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Long Haul | 0.90% | ~1,874 |
 | Lost in the Deep | 0.90% | ~1,874 |
 | Easily Distracted | 0.90% | ~1,874 |
-| The Forbidden City | 0.80% | ~1,665 |
-| Wisdom Check | 0.80% | ~1,665 |
-| The Mists of Ravenloft | 0.80% | ~1,665 |
-| Attack on the Manor | 0.80% | ~1,665 |
-| The Dead Three | 0.80% | ~1,665 |
-| Captured! | 0.70% | ~1,457 |
-| A Grand Puzzle | 0.70% | ~1,457 |
-| Tomb of the Nine Gods | 0.70% | ~1,457 |
-| Treasure Hunters | 0.70% | ~1,457 |
-| Nimble Escape | 0.70% | ~1,457 |
-| Fugitives | 0.70% | ~1,457 |
-| The Darkness Runs Deeper | 0.70% | ~1,457 |
+| The Forbidden City | 0.80% | ~1,666 |
+| Captured! | 0.80% | ~1,666 |
+| Wisdom Check | 0.80% | ~1,666 |
+| The Mists of Ravenloft | 0.80% | ~1,666 |
+| Attack on the Manor | 0.80% | ~1,666 |
+| The Dead Three | 0.80% | ~1,666 |
+| A Grand Puzzle | 0.70% | ~1,458 |
+| Tomb of the Nine Gods | 0.70% | ~1,458 |
+| Treasure Hunters | 0.70% | ~1,458 |
+| Nimble Escape | 0.70% | ~1,458 |
+| Fugitives | 0.70% | ~1,458 |
+| The Darkness Runs Deeper | 0.70% | ~1,458 |
 | The Giant's Bane Tavern | 0.70% | ~1,221 |
-| Rude Welcome | 0.70% | ~1,457 |
-| The Haunted Jungle | 0.70% | ~1,457 |
+| Rude Welcome | 0.70% | ~1,458 |
+| The Haunted Jungle | 0.70% | ~1,458 |
 | Family Entanglements | 0.60% | ~1,249 |
 | The Immortal Warrior | 0.60% | ~1,249 |
 | The Wyrmheart Mine | 0.60% | ~1,249 |
@@ -510,8 +510,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,169 (Ranked 52)  
-Completed: 2,037 (0.98%) (Ranked 102)  
+Progressed: 208,221 (Ranked 52)  
+Completed: 2,038 (0.98%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -589,7 +589,7 @@ Completed: 2,037 (0.98%) (Ranked 102)
 | 2023-07-05 | 206,889 | 2,032 |
 | 2023-07-06 | 207,486 | 2,035 |
 | 2023-07-07 | 208,152 | 2,037 |
-| 2023-07-08 | 208,169 | 2,037 |
+| 2023-07-08 | 208,221 | 2,038 |
 ## Awards
 Max (Diverse Characters): 5,013  (Ranked 65)  
 Sum: 30,436 (Ranked 37)  

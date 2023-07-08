@@ -54,6 +54,8 @@ Rating: 4.45 (Ranked 621)
 | Last Resort | 0.30% | ~10 |
 | If You Go Down To The Woods Today | 0.30% | ~10 |
 | Fight Another Day | 0.30% | ~10 |
+| Shipbreaker | 0.30% | ~10 |
+| Sink or Swim | 0.30% | ~10 |
 | Master of Secondaries | 0.20% | ~6 |
 | Master of Rifles | 0.20% | ~6 |
 | Out of Scope | 0.20% | ~6 |
@@ -63,8 +65,6 @@ Rating: 4.45 (Ranked 621)
 | Can't Outrun A Bullet | 0.20% | ~6 |
 | Führerious Repetition | 0.20% | ~6 |
 | Operation Overlord | 0.20% | ~6 |
-| Shipbreaker | 0.20% | ~6 |
-| Sink or Swim | 0.20% | ~6 |
 | Best of the Best | 0.10% | ~3 |
 | Master of Pistols | 0.10% | ~3 |
 | Master-at-arms | 0.10% | ~3 |

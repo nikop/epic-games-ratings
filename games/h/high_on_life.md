@@ -5,40 +5,40 @@ Rating: 4.66 (Ranked 270)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~19,068 |
-| Mods Please Ban | 77.00% | ~17,690 |
-| Bring A Knife to a Gun Fight | 77.00% | ~17,690 |
-| Fallout Doesn't Let You Do This | 73.00% | ~16,771 |
-| First Bounty Down | 59.00% | ~13,555 |
-| We're All Very Impressed, Trust Me | 57.00% | ~13,095 |
-| Luglox Genocide | 43.00% | ~9,879 |
-| Playing Card To Get | 34.00% | ~7,811 |
-| Don't Knife The Hand That Feeds | 33.00% | ~7,581 |
-| Creature Feature | 29.00% | ~6,662 |
+| Eye Scream, You Scream | 83.00% | ~19,070 |
+| Mods Please Ban | 77.00% | ~17,692 |
+| Bring A Knife to a Gun Fight | 77.00% | ~17,692 |
+| Fallout Doesn't Let You Do This | 73.00% | ~16,772 |
+| First Bounty Down | 59.00% | ~13,556 |
+| We're All Very Impressed, Trust Me | 57.00% | ~13,096 |
+| Luglox Genocide | 43.00% | ~9,880 |
+| Playing Card To Get | 34.00% | ~7,812 |
+| Don't Knife The Hand That Feeds | 33.00% | ~7,582 |
+| Creature Feature | 29.00% | ~6,663 |
 | Satisfied Gus-tomer | 28.00% | ~6,433 |
 | Cold-Blooded Driller | 28.00% | ~6,433 |
 | Are You Packin'? | 25.00% | ~5,744 |
 | Sweezy Like Sunday Morning | 25.00% | ~5,744 |
 | G3 Graduation | 25.00% | ~5,744 |
 | RIP Davey Glutes | 24.00% | ~5,514 |
-| Hardest Battle In The Game | 22.00% | ~5,054 |
-| Series Wrap on Suit-O | 22.00% | ~5,054 |
-| Lezduit! | 21.00% | ~4,825 |
+| Hardest Battle In The Game | 22.00% | ~5,055 |
+| Series Wrap on Suit-O | 22.00% | ~5,055 |
+| Lezduit! | 20.00% | ~4,595 |
 | Who's The Boss? | 20.00% | ~4,595 |
 | Spent 15 Hours At The Alien Strip Club | 20.00% | ~4,595 |
 | Self-Actualization | 19.00% | ~4,365 |
-| Legendary Bounty Hunter | 18.00% | ~4,135 |
+| Legendary Bounty Hunter | 18.00% | ~4,136 |
 | Seeing All The Sights | 16.00% | ~3,676 |
 | Carried Stan's Load To Completion | 13.00% | ~2,987 |
 | We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,757 |
 | Eatin' Good in the Neighborhood | 9.00% | ~2,068 |
 | Sequel-Bait | 8.00% | ~1,838 |
 | Gunning For Your Job | 7.00% | ~1,608 |
-| Playing Favorites | 6.00% | ~1,378 |
+| Playing Favorites | 6.00% | ~1,379 |
 | Epic Legendary Prize | 1.00% | ~230 |
 | A Starfish Is Born | 1.00% | ~230 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,974 (Ranked 99)  
+Progressed: 22,976 (Ranked 99)  
 Completed: 8 (0.03%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 8 (0.03%) (Ranked 209)
 | 2023-07-05 | 22,965 | 8 |
 | 2023-07-06 | 22,969 | 8 |
 | 2023-07-07 | 22,973 | 8 |
-| 2023-07-08 | 22,974 | 8 |
+| 2023-07-08 | 22,976 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

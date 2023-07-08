@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 116,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -2550,18 +2550,24 @@
       "Rating": 4.78,
       "NumberOfAwards": 6466,
       "NumberOfAwardsMax": 2343
+    },
+    {
+      "Time": "2023-07-08T02:24:49.7741324+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6467,
+      "NumberOfAwardsMax": 2344
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6466,
-  "NumberOfAwardsMax": 2343,
+  "NumberOfAwards": 6467,
+  "NumberOfAwardsMax": 2344,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2343
+      "Count": 2344
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2630,9 +2636,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 49832,
+  "EOS_Progressed": 49833,
   "EOS_Completed": 203,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -8655,6 +8661,11 @@
       "Time": "2023-07-07T18:02:01.1703663+00:00",
       "NumProgressed": 49832,
       "NumCompleted": 203
+    },
+    {
+      "Time": "2023-07-08T02:25:26.8209729+00:00",
+      "NumProgressed": 49833,
+      "NumCompleted": 203
     }
   ],
   "TotalAchievements": 45,
@@ -8690,7 +8701,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 39367
+      "UsersEstimate": 39368
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -8802,7 +8813,7 @@
       "Name": "A New Hope",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 23421
+      "UsersEstimate": 23422
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -8818,7 +8829,7 @@
       "Name": "Return of the Jedi",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 15946
+      "UsersEstimate": 15947
     },
     {
       "ID": "COMPLETE_EPISODE_7",
@@ -8826,7 +8837,7 @@
       "Name": "The Force Awakens",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 12956
+      "UsersEstimate": 12957
     },
     {
       "ID": "COMPLETE_EPISODE_8",
@@ -8858,7 +8869,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 28404
+      "UsersEstimate": 28405
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -8930,7 +8941,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 48337
+      "UsersEstimate": 48338
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -9018,22 +9029,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 35879
+      "UsersEstimate": 35880
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 49832,
+      "Progressed": 49833,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
-  "LastChanged": "2023-07-06T22:02:55.8029392+00:00",
-  "LastChanged_Achievements": "2023-07-08T00:02:04.4536033+00:00",
+  "LastChanged": "2023-07-08T02:24:49.7741322+00:00",
+  "LastChanged_Achievements": "2023-07-08T02:25:26.8209719+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:12.9319063+00:00",
-  "LastUpdate_Ratings": "2023-07-08T00:01:31.8247906+00:00",
-  "LastUpdate_Achievements": "2023-07-08T00:02:04.4536595+00:00"
+  "LastUpdate_Ratings": "2023-07-08T02:24:49.7741326+00:00",
+  "LastUpdate_Achievements": "2023-07-08T02:25:26.8211056+00:00"
 }

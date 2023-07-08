@@ -6,67 +6,67 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Healthy Obsession | 7.00% | ~45,504 |
-| Resurgence | 7.00% | ~45,504 |
-| Preemptive Strike | 6.00% | ~39,004 |
-| Humanitarian | 6.00% | ~39,004 |
-| Wounded Healer | 5.00% | ~32,503 |
-| Close Shave | 5.00% | ~32,503 |
-| First to the Punch | 4.00% | ~26,003 |
-| With Scars to Show | 4.00% | ~26,003 |
-| Flight to Freedom | 4.00% | ~26,003 |
-| Ancestor's Rite | 3.00% | ~19,502 |
-| Unforgettable Getaway | 3.00% | ~19,502 |
-| Cutting Out | 3.00% | ~19,502 |
-| Operation: Survival | 3.00% | ~19,502 |
-| Old West Oasis | 3.00% | ~19,502 |
-| Classy Act | 3.00% | ~19,502 |
-| Every Last Drop | 3.00% | ~19,502 |
-| Raccoon City Recruit | 3.00% | ~19,502 |
-| A Fast Death | 3.00% | ~19,502 |
-| Lifting The Fog | 3.00% | ~19,502 |
-| Chorus of Chaos | 3.00% | ~19,502 |
-| Devoted Gatekeeping | 2.00% | ~13,001 |
-| Shrine Apparatus | 2.00% | ~13,001 |
-| Outrun Evil | 2.00% | ~13,001 |
-| Broken Bodies | 2.00% | ~13,001 |
-| Grim Pilgrimage | 2.00% | ~13,001 |
-| Selfless Survival | 2.00% | ~13,001 |
-| I See You | 2.00% | ~13,001 |
-| End of Days | 2.00% | ~13,001 |
-| Insult and Injury | 2.00% | ~13,001 |
-| Outrun the Overlap | 2.00% | ~13,001 |
-| Rebuilding The Borgo | 2.00% | ~13,001 |
-| Heavy Burden | 1.00% | ~6,501 |
-| Death of Ignorance | 1.00% | ~6,501 |
-| Power Moves | 1.00% | ~6,501 |
-| Punch Drunk | 1.00% | ~6,501 |
-| Prowler | 1.00% | ~6,501 |
-| Triage | 1.00% | ~6,501 |
-| High Speed Pursuit | 1.00% | ~6,501 |
-| Hack the Mainframe | 1.00% | ~6,501 |
-| Deranged Pursuit | 0.70% | ~4,550 |
-| Denied! | 0.70% | ~4,550 |
-| Dismantle | 0.60% | ~3,900 |
-| Left For Dead | 0.60% | ~3,900 |
-| Bodyguard | 0.60% | ~3,900 |
-| Speed Kills | 0.60% | ~3,900 |
-| Rescue Mission | 0.60% | ~3,900 |
-| One Thousand Cuts | 0.60% | ~3,900 |
-| Ghost in the Machine | 0.60% | ~3,900 |
-| From the Deep | 0.60% | ~3,900 |
-| Silent Approach | 0.40% | ~2,600 |
-| Bound and Downed | 0.40% | ~2,600 |
-| Multi-tasker | 0.40% | ~2,600 |
-| Conniption | 0.30% | ~1,950 |
-| Terminal Illness | 0.30% | ~1,950 |
-| Totally Vulnerable | 0.30% | ~1,950 |
-| Tear Their Soul Apart | 0.30% | ~1,950 |
-| Viral Video | 0.30% | ~1,950 |
-| Bloodbath | 0.20% | ~1,300 |
-| Cleansed in Agony | 0.20% | ~1,300 |
-| Biological Weaponry | 0.20% | ~1,300 |
-| Fleet of Foot | 0.20% | ~1,300 |
+| Healthy Obsession | 7.00% | ~45,529 |
+| Resurgence | 7.00% | ~45,529 |
+| Preemptive Strike | 6.00% | ~39,025 |
+| Humanitarian | 6.00% | ~39,025 |
+| Wounded Healer | 5.00% | ~32,521 |
+| Close Shave | 5.00% | ~32,521 |
+| First to the Punch | 4.00% | ~26,017 |
+| With Scars to Show | 4.00% | ~26,017 |
+| Flight to Freedom | 4.00% | ~26,017 |
+| Ancestor's Rite | 3.00% | ~19,512 |
+| Unforgettable Getaway | 3.00% | ~19,512 |
+| Cutting Out | 3.00% | ~19,512 |
+| Operation: Survival | 3.00% | ~19,512 |
+| Old West Oasis | 3.00% | ~19,512 |
+| Classy Act | 3.00% | ~19,512 |
+| Every Last Drop | 3.00% | ~19,512 |
+| Raccoon City Recruit | 3.00% | ~19,512 |
+| A Fast Death | 3.00% | ~19,512 |
+| Lifting The Fog | 3.00% | ~19,512 |
+| Chorus of Chaos | 3.00% | ~19,512 |
+| Devoted Gatekeeping | 2.00% | ~13,008 |
+| Shrine Apparatus | 2.00% | ~13,008 |
+| Outrun Evil | 2.00% | ~13,008 |
+| Broken Bodies | 2.00% | ~13,008 |
+| Grim Pilgrimage | 2.00% | ~13,008 |
+| Selfless Survival | 2.00% | ~13,008 |
+| I See You | 2.00% | ~13,008 |
+| End of Days | 2.00% | ~13,008 |
+| Insult and Injury | 2.00% | ~13,008 |
+| Outrun the Overlap | 2.00% | ~13,008 |
+| Rebuilding The Borgo | 2.00% | ~13,008 |
+| Heavy Burden | 1.00% | ~6,504 |
+| Death of Ignorance | 1.00% | ~6,504 |
+| Power Moves | 1.00% | ~6,504 |
+| Punch Drunk | 1.00% | ~6,504 |
+| Prowler | 1.00% | ~6,504 |
+| Triage | 1.00% | ~6,504 |
+| High Speed Pursuit | 1.00% | ~6,504 |
+| Hack the Mainframe | 1.00% | ~6,504 |
+| Deranged Pursuit | 0.70% | ~4,553 |
+| Denied! | 0.70% | ~4,553 |
+| Dismantle | 0.60% | ~3,902 |
+| Left For Dead | 0.60% | ~3,902 |
+| Bodyguard | 0.60% | ~3,902 |
+| Speed Kills | 0.60% | ~3,902 |
+| Rescue Mission | 0.60% | ~3,902 |
+| One Thousand Cuts | 0.60% | ~3,902 |
+| Ghost in the Machine | 0.60% | ~3,902 |
+| From the Deep | 0.60% | ~3,902 |
+| Silent Approach | 0.40% | ~2,602 |
+| Bound and Downed | 0.40% | ~2,602 |
+| Multi-tasker | 0.40% | ~2,602 |
+| Conniption | 0.30% | ~1,951 |
+| Terminal Illness | 0.30% | ~1,951 |
+| Totally Vulnerable | 0.30% | ~1,951 |
+| Tear Their Soul Apart | 0.30% | ~1,951 |
+| Viral Video | 0.30% | ~1,951 |
+| Bloodbath | 0.20% | ~1,301 |
+| Cleansed in Agony | 0.20% | ~1,301 |
+| Biological Weaponry | 0.20% | ~1,301 |
+| Fleet of Foot | 0.20% | ~1,301 |
 | The Grand Sacrifice | 0.10% | ~650 |
 | A bite for the Entity | 0.10% | ~650 |
 | A feast for the Entity | 0.10% | ~650 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~650 |
 | Adept Gabriel | 0.10% | ~650 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 650,064 (Ranked 22)  
+Progressed: 650,416 (Ranked 22)  
 Completed: 42 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,10 +306,10 @@ Completed: 42 (0.01%) (Ranked 223)
 | 2023-07-05 | 642,620 | 42 |
 | 2023-07-06 | 645,977 | 42 |
 | 2023-07-07 | 649,888 | 42 |
-| 2023-07-08 | 650,064 | 42 |
+| 2023-07-08 | 650,416 | 42 |
 ## Awards
 Max (Diverse Characters): 29,658  (Ranked 15)  
-Sum: 235,306 (Ranked 12)  
+Sum: 235,344 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -321,7 +321,7 @@ Diff (max vs sum): 3
 | This game has Quickly Understood Controls | 26,293 |
 | This game has Challenging Combat | 25,779 |
 | This game has Amazing Storytelling | 24,239 |
-| This game has a Competitive Community | 22,438 |
+| This game has a Competitive Community | 22,476 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
 ## Ratings History
@@ -492,3 +492,4 @@ Diff (max vs sum): 3
 | 2023-07-05 | 4.52 | - | 29,578 | 234,707 |
 | 2023-07-06 | 4.52 | - | 29,615 | 235,008 |
 | 2023-07-07 | 4.52 | - | 29,658 | 235,306 |
+| 2023-07-08 | 4.52 | - | 29,658 | 235,344 |

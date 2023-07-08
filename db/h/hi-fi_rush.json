@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3419,
+  "EOS_Progressed": 3420,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4112,6 +4112,11 @@
       "Time": "2023-07-08T00:01:34.300816+00:00",
       "NumProgressed": 3419,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-08T02:24:53.3802216+00:00",
+      "NumProgressed": 3420,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 71,
@@ -4257,9 +4262,9 @@
       "ID": "Ach018",
       "SetID": "12n4k20",
       "Name": "Whoa! There\u0027s ANOTHER health bar!?",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 14
     },
     {
       "ID": "Ach019",
@@ -4297,9 +4302,9 @@
       "ID": "Ach023",
       "SetID": "12n4k20",
       "Name": "Feeling the beat!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "Ach024",
@@ -4313,9 +4318,9 @@
       "ID": "Ach025",
       "SetID": "12n4k20",
       "Name": "You got this, Peppermint?",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 14
     },
     {
       "ID": "Ach026",
@@ -4449,9 +4454,9 @@
       "ID": "Ach042",
       "SetID": "12n4k20",
       "Name": "I look cool. But I can look COOLER.",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "Ach043",
@@ -4609,9 +4614,9 @@
       "ID": "Ach062",
       "SetID": "b7dbjo0",
       "Name": "NOW we got a kickass hideout!",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "Ach063",
@@ -4665,17 +4670,17 @@
       "ID": "Ach069",
       "SetID": "b7dbjo0",
       "Name": "It was all for this",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "Ach070",
       "SetID": "b7dbjo0",
       "Name": "Voices from within",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "Ach071",
@@ -4690,13 +4695,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3419,
+      "Progressed": 3420,
       "Completed": 5
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 1940,
+      "Progressed": 1941,
       "Completed": 1927
     }
   ],
@@ -4704,8 +4709,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-08T00:01:34.3008155+00:00",
+  "LastChanged_Achievements": "2023-07-08T02:24:53.3802208+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:16.9967031+00:00",
-  "LastUpdate_Ratings": "2023-07-07T23:59:05.2945392+00:00",
-  "LastUpdate_Achievements": "2023-07-08T00:01:34.3009093+00:00"
+  "LastUpdate_Ratings": "2023-07-08T02:22:16.5050094+00:00",
+  "LastUpdate_Achievements": "2023-07-08T02:24:53.3803711+00:00"
 }
