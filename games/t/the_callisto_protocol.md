@@ -6,6 +6,7 @@ Rating: 4.19 (Ranked 845)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Get a Grip | 2.00% | ~313 |
+| Float Like A Butterfly | 2.00% | ~313 |
 | Paper Jams | 2.00% | ~313 |
 | Keep Fighting | 2.00% | ~72 |
 | It's Time | 2.00% | ~72 |
@@ -17,7 +18,6 @@ Rating: 4.19 (Ranked 845)
 | Chew 'Em Up | 1.00% | ~157 |
 | Terminated | 1.00% | ~157 |
 | Workplace Hazard | 1.00% | ~157 |
-| Float Like A Butterfly | 1.00% | ~157 |
 | Reforged | 1.00% | ~157 |
 | The Outer Way | 1.00% | ~157 |
 | If the SHU Fits... | 1.00% | ~157 |
@@ -133,13 +133,13 @@ Completed: 64 (0.41%) (Ranked 135)
 | 2023-07-07 | 15,660 | 64 |
 | 2023-07-08 | 15,661 | 64 |
 ## Awards
-Max (Amazing Storytelling): 64  (Ranked 379)  
-Sum: 372 (Ranked 318)  
+Max (Highly Recommended): 65  (Ranked 379)  
+Sum: 374 (Ranked 318)  
 Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
+| This game is Highly Recommended | 65 |
 | This game has Amazing Storytelling | 64 |
-| This game is Highly Recommended | 63 |
 | This game has Amazing Characters | 61 |
 | This game has Quickly Understood Controls | 59 |
 | This game is Extremely Fun | 53 |
@@ -234,4 +234,4 @@ Diff (max vs sum): 61
 | 2023-07-04 | 4.19 | 64 | 364 |
 | 2023-07-06 | 4.19 | 64 | 367 |
 | 2023-07-07 | 4.19 | 64 | 370 |
-| 2023-07-08 | 4.19 | 64 | 372 |
+| 2023-07-08 | 4.19 | 65 | 374 |

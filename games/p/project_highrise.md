@@ -8,28 +8,28 @@
 | Starting Skyward | 51.00% | ~117 |
 | Grime is Not Good | 45.00% | ~104 |
 | Campaign Launch | 40.00% | ~92 |
-| Floor Galore | 38.00% | ~87 |
+| Floor Galore | 39.00% | ~90 |
 | Dinner Dash | 38.00% | ~87 |
 | Need a Consult | 35.00% | ~80 |
 | It's Technical | 35.00% | ~80 |
 | Upgrade Unlock | 34.00% | ~78 |
 | Delegate Maintenance | 33.00% | ~76 |
 | Proper Walls | 31.00% | ~71 |
-| Destination Destiny | 28.00% | ~64 |
+| Destination Destiny | 29.00% | ~67 |
 | Happy Tenants | 26.00% | ~60 |
 | Your Prestige is Rising | 24.00% | ~55 |
+| Retail Revenue | 24.00% | ~55 |
 | Smooth Service | 24.00% | ~55 |
 | Potent Potables | 23.00% | ~53 |
-| Retail Revenue | 23.00% | ~53 |
 | Lux Living | 22.00% | ~51 |
-| People Mover | 21.00% | ~48 |
-| Leveled Up Shops | 21.00% | ~48 |
+| People Mover | 22.00% | ~51 |
+| Leveled Up Shops | 22.00% | ~51 |
+| Rehab Expert | 20.00% | ~46 |
 | Don't Feel a Loan | 20.00% | ~46 |
+| Tasty Profits | 20.00% | ~46 |
 | Emporium Empire | 20.00% | ~46 |
 | Get Electrified | 20.00% | ~46 |
 | Artfully Done | 19.00% | ~44 |
-| Rehab Expert | 19.00% | ~44 |
-| Tasty Profits | 19.00% | ~44 |
 | We Don't Need No Education | 19.00% | ~44 |
 | Under One Roof | 17.00% | ~39 |
 | Cashflow Chief | 17.00% | ~39 |

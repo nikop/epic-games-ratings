@@ -6,10 +6,10 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~20,243 |
-| Thorough | 9.00% | ~16,562 |
-| A thief's beginning | 8.00% | ~14,722 |
-| Tanuki Time | 8.00% | ~14,722 |
+| Genin | 11.00% | ~20,244 |
+| Thorough | 9.00% | ~16,563 |
+| A thief's beginning | 8.00% | ~14,723 |
+| Tanuki Time | 8.00% | ~14,723 |
 | Disguised | 7.00% | ~12,882 |
 | Rescue Takuma | 7.00% | ~12,882 |
 | Rollin' | 7.00% | ~12,882 |
@@ -18,10 +18,10 @@ Number of Ratings: 495  (23.09.2022)
 | Jonin | 6.00% | ~11,042 |
 | Stoned Ox | 6.00% | ~11,042 |
 | Yabu | 6.00% | ~11,042 |
-| Flying Rocks | 5.00% | ~9,201 |
-| Happy Planning | 5.00% | ~9,201 |
-| Mugen Unchained | 5.00% | ~9,201 |
-| Warzone | 5.00% | ~9,201 |
+| Flying Rocks | 5.00% | ~9,202 |
+| Happy Planning | 5.00% | ~9,202 |
+| Mugen Unchained | 5.00% | ~9,202 |
+| Warzone | 5.00% | ~9,202 |
 | Okkoto | 4.00% | ~7,361 |
 | Prisoners | 4.00% | ~7,361 |
 | Too Early | 4.00% | ~7,361 |
@@ -30,11 +30,11 @@ Number of Ratings: 495  (23.09.2022)
 | Noboru | 3.00% | ~5,521 |
 | Still Rollin' | 3.00% | ~5,521 |
 | Stoned | 3.00% | ~5,521 |
-| Atheist Ox | 2.00% | ~3,680 |
-| It's raining men | 2.00% | ~3,680 |
-| Old Man | 2.00% | ~3,680 |
-| The Old Way | 2.00% | ~3,680 |
-| Winner Winner | 2.00% | ~3,680 |
+| Atheist Ox | 2.00% | ~3,681 |
+| It's raining men | 2.00% | ~3,681 |
+| Old Man | 2.00% | ~3,681 |
+| The Old Way | 2.00% | ~3,681 |
+| Winner Winner | 2.00% | ~3,681 |
 | Meticulous | 1.00% | ~1,840 |
 | No Gimmicks | 1.00% | ~1,840 |
 | The End | 1.00% | ~1,840 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~184 |
 | Release the Kraken | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 184,025 (Ranked 57)  
+Progressed: 184,034 (Ranked 57)  
 Completed: 56 (0.03%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 56 (0.03%) (Ranked 209)
 | 2023-07-05 | 183,423 | 56 |
 | 2023-07-06 | 183,647 | 56 |
 | 2023-07-07 | 183,884 | 56 |
-| 2023-07-08 | 184,025 | 56 |
+| 2023-07-08 | 184,034 | 56 |
 ## Awards
 Max (Great for Beginners): 554  (Ranked 182)  
 Sum: 4,697 (Ranked 131)  

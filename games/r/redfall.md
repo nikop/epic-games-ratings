@@ -25,7 +25,7 @@ Rating: 3.55 (Ranked 947)
 | I Spit On Your Grave | 19.00% | ~325 |
 | Neighborhood Revitalization | 16.00% | ~274 |
 | Radio Silence | 16.00% | ~274 |
-| Helping Hand | 12.00% | ~205 |
+| Helping Hand | 13.00% | ~222 |
 | You Clean It Up | 11.00% | ~188 |
 | Block Party | 8.00% | ~137 |
 | Starve the Beast | 8.00% | ~137 |

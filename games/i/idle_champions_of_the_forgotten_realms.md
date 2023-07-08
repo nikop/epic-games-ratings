@@ -6,33 +6,33 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,276 |
-| The Mad Wizard | 11.00% | ~22,936 |
-| The Ring of Regeneration | 7.00% | ~14,595 |
-| Are Ya Chicken? | 7.00% | ~14,595 |
-| Were-verpowered | 5.00% | ~10,425 |
-| Seeking Allies | 5.00% | ~10,425 |
-| Mad Cow Disease | 5.00% | ~10,425 |
-| Friendly Imps | 5.00% | ~10,425 |
-| A Persistent Buzzing | 4.00% | ~8,340 |
-| Pure Energy | 4.00% | ~8,340 |
-| Beast Mode | 3.00% | ~6,255 |
-| Terror in the Dark | 3.00% | ~6,255 |
-| Unearthed Evil | 3.00% | ~6,255 |
-| The Crumbling Temple | 3.00% | ~6,255 |
-| Exploring Port Nyanzaru | 3.00% | ~6,255 |
-| The Contagious Curse | 3.00% | ~6,255 |
-| Low Initiative | 2.00% | ~4,170 |
-| A Mysterious Summons | 2.00% | ~4,170 |
-| Building Trust | 2.00% | ~4,170 |
-| No Time To Rest | 2.00% | ~4,170 |
-| Useless Allies | 2.00% | ~4,170 |
-| Running of the Saurs | 2.00% | ~4,170 |
-| Escort to Waterdeep | 2.00% | ~4,170 |
-| Waterdeep Detours | 2.00% | ~4,170 |
-| Underdeep Cartography | 2.00% | ~4,170 |
-| Overdue Rendezvous | 2.00% | ~4,170 |
-| The Templar's Camp | 2.00% | ~4,170 |
+| The Cursed Farmer | 15.00% | ~31,279 |
+| The Mad Wizard | 11.00% | ~22,938 |
+| The Ring of Regeneration | 7.00% | ~14,597 |
+| Are Ya Chicken? | 7.00% | ~14,597 |
+| Were-verpowered | 5.00% | ~10,426 |
+| Seeking Allies | 5.00% | ~10,426 |
+| Mad Cow Disease | 5.00% | ~10,426 |
+| Friendly Imps | 5.00% | ~10,426 |
+| A Persistent Buzzing | 4.00% | ~8,341 |
+| Pure Energy | 4.00% | ~8,341 |
+| Beast Mode | 3.00% | ~6,256 |
+| Terror in the Dark | 3.00% | ~6,256 |
+| Unearthed Evil | 3.00% | ~6,256 |
+| The Crumbling Temple | 3.00% | ~6,256 |
+| Exploring Port Nyanzaru | 3.00% | ~6,256 |
+| The Contagious Curse | 3.00% | ~6,256 |
+| Low Initiative | 2.00% | ~4,171 |
+| A Mysterious Summons | 2.00% | ~4,171 |
+| Building Trust | 2.00% | ~4,171 |
+| No Time To Rest | 2.00% | ~4,171 |
+| Useless Allies | 2.00% | ~4,171 |
+| Running of the Saurs | 2.00% | ~4,171 |
+| Escort to Waterdeep | 2.00% | ~4,171 |
+| Waterdeep Detours | 2.00% | ~4,171 |
+| Underdeep Cartography | 2.00% | ~4,171 |
+| Overdue Rendezvous | 2.00% | ~4,171 |
+| The Templar's Camp | 2.00% | ~4,171 |
 | Homecoming | 1.00% | ~2,085 |
 | Street War | 1.00% | ~2,085 |
 | March of the Undead | 1.00% | ~2,085 |
@@ -64,7 +64,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nimble Escape | 0.70% | ~1,460 |
 | Fugitives | 0.70% | ~1,460 |
 | The Darkness Runs Deeper | 0.70% | ~1,460 |
-| The Giant's Bane Tavern | 0.70% | ~1,223 |
+| The Giant's Bane Tavern | 0.70% | ~1,224 |
 | Rude Welcome | 0.70% | ~1,460 |
 | Durable Deep | 0.70% | ~1,460 |
 | The Haunted Jungle | 0.70% | ~1,460 |
@@ -136,6 +136,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Stumbling Escape | 0.30% | ~626 |
 | From The Shadows | 0.30% | ~626 |
 | Spined Nuisances | 0.30% | ~626 |
+| Bazaar Exploits | 0.30% | ~626 |
 | Elder Rune Madness | 0.30% | ~626 |
 | Who Lurks in Lurkwood | 0.30% | ~626 |
 | Orcs Are Wild | 0.30% | ~626 |
@@ -183,6 +184,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Visions of Strahd | 0.20% | ~417 |
 | Seeds of Corruption | 0.20% | ~417 |
 | Home Not So Alone | 0.20% | ~350 |
+| Review by the Blackstaff | 0.20% | ~350 |
 | Think Your Way Out Of It | 0.20% | ~417 |
 | Air's Getting Pretty Thin | 0.20% | ~417 |
 | The Killer Mists | 0.20% | ~417 |
@@ -193,7 +195,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Frantic Excavation | 0.20% | ~417 |
 | Guests of the Groom | 0.20% | ~417 |
 | Careful Consideration | 0.20% | ~417 |
-| Bazaar Exploits | 0.20% | ~417 |
 | Flame(skull) War | 0.20% | ~417 |
 | The Madness Grows | 0.20% | ~417 |
 | Bullywugs in the Bog | 0.20% | ~417 |
@@ -289,7 +290,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Distribute Your Weight | 0.10% | ~209 |
 | Mongrelfolk Incursion | 0.10% | ~175 |
 | The Strahd Squad | 0.10% | ~175 |
-| Review by the Blackstaff | 0.10% | ~175 |
 | Red Wizard 'Escort' | 0.10% | ~175 |
 | Spirit of the Trickster Gods | 0.10% | ~175 |
 | A Nod from Strahd | 0.10% | ~175 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,506 (Ranked 52)  
+Progressed: 208,528 (Ranked 52)  
 Completed: 2,040 (0.98%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -589,7 +589,7 @@ Completed: 2,040 (0.98%) (Ranked 102)
 | 2023-07-05 | 206,889 | 2,032 |
 | 2023-07-06 | 207,486 | 2,035 |
 | 2023-07-07 | 208,152 | 2,037 |
-| 2023-07-08 | 208,506 | 2,040 |
+| 2023-07-08 | 208,528 | 2,040 |
 ## Awards
 Max (Diverse Characters): 5,013  (Ranked 65)  
 Sum: 30,445 (Ranked 37)  

@@ -238,7 +238,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 33194,
+  "EOS_Progressed": 33196,
   "EOS_Completed": 103,
   "EOS_NewPlayers": 319,
   "EOS_NewCompleters": 1,
@@ -7298,6 +7298,11 @@
       "Time": "2023-07-08T13:16:35.0451453+00:00",
       "NumProgressed": 33194,
       "NumCompleted": 103
+    },
+    {
+      "Time": "2023-07-08T14:04:07.5557903+00:00",
+      "NumProgressed": 33196,
+      "NumCompleted": 103
     }
   ],
   "TotalAchievements": 14,
@@ -7325,7 +7330,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 8630
+      "UsersEstimate": 8631
     },
     {
       "ID": "allItems",
@@ -7357,7 +7362,7 @@
       "Name": "Joseph",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2987
+      "UsersEstimate": 2988
     },
     {
       "ID": "completionist",
@@ -7389,7 +7394,7 @@
       "Name": "Hare Today",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 8298
+      "UsersEstimate": 8299
     },
     {
       "ID": "firstItem",
@@ -7397,7 +7402,7 @@
       "Name": "Two Worlds",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 25891
+      "UsersEstimate": 25893
     },
     {
       "ID": "roots",
@@ -7420,15 +7425,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 33194,
+      "Progressed": 33196,
       "Completed": 103
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-06-14T02:10:18.2883541+00:00",
-  "LastChanged_Achievements": "2023-07-08T13:16:35.0451448+00:00",
+  "LastChanged_Achievements": "2023-07-08T14:04:07.5557897+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:44.7737855+00:00",
-  "LastUpdate_Ratings": "2023-07-08T13:13:09.3101252+00:00",
-  "LastUpdate_Achievements": "2023-07-08T13:16:35.045197+00:00"
+  "LastUpdate_Ratings": "2023-07-08T14:01:01.026162+00:00",
+  "LastUpdate_Achievements": "2023-07-08T14:04:07.55584+00:00"
 }

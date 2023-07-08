@@ -6,7 +6,9 @@ Rating: 4.61 (Ranked 361)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 3.00% | ~148 |
+| Magical Synergy | 3.00% | ~148 |
 | Tipping the Scales | 3.00% | ~148 |
+| Blood of the Dragon | 3.00% | ~148 |
 | Mighty Hoard | 3.00% | ~148 |
 | There Can Only Be One! | 2.00% | ~99 |
 | Full Ascension | 2.00% | ~99 |
@@ -16,14 +18,14 @@ Rating: 4.61 (Ranked 361)
 | Bone Peddler | 2.00% | ~99 |
 | From Friends to Family | 2.00% | ~99 |
 | Stronger Together | 2.00% | ~99 |
-| Magical Synergy | 2.00% | ~99 |
 | My Final Form | 2.00% | ~99 |
 | Seat of Power | 2.00% | ~99 |
+| In a Liege of Your Own | 2.00% | ~99 |
 | Fiery Friend | 2.00% | ~99 |
+| Against the Odds | 2.00% | ~99 |
 | Impenetrable Fortress | 2.00% | ~99 |
 | Intimidation Tactics | 2.00% | ~99 |
 | Here be Dragons | 2.00% | ~99 |
-| Blood of the Dragon | 2.00% | ~99 |
 | Valley of Wonders | 1.00% | ~49 |
 | The Magic That Empowers Me! | 1.00% | ~49 |
 | Return of the Wizard King | 1.00% | ~49 |
@@ -33,14 +35,12 @@ Rating: 4.61 (Ranked 361)
 | The Goddess of Nature | 1.00% | ~49 |
 | Digging for Treasure | 1.00% | ~49 |
 | Preparation Is Everything | 1.00% | ~49 |
-| In a Liege of Your Own | 1.00% | ~49 |
-| Against the Odds | 1.00% | ~49 |
 | Duality | 1.00% | ~49 |
 | God Emperor | 0.90% | ~45 |
 | Eternal Lord | 0.90% | ~45 |
 | The Eternal Court | 0.90% | ~45 |
 | Lord of Chaos | 0.80% | ~40 |
-| Crimson Caldera | 0.70% | ~35 |
+| Crimson Caldera | 0.80% | ~40 |
 | Jack of All Tomes | 0.70% | ~35 |
 | Grexolis | 0.60% | ~30 |
 | One for All, All for One | 0.60% | ~30 |

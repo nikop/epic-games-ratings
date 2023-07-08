@@ -6,9 +6,9 @@
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 48,
-  "Ranking_EOS_Completed": 215,
+  "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 226680,
+  "EOS_Progressed": 226682,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 574,
+  "EOS_NewPlayers": 570,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -8428,6 +8428,11 @@
       "Time": "2023-07-08T13:19:24.6763795+00:00",
       "NumProgressed": 226680,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-07-08T14:06:48.2648836+00:00",
+      "NumProgressed": 226682,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 34,
@@ -8455,7 +8460,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 63470
+      "UsersEstimate": 63471
     },
     {
       "ID": "CENTAUR",
@@ -8463,7 +8468,7 @@
       "Name": "CENTAUR",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 18134
+      "UsersEstimate": 18135
     },
     {
       "ID": "CHALLENGER",
@@ -8503,7 +8508,7 @@
       "Name": "FASTER THAN EVER",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 18134
+      "UsersEstimate": 18135
     },
     {
       "ID": "FLAWLESS",
@@ -8703,22 +8708,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 92939
+      "UsersEstimate": 92940
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 226680,
+      "Progressed": 226682,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-07-08T13:19:24.6763792+00:00",
+  "LastChanged_Achievements": "2023-07-08T14:06:48.2648828+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:56.9727616+00:00",
-  "LastUpdate_Ratings": "2023-07-08T13:10:57.7206711+00:00",
-  "LastUpdate_Achievements": "2023-07-08T13:19:24.6764542+00:00"
+  "LastUpdate_Ratings": "2023-07-08T13:58:46.965198+00:00",
+  "LastUpdate_Achievements": "2023-07-08T14:06:48.2649762+00:00"
 }

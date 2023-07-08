@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 241,
+  "EOS_Progressed": 242,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -686,6 +686,11 @@
       "Time": "2023-07-08T13:15:46.9746403+00:00",
       "NumProgressed": 241,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-08T14:03:19.1630662+00:00",
+      "NumProgressed": 242,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -721,7 +726,7 @@
       "Name": "Expensive Plane",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "BudgetFlight",
@@ -729,7 +734,7 @@
       "Name": "Budget Flight",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "Calculated",
@@ -855,9 +860,9 @@
       "ID": "LinearNetwork",
       "SetID": "1e89b4i",
       "Name": "Linear Network",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "LongDistance",
@@ -897,7 +902,7 @@
       "Name": "New Record",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "NoTimeForModernization",
@@ -911,9 +916,9 @@
       "ID": "NoWayBack",
       "SetID": "1e89b4i",
       "Name": "No Way Back",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 63
     },
     {
       "ID": "NotPlanned",
@@ -969,7 +974,7 @@
       "Name": "Resource Economy",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "Restructuring",
@@ -1009,7 +1014,7 @@
       "Name": "Ten!",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "TimeForManagement",
@@ -1025,21 +1030,21 @@
       "Name": "Transport Hub",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 241,
+      "Progressed": 242,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-07-08T13:15:46.9746398+00:00",
+  "LastChanged_Achievements": "2023-07-08T14:03:19.1630655+00:00",
   "LastUpdate_AppInfo": "2023-07-04T07:57:07.1618856+00:00",
-  "LastUpdate_Ratings": "2023-07-08T13:09:21.066727+00:00",
-  "LastUpdate_Achievements": "2023-07-08T13:15:46.9746766+00:00"
+  "LastUpdate_Ratings": "2023-07-08T13:57:12.2662445+00:00",
+  "LastUpdate_Achievements": "2023-07-08T14:03:19.1631044+00:00"
 }

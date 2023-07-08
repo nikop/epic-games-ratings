@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -2516,9 +2516,9 @@
       "ID": "Achievement_063",
       "SetID": "6b34g18",
       "Name": "Helping Hand",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 205
+      "UsersEstimate": 222
     },
     {
       "ID": "Achievement_064",
@@ -2589,8 +2589,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-07-07T14:57:51.7168375+00:00",
-  "LastChanged_Achievements": "2023-07-08T13:16:17.3458663+00:00",
+  "LastChanged_Achievements": "2023-07-08T14:03:49.884452+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:17.7438623+00:00",
-  "LastUpdate_Ratings": "2023-07-08T13:10:23.5618429+00:00",
-  "LastUpdate_Achievements": "2023-07-08T13:16:17.3459534+00:00"
+  "LastUpdate_Ratings": "2023-07-08T13:58:16.2367971+00:00",
+  "LastUpdate_Achievements": "2023-07-08T14:03:49.8845374+00:00"
 }

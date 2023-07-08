@@ -19,7 +19,7 @@ Number of Ratings: 86  (23.09.2022)
 | Road Pals | 0.00% | ~0 |
 | Stone After Stone | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 437)  
+Progressed: 2 (Ranked 438)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |

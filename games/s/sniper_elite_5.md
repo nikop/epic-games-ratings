@@ -34,19 +34,19 @@ Rating: 4.45 (Ranked 621)
 | Enemy at the Gates | 0.70% | ~23 |
 | Skirmisher | 0.70% | ~23 |
 | Fields of Glory | 0.60% | ~19 |
+| Just a Flesh Wound | 0.60% | ~19 |
 | The Long Game | 0.60% | ~19 |
 | Die Nussknacker Sweet! | 0.60% | ~19 |
 | Tinkerer | 0.60% | ~19 |
-| Just a Flesh Wound | 0.50% | ~16 |
 | Rigged to Blow | 0.50% | ~16 |
 | Strategist | 0.40% | ~13 |
 | From Paris with Love | 0.40% | ~13 |
+| Burn after reading | 0.40% | ~13 |
+| Souvenir hunter | 0.40% | ~13 |
 | Don't hold your breath | 0.40% | ~13 |
 | Herr Today, Gone Tomorrow | 0.40% | ~13 |
 | Siegebreaker | 0.40% | ~13 |
 | Ghost of Falaise | 0.40% | ~13 |
-| Burn after reading | 0.30% | ~10 |
-| Souvenir hunter | 0.30% | ~10 |
 | Eagle Eyed | 0.30% | ~10 |
 | It'll Buff Right Out | 0.30% | ~10 |
 | Road Rage | 0.30% | ~10 |

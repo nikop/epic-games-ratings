@@ -4,11 +4,11 @@
   "ProductSlug": "far-cry-6",
   "Ranking_Rating": 621,
   "Ranking_Popularity": 156,
-  "Ranking_PopularitySum": 119,
+  "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-11-29T15:00:00+00:00",
     "PcReleaseDate": "2021-10-07T04:00:00+00:00",
@@ -5246,12 +5246,18 @@
       "Rating": 4.45,
       "NumberOfAwards": 5953,
       "NumberOfAwardsMax": 762
+    },
+    {
+      "Time": "2023-07-08T14:00:10.817487+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 5957,
+      "NumberOfAwardsMax": 763
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5953,
-  "NumberOfAwardsMax": 762,
-  "MaxAwardTitle": "Amazing Storytelling",
+  "NumberOfAwards": 5957,
+  "NumberOfAwardsMax": 763,
+  "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game has Amazing Characters",
@@ -5269,7 +5275,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 759
+      "Count": 763
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5319,8 +5325,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:07.3905482+00:00",
-  "LastChanged": "2023-07-08T13:12:18.1845296+00:00",
+  "LastChanged": "2023-07-08T14:00:10.8174868+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:40.5349198+00:00",
-  "LastUpdate_Ratings": "2023-07-08T13:12:18.1845308+00:00",
-  "LastUpdate_Achievements": "2023-07-08T13:18:47.4066186+00:00"
+  "LastUpdate_Ratings": "2023-07-08T14:00:10.8174878+00:00",
+  "LastUpdate_Achievements": "2023-07-08T14:06:12.5120274+00:00"
 }

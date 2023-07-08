@@ -6,9 +6,9 @@
   "Ranking_Popularity": 339,
   "Ranking_PopularitySum": 276,
   "Ranking_EOS_Progress": 141,
-  "Ranking_EOS_Completed": 209,
+  "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1002,11 +1002,11 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3999,
+  "EOS_Progressed": 4000,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.03,
+  "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:49.7267644+00:00",
@@ -5737,6 +5737,11 @@
       "Time": "2023-07-08T13:17:26.7436302+00:00",
       "NumProgressed": 3999,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-08T14:04:58.7735895+00:00",
+      "NumProgressed": 4000,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -5908,7 +5913,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3039
+      "UsersEstimate": 3040
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -5978,9 +5983,9 @@
       "ID": "ACH_SURVIVOR",
       "SetID": "1p8ab95",
       "Name": "Survivor",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_TEAMPLAYER",
@@ -6067,15 +6072,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3999,
+      "Progressed": 4000,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-07T22:01:17.7826149+00:00",
-  "LastChanged_Achievements": "2023-07-08T13:17:26.7436297+00:00",
+  "LastChanged_Achievements": "2023-07-08T14:04:58.773589+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:41.4762855+00:00",
-  "LastUpdate_Ratings": "2023-07-08T13:13:05.9782914+00:00",
-  "LastUpdate_Achievements": "2023-07-08T13:17:26.7436875+00:00"
+  "LastUpdate_Ratings": "2023-07-08T14:00:58.0095674+00:00",
+  "LastUpdate_Achievements": "2023-07-08T14:04:58.7736467+00:00"
 }
