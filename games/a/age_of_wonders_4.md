@@ -25,6 +25,7 @@ Rating: 4.61 (Ranked 361)
 | Here be Dragons | 2.00% | ~99 |
 | Blood of the Dragon | 2.00% | ~99 |
 | Valley of Wonders | 1.00% | ~49 |
+| The Magic That Empowers Me! | 1.00% | ~49 |
 | Return of the Wizard King | 1.00% | ~49 |
 | Arch Mage | 1.00% | ~49 |
 | The Creator | 1.00% | ~49 |
@@ -35,10 +36,9 @@ Rating: 4.61 (Ranked 361)
 | In a Liege of Your Own | 1.00% | ~49 |
 | Against the Odds | 1.00% | ~49 |
 | Duality | 1.00% | ~49 |
-| The Magic That Empowers Me! | 0.90% | ~44 |
-| God Emperor | 0.90% | ~44 |
-| Eternal Lord | 0.90% | ~44 |
-| The Eternal Court | 0.90% | ~44 |
+| God Emperor | 0.90% | ~45 |
+| Eternal Lord | 0.90% | ~45 |
+| The Eternal Court | 0.90% | ~45 |
 | Lord of Chaos | 0.80% | ~40 |
 | Crimson Caldera | 0.70% | ~35 |
 | Jack of All Tomes | 0.70% | ~35 |
@@ -56,7 +56,7 @@ Rating: 4.61 (Ranked 361)
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,944 (Ranked 135)  
+Progressed: 4,945 (Ranked 135)  
 Completed: 5 (0.10%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 5 (0.10%) (Ranked 183)
 | 2023-07-05 | 4,926 | 5 |
 | 2023-07-06 | 4,933 | 5 |
 | 2023-07-07 | 4,937 | 5 |
-| 2023-07-08 | 4,944 | 5 |
+| 2023-07-08 | 4,945 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,40 +6,40 @@ Number of Ratings: 1,919  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Manifestation of the Soul | 97.00% | ~76,625 |
-| No Escape | 86.00% | ~67,936 |
-| Seeker of Power | 85.00% | ~67,146 |
-| Hopes and Dreams | 82.00% | ~64,776 |
-| Lantern Smasher | 78.00% | ~61,616 |
-| The Pirate's Way | 74.00% | ~58,456 |
-| Dark Crystal, Warrior's Heart | 71.00% | ~56,086 |
-| The King of the Dark Elves | 68.00% | ~53,717 |
-| Memories of the Distant Past | 66.00% | ~52,137 |
-| Distortion's Progeny | 63.00% | ~49,767 |
-| Savant | 62.00% | ~48,977 |
-| A Landscape of Memory | 58.00% | ~45,817 |
-| The Wind's Light | 54.00% | ~42,657 |
-| Vague Remembrances | 49.00% | ~38,708 |
-| The Fire's Light | 47.00% | ~37,128 |
-| Phantom Memories | 47.00% | ~37,128 |
-| Imbued Memories | 47.00% | ~37,128 |
-| The Earth's Light | 45.00% | ~35,548 |
-| Shared Recollections | 42.00% | ~33,178 |
-| The Water's Light | 40.00% | ~31,598 |
-| Path of the Sage | 40.00% | ~31,598 |
-| Malice Takes Root | 37.00% | ~29,228 |
-| Path of the Dark Knight | 37.00% | ~29,228 |
-| Path of the Paladin | 37.00% | ~29,228 |
-| Path of the Breaker | 37.00% | ~29,228 |
-| Duty's Course | 36.00% | ~28,438 |
-| Path of the Liberator | 35.00% | ~27,648 |
-| Path of the Tyrant | 35.00% | ~27,648 |
-| Led by the Nose | 34.00% | ~26,858 |
-| Path of the Void Knight | 34.00% | ~26,858 |
-| Path of the Ninja | 33.00% | ~26,068 |
-| Terminus of Fate | 32.00% | ~25,278 |
-| Path of the Assassin | 32.00% | ~25,278 |
-| His Name Is Garland | 32.00% | ~25,278 |
+| Manifestation of the Soul | 97.00% | ~76,627 |
+| No Escape | 86.00% | ~67,937 |
+| Seeker of Power | 85.00% | ~67,147 |
+| Hopes and Dreams | 82.00% | ~64,778 |
+| Lantern Smasher | 78.00% | ~61,618 |
+| The Pirate's Way | 74.00% | ~58,458 |
+| Dark Crystal, Warrior's Heart | 71.00% | ~56,088 |
+| The King of the Dark Elves | 68.00% | ~53,718 |
+| Memories of the Distant Past | 66.00% | ~52,138 |
+| Distortion's Progeny | 63.00% | ~49,768 |
+| Savant | 62.00% | ~48,978 |
+| A Landscape of Memory | 58.00% | ~45,818 |
+| The Wind's Light | 54.00% | ~42,658 |
+| Vague Remembrances | 49.00% | ~38,709 |
+| The Fire's Light | 47.00% | ~37,129 |
+| Phantom Memories | 47.00% | ~37,129 |
+| Imbued Memories | 47.00% | ~37,129 |
+| The Earth's Light | 45.00% | ~35,549 |
+| Shared Recollections | 42.00% | ~33,179 |
+| The Water's Light | 40.00% | ~31,599 |
+| Path of the Sage | 40.00% | ~31,599 |
+| Malice Takes Root | 37.00% | ~29,229 |
+| Path of the Dark Knight | 37.00% | ~29,229 |
+| Path of the Paladin | 37.00% | ~29,229 |
+| Path of the Breaker | 37.00% | ~29,229 |
+| Duty's Course | 36.00% | ~28,439 |
+| Path of the Liberator | 35.00% | ~27,649 |
+| Path of the Tyrant | 35.00% | ~27,649 |
+| Led by the Nose | 34.00% | ~26,859 |
+| Path of the Void Knight | 34.00% | ~26,859 |
+| Path of the Ninja | 33.00% | ~26,069 |
+| Terminus of Fate | 32.00% | ~25,279 |
+| Path of the Assassin | 32.00% | ~25,279 |
+| His Name Is Garland | 32.00% | ~25,279 |
 | Seeker of Ultimate Power | 23.00% | ~18,169 |
 | Artifact Collector | 22.00% | ~17,379 |
 | Polymath | 22.00% | ~17,379 |
@@ -47,13 +47,13 @@ Number of Ratings: 1,919  (23.09.2022)
 | Origin of True Chaos | 20.00% | ~15,799 |
 | Master's Awakening | 19.00% | ~15,009 |
 | Jack-of-All-Trades | 19.00% | ~15,009 |
-| Cycle of Darkness | 16.00% | ~12,639 |
+| Cycle of Darkness | 16.00% | ~12,640 |
 | Job Master | 8.00% | ~6,320 |
 | Crest Bearer | 7.00% | ~5,530 |
 | Strangers' Memories | 3.00% | ~2,370 |
 | A Tale of Origins and Endings | 2.00% | ~1,580 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78,995 (Ranked 68)  
+Progressed: 78,997 (Ranked 68)  
 Completed: 2,147 (2.72%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 2,147 (2.72%) (Ranked 64)
 | 2023-07-05 | 78,959 | 2,147 |
 | 2023-07-06 | 78,974 | 2,147 |
 | 2023-07-07 | 78,989 | 2,147 |
-| 2023-07-08 | 78,995 | 2,147 |
+| 2023-07-08 | 78,997 | 2,147 |
 ## Awards
 Max (Character Customization): 1,024  (Ranked 141)  
 Sum: 2,581 (Ranked 172)  

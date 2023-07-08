@@ -6,6 +6,7 @@
 | ---- | ---------- | ----- |
 | Complete 25 levels | 6.00% | ~2 |
 | Switch off the light | 6.00% | ~2 |
+| Fast 6x6 | 3.00% | ~1 |
 | Complete 50 levels | 3.00% | ~1 |
 | Complete 100 levels | 3.00% | ~1 |
 | Complete 25 6x6 levels | 3.00% | ~1 |
@@ -17,7 +18,6 @@
 | Addicted for 10 Days | 0.00% | ~0 |
 | Complete the Pack: Earth | 0.00% | ~0 |
 | Complete a Daily Pack | 0.00% | ~0 |
-| Fast 6x6 | 0.00% | ~0 |
 | Fast 7x7 | 0.00% | ~0 |
 | Fast 8x8 | 0.00% | ~0 |
 | Fast 9x9 | 0.00% | ~0 |

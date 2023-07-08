@@ -5,21 +5,21 @@ Rating: 4.46 (Ranked 604)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 74.00% | ~1,105 |
-| A new Journey | 73.00% | ~1,090 |
-| Departure | 72.00% | ~1,075 |
-| From X to Y | 71.00% | ~1,060 |
-| Way of Iron | 70.00% | ~1,045 |
-| Mystery Tour | 68.00% | ~1,015 |
-| We brake for nobody | 66.00% | ~985 |
-| Brainstorm | 65.00% | ~970 |
-| Travel Company | 65.00% | ~970 |
+| Country Bumpkin | 74.00% | ~1,106 |
+| A new Journey | 73.00% | ~1,091 |
+| Departure | 72.00% | ~1,076 |
+| From X to Y | 71.00% | ~1,061 |
+| Way of Iron | 70.00% | ~1,046 |
+| Mystery Tour | 68.00% | ~1,016 |
+| We brake for nobody | 66.00% | ~986 |
+| Brainstorm | 65.00% | ~971 |
+| Travel Company | 65.00% | ~971 |
 | Mind the Gap | 64.00% | ~956 |
 | All around the World | 62.00% | ~926 |
-| Right through the middle | 57.00% | ~851 |
-| Facility Manager | 54.00% | ~806 |
-| Poor Devil | 54.00% | ~806 |
-| Producer | 51.00% | ~761 |
+| Right through the middle | 57.00% | ~852 |
+| Facility Manager | 54.00% | ~807 |
+| Poor Devil | 54.00% | ~807 |
+| Producer | 51.00% | ~762 |
 | Apprentice | 42.00% | ~627 |
 | Bridge Builder | 42.00% | ~627 |
 | Access granted | 35.00% | ~523 |
@@ -33,8 +33,8 @@ Rating: 4.46 (Ranked 604)
 | Socializer | 27.00% | ~403 |
 | General Manager | 26.00% | ~388 |
 | Country Life | 26.00% | ~388 |
-| Hostile Takeover | 25.00% | ~373 |
-| Seven at one stroke | 24.00% | ~358 |
+| Hostile Takeover | 25.00% | ~374 |
+| Seven at one stroke | 24.00% | ~359 |
 | Trailblazer | 20.00% | ~299 |
 | Breaking Ground | 20.00% | ~299 |
 | Traffic Junction | 19.00% | ~284 |
@@ -61,7 +61,7 @@ Rating: 4.46 (Ranked 604)
 | United States | 0.30% | ~4 |
 | Three Cheers for Progress | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,493 (Ranked 170)  
+Progressed: 1,494 (Ranked 170)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-05 | 1,474 | 0 |
 | 2023-07-06 | 1,482 | 0 |
 | 2023-07-07 | 1,487 | 0 |
-| 2023-07-08 | 1,493 | 0 |
+| 2023-07-08 | 1,494 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

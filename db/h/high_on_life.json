@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -214,9 +214,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22976,
+  "EOS_Progressed": 22977,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -2039,6 +2039,11 @@
       "Time": "2023-07-08T02:29:48.9074175+00:00",
       "NumProgressed": 22976,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-08T13:18:45.6303119+00:00",
+      "NumProgressed": 22977,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 32,
@@ -2098,7 +2103,7 @@
       "Name": "Satisfied Gus-tomer",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6433
+      "UsersEstimate": 6434
     },
     {
       "ID": "ACH_GET_JETPACK",
@@ -2154,7 +2159,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 19070
+      "UsersEstimate": 19071
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -2170,7 +2175,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 13096
+      "UsersEstimate": 13097
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -2210,7 +2215,7 @@
       "Name": "Cold-Blooded Driller",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6433
+      "UsersEstimate": 6434
     },
     {
       "ID": "ACH_KILL_NIPULON",
@@ -2218,7 +2223,7 @@
       "Name": "Self-Actualization",
       "Percentage": 19,
       "XP": 45,
-      "UsersEstimate": 4365
+      "UsersEstimate": 4366
     },
     {
       "ID": "ACH_KILL_SKRENDELS",
@@ -2234,7 +2239,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 16772
+      "UsersEstimate": 16773
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -2305,22 +2310,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 22976,
+      "Progressed": 22977,
       "Completed": 8
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 269,
-      "Completed": 269
+      "Progressed": 270,
+      "Completed": 270
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-06-17T22:58:08.3064018+00:00",
-  "LastChanged_Achievements": "2023-07-08T12:06:14.4382346+00:00",
+  "LastChanged_Achievements": "2023-07-08T13:18:45.6303113+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:34.9037764+00:00",
-  "LastUpdate_Ratings": "2023-07-08T11:58:22.0254619+00:00",
-  "LastUpdate_Achievements": "2023-07-08T12:06:14.4382627+00:00"
+  "LastUpdate_Ratings": "2023-07-08T13:10:39.123882+00:00",
+  "LastUpdate_Achievements": "2023-07-08T13:18:45.630348+00:00"
 }

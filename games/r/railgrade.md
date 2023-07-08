@@ -5,22 +5,22 @@ Rating: 4.54 (Ranked 491)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~18,830 |
-| Before the Downfall | 93.00% | ~17,869 |
-| Money like Water | 91.00% | ~17,485 |
-| Minimalist | 90.00% | ~17,293 |
+| Trevithick's Legacy | 98.00% | ~18,831 |
+| Before the Downfall | 93.00% | ~17,870 |
+| Money like Water | 91.00% | ~17,486 |
+| Minimalist | 90.00% | ~17,294 |
 | Builder | 83.00% | ~15,948 |
 | Eraser | 70.00% | ~13,450 |
-| Pocket of Trains | 65.00% | ~12,489 |
-| Inspector | 59.00% | ~11,336 |
+| Pocket of Trains | 65.00% | ~12,490 |
+| Inspector | 59.00% | ~11,337 |
 | Going the Distance | 54.00% | ~10,376 |
 | Oil Baron | 42.00% | ~8,070 |
 | Loads-a-Money | 42.00% | ~8,070 |
-| Helper of the People | 39.00% | ~7,493 |
+| Helper of the People | 39.00% | ~7,494 |
 | Simplification | 34.00% | ~6,533 |
 | Box of Trains | 33.00% | ~6,341 |
-| Let There be Light | 32.00% | ~6,148 |
-| Hot Water | 31.00% | ~5,956 |
+| Let There be Light | 32.00% | ~6,149 |
+| Hot Water | 31.00% | ~5,957 |
 | Indecisive | 29.00% | ~5,572 |
 | The scenic route | 27.00% | ~5,188 |
 | Industrialist | 25.00% | ~4,804 |
@@ -29,7 +29,7 @@ Rating: 4.54 (Ranked 491)
 | 8K is Enough for Everyone | 22.00% | ~4,227 |
 | Man of Steel | 16.00% | ~3,074 |
 | Room Full of Trains | 12.00% | ~2,306 |
-| Investor | 10.00% | ~1,921 |
+| Investor | 10.00% | ~1,922 |
 | Multiverse | 7.00% | ~1,345 |
 | The poor groundwater levels | 7.00% | ~1,345 |
 | Metropolis | 7.00% | ~1,345 |
@@ -43,7 +43,7 @@ Rating: 4.54 (Ranked 491)
 | Overdeer | 0.50% | ~96 |
 | Cloud Services | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,214 (Ranked 103)  
+Progressed: 19,215 (Ranked 103)  
 Completed: 32 (0.17%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 32 (0.17%) (Ranked 167)
 | 2023-07-05 | 19,202 | 32 |
 | 2023-07-06 | 19,207 | 32 |
 | 2023-07-07 | 19,212 | 32 |
-| 2023-07-08 | 19,214 | 32 |
+| 2023-07-08 | 19,215 | 32 |
 ## Awards
 Max (Quickly Understood Controls): 87  (Ranked 347)  
 Sum: 655 (Ranked 281)  

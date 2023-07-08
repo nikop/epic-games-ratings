@@ -2481,9 +2481,9 @@
       "ID": "achBuildBusStop",
       "SetID": "dgl390n",
       "Name": "First bus stop",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 977
+      "UsersEstimate": 991
     },
     {
       "ID": "achBuildTrainStation",
@@ -2881,8 +2881,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-06-28T22:00:03.0950147+00:00",
-  "LastChanged_Achievements": "2023-07-08T12:07:04.8800912+00:00",
+  "LastChanged_Achievements": "2023-07-08T13:19:36.3764219+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:59.47484+00:00",
-  "LastUpdate_Ratings": "2023-07-08T12:00:13.0992179+00:00",
-  "LastUpdate_Achievements": "2023-07-08T12:07:04.8801446+00:00"
+  "LastUpdate_Ratings": "2023-07-08T13:12:32.9654384+00:00",
+  "LastUpdate_Achievements": "2023-07-08T13:19:36.3764877+00:00"
 }

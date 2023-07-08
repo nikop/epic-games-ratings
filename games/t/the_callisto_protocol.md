@@ -8,6 +8,7 @@ Rating: 4.19 (Ranked 845)
 | Get a Grip | 2.00% | ~313 |
 | Paper Jams | 2.00% | ~313 |
 | Keep Fighting | 2.00% | ~72 |
+| It's Time | 2.00% | ~72 |
 | Giving Back | 1.00% | ~157 |
 | You Need a Gun | 1.00% | ~157 |
 | Flesh Wound | 1.00% | ~157 |
@@ -27,8 +28,7 @@ Rating: 4.19 (Ranked 845)
 | Crash Site | 1.00% | ~157 |
 | Full Circle | 1.00% | ~157 |
 | Power Up | 1.00% | ~157 |
-| It's Time | 1.00% | ~36 |
-| The Commonality | 0.80% | ~125 |
+| The Commonality | 0.90% | ~141 |
 | One Last Job | 0.70% | ~25 |
 | In Striking Distance | 0.60% | ~94 |
 | This Isn't About Escape | 0.50% | ~18 |
@@ -54,7 +54,7 @@ Rating: 4.19 (Ranked 845)
 | Big Game Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15,661 (Ranked 108)  
-Completed: 64 (0.41%) (Ranked 136)  
+Completed: 64 (0.41%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

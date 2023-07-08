@@ -228,9 +228,9 @@
       "ID": "ach_fast_00",
       "SetID": "8jkn3bi",
       "Name": "Fast 6x6",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_fast_01",
@@ -538,8 +538,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:54:03.7448556+00:00",
-  "LastChanged_Achievements": "2023-07-08T12:07:03.6514477+00:00",
+  "LastChanged_Achievements": "2023-07-08T13:19:35.139922+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:15.2863008+00:00",
-  "LastUpdate_Ratings": "2023-07-08T12:01:14.3584795+00:00",
-  "LastUpdate_Achievements": "2023-07-08T12:07:03.6514756+00:00"
+  "LastUpdate_Ratings": "2023-07-08T13:13:33.5495743+00:00",
+  "LastUpdate_Achievements": "2023-07-08T13:19:35.1399561+00:00"
 }

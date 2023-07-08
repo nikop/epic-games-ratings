@@ -5,25 +5,25 @@ Rating: 4.66 (Ranked 270)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 93.00% | ~4,259 |
-| All thumbs | 91.00% | ~4,168 |
-| I will survive! | 91.00% | ~4,168 |
-| Home, sweet home | 90.00% | ~4,122 |
-| Survivalist | 88.00% | ~4,030 |
-| One way ticket | 83.00% | ~3,801 |
-| Last man standing | 78.00% | ~3,572 |
-| Family guy | 76.00% | ~3,481 |
-| Out of the Bag | 73.00% | ~3,343 |
-| The Dark Side | 68.00% | ~3,114 |
-| Duck and cover! | 63.00% | ~2,885 |
-| Souper! | 62.00% | ~2,840 |
-| Pacifist | 57.00% | ~2,611 |
-| 2-1-6 | 55.00% | ~2,519 |
-| A gift | 51.00% | ~2,336 |
-| Girl Power | 45.00% | ~2,061 |
-| What goes around... | 41.00% | ~1,878 |
-| Be Prepared | 36.00% | ~1,649 |
-| Unbreakable | 35.00% | ~1,603 |
+| Prepper | 93.00% | ~4,261 |
+| All thumbs | 91.00% | ~4,170 |
+| I will survive! | 91.00% | ~4,170 |
+| Home, sweet home | 90.00% | ~4,124 |
+| Survivalist | 88.00% | ~4,032 |
+| One way ticket | 83.00% | ~3,803 |
+| Last man standing | 78.00% | ~3,574 |
+| Family guy | 76.00% | ~3,482 |
+| Out of the Bag | 73.00% | ~3,345 |
+| The Dark Side | 68.00% | ~3,116 |
+| Duck and cover! | 63.00% | ~2,887 |
+| Souper! | 62.00% | ~2,841 |
+| Pacifist | 57.00% | ~2,612 |
+| 2-1-6 | 55.00% | ~2,520 |
+| A gift | 51.00% | ~2,337 |
+| Girl Power | 45.00% | ~2,062 |
+| What goes around... | 41.00% | ~1,879 |
+| Be Prepared | 36.00% | ~1,650 |
+| Unbreakable | 35.00% | ~1,604 |
 | Atomic drill | 32.00% | ~1,466 |
 | This is the end | 32.00% | ~1,466 |
 | Gotta get 'em all | 31.00% | ~1,420 |
@@ -66,7 +66,7 @@ Rating: 4.66 (Ranked 270)
 | Miracle | 0.20% | ~9 |
 | Dead Hand | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,580 (Ranked 137)  
+Progressed: 4,582 (Ranked 137)  
 Completed: 1 (0.02%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 1 (0.02%) (Ranked 215)
 | 2023-07-05 | 4,546 | 1 |
 | 2023-07-06 | 4,561 | 1 |
 | 2023-07-07 | 4,574 | 1 |
-| 2023-07-08 | 4,580 | 1 |
+| 2023-07-08 | 4,582 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

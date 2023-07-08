@@ -9,17 +9,17 @@ Rating: 4.18 (Ranked 854)
 | To the Victor Go the Spoils | 4.00% | ~2,667 |
 | Har, Har, Har, Very Funny | 4.00% | ~2,667 |
 | Loose Ends | 4.00% | ~2,667 |
-| The Batman Family | 3.00% | ~2,000 |
-| Something in the Clay | 3.00% | ~2,000 |
-| Quartzer Life Crisis | 3.00% | ~2,000 |
-| Snow Problem | 3.00% | ~2,000 |
-| Get ReQ'd | 3.00% | ~2,000 |
-| Working Hard or Harley Working? | 3.00% | ~2,000 |
-| Unstoppable Force | 3.00% | ~2,000 |
-| Knighthood | 3.00% | ~2,000 |
-| Whispered Words | 3.00% | ~2,000 |
-| Lock and Key | 3.00% | ~2,000 |
-| Bad Apples in Every Orchard | 3.00% | ~2,000 |
+| The Batman Family | 3.00% | ~2,001 |
+| Something in the Clay | 3.00% | ~2,001 |
+| Quartzer Life Crisis | 3.00% | ~2,001 |
+| Snow Problem | 3.00% | ~2,001 |
+| Get ReQ'd | 3.00% | ~2,001 |
+| Working Hard or Harley Working? | 3.00% | ~2,001 |
+| Unstoppable Force | 3.00% | ~2,001 |
+| Knighthood | 3.00% | ~2,001 |
+| Whispered Words | 3.00% | ~2,001 |
+| Lock and Key | 3.00% | ~2,001 |
+| Bad Apples in Every Orchard | 3.00% | ~2,001 |
 | End of an Era | 2.00% | ~1,334 |
 | In Your Element | 2.00% | ~1,334 |
 | Protector of Gotham | 2.00% | ~1,334 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 854)
 | History Major | 0.10% | ~67 |
 | Confronting Your Demon | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,680 (Ranked 74)  
+Progressed: 66,686 (Ranked 74)  
 Completed: 101 (0.15%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,14 +146,14 @@ Completed: 101 (0.15%) (Ranked 171)
 | 2023-07-05 | 66,504 | 100 |
 | 2023-07-06 | 66,572 | 100 |
 | 2023-07-07 | 66,641 | 101 |
-| 2023-07-08 | 66,680 | 101 |
+| 2023-07-08 | 66,686 | 101 |
 ## Awards
-Max (Great Boss Battles): 2,421  (Ranked 100)  
-Sum: 4,010 (Ranked 137)  
+Max (Great Boss Battles): 2,425  (Ranked 100)  
+Sum: 4,014 (Ranked 137)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,421 |
+| This game has Great Boss Battles | 2,425 |
 | This game has Quickly Understood Controls | 205 |
 | This game is Relaxing | 205 |
 | This game is Extremely Fun | 205 |
@@ -303,3 +303,4 @@ Diff (max vs sum): -37
 | 2023-07-05 | 4.18 | 2,419 | 4,005 |
 | 2023-07-06 | 4.18 | 2,421 | 4,009 |
 | 2023-07-07 | 4.18 | 2,421 | 4,010 |
+| 2023-07-08 | 4.18 | 2,425 | 4,014 |

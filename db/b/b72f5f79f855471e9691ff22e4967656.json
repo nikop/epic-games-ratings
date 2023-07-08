@@ -129,9 +129,9 @@
       "ID": "digTreasure10",
       "SetID": "ci65fo0",
       "Name": "Treasure hunter",
-      "Percentage": 27,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "drown",
@@ -257,9 +257,9 @@
       "ID": "killGolem10",
       "SetID": "ci65fo0",
       "Name": "Golems Fighter",
-      "Percentage": 27,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "killGrave10",
@@ -401,9 +401,9 @@
       "ID": "locGoblins",
       "SetID": "ci65fo0",
       "Name": "Goblins camp",
-      "Percentage": 47,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "locGraveyard",
@@ -465,9 +465,9 @@
       "ID": "questBuilder",
       "SetID": "ci65fo0",
       "Name": "Builder",
-      "Percentage": 47,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "questCemetery",
@@ -710,8 +710,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-07-08T12:04:25.2265334+00:00",
+  "LastChanged_Achievements": "2023-07-08T13:16:53.0225928+00:00",
   "LastUpdate_AppInfo": "2023-07-05T09:56:55.4527488+00:00",
-  "LastUpdate_Ratings": "2023-07-08T11:57:08.8951769+00:00",
-  "LastUpdate_Achievements": "2023-07-08T12:04:25.2265934+00:00"
+  "LastUpdate_Ratings": "2023-07-08T13:09:21.9975458+00:00",
+  "LastUpdate_Achievements": "2023-07-08T13:16:53.0226737+00:00"
 }

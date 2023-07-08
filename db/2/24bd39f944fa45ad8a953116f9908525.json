@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 30,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -200,9 +200,9 @@
       "ID": "ach_05_northStation",
       "SetID": "16n29hg",
       "Name": "Dominate North Station",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_06_spikeDeath",
@@ -464,9 +464,9 @@
       "ID": "ach_39_mtTopView",
       "SetID": "16n29hg",
       "Name": "View from the Mountaintop",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_40_towerDestroyer",
@@ -528,17 +528,17 @@
       "ID": "ach_47_brutalMoment",
       "SetID": "16n29hg",
       "Name": "Squishy Moment",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_48_moneySmell",
       "SetID": "16n29hg",
       "Name": "Greed is Good",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_49_kindHaak",
@@ -607,8 +607,8 @@
   ],
   "FirstSeen": "2023-06-30T05:57:16.6793848+00:00",
   "FirstSeenAchievements": "2023-06-20T07:03:35.8699826+00:00",
-  "LastChanged_Achievements": "2023-07-08T12:03:30.5760822+00:00",
+  "LastChanged_Achievements": "2023-07-08T13:15:59.5625959+00:00",
   "LastUpdate_AppInfo": "2023-07-05T05:57:08.5205588+00:00",
-  "LastUpdate_Ratings": "2023-07-08T11:57:14.5143548+00:00",
-  "LastUpdate_Achievements": "2023-07-08T12:03:30.5761219+00:00"
+  "LastUpdate_Ratings": "2023-07-08T13:09:27.3786931+00:00",
+  "LastUpdate_Achievements": "2023-07-08T13:15:59.5626471+00:00"
 }

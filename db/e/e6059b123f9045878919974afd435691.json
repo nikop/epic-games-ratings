@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 477,
+  "EOS_Progressed": 478,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 467,
+  "EOS_NewPlayers": 466,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -776,6 +776,11 @@
       "Time": "2023-07-08T11:04:18.1125093+00:00",
       "NumProgressed": 477,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-08T13:16:50.6540023+00:00",
+      "NumProgressed": 478,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -787,7 +792,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -801,17 +806,17 @@
       "ID": "AMMO_ACHIEVEMENT_3",
       "SetID": "9lcahn0",
       "Name": "FULLCLIP",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 72
     },
     {
       "ID": "AMMO_ACHIEVEMENT_4",
       "SetID": "9lcahn0",
       "Name": "Out Of Stock",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 38
     },
     {
       "ID": "ATKM_ACHIEVEMENT_1",
@@ -849,9 +854,9 @@
       "ID": "ATK_ACHIEVEMENT_4",
       "SetID": "9lcahn0",
       "Name": "Barkannan Cannot Be Pacified",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "BARK_ACHIEVEMENT_1",
@@ -889,9 +894,9 @@
       "ID": "BRO_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Main Course",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 14
     },
     {
       "ID": "BRO_ACHIEVEMENT_2",
@@ -987,7 +992,7 @@
       "Name": "Greetings from Royalty",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -1059,7 +1064,7 @@
       "Name": "Pest Control or Taxonomist?",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "KILLR_ACHIEVEMENT_1",
@@ -1067,7 +1072,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -1075,7 +1080,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -1089,33 +1094,33 @@
       "ID": "KILLR_ACHIEVEMENT_4",
       "SetID": "9lcahn0",
       "Name": "Call The Winchester",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 43
     },
     {
       "ID": "KILLR_ACHIEVEMENT_5",
       "SetID": "9lcahn0",
       "Name": "Do This In Silence",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 24
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "And There We Go",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 124
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "End the Infestation",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 29
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_3",
@@ -1177,9 +1182,9 @@
       "ID": "MEAT_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Night Snack",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 86
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -1235,15 +1240,15 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Haunted Prison",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 10
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_3",
@@ -1314,14 +1319,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 477,
+      "Progressed": 478,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-08T12:04:22.815569+00:00",
+  "LastChanged_Achievements": "2023-07-08T13:16:50.6540017+00:00",
   "LastUpdate_AppInfo": "2023-07-06T13:16:22.5768242+00:00",
-  "LastUpdate_Ratings": "2023-07-08T11:57:04.00518+00:00",
-  "LastUpdate_Achievements": "2023-07-08T12:04:22.8156239+00:00"
+  "LastUpdate_Ratings": "2023-07-08T13:09:17.3298436+00:00",
+  "LastUpdate_Achievements": "2023-07-08T13:16:50.654073+00:00"
 }

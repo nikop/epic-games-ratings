@@ -11,8 +11,8 @@
 | Like Phileas Fogg | 15.00% | ~14 |
 | Serial Winner | 14.00% | ~13 |
 | Start Your Engines | 12.00% | ~11 |
+| Lone Wolf | 11.00% | ~10 |
 | Highly Qualified | 10.00% | ~9 |
-| Lone Wolf | 10.00% | ~9 |
 | No Room for Improvement | 9.00% | ~8 |
 | Nerd | 8.00% | ~7 |
 | Upgradeaholic | 8.00% | ~7 |

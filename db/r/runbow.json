@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 246241,
+  "EOS_Progressed": 246242,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 399,
+  "EOS_NewPlayers": 394,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7684,6 +7684,11 @@
       "Time": "2023-07-08T12:06:58.5110717+00:00",
       "NumProgressed": 246241,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-08T13:19:30.2472927+00:00",
+      "NumProgressed": 246242,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -7695,7 +7700,7 @@
       "Name": "Just A Phaze",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14774
+      "UsersEstimate": 14775
     },
     {
       "ID": "aWinnerIsYou",
@@ -7743,7 +7748,7 @@
       "Name": "Butt Butt",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14774
+      "UsersEstimate": 14775
     },
     {
       "ID": "canYouDigIt",
@@ -7791,7 +7796,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 44323
+      "UsersEstimate": 44324
     },
     {
       "ID": "curator",
@@ -7935,7 +7940,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 123120
+      "UsersEstimate": 123121
     },
     {
       "ID": "notScared",
@@ -8062,7 +8067,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 246241,
+      "Progressed": 246242,
       "Completed": 3
     }
   ],
@@ -8070,8 +8075,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-07-08T12:06:58.511071+00:00",
+  "LastChanged_Achievements": "2023-07-08T13:19:30.2472923+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:16.5016071+00:00",
-  "LastUpdate_Ratings": "2023-07-08T11:59:39.8875543+00:00",
-  "LastUpdate_Achievements": "2023-07-08T12:06:58.5111556+00:00"
+  "LastUpdate_Ratings": "2023-07-08T13:12:00.316205+00:00",
+  "LastUpdate_Achievements": "2023-07-08T13:19:30.2473799+00:00"
 }

@@ -6,20 +6,20 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 92.00% | ~6,948 |
-| Photogenic | 88.00% | ~6,646 |
-| Plug It In | 85.00% | ~6,419 |
-| Surge Gauntlet Jockey | 85.00% | ~6,419 |
+| Let's Get This Party Started | 92.00% | ~6,949 |
+| Photogenic | 88.00% | ~6,647 |
+| Plug It In | 85.00% | ~6,420 |
+| Surge Gauntlet Jockey | 85.00% | ~6,420 |
 | Adventure Time | 80.00% | ~6,042 |
 | Playing With Power | 78.00% | ~5,891 |
 | Coup d'Etat | 59.00% | ~4,456 |
-| You're Fired | 58.00% | ~4,380 |
-| Get Furious | 56.00% | ~4,229 |
+| You're Fired | 58.00% | ~4,381 |
+| Get Furious | 56.00% | ~4,230 |
 | Gunplay And Cosplay | 55.00% | ~4,154 |
 | Hacks In Stacks | 55.00% | ~4,154 |
-| Meching Enemies | 49.00% | ~3,700 |
-| Ticket Toddler | 45.00% | ~3,398 |
-| Booty Bashing | 43.00% | ~3,247 |
+| Meching Enemies | 49.00% | ~3,701 |
+| Ticket Toddler | 45.00% | ~3,399 |
+| Booty Bashing | 43.00% | ~3,248 |
 | Field Medic | 38.00% | ~2,870 |
 | Here Comes a New Challenger | 38.00% | ~2,870 |
 | Rapid Response | 33.00% | ~2,492 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.50% | ~38 |
 | Pyrotechnical | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,552 (Ranked 121)  
+Progressed: 7,553 (Ranked 121)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-05 | 7,522 | 0 |
 | 2023-07-06 | 7,534 | 0 |
 | 2023-07-07 | 7,543 | 0 |
-| 2023-07-08 | 7,552 | 0 |
+| 2023-07-08 | 7,553 | 0 |
 ## Awards
 Max (Relaxing): 62  (Ranked 384)  
 Sum: 488 (Ranked 298)  

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 155,
-  "Ranking_EOS_Completed": 43,
+  "Ranking_EOS_Completed": 42,
   "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
@@ -354,9 +354,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2550,
+  "EOS_Progressed": 2551,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.92,
   "EosHistory": [
@@ -1759,6 +1759,11 @@
       "Time": "2023-07-08T12:04:33.3232871+00:00",
       "NumProgressed": 2550,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-07-08T13:17:01.3485589+00:00",
+      "NumProgressed": 2551,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 14,
@@ -1834,7 +1839,7 @@
       "Name": "Imprisonment",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "ACH_MAD_SCIENTIST",
@@ -1842,7 +1847,7 @@
       "Name": "Mad Scientist",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "ACH_REUNION",
@@ -1864,9 +1869,9 @@
       "ID": "ACH_TREASURE_HUNT",
       "SetID": "4kfb9pd",
       "Name": "Treasure Hunt",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 80,
-      "UsersEstimate": 790
+      "UsersEstimate": 765
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -1874,14 +1879,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 75,
       "XP": 35,
-      "UsersEstimate": 1912
+      "UsersEstimate": 1913
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2550,
+      "Progressed": 2551,
       "Completed": 100
     }
   ],
@@ -1889,8 +1894,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-07-02T20:01:16.6679969+00:00",
-  "LastChanged_Achievements": "2023-07-08T12:04:33.3232867+00:00",
+  "LastChanged_Achievements": "2023-07-08T13:17:01.3485583+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:49.0605246+00:00",
-  "LastUpdate_Ratings": "2023-07-08T12:00:54.3815041+00:00",
-  "LastUpdate_Achievements": "2023-07-08T12:04:33.3233029+00:00"
+  "LastUpdate_Ratings": "2023-07-08T13:13:12.6830297+00:00",
+  "LastUpdate_Achievements": "2023-07-08T13:17:01.3485803+00:00"
 }

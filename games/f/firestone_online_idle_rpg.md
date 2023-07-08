@@ -5,14 +5,14 @@ Rating: 4.09 (Ranked 890)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,476 |
-| World Map | 79.00% | ~1,254 |
-| Temple of Eternals | 57.00% | ~905 |
-| Prestigious | 53.00% | ~841 |
+| Victor | 93.00% | ~1,477 |
+| World Map | 79.00% | ~1,255 |
+| Temple of Eternals | 56.00% | ~889 |
+| Prestigious | 53.00% | ~842 |
 | Fellowship Power | 41.00% | ~651 |
 | Guild Power | 25.00% | ~397 |
 | Prestigious x10 | 21.00% | ~333 |
-| The game is on | 20.00% | ~317 |
+| The game is on | 20.00% | ~318 |
 | Exotic Merchant | 18.00% | ~286 |
 | Dragon Clicker | 16.00% | ~254 |
 | Miner Clicker | 16.00% | ~254 |
@@ -22,11 +22,11 @@ Rating: 4.09 (Ranked 890)
 | Enlightenment | 14.00% | ~222 |
 | Hero inspection | 14.00% | ~222 |
 | Lieutenant | 14.00% | ~222 |
-| Milestone collector | 12.00% | ~190 |
-| Mysterious Rock | 12.00% | ~190 |
-| Natural Talent | 12.00% | ~190 |
-| Superior | 12.00% | ~190 |
-| The Unstoppable | 12.00% | ~190 |
+| Milestone collector | 12.00% | ~191 |
+| Mysterious Rock | 12.00% | ~191 |
+| Natural Talent | 12.00% | ~191 |
+| Superior | 12.00% | ~191 |
+| The Unstoppable | 12.00% | ~191 |
 | Scientist | 11.00% | ~175 |
 | Hunter | 10.00% | ~159 |
 | Challenger | 9.00% | ~143 |
@@ -53,9 +53,9 @@ Rating: 4.09 (Ranked 890)
 | Engineer Mastery | 5.00% | ~79 |
 | Lock And Load | 5.00% | ~79 |
 | Missions Dedication | 5.00% | ~79 |
-| Background Story | 4.00% | ~63 |
-| Blueprint Upgrades | 4.00% | ~63 |
-| Sailor | 4.00% | ~63 |
+| Background Story | 4.00% | ~64 |
+| Blueprint Upgrades | 4.00% | ~64 |
+| Sailor | 4.00% | ~64 |
 | Active Member | 3.00% | ~48 |
 | Arena Challenger | 3.00% | ~48 |
 | Legendary | 3.00% | ~48 |
@@ -81,7 +81,7 @@ Rating: 4.09 (Ranked 890)
 | War Machines Army | 0.20% | ~3 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,587 (Ranked 169)  
+Progressed: 1,588 (Ranked 169)  
 Completed: 1 (0.06%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 1 (0.06%) (Ranked 197)
 | 2023-07-05 | 1,573 | 1 |
 | 2023-07-06 | 1,577 | 1 |
 | 2023-07-07 | 1,584 | 1 |
-| 2023-07-08 | 1,587 | 1 |
+| 2023-07-08 | 1,588 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

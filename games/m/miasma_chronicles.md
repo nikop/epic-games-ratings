@@ -26,7 +26,7 @@ Rating: 4.38 (Ranked 710)
 | Ganglord | 32.00% | ~387 |
 | Jarhead | 32.00% | ~387 |
 | Infiltrator | 31.00% | ~375 |
-| Pushing Daisy | 29.00% | ~351 |
+| Pushing Daisy | 30.00% | ~363 |
 | Experienced | 28.00% | ~339 |
 | Hold The Line | 25.00% | ~302 |
 | Endgame | 24.00% | ~290 |
@@ -39,8 +39,8 @@ Rating: 4.38 (Ranked 710)
 | Chaos Theory | 14.00% | ~169 |
 | Dr Jones | 14.00% | ~169 |
 | Ruthless | 14.00% | ~169 |
+| Silent but Violent | 11.00% | ~133 |
 | Side Order | 10.00% | ~121 |
-| Silent but Violent | 10.00% | ~121 |
 | Chain Reaction | 9.00% | ~109 |
 | Bot Whisperer | 8.00% | ~97 |
 | Curveball | 8.00% | ~97 |
