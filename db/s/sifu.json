@@ -5052,9 +5052,9 @@
       "Count": 360
     }
   ],
-  "EOS_Progressed": 710573,
+  "EOS_Progressed": 710576,
   "EOS_Completed": 12808,
-  "EOS_NewPlayers": 204,
+  "EOS_NewPlayers": 203,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -12532,6 +12532,11 @@
       "Time": "2023-07-08T15:06:11.0152415+00:00",
       "NumProgressed": 710573,
       "NumCompleted": 12808
+    },
+    {
+      "Time": "2023-07-08T16:07:34.1757993+00:00",
+      "NumProgressed": 710576,
+      "NumCompleted": 12808
     }
   ],
   "TotalAchievements": 50,
@@ -12543,7 +12548,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14211
+      "UsersEstimate": 14212
     },
     {
       "ID": "02_Vengeance_H1",
@@ -12551,7 +12556,7 @@
       "Name": "The Assault",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14211
+      "UsersEstimate": 14212
     },
     {
       "ID": "03_Vengeance_H2",
@@ -12559,7 +12564,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14211
+      "UsersEstimate": 14212
     },
     {
       "ID": "04_Vengeance_H3",
@@ -12719,7 +12724,7 @@
       "Name": "Life is your teacher",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14211
+      "UsersEstimate": 14212
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -12727,7 +12732,7 @@
       "Name": "State of constant learning",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14211
+      "UsersEstimate": 14212
     },
     {
       "ID": "25_ShrineMind",
@@ -12743,7 +12748,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14211
+      "UsersEstimate": 14212
     },
     {
       "ID": "27_ShrineBody",
@@ -12807,7 +12812,7 @@
       "Name": "Lightning Hands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14211
+      "UsersEstimate": 14212
     },
     {
       "ID": "35_WideStrike",
@@ -12903,7 +12908,7 @@
       "Name": "Martial Hub",
       "Percentage": 0.4,
       "XP": 80,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "47_Arena_GoldManhunt",
@@ -12919,7 +12924,7 @@
       "Name": "Secure, Protect, Leave",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "49_Arena_GoldSurvival",
@@ -12942,21 +12947,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 19874,
+      "Progressed": 19877,
       "Completed": 10373
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 710573,
+      "Progressed": 710576,
       "Completed": 12808
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-08T14:58:57.9646695+00:00",
-  "LastChanged_Achievements": "2023-07-08T15:06:11.0152412+00:00",
+  "LastChanged_Achievements": "2023-07-08T16:07:34.175799+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:05.6915334+00:00",
-  "LastUpdate_Ratings": "2023-07-08T14:58:57.9646701+00:00",
-  "LastUpdate_Achievements": "2023-07-08T15:06:11.0153064+00:00"
+  "LastUpdate_Ratings": "2023-07-08T15:59:52.5486422+00:00",
+  "LastUpdate_Achievements": "2023-07-08T16:07:34.1758667+00:00"
 }

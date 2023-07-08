@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 369,
+  "EOS_Progressed": 370,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1261,6 +1261,11 @@
       "Time": "2023-07-08T15:04:35.7682974+00:00",
       "NumProgressed": 369,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-08T16:05:25.3320093+00:00",
+      "NumProgressed": 370,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1400,7 +1405,7 @@
       "Name": "Lieutenant",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -1496,7 +1501,7 @@
       "Name": "On Target",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -1528,7 +1533,7 @@
       "Name": "Defenses Online",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -1575,14 +1580,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 369,
+      "Progressed": 370,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-08T15:04:35.768297+00:00",
+  "LastChanged_Achievements": "2023-07-08T16:05:25.332009+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:58.5226048+00:00",
-  "LastUpdate_Ratings": "2023-07-08T15:00:07.3227483+00:00",
-  "LastUpdate_Achievements": "2023-07-08T15:04:35.768324+00:00"
+  "LastUpdate_Ratings": "2023-07-08T16:01:36.1718595+00:00",
+  "LastUpdate_Achievements": "2023-07-08T16:05:25.3320364+00:00"
 }

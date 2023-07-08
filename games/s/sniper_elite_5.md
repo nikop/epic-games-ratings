@@ -6,6 +6,7 @@ Rating: 4.45 (Ranked 621)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Liberté | 2.00% | ~65 |
+| Meeting Resistance | 2.00% | ~65 |
 | Resourceful | 2.00% | ~65 |
 | It's Starting to Crack | 2.00% | ~65 |
 | Taking it back | 2.00% | ~65 |
@@ -14,7 +15,6 @@ Rating: 4.45 (Ranked 621)
 | Climbing the Ladder | 1.00% | ~32 |
 | No Stone Unturned | 1.00% | ~32 |
 | Organ Grinder | 1.00% | ~32 |
-| Meeting Resistance | 1.00% | ~32 |
 | Gunslinger | 1.00% | ~32 |
 | Sharpshooter | 1.00% | ~32 |
 | Confirming Suspicions | 1.00% | ~32 |
@@ -29,10 +29,10 @@ Rating: 4.45 (Ranked 621)
 | Explosive Efficiency | 0.90% | ~29 |
 | Close Quarters | 0.90% | ~29 |
 | Snake in the Grass | 0.90% | ~29 |
+| Skirmisher | 0.80% | ~26 |
 | Precision Is Key | 0.80% | ~26 |
 | My Little Friend | 0.80% | ~26 |
 | Enemy at the Gates | 0.70% | ~23 |
-| Skirmisher | 0.70% | ~23 |
 | Tinkerer | 0.70% | ~23 |
 | Fields of Glory | 0.60% | ~19 |
 | Just a Flesh Wound | 0.60% | ~19 |

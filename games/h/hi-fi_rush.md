@@ -7,13 +7,13 @@ Rating: 4.87 (Ranked 25)
 | ---- | ---------- | ----- |
 | NOW we got a kickass hideout! | 0.80% | ~16 |
 | I play my own way! | 0.60% | ~21 |
+| The Negotiator | 0.50% | ~17 |
 | Time to pay up! | 0.50% | ~17 |
 | Who's the boss now? | 0.50% | ~17 |
 | Whoa! There's ANOTHER health bar!? | 0.50% | ~17 |
 | Z-shielding's got nothing on us! | 0.50% | ~17 |
 | Cream of the Crop | 0.40% | ~14 |
 | This will cost you big time | 0.40% | ~14 |
-| The Negotiator | 0.40% | ~14 |
 | Headliner | 0.40% | ~14 |
 | Thanks for the free chip, Peppermint! | 0.40% | ~14 |
 | You got this, Peppermint? | 0.40% | ~14 |
@@ -32,18 +32,19 @@ Rating: 4.87 (Ranked 25)
 | That's a lot of junk metal… | 0.30% | ~10 |
 | I look cool. But I can look COOLER. | 0.30% | ~10 |
 | You can pet the cat! | 0.30% | ~10 |
+| New bad guys? No problem! | 0.30% | ~6 |
 | You must like calling me in, Chai | 0.20% | ~7 |
+| This is a breeze! | 0.20% | ~7 |
 | There's such a thing as TOO helpful | 0.20% | ~7 |
 | Does that say weakpoint? | 0.20% | ~7 |
 | Check out my moves! | 0.20% | ~7 |
-| New bad guys? No problem! | 0.20% | ~4 |
 | Easy Listening | 0.10% | ~3 |
 | I think I deserve some praise, here! | 0.10% | ~3 |
 | Problem solved... wait, what? | 0.10% | ~3 |
 | Chip-tuned | 0.10% | ~3 |
 | Beat-hit mania | 0.10% | ~3 |
 | I think I found your calling, Macaron | 0.10% | ~3 |
-| This is a breeze! | 0.10% | ~3 |
+| OK, well THEY came after ME! | 0.10% | ~3 |
 | We're Jammin' | 0.10% | ~3 |
 | First we parry, then we counter | 0.10% | ~3 |
 | Now this is how you fight like a team! | 0.10% | ~3 |
@@ -64,7 +65,6 @@ Rating: 4.87 (Ranked 25)
 | I think that's enough health for now | 0.00% | ~0 |
 | Fully Powered Up! | 0.00% | ~0 |
 | I have to read ALL of these things? | 0.00% | ~0 |
-| OK, well THEY came after ME! | 0.00% | ~0 |
 | I'm not done with you yet | 0.00% | ~0 |
 | My Ultimate Setlist | 0.00% | ~0 |
 | What a journey it was... | 0.00% | ~0 |

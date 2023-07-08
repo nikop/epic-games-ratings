@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -4884,9 +4884,9 @@
       "ID": "REWARD_1_MEETING_RESISTANCE",
       "SetID": "bm6el81",
       "Name": "Meeting Resistance",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 65
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -4932,9 +4932,9 @@
       "ID": "REWARD_25_SKIRMISHER",
       "SetID": "bm6el81",
       "Name": "Skirmisher",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -5387,8 +5387,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-05T19:03:38.4770688+00:00",
-  "LastChanged_Achievements": "2023-07-08T15:02:05.5553168+00:00",
+  "LastChanged_Achievements": "2023-07-08T16:02:18.8765451+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:07.1687539+00:00",
-  "LastUpdate_Ratings": "2023-07-08T15:00:13.6721162+00:00",
-  "LastUpdate_Achievements": "2023-07-08T15:02:05.5553923+00:00"
+  "LastUpdate_Ratings": "2023-07-08T16:01:44.8463864+00:00",
+  "LastUpdate_Achievements": "2023-07-08T16:02:18.8766211+00:00"
 }

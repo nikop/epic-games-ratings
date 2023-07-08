@@ -68,6 +68,7 @@
 | Rocket | 0.90% | ~1 |
 | Inferno | 0.90% | ~1 |
 | Sapphire | 0.90% | ~1 |
+| Encore | 0.90% | ~1 |
 | Adamantite | 0.90% | ~1 |
 | Warp Drive Spacecraft | 0.90% | ~1 |
 | Wu-wei | 0.90% | ~1 |
@@ -75,7 +76,6 @@
 | Zombie Slayer | 0.90% | ~1 |
 | Divinity | 0.00% | ~0 |
 | Zombie Hunter | 0.00% | ~0 |
-| Encore | 0.00% | ~0 |
 | Zombie Exterminator | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 114 (Ranked 291)  

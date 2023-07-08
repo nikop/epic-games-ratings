@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 478,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 460,
+  "EOS_NewPlayers": 458,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1030,9 +1030,9 @@
       "ID": "FREEM_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Where Is Houdini?",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 53
     },
     {
       "ID": "FREE_ACHIEVEMENT_1",
@@ -1142,9 +1142,9 @@
       "ID": "KLEECHER_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Leecher Hunting Season",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 62
     },
     {
       "ID": "LEECHER_ACHIEVEMENT_1",
@@ -1214,9 +1214,9 @@
       "ID": "NOTE_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Buy A Book",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 48
     },
     {
       "ID": "OUT_ACHIEVEMENT_1",
@@ -1325,8 +1325,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-08T15:04:03.8954625+00:00",
+  "LastChanged_Achievements": "2023-07-08T16:04:21.7809042+00:00",
   "LastUpdate_AppInfo": "2023-07-06T13:16:22.5768242+00:00",
-  "LastUpdate_Ratings": "2023-07-08T14:56:53.3330815+00:00",
-  "LastUpdate_Achievements": "2023-07-08T15:04:03.8955165+00:00"
+  "LastUpdate_Ratings": "2023-07-08T15:57:00.0998627+00:00",
+  "LastUpdate_Achievements": "2023-07-08T16:04:21.7809592+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -178,9 +178,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1711,
+  "EOS_Progressed": 1712,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2043,6 +2043,11 @@
       "Time": "2023-07-05T22:04:39.7379402+00:00",
       "NumProgressed": 1711,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-08T16:03:45.2229243+00:00",
+      "NumProgressed": 1712,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2118,7 +2123,7 @@
       "Name": "Welcome to the Neighborhood",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "Achievement_011",
@@ -2174,7 +2179,7 @@
       "Name": "Bad Wiring",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "Achievement_018",
@@ -2190,7 +2195,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1317
+      "UsersEstimate": 1318
     },
     {
       "ID": "Achievement_020",
@@ -2278,7 +2283,7 @@
       "Name": "ICU",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "Achievement_031",
@@ -2390,7 +2395,7 @@
       "Name": "Skin of Their Teeth",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "Achievement_046",
@@ -2518,7 +2523,7 @@
       "Name": "Helping Hand",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "Achievement_064",
@@ -2581,7 +2586,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1711,
+      "Progressed": 1712,
       "Completed": 0
     }
   ],
@@ -2589,8 +2594,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-07-07T14:57:51.7168375+00:00",
-  "LastChanged_Achievements": "2023-07-08T15:03:36.0941495+00:00",
+  "LastChanged_Achievements": "2023-07-08T16:03:45.222924+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:17.7438623+00:00",
-  "LastUpdate_Ratings": "2023-07-08T14:57:51.9363146+00:00",
-  "LastUpdate_Achievements": "2023-07-08T15:03:36.094214+00:00"
+  "LastUpdate_Ratings": "2023-07-08T15:58:15.9403384+00:00",
+  "LastUpdate_Achievements": "2023-07-08T16:03:45.2229881+00:00"
 }

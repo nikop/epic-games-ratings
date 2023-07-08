@@ -5,18 +5,18 @@ Rating: 4.46 (Ranked 605)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~130,512 |
-| My First Runbow | 50.00% | ~123,125 |
-| It's The Fall | 26.00% | ~64,025 |
-| Be Aggressive | 21.00% | ~51,712 |
-| The Stunner | 21.00% | ~51,712 |
-| Curator | 20.00% | ~49,250 |
-| Crowning Around | 18.00% | ~44,325 |
-| Can You Dig It? | 17.00% | ~41,862 |
+| In The Zone | 53.00% | ~130,514 |
+| My First Runbow | 50.00% | ~123,126 |
+| It's The Fall | 26.00% | ~64,026 |
+| Be Aggressive | 21.00% | ~51,713 |
+| The Stunner | 21.00% | ~51,713 |
+| Curator | 20.00% | ~49,251 |
+| Crowning Around | 18.00% | ~44,326 |
+| Can You Dig It? | 17.00% | ~41,863 |
 | You Juan-A-Go? | 16.00% | ~39,400 |
 | Chan-tastic | 15.00% | ~36,938 |
 | Muddy Waters | 15.00% | ~36,938 |
-| Toasty! | 13.00% | ~32,012 |
+| Toasty! | 13.00% | ~32,013 |
 | Lazy Laser | 8.00% | ~19,700 |
 | Into The Drift | 7.00% | ~17,238 |
 | Ready? Fight! | 7.00% | ~17,238 |
@@ -27,19 +27,19 @@ Rating: 4.46 (Ranked 605)
 | And You're Okay | 2.00% | ~4,925 |
 | Blotbuster | 2.00% | ~4,925 |
 | Thunderstruck | 2.00% | ~4,925 |
-| Just A Bit | 1.00% | ~2,462 |
-| Tubular, Dude | 1.00% | ~2,462 |
+| Just A Bit | 1.00% | ~2,463 |
+| Tubular, Dude | 1.00% | ~2,463 |
 | What A Trip | 0.90% | ~2,216 |
 | Here We Go! | 0.80% | ~1,970 |
 | Please The King | 0.80% | ~1,970 |
 | Clear-Cut | 0.50% | ~1,231 |
 | Breaking Out | 0.40% | ~985 |
 | Disposable | 0.30% | ~739 |
-| A Winner Is You | 0.20% | ~492 |
-| Final Nightmare | 0.20% | ~492 |
-| I'm Here All Night | 0.20% | ~492 |
-| Ride The Wave | 0.20% | ~492 |
-| Tree Medalist | 0.20% | ~492 |
+| A Winner Is You | 0.20% | ~493 |
+| Final Nightmare | 0.20% | ~493 |
+| I'm Here All Night | 0.20% | ~493 |
+| Ride The Wave | 0.20% | ~493 |
+| Tree Medalist | 0.20% | ~493 |
 | Can't Be Kept Down | 0.10% | ~246 |
 | Completionist | 0.10% | ~246 |
 | Did Your Time | 0.10% | ~246 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 605)
 | Talent Scout | 0.10% | ~246 |
 | True Completionist | 0.10% | ~246 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246,250 (Ranked 43)  
+Progressed: 246,253 (Ranked 43)  
 Completed: 3 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 3 (0.00%) (Ranked 237)
 | 2023-07-05 | 246,087 | 3 |
 | 2023-07-06 | 246,146 | 3 |
 | 2023-07-07 | 246,209 | 3 |
-| 2023-07-08 | 246,250 | 3 |
+| 2023-07-08 | 246,253 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -10,29 +10,29 @@ Rating: 4.46 (Ranked 605)
 | Departure | 72.00% | ~1,076 |
 | From X to Y | 71.00% | ~1,061 |
 | Way of Iron | 70.00% | ~1,046 |
-| Mystery Tour | 68.00% | ~1,016 |
-| We brake for nobody | 66.00% | ~986 |
-| Brainstorm | 65.00% | ~971 |
-| Travel Company | 65.00% | ~971 |
-| Mind the Gap | 64.00% | ~956 |
-| All around the World | 62.00% | ~926 |
+| Mystery Tour | 68.00% | ~1,017 |
+| We brake for nobody | 66.00% | ~987 |
+| Brainstorm | 65.00% | ~972 |
+| Travel Company | 65.00% | ~972 |
+| Mind the Gap | 64.00% | ~957 |
+| All around the World | 62.00% | ~927 |
 | Right through the middle | 57.00% | ~852 |
 | Facility Manager | 54.00% | ~807 |
 | Poor Devil | 54.00% | ~807 |
 | Producer | 51.00% | ~762 |
-| Apprentice | 42.00% | ~627 |
-| Bridge Builder | 42.00% | ~627 |
+| Apprentice | 42.00% | ~628 |
+| Bridge Builder | 42.00% | ~628 |
 | Access granted | 35.00% | ~523 |
 | Going once, going twice, sold | 35.00% | ~523 |
 | Stoker | 33.00% | ~493 |
 | Bull and bear | 33.00% | ~493 |
 | Full Steam ahead | 32.00% | ~478 |
 | Financial Shark | 30.00% | ~448 |
-| All mine | 29.00% | ~433 |
-| Mole | 29.00% | ~433 |
-| Socializer | 27.00% | ~403 |
-| General Manager | 26.00% | ~388 |
-| Country Life | 26.00% | ~388 |
+| All mine | 29.00% | ~434 |
+| Mole | 29.00% | ~434 |
+| Socializer | 27.00% | ~404 |
+| General Manager | 26.00% | ~389 |
+| Country Life | 26.00% | ~389 |
 | Hostile Takeover | 25.00% | ~374 |
 | Seven at one stroke | 24.00% | ~359 |
 | Trailblazer | 20.00% | ~299 |
@@ -47,8 +47,8 @@ Rating: 4.46 (Ranked 605)
 | Max Power | 13.00% | ~194 |
 | Go West | 12.00% | ~179 |
 | Bold and beautiful | 11.00% | ~164 |
-| A new Hope | 10.00% | ~149 |
-| Tycoon | 9.00% | ~134 |
+| A new Hope | 9.00% | ~135 |
+| Tycoon | 9.00% | ~135 |
 | Unstoppable | 7.00% | ~105 |
 | Track to the Future | 7.00% | ~105 |
 | Conductor | 5.00% | ~75 |
@@ -61,7 +61,7 @@ Rating: 4.46 (Ranked 605)
 | United States | 0.30% | ~4 |
 | Three Cheers for Progress | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,494 (Ranked 170)  
+Progressed: 1,495 (Ranked 170)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-05 | 1,474 | 0 |
 | 2023-07-06 | 1,482 | 0 |
 | 2023-07-07 | 1,487 | 0 |
-| 2023-07-08 | 1,494 | 0 |
+| 2023-07-08 | 1,495 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
