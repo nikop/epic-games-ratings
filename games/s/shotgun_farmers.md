@@ -11,7 +11,7 @@
 | Triple Kill | 41.00% | ~57 |
 | I Believe I Can Fly | 39.00% | ~55 |
 | Early Survivor | 39.00% | ~35 |
-| No Asperascope | 36.00% | ~50 |
+| No Asperascope | 37.00% | ~52 |
 | Cornivore | 36.00% | ~50 |
 | No Diggity | 36.00% | ~32 |
 | Amateur Survivor | 27.00% | ~24 |
@@ -31,10 +31,10 @@
 | Oh My Gourd | 9.00% | ~8 |
 | Pyromaniac | 9.00% | ~8 |
 | Fresh Pancake | 8.00% | ~11 |
+| Quit Horsin' Around | 8.00% | ~11 |
 | Perfect | 8.00% | ~7 |
 | Expert Survivor | 8.00% | ~7 |
 | Quadsparagus | 8.00% | ~7 |
-| Quit Horsin' Around | 7.00% | ~10 |
 | Bring Home The Bacon | 6.00% | ~8 |
 | Getting Started | 5.00% | ~7 |
 | Master Survivor | 5.00% | ~4 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -380,9 +380,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3227,
+  "EOS_Progressed": 3228,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -4775,6 +4775,11 @@
       "Time": "2023-07-07T22:01:55.1642838+00:00",
       "NumProgressed": 3227,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-08T07:00:39.363564+00:00",
+      "NumProgressed": 3228,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -4856,9 +4861,9 @@
       "ID": "REWARD_19_STRATEGIST",
       "SetID": "bm6el81",
       "Name": "Strategist",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "REWARD_1_MEETING_RESISTANCE",
@@ -5353,13 +5358,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3178,
+      "Progressed": 3179,
       "Completed": 13
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3227,
+      "Progressed": 3228,
       "Completed": 9
     }
   ],
@@ -5367,8 +5372,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-05T19:03:38.4770688+00:00",
-  "LastChanged_Achievements": "2023-07-08T06:00:51.0878628+00:00",
+  "LastChanged_Achievements": "2023-07-08T07:00:39.3635634+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:07.1687539+00:00",
-  "LastUpdate_Ratings": "2023-07-08T06:00:38.6704539+00:00",
-  "LastUpdate_Achievements": "2023-07-08T06:00:51.0879528+00:00"
+  "LastUpdate_Ratings": "2023-07-08T07:00:24.4382501+00:00",
+  "LastUpdate_Achievements": "2023-07-08T07:00:39.3636869+00:00"
 }

@@ -15,12 +15,12 @@ Rating: 4.87 (Ranked 25)
 | I play my own way! | 0.40% | ~14 |
 | Whoa! There's ANOTHER health bar!? | 0.40% | ~14 |
 | You got this, Peppermint? | 0.40% | ~14 |
+| Z-shielding's got nothing on us! | 0.40% | ~14 |
 | Who put gears in there? | 0.40% | ~14 |
 | Call me Turbo Chai | 0.40% | ~8 |
 | This will cost you big time | 0.30% | ~10 |
 | I have to read these things? | 0.30% | ~10 |
 | Feeling the beat! | 0.30% | ~10 |
-| Z-shielding's got nothing on us! | 0.30% | ~10 |
 | Out in a puff of smoke | 0.30% | ~10 |
 | Perfect Parry | 0.30% | ~10 |
 | Perfecter Parry-er! | 0.30% | ~10 |

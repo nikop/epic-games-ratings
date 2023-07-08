@@ -6,18 +6,18 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~20,233 |
+| Genin | 11.00% | ~20,234 |
 | Thorough | 9.00% | ~16,555 |
-| A thief's beginning | 8.00% | ~14,715 |
-| Tanuki Time | 8.00% | ~14,715 |
+| A thief's beginning | 8.00% | ~14,716 |
+| Tanuki Time | 8.00% | ~14,716 |
 | Disguised | 7.00% | ~12,876 |
 | Rescue Takuma | 7.00% | ~12,876 |
 | Rollin' | 7.00% | ~12,876 |
-| Chunin | 6.00% | ~11,036 |
-| Ice Ice Yuki | 6.00% | ~11,036 |
-| Jonin | 6.00% | ~11,036 |
-| Stoned Ox | 6.00% | ~11,036 |
-| Yabu | 6.00% | ~11,036 |
+| Chunin | 6.00% | ~11,037 |
+| Ice Ice Yuki | 6.00% | ~11,037 |
+| Jonin | 6.00% | ~11,037 |
+| Stoned Ox | 6.00% | ~11,037 |
+| Yabu | 6.00% | ~11,037 |
 | Flying Rocks | 5.00% | ~9,197 |
 | Happy Planning | 5.00% | ~9,197 |
 | Mugen Unchained | 5.00% | ~9,197 |
@@ -38,7 +38,7 @@ Number of Ratings: 495  (23.09.2022)
 | Meticulous | 1.00% | ~1,839 |
 | No Gimmicks | 1.00% | ~1,839 |
 | The End | 1.00% | ~1,839 |
-| Undeserved Honor | 0.90% | ~1,655 |
+| Undeserved Honor | 0.90% | ~1,656 |
 | When Cut Across the Neck | 0.80% | ~1,472 |
 | High Five the Moon | 0.70% | ~1,288 |
 | The Cave | 0.70% | ~1,288 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~184 |
 | Release the Kraken | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 183,940 (Ranked 57)  
+Progressed: 183,949 (Ranked 57)  
 Completed: 56 (0.03%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,17 +130,17 @@ Completed: 56 (0.03%) (Ranked 209)
 | 2023-07-05 | 183,423 | 56 |
 | 2023-07-06 | 183,647 | 56 |
 | 2023-07-07 | 183,884 | 56 |
-| 2023-07-08 | 183,940 | 56 |
+| 2023-07-08 | 183,949 | 56 |
 ## Awards
-Max (Great for Beginners): 553  (Ranked 183)  
-Sum: 4,695 (Ranked 131)  
-Diff (max vs sum): 52  
+Max (Great for Beginners): 554  (Ranked 182)  
+Sum: 4,697 (Ranked 131)  
+Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 553 |
+| This game is Great for Beginners | 554 |
 | This game has Diverse Characters | 525 |
 | This game is Extremely Fun | 517 |
-| This game has Amazing Storytelling | 499 |
+| This game has Amazing Storytelling | 500 |
 | This game has Amazing Characters | 483 |
 | This game is Highly Recommended | 480 |
 | This game has Challenging Combat | 477 |
@@ -284,4 +284,4 @@ Diff (max vs sum): 52
 | 2023-06-30 | 4.66 | - | 553 | 4,692 |
 | 2023-07-05 | 4.66 | - | 553 | 4,693 |
 | 2023-07-06 | 4.66 | - | 553 | 4,694 |
-| 2023-07-08 | 4.66 | - | 553 | 4,695 |
+| 2023-07-08 | 4.66 | - | 554 | 4,697 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-10-28T11:00:00+00:00",
     "PcReleaseDate": "2021-10-28T11:00:00+00:00",
@@ -191,9 +191,9 @@
       "ID": "finished_tutorial",
       "SetID": "4akddl8",
       "Name": "Finish the Tutorial",
-      "Percentage": 70,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "found_Put_leseva",
@@ -424,8 +424,8 @@
   "FirstSeenRating": "2023-03-31T05:58:43.0246209+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.7285802+00:00",
   "LastChanged": "2023-03-31T05:58:43.024621+00:00",
-  "LastChanged_Achievements": "2023-07-08T06:03:48.5437044+00:00",
+  "LastChanged_Achievements": "2023-07-08T07:03:21.7356198+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:05.2619445+00:00",
-  "LastUpdate_Ratings": "2023-07-08T06:00:37.037941+00:00",
-  "LastUpdate_Achievements": "2023-07-08T06:03:48.543731+00:00"
+  "LastUpdate_Ratings": "2023-07-08T07:00:23.144587+00:00",
+  "LastUpdate_Achievements": "2023-07-08T07:03:21.7357025+00:00"
 }

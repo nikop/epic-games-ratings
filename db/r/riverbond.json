@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 29,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 521587,
+  "EOS_Progressed": 521589,
   "EOS_Completed": 440,
-  "EOS_NewPlayers": 627,
+  "EOS_NewPlayers": 625,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -8570,6 +8570,11 @@
       "Time": "2023-07-08T06:03:40.4922055+00:00",
       "NumProgressed": 521587,
       "NumCompleted": 440
+    },
+    {
+      "Time": "2023-07-08T07:03:13.6188036+00:00",
+      "NumProgressed": 521589,
+      "NumCompleted": 440
     }
   ],
   "TotalAchievements": 57,
@@ -8589,7 +8594,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 234714
+      "UsersEstimate": 234715
     },
     {
       "ID": "11",
@@ -8597,7 +8602,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 365111
+      "UsersEstimate": 365112
     },
     {
       "ID": "12",
@@ -8605,7 +8610,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 114749
+      "UsersEstimate": 114750
     },
     {
       "ID": "13",
@@ -8613,7 +8618,7 @@
       "Name": "Keep On Trucking",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 67806
+      "UsersEstimate": 67807
     },
     {
       "ID": "14",
@@ -8661,7 +8666,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 323384
+      "UsersEstimate": 323385
     },
     {
       "ID": "2",
@@ -8709,7 +8714,7 @@
       "Name": "Privacy, Please!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 20863
+      "UsersEstimate": 20864
     },
     {
       "ID": "25",
@@ -8733,7 +8738,7 @@
       "Name": "Silky Smooth",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 20863
+      "UsersEstimate": 20864
     },
     {
       "ID": "28",
@@ -8749,7 +8754,7 @@
       "Name": "Hash It Over",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 20863
+      "UsersEstimate": 20864
     },
     {
       "ID": "3",
@@ -8797,7 +8802,7 @@
       "Name": "Biting Tongue",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 20863
+      "UsersEstimate": 20864
     },
     {
       "ID": "35",
@@ -8909,7 +8914,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 323384
+      "UsersEstimate": 323385
     },
     {
       "ID": "48",
@@ -8917,7 +8922,7 @@
       "Name": "To the Beat",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 104317
+      "UsersEstimate": 104318
     },
     {
       "ID": "49",
@@ -8933,7 +8938,7 @@
       "Name": "What a Catch!",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 20863
+      "UsersEstimate": 20864
     },
     {
       "ID": "50",
@@ -8949,7 +8954,7 @@
       "Name": "Hit the Spot",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 20863
+      "UsersEstimate": 20864
     },
     {
       "ID": "52",
@@ -8957,7 +8962,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 239930
+      "UsersEstimate": 239931
     },
     {
       "ID": "53",
@@ -9036,15 +9041,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 521587,
+      "Progressed": 521589,
       "Completed": 440
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-07-08T06:03:40.4922051+00:00",
+  "LastChanged_Achievements": "2023-07-08T07:03:13.6188031+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:39.1461956+00:00",
-  "LastUpdate_Ratings": "2023-07-08T05:57:44.4809155+00:00",
-  "LastUpdate_Achievements": "2023-07-08T06:03:40.4922925+00:00"
+  "LastUpdate_Ratings": "2023-07-08T06:57:34.2980913+00:00",
+  "LastUpdate_Achievements": "2023-07-08T07:03:13.6189065+00:00"
 }

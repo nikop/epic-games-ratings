@@ -6,22 +6,22 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,245 |
-| The Mad Wizard | 11.00% | ~22,913 |
-| The Ring of Regeneration | 7.00% | ~14,581 |
-| Are Ya Chicken? | 7.00% | ~14,581 |
-| Were-verpowered | 5.00% | ~10,415 |
-| Seeking Allies | 5.00% | ~10,415 |
-| Mad Cow Disease | 5.00% | ~10,415 |
-| Friendly Imps | 5.00% | ~10,415 |
-| A Persistent Buzzing | 4.00% | ~8,332 |
-| Pure Energy | 4.00% | ~8,332 |
-| Beast Mode | 3.00% | ~6,249 |
-| Terror in the Dark | 3.00% | ~6,249 |
-| Unearthed Evil | 3.00% | ~6,249 |
-| The Crumbling Temple | 3.00% | ~6,249 |
-| Exploring Port Nyanzaru | 3.00% | ~6,249 |
-| The Contagious Curse | 3.00% | ~6,249 |
+| The Cursed Farmer | 15.00% | ~31,248 |
+| The Mad Wizard | 11.00% | ~22,915 |
+| The Ring of Regeneration | 7.00% | ~14,582 |
+| Are Ya Chicken? | 7.00% | ~14,582 |
+| Were-verpowered | 5.00% | ~10,416 |
+| Seeking Allies | 5.00% | ~10,416 |
+| Mad Cow Disease | 5.00% | ~10,416 |
+| Friendly Imps | 5.00% | ~10,416 |
+| A Persistent Buzzing | 4.00% | ~8,333 |
+| Pure Energy | 4.00% | ~8,333 |
+| Beast Mode | 3.00% | ~6,250 |
+| Terror in the Dark | 3.00% | ~6,250 |
+| Unearthed Evil | 3.00% | ~6,250 |
+| The Crumbling Temple | 3.00% | ~6,250 |
+| Exploring Port Nyanzaru | 3.00% | ~6,250 |
+| The Contagious Curse | 3.00% | ~6,250 |
 | Low Initiative | 2.00% | ~4,166 |
 | A Mysterious Summons | 2.00% | ~4,166 |
 | Building Trust | 2.00% | ~4,166 |
@@ -52,12 +52,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Long Haul | 0.90% | ~1,875 |
 | Lost in the Deep | 0.90% | ~1,875 |
 | Easily Distracted | 0.90% | ~1,875 |
-| The Forbidden City | 0.80% | ~1,666 |
-| Captured! | 0.80% | ~1,666 |
-| Wisdom Check | 0.80% | ~1,666 |
-| The Mists of Ravenloft | 0.80% | ~1,666 |
-| Attack on the Manor | 0.80% | ~1,666 |
-| The Dead Three | 0.80% | ~1,666 |
+| The Forbidden City | 0.80% | ~1,667 |
+| Captured! | 0.80% | ~1,667 |
+| Wisdom Check | 0.80% | ~1,667 |
+| The Mists of Ravenloft | 0.80% | ~1,667 |
+| Attack on the Manor | 0.80% | ~1,667 |
+| The Dead Three | 0.80% | ~1,667 |
 | A Grand Puzzle | 0.70% | ~1,458 |
 | Tomb of the Nine Gods | 0.70% | ~1,458 |
 | Treasure Hunters | 0.70% | ~1,458 |
@@ -77,6 +77,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Difficult Terrain | 0.60% | ~1,250 |
 | Market Fluctuations | 0.60% | ~1,250 |
 | Durable Deep | 0.60% | ~1,250 |
+| Home Field Advantage | 0.50% | ~1,042 |
 | Force Grey Unleashed | 0.50% | ~1,042 |
 | Sleuth It Out | 0.50% | ~1,042 |
 | Chatty Nobles | 0.50% | ~1,042 |
@@ -94,7 +95,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Anti-Dexterous Explorers | 0.40% | ~833 |
 | Lobsterfolk Assault | 0.40% | ~833 |
 | Periodic Petrification | 0.40% | ~833 |
-| Home Field Advantage | 0.40% | ~833 |
 | Vajra's Guards | 0.40% | ~833 |
 | Azaka's Procession - Part 1 | 0.40% | ~833 |
 | Azaka's Procession - Part 2 | 0.40% | ~833 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,300 (Ranked 52)  
+Progressed: 208,318 (Ranked 52)  
 Completed: 2,038 (0.98%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -589,7 +589,7 @@ Completed: 2,038 (0.98%) (Ranked 102)
 | 2023-07-05 | 206,889 | 2,032 |
 | 2023-07-06 | 207,486 | 2,035 |
 | 2023-07-07 | 208,152 | 2,037 |
-| 2023-07-08 | 208,300 | 2,038 |
+| 2023-07-08 | 208,318 | 2,038 |
 ## Awards
 Max (Diverse Characters): 5,013  (Ranked 65)  
 Sum: 30,436 (Ranked 37)  

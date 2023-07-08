@@ -172,9 +172,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7186,
+  "EOS_Progressed": 7187,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5392,6 +5392,11 @@
       "Time": "2023-07-08T00:01:59.7265943+00:00",
       "NumProgressed": 7186,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-08T07:00:56.6365043+00:00",
+      "NumProgressed": 7187,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -5403,7 +5408,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 4599
+      "UsersEstimate": 4600
     },
     {
       "ID": "0002",
@@ -5467,7 +5472,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 3377
+      "UsersEstimate": 3378
     },
     {
       "ID": "0010",
@@ -5491,7 +5496,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2371
+      "UsersEstimate": 2372
     },
     {
       "ID": "0013",
@@ -5531,15 +5536,15 @@
       "Name": "Never Say Loser Again",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 2874
+      "UsersEstimate": 2875
     },
     {
       "ID": "0018",
       "SetID": "2n2feee",
       "Name": "In It to Win It",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 1581
+      "UsersEstimate": 1509
     },
     {
       "ID": "0019",
@@ -5619,7 +5624,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 3377
+      "UsersEstimate": 3378
     },
     {
       "ID": "0029",
@@ -5667,7 +5672,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1796
+      "UsersEstimate": 1797
     },
     {
       "ID": "0035",
@@ -5690,7 +5695,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 7186,
+      "Progressed": 7187,
       "Completed": 1
     }
   ],
@@ -5698,8 +5703,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-06-24T11:00:56.980815+00:00",
-  "LastChanged_Achievements": "2023-07-08T06:01:05.9897075+00:00",
+  "LastChanged_Achievements": "2023-07-08T07:00:56.6365037+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:58.7971193+00:00",
-  "LastUpdate_Ratings": "2023-07-08T05:59:54.4300504+00:00",
-  "LastUpdate_Achievements": "2023-07-08T06:01:05.9897531+00:00"
+  "LastUpdate_Ratings": "2023-07-08T06:59:38.0755034+00:00",
+  "LastUpdate_Achievements": "2023-07-08T07:00:56.6365704+00:00"
 }

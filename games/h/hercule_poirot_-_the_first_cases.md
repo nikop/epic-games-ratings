@@ -50,10 +50,10 @@ Rating: 4.35 (Ranked 736)
 | Probably the Greatest Detective in the World | 13.00% | ~51 |
 | Take a Break | 11.00% | ~43 |
 | Room with a View | 8.00% | ~31 |
-| Work-life Balance | 2.00% | ~8 |
+| Work-life Balance | 3.00% | ~12 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 393 (Ranked 227)  
-Completed: 5 (1.27%) (Ranked 93)  
+Completed: 6 (1.53%) (Ranked 85)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -95,6 +95,7 @@ Completed: 5 (1.27%) (Ranked 93)
 | 2023-06-20 | 391 | 4 |
 | 2023-06-26 | 391 | 5 |
 | 2023-06-29 | 393 | 5 |
+| 2023-07-08 | 393 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

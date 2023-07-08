@@ -2568,7 +2568,7 @@
       "Count": 481
     }
   ],
-  "EOS_Progressed": 6211,
+  "EOS_Progressed": 6212,
   "EOS_Completed": 160,
   "EOS_NewPlayers": 508,
   "EOS_NewCompleters": 1,
@@ -5238,6 +5238,11 @@
       "Time": "2023-07-08T06:00:55.2970664+00:00",
       "NumProgressed": 6211,
       "NumCompleted": 160
+    },
+    {
+      "Time": "2023-07-08T07:00:43.5903657+00:00",
+      "NumProgressed": 6212,
+      "NumCompleted": 160
     }
   ],
   "TotalAchievements": 15,
@@ -5289,7 +5294,7 @@
       "Name": "Constructor",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 3540
+      "UsersEstimate": 3541
     },
     {
       "ID": "Duty_Bound",
@@ -5321,7 +5326,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 76,
       "XP": 75,
-      "UsersEstimate": 4720
+      "UsersEstimate": 4721
     },
     {
       "ID": "Miner",
@@ -5337,7 +5342,7 @@
       "Name": "Photographer",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 4534
+      "UsersEstimate": 4535
     },
     {
       "ID": "Renovator",
@@ -5345,7 +5350,7 @@
       "Name": "Renovator",
       "Percentage": 55,
       "XP": 100,
-      "UsersEstimate": 3416
+      "UsersEstimate": 3417
     },
     {
       "ID": "Thorn_Cleaner",
@@ -5368,7 +5373,7 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 6211,
+      "Progressed": 6212,
       "Completed": 160
     }
   ],
@@ -5376,8 +5381,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-07-07T22:58:34.5048046+00:00",
-  "LastChanged_Achievements": "2023-07-08T06:00:55.2970657+00:00",
+  "LastChanged_Achievements": "2023-07-08T07:00:43.5903651+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:42.1936986+00:00",
-  "LastUpdate_Ratings": "2023-07-08T05:58:22.8060136+00:00",
-  "LastUpdate_Achievements": "2023-07-08T06:00:55.297087+00:00"
+  "LastUpdate_Ratings": "2023-07-08T06:58:12.2702028+00:00",
+  "LastUpdate_Achievements": "2023-07-08T07:00:43.5903943+00:00"
 }

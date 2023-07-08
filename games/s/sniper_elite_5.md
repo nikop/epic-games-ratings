@@ -39,12 +39,12 @@ Rating: 4.45 (Ranked 621)
 | Tinkerer | 0.60% | ~19 |
 | Just a Flesh Wound | 0.50% | ~16 |
 | Rigged to Blow | 0.50% | ~16 |
+| Strategist | 0.40% | ~13 |
 | From Paris with Love | 0.40% | ~13 |
 | Don't hold your breath | 0.40% | ~13 |
 | Herr Today, Gone Tomorrow | 0.40% | ~13 |
 | Siegebreaker | 0.40% | ~13 |
 | Ghost of Falaise | 0.40% | ~13 |
-| Strategist | 0.30% | ~10 |
 | Burn after reading | 0.30% | ~10 |
 | Souvenir hunter | 0.30% | ~10 |
 | Eagle Eyed | 0.30% | ~10 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 621)
 | Stroll in the Woods | 0.10% | ~3 |
 | Going Overboard | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,227 (Ranked 146)  
+Progressed: 3,228 (Ranked 146)  
 Completed: 9 (0.28%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,6 +155,7 @@ Completed: 9 (0.28%) (Ranked 150)
 | 2023-07-05 | 3,214 | 9 |
 | 2023-07-06 | 3,221 | 9 |
 | 2023-07-07 | 3,227 | 9 |
+| 2023-07-08 | 3,228 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
