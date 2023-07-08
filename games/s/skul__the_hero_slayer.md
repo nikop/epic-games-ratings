@@ -28,7 +28,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Levitator | 6.00% | ~473 |
 | The God of Battle | 3.00% | ~237 |
 | Too Much of a Talker | 2.00% | ~158 |
-| The Skeleton King | 1.00% | ~79 |
+| The Skeleton King | 2.00% | ~158 |
 | Cold-Blooded | 0.80% | ~63 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 7,890 (Ranked 120)  

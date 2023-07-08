@@ -46,8 +46,8 @@ Number of Ratings: 524  (23.09.2022)
 | Children of the Elder God | 4.00% | ~2,281 |
 | If It Flies, It Burns | 4.00% | ~2,281 |
 | KBF-FM | 4.00% | ~2,281 |
-| Kill Your Darlings | 3.00% | ~614 |
-| Heartbreaker | 3.00% | ~614 |
+| Kill Your Darlings | 3.00% | ~615 |
+| Heartbreaker | 3.00% | ~615 |
 | Medical Opinions | 2.00% | ~1,140 |
 | Taken Season | 2.00% | ~1,140 |
 | Carny | 2.00% | ~1,140 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~57 |
 | No Punctuation | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,015 (Ranked 80)  
+Progressed: 57,016 (Ranked 80)  
 Completed: 57 (0.10%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 57 (0.10%) (Ranked 183)
 | 2023-07-05 | 56,875 | 57 |
 | 2023-07-06 | 56,931 | 57 |
 | 2023-07-07 | 56,982 | 57 |
-| 2023-07-08 | 57,015 | 57 |
+| 2023-07-08 | 57,016 | 57 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

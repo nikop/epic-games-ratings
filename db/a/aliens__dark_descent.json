@@ -106,9 +106,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2708,
+  "EOS_Progressed": 2709,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 445,
+  "EOS_NewPlayers": 441,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2016,6 +2016,11 @@
       "Time": "2023-07-08T10:05:52.3128317+00:00",
       "NumProgressed": 2708,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-08T11:06:45.8753611+00:00",
+      "NumProgressed": 2709,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2075,7 +2080,7 @@
       "Name": "Omelette Du Fromage",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -2147,7 +2152,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1679
+      "UsersEstimate": 1680
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -2177,9 +2182,9 @@
       "ID": "ACH_MAX_GUNNER",
       "SetID": "816efe",
       "Name": "El Riesgo Siempre Vive",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 352
+      "UsersEstimate": 379
     },
     {
       "ID": "ACH_MAX_MEDIC",
@@ -2219,7 +2224,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 1516
+      "UsersEstimate": 1517
     },
     {
       "ID": "ACH_MISSION_02",
@@ -2251,15 +2256,15 @@
       "Name": "Where It All Begun",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "ACH_MISSION_06",
       "SetID": "816efe",
       "Name": "Living Nightmare",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 542
+      "UsersEstimate": 569
     },
     {
       "ID": "ACH_MISSION_07",
@@ -2267,7 +2272,7 @@
       "Name": "The Darwin Era Was Here",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "ACH_MISSION_08",
@@ -2323,7 +2328,7 @@
       "Name": "Snatched Out",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 1977
+      "UsersEstimate": 1978
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -2331,7 +2336,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 2166
+      "UsersEstimate": 2167
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -2339,7 +2344,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1462
+      "UsersEstimate": 1463
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -2363,7 +2368,7 @@
       "Name": "Recouped Investment",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -2386,7 +2391,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 2708,
+      "Progressed": 2709,
       "Completed": 0
     }
   ],
@@ -2394,8 +2399,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-07T20:59:14.940601+00:00",
-  "LastChanged_Achievements": "2023-07-08T10:05:52.3128312+00:00",
+  "LastChanged_Achievements": "2023-07-08T11:06:45.8753602+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:32.529009+00:00",
-  "LastUpdate_Ratings": "2023-07-08T09:59:03.7403793+00:00",
-  "LastUpdate_Achievements": "2023-07-08T10:05:52.3128765+00:00"
+  "LastUpdate_Ratings": "2023-07-08T11:00:03.0273927+00:00",
+  "LastUpdate_Achievements": "2023-07-08T11:06:45.8753995+00:00"
 }

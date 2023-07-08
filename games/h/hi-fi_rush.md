@@ -6,11 +6,11 @@ Rating: 4.87 (Ranked 25)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | NOW we got a kickass hideout! | 0.80% | ~16 |
+| Time to pay up! | 0.50% | ~17 |
 | I play my own way! | 0.50% | ~17 |
 | Cream of the Crop | 0.40% | ~14 |
 | The Negotiator | 0.40% | ~14 |
 | Headliner | 0.40% | ~14 |
-| Time to pay up! | 0.40% | ~14 |
 | Who's the boss now? | 0.40% | ~14 |
 | Thanks for the free chip, Peppermint! | 0.40% | ~14 |
 | Whoa! There's ANOTHER health bar!? | 0.40% | ~14 |

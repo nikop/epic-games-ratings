@@ -25,9 +25,9 @@
 | Medium Rare | 3.00% | ~4 |
 | Ice Breaker | 2.00% | ~3 |
 | Monster of Fashion | 2.00% | ~3 |
+| Scrap Collector | 2.00% | ~3 |
 | Single Person On Earth | 2.00% | ~3 |
 | Bullet Hell | 1.00% | ~2 |
-| Scrap Collector | 1.00% | ~2 |
 | Untouchable | 1.00% | ~2 |
 | Machine Man | 0.70% | ~1 |
 | Mushroom Man | 0.70% | ~1 |

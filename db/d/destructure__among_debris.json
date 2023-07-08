@@ -893,9 +893,9 @@
       "ID": "scrap_collector",
       "SetID": "jig50d",
       "Name": "Scrap Collector",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "single_person",
@@ -974,8 +974,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-07-08T10:03:24.620491+00:00",
+  "LastChanged_Achievements": "2023-07-08T11:03:42.4061621+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:27.8329656+00:00",
-  "LastUpdate_Ratings": "2023-07-08T09:59:37.4505928+00:00",
-  "LastUpdate_Achievements": "2023-07-08T10:03:24.6205193+00:00"
+  "LastUpdate_Ratings": "2023-07-08T11:00:50.4705859+00:00",
+  "LastUpdate_Achievements": "2023-07-08T11:03:42.4061844+00:00"
 }

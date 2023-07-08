@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -268,7 +268,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4942,
+  "EOS_Progressed": 4944,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 1,
@@ -4998,6 +4998,11 @@
       "Time": "2023-07-08T10:00:19.4556068+00:00",
       "NumProgressed": 4942,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-08T11:01:45.6173672+00:00",
+      "NumProgressed": 4944,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 50,
@@ -5391,9 +5396,9 @@
       "ID": "49",
       "SetID": "7132754",
       "Name": "Mighty Hoard",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 148
     },
     {
       "ID": "50",
@@ -5408,13 +5413,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4942,
+      "Progressed": 4944,
       "Completed": 4760
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4942,
+      "Progressed": 4944,
       "Completed": 5
     }
   ],
@@ -5422,8 +5427,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-07-04T17:00:43.3128649+00:00",
-  "LastChanged_Achievements": "2023-07-08T10:00:19.4556065+00:00",
+  "LastChanged_Achievements": "2023-07-08T11:01:45.6173666+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:44.6563449+00:00",
-  "LastUpdate_Ratings": "2023-07-08T09:59:12.2747444+00:00",
-  "LastUpdate_Achievements": "2023-07-08T10:00:19.4556932+00:00"
+  "LastUpdate_Ratings": "2023-07-08T11:00:12.5689865+00:00",
+  "LastUpdate_Achievements": "2023-07-08T11:01:45.6174335+00:00"
 }

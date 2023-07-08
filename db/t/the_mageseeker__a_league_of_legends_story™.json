@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2420,
+  "EOS_Progressed": 2421,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -2914,6 +2914,11 @@
       "Time": "2023-07-08T04:07:46.5991768+00:00",
       "NumProgressed": 2420,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-08T11:06:55.4534788+00:00",
+      "NumProgressed": 2421,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -2925,7 +2930,7 @@
       "Name": "Embrace the darkness",
       "Percentage": 12,
       "XP": 120,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "STB_COLISSEUM_FIRST",
@@ -2941,7 +2946,7 @@
       "Name": "Whispers in the Woods IV",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "STB_COLISSEUM_SECOND",
@@ -2949,7 +2954,7 @@
       "Name": "Whispers in the Woods II",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "STB_COLISSEUM_THIRD",
@@ -2965,7 +2970,7 @@
       "Name": "Hijack",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -2989,7 +2994,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2323
+      "UsersEstimate": 2324
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -3029,7 +3034,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 871
+      "UsersEstimate": 872
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -3043,9 +3048,9 @@
       "ID": "STB_DEFEAT_NIGHTMARE_I",
       "SetID": "3pe2bac",
       "Name": "Past trauma",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 847
+      "UsersEstimate": 823
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -3099,9 +3104,9 @@
       "ID": "STB_KILL_5_ENEMIES_SAME_TIME",
       "SetID": "3pe2bac",
       "Name": "Pentakill",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1863
+      "UsersEstimate": 1840
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -3109,7 +3114,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2226
+      "UsersEstimate": 2227
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -3141,7 +3146,7 @@
       "Name": "Dark Forest",
       "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 1863
+      "UsersEstimate": 1864
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -3157,7 +3162,7 @@
       "Name": "Clarion Cove",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 871
+      "UsersEstimate": 872
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -3165,7 +3170,7 @@
       "Name": "Devineur",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -3173,7 +3178,7 @@
       "Name": "Sacred Woods",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -3229,7 +3234,7 @@
       "Name": "You can pet the dog",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 1476
+      "UsersEstimate": 1477
     },
     {
       "ID": "STB_PET_HORSE",
@@ -3269,7 +3274,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -3299,9 +3304,9 @@
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
       "SetID": "3pe2bac",
       "Name": "The use of petricite",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 1791
+      "UsersEstimate": 1767
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -3348,7 +3353,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2420,
+      "Progressed": 2421,
       "Completed": 4
     }
   ],
@@ -3356,8 +3361,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-07-07T20:57:43.6161991+00:00",
-  "LastChanged_Achievements": "2023-07-08T10:06:00.5940913+00:00",
+  "LastChanged_Achievements": "2023-07-08T11:06:55.4534783+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:00.9514452+00:00",
-  "LastUpdate_Ratings": "2023-07-08T09:57:33.1748103+00:00",
-  "LastUpdate_Achievements": "2023-07-08T10:06:00.5941631+00:00"
+  "LastUpdate_Ratings": "2023-07-08T10:58:09.0164622+00:00",
+  "LastUpdate_Achievements": "2023-07-08T11:06:55.4535438+00:00"
 }

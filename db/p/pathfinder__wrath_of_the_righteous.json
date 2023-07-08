@@ -2982,18 +2982,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 6799,
       "NumberOfAwardsMax": 1673
+    },
+    {
+      "Time": "2023-07-08T10:59:04.6378998+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6800,
+      "NumberOfAwardsMax": 1674
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6799,
-  "NumberOfAwardsMax": 1673,
+  "NumberOfAwards": 6800,
+  "NumberOfAwardsMax": 1674,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1673
+      "Count": 1674
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3056,9 +3062,9 @@
       "Count": 380
     }
   ],
-  "EOS_Progressed": 10216,
+  "EOS_Progressed": 10217,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7971,6 +7977,11 @@
       "Time": "2023-07-08T10:03:23.7270272+00:00",
       "NumProgressed": 10216,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-08T11:03:41.292791+00:00",
+      "NumProgressed": 10217,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -8166,7 +8177,7 @@
       "Name": "The Legacy",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "25_MasterfulDispell",
@@ -8182,7 +8193,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "28_GreatUpstart",
@@ -8214,7 +8225,7 @@
       "Name": "Divide and Rule",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "32_MythicReinforcements",
@@ -8222,7 +8233,7 @@
       "Name": "Mythic Reinforcements",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "33_DefendersHeart",
@@ -8358,7 +8369,7 @@
       "Name": "A Flame",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "50_HeyIKnowYou",
@@ -8366,7 +8377,7 @@
       "Name": "Hey, I Know You!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "51_DemonicAndDivine",
@@ -8406,7 +8417,7 @@
       "Name": "Next-Door Play",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "56_GetToad",
@@ -8414,7 +8425,7 @@
       "Name": "Get the Toad",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "57_PathOfDevil",
@@ -8909,21 +8920,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8998,
+      "Progressed": 8999,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10216,
+      "Progressed": 10217,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-07-07T15:58:26.8759789+00:00",
-  "LastChanged_Achievements": "2023-07-08T10:03:23.7270268+00:00",
+  "LastChanged": "2023-07-08T10:59:04.6378997+00:00",
+  "LastChanged_Achievements": "2023-07-08T11:03:41.2927902+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:12.7052521+00:00",
-  "LastUpdate_Ratings": "2023-07-08T09:58:17.4718631+00:00",
-  "LastUpdate_Achievements": "2023-07-08T10:03:23.7272311+00:00"
+  "LastUpdate_Ratings": "2023-07-08T10:59:04.6379002+00:00",
+  "LastUpdate_Achievements": "2023-07-08T11:03:41.2929398+00:00"
 }

@@ -6,22 +6,22 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,259 |
-| The Mad Wizard | 11.00% | ~22,923 |
-| The Ring of Regeneration | 7.00% | ~14,588 |
-| Are Ya Chicken? | 7.00% | ~14,588 |
-| Were-verpowered | 5.00% | ~10,420 |
-| Seeking Allies | 5.00% | ~10,420 |
-| Mad Cow Disease | 5.00% | ~10,420 |
-| Friendly Imps | 5.00% | ~10,420 |
-| A Persistent Buzzing | 4.00% | ~8,336 |
-| Pure Energy | 4.00% | ~8,336 |
-| Beast Mode | 3.00% | ~6,252 |
-| Terror in the Dark | 3.00% | ~6,252 |
-| Unearthed Evil | 3.00% | ~6,252 |
-| The Crumbling Temple | 3.00% | ~6,252 |
-| Exploring Port Nyanzaru | 3.00% | ~6,252 |
-| The Contagious Curse | 3.00% | ~6,252 |
+| The Cursed Farmer | 15.00% | ~31,264 |
+| The Mad Wizard | 11.00% | ~22,927 |
+| The Ring of Regeneration | 7.00% | ~14,590 |
+| Are Ya Chicken? | 7.00% | ~14,590 |
+| Were-verpowered | 5.00% | ~10,421 |
+| Seeking Allies | 5.00% | ~10,421 |
+| Mad Cow Disease | 5.00% | ~10,421 |
+| Friendly Imps | 5.00% | ~10,421 |
+| A Persistent Buzzing | 4.00% | ~8,337 |
+| Pure Energy | 4.00% | ~8,337 |
+| Beast Mode | 3.00% | ~6,253 |
+| Terror in the Dark | 3.00% | ~6,253 |
+| Unearthed Evil | 3.00% | ~6,253 |
+| The Crumbling Temple | 3.00% | ~6,253 |
+| Exploring Port Nyanzaru | 3.00% | ~6,253 |
+| The Contagious Curse | 3.00% | ~6,253 |
 | Low Initiative | 2.00% | ~4,168 |
 | A Mysterious Summons | 2.00% | ~4,168 |
 | Building Trust | 2.00% | ~4,168 |
@@ -68,15 +68,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rude Welcome | 0.70% | ~1,459 |
 | Durable Deep | 0.70% | ~1,459 |
 | The Haunted Jungle | 0.70% | ~1,459 |
-| Family Entanglements | 0.60% | ~1,250 |
-| The Immortal Warrior | 0.60% | ~1,250 |
-| The Wyrmheart Mine | 0.60% | ~1,250 |
-| The Guardian of Orolunga | 0.60% | ~1,250 |
-| Hopelessly Lost | 0.60% | ~1,250 |
-| Enter the Sargauth | 0.60% | ~1,250 |
-| Crowded Streets | 0.60% | ~1,250 |
-| Difficult Terrain | 0.60% | ~1,250 |
-| Market Fluctuations | 0.60% | ~1,250 |
+| Family Entanglements | 0.60% | ~1,251 |
+| The Immortal Warrior | 0.60% | ~1,251 |
+| The Wyrmheart Mine | 0.60% | ~1,251 |
+| The Guardian of Orolunga | 0.60% | ~1,251 |
+| Hopelessly Lost | 0.60% | ~1,251 |
+| Enter the Sargauth | 0.60% | ~1,251 |
+| Crowded Streets | 0.60% | ~1,251 |
+| Difficult Terrain | 0.60% | ~1,251 |
+| Market Fluctuations | 0.60% | ~1,251 |
 | Home Field Advantage | 0.50% | ~1,042 |
 | Force Grey Unleashed | 0.50% | ~1,042 |
 | Sleuth It Out | 0.50% | ~1,042 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,395 (Ranked 52)  
+Progressed: 208,425 (Ranked 52)  
 Completed: 2,039 (0.98%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -589,10 +589,10 @@ Completed: 2,039 (0.98%) (Ranked 102)
 | 2023-07-05 | 206,889 | 2,032 |
 | 2023-07-06 | 207,486 | 2,035 |
 | 2023-07-07 | 208,152 | 2,037 |
-| 2023-07-08 | 208,395 | 2,039 |
+| 2023-07-08 | 208,425 | 2,039 |
 ## Awards
 Max (Diverse Characters): 5,013  (Ranked 65)  
-Sum: 30,444 (Ranked 37)  
+Sum: 30,445 (Ranked 37)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -602,7 +602,7 @@ Diff (max vs sum): 28
 | This game is Relaxing | 4,546 |
 | This game is Highly Recommended | 3,997 |
 | This game has Amazing Characters | 3,997 |
-| This game has Playful Visuals | 3,293 |
+| This game has Playful Visuals | 3,294 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -769,4 +769,4 @@ Diff (max vs sum): 28
 | 2023-07-05 | 4.05 | - | 5,005 | 30,400 |
 | 2023-07-06 | 4.05 | - | 5,009 | 30,419 |
 | 2023-07-07 | 4.05 | - | 5,013 | 30,436 |
-| 2023-07-08 | 4.05 | - | 5,013 | 30,444 |
+| 2023-07-08 | 4.05 | - | 5,013 | 30,445 |

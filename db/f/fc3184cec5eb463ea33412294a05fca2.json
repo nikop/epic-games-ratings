@@ -272,9 +272,9 @@
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "8d3ci0",
       "Name": "On fire",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 60,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -295,8 +295,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-08T10:04:13.3637805+00:00",
+  "LastChanged_Achievements": "2023-07-08T11:04:42.9334355+00:00",
   "LastUpdate_AppInfo": "2023-07-01T10:57:17.0753347+00:00",
-  "LastUpdate_Ratings": "2023-07-08T09:56:59.0676684+00:00",
-  "LastUpdate_Achievements": "2023-07-08T10:04:13.3637918+00:00"
+  "LastUpdate_Ratings": "2023-07-08T10:57:20.5814324+00:00",
+  "LastUpdate_Achievements": "2023-07-08T11:04:42.9334471+00:00"
 }

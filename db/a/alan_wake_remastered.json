@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,7 +512,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57015,
+  "EOS_Progressed": 57016,
   "EOS_Completed": 57,
   "EOS_NewPlayers": 439,
   "EOS_NewCompleters": 1,
@@ -7307,6 +7307,11 @@
       "Time": "2023-07-08T10:03:29.0246778+00:00",
       "NumProgressed": 57015,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-08T11:03:48.2602815+00:00",
+      "NumProgressed": 57016,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7790,7 +7795,7 @@
       "Name": "Kill Your Darlings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "61",
@@ -7846,28 +7851,28 @@
       "Name": "Heartbreaker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     }
   ],
   "AchievementSets": [
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57015,
+      "Progressed": 57016,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20483,
+      "Progressed": 20484,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-08T10:03:29.0246771+00:00",
+  "LastChanged_Achievements": "2023-07-08T11:03:48.2602809+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:08.3646753+00:00",
-  "LastUpdate_Ratings": "2023-07-08T09:57:38.2255027+00:00",
-  "LastUpdate_Achievements": "2023-07-08T10:03:29.02479+00:00"
+  "LastUpdate_Ratings": "2023-07-08T10:58:15.0141964+00:00",
+  "LastUpdate_Achievements": "2023-07-08T11:03:48.2603722+00:00"
 }

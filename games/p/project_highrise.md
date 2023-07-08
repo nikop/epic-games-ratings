@@ -51,15 +51,15 @@
 | Phoning It In | 8.00% | ~18 |
 | Pipe Up | 8.00% | ~18 |
 | I'm Busy Ruling | 7.00% | ~16 |
+| Careful Constructor | 7.00% | ~16 |
 | Water Features | 7.00% | ~16 |
 | Meet Me at HQ | 7.00% | ~16 |
+| Sky High Stature | 7.00% | ~16 |
 | Profound Proceeds | 7.00% | ~16 |
 | It's a Gas | 7.00% | ~16 |
 | Meet ADA/360 | 6.00% | ~14 |
 | Penthouse in the Sky | 6.00% | ~14 |
 | Baron of Business | 6.00% | ~14 |
-| Careful Constructor | 6.00% | ~14 |
-| Sky High Stature | 6.00% | ~14 |
 | Tuned In | 6.00% | ~14 |
 | Office Bigwigs | 5.00% | ~12 |
 | Golden Opportunity | 5.00% | ~12 |

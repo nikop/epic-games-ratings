@@ -370,9 +370,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6927,
+  "EOS_Progressed": 6928,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -5345,6 +5345,11 @@
       "Time": "2023-07-08T10:03:54.6219033+00:00",
       "NumProgressed": 6927,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-07-08T11:04:19.5699388+00:00",
+      "NumProgressed": 6928,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 29,
@@ -5356,7 +5361,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5749
+      "UsersEstimate": 5750
     },
     {
       "ID": "ACH02",
@@ -5476,7 +5481,7 @@
       "Name": "A Marked Man",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "ACH17",
@@ -5492,7 +5497,7 @@
       "Name": "Not So Fast",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "ACH19",
@@ -5587,7 +5592,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6927,
+      "Progressed": 6928,
       "Completed": 40
     }
   ],
@@ -5595,8 +5600,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-07-06T20:58:32.0541996+00:00",
-  "LastChanged_Achievements": "2023-07-08T10:03:54.6219028+00:00",
+  "LastChanged_Achievements": "2023-07-08T11:04:19.5699382+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:25.3422771+00:00",
-  "LastUpdate_Ratings": "2023-07-08T09:57:50.193142+00:00",
-  "LastUpdate_Achievements": "2023-07-08T10:03:54.6219586+00:00"
+  "LastUpdate_Ratings": "2023-07-08T10:58:29.1743456+00:00",
+  "LastUpdate_Achievements": "2023-07-08T11:04:19.5699767+00:00"
 }

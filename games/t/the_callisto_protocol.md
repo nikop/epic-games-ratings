@@ -23,11 +23,11 @@ Rating: 4.19 (Ranked 845)
 | Without A Paddle | 1.00% | ~157 |
 | In the Pipe, Five by Five | 1.00% | ~157 |
 | What Lies Beneath | 1.00% | ~157 |
+| Desperate Times | 1.00% | ~157 |
 | Crash Site | 1.00% | ~157 |
 | Full Circle | 1.00% | ~157 |
 | Power Up | 1.00% | ~157 |
 | It's Time | 1.00% | ~36 |
-| Desperate Times | 0.90% | ~141 |
 | The Commonality | 0.80% | ~125 |
 | One Last Job | 0.70% | ~25 |
 | In Striking Distance | 0.60% | ~94 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 845)
 | I am the Danger | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,660 (Ranked 108)  
+Progressed: 15,661 (Ranked 108)  
 Completed: 64 (0.41%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,15 +131,16 @@ Completed: 64 (0.41%) (Ranked 136)
 | 2023-07-05 | 15,644 | 64 |
 | 2023-07-06 | 15,653 | 64 |
 | 2023-07-07 | 15,660 | 64 |
+| 2023-07-08 | 15,661 | 64 |
 ## Awards
 Max (Amazing Storytelling): 64  (Ranked 379)  
-Sum: 371 (Ranked 318)  
+Sum: 372 (Ranked 318)  
 Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 64 |
 | This game is Highly Recommended | 63 |
-| This game has Amazing Characters | 60 |
+| This game has Amazing Characters | 61 |
 | This game has Quickly Understood Controls | 59 |
 | This game is Extremely Fun | 53 |
 | This game has Challenging Combat | 48 |
@@ -233,4 +234,4 @@ Diff (max vs sum): 61
 | 2023-07-04 | 4.19 | 64 | 364 |
 | 2023-07-06 | 4.19 | 64 | 367 |
 | 2023-07-07 | 4.19 | 64 | 370 |
-| 2023-07-08 | 4.19 | 64 | 371 |
+| 2023-07-08 | 4.19 | 64 | 372 |

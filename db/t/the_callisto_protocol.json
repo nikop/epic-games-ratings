@@ -840,10 +840,16 @@
       "Rating": 4.19,
       "NumberOfAwards": 371,
       "NumberOfAwardsMax": 64
+    },
+    {
+      "Time": "2023-07-08T10:58:33.0320569+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 372,
+      "NumberOfAwardsMax": 64
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 371,
+  "NumberOfAwards": 372,
   "NumberOfAwardsMax": 64,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -869,7 +875,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 60
+      "Count": 61
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -890,7 +896,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 15660,
+  "EOS_Progressed": 15661,
   "EOS_Completed": 64,
   "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 2,
@@ -5370,6 +5376,11 @@
       "Time": "2023-07-07T23:06:02.5372333+00:00",
       "NumProgressed": 15660,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-07-08T11:06:00.7772823+00:00",
+      "NumProgressed": 15661,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 47,
@@ -5611,9 +5622,9 @@
       "ID": "STORY_OUTBREAK",
       "SetID": "4hj6d86",
       "Name": "Desperate Times",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 157
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -5756,22 +5767,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15660,
+      "Progressed": 15661,
       "Completed": 64
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3586,
+      "Progressed": 3587,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-07-08T02:21:25.7303142+00:00",
-  "LastChanged_Achievements": "2023-07-08T10:05:17.0320744+00:00",
+  "LastChanged": "2023-07-08T10:58:33.0320568+00:00",
+  "LastChanged_Achievements": "2023-07-08T11:06:00.7772814+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:30.5014032+00:00",
-  "LastUpdate_Ratings": "2023-07-08T09:57:53.2060897+00:00",
-  "LastUpdate_Achievements": "2023-07-08T10:05:17.0321379+00:00"
+  "LastUpdate_Ratings": "2023-07-08T10:58:33.0320573+00:00",
+  "LastUpdate_Achievements": "2023-07-08T11:06:00.7773344+00:00"
 }

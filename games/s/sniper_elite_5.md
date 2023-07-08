@@ -56,6 +56,7 @@ Rating: 4.45 (Ranked 621)
 | Fight Another Day | 0.30% | ~10 |
 | Shipbreaker | 0.30% | ~10 |
 | Sink or Swim | 0.30% | ~10 |
+| Best of the Best | 0.20% | ~6 |
 | Master of Secondaries | 0.20% | ~6 |
 | Master of Rifles | 0.20% | ~6 |
 | Out of Scope | 0.20% | ~6 |
@@ -65,7 +66,6 @@ Rating: 4.45 (Ranked 621)
 | Can't Outrun A Bullet | 0.20% | ~6 |
 | Führerious Repetition | 0.20% | ~6 |
 | Operation Overlord | 0.20% | ~6 |
-| Best of the Best | 0.10% | ~3 |
 | Master of Pistols | 0.10% | ~3 |
 | Master-at-arms | 0.10% | ~3 |
 | Sight Beyond Sights | 0.10% | ~3 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 621)
 | Stroll in the Woods | 0.10% | ~3 |
 | Going Overboard | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,228 (Ranked 146)  
+Progressed: 3,229 (Ranked 146)  
 Completed: 9 (0.28%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 9 (0.28%) (Ranked 150)
 | 2023-07-05 | 3,214 | 9 |
 | 2023-07-06 | 3,221 | 9 |
 | 2023-07-07 | 3,227 | 9 |
-| 2023-07-08 | 3,228 | 9 |
+| 2023-07-08 | 3,229 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
