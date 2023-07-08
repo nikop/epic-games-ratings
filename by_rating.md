@@ -72,7 +72,7 @@
 | 65 | [GRIT](games/g/grit.md) | 4.82 | 0 | 504 |
 | 65 | [Huntdown](games/h/huntdown.md) | 4.82 | 0 | 504 |
 | 65 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2,468 | 97 |
-| 65 | [Sifu](games/s/sifu.md) | 4.82 | 6,243 | 52 |
+| 65 | [Sifu](games/s/sifu.md) | 4.82 | 6,253 | 52 |
 | 65 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 395 | 210 |
 | 75 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 418 | 202 |
 | 75 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 1,440 | 122 |
@@ -136,7 +136,7 @@
 | 133 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 5,414 | 62 |
 | 133 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 889 | 149 |
 | 133 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 520 | 189 |
-| 133 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 110 | 319 |
+| 133 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 111 | 319 |
 | 133 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 524 | 188 |
 | 133 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.75 | 0 | 504 |
 | 133 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 44 | 413 |
@@ -149,7 +149,7 @@
 | 144 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 634 | 170 |
 | 144 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,763 | 48 |
 | 144 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.74 | 0 | 504 |
-| 144 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 34,108 | 14 |
+| 144 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 34,159 | 14 |
 | 144 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 0 | 504 |
 | 144 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 0 | 504 |
 | 144 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 0 | 504 |
@@ -524,7 +524,7 @@
 | 520 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 40 | 419 |
 | 520 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 29,658 | 15 |
 | 520 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 21 | 492 |
-| 520 | [Fall Guys](games/f/fall_guys.md) | 4.52 | 143,613 | 7 |
+| 520 | [Fall Guys](games/f/fall_guys.md) | 4.52 | 143,681 | 7 |
 | 520 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 514 | 190 |
 | 520 | [GRIME](games/g/grime.md) | 4.52 | 0 | 504 |
 | 520 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 101 | 327 |
@@ -559,7 +559,7 @@
 | 552 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 35,554 | 13 |
 | 552 | [Duskers](games/d/duskers.md) | 4.50 | 0 | 504 |
 | 552 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 0 | 504 |
-| 552 | [First Class Trouble](games/f/first_class_trouble.md) | 4.50 | 110 | 319 |
+| 552 | [First Class Trouble](games/f/first_class_trouble.md) | 4.50 | 110 | 320 |
 | 552 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,524 | 94 |
 | 552 | [Horace](games/h/horace.md) | 4.50 | 0 | 504 |
 | 552 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 0 | 504 |
@@ -939,7 +939,7 @@
 | 936 | [Potion Permit](games/p/potion_permit.md) | 3.82 | 67 | 374 |
 | 936 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.82 | 0 | 504 |
 | 936 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.82 | 0 | 504 |
-| 940 | [Poker Club](games/p/poker_club.md) | 3.80 | 27 | 464 |
+| 940 | [Poker Club](games/p/poker_club.md) | 3.79 | 27 | 464 |
 | 941 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,047 | 139 |
 | 942 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 0 | 504 |
 | 942 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.77 | 64 | 379 |

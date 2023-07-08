@@ -6,14 +6,14 @@
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 195,829 | 4.68 | 238 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 185,398 | 4.19 | 845 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 157,177 | 4.88 | 18 |
-| 7 | [Fall Guys](games/f/fall_guys.md) | 143,613 | 4.52 | 520 |
+| 7 | [Fall Guys](games/f/fall_guys.md) | 143,681 | 4.52 | 520 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 112,569 | 4.69 | 219 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 72,454 | 4.62 | 344 |
 | 10 | [VALORANT](games/v/valorant.md) | 59,887 | 4.53 | 506 |
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 58,740 | 4.58 | 421 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 40,300 | 4.61 | 361 |
 | 13 | [Destiny 2](games/d/destiny_2.md) | 35,554 | 4.50 | 552 |
-| 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 34,108 | 4.74 | 144 |
+| 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 34,159 | 4.74 | 144 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 29,658 | 4.52 | 520 |
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,648 | 4.65 | 298 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 20,762 | 4.77 | 107 |
@@ -51,7 +51,7 @@
 | 49 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 664 |
 | 50 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,622 | 4.71 | 181 |
 | 51 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,344 | 4.80 | 82 |
-| 52 | [Sifu](games/s/sifu.md) | 6,243 | 4.82 | 65 |
+| 52 | [Sifu](games/s/sifu.md) | 6,253 | 4.82 | 65 |
 | 53 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,214 | 4.58 | 421 |
 | 54 | [DEATH STRANDING](games/d/death_stranding.md) | 6,174 | 4.77 | 107 |
 | 55 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,952 | 4.64 | 312 |
@@ -318,8 +318,8 @@
 | 316 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 114 | 4.63 | 331 |
 | 316 | [Tropico 5](games/t/tropico_5.md) | 114 | 4.45 | 621 |
 | 318 | [Overcooked](games/o/overcooked.md) | 112 | 4.68 | 238 |
-| 319 | [First Class Trouble](games/f/first_class_trouble.md) | 110 | 4.50 | 552 |
-| 319 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 110 | 4.75 | 133 |
+| 319 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 111 | 4.75 | 133 |
+| 320 | [First Class Trouble](games/f/first_class_trouble.md) | 110 | 4.50 | 552 |
 | 321 | [Faeria](games/f/faeria.md) | 108 | 4.45 | 621 |
 | 322 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 106 | 4.50 | 552 |
 | 322 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 106 | 4.46 | 604 |
@@ -466,7 +466,7 @@
 | 464 | [Automachef](games/a/automachef.md) | 27 | 4.34 | 745 |
 | 464 | [City of Gangsters](games/c/city_of_gangsters.md) | 27 | 4.26 | 801 |
 | 464 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 27 | 4.57 | 439 |
-| 464 | [Poker Club](games/p/poker_club.md) | 27 | 3.80 | 940 |
+| 464 | [Poker Club](games/p/poker_club.md) | 27 | 3.79 | 940 |
 | 464 | [Songs of Conquest](games/s/songs_of_conquest.md) | 27 | 4.68 | 238 |
 | 464 | [The Surge](games/t/the_surge.md) | 27 | 4.46 | 604 |
 | 464 | [Wildermyth](games/w/wildermyth.md) | 27 | 4.77 | 107 |
