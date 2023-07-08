@@ -4,7 +4,7 @@
   "ProductSlug": "they-are-coming-a17087",
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-05-20T16:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:38.4823804+00:00",
   "LastChanged": "2023-03-31T05:58:38.4823805+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:41.2701352+00:00",
-  "LastUpdate_Ratings": "2023-07-08T15:59:30.0598971+00:00",
-  "LastUpdate_Achievements": "2023-07-08T16:06:27.0632166+00:00"
+  "LastUpdate_Ratings": "2023-07-08T16:59:13.89231+00:00",
+  "LastUpdate_Achievements": "2023-07-08T17:05:37.1276821+00:00"
 }

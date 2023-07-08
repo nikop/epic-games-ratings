@@ -11,6 +11,7 @@ Rating: 4.18 (Ranked 854)
 | Loose Ends | 4.00% | ~2,668 |
 | The Batman Family | 3.00% | ~2,001 |
 | Something in the Clay | 3.00% | ~2,001 |
+| The Show Mud Go On | 3.00% | ~2,001 |
 | Quartzer Life Crisis | 3.00% | ~2,001 |
 | Snow Problem | 3.00% | ~2,001 |
 | Get ReQ'd | 3.00% | ~2,001 |
@@ -23,7 +24,6 @@ Rating: 4.18 (Ranked 854)
 | End of an Era | 2.00% | ~1,334 |
 | In Your Element | 2.00% | ~1,334 |
 | Protector of Gotham | 2.00% | ~1,334 |
-| The Show Mud Go On | 2.00% | ~1,334 |
 | Rock and a Hard Place | 2.00% | ~1,334 |
 | Not On My Watch | 2.00% | ~1,334 |
 | Bulldozed | 2.00% | ~1,334 |

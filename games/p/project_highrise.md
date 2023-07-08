@@ -44,8 +44,8 @@
 | Plaza Plan | 10.00% | ~23 |
 | Master of Puppets | 10.00% | ~23 |
 | First 100 Days | 9.00% | ~21 |
+| Aestheticly Pleased | 9.00% | ~21 |
 | Refined Palates | 9.00% | ~21 |
-| Aestheticly Pleased | 8.00% | ~18 |
 | Maximum Reuse | 8.00% | ~18 |
 | Revenue Royalty | 8.00% | ~18 |
 | Phoning It In | 8.00% | ~18 |

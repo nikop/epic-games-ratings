@@ -4,7 +4,7 @@
   "ProductSlug": "quest-hunter-96b20d",
   "Ranking_EOS_Progress": 382,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
@@ -241,9 +241,9 @@
       "ID": "killGoldSkeleton10",
       "SetID": "ci65fo0",
       "Name": "Skeletons Fighter",
-      "Percentage": 20,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "killGolem1",
@@ -361,9 +361,9 @@
       "ID": "locBanditBoss",
       "SetID": "ci65fo0",
       "Name": "The Reds camp",
-      "Percentage": 20,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "locCompDungeon10",
@@ -521,9 +521,9 @@
       "ID": "questDefender",
       "SetID": "ci65fo0",
       "Name": "Defender",
-      "Percentage": 20,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "questDetective",
@@ -561,9 +561,9 @@
       "ID": "questKillGoblinMage",
       "SetID": "ci65fo0",
       "Name": "Goblins Conqueror",
-      "Percentage": 20,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "questKillSwampMonster",
@@ -649,9 +649,9 @@
       "ID": "questSavePrincess",
       "SetID": "ci65fo0",
       "Name": "The Savior of Princesses",
-      "Percentage": 20,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "questSavePrincessFinal",
@@ -710,8 +710,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-07-08T16:04:24.4667258+00:00",
+  "LastChanged_Achievements": "2023-07-08T17:04:21.2359233+00:00",
   "LastUpdate_AppInfo": "2023-07-05T09:56:55.4527488+00:00",
-  "LastUpdate_Ratings": "2023-07-08T15:57:05.2396477+00:00",
-  "LastUpdate_Achievements": "2023-07-08T16:04:24.4667888+00:00"
+  "LastUpdate_Ratings": "2023-07-08T16:57:23.9194801+00:00",
+  "LastUpdate_Achievements": "2023-07-08T17:04:21.2359857+00:00"
 }

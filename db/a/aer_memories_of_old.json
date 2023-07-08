@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 75,
-  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14704,
+  "EOS_Progressed": 14707,
   "EOS_Completed": 310,
-  "EOS_NewPlayers": 618,
+  "EOS_NewPlayers": 613,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 2.11,
   "EosHistory": [
@@ -8609,6 +8609,11 @@
       "Time": "2023-07-08T16:02:43.1803511+00:00",
       "NumProgressed": 14704,
       "NumCompleted": 310
+    },
+    {
+      "Time": "2023-07-08T17:03:18.1130048+00:00",
+      "NumProgressed": 14707,
+      "NumCompleted": 310
     }
   ],
   "TotalAchievements": 20,
@@ -8618,9 +8623,9 @@
       "ID": "COMPLETED_MAP",
       "SetID": "b6m2mm5",
       "Name": "Cartographer",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 2500
+      "UsersEstimate": 2647
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -8644,7 +8649,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1323
+      "UsersEstimate": 1324
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -8652,7 +8657,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1764
+      "UsersEstimate": 1765
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -8660,7 +8665,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1470
+      "UsersEstimate": 1471
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -8668,7 +8673,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1176
+      "UsersEstimate": 1177
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -8676,7 +8681,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1764
+      "UsersEstimate": 1765
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -8740,7 +8745,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 11175
+      "UsersEstimate": 11177
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -8748,7 +8753,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 4117
+      "UsersEstimate": 4118
     },
     {
       "ID": "NORTH_FINISHED",
@@ -8779,15 +8784,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 14704,
+      "Progressed": 14707,
       "Completed": 310
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-07-08T16:02:43.1803507+00:00",
+  "LastChanged_Achievements": "2023-07-08T17:03:18.1130043+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:34.4370622+00:00",
-  "LastUpdate_Ratings": "2023-07-08T16:01:13.8480853+00:00",
-  "LastUpdate_Achievements": "2023-07-08T16:02:43.1803993+00:00"
+  "LastUpdate_Ratings": "2023-07-08T17:00:32.3377446+00:00",
+  "LastUpdate_Achievements": "2023-07-08T17:03:18.1130539+00:00"
 }

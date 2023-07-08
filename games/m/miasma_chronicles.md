@@ -16,7 +16,7 @@ Rating: 4.38 (Ranked 710)
 | From Darkness to Light | 47.00% | ~569 |
 | Exorcist | 46.00% | ~557 |
 | Editor Adept | 45.00% | ~544 |
-| Giant Killer | 43.00% | ~520 |
+| Giant Killer | 44.00% | ~532 |
 | Firestarter | 42.00% | ~508 |
 | Sensei | 42.00% | ~508 |
 | The meaning of Kain | 39.00% | ~472 |
@@ -28,8 +28,8 @@ Rating: 4.38 (Ranked 710)
 | Infiltrator | 31.00% | ~375 |
 | Pushing Daisy | 30.00% | ~363 |
 | Experienced | 28.00% | ~339 |
+| Endgame | 25.00% | ~302 |
 | Hold The Line | 25.00% | ~302 |
-| Endgame | 24.00% | ~290 |
 | Savior | 24.00% | ~290 |
 | There Can Be Only One! | 24.00% | ~290 |
 | Chain Killer | 22.00% | ~266 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -116,9 +116,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1495,
+  "EOS_Progressed": 1496,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3061,6 +3061,11 @@
       "Time": "2023-07-08T16:07:35.3567919+00:00",
       "NumProgressed": 1495,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-08T17:06:32.1486036+00:00",
+      "NumProgressed": 1496,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -3080,7 +3085,7 @@
       "Name": "Stoker",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "A02",
@@ -3104,7 +3109,7 @@
       "Name": "Go West",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "A05",
@@ -3152,7 +3157,7 @@
       "Name": "From X to Y",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     },
     {
       "ID": "A11",
@@ -3168,7 +3173,7 @@
       "Name": "Departure",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 1076
+      "UsersEstimate": 1077
     },
     {
       "ID": "A13",
@@ -3184,7 +3189,7 @@
       "Name": "A new Journey",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "A15",
@@ -3192,7 +3197,7 @@
       "Name": "Full Steam ahead",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "A16",
@@ -3208,7 +3213,7 @@
       "Name": "Facility Manager",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "A18",
@@ -3232,7 +3237,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1106
+      "UsersEstimate": 1107
     },
     {
       "ID": "A21",
@@ -3264,7 +3269,7 @@
       "Name": "Access granted",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "A25",
@@ -3304,7 +3309,7 @@
       "Name": "Going once, going twice, sold",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "A30",
@@ -3344,7 +3349,7 @@
       "Name": "Producer",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "A35",
@@ -3360,7 +3365,7 @@
       "Name": "Way of Iron",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1046
+      "UsersEstimate": 1047
     },
     {
       "ID": "A37",
@@ -3368,7 +3373,7 @@
       "Name": "All around the World",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "A38",
@@ -3376,7 +3381,7 @@
       "Name": "Poor Devil",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "A39",
@@ -3384,7 +3389,7 @@
       "Name": "Bold and beautiful",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "A40",
@@ -3400,7 +3405,7 @@
       "Name": "Right through the middle",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 852
+      "UsersEstimate": 853
     },
     {
       "ID": "A42",
@@ -3456,7 +3461,7 @@
       "Name": "Bull and bear",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "A49",
@@ -3464,7 +3469,7 @@
       "Name": "Financial Shark",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "A50",
@@ -3511,7 +3516,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 1495,
+      "Progressed": 1496,
       "Completed": 0
     }
   ],
@@ -3519,8 +3524,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-07-07T23:58:34.1742751+00:00",
-  "LastChanged_Achievements": "2023-07-08T16:07:35.3567913+00:00",
+  "LastChanged_Achievements": "2023-07-08T17:06:32.1486031+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:45.6342045+00:00",
-  "LastUpdate_Ratings": "2023-07-08T15:58:41.6616912+00:00",
-  "LastUpdate_Achievements": "2023-07-08T16:07:35.3568414+00:00"
+  "LastUpdate_Ratings": "2023-07-08T16:58:37.422017+00:00",
+  "LastUpdate_Achievements": "2023-07-08T17:06:32.1486561+00:00"
 }

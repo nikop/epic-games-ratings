@@ -862,9 +862,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 659013,
+  "EOS_Progressed": 659014,
   "EOS_Completed": 165,
-  "EOS_NewPlayers": 289,
+  "EOS_NewPlayers": 288,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8257,6 +8257,11 @@
       "Time": "2023-07-08T16:02:12.0351062+00:00",
       "NumProgressed": 659013,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-07-08T17:01:14.9543733+00:00",
+      "NumProgressed": 659014,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -8268,7 +8273,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 474489
+      "UsersEstimate": 474490
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -8532,7 +8537,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 164753
+      "UsersEstimate": 164754
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -8651,15 +8656,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 659013,
+      "Progressed": 659014,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-07-06T22:58:14.2890682+00:00",
-  "LastChanged_Achievements": "2023-07-08T16:02:12.0351057+00:00",
+  "LastChanged_Achievements": "2023-07-08T17:01:14.9543726+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:04.5984191+00:00",
-  "LastUpdate_Ratings": "2023-07-08T15:58:02.5785335+00:00",
-  "LastUpdate_Achievements": "2023-07-08T16:02:12.0351737+00:00"
+  "LastUpdate_Ratings": "2023-07-08T16:58:08.0613176+00:00",
+  "LastUpdate_Achievements": "2023-07-08T17:01:14.9544401+00:00"
 }

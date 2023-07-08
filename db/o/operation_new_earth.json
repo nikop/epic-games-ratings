@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 370,
+  "EOS_Progressed": 372,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1266,6 +1266,11 @@
       "Time": "2023-07-08T16:05:25.3320093+00:00",
       "NumProgressed": 370,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-08T17:04:51.7008736+00:00",
+      "NumProgressed": 372,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1291,9 +1296,9 @@
       "ID": "ach_defeat_players_10",
       "SetID": "bm61c2p",
       "Name": "Fighting for Survival",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 37
     },
     {
       "ID": "ach_defeat_players_100",
@@ -1357,7 +1362,7 @@
       "Name": "Keeping Busy",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "objective_headquarters_15",
@@ -1381,7 +1386,7 @@
       "Name": "Facility Online",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -1397,7 +1402,7 @@
       "Name": "Sergeant",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -1451,9 +1456,9 @@
       "ID": "objective_key_alliance_join_1",
       "SetID": "bm61c2p",
       "Name": "It\u0027s Good to have Allies",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 166
+      "UsersEstimate": 164
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -1461,7 +1466,7 @@
       "Name": "Covert Operative",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -1533,7 +1538,7 @@
       "Name": "Defenses Online",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -1580,14 +1585,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 370,
+      "Progressed": 372,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-08T16:05:25.332009+00:00",
+  "LastChanged_Achievements": "2023-07-08T17:04:51.7008731+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:58.5226048+00:00",
-  "LastUpdate_Ratings": "2023-07-08T16:01:36.1718595+00:00",
-  "LastUpdate_Achievements": "2023-07-08T16:05:25.3320364+00:00"
+  "LastUpdate_Ratings": "2023-07-08T17:00:48.79227+00:00",
+  "LastUpdate_Achievements": "2023-07-08T17:04:51.7009019+00:00"
 }

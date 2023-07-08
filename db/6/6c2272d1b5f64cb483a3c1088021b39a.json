@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 726,
+  "EOS_Progressed": 727,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2066,6 +2066,11 @@
       "Time": "2023-07-08T12:03:43.0715579+00:00",
       "NumProgressed": 726,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-08T17:03:45.8031943+00:00",
+      "NumProgressed": 727,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2075,9 +2080,9 @@
       "ID": "adventurous_1",
       "SetID": "53c1p3k",
       "Name": "Adventurous 1",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 204
     },
     {
       "ID": "adventurous_2",
@@ -2245,7 +2250,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "elemental_stones_2",
@@ -2604,14 +2609,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 726,
+      "Progressed": 727,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-07-08T16:03:38.845914+00:00",
+  "LastChanged_Achievements": "2023-07-08T17:03:45.8031939+00:00",
   "LastUpdate_AppInfo": "2023-07-04T02:21:54.526557+00:00",
-  "LastUpdate_Ratings": "2023-07-08T15:57:10.0605052+00:00",
-  "LastUpdate_Achievements": "2023-07-08T16:03:38.8459684+00:00"
+  "LastUpdate_Ratings": "2023-07-08T16:57:28.0901995+00:00",
+  "LastUpdate_Achievements": "2023-07-08T17:03:45.8032525+00:00"
 }

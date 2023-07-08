@@ -1352,9 +1352,9 @@
       "ID": "ACH_FIN_CH08",
       "SetID": "1j25agn",
       "Name": "The Difference",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_FIN_CH09",
@@ -1552,8 +1552,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-06-24T07:57:51.3010975+00:00",
-  "LastChanged_Achievements": "2023-07-08T16:04:04.0228536+00:00",
+  "LastChanged_Achievements": "2023-07-08T17:04:05.4655017+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:50.0000159+00:00",
-  "LastUpdate_Ratings": "2023-07-08T15:57:54.0937408+00:00",
-  "LastUpdate_Achievements": "2023-07-08T16:04:04.0228992+00:00"
+  "LastUpdate_Ratings": "2023-07-08T16:58:01.7376513+00:00",
+  "LastUpdate_Achievements": "2023-07-08T17:04:05.4655497+00:00"
 }

@@ -1604,9 +1604,9 @@
       "ID": "ACHIEVEMENTS_21",
       "SetID": "d4o538a",
       "Name": "Fishing Guru",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 292
     },
     {
       "ID": "ACHIEVEMENTS_22",
@@ -1757,8 +1757,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-06-25T23:02:11.750442+00:00",
-  "LastChanged_Achievements": "2023-07-08T16:04:20.0787705+00:00",
+  "LastChanged_Achievements": "2023-07-08T17:04:17.8548792+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:57.0949556+00:00",
-  "LastUpdate_Ratings": "2023-07-08T16:01:35.2906999+00:00",
-  "LastUpdate_Achievements": "2023-07-08T16:04:20.0787985+00:00"
+  "LastUpdate_Ratings": "2023-07-08T17:00:48.1625056+00:00",
+  "LastUpdate_Achievements": "2023-07-08T17:04:17.8549077+00:00"
 }
