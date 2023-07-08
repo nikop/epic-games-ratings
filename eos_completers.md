@@ -42,7 +42,7 @@
 | 40 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.66% |
 | 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.43% |
 | 42 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
-| 42 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 3.92% |
+| 43 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 3.85% |
 | 44 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.73% |
 | 45 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 3.70% |
 | 46 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
@@ -53,7 +53,7 @@
 | 51 | [Monster Harvest](games/m/monster_harvest.md) | 3.38% |
 | 52 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.33% |
 | 53 | [JARS](games/j/jars.md) | 3.28% |
-| 54 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.16% |
+| 54 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.15% |
 | 55 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.12% |
 | 56 | [The Complex](games/t/the_complex.md) | 3.10% |
 | 57 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.05% |
@@ -69,7 +69,7 @@
 | 67 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.58% |
 | 68 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 69 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
-| 70 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.43% |
+| 70 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.42% |
 | 71 | [Bloodshore](games/b/bloodshore.md) | 2.30% |
 | 71 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.30% |
 | 73 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
@@ -213,15 +213,15 @@
 | 209 | [High On Life](games/h/high_on_life.md) | 0.03% |
 | 209 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.03% |
 | 209 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.03% |
-| 209 | [Tropico 6](games/t/tropico_6.md) | 0.03% |
-| 215 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
-| 215 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
-| 215 | [Good Company](games/g/good_company.md) | 0.02% |
-| 215 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.02% |
-| 215 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
-| 215 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
-| 215 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
-| 215 | [The Alto Collection](games/t/the_alto_collection.md) | 0.02% |
+| 214 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
+| 214 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
+| 214 | [Good Company](games/g/good_company.md) | 0.02% |
+| 214 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.02% |
+| 214 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
+| 214 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
+| 214 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
+| 214 | [The Alto Collection](games/t/the_alto_collection.md) | 0.02% |
+| 214 | [Tropico 6](games/t/tropico_6.md) | 0.02% |
 | 223 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
 | 223 | [Deceive Inc.](games/d/deceive_inc..md) | 0.01% |
 | 223 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
