@@ -193,9 +193,9 @@
       "ID": "ACH_19_HORSE_FRIENDS",
       "SetID": "9loam6m",
       "Name": "Horse friends",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_20_HORSE_LANGUAGE",
@@ -391,8 +391,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2023-07-08T14:02:21.9902542+00:00",
+  "LastChanged_Achievements": "2023-07-08T15:02:16.8209799+00:00",
   "LastUpdate_AppInfo": "2023-07-05T10:56:59.9724687+00:00",
-  "LastUpdate_Ratings": "2023-07-08T13:57:02.5695144+00:00",
-  "LastUpdate_Achievements": "2023-07-08T14:02:21.9902872+00:00"
+  "LastUpdate_Ratings": "2023-07-08T14:56:50.5278447+00:00",
+  "LastUpdate_Achievements": "2023-07-08T15:02:16.8210063+00:00"
 }

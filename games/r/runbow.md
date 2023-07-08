@@ -1,29 +1,29 @@
 # Runbow
 [Store](https://store.epicgames.com/en-US/p/runbow-fc9fa4)  
 [View Rawdata](../../db/r/runbow.json)  
-Rating: 4.46 (Ranked 604)  
+Rating: 4.46 (Ranked 605)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~130,510 |
-| My First Runbow | 50.00% | ~123,123 |
-| It's The Fall | 26.00% | ~64,024 |
+| In The Zone | 53.00% | ~130,512 |
+| My First Runbow | 50.00% | ~123,125 |
+| It's The Fall | 26.00% | ~64,025 |
 | Be Aggressive | 21.00% | ~51,712 |
 | The Stunner | 21.00% | ~51,712 |
-| Curator | 20.00% | ~49,249 |
-| Crowning Around | 18.00% | ~44,324 |
+| Curator | 20.00% | ~49,250 |
+| Crowning Around | 18.00% | ~44,325 |
 | Can You Dig It? | 17.00% | ~41,862 |
-| You Juan-A-Go? | 16.00% | ~39,399 |
-| Chan-tastic | 15.00% | ~36,937 |
-| Muddy Waters | 15.00% | ~36,937 |
+| You Juan-A-Go? | 16.00% | ~39,400 |
+| Chan-tastic | 15.00% | ~36,938 |
+| Muddy Waters | 15.00% | ~36,938 |
 | Toasty! | 13.00% | ~32,012 |
 | Lazy Laser | 8.00% | ~19,700 |
-| Into The Drift | 7.00% | ~17,237 |
-| Ready? Fight! | 7.00% | ~17,237 |
+| Into The Drift | 7.00% | ~17,238 |
+| Ready? Fight! | 7.00% | ~17,238 |
 | Just A Phaze | 6.00% | ~14,775 |
 | Butt Butt | 6.00% | ~14,775 |
-| He Who Laughs Last | 3.00% | ~7,387 |
-| Shoo, Cat! | 3.00% | ~7,387 |
+| He Who Laughs Last | 3.00% | ~7,388 |
+| Shoo, Cat! | 3.00% | ~7,388 |
 | And You're Okay | 2.00% | ~4,925 |
 | Blotbuster | 2.00% | ~4,925 |
 | Thunderstruck | 2.00% | ~4,925 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 604)
 | Talent Scout | 0.10% | ~246 |
 | True Completionist | 0.10% | ~246 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246,246 (Ranked 43)  
+Progressed: 246,250 (Ranked 43)  
 Completed: 3 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 3 (0.00%) (Ranked 237)
 | 2023-07-05 | 246,087 | 3 |
 | 2023-07-06 | 246,146 | 3 |
 | 2023-07-07 | 246,209 | 3 |
-| 2023-07-08 | 246,246 | 3 |
+| 2023-07-08 | 246,250 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

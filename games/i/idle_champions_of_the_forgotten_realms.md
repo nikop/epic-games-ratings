@@ -6,22 +6,22 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,279 |
-| The Mad Wizard | 11.00% | ~22,938 |
-| The Ring of Regeneration | 7.00% | ~14,597 |
-| Are Ya Chicken? | 7.00% | ~14,597 |
-| Were-verpowered | 5.00% | ~10,426 |
-| Seeking Allies | 5.00% | ~10,426 |
-| Mad Cow Disease | 5.00% | ~10,426 |
-| Friendly Imps | 5.00% | ~10,426 |
-| A Persistent Buzzing | 4.00% | ~8,341 |
-| Pure Energy | 4.00% | ~8,341 |
-| Beast Mode | 3.00% | ~6,256 |
-| Terror in the Dark | 3.00% | ~6,256 |
-| Unearthed Evil | 3.00% | ~6,256 |
-| The Crumbling Temple | 3.00% | ~6,256 |
-| Exploring Port Nyanzaru | 3.00% | ~6,256 |
-| The Contagious Curse | 3.00% | ~6,256 |
+| The Cursed Farmer | 15.00% | ~31,284 |
+| The Mad Wizard | 11.00% | ~22,941 |
+| The Ring of Regeneration | 7.00% | ~14,599 |
+| Are Ya Chicken? | 7.00% | ~14,599 |
+| Were-verpowered | 5.00% | ~10,428 |
+| Seeking Allies | 5.00% | ~10,428 |
+| Mad Cow Disease | 5.00% | ~10,428 |
+| Friendly Imps | 5.00% | ~10,428 |
+| A Persistent Buzzing | 4.00% | ~8,342 |
+| Pure Energy | 4.00% | ~8,342 |
+| Beast Mode | 3.00% | ~6,257 |
+| Terror in the Dark | 3.00% | ~6,257 |
+| Unearthed Evil | 3.00% | ~6,257 |
+| The Crumbling Temple | 3.00% | ~6,257 |
+| Exploring Port Nyanzaru | 3.00% | ~6,257 |
+| The Contagious Curse | 3.00% | ~6,257 |
 | Low Initiative | 2.00% | ~4,171 |
 | A Mysterious Summons | 2.00% | ~4,171 |
 | Building Trust | 2.00% | ~4,171 |
@@ -33,22 +33,23 @@ Number of Ratings: 9,041  (23.09.2022)
 | Underdeep Cartography | 2.00% | ~4,171 |
 | Overdue Rendezvous | 2.00% | ~4,171 |
 | The Templar's Camp | 2.00% | ~4,171 |
-| Homecoming | 1.00% | ~2,085 |
-| Street War | 1.00% | ~2,085 |
-| March of the Undead | 1.00% | ~2,085 |
-| Invisible Shadows | 1.00% | ~2,085 |
-| The Dinner Party | 1.00% | ~2,085 |
-| The Botched Kidnapping | 1.00% | ~2,085 |
-| Trollskull Manor | 1.00% | ~2,085 |
-| The Death Curse | 1.00% | ~2,085 |
-| Premature Betrayal | 1.00% | ~2,085 |
-| A Tale of Two Cities | 1.00% | ~2,085 |
-| Flying Monkey Skulls of Doom | 1.00% | ~2,085 |
-| Close Escort | 1.00% | ~2,085 |
-| Constant Banditry | 1.00% | ~2,085 |
-| Rescue in the Jungle | 1.00% | ~2,085 |
+| Homecoming | 1.00% | ~2,086 |
+| Street War | 1.00% | ~2,086 |
+| March of the Undead | 1.00% | ~2,086 |
+| Invisible Shadows | 1.00% | ~2,086 |
+| The Dinner Party | 1.00% | ~2,086 |
+| The Botched Kidnapping | 1.00% | ~2,086 |
+| Trollskull Manor | 1.00% | ~2,086 |
+| The Death Curse | 1.00% | ~2,086 |
+| Premature Betrayal | 1.00% | ~2,086 |
+| A Tale of Two Cities | 1.00% | ~2,086 |
+| Flying Monkey Skulls of Doom | 1.00% | ~2,086 |
+| Close Escort | 1.00% | ~2,086 |
+| Constant Banditry | 1.00% | ~2,086 |
+| Rescue in the Jungle | 1.00% | ~2,086 |
 | The Lost Heir of Omu | 0.90% | ~1,877 |
 | Attack on the Manor | 0.90% | ~1,877 |
+| The Dead Three | 0.90% | ~1,877 |
 | Dinosaur Racing | 0.90% | ~1,877 |
 | The Long Haul | 0.90% | ~1,877 |
 | Lost in the Deep | 0.90% | ~1,877 |
@@ -57,7 +58,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Captured! | 0.80% | ~1,668 |
 | Wisdom Check | 0.80% | ~1,668 |
 | The Mists of Ravenloft | 0.80% | ~1,668 |
-| The Dead Three | 0.80% | ~1,668 |
 | A Grand Puzzle | 0.70% | ~1,460 |
 | Tomb of the Nine Gods | 0.70% | ~1,460 |
 | Treasure Hunters | 0.70% | ~1,460 |
@@ -165,6 +165,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Get Back In The Castle | 0.20% | ~350 |
 | Checkmate | 0.20% | ~350 |
 | Vecna Out! | 0.20% | ~350 |
+| Who Lurks Below? | 0.20% | ~350 |
 | Wagon Train | 0.20% | ~417 |
 | Taking Responsibility | 0.20% | ~417 |
 | No Good at All | 0.20% | ~417 |
@@ -268,7 +269,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Kas the Destroyer | 0.10% | ~175 |
 | Pin and Skewer | 0.10% | ~175 |
 | Bully for Vecna | 0.10% | ~175 |
-| Who Lurks Below? | 0.10% | ~175 |
 | Clowning Around | 0.10% | ~175 |
 | Xanathaaaaaaar! | 0.10% | ~175 |
 | A Whale of a Time | 0.10% | ~175 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,528 (Ranked 52)  
+Progressed: 208,558 (Ranked 52)  
 Completed: 2,040 (0.98%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -589,7 +589,7 @@ Completed: 2,040 (0.98%) (Ranked 102)
 | 2023-07-05 | 206,889 | 2,032 |
 | 2023-07-06 | 207,486 | 2,035 |
 | 2023-07-07 | 208,152 | 2,037 |
-| 2023-07-08 | 208,528 | 2,040 |
+| 2023-07-08 | 208,558 | 2,040 |
 ## Awards
 Max (Diverse Characters): 5,013  (Ranked 65)  
 Sum: 30,445 (Ranked 37)  

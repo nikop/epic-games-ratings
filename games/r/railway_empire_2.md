@@ -1,7 +1,7 @@
 # Railway Empire 2
 [Store](https://store.epicgames.com/en-US/p/railway-empire-2-46840c)  
 [View Rawdata](../../db/r/railway_empire_2.json)  
-Rating: 4.46 (Ranked 604)  
+Rating: 4.46 (Ranked 605)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -47,7 +47,7 @@ Rating: 4.46 (Ranked 604)
 | Max Power | 13.00% | ~194 |
 | Go West | 12.00% | ~179 |
 | Bold and beautiful | 11.00% | ~164 |
-| A new Hope | 9.00% | ~134 |
+| A new Hope | 10.00% | ~149 |
 | Tycoon | 9.00% | ~134 |
 | Unstoppable | 7.00% | ~105 |
 | Track to the Future | 7.00% | ~105 |

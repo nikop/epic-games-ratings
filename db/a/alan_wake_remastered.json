@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57025,
+  "EOS_Progressed": 57026,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 436,
+  "EOS_NewPlayers": 431,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7327,6 +7327,11 @@
       "Time": "2023-07-08T14:03:53.0797312+00:00",
       "NumProgressed": 57025,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-08T15:03:38.6261994+00:00",
+      "NumProgressed": 57026,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7338,7 +7343,7 @@
       "Name": "Follow the Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 18818
+      "UsersEstimate": 18819
     },
     {
       "ID": "02",
@@ -7370,7 +7375,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10264
+      "UsersEstimate": 10265
     },
     {
       "ID": "06",
@@ -7386,7 +7391,7 @@
       "Name": "Heavy Metal",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5702
+      "UsersEstimate": 5703
     },
     {
       "ID": "08",
@@ -7410,7 +7415,7 @@
       "Name": "Medical Opinions",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "11",
@@ -7426,7 +7431,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5702
+      "UsersEstimate": 5703
     },
     {
       "ID": "13",
@@ -7514,7 +7519,7 @@
       "Name": "Taken Season",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "24",
@@ -7586,7 +7591,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14826
+      "UsersEstimate": 14827
     },
     {
       "ID": "33",
@@ -7618,7 +7623,7 @@
       "Name": "Carny",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "37",
@@ -7634,7 +7639,7 @@
       "Name": "An Idyllic Small Town",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "39",
@@ -7738,7 +7743,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1639
+      "UsersEstimate": 1640
     },
     {
       "ID": "52",
@@ -7873,21 +7878,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57025,
+      "Progressed": 57026,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20493,
+      "Progressed": 20494,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-08T14:03:53.0797307+00:00",
+  "LastChanged_Achievements": "2023-07-08T15:03:38.626199+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:08.3646753+00:00",
-  "LastUpdate_Ratings": "2023-07-08T13:58:08.1415016+00:00",
-  "LastUpdate_Achievements": "2023-07-08T14:03:53.0798365+00:00"
+  "LastUpdate_Ratings": "2023-07-08T14:57:46.1089526+00:00",
+  "LastUpdate_Achievements": "2023-07-08T15:03:38.626282+00:00"
 }

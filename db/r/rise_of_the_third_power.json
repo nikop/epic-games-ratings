@@ -4,7 +4,7 @@
   "ProductSlug": "rise-of-the-third-power-682886",
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -234,9 +234,9 @@
       "ID": "Opulent",
       "SetID": "4nce15l",
       "Name": "Opulent",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Overpowered",
@@ -274,9 +274,9 @@
       "ID": "Sparkly",
       "SetID": "4nce15l",
       "Name": "Sparkly",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "Specialist",
@@ -307,8 +307,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.3919584+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00",
   "LastChanged": "2023-03-31T05:58:42.3919585+00:00",
-  "LastChanged_Achievements": "2023-07-08T14:06:49.5575709+00:00",
+  "LastChanged_Achievements": "2023-07-08T15:06:03.8677669+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:59.2485454+00:00",
-  "LastUpdate_Ratings": "2023-07-08T13:59:37.1725174+00:00",
-  "LastUpdate_Achievements": "2023-07-08T14:06:49.557588+00:00"
+  "LastUpdate_Ratings": "2023-07-08T14:58:54.9922892+00:00",
+  "LastUpdate_Achievements": "2023-07-08T15:06:03.8677798+00:00"
 }

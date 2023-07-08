@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 368,
+  "EOS_Progressed": 369,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1256,6 +1256,11 @@
       "Time": "2023-07-08T12:05:03.4815284+00:00",
       "NumProgressed": 368,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-08T15:04:35.7682974+00:00",
+      "NumProgressed": 369,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1283,7 +1288,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ach_defeat_players_100",
@@ -1371,7 +1376,7 @@
       "Name": "Facility Online",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -1379,7 +1384,7 @@
       "Name": "Corporal",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -1513,9 +1518,9 @@
       "ID": "objective_multiple_factory_1",
       "SetID": "bm61c2p",
       "Name": "Factory Expansion",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 33
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -1570,14 +1575,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 368,
+      "Progressed": 369,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-08T14:05:03.4350212+00:00",
+  "LastChanged_Achievements": "2023-07-08T15:04:35.768297+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:58.5226048+00:00",
-  "LastUpdate_Ratings": "2023-07-08T14:01:11.5672384+00:00",
-  "LastUpdate_Achievements": "2023-07-08T14:05:03.4350562+00:00"
+  "LastUpdate_Ratings": "2023-07-08T15:00:07.3227483+00:00",
+  "LastUpdate_Achievements": "2023-07-08T15:04:35.768324+00:00"
 }

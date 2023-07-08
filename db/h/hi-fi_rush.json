@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3420,
+  "EOS_Progressed": 3422,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4117,6 +4117,11 @@
       "Time": "2023-07-08T02:24:53.3802216+00:00",
       "NumProgressed": 3420,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-08T15:00:18.4434521+00:00",
+      "NumProgressed": 3422,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 71,
@@ -4126,9 +4131,9 @@
       "ID": "Ach001",
       "SetID": "12n4k20",
       "Name": "Start with a bang!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "Ach002",
@@ -4254,17 +4259,17 @@
       "ID": "Ach017",
       "SetID": "12n4k20",
       "Name": "I play my own way!",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 21
     },
     {
       "ID": "Ach018",
       "SetID": "12n4k20",
       "Name": "Whoa! There\u0027s ANOTHER health bar!?",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "Ach019",
@@ -4334,9 +4339,9 @@
       "ID": "Ach027",
       "SetID": "12n4k20",
       "Name": "Z-shielding\u0027s got nothing on us!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "Ach028",
@@ -4526,9 +4531,9 @@
       "ID": "Ach051",
       "SetID": "12n4k20",
       "Name": "You can pet the cat!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "Ach052",
@@ -4695,13 +4700,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3420,
+      "Progressed": 3422,
       "Completed": 5
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 1941,
+      "Progressed": 1943,
       "Completed": 1927
     }
   ],
@@ -4709,8 +4714,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-08T13:15:11.1288868+00:00",
+  "LastChanged_Achievements": "2023-07-08T15:00:18.4434515+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:24.9104218+00:00",
-  "LastUpdate_Ratings": "2023-07-08T13:59:09.0606281+00:00",
-  "LastUpdate_Achievements": "2023-07-08T13:15:11.128973+00:00"
+  "LastUpdate_Ratings": "2023-07-08T14:58:34.4772599+00:00",
+  "LastUpdate_Achievements": "2023-07-08T15:00:18.4454817+00:00"
 }

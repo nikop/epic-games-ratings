@@ -29,7 +29,7 @@ Rating: 4.19 (Ranked 845)
 | Full Circle | 1.00% | ~157 |
 | Power Up | 1.00% | ~157 |
 | The Commonality | 0.90% | ~141 |
-| One Last Job | 0.70% | ~25 |
+| One Last Job | 0.80% | ~29 |
 | In Striking Distance | 0.60% | ~94 |
 | This Isn't About Escape | 0.50% | ~18 |
 | Armed to the Teeth | 0.30% | ~11 |
