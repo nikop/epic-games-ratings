@@ -14,7 +14,7 @@
 | 12 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 14.04% |
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.58% |
 | 14 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
-| 15 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.24% |
+| 15 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.22% |
 | 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.05% |
 | 17 | [Remains](games/r/remains.md) | 11.90% |
 | 18 | [Sonic Origins](games/s/sonic_origins.md) | 10.85% |
@@ -92,7 +92,7 @@
 | 90 | [A Musical Story](games/a/a_musical_story.md) | 1.43% |
 | 91 | [Late Shift](games/l/late_shift.md) | 1.35% |
 | 92 | [Five Dates](games/f/five_dates.md) | 1.30% |
-| 92 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.30% |
+| 93 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.28% |
 | 94 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.25% |
 | 95 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.21% |
 | 96 | [Chorus](games/c/chorus.md) | 1.18% |
