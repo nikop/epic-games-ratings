@@ -370,9 +370,9 @@
       "ID": "Epic_ArcGenerator_1",
       "SetID": "ba1m2fc",
       "Name": "10,000-Volt Electric Field",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "Epic_AsteroidBase_1",
@@ -530,9 +530,9 @@
       "ID": "Epic_HolyLight_1",
       "SetID": "ba1m2fc",
       "Name": "Exorcism",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "Epic_HomeRun_1",
@@ -634,9 +634,9 @@
       "ID": "Epic_Purgatory_1",
       "SetID": "ba1m2fc",
       "Name": "Paradise Lost",
-      "Percentage": 67,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "Epic_Revenge_1",
@@ -674,9 +674,9 @@
       "ID": "Epic_Shotgun_1",
       "SetID": "ba1m2fc",
       "Name": "Deadly Twin Cracks",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Epic_SmallBell_1",
@@ -722,9 +722,9 @@
       "ID": "Epic_Tornado_1",
       "SetID": "ba1m2fc",
       "Name": "Winds of Destruction",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Epic_Treasure_1000",
@@ -761,8 +761,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-07-08T20:04:53.8394608+00:00",
+  "LastChanged_Achievements": "2023-07-08T21:04:48.9906077+00:00",
   "LastUpdate_AppInfo": "2023-07-06T05:56:55.6931967+00:00",
-  "LastUpdate_Ratings": "2023-07-08T19:57:17.4959397+00:00",
-  "LastUpdate_Achievements": "2023-07-08T20:04:53.8395112+00:00"
+  "LastUpdate_Ratings": "2023-07-08T20:57:09.6179169+00:00",
+  "LastUpdate_Achievements": "2023-07-08T21:04:48.9906399+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -863,9 +863,9 @@
       "ID": "ETUA_TheCurseIsReal",
       "SetID": "65jc0ap",
       "Name": "The Curse Is Real",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ETUA_TheForgottenTower",
@@ -887,9 +887,9 @@
       "ID": "ETUA_ThisMansionIsClean",
       "SetID": "65jc0ap",
       "Name": "This Mansion Is Clean",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ETUA_Thiswillbealongnight",
@@ -911,9 +911,9 @@
       "ID": "ETUA_WhatAMansion",
       "SetID": "65jc0ap",
       "Name": "What A Mansion",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "ETUA_WhatHaveIDone",
@@ -936,8 +936,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-07-08T20:05:43.4677237+00:00",
+  "LastChanged_Achievements": "2023-07-08T21:05:41.5517978+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:23.4731921+00:00",
-  "LastUpdate_Ratings": "2023-07-08T19:57:33.7274841+00:00",
-  "LastUpdate_Achievements": "2023-07-08T20:05:43.4677615+00:00"
+  "LastUpdate_Ratings": "2023-07-08T20:57:25.55835+00:00",
+  "LastUpdate_Achievements": "2023-07-08T21:05:41.5518235+00:00"
 }

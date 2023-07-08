@@ -1,31 +1,31 @@
 # Arcadegeddon
 [Store](https://store.epicgames.com/en-US/p/arcadegeddon)  
 [View Rawdata](../../db/a/arcadegeddon.json)  
-Rating: 4.49 (Ranked 573)  
+Rating: 4.49 (Ranked 574)  
 Number of Ratings: 801  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 92.00% | ~6,956 |
-| Photogenic | 88.00% | ~6,654 |
-| Plug It In | 85.00% | ~6,427 |
-| Surge Gauntlet Jockey | 85.00% | ~6,427 |
-| Adventure Time | 80.00% | ~6,049 |
+| Let's Get This Party Started | 92.00% | ~6,957 |
+| Photogenic | 88.00% | ~6,655 |
+| Plug It In | 85.00% | ~6,428 |
+| Surge Gauntlet Jockey | 85.00% | ~6,428 |
+| Adventure Time | 80.00% | ~6,050 |
 | Playing With Power | 78.00% | ~5,898 |
-| Coup d'Etat | 59.00% | ~4,461 |
-| You're Fired | 58.00% | ~4,385 |
-| Get Furious | 56.00% | ~4,234 |
+| Coup d'Etat | 59.00% | ~4,462 |
+| You're Fired | 58.00% | ~4,386 |
+| Get Furious | 56.00% | ~4,235 |
 | Gunplay And Cosplay | 55.00% | ~4,159 |
 | Hacks In Stacks | 55.00% | ~4,159 |
 | Meching Enemies | 49.00% | ~3,705 |
-| Ticket Toddler | 45.00% | ~3,402 |
-| Booty Bashing | 43.00% | ~3,251 |
-| Field Medic | 38.00% | ~2,873 |
-| Here Comes a New Challenger | 38.00% | ~2,873 |
+| Ticket Toddler | 45.00% | ~3,403 |
+| Booty Bashing | 43.00% | ~3,252 |
+| Field Medic | 38.00% | ~2,874 |
+| Here Comes a New Challenger | 38.00% | ~2,874 |
 | Rapid Response | 33.00% | ~2,495 |
 | Surge Ahead | 31.00% | ~2,344 |
 | The Full Monty | 31.00% | ~2,344 |
-| Guardian Angel | 30.00% | ~2,268 |
+| Guardian Angel | 30.00% | ~2,269 |
 | Poppin Noggins | 25.00% | ~1,890 |
 | Clips and Crits | 21.00% | ~1,588 |
 | Grey Goo | 19.00% | ~1,437 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~30 |
 | Pyrotechnical | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,561 (Ranked 121)  
+Progressed: 7,562 (Ranked 121)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-05 | 7,522 | 0 |
 | 2023-07-06 | 7,534 | 0 |
 | 2023-07-07 | 7,543 | 0 |
-| 2023-07-08 | 7,561 | 0 |
+| 2023-07-08 | 7,562 | 0 |
 ## Awards
 Max (Relaxing): 62  (Ranked 384)  
 Sum: 488 (Ranked 298)  

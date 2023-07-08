@@ -6,38 +6,38 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 76.00% | ~34,344 |
-| I read Shakespeare and stuff | 64.00% | ~28,922 |
-| Just a sprinkle | 63.00% | ~28,470 |
-| I'm stumped | 61.00% | ~27,566 |
-| Plant get enough | 60.00% | ~27,114 |
-| This is just my weekend vehicle | 58.00% | ~26,210 |
-| It's just the beginning | 58.00% | ~26,210 |
-| Hard work pays off | 53.00% | ~23,951 |
-| It's never too late to farm | 48.00% | ~21,691 |
-| All out of Land | 44.00% | ~19,884 |
-| Field Trip | 43.00% | ~19,432 |
-| I like to switch it up | 40.00% | ~18,076 |
-| Help me to help you | 38.00% | ~17,172 |
-| Ultimutt Pawesomeness | 28.00% | ~12,653 |
-| Van Gogh | 26.00% | ~11,749 |
-| You wood not believe it | 21.00% | ~9,490 |
-| Vehicle fleet | 21.00% | ~9,490 |
-| The plot thickens | 16.00% | ~7,230 |
-| Well-Oiled Machine | 16.00% | ~7,230 |
-| Long haul | 16.00% | ~7,230 |
-| Clucky Streak | 15.00% | ~6,778 |
-| Large-scale supplier | 15.00% | ~6,778 |
+| Own use | 76.00% | ~34,348 |
+| I read Shakespeare and stuff | 64.00% | ~28,925 |
+| Just a sprinkle | 63.00% | ~28,473 |
+| I'm stumped | 61.00% | ~27,569 |
+| Plant get enough | 60.00% | ~27,117 |
+| This is just my weekend vehicle | 58.00% | ~26,213 |
+| It's just the beginning | 58.00% | ~26,213 |
+| Hard work pays off | 53.00% | ~23,953 |
+| It's never too late to farm | 48.00% | ~21,694 |
+| All out of Land | 44.00% | ~19,886 |
+| Field Trip | 43.00% | ~19,434 |
+| I like to switch it up | 40.00% | ~18,078 |
+| Help me to help you | 38.00% | ~17,174 |
+| Ultimutt Pawesomeness | 28.00% | ~12,655 |
+| Van Gogh | 26.00% | ~11,751 |
+| You wood not believe it | 21.00% | ~9,491 |
+| Vehicle fleet | 21.00% | ~9,491 |
+| The plot thickens | 16.00% | ~7,231 |
+| Well-Oiled Machine | 16.00% | ~7,231 |
+| Long haul | 16.00% | ~7,231 |
+| Clucky Streak | 15.00% | ~6,779 |
+| Large-scale supplier | 15.00% | ~6,779 |
 | That's a wrap | 14.00% | ~6,327 |
 | Fix me up | 13.00% | ~5,875 |
 | Rock on | 12.00% | ~5,423 |
 | It's sow easy | 11.00% | ~4,971 |
-| Highly cultivated | 10.00% | ~4,519 |
-| Giddy-up! | 10.00% | ~4,519 |
-| Cowherd | 7.00% | ~3,163 |
-| Fluffyness | 6.00% | ~2,711 |
-| Helper A does not stop … ever | 6.00% | ~2,711 |
-| Bringing in the Honey | 6.00% | ~2,711 |
+| Highly cultivated | 10.00% | ~4,520 |
+| Giddy-up! | 10.00% | ~4,520 |
+| Cowherd | 7.00% | ~3,164 |
+| Fluffyness | 6.00% | ~2,712 |
+| Helper A does not stop … ever | 6.00% | ~2,712 |
+| Bringing in the Honey | 6.00% | ~2,712 |
 | Road Trip | 5.00% | ~2,260 |
 | Three little piggies… | 4.00% | ~1,808 |
 | Game on | 4.00% | ~1,808 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~181 |
 | Raisin the stakes | 0.30% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,190 (Ranked 87)  
+Progressed: 45,195 (Ranked 87)  
 Completed: 5 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,19 +129,19 @@ Completed: 5 (0.01%) (Ranked 223)
 | 2023-07-05 | 45,060 | 5 |
 | 2023-07-06 | 45,101 | 5 |
 | 2023-07-07 | 45,141 | 5 |
-| 2023-07-08 | 45,190 | 5 |
+| 2023-07-08 | 45,195 | 5 |
 ## Awards
-Max (Great for Beginners): 4,500  (Ranked 71)  
-Sum: 37,947 (Ranked 31)  
+Max (Great for Beginners): 4,505  (Ranked 71)  
+Sum: 37,955 (Ranked 31)  
 Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,500 |
+| This game is Great for Beginners | 4,505 |
 | This game is Relaxing | 4,010 |
 | This game is Educational | 3,978 |
 | This game has Quickly Understood Controls | 3,929 |
 | This game is Extremely Fun | 3,804 |
-| This game is Highly Recommended | 3,799 |
+| This game is Highly Recommended | 3,802 |
 | This game has Diverse Characters | 3,794 |
 | This game has Amazing Storytelling | 3,693 |
 | This game has Amazing Characters | 3,309 |
@@ -323,4 +323,4 @@ Diff (max vs sum): 40
 | 2023-07-05 | 4.70 | - | 4,490 | 37,881 |
 | 2023-07-06 | 4.70 | - | 4,495 | 37,907 |
 | 2023-07-07 | 4.70 | - | 4,500 | 37,926 |
-| 2023-07-08 | 4.70 | - | 4,500 | 37,947 |
+| 2023-07-08 | 4.70 | - | 4,505 | 37,955 |

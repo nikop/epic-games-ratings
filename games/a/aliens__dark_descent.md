@@ -1,34 +1,34 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.45 (Ranked 621)  
+Rating: 4.41 (Ranked 673)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 80.00% | ~2,187 |
-| Snatched Out | 73.00% | ~1,996 |
-| Keep 'Em Coming | 71.00% | ~1,941 |
-| Cleaning Lethe, One Nest At A Time | 63.00% | ~1,722 |
-| Call Me Snake | 57.00% | ~1,558 |
-| Something Lurks Under The Hills | 56.00% | ~1,531 |
+| This Is Hayes, Pioneer Station, Signing Off | 80.00% | ~2,188 |
+| Snatched Out | 73.00% | ~1,997 |
+| Keep 'Em Coming | 71.00% | ~1,942 |
+| Cleaning Lethe, One Nest At A Time | 63.00% | ~1,723 |
+| Call Me Snake | 57.00% | ~1,559 |
+| Something Lurks Under The Hills | 56.00% | ~1,532 |
 | This Was No Papercut | 55.00% | ~1,504 |
-| The Shrink Hates Me | 51.00% | ~1,394 |
+| The Shrink Hates Me | 51.00% | ~1,395 |
 | People Person | 49.00% | ~1,340 |
-| Use The Bumper, That's What It's For | 47.00% | ~1,285 |
-| First Steps Into Madness | 45.00% | ~1,230 |
+| Use The Bumper, That's What It's For | 48.00% | ~1,313 |
+| First Steps Into Madness | 45.00% | ~1,231 |
 | Colonial Barrels | 44.00% | ~1,203 |
-| Damn Dude, You Gotta Lose Some Weight! | 37.00% | ~1,012 |
-| Harper's Hell | 36.00% | ~984 |
+| Damn Dude, You Gotta Lose Some Weight! | 38.00% | ~1,039 |
+| Harper's Hell | 36.00% | ~985 |
 | Making a Stand | 34.00% | ~930 |
 | Recouped Investment | 31.00% | ~848 |
 | Omelette Du Fromage | 29.00% | ~793 |
 | Where It All Begun | 29.00% | ~793 |
-| The More The Merrier | 22.00% | ~601 |
+| The More The Merrier | 22.00% | ~602 |
 | Living Nightmare | 21.00% | ~574 |
 | Stuff Of Nightmares | 17.00% | ~465 |
 | The Darwin Era Was Here | 17.00% | ~465 |
-| Come on, You Wanna Live Forever? | 16.00% | ~437 |
-| Deep Into Insanity | 16.00% | ~437 |
+| Come on, You Wanna Live Forever? | 16.00% | ~438 |
+| Deep Into Insanity | 16.00% | ~438 |
 | The Passenger | 15.00% | ~410 |
 | El Riesgo Siempre Vive | 14.00% | ~383 |
 | One For Every Occasion | 12.00% | ~328 |
@@ -51,7 +51,7 @@ Rating: 4.45 (Ranked 621)
 | Perfect Organism | 0.20% | ~5 |
 | This Ain't No Picnic | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,734 (Ranked 154)  
+Progressed: 2,735 (Ranked 154)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-05 | 2,620 | 0 |
 | 2023-07-06 | 2,648 | 0 |
 | 2023-07-07 | 2,686 | 0 |
-| 2023-07-08 | 2,734 | 0 |
+| 2023-07-08 | 2,735 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -91,3 +91,4 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-05 | 4.45 | 0 | 0 |
 | 2023-07-06 | 4.46 | 0 | 0 |
 | 2023-07-07 | 4.45 | 0 | 0 |
+| 2023-07-08 | 4.41 | 0 | 0 |

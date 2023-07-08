@@ -6,6 +6,7 @@ Rating: 4.19 (Ranked 845)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Get a Grip | 3.00% | ~470 |
+| Two Heads Are Better Than One | 2.00% | ~313 |
 | Float Like A Butterfly | 2.00% | ~313 |
 | Paper Jams | 2.00% | ~313 |
 | Keep Fighting | 2.00% | ~72 |
@@ -14,7 +15,6 @@ Rating: 4.19 (Ranked 845)
 | You Need a Gun | 1.00% | ~157 |
 | Flesh Wound | 1.00% | ~157 |
 | I Do Belong Here | 1.00% | ~157 |
-| Two Heads Are Better Than One | 1.00% | ~157 |
 | Chew 'Em Up | 1.00% | ~157 |
 | Terminated | 1.00% | ~157 |
 | Workplace Hazard | 1.00% | ~157 |
@@ -32,9 +32,9 @@ Rating: 4.19 (Ranked 845)
 | One Last Job | 0.80% | ~29 |
 | In Striking Distance | 0.60% | ~94 |
 | This Isn't About Escape | 0.50% | ~18 |
+| Information Overload | 0.40% | ~14 |
 | Armed to the Teeth | 0.30% | ~11 |
 | Grim Reaper | 0.30% | ~47 |
-| Information Overload | 0.30% | ~11 |
 | Quick Pick | 0.30% | ~11 |
 | Parole Denied | 0.20% | ~7 |
 | Mugshot | 0.20% | ~31 |

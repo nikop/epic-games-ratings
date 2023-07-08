@@ -5,8 +5,10 @@ Rating: 4.61 (Ranked 361)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| A Wonderful Discovery | 3.00% | ~149 |
 | Secret Technique | 3.00% | ~149 |
 | Walls Cannot Stop Us | 3.00% | ~149 |
+| From Friends to Family | 3.00% | ~149 |
 | Magical Synergy | 3.00% | ~149 |
 | Tipping the Scales | 3.00% | ~149 |
 | Blood of the Dragon | 3.00% | ~149 |
@@ -14,9 +16,7 @@ Rating: 4.61 (Ranked 361)
 | There Can Only Be One! | 2.00% | ~99 |
 | Full Ascension | 2.00% | ~99 |
 | Realm Estate | 2.00% | ~99 |
-| A Wonderful Discovery | 2.00% | ~99 |
 | Bone Peddler | 2.00% | ~99 |
-| From Friends to Family | 2.00% | ~99 |
 | Stronger Together | 2.00% | ~99 |
 | My Final Form | 2.00% | ~99 |
 | Seat of Power | 2.00% | ~99 |
@@ -33,11 +33,11 @@ Rating: 4.61 (Ranked 361)
 | The Creator | 1.00% | ~50 |
 | Enchanted Archipelago | 1.00% | ~50 |
 | The Goddess of Nature | 1.00% | ~50 |
+| Eternal Lord | 1.00% | ~50 |
 | Digging for Treasure | 1.00% | ~50 |
 | Preparation Is Everything | 1.00% | ~50 |
 | Duality | 1.00% | ~50 |
 | God Emperor | 0.90% | ~45 |
-| Eternal Lord | 0.90% | ~45 |
 | The Eternal Court | 0.90% | ~45 |
 | Lord of Chaos | 0.80% | ~40 |
 | Crimson Caldera | 0.80% | ~40 |

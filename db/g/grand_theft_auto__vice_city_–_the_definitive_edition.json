@@ -520,7 +520,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 8900,
+  "EOS_Progressed": 8901,
   "EOS_Completed": 43,
   "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 2,
@@ -6025,6 +6025,11 @@
       "Time": "2023-07-08T15:03:08.5947709+00:00",
       "NumProgressed": 8900,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-08T21:03:13.8640875+00:00",
+      "NumProgressed": 8901,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -6300,14 +6305,14 @@
       "Name": "Kingpin",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     }
   ],
   "AchievementSets": [
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8900,
+      "Progressed": 8901,
       "Completed": 43
     }
   ],
@@ -6315,8 +6320,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-07T10:58:53.3105834+00:00",
-  "LastChanged_Achievements": "2023-07-08T20:03:12.9033352+00:00",
+  "LastChanged_Achievements": "2023-07-08T21:03:13.8640866+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:55.3864428+00:00",
-  "LastUpdate_Ratings": "2023-07-08T19:58:53.2786164+00:00",
-  "LastUpdate_Achievements": "2023-07-08T20:03:12.9033934+00:00"
+  "LastUpdate_Ratings": "2023-07-08T20:58:47.4948304+00:00",
+  "LastUpdate_Achievements": "2023-07-08T21:03:13.864132+00:00"
 }

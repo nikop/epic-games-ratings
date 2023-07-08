@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-3-b0c022",
   "Ranking_EOS_Progress": 419,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -304,8 +304,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-07-08T20:04:36.2099931+00:00",
+  "LastChanged_Achievements": "2023-07-08T21:04:29.2351046+00:00",
   "LastUpdate_AppInfo": "2023-07-04T10:57:27.288579+00:00",
-  "LastUpdate_Ratings": "2023-07-08T19:57:13.0396891+00:00",
-  "LastUpdate_Achievements": "2023-07-08T20:04:36.2100168+00:00"
+  "LastUpdate_Ratings": "2023-07-08T20:57:05.4581056+00:00",
+  "LastUpdate_Achievements": "2023-07-08T21:04:29.2351224+00:00"
 }

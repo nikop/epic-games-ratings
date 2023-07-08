@@ -22,12 +22,12 @@ Rating: 4.87 (Ranked 25)
 | Headliner | 0.40% | ~14 |
 | Well that was a rush! | 0.40% | ~14 |
 | I have to read these things? | 0.40% | ~14 |
+| Feeling the beat! | 0.40% | ~14 |
 | Perfect Parry | 0.40% | ~14 |
 | Kissing the sky! | 0.40% | ~14 |
 | Alright, that felt AWESOME! | 0.40% | ~14 |
 | Call me Turbo Chai | 0.40% | ~8 |
 | Start with a bang! | 0.30% | ~10 |
-| Feeling the beat! | 0.30% | ~10 |
 | You must like calling me in, Chai | 0.30% | ~10 |
 | Perfecter Parry-er! | 0.30% | ~10 |
 | That's a lot of junk metal… | 0.30% | ~10 |

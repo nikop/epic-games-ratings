@@ -6,19 +6,19 @@ Number of Ratings: 1,919  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Manifestation of the Soul | 97.00% | ~76,629 |
-| No Escape | 86.00% | ~67,939 |
-| Seeker of Power | 85.00% | ~67,149 |
-| Hopes and Dreams | 82.00% | ~64,779 |
-| Lantern Smasher | 78.00% | ~61,619 |
-| The Pirate's Way | 74.00% | ~58,459 |
-| Dark Crystal, Warrior's Heart | 71.00% | ~56,089 |
-| The King of the Dark Elves | 68.00% | ~53,719 |
-| Memories of the Distant Past | 66.00% | ~52,139 |
-| Distortion's Progeny | 63.00% | ~49,769 |
-| Savant | 62.00% | ~48,979 |
-| A Landscape of Memory | 58.00% | ~45,819 |
-| The Wind's Light | 54.00% | ~42,659 |
+| Manifestation of the Soul | 97.00% | ~76,630 |
+| No Escape | 86.00% | ~67,940 |
+| Seeker of Power | 85.00% | ~67,150 |
+| Hopes and Dreams | 82.00% | ~64,780 |
+| Lantern Smasher | 78.00% | ~61,620 |
+| The Pirate's Way | 74.00% | ~58,460 |
+| Dark Crystal, Warrior's Heart | 71.00% | ~56,090 |
+| The King of the Dark Elves | 68.00% | ~53,720 |
+| Memories of the Distant Past | 66.00% | ~52,140 |
+| Distortion's Progeny | 63.00% | ~49,770 |
+| Savant | 62.00% | ~48,980 |
+| A Landscape of Memory | 58.00% | ~45,820 |
+| The Wind's Light | 54.00% | ~42,660 |
 | Vague Remembrances | 49.00% | ~38,710 |
 | The Fire's Light | 47.00% | ~37,130 |
 | Phantom Memories | 47.00% | ~37,130 |
@@ -53,7 +53,7 @@ Number of Ratings: 1,919  (23.09.2022)
 | Strangers' Memories | 3.00% | ~2,370 |
 | A Tale of Origins and Endings | 2.00% | ~1,580 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78,999 (Ranked 68)  
+Progressed: 79,000 (Ranked 68)  
 Completed: 2,147 (2.72%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 2,147 (2.72%) (Ranked 64)
 | 2023-07-05 | 78,959 | 2,147 |
 | 2023-07-06 | 78,974 | 2,147 |
 | 2023-07-07 | 78,989 | 2,147 |
-| 2023-07-08 | 78,999 | 2,147 |
+| 2023-07-08 | 79,000 | 2,147 |
 ## Awards
 Max (Character Customization): 1,024  (Ranked 141)  
 Sum: 2,581 (Ranked 172)  

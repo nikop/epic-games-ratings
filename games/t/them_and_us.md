@@ -19,15 +19,15 @@
 | Parasite Exterminated | 11.00% | ~16 |
 | The Forgotten Tower | 11.00% | ~16 |
 | Rest In Peace | 9.00% | ~13 |
-| The Curse Is Real | 8.00% | ~12 |
+| The Curse Is Real | 9.00% | ~13 |
+| What A Mansion | 8.00% | ~12 |
 | Trapped | 7.00% | ~10 |
-| What A Mansion | 7.00% | ~10 |
 | Modern Player | 6.00% | ~9 |
 | Researcher | 5.00% | ~7 |
 | I Am The Gate Keeper! | 5.00% | ~7 |
+| This Mansion Is Clean | 4.00% | ~6 |
 | Run and Gun | 3.00% | ~4 |
 | The bus stop | 3.00% | ~4 |
-| This Mansion Is Clean | 3.00% | ~4 |
 | Armed To The Teeth | 2.00% | ~3 |
 | Retro Player | 2.00% | ~3 |
 | Back In Time | 1.00% | ~1 |

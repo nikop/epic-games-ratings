@@ -46,6 +46,7 @@
 | Legacy of a Mercenary | 0.90% | ~1 |
 | Trailblazer | 0.90% | ~1 |
 | Delayed | 0.90% | ~1 |
+| A Real Battle | 0.90% | ~1 |
 | Ruiner | 0.90% | ~1 |
 | Life... Finds a Way | 0.90% | ~1 |
 | Merchant Lord | 0.90% | ~1 |
@@ -88,7 +89,6 @@
 | Settler | 0.00% | ~0 |
 | Escort | 0.00% | ~0 |
 | Despoiler | 0.00% | ~0 |
-| A Real Battle | 0.00% | ~0 |
 | The Darkness Within | 0.00% | ~0 |
 | Celebrity | 0.00% | ~0 |
 | Arcanite | 0.00% | ~0 |

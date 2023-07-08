@@ -2430,9 +2430,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 68555,
+  "EOS_Progressed": 68556,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 409,
+  "EOS_NewPlayers": 408,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -10735,6 +10735,11 @@
       "Time": "2023-07-08T20:04:41.131703+00:00",
       "NumProgressed": 68555,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-07-08T21:04:34.5194444+00:00",
+      "NumProgressed": 68556,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 37,
@@ -10978,7 +10983,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 23994
+      "UsersEstimate": 23995
     },
     {
       "ID": "ACH_0431",
@@ -10994,7 +10999,7 @@
       "Name": "True Player",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 13025
+      "UsersEstimate": 13026
     },
     {
       "ID": "ACH_0450",
@@ -11002,7 +11007,7 @@
       "Name": "Off the Rocks",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 13025
+      "UsersEstimate": 13026
     },
     {
       "ID": "ACH_0451",
@@ -11018,7 +11023,7 @@
       "Name": "Dragonslayer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11654
+      "UsersEstimate": 11655
     },
     {
       "ID": "ACH_0460",
@@ -11041,7 +11046,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 68555,
+      "Progressed": 68556,
       "Completed": 36
     }
   ],
@@ -11049,8 +11054,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-07-07T14:59:45.5289479+00:00",
-  "LastChanged_Achievements": "2023-07-08T20:04:41.1317026+00:00",
+  "LastChanged_Achievements": "2023-07-08T21:04:34.5194438+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:23.2557502+00:00",
-  "LastUpdate_Ratings": "2023-07-08T20:00:56.1064523+00:00",
-  "LastUpdate_Achievements": "2023-07-08T20:04:41.1317881+00:00"
+  "LastUpdate_Ratings": "2023-07-08T21:01:10.958544+00:00",
+  "LastUpdate_Achievements": "2023-07-08T21:04:34.5195037+00:00"
 }

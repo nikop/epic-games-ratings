@@ -6,33 +6,33 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,306 |
-| The Mad Wizard | 11.00% | ~22,958 |
-| The Ring of Regeneration | 7.00% | ~14,610 |
-| Are Ya Chicken? | 7.00% | ~14,610 |
-| Were-verpowered | 5.00% | ~10,435 |
-| Seeking Allies | 5.00% | ~10,435 |
-| Mad Cow Disease | 5.00% | ~10,435 |
-| Friendly Imps | 5.00% | ~10,435 |
-| A Persistent Buzzing | 4.00% | ~8,348 |
-| Pure Energy | 4.00% | ~8,348 |
-| Beast Mode | 3.00% | ~6,261 |
-| Terror in the Dark | 3.00% | ~6,261 |
-| Unearthed Evil | 3.00% | ~6,261 |
-| The Crumbling Temple | 3.00% | ~6,261 |
-| Exploring Port Nyanzaru | 3.00% | ~6,261 |
-| The Contagious Curse | 3.00% | ~6,261 |
-| Low Initiative | 2.00% | ~4,174 |
-| A Mysterious Summons | 2.00% | ~4,174 |
-| Building Trust | 2.00% | ~4,174 |
-| No Time To Rest | 2.00% | ~4,174 |
-| Useless Allies | 2.00% | ~4,174 |
-| Running of the Saurs | 2.00% | ~4,174 |
-| Escort to Waterdeep | 2.00% | ~4,174 |
-| Waterdeep Detours | 2.00% | ~4,174 |
-| Underdeep Cartography | 2.00% | ~4,174 |
-| Overdue Rendezvous | 2.00% | ~4,174 |
-| The Templar's Camp | 2.00% | ~4,174 |
+| The Cursed Farmer | 15.00% | ~31,310 |
+| The Mad Wizard | 11.00% | ~22,961 |
+| The Ring of Regeneration | 7.00% | ~14,611 |
+| Are Ya Chicken? | 7.00% | ~14,611 |
+| Were-verpowered | 5.00% | ~10,437 |
+| Seeking Allies | 5.00% | ~10,437 |
+| Mad Cow Disease | 5.00% | ~10,437 |
+| Friendly Imps | 5.00% | ~10,437 |
+| A Persistent Buzzing | 4.00% | ~8,349 |
+| Pure Energy | 4.00% | ~8,349 |
+| Beast Mode | 3.00% | ~6,262 |
+| Terror in the Dark | 3.00% | ~6,262 |
+| Unearthed Evil | 3.00% | ~6,262 |
+| The Crumbling Temple | 3.00% | ~6,262 |
+| Exploring Port Nyanzaru | 3.00% | ~6,262 |
+| The Contagious Curse | 3.00% | ~6,262 |
+| Low Initiative | 2.00% | ~4,175 |
+| A Mysterious Summons | 2.00% | ~4,175 |
+| Building Trust | 2.00% | ~4,175 |
+| No Time To Rest | 2.00% | ~4,175 |
+| Useless Allies | 2.00% | ~4,175 |
+| Running of the Saurs | 2.00% | ~4,175 |
+| Escort to Waterdeep | 2.00% | ~4,175 |
+| Waterdeep Detours | 2.00% | ~4,175 |
+| Underdeep Cartography | 2.00% | ~4,175 |
+| Overdue Rendezvous | 2.00% | ~4,175 |
+| The Templar's Camp | 2.00% | ~4,175 |
 | Homecoming | 1.00% | ~2,087 |
 | Street War | 1.00% | ~2,087 |
 | March of the Undead | 1.00% | ~2,087 |
@@ -48,12 +48,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Close Escort | 1.00% | ~2,087 |
 | Constant Banditry | 1.00% | ~2,087 |
 | Rescue in the Jungle | 1.00% | ~2,087 |
-| The Lost Heir of Omu | 0.90% | ~1,878 |
-| Attack on the Manor | 0.90% | ~1,878 |
-| The Dead Three | 0.90% | ~1,878 |
-| The Long Haul | 0.90% | ~1,878 |
-| Lost in the Deep | 0.90% | ~1,878 |
-| Easily Distracted | 0.90% | ~1,878 |
+| The Lost Heir of Omu | 0.90% | ~1,879 |
+| Attack on the Manor | 0.90% | ~1,879 |
+| The Dead Three | 0.90% | ~1,879 |
+| The Long Haul | 0.90% | ~1,879 |
+| Lost in the Deep | 0.90% | ~1,879 |
+| Easily Distracted | 0.90% | ~1,879 |
 | The Forbidden City | 0.80% | ~1,670 |
 | Captured! | 0.80% | ~1,670 |
 | Wisdom Check | 0.80% | ~1,670 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,709 (Ranked 52)  
+Progressed: 208,733 (Ranked 52)  
 Completed: 2,041 (0.98%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -589,7 +589,7 @@ Completed: 2,041 (0.98%) (Ranked 102)
 | 2023-07-05 | 206,889 | 2,032 |
 | 2023-07-06 | 207,486 | 2,035 |
 | 2023-07-07 | 208,152 | 2,037 |
-| 2023-07-08 | 208,709 | 2,041 |
+| 2023-07-08 | 208,733 | 2,041 |
 ## Awards
 Max (Diverse Characters): 5,013  (Ranked 65)  
 Sum: 30,446 (Ranked 37)  

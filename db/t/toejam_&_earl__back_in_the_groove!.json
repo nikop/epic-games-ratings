@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -217,7 +217,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 55661,
+  "EOS_Progressed": 55663,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
@@ -5222,6 +5222,11 @@
       "Time": "2023-07-08T19:04:23.3228654+00:00",
       "NumProgressed": 55661,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-08T21:04:38.3144052+00:00",
+      "NumProgressed": 55663,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 49,
@@ -5321,7 +5326,7 @@
       "Name": "Food Taster",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 5009
+      "UsersEstimate": 5010
     },
     {
       "ID": "FoolMeTwice",
@@ -5545,7 +5550,7 @@
       "Name": "Sunflower Master",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2226
+      "UsersEstimate": 2227
     },
     {
       "ID": "Teamwork",
@@ -5624,7 +5629,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 55661,
+      "Progressed": 55663,
       "Completed": 4
     }
   ],
@@ -5632,8 +5637,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-07-08T20:04:44.6292093+00:00",
+  "LastChanged_Achievements": "2023-07-08T21:04:38.3144046+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:05.8866487+00:00",
-  "LastUpdate_Ratings": "2023-07-08T20:01:34.5031745+00:00",
-  "LastUpdate_Achievements": "2023-07-08T20:04:44.6292829+00:00"
+  "LastUpdate_Ratings": "2023-07-08T21:01:50.4706561+00:00",
+  "LastUpdate_Achievements": "2023-07-08T21:04:38.3144593+00:00"
 }
