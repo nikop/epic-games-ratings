@@ -6,21 +6,21 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,010 |
+| Until death do us apart | 9.00% | ~6,011 |
 | That's a Grand Army | 8.00% | ~5,343 |
 | That is mine! | 8.00% | ~5,343 |
 | Victorious! | 8.00% | ~5,343 |
-| Brothers in Arms | 6.00% | ~4,007 |
-| That's a Grand Navy | 6.00% | ~4,007 |
-| Seriously?! | 6.00% | ~4,007 |
-| For the Glory | 5.00% | ~3,339 |
-| Cold War | 4.00% | ~2,671 |
-| True Catholic | 4.00% | ~2,671 |
-| Defender of the Faith | 3.00% | ~2,003 |
-| It's all about the money | 3.00% | ~2,003 |
-| Respected | 3.00% | ~2,003 |
-| The Princess is in this Castle | 3.00% | ~2,003 |
-| Truly Divine Ruler | 3.00% | ~2,003 |
+| Brothers in Arms | 6.00% | ~4,008 |
+| That's a Grand Navy | 6.00% | ~4,008 |
+| Seriously?! | 6.00% | ~4,008 |
+| For the Glory | 5.00% | ~3,340 |
+| Cold War | 4.00% | ~2,672 |
+| True Catholic | 4.00% | ~2,672 |
+| Defender of the Faith | 3.00% | ~2,004 |
+| It's all about the money | 3.00% | ~2,004 |
+| Respected | 3.00% | ~2,004 |
+| The Princess is in this Castle | 3.00% | ~2,004 |
+| Truly Divine Ruler | 3.00% | ~2,004 |
 | Agressive Expander | 2.00% | ~1,336 |
 | Blockader | 2.00% | ~1,336 |
 | Combined Arms | 2.00% | ~1,336 |
@@ -44,8 +44,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Market Control | 0.90% | ~601 |
 | Down Under | 0.80% | ~534 |
 | Trustworthy | 0.80% | ~534 |
-| Electable! | 0.70% | ~467 |
-| Populists in Government | 0.70% | ~467 |
+| Electable! | 0.70% | ~468 |
+| Populists in Government | 0.70% | ~468 |
 | All belongs to Mother Russia | 0.60% | ~401 |
 | At every continent | 0.60% | ~401 |
 | Early-Modern Warfare | 0.60% | ~401 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,782 (Ranked 73)  
+Progressed: 66,793 (Ranked 73)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -440,20 +440,20 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-05 | 65,889 | 0 |
 | 2023-07-06 | 66,326 | 0 |
 | 2023-07-07 | 66,739 | 0 |
-| 2023-07-08 | 66,782 | 0 |
+| 2023-07-08 | 66,793 | 0 |
 ## Awards
 Max (Educational): 5,515  (Ranked 60)  
-Sum: 45,515 (Ranked 27)  
+Sum: 45,522 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,515 |
 | This game is Highly Recommended | 5,285 |
-| This game has Challenging Combat | 5,242 |
+| This game has Challenging Combat | 5,244 |
 | This game is Extremely Fun | 5,226 |
 | This game has Diverse Characters | 5,191 |
 | This game is Relaxing | 5,113 |
-| This game has Competitive Players | 4,949 |
+| This game has Competitive Players | 4,954 |
 | This game has Amazing Storytelling | 4,672 |
 | This game has Amazing Characters | 4,322 |
 | This game has Obsessive Gameplay | 3,351 |
@@ -632,3 +632,4 @@ Diff (max vs sum): 33
 | 2023-07-05 | 4.69 | - | 5,507 | 45,444 |
 | 2023-07-06 | 4.69 | - | 5,511 | 45,478 |
 | 2023-07-07 | 4.69 | - | 5,515 | 45,515 |
+| 2023-07-08 | 4.69 | - | 5,515 | 45,522 |

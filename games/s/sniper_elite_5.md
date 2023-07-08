@@ -34,10 +34,10 @@ Rating: 4.45 (Ranked 621)
 | Skirmisher | 0.70% | ~23 |
 | My Little Friend | 0.70% | ~23 |
 | Snake in the Grass | 0.70% | ~23 |
+| The Long Game | 0.60% | ~19 |
 | Die Nussknacker Sweet! | 0.60% | ~19 |
 | Tinkerer | 0.60% | ~19 |
 | Just a Flesh Wound | 0.50% | ~16 |
-| The Long Game | 0.50% | ~16 |
 | Rigged to Blow | 0.50% | ~16 |
 | From Paris with Love | 0.40% | ~13 |
 | Don't hold your breath | 0.40% | ~13 |

@@ -7,6 +7,7 @@ Rating: 4.87 (Ranked 25)
 | ---- | ---------- | ----- |
 | NOW we got a kickass hideout! | 0.80% | ~16 |
 | Cream of the Crop | 0.40% | ~14 |
+| The Negotiator | 0.40% | ~14 |
 | Headliner | 0.40% | ~14 |
 | Time to pay up! | 0.40% | ~14 |
 | Who's the boss now? | 0.40% | ~14 |
@@ -17,7 +18,6 @@ Rating: 4.87 (Ranked 25)
 | Who put gears in there? | 0.40% | ~14 |
 | Call me Turbo Chai | 0.40% | ~8 |
 | This will cost you big time | 0.30% | ~10 |
-| The Negotiator | 0.30% | ~10 |
 | I have to read these things? | 0.30% | ~10 |
 | Feeling the beat! | 0.30% | ~10 |
 | Z-shielding's got nothing on us! | 0.30% | ~10 |

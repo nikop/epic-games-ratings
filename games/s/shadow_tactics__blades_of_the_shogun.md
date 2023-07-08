@@ -7,12 +7,12 @@ Number of Ratings: 495  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Genin | 11.00% | ~20,231 |
-| Thorough | 9.00% | ~16,552 |
-| A thief's beginning | 8.00% | ~14,713 |
-| Tanuki Time | 8.00% | ~14,713 |
-| Disguised | 7.00% | ~12,874 |
-| Rescue Takuma | 7.00% | ~12,874 |
-| Rollin' | 7.00% | ~12,874 |
+| Thorough | 9.00% | ~16,553 |
+| A thief's beginning | 8.00% | ~14,714 |
+| Tanuki Time | 8.00% | ~14,714 |
+| Disguised | 7.00% | ~12,875 |
+| Rescue Takuma | 7.00% | ~12,875 |
+| Rollin' | 7.00% | ~12,875 |
 | Chunin | 6.00% | ~11,035 |
 | Ice Ice Yuki | 6.00% | ~11,035 |
 | Jonin | 6.00% | ~11,035 |
@@ -25,11 +25,11 @@ Number of Ratings: 495  (23.09.2022)
 | Okkoto | 4.00% | ~7,357 |
 | Prisoners | 4.00% | ~7,357 |
 | Too Early | 4.00% | ~7,357 |
-| Gear up | 3.00% | ~5,517 |
-| Happy little accidents | 3.00% | ~5,517 |
-| Noboru | 3.00% | ~5,517 |
-| Still Rollin' | 3.00% | ~5,517 |
-| Stoned | 3.00% | ~5,517 |
+| Gear up | 3.00% | ~5,518 |
+| Happy little accidents | 3.00% | ~5,518 |
+| Noboru | 3.00% | ~5,518 |
+| Still Rollin' | 3.00% | ~5,518 |
+| Stoned | 3.00% | ~5,518 |
 | Atheist Ox | 2.00% | ~3,678 |
 | It's raining men | 2.00% | ~3,678 |
 | Old Man | 2.00% | ~3,678 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~184 |
 | Release the Kraken | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 183,915 (Ranked 57)  
+Progressed: 183,922 (Ranked 57)  
 Completed: 56 (0.03%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,10 +130,10 @@ Completed: 56 (0.03%) (Ranked 209)
 | 2023-07-05 | 183,423 | 56 |
 | 2023-07-06 | 183,647 | 56 |
 | 2023-07-07 | 183,884 | 56 |
-| 2023-07-08 | 183,915 | 56 |
+| 2023-07-08 | 183,922 | 56 |
 ## Awards
 Max (Great for Beginners): 553  (Ranked 183)  
-Sum: 4,694 (Ranked 131)  
+Sum: 4,695 (Ranked 131)  
 Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
@@ -144,7 +144,7 @@ Diff (max vs sum): 52
 | This game has Amazing Characters | 483 |
 | This game is Highly Recommended | 480 |
 | This game has Challenging Combat | 477 |
-| This game is Relaxing | 472 |
+| This game is Relaxing | 473 |
 | This game has Quickly Understood Controls | 445 |
 | This game has a Creative Community | 243 |
 | This game has Unique Visuals | 20 |
@@ -284,3 +284,4 @@ Diff (max vs sum): 52
 | 2023-06-30 | 4.66 | - | 553 | 4,692 |
 | 2023-07-05 | 4.66 | - | 553 | 4,693 |
 | 2023-07-06 | 4.66 | - | 553 | 4,694 |
+| 2023-07-08 | 4.66 | - | 553 | 4,695 |

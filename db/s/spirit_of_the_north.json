@@ -318,9 +318,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 61153,
+  "EOS_Progressed": 61154,
   "EOS_Completed": 309,
-  "EOS_NewPlayers": 838,
+  "EOS_NewPlayers": 839,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -8613,6 +8613,11 @@
       "Time": "2023-07-08T02:25:24.1676771+00:00",
       "NumProgressed": 61153,
       "NumCompleted": 309
+    },
+    {
+      "Time": "2023-07-08T03:29:53.0513033+00:00",
+      "NumProgressed": 61154,
+      "NumCompleted": 309
     }
   ],
   "TotalAchievements": 24,
@@ -8640,7 +8645,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 41584
+      "UsersEstimate": 41585
     },
     {
       "ID": "BEST_FRIENDS",
@@ -8672,7 +8677,7 @@
       "Name": "FETCH",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 16511
+      "UsersEstimate": 16512
     },
     {
       "ID": "FOXIN_AROUND",
@@ -8680,7 +8685,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 17734
+      "UsersEstimate": 17735
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -8704,7 +8709,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 32411
+      "UsersEstimate": 32412
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -8784,7 +8789,7 @@
       "Name": "SPIRIT FORM",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 9784
+      "UsersEstimate": 9785
     },
     {
       "ID": "UPROOTING_DARKNESS",
@@ -8815,7 +8820,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 61153,
+      "Progressed": 61154,
       "Completed": 309
     }
   ],
@@ -8823,8 +8828,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-06-20T12:00:48.5369511+00:00",
-  "LastChanged_Achievements": "2023-07-08T02:25:24.1676762+00:00",
-  "LastUpdate_AppInfo": "2023-07-01T02:28:29.9696354+00:00",
-  "LastUpdate_Ratings": "2023-07-08T02:23:24.3589392+00:00",
-  "LastUpdate_Achievements": "2023-07-08T02:25:24.1678014+00:00"
+  "LastChanged_Achievements": "2023-07-08T03:29:53.0513026+00:00",
+  "LastUpdate_AppInfo": "2023-07-08T03:22:39.6580646+00:00",
+  "LastUpdate_Ratings": "2023-07-08T03:27:50.9932547+00:00",
+  "LastUpdate_Achievements": "2023-07-08T03:29:53.0513715+00:00"
 }

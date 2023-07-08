@@ -27,7 +27,9 @@ Rating: 4.61 (Ranked 361)
 | Valley of Wonders | 1.00% | ~49 |
 | Return of the Wizard King | 1.00% | ~49 |
 | Arch Mage | 1.00% | ~49 |
+| The Creator | 1.00% | ~49 |
 | Enchanted Archipelago | 1.00% | ~49 |
+| The Goddess of Nature | 1.00% | ~49 |
 | Digging for Treasure | 1.00% | ~49 |
 | Preparation Is Everything | 1.00% | ~49 |
 | In a Liege of Your Own | 1.00% | ~49 |
@@ -35,8 +37,6 @@ Rating: 4.61 (Ranked 361)
 | Duality | 1.00% | ~49 |
 | The Magic That Empowers Me! | 0.90% | ~44 |
 | God Emperor | 0.90% | ~44 |
-| The Creator | 0.90% | ~44 |
-| The Goddess of Nature | 0.90% | ~44 |
 | Eternal Lord | 0.90% | ~44 |
 | The Eternal Court | 0.80% | ~40 |
 | Lord of Chaos | 0.70% | ~35 |

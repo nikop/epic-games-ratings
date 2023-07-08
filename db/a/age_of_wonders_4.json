@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -270,7 +270,7 @@
   "Tags": [],
   "EOS_Progressed": 4940,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5077,9 +5077,9 @@
       "ID": "19",
       "SetID": "3aa2279",
       "Name": "The Creator",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 49
     },
     {
       "ID": "2",
@@ -5093,9 +5093,9 @@
       "ID": "20",
       "SetID": "3aa2279",
       "Name": "The Goddess of Nature",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 49
     },
     {
       "ID": "21",
@@ -5412,8 +5412,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-07-04T17:00:43.3128649+00:00",
-  "LastChanged_Achievements": "2023-07-08T02:24:53.6807526+00:00",
-  "LastUpdate_AppInfo": "2023-07-01T02:28:34.3570796+00:00",
-  "LastUpdate_Ratings": "2023-07-08T02:23:28.8569657+00:00",
-  "LastUpdate_Achievements": "2023-07-08T02:24:53.6808759+00:00"
+  "LastChanged_Achievements": "2023-07-08T03:29:23.8372493+00:00",
+  "LastUpdate_AppInfo": "2023-07-08T03:22:44.6563449+00:00",
+  "LastUpdate_Ratings": "2023-07-08T03:27:55.649914+00:00",
+  "LastUpdate_Achievements": "2023-07-08T03:29:23.8373329+00:00"
 }

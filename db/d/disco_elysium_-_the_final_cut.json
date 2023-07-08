@@ -1181,9 +1181,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 122827,
+  "EOS_Progressed": 122830,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 353,
+  "EOS_NewPlayers": 352,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -8736,6 +8736,11 @@
       "Time": "2023-07-08T02:25:21.4041617+00:00",
       "NumProgressed": 122827,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-07-08T03:29:50.2900646+00:00",
+      "NumProgressed": 122830,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 40,
@@ -8803,7 +8808,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 29478
+      "UsersEstimate": 29479
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -8851,7 +8856,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 19652
+      "UsersEstimate": 19653
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -8859,7 +8864,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 24565
+      "UsersEstimate": 24566
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -8907,7 +8912,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 11054
+      "UsersEstimate": 11055
     },
     {
       "ID": "ACH_GLUTEN",
@@ -9066,15 +9071,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 122827,
+      "Progressed": 122830,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-07-07T16:59:40.5892511+00:00",
-  "LastChanged_Achievements": "2023-07-08T02:25:21.4041607+00:00",
-  "LastUpdate_AppInfo": "2023-07-01T02:28:04.2358463+00:00",
-  "LastUpdate_Ratings": "2023-07-08T02:22:59.7112208+00:00",
-  "LastUpdate_Achievements": "2023-07-08T02:25:21.4043044+00:00"
+  "LastChanged_Achievements": "2023-07-08T03:29:50.2900637+00:00",
+  "LastUpdate_AppInfo": "2023-07-08T03:22:13.7032583+00:00",
+  "LastUpdate_Ratings": "2023-07-08T03:27:24.5697598+00:00",
+  "LastUpdate_Achievements": "2023-07-08T03:29:50.2902022+00:00"
 }
