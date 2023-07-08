@@ -84,15 +84,15 @@
 | 82 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.76% |
 | 83 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.64% |
 | 84 | [Somerville](games/s/somerville.md) | 1.56% |
-| 85 | [Ten Dates](games/t/ten_dates.md) | 1.51% |
-| 86 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
-| 87 | [Night Book](games/n/night_book.md) | 1.46% |
-| 88 | [Poosh XL](games/p/poosh_xl.md) | 1.45% |
-| 89 | [A Musical Story](games/a/a_musical_story.md) | 1.43% |
-| 90 | [Late Shift](games/l/late_shift.md) | 1.35% |
-| 91 | [Five Dates](games/f/five_dates.md) | 1.30% |
-| 91 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.30% |
-| 93 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.27% |
+| 85 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.53% |
+| 86 | [Ten Dates](games/t/ten_dates.md) | 1.51% |
+| 87 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
+| 88 | [Night Book](games/n/night_book.md) | 1.46% |
+| 89 | [Poosh XL](games/p/poosh_xl.md) | 1.45% |
+| 90 | [A Musical Story](games/a/a_musical_story.md) | 1.43% |
+| 91 | [Late Shift](games/l/late_shift.md) | 1.35% |
+| 92 | [Five Dates](games/f/five_dates.md) | 1.30% |
+| 92 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.30% |
 | 94 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.25% |
 | 95 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.21% |
 | 96 | [Chorus](games/c/chorus.md) | 1.18% |
@@ -140,9 +140,9 @@
 | 138 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 139 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.35% |
 | 140 | [Scrapnaut](games/s/scrapnaut.md) | 0.34% |
+| 141 | [Dead Island 2](games/d/dead_island_2.md) | 0.33% |
 | 141 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.33% |
 | 141 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.33% |
-| 143 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
 | 144 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.31% |
 | 144 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
 | 144 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
