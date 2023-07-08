@@ -19,18 +19,18 @@
 | Archivist | 17.00% | ~37 |
 | Fashionista | 17.00% | ~37 |
 | Running Boots | 16.00% | ~35 |
+| Looper | 14.00% | ~30 |
 | Kaboom! | 13.00% | ~28 |
-| Looper | 13.00% | ~28 |
 | So Close | 12.00% | ~26 |
 | All Alone | 12.00% | ~26 |
+| Cataclysm | 12.00% | ~26 |
 | Reunited | 12.00% | ~26 |
 | Transformers, cubes in disguise | 11.00% | ~24 |
-| Cataclysm | 11.00% | ~24 |
-| Final Charge | 10.00% | ~22 |
+| Final Charge | 11.00% | ~24 |
 | Summer Luvin' | 4.00% | ~9 |
 | You Are Terminated | 1.00% | ~2 |
+| Data Research | 0.50% | ~1 |
 | So, this is the End? | 0.00% | ~0 |
-| Data Research | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 217 (Ranked 262)  
 Completed: 0 (0.00%) (Ranked 237)  

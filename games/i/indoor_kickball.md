@@ -10,11 +10,11 @@
 | Settle Down | 70.00% | ~50 |
 | Homer | 70.00% | ~50 |
 | Kickball Unlocked | 68.00% | ~48 |
+| Butter Fingers | 68.00% | ~48 |
 | Have a good trip! | 68.00% | ~48 |
-| Butter Fingers | 66.00% | ~47 |
 | Stay Hydrated | 66.00% | ~47 |
 | First Win | 65.00% | ~46 |
-| True Story! | 38.00% | ~27 |
+| True Story! | 39.00% | ~28 |
 | Bedroom Secret Spot | 37.00% | ~26 |
 | Kick It | 31.00% | ~22 |
 | Grand Slam! | 27.00% | ~19 |

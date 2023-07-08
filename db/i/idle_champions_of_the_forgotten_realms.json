@@ -4822,9 +4822,9 @@
       "Count": 3293
     }
   ],
-  "EOS_Progressed": 208255,
+  "EOS_Progressed": 208277,
   "EOS_Completed": 2038,
-  "EOS_NewPlayers": 5727,
+  "EOS_NewPlayers": 5702,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -13137,6 +13137,11 @@
       "Time": "2023-07-08T04:04:28.4293529+00:00",
       "NumProgressed": 208255,
       "NumCompleted": 2038
+    },
+    {
+      "Time": "2023-07-08T05:04:11.9125183+00:00",
+      "NumProgressed": 208277,
+      "NumCompleted": 2038
     }
   ],
   "TotalAchievements": 503,
@@ -14012,7 +14017,7 @@
       "Name": "Were-verpowered",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10413
+      "UsersEstimate": 10414
     },
     {
       "ID": "objective_completed_1203",
@@ -14124,7 +14129,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8330
+      "UsersEstimate": 8331
     },
     {
       "ID": "objective_completed_130",
@@ -14332,7 +14337,7 @@
       "Name": "Low Initiative",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4165
+      "UsersEstimate": 4166
     },
     {
       "ID": "objective_completed_164",
@@ -14340,7 +14345,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4165
+      "UsersEstimate": 4166
     },
     {
       "ID": "objective_completed_165",
@@ -14372,7 +14377,7 @@
       "Name": "Building Trust",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4165
+      "UsersEstimate": 4166
     },
     {
       "ID": "objective_completed_17",
@@ -14484,7 +14489,7 @@
       "Name": "No Time To Rest",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4165
+      "UsersEstimate": 4166
     },
     {
       "ID": "objective_completed_208",
@@ -14820,7 +14825,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 31238
+      "UsersEstimate": 31242
     },
     {
       "ID": "objective_completed_34",
@@ -14828,7 +14833,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 14578
+      "UsersEstimate": 14579
     },
     {
       "ID": "objective_completed_35",
@@ -14940,7 +14945,7 @@
       "Name": "Seeking Allies",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10413
+      "UsersEstimate": 10414
     },
     {
       "ID": "objective_completed_390",
@@ -15012,7 +15017,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 14578
+      "UsersEstimate": 14579
     },
     {
       "ID": "objective_completed_40",
@@ -15020,7 +15025,7 @@
       "Name": "Useless Allies",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4165
+      "UsersEstimate": 4166
     },
     {
       "ID": "objective_completed_400",
@@ -15284,7 +15289,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10413
+      "UsersEstimate": 10414
     },
     {
       "ID": "objective_completed_54",
@@ -15636,7 +15641,7 @@
       "Name": "Running of the Saurs",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4165
+      "UsersEstimate": 4166
     },
     {
       "ID": "objective_completed_590",
@@ -16220,7 +16225,7 @@
       "Name": "Escort to Waterdeep",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4165
+      "UsersEstimate": 4166
     },
     {
       "ID": "objective_completed_690",
@@ -16292,7 +16297,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 22908
+      "UsersEstimate": 22910
     },
     {
       "ID": "objective_completed_70",
@@ -16324,7 +16329,7 @@
       "Name": "Waterdeep Detours",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4165
+      "UsersEstimate": 4166
     },
     {
       "ID": "objective_completed_75",
@@ -16356,7 +16361,7 @@
       "Name": "Underdeep Cartography",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4165
+      "UsersEstimate": 4166
     },
     {
       "ID": "objective_completed_8",
@@ -16364,7 +16369,7 @@
       "Name": "Friendly Imps",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10413
+      "UsersEstimate": 10414
     },
     {
       "ID": "objective_completed_80",
@@ -16372,7 +16377,7 @@
       "Name": "Overdue Rendezvous",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4165
+      "UsersEstimate": 4166
     },
     {
       "ID": "objective_completed_802",
@@ -16610,9 +16615,9 @@
       "ID": "objective_completed_844",
       "SetID": "415jc5c",
       "Name": "Reya Reborn",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 349
     },
     {
       "ID": "objective_completed_847",
@@ -16892,7 +16897,7 @@
       "Name": "Pure Energy",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8330
+      "UsersEstimate": 8331
     },
     {
       "ID": "objective_completed_902",
@@ -17020,7 +17025,7 @@
       "Name": "The Templar\u0027s Camp",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4165
+      "UsersEstimate": 4166
     },
     {
       "ID": "objective_completed_95",
@@ -17171,21 +17176,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 174529,
+      "Progressed": 174551,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 208255,
+      "Progressed": 208277,
       "Completed": 2038
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-07T13:14:24.0518248+00:00",
-  "LastChanged_Achievements": "2023-07-08T04:04:28.4293524+00:00",
+  "LastChanged_Achievements": "2023-07-08T05:04:11.9125178+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:43.9043947+00:00",
-  "LastUpdate_Ratings": "2023-07-08T03:58:49.2188204+00:00",
-  "LastUpdate_Achievements": "2023-07-08T04:04:28.4323208+00:00"
+  "LastUpdate_Ratings": "2023-07-08T04:58:39.451865+00:00",
+  "LastUpdate_Achievements": "2023-07-08T05:04:11.9147992+00:00"
 }

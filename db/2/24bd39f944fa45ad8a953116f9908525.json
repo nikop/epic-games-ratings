@@ -352,9 +352,9 @@
       "ID": "ach_24_hpFrag15",
       "SetID": "16n29hg",
       "Name": "HP Tank",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_25_dash2",
@@ -376,9 +376,9 @@
       "ID": "ach_28_scarvenger30",
       "SetID": "16n29hg",
       "Name": "Supreme Scavenger",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_29_scarvenger50",
@@ -607,8 +607,8 @@
   ],
   "FirstSeen": "2023-06-30T05:57:16.6793848+00:00",
   "FirstSeenAchievements": "2023-06-20T07:03:35.8699826+00:00",
-  "LastChanged_Achievements": "2023-07-08T04:03:35.1608887+00:00",
+  "LastChanged_Achievements": "2023-07-08T05:03:29.1150633+00:00",
   "LastUpdate_AppInfo": "2023-07-05T05:57:08.5205588+00:00",
-  "LastUpdate_Ratings": "2023-07-08T03:57:17.5290668+00:00",
-  "LastUpdate_Achievements": "2023-07-08T04:03:35.1609432+00:00"
+  "LastUpdate_Ratings": "2023-07-08T04:57:07.8115067+00:00",
+  "LastUpdate_Achievements": "2023-07-08T05:03:29.1151059+00:00"
 }

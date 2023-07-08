@@ -6,52 +6,52 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~587,757 |
-| Right Back At Ya | 38.00% | ~328,452 |
-| The Lovers | 34.00% | ~293,878 |
-| Stanislavski's Method | 28.00% | ~242,017 |
-| The Wheel of Fortune | 26.00% | ~224,730 |
-| The Hermit | 24.00% | ~207,444 |
-| Christmas Tree Attack | 22.00% | ~190,157 |
-| True Soldier | 22.00% | ~190,157 |
-| The High Priestess | 21.00% | ~181,513 |
-| Legend of The Afterlife | 21.00% | ~181,513 |
-| Life of the Road | 20.00% | ~172,870 |
-| Full Body Conversion | 17.00% | ~146,939 |
-| The World | 17.00% | ~146,939 |
+| The Fool | 68.00% | ~587,760 |
+| Right Back At Ya | 38.00% | ~328,454 |
+| The Lovers | 34.00% | ~293,880 |
+| Stanislavski's Method | 28.00% | ~242,019 |
+| The Wheel of Fortune | 26.00% | ~224,732 |
+| The Hermit | 24.00% | ~207,445 |
+| Christmas Tree Attack | 22.00% | ~190,158 |
+| True Soldier | 22.00% | ~190,158 |
+| The High Priestess | 21.00% | ~181,514 |
+| Legend of The Afterlife | 21.00% | ~181,514 |
+| Life of the Road | 20.00% | ~172,871 |
+| Full Body Conversion | 17.00% | ~146,940 |
+| The World | 17.00% | ~146,940 |
 | Bushido and Chill | 16.00% | ~138,296 |
 | Gun Fu | 14.00% | ~121,009 |
 | True Warrior | 14.00% | ~121,009 |
-| To Protect and Serve | 13.00% | ~112,365 |
-| Master Crafter | 13.00% | ~112,365 |
-| I Am The Law | 13.00% | ~112,365 |
-| Judy vs Night City | 13.00% | ~112,365 |
-| Two Heads, One Bullet | 11.00% | ~95,078 |
-| The Wandering Fool | 9.00% | ~77,791 |
-| The Quick and the Dead | 9.00% | ~77,791 |
+| To Protect and Serve | 13.00% | ~112,366 |
+| Master Crafter | 13.00% | ~112,366 |
+| I Am The Law | 13.00% | ~112,366 |
+| Judy vs Night City | 13.00% | ~112,366 |
+| Two Heads, One Bullet | 11.00% | ~95,079 |
+| The Wandering Fool | 9.00% | ~77,792 |
+| The Quick and the Dead | 9.00% | ~77,792 |
 | Ten out of Ten | 8.00% | ~69,148 |
-| Breathtaking | 7.00% | ~60,504 |
+| Breathtaking | 7.00% | ~60,505 |
 | To Bad Decisions! | 6.00% | ~51,861 |
 | The Star | 6.00% | ~51,861 |
 | The Sun | 6.00% | ~51,861 |
 | Must Be Rats | 4.00% | ~34,574 |
 | Temperance | 4.00% | ~34,574 |
-| City Lights | 3.00% | ~25,930 |
-| Mean Streets | 3.00% | ~25,930 |
-| Little Tokyo | 3.00% | ~25,930 |
-| Greetings from Pacifica! | 3.00% | ~25,930 |
-| The Jungle | 3.00% | ~25,930 |
-| V for Vendetta | 3.00% | ~25,930 |
-| It's Elementary | 3.00% | ~25,930 |
+| City Lights | 3.00% | ~25,931 |
+| Mean Streets | 3.00% | ~25,931 |
+| Little Tokyo | 3.00% | ~25,931 |
+| Greetings from Pacifica! | 3.00% | ~25,931 |
+| The Jungle | 3.00% | ~25,931 |
+| V for Vendetta | 3.00% | ~25,931 |
+| It's Elementary | 3.00% | ~25,931 |
 | Autojock | 2.00% | ~17,287 |
 | Frequent Flyer | 2.00% | ~17,287 |
 | The Wasteland | 2.00% | ~17,287 |
 | Daemon In The Shell | 2.00% | ~17,287 |
 | The Devil | 2.00% | ~17,287 |
-| Gunslinger | 1.00% | ~8,643 |
+| Gunslinger | 1.00% | ~8,644 |
 | Rough Landing | 0.50% | ~4,322 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 864,348 (Ranked 14)  
+Progressed: 864,353 (Ranked 14)  
 Completed: 1,840 (0.21%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,18 +130,18 @@ Completed: 1,840 (0.21%) (Ranked 161)
 | 2023-07-05 | 863,879 | 1,833 |
 | 2023-07-06 | 864,090 | 1,837 |
 | 2023-07-07 | 864,312 | 1,839 |
-| 2023-07-08 | 864,348 | 1,840 |
+| 2023-07-08 | 864,353 | 1,840 |
 ## Awards
 Max (Character Customization): 72,454  (Ranked 9)  
-Sum: 189,778 (Ranked 13)  
+Sum: 189,792 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 72,454 |
 | This game has Great Boss Battles | 46,548 |
 | This game has Diverse Characters | 8,357 |
+| This game has Amazing Storytelling | 8,328 |
 | This game is Great for Beginners | 8,317 |
-| This game has Amazing Storytelling | 8,314 |
 | This game is Extremely Fun | 8,197 |
 | This game is Highly Recommended | 8,174 |
 | This game is Relaxing | 8,151 |
@@ -321,4 +321,4 @@ Diff (max vs sum): -4
 | 2023-07-05 | 4.62 | - | 72,250 | 189,041 |
 | 2023-07-06 | 4.62 | - | 72,350 | 189,395 |
 | 2023-07-07 | 4.62 | - | 72,454 | 189,691 |
-| 2023-07-08 | 4.62 | - | 72,454 | 189,778 |
+| 2023-07-08 | 4.62 | - | 72,454 | 189,792 |

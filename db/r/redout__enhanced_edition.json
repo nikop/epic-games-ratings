@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 226656,
+  "EOS_Progressed": 226657,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 573,
+  "EOS_NewPlayers": 571,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -8383,6 +8383,11 @@
       "Time": "2023-07-08T04:07:35.6593311+00:00",
       "NumProgressed": 226656,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-07-08T05:07:14.0672012+00:00",
+      "NumProgressed": 226657,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 34,
@@ -8418,7 +8423,7 @@
       "Name": "CENTAUR",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 18132
+      "UsersEstimate": 18133
     },
     {
       "ID": "CHALLENGER",
@@ -8458,7 +8463,7 @@
       "Name": "FASTER THAN EVER",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 18132
+      "UsersEstimate": 18133
     },
     {
       "ID": "FLAWLESS",
@@ -8618,7 +8623,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 49864
+      "UsersEstimate": 49865
     },
     {
       "ID": "TACTICIAN",
@@ -8642,7 +8647,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 49864
+      "UsersEstimate": 49865
     },
     {
       "ID": "TUNINGMANIAC",
@@ -8665,15 +8670,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 226656,
+      "Progressed": 226657,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-07-08T04:07:35.6593305+00:00",
+  "LastChanged_Achievements": "2023-07-08T05:07:14.0672005+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:56.9727616+00:00",
-  "LastUpdate_Ratings": "2023-07-08T03:59:01.9443165+00:00",
-  "LastUpdate_Achievements": "2023-07-08T04:07:35.6594119+00:00"
+  "LastUpdate_Ratings": "2023-07-08T04:58:50.4181142+00:00",
+  "LastUpdate_Achievements": "2023-07-08T05:07:14.0672625+00:00"
 }

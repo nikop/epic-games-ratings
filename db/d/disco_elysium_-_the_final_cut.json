@@ -1181,9 +1181,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 122832,
+  "EOS_Progressed": 122834,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 354,
+  "EOS_NewPlayers": 352,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -8746,6 +8746,11 @@
       "Time": "2023-07-08T04:02:32.6212507+00:00",
       "NumProgressed": 122832,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-07-08T05:02:17.8936893+00:00",
+      "NumProgressed": 122834,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 40,
@@ -8837,7 +8842,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 34393
+      "UsersEstimate": 34394
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -8869,7 +8874,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 24566
+      "UsersEstimate": 24567
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -8973,7 +8978,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 17196
+      "UsersEstimate": 17197
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -9013,7 +9018,7 @@
       "Name": "Modus: Mullen",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "ACH_NETWORTHY",
@@ -9029,7 +9034,7 @@
       "Name": "Palerunner",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "ACH_PINBALL",
@@ -9061,7 +9066,7 @@
       "Name": "Real Musor",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1105
+      "UsersEstimate": 1106
     },
     {
       "ID": "ACH_WHATBODY",
@@ -9076,15 +9081,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 122832,
+      "Progressed": 122834,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-07-07T16:59:40.5892511+00:00",
-  "LastChanged_Achievements": "2023-07-08T04:02:32.6212498+00:00",
+  "LastChanged_Achievements": "2023-07-08T05:02:17.8936888+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:13.7032583+00:00",
-  "LastUpdate_Ratings": "2023-07-08T04:00:11.1872421+00:00",
-  "LastUpdate_Achievements": "2023-07-08T04:02:32.6213364+00:00"
+  "LastUpdate_Ratings": "2023-07-08T04:59:54.9979547+00:00",
+  "LastUpdate_Achievements": "2023-07-08T05:02:17.8937501+00:00"
 }

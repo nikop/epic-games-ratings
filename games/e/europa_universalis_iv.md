@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,012 |
-| That's a Grand Army | 8.00% | ~5,344 |
-| That is mine! | 8.00% | ~5,344 |
-| Victorious! | 8.00% | ~5,344 |
-| Brothers in Arms | 6.00% | ~4,008 |
-| That's a Grand Navy | 6.00% | ~4,008 |
-| Seriously?! | 6.00% | ~4,008 |
-| For the Glory | 5.00% | ~3,340 |
-| Cold War | 4.00% | ~2,672 |
-| True Catholic | 4.00% | ~2,672 |
+| Until death do us apart | 9.00% | ~6,013 |
+| That's a Grand Army | 8.00% | ~5,345 |
+| That is mine! | 8.00% | ~5,345 |
+| Victorious! | 8.00% | ~5,345 |
+| Brothers in Arms | 6.00% | ~4,009 |
+| That's a Grand Navy | 6.00% | ~4,009 |
+| Seriously?! | 6.00% | ~4,009 |
+| For the Glory | 5.00% | ~3,341 |
+| Cold War | 4.00% | ~2,673 |
+| True Catholic | 4.00% | ~2,673 |
 | Defender of the Faith | 3.00% | ~2,004 |
 | It's all about the money | 3.00% | ~2,004 |
 | Respected | 3.00% | ~2,004 |
@@ -42,8 +42,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | This navy can take it all | 1.00% | ~668 |
 | Isn't this the way to India? | 0.90% | ~601 |
 | Market Control | 0.90% | ~601 |
-| Down Under | 0.80% | ~534 |
-| Trustworthy | 0.80% | ~534 |
+| Down Under | 0.80% | ~535 |
+| Trustworthy | 0.80% | ~535 |
 | Electable! | 0.70% | ~468 |
 | Populists in Government | 0.70% | ~468 |
 | All belongs to Mother Russia | 0.60% | ~401 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,798 (Ranked 73)  
+Progressed: 66,813 (Ranked 73)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -440,7 +440,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-05 | 65,889 | 0 |
 | 2023-07-06 | 66,326 | 0 |
 | 2023-07-07 | 66,739 | 0 |
-| 2023-07-08 | 66,798 | 0 |
+| 2023-07-08 | 66,813 | 0 |
 ## Awards
 Max (Educational): 5,515  (Ranked 60)  
 Sum: 45,522 (Ranked 27)  

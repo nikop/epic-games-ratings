@@ -31,6 +31,7 @@
 | Pilgrimage's End | 3.00% | ~3 |
 | Merchant | 3.00% | ~3 |
 | Trouble at Fort Larius | 3.00% | ~3 |
+| Potential Unlocked | 2.00% | ~2 |
 | Deputized | 2.00% | ~2 |
 | Despised | 2.00% | ~2 |
 | A Terrible Will | 2.00% | ~2 |
@@ -38,7 +39,6 @@
 | Unseen Patterns | 2.00% | ~2 |
 | Bounty Hunter | 0.90% | ~1 |
 | Loremaster | 0.90% | ~1 |
-| Potential Unlocked | 0.90% | ~1 |
 | Embellished | 0.90% | ~1 |
 | Huntress Unbound | 0.90% | ~1 |
 | Business As Usual | 0.90% | ~1 |

@@ -22,56 +22,56 @@ Number of Ratings: 1,003  (23.09.2022)
 | Plan for the worst | 0.20% | ~925 |
 | Excelsior Rule | 0.20% | ~925 |
 | Hand of the Emperor | 0.20% | ~13 |
-| Chapter III: The Man Who Sold the World | 0.10% | ~462 |
-| Chapter IV: Through the Looking Glass | 0.10% | ~462 |
-| Chapter V: Memories of None | 0.10% | ~462 |
-| A Rock in the Dark | 0.10% | ~462 |
-| Emperor of Misery | 0.10% | ~462 |
-| A Frozen Lady | 0.10% | ~462 |
-| Kill the Doctor | 0.10% | ~462 |
-| Forsaken | 0.10% | ~462 |
-| Through the mirror | 0.10% | ~462 |
-| Meet your maker | 0.10% | ~462 |
-| Admiral Okonkwo | 0.10% | ~462 |
-| The Survivalists | 0.10% | ~462 |
-| Tetsuo | 0.10% | ~462 |
-| General Vivar | 0.10% | ~462 |
-| Back to Ganyma | 0.10% | ~462 |
-| Mercy | 0.10% | ~462 |
-| The Impersonator | 0.10% | ~462 |
-| The Kid | 0.10% | ~462 |
-| The Evangelist | 0.10% | ~462 |
-| The Inquisitor | 0.10% | ~462 |
-| The Tech Specialist | 0.10% | ~462 |
-| The Ace Pilot | 0.10% | ~462 |
-| The Tech Med | 0.10% | ~462 |
-| The Mech Soldier | 0.10% | ~462 |
-| The lucky charm | 0.10% | ~462 |
-| The Anonymous | 0.10% | ~462 |
-| The Smuggler | 0.10% | ~462 |
-| The Crazy Repairman | 0.10% | ~462 |
-| The Weasel | 0.10% | ~462 |
-| Liberator | 0.10% | ~462 |
-| The Art of War | 0.10% | ~462 |
-| Geno Mastery | 0.10% | ~462 |
-| Geno Supremacy | 0.10% | ~462 |
-| Jericho Mastery | 0.10% | ~462 |
-| Jericho Supremacy | 0.10% | ~462 |
-| Hammer Mastery | 0.10% | ~462 |
-| Hammer Supremacy | 0.10% | ~462 |
-| Void Mastery | 0.10% | ~462 |
-| Void Supremacy | 0.10% | ~462 |
-| Kaos Mastery | 0.10% | ~462 |
-| Kaos Supremacy | 0.10% | ~462 |
-| Excelsior Mastery | 0.10% | ~462 |
-| Excelsior Supremacy | 0.10% | ~462 |
-| Survivor | 0.10% | ~462 |
-| The greatest admiral of all time | 0.10% | ~462 |
-| Geno Rule | 0.10% | ~462 |
-| Jericho Rule | 0.10% | ~462 |
-| Hammer Rule | 0.10% | ~462 |
-| Void Rule | 0.10% | ~462 |
-| Kaos Rule | 0.10% | ~462 |
+| Chapter III: The Man Who Sold the World | 0.10% | ~463 |
+| Chapter IV: Through the Looking Glass | 0.10% | ~463 |
+| Chapter V: Memories of None | 0.10% | ~463 |
+| A Rock in the Dark | 0.10% | ~463 |
+| Emperor of Misery | 0.10% | ~463 |
+| A Frozen Lady | 0.10% | ~463 |
+| Kill the Doctor | 0.10% | ~463 |
+| Forsaken | 0.10% | ~463 |
+| Through the mirror | 0.10% | ~463 |
+| Meet your maker | 0.10% | ~463 |
+| Admiral Okonkwo | 0.10% | ~463 |
+| The Survivalists | 0.10% | ~463 |
+| Tetsuo | 0.10% | ~463 |
+| General Vivar | 0.10% | ~463 |
+| Back to Ganyma | 0.10% | ~463 |
+| Mercy | 0.10% | ~463 |
+| The Impersonator | 0.10% | ~463 |
+| The Kid | 0.10% | ~463 |
+| The Evangelist | 0.10% | ~463 |
+| The Inquisitor | 0.10% | ~463 |
+| The Tech Specialist | 0.10% | ~463 |
+| The Ace Pilot | 0.10% | ~463 |
+| The Tech Med | 0.10% | ~463 |
+| The Mech Soldier | 0.10% | ~463 |
+| The lucky charm | 0.10% | ~463 |
+| The Anonymous | 0.10% | ~463 |
+| The Smuggler | 0.10% | ~463 |
+| The Crazy Repairman | 0.10% | ~463 |
+| The Weasel | 0.10% | ~463 |
+| Liberator | 0.10% | ~463 |
+| The Art of War | 0.10% | ~463 |
+| Geno Mastery | 0.10% | ~463 |
+| Geno Supremacy | 0.10% | ~463 |
+| Jericho Mastery | 0.10% | ~463 |
+| Jericho Supremacy | 0.10% | ~463 |
+| Hammer Mastery | 0.10% | ~463 |
+| Hammer Supremacy | 0.10% | ~463 |
+| Void Mastery | 0.10% | ~463 |
+| Void Supremacy | 0.10% | ~463 |
+| Kaos Mastery | 0.10% | ~463 |
+| Kaos Supremacy | 0.10% | ~463 |
+| Excelsior Mastery | 0.10% | ~463 |
+| Excelsior Supremacy | 0.10% | ~463 |
+| Survivor | 0.10% | ~463 |
+| The greatest admiral of all time | 0.10% | ~463 |
+| Geno Rule | 0.10% | ~463 |
+| Jericho Rule | 0.10% | ~463 |
+| Hammer Rule | 0.10% | ~463 |
+| Void Rule | 0.10% | ~463 |
+| Kaos Rule | 0.10% | ~463 |
 | The Blade | 0.10% | ~6 |
 | The Ghost | 0.10% | ~6 |
 | The Extractor | 0.10% | ~6 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~6 |
 | Kronos Rule | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 462,500 (Ranked 35)  
+Progressed: 462,504 (Ranked 35)  
 Completed: 16 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 16 (0.00%) (Ranked 237)
 | 2023-07-05 | 462,297 | 16 |
 | 2023-07-06 | 462,388 | 16 |
 | 2023-07-07 | 462,481 | 16 |
-| 2023-07-08 | 462,500 | 16 |
+| 2023-07-08 | 462,504 | 16 |
 ## Awards
 Max (Character Customization): 214  (Ranked 260)  
 Sum: 214 (Ranked 355)  

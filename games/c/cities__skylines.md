@@ -6,34 +6,34 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~632,335 |
-| Green Energy | 60.00% | ~534,367 |
-| Foggy Weather | 59.00% | ~525,461 |
-| Singing In The- | 59.00% | ~525,461 |
-| Unpopular Mayor | 41.00% | ~365,151 |
-| Power at Your Fingertips | 33.00% | ~293,902 |
-| City Planner | 23.00% | ~204,841 |
-| Rolling in Dough | 20.00% | ~178,122 |
-| Does My Bum Look Big In This? | 17.00% | ~151,404 |
-| Climbing the Social Ladder | 16.00% | ~142,498 |
-| Safe City | 14.00% | ~124,686 |
-| Quay-King | 11.00% | ~97,967 |
-| Lawmaker | 10.00% | ~89,061 |
-| With Canals You Can! | 10.00% | ~89,061 |
-| Nomen Est Omen | 7.00% | ~62,343 |
-| Well Informed | 6.00% | ~53,437 |
-| Fire Watch | 5.00% | ~44,531 |
-| Greenest City | 4.00% | ~35,624 |
-| Heavenly City | 3.00% | ~26,718 |
-| Reporting! | 3.00% | ~26,718 |
-| SIMulated City | 3.00% | ~26,718 |
-| The Safest Town | 3.00% | ~26,718 |
-| Professional Dumper | 2.00% | ~17,812 |
-| City in Motion | 1.00% | ~8,906 |
-| Earthloving City | 1.00% | ~8,906 |
-| Metropolis | 1.00% | ~8,906 |
-| Beam Me Up | 0.70% | ~6,234 |
-| Higher Education | 0.70% | ~6,234 |
+| Pioneer | 71.00% | ~632,387 |
+| Green Energy | 60.00% | ~534,412 |
+| Foggy Weather | 59.00% | ~525,505 |
+| Singing In The- | 59.00% | ~525,505 |
+| Unpopular Mayor | 41.00% | ~365,181 |
+| Power at Your Fingertips | 33.00% | ~293,926 |
+| City Planner | 23.00% | ~204,858 |
+| Rolling in Dough | 20.00% | ~178,137 |
+| Does My Bum Look Big In This? | 17.00% | ~151,417 |
+| Climbing the Social Ladder | 16.00% | ~142,510 |
+| Safe City | 14.00% | ~124,696 |
+| Quay-King | 11.00% | ~97,975 |
+| Lawmaker | 10.00% | ~89,069 |
+| With Canals You Can! | 10.00% | ~89,069 |
+| Nomen Est Omen | 7.00% | ~62,348 |
+| Well Informed | 6.00% | ~53,441 |
+| Fire Watch | 5.00% | ~44,534 |
+| Greenest City | 4.00% | ~35,627 |
+| Heavenly City | 3.00% | ~26,721 |
+| Reporting! | 3.00% | ~26,721 |
+| SIMulated City | 3.00% | ~26,721 |
+| The Safest Town | 3.00% | ~26,721 |
+| Professional Dumper | 2.00% | ~17,814 |
+| City in Motion | 1.00% | ~8,907 |
+| Earthloving City | 1.00% | ~8,907 |
+| Metropolis | 1.00% | ~8,907 |
+| Beam Me Up | 0.70% | ~6,235 |
+| Higher Education | 0.70% | ~6,235 |
 | Full Capacity | 0.60% | ~5,344 |
 | Terraformer | 0.60% | ~5,344 |
 | Decorator | 0.50% | ~4,453 |
@@ -45,12 +45,12 @@ Number of Ratings: 25,248  (23.09.2022)
 | The Waters of Our Lives | 0.50% | ~4,453 |
 | Thunder and Lightning | 0.50% | ~4,453 |
 | Twist and shout | 0.50% | ~4,453 |
-| Airfield Expertise | 0.40% | ~3,562 |
-| Airlifter | 0.40% | ~3,562 |
-| Get Your Snowshoes Ready! | 0.40% | ~3,562 |
-| Happy Town | 0.40% | ~3,562 |
-| I Want It All | 0.40% | ~3,562 |
-| Just Tolling | 0.40% | ~3,562 |
+| Airfield Expertise | 0.40% | ~3,563 |
+| Airlifter | 0.40% | ~3,563 |
+| Get Your Snowshoes Ready! | 0.40% | ~3,563 |
+| Happy Town | 0.40% | ~3,563 |
+| I Want It All | 0.40% | ~3,563 |
+| Just Tolling | 0.40% | ~3,563 |
 | A Huge Hadron | 0.30% | ~2,672 |
 | Airport Architect | 0.30% | ~2,672 |
 | Are They Naked In There? | 0.30% | ~2,672 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~891 |
 | Z00 | 0.10% | ~891 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 890,612 (Ranked 13)  
+Progressed: 890,686 (Ranked 13)  
 Completed: 9 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,10 +205,10 @@ Completed: 9 (0.00%) (Ranked 237)
 | 2023-07-05 | 885,365 | 9 |
 | 2023-07-06 | 887,768 | 9 |
 | 2023-07-07 | 890,240 | 9 |
-| 2023-07-08 | 890,612 | 9 |
+| 2023-07-08 | 890,686 | 9 |
 ## Awards
 Max (Relaxing): 4,883  (Ranked 66)  
-Sum: 37,143 (Ranked 33)  
+Sum: 37,152 (Ranked 33)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -216,7 +216,7 @@ Diff (max vs sum): 33
 | This game is Great for Beginners | 4,880 |
 | This game has Quickly Understood Controls | 4,596 |
 | This game is Educational | 4,566 |
-| This game is Extremely Fun | 4,261 |
+| This game is Extremely Fun | 4,270 |
 | This game is Highly Recommended | 4,139 |
 | This game has Amazing Storytelling | 3,498 |
 | This game has a Creative Community | 3,334 |
@@ -388,4 +388,4 @@ Diff (max vs sum): 33
 | 2023-07-05 | 4.65 | - | 4,876 | 37,067 |
 | 2023-07-06 | 4.65 | - | 4,876 | 37,103 |
 | 2023-07-07 | 4.65 | - | 4,883 | 37,128 |
-| 2023-07-08 | 4.65 | - | 4,883 | 37,143 |
+| 2023-07-08 | 4.65 | - | 4,883 | 37,152 |

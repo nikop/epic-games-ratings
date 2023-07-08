@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 7,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-05-19T01:00:00+00:00",
     "PcReleaseDate": "2023-05-19T01:00:00+00:00",
@@ -20,10 +20,10 @@
   "ReviewsDisabled": false,
   "Tags": [],
   "EOS_Progressed": 82,
-  "EOS_Completed": 18,
+  "EOS_Completed": 19,
   "EOS_NewPlayers": 16,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 21.95,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 23.17,
   "EosHistory": [
     {
       "Time": "2023-05-19T19:23:39.9762126+00:00",
@@ -419,6 +419,11 @@
       "Time": "2023-07-04T02:27:05.779922+00:00",
       "NumProgressed": 82,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-07-08T05:03:54.7557788+00:00",
+      "NumProgressed": 82,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 10,
@@ -476,33 +481,33 @@
       "ID": "LEVEL_6",
       "SetID": "1fnbp5h",
       "Name": "Mecha Wars",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "LEVEL_7",
       "SetID": "1fnbp5h",
       "Name": "Sewer",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "LEVEL_8",
       "SetID": "1fnbp5h",
       "Name": "Arcade",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "LEVEL_9",
       "SetID": "1fnbp5h",
       "Name": "Custom Court",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     }
   ],
   "AchievementSets": [
@@ -510,12 +515,12 @@
       "ID": "1fnbp5h",
       "IsBase": true,
       "Progressed": 82,
-      "Completed": 18
+      "Completed": 19
     }
   ],
   "FirstSeenAchievements": "2023-05-02T15:59:43.451096+00:00",
-  "LastChanged_Achievements": "2023-07-08T04:04:11.4978272+00:00",
+  "LastChanged_Achievements": "2023-07-08T05:03:54.7557782+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:31.2476875+00:00",
-  "LastUpdate_Ratings": "2023-07-08T03:57:44.694481+00:00",
-  "LastUpdate_Achievements": "2023-07-08T04:04:11.4978385+00:00"
+  "LastUpdate_Ratings": "2023-07-08T04:57:35.001625+00:00",
+  "LastUpdate_Achievements": "2023-07-08T05:03:54.7557877+00:00"
 }
