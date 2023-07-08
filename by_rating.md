@@ -81,7 +81,7 @@
 | 75 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.81 | 0 | 504 |
 | 75 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 28 | 462 |
 | 75 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 0 | 504 |
-| 82 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,344 | 51 |
+| 82 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,346 | 51 |
 | 82 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,427 | 99 |
 | 82 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 101 | 327 |
 | 82 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 504 |
@@ -347,7 +347,7 @@
 | 344 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 72,454 | 9 |
 | 344 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 277 | 238 |
 | 344 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 34 | 439 |
-| 344 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,373 | 124 |
+| 344 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,375 | 124 |
 | 344 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.62 | 0 | 504 |
 | 344 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 548 | 185 |
 | 344 | [Limbo](games/l/limbo.md) | 4.62 | 0 | 504 |
@@ -355,7 +355,7 @@
 | 344 | [NORCO](games/n/norco.md) | 4.62 | 0 | 504 |
 | 344 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 504 |
 | 344 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 104 | 325 |
-| 344 | [Prey](games/p/prey.md) | 4.62 | 5,597 | 59 |
+| 344 | [Prey](games/p/prey.md) | 4.62 | 5,600 | 59 |
 | 344 | [Roguebook](games/r/roguebook.md) | 4.62 | 0 | 504 |
 | 344 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.62 | 472 | 195 |
 | 344 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.62 | 64 | 380 |

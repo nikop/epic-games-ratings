@@ -42,7 +42,7 @@
 | 40 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.66% |
 | 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.43% |
 | 42 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
-| 43 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.73% |
+| 43 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.72% |
 | 44 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 3.70% |
 | 45 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
 | 45 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 3.64% |
@@ -109,8 +109,8 @@
 | 107 | [Dungeons 3](games/d/dungeons_3.md) | 0.84% |
 | 108 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.77% |
 | 108 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.77% |
-| 110 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
 | 110 | [Lemon Cake](games/l/lemon_cake.md) | 0.76% |
+| 111 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 112 | [Haven](games/h/haven.md) | 0.69% |
 | 113 | [Them and Us](games/t/them_and_us.md) | 0.68% |
 | 114 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.67% |
@@ -125,8 +125,8 @@
 | 123 | [Potion Permit](games/p/potion_permit.md) | 0.55% |
 | 123 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
 | 125 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.53% |
-| 126 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
-| 126 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
+| 126 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.51% |
+| 127 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
 | 128 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.48% |
 | 128 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.48% |
 | 130 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.47% |

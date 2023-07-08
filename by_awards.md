@@ -50,7 +50,7 @@
 | 48 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,763 | 4.74 | 144 |
 | 49 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 663 |
 | 50 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,622 | 4.71 | 181 |
-| 51 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,344 | 4.80 | 82 |
+| 51 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,346 | 4.80 | 82 |
 | 52 | [Sifu](games/s/sifu.md) | 6,253 | 4.82 | 65 |
 | 53 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,214 | 4.58 | 421 |
 | 54 | [DEATH STRANDING](games/d/death_stranding.md) | 6,174 | 4.77 | 107 |
@@ -58,7 +58,7 @@
 | 56 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,908 | 4.79 | 88 |
 | 57 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,803 | 4.66 | 270 |
 | 58 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,622 | 4.82 | 65 |
-| 59 | [Prey](games/p/prey.md) | 5,597 | 4.62 | 344 |
+| 59 | [Prey](games/p/prey.md) | 5,600 | 4.62 | 344 |
 | 60 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,515 | 4.69 | 219 |
 | 61 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,507 | 4.85 | 41 |
 | 62 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,414 | 4.75 | 133 |
@@ -123,7 +123,7 @@
 | 121 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,467 | 4.79 | 88 |
 | 122 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,441 | 4.81 | 75 |
 | 123 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,408 | 4.87 | 25 |
-| 124 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,373 | 4.62 | 344 |
+| 124 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,375 | 4.62 | 344 |
 | 125 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,320 | 4.52 | 520 |
 | 126 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,308 | 4.86 | 28 |
 | 127 | [Conan Exiles](games/c/conan_exiles.md) | 1,307 | 4.54 | 490 |
