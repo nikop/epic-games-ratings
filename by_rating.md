@@ -24,7 +24,7 @@
 | 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 157,434 | 6 |
 | 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 10,526 | 35 |
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 484 |
-| 25 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,408 | 123 |
+| 25 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,410 | 123 |
 | 25 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.87 | 0 | 504 |
 | 25 | [Ooblets](games/o/ooblets.md) | 4.87 | 1,014 | 142 |
 | 28 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 0 | 504 |
@@ -238,14 +238,14 @@
 | 219 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.69 | 0 | 504 |
 | 219 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 798 | 153 |
 | 238 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,334 | 86 |
-| 238 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 3,255 | 88 |
+| 238 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 3,256 | 88 |
 | 238 | [Bad North](games/b/bad_north.md) | 4.68 | 0 | 504 |
 | 238 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 69 | 373 |
 | 238 | [BLACKTAIL](games/b/blacktail.md) | 4.68 | 0 | 504 |
 | 238 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,252 | 47 |
 | 238 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,868 | 79 |
 | 238 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 0 | 504 |
-| 238 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 299,636 | 3 |
+| 238 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 299,717 | 3 |
 | 238 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 195,829 | 4 |
 | 238 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 414 | 205 |
 | 238 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 560 | 180 |
@@ -383,7 +383,7 @@
 | 361 | [Returnal™](games/r/returnal™.md) | 4.61 | 55 | 389 |
 | 361 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,069 | 137 |
 | 361 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 274 | 239 |
-| 361 | [Supraland](games/s/supraland.md) | 4.61 | 7,638 | 43 |
+| 361 | [Supraland](games/s/supraland.md) | 4.61 | 7,641 | 43 |
 | 361 | [The Colonists](games/t/the_colonists.md) | 4.61 | 0 | 504 |
 | 361 | [The Medium](games/t/the_medium.md) | 4.61 | 0 | 504 |
 | 361 | [Warframe](games/w/warframe.md) | 4.61 | 15,873 | 21 |
@@ -522,7 +522,7 @@
 | 520 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.52 | 22 | 484 |
 | 520 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 749 | 157 |
 | 520 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 40 | 419 |
-| 520 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 29,658 | 15 |
+| 520 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 29,704 | 15 |
 | 520 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 21 | 492 |
 | 520 | [Fall Guys](games/f/fall_guys.md) | 4.52 | 143,681 | 7 |
 | 520 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 514 | 190 |
@@ -683,25 +683,25 @@
 | 673 | [Othercide](games/o/othercide.md) | 4.41 | 0 | 504 |
 | 673 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 0 | 504 |
 | 673 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 32 | 446 |
+| 673 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 74 | 362 |
 | 673 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,185 | 104 |
 | 673 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 0 | 504 |
 | 673 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.41 | 548 | 185 |
 | 673 | [Warpips](games/w/warpips.md) | 4.41 | 26 | 471 |
-| 688 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 0 | 504 |
-| 688 | [Breathedge](games/b/breathedge.md) | 4.40 | 0 | 504 |
-| 688 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.40 | 0 | 504 |
-| 688 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,005 | 144 |
-| 688 | [Democracy 4](games/d/democracy_4.md) | 4.40 | 0 | 504 |
-| 688 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 0 | 504 |
-| 688 | [MORDHAU](games/m/mordhau.md) | 4.40 | 366 | 217 |
-| 688 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 0 | 504 |
-| 688 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 0 | 504 |
-| 688 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 74 | 362 |
-| 688 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 421 | 201 |
-| 688 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 0 | 504 |
-| 688 | [Tacoma](games/t/tacoma.md) | 4.40 | 0 | 504 |
-| 688 | [The Lion's Song](games/t/the_lion's_song.md) | 4.40 | 0 | 504 |
-| 688 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.40 | 0 | 504 |
+| 689 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 0 | 504 |
+| 689 | [Breathedge](games/b/breathedge.md) | 4.40 | 0 | 504 |
+| 689 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.40 | 0 | 504 |
+| 689 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,005 | 144 |
+| 689 | [Democracy 4](games/d/democracy_4.md) | 4.40 | 0 | 504 |
+| 689 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 0 | 504 |
+| 689 | [MORDHAU](games/m/mordhau.md) | 4.40 | 366 | 217 |
+| 689 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 0 | 504 |
+| 689 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 0 | 504 |
+| 689 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 421 | 201 |
+| 689 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 0 | 504 |
+| 689 | [Tacoma](games/t/tacoma.md) | 4.40 | 0 | 504 |
+| 689 | [The Lion's Song](games/t/the_lion's_song.md) | 4.40 | 0 | 504 |
+| 689 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.40 | 0 | 504 |
 | 703 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 0 | 504 |
 | 703 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 504 |
 | 703 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.39 | 0 | 504 |
