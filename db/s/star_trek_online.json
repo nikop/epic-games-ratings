@@ -4,7 +4,7 @@
   "ProductSlug": "star-trek-online",
   "Ranking_Rating": 642,
   "Ranking_Popularity": 182,
-  "Ranking_PopularitySum": 182,
+  "Ranking_PopularitySum": 181,
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 317,
@@ -1804,10 +1804,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 2283,
       "NumberOfAwardsMax": 556
+    },
+    {
+      "Time": "2023-07-09T15:59:22.7973601+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 2285,
+      "NumberOfAwardsMax": 556
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2283,
+  "NumberOfAwards": 2285,
   "NumberOfAwardsMax": 556,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1833,7 +1839,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 220
+      "Count": 222
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1889,8 +1895,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:13.4550293+00:00",
-  "LastChanged": "2023-07-09T10:59:16.3222066+00:00",
+  "LastChanged": "2023-07-09T15:59:22.7973598+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:33.7743333+00:00",
-  "LastUpdate_Ratings": "2023-07-09T15:00:09.3674983+00:00",
-  "LastUpdate_Achievements": "2023-07-09T15:03:22.832362+00:00"
+  "LastUpdate_Ratings": "2023-07-09T15:59:22.7973605+00:00",
+  "LastUpdate_Achievements": "2023-07-09T16:03:09.1227255+00:00"
 }

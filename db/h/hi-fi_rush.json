@@ -4391,9 +4391,9 @@
       "ID": "Ach031",
       "SetID": "12n4k20",
       "Name": "Perfect Parry",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 21
     },
     {
       "ID": "Ach032",
@@ -4734,8 +4734,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-09T15:02:05.1121947+00:00",
+  "LastChanged_Achievements": "2023-07-09T16:00:34.0276895+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:24.9104218+00:00",
-  "LastUpdate_Ratings": "2023-07-09T14:59:09.8129753+00:00",
-  "LastUpdate_Achievements": "2023-07-09T15:02:05.1122751+00:00"
+  "LastUpdate_Ratings": "2023-07-09T15:58:39.9350004+00:00",
+  "LastUpdate_Achievements": "2023-07-09T16:00:34.0277967+00:00"
 }

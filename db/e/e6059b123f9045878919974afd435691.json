@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 497,
+  "EOS_Progressed": 499,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 398,
+  "EOS_NewPlayers": 397,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -826,6 +826,11 @@
       "Time": "2023-07-09T15:04:46.1111319+00:00",
       "NumProgressed": 497,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-09T16:04:12.5583663+00:00",
+      "NumProgressed": 499,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -837,15 +842,15 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "How Many Do You Need?",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 179
+      "UsersEstimate": 175
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -877,7 +882,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -909,7 +914,7 @@
       "Name": "Capraphobia",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -1037,7 +1042,7 @@
       "Name": "Greetings from Royalty",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -1117,7 +1122,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -1125,7 +1130,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -1133,7 +1138,7 @@
       "Name": "Decakill!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -1157,7 +1162,7 @@
       "Name": "And There We Go",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -1197,15 +1202,15 @@
       "Name": "Don\u0027t Turn Your Back",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "1, 2, 3! Grandma!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 30
     },
     {
       "ID": "MARY_ACHIEVEMENT_1",
@@ -1213,7 +1218,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -1229,7 +1234,7 @@
       "Name": "Night Snack",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -1269,7 +1274,7 @@
       "Name": "The Last of Us",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -1285,7 +1290,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -1364,14 +1369,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 497,
+      "Progressed": 499,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-09T15:04:46.1111315+00:00",
+  "LastChanged_Achievements": "2023-07-09T16:04:12.5583657+00:00",
   "LastUpdate_AppInfo": "2023-07-06T13:16:22.5768242+00:00",
-  "LastUpdate_Ratings": "2023-07-09T14:57:00.9183548+00:00",
-  "LastUpdate_Achievements": "2023-07-09T15:04:46.1111877+00:00"
+  "LastUpdate_Ratings": "2023-07-09T15:57:06.4879345+00:00",
+  "LastUpdate_Achievements": "2023-07-09T16:04:12.5584402+00:00"
 }

@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 382,
+  "EOS_Progressed": 383,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1306,6 +1306,11 @@
       "Time": "2023-07-09T15:05:29.0967456+00:00",
       "NumProgressed": 382,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-09T16:04:44.7562446+00:00",
+      "NumProgressed": 383,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1499,9 +1504,9 @@
       "ID": "objective_key_contest_tiles_3",
       "SetID": "bm61c2p",
       "Name": "Covert Operative",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 84
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -1525,7 +1530,7 @@
       "Name": "Stocking Up",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -1541,7 +1546,7 @@
       "Name": "On Target",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -1620,14 +1625,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 382,
+      "Progressed": 383,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-09T15:05:29.0967446+00:00",
+  "LastChanged_Achievements": "2023-07-09T16:04:44.7562439+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:58.5226048+00:00",
-  "LastUpdate_Ratings": "2023-07-09T15:01:23.9718146+00:00",
-  "LastUpdate_Achievements": "2023-07-09T15:05:29.0967727+00:00"
+  "LastUpdate_Ratings": "2023-07-09T16:00:18.2125388+00:00",
+  "LastUpdate_Achievements": "2023-07-09T16:04:44.7562825+00:00"
 }

@@ -37,6 +37,7 @@
 | Despised | 2.00% | ~2 |
 | A Terrible Will | 2.00% | ~2 |
 | Unseen Patterns | 2.00% | ~2 |
+| Making Contact | 0.90% | ~1 |
 | Bounty Hunter | 0.90% | ~1 |
 | Loremaster | 0.90% | ~1 |
 | Adept | 0.90% | ~1 |
@@ -52,7 +53,6 @@
 | Merchant Lord | 0.90% | ~1 |
 | Voracity Confronted | 0.90% | ~1 |
 | Liberator | 0.00% | ~0 |
-| Making Contact | 0.00% | ~0 |
 | For the Cause! | 0.00% | ~0 |
 | Death Denied | 0.00% | ~0 |
 | And the Sky Full of Stars | 0.00% | ~0 |

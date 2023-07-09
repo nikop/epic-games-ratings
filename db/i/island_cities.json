@@ -4,8 +4,8 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 10,
-  "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 377,
+  "EOS_Progressed": 378,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 17.77,
+  "EOS_Completed_Percentage": 17.72,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -1773,6 +1773,11 @@
       "Time": "2023-07-09T12:05:59.8339403+00:00",
       "NumProgressed": 377,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-07-09T16:06:10.762291+00:00",
+      "NumProgressed": 378,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 22,
@@ -1784,7 +1789,7 @@
       "Name": "Welcome!",
       "Percentage": 98,
       "XP": 35,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "LEVEL_002",
@@ -1792,7 +1797,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "LEVEL_003",
@@ -1808,7 +1813,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 56,
       "XP": 35,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "LEVEL_005",
@@ -1824,7 +1829,7 @@
       "Name": "Found an oasis",
       "Percentage": 43,
       "XP": 35,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "LEVEL_007",
@@ -1840,7 +1845,7 @@
       "Name": "Passion for sports",
       "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "LEVEL_009",
@@ -1848,7 +1853,7 @@
       "Name": "Who loves trains?",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "LEVEL_010",
@@ -1872,7 +1877,7 @@
       "Name": "Calm neighborhood",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "LEVEL_013",
@@ -1886,9 +1891,9 @@
       "ID": "LEVEL_014",
       "SetID": "3khpmem",
       "Name": "Not lonely anymore",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 87
+      "UsersEstimate": 83
     },
     {
       "ID": "LEVEL_015",
@@ -1904,7 +1909,7 @@
       "Name": "The beach is right there",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "LEVEL_017",
@@ -1912,7 +1917,7 @@
       "Name": "Commuting",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "LEVEL_018",
@@ -1934,9 +1939,9 @@
       "ID": "LEVEL_020",
       "SetID": "3khpmem",
       "Name": "City of dreams",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 64
     },
     {
       "ID": "LEVEL_021",
@@ -1959,7 +1964,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 377,
+      "Progressed": 378,
       "Completed": 67
     }
   ],
@@ -1967,8 +1972,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-07-09T15:07:28.0778829+00:00",
+  "LastChanged_Achievements": "2023-07-09T16:06:10.7622905+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:38.9181248+00:00",
-  "LastUpdate_Ratings": "2023-07-09T14:58:34.7733288+00:00",
-  "LastUpdate_Achievements": "2023-07-09T15:07:28.0779024+00:00"
+  "LastUpdate_Ratings": "2023-07-09T15:58:11.8419247+00:00",
+  "LastUpdate_Achievements": "2023-07-09T16:06:10.7623194+00:00"
 }

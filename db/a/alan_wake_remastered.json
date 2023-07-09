@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57094,
+  "EOS_Progressed": 57095,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 413,
+  "EOS_NewPlayers": 409,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7442,6 +7442,11 @@
       "Time": "2023-07-09T15:04:14.1774682+00:00",
       "NumProgressed": 57094,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-09T16:03:48.3339245+00:00",
+      "NumProgressed": 57095,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7501,7 +7506,7 @@
       "Name": "Heavy Metal",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5709
+      "UsersEstimate": 5710
     },
     {
       "ID": "08",
@@ -7541,7 +7546,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5709
+      "UsersEstimate": 5710
     },
     {
       "ID": "13",
@@ -7557,7 +7562,7 @@
       "Name": "Gatekeeper",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5138
+      "UsersEstimate": 5139
     },
     {
       "ID": "15",
@@ -7565,7 +7570,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5138
+      "UsersEstimate": 5139
     },
     {
       "ID": "16",
@@ -7637,7 +7642,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5709
+      "UsersEstimate": 5710
     },
     {
       "ID": "25",
@@ -7653,7 +7658,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5709
+      "UsersEstimate": 5710
     },
     {
       "ID": "27",
@@ -7685,7 +7690,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5138
+      "UsersEstimate": 5139
     },
     {
       "ID": "31",
@@ -7701,7 +7706,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14844
+      "UsersEstimate": 14845
     },
     {
       "ID": "33",
@@ -7717,7 +7722,7 @@
       "Name": "Energized!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5138
+      "UsersEstimate": 5139
     },
     {
       "ID": "35",
@@ -7725,7 +7730,7 @@
       "Name": "Let There Be Light",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 15415
+      "UsersEstimate": 15416
     },
     {
       "ID": "36",
@@ -7988,21 +7993,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57094,
+      "Progressed": 57095,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20562,
+      "Progressed": 20563,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-09T15:04:14.1774678+00:00",
+  "LastChanged_Achievements": "2023-07-09T16:03:48.3339239+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:08.3646753+00:00",
-  "LastUpdate_Ratings": "2023-07-09T14:58:04.685453+00:00",
-  "LastUpdate_Achievements": "2023-07-09T15:04:14.1775515+00:00"
+  "LastUpdate_Ratings": "2023-07-09T15:57:52.4607834+00:00",
+  "LastUpdate_Achievements": "2023-07-09T16:03:48.3340403+00:00"
 }

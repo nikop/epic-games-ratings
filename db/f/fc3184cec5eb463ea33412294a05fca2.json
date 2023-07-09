@@ -284,9 +284,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "8d3ci0",
       "Name": "Family pond",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -355,8 +355,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-09T15:05:13.317034+00:00",
+  "LastChanged_Achievements": "2023-07-09T16:04:32.726765+00:00",
   "LastUpdate_AppInfo": "2023-07-08T11:56:59.3518994+00:00",
-  "LastUpdate_Ratings": "2023-07-09T14:57:06.8685284+00:00",
-  "LastUpdate_Achievements": "2023-07-09T15:05:13.3170445+00:00"
+  "LastUpdate_Ratings": "2023-07-09T15:57:10.9951524+00:00",
+  "LastUpdate_Achievements": "2023-07-09T16:04:32.7267772+00:00"
 }

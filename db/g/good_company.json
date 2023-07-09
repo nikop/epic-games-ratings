@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5105,
+  "EOS_Progressed": 5106,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2129,6 +2129,11 @@
       "Time": "2023-07-09T12:03:43.7170554+00:00",
       "NumProgressed": 5105,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-09T16:03:55.4214987+00:00",
+      "NumProgressed": 5106,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -2252,7 +2257,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2552
+      "UsersEstimate": 2553
     },
     {
       "ID": "ach_campaign_progress6",
@@ -2260,7 +2265,7 @@
       "Name": "Level: Rising Markets",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "ach_campaign_progress7",
@@ -2292,7 +2297,7 @@
       "Name": "Returning Home: Quick Learner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1328
     },
     {
       "ID": "ach_campaign_special10",
@@ -2747,15 +2752,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5105,
+      "Progressed": 5106,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-07-09T15:04:23.2597591+00:00",
+  "LastChanged_Achievements": "2023-07-09T16:03:55.4214978+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:01.0714136+00:00",
-  "LastUpdate_Ratings": "2023-07-09T14:59:40.9389094+00:00",
-  "LastUpdate_Achievements": "2023-07-09T15:04:23.2598341+00:00"
+  "LastUpdate_Ratings": "2023-07-09T15:59:02.275297+00:00",
+  "LastUpdate_Achievements": "2023-07-09T16:03:55.4216135+00:00"
 }
