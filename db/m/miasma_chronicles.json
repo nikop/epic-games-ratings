@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -160,9 +160,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1215,
+  "EOS_Progressed": 1216,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2185,6 +2185,11 @@
       "Time": "2023-07-09T13:15:10.8888563+00:00",
       "NumProgressed": 1215,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-09T17:00:52.1477117+00:00",
+      "NumProgressed": 1216,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -2212,7 +2217,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "ATTENBOROUGH",
@@ -2226,9 +2231,9 @@
       "ID": "BOOKWORM",
       "SetID": "9a4jnji",
       "Name": "Bookworm",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 24
     },
     {
       "ID": "BOT_WHISPERER",
@@ -2244,7 +2249,7 @@
       "Name": "Chain Killer",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "CHAIN_REACTION",
@@ -2268,7 +2273,7 @@
       "Name": "Commando",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "CROAKED",
@@ -2276,7 +2281,7 @@
       "Name": "Croaked",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "CRUELTY",
@@ -2298,9 +2303,9 @@
       "ID": "DEAD_DD",
       "SetID": "9a4jnji",
       "Name": "Ganglord",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 389
+      "UsersEstimate": 377
     },
     {
       "ID": "DEAD_DICK",
@@ -2308,7 +2313,7 @@
       "Name": "Limp Richard",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -2372,15 +2377,15 @@
       "Name": "Firestarter",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "FIRST_BLOOD",
       "SetID": "9a4jnji",
       "Name": "First Blood",
-      "Percentage": 93,
+      "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1119
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -2404,7 +2409,7 @@
       "Name": "From Darkness to Light",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "GIANT_KILLER",
@@ -2428,15 +2433,15 @@
       "Name": "Gun for Hire",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "HOLD_THE_LINE",
       "SetID": "9a4jnji",
       "Name": "Hold The Line",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 316
+      "UsersEstimate": 304
     },
     {
       "ID": "IM_THE_LAW",
@@ -2476,7 +2481,7 @@
       "Name": "Newtonian Knockout",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "PUSHING_DAISY",
@@ -2484,7 +2489,7 @@
       "Name": "Pushing Daisy",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "QA_HAS_SUFFERED",
@@ -2522,9 +2527,9 @@
       "ID": "SAVIOR",
       "SetID": "9a4jnji",
       "Name": "Savior",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 292
+      "UsersEstimate": 304
     },
     {
       "ID": "SENSEI",
@@ -2532,7 +2537,7 @@
       "Name": "Sensei",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "SHADOW_BOXING",
@@ -2603,7 +2608,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1215,
+      "Progressed": 1216,
       "Completed": 0
     }
   ],
@@ -2611,8 +2616,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-07-02T03:58:55.7545466+00:00",
-  "LastChanged_Achievements": "2023-07-09T16:03:07.6906975+00:00",
+  "LastChanged_Achievements": "2023-07-09T17:00:52.147711+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:59.5184485+00:00",
-  "LastUpdate_Ratings": "2023-07-09T15:58:25.1887366+00:00",
-  "LastUpdate_Achievements": "2023-07-09T16:03:07.6907565+00:00"
+  "LastUpdate_Ratings": "2023-07-09T16:58:18.837742+00:00",
+  "LastUpdate_Achievements": "2023-07-09T17:00:52.1477679+00:00"
 }

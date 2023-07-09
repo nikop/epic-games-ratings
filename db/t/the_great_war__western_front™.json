@@ -4,7 +4,7 @@
   "ProductSlug": "the-great-war-western-front",
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 285,
+  "EOS_Progressed": 286,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1249,6 +1249,11 @@
       "Time": "2023-07-09T11:04:32.1000928+00:00",
       "NumProgressed": 285,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-09T17:04:33.8237859+00:00",
+      "NumProgressed": 286,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -1298,7 +1303,7 @@
       "ID": "DESTROY_100_EMPLACEMENTS_WITH_BOMBERS",
       "SetID": "6kcl14p",
       "Name": "Bombs Away!",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 60,
       "UsersEstimate": 1
     },
@@ -1346,7 +1351,7 @@
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
       "SetID": "6kcl14p",
       "Name": "Nothing Can Stop Us!",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 60,
       "UsersEstimate": 1
     }
@@ -1355,7 +1360,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 285,
+      "Progressed": 286,
       "Completed": 0
     }
   ],
@@ -1363,8 +1368,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-07-09T16:04:53.0808956+00:00",
+  "LastChanged_Achievements": "2023-07-09T17:04:33.8237853+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:25.6811768+00:00",
-  "LastUpdate_Ratings": "2023-07-09T15:58:40.551529+00:00",
-  "LastUpdate_Achievements": "2023-07-09T16:04:53.0809133+00:00"
+  "LastUpdate_Ratings": "2023-07-09T16:58:33.0194952+00:00",
+  "LastUpdate_Achievements": "2023-07-09T17:04:33.8238037+00:00"
 }

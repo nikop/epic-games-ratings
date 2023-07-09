@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -296,9 +296,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15327,
+  "EOS_Progressed": 15328,
   "EOS_Completed": 96,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -6531,6 +6531,11 @@
       "Time": "2023-07-09T16:03:37.8649499+00:00",
       "NumProgressed": 15327,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2023-07-09T17:03:20.3043763+00:00",
+      "NumProgressed": 15328,
+      "NumCompleted": 96
     }
   ],
   "TotalAchievements": 16,
@@ -6542,7 +6547,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 4138
+      "UsersEstimate": 4139
     },
     {
       "ID": "Burning_For_You",
@@ -6669,15 +6674,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 15327,
+      "Progressed": 15328,
       "Completed": 96
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-05-26T21:58:51.5297179+00:00",
-  "LastChanged_Achievements": "2023-07-09T16:03:37.8649489+00:00",
+  "LastChanged_Achievements": "2023-07-09T17:03:20.3043758+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:05.1679058+00:00",
-  "LastUpdate_Ratings": "2023-07-09T15:59:04.2723071+00:00",
-  "LastUpdate_Achievements": "2023-07-09T16:03:37.8650682+00:00"
+  "LastUpdate_Ratings": "2023-07-09T16:58:55.3831516+00:00",
+  "LastUpdate_Achievements": "2023-07-09T17:03:20.3044246+00:00"
 }

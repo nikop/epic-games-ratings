@@ -6,18 +6,18 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~11,916 |
-| Sweet Sorrow | 18.00% | ~5,958 |
-| Rules the Waves | 17.00% | ~5,627 |
-| Thou, All-Shaking Thunder | 15.00% | ~4,965 |
-| Rival | 14.00% | ~4,634 |
-| Correspondent | 12.00% | ~3,972 |
-| Lose Your Mind | 12.00% | ~3,972 |
-| Sound Mind? | 12.00% | ~3,972 |
-| Salt's Curse | 11.00% | ~3,641 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~3,641 |
-| The Fall of the House | 11.00% | ~3,641 |
-| Shipmate | 11.00% | ~3,641 |
+| Sink Beneath the Waves | 36.00% | ~11,918 |
+| Sweet Sorrow | 18.00% | ~5,959 |
+| Rules the Waves | 17.00% | ~5,628 |
+| Thou, All-Shaking Thunder | 15.00% | ~4,966 |
+| Rival | 14.00% | ~4,635 |
+| Correspondent | 12.00% | ~3,973 |
+| Lose Your Mind | 12.00% | ~3,973 |
+| Sound Mind? | 12.00% | ~3,973 |
+| Salt's Curse | 11.00% | ~3,642 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~3,642 |
+| The Fall of the House | 11.00% | ~3,642 |
+| Shipmate | 11.00% | ~3,642 |
 | One Year at Zee | 8.00% | ~2,648 |
 | Pupil | 7.00% | ~2,317 |
 | Salvager | 7.00% | ~2,317 |
@@ -50,7 +50,7 @@ Number of Ratings: 401  (23.09.2022)
 | Depth charge | 0.90% | ~298 |
 | What lies beneath | 0.80% | ~265 |
 | Stone's Curse | 0.70% | ~232 |
-| Five Years at Zee | 0.50% | ~165 |
+| Five Years at Zee | 0.50% | ~166 |
 | The Lady's Parlour | 0.20% | ~66 |
 | A Past Wreathed in Shadows | 0.20% | ~66 |
 | Under pressure | 0.20% | ~66 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~33 |
 | Ten Years at Zee | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,099 (Ranked 93)  
+Progressed: 33,105 (Ranked 93)  
 Completed: 3 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,11 +141,11 @@ Completed: 3 (0.01%) (Ranked 223)
 | 2023-07-06 | 32,918 | 3 |
 | 2023-07-07 | 32,969 | 3 |
 | 2023-07-08 | 33,050 | 3 |
-| 2023-07-09 | 33,099 | 3 |
+| 2023-07-09 | 33,105 | 3 |
 ## Awards
 Max (Character Customization): 209  (Ranked 264)  
-Sum: 279 (Ranked 336)  
-Diff (max vs sum): -72  
+Sum: 279 (Ranked 337)  
+Diff (max vs sum): -73  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 209 |

@@ -8,20 +8,20 @@ Number of Ratings: 154  (23.09.2022)
 | ---- | ---------- | ----- |
 | Welcome to Sonic the Hedgehog | 95.00% | ~252 |
 | Newbie Hero | 85.00% | ~225 |
-| Welcome to Sonic CD | 77.00% | ~204 |
-| Welcome to Sonic the Hedgehog 2 | 77.00% | ~204 |
+| Welcome to Sonic CD | 78.00% | ~207 |
+| Welcome to Sonic the Hedgehog 2 | 78.00% | ~207 |
 | Welcome to Sonic 3 & Knuckles | 77.00% | ~204 |
-| Ring Collector | 74.00% | ~196 |
+| Ring Collector | 75.00% | ~199 |
 | Time Traveler | 73.00% | ~193 |
 | Everyone's Hero | 70.00% | ~186 |
+| Gallant Spin Dash | 68.00% | ~180 |
 | Knuckles the Echidna | 68.00% | ~180 |
 | Easy Peasy with Shields | 67.00% | ~178 |
-| Gallant Spin Dash | 67.00% | ~178 |
 | Bubbly Breath | 66.00% | ~175 |
 | Miles "Tails" Prower | 66.00% | ~175 |
 | Boss Rush Attempt | 58.00% | ~154 |
 | Cleared Sonic the Hedgehog | 57.00% | ~151 |
-| Museum Time | 53.00% | ~140 |
+| Museum Time | 54.00% | ~143 |
 | Very First Mission Clear! | 53.00% | ~140 |
 | Shut Down Metal Sonic | 50.00% | ~132 |
 | Super Sonic | 50.00% | ~132 |

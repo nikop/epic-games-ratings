@@ -3,9 +3,9 @@
 [View Rawdata](../../db/t/the_outlast_trials.json)  
 Rating: 4.66 (Ranked 270)  
 ## Awards
-Max (Quickly Understood Controls): 79  (Ranked 353)  
+Max (Quickly Understood Controls): 79  (Ranked 354)  
 Sum: 611 (Ranked 288)  
-Diff (max vs sum): 65  
+Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 79 |

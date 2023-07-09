@@ -4,7 +4,7 @@
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -539,9 +539,9 @@
       "ID": "success_kathleen",
       "SetID": "6h5h9ho",
       "Name": "The intellectual",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 69
+      "UsersEstimate": 72
     },
     {
       "ID": "success_lucas",
@@ -588,8 +588,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-07-09T16:06:10.3927187+00:00",
+  "LastChanged_Achievements": "2023-07-09T17:05:50.1531842+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:40.3842404+00:00",
-  "LastUpdate_Ratings": "2023-07-09T15:57:38.0032928+00:00",
-  "LastUpdate_Achievements": "2023-07-09T16:06:10.3927346+00:00"
+  "LastUpdate_Ratings": "2023-07-09T16:57:31.4454394+00:00",
+  "LastUpdate_Achievements": "2023-07-09T17:05:50.1531998+00:00"
 }

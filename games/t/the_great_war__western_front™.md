@@ -12,12 +12,12 @@
 | War with Friends | 4.00% | ~11 |
 | A Student of History | 1.00% | ~3 |
 | That's Not What Happened | 0.70% | ~2 |
-| Bombs Away! | 0.40% | ~1 |
-| Nothing Can Stop Us! | 0.40% | ~1 |
+| Bombs Away! | 0.30% | ~1 |
+| Nothing Can Stop Us! | 0.30% | ~1 |
 | Eventful | 0.00% | ~0 |
 | Generalissimo | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 285 (Ranked 247)  
+Progressed: 286 (Ranked 247)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-05 | 280 | 0 |
 | 2023-07-06 | 283 | 0 |
 | 2023-07-07 | 284 | 0 |
-| 2023-07-09 | 285 | 0 |
+| 2023-07-09 | 286 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

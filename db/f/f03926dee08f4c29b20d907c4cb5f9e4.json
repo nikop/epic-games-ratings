@@ -2,9 +2,9 @@
   "ID": "f03926dee08f4c29b20d907c4cb5f9e4",
   "Name": "HORSE CLUB Adventures 2 - Hazelwood Stories",
   "ProductSlug": "horse-club-adventures-2-hazelwood-stories-b257d3",
-  "Ranking_EOS_Progress": 427,
+  "Ranking_EOS_Progress": 420,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-07-06T10:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 4,
+  "EOS_Progressed": 5,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -44,6 +44,11 @@
       "Time": "2023-07-09T10:03:11.6466548+00:00",
       "NumProgressed": 4,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-09T17:02:06.2322878+00:00",
+      "NumProgressed": 5,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-05T11:01:11.706476+00:00",
@@ -54,7 +59,7 @@
       "ID": "ACH_01_SADDLE_UP",
       "SetID": "9loam6m",
       "Name": "Saddled up and away",
-      "Percentage": 150,
+      "Percentage": 120,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -62,7 +67,7 @@
       "ID": "ACH_02_PHOTO_TEAM",
       "SetID": "9loam6m",
       "Name": "Photo team",
-      "Percentage": 75,
+      "Percentage": 60,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -70,7 +75,7 @@
       "ID": "ACH_03_MODEL",
       "SetID": "9loam6m",
       "Name": "Model",
-      "Percentage": 50,
+      "Percentage": 40,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -198,7 +203,7 @@
       "ID": "ACH_19_HORSE_FRIENDS",
       "SetID": "9loam6m",
       "Name": "Horse friends",
-      "Percentage": 50,
+      "Percentage": 40,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -214,7 +219,7 @@
       "ID": "ACH_21_FIRST_RACE",
       "SetID": "9loam6m",
       "Name": "First race",
-      "Percentage": 50,
+      "Percentage": 40,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -246,7 +251,7 @@
       "ID": "ACH_25_BALLOON_GAME",
       "SetID": "9loam6m",
       "Name": "Balloon game",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -262,7 +267,7 @@
       "ID": "ACH_27_HORSEMANSHIP",
       "SetID": "9loam6m",
       "Name": "Horsemanship",
-      "Percentage": 50,
+      "Percentage": 40,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -294,7 +299,7 @@
       "ID": "ACH_31_BEST_MUFFINS",
       "SetID": "9loam6m",
       "Name": "The best muffins",
-      "Percentage": 50,
+      "Percentage": 40,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -310,7 +315,7 @@
       "ID": "ACH_33_LOVELY_VIEW",
       "SetID": "9loam6m",
       "Name": "Lovely view",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -318,7 +323,7 @@
       "ID": "ACH_34_HAZELWOOD",
       "SetID": "9loam6m",
       "Name": "Hazelwood",
-      "Percentage": 75,
+      "Percentage": 60,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -326,7 +331,7 @@
       "ID": "ACH_35_RIDING_LESSON",
       "SetID": "9loam6m",
       "Name": "Riding lesson",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -350,7 +355,7 @@
       "ID": "ACH_38_WELL_HIDDEN",
       "SetID": "9loam6m",
       "Name": "Well hidden!",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -358,7 +363,7 @@
       "ID": "ACH_39_TENS_AT_THE_LAKE",
       "SetID": "9loam6m",
       "Name": "Tents at the lake",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -391,13 +396,13 @@
     {
       "ID": "9loam6m",
       "IsBase": true,
-      "Progressed": 4,
+      "Progressed": 5,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2023-07-09T16:03:12.0753621+00:00",
+  "LastChanged_Achievements": "2023-07-09T17:02:06.2322873+00:00",
   "LastUpdate_AppInfo": "2023-07-05T10:56:59.9724687+00:00",
-  "LastUpdate_Ratings": "2023-07-09T15:57:04.3108776+00:00",
-  "LastUpdate_Achievements": "2023-07-09T16:03:12.0753948+00:00"
+  "LastUpdate_Ratings": "2023-07-09T16:56:56.4701994+00:00",
+  "LastUpdate_Achievements": "2023-07-09T17:02:06.2323212+00:00"
 }

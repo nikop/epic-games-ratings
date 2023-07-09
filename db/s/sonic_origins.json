@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 398,
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 18,
-  "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
     "PcReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -1010,17 +1010,17 @@
       "ID": "ID_02_SONICCD_WATCH_OPENING",
       "SetID": "7o8nc5m",
       "Name": "Welcome to Sonic CD",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 207
     },
     {
       "ID": "ID_03_SONIC2_WATCH_OPENING",
       "SetID": "7o8nc5m",
       "Name": "Welcome to Sonic the Hedgehog 2",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 207
     },
     {
       "ID": "ID_04_SONIC3K_WATCH_OPENING",
@@ -1098,17 +1098,17 @@
       "ID": "ID_13_RING_COLLECTOR",
       "SetID": "7o8nc5m",
       "Name": "Ring Collector",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 199
     },
     {
       "ID": "ID_14_DEFEAT_ENEMY_BY_SPIN_DASH",
       "SetID": "7o8nc5m",
       "Name": "Gallant Spin Dash",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 180
     },
     {
       "ID": "ID_15_NOVICE_HERO",
@@ -1122,9 +1122,9 @@
       "ID": "ID_16_WATCH_AT_MUSEUM",
       "SetID": "7o8nc5m",
       "Name": "Museum Time",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 143
     },
     {
       "ID": "ID_17_CLEAR_FIRST_MISSION",
@@ -1290,8 +1290,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-07-02T16:58:08.0160842+00:00",
-  "LastChanged_Achievements": "2023-07-09T16:06:10.9773842+00:00",
+  "LastChanged_Achievements": "2023-07-09T17:05:50.7848386+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:17.4042216+00:00",
-  "LastUpdate_Ratings": "2023-07-09T15:57:58.4724775+00:00",
-  "LastUpdate_Achievements": "2023-07-09T16:06:10.9774149+00:00"
+  "LastUpdate_Ratings": "2023-07-09T16:57:53.4599109+00:00",
+  "LastUpdate_Achievements": "2023-07-09T17:05:50.7848686+00:00"
 }

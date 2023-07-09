@@ -1,7 +1,7 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.45 (Ranked 622)  
+Rating: 4.46 (Ranked 606)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -18,6 +18,7 @@ Rating: 4.45 (Ranked 622)
 | Target America | 2.00% | ~65 |
 | The Kraken Sleeps | 2.00% | ~65 |
 | No Stone Unturned | 1.00% | ~32 |
+| Opposing Force | 1.00% | ~32 |
 | Organ Grinder | 1.00% | ~32 |
 | Gunslinger | 1.00% | ~32 |
 | Explosive Efficiency | 1.00% | ~32 |
@@ -25,7 +26,6 @@ Rating: 4.45 (Ranked 622)
 | Der Geist | 1.00% | ~32 |
 | As Quiet as a Mouse | 1.00% | ~32 |
 | Brains of the Operation | 1.00% | ~32 |
-| Opposing Force | 0.90% | ~29 |
 | Skirmisher | 0.90% | ~29 |
 | Set Europe Ablaze | 0.90% | ~29 |
 | My Little Friend | 0.90% | ~29 |
@@ -41,6 +41,8 @@ Rating: 4.45 (Ranked 622)
 | Rigged to Blow | 0.50% | ~16 |
 | Don't hold your breath | 0.50% | ~16 |
 | Herr Today, Gone Tomorrow | 0.50% | ~16 |
+| Shipbreaker | 0.50% | ~16 |
+| Sink or Swim | 0.50% | ~16 |
 | Strategist | 0.40% | ~13 |
 | From Paris with Love | 0.40% | ~13 |
 | Burn after reading | 0.40% | ~13 |
@@ -51,8 +53,6 @@ Rating: 4.45 (Ranked 622)
 | Operation Foxley | 0.40% | ~13 |
 | Siegebreaker | 0.40% | ~13 |
 | Ghost of Falaise | 0.40% | ~13 |
-| Shipbreaker | 0.40% | ~13 |
-| Sink or Swim | 0.40% | ~13 |
 | Locomotion Commotion | 0.30% | ~10 |
 | Last Resort | 0.30% | ~10 |
 | If You Go Down To The Woods Today | 0.30% | ~10 |
@@ -216,3 +216,4 @@ Completed: 9 (0.28%) (Ranked 150)
 | 2023-06-29 | 4.45 | 0 | 0 |
 | 2023-07-04 | 4.44 | 0 | 0 |
 | 2023-07-05 | 4.45 | 0 | 0 |
+| 2023-07-09 | 4.46 | 0 | 0 |

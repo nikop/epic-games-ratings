@@ -20,10 +20,10 @@ Rating: 4.33 (Ranked 755)
 | Way of the King | 6.00% | ~62 |
 | Til We Meet Again | 4.00% | ~42 |
 | Way of the Warlord | 3.00% | ~31 |
+| Arrow in the Wind | 3.00% | ~31 |
 | The Unvanquished | 2.00% | ~21 |
 | Let Us Cling Together | 2.00% | ~21 |
 | A Promised Voyage | 2.00% | ~21 |
-| Arrow in the Wind | 2.00% | ~21 |
 | Life or Death | 1.00% | ~10 |
 | First Bloom | 1.00% | ~10 |
 | Someone to Protect | 0.80% | ~8 |

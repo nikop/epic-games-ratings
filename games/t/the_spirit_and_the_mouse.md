@@ -12,17 +12,17 @@
 | East Street Energy | 51.00% | ~37 |
 | Energy Expert | 43.00% | ~31 |
 | Lightbulbs Expert | 43.00% | ~31 |
-| That's one way to travel | 42.00% | ~30 |
+| That's one way to travel | 43.00% | ~31 |
 | The Old Man and the Café | 40.00% | ~29 |
 | South Town Energy | 32.00% | ~23 |
-| Photogenic | 29.00% | ~21 |
+| Photogenic | 31.00% | ~22 |
 | The Girl and the Homework | 28.00% | ~20 |
 | OK, I heard you!! | 28.00% | ~20 |
 | North Town Energy | 26.00% | ~19 |
 | Lightbulb Detective | 24.00% | ~17 |
 | Unlimited Power!! | 22.00% | ~16 |
 | The Quiche and the Hair Dryer | 22.00% | ~16 |
-| Cartographer | 19.00% | ~14 |
+| Cartographer | 21.00% | ~15 |
 | South Square Lightbulbs | 18.00% | ~13 |
 | The Ghost and the Lamps | 15.00% | ~11 |
 | The Woman and the Pizzeria | 15.00% | ~11 |

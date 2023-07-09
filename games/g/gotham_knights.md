@@ -6,10 +6,10 @@ Rating: 4.18 (Ranked 854)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 6.00% | ~4,006 |
-| To the Victor Go the Spoils | 4.00% | ~2,670 |
-| Har, Har, Har, Very Funny | 4.00% | ~2,670 |
-| Knighthood | 4.00% | ~2,670 |
-| Loose Ends | 4.00% | ~2,670 |
+| To the Victor Go the Spoils | 4.00% | ~2,671 |
+| Har, Har, Har, Very Funny | 4.00% | ~2,671 |
+| Knighthood | 4.00% | ~2,671 |
+| Loose Ends | 4.00% | ~2,671 |
 | The Batman Family | 3.00% | ~2,003 |
 | Something in the Clay | 3.00% | ~2,003 |
 | The Show Mud Go On | 3.00% | ~2,003 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 854)
 | History Major | 0.10% | ~67 |
 | Confronting Your Demon | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,761 (Ranked 74)  
+Progressed: 66,764 (Ranked 74)  
 Completed: 101 (0.15%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,10 +147,10 @@ Completed: 101 (0.15%) (Ranked 172)
 | 2023-07-06 | 66,572 | 100 |
 | 2023-07-07 | 66,641 | 101 |
 | 2023-07-08 | 66,718 | 101 |
-| 2023-07-09 | 66,761 | 101 |
+| 2023-07-09 | 66,764 | 101 |
 ## Awards
 Max (Great Boss Battles): 2,431  (Ranked 99)  
-Sum: 4,021 (Ranked 137)  
+Sum: 4,022 (Ranked 137)  
 Diff (max vs sum): -38  
 | Award | Count |
 | ----- | ----- |
@@ -160,8 +160,8 @@ Diff (max vs sum): -38
 | This game is Extremely Fun | 205 |
 | This game has Amazing Characters | 199 |
 | This game has Diverse Characters | 196 |
+| This game is Great for Beginners | 194 |
 | This game is Highly Recommended | 194 |
-| This game is Great for Beginners | 193 |
 | This game has Amazing Storytelling | 193 |
 | This game is Great for Quick Sessions | 60 |
 ## Ratings History
@@ -305,4 +305,4 @@ Diff (max vs sum): -38
 | 2023-07-06 | 4.18 | 2,421 | 4,009 |
 | 2023-07-07 | 4.18 | 2,421 | 4,010 |
 | 2023-07-08 | 4.18 | 2,425 | 4,014 |
-| 2023-07-09 | 4.18 | 2,431 | 4,021 |
+| 2023-07-09 | 4.18 | 2,431 | 4,022 |
