@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 61.54% |
+| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 53.33% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.82% |
 | 3 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 30.00% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
@@ -40,13 +40,13 @@
 | 38 | [Bugsnax](games/b/bugsnax.md) | 4.68% |
 | 39 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.62% |
 | 40 | [Without Escape](games/w/without_escape.md) | 4.55% |
-| 41 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 4.48% |
-| 42 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.43% |
+| 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.43% |
+| 42 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 4.41% |
 | 43 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.91% |
 | 44 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.71% |
-| 45 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 3.70% |
-| 46 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
-| 47 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.63% |
+| 45 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
+| 46 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.63% |
+| 47 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 3.57% |
 | 48 | [Doodle God](games/d/doodle_god.md) | 3.56% |
 | 49 | [ZZT!](games/z/zzt!.md) | 3.49% |
 | 50 | [Bunny Park](games/b/bunny_park.md) | 3.42% |
@@ -158,9 +158,9 @@
 | 153 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.25% |
 | 157 | [Blanc](games/b/blanc.md) | 0.24% |
 | 158 | [Filament](games/f/filament.md) | 0.23% |
-| 158 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.23% |
-| 160 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
-| 160 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.22% |
+| 159 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
+| 159 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.22% |
+| 159 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.22% |
 | 162 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.21% |
 | 163 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
 | 163 | [Going Medieval](games/g/going_medieval.md) | 0.20% |
