@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 55.00% | ~6 |
-| Tinkerer | 36.00% | ~4 |
+| Self-Defence | 64.00% | ~7 |
+| Tinkerer | 45.00% | ~5 |
 | Bringing guns to a sword fight | 18.00% | ~2 |
 | Welcome to the Club | 18.00% | ~2 |
 | Don't Cry Wolf | 18.00% | ~2 |

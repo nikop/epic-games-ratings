@@ -6,22 +6,22 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,341 |
-| The Mad Wizard | 11.00% | ~22,984 |
-| The Ring of Regeneration | 7.00% | ~14,626 |
-| Are Ya Chicken? | 7.00% | ~14,626 |
-| Were-verpowered | 5.00% | ~10,447 |
-| Seeking Allies | 5.00% | ~10,447 |
-| Mad Cow Disease | 5.00% | ~10,447 |
-| Friendly Imps | 5.00% | ~10,447 |
-| A Persistent Buzzing | 4.00% | ~8,358 |
-| Pure Energy | 4.00% | ~8,358 |
-| Beast Mode | 3.00% | ~6,268 |
-| Terror in the Dark | 3.00% | ~6,268 |
-| Unearthed Evil | 3.00% | ~6,268 |
-| The Crumbling Temple | 3.00% | ~6,268 |
-| Exploring Port Nyanzaru | 3.00% | ~6,268 |
-| The Contagious Curse | 3.00% | ~6,268 |
+| The Cursed Farmer | 15.00% | ~31,346 |
+| The Mad Wizard | 11.00% | ~22,987 |
+| The Ring of Regeneration | 7.00% | ~14,628 |
+| Are Ya Chicken? | 7.00% | ~14,628 |
+| Were-verpowered | 5.00% | ~10,449 |
+| Seeking Allies | 5.00% | ~10,449 |
+| Mad Cow Disease | 5.00% | ~10,449 |
+| Friendly Imps | 5.00% | ~10,449 |
+| A Persistent Buzzing | 4.00% | ~8,359 |
+| Pure Energy | 4.00% | ~8,359 |
+| Beast Mode | 3.00% | ~6,269 |
+| Terror in the Dark | 3.00% | ~6,269 |
+| Unearthed Evil | 3.00% | ~6,269 |
+| The Crumbling Temple | 3.00% | ~6,269 |
+| Exploring Port Nyanzaru | 3.00% | ~6,269 |
+| The Contagious Curse | 3.00% | ~6,269 |
 | Low Initiative | 2.00% | ~4,179 |
 | A Mysterious Summons | 2.00% | ~4,179 |
 | Building Trust | 2.00% | ~4,179 |
@@ -33,27 +33,27 @@ Number of Ratings: 9,041  (23.09.2022)
 | Underdeep Cartography | 2.00% | ~4,179 |
 | Overdue Rendezvous | 2.00% | ~4,179 |
 | The Templar's Camp | 2.00% | ~4,179 |
-| Homecoming | 1.00% | ~2,089 |
-| Street War | 1.00% | ~2,089 |
-| March of the Undead | 1.00% | ~2,089 |
-| Invisible Shadows | 1.00% | ~2,089 |
-| The Dinner Party | 1.00% | ~2,089 |
-| The Botched Kidnapping | 1.00% | ~2,089 |
-| Trollskull Manor | 1.00% | ~2,089 |
-| The Death Curse | 1.00% | ~2,089 |
-| Premature Betrayal | 1.00% | ~2,089 |
-| A Tale of Two Cities | 1.00% | ~2,089 |
-| Flying Monkey Skulls of Doom | 1.00% | ~2,089 |
-| Dinosaur Racing | 1.00% | ~2,089 |
-| Close Escort | 1.00% | ~2,089 |
-| Constant Banditry | 1.00% | ~2,089 |
-| Rescue in the Jungle | 1.00% | ~2,089 |
-| The Lost Heir of Omu | 0.90% | ~1,880 |
-| Attack on the Manor | 0.90% | ~1,880 |
-| The Dead Three | 0.90% | ~1,880 |
-| The Long Haul | 0.90% | ~1,880 |
-| Lost in the Deep | 0.90% | ~1,880 |
-| Easily Distracted | 0.90% | ~1,880 |
+| Homecoming | 1.00% | ~2,090 |
+| Street War | 1.00% | ~2,090 |
+| March of the Undead | 1.00% | ~2,090 |
+| Invisible Shadows | 1.00% | ~2,090 |
+| The Dinner Party | 1.00% | ~2,090 |
+| The Botched Kidnapping | 1.00% | ~2,090 |
+| Trollskull Manor | 1.00% | ~2,090 |
+| The Death Curse | 1.00% | ~2,090 |
+| Premature Betrayal | 1.00% | ~2,090 |
+| A Tale of Two Cities | 1.00% | ~2,090 |
+| Flying Monkey Skulls of Doom | 1.00% | ~2,090 |
+| Dinosaur Racing | 1.00% | ~2,090 |
+| Close Escort | 1.00% | ~2,090 |
+| Constant Banditry | 1.00% | ~2,090 |
+| Rescue in the Jungle | 1.00% | ~2,090 |
+| The Lost Heir of Omu | 0.90% | ~1,881 |
+| Attack on the Manor | 0.90% | ~1,881 |
+| The Dead Three | 0.90% | ~1,881 |
+| The Long Haul | 0.90% | ~1,881 |
+| Lost in the Deep | 0.90% | ~1,881 |
+| Easily Distracted | 0.90% | ~1,881 |
 | The Forbidden City | 0.80% | ~1,672 |
 | Captured! | 0.80% | ~1,672 |
 | Wisdom Check | 0.80% | ~1,672 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,943 (Ranked 52)  
+Progressed: 208,971 (Ranked 52)  
 Completed: 2,041 (0.98%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -590,7 +590,7 @@ Completed: 2,041 (0.98%) (Ranked 102)
 | 2023-07-06 | 207,486 | 2,035 |
 | 2023-07-07 | 208,152 | 2,037 |
 | 2023-07-08 | 208,782 | 2,041 |
-| 2023-07-09 | 208,943 | 2,041 |
+| 2023-07-09 | 208,971 | 2,041 |
 ## Awards
 Max (Diverse Characters): 5,016  (Ranked 65)  
 Sum: 30,454 (Ranked 37)  

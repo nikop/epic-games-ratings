@@ -5,22 +5,22 @@ Rating: 3.55 (Ranked 947)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 77.00% | ~1,320 |
-| Home Is Where the Heart Is | 60.00% | ~1,028 |
-| Ne Plus Ultra | 60.00% | ~1,028 |
-| Wounded Whispers | 60.00% | ~1,028 |
-| Blood Will Have Blood | 51.00% | ~874 |
-| ICU | 46.00% | ~788 |
-| Peek-a-boo | 44.00% | ~754 |
-| Catch and Release | 44.00% | ~754 |
+| I Like My Stakes Rare! | 77.00% | ~1,321 |
+| Home Is Where the Heart Is | 60.00% | ~1,029 |
+| Ne Plus Ultra | 60.00% | ~1,029 |
+| Wounded Whispers | 60.00% | ~1,029 |
+| Blood Will Have Blood | 51.00% | ~875 |
+| ICU | 46.00% | ~789 |
+| Peek-a-boo | 44.00% | ~755 |
+| Catch and Release | 44.00% | ~755 |
 | Sucks To Be You | 43.00% | ~737 |
-| Welcome to the Neighborhood | 38.00% | ~651 |
+| Welcome to the Neighborhood | 38.00% | ~652 |
 | Fly Fisher | 36.00% | ~617 |
 | Throw The First Stone | 35.00% | ~600 |
 | Enter of Your Own Free Will | 33.00% | ~566 |
 | Heart Attack | 33.00% | ~566 |
-| Skin of Their Teeth | 31.00% | ~531 |
-| Grounded | 24.00% | ~411 |
+| Skin of Their Teeth | 31.00% | ~532 |
+| Grounded | 24.00% | ~412 |
 | Bad Wiring | 22.00% | ~377 |
 | I Spit On Your Grave | 19.00% | ~326 |
 | Neighborhood Revitalization | 16.00% | ~274 |
@@ -60,7 +60,7 @@ Rating: 3.55 (Ranked 947)
 | Good Samaritan | 0.60% | ~10 |
 | Someplace to Be | 0.50% | ~9 |
 | Bob’s Final Hour | 0.50% | ~9 |
-| A Cry in the Dark | 0.40% | ~7 |
+| A Cry in the Dark | 0.30% | ~5 |
 | Rum Runner | 0.20% | ~3 |
 | Eagle Eyes | 0.20% | ~3 |
 | Faith Healer | 0.10% | ~2 |
@@ -72,7 +72,7 @@ Rating: 3.55 (Ranked 947)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,714 (Ranked 166)  
+Progressed: 1,715 (Ranked 166)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-02 | 1,710 | 0 |
 | 2023-07-05 | 1,711 | 0 |
 | 2023-07-08 | 1,712 | 0 |
-| 2023-07-09 | 1,714 | 0 |
+| 2023-07-09 | 1,715 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

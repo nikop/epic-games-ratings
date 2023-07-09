@@ -42,8 +42,8 @@ Rating: 4.61 (Ranked 362)
 | Lord of Chaos | 0.80% | ~40 |
 | Crimson Caldera | 0.80% | ~40 |
 | Jack of All Tomes | 0.80% | ~40 |
-| Grexolis | 0.60% | ~30 |
-| One for All, All for One | 0.60% | ~30 |
+| Grexolis | 0.70% | ~35 |
+| One for All, All for One | 0.70% | ~35 |
 | I've Got Everything I Need Right Here | 0.50% | ~25 |
 | Pruning for Progress | 0.50% | ~25 |
 | Manufactured War | 0.40% | ~20 |

@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | It's Good to have Allies | 44.00% | ~166 |
 | Defenses Online | 41.00% | ~155 |
-| Facility Online | 36.00% | ~136 |
-| Corporal | 27.00% | ~102 |
+| Facility Online | 37.00% | ~140 |
+| Corporal | 28.00% | ~106 |
 | Covert Operative | 22.00% | ~83 |
 | Sergeant | 19.00% | ~72 |
 | Lieutenant | 15.00% | ~57 |

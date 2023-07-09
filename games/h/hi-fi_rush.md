@@ -15,6 +15,7 @@ Rating: 4.87 (Ranked 25)
 | Thanks for the free chip, Peppermint! | 0.60% | ~21 |
 | Z-shielding's got nothing on us! | 0.60% | ~21 |
 | Out in a puff of smoke | 0.60% | ~21 |
+| Uh, they were broken when I got here | 0.60% | ~21 |
 | Kissing the sky! | 0.60% | ~21 |
 | Who put gears in there? | 0.60% | ~21 |
 | This will cost you big time | 0.50% | ~17 |
@@ -22,7 +23,6 @@ Rating: 4.87 (Ranked 25)
 | I have to read these things? | 0.50% | ~17 |
 | You got this, Peppermint? | 0.50% | ~17 |
 | Perfect Parry | 0.50% | ~17 |
-| Uh, they were broken when I got here | 0.50% | ~17 |
 | Start with a bang! | 0.40% | ~14 |
 | Well that was a rush! | 0.40% | ~14 |
 | Feeling the beat! | 0.40% | ~14 |

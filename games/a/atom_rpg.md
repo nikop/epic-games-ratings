@@ -24,9 +24,9 @@ Number of Ratings: 54  (23.09.2022)
 | Bustin' nuts | 7.00% | ~70 |
 | The Vitinsky Rifle | 7.00% | ~70 |
 | Protection racket | 5.00% | ~50 |
+| Sacrifice | 5.00% | ~50 |
 | Secret room | 5.00% | ~50 |
 | Indy | 4.00% | ~40 |
-| Sacrifice | 4.00% | ~40 |
 | Career criminal | 2.00% | ~20 |
 | Wishmaster | 2.00% | ~20 |
 | Neanderthal | 1.00% | ~10 |

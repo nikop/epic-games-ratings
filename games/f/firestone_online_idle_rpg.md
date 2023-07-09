@@ -10,7 +10,7 @@ Rating: 4.09 (Ranked 890)
 | Temple of Eternals | 57.00% | ~909 |
 | Prestigious | 53.00% | ~845 |
 | Fellowship Power | 41.00% | ~654 |
-| Guild Power | 24.00% | ~383 |
+| Guild Power | 25.00% | ~398 |
 | Prestigious x10 | 21.00% | ~335 |
 | The game is on | 20.00% | ~319 |
 | Exotic Merchant | 17.00% | ~271 |
@@ -63,9 +63,9 @@ Rating: 4.09 (Ranked 890)
 | What lies behind the bush | 3.00% | ~48 |
 | Ebony Jungle Liberator | 2.00% | ~32 |
 | Mythic Power | 1.00% | ~16 |
+| Gear Enchanting | 0.70% | ~11 |
 | Guardian Master | 0.70% | ~11 |
 | Training makes a Pro player | 0.70% | ~11 |
-| Gear Enchanting | 0.60% | ~10 |
 | Transmute | 0.60% | ~10 |
 | Tree of Life | 0.50% | ~8 |
 | Cauldron Liberator | 0.40% | ~6 |

@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 521688,
+  "EOS_Progressed": 521689,
   "EOS_Completed": 442,
-  "EOS_NewPlayers": 617,
+  "EOS_NewPlayers": 615,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -8680,6 +8680,11 @@
       "Time": "2023-07-09T06:00:49.3799675+00:00",
       "NumProgressed": 521688,
       "NumCompleted": 442
+    },
+    {
+      "Time": "2023-07-09T07:01:28.5308911+00:00",
+      "NumProgressed": 521689,
+      "NumCompleted": 442
     }
   ],
   "TotalAchievements": 57,
@@ -8715,7 +8720,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 114771
+      "UsersEstimate": 114772
     },
     {
       "ID": "13",
@@ -8723,7 +8728,7 @@
       "Name": "Keep On Trucking",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 67819
+      "UsersEstimate": 67820
     },
     {
       "ID": "14",
@@ -9067,7 +9072,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 239976
+      "UsersEstimate": 239977
     },
     {
       "ID": "53",
@@ -9146,15 +9151,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 521688,
+      "Progressed": 521689,
       "Completed": 442
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-07-09T06:00:49.3799671+00:00",
+  "LastChanged_Achievements": "2023-07-09T07:01:28.5308906+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:39.1461956+00:00",
-  "LastUpdate_Ratings": "2023-07-09T05:57:31.1202156+00:00",
-  "LastUpdate_Achievements": "2023-07-09T06:00:49.380131+00:00"
+  "LastUpdate_Ratings": "2023-07-09T06:57:42.1911722+00:00",
+  "LastUpdate_Achievements": "2023-07-09T07:01:28.5309929+00:00"
 }
