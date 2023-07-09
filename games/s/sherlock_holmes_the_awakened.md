@@ -7,7 +7,7 @@ Rating: 4.64 (Ranked 311)
 | ---- | ---------- | ----- |
 | To Hell In A Handcart | 64.00% | ~332 |
 | Read Between The Lines | 63.00% | ~327 |
-| High Profile | 57.00% | ~296 |
+| High Profile | 58.00% | ~301 |
 | Whispers In The Dark | 55.00% | ~285 |
 | Fond Memories | 53.00% | ~275 |
 | History Check | 52.00% | ~270 |
@@ -35,7 +35,7 @@ Rating: 4.64 (Ranked 311)
 | Reawakened | 6.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 519 (Ranked 210)  
-Completed: 24 (4.62%) (Ranked 40)  
+Completed: 24 (4.62%) (Ranked 39)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

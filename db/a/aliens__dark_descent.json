@@ -114,7 +114,7 @@
   "Tags": [],
   "EOS_Progressed": 2751,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 355,
+  "EOS_NewPlayers": 351,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2142,9 +2142,9 @@
       "ID": "ACH_ALL_WEAPONS",
       "SetID": "816efe",
       "Name": "One For Every Occasion",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 330
+      "UsersEstimate": 358
     },
     {
       "ID": "ACH_ALL_XENO_TECHS",
@@ -2470,9 +2470,9 @@
       "ID": "ACH_UNLOCK_APC",
       "SetID": "816efe",
       "Name": "The More The Merrier",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 605
+      "UsersEstimate": 633
     },
     {
       "ID": "ACH_USE_REDEMPTION",
@@ -2495,8 +2495,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-08T21:00:18.0882251+00:00",
-  "LastChanged_Achievements": "2023-07-09T11:05:52.1092768+00:00",
+  "LastChanged_Achievements": "2023-07-09T12:06:00.855915+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:32.529009+00:00",
-  "LastUpdate_Ratings": "2023-07-09T10:59:14.1705299+00:00",
-  "LastUpdate_Achievements": "2023-07-09T11:05:52.109316+00:00"
+  "LastUpdate_Ratings": "2023-07-09T11:59:10.4312864+00:00",
+  "LastUpdate_Achievements": "2023-07-09T12:06:00.8559523+00:00"
 }

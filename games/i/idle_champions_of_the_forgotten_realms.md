@@ -6,34 +6,34 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,360 |
-| The Mad Wizard | 11.00% | ~22,997 |
-| The Ring of Regeneration | 7.00% | ~14,634 |
-| Are Ya Chicken? | 7.00% | ~14,634 |
-| Were-verpowered | 6.00% | ~12,544 |
-| Seeking Allies | 5.00% | ~10,453 |
-| Mad Cow Disease | 5.00% | ~10,453 |
-| Friendly Imps | 5.00% | ~10,453 |
-| A Persistent Buzzing | 4.00% | ~8,363 |
-| Pure Energy | 4.00% | ~8,363 |
-| Beast Mode | 3.00% | ~6,272 |
-| Terror in the Dark | 3.00% | ~6,272 |
-| Unearthed Evil | 3.00% | ~6,272 |
-| The Crumbling Temple | 3.00% | ~6,272 |
-| Exploring Port Nyanzaru | 3.00% | ~6,272 |
-| The Contagious Curse | 3.00% | ~6,272 |
-| Low Initiative | 2.00% | ~4,181 |
-| A Mysterious Summons | 2.00% | ~4,181 |
-| Building Trust | 2.00% | ~4,181 |
-| March of the Undead | 2.00% | ~4,181 |
-| No Time To Rest | 2.00% | ~4,181 |
-| Useless Allies | 2.00% | ~4,181 |
-| Running of the Saurs | 2.00% | ~4,181 |
-| Escort to Waterdeep | 2.00% | ~4,181 |
-| Waterdeep Detours | 2.00% | ~4,181 |
-| Underdeep Cartography | 2.00% | ~4,181 |
-| Overdue Rendezvous | 2.00% | ~4,181 |
-| The Templar's Camp | 2.00% | ~4,181 |
+| The Cursed Farmer | 15.00% | ~31,364 |
+| The Mad Wizard | 11.00% | ~23,000 |
+| The Ring of Regeneration | 7.00% | ~14,636 |
+| Are Ya Chicken? | 7.00% | ~14,636 |
+| Were-verpowered | 6.00% | ~12,545 |
+| Seeking Allies | 5.00% | ~10,454 |
+| Mad Cow Disease | 5.00% | ~10,454 |
+| Friendly Imps | 5.00% | ~10,454 |
+| A Persistent Buzzing | 4.00% | ~8,364 |
+| Pure Energy | 4.00% | ~8,364 |
+| Beast Mode | 3.00% | ~6,273 |
+| Terror in the Dark | 3.00% | ~6,273 |
+| Unearthed Evil | 3.00% | ~6,273 |
+| The Crumbling Temple | 3.00% | ~6,273 |
+| Exploring Port Nyanzaru | 3.00% | ~6,273 |
+| The Contagious Curse | 3.00% | ~6,273 |
+| Low Initiative | 2.00% | ~4,182 |
+| A Mysterious Summons | 2.00% | ~4,182 |
+| Building Trust | 2.00% | ~4,182 |
+| March of the Undead | 2.00% | ~4,182 |
+| No Time To Rest | 2.00% | ~4,182 |
+| Useless Allies | 2.00% | ~4,182 |
+| Running of the Saurs | 2.00% | ~4,182 |
+| Escort to Waterdeep | 2.00% | ~4,182 |
+| Waterdeep Detours | 2.00% | ~4,182 |
+| Underdeep Cartography | 2.00% | ~4,182 |
+| Overdue Rendezvous | 2.00% | ~4,182 |
+| The Templar's Camp | 2.00% | ~4,182 |
 | Homecoming | 1.00% | ~2,091 |
 | Street War | 1.00% | ~2,091 |
 | Invisible Shadows | 1.00% | ~2,091 |
@@ -59,27 +59,28 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wisdom Check | 0.80% | ~1,673 |
 | The Mists of Ravenloft | 0.80% | ~1,673 |
 | Nimble Escape | 0.80% | ~1,673 |
-| A Grand Puzzle | 0.70% | ~1,463 |
-| Tomb of the Nine Gods | 0.70% | ~1,463 |
-| Treasure Hunters | 0.70% | ~1,463 |
-| Fugitives | 0.70% | ~1,463 |
-| Crowded Streets | 0.70% | ~1,463 |
-| The Darkness Runs Deeper | 0.70% | ~1,463 |
-| Market Fluctuations | 0.70% | ~1,463 |
-| The Giant's Bane Tavern | 0.70% | ~1,227 |
-| Rude Welcome | 0.70% | ~1,463 |
-| Durable Deep | 0.70% | ~1,463 |
-| The Haunted Jungle | 0.70% | ~1,463 |
-| Family Entanglements | 0.60% | ~1,254 |
-| The Immortal Warrior | 0.60% | ~1,254 |
-| The Wyrmheart Mine | 0.60% | ~1,254 |
-| Tower on the Lake | 0.60% | ~1,254 |
-| The Guardian of Orolunga | 0.60% | ~1,254 |
-| The Lost Love | 0.60% | ~1,254 |
-| Hopelessly Lost | 0.60% | ~1,254 |
-| Enter the Sargauth | 0.60% | ~1,254 |
-| Lair of the Xanathar | 0.60% | ~1,254 |
-| Difficult Terrain | 0.60% | ~1,254 |
+| A Grand Puzzle | 0.70% | ~1,464 |
+| Tomb of the Nine Gods | 0.70% | ~1,464 |
+| Treasure Hunters | 0.70% | ~1,464 |
+| Fugitives | 0.70% | ~1,464 |
+| Crowded Streets | 0.70% | ~1,464 |
+| The Darkness Runs Deeper | 0.70% | ~1,464 |
+| Market Fluctuations | 0.70% | ~1,464 |
+| The Giant's Bane Tavern | 0.70% | ~1,228 |
+| Rude Welcome | 0.70% | ~1,464 |
+| Durable Deep | 0.70% | ~1,464 |
+| The Haunted Jungle | 0.70% | ~1,464 |
+| Family Entanglements | 0.60% | ~1,255 |
+| The Immortal Warrior | 0.60% | ~1,255 |
+| The Wyrmheart Mine | 0.60% | ~1,255 |
+| Tower on the Lake | 0.60% | ~1,255 |
+| The Guardian of Orolunga | 0.60% | ~1,255 |
+| The Lost Love | 0.60% | ~1,255 |
+| Hopelessly Lost | 0.60% | ~1,255 |
+| Enter the Sargauth | 0.60% | ~1,255 |
+| Lair of the Xanathar | 0.60% | ~1,255 |
+| Difficult Terrain | 0.60% | ~1,255 |
+| Expert Opinion | 0.60% | ~1,255 |
 | Home Field Advantage | 0.50% | ~1,045 |
 | Force Grey Unleashed | 0.50% | ~1,045 |
 | Sleuth It Out | 0.50% | ~1,045 |
@@ -95,7 +96,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elturel Has Fallen | 0.50% | ~1,045 |
 | Resolve Amongst Chaos | 0.50% | ~1,045 |
 | The Everlasting Rime | 0.50% | ~877 |
-| Expert Opinion | 0.50% | ~1,045 |
 | Poor Guidance | 0.50% | ~1,045 |
 | Anti-Dexterous Explorers | 0.40% | ~836 |
 | Not Very Charming | 0.40% | ~836 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209,064 (Ranked 52)  
+Progressed: 209,090 (Ranked 52)  
 Completed: 2,041 (0.98%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -590,10 +590,10 @@ Completed: 2,041 (0.98%) (Ranked 102)
 | 2023-07-06 | 207,486 | 2,035 |
 | 2023-07-07 | 208,152 | 2,037 |
 | 2023-07-08 | 208,782 | 2,041 |
-| 2023-07-09 | 209,064 | 2,041 |
+| 2023-07-09 | 209,090 | 2,041 |
 ## Awards
 Max (Diverse Characters): 5,016  (Ranked 65)  
-Sum: 30,454 (Ranked 37)  
+Sum: 30,455 (Ranked 37)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -601,8 +601,8 @@ Diff (max vs sum): 28
 | This game is Great for Beginners | 4,951 |
 | This game has Quickly Understood Controls | 4,652 |
 | This game is Relaxing | 4,547 |
+| This game has Amazing Characters | 3,998 |
 | This game is Highly Recommended | 3,997 |
-| This game has Amazing Characters | 3,997 |
 | This game has Playful Visuals | 3,294 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -771,4 +771,4 @@ Diff (max vs sum): 28
 | 2023-07-06 | 4.05 | - | 5,009 | 30,419 |
 | 2023-07-07 | 4.05 | - | 5,013 | 30,436 |
 | 2023-07-08 | 4.05 | - | 5,013 | 30,446 |
-| 2023-07-09 | 4.05 | - | 5,016 | 30,454 |
+| 2023-07-09 | 4.05 | - | 5,016 | 30,455 |

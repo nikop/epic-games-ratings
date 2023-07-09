@@ -1181,9 +1181,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 122904,
+  "EOS_Progressed": 122906,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 338,
+  "EOS_NewPlayers": 339,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -8886,6 +8886,11 @@
       "Time": "2023-07-09T11:02:30.5865158+00:00",
       "NumProgressed": 122904,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-07-09T12:02:29.9492724+00:00",
+      "NumProgressed": 122906,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 40,
@@ -8977,7 +8982,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 34413
+      "UsersEstimate": 34414
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -9041,7 +9046,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 13519
+      "UsersEstimate": 13520
     },
     {
       "ID": "ACH_CUNO",
@@ -9057,7 +9062,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 11061
+      "UsersEstimate": 11062
     },
     {
       "ID": "ACH_GLUTEN",
@@ -9216,15 +9221,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 122904,
+      "Progressed": 122906,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-07-07T16:59:40.5892511+00:00",
-  "LastChanged_Achievements": "2023-07-09T11:02:30.5865154+00:00",
+  "LastChanged_Achievements": "2023-07-09T12:02:29.949272+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:13.7032583+00:00",
-  "LastUpdate_Ratings": "2023-07-09T10:59:02.0955638+00:00",
-  "LastUpdate_Achievements": "2023-07-09T11:02:30.5865756+00:00"
+  "LastUpdate_Ratings": "2023-07-09T11:58:59.1775168+00:00",
+  "LastUpdate_Achievements": "2023-07-09T12:02:29.9493313+00:00"
 }

@@ -85,17 +85,17 @@
       "ID": "ACH_ActivateGrace",
       "SetID": "aao9n96",
       "Name": "It\u0027s alive! It\u0027s alive!",
-      "Percentage": 30,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_AlignRelay",
       "SetID": "aao9n96",
       "Name": "Don\u0027t cross the streams",
-      "Percentage": 30,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_AllRooms",
@@ -125,9 +125,9 @@
       "ID": "ACH_AllenEnding",
       "SetID": "aao9n96",
       "Name": "I\u0027ll give her another 20 minutes, but that\u0027s it",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_Bathroom",
@@ -229,9 +229,9 @@
       "ID": "ACH_GraceEnding",
       "SetID": "aao9n96",
       "Name": "The hardest choices require the strongest wills",
-      "Percentage": 30,
+      "Percentage": 40,
       "XP": 140,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_HeldBreath",
@@ -301,9 +301,9 @@
       "ID": "ACH_ResetRelay",
       "SetID": "aao9n96",
       "Name": "When we fix something it stays fixed",
-      "Percentage": 30,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_Shortcut",
@@ -372,8 +372,8 @@
   ],
   "FirstSeen": "2023-06-18T13:01:09.4740669+00:00",
   "FirstSeenAchievements": "2023-05-24T20:04:21.7839136+00:00",
-  "LastChanged_Achievements": "2023-07-09T11:05:13.0579625+00:00",
+  "LastChanged_Achievements": "2023-07-09T12:05:21.8309592+00:00",
   "LastUpdate_AppInfo": "2023-07-04T17:56:54.6680951+00:00",
-  "LastUpdate_Ratings": "2023-07-09T10:57:18.5135572+00:00",
-  "LastUpdate_Achievements": "2023-07-09T11:05:13.0579837+00:00"
+  "LastUpdate_Ratings": "2023-07-09T11:57:15.9555533+00:00",
+  "LastUpdate_Achievements": "2023-07-09T12:05:21.8309841+00:00"
 }

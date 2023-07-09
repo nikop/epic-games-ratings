@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 55674,
+  "EOS_Progressed": 55677,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5267,6 +5267,11 @@
       "Time": "2023-07-09T11:04:01.0641223+00:00",
       "NumProgressed": 55674,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-09T12:04:10.5935277+00:00",
+      "NumProgressed": 55677,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 49,
@@ -5286,7 +5291,7 @@
       "Name": "Backer Visitor",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1114
     },
     {
       "ID": "BoomBox",
@@ -5438,7 +5443,7 @@
       "Name": "Hi Fiver",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1114
     },
     {
       "ID": "IsThisPossible",
@@ -5534,7 +5539,7 @@
       "Name": "Hate That Randomizer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1114
     },
     {
       "ID": "RhythmStar",
@@ -5574,7 +5579,7 @@
       "Name": "Feet on Funkotron",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1114
     },
     {
       "ID": "StruckLove",
@@ -5614,7 +5619,7 @@
       "Name": "Thrill Seeker",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3340
+      "UsersEstimate": 3341
     },
     {
       "ID": "TimelySplash",
@@ -5622,7 +5627,7 @@
       "Name": "A Timely Splash",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1114
     },
     {
       "ID": "TotalBummer",
@@ -5669,7 +5674,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 55674,
+      "Progressed": 55677,
       "Completed": 4
     }
   ],
@@ -5677,8 +5682,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-07-09T11:04:01.0641218+00:00",
+  "LastChanged_Achievements": "2023-07-09T12:04:10.5935273+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:05.8866487+00:00",
-  "LastUpdate_Ratings": "2023-07-09T11:00:13.5567845+00:00",
-  "LastUpdate_Achievements": "2023-07-09T11:04:01.0641775+00:00"
+  "LastUpdate_Ratings": "2023-07-09T12:00:12.1205704+00:00",
+  "LastUpdate_Achievements": "2023-07-09T12:04:10.5935823+00:00"
 }

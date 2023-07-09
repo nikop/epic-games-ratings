@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 59.00% | ~83 |
-| Aspairagus | 55.00% | ~50 |
+| Seeds of War | 59.00% | ~84 |
+| Aspairagus | 55.00% | ~51 |
 | Survivor | 50.00% | ~46 |
 | First Blood | 44.00% | ~62 |
-| Triple Kill | 42.00% | ~59 |
-| I Believe I Can Fly | 40.00% | ~56 |
-| Early Survivor | 38.00% | ~35 |
-| No Asperascope | 37.00% | ~52 |
+| Triple Kill | 42.00% | ~60 |
+| I Believe I Can Fly | 39.00% | ~55 |
+| Early Survivor | 39.00% | ~36 |
+| No Asperascope | 37.00% | ~53 |
 | Cornivore | 36.00% | ~51 |
 | No Diggity | 36.00% | ~33 |
-| Amateur Survivor | 28.00% | ~25 |
+| Amateur Survivor | 27.00% | ~25 |
 | Bouncemato | 26.00% | ~24 |
-| 10K | 21.00% | ~30 |
 | 15K | 20.00% | ~28 |
+| 10K | 20.00% | ~28 |
 | Quick-Draw Pod | 20.00% | ~18 |
 | Professional Survivor | 20.00% | ~18 |
-| Drinking Problem | 16.00% | ~23 |
+| Drinking Problem | 17.00% | ~24 |
 | This Is My Boomstick | 16.00% | ~15 |
 | Grave Digger | 15.00% | ~14 |
 | Summers Here | 13.00% | ~12 |
@@ -35,7 +35,7 @@
 | Perfect | 8.00% | ~7 |
 | Expert Survivor | 8.00% | ~7 |
 | Quadsparagus | 8.00% | ~7 |
-| Bring Home The Bacon | 6.00% | ~8 |
+| Bring Home The Bacon | 6.00% | ~9 |
 | Getting Started | 5.00% | ~7 |
 | Master Survivor | 5.00% | ~5 |
 | Chick Magnet | 4.00% | ~6 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141 (Ranked 285)  
+Progressed: 142 (Ranked 285)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,6 +133,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-06-29 | 137 | 0 |
 | 2023-07-04 | 138 | 0 |
 | 2023-07-08 | 141 | 0 |
+| 2023-07-09 | 142 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

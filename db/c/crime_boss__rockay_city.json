@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -2374,11 +2374,17 @@
       "Rating": 3.93,
       "NumberOfAwards": 1702,
       "NumberOfAwardsMax": 358
+    },
+    {
+      "Time": "2023-07-09T11:59:45.1376958+00:00",
+      "Rating": 3.93,
+      "NumberOfAwards": 1703,
+      "NumberOfAwardsMax": 359
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 1702,
-  "NumberOfAwardsMax": 358,
+  "NumberOfAwards": 1703,
+  "NumberOfAwardsMax": 359,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -2391,7 +2397,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 358
+      "Count": 359
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2430,9 +2436,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 68608,
+  "EOS_Progressed": 68609,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 431,
+  "EOS_NewPlayers": 425,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -10805,6 +10811,11 @@
       "Time": "2023-07-09T11:03:57.8246802+00:00",
       "NumProgressed": 68608,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-07-09T12:04:07.5171776+00:00",
+      "NumProgressed": 68609,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 37,
@@ -10824,7 +10835,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 19896
+      "UsersEstimate": 19897
     },
     {
       "ID": "ACH_0012",
@@ -10960,7 +10971,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 44595
+      "UsersEstimate": 44596
     },
     {
       "ID": "ACH_0210",
@@ -10968,7 +10979,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 50770
+      "UsersEstimate": 50771
     },
     {
       "ID": "ACH_0211",
@@ -11088,7 +11099,7 @@
       "Name": "Dragonslayer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11663
+      "UsersEstimate": 11664
     },
     {
       "ID": "ACH_0460",
@@ -11111,16 +11122,16 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 68608,
+      "Progressed": 68609,
       "Completed": 36
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-07-07T14:59:45.5289479+00:00",
-  "LastChanged_Achievements": "2023-07-09T11:03:57.8246798+00:00",
+  "LastChanged": "2023-07-09T11:59:45.1376956+00:00",
+  "LastChanged_Achievements": "2023-07-09T12:04:07.5171771+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:23.2557502+00:00",
-  "LastUpdate_Ratings": "2023-07-09T10:59:47.0832426+00:00",
-  "LastUpdate_Achievements": "2023-07-09T11:03:57.8247606+00:00"
+  "LastUpdate_Ratings": "2023-07-09T11:59:45.1376961+00:00",
+  "LastUpdate_Achievements": "2023-07-09T12:04:07.517237+00:00"
 }

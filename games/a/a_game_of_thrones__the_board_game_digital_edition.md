@@ -6,30 +6,30 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~7,217 |
-| Battering Crew | 20.00% | ~3,609 |
-| The Kingsroad | 18.00% | ~3,248 |
-| Well Stocked | 14.00% | ~2,526 |
-| Royal Fleet | 14.00% | ~2,526 |
-| The Kraken’s Grasp | 9.00% | ~1,624 |
-| Alliance | 9.00% | ~1,624 |
-| Daggers in the Dark | 8.00% | ~1,443 |
-| Oathkeeper | 8.00% | ~1,443 |
-| A Long Journey | 8.00% | ~1,443 |
-| Ours is the Fury | 7.00% | ~1,263 |
-| Winter is Coming | 7.00% | ~1,263 |
-| Influential | 7.00% | ~1,263 |
+| Conqueror | 40.00% | ~7,220 |
+| Battering Crew | 20.00% | ~3,610 |
+| The Kingsroad | 18.00% | ~3,249 |
+| Well Stocked | 14.00% | ~2,527 |
+| Royal Fleet | 14.00% | ~2,527 |
+| The Kraken’s Grasp | 9.00% | ~1,625 |
+| Alliance | 9.00% | ~1,625 |
+| Daggers in the Dark | 8.00% | ~1,444 |
+| Oathkeeper | 8.00% | ~1,444 |
+| A Long Journey | 8.00% | ~1,444 |
+| Ours is the Fury | 7.00% | ~1,264 |
+| Winter is Coming | 7.00% | ~1,264 |
+| Influential | 7.00% | ~1,264 |
 | We Do Not Sow | 6.00% | ~1,083 |
 | Unbowed, Unbent, Unbroken | 6.00% | ~1,083 |
 | Hear me Roar! | 6.00% | ~1,083 |
 | Defender of the Wall | 6.00% | ~1,083 |
-| Growing Strong | 5.00% | ~902 |
-| What is Dead may Never Die | 3.00% | ~541 |
-| The Swift | 3.00% | ~541 |
+| Growing Strong | 5.00% | ~903 |
+| What is Dead may Never Die | 3.00% | ~542 |
+| The Swift | 3.00% | ~542 |
 | King in the North | 2.00% | ~361 |
-| War of the Five Kings | 1.00% | ~180 |
+| War of the Five Kings | 1.00% | ~181 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,043 (Ranked 104)  
+Progressed: 18,051 (Ranked 104)  
 Completed: 36 (0.20%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 36 (0.20%) (Ranked 163)
 | 2023-07-06 | 17,805 | 34 |
 | 2023-07-07 | 17,902 | 34 |
 | 2023-07-08 | 18,012 | 36 |
-| 2023-07-09 | 18,043 | 36 |
+| 2023-07-09 | 18,051 | 36 |
 ## Awards
 Max (Quickly Understood Controls): 123  (Ranked 307)  
 Sum: 784 (Ranked 259)  

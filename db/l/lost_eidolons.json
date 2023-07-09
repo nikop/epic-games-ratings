@@ -5,9 +5,9 @@
   "Ranking_Rating": 755,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
-  "Ranking_EOS_Progress": 186,
+  "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -170,9 +170,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1037,
+  "EOS_Progressed": 1038,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1065,6 +1065,11 @@
       "Time": "2023-07-09T02:40:02.8613234+00:00",
       "NumProgressed": 1037,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-09T12:06:04.8627902+00:00",
+      "NumProgressed": 1038,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -1132,7 +1137,7 @@
       "Name": "Monster Slayer",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "09",
@@ -1180,7 +1185,7 @@
       "Name": "Til We Meet Again",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "15",
@@ -1204,7 +1209,7 @@
       "Name": "Ready to Learn",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "18",
@@ -1212,7 +1217,7 @@
       "Name": "Earning Trust",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "19",
@@ -1259,7 +1264,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1037,
+      "Progressed": 1038,
       "Completed": 0
     }
   ],
@@ -1267,8 +1272,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-06-30T20:00:05.692321+00:00",
-  "LastChanged_Achievements": "2023-07-09T11:05:56.5683689+00:00",
+  "LastChanged_Achievements": "2023-07-09T12:06:04.8627898+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:55.8793782+00:00",
-  "LastUpdate_Ratings": "2023-07-09T10:59:29.3102664+00:00",
-  "LastUpdate_Achievements": "2023-07-09T11:05:56.5683867+00:00"
+  "LastUpdate_Ratings": "2023-07-09T11:59:25.6232122+00:00",
+  "LastUpdate_Achievements": "2023-07-09T12:06:04.8628058+00:00"
 }

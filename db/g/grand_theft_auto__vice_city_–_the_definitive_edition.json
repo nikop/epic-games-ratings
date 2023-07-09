@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 128,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -520,9 +520,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 8907,
+  "EOS_Progressed": 8908,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -6060,6 +6060,11 @@
       "Time": "2023-07-09T10:03:21.3498411+00:00",
       "NumProgressed": 8907,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-09T12:03:08.4379878+00:00",
+      "NumProgressed": 8908,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -6231,7 +6236,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4008
+      "UsersEstimate": 4009
     },
     {
       "ID": "ACH22",
@@ -6239,7 +6244,7 @@
       "Name": "Life of the Party",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1692
+      "UsersEstimate": 1693
     },
     {
       "ID": "ACH23",
@@ -6342,7 +6347,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8907,
+      "Progressed": 8908,
       "Completed": 43
     }
   ],
@@ -6350,8 +6355,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-07T10:58:53.3105834+00:00",
-  "LastChanged_Achievements": "2023-07-09T11:02:39.2178294+00:00",
+  "LastChanged_Achievements": "2023-07-09T12:03:08.4379874+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:55.3864428+00:00",
-  "LastUpdate_Ratings": "2023-07-09T10:58:14.9109458+00:00",
-  "LastUpdate_Achievements": "2023-07-09T11:02:39.2178722+00:00"
+  "LastUpdate_Ratings": "2023-07-09T11:58:12.9075246+00:00",
+  "LastUpdate_Achievements": "2023-07-09T12:03:08.4380313+00:00"
 }

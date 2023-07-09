@@ -23,16 +23,16 @@ Rating: 4.41 (Ranked 673)
 | Recouped Investment | 31.00% | ~853 |
 | Where It All Begun | 30.00% | ~825 |
 | Omelette Du Fromage | 29.00% | ~798 |
+| The More The Merrier | 23.00% | ~633 |
 | Living Nightmare | 22.00% | ~605 |
-| The More The Merrier | 22.00% | ~605 |
 | The Darwin Era Was Here | 18.00% | ~495 |
 | Stuff Of Nightmares | 17.00% | ~468 |
 | Come on, You Wanna Live Forever? | 16.00% | ~440 |
 | Deep Into Insanity | 16.00% | ~440 |
 | The Passenger | 16.00% | ~440 |
 | El Riesgo Siempre Vive | 15.00% | ~413 |
+| One For Every Occasion | 13.00% | ~358 |
 | The Spire | 13.00% | ~358 |
-| One For Every Occasion | 12.00% | ~330 |
 | Frontliner | 12.00% | ~330 |
 | Bandage Lover | 11.00% | ~303 |
 | The Cable Guy | 11.00% | ~303 |

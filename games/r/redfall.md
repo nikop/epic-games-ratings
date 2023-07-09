@@ -6,26 +6,26 @@ Rating: 3.55 (Ranked 947)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I Like My Stakes Rare! | 77.00% | ~1,321 |
-| Home Is Where the Heart Is | 60.00% | ~1,029 |
-| Ne Plus Ultra | 60.00% | ~1,029 |
-| Wounded Whispers | 60.00% | ~1,029 |
+| Home Is Where the Heart Is | 60.00% | ~1,030 |
+| Ne Plus Ultra | 60.00% | ~1,030 |
+| Wounded Whispers | 60.00% | ~1,030 |
 | Blood Will Have Blood | 51.00% | ~875 |
 | ICU | 46.00% | ~789 |
 | Peek-a-boo | 44.00% | ~755 |
 | Catch and Release | 44.00% | ~755 |
-| Sucks To Be You | 43.00% | ~737 |
+| Sucks To Be You | 43.00% | ~738 |
 | Welcome to the Neighborhood | 38.00% | ~652 |
-| Fly Fisher | 36.00% | ~617 |
-| Throw The First Stone | 35.00% | ~600 |
+| Fly Fisher | 36.00% | ~618 |
+| Throw The First Stone | 35.00% | ~601 |
 | Enter of Your Own Free Will | 33.00% | ~566 |
 | Heart Attack | 33.00% | ~566 |
 | Skin of Their Teeth | 31.00% | ~532 |
-| Grounded | 24.00% | ~412 |
-| Bad Wiring | 22.00% | ~377 |
+| Grounded | 25.00% | ~429 |
+| Bad Wiring | 22.00% | ~378 |
 | I Spit On Your Grave | 19.00% | ~326 |
-| Neighborhood Revitalization | 16.00% | ~274 |
-| Radio Silence | 16.00% | ~274 |
-| Helping Hand | 12.00% | ~206 |
+| Neighborhood Revitalization | 16.00% | ~275 |
+| Radio Silence | 16.00% | ~275 |
+| Helping Hand | 13.00% | ~223 |
 | You Clean It Up | 11.00% | ~189 |
 | Block Party | 8.00% | ~137 |
 | Starve the Beast | 8.00% | ~137 |
@@ -72,7 +72,7 @@ Rating: 3.55 (Ranked 947)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,715 (Ranked 166)  
+Progressed: 1,716 (Ranked 166)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-02 | 1,710 | 0 |
 | 2023-07-05 | 1,711 | 0 |
 | 2023-07-08 | 1,712 | 0 |
-| 2023-07-09 | 1,715 | 0 |
+| 2023-07-09 | 1,716 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

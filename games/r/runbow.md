@@ -5,14 +5,14 @@ Rating: 4.46 (Ranked 606)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~130,537 |
-| My First Runbow | 50.00% | ~123,148 |
-| It's The Fall | 26.00% | ~64,037 |
-| Be Aggressive | 21.00% | ~51,722 |
-| The Stunner | 21.00% | ~51,722 |
-| Curator | 20.00% | ~49,259 |
-| Crowning Around | 18.00% | ~44,333 |
-| Can You Dig It? | 17.00% | ~41,870 |
+| In The Zone | 53.00% | ~130,539 |
+| My First Runbow | 50.00% | ~123,150 |
+| It's The Fall | 26.00% | ~64,038 |
+| Be Aggressive | 21.00% | ~51,723 |
+| The Stunner | 21.00% | ~51,723 |
+| Curator | 20.00% | ~49,260 |
+| Crowning Around | 18.00% | ~44,334 |
+| Can You Dig It? | 17.00% | ~41,871 |
 | You Juan-A-Go? | 16.00% | ~39,408 |
 | Chan-tastic | 15.00% | ~36,945 |
 | Muddy Waters | 15.00% | ~36,945 |
@@ -32,7 +32,7 @@ Rating: 4.46 (Ranked 606)
 | What A Trip | 0.90% | ~2,217 |
 | Here We Go! | 0.80% | ~1,970 |
 | Please The King | 0.80% | ~1,970 |
-| Clear-Cut | 0.50% | ~1,231 |
+| Clear-Cut | 0.50% | ~1,232 |
 | Breaking Out | 0.40% | ~985 |
 | Disposable | 0.40% | ~985 |
 | A Winner Is You | 0.20% | ~493 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 606)
 | Talent Scout | 0.10% | ~246 |
 | True Completionist | 0.10% | ~246 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246,297 (Ranked 43)  
+Progressed: 246,300 (Ranked 43)  
 Completed: 3 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 3 (0.00%) (Ranked 237)
 | 2023-07-06 | 246,146 | 3 |
 | 2023-07-07 | 246,209 | 3 |
 | 2023-07-08 | 246,272 | 3 |
-| 2023-07-09 | 246,297 | 3 |
+| 2023-07-09 | 246,300 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
