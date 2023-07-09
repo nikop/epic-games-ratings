@@ -6,55 +6,55 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~600,860 |
-| Death From Above | 46.00% | ~600,860 |
-| Master of the Household | 39.00% | ~509,425 |
-| Death of the Party | 36.00% | ~470,238 |
-| NEXUS-47 | 33.00% | ~431,052 |
-| The Last Tango | 32.00% | ~417,989 |
-| Nightmare Fuel | 31.00% | ~404,927 |
-| The Result of Previous Training | 28.00% | ~365,741 |
-| Tools of the Trade | 28.00% | ~365,741 |
-| Cleared for Field Duty | 27.00% | ~352,679 |
-| Seizing the Opportunity | 25.00% | ~326,554 |
-| Bullet Train | 21.00% | ~274,306 |
-| Stylish Assassin | 20.00% | ~261,243 |
-| Silent Assassin | 14.00% | ~182,870 |
-| Rise Up | 13.00% | ~169,808 |
-| Evil Wine Club | 12.00% | ~156,746 |
-| Console Cowboy | 10.00% | ~130,622 |
-| Last Stop | 10.00% | ~130,622 |
-| A New Profile | 9.00% | ~117,560 |
-| Full House | 9.00% | ~117,560 |
-| Dune Raider | 8.00% | ~104,497 |
-| No Stone Unturned | 8.00% | ~104,497 |
-| Train Surfing | 8.00% | ~104,497 |
-| Icebreaker | 7.00% | ~91,435 |
-| Family Feud | 6.00% | ~78,373 |
-| Rich Harvest | 6.00% | ~78,373 |
-| Count Down From 47 | 6.00% | ~78,373 |
-| Shortcut Killer | 5.00% | ~65,311 |
-| Treacherous Architecture | 5.00% | ~65,311 |
-| Stair Master | 5.00% | ~65,311 |
-| Followed the Trails | 5.00% | ~65,311 |
-| Last Call | 5.00% | ~65,311 |
-| Upstairs, Downstairs | 4.00% | ~52,249 |
-| The Great Outdoors | 4.00% | ~52,249 |
-| Partied Out | 4.00% | ~52,249 |
-| Surveillance Master | 4.00% | ~52,249 |
-| Hack the Planet | 4.00% | ~52,249 |
+| Unseen Assassin | 46.00% | ~600,871 |
+| Death From Above | 46.00% | ~600,871 |
+| Master of the Household | 39.00% | ~509,434 |
+| Death of the Party | 36.00% | ~470,247 |
+| NEXUS-47 | 33.00% | ~431,060 |
+| The Last Tango | 32.00% | ~417,997 |
+| Nightmare Fuel | 31.00% | ~404,935 |
+| The Result of Previous Training | 28.00% | ~365,748 |
+| Tools of the Trade | 28.00% | ~365,748 |
+| Cleared for Field Duty | 27.00% | ~352,685 |
+| Seizing the Opportunity | 25.00% | ~326,560 |
+| Bullet Train | 21.00% | ~274,311 |
+| Stylish Assassin | 20.00% | ~261,248 |
+| Silent Assassin | 14.00% | ~182,874 |
+| Rise Up | 13.00% | ~169,811 |
+| Evil Wine Club | 12.00% | ~156,749 |
+| Console Cowboy | 10.00% | ~130,624 |
+| Last Stop | 10.00% | ~130,624 |
+| A New Profile | 9.00% | ~117,562 |
+| Full House | 9.00% | ~117,562 |
+| Dune Raider | 8.00% | ~104,499 |
+| No Stone Unturned | 8.00% | ~104,499 |
+| Train Surfing | 8.00% | ~104,499 |
+| Icebreaker | 7.00% | ~91,437 |
+| Family Feud | 6.00% | ~78,375 |
+| Rich Harvest | 6.00% | ~78,375 |
+| Count Down From 47 | 6.00% | ~78,375 |
+| Shortcut Killer | 5.00% | ~65,312 |
+| Treacherous Architecture | 5.00% | ~65,312 |
+| Stair Master | 5.00% | ~65,312 |
+| Followed the Trails | 5.00% | ~65,312 |
+| Last Call | 5.00% | ~65,312 |
+| Upstairs, Downstairs | 4.00% | ~52,250 |
+| The Great Outdoors | 4.00% | ~52,250 |
+| Partied Out | 4.00% | ~52,250 |
+| Surveillance Master | 4.00% | ~52,250 |
+| Hack the Planet | 4.00% | ~52,250 |
 | Training Escalated | 3.00% | ~39,187 |
 | Keep Your Eyes Peeled | 3.00% | ~39,187 |
 | Warehouse Veteran | 3.00% | ~39,187 |
 | Future Shock | 3.00% | ~39,187 |
 | Master the Terroir | 3.00% | ~39,187 |
 | Vineyard Virtuoso | 3.00% | ~39,187 |
-| Bird Art | 2.00% | ~26,124 |
+| Bird Art | 2.00% | ~26,125 |
 | Top of the Class | 1.00% | ~13,062 |
 | Ripe for the Picking | 1.00% | ~13,062 |
 | The Creative Assassin | 0.70% | ~9,144 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,306,217 (Ranked 9)  
+Progressed: 1,306,242 (Ranked 9)  
 Completed: 2,099 (0.16%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 2,099 (0.16%) (Ranked 169)
 | 2023-07-06 | 1,304,806 | 2,098 |
 | 2023-07-07 | 1,305,250 | 2,099 |
 | 2023-07-08 | 1,305,732 | 2,099 |
-| 2023-07-09 | 1,306,217 | 2,099 |
+| 2023-07-09 | 1,306,242 | 2,099 |
 ## Awards
 Max (Diverse Characters): 9,445  (Ranked 36)  
 Sum: 68,202 (Ranked 20)  

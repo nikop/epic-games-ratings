@@ -31,9 +31,12 @@
 | Serpentine | 3.00% | ~96 |
 | Wayward Son of Hephaestus | 2.00% | ~64 |
 | Forged in Fire | 2.00% | ~64 |
+| Rock and a Hard Place | 2.00% | ~64 |
+| The Midas Touch | 2.00% | ~64 |
 | Hapax Legomenon | 2.00% | ~64 |
 | Labour of Apollo | 2.00% | ~64 |
 | Vandili | 2.00% | ~64 |
+| No Scylla in Sight | 2.00% | ~64 |
 | Cloaca Maxima | 2.00% | ~64 |
 | Baby Crabs They Ain't | 2.00% | ~64 |
 | Halls of Marble | 2.00% | ~64 |
@@ -42,13 +45,10 @@
 | The Nameless One | 1.00% | ~32 |
 | Lament of the Constellations | 1.00% | ~32 |
 | Rule of Thirds | 1.00% | ~32 |
-| Rock and a Hard Place | 1.00% | ~32 |
-| The Midas Touch | 1.00% | ~32 |
 | Pyr Demon | 1.00% | ~32 |
 | Don't Pay the Ferryman | 1.00% | ~32 |
 | Veneration of Hephaestus | 1.00% | ~32 |
 | Biotechnology | 1.00% | ~32 |
-| No Scylla in Sight | 1.00% | ~32 |
 | The Archimedes Principle | 1.00% | ~32 |
 | Rites at Sea | 1.00% | ~32 |
 | Close Shut the Doors | 1.00% | ~32 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,202 (Ranked 147)  
+Progressed: 3,203 (Ranked 147)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-06 | 3,153 | 0 |
 | 2023-07-07 | 3,178 | 0 |
 | 2023-07-08 | 3,184 | 0 |
-| 2023-07-09 | 3,202 | 0 |
+| 2023-07-09 | 3,203 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

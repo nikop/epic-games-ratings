@@ -5070,7 +5070,7 @@
       "Count": 362
     }
   ],
-  "EOS_Progressed": 710625,
+  "EOS_Progressed": 710626,
   "EOS_Completed": 12809,
   "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 6,
@@ -12675,6 +12675,11 @@
       "Time": "2023-07-09T20:07:08.4945529+00:00",
       "NumProgressed": 710625,
       "NumCompleted": 12809
+    },
+    {
+      "Time": "2023-07-09T22:07:13.3736013+00:00",
+      "NumProgressed": 710626,
+      "NumCompleted": 12809
     }
   ],
   "TotalAchievements": 50,
@@ -12686,7 +12691,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14212
+      "UsersEstimate": 14213
     },
     {
       "ID": "02_Vengeance_H1",
@@ -12694,7 +12699,7 @@
       "Name": "The Assault",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14212
+      "UsersEstimate": 14213
     },
     {
       "ID": "03_Vengeance_H2",
@@ -12702,7 +12707,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14212
+      "UsersEstimate": 14213
     },
     {
       "ID": "04_Vengeance_H3",
@@ -12862,7 +12867,7 @@
       "Name": "Life is your teacher",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14212
+      "UsersEstimate": 14213
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -12870,7 +12875,7 @@
       "Name": "State of constant learning",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14212
+      "UsersEstimate": 14213
     },
     {
       "ID": "25_ShrineMind",
@@ -12886,7 +12891,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14212
+      "UsersEstimate": 14213
     },
     {
       "ID": "27_ShrineBody",
@@ -12950,7 +12955,7 @@
       "Name": "Lightning Hands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14212
+      "UsersEstimate": 14213
     },
     {
       "ID": "35_WideStrike",
@@ -13085,21 +13090,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 19926,
+      "Progressed": 19927,
       "Completed": 10378
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 710625,
+      "Progressed": 710626,
       "Completed": 12809
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-09T18:59:55.3329413+00:00",
-  "LastChanged_Achievements": "2023-07-09T21:06:26.9685967+00:00",
+  "LastChanged_Achievements": "2023-07-09T22:07:13.3736008+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:05.6915334+00:00",
-  "LastUpdate_Ratings": "2023-07-09T20:59:11.2108749+00:00",
-  "LastUpdate_Achievements": "2023-07-09T21:06:26.9686753+00:00"
+  "LastUpdate_Ratings": "2023-07-09T21:59:29.7348675+00:00",
+  "LastUpdate_Achievements": "2023-07-09T22:07:13.3736696+00:00"
 }

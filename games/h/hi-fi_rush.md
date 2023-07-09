@@ -6,12 +6,12 @@ Rating: 4.87 (Ranked 25)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | NOW we got a kickass hideout! | 1.00% | ~19 |
+| I play my own way! | 0.80% | ~27 |
 | Kissing the sky! | 0.80% | ~27 |
 | Cream of the Crop | 0.70% | ~24 |
 | This will cost you big time | 0.70% | ~24 |
 | The Negotiator | 0.70% | ~24 |
 | Thanks for the free chip, Peppermint! | 0.70% | ~24 |
-| I play my own way! | 0.70% | ~24 |
 | Whoa! There's ANOTHER health bar!? | 0.70% | ~24 |
 | You got this, Peppermint? | 0.70% | ~24 |
 | Z-shielding's got nothing on us! | 0.70% | ~24 |
@@ -26,9 +26,9 @@ Rating: 4.87 (Ranked 25)
 | Start with a bang! | 0.50% | ~17 |
 | I have to read these things? | 0.50% | ~17 |
 | Feeling the beat! | 0.50% | ~17 |
+| You must like calling me in, Chai | 0.50% | ~17 |
 | I look cool. But I can look COOLER. | 0.50% | ~17 |
 | Well that was a rush! | 0.40% | ~14 |
-| You must like calling me in, Chai | 0.40% | ~14 |
 | Perfecter Parry-er! | 0.40% | ~14 |
 | That's a lot of junk metal… | 0.40% | ~14 |
 | You can pet the cat! | 0.40% | ~14 |

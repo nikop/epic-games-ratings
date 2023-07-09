@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 6,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 44,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -436,9 +436,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1528427,
+  "EOS_Progressed": 1528433,
   "EOS_Completed": 643,
-  "EOS_NewPlayers": 1336,
+  "EOS_NewPlayers": 1332,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9076,6 +9076,11 @@
       "Time": "2023-07-09T21:05:14.4424773+00:00",
       "NumProgressed": 1528427,
       "NumCompleted": 643
+    },
+    {
+      "Time": "2023-07-09T22:05:50.2752802+00:00",
+      "NumProgressed": 1528433,
+      "NumCompleted": 643
     }
   ],
   "TotalAchievements": 20,
@@ -9135,7 +9140,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 137558
+      "UsersEstimate": 137559
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -9199,7 +9204,7 @@
       "Name": "Multiplier Master",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 137558
+      "UsersEstimate": 137559
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -9231,7 +9236,7 @@
       "Name": "The Long Drift",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 76421
+      "UsersEstimate": 76422
     },
     {
       "ID": "ACH_WASHING_MACHINE",
@@ -9246,15 +9251,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1528427,
+      "Progressed": 1528433,
       "Completed": 643
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-07-03T17:01:00.6084184+00:00",
-  "LastChanged_Achievements": "2023-07-09T21:05:14.4424766+00:00",
+  "LastChanged_Achievements": "2023-07-09T22:05:50.2752798+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:28.0260923+00:00",
-  "LastUpdate_Ratings": "2023-07-09T21:00:02.724774+00:00",
-  "LastUpdate_Achievements": "2023-07-09T21:05:14.4425452+00:00"
+  "LastUpdate_Ratings": "2023-07-09T22:00:32.4078181+00:00",
+  "LastUpdate_Achievements": "2023-07-09T22:05:50.2753309+00:00"
 }

@@ -5,28 +5,28 @@ Rating: 4.46 (Ranked 607)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~130,551 |
-| My First Runbow | 50.00% | ~123,162 |
-| It's The Fall | 26.00% | ~64,044 |
+| In The Zone | 53.00% | ~130,553 |
+| My First Runbow | 50.00% | ~123,163 |
+| It's The Fall | 26.00% | ~64,045 |
 | Be Aggressive | 21.00% | ~51,728 |
 | The Stunner | 21.00% | ~51,728 |
 | Curator | 20.00% | ~49,265 |
-| Crowning Around | 18.00% | ~44,338 |
+| Crowning Around | 18.00% | ~44,339 |
 | Can You Dig It? | 17.00% | ~41,875 |
 | You Juan-A-Go? | 16.00% | ~39,412 |
-| Chan-tastic | 15.00% | ~36,948 |
-| Muddy Waters | 15.00% | ~36,948 |
+| Chan-tastic | 15.00% | ~36,949 |
+| Muddy Waters | 15.00% | ~36,949 |
 | Toasty! | 13.00% | ~32,022 |
 | Lazy Laser | 8.00% | ~19,706 |
 | Into The Drift | 7.00% | ~17,243 |
 | Ready? Fight! | 7.00% | ~17,243 |
-| Just A Phaze | 6.00% | ~14,779 |
-| Butt Butt | 6.00% | ~14,779 |
+| Just A Phaze | 6.00% | ~14,780 |
+| Butt Butt | 6.00% | ~14,780 |
 | He Who Laughs Last | 3.00% | ~7,390 |
 | Shoo, Cat! | 3.00% | ~7,390 |
-| And You're Okay | 2.00% | ~4,926 |
-| Blotbuster | 2.00% | ~4,926 |
-| Thunderstruck | 2.00% | ~4,926 |
+| And You're Okay | 2.00% | ~4,927 |
+| Blotbuster | 2.00% | ~4,927 |
+| Thunderstruck | 2.00% | ~4,927 |
 | Just A Bit | 1.00% | ~2,463 |
 | Tubular, Dude | 1.00% | ~2,463 |
 | What A Trip | 0.90% | ~2,217 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 607)
 | Talent Scout | 0.10% | ~246 |
 | True Completionist | 0.10% | ~246 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246,323 (Ranked 43)  
+Progressed: 246,326 (Ranked 43)  
 Completed: 3 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 3 (0.00%) (Ranked 237)
 | 2023-07-06 | 246,146 | 3 |
 | 2023-07-07 | 246,209 | 3 |
 | 2023-07-08 | 246,272 | 3 |
-| 2023-07-09 | 246,323 | 3 |
+| 2023-07-09 | 246,326 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

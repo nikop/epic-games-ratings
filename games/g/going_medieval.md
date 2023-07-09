@@ -1,7 +1,7 @@
 # Going Medieval
 [Store](https://store.epicgames.com/en-US/p/going-medieval)  
 [View Rawdata](../../db/g/going_medieval.json)  
-Rating: 4.60 (Ranked 388)  
+Rating: 4.60 (Ranked 389)  
 Number of Ratings: 706  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -16,9 +16,9 @@ Number of Ratings: 706  (23.09.2022)
 | Onward | 55.00% | ~2,468 |
 | Home Cooked Meal | 54.00% | ~2,424 |
 | The First Week | 52.00% | ~2,334 |
+| Feast or Famine | 50.00% | ~2,244 |
 | Studious Researcher | 50.00% | ~2,244 |
 | Beam Me Up | 49.00% | ~2,199 |
-| Feast or Famine | 49.00% | ~2,199 |
 | Adept Researcher | 44.00% | ~1,975 |
 | Retribution | 39.00% | ~1,750 |
 | ...And Don’t Come Back! | 39.00% | ~1,750 |

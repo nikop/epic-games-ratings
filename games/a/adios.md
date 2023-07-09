@@ -5,33 +5,33 @@ Rating: 3.42 (Ranked 949)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 22.00% | ~14,375 |
-| Hard Worker | 20.00% | ~13,068 |
-| Master, Commander | 20.00% | ~13,068 |
-| Mechanic | 19.00% | ~12,415 |
-| Adios, Friendo | 18.00% | ~11,762 |
-| Bottom's Up | 18.00% | ~11,762 |
-| Nice Try | 16.00% | ~10,455 |
-| Right On Target | 13.00% | ~8,494 |
-| Piano Man | 10.00% | ~6,534 |
-| Lazy Bones | 9.00% | ~5,881 |
-| Vinyl Vibes | 8.00% | ~5,227 |
-| Sniper | 7.00% | ~4,574 |
+| Be Seeing You | 22.00% | ~14,377 |
+| Hard Worker | 20.00% | ~13,070 |
+| Master, Commander | 20.00% | ~13,070 |
+| Mechanic | 19.00% | ~12,417 |
+| Adios, Friendo | 18.00% | ~11,763 |
+| Bottom's Up | 18.00% | ~11,763 |
+| Nice Try | 16.00% | ~10,456 |
+| Right On Target | 13.00% | ~8,496 |
+| Piano Man | 10.00% | ~6,535 |
+| Lazy Bones | 9.00% | ~5,882 |
+| Vinyl Vibes | 8.00% | ~5,228 |
+| Sniper | 7.00% | ~4,575 |
 | Nothing Left to Say | 6.00% | ~3,921 |
-| Cut Call | 5.00% | ~3,267 |
+| Cut Call | 5.00% | ~3,268 |
 | Butcher | 4.00% | ~2,614 |
 | Magnetic Miracles | 4.00% | ~2,614 |
 | Spicy | 4.00% | ~2,614 |
-| A Man Of Taste | 3.00% | ~1,960 |
-| Ace in the Hole | 3.00% | ~1,960 |
-| Fair's Fair | 3.00% | ~1,960 |
-| Hearty | 3.00% | ~1,960 |
-| Meaty | 3.00% | ~1,960 |
-| Taco Toto | 3.00% | ~1,960 |
+| A Man Of Taste | 3.00% | ~1,961 |
+| Ace in the Hole | 3.00% | ~1,961 |
+| Fair's Fair | 3.00% | ~1,961 |
+| Hearty | 3.00% | ~1,961 |
+| Meaty | 3.00% | ~1,961 |
+| Taco Toto | 3.00% | ~1,961 |
 | Audiophile | 2.00% | ~1,307 |
 | Tape Head | 2.00% | ~1,307 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,342 (Ranked 77)  
+Progressed: 65,352 (Ranked 77)  
 Completed: 618 (0.95%) (Ranked 104)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 618 (0.95%) (Ranked 104)
 | 2023-07-06 | 64,922 | 608 |
 | 2023-07-07 | 65,054 | 610 |
 | 2023-07-08 | 65,192 | 614 |
-| 2023-07-09 | 65,342 | 618 |
+| 2023-07-09 | 65,352 | 618 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

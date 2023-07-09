@@ -1181,9 +1181,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 122924,
+  "EOS_Progressed": 122926,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 314,
+  "EOS_NewPlayers": 316,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -8936,6 +8936,11 @@
       "Time": "2023-07-09T21:03:15.9341523+00:00",
       "NumProgressed": 122924,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-07-09T22:03:30.8077271+00:00",
+      "NumProgressed": 122926,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -8979,7 +8984,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 22126
+      "UsersEstimate": 22127
     },
     {
       "ID": "ACH_COP_BAD",
@@ -8987,7 +8992,7 @@
       "Name": "Baddest Of the Bad Cops",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2458
+      "UsersEstimate": 2459
     },
     {
       "ID": "ACH_COP_BORING",
@@ -9067,7 +9072,7 @@
       "Name": "Expert Advanced Remote Viewer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2458
+      "UsersEstimate": 2459
     },
     {
       "ID": "ACH_COP_SORRY",
@@ -9099,7 +9104,7 @@
       "Name": "Recruit Detective Kuuno de Ruyter",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2458
+      "UsersEstimate": 2459
     },
     {
       "ID": "ACH_DOLORES",
@@ -9139,7 +9144,7 @@
       "Name": "Hardie\u0027s Heroes",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 7375
+      "UsersEstimate": 7376
     },
     {
       "ID": "ACH_ICEBREAKER",
@@ -9163,7 +9168,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 17209
+      "UsersEstimate": 17210
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -9235,7 +9240,7 @@
       "Name": "Wheel of Pleasure and Light",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2458
+      "UsersEstimate": 2459
     },
     {
       "ID": "ACH_POWERARMOR",
@@ -9266,15 +9271,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 122924,
+      "Progressed": 122926,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-07-07T16:59:40.5892511+00:00",
-  "LastChanged_Achievements": "2023-07-09T21:03:15.934152+00:00",
+  "LastChanged_Achievements": "2023-07-09T22:03:30.8077265+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:13.7032583+00:00",
-  "LastUpdate_Ratings": "2023-07-09T20:59:15.8912973+00:00",
-  "LastUpdate_Achievements": "2023-07-09T21:03:15.9342313+00:00"
+  "LastUpdate_Ratings": "2023-07-09T21:59:36.3720638+00:00",
+  "LastUpdate_Achievements": "2023-07-09T22:03:30.8077864+00:00"
 }

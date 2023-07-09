@@ -6,9 +6,9 @@
   "Ranking_Popularity": 379,
   "Ranking_PopularitySum": 318,
   "Ranking_EOS_Progress": 108,
-  "Ranking_EOS_Completed": 135,
+  "Ranking_EOS_Completed": 132,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -915,10 +915,10 @@
     }
   ],
   "EOS_Progressed": 15676,
-  "EOS_Completed": 65,
+  "EOS_Completed": 66,
   "EOS_NewPlayers": 62,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 0.41,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.0112544+00:00",
@@ -5454,6 +5454,11 @@
       "Time": "2023-07-09T20:06:12.2245924+00:00",
       "NumProgressed": 15676,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-07-09T22:06:22.4820708+00:00",
+      "NumProgressed": 15676,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 47,
@@ -5615,9 +5620,9 @@
       "ID": "PERFECT_DODGE_GRUNT",
       "SetID": "4hj6d86",
       "Name": "The Commonality",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 141
+      "UsersEstimate": 157
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -5841,7 +5846,7 @@
       "ID": "4hj6d86",
       "IsBase": true,
       "Progressed": 15676,
-      "Completed": 65
+      "Completed": 66
     },
     {
       "ID": "6j5ggkc",
@@ -5854,8 +5859,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-07-09T19:58:22.7999644+00:00",
-  "LastChanged_Achievements": "2023-07-09T21:05:41.0813748+00:00",
+  "LastChanged_Achievements": "2023-07-09T22:06:22.4820703+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:30.5014032+00:00",
-  "LastUpdate_Ratings": "2023-07-09T20:58:12.5810032+00:00",
-  "LastUpdate_Achievements": "2023-07-09T21:05:41.0814394+00:00"
+  "LastUpdate_Ratings": "2023-07-09T21:58:23.6834699+00:00",
+  "LastUpdate_Achievements": "2023-07-09T22:06:22.4821224+00:00"
 }

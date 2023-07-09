@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
     "PcReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3202,
+  "EOS_Progressed": 3203,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1988,6 +1988,11 @@
       "Time": "2023-07-09T21:05:00.4859704+00:00",
       "NumProgressed": 3202,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-09T22:05:33.6832307+00:00",
+      "NumProgressed": 3203,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -2101,9 +2106,9 @@
       "ID": "ACH_MC",
       "SetID": "b3fep3o",
       "Name": "Rock and a Hard Place",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_M_AI",
@@ -2157,9 +2162,9 @@
       "ID": "ACH_M_D4",
       "SetID": "b3fep3o",
       "Name": "The Midas Touch",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_M_D5",
@@ -2325,9 +2330,9 @@
       "ID": "ACH_OB_RE",
       "SetID": "b3fep3o",
       "Name": "No Scylla in Sight",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_OB_SC",
@@ -2502,7 +2507,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3202,
+      "Progressed": 3203,
       "Completed": 0
     }
   ],
@@ -2510,8 +2515,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-07-09T21:05:00.4859699+00:00",
+  "LastChanged_Achievements": "2023-07-09T22:05:33.6832303+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:04.7674222+00:00",
-  "LastUpdate_Ratings": "2023-07-09T20:59:46.7158174+00:00",
-  "LastUpdate_Achievements": "2023-07-09T21:05:00.4860442+00:00"
+  "LastUpdate_Ratings": "2023-07-09T22:00:14.6694101+00:00",
+  "LastUpdate_Achievements": "2023-07-09T22:05:33.6832934+00:00"
 }

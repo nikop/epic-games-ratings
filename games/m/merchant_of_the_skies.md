@@ -8,7 +8,7 @@
 | A man of his word | 96.00% | ~895 |
 | Real Estate | 64.00% | ~596 |
 | New Ride | 54.00% | ~503 |
-| Giants | 49.00% | ~457 |
+| Giants | 50.00% | ~466 |
 | Thrifty | 46.00% | ~429 |
 | Too big to fail | 35.00% | ~326 |
 | Wealthy | 14.00% | ~130 |
