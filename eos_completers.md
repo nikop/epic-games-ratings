@@ -48,7 +48,7 @@
 | 46 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
 | 47 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.63% |
 | 48 | [Doodle God](games/d/doodle_god.md) | 3.56% |
-| 49 | [ZZT!](games/z/zzt!.md) | 3.50% |
+| 49 | [ZZT!](games/z/zzt!.md) | 3.49% |
 | 50 | [Bunny Park](games/b/bunny_park.md) | 3.42% |
 | 51 | [Monster Harvest](games/m/monster_harvest.md) | 3.38% |
 | 52 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.33% |
@@ -61,12 +61,12 @@
 | 59 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 59 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 61 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.86% |
-| 62 | [Destiny 2](games/d/destiny_2.md) | 2.83% |
+| 62 | [Destiny 2](games/d/destiny_2.md) | 2.82% |
 | 63 | [The Bunker](games/t/the_bunker.md) | 2.78% |
 | 64 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 65 | [Lamentum](games/l/lamentum.md) | 2.67% |
 | 66 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
-| 67 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.57% |
+| 67 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.56% |
 | 68 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 69 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
 | 70 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.40% |
@@ -136,8 +136,8 @@
 | 132 | [Tchia](games/t/tchia.md) | 0.42% |
 | 135 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.41% |
 | 135 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.41% |
-| 137 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.40% |
-| 138 | [Wildermyth](games/w/wildermyth.md) | 0.39% |
+| 137 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.39% |
+| 137 | [Wildermyth](games/w/wildermyth.md) | 0.39% |
 | 139 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 140 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.35% |
 | 141 | [Scrapnaut](games/s/scrapnaut.md) | 0.34% |
@@ -155,8 +155,8 @@
 | 153 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
 | 153 | [Against the Storm](games/a/against_the_storm.md) | 0.25% |
 | 153 | [Despot's Game](games/d/despot's_game.md) | 0.25% |
-| 156 | [Blanc](games/b/blanc.md) | 0.24% |
-| 156 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.24% |
+| 153 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.25% |
+| 157 | [Blanc](games/b/blanc.md) | 0.24% |
 | 158 | [Filament](games/f/filament.md) | 0.23% |
 | 158 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.23% |
 | 160 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
