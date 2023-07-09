@@ -241,9 +241,9 @@
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "8d3ci0",
       "Name": "Cruise ship",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -305,9 +305,9 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "8d3ci0",
       "Name": "Catch a flight",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -345,9 +345,9 @@
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "8d3ci0",
       "Name": "Watery help",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     }
   ],
   "AchievementSets": [
@@ -360,8 +360,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-09T22:05:04.6398072+00:00",
+  "LastChanged_Achievements": "2023-07-09T23:04:38.4807614+00:00",
   "LastUpdate_AppInfo": "2023-07-08T11:56:59.3518994+00:00",
-  "LastUpdate_Ratings": "2023-07-09T21:57:14.5288416+00:00",
-  "LastUpdate_Achievements": "2023-07-09T22:05:04.6398172+00:00"
+  "LastUpdate_Ratings": "2023-07-09T22:57:02.7140189+00:00",
+  "LastUpdate_Achievements": "2023-07-09T23:04:38.4807736+00:00"
 }

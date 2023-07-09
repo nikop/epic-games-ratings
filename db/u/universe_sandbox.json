@@ -2,7 +2,7 @@
   "ID": "b42434df8847448c93022ce9c46feec1",
   "Name": "Universe Sandbox",
   "ProductSlug": "universe-sandbox",
-  "Ranking_Rating": 345,
+  "Ranking_Rating": 331,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 490,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.62,
+  "Rating": 4.63,
   "NumberOfRatings": 63,
   "RatingHistory": [
     {
@@ -285,6 +285,12 @@
       "Rating": 4.62,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-07-09T22:57:29.9876983+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -302,8 +308,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:26.3960335+00:00",
-  "LastChanged": "2023-06-30T13:57:24.0571355+00:00",
+  "LastChanged": "2023-07-09T22:57:29.987698+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:32.5547074+00:00",
-  "LastUpdate_Ratings": "2023-07-09T21:57:42.2204724+00:00",
-  "LastUpdate_Achievements": "2023-07-09T22:05:40.7825238+00:00"
+  "LastUpdate_Ratings": "2023-07-09T22:57:29.9876987+00:00",
+  "LastUpdate_Achievements": "2023-07-09T23:05:14.7948147+00:00"
 }

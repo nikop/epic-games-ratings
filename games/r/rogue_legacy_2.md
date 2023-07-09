@@ -1,7 +1,7 @@
 # Rogue Legacy 2
 [Store](https://store.epicgames.com/en-US/p/rogue-legacy-2)  
 [View Rawdata](../../db/r/rogue_legacy_2.json)  
-Rating: 4.85 (Ranked 41)  
+Rating: 4.85 (Ranked 40)  
 Number of Ratings: 1,331  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -46,7 +46,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,447 (Ranked 100)  
+Progressed: 22,448 (Ranked 100)  
 Completed: 35 (0.16%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 35 (0.16%) (Ranked 169)
 | 2023-07-06 | 22,430 | 35 |
 | 2023-07-07 | 22,434 | 35 |
 | 2023-07-08 | 22,444 | 35 |
-| 2023-07-09 | 22,447 | 35 |
+| 2023-07-09 | 22,448 | 35 |
 ## Awards
 Max (Extremely Fun): 218  (Ranked 255)  
 Sum: 1,658 (Ranked 209)  

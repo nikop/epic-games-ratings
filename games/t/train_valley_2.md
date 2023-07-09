@@ -18,16 +18,16 @@ Number of Ratings: 87  (23.09.2022)
 | Get out my way | 6.00% | ~45 |
 | Just in time! | 6.00% | ~45 |
 | Mega-railroad | 6.00% | ~45 |
+| Upgrade complete | 6.00% | ~45 |
 | Builder | 5.00% | ~38 |
 | Critical care | 5.00% | ~38 |
 | Need to think | 5.00% | ~38 |
-| Upgrade complete | 5.00% | ~38 |
+| Steam Age | 5.00% | ~38 |
 | Bridgemania | 4.00% | ~30 |
 | Miner | 4.00% | ~4 |
 | Multilevel road | 4.00% | ~30 |
 | One way | 4.00% | ~30 |
 | Pink Ruby | 4.00% | ~4 |
-| Steam Age | 4.00% | ~30 |
 | The Tortoise | 4.00% | ~30 |
 | Trapiche Emerald | 4.00% | ~4 |
 | Beginner | 3.00% | ~23 |
@@ -37,6 +37,7 @@ Number of Ratings: 87  (23.09.2022)
 | Relocation | 3.00% | ~23 |
 | Star Sapphire | 3.00% | ~3 |
 | Without a lunch break | 3.00% | ~23 |
+| Astronomer | 2.00% | ~15 |
 | At the last moment! | 2.00% | ~15 |
 | Bridge builder | 2.00% | ~15 |
 | Electrical Age | 2.00% | ~15 |
@@ -51,23 +52,22 @@ Number of Ratings: 87  (23.09.2022)
 | Squander | 2.00% | ~15 |
 | Stargazer | 2.00% | ~15 |
 | Vandal | 2.00% | ~15 |
-| Astronomer | 1.00% | ~8 |
 | Environmental activist | 1.00% | ~8 |
 | Innovator | 1.00% | ~8 |
 | Ouroboros | 1.00% | ~8 |
 | Will work | 1.00% | ~8 |
 | Woodcutter | 1.00% | ~8 |
+| Achiever | 0.90% | ~7 |
 | Atomic Age | 0.90% | ~1 |
 | Digital Age | 0.90% | ~1 |
 | Information Age | 0.90% | ~1 |
 | Metro builder | 0.90% | ~7 |
 | Vostok | 0.90% | ~1 |
-| Achiever | 0.80% | ~6 |
 | Railroad tycoon | 0.80% | ~6 |
 | Astrochemist | 0.70% | ~1 |
 | Highlander | 0.70% | ~5 |
 | Miscalculation | 0.70% | ~5 |
-| Space Age | 0.50% | ~4 |
+| Space Age | 0.70% | ~5 |
 | Arcturus | 0.40% | ~0 |
 | BBQ | 0.40% | ~3 |
 | It's no coincidence | 0.40% | ~3 |
@@ -82,7 +82,7 @@ Number of Ratings: 87  (23.09.2022)
 | Gemologist | 0.00% | ~0 |
 | Jeweller | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 757 (Ranked 196)  
+Progressed: 758 (Ranked 195)  
 Completed: 1 (0.13%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,6 +124,7 @@ Completed: 1 (0.13%) (Ranked 178)
 | 2023-07-06 | 747 | 1 |
 | 2023-07-07 | 752 | 1 |
 | 2023-07-08 | 757 | 1 |
+| 2023-07-09 | 758 | 1 |
 ## Awards
 Max (Challenging Puzzles): 72  (Ranked 370)  
 Sum: 72 (Ranked 428)  

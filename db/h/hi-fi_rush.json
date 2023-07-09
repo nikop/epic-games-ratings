@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -112,7 +112,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3428,
+  "EOS_Progressed": 3429,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
@@ -4147,6 +4147,11 @@
       "Time": "2023-07-09T21:00:43.4574084+00:00",
       "NumProgressed": 3428,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-09T23:01:17.841271+00:00",
+      "NumProgressed": 3429,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 71,
@@ -4516,9 +4521,9 @@
       "ID": "Ach046",
       "SetID": "12n4k20",
       "Name": "Have we met before?",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "Ach047",
@@ -4572,9 +4577,9 @@
       "ID": "Ach053",
       "SetID": "12n4k20",
       "Name": "Does that say weakpoint?",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 10
     },
     {
       "ID": "Ach054",
@@ -4646,7 +4651,7 @@
       "Name": "NOW we got a kickass hideout!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Ach063",
@@ -4725,13 +4730,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3428,
+      "Progressed": 3429,
       "Completed": 5
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 1949,
+      "Progressed": 1950,
       "Completed": 1927
     }
   ],
@@ -4739,8 +4744,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-09T22:02:14.7715151+00:00",
+  "LastChanged_Achievements": "2023-07-09T23:01:17.8412704+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:24.9104218+00:00",
-  "LastUpdate_Ratings": "2023-07-09T21:59:00.3316351+00:00",
-  "LastUpdate_Achievements": "2023-07-09T22:02:14.7716002+00:00"
+  "LastUpdate_Ratings": "2023-07-09T22:58:49.485524+00:00",
+  "LastUpdate_Achievements": "2023-07-09T23:01:17.8413776+00:00"
 }

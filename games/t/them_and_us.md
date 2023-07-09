@@ -31,9 +31,9 @@
 | Armed To The Teeth | 2.00% | ~3 |
 | Retro Player | 2.00% | ~3 |
 | Spiritual essence well spent | 2.00% | ~3 |
+| Pet The Dog | 2.00% | ~3 |
 | Back In Time | 1.00% | ~2 |
 | Box Of Ploutus | 1.00% | ~2 |
-| Pet The Dog | 1.00% | ~2 |
 | Survival Hero | 1.00% | ~2 |
 | The 5th Element | 1.00% | ~2 |
 | Before The Eclipse | 0.70% | ~1 |

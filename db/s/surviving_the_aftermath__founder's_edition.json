@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 272,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1101,9 +1101,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 7239,
+  "EOS_Progressed": 7240,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 210,
+  "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7706,6 +7706,11 @@
       "Time": "2023-07-09T22:05:10.3105474+00:00",
       "NumProgressed": 7239,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-09T23:04:43.8402225+00:00",
+      "NumProgressed": 7240,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -7757,7 +7762,7 @@
       "Name": "Famous Explorer",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2461
+      "UsersEstimate": 2462
     },
     {
       "ID": "15",
@@ -7797,7 +7802,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 3764
+      "UsersEstimate": 3765
     },
     {
       "ID": "2",
@@ -7837,7 +7842,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2461
+      "UsersEstimate": 2462
     },
     {
       "ID": "24",
@@ -7941,7 +7946,7 @@
       "Name": "War Never Changes",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1375
+      "UsersEstimate": 1376
     },
     {
       "ID": "36",
@@ -7965,7 +7970,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 3185
+      "UsersEstimate": 3186
     },
     {
       "ID": "39",
@@ -7973,7 +7978,7 @@
       "Name": "Rocket Surgeon",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1375
+      "UsersEstimate": 1376
     },
     {
       "ID": "4",
@@ -8188,15 +8193,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 7239,
+      "Progressed": 7240,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-07-07T12:01:01.0535513+00:00",
-  "LastChanged_Achievements": "2023-07-09T22:05:10.310547+00:00",
+  "LastChanged_Achievements": "2023-07-09T23:04:43.8402219+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:19.4551876+00:00",
-  "LastUpdate_Ratings": "2023-07-09T22:00:26.1453141+00:00",
-  "LastUpdate_Achievements": "2023-07-09T22:05:10.3106199+00:00"
+  "LastUpdate_Ratings": "2023-07-09T23:00:17.0798892+00:00",
+  "LastUpdate_Achievements": "2023-07-09T23:04:43.8403339+00:00"
 }

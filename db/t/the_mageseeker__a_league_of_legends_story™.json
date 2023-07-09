@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2428,
+  "EOS_Progressed": 2429,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -2949,6 +2949,11 @@
       "Time": "2023-07-09T22:07:13.0879767+00:00",
       "NumProgressed": 2428,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-09T23:06:47.0631851+00:00",
+      "NumProgressed": 2429,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -2968,7 +2973,7 @@
       "Name": "Whispers in the Woods I",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -3008,7 +3013,7 @@
       "Name": "Elemental master",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -3016,7 +3021,7 @@
       "Name": "No more holding back",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "STB_DEFEAT_GAREN_I",
@@ -3024,7 +3029,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2331
+      "UsersEstimate": 2332
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -3040,7 +3045,7 @@
       "Name": "Everfrost",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 1894
+      "UsersEstimate": 1895
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -3072,15 +3077,15 @@
       "Name": "I chose my shackles",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
       "SetID": "3pe2bac",
       "Name": "Past trauma",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 850
+      "UsersEstimate": 826
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -3136,7 +3141,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1845
+      "UsersEstimate": 1846
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -3144,7 +3149,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2234
+      "UsersEstimate": 2235
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -3246,9 +3251,9 @@
       "ID": "STB_MISSION8_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "The Great City of Demacia",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 243
     },
     {
       "ID": "STB_MISSION9_COMPLETED",
@@ -3264,7 +3269,7 @@
       "Name": "You can pet the dog",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 1481
+      "UsersEstimate": 1482
     },
     {
       "ID": "STB_PET_HORSE",
@@ -3320,7 +3325,7 @@
       "Name": "Quickmoore Headquarters",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_V",
@@ -3334,9 +3339,9 @@
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
       "SetID": "3pe2bac",
       "Name": "The use of petricite",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 1772
+      "UsersEstimate": 1797
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -3376,14 +3381,14 @@
       "Name": "Petricite Burst",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2428,
+      "Progressed": 2429,
       "Completed": 4
     }
   ],
@@ -3391,8 +3396,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-07-07T20:57:43.6161991+00:00",
-  "LastChanged_Achievements": "2023-07-09T22:07:13.0879763+00:00",
+  "LastChanged_Achievements": "2023-07-09T23:06:47.0631843+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:00.9514452+00:00",
-  "LastUpdate_Ratings": "2023-07-09T21:57:59.8943911+00:00",
-  "LastUpdate_Achievements": "2023-07-09T22:07:13.0880285+00:00"
+  "LastUpdate_Ratings": "2023-07-09T22:57:47.2806991+00:00",
+  "LastUpdate_Achievements": "2023-07-09T23:06:47.0632529+00:00"
 }

@@ -5,7 +5,7 @@ Rating: 4.87 (Ranked 25)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| NOW we got a kickass hideout! | 1.00% | ~19 |
+| NOW we got a kickass hideout! | 1.00% | ~20 |
 | I play my own way! | 0.80% | ~27 |
 | Kissing the sky! | 0.80% | ~27 |
 | Cream of the Crop | 0.70% | ~24 |
@@ -32,9 +32,9 @@ Rating: 4.87 (Ranked 25)
 | Perfecter Parry-er! | 0.40% | ~14 |
 | That's a lot of junk metal… | 0.40% | ~14 |
 | You can pet the cat! | 0.40% | ~14 |
-| Does that say weakpoint? | 0.40% | ~14 |
 | Call me Turbo Chai | 0.40% | ~8 |
 | There's such a thing as TOO helpful | 0.30% | ~10 |
+| Does that say weakpoint? | 0.30% | ~10 |
 | New bad guys? No problem! | 0.30% | ~6 |
 | Chip-tuned | 0.20% | ~7 |
 | Beat-hit mania | 0.20% | ~7 |
@@ -52,6 +52,7 @@ Rating: 4.87 (Ranked 25)
 | First we parry, then we counter | 0.10% | ~3 |
 | Now this is how you fight like a team! | 0.10% | ~3 |
 | This was... not what I expected. | 0.10% | ~3 |
+| Have we met before? | 0.10% | ~3 |
 | I hit things with a guitar really well. | 0.10% | ~3 |
 | I told you I'd be fine, Peppermint! | 0.10% | ~3 |
 | You ever parry a volcano? | 0.10% | ~3 |
@@ -69,7 +70,6 @@ Rating: 4.87 (Ranked 25)
 | I have to read ALL of these things? | 0.00% | ~0 |
 | My Ultimate Setlist | 0.00% | ~0 |
 | What a journey it was... | 0.00% | ~0 |
-| Have we met before? | 0.00% | ~0 |
 | I'm untouchable! | 0.00% | ~0 |
 | I am a good person who likes to help | 0.00% | ~0 |
 | I'm trying to FOCUS HERE! | 0.00% | ~0 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 25)
 | OK, I THINK I know what I'm doing now | 0.00% | ~0 |
 | Low budget finish | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,428 (Ranked 145)  
+Progressed: 3,429 (Ranked 145)  
 Completed: 5 (0.15%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 5 (0.15%) (Ranked 172)
 | 2023-07-06 | 3,411 | 5 |
 | 2023-07-07 | 3,418 | 5 |
 | 2023-07-08 | 3,426 | 5 |
-| 2023-07-09 | 3,428 | 5 |
+| 2023-07-09 | 3,429 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

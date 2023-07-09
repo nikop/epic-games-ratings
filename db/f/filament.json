@@ -6,7 +6,7 @@
   "Ranking_Popularity": 181,
   "Ranking_PopularitySum": 274,
   "Ranking_EOS_Progress": 54,
-  "Ranking_EOS_Completed": 158,
+  "Ranking_EOS_Completed": 157,
   "Ranking_EOS_NewPlayers": 65,
   "Ranking_EOS_NewCompleters": 25,
   "Store": {
@@ -225,9 +225,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 195865,
+  "EOS_Progressed": 195869,
   "EOS_Completed": 460,
-  "EOS_NewPlayers": 664,
+  "EOS_NewPlayers": 665,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -8705,6 +8705,11 @@
       "Time": "2023-07-09T22:07:03.4991663+00:00",
       "NumProgressed": 195865,
       "NumCompleted": 460
+    },
+    {
+      "Time": "2023-07-09T23:06:37.357859+00:00",
+      "NumProgressed": 195869,
+      "NumCompleted": 460
     }
   ],
   "TotalAchievements": 29,
@@ -8740,7 +8745,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 184113
+      "UsersEstimate": 184117
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -8900,7 +8905,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 19586
+      "UsersEstimate": 19587
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -8947,7 +8952,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 195865,
+      "Progressed": 195869,
       "Completed": 460
     }
   ],
@@ -8955,8 +8960,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-06-26T22:58:32.656469+00:00",
-  "LastChanged_Achievements": "2023-07-09T22:07:03.4991659+00:00",
+  "LastChanged_Achievements": "2023-07-09T23:06:37.3578584+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:47.2271443+00:00",
-  "LastUpdate_Ratings": "2023-07-09T21:59:17.1173576+00:00",
-  "LastUpdate_Achievements": "2023-07-09T22:07:03.4992408+00:00"
+  "LastUpdate_Ratings": "2023-07-09T22:59:06.8005386+00:00",
+  "LastUpdate_Achievements": "2023-07-09T23:06:37.3579456+00:00"
 }

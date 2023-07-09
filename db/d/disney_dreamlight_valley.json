@@ -2512,11 +2512,17 @@
       "Rating": 4.75,
       "NumberOfAwards": 7262,
       "NumberOfAwardsMax": 889
+    },
+    {
+      "Time": "2023-07-09T22:58:19.9300066+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 7264,
+      "NumberOfAwardsMax": 891
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7262,
-  "NumberOfAwardsMax": 889,
+  "NumberOfAwards": 7264,
+  "NumberOfAwardsMax": 891,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -2529,7 +2535,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 889
+      "Count": 891
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2586,9 +2592,9 @@
       "Count": 481
     }
   ],
-  "EOS_Progressed": 6343,
+  "EOS_Progressed": 6349,
   "EOS_Completed": 162,
-  "EOS_NewPlayers": 500,
+  "EOS_NewPlayers": 501,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.55,
   "EosHistory": [
@@ -5436,6 +5442,11 @@
       "Time": "2023-07-09T22:03:12.3488317+00:00",
       "NumProgressed": 6343,
       "NumCompleted": 162
+    },
+    {
+      "Time": "2023-07-09T23:02:05.0042695+00:00",
+      "NumProgressed": 6349,
+      "NumCompleted": 162
     }
   ],
   "TotalAchievements": 15,
@@ -5455,7 +5466,7 @@
       "Name": "Banker",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 2791
+      "UsersEstimate": 2794
     },
     {
       "ID": "Bestest_Friend",
@@ -5463,7 +5474,7 @@
       "Name": "Bestest Friend",
       "Percentage": 53,
       "XP": 75,
-      "UsersEstimate": 3362
+      "UsersEstimate": 3365
     },
     {
       "ID": "Chef_Cook",
@@ -5471,7 +5482,7 @@
       "Name": "Chef Cook",
       "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "Chit_Chatter",
@@ -5487,7 +5498,7 @@
       "Name": "Constructor",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 3616
+      "UsersEstimate": 3619
     },
     {
       "ID": "Duty_Bound",
@@ -5503,7 +5514,7 @@
       "Name": "Gardener",
       "Percentage": 34,
       "XP": 75,
-      "UsersEstimate": 2157
+      "UsersEstimate": 2159
     },
     {
       "ID": "Generous",
@@ -5511,7 +5522,7 @@
       "Name": "Generous",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 1586
+      "UsersEstimate": 1587
     },
     {
       "ID": "Goofys_Investor",
@@ -5519,7 +5530,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 76,
       "XP": 75,
-      "UsersEstimate": 4821
+      "UsersEstimate": 4825
     },
     {
       "ID": "Miner",
@@ -5535,7 +5546,7 @@
       "Name": "Photographer",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 4630
+      "UsersEstimate": 4635
     },
     {
       "ID": "Renovator",
@@ -5543,7 +5554,7 @@
       "Name": "Renovator",
       "Percentage": 55,
       "XP": 100,
-      "UsersEstimate": 3489
+      "UsersEstimate": 3492
     },
     {
       "ID": "Thorn_Cleaner",
@@ -5559,23 +5570,23 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 68,
       "XP": 100,
-      "UsersEstimate": 4313
+      "UsersEstimate": 4317
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 6343,
+      "Progressed": 6349,
       "Completed": 162
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2023-07-09T15:58:12.3562206+00:00",
-  "LastChanged_Achievements": "2023-07-09T22:03:12.3488308+00:00",
+  "LastChanged": "2023-07-09T22:58:19.9300063+00:00",
+  "LastChanged_Achievements": "2023-07-09T23:02:05.0042689+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:42.1936986+00:00",
-  "LastUpdate_Ratings": "2023-07-09T21:58:29.9276341+00:00",
-  "LastUpdate_Achievements": "2023-07-09T22:03:12.3488526+00:00"
+  "LastUpdate_Ratings": "2023-07-09T22:58:19.930007+00:00",
+  "LastUpdate_Achievements": "2023-07-09T23:02:05.0043039+00:00"
 }

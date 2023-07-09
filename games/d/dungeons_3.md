@@ -6,42 +6,42 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~16,339 |
-| The Evilest Evil | 59.00% | ~13,771 |
-| Twistram is devastated | 58.00% | ~13,538 |
-| The Gehenna Stones | 50.00% | ~11,670 |
-| No one has to die today! | 46.00% | ~10,737 |
-| Death and destruction! | 45.00% | ~10,503 |
-| The Swamplanders from the swamplands | 44.00% | ~10,270 |
-| The One-Huge-Army-Building Evil | 41.00% | ~9,570 |
-| Rusty Steel | 41.00% | ~9,570 |
-| The last burger | 38.00% | ~8,870 |
-| Braiiiiins! | 38.00% | ~8,870 |
-| Hands off the Dungeonheart! | 37.00% | ~8,636 |
-| A trip on sea, what fun it can be | 35.00% | ~8,169 |
-| Damned good | 33.00% | ~7,703 |
-| Stock Market Crash | 32.00% | ~7,469 |
-| Factory farming | 32.00% | ~7,469 |
-| Not-So-Overproud | 30.00% | ~7,002 |
-| For a handfull of Catapults | 29.00% | ~6,769 |
-| Shadow hunter | 29.00% | ~6,769 |
-| Thirst quencher | 28.00% | ~6,535 |
-| Ogre Solo! | 28.00% | ~6,535 |
-| Tide Master | 27.00% | ~6,302 |
-| Difficult family relationships | 26.00% | ~6,069 |
-| Destroy the thing | 26.00% | ~6,069 |
-| MASS-O-BOT | 25.00% | ~5,835 |
-| Prepare the grave | 25.00% | ~5,835 |
-| Angel of Fire | 25.00% | ~5,835 |
-| Where there is Light, there is Shadow | 24.00% | ~5,602 |
-| At the foot of Mount Destiny | 23.00% | ~5,368 |
-| The Force disturbed | 22.00% | ~5,135 |
-| The Victorious Evil | 20.00% | ~4,668 |
-| We don’t have time! | 20.00% | ~4,668 |
-| Chorus of damnation | 19.00% | ~4,435 |
-| The Stones’ Power | 18.00% | ~4,201 |
-| Lifeguard | 18.00% | ~4,201 |
-| Flat as a pancake | 17.00% | ~3,968 |
+| The Shadow strikes | 70.00% | ~16,341 |
+| The Evilest Evil | 59.00% | ~13,774 |
+| Twistram is devastated | 58.00% | ~13,540 |
+| The Gehenna Stones | 50.00% | ~11,672 |
+| No one has to die today! | 46.00% | ~10,739 |
+| Death and destruction! | 45.00% | ~10,505 |
+| The Swamplanders from the swamplands | 44.00% | ~10,272 |
+| The One-Huge-Army-Building Evil | 41.00% | ~9,571 |
+| Rusty Steel | 41.00% | ~9,571 |
+| The last burger | 38.00% | ~8,871 |
+| Braiiiiins! | 38.00% | ~8,871 |
+| Hands off the Dungeonheart! | 37.00% | ~8,638 |
+| A trip on sea, what fun it can be | 35.00% | ~8,171 |
+| Damned good | 33.00% | ~7,704 |
+| Stock Market Crash | 32.00% | ~7,470 |
+| Factory farming | 32.00% | ~7,470 |
+| Not-So-Overproud | 30.00% | ~7,004 |
+| For a handfull of Catapults | 29.00% | ~6,770 |
+| Shadow hunter | 29.00% | ~6,770 |
+| Thirst quencher | 28.00% | ~6,537 |
+| Ogre Solo! | 28.00% | ~6,537 |
+| Tide Master | 27.00% | ~6,303 |
+| Difficult family relationships | 26.00% | ~6,070 |
+| Destroy the thing | 26.00% | ~6,070 |
+| MASS-O-BOT | 25.00% | ~5,836 |
+| Prepare the grave | 25.00% | ~5,836 |
+| Angel of Fire | 25.00% | ~5,836 |
+| Where there is Light, there is Shadow | 24.00% | ~5,603 |
+| At the foot of Mount Destiny | 23.00% | ~5,369 |
+| The Force disturbed | 22.00% | ~5,136 |
+| The Victorious Evil | 20.00% | ~4,669 |
+| We don’t have time! | 20.00% | ~4,669 |
+| Chorus of damnation | 19.00% | ~4,436 |
+| The Stones’ Power | 18.00% | ~4,202 |
+| Lifeguard | 18.00% | ~4,202 |
+| Flat as a pancake | 17.00% | ~3,969 |
 | Can’t stand the sight of Dark Elf blood | 16.00% | ~3,735 |
 | This is fun, I’m going to keep doing this! | 12.00% | ~2,801 |
 | Then let them eat cake! | 12.00% | ~2,801 |
@@ -51,13 +51,13 @@ Number of Ratings: 1,635  (23.09.2022)
 | Master of Traps | 9.00% | ~2,101 |
 | Ignore The Level Designer’s Plan | 9.00% | ~2,101 |
 | Prison Break | 9.00% | ~2,101 |
-| Hearts of Iron | 8.00% | ~1,867 |
-| Can’t stand to see an Ogre bleed | 8.00% | ~1,867 |
-| Lifesaver | 8.00% | ~1,867 |
+| Hearts of Iron | 8.00% | ~1,868 |
+| Can’t stand to see an Ogre bleed | 8.00% | ~1,868 |
+| Lifesaver | 8.00% | ~1,868 |
 | A little something extra | 7.00% | ~1,634 |
 | Hearts are trump | 7.00% | ~1,634 |
-| Spawner Killer | 6.00% | ~1,400 |
-| The Benevolent Evil | 6.00% | ~1,400 |
+| Spawner Killer | 6.00% | ~1,401 |
+| The Benevolent Evil | 6.00% | ~1,401 |
 | Band of Brothers | 5.00% | ~1,167 |
 | Night of the Living Dead (on Speed) | 4.00% | ~934 |
 | I need a hero! | 4.00% | ~934 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~467 |
 | Sacrifices! | 2.00% | ~467 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,341 (Ranked 98)  
+Progressed: 23,345 (Ranked 98)  
 Completed: 195 (0.84%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 195 (0.84%) (Ranked 107)
 | 2023-07-06 | 22,931 | 193 |
 | 2023-07-07 | 23,047 | 194 |
 | 2023-07-08 | 23,187 | 194 |
-| 2023-07-09 | 23,341 | 195 |
+| 2023-07-09 | 23,345 | 195 |
 ## Awards
 Max (Great for Beginners): 331  (Ranked 225)  
 Sum: 2,587 (Ranked 172)  

@@ -24,7 +24,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | I spit on your grave | 9.00% | ~4,988 |
 | This Is Our Land | 9.00% | ~4,988 |
 | What have the Romans ever done for us? | 9.00% | ~4,988 |
-| Butterlord | 8.00% | ~4,433 |
+| Butterlord | 8.00% | ~4,434 |
 | Mastery | 7.00% | ~3,879 |
 | Know your enemy | 6.00% | ~3,325 |
 | Crowdfunded | 4.00% | ~2,217 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,418 (Ranked 83)  
+Progressed: 55,420 (Ranked 83)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,17 +138,17 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-06 | 55,179 | 0 |
 | 2023-07-07 | 55,244 | 0 |
 | 2023-07-08 | 55,324 | 0 |
-| 2023-07-09 | 55,418 | 0 |
+| 2023-07-09 | 55,420 | 0 |
 ## Awards
 Max (Character Customization): 6,773  (Ranked 48)  
-Sum: 13,676 (Ranked 67)  
+Sum: 13,679 (Ranked 67)  
 Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 6,773 |
 | This game is Great for Beginners | 874 |
 | This game has Diverse Characters | 853 |
-| This game is Highly Recommended | 814 |
+| This game is Highly Recommended | 817 |
 | This game is Extremely Fun | 778 |
 | This game has Amazing Storytelling | 770 |
 | This game is Relaxing | 754 |
@@ -335,4 +335,4 @@ Diff (max vs sum): -19
 | 2023-07-06 | 4.74 | - | 6,762 | 13,654 |
 | 2023-07-07 | 4.74 | - | 6,763 | 13,658 |
 | 2023-07-08 | 4.74 | - | 6,767 | 13,665 |
-| 2023-07-09 | 4.74 | - | 6,773 | 13,676 |
+| 2023-07-09 | 4.74 | - | 6,773 | 13,679 |

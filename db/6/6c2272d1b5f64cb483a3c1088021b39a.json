@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 732,
+  "EOS_Progressed": 733,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2091,6 +2091,11 @@
       "Time": "2023-07-09T13:15:44.5074407+00:00",
       "NumProgressed": 732,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-09T23:03:38.4215662+00:00",
+      "NumProgressed": 733,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2270,7 +2275,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "elemental_stones_2",
@@ -2492,9 +2497,9 @@
       "ID": "punctual_2",
       "SetID": "53c1p3k",
       "Name": "Punctual 2",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "punctual_3",
@@ -2629,14 +2634,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 732,
+      "Progressed": 733,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-07-09T22:04:04.8979271+00:00",
+  "LastChanged_Achievements": "2023-07-09T23:03:38.4215656+00:00",
   "LastUpdate_AppInfo": "2023-07-04T02:21:54.526557+00:00",
-  "LastUpdate_Ratings": "2023-07-09T21:57:18.7820524+00:00",
-  "LastUpdate_Achievements": "2023-07-09T22:04:04.8979955+00:00"
+  "LastUpdate_Ratings": "2023-07-09T22:57:07.5119517+00:00",
+  "LastUpdate_Achievements": "2023-07-09T23:03:38.4216448+00:00"
 }

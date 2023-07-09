@@ -6,34 +6,34 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,404 |
-| The Mad Wizard | 11.00% | ~23,030 |
-| The Ring of Regeneration | 7.00% | ~14,655 |
-| Are Ya Chicken? | 7.00% | ~14,655 |
-| Were-verpowered | 6.00% | ~12,562 |
-| Seeking Allies | 5.00% | ~10,468 |
-| Mad Cow Disease | 5.00% | ~10,468 |
-| Friendly Imps | 5.00% | ~10,468 |
-| A Persistent Buzzing | 4.00% | ~8,374 |
-| Pure Energy | 4.00% | ~8,374 |
-| Beast Mode | 3.00% | ~6,281 |
-| Terror in the Dark | 3.00% | ~6,281 |
-| Unearthed Evil | 3.00% | ~6,281 |
-| The Crumbling Temple | 3.00% | ~6,281 |
-| Exploring Port Nyanzaru | 3.00% | ~6,281 |
-| The Contagious Curse | 3.00% | ~6,281 |
-| Low Initiative | 2.00% | ~4,187 |
-| A Mysterious Summons | 2.00% | ~4,187 |
-| Building Trust | 2.00% | ~4,187 |
-| March of the Undead | 2.00% | ~4,187 |
-| No Time To Rest | 2.00% | ~4,187 |
-| Useless Allies | 2.00% | ~4,187 |
-| Running of the Saurs | 2.00% | ~4,187 |
-| Escort to Waterdeep | 2.00% | ~4,187 |
-| Waterdeep Detours | 2.00% | ~4,187 |
-| Underdeep Cartography | 2.00% | ~4,187 |
-| Overdue Rendezvous | 2.00% | ~4,187 |
-| The Templar's Camp | 2.00% | ~4,187 |
+| The Cursed Farmer | 15.00% | ~31,408 |
+| The Mad Wizard | 11.00% | ~23,032 |
+| The Ring of Regeneration | 7.00% | ~14,657 |
+| Are Ya Chicken? | 7.00% | ~14,657 |
+| Were-verpowered | 6.00% | ~12,563 |
+| Seeking Allies | 5.00% | ~10,469 |
+| Mad Cow Disease | 5.00% | ~10,469 |
+| Friendly Imps | 5.00% | ~10,469 |
+| A Persistent Buzzing | 4.00% | ~8,375 |
+| Pure Energy | 4.00% | ~8,375 |
+| Beast Mode | 3.00% | ~6,282 |
+| Terror in the Dark | 3.00% | ~6,282 |
+| Unearthed Evil | 3.00% | ~6,282 |
+| The Crumbling Temple | 3.00% | ~6,282 |
+| Exploring Port Nyanzaru | 3.00% | ~6,282 |
+| The Contagious Curse | 3.00% | ~6,282 |
+| Low Initiative | 2.00% | ~4,188 |
+| A Mysterious Summons | 2.00% | ~4,188 |
+| Building Trust | 2.00% | ~4,188 |
+| March of the Undead | 2.00% | ~4,188 |
+| No Time To Rest | 2.00% | ~4,188 |
+| Useless Allies | 2.00% | ~4,188 |
+| Running of the Saurs | 2.00% | ~4,188 |
+| Escort to Waterdeep | 2.00% | ~4,188 |
+| Waterdeep Detours | 2.00% | ~4,188 |
+| Underdeep Cartography | 2.00% | ~4,188 |
+| Overdue Rendezvous | 2.00% | ~4,188 |
+| The Templar's Camp | 2.00% | ~4,188 |
 | Homecoming | 1.00% | ~2,094 |
 | Street War | 1.00% | ~2,094 |
 | Invisible Shadows | 1.00% | ~2,094 |
@@ -97,26 +97,26 @@ Number of Ratings: 9,041  (23.09.2022)
 | Resolve Amongst Chaos | 0.50% | ~1,047 |
 | The Everlasting Rime | 0.50% | ~878 |
 | Poor Guidance | 0.50% | ~1,047 |
-| Anti-Dexterous Explorers | 0.40% | ~837 |
-| Not Very Charming | 0.40% | ~837 |
-| Lobsterfolk Assault | 0.40% | ~837 |
-| Periodic Petrification | 0.40% | ~837 |
-| Vajra's Guards | 0.40% | ~837 |
-| The Hunt for Owl-y | 0.40% | ~837 |
-| Werewolves in the Mist | 0.40% | ~837 |
-| We're not in Faerûn Anymore | 0.40% | ~837 |
-| Modron Assistance | 0.40% | ~837 |
-| Domesticated Owlbears | 0.40% | ~837 |
-| The Trepidatious Trio | 0.40% | ~837 |
-| Backtracking Through Barovia | 0.40% | ~837 |
-| Excavating History | 0.40% | ~837 |
-| Towering Expectations | 0.40% | ~837 |
-| Cramped Quarters | 0.40% | ~837 |
-| A Tale of Two Fiends | 0.40% | ~837 |
-| Slow and Steady | 0.40% | ~837 |
-| Champions of Waterdeep | 0.40% | ~837 |
-| Once More Into The Breach | 0.40% | ~837 |
-| Wyllowwood | 0.40% | ~837 |
+| Anti-Dexterous Explorers | 0.40% | ~838 |
+| Not Very Charming | 0.40% | ~838 |
+| Lobsterfolk Assault | 0.40% | ~838 |
+| Periodic Petrification | 0.40% | ~838 |
+| Vajra's Guards | 0.40% | ~838 |
+| The Hunt for Owl-y | 0.40% | ~838 |
+| Werewolves in the Mist | 0.40% | ~838 |
+| We're not in Faerûn Anymore | 0.40% | ~838 |
+| Modron Assistance | 0.40% | ~838 |
+| Domesticated Owlbears | 0.40% | ~838 |
+| The Trepidatious Trio | 0.40% | ~838 |
+| Backtracking Through Barovia | 0.40% | ~838 |
+| Excavating History | 0.40% | ~838 |
+| Towering Expectations | 0.40% | ~838 |
+| Cramped Quarters | 0.40% | ~838 |
+| A Tale of Two Fiends | 0.40% | ~838 |
+| Slow and Steady | 0.40% | ~838 |
+| Champions of Waterdeep | 0.40% | ~838 |
+| Once More Into The Breach | 0.40% | ~838 |
+| Wyllowwood | 0.40% | ~838 |
 | An Illithid Undertaking | 0.40% | ~703 |
 | Déjà Vu | 0.40% | ~703 |
 | Into The Fire | 0.40% | ~703 |
@@ -146,6 +146,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Hero's Entourage | 0.30% | ~628 |
 | Patience is Key | 0.30% | ~628 |
 | Troublesome Prisoner | 0.30% | ~628 |
+| Dark Doppelgangers | 0.30% | ~628 |
 | The Lost Hollyphant | 0.30% | ~527 |
 | The Wandering Emporium | 0.30% | ~527 |
 | Tiamat's Army | 0.30% | ~527 |
@@ -213,7 +214,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Sober Up | 0.20% | ~419 |
 | The Sunless Citadel | 0.20% | ~419 |
 | Meepo's Quest | 0.20% | ~419 |
-| Dark Doppelgangers | 0.20% | ~419 |
 | Cold & Wet | 0.20% | ~419 |
 | Madcap Adventures | 0.20% | ~419 |
 | Vault of Pixies | 0.20% | ~419 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209,361 (Ranked 52)  
+Progressed: 209,384 (Ranked 52)  
 Completed: 2,043 (0.98%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -590,7 +590,7 @@ Completed: 2,043 (0.98%) (Ranked 102)
 | 2023-07-06 | 207,486 | 2,035 |
 | 2023-07-07 | 208,152 | 2,037 |
 | 2023-07-08 | 208,782 | 2,041 |
-| 2023-07-09 | 209,361 | 2,043 |
+| 2023-07-09 | 209,384 | 2,043 |
 ## Awards
 Max (Diverse Characters): 5,016  (Ranked 65)  
 Sum: 30,455 (Ranked 37)  

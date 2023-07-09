@@ -7,12 +7,12 @@ Number of Ratings: 495  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Genin | 11.00% | ~20,288 |
-| Thorough | 9.00% | ~16,599 |
+| Thorough | 9.00% | ~16,600 |
 | A thief's beginning | 8.00% | ~14,755 |
 | Tanuki Time | 8.00% | ~14,755 |
-| Disguised | 7.00% | ~12,910 |
-| Rescue Takuma | 7.00% | ~12,910 |
-| Rollin' | 7.00% | ~12,910 |
+| Disguised | 7.00% | ~12,911 |
+| Rescue Takuma | 7.00% | ~12,911 |
+| Rollin' | 7.00% | ~12,911 |
 | Chunin | 6.00% | ~11,066 |
 | Ice Ice Yuki | 6.00% | ~11,066 |
 | Jonin | 6.00% | ~11,066 |
@@ -22,9 +22,9 @@ Number of Ratings: 495  (23.09.2022)
 | Happy Planning | 5.00% | ~9,222 |
 | Mugen Unchained | 5.00% | ~9,222 |
 | Warzone | 5.00% | ~9,222 |
-| Okkoto | 4.00% | ~7,377 |
-| Prisoners | 4.00% | ~7,377 |
-| Too Early | 4.00% | ~7,377 |
+| Okkoto | 4.00% | ~7,378 |
+| Prisoners | 4.00% | ~7,378 |
+| Too Early | 4.00% | ~7,378 |
 | Gear up | 3.00% | ~5,533 |
 | Happy little accidents | 3.00% | ~5,533 |
 | Noboru | 3.00% | ~5,533 |
@@ -39,7 +39,7 @@ Number of Ratings: 495  (23.09.2022)
 | No Gimmicks | 1.00% | ~1,844 |
 | The End | 1.00% | ~1,844 |
 | Undeserved Honor | 0.90% | ~1,660 |
-| When Cut Across the Neck | 0.80% | ~1,475 |
+| When Cut Across the Neck | 0.80% | ~1,476 |
 | High Five the Moon | 0.70% | ~1,291 |
 | The Cave | 0.70% | ~1,291 |
 | Merciful | 0.40% | ~738 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~184 |
 | Release the Kraken | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 184,433 (Ranked 57)  
+Progressed: 184,440 (Ranked 57)  
 Completed: 58 (0.03%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 58 (0.03%) (Ranked 209)
 | 2023-07-06 | 183,647 | 56 |
 | 2023-07-07 | 183,884 | 56 |
 | 2023-07-08 | 184,133 | 56 |
-| 2023-07-09 | 184,433 | 58 |
+| 2023-07-09 | 184,440 | 58 |
 ## Awards
 Max (Great for Beginners): 554  (Ranked 183)  
 Sum: 4,698 (Ranked 131)  
