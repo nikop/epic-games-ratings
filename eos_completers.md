@@ -17,7 +17,7 @@
 | 15 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.12% |
 | 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.05% |
 | 17 | [Remains](games/r/remains.md) | 11.90% |
-| 18 | [Sonic Origins](games/s/sonic_origins.md) | 10.94% |
+| 18 | [Sonic Origins](games/s/sonic_origins.md) | 10.90% |
 | 19 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.71% |
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
@@ -35,7 +35,7 @@
 | 33 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.71% |
 | 34 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
 | 35 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.13% |
-| 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.09% |
+| 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.08% |
 | 37 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.91% |
 | 38 | [Bugsnax](games/b/bugsnax.md) | 4.68% |
 | 39 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.62% |
@@ -136,8 +136,8 @@
 | 132 | [Tchia](games/t/tchia.md) | 0.42% |
 | 135 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.41% |
 | 135 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.41% |
-| 137 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.39% |
-| 138 | [Wildermyth](games/w/wildermyth.md) | 0.38% |
+| 137 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.38% |
+| 137 | [Wildermyth](games/w/wildermyth.md) | 0.38% |
 | 139 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 140 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.35% |
 | 141 | [Scrapnaut](games/s/scrapnaut.md) | 0.34% |
