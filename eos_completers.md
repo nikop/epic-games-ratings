@@ -37,22 +37,22 @@
 | 35 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.13% |
 | 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.08% |
 | 37 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.91% |
-| 38 | [Bugsnax](games/b/bugsnax.md) | 4.68% |
-| 39 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.62% |
-| 40 | [Without Escape](games/w/without_escape.md) | 4.55% |
-| 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.43% |
+| 38 | [JARS](games/j/jars.md) | 4.84% |
+| 39 | [Bugsnax](games/b/bugsnax.md) | 4.68% |
+| 40 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.62% |
+| 41 | [Without Escape](games/w/without_escape.md) | 4.55% |
 | 42 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 4.41% |
-| 43 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.91% |
-| 44 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.71% |
-| 45 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
-| 46 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.63% |
-| 47 | [Doodle God](games/d/doodle_god.md) | 3.56% |
-| 48 | [ZZT!](games/z/zzt!.md) | 3.49% |
-| 49 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 3.45% |
-| 50 | [Bunny Park](games/b/bunny_park.md) | 3.42% |
-| 51 | [Monster Harvest](games/m/monster_harvest.md) | 3.38% |
-| 52 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.33% |
-| 53 | [JARS](games/j/jars.md) | 3.23% |
+| 43 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.40% |
+| 44 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.91% |
+| 45 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.71% |
+| 46 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
+| 47 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.63% |
+| 48 | [Doodle God](games/d/doodle_god.md) | 3.56% |
+| 49 | [ZZT!](games/z/zzt!.md) | 3.53% |
+| 50 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 3.45% |
+| 51 | [Bunny Park](games/b/bunny_park.md) | 3.42% |
+| 52 | [Monster Harvest](games/m/monster_harvest.md) | 3.38% |
+| 53 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.33% |
 | 54 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.18% |
 | 55 | [The Complex](games/t/the_complex.md) | 3.09% |
 | 56 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.08% |
@@ -103,7 +103,7 @@
 | 101 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.04% |
 | 102 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
 | 103 | [Sable](games/s/sable.md) | 0.97% |
-| 104 | [Adios](games/a/adios.md) | 0.94% |
+| 104 | [Adios](games/a/adios.md) | 0.95% |
 | 105 | [Hades](games/h/hades.md) | 0.89% |
 | 106 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
 | 107 | [Dungeons 3](games/d/dungeons_3.md) | 0.84% |
