@@ -20,15 +20,15 @@
 | 18 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.71% |
 | 20 | [Sonic Origins](games/s/sonic_origins.md) | 10.65% |
-| 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.26% |
-| 22 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.00% |
+| 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
+| 21 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.00% |
 | 23 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.56% |
 | 24 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.32% |
 | 27 | [Time Loader](games/t/time_loader.md) | 7.21% |
 | 28 | [Scorn](games/s/scorn.md) | 7.02% |
-| 29 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.91% |
+| 29 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.90% |
 | 30 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.82% |
 | 31 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 32 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -52,7 +52,7 @@
 | 50 | [Bunny Park](games/b/bunny_park.md) | 3.42% |
 | 51 | [Monster Harvest](games/m/monster_harvest.md) | 3.38% |
 | 52 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.33% |
-| 53 | [JARS](games/j/jars.md) | 3.28% |
+| 53 | [JARS](games/j/jars.md) | 3.23% |
 | 54 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.15% |
 | 55 | [The Complex](games/t/the_complex.md) | 3.10% |
 | 56 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.08% |
