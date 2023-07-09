@@ -6,22 +6,22 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,392 |
-| The Mad Wizard | 11.00% | ~23,021 |
-| The Ring of Regeneration | 7.00% | ~14,650 |
-| Are Ya Chicken? | 7.00% | ~14,650 |
-| Were-verpowered | 6.00% | ~12,557 |
-| Seeking Allies | 5.00% | ~10,464 |
-| Mad Cow Disease | 5.00% | ~10,464 |
-| Friendly Imps | 5.00% | ~10,464 |
-| A Persistent Buzzing | 4.00% | ~8,371 |
-| Pure Energy | 4.00% | ~8,371 |
-| Beast Mode | 3.00% | ~6,278 |
-| Terror in the Dark | 3.00% | ~6,278 |
-| Unearthed Evil | 3.00% | ~6,278 |
-| The Crumbling Temple | 3.00% | ~6,278 |
-| Exploring Port Nyanzaru | 3.00% | ~6,278 |
-| The Contagious Curse | 3.00% | ~6,278 |
+| The Cursed Farmer | 15.00% | ~31,396 |
+| The Mad Wizard | 11.00% | ~23,024 |
+| The Ring of Regeneration | 7.00% | ~14,652 |
+| Are Ya Chicken? | 7.00% | ~14,652 |
+| Were-verpowered | 6.00% | ~12,559 |
+| Seeking Allies | 5.00% | ~10,466 |
+| Mad Cow Disease | 5.00% | ~10,466 |
+| Friendly Imps | 5.00% | ~10,466 |
+| A Persistent Buzzing | 4.00% | ~8,372 |
+| Pure Energy | 4.00% | ~8,372 |
+| Beast Mode | 3.00% | ~6,279 |
+| Terror in the Dark | 3.00% | ~6,279 |
+| Unearthed Evil | 3.00% | ~6,279 |
+| The Crumbling Temple | 3.00% | ~6,279 |
+| Exploring Port Nyanzaru | 3.00% | ~6,279 |
+| The Contagious Curse | 3.00% | ~6,279 |
 | Low Initiative | 2.00% | ~4,186 |
 | A Mysterious Summons | 2.00% | ~4,186 |
 | Building Trust | 2.00% | ~4,186 |
@@ -57,12 +57,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Easily Distracted | 0.90% | ~1,884 |
 | Captured! | 0.80% | ~1,674 |
 | Wisdom Check | 0.80% | ~1,674 |
+| A Grand Puzzle | 0.80% | ~1,674 |
 | The Mists of Ravenloft | 0.80% | ~1,674 |
 | Nimble Escape | 0.80% | ~1,674 |
-| The Giant's Bane Tavern | 0.80% | ~1,404 |
+| The Giant's Bane Tavern | 0.80% | ~1,405 |
 | Rude Welcome | 0.80% | ~1,674 |
 | The Haunted Jungle | 0.80% | ~1,674 |
-| A Grand Puzzle | 0.70% | ~1,465 |
 | Tomb of the Nine Gods | 0.70% | ~1,465 |
 | The Immortal Warrior | 0.70% | ~1,465 |
 | Treasure Hunters | 0.70% | ~1,465 |
@@ -81,22 +81,22 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lair of the Xanathar | 0.60% | ~1,256 |
 | Difficult Terrain | 0.60% | ~1,256 |
 | Expert Opinion | 0.60% | ~1,256 |
-| Home Field Advantage | 0.50% | ~1,046 |
-| Force Grey Unleashed | 0.50% | ~1,046 |
-| Sleuth It Out | 0.50% | ~1,046 |
-| Azaka's Procession - Part 1 | 0.50% | ~1,046 |
-| Azaka's Procession - Part 2 | 0.50% | ~1,046 |
-| Chatty Nobles | 0.50% | ~1,046 |
-| Haaave You Met Asmodeus? | 0.50% | ~1,046 |
-| Seeds of Deceit | 0.50% | ~1,046 |
-| The Gargoyle's Apprentice | 0.50% | ~1,046 |
-| Flies on the Wall | 0.50% | ~1,046 |
-| Waterdeep Under Siege | 0.50% | ~1,046 |
-| Vault of Dragons | 0.50% | ~1,046 |
-| Elturel Has Fallen | 0.50% | ~1,046 |
-| Resolve Amongst Chaos | 0.50% | ~1,046 |
+| Home Field Advantage | 0.50% | ~1,047 |
+| Force Grey Unleashed | 0.50% | ~1,047 |
+| Sleuth It Out | 0.50% | ~1,047 |
+| Azaka's Procession - Part 1 | 0.50% | ~1,047 |
+| Azaka's Procession - Part 2 | 0.50% | ~1,047 |
+| Chatty Nobles | 0.50% | ~1,047 |
+| Haaave You Met Asmodeus? | 0.50% | ~1,047 |
+| Seeds of Deceit | 0.50% | ~1,047 |
+| The Gargoyle's Apprentice | 0.50% | ~1,047 |
+| Flies on the Wall | 0.50% | ~1,047 |
+| Waterdeep Under Siege | 0.50% | ~1,047 |
+| Vault of Dragons | 0.50% | ~1,047 |
+| Elturel Has Fallen | 0.50% | ~1,047 |
+| Resolve Amongst Chaos | 0.50% | ~1,047 |
 | The Everlasting Rime | 0.50% | ~878 |
-| Poor Guidance | 0.50% | ~1,046 |
+| Poor Guidance | 0.50% | ~1,047 |
 | Anti-Dexterous Explorers | 0.40% | ~837 |
 | Not Very Charming | 0.40% | ~837 |
 | Lobsterfolk Assault | 0.40% | ~837 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209,282 (Ranked 52)  
+Progressed: 209,310 (Ranked 52)  
 Completed: 2,042 (0.98%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -590,7 +590,7 @@ Completed: 2,042 (0.98%) (Ranked 102)
 | 2023-07-06 | 207,486 | 2,035 |
 | 2023-07-07 | 208,152 | 2,037 |
 | 2023-07-08 | 208,782 | 2,041 |
-| 2023-07-09 | 209,282 | 2,042 |
+| 2023-07-09 | 209,310 | 2,042 |
 ## Awards
 Max (Diverse Characters): 5,016  (Ranked 65)  
 Sum: 30,455 (Ranked 37)  

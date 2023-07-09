@@ -21,20 +21,20 @@ Rating: 4.18 (Ranked 854)
 | Whispered Words | 3.00% | ~2,003 |
 | Lock and Key | 3.00% | ~2,003 |
 | Bad Apples in Every Orchard | 3.00% | ~2,003 |
-| End of an Era | 2.00% | ~1,335 |
-| In Your Element | 2.00% | ~1,335 |
-| Protector of Gotham | 2.00% | ~1,335 |
-| Rock and a Hard Place | 2.00% | ~1,335 |
-| Not On My Watch | 2.00% | ~1,335 |
-| Bulldozed | 2.00% | ~1,335 |
-| Shock Til They Drop | 2.00% | ~1,335 |
-| Cooldown | 2.00% | ~1,335 |
-| Universal Health Scare | 2.00% | ~1,335 |
-| From Inside Gotham's Walls | 2.00% | ~1,335 |
-| Voiceless | 2.00% | ~1,335 |
-| Seeking Asylum | 2.00% | ~1,335 |
-| Gotham Knight | 2.00% | ~1,335 |
-| Gotham City Confidential | 2.00% | ~1,335 |
+| End of an Era | 2.00% | ~1,336 |
+| In Your Element | 2.00% | ~1,336 |
+| Protector of Gotham | 2.00% | ~1,336 |
+| Rock and a Hard Place | 2.00% | ~1,336 |
+| Not On My Watch | 2.00% | ~1,336 |
+| Bulldozed | 2.00% | ~1,336 |
+| Shock Til They Drop | 2.00% | ~1,336 |
+| Cooldown | 2.00% | ~1,336 |
+| Universal Health Scare | 2.00% | ~1,336 |
+| From Inside Gotham's Walls | 2.00% | ~1,336 |
+| Voiceless | 2.00% | ~1,336 |
+| Seeking Asylum | 2.00% | ~1,336 |
+| Gotham Knight | 2.00% | ~1,336 |
+| Gotham City Confidential | 2.00% | ~1,336 |
 | Fusion Expert | 1.00% | ~668 |
 | Out of Their League | 1.00% | ~668 |
 | Family Meeting | 1.00% | ~668 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 854)
 | History Major | 0.10% | ~67 |
 | Confronting Your Demon | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,772 (Ranked 74)  
+Progressed: 66,775 (Ranked 74)  
 Completed: 101 (0.15%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 101 (0.15%) (Ranked 172)
 | 2023-07-06 | 66,572 | 100 |
 | 2023-07-07 | 66,641 | 101 |
 | 2023-07-08 | 66,718 | 101 |
-| 2023-07-09 | 66,772 | 101 |
+| 2023-07-09 | 66,775 | 101 |
 ## Awards
 Max (Great Boss Battles): 2,431  (Ranked 99)  
 Sum: 4,022 (Ranked 137)  

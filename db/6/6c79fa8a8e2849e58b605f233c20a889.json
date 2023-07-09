@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1953,
+  "EOS_Progressed": 1954,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3436,6 +3436,11 @@
       "Time": "2023-07-09T19:05:48.0883768+00:00",
       "NumProgressed": 1953,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-09T20:05:29.3703072+00:00",
+      "NumProgressed": 1954,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -3445,9 +3450,9 @@
       "ID": "AGGRO",
       "SetID": "8lhbnh7",
       "Name": "Aggressor",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 137
+      "UsersEstimate": 117
     },
     {
       "ID": "AI_DRAW",
@@ -3479,7 +3484,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -3622,14 +3627,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1953,
+      "Progressed": 1954,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-07-09T19:05:48.0883762+00:00",
+  "LastChanged_Achievements": "2023-07-09T20:05:29.3703067+00:00",
   "LastUpdate_AppInfo": "2023-07-04T17:56:54.4886907+00:00",
-  "LastUpdate_Ratings": "2023-07-09T18:57:28.8081637+00:00",
-  "LastUpdate_Achievements": "2023-07-09T19:05:48.0884046+00:00"
+  "LastUpdate_Ratings": "2023-07-09T19:57:21.0124885+00:00",
+  "LastUpdate_Achievements": "2023-07-09T20:05:29.3703348+00:00"
 }

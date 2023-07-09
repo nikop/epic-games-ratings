@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -1445,9 +1445,9 @@
       "ID": "objective_hero_level_up_2",
       "SetID": "bm61c2p",
       "Name": "Sergeant",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 73
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -1636,8 +1636,8 @@
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-09T19:05:20.7959716+00:00",
+  "LastChanged_Achievements": "2023-07-09T20:05:02.9926705+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:58.5226048+00:00",
-  "LastUpdate_Ratings": "2023-07-09T19:01:37.9225414+00:00",
-  "LastUpdate_Achievements": "2023-07-09T19:05:20.7959996+00:00"
+  "LastUpdate_Ratings": "2023-07-09T20:01:10.6231184+00:00",
+  "LastUpdate_Achievements": "2023-07-09T20:05:02.9926976+00:00"
 }

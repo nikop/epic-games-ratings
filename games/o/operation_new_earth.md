@@ -9,7 +9,7 @@
 | Facility Online | 37.00% | ~142 |
 | Corporal | 27.00% | ~104 |
 | Covert Operative | 22.00% | ~84 |
-| Sergeant | 18.00% | ~69 |
+| Sergeant | 19.00% | ~73 |
 | Lieutenant | 15.00% | ~58 |
 | Stocking Up | 14.00% | ~54 |
 | On Target | 14.00% | ~54 |

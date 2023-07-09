@@ -5,22 +5,22 @@ Rating: 4.41 (Ranked 673)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 80.00% | ~2,213 |
-| Snatched Out | 73.00% | ~2,019 |
+| This Is Hayes, Pioneer Station, Signing Off | 80.00% | ~2,214 |
+| Snatched Out | 73.00% | ~2,020 |
 | Keep 'Em Coming | 72.00% | ~1,992 |
-| Cleaning Lethe, One Nest At A Time | 64.00% | ~1,770 |
-| Call Me Snake | 58.00% | ~1,604 |
+| Cleaning Lethe, One Nest At A Time | 64.00% | ~1,771 |
+| Call Me Snake | 58.00% | ~1,605 |
 | Something Lurks Under The Hills | 57.00% | ~1,577 |
-| This Was No Papercut | 55.00% | ~1,521 |
-| The Shrink Hates Me | 52.00% | ~1,438 |
-| People Person | 50.00% | ~1,383 |
+| This Was No Papercut | 55.00% | ~1,522 |
+| The Shrink Hates Me | 52.00% | ~1,439 |
+| People Person | 50.00% | ~1,384 |
 | Use The Bumper, That's What It's For | 48.00% | ~1,328 |
-| First Steps Into Madness | 46.00% | ~1,272 |
+| First Steps Into Madness | 46.00% | ~1,273 |
 | Colonial Barrels | 45.00% | ~1,245 |
 | Damn Dude, You Gotta Lose Some Weight! | 38.00% | ~1,051 |
-| Harper's Hell | 37.00% | ~1,023 |
+| Harper's Hell | 37.00% | ~1,024 |
 | Making a Stand | 35.00% | ~968 |
-| Recouped Investment | 31.00% | ~857 |
+| Recouped Investment | 31.00% | ~858 |
 | Omelette Du Fromage | 30.00% | ~830 |
 | Where It All Begun | 30.00% | ~830 |
 | The More The Merrier | 23.00% | ~636 |
@@ -39,7 +39,7 @@ Rating: 4.41 (Ranked 673)
 | Excavating The Truth | 10.00% | ~277 |
 | Abysmal Horrors | 10.00% | ~277 |
 | Heavy Steps | 9.00% | ~249 |
-| Regicide | 7.00% | ~194 |
+| Regicide | 8.00% | ~221 |
 | Flawless Victory | 6.00% | ~166 |
 | This Went Smoothly | 6.00% | ~166 |
 | Perfect Enhancements | 5.00% | ~138 |
@@ -51,7 +51,7 @@ Rating: 4.41 (Ranked 673)
 | Perfect Organism | 0.30% | ~8 |
 | This Ain't No Picnic | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,766 (Ranked 154)  
+Progressed: 2,767 (Ranked 154)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-06 | 2,648 | 0 |
 | 2023-07-07 | 2,686 | 0 |
 | 2023-07-08 | 2,739 | 0 |
-| 2023-07-09 | 2,766 | 0 |
+| 2023-07-09 | 2,767 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

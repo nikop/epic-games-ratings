@@ -1,7 +1,7 @@
 # Songs of Conquest
 [Store](https://store.epicgames.com/en-US/p/songs-of-conquest)  
 [View Rawdata](../../db/s/songs_of_conquest.json)  
-Rating: 4.68 (Ranked 238)  
+Rating: 4.69 (Ranked 218)  
 Number of Ratings: 292  (23.09.2022)  
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 465)  
@@ -80,3 +80,4 @@ Diff (max vs sum): 89
 | 2023-05-09 | 4.69 | - | 27 | 171 |
 | 2023-06-05 | 4.68 | - | 27 | 171 |
 | 2023-06-18 | 4.68 | - | 27 | 172 |
+| 2023-07-09 | 4.69 | - | 27 | 172 |

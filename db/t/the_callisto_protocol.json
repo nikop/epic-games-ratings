@@ -858,10 +858,16 @@
       "Rating": 4.19,
       "NumberOfAwards": 376,
       "NumberOfAwardsMax": 65
+    },
+    {
+      "Time": "2023-07-09T19:58:22.7999646+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 377,
+      "NumberOfAwardsMax": 65
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 376,
+  "NumberOfAwards": 377,
   "NumberOfAwardsMax": 65,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -893,7 +899,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 64
+      "Count": 65
     },
     {
       "Text": "This game has Challenging Combat",
@@ -908,9 +914,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 15674,
+  "EOS_Progressed": 15676,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -5443,6 +5449,11 @@
       "Time": "2023-07-09T18:06:14.5211974+00:00",
       "NumProgressed": 15674,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-07-09T20:06:12.2245924+00:00",
+      "NumProgressed": 15676,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 47,
@@ -5486,7 +5497,7 @@
       "Name": "Flesh Wound",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -5574,7 +5585,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -5582,7 +5593,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "KILL_ROBOT",
@@ -5614,7 +5625,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -5630,7 +5641,7 @@
       "Name": "Paper Jams",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "SHARE_PHOTO",
@@ -5829,22 +5840,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15674,
+      "Progressed": 15676,
       "Completed": 65
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3600,
+      "Progressed": 3602,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-07-08T16:58:27.4258495+00:00",
-  "LastChanged_Achievements": "2023-07-09T19:06:44.2885905+00:00",
+  "LastChanged": "2023-07-09T19:58:22.7999644+00:00",
+  "LastChanged_Achievements": "2023-07-09T20:06:12.2245919+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:30.5014032+00:00",
-  "LastUpdate_Ratings": "2023-07-09T18:58:36.3469413+00:00",
-  "LastUpdate_Achievements": "2023-07-09T19:06:44.2886451+00:00"
+  "LastUpdate_Ratings": "2023-07-09T19:58:22.7999653+00:00",
+  "LastUpdate_Achievements": "2023-07-09T20:06:12.2246438+00:00"
 }

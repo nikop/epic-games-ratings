@@ -6,60 +6,60 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 97.00% | ~128,242 |
-| Titan's First Steps | 96.00% | ~126,920 |
-| Basic in Bulk | 90.00% | ~118,987 |
-| Tinkle of Coins | 86.00% | ~113,699 |
-| Disintermediation | 75.00% | ~99,156 |
-| Capitalism Ho! | 74.00% | ~97,834 |
-| It's Free Real Estate | 70.00% | ~92,546 |
-| Budding Merchant | 66.00% | ~87,257 |
-| Another Satisfied Customer | 61.00% | ~80,647 |
-| One Easy Payment | 60.00% | ~79,325 |
-| Own the Means of Production | 60.00% | ~79,325 |
-| Some Assembly Required | 58.00% | ~76,681 |
-| Pretty Penny | 57.00% | ~75,359 |
-| One-Armed Bandit | 49.00% | ~64,782 |
-| Through Repetition, Perfection | 46.00% | ~60,816 |
-| The Daily Grind | 45.00% | ~59,494 |
-| Bounty Hunters | 44.00% | ~58,172 |
-| Where it Hurts | 43.00% | ~56,849 |
-| Dungeon Imports | 42.00% | ~55,527 |
-| Flooding the Market | 41.00% | ~54,205 |
-| Demand for Supplies | 38.00% | ~50,239 |
-| Gild-Gotten Goods | 37.00% | ~48,917 |
-| Did we pack lunch? | 35.00% | ~46,273 |
-| Arcane Industries | 34.00% | ~44,951 |
-| Accomplished Merchant | 31.00% | ~40,984 |
-| Ascended | 28.00% | ~37,018 |
-| Gem Expert | 28.00% | ~37,018 |
-| Helping Hand | 28.00% | ~37,018 |
-| On the Path to Greatness | 27.00% | ~35,696 |
-| Blank Page Syndrome | 27.00% | ~35,696 |
-| Efficient Floor Space | 27.00% | ~35,696 |
-| Vanity, Verily | 26.00% | ~34,374 |
-| Research & Development | 25.00% | ~33,052 |
-| Power of Love | 24.00% | ~31,730 |
-| Flawless Fusion | 24.00% | ~31,730 |
-| Natural 20 | 23.00% | ~30,408 |
-| Fated Encounters | 21.00% | ~27,764 |
-| Royal Ransom | 21.00% | ~27,764 |
-| Magical Harmony | 21.00% | ~27,764 |
+| Sponsored by Argon | 97.00% | ~128,246 |
+| Titan's First Steps | 96.00% | ~126,924 |
+| Basic in Bulk | 91.00% | ~120,313 |
+| Tinkle of Coins | 86.00% | ~113,702 |
+| Disintermediation | 75.00% | ~99,159 |
+| Capitalism Ho! | 74.00% | ~97,837 |
+| It's Free Real Estate | 70.00% | ~92,548 |
+| Budding Merchant | 66.00% | ~87,260 |
+| Another Satisfied Customer | 61.00% | ~80,649 |
+| One Easy Payment | 60.00% | ~79,327 |
+| Own the Means of Production | 60.00% | ~79,327 |
+| Some Assembly Required | 58.00% | ~76,683 |
+| Pretty Penny | 57.00% | ~75,361 |
+| One-Armed Bandit | 49.00% | ~64,784 |
+| Through Repetition, Perfection | 46.00% | ~60,818 |
+| The Daily Grind | 45.00% | ~59,495 |
+| Bounty Hunters | 44.00% | ~58,173 |
+| Where it Hurts | 43.00% | ~56,851 |
+| Dungeon Imports | 42.00% | ~55,529 |
+| Flooding the Market | 41.00% | ~54,207 |
+| Demand for Supplies | 38.00% | ~50,241 |
+| Gild-Gotten Goods | 37.00% | ~48,918 |
+| Did we pack lunch? | 35.00% | ~46,274 |
+| Arcane Industries | 34.00% | ~44,952 |
+| Accomplished Merchant | 31.00% | ~40,986 |
+| Ascended | 28.00% | ~37,019 |
+| Gem Expert | 28.00% | ~37,019 |
+| Helping Hand | 28.00% | ~37,019 |
+| On the Path to Greatness | 27.00% | ~35,697 |
+| Blank Page Syndrome | 27.00% | ~35,697 |
+| Efficient Floor Space | 27.00% | ~35,697 |
+| Vanity, Verily | 26.00% | ~34,375 |
+| Research & Development | 25.00% | ~33,053 |
+| Power of Love | 24.00% | ~31,731 |
+| Flawless Fusion | 24.00% | ~31,731 |
+| Natural 20 | 23.00% | ~30,409 |
+| Fated Encounters | 21.00% | ~27,765 |
+| Royal Ransom | 21.00% | ~27,765 |
+| Magical Harmony | 21.00% | ~27,765 |
 | Tax not Included | 20.00% | ~26,442 |
 | Trash to Treasure | 19.00% | ~25,120 |
-| For the Hoard! | 18.00% | ~23,797 |
-| Special Ingredient | 17.00% | ~22,475 |
-| Scrapbooker | 16.00% | ~21,153 |
-| A Notch Above the Rest | 15.00% | ~19,831 |
-| This Power Level...! | 15.00% | ~19,831 |
-| Expansion in Session | 15.00% | ~19,831 |
-| Seasoned Journeyman | 15.00% | ~19,831 |
-| Black Friday Special | 15.00% | ~19,831 |
-| Big Game Hunting | 14.00% | ~18,509 |
-| Locally Sourced | 14.00% | ~18,509 |
-| Flying off the Shelves | 14.00% | ~18,509 |
-| Laden with Loot | 14.00% | ~18,509 |
-| Fat Cat Tag Team | 13.00% | ~17,187 |
+| For the Hoard! | 18.00% | ~23,798 |
+| Special Ingredient | 17.00% | ~22,476 |
+| Scrapbooker | 16.00% | ~21,154 |
+| A Notch Above the Rest | 15.00% | ~19,832 |
+| This Power Level...! | 15.00% | ~19,832 |
+| Expansion in Session | 15.00% | ~19,832 |
+| Seasoned Journeyman | 15.00% | ~19,832 |
+| Black Friday Special | 15.00% | ~19,832 |
+| Big Game Hunting | 14.00% | ~18,510 |
+| Locally Sourced | 14.00% | ~18,510 |
+| Flying off the Shelves | 14.00% | ~18,510 |
+| Laden with Loot | 14.00% | ~18,510 |
+| Fat Cat Tag Team | 13.00% | ~17,188 |
 | Above the Norm | 12.00% | ~15,865 |
 | Hidden Potential | 12.00% | ~15,865 |
 | Mammonite | 12.00% | ~15,865 |
@@ -81,12 +81,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Booty by the Boatload | 7.00% | ~9,255 |
 | A Legend is Born | 7.00% | ~9,255 |
 | Treasure Trove | 7.00% | ~9,255 |
-| Thirst for Knowledge | 6.00% | ~7,932 |
-| Archivist | 6.00% | ~7,932 |
-| Bountiful Harvest | 6.00% | ~7,932 |
-| All Accounted For | 6.00% | ~7,932 |
-| Proud Paladin | 5.00% | ~6,610 |
-| Precision Engineering | 5.00% | ~6,610 |
+| Thirst for Knowledge | 6.00% | ~7,933 |
+| Archivist | 6.00% | ~7,933 |
+| Bountiful Harvest | 6.00% | ~7,933 |
+| All Accounted For | 6.00% | ~7,933 |
+| Proud Paladin | 5.00% | ~6,611 |
+| Precision Engineering | 5.00% | ~6,611 |
 | Constellated | 4.00% | ~5,288 |
 | Industrial Evolution | 4.00% | ~5,288 |
 | Thank You Tom Nook | 4.00% | ~5,288 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.50% | ~661 |
 | Capitalist Camaraderie | 0.20% | ~264 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,208 (Ranked 60)  
+Progressed: 132,212 (Ranked 60)  
 Completed: 116 (0.09%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 116 (0.09%) (Ranked 188)
 | 2023-07-06 | 132,029 | 116 |
 | 2023-07-07 | 132,089 | 116 |
 | 2023-07-08 | 132,147 | 116 |
-| 2023-07-09 | 132,208 | 116 |
+| 2023-07-09 | 132,212 | 116 |
 ## Awards
 Max (Great for Beginners): 4,650  (Ranked 69)  
 Sum: 26,893 (Ranked 46)  

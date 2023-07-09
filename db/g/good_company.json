@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5107,
+  "EOS_Progressed": 5108,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2139,6 +2139,11 @@
       "Time": "2023-07-09T18:04:07.1114922+00:00",
       "NumProgressed": 5107,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-09T20:03:59.2575205+00:00",
+      "NumProgressed": 5108,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -2238,7 +2243,7 @@
       "Name": "Level: Extra Life",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "ach_campaign_progress3",
@@ -2398,7 +2403,7 @@
       "Name": "Rising Markets: Avoiding the Reds",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "ach_campaign_special5",
@@ -2574,7 +2579,7 @@
       "Name": "Data Churn Type I",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "ach_frp_researchdata2",
@@ -2757,15 +2762,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5107,
+      "Progressed": 5108,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-07-09T19:04:12.6027933+00:00",
+  "LastChanged_Achievements": "2023-07-09T20:03:59.2575197+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:01.0714136+00:00",
-  "LastUpdate_Ratings": "2023-07-09T18:59:52.8165149+00:00",
-  "LastUpdate_Achievements": "2023-07-09T19:04:12.6028692+00:00"
+  "LastUpdate_Ratings": "2023-07-09T19:59:34.028092+00:00",
+  "LastUpdate_Achievements": "2023-07-09T20:03:59.2575987+00:00"
 }

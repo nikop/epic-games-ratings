@@ -6,11 +6,11 @@ Rating: 4.19 (Ranked 844)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Get a Grip | 3.00% | ~470 |
-| Flesh Wound | 2.00% | ~313 |
-| Two Heads Are Better Than One | 2.00% | ~313 |
-| Chew 'Em Up | 2.00% | ~313 |
-| Float Like A Butterfly | 2.00% | ~313 |
-| Paper Jams | 2.00% | ~313 |
+| Flesh Wound | 2.00% | ~314 |
+| Two Heads Are Better Than One | 2.00% | ~314 |
+| Chew 'Em Up | 2.00% | ~314 |
+| Float Like A Butterfly | 2.00% | ~314 |
+| Paper Jams | 2.00% | ~314 |
 | Keep Fighting | 2.00% | ~72 |
 | It's Time | 2.00% | ~72 |
 | Giving Back | 1.00% | ~157 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 844)
 | I am the Danger | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,674 (Ranked 108)  
+Progressed: 15,676 (Ranked 108)  
 Completed: 65 (0.41%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,15 +132,15 @@ Completed: 65 (0.41%) (Ranked 135)
 | 2023-07-06 | 15,653 | 64 |
 | 2023-07-07 | 15,660 | 64 |
 | 2023-07-08 | 15,667 | 64 |
-| 2023-07-09 | 15,674 | 65 |
+| 2023-07-09 | 15,676 | 65 |
 ## Awards
 Max (Highly Recommended): 65  (Ranked 379)  
-Sum: 376 (Ranked 318)  
+Sum: 377 (Ranked 318)  
 Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 65 |
-| This game has Amazing Storytelling | 64 |
+| This game has Amazing Storytelling | 65 |
 | This game has Quickly Understood Controls | 61 |
 | This game has Amazing Characters | 61 |
 | This game is Extremely Fun | 53 |
@@ -236,3 +236,4 @@ Diff (max vs sum): 61
 | 2023-07-06 | 4.19 | 64 | 367 |
 | 2023-07-07 | 4.19 | 64 | 370 |
 | 2023-07-08 | 4.19 | 65 | 376 |
+| 2023-07-09 | 4.19 | 65 | 377 |

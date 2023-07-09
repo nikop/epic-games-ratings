@@ -6,9 +6,9 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~3,062 |
+| Just One...More...Term... | 76.00% | ~3,063 |
 | Un-Lonely Island | 48.00% | ~1,934 |
-| The Beginning of a Servantship | 45.00% | ~1,813 |
+| The Beginning of a Servantship | 45.00% | ~1,814 |
 | Trade Is My Trait | 38.00% | ~1,531 |
 | Number 18 | 24.00% | ~967 |
 | We Don't Have Time For That | 19.00% | ~766 |
@@ -30,8 +30,8 @@ Number of Ratings: 398  (23.09.2022)
 | Beware The Betman | 6.00% | ~242 |
 | I Owe You Nothing | 6.00% | ~242 |
 | Watch The World Burn | 6.00% | ~242 |
-| Viva Tropico! | 5.00% | ~201 |
-| Fairy Tale Come True | 5.00% | ~201 |
+| Viva Tropico! | 5.00% | ~202 |
+| Fairy Tale Come True | 5.00% | ~202 |
 | Apocalypso | 4.00% | ~161 |
 | Been there, Done That | 3.00% | ~121 |
 | Narcissist | 3.00% | ~121 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~36 |
 | My Ways | 0.40% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,029 (Ranked 141)  
+Progressed: 4,030 (Ranked 141)  
 Completed: 1 (0.02%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 1 (0.02%) (Ranked 214)
 | 2023-07-06 | 3,980 | 1 |
 | 2023-07-07 | 3,986 | 1 |
 | 2023-07-08 | 4,007 | 1 |
-| 2023-07-09 | 4,029 | 1 |
+| 2023-07-09 | 4,030 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 94  (Ranked 339)  
 Sum: 666 (Ranked 276)  

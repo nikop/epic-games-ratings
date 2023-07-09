@@ -191,9 +191,9 @@
       "ID": "ACH_17_PICNIC",
       "SetID": "9dl0ei6",
       "Name": "Picnic",
-      "Percentage": 17,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_18_MIA",
@@ -247,9 +247,9 @@
       "ID": "ACH_24_STONECIRCLE",
       "SetID": "9dl0ei6",
       "Name": "Stonehenge",
-      "Percentage": 17,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_25_BEACH",
@@ -285,8 +285,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-18T14:01:38.8947903+00:00",
-  "LastChanged_Achievements": "2023-07-09T19:04:52.8731874+00:00",
+  "LastChanged_Achievements": "2023-07-09T20:04:36.6163488+00:00",
   "LastUpdate_AppInfo": "2023-07-09T14:56:55.5664682+00:00",
-  "LastUpdate_Ratings": "2023-07-09T18:57:10.7085232+00:00",
-  "LastUpdate_Achievements": "2023-07-09T19:04:52.8732035+00:00"
+  "LastUpdate_Ratings": "2023-07-09T19:57:03.0663592+00:00",
+  "LastUpdate_Achievements": "2023-07-09T20:04:36.6163638+00:00"
 }

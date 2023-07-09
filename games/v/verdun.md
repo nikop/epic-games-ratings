@@ -6,25 +6,25 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~39,042 |
-| Worth it | 63.00% | ~31,944 |
-| Eagle Eye | 55.00% | ~27,887 |
-| Corpseman I | 40.00% | ~20,282 |
-| Blast fishing | 37.00% | ~18,760 |
-| Not alone | 32.00% | ~16,225 |
-| Headhunter I | 26.00% | ~13,183 |
-| Manual Labour I | 25.00% | ~12,676 |
-| Developers, Developers, Developers | 24.00% | ~12,169 |
-| Basic Training | 24.00% | ~12,169 |
+| Setting an example | 77.00% | ~39,046 |
+| Worth it | 63.00% | ~31,947 |
+| Eagle Eye | 55.00% | ~27,890 |
+| Corpseman I | 40.00% | ~20,284 |
+| Blast fishing | 37.00% | ~18,762 |
+| Not alone | 32.00% | ~16,227 |
+| Headhunter I | 26.00% | ~13,184 |
+| Manual Labour I | 25.00% | ~12,677 |
+| Developers, Developers, Developers | 24.00% | ~12,170 |
+| Basic Training | 24.00% | ~12,170 |
 | Furchtlos und Treu | 13.00% | ~6,592 |
-| Gott Mit Uns | 12.00% | ~6,084 |
-| This We'll Defend! | 9.00% | ~4,563 |
-| Anker wirf! | 9.00% | ~4,563 |
-| Providentiea Memor | 9.00% | ~4,563 |
-| For King and Country | 9.00% | ~4,563 |
-| Battle hardened | 8.00% | ~4,056 |
-| Semper Fidelis! | 7.00% | ~3,549 |
-| Honneur et Patrie | 7.00% | ~3,549 |
+| Gott Mit Uns | 12.00% | ~6,085 |
+| This We'll Defend! | 9.00% | ~4,564 |
+| Anker wirf! | 9.00% | ~4,564 |
+| Providentiea Memor | 9.00% | ~4,564 |
+| For King and Country | 9.00% | ~4,564 |
+| Battle hardened | 8.00% | ~4,057 |
+| Semper Fidelis! | 7.00% | ~3,550 |
+| Honneur et Patrie | 7.00% | ~3,550 |
 | In Treue Fest | 5.00% | ~2,535 |
 | Voor De Koning | 5.00% | ~2,535 |
 | Extreme Headhunter | 5.00% | ~2,535 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~51 |
 | Blood Brother | 0.10% | ~51 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,704 (Ranked 85)  
+Progressed: 50,709 (Ranked 85)  
 Completed: 4 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 4 (0.01%) (Ranked 223)
 | 2023-07-06 | 50,370 | 4 |
 | 2023-07-07 | 50,484 | 4 |
 | 2023-07-08 | 50,598 | 4 |
-| 2023-07-09 | 50,704 | 4 |
+| 2023-07-09 | 50,709 | 4 |
 ## Awards
 Max (Highly Recommended): 95  (Ranked 337)  
 Sum: 757 (Ranked 262)  

@@ -6,6 +6,7 @@ Rating: 4.61 (Ranked 362)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 4.00% | ~198 |
+| Tipping the Scales | 4.00% | ~198 |
 | Realm Estate | 3.00% | ~149 |
 | A Wonderful Discovery | 3.00% | ~149 |
 | Walls Cannot Stop Us | 3.00% | ~149 |
@@ -14,7 +15,6 @@ Rating: 4.61 (Ranked 362)
 | My Final Form | 3.00% | ~149 |
 | Intimidation Tactics | 3.00% | ~149 |
 | Here be Dragons | 3.00% | ~149 |
-| Tipping the Scales | 3.00% | ~149 |
 | Blood of the Dragon | 3.00% | ~149 |
 | Mighty Hoard | 3.00% | ~149 |
 | There Can Only Be One! | 2.00% | ~99 |

@@ -13,13 +13,13 @@ Rating: 4.87 (Ranked 25)
 | Thanks for the free chip, Peppermint! | 0.70% | ~24 |
 | I play my own way! | 0.70% | ~24 |
 | Whoa! There's ANOTHER health bar!? | 0.70% | ~24 |
+| You got this, Peppermint? | 0.70% | ~24 |
 | Z-shielding's got nothing on us! | 0.70% | ~24 |
+| Out in a puff of smoke | 0.70% | ~24 |
 | Uh, they were broken when I got here | 0.70% | ~24 |
 | Headliner | 0.60% | ~21 |
 | Time to pay up! | 0.60% | ~21 |
 | Who's the boss now? | 0.60% | ~21 |
-| You got this, Peppermint? | 0.60% | ~21 |
-| Out in a puff of smoke | 0.60% | ~21 |
 | Perfect Parry | 0.60% | ~21 |
 | Who put gears in there? | 0.60% | ~21 |
 | Alright, that felt AWESOME! | 0.60% | ~21 |

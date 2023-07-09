@@ -12,6 +12,7 @@ Rating: 4.46 (Ranked 607)
 | Confirming Suspicions | 2.00% | ~65 |
 | Lord of War | 2.00% | ~65 |
 | Resourceful | 2.00% | ~65 |
+| As Quiet as a Mouse | 2.00% | ~65 |
 | The Kraken Wakes | 2.00% | ~65 |
 | It's Starting to Crack | 2.00% | ~65 |
 | Change the Channel | 2.00% | ~65 |
@@ -24,14 +25,13 @@ Rating: 4.46 (Ranked 607)
 | Gunslinger | 1.00% | ~32 |
 | Explosive Efficiency | 1.00% | ~32 |
 | Der Geist | 1.00% | ~32 |
-| As Quiet as a Mouse | 1.00% | ~32 |
+| Snake in the Grass | 1.00% | ~32 |
 | Brains of the Operation | 1.00% | ~32 |
 | Skirmisher | 0.90% | ~29 |
 | Set Europe Ablaze | 0.90% | ~29 |
 | Precision Is Key | 0.90% | ~29 |
 | My Little Friend | 0.90% | ~29 |
 | Close Quarters | 0.90% | ~29 |
-| Snake in the Grass | 0.90% | ~29 |
 | Enemy at the Gates | 0.70% | ~23 |
 | Fields of Glory | 0.70% | ~23 |
 | Just a Flesh Wound | 0.70% | ~23 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 607)
 | Stroll in the Woods | 0.10% | ~3 |
 | Going Overboard | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,241 (Ranked 146)  
+Progressed: 3,242 (Ranked 146)  
 Completed: 9 (0.28%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 9 (0.28%) (Ranked 150)
 | 2023-07-06 | 3,221 | 9 |
 | 2023-07-07 | 3,227 | 9 |
 | 2023-07-08 | 3,234 | 9 |
-| 2023-07-09 | 3,241 | 9 |
+| 2023-07-09 | 3,242 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

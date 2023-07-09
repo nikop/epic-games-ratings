@@ -386,9 +386,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3241,
+  "EOS_Progressed": 3242,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -4846,6 +4846,11 @@
       "Time": "2023-07-09T18:03:09.06937+00:00",
       "NumProgressed": 3241,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-09T20:02:27.80021+00:00",
+      "NumProgressed": 3242,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -5095,9 +5100,9 @@
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
       "SetID": "bm6el81",
       "Name": "As Quiet as a Mouse",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 65
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -5119,9 +5124,9 @@
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
       "SetID": "bm6el81",
       "Name": "Snake in the Grass",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 32
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -5424,13 +5429,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3192,
+      "Progressed": 3193,
       "Completed": 13
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3241,
+      "Progressed": 3242,
       "Completed": 9
     }
   ],
@@ -5438,8 +5443,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-09T17:00:09.7072856+00:00",
-  "LastChanged_Achievements": "2023-07-09T19:03:08.9682328+00:00",
+  "LastChanged_Achievements": "2023-07-09T20:02:27.8002095+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:07.1687539+00:00",
-  "LastUpdate_Ratings": "2023-07-09T19:01:50.0926418+00:00",
-  "LastUpdate_Achievements": "2023-07-09T19:03:08.9683131+00:00"
+  "LastUpdate_Ratings": "2023-07-09T20:01:20.274184+00:00",
+  "LastUpdate_Achievements": "2023-07-09T20:02:27.8002868+00:00"
 }
