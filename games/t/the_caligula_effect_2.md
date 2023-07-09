@@ -1,7 +1,7 @@
 # The Caligula Effect 2
 [Store](https://store.epicgames.com/en-US/p/the-caligula-effect-2-a51f60)  
 [View Rawdata](../../db/t/the_caligula_effect_2.json)  
-Rating: 4.44 (Ranked 641)  
+Rating: 4.44 (Ranked 642)  
 Number of Ratings: 32  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -38,10 +38,10 @@ Number of Ratings: 32  (23.09.2022)
 | To Each Their Own | 11.00% | ~26 |
 | Eat Your Heart Out | 10.00% | ~23 |
 | Extra! Extra! Journalism Club Showdown | 9.00% | ~21 |
+| Redo Redone | 8.00% | ~19 |
 | The Part-Time Tyrant | 8.00% | ~19 |
 | Prince of Lettuce | 8.00% | ~19 |
 | Love, Loss, and the Omega Nebula | 8.00% | ~19 |
-| Redo Redone | 7.00% | ~16 |
 | Songstress Unleashed | 6.00% | ~14 |
 | Executive Privilege | 6.00% | ~14 |
 | For the Love of Regret | 4.00% | ~9 |

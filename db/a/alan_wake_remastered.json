@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,7 +512,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57079,
+  "EOS_Progressed": 57082,
   "EOS_Completed": 57,
   "EOS_NewPlayers": 415,
   "EOS_NewCompleters": 1,
@@ -7412,6 +7412,11 @@
       "Time": "2023-07-09T09:03:58.5884228+00:00",
       "NumProgressed": 57079,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-09T10:04:06.3119366+00:00",
+      "NumProgressed": 57082,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7423,7 +7428,7 @@
       "Name": "Follow the Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 19407
+      "UsersEstimate": 19408
     },
     {
       "ID": "02",
@@ -7455,7 +7460,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10274
+      "UsersEstimate": 10275
     },
     {
       "ID": "06",
@@ -7487,7 +7492,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6849
+      "UsersEstimate": 6850
     },
     {
       "ID": "10",
@@ -7583,7 +7588,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6849
+      "UsersEstimate": 6850
     },
     {
       "ID": "22",
@@ -7647,7 +7652,7 @@
       "Name": "Sound and Fury",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6849
+      "UsersEstimate": 6850
     },
     {
       "ID": "30",
@@ -7679,7 +7684,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6849
+      "UsersEstimate": 6850
     },
     {
       "ID": "34",
@@ -7695,7 +7700,7 @@
       "Name": "Let There Be Light",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 15411
+      "UsersEstimate": 15412
     },
     {
       "ID": "36",
@@ -7735,7 +7740,7 @@
       "Name": "Right of Way",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4566
+      "UsersEstimate": 4567
     },
     {
       "ID": "41",
@@ -7783,7 +7788,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 7420
+      "UsersEstimate": 7421
     },
     {
       "ID": "47",
@@ -7887,7 +7892,7 @@
       "Name": "Ding!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "60",
@@ -7903,7 +7908,7 @@
       "Name": "Go Gentle Into That Good Light",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "62",
@@ -7958,21 +7963,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57079,
+      "Progressed": 57082,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20547,
+      "Progressed": 20550,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-09T09:03:58.5884221+00:00",
+  "LastChanged_Achievements": "2023-07-09T10:04:06.3119364+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:08.3646753+00:00",
-  "LastUpdate_Ratings": "2023-07-09T08:57:53.8669074+00:00",
-  "LastUpdate_Achievements": "2023-07-09T09:03:58.588547+00:00"
+  "LastUpdate_Ratings": "2023-07-09T09:58:03.7954636+00:00",
+  "LastUpdate_Achievements": "2023-07-09T10:04:06.3120283+00:00"
 }

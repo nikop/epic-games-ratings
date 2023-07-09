@@ -2,9 +2,9 @@
   "ID": "7b8963f6857041fd97a4a23845eb113d",
   "Name": "Daydream. Forgotten Sorrow",
   "ProductSlug": "daydream-forgotten-sorrow-6025c9",
-  "Ranking_EOS_Progress": 372,
+  "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20,
+  "EOS_Progressed": 21,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -116,6 +116,11 @@
       "Time": "2023-07-06T19:03:43.2873771+00:00",
       "NumProgressed": 20,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-09T10:04:17.0422155+00:00",
+      "NumProgressed": 21,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -133,9 +138,9 @@
       "ID": "CH1_FIRST",
       "SetID": "6d348d1",
       "Name": "On a Journey!",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 70,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "CH1_MOTHER",
@@ -157,7 +162,7 @@
       "ID": "CH2_PLANE",
       "SetID": "6d348d1",
       "Name": "Winds of Change",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 70,
       "UsersEstimate": 3
     },
@@ -181,7 +186,7 @@
       "ID": "CH3_FLOWER",
       "SetID": "6d348d1",
       "Name": "The Flower",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 70,
       "UsersEstimate": 4
     },
@@ -238,14 +243,14 @@
     {
       "ID": "6d348d1",
       "IsBase": true,
-      "Progressed": 20,
+      "Progressed": 21,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T16:57:07.6621394+00:00",
   "FirstSeenAchievements": "2023-06-01T12:01:12.0964223+00:00",
-  "LastChanged_Achievements": "2023-07-09T09:04:07.2172236+00:00",
+  "LastChanged_Achievements": "2023-07-09T10:04:17.0422152+00:00",
   "LastUpdate_AppInfo": "2023-07-06T15:57:02.5853892+00:00",
-  "LastUpdate_Ratings": "2023-07-09T08:57:12.9140197+00:00",
-  "LastUpdate_Achievements": "2023-07-09T09:04:07.2172384+00:00"
+  "LastUpdate_Ratings": "2023-07-09T09:57:04.4196284+00:00",
+  "LastUpdate_Achievements": "2023-07-09T10:04:17.0422237+00:00"
 }

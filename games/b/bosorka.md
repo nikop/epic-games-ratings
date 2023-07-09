@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Path of purity | 82.00% | ~71 |
+| Path of purity | 83.00% | ~72 |
 | Witch's duty | 61.00% | ~53 |
 | A good start | 56.00% | ~49 |
-| Runes collector | 54.00% | ~47 |
-| First time, yes? | 54.00% | ~47 |
+| Runes collector | 55.00% | ~48 |
+| First time, yes? | 55.00% | ~48 |
 | Skilled rider | 49.00% | ~43 |
-| Kind heart | 47.00% | ~41 |
+| Kind heart | 48.00% | ~42 |
 | Devil's dozen | 29.00% | ~25 |
 | It doesn't work like that | 25.00% | ~22 |
 | A small victory | 18.00% | ~16 |

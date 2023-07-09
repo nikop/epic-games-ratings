@@ -4852,9 +4852,9 @@
       "Count": 3294
     }
   ],
-  "EOS_Progressed": 209014,
+  "EOS_Progressed": 209039,
   "EOS_Completed": 2041,
-  "EOS_NewPlayers": 5001,
+  "EOS_NewPlayers": 4978,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -13307,6 +13307,11 @@
       "Time": "2023-07-09T09:04:19.9905307+00:00",
       "NumProgressed": 209014,
       "NumCompleted": 2041
+    },
+    {
+      "Time": "2023-07-09T10:04:33.6951696+00:00",
+      "NumProgressed": 209039,
+      "NumCompleted": 2041
     }
   ],
   "TotalAchievements": 503,
@@ -14182,7 +14187,7 @@
       "Name": "Were-verpowered",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 12541
+      "UsersEstimate": 12542
     },
     {
       "ID": "objective_completed_1203",
@@ -14294,7 +14299,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8361
+      "UsersEstimate": 8362
     },
     {
       "ID": "objective_completed_130",
@@ -14422,7 +14427,7 @@
       "Name": "Beast Mode",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6270
+      "UsersEstimate": 6271
     },
     {
       "ID": "objective_completed_149",
@@ -14438,7 +14443,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6270
+      "UsersEstimate": 6271
     },
     {
       "ID": "objective_completed_150",
@@ -14502,7 +14507,7 @@
       "Name": "Low Initiative",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4180
+      "UsersEstimate": 4181
     },
     {
       "ID": "objective_completed_164",
@@ -14510,7 +14515,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4180
+      "UsersEstimate": 4181
     },
     {
       "ID": "objective_completed_165",
@@ -14542,7 +14547,7 @@
       "Name": "Building Trust",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4180
+      "UsersEstimate": 4181
     },
     {
       "ID": "objective_completed_17",
@@ -14646,7 +14651,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6270
+      "UsersEstimate": 6271
     },
     {
       "ID": "objective_completed_20",
@@ -14654,7 +14659,7 @@
       "Name": "No Time To Rest",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4180
+      "UsersEstimate": 4181
     },
     {
       "ID": "objective_completed_208",
@@ -14990,7 +14995,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 31352
+      "UsersEstimate": 31356
     },
     {
       "ID": "objective_completed_34",
@@ -14998,7 +15003,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 14631
+      "UsersEstimate": 14633
     },
     {
       "ID": "objective_completed_35",
@@ -15006,7 +15011,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6270
+      "UsersEstimate": 6271
     },
     {
       "ID": "objective_completed_36",
@@ -15110,7 +15115,7 @@
       "Name": "Seeking Allies",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10451
+      "UsersEstimate": 10452
     },
     {
       "ID": "objective_completed_390",
@@ -15182,7 +15187,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 14631
+      "UsersEstimate": 14633
     },
     {
       "ID": "objective_completed_40",
@@ -15190,7 +15195,7 @@
       "Name": "Useless Allies",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4180
+      "UsersEstimate": 4181
     },
     {
       "ID": "objective_completed_400",
@@ -15454,7 +15459,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10451
+      "UsersEstimate": 10452
     },
     {
       "ID": "objective_completed_54",
@@ -15462,7 +15467,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6270
+      "UsersEstimate": 6271
     },
     {
       "ID": "objective_completed_540",
@@ -15806,7 +15811,7 @@
       "Name": "Running of the Saurs",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4180
+      "UsersEstimate": 4181
     },
     {
       "ID": "objective_completed_590",
@@ -15862,7 +15867,7 @@
       "Name": "The Contagious Curse",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6270
+      "UsersEstimate": 6271
     },
     {
       "ID": "objective_completed_60",
@@ -16390,7 +16395,7 @@
       "Name": "Escort to Waterdeep",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4180
+      "UsersEstimate": 4181
     },
     {
       "ID": "objective_completed_690",
@@ -16430,7 +16435,7 @@
       "Name": "The Everlasting Rime",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "objective_completed_696",
@@ -16462,7 +16467,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 22992
+      "UsersEstimate": 22994
     },
     {
       "ID": "objective_completed_70",
@@ -16494,7 +16499,7 @@
       "Name": "Waterdeep Detours",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4180
+      "UsersEstimate": 4181
     },
     {
       "ID": "objective_completed_75",
@@ -16526,7 +16531,7 @@
       "Name": "Underdeep Cartography",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4180
+      "UsersEstimate": 4181
     },
     {
       "ID": "objective_completed_8",
@@ -16534,7 +16539,7 @@
       "Name": "Friendly Imps",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10451
+      "UsersEstimate": 10452
     },
     {
       "ID": "objective_completed_80",
@@ -16542,7 +16547,7 @@
       "Name": "Overdue Rendezvous",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4180
+      "UsersEstimate": 4181
     },
     {
       "ID": "objective_completed_802",
@@ -17062,7 +17067,7 @@
       "Name": "Pure Energy",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8361
+      "UsersEstimate": 8362
     },
     {
       "ID": "objective_completed_902",
@@ -17190,7 +17195,7 @@
       "Name": "The Templar\u0027s Camp",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4180
+      "UsersEstimate": 4181
     },
     {
       "ID": "objective_completed_95",
@@ -17341,21 +17346,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 175288,
+      "Progressed": 175313,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 209014,
+      "Progressed": 209039,
       "Completed": 2041
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-09T03:58:27.3587709+00:00",
-  "LastChanged_Achievements": "2023-07-09T09:04:19.9905298+00:00",
+  "LastChanged_Achievements": "2023-07-09T10:04:33.6951691+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:43.9043947+00:00",
-  "LastUpdate_Ratings": "2023-07-09T08:58:15.6981911+00:00",
-  "LastUpdate_Achievements": "2023-07-09T09:04:19.9935593+00:00"
+  "LastUpdate_Ratings": "2023-07-09T09:58:36.3405853+00:00",
+  "LastUpdate_Achievements": "2023-07-09T10:04:33.6974342+00:00"
 }

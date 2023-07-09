@@ -2,12 +2,12 @@
   "ID": "5a82d5954a1943d79dc6b49cde2fe972",
   "Name": "Predator: Hunting Grounds Standard Edition",
   "ProductSlug": "predator-hunting-grounds",
-  "Ranking_Rating": 641,
+  "Ranking_Rating": 622,
   "Ranking_Popularity": 150,
   "Ranking_PopularitySum": 176,
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 314,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-04-23T23:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.44,
+  "Rating": 4.45,
   "NumberOfRatings": 1373,
   "RatingHistory": [
     {
@@ -2026,6 +2026,12 @@
       "Rating": 4.44,
       "NumberOfAwards": 2347,
       "NumberOfAwardsMax": 861
+    },
+    {
+      "Time": "2023-07-09T09:59:33.1486686+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 2347,
+      "NumberOfAwardsMax": 861
     }
   ],
   "ReviewsDisabled": false,
@@ -2123,8 +2129,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:15.8732166+00:00",
-  "LastChanged": "2023-07-07T02:23:04.8203055+00:00",
+  "LastChanged": "2023-07-09T09:59:33.1486684+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:48.1311992+00:00",
-  "LastUpdate_Ratings": "2023-07-09T08:59:00.3858619+00:00",
-  "LastUpdate_Achievements": "2023-07-09T09:04:25.6156776+00:00"
+  "LastUpdate_Ratings": "2023-07-09T09:59:33.1486689+00:00",
+  "LastUpdate_Achievements": "2023-07-09T10:04:40.2142106+00:00"
 }

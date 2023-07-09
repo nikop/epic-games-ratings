@@ -15,8 +15,8 @@ Rating: 4.56 (Ranked 454)
 | Today Was a Good Day | 14.00% | ~1,539 |
 | Horror of the Santa Maria | 10.00% | ~1,099 |
 | Liberty City State of Mind | 9.00% | ~989 |
-| The End of the Line | 7.00% | ~769 |
-| Original Gangster | 7.00% | ~769 |
+| The End of the Line | 7.00% | ~770 |
+| Original Gangster | 7.00% | ~770 |
 | With Extra Dip | 6.00% | ~660 |
 | Saviour | 5.00% | ~550 |
 | They Can’t Stop All of Us | 4.00% | ~440 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 454)
 | ...Here we go again | 0.30% | ~33 |
 | I Ain't No Buster | 0.20% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,992 (Ranked 115)  
+Progressed: 10,993 (Ranked 115)  
 Completed: 26 (0.24%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 26 (0.24%) (Ranked 156)
 | 2023-07-06 | 10,966 | 25 |
 | 2023-07-07 | 10,975 | 26 |
 | 2023-07-08 | 10,986 | 26 |
-| 2023-07-09 | 10,992 | 26 |
+| 2023-07-09 | 10,993 | 26 |
 ## Awards
 Max (Great Boss Battles): 208  (Ranked 264)  
 Sum: 208 (Ranked 358)  

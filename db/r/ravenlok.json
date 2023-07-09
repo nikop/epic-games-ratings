@@ -2632,9 +2632,9 @@
       "ID": "11",
       "SetID": "d0g98p",
       "Name": "Nightmare Fuel",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 405
+      "UsersEstimate": 415
     },
     {
       "ID": "12",
@@ -2672,9 +2672,9 @@
       "ID": "16",
       "SetID": "d0g98p",
       "Name": "Soul Slayer",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 343
+      "UsersEstimate": 353
     },
     {
       "ID": "17",
@@ -2688,9 +2688,9 @@
       "ID": "18",
       "SetID": "d0g98p",
       "Name": "Surprise!",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 467
+      "UsersEstimate": 477
     },
     {
       "ID": "19",
@@ -2768,9 +2768,9 @@
       "ID": "27",
       "SetID": "d0g98p",
       "Name": "Frog Facts!",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 384
+      "UsersEstimate": 394
     },
     {
       "ID": "28",
@@ -2856,9 +2856,9 @@
       "ID": "37",
       "SetID": "d0g98p",
       "Name": "Stronger!",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 394
+      "UsersEstimate": 405
     },
     {
       "ID": "38",
@@ -2920,9 +2920,9 @@
       "ID": "44",
       "SetID": "d0g98p",
       "Name": "It\u0027s Pointy!",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 384
     },
     {
       "ID": "45",
@@ -3025,8 +3025,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-07-09T09:06:20.6509411+00:00",
+  "LastChanged_Achievements": "2023-07-09T10:07:21.7603489+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:44.4971469+00:00",
-  "LastUpdate_Ratings": "2023-07-09T08:57:39.7762536+00:00",
-  "LastUpdate_Achievements": "2023-07-09T09:06:20.6510064+00:00"
+  "LastUpdate_Ratings": "2023-07-09T09:57:46.1119926+00:00",
+  "LastUpdate_Achievements": "2023-07-09T10:07:21.7604428+00:00"
 }

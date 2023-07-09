@@ -6,27 +6,27 @@ Rating: 4.54 (Ranked 490)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Trevithick's Legacy | 98.00% | ~18,840 |
-| Before the Downfall | 93.00% | ~17,878 |
-| Money like Water | 91.00% | ~17,494 |
+| Before the Downfall | 93.00% | ~17,879 |
+| Money like Water | 91.00% | ~17,495 |
 | Minimalist | 90.00% | ~17,302 |
-| Builder | 83.00% | ~15,956 |
-| Eraser | 70.00% | ~13,457 |
+| Builder | 83.00% | ~15,957 |
+| Eraser | 70.00% | ~13,458 |
 | Pocket of Trains | 65.00% | ~12,496 |
-| Inspector | 59.00% | ~11,342 |
-| Going the Distance | 54.00% | ~10,381 |
+| Inspector | 59.00% | ~11,343 |
+| Going the Distance | 54.00% | ~10,382 |
 | Oil Baron | 42.00% | ~8,074 |
 | Loads-a-Money | 42.00% | ~8,074 |
-| Helper of the People | 39.00% | ~7,497 |
-| Simplification | 34.00% | ~6,536 |
+| Helper of the People | 39.00% | ~7,498 |
+| Simplification | 34.00% | ~6,537 |
 | Box of Trains | 33.00% | ~6,344 |
 | Let There be Light | 32.00% | ~6,152 |
-| Hot Water | 31.00% | ~5,959 |
+| Hot Water | 31.00% | ~5,960 |
 | Indecisive | 29.00% | ~5,575 |
-| The scenic route | 27.00% | ~5,190 |
+| The scenic route | 27.00% | ~5,191 |
 | Industrialist | 25.00% | ~4,806 |
 | Perfectionist | 23.00% | ~4,422 |
 | Trains over Pipes | 23.00% | ~4,422 |
-| 8K is Enough for Everyone | 22.00% | ~4,229 |
+| 8K is Enough for Everyone | 22.00% | ~4,230 |
 | Man of Steel | 16.00% | ~3,076 |
 | Room Full of Trains | 12.00% | ~2,307 |
 | Investor | 10.00% | ~1,922 |
@@ -43,7 +43,7 @@ Rating: 4.54 (Ranked 490)
 | Overdeer | 0.50% | ~96 |
 | Cloud Services | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,224 (Ranked 103)  
+Progressed: 19,225 (Ranked 103)  
 Completed: 32 (0.17%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 32 (0.17%) (Ranked 168)
 | 2023-07-06 | 19,207 | 32 |
 | 2023-07-07 | 19,212 | 32 |
 | 2023-07-08 | 19,219 | 32 |
-| 2023-07-09 | 19,224 | 32 |
+| 2023-07-09 | 19,225 | 32 |
 ## Awards
 Max (Quickly Understood Controls): 87  (Ranked 347)  
 Sum: 655 (Ranked 281)  

@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 730,
+  "EOS_Progressed": 731,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2081,6 +2081,11 @@
       "Time": "2023-07-09T09:03:51.6425114+00:00",
       "NumProgressed": 730,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-09T10:03:47.7938396+00:00",
+      "NumProgressed": 731,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2092,7 +2097,7 @@
       "Name": "Adventurous 1",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "adventurous_2",
@@ -2140,7 +2145,7 @@
       "Name": "Call of Mana 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "call_of_mana_2",
@@ -2260,7 +2265,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "elemental_stones_2",
@@ -2332,7 +2337,7 @@
       "Name": "Glitter of Gold 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "glitter_of_gold_2",
@@ -2619,14 +2624,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 730,
+      "Progressed": 731,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-07-09T09:03:51.6425108+00:00",
+  "LastChanged_Achievements": "2023-07-09T10:03:47.7938392+00:00",
   "LastUpdate_AppInfo": "2023-07-04T02:21:54.526557+00:00",
-  "LastUpdate_Ratings": "2023-07-09T08:57:13.9046117+00:00",
-  "LastUpdate_Achievements": "2023-07-09T09:03:51.642587+00:00"
+  "LastUpdate_Ratings": "2023-07-09T09:57:05.7693986+00:00",
+  "LastUpdate_Achievements": "2023-07-09T10:03:47.7938984+00:00"
 }

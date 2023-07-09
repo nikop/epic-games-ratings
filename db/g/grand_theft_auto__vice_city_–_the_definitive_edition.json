@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 128,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -520,9 +520,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 8906,
+  "EOS_Progressed": 8907,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -6055,6 +6055,11 @@
       "Time": "2023-07-09T09:03:30.1774398+00:00",
       "NumProgressed": 8906,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-09T10:03:21.3498411+00:00",
+      "NumProgressed": 8907,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -6170,7 +6175,7 @@
       "Name": "Greasy Palms",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3651
+      "UsersEstimate": 3652
     },
     {
       "ID": "ACH15",
@@ -6194,7 +6199,7 @@
       "Name": "Gun for Hire",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "ACH18",
@@ -6242,7 +6247,7 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2226
+      "UsersEstimate": 2227
     },
     {
       "ID": "ACH24",
@@ -6298,7 +6303,7 @@
       "Name": "Mischief Managed",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "ACH31",
@@ -6337,7 +6342,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8906,
+      "Progressed": 8907,
       "Completed": 43
     }
   ],
@@ -6345,8 +6350,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-07T10:58:53.3105834+00:00",
-  "LastChanged_Achievements": "2023-07-09T09:03:30.1774392+00:00",
+  "LastChanged_Achievements": "2023-07-09T10:03:21.3498406+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:55.3864428+00:00",
-  "LastUpdate_Ratings": "2023-07-09T08:58:24.3458047+00:00",
-  "LastUpdate_Achievements": "2023-07-09T09:03:30.1775106+00:00"
+  "LastUpdate_Ratings": "2023-07-09T09:58:46.3112071+00:00",
+  "LastUpdate_Achievements": "2023-07-09T10:03:21.3498857+00:00"
 }

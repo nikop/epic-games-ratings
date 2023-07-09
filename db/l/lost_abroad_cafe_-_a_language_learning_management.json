@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 170,
+  "EOS_Progressed": 171,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -781,6 +781,11 @@
       "Time": "2023-07-09T02:39:20.0705686+00:00",
       "NumProgressed": 170,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-09T10:06:28.4082101+00:00",
+      "NumProgressed": 171,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 8,
@@ -790,9 +795,9 @@
       "ID": "coffee_10",
       "SetID": "56hff7o",
       "Name": "Barista",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 75,
-      "UsersEstimate": 75
+      "UsersEstimate": 74
     },
     {
       "ID": "coffee_100",
@@ -800,7 +805,7 @@
       "Name": "Brew Master",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "coffee_50",
@@ -822,9 +827,9 @@
       "ID": "get_lost",
       "SetID": "56hff7o",
       "Name": "Get Lost!",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 133
+      "UsersEstimate": 132
     },
     {
       "ID": "tea_10",
@@ -832,7 +837,7 @@
       "Name": "Tea-ser",
       "Percentage": 35,
       "XP": 75,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "tea_100",
@@ -855,14 +860,14 @@
     {
       "ID": "56hff7o",
       "IsBase": true,
-      "Progressed": 170,
+      "Progressed": 171,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-23T10:58:45.2753016+00:00",
   "FirstSeenAchievements": "2023-05-18T05:04:21.5286003+00:00",
-  "LastChanged_Achievements": "2023-07-09T09:05:50.9859258+00:00",
+  "LastChanged_Achievements": "2023-07-09T10:06:28.4082098+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:29.2687048+00:00",
-  "LastUpdate_Ratings": "2023-07-09T08:58:45.5416063+00:00",
-  "LastUpdate_Achievements": "2023-07-09T09:05:50.9859404+00:00"
+  "LastUpdate_Ratings": "2023-07-09T09:59:14.1681859+00:00",
+  "LastUpdate_Achievements": "2023-07-09T10:06:28.4082203+00:00"
 }

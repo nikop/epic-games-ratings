@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 156,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -532,9 +532,9 @@
       "Count": 208
     }
   ],
-  "EOS_Progressed": 10992,
+  "EOS_Progressed": 10993,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -6317,6 +6317,11 @@
       "Time": "2023-07-09T09:06:24.5621977+00:00",
       "NumProgressed": 10992,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-07-09T10:07:26.427768+00:00",
+      "NumProgressed": 10993,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 35,
@@ -6344,7 +6349,7 @@
       "Name": "The End of the Line",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "ACH04",
@@ -6544,7 +6549,7 @@
       "Name": "Original Gangster",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "ACH29",
@@ -6607,7 +6612,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 10992,
+      "Progressed": 10993,
       "Completed": 26
     }
   ],
@@ -6615,8 +6620,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-08T02:24:21.2335521+00:00",
-  "LastChanged_Achievements": "2023-07-09T09:06:24.562197+00:00",
+  "LastChanged_Achievements": "2023-07-09T10:07:26.4277673+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:43.1834453+00:00",
-  "LastUpdate_Ratings": "2023-07-09T09:00:20.20307+00:00",
-  "LastUpdate_Achievements": "2023-07-09T09:06:24.5622573+00:00"
+  "LastUpdate_Ratings": "2023-07-09T10:01:19.232822+00:00",
+  "LastUpdate_Achievements": "2023-07-09T10:07:26.4278155+00:00"
 }

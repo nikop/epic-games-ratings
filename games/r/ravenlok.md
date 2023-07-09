@@ -15,34 +15,34 @@
 | Tragic Brave | 54.00% | ~561 |
 | Awakened Spirits | 51.00% | ~529 |
 | Little Shop | 50.00% | ~519 |
+| Surprise! | 46.00% | ~477 |
 | An Actor! | 46.00% | ~477 |
-| Surprise! | 45.00% | ~467 |
 | Curtain Call | 44.00% | ~457 |
 | Piece of Cake | 42.00% | ~436 |
 | Glimmer of Hope | 42.00% | ~436 |
 | Gooey Delight! | 41.00% | ~426 |
 | Teacups for Toppy | 41.00% | ~426 |
+| Nightmare Fuel | 40.00% | ~415 |
 | Well Rested | 40.00% | ~415 |
-| Nightmare Fuel | 39.00% | ~405 |
 | Take Heart | 39.00% | ~405 |
 | The Guardian | 39.00% | ~405 |
+| Stronger! | 39.00% | ~405 |
 | Ancient Wisdom | 38.00% | ~394 |
+| Frog Facts! | 38.00% | ~394 |
 | All That Glistens | 38.00% | ~394 |
-| Stronger! | 38.00% | ~394 |
-| Frog Facts! | 37.00% | ~384 |
 | All Skilled Up! | 37.00% | ~384 |
+| It's Pointy! | 37.00% | ~384 |
 | Spellbound | 36.00% | ~374 |
 | Extinct Again! | 36.00% | ~374 |
 | Bird of Prey | 36.00% | ~374 |
-| It's Pointy! | 36.00% | ~374 |
 | Stardust | 35.00% | ~363 |
 | Heartbreaker | 35.00% | ~363 |
 | Kidnapped! | 35.00% | ~363 |
 | Pull the Plug | 34.00% | ~353 |
+| Soul Slayer | 34.00% | ~353 |
 | All Heart | 34.00% | ~353 |
 | Trick Question! | 34.00% | ~353 |
 | Final Showdown | 34.00% | ~353 |
-| Soul Slayer | 33.00% | ~343 |
 | The Downfall | 33.00% | ~343 |
 | Spot of Tea? | 33.00% | ~343 |
 | Going Home | 33.00% | ~343 |

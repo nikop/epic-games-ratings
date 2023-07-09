@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 718,
+  "EOS_Progressed": 719,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1245,6 +1245,11 @@
       "Time": "2023-07-08T18:04:08.8317593+00:00",
       "NumProgressed": 718,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-09T10:04:12.6011644+00:00",
+      "NumProgressed": 719,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -1254,9 +1259,9 @@
       "ID": "ACH000",
       "SetID": "69nfp41",
       "Name": "Cabin boy",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 582
+      "UsersEstimate": 575
     },
     {
       "ID": "ACH001",
@@ -1344,7 +1349,7 @@
       "Name": "Intangible",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACH012",
@@ -1352,7 +1357,7 @@
       "Name": "3, 2, 1, mine",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "ACH013",
@@ -1440,7 +1445,7 @@
       "Name": "Gofer",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "ACH024",
@@ -1488,7 +1493,7 @@
       "Name": "Licence to Kill",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ACH030",
@@ -1512,7 +1517,7 @@
       "Name": "Pirates!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "ACH033",
@@ -1536,7 +1541,7 @@
       "Name": "All mine!",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH036",
@@ -1544,7 +1549,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "ACH037",
@@ -1552,7 +1557,7 @@
       "Name": "Paths of Glory",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH038",
@@ -1568,7 +1573,7 @@
       "Name": "Panel of experts",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH040",
@@ -1638,9 +1643,9 @@
       "ID": "ACH048",
       "SetID": "69nfp41",
       "Name": "Megalomania",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 201
+      "UsersEstimate": 209
     },
     {
       "ID": "ACH049",
@@ -1655,15 +1660,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 718,
+      "Progressed": 719,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-07-09T09:04:03.6236691+00:00",
+  "LastChanged_Achievements": "2023-07-09T10:04:12.601164+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:15.0103603+00:00",
-  "LastUpdate_Ratings": "2023-07-09T08:58:36.6598105+00:00",
-  "LastUpdate_Achievements": "2023-07-09T09:04:03.6237231+00:00"
+  "LastUpdate_Ratings": "2023-07-09T09:59:03.8009201+00:00",
+  "LastUpdate_Achievements": "2023-07-09T10:04:12.6012029+00:00"
 }

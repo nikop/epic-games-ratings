@@ -20,9 +20,9 @@
 | The Forgotten Tower | 11.00% | ~16 |
 | Rest In Peace | 9.00% | ~13 |
 | The Curse Is Real | 9.00% | ~13 |
+| Trapped | 8.00% | ~12 |
 | What A Mansion | 8.00% | ~12 |
-| Trapped | 7.00% | ~10 |
-| Modern Player | 6.00% | ~9 |
+| Modern Player | 7.00% | ~10 |
 | Researcher | 5.00% | ~7 |
 | I Am The Gate Keeper! | 5.00% | ~7 |
 | This Mansion Is Clean | 4.00% | ~6 |

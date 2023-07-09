@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -1044,9 +1044,9 @@
       "ID": "GREEN_AREAS_1",
       "SetID": "44dlcg0",
       "Name": "I like parks",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 140
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -1100,9 +1100,9 @@
       "ID": "NIGHT_LIFE_1",
       "SetID": "44dlcg0",
       "Name": "It is nice to share with friends in the city",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 73
     },
     {
       "ID": "NIGHT_LIFE_2",
@@ -1148,9 +1148,9 @@
       "ID": "POPULATION_1",
       "SetID": "44dlcg0",
       "Name": "Small town",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 173
     },
     {
       "ID": "POPULATION_2",
@@ -1357,8 +1357,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-07-09T09:06:26.1387649+00:00",
+  "LastChanged_Achievements": "2023-07-09T10:07:28.3608144+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:53.8439851+00:00",
-  "LastUpdate_Ratings": "2023-07-09T08:59:02.9133352+00:00",
-  "LastUpdate_Achievements": "2023-07-09T09:06:26.1388584+00:00"
+  "LastUpdate_Ratings": "2023-07-09T09:59:36.0304006+00:00",
+  "LastUpdate_Achievements": "2023-07-09T10:07:28.3608826+00:00"
 }

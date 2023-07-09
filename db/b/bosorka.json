@@ -285,9 +285,9 @@
       "ID": "RUNE_CURSEDCOMPANIONSHIELD",
       "SetID": "9433p49",
       "Name": "Runes collector",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 100,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "RUNE_CURSEDCOMPANIONSPELL",
@@ -301,9 +301,9 @@
       "ID": "RUNE_DROPEXTRAHEART",
       "SetID": "9433p49",
       "Name": "First time, yes?",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 55,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "RUNE_DROPFIRSTAIDKIT",
@@ -341,17 +341,17 @@
       "ID": "RUNE_STORM",
       "SetID": "9433p49",
       "Name": "Path of purity",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 55,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "RUNE_STUNHIT",
       "SetID": "9433p49",
       "Name": "Kind heart",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     }
   ],
   "AchievementSets": [
@@ -366,8 +366,8 @@
   "FirstSeenRating": "2023-04-21T21:58:16.6767727+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.939072+00:00",
   "LastChanged": "2023-04-21T21:58:16.6767728+00:00",
-  "LastChanged_Achievements": "2023-07-09T09:06:17.7223301+00:00",
+  "LastChanged_Achievements": "2023-07-09T10:07:17.6845215+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:19:57.6857611+00:00",
-  "LastUpdate_Ratings": "2023-07-09T08:57:47.4088361+00:00",
-  "LastUpdate_Achievements": "2023-07-09T09:06:17.7223436+00:00"
+  "LastUpdate_Ratings": "2023-07-09T09:57:55.3368353+00:00",
+  "LastUpdate_Achievements": "2023-07-09T10:07:17.6845317+00:00"
 }

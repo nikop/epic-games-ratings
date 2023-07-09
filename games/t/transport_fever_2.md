@@ -1,25 +1,25 @@
 # Transport Fever 2
 [Store](https://store.epicgames.com/en-US/p/transport-fever-2)  
 [View Rawdata](../../db/t/transport_fever_2.json)  
-Rating: 4.69 (Ranked 219)  
+Rating: 4.69 (Ranked 218)  
 Number of Ratings: 180  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First line | 77.00% | ~1,077 |
-| First bus stop | 71.00% | ~993 |
-| First cargo item on board | 71.00% | ~993 |
-| First cargo item waiting | 71.00% | ~993 |
-| First passenger on board | 67.00% | ~937 |
-| First passenger waiting | 67.00% | ~937 |
-| First bus arrived | 66.00% | ~923 |
-| First train station | 64.00% | ~895 |
-| First steam train arrived | 60.00% | ~839 |
-| First industry upgraded | 57.00% | ~797 |
-| Transport millionaire | 55.00% | ~769 |
-| Cargo hub | 54.00% | ~755 |
-| Transport master | 53.00% | ~741 |
-| Cadet | 53.00% | ~741 |
+| First line | 77.00% | ~1,078 |
+| First bus stop | 71.00% | ~994 |
+| First cargo item on board | 71.00% | ~994 |
+| First cargo item waiting | 71.00% | ~994 |
+| First passenger on board | 67.00% | ~938 |
+| First passenger waiting | 67.00% | ~938 |
+| First bus arrived | 66.00% | ~924 |
+| First train station | 64.00% | ~896 |
+| First steam train arrived | 60.00% | ~840 |
+| First industry upgraded | 57.00% | ~798 |
+| Transport millionaire | 55.00% | ~770 |
+| Cargo hub | 54.00% | ~756 |
+| Transport master | 53.00% | ~742 |
+| Cadet | 53.00% | ~742 |
 | Sculpturer | 50.00% | ~700 |
 | Settled down | 48.00% | ~672 |
 | First electric train arrived | 47.00% | ~658 |
@@ -68,7 +68,7 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.10% | ~1 |
 | Museum line | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,399 (Ranked 172)  
+Progressed: 1,400 (Ranked 172)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-06 | 1,390 | 0 |
 | 2023-07-07 | 1,394 | 0 |
 | 2023-07-08 | 1,398 | 0 |
-| 2023-07-09 | 1,399 | 0 |
+| 2023-07-09 | 1,400 | 0 |
 ## Awards
 Max (Highly Recommended): 39  (Ranked 423)  
 Sum: 271 (Ranked 340)  
