@@ -5,13 +5,14 @@ Rating: 4.61 (Ranked 362)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Secret Technique | 4.00% | ~198 |
 | Realm Estate | 3.00% | ~149 |
 | A Wonderful Discovery | 3.00% | ~149 |
-| Secret Technique | 3.00% | ~149 |
 | Walls Cannot Stop Us | 3.00% | ~149 |
 | From Friends to Family | 3.00% | ~149 |
 | Magical Synergy | 3.00% | ~149 |
 | My Final Form | 3.00% | ~149 |
+| Intimidation Tactics | 3.00% | ~149 |
 | Here be Dragons | 3.00% | ~149 |
 | Tipping the Scales | 3.00% | ~149 |
 | Blood of the Dragon | 3.00% | ~149 |
@@ -25,7 +26,6 @@ Rating: 4.61 (Ranked 362)
 | Fiery Friend | 2.00% | ~99 |
 | Against the Odds | 2.00% | ~99 |
 | Impenetrable Fortress | 2.00% | ~99 |
-| Intimidation Tactics | 2.00% | ~99 |
 | Valley of Wonders | 1.00% | ~50 |
 | The Magic That Empowers Me! | 1.00% | ~50 |
 | Return of the Wizard King | 1.00% | ~50 |
@@ -38,9 +38,9 @@ Rating: 4.61 (Ranked 362)
 | Digging for Treasure | 1.00% | ~50 |
 | Preparation Is Everything | 1.00% | ~50 |
 | Duality | 1.00% | ~50 |
+| Crimson Caldera | 0.90% | ~45 |
 | The Eternal Court | 0.90% | ~45 |
 | Lord of Chaos | 0.80% | ~40 |
-| Crimson Caldera | 0.80% | ~40 |
 | Jack of All Tomes | 0.80% | ~40 |
 | Grexolis | 0.70% | ~35 |
 | One for All, All for One | 0.70% | ~35 |
@@ -56,7 +56,7 @@ Rating: 4.61 (Ranked 362)
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,957 (Ranked 135)  
+Progressed: 4,959 (Ranked 135)  
 Completed: 5 (0.10%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 5 (0.10%) (Ranked 183)
 | 2023-07-06 | 4,933 | 5 |
 | 2023-07-07 | 4,937 | 5 |
 | 2023-07-08 | 4,954 | 5 |
-| 2023-07-09 | 4,957 | 5 |
+| 2023-07-09 | 4,959 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

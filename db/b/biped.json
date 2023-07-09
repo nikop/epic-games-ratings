@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3981,
+  "EOS_Progressed": 3983,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 300,
+  "EOS_NewPlayers": 302,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5756,6 +5756,11 @@
       "Time": "2023-07-09T17:05:49.9689814+00:00",
       "NumProgressed": 3981,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-09T18:06:57.4882918+00:00",
+      "NumProgressed": 3983,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -5831,7 +5836,7 @@
       "Name": "Cactus Vally",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "4",
@@ -5839,7 +5844,7 @@
       "Name": "Rainy Ruins",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "5",
@@ -5855,7 +5860,7 @@
       "Name": "High Treetops",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "7",
@@ -5886,7 +5891,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 3981,
+      "Progressed": 3983,
       "Completed": 0
     }
   ],
@@ -5894,8 +5899,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-07-09T17:05:49.968981+00:00",
+  "LastChanged_Achievements": "2023-07-09T18:06:57.4882911+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:39.9836246+00:00",
-  "LastUpdate_Ratings": "2023-07-09T16:58:05.840424+00:00",
-  "LastUpdate_Achievements": "2023-07-09T17:05:49.9690271+00:00"
+  "LastUpdate_Ratings": "2023-07-09T17:58:33.428384+00:00",
+  "LastUpdate_Achievements": "2023-07-09T18:06:57.4883253+00:00"
 }

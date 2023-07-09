@@ -1,34 +1,34 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.53 (Ranked 508)  
+Rating: 4.53 (Ranked 507)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Complete Guard Faction | 79.00% | ~1,375 |
-| Become King | 72.00% | ~1,253 |
+| Become King | 72.00% | ~1,254 |
 | Defeat 25 Frogs | 62.00% | ~1,079 |
-| Ranged Weapon | 61.00% | ~1,061 |
-| Collect Monster Parts | 58.00% | ~1,009 |
-| Two Handed Weapon | 56.00% | ~974 |
+| Ranged Weapon | 61.00% | ~1,062 |
+| Collect Monster Parts | 58.00% | ~1,010 |
+| Two Handed Weapon | 56.00% | ~975 |
 | Defeat 25 Grubs | 52.00% | ~905 |
 | Rescue Redgi's Brothers | 52.00% | ~905 |
 | Collect Iron Ore | 47.00% | ~818 |
 | Kitchen Ready To Cook | 47.00% | ~818 |
-| Defeat 25 Mozis | 46.00% | ~800 |
+| Defeat 25 Mozis | 46.00% | ~801 |
 | Collect Gold | 45.00% | ~783 |
 | Smithy Ready to Craft | 45.00% | ~783 |
 | Fix the Travellers Wagon | 44.00% | ~766 |
-| Complete Elder Faction | 41.00% | ~713 |
-| End of the Mozis | 38.00% | ~661 |
-| Throne Room Fit For A King | 38.00% | ~661 |
-| Meet the Creatures from the Deep | 36.00% | ~626 |
-| Return Power To The Depths | 36.00% | ~626 |
+| Complete Elder Faction | 41.00% | ~714 |
+| End of the Mozis | 38.00% | ~662 |
+| Throne Room Fit For A King | 38.00% | ~662 |
+| Meet the Creatures from the Deep | 36.00% | ~627 |
+| Return Power To The Depths | 36.00% | ~627 |
 | Defeat Ratnor Rodentson | 29.00% | ~505 |
-| Return the Statues | 26.00% | ~452 |
-| Defeat Rattus Augustail | 26.00% | ~452 |
+| Return the Statues | 26.00% | ~453 |
+| Defeat Rattus Augustail | 26.00% | ~453 |
 | Complete the Chefs Book | 25.00% | ~435 |
-| Complete Ranger Faction | 21.00% | ~365 |
+| Complete Ranger Faction | 21.00% | ~366 |
 | Defeat Avor Warden of the Northern Wastes | 20.00% | ~348 |
 | Discover the mystery of the Kings Chambers | 19.00% | ~331 |
 | Complete Arena Faction | 15.00% | ~261 |
@@ -36,7 +36,7 @@ Rating: 4.53 (Ranked 508)
 | King of Kings | 7.00% | ~122 |
 | A new Warchief rises | 0.90% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,740 (Ranked 165)  
+Progressed: 1,741 (Ranked 165)  
 Completed: 8 (0.46%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,6 +106,7 @@ Completed: 8 (0.46%) (Ranked 131)
 | 2023-07-04 | 1,737 | 8 |
 | 2023-07-05 | 1,739 | 8 |
 | 2023-07-07 | 1,740 | 8 |
+| 2023-07-09 | 1,741 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

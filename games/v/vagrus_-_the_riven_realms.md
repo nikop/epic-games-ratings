@@ -19,6 +19,7 @@
 | Harbinger | 4.00% | ~5 |
 | Courier | 4.00% | ~5 |
 | Acquaintance | 4.00% | ~5 |
+| Been There | 4.00% | ~5 |
 | Tail-wind | 4.00% | ~5 |
 | Taskmaster | 4.00% | ~5 |
 | Quartermaster | 3.00% | ~3 |
@@ -26,7 +27,6 @@
 | Strategist | 3.00% | ~3 |
 | Xevarian Gambit | 3.00% | ~3 |
 | The Voice of Hereafter | 3.00% | ~3 |
-| Been There | 3.00% | ~3 |
 | Spiritual Journey | 3.00% | ~3 |
 | Pilgrimage's End | 3.00% | ~3 |
 | Inquisitions of Discord | 3.00% | ~3 |
@@ -43,11 +43,13 @@
 | Adept | 0.90% | ~1 |
 | Embellished | 0.90% | ~1 |
 | Huntress Unbound | 0.90% | ~1 |
+| Conqueror | 0.90% | ~1 |
 | Business As Usual | 0.90% | ~1 |
 | Legacy of a Mercenary | 0.90% | ~1 |
 | Trailblazer | 0.90% | ~1 |
 | Delayed | 0.90% | ~1 |
 | A Real Battle | 0.90% | ~1 |
+| Celebrity | 0.90% | ~1 |
 | Ruiner | 0.90% | ~1 |
 | Life... Finds a Way | 0.90% | ~1 |
 | Merchant Lord | 0.90% | ~1 |
@@ -71,7 +73,6 @@
 | Ever After | 0.00% | ~0 |
 | Diplomat | 0.00% | ~0 |
 | Factotum | 0.00% | ~0 |
-| Conqueror | 0.00% | ~0 |
 | Forager | 0.00% | ~0 |
 | Metropolitan | 0.00% | ~0 |
 | All Geared Up | 0.00% | ~0 |
@@ -90,7 +91,6 @@
 | Escort | 0.00% | ~0 |
 | Despoiler | 0.00% | ~0 |
 | The Darkness Within | 0.00% | ~0 |
-| Celebrity | 0.00% | ~0 |
 | Arcanite | 0.00% | ~0 |
 | What Lies Below | 0.00% | ~0 |
 | Rage Repressed | 0.00% | ~0 |

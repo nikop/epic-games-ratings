@@ -4,7 +4,7 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewPlayers": 288,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -704,9 +704,9 @@
       "ID": "Vanilla_FirstWin",
       "SetID": "27kik8p",
       "Name": "Conqueror",
-      "Percentage": 0,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Vanilla_FleeFromAFight",
@@ -736,9 +736,9 @@
       "ID": "Vanilla_FourCorners",
       "SetID": "27kik8p",
       "Name": "Been There",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "Vanilla_Garrik",
@@ -936,9 +936,9 @@
       "ID": "Vanilla_Renown",
       "SetID": "27kik8p",
       "Name": "Celebrity",
-      "Percentage": 0,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Vanilla_Ruiner",
@@ -1153,8 +1153,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-07-09T17:00:48.6807343+00:00",
+  "LastChanged_Achievements": "2023-07-09T18:03:07.7271784+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:41.2901209+00:00",
-  "LastUpdate_Ratings": "2023-07-09T16:58:41.4707359+00:00",
-  "LastUpdate_Achievements": "2023-07-09T17:00:48.6808627+00:00"
+  "LastUpdate_Ratings": "2023-07-09T17:59:22.5440799+00:00",
+  "LastUpdate_Achievements": "2023-07-09T18:03:07.7272746+00:00"
 }

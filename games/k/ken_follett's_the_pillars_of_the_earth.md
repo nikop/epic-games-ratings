@@ -1,26 +1,26 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.52 (Ranked 520)  
+Rating: 4.52 (Ranked 519)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 41.00% | ~5,654 |
+| Tattletale | 41.00% | ~5,655 |
 | Man of politics | 35.00% | ~4,827 |
 | Friends of sorts | 34.00% | ~4,689 |
 | Yet another secret | 34.00% | ~4,689 |
 | Let there be darkness | 33.00% | ~4,551 |
-| End of Book One | 31.00% | ~4,275 |
+| End of Book One | 31.00% | ~4,276 |
 | Wannabe knight | 24.00% | ~3,310 |
 | Garden of Eden | 24.00% | ~3,310 |
 | Full house | 24.00% | ~3,310 |
 | Help an old friend | 22.00% | ~3,034 |
 | Two of us | 20.00% | ~2,758 |
 | Negotiation skills | 19.00% | ~2,620 |
-| Workers' union | 18.00% | ~2,482 |
-| End of Book Two | 18.00% | ~2,482 |
-| Everything's in order | 17.00% | ~2,344 |
+| Workers' union | 18.00% | ~2,483 |
+| End of Book Two | 18.00% | ~2,483 |
+| Everything's in order | 17.00% | ~2,345 |
 | Jack was here! | 15.00% | ~2,069 |
 | Twist of Fate | 14.00% | ~1,931 |
 | Exterminator | 14.00% | ~1,931 |
@@ -37,7 +37,7 @@ Number of Ratings: 368  (23.09.2022)
 | The End. | 9.00% | ~1,241 |
 | A cry for help | 8.00% | ~1,103 |
 | Silentium est aureum | 7.00% | ~965 |
-| Rebel without a cause | 6.00% | ~827 |
+| Rebel without a cause | 6.00% | ~828 |
 | Staring contest champion | 5.00% | ~690 |
 | Lone wolf | 5.00% | ~690 |
 | Vox Populi | 5.00% | ~690 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~414 |
 | Boy of mystery | 2.00% | ~276 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,791 (Ranked 111)  
+Progressed: 13,792 (Ranked 111)  
 Completed: 104 (0.75%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 104 (0.75%) (Ranked 111)
 | 2023-07-06 | 13,740 | 104 |
 | 2023-07-07 | 13,761 | 104 |
 | 2023-07-08 | 13,780 | 104 |
-| 2023-07-09 | 13,791 | 104 |
+| 2023-07-09 | 13,792 | 104 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 293)  
 Sum: 188 (Ranked 366)  

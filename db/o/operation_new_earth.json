@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 383,
+  "EOS_Progressed": 384,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1311,6 +1311,11 @@
       "Time": "2023-07-09T16:04:44.7562446+00:00",
       "NumProgressed": 383,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-09T18:05:08.4384102+00:00",
+      "NumProgressed": 384,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1354,7 +1359,7 @@
       "Name": "Gold Achiever",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_gold_rewards_25",
@@ -1418,15 +1423,15 @@
       "Name": "Advanced Warfare",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "objective_headquarters_5",
       "SetID": "bm61c2p",
       "Name": "Facility Online",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 142
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -1434,15 +1439,15 @@
       "Name": "Corporal",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "objective_hero_level_up_2",
       "SetID": "bm61c2p",
       "Name": "Sergeant",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 69
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -1450,7 +1455,7 @@
       "Name": "Lieutenant",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -1466,7 +1471,7 @@
       "Name": "Major",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "objective_hero_level_up_6",
@@ -1474,7 +1479,7 @@
       "Name": "Colonel",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "objective_hero_level_up_7",
@@ -1498,7 +1503,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -1554,7 +1559,7 @@
       "Name": "Battle Ready",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "objective_multiple_barracks_1",
@@ -1570,7 +1575,7 @@
       "Name": "Factory Expansion",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -1618,21 +1623,21 @@
       "Name": "Control the Skies",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     }
   ],
   "AchievementSets": [
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 383,
+      "Progressed": 384,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-09T17:04:25.8308416+00:00",
+  "LastChanged_Achievements": "2023-07-09T18:05:08.4384098+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:58.5226048+00:00",
-  "LastUpdate_Ratings": "2023-07-09T17:00:03.4482313+00:00",
-  "LastUpdate_Achievements": "2023-07-09T17:04:25.8308766+00:00"
+  "LastUpdate_Ratings": "2023-07-09T18:01:16.9252863+00:00",
+  "LastUpdate_Achievements": "2023-07-09T18:05:08.4384374+00:00"
 }

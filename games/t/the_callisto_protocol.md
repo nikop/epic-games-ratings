@@ -29,8 +29,8 @@ Rating: 4.19 (Ranked 844)
 | Full Circle | 1.00% | ~157 |
 | Power Up | 1.00% | ~157 |
 | The Commonality | 0.90% | ~141 |
-| One Last Job | 0.80% | ~29 |
-| In Striking Distance | 0.60% | ~94 |
+| One Last Job | 0.90% | ~32 |
+| In Striking Distance | 0.70% | ~110 |
 | This Isn't About Escape | 0.50% | ~18 |
 | Information Overload | 0.40% | ~14 |
 | Armed to the Teeth | 0.30% | ~11 |
@@ -53,8 +53,8 @@ Rating: 4.19 (Ranked 844)
 | I am the Danger | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,673 (Ranked 108)  
-Completed: 64 (0.41%) (Ranked 135)  
+Progressed: 15,674 (Ranked 108)  
+Completed: 65 (0.41%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -132,7 +132,7 @@ Completed: 64 (0.41%) (Ranked 135)
 | 2023-07-06 | 15,653 | 64 |
 | 2023-07-07 | 15,660 | 64 |
 | 2023-07-08 | 15,667 | 64 |
-| 2023-07-09 | 15,673 | 64 |
+| 2023-07-09 | 15,674 | 65 |
 ## Awards
 Max (Highly Recommended): 65  (Ranked 379)  
 Sum: 376 (Ranked 318)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -268,9 +268,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4957,
+  "EOS_Progressed": 4959,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5053,6 +5053,11 @@
       "Time": "2023-07-09T16:02:23.2029227+00:00",
       "NumProgressed": 4957,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-09T18:03:07.3027466+00:00",
+      "NumProgressed": 4959,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 50,
@@ -5190,9 +5195,9 @@
       "ID": "24",
       "SetID": "3aa2279",
       "Name": "Secret Technique",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 198
     },
     {
       "ID": "25",
@@ -5238,9 +5243,9 @@
       "ID": "3",
       "SetID": "3aa2279",
       "Name": "Crimson Caldera",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 45
     },
     {
       "ID": "30",
@@ -5334,9 +5339,9 @@
       "ID": "40",
       "SetID": "3aa2279",
       "Name": "Intimidation Tactics",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 149
     },
     {
       "ID": "41",
@@ -5463,13 +5468,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4957,
+      "Progressed": 4959,
       "Completed": 4760
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4957,
+      "Progressed": 4959,
       "Completed": 5
     }
   ],
@@ -5477,8 +5482,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-07-04T17:00:43.3128649+00:00",
-  "LastChanged_Achievements": "2023-07-09T17:00:48.3514376+00:00",
+  "LastChanged_Achievements": "2023-07-09T18:03:07.3027461+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:44.6563449+00:00",
-  "LastUpdate_Ratings": "2023-07-09T16:59:17.4306883+00:00",
-  "LastUpdate_Achievements": "2023-07-09T17:00:48.3515113+00:00"
+  "LastUpdate_Ratings": "2023-07-09T18:00:12.9259604+00:00",
+  "LastUpdate_Achievements": "2023-07-09T18:03:07.3028033+00:00"
 }
