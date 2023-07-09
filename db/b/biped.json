@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3986,
+  "EOS_Progressed": 3987,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 301,
+  "EOS_NewPlayers": 299,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5766,6 +5766,11 @@
       "Time": "2023-07-09T19:07:32.9730425+00:00",
       "NumProgressed": 3986,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-09T21:06:15.0179873+00:00",
+      "NumProgressed": 3987,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -5833,7 +5838,7 @@
       "Name": "Dense Forest",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1316
     },
     {
       "ID": "3",
@@ -5841,7 +5846,7 @@
       "Name": "Cactus Vally",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 996
+      "UsersEstimate": 997
     },
     {
       "ID": "4",
@@ -5896,7 +5901,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 3986,
+      "Progressed": 3987,
       "Completed": 0
     }
   ],
@@ -5904,8 +5909,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-07-09T20:06:57.0480477+00:00",
+  "LastChanged_Achievements": "2023-07-09T21:06:15.0179865+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:39.9836246+00:00",
-  "LastUpdate_Ratings": "2023-07-09T19:58:28.0098014+00:00",
-  "LastUpdate_Achievements": "2023-07-09T20:06:57.0481015+00:00"
+  "LastUpdate_Ratings": "2023-07-09T20:58:16.0014976+00:00",
+  "LastUpdate_Achievements": "2023-07-09T21:06:15.0180335+00:00"
 }

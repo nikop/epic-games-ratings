@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -158,7 +158,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1598,
+  "EOS_Progressed": 1599,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
@@ -3968,6 +3968,11 @@
       "Time": "2023-07-09T19:07:43.7943957+00:00",
       "NumProgressed": 1598,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-09T21:06:26.4583863+00:00",
+      "NumProgressed": 1599,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -4163,15 +4168,15 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "fourleafclover",
       "SetID": "3nl4bcg",
       "Name": "Four Leaf Clover",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 144
     },
     {
       "ID": "frostfireliberator",
@@ -4539,7 +4544,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1486
+      "UsersEstimate": 1487
     },
     {
       "ID": "warmachinesarmy",
@@ -4571,14 +4576,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1262
+      "UsersEstimate": 1263
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1598,
+      "Progressed": 1599,
       "Completed": 1
     }
   ],
@@ -4586,8 +4591,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-07-06T11:58:21.6174539+00:00",
-  "LastChanged_Achievements": "2023-07-09T20:07:07.8808468+00:00",
+  "LastChanged_Achievements": "2023-07-09T21:06:26.4583858+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:35.1051404+00:00",
-  "LastUpdate_Ratings": "2023-07-09T19:58:24.9831722+00:00",
-  "LastUpdate_Achievements": "2023-07-09T20:07:07.8809732+00:00"
+  "LastUpdate_Ratings": "2023-07-09T20:58:13.7172799+00:00",
+  "LastUpdate_Achievements": "2023-07-09T21:06:26.4584883+00:00"
 }

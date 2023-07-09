@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 157,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2126,
+  "EOS_Progressed": 2127,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
@@ -1343,6 +1343,11 @@
       "Time": "2023-07-09T20:03:08.14771+00:00",
       "NumProgressed": 2126,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-09T21:03:18.7346616+00:00",
+      "NumProgressed": 2127,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 13,
@@ -1426,7 +1431,7 @@
       "Name": "Stronger together",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "THE_END",
@@ -1450,14 +1455,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2126,
+      "Progressed": 2127,
       "Completed": 5
     }
   ],
@@ -1465,8 +1470,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-07-09T20:03:08.1477095+00:00",
+  "LastChanged_Achievements": "2023-07-09T21:03:18.7346611+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:24.0265171+00:00",
-  "LastUpdate_Ratings": "2023-07-09T19:59:52.5042285+00:00",
-  "LastUpdate_Achievements": "2023-07-09T20:03:08.1477234+00:00"
+  "LastUpdate_Ratings": "2023-07-09T20:59:22.5410006+00:00",
+  "LastUpdate_Achievements": "2023-07-09T21:03:18.7346818+00:00"
 }

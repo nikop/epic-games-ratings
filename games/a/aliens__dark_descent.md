@@ -1,34 +1,34 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.41 (Ranked 673)  
+Rating: 4.39 (Ranked 701)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | This Is Hayes, Pioneer Station, Signing Off | 80.00% | ~2,214 |
-| Snatched Out | 73.00% | ~2,020 |
-| Keep 'Em Coming | 72.00% | ~1,992 |
-| Cleaning Lethe, One Nest At A Time | 64.00% | ~1,771 |
+| Snatched Out | 73.00% | ~2,021 |
+| Keep 'Em Coming | 72.00% | ~1,993 |
+| Cleaning Lethe, One Nest At A Time | 64.00% | ~1,772 |
 | Call Me Snake | 58.00% | ~1,605 |
-| Something Lurks Under The Hills | 57.00% | ~1,577 |
+| Something Lurks Under The Hills | 57.00% | ~1,578 |
 | This Was No Papercut | 55.00% | ~1,522 |
 | The Shrink Hates Me | 52.00% | ~1,439 |
 | People Person | 50.00% | ~1,384 |
-| Use The Bumper, That's What It's For | 48.00% | ~1,328 |
+| Use The Bumper, That's What It's For | 48.00% | ~1,329 |
 | First Steps Into Madness | 46.00% | ~1,273 |
-| Colonial Barrels | 45.00% | ~1,245 |
-| Damn Dude, You Gotta Lose Some Weight! | 38.00% | ~1,051 |
+| Colonial Barrels | 45.00% | ~1,246 |
+| Damn Dude, You Gotta Lose Some Weight! | 38.00% | ~1,052 |
 | Harper's Hell | 37.00% | ~1,024 |
-| Making a Stand | 35.00% | ~968 |
+| Making a Stand | 35.00% | ~969 |
 | Recouped Investment | 31.00% | ~858 |
 | Omelette Du Fromage | 30.00% | ~830 |
 | Where It All Begun | 30.00% | ~830 |
-| The More The Merrier | 23.00% | ~636 |
+| The More The Merrier | 23.00% | ~637 |
 | Living Nightmare | 22.00% | ~609 |
 | The Darwin Era Was Here | 19.00% | ~526 |
-| Stuff Of Nightmares | 17.00% | ~470 |
-| Come on, You Wanna Live Forever? | 17.00% | ~470 |
-| Deep Into Insanity | 17.00% | ~470 |
+| Stuff Of Nightmares | 17.00% | ~471 |
+| Come on, You Wanna Live Forever? | 17.00% | ~471 |
+| Deep Into Insanity | 17.00% | ~471 |
 | The Passenger | 16.00% | ~443 |
 | El Riesgo Siempre Vive | 15.00% | ~415 |
 | One For Every Occasion | 13.00% | ~360 |
@@ -51,7 +51,7 @@ Rating: 4.41 (Ranked 673)
 | Perfect Organism | 0.30% | ~8 |
 | This Ain't No Picnic | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,767 (Ranked 154)  
+Progressed: 2,768 (Ranked 154)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-06 | 2,648 | 0 |
 | 2023-07-07 | 2,686 | 0 |
 | 2023-07-08 | 2,739 | 0 |
-| 2023-07-09 | 2,767 | 0 |
+| 2023-07-09 | 2,768 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -93,3 +93,4 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-06 | 4.46 | 0 | 0 |
 | 2023-07-07 | 4.45 | 0 | 0 |
 | 2023-07-08 | 4.41 | 0 | 0 |
+| 2023-07-09 | 4.39 | 0 | 0 |

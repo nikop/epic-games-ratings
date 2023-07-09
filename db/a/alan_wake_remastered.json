@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57114,
+  "EOS_Progressed": 57116,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 407,
+  "EOS_NewPlayers": 409,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7467,6 +7467,11 @@
       "Time": "2023-07-09T20:03:50.5597162+00:00",
       "NumProgressed": 57114,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-09T21:03:51.9474512+00:00",
+      "NumProgressed": 57116,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7526,7 +7531,7 @@
       "Name": "Heavy Metal",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5711
+      "UsersEstimate": 5712
     },
     {
       "ID": "08",
@@ -7566,7 +7571,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5711
+      "UsersEstimate": 5712
     },
     {
       "ID": "13",
@@ -7662,7 +7667,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5711
+      "UsersEstimate": 5712
     },
     {
       "ID": "25",
@@ -7678,7 +7683,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5711
+      "UsersEstimate": 5712
     },
     {
       "ID": "27",
@@ -7902,7 +7907,7 @@
       "Name": "Words Will Never Harm You",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "55",
@@ -7934,7 +7939,7 @@
       "Name": "Cardboard Companions",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "59",
@@ -7950,7 +7955,7 @@
       "Name": "Kill Your Darlings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "61",
@@ -8006,28 +8011,28 @@
       "Name": "Heartbreaker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     }
   ],
   "AchievementSets": [
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57114,
+      "Progressed": 57116,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20582,
+      "Progressed": 20584,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-09T20:03:50.5597159+00:00",
+  "LastChanged_Achievements": "2023-07-09T21:03:51.9474505+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:08.3646753+00:00",
-  "LastUpdate_Ratings": "2023-07-09T19:58:01.5708379+00:00",
-  "LastUpdate_Achievements": "2023-07-09T20:03:50.5598027+00:00"
+  "LastUpdate_Ratings": "2023-07-09T20:57:56.8354888+00:00",
+  "LastUpdate_Achievements": "2023-07-09T21:03:51.9475494+00:00"
 }

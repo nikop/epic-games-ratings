@@ -32,9 +32,9 @@ Rating: 4.87 (Ranked 25)
 | Perfecter Parry-er! | 0.40% | ~14 |
 | That's a lot of junk metal… | 0.40% | ~14 |
 | You can pet the cat! | 0.40% | ~14 |
+| Does that say weakpoint? | 0.40% | ~14 |
 | Call me Turbo Chai | 0.40% | ~8 |
 | There's such a thing as TOO helpful | 0.30% | ~10 |
-| Does that say weakpoint? | 0.30% | ~10 |
 | New bad guys? No problem! | 0.30% | ~6 |
 | Chip-tuned | 0.20% | ~7 |
 | Beat-hit mania | 0.20% | ~7 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 25)
 | OK, I THINK I know what I'm doing now | 0.00% | ~0 |
 | Low budget finish | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,427 (Ranked 145)  
+Progressed: 3,428 (Ranked 145)  
 Completed: 5 (0.15%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 5 (0.15%) (Ranked 172)
 | 2023-07-06 | 3,411 | 5 |
 | 2023-07-07 | 3,418 | 5 |
 | 2023-07-08 | 3,426 | 5 |
-| 2023-07-09 | 3,427 | 5 |
+| 2023-07-09 | 3,428 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

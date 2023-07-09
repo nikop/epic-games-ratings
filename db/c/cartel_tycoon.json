@@ -2,13 +2,13 @@
   "ID": "1696ef78f67c411ea67d2c2b8e9bc5a6",
   "Name": "Cartel Tycoon",
   "ProductSlug": "cartel-tycoon",
-  "Ranking_Rating": 737,
+  "Ranking_Rating": 738,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -280,9 +280,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 427,
+  "EOS_Progressed": 428,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -1025,6 +1025,11 @@
       "Time": "2023-07-09T17:05:54.7254262+00:00",
       "NumProgressed": 427,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-09T21:06:23.1141869+00:00",
+      "NumProgressed": 428,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 19,
@@ -1060,7 +1065,7 @@
       "Name": "Didn\u0027t Miss A Single One",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "female-conqueror",
@@ -1076,7 +1081,7 @@
       "Name": "That was base",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "hire-lieutenant",
@@ -1084,7 +1089,7 @@
       "Name": "Our Man",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "kill-lieutenants",
@@ -1100,7 +1105,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "play-at-night",
@@ -1124,7 +1129,7 @@
       "Name": "Bad Trip",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "rename-lieutenant",
@@ -1140,7 +1145,7 @@
       "Name": "Bite the Blow",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "sell-variety",
@@ -1172,7 +1177,7 @@
       "Name": "Take-Off",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "use-submarine",
@@ -1187,15 +1192,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 427,
+      "Progressed": 428,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-07-09T20:07:03.3840034+00:00",
+  "LastChanged_Achievements": "2023-07-09T21:06:23.1141859+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:37.7069167+00:00",
-  "LastUpdate_Ratings": "2023-07-09T20:00:53.9872609+00:00",
-  "LastUpdate_Achievements": "2023-07-09T20:07:03.3840174+00:00"
+  "LastUpdate_Ratings": "2023-07-09T21:00:08.2354385+00:00",
+  "LastUpdate_Achievements": "2023-07-09T21:06:23.1142038+00:00"
 }

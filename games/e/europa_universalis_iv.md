@@ -6,31 +6,31 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,095 |
-| That's a Grand Army | 8.00% | ~5,417 |
-| That is mine! | 8.00% | ~5,417 |
-| Victorious! | 8.00% | ~5,417 |
-| Brothers in Arms | 6.00% | ~4,063 |
-| That's a Grand Navy | 6.00% | ~4,063 |
-| Seriously?! | 6.00% | ~4,063 |
-| For the Glory | 5.00% | ~3,386 |
-| Cold War | 4.00% | ~2,709 |
-| True Catholic | 4.00% | ~2,709 |
+| Until death do us apart | 9.00% | ~6,097 |
+| That's a Grand Army | 8.00% | ~5,419 |
+| That is mine! | 8.00% | ~5,419 |
+| Victorious! | 8.00% | ~5,419 |
+| Brothers in Arms | 6.00% | ~4,064 |
+| That's a Grand Navy | 6.00% | ~4,064 |
+| Seriously?! | 6.00% | ~4,064 |
+| For the Glory | 5.00% | ~3,387 |
+| Cold War | 4.00% | ~2,710 |
+| True Catholic | 4.00% | ~2,710 |
 | Defender of the Faith | 3.00% | ~2,032 |
 | It's all about the money | 3.00% | ~2,032 |
 | Respected | 3.00% | ~2,032 |
 | The Princess is in this Castle | 3.00% | ~2,032 |
 | Truly Divine Ruler | 3.00% | ~2,032 |
-| Agressive Expander | 2.00% | ~1,354 |
-| Blockader | 2.00% | ~1,354 |
-| Combined Arms | 2.00% | ~1,354 |
-| Double the Love | 2.00% | ~1,354 |
-| Gentle Persuasion | 2.00% | ~1,354 |
-| It's all about luck | 2.00% | ~1,354 |
-| My armies are invincible! | 2.00% | ~1,354 |
-| Queen of Conquest | 2.00% | ~1,354 |
-| Royal Authority | 2.00% | ~1,354 |
-| Total Control | 2.00% | ~1,354 |
+| Agressive Expander | 2.00% | ~1,355 |
+| Blockader | 2.00% | ~1,355 |
+| Combined Arms | 2.00% | ~1,355 |
+| Double the Love | 2.00% | ~1,355 |
+| Gentle Persuasion | 2.00% | ~1,355 |
+| It's all about luck | 2.00% | ~1,355 |
+| My armies are invincible! | 2.00% | ~1,355 |
+| Queen of Conquest | 2.00% | ~1,355 |
+| Royal Authority | 2.00% | ~1,355 |
+| Total Control | 2.00% | ~1,355 |
 | All That's Thine Shall Be Mine | 1.00% | ~677 |
 | Azur semé de lis or | 1.00% | ~677 |
 | Bright Spark | 1.00% | ~677 |
@@ -40,8 +40,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Golden Empire | 1.00% | ~677 |
 | The Five Colonies | 1.00% | ~677 |
 | This navy can take it all | 1.00% | ~677 |
-| Isn't this the way to India? | 0.90% | ~609 |
-| Market Control | 0.90% | ~609 |
+| Isn't this the way to India? | 0.90% | ~610 |
+| Market Control | 0.90% | ~610 |
 | Down Under | 0.80% | ~542 |
 | Trustworthy | 0.80% | ~542 |
 | Electable! | 0.70% | ~474 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,717 (Ranked 73)  
+Progressed: 67,740 (Ranked 73)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -441,17 +441,17 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-06 | 66,326 | 0 |
 | 2023-07-07 | 66,739 | 0 |
 | 2023-07-08 | 67,273 | 0 |
-| 2023-07-09 | 67,717 | 0 |
+| 2023-07-09 | 67,740 | 0 |
 ## Awards
 Max (Educational): 5,522  (Ranked 60)  
-Sum: 45,578 (Ranked 27)  
+Sum: 45,582 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,522 |
 | This game is Highly Recommended | 5,292 |
 | This game has Challenging Combat | 5,248 |
-| This game is Extremely Fun | 5,233 |
+| This game is Extremely Fun | 5,237 |
 | This game has Diverse Characters | 5,205 |
 | This game is Relaxing | 5,118 |
 | This game has Competitive Players | 4,960 |
@@ -634,4 +634,4 @@ Diff (max vs sum): 33
 | 2023-07-06 | 4.69 | - | 5,511 | 45,478 |
 | 2023-07-07 | 4.69 | - | 5,515 | 45,515 |
 | 2023-07-08 | 4.69 | - | 5,522 | 45,550 |
-| 2023-07-09 | 4.69 | - | 5,522 | 45,578 |
+| 2023-07-09 | 4.69 | - | 5,522 | 45,582 |

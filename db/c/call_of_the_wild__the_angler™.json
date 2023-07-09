@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -586,9 +586,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4607,
+  "EOS_Progressed": 4609,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4326,6 +4326,11 @@
       "Time": "2023-07-09T20:05:24.9982589+00:00",
       "NumProgressed": 4607,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-09T21:05:05.1727902+00:00",
+      "NumProgressed": 4609,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -4337,7 +4342,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3501
+      "UsersEstimate": 3503
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -4353,7 +4358,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 3041
+      "UsersEstimate": 3042
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -4361,7 +4366,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 1935
+      "UsersEstimate": 1936
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -4369,7 +4374,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1474
+      "UsersEstimate": 1475
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -4377,7 +4382,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 2626
+      "UsersEstimate": 2627
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -4385,7 +4390,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1889
+      "UsersEstimate": 1890
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -4409,7 +4414,7 @@
       "Name": "License to Gill",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 1520
+      "UsersEstimate": 1521
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -4497,7 +4502,7 @@
       "Name": "I\u0027m Hooked!",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -4537,7 +4542,7 @@
       "Name": "Big Fish Small Pond",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "ACHIEVEMENT_027",
@@ -4616,13 +4621,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 4607,
+      "Progressed": 4609,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 3979,
+      "Progressed": 3981,
       "Completed": 112
     }
   ],
@@ -4630,8 +4635,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-06-29T22:00:44.387661+00:00",
-  "LastChanged_Achievements": "2023-07-09T20:05:24.9982584+00:00",
+  "LastChanged_Achievements": "2023-07-09T21:05:05.1727897+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:07.4773638+00:00",
-  "LastUpdate_Ratings": "2023-07-09T20:00:29.3310408+00:00",
-  "LastUpdate_Achievements": "2023-07-09T20:05:24.9982974+00:00"
+  "LastUpdate_Ratings": "2023-07-09T20:59:48.9897268+00:00",
+  "LastUpdate_Achievements": "2023-07-09T21:05:05.1728419+00:00"
 }

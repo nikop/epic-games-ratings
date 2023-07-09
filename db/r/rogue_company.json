@@ -2,20 +2,20 @@
   "ID": "933ada2ec45e4184ae840d64c99e0ba9",
   "Name": "Rogue Company",
   "ProductSlug": "rogue-company",
-  "Ranking_Rating": 746,
+  "Ranking_Rating": 754,
   "Ranking_Popularity": 63,
   "Ranking_PopularitySum": 36,
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 319,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2020-09-30T15:00:00+00:00",
     "PcReleaseDate": "2020-09-30T15:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.34,
+  "Rating": 4.33,
   "NumberOfRatings": 21107,
   "RatingHistory": [
     {
@@ -6032,10 +6032,16 @@
       "Rating": 4.34,
       "NumberOfAwards": 31945,
       "NumberOfAwardsMax": 5116
+    },
+    {
+      "Time": "2023-07-09T20:58:48.3456341+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 31948,
+      "NumberOfAwardsMax": 5116
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31945,
+  "NumberOfAwards": 31948,
   "NumberOfAwardsMax": 5116,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6055,7 +6061,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 4783
+      "Count": 4786
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6099,8 +6105,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:58.1519565+00:00",
-  "LastChanged": "2023-07-09T14:59:11.8173825+00:00",
+  "LastChanged": "2023-07-09T20:58:48.3456338+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:26.5743332+00:00",
-  "LastUpdate_Ratings": "2023-07-09T19:59:04.4987538+00:00",
-  "LastUpdate_Achievements": "2023-07-09T20:04:52.2335101+00:00"
+  "LastUpdate_Ratings": "2023-07-09T20:58:48.3456346+00:00",
+  "LastUpdate_Achievements": "2023-07-09T21:04:40.1219469+00:00"
 }

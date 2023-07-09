@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3427,
+  "EOS_Progressed": 3428,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4142,6 +4142,11 @@
       "Time": "2023-07-09T11:02:04.9162846+00:00",
       "NumProgressed": 3427,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-09T21:00:43.4574084+00:00",
+      "NumProgressed": 3428,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 71,
@@ -4567,9 +4572,9 @@
       "ID": "Ach053",
       "SetID": "12n4k20",
       "Name": "Does that say weakpoint?",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 14
     },
     {
       "ID": "Ach054",
@@ -4720,13 +4725,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3427,
+      "Progressed": 3428,
       "Completed": 5
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 1948,
+      "Progressed": 1949,
       "Completed": 1927
     }
   ],
@@ -4734,8 +4739,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-09T20:01:40.0366818+00:00",
+  "LastChanged_Achievements": "2023-07-09T21:00:43.4574078+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:24.9104218+00:00",
-  "LastUpdate_Ratings": "2023-07-09T19:59:02.4925553+00:00",
-  "LastUpdate_Achievements": "2023-07-09T20:01:40.0369468+00:00"
+  "LastUpdate_Ratings": "2023-07-09T20:58:46.9365928+00:00",
+  "LastUpdate_Achievements": "2023-07-09T21:00:43.4575008+00:00"
 }

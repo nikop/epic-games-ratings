@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -296,9 +296,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15337,
+  "EOS_Progressed": 15339,
   "EOS_Completed": 96,
-  "EOS_NewPlayers": 213,
+  "EOS_NewPlayers": 211,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -6551,6 +6551,11 @@
       "Time": "2023-07-09T20:03:36.7818844+00:00",
       "NumProgressed": 15337,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2023-07-09T21:03:41.157275+00:00",
+      "NumProgressed": 15339,
+      "NumCompleted": 96
     }
   ],
   "TotalAchievements": 16,
@@ -6562,7 +6567,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 4141
+      "UsersEstimate": 4142
     },
     {
       "ID": "Burning_For_You",
@@ -6570,7 +6575,7 @@
       "Name": "Burning For You",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 4294
+      "UsersEstimate": 4295
     },
     {
       "ID": "Deadline",
@@ -6586,7 +6591,7 @@
       "Name": "Don\u0027t Fear The Reaper",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 1840
+      "UsersEstimate": 1841
     },
     {
       "ID": "Eyes_On_Fire",
@@ -6610,7 +6615,7 @@
       "Name": "Fireworks",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 5061
+      "UsersEstimate": 5062
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -6634,7 +6639,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 6595
+      "UsersEstimate": 6596
     },
     {
       "ID": "Mirrors",
@@ -6658,7 +6663,7 @@
       "Name": "Shooting Shark",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 7822
+      "UsersEstimate": 7823
     },
     {
       "ID": "Sole_Survivor",
@@ -6689,15 +6694,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 15337,
+      "Progressed": 15339,
       "Completed": 96
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-05-26T21:58:51.5297179+00:00",
-  "LastChanged_Achievements": "2023-07-09T20:03:36.781884+00:00",
+  "LastChanged_Achievements": "2023-07-09T21:03:41.1572742+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:05.1679058+00:00",
-  "LastUpdate_Ratings": "2023-07-09T19:59:36.9304298+00:00",
-  "LastUpdate_Achievements": "2023-07-09T20:03:36.7819212+00:00"
+  "LastUpdate_Ratings": "2023-07-09T20:59:11.4597351+00:00",
+  "LastUpdate_Achievements": "2023-07-09T21:03:41.1573954+00:00"
 }

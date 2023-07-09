@@ -3,9 +3,9 @@
   "Name": "JARS",
   "ProductSlug": "jars-e39063",
   "Ranking_EOS_Progress": 327,
-  "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_Completed": 38,
+  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2021-10-20T16:00:00+00:00",
     "PcReleaseDate": "2021-10-20T16:00:00+00:00",
@@ -27,10 +27,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 62,
-  "EOS_Completed": 2,
+  "EOS_Completed": 3,
   "EOS_NewPlayers": 2,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.23,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 4.84,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:38.9338531+00:00",
@@ -161,6 +161,11 @@
       "Time": "2023-07-09T05:02:33.1321005+00:00",
       "NumProgressed": 62,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-09T21:02:19.1337384+00:00",
+      "NumProgressed": 62,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 20,
@@ -290,9 +295,9 @@
       "ID": "ACH_HERO_MASTER_4",
       "SetID": "3jfhgga",
       "Name": "Master of puppets",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_SHOP_ALL_MINIONS",
@@ -332,15 +337,15 @@
       "ID": "3jfhgga",
       "IsBase": true,
       "Progressed": 62,
-      "Completed": 2
+      "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:26:25.1355207+00:00",
   "FirstSeenRating": "2023-03-31T05:58:01.991429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:38.9338539+00:00",
   "LastChanged": "2023-03-31T05:58:01.9914291+00:00",
-  "LastChanged_Achievements": "2023-07-09T20:02:11.8141863+00:00",
+  "LastChanged_Achievements": "2023-07-09T21:02:19.1337381+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:37.4822384+00:00",
-  "LastUpdate_Ratings": "2023-07-09T19:58:27.1359686+00:00",
-  "LastUpdate_Achievements": "2023-07-09T20:02:11.8142002+00:00"
+  "LastUpdate_Ratings": "2023-07-09T20:58:15.3682676+00:00",
+  "LastUpdate_Achievements": "2023-07-09T21:02:19.1337524+00:00"
 }

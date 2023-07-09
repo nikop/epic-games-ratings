@@ -37,10 +37,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | Capitulation Is Now Moot | 2.00% | ~205 |
 | Core of the Riddle | 2.00% | ~205 |
 | Your First Big Enemy | 2.00% | ~205 |
-| Stay Underground | 2.00% | ~180 |
-| Hanged Man's Notes | 2.00% | ~180 |
-| Sarkoris Will Be Green | 2.00% | ~180 |
-| The Lady of the Forest | 2.00% | ~180 |
+| Stay Underground | 2.00% | ~181 |
+| Hanged Man's Notes | 2.00% | ~181 |
+| Sarkoris Will Be Green | 2.00% | ~181 |
+| The Lady of the Forest | 2.00% | ~181 |
 | Path of the Demon | 1.00% | ~102 |
 | Path of the Aeon | 1.00% | ~102 |
 | Abyssal Conspiracy | 1.00% | ~102 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,243 (Ranked 116)  
+Progressed: 10,245 (Ranked 116)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-06 | 10,195 | 0 |
 | 2023-07-07 | 10,209 | 0 |
 | 2023-07-08 | 10,230 | 0 |
-| 2023-07-09 | 10,243 | 0 |
+| 2023-07-09 | 10,245 | 0 |
 ## Awards
 Max (Character Customization): 1,674  (Ranked 117)  
 Sum: 6,800 (Ranked 112)  

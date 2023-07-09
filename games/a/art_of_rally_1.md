@@ -6,13 +6,13 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,763 |
-| keep it tidy | 77.00% | ~7,831 |
-| podium | 72.00% | ~7,322 |
-| medium attack | 60.00% | ~6,102 |
+| light attack | 96.00% | ~9,764 |
+| keep it tidy | 77.00% | ~7,832 |
+| podium | 72.00% | ~7,323 |
+| medium attack | 60.00% | ~6,103 |
 | brail | 57.00% | ~5,797 |
 | good drivers have dead flies on the side windows | 41.00% | ~4,170 |
-| grocery-getter | 39.00% | ~3,966 |
+| grocery-getter | 39.00% | ~3,967 |
 | rwd only | 26.00% | ~2,644 |
 | food tour: pasta | 26.00% | ~2,644 |
 | to finish first, first you must finish | 21.00% | ~2,136 |
@@ -27,7 +27,7 @@ Number of Ratings: 56  (23.09.2022)
 | night ride | 13.00% | ~1,322 |
 | the artist | 13.00% | ~1,322 |
 | snorkel | 13.00% | ~1,322 |
-| where is the stage? | 12.00% | ~1,220 |
+| where is the stage? | 12.00% | ~1,221 |
 | maximum attack | 11.00% | ~1,119 |
 | espresso | 10.00% | ~1,017 |
 | parallel universe | 10.00% | ~1,017 |
@@ -39,9 +39,9 @@ Number of Ratings: 56  (23.09.2022)
 | mittens | 7.00% | ~712 |
 | parking lot | 6.00% | ~610 |
 | oktoberfest | 6.00% | ~610 |
-| group b | 5.00% | ~508 |
-| in like a lamb, out like a lion | 5.00% | ~508 |
-| if in doubt, flat out! | 5.00% | ~508 |
+| group b | 5.00% | ~509 |
+| in like a lamb, out like a lion | 5.00% | ~509 |
+| if in doubt, flat out! | 5.00% | ~509 |
 | comfy seats | 3.00% | ~305 |
 | simulator | 3.00% | ~305 |
 | real roads, real fast | 2.00% | ~203 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~41 |
 | barely keeping it together | 0.30% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,170 (Ranked 117)  
+Progressed: 10,171 (Ranked 117)  
 Completed: 9 (0.09%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,6 +117,7 @@ Completed: 9 (0.09%) (Ranked 188)
 | 2023-07-03 | 10,168 | 9 |
 | 2023-07-04 | 10,169 | 9 |
 | 2023-07-06 | 10,170 | 9 |
+| 2023-07-09 | 10,171 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

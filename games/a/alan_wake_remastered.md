@@ -25,10 +25,10 @@ Number of Ratings: 524  (23.09.2022)
 | The Six-Gun Scribe | 11.00% | ~6,283 |
 | Collateral Carnage | 11.00% | ~6,283 |
 | Come One, Come All | 11.00% | ~6,283 |
-| Heavy Metal | 10.00% | ~5,711 |
-| Perchance to Dream | 10.00% | ~5,711 |
-| It's Not Just a Typewriter Brand | 10.00% | ~5,711 |
-| Thunder and Lightning | 10.00% | ~5,711 |
+| Heavy Metal | 10.00% | ~5,712 |
+| Perchance to Dream | 10.00% | ~5,712 |
+| It's Not Just a Typewriter Brand | 10.00% | ~5,712 |
+| Thunder and Lightning | 10.00% | ~5,712 |
 | Gatekeeper | 9.00% | ~5,140 |
 | The Lady of the Light | 9.00% | ~5,140 |
 | Two For the Price of One | 9.00% | ~5,140 |
@@ -46,8 +46,8 @@ Number of Ratings: 524  (23.09.2022)
 | Children of the Elder God | 4.00% | ~2,285 |
 | If It Flies, It Burns | 4.00% | ~2,285 |
 | KBF-FM | 4.00% | ~2,285 |
-| Kill Your Darlings | 3.00% | ~617 |
-| Heartbreaker | 3.00% | ~617 |
+| Kill Your Darlings | 3.00% | ~618 |
+| Heartbreaker | 3.00% | ~618 |
 | Medical Opinions | 2.00% | ~1,142 |
 | Taken Season | 2.00% | ~1,142 |
 | Carny | 2.00% | ~1,142 |
@@ -55,8 +55,8 @@ Number of Ratings: 524  (23.09.2022)
 | Iron Will | 2.00% | ~412 |
 | Couch Potato | 1.00% | ~571 |
 | Go Gentle Into That Good Light | 1.00% | ~206 |
-| Words Will Never Harm You | 0.60% | ~123 |
-| Cardboard Companions | 0.60% | ~123 |
+| Words Will Never Harm You | 0.60% | ~124 |
+| Cardboard Companions | 0.60% | ~124 |
 | Fast and Furious | 0.50% | ~103 |
 | License Revoked | 0.40% | ~82 |
 | Whirlwind | 0.40% | ~82 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~57 |
 | No Punctuation | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,114 (Ranked 81)  
+Progressed: 57,116 (Ranked 81)  
 Completed: 57 (0.10%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 57 (0.10%) (Ranked 183)
 | 2023-07-06 | 56,931 | 57 |
 | 2023-07-07 | 56,982 | 57 |
 | 2023-07-08 | 57,062 | 57 |
-| 2023-07-09 | 57,114 | 57 |
+| 2023-07-09 | 57,116 | 57 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

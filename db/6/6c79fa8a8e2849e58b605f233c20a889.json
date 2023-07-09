@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1954,
+  "EOS_Progressed": 1955,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3441,6 +3441,11 @@
       "Time": "2023-07-09T20:05:29.3703072+00:00",
       "NumProgressed": 1954,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-09T21:05:08.3268331+00:00",
+      "NumProgressed": 1955,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -3450,9 +3455,9 @@
       "ID": "AGGRO",
       "SetID": "8lhbnh7",
       "Name": "Aggressor",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 117
+      "UsersEstimate": 137
     },
     {
       "ID": "AI_DRAW",
@@ -3460,7 +3465,7 @@
       "Name": "Puppetmaster",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "BOT_DESTROYER",
@@ -3476,7 +3481,7 @@
       "Name": "Whoops",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "CONQUEROR",
@@ -3556,7 +3561,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1172
+      "UsersEstimate": 1173
     },
     {
       "ID": "GUARD_MAKER",
@@ -3627,14 +3632,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1954,
+      "Progressed": 1955,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-07-09T20:05:29.3703067+00:00",
+  "LastChanged_Achievements": "2023-07-09T21:05:08.3268326+00:00",
   "LastUpdate_AppInfo": "2023-07-04T17:56:54.4886907+00:00",
-  "LastUpdate_Ratings": "2023-07-09T19:57:21.0124885+00:00",
-  "LastUpdate_Achievements": "2023-07-09T20:05:29.3703348+00:00"
+  "LastUpdate_Ratings": "2023-07-09T20:57:27.2974874+00:00",
+  "LastUpdate_Achievements": "2023-07-09T21:05:08.3268684+00:00"
 }

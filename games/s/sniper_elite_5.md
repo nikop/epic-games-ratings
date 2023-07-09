@@ -25,13 +25,13 @@ Rating: 4.46 (Ranked 607)
 | Gunslinger | 1.00% | ~32 |
 | Explosive Efficiency | 1.00% | ~32 |
 | Der Geist | 1.00% | ~32 |
+| Close Quarters | 1.00% | ~32 |
 | Snake in the Grass | 1.00% | ~32 |
 | Brains of the Operation | 1.00% | ~32 |
 | Skirmisher | 0.90% | ~29 |
 | Set Europe Ablaze | 0.90% | ~29 |
 | Precision Is Key | 0.90% | ~29 |
 | My Little Friend | 0.90% | ~29 |
-| Close Quarters | 0.90% | ~29 |
 | Enemy at the Gates | 0.70% | ~23 |
 | Fields of Glory | 0.70% | ~23 |
 | Just a Flesh Wound | 0.70% | ~23 |
@@ -67,6 +67,7 @@ Rating: 4.46 (Ranked 607)
 | Can't Outrun A Bullet | 0.20% | ~6 |
 | Führerious Repetition | 0.20% | ~6 |
 | Operation Overlord | 0.20% | ~6 |
+| Going Overboard | 0.20% | ~6 |
 | Master of Pistols | 0.10% | ~3 |
 | Master-at-arms | 0.10% | ~3 |
 | Reich To The Point | 0.10% | ~3 |
@@ -75,9 +76,8 @@ Rating: 4.46 (Ranked 607)
 | Alpha | 0.10% | ~3 |
 | Das Familienjuwel | 0.10% | ~3 |
 | Stroll in the Woods | 0.10% | ~3 |
-| Going Overboard | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,242 (Ranked 146)  
+Progressed: 3,244 (Ranked 146)  
 Completed: 9 (0.28%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 9 (0.28%) (Ranked 150)
 | 2023-07-06 | 3,221 | 9 |
 | 2023-07-07 | 3,227 | 9 |
 | 2023-07-08 | 3,234 | 9 |
-| 2023-07-09 | 3,242 | 9 |
+| 2023-07-09 | 3,244 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
