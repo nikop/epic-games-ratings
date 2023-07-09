@@ -6,11 +6,11 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 34.00% | ~19,404 |
-| Let There Be Light | 27.00% | ~15,409 |
+| Follow the Light | 34.00% | ~19,405 |
+| Let There Be Light | 27.00% | ~15,410 |
 | Float Like a Butterfly | 26.00% | ~14,839 |
 | Nordic Walking | 21.00% | ~11,985 |
-| Bright Falls' Finest | 20.00% | ~11,414 |
+| Bright Falls' Finest | 20.00% | ~11,415 |
 | Under a Thin Layer of Skin | 18.00% | ~10,273 |
 | Park Ranger | 15.00% | ~8,561 |
 | Paging Mr. Wake | 15.00% | ~8,561 |
@@ -28,11 +28,11 @@ Number of Ratings: 524  (23.09.2022)
 | Heavy Metal | 10.00% | ~5,707 |
 | Perchance to Dream | 10.00% | ~5,707 |
 | It's Not Just a Typewriter Brand | 10.00% | ~5,707 |
-| Gatekeeper | 9.00% | ~5,136 |
-| The Lady of the Light | 9.00% | ~5,136 |
-| Thunder and Lightning | 9.00% | ~5,136 |
-| Two For the Price of One | 9.00% | ~5,136 |
-| Energized! | 9.00% | ~5,136 |
+| Gatekeeper | 9.00% | ~5,137 |
+| The Lady of the Light | 9.00% | ~5,137 |
+| Thunder and Lightning | 9.00% | ~5,137 |
+| Two For the Price of One | 9.00% | ~5,137 |
+| Energized! | 9.00% | ~5,137 |
 | Right of Way | 8.00% | ~4,566 |
 | A Friend in Need | 8.00% | ~1,643 |
 | What Light Through Yonder Window | 7.00% | ~3,995 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~57 |
 | No Punctuation | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,072 (Ranked 81)  
+Progressed: 57,073 (Ranked 81)  
 Completed: 57 (0.10%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 57 (0.10%) (Ranked 183)
 | 2023-07-06 | 56,931 | 57 |
 | 2023-07-07 | 56,982 | 57 |
 | 2023-07-08 | 57,062 | 57 |
-| 2023-07-09 | 57,072 | 57 |
+| 2023-07-09 | 57,073 | 57 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

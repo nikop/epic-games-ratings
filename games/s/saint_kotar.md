@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | Finish the Tutorial | 75.00% | ~15 |
 | A Map for Benedek | 50.00% | ~10 |
-| A Map for Nikolay | 45.00% | ~9 |
+| A Map for Nikolay | 50.00% | ~10 |
 | The Wall of Laments | 40.00% | ~8 |
-| Death Whistle | 35.00% | ~7 |
+| Death Whistle | 40.00% | ~8 |
 | Burial Mound | 35.00% | ~7 |
 | Make the Prophet Your Ally | 30.00% | ~6 |
 | Become a Half-Child | 30.00% | ~6 |

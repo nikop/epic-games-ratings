@@ -42,7 +42,7 @@
 | Get-it-off-get-it-off! | 0.00% | ~0 |
 | A Tonne of Fun | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 381 (Ranked 229)  
+Progressed: 382 (Ranked 229)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -52,6 +52,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-06-12 | 379 | 0 |
 | 2023-06-14 | 380 | 0 |
 | 2023-06-29 | 381 | 0 |
+| 2023-07-09 | 382 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

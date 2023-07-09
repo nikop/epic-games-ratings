@@ -3598,9 +3598,9 @@
       "ID": "SO_Madison",
       "SetID": "bmkn7o4",
       "Name": "Smooth Operator: Madison",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 172
     },
     {
       "ID": "SmellBlood",
@@ -3796,8 +3796,8 @@
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-03-31T05:57:11.1498515+00:00",
-  "LastChanged_Achievements": "2023-07-09T05:06:36.1744516+00:00",
+  "LastChanged_Achievements": "2023-07-09T06:05:23.7110232+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:37.0636474+00:00",
-  "LastUpdate_Ratings": "2023-07-09T04:57:54.4124515+00:00",
-  "LastUpdate_Achievements": "2023-07-09T05:06:36.1745517+00:00"
+  "LastUpdate_Ratings": "2023-07-09T05:57:28.1437501+00:00",
+  "LastUpdate_Achievements": "2023-07-09T06:05:23.7111148+00:00"
 }

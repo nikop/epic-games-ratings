@@ -378,9 +378,9 @@
       "ID": "Epic_AsteroidBase_1",
       "SetID": "ba1m2fc",
       "Name": "End Day",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Epic_Brand_25",
@@ -761,8 +761,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-07-09T05:05:10.0700163+00:00",
+  "LastChanged_Achievements": "2023-07-09T06:04:29.0004455+00:00",
   "LastUpdate_AppInfo": "2023-07-06T05:56:55.6931967+00:00",
-  "LastUpdate_Ratings": "2023-07-09T04:57:22.6786443+00:00",
-  "LastUpdate_Achievements": "2023-07-09T05:05:10.0700631+00:00"
+  "LastUpdate_Ratings": "2023-07-09T05:57:08.8484034+00:00",
+  "LastUpdate_Achievements": "2023-07-09T06:04:29.0005058+00:00"
 }

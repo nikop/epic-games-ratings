@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 63,
+  "EOS_Progressed": 64,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 4.76,
+  "EOS_Completed_Percentage": 4.69,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -196,6 +196,11 @@
       "Time": "2023-07-09T02:37:44.4789633+00:00",
       "NumProgressed": 63,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-09T06:04:31.9008568+00:00",
+      "NumProgressed": 64,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 16,
@@ -221,7 +226,7 @@
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "8d3ci0",
       "Name": "Cruise ship",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 30,
       "UsersEstimate": 15
     },
@@ -229,7 +234,7 @@
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "8d3ci0",
       "Name": "Ducks adrift",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 30,
       "UsersEstimate": 18
     },
@@ -245,7 +250,7 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "8d3ci0",
       "Name": "High-rise",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
       "UsersEstimate": 29
     },
@@ -269,7 +274,7 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "8d3ci0",
       "Name": "Family pond",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
       "UsersEstimate": 13
     },
@@ -301,7 +306,7 @@
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "8d3ci0",
       "Name": "Private pool",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 15,
       "UsersEstimate": 30
     },
@@ -325,7 +330,7 @@
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "8d3ci0",
       "Name": "Watery help",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 100,
       "UsersEstimate": 13
     }
@@ -334,14 +339,14 @@
     {
       "ID": "8d3ci0",
       "IsBase": true,
-      "Progressed": 63,
+      "Progressed": 64,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-09T05:05:13.6050673+00:00",
+  "LastChanged_Achievements": "2023-07-09T06:04:31.900856+00:00",
   "LastUpdate_AppInfo": "2023-07-08T11:56:59.3518994+00:00",
-  "LastUpdate_Ratings": "2023-07-09T04:57:13.651368+00:00",
-  "LastUpdate_Achievements": "2023-07-09T05:05:13.605082+00:00"
+  "LastUpdate_Ratings": "2023-07-09T05:57:00.6216065+00:00",
+  "LastUpdate_Achievements": "2023-07-09T06:04:31.9008695+00:00"
 }

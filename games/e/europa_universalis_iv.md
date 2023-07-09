@@ -7,12 +7,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Until death do us apart | 9.00% | ~6,062 |
-| That's a Grand Army | 8.00% | ~5,388 |
-| That is mine! | 8.00% | ~5,388 |
-| Victorious! | 8.00% | ~5,388 |
-| Brothers in Arms | 6.00% | ~4,041 |
-| That's a Grand Navy | 6.00% | ~4,041 |
-| Seriously?! | 6.00% | ~4,041 |
+| That's a Grand Army | 8.00% | ~5,389 |
+| That is mine! | 8.00% | ~5,389 |
+| Victorious! | 8.00% | ~5,389 |
+| Brothers in Arms | 6.00% | ~4,042 |
+| That's a Grand Navy | 6.00% | ~4,042 |
+| Seriously?! | 6.00% | ~4,042 |
 | For the Glory | 5.00% | ~3,368 |
 | Cold War | 4.00% | ~2,694 |
 | True Catholic | 4.00% | ~2,694 |
@@ -44,8 +44,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Market Control | 0.90% | ~606 |
 | Down Under | 0.80% | ~539 |
 | Trustworthy | 0.80% | ~539 |
-| Electable! | 0.70% | ~471 |
-| Populists in Government | 0.70% | ~471 |
+| Electable! | 0.70% | ~472 |
+| Populists in Government | 0.70% | ~472 |
 | All belongs to Mother Russia | 0.60% | ~404 |
 | At every continent | 0.60% | ~404 |
 | Early-Modern Warfare | 0.60% | ~404 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,353 (Ranked 73)  
+Progressed: 67,360 (Ranked 73)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -441,7 +441,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-06 | 66,326 | 0 |
 | 2023-07-07 | 66,739 | 0 |
 | 2023-07-08 | 67,273 | 0 |
-| 2023-07-09 | 67,353 | 0 |
+| 2023-07-09 | 67,360 | 0 |
 ## Awards
 Max (Educational): 5,522  (Ranked 60)  
 Sum: 45,558 (Ranked 27)  

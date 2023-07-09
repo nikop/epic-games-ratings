@@ -5034,9 +5034,9 @@
       "ID": "PRODUCE_AT_CAMPFIRE",
       "SetID": "5349c2e",
       "Name": "Home Cooked Meal",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 2366
+      "UsersEstimate": 2411
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -5098,9 +5098,9 @@
       "ID": "SURVIVE_FIRST_WINTER",
       "SetID": "5349c2e",
       "Name": "Winter Is Here",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 938
+      "UsersEstimate": 982
     },
     {
       "ID": "SURVIVE_FIRST_YEAR",
@@ -5170,8 +5170,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-07-05T14:00:57.5136385+00:00",
-  "LastChanged_Achievements": "2023-07-09T05:02:28.2571798+00:00",
+  "LastChanged_Achievements": "2023-07-09T06:00:50.6916579+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:13.9493644+00:00",
-  "LastUpdate_Ratings": "2023-07-09T05:01:15.2363637+00:00",
-  "LastUpdate_Achievements": "2023-07-09T05:02:28.2572454+00:00"
+  "LastUpdate_Ratings": "2023-07-09T05:59:59.4425407+00:00",
+  "LastUpdate_Achievements": "2023-07-09T06:00:50.6917073+00:00"
 }

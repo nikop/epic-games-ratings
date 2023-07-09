@@ -4,7 +4,7 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -979,9 +979,9 @@
       "ID": "ach_tripleKill",
       "SetID": "cmg602e",
       "Name": "Triple Kill",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ach_win_with_no_deaths",
@@ -1011,9 +1011,9 @@
       "ID": "ach_x_victims_using_shotgun",
       "SetID": "cmg602e",
       "Name": "Cornivore",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 51
     },
     {
       "ID": "ach_all_koth_points",
@@ -1274,8 +1274,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-07-09T05:04:55.2523434+00:00",
+  "LastChanged_Achievements": "2023-07-09T06:04:18.5458531+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:01.6150749+00:00",
-  "LastUpdate_Ratings": "2023-07-09T04:59:12.1774905+00:00",
-  "LastUpdate_Achievements": "2023-07-09T05:04:55.2524647+00:00"
+  "LastUpdate_Ratings": "2023-07-09T05:58:29.2117498+00:00",
+  "LastUpdate_Achievements": "2023-07-09T06:04:18.5459396+00:00"
 }

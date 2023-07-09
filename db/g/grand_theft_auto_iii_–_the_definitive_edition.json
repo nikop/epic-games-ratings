@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -370,9 +370,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6940,
+  "EOS_Progressed": 6941,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -5400,6 +5400,11 @@
       "Time": "2023-07-09T05:04:47.3451699+00:00",
       "NumProgressed": 6940,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-07-09T06:03:53.1104722+00:00",
+      "NumProgressed": 6941,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 29,
@@ -5411,7 +5416,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5760
+      "UsersEstimate": 5761
     },
     {
       "ID": "ACH02",
@@ -5419,7 +5424,7 @@
       "Name": "Without a Scratch",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 2290
+      "UsersEstimate": 2291
     },
     {
       "ID": "ACH03",
@@ -5515,7 +5520,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "ACH15",
@@ -5642,7 +5647,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6940,
+      "Progressed": 6941,
       "Completed": 40
     }
   ],
@@ -5650,8 +5655,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-07-06T20:58:32.0541996+00:00",
-  "LastChanged_Achievements": "2023-07-09T05:04:47.3451694+00:00",
+  "LastChanged_Achievements": "2023-07-09T06:03:53.1104716+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:25.3422771+00:00",
-  "LastUpdate_Ratings": "2023-07-09T04:58:37.6837476+00:00",
-  "LastUpdate_Achievements": "2023-07-09T05:04:47.3452283+00:00"
+  "LastUpdate_Ratings": "2023-07-09T05:58:04.5629963+00:00",
+  "LastUpdate_Achievements": "2023-07-09T06:03:53.1105254+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "echo-storm-4e5fbe",
   "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 314,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-05-11T05:00:00+00:00",
@@ -135,49 +135,49 @@
       "ID": "kill100",
       "SetID": "bma0pih",
       "Name": "Recruit",
-      "Percentage": 79,
+      "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "kill300",
       "SetID": "bma0pih",
       "Name": "Soldier",
-      "Percentage": 71,
+      "Percentage": 79,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "kill750",
       "SetID": "bma0pih",
       "Name": "War machine",
-      "Percentage": 71,
+      "Percentage": 79,
       "XP": 150,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "killWithHammer",
       "SetID": "bma0pih",
       "Name": "Eternal blacksmith",
-      "Percentage": 36,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "leviathan01",
       "SetID": "bma0pih",
       "Name": "Flying death",
-      "Percentage": 64,
+      "Percentage": 71,
       "XP": 55,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "leviathan02",
       "SetID": "bma0pih",
       "Name": "Metal hell",
-      "Percentage": 14,
+      "Percentage": 21,
       "XP": 75,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "leviathan03",
@@ -223,9 +223,9 @@
       "ID": "unlockPlasmaMoon",
       "SetID": "bma0pih",
       "Name": "Solar power",
-      "Percentage": 71,
+      "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     }
   ],
   "AchievementSets": [
@@ -237,8 +237,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-07T09:02:54.6493409+00:00",
-  "LastChanged_Achievements": "2023-07-09T05:06:20.3089236+00:00",
+  "LastChanged_Achievements": "2023-07-09T06:05:12.0141301+00:00",
   "LastUpdate_AppInfo": "2023-07-02T13:56:54.1051375+00:00",
-  "LastUpdate_Ratings": "2023-07-09T04:57:36.6824907+00:00",
-  "LastUpdate_Achievements": "2023-07-09T05:06:20.3089379+00:00"
+  "LastUpdate_Ratings": "2023-07-09T05:57:18.9434545+00:00",
+  "LastUpdate_Achievements": "2023-07-09T06:05:12.0141427+00:00"
 }
