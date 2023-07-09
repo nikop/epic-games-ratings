@@ -23,11 +23,11 @@
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 21 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.00% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.53% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.52% |
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.51% |
 | 27 | [Time Loader](games/t/time_loader.md) | 7.21% |
-| 28 | [Scorn](games/s/scorn.md) | 7.02% |
+| 28 | [Scorn](games/s/scorn.md) | 7.07% |
 | 29 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.87% |
 | 30 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.82% |
 | 31 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
@@ -46,9 +46,9 @@
 | 44 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.71% |
 | 45 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
 | 46 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.63% |
-| 47 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 3.57% |
-| 48 | [Doodle God](games/d/doodle_god.md) | 3.56% |
-| 49 | [ZZT!](games/z/zzt!.md) | 3.49% |
+| 47 | [Doodle God](games/d/doodle_god.md) | 3.56% |
+| 48 | [ZZT!](games/z/zzt!.md) | 3.49% |
+| 49 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 3.45% |
 | 50 | [Bunny Park](games/b/bunny_park.md) | 3.42% |
 | 51 | [Monster Harvest](games/m/monster_harvest.md) | 3.38% |
 | 52 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.33% |
@@ -93,7 +93,7 @@
 | 91 | [Late Shift](games/l/late_shift.md) | 1.35% |
 | 92 | [Five Dates](games/f/five_dates.md) | 1.30% |
 | 93 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.25% |
-| 93 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.25% |
+| 94 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.23% |
 | 95 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.21% |
 | 96 | [Chorus](games/c/chorus.md) | 1.17% |
 | 97 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.15% |
