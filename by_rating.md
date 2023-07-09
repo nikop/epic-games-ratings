@@ -168,7 +168,7 @@
 | 157 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 79 | 353 |
 | 167 | [Fez](games/f/fez.md) | 4.72 | 23 | 481 |
 | 167 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 470 | 196 |
-| 167 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.72 | 2,096 | 107 |
+| 167 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.72 | 2,241 | 103 |
 | 167 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.72 | 0 | 504 |
 | 167 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 140 | 297 |
 | 167 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.72 | 39 | 423 |
@@ -262,7 +262,7 @@
 | 258 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 504 |
 | 258 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.67 | 2,275 | 102 |
 | 258 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 592 | 177 |
-| 258 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,234 | 103 |
+| 258 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,234 | 104 |
 | 258 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.67 | 50 | 398 |
 | 258 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 0 | 504 |
 | 258 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 0 | 504 |
@@ -332,7 +332,7 @@
 | 330 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 21 | 492 |
 | 330 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.63 | 0 | 504 |
 | 330 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 114 | 316 |
-| 330 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 2,166 | 105 |
+| 330 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 2,166 | 106 |
 | 330 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.63 | 66 | 376 |
 | 330 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 0 | 504 |
 | 330 | [Road 96](games/r/road_96.md) | 4.63 | 0 | 504 |
@@ -443,7 +443,7 @@
 | 439 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.57 | 27 | 465 |
 | 439 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 0 | 504 |
 | 439 | [Hob](games/h/hob.md) | 4.57 | 0 | 504 |
-| 439 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,545 | 44 |
+| 439 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,550 | 44 |
 | 439 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,154 | 90 |
 | 439 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.57 | 4,820 | 67 |
 | 439 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 122 | 308 |
@@ -654,7 +654,7 @@
 | 642 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 387 |
 | 642 | [WRC Generations](games/w/wrc_generations.md) | 4.44 | 0 | 504 |
 | 654 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 31 | 453 |
-| 654 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 199 | 270 |
+| 654 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 200 | 269 |
 | 654 | [Good Company](games/g/good_company.md) | 4.43 | 0 | 504 |
 | 654 | [Hell is Others](games/h/hell_is_others.md) | 4.43 | 32 | 446 |
 | 654 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 1,164 | 135 |
@@ -684,7 +684,7 @@
 | 673 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 0 | 504 |
 | 673 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 32 | 446 |
 | 673 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 74 | 362 |
-| 673 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,185 | 104 |
+| 673 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,185 | 105 |
 | 673 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 0 | 504 |
 | 673 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.41 | 548 | 185 |
 | 673 | [Warpips](games/w/warpips.md) | 4.41 | 26 | 471 |
@@ -722,7 +722,7 @@
 | 710 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.38 | 97 | 333 |
 | 721 | [Core](games/c/core.md) | 4.37 | 741 | 158 |
 | 721 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 504 |
-| 721 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,140 | 106 |
+| 721 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,140 | 107 |
 | 721 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 504 |
 | 721 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.37 | 0 | 504 |
 | 721 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.37 | 100 | 329 |
@@ -848,7 +848,7 @@
 | 844 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 33 | 442 |
 | 844 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 0 | 504 |
 | 844 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 76 | 359 |
-| 844 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 185,474 | 5 |
+| 844 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 185,556 | 5 |
 | 844 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 504 |
 | 844 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 0 | 504 |
 | 844 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 65 | 379 |
@@ -869,7 +869,7 @@
 | 862 | [Wreckfest](games/w/wreckfest.md) | 4.16 | 0 | 504 |
 | 868 | [Chernobylite](games/c/chernobylite.md) | 4.15 | 0 | 504 |
 | 868 | [Pine](games/p/pine.md) | 4.15 | 0 | 504 |
-| 868 | [Relicta](games/r/relicta.md) | 4.15 | 199 | 270 |
+| 868 | [Relicta](games/r/relicta.md) | 4.15 | 199 | 271 |
 | 868 | [The Alien Cube](games/t/the_alien_cube.md) | 4.15 | 0 | 504 |
 | 868 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 0 | 504 |
 | 868 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.15 | 0 | 504 |

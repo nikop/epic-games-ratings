@@ -106,7 +106,7 @@
 | 104 | [Adios](games/a/adios.md) | 0.94% |
 | 105 | [Hades](games/h/hades.md) | 0.89% |
 | 106 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
-| 107 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
+| 107 | [Dungeons 3](games/d/dungeons_3.md) | 0.84% |
 | 108 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.77% |
 | 108 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.77% |
 | 110 | [Lemon Cake](games/l/lemon_cake.md) | 0.76% |

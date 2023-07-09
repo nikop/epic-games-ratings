@@ -4,7 +4,7 @@
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 467,770 | 4.50 | 551 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 299,717 | 4.68 | 238 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 196,293 | 4.68 | 238 |
-| 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 185,474 | 4.19 | 844 |
+| 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 185,556 | 4.19 | 844 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 157,729 | 4.88 | 19 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 143,773 | 4.52 | 520 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 112,618 | 4.69 | 218 |
@@ -43,7 +43,7 @@
 | 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,681 | 4.85 | 41 |
 | 42 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 7,669 | 4.89 | 12 |
 | 43 | [Supraland](games/s/supraland.md) | 7,641 | 4.61 | 362 |
-| 44 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,545 | 4.57 | 439 |
+| 44 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,550 | 4.57 | 439 |
 | 45 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 7,505 | 4.48 | 585 |
 | 46 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,307 | 4.71 | 181 |
 | 47 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 7,252 | 4.68 | 238 |
@@ -102,11 +102,11 @@
 | 100 | [Gotham Knights](games/g/gotham_knights.md) | 2,425 | 4.18 | 854 |
 | 101 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,347 | 4.78 | 100 |
 | 102 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2,275 | 4.67 | 258 |
-| 103 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,234 | 4.67 | 258 |
-| 104 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,185 | 4.41 | 673 |
-| 105 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,166 | 4.63 | 330 |
-| 106 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,140 | 4.37 | 721 |
-| 107 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 2,096 | 4.72 | 167 |
+| 103 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 2,241 | 4.72 | 167 |
+| 104 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,234 | 4.67 | 258 |
+| 105 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,185 | 4.41 | 673 |
+| 106 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,166 | 4.63 | 330 |
+| 107 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,140 | 4.37 | 721 |
 | 108 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2,076 | 4.48 | 585 |
 | 109 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 1,978 | 4.49 | 573 |
 | 110 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 1,891 | 4.66 | 270 |
@@ -269,8 +269,8 @@
 | 267 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 202 | 4.35 | 737 |
 | 268 | [HITMAN](games/h/hitman.md) | 201 | 4.64 | 311 |
 | 269 | [Brawlhalla](games/b/brawlhalla.md) | 200 | 4.60 | 389 |
-| 270 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 199 | 4.43 | 654 |
-| 270 | [Relicta](games/r/relicta.md) | 199 | 4.15 | 868 |
+| 269 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 200 | 4.43 | 654 |
+| 271 | [Relicta](games/r/relicta.md) | 199 | 4.15 | 868 |
 | 272 | [Crashlands](games/c/crashlands.md) | 191 | 4.66 | 270 |
 | 273 | [Unrailed!](games/u/unrailed!.md) | 190 | 4.64 | 311 |
 | 274 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 187 | 4.51 | 538 |
