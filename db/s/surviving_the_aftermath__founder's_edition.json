@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1101,7 +1101,7 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 7233,
+  "EOS_Progressed": 7234,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 0,
@@ -7686,6 +7686,11 @@
       "Time": "2023-07-09T18:04:58.7056492+00:00",
       "NumProgressed": 7233,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-09T19:05:10.1604439+00:00",
+      "NumProgressed": 7234,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -7697,7 +7702,7 @@
       "Name": "Leader",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4412
+      "UsersEstimate": 4413
     },
     {
       "ID": "10",
@@ -7729,7 +7734,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3833
+      "UsersEstimate": 3834
     },
     {
       "ID": "14",
@@ -7737,7 +7742,7 @@
       "Name": "Famous Explorer",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2459
+      "UsersEstimate": 2460
     },
     {
       "ID": "15",
@@ -7777,7 +7782,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 3761
+      "UsersEstimate": 3762
     },
     {
       "ID": "2",
@@ -7801,7 +7806,7 @@
       "Name": "The Great Healer",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 2242
+      "UsersEstimate": 2243
     },
     {
       "ID": "22",
@@ -7809,7 +7814,7 @@
       "Name": "First Step",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 5135
+      "UsersEstimate": 5136
     },
     {
       "ID": "23",
@@ -7817,7 +7822,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2459
+      "UsersEstimate": 2460
     },
     {
       "ID": "24",
@@ -7833,7 +7838,7 @@
       "Name": "Cleaner",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2025
+      "UsersEstimate": 2026
     },
     {
       "ID": "26",
@@ -7961,7 +7966,7 @@
       "Name": "Catastrofan",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2025
+      "UsersEstimate": 2026
     },
     {
       "ID": "40",
@@ -8168,15 +8173,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 7233,
+      "Progressed": 7234,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-07-07T12:01:01.0535513+00:00",
-  "LastChanged_Achievements": "2023-07-09T18:04:58.7056482+00:00",
+  "LastChanged_Achievements": "2023-07-09T19:05:10.1604435+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:19.4551876+00:00",
-  "LastUpdate_Ratings": "2023-07-09T18:00:44.5359326+00:00",
-  "LastUpdate_Achievements": "2023-07-09T18:04:58.705722+00:00"
+  "LastUpdate_Ratings": "2023-07-09T19:01:02.7851278+00:00",
+  "LastUpdate_Achievements": "2023-07-09T19:05:10.1605232+00:00"
 }

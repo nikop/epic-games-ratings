@@ -4,8 +4,8 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3983,
+  "EOS_Progressed": 3986,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 302,
   "EOS_NewCompleters": 0,
@@ -5761,6 +5761,11 @@
       "Time": "2023-07-09T18:06:57.4882918+00:00",
       "NumProgressed": 3983,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-09T19:07:32.9730425+00:00",
+      "NumProgressed": 3986,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -5772,7 +5777,7 @@
       "Name": "First Step",
       "Percentage": 39,
       "XP": 45,
-      "UsersEstimate": 1553
+      "UsersEstimate": 1555
     },
     {
       "ID": "10",
@@ -5788,7 +5793,7 @@
       "Name": "Telepathic",
       "Percentage": 10,
       "XP": 70,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "12",
@@ -5828,7 +5833,7 @@
       "Name": "Dense Forest",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1315
     },
     {
       "ID": "3",
@@ -5852,7 +5857,7 @@
       "Name": "Snowy Peak",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "6",
@@ -5891,7 +5896,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 3983,
+      "Progressed": 3986,
       "Completed": 0
     }
   ],
@@ -5899,8 +5904,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-07-09T18:06:57.4882911+00:00",
+  "LastChanged_Achievements": "2023-07-09T19:07:32.973042+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:39.9836246+00:00",
-  "LastUpdate_Ratings": "2023-07-09T17:58:33.428384+00:00",
-  "LastUpdate_Achievements": "2023-07-09T18:06:57.4883253+00:00"
+  "LastUpdate_Ratings": "2023-07-09T18:58:41.3254361+00:00",
+  "LastUpdate_Achievements": "2023-07-09T19:07:32.9730772+00:00"
 }

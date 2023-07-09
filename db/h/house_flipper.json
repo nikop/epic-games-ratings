@@ -4,11 +4,11 @@
   "ProductSlug": "house-flipper",
   "Ranking_Rating": 218,
   "Ranking_Popularity": 232,
-  "Ranking_PopularitySum": 186,
+  "Ranking_PopularitySum": 187,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -1712,7 +1712,7 @@
   ],
   "EOS_Progressed": 19869,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5816,8 +5816,8 @@
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-07-07T11:00:14.6852769+00:00",
-  "LastChanged_Achievements": "2023-07-09T18:06:58.7645021+00:00",
+  "LastChanged_Achievements": "2023-07-09T19:07:34.4439435+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:44.7849025+00:00",
-  "LastUpdate_Ratings": "2023-07-09T18:00:13.177272+00:00",
-  "LastUpdate_Achievements": "2023-07-09T18:06:58.7645338+00:00"
+  "LastUpdate_Ratings": "2023-07-09T19:00:32.4669649+00:00",
+  "LastUpdate_Achievements": "2023-07-09T19:07:34.4439756+00:00"
 }

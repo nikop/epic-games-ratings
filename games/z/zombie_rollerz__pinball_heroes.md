@@ -47,25 +47,25 @@
 | The Exorcist | 5.00% | ~6 |
 | Mithril | 5.00% | ~6 |
 | Analyzed | 4.00% | ~5 |
+| Tongs | 4.00% | ~5 |
 | Aluminum | 4.00% | ~5 |
 | Anvil | 4.00% | ~5 |
 | Combo Master | 3.00% | ~3 |
 | It's a Trap! | 3.00% | ~3 |
-| Tongs | 3.00% | ~3 |
 | Concluded | 3.00% | ~3 |
+| Really Bad Luck | 2.00% | ~2 |
 | Chorus | 2.00% | ~2 |
 | TNT | 2.00% | ~2 |
 | Titanium | 2.00% | ~2 |
+| Rocket | 2.00% | ~2 |
 | Nuclear Bomb | 2.00% | ~2 |
 | Divinity | 2.00% | ~2 |
 | Platinum | 2.00% | ~2 |
 | Hammer | 2.00% | ~2 |
 | Gunpowder | 2.00% | ~2 |
-| Really Bad Luck | 0.90% | ~1 |
 | Blaze | 0.90% | ~1 |
 | Topaz | 0.90% | ~1 |
 | Immortality | 0.90% | ~1 |
-| Rocket | 0.90% | ~1 |
 | Inferno | 0.90% | ~1 |
 | Sapphire | 0.90% | ~1 |
 | Encore | 0.90% | ~1 |

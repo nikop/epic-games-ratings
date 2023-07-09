@@ -6,30 +6,30 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~7,236 |
-| Battering Crew | 20.00% | ~3,618 |
-| The Kingsroad | 18.00% | ~3,256 |
-| Well Stocked | 14.00% | ~2,532 |
-| Royal Fleet | 14.00% | ~2,532 |
+| Conqueror | 40.00% | ~7,238 |
+| Battering Crew | 20.00% | ~3,619 |
+| The Kingsroad | 18.00% | ~3,257 |
+| Well Stocked | 14.00% | ~2,533 |
+| Royal Fleet | 14.00% | ~2,533 |
 | The Kraken’s Grasp | 9.00% | ~1,628 |
 | Alliance | 9.00% | ~1,628 |
-| Daggers in the Dark | 8.00% | ~1,447 |
-| Oathkeeper | 8.00% | ~1,447 |
-| A Long Journey | 8.00% | ~1,447 |
-| Ours is the Fury | 7.00% | ~1,266 |
-| Winter is Coming | 7.00% | ~1,266 |
-| Influential | 7.00% | ~1,266 |
-| We Do Not Sow | 6.00% | ~1,085 |
-| Unbowed, Unbent, Unbroken | 6.00% | ~1,085 |
-| Hear me Roar! | 6.00% | ~1,085 |
-| Defender of the Wall | 6.00% | ~1,085 |
-| Growing Strong | 5.00% | ~904 |
+| Daggers in the Dark | 8.00% | ~1,448 |
+| Oathkeeper | 8.00% | ~1,448 |
+| A Long Journey | 8.00% | ~1,448 |
+| Ours is the Fury | 7.00% | ~1,267 |
+| Winter is Coming | 7.00% | ~1,267 |
+| Influential | 7.00% | ~1,267 |
+| We Do Not Sow | 6.00% | ~1,086 |
+| Unbowed, Unbent, Unbroken | 6.00% | ~1,086 |
+| Hear me Roar! | 6.00% | ~1,086 |
+| Defender of the Wall | 6.00% | ~1,086 |
+| Growing Strong | 5.00% | ~905 |
 | What is Dead may Never Die | 3.00% | ~543 |
 | The Swift | 3.00% | ~543 |
 | King in the North | 2.00% | ~362 |
 | War of the Five Kings | 1.00% | ~181 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,089 (Ranked 104)  
+Progressed: 18,094 (Ranked 104)  
 Completed: 36 (0.20%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 36 (0.20%) (Ranked 163)
 | 2023-07-06 | 17,805 | 34 |
 | 2023-07-07 | 17,902 | 34 |
 | 2023-07-08 | 18,012 | 36 |
-| 2023-07-09 | 18,089 | 36 |
+| 2023-07-09 | 18,094 | 36 |
 ## Awards
 Max (Quickly Understood Controls): 123  (Ranked 307)  
 Sum: 784 (Ranked 259)  

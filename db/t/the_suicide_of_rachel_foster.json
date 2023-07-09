@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 36,
-  "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
     "PcReleaseDate": "2020-02-19T00:00:00+00:00",
@@ -242,11 +242,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1219,
+  "EOS_Progressed": 1220,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.09,
+  "EOS_Completed_Percentage": 5.08,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:57.7032048+00:00",
@@ -1417,6 +1417,11 @@
       "Time": "2023-07-09T13:12:47.1614964+00:00",
       "NumProgressed": 1219,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-07-09T19:02:13.7860662+00:00",
+      "NumProgressed": 1220,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 11,
@@ -1442,9 +1447,9 @@
       "ID": "ACH_Cacciavite",
       "SetID": "7a9m7mj",
       "Name": "Screwdriver",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 536
+      "UsersEstimate": 549
     },
     {
       "ID": "ACH_DialogoAspettoFisico",
@@ -1492,7 +1497,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -1515,15 +1520,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1219,
+      "Progressed": 1220,
       "Completed": 62
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "LastChanged_Achievements": "2023-07-09T18:02:05.5307316+00:00",
+  "LastChanged_Achievements": "2023-07-09T19:02:13.7860658+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:31.735172+00:00",
-  "LastUpdate_Ratings": "2023-07-09T18:00:55.5269998+00:00",
-  "LastUpdate_Achievements": "2023-07-09T18:02:05.5307495+00:00"
+  "LastUpdate_Ratings": "2023-07-09T19:01:16.3317738+00:00",
+  "LastUpdate_Achievements": "2023-07-09T19:02:13.7860784+00:00"
 }

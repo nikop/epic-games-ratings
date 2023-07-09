@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
     "PcReleaseDate": "2022-03-17T09:00:00+00:00",
@@ -473,9 +473,9 @@
       "ID": "I_just_love_stuff",
       "SetID": "gl7plp",
       "Name": "I just love stuff!",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 265
+      "UsersEstimate": 271
     },
     {
       "ID": "I_think_its_broke",
@@ -682,8 +682,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-07-03T09:58:01.4780031+00:00",
-  "LastChanged_Achievements": "2023-07-09T18:04:20.2980151+00:00",
+  "LastChanged_Achievements": "2023-07-09T19:04:27.5852356+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:00.1261092+00:00",
-  "LastUpdate_Ratings": "2023-07-09T17:58:02.150882+00:00",
-  "LastUpdate_Achievements": "2023-07-09T18:04:20.2980358+00:00"
+  "LastUpdate_Ratings": "2023-07-09T18:58:06.1967275+00:00",
+  "LastUpdate_Achievements": "2023-07-09T19:04:27.5852581+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 26,
   "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -2727,9 +2727,9 @@
       "ID": "20",
       "SetID": "d0g98p",
       "Name": "Stardust",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 364
+      "UsersEstimate": 374
     },
     {
       "ID": "21",
@@ -3040,8 +3040,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-07-09T18:07:01.7562714+00:00",
+  "LastChanged_Achievements": "2023-07-09T19:07:37.83699+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:44.4971469+00:00",
-  "LastUpdate_Ratings": "2023-07-09T17:57:52.3671729+00:00",
-  "LastUpdate_Achievements": "2023-07-09T18:07:01.7563184+00:00"
+  "LastUpdate_Ratings": "2023-07-09T18:57:53.2829772+00:00",
+  "LastUpdate_Achievements": "2023-07-09T19:07:37.8370407+00:00"
 }

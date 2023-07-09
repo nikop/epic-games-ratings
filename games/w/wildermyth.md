@@ -11,7 +11,7 @@ Number of Ratings: 45  (23.09.2022)
 | This Too Shall Pass | 29.00% | ~377 |
 | Passing Shadow | 28.00% | ~364 |
 | Cutthroat Competitors | 27.00% | ~351 |
-| How Romantic! | 25.00% | ~325 |
+| How Romantic! | 26.00% | ~338 |
 | Daybreak | 25.00% | ~325 |
 | Gotta Ca... Must Collect All of Them | 23.00% | ~299 |
 | Completing the Look | 13.00% | ~169 |
@@ -64,7 +64,7 @@ Number of Ratings: 45  (23.09.2022)
 | Peacemaker | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,299 (Ranked 176)  
-Completed: 5 (0.38%) (Ranked 138)  
+Completed: 5 (0.38%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

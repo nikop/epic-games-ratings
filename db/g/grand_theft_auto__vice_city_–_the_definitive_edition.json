@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -520,9 +520,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 8909,
+  "EOS_Progressed": 8911,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -6070,6 +6070,11 @@
       "Time": "2023-07-09T13:15:22.8483427+00:00",
       "NumProgressed": 8909,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-09T19:02:00.9785631+00:00",
+      "NumProgressed": 8911,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -6185,7 +6190,7 @@
       "Name": "Greasy Palms",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3653
+      "UsersEstimate": 3654
     },
     {
       "ID": "ACH15",
@@ -6241,7 +6246,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4009
+      "UsersEstimate": 4010
     },
     {
       "ID": "ACH22",
@@ -6257,7 +6262,7 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2227
+      "UsersEstimate": 2228
     },
     {
       "ID": "ACH24",
@@ -6265,7 +6270,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "ACH25",
@@ -6273,7 +6278,7 @@
       "Name": "Chauffeur",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "ACH26",
@@ -6281,7 +6286,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1336
+      "UsersEstimate": 1337
     },
     {
       "ID": "ACH27",
@@ -6289,7 +6294,7 @@
       "Name": "Grand Theft Auto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "ACH28",
@@ -6352,7 +6357,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8909,
+      "Progressed": 8911,
       "Completed": 43
     }
   ],
@@ -6360,8 +6365,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-07T10:58:53.3105834+00:00",
-  "LastChanged_Achievements": "2023-07-09T18:01:34.0042843+00:00",
+  "LastChanged_Achievements": "2023-07-09T19:02:00.9785626+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:55.3864428+00:00",
-  "LastUpdate_Ratings": "2023-07-09T17:58:46.2508731+00:00",
-  "LastUpdate_Achievements": "2023-07-09T18:01:34.0043349+00:00"
+  "LastUpdate_Ratings": "2023-07-09T18:58:54.6181816+00:00",
+  "LastUpdate_Achievements": "2023-07-09T19:02:00.9786154+00:00"
 }

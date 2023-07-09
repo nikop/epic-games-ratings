@@ -14,18 +14,18 @@
 | First aid | 60.00% | ~75 |
 | Soundtrack | 60.00% | ~75 |
 | Antidote | 50.00% | ~62 |
-| Pick the right door | 22.00% | ~28 |
+| Pick the right door | 23.00% | ~29 |
 | One-way | 14.00% | ~18 |
 | The third floor | 14.00% | ~18 |
 | On the right path | 13.00% | ~16 |
 | It can't be true | 12.00% | ~15 |
+| He who seeks, finds! | 11.00% | ~14 |
 | I'm close now | 10.00% | ~12 |
 | Failed attempt | 10.00% | ~12 |
 | The real escape | 10.00% | ~12 |
 | Nightmare in the kitchen | 10.00% | ~12 |
 | Good choice | 10.00% | ~12 |
 | Take the long way round | 10.00% | ~12 |
-| He who seeks, finds! | 10.00% | ~12 |
 | Born again | 7.00% | ~9 |
 | 373 | 6.00% | ~8 |
 | The experiment | 6.00% | ~8 |

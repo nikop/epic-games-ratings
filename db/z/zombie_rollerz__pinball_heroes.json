@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
     "PcReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -520,9 +520,9 @@
       "ID": "PRG_ACCUM_CURSE",
       "SetID": "89cjc9l",
       "Name": "Really Bad Luck",
-      "Percentage": 0.9,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PRG_ACCUM_EVENT",
@@ -720,17 +720,17 @@
       "ID": "PRG_HARD_10009",
       "SetID": "89cjc9l",
       "Name": "Tongs",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "PRG_HARD_10010",
       "SetID": "89cjc9l",
       "Name": "Rocket",
-      "Percentage": 0.9,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PRG_HARD_ALL",
@@ -953,8 +953,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-07-09T18:02:17.2429481+00:00",
+  "LastChanged_Achievements": "2023-07-09T19:02:26.6220819+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:47.3455238+00:00",
-  "LastUpdate_Ratings": "2023-07-09T17:57:54.9398956+00:00",
-  "LastUpdate_Achievements": "2023-07-09T18:02:17.2430094+00:00"
+  "LastUpdate_Ratings": "2023-07-09T18:57:56.2560855+00:00",
+  "LastUpdate_Achievements": "2023-07-09T19:02:26.6221442+00:00"
 }

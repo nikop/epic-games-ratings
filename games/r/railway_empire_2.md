@@ -1,22 +1,22 @@
 # Railway Empire 2
 [Store](https://store.epicgames.com/en-US/p/railway-empire-2-46840c)  
 [View Rawdata](../../db/r/railway_empire_2.json)  
-Rating: 4.46 (Ranked 606)  
+Rating: 4.46 (Ranked 607)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Country Bumpkin | 74.00% | ~1,117 |
 | A new Journey | 73.00% | ~1,102 |
-| Departure | 72.00% | ~1,086 |
-| From X to Y | 71.00% | ~1,071 |
-| Way of Iron | 70.00% | ~1,056 |
-| Mystery Tour | 68.00% | ~1,026 |
-| We brake for nobody | 66.00% | ~996 |
-| Brainstorm | 65.00% | ~981 |
+| Departure | 72.00% | ~1,087 |
+| From X to Y | 71.00% | ~1,072 |
+| Way of Iron | 70.00% | ~1,057 |
+| Mystery Tour | 67.00% | ~1,012 |
+| We brake for nobody | 66.00% | ~997 |
+| Brainstorm | 65.00% | ~982 |
 | Mind the Gap | 64.00% | ~966 |
 | Travel Company | 64.00% | ~966 |
 | All around the World | 62.00% | ~936 |
-| Right through the middle | 57.00% | ~860 |
+| Right through the middle | 57.00% | ~861 |
 | Facility Manager | 54.00% | ~815 |
 | Poor Devil | 54.00% | ~815 |
 | Producer | 51.00% | ~770 |
@@ -30,19 +30,19 @@ Rating: 4.46 (Ranked 606)
 | Financial Shark | 30.00% | ~453 |
 | All mine | 29.00% | ~438 |
 | Mole | 29.00% | ~438 |
-| Socializer | 27.00% | ~407 |
-| General Manager | 26.00% | ~392 |
-| Country Life | 26.00% | ~392 |
-| Hostile Takeover | 25.00% | ~377 |
+| Socializer | 27.00% | ~408 |
+| General Manager | 26.00% | ~393 |
+| Country Life | 26.00% | ~393 |
+| Hostile Takeover | 25.00% | ~378 |
 | Seven at one stroke | 24.00% | ~362 |
 | Trailblazer | 20.00% | ~302 |
 | Breaking Ground | 20.00% | ~302 |
 | Traffic Junction | 19.00% | ~287 |
 | Traffic Jam | 18.00% | ~272 |
-| Resistance is futile | 16.00% | ~241 |
-| Assimilated | 16.00% | ~241 |
-| Locusts | 16.00% | ~241 |
-| Networker | 16.00% | ~241 |
+| Assimilated | 16.00% | ~242 |
+| Locusts | 16.00% | ~242 |
+| Networker | 16.00% | ~242 |
+| Resistance is futile | 15.00% | ~226 |
 | Settler | 14.00% | ~211 |
 | Max Power | 13.00% | ~196 |
 | Go West | 12.00% | ~181 |
@@ -51,7 +51,7 @@ Rating: 4.46 (Ranked 606)
 | Tycoon | 9.00% | ~136 |
 | Unstoppable | 7.00% | ~106 |
 | Track to the Future | 7.00% | ~106 |
-| Conductor | 6.00% | ~91 |
+| Conductor | 5.00% | ~76 |
 | Call of Duty | 4.00% | ~60 |
 | Let off some steam | 3.00% | ~45 |
 | Engineer | 2.00% | ~30 |
@@ -61,7 +61,7 @@ Rating: 4.46 (Ranked 606)
 | United States | 0.30% | ~5 |
 | Three Cheers for Progress | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,509 (Ranked 170)  
+Progressed: 1,510 (Ranked 170)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-06 | 1,482 | 0 |
 | 2023-07-07 | 1,487 | 0 |
 | 2023-07-08 | 1,500 | 0 |
-| 2023-07-09 | 1,509 | 0 |
+| 2023-07-09 | 1,510 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

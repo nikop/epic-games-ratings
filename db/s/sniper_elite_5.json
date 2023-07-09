@@ -2,7 +2,7 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 606,
+  "Ranking_Rating": 607,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 146,
@@ -388,7 +388,7 @@
   "Tags": [],
   "EOS_Progressed": 3241,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -5438,8 +5438,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-09T17:00:09.7072856+00:00",
-  "LastChanged_Achievements": "2023-07-09T18:03:09.0693691+00:00",
+  "LastChanged_Achievements": "2023-07-09T19:03:08.9682328+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:07.1687539+00:00",
-  "LastUpdate_Ratings": "2023-07-09T18:01:25.9890125+00:00",
-  "LastUpdate_Achievements": "2023-07-09T18:03:09.0694465+00:00"
+  "LastUpdate_Ratings": "2023-07-09T19:01:50.0926418+00:00",
+  "LastUpdate_Achievements": "2023-07-09T19:03:08.9683131+00:00"
 }

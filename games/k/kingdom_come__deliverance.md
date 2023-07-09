@@ -6,28 +6,28 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~245,439 |
-| Cavalier | 25.00% | ~197,935 |
-| Fatso | 23.00% | ~182,100 |
-| Awakening | 20.00% | ~158,348 |
-| Ranger | 20.00% | ~158,348 |
-| Scrooge | 20.00% | ~158,348 |
-| Anorectic | 16.00% | ~126,678 |
-| Firestarter | 15.00% | ~118,761 |
-| Bookworm | 14.00% | ~110,844 |
-| Insomniac | 13.00% | ~102,926 |
-| Buddy | 12.00% | ~95,009 |
-| Thief | 12.00% | ~95,009 |
-| Sinner | 11.00% | ~87,091 |
-| Convict | 10.00% | ~79,174 |
-| Traveller | 10.00% | ~79,174 |
-| Haggler | 9.00% | ~71,257 |
-| McLovin | 7.00% | ~55,422 |
-| Runt | 7.00% | ~55,422 |
-| Casanova | 6.00% | ~47,504 |
-| Bad Trip | 5.00% | ~39,587 |
-| Monk | 5.00% | ~39,587 |
-| Serial Killer | 5.00% | ~39,587 |
+| Blacksmith's Son | 31.00% | ~245,442 |
+| Cavalier | 25.00% | ~197,938 |
+| Fatso | 23.00% | ~182,102 |
+| Awakening | 20.00% | ~158,350 |
+| Ranger | 20.00% | ~158,350 |
+| Scrooge | 20.00% | ~158,350 |
+| Anorectic | 16.00% | ~126,680 |
+| Firestarter | 15.00% | ~118,762 |
+| Bookworm | 14.00% | ~110,845 |
+| Insomniac | 13.00% | ~102,928 |
+| Buddy | 12.00% | ~95,010 |
+| Thief | 12.00% | ~95,010 |
+| Sinner | 11.00% | ~87,092 |
+| Convict | 10.00% | ~79,175 |
+| Traveller | 10.00% | ~79,175 |
+| Haggler | 9.00% | ~71,258 |
+| McLovin | 7.00% | ~55,423 |
+| Runt | 7.00% | ~55,423 |
+| Casanova | 6.00% | ~47,505 |
+| Bad Trip | 5.00% | ~39,588 |
+| Monk | 5.00% | ~39,588 |
+| Serial Killer | 5.00% | ~39,588 |
 | Bastard | 4.00% | ~31,670 |
 | Hunter | 4.00% | ~31,670 |
 | Plague Doctor | 4.00% | ~31,670 |
@@ -44,13 +44,13 @@ Number of Ratings: 9,133  (23.09.2022)
 | Robber Baron | 2.00% | ~15,835 |
 | Talmberger | 2.00% | ~15,835 |
 | The End | 2.00% | ~15,835 |
-| Woman's Lot | 1.00% | ~7,917 |
-| Chivalrous Soul | 1.00% | ~7,917 |
-| Spoilsport | 1.00% | ~7,917 |
-| Freud | 1.00% | ~7,917 |
-| Gambler | 1.00% | ~7,917 |
-| Master Huntsman | 1.00% | ~7,917 |
-| Stealth Killer | 1.00% | ~7,917 |
+| Woman's Lot | 1.00% | ~7,918 |
+| Chivalrous Soul | 1.00% | ~7,918 |
+| Spoilsport | 1.00% | ~7,918 |
+| Freud | 1.00% | ~7,918 |
+| Gambler | 1.00% | ~7,918 |
+| Master Huntsman | 1.00% | ~7,918 |
+| Stealth Killer | 1.00% | ~7,918 |
 | Bailiff | 0.90% | ~7,126 |
 | Tracker | 0.80% | ~6,334 |
 | David Horak | 0.70% | ~5,542 |
@@ -62,12 +62,12 @@ Number of Ratings: 9,133  (23.09.2022)
 | Perfectionist | 0.40% | ~3,167 |
 | Alcoholic | 0.30% | ~2,375 |
 | Sniper | 0.30% | ~2,375 |
-| Angel of Mercy | 0.20% | ~1,583 |
-| Christian Burial | 0.20% | ~1,583 |
-| Friends without benefits | 0.20% | ~1,583 |
-| Game Over | 0.20% | ~1,583 |
-| Not-so-Christian Burial | 0.20% | ~1,583 |
-| True Friend | 0.20% | ~1,583 |
+| Angel of Mercy | 0.20% | ~1,584 |
+| Christian Burial | 0.20% | ~1,584 |
+| Friends without benefits | 0.20% | ~1,584 |
+| Game Over | 0.20% | ~1,584 |
+| Not-so-Christian Burial | 0.20% | ~1,584 |
+| True Friend | 0.20% | ~1,584 |
 | Bad Girl | 0.10% | ~792 |
 | Cleric's pet | 0.10% | ~792 |
 | Full House Sinner | 0.10% | ~792 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~792 |
 | Wingman | 0.10% | ~792 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 791,740 (Ranked 15)  
+Progressed: 791,750 (Ranked 15)  
 Completed: 44 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,17 +169,17 @@ Completed: 44 (0.01%) (Ranked 223)
 | 2023-07-06 | 791,290 | 44 |
 | 2023-07-07 | 791,429 | 44 |
 | 2023-07-08 | 791,603 | 44 |
-| 2023-07-09 | 791,740 | 44 |
+| 2023-07-09 | 791,750 | 44 |
 ## Awards
 Max (Character Customization): 7,307  (Ranked 46)  
-Sum: 27,245 (Ranked 43)  
+Sum: 27,246 (Ranked 43)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,307 |
 | This game has Great Boss Battles | 5,366 |
 | This game has Challenging Combat | 1,710 |
-| This game has Amazing Storytelling | 1,669 |
+| This game has Amazing Storytelling | 1,670 |
 | This game has Diverse Characters | 1,646 |
 | This game is Extremely Fun | 1,640 |
 | This game is Highly Recommended | 1,632 |
@@ -356,4 +356,4 @@ Diff (max vs sum): 3
 | 2023-07-06 | 4.71 | - | 7,298 | 27,224 |
 | 2023-07-07 | 4.71 | - | 7,303 | 27,229 |
 | 2023-07-08 | 4.71 | - | 7,307 | 27,238 |
-| 2023-07-09 | 4.71 | - | 7,307 | 27,245 |
+| 2023-07-09 | 4.71 | - | 7,307 | 27,246 |

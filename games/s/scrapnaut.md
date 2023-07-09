@@ -9,7 +9,7 @@ Number of Ratings: 38  (23.09.2022)
 | My New Home | 60.00% | ~176 |
 | Scrap Gatherer | 58.00% | ~171 |
 | Mushroom Picker | 56.00% | ~165 |
-| Scrapper | 48.00% | ~141 |
+| Scrapper | 49.00% | ~144 |
 | Teleport | 42.00% | ~123 |
 | Cook | 41.00% | ~121 |
 | Scrap Master | 39.00% | ~115 |
@@ -31,10 +31,10 @@ Number of Ratings: 38  (23.09.2022)
 | Fuel | 11.00% | ~32 |
 | Master Of Management | 10.00% | ~29 |
 | Forest Lord | 10.00% | ~29 |
-| Smelting Master | 9.00% | ~26 |
+| Smelting Master | 10.00% | ~29 |
 | Black Gold | 8.00% | ~24 |
+| Survival Master | 5.00% | ~15 |
 | Traveler | 4.00% | ~12 |
-| Survival Master | 4.00% | ~12 |
 | Forest Killer | 1.00% | ~3 |
 | Invincible | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
