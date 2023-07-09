@@ -5,15 +5,15 @@ Rating: 4.26 (Ranked 801)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~151,081 |
+| Corner Clout | 46.00% | ~151,082 |
 | Copacetic Coordination | 16.00% | ~52,550 |
-| Fronting the Money | 14.00% | ~45,981 |
-| The Dawn of Automation | 14.00% | ~45,981 |
-| Extraordinary Logistics | 14.00% | ~45,981 |
+| Fronting the Money | 14.00% | ~45,982 |
+| The Dawn of Automation | 14.00% | ~45,982 |
+| Extraordinary Logistics | 14.00% | ~45,982 |
 | Dirty Money | 13.00% | ~42,697 |
 | Family First | 13.00% | ~42,697 |
-| Cleaning House | 12.00% | ~39,412 |
-| Room in the Back | 12.00% | ~39,412 |
+| Cleaning House | 12.00% | ~39,413 |
+| Room in the Back | 12.00% | ~39,413 |
 | Booze Baron | 11.00% | ~36,128 |
 | Beating the Heat | 10.00% | ~32,844 |
 | Friends on the Force | 10.00% | ~32,844 |
@@ -36,11 +36,11 @@ Rating: 4.26 (Ranked 801)
 | Moving Experiences | 5.00% | ~16,422 |
 | Mission Mastery | 5.00% | ~16,422 |
 | Wise Head | 5.00% | ~16,422 |
-| Considerable Clams | 4.00% | ~13,137 |
-| Gin Joint | 4.00% | ~13,137 |
-| An Affront to the Enemy | 4.00% | ~13,137 |
-| Friends from Back Home | 4.00% | ~13,137 |
-| Half Century Mark | 4.00% | ~13,137 |
+| Considerable Clams | 4.00% | ~13,138 |
+| Gin Joint | 4.00% | ~13,138 |
+| An Affront to the Enemy | 4.00% | ~13,138 |
+| Friends from Back Home | 4.00% | ~13,138 |
+| Half Century Mark | 4.00% | ~13,138 |
 | Corner Opportunities | 3.00% | ~9,853 |
 | 2122 North Clark Street | 3.00% | ~9,853 |
 | Copious Cabbage | 3.00% | ~9,853 |
@@ -61,7 +61,7 @@ Rating: 4.26 (Ranked 801)
 | Cat’s Meow Clubs | 1.00% | ~3,284 |
 | Determined Deliveries | 0.90% | ~2,956 |
 | Stepping It Up | 0.90% | ~2,956 |
-| Crossing Over | 0.80% | ~2,627 |
+| Crossing Over | 0.80% | ~2,628 |
 | Boots in the Ground | 0.70% | ~2,299 |
 | Getting Fancy | 0.70% | ~2,299 |
 | Homemade Hooch | 0.40% | ~1,314 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 801)
 | High Pillow | 0.10% | ~328 |
 | Station Master | 0.10% | ~328 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 328,437 (Ranked 40)  
+Progressed: 328,440 (Ranked 40)  
 Completed: 5 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 5 (0.00%) (Ranked 237)
 | 2023-07-06 | 327,936 | 5 |
 | 2023-07-07 | 328,149 | 5 |
 | 2023-07-08 | 328,398 | 5 |
-| 2023-07-09 | 328,437 | 5 |
+| 2023-07-09 | 328,440 | 5 |
 ## Awards
 Max (Highly Recommended): 27  (Ranked 465)  
 Sum: 117 (Ranked 401)  

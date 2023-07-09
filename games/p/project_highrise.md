@@ -24,16 +24,16 @@
 | Lux Living | 22.00% | ~51 |
 | People Mover | 22.00% | ~51 |
 | Leveled Up Shops | 22.00% | ~51 |
+| Get Electrified | 21.00% | ~48 |
 | Rehab Expert | 20.00% | ~46 |
 | Don't Feel a Loan | 20.00% | ~46 |
 | Tasty Profits | 20.00% | ~46 |
 | Emporium Empire | 20.00% | ~46 |
-| Get Electrified | 20.00% | ~46 |
 | Artfully Done | 19.00% | ~44 |
 | We Don't Need No Education | 19.00% | ~44 |
 | Under One Roof | 17.00% | ~39 |
+| Established Fame | 17.00% | ~39 |
 | Cashflow Chief | 17.00% | ~39 |
-| Established Fame | 16.00% | ~37 |
 | Starred Dining | 15.00% | ~34 |
 | Boutique Benefits | 15.00% | ~34 |
 | Terrifically Trashed | 15.00% | ~34 |

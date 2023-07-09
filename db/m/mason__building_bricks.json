@@ -2,9 +2,9 @@
   "ID": "6840592dd7994a8ebfaac93d7515b187",
   "Name": "Mason: Building Bricks",
   "ProductSlug": "mason-building-bricks-73659e",
-  "Ranking_EOS_Progress": 351,
+  "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 21,
-  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-04-14T14:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 39,
+  "EOS_Progressed": 40,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 10.26,
+  "EOS_Completed_Percentage": 10,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:22.155756+00:00",
@@ -173,6 +173,11 @@
       "Time": "2023-07-06T14:06:35.1466464+00:00",
       "NumProgressed": 39,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-09T05:02:28.8816339+00:00",
+      "NumProgressed": 40,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 5,
@@ -214,7 +219,7 @@
       "ID": "Mason_Novice_01",
       "SetID": "77clh7i",
       "Name": "Novice Mason",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 200,
       "UsersEstimate": 20
     }
@@ -223,7 +228,7 @@
     {
       "ID": "77clh7i",
       "IsBase": true,
-      "Progressed": 39,
+      "Progressed": 40,
       "Completed": 4
     }
   ],
@@ -231,8 +236,8 @@
   "FirstSeenRating": "2023-04-19T03:58:31.2715304+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:22.1557568+00:00",
   "LastChanged": "2023-04-19T03:58:31.2715304+00:00",
-  "LastChanged_Achievements": "2023-07-09T04:00:54.2197981+00:00",
+  "LastChanged_Achievements": "2023-07-09T05:02:28.8816333+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:34.4756751+00:00",
-  "LastUpdate_Ratings": "2023-07-09T03:59:36.6318006+00:00",
-  "LastUpdate_Achievements": "2023-07-09T04:00:54.2198082+00:00"
+  "LastUpdate_Ratings": "2023-07-09T05:00:37.7727484+00:00",
+  "LastUpdate_Achievements": "2023-07-09T05:02:28.8816418+00:00"
 }

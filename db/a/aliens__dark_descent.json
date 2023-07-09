@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2742,
+  "EOS_Progressed": 2743,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 374,
+  "EOS_NewPlayers": 371,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2092,6 +2092,11 @@
       "Time": "2023-07-09T03:31:35.3319011+00:00",
       "NumProgressed": 2742,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-09T05:07:45.5889574+00:00",
+      "NumProgressed": 2743,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2135,7 +2140,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -2199,7 +2204,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 1947
+      "UsersEstimate": 1948
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -2215,7 +2220,7 @@
       "Name": "Call Me Snake",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 1563
+      "UsersEstimate": 1564
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -2223,7 +2228,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 1727
+      "UsersEstimate": 1728
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -2269,9 +2274,9 @@
       "ID": "ACH_MAX_RECON",
       "SetID": "816efe",
       "Name": "Frontliner",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 302
+      "UsersEstimate": 329
     },
     {
       "ID": "ACH_MAX_SERGEANT",
@@ -2303,7 +2308,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "ACH_MISSION_03",
@@ -2319,7 +2324,7 @@
       "Name": "Making a Stand",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "ACH_MISSION_05",
@@ -2415,7 +2420,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 1508
+      "UsersEstimate": 1509
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -2455,14 +2460,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1398
+      "UsersEstimate": 1399
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 2742,
+      "Progressed": 2743,
       "Completed": 0
     }
   ],
@@ -2470,8 +2475,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-08T21:00:18.0882251+00:00",
-  "LastChanged_Achievements": "2023-07-09T04:06:21.4279433+00:00",
+  "LastChanged_Achievements": "2023-07-09T05:07:45.5889569+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:32.529009+00:00",
-  "LastUpdate_Ratings": "2023-07-09T03:59:35.415206+00:00",
-  "LastUpdate_Achievements": "2023-07-09T04:06:21.4279923+00:00"
+  "LastUpdate_Ratings": "2023-07-09T05:00:35.8834033+00:00",
+  "LastUpdate_Achievements": "2023-07-09T05:07:45.5890135+00:00"
 }

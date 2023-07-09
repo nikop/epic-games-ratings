@@ -4,7 +4,7 @@
   "ProductSlug": "oxygen-cocktail-20cd1c",
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-04T21:57:04.2125669+00:00",
-  "LastUpdate_Ratings": "2023-07-09T03:57:36.1050711+00:00",
-  "LastUpdate_Achievements": "2023-07-09T04:04:57.1085557+00:00"
+  "LastUpdate_Ratings": "2023-07-09T04:57:39.4553662+00:00",
+  "LastUpdate_Achievements": "2023-07-09T05:05:33.730539+00:00"
 }

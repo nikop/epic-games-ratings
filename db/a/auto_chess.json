@@ -4,10 +4,10 @@
   "ProductSlug": "auto-chess",
   "Ranking_Rating": 520,
   "Ranking_Popularity": 157,
-  "Ranking_PopularitySum": 119,
+  "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2019-08-23T15:00:00+00:00",
@@ -3208,11 +3208,17 @@
       "Rating": 4.52,
       "NumberOfAwards": 5957,
       "NumberOfAwardsMax": 749
+    },
+    {
+      "Time": "2023-07-09T04:59:48.6157123+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 5960,
+      "NumberOfAwardsMax": 752
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5957,
-  "NumberOfAwardsMax": 749,
+  "NumberOfAwards": 5960,
+  "NumberOfAwardsMax": 752,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
     {
@@ -3225,7 +3231,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 749
+      "Count": 752
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3293,8 +3299,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:31.7729603+00:00",
-  "LastChanged": "2023-07-08T16:59:14.353678+00:00",
+  "LastChanged": "2023-07-09T04:59:48.6157122+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:41.8265351+00:00",
-  "LastUpdate_Ratings": "2023-07-09T03:59:05.6301328+00:00",
-  "LastUpdate_Achievements": "2023-07-09T04:05:34.1745287+00:00"
+  "LastUpdate_Ratings": "2023-07-09T04:59:48.6157127+00:00",
+  "LastUpdate_Achievements": "2023-07-09T05:06:36.5679067+00:00"
 }

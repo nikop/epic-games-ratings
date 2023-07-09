@@ -5,12 +5,12 @@ Rating: 4.09 (Ranked 890)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,481 |
-| World Map | 79.00% | ~1,258 |
-| Temple of Eternals | 57.00% | ~908 |
-| Prestigious | 53.00% | ~844 |
-| Fellowship Power | 41.00% | ~653 |
-| Guild Power | 24.00% | ~382 |
+| Victor | 93.00% | ~1,482 |
+| World Map | 79.00% | ~1,259 |
+| Temple of Eternals | 57.00% | ~909 |
+| Prestigious | 53.00% | ~845 |
+| Fellowship Power | 41.00% | ~654 |
+| Guild Power | 24.00% | ~383 |
 | Prestigious x10 | 21.00% | ~335 |
 | The game is on | 20.00% | ~319 |
 | Exotic Merchant | 17.00% | ~271 |
@@ -38,7 +38,7 @@ Rating: 4.09 (Ranked 890)
 | Relic Of The Past | 9.00% | ~143 |
 | Scroll Master | 9.00% | ~143 |
 | The power of Awakening | 9.00% | ~143 |
-| Four Leaf Clover | 8.00% | ~127 |
+| Four Leaf Clover | 8.00% | ~128 |
 | Here We Go Again | 7.00% | ~112 |
 | Master Enchanter | 7.00% | ~112 |
 | The father of Dragons | 7.00% | ~112 |
@@ -81,7 +81,7 @@ Rating: 4.09 (Ranked 890)
 | War Machines Army | 0.20% | ~3 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,593 (Ranked 169)  
+Progressed: 1,594 (Ranked 169)  
 Completed: 1 (0.06%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 1 (0.06%) (Ranked 197)
 | 2023-07-06 | 1,577 | 1 |
 | 2023-07-07 | 1,584 | 1 |
 | 2023-07-08 | 1,591 | 1 |
-| 2023-07-09 | 1,593 | 1 |
+| 2023-07-09 | 1,594 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -13,7 +13,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | Renovator | 55.00% | ~3,461 |
 | Bestest Friend | 53.00% | ~3,335 |
 | Banker | 44.00% | ~2,768 |
-| Gardener | 34.00% | ~2,139 |
+| Gardener | 35.00% | ~2,202 |
 | Generous | 25.00% | ~1,573 |
 | Chef Cook | 19.00% | ~1,195 |
 | Miner | 9.00% | ~566 |
@@ -55,9 +55,9 @@ Completed: 162 (2.57%) (Ranked 67)
 | 2023-07-08 | 6,271 | 161 |
 | 2023-07-09 | 6,292 | 162 |
 ## Awards
-Max (Great for Beginners): 889  (Ranked 149)  
+Max (Great for Beginners): 889  (Ranked 148)  
 Sum: 7,259 (Ranked 104)  
-Diff (max vs sum): 45  
+Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 889 |

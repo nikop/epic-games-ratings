@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -151,9 +151,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1295,
+  "EOS_Progressed": 1296,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1031,6 +1031,11 @@
       "Time": "2023-07-08T21:04:32.0925409+00:00",
       "NumProgressed": 1295,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-09T05:04:52.5777238+00:00",
+      "NumProgressed": 1296,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 56,
@@ -1058,7 +1063,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -1074,7 +1079,7 @@
       "Name": "A Mythic Menagerie",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "achievement_beatAllStoryCampaigns",
@@ -1218,7 +1223,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "achievement_mythwalker",
@@ -1346,7 +1351,7 @@
       "Name": "Core Failure",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "enduringWar_destroyEnduring",
@@ -1489,15 +1494,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1295,
+      "Progressed": 1296,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-07-08T20:01:41.3411794+00:00",
-  "LastChanged_Achievements": "2023-07-09T04:04:28.5419463+00:00",
+  "LastChanged_Achievements": "2023-07-09T05:04:52.5777233+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:13.8802543+00:00",
-  "LastUpdate_Ratings": "2023-07-09T04:00:45.2036132+00:00",
-  "LastUpdate_Achievements": "2023-07-09T04:04:28.542+00:00"
+  "LastUpdate_Ratings": "2023-07-09T05:02:14.9850412+00:00",
+  "LastUpdate_Achievements": "2023-07-09T05:04:52.5777972+00:00"
 }

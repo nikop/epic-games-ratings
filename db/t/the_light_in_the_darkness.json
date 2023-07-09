@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1880,
+  "EOS_Progressed": 1881,
   "EOS_Completed": 161,
   "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 7,
@@ -3633,6 +3633,11 @@
       "Time": "2023-07-09T02:35:19.0818469+00:00",
       "NumProgressed": 1880,
       "NumCompleted": 161
+    },
+    {
+      "Time": "2023-07-09T05:02:49.1066435+00:00",
+      "NumProgressed": 1881,
+      "NumCompleted": 161
     }
   ],
   "TotalAchievements": 12,
@@ -3668,7 +3673,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "Jacques a Dit",
@@ -3684,7 +3689,7 @@
       "Name": "Jakob",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "Jude",
@@ -3700,7 +3705,7 @@
       "Name": "Le Juif et la France",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "Little Helper",
@@ -3739,7 +3744,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1880,
+      "Progressed": 1881,
       "Completed": 161
     }
   ],
@@ -3747,8 +3752,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-07-09T04:02:09.3105783+00:00",
+  "LastChanged_Achievements": "2023-07-09T05:02:49.1066429+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:46.7313961+00:00",
-  "LastUpdate_Ratings": "2023-07-09T03:59:43.7641287+00:00",
-  "LastUpdate_Achievements": "2023-07-09T04:02:09.3106093+00:00"
+  "LastUpdate_Ratings": "2023-07-09T05:00:49.0680737+00:00",
+  "LastUpdate_Achievements": "2023-07-09T05:02:49.1066885+00:00"
 }

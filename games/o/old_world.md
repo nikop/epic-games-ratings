@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 298)  
+Rating: 4.65 (Ranked 299)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -77,8 +77,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Power to the People | 23.00% | ~2,918 |
 | Building Wonders | 23.00% | ~2,918 |
 | Patrons | 22.00% | ~2,791 |
+| Legalism | 22.00% | ~2,791 |
 | Hittite Iron | 21.00% | ~2,664 |
-| Legalism | 21.00% | ~2,664 |
 | Mighty | 20.00% | ~2,537 |
 | Hagia Sophia | 20.00% | ~2,537 |
 | Via Recta Souk | 20.00% | ~2,537 |
@@ -375,8 +375,8 @@ Completed: 5 (0.04%) (Ranked 207)
 | 2023-07-09 | 12,687 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 255)  
-Sum: 1,776 (Ranked 205)  
-Diff (max vs sum): 50  
+Sum: 1,776 (Ranked 204)  
+Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 218 |

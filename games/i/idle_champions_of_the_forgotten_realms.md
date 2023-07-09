@@ -6,22 +6,22 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,334 |
-| The Mad Wizard | 11.00% | ~22,979 |
-| The Ring of Regeneration | 7.00% | ~14,623 |
-| Are Ya Chicken? | 7.00% | ~14,623 |
-| Were-verpowered | 5.00% | ~10,445 |
-| Seeking Allies | 5.00% | ~10,445 |
-| Mad Cow Disease | 5.00% | ~10,445 |
-| Friendly Imps | 5.00% | ~10,445 |
-| A Persistent Buzzing | 4.00% | ~8,356 |
-| Pure Energy | 4.00% | ~8,356 |
-| Beast Mode | 3.00% | ~6,267 |
-| Terror in the Dark | 3.00% | ~6,267 |
-| Unearthed Evil | 3.00% | ~6,267 |
-| The Crumbling Temple | 3.00% | ~6,267 |
-| Exploring Port Nyanzaru | 3.00% | ~6,267 |
-| The Contagious Curse | 3.00% | ~6,267 |
+| The Cursed Farmer | 15.00% | ~31,338 |
+| The Mad Wizard | 11.00% | ~22,981 |
+| The Ring of Regeneration | 7.00% | ~14,624 |
+| Are Ya Chicken? | 7.00% | ~14,624 |
+| Were-verpowered | 5.00% | ~10,446 |
+| Seeking Allies | 5.00% | ~10,446 |
+| Mad Cow Disease | 5.00% | ~10,446 |
+| Friendly Imps | 5.00% | ~10,446 |
+| A Persistent Buzzing | 4.00% | ~8,357 |
+| Pure Energy | 4.00% | ~8,357 |
+| Beast Mode | 3.00% | ~6,268 |
+| Terror in the Dark | 3.00% | ~6,268 |
+| Unearthed Evil | 3.00% | ~6,268 |
+| The Crumbling Temple | 3.00% | ~6,268 |
+| Exploring Port Nyanzaru | 3.00% | ~6,268 |
+| The Contagious Curse | 3.00% | ~6,268 |
 | Low Initiative | 2.00% | ~4,178 |
 | A Mysterious Summons | 2.00% | ~4,178 |
 | Building Trust | 2.00% | ~4,178 |
@@ -70,33 +70,34 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rude Welcome | 0.70% | ~1,462 |
 | Durable Deep | 0.70% | ~1,462 |
 | The Haunted Jungle | 0.70% | ~1,462 |
-| Family Entanglements | 0.60% | ~1,253 |
-| The Immortal Warrior | 0.60% | ~1,253 |
-| The Wyrmheart Mine | 0.60% | ~1,253 |
-| Tower on the Lake | 0.60% | ~1,253 |
-| The Guardian of Orolunga | 0.60% | ~1,253 |
-| The Lost Love | 0.60% | ~1,253 |
-| Hopelessly Lost | 0.60% | ~1,253 |
-| Enter the Sargauth | 0.60% | ~1,253 |
-| Lair of the Xanathar | 0.60% | ~1,253 |
-| Difficult Terrain | 0.60% | ~1,253 |
-| Home Field Advantage | 0.50% | ~1,044 |
-| Force Grey Unleashed | 0.50% | ~1,044 |
-| Sleuth It Out | 0.50% | ~1,044 |
-| Azaka's Procession - Part 1 | 0.50% | ~1,044 |
-| Azaka's Procession - Part 2 | 0.50% | ~1,044 |
-| Chatty Nobles | 0.50% | ~1,044 |
-| Haaave You Met Asmodeus? | 0.50% | ~1,044 |
-| Seeds of Deceit | 0.50% | ~1,044 |
-| Flies on the Wall | 0.50% | ~1,044 |
-| Waterdeep Under Siege | 0.50% | ~1,044 |
-| Vault of Dragons | 0.50% | ~1,044 |
-| Elturel Has Fallen | 0.50% | ~1,044 |
-| Resolve Amongst Chaos | 0.50% | ~1,044 |
+| Family Entanglements | 0.60% | ~1,254 |
+| The Immortal Warrior | 0.60% | ~1,254 |
+| The Wyrmheart Mine | 0.60% | ~1,254 |
+| Tower on the Lake | 0.60% | ~1,254 |
+| The Guardian of Orolunga | 0.60% | ~1,254 |
+| The Lost Love | 0.60% | ~1,254 |
+| Hopelessly Lost | 0.60% | ~1,254 |
+| Enter the Sargauth | 0.60% | ~1,254 |
+| Lair of the Xanathar | 0.60% | ~1,254 |
+| Difficult Terrain | 0.60% | ~1,254 |
+| Home Field Advantage | 0.50% | ~1,045 |
+| Force Grey Unleashed | 0.50% | ~1,045 |
+| Sleuth It Out | 0.50% | ~1,045 |
+| Azaka's Procession - Part 1 | 0.50% | ~1,045 |
+| Azaka's Procession - Part 2 | 0.50% | ~1,045 |
+| Chatty Nobles | 0.50% | ~1,045 |
+| Haaave You Met Asmodeus? | 0.50% | ~1,045 |
+| Seeds of Deceit | 0.50% | ~1,045 |
+| Flies on the Wall | 0.50% | ~1,045 |
+| Waterdeep Under Siege | 0.50% | ~1,045 |
+| Vault of Dragons | 0.50% | ~1,045 |
+| Elturel Has Fallen | 0.50% | ~1,045 |
+| Resolve Amongst Chaos | 0.50% | ~1,045 |
 | The Everlasting Rime | 0.50% | ~876 |
-| Expert Opinion | 0.50% | ~1,044 |
-| Poor Guidance | 0.50% | ~1,044 |
+| Expert Opinion | 0.50% | ~1,045 |
+| Poor Guidance | 0.50% | ~1,045 |
 | Anti-Dexterous Explorers | 0.40% | ~836 |
+| Not Very Charming | 0.40% | ~836 |
 | Lobsterfolk Assault | 0.40% | ~836 |
 | Periodic Petrification | 0.40% | ~836 |
 | Vajra's Guards | 0.40% | ~836 |
@@ -124,7 +125,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Moose Tracks | 0.40% | ~701 |
 | Civilization | 0.40% | ~701 |
 | Struggling Toward Omu | 0.30% | ~627 |
-| Not Very Charming | 0.30% | ~627 |
 | Double Vision | 0.30% | ~627 |
 | The Newcomers of Notoriety | 0.30% | ~526 |
 | We're not in Faerûn Anymore | 0.30% | ~627 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,896 (Ranked 52)  
+Progressed: 208,919 (Ranked 52)  
 Completed: 2,041 (0.98%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -590,7 +590,7 @@ Completed: 2,041 (0.98%) (Ranked 102)
 | 2023-07-06 | 207,486 | 2,035 |
 | 2023-07-07 | 208,152 | 2,037 |
 | 2023-07-08 | 208,782 | 2,041 |
-| 2023-07-09 | 208,896 | 2,041 |
+| 2023-07-09 | 208,919 | 2,041 |
 ## Awards
 Max (Diverse Characters): 5,016  (Ranked 65)  
 Sum: 30,454 (Ranked 37)  

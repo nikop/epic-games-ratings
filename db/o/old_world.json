@@ -2,9 +2,9 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 298,
+  "Ranking_Rating": 299,
   "Ranking_Popularity": 255,
-  "Ranking_PopularitySum": 205,
+  "Ranking_PopularitySum": 204,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 96,
@@ -1529,7 +1529,7 @@
   ],
   "EOS_Progressed": 12687,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 217,
+  "EOS_NewPlayers": 215,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9270,9 +9270,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_LEGALISM",
       "SetID": "7l38kb8",
       "Name": "Legalism",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 2664
+      "UsersEstimate": 2791
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_MYTHOLOGY",
@@ -9580,8 +9580,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-07-06T13:18:07.5898524+00:00",
-  "LastChanged_Achievements": "2023-07-09T04:03:35.5374189+00:00",
+  "LastChanged_Achievements": "2023-07-09T05:04:05.2733484+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:30.6160724+00:00",
-  "LastUpdate_Ratings": "2023-07-09T03:58:17.5641168+00:00",
-  "LastUpdate_Achievements": "2023-07-09T04:03:35.5382037+00:00"
+  "LastUpdate_Ratings": "2023-07-09T04:58:42.6428512+00:00",
+  "LastUpdate_Achievements": "2023-07-09T05:04:05.2741684+00:00"
 }
