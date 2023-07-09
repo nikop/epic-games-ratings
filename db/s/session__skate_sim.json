@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 304,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -2995,9 +2995,9 @@
       "ID": "ACH_BACKPACKER",
       "SetID": "72olkc5",
       "Name": "Backpacker",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 300
+      "UsersEstimate": 325
     },
     {
       "ID": "ACH_BING-BONG",
@@ -3011,9 +3011,9 @@
       "ID": "ACH_BOTTOM-PLY-KILLER",
       "SetID": "72olkc5",
       "Name": "Bottom ply killer",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_COMMENCE-THE-HIJINX",
@@ -3387,8 +3387,8 @@
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-07-04T13:59:08.8445697+00:00",
-  "LastChanged_Achievements": "2023-07-09T00:03:04.3712087+00:00",
+  "LastChanged_Achievements": "2023-07-09T02:35:30.8278017+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:10.6515019+00:00",
-  "LastUpdate_Ratings": "2023-07-08T23:59:45.6583748+00:00",
-  "LastUpdate_Achievements": "2023-07-09T00:03:04.3712514+00:00"
+  "LastUpdate_Ratings": "2023-07-09T02:32:41.0925316+00:00",
+  "LastUpdate_Achievements": "2023-07-09T02:35:30.8278571+00:00"
 }

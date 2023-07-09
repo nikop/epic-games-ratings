@@ -6,29 +6,29 @@ Rating: 4.66 (Ranked 270)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Prepper | 93.00% | ~4,271 |
-| All thumbs | 91.00% | ~4,179 |
-| I will survive! | 91.00% | ~4,179 |
-| Home, sweet home | 90.00% | ~4,133 |
-| Survivalist | 88.00% | ~4,041 |
-| One way ticket | 83.00% | ~3,811 |
-| Last man standing | 78.00% | ~3,582 |
-| Family guy | 76.00% | ~3,490 |
-| Out of the Bag | 73.00% | ~3,352 |
+| All thumbs | 91.00% | ~4,180 |
+| I will survive! | 91.00% | ~4,180 |
+| Home, sweet home | 90.00% | ~4,134 |
+| Survivalist | 88.00% | ~4,042 |
+| One way ticket | 83.00% | ~3,812 |
+| Last man standing | 78.00% | ~3,583 |
+| Family guy | 76.00% | ~3,491 |
+| Out of the Bag | 73.00% | ~3,353 |
 | The Dark Side | 68.00% | ~3,123 |
-| Duck and cover! | 63.00% | ~2,893 |
-| Souper! | 62.00% | ~2,847 |
-| Pacifist | 57.00% | ~2,617 |
+| Duck and cover! | 63.00% | ~2,894 |
+| Souper! | 62.00% | ~2,848 |
+| Pacifist | 57.00% | ~2,618 |
 | 2-1-6 | 55.00% | ~2,526 |
 | A gift | 51.00% | ~2,342 |
-| Girl Power | 45.00% | ~2,066 |
+| Girl Power | 45.00% | ~2,067 |
 | What goes around... | 41.00% | ~1,883 |
 | Be Prepared | 36.00% | ~1,653 |
-| Unbreakable | 34.00% | ~1,561 |
-| Atomic drill | 32.00% | ~1,469 |
-| This is the end | 32.00% | ~1,469 |
+| Unbreakable | 34.00% | ~1,562 |
+| Atomic drill | 32.00% | ~1,470 |
+| This is the end | 32.00% | ~1,470 |
 | Gotta get 'em all | 31.00% | ~1,424 |
 | Disco Roach | 26.00% | ~1,194 |
-| Dawkins Residence | 20.00% | ~918 |
+| Dawkins Residence | 20.00% | ~919 |
 | Rescue time! | 17.00% | ~781 |
 | New order | 16.00% | ~735 |
 | New species | 16.00% | ~735 |
@@ -37,8 +37,8 @@ Rating: 4.66 (Ranked 270)
 | Challenger | 12.00% | ~551 |
 | No stone unturned | 11.00% | ~505 |
 | Men in Black | 11.00% | ~505 |
-| Mad Hatter | 7.00% | ~321 |
-| Unplugged | 7.00% | ~321 |
+| Mad Hatter | 7.00% | ~322 |
+| Unplugged | 7.00% | ~322 |
 | Holidays! | 6.00% | ~276 |
 | Yes Man | 6.00% | ~276 |
 | Take that, Brundlefly! | 5.00% | ~230 |
@@ -66,7 +66,7 @@ Rating: 4.66 (Ranked 270)
 | Miracle | 0.20% | ~9 |
 | Dead Hand | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,592 (Ranked 137)  
+Progressed: 4,593 (Ranked 137)  
 Completed: 1 (0.02%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 1 (0.02%) (Ranked 214)
 | 2023-07-06 | 4,561 | 1 |
 | 2023-07-07 | 4,574 | 1 |
 | 2023-07-08 | 4,591 | 1 |
-| 2023-07-09 | 4,592 | 1 |
+| 2023-07-09 | 4,593 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 26,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1037,
+  "EOS_Progressed": 1038,
   "EOS_Completed": 76,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 7.33,
+  "EOS_Completed_Percentage": 7.32,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -2602,6 +2602,11 @@
       "Time": "2023-07-08T19:06:41.8633965+00:00",
       "NumProgressed": 1037,
       "NumCompleted": 76
+    },
+    {
+      "Time": "2023-07-09T02:40:00.1202424+00:00",
+      "NumProgressed": 1038,
+      "NumCompleted": 76
     }
   ],
   "TotalAchievements": 50,
@@ -2629,7 +2634,7 @@
       "Name": "Nightmare Fuel",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "12",
@@ -2637,7 +2642,7 @@
       "Name": "Spellbound",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "13",
@@ -2645,7 +2650,7 @@
       "Name": "Extinct Again!",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "14",
@@ -2653,7 +2658,7 @@
       "Name": "Bird of Prey",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "15",
@@ -2669,7 +2674,7 @@
       "Name": "Soul Slayer",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "17",
@@ -2677,7 +2682,7 @@
       "Name": "The Downfall",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "18",
@@ -2701,7 +2706,7 @@
       "Name": "Waff!",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "20",
@@ -2717,7 +2722,7 @@
       "Name": "Take Heart",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "22",
@@ -2773,7 +2778,7 @@
       "Name": "Sword, Shield, Fight!",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "29",
@@ -2789,7 +2794,7 @@
       "Name": "Vibing",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "30",
@@ -2797,7 +2802,7 @@
       "Name": "Gooey Delight!",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "31",
@@ -2805,7 +2810,7 @@
       "Name": "Little Shop",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "32",
@@ -2813,7 +2818,7 @@
       "Name": "The Guardian",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "33",
@@ -2835,9 +2840,9 @@
       "ID": "35",
       "SetID": "d0g98p",
       "Name": "Teacups for Toppy",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 425
+      "UsersEstimate": 415
     },
     {
       "ID": "36",
@@ -2877,7 +2882,7 @@
       "Name": "A Prophecy",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "40",
@@ -2885,7 +2890,7 @@
       "Name": "Mirror, Mirror",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "41",
@@ -2901,7 +2906,7 @@
       "Name": "Shopping Spree!",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "43",
@@ -2917,7 +2922,7 @@
       "Name": "It\u0027s Pointy!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "45",
@@ -2949,7 +2954,7 @@
       "Name": "Into the Barn",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     },
     {
       "ID": "49",
@@ -2973,7 +2978,7 @@
       "Name": "Spot of Tea?",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "6",
@@ -2981,7 +2986,7 @@
       "Name": "Going Home",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "7",
@@ -2989,15 +2994,15 @@
       "Name": "Fun Guy",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "8",
       "SetID": "d0g98p",
       "Name": "Tragic Brave",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 560
+      "UsersEstimate": 550
     },
     {
       "ID": "9",
@@ -3005,14 +3010,14 @@
       "Name": "Curtain Call",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     }
   ],
   "AchievementSets": [
     {
       "ID": "d0g98p",
       "IsBase": true,
-      "Progressed": 1037,
+      "Progressed": 1038,
       "Completed": 76
     }
   ],
@@ -3020,8 +3025,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-07-09T00:07:08.3728655+00:00",
+  "LastChanged_Achievements": "2023-07-09T02:40:00.1202421+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:44.4971469+00:00",
-  "LastUpdate_Ratings": "2023-07-08T23:57:49.2800364+00:00",
-  "LastUpdate_Achievements": "2023-07-09T00:07:08.3729134+00:00"
+  "LastUpdate_Ratings": "2023-07-09T02:30:39.6736403+00:00",
+  "LastUpdate_Achievements": "2023-07-09T02:40:00.1202915+00:00"
 }

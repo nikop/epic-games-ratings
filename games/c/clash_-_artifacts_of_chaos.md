@@ -10,8 +10,8 @@
 | The Bigger They Are | 32.00% | ~28 |
 | Enemies of Fate | 32.00% | ~28 |
 | Amokuali Tower | 30.00% | ~26 |
+| Your Training Continues | 29.00% | ~25 |
 | Armored | 29.00% | ~25 |
-| Your Training Continues | 28.00% | ~24 |
 | Freedom | 26.00% | ~23 |
 | Winner | 25.00% | ~22 |
 | The Pride of Moozhaw | 24.00% | ~21 |

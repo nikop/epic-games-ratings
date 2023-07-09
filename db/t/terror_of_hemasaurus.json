@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 56,
   "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-10-17T17:00:00+00:00",
     "PcReleaseDate": "2022-10-17T17:00:00+00:00",
@@ -297,9 +297,9 @@
       "ID": "ACH_25_HELICOPTERS_DESTROYED",
       "SetID": "aio76gp",
       "Name": "Chopper Stopper",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_40_STAGES_ENDLESS",
@@ -329,9 +329,9 @@
       "ID": "ACH_50_CHOPPER_BLADES",
       "SetID": "aio76gp",
       "Name": "Aerosolized",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_50_MILITARY_CARS",
@@ -401,17 +401,17 @@
       "ID": "ACH_KILL_100_ENEMIES",
       "SetID": "aio76gp",
       "Name": "Green-Bodied Monster",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_KILL_300_ENEMIES",
       "SetID": "aio76gp",
       "Name": "Monstrosity Atrocity",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_STORY_MODE",
@@ -450,8 +450,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.2122868+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.8436935+00:00",
   "LastChanged": "2023-03-31T05:57:37.2122869+00:00",
-  "LastChanged_Achievements": "2023-07-09T00:05:20.2608439+00:00",
+  "LastChanged_Achievements": "2023-07-09T02:37:57.2425593+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:06.1741671+00:00",
-  "LastUpdate_Ratings": "2023-07-08T23:58:53.9053423+00:00",
-  "LastUpdate_Achievements": "2023-07-09T00:05:20.2608614+00:00"
+  "LastUpdate_Ratings": "2023-07-09T02:31:47.2308824+00:00",
+  "LastUpdate_Achievements": "2023-07-09T02:37:57.2425847+00:00"
 }

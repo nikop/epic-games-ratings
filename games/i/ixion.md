@@ -18,9 +18,9 @@ Rating: 4.56 (Ranked 455)
 | Ain't Nobody Got Time for That | 9.00% | ~251 |
 | The Ship of Theseus | 9.00% | ~251 |
 | Exceeding Capacity | 8.00% | ~223 |
+| Breaking Protocol | 8.00% | ~223 |
 | Hope Seeker | 8.00% | ~223 |
 | A Hunk of Junk | 7.00% | ~195 |
-| Breaking Protocol | 7.00% | ~195 |
 | Man's Best Friend | 5.00% | ~140 |
 | Sightseeing | 5.00% | ~140 |
 | Power Outage | 5.00% | ~140 |

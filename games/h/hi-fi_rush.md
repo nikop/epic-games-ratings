@@ -5,19 +5,19 @@ Rating: 4.87 (Ranked 25)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| NOW we got a kickass hideout! | 0.90% | ~18 |
+| NOW we got a kickass hideout! | 1.00% | ~19 |
+| Whoa! There's ANOTHER health bar!? | 0.70% | ~24 |
 | Cream of the Crop | 0.60% | ~21 |
 | The Negotiator | 0.60% | ~21 |
 | Time to pay up! | 0.60% | ~21 |
 | Who's the boss now? | 0.60% | ~21 |
+| Thanks for the free chip, Peppermint! | 0.60% | ~21 |
 | I play my own way! | 0.60% | ~21 |
-| Whoa! There's ANOTHER health bar!? | 0.60% | ~21 |
 | Z-shielding's got nothing on us! | 0.60% | ~21 |
 | Out in a puff of smoke | 0.60% | ~21 |
 | Who put gears in there? | 0.60% | ~21 |
 | This will cost you big time | 0.50% | ~17 |
 | Headliner | 0.50% | ~17 |
-| Thanks for the free chip, Peppermint! | 0.50% | ~17 |
 | You got this, Peppermint? | 0.50% | ~17 |
 | Uh, they were broken when I got here | 0.50% | ~17 |
 | Kissing the sky! | 0.50% | ~17 |
@@ -78,7 +78,7 @@ Rating: 4.87 (Ranked 25)
 | Low budget finish | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,426 (Ranked 145)  
-Completed: 5 (0.15%) (Ranked 171)  
+Completed: 5 (0.15%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -5,41 +5,41 @@ Rating: 3.55 (Ranked 947)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 77.00% | ~1,318 |
-| Home Is Where the Heart Is | 60.00% | ~1,027 |
-| Ne Plus Ultra | 60.00% | ~1,027 |
-| Wounded Whispers | 60.00% | ~1,027 |
-| Blood Will Have Blood | 51.00% | ~873 |
+| I Like My Stakes Rare! | 77.00% | ~1,320 |
+| Home Is Where the Heart Is | 60.00% | ~1,028 |
+| Ne Plus Ultra | 60.00% | ~1,028 |
+| Wounded Whispers | 60.00% | ~1,028 |
+| Blood Will Have Blood | 51.00% | ~874 |
 | ICU | 46.00% | ~788 |
-| Peek-a-boo | 44.00% | ~753 |
-| Catch and Release | 44.00% | ~753 |
-| Sucks To Be You | 43.00% | ~736 |
+| Peek-a-boo | 44.00% | ~754 |
+| Catch and Release | 44.00% | ~754 |
+| Sucks To Be You | 43.00% | ~737 |
 | Welcome to the Neighborhood | 38.00% | ~651 |
-| Fly Fisher | 36.00% | ~616 |
-| Throw The First Stone | 35.00% | ~599 |
-| Enter of Your Own Free Will | 33.00% | ~565 |
-| Heart Attack | 33.00% | ~565 |
+| Fly Fisher | 36.00% | ~617 |
+| Throw The First Stone | 35.00% | ~600 |
+| Enter of Your Own Free Will | 33.00% | ~566 |
+| Heart Attack | 33.00% | ~566 |
 | Skin of Their Teeth | 31.00% | ~531 |
 | Grounded | 24.00% | ~411 |
 | Bad Wiring | 22.00% | ~377 |
-| I Spit On Your Grave | 19.00% | ~325 |
+| I Spit On Your Grave | 19.00% | ~326 |
 | Neighborhood Revitalization | 16.00% | ~274 |
 | Radio Silence | 16.00% | ~274 |
-| Helping Hand | 13.00% | ~223 |
-| You Clean It Up | 11.00% | ~188 |
+| Helping Hand | 12.00% | ~206 |
+| You Clean It Up | 11.00% | ~189 |
 | Block Party | 8.00% | ~137 |
 | Starve the Beast | 8.00% | ~137 |
 | From the Shadows | 6.00% | ~103 |
 | Bell-ringer | 5.00% | ~86 |
-| Revelations | 4.00% | ~68 |
-| Contingency Plans | 4.00% | ~68 |
-| Sic Transit Umbra | 4.00% | ~68 |
-| Silence Is Golden | 4.00% | ~68 |
-| Good Morning | 4.00% | ~68 |
-| Check, Please! | 4.00% | ~68 |
-| Right This Way | 4.00% | ~68 |
-| Nice Try | 4.00% | ~68 |
-| Enemy of My Enemy | 4.00% | ~68 |
+| Revelations | 4.00% | ~69 |
+| Contingency Plans | 4.00% | ~69 |
+| Sic Transit Umbra | 4.00% | ~69 |
+| Silence Is Golden | 4.00% | ~69 |
+| Good Morning | 4.00% | ~69 |
+| Check, Please! | 4.00% | ~69 |
+| Right This Way | 4.00% | ~69 |
+| Nice Try | 4.00% | ~69 |
+| Enemy of My Enemy | 4.00% | ~69 |
 | Harvest’s End | 3.00% | ~51 |
 | Blacklight Down | 3.00% | ~51 |
 | Curious Finch | 3.00% | ~51 |
@@ -72,7 +72,7 @@ Rating: 3.55 (Ranked 947)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,712 (Ranked 166)  
+Progressed: 1,714 (Ranked 166)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,6 +135,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-02 | 1,710 | 0 |
 | 2023-07-05 | 1,711 | 0 |
 | 2023-07-08 | 1,712 | 0 |
+| 2023-07-09 | 1,714 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

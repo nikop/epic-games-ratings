@@ -4,8 +4,8 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 374,
+  "EOS_Progressed": 375,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
@@ -1276,6 +1276,11 @@
       "Time": "2023-07-08T19:04:51.2922652+00:00",
       "NumProgressed": 374,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-09T02:38:00.8643057+00:00",
+      "NumProgressed": 375,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1303,7 +1308,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ach_defeat_players_100",
@@ -1351,7 +1356,7 @@
       "Name": "Silver Competitor",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -1397,9 +1402,9 @@
       "ID": "objective_hero_level_up_1",
       "SetID": "bm61c2p",
       "Name": "Corporal",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 101
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -1447,7 +1452,7 @@
       "Name": "General",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "objective_key_alliance_help_2",
@@ -1487,7 +1492,7 @@
       "Name": "Seek \u0026 Destroy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_3",
@@ -1495,7 +1500,7 @@
       "Name": "Stocking Up",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -1503,7 +1508,7 @@
       "Name": "Resourceful",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "objective_key_objectives_completed_2",
@@ -1511,7 +1516,7 @@
       "Name": "On Target",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -1543,7 +1548,7 @@
       "Name": "Defenses Online",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -1559,7 +1564,7 @@
       "Name": "Titan Tanks",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "objective_research_unlock_heavy_infantry_tier_4",
@@ -1590,14 +1595,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 374,
+      "Progressed": 375,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-09T00:05:23.5053119+00:00",
+  "LastChanged_Achievements": "2023-07-09T02:38:00.8643053+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:58.5226048+00:00",
-  "LastUpdate_Ratings": "2023-07-09T00:01:22.4792715+00:00",
-  "LastUpdate_Achievements": "2023-07-09T00:05:23.5053401+00:00"
+  "LastUpdate_Ratings": "2023-07-09T02:34:15.2003429+00:00",
+  "LastUpdate_Achievements": "2023-07-09T02:38:00.8643388+00:00"
 }

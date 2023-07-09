@@ -2,7 +2,7 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 361,
+  "Ranking_Rating": 362,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 135,
@@ -268,9 +268,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4954,
+  "EOS_Progressed": 4955,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5038,6 +5038,11 @@
       "Time": "2023-07-08T22:02:17.4219421+00:00",
       "NumProgressed": 4954,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-09T02:35:24.9336885+00:00",
+      "NumProgressed": 4955,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 50,
@@ -5071,9 +5076,9 @@
       "ID": "12",
       "SetID": "3aa2279",
       "Name": "I\u0027ve Got Everything I Need Right Here",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 25
     },
     {
       "ID": "13",
@@ -5327,9 +5332,9 @@
       "ID": "41",
       "SetID": "3aa2279",
       "Name": "Jack of All Tomes",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 40
     },
     {
       "ID": "42",
@@ -5383,9 +5388,9 @@
       "ID": "8",
       "SetID": "3aa2279",
       "Name": "Betrayal Most Foul",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 10
     },
     {
       "ID": "9",
@@ -5448,13 +5453,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4954,
+      "Progressed": 4955,
       "Completed": 4760
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4954,
+      "Progressed": 4955,
       "Completed": 5
     }
   ],
@@ -5462,8 +5467,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-07-04T17:00:43.3128649+00:00",
-  "LastChanged_Achievements": "2023-07-09T00:02:28.8168171+00:00",
+  "LastChanged_Achievements": "2023-07-09T02:35:24.9336875+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:44.6563449+00:00",
-  "LastUpdate_Ratings": "2023-07-09T00:00:14.4126728+00:00",
-  "LastUpdate_Achievements": "2023-07-09T00:02:28.8168778+00:00"
+  "LastUpdate_Ratings": "2023-07-09T02:33:10.666092+00:00",
+  "LastUpdate_Achievements": "2023-07-09T02:35:24.9337575+00:00"
 }

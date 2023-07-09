@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 121,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -370,7 +370,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6935,
+  "EOS_Progressed": 6937,
   "EOS_Completed": 40,
   "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
@@ -5385,6 +5385,11 @@
       "Time": "2023-07-08T22:04:38.0098211+00:00",
       "NumProgressed": 6935,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-07-09T02:37:18.9811371+00:00",
+      "NumProgressed": 6937,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 29,
@@ -5396,7 +5401,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5756
+      "UsersEstimate": 5758
     },
     {
       "ID": "ACH02",
@@ -5420,7 +5425,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2566
+      "UsersEstimate": 2567
     },
     {
       "ID": "ACH05",
@@ -5436,7 +5441,7 @@
       "Name": "Street Sweeper",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     },
     {
       "ID": "ACH07",
@@ -5540,7 +5545,7 @@
       "Name": "A Gift from the King",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "ACH20",
@@ -5627,7 +5632,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6935,
+      "Progressed": 6937,
       "Completed": 40
     }
   ],
@@ -5635,8 +5640,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-07-06T20:58:32.0541996+00:00",
-  "LastChanged_Achievements": "2023-07-09T00:04:46.8582061+00:00",
+  "LastChanged_Achievements": "2023-07-09T02:37:18.9811365+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:25.3422771+00:00",
-  "LastUpdate_Ratings": "2023-07-08T23:58:21.8452208+00:00",
-  "LastUpdate_Achievements": "2023-07-09T00:04:46.8582459+00:00"
+  "LastUpdate_Ratings": "2023-07-09T02:31:13.5052291+00:00",
+  "LastUpdate_Achievements": "2023-07-09T02:37:18.9811853+00:00"
 }

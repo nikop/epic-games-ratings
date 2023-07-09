@@ -43,8 +43,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Defying the Crown | 1.00% | ~157 |
 | Into the Forest | 1.00% | ~157 |
 | Efficient Explorer | 0.70% | ~110 |
+| Prestigious Expedition | 0.70% | ~110 |
 | Blood Flower Farmer | 0.70% | ~110 |
-| Prestigious Expedition | 0.60% | ~94 |
 | Victory through Prosperity | 0.60% | ~94 |
 | Feeding The People | 0.50% | ~79 |
 | Lizard Utopia | 0.50% | ~79 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~16 |
 | Higher Needs | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,719 (Ranked 107)  
+Progressed: 15,722 (Ranked 107)  
 Completed: 40 (0.25%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,10 +137,11 @@ Completed: 40 (0.25%) (Ranked 153)
 | 2023-07-06 | 15,675 | 39 |
 | 2023-07-07 | 15,694 | 40 |
 | 2023-07-08 | 15,719 | 40 |
+| 2023-07-09 | 15,722 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 418  (Ranked 203)  
-Sum: 3,062 (Ranked 155)  
-Diff (max vs sum): 48  
+Sum: 3,062 (Ranked 156)  
+Diff (max vs sum): 47  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 418 |

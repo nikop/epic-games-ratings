@@ -6,9 +6,9 @@
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 209,
-  "Ranking_EOS_Completed": 164,
+  "Ranking_EOS_Completed": 165,
   "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -60,7 +60,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 537,
+  "EOS_Progressed": 538,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
@@ -1155,6 +1155,11 @@
       "Time": "2023-07-08T19:06:46.2290056+00:00",
       "NumProgressed": 537,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-09T02:40:04.4038365+00:00",
+      "NumProgressed": 538,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1166,7 +1171,7 @@
       "Name": "Extensive retelling",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "BadApple",
@@ -1190,7 +1195,7 @@
       "Name": "Dental maturity",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "DevilDetail",
@@ -1230,7 +1235,7 @@
       "Name": "Favorite",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "FisherKing",
@@ -1262,7 +1267,7 @@
       "Name": "The word around is...",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "HeadOnHerShoulders",
@@ -1310,7 +1315,7 @@
       "Name": "The cycle acknowledged",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "NoMoreWards",
@@ -1326,7 +1331,7 @@
       "Name": "Queen",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Rats",
@@ -1380,9 +1385,9 @@
       "ID": "ToothFairy",
       "SetID": "2aagp3d",
       "Name": "Tooth fairy",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 134
     },
     {
       "ID": "Toxic",
@@ -1406,7 +1411,7 @@
       "Name": "Forbidden techniques",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "YagaProfessional",
@@ -1421,7 +1426,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 537,
+      "Progressed": 538,
       "Completed": 1
     }
   ],
@@ -1429,8 +1434,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-07-09T00:07:12.0090474+00:00",
+  "LastChanged_Achievements": "2023-07-09T02:40:04.4038359+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:26.2300006+00:00",
-  "LastUpdate_Ratings": "2023-07-08T23:58:22.2770566+00:00",
-  "LastUpdate_Achievements": "2023-07-09T00:07:12.0090706+00:00"
+  "LastUpdate_Ratings": "2023-07-09T02:31:13.8951332+00:00",
+  "LastUpdate_Achievements": "2023-07-09T02:40:04.4038683+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3050,
+  "EOS_Progressed": 3051,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -2414,6 +2414,11 @@
       "Time": "2023-07-08T23:03:56.1771381+00:00",
       "NumProgressed": 3050,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-09T02:36:16.346761+00:00",
+      "NumProgressed": 3051,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 33,
@@ -2457,7 +2462,7 @@
       "Name": "Untouchable",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "bonus6",
@@ -2465,7 +2470,7 @@
       "Name": "All Geared Up",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "campaign1",
@@ -2473,7 +2478,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2714
+      "UsersEstimate": 2715
     },
     {
       "ID": "campaign10",
@@ -2553,7 +2558,7 @@
       "Name": "An Ally in Need",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "campaign2",
@@ -2577,7 +2582,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1982
+      "UsersEstimate": 1983
     },
     {
       "ID": "campaign4",
@@ -2617,7 +2622,7 @@
       "Name": "Held Back by the Roots",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "campaign9",
@@ -2633,7 +2638,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1250
+      "UsersEstimate": 1251
     },
     {
       "ID": "scenario2",
@@ -2649,7 +2654,7 @@
       "Name": "Not a Drop Wasted",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "scenario4",
@@ -2665,7 +2670,7 @@
       "Name": "We Have the Technology",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "scenario6",
@@ -2688,7 +2693,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3050,
+      "Progressed": 3051,
       "Completed": 10
     }
   ],
@@ -2696,8 +2701,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-07-09T00:03:31.5883913+00:00",
+  "LastChanged_Achievements": "2023-07-09T02:36:16.3467606+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:40.7919452+00:00",
-  "LastUpdate_Ratings": "2023-07-09T00:01:07.7157336+00:00",
-  "LastUpdate_Achievements": "2023-07-09T00:03:31.5884224+00:00"
+  "LastUpdate_Ratings": "2023-07-09T02:34:01.0754546+00:00",
+  "LastUpdate_Achievements": "2023-07-09T02:36:16.3467971+00:00"
 }

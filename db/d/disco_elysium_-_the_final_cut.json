@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1181,9 +1181,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 122880,
+  "EOS_Progressed": 122882,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 344,
+  "EOS_NewPlayers": 341,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -8836,6 +8836,11 @@
       "Time": "2023-07-08T23:03:31.4635505+00:00",
       "NumProgressed": 122880,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-07-09T02:35:37.5730232+00:00",
+      "NumProgressed": 122882,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 40,
@@ -8879,7 +8884,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 22118
+      "UsersEstimate": 22119
     },
     {
       "ID": "ACH_COP_BAD",
@@ -8895,7 +8900,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 9830
+      "UsersEstimate": 9831
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -8903,7 +8908,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 29491
+      "UsersEstimate": 29492
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -8911,7 +8916,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 9830
+      "UsersEstimate": 9831
     },
     {
       "ID": "ACH_COP_DORK",
@@ -8927,7 +8932,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 34406
+      "UsersEstimate": 34407
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -8975,7 +8980,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 15974
+      "UsersEstimate": 15975
     },
     {
       "ID": "ACH_COP_STAR",
@@ -9127,7 +9132,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 15974
+      "UsersEstimate": 15975
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -9166,15 +9171,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 122880,
+      "Progressed": 122882,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-07-07T16:59:40.5892511+00:00",
-  "LastChanged_Achievements": "2023-07-09T00:03:10.4292286+00:00",
+  "LastChanged_Achievements": "2023-07-09T02:35:37.5730229+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:13.7032583+00:00",
-  "LastUpdate_Ratings": "2023-07-08T23:59:47.8216611+00:00",
-  "LastUpdate_Achievements": "2023-07-09T00:03:10.4292877+00:00"
+  "LastUpdate_Ratings": "2023-07-09T02:32:43.435742+00:00",
+  "LastUpdate_Achievements": "2023-07-09T02:35:37.5730913+00:00"
 }

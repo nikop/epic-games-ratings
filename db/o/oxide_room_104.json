@@ -4,8 +4,8 @@
   "ProductSlug": "oxide-room-104-4c1249",
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T22:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 124,
+  "EOS_Progressed": 125,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -536,6 +536,11 @@
       "Time": "2023-07-06T18:08:15.3773154+00:00",
       "NumProgressed": 124,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-09T02:40:01.8246087+00:00",
+      "NumProgressed": 125,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 31,
@@ -555,15 +560,15 @@
       "Name": "373",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_ANTIDOTE",
       "SetID": "511e31d",
       "Name": "Antidote",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_BANDAGES",
@@ -571,7 +576,7 @@
       "Name": "First aid",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACH_BATHROOM",
@@ -579,7 +584,7 @@
       "Name": "What\u0027s going on here?",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACH_COMMONAREA",
@@ -595,7 +600,7 @@
       "Name": "The experiment",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_ENTRANCE",
@@ -641,9 +646,9 @@
       "ID": "ACH_FORCE",
       "SetID": "511e31d",
       "Name": "Brute force",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 103
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH_GOODENDING",
@@ -683,7 +688,7 @@
       "Name": "Soundtrack",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACH_NOBULLETS",
@@ -715,7 +720,7 @@
       "Name": "Nimble fingers",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH_RESTAURANT",
@@ -731,15 +736,15 @@
       "Name": "Matthew\u0027s revenge",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_ROOM104",
       "SetID": "511e31d",
       "Name": "Room 104",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_ROOM203",
@@ -747,7 +752,7 @@
       "Name": "Pick the right door",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_ROOM303",
@@ -771,7 +776,7 @@
       "Name": "Face to face",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACH_THIRDFLOOR",
@@ -779,29 +784,29 @@
       "Name": "The third floor",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_WAREHOUSE",
       "SetID": "511e31d",
       "Name": "Now or never",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     }
   ],
   "AchievementSets": [
     {
       "ID": "511e31d",
       "IsBase": true,
-      "Progressed": 124,
+      "Progressed": 125,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-07-09T00:07:09.9297581+00:00",
+  "LastChanged_Achievements": "2023-07-09T02:40:01.8246081+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:30.8178758+00:00",
-  "LastUpdate_Ratings": "2023-07-08T23:57:39.4159808+00:00",
-  "LastUpdate_Achievements": "2023-07-09T00:07:09.9297785+00:00"
+  "LastUpdate_Ratings": "2023-07-09T02:30:27.5560195+00:00",
+  "LastUpdate_Achievements": "2023-07-09T02:40:01.8246324+00:00"
 }

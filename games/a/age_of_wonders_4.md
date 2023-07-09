@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.61 (Ranked 361)  
+Rating: 4.61 (Ranked 362)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -41,22 +41,22 @@ Rating: 4.61 (Ranked 361)
 | The Eternal Court | 0.90% | ~45 |
 | Lord of Chaos | 0.80% | ~40 |
 | Crimson Caldera | 0.80% | ~40 |
-| Jack of All Tomes | 0.70% | ~35 |
+| Jack of All Tomes | 0.80% | ~40 |
 | Grexolis | 0.60% | ~30 |
 | One for All, All for One | 0.60% | ~30 |
+| I've Got Everything I Need Right Here | 0.50% | ~25 |
 | Pruning for Progress | 0.50% | ~25 |
-| I've Got Everything I Need Right Here | 0.40% | ~20 |
 | Manufactured War | 0.40% | ~20 |
 | Snap Out of It! | 0.30% | ~15 |
+| Betrayal Most Foul | 0.20% | ~10 |
 | I Want to Break Free | 0.10% | ~5 |
 | Master of Evilness | 0.10% | ~5 |
 | The Grey Wizard | 0.10% | ~5 |
 | Returning Circle | 0.10% | ~5 |
-| Betrayal Most Foul | 0.10% | ~5 |
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,954 (Ranked 135)  
+Progressed: 4,955 (Ranked 135)  
 Completed: 5 (0.10%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,6 +122,7 @@ Completed: 5 (0.10%) (Ranked 183)
 | 2023-07-06 | 4,933 | 5 |
 | 2023-07-07 | 4,937 | 5 |
 | 2023-07-08 | 4,954 | 5 |
+| 2023-07-09 | 4,955 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

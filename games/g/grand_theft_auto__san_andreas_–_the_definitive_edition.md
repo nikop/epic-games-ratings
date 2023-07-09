@@ -29,12 +29,12 @@ Rating: 4.56 (Ranked 455)
 | Yes I Speak English | 2.00% | ~220 |
 | Double or Nothin' | 2.00% | ~220 |
 | Public Enemy No. 1 | 2.00% | ~220 |
+| Ain’t Nothing But a G Thing | 2.00% | ~220 |
 | A Legitimate Business | 1.00% | ~110 |
 | Swiss Army Strife | 1.00% | ~110 |
 | Lucky Spinner | 1.00% | ~110 |
 | Assassin | 1.00% | ~110 |
 | Chick Magnet | 1.00% | ~110 |
-| Ain’t Nothing But a G Thing | 1.00% | ~110 |
 | Hoopin' it Up | 0.90% | ~99 |
 | Not a Player | 0.70% | ~77 |
 | Remastered | 0.60% | ~66 |

@@ -5,6 +5,7 @@ Rating: 4.45 (Ranked 622)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Climbing the Ladder | 2.00% | ~65 |
 | Liberté | 2.00% | ~65 |
 | Meeting Resistance | 2.00% | ~65 |
 | Confirming Suspicions | 2.00% | ~65 |
@@ -15,7 +16,6 @@ Rating: 4.45 (Ranked 622)
 | Taking it back | 2.00% | ~65 |
 | Target America | 2.00% | ~65 |
 | The Kraken Sleeps | 2.00% | ~65 |
-| Climbing the Ladder | 1.00% | ~32 |
 | No Stone Unturned | 1.00% | ~32 |
 | Organ Grinder | 1.00% | ~32 |
 | Gunslinger | 1.00% | ~32 |
@@ -53,6 +53,7 @@ Rating: 4.45 (Ranked 622)
 | Ghost of Falaise | 0.40% | ~13 |
 | Shipbreaker | 0.40% | ~13 |
 | Sink or Swim | 0.40% | ~13 |
+| Locomotion Commotion | 0.30% | ~10 |
 | Last Resort | 0.30% | ~10 |
 | If You Go Down To The Woods Today | 0.30% | ~10 |
 | Fight Another Day | 0.30% | ~10 |
@@ -60,7 +61,6 @@ Rating: 4.45 (Ranked 622)
 | Master of Secondaries | 0.20% | ~6 |
 | Master of Rifles | 0.20% | ~6 |
 | Out of Scope | 0.20% | ~6 |
-| Locomotion Commotion | 0.20% | ~6 |
 | Up close and personal | 0.20% | ~6 |
 | Sight Beyond Sights | 0.20% | ~6 |
 | Shoot for the Moon | 0.20% | ~6 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 622)
 | Stroll in the Woods | 0.10% | ~3 |
 | Going Overboard | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,234 (Ranked 146)  
+Progressed: 3,235 (Ranked 146)  
 Completed: 9 (0.28%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,6 +156,7 @@ Completed: 9 (0.28%) (Ranked 150)
 | 2023-07-06 | 3,221 | 9 |
 | 2023-07-07 | 3,227 | 9 |
 | 2023-07-08 | 3,234 | 9 |
+| 2023-07-09 | 3,235 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

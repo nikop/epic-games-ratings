@@ -6,42 +6,42 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~365,166 |
-| Now You're Talking | 62.00% | ~323,433 |
-| Steel Yourself | 62.00% | ~323,433 |
-| Window Dressing | 50.00% | ~260,833 |
-| Trigger Happy | 46.00% | ~239,966 |
-| Riverborn | 45.00% | ~234,750 |
-| Starry Eyed | 34.00% | ~177,366 |
-| Poking Around | 34.00% | ~177,366 |
-| Talk of the Town | 24.00% | ~125,200 |
-| AAARR! | 23.00% | ~119,983 |
-| Hello Darkness | 23.00% | ~119,983 |
-| Wind At Our Backs | 22.00% | ~114,767 |
-| To the Beat | 20.00% | ~104,333 |
-| Sunny Shores | 17.00% | ~88,683 |
-| Sunday Best | 16.00% | ~83,467 |
-| To Victory! | 15.00% | ~78,250 |
-| Two of a Kind | 14.00% | ~73,033 |
-| Keep On Trucking | 13.00% | ~67,817 |
-| Going on an Adventure | 11.00% | ~57,383 |
-| Make Peace, Not War | 11.00% | ~57,383 |
-| Walking The Line | 10.00% | ~52,167 |
-| Not So Cute Anymore | 10.00% | ~52,167 |
-| Road Less Travelled | 9.00% | ~46,950 |
-| Lost and Found | 9.00% | ~46,950 |
+| First Step | 70.00% | ~365,173 |
+| Now You're Talking | 62.00% | ~323,439 |
+| Steel Yourself | 62.00% | ~323,439 |
+| Window Dressing | 50.00% | ~260,838 |
+| Trigger Happy | 46.00% | ~239,971 |
+| Riverborn | 45.00% | ~234,754 |
+| Starry Eyed | 34.00% | ~177,370 |
+| Poking Around | 34.00% | ~177,370 |
+| Talk of the Town | 24.00% | ~125,202 |
+| AAARR! | 23.00% | ~119,985 |
+| Hello Darkness | 23.00% | ~119,985 |
+| Wind At Our Backs | 22.00% | ~114,769 |
+| To the Beat | 20.00% | ~104,335 |
+| Sunny Shores | 17.00% | ~88,685 |
+| Sunday Best | 16.00% | ~83,468 |
+| To Victory! | 15.00% | ~78,251 |
+| Two of a Kind | 14.00% | ~73,035 |
+| Keep On Trucking | 13.00% | ~67,818 |
+| Going on an Adventure | 11.00% | ~57,384 |
+| Make Peace, Not War | 11.00% | ~57,384 |
+| Walking The Line | 10.00% | ~52,168 |
+| Not So Cute Anymore | 10.00% | ~52,168 |
+| Road Less Travelled | 9.00% | ~46,951 |
+| Lost and Found | 9.00% | ~46,951 |
 | Partner in Crime | 7.00% | ~36,517 |
 | Hard to Hear | 7.00% | ~36,517 |
 | Under the Radar | 7.00% | ~36,517 |
-| Moving On Up | 6.00% | ~31,300 |
-| Owl Knows Best | 6.00% | ~31,300 |
-| Mind the Moose | 6.00% | ~31,300 |
-| Dressed to Kill | 6.00% | ~31,300 |
-| Beast Mode | 6.00% | ~31,300 |
-| Oh, Romeo! | 5.00% | ~26,083 |
-| Noble Intentions | 5.00% | ~26,083 |
-| Rising Star | 5.00% | ~26,083 |
-| Slime Slayer | 5.00% | ~26,083 |
+| Moving On Up | 6.00% | ~31,301 |
+| Owl Knows Best | 6.00% | ~31,301 |
+| Mind the Moose | 6.00% | ~31,301 |
+| Dressed to Kill | 6.00% | ~31,301 |
+| Beast Mode | 6.00% | ~31,301 |
+| Oh, Romeo! | 5.00% | ~26,084 |
+| Noble Intentions | 5.00% | ~26,084 |
+| Rising Star | 5.00% | ~26,084 |
+| Slime Slayer | 5.00% | ~26,084 |
 | Privacy, Please! | 4.00% | ~20,867 |
 | Silky Smooth | 4.00% | ~20,867 |
 | Hash It Over | 4.00% | ~20,867 |
@@ -54,17 +54,17 @@ Number of Ratings: 617  (23.09.2022)
 | Page Turner | 3.00% | ~15,650 |
 | Spinal Adjustment | 3.00% | ~15,650 |
 | The Knowledge | 3.00% | ~15,650 |
-| Seek the Rainbow | 2.00% | ~10,433 |
-| Words of Truth | 2.00% | ~10,433 |
-| Star Power | 2.00% | ~10,433 |
-| Justice Served | 2.00% | ~10,433 |
+| Seek the Rainbow | 2.00% | ~10,434 |
+| Words of Truth | 2.00% | ~10,434 |
+| Star Power | 2.00% | ~10,434 |
+| Justice Served | 2.00% | ~10,434 |
 | Don't Care | 1.00% | ~5,217 |
 | Don’t Get Crabby | 1.00% | ~5,217 |
 | Written in the Stars | 0.90% | ~4,695 |
 | Boss of All Bosses | 0.30% | ~1,565 |
 | Point Taken | 0.10% | ~522 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 521,666 (Ranked 29)  
+Progressed: 521,676 (Ranked 29)  
 Completed: 441 (0.08%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,6 +144,7 @@ Completed: 441 (0.08%) (Ranked 192)
 | 2023-07-06 | 521,470 | 439 |
 | 2023-07-07 | 521,568 | 440 |
 | 2023-07-08 | 521,666 | 441 |
+| 2023-07-09 | 521,676 | 441 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

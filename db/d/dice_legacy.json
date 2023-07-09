@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
     "PcReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -44,9 +44,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 902,
+  "EOS_Progressed": 903,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -939,6 +939,11 @@
       "Time": "2023-07-08T17:01:06.7571829+00:00",
       "NumProgressed": 902,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-09T02:34:50.6364944+00:00",
+      "NumProgressed": 903,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -972,9 +977,9 @@
       "ID": "CHALLENGE_FEWBUTGOOD",
       "SetID": "6ohhfoc",
       "Name": "Six Faces",
-      "Percentage": 0.4,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "CHALLENGE_GREATWINTER",
@@ -1309,7 +1314,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 902,
+      "Progressed": 903,
       "Completed": 0
     }
   ],
@@ -1317,8 +1322,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-07-09T00:02:15.6418479+00:00",
+  "LastChanged_Achievements": "2023-07-09T02:34:50.6364939+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:08.7957135+00:00",
-  "LastUpdate_Ratings": "2023-07-08T23:58:07.7607893+00:00",
-  "LastUpdate_Achievements": "2023-07-09T00:02:15.6418817+00:00"
+  "LastUpdate_Ratings": "2023-07-09T02:30:58.4398516+00:00",
+  "LastUpdate_Achievements": "2023-07-09T02:34:50.6365374+00:00"
 }

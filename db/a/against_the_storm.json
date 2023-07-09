@@ -4,7 +4,7 @@
   "ProductSlug": "against-the-storm",
   "Ranking_Rating": 75,
   "Ranking_Popularity": 203,
-  "Ranking_PopularitySum": 155,
+  "Ranking_PopularitySum": 156,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 153,
   "Ranking_EOS_NewPlayers": 103,
@@ -2468,9 +2468,9 @@
       "Count": 310
     }
   ],
-  "EOS_Progressed": 15719,
+  "EOS_Progressed": 15722,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -6798,6 +6798,11 @@
       "Time": "2023-07-08T22:07:04.9106819+00:00",
       "NumProgressed": 15719,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-07-09T02:40:07.5675189+00:00",
+      "NumProgressed": 15722,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 50,
@@ -7103,9 +7108,9 @@
       "ID": "WinPrestige10",
       "SetID": "cfbk359",
       "Name": "Prestigious Expedition",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 94
+      "UsersEstimate": 110
     },
     {
       "ID": "WinPrestige20",
@@ -7208,15 +7213,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 15719,
+      "Progressed": 15722,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-07-05T06:01:17.8397292+00:00",
-  "LastChanged_Achievements": "2023-07-09T00:07:14.8303587+00:00",
+  "LastChanged_Achievements": "2023-07-09T02:40:07.5675184+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:29.6140408+00:00",
-  "LastUpdate_Ratings": "2023-07-09T00:00:58.6729753+00:00",
-  "LastUpdate_Achievements": "2023-07-09T00:07:14.8304159+00:00"
+  "LastUpdate_Ratings": "2023-07-09T02:33:50.6772897+00:00",
+  "LastUpdate_Achievements": "2023-07-09T02:40:07.5675823+00:00"
 }

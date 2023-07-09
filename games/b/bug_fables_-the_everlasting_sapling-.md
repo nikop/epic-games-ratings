@@ -16,8 +16,8 @@
 | Chapter 6 Complete | 23.00% | ~16 |
 | Reconciliation | 23.00% | ~16 |
 | Always Watchful | 21.00% | ~15 |
+| Chapter 7 Complete | 21.00% | ~15 |
 | Plant Enchanter | 21.00% | ~15 |
-| Chapter 7 Complete | 20.00% | ~14 |
 | Bounty Hunter | 18.00% | ~13 |
 | The Terror | 18.00% | ~13 |
 | All Geared Up | 15.00% | ~11 |

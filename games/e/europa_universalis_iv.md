@@ -6,21 +6,21 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,056 |
-| That's a Grand Army | 8.00% | ~5,383 |
-| That is mine! | 8.00% | ~5,383 |
-| Victorious! | 8.00% | ~5,383 |
-| Brothers in Arms | 6.00% | ~4,037 |
-| That's a Grand Navy | 6.00% | ~4,037 |
-| Seriously?! | 6.00% | ~4,037 |
-| For the Glory | 5.00% | ~3,364 |
-| Cold War | 4.00% | ~2,692 |
-| True Catholic | 4.00% | ~2,692 |
-| Defender of the Faith | 3.00% | ~2,019 |
-| It's all about the money | 3.00% | ~2,019 |
-| Respected | 3.00% | ~2,019 |
-| The Princess is in this Castle | 3.00% | ~2,019 |
-| Truly Divine Ruler | 3.00% | ~2,019 |
+| Until death do us apart | 9.00% | ~6,059 |
+| That's a Grand Army | 8.00% | ~5,385 |
+| That is mine! | 8.00% | ~5,385 |
+| Victorious! | 8.00% | ~5,385 |
+| Brothers in Arms | 6.00% | ~4,039 |
+| That's a Grand Navy | 6.00% | ~4,039 |
+| Seriously?! | 6.00% | ~4,039 |
+| For the Glory | 5.00% | ~3,366 |
+| Cold War | 4.00% | ~2,693 |
+| True Catholic | 4.00% | ~2,693 |
+| Defender of the Faith | 3.00% | ~2,020 |
+| It's all about the money | 3.00% | ~2,020 |
+| Respected | 3.00% | ~2,020 |
+| The Princess is in this Castle | 3.00% | ~2,020 |
+| Truly Divine Ruler | 3.00% | ~2,020 |
 | Agressive Expander | 2.00% | ~1,346 |
 | Blockader | 2.00% | ~1,346 |
 | Combined Arms | 2.00% | ~1,346 |
@@ -42,8 +42,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | This navy can take it all | 1.00% | ~673 |
 | Isn't this the way to India? | 0.90% | ~606 |
 | Market Control | 0.90% | ~606 |
-| Down Under | 0.80% | ~538 |
-| Trustworthy | 0.80% | ~538 |
+| Down Under | 0.80% | ~539 |
+| Trustworthy | 0.80% | ~539 |
 | Electable! | 0.70% | ~471 |
 | Populists in Government | 0.70% | ~471 |
 | All belongs to Mother Russia | 0.60% | ~404 |
@@ -53,12 +53,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | The pen is mightier than the sword | 0.60% | ~404 |
 | This is My Faith | 0.60% | ~404 |
 | Time Bandit | 0.60% | ~404 |
-| Absolutely | 0.50% | ~336 |
-| Grand Coalition | 0.50% | ~336 |
-| Live Long and Prosper | 0.50% | ~336 |
-| Ruina Imperii | 0.50% | ~336 |
-| Trophy Hunter | 0.50% | ~336 |
-| Voting Streak | 0.50% | ~336 |
+| Absolutely | 0.50% | ~337 |
+| Grand Coalition | 0.50% | ~337 |
+| Live Long and Prosper | 0.50% | ~337 |
+| Ruina Imperii | 0.50% | ~337 |
+| Trophy Hunter | 0.50% | ~337 |
+| Voting Streak | 0.50% | ~337 |
 | All Your Trade Are Belong to Us | 0.40% | ~269 |
 | Bleed Them Dry | 0.40% | ~269 |
 | Dude, Where's my Boat? | 0.40% | ~269 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,290 (Ranked 73)  
+Progressed: 67,317 (Ranked 73)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -441,22 +441,22 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-06 | 66,326 | 0 |
 | 2023-07-07 | 66,739 | 0 |
 | 2023-07-08 | 67,273 | 0 |
-| 2023-07-09 | 67,290 | 0 |
+| 2023-07-09 | 67,317 | 0 |
 ## Awards
 Max (Educational): 5,522  (Ranked 60)  
-Sum: 45,550 (Ranked 27)  
+Sum: 45,558 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,522 |
-| This game is Highly Recommended | 5,285 |
+| This game is Highly Recommended | 5,292 |
 | This game has Challenging Combat | 5,244 |
 | This game is Extremely Fun | 5,233 |
 | This game has Diverse Characters | 5,200 |
 | This game is Relaxing | 5,113 |
 | This game has Competitive Players | 4,954 |
 | This game has Amazing Storytelling | 4,677 |
-| This game has Amazing Characters | 4,322 |
+| This game has Amazing Characters | 4,323 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -634,3 +634,4 @@ Diff (max vs sum): 33
 | 2023-07-06 | 4.69 | - | 5,511 | 45,478 |
 | 2023-07-07 | 4.69 | - | 5,515 | 45,515 |
 | 2023-07-08 | 4.69 | - | 5,522 | 45,550 |
+| 2023-07-09 | 4.69 | - | 5,522 | 45,558 |

@@ -10,7 +10,7 @@ Number of Ratings: 111  (23.09.2022)
 | Keeping it classy | 26.00% | ~650 |
 | Welcome to the family | 20.00% | ~500 |
 | The finer things in life | 18.00% | ~450 |
-| Backpacker | 12.00% | ~300 |
+| Backpacker | 13.00% | ~325 |
 | Go with the Flow | 12.00% | ~300 |
 | Plastic Surgeon | 9.00% | ~225 |
 | The hard way | 9.00% | ~225 |
@@ -18,11 +18,11 @@ Number of Ratings: 111  (23.09.2022)
 | Keep the dream alive | 8.00% | ~200 |
 | The flip trick crown jewel | 8.00% | ~200 |
 | Upfront shredder | 8.00% | ~200 |
+| Bottom ply killer | 6.00% | ~150 |
 | Fashionista | 6.00% | ~150 |
 | Finally he zips it | 6.00% | ~150 |
 | That pinch! | 6.00% | ~150 |
 | Tight lipslides | 6.00% | ~150 |
-| Bottom ply killer | 5.00% | ~125 |
 | Commence the Hijinx! | 5.00% | ~125 |
 | Fulfilled the dream | 5.00% | ~125 |
 | G'Day Mate! | 5.00% | ~125 |

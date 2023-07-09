@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 358,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-05-25T13:00:00+00:00",
     "PcReleaseDate": "2023-05-25T13:00:00+00:00",
@@ -145,9 +145,9 @@
       "ID": "ACH_CASTLE_COMPLETED",
       "SetID": "b5c8hh8",
       "Name": "The Forgotten Castle Complete",
-      "Percentage": 50,
+      "Percentage": 56,
       "XP": 80,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_CASTLE_FAST_COMPLETED",
@@ -185,9 +185,9 @@
       "ID": "ACH_MANSION_COMPLETED",
       "SetID": "b5c8hh8",
       "Name": "Jefferson\u0027s Mansion Complete",
-      "Percentage": 59,
+      "Percentage": 66,
       "XP": 80,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_MANSION_FAST_COMPLETED",
@@ -240,8 +240,8 @@
   ],
   "FirstSeen": "2023-06-09T19:57:14.7958612+00:00",
   "FirstSeenAchievements": "2023-05-09T02:03:36.4240684+00:00",
-  "LastChanged_Achievements": "2023-07-09T00:06:20.9620963+00:00",
+  "LastChanged_Achievements": "2023-07-09T02:39:05.7820695+00:00",
   "LastUpdate_AppInfo": "2023-07-04T05:56:58.0747153+00:00",
-  "LastUpdate_Ratings": "2023-07-08T23:57:28.644935+00:00",
-  "LastUpdate_Achievements": "2023-07-09T00:06:20.9621046+00:00"
+  "LastUpdate_Ratings": "2023-07-09T02:30:16.2708196+00:00",
+  "LastUpdate_Achievements": "2023-07-09T02:39:05.7820804+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -582,9 +582,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 2949,
+  "EOS_Progressed": 2950,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2122,6 +2122,11 @@
       "Time": "2023-07-08T15:03:13.9355499+00:00",
       "NumProgressed": 2949,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-09T02:36:10.5914493+00:00",
+      "NumProgressed": 2950,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2149,7 +2154,7 @@
       "Name": "Look Over There!",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "BloodAndIron",
@@ -2189,7 +2194,7 @@
       "Name": "Clean Slate",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "CompletedAllShipUpgrades",
@@ -2229,7 +2234,7 @@
       "Name": "Surgical Excision",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -2245,7 +2250,7 @@
       "Name": "Fleetmaster",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ForTheMachineGod",
@@ -2253,7 +2258,7 @@
       "Name": "For the Machine God",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "FrequentWarpSurges",
@@ -2261,7 +2266,7 @@
       "Name": "Unstable Immaterium",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "FullBarracks",
@@ -2269,7 +2274,7 @@
       "Name": "Strike Force",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "HeavyExterminatusUse",
@@ -2293,7 +2298,7 @@
       "Name": "Hold Your Ground",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "Kills_Auto",
@@ -2341,7 +2346,7 @@
       "Name": "Friendly Fire",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "Kills_Interactable",
@@ -2357,7 +2362,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "Kills_Streak",
@@ -2365,7 +2370,7 @@
       "Name": "Purging Spree",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "Kills_Vakir",
@@ -2469,7 +2474,7 @@
       "Name": "Bloodless",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "MissionVictory_NoWP",
@@ -2493,7 +2498,7 @@
       "Name": "Just a Scratch",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "NexusCompleted",
@@ -2557,7 +2562,7 @@
       "Name": "A Gift Spurned",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ReaperDefeated_Tentarus",
@@ -2604,21 +2609,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2949,
+      "Progressed": 2950,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2949,
+      "Progressed": 2950,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-08T19:59:25.149213+00:00",
-  "LastChanged_Achievements": "2023-07-09T00:03:27.6647752+00:00",
+  "LastChanged_Achievements": "2023-07-09T02:36:10.5914489+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:34.0888616+00:00",
-  "LastUpdate_Ratings": "2023-07-08T23:59:16.219619+00:00",
-  "LastUpdate_Achievements": "2023-07-09T00:03:27.6648255+00:00"
+  "LastUpdate_Ratings": "2023-07-09T02:32:10.3460868+00:00",
+  "LastUpdate_Achievements": "2023-07-09T02:36:10.5915171+00:00"
 }
