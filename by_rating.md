@@ -91,7 +91,7 @@
 | 87 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 159 | 289 |
 | 87 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 504 |
 | 87 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.79 | 0 | 504 |
-| 87 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 700 | 163 |
+| 87 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 702 | 161 |
 | 87 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 1,299 | 129 |
 | 87 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,908 | 56 |
 | 87 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.79 | 44 | 413 |
@@ -246,7 +246,7 @@
 | 238 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,869 | 79 |
 | 238 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 0 | 504 |
 | 238 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 299,717 | 3 |
-| 238 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 195,829 | 4 |
+| 238 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 196,293 | 4 |
 | 238 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 414 | 205 |
 | 238 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 560 | 180 |
 | 238 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 674 | 165 |
@@ -436,7 +436,7 @@
 | 421 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 52 | 393 |
 | 421 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,215 | 53 |
 | 421 | [Travellers Rest](games/t/travellers_rest.md) | 4.58 | 0 | 504 |
-| 421 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 701 | 162 |
+| 421 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 701 | 163 |
 | 421 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,412 | 25 |
 | 439 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 0 | 504 |
 | 439 | [Among Us](games/a/among_us.md) | 4.57 | 2,521 | 95 |
@@ -592,7 +592,7 @@
 | 585 | [Scorn](games/s/scorn.md) | 4.48 | 0 | 504 |
 | 585 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 0 | 504 |
 | 585 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.48 | 2,066 | 108 |
-| 585 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.48 | 7,496 | 45 |
+| 585 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.48 | 7,505 | 45 |
 | 594 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 0 | 504 |
 | 594 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 0 | 504 |
 | 594 | [Figment](games/f/figment.md) | 4.47 | 20 | 501 |

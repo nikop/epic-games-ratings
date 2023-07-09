@@ -3,7 +3,7 @@
 | 1 | [Fortnite](games/f/fortnite.md) | 1,485,665 | 4.29 | 780 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 467,770 | 4.50 | 551 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 299,717 | 4.68 | 238 |
-| 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 195,829 | 4.68 | 238 |
+| 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 196,293 | 4.68 | 238 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 185,474 | 4.19 | 844 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 157,434 | 4.88 | 19 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 143,681 | 4.52 | 520 |
@@ -44,7 +44,7 @@
 | 42 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 7,669 | 4.89 | 12 |
 | 43 | [Supraland](games/s/supraland.md) | 7,641 | 4.61 | 362 |
 | 44 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,545 | 4.57 | 439 |
-| 45 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 7,496 | 4.48 | 585 |
+| 45 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 7,505 | 4.48 | 585 |
 | 46 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,307 | 4.71 | 181 |
 | 47 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 7,252 | 4.68 | 238 |
 | 48 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,767 | 4.74 | 144 |
@@ -161,8 +161,8 @@
 | 159 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 732 | 4.78 | 100 |
 | 160 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 722 | 4.50 | 551 |
 | 161 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 702 | 4.86 | 28 |
-| 162 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 701 | 4.58 | 421 |
-| 163 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 700 | 4.79 | 87 |
+| 161 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 702 | 4.79 | 87 |
+| 163 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 701 | 4.58 | 421 |
 | 164 | [Neverwinter](games/n/neverwinter.md) | 697 | 4.29 | 780 |
 | 165 | [Neon Abyss](games/n/neon_abyss.md) | 674 | 4.68 | 238 |
 | 166 | [Subnautica](games/s/subnautica.md) | 671 | 4.85 | 41 |
