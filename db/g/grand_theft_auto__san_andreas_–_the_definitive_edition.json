@@ -3,12 +3,12 @@
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 454,
-  "Ranking_Popularity": 264,
-  "Ranking_PopularitySum": 358,
+  "Ranking_Popularity": 263,
+  "Ranking_PopularitySum": 356,
   "Ranking_EOS_Progress": 115,
-  "Ranking_EOS_Completed": 156,
+  "Ranking_EOS_Completed": 153,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -518,25 +518,31 @@
       "Rating": 4.56,
       "NumberOfAwards": 208,
       "NumberOfAwardsMax": 208
+    },
+    {
+      "Time": "2023-07-09T15:01:12.0391382+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 212,
+      "NumberOfAwardsMax": 212
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 208,
-  "NumberOfAwardsMax": 208,
+  "NumberOfAwards": 212,
+  "NumberOfAwardsMax": 212,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 208
+      "Count": 212
     }
   ],
-  "EOS_Progressed": 10994,
-  "EOS_Completed": 26,
+  "EOS_Progressed": 10995,
+  "EOS_Completed": 27,
   "EOS_NewPlayers": 79,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.24,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:18.653518+00:00",
@@ -6327,6 +6333,11 @@
       "Time": "2023-07-09T11:05:58.5567651+00:00",
       "NumProgressed": 10994,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-07-09T15:07:36.8766891+00:00",
+      "NumProgressed": 10995,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 35,
@@ -6338,7 +6349,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 8905
+      "UsersEstimate": 8906
     },
     {
       "ID": "ACH02",
@@ -6394,7 +6405,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5497
+      "UsersEstimate": 5498
     },
     {
       "ID": "ACH09",
@@ -6418,7 +6429,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "ACH12",
@@ -6442,7 +6453,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1099
+      "UsersEstimate": 1100
     },
     {
       "ID": "ACH15",
@@ -6617,16 +6628,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 10994,
-      "Completed": 26
+      "Progressed": 10995,
+      "Completed": 27
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-07-08T02:24:21.2335521+00:00",
-  "LastChanged_Achievements": "2023-07-09T14:07:09.8321567+00:00",
+  "LastChanged": "2023-07-09T15:01:12.039138+00:00",
+  "LastChanged_Achievements": "2023-07-09T15:07:36.8766886+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:43.1834453+00:00",
-  "LastUpdate_Ratings": "2023-07-09T14:00:55.603935+00:00",
-  "LastUpdate_Achievements": "2023-07-09T14:07:09.8322047+00:00"
+  "LastUpdate_Ratings": "2023-07-09T15:01:12.0391385+00:00",
+  "LastUpdate_Achievements": "2023-07-09T15:07:36.8767342+00:00"
 }

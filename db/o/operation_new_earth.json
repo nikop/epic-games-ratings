@@ -2,7 +2,7 @@
   "ID": "fa9a00f7f82846b4b820e6152b69aa55",
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
-  "Ranking_EOS_Progress": 230,
+  "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 90,
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 381,
+  "EOS_Progressed": 382,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1301,6 +1301,11 @@
       "Time": "2023-07-09T14:05:14.5175914+00:00",
       "NumProgressed": 381,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-09T15:05:29.0967456+00:00",
+      "NumProgressed": 382,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1416,15 +1421,15 @@
       "Name": "Facility Online",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "objective_hero_level_up_1",
       "SetID": "bm61c2p",
       "Name": "Corporal",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 107
+      "UsersEstimate": 103
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -1432,7 +1437,7 @@
       "Name": "Sergeant",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -1448,7 +1453,7 @@
       "Name": "Captain",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -1486,17 +1491,17 @@
       "ID": "objective_key_alliance_join_1",
       "SetID": "bm61c2p",
       "Name": "It\u0027s Good to have Allies",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 168
+      "UsersEstimate": 172
     },
     {
       "ID": "objective_key_contest_tiles_3",
       "SetID": "bm61c2p",
       "Name": "Covert Operative",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 80
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -1568,7 +1573,7 @@
       "Name": "Defenses Online",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -1615,14 +1620,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 381,
+      "Progressed": 382,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-09T14:05:14.5175909+00:00",
+  "LastChanged_Achievements": "2023-07-09T15:05:29.0967446+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:58.5226048+00:00",
-  "LastUpdate_Ratings": "2023-07-09T14:01:07.4051019+00:00",
-  "LastUpdate_Achievements": "2023-07-09T14:05:14.5176191+00:00"
+  "LastUpdate_Ratings": "2023-07-09T15:01:23.9718146+00:00",
+  "LastUpdate_Achievements": "2023-07-09T15:05:29.0967727+00:00"
 }

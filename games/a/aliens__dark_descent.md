@@ -7,7 +7,7 @@ Rating: 4.41 (Ranked 673)
 | ---- | ---------- | ----- |
 | This Is Hayes, Pioneer Station, Signing Off | 80.00% | ~2,202 |
 | Snatched Out | 73.00% | ~2,010 |
-| Keep 'Em Coming | 71.00% | ~1,955 |
+| Keep 'Em Coming | 72.00% | ~1,982 |
 | Cleaning Lethe, One Nest At A Time | 63.00% | ~1,734 |
 | Call Me Snake | 58.00% | ~1,597 |
 | Something Lurks Under The Hills | 57.00% | ~1,569 |
@@ -27,14 +27,14 @@ Rating: 4.41 (Ranked 673)
 | Living Nightmare | 22.00% | ~606 |
 | The Darwin Era Was Here | 18.00% | ~496 |
 | Stuff Of Nightmares | 17.00% | ~468 |
+| Deep Into Insanity | 17.00% | ~468 |
 | Come on, You Wanna Live Forever? | 16.00% | ~440 |
-| Deep Into Insanity | 16.00% | ~440 |
 | The Passenger | 16.00% | ~440 |
 | El Riesgo Siempre Vive | 15.00% | ~413 |
 | One For Every Occasion | 13.00% | ~358 |
 | The Spire | 13.00% | ~358 |
+| Bandage Lover | 12.00% | ~330 |
 | Frontliner | 12.00% | ~330 |
-| Bandage Lover | 11.00% | ~303 |
 | The Cable Guy | 11.00% | ~303 |
 | Excavating The Truth | 10.00% | ~275 |
 | Abysmal Horrors | 10.00% | ~275 |

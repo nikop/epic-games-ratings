@@ -160,7 +160,7 @@
   "Tags": [],
   "EOS_Progressed": 1595,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4490,9 +4490,9 @@
       "ID": "trainingmakesaproplayer",
       "SetID": "3nl4bcg",
       "Name": "Training makes a Pro player",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "transmute",
@@ -4571,8 +4571,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-07-06T11:58:21.6174539+00:00",
-  "LastChanged_Achievements": "2023-07-09T14:07:10.3616147+00:00",
+  "LastChanged_Achievements": "2023-07-09T15:07:37.7042635+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:35.1051404+00:00",
-  "LastUpdate_Ratings": "2023-07-09T13:58:28.4558176+00:00",
-  "LastUpdate_Achievements": "2023-07-09T14:07:10.3616929+00:00"
+  "LastUpdate_Ratings": "2023-07-09T14:58:28.0958814+00:00",
+  "LastUpdate_Achievements": "2023-07-09T15:07:37.7043449+00:00"
 }

@@ -1,16 +1,16 @@
 # Sunless Sea
 [Store](https://store.epicgames.com/en-US/p/sunless-sea)  
 [View Rawdata](../../db/s/sunless_sea.json)  
-Rating: 4.58 (Ranked 421)  
+Rating: 4.58 (Ranked 422)  
 Number of Ratings: 401  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~11,912 |
-| Sweet Sorrow | 18.00% | ~5,956 |
-| Rules the Waves | 17.00% | ~5,625 |
-| Thou, All-Shaking Thunder | 15.00% | ~4,963 |
-| Rival | 14.00% | ~4,632 |
+| Sink Beneath the Waves | 36.00% | ~11,913 |
+| Sweet Sorrow | 18.00% | ~5,957 |
+| Rules the Waves | 17.00% | ~5,626 |
+| Thou, All-Shaking Thunder | 15.00% | ~4,964 |
+| Rival | 14.00% | ~4,633 |
 | Correspondent | 12.00% | ~3,971 |
 | Lose Your Mind | 12.00% | ~3,971 |
 | Sound Mind? | 12.00% | ~3,971 |
@@ -19,11 +19,11 @@ Number of Ratings: 401  (23.09.2022)
 | The Fall of the House | 11.00% | ~3,640 |
 | Shipmate | 11.00% | ~3,640 |
 | One Year at Zee | 8.00% | ~2,647 |
-| Pupil | 7.00% | ~2,316 |
-| Salvager | 7.00% | ~2,316 |
-| Open Your Ears | 7.00% | ~2,316 |
-| The Ascent of Man | 7.00% | ~2,316 |
-| Zee Fever | 5.00% | ~1,654 |
+| Pupil | 7.00% | ~2,317 |
+| Salvager | 7.00% | ~2,317 |
+| Open Your Ears | 7.00% | ~2,317 |
+| The Ascent of Man | 7.00% | ~2,317 |
+| Zee Fever | 5.00% | ~1,655 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,324 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,324 |
 | Storm's Curse | 3.00% | ~993 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~33 |
 | Ten Years at Zee | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,089 (Ranked 93)  
+Progressed: 33,093 (Ranked 93)  
 Completed: 3 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,11 +141,11 @@ Completed: 3 (0.01%) (Ranked 223)
 | 2023-07-06 | 32,918 | 3 |
 | 2023-07-07 | 32,969 | 3 |
 | 2023-07-08 | 33,050 | 3 |
-| 2023-07-09 | 33,089 | 3 |
+| 2023-07-09 | 33,093 | 3 |
 ## Awards
-Max (Character Customization): 209  (Ranked 263)  
+Max (Character Customization): 209  (Ranked 264)  
 Sum: 279 (Ranked 336)  
-Diff (max vs sum): -73  
+Diff (max vs sum): -72  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 209 |

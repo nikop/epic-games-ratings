@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 41,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
     "PcReleaseDate": "2022-07-06T08:00:00+00:00",
@@ -324,9 +324,9 @@
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "8d3ci0",
       "Name": "Abducktion",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 95,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -355,8 +355,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-09T14:04:59.7266795+00:00",
+  "LastChanged_Achievements": "2023-07-09T15:05:13.317034+00:00",
   "LastUpdate_AppInfo": "2023-07-08T11:56:59.3518994+00:00",
-  "LastUpdate_Ratings": "2023-07-09T13:57:16.4681206+00:00",
-  "LastUpdate_Achievements": "2023-07-09T14:04:59.7266906+00:00"
+  "LastUpdate_Ratings": "2023-07-09T14:57:06.8685284+00:00",
+  "LastUpdate_Achievements": "2023-07-09T15:05:13.3170445+00:00"
 }

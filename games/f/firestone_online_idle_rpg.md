@@ -63,9 +63,9 @@ Rating: 4.09 (Ranked 890)
 | What lies behind the bush | 3.00% | ~48 |
 | Ebony Jungle Liberator | 2.00% | ~32 |
 | Mythic Power | 1.00% | ~16 |
+| Training makes a Pro player | 0.80% | ~13 |
 | Gear Enchanting | 0.70% | ~11 |
 | Guardian Master | 0.70% | ~11 |
-| Training makes a Pro player | 0.70% | ~11 |
 | Transmute | 0.60% | ~10 |
 | Tree of Life | 0.50% | ~8 |
 | Cauldron Liberator | 0.40% | ~6 |

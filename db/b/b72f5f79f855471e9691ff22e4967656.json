@@ -262,9 +262,9 @@
       "ID": "killGolem10",
       "SetID": "ci65fo0",
       "Name": "Golems Fighter",
-      "Percentage": 31,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "killGrave10",
@@ -390,9 +390,9 @@
       "ID": "locDungeon1",
       "SetID": "ci65fo0",
       "Name": "The first dungeon",
-      "Percentage": 63,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "locDungeon2",
@@ -422,9 +422,9 @@
       "ID": "locSmith",
       "SetID": "ci65fo0",
       "Name": "The second friend",
-      "Percentage": 63,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "locWorker",
@@ -566,9 +566,9 @@
       "ID": "questKillGoblinMage",
       "SetID": "ci65fo0",
       "Name": "Goblins Conqueror",
-      "Percentage": 25,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "questKillSwampMonster",
@@ -654,9 +654,9 @@
       "ID": "questSavePrincess",
       "SetID": "ci65fo0",
       "Name": "The Savior of Princesses",
-      "Percentage": 25,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "questSavePrincessFinal",
@@ -715,8 +715,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-07-09T14:04:37.9955919+00:00",
+  "LastChanged_Achievements": "2023-07-09T15:04:49.6919766+00:00",
   "LastUpdate_AppInfo": "2023-07-05T09:56:55.4527488+00:00",
-  "LastUpdate_Ratings": "2023-07-09T13:57:16.3997323+00:00",
-  "LastUpdate_Achievements": "2023-07-09T14:04:37.9956555+00:00"
+  "LastUpdate_Ratings": "2023-07-09T14:57:06.7329035+00:00",
+  "LastUpdate_Achievements": "2023-07-09T15:04:49.6920425+00:00"
 }

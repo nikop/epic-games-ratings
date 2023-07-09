@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57090,
+  "EOS_Progressed": 57094,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 414,
+  "EOS_NewPlayers": 413,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7437,6 +7437,11 @@
       "Time": "2023-07-09T14:04:05.6872528+00:00",
       "NumProgressed": 57090,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-09T15:04:14.1774682+00:00",
+      "NumProgressed": 57094,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7448,7 +7453,7 @@
       "Name": "Follow the Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 19411
+      "UsersEstimate": 19412
     },
     {
       "ID": "02",
@@ -7456,7 +7461,7 @@
       "Name": "Nordic Walking",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 11989
+      "UsersEstimate": 11990
     },
     {
       "ID": "03",
@@ -7464,7 +7469,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11418
+      "UsersEstimate": 11419
     },
     {
       "ID": "04",
@@ -7480,7 +7485,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10276
+      "UsersEstimate": 10277
     },
     {
       "ID": "06",
@@ -7544,7 +7549,7 @@
       "Name": "Drink \u0027Em Both Up",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2854
+      "UsersEstimate": 2855
     },
     {
       "ID": "14",
@@ -7568,7 +7573,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3425
+      "UsersEstimate": 3426
     },
     {
       "ID": "17",
@@ -7576,7 +7581,7 @@
       "Name": "Departure",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3425
+      "UsersEstimate": 3426
     },
     {
       "ID": "18",
@@ -7584,7 +7589,7 @@
       "Name": "Hardboiled Writer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2854
+      "UsersEstimate": 2855
     },
     {
       "ID": "19",
@@ -7640,7 +7645,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3996
+      "UsersEstimate": 3997
     },
     {
       "ID": "26",
@@ -7696,7 +7701,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14843
+      "UsersEstimate": 14844
     },
     {
       "ID": "33",
@@ -7720,7 +7725,7 @@
       "Name": "Let There Be Light",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 15414
+      "UsersEstimate": 15415
     },
     {
       "ID": "36",
@@ -7760,7 +7765,7 @@
       "Name": "Right of Way",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4567
+      "UsersEstimate": 4568
     },
     {
       "ID": "41",
@@ -7856,7 +7861,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1233
+      "UsersEstimate": 1234
     },
     {
       "ID": "53",
@@ -7983,21 +7988,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57090,
+      "Progressed": 57094,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20558,
+      "Progressed": 20562,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-09T14:04:05.6872523+00:00",
+  "LastChanged_Achievements": "2023-07-09T15:04:14.1774678+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:08.3646753+00:00",
-  "LastUpdate_Ratings": "2023-07-09T13:58:07.9723793+00:00",
-  "LastUpdate_Achievements": "2023-07-09T14:04:05.6873353+00:00"
+  "LastUpdate_Ratings": "2023-07-09T14:58:04.685453+00:00",
+  "LastUpdate_Achievements": "2023-07-09T15:04:14.1775515+00:00"
 }

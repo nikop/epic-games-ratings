@@ -6,24 +6,24 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 76.00% | ~4,797 |
-| Photographer | 73.00% | ~4,608 |
-| Valley's Helper | 68.00% | ~4,292 |
-| Constructor | 57.00% | ~3,598 |
-| Renovator | 55.00% | ~3,472 |
-| Bestest Friend | 53.00% | ~3,345 |
-| Banker | 44.00% | ~2,777 |
-| Gardener | 34.00% | ~2,146 |
-| Generous | 25.00% | ~1,578 |
-| Chef Cook | 19.00% | ~1,199 |
+| Goofy's Investor | 76.00% | ~4,800 |
+| Photographer | 73.00% | ~4,611 |
+| Valley's Helper | 68.00% | ~4,295 |
+| Constructor | 57.00% | ~3,600 |
+| Renovator | 55.00% | ~3,474 |
+| Bestest Friend | 53.00% | ~3,347 |
+| Banker | 44.00% | ~2,779 |
+| Gardener | 34.00% | ~2,147 |
+| Generous | 25.00% | ~1,579 |
+| Chef Cook | 19.00% | ~1,200 |
 | Miner | 9.00% | ~568 |
 | Duty Bound | 6.00% | ~379 |
 | Angler | 5.00% | ~316 |
-| Thorn Cleaner | 4.00% | ~252 |
+| Thorn Cleaner | 4.00% | ~253 |
 | Chit Chatter | 3.00% | ~189 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,312 (Ranked 130)  
-Completed: 162 (2.57%) (Ranked 67)  
+Progressed: 6,316 (Ranked 130)  
+Completed: 162 (2.56%) (Ranked 67)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -53,10 +53,10 @@ Completed: 162 (2.57%) (Ranked 67)
 | 2023-07-06 | 6,125 | 160 |
 | 2023-07-07 | 6,198 | 160 |
 | 2023-07-08 | 6,271 | 161 |
-| 2023-07-09 | 6,312 | 162 |
+| 2023-07-09 | 6,316 | 162 |
 ## Awards
 Max (Great for Beginners): 889  (Ranked 148)  
-Sum: 7,260 (Ranked 104)  
+Sum: 7,261 (Ranked 104)  
 Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
@@ -64,7 +64,7 @@ Diff (max vs sum): 44
 | This game is Relaxing | 782 |
 | This game is Highly Recommended | 774 |
 | This game has Diverse Characters | 774 |
-| This game has Amazing Characters | 767 |
+| This game has Amazing Characters | 768 |
 | This game has Amazing Storytelling | 743 |
 | This game has Quickly Understood Controls | 725 |
 | This game is Extremely Fun | 723 |
@@ -195,4 +195,4 @@ Diff (max vs sum): 44
 | 2023-07-05 | 4.75 | - | 888 | 7,249 |
 | 2023-07-06 | 4.75 | - | 888 | 7,252 |
 | 2023-07-07 | 4.75 | - | 889 | 7,259 |
-| 2023-07-09 | 4.75 | - | 889 | 7,260 |
+| 2023-07-09 | 4.75 | - | 889 | 7,261 |

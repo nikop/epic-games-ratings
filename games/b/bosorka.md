@@ -13,8 +13,8 @@
 | Kind heart | 48.00% | ~42 |
 | Devil's dozen | 30.00% | ~26 |
 | It doesn't work like that | 25.00% | ~22 |
+| This is just the beginning... | 18.00% | ~16 |
 | A small victory | 18.00% | ~16 |
-| This is just the beginning... | 17.00% | ~15 |
 | Unstoppable Curiosity | 17.00% | ~15 |
 | Time is on my side | 11.00% | ~10 |
 | Gold Digger | 11.00% | ~10 |

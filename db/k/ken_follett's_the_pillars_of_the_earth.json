@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13790,
+  "EOS_Progressed": 13791,
   "EOS_Completed": 104,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -5759,6 +5759,11 @@
       "Time": "2023-07-09T13:12:50.10483+00:00",
       "NumProgressed": 13790,
       "NumCompleted": 104
+    },
+    {
+      "Time": "2023-07-09T15:02:12.9062762+00:00",
+      "NumProgressed": 13791,
+      "NumCompleted": 104
     }
   ],
   "TotalAchievements": 41,
@@ -5970,7 +5975,7 @@
       "Name": "Jack was here!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2068
+      "UsersEstimate": 2069
     },
     {
       "ID": "tpote_achievement_33",
@@ -6090,22 +6095,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4826
+      "UsersEstimate": 4827
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13790,
+      "Progressed": 13791,
       "Completed": 104
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-09T14:01:31.6283994+00:00",
+  "LastChanged_Achievements": "2023-07-09T15:02:12.9062757+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:22.7316946+00:00",
-  "LastUpdate_Ratings": "2023-07-09T14:00:39.9793493+00:00",
-  "LastUpdate_Achievements": "2023-07-09T14:01:31.6284724+00:00"
+  "LastUpdate_Ratings": "2023-07-09T15:00:54.5170461+00:00",
+  "LastUpdate_Achievements": "2023-07-09T15:02:12.9063248+00:00"
 }

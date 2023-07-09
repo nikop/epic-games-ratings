@@ -19,7 +19,7 @@
 | Another ride! | 0.30% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,125 (Ranked 161)  
-Completed: 5 (0.24%) (Ranked 156)  
+Completed: 5 (0.24%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

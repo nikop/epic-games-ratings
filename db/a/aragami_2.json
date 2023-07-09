@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37055,
+  "EOS_Progressed": 37056,
   "EOS_Completed": 184,
-  "EOS_NewPlayers": 683,
+  "EOS_NewPlayers": 679,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -7939,6 +7939,11 @@
       "Time": "2023-07-09T14:02:30.1424321+00:00",
       "NumProgressed": 37055,
       "NumCompleted": 184
+    },
+    {
+      "Time": "2023-07-09T15:03:13.6892339+00:00",
+      "NumProgressed": 37056,
+      "NumCompleted": 184
     }
   ],
   "TotalAchievements": 44,
@@ -7950,7 +7955,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 21121
+      "UsersEstimate": 21122
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -7974,7 +7979,7 @@
       "Name": "Burning",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6299
+      "UsersEstimate": 6300
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -8142,7 +8147,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 13710
+      "UsersEstimate": 13711
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -8214,7 +8219,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 22233
+      "UsersEstimate": 22234
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -8222,7 +8227,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 24827
+      "UsersEstimate": 24828
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -8286,7 +8291,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 34461
+      "UsersEstimate": 34462
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -8301,7 +8306,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 37055,
+      "Progressed": 37056,
       "Completed": 184
     }
   ],
@@ -8309,8 +8314,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-06-11T14:58:10.4478603+00:00",
-  "LastChanged_Achievements": "2023-07-09T14:02:30.1424316+00:00",
+  "LastChanged_Achievements": "2023-07-09T15:03:13.6892335+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:06.1137886+00:00",
-  "LastUpdate_Ratings": "2023-07-09T13:58:53.1710592+00:00",
-  "LastUpdate_Achievements": "2023-07-09T14:02:30.142497+00:00"
+  "LastUpdate_Ratings": "2023-07-09T14:58:56.8116572+00:00",
+  "LastUpdate_Achievements": "2023-07-09T15:03:13.6892987+00:00"
 }

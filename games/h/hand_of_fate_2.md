@@ -6,24 +6,24 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~474,524 |
-| Apprentice | 58.00% | ~382,255 |
-| Close Shave | 25.00% | ~164,765 |
-| Mercenary | 23.00% | ~151,584 |
-| Ninja | 23.00% | ~151,584 |
-| Northern Scourge | 17.00% | ~112,040 |
+| The Fool | 72.00% | ~474,527 |
+| Apprentice | 58.00% | ~382,258 |
+| Close Shave | 25.00% | ~164,766 |
+| Mercenary | 23.00% | ~151,585 |
+| Ninja | 23.00% | ~151,585 |
+| Northern Scourge | 17.00% | ~112,041 |
 | Thief Bane | 14.00% | ~92,269 |
-| Master of Arms | 12.00% | ~79,087 |
+| Master of Arms | 12.00% | ~79,088 |
 | Gambler | 10.00% | ~65,906 |
 | Dice Master | 10.00% | ~65,906 |
-| Swordsman | 9.00% | ~59,315 |
+| Swordsman | 9.00% | ~59,316 |
 | Knight | 8.00% | ~52,725 |
 | Cure for Corruption | 8.00% | ~52,725 |
 | Focused | 8.00% | ~52,725 |
 | Flurry of Fury | 8.00% | ~52,725 |
-| Long Shot | 7.00% | ~46,134 |
-| Devil Dice | 7.00% | ~46,134 |
-| Broken Heart | 7.00% | ~46,134 |
+| Long Shot | 7.00% | ~46,135 |
+| Devil Dice | 7.00% | ~46,135 |
+| Broken Heart | 7.00% | ~46,135 |
 | Adventurer | 6.00% | ~39,544 |
 | Empire's Bane | 6.00% | ~39,544 |
 | Jack of all Trades | 5.00% | ~32,953 |
@@ -40,7 +40,7 @@ Number of Ratings: 780  (23.09.2022)
 | Champion | 1.00% | ~6,591 |
 | Final Death | 1.00% | ~6,591 |
 | Thomas' Bane | 0.90% | ~5,932 |
-| Ally | 0.80% | ~5,272 |
+| Ally | 0.80% | ~5,273 |
 | Gamester | 0.70% | ~4,613 |
 | Hero | 0.60% | ~3,954 |
 | Rebel | 0.60% | ~3,954 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~659 |
 | Blood Pact | 0.10% | ~659 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 659,061 (Ranked 21)  
+Progressed: 659,065 (Ranked 21)  
 Completed: 165 (0.03%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 165 (0.03%) (Ranked 209)
 | 2023-07-06 | 658,931 | 165 |
 | 2023-07-07 | 658,973 | 165 |
 | 2023-07-08 | 659,026 | 165 |
-| 2023-07-09 | 659,061 | 165 |
+| 2023-07-09 | 659,065 | 165 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 434)  
 Sum: 180 (Ranked 372)  

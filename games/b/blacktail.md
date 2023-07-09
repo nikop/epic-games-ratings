@@ -12,8 +12,8 @@ Rating: 4.68 (Ranked 238)
 | Forbidden techniques | 12.00% | ~65 |
 | Slavic squatter | 10.00% | ~54 |
 | Devoted | 9.00% | ~49 |
+| Spirit animal | 8.00% | ~43 |
 | Gold rush | 7.00% | ~38 |
-| Spirit animal | 7.00% | ~38 |
 | A friend in need... | 6.00% | ~32 |
 | Sneak peek | 5.00% | ~27 |
 | Fishing fanatic | 5.00% | ~27 |

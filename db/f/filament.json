@@ -225,9 +225,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 195819,
+  "EOS_Progressed": 195825,
   "EOS_Completed": 460,
-  "EOS_NewPlayers": 674,
+  "EOS_NewPlayers": 670,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -8665,6 +8665,11 @@
       "Time": "2023-07-09T14:07:00.8414354+00:00",
       "NumProgressed": 195819,
       "NumCompleted": 460
+    },
+    {
+      "Time": "2023-07-09T15:07:27.4124363+00:00",
+      "NumProgressed": 195825,
+      "NumCompleted": 460
     }
   ],
   "TotalAchievements": 29,
@@ -8700,7 +8705,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 184070
+      "UsersEstimate": 184076
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -8812,7 +8817,7 @@
       "Name": "So you\u0027re saying I don\u0027t touch these ones?",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 11749
+      "UsersEstimate": 11750
     },
     {
       "ID": "ACHIEVEMENT_OPUS",
@@ -8876,7 +8881,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 13707
+      "UsersEstimate": 13708
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -8907,7 +8912,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 195819,
+      "Progressed": 195825,
       "Completed": 460
     }
   ],
@@ -8915,8 +8920,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-06-26T22:58:32.656469+00:00",
-  "LastChanged_Achievements": "2023-07-09T14:07:00.8414349+00:00",
+  "LastChanged_Achievements": "2023-07-09T15:07:27.4124358+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:47.2271443+00:00",
-  "LastUpdate_Ratings": "2023-07-09T13:59:23.0996989+00:00",
-  "LastUpdate_Achievements": "2023-07-09T14:07:00.841491+00:00"
+  "LastUpdate_Ratings": "2023-07-09T14:59:29.9801639+00:00",
+  "LastUpdate_Achievements": "2023-07-09T15:07:27.4124919+00:00"
 }
