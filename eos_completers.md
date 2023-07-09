@@ -25,7 +25,7 @@
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
 | 23 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.55% |
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
-| 26 | [Ravenlok](games/r/ravenlok.md) | 7.32% |
+| 26 | [Ravenlok](games/r/ravenlok.md) | 7.42% |
 | 27 | [Time Loader](games/t/time_loader.md) | 7.21% |
 | 28 | [Scorn](games/s/scorn.md) | 7.02% |
 | 29 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.89% |
@@ -39,7 +39,7 @@
 | 37 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.91% |
 | 38 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 4.69% |
 | 39 | [Bugsnax](games/b/bugsnax.md) | 4.68% |
-| 40 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.63% |
+| 40 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.62% |
 | 41 | [Without Escape](games/w/without_escape.md) | 4.55% |
 | 42 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.43% |
 | 43 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
@@ -112,9 +112,9 @@
 | 110 | [Lemon Cake](games/l/lemon_cake.md) | 0.76% |
 | 111 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 112 | [Haven](games/h/haven.md) | 0.69% |
-| 113 | [Them and Us](games/t/them_and_us.md) | 0.68% |
-| 114 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.67% |
-| 114 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.67% |
+| 113 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.67% |
+| 113 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.67% |
+| 113 | [Them and Us](games/t/them_and_us.md) | 0.67% |
 | 116 | [Train Valley](games/t/train_valley.md) | 0.65% |
 | 117 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
 | 117 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.63% |
@@ -131,9 +131,9 @@
 | 129 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 129 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.47% |
 | 131 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
-| 132 | [Ghostrunner](games/g/ghostrunner.md) | 0.43% |
-| 133 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
-| 133 | [Tchia](games/t/tchia.md) | 0.42% |
+| 132 | [Ghostrunner](games/g/ghostrunner.md) | 0.42% |
+| 132 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
+| 132 | [Tchia](games/t/tchia.md) | 0.42% |
 | 135 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.41% |
 | 135 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.41% |
 | 137 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.40% |
