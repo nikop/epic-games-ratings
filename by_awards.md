@@ -10,7 +10,7 @@
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 112,618 | 4.69 | 219 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 72,573 | 4.62 | 343 |
 | 10 | [VALORANT](games/v/valorant.md) | 59,999 | 4.53 | 508 |
-| 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 58,778 | 4.58 | 421 |
+| 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 58,807 | 4.58 | 421 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 40,381 | 4.61 | 362 |
 | 13 | [Destiny 2](games/d/destiny_2.md) | 35,574 | 4.50 | 551 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 34,227 | 4.74 | 144 |
@@ -83,7 +83,7 @@
 | 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 3,581 | 4.77 | 107 |
 | 82 | [Gloomhaven](games/g/gloomhaven.md) | 3,487 | 4.47 | 594 |
 | 83 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,456 | 4.57 | 439 |
-| 84 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,423 | 4.46 | 606 |
+| 84 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,426 | 4.46 | 606 |
 | 85 | [Paladins](games/p/paladins.md) | 3,385 | 4.34 | 745 |
 | 86 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,334 | 4.68 | 238 |
 | 87 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,259 | 4.76 | 120 |
@@ -98,7 +98,7 @@
 | 96 | [RAGE 2](games/r/rage_2.md) | 2,492 | 4.27 | 795 |
 | 97 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 2,477 | 4.82 | 65 |
 | 98 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,439 | 4.10 | 886 |
-| 99 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,427 | 4.79 | 87 |
+| 99 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,428 | 4.79 | 87 |
 | 100 | [Gotham Knights](games/g/gotham_knights.md) | 2,425 | 4.18 | 854 |
 | 101 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,347 | 4.78 | 100 |
 | 102 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2,275 | 4.67 | 258 |
@@ -137,7 +137,7 @@
 | 135 | [OUTRIDERS](games/o/outriders.md) | 1,164 | 4.43 | 654 |
 | 136 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,133 | 4.61 | 362 |
 | 137 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,069 | 4.61 | 362 |
-| 138 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,051 | 4.66 | 270 |
+| 138 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,052 | 4.66 | 270 |
 | 139 | [Saints Row](games/s/saints_row.md) | 1,047 | 3.78 | 941 |
 | 140 | [EVE Online](games/e/eve_online.md) | 1,038 | 4.25 | 805 |
 | 141 | [Ooblets](games/o/ooblets.md) | 1,014 | 4.87 | 25 |
@@ -218,7 +218,7 @@
 | 216 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 372 | 3.99 | 915 |
 | 216 | [MORDHAU](games/m/mordhau.md) | 372 | 4.40 | 689 |
 | 218 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 364 | 4.61 | 362 |
-| 219 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 360 | 4.85 | 41 |
+| 219 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 361 | 4.85 | 41 |
 | 220 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 358 | 3.93 | 924 |
 | 221 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 353 | 4.70 | 196 |
 | 222 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 351 | 4.32 | 764 |

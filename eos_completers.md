@@ -19,7 +19,7 @@
 | 17 | [Remains](games/r/remains.md) | 11.90% |
 | 18 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.71% |
-| 20 | [Sonic Origins](games/s/sonic_origins.md) | 10.65% |
+| 20 | [Sonic Origins](games/s/sonic_origins.md) | 10.61% |
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 21 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.00% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
@@ -54,7 +54,7 @@
 | 52 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.33% |
 | 53 | [JARS](games/j/jars.md) | 3.23% |
 | 54 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.15% |
-| 55 | [The Complex](games/t/the_complex.md) | 3.10% |
+| 55 | [The Complex](games/t/the_complex.md) | 3.09% |
 | 56 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.08% |
 | 57 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.05% |
 | 58 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 2.94% |
@@ -87,13 +87,13 @@
 | 85 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.53% |
 | 86 | [Ten Dates](games/t/ten_dates.md) | 1.51% |
 | 87 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
-| 88 | [Night Book](games/n/night_book.md) | 1.46% |
-| 89 | [Poosh XL](games/p/poosh_xl.md) | 1.45% |
+| 88 | [Night Book](games/n/night_book.md) | 1.45% |
+| 88 | [Poosh XL](games/p/poosh_xl.md) | 1.45% |
 | 90 | [A Musical Story](games/a/a_musical_story.md) | 1.43% |
 | 91 | [Late Shift](games/l/late_shift.md) | 1.35% |
 | 92 | [Five Dates](games/f/five_dates.md) | 1.30% |
-| 93 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.27% |
-| 94 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.25% |
+| 93 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.25% |
+| 93 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.25% |
 | 95 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.21% |
 | 96 | [Chorus](games/c/chorus.md) | 1.17% |
 | 97 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.15% |
