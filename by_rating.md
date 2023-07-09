@@ -11,7 +11,7 @@
 | 8 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 504 |
 | 8 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,843 | 112 |
 | 8 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 504 |
-| 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 7,669 | 42 |
+| 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 7,680 | 42 |
 | 12 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.89 | 0 | 504 |
 | 12 | [Firework](games/f/firework.md) | 4.89 | 0 | 504 |
 | 12 | [Flatout 2](games/f/flatout_2.md) | 4.89 | 0 | 504 |
@@ -47,15 +47,15 @@
 | 41 | [Subnautica](games/s/subnautica.md) | 4.85 | 671 | 166 |
 | 41 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.85 | 0 | 504 |
 | 41 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 0 | 504 |
-| 41 | [TUNIC](games/t/tunic.md) | 4.85 | 34 | 439 |
 | 41 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.85 | 0 | 504 |
-| 50 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 51 | 395 |
-| 50 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 47 | 405 |
-| 50 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 216 | 259 |
-| 50 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 504 |
-| 50 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 410 | 206 |
-| 50 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 259 | 244 |
-| 50 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.84 | 233 | 251 |
+| 49 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 51 | 395 |
+| 49 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 47 | 405 |
+| 49 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 216 | 259 |
+| 49 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 504 |
+| 49 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 410 | 206 |
+| 49 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 259 | 244 |
+| 49 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.84 | 233 | 251 |
+| 49 | [TUNIC](games/t/tunic.md) | 4.84 | 34 | 439 |
 | 57 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 0 | 504 |
 | 57 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.83 | 0 | 504 |
 | 57 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.83 | 0 | 504 |
@@ -136,7 +136,7 @@
 | 134 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 24 | 475 |
 | 134 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 5,427 | 62 |
 | 134 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 889 | 148 |
-| 134 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 520 | 189 |
+| 134 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 523 | 189 |
 | 134 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 111 | 319 |
 | 134 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 524 | 188 |
 | 134 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.75 | 0 | 504 |
@@ -236,7 +236,7 @@
 | 218 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 0 | 504 |
 | 218 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 0 | 504 |
 | 218 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.69 | 0 | 504 |
-| 218 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 798 | 152 |
+| 218 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 799 | 151 |
 | 238 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,334 | 86 |
 | 238 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 3,256 | 88 |
 | 238 | [Bad North](games/b/bad_north.md) | 4.68 | 0 | 504 |
@@ -529,7 +529,7 @@
 | 520 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 101 | 327 |
 | 520 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 148 | 293 |
 | 520 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 122 | 308 |
-| 520 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 1,320 | 125 |
+| 520 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 1,324 | 125 |
 | 520 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 0 | 504 |
 | 520 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 285 | 235 |
 | 520 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 0 | 504 |
@@ -573,7 +573,6 @@
 | 551 | [Rocket League®](games/r/rocket_league®.md) | 4.50 | 467,770 | 2 |
 | 551 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.50 | 0 | 504 |
 | 573 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 62 | 384 |
-| 573 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.49 | 0 | 504 |
 | 573 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,978 | 109 |
 | 573 | [Duskers](games/d/duskers.md) | 4.49 | 0 | 504 |
 | 573 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 0 | 504 |
@@ -584,17 +583,18 @@
 | 573 | [Solitairica](games/s/solitairica.md) | 4.49 | 83 | 352 |
 | 573 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 504 |
 | 573 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.49 | 36 | 431 |
-| 585 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 0 | 504 |
-| 585 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.48 | 0 | 504 |
-| 585 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.48 | 0 | 504 |
-| 585 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.48 | 0 | 504 |
-| 585 | [Paradigm](games/p/paradigm.md) | 4.48 | 0 | 504 |
-| 585 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.48 | 0 | 504 |
-| 585 | [Scorn](games/s/scorn.md) | 4.48 | 0 | 504 |
-| 585 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 0 | 504 |
-| 585 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.48 | 2,076 | 108 |
-| 585 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.48 | 7,505 | 45 |
-| 585 | [The Escapists](games/t/the_escapists.md) | 4.48 | 0 | 504 |
+| 584 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.48 | 0 | 504 |
+| 584 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 0 | 504 |
+| 584 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.48 | 0 | 504 |
+| 584 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.48 | 0 | 504 |
+| 584 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.48 | 0 | 504 |
+| 584 | [Paradigm](games/p/paradigm.md) | 4.48 | 0 | 504 |
+| 584 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.48 | 0 | 504 |
+| 584 | [Scorn](games/s/scorn.md) | 4.48 | 0 | 504 |
+| 584 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 0 | 504 |
+| 584 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.48 | 2,076 | 108 |
+| 584 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.48 | 7,505 | 45 |
+| 584 | [The Escapists](games/t/the_escapists.md) | 4.48 | 0 | 504 |
 | 596 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 0 | 504 |
 | 596 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 0 | 504 |
 | 596 | [Figment](games/f/figment.md) | 4.47 | 20 | 501 |

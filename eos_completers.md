@@ -39,11 +39,11 @@
 | 37 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.91% |
 | 38 | [Bugsnax](games/b/bugsnax.md) | 4.68% |
 | 39 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.62% |
-| 40 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 4.55% |
 | 40 | [Without Escape](games/w/without_escape.md) | 4.55% |
+| 41 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 4.48% |
 | 42 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.43% |
 | 43 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.91% |
-| 44 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.72% |
+| 44 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.71% |
 | 45 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 3.70% |
 | 46 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
 | 47 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.63% |
@@ -53,7 +53,7 @@
 | 51 | [Monster Harvest](games/m/monster_harvest.md) | 3.38% |
 | 52 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.33% |
 | 53 | [JARS](games/j/jars.md) | 3.23% |
-| 54 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.15% |
+| 54 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.18% |
 | 55 | [The Complex](games/t/the_complex.md) | 3.09% |
 | 56 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.08% |
 | 57 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.05% |
@@ -197,15 +197,15 @@
 | 194 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
 | 194 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
 | 197 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.06% |
+| 197 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.06% |
 | 197 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
 | 197 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
 | 197 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
-| 201 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
-| 201 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
-| 201 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.05% |
-| 201 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.05% |
-| 201 | [House Party](games/h/house_party.md) | 0.05% |
-| 201 | [Saints Row](games/s/saints_row.md) | 0.05% |
+| 202 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
+| 202 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
+| 202 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.05% |
+| 202 | [House Party](games/h/house_party.md) | 0.05% |
+| 202 | [Saints Row](games/s/saints_row.md) | 0.05% |
 | 207 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
 | 207 | [Old World](games/o/old_world.md) | 0.04% |
 | 209 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.03% |
