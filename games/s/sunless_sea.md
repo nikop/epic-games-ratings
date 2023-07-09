@@ -6,26 +6,26 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~11,911 |
-| Sweet Sorrow | 18.00% | ~5,955 |
+| Sink Beneath the Waves | 36.00% | ~11,912 |
+| Sweet Sorrow | 18.00% | ~5,956 |
 | Rules the Waves | 17.00% | ~5,625 |
 | Thou, All-Shaking Thunder | 15.00% | ~4,963 |
 | Rival | 14.00% | ~4,632 |
-| Correspondent | 12.00% | ~3,970 |
-| Lose Your Mind | 12.00% | ~3,970 |
-| Sound Mind? | 12.00% | ~3,970 |
-| Salt's Curse | 11.00% | ~3,639 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~3,639 |
-| The Fall of the House | 11.00% | ~3,639 |
-| Shipmate | 11.00% | ~3,639 |
+| Correspondent | 12.00% | ~3,971 |
+| Lose Your Mind | 12.00% | ~3,971 |
+| Sound Mind? | 12.00% | ~3,971 |
+| Salt's Curse | 11.00% | ~3,640 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~3,640 |
+| The Fall of the House | 11.00% | ~3,640 |
+| Shipmate | 11.00% | ~3,640 |
 | One Year at Zee | 8.00% | ~2,647 |
 | Pupil | 7.00% | ~2,316 |
 | Salvager | 7.00% | ~2,316 |
 | Open Your Ears | 7.00% | ~2,316 |
 | The Ascent of Man | 7.00% | ~2,316 |
 | Zee Fever | 5.00% | ~1,654 |
-| Old Unhappy Far-Off Things | 4.00% | ~1,323 |
-| Sink Beneath the Waves. Again. | 4.00% | ~1,323 |
+| Old Unhappy Far-Off Things | 4.00% | ~1,324 |
+| Sink Beneath the Waves. Again. | 4.00% | ~1,324 |
 | Storm's Curse | 3.00% | ~993 |
 | We're Gonna Need a Bigger Boat | 3.00% | ~993 |
 | Come Closer | 3.00% | ~993 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~33 |
 | Ten Years at Zee | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,086 (Ranked 93)  
+Progressed: 33,089 (Ranked 93)  
 Completed: 3 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 3 (0.01%) (Ranked 223)
 | 2023-07-06 | 32,918 | 3 |
 | 2023-07-07 | 32,969 | 3 |
 | 2023-07-08 | 33,050 | 3 |
-| 2023-07-09 | 33,086 | 3 |
+| 2023-07-09 | 33,089 | 3 |
 ## Awards
 Max (Character Customization): 209  (Ranked 263)  
 Sum: 279 (Ranked 336)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 318,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -5575,9 +5575,9 @@
       "ID": "KILL_MANY_WITH_HAZARD",
       "SetID": "4hj6d86",
       "Name": "Chew \u0027Em Up",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 157
+      "UsersEstimate": 313
     },
     {
       "ID": "KILL_ROBOT",
@@ -5838,8 +5838,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-07-08T16:58:27.4258495+00:00",
-  "LastChanged_Achievements": "2023-07-09T13:17:39.6460382+00:00",
+  "LastChanged_Achievements": "2023-07-09T14:06:18.9220949+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:30.5014032+00:00",
-  "LastUpdate_Ratings": "2023-07-09T13:10:25.6034428+00:00",
-  "LastUpdate_Achievements": "2023-07-09T13:17:39.6460902+00:00"
+  "LastUpdate_Ratings": "2023-07-09T13:58:26.9868094+00:00",
+  "LastUpdate_Achievements": "2023-07-09T14:06:18.9221472+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
     "PcReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3189,
+  "EOS_Progressed": 3193,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
@@ -1963,6 +1963,11 @@
       "Time": "2023-07-09T13:16:58.428458+00:00",
       "NumProgressed": 3189,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-09T14:05:29.1355404+00:00",
+      "NumProgressed": 3193,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -2102,7 +2107,7 @@
       "Name": "To Suffer is to Learn",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ACH_M_D1",
@@ -2182,7 +2187,7 @@
       "Name": "Persephone\u0027s Guidance",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACH_OB_BB",
@@ -2236,9 +2241,9 @@
       "ID": "ACH_OB_DS",
       "SetID": "b3fep3o",
       "Name": "Labour of Apollo",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 96
     },
     {
       "ID": "ACH_OB_FB",
@@ -2278,7 +2283,7 @@
       "Name": "Lochos",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACH_OB_LS",
@@ -2310,7 +2315,7 @@
       "Name": "Strength of Herakles",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACH_OB_SD",
@@ -2350,7 +2355,7 @@
       "Name": "Initiate\u0027s Resolve",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACH_R_A",
@@ -2477,7 +2482,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3189,
+      "Progressed": 3193,
       "Completed": 0
     }
   ],
@@ -2485,8 +2490,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-07-09T13:16:58.4284576+00:00",
+  "LastChanged_Achievements": "2023-07-09T14:05:29.1355399+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:04.7674222+00:00",
-  "LastUpdate_Ratings": "2023-07-09T13:11:58.3152073+00:00",
-  "LastUpdate_Achievements": "2023-07-09T13:16:58.4285112+00:00"
+  "LastUpdate_Ratings": "2023-07-09T14:00:25.1316932+00:00",
+  "LastUpdate_Achievements": "2023-07-09T14:05:29.1356044+00:00"
 }

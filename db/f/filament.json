@@ -225,9 +225,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 195815,
+  "EOS_Progressed": 195819,
   "EOS_Completed": 460,
-  "EOS_NewPlayers": 676,
+  "EOS_NewPlayers": 674,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -8660,6 +8660,11 @@
       "Time": "2023-07-09T13:18:14.5820191+00:00",
       "NumProgressed": 195815,
       "NumCompleted": 460
+    },
+    {
+      "Time": "2023-07-09T14:07:00.8414354+00:00",
+      "NumProgressed": 195819,
+      "NumCompleted": 460
     }
   ],
   "TotalAchievements": 29,
@@ -8695,7 +8700,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 184066
+      "UsersEstimate": 184070
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -8743,7 +8748,7 @@
       "Name": "Answers can be found amongst the stars",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5874
+      "UsersEstimate": 5875
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTED",
@@ -8839,7 +8844,7 @@
       "Name": "Bend to the will of the arrows.",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5874
+      "UsersEstimate": 5875
     },
     {
       "ID": "ACHIEVEMENT_SECRET",
@@ -8902,7 +8907,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 195815,
+      "Progressed": 195819,
       "Completed": 460
     }
   ],
@@ -8910,8 +8915,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-06-26T22:58:32.656469+00:00",
-  "LastChanged_Achievements": "2023-07-09T13:18:14.5820186+00:00",
+  "LastChanged_Achievements": "2023-07-09T14:07:00.8414349+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:47.2271443+00:00",
-  "LastUpdate_Ratings": "2023-07-09T13:11:09.921616+00:00",
-  "LastUpdate_Achievements": "2023-07-09T13:18:14.5820741+00:00"
+  "LastUpdate_Ratings": "2023-07-09T13:59:23.0996989+00:00",
+  "LastUpdate_Achievements": "2023-07-09T14:07:00.841491+00:00"
 }

@@ -8,6 +8,7 @@ Rating: 4.45 (Ranked 622)
 | Climbing the Ladder | 2.00% | ~65 |
 | Liberté | 2.00% | ~65 |
 | Meeting Resistance | 2.00% | ~65 |
+| Sharpshooter | 2.00% | ~65 |
 | Confirming Suspicions | 2.00% | ~65 |
 | Resourceful | 2.00% | ~65 |
 | The Kraken Wakes | 2.00% | ~65 |
@@ -19,25 +20,24 @@ Rating: 4.45 (Ranked 622)
 | No Stone Unturned | 1.00% | ~32 |
 | Organ Grinder | 1.00% | ~32 |
 | Gunslinger | 1.00% | ~32 |
-| Sharpshooter | 1.00% | ~32 |
 | Explosive Efficiency | 1.00% | ~32 |
 | Lord of War | 1.00% | ~32 |
 | Der Geist | 1.00% | ~32 |
 | As Quiet as a Mouse | 1.00% | ~32 |
 | Brains of the Operation | 1.00% | ~32 |
 | Opposing Force | 0.90% | ~29 |
+| Skirmisher | 0.90% | ~29 |
 | Set Europe Ablaze | 0.90% | ~29 |
+| My Little Friend | 0.90% | ~29 |
 | Close Quarters | 0.90% | ~29 |
 | Snake in the Grass | 0.90% | ~29 |
-| Skirmisher | 0.80% | ~26 |
 | Precision Is Key | 0.80% | ~26 |
-| My Little Friend | 0.80% | ~26 |
 | Enemy at the Gates | 0.70% | ~23 |
 | Fields of Glory | 0.70% | ~23 |
 | Just a Flesh Wound | 0.70% | ~23 |
+| Die Nussknacker Sweet! | 0.70% | ~23 |
 | Tinkerer | 0.70% | ~23 |
 | The Long Game | 0.60% | ~19 |
-| Die Nussknacker Sweet! | 0.60% | ~19 |
 | Rigged to Blow | 0.50% | ~16 |
 | Don't hold your breath | 0.50% | ~16 |
 | Herr Today, Gone Tomorrow | 0.50% | ~16 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 622)
 | Stroll in the Woods | 0.10% | ~3 |
 | Going Overboard | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,238 (Ranked 146)  
+Progressed: 3,239 (Ranked 146)  
 Completed: 9 (0.28%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 9 (0.28%) (Ranked 150)
 | 2023-07-06 | 3,221 | 9 |
 | 2023-07-07 | 3,227 | 9 |
 | 2023-07-08 | 3,234 | 9 |
-| 2023-07-09 | 3,238 | 9 |
+| 2023-07-09 | 3,239 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,6 +8,7 @@ Rating: 4.19 (Ranked 844)
 | Get a Grip | 3.00% | ~470 |
 | Flesh Wound | 2.00% | ~313 |
 | Two Heads Are Better Than One | 2.00% | ~313 |
+| Chew 'Em Up | 2.00% | ~313 |
 | Float Like A Butterfly | 2.00% | ~313 |
 | Paper Jams | 2.00% | ~313 |
 | Keep Fighting | 2.00% | ~72 |
@@ -15,7 +16,6 @@ Rating: 4.19 (Ranked 844)
 | Giving Back | 1.00% | ~157 |
 | You Need a Gun | 1.00% | ~157 |
 | I Do Belong Here | 1.00% | ~157 |
-| Chew 'Em Up | 1.00% | ~157 |
 | Terminated | 1.00% | ~157 |
 | Workplace Hazard | 1.00% | ~157 |
 | Reforged | 1.00% | ~157 |

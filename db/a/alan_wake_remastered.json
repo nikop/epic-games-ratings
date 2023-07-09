@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57089,
+  "EOS_Progressed": 57090,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 415,
+  "EOS_NewPlayers": 414,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7432,6 +7432,11 @@
       "Time": "2023-07-09T13:15:51.2078168+00:00",
       "NumProgressed": 57089,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-09T14:04:05.6872528+00:00",
+      "NumProgressed": 57090,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7443,7 +7448,7 @@
       "Name": "Follow the Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 19410
+      "UsersEstimate": 19411
     },
     {
       "ID": "02",
@@ -7483,7 +7488,7 @@
       "Name": "Park Ranger",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 8563
+      "UsersEstimate": 8564
     },
     {
       "ID": "07",
@@ -7683,7 +7688,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 7992
+      "UsersEstimate": 7993
     },
     {
       "ID": "32",
@@ -7763,7 +7768,7 @@
       "Name": "Finders Keepers",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 7992
+      "UsersEstimate": 7993
     },
     {
       "ID": "42",
@@ -7779,7 +7784,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8563
+      "UsersEstimate": 8564
     },
     {
       "ID": "44",
@@ -7978,21 +7983,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57089,
+      "Progressed": 57090,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20557,
+      "Progressed": 20558,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-09T13:15:51.2078163+00:00",
+  "LastChanged_Achievements": "2023-07-09T14:04:05.6872523+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:08.3646753+00:00",
-  "LastUpdate_Ratings": "2023-07-09T13:10:10.2899041+00:00",
-  "LastUpdate_Achievements": "2023-07-09T13:15:51.207898+00:00"
+  "LastUpdate_Ratings": "2023-07-09T13:58:07.9723793+00:00",
+  "LastUpdate_Achievements": "2023-07-09T14:04:05.6873353+00:00"
 }
