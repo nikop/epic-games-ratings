@@ -11,6 +11,7 @@ Rating: 4.61 (Ranked 362)
 | Walls Cannot Stop Us | 3.00% | ~149 |
 | From Friends to Family | 3.00% | ~149 |
 | Magical Synergy | 3.00% | ~149 |
+| Here be Dragons | 3.00% | ~149 |
 | Tipping the Scales | 3.00% | ~149 |
 | Blood of the Dragon | 3.00% | ~149 |
 | Mighty Hoard | 3.00% | ~149 |
@@ -25,7 +26,6 @@ Rating: 4.61 (Ranked 362)
 | Against the Odds | 2.00% | ~99 |
 | Impenetrable Fortress | 2.00% | ~99 |
 | Intimidation Tactics | 2.00% | ~99 |
-| Here be Dragons | 2.00% | ~99 |
 | Valley of Wonders | 1.00% | ~50 |
 | The Magic That Empowers Me! | 1.00% | ~50 |
 | Return of the Wizard King | 1.00% | ~50 |
@@ -44,8 +44,8 @@ Rating: 4.61 (Ranked 362)
 | Jack of All Tomes | 0.80% | ~40 |
 | Grexolis | 0.70% | ~35 |
 | One for All, All for One | 0.70% | ~35 |
+| Pruning for Progress | 0.60% | ~30 |
 | I've Got Everything I Need Right Here | 0.50% | ~25 |
-| Pruning for Progress | 0.50% | ~25 |
 | Manufactured War | 0.40% | ~20 |
 | Snap Out of It! | 0.30% | ~15 |
 | Betrayal Most Foul | 0.20% | ~10 |

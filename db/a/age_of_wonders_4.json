@@ -270,7 +270,7 @@
   "Tags": [],
   "EOS_Progressed": 4956,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5361,9 +5361,9 @@
       "ID": "44",
       "SetID": "3aa2279",
       "Name": "Pruning for Progress",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 30
     },
     {
       "ID": "5",
@@ -5409,9 +5409,9 @@
       "ID": "45",
       "SetID": "7132754",
       "Name": "Here be Dragons",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 149
     },
     {
       "ID": "46",
@@ -5472,8 +5472,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-07-04T17:00:43.3128649+00:00",
-  "LastChanged_Achievements": "2023-07-09T10:02:29.7457555+00:00",
+  "LastChanged_Achievements": "2023-07-09T11:02:21.9571569+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:44.6563449+00:00",
-  "LastUpdate_Ratings": "2023-07-09T10:00:22.7556112+00:00",
-  "LastUpdate_Achievements": "2023-07-09T10:02:29.7458138+00:00"
+  "LastUpdate_Ratings": "2023-07-09T10:59:21.9932006+00:00",
+  "LastUpdate_Achievements": "2023-07-09T11:02:21.9572132+00:00"
 }

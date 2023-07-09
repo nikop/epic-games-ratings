@@ -56,7 +56,7 @@
 | Bombs Away! | 9.00% | ~93 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,038 (Ranked 185)  
-Completed: 76 (7.32%) (Ranked 26)  
+Completed: 77 (7.42%) (Ranked 26)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -130,7 +130,7 @@ Completed: 76 (7.32%) (Ranked 26)
 | 2023-07-05 | 1,035 | 76 |
 | 2023-07-06 | 1,036 | 76 |
 | 2023-07-08 | 1,037 | 76 |
-| 2023-07-09 | 1,038 | 76 |
+| 2023-07-09 | 1,038 | 77 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

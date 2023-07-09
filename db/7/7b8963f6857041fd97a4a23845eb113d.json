@@ -4,8 +4,8 @@
   "ProductSlug": "daydream-forgotten-sorrow-6025c9",
   "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
     "PcReleaseDate": "2023-06-14T14:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 21,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -154,9 +154,9 @@
       "ID": "CH1_TRAIN",
       "SetID": "6d348d1",
       "Name": "A Kid\u0027s Toy",
-      "Percentage": 10,
+      "Percentage": 14,
       "XP": 70,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "CH2_PLANE",
@@ -249,8 +249,8 @@
   ],
   "FirstSeen": "2023-06-15T16:57:07.6621394+00:00",
   "FirstSeenAchievements": "2023-06-01T12:01:12.0964223+00:00",
-  "LastChanged_Achievements": "2023-07-09T10:04:17.0422152+00:00",
+  "LastChanged_Achievements": "2023-07-09T11:03:36.3573517+00:00",
   "LastUpdate_AppInfo": "2023-07-06T15:57:02.5853892+00:00",
-  "LastUpdate_Ratings": "2023-07-09T09:57:04.4196284+00:00",
-  "LastUpdate_Achievements": "2023-07-09T10:04:17.0422237+00:00"
+  "LastUpdate_Ratings": "2023-07-09T10:57:07.6652464+00:00",
+  "LastUpdate_Achievements": "2023-07-09T11:03:36.3573621+00:00"
 }

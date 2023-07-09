@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-06-07T16:00:00+00:00",
     "PcReleaseDate": "2022-06-07T16:00:00+00:00",
@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 589,
+  "EOS_Progressed": 590,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -289,6 +289,11 @@
       "Time": "2023-07-01T00:03:20.4833145+00:00",
       "NumProgressed": 589,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-09T11:03:40.4934011+00:00",
+      "NumProgressed": 590,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 33,
@@ -300,7 +305,7 @@
       "Name": "Learner",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "ACH_ASSIGN_LEARN_2",
@@ -308,7 +313,7 @@
       "Name": "Dilligent",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "ACH_ASSIGN_PLAZA_1",
@@ -324,7 +329,7 @@
       "Name": "Precious",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ACH_ASSIGN_RUIN_1",
@@ -332,15 +337,15 @@
       "Name": "Devout",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "ACH_ASSIGN_RUIN_2",
       "SetID": "ajki3eh",
       "Name": "Loyal",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_ASSIGN_SHRINE_1",
@@ -348,7 +353,7 @@
       "Name": "Devoted",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ACH_ASSIGN_SHRINE_2",
@@ -364,7 +369,7 @@
       "Name": "Economical",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "ACH_ASSIGN_WORK_2",
@@ -372,7 +377,7 @@
       "Name": "Frugal",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "ACH_FINISH_OBJECTIVE",
@@ -380,7 +385,7 @@
       "Name": "Objective Complete",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "ACH_FINISH_SUCC_STORY_1",
@@ -420,15 +425,15 @@
       "Name": "I... I did it?",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "ACH_KILL_SUCC_2",
       "SetID": "ajki3eh",
       "Name": "Mandatory Sacrifice",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_KILL_SUCC_3",
@@ -444,7 +449,7 @@
       "Name": "I did it!",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "ACH_SUMMON_SUCC_2",
@@ -484,7 +489,7 @@
       "Name": "The Love Martyr",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "ACH_UNLOCK_CHAPTER_2",
@@ -492,7 +497,7 @@
       "Name": "Between Two Fires",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "ACH_UNLOCK_CHAPTER_3",
@@ -514,9 +519,9 @@
       "ID": "ACH_UNLOCK_SUCC_ENDING_1",
       "SetID": "ajki3eh",
       "Name": "Ever After",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 218
+      "UsersEstimate": 212
     },
     {
       "ID": "ACH_UNLOCK_SUCC_ENDING_2",
@@ -540,7 +545,7 @@
       "Name": "The Hobbyist",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "ACH_UNLOCK_SUCC_KIND_2",
@@ -548,7 +553,7 @@
       "Name": "The Admirer",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "ACH_UNLOCK_SUCC_KIND_3",
@@ -556,22 +561,22 @@
       "Name": "The Collector",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     }
   ],
   "AchievementSets": [
     {
       "ID": "ajki3eh",
       "IsBase": true,
-      "Progressed": 589,
+      "Progressed": 590,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:30:06.1147591+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.1712211+00:00",
   "LastChanged": "2023-03-31T05:57:36.3389853+00:00",
-  "LastChanged_Achievements": "2023-07-09T10:04:21.6254679+00:00",
+  "LastChanged_Achievements": "2023-07-09T11:03:40.4934006+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:44.2587988+00:00",
-  "LastUpdate_Ratings": "2023-07-09T09:58:36.758204+00:00",
-  "LastUpdate_Achievements": "2023-07-09T10:04:21.6255398+00:00"
+  "LastUpdate_Ratings": "2023-07-09T10:58:08.3026172+00:00",
+  "LastUpdate_Achievements": "2023-07-09T11:03:40.4934208+00:00"
 }

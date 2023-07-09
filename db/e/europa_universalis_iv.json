@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -6850,10 +6850,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 45568,
       "NumberOfAwardsMax": 5522
+    },
+    {
+      "Time": "2023-07-09T10:57:29.9518563+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 45574,
+      "NumberOfAwardsMax": 5522
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45568,
+  "NumberOfAwards": 45574,
   "NumberOfAwardsMax": 5522,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -6897,7 +6903,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 4954
+      "Count": 4960
     },
     {
       "Text": "This game is Relaxing",
@@ -18408,9 +18414,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-07-09T09:57:39.0633348+00:00",
+  "LastChanged": "2023-07-09T10:57:29.9518562+00:00",
   "LastChanged_Achievements": "2023-07-09T10:02:07.2744191+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:36.5478418+00:00",
-  "LastUpdate_Ratings": "2023-07-09T09:57:39.0633353+00:00",
+  "LastUpdate_Ratings": "2023-07-09T10:57:29.9518567+00:00",
   "LastUpdate_Achievements": "2023-07-09T10:02:07.2754289+00:00"
 }

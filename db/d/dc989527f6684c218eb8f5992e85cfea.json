@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6418,
+  "EOS_Progressed": 6421,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 889,
+  "EOS_NewPlayers": 888,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2516,6 +2516,11 @@
       "Time": "2023-07-09T10:01:54.1660155+00:00",
       "NumProgressed": 6418,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-09T11:00:23.3714745+00:00",
+      "NumProgressed": 6421,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -2527,7 +2532,7 @@
       "Name": "Self Portrait",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "ACH_COLOR_AVERAGE_AT_LEAST_6_AFTER_25_GAMES",
@@ -2599,7 +2604,7 @@
       "Name": "You tried your best!",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2760
+      "UsersEstimate": 2761
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -2615,7 +2620,7 @@
       "Name": "Facepalm",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -2695,7 +2700,7 @@
       "Name": "Art Intern",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1219
+      "UsersEstimate": 1220
     },
     {
       "ID": "ACH_WIN_A_GAME_GUESS_IT",
@@ -2719,21 +2724,21 @@
       "Name": "First Sketch",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     }
   ],
   "AchievementSets": [
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 6418,
+      "Progressed": 6421,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-07-09T10:01:54.1660152+00:00",
+  "LastChanged_Achievements": "2023-07-09T11:00:23.371474+00:00",
   "LastUpdate_AppInfo": "2023-07-07T17:57:06.089177+00:00",
-  "LastUpdate_Ratings": "2023-07-09T09:56:57.1191488+00:00",
-  "LastUpdate_Achievements": "2023-07-09T10:01:54.1660437+00:00"
+  "LastUpdate_Ratings": "2023-07-09T10:57:02.1242087+00:00",
+  "LastUpdate_Achievements": "2023-07-09T11:00:23.3715129+00:00"
 }

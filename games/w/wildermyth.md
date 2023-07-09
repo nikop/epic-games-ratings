@@ -24,10 +24,10 @@ Number of Ratings: 45  (23.09.2022)
 | Thematic Divergence | 8.00% | ~104 |
 | Chain Reaction | 8.00% | ~104 |
 | Everfading | 7.00% | ~91 |
+| Another Tale to Tell | 7.00% | ~91 |
 | A Story of Heroes | 7.00% | ~91 |
 | Let Me Get My Chisel | 6.00% | ~78 |
 | Plague Doctor | 6.00% | ~78 |
-| Another Tale to Tell | 6.00% | ~78 |
 | Legends Never Die | 5.00% | ~65 |
 | In Soil, In Smoke | 5.00% | ~65 |
 | Wingknight's Prowess | 5.00% | ~65 |

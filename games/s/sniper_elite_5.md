@@ -20,13 +20,13 @@ Rating: 4.45 (Ranked 622)
 | Organ Grinder | 1.00% | ~32 |
 | Gunslinger | 1.00% | ~32 |
 | Sharpshooter | 1.00% | ~32 |
+| Explosive Efficiency | 1.00% | ~32 |
 | Lord of War | 1.00% | ~32 |
 | Der Geist | 1.00% | ~32 |
 | As Quiet as a Mouse | 1.00% | ~32 |
 | Brains of the Operation | 1.00% | ~32 |
 | Opposing Force | 0.90% | ~29 |
 | Set Europe Ablaze | 0.90% | ~29 |
-| Explosive Efficiency | 0.90% | ~29 |
 | Close Quarters | 0.90% | ~29 |
 | Snake in the Grass | 0.90% | ~29 |
 | Skirmisher | 0.80% | ~26 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 622)
 | Stroll in the Woods | 0.10% | ~3 |
 | Going Overboard | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,237 (Ranked 146)  
+Progressed: 3,238 (Ranked 146)  
 Completed: 9 (0.28%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 9 (0.28%) (Ranked 150)
 | 2023-07-06 | 3,221 | 9 |
 | 2023-07-07 | 3,227 | 9 |
 | 2023-07-08 | 3,234 | 9 |
-| 2023-07-09 | 3,237 | 9 |
+| 2023-07-09 | 3,238 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

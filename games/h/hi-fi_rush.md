@@ -14,6 +14,7 @@ Rating: 4.87 (Ranked 25)
 | Time to pay up! | 0.60% | ~21 |
 | Who's the boss now? | 0.60% | ~21 |
 | Thanks for the free chip, Peppermint! | 0.60% | ~21 |
+| You got this, Peppermint? | 0.60% | ~21 |
 | Z-shielding's got nothing on us! | 0.60% | ~21 |
 | Out in a puff of smoke | 0.60% | ~21 |
 | Uh, they were broken when I got here | 0.60% | ~21 |
@@ -21,7 +22,6 @@ Rating: 4.87 (Ranked 25)
 | Who put gears in there? | 0.60% | ~21 |
 | Headliner | 0.50% | ~17 |
 | I have to read these things? | 0.50% | ~17 |
-| You got this, Peppermint? | 0.50% | ~17 |
 | Perfect Parry | 0.50% | ~17 |
 | Start with a bang! | 0.40% | ~14 |
 | Well that was a rush! | 0.40% | ~14 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 25)
 | OK, I THINK I know what I'm doing now | 0.00% | ~0 |
 | Low budget finish | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,426 (Ranked 145)  
+Progressed: 3,427 (Ranked 145)  
 Completed: 5 (0.15%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,6 +156,7 @@ Completed: 5 (0.15%) (Ranked 172)
 | 2023-07-06 | 3,411 | 5 |
 | 2023-07-07 | 3,418 | 5 |
 | 2023-07-08 | 3,426 | 5 |
+| 2023-07-09 | 3,427 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

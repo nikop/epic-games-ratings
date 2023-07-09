@@ -6,27 +6,27 @@ Number of Ratings: 25  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Objective Complete | 97.00% | ~571 |
-| I did it! | 94.00% | ~554 |
-| Learner | 92.00% | ~542 |
-| Economical | 92.00% | ~542 |
-| Devout | 89.00% | ~524 |
-| The Love Martyr | 87.00% | ~512 |
-| Frugal | 85.00% | ~501 |
-| Dilligent | 83.00% | ~489 |
-| I... I did it? | 80.00% | ~471 |
+| Objective Complete | 97.00% | ~572 |
+| I did it! | 94.00% | ~555 |
+| Learner | 92.00% | ~543 |
+| Economical | 92.00% | ~543 |
+| Devout | 89.00% | ~525 |
+| The Love Martyr | 87.00% | ~513 |
+| Frugal | 85.00% | ~502 |
+| Dilligent | 83.00% | ~490 |
+| I... I did it? | 80.00% | ~472 |
 | Adored | 76.00% | ~448 |
-| The Hobbyist | 65.00% | ~383 |
+| The Hobbyist | 65.00% | ~384 |
 | A Forked Tongue | 55.00% | ~324 |
-| Between Two Fires | 51.00% | ~300 |
-| The Admirer | 51.00% | ~300 |
-| Precious | 45.00% | ~265 |
-| Devoted | 41.00% | ~241 |
+| Between Two Fires | 51.00% | ~301 |
+| The Admirer | 51.00% | ~301 |
+| Precious | 45.00% | ~266 |
+| Devoted | 41.00% | ~242 |
 | The Farmer | 39.00% | ~230 |
-| Ever After | 37.00% | ~218 |
-| Loyal | 29.00% | ~171 |
-| Mandatory Sacrifice | 29.00% | ~171 |
-| The Collector | 24.00% | ~141 |
+| Ever After | 36.00% | ~212 |
+| Loyal | 28.00% | ~165 |
+| Mandatory Sacrifice | 28.00% | ~165 |
+| The Collector | 24.00% | ~142 |
 | All Doors Open | 20.00% | ~118 |
 | Faithful | 11.00% | ~65 |
 | A Close | 9.00% | ~53 |
@@ -40,7 +40,7 @@ Number of Ratings: 25  (23.09.2022)
 | Womanizer | 0.00% | ~0 |
 | Lady Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 589 (Ranked 208)  
+Progressed: 590 (Ranked 208)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,6 +75,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-06-23 | 587 | 0 |
 | 2023-06-26 | 588 | 0 |
 | 2023-07-01 | 589 | 0 |
+| 2023-07-09 | 590 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

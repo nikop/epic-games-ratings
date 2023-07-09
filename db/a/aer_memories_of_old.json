@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 75,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14780,
+  "EOS_Progressed": 14783,
   "EOS_Completed": 311,
-  "EOS_NewPlayers": 616,
+  "EOS_NewPlayers": 613,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -8694,6 +8694,11 @@
       "Time": "2023-07-09T10:03:17.5344745+00:00",
       "NumProgressed": 14780,
       "NumCompleted": 311
+    },
+    {
+      "Time": "2023-07-09T11:02:35.8157646+00:00",
+      "NumProgressed": 14783,
+      "NumCompleted": 311
     }
   ],
   "TotalAchievements": 20,
@@ -8753,7 +8758,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1182
+      "UsersEstimate": 1183
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -8801,7 +8806,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2069
+      "UsersEstimate": 2070
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -8817,7 +8822,7 @@
       "Name": "Equilibrium",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1921
+      "UsersEstimate": 1922
     },
     {
       "ID": "INTRO_FINISHED",
@@ -8825,7 +8830,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 11233
+      "UsersEstimate": 11235
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -8833,7 +8838,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 4138
+      "UsersEstimate": 4139
     },
     {
       "ID": "NORTH_FINISHED",
@@ -8841,7 +8846,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2069
+      "UsersEstimate": 2070
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -8857,22 +8862,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 2808
+      "UsersEstimate": 2809
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 14780,
+      "Progressed": 14783,
       "Completed": 311
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-07-09T10:03:17.5344742+00:00",
+  "LastChanged_Achievements": "2023-07-09T11:02:35.8157641+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:34.4370622+00:00",
-  "LastUpdate_Ratings": "2023-07-09T10:01:11.7550374+00:00",
-  "LastUpdate_Achievements": "2023-07-09T10:03:17.5345235+00:00"
+  "LastUpdate_Ratings": "2023-07-09T10:59:54.0359913+00:00",
+  "LastUpdate_Achievements": "2023-07-09T11:02:35.8158115+00:00"
 }

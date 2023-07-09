@@ -12,6 +12,7 @@
 | Make Up For Lost Time | 14.00% | ~105 |
 | Cartographer | 14.00% | ~105 |
 | Breaking Down Barriers | 14.00% | ~105 |
+| The Wicked Twins | 14.00% | ~105 |
 | The Prince in Heels | 14.00% | ~105 |
 | Immaculate Aim | 14.00% | ~105 |
 | The Family Fortune | 14.00% | ~105 |
@@ -21,21 +22,20 @@
 | Time Flies | 13.00% | ~97 |
 | The Harder They Fall | 13.00% | ~97 |
 | No, Thanks! | 13.00% | ~97 |
-| The Wicked Twins | 13.00% | ~97 |
+| Fast Learner | 13.00% | ~97 |
 | Immaculate Aim | 13.00% | ~97 |
 | The Brass Boss | 13.00% | ~97 |
 | Like Clockwork | 12.00% | ~90 |
 | Honest Mistake | 12.00% | ~90 |
 | Golem Chaser | 12.00% | ~90 |
-| Fast Learner | 12.00% | ~90 |
 | Check Your Pulse | 12.00% | ~90 |
 | Right On Time | 11.00% | ~82 |
 | Street Style | 11.00% | ~82 |
 | Whiz Kid | 10.00% | ~75 |
 | Chaincrawler Explorer | 9.00% | ~67 |
+| Good Neighbor | 9.00% | ~67 |
 | Family Memories | 8.00% | ~60 |
 | Theater Explorer | 8.00% | ~60 |
-| Good Neighbor | 8.00% | ~60 |
 | Cultivair Explorer | 7.00% | ~52 |
 | Fairgrounds Explorer | 7.00% | ~52 |
 | Sump Explorer | 7.00% | ~52 |

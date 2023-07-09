@@ -4,11 +4,11 @@
   "ProductSlug": "panzer-corps-2",
   "Ranking_Rating": 551,
   "Ranking_Popularity": 492,
-  "Ranking_PopularitySum": 454,
+  "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-04-27T14:00:00+00:00",
     "PcReleaseDate": "2020-03-19T15:00:00+00:00",
@@ -250,10 +250,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 41,
       "NumberOfAwardsMax": 21
+    },
+    {
+      "Time": "2023-07-09T10:57:50.9396384+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 61,
+      "NumberOfAwardsMax": 21
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41,
+  "NumberOfAwards": 61,
   "NumberOfAwardsMax": 21,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -268,6 +274,12 @@
       "Prefix": "This game is",
       "Type": "Relaxing",
       "Count": 20
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -281,8 +293,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:07.3866122+00:00",
-  "LastChanged": "2023-07-06T02:25:08.618134+00:00",
+  "LastChanged": "2023-07-09T10:57:50.9396383+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:13.6233949+00:00",
-  "LastUpdate_Ratings": "2023-07-09T09:58:09.338341+00:00",
-  "LastUpdate_Achievements": "2023-07-09T10:03:33.7866378+00:00"
+  "LastUpdate_Ratings": "2023-07-09T10:57:50.9396386+00:00",
+  "LastUpdate_Achievements": "2023-07-09T11:03:08.8877793+00:00"
 }

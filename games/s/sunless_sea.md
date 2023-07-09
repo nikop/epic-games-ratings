@@ -6,18 +6,18 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~11,907 |
-| Sweet Sorrow | 18.00% | ~5,953 |
+| Sink Beneath the Waves | 36.00% | ~11,908 |
+| Sweet Sorrow | 18.00% | ~5,954 |
 | Rules the Waves | 17.00% | ~5,623 |
-| Thou, All-Shaking Thunder | 15.00% | ~4,961 |
-| Rival | 14.00% | ~4,630 |
+| Thou, All-Shaking Thunder | 15.00% | ~4,962 |
+| Rival | 14.00% | ~4,631 |
 | Correspondent | 12.00% | ~3,969 |
 | Lose Your Mind | 12.00% | ~3,969 |
 | Sound Mind? | 12.00% | ~3,969 |
-| Salt's Curse | 11.00% | ~3,638 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~3,638 |
-| The Fall of the House | 11.00% | ~3,638 |
-| Shipmate | 11.00% | ~3,638 |
+| Salt's Curse | 11.00% | ~3,639 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~3,639 |
+| The Fall of the House | 11.00% | ~3,639 |
+| Shipmate | 11.00% | ~3,639 |
 | One Year at Zee | 8.00% | ~2,646 |
 | Pupil | 7.00% | ~2,315 |
 | Salvager | 7.00% | ~2,315 |
@@ -29,8 +29,8 @@ Number of Ratings: 401  (23.09.2022)
 | Storm's Curse | 3.00% | ~992 |
 | We're Gonna Need a Bigger Boat | 3.00% | ~992 |
 | Come Closer | 3.00% | ~992 |
-| Roaring Rise | 2.00% | ~661 |
-| I am the Captain of my Soul | 2.00% | ~661 |
+| Roaring Rise | 2.00% | ~662 |
+| I am the Captain of my Soul | 2.00% | ~662 |
 | A buoyant escape | 1.00% | ~331 |
 | Frightful, sheer, no-man-fathomed | 1.00% | ~331 |
 | The Bell Tolls | 1.00% | ~331 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~33 |
 | Ten Years at Zee | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,074 (Ranked 93)  
+Progressed: 33,078 (Ranked 93)  
 Completed: 3 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 3 (0.01%) (Ranked 223)
 | 2023-07-06 | 32,918 | 3 |
 | 2023-07-07 | 32,969 | 3 |
 | 2023-07-08 | 33,050 | 3 |
-| 2023-07-09 | 33,074 | 3 |
+| 2023-07-09 | 33,078 | 3 |
 ## Awards
 Max (Character Customization): 209  (Ranked 263)  
 Sum: 279 (Ranked 336)  
