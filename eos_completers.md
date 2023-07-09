@@ -17,7 +17,7 @@
 | 15 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.12% |
 | 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.05% |
 | 17 | [Remains](games/r/remains.md) | 11.90% |
-| 18 | [Sonic Origins](games/s/sonic_origins.md) | 10.86% |
+| 18 | [Sonic Origins](games/s/sonic_origins.md) | 10.82% |
 | 19 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.71% |
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
@@ -131,10 +131,10 @@
 | 128 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.48% |
 | 130 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.47% |
 | 131 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
-| 132 | [Ghostrunner](games/g/ghostrunner.md) | 0.42% |
-| 132 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
-| 132 | [Tchia](games/t/tchia.md) | 0.42% |
-| 132 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.42% |
+| 132 | [Tchia](games/t/tchia.md) | 0.43% |
+| 133 | [Ghostrunner](games/g/ghostrunner.md) | 0.42% |
+| 133 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
+| 133 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.42% |
 | 136 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.41% |
 | 137 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.38% |
 | 137 | [Wildermyth](games/w/wildermyth.md) | 0.38% |
@@ -156,8 +156,8 @@
 | 153 | [Against the Storm](games/a/against_the_storm.md) | 0.25% |
 | 153 | [Despot's Game](games/d/despot's_game.md) | 0.25% |
 | 153 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.25% |
-| 157 | [Blanc](games/b/blanc.md) | 0.24% |
-| 158 | [Filament](games/f/filament.md) | 0.23% |
+| 157 | [Blanc](games/b/blanc.md) | 0.23% |
+| 157 | [Filament](games/f/filament.md) | 0.23% |
 | 159 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
 | 159 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.22% |
 | 159 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.22% |
