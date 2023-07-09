@@ -5796,7 +5796,7 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 791622,
+  "EOS_Progressed": 791624,
   "EOS_Completed": 44,
   "EOS_NewPlayers": 1125,
   "EOS_NewCompleters": 1,
@@ -14311,6 +14311,11 @@
       "Time": "2023-07-09T03:29:00.3597135+00:00",
       "NumProgressed": 791622,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-07-09T04:03:31.8490547+00:00",
+      "NumProgressed": 791624,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -14354,7 +14359,7 @@
       "Name": "Awakening",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 158324
+      "UsersEstimate": 158325
     },
     {
       "ID": "BadGirl",
@@ -14522,7 +14527,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 182073
+      "UsersEstimate": 182074
     },
     {
       "ID": "Fighter",
@@ -14538,7 +14543,7 @@
       "Name": "Firestarter",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 118743
+      "UsersEstimate": 118744
     },
     {
       "ID": "Freud",
@@ -14802,7 +14807,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 158324
+      "UsersEstimate": 158325
     },
     {
       "ID": "RevenantOfLedechko",
@@ -14842,7 +14847,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 158324
+      "UsersEstimate": 158325
     },
     {
       "ID": "SerialKiller",
@@ -14858,7 +14863,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 87078
+      "UsersEstimate": 87079
     },
     {
       "ID": "Sniper",
@@ -14977,15 +14982,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 791622,
+      "Progressed": 791624,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-07-08T21:58:55.4568275+00:00",
-  "LastChanged_Achievements": "2023-07-09T03:29:00.359713+00:00",
+  "LastChanged_Achievements": "2023-07-09T04:03:31.8490537+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:10.689818+00:00",
-  "LastUpdate_Ratings": "2023-07-09T03:23:55.4572993+00:00",
-  "LastUpdate_Achievements": "2023-07-09T03:29:00.3598385+00:00"
+  "LastUpdate_Ratings": "2023-07-09T03:58:43.5632255+00:00",
+  "LastUpdate_Achievements": "2023-07-09T04:03:31.849281+00:00"
 }

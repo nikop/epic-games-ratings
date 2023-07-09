@@ -6,22 +6,22 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,332 |
-| The Mad Wizard | 11.00% | ~22,977 |
-| The Ring of Regeneration | 7.00% | ~14,622 |
-| Are Ya Chicken? | 7.00% | ~14,622 |
-| Were-verpowered | 5.00% | ~10,444 |
-| Seeking Allies | 5.00% | ~10,444 |
-| Mad Cow Disease | 5.00% | ~10,444 |
-| Friendly Imps | 5.00% | ~10,444 |
-| A Persistent Buzzing | 4.00% | ~8,355 |
-| Pure Energy | 4.00% | ~8,355 |
-| Beast Mode | 3.00% | ~6,266 |
-| Terror in the Dark | 3.00% | ~6,266 |
-| Unearthed Evil | 3.00% | ~6,266 |
-| The Crumbling Temple | 3.00% | ~6,266 |
-| Exploring Port Nyanzaru | 3.00% | ~6,266 |
-| The Contagious Curse | 3.00% | ~6,266 |
+| The Cursed Farmer | 15.00% | ~31,334 |
+| The Mad Wizard | 11.00% | ~22,979 |
+| The Ring of Regeneration | 7.00% | ~14,623 |
+| Are Ya Chicken? | 7.00% | ~14,623 |
+| Were-verpowered | 5.00% | ~10,445 |
+| Seeking Allies | 5.00% | ~10,445 |
+| Mad Cow Disease | 5.00% | ~10,445 |
+| Friendly Imps | 5.00% | ~10,445 |
+| A Persistent Buzzing | 4.00% | ~8,356 |
+| Pure Energy | 4.00% | ~8,356 |
+| Beast Mode | 3.00% | ~6,267 |
+| Terror in the Dark | 3.00% | ~6,267 |
+| Unearthed Evil | 3.00% | ~6,267 |
+| The Crumbling Temple | 3.00% | ~6,267 |
+| Exploring Port Nyanzaru | 3.00% | ~6,267 |
+| The Contagious Curse | 3.00% | ~6,267 |
 | Low Initiative | 2.00% | ~4,178 |
 | A Mysterious Summons | 2.00% | ~4,178 |
 | Building Trust | 2.00% | ~4,178 |
@@ -126,10 +126,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Struggling Toward Omu | 0.30% | ~627 |
 | Not Very Charming | 0.30% | ~627 |
 | Double Vision | 0.30% | ~627 |
-| The Newcomers of Notoriety | 0.30% | ~525 |
+| The Newcomers of Notoriety | 0.30% | ~526 |
 | We're not in Faerûn Anymore | 0.30% | ~627 |
 | Haunted Fortunes | 0.30% | ~627 |
-| Thine Bounty is Mine! | 0.30% | ~525 |
+| Thine Bounty is Mine! | 0.30% | ~526 |
 | Hold for the Red Wizards | 0.30% | ~627 |
 | House of Darkness | 0.30% | ~627 |
 | Our Time To Shine | 0.30% | ~627 |
@@ -145,22 +145,22 @@ Number of Ratings: 9,041  (23.09.2022)
 | Orcs Are Wild | 0.30% | ~627 |
 | Patience is Key | 0.30% | ~627 |
 | Troublesome Prisoner | 0.30% | ~627 |
-| The Lost Hollyphant | 0.30% | ~525 |
-| The Wandering Emporium | 0.30% | ~525 |
-| Tiamat's Army | 0.30% | ~525 |
-| Questlines | 0.30% | ~525 |
-| Bel's Forge | 0.30% | ~525 |
-| Rime Bandits | 0.30% | ~525 |
-| The Sibriex | 0.30% | ~525 |
-| Wrecked Flying Fortress | 0.30% | ~525 |
-| Dwarven Rumors | 0.30% | ~525 |
-| Sunblight | 0.30% | ~525 |
-| The Bleeding Citadel | 0.30% | ~525 |
-| Idyllglen | 0.30% | ~525 |
-| The Radiant Nightmare | 0.30% | ~525 |
-| Waiting on Sunrise | 0.30% | ~525 |
-| The Battle of High Hall Tower | 0.30% | ~525 |
-| Elturel's Last Stand | 0.30% | ~525 |
+| The Lost Hollyphant | 0.30% | ~526 |
+| The Wandering Emporium | 0.30% | ~526 |
+| Tiamat's Army | 0.30% | ~526 |
+| Questlines | 0.30% | ~526 |
+| Bel's Forge | 0.30% | ~526 |
+| Rime Bandits | 0.30% | ~526 |
+| The Sibriex | 0.30% | ~526 |
+| Wrecked Flying Fortress | 0.30% | ~526 |
+| Dwarven Rumors | 0.30% | ~526 |
+| Sunblight | 0.30% | ~526 |
+| The Bleeding Citadel | 0.30% | ~526 |
+| Idyllglen | 0.30% | ~526 |
+| The Radiant Nightmare | 0.30% | ~526 |
+| Waiting on Sunrise | 0.30% | ~526 |
+| The Battle of High Hall Tower | 0.30% | ~526 |
+| Elturel's Last Stand | 0.30% | ~526 |
 | Overwhelming Force | 0.30% | ~627 |
 | The Castle of a Thousand Vecnas | 0.20% | ~350 |
 | The Sanctum of the Sword | 0.20% | ~350 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,881 (Ranked 52)  
+Progressed: 208,896 (Ranked 52)  
 Completed: 2,041 (0.98%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -590,14 +590,14 @@ Completed: 2,041 (0.98%) (Ranked 102)
 | 2023-07-06 | 207,486 | 2,035 |
 | 2023-07-07 | 208,152 | 2,037 |
 | 2023-07-08 | 208,782 | 2,041 |
-| 2023-07-09 | 208,881 | 2,041 |
+| 2023-07-09 | 208,896 | 2,041 |
 ## Awards
-Max (Diverse Characters): 5,013  (Ranked 65)  
-Sum: 30,451 (Ranked 37)  
+Max (Diverse Characters): 5,016  (Ranked 65)  
+Sum: 30,454 (Ranked 37)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 5,013 |
+| This game has Diverse Characters | 5,016 |
 | This game is Great for Beginners | 4,951 |
 | This game has Quickly Understood Controls | 4,652 |
 | This game is Relaxing | 4,547 |
@@ -771,4 +771,4 @@ Diff (max vs sum): 28
 | 2023-07-06 | 4.05 | - | 5,009 | 30,419 |
 | 2023-07-07 | 4.05 | - | 5,013 | 30,436 |
 | 2023-07-08 | 4.05 | - | 5,013 | 30,446 |
-| 2023-07-09 | 4.05 | - | 5,013 | 30,451 |
+| 2023-07-09 | 4.05 | - | 5,016 | 30,454 |

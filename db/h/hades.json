@@ -3661,9 +3661,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 697929,
+  "EOS_Progressed": 697930,
   "EOS_Completed": 6220,
-  "EOS_NewPlayers": 622,
+  "EOS_NewPlayers": 621,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.89,
   "EosHistory": [
@@ -12011,6 +12011,11 @@
       "Time": "2023-07-09T03:30:17.5892839+00:00",
       "NumProgressed": 697929,
       "NumCompleted": 6220
+    },
+    {
+      "Time": "2023-07-09T04:05:05.7888662+00:00",
+      "NumProgressed": 697930,
+      "NumCompleted": 6220
     }
   ],
   "TotalAchievements": 49,
@@ -12030,7 +12035,7 @@
       "Name": "War-God\u0027s Bloodlust",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 104689
+      "UsersEstimate": 104690
     },
     {
       "ID": "AchBeatCharon",
@@ -12038,7 +12043,7 @@
       "Name": "To Charon\u0027s Credit",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 153544
+      "UsersEstimate": 153545
     },
     {
       "ID": "AchBronzeSkellyTrophy",
@@ -12046,7 +12051,7 @@
       "Name": "The Useless Trinket",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 83751
+      "UsersEstimate": 83752
     },
     {
       "ID": "AchBuffedButterfly",
@@ -12070,7 +12075,7 @@
       "Name": "Three-Headed Boy",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 223337
+      "UsersEstimate": 223338
     },
     {
       "ID": "AchClearAnyRun",
@@ -12078,7 +12083,7 @@
       "Name": "Is There No Escape?",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 362923
+      "UsersEstimate": 362924
     },
     {
       "ID": "AchClearAsphodel",
@@ -12086,7 +12091,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 558343
+      "UsersEstimate": 558344
     },
     {
       "ID": "AchClearElysium",
@@ -12094,7 +12099,7 @@
       "Name": "Escaped Elysium",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 460633
+      "UsersEstimate": 460634
     },
     {
       "ID": "AchClearElysiumEM",
@@ -12126,7 +12131,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 621157
+      "UsersEstimate": 621158
     },
     {
       "ID": "AchCrushedThanatos",
@@ -12142,7 +12147,7 @@
       "Name": "Slashed Benefits",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 83751
+      "UsersEstimate": 83752
     },
     {
       "ID": "AchFishFromEachBiome",
@@ -12182,7 +12187,7 @@
       "Name": "Rare Collectible",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 153544
+      "UsersEstimate": 153545
     },
     {
       "ID": "AchGreaterCall",
@@ -12246,7 +12251,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 439695
+      "UsersEstimate": 439696
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -12294,7 +12299,7 @@
       "Name": "Urge to Sing",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 251254
+      "UsersEstimate": 251255
     },
     {
       "ID": "AchPactUpgradesClears",
@@ -12374,7 +12379,7 @@
       "Name": "Skelly Slayer",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 293130
+      "UsersEstimate": 293131
     },
     {
       "ID": "AchUnlockedAllWeapons",
@@ -12413,15 +12418,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 697929,
+      "Progressed": 697930,
       "Completed": 6220
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2023-07-08T15:58:12.042532+00:00",
-  "LastChanged_Achievements": "2023-07-09T03:30:17.5892834+00:00",
+  "LastChanged_Achievements": "2023-07-09T04:05:05.7888653+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:12.4709429+00:00",
-  "LastUpdate_Ratings": "2023-07-09T03:23:17.9632671+00:00",
-  "LastUpdate_Achievements": "2023-07-09T03:30:17.589361+00:00"
+  "LastUpdate_Ratings": "2023-07-09T03:58:05.9429219+00:00",
+  "LastUpdate_Achievements": "2023-07-09T04:05:05.7889613+00:00"
 }

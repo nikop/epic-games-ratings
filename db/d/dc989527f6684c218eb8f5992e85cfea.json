@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6398,
+  "EOS_Progressed": 6401,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 897,
+  "EOS_NewPlayers": 896,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2486,6 +2486,11 @@
       "Time": "2023-07-09T03:28:12.0642649+00:00",
       "NumProgressed": 6398,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-09T04:02:05.9018765+00:00",
+      "NumProgressed": 6401,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -2511,9 +2516,9 @@
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_12_COLORS",
       "SetID": "5ck0pmd",
       "Name": "Double Rainbow!",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 60,
-      "UsersEstimate": 19
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_6_COLORS",
@@ -2569,7 +2574,7 @@
       "Name": "You tried your best!",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2751
+      "UsersEstimate": 2752
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -2696,14 +2701,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 6398,
+      "Progressed": 6401,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-07-09T03:28:12.0642645+00:00",
+  "LastChanged_Achievements": "2023-07-09T04:02:05.9018759+00:00",
   "LastUpdate_AppInfo": "2023-07-07T17:57:06.089177+00:00",
-  "LastUpdate_Ratings": "2023-07-09T03:22:23.959675+00:00",
-  "LastUpdate_Achievements": "2023-07-09T03:28:12.0642906+00:00"
+  "LastUpdate_Ratings": "2023-07-09T03:57:12.1020294+00:00",
+  "LastUpdate_Achievements": "2023-07-09T04:02:05.901908+00:00"
 }

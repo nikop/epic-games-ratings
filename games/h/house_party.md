@@ -43,6 +43,7 @@ Number of Ratings: 177  (23.09.2022)
 | Do Not Burn | 0.20% | ~11 |
 | The Harder They Fall...Dood | 0.20% | ~11 |
 | Love Conquers All | 0.20% | ~11 |
+| Rule 34 | 0.20% | ~11 |
 | A Striking Resemblance | 0.20% | ~11 |
 | The Muse: Derek | 0.20% | ~11 |
 | Howz It Goin Dood | 0.20% | ~11 |
@@ -63,7 +64,6 @@ Number of Ratings: 177  (23.09.2022)
 | Ice Bath | 0.10% | ~6 |
 | Money Shot | 0.10% | ~6 |
 | Notice Me, Sensei | 0.10% | ~6 |
-| Rule 34 | 0.10% | ~6 |
 | Party Pooper | 0.10% | ~6 |
 | Ronin | 0.10% | ~6 |
 | Do You Smell Blood? | 0.10% | ~6 |

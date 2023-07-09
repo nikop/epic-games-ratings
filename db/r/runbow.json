@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 246281,
+  "EOS_Progressed": 246282,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 388,
+  "EOS_NewPlayers": 386,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7754,6 +7754,11 @@
       "Time": "2023-07-09T03:31:38.9717151+00:00",
       "NumProgressed": 246281,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-09T04:06:24.8576635+00:00",
+      "NumProgressed": 246282,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -7981,7 +7986,7 @@
       "Name": "Lazy Laser",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 19702
+      "UsersEstimate": 19703
     },
     {
       "ID": "lockupLockdown",
@@ -8005,7 +8010,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 123140
+      "UsersEstimate": 123141
     },
     {
       "ID": "notScared",
@@ -8132,7 +8137,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 246281,
+      "Progressed": 246282,
       "Completed": 3
     }
   ],
@@ -8140,8 +8145,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-07-09T03:31:38.9717146+00:00",
+  "LastChanged_Achievements": "2023-07-09T04:06:24.8576631+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:16.5016071+00:00",
-  "LastUpdate_Ratings": "2023-07-09T03:24:36.744444+00:00",
-  "LastUpdate_Achievements": "2023-07-09T03:31:38.9718008+00:00"
+  "LastUpdate_Ratings": "2023-07-09T03:59:26.2263642+00:00",
+  "LastUpdate_Achievements": "2023-07-09T04:06:24.8577443+00:00"
 }
