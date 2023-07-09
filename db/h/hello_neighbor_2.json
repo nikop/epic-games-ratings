@@ -354,9 +354,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2555,
+  "EOS_Progressed": 2556,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.91,
   "EosHistory": [
@@ -1779,6 +1779,11 @@
       "Time": "2023-07-09T12:04:09.6289255+00:00",
       "NumProgressed": 2555,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-07-09T13:16:23.5265588+00:00",
+      "NumProgressed": 2556,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 14,
@@ -1790,7 +1795,7 @@
       "Name": "Ancient Curse",
       "Percentage": 28,
       "XP": 80,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -1868,9 +1873,9 @@
       "ID": "ACH_REUNION",
       "SetID": "4kfb9pd",
       "Name": "Reunion",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 639
+      "UsersEstimate": 613
     },
     {
       "ID": "ACH_SHOVEL_NIGHT",
@@ -1886,7 +1891,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 30,
       "XP": 80,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -1894,14 +1899,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 75,
       "XP": 35,
-      "UsersEstimate": 1916
+      "UsersEstimate": 1917
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2555,
+      "Progressed": 2556,
       "Completed": 100
     }
   ],
@@ -1909,8 +1914,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-07-02T20:01:16.6679969+00:00",
-  "LastChanged_Achievements": "2023-07-09T12:04:09.6289251+00:00",
+  "LastChanged_Achievements": "2023-07-09T13:16:23.5265577+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:49.0605246+00:00",
-  "LastUpdate_Ratings": "2023-07-09T12:00:01.5330316+00:00",
-  "LastUpdate_Achievements": "2023-07-09T12:04:09.6289429+00:00"
+  "LastUpdate_Ratings": "2023-07-09T13:12:25.9265204+00:00",
+  "LastUpdate_Achievements": "2023-07-09T13:16:23.526575+00:00"
 }

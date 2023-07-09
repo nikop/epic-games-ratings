@@ -114,7 +114,7 @@
   "Tags": [],
   "EOS_Progressed": 2751,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 351,
+  "EOS_NewPlayers": 348,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2222,9 +2222,9 @@
       "ID": "ACH_KILL_ALL_ALIEN_ONSLAUGHT",
       "SetID": "816efe",
       "Name": "Keep \u0027Em Coming",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1953
+      "UsersEstimate": 1981
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -2318,9 +2318,9 @@
       "ID": "ACH_MISSION_01",
       "SetID": "816efe",
       "Name": "Something Lurks Under The Hills",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 1541
+      "UsersEstimate": 1568
     },
     {
       "ID": "ACH_MISSION_02",
@@ -2334,17 +2334,17 @@
       "ID": "ACH_MISSION_03",
       "SetID": "816efe",
       "Name": "Harper\u0027s Hell",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 990
+      "UsersEstimate": 1018
     },
     {
       "ID": "ACH_MISSION_04",
       "SetID": "816efe",
       "Name": "Making a Stand",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 935
+      "UsersEstimate": 963
     },
     {
       "ID": "ACH_MISSION_05",
@@ -2495,8 +2495,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-08T21:00:18.0882251+00:00",
-  "LastChanged_Achievements": "2023-07-09T12:06:00.855915+00:00",
+  "LastChanged_Achievements": "2023-07-09T13:18:16.099621+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:32.529009+00:00",
-  "LastUpdate_Ratings": "2023-07-09T11:59:10.4312864+00:00",
-  "LastUpdate_Achievements": "2023-07-09T12:06:00.8559523+00:00"
+  "LastUpdate_Ratings": "2023-07-09T13:11:36.802512+00:00",
+  "LastUpdate_Achievements": "2023-07-09T13:18:16.0996596+00:00"
 }

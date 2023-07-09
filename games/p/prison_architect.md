@@ -6,24 +6,24 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 26.00% | ~38,140 |
-| Get Busy Living | 17.00% | ~24,938 |
-| Samuel Norton | 9.00% | ~13,202 |
-| Spare The Rod | 5.00% | ~7,335 |
-| I May Have Found A Way Out Of Here | 4.00% | ~5,868 |
-| Don't Put Me In The Dark | 3.00% | ~4,401 |
-| Wait and Hope | 3.00% | ~4,401 |
-| Iron Bars | 3.00% | ~4,401 |
-| Throw The Book At Them | 2.00% | ~2,934 |
+| Stone Walls | 26.00% | ~38,153 |
+| Get Busy Living | 17.00% | ~24,946 |
+| Samuel Norton | 9.00% | ~13,207 |
+| Spare The Rod | 5.00% | ~7,337 |
+| I May Have Found A Way Out Of Here | 4.00% | ~5,870 |
+| Don't Put Me In The Dark | 3.00% | ~4,402 |
+| Wait and Hope | 3.00% | ~4,402 |
+| Iron Bars | 3.00% | ~4,402 |
+| Throw The Book At Them | 2.00% | ~2,935 |
 | D.B. Cooper | 1.00% | ~1,467 |
 | Reformation | 0.60% | ~880 |
-| Crowd Control | 0.50% | ~733 |
+| Crowd Control | 0.50% | ~734 |
 | Freedom | 0.40% | ~587 |
 | Confined | 0.40% | ~587 |
 | It's Not What You Know... | 0.10% | ~147 |
 | ... It's What You Can Prove | 0.10% | ~147 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 146,693 (Ranked 59)  
+Progressed: 146,744 (Ranked 59)  
 Completed: 5 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,11 +103,11 @@ Completed: 5 (0.00%) (Ranked 237)
 | 2023-07-06 | 145,660 | 5 |
 | 2023-07-07 | 146,039 | 5 |
 | 2023-07-08 | 146,487 | 5 |
-| 2023-07-09 | 146,693 | 5 |
+| 2023-07-09 | 146,744 | 5 |
 ## Awards
 Max (Extremely Fun): 454  (Ranked 199)  
-Sum: 3,522 (Ranked 148)  
-Diff (max vs sum): 51  
+Sum: 3,524 (Ranked 147)  
+Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 454 |
@@ -115,7 +115,7 @@ Diff (max vs sum): 51
 | This game is Highly Recommended | 432 |
 | This game has Quickly Understood Controls | 414 |
 | This game is Relaxing | 400 |
-| This game has Diverse Characters | 382 |
+| This game has Diverse Characters | 384 |
 | This game has Amazing Storytelling | 370 |
 | This game has Amazing Characters | 358 |
 | This game has a Creative Community | 277 |
@@ -293,4 +293,4 @@ Diff (max vs sum): 51
 | 2023-07-06 | 4.61 | - | 453 | 3,510 |
 | 2023-07-07 | 4.61 | - | 454 | 3,517 |
 | 2023-07-08 | 4.61 | - | 454 | 3,521 |
-| 2023-07-09 | 4.61 | - | 454 | 3,522 |
+| 2023-07-09 | 4.61 | - | 454 | 3,524 |

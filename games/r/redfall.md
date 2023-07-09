@@ -5,20 +5,20 @@ Rating: 3.55 (Ranked 947)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 77.00% | ~1,321 |
+| I Like My Stakes Rare! | 77.00% | ~1,322 |
 | Home Is Where the Heart Is | 60.00% | ~1,030 |
 | Ne Plus Ultra | 60.00% | ~1,030 |
 | Wounded Whispers | 60.00% | ~1,030 |
-| Blood Will Have Blood | 51.00% | ~875 |
-| ICU | 46.00% | ~789 |
+| Blood Will Have Blood | 51.00% | ~876 |
+| ICU | 46.00% | ~790 |
 | Peek-a-boo | 44.00% | ~755 |
 | Catch and Release | 44.00% | ~755 |
 | Sucks To Be You | 43.00% | ~738 |
 | Welcome to the Neighborhood | 38.00% | ~652 |
 | Fly Fisher | 36.00% | ~618 |
 | Throw The First Stone | 35.00% | ~601 |
-| Enter of Your Own Free Will | 33.00% | ~566 |
-| Heart Attack | 33.00% | ~566 |
+| Enter of Your Own Free Will | 33.00% | ~567 |
+| Heart Attack | 33.00% | ~567 |
 | Skin of Their Teeth | 31.00% | ~532 |
 | Grounded | 25.00% | ~429 |
 | Bad Wiring | 22.00% | ~378 |
@@ -40,9 +40,9 @@ Rating: 3.55 (Ranked 947)
 | Right This Way | 4.00% | ~69 |
 | Nice Try | 4.00% | ~69 |
 | Enemy of My Enemy | 4.00% | ~69 |
-| Harvest’s End | 3.00% | ~51 |
-| Blacklight Down | 3.00% | ~51 |
-| Curious Finch | 3.00% | ~51 |
+| Harvest’s End | 3.00% | ~52 |
+| Blacklight Down | 3.00% | ~52 |
+| Curious Finch | 3.00% | ~52 |
 | Neighborhood Watch | 2.00% | ~34 |
 | Scream Team | 2.00% | ~34 |
 | Blood Brother | 2.00% | ~34 |
@@ -72,7 +72,7 @@ Rating: 3.55 (Ranked 947)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,716 (Ranked 166)  
+Progressed: 1,717 (Ranked 166)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-02 | 1,710 | 0 |
 | 2023-07-05 | 1,711 | 0 |
 | 2023-07-08 | 1,712 | 0 |
-| 2023-07-09 | 1,716 | 0 |
+| 2023-07-09 | 1,717 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

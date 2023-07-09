@@ -7,10 +7,10 @@ Rating: 4.41 (Ranked 673)
 | ---- | ---------- | ----- |
 | This Is Hayes, Pioneer Station, Signing Off | 80.00% | ~2,201 |
 | Snatched Out | 73.00% | ~2,008 |
-| Keep 'Em Coming | 71.00% | ~1,953 |
+| Keep 'Em Coming | 72.00% | ~1,981 |
 | Cleaning Lethe, One Nest At A Time | 63.00% | ~1,733 |
 | Call Me Snake | 58.00% | ~1,596 |
-| Something Lurks Under The Hills | 56.00% | ~1,541 |
+| Something Lurks Under The Hills | 57.00% | ~1,568 |
 | This Was No Papercut | 55.00% | ~1,513 |
 | The Shrink Hates Me | 51.00% | ~1,403 |
 | People Person | 50.00% | ~1,376 |
@@ -18,8 +18,8 @@ Rating: 4.41 (Ranked 673)
 | First Steps Into Madness | 46.00% | ~1,265 |
 | Colonial Barrels | 45.00% | ~1,238 |
 | Damn Dude, You Gotta Lose Some Weight! | 38.00% | ~1,045 |
-| Harper's Hell | 36.00% | ~990 |
-| Making a Stand | 34.00% | ~935 |
+| Harper's Hell | 37.00% | ~1,018 |
+| Making a Stand | 35.00% | ~963 |
 | Recouped Investment | 31.00% | ~853 |
 | Where It All Begun | 30.00% | ~825 |
 | Omelette Du Fromage | 29.00% | ~798 |

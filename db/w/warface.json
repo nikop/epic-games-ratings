@@ -4,10 +4,10 @@
   "ProductSlug": "warface",
   "Ranking_Rating": 927,
   "Ranking_Popularity": 209,
-  "Ranking_PopularitySum": 151,
+  "Ranking_PopularitySum": 152,
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-06-29T09:00:00+00:00",
@@ -3043,10 +3043,16 @@
       "Rating": 3.91,
       "NumberOfAwards": 3144,
       "NumberOfAwardsMax": 399
+    },
+    {
+      "Time": "2023-07-09T13:12:00.8497643+00:00",
+      "Rating": 3.91,
+      "NumberOfAwards": 3145,
+      "NumberOfAwardsMax": 399
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3144,
+  "NumberOfAwards": 3145,
   "NumberOfAwardsMax": 399,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -3054,7 +3060,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 333
+      "Count": 334
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3128,8 +3134,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:34.3823284+00:00",
-  "LastChanged": "2023-07-08T16:00:53.5737709+00:00",
+  "LastChanged": "2023-07-09T13:12:00.8497642+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:06.7397097+00:00",
-  "LastUpdate_Ratings": "2023-07-09T11:59:33.6104896+00:00",
-  "LastUpdate_Achievements": "2023-07-09T12:04:55.1052734+00:00"
+  "LastUpdate_Ratings": "2023-07-09T13:12:00.8497647+00:00",
+  "LastUpdate_Achievements": "2023-07-09T13:17:08.7865609+00:00"
 }

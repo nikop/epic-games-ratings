@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Augmented | 17.00% | ~119 |
-| Challenge Accepted | 14.00% | ~98 |
+| Challenge Accepted | 15.00% | ~105 |
 | Terminated I | 13.00% | ~91 |
 | Unlocked and Loaded | 13.00% | ~91 |
 | Nanonic I | 12.00% | ~84 |

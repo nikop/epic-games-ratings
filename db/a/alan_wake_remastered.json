@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57087,
+  "EOS_Progressed": 57089,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 417,
+  "EOS_NewPlayers": 415,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7427,6 +7427,11 @@
       "Time": "2023-07-09T12:03:36.8213051+00:00",
       "NumProgressed": 57087,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-09T13:15:51.2078168+00:00",
+      "NumProgressed": 57089,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7446,7 +7451,7 @@
       "Name": "Nordic Walking",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 11988
+      "UsersEstimate": 11989
     },
     {
       "ID": "03",
@@ -7454,7 +7459,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11417
+      "UsersEstimate": 11418
     },
     {
       "ID": "04",
@@ -7462,7 +7467,7 @@
       "Name": "Boob Tube",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2283
+      "UsersEstimate": 2284
     },
     {
       "ID": "05",
@@ -7502,7 +7507,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6850
+      "UsersEstimate": 6851
     },
     {
       "ID": "10",
@@ -7518,7 +7523,7 @@
       "Name": "Children of the Elder God",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2283
+      "UsersEstimate": 2284
     },
     {
       "ID": "12",
@@ -7590,7 +7595,7 @@
       "Name": "If It Flies, It Burns",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2283
+      "UsersEstimate": 2284
     },
     {
       "ID": "21",
@@ -7598,7 +7603,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6850
+      "UsersEstimate": 6851
     },
     {
       "ID": "22",
@@ -7662,7 +7667,7 @@
       "Name": "Sound and Fury",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6850
+      "UsersEstimate": 6851
     },
     {
       "ID": "30",
@@ -7694,7 +7699,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6850
+      "UsersEstimate": 6851
     },
     {
       "ID": "34",
@@ -7710,7 +7715,7 @@
       "Name": "Let There Be Light",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 15413
+      "UsersEstimate": 15414
     },
     {
       "ID": "36",
@@ -7798,7 +7803,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 7421
+      "UsersEstimate": 7422
     },
     {
       "ID": "47",
@@ -7814,7 +7819,7 @@
       "Name": "KBF-FM",
       "Percentage": 4,
       "XP": 110,
-      "UsersEstimate": 2283
+      "UsersEstimate": 2284
     },
     {
       "ID": "49",
@@ -7838,7 +7843,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1644
+      "UsersEstimate": 1645
     },
     {
       "ID": "52",
@@ -7973,21 +7978,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57087,
+      "Progressed": 57089,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20555,
+      "Progressed": 20557,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-09T12:03:36.8213046+00:00",
+  "LastChanged_Achievements": "2023-07-09T13:15:51.2078163+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:08.3646753+00:00",
-  "LastUpdate_Ratings": "2023-07-09T11:57:44.8927564+00:00",
-  "LastUpdate_Achievements": "2023-07-09T12:03:36.821407+00:00"
+  "LastUpdate_Ratings": "2023-07-09T13:10:10.2899041+00:00",
+  "LastUpdate_Achievements": "2023-07-09T13:15:51.207898+00:00"
 }

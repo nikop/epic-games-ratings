@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -178,9 +178,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1716,
+  "EOS_Progressed": 1717,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2063,6 +2063,11 @@
       "Time": "2023-07-09T12:00:20.3320395+00:00",
       "NumProgressed": 1716,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-09T13:12:46.3881177+00:00",
+      "NumProgressed": 1717,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2098,7 +2103,7 @@
       "Name": "Enter of Your Own Free Will",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "Achievement_006",
@@ -2122,7 +2127,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 875
+      "UsersEstimate": 876
     },
     {
       "ID": "Achievement_009",
@@ -2210,7 +2215,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1321
+      "UsersEstimate": 1322
     },
     {
       "ID": "Achievement_020",
@@ -2298,7 +2303,7 @@
       "Name": "ICU",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "Achievement_031",
@@ -2378,7 +2383,7 @@
       "Name": "Heart Attack",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "Achievement_041",
@@ -2466,7 +2471,7 @@
       "Name": "Harvest\u2019s End",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "Achievement_055",
@@ -2474,7 +2479,7 @@
       "Name": "Blacklight Down",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "Achievement_056",
@@ -2554,7 +2559,7 @@
       "Name": "Curious Finch",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "Achievement_066",
@@ -2601,7 +2606,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1716,
+      "Progressed": 1717,
       "Completed": 0
     }
   ],
@@ -2609,8 +2614,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-07-07T14:57:51.7168375+00:00",
-  "LastChanged_Achievements": "2023-07-09T12:00:20.332039+00:00",
+  "LastChanged_Achievements": "2023-07-09T13:12:46.3881171+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:17.7438623+00:00",
-  "LastUpdate_Ratings": "2023-07-09T11:57:51.4305217+00:00",
-  "LastUpdate_Achievements": "2023-07-09T12:00:20.3321093+00:00"
+  "LastUpdate_Ratings": "2023-07-09T13:10:17.0321687+00:00",
+  "LastUpdate_Achievements": "2023-07-09T13:12:46.3881843+00:00"
 }

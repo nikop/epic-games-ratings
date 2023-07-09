@@ -5,33 +5,33 @@ Rating: 4.38 (Ranked 710)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 93.00% | ~1,129 |
-| Ranidaphobia | 78.00% | ~947 |
-| Aspiring Editor | 75.00% | ~910 |
+| First Blood | 93.00% | ~1,130 |
+| Ranidaphobia | 78.00% | ~948 |
+| Aspiring Editor | 75.00% | ~911 |
 | Gun for Hire | 70.00% | ~850 |
-| I am the law! | 64.00% | ~777 |
-| Lumberjack | 52.00% | ~631 |
+| I am the law! | 64.00% | ~778 |
+| Lumberjack | 52.00% | ~632 |
 | Croaked | 48.00% | ~583 |
 | Limp Richard | 47.00% | ~571 |
 | From Darkness to Light | 47.00% | ~571 |
-| Exorcist | 46.00% | ~558 |
-| Editor Adept | 45.00% | ~546 |
-| Giant Killer | 44.00% | ~534 |
+| Exorcist | 46.00% | ~559 |
+| Editor Adept | 45.00% | ~547 |
+| Giant Killer | 44.00% | ~535 |
 | Firestarter | 42.00% | ~510 |
 | Sensei | 42.00% | ~510 |
-| The meaning of Kain | 39.00% | ~473 |
-| Technophobe | 38.00% | ~461 |
-| Recycler | 37.00% | ~449 |
-| Are you not entertained? | 32.00% | ~388 |
-| Ganglord | 32.00% | ~388 |
-| Jarhead | 32.00% | ~388 |
-| Infiltrator | 31.00% | ~376 |
+| The meaning of Kain | 39.00% | ~474 |
+| Technophobe | 38.00% | ~462 |
+| Recycler | 37.00% | ~450 |
+| Are you not entertained? | 32.00% | ~389 |
+| Ganglord | 32.00% | ~389 |
+| Jarhead | 32.00% | ~389 |
+| Infiltrator | 31.00% | ~377 |
 | Pushing Daisy | 30.00% | ~364 |
 | Experienced | 28.00% | ~340 |
+| Hold The Line | 26.00% | ~316 |
 | Endgame | 25.00% | ~304 |
-| Hold The Line | 25.00% | ~304 |
-| Savior | 24.00% | ~291 |
-| There Can Be Only One! | 24.00% | ~291 |
+| Savior | 24.00% | ~292 |
+| There Can Be Only One! | 24.00% | ~292 |
 | Chain Killer | 22.00% | ~267 |
 | The Watchers | 20.00% | ~243 |
 | Commando | 16.00% | ~194 |
@@ -40,7 +40,7 @@ Rating: 4.38 (Ranked 710)
 | Dr Jones | 14.00% | ~170 |
 | Ruthless | 14.00% | ~170 |
 | Silent but Violent | 11.00% | ~134 |
-| Side Order | 10.00% | ~121 |
+| Side Order | 10.00% | ~122 |
 | Chain Reaction | 9.00% | ~109 |
 | Bot Whisperer | 8.00% | ~97 |
 | Curveball | 8.00% | ~97 |
@@ -55,9 +55,9 @@ Rating: 4.38 (Ranked 710)
 | Fratricide | 0.90% | ~11 |
 | QA Has Suffered! (Redux) | 0.80% | ~10 |
 | Shadow Boxin' | 0.80% | ~10 |
-| Goaaaaal! | 0.70% | ~8 |
+| Goaaaaal! | 0.70% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,214 (Ranked 179)  
+Progressed: 1,215 (Ranked 179)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-06 | 1,206 | 0 |
 | 2023-07-07 | 1,207 | 0 |
 | 2023-07-08 | 1,211 | 0 |
-| 2023-07-09 | 1,214 | 0 |
+| 2023-07-09 | 1,215 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

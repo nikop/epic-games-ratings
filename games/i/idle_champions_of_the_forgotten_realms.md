@@ -6,16 +6,16 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,364 |
-| The Mad Wizard | 11.00% | ~23,000 |
-| The Ring of Regeneration | 7.00% | ~14,636 |
-| Are Ya Chicken? | 7.00% | ~14,636 |
-| Were-verpowered | 6.00% | ~12,545 |
-| Seeking Allies | 5.00% | ~10,454 |
-| Mad Cow Disease | 5.00% | ~10,454 |
-| Friendly Imps | 5.00% | ~10,454 |
-| A Persistent Buzzing | 4.00% | ~8,364 |
-| Pure Energy | 4.00% | ~8,364 |
+| The Cursed Farmer | 15.00% | ~31,367 |
+| The Mad Wizard | 11.00% | ~23,003 |
+| The Ring of Regeneration | 7.00% | ~14,638 |
+| Are Ya Chicken? | 7.00% | ~14,638 |
+| Were-verpowered | 6.00% | ~12,547 |
+| Seeking Allies | 5.00% | ~10,456 |
+| Mad Cow Disease | 5.00% | ~10,456 |
+| Friendly Imps | 5.00% | ~10,456 |
+| A Persistent Buzzing | 4.00% | ~8,365 |
+| Pure Energy | 4.00% | ~8,365 |
 | Beast Mode | 3.00% | ~6,273 |
 | Terror in the Dark | 3.00% | ~6,273 |
 | Unearthed Evil | 3.00% | ~6,273 |
@@ -81,22 +81,21 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lair of the Xanathar | 0.60% | ~1,255 |
 | Difficult Terrain | 0.60% | ~1,255 |
 | Expert Opinion | 0.60% | ~1,255 |
-| Home Field Advantage | 0.50% | ~1,045 |
-| Force Grey Unleashed | 0.50% | ~1,045 |
-| Sleuth It Out | 0.50% | ~1,045 |
-| Azaka's Procession - Part 1 | 0.50% | ~1,045 |
-| Azaka's Procession - Part 2 | 0.50% | ~1,045 |
-| Chatty Nobles | 0.50% | ~1,045 |
-| Haaave You Met Asmodeus? | 0.50% | ~1,045 |
-| Seeds of Deceit | 0.50% | ~1,045 |
-| The Gargoyle's Apprentice | 0.50% | ~1,045 |
-| Flies on the Wall | 0.50% | ~1,045 |
-| Waterdeep Under Siege | 0.50% | ~1,045 |
-| Vault of Dragons | 0.50% | ~1,045 |
-| Elturel Has Fallen | 0.50% | ~1,045 |
-| Resolve Amongst Chaos | 0.50% | ~1,045 |
+| Home Field Advantage | 0.50% | ~1,046 |
+| Force Grey Unleashed | 0.50% | ~1,046 |
+| Sleuth It Out | 0.50% | ~1,046 |
+| Azaka's Procession - Part 1 | 0.50% | ~1,046 |
+| Azaka's Procession - Part 2 | 0.50% | ~1,046 |
+| Chatty Nobles | 0.50% | ~1,046 |
+| Haaave You Met Asmodeus? | 0.50% | ~1,046 |
+| Seeds of Deceit | 0.50% | ~1,046 |
+| Flies on the Wall | 0.50% | ~1,046 |
+| Waterdeep Under Siege | 0.50% | ~1,046 |
+| Vault of Dragons | 0.50% | ~1,046 |
+| Elturel Has Fallen | 0.50% | ~1,046 |
+| Resolve Amongst Chaos | 0.50% | ~1,046 |
 | The Everlasting Rime | 0.50% | ~877 |
-| Poor Guidance | 0.50% | ~1,045 |
+| Poor Guidance | 0.50% | ~1,046 |
 | Anti-Dexterous Explorers | 0.40% | ~836 |
 | Not Very Charming | 0.40% | ~836 |
 | Lobsterfolk Assault | 0.40% | ~836 |
@@ -106,6 +105,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Werewolves in the Mist | 0.40% | ~836 |
 | Modron Assistance | 0.40% | ~836 |
 | Domesticated Owlbears | 0.40% | ~836 |
+| The Gargoyle's Apprentice | 0.40% | ~836 |
 | The Trepidatious Trio | 0.40% | ~836 |
 | Backtracking Through Barovia | 0.40% | ~836 |
 | Excavating History | 0.40% | ~836 |
@@ -116,14 +116,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Champions of Waterdeep | 0.40% | ~836 |
 | Once More Into The Breach | 0.40% | ~836 |
 | Wyllowwood | 0.40% | ~836 |
-| An Illithid Undertaking | 0.40% | ~701 |
-| Déjà Vu | 0.40% | ~701 |
-| Into The Fire | 0.40% | ~701 |
-| Dreamscape | 0.40% | ~701 |
-| The Path of Dreams | 0.40% | ~701 |
-| Alterdeep | 0.40% | ~701 |
-| Moose Tracks | 0.40% | ~701 |
-| Civilization | 0.40% | ~701 |
+| An Illithid Undertaking | 0.40% | ~702 |
+| Déjà Vu | 0.40% | ~702 |
+| Into The Fire | 0.40% | ~702 |
+| Dreamscape | 0.40% | ~702 |
+| The Path of Dreams | 0.40% | ~702 |
+| Alterdeep | 0.40% | ~702 |
+| Moose Tracks | 0.40% | ~702 |
+| Civilization | 0.40% | ~702 |
 | Struggling Toward Omu | 0.30% | ~627 |
 | Double Vision | 0.30% | ~627 |
 | The Newcomers of Notoriety | 0.30% | ~526 |
@@ -180,6 +180,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | This Quest Stinks! | 0.20% | ~351 |
 | Form Ranks | 0.20% | ~418 |
 | They Who Smelt It | 0.20% | ~418 |
+| Distribute Your Weight | 0.20% | ~418 |
 | Only the Strong Survive | 0.20% | ~418 |
 | Shorty's Day Off | 0.20% | ~418 |
 | Intelligence Hunt | 0.20% | ~418 |
@@ -288,7 +289,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Underground Railroad | 0.10% | ~209 |
 | Acererak's Puzzle | 0.10% | ~175 |
 | Drop of Time | 0.10% | ~175 |
-| Distribute Your Weight | 0.10% | ~209 |
 | Mongrelfolk Incursion | 0.10% | ~175 |
 | The Strahd Squad | 0.10% | ~175 |
 | Red Wizard 'Escort' | 0.10% | ~175 |
@@ -510,8 +510,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209,090 (Ranked 52)  
-Completed: 2,041 (0.98%) (Ranked 102)  
+Progressed: 209,116 (Ranked 52)  
+Completed: 2,042 (0.98%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -590,7 +590,7 @@ Completed: 2,041 (0.98%) (Ranked 102)
 | 2023-07-06 | 207,486 | 2,035 |
 | 2023-07-07 | 208,152 | 2,037 |
 | 2023-07-08 | 208,782 | 2,041 |
-| 2023-07-09 | 209,090 | 2,041 |
+| 2023-07-09 | 209,116 | 2,042 |
 ## Awards
 Max (Diverse Characters): 5,016  (Ranked 65)  
 Sum: 30,455 (Ranked 37)  

@@ -6,46 +6,46 @@ Number of Ratings: 743  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 69.00% | ~29,678 |
-| Say goodbye, creep! | 65.00% | ~27,957 |
-| Blood splattered | 65.00% | ~27,957 |
-| Choo choo! | 62.00% | ~26,667 |
-| Groovy | 61.00% | ~26,237 |
-| Cleanup on aisle 4! | 57.00% | ~24,516 |
-| Gold | 50.00% | ~21,506 |
-| The boat can leave now...tell the crew | 49.00% | ~21,075 |
-| Stand back boy! | 47.00% | ~20,215 |
-| Give me something to shoot! | 46.00% | ~19,785 |
-| Weird science | 44.00% | ~18,925 |
-| Chain reaction | 44.00% | ~18,925 |
-| What did you say, Blain? | 42.00% | ~18,065 |
-| Look mummy! A shark! | 41.00% | ~17,635 |
-| In the dark dark woods... | 39.00% | ~16,774 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,344 |
-| Double tap | 37.00% | ~15,914 |
-| All of this has happened before… | 36.00% | ~15,484 |
-| Cranial blowout! | 36.00% | ~15,484 |
-| Zombie killin' machine | 36.00% | ~15,484 |
-| Every bullet counts | 36.00% | ~15,484 |
-| All roads lead to Rome | 34.00% | ~14,624 |
-| You've got red on you | 34.00% | ~14,624 |
+| Shoot it, man! Shoot it in the head! | 69.00% | ~29,680 |
+| Say goodbye, creep! | 65.00% | ~27,959 |
+| Blood splattered | 65.00% | ~27,959 |
+| Choo choo! | 62.00% | ~26,669 |
+| Groovy | 61.00% | ~26,239 |
+| Cleanup on aisle 4! | 57.00% | ~24,518 |
+| Gold | 50.00% | ~21,507 |
+| The boat can leave now...tell the crew | 49.00% | ~21,077 |
+| Stand back boy! | 47.00% | ~20,217 |
+| Give me something to shoot! | 46.00% | ~19,786 |
+| Weird science | 44.00% | ~18,926 |
+| Chain reaction | 44.00% | ~18,926 |
+| What did you say, Blain? | 42.00% | ~18,066 |
+| Look mummy! A shark! | 41.00% | ~17,636 |
+| In the dark dark woods... | 39.00% | ~16,775 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,345 |
+| Double tap | 37.00% | ~15,915 |
+| All of this has happened before… | 36.00% | ~15,485 |
+| Cranial blowout! | 36.00% | ~15,485 |
+| Zombie killin' machine | 36.00% | ~15,485 |
+| Every bullet counts | 36.00% | ~15,485 |
+| All roads lead to Rome | 34.00% | ~14,625 |
+| You've got red on you | 34.00% | ~14,625 |
 | You're all going to die down here | 32.00% | ~13,764 |
-| He did Nazi that coming | 31.00% | ~13,333 |
-| Kill of the week | 31.00% | ~13,333 |
-| I never liked them anyway | 30.00% | ~12,903 |
-| Is it over? | 28.00% | ~12,043 |
-| Got your back | 27.00% | ~11,613 |
+| He did Nazi that coming | 31.00% | ~13,334 |
+| Kill of the week | 31.00% | ~13,334 |
+| I never liked them anyway | 30.00% | ~12,904 |
+| Is it over? | 28.00% | ~12,044 |
+| Got your back | 27.00% | ~11,614 |
 | Gore soaked | 24.00% | ~10,323 |
-| Shock therapy | 22.00% | ~9,462 |
-| Leave the limbs you've lost | 22.00% | ~9,462 |
-| Everyone's a mad scientist, life is the lab | 18.00% | ~7,742 |
-| Take them down screaming | 18.00% | ~7,742 |
+| Shock therapy | 22.00% | ~9,463 |
+| Leave the limbs you've lost | 22.00% | ~9,463 |
+| Everyone's a mad scientist, life is the lab | 18.00% | ~7,743 |
+| Take them down screaming | 18.00% | ~7,743 |
 | Bad Blood | 17.00% | ~7,312 |
 | Weapons expert | 17.00% | ~7,312 |
 | The bigger they are... | 15.00% | ~6,452 |
 | I'm going deeper underground | 14.00% | ~6,022 |
-| Well equipped | 13.00% | ~5,591 |
-| Into the deep | 12.00% | ~5,161 |
+| Well equipped | 13.00% | ~5,592 |
+| Into the deep | 12.00% | ~5,162 |
 | Damnedbusters | 9.00% | ~3,871 |
 | I can do anything I want. I got guns | 8.00% | ~3,441 |
 | Send me an angel | 8.00% | ~3,441 |
@@ -63,9 +63,9 @@ Number of Ratings: 743  (23.09.2022)
 | Hoarder | 6.00% | ~2,581 |
 | Kali Ma | 5.00% | ~2,151 |
 | Have you tried turning it off and on again? | 5.00% | ~2,151 |
-| They're coming to get you Barbara | 4.00% | ~1,720 |
-| Total protonic reversal | 4.00% | ~1,720 |
-| A friend in need | 4.00% | ~1,720 |
+| They're coming to get you Barbara | 4.00% | ~1,721 |
+| Total protonic reversal | 4.00% | ~1,721 |
+| A friend in need | 4.00% | ~1,721 |
 | People don't change. We go round in circles | 3.00% | ~1,290 |
 | The blighters got through a second time. | 3.00% | ~1,290 |
 | I'm a survivor! | 3.00% | ~1,290 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~430 |
 | None more hard | 0.50% | ~215 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,011 (Ranked 88)  
+Progressed: 43,014 (Ranked 88)  
 Completed: 25 (0.06%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 25 (0.06%) (Ranked 197)
 | 2023-07-06 | 42,994 | 25 |
 | 2023-07-07 | 43,003 | 25 |
 | 2023-07-08 | 43,007 | 25 |
-| 2023-07-09 | 43,011 | 25 |
+| 2023-07-09 | 43,014 | 25 |
 ## Awards
 Max (Great Boss Battles): 798  (Ranked 152)  
 Sum: 2,436 (Ranked 172)  

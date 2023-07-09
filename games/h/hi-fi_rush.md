@@ -6,9 +6,10 @@ Rating: 4.87 (Ranked 25)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | NOW we got a kickass hideout! | 1.00% | ~19 |
+| Cream of the Crop | 0.70% | ~24 |
 | I play my own way! | 0.70% | ~24 |
 | Whoa! There's ANOTHER health bar!? | 0.70% | ~24 |
-| Cream of the Crop | 0.60% | ~21 |
+| Kissing the sky! | 0.70% | ~24 |
 | This will cost you big time | 0.60% | ~21 |
 | The Negotiator | 0.60% | ~21 |
 | Time to pay up! | 0.60% | ~21 |
@@ -18,19 +19,18 @@ Rating: 4.87 (Ranked 25)
 | Z-shielding's got nothing on us! | 0.60% | ~21 |
 | Out in a puff of smoke | 0.60% | ~21 |
 | Uh, they were broken when I got here | 0.60% | ~21 |
-| Kissing the sky! | 0.60% | ~21 |
 | Who put gears in there? | 0.60% | ~21 |
+| Start with a bang! | 0.50% | ~17 |
 | Headliner | 0.50% | ~17 |
 | I have to read these things? | 0.50% | ~17 |
 | Perfect Parry | 0.50% | ~17 |
-| Start with a bang! | 0.40% | ~14 |
+| I look cool. But I can look COOLER. | 0.50% | ~17 |
+| Alright, that felt AWESOME! | 0.50% | ~17 |
 | Well that was a rush! | 0.40% | ~14 |
 | Feeling the beat! | 0.40% | ~14 |
 | You must like calling me in, Chai | 0.40% | ~14 |
 | Perfecter Parry-er! | 0.40% | ~14 |
 | That's a lot of junk metal… | 0.40% | ~14 |
-| I look cool. But I can look COOLER. | 0.40% | ~14 |
-| Alright, that felt AWESOME! | 0.40% | ~14 |
 | You can pet the cat! | 0.40% | ~14 |
 | Call me Turbo Chai | 0.40% | ~8 |
 | There's such a thing as TOO helpful | 0.30% | ~10 |
@@ -54,6 +54,7 @@ Rating: 4.87 (Ranked 25)
 | This was... not what I expected. | 0.10% | ~3 |
 | I hit things with a guitar really well. | 0.10% | ~3 |
 | I told you I'd be fine, Peppermint! | 0.10% | ~3 |
+| You ever parry a volcano? | 0.10% | ~3 |
 | I saw all those hits coming a measure away! | 0.10% | ~3 |
 | Choose your own adventure | 0.10% | ~2 |
 | It'll do, CNMN | 0.10% | ~2 |
@@ -70,7 +71,6 @@ Rating: 4.87 (Ranked 25)
 | What a journey it was... | 0.00% | ~0 |
 | Have we met before? | 0.00% | ~0 |
 | I'm untouchable! | 0.00% | ~0 |
-| You ever parry a volcano? | 0.00% | ~0 |
 | I am a good person who likes to help | 0.00% | ~0 |
 | I'm trying to FOCUS HERE! | 0.00% | ~0 |
 | With our powers combined…and to the rhythm… | 0.00% | ~0 |

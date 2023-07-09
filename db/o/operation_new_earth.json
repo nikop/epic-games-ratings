@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -1321,9 +1321,9 @@
       "ID": "ach_defeat_players_10",
       "SetID": "bm61c2p",
       "Name": "Fighting for Survival",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 42
     },
     {
       "ID": "ach_defeat_players_100",
@@ -1616,8 +1616,8 @@
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-09T12:04:33.190364+00:00",
+  "LastChanged_Achievements": "2023-07-09T13:16:46.5971203+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:58.5226048+00:00",
-  "LastUpdate_Ratings": "2023-07-09T12:00:07.3626886+00:00",
-  "LastUpdate_Achievements": "2023-07-09T12:04:33.1903937+00:00"
+  "LastUpdate_Ratings": "2023-07-09T13:12:30.9482738+00:00",
+  "LastUpdate_Achievements": "2023-07-09T13:16:46.5971482+00:00"
 }

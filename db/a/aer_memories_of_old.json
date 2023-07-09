@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14788,
+  "EOS_Progressed": 14791,
   "EOS_Completed": 312,
-  "EOS_NewPlayers": 615,
+  "EOS_NewPlayers": 611,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 2.11,
   "EosHistory": [
@@ -8704,6 +8704,11 @@
       "Time": "2023-07-09T12:03:05.1014169+00:00",
       "NumProgressed": 14788,
       "NumCompleted": 312
+    },
+    {
+      "Time": "2023-07-09T13:15:19.424178+00:00",
+      "NumProgressed": 14791,
+      "NumCompleted": 312
     }
   ],
   "TotalAchievements": 20,
@@ -8731,7 +8736,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2218
+      "UsersEstimate": 2219
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -8779,7 +8784,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2218
+      "UsersEstimate": 2219
     },
     {
       "ID": "FOUND_ERIN",
@@ -8787,7 +8792,7 @@
       "Name": "Hide and Seek",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -8811,7 +8816,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2070
+      "UsersEstimate": 2071
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -8827,7 +8832,7 @@
       "Name": "Equilibrium",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1922
+      "UsersEstimate": 1923
     },
     {
       "ID": "INTRO_FINISHED",
@@ -8835,7 +8840,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 11239
+      "UsersEstimate": 11241
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -8851,7 +8856,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2070
+      "UsersEstimate": 2071
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -8874,15 +8879,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 14788,
+      "Progressed": 14791,
       "Completed": 312
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-07-09T12:03:05.1014165+00:00",
+  "LastChanged_Achievements": "2023-07-09T13:15:19.4241776+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:34.4370622+00:00",
-  "LastUpdate_Ratings": "2023-07-09T11:59:52.7356437+00:00",
-  "LastUpdate_Achievements": "2023-07-09T12:03:05.1014668+00:00"
+  "LastUpdate_Ratings": "2023-07-09T13:12:16.3097048+00:00",
+  "LastUpdate_Achievements": "2023-07-09T13:15:19.4242299+00:00"
 }

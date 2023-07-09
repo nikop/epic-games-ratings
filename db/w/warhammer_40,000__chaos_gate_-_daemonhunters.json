@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -582,7 +582,7 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 2950,
+  "EOS_Progressed": 2951,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
@@ -2127,6 +2127,11 @@
       "Time": "2023-07-09T02:36:10.5914493+00:00",
       "NumProgressed": 2950,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-09T13:12:53.1931851+00:00",
+      "NumProgressed": 2951,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2314,7 +2319,7 @@
       "Name": "Blood for the Blood God!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -2360,9 +2365,9 @@
       "ID": "Kills_Knockback",
       "SetID": "3jha1np",
       "Name": "Watch Where You Step...",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 974
+      "UsersEstimate": 944
     },
     {
       "ID": "Kills_Streak",
@@ -2418,7 +2423,7 @@
       "Name": "Gunmaster",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "MasterOfTheForge",
@@ -2546,7 +2551,7 @@
       "Name": "Harvest No More",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ReaperDefeated_Necrosus",
@@ -2554,7 +2559,7 @@
       "Name": "Junk Banishment",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ReaperDefeated_Poxus",
@@ -2602,28 +2607,28 @@
       "Name": "Tactical Flexibility",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     }
   ],
   "AchievementSets": [
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2950,
+      "Progressed": 2951,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2950,
+      "Progressed": 2951,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-08T19:59:25.149213+00:00",
-  "LastChanged_Achievements": "2023-07-09T12:00:27.0124362+00:00",
+  "LastChanged_Achievements": "2023-07-09T13:12:53.1931846+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:34.0888616+00:00",
-  "LastUpdate_Ratings": "2023-07-09T11:58:36.0744598+00:00",
-  "LastUpdate_Achievements": "2023-07-09T12:00:27.0125014+00:00"
+  "LastUpdate_Ratings": "2023-07-09T13:11:02.3159182+00:00",
+  "LastUpdate_Achievements": "2023-07-09T13:12:53.1932447+00:00"
 }

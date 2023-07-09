@@ -11,7 +11,7 @@
 | First time, yes? | 55.00% | ~48 |
 | Skilled rider | 49.00% | ~43 |
 | Kind heart | 48.00% | ~42 |
-| Devil's dozen | 29.00% | ~25 |
+| Devil's dozen | 30.00% | ~26 |
 | It doesn't work like that | 25.00% | ~22 |
 | A small victory | 18.00% | ~16 |
 | This is just the beginning... | 17.00% | ~15 |

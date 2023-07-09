@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3186,
+  "EOS_Progressed": 3189,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1958,6 +1958,11 @@
       "Time": "2023-07-09T12:04:44.7829558+00:00",
       "NumProgressed": 3186,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-09T13:16:58.428458+00:00",
+      "NumProgressed": 3189,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -2049,7 +2054,7 @@
       "Name": "Go For the Head",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_K_A2",
@@ -2057,7 +2062,7 @@
       "Name": "Spartan Sandal",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_K_A3",
@@ -2065,7 +2070,7 @@
       "Name": "Missilis",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_MC",
@@ -2105,7 +2110,7 @@
       "Name": "Modest Earnings",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_M_D2",
@@ -2161,7 +2166,7 @@
       "Name": "Armaments of the Pantheon",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_M_SC",
@@ -2217,7 +2222,7 @@
       "Name": "The Sons of Minos",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_OB_CS",
@@ -2265,7 +2270,7 @@
       "Name": "Eidola",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_OB_LI",
@@ -2393,7 +2398,7 @@
       "Name": "Reign in Blood",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_TP",
@@ -2417,7 +2422,7 @@
       "Name": "Invicta",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "KBK",
@@ -2472,7 +2477,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3186,
+      "Progressed": 3189,
       "Completed": 0
     }
   ],
@@ -2480,8 +2485,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-07-09T12:04:44.782955+00:00",
+  "LastChanged_Achievements": "2023-07-09T13:16:58.4284576+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:04.7674222+00:00",
-  "LastUpdate_Ratings": "2023-07-09T11:59:31.0892317+00:00",
-  "LastUpdate_Achievements": "2023-07-09T12:04:44.7830107+00:00"
+  "LastUpdate_Ratings": "2023-07-09T13:11:58.3152073+00:00",
+  "LastUpdate_Achievements": "2023-07-09T13:16:58.4285112+00:00"
 }

@@ -5,7 +5,7 @@ Rating: 4.61 (Ranked 362)
 Number of Ratings: 18,078  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 4,336  (Ranked 73)  
-Sum: 27,918 (Ranked 41)  
+Sum: 27,922 (Ranked 41)  
 Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
@@ -14,7 +14,7 @@ Diff (max vs sum): 32
 | This game has Competitive Players | 4,234 |
 | This game is Highly Recommended | 4,134 |
 | This game has Quickly Understood Controls | 3,930 |
-| This game has Amazing Characters | 3,655 |
+| This game has Amazing Characters | 3,659 |
 | This game has Amazing Storytelling | 3,353 |
 | This game has Obsessive Gameplay | 2,760 |
 | This game is Great for Beginners | 968 |
@@ -190,4 +190,4 @@ Diff (max vs sum): 32
 | 2023-07-06 | 4.61 | - | 4,330 | 27,867 |
 | 2023-07-07 | 4.61 | - | 4,333 | 27,896 |
 | 2023-07-08 | 4.61 | - | 4,336 | 27,913 |
-| 2023-07-09 | 4.61 | - | 4,336 | 27,918 |
+| 2023-07-09 | 4.61 | - | 4,336 | 27,922 |
