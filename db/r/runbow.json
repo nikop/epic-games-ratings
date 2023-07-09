@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 246291,
+  "EOS_Progressed": 246292,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 386,
+  "EOS_NewPlayers": 384,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7779,6 +7779,11 @@
       "Time": "2023-07-09T08:07:57.6045787+00:00",
       "NumProgressed": 246291,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-09T09:06:22.1972238+00:00",
+      "NumProgressed": 246292,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -7790,7 +7795,7 @@
       "Name": "Just A Phaze",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14777
+      "UsersEstimate": 14778
     },
     {
       "ID": "aWinnerIsYou",
@@ -7838,7 +7843,7 @@
       "Name": "Butt Butt",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14777
+      "UsersEstimate": 14778
     },
     {
       "ID": "canYouDigIt",
@@ -7846,7 +7851,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 41869
+      "UsersEstimate": 41870
     },
     {
       "ID": "cantBeKeptDown",
@@ -7886,7 +7891,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 44332
+      "UsersEstimate": 44333
     },
     {
       "ID": "curator",
@@ -7966,7 +7971,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 130534
+      "UsersEstimate": 130535
     },
     {
       "ID": "indegestible",
@@ -8157,7 +8162,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 246291,
+      "Progressed": 246292,
       "Completed": 3
     }
   ],
@@ -8165,8 +8170,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-07-09T08:07:57.6045781+00:00",
+  "LastChanged_Achievements": "2023-07-09T09:06:22.1972232+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:16.5016071+00:00",
-  "LastUpdate_Ratings": "2023-07-09T08:00:25.9053457+00:00",
-  "LastUpdate_Achievements": "2023-07-09T08:07:57.6047356+00:00"
+  "LastUpdate_Ratings": "2023-07-09T08:59:16.3071829+00:00",
+  "LastUpdate_Achievements": "2023-07-09T09:06:22.1973687+00:00"
 }

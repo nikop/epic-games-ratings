@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 358,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -532,9 +532,9 @@
       "Count": 208
     }
   ],
-  "EOS_Progressed": 10990,
+  "EOS_Progressed": 10992,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -6312,6 +6312,11 @@
       "Time": "2023-07-09T07:07:07.6493189+00:00",
       "NumProgressed": 10990,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-07-09T09:06:24.5621977+00:00",
+      "NumProgressed": 10992,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 35,
@@ -6323,7 +6328,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 8902
+      "UsersEstimate": 8904
     },
     {
       "ID": "ACH02",
@@ -6331,7 +6336,7 @@
       "Name": "With Extra Dip",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "ACH03",
@@ -6371,7 +6376,7 @@
       "Name": "The American Dream",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1978
+      "UsersEstimate": 1979
     },
     {
       "ID": "ACH08",
@@ -6379,7 +6384,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5495
+      "UsersEstimate": 5496
     },
     {
       "ID": "ACH09",
@@ -6419,7 +6424,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1868
+      "UsersEstimate": 1869
     },
     {
       "ID": "ACH14",
@@ -6443,7 +6448,7 @@
       "Name": "Smooth Moves",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1758
+      "UsersEstimate": 1759
     },
     {
       "ID": "ACH17",
@@ -6602,7 +6607,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 10990,
+      "Progressed": 10992,
       "Completed": 26
     }
   ],
@@ -6610,8 +6615,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-08T02:24:21.2335521+00:00",
-  "LastChanged_Achievements": "2023-07-09T08:08:00.7994528+00:00",
+  "LastChanged_Achievements": "2023-07-09T09:06:24.562197+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:43.1834453+00:00",
-  "LastUpdate_Ratings": "2023-07-09T08:01:54.0826544+00:00",
-  "LastUpdate_Achievements": "2023-07-09T08:08:00.7995392+00:00"
+  "LastUpdate_Ratings": "2023-07-09T09:00:20.20307+00:00",
+  "LastUpdate_Achievements": "2023-07-09T09:06:24.5622573+00:00"
 }

@@ -9,6 +9,7 @@ Rating: 4.87 (Ranked 25)
 | I play my own way! | 0.70% | ~24 |
 | Whoa! There's ANOTHER health bar!? | 0.70% | ~24 |
 | Cream of the Crop | 0.60% | ~21 |
+| This will cost you big time | 0.60% | ~21 |
 | The Negotiator | 0.60% | ~21 |
 | Time to pay up! | 0.60% | ~21 |
 | Who's the boss now? | 0.60% | ~21 |
@@ -18,7 +19,6 @@ Rating: 4.87 (Ranked 25)
 | Uh, they were broken when I got here | 0.60% | ~21 |
 | Kissing the sky! | 0.60% | ~21 |
 | Who put gears in there? | 0.60% | ~21 |
-| This will cost you big time | 0.50% | ~17 |
 | Headliner | 0.50% | ~17 |
 | I have to read these things? | 0.50% | ~17 |
 | You got this, Peppermint? | 0.50% | ~17 |

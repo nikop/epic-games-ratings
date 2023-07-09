@@ -6,24 +6,24 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~11,904 |
-| Sweet Sorrow | 18.00% | ~5,952 |
+| Sink Beneath the Waves | 36.00% | ~11,906 |
+| Sweet Sorrow | 18.00% | ~5,953 |
 | Rules the Waves | 17.00% | ~5,622 |
-| Thou, All-Shaking Thunder | 15.00% | ~4,960 |
+| Thou, All-Shaking Thunder | 15.00% | ~4,961 |
 | Rival | 14.00% | ~4,630 |
-| Correspondent | 12.00% | ~3,968 |
-| Lose Your Mind | 12.00% | ~3,968 |
-| Sound Mind? | 12.00% | ~3,968 |
-| Salt's Curse | 11.00% | ~3,637 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~3,637 |
-| The Fall of the House | 11.00% | ~3,637 |
-| Shipmate | 11.00% | ~3,637 |
-| One Year at Zee | 8.00% | ~2,645 |
+| Correspondent | 12.00% | ~3,969 |
+| Lose Your Mind | 12.00% | ~3,969 |
+| Sound Mind? | 12.00% | ~3,969 |
+| Salt's Curse | 11.00% | ~3,638 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~3,638 |
+| The Fall of the House | 11.00% | ~3,638 |
+| Shipmate | 11.00% | ~3,638 |
+| One Year at Zee | 8.00% | ~2,646 |
 | Pupil | 7.00% | ~2,315 |
 | Salvager | 7.00% | ~2,315 |
 | Open Your Ears | 7.00% | ~2,315 |
 | The Ascent of Man | 7.00% | ~2,315 |
-| Zee Fever | 5.00% | ~1,653 |
+| Zee Fever | 5.00% | ~1,654 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,323 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,323 |
 | Storm's Curse | 3.00% | ~992 |
@@ -49,7 +49,7 @@ Number of Ratings: 401  (23.09.2022)
 | No regrets | 0.90% | ~298 |
 | Depth charge | 0.90% | ~298 |
 | What lies beneath | 0.80% | ~265 |
-| Stone's Curse | 0.70% | ~231 |
+| Stone's Curse | 0.70% | ~232 |
 | Five Years at Zee | 0.50% | ~165 |
 | The Lady's Parlour | 0.20% | ~66 |
 | A Past Wreathed in Shadows | 0.20% | ~66 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~33 |
 | Ten Years at Zee | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,068 (Ranked 93)  
+Progressed: 33,073 (Ranked 93)  
 Completed: 3 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 3 (0.01%) (Ranked 223)
 | 2023-07-06 | 32,918 | 3 |
 | 2023-07-07 | 32,969 | 3 |
 | 2023-07-08 | 33,050 | 3 |
-| 2023-07-09 | 33,068 | 3 |
+| 2023-07-09 | 33,073 | 3 |
 ## Awards
 Max (Character Customization): 209  (Ranked 263)  
 Sum: 279 (Ranked 336)  

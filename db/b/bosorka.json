@@ -2,9 +2,9 @@
   "ID": "0e65d8e6338943e68169f928702c4706",
   "Name": "Bosorka",
   "ProductSlug": "bosorka-c0e6b6",
-  "Ranking_EOS_Progress": 307,
+  "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 288,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-14T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 86,
+  "EOS_Progressed": 87,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -223,6 +223,11 @@
       "Time": "2023-07-05T09:06:31.677032+00:00",
       "NumProgressed": 86,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-09T09:06:17.7223309+00:00",
+      "NumProgressed": 87,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -232,7 +237,7 @@
       "ID": "RUNE_ACCEL",
       "SetID": "9433p49",
       "Name": "A good start",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 55,
       "UsersEstimate": 49
     },
@@ -240,7 +245,7 @@
       "ID": "RUNE_BAT",
       "SetID": "9433p49",
       "Name": "It doesn\u0027t work like that",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 55,
       "UsersEstimate": 22
     },
@@ -264,7 +269,7 @@
       "ID": "RUNE_BROOMDASHDAMAGE",
       "SetID": "9433p49",
       "Name": "Time is on my side",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 40,
       "UsersEstimate": 10
     },
@@ -280,7 +285,7 @@
       "ID": "RUNE_CURSEDCOMPANIONSHIELD",
       "SetID": "9433p49",
       "Name": "Runes collector",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 100,
       "UsersEstimate": 47
     },
@@ -288,7 +293,7 @@
       "ID": "RUNE_CURSEDCOMPANIONSPELL",
       "SetID": "9433p49",
       "Name": "Gold Digger",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 100,
       "UsersEstimate": 10
     },
@@ -296,7 +301,7 @@
       "ID": "RUNE_DROPEXTRAHEART",
       "SetID": "9433p49",
       "Name": "First time, yes?",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 55,
       "UsersEstimate": 47
     },
@@ -304,7 +309,7 @@
       "ID": "RUNE_DROPFIRSTAIDKIT",
       "SetID": "9433p49",
       "Name": "Witch\u0027s duty",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 55,
       "UsersEstimate": 53
     },
@@ -320,7 +325,7 @@
       "ID": "RUNE_LIGHTNINGSTUN",
       "SetID": "9433p49",
       "Name": "Skilled rider",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 75,
       "UsersEstimate": 43
     },
@@ -328,7 +333,7 @@
       "ID": "RUNE_OVERSTAMINA",
       "SetID": "9433p49",
       "Name": "A small victory",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 75,
       "UsersEstimate": 16
     },
@@ -336,7 +341,7 @@
       "ID": "RUNE_STORM",
       "SetID": "9433p49",
       "Name": "Path of purity",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 55,
       "UsersEstimate": 71
     },
@@ -344,7 +349,7 @@
       "ID": "RUNE_STUNHIT",
       "SetID": "9433p49",
       "Name": "Kind heart",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 40,
       "UsersEstimate": 41
     }
@@ -353,7 +358,7 @@
     {
       "ID": "9433p49",
       "IsBase": true,
-      "Progressed": 86,
+      "Progressed": 87,
       "Completed": 0
     }
   ],
@@ -361,8 +366,8 @@
   "FirstSeenRating": "2023-04-21T21:58:16.6767727+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.939072+00:00",
   "LastChanged": "2023-04-21T21:58:16.6767728+00:00",
-  "LastChanged_Achievements": "2023-07-09T08:07:51.5729372+00:00",
+  "LastChanged_Achievements": "2023-07-09T09:06:17.7223301+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:19:57.6857611+00:00",
-  "LastUpdate_Ratings": "2023-07-09T07:58:10.2316406+00:00",
-  "LastUpdate_Achievements": "2023-07-09T08:07:51.5729598+00:00"
+  "LastUpdate_Ratings": "2023-07-09T08:57:47.4088361+00:00",
+  "LastUpdate_Achievements": "2023-07-09T09:06:17.7223436+00:00"
 }

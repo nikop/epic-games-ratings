@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 145,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 33226,
+  "EOS_Progressed": 33227,
   "EOS_Completed": 103,
-  "EOS_NewPlayers": 301,
+  "EOS_NewPlayers": 299,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -7363,6 +7363,11 @@
       "Time": "2023-07-09T06:03:38.4758019+00:00",
       "NumProgressed": 33226,
       "NumCompleted": 103
+    },
+    {
+      "Time": "2023-07-09T09:04:09.0042109+00:00",
+      "NumProgressed": 33227,
+      "NumCompleted": 103
     }
   ],
   "TotalAchievements": 14,
@@ -7454,7 +7459,7 @@
       "Name": "Hare Today",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 8306
+      "UsersEstimate": 8307
     },
     {
       "ID": "firstItem",
@@ -7462,7 +7467,7 @@
       "Name": "Two Worlds",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 25916
+      "UsersEstimate": 25917
     },
     {
       "ID": "roots",
@@ -7470,7 +7475,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 5648
+      "UsersEstimate": 5649
     },
     {
       "ID": "secretItem",
@@ -7485,15 +7490,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 33226,
+      "Progressed": 33227,
       "Completed": 103
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-06-14T02:10:18.2883541+00:00",
-  "LastChanged_Achievements": "2023-07-09T08:04:43.6499232+00:00",
+  "LastChanged_Achievements": "2023-07-09T09:04:09.0042103+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:44.7737855+00:00",
-  "LastUpdate_Ratings": "2023-07-09T08:01:54.8661011+00:00",
-  "LastUpdate_Achievements": "2023-07-09T08:04:43.6499909+00:00"
+  "LastUpdate_Ratings": "2023-07-09T09:00:20.7633179+00:00",
+  "LastUpdate_Achievements": "2023-07-09T09:04:09.0042772+00:00"
 }

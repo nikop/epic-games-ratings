@@ -1324,10 +1324,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 2152,
       "NumberOfAwardsMax": 240
+    },
+    {
+      "Time": "2023-07-09T08:59:08.2443805+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 2153,
+      "NumberOfAwardsMax": 240
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2152,
+  "NumberOfAwards": 2153,
   "NumberOfAwardsMax": 240,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1395,7 +1401,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 222
+      "Count": 223
     },
     {
       "Text": "This game has Playful Visuals",
@@ -1404,7 +1410,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 24111,
+  "EOS_Progressed": 24112,
   "EOS_Completed": 46,
   "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 0,
@@ -7529,6 +7535,11 @@
       "Time": "2023-07-09T07:03:24.6412467+00:00",
       "NumProgressed": 24111,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-07-09T09:03:47.1583016+00:00",
+      "NumProgressed": 24112,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 51,
@@ -7540,7 +7551,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 17601
+      "UsersEstimate": 17602
     },
     {
       "ID": "Animated",
@@ -7652,7 +7663,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 15431
+      "UsersEstimate": 15432
     },
     {
       "ID": "Escape_Artist",
@@ -7684,7 +7695,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 7233
+      "UsersEstimate": 7234
     },
     {
       "ID": "Ghost_Expert",
@@ -7700,7 +7711,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 7233
+      "UsersEstimate": 7234
     },
     {
       "ID": "Legions",
@@ -7844,7 +7855,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 20735
+      "UsersEstimate": 20736
     },
     {
       "ID": "Summoner",
@@ -7924,7 +7935,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 11573
+      "UsersEstimate": 11574
     },
     {
       "ID": "Welcome_Crew",
@@ -7947,16 +7958,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 24111,
+      "Progressed": 24112,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-07-07T02:23:18.5029705+00:00",
-  "LastChanged_Achievements": "2023-07-09T08:04:11.4804909+00:00",
+  "LastChanged": "2023-07-09T08:59:08.2443803+00:00",
+  "LastChanged_Achievements": "2023-07-09T09:03:47.1583009+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:03.6661628+00:00",
-  "LastUpdate_Ratings": "2023-07-09T08:00:12.0052142+00:00",
-  "LastUpdate_Achievements": "2023-07-09T08:04:11.4806407+00:00"
+  "LastUpdate_Ratings": "2023-07-09T08:59:08.244381+00:00",
+  "LastUpdate_Achievements": "2023-07-09T09:03:47.1583915+00:00"
 }

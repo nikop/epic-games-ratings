@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 108,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6767,
+  "EOS_Progressed": 6768,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -2543,6 +2543,11 @@
       "Time": "2023-07-09T02:35:19.5385182+00:00",
       "NumProgressed": 6767,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-07-09T09:03:08.6535909+00:00",
+      "NumProgressed": 6768,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 27,
@@ -2562,7 +2567,7 @@
       "Name": "Daylight Found",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1759
+      "UsersEstimate": 1760
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -2570,7 +2575,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2774
+      "UsersEstimate": 2775
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -2594,7 +2599,7 @@
       "Name": "Harp Tuned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1556
+      "UsersEstimate": 1557
     },
     {
       "ID": "AK_HOPES_HOISTED",
@@ -2634,7 +2639,7 @@
       "Name": "Knowledge Shared",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1353
+      "UsersEstimate": 1354
     },
     {
       "ID": "AK_LEARNED_SCHOLAR",
@@ -2658,7 +2663,7 @@
       "Name": "A Peaceful Respite",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 947
+      "UsersEstimate": 948
     },
     {
       "ID": "AK_PROPHECY_FULFILLED",
@@ -2674,7 +2679,7 @@
       "Name": "Pyre Ignited",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1556
+      "UsersEstimate": 1557
     },
     {
       "ID": "AK_RELIC_FINDER",
@@ -2682,7 +2687,7 @@
       "Name": "Relic Finder",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1353
+      "UsersEstimate": 1354
     },
     {
       "ID": "AK_SEEKERS_FOUND",
@@ -2690,7 +2695,7 @@
       "Name": "Seekers Found",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2774
+      "UsersEstimate": 2775
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -2698,7 +2703,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2774
+      "UsersEstimate": 2775
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -2730,7 +2735,7 @@
       "Name": "Travelers Returned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1556
+      "UsersEstimate": 1557
     },
     {
       "ID": "AK_TRUE_CHALLENGE",
@@ -2769,15 +2774,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6767,
+      "Progressed": 6768,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-07-09T08:03:03.2792458+00:00",
+  "LastChanged_Achievements": "2023-07-09T09:03:08.65359+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:45.5061234+00:00",
-  "LastUpdate_Ratings": "2023-07-09T07:58:02.9836651+00:00",
-  "LastUpdate_Achievements": "2023-07-09T08:03:03.2792892+00:00"
+  "LastUpdate_Ratings": "2023-07-09T08:57:40.6277631+00:00",
+  "LastUpdate_Achievements": "2023-07-09T09:03:08.6536266+00:00"
 }

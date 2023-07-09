@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -151,9 +151,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1296,
+  "EOS_Progressed": 1297,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1036,6 +1036,11 @@
       "Time": "2023-07-09T05:04:52.5777238+00:00",
       "NumProgressed": 1296,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-09T09:04:26.3472079+00:00",
+      "NumProgressed": 1297,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 56,
@@ -1135,7 +1140,7 @@
       "Name": "Completing the Look",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "achievement_kill1000Cultists",
@@ -1189,9 +1194,9 @@
       "ID": "achievement_kill100Monsters",
       "SetID": "95dc8p",
       "Name": "Who\u0027s Counting?",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 156
     },
     {
       "ID": "achievement_kill3EnemiesWithPoisonInOneTurn",
@@ -1287,7 +1292,7 @@
       "Name": "War Endured",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "completedStory_legacy",
@@ -1494,15 +1499,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1296,
+      "Progressed": 1297,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-07-08T20:01:41.3411794+00:00",
-  "LastChanged_Achievements": "2023-07-09T08:05:09.1300894+00:00",
+  "LastChanged_Achievements": "2023-07-09T09:04:26.3472072+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:13.8802543+00:00",
-  "LastUpdate_Ratings": "2023-07-09T08:02:23.6425951+00:00",
-  "LastUpdate_Achievements": "2023-07-09T08:05:09.1301667+00:00"
+  "LastUpdate_Ratings": "2023-07-09T09:00:40.8752033+00:00",
+  "LastUpdate_Achievements": "2023-07-09T09:04:26.3472619+00:00"
 }

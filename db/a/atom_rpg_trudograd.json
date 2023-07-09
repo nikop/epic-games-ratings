@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 488,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -1065,9 +1065,9 @@
       "ID": "SHADOW_OVER_TRUDOGRAD",
       "SetID": "62d2oh4",
       "Name": "Shadow over Trudograd",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 45
     },
     {
       "ID": "SICK_FREAK",
@@ -1130,8 +1130,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-06-25T17:57:26.6963345+00:00",
-  "LastChanged_Achievements": "2023-07-09T08:07:54.3742003+00:00",
+  "LastChanged_Achievements": "2023-07-09T09:06:19.8786409+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:34.703459+00:00",
-  "LastUpdate_Ratings": "2023-07-09T07:57:52.7358888+00:00",
-  "LastUpdate_Achievements": "2023-07-09T08:07:54.3742557+00:00"
+  "LastUpdate_Ratings": "2023-07-09T08:57:33.7228809+00:00",
+  "LastUpdate_Achievements": "2023-07-09T09:06:19.878669+00:00"
 }

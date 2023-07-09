@@ -4,7 +4,7 @@
   "ProductSlug": "far-cry-6",
   "Ranking_Rating": 622,
   "Ranking_Popularity": 155,
-  "Ranking_PopularitySum": 119,
+  "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 313,
@@ -5264,10 +5264,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 5959,
       "NumberOfAwardsMax": 763
+    },
+    {
+      "Time": "2023-07-09T08:59:30.0361961+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 5963,
+      "NumberOfAwardsMax": 763
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5959,
+  "NumberOfAwards": 5963,
   "NumberOfAwardsMax": 763,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5281,7 +5287,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 711
+      "Count": 715
     },
     {
       "Text": "This game is Great for Beginners",
@@ -5337,8 +5343,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:07.3905482+00:00",
-  "LastChanged": "2023-07-09T00:00:09.7253408+00:00",
+  "LastChanged": "2023-07-09T08:59:30.0361958+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:40.5349198+00:00",
-  "LastUpdate_Ratings": "2023-07-09T08:00:47.2024648+00:00",
-  "LastUpdate_Achievements": "2023-07-09T08:07:08.7207724+00:00"
+  "LastUpdate_Ratings": "2023-07-09T08:59:30.0361969+00:00",
+  "LastUpdate_Achievements": "2023-07-09T09:05:48.081807+00:00"
 }

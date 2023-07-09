@@ -35,11 +35,11 @@ Rating: 4.18 (Ranked 854)
 | Seeking Asylum | 2.00% | ~1,335 |
 | Gotham Knight | 2.00% | ~1,335 |
 | Gotham City Confidential | 2.00% | ~1,335 |
-| Fusion Expert | 1.00% | ~667 |
-| Out of Their League | 1.00% | ~667 |
-| Family Meeting | 1.00% | ~667 |
-| Drone You Out | 1.00% | ~667 |
-| Solid Alibi | 1.00% | ~667 |
+| Fusion Expert | 1.00% | ~668 |
+| Out of Their League | 1.00% | ~668 |
+| Family Meeting | 1.00% | ~668 |
+| Drone You Out | 1.00% | ~668 |
+| Solid Alibi | 1.00% | ~668 |
 | A Worthy Successor | 0.90% | ~601 |
 | Expert Crime Fighter | 0.80% | ~534 |
 | Dressed to Impress | 0.70% | ~467 |
@@ -52,11 +52,11 @@ Rating: 4.18 (Ranked 854)
 | Element of Surprise | 0.20% | ~74 |
 | Crime Is a Terrible Thing to Waste | 0.20% | ~74 |
 | The Cold, the Bad and the Ugly | 0.20% | ~74 |
-| Talonted | 0.20% | ~133 |
-| The Man-Bat Family | 0.20% | ~133 |
+| Talonted | 0.20% | ~134 |
+| The Man-Bat Family | 0.20% | ~134 |
 | Icebreaker | 0.20% | ~74 |
-| Batarang Collector | 0.20% | ~133 |
-| Claiming the Mural High Ground | 0.20% | ~133 |
+| Batarang Collector | 0.20% | ~134 |
+| Claiming the Mural High Ground | 0.20% | ~134 |
 | A Sophisticated Mallet | 0.20% | ~74 |
 | It's Nice to Be Wanted | 0.10% | ~37 |
 | Gotham's Greatest Depths | 0.10% | ~37 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 854)
 | History Major | 0.10% | ~67 |
 | Confronting Your Demon | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,746 (Ranked 74)  
+Progressed: 66,750 (Ranked 74)  
 Completed: 101 (0.15%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 101 (0.15%) (Ranked 172)
 | 2023-07-06 | 66,572 | 100 |
 | 2023-07-07 | 66,641 | 101 |
 | 2023-07-08 | 66,718 | 101 |
-| 2023-07-09 | 66,746 | 101 |
+| 2023-07-09 | 66,750 | 101 |
 ## Awards
 Max (Great Boss Battles): 2,425  (Ranked 100)  
 Sum: 4,015 (Ranked 137)  

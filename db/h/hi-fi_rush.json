@@ -4162,9 +4162,9 @@
       "ID": "Ach003",
       "SetID": "12n4k20",
       "Name": "This will cost you big time",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 21
     },
     {
       "ID": "Ach004",
@@ -4729,8 +4729,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-09T08:02:41.513921+00:00",
+  "LastChanged_Achievements": "2023-07-09T09:00:54.152081+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:24.9104218+00:00",
-  "LastUpdate_Ratings": "2023-07-09T07:59:34.9334308+00:00",
-  "LastUpdate_Achievements": "2023-07-09T08:02:41.5140996+00:00"
+  "LastUpdate_Ratings": "2023-07-09T08:58:42.2061086+00:00",
+  "LastUpdate_Achievements": "2023-07-09T09:00:54.1522089+00:00"
 }

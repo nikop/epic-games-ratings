@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,066 |
-| That's a Grand Army | 8.00% | ~5,392 |
-| That is mine! | 8.00% | ~5,392 |
-| Victorious! | 8.00% | ~5,392 |
-| Brothers in Arms | 6.00% | ~4,044 |
-| That's a Grand Navy | 6.00% | ~4,044 |
-| Seriously?! | 6.00% | ~4,044 |
-| For the Glory | 5.00% | ~3,370 |
-| Cold War | 4.00% | ~2,696 |
-| True Catholic | 4.00% | ~2,696 |
+| Until death do us apart | 9.00% | ~6,067 |
+| That's a Grand Army | 8.00% | ~5,393 |
+| That is mine! | 8.00% | ~5,393 |
+| Victorious! | 8.00% | ~5,393 |
+| Brothers in Arms | 6.00% | ~4,045 |
+| That's a Grand Navy | 6.00% | ~4,045 |
+| Seriously?! | 6.00% | ~4,045 |
+| For the Glory | 5.00% | ~3,371 |
+| Cold War | 4.00% | ~2,697 |
+| True Catholic | 4.00% | ~2,697 |
 | Defender of the Faith | 3.00% | ~2,022 |
 | It's all about the money | 3.00% | ~2,022 |
 | Respected | 3.00% | ~2,022 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,397 (Ranked 73)  
+Progressed: 67,414 (Ranked 73)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -441,10 +441,10 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-06 | 66,326 | 0 |
 | 2023-07-07 | 66,739 | 0 |
 | 2023-07-08 | 67,273 | 0 |
-| 2023-07-09 | 67,397 | 0 |
+| 2023-07-09 | 67,414 | 0 |
 ## Awards
 Max (Educational): 5,522  (Ranked 60)  
-Sum: 45,558 (Ranked 27)  
+Sum: 45,563 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -453,7 +453,7 @@ Diff (max vs sum): 33
 | This game has Challenging Combat | 5,244 |
 | This game is Extremely Fun | 5,233 |
 | This game has Diverse Characters | 5,200 |
-| This game is Relaxing | 5,113 |
+| This game is Relaxing | 5,118 |
 | This game has Competitive Players | 4,954 |
 | This game has Amazing Storytelling | 4,677 |
 | This game has Amazing Characters | 4,323 |
@@ -634,4 +634,4 @@ Diff (max vs sum): 33
 | 2023-07-06 | 4.69 | - | 5,511 | 45,478 |
 | 2023-07-07 | 4.69 | - | 5,515 | 45,515 |
 | 2023-07-08 | 4.69 | - | 5,522 | 45,550 |
-| 2023-07-09 | 4.69 | - | 5,522 | 45,558 |
+| 2023-07-09 | 4.69 | - | 5,522 | 45,563 |

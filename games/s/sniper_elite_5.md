@@ -33,9 +33,9 @@ Rating: 4.45 (Ranked 622)
 | Precision Is Key | 0.80% | ~26 |
 | My Little Friend | 0.80% | ~26 |
 | Enemy at the Gates | 0.70% | ~23 |
+| Just a Flesh Wound | 0.70% | ~23 |
 | Tinkerer | 0.70% | ~23 |
 | Fields of Glory | 0.60% | ~19 |
-| Just a Flesh Wound | 0.60% | ~19 |
 | The Long Game | 0.60% | ~19 |
 | Die Nussknacker Sweet! | 0.60% | ~19 |
 | Rigged to Blow | 0.50% | ~16 |

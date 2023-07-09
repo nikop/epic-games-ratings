@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Terror Rising | 66.00% | ~43 |
-| Jalopy Poppy | 65.00% | ~42 |
-| Green-Bodied Monster | 55.00% | ~36 |
+| Terror Rising | 68.00% | ~44 |
+| Jalopy Poppy | 66.00% | ~43 |
+| Green-Bodied Monster | 57.00% | ~37 |
 | Chopper Stopper | 46.00% | ~30 |
 | Aerosolized | 40.00% | ~26 |
 | Test of Faith | 35.00% | ~23 |

@@ -33,6 +33,7 @@ Number of Ratings: 87  (23.09.2022)
 | Beginner | 3.00% | ~23 |
 | Jewelry accuracy | 3.00% | ~23 |
 | Overseer | 3.00% | ~23 |
+| Relocation | 3.00% | ~23 |
 | Star Sapphire | 3.00% | ~3 |
 | Without a lunch break | 3.00% | ~23 |
 | At the last moment! | 2.00% | ~15 |
@@ -46,7 +47,6 @@ Number of Ratings: 87  (23.09.2022)
 | Lucky vandal | 2.00% | ~15 |
 | Missed it! | 2.00% | ~15 |
 | Prick of conscience | 2.00% | ~15 |
-| Relocation | 2.00% | ~15 |
 | Sabotage | 2.00% | ~15 |
 | Squander | 2.00% | ~15 |
 | Stargazer | 2.00% | ~15 |

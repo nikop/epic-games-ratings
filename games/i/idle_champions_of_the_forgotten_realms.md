@@ -6,16 +6,16 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,349 |
-| The Mad Wizard | 11.00% | ~22,990 |
-| The Ring of Regeneration | 7.00% | ~14,630 |
-| Are Ya Chicken? | 7.00% | ~14,630 |
-| Were-verpowered | 6.00% | ~12,540 |
-| Seeking Allies | 5.00% | ~10,450 |
-| Mad Cow Disease | 5.00% | ~10,450 |
-| Friendly Imps | 5.00% | ~10,450 |
-| A Persistent Buzzing | 4.00% | ~8,360 |
-| Pure Energy | 4.00% | ~8,360 |
+| The Cursed Farmer | 15.00% | ~31,352 |
+| The Mad Wizard | 11.00% | ~22,992 |
+| The Ring of Regeneration | 7.00% | ~14,631 |
+| Are Ya Chicken? | 7.00% | ~14,631 |
+| Were-verpowered | 6.00% | ~12,541 |
+| Seeking Allies | 5.00% | ~10,451 |
+| Mad Cow Disease | 5.00% | ~10,451 |
+| Friendly Imps | 5.00% | ~10,451 |
+| A Persistent Buzzing | 4.00% | ~8,361 |
+| Pure Energy | 4.00% | ~8,361 |
 | Beast Mode | 3.00% | ~6,270 |
 | Terror in the Dark | 3.00% | ~6,270 |
 | Unearthed Evil | 3.00% | ~6,270 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208,996 (Ranked 52)  
+Progressed: 209,014 (Ranked 52)  
 Completed: 2,041 (0.98%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -590,7 +590,7 @@ Completed: 2,041 (0.98%) (Ranked 102)
 | 2023-07-06 | 207,486 | 2,035 |
 | 2023-07-07 | 208,152 | 2,037 |
 | 2023-07-08 | 208,782 | 2,041 |
-| 2023-07-09 | 208,996 | 2,041 |
+| 2023-07-09 | 209,014 | 2,041 |
 ## Awards
 Max (Diverse Characters): 5,016  (Ranked 65)  
 Sum: 30,454 (Ranked 37)  

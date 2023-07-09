@@ -9,7 +9,7 @@ Rating: 4.41 (Ranked 673)
 | Snatched Out | 73.00% | ~2,005 |
 | Keep 'Em Coming | 71.00% | ~1,950 |
 | Cleaning Lethe, One Nest At A Time | 63.00% | ~1,730 |
-| Call Me Snake | 57.00% | ~1,565 |
+| Call Me Snake | 58.00% | ~1,593 |
 | Something Lurks Under The Hills | 56.00% | ~1,538 |
 | This Was No Papercut | 55.00% | ~1,510 |
 | The Shrink Hates Me | 51.00% | ~1,400 |
@@ -29,7 +29,7 @@ Rating: 4.41 (Ranked 673)
 | Stuff Of Nightmares | 17.00% | ~467 |
 | Come on, You Wanna Live Forever? | 16.00% | ~439 |
 | Deep Into Insanity | 16.00% | ~439 |
-| The Passenger | 15.00% | ~412 |
+| The Passenger | 16.00% | ~439 |
 | El Riesgo Siempre Vive | 14.00% | ~384 |
 | One For Every Occasion | 12.00% | ~330 |
 | Frontliner | 12.00% | ~330 |
@@ -37,7 +37,7 @@ Rating: 4.41 (Ranked 673)
 | Bandage Lover | 11.00% | ~302 |
 | The Cable Guy | 11.00% | ~302 |
 | Excavating The Truth | 10.00% | ~275 |
-| Abysmal Horrors | 9.00% | ~247 |
+| Abysmal Horrors | 10.00% | ~275 |
 | Heavy Steps | 8.00% | ~220 |
 | Regicide | 7.00% | ~192 |
 | Flawless Victory | 6.00% | ~165 |
@@ -48,7 +48,7 @@ Rating: 4.41 (Ranked 673)
 | Fair And Square | 0.90% | ~25 |
 | Archivist | 0.60% | ~16 |
 | Chalk It Up To Experience | 0.40% | ~11 |
-| Perfect Organism | 0.20% | ~5 |
+| Perfect Organism | 0.30% | ~8 |
 | This Ain't No Picnic | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,746 (Ranked 154)  

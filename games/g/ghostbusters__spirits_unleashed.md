@@ -5,15 +5,15 @@ Rating: 4.49 (Ranked 573)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~20,735 |
-| Advancement | 73.00% | ~17,601 |
-| Meticulously Efficient | 64.00% | ~15,431 |
+| Stylish | 86.00% | ~20,736 |
+| Advancement | 73.00% | ~17,602 |
+| Meticulously Efficient | 64.00% | ~15,432 |
 | Discovery | 61.00% | ~14,708 |
 | Fully Upgraded | 54.00% | ~13,020 |
 | Swift Rift Removers | 54.00% | ~13,020 |
 | Cultured | 52.00% | ~12,538 |
 | I collect Spores, Molds, and Fungi | 51.00% | ~12,297 |
-| Vaporous Expansion | 48.00% | ~11,573 |
+| Vaporous Expansion | 48.00% | ~11,574 |
 | Teamwork | 44.00% | ~10,609 |
 | There you are! | 43.00% | ~10,368 |
 | Clutch Capture | 41.00% | ~9,886 |
@@ -21,8 +21,8 @@ Rating: 4.49 (Ranked 573)
 | Daily Dose | 34.00% | ~8,198 |
 | Solo Capture | 32.00% | ~7,716 |
 | Welcome to the Crew | 32.00% | ~7,716 |
-| Ghostbuster In Training | 30.00% | ~7,233 |
-| Icing on the Cake | 30.00% | ~7,233 |
+| Ghostbuster In Training | 30.00% | ~7,234 |
+| Icing on the Cake | 30.00% | ~7,234 |
 | We have the best insurance | 27.00% | ~6,510 |
 | Side Hustle | 27.00% | ~6,510 |
 | Summoner | 27.00% | ~6,510 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 573)
 | Mycophile | 1.00% | ~241 |
 | I don't need these | 0.90% | ~217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,111 (Ranked 97)  
+Progressed: 24,112 (Ranked 97)  
 Completed: 46 (0.19%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,16 +137,16 @@ Completed: 46 (0.19%) (Ranked 165)
 | 2023-07-06 | 24,061 | 46 |
 | 2023-07-07 | 24,081 | 46 |
 | 2023-07-08 | 24,104 | 46 |
-| 2023-07-09 | 24,111 | 46 |
+| 2023-07-09 | 24,112 | 46 |
 ## Awards
 Max (Great for Quick Sessions): 240  (Ranked 249)  
-Sum: 2,152 (Ranked 189)  
+Sum: 2,153 (Ranked 189)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 240 |
 | This game is Great for Beginners | 228 |
-| This game has Competitive Players | 222 |
+| This game has Competitive Players | 223 |
 | This game has Diverse Characters | 217 |
 | This game has Amazing Storytelling | 216 |
 | This game is Extremely Fun | 211 |
@@ -266,3 +266,4 @@ Diff (max vs sum): 60
 | 2023-07-05 | 4.49 | 240 | 2,150 |
 | 2023-07-06 | 4.49 | 240 | 2,151 |
 | 2023-07-07 | 4.49 | 240 | 2,152 |
+| 2023-07-09 | 4.49 | 240 | 2,153 |

@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Mighty Powers | 64.00% | ~9 |
+| Pup Pup Boogie | 57.00% | ~8 |
 | Summer Day | 57.00% | ~8 |
+| Risky Rescue | 57.00% | ~8 |
 | Grand Re-Opening | 50.00% | ~7 |
-| Pup Pup Boogie | 50.00% | ~7 |
-| Risky Rescue | 50.00% | ~7 |
+| Carlos Is Tangled | 50.00% | ~7 |
 | Paw patrol member | 43.00% | ~6 |
-| Carlos Is Tangled | 43.00% | ~6 |
 | Robot Out of Control | 43.00% | ~6 |
 | Mr. Porter | 36.00% | ~5 |
 | Animal Sighting | 36.00% | ~5 |

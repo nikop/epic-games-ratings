@@ -27,8 +27,8 @@ Number of Ratings: 743  (23.09.2022)
 | Cranial blowout! | 36.00% | ~15,484 |
 | Zombie killin' machine | 36.00% | ~15,484 |
 | Every bullet counts | 36.00% | ~15,484 |
+| All roads lead to Rome | 34.00% | ~14,623 |
 | You've got red on you | 34.00% | ~14,623 |
-| All roads lead to Rome | 33.00% | ~14,193 |
 | You're all going to die down here | 32.00% | ~13,763 |
 | He did Nazi that coming | 31.00% | ~13,333 |
 | Kill of the week | 31.00% | ~13,333 |

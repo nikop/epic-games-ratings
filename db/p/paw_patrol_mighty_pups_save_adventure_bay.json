@@ -155,9 +155,9 @@
       "ID": "14",
       "SetID": "38ide56",
       "Name": "Pup Pup Boogie",
-      "Percentage": 50,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "15",
@@ -291,17 +291,17 @@
       "ID": "3",
       "SetID": "38ide56",
       "Name": "Risky Rescue",
-      "Percentage": 50,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "4",
       "SetID": "38ide56",
       "Name": "Carlos Is Tangled",
-      "Percentage": 43,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "5",
@@ -356,8 +356,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-07-09T08:03:34.5955153+00:00",
+  "LastChanged_Achievements": "2023-07-09T09:03:31.1812316+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:35.9946564+00:00",
-  "LastUpdate_Ratings": "2023-07-09T08:00:42.7008562+00:00",
-  "LastUpdate_Achievements": "2023-07-09T08:03:34.5955523+00:00"
+  "LastUpdate_Ratings": "2023-07-09T08:59:27.3155657+00:00",
+  "LastUpdate_Achievements": "2023-07-09T09:03:31.1812548+00:00"
 }
