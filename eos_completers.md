@@ -19,7 +19,7 @@
 | 17 | [Remains](games/r/remains.md) | 11.90% |
 | 18 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.71% |
-| 20 | [Sonic Origins](games/s/sonic_origins.md) | 10.69% |
+| 20 | [Sonic Origins](games/s/sonic_origins.md) | 10.65% |
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.26% |
 | 22 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.00% |
 | 23 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.56% |
@@ -66,7 +66,7 @@
 | 64 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 65 | [Lamentum](games/l/lamentum.md) | 2.67% |
 | 66 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
-| 67 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.58% |
+| 67 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.57% |
 | 68 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 69 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
 | 70 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.40% |

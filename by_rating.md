@@ -103,7 +103,7 @@
 | 100 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,440 | 36 |
 | 100 | [Journey](games/j/journey.md) | 4.78 | 0 | 504 |
 | 100 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 732 | 159 |
-| 100 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,344 | 101 |
+| 100 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,347 | 101 |
 | 100 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 919 | 148 |
 | 100 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 504 |
 | 107 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 3,581 | 81 |
@@ -900,7 +900,7 @@
 | 896 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 0 | 504 |
 | 899 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 181 | 278 |
 | 900 | [Tharsis](games/t/tharsis.md) | 4.06 | 0 | 504 |
-| 901 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 5,013 | 65 |
+| 901 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 5,016 | 65 |
 | 901 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 452 | 200 |
 | 901 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.05 | 0 | 504 |
 | 904 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.04 | 0 | 504 |
@@ -911,9 +911,9 @@
 | 909 | [Lake](games/l/lake.md) | 4.03 | 0 | 504 |
 | 909 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.03 | 0 | 504 |
 | 909 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 0 | 504 |
+| 912 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.01 | 0 | 504 |
 | 912 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.01 | 0 | 504 |
-| 913 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.00 | 0 | 504 |
-| 913 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 0 | 504 |
+| 914 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 0 | 504 |
 | 915 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 372 | 216 |
 | 915 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,650 | 69 |
 | 917 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 504 |

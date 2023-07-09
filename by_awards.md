@@ -64,7 +64,7 @@
 | 62 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,427 | 4.75 | 134 |
 | 63 | [Rogue Company](games/r/rogue_company.md) | 5,114 | 4.34 | 745 |
 | 64 | [Dead Island 2](games/d/dead_island_2.md) | 5,086 | 4.54 | 490 |
-| 65 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,013 | 4.05 | 901 |
+| 65 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,016 | 4.05 | 901 |
 | 66 | [Cities: Skylines](games/c/cities__skylines.md) | 4,894 | 4.65 | 298 |
 | 67 | [MultiVersus](games/m/multiversus.md) | 4,745 | 4.56 | 455 |
 | 68 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4,723 | 4.57 | 439 |
@@ -100,7 +100,7 @@
 | 98 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,439 | 4.10 | 886 |
 | 99 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,427 | 4.79 | 87 |
 | 100 | [Gotham Knights](games/g/gotham_knights.md) | 2,425 | 4.18 | 854 |
-| 101 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,344 | 4.78 | 100 |
+| 101 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,347 | 4.78 | 100 |
 | 102 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2,275 | 4.67 | 258 |
 | 103 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,234 | 4.67 | 258 |
 | 104 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,185 | 4.41 | 673 |
