@@ -6,18 +6,18 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~66,157 |
-| Powergamer | 27.00% | ~63,794 |
-| Barely scratched the surface | 25.00% | ~59,068 |
-| Write that down | 24.00% | ~56,706 |
+| I will finish what you started | 28.00% | ~66,158 |
+| Powergamer | 27.00% | ~63,795 |
+| Barely scratched the surface | 25.00% | ~59,070 |
+| Write that down | 24.00% | ~56,707 |
 | Guns, lots of guns | 12.00% | ~28,353 |
-| Collector | 11.00% | ~25,990 |
+| Collector | 11.00% | ~25,991 |
 | Elementary! | 9.00% | ~21,265 |
 | Pumpkin Jack | 8.00% | ~18,902 |
 | Wake up! | 8.00% | ~18,902 |
 | It's honest work | 7.00% | ~16,539 |
 | Griever | 7.00% | ~16,539 |
-| Me smart | 6.00% | ~14,176 |
+| Me smart | 6.00% | ~14,177 |
 | Good listener | 5.00% | ~11,814 |
 | Trash compactor | 5.00% | ~11,814 |
 | Valedictorian | 5.00% | ~11,814 |
@@ -26,14 +26,14 @@ Number of Ratings: 33  (23.09.2022)
 | So you like to read? | 4.00% | ~9,451 |
 | I like to sniff around | 3.00% | ~7,088 |
 | Mind reader | 3.00% | ~7,088 |
-| Gentleman's classic | 2.00% | ~4,725 |
-| Hoarder | 2.00% | ~4,725 |
-| Is that a rift? | 2.00% | ~4,725 |
-| It's alive! | 2.00% | ~4,725 |
-| Enjoy the beach | 2.00% | ~4,725 |
-| Rinse and repeat | 2.00% | ~4,725 |
-| Mama, I'm a criminal | 2.00% | ~4,725 |
-| Never gonna give you up | 2.00% | ~4,725 |
+| Gentleman's classic | 2.00% | ~4,726 |
+| Hoarder | 2.00% | ~4,726 |
+| Is that a rift? | 2.00% | ~4,726 |
+| It's alive! | 2.00% | ~4,726 |
+| Enjoy the beach | 2.00% | ~4,726 |
+| Rinse and repeat | 2.00% | ~4,726 |
+| Mama, I'm a criminal | 2.00% | ~4,726 |
+| Never gonna give you up | 2.00% | ~4,726 |
 | A muscle to rely on | 1.00% | ~2,363 |
 | Catnip | 1.00% | ~2,363 |
 | I am in great pain, please help me | 1.00% | ~2,363 |
@@ -42,7 +42,7 @@ Number of Ratings: 33  (23.09.2022)
 | SysOp on duty | 1.00% | ~2,363 |
 | Take the blue pill | 1.00% | ~2,363 |
 | The power of three | 1.00% | ~2,363 |
-| A true blacksmith | 0.90% | ~2,126 |
+| A true blacksmith | 0.90% | ~2,127 |
 | Let's try another | 0.80% | ~1,890 |
 | Home run | 0.80% | ~1,890 |
 | I have the high ground | 0.70% | ~1,654 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~473 |
 | Memory 5 | 0.10% | ~236 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,274 (Ranked 45)  
+Progressed: 236,278 (Ranked 45)  
 Completed: 7 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,6 +139,7 @@ Completed: 7 (0.00%) (Ranked 237)
 | 2023-07-06 | 235,928 | 7 |
 | 2023-07-07 | 236,094 | 7 |
 | 2023-07-08 | 236,274 | 7 |
+| 2023-07-09 | 236,278 | 7 |
 ## Awards
 Max (Character Customization): 74  (Ranked 362)  
 Sum: 74 (Ranked 424)  

@@ -45,17 +45,17 @@ Rating: 4.45 (Ranked 622)
 | From Paris with Love | 0.40% | ~13 |
 | Burn after reading | 0.40% | ~13 |
 | Souvenir hunter | 0.40% | ~13 |
+| Eagle Eyed | 0.40% | ~13 |
 | It'll Buff Right Out | 0.40% | ~13 |
 | Road Rage | 0.40% | ~13 |
 | Operation Foxley | 0.40% | ~13 |
 | Siegebreaker | 0.40% | ~13 |
 | Ghost of Falaise | 0.40% | ~13 |
-| Eagle Eyed | 0.30% | ~10 |
+| Shipbreaker | 0.40% | ~13 |
+| Sink or Swim | 0.40% | ~13 |
 | Last Resort | 0.30% | ~10 |
 | If You Go Down To The Woods Today | 0.30% | ~10 |
 | Fight Another Day | 0.30% | ~10 |
-| Shipbreaker | 0.30% | ~10 |
-| Sink or Swim | 0.30% | ~10 |
 | Best of the Best | 0.20% | ~6 |
 | Master of Secondaries | 0.20% | ~6 |
 | Master of Rifles | 0.20% | ~6 |

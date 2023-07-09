@@ -4,7 +4,7 @@
   "ProductSlug": "fuga-melodies-of-steel",
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-07-29T01:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:24.4417138+00:00",
   "LastChanged": "2023-03-31T05:57:24.4417139+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:21.0460412+00:00",
-  "LastUpdate_Ratings": "2023-07-08T22:57:28.0385303+00:00",
-  "LastUpdate_Achievements": "2023-07-08T23:03:16.7786028+00:00"
+  "LastUpdate_Ratings": "2023-07-08T23:57:29.0934866+00:00",
+  "LastUpdate_Achievements": "2023-07-09T00:02:27.7906412+00:00"
 }

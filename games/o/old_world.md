@@ -53,8 +53,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egyptian Paganism | 35.00% | ~4,439 |
 | Brilliant | 34.00% | ~4,313 |
 | Drillmaster | 32.00% | ~4,059 |
+| Colossus | 32.00% | ~4,059 |
 | Learn to Play 1 | 32.00% | ~4,059 |
-| Colossus | 31.00% | ~3,932 |
 | Legendary Cities | 30.00% | ~3,805 |
 | Artisans | 30.00% | ~3,805 |
 | Furious Family | 30.00% | ~3,805 |

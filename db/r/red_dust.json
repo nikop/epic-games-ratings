@@ -4,7 +4,7 @@
   "ProductSlug": "red-dust-5e7397",
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-02-14T14:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:58:07.399799+00:00",
   "LastChanged": "2023-03-31T05:58:07.3997991+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:44.3230963+00:00",
-  "LastUpdate_Ratings": "2023-07-08T22:59:52.8996325+00:00",
-  "LastUpdate_Achievements": "2023-07-08T23:04:13.5274944+00:00"
+  "LastUpdate_Ratings": "2023-07-08T23:59:24.3925074+00:00",
+  "LastUpdate_Achievements": "2023-07-09T00:03:46.5080005+00:00"
 }

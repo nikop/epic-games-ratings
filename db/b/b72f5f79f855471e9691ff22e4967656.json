@@ -4,7 +4,7 @@
   "ProductSlug": "quest-hunter-96b20d",
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
@@ -198,17 +198,17 @@
       "ID": "interactChest10",
       "SetID": "ci65fo0",
       "Name": "Chests lover",
-      "Percentage": 56,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "killBoxes50",
       "SetID": "ci65fo0",
       "Name": "Loot collector",
-      "Percentage": 69,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "killElk50",
@@ -254,9 +254,9 @@
       "ID": "killGolem1",
       "SetID": "ci65fo0",
       "Name": "The First Golem",
-      "Percentage": 69,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "killGolem10",
@@ -318,9 +318,9 @@
       "ID": "killStone50",
       "SetID": "ci65fo0",
       "Name": "Stone Crusher",
-      "Percentage": 69,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "killStone500",
@@ -715,8 +715,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-07-08T23:05:01.6475818+00:00",
+  "LastChanged_Achievements": "2023-07-09T00:04:47.9726299+00:00",
   "LastUpdate_AppInfo": "2023-07-05T09:56:55.4527488+00:00",
-  "LastUpdate_Ratings": "2023-07-08T22:57:04.1747683+00:00",
-  "LastUpdate_Achievements": "2023-07-08T23:05:01.6476433+00:00"
+  "LastUpdate_Ratings": "2023-07-08T23:57:12.4201624+00:00",
+  "LastUpdate_Achievements": "2023-07-09T00:04:47.9726932+00:00"
 }

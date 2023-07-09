@@ -12,33 +12,33 @@ Rating: 4.87 (Ranked 25)
 | Who's the boss now? | 0.60% | ~21 |
 | I play my own way! | 0.60% | ~21 |
 | Whoa! There's ANOTHER health bar!? | 0.60% | ~21 |
+| Z-shielding's got nothing on us! | 0.60% | ~21 |
 | Out in a puff of smoke | 0.60% | ~21 |
+| Who put gears in there? | 0.60% | ~21 |
 | This will cost you big time | 0.50% | ~17 |
+| Headliner | 0.50% | ~17 |
 | Thanks for the free chip, Peppermint! | 0.50% | ~17 |
 | You got this, Peppermint? | 0.50% | ~17 |
-| Z-shielding's got nothing on us! | 0.50% | ~17 |
 | Uh, they were broken when I got here | 0.50% | ~17 |
 | Kissing the sky! | 0.50% | ~17 |
-| Who put gears in there? | 0.50% | ~17 |
 | Start with a bang! | 0.40% | ~14 |
-| Headliner | 0.40% | ~14 |
 | Well that was a rush! | 0.40% | ~14 |
 | I have to read these things? | 0.40% | ~14 |
 | Feeling the beat! | 0.40% | ~14 |
 | You must like calling me in, Chai | 0.40% | ~14 |
 | Perfect Parry | 0.40% | ~14 |
+| Perfecter Parry-er! | 0.40% | ~14 |
 | That's a lot of junk metal… | 0.40% | ~14 |
+| I look cool. But I can look COOLER. | 0.40% | ~14 |
 | Alright, that felt AWESOME! | 0.40% | ~14 |
 | You can pet the cat! | 0.40% | ~14 |
 | Call me Turbo Chai | 0.40% | ~8 |
-| Perfecter Parry-er! | 0.30% | ~10 |
-| I look cool. But I can look COOLER. | 0.30% | ~10 |
 | There's such a thing as TOO helpful | 0.30% | ~10 |
+| Does that say weakpoint? | 0.30% | ~10 |
 | New bad guys? No problem! | 0.30% | ~6 |
 | Beat-hit mania | 0.20% | ~7 |
 | I think I found your calling, Macaron | 0.20% | ~7 |
 | This is a breeze! | 0.20% | ~7 |
-| Does that say weakpoint? | 0.20% | ~7 |
 | Check out my moves! | 0.20% | ~7 |
 | Easy Listening | 0.10% | ~3 |
 | I think I deserve some praise, here! | 0.10% | ~3 |

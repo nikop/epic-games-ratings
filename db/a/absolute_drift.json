@@ -2,7 +2,7 @@
   "ID": "9d2f484bbec64aa8ad234b3199dcaf1c",
   "Name": "Absolute Drift",
   "ProductSlug": "absolute-drift",
-  "Ranking_Rating": 688,
+  "Ranking_Rating": 689,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 6,
@@ -436,9 +436,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1528236,
+  "EOS_Progressed": 1528243,
   "EOS_Completed": 643,
-  "EOS_NewPlayers": 1353,
+  "EOS_NewPlayers": 1354,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8971,6 +8971,11 @@
       "Time": "2023-07-08T23:06:19.9080842+00:00",
       "NumProgressed": 1528236,
       "NumCompleted": 643
+    },
+    {
+      "Time": "2023-07-09T00:05:55.4223381+00:00",
+      "NumProgressed": 1528243,
+      "NumCompleted": 643
     }
   ],
   "TotalAchievements": 20,
@@ -9030,7 +9035,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 137541
+      "UsersEstimate": 137542
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -9094,7 +9099,7 @@
       "Name": "Multiplier Master",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 137541
+      "UsersEstimate": 137542
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -9141,15 +9146,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1528236,
+      "Progressed": 1528243,
       "Completed": 643
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-07-03T17:01:00.6084184+00:00",
-  "LastChanged_Achievements": "2023-07-08T23:06:19.9080838+00:00",
+  "LastChanged_Achievements": "2023-07-09T00:05:55.4223376+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:28.0260923+00:00",
-  "LastUpdate_Ratings": "2023-07-08T23:01:48.8081972+00:00",
-  "LastUpdate_Achievements": "2023-07-08T23:06:19.9081348+00:00"
+  "LastUpdate_Ratings": "2023-07-09T00:00:57.0626639+00:00",
+  "LastUpdate_Achievements": "2023-07-09T00:05:55.4223861+00:00"
 }

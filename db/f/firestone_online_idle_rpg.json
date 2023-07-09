@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1591,
+  "EOS_Progressed": 1592,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3933,6 +3933,11 @@
       "Time": "2023-07-08T20:07:08.6418316+00:00",
       "NumProgressed": 1591,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-09T00:07:13.4540997+00:00",
+      "NumProgressed": 1592,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -4080,7 +4085,7 @@
       "Name": "Enchanting skill",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "enchantingskillx5",
@@ -4120,7 +4125,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "fellowshippower",
@@ -4128,7 +4133,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "fourleafclover",
@@ -4174,9 +4179,9 @@
       "ID": "guildpower",
       "SetID": "3nl4bcg",
       "Name": "Guild Power",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 398
+      "UsersEstimate": 382
     },
     {
       "ID": "herewegoagain",
@@ -4200,7 +4205,7 @@
       "Name": "How Do You Turn This On?",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "hunter",
@@ -4336,7 +4341,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "prestigiousx10",
@@ -4416,7 +4421,7 @@
       "Name": "The Expeditioner",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "thefatherofdragons",
@@ -4504,7 +4509,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1480
+      "UsersEstimate": 1481
     },
     {
       "ID": "warmachinesarmy",
@@ -4520,7 +4525,7 @@
       "Name": "Weekly Quest Completionist",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "whatliesbehindthebush",
@@ -4536,14 +4541,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1257
+      "UsersEstimate": 1258
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1591,
+      "Progressed": 1592,
       "Completed": 1
     }
   ],
@@ -4551,8 +4556,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-07-06T11:58:21.6174539+00:00",
-  "LastChanged_Achievements": "2023-07-08T23:08:04.0159118+00:00",
+  "LastChanged_Achievements": "2023-07-09T00:07:13.4540991+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:35.1051404+00:00",
-  "LastUpdate_Ratings": "2023-07-08T22:58:45.9347526+00:00",
-  "LastUpdate_Achievements": "2023-07-08T23:08:04.0159975+00:00"
+  "LastUpdate_Ratings": "2023-07-08T23:58:27.6490528+00:00",
+  "LastUpdate_Achievements": "2023-07-09T00:07:13.4541773+00:00"
 }

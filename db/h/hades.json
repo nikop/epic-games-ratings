@@ -3661,9 +3661,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 697918,
+  "EOS_Progressed": 697919,
   "EOS_Completed": 6220,
-  "EOS_NewPlayers": 632,
+  "EOS_NewPlayers": 624,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.89,
   "EosHistory": [
@@ -11996,6 +11996,11 @@
       "Time": "2023-07-08T23:05:57.5609587+00:00",
       "NumProgressed": 697918,
       "NumCompleted": 6220
+    },
+    {
+      "Time": "2023-07-09T00:05:36.3318349+00:00",
+      "NumProgressed": 697919,
+      "NumCompleted": 6220
     }
   ],
   "TotalAchievements": 49,
@@ -12063,7 +12068,7 @@
       "Name": "Is There No Escape?",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 362917
+      "UsersEstimate": 362918
     },
     {
       "ID": "AchClearAsphodel",
@@ -12071,7 +12076,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 558334
+      "UsersEstimate": 558335
     },
     {
       "ID": "AchClearElysium",
@@ -12079,7 +12084,7 @@
       "Name": "Escaped Elysium",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 460626
+      "UsersEstimate": 460627
     },
     {
       "ID": "AchClearElysiumEM",
@@ -12111,7 +12116,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 621147
+      "UsersEstimate": 621148
     },
     {
       "ID": "AchCrushedThanatos",
@@ -12119,7 +12124,7 @@
       "Name": "Death Dealer",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 314063
+      "UsersEstimate": 314064
     },
     {
       "ID": "AchEliteAttributeKills",
@@ -12159,7 +12164,7 @@
       "Name": "Something From Everyone",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 132604
+      "UsersEstimate": 132605
     },
     {
       "ID": "AchFoundSummon",
@@ -12175,7 +12180,7 @@
       "Name": "Friends in High Places",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 474584
+      "UsersEstimate": 474585
     },
     {
       "ID": "AchGreaterCallSpurned",
@@ -12223,7 +12228,7 @@
       "Name": "Blood Bound",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 244271
+      "UsersEstimate": 244272
     },
     {
       "ID": "AchMeetChthonicGods",
@@ -12231,7 +12236,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 439688
+      "UsersEstimate": 439689
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -12255,7 +12260,7 @@
       "Name": "Divided by Death",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 55833
+      "UsersEstimate": 55834
     },
     {
       "ID": "AchNyxChaosReunion",
@@ -12279,7 +12284,7 @@
       "Name": "Urge to Sing",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 251250
+      "UsersEstimate": 251251
     },
     {
       "ID": "AchPactUpgradesClears",
@@ -12383,7 +12388,7 @@
       "Name": "Well Stocked",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 279167
+      "UsersEstimate": 279168
     },
     {
       "ID": "ActUnlockedAllAspects",
@@ -12398,15 +12403,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 697918,
+      "Progressed": 697919,
       "Completed": 6220
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2023-07-08T15:58:12.042532+00:00",
-  "LastChanged_Achievements": "2023-07-08T23:05:57.5609583+00:00",
+  "LastChanged_Achievements": "2023-07-09T00:05:36.3318345+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:12.4709429+00:00",
-  "LastUpdate_Ratings": "2023-07-08T22:58:24.810945+00:00",
-  "LastUpdate_Achievements": "2023-07-08T23:05:57.5610295+00:00"
+  "LastUpdate_Ratings": "2023-07-08T23:58:11.3141821+00:00",
+  "LastUpdate_Achievements": "2023-07-09T00:05:36.3319058+00:00"
 }

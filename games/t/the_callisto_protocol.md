@@ -6,6 +6,7 @@ Rating: 4.19 (Ranked 844)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Get a Grip | 3.00% | ~470 |
+| Flesh Wound | 2.00% | ~313 |
 | Two Heads Are Better Than One | 2.00% | ~313 |
 | Float Like A Butterfly | 2.00% | ~313 |
 | Paper Jams | 2.00% | ~313 |
@@ -13,7 +14,6 @@ Rating: 4.19 (Ranked 844)
 | It's Time | 2.00% | ~72 |
 | Giving Back | 1.00% | ~157 |
 | You Need a Gun | 1.00% | ~157 |
-| Flesh Wound | 1.00% | ~157 |
 | I Do Belong Here | 1.00% | ~157 |
 | Chew 'Em Up | 1.00% | ~157 |
 | Terminated | 1.00% | ~157 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 844)
 | I am the Danger | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,667 (Ranked 108)  
+Progressed: 15,668 (Ranked 108)  
 Completed: 64 (0.41%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,6 +132,7 @@ Completed: 64 (0.41%) (Ranked 135)
 | 2023-07-06 | 15,653 | 64 |
 | 2023-07-07 | 15,660 | 64 |
 | 2023-07-08 | 15,667 | 64 |
+| 2023-07-09 | 15,668 | 64 |
 ## Awards
 Max (Highly Recommended): 65  (Ranked 379)  
 Sum: 376 (Ranked 318)  

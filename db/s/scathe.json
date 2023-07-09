@@ -2,7 +2,7 @@
   "ID": "8dcfcaf1aa72402fa2e84897f6cccc50",
   "Name": "Scathe",
   "ProductSlug": "scathe-ca258f",
-  "Ranking_EOS_Progress": 283,
+  "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 90,
@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 149,
+  "EOS_Progressed": 150,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
@@ -653,6 +653,11 @@
       "Time": "2023-07-08T20:04:14.5484092+00:00",
       "NumProgressed": 149,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-09T00:04:26.8450093+00:00",
+      "NumProgressed": 150,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -688,7 +693,7 @@
       "Name": "Bloodstorm",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_CASTLE_OF_THE_WOLF",
@@ -824,7 +829,7 @@
       "Name": "Serious Bam",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_SHOCKING_BIO",
@@ -903,7 +908,7 @@
     {
       "ID": "2ff85j2",
       "IsBase": true,
-      "Progressed": 149,
+      "Progressed": 150,
       "Completed": 0
     }
   ],
@@ -911,8 +916,8 @@
   "FirstSeenRating": "2023-04-24T10:58:16.802842+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.6712735+00:00",
   "LastChanged": "2023-04-24T10:58:16.8028421+00:00",
-  "LastChanged_Achievements": "2023-07-08T23:04:36.9542988+00:00",
+  "LastChanged_Achievements": "2023-07-09T00:04:26.8450089+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:19:56.4425875+00:00",
-  "LastUpdate_Ratings": "2023-07-08T22:58:04.2037615+00:00",
-  "LastUpdate_Achievements": "2023-07-08T23:04:36.954318+00:00"
+  "LastUpdate_Ratings": "2023-07-08T23:57:55.914548+00:00",
+  "LastUpdate_Achievements": "2023-07-09T00:04:26.8450575+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "are-you-smarter-than-a-5th-grader-bc328a",
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-08-23T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 294,
+  "EOS_Progressed": 295,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -177,6 +177,11 @@
       "Time": "2023-07-08T12:03:04.0900777+00:00",
       "NumProgressed": 294,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-09T00:02:04.5117703+00:00",
+      "NumProgressed": 295,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 19,
@@ -220,7 +225,7 @@
       "Name": "Exam Time",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "FifthGrade",
@@ -236,7 +241,7 @@
       "Name": "1st Grade",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "FourthGrade",
@@ -266,9 +271,9 @@
       "ID": "InTheHonorRoll",
       "SetID": "6l18k14",
       "Name": "In The Honor Roll",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 75,
-      "UsersEstimate": 29
+      "UsersEstimate": 27
     },
     {
       "ID": "Librarian",
@@ -339,7 +344,7 @@
     {
       "ID": "6l18k14",
       "IsBase": true,
-      "Progressed": 294,
+      "Progressed": 295,
       "Completed": 0
     }
   ],
@@ -347,8 +352,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.561977+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.3990521+00:00",
   "LastChanged": "2023-03-31T05:58:18.5619771+00:00",
-  "LastChanged_Achievements": "2023-07-08T23:02:49.8356657+00:00",
+  "LastChanged_Achievements": "2023-07-09T00:02:04.5117699+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:33.8112123+00:00",
-  "LastUpdate_Ratings": "2023-07-08T23:01:54.6786999+00:00",
-  "LastUpdate_Achievements": "2023-07-08T23:02:49.8356819+00:00"
+  "LastUpdate_Ratings": "2023-07-09T00:01:02.3100547+00:00",
+  "LastUpdate_Achievements": "2023-07-09T00:02:04.5117854+00:00"
 }

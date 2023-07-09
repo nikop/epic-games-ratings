@@ -7,10 +7,10 @@ Number of Ratings: 836  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 71.00% | ~5,116 |
-| Leader | 61.00% | ~4,395 |
+| Leader | 61.00% | ~4,396 |
 | Explorer | 53.00% | ~3,819 |
 | Healer | 52.00% | ~3,747 |
-| Aspiring Inventor | 44.00% | ~3,170 |
+| Aspiring Inventor | 44.00% | ~3,171 |
 | Adventurer | 41.00% | ~2,954 |
 | Famous Healer | 38.00% | ~2,738 |
 | Local Leader | 35.00% | ~2,522 |
@@ -20,11 +20,11 @@ Number of Ratings: 836  (23.09.2022)
 | The Long Haul | 33.00% | ~2,378 |
 | Survivor | 32.00% | ~2,306 |
 | The Great Healer | 31.00% | ~2,234 |
-| Cleaner | 28.00% | ~2,017 |
-| Catastrofan | 28.00% | ~2,017 |
-| Legendary Explorer | 27.00% | ~1,945 |
-| Finders, Keepers | 26.00% | ~1,873 |
-| Top Notch | 25.00% | ~1,801 |
+| Cleaner | 28.00% | ~2,018 |
+| Catastrofan | 28.00% | ~2,018 |
+| Legendary Explorer | 27.00% | ~1,946 |
+| Finders, Keepers | 26.00% | ~1,874 |
+| Top Notch | 25.00% | ~1,802 |
 | Ice Lakes | 23.00% | ~1,657 |
 | Mentor | 23.00% | ~1,657 |
 | Great Leader | 22.00% | ~1,585 |
@@ -40,8 +40,8 @@ Number of Ratings: 836  (23.09.2022)
 | Famous Adventurer | 13.00% | ~937 |
 | Prepared for Anything | 13.00% | ~937 |
 | Big Catastrofan | 12.00% | ~865 |
-| It's a Finnish Thing | 10.00% | ~720 |
-| Sky Burial | 9.00% | ~648 |
+| It's a Finnish Thing | 10.00% | ~721 |
+| Sky Burial | 9.00% | ~649 |
 | Trader | 8.00% | ~576 |
 | Bread and Circuses | 8.00% | ~576 |
 | New Eden | 7.00% | ~504 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~14 |
 | Customized calamities | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,205 (Ranked 124)  
+Progressed: 7,206 (Ranked 124)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,6 +146,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-06 | 7,145 | 0 |
 | 2023-07-07 | 7,171 | 0 |
 | 2023-07-08 | 7,205 | 0 |
+| 2023-07-09 | 7,206 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 330)  
 Sum: 675 (Ranked 272)  

@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57062,
+  "EOS_Progressed": 57064,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 427,
+  "EOS_NewPlayers": 428,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7372,6 +7372,11 @@
       "Time": "2023-07-08T23:04:25.0854366+00:00",
       "NumProgressed": 57062,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-09T00:04:16.4978209+00:00",
+      "NumProgressed": 57064,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7383,7 +7388,7 @@
       "Name": "Follow the Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 19401
+      "UsersEstimate": 19402
     },
     {
       "ID": "02",
@@ -7399,7 +7404,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11412
+      "UsersEstimate": 11413
     },
     {
       "ID": "04",
@@ -7407,7 +7412,7 @@
       "Name": "Boob Tube",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2282
+      "UsersEstimate": 2283
     },
     {
       "ID": "05",
@@ -7415,7 +7420,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10271
+      "UsersEstimate": 10272
     },
     {
       "ID": "06",
@@ -7423,7 +7428,7 @@
       "Name": "Park Ranger",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 8559
+      "UsersEstimate": 8560
     },
     {
       "ID": "07",
@@ -7447,7 +7452,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6847
+      "UsersEstimate": 6848
     },
     {
       "ID": "10",
@@ -7463,7 +7468,7 @@
       "Name": "Children of the Elder God",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2282
+      "UsersEstimate": 2283
     },
     {
       "ID": "12",
@@ -7535,7 +7540,7 @@
       "Name": "If It Flies, It Burns",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2282
+      "UsersEstimate": 2283
     },
     {
       "ID": "21",
@@ -7543,7 +7548,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6847
+      "UsersEstimate": 6848
     },
     {
       "ID": "22",
@@ -7607,7 +7612,7 @@
       "Name": "Sound and Fury",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6847
+      "UsersEstimate": 6848
     },
     {
       "ID": "30",
@@ -7631,7 +7636,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14836
+      "UsersEstimate": 14837
     },
     {
       "ID": "33",
@@ -7639,7 +7644,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6847
+      "UsersEstimate": 6848
     },
     {
       "ID": "34",
@@ -7719,7 +7724,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8559
+      "UsersEstimate": 8560
     },
     {
       "ID": "44",
@@ -7759,7 +7764,7 @@
       "Name": "KBF-FM",
       "Percentage": 4,
       "XP": 110,
-      "UsersEstimate": 2282
+      "UsersEstimate": 2283
     },
     {
       "ID": "49",
@@ -7783,7 +7788,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1642
+      "UsersEstimate": 1643
     },
     {
       "ID": "52",
@@ -7847,7 +7852,7 @@
       "Name": "Ding!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1026
+      "UsersEstimate": 1027
     },
     {
       "ID": "60",
@@ -7918,21 +7923,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57062,
+      "Progressed": 57064,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20530,
+      "Progressed": 20532,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-08T23:04:25.0854359+00:00",
+  "LastChanged_Achievements": "2023-07-09T00:04:16.4978205+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:08.3646753+00:00",
-  "LastUpdate_Ratings": "2023-07-08T22:58:16.8528259+00:00",
-  "LastUpdate_Achievements": "2023-07-08T23:04:25.0855369+00:00"
+  "LastUpdate_Ratings": "2023-07-08T23:58:07.6773507+00:00",
+  "LastUpdate_Achievements": "2023-07-09T00:04:16.4979066+00:00"
 }

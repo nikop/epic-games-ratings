@@ -382,7 +382,7 @@
   "Tags": [],
   "EOS_Progressed": 3234,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -5115,9 +5115,9 @@
       "ID": "REWARD_45_STONE_CARVING",
       "SetID": "bm6el81",
       "Name": "Eagle Eyed",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "REWARD_48_WORKBENCH_USER",
@@ -5363,17 +5363,17 @@
       "ID": "REWARD_DLC04_01_SHIPBREAKER",
       "SetID": "83mdf7p",
       "Name": "Shipbreaker",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "REWARD_DLC04_02_SINK_OR_SWIM",
       "SetID": "83mdf7p",
       "Name": "Sink or Swim",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "REWARD_DLC04_03_GOING_OVERBOARD",
@@ -5402,8 +5402,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-05T19:03:38.4770688+00:00",
-  "LastChanged_Achievements": "2023-07-08T23:03:20.4885842+00:00",
+  "LastChanged_Achievements": "2023-07-09T00:02:31.1468914+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:07.1687539+00:00",
-  "LastUpdate_Ratings": "2023-07-08T23:02:36.3445532+00:00",
-  "LastUpdate_Achievements": "2023-07-08T23:03:20.4886614+00:00"
+  "LastUpdate_Ratings": "2023-07-09T00:01:32.3305972+00:00",
+  "LastUpdate_Achievements": "2023-07-09T00:02:31.1469708+00:00"
 }

@@ -208,9 +208,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "8d3ci0",
       "Name": "Duck invasion",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -224,9 +224,9 @@
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "8d3ci0",
       "Name": "Ducks adrift",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -240,9 +240,9 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "8d3ci0",
       "Name": "High-rise",
-      "Percentage": 46,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -288,9 +288,9 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "8d3ci0",
       "Name": "Way to the shore",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -304,9 +304,9 @@
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "8d3ci0",
       "Name": "Abducktion",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 95,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -335,8 +335,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-08T23:05:25.9014165+00:00",
+  "LastChanged_Achievements": "2023-07-09T00:05:08.8987026+00:00",
   "LastUpdate_AppInfo": "2023-07-08T11:56:59.3518994+00:00",
-  "LastUpdate_Ratings": "2023-07-08T22:57:04.419806+00:00",
-  "LastUpdate_Achievements": "2023-07-08T23:05:25.9014283+00:00"
+  "LastUpdate_Ratings": "2023-07-08T23:57:12.6637844+00:00",
+  "LastUpdate_Achievements": "2023-07-09T00:05:08.8987118+00:00"
 }

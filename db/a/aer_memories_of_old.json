@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14736,
+  "EOS_Progressed": 14738,
   "EOS_Completed": 310,
-  "EOS_NewPlayers": 612,
+  "EOS_NewPlayers": 608,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -8644,6 +8644,11 @@
       "Time": "2023-07-08T23:03:39.8359344+00:00",
       "NumProgressed": 14736,
       "NumCompleted": 310
+    },
+    {
+      "Time": "2023-07-09T00:03:17.3642942+00:00",
+      "NumProgressed": 14738,
+      "NumCompleted": 310
     }
   ],
   "TotalAchievements": 20,
@@ -8655,7 +8660,7 @@
       "Name": "Cartographer",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 2652
+      "UsersEstimate": 2653
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -8671,7 +8676,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2210
+      "UsersEstimate": 2211
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -8687,7 +8692,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1768
+      "UsersEstimate": 1769
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -8711,7 +8716,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1768
+      "UsersEstimate": 1769
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -8719,7 +8724,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2210
+      "UsersEstimate": 2211
     },
     {
       "ID": "FOUND_ERIN",
@@ -8775,7 +8780,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 11199
+      "UsersEstimate": 11201
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -8783,7 +8788,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 4126
+      "UsersEstimate": 4127
     },
     {
       "ID": "NORTH_FINISHED",
@@ -8814,15 +8819,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 14736,
+      "Progressed": 14738,
       "Completed": 310
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-07-08T23:03:39.835934+00:00",
+  "LastChanged_Achievements": "2023-07-09T00:03:17.3642938+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:34.4370622+00:00",
-  "LastUpdate_Ratings": "2023-07-08T23:01:54.1056105+00:00",
-  "LastUpdate_Achievements": "2023-07-08T23:03:39.8359843+00:00"
+  "LastUpdate_Ratings": "2023-07-09T00:01:01.8653428+00:00",
+  "LastUpdate_Achievements": "2023-07-09T00:03:17.364344+00:00"
 }

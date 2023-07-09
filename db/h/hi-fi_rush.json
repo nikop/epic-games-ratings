@@ -4178,9 +4178,9 @@
       "ID": "Ach005",
       "SetID": "12n4k20",
       "Name": "Headliner",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "Ach006",
@@ -4354,9 +4354,9 @@
       "ID": "Ach027",
       "SetID": "12n4k20",
       "Name": "Z-shielding\u0027s got nothing on us!",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 21
     },
     {
       "ID": "Ach028",
@@ -4394,9 +4394,9 @@
       "ID": "Ach032",
       "SetID": "12n4k20",
       "Name": "Perfecter Parry-er!",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 14
     },
     {
       "ID": "Ach033",
@@ -4474,9 +4474,9 @@
       "ID": "Ach042",
       "SetID": "12n4k20",
       "Name": "I look cool. But I can look COOLER.",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 14
     },
     {
       "ID": "Ach043",
@@ -4514,9 +4514,9 @@
       "ID": "Ach047",
       "SetID": "12n4k20",
       "Name": "Who put gears in there?",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 21
     },
     {
       "ID": "Ach048",
@@ -4562,9 +4562,9 @@
       "ID": "Ach053",
       "SetID": "12n4k20",
       "Name": "Does that say weakpoint?",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "Ach054",
@@ -4729,8 +4729,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-08T23:02:45.4401701+00:00",
+  "LastChanged_Achievements": "2023-07-09T00:01:40.8983279+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:24.9104218+00:00",
-  "LastUpdate_Ratings": "2023-07-08T22:59:33.659275+00:00",
-  "LastUpdate_Achievements": "2023-07-08T23:02:45.4402875+00:00"
+  "LastUpdate_Ratings": "2023-07-08T23:59:07.2038288+00:00",
+  "LastUpdate_Achievements": "2023-07-09T00:01:40.8984197+00:00"
 }
