@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 26,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -2992,17 +2992,17 @@
       "ID": "7",
       "SetID": "d0g98p",
       "Name": "Fun Guy",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 644
+      "UsersEstimate": 654
     },
     {
       "ID": "8",
       "SetID": "d0g98p",
       "Name": "Tragic Brave",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 550
+      "UsersEstimate": 561
     },
     {
       "ID": "9",
@@ -3025,8 +3025,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-07-09T02:40:00.1202421+00:00",
+  "LastChanged_Achievements": "2023-07-09T03:31:37.3796344+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:44.4971469+00:00",
-  "LastUpdate_Ratings": "2023-07-09T02:30:39.6736403+00:00",
-  "LastUpdate_Achievements": "2023-07-09T02:40:00.1202915+00:00"
+  "LastUpdate_Ratings": "2023-07-09T03:23:02.025805+00:00",
+  "LastUpdate_Achievements": "2023-07-09T03:31:37.3796855+00:00"
 }

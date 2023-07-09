@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -370,9 +370,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6937,
+  "EOS_Progressed": 6939,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -5390,6 +5390,11 @@
       "Time": "2023-07-09T02:37:18.9811371+00:00",
       "NumProgressed": 6937,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-07-09T03:29:35.3854241+00:00",
+      "NumProgressed": 6939,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 29,
@@ -5401,7 +5406,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5758
+      "UsersEstimate": 5759
     },
     {
       "ID": "ACH02",
@@ -5409,7 +5414,7 @@
       "Name": "Without a Scratch",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 2289
+      "UsersEstimate": 2290
     },
     {
       "ID": "ACH03",
@@ -5473,7 +5478,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 1942
+      "UsersEstimate": 1943
     },
     {
       "ID": "ACH11",
@@ -5513,7 +5518,7 @@
       "Name": "Full Artillery",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "ACH16",
@@ -5521,7 +5526,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1734
+      "UsersEstimate": 1735
     },
     {
       "ID": "ACH17",
@@ -5537,7 +5542,7 @@
       "Name": "Not So Fast",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "ACH19",
@@ -5585,7 +5590,7 @@
       "Name": "Dirty Money",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 832
+      "UsersEstimate": 833
     },
     {
       "ID": "ACH25",
@@ -5617,7 +5622,7 @@
       "Name": "Is That All You\u0027ve Got?",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH29",
@@ -5632,7 +5637,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6937,
+      "Progressed": 6939,
       "Completed": 40
     }
   ],
@@ -5640,8 +5645,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-07-06T20:58:32.0541996+00:00",
-  "LastChanged_Achievements": "2023-07-09T02:37:18.9811365+00:00",
+  "LastChanged_Achievements": "2023-07-09T03:29:35.3854234+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:25.3422771+00:00",
-  "LastUpdate_Ratings": "2023-07-09T02:31:13.5052291+00:00",
-  "LastUpdate_Achievements": "2023-07-09T02:37:18.9811853+00:00"
+  "LastUpdate_Ratings": "2023-07-09T03:23:27.1868749+00:00",
+  "LastUpdate_Achievements": "2023-07-09T03:29:35.3854634+00:00"
 }

@@ -532,9 +532,9 @@
       "Count": 208
     }
   ],
-  "EOS_Progressed": 10986,
+  "EOS_Progressed": 10987,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -6302,6 +6302,11 @@
       "Time": "2023-07-08T23:07:53.0142375+00:00",
       "NumProgressed": 10986,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-07-09T03:31:41.4048486+00:00",
+      "NumProgressed": 10987,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 35,
@@ -6361,7 +6366,7 @@
       "Name": "The American Dream",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1977
+      "UsersEstimate": 1978
     },
     {
       "ID": "ACH08",
@@ -6369,7 +6374,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5493
+      "UsersEstimate": 5494
     },
     {
       "ID": "ACH09",
@@ -6592,7 +6597,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 10986,
+      "Progressed": 10987,
       "Completed": 26
     }
   ],
@@ -6600,8 +6605,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-08T02:24:21.2335521+00:00",
-  "LastChanged_Achievements": "2023-07-09T02:40:05.391114+00:00",
+  "LastChanged_Achievements": "2023-07-09T03:31:41.4048479+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:43.1834453+00:00",
-  "LastUpdate_Ratings": "2023-07-09T02:34:03.4244463+00:00",
-  "LastUpdate_Achievements": "2023-07-09T02:40:05.3911686+00:00"
+  "LastUpdate_Ratings": "2023-07-09T03:25:34.9530263+00:00",
+  "LastUpdate_Achievements": "2023-07-09T03:31:41.4048959+00:00"
 }

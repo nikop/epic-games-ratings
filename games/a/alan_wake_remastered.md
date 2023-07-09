@@ -7,7 +7,7 @@ Number of Ratings: 524  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Follow the Light | 34.00% | ~19,403 |
-| Let There Be Light | 27.00% | ~15,408 |
+| Let There Be Light | 27.00% | ~15,409 |
 | Float Like a Butterfly | 26.00% | ~14,838 |
 | Nordic Walking | 21.00% | ~11,984 |
 | Bright Falls' Finest | 20.00% | ~11,414 |
@@ -21,10 +21,10 @@ Number of Ratings: 524  (23.09.2022)
 | They're Heeeeeere! | 12.00% | ~6,848 |
 | Sound and Fury | 12.00% | ~6,848 |
 | Missed by a Mile | 12.00% | ~6,848 |
-| Iron Horse | 11.00% | ~6,277 |
-| The Six-Gun Scribe | 11.00% | ~6,277 |
-| Collateral Carnage | 11.00% | ~6,277 |
-| Come One, Come All | 11.00% | ~6,277 |
+| Iron Horse | 11.00% | ~6,278 |
+| The Six-Gun Scribe | 11.00% | ~6,278 |
+| Collateral Carnage | 11.00% | ~6,278 |
+| Come One, Come All | 11.00% | ~6,278 |
 | Heavy Metal | 10.00% | ~5,707 |
 | Perchance to Dream | 10.00% | ~5,707 |
 | Gatekeeper | 9.00% | ~5,136 |
@@ -33,7 +33,7 @@ Number of Ratings: 524  (23.09.2022)
 | Thunder and Lightning | 9.00% | ~5,136 |
 | Two For the Price of One | 9.00% | ~5,136 |
 | Energized! | 9.00% | ~5,136 |
-| Right of Way | 8.00% | ~4,565 |
+| Right of Way | 8.00% | ~4,566 |
 | A Friend in Need | 8.00% | ~1,643 |
 | What Light Through Yonder Window | 7.00% | ~3,995 |
 | Tornado Wrangler | 6.00% | ~3,424 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~57 |
 | No Punctuation | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,068 (Ranked 80)  
+Progressed: 57,069 (Ranked 80)  
 Completed: 57 (0.10%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 57 (0.10%) (Ranked 183)
 | 2023-07-06 | 56,931 | 57 |
 | 2023-07-07 | 56,982 | 57 |
 | 2023-07-08 | 57,062 | 57 |
-| 2023-07-09 | 57,068 | 57 |
+| 2023-07-09 | 57,069 | 57 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
