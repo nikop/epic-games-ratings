@@ -5,7 +5,7 @@ Rating: 4.77 (Ranked 107)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 11.00% | ~31,470 |
+| The Sort Who Makes an Entrance | 11.00% | ~31,471 |
 | First Class Student | 10.00% | ~28,610 |
 | Troll with the Punches | 10.00% | ~28,610 |
 | A Keen Sense of Spell | 9.00% | ~25,749 |
@@ -48,10 +48,10 @@ Rating: 4.77 (Ranked 107)
 | A Forte for Achievement | 1.00% | ~2,861 |
 | Merlin's Beard! | 0.80% | ~2,289 |
 | Spilled Milk | 0.70% | ~2,003 |
-| The Nature of the Beast | 0.50% | ~1,430 |
+| The Nature of the Beast | 0.50% | ~1,431 |
 | Collector's Edition | 0.20% | ~572 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 286,095 (Ranked 41)  
+Progressed: 286,104 (Ranked 41)  
 Completed: 419 (0.15%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 419 (0.15%) (Ranked 172)
 | 2023-07-06 | 285,367 | 418 |
 | 2023-07-07 | 285,655 | 419 |
 | 2023-07-08 | 285,994 | 419 |
-| 2023-07-09 | 286,095 | 419 |
+| 2023-07-09 | 286,104 | 419 |
 ## Awards
 Max (Character Customization): 20,791  (Ranked 17)  
 Sum: 38,792 (Ranked 30)  

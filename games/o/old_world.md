@@ -7,31 +7,31 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Play a Single Player Game | 84.00% | ~10,660 |
-| Settler | 81.00% | ~10,279 |
-| Explorer | 79.00% | ~10,025 |
+| Settler | 81.00% | ~10,280 |
+| Explorer | 79.00% | ~10,026 |
 | Friendly Family | 75.00% | ~9,518 |
-| Intrepid | 69.00% | ~8,756 |
-| Architect | 61.00% | ~7,741 |
-| Mason | 61.00% | ~7,741 |
-| Able | 60.00% | ~7,614 |
-| Strong | 59.00% | ~7,487 |
-| Hanging Gardens | 59.00% | ~7,487 |
-| Noble | 57.00% | ~7,233 |
-| Oracle | 57.00% | ~7,233 |
+| Intrepid | 69.00% | ~8,757 |
+| Architect | 61.00% | ~7,742 |
+| Mason | 61.00% | ~7,742 |
+| Able | 60.00% | ~7,615 |
+| Strong | 59.00% | ~7,488 |
+| Hanging Gardens | 59.00% | ~7,488 |
+| Noble | 57.00% | ~7,234 |
+| Oracle | 57.00% | ~7,234 |
 | Good | 55.00% | ~6,980 |
 | Just | 54.00% | ~6,853 |
 | Keystone | 54.00% | ~6,853 |
 | Judaism | 54.00% | ~6,853 |
 | Glorious | 51.00% | ~6,472 |
 | Trade Caravan | 51.00% | ~6,472 |
-| Learned | 49.00% | ~6,218 |
-| Naming Landmarks | 49.00% | ~6,218 |
-| Pioneer | 48.00% | ~6,091 |
-| Zoroastrianism | 48.00% | ~6,091 |
-| Fountainhead | 47.00% | ~5,964 |
-| Developing Cities | 47.00% | ~5,964 |
-| Magnificent | 45.00% | ~5,710 |
-| Pyramids | 45.00% | ~5,710 |
+| Learned | 49.00% | ~6,219 |
+| Naming Landmarks | 49.00% | ~6,219 |
+| Pioneer | 48.00% | ~6,092 |
+| Zoroastrianism | 48.00% | ~6,092 |
+| Fountainhead | 47.00% | ~5,965 |
+| Developing Cities | 47.00% | ~5,965 |
+| Magnificent | 45.00% | ~5,711 |
+| Pyramids | 45.00% | ~5,711 |
 | Warrior | 44.00% | ~5,584 |
 | Strong Cities | 44.00% | ~5,584 |
 | Ishtar Gate | 44.00% | ~5,584 |
@@ -43,10 +43,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Christianity | 40.00% | ~5,076 |
 | Great | 39.00% | ~4,949 |
 | Lighthouse | 39.00% | ~4,949 |
-| Ambitious | 38.00% | ~4,822 |
-| Able Difficulty | 38.00% | ~4,822 |
-| Carthaginian Paganism | 37.00% | ~4,695 |
-| Necropolis | 36.00% | ~4,568 |
+| Ambitious | 38.00% | ~4,823 |
+| Able Difficulty | 38.00% | ~4,823 |
+| Carthaginian Paganism | 37.00% | ~4,696 |
+| Necropolis | 36.00% | ~4,569 |
 | Apadana | 35.00% | ~4,442 |
 | Musaeum | 35.00% | ~4,442 |
 | Manichaeism | 35.00% | ~4,442 |
@@ -63,9 +63,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Wise | 29.00% | ~3,680 |
 | Just Difficulty | 29.00% | ~3,680 |
 | Mausoleum | 28.00% | ~3,553 |
-| Intercessor | 26.00% | ~3,299 |
-| Valiant | 26.00% | ~3,299 |
-| Sages | 25.00% | ~3,172 |
+| Intercessor | 26.00% | ~3,300 |
+| Valiant | 26.00% | ~3,300 |
+| Sages | 25.00% | ~3,173 |
 | Hanging Gardens in Babylon | 24.00% | ~3,046 |
 | Learn to Play 2 | 24.00% | ~3,046 |
 | Persian Paganism | 24.00% | ~3,046 |
@@ -103,12 +103,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Redemption | 17.00% | ~2,157 |
 | Phalangite | 17.00% | ~2,157 |
 | Double Victory | 17.00% | ~2,157 |
-| Beloved | 16.00% | ~2,030 |
-| Lion | 16.00% | ~2,030 |
-| Strong Difficulty | 16.00% | ~2,030 |
-| Gnosticism | 16.00% | ~2,030 |
-| Veneration | 16.00% | ~2,030 |
-| Kushite Cavalry | 16.00% | ~2,030 |
+| Beloved | 16.00% | ~2,031 |
+| Lion | 16.00% | ~2,031 |
+| Strong Difficulty | 16.00% | ~2,031 |
+| Gnosticism | 16.00% | ~2,031 |
+| Veneration | 16.00% | ~2,031 |
+| Kushite Cavalry | 16.00% | ~2,031 |
 | Bad Heir Day | 15.00% | ~1,904 |
 | Capable | 15.00% | ~1,904 |
 | Invincible | 15.00% | ~1,904 |
@@ -152,13 +152,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon of Gods | 6.00% | ~761 |
 | Conquest Victory | 6.00% | ~761 |
 | Necropolis in Waset | 6.00% | ~761 |
-| Cleopatra's Love | 5.00% | ~634 |
-| Old | 5.00% | ~634 |
-| Great Difficulty | 5.00% | ~634 |
-| Event Level High | 5.00% | ~634 |
-| Run, Pheidippides, Run! | 5.00% | ~634 |
-| Hatti | 5.00% | ~634 |
-| Apadana in Parsa | 5.00% | ~634 |
+| Cleopatra's Love | 5.00% | ~635 |
+| Old | 5.00% | ~635 |
+| Great Difficulty | 5.00% | ~635 |
+| Event Level High | 5.00% | ~635 |
+| Run, Pheidippides, Run! | 5.00% | ~635 |
+| Hatti | 5.00% | ~635 |
+| Apadana in Parsa | 5.00% | ~635 |
 | Carthage - Riches and Influence | 4.00% | ~508 |
 | Five Routs | 4.00% | ~508 |
 | Nenikekamen | 4.00% | ~508 |
@@ -292,7 +292,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.10% | ~13 |
 | Win a Play-By-Cloud Game | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,690 (Ranked 112)  
+Progressed: 12,691 (Ranked 112)  
 Completed: 5 (0.04%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -372,7 +372,7 @@ Completed: 5 (0.04%) (Ranked 207)
 | 2023-07-06 | 12,624 | 5 |
 | 2023-07-07 | 12,653 | 5 |
 | 2023-07-08 | 12,684 | 5 |
-| 2023-07-09 | 12,690 | 5 |
+| 2023-07-09 | 12,691 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 255)  
 Sum: 1,776 (Ranked 204)  

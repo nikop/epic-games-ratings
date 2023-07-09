@@ -39,6 +39,7 @@ Rating: 4.87 (Ranked 25)
 | Beat-hit mania | 0.20% | ~7 |
 | I think I found your calling, Macaron | 0.20% | ~7 |
 | This is a breeze! | 0.20% | ~7 |
+| Wanna hear my playlist? | 0.20% | ~7 |
 | Check out my moves! | 0.20% | ~7 |
 | Easy Listening | 0.10% | ~3 |
 | I think I deserve some praise, here! | 0.10% | ~3 |
@@ -52,7 +53,6 @@ Rating: 4.87 (Ranked 25)
 | Now this is how you fight like a team! | 0.10% | ~3 |
 | This was... not what I expected. | 0.10% | ~3 |
 | I hit things with a guitar really well. | 0.10% | ~3 |
-| Wanna hear my playlist? | 0.10% | ~3 |
 | I told you I'd be fine, Peppermint! | 0.10% | ~3 |
 | I saw all those hits coming a measure away! | 0.10% | ~3 |
 | Choose your own adventure | 0.10% | ~2 |

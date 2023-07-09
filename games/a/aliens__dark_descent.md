@@ -13,7 +13,7 @@ Rating: 4.41 (Ranked 673)
 | Something Lurks Under The Hills | 56.00% | ~1,538 |
 | This Was No Papercut | 55.00% | ~1,510 |
 | The Shrink Hates Me | 51.00% | ~1,400 |
-| People Person | 49.00% | ~1,346 |
+| People Person | 50.00% | ~1,373 |
 | Use The Bumper, That's What It's For | 48.00% | ~1,318 |
 | First Steps Into Madness | 46.00% | ~1,263 |
 | Colonial Barrels | 45.00% | ~1,236 |

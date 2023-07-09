@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-2-1b9bb1",
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 1,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -174,9 +174,9 @@
       "ID": "Les",
       "SetID": "823jm6g",
       "Name": "Woods",
-      "Percentage": 92,
+      "Percentage": 100,
       "XP": 80,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Majak",
@@ -190,17 +190,17 @@
       "ID": "Nora",
       "SetID": "823jm6g",
       "Name": "Burrow",
-      "Percentage": 92,
+      "Percentage": 100,
       "XP": 75,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Planina",
       "SetID": "823jm6g",
       "Name": "Plain",
-      "Percentage": 83,
+      "Percentage": 92,
       "XP": 80,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Poklop",
@@ -244,8 +244,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-07-09T07:03:29.6959434+00:00",
+  "LastChanged_Achievements": "2023-07-09T08:04:18.839199+00:00",
   "LastUpdate_AppInfo": "2023-07-07T13:12:57.3889522+00:00",
-  "LastUpdate_Ratings": "2023-07-09T06:57:05.0935209+00:00",
-  "LastUpdate_Achievements": "2023-07-09T07:03:29.6959555+00:00"
+  "LastUpdate_Ratings": "2023-07-09T07:57:13.3405892+00:00",
+  "LastUpdate_Achievements": "2023-07-09T08:04:18.8392275+00:00"
 }

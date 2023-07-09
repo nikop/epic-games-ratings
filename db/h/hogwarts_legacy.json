@@ -4770,9 +4770,9 @@
       "Count": 546
     }
   ],
-  "EOS_Progressed": 286095,
+  "EOS_Progressed": 286104,
   "EOS_Completed": 419,
-  "EOS_NewPlayers": 2625,
+  "EOS_NewPlayers": 2607,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -13270,6 +13270,11 @@
       "Time": "2023-07-09T07:03:14.2048206+00:00",
       "NumProgressed": 286095,
       "NumCompleted": 419
+    },
+    {
+      "Time": "2023-07-09T08:03:45.1155159+00:00",
+      "NumProgressed": 286104,
+      "NumCompleted": 419
     }
   ],
   "TotalAchievements": 45,
@@ -13281,7 +13286,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 31470
+      "UsersEstimate": 31471
     },
     {
       "ID": "PFA_10",
@@ -13425,7 +13430,7 @@
       "Name": "The Nature of the Beast",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "PFA_27",
@@ -13640,7 +13645,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 286095,
+      "Progressed": 286104,
       "Completed": 419
     }
   ],
@@ -13648,8 +13653,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-07-09T05:57:32.0192731+00:00",
-  "LastChanged_Achievements": "2023-07-09T07:03:14.20482+00:00",
+  "LastChanged_Achievements": "2023-07-09T08:03:45.1155153+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:39.7952275+00:00",
-  "LastUpdate_Ratings": "2023-07-09T06:57:43.4348819+00:00",
-  "LastUpdate_Achievements": "2023-07-09T07:03:14.2049244+00:00"
+  "LastUpdate_Ratings": "2023-07-09T07:57:57.9896482+00:00",
+  "LastUpdate_Achievements": "2023-07-09T08:03:45.1156833+00:00"
 }

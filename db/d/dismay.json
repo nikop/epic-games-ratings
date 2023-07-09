@@ -4,7 +4,7 @@
   "ProductSlug": "dismay-b62c83",
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:58.5619769+00:00",
-  "LastChanged_Achievements": "2023-07-09T07:04:50.458365+00:00",
+  "LastChanged_Achievements": "2023-07-09T08:05:42.2930282+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:05.9656598+00:00",
-  "LastUpdate_Ratings": "2023-07-09T06:58:48.5471542+00:00",
-  "LastUpdate_Achievements": "2023-07-09T07:04:50.4583675+00:00"
+  "LastUpdate_Ratings": "2023-07-09T07:59:17.3336576+00:00",
+  "LastUpdate_Achievements": "2023-07-09T08:05:42.2930324+00:00"
 }

@@ -489,7 +489,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13782,
+  "EOS_Progressed": 13783,
   "EOS_Completed": 104,
   "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 1,
@@ -5739,6 +5739,11 @@
       "Time": "2023-07-09T06:01:01.8647843+00:00",
       "NumProgressed": 13782,
       "NumCompleted": 104
+    },
+    {
+      "Time": "2023-07-09T08:02:57.7144467+00:00",
+      "NumProgressed": 13783,
+      "NumCompleted": 104
     }
   ],
   "TotalAchievements": 41,
@@ -5806,7 +5811,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1929
+      "UsersEstimate": 1930
     },
     {
       "ID": "tpote_achievement_17",
@@ -5854,7 +5859,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 4272
+      "UsersEstimate": 4273
     },
     {
       "ID": "tpote_achievement_22",
@@ -5862,7 +5867,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2756
+      "UsersEstimate": 2757
     },
     {
       "ID": "tpote_achievement_23",
@@ -5894,7 +5899,7 @@
       "Name": "Exterminator",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1929
+      "UsersEstimate": 1930
     },
     {
       "ID": "tpote_achievement_27",
@@ -6077,15 +6082,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13782,
+      "Progressed": 13783,
       "Completed": 104
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-09T07:01:43.3145819+00:00",
+  "LastChanged_Achievements": "2023-07-09T08:02:57.7144461+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:22.7316946+00:00",
-  "LastUpdate_Ratings": "2023-07-09T07:00:35.5453023+00:00",
-  "LastUpdate_Achievements": "2023-07-09T07:01:43.3146447+00:00"
+  "LastUpdate_Ratings": "2023-07-09T08:01:31.5409024+00:00",
+  "LastUpdate_Achievements": "2023-07-09T08:02:57.7145196+00:00"
 }

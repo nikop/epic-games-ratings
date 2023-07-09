@@ -4,7 +4,7 @@
   "ProductSlug": "out-of-line-209cbb",
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-06-23T07:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:27.4516384+00:00",
   "LastChanged": "2023-03-31T05:58:27.4516385+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:45.9282407+00:00",
-  "LastUpdate_Ratings": "2023-07-09T06:59:19.7039806+00:00",
-  "LastUpdate_Achievements": "2023-07-09T07:03:52.2437675+00:00"
+  "LastUpdate_Ratings": "2023-07-09T07:59:55.3988287+00:00",
+  "LastUpdate_Achievements": "2023-07-09T08:04:44.9133514+00:00"
 }

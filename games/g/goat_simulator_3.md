@@ -5,18 +5,18 @@ Rating: 4.85 (Ranked 41)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~210,784 |
-| Private Club | 74.00% | ~171,407 |
-| Rogue Guild | 65.00% | ~150,560 |
+| Forgotten Sorority | 91.00% | ~210,785 |
+| Private Club | 74.00% | ~171,408 |
+| Rogue Guild | 65.00% | ~150,561 |
 | I Watched the Intro | 57.00% | ~132,030 |
-| Covert Consortium | 55.00% | ~127,397 |
-| Goat Queen | 53.00% | ~122,764 |
+| Covert Consortium | 55.00% | ~127,398 |
+| Goat Queen | 53.00% | ~122,765 |
 | Reach the Stratosphere | 50.00% | ~115,816 |
 | Synchronization Complete | 47.00% | ~108,867 |
 | Secret Society | 45.00% | ~104,234 |
-| Shadow Syndicate | 37.00% | ~85,703 |
-| What a Waste of Money | 33.00% | ~76,438 |
-| New Goat Order | 30.00% | ~69,489 |
+| Shadow Syndicate | 38.00% | ~88,020 |
+| What a Waste of Money | 33.00% | ~76,439 |
+| New Goat Order | 30.00% | ~69,490 |
 | Don't touch the servers | 28.00% | ~64,857 |
 | San Angora: Become Human | 26.00% | ~60,224 |
 | Raider of the Lost Parking Garage | 26.00% | ~60,224 |
@@ -29,8 +29,8 @@ Rating: 4.85 (Ranked 41)
 | Black Market | 14.00% | ~32,428 |
 | 401(K.O.) | 14.00% | ~32,428 |
 | Car Cave | 12.00% | ~27,796 |
-| Club Mohair | 8.00% | ~18,530 |
-| A Center for Ants? | 8.00% | ~18,530 |
+| Club Mohair | 8.00% | ~18,531 |
+| A Center for Ants? | 8.00% | ~18,531 |
 | French Fika | 7.00% | ~16,214 |
 | Who Baywatches the Baywatch? | 4.00% | ~9,265 |
 | Nasty! | 4.00% | ~9,265 |
@@ -45,7 +45,7 @@ Rating: 4.85 (Ranked 41)
 | Move! That! Bus! | 0.60% | ~1,390 |
 | G.O.A.T | 0.30% | ~695 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,631 (Ranked 47)  
+Progressed: 231,632 (Ranked 47)  
 Completed: 766 (0.33%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,14 +125,14 @@ Completed: 766 (0.33%) (Ranked 142)
 | 2023-07-06 | 231,289 | 763 |
 | 2023-07-07 | 231,430 | 764 |
 | 2023-07-08 | 231,597 | 766 |
-| 2023-07-09 | 231,631 | 766 |
+| 2023-07-09 | 231,632 | 766 |
 ## Awards
-Max (Great for Beginners): 360  (Ranked 219)  
-Sum: 3,004 (Ranked 159)  
+Max (Great for Beginners): 361  (Ranked 219)  
+Sum: 3,005 (Ranked 159)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 360 |
+| This game is Great for Beginners | 361 |
 | This game has Diverse Characters | 342 |
 | This game is Highly Recommended | 324 |
 | This game has Amazing Characters | 302 |
@@ -254,4 +254,4 @@ Diff (max vs sum): 60
 | 2023-07-05 | 4.85 | 360 | 2,991 |
 | 2023-07-07 | 4.85 | 360 | 2,996 |
 | 2023-07-08 | 4.85 | 360 | 3,002 |
-| 2023-07-09 | 4.85 | 360 | 3,004 |
+| 2023-07-09 | 4.85 | 361 | 3,005 |

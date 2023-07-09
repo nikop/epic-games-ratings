@@ -2,9 +2,9 @@
   "ID": "46c8eccba1224195bdd112048075cc37",
   "Name": "One More Dungeon 2",
   "ProductSlug": "one-more-dungeon-2-532228",
-  "Ranking_EOS_Progress": 328,
+  "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 61,
+  "EOS_Progressed": 62,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -281,6 +281,11 @@
       "Time": "2023-07-06T20:04:39.9116133+00:00",
       "NumProgressed": 61,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-09T08:05:10.854116+00:00",
+      "NumProgressed": 62,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 20,
@@ -290,7 +295,7 @@
       "ID": "AllSkills",
       "SetID": "7g1kpc8",
       "Name": "Ready for Battle",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 70,
       "UsersEstimate": 4
     },
@@ -298,7 +303,7 @@
       "ID": "AllTogether",
       "SetID": "7g1kpc8",
       "Name": "All Together",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 70,
       "UsersEstimate": 4
     },
@@ -306,9 +311,9 @@
       "ID": "ChangeClass",
       "SetID": "7g1kpc8",
       "Name": "Metamorphosis",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "CollectCurses",
@@ -330,7 +335,7 @@
       "ID": "DemonHunter",
       "SetID": "7g1kpc8",
       "Name": "Demonologist",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -338,7 +343,7 @@
       "ID": "FinalBoss",
       "SetID": "7g1kpc8",
       "Name": "Creature",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 100,
       "UsersEstimate": 4
     },
@@ -348,13 +353,13 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "FirstBoss",
       "SetID": "7g1kpc8",
       "Name": "Scull",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 30,
       "UsersEstimate": 23
     },
@@ -362,15 +367,15 @@
       "ID": "FirstStep",
       "SetID": "7g1kpc8",
       "Name": "Start of the Path",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "FourthBoss",
       "SetID": "7g1kpc8",
       "Name": "Ifrit",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 90,
       "UsersEstimate": 4
     },
@@ -410,7 +415,7 @@
       "ID": "Persistence",
       "SetID": "7g1kpc8",
       "Name": "Persistence",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 20,
       "UsersEstimate": 18
     },
@@ -442,7 +447,7 @@
       "ID": "ThirdBoss",
       "SetID": "7g1kpc8",
       "Name": "Flower",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 70,
       "UsersEstimate": 4
     }
@@ -451,14 +456,14 @@
     {
       "ID": "7g1kpc8",
       "IsBase": true,
-      "Progressed": 61,
+      "Progressed": 62,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-07-09T07:04:23.7539418+00:00",
+  "LastChanged_Achievements": "2023-07-09T08:05:10.8541152+00:00",
   "LastUpdate_AppInfo": "2023-07-03T07:57:09.8634749+00:00",
-  "LastUpdate_Ratings": "2023-07-09T06:57:27.0751088+00:00",
-  "LastUpdate_Achievements": "2023-07-09T07:04:23.7539581+00:00"
+  "LastUpdate_Ratings": "2023-07-09T07:57:39.0740875+00:00",
+  "LastUpdate_Achievements": "2023-07-09T08:05:10.8541404+00:00"
 }

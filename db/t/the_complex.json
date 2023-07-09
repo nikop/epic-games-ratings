@@ -2,9 +2,9 @@
   "ID": "e462ded8eeed40d7b81015ca87cdb5d8",
   "Name": "The Complex",
   "ProductSlug": "the-complex-0ca5bb",
-  "Ranking_EOS_Progress": 211,
+  "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 55,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 516,
+  "EOS_Progressed": 517,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.1,
+  "EOS_Completed_Percentage": 3.09,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:48.1616312+00:00",
@@ -392,6 +392,11 @@
       "Time": "2023-07-06T13:27:01.3051681+00:00",
       "NumProgressed": 516,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-07-09T08:02:34.1126796+00:00",
+      "NumProgressed": 517,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 20,
@@ -403,7 +408,7 @@
       "Name": "Beat It",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "blast_from_the_past",
@@ -483,7 +488,7 @@
       "Name": "MVP - Most Vanishing Person",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "falling_for_you",
@@ -491,7 +496,7 @@
       "Name": "Falling For You",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "free_champagne",
@@ -507,7 +512,7 @@
       "Name": "Kamikaze",
       "Percentage": 65,
       "XP": 100,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "kindar_surprise",
@@ -531,7 +536,7 @@
       "Name": "People Pleaser",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "storage_hunter",
@@ -547,7 +552,7 @@
       "Name": "The Rebel And The Doctor",
       "Percentage": 59,
       "XP": 100,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "tough_decision",
@@ -555,14 +560,14 @@
       "Name": "Tough Decision",
       "Percentage": 93,
       "XP": 50,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 516,
+      "Progressed": 517,
       "Completed": 16
     }
   ],
@@ -570,8 +575,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-07-09T07:01:22.8868208+00:00",
+  "LastChanged_Achievements": "2023-07-09T08:02:34.1126789+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:21.8145874+00:00",
-  "LastUpdate_Ratings": "2023-07-09T06:57:29.7798409+00:00",
-  "LastUpdate_Achievements": "2023-07-09T07:01:22.8868438+00:00"
+  "LastUpdate_Ratings": "2023-07-09T07:57:41.9424463+00:00",
+  "LastUpdate_Achievements": "2023-07-09T08:02:34.1127031+00:00"
 }
