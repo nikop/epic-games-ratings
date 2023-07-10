@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 394,
+  "EOS_Progressed": 395,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1351,6 +1351,11 @@
       "Time": "2023-07-10T16:05:05.874702+00:00",
       "NumProgressed": 394,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-10T22:05:34.476587+00:00",
+      "NumProgressed": 395,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1378,7 +1383,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ach_defeat_players_100",
@@ -1426,7 +1431,7 @@
       "Name": "Silver Competitor",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -1474,7 +1479,7 @@
       "Name": "Corporal",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -1538,7 +1543,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -1610,7 +1615,7 @@
       "Name": "Factory Expansion",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -1665,14 +1670,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 394,
+      "Progressed": 395,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-10T21:05:42.4251179+00:00",
+  "LastChanged_Achievements": "2023-07-10T22:05:34.4765862+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:58.5226048+00:00",
-  "LastUpdate_Ratings": "2023-07-10T21:01:53.5205741+00:00",
-  "LastUpdate_Achievements": "2023-07-10T21:05:42.4251616+00:00"
+  "LastUpdate_Ratings": "2023-07-10T22:01:46.915687+00:00",
+  "LastUpdate_Achievements": "2023-07-10T22:05:34.4766494+00:00"
 }

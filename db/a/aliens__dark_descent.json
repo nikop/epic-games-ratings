@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -124,7 +124,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2792,
+  "EOS_Progressed": 2793,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 269,
   "EOS_NewCompleters": 0,
@@ -2249,6 +2249,11 @@
       "Time": "2023-07-10T21:07:48.7618819+00:00",
       "NumProgressed": 2792,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-10T22:07:39.5807572+00:00",
+      "NumProgressed": 2793,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2292,7 +2297,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 1368
+      "UsersEstimate": 1369
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -2300,7 +2305,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1284
+      "UsersEstimate": 1285
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -2356,7 +2361,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 2010
+      "UsersEstimate": 2011
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -2372,7 +2377,7 @@
       "Name": "Call Me Snake",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 1647
+      "UsersEstimate": 1648
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -2380,7 +2385,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 1787
+      "UsersEstimate": 1788
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -2452,7 +2457,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 1591
+      "UsersEstimate": 1592
     },
     {
       "ID": "ACH_MISSION_02",
@@ -2460,7 +2465,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1313
     },
     {
       "ID": "ACH_MISSION_03",
@@ -2476,7 +2481,7 @@
       "Name": "Making a Stand",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "ACH_MISSION_05",
@@ -2500,7 +2505,7 @@
       "Name": "The Darwin Era Was Here",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "ACH_MISSION_08",
@@ -2556,7 +2561,7 @@
       "Name": "Snatched Out",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 2038
+      "UsersEstimate": 2039
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -2596,7 +2601,7 @@
       "Name": "Recouped Investment",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -2619,7 +2624,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 2792,
+      "Progressed": 2793,
       "Completed": 0
     }
   ],
@@ -2627,8 +2632,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-10T21:00:33.0410734+00:00",
-  "LastChanged_Achievements": "2023-07-10T21:07:48.7618813+00:00",
+  "LastChanged_Achievements": "2023-07-10T22:07:39.5807562+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:32.529009+00:00",
-  "LastUpdate_Ratings": "2023-07-10T21:00:33.0410749+00:00",
-  "LastUpdate_Achievements": "2023-07-10T21:07:48.761937+00:00"
+  "LastUpdate_Ratings": "2023-07-10T22:00:24.9215196+00:00",
+  "LastUpdate_Achievements": "2023-07-10T22:07:39.5808262+00:00"
 }

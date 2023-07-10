@@ -6,16 +6,16 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,474 |
-| The Mad Wizard | 11.00% | ~23,081 |
-| The Ring of Regeneration | 7.00% | ~14,688 |
-| Are Ya Chicken? | 7.00% | ~14,688 |
-| Were-verpowered | 6.00% | ~12,590 |
-| Seeking Allies | 5.00% | ~10,491 |
-| Mad Cow Disease | 5.00% | ~10,491 |
-| Friendly Imps | 5.00% | ~10,491 |
-| A Persistent Buzzing | 4.00% | ~8,393 |
-| Pure Energy | 4.00% | ~8,393 |
+| The Cursed Farmer | 15.00% | ~31,477 |
+| The Mad Wizard | 11.00% | ~23,083 |
+| The Ring of Regeneration | 7.00% | ~14,689 |
+| Are Ya Chicken? | 7.00% | ~14,689 |
+| Were-verpowered | 6.00% | ~12,591 |
+| Seeking Allies | 5.00% | ~10,492 |
+| Mad Cow Disease | 5.00% | ~10,492 |
+| Friendly Imps | 5.00% | ~10,492 |
+| A Persistent Buzzing | 4.00% | ~8,394 |
+| Pure Energy | 4.00% | ~8,394 |
 | Beast Mode | 3.00% | ~6,295 |
 | Terror in the Dark | 3.00% | ~6,295 |
 | Unearthed Evil | 3.00% | ~6,295 |
@@ -52,11 +52,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lost in the Deep | 1.00% | ~2,098 |
 | Easily Distracted | 1.00% | ~2,098 |
 | Rescue in the Jungle | 1.00% | ~2,098 |
-| The Forbidden City | 0.90% | ~1,888 |
-| Wisdom Check | 0.90% | ~1,888 |
-| The Mists of Ravenloft | 0.90% | ~1,888 |
-| Attack on the Manor | 0.90% | ~1,888 |
-| The Dead Three | 0.90% | ~1,888 |
+| The Forbidden City | 0.90% | ~1,889 |
+| Wisdom Check | 0.90% | ~1,889 |
+| The Mists of Ravenloft | 0.90% | ~1,889 |
+| Attack on the Manor | 0.90% | ~1,889 |
+| The Dead Three | 0.90% | ~1,889 |
 | Captured! | 0.80% | ~1,679 |
 | A Grand Puzzle | 0.80% | ~1,679 |
 | Treasure Hunters | 0.80% | ~1,679 |
@@ -130,29 +130,29 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alterdeep | 0.40% | ~704 |
 | Civilization | 0.40% | ~704 |
 | Dwarven Rumors | 0.40% | ~704 |
-| Struggling Toward Omu | 0.30% | ~629 |
+| Struggling Toward Omu | 0.30% | ~630 |
 | The Newcomers of Notoriety | 0.30% | ~528 |
-| Never Split the Party | 0.30% | ~629 |
-| Haunted Fortunes | 0.30% | ~629 |
+| Never Split the Party | 0.30% | ~630 |
+| Haunted Fortunes | 0.30% | ~630 |
 | Thine Bounty is Mine! | 0.30% | ~528 |
-| Hold for the Red Wizards | 0.30% | ~629 |
-| Our Time To Shine | 0.30% | ~629 |
-| A Saurial's Lament | 0.30% | ~629 |
-| Nimblest Escape | 0.30% | ~629 |
-| Stumbling Escape | 0.30% | ~629 |
-| From The Shadows | 0.30% | ~629 |
-| Spined Nuisances | 0.30% | ~629 |
-| Bazaar Exploits | 0.30% | ~629 |
-| Flame(skull) War | 0.30% | ~629 |
-| Elder Rune Madness | 0.30% | ~629 |
-| Who Lurks in Lurkwood | 0.30% | ~629 |
-| Orcs Are Wild | 0.30% | ~629 |
-| A Hero's Entourage | 0.30% | ~629 |
-| Dreams of Beholders | 0.30% | ~629 |
-| The Sunless Citadel | 0.30% | ~629 |
-| Patience is Key | 0.30% | ~629 |
-| Troublesome Prisoner | 0.30% | ~629 |
-| Dark Doppelgangers | 0.30% | ~629 |
+| Hold for the Red Wizards | 0.30% | ~630 |
+| Our Time To Shine | 0.30% | ~630 |
+| A Saurial's Lament | 0.30% | ~630 |
+| Nimblest Escape | 0.30% | ~630 |
+| Stumbling Escape | 0.30% | ~630 |
+| From The Shadows | 0.30% | ~630 |
+| Spined Nuisances | 0.30% | ~630 |
+| Bazaar Exploits | 0.30% | ~630 |
+| Flame(skull) War | 0.30% | ~630 |
+| Elder Rune Madness | 0.30% | ~630 |
+| Who Lurks in Lurkwood | 0.30% | ~630 |
+| Orcs Are Wild | 0.30% | ~630 |
+| A Hero's Entourage | 0.30% | ~630 |
+| Dreams of Beholders | 0.30% | ~630 |
+| The Sunless Citadel | 0.30% | ~630 |
+| Patience is Key | 0.30% | ~630 |
+| Troublesome Prisoner | 0.30% | ~630 |
+| Dark Doppelgangers | 0.30% | ~630 |
 | The Wandering Emporium | 0.30% | ~528 |
 | Tiamat's Army | 0.30% | ~528 |
 | Questlines | 0.30% | ~528 |
@@ -168,7 +168,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Deekin's Mission | 0.30% | ~528 |
 | The Battle of High Hall Tower | 0.30% | ~528 |
 | Elturel's Last Stand | 0.30% | ~528 |
-| Overwhelming Force | 0.30% | ~629 |
+| Overwhelming Force | 0.30% | ~630 |
 | The Castle of a Thousand Vecnas | 0.20% | ~352 |
 | The Sanctum of the Sword | 0.20% | ~352 |
 | Get Back In The Castle | 0.20% | ~352 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209,827 (Ranked 52)  
+Progressed: 209,845 (Ranked 52)  
 Completed: 2,045 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -591,11 +591,11 @@ Completed: 2,045 (0.97%) (Ranked 102)
 | 2023-07-07 | 208,152 | 2,037 |
 | 2023-07-08 | 208,782 | 2,041 |
 | 2023-07-09 | 209,384 | 2,043 |
-| 2023-07-10 | 209,827 | 2,045 |
+| 2023-07-10 | 209,845 | 2,045 |
 ## Awards
 Max (Diverse Characters): 5,021  (Ranked 65)  
-Sum: 30,473 (Ranked 37)  
-Diff (max vs sum): 28  
+Sum: 30,473 (Ranked 38)  
+Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,021 |

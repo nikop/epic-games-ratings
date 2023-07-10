@@ -11,6 +11,7 @@ Rating: 4.61 (Ranked 361)
 | A Wonderful Discovery | 3.00% | ~149 |
 | Walls Cannot Stop Us | 3.00% | ~149 |
 | From Friends to Family | 3.00% | ~149 |
+| Stronger Together | 3.00% | ~149 |
 | Magical Synergy | 3.00% | ~149 |
 | My Final Form | 3.00% | ~149 |
 | Intimidation Tactics | 3.00% | ~149 |
@@ -24,7 +25,6 @@ Rating: 4.61 (Ranked 361)
 | Arch Mage | 2.00% | ~99 |
 | Bone Peddler | 2.00% | ~99 |
 | Digging for Treasure | 2.00% | ~99 |
-| Stronger Together | 2.00% | ~99 |
 | Seat of Power | 2.00% | ~99 |
 | In a Liege of Your Own | 2.00% | ~99 |
 | Fiery Friend | 2.00% | ~99 |

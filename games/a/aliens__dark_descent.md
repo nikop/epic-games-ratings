@@ -6,26 +6,26 @@ Rating: 4.42 (Ranked 663)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | This Is Hayes, Pioneer Station, Signing Off | 80.00% | ~2,234 |
-| Snatched Out | 73.00% | ~2,038 |
-| Keep 'Em Coming | 72.00% | ~2,010 |
-| Cleaning Lethe, One Nest At A Time | 64.00% | ~1,787 |
-| Call Me Snake | 59.00% | ~1,647 |
-| Something Lurks Under The Hills | 57.00% | ~1,591 |
+| Snatched Out | 73.00% | ~2,039 |
+| Keep 'Em Coming | 72.00% | ~2,011 |
+| Cleaning Lethe, One Nest At A Time | 64.00% | ~1,788 |
+| Call Me Snake | 59.00% | ~1,648 |
+| Something Lurks Under The Hills | 57.00% | ~1,592 |
 | This Was No Papercut | 56.00% | ~1,564 |
 | The Shrink Hates Me | 52.00% | ~1,452 |
 | People Person | 51.00% | ~1,424 |
-| Use The Bumper, That's What It's For | 49.00% | ~1,368 |
-| First Steps Into Madness | 47.00% | ~1,312 |
-| Colonial Barrels | 46.00% | ~1,284 |
+| Use The Bumper, That's What It's For | 49.00% | ~1,369 |
+| First Steps Into Madness | 47.00% | ~1,313 |
+| Colonial Barrels | 46.00% | ~1,285 |
 | Damn Dude, You Gotta Lose Some Weight! | 39.00% | ~1,089 |
 | Harper's Hell | 37.00% | ~1,033 |
-| Making a Stand | 35.00% | ~977 |
-| Recouped Investment | 32.00% | ~893 |
+| Making a Stand | 35.00% | ~978 |
+| Recouped Investment | 32.00% | ~894 |
 | Where It All Begun | 31.00% | ~866 |
 | Omelette Du Fromage | 30.00% | ~838 |
 | The More The Merrier | 24.00% | ~670 |
 | Living Nightmare | 23.00% | ~642 |
-| The Darwin Era Was Here | 19.00% | ~530 |
+| The Darwin Era Was Here | 19.00% | ~531 |
 | Deep Into Insanity | 18.00% | ~503 |
 | Stuff Of Nightmares | 17.00% | ~475 |
 | Come on, You Wanna Live Forever? | 17.00% | ~475 |
@@ -51,7 +51,7 @@ Rating: 4.42 (Ranked 663)
 | Perfect Organism | 0.30% | ~8 |
 | This Ain't No Picnic | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,792 (Ranked 154)  
+Progressed: 2,793 (Ranked 154)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-07 | 2,686 | 0 |
 | 2023-07-08 | 2,739 | 0 |
 | 2023-07-09 | 2,769 | 0 |
-| 2023-07-10 | 2,792 | 0 |
+| 2023-07-10 | 2,793 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

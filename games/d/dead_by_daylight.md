@@ -1,65 +1,65 @@
 # Dead by Daylight
 [Store](https://store.epicgames.com/en-US/p/dead-by-daylight)  
 [View Rawdata](../../db/d/dead_by_daylight.json)  
-Rating: 4.52 (Ranked 519)  
+Rating: 4.52 (Ranked 520)  
 Number of Ratings: 70,340  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Resurgence | 8.00% | ~52,958 |
-| Healthy Obsession | 7.00% | ~46,338 |
-| Preemptive Strike | 7.00% | ~46,338 |
-| Humanitarian | 7.00% | ~46,338 |
-| Close Shave | 6.00% | ~39,719 |
-| Wounded Healer | 5.00% | ~33,099 |
-| Unforgettable Getaway | 4.00% | ~26,479 |
-| First to the Punch | 4.00% | ~26,479 |
-| Old West Oasis | 4.00% | ~26,479 |
-| Every Last Drop | 4.00% | ~26,479 |
-| With Scars to Show | 4.00% | ~26,479 |
-| Flight to Freedom | 4.00% | ~26,479 |
-| Ancestor's Rite | 3.00% | ~19,859 |
-| Cutting Out | 3.00% | ~19,859 |
-| Outrun Evil | 3.00% | ~19,859 |
-| Operation: Survival | 3.00% | ~19,859 |
-| Grim Pilgrimage | 3.00% | ~19,859 |
-| Classy Act | 3.00% | ~19,859 |
-| Raccoon City Recruit | 3.00% | ~19,859 |
-| A Fast Death | 3.00% | ~19,859 |
-| Lifting The Fog | 3.00% | ~19,859 |
-| Chorus of Chaos | 3.00% | ~19,859 |
-| Devoted Gatekeeping | 2.00% | ~13,240 |
-| Shrine Apparatus | 2.00% | ~13,240 |
-| Broken Bodies | 2.00% | ~13,240 |
-| Selfless Survival | 2.00% | ~13,240 |
-| I See You | 2.00% | ~13,240 |
-| End of Days | 2.00% | ~13,240 |
-| Insult and Injury | 2.00% | ~13,240 |
-| Prowler | 2.00% | ~13,240 |
-| Outrun the Overlap | 2.00% | ~13,240 |
-| High Speed Pursuit | 2.00% | ~13,240 |
-| Rebuilding The Borgo | 2.00% | ~13,240 |
-| Hack the Mainframe | 2.00% | ~13,240 |
-| Heavy Burden | 1.00% | ~6,620 |
-| Death of Ignorance | 1.00% | ~6,620 |
-| Power Moves | 1.00% | ~6,620 |
-| Punch Drunk | 1.00% | ~6,620 |
-| Triage | 1.00% | ~6,620 |
-| Deranged Pursuit | 0.80% | ~5,296 |
-| Denied! | 0.80% | ~5,296 |
-| Left For Dead | 0.70% | ~4,634 |
-| Bodyguard | 0.70% | ~4,634 |
-| Rescue Mission | 0.70% | ~4,634 |
-| From the Deep | 0.70% | ~4,634 |
-| Dismantle | 0.60% | ~3,972 |
-| Speed Kills | 0.60% | ~3,972 |
-| One Thousand Cuts | 0.60% | ~3,972 |
-| Ghost in the Machine | 0.60% | ~3,972 |
-| Silent Approach | 0.40% | ~2,648 |
-| Bound and Downed | 0.40% | ~2,648 |
-| Multi-tasker | 0.40% | ~2,648 |
-| Tear Their Soul Apart | 0.40% | ~2,648 |
-| Viral Video | 0.40% | ~2,648 |
+| Resurgence | 8.00% | ~52,973 |
+| Healthy Obsession | 7.00% | ~46,351 |
+| Preemptive Strike | 7.00% | ~46,351 |
+| Humanitarian | 7.00% | ~46,351 |
+| Close Shave | 6.00% | ~39,730 |
+| Wounded Healer | 5.00% | ~33,108 |
+| Unforgettable Getaway | 4.00% | ~26,486 |
+| First to the Punch | 4.00% | ~26,486 |
+| Old West Oasis | 4.00% | ~26,486 |
+| Every Last Drop | 4.00% | ~26,486 |
+| With Scars to Show | 4.00% | ~26,486 |
+| Flight to Freedom | 4.00% | ~26,486 |
+| Ancestor's Rite | 3.00% | ~19,865 |
+| Cutting Out | 3.00% | ~19,865 |
+| Outrun Evil | 3.00% | ~19,865 |
+| Operation: Survival | 3.00% | ~19,865 |
+| Grim Pilgrimage | 3.00% | ~19,865 |
+| Classy Act | 3.00% | ~19,865 |
+| Raccoon City Recruit | 3.00% | ~19,865 |
+| A Fast Death | 3.00% | ~19,865 |
+| Lifting The Fog | 3.00% | ~19,865 |
+| Chorus of Chaos | 3.00% | ~19,865 |
+| Devoted Gatekeeping | 2.00% | ~13,243 |
+| Shrine Apparatus | 2.00% | ~13,243 |
+| Broken Bodies | 2.00% | ~13,243 |
+| Selfless Survival | 2.00% | ~13,243 |
+| I See You | 2.00% | ~13,243 |
+| End of Days | 2.00% | ~13,243 |
+| Insult and Injury | 2.00% | ~13,243 |
+| Prowler | 2.00% | ~13,243 |
+| Outrun the Overlap | 2.00% | ~13,243 |
+| High Speed Pursuit | 2.00% | ~13,243 |
+| Rebuilding The Borgo | 2.00% | ~13,243 |
+| Hack the Mainframe | 2.00% | ~13,243 |
+| Heavy Burden | 1.00% | ~6,622 |
+| Death of Ignorance | 1.00% | ~6,622 |
+| Power Moves | 1.00% | ~6,622 |
+| Punch Drunk | 1.00% | ~6,622 |
+| Triage | 1.00% | ~6,622 |
+| Deranged Pursuit | 0.80% | ~5,297 |
+| Denied! | 0.80% | ~5,297 |
+| Left For Dead | 0.70% | ~4,635 |
+| Bodyguard | 0.70% | ~4,635 |
+| Rescue Mission | 0.70% | ~4,635 |
+| From the Deep | 0.70% | ~4,635 |
+| Dismantle | 0.60% | ~3,973 |
+| Speed Kills | 0.60% | ~3,973 |
+| One Thousand Cuts | 0.60% | ~3,973 |
+| Ghost in the Machine | 0.60% | ~3,973 |
+| Silent Approach | 0.40% | ~2,649 |
+| Bound and Downed | 0.40% | ~2,649 |
+| Multi-tasker | 0.40% | ~2,649 |
+| Tear Their Soul Apart | 0.40% | ~2,649 |
+| Viral Video | 0.40% | ~2,649 |
 | Conniption | 0.30% | ~1,986 |
 | Terminal Illness | 0.30% | ~1,986 |
 | Totally Vulnerable | 0.30% | ~1,986 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~662 |
 | Adept Gabriel | 0.10% | ~662 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 661,977 (Ranked 21)  
+Progressed: 662,159 (Ranked 21)  
 Completed: 42 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,10 +308,10 @@ Completed: 42 (0.01%) (Ranked 223)
 | 2023-07-07 | 649,888 | 42 |
 | 2023-07-08 | 654,036 | 42 |
 | 2023-07-09 | 658,361 | 42 |
-| 2023-07-10 | 661,977 | 42 |
+| 2023-07-10 | 662,159 | 42 |
 ## Awards
 Max (Diverse Characters): 29,748  (Ranked 15)  
-Sum: 236,099 (Ranked 12)  
+Sum: 236,145 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -319,10 +319,10 @@ Diff (max vs sum): 3
 | This game has Competitive Players | 27,088 |
 | This game is Highly Recommended | 26,909 |
 | This game has Amazing Characters | 26,654 |
-| This game is Extremely Fun | 26,581 |
+| This game is Extremely Fun | 26,603 |
 | This game has Quickly Understood Controls | 26,394 |
 | This game has Challenging Combat | 25,875 |
-| This game has Amazing Storytelling | 24,303 |
+| This game has Amazing Storytelling | 24,327 |
 | This game has a Competitive Community | 22,547 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
@@ -496,4 +496,4 @@ Diff (max vs sum): 3
 | 2023-07-07 | 4.52 | - | 29,658 | 235,306 |
 | 2023-07-08 | 4.52 | - | 29,658 | 235,554 |
 | 2023-07-09 | 4.52 | - | 29,704 | 235,861 |
-| 2023-07-10 | 4.52 | - | 29,748 | 236,099 |
+| 2023-07-10 | 4.52 | - | 29,748 | 236,145 |

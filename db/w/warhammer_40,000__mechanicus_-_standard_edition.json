@@ -2,13 +2,13 @@
   "ID": "144f9e231e2846d1a4381d9bb678f69d",
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
   "ProductSlug": "warhammer-mechanicus-0e4b71",
-  "Ranking_Rating": 654,
+  "Ranking_Rating": 653,
   "Ranking_Popularity": 237,
   "Ranking_PopularitySum": 191,
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -525,9 +525,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 216871,
+  "EOS_Progressed": 216874,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 673,
+  "EOS_NewPlayers": 674,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9145,6 +9145,11 @@
       "Time": "2023-07-10T21:06:11.255255+00:00",
       "NumProgressed": 216871,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-10T22:06:03.1711007+00:00",
+      "NumProgressed": 216874,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 34,
@@ -9156,7 +9161,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 41205
+      "UsersEstimate": 41206
     },
     {
       "ID": "ACH_BASE_10",
@@ -9196,7 +9201,7 @@
       "Name": "Power Ranger",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19518
+      "UsersEstimate": 19519
     },
     {
       "ID": "ACH_BASE_16",
@@ -9204,7 +9209,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19518
+      "UsersEstimate": 19519
     },
     {
       "ID": "ACH_BASE_17",
@@ -9212,7 +9217,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19518
+      "UsersEstimate": 19519
     },
     {
       "ID": "ACH_BASE_18",
@@ -9220,7 +9225,7 @@
       "Name": "Radium Ready",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19518
+      "UsersEstimate": 19519
     },
     {
       "ID": "ACH_BASE_19",
@@ -9420,14 +9425,14 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19518
+      "UsersEstimate": 19519
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 216871,
+      "Progressed": 216874,
       "Completed": 4
     }
   ],
@@ -9435,8 +9440,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-07-07T16:58:59.406798+00:00",
-  "LastChanged_Achievements": "2023-07-10T21:06:11.255254+00:00",
+  "LastChanged_Achievements": "2023-07-10T22:06:03.1710998+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:16.5954522+00:00",
-  "LastUpdate_Ratings": "2023-07-10T20:59:24.7932706+00:00",
-  "LastUpdate_Achievements": "2023-07-10T21:06:11.2553556+00:00"
+  "LastUpdate_Ratings": "2023-07-10T21:59:13.3957383+00:00",
+  "LastUpdate_Achievements": "2023-07-10T22:06:03.1711923+00:00"
 }

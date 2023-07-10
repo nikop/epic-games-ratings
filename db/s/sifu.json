@@ -5076,9 +5076,9 @@
       "Count": 362
     }
   ],
-  "EOS_Progressed": 710650,
+  "EOS_Progressed": 710651,
   "EOS_Completed": 12809,
-  "EOS_NewPlayers": 215,
+  "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -12756,6 +12756,11 @@
       "Time": "2023-07-10T21:07:57.2182188+00:00",
       "NumProgressed": 710650,
       "NumCompleted": 12809
+    },
+    {
+      "Time": "2023-07-10T22:07:47.701578+00:00",
+      "NumProgressed": 710651,
+      "NumCompleted": 12809
     }
   ],
   "TotalAchievements": 50,
@@ -12791,7 +12796,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7106
+      "UsersEstimate": 7107
     },
     {
       "ID": "05_Vengeance_H4",
@@ -12799,7 +12804,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7106
+      "UsersEstimate": 7107
     },
     {
       "ID": "06_Vengeance_H5",
@@ -12807,7 +12812,7 @@
       "Name": "Furious Fists",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 7106
+      "UsersEstimate": 7107
     },
     {
       "ID": "07_Wude_H1",
@@ -12855,7 +12860,7 @@
       "Name": "Scareless",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7106
+      "UsersEstimate": 7107
     },
     {
       "ID": "13_LowAge",
@@ -12871,7 +12876,7 @@
       "Name": "Kill Nil",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 7106
+      "UsersEstimate": 7107
     },
     {
       "ID": "15_Detective_H1",
@@ -12919,7 +12924,7 @@
       "Name": "Stuntmaster",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7106
+      "UsersEstimate": 7107
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -12935,7 +12940,7 @@
       "Name": "Street Fighting",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7106
+      "UsersEstimate": 7107
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -12975,7 +12980,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7106
+      "UsersEstimate": 7107
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -13015,7 +13020,7 @@
       "Name": "Old Child",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7106
+      "UsersEstimate": 7107
     },
     {
       "ID": "33_BladeOneShot",
@@ -13039,7 +13044,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7106
+      "UsersEstimate": 7107
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -13047,7 +13052,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7106
+      "UsersEstimate": 7107
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -13055,7 +13060,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7106
+      "UsersEstimate": 7107
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -13079,7 +13084,7 @@
       "Name": "Take damage to save time",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7106
+      "UsersEstimate": 7107
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -13166,21 +13171,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 19951,
+      "Progressed": 19952,
       "Completed": 10380
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 710650,
+      "Progressed": 710651,
       "Completed": 12809
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-10T15:59:27.4235134+00:00",
-  "LastChanged_Achievements": "2023-07-10T21:07:57.2182183+00:00",
+  "LastChanged_Achievements": "2023-07-10T22:07:47.7015774+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:05.6915334+00:00",
-  "LastUpdate_Ratings": "2023-07-10T21:00:08.656563+00:00",
-  "LastUpdate_Achievements": "2023-07-10T21:07:57.218382+00:00"
+  "LastUpdate_Ratings": "2023-07-10T21:59:59.7797249+00:00",
+  "LastUpdate_Achievements": "2023-07-10T22:07:47.7016794+00:00"
 }

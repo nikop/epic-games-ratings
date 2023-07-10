@@ -4,11 +4,11 @@
   "ProductSlug": "tropico-5",
   "Ranking_Rating": 622,
   "Ranking_Popularity": 316,
-  "Ranking_PopularitySum": 244,
+  "Ranking_PopularitySum": 243,
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 317,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1755,10 +1755,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 906,
       "NumberOfAwardsMax": 114
+    },
+    {
+      "Time": "2023-07-10T22:00:09.2640155+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 907,
+      "NumberOfAwardsMax": 114
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 906,
+  "NumberOfAwards": 907,
   "NumberOfAwardsMax": 114,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1790,7 +1796,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 101
+      "Count": 102
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1840,8 +1846,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:35.4138302+00:00",
-  "LastChanged": "2023-07-07T10:59:50.7363825+00:00",
+  "LastChanged": "2023-07-10T22:00:09.2640152+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:13.7988636+00:00",
-  "LastUpdate_Ratings": "2023-07-10T21:00:17.4262369+00:00",
-  "LastUpdate_Achievements": "2023-07-10T21:03:16.1479272+00:00"
+  "LastUpdate_Ratings": "2023-07-10T22:00:09.2640161+00:00",
+  "LastUpdate_Achievements": "2023-07-10T22:03:29.4018223+00:00"
 }

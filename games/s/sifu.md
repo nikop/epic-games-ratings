@@ -15,19 +15,19 @@ Number of Ratings: 9,492  (23.09.2022)
 | State of constant learning | 2.00% | ~14,213 |
 | Qi Gong: Breath | 2.00% | ~14,213 |
 | Lightning Hands | 2.00% | ~14,213 |
-| A Lady's Blood in the Snow | 1.00% | ~7,106 |
-| Lady Wing Chun | 1.00% | ~7,106 |
-| Furious Fists | 1.00% | ~7,106 |
-| Scareless | 1.00% | ~7,106 |
-| Kill Nil | 1.00% | ~7,106 |
-| Stuntmaster | 1.00% | ~7,106 |
-| Street Fighting | 1.00% | ~7,106 |
-| Qi Gong: Essence | 1.00% | ~7,106 |
-| Old Child | 1.00% | ~7,106 |
-| Kung-Fu Tussle | 1.00% | ~7,106 |
-| Path of the Prospect | 1.00% | ~7,106 |
-| Rumble in the Hangar | 1.00% | ~7,106 |
-| Take damage to save time | 1.00% | ~7,106 |
+| A Lady's Blood in the Snow | 1.00% | ~7,107 |
+| Lady Wing Chun | 1.00% | ~7,107 |
+| Furious Fists | 1.00% | ~7,107 |
+| Scareless | 1.00% | ~7,107 |
+| Kill Nil | 1.00% | ~7,107 |
+| Stuntmaster | 1.00% | ~7,107 |
+| Street Fighting | 1.00% | ~7,107 |
+| Qi Gong: Essence | 1.00% | ~7,107 |
+| Old Child | 1.00% | ~7,107 |
+| Kung-Fu Tussle | 1.00% | ~7,107 |
+| Path of the Prospect | 1.00% | ~7,107 |
+| Rumble in the Hangar | 1.00% | ~7,107 |
+| Take damage to save time | 1.00% | ~7,107 |
 | Bloody Sport | 1.00% | ~200 |
 | The best strikes are the ones we avoid | 1.00% | ~200 |
 | Dance of the Praying Mantis | 0.90% | ~6,396 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,421 |
 | Warriors from the Mountain | 0.10% | ~711 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 710,650 (Ranked 17)  
+Progressed: 710,651 (Ranked 17)  
 Completed: 12,809 (1.80%) (Ranked 80)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 12,809 (1.80%) (Ranked 80)
 | 2023-07-07 | 710,557 | 12,807 |
 | 2023-07-08 | 710,592 | 12,808 |
 | 2023-07-09 | 710,629 | 12,809 |
-| 2023-07-10 | 710,650 | 12,809 |
+| 2023-07-10 | 710,651 | 12,809 |
 ## Awards
 Max (Great Boss Battles): 6,257  (Ranked 52)  
 Sum: 10,713 (Ranked 79)  

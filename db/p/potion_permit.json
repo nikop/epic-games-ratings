@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -1529,9 +1529,9 @@
       "ID": "ACHIEVEMENTS_11",
       "SetID": "d4o538a",
       "Name": "Expert Chemist",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 80,
-      "UsersEstimate": 190
+      "UsersEstimate": 204
     },
     {
       "ID": "ACHIEVEMENTS_12",
@@ -1762,8 +1762,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-06-25T23:02:11.750442+00:00",
-  "LastChanged_Achievements": "2023-07-10T21:04:54.1020258+00:00",
+  "LastChanged_Achievements": "2023-07-10T22:04:46.009632+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:57.0949556+00:00",
-  "LastUpdate_Ratings": "2023-07-10T21:01:53.1369616+00:00",
-  "LastUpdate_Achievements": "2023-07-10T21:04:54.1020742+00:00"
+  "LastUpdate_Ratings": "2023-07-10T22:01:46.7197126+00:00",
+  "LastUpdate_Achievements": "2023-07-10T22:04:46.0096802+00:00"
 }

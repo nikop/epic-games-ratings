@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1113,9 +1113,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 7265,
+  "EOS_Progressed": 7266,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7803,6 +7803,11 @@
       "Time": "2023-07-10T21:05:32.159022+00:00",
       "NumProgressed": 7265,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-10T22:05:24.0565983+00:00",
+      "NumProgressed": 7266,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -7822,7 +7827,7 @@
       "Name": "Friendly",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1162
+      "UsersEstimate": 1163
     },
     {
       "ID": "11",
@@ -7846,7 +7851,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3850
+      "UsersEstimate": 3851
     },
     {
       "ID": "14",
@@ -7878,7 +7883,7 @@
       "Name": "Famous Adventurer",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     },
     {
       "ID": "18",
@@ -7926,7 +7931,7 @@
       "Name": "First Step",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 5158
+      "UsersEstimate": 5159
     },
     {
       "ID": "23",
@@ -7942,7 +7947,7 @@
       "Name": "It\u0027s a Finnish Thing",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "25",
@@ -7966,7 +7971,7 @@
       "Name": "Energized",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2397
+      "UsersEstimate": 2398
     },
     {
       "ID": "28",
@@ -7990,7 +7995,7 @@
       "Name": "Great Leader",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1598
+      "UsersEstimate": 1599
     },
     {
       "ID": "30",
@@ -8022,7 +8027,7 @@
       "Name": "Around the World",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1162
+      "UsersEstimate": 1163
     },
     {
       "ID": "34",
@@ -8038,7 +8043,7 @@
       "Name": "War Never Changes",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1380
+      "UsersEstimate": 1381
     },
     {
       "ID": "36",
@@ -8070,7 +8075,7 @@
       "Name": "Rocket Surgeon",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1380
+      "UsersEstimate": 1381
     },
     {
       "ID": "4",
@@ -8110,7 +8115,7 @@
       "Name": "Prepared for Anything",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     },
     {
       "ID": "44",
@@ -8142,7 +8147,7 @@
       "Name": "The Long Haul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2397
+      "UsersEstimate": 2398
     },
     {
       "ID": "48",
@@ -8270,7 +8275,7 @@
       "Name": "Real Survivor",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1598
+      "UsersEstimate": 1599
     },
     {
       "ID": "9",
@@ -8285,15 +8290,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 7265,
+      "Progressed": 7266,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-07-10T18:59:49.6451369+00:00",
-  "LastChanged_Achievements": "2023-07-10T21:05:32.1590215+00:00",
+  "LastChanged_Achievements": "2023-07-10T22:05:24.0565976+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:19.4551876+00:00",
-  "LastUpdate_Ratings": "2023-07-10T21:01:17.5717653+00:00",
-  "LastUpdate_Achievements": "2023-07-10T21:05:32.1591348+00:00"
+  "LastUpdate_Ratings": "2023-07-10T22:01:11.6542546+00:00",
+  "LastUpdate_Achievements": "2023-07-10T22:05:24.0567135+00:00"
 }

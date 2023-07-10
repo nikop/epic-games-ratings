@@ -6,17 +6,17 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 34.00% | ~19,436 |
+| Follow the Light | 34.00% | ~19,437 |
 | Let There Be Light | 27.00% | ~15,435 |
-| Float Like a Butterfly | 26.00% | ~14,863 |
+| Float Like a Butterfly | 26.00% | ~14,864 |
 | Nordic Walking | 21.00% | ~12,005 |
-| Bright Falls' Finest | 20.00% | ~11,433 |
+| Bright Falls' Finest | 20.00% | ~11,434 |
 | Under a Thin Layer of Skin | 18.00% | ~10,290 |
 | Park Ranger | 15.00% | ~8,575 |
 | Paging Mr. Wake | 15.00% | ~8,575 |
-| Back! Back, I Say! | 14.00% | ~8,003 |
-| Finders Keepers | 14.00% | ~8,003 |
-| Damn Good Cup of Coffee | 13.00% | ~7,431 |
+| Back! Back, I Say! | 14.00% | ~8,004 |
+| Finders Keepers | 14.00% | ~8,004 |
+| Damn Good Cup of Coffee | 13.00% | ~7,432 |
 | Wheels Within Wheels | 12.00% | ~6,860 |
 | They're Heeeeeere! | 12.00% | ~6,860 |
 | Sound and Fury | 12.00% | ~6,860 |
@@ -26,9 +26,9 @@ Number of Ratings: 524  (23.09.2022)
 | The Six-Gun Scribe | 11.00% | ~6,288 |
 | Collateral Carnage | 11.00% | ~6,288 |
 | Come One, Come All | 11.00% | ~6,288 |
-| Perchance to Dream | 10.00% | ~5,716 |
-| It's Not Just a Typewriter Brand | 10.00% | ~5,716 |
-| Thunder and Lightning | 10.00% | ~5,716 |
+| Perchance to Dream | 10.00% | ~5,717 |
+| It's Not Just a Typewriter Brand | 10.00% | ~5,717 |
+| Thunder and Lightning | 10.00% | ~5,717 |
 | Gatekeeper | 9.00% | ~5,145 |
 | The Lady of the Light | 9.00% | ~5,145 |
 | Two For the Price of One | 9.00% | ~5,145 |
@@ -61,9 +61,9 @@ Number of Ratings: 524  (23.09.2022)
 | License Revoked | 0.40% | ~83 |
 | Whirlwind | 0.40% | ~83 |
 | Creative Space | 0.40% | ~83 |
-| Alan, Wake Up | 0.30% | ~171 |
-| Meet the Deadline | 0.30% | ~171 |
-| Picking Up After Yourself | 0.30% | ~171 |
+| Alan, Wake Up | 0.30% | ~172 |
+| Meet the Deadline | 0.30% | ~172 |
+| Picking Up After Yourself | 0.30% | ~172 |
 | Run-On Sentence | 0.30% | ~62 |
 | Gunless Wonder | 0.20% | ~114 |
 | Every Nook and Cranny | 0.20% | ~114 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~57 |
 | No Punctuation | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,165 (Ranked 81)  
+Progressed: 57,168 (Ranked 81)  
 Completed: 57 (0.10%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 57 (0.10%) (Ranked 183)
 | 2023-07-07 | 56,982 | 57 |
 | 2023-07-08 | 57,062 | 57 |
 | 2023-07-09 | 57,124 | 57 |
-| 2023-07-10 | 57,165 | 57 |
+| 2023-07-10 | 57,168 | 57 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
