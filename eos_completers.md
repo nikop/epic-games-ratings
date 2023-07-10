@@ -29,7 +29,7 @@
 | 27 | [Time Loader](games/t/time_loader.md) | 7.21% |
 | 28 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.14% |
 | 29 | [Scorn](games/s/scorn.md) | 7.07% |
-| 30 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.86% |
+| 30 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.85% |
 | 31 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.82% |
 | 32 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 33 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -66,7 +66,7 @@
 | 64 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 65 | [Lamentum](games/l/lamentum.md) | 2.67% |
 | 66 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
-| 67 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.55% |
+| 67 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.56% |
 | 68 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 69 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
 | 70 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.40% |
@@ -111,7 +111,7 @@
 | 108 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.77% |
 | 110 | [Lemon Cake](games/l/lemon_cake.md) | 0.76% |
 | 111 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
-| 112 | [Haven](games/h/haven.md) | 0.69% |
+| 112 | [Haven](games/h/haven.md) | 0.68% |
 | 113 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.67% |
 | 113 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.67% |
 | 113 | [Them and Us](games/t/them_and_us.md) | 0.67% |
@@ -159,9 +159,9 @@
 | 157 | [Blanc](games/b/blanc.md) | 0.23% |
 | 157 | [Filament](games/f/filament.md) | 0.23% |
 | 159 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
-| 159 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.22% |
 | 159 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.22% |
-| 162 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.21% |
+| 161 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.21% |
+| 161 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.21% |
 | 163 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
 | 163 | [Going Medieval](games/g/going_medieval.md) | 0.20% |
 | 165 | [BLACKTAIL](games/b/blacktail.md) | 0.19% |

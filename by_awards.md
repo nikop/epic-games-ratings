@@ -70,7 +70,7 @@
 | 68 | [MultiVersus](games/m/multiversus.md) | 4,745 | 4.56 | 454 |
 | 69 | [Shop Titans](games/s/shop_titans.md) | 4,650 | 3.99 | 915 |
 | 70 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,541 | 4.70 | 196 |
-| 71 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,505 | 4.70 | 196 |
+| 71 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,511 | 4.70 | 196 |
 | 72 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,410 | 4.70 | 196 |
 | 73 | [Chivalry 2](games/c/chivalry_2.md) | 4,340 | 4.61 | 361 |
 | 74 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4,272 | 4.76 | 120 |
@@ -154,14 +154,14 @@
 | 152 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 799 | 4.69 | 218 |
 | 153 | [Frostpunk](games/f/frostpunk.md) | 793 | 4.74 | 144 |
 | 154 | [The Long Dark](games/t/the_long_dark.md) | 775 | 4.74 | 144 |
-| 155 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 763 | 4.45 | 622 |
+| 155 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 765 | 4.45 | 622 |
 | 156 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 755 | 4.51 | 538 |
 | 157 | [Auto Chess](games/a/auto_chess.md) | 752 | 4.52 | 519 |
 | 158 | [Core](games/c/core.md) | 742 | 4.37 | 722 |
 | 159 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 732 | 4.78 | 99 |
 | 160 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 722 | 4.50 | 551 |
-| 161 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 702 | 4.86 | 28 |
-| 161 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 702 | 4.79 | 87 |
+| 161 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 704 | 4.79 | 87 |
+| 162 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 702 | 4.86 | 28 |
 | 163 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 701 | 4.58 | 422 |
 | 164 | [Neverwinter](games/n/neverwinter.md) | 699 | 4.29 | 780 |
 | 165 | [Neon Abyss](games/n/neon_abyss.md) | 674 | 4.68 | 239 |
@@ -172,7 +172,7 @@
 | 170 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 635 | 4.74 | 144 |
 | 171 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 626 | 4.49 | 574 |
 | 172 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 623 | 4.74 | 144 |
-| 173 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 612 | 4.74 | 144 |
+| 173 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 614 | 4.74 | 144 |
 | 174 | [Dark Deity](games/d/dark_deity.md) | 608 | 4.16 | 862 |
 | 175 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 596 | 4.60 | 389 |
 | 175 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 596 | 4.63 | 331 |
@@ -288,8 +288,8 @@
 | 286 | [Mothergunship](games/m/mothergunship.md) | 165 | 4.38 | 710 |
 | 287 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 164 | 4.38 | 710 |
 | 288 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 161 | 4.58 | 422 |
-| 289 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 159 | 4.79 | 87 |
-| 289 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 159 | 4.51 | 538 |
+| 289 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 160 | 4.51 | 538 |
+| 290 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 159 | 4.79 | 87 |
 | 291 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 156 | 4.66 | 270 |
 | 292 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 149 | 4.55 | 476 |
 | 293 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 148 | 4.52 | 519 |

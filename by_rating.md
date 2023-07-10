@@ -31,7 +31,7 @@
 | 28 | [Black Book](games/b/black_book.md) | 4.86 | 21 | 492 |
 | 28 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 142 | 296 |
 | 28 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 38 | 425 |
-| 28 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.86 | 702 | 161 |
+| 28 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.86 | 702 | 162 |
 | 28 | [Inscryption](games/i/inscryption.md) | 4.86 | 336 | 224 |
 | 28 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 12,058 | 31 |
 | 28 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 97 | 333 |
@@ -88,10 +88,10 @@
 | 82 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 0 | 504 |
 | 87 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,467 | 121 |
 | 87 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 415 | 204 |
-| 87 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 159 | 289 |
+| 87 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 159 | 290 |
 | 87 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 504 |
 | 87 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.79 | 0 | 504 |
-| 87 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 702 | 161 |
+| 87 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 704 | 161 |
 | 87 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,908 | 56 |
 | 87 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.79 | 44 | 413 |
 | 87 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.79 | 2,428 | 100 |
@@ -144,7 +144,7 @@
 | 134 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.75 | 0 | 504 |
 | 134 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 0 | 504 |
 | 144 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 504 |
-| 144 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 612 | 173 |
+| 144 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 614 | 173 |
 | 144 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 793 | 153 |
 | 144 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 635 | 170 |
 | 144 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,773 | 48 |
@@ -198,7 +198,7 @@
 | 196 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,541 | 70 |
 | 196 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 353 | 221 |
 | 196 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 380 | 212 |
-| 196 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 4,505 | 71 |
+| 196 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 4,511 | 71 |
 | 196 | [For The King](games/f/for_the_king.md) | 4.70 | 374 | 216 |
 | 196 | [GNOG](games/g/gnog.md) | 4.70 | 0 | 504 |
 | 196 | [GoNNER](games/g/gonner.md) | 4.70 | 0 | 504 |
@@ -547,7 +547,7 @@
 | 538 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 0 | 504 |
 | 538 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.51 | 755 | 156 |
 | 538 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 63 | 382 |
-| 538 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.51 | 159 | 289 |
+| 538 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.51 | 160 | 289 |
 | 538 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 35 | 434 |
 | 538 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 133 | 301 |
 | 551 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 405 | 208 |
@@ -624,7 +624,7 @@
 | 622 | [Chorus](games/c/chorus.md) | 4.45 | 32 | 446 |
 | 622 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 236 | 250 |
 | 622 | [Faeria](games/f/faeria.md) | 4.45 | 108 | 321 |
-| 622 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 763 | 155 |
+| 622 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 765 | 155 |
 | 622 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.45 | 0 | 504 |
 | 622 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.45 | 0 | 504 |
 | 622 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 10,785 | 34 |
