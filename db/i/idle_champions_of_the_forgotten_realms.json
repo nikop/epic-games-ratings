@@ -4858,9 +4858,9 @@
       "Count": 3294
     }
   ],
-  "EOS_Progressed": 209384,
+  "EOS_Progressed": 209400,
   "EOS_Completed": 2043,
-  "EOS_NewPlayers": 4633,
+  "EOS_NewPlayers": 4625,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -13383,6 +13383,11 @@
       "Time": "2023-07-09T23:04:18.8129033+00:00",
       "NumProgressed": 209384,
       "NumCompleted": 2043
+    },
+    {
+      "Time": "2023-07-10T00:03:55.1773492+00:00",
+      "NumProgressed": 209400,
+      "NumCompleted": 2043
     }
   ],
   "TotalAchievements": 503,
@@ -14258,7 +14263,7 @@
       "Name": "Were-verpowered",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 12563
+      "UsersEstimate": 12564
     },
     {
       "ID": "objective_completed_1203",
@@ -14362,7 +14367,7 @@
       "Name": "The Lost Heir of Omu",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1884
+      "UsersEstimate": 1885
     },
     {
       "ID": "objective_completed_13",
@@ -14370,7 +14375,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8375
+      "UsersEstimate": 8376
     },
     {
       "ID": "objective_completed_130",
@@ -14506,7 +14511,7 @@
       "Name": "The Forbidden City",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1884
+      "UsersEstimate": 1885
     },
     {
       "ID": "objective_completed_15",
@@ -15034,7 +15039,7 @@
       "Name": "Attack on the Manor",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1884
+      "UsersEstimate": 1885
     },
     {
       "ID": "objective_completed_284",
@@ -15066,7 +15071,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 31408
+      "UsersEstimate": 31410
     },
     {
       "ID": "objective_completed_34",
@@ -15074,7 +15079,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 14657
+      "UsersEstimate": 14658
     },
     {
       "ID": "objective_completed_35",
@@ -15186,7 +15191,7 @@
       "Name": "Seeking Allies",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10469
+      "UsersEstimate": 10470
     },
     {
       "ID": "objective_completed_390",
@@ -15258,7 +15263,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 14657
+      "UsersEstimate": 14658
     },
     {
       "ID": "objective_completed_40",
@@ -15530,7 +15535,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10469
+      "UsersEstimate": 10470
     },
     {
       "ID": "objective_completed_54",
@@ -15578,7 +15583,7 @@
       "Name": "The Dead Three",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1884
+      "UsersEstimate": 1885
     },
     {
       "ID": "objective_completed_546",
@@ -16464,9 +16469,9 @@
       "ID": "objective_completed_69",
       "SetID": "cc37lbc",
       "Name": "Escort to Waterdeep",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4188
+      "UsersEstimate": 6282
     },
     {
       "ID": "objective_completed_690",
@@ -16538,7 +16543,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 23032
+      "UsersEstimate": 23034
     },
     {
       "ID": "objective_completed_70",
@@ -16562,7 +16567,7 @@
       "Name": "The Long Haul",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1884
+      "UsersEstimate": 1885
     },
     {
       "ID": "objective_completed_74",
@@ -16586,7 +16591,7 @@
       "Name": "Easily Distracted",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1884
+      "UsersEstimate": 1885
     },
     {
       "ID": "objective_completed_77",
@@ -16610,7 +16615,7 @@
       "Name": "Friendly Imps",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10469
+      "UsersEstimate": 10470
     },
     {
       "ID": "objective_completed_80",
@@ -17138,7 +17143,7 @@
       "Name": "Pure Energy",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8375
+      "UsersEstimate": 8376
     },
     {
       "ID": "objective_completed_902",
@@ -17417,21 +17422,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 175658,
+      "Progressed": 175674,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 209384,
+      "Progressed": 209400,
       "Completed": 2043
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-09T11:58:07.1138008+00:00",
-  "LastChanged_Achievements": "2023-07-09T23:04:18.8129026+00:00",
+  "LastChanged_Achievements": "2023-07-10T00:03:55.1773487+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:43.9043947+00:00",
-  "LastUpdate_Ratings": "2023-07-09T22:58:21.4390555+00:00",
-  "LastUpdate_Achievements": "2023-07-09T23:04:18.8157994+00:00"
+  "LastUpdate_Ratings": "2023-07-09T23:58:03.5030657+00:00",
+  "LastUpdate_Achievements": "2023-07-10T00:03:55.1796804+00:00"
 }

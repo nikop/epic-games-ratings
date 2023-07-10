@@ -6,28 +6,28 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 58.00% | ~101,469 |
-| Where's that freaking Dwarf? | 45.00% | ~78,726 |
-| GG EZ | 27.00% | ~47,236 |
-| Speedrun | 26.00% | ~45,486 |
-| Déjà vu | 20.00% | ~34,989 |
-| Sock! SOCK! | 14.00% | ~24,493 |
-| DM intervention | 12.00% | ~20,994 |
-| Fireproof Wizardess | 7.00% | ~12,246 |
-| A beer, two curses, three companions | 6.00% | ~10,497 |
-| Way of the Wimp | 5.00% | ~8,747 |
-| Livin' in a dwarven paradise | 4.00% | ~6,998 |
-| The plot thickens... At the tavern | 4.00% | ~6,998 |
-| The Woman in the High Castle | 3.00% | ~5,248 |
-| The demons' feast | 2.00% | ~3,499 |
-| Res Judicata | 2.00% | ~3,499 |
-| I am the night | 2.00% | ~3,499 |
-| Team Building Exercise | 2.00% | ~3,499 |
-| Shiny and Crôm | 1.00% | ~1,749 |
-| The Great Library | 1.00% | ~1,749 |
-| Dwarf Fortress | 1.00% | ~1,749 |
-| The Ranger of Chaos | 1.00% | ~1,749 |
-| Oh, when I'll be level 10... | 1.00% | ~1,749 |
+| Alt+F4 | 58.00% | ~101,526 |
+| Where's that freaking Dwarf? | 45.00% | ~78,770 |
+| GG EZ | 27.00% | ~47,262 |
+| Speedrun | 26.00% | ~45,511 |
+| Déjà vu | 20.00% | ~35,009 |
+| Sock! SOCK! | 14.00% | ~24,506 |
+| DM intervention | 12.00% | ~21,005 |
+| Fireproof Wizardess | 7.00% | ~12,253 |
+| A beer, two curses, three companions | 6.00% | ~10,503 |
+| Way of the Wimp | 5.00% | ~8,752 |
+| Livin' in a dwarven paradise | 4.00% | ~7,002 |
+| The plot thickens... At the tavern | 4.00% | ~7,002 |
+| The Woman in the High Castle | 3.00% | ~5,251 |
+| The demons' feast | 2.00% | ~3,501 |
+| Res Judicata | 2.00% | ~3,501 |
+| I am the night | 2.00% | ~3,501 |
+| Team Building Exercise | 2.00% | ~3,501 |
+| Shiny and Crôm | 1.00% | ~1,750 |
+| The Great Library | 1.00% | ~1,750 |
+| Dwarf Fortress | 1.00% | ~1,750 |
+| The Ranger of Chaos | 1.00% | ~1,750 |
+| Oh, when I'll be level 10... | 1.00% | ~1,750 |
 | Torture and Sensibility | 0.90% | ~1,575 |
 | Thieves' Guild Accreditation | 0.90% | ~1,575 |
 | Lust and Debauchery | 0.70% | ~1,225 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 174,947 (Ranked 58)  
+Progressed: 175,044 (Ranked 58)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,6 +135,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-07 | 166,795 | 0 |
 | 2023-07-08 | 171,176 | 0 |
 | 2023-07-09 | 174,947 | 0 |
+| 2023-07-10 | 175,044 | 0 |
 ## Awards
 Max (Character Customization): 82  (Ranked 353)  
 Sum: 82 (Ranked 418)  

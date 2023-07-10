@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 804,
+  "EOS_Progressed": 805,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1209,6 +1209,11 @@
       "Time": "2023-07-09T17:03:39.3192122+00:00",
       "NumProgressed": 804,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-10T00:03:35.3217108+00:00",
+      "NumProgressed": 805,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -1300,7 +1305,7 @@
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -1316,7 +1321,7 @@
       "Name": "Critical Thinker",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "ACH_DISAGREE_AND_COMMIT",
@@ -1396,7 +1401,7 @@
       "Name": "Post No Bills",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "ACH_SEE_YOU_SPACE_COWBOY",
@@ -1412,7 +1417,7 @@
       "Name": "Solidarity Forever",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_THE_WEIGHT_OF_THE_WORLD",
@@ -1435,7 +1440,7 @@
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 804,
+      "Progressed": 805,
       "Completed": 0
     }
   ],
@@ -1443,8 +1448,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-27T22:57:40.9300302+00:00",
-  "LastChanged_Achievements": "2023-07-09T23:03:56.4040232+00:00",
+  "LastChanged_Achievements": "2023-07-10T00:03:35.3217102+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:46.7114279+00:00",
-  "LastUpdate_Ratings": "2023-07-09T22:57:39.0902841+00:00",
-  "LastUpdate_Achievements": "2023-07-09T23:03:56.4040491+00:00"
+  "LastUpdate_Ratings": "2023-07-09T23:57:29.7353704+00:00",
+  "LastUpdate_Achievements": "2023-07-10T00:03:35.3217301+00:00"
 }

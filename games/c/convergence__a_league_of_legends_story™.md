@@ -14,6 +14,7 @@
 | Breaking Down Barriers | 14.00% | ~105 |
 | The Prince in Heels | 14.00% | ~105 |
 | Immaculate Aim | 14.00% | ~105 |
+| The Brass Boss | 14.00% | ~105 |
 | The Family Fortune | 14.00% | ~105 |
 | Treasure Trove | 13.00% | ~97 |
 | The Betrayer | 13.00% | ~97 |
@@ -24,7 +25,6 @@
 | The Wicked Twins | 13.00% | ~97 |
 | Fast Learner | 13.00% | ~97 |
 | Immaculate Aim | 13.00% | ~97 |
-| The Brass Boss | 13.00% | ~97 |
 | Like Clockwork | 12.00% | ~90 |
 | Honest Mistake | 12.00% | ~90 |
 | Golem Chaser | 12.00% | ~90 |

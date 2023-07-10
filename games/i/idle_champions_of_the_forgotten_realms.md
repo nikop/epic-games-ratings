@@ -6,22 +6,23 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,408 |
-| The Mad Wizard | 11.00% | ~23,032 |
-| The Ring of Regeneration | 7.00% | ~14,657 |
-| Are Ya Chicken? | 7.00% | ~14,657 |
-| Were-verpowered | 6.00% | ~12,563 |
-| Seeking Allies | 5.00% | ~10,469 |
-| Mad Cow Disease | 5.00% | ~10,469 |
-| Friendly Imps | 5.00% | ~10,469 |
-| A Persistent Buzzing | 4.00% | ~8,375 |
-| Pure Energy | 4.00% | ~8,375 |
+| The Cursed Farmer | 15.00% | ~31,410 |
+| The Mad Wizard | 11.00% | ~23,034 |
+| The Ring of Regeneration | 7.00% | ~14,658 |
+| Are Ya Chicken? | 7.00% | ~14,658 |
+| Were-verpowered | 6.00% | ~12,564 |
+| Seeking Allies | 5.00% | ~10,470 |
+| Mad Cow Disease | 5.00% | ~10,470 |
+| Friendly Imps | 5.00% | ~10,470 |
+| A Persistent Buzzing | 4.00% | ~8,376 |
+| Pure Energy | 4.00% | ~8,376 |
 | Beast Mode | 3.00% | ~6,282 |
 | Terror in the Dark | 3.00% | ~6,282 |
 | Unearthed Evil | 3.00% | ~6,282 |
 | The Crumbling Temple | 3.00% | ~6,282 |
 | Exploring Port Nyanzaru | 3.00% | ~6,282 |
 | The Contagious Curse | 3.00% | ~6,282 |
+| Escort to Waterdeep | 3.00% | ~6,282 |
 | Low Initiative | 2.00% | ~4,188 |
 | A Mysterious Summons | 2.00% | ~4,188 |
 | Building Trust | 2.00% | ~4,188 |
@@ -29,7 +30,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | No Time To Rest | 2.00% | ~4,188 |
 | Useless Allies | 2.00% | ~4,188 |
 | Running of the Saurs | 2.00% | ~4,188 |
-| Escort to Waterdeep | 2.00% | ~4,188 |
 | Waterdeep Detours | 2.00% | ~4,188 |
 | Underdeep Cartography | 2.00% | ~4,188 |
 | Overdue Rendezvous | 2.00% | ~4,188 |
@@ -49,12 +49,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Constant Banditry | 1.00% | ~2,094 |
 | Lost in the Deep | 1.00% | ~2,094 |
 | Rescue in the Jungle | 1.00% | ~2,094 |
-| The Lost Heir of Omu | 0.90% | ~1,884 |
-| The Forbidden City | 0.90% | ~1,884 |
-| Attack on the Manor | 0.90% | ~1,884 |
-| The Dead Three | 0.90% | ~1,884 |
-| The Long Haul | 0.90% | ~1,884 |
-| Easily Distracted | 0.90% | ~1,884 |
+| The Lost Heir of Omu | 0.90% | ~1,885 |
+| The Forbidden City | 0.90% | ~1,885 |
+| Attack on the Manor | 0.90% | ~1,885 |
+| The Dead Three | 0.90% | ~1,885 |
+| The Long Haul | 0.90% | ~1,885 |
+| Easily Distracted | 0.90% | ~1,885 |
 | Captured! | 0.80% | ~1,675 |
 | Wisdom Check | 0.80% | ~1,675 |
 | A Grand Puzzle | 0.80% | ~1,675 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209,384 (Ranked 52)  
+Progressed: 209,400 (Ranked 52)  
 Completed: 2,043 (0.98%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -591,6 +591,7 @@ Completed: 2,043 (0.98%) (Ranked 102)
 | 2023-07-07 | 208,152 | 2,037 |
 | 2023-07-08 | 208,782 | 2,041 |
 | 2023-07-09 | 209,384 | 2,043 |
+| 2023-07-10 | 209,400 | 2,043 |
 ## Awards
 Max (Diverse Characters): 5,016  (Ranked 65)  
 Sum: 30,455 (Ranked 37)  

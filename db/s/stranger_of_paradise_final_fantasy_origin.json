@@ -1564,7 +1564,7 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 79023,
+  "EOS_Progressed": 79024,
   "EOS_Completed": 2147,
   "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 2,
@@ -5734,6 +5734,11 @@
       "Time": "2023-07-09T22:05:37.4810067+00:00",
       "NumProgressed": 79023,
       "NumCompleted": 2147
+    },
+    {
+      "Time": "2023-07-10T00:04:37.4699598+00:00",
+      "NumProgressed": 79024,
+      "NumCompleted": 2147
     }
   ],
   "TotalAchievements": 46,
@@ -5753,7 +5758,7 @@
       "Name": "Hopes and Dreams",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 64799
+      "UsersEstimate": 64800
     },
     {
       "ID": "002_TROPHY_MISSION_JOURNEY_BEGIN",
@@ -5761,7 +5766,7 @@
       "Name": "The Pirate\u0027s Way",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 58477
+      "UsersEstimate": 58478
     },
     {
       "ID": "003_TROPHY_MISSION_DARK_ELF",
@@ -5777,7 +5782,7 @@
       "Name": "Distortion\u0027s Progeny",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 49784
+      "UsersEstimate": 49785
     },
     {
       "ID": "005_TROPHY_MISSION_FAMILIAR_PLACE",
@@ -5785,7 +5790,7 @@
       "Name": "A Landscape of Memory",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 45833
+      "UsersEstimate": 45834
     },
     {
       "ID": "006_TROPHY_MISSION_WIND_MEMORIES",
@@ -5793,7 +5798,7 @@
       "Name": "The Wind\u0027s Light",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 42672
+      "UsersEstimate": 42673
     },
     {
       "ID": "007_TROPHY_MISSION_POISON_MEMORIES",
@@ -5801,7 +5806,7 @@
       "Name": "Vague Remembrances",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 38721
+      "UsersEstimate": 38722
     },
     {
       "ID": "008_TROPHY_MISSION_FIRE_MEMORIES",
@@ -5825,7 +5830,7 @@
       "Name": "The Earth\u0027s Light",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 35560
+      "UsersEstimate": 35561
     },
     {
       "ID": "011_TROPHY_MISSION_REMEMBER",
@@ -5841,7 +5846,7 @@
       "Name": "The Water\u0027s Light",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 31609
+      "UsersEstimate": 31610
     },
     {
       "ID": "013_TROPHY_MISSION_PAST_SCHEME",
@@ -5857,7 +5862,7 @@
       "Name": "Duty\u0027s Course",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 28448
+      "UsersEstimate": 28449
     },
     {
       "ID": "015_TROPHY_MISSION_SUFFERING_OF_FOOL",
@@ -5873,7 +5878,7 @@
       "Name": "Terminus of Fate",
       "Percentage": 32,
       "XP": 60,
-      "UsersEstimate": 25287
+      "UsersEstimate": 25288
     },
     {
       "ID": "017_TROPHY_CLEAR_CHAOS_DIFFICULTY",
@@ -5897,7 +5902,7 @@
       "Name": "Memories of the Distant Past",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 52155
+      "UsersEstimate": 52156
     },
     {
       "ID": "020_TROPHY_COMPLETE_SUB_MISSION",
@@ -5913,7 +5918,7 @@
       "Name": "Manifestation of the Soul",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 76652
+      "UsersEstimate": 76653
     },
     {
       "ID": "022_TROPHY_FIRST_WEAPON_ABILITY",
@@ -5929,7 +5934,7 @@
       "Name": "No Escape",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 67960
+      "UsersEstimate": 67961
     },
     {
       "ID": "024_TROPHY_DEFEAT_UTON",
@@ -5937,7 +5942,7 @@
       "Name": "Lantern Smasher",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 61638
+      "UsersEstimate": 61639
     },
     {
       "ID": "025_TROPHY_FIRST_ANIMA_FRAGMENT",
@@ -5953,7 +5958,7 @@
       "Name": "Seeker of Ultimate Power",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 18175
+      "UsersEstimate": 18176
     },
     {
       "ID": "027_TROPHY_FIRST_ARTIFACT",
@@ -5993,7 +5998,7 @@
       "Name": "Savant",
       "Percentage": 62,
       "XP": 60,
-      "UsersEstimate": 48994
+      "UsersEstimate": 48995
     },
     {
       "ID": "032_TROPHY_USED_MASTER_POINT",
@@ -6001,7 +6006,7 @@
       "Name": "Master\u0027s Awakening",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 15014
+      "UsersEstimate": 15015
     },
     {
       "ID": "033_TROPHY_ACHIEVED_MASTER_FOUR_RANK_JOB",
@@ -6017,7 +6022,7 @@
       "Name": "Dark Crystal, Warrior\u0027s Heart",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 56106
+      "UsersEstimate": 56107
     },
     {
       "ID": "035_TROPHY_UNLOCKED_ALL_JOB",
@@ -6025,7 +6030,7 @@
       "Name": "Jack-of-All-Trades",
       "Percentage": 19,
       "XP": 60,
-      "UsersEstimate": 15014
+      "UsersEstimate": 15015
     },
     {
       "ID": "036_TROPHY_UNLOCKED_DARK_KNIGHT",
@@ -6057,7 +6062,7 @@
       "Name": "Path of the Assassin",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 25287
+      "UsersEstimate": 25288
     },
     {
       "ID": "040_TROPHY_UNLOCKED_LIBERATOR",
@@ -6097,7 +6102,7 @@
       "Name": "Path of the Sage",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 31609
+      "UsersEstimate": 31610
     },
     {
       "ID": "045_TROPHY_UNLOCKED_CYCLIC_WARRIOR",
@@ -6105,22 +6110,22 @@
       "Name": "His Name Is Garland",
       "Percentage": 32,
       "XP": 60,
-      "UsersEstimate": 25287
+      "UsersEstimate": 25288
     }
   ],
   "AchievementSets": [
     {
       "ID": "4ajkb4b",
       "IsBase": true,
-      "Progressed": 79023,
+      "Progressed": 79024,
       "Completed": 2147
     }
   ],
   "FirstSeen": "2022-07-22T20:20:02.4554088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.9238722+00:00",
   "LastChanged": "2023-07-09T05:01:12.2423591+00:00",
-  "LastChanged_Achievements": "2023-07-09T23:05:11.4482336+00:00",
+  "LastChanged_Achievements": "2023-07-10T00:04:37.4699593+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:10.4377649+00:00",
-  "LastUpdate_Ratings": "2023-07-09T23:00:11.1886547+00:00",
-  "LastUpdate_Achievements": "2023-07-09T23:05:11.4483027+00:00"
+  "LastUpdate_Ratings": "2023-07-09T23:59:38.4688988+00:00",
+  "LastUpdate_Achievements": "2023-07-10T00:04:37.4700079+00:00"
 }

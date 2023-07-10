@@ -8,12 +8,12 @@
 | Defenses Online | 41.00% | ~159 |
 | Facility Online | 36.00% | ~140 |
 | Corporal | 27.00% | ~105 |
-| Covert Operative | 22.00% | ~85 |
+| Covert Operative | 22.00% | ~86 |
 | Sergeant | 19.00% | ~74 |
 | Lieutenant | 14.00% | ~54 |
 | Stocking Up | 14.00% | ~54 |
 | On Target | 14.00% | ~54 |
-| Infantry Reporting | 13.00% | ~50 |
+| Infantry Reporting | 13.00% | ~51 |
 | Keeping Busy | 12.00% | ~47 |
 | Getting Deployment | 12.00% | ~47 |
 | Fighting for Survival | 10.00% | ~39 |
@@ -43,7 +43,7 @@
 | Platinum Achiever | 0.00% | ~0 |
 | Platinum Competitor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 388 (Ranked 229)  
+Progressed: 389 (Ranked 229)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,3 +75,4 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-07 | 362 | 0 |
 | 2023-07-08 | 374 | 0 |
 | 2023-07-09 | 388 | 0 |
+| 2023-07-10 | 389 | 0 |

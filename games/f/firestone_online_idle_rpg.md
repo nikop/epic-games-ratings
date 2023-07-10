@@ -5,14 +5,14 @@ Rating: 4.09 (Ranked 890)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,488 |
-| World Map | 79.00% | ~1,264 |
-| Temple of Eternals | 56.00% | ~896 |
-| Prestigious | 53.00% | ~848 |
+| Victor | 93.00% | ~1,489 |
+| World Map | 79.00% | ~1,265 |
+| Temple of Eternals | 56.00% | ~897 |
+| Prestigious | 53.00% | ~849 |
 | Fellowship Power | 41.00% | ~656 |
-| Guild Power | 25.00% | ~400 |
+| Guild Power | 24.00% | ~384 |
 | Prestigious x10 | 21.00% | ~336 |
-| The game is on | 20.00% | ~320 |
+| The game is on | 19.00% | ~304 |
 | Exotic Merchant | 17.00% | ~272 |
 | Dragon Clicker | 16.00% | ~256 |
 | Miner Clicker | 16.00% | ~256 |
@@ -32,13 +32,13 @@ Rating: 4.09 (Ranked 890)
 | Challenger | 9.00% | ~144 |
 | Daily Quest Completionist | 9.00% | ~144 |
 | Doing My Part | 9.00% | ~144 |
-| Four Leaf Clover | 9.00% | ~144 |
 | Frostfire Liberator | 9.00% | ~144 |
 | Mastery | 9.00% | ~144 |
 | Moving Up The Ladder | 9.00% | ~144 |
 | Relic Of The Past | 9.00% | ~144 |
 | Scroll Master | 9.00% | ~144 |
 | The power of Awakening | 9.00% | ~144 |
+| Four Leaf Clover | 8.00% | ~128 |
 | Here We Go Again | 7.00% | ~112 |
 | Master Enchanter | 7.00% | ~112 |
 | The father of Dragons | 7.00% | ~112 |
@@ -63,25 +63,25 @@ Rating: 4.09 (Ranked 890)
 | What lies behind the bush | 3.00% | ~48 |
 | Ebony Jungle Liberator | 2.00% | ~32 |
 | Mythic Power | 1.00% | ~16 |
-| Training makes a Pro player | 0.80% | ~13 |
 | Gear Enchanting | 0.70% | ~11 |
 | Guardian Master | 0.70% | ~11 |
+| Training makes a Pro player | 0.70% | ~11 |
 | Transmute | 0.60% | ~10 |
 | Tree of Life | 0.50% | ~8 |
 | Cauldron Liberator | 0.40% | ~6 |
 | Enchanting skill x5 | 0.40% | ~6 |
 | Pokerface | 0.40% | ~6 |
-| Angel Power | 0.30% | ~5 |
 | Beast War Machines | 0.30% | ~5 |
-| Conqueror | 0.30% | ~5 |
 | Enhanced War Machines | 0.30% | ~5 |
-| Silverwood liberator | 0.30% | ~5 |
 | Titan Power | 0.30% | ~5 |
-| Ultimate War Machines | 0.30% | ~5 |
+| Angel Power | 0.20% | ~3 |
+| Conqueror | 0.20% | ~3 |
+| Silverwood liberator | 0.20% | ~3 |
+| Ultimate War Machines | 0.20% | ~3 |
 | War Machines Army | 0.20% | ~3 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,600 (Ranked 168)  
+Progressed: 1,601 (Ranked 168)  
 Completed: 1 (0.06%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,6 +162,7 @@ Completed: 1 (0.06%) (Ranked 197)
 | 2023-07-07 | 1,584 | 1 |
 | 2023-07-08 | 1,591 | 1 |
 | 2023-07-09 | 1,600 | 1 |
+| 2023-07-10 | 1,601 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

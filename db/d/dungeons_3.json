@@ -2332,9 +2332,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 23345,
+  "EOS_Progressed": 23346,
   "EOS_Completed": 195,
-  "EOS_NewPlayers": 864,
+  "EOS_NewPlayers": 862,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.84,
   "EosHistory": [
@@ -10807,6 +10807,11 @@
       "Time": "2023-07-09T23:06:18.8286829+00:00",
       "NumProgressed": 23345,
       "NumCompleted": 195
+    },
+    {
+      "Time": "2023-07-10T00:05:32.2383651+00:00",
+      "NumProgressed": 23346,
+      "NumCompleted": 195
     }
   ],
   "TotalAchievements": 60,
@@ -10834,7 +10839,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 13540
+      "UsersEstimate": 13541
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -10858,7 +10863,7 @@
       "Name": "At the foot of Mount Destiny",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 5369
+      "UsersEstimate": 5370
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_1",
@@ -10866,7 +10871,7 @@
       "Name": "This is fun, I\u2019m going to keep doing this!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 2801
+      "UsersEstimate": 2802
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_2",
@@ -10922,7 +10927,7 @@
       "Name": "The White Knight",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 2334
+      "UsersEstimate": 2335
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_Completed",
@@ -10930,7 +10935,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 11672
+      "UsersEstimate": 11673
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -10954,7 +10959,7 @@
       "Name": "Stock Market Crash",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 7470
+      "UsersEstimate": 7471
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_1",
@@ -10970,7 +10975,7 @@
       "Name": "Then let them eat cake!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 2801
+      "UsersEstimate": 2802
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_Completed",
@@ -11034,7 +11039,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 9571
+      "UsersEstimate": 9572
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -11050,7 +11055,7 @@
       "Name": "Rusty Steel",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 9571
+      "UsersEstimate": 9572
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -11178,7 +11183,7 @@
       "Name": "Factory farming",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 7470
+      "UsersEstimate": 7471
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_2",
@@ -11202,7 +11207,7 @@
       "Name": "Death and destruction!",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 10505
+      "UsersEstimate": 10506
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -11218,7 +11223,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 16341
+      "UsersEstimate": 16342
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -11282,7 +11287,7 @@
       "Name": "Please, no interruptions!",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 2334
+      "UsersEstimate": 2335
     },
     {
       "ID": "ACH_D3_Campaign_Water_Completed",
@@ -11297,15 +11302,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 23345,
+      "Progressed": 23346,
       "Completed": 195
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-07-09T19:00:10.588856+00:00",
-  "LastChanged_Achievements": "2023-07-09T23:06:18.8286822+00:00",
+  "LastChanged_Achievements": "2023-07-10T00:05:32.2383645+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:22.120746+00:00",
-  "LastUpdate_Ratings": "2023-07-09T22:59:32.5819255+00:00",
-  "LastUpdate_Achievements": "2023-07-09T23:06:18.8287998+00:00"
+  "LastUpdate_Ratings": "2023-07-09T23:59:06.821846+00:00",
+  "LastUpdate_Achievements": "2023-07-10T00:05:32.2384475+00:00"
 }

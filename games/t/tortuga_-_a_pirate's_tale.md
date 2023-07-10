@@ -1,25 +1,25 @@
 # Tortuga - A Pirate's Tale
 [Store](https://store.epicgames.com/en-US/p/tortuga-a-pirates-tale-e02635)  
 [View Rawdata](../../db/t/tortuga_-_a_pirate's_tale.json)  
-Rating: 3.82 (Ranked 936)  
+Rating: 3.81 (Ranked 939)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~15,051 |
-| No Half Measures | 88.00% | ~13,942 |
-| Personal Matter | 87.00% | ~13,783 |
-| But You Have Heard of Me | 72.00% | ~11,407 |
+| Eeligally Ambitious | 95.00% | ~15,052 |
+| No Half Measures | 88.00% | ~13,943 |
+| Personal Matter | 86.00% | ~13,626 |
+| But You Have Heard of Me | 72.00% | ~11,408 |
 | Double the Barrels, double the Fun | 55.00% | ~8,714 |
-| Pimp My Glide | 47.00% | ~7,446 |
+| Pimp My Glide | 47.00% | ~7,447 |
 | ... And Where Do the Stories Come From? | 41.00% | ~6,496 |
 | House Party! | 34.00% | ~5,387 |
-| Make It Rain | 24.00% | ~3,802 |
-| Curse of the Seven Seas | 22.00% | ~3,485 |
+| Make It Rain | 24.00% | ~3,803 |
+| Curse of the Seven Seas | 22.00% | ~3,486 |
 | Head First | 16.00% | ~2,535 |
 | To the World's End | 12.00% | ~1,901 |
 | Table for Six | 11.00% | ~1,743 |
 | Sharing Is Caring | 10.00% | ~1,584 |
-| I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,267 |
+| I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,268 |
 | Morally Flexible | 6.00% | ~951 |
 | Fishing for Compliments | 5.00% | ~792 |
 | After All, Why Shouldn't I Keep It? | 3.00% | ~475 |
@@ -32,7 +32,7 @@ Rating: 3.82 (Ranked 936)
 | Pufferfish | 0.10% | ~16 |
 | O Captain! My Captain! | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,843 (Ranked 106)  
+Progressed: 15,844 (Ranked 106)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,6 +113,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-07 | 15,839 | 0 |
 | 2023-07-08 | 15,841 | 0 |
 | 2023-07-09 | 15,843 | 0 |
+| 2023-07-10 | 15,844 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -154,3 +155,4 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-06-08 | 3.82 | 0 | 0 |
 | 2023-06-16 | 3.83 | 0 | 0 |
 | 2023-06-29 | 3.82 | 0 | 0 |
+| 2023-07-09 | 3.81 | 0 | 0 |
