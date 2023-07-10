@@ -5,27 +5,27 @@ Rating: 4.49 (Ranked 575)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~20,747 |
+| Stylish | 86.00% | ~20,748 |
 | Advancement | 73.00% | ~17,611 |
-| Meticulously Efficient | 64.00% | ~15,439 |
+| Meticulously Efficient | 64.00% | ~15,440 |
 | Discovery | 61.00% | ~14,716 |
-| Fully Upgraded | 54.00% | ~13,027 |
-| Swift Rift Removers | 54.00% | ~13,027 |
-| Cultured | 52.00% | ~12,544 |
-| I collect Spores, Molds, and Fungi | 51.00% | ~12,303 |
+| Fully Upgraded | 54.00% | ~13,028 |
+| Swift Rift Removers | 54.00% | ~13,028 |
+| Cultured | 52.00% | ~12,545 |
+| I collect Spores, Molds, and Fungi | 51.00% | ~12,304 |
 | Vaporous Expansion | 48.00% | ~11,580 |
 | Teamwork | 44.00% | ~10,615 |
-| There you are! | 43.00% | ~10,373 |
+| There you are! | 43.00% | ~10,374 |
 | Clutch Capture | 41.00% | ~9,891 |
-| Back Off | 35.00% | ~8,443 |
+| Back Off | 35.00% | ~8,444 |
 | Daily Dose | 34.00% | ~8,202 |
 | Solo Capture | 32.00% | ~7,720 |
 | Welcome to the Crew | 32.00% | ~7,720 |
-| Ghostbuster In Training | 30.00% | ~7,237 |
-| Icing on the Cake | 30.00% | ~7,237 |
-| We have the best insurance | 27.00% | ~6,513 |
-| Side Hustle | 27.00% | ~6,513 |
-| Summoner | 27.00% | ~6,513 |
+| Ghostbuster In Training | 30.00% | ~7,238 |
+| Icing on the Cake | 30.00% | ~7,238 |
+| We have the best insurance | 27.00% | ~6,514 |
+| Side Hustle | 27.00% | ~6,514 |
+| Summoner | 27.00% | ~6,514 |
 | Legions | 26.00% | ~6,272 |
 | Pesky Jerks | 26.00% | ~6,272 |
 | Right back at ya | 26.00% | ~6,272 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 575)
 | Mycophile | 1.00% | ~241 |
 | I don't need these | 0.90% | ~217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,124 (Ranked 97)  
+Progressed: 24,125 (Ranked 97)  
 Completed: 46 (0.19%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 46 (0.19%) (Ranked 165)
 | 2023-07-07 | 24,081 | 46 |
 | 2023-07-08 | 24,104 | 46 |
 | 2023-07-09 | 24,117 | 46 |
-| 2023-07-10 | 24,124 | 46 |
+| 2023-07-10 | 24,125 | 46 |
 ## Awards
 Max (Great for Quick Sessions): 240  (Ranked 249)  
 Sum: 2,154 (Ranked 189)  

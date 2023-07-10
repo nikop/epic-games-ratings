@@ -6,21 +6,21 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 41.00% | ~5,661 |
+| Tattletale | 41.00% | ~5,662 |
 | Man of politics | 35.00% | ~4,833 |
 | Friends of sorts | 34.00% | ~4,695 |
 | Yet another secret | 34.00% | ~4,695 |
 | Let there be darkness | 33.00% | ~4,557 |
-| End of Book One | 31.00% | ~4,280 |
+| End of Book One | 31.00% | ~4,281 |
 | Wannabe knight | 24.00% | ~3,314 |
 | Garden of Eden | 24.00% | ~3,314 |
 | Full house | 24.00% | ~3,314 |
 | Help an old friend | 22.00% | ~3,038 |
 | Two of us | 20.00% | ~2,762 |
 | Negotiation skills | 19.00% | ~2,624 |
-| Workers' union | 18.00% | ~2,485 |
-| End of Book Two | 18.00% | ~2,485 |
-| Everything's in order | 17.00% | ~2,347 |
+| Workers' union | 18.00% | ~2,486 |
+| End of Book Two | 18.00% | ~2,486 |
+| Everything's in order | 17.00% | ~2,348 |
 | Jack was here! | 15.00% | ~2,071 |
 | Twist of Fate | 14.00% | ~1,933 |
 | Exterminator | 14.00% | ~1,933 |
@@ -37,7 +37,7 @@ Number of Ratings: 368  (23.09.2022)
 | The End. | 9.00% | ~1,243 |
 | A cry for help | 8.00% | ~1,105 |
 | Silentium est aureum | 7.00% | ~967 |
-| Rebel without a cause | 6.00% | ~828 |
+| Rebel without a cause | 6.00% | ~829 |
 | Staring contest champion | 5.00% | ~690 |
 | Lone wolf | 5.00% | ~690 |
 | Vox Populi | 5.00% | ~690 |
@@ -48,8 +48,8 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~414 |
 | Boy of mystery | 2.00% | ~276 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,808 (Ranked 111)  
-Completed: 104 (0.75%) (Ranked 111)  
+Progressed: 13,809 (Ranked 111)  
+Completed: 105 (0.76%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -129,7 +129,7 @@ Completed: 104 (0.75%) (Ranked 111)
 | 2023-07-07 | 13,761 | 104 |
 | 2023-07-08 | 13,780 | 104 |
 | 2023-07-09 | 13,801 | 104 |
-| 2023-07-10 | 13,808 | 104 |
+| 2023-07-10 | 13,809 | 105 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 293)  
 Sum: 188 (Ranked 366)  

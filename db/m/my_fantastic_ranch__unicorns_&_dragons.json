@@ -4,8 +4,8 @@
   "ProductSlug": "my-fantastic-ranch",
   "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-11-17T09:00:00+00:00",
     "PcReleaseDate": "2022-11-17T09:00:00+00:00",
@@ -212,9 +212,9 @@
       "ID": "17",
       "SetID": "6ljhbe4",
       "Name": "Protected Nature Reserve",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "18",
@@ -276,9 +276,9 @@
       "ID": "24",
       "SetID": "6ljhbe4",
       "Name": "Fully Booked!",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "25",
@@ -357,8 +357,8 @@
   "FirstSeenRating": "2023-03-31T05:58:20.5434938+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.8838282+00:00",
   "LastChanged": "2023-03-31T05:58:20.5434939+00:00",
-  "LastChanged_Achievements": "2023-07-10T12:06:44.6195108+00:00",
+  "LastChanged_Achievements": "2023-07-10T13:24:01.6809698+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:30.0875314+00:00",
-  "LastUpdate_Ratings": "2023-07-10T11:59:00.2501491+00:00",
-  "LastUpdate_Achievements": "2023-07-10T12:06:44.6195251+00:00"
+  "LastUpdate_Ratings": "2023-07-10T13:16:14.5677624+00:00",
+  "LastUpdate_Achievements": "2023-07-10T13:24:01.680991+00:00"
 }

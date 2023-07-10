@@ -4,7 +4,7 @@
 Rating: 4.66 (Ranked 270)  
 ## Awards
 Max (Quickly Understood Controls): 79  (Ranked 354)  
-Sum: 615 (Ranked 288)  
+Sum: 617 (Ranked 288)  
 Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +16,7 @@ Diff (max vs sum): 66
 | This game is Extremely Fun | 64 |
 | This game is Highly Recommended | 64 |
 | This game is Relaxing | 64 |
-| This game has Challenging Combat | 61 |
+| This game has Challenging Combat | 63 |
 | This game is Educational | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -70,4 +70,4 @@ Diff (max vs sum): 66
 | 2023-07-07 | 4.66 | 79 | 594 |
 | 2023-07-08 | 4.66 | 79 | 603 |
 | 2023-07-09 | 4.66 | 79 | 613 |
-| 2023-07-10 | 4.66 | 79 | 615 |
+| 2023-07-10 | 4.66 | 79 | 617 |

@@ -2592,11 +2592,11 @@
       "Count": 481
     }
   ],
-  "EOS_Progressed": 6368,
+  "EOS_Progressed": 6369,
   "EOS_Completed": 164,
-  "EOS_NewPlayers": 493,
+  "EOS_NewPlayers": 490,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 2.58,
+  "EOS_Completed_Percentage": 2.57,
   "EosHistory": [
     {
       "Time": "2023-06-13T12:05:01.9582543+00:00",
@@ -5492,6 +5492,11 @@
       "Time": "2023-07-10T12:02:25.3746081+00:00",
       "NumProgressed": 6368,
       "NumCompleted": 164
+    },
+    {
+      "Time": "2023-07-10T13:20:11.5436173+00:00",
+      "NumProgressed": 6369,
+      "NumCompleted": 164
     }
   ],
   "TotalAchievements": 15,
@@ -5519,7 +5524,7 @@
       "Name": "Bestest Friend",
       "Percentage": 53,
       "XP": 75,
-      "UsersEstimate": 3375
+      "UsersEstimate": 3376
     },
     {
       "ID": "Chef_Cook",
@@ -5599,7 +5604,7 @@
       "Name": "Renovator",
       "Percentage": 55,
       "XP": 100,
-      "UsersEstimate": 3502
+      "UsersEstimate": 3503
     },
     {
       "ID": "Thorn_Cleaner",
@@ -5615,14 +5620,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 68,
       "XP": 100,
-      "UsersEstimate": 4330
+      "UsersEstimate": 4331
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 6368,
+      "Progressed": 6369,
       "Completed": 164
     }
   ],
@@ -5630,8 +5635,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-07-09T22:58:19.9300063+00:00",
-  "LastChanged_Achievements": "2023-07-10T12:02:25.3746076+00:00",
+  "LastChanged_Achievements": "2023-07-10T13:20:11.5436168+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:42.1936986+00:00",
-  "LastUpdate_Ratings": "2023-07-10T11:58:26.4235234+00:00",
-  "LastUpdate_Achievements": "2023-07-10T12:02:25.37463+00:00"
+  "LastUpdate_Ratings": "2023-07-10T13:15:38.55571+00:00",
+  "LastUpdate_Achievements": "2023-07-10T13:20:11.54365+00:00"
 }

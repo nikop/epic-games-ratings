@@ -7,13 +7,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | No Deaths | 4.00% | ~630 |
-| First Real Expedition | 3.00% | ~472 |
-| Overcoming Difficulty | 3.00% | ~472 |
-| Fertile Meadows | 3.00% | ~472 |
-| Coral Forest | 3.00% | ~472 |
-| The Marshlands | 3.00% | ~472 |
-| The Scarlet Orchard | 3.00% | ~472 |
-| Taking Action | 3.00% | ~472 |
+| First Real Expedition | 3.00% | ~473 |
+| Overcoming Difficulty | 3.00% | ~473 |
+| Fertile Meadows | 3.00% | ~473 |
+| Coral Forest | 3.00% | ~473 |
+| The Marshlands | 3.00% | ~473 |
+| The Scarlet Orchard | 3.00% | ~473 |
+| Taking Action | 3.00% | ~473 |
 | Homesick | 2.00% | ~315 |
 | Against All Odds | 2.00% | ~315 |
 | Bandit Camp | 2.00% | ~315 |
@@ -34,30 +34,30 @@ Number of Ratings: 1,845  (23.09.2022)
 | A Real Challenge | 2.00% | ~315 |
 | Like a Machine | 2.00% | ~315 |
 | Trade Baron | 2.00% | ~315 |
-| Serving Ale | 1.00% | ~157 |
-| Refinery | 1.00% | ~157 |
-| Ruined Armory | 1.00% | ~157 |
-| Fishmen Ritual Site | 1.00% | ~157 |
-| Forbidden Lands | 1.00% | ~157 |
-| Forsaken Gods Temple | 1.00% | ~157 |
-| Defying the Crown | 1.00% | ~157 |
-| Into the Forest | 1.00% | ~157 |
+| Serving Ale | 1.00% | ~158 |
+| Refinery | 1.00% | ~158 |
+| Ruined Armory | 1.00% | ~158 |
+| Fishmen Ritual Site | 1.00% | ~158 |
+| Forbidden Lands | 1.00% | ~158 |
+| Forsaken Gods Temple | 1.00% | ~158 |
+| Defying the Crown | 1.00% | ~158 |
+| Into the Forest | 1.00% | ~158 |
 | Efficient Explorer | 0.70% | ~110 |
 | Prestigious Expedition | 0.70% | ~110 |
 | Blood Flower Farmer | 0.70% | ~110 |
-| Victory through Prosperity | 0.60% | ~94 |
+| Victory through Prosperity | 0.60% | ~95 |
 | Feeding The People | 0.50% | ~79 |
 | Lizard Utopia | 0.50% | ~79 |
 | Beaver Utopia | 0.40% | ~63 |
 | Human Utopia | 0.40% | ~63 |
 | The Queen's Chosen | 0.40% | ~63 |
 | Harpy Utopia | 0.30% | ~47 |
-| Treasure | 0.20% | ~31 |
-| Ruins | 0.20% | ~31 |
+| Treasure | 0.20% | ~32 |
+| Ruins | 0.20% | ~32 |
 | Paradise | 0.10% | ~16 |
 | Higher Needs | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,749 (Ranked 107)  
+Progressed: 15,751 (Ranked 107)  
 Completed: 40 (0.25%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 40 (0.25%) (Ranked 153)
 | 2023-07-07 | 15,694 | 40 |
 | 2023-07-08 | 15,719 | 40 |
 | 2023-07-09 | 15,740 | 40 |
-| 2023-07-10 | 15,749 | 40 |
+| 2023-07-10 | 15,751 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 418  (Ranked 203)  
 Sum: 3,063 (Ranked 156)  

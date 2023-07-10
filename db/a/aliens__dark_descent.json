@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2779,
+  "EOS_Progressed": 2780,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 303,
+  "EOS_NewPlayers": 298,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2203,6 +2203,11 @@
       "Time": "2023-07-10T12:06:41.2639478+00:00",
       "NumProgressed": 2779,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-10T13:23:58.3092056+00:00",
+      "NumProgressed": 2780,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2252,9 +2257,9 @@
       "ID": "ACH_BARREL_KILL",
       "SetID": "816efe",
       "Name": "Colonial Barrels",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1251
+      "UsersEstimate": 1279
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -2270,7 +2275,7 @@
       "Name": "Stuff Of Nightmares",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "ACH_FINISH_HARD",
@@ -2310,7 +2315,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 2001
+      "UsersEstimate": 2002
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -2374,7 +2379,7 @@
       "Name": "Bandage Lover",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "ACH_MAX_RECON",
@@ -2382,7 +2387,7 @@
       "Name": "Frontliner",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "ACH_MAX_SERGEANT",
@@ -2390,7 +2395,7 @@
       "Name": "Come on, You Wanna Live Forever?",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "ACH_MAX_TECKER",
@@ -2398,7 +2403,7 @@
       "Name": "The Cable Guy",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "ACH_MISSION_01",
@@ -2406,7 +2411,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 1584
+      "UsersEstimate": 1585
     },
     {
       "ID": "ACH_MISSION_02",
@@ -2414,7 +2419,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 1306
+      "UsersEstimate": 1307
     },
     {
       "ID": "ACH_MISSION_03",
@@ -2422,7 +2427,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1029
     },
     {
       "ID": "ACH_MISSION_04",
@@ -2438,7 +2443,7 @@
       "Name": "Where It All Begun",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "ACH_MISSION_06",
@@ -2462,7 +2467,7 @@
       "Name": "Deep Into Insanity",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "ACH_MISSION_09",
@@ -2470,7 +2475,7 @@
       "Name": "The Passenger",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "ACH_MISSION_10",
@@ -2518,7 +2523,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 2223
+      "UsersEstimate": 2224
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -2526,7 +2531,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 1556
+      "UsersEstimate": 1557
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -2550,7 +2555,7 @@
       "Name": "Recouped Investment",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -2566,14 +2571,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1445
+      "UsersEstimate": 1446
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 2779,
+      "Progressed": 2780,
       "Completed": 0
     }
   ],
@@ -2581,8 +2586,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-09T20:59:26.8996663+00:00",
-  "LastChanged_Achievements": "2023-07-10T12:06:41.2639472+00:00",
+  "LastChanged_Achievements": "2023-07-10T13:23:58.3092052+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:32.529009+00:00",
-  "LastUpdate_Ratings": "2023-07-10T11:59:46.1483843+00:00",
-  "LastUpdate_Achievements": "2023-07-10T12:06:41.2639975+00:00"
+  "LastUpdate_Ratings": "2023-07-10T13:17:03.7293854+00:00",
+  "LastUpdate_Achievements": "2023-07-10T13:23:58.3092638+00:00"
 }

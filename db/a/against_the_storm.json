@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 153,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2474,9 +2474,9 @@
       "Count": 310
     }
   ],
-  "EOS_Progressed": 15749,
+  "EOS_Progressed": 15751,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -6914,6 +6914,11 @@
       "Time": "2023-07-10T11:06:58.956716+00:00",
       "NumProgressed": 15749,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-07-10T13:24:06.8486267+00:00",
+      "NumProgressed": 15751,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 50,
@@ -6925,7 +6930,7 @@
       "Name": "Serving Ale",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "AllFood",
@@ -6997,7 +7002,7 @@
       "Name": "Refinery",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "Win5Years",
@@ -7013,7 +7018,7 @@
       "Name": "First Real Expedition",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "WinHard",
@@ -7021,7 +7026,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "WinImpossible",
@@ -7037,7 +7042,7 @@
       "Name": "Ruined Armory",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "WinNearBandit",
@@ -7085,7 +7090,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "WinNearFishmen",
@@ -7093,7 +7098,7 @@
       "Name": "Fishmen Ritual Site",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "WinNearForbidden",
@@ -7101,7 +7106,7 @@
       "Name": "Forbidden Lands",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "WinNearHaunted",
@@ -7165,7 +7170,7 @@
       "Name": "Forsaken Gods Temple",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "WinNearTorrent",
@@ -7189,7 +7194,7 @@
       "Name": "Coral Forest",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "WinOnCursed",
@@ -7205,7 +7210,7 @@
       "Name": "The Marshlands",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "WinOnMoorlands",
@@ -7213,7 +7218,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "WinPrestige10",
@@ -7245,7 +7250,7 @@
       "Name": "Treasure",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "WinWithBlight",
@@ -7261,7 +7266,7 @@
       "Name": "Taking Action",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "WinWithResolve",
@@ -7269,7 +7274,7 @@
       "Name": "Victory through Prosperity",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "WinWithRuins",
@@ -7277,7 +7282,7 @@
       "Name": "Ruins",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "WinWithTimedOrders",
@@ -7309,7 +7314,7 @@
       "Name": "Defying the Crown",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "Year1Dangerous",
@@ -7317,22 +7322,22 @@
       "Name": "Into the Forest",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     }
   ],
   "AchievementSets": [
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 15749,
+      "Progressed": 15751,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-07-09T18:00:52.755994+00:00",
-  "LastChanged_Achievements": "2023-07-10T12:06:49.8853731+00:00",
+  "LastChanged_Achievements": "2023-07-10T13:24:06.8486262+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:29.6140408+00:00",
-  "LastUpdate_Ratings": "2023-07-10T12:00:31.693246+00:00",
-  "LastUpdate_Achievements": "2023-07-10T12:06:49.885428+00:00"
+  "LastUpdate_Ratings": "2023-07-10T13:17:49.688749+00:00",
+  "LastUpdate_Achievements": "2023-07-10T13:24:06.8487034+00:00"
 }

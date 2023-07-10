@@ -6,23 +6,23 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,439 |
-| The Mad Wizard | 11.00% | ~23,056 |
-| The Ring of Regeneration | 7.00% | ~14,672 |
-| Are Ya Chicken? | 7.00% | ~14,672 |
-| Were-verpowered | 6.00% | ~12,576 |
-| Seeking Allies | 5.00% | ~10,480 |
-| Mad Cow Disease | 5.00% | ~10,480 |
-| Friendly Imps | 5.00% | ~10,480 |
-| A Persistent Buzzing | 4.00% | ~8,384 |
-| Pure Energy | 4.00% | ~8,384 |
-| Beast Mode | 3.00% | ~6,288 |
-| Terror in the Dark | 3.00% | ~6,288 |
-| Unearthed Evil | 3.00% | ~6,288 |
-| The Crumbling Temple | 3.00% | ~6,288 |
-| Exploring Port Nyanzaru | 3.00% | ~6,288 |
-| The Contagious Curse | 3.00% | ~6,288 |
-| Escort to Waterdeep | 3.00% | ~6,288 |
+| The Cursed Farmer | 15.00% | ~31,443 |
+| The Mad Wizard | 11.00% | ~23,058 |
+| The Ring of Regeneration | 7.00% | ~14,673 |
+| Are Ya Chicken? | 7.00% | ~14,673 |
+| Were-verpowered | 6.00% | ~12,577 |
+| Seeking Allies | 5.00% | ~10,481 |
+| Mad Cow Disease | 5.00% | ~10,481 |
+| Friendly Imps | 5.00% | ~10,481 |
+| A Persistent Buzzing | 4.00% | ~8,385 |
+| Pure Energy | 4.00% | ~8,385 |
+| Beast Mode | 3.00% | ~6,289 |
+| Terror in the Dark | 3.00% | ~6,289 |
+| Unearthed Evil | 3.00% | ~6,289 |
+| The Crumbling Temple | 3.00% | ~6,289 |
+| Exploring Port Nyanzaru | 3.00% | ~6,289 |
+| The Contagious Curse | 3.00% | ~6,289 |
+| Escort to Waterdeep | 3.00% | ~6,289 |
 | Low Initiative | 2.00% | ~4,192 |
 | A Mysterious Summons | 2.00% | ~4,192 |
 | Building Trust | 2.00% | ~4,192 |
@@ -48,13 +48,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Close Escort | 1.00% | ~2,096 |
 | Constant Banditry | 1.00% | ~2,096 |
 | Lost in the Deep | 1.00% | ~2,096 |
+| Easily Distracted | 1.00% | ~2,096 |
 | Rescue in the Jungle | 1.00% | ~2,096 |
-| The Lost Heir of Omu | 0.90% | ~1,886 |
-| The Forbidden City | 0.90% | ~1,886 |
-| Attack on the Manor | 0.90% | ~1,886 |
-| The Dead Three | 0.90% | ~1,886 |
-| The Long Haul | 0.90% | ~1,886 |
-| Easily Distracted | 0.90% | ~1,886 |
+| The Lost Heir of Omu | 0.90% | ~1,887 |
+| The Forbidden City | 0.90% | ~1,887 |
+| Attack on the Manor | 0.90% | ~1,887 |
+| The Dead Three | 0.90% | ~1,887 |
+| The Long Haul | 0.90% | ~1,887 |
 | Captured! | 0.80% | ~1,677 |
 | Wisdom Check | 0.80% | ~1,677 |
 | A Grand Puzzle | 0.80% | ~1,677 |
@@ -119,14 +119,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | Champions of Waterdeep | 0.40% | ~838 |
 | Once More Into The Breach | 0.40% | ~838 |
 | Wyllowwood | 0.40% | ~838 |
-| An Illithid Undertaking | 0.40% | ~703 |
-| Déjà Vu | 0.40% | ~703 |
-| Into The Fire | 0.40% | ~703 |
-| Dreamscape | 0.40% | ~703 |
-| The Path of Dreams | 0.40% | ~703 |
-| Alterdeep | 0.40% | ~703 |
-| Moose Tracks | 0.40% | ~703 |
-| Civilization | 0.40% | ~703 |
+| An Illithid Undertaking | 0.40% | ~704 |
+| Déjà Vu | 0.40% | ~704 |
+| Into The Fire | 0.40% | ~704 |
+| Dreamscape | 0.40% | ~704 |
+| The Path of Dreams | 0.40% | ~704 |
+| Alterdeep | 0.40% | ~704 |
+| Moose Tracks | 0.40% | ~704 |
+| Civilization | 0.40% | ~704 |
+| Dwarven Rumors | 0.40% | ~704 |
 | Struggling Toward Omu | 0.30% | ~629 |
 | Double Vision | 0.30% | ~629 |
 | The Newcomers of Notoriety | 0.30% | ~528 |
@@ -159,7 +160,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rime Bandits | 0.30% | ~528 |
 | The Sibriex | 0.30% | ~528 |
 | Wrecked Flying Fortress | 0.30% | ~528 |
-| Dwarven Rumors | 0.30% | ~528 |
 | Sunblight | 0.30% | ~528 |
 | The Bleeding Citadel | 0.30% | ~528 |
 | Idyllglen | 0.30% | ~528 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209,596 (Ranked 52)  
+Progressed: 209,621 (Ranked 52)  
 Completed: 2,043 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -591,7 +591,7 @@ Completed: 2,043 (0.97%) (Ranked 102)
 | 2023-07-07 | 208,152 | 2,037 |
 | 2023-07-08 | 208,782 | 2,041 |
 | 2023-07-09 | 209,384 | 2,043 |
-| 2023-07-10 | 209,596 | 2,043 |
+| 2023-07-10 | 209,621 | 2,043 |
 ## Awards
 Max (Diverse Characters): 5,021  (Ranked 65)  
 Sum: 30,464 (Ranked 37)  

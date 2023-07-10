@@ -4,8 +4,8 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -801,9 +801,9 @@
       "ID": "BasicControls",
       "SetID": "1e89b4i",
       "Name": "Basic Controls",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 170
     },
     {
       "ID": "BigPlane",
@@ -833,9 +833,9 @@
       "ID": "Close",
       "SetID": "1e89b4i",
       "Name": "That Was Close!",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 56
     },
     {
       "ID": "Creator",
@@ -1128,8 +1128,8 @@
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-07-10T12:03:21.4518858+00:00",
+  "LastChanged_Achievements": "2023-07-10T13:20:36.8283746+00:00",
   "LastUpdate_AppInfo": "2023-07-04T07:57:07.1618856+00:00",
-  "LastUpdate_Ratings": "2023-07-10T11:57:07.2553218+00:00",
-  "LastUpdate_Achievements": "2023-07-10T12:03:21.451917+00:00"
+  "LastUpdate_Ratings": "2023-07-10T13:14:21.5476473+00:00",
+  "LastUpdate_Achievements": "2023-07-10T13:20:36.8284155+00:00"
 }

@@ -6,8 +6,9 @@ Rating: 4.87 (Ranked 25)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | NOW we got a kickass hideout! | 1.00% | ~20 |
+| I play my own way! | 0.90% | ~31 |
 | Cream of the Crop | 0.80% | ~27 |
-| I play my own way! | 0.80% | ~27 |
+| You got this, Peppermint? | 0.80% | ~27 |
 | Z-shielding's got nothing on us! | 0.80% | ~27 |
 | Kissing the sky! | 0.80% | ~27 |
 | Who put gears in there? | 0.80% | ~27 |
@@ -15,7 +16,6 @@ Rating: 4.87 (Ranked 25)
 | The Negotiator | 0.70% | ~24 |
 | Thanks for the free chip, Peppermint! | 0.70% | ~24 |
 | Whoa! There's ANOTHER health bar!? | 0.70% | ~24 |
-| You got this, Peppermint? | 0.70% | ~24 |
 | Out in a puff of smoke | 0.70% | ~24 |
 | Perfect Parry | 0.70% | ~24 |
 | Uh, they were broken when I got here | 0.70% | ~24 |
@@ -24,9 +24,9 @@ Rating: 4.87 (Ranked 25)
 | Time to pay up! | 0.60% | ~21 |
 | Who's the boss now? | 0.60% | ~21 |
 | I have to read these things? | 0.60% | ~21 |
+| You must like calling me in, Chai | 0.60% | ~21 |
 | Alright, that felt AWESOME! | 0.60% | ~21 |
 | Feeling the beat! | 0.50% | ~17 |
-| You must like calling me in, Chai | 0.50% | ~17 |
 | I look cool. But I can look COOLER. | 0.50% | ~17 |
 | You can pet the cat! | 0.50% | ~17 |
 | Well that was a rush! | 0.40% | ~14 |
@@ -43,6 +43,7 @@ Rating: 4.87 (Ranked 25)
 | This is a breeze! | 0.20% | ~7 |
 | I told you I'd be fine, Peppermint! | 0.20% | ~7 |
 | Check out my moves! | 0.20% | ~7 |
+| Choose your own adventure | 0.20% | ~4 |
 | Easy Listening | 0.10% | ~3 |
 | I think I deserve some praise, here! | 0.10% | ~3 |
 | Problem solved... wait, what? | 0.10% | ~3 |
@@ -58,7 +59,6 @@ Rating: 4.87 (Ranked 25)
 | I'm untouchable! | 0.10% | ~3 |
 | You ever parry a volcano? | 0.10% | ~3 |
 | I saw all those hits coming a measure away! | 0.10% | ~3 |
-| Choose your own adventure | 0.10% | ~2 |
 | It'll do, CNMN | 0.10% | ~2 |
 | Please don't make this awkward | 0.10% | ~2 |
 | That was just EVIL | 0.10% | ~2 |

@@ -7,24 +7,24 @@ Number of Ratings: 836  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 71.00% | ~5,150 |
-| Leader | 61.00% | ~4,424 |
-| Explorer | 53.00% | ~3,844 |
+| Leader | 61.00% | ~4,425 |
+| Explorer | 53.00% | ~3,845 |
 | Healer | 52.00% | ~3,772 |
-| Aspiring Inventor | 44.00% | ~3,191 |
+| Aspiring Inventor | 44.00% | ~3,192 |
 | Adventurer | 41.00% | ~2,974 |
-| Famous Healer | 38.00% | ~2,756 |
+| Famous Healer | 38.00% | ~2,757 |
 | Local Leader | 35.00% | ~2,539 |
 | Famous Explorer | 34.00% | ~2,466 |
 | New Opportunities | 34.00% | ~2,466 |
-| Energized | 33.00% | ~2,393 |
-| The Long Haul | 33.00% | ~2,393 |
+| Energized | 33.00% | ~2,394 |
+| The Long Haul | 33.00% | ~2,394 |
 | Survivor | 32.00% | ~2,321 |
-| The Great Healer | 31.00% | ~2,248 |
+| The Great Healer | 31.00% | ~2,249 |
 | Cleaner | 28.00% | ~2,031 |
 | Catastrofan | 28.00% | ~2,031 |
-| Legendary Explorer | 27.00% | ~1,958 |
+| Legendary Explorer | 27.00% | ~1,959 |
 | Finders, Keepers | 26.00% | ~1,886 |
-| Top Notch | 25.00% | ~1,813 |
+| Top Notch | 25.00% | ~1,814 |
 | Ice Lakes | 23.00% | ~1,668 |
 | Mentor | 23.00% | ~1,668 |
 | Great Leader | 22.00% | ~1,596 |
@@ -33,9 +33,9 @@ Number of Ratings: 836  (23.09.2022)
 | War Never Changes | 19.00% | ~1,378 |
 | Rocket Surgeon | 19.00% | ~1,378 |
 | Big Game Hunter | 17.00% | ~1,233 |
-| Friendly | 16.00% | ~1,160 |
-| Around the World | 16.00% | ~1,160 |
-| Spreading Influence | 16.00% | ~1,160 |
+| Friendly | 16.00% | ~1,161 |
+| Around the World | 16.00% | ~1,161 |
+| Spreading Influence | 16.00% | ~1,161 |
 | Bookworm | 15.00% | ~1,088 |
 | Famous Adventurer | 13.00% | ~943 |
 | Prepared for Anything | 13.00% | ~943 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~15 |
 | Customized calamities | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,253 (Ranked 123)  
+Progressed: 7,254 (Ranked 123)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,10 +147,10 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-07 | 7,171 | 0 |
 | 2023-07-08 | 7,205 | 0 |
 | 2023-07-09 | 7,240 | 0 |
-| 2023-07-10 | 7,253 | 0 |
+| 2023-07-10 | 7,254 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 330)  
-Sum: 675 (Ranked 272)  
+Sum: 676 (Ranked 272)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -161,7 +161,7 @@ Diff (max vs sum): 58
 | This game is Relaxing | 80 |
 | This game is Highly Recommended | 69 |
 | This game has Diverse Characters | 68 |
-| This game has Amazing Characters | 64 |
+| This game has Amazing Characters | 65 |
 | This game has Obsessive Gameplay | 58 |
 | This game has a Creative Community | 42 |
 ## Ratings History
@@ -265,3 +265,4 @@ Diff (max vs sum): 58
 | 2023-06-25 | 4.47 | - | 99 | 673 |
 | 2023-06-26 | 4.47 | - | 99 | 674 |
 | 2023-07-07 | 4.47 | - | 99 | 675 |
+| 2023-07-10 | 4.47 | - | 99 | 676 |
