@@ -244,10 +244,11 @@
 | 239 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 69 | 373 |
 | 239 | [BLACKTAIL](games/b/blacktail.md) | 4.68 | 0 | 504 |
 | 239 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,255 | 47 |
-| 239 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,869 | 79 |
+| 239 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,870 | 79 |
+| 239 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 2,323 | 102 |
 | 239 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 0 | 504 |
 | 239 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 299,802 | 3 |
-| 239 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 196,293 | 4 |
+| 239 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 196,741 | 4 |
 | 239 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 414 | 205 |
 | 239 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 560 | 180 |
 | 239 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 674 | 165 |
@@ -257,18 +258,17 @@
 | 239 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.68 | 0 | 504 |
 | 239 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.68 | 0 | 504 |
 | 239 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 88 | 346 |
-| 258 | [APE OUT](games/a/ape_out.md) | 4.67 | 0 | 504 |
-| 258 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 660 | 168 |
-| 258 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 504 |
-| 258 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.67 | 2,323 | 102 |
-| 258 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 592 | 177 |
-| 258 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,234 | 104 |
-| 258 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.67 | 50 | 398 |
-| 258 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 0 | 504 |
-| 258 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 0 | 504 |
-| 258 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 0 | 504 |
-| 258 | [Trackmania](games/t/trackmania.md) | 4.67 | 2,932 | 91 |
-| 258 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 94 | 339 |
+| 259 | [APE OUT](games/a/ape_out.md) | 4.67 | 0 | 504 |
+| 259 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 660 | 168 |
+| 259 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 504 |
+| 259 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 592 | 177 |
+| 259 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,234 | 104 |
+| 259 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.67 | 50 | 398 |
+| 259 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 0 | 504 |
+| 259 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 0 | 504 |
+| 259 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 0 | 504 |
+| 259 | [Trackmania](games/t/trackmania.md) | 4.67 | 2,932 | 91 |
+| 259 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 94 | 339 |
 | 270 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.66 | 0 | 504 |
 | 270 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 74 | 363 |
 | 270 | [Coromon](games/c/coromon.md) | 4.66 | 41 | 417 |
