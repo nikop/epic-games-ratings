@@ -2,7 +2,7 @@
   "ID": "6098a8c7375c43458a22163a637c0c2f",
   "Name": "Spirit of the North",
   "ProductSlug": "spirit-of-the-north-f58a66",
-  "Ranking_Rating": 729,
+  "Ranking_Rating": 728,
   "Ranking_Popularity": 474,
   "Ranking_PopularitySum": 404,
   "Ranking_EOS_Progress": 80,
@@ -318,9 +318,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 61443,
+  "EOS_Progressed": 61444,
   "EOS_Completed": 311,
-  "EOS_NewPlayers": 807,
+  "EOS_NewPlayers": 808,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -8853,6 +8853,11 @@
       "Time": "2023-07-10T05:00:44.1461662+00:00",
       "NumProgressed": 61443,
       "NumCompleted": 311
+    },
+    {
+      "Time": "2023-07-10T06:00:22.1719352+00:00",
+      "NumProgressed": 61444,
+      "NumCompleted": 311
     }
   ],
   "TotalAchievements": 24,
@@ -8880,7 +8885,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 41781
+      "UsersEstimate": 41782
     },
     {
       "ID": "BEST_FRIENDS",
@@ -8888,7 +8893,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 13517
+      "UsersEstimate": 13518
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -8992,7 +8997,7 @@
       "Name": "PLAGUE DOCTOR",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 4915
+      "UsersEstimate": 4916
     },
     {
       "ID": "SPIRITED_AWAY",
@@ -9000,7 +9005,7 @@
       "Name": "SPIRITED AWAY",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 4915
+      "UsersEstimate": 4916
     },
     {
       "ID": "SPIRIT_BARK",
@@ -9032,7 +9037,7 @@
       "Name": "UPROOTING DARKNESS",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 9216
+      "UsersEstimate": 9217
     },
     {
       "ID": "WEIGHTLESS",
@@ -9048,14 +9053,14 @@
       "Name": "WRITTEN IN STONE",
       "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 9216
+      "UsersEstimate": 9217
     }
   ],
   "AchievementSets": [
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 61443,
+      "Progressed": 61444,
       "Completed": 311
     }
   ],
@@ -9063,8 +9068,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-06-20T12:00:48.5369511+00:00",
-  "LastChanged_Achievements": "2023-07-10T05:00:44.1461656+00:00",
+  "LastChanged_Achievements": "2023-07-10T06:00:22.1719347+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:39.6580646+00:00",
-  "LastUpdate_Ratings": "2023-07-10T04:59:39.1585517+00:00",
-  "LastUpdate_Achievements": "2023-07-10T05:00:44.1462392+00:00"
+  "LastUpdate_Ratings": "2023-07-10T05:59:09.1792015+00:00",
+  "LastUpdate_Achievements": "2023-07-10T06:00:22.1720338+00:00"
 }

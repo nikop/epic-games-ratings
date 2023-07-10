@@ -5,14 +5,14 @@ Rating: 3.93 (Ranked 924)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~50,805 |
-| First One’s Free | 65.00% | ~44,626 |
+| Downed but Not Outed | 74.00% | ~50,806 |
+| First One’s Free | 65.00% | ~44,627 |
 | Neophyte Ninja | 50.00% | ~34,328 |
-| Too Old for This | 47.00% | ~32,268 |
+| Too Old for This | 47.00% | ~32,269 |
 | Fancy Pants | 35.00% | ~24,030 |
 | Case Closed | 34.00% | ~23,343 |
 | King of the Hill | 34.00% | ~23,343 |
-| Underworld Initiate | 29.00% | ~19,910 |
+| Underworld Initiate | 29.00% | ~19,911 |
 | Roid Ranger | 21.00% | ~14,418 |
 | True Player | 19.00% | ~13,045 |
 | Off the Rocks | 19.00% | ~13,045 |
@@ -23,9 +23,9 @@ Rating: 3.93 (Ranked 924)
 | Freebooter | 10.00% | ~6,866 |
 | Track Star | 9.00% | ~6,179 |
 | Classy Joint | 9.00% | ~6,179 |
-| I Like Trains | 8.00% | ~5,492 |
-| Headhunter | 8.00% | ~5,492 |
-| Ding Dong | 8.00% | ~5,492 |
+| I Like Trains | 8.00% | ~5,493 |
+| Headhunter | 8.00% | ~5,493 |
+| Ding Dong | 8.00% | ~5,493 |
 | Foo Finder | 7.00% | ~4,806 |
 | Legend Looter | 5.00% | ~3,433 |
 | Savvy Seeker | 5.00% | ~3,433 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 924)
 | Geek Out | 0.50% | ~343 |
 | Full House | 0.20% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,656 (Ranked 73)  
+Progressed: 68,657 (Ranked 73)  
 Completed: 36 (0.05%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 36 (0.05%) (Ranked 202)
 | 2023-07-07 | 68,491 | 36 |
 | 2023-07-08 | 68,561 | 36 |
 | 2023-07-09 | 68,644 | 36 |
-| 2023-07-10 | 68,656 | 36 |
+| 2023-07-10 | 68,657 | 36 |
 ## Awards
 Max (Diverse Characters): 359  (Ranked 220)  
 Sum: 1,707 (Ranked 206)  

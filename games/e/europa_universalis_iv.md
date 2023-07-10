@@ -445,7 +445,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-10 | 67,838 | 0 |
 ## Awards
 Max (Educational): 5,522  (Ranked 60)  
-Sum: 45,582 (Ranked 27)  
+Sum: 45,583 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -456,7 +456,7 @@ Diff (max vs sum): 33
 | This game has Diverse Characters | 5,205 |
 | This game is Relaxing | 5,118 |
 | This game has Competitive Players | 4,960 |
-| This game has Amazing Storytelling | 4,677 |
+| This game has Amazing Storytelling | 4,678 |
 | This game has Amazing Characters | 4,323 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -636,3 +636,4 @@ Diff (max vs sum): 33
 | 2023-07-07 | 4.69 | - | 5,515 | 45,515 |
 | 2023-07-08 | 4.69 | - | 5,522 | 45,550 |
 | 2023-07-09 | 4.69 | - | 5,522 | 45,582 |
+| 2023-07-10 | 4.69 | - | 5,522 | 45,583 |

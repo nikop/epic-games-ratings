@@ -6,28 +6,28 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 58.00% | ~101,746 |
-| Where's that freaking Dwarf? | 45.00% | ~78,941 |
-| GG EZ | 27.00% | ~47,364 |
-| Speedrun | 26.00% | ~45,610 |
-| Déjà vu | 20.00% | ~35,085 |
-| Sock! SOCK! | 14.00% | ~24,559 |
-| DM intervention | 12.00% | ~21,051 |
-| Fireproof Wizardess | 7.00% | ~12,280 |
-| A beer, two curses, three companions | 6.00% | ~10,525 |
-| Way of the Wimp | 5.00% | ~8,771 |
-| Livin' in a dwarven paradise | 4.00% | ~7,017 |
-| The plot thickens... At the tavern | 4.00% | ~7,017 |
-| The Woman in the High Castle | 3.00% | ~5,263 |
-| Team Building Exercise | 3.00% | ~5,263 |
-| The demons' feast | 2.00% | ~3,508 |
-| Res Judicata | 2.00% | ~3,508 |
-| I am the night | 2.00% | ~3,508 |
-| Shiny and Crôm | 1.00% | ~1,754 |
-| The Great Library | 1.00% | ~1,754 |
-| Dwarf Fortress | 1.00% | ~1,754 |
-| The Ranger of Chaos | 1.00% | ~1,754 |
-| Oh, when I'll be level 10... | 1.00% | ~1,754 |
+| Alt+F4 | 58.00% | ~101,777 |
+| Where's that freaking Dwarf? | 45.00% | ~78,965 |
+| GG EZ | 27.00% | ~47,379 |
+| Speedrun | 26.00% | ~45,624 |
+| Déjà vu | 20.00% | ~35,096 |
+| Sock! SOCK! | 14.00% | ~24,567 |
+| DM intervention | 12.00% | ~21,057 |
+| Fireproof Wizardess | 7.00% | ~12,283 |
+| A beer, two curses, three companions | 6.00% | ~10,529 |
+| Way of the Wimp | 5.00% | ~8,774 |
+| Livin' in a dwarven paradise | 4.00% | ~7,019 |
+| The plot thickens... At the tavern | 4.00% | ~7,019 |
+| The Woman in the High Castle | 3.00% | ~5,264 |
+| Team Building Exercise | 3.00% | ~5,264 |
+| The demons' feast | 2.00% | ~3,510 |
+| Res Judicata | 2.00% | ~3,510 |
+| I am the night | 2.00% | ~3,510 |
+| Shiny and Crôm | 1.00% | ~1,755 |
+| The Great Library | 1.00% | ~1,755 |
+| Dwarf Fortress | 1.00% | ~1,755 |
+| The Ranger of Chaos | 1.00% | ~1,755 |
+| Oh, when I'll be level 10... | 1.00% | ~1,755 |
 | Torture and Sensibility | 0.90% | ~1,579 |
 | Thieves' Guild Accreditation | 0.90% | ~1,579 |
 | The beards of change | 0.70% | ~1,228 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 175,424 (Ranked 58)  
+Progressed: 175,478 (Ranked 58)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-07 | 166,795 | 0 |
 | 2023-07-08 | 171,176 | 0 |
 | 2023-07-09 | 174,947 | 0 |
-| 2023-07-10 | 175,424 | 0 |
+| 2023-07-10 | 175,478 | 0 |
 ## Awards
 Max (Character Customization): 82  (Ranked 353)  
 Sum: 82 (Ranked 418)  

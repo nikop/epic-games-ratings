@@ -6,14 +6,14 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~20,515 |
-| Exploitative | 4.00% | ~16,412 |
-| High Speed Low Drag | 4.00% | ~16,412 |
-| Point Shooting | 4.00% | ~16,412 |
-| Wet Feet | 4.00% | ~16,412 |
-| Lucky | 3.00% | ~12,309 |
-| Stylin' | 3.00% | ~12,309 |
-| Turf War | 3.00% | ~12,309 |
+| Wallbanger | 5.00% | ~20,516 |
+| Exploitative | 4.00% | ~16,413 |
+| High Speed Low Drag | 4.00% | ~16,413 |
+| Point Shooting | 4.00% | ~16,413 |
+| Wet Feet | 4.00% | ~16,413 |
+| Lucky | 3.00% | ~12,310 |
+| Stylin' | 3.00% | ~12,310 |
+| Turf War | 3.00% | ~12,310 |
 | Banged | 2.00% | ~8,206 |
 | Checkpoint Victory | 2.00% | ~8,206 |
 | First Blood | 2.00% | ~8,206 |
@@ -27,12 +27,12 @@ Number of Ratings: 1,316  (23.09.2022)
 | Efficient | 0.90% | ~3,693 |
 | Mount & Gun | 0.90% | ~3,693 |
 | Personal | 0.90% | ~3,693 |
-| Grounded | 0.80% | ~3,282 |
-| Play to Win | 0.80% | ~3,282 |
+| Grounded | 0.80% | ~3,283 |
+| Play to Win | 0.80% | ~3,283 |
 | #1 | 0.70% | ~2,872 |
 | Special Delivery | 0.70% | ~2,872 |
 | Firefight Victory | 0.60% | ~2,462 |
-| Cinematic | 0.50% | ~2,051 |
+| Cinematic | 0.50% | ~2,052 |
 | Thanks Station! | 0.40% | ~1,641 |
 | Knock Knock | 0.30% | ~1,231 |
 | There For You | 0.30% | ~1,231 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~410 |
 | Road Hazard | 0.10% | ~410 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 410,296 (Ranked 39)  
+Progressed: 410,320 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 2 (0.00%) (Ranked 237)
 | 2023-07-07 | 408,058 | 2 |
 | 2023-07-08 | 409,013 | 2 |
 | 2023-07-09 | 410,060 | 2 |
-| 2023-07-10 | 410,296 | 2 |
+| 2023-07-10 | 410,320 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 364  (Ranked 218)  
 Sum: 2,788 (Ranked 169)  

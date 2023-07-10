@@ -6,22 +6,22 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~34,422 |
-| Biggest Communism Builder | 24.00% | ~29,504 |
-| The World's Most Laughable Centrist | 20.00% | ~24,587 |
-| Il Coppo Del'Arte! | 18.00% | ~22,128 |
+| Goodest Of The Good Cops | 28.00% | ~34,423 |
+| Biggest Communism Builder | 24.00% | ~29,505 |
+| The World's Most Laughable Centrist | 20.00% | ~24,588 |
+| Il Coppo Del'Arte! | 18.00% | ~22,129 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,670 |
-| Hyperstellar Law Official | 15.00% | ~18,440 |
+| Hyperstellar Law Official | 15.00% | ~18,441 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~17,211 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~15,982 |
 | Gurdi-Ball Is Lit | 13.00% | ~15,982 |
 | Truly Rabid *Traditionalist* | 11.00% | ~13,523 |
-| The Figurines Won't Win Her Back | 9.00% | ~11,064 |
+| The Figurines Won't Win Her Back | 9.00% | ~11,065 |
 | Unbelievably Boring **** | 8.00% | ~9,835 |
 | Enemy Of The Physical Realm | 8.00% | ~9,835 |
 | Hardie's Heroes | 6.00% | ~7,376 |
-| The Lawbringer | 4.00% | ~4,917 |
-| Fairweather t-500 Vitreous Enamel | 4.00% | ~4,917 |
+| The Lawbringer | 4.00% | ~4,918 |
+| Fairweather t-500 Vitreous Enamel | 4.00% | ~4,918 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,688 |
 | Bother Kim After Hours | 3.00% | ~3,688 |
 | Baddest Of the Bad Cops | 2.00% | ~2,459 |
@@ -31,9 +31,9 @@ Number of Ratings: 1,611  (23.09.2022)
 | Massive Torque Dork | 1.00% | ~1,229 |
 | Avowed Inframaterialist | 1.00% | ~1,229 |
 | Real Musor | 0.90% | ~1,106 |
-| Baddest Brow in Town | 0.80% | ~983 |
-| Committee of la Responsabilité | 0.80% | ~983 |
-| Venture into the HARDCORE | 0.80% | ~983 |
+| Baddest Brow in Town | 0.80% | ~984 |
+| Committee of la Responsabilité | 0.80% | ~984 |
+| Venture into the HARDCORE | 0.80% | ~984 |
 | Networthy Individual | 0.70% | ~861 |
 | Leopard Mindset | 0.60% | ~738 |
 | Modus: Mullen | 0.30% | ~369 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~123 |
 | What body? | 0.10% | ~123 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 122,935 (Ranked 61)  
+Progressed: 122,939 (Ranked 61)  
 Completed: 27 (0.02%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 27 (0.02%) (Ranked 214)
 | 2023-07-07 | 122,825 | 26 |
 | 2023-07-08 | 122,880 | 26 |
 | 2023-07-09 | 122,926 | 27 |
-| 2023-07-10 | 122,935 | 27 |
+| 2023-07-10 | 122,939 | 27 |
 ## Awards
 Max (Character Customization): 702  (Ranked 161)  
 Sum: 1,063 (Ranked 233)  

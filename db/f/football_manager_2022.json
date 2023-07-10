@@ -5741,9 +5741,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 466519,
+  "EOS_Progressed": 466520,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 728,
+  "EOS_NewPlayers": 726,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14046,6 +14046,11 @@
       "Time": "2023-07-10T05:03:10.5447564+00:00",
       "NumProgressed": 466519,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-07-10T06:02:06.9228579+00:00",
+      "NumProgressed": 466520,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 98,
@@ -14241,7 +14246,7 @@
       "Name": "Clean Sheet",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 228594
+      "UsersEstimate": 228595
     },
     {
       "ID": "achievement_club_world_cup",
@@ -14257,7 +14262,7 @@
       "Name": "Do The Double",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 83973
+      "UsersEstimate": 83974
     },
     {
       "ID": "achievement_dont_concede_a_goal_for_10_consecutive_matches",
@@ -14345,7 +14350,7 @@
       "Name": "Attack!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 130625
+      "UsersEstimate": 130626
     },
     {
       "ID": "achievement_goal_scored_in_30_consecutive_matches",
@@ -14425,7 +14430,7 @@
       "Name": "Iron Curtain",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 107299
+      "UsersEstimate": 107300
     },
     {
       "ID": "achievement_manager_of_the_month",
@@ -14657,7 +14662,7 @@
       "Name": "Comeback King!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 60647
+      "UsersEstimate": 60648
     },
     {
       "ID": "achievement_win_fantasy_draft",
@@ -14713,7 +14718,7 @@
       "Name": "You\u0027re Up!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 60647
+      "UsersEstimate": 60648
     },
     {
       "ID": "achievement_won_world_cup",
@@ -14840,15 +14845,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 466519,
+      "Progressed": 466520,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-07-10T05:00:17.9356193+00:00",
-  "LastChanged_Achievements": "2023-07-10T05:03:10.5447558+00:00",
+  "LastChanged_Achievements": "2023-07-10T06:02:06.9228574+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:45.2137608+00:00",
-  "LastUpdate_Ratings": "2023-07-10T05:00:17.93562+00:00",
-  "LastUpdate_Achievements": "2023-07-10T05:03:10.5449224+00:00"
+  "LastUpdate_Ratings": "2023-07-10T05:59:49.8534531+00:00",
+  "LastUpdate_Achievements": "2023-07-10T06:02:06.923036+00:00"
 }

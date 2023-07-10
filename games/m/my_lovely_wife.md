@@ -1,7 +1,7 @@
 # My Lovely Wife
 [Store](https://store.epicgames.com/en-US/p/my-lovely-wife-bef07f)  
 [View Rawdata](../../db/m/my_lovely_wife.json)  
-Rating: 4.36 (Ranked 729)  
+Rating: 4.36 (Ranked 728)  
 Number of Ratings: 25  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -24,7 +24,7 @@ Number of Ratings: 25  (23.09.2022)
 | Devoted | 41.00% | ~242 |
 | The Farmer | 39.00% | ~230 |
 | Ever After | 37.00% | ~218 |
-| Loyal | 28.00% | ~165 |
+| Loyal | 29.00% | ~171 |
 | Mandatory Sacrifice | 28.00% | ~165 |
 | The Collector | 24.00% | ~142 |
 | All Doors Open | 20.00% | ~118 |

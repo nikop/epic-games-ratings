@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 507,
+  "EOS_Progressed": 508,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 350,
+  "EOS_NewPlayers": 351,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -856,6 +856,11 @@
       "Time": "2023-07-10T02:31:04.5427959+00:00",
       "NumProgressed": 507,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-10T06:03:51.9637283+00:00",
+      "NumProgressed": 508,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1123,7 +1128,7 @@
       "Name": "Free Like Birds",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "FREE_ACHIEVEMENT_3",
@@ -1163,7 +1168,7 @@
       "Name": "Decakill!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -1233,9 +1238,9 @@
       "ID": "MARYH_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "1, 2, 3! Grandma!",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 30
     },
     {
       "ID": "MARY_ACHIEVEMENT_1",
@@ -1243,7 +1248,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -1257,9 +1262,9 @@
       "ID": "MEAT_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Night Snack",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 97
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -1299,7 +1304,7 @@
       "Name": "The Last of Us",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -1313,9 +1318,9 @@
       "ID": "RAPTOR_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Clairvoyant Who Doesn\u0027t See",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 173
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -1394,14 +1399,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 507,
+      "Progressed": 508,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-10T05:04:24.6212876+00:00",
+  "LastChanged_Achievements": "2023-07-10T06:03:51.9637277+00:00",
   "LastUpdate_AppInfo": "2023-07-06T13:16:22.5768242+00:00",
-  "LastUpdate_Ratings": "2023-07-10T04:57:20.0039459+00:00",
-  "LastUpdate_Achievements": "2023-07-10T05:04:24.6213599+00:00"
+  "LastUpdate_Ratings": "2023-07-10T05:56:51.8752804+00:00",
+  "LastUpdate_Achievements": "2023-07-10T06:03:51.9638073+00:00"
 }

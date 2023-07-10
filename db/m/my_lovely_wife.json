@@ -2,7 +2,7 @@
   "ID": "07d364bde45c48d3bbced941b474c8a6",
   "Name": "My Lovely Wife",
   "ProductSlug": "my-lovely-wife-bef07f",
-  "Ranking_Rating": 729,
+  "Ranking_Rating": 728,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 208,
@@ -343,9 +343,9 @@
       "ID": "ACH_ASSIGN_RUIN_2",
       "SetID": "ajki3eh",
       "Name": "Loyal",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 171
     },
     {
       "ID": "ACH_ASSIGN_SHRINE_1",
@@ -575,8 +575,8 @@
   "FirstSeen": "2022-07-22T20:30:06.1147591+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.1712211+00:00",
   "LastChanged": "2023-03-31T05:57:36.3389853+00:00",
-  "LastChanged_Achievements": "2023-07-10T05:04:13.4709181+00:00",
+  "LastChanged_Achievements": "2023-07-10T06:03:41.0092084+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:44.2587988+00:00",
-  "LastUpdate_Ratings": "2023-07-10T04:58:27.4169329+00:00",
-  "LastUpdate_Achievements": "2023-07-10T05:04:13.4709651+00:00"
+  "LastUpdate_Ratings": "2023-07-10T05:58:01.5303399+00:00",
+  "LastUpdate_Achievements": "2023-07-10T06:03:41.009235+00:00"
 }

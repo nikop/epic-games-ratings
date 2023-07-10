@@ -7,7 +7,7 @@ Rating: 4.37 (Ranked 722)
 | ---- | ---------- | ----- |
 | On the Shoulders of Giants | 88.00% | ~1,908 |
 | A Ribbiting Performance | 77.00% | ~1,669 |
-| At Least We Have Each Other... | 75.00% | ~1,626 |
+| At Least We Have Each Other... | 76.00% | ~1,648 |
 | Frogbot | 73.00% | ~1,583 |
 | Ouch | 55.00% | ~1,192 |
 | Fun in the Stun | 54.00% | ~1,171 |

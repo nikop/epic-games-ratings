@@ -5,21 +5,21 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Seeds of War | 65.00% | ~107 |
-| Aspairagus | 52.00% | ~59 |
-| Survivor | 49.00% | ~56 |
-| First Blood | 47.00% | ~77 |
-| Triple Kill | 46.00% | ~75 |
-| I Believe I Can Fly | 41.00% | ~67 |
-| Cornivore | 41.00% | ~67 |
-| Early Survivor | 37.00% | ~42 |
-| No Asperascope | 36.00% | ~59 |
+| Aspairagus | 53.00% | ~61 |
+| Survivor | 48.00% | ~55 |
+| First Blood | 47.00% | ~78 |
+| Triple Kill | 47.00% | ~78 |
+| I Believe I Can Fly | 41.00% | ~68 |
+| Cornivore | 41.00% | ~68 |
+| No Asperascope | 38.00% | ~63 |
+| Early Survivor | 37.00% | ~43 |
 | No Diggity | 36.00% | ~41 |
 | Amateur Survivor | 26.00% | ~30 |
 | Bouncemato | 23.00% | ~26 |
-| 10K | 21.00% | ~34 |
-| 15K | 20.00% | ~33 |
+| 10K | 21.00% | ~35 |
+| 15K | 19.00% | ~31 |
 | Professional Survivor | 18.00% | ~21 |
-| Quick-Draw Pod | 17.00% | ~19 |
+| Quick-Draw Pod | 17.00% | ~20 |
 | Drinking Problem | 16.00% | ~26 |
 | Grave Digger | 16.00% | ~18 |
 | This Is My Boomstick | 14.00% | ~16 |
@@ -29,10 +29,10 @@
 | Eggtraordinary | 10.00% | ~16 |
 | Carrocketeer | 10.00% | ~16 |
 | Oh My Gourd | 9.00% | ~10 |
+| Perfect | 8.00% | ~9 |
 | Pyromaniac | 8.00% | ~9 |
-| Fresh Pancake | 7.00% | ~11 |
-| Quit Horsin' Around | 7.00% | ~11 |
-| Perfect | 7.00% | ~8 |
+| Fresh Pancake | 7.00% | ~12 |
+| Quit Horsin' Around | 7.00% | ~12 |
 | Expert Survivor | 7.00% | ~8 |
 | Quadsparagus | 7.00% | ~8 |
 | Getting Started | 6.00% | ~10 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 164 (Ranked 277)  
+Progressed: 165 (Ranked 277)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-04 | 138 | 0 |
 | 2023-07-08 | 141 | 0 |
 | 2023-07-09 | 160 | 0 |
-| 2023-07-10 | 164 | 0 |
+| 2023-07-10 | 165 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

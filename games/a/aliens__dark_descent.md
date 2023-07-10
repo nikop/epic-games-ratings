@@ -5,20 +5,20 @@ Rating: 4.39 (Ranked 701)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 80.00% | ~2,219 |
-| Snatched Out | 73.00% | ~2,025 |
-| Keep 'Em Coming | 72.00% | ~1,997 |
-| Cleaning Lethe, One Nest At A Time | 64.00% | ~1,775 |
-| Call Me Snake | 58.00% | ~1,609 |
-| Something Lurks Under The Hills | 57.00% | ~1,581 |
+| This Is Hayes, Pioneer Station, Signing Off | 80.00% | ~2,220 |
+| Snatched Out | 73.00% | ~2,026 |
+| Keep 'Em Coming | 72.00% | ~1,998 |
+| Cleaning Lethe, One Nest At A Time | 64.00% | ~1,776 |
+| Call Me Snake | 58.00% | ~1,610 |
+| Something Lurks Under The Hills | 57.00% | ~1,582 |
 | This Was No Papercut | 55.00% | ~1,526 |
-| The Shrink Hates Me | 52.00% | ~1,442 |
-| People Person | 50.00% | ~1,387 |
-| Use The Bumper, That's What It's For | 49.00% | ~1,359 |
+| The Shrink Hates Me | 52.00% | ~1,443 |
+| People Person | 50.00% | ~1,388 |
+| Use The Bumper, That's What It's For | 49.00% | ~1,360 |
 | First Steps Into Madness | 47.00% | ~1,304 |
-| Colonial Barrels | 45.00% | ~1,248 |
+| Colonial Barrels | 45.00% | ~1,249 |
 | Damn Dude, You Gotta Lose Some Weight! | 38.00% | ~1,054 |
-| Harper's Hell | 37.00% | ~1,026 |
+| Harper's Hell | 37.00% | ~1,027 |
 | Making a Stand | 35.00% | ~971 |
 | Recouped Investment | 32.00% | ~888 |
 | Where It All Begun | 31.00% | ~860 |
@@ -36,8 +36,8 @@ Rating: 4.39 (Ranked 701)
 | Bandage Lover | 12.00% | ~333 |
 | Frontliner | 12.00% | ~333 |
 | The Cable Guy | 12.00% | ~333 |
-| Excavating The Truth | 10.00% | ~277 |
-| Abysmal Horrors | 10.00% | ~277 |
+| Excavating The Truth | 10.00% | ~278 |
+| Abysmal Horrors | 10.00% | ~278 |
 | Heavy Steps | 9.00% | ~250 |
 | Regicide | 8.00% | ~222 |
 | Flawless Victory | 6.00% | ~166 |
@@ -51,7 +51,7 @@ Rating: 4.39 (Ranked 701)
 | Perfect Organism | 0.30% | ~8 |
 | This Ain't No Picnic | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,774 (Ranked 154)  
+Progressed: 2,775 (Ranked 154)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-07 | 2,686 | 0 |
 | 2023-07-08 | 2,739 | 0 |
 | 2023-07-09 | 2,769 | 0 |
-| 2023-07-10 | 2,774 | 0 |
+| 2023-07-10 | 2,775 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

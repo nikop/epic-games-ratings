@@ -301,9 +301,9 @@
       "ID": "NEW_ACHIEVEMENT_1_15",
       "SetID": "8d3ci0",
       "Name": "Floatpiercer",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 150,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -380,8 +380,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-10T05:04:43.0044016+00:00",
+  "LastChanged_Achievements": "2023-07-10T06:04:10.3445178+00:00",
   "LastUpdate_AppInfo": "2023-07-08T11:56:59.3518994+00:00",
-  "LastUpdate_Ratings": "2023-07-10T04:57:24.654973+00:00",
-  "LastUpdate_Achievements": "2023-07-10T05:04:43.0044151+00:00"
+  "LastUpdate_Ratings": "2023-07-10T05:56:56.1159707+00:00",
+  "LastUpdate_Achievements": "2023-07-10T06:04:10.3445321+00:00"
 }

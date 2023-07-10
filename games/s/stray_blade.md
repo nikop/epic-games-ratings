@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Self-Defence | 64.00% | ~7 |
 | Tinkerer | 45.00% | ~5 |
+| Don't Cry Wolf | 36.00% | ~4 |
 | A new World ahead | 36.00% | ~4 |
-| Don't Cry Wolf | 27.00% | ~3 |
 | Bringing guns to a sword fight | 18.00% | ~2 |
 | Welcome to the Club | 18.00% | ~2 |
 | Can't touch this | 18.00% | ~2 |

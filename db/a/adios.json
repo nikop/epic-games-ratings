@@ -72,10 +72,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 65385,
-  "EOS_Completed": 618,
+  "EOS_Progressed": 65387,
+  "EOS_Completed": 619,
   "EOS_NewPlayers": 961,
-  "EOS_NewCompleters": 19,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.95,
   "EosHistory": [
     {
@@ -8762,6 +8762,11 @@
       "Time": "2023-07-10T05:06:19.3095044+00:00",
       "NumProgressed": 65385,
       "NumCompleted": 618
+    },
+    {
+      "Time": "2023-07-10T06:05:47.5748369+00:00",
+      "NumProgressed": 65387,
+      "NumCompleted": 619
     }
   ],
   "TotalAchievements": 25,
@@ -8789,7 +8794,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 11769
+      "UsersEstimate": 11770
     },
     {
       "ID": "Audiophile",
@@ -8813,7 +8818,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 11769
+      "UsersEstimate": 11770
     },
     {
       "ID": "Butcher",
@@ -8893,7 +8898,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12423
+      "UsersEstimate": 12424
     },
     {
       "ID": "Nice Try",
@@ -8917,7 +8922,7 @@
       "Name": "Piano Man",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 6538
+      "UsersEstimate": 6539
     },
     {
       "ID": "Right On Target",
@@ -8972,16 +8977,16 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 65385,
-      "Completed": 618
+      "Progressed": 65387,
+      "Completed": 619
     }
   ],
   "FirstSeen": "2022-07-22T20:27:11.1683553+00:00",
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-06-28T22:00:50.6722945+00:00",
-  "LastChanged_Achievements": "2023-07-10T05:06:19.3095036+00:00",
+  "LastChanged_Achievements": "2023-07-10T06:05:47.5748364+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:06.4873224+00:00",
-  "LastUpdate_Ratings": "2023-07-10T05:00:31.0156377+00:00",
-  "LastUpdate_Achievements": "2023-07-10T05:06:19.30958+00:00"
+  "LastUpdate_Ratings": "2023-07-10T06:00:06.7820273+00:00",
+  "LastUpdate_Achievements": "2023-07-10T06:05:47.5749151+00:00"
 }

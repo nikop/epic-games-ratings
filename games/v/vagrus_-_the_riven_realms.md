@@ -32,13 +32,14 @@
 | Inquisitions of Discord | 3.00% | ~3 |
 | Merchant | 3.00% | ~3 |
 | Trouble at Fort Larius | 3.00% | ~3 |
+| Bounty Hunter | 2.00% | ~2 |
 | Potential Unlocked | 2.00% | ~2 |
 | Deputized | 2.00% | ~2 |
 | Despised | 2.00% | ~2 |
 | A Terrible Will | 2.00% | ~2 |
+| Delayed | 2.00% | ~2 |
 | Unseen Patterns | 2.00% | ~2 |
 | Making Contact | 0.90% | ~1 |
-| Bounty Hunter | 0.90% | ~1 |
 | Loremaster | 0.90% | ~1 |
 | Adept | 0.90% | ~1 |
 | Embellished | 0.90% | ~1 |
@@ -47,7 +48,6 @@
 | Business As Usual | 0.90% | ~1 |
 | Legacy of a Mercenary | 0.90% | ~1 |
 | Trailblazer | 0.90% | ~1 |
-| Delayed | 0.90% | ~1 |
 | A Real Battle | 0.90% | ~1 |
 | Celebrity | 0.90% | ~1 |
 | Ruiner | 0.90% | ~1 |
