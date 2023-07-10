@@ -9,7 +9,7 @@
 | 7 | [Volley Pals](games/v/volley_pals.md) | 23.17% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
-| 10 | [Island Cities](games/i/island_cities.md) | 17.72% |
+| 10 | [Island Cities](games/i/island_cities.md) | 17.99% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 12 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 14.04% |
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.58% |
@@ -57,9 +57,9 @@
 | 55 | [The Complex](games/t/the_complex.md) | 3.09% |
 | 56 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.08% |
 | 57 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.05% |
-| 58 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 2.94% |
-| 59 | [HordeCore](games/h/hordecore.md) | 2.93% |
-| 59 | [MultiVersus](games/m/multiversus.md) | 2.93% |
+| 58 | [HordeCore](games/h/hordecore.md) | 2.93% |
+| 58 | [MultiVersus](games/m/multiversus.md) | 2.93% |
+| 60 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 2.92% |
 | 61 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.86% |
 | 62 | [Destiny 2](games/d/destiny_2.md) | 2.82% |
 | 63 | [The Bunker](games/t/the_bunker.md) | 2.78% |

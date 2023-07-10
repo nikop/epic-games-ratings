@@ -40,7 +40,7 @@
 | 28 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 482 | 194 |
 | 28 | [WarmSnow](games/w/warmsnow.md) | 4.86 | 0 | 504 |
 | 40 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,681 | 41 |
-| 40 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,510 | 61 |
+| 40 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,511 | 61 |
 | 40 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 361 | 219 |
 | 40 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 218 | 255 |
 | 40 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.85 | 131 | 302 |
@@ -537,7 +537,7 @@
 | 519 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.52 | 0 | 504 |
 | 519 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.52 | 28 | 462 |
 | 519 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 0 | 504 |
-| 538 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 1,648 | 118 |
+| 538 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 1,651 | 118 |
 | 538 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 94 | 339 |
 | 538 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,102 | 77 |
 | 538 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 0 | 504 |
@@ -557,6 +557,7 @@
 | 551 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 90 | 344 |
 | 551 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 504 |
 | 551 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 35,574 | 13 |
+| 551 | [Duskers](games/d/duskers.md) | 4.50 | 0 | 504 |
 | 551 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 0 | 504 |
 | 551 | [First Class Trouble](games/f/first_class_trouble.md) | 4.50 | 110 | 320 |
 | 551 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,532 | 93 |
@@ -572,17 +573,16 @@
 | 551 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 722 | 160 |
 | 551 | [Rocket League®](games/r/rocket_league®.md) | 4.50 | 468,709 | 2 |
 | 551 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.50 | 0 | 504 |
-| 573 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 62 | 384 |
-| 573 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,978 | 109 |
-| 573 | [Duskers](games/d/duskers.md) | 4.49 | 0 | 504 |
-| 573 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 0 | 504 |
-| 573 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 273 | 240 |
-| 573 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 240 | 249 |
-| 573 | [Maneater](games/m/maneater.md) | 4.49 | 13,562 | 26 |
-| 573 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 626 | 171 |
-| 573 | [Solitairica](games/s/solitairica.md) | 4.49 | 83 | 352 |
-| 573 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 504 |
-| 573 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.49 | 36 | 431 |
+| 574 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 62 | 384 |
+| 574 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,978 | 109 |
+| 574 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 0 | 504 |
+| 574 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 273 | 240 |
+| 574 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 240 | 249 |
+| 574 | [Maneater](games/m/maneater.md) | 4.49 | 13,562 | 26 |
+| 574 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 626 | 171 |
+| 574 | [Solitairica](games/s/solitairica.md) | 4.49 | 83 | 352 |
+| 574 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 504 |
+| 574 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.49 | 36 | 431 |
 | 584 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.48 | 0 | 504 |
 | 584 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 0 | 504 |
 | 584 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.48 | 0 | 504 |
@@ -627,7 +627,7 @@
 | 622 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 763 | 155 |
 | 622 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.45 | 0 | 504 |
 | 622 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.45 | 0 | 504 |
-| 622 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 10,778 | 34 |
+| 622 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 10,785 | 34 |
 | 622 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 29 | 459 |
 | 622 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 504 |
 | 622 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 862 | 150 |
