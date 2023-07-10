@@ -4,8 +4,8 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
     "PcReleaseDate": "2022-09-19T00:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 208,
+  "EOS_Progressed": 209,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -868,6 +868,11 @@
       "Time": "2023-07-10T08:03:16.1670167+00:00",
       "NumProgressed": 208,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-10T11:03:10.3087634+00:00",
+      "NumProgressed": 209,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -903,7 +908,7 @@
       "Name": "Inventory \u2714",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "achBett",
@@ -935,7 +940,7 @@
       "Name": "Cheats \u2714",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "achChest",
@@ -943,7 +948,7 @@
       "Name": "Chest \u2714",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "achCity",
@@ -951,7 +956,7 @@
       "Name": "City \u2714",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "achCoinOne",
@@ -1063,7 +1068,7 @@
       "Name": "Hospital \u2714",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "achIvan",
@@ -1079,7 +1084,7 @@
       "Name": "Fright \u2714",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "achLizun",
@@ -1103,7 +1108,7 @@
       "Name": "Fraternal help \u2714",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "achOsipovOne",
@@ -1191,7 +1196,7 @@
       "Name": "King of survival \u2714",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "achSecretos",
@@ -1229,9 +1234,9 @@
       "ID": "achTransform",
       "SetID": "72gjli4",
       "Name": "Mutation \u2714",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 48
     },
     {
       "ID": "achVip",
@@ -1278,7 +1283,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 208,
+      "Progressed": 209,
       "Completed": 0
     }
   ],
@@ -1286,8 +1291,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-07-10T10:03:23.5773874+00:00",
+  "LastChanged_Achievements": "2023-07-10T11:03:10.3087624+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:46.4476605+00:00",
-  "LastUpdate_Ratings": "2023-07-10T10:00:52.5323122+00:00",
-  "LastUpdate_Achievements": "2023-07-10T10:03:23.5774264+00:00"
+  "LastUpdate_Ratings": "2023-07-10T11:00:38.8839718+00:00",
+  "LastUpdate_Achievements": "2023-07-10T11:03:10.3088021+00:00"
 }

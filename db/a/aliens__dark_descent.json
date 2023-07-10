@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -120,7 +120,7 @@
   "Tags": [],
   "EOS_Progressed": 2778,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 307,
+  "EOS_NewPlayers": 302,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2479,9 +2479,9 @@
       "ID": "ACH_MISSION_11",
       "SetID": "816efe",
       "Name": "Excavating The Truth",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 278
+      "UsersEstimate": 306
     },
     {
       "ID": "ACH_MISSION_12",
@@ -2519,9 +2519,9 @@
       "ID": "ACH_SAVE_MARINE_BLEEDING",
       "SetID": "816efe",
       "Name": "This Was No Papercut",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 1528
+      "UsersEstimate": 1556
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -2576,8 +2576,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-09T20:59:26.8996663+00:00",
-  "LastChanged_Achievements": "2023-07-10T10:07:10.6174224+00:00",
+  "LastChanged_Achievements": "2023-07-10T11:06:50.3592111+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:32.529009+00:00",
-  "LastUpdate_Ratings": "2023-07-10T09:59:52.6058238+00:00",
-  "LastUpdate_Achievements": "2023-07-10T10:07:10.6174586+00:00"
+  "LastUpdate_Ratings": "2023-07-10T10:59:37.8193651+00:00",
+  "LastUpdate_Achievements": "2023-07-10T11:06:50.3592475+00:00"
 }

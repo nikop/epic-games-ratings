@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -4244,9 +4244,9 @@
       "ID": "guildpower",
       "SetID": "3nl4bcg",
       "Name": "Guild Power",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 385
+      "UsersEstimate": 401
     },
     {
       "ID": "herewegoagain",
@@ -4468,9 +4468,9 @@
       "ID": "templeofeternals",
       "SetID": "3nl4bcg",
       "Name": "Temple of Eternals",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 899
+      "UsersEstimate": 915
     },
     {
       "ID": "thealchemist",
@@ -4516,9 +4516,9 @@
       "ID": "theunstoppable",
       "SetID": "3nl4bcg",
       "Name": "The Unstoppable",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 209
     },
     {
       "ID": "titanpower",
@@ -4621,8 +4621,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-07-06T11:58:21.6174539+00:00",
-  "LastChanged_Achievements": "2023-07-10T10:07:17.9484497+00:00",
+  "LastChanged_Achievements": "2023-07-10T11:06:57.4274428+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:35.1051404+00:00",
-  "LastUpdate_Ratings": "2023-07-10T09:58:24.6659774+00:00",
-  "LastUpdate_Achievements": "2023-07-10T10:07:17.9485271+00:00"
+  "LastUpdate_Ratings": "2023-07-10T10:58:12.4256216+00:00",
+  "LastUpdate_Achievements": "2023-07-10T11:06:57.4275197+00:00"
 }

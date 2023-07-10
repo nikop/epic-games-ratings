@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1970,9 +1970,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 66812,
+  "EOS_Progressed": 66813,
   "EOS_Completed": 101,
-  "EOS_NewPlayers": 477,
+  "EOS_NewPlayers": 476,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -9305,6 +9305,11 @@
       "Time": "2023-07-10T09:03:35.328497+00:00",
       "NumProgressed": 66812,
       "NumCompleted": 101
+    },
+    {
+      "Time": "2023-07-10T11:03:41.7743818+00:00",
+      "NumProgressed": 66813,
+      "NumCompleted": 101
     }
   ],
   "TotalAchievements": 61,
@@ -9468,7 +9473,7 @@
       "Name": "Expert Crime Fighter",
       "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -9540,7 +9545,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2672
+      "UsersEstimate": 2673
     },
     {
       "ID": "FREEZE_1_5",
@@ -9620,7 +9625,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2672
+      "UsersEstimate": 2673
     },
     {
       "ID": "HARLEY_2",
@@ -9692,7 +9697,7 @@
       "Name": "Knighthood",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2672
+      "UsersEstimate": 2673
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -9708,7 +9713,7 @@
       "Name": "Loose Ends",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2672
+      "UsersEstimate": 2673
     },
     {
       "ID": "MYSTERY_02",
@@ -9803,13 +9808,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 66812,
+      "Progressed": 66813,
       "Completed": 101
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 37092,
+      "Progressed": 37093,
       "Completed": 2652
     }
   ],
@@ -9817,8 +9822,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-07-10T10:00:19.8043991+00:00",
-  "LastChanged_Achievements": "2023-07-10T10:03:56.2847766+00:00",
+  "LastChanged_Achievements": "2023-07-10T11:03:41.7743813+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:06.0757808+00:00",
-  "LastUpdate_Ratings": "2023-07-10T10:00:19.8043997+00:00",
-  "LastUpdate_Achievements": "2023-07-10T10:03:56.2848544+00:00"
+  "LastUpdate_Ratings": "2023-07-10T11:00:05.3620099+00:00",
+  "LastUpdate_Achievements": "2023-07-10T11:03:41.7744606+00:00"
 }

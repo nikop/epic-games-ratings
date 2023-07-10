@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1315,
+  "EOS_Progressed": 1316,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
@@ -1138,6 +1138,11 @@
       "Time": "2023-07-10T10:07:16.4171543+00:00",
       "NumProgressed": 1315,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-10T11:06:55.9296593+00:00",
+      "NumProgressed": 1316,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1173,7 +1178,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "13",
@@ -1213,7 +1218,7 @@
       "Name": "Balding bloot!",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1039
+      "UsersEstimate": 1040
     },
     {
       "ID": "18",
@@ -1373,7 +1378,7 @@
       "Name": "Over my dead body",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "9",
@@ -1388,15 +1393,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1315,
+      "Progressed": 1316,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-07-10T10:07:16.4171539+00:00",
+  "LastChanged_Achievements": "2023-07-10T11:06:55.9296587+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:43.1478787+00:00",
-  "LastUpdate_Ratings": "2023-07-10T10:00:01.0583849+00:00",
-  "LastUpdate_Achievements": "2023-07-10T10:07:16.4171762+00:00"
+  "LastUpdate_Ratings": "2023-07-10T10:59:46.7453067+00:00",
+  "LastUpdate_Achievements": "2023-07-10T11:06:55.9296819+00:00"
 }

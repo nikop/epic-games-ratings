@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 72182,
+  "EOS_Progressed": 72535,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 71567,
+  "EOS_NewPlayers": 71920,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1154,6 +1154,11 @@
       "Time": "2023-07-10T10:04:05.4264622+00:00",
       "NumProgressed": 72182,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-10T11:03:50.7574432+00:00",
+      "NumProgressed": 72535,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -1165,7 +1170,7 @@
       "Name": "Spiral Heart",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACQUIRE_ALLHUNTPOINTS",
@@ -1173,7 +1178,7 @@
       "Name": "Bloodhunter",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ACQUIRE_ALLOUTFITS",
@@ -1181,7 +1186,7 @@
       "Name": "Skinmaker",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACQUIRE_ALLTRAITS",
@@ -1189,7 +1194,7 @@
       "Name": "Assimilation",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 722
+      "UsersEstimate": 725
     },
     {
       "ID": "ACQUIRE_ALLWEAPONS",
@@ -1197,7 +1202,7 @@
       "Name": "Instruments",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACQUIRE_FETALPEARLS",
@@ -1213,7 +1218,7 @@
       "Name": "The Hunt",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 46196
+      "UsersEstimate": 46422
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -1221,7 +1226,7 @@
       "Name": "Breath",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "ACQUIRE_TRAIT",
@@ -1229,7 +1234,7 @@
       "Name": "Taste",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 59911
+      "UsersEstimate": 60204
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -1237,7 +1242,7 @@
       "Name": "Weeper",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 26707
+      "UsersEstimate": 26838
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -1245,7 +1250,7 @@
       "Name": "Hunt Down",
       "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 650
+      "UsersEstimate": 653
     },
     {
       "ID": "DEFEAT_ARTISAN",
@@ -1253,7 +1258,7 @@
       "Name": "Artisan",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 433
+      "UsersEstimate": 435
     },
     {
       "ID": "DEFEAT_FIDUS",
@@ -1261,7 +1266,7 @@
       "Name": "Shapely",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 1444
+      "UsersEstimate": 1451
     },
     {
       "ID": "DEFEAT_FLOWERHEART",
@@ -1269,7 +1274,7 @@
       "Name": "Scion",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2871
+      "UsersEstimate": 2885
     },
     {
       "ID": "DEFEAT_FLOWERROCKGIANT",
@@ -1277,7 +1282,7 @@
       "Name": "Glare",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1435
+      "UsersEstimate": 1442
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -1285,7 +1290,7 @@
       "Name": "Host",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 646
+      "UsersEstimate": 649
     },
     {
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
@@ -1293,7 +1298,7 @@
       "Name": "Hush",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 650
+      "UsersEstimate": 653
     },
     {
       "ID": "DEFEAT_HARMLESSROCKGIANT",
@@ -1301,7 +1306,7 @@
       "Name": "Harmless",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8662
+      "UsersEstimate": 8704
     },
     {
       "ID": "DEFEAT_JAWCRAB",
@@ -1309,7 +1314,7 @@
       "Name": "Jawcrab",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2887
+      "UsersEstimate": 2901
     },
     {
       "ID": "DEFEAT_JAWSTAG",
@@ -1317,7 +1322,7 @@
       "Name": "Jawstag",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 3609
+      "UsersEstimate": 3627
     },
     {
       "ID": "DEFEAT_PERFORMER",
@@ -1325,7 +1330,7 @@
       "Name": "Celebration",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 505
+      "UsersEstimate": 508
     },
     {
       "ID": "DEFEAT_SHIDRA",
@@ -1333,7 +1338,7 @@
       "Name": "Inevitable",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 361
+      "UsersEstimate": 363
     },
     {
       "ID": "DEFEAT_VULTURE",
@@ -1341,7 +1346,7 @@
       "Name": "Feast",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 2887
+      "UsersEstimate": 2901
     },
     {
       "ID": "DEFEAT_WATCHER",
@@ -1349,7 +1354,7 @@
       "Name": "Watcher",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2887
+      "UsersEstimate": 2901
     },
     {
       "ID": "DEFEAT_WHISPERERS",
@@ -1357,7 +1362,7 @@
       "Name": "Silenced Whispers",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 7940
+      "UsersEstimate": 7979
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -1365,7 +1370,7 @@
       "Name": "Devourer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 10827
+      "UsersEstimate": 10880
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -1373,7 +1378,7 @@
       "Name": "All-Seeing",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "MISC_ACTIVATESURROGATE",
@@ -1381,15 +1386,15 @@
       "Name": "Imprint",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 64242
+      "UsersEstimate": 64556
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
       "SetID": "ccc0dlh",
       "Name": "Predator",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 722
+      "UsersEstimate": 1451
     },
     {
       "ID": "MISC_ENDING_PROPER",
@@ -1397,7 +1402,7 @@
       "Name": "Kinship",
       "Percentage": 0.2,
       "XP": 60,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "MISC_ENDING_SURRENDER",
@@ -1405,7 +1410,7 @@
       "Name": "Weakness",
       "Percentage": 0.1,
       "XP": 60,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "MISC_MAXUPGRADE",
@@ -1413,7 +1418,7 @@
       "Name": "Breathsmith",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 433
+      "UsersEstimate": 435
     },
     {
       "ID": "MISC_PULLANENEMY",
@@ -1421,7 +1426,7 @@
       "Name": "Yank",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 5053
+      "UsersEstimate": 5077
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -1429,7 +1434,7 @@
       "Name": "Sharpened Vessel",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5775
+      "UsersEstimate": 5803
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -1437,7 +1442,7 @@
       "Name": "Ravenous",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 44753
+      "UsersEstimate": 44972
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -1445,7 +1450,7 @@
       "Name": "Unwrap the Gift",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "MISC_UNLOCKNERVEPASSES",
@@ -1453,7 +1458,7 @@
       "Name": "Passage",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "QUEST_CHILD",
@@ -1461,7 +1466,7 @@
       "Name": "Dream",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 359
+      "UsersEstimate": 361
     },
     {
       "ID": "QUEST_CODA",
@@ -1469,7 +1474,7 @@
       "Name": "Generous",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "QUEST_KIN",
@@ -1485,7 +1490,7 @@
       "Name": "Listen",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "QUEST_YON",
@@ -1493,28 +1498,28 @@
       "Name": "Proportions",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     }
   ],
   "AchievementSets": [
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 71765,
-      "Completed": 48
+      "Progressed": 72118,
+      "Completed": 49
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 72182,
+      "Progressed": 72535,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-07-09T19:01:35.0951033+00:00",
-  "LastChanged_Achievements": "2023-07-10T10:04:05.426462+00:00",
+  "LastChanged_Achievements": "2023-07-10T11:03:50.7574425+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:54.6743513+00:00",
-  "LastUpdate_Ratings": "2023-07-10T10:00:58.77581+00:00",
-  "LastUpdate_Achievements": "2023-07-10T10:04:05.4264938+00:00"
+  "LastUpdate_Ratings": "2023-07-10T11:00:44.9122717+00:00",
+  "LastUpdate_Achievements": "2023-07-10T11:03:50.757473+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "my-fantastic-ranch",
   "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-11-17T09:00:00+00:00",
     "PcReleaseDate": "2022-11-17T09:00:00+00:00",
@@ -188,9 +188,9 @@
       "ID": "14",
       "SetID": "6ljhbe4",
       "Name": "Festival Fever",
-      "Percentage": 5,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "15",
@@ -204,9 +204,9 @@
       "ID": "16",
       "SetID": "6ljhbe4",
       "Name": "Gotta Adopt Them All!",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "17",
@@ -292,17 +292,17 @@
       "ID": "3",
       "SetID": "6ljhbe4",
       "Name": "Kingdom Party Time",
-      "Percentage": 14,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "4",
       "SetID": "6ljhbe4",
       "Name": "Entering New Territory",
-      "Percentage": 5,
+      "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "5",
@@ -324,9 +324,9 @@
       "ID": "7",
       "SetID": "6ljhbe4",
       "Name": "Lecturer",
-      "Percentage": 5,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "8",
@@ -357,8 +357,8 @@
   "FirstSeenRating": "2023-03-31T05:58:20.5434938+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.8838282+00:00",
   "LastChanged": "2023-03-31T05:58:20.5434939+00:00",
-  "LastChanged_Achievements": "2023-07-10T10:07:14.2756759+00:00",
+  "LastChanged_Achievements": "2023-07-10T11:06:53.9656501+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:30.0875314+00:00",
-  "LastUpdate_Ratings": "2023-07-10T09:59:04.4445214+00:00",
-  "LastUpdate_Achievements": "2023-07-10T10:07:14.2756904+00:00"
+  "LastUpdate_Ratings": "2023-07-10T10:58:52.0503066+00:00",
+  "LastUpdate_Achievements": "2023-07-10T11:06:53.9656649+00:00"
 }

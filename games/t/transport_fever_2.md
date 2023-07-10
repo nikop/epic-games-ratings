@@ -16,7 +16,7 @@ Number of Ratings: 180  (23.09.2022)
 | First train station | 64.00% | ~899 |
 | First steam train arrived | 60.00% | ~843 |
 | First industry upgraded | 57.00% | ~801 |
-| Transport millionaire | 55.00% | ~773 |
+| Transport millionaire | 56.00% | ~787 |
 | Cargo hub | 54.00% | ~759 |
 | Transport master | 53.00% | ~745 |
 | Cadet | 53.00% | ~745 |
@@ -37,8 +37,8 @@ Number of Ratings: 180  (23.09.2022)
 | The king of the sea | 29.00% | ~407 |
 | City | 28.00% | ~393 |
 | Transport tycoon | 24.00% | ~337 |
+| Climate change | 23.00% | ~323 |
 | The ugly smell of success | 23.00% | ~323 |
-| Climate change | 22.00% | ~309 |
 | Old timer | 22.00% | ~309 |
 | Heavily loaded | 21.00% | ~295 |
 | Bob Ross | 16.00% | ~225 |

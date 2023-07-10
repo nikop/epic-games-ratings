@@ -6,7 +6,7 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~11,939 |
+| Sink Beneath the Waves | 36.00% | ~11,940 |
 | Sweet Sorrow | 18.00% | ~5,970 |
 | Rules the Waves | 17.00% | ~5,638 |
 | Thou, All-Shaking Thunder | 15.00% | ~4,975 |
@@ -43,11 +43,11 @@ Number of Ratings: 401  (23.09.2022)
 | Rosewater sailor | 1.00% | ~332 |
 | Under the zee | 1.00% | ~332 |
 | A current under zee | 1.00% | ~332 |
-| A zee-change | 0.90% | ~298 |
-| Never Stop Sinking... | 0.90% | ~298 |
-| Leviathan | 0.90% | ~298 |
-| No regrets | 0.90% | ~298 |
-| Depth charge | 0.90% | ~298 |
+| A zee-change | 0.90% | ~299 |
+| Never Stop Sinking... | 0.90% | ~299 |
+| Leviathan | 0.90% | ~299 |
+| No regrets | 0.90% | ~299 |
+| Depth charge | 0.90% | ~299 |
 | What lies beneath | 0.80% | ~265 |
 | Stone's Curse | 0.70% | ~232 |
 | Five Years at Zee | 0.50% | ~166 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~33 |
 | Ten Years at Zee | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,165 (Ranked 93)  
+Progressed: 33,167 (Ranked 93)  
 Completed: 3 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 3 (0.01%) (Ranked 223)
 | 2023-07-07 | 32,969 | 3 |
 | 2023-07-08 | 33,050 | 3 |
 | 2023-07-09 | 33,134 | 3 |
-| 2023-07-10 | 33,165 | 3 |
+| 2023-07-10 | 33,167 | 3 |
 ## Awards
 Max (Character Customization): 209  (Ranked 264)  
 Sum: 279 (Ranked 337)  

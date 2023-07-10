@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 246347,
+  "EOS_Progressed": 246348,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 389,
+  "EOS_NewPlayers": 388,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7884,6 +7884,11 @@
       "Time": "2023-07-10T10:07:14.7277479+00:00",
       "NumProgressed": 246347,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-10T11:06:54.2856642+00:00",
+      "NumProgressed": 246348,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -7991,7 +7996,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 44342
+      "UsersEstimate": 44343
     },
     {
       "ID": "curator",
@@ -7999,7 +8004,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 49269
+      "UsersEstimate": 49270
     },
     {
       "ID": "didYourTime",
@@ -8262,7 +8267,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 246347,
+      "Progressed": 246348,
       "Completed": 3
     }
   ],
@@ -8270,8 +8275,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-07-10T10:07:14.7277476+00:00",
+  "LastChanged_Achievements": "2023-07-10T11:06:54.2856638+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:16.5016071+00:00",
-  "LastUpdate_Ratings": "2023-07-10T09:59:40.2598115+00:00",
-  "LastUpdate_Achievements": "2023-07-10T10:07:14.7278124+00:00"
+  "LastUpdate_Ratings": "2023-07-10T10:59:26.6894951+00:00",
+  "LastUpdate_Achievements": "2023-07-10T11:06:54.2857313+00:00"
 }

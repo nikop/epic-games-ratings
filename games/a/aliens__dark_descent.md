@@ -11,7 +11,7 @@ Rating: 4.39 (Ranked 701)
 | Cleaning Lethe, One Nest At A Time | 64.00% | ~1,778 |
 | Call Me Snake | 58.00% | ~1,611 |
 | Something Lurks Under The Hills | 57.00% | ~1,583 |
-| This Was No Papercut | 55.00% | ~1,528 |
+| This Was No Papercut | 56.00% | ~1,556 |
 | The Shrink Hates Me | 52.00% | ~1,445 |
 | People Person | 50.00% | ~1,389 |
 | Use The Bumper, That's What It's For | 48.00% | ~1,333 |
@@ -36,7 +36,7 @@ Rating: 4.39 (Ranked 701)
 | Bandage Lover | 12.00% | ~333 |
 | Frontliner | 12.00% | ~333 |
 | The Cable Guy | 12.00% | ~333 |
-| Excavating The Truth | 10.00% | ~278 |
+| Excavating The Truth | 11.00% | ~306 |
 | Abysmal Horrors | 10.00% | ~278 |
 | Heavy Steps | 9.00% | ~250 |
 | Regicide | 8.00% | ~222 |

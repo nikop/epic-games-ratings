@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 509,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 336,
+  "EOS_NewPlayers": 335,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1307,9 +1307,9 @@
       "ID": "OUT_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Last of Us",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 97
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -1323,9 +1323,9 @@
       "ID": "RAPTOR_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Clairvoyant Who Doesn\u0027t See",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 178
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -1410,8 +1410,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-10T10:04:43.2172513+00:00",
+  "LastChanged_Achievements": "2023-07-10T11:04:27.3861145+00:00",
   "LastUpdate_AppInfo": "2023-07-06T13:16:22.5768242+00:00",
-  "LastUpdate_Ratings": "2023-07-10T09:57:06.0672364+00:00",
-  "LastUpdate_Achievements": "2023-07-10T10:04:43.2173059+00:00"
+  "LastUpdate_Ratings": "2023-07-10T10:56:54.9437486+00:00",
+  "LastUpdate_Achievements": "2023-07-10T11:04:27.3861689+00:00"
 }

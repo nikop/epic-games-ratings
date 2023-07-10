@@ -9,17 +9,17 @@
 | Creature Evolution | 32.00% | ~7 |
 | Spirit of competition | 32.00% | ~7 |
 | Think Positive | 23.00% | ~5 |
-| Kingdom Party Time | 14.00% | ~3 |
-| Festival Fever | 5.00% | ~1 |
+| Kingdom Party Time | 18.00% | ~4 |
+| Festival Fever | 9.00% | ~2 |
+| Entering New Territory | 9.00% | ~2 |
+| Lecturer | 9.00% | ~2 |
+| Gotta Adopt Them All! | 5.00% | ~1 |
 | Landscaper | 5.00% | ~1 |
 | Dream Big | 5.00% | ~1 |
-| Entering New Territory | 5.00% | ~1 |
-| Lecturer | 5.00% | ~1 |
 | Kindred Spirits | 5.00% | ~1 |
 | Kingdom Champions | 0.00% | ~0 |
 | Dream Team | 0.00% | ~0 |
 | S is for Sensational | 0.00% | ~0 |
-| Gotta Adopt Them All! | 0.00% | ~0 |
 | Protected Nature Reserve | 0.00% | ~0 |
 | Diamonds in the Rough | 0.00% | ~0 |
 | Paving the Way | 0.00% | ~0 |

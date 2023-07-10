@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -525,9 +525,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 216822,
+  "EOS_Progressed": 216825,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 674,
+  "EOS_NewPlayers": 676,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9090,6 +9090,11 @@
       "Time": "2023-07-10T10:05:47.0381983+00:00",
       "NumProgressed": 216822,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-10T11:05:29.0010281+00:00",
+      "NumProgressed": 216825,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 34,
@@ -9101,7 +9106,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 41196
+      "UsersEstimate": 41197
     },
     {
       "ID": "ACH_BASE_10",
@@ -9181,7 +9186,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13009
+      "UsersEstimate": 13010
     },
     {
       "ID": "ACH_BASE_20",
@@ -9372,7 +9377,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 216822,
+      "Progressed": 216825,
       "Completed": 4
     }
   ],
@@ -9380,8 +9385,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-07-07T16:58:59.406798+00:00",
-  "LastChanged_Achievements": "2023-07-10T10:05:47.0381978+00:00",
+  "LastChanged_Achievements": "2023-07-10T11:05:29.0010278+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:16.5954522+00:00",
-  "LastUpdate_Ratings": "2023-07-10T09:58:55.5155293+00:00",
-  "LastUpdate_Achievements": "2023-07-10T10:05:47.0382555+00:00"
+  "LastUpdate_Ratings": "2023-07-10T10:58:42.5809375+00:00",
+  "LastUpdate_Achievements": "2023-07-10T11:05:29.0010862+00:00"
 }

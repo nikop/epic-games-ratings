@@ -7,10 +7,10 @@ Rating: 4.09 (Ranked 890)
 | ---- | ---------- | ----- |
 | Victor | 93.00% | ~1,493 |
 | World Map | 79.00% | ~1,268 |
-| Temple of Eternals | 56.00% | ~899 |
+| Temple of Eternals | 57.00% | ~915 |
 | Prestigious | 53.00% | ~851 |
 | Fellowship Power | 41.00% | ~658 |
-| Guild Power | 24.00% | ~385 |
+| Guild Power | 25.00% | ~401 |
 | Prestigious x10 | 21.00% | ~337 |
 | The game is on | 20.00% | ~321 |
 | Exotic Merchant | 17.00% | ~273 |
@@ -22,11 +22,11 @@ Rating: 4.09 (Ranked 890)
 | Enlightenment | 14.00% | ~225 |
 | Hero inspection | 14.00% | ~225 |
 | Lieutenant | 14.00% | ~225 |
+| The Unstoppable | 13.00% | ~209 |
 | Milestone collector | 12.00% | ~193 |
 | Mysterious Rock | 12.00% | ~193 |
 | Natural Talent | 12.00% | ~193 |
 | Superior | 12.00% | ~193 |
-| The Unstoppable | 12.00% | ~193 |
 | Scientist | 11.00% | ~177 |
 | Hunter | 10.00% | ~160 |
 | The power of Awakening | 10.00% | ~160 |
