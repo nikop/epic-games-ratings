@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -2485,9 +2485,9 @@
       "ID": "MissionVictory_NoWP",
       "SetID": "3jha1np",
       "Name": "Exercise in Restraint",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "MissionVictory_Purgators",
@@ -2627,8 +2627,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-08T19:59:25.149213+00:00",
-  "LastChanged_Achievements": "2023-07-10T06:02:06.3006528+00:00",
+  "LastChanged_Achievements": "2023-07-10T07:02:39.1311279+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:34.0888616+00:00",
-  "LastUpdate_Ratings": "2023-07-10T05:58:30.5665025+00:00",
-  "LastUpdate_Achievements": "2023-07-10T06:02:06.3007205+00:00"
+  "LastUpdate_Ratings": "2023-07-10T06:59:30.1128661+00:00",
+  "LastUpdate_Achievements": "2023-07-10T07:02:39.1312072+00:00"
 }

@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | Seeds of War | 65.00% | ~107 |
 | Aspairagus | 53.00% | ~61 |
+| Triple Kill | 48.00% | ~79 |
 | Survivor | 48.00% | ~55 |
 | First Blood | 47.00% | ~78 |
-| Triple Kill | 47.00% | ~78 |
 | I Believe I Can Fly | 41.00% | ~68 |
 | Cornivore | 41.00% | ~68 |
 | No Asperascope | 38.00% | ~63 |

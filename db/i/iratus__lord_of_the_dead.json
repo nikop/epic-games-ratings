@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-05-19T15:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -2014,9 +2014,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 34413,
+  "EOS_Progressed": 34414,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 536,
+  "EOS_NewPlayers": 535,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -10474,6 +10474,11 @@
       "Time": "2023-07-10T06:02:15.0472031+00:00",
       "NumProgressed": 34413,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-07-10T07:02:50.9572217+00:00",
+      "NumProgressed": 34414,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 75,
@@ -10517,7 +10522,7 @@
       "Name": "Cursed Creature",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 19615
+      "UsersEstimate": 19616
     },
     {
       "ID": "achievements_14",
@@ -10533,7 +10538,7 @@
       "Name": "Keeper of Keys",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 16174
+      "UsersEstimate": 16175
     },
     {
       "ID": "achievements_17",
@@ -10597,7 +10602,7 @@
       "Name": "Chainbreaker - II",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 18927
+      "UsersEstimate": 18928
     },
     {
       "ID": "achievements_25",
@@ -10613,7 +10618,7 @@
       "Name": "Mountain King - I",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 14453
+      "UsersEstimate": 14454
     },
     {
       "ID": "achievements_27",
@@ -10621,7 +10626,7 @@
       "Name": "Mountain King - II",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 13765
+      "UsersEstimate": 13766
     },
     {
       "ID": "achievements_28",
@@ -10637,7 +10642,7 @@
       "Name": "Bane of Mercenaries - I",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 11356
+      "UsersEstimate": 11357
     },
     {
       "ID": "achievements_3",
@@ -10789,7 +10794,7 @@
       "Name": "Improvement",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 29595
+      "UsersEstimate": 29596
     },
     {
       "ID": "achievements_47",
@@ -10837,7 +10842,7 @@
       "Name": "Prepared Necromancer",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 14109
+      "UsersEstimate": 14110
     },
     {
       "ID": "achievements_52",
@@ -10853,7 +10858,7 @@
       "Name": "Extraction",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 19615
+      "UsersEstimate": 19616
     },
     {
       "ID": "achievements_54",
@@ -10909,7 +10914,7 @@
       "Name": "Soul of Lies",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 11700
+      "UsersEstimate": 11701
     },
     {
       "ID": "achievements_61",
@@ -10933,7 +10938,7 @@
       "Name": "Revealed Secrets - II",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 8947
+      "UsersEstimate": 8948
     },
     {
       "ID": "achievements_64",
@@ -11061,7 +11066,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 25121
+      "UsersEstimate": 25122
     },
     {
       "ID": "achievements_8",
@@ -11084,15 +11089,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 34413,
+      "Progressed": 34414,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-07-06T03:24:54.2953536+00:00",
-  "LastChanged_Achievements": "2023-07-10T06:02:15.0472025+00:00",
+  "LastChanged_Achievements": "2023-07-10T07:02:50.957221+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:42.9592415+00:00",
-  "LastUpdate_Ratings": "2023-07-10T05:58:34.4056886+00:00",
-  "LastUpdate_Achievements": "2023-07-10T06:02:15.0473371+00:00"
+  "LastUpdate_Ratings": "2023-07-10T06:59:36.7211057+00:00",
+  "LastUpdate_Achievements": "2023-07-10T07:02:50.9574714+00:00"
 }

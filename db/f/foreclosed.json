@@ -4,8 +4,8 @@
   "ProductSlug": "foreclosed",
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 69,
-  "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-08-12T13:00:00+00:00",
     "PcReleaseDate": "2021-08-12T13:00:00+00:00",
@@ -175,9 +175,9 @@
       "ID": "Headshots_0",
       "SetID": "9e3d06k",
       "Name": "Sniper",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "Headshots_1",
@@ -191,9 +191,9 @@
       "ID": "KyklosPlan",
       "SetID": "9e3d06k",
       "Name": "The Red Herring",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "LiftEnemies_0",
@@ -296,8 +296,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2023-07-10T06:03:05.9896564+00:00",
+  "LastChanged_Achievements": "2023-07-10T07:03:35.2217871+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:02.8742074+00:00",
-  "LastUpdate_Ratings": "2023-07-10T05:58:46.496404+00:00",
-  "LastUpdate_Achievements": "2023-07-10T06:03:05.9896744+00:00"
+  "LastUpdate_Ratings": "2023-07-10T06:59:59.4470618+00:00",
+  "LastUpdate_Achievements": "2023-07-10T07:03:35.2218075+00:00"
 }

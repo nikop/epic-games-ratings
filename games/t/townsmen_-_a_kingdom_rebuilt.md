@@ -70,7 +70,7 @@ Number of Ratings: 37  (23.09.2022)
 | I've been everywhere I | 1.00% | ~42 |
 | Tax-man V | 1.00% | ~42 |
 | A time consuming game V | 1.00% | ~42 |
-| I've been everywhere II | 0.80% | ~33 |
+| I've been everywhere II | 0.90% | ~38 |
 | When there's fire... | 0.70% | ~29 |
 | Last man standing | 0.70% | ~29 |
 | I've been everywhere VI | 0.70% | ~29 |

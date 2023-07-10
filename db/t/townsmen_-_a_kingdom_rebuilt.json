@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
     "PcReleaseDate": "2019-02-26T00:00:00+00:00",
@@ -1295,9 +1295,9 @@
       "ID": "ACHIEVEMENT_SCENARIO_LATEFALL",
       "SetID": "9eacipp",
       "Name": "I\u0027ve been everywhere II",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 38
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_LEGACY",
@@ -1575,8 +1575,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-07-10T06:03:14.4390469+00:00",
+  "LastChanged_Achievements": "2023-07-10T07:03:46.6552523+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:35.0045065+00:00",
-  "LastUpdate_Ratings": "2023-07-10T05:57:56.18829+00:00",
-  "LastUpdate_Achievements": "2023-07-10T06:03:14.4391801+00:00"
+  "LastUpdate_Ratings": "2023-07-10T06:58:35.0984232+00:00",
+  "LastUpdate_Achievements": "2023-07-10T07:03:46.6553994+00:00"
 }

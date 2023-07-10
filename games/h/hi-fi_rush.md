@@ -55,6 +55,7 @@ Rating: 4.87 (Ranked 25)
 | This was... not what I expected. | 0.10% | ~3 |
 | Have we met before? | 0.10% | ~3 |
 | I hit things with a guitar really well. | 0.10% | ~3 |
+| I'm untouchable! | 0.10% | ~3 |
 | You ever parry a volcano? | 0.10% | ~3 |
 | I saw all those hits coming a measure away! | 0.10% | ~3 |
 | Choose your own adventure | 0.10% | ~2 |
@@ -70,7 +71,6 @@ Rating: 4.87 (Ranked 25)
 | I have to read ALL of these things? | 0.00% | ~0 |
 | My Ultimate Setlist | 0.00% | ~0 |
 | What a journey it was... | 0.00% | ~0 |
-| I'm untouchable! | 0.00% | ~0 |
 | I am a good person who likes to help | 0.00% | ~0 |
 | I'm trying to FOCUS HERE! | 0.00% | ~0 |
 | With our powers combined…and to the rhythm… | 0.00% | ~0 |
