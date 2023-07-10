@@ -119,7 +119,7 @@
 | 107 | [Tchia](games/t/tchia.md) | 4.77 | 0 | 504 |
 | 107 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 504 |
 | 107 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 28 | 462 |
-| 120 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 14,729 | 23 |
+| 120 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 14,739 | 23 |
 | 120 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 85 | 348 |
 | 120 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 0 | 504 |
 | 120 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,259 | 88 |
@@ -307,7 +307,7 @@
 | 299 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 0 | 504 |
 | 299 | [Old World](games/o/old_world.md) | 4.65 | 218 | 255 |
 | 299 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 0 | 504 |
-| 299 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,653 | 16 |
+| 299 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,657 | 16 |
 | 299 | [Tennis Manager 2022](games/t/tennis_manager_2022.md) | 4.65 | 0 | 504 |
 | 299 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.65 | 21 | 492 |
 | 311 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 0 | 504 |
@@ -900,7 +900,7 @@
 | 896 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 0 | 504 |
 | 899 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 181 | 278 |
 | 900 | [Tharsis](games/t/tharsis.md) | 4.06 | 0 | 504 |
-| 901 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 5,016 | 65 |
+| 901 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 5,021 | 65 |
 | 901 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 452 | 200 |
 | 901 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.05 | 0 | 504 |
 | 904 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.04 | 0 | 504 |

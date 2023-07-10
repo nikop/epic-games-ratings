@@ -15,14 +15,14 @@
 | 13 | [Destiny 2](games/d/destiny_2.md) | 35,574 | 4.50 | 551 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 34,227 | 4.74 | 144 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 29,748 | 4.52 | 519 |
-| 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,653 | 4.65 | 299 |
+| 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,657 | 4.65 | 299 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 20,828 | 4.77 | 107 |
 | 18 | [Dauntless](games/d/dauntless.md) | 20,647 | 4.53 | 508 |
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 18,895 | 4.57 | 439 |
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 16,828 | 4.89 | 12 |
 | 21 | [Warframe](games/w/warframe.md) | 15,887 | 4.61 | 361 |
 | 22 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 14,862 | 4.25 | 806 |
-| 23 | [Borderlands 2](games/b/borderlands_2.md) | 14,729 | 4.76 | 120 |
+| 23 | [Borderlands 2](games/b/borderlands_2.md) | 14,739 | 4.76 | 120 |
 | 24 | [League of Legends](games/l/league_of_legends.md) | 14,607 | 4.21 | 832 |
 | 25 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,414 | 4.58 | 422 |
 | 26 | [Maneater](games/m/maneater.md) | 13,562 | 4.49 | 573 |
@@ -64,7 +64,7 @@
 | 62 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,435 | 4.75 | 134 |
 | 63 | [Rogue Company](games/r/rogue_company.md) | 5,116 | 4.33 | 755 |
 | 64 | [Dead Island 2](games/d/dead_island_2.md) | 5,113 | 4.54 | 490 |
-| 65 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,016 | 4.05 | 901 |
+| 65 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,021 | 4.05 | 901 |
 | 66 | [Cities: Skylines](games/c/cities__skylines.md) | 4,899 | 4.65 | 299 |
 | 67 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4,820 | 4.57 | 439 |
 | 68 | [MultiVersus](games/m/multiversus.md) | 4,745 | 4.56 | 454 |
