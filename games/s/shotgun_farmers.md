@@ -4,38 +4,38 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 65.00% | ~108 |
-| Aspairagus | 53.00% | ~61 |
-| First Blood | 48.00% | ~80 |
-| Triple Kill | 48.00% | ~80 |
-| Survivor | 48.00% | ~56 |
-| I Believe I Can Fly | 42.00% | ~70 |
-| Cornivore | 42.00% | ~70 |
-| No Asperascope | 38.00% | ~63 |
-| Early Survivor | 37.00% | ~43 |
-| No Diggity | 36.00% | ~42 |
-| Amateur Survivor | 26.00% | ~30 |
-| Bouncemato | 23.00% | ~27 |
-| 10K | 20.00% | ~33 |
+| Seeds of War | 66.00% | ~112 |
+| Aspairagus | 52.00% | ~62 |
+| First Blood | 48.00% | ~82 |
+| Triple Kill | 48.00% | ~82 |
+| Survivor | 48.00% | ~58 |
+| I Believe I Can Fly | 42.00% | ~71 |
+| Cornivore | 41.00% | ~70 |
+| No Asperascope | 38.00% | ~65 |
+| Early Survivor | 36.00% | ~43 |
+| No Diggity | 36.00% | ~43 |
+| Amateur Survivor | 25.00% | ~30 |
+| Bouncemato | 23.00% | ~28 |
+| 10K | 20.00% | ~34 |
 | 15K | 19.00% | ~32 |
-| Professional Survivor | 18.00% | ~21 |
-| Quick-Draw Pod | 17.00% | ~20 |
+| Professional Survivor | 18.00% | ~22 |
 | Drinking Problem | 16.00% | ~27 |
+| Quick-Draw Pod | 16.00% | ~19 |
 | Grave Digger | 16.00% | ~19 |
-| This Is My Boomstick | 14.00% | ~16 |
-| Pork Chop Express | 11.00% | ~18 |
+| This Is My Boomstick | 14.00% | ~17 |
+| Skin Of Your Teeth | 11.00% | ~19 |
+| Pork Chop Express | 11.00% | ~19 |
 | Summers Here | 11.00% | ~13 |
-| Skin Of Your Teeth | 10.00% | ~17 |
-| Eggtraordinary | 10.00% | ~17 |
 | Carrocketeer | 10.00% | ~17 |
-| Oh My Gourd | 9.00% | ~10 |
-| Perfect | 8.00% | ~9 |
-| Pyromaniac | 8.00% | ~9 |
+| Eggtraordinary | 9.00% | ~15 |
+| Oh My Gourd | 9.00% | ~11 |
+| Getting Started | 8.00% | ~14 |
+| Perfect | 8.00% | ~10 |
+| Pyromaniac | 8.00% | ~10 |
 | Fresh Pancake | 7.00% | ~12 |
 | Quit Horsin' Around | 7.00% | ~12 |
-| Expert Survivor | 7.00% | ~8 |
-| Quadsparagus | 7.00% | ~8 |
-| Getting Started | 6.00% | ~10 |
+| Expert Survivor | 6.00% | ~7 |
+| Quadsparagus | 6.00% | ~7 |
 | Bring Home The Bacon | 5.00% | ~8 |
 | Chick Magnet | 4.00% | ~7 |
 | Early Bird | 4.00% | ~7 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 166 (Ranked 276)  
+Progressed: 170 (Ranked 276)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-04 | 138 | 0 |
 | 2023-07-08 | 141 | 0 |
 | 2023-07-09 | 160 | 0 |
-| 2023-07-10 | 166 | 0 |
+| 2023-07-10 | 170 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

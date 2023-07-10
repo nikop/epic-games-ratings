@@ -2,13 +2,13 @@
   "ID": "93ea0d593cb04e62afb0741bbf894173",
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
-  "Ranking_Rating": 538,
+  "Ranking_Rating": 539,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 226870,
+  "EOS_Progressed": 226872,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 569,
+  "EOS_NewPlayers": 565,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -8648,6 +8648,11 @@
       "Time": "2023-07-10T15:07:35.7722458+00:00",
       "NumProgressed": 226870,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-07-10T16:06:50.2639517+00:00",
+      "NumProgressed": 226872,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 34,
@@ -8795,7 +8800,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 72598
+      "UsersEstimate": 72599
     },
     {
       "ID": "NOBUNAGA",
@@ -8883,7 +8888,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 49911
+      "UsersEstimate": 49912
     },
     {
       "ID": "TACTICIAN",
@@ -8907,7 +8912,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 49911
+      "UsersEstimate": 49912
     },
     {
       "ID": "TUNINGMANIAC",
@@ -8923,22 +8928,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 93017
+      "UsersEstimate": 93018
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 226870,
+      "Progressed": 226872,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-07-10T15:07:35.7722451+00:00",
+  "LastChanged_Achievements": "2023-07-10T16:06:50.2639511+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:56.9727616+00:00",
-  "LastUpdate_Ratings": "2023-07-10T14:58:59.0848489+00:00",
-  "LastUpdate_Achievements": "2023-07-10T15:07:35.7723417+00:00"
+  "LastUpdate_Ratings": "2023-07-10T15:58:37.3580737+00:00",
+  "LastUpdate_Achievements": "2023-07-10T16:06:50.2640583+00:00"
 }

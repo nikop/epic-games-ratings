@@ -2,10 +2,10 @@
   "ID": "fa9a00f7f82846b4b820e6152b69aa55",
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
-  "Ranking_EOS_Progress": 227,
+  "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 393,
+  "EOS_Progressed": 394,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1346,6 +1346,11 @@
       "Time": "2023-07-10T09:05:07.9775135+00:00",
       "NumProgressed": 393,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-10T16:05:05.874702+00:00",
+      "NumProgressed": 394,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1461,7 +1466,7 @@
       "Name": "Facility Online",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -1493,7 +1498,7 @@
       "Name": "Captain",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -1541,7 +1546,7 @@
       "Name": "Covert Operative",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -1613,7 +1618,7 @@
       "Name": "Defenses Online",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -1660,14 +1665,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 393,
+      "Progressed": 394,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-10T15:05:33.4044559+00:00",
+  "LastChanged_Achievements": "2023-07-10T16:05:05.8747013+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:58.5226048+00:00",
-  "LastUpdate_Ratings": "2023-07-10T15:01:42.8385201+00:00",
-  "LastUpdate_Achievements": "2023-07-10T15:05:33.4045205+00:00"
+  "LastUpdate_Ratings": "2023-07-10T16:00:55.7329336+00:00",
+  "LastUpdate_Achievements": "2023-07-10T16:05:05.8747385+00:00"
 }

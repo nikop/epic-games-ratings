@@ -9,10 +9,10 @@
 | Summer Day | 57.00% | ~8 |
 | Risky Rescue | 57.00% | ~8 |
 | Grand Re-Opening | 50.00% | ~7 |
+| Paw patrol member | 50.00% | ~7 |
 | Carlos Is Tangled | 50.00% | ~7 |
-| Paw patrol member | 43.00% | ~6 |
-| Mandy Family | 43.00% | ~6 |
-| Robot Out of Control | 43.00% | ~6 |
+| Mandy Family | 50.00% | ~7 |
+| Robot Out of Control | 50.00% | ~7 |
 | Mr. Porter | 36.00% | ~5 |
 | Animal Sighting | 36.00% | ~5 |
 | Break Time | 29.00% | ~4 |
@@ -22,10 +22,10 @@
 | You Have Been Everywhere | 29.00% | ~4 |
 | In the Air | 21.00% | ~3 |
 | Never Miss | 21.00% | ~3 |
+| Adventure Bay’s Citizen | 21.00% | ~3 |
 | Everything Under Control | 14.00% | ~2 |
 | Clear the Road | 14.00% | ~2 |
 | Mountain and Ice | 14.00% | ~2 |
-| Adventure Bay’s Citizen | 14.00% | ~2 |
 | King of the Mountain | 7.00% | ~1 |
 | A Great Explorer | 7.00% | ~1 |
 | Nothing Can Stop You | 7.00% | ~1 |

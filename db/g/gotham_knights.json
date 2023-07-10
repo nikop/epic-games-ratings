@@ -1970,9 +1970,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 66815,
+  "EOS_Progressed": 66818,
   "EOS_Completed": 101,
-  "EOS_NewPlayers": 471,
+  "EOS_NewPlayers": 467,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -9320,6 +9320,11 @@
       "Time": "2023-07-10T14:03:30.1703759+00:00",
       "NumProgressed": 66815,
       "NumCompleted": 101
+    },
+    {
+      "Time": "2023-07-10T16:03:42.1153266+00:00",
+      "NumProgressed": 66818,
+      "NumCompleted": 101
     }
   ],
   "TotalAchievements": 61,
@@ -9379,7 +9384,7 @@
       "Name": "The Batman Family",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2004
+      "UsersEstimate": 2005
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -9435,7 +9440,7 @@
       "Name": "Something in the Clay",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2004
+      "UsersEstimate": 2005
     },
     {
       "ID": "CLAYFACE_2",
@@ -9443,7 +9448,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2004
+      "UsersEstimate": 2005
     },
     {
       "ID": "CLAYFACE_3",
@@ -9563,7 +9568,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2004
+      "UsersEstimate": 2005
     },
     {
       "ID": "FREEZE_2",
@@ -9571,7 +9576,7 @@
       "Name": "Snow Problem",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2004
+      "UsersEstimate": 2005
     },
     {
       "ID": "FREEZE_3",
@@ -9643,7 +9648,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2004
+      "UsersEstimate": 2005
     },
     {
       "ID": "HARLEY_3",
@@ -9651,7 +9656,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2004
+      "UsersEstimate": 2005
     },
     {
       "ID": "HARLEY_4",
@@ -9699,7 +9704,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2004
+      "UsersEstimate": 2005
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -9731,7 +9736,7 @@
       "Name": "Whispered Words",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2004
+      "UsersEstimate": 2005
     },
     {
       "ID": "MYSTERY_03",
@@ -9739,7 +9744,7 @@
       "Name": "Lock and Key",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2004
+      "UsersEstimate": 2005
     },
     {
       "ID": "MYSTERY_04",
@@ -9747,7 +9752,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2004
+      "UsersEstimate": 2005
     },
     {
       "ID": "MYSTERY_05",
@@ -9755,7 +9760,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2004
+      "UsersEstimate": 2005
     },
     {
       "ID": "MYSTERY_06",
@@ -9818,13 +9823,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 66815,
+      "Progressed": 66818,
       "Completed": 101
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 37095,
+      "Progressed": 37098,
       "Completed": 2652
     }
   ],
@@ -9832,8 +9837,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-07-10T10:00:19.8043991+00:00",
-  "LastChanged_Achievements": "2023-07-10T15:03:54.6576462+00:00",
+  "LastChanged_Achievements": "2023-07-10T16:03:42.1153259+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:06.0757808+00:00",
-  "LastUpdate_Ratings": "2023-07-10T15:00:55.6928771+00:00",
-  "LastUpdate_Achievements": "2023-07-10T15:03:54.6578403+00:00"
+  "LastUpdate_Ratings": "2023-07-10T16:00:15.3592373+00:00",
+  "LastUpdate_Achievements": "2023-07-10T16:03:42.1154168+00:00"
 }

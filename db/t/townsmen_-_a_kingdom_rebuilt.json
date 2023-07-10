@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
     "PcReleaseDate": "2019-02-26T00:00:00+00:00",
@@ -1527,9 +1527,9 @@
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION03",
       "SetID": "9eacipp",
       "Name": "Time for some trade",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 251
+      "UsersEstimate": 293
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION04",
@@ -1575,8 +1575,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-07-10T15:03:55.9810046+00:00",
+  "LastChanged_Achievements": "2023-07-10T16:03:43.3538763+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:35.0045065+00:00",
-  "LastUpdate_Ratings": "2023-07-10T14:58:39.6739636+00:00",
-  "LastUpdate_Achievements": "2023-07-10T15:03:55.9812482+00:00"
+  "LastUpdate_Ratings": "2023-07-10T15:58:21.7895992+00:00",
+  "LastUpdate_Achievements": "2023-07-10T16:03:43.354014+00:00"
 }

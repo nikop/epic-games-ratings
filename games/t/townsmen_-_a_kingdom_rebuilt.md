@@ -12,12 +12,12 @@ Number of Ratings: 37  (23.09.2022)
 | Friends from the past | 9.00% | ~376 |
 | I like to build stuff... I | 8.00% | ~334 |
 | A time consuming game I | 7.00% | ~293 |
+| Time for some trade | 7.00% | ~293 |
 | Builder I | 6.00% | ~251 |
 | An honorable Governor I | 6.00% | ~251 |
 | Full-time job I | 6.00% | ~251 |
 | Researcher | 6.00% | ~251 |
 | Tax-man II | 6.00% | ~251 |
-| Time for some trade | 6.00% | ~251 |
 | Not a small trader anymore | 5.00% | ~209 |
 | Bread for the people I | 5.00% | ~209 |
 | I like to build stuff... II | 5.00% | ~209 |

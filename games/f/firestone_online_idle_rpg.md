@@ -7,7 +7,7 @@ Rating: 4.09 (Ranked 890)
 | ---- | ---------- | ----- |
 | Victor | 93.00% | ~1,494 |
 | World Map | 79.00% | ~1,269 |
-| Temple of Eternals | 56.00% | ~899 |
+| Temple of Eternals | 57.00% | ~915 |
 | Prestigious | 53.00% | ~851 |
 | Fellowship Power | 41.00% | ~658 |
 | Guild Power | 25.00% | ~402 |
@@ -71,9 +71,9 @@ Rating: 4.09 (Ranked 890)
 | Cauldron Liberator | 0.40% | ~6 |
 | Enchanting skill x5 | 0.40% | ~6 |
 | Pokerface | 0.40% | ~6 |
+| Titan Power | 0.40% | ~6 |
 | Beast War Machines | 0.30% | ~5 |
 | Enhanced War Machines | 0.30% | ~5 |
-| Titan Power | 0.30% | ~5 |
 | Angel Power | 0.20% | ~3 |
 | Conqueror | 0.20% | ~3 |
 | Silverwood liberator | 0.20% | ~3 |
