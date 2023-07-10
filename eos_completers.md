@@ -6,7 +6,7 @@
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 7 | [Volley Pals](games/v/volley_pals.md) | 23.17% |
+| 7 | [Volley Pals](games/v/volley_pals.md) | 22.89% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 10 | [Island Cities](games/i/island_cities.md) | 17.99% |
@@ -19,7 +19,7 @@
 | 17 | [Remains](games/r/remains.md) | 11.90% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.22% |
 | 19 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 20 | [Sonic Origins](games/s/sonic_origins.md) | 10.62% |
+| 20 | [Sonic Origins](games/s/sonic_origins.md) | 10.58% |
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 21 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.00% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
@@ -66,7 +66,7 @@
 | 64 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 65 | [Lamentum](games/l/lamentum.md) | 2.67% |
 | 66 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
-| 67 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.58% |
+| 67 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.57% |
 | 68 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 69 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
 | 70 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.40% |
@@ -109,8 +109,8 @@
 | 107 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
 | 108 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.77% |
 | 108 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.77% |
+| 110 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
 | 110 | [Lemon Cake](games/l/lemon_cake.md) | 0.76% |
-| 111 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 112 | [Haven](games/h/haven.md) | 0.68% |
 | 113 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.67% |
 | 113 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.67% |
