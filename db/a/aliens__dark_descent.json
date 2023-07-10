@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2784,
+  "EOS_Progressed": 2785,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 273,
+  "EOS_NewPlayers": 269,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2228,6 +2228,11 @@
       "Time": "2023-07-10T18:07:43.1595547+00:00",
       "NumProgressed": 2784,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-10T19:06:13.514584+00:00",
+      "NumProgressed": 2785,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2271,7 +2276,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 1364
+      "UsersEstimate": 1365
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -2287,7 +2292,7 @@
       "Name": "Omelette Du Fromage",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -2335,7 +2340,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 2004
+      "UsersEstimate": 2005
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -2391,7 +2396,7 @@
       "Name": "El Riesgo Siempre Vive",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "ACH_MAX_MEDIC",
@@ -2439,7 +2444,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 1308
+      "UsersEstimate": 1309
     },
     {
       "ID": "ACH_MISSION_03",
@@ -2455,7 +2460,7 @@
       "Name": "Making a Stand",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "ACH_MISSION_05",
@@ -2471,7 +2476,7 @@
       "Name": "Living Nightmare",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "ACH_MISSION_07",
@@ -2485,9 +2490,9 @@
       "ID": "ACH_MISSION_08",
       "SetID": "816efe",
       "Name": "Deep Into Insanity",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 473
+      "UsersEstimate": 501
     },
     {
       "ID": "ACH_MISSION_09",
@@ -2535,7 +2540,7 @@
       "Name": "Snatched Out",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 2032
+      "UsersEstimate": 2033
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -2543,7 +2548,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 2227
+      "UsersEstimate": 2228
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -2551,7 +2556,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 1559
+      "UsersEstimate": 1560
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -2598,7 +2603,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 2784,
+      "Progressed": 2785,
       "Completed": 0
     }
   ],
@@ -2606,8 +2611,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-09T20:59:26.8996663+00:00",
-  "LastChanged_Achievements": "2023-07-10T18:07:43.1595536+00:00",
+  "LastChanged_Achievements": "2023-07-10T19:06:13.5145834+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:32.529009+00:00",
-  "LastUpdate_Ratings": "2023-07-10T18:00:19.1097489+00:00",
-  "LastUpdate_Achievements": "2023-07-10T18:07:43.1596408+00:00"
+  "LastUpdate_Ratings": "2023-07-10T18:59:17.4014261+00:00",
+  "LastUpdate_Achievements": "2023-07-10T19:06:13.5146326+00:00"
 }

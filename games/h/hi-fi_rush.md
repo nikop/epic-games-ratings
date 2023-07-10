@@ -16,6 +16,7 @@ Rating: 4.87 (Ranked 25)
 | Who put gears in there? | 0.80% | ~27 |
 | This will cost you big time | 0.70% | ~24 |
 | Time to pay up! | 0.70% | ~24 |
+| Who's the boss now? | 0.70% | ~24 |
 | Whoa! There's ANOTHER health bar!? | 0.70% | ~24 |
 | Out in a puff of smoke | 0.70% | ~24 |
 | Perfect Parry | 0.70% | ~24 |
@@ -23,7 +24,6 @@ Rating: 4.87 (Ranked 25)
 | Alright, that felt AWESOME! | 0.70% | ~24 |
 | Start with a bang! | 0.60% | ~21 |
 | Headliner | 0.60% | ~21 |
-| Who's the boss now? | 0.60% | ~21 |
 | I have to read these things? | 0.60% | ~21 |
 | Feeling the beat! | 0.60% | ~21 |
 | You must like calling me in, Chai | 0.60% | ~21 |
@@ -38,6 +38,7 @@ Rating: 4.87 (Ranked 25)
 | There's such a thing as TOO helpful | 0.30% | ~10 |
 | Wanna hear my playlist? | 0.30% | ~10 |
 | New bad guys? No problem! | 0.30% | ~6 |
+| I think I deserve some praise, here! | 0.20% | ~7 |
 | Chip-tuned | 0.20% | ~7 |
 | I think I found your calling, Macaron | 0.20% | ~7 |
 | This is a breeze! | 0.20% | ~7 |
@@ -45,7 +46,6 @@ Rating: 4.87 (Ranked 25)
 | Check out my moves! | 0.20% | ~7 |
 | Choose your own adventure | 0.20% | ~4 |
 | Easy Listening | 0.10% | ~3 |
-| I think I deserve some praise, here! | 0.10% | ~3 |
 | Problem solved... wait, what? | 0.10% | ~3 |
 | I can't see this ever being a problem again | 0.10% | ~3 |
 | OK, well THEY came after ME! | 0.10% | ~3 |

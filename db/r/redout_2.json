@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1052,
+  "EOS_Progressed": 1053,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -544,6 +544,11 @@
       "Time": "2023-07-08T23:04:06.3573666+00:00",
       "NumProgressed": 1052,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-10T19:03:34.5464932+00:00",
+      "NumProgressed": 1053,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -809,9 +814,9 @@
       "ID": "GRANDMASTER",
       "SetID": "3dh70f3",
       "Name": "Redout Grandmaster",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 80,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "JOIN50ONLINE",
@@ -875,7 +880,7 @@
       "Name": "It\u0027s like an haircut",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ONEPLATINUM",
@@ -907,7 +912,7 @@
       "Name": "A Cheese Grater to the Face",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "TENPLATINUM",
@@ -937,9 +942,9 @@
       "ID": "WINGRANDSLAM",
       "SetID": "3dh70f3",
       "Name": "Grandslam",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "WINLAST",
@@ -970,7 +975,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1052,
+      "Progressed": 1053,
       "Completed": 0
     }
   ],
@@ -978,8 +983,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-08T22:59:03.1324838+00:00",
-  "LastChanged_Achievements": "2023-07-10T18:04:01.9101419+00:00",
+  "LastChanged_Achievements": "2023-07-10T19:03:34.5464927+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:48.1905608+00:00",
-  "LastUpdate_Ratings": "2023-07-10T17:58:47.211734+00:00",
-  "LastUpdate_Achievements": "2023-07-10T18:04:01.9102025+00:00"
+  "LastUpdate_Ratings": "2023-07-10T18:58:14.7671412+00:00",
+  "LastUpdate_Achievements": "2023-07-10T19:03:34.5465399+00:00"
 }

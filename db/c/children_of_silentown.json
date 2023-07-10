@@ -4,7 +4,7 @@
   "ProductSlug": "children-of-silentown-52cc21",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewPlayers": 285,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-01-11T16:00:00+00:00",
@@ -326,9 +326,9 @@
       "ID": "Genesis",
       "SetID": "9kk0gal",
       "Name": "Mysterious paintings",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 62
+      "UsersEstimate": 64
     },
     {
       "ID": "HugeSnail",
@@ -439,8 +439,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-07-10T17:02:39.0156781+00:00",
+  "LastChanged_Achievements": "2023-07-10T19:00:26.8400523+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:33.0642981+00:00",
-  "LastUpdate_Ratings": "2023-07-10T18:01:18.1858241+00:00",
-  "LastUpdate_Achievements": "2023-07-10T17:02:39.015731+00:00"
+  "LastUpdate_Ratings": "2023-07-10T18:59:57.6263567+00:00",
+  "LastUpdate_Achievements": "2023-07-10T19:00:26.8421763+00:00"
 }

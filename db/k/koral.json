@@ -4,7 +4,7 @@
   "ProductSlug": "koral-63ea73",
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 317,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-06-29T22:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:35.3153231+00:00",
   "LastChanged": "2023-03-31T05:58:35.3153232+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:31.5150495+00:00",
-  "LastUpdate_Ratings": "2023-07-10T17:57:41.7752286+00:00",
-  "LastUpdate_Achievements": "2023-07-10T18:04:24.1788339+00:00"
+  "LastUpdate_Ratings": "2023-07-10T18:57:29.4067622+00:00",
+  "LastUpdate_Achievements": "2023-07-10T19:03:50.8891593+00:00"
 }

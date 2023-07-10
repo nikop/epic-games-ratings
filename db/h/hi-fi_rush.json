@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -4214,9 +4214,9 @@
       "ID": "Ach007",
       "SetID": "12n4k20",
       "Name": "Who\u0027s the boss now?",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "Ach008",
@@ -4238,9 +4238,9 @@
       "ID": "Ach010",
       "SetID": "12n4k20",
       "Name": "I think I deserve some praise, here!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "Ach011",
@@ -4749,8 +4749,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-10T18:02:21.7352382+00:00",
+  "LastChanged_Achievements": "2023-07-10T19:02:13.4406835+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:24.9104218+00:00",
-  "LastUpdate_Ratings": "2023-07-10T17:59:19.8938421+00:00",
-  "LastUpdate_Achievements": "2023-07-10T18:02:21.7353402+00:00"
+  "LastUpdate_Ratings": "2023-07-10T18:58:36.8733466+00:00",
+  "LastUpdate_Achievements": "2023-07-10T19:02:13.4407859+00:00"
 }

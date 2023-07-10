@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 209,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1251,9 +1251,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 22450,
+  "EOS_Progressed": 22451,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -5166,6 +5166,11 @@
       "Time": "2023-07-10T08:06:29.948903+00:00",
       "NumProgressed": 22450,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-07-10T19:06:18.8544788+00:00",
+      "NumProgressed": 22451,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -5305,7 +5310,7 @@
       "Name": "Harvest and Home",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -5337,7 +5342,7 @@
       "Name": "Poise and Poisons",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -5488,21 +5493,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 22450,
+      "Progressed": 22451,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 1380,
+      "Progressed": 1381,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-07-10T15:59:37.7624695+00:00",
-  "LastChanged_Achievements": "2023-07-10T18:07:50.025835+00:00",
+  "LastChanged_Achievements": "2023-07-10T19:06:18.8544782+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:19.0758026+00:00",
-  "LastUpdate_Ratings": "2023-07-10T18:00:06.3166021+00:00",
-  "LastUpdate_Achievements": "2023-07-10T18:07:50.0258992+00:00"
+  "LastUpdate_Ratings": "2023-07-10T18:59:09.1798479+00:00",
+  "LastUpdate_Achievements": "2023-07-10T19:06:18.8545329+00:00"
 }

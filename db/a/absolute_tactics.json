@@ -2,9 +2,9 @@
   "ID": "00968dd40b6e49548220ce6f215cbb44",
   "Name": "Absolute Tactics",
   "ProductSlug": "absolute-tactics-ca91e4",
-  "Ranking_EOS_Progress": 456,
+  "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 285,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-09-15T16:00:00+00:00",
@@ -27,15 +27,20 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-07-05T17:06:24.6383612+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-10T19:06:00.4111136+00:00",
+      "NumProgressed": 2,
       "NumCompleted": 0
     }
   ],
@@ -216,7 +221,7 @@
     {
       "ID": "9jb1eoe",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
@@ -224,8 +229,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.3491897+00:00",
   "FirstSeenAchievements": "2023-06-19T22:05:39.5621964+00:00",
   "LastChanged": "2023-03-31T05:57:50.3491898+00:00",
-  "LastChanged_Achievements": "2023-07-10T18:07:24.3932345+00:00",
+  "LastChanged_Achievements": "2023-07-10T19:06:00.4111127+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:31.0565099+00:00",
-  "LastUpdate_Ratings": "2023-07-10T18:01:16.061144+00:00",
-  "LastUpdate_Achievements": "2023-07-10T18:07:24.393259+00:00"
+  "LastUpdate_Ratings": "2023-07-10T18:59:56.5808701+00:00",
+  "LastUpdate_Achievements": "2023-07-10T19:06:00.4111291+00:00"
 }

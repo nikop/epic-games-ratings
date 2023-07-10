@@ -4,8 +4,8 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2929,
+  "EOS_Progressed": 2930,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 3.24,
   "EosHistory": [
@@ -3355,6 +3355,11 @@
       "Time": "2023-07-10T15:06:13.4809036+00:00",
       "NumProgressed": 2929,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-07-10T19:05:13.3729576+00:00",
+      "NumProgressed": 2930,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 24,
@@ -3390,7 +3395,7 @@
       "Name": "TRAINING HARD",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "13",
@@ -3422,7 +3427,7 @@
       "Name": "RELEASE THE KRAKEN",
       "Percentage": 12,
       "XP": 45,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "17",
@@ -3454,7 +3459,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "20",
@@ -3470,7 +3475,7 @@
       "Name": "ACE DEFENDER",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "22",
@@ -3518,7 +3523,7 @@
       "Name": "ROOKIE",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1552
+      "UsersEstimate": 1553
     },
     {
       "ID": "6",
@@ -3534,7 +3539,7 @@
       "Name": "MASTER",
       "Percentage": 15,
       "XP": 65,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "8",
@@ -3550,20 +3555,20 @@
       "Name": "LEGENDARY HERO",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     }
   ],
   "AchievementSets": [
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2929,
+      "Progressed": 2930,
       "Completed": 95
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-07-10T18:06:18.2134127+00:00",
+  "LastChanged_Achievements": "2023-07-10T19:05:13.3729571+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:58.7714419+00:00",
-  "LastUpdate_Ratings": "2023-07-10T17:59:50.2746586+00:00",
-  "LastUpdate_Achievements": "2023-07-10T18:06:18.2134774+00:00"
+  "LastUpdate_Ratings": "2023-07-10T18:58:58.1530384+00:00",
+  "LastUpdate_Achievements": "2023-07-10T19:05:13.3729981+00:00"
 }

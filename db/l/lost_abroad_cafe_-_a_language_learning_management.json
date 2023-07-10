@@ -2,9 +2,9 @@
   "ID": "2df9c4ac2a644e4daf2e0a752500457d",
   "Name": "Lost Abroad Cafe - A Language Learning Management",
   "ProductSlug": "lost-abroad-cafe-a-language-learning-management-sim-bfc28c",
-  "Ranking_EOS_Progress": 274,
+  "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-05-26T17:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 176,
+  "EOS_Progressed": 177,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -806,6 +806,11 @@
       "Time": "2023-07-10T16:06:16.5447907+00:00",
       "NumProgressed": 176,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-10T19:05:43.9227588+00:00",
+      "NumProgressed": 177,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 8,
@@ -817,7 +822,7 @@
       "Name": "Barista",
       "Percentage": 44,
       "XP": 75,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "coffee_100",
@@ -833,7 +838,7 @@
       "Name": "Coffee Connoisseur",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "countertop",
@@ -849,7 +854,7 @@
       "Name": "Get Lost!",
       "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "tea_10",
@@ -857,7 +862,7 @@
       "Name": "Tea-ser",
       "Percentage": 36,
       "XP": 75,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "tea_100",
@@ -880,14 +885,14 @@
     {
       "ID": "56hff7o",
       "IsBase": true,
-      "Progressed": 176,
+      "Progressed": 177,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-23T10:58:45.2753016+00:00",
   "FirstSeenAchievements": "2023-05-18T05:04:21.5286003+00:00",
-  "LastChanged_Achievements": "2023-07-10T18:07:02.4288001+00:00",
+  "LastChanged_Achievements": "2023-07-10T19:05:43.9227577+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:29.2687048+00:00",
-  "LastUpdate_Ratings": "2023-07-10T17:59:22.4532365+00:00",
-  "LastUpdate_Achievements": "2023-07-10T18:07:02.4288187+00:00"
+  "LastUpdate_Ratings": "2023-07-10T18:58:38.5086036+00:00",
+  "LastUpdate_Achievements": "2023-07-10T19:05:43.9227706+00:00"
 }

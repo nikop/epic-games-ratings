@@ -19,7 +19,7 @@ Rating: 4.39 (Ranked 701)
 | Giant Killer | 44.00% | ~535 |
 | Firestarter | 42.00% | ~511 |
 | Sensei | 42.00% | ~511 |
-| The meaning of Kain | 39.00% | ~474 |
+| The meaning of Kain | 40.00% | ~486 |
 | Technophobe | 38.00% | ~462 |
 | Recycler | 37.00% | ~450 |
 | Are you not entertained? | 32.00% | ~389 |
@@ -39,7 +39,7 @@ Rating: 4.39 (Ranked 701)
 | Chaos Theory | 15.00% | ~182 |
 | Dr Jones | 14.00% | ~170 |
 | Ruthless | 14.00% | ~170 |
-| Silent but Violent | 11.00% | ~134 |
+| Silent but Violent | 12.00% | ~146 |
 | Side Order | 10.00% | ~122 |
 | Chain Reaction | 9.00% | ~109 |
 | Bot Whisperer | 8.00% | ~97 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -582,9 +582,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 2953,
+  "EOS_Progressed": 2954,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2142,6 +2142,11 @@
       "Time": "2023-07-10T12:02:20.2076438+00:00",
       "NumProgressed": 2953,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-10T19:02:28.4606669+00:00",
+      "NumProgressed": 2954,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2169,7 +2174,7 @@
       "Name": "Look Over There!",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "BloodAndIron",
@@ -2345,7 +2350,7 @@
       "Name": "Executioner",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "Kills_Exterminator",
@@ -2624,21 +2629,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2953,
+      "Progressed": 2954,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2953,
+      "Progressed": 2954,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-08T19:59:25.149213+00:00",
-  "LastChanged_Achievements": "2023-07-10T18:03:12.3156967+00:00",
+  "LastChanged_Achievements": "2023-07-10T19:02:28.4606663+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:34.0888616+00:00",
-  "LastUpdate_Ratings": "2023-07-10T17:59:28.2528884+00:00",
-  "LastUpdate_Achievements": "2023-07-10T18:03:12.3157753+00:00"
+  "LastUpdate_Ratings": "2023-07-10T18:58:44.1246524+00:00",
+  "LastUpdate_Achievements": "2023-07-10T19:02:28.4607298+00:00"
 }

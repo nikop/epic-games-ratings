@@ -2,7 +2,7 @@
   "ID": "c5fe11872c2c407baee53f1a1a9131ed",
   "Name": "SPINGUN",
   "ProductSlug": "spingun-843f78",
-  "Ranking_EOS_Progress": 309,
+  "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 96,
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 86,
+  "EOS_Progressed": 87,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -389,6 +389,11 @@
       "Time": "2023-07-10T18:04:38.6104549+00:00",
       "NumProgressed": 86,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-10T19:04:01.3496911+00:00",
+      "NumProgressed": 87,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -454,7 +459,7 @@
       "ID": "ach_customized",
       "SetID": "5a4225j",
       "Name": "Customize Ship",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 40,
       "UsersEstimate": 42
     },
@@ -470,7 +475,7 @@
       "ID": "ach_endless_30",
       "SetID": "5a4225j",
       "Name": "Endless 30 Seconds",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 35,
       "UsersEstimate": 63
     },
@@ -607,13 +612,13 @@
     {
       "ID": "5a4225j",
       "IsBase": true,
-      "Progressed": 86,
+      "Progressed": 87,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-06-02T21:05:45.273905+00:00",
-  "LastChanged_Achievements": "2023-07-10T18:04:38.6104542+00:00",
+  "LastChanged_Achievements": "2023-07-10T19:04:01.3496906+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:19.1257474+00:00",
-  "LastUpdate_Ratings": "2023-07-10T17:57:18.8388503+00:00",
-  "LastUpdate_Achievements": "2023-07-10T18:04:38.610487+00:00"
+  "LastUpdate_Ratings": "2023-07-10T18:57:14.3631742+00:00",
+  "LastUpdate_Achievements": "2023-07-10T19:04:01.349714+00:00"
 }
