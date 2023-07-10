@@ -10,6 +10,7 @@ Rating: 4.87 (Ranked 25)
 | I play my own way! | 0.80% | ~27 |
 | Z-shielding's got nothing on us! | 0.80% | ~27 |
 | Kissing the sky! | 0.80% | ~27 |
+| Who put gears in there? | 0.80% | ~27 |
 | This will cost you big time | 0.70% | ~24 |
 | The Negotiator | 0.70% | ~24 |
 | Thanks for the free chip, Peppermint! | 0.70% | ~24 |
@@ -18,13 +19,12 @@ Rating: 4.87 (Ranked 25)
 | Out in a puff of smoke | 0.70% | ~24 |
 | Perfect Parry | 0.70% | ~24 |
 | Uh, they were broken when I got here | 0.70% | ~24 |
-| Who put gears in there? | 0.70% | ~24 |
+| Start with a bang! | 0.60% | ~21 |
 | Headliner | 0.60% | ~21 |
 | Time to pay up! | 0.60% | ~21 |
 | Who's the boss now? | 0.60% | ~21 |
 | I have to read these things? | 0.60% | ~21 |
 | Alright, that felt AWESOME! | 0.60% | ~21 |
-| Start with a bang! | 0.50% | ~17 |
 | Feeling the beat! | 0.50% | ~17 |
 | You must like calling me in, Chai | 0.50% | ~17 |
 | I look cool. But I can look COOLER. | 0.50% | ~17 |

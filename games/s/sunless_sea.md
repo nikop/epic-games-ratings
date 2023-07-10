@@ -6,24 +6,24 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~11,940 |
-| Sweet Sorrow | 18.00% | ~5,970 |
-| Rules the Waves | 17.00% | ~5,638 |
-| Thou, All-Shaking Thunder | 15.00% | ~4,975 |
-| Rival | 14.00% | ~4,643 |
-| Correspondent | 12.00% | ~3,980 |
-| Lose Your Mind | 12.00% | ~3,980 |
-| Sound Mind? | 12.00% | ~3,980 |
-| Salt's Curse | 11.00% | ~3,648 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~3,648 |
-| The Fall of the House | 11.00% | ~3,648 |
-| Shipmate | 11.00% | ~3,648 |
-| One Year at Zee | 8.00% | ~2,653 |
+| Sink Beneath the Waves | 36.00% | ~11,942 |
+| Sweet Sorrow | 18.00% | ~5,971 |
+| Rules the Waves | 17.00% | ~5,639 |
+| Thou, All-Shaking Thunder | 15.00% | ~4,976 |
+| Rival | 14.00% | ~4,644 |
+| Correspondent | 12.00% | ~3,981 |
+| Lose Your Mind | 12.00% | ~3,981 |
+| Sound Mind? | 12.00% | ~3,981 |
+| Salt's Curse | 11.00% | ~3,649 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~3,649 |
+| The Fall of the House | 11.00% | ~3,649 |
+| Shipmate | 11.00% | ~3,649 |
+| One Year at Zee | 8.00% | ~2,654 |
 | Pupil | 7.00% | ~2,322 |
 | Salvager | 7.00% | ~2,322 |
 | Open Your Ears | 7.00% | ~2,322 |
 | The Ascent of Man | 7.00% | ~2,322 |
-| Zee Fever | 5.00% | ~1,658 |
+| Zee Fever | 5.00% | ~1,659 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,327 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,327 |
 | Storm's Curse | 3.00% | ~995 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~33 |
 | Ten Years at Zee | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,167 (Ranked 93)  
+Progressed: 33,171 (Ranked 93)  
 Completed: 3 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 3 (0.01%) (Ranked 223)
 | 2023-07-07 | 32,969 | 3 |
 | 2023-07-08 | 33,050 | 3 |
 | 2023-07-09 | 33,134 | 3 |
-| 2023-07-10 | 33,167 | 3 |
+| 2023-07-10 | 33,171 | 3 |
 ## Awards
 Max (Character Customization): 209  (Ranked 264)  
 Sum: 279 (Ranked 337)  

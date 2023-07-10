@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 150,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -5117,9 +5117,9 @@
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
       "SetID": "bm6el81",
       "Name": "Die Nussknacker Sweet!",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -5365,9 +5365,9 @@
       "ID": "REWARD_DLC01_06_HERR_TODAY",
       "SetID": "83mdf7p",
       "Name": "Herr Today, Gone Tomorrow",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -5484,8 +5484,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-09T23:00:54.8044631+00:00",
-  "LastChanged_Achievements": "2023-07-10T11:03:14.9227428+00:00",
+  "LastChanged_Achievements": "2023-07-10T12:03:07.5780943+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:07.1687539+00:00",
-  "LastUpdate_Ratings": "2023-07-10T11:00:57.0116388+00:00",
-  "LastUpdate_Achievements": "2023-07-10T11:03:14.9228196+00:00"
+  "LastUpdate_Ratings": "2023-07-10T12:01:00.4581506+00:00",
+  "LastUpdate_Achievements": "2023-07-10T12:03:07.5781718+00:00"
 }

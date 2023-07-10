@@ -6,55 +6,55 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Healthy Obsession | 7.00% | ~46,196 |
-| Resurgence | 7.00% | ~46,196 |
-| Humanitarian | 7.00% | ~46,196 |
-| Close Shave | 6.00% | ~39,596 |
-| Preemptive Strike | 6.00% | ~39,596 |
-| Wounded Healer | 5.00% | ~32,997 |
-| Unforgettable Getaway | 4.00% | ~26,397 |
-| First to the Punch | 4.00% | ~26,397 |
-| Old West Oasis | 4.00% | ~26,397 |
-| Every Last Drop | 4.00% | ~26,397 |
-| With Scars to Show | 4.00% | ~26,397 |
-| Flight to Freedom | 4.00% | ~26,397 |
-| Ancestor's Rite | 3.00% | ~19,798 |
-| Cutting Out | 3.00% | ~19,798 |
-| Outrun Evil | 3.00% | ~19,798 |
-| Operation: Survival | 3.00% | ~19,798 |
-| Grim Pilgrimage | 3.00% | ~19,798 |
-| Classy Act | 3.00% | ~19,798 |
-| Raccoon City Recruit | 3.00% | ~19,798 |
-| A Fast Death | 3.00% | ~19,798 |
-| Lifting The Fog | 3.00% | ~19,798 |
-| Chorus of Chaos | 3.00% | ~19,798 |
-| Devoted Gatekeeping | 2.00% | ~13,199 |
-| Shrine Apparatus | 2.00% | ~13,199 |
-| Broken Bodies | 2.00% | ~13,199 |
-| Selfless Survival | 2.00% | ~13,199 |
-| I See You | 2.00% | ~13,199 |
-| End of Days | 2.00% | ~13,199 |
-| Insult and Injury | 2.00% | ~13,199 |
-| Prowler | 2.00% | ~13,199 |
-| Outrun the Overlap | 2.00% | ~13,199 |
-| Rebuilding The Borgo | 2.00% | ~13,199 |
-| Hack the Mainframe | 2.00% | ~13,199 |
-| Heavy Burden | 1.00% | ~6,599 |
-| Death of Ignorance | 1.00% | ~6,599 |
-| Power Moves | 1.00% | ~6,599 |
-| Punch Drunk | 1.00% | ~6,599 |
-| Triage | 1.00% | ~6,599 |
-| High Speed Pursuit | 1.00% | ~6,599 |
-| Deranged Pursuit | 0.80% | ~5,279 |
-| Denied! | 0.80% | ~5,279 |
-| Left For Dead | 0.70% | ~4,620 |
-| From the Deep | 0.70% | ~4,620 |
-| Dismantle | 0.60% | ~3,960 |
-| Bodyguard | 0.60% | ~3,960 |
-| Speed Kills | 0.60% | ~3,960 |
-| Rescue Mission | 0.60% | ~3,960 |
-| One Thousand Cuts | 0.60% | ~3,960 |
-| Ghost in the Machine | 0.60% | ~3,960 |
+| Healthy Obsession | 7.00% | ~46,206 |
+| Resurgence | 7.00% | ~46,206 |
+| Humanitarian | 7.00% | ~46,206 |
+| Close Shave | 6.00% | ~39,605 |
+| Preemptive Strike | 6.00% | ~39,605 |
+| Wounded Healer | 5.00% | ~33,004 |
+| Unforgettable Getaway | 4.00% | ~26,403 |
+| First to the Punch | 4.00% | ~26,403 |
+| Old West Oasis | 4.00% | ~26,403 |
+| Every Last Drop | 4.00% | ~26,403 |
+| With Scars to Show | 4.00% | ~26,403 |
+| Flight to Freedom | 4.00% | ~26,403 |
+| Ancestor's Rite | 3.00% | ~19,803 |
+| Cutting Out | 3.00% | ~19,803 |
+| Outrun Evil | 3.00% | ~19,803 |
+| Operation: Survival | 3.00% | ~19,803 |
+| Grim Pilgrimage | 3.00% | ~19,803 |
+| Classy Act | 3.00% | ~19,803 |
+| Raccoon City Recruit | 3.00% | ~19,803 |
+| A Fast Death | 3.00% | ~19,803 |
+| Lifting The Fog | 3.00% | ~19,803 |
+| Chorus of Chaos | 3.00% | ~19,803 |
+| Devoted Gatekeeping | 2.00% | ~13,202 |
+| Shrine Apparatus | 2.00% | ~13,202 |
+| Broken Bodies | 2.00% | ~13,202 |
+| Selfless Survival | 2.00% | ~13,202 |
+| I See You | 2.00% | ~13,202 |
+| End of Days | 2.00% | ~13,202 |
+| Insult and Injury | 2.00% | ~13,202 |
+| Prowler | 2.00% | ~13,202 |
+| Outrun the Overlap | 2.00% | ~13,202 |
+| Rebuilding The Borgo | 2.00% | ~13,202 |
+| Hack the Mainframe | 2.00% | ~13,202 |
+| Heavy Burden | 1.00% | ~6,601 |
+| Death of Ignorance | 1.00% | ~6,601 |
+| Power Moves | 1.00% | ~6,601 |
+| Punch Drunk | 1.00% | ~6,601 |
+| Triage | 1.00% | ~6,601 |
+| High Speed Pursuit | 1.00% | ~6,601 |
+| Deranged Pursuit | 0.80% | ~5,281 |
+| Denied! | 0.80% | ~5,281 |
+| Left For Dead | 0.70% | ~4,621 |
+| From the Deep | 0.70% | ~4,621 |
+| Dismantle | 0.60% | ~3,961 |
+| Bodyguard | 0.60% | ~3,961 |
+| Speed Kills | 0.60% | ~3,961 |
+| Rescue Mission | 0.60% | ~3,961 |
+| One Thousand Cuts | 0.60% | ~3,961 |
+| Ghost in the Machine | 0.60% | ~3,961 |
 | Silent Approach | 0.40% | ~2,640 |
 | Bound and Downed | 0.40% | ~2,640 |
 | Multi-tasker | 0.40% | ~2,640 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~660 |
 | Adept Gabriel | 0.10% | ~660 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 659,936 (Ranked 21)  
+Progressed: 660,084 (Ranked 21)  
 Completed: 42 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 42 (0.01%) (Ranked 223)
 | 2023-07-07 | 649,888 | 42 |
 | 2023-07-08 | 654,036 | 42 |
 | 2023-07-09 | 658,361 | 42 |
-| 2023-07-10 | 659,936 | 42 |
+| 2023-07-10 | 660,084 | 42 |
 ## Awards
 Max (Diverse Characters): 29,748  (Ranked 15)  
 Sum: 236,026 (Ranked 12)  

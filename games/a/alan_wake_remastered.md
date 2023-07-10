@@ -1,7 +1,7 @@
 # Alan Wake Remastered
 [Store](https://store.epicgames.com/en-US/p/alan-wake-remastered)  
 [View Rawdata](../../db/a/alan_wake_remastered.json)  
-Rating: 4.55 (Ranked 476)  
+Rating: 4.55 (Ranked 477)  
 Number of Ratings: 524  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,7 +11,7 @@ Number of Ratings: 524  (23.09.2022)
 | Float Like a Butterfly | 26.00% | ~14,857 |
 | Nordic Walking | 21.00% | ~12,000 |
 | Bright Falls' Finest | 20.00% | ~11,428 |
-| Under a Thin Layer of Skin | 18.00% | ~10,285 |
+| Under a Thin Layer of Skin | 18.00% | ~10,286 |
 | Park Ranger | 15.00% | ~8,571 |
 | Paging Mr. Wake | 15.00% | ~8,571 |
 | Back! Back, I Say! | 14.00% | ~8,000 |
@@ -36,8 +36,8 @@ Number of Ratings: 524  (23.09.2022)
 | Right of Way | 8.00% | ~4,571 |
 | A Friend in Need | 8.00% | ~1,649 |
 | What Light Through Yonder Window | 7.00% | ~4,000 |
-| Tornado Wrangler | 6.00% | ~3,428 |
-| Departure | 6.00% | ~3,428 |
+| Tornado Wrangler | 6.00% | ~3,429 |
+| Departure | 6.00% | ~3,429 |
 | A Friend Indeed | 6.00% | ~1,237 |
 | Drink 'Em Both Up | 5.00% | ~2,857 |
 | Hardboiled Writer | 5.00% | ~2,857 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~57 |
 | No Punctuation | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,141 (Ranked 81)  
+Progressed: 57,142 (Ranked 81)  
 Completed: 57 (0.10%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 57 (0.10%) (Ranked 183)
 | 2023-07-07 | 56,982 | 57 |
 | 2023-07-08 | 57,062 | 57 |
 | 2023-07-09 | 57,124 | 57 |
-| 2023-07-10 | 57,141 | 57 |
+| 2023-07-10 | 57,142 | 57 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

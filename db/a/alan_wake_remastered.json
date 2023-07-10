@@ -2,7 +2,7 @@
   "ID": "2e92a78949e2474aa89271b8b893f3b0",
   "Name": "Alan Wake Remastered",
   "ProductSlug": "alan-wake-remastered",
-  "Ranking_Rating": 476,
+  "Ranking_Rating": 477,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 81,
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57141,
+  "EOS_Progressed": 57142,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 405,
+  "EOS_NewPlayers": 401,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7522,6 +7522,11 @@
       "Time": "2023-07-10T10:04:13.7462956+00:00",
       "NumProgressed": 57141,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-10T12:03:50.9846848+00:00",
+      "NumProgressed": 57142,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7565,7 +7570,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10285
+      "UsersEstimate": 10286
     },
     {
       "ID": "06",
@@ -7653,7 +7658,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3428
+      "UsersEstimate": 3429
     },
     {
       "ID": "17",
@@ -7661,7 +7666,7 @@
       "Name": "Departure",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3428
+      "UsersEstimate": 3429
     },
     {
       "ID": "18",
@@ -8068,21 +8073,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57141,
+      "Progressed": 57142,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20609,
+      "Progressed": 20610,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-10T11:03:58.8947828+00:00",
+  "LastChanged_Achievements": "2023-07-10T12:03:50.9846844+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:08.3646753+00:00",
-  "LastUpdate_Ratings": "2023-07-10T10:57:53.2288414+00:00",
-  "LastUpdate_Achievements": "2023-07-10T11:03:58.8948698+00:00"
+  "LastUpdate_Ratings": "2023-07-10T11:58:00.4681053+00:00",
+  "LastUpdate_Achievements": "2023-07-10T12:03:50.9847728+00:00"
 }

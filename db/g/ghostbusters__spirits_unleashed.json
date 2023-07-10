@@ -2,7 +2,7 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 574,
+  "Ranking_Rating": 575,
   "Ranking_Popularity": 249,
   "Ranking_PopularitySum": 189,
   "Ranking_EOS_Progress": 97,
@@ -1416,9 +1416,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 24123,
+  "EOS_Progressed": 24124,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7581,6 +7581,11 @@
       "Time": "2023-07-10T05:03:51.1720239+00:00",
       "NumProgressed": 24123,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-07-10T12:03:38.1599462+00:00",
+      "NumProgressed": 24124,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 51,
@@ -7592,7 +7597,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 17610
+      "UsersEstimate": 17611
     },
     {
       "ID": "Animated",
@@ -7632,7 +7637,7 @@
       "Name": "Clutch Capture",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 9890
+      "UsersEstimate": 9891
     },
     {
       "ID": "Collect_Spores",
@@ -7648,7 +7653,7 @@
       "Name": "Collector",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 5548
+      "UsersEstimate": 5549
     },
     {
       "ID": "Cultured",
@@ -7680,7 +7685,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 14715
+      "UsersEstimate": 14716
     },
     {
       "ID": "Dont_Need_These",
@@ -7696,7 +7701,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 5548
+      "UsersEstimate": 5549
     },
     {
       "ID": "Efficient",
@@ -7728,7 +7733,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 13026
+      "UsersEstimate": 13027
     },
     {
       "ID": "GB_In_Training",
@@ -7880,7 +7885,7 @@
       "Name": "Solo Capture",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 7719
+      "UsersEstimate": 7720
     },
     {
       "ID": "Stunner",
@@ -7896,7 +7901,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 20746
+      "UsersEstimate": 20747
     },
     {
       "ID": "Summoner",
@@ -7920,7 +7925,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 13026
+      "UsersEstimate": 13027
     },
     {
       "ID": "Teamwork",
@@ -7928,7 +7933,7 @@
       "Name": "Teamwork",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 10614
+      "UsersEstimate": 10615
     },
     {
       "ID": "Terrifying",
@@ -7976,7 +7981,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 11579
+      "UsersEstimate": 11580
     },
     {
       "ID": "Welcome_Crew",
@@ -7984,7 +7989,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 7719
+      "UsersEstimate": 7720
     },
     {
       "ID": "Whoopsie",
@@ -7999,7 +8004,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 24123,
+      "Progressed": 24124,
       "Completed": 46
     }
   ],
@@ -8007,8 +8012,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-07-10T02:25:38.9931889+00:00",
-  "LastChanged_Achievements": "2023-07-10T11:03:45.9512864+00:00",
+  "LastChanged_Achievements": "2023-07-10T12:03:38.1599457+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:03.6661628+00:00",
-  "LastUpdate_Ratings": "2023-07-10T10:59:16.4771664+00:00",
-  "LastUpdate_Achievements": "2023-07-10T11:03:45.9513487+00:00"
+  "LastUpdate_Ratings": "2023-07-10T11:59:25.0910903+00:00",
+  "LastUpdate_Achievements": "2023-07-10T12:03:38.1600388+00:00"
 }

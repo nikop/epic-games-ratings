@@ -4,7 +4,7 @@
   "ProductSlug": "cyberia-bfdd70",
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-08-12T16:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:32.3035827+00:00",
   "LastChanged": "2023-03-31T05:58:32.3035829+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:39.9574113+00:00",
-  "LastUpdate_Ratings": "2023-07-10T10:59:01.0933786+00:00",
-  "LastUpdate_Achievements": "2023-07-10T11:01:06.0611982+00:00"
+  "LastUpdate_Ratings": "2023-07-10T11:59:09.3576016+00:00",
+  "LastUpdate_Achievements": "2023-07-10T12:01:10.8667871+00:00"
 }

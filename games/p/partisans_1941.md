@@ -17,8 +17,8 @@ Number of Ratings: 98  (23.09.2022)
 | Bomberman | 22.00% | ~241 |
 | Death to the Oppressor! | 16.00% | ~175 |
 | The Gang's All Here | 13.00% | ~142 |
+| One by One | 12.00% | ~131 |
 | Your Answer | 12.00% | ~131 |
-| One by One | 11.00% | ~120 |
 | The Big Bertha | 10.00% | ~110 |
 | Game Over | 9.00% | ~99 |
 | Lock, Stock | 6.00% | ~66 |

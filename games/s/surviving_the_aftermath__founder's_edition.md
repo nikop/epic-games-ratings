@@ -1,19 +1,19 @@
 # Surviving the Aftermath
 [Store](https://store.epicgames.com/en-US/p/surviving-the-aftermath)  
 [View Rawdata](../../db/s/surviving_the_aftermath__founder's_edition.json)  
-Rating: 4.47 (Ranked 596)  
+Rating: 4.47 (Ranked 597)  
 Number of Ratings: 836  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 71.00% | ~5,149 |
+| First Step | 71.00% | ~5,150 |
 | Leader | 61.00% | ~4,424 |
 | Explorer | 53.00% | ~3,844 |
-| Healer | 52.00% | ~3,771 |
+| Healer | 52.00% | ~3,772 |
 | Aspiring Inventor | 44.00% | ~3,191 |
-| Adventurer | 41.00% | ~2,973 |
+| Adventurer | 41.00% | ~2,974 |
 | Famous Healer | 38.00% | ~2,756 |
-| Local Leader | 35.00% | ~2,538 |
+| Local Leader | 35.00% | ~2,539 |
 | Famous Explorer | 34.00% | ~2,466 |
 | New Opportunities | 34.00% | ~2,466 |
 | Energized | 33.00% | ~2,393 |
@@ -27,8 +27,8 @@ Number of Ratings: 836  (23.09.2022)
 | Top Notch | 25.00% | ~1,813 |
 | Ice Lakes | 23.00% | ~1,668 |
 | Mentor | 23.00% | ~1,668 |
-| Great Leader | 22.00% | ~1,595 |
-| Real Survivor | 22.00% | ~1,595 |
+| Great Leader | 22.00% | ~1,596 |
+| Real Survivor | 22.00% | ~1,596 |
 | Merchant | 21.00% | ~1,523 |
 | War Never Changes | 19.00% | ~1,378 |
 | Rocket Surgeon | 19.00% | ~1,378 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~15 |
 | Customized calamities | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,252 (Ranked 123)  
+Progressed: 7,253 (Ranked 123)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-07 | 7,171 | 0 |
 | 2023-07-08 | 7,205 | 0 |
 | 2023-07-09 | 7,240 | 0 |
-| 2023-07-10 | 7,252 | 0 |
+| 2023-07-10 | 7,253 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 330)  
 Sum: 675 (Ranked 272)  

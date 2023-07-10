@@ -11,23 +11,23 @@
 | Think Positive | 23.00% | ~5 |
 | Kingdom Party Time | 18.00% | ~4 |
 | Festival Fever | 9.00% | ~2 |
+| Landscaper | 9.00% | ~2 |
+| Dream Big | 9.00% | ~2 |
 | Entering New Territory | 9.00% | ~2 |
 | Lecturer | 9.00% | ~2 |
 | Gotta Adopt Them All! | 5.00% | ~1 |
-| Landscaper | 5.00% | ~1 |
-| Dream Big | 5.00% | ~1 |
+| Diamonds in the Rough | 5.00% | ~1 |
+| Just One More Go | 5.00% | ~1 |
+| Neverending Story | 5.00% | ~1 |
 | Kindred Spirits | 5.00% | ~1 |
 | Kingdom Champions | 0.00% | ~0 |
 | Dream Team | 0.00% | ~0 |
 | S is for Sensational | 0.00% | ~0 |
 | Protected Nature Reserve | 0.00% | ~0 |
-| Diamonds in the Rough | 0.00% | ~0 |
 | Paving the Way | 0.00% | ~0 |
-| Just One More Go | 0.00% | ~0 |
 | Dragon Academy | 0.00% | ~0 |
 | Fully Booked! | 0.00% | ~0 |
 | Job Done! | 0.00% | ~0 |
-| Neverending Story | 0.00% | ~0 |
 | Claim to Fame | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 22 (Ranked 369)  

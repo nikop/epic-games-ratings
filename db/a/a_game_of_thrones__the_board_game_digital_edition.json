@@ -1257,9 +1257,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 18150,
+  "EOS_Progressed": 18153,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 637,
+  "EOS_NewPlayers": 638,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -9737,6 +9737,11 @@
       "Time": "2023-07-10T11:06:49.4151765+00:00",
       "NumProgressed": 18150,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-07-10T12:06:40.1374006+00:00",
+      "NumProgressed": 18153,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 22,
@@ -9812,7 +9817,7 @@
       "Name": "What is Dead may Never Die",
       "Percentage": 3,
       "XP": 65,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "1024",
@@ -9852,7 +9857,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3267
+      "UsersEstimate": 3268
     },
     {
       "ID": "1029",
@@ -9868,7 +9873,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3630
+      "UsersEstimate": 3631
     },
     {
       "ID": "1031",
@@ -9884,7 +9889,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 7260
+      "UsersEstimate": 7261
     },
     {
       "ID": "1033",
@@ -9892,7 +9897,7 @@
       "Name": "The Swift",
       "Percentage": 3,
       "XP": 120,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "1034",
@@ -9923,15 +9928,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 18150,
+      "Progressed": 18153,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-06-24T15:00:43.300424+00:00",
-  "LastChanged_Achievements": "2023-07-10T11:06:49.4151761+00:00",
+  "LastChanged_Achievements": "2023-07-10T12:06:40.1374002+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:43.393171+00:00",
-  "LastUpdate_Ratings": "2023-07-10T11:00:38.0801778+00:00",
-  "LastUpdate_Achievements": "2023-07-10T11:06:49.4152256+00:00"
+  "LastUpdate_Ratings": "2023-07-10T12:00:42.8139282+00:00",
+  "LastUpdate_Achievements": "2023-07-10T12:06:40.1374553+00:00"
 }

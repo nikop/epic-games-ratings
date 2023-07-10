@@ -6,34 +6,34 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,435 |
-| The Mad Wizard | 11.00% | ~23,052 |
-| The Ring of Regeneration | 7.00% | ~14,670 |
-| Are Ya Chicken? | 7.00% | ~14,670 |
-| Were-verpowered | 6.00% | ~12,574 |
-| Seeking Allies | 5.00% | ~10,478 |
-| Mad Cow Disease | 5.00% | ~10,478 |
-| Friendly Imps | 5.00% | ~10,478 |
-| A Persistent Buzzing | 4.00% | ~8,383 |
-| Pure Energy | 4.00% | ~8,383 |
-| Beast Mode | 3.00% | ~6,287 |
-| Terror in the Dark | 3.00% | ~6,287 |
-| Unearthed Evil | 3.00% | ~6,287 |
-| The Crumbling Temple | 3.00% | ~6,287 |
-| Exploring Port Nyanzaru | 3.00% | ~6,287 |
-| The Contagious Curse | 3.00% | ~6,287 |
-| Escort to Waterdeep | 3.00% | ~6,287 |
-| Low Initiative | 2.00% | ~4,191 |
-| A Mysterious Summons | 2.00% | ~4,191 |
-| Building Trust | 2.00% | ~4,191 |
-| March of the Undead | 2.00% | ~4,191 |
-| No Time To Rest | 2.00% | ~4,191 |
-| Useless Allies | 2.00% | ~4,191 |
-| Running of the Saurs | 2.00% | ~4,191 |
-| Waterdeep Detours | 2.00% | ~4,191 |
-| Underdeep Cartography | 2.00% | ~4,191 |
-| Overdue Rendezvous | 2.00% | ~4,191 |
-| The Templar's Camp | 2.00% | ~4,191 |
+| The Cursed Farmer | 15.00% | ~31,439 |
+| The Mad Wizard | 11.00% | ~23,056 |
+| The Ring of Regeneration | 7.00% | ~14,672 |
+| Are Ya Chicken? | 7.00% | ~14,672 |
+| Were-verpowered | 6.00% | ~12,576 |
+| Seeking Allies | 5.00% | ~10,480 |
+| Mad Cow Disease | 5.00% | ~10,480 |
+| Friendly Imps | 5.00% | ~10,480 |
+| A Persistent Buzzing | 4.00% | ~8,384 |
+| Pure Energy | 4.00% | ~8,384 |
+| Beast Mode | 3.00% | ~6,288 |
+| Terror in the Dark | 3.00% | ~6,288 |
+| Unearthed Evil | 3.00% | ~6,288 |
+| The Crumbling Temple | 3.00% | ~6,288 |
+| Exploring Port Nyanzaru | 3.00% | ~6,288 |
+| The Contagious Curse | 3.00% | ~6,288 |
+| Escort to Waterdeep | 3.00% | ~6,288 |
+| Low Initiative | 2.00% | ~4,192 |
+| A Mysterious Summons | 2.00% | ~4,192 |
+| Building Trust | 2.00% | ~4,192 |
+| March of the Undead | 2.00% | ~4,192 |
+| No Time To Rest | 2.00% | ~4,192 |
+| Useless Allies | 2.00% | ~4,192 |
+| Running of the Saurs | 2.00% | ~4,192 |
+| Waterdeep Detours | 2.00% | ~4,192 |
+| Underdeep Cartography | 2.00% | ~4,192 |
+| Overdue Rendezvous | 2.00% | ~4,192 |
+| The Templar's Camp | 2.00% | ~4,192 |
 | Homecoming | 1.00% | ~2,096 |
 | Street War | 1.00% | ~2,096 |
 | Invisible Shadows | 1.00% | ~2,096 |
@@ -72,16 +72,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Darkness Runs Deeper | 0.70% | ~1,467 |
 | Market Fluctuations | 0.70% | ~1,467 |
 | Durable Deep | 0.70% | ~1,467 |
-| The Wyrmheart Mine | 0.60% | ~1,257 |
-| Tower on the Lake | 0.60% | ~1,257 |
-| The Guardian of Orolunga | 0.60% | ~1,257 |
-| The Lost Love | 0.60% | ~1,257 |
-| Hopelessly Lost | 0.60% | ~1,257 |
-| Enter the Sargauth | 0.60% | ~1,257 |
-| Lair of the Xanathar | 0.60% | ~1,257 |
-| Difficult Terrain | 0.60% | ~1,257 |
+| The Wyrmheart Mine | 0.60% | ~1,258 |
+| Tower on the Lake | 0.60% | ~1,258 |
+| The Guardian of Orolunga | 0.60% | ~1,258 |
+| The Lost Love | 0.60% | ~1,258 |
+| Hopelessly Lost | 0.60% | ~1,258 |
+| Enter the Sargauth | 0.60% | ~1,258 |
+| Lair of the Xanathar | 0.60% | ~1,258 |
+| Difficult Terrain | 0.60% | ~1,258 |
 | The Everlasting Rime | 0.60% | ~1,055 |
-| Expert Opinion | 0.60% | ~1,257 |
+| Expert Opinion | 0.60% | ~1,258 |
 | Home Field Advantage | 0.50% | ~1,048 |
 | Force Grey Unleashed | 0.50% | ~1,048 |
 | Sleuth It Out | 0.50% | ~1,048 |
@@ -147,6 +147,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Orcs Are Wild | 0.30% | ~629 |
 | A Hero's Entourage | 0.30% | ~629 |
 | Dreams of Beholders | 0.30% | ~629 |
+| The Sunless Citadel | 0.30% | ~629 |
 | Patience is Key | 0.30% | ~629 |
 | Troublesome Prisoner | 0.30% | ~629 |
 | Dark Doppelgangers | 0.30% | ~629 |
@@ -213,7 +214,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Feigned Weakness | 0.20% | ~419 |
 | Bregan D'aerthe Comes to Call | 0.20% | ~419 |
 | Sober Up | 0.20% | ~419 |
-| The Sunless Citadel | 0.20% | ~419 |
 | Meepo's Quest | 0.20% | ~419 |
 | Cold & Wet | 0.20% | ~419 |
 | Madcap Adventures | 0.20% | ~419 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209,568 (Ranked 52)  
+Progressed: 209,596 (Ranked 52)  
 Completed: 2,043 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -591,7 +591,7 @@ Completed: 2,043 (0.97%) (Ranked 102)
 | 2023-07-07 | 208,152 | 2,037 |
 | 2023-07-08 | 208,782 | 2,041 |
 | 2023-07-09 | 209,384 | 2,043 |
-| 2023-07-10 | 209,568 | 2,043 |
+| 2023-07-10 | 209,596 | 2,043 |
 ## Awards
 Max (Diverse Characters): 5,021  (Ranked 65)  
 Sum: 30,464 (Ranked 37)  

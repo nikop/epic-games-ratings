@@ -34,13 +34,13 @@ Rating: 4.45 (Ranked 622)
 | Precision Is Key | 0.90% | ~29 |
 | Enemy at the Gates | 0.80% | ~26 |
 | Just a Flesh Wound | 0.80% | ~26 |
+| Die Nussknacker Sweet! | 0.80% | ~26 |
 | Fields of Glory | 0.70% | ~23 |
-| Die Nussknacker Sweet! | 0.70% | ~23 |
 | Tinkerer | 0.70% | ~23 |
 | The Long Game | 0.60% | ~20 |
+| Herr Today, Gone Tomorrow | 0.60% | ~19 |
 | Rigged to Blow | 0.50% | ~16 |
 | Don't hold your breath | 0.50% | ~16 |
-| Herr Today, Gone Tomorrow | 0.50% | ~16 |
 | Shipbreaker | 0.50% | ~16 |
 | Sink or Swim | 0.50% | ~16 |
 | Strategist | 0.40% | ~13 |

@@ -34,8 +34,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pyramids | 45.00% | ~5,727 |
 | Warrior | 44.00% | ~5,600 |
 | Strong Cities | 44.00% | ~5,600 |
+| Ishtar Gate | 44.00% | ~5,600 |
 | Greek Paganism | 44.00% | ~5,600 |
-| Ishtar Gate | 43.00% | ~5,473 |
 | Babylonian Paganism | 43.00% | ~5,473 |
 | Enlightened | 42.00% | ~5,345 |
 | Roman Paganism | 41.00% | ~5,218 |

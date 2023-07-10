@@ -21,9 +21,9 @@ Number of Ratings: 371  (23.09.2022)
 | Nemesis Master | 12.00% | ~354 |
 | A Foul Creche | 12.00% | ~354 |
 | Gunmaster | 11.00% | ~325 |
-| Just a Scratch | 9.00% | ~266 |
 | Opportunist | 8.00% | ~236 |
 | Efficient Killer | 8.00% | ~236 |
+| Just a Scratch | 8.00% | ~236 |
 | Hold Your Ground | 7.00% | ~207 |
 | A Gift Spurned | 5.00% | ~148 |
 | Daemonkeeper | 4.00% | ~118 |
@@ -66,7 +66,7 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,952 (Ranked 150)  
+Progressed: 2,953 (Ranked 150)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-07 | 2,947 | 0 |
 | 2023-07-08 | 2,949 | 0 |
 | 2023-07-09 | 2,951 | 0 |
-| 2023-07-10 | 2,952 | 0 |
+| 2023-07-10 | 2,953 | 0 |
 ## Awards
 Max (Character Customization): 213  (Ranked 262)  
 Sum: 428 (Ranked 305)  

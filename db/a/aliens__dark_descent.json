@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2778,
+  "EOS_Progressed": 2779,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 302,
+  "EOS_NewPlayers": 303,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2198,6 +2198,11 @@
       "Time": "2023-07-10T10:07:10.6174226+00:00",
       "NumProgressed": 2778,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-10T12:06:41.2639478+00:00",
+      "NumProgressed": 2779,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2241,7 +2246,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1333
+      "UsersEstimate": 1334
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -2249,7 +2254,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1250
+      "UsersEstimate": 1251
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -2257,7 +2262,7 @@
       "Name": "Omelette Du Fromage",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -2305,7 +2310,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 2000
+      "UsersEstimate": 2001
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -2319,9 +2324,9 @@
       "ID": "ACH_KILL_UNDETECTED",
       "SetID": "816efe",
       "Name": "Call Me Snake",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 1611
+      "UsersEstimate": 1640
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -2329,7 +2334,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 1778
+      "UsersEstimate": 1779
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -2401,7 +2406,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 1583
+      "UsersEstimate": 1584
     },
     {
       "ID": "ACH_MISSION_02",
@@ -2425,7 +2430,7 @@
       "Name": "Making a Stand",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "ACH_MISSION_05",
@@ -2505,7 +2510,7 @@
       "Name": "Snatched Out",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 2028
+      "UsersEstimate": 2029
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -2513,7 +2518,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 2222
+      "UsersEstimate": 2223
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -2529,7 +2534,7 @@
       "Name": "People Person",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 1389
+      "UsersEstimate": 1390
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -2568,7 +2573,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 2778,
+      "Progressed": 2779,
       "Completed": 0
     }
   ],
@@ -2576,8 +2581,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-09T20:59:26.8996663+00:00",
-  "LastChanged_Achievements": "2023-07-10T11:06:50.3592111+00:00",
+  "LastChanged_Achievements": "2023-07-10T12:06:41.2639472+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:32.529009+00:00",
-  "LastUpdate_Ratings": "2023-07-10T10:59:37.8193651+00:00",
-  "LastUpdate_Achievements": "2023-07-10T11:06:50.3592475+00:00"
+  "LastUpdate_Ratings": "2023-07-10T11:59:46.1483843+00:00",
+  "LastUpdate_Achievements": "2023-07-10T12:06:41.2639975+00:00"
 }
