@@ -4,7 +4,7 @@
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 18,
-  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
@@ -350,17 +350,17 @@
       "ID": "brown_nosing",
       "SetID": "202dmm8",
       "Name": "Brown nosing",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 57
     },
     {
       "ID": "cheat",
       "SetID": "202dmm8",
       "Name": "Cheat",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 57
     },
     {
       "ID": "delusions",
@@ -398,9 +398,9 @@
       "ID": "just_like_me",
       "SetID": "202dmm8",
       "Name": "Just like me",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 61
+      "UsersEstimate": 63
     },
     {
       "ID": "making_a_murderer",
@@ -454,9 +454,9 @@
       "ID": "you_are_carol_vorderman",
       "SetID": "202dmm8",
       "Name": "You are Carol Vorderman",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 114
     }
   ],
   "AchievementSets": [
@@ -471,8 +471,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-07-10T08:00:58.384415+00:00",
+  "LastChanged_Achievements": "2023-07-10T09:01:42.7308956+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:31.7426051+00:00",
-  "LastUpdate_Ratings": "2023-07-10T08:00:10.1191648+00:00",
-  "LastUpdate_Achievements": "2023-07-10T08:00:58.3844281+00:00"
+  "LastUpdate_Ratings": "2023-07-10T09:00:41.9227117+00:00",
+  "LastUpdate_Achievements": "2023-07-10T09:01:42.7309148+00:00"
 }

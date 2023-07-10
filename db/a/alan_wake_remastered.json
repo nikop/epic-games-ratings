@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57138,
+  "EOS_Progressed": 57140,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 408,
+  "EOS_NewPlayers": 409,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7512,6 +7512,11 @@
       "Time": "2023-07-10T08:03:56.9017534+00:00",
       "NumProgressed": 57138,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-10T09:03:52.0337479+00:00",
+      "NumProgressed": 57140,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7523,7 +7528,7 @@
       "Name": "Follow the Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 19427
+      "UsersEstimate": 19428
     },
     {
       "ID": "02",
@@ -7627,7 +7632,7 @@
       "Name": "Gatekeeper",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5142
+      "UsersEstimate": 5143
     },
     {
       "ID": "15",
@@ -7635,7 +7640,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5142
+      "UsersEstimate": 5143
     },
     {
       "ID": "16",
@@ -7755,7 +7760,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5142
+      "UsersEstimate": 5143
     },
     {
       "ID": "31",
@@ -7763,7 +7768,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 7999
+      "UsersEstimate": 8000
     },
     {
       "ID": "32",
@@ -7787,7 +7792,7 @@
       "Name": "Energized!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5142
+      "UsersEstimate": 5143
     },
     {
       "ID": "35",
@@ -7795,7 +7800,7 @@
       "Name": "Let There Be Light",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 15427
+      "UsersEstimate": 15428
     },
     {
       "ID": "36",
@@ -7843,7 +7848,7 @@
       "Name": "Finders Keepers",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 7999
+      "UsersEstimate": 8000
     },
     {
       "ID": "42",
@@ -7923,7 +7928,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1648
+      "UsersEstimate": 1649
     },
     {
       "ID": "52",
@@ -8058,21 +8063,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57138,
+      "Progressed": 57140,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20606,
+      "Progressed": 20608,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-10T08:03:56.901753+00:00",
+  "LastChanged_Achievements": "2023-07-10T09:03:52.033747+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:08.3646753+00:00",
-  "LastUpdate_Ratings": "2023-07-10T07:57:59.3558147+00:00",
-  "LastUpdate_Achievements": "2023-07-10T08:03:56.9018802+00:00"
+  "LastUpdate_Ratings": "2023-07-10T08:58:09.4085492+00:00",
+  "LastUpdate_Achievements": "2023-07-10T09:03:52.0338637+00:00"
 }

@@ -9,7 +9,7 @@
 | Triple Kill | 48.00% | ~79 |
 | Survivor | 48.00% | ~55 |
 | First Blood | 47.00% | ~78 |
-| I Believe I Can Fly | 41.00% | ~68 |
+| I Believe I Can Fly | 42.00% | ~69 |
 | Cornivore | 41.00% | ~68 |
 | No Asperascope | 38.00% | ~63 |
 | Early Survivor | 37.00% | ~43 |

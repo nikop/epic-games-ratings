@@ -4,7 +4,7 @@
   "ProductSlug": "going-medieval",
   "Ranking_Rating": 389,
   "Ranking_Popularity": 310,
-  "Ranking_PopularitySum": 239,
+  "Ranking_PopularitySum": 238,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 163,
   "Ranking_EOS_NewPlayers": 100,
@@ -1050,10 +1050,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 959,
       "NumberOfAwardsMax": 120
+    },
+    {
+      "Time": "2023-07-10T09:00:28.1401305+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 960,
+      "NumberOfAwardsMax": 120
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 959,
+  "NumberOfAwards": 960,
   "NumberOfAwardsMax": 120,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -1121,7 +1127,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 106
+      "Count": 107
     },
     {
       "Text": "This game has a Creative Community",
@@ -1132,7 +1138,7 @@
   ],
   "EOS_Progressed": 4496,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 180,
+  "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -5249,9 +5255,9 @@
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
-  "LastChanged": "2023-07-05T14:00:57.5136385+00:00",
-  "LastChanged_Achievements": "2023-07-10T08:00:43.8765404+00:00",
+  "LastChanged": "2023-07-10T09:00:28.1401302+00:00",
+  "LastChanged_Achievements": "2023-07-10T09:01:25.0058461+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:13.9493644+00:00",
-  "LastUpdate_Ratings": "2023-07-10T07:59:58.366968+00:00",
-  "LastUpdate_Achievements": "2023-07-10T08:00:43.8765962+00:00"
+  "LastUpdate_Ratings": "2023-07-10T09:00:28.140131+00:00",
+  "LastUpdate_Achievements": "2023-07-10T09:01:25.0059005+00:00"
 }

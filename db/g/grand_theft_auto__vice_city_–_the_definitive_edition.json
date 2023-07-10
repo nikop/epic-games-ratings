@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -520,9 +520,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 8914,
+  "EOS_Progressed": 8915,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -6090,6 +6090,11 @@
       "Time": "2023-07-10T00:00:26.898163+00:00",
       "NumProgressed": 8914,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-10T09:02:03.9974875+00:00",
+      "NumProgressed": 8915,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -6181,7 +6186,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "ACH12",
@@ -6261,7 +6266,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4011
+      "UsersEstimate": 4012
     },
     {
       "ID": "ACH22",
@@ -6277,7 +6282,7 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2228
+      "UsersEstimate": 2229
     },
     {
       "ID": "ACH24",
@@ -6372,7 +6377,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8914,
+      "Progressed": 8915,
       "Completed": 43
     }
   ],
@@ -6380,8 +6385,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-07T10:58:53.3105834+00:00",
-  "LastChanged_Achievements": "2023-07-10T08:00:59.4653245+00:00",
+  "LastChanged_Achievements": "2023-07-10T09:02:03.9974868+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:55.3864428+00:00",
-  "LastUpdate_Ratings": "2023-07-10T07:58:29.1912661+00:00",
-  "LastUpdate_Achievements": "2023-07-10T08:00:59.465388+00:00"
+  "LastUpdate_Ratings": "2023-07-10T08:58:44.385576+00:00",
+  "LastUpdate_Achievements": "2023-07-10T09:02:03.9975516+00:00"
 }

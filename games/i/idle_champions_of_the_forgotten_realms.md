@@ -6,14 +6,14 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,428 |
-| The Mad Wizard | 11.00% | ~23,047 |
-| The Ring of Regeneration | 7.00% | ~14,666 |
-| Are Ya Chicken? | 7.00% | ~14,666 |
-| Were-verpowered | 6.00% | ~12,571 |
-| Seeking Allies | 5.00% | ~10,476 |
-| Mad Cow Disease | 5.00% | ~10,476 |
-| Friendly Imps | 5.00% | ~10,476 |
+| The Cursed Farmer | 15.00% | ~31,430 |
+| The Mad Wizard | 11.00% | ~23,049 |
+| The Ring of Regeneration | 7.00% | ~14,667 |
+| Are Ya Chicken? | 7.00% | ~14,667 |
+| Were-verpowered | 6.00% | ~12,572 |
+| Seeking Allies | 5.00% | ~10,477 |
+| Mad Cow Disease | 5.00% | ~10,477 |
+| Friendly Imps | 5.00% | ~10,477 |
 | A Persistent Buzzing | 4.00% | ~8,381 |
 | Pure Energy | 4.00% | ~8,381 |
 | Beast Mode | 3.00% | ~6,286 |
@@ -23,17 +23,17 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 3.00% | ~6,286 |
 | The Contagious Curse | 3.00% | ~6,286 |
 | Escort to Waterdeep | 3.00% | ~6,286 |
-| Low Initiative | 2.00% | ~4,190 |
-| A Mysterious Summons | 2.00% | ~4,190 |
-| Building Trust | 2.00% | ~4,190 |
-| March of the Undead | 2.00% | ~4,190 |
-| No Time To Rest | 2.00% | ~4,190 |
-| Useless Allies | 2.00% | ~4,190 |
-| Running of the Saurs | 2.00% | ~4,190 |
-| Waterdeep Detours | 2.00% | ~4,190 |
-| Underdeep Cartography | 2.00% | ~4,190 |
-| Overdue Rendezvous | 2.00% | ~4,190 |
-| The Templar's Camp | 2.00% | ~4,190 |
+| Low Initiative | 2.00% | ~4,191 |
+| A Mysterious Summons | 2.00% | ~4,191 |
+| Building Trust | 2.00% | ~4,191 |
+| March of the Undead | 2.00% | ~4,191 |
+| No Time To Rest | 2.00% | ~4,191 |
+| Useless Allies | 2.00% | ~4,191 |
+| Running of the Saurs | 2.00% | ~4,191 |
+| Waterdeep Detours | 2.00% | ~4,191 |
+| Underdeep Cartography | 2.00% | ~4,191 |
+| Overdue Rendezvous | 2.00% | ~4,191 |
+| The Templar's Camp | 2.00% | ~4,191 |
 | Homecoming | 1.00% | ~2,095 |
 | Street War | 1.00% | ~2,095 |
 | Invisible Shadows | 1.00% | ~2,095 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209,519 (Ranked 52)  
+Progressed: 209,532 (Ranked 52)  
 Completed: 2,043 (0.98%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -591,7 +591,7 @@ Completed: 2,043 (0.98%) (Ranked 102)
 | 2023-07-07 | 208,152 | 2,037 |
 | 2023-07-08 | 208,782 | 2,041 |
 | 2023-07-09 | 209,384 | 2,043 |
-| 2023-07-10 | 209,519 | 2,043 |
+| 2023-07-10 | 209,532 | 2,043 |
 ## Awards
 Max (Diverse Characters): 5,021  (Ranked 65)  
 Sum: 30,464 (Ranked 37)  
