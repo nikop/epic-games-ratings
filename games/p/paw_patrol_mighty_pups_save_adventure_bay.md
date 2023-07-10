@@ -11,10 +11,10 @@
 | Grand Re-Opening | 50.00% | ~7 |
 | Carlos Is Tangled | 50.00% | ~7 |
 | Paw patrol member | 43.00% | ~6 |
+| Mandy Family | 43.00% | ~6 |
 | Robot Out of Control | 43.00% | ~6 |
 | Mr. Porter | 36.00% | ~5 |
 | Animal Sighting | 36.00% | ~5 |
-| Mandy Family | 36.00% | ~5 |
 | Break Time | 29.00% | ~4 |
 | Master of the Rope | 29.00% | ~4 |
 | Training Day | 29.00% | ~4 |

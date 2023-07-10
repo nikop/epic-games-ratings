@@ -13,8 +13,8 @@
 | Start Your Engines | 12.00% | ~11 |
 | Lone Wolf | 11.00% | ~10 |
 | Highly Qualified | 10.00% | ~9 |
+| Nerd | 9.00% | ~8 |
 | No Room for Improvement | 9.00% | ~8 |
-| Nerd | 8.00% | ~7 |
 | Upgradeaholic | 8.00% | ~7 |
 | Playing God | 8.00% | ~7 |
 | Tailor-Made | 6.00% | ~6 |

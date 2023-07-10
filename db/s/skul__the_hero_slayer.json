@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -3537,9 +3537,9 @@
       "ID": "WhattoBuy",
       "SetID": "97dk767",
       "Name": "What should I buy?",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6556
+      "UsersEstimate": 6635
     }
   ],
   "AchievementSets": [
@@ -3553,8 +3553,8 @@
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-07-05T08:59:19.7816189+00:00",
-  "LastChanged_Achievements": "2023-07-10T14:04:06.8464462+00:00",
+  "LastChanged_Achievements": "2023-07-10T15:04:45.7893655+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:55.1459271+00:00",
-  "LastUpdate_Ratings": "2023-07-10T13:58:59.2942659+00:00",
-  "LastUpdate_Achievements": "2023-07-10T14:04:06.8464829+00:00"
+  "LastUpdate_Ratings": "2023-07-10T14:59:53.0063708+00:00",
+  "LastUpdate_Achievements": "2023-07-10T15:04:45.7893985+00:00"
 }

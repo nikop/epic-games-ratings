@@ -6,23 +6,23 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,446 |
-| The Mad Wizard | 11.00% | ~23,061 |
-| The Ring of Regeneration | 7.00% | ~14,675 |
-| Are Ya Chicken? | 7.00% | ~14,675 |
-| Were-verpowered | 6.00% | ~12,578 |
-| Seeking Allies | 5.00% | ~10,482 |
-| Mad Cow Disease | 5.00% | ~10,482 |
-| Friendly Imps | 5.00% | ~10,482 |
-| A Persistent Buzzing | 4.00% | ~8,386 |
-| Pure Energy | 4.00% | ~8,386 |
-| Beast Mode | 3.00% | ~6,289 |
-| Terror in the Dark | 3.00% | ~6,289 |
-| Unearthed Evil | 3.00% | ~6,289 |
-| The Crumbling Temple | 3.00% | ~6,289 |
-| Exploring Port Nyanzaru | 3.00% | ~6,289 |
-| The Contagious Curse | 3.00% | ~6,289 |
-| Escort to Waterdeep | 3.00% | ~6,289 |
+| The Cursed Farmer | 15.00% | ~31,450 |
+| The Mad Wizard | 11.00% | ~23,063 |
+| The Ring of Regeneration | 7.00% | ~14,676 |
+| Are Ya Chicken? | 7.00% | ~14,676 |
+| Were-verpowered | 6.00% | ~12,580 |
+| Seeking Allies | 5.00% | ~10,483 |
+| Mad Cow Disease | 5.00% | ~10,483 |
+| Friendly Imps | 5.00% | ~10,483 |
+| A Persistent Buzzing | 4.00% | ~8,387 |
+| Pure Energy | 4.00% | ~8,387 |
+| Beast Mode | 3.00% | ~6,290 |
+| Terror in the Dark | 3.00% | ~6,290 |
+| Unearthed Evil | 3.00% | ~6,290 |
+| The Crumbling Temple | 3.00% | ~6,290 |
+| Exploring Port Nyanzaru | 3.00% | ~6,290 |
+| The Contagious Curse | 3.00% | ~6,290 |
+| Escort to Waterdeep | 3.00% | ~6,290 |
 | Low Initiative | 2.00% | ~4,193 |
 | A Mysterious Summons | 2.00% | ~4,193 |
 | Building Trust | 2.00% | ~4,193 |
@@ -34,23 +34,23 @@ Number of Ratings: 9,041  (23.09.2022)
 | Underdeep Cartography | 2.00% | ~4,193 |
 | Overdue Rendezvous | 2.00% | ~4,193 |
 | The Templar's Camp | 2.00% | ~4,193 |
-| Homecoming | 1.00% | ~2,096 |
-| Street War | 1.00% | ~2,096 |
-| Invisible Shadows | 1.00% | ~2,096 |
-| The Dinner Party | 1.00% | ~2,096 |
-| The Botched Kidnapping | 1.00% | ~2,096 |
-| Trollskull Manor | 1.00% | ~2,096 |
-| The Death Curse | 1.00% | ~2,096 |
-| Premature Betrayal | 1.00% | ~2,096 |
-| A Tale of Two Cities | 1.00% | ~2,096 |
-| Flying Monkey Skulls of Doom | 1.00% | ~2,096 |
-| Dinosaur Racing | 1.00% | ~2,096 |
-| Close Escort | 1.00% | ~2,096 |
-| Constant Banditry | 1.00% | ~2,096 |
-| Lost in the Deep | 1.00% | ~2,096 |
-| Easily Distracted | 1.00% | ~2,096 |
-| Rescue in the Jungle | 1.00% | ~2,096 |
-| The Lost Heir of Omu | 0.90% | ~1,887 |
+| Homecoming | 1.00% | ~2,097 |
+| The Lost Heir of Omu | 1.00% | ~2,097 |
+| Street War | 1.00% | ~2,097 |
+| Invisible Shadows | 1.00% | ~2,097 |
+| The Dinner Party | 1.00% | ~2,097 |
+| The Botched Kidnapping | 1.00% | ~2,097 |
+| Trollskull Manor | 1.00% | ~2,097 |
+| The Death Curse | 1.00% | ~2,097 |
+| Premature Betrayal | 1.00% | ~2,097 |
+| A Tale of Two Cities | 1.00% | ~2,097 |
+| Flying Monkey Skulls of Doom | 1.00% | ~2,097 |
+| Dinosaur Racing | 1.00% | ~2,097 |
+| Close Escort | 1.00% | ~2,097 |
+| Constant Banditry | 1.00% | ~2,097 |
+| Lost in the Deep | 1.00% | ~2,097 |
+| Easily Distracted | 1.00% | ~2,097 |
+| Rescue in the Jungle | 1.00% | ~2,097 |
 | The Forbidden City | 0.90% | ~1,887 |
 | Attack on the Manor | 0.90% | ~1,887 |
 | The Dead Three | 0.90% | ~1,887 |
@@ -60,28 +60,28 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Grand Puzzle | 0.80% | ~1,677 |
 | The Mists of Ravenloft | 0.80% | ~1,677 |
 | Nimble Escape | 0.80% | ~1,677 |
-| The Giant's Bane Tavern | 0.80% | ~1,407 |
+| The Giant's Bane Tavern | 0.80% | ~1,408 |
 | Rude Welcome | 0.80% | ~1,677 |
 | The Haunted Jungle | 0.80% | ~1,677 |
-| Tomb of the Nine Gods | 0.70% | ~1,467 |
-| Family Entanglements | 0.70% | ~1,467 |
-| The Immortal Warrior | 0.70% | ~1,467 |
-| Treasure Hunters | 0.70% | ~1,467 |
-| Fugitives | 0.70% | ~1,467 |
-| Crowded Streets | 0.70% | ~1,467 |
-| The Darkness Runs Deeper | 0.70% | ~1,467 |
-| Market Fluctuations | 0.70% | ~1,467 |
-| Durable Deep | 0.70% | ~1,467 |
+| Tomb of the Nine Gods | 0.70% | ~1,468 |
+| Family Entanglements | 0.70% | ~1,468 |
+| The Immortal Warrior | 0.70% | ~1,468 |
+| Treasure Hunters | 0.70% | ~1,468 |
+| Fugitives | 0.70% | ~1,468 |
+| Hopelessly Lost | 0.70% | ~1,468 |
+| Crowded Streets | 0.70% | ~1,468 |
+| The Darkness Runs Deeper | 0.70% | ~1,468 |
+| Market Fluctuations | 0.70% | ~1,468 |
+| Durable Deep | 0.70% | ~1,468 |
 | The Wyrmheart Mine | 0.60% | ~1,258 |
 | Tower on the Lake | 0.60% | ~1,258 |
 | The Guardian of Orolunga | 0.60% | ~1,258 |
 | The Lost Love | 0.60% | ~1,258 |
-| Hopelessly Lost | 0.60% | ~1,258 |
 | Enter the Sargauth | 0.60% | ~1,258 |
 | Lair of the Xanathar | 0.60% | ~1,258 |
 | Difficult Terrain | 0.60% | ~1,258 |
 | Elturel Has Fallen | 0.60% | ~1,258 |
-| The Everlasting Rime | 0.60% | ~1,055 |
+| The Everlasting Rime | 0.60% | ~1,056 |
 | Expert Opinion | 0.60% | ~1,258 |
 | Home Field Advantage | 0.50% | ~1,048 |
 | Force Grey Unleashed | 0.50% | ~1,048 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209,641 (Ranked 52)  
+Progressed: 209,664 (Ranked 52)  
 Completed: 2,043 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -591,20 +591,20 @@ Completed: 2,043 (0.97%) (Ranked 102)
 | 2023-07-07 | 208,152 | 2,037 |
 | 2023-07-08 | 208,782 | 2,041 |
 | 2023-07-09 | 209,384 | 2,043 |
-| 2023-07-10 | 209,641 | 2,043 |
+| 2023-07-10 | 209,664 | 2,043 |
 ## Awards
 Max (Diverse Characters): 5,021  (Ranked 65)  
-Sum: 30,464 (Ranked 37)  
+Sum: 30,468 (Ranked 37)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,021 |
-| This game is Great for Beginners | 4,951 |
+| This game is Great for Beginners | 4,954 |
 | This game has Quickly Understood Controls | 4,653 |
 | This game is Relaxing | 4,547 |
 | This game is Highly Recommended | 4,000 |
 | This game has Amazing Characters | 3,998 |
-| This game has Playful Visuals | 3,294 |
+| This game has Playful Visuals | 3,295 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -773,4 +773,4 @@ Diff (max vs sum): 28
 | 2023-07-07 | 4.05 | - | 5,013 | 30,436 |
 | 2023-07-08 | 4.05 | - | 5,013 | 30,446 |
 | 2023-07-09 | 4.05 | - | 5,016 | 30,455 |
-| 2023-07-10 | 4.05 | - | 5,021 | 30,464 |
+| 2023-07-10 | 4.05 | - | 5,021 | 30,468 |

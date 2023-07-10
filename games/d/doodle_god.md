@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good Start | 94.00% | ~212 |
+| Good Start | 95.00% | ~214 |
 | Practice Makes Perfect | 84.00% | ~189 |
 | Creator of Life | 82.00% | ~184 |
 | Creator of Diversity | 70.00% | ~158 |
@@ -23,8 +23,8 @@
 | Heavenly Virtues | 11.00% | ~25 |
 | Brilliant Inventor | 8.00% | ~18 |
 | Greatest inventor | 8.00% | ~18 |
+| Master of Alchemy | 6.00% | ~14 |
 | Master of the Worlds | 6.00% | ~14 |
-| Master of Alchemy | 5.00% | ~11 |
 | God of Patience | 4.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 225 (Ranked 260)  

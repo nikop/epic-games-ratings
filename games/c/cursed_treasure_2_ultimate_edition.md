@@ -50,8 +50,8 @@
 | Dwarven Countdown | 29.00% | ~47 |
 | Starry: Wasteland | 28.00% | ~45 |
 | Deadman's Chest | 27.00% | ~44 |
+| Monument Keeper | 26.00% | ~42 |
 | Brilliant: Free Coast | 25.00% | ~40 |
-| Monument Keeper | 25.00% | ~40 |
 | Brilliant: The Deep | 24.00% | ~39 |
 | Starry: Free Coast | 23.00% | ~37 |
 | Starry: The Deep | 21.00% | ~34 |
@@ -59,7 +59,7 @@
 | Loveless | 17.00% | ~28 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 162 (Ranked 280)  
-Completed: 22 (13.58%) (Ranked 13)  
+Completed: 23 (14.20%) (Ranked 12)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -84,6 +84,7 @@ Completed: 22 (13.58%) (Ranked 13)
 | 2023-06-25 | 161 | 21 |
 | 2023-06-28 | 162 | 21 |
 | 2023-07-03 | 162 | 22 |
+| 2023-07-10 | 162 | 23 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

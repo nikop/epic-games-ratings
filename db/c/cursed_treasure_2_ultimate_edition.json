@@ -3,9 +3,9 @@
   "Name": "Cursed Treasure 2 Ultimate Edition",
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 280,
-  "Ranking_EOS_Completed": 13,
+  "Ranking_EOS_Completed": 12,
   "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
     "PcReleaseDate": "2022-07-14T11:30:00+00:00",
@@ -28,10 +28,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 162,
-  "EOS_Completed": 22,
+  "EOS_Completed": 23,
   "EOS_NewPlayers": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 13.58,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 14.2,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:52.0136119+00:00",
@@ -147,6 +147,11 @@
       "Time": "2023-07-03T23:04:35.9951648+00:00",
       "NumProgressed": 162,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-07-10T15:06:09.5664586+00:00",
+      "NumProgressed": 162,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 53,
@@ -492,9 +497,9 @@
       "ID": "BADGE_MONUMENT_KEEPER",
       "SetID": "ak6pfjk",
       "Name": "Monument Keeper",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "BADGE_NINJA_INVISIBLE_KILL",
@@ -582,15 +587,15 @@
       "ID": "ak6pfjk",
       "IsBase": true,
       "Progressed": 162,
-      "Completed": 22
+      "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:22:36.5493914+00:00",
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-07-10T14:05:03.9918828+00:00",
+  "LastChanged_Achievements": "2023-07-10T15:06:09.5664576+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:28.4034436+00:00",
-  "LastUpdate_Ratings": "2023-07-10T13:58:39.124141+00:00",
-  "LastUpdate_Achievements": "2023-07-10T14:05:03.9919339+00:00"
+  "LastUpdate_Ratings": "2023-07-10T14:59:26.6697968+00:00",
+  "LastUpdate_Achievements": "2023-07-10T15:06:09.5665372+00:00"
 }

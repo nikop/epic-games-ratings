@@ -8,28 +8,28 @@ Number of Ratings: 1,354  (23.09.2022)
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 20.00% | ~2,050 |
 | A Spark | 14.00% | ~1,435 |
-| Burning City | 13.00% | ~1,332 |
-| Mythic Choices | 11.00% | ~1,127 |
-| Defender's Heart | 11.00% | ~1,127 |
+| Burning City | 13.00% | ~1,333 |
+| Mythic Choices | 11.00% | ~1,128 |
+| Defender's Heart | 11.00% | ~1,128 |
 | Banner over the Citadel | 10.00% | ~1,025 |
-| Queen's Gratitude | 9.00% | ~922 |
+| Queen's Gratitude | 9.00% | ~923 |
 | Fifth Crusade | 6.00% | ~615 |
-| Embrace of the Abyss | 5.00% | ~512 |
-| Path of the Angel | 5.00% | ~512 |
-| Demonic and Divine | 5.00% | ~512 |
+| Embrace of the Abyss | 5.00% | ~513 |
+| Path of the Angel | 5.00% | ~513 |
+| Demonic and Divine | 5.00% | ~513 |
 | Path of the Azata | 4.00% | ~410 |
 | Transformation | 4.00% | ~410 |
 | Great Upstart | 4.00% | ~410 |
 | Voice from Your Dreams | 4.00% | ~410 |
 | All Paths Open | 4.00% | ~410 |
-| Heart of the Fallen Land | 3.00% | ~307 |
-| The Legacy | 3.00% | ~307 |
-| Divide and Rule | 3.00% | ~307 |
-| Mythic Reinforcements | 3.00% | ~307 |
-| A Flame | 3.00% | ~307 |
-| Hey, I Know You! | 3.00% | ~307 |
-| Next-Door Play | 3.00% | ~307 |
-| Get the Toad | 3.00% | ~307 |
+| Heart of the Fallen Land | 3.00% | ~308 |
+| The Legacy | 3.00% | ~308 |
+| Divide and Rule | 3.00% | ~308 |
+| Mythic Reinforcements | 3.00% | ~308 |
+| A Flame | 3.00% | ~308 |
+| Hey, I Know You! | 3.00% | ~308 |
+| Next-Door Play | 3.00% | ~308 |
+| Get the Toad | 3.00% | ~308 |
 | Beware Still Water | 3.00% | ~271 |
 | Path of the Trickster | 2.00% | ~205 |
 | Path of the Lich | 2.00% | ~205 |
@@ -41,10 +41,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | Hanged Man's Notes | 2.00% | ~181 |
 | Sarkoris Will Be Green | 2.00% | ~181 |
 | The Lady of the Forest | 2.00% | ~181 |
-| Path of the Demon | 1.00% | ~102 |
-| Path of the Aeon | 1.00% | ~102 |
-| Abyssal Conspiracy | 1.00% | ~102 |
-| Truly Important Deed | 1.00% | ~102 |
+| Path of the Demon | 1.00% | ~103 |
+| Path of the Aeon | 1.00% | ~103 |
+| Abyssal Conspiracy | 1.00% | ~103 |
+| Truly Important Deed | 1.00% | ~103 |
 | This Wall Won't Fall | 1.00% | ~90 |
 | The Final Threshold | 0.90% | ~92 |
 | Strategic Victory | 0.90% | ~92 |
@@ -54,12 +54,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Legend | 0.70% | ~72 |
 | Playful Mood | 0.70% | ~72 |
 | Truly Profane Gift | 0.70% | ~72 |
-| Dreadful Dragon | 0.60% | ~61 |
+| Dreadful Dragon | 0.60% | ~62 |
 | Masterful Charge | 0.50% | ~51 |
 | Prelate's Nemesis | 0.40% | ~41 |
 | Just Pathetic | 0.30% | ~31 |
 | Ashes to Ashes | 0.30% | ~31 |
-| Masterful Dispel | 0.20% | ~20 |
+| Masterful Dispel | 0.20% | ~21 |
 | Path of the Swarm | 0.10% | ~10 |
 | Equal to Aroden | 0.10% | ~10 |
 | Spirit of Adventure | 0.10% | ~10 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,249 (Ranked 116)  
+Progressed: 10,251 (Ranked 116)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,10 +204,10 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-07 | 10,209 | 0 |
 | 2023-07-08 | 10,230 | 0 |
 | 2023-07-09 | 10,246 | 0 |
-| 2023-07-10 | 10,249 | 0 |
+| 2023-07-10 | 10,251 | 0 |
 ## Awards
 Max (Character Customization): 1,674  (Ranked 117)  
-Sum: 6,800 (Ranked 112)  
+Sum: 6,801 (Ranked 112)  
 Diff (max vs sum): 5  
 | Award | Count |
 | ----- | ----- |
@@ -220,7 +220,7 @@ Diff (max vs sum): 5
 | This game has Challenging Combat | 561 |
 | This game has Quickly Understood Controls | 558 |
 | This game is Relaxing | 537 |
-| This game has a Creative Community | 380 |
+| This game has a Creative Community | 381 |
 | This game has Obsessive Gameplay | 364 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -386,3 +386,4 @@ Diff (max vs sum): 5
 | 2023-07-05 | 4.76 | - | 1,673 | 6,797 |
 | 2023-07-07 | 4.76 | - | 1,673 | 6,799 |
 | 2023-07-08 | 4.76 | - | 1,674 | 6,800 |
+| 2023-07-10 | 4.76 | - | 1,674 | 6,801 |

@@ -18,6 +18,7 @@
 | Trinity | 6.00% | ~1 |
 | Adventurer | 6.00% | ~1 |
 | Airborne | 6.00% | ~1 |
+| Essence Blow | 6.00% | ~1 |
 | Shatter them all | 6.00% | ~1 |
 | Flawless Victory | 6.00% | ~1 |
 | Scholar | 6.00% | ~1 |
@@ -28,7 +29,6 @@
 | The Mentor | 0.00% | ~0 |
 | Forgemaster | 0.00% | ~0 |
 | Shardbearer | 0.00% | ~0 |
-| Essence Blow | 0.00% | ~0 |
 | Shatterer | 0.00% | ~0 |
 | Slayer | 0.00% | ~0 |
 | Big bazar | 0.00% | ~0 |

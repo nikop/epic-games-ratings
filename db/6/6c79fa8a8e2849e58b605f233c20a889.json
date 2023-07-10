@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1962,
+  "EOS_Progressed": 1963,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3476,6 +3476,11 @@
       "Time": "2023-07-10T13:22:36.6621904+00:00",
       "NumProgressed": 1962,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-10T15:06:01.6008043+00:00",
+      "NumProgressed": 1963,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -3503,7 +3508,7 @@
       "Name": "Bot Destroyer",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "CLUMSY",
@@ -3567,7 +3572,7 @@
       "Name": "Novice",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "GLOVE_SLAP",
@@ -3591,7 +3596,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1177
+      "UsersEstimate": 1178
     },
     {
       "ID": "GUARD_MAKER",
@@ -3662,14 +3667,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1962,
+      "Progressed": 1963,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-07-10T14:04:58.304054+00:00",
+  "LastChanged_Achievements": "2023-07-10T15:06:01.6008033+00:00",
   "LastUpdate_AppInfo": "2023-07-04T17:56:54.4886907+00:00",
-  "LastUpdate_Ratings": "2023-07-10T13:57:21.6432628+00:00",
-  "LastUpdate_Achievements": "2023-07-10T14:04:58.3040935+00:00"
+  "LastUpdate_Ratings": "2023-07-10T14:57:30.7655128+00:00",
+  "LastUpdate_Achievements": "2023-07-10T15:06:01.6008477+00:00"
 }

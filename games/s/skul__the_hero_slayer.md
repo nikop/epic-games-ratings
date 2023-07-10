@@ -7,7 +7,7 @@ Number of Ratings: 546  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Legend Begins | 93.00% | ~7,346 |
-| What should I buy? | 83.00% | ~6,556 |
+| What should I buy? | 84.00% | ~6,635 |
 | Focus! | 63.00% | ~4,976 |
 | Rescued Elder Ent | 63.00% | ~4,976 |
 | The End of the Gold Mane Knights | 48.00% | ~3,792 |

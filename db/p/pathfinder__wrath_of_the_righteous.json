@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2988,10 +2988,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6800,
       "NumberOfAwardsMax": 1674
+    },
+    {
+      "Time": "2023-07-10T14:59:13.3044385+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6801,
+      "NumberOfAwardsMax": 1674
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6800,
+  "NumberOfAwards": 6801,
   "NumberOfAwardsMax": 1674,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3059,12 +3065,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 380
+      "Count": 381
     }
   ],
-  "EOS_Progressed": 10249,
+  "EOS_Progressed": 10251,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8097,6 +8103,11 @@
       "Time": "2023-07-10T13:21:03.1921729+00:00",
       "NumProgressed": 10249,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-10T15:04:10.4798364+00:00",
+      "NumProgressed": 10251,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -8116,7 +8127,7 @@
       "Name": "Burning City",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1332
+      "UsersEstimate": 1333
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -8140,7 +8151,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -8148,7 +8159,7 @@
       "Name": "Heart of the Fallen Land",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "07_FinalThreshold",
@@ -8164,7 +8175,7 @@
       "Name": "Path of the Angel",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "09_PathOfDemon",
@@ -8172,7 +8183,7 @@
       "Name": "Path of the Demon",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "10_PathOfAzata",
@@ -8188,7 +8199,7 @@
       "Name": "Path of the Aeon",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "12_PathOfTrickster",
@@ -8244,7 +8255,7 @@
       "Name": "Mythic Choices",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "19_EqualToAroden",
@@ -8292,7 +8303,7 @@
       "Name": "The Legacy",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "25_MasterfulDispell",
@@ -8300,7 +8311,7 @@
       "Name": "Masterful Dispel",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "27_VictorySeige",
@@ -8308,7 +8319,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "28_GreatUpstart",
@@ -8340,7 +8351,7 @@
       "Name": "Divide and Rule",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "32_MythicReinforcements",
@@ -8348,7 +8359,7 @@
       "Name": "Mythic Reinforcements",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "33_DefendersHeart",
@@ -8356,7 +8367,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -8372,7 +8383,7 @@
       "Name": "Abyssal Conspiracy",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "36_CoreOfRiddle",
@@ -8436,7 +8447,7 @@
       "Name": "Dreadful Dragon",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "44_AshesToAshes",
@@ -8484,7 +8495,7 @@
       "Name": "A Flame",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "50_HeyIKnowYou",
@@ -8492,7 +8503,7 @@
       "Name": "Hey, I Know You!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "51_DemonicAndDivine",
@@ -8500,7 +8511,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -8508,7 +8519,7 @@
       "Name": "Truly Important Deed",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "53_TrulyProfaneGift",
@@ -8532,7 +8543,7 @@
       "Name": "Next-Door Play",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "56_GetToad",
@@ -8540,7 +8551,7 @@
       "Name": "Get the Toad",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "57_PathOfDevil",
@@ -9035,21 +9046,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9031,
+      "Progressed": 9033,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10249,
+      "Progressed": 10251,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-07-08T10:59:04.6378997+00:00",
-  "LastChanged_Achievements": "2023-07-10T14:03:41.7422031+00:00",
+  "LastChanged": "2023-07-10T14:59:13.3044382+00:00",
+  "LastChanged_Achievements": "2023-07-10T15:04:10.4798356+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:12.7052521+00:00",
-  "LastUpdate_Ratings": "2023-07-10T13:58:30.4887038+00:00",
-  "LastUpdate_Achievements": "2023-07-10T14:03:41.7424144+00:00"
+  "LastUpdate_Ratings": "2023-07-10T14:59:13.3044389+00:00",
+  "LastUpdate_Achievements": "2023-07-10T15:04:10.4800471+00:00"
 }

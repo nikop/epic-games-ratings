@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -178,9 +178,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1718,
+  "EOS_Progressed": 1719,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2073,6 +2073,11 @@
       "Time": "2023-07-09T17:00:22.8466764+00:00",
       "NumProgressed": 1718,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-10T15:02:24.6724827+00:00",
+      "NumProgressed": 1719,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2132,7 +2137,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "Achievement_009",
@@ -2156,7 +2161,7 @@
       "Name": "Block Party",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "Achievement_012",
@@ -2220,7 +2225,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1323
+      "UsersEstimate": 1324
     },
     {
       "ID": "Achievement_020",
@@ -2276,7 +2281,7 @@
       "Name": "Fly Fisher",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "Achievement_027",
@@ -2300,7 +2305,7 @@
       "Name": "Throw The First Stone",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "Achievement_030",
@@ -2308,7 +2313,7 @@
       "Name": "ICU",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "Achievement_031",
@@ -2404,7 +2409,7 @@
       "Name": "Starve the Beast",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "Achievement_044",
@@ -2604,14 +2609,14 @@
       "Name": "I Spit On Your Grave",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     }
   ],
   "AchievementSets": [
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1718,
+      "Progressed": 1719,
       "Completed": 0
     }
   ],
@@ -2619,8 +2624,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-07-07T14:57:51.7168375+00:00",
-  "LastChanged_Achievements": "2023-07-10T14:00:39.7854337+00:00",
+  "LastChanged_Achievements": "2023-07-10T15:02:24.6724821+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:17.7438623+00:00",
-  "LastUpdate_Ratings": "2023-07-10T13:57:58.4248+00:00",
-  "LastUpdate_Achievements": "2023-07-10T14:00:39.7855244+00:00"
+  "LastUpdate_Ratings": "2023-07-10T14:58:25.8247021+00:00",
+  "LastUpdate_Achievements": "2023-07-10T15:02:24.6725726+00:00"
 }

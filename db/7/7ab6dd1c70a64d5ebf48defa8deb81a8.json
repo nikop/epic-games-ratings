@@ -4,7 +4,7 @@
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -193,9 +193,9 @@
       "ID": "ACH_16",
       "SetID": "efe2lj",
       "Name": "Essence Blow",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_17",
@@ -367,7 +367,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-07-10T13:18:47.050544+00:00",
-  "LastUpdate_Ratings": "2023-07-10T13:57:06.8499886+00:00",
-  "LastUpdate_Achievements": "2023-07-10T13:18:47.0505721+00:00"
+  "LastChanged_Achievements": "2023-07-10T15:02:03.4955568+00:00",
+  "LastUpdate_Ratings": "2023-07-10T14:57:11.2132996+00:00",
+  "LastUpdate_Achievements": "2023-07-10T15:02:03.4979056+00:00"
 }
