@@ -29,9 +29,9 @@
 | Carrocketeer | 10.00% | ~18 |
 | Oh My Gourd | 10.00% | ~13 |
 | Summers Here | 10.00% | ~13 |
+| Fresh Pancake | 8.00% | ~14 |
 | Getting Started | 8.00% | ~14 |
 | Perfect | 8.00% | ~10 |
-| Fresh Pancake | 7.00% | ~13 |
 | Quit Horsin' Around | 7.00% | ~13 |
 | Expert Survivor | 7.00% | ~9 |
 | Pyromaniac | 7.00% | ~9 |

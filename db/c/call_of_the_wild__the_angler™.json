@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -586,7 +586,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4624,
+  "EOS_Progressed": 4625,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
@@ -4371,6 +4371,11 @@
       "Time": "2023-07-10T21:06:06.1561833+00:00",
       "NumProgressed": 4624,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-10T23:05:28.2542614+00:00",
+      "NumProgressed": 4625,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -4382,7 +4387,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3514
+      "UsersEstimate": 3515
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -4446,7 +4451,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -4486,7 +4491,7 @@
       "Name": "Goldfish?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -4582,7 +4587,7 @@
       "Name": "Big Fish Small Pond",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "ACHIEVEMENT_027",
@@ -4661,13 +4666,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 4624,
+      "Progressed": 4625,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 3996,
+      "Progressed": 3997,
       "Completed": 112
     }
   ],
@@ -4675,8 +4680,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-06-29T22:00:44.387661+00:00",
-  "LastChanged_Achievements": "2023-07-10T22:05:58.1289816+00:00",
+  "LastChanged_Achievements": "2023-07-10T23:05:28.254261+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:07.4773638+00:00",
-  "LastUpdate_Ratings": "2023-07-10T22:01:01.922742+00:00",
-  "LastUpdate_Achievements": "2023-07-10T22:05:58.1290731+00:00"
+  "LastUpdate_Ratings": "2023-07-10T23:00:12.6977733+00:00",
+  "LastUpdate_Achievements": "2023-07-10T23:05:28.2543162+00:00"
 }

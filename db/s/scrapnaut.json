@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -135,9 +135,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 294,
+  "EOS_Progressed": 295,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -765,6 +765,11 @@
       "Time": "2023-07-09T18:03:10.589233+00:00",
       "NumProgressed": 294,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-10T23:03:18.2793174+00:00",
+      "NumProgressed": 295,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -798,9 +803,9 @@
       "ID": "ACH_COLLECT_100_ELECTROSCRAP",
       "SetID": "7c4cldc",
       "Name": "Electro-Scrap Master",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_COLLECT_100_SCRAP",
@@ -848,7 +853,7 @@
       "Name": "Master Of Management",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_COLLECT_50_ELECTROSCRAP",
@@ -888,7 +893,7 @@
       "Name": "Lumberjack",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_CUT_50_TREES",
@@ -896,7 +901,7 @@
       "Name": "Forest Lord",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_FIND_10_TREASURES",
@@ -912,7 +917,7 @@
       "Name": "My New Home",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH_KILL_100",
@@ -926,9 +931,9 @@
       "ID": "ACH_KILL_20",
       "SetID": "7c4cldc",
       "Name": "Scrapper",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 144
+      "UsersEstimate": 142
     },
     {
       "ID": "ACH_KILL_50",
@@ -942,9 +947,9 @@
       "ID": "ACH_MAKE_CANNED_FOOD",
       "SetID": "7c4cldc",
       "Name": "Prepper",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_MAKE_FUEL",
@@ -958,9 +963,9 @@
       "ID": "ACH_METEORITE_SMELTER",
       "SetID": "7c4cldc",
       "Name": "Smelting Master",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_MYTHRIL_SMELTER",
@@ -1016,14 +1021,14 @@
       "Name": "Teleport",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     }
   ],
   "AchievementSets": [
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 294,
+      "Progressed": 295,
       "Completed": 1
     }
   ],
@@ -1031,8 +1036,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-07-10T22:03:26.6183099+00:00",
+  "LastChanged_Achievements": "2023-07-10T23:03:18.279317+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:16.8374592+00:00",
-  "LastUpdate_Ratings": "2023-07-10T21:59:16.1625929+00:00",
-  "LastUpdate_Achievements": "2023-07-10T22:03:26.6183388+00:00"
+  "LastUpdate_Ratings": "2023-07-10T22:58:49.1909278+00:00",
+  "LastUpdate_Achievements": "2023-07-10T23:03:18.2793438+00:00"
 }

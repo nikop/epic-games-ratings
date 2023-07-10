@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 42,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -1921,9 +1921,9 @@
       "ID": "MQ07_1",
       "SetID": "bbing49",
       "Name": "Read It And Weep",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 109
+      "UsersEstimate": 115
     },
     {
       "ID": "MQ07_2",
@@ -1978,8 +1978,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-06-25T15:57:48.8176349+00:00",
-  "LastChanged_Achievements": "2023-07-10T22:06:34.3634627+00:00",
+  "LastChanged_Achievements": "2023-07-10T23:05:59.1275954+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:30.1618252+00:00",
-  "LastUpdate_Ratings": "2023-07-10T21:57:38.0006055+00:00",
-  "LastUpdate_Achievements": "2023-07-10T22:06:34.3635158+00:00"
+  "LastUpdate_Ratings": "2023-07-10T22:57:29.5284525+00:00",
+  "LastUpdate_Achievements": "2023-07-10T23:05:59.1276275+00:00"
 }

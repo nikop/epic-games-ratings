@@ -312,9 +312,9 @@
       "ID": "NEW_ACHIEVEMENT_1_12",
       "SetID": "8d3ci0",
       "Name": "That\u0027s all, ducks!",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 160,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
@@ -384,9 +384,9 @@
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "8d3ci0",
       "Name": "Abducktion",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 95,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -415,8 +415,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-10T22:05:16.5375597+00:00",
+  "LastChanged_Achievements": "2023-07-10T23:04:52.6169974+00:00",
   "LastUpdate_AppInfo": "2023-07-08T11:56:59.3518994+00:00",
-  "LastUpdate_Ratings": "2023-07-10T21:57:08.5406374+00:00",
-  "LastUpdate_Achievements": "2023-07-10T22:05:16.5375783+00:00"
+  "LastUpdate_Ratings": "2023-07-10T22:57:04.9116364+00:00",
+  "LastUpdate_Achievements": "2023-07-10T23:04:52.6170109+00:00"
 }

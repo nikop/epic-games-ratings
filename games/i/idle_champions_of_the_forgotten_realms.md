@@ -6,23 +6,23 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,477 |
-| The Mad Wizard | 11.00% | ~23,083 |
-| The Ring of Regeneration | 7.00% | ~14,689 |
-| Are Ya Chicken? | 7.00% | ~14,689 |
-| Were-verpowered | 6.00% | ~12,591 |
-| Seeking Allies | 5.00% | ~10,492 |
-| Mad Cow Disease | 5.00% | ~10,492 |
-| Friendly Imps | 5.00% | ~10,492 |
+| The Cursed Farmer | 15.00% | ~31,479 |
+| The Mad Wizard | 11.00% | ~23,085 |
+| The Ring of Regeneration | 7.00% | ~14,690 |
+| Are Ya Chicken? | 7.00% | ~14,690 |
+| Were-verpowered | 6.00% | ~12,592 |
+| Seeking Allies | 5.00% | ~10,493 |
+| Mad Cow Disease | 5.00% | ~10,493 |
+| Friendly Imps | 5.00% | ~10,493 |
 | A Persistent Buzzing | 4.00% | ~8,394 |
 | Pure Energy | 4.00% | ~8,394 |
-| Beast Mode | 3.00% | ~6,295 |
-| Terror in the Dark | 3.00% | ~6,295 |
-| Unearthed Evil | 3.00% | ~6,295 |
-| The Crumbling Temple | 3.00% | ~6,295 |
-| Exploring Port Nyanzaru | 3.00% | ~6,295 |
-| The Contagious Curse | 3.00% | ~6,295 |
-| Escort to Waterdeep | 3.00% | ~6,295 |
+| Beast Mode | 3.00% | ~6,296 |
+| Terror in the Dark | 3.00% | ~6,296 |
+| Unearthed Evil | 3.00% | ~6,296 |
+| The Crumbling Temple | 3.00% | ~6,296 |
+| Exploring Port Nyanzaru | 3.00% | ~6,296 |
+| The Contagious Curse | 3.00% | ~6,296 |
+| Escort to Waterdeep | 3.00% | ~6,296 |
 | Low Initiative | 2.00% | ~4,197 |
 | A Mysterious Summons | 2.00% | ~4,197 |
 | Building Trust | 2.00% | ~4,197 |
@@ -34,24 +34,24 @@ Number of Ratings: 9,041  (23.09.2022)
 | Underdeep Cartography | 2.00% | ~4,197 |
 | Overdue Rendezvous | 2.00% | ~4,197 |
 | The Templar's Camp | 2.00% | ~4,197 |
-| Homecoming | 1.00% | ~2,098 |
-| The Lost Heir of Omu | 1.00% | ~2,098 |
-| Street War | 1.00% | ~2,098 |
-| Invisible Shadows | 1.00% | ~2,098 |
-| The Dinner Party | 1.00% | ~2,098 |
-| The Botched Kidnapping | 1.00% | ~2,098 |
-| Trollskull Manor | 1.00% | ~2,098 |
-| The Death Curse | 1.00% | ~2,098 |
-| Premature Betrayal | 1.00% | ~2,098 |
-| A Tale of Two Cities | 1.00% | ~2,098 |
-| Flying Monkey Skulls of Doom | 1.00% | ~2,098 |
-| Dinosaur Racing | 1.00% | ~2,098 |
-| Close Escort | 1.00% | ~2,098 |
-| Constant Banditry | 1.00% | ~2,098 |
-| The Long Haul | 1.00% | ~2,098 |
-| Lost in the Deep | 1.00% | ~2,098 |
-| Easily Distracted | 1.00% | ~2,098 |
-| Rescue in the Jungle | 1.00% | ~2,098 |
+| Homecoming | 1.00% | ~2,099 |
+| The Lost Heir of Omu | 1.00% | ~2,099 |
+| Street War | 1.00% | ~2,099 |
+| Invisible Shadows | 1.00% | ~2,099 |
+| The Dinner Party | 1.00% | ~2,099 |
+| The Botched Kidnapping | 1.00% | ~2,099 |
+| Trollskull Manor | 1.00% | ~2,099 |
+| The Death Curse | 1.00% | ~2,099 |
+| Premature Betrayal | 1.00% | ~2,099 |
+| A Tale of Two Cities | 1.00% | ~2,099 |
+| Flying Monkey Skulls of Doom | 1.00% | ~2,099 |
+| Dinosaur Racing | 1.00% | ~2,099 |
+| Close Escort | 1.00% | ~2,099 |
+| Constant Banditry | 1.00% | ~2,099 |
+| The Long Haul | 1.00% | ~2,099 |
+| Lost in the Deep | 1.00% | ~2,099 |
+| Easily Distracted | 1.00% | ~2,099 |
+| Rescue in the Jungle | 1.00% | ~2,099 |
 | The Forbidden City | 0.90% | ~1,889 |
 | Wisdom Check | 0.90% | ~1,889 |
 | The Mists of Ravenloft | 0.90% | ~1,889 |
@@ -121,15 +121,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slow and Steady | 0.40% | ~839 |
 | Once More Into The Breach | 0.40% | ~839 |
 | Wyllowwood | 0.40% | ~839 |
-| An Illithid Undertaking | 0.40% | ~704 |
-| Déjà Vu | 0.40% | ~704 |
-| Into The Fire | 0.40% | ~704 |
-| Dreamscape | 0.40% | ~704 |
-| The Path of Dreams | 0.40% | ~704 |
-| The Lost Hollyphant | 0.40% | ~704 |
-| Alterdeep | 0.40% | ~704 |
-| Civilization | 0.40% | ~704 |
-| Dwarven Rumors | 0.40% | ~704 |
+| An Illithid Undertaking | 0.40% | ~705 |
+| Déjà Vu | 0.40% | ~705 |
+| Into The Fire | 0.40% | ~705 |
+| Dreamscape | 0.40% | ~705 |
+| The Path of Dreams | 0.40% | ~705 |
+| The Lost Hollyphant | 0.40% | ~705 |
+| Alterdeep | 0.40% | ~705 |
+| Civilization | 0.40% | ~705 |
+| Dwarven Rumors | 0.40% | ~705 |
 | Struggling Toward Omu | 0.30% | ~630 |
 | The Newcomers of Notoriety | 0.30% | ~528 |
 | Never Split the Party | 0.30% | ~630 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209,845 (Ranked 52)  
+Progressed: 209,861 (Ranked 52)  
 Completed: 2,045 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -591,7 +591,7 @@ Completed: 2,045 (0.97%) (Ranked 102)
 | 2023-07-07 | 208,152 | 2,037 |
 | 2023-07-08 | 208,782 | 2,041 |
 | 2023-07-09 | 209,384 | 2,043 |
-| 2023-07-10 | 209,845 | 2,045 |
+| 2023-07-10 | 209,861 | 2,045 |
 ## Awards
 Max (Diverse Characters): 5,021  (Ranked 65)  
 Sum: 30,473 (Ranked 38)  

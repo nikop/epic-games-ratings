@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -5487,9 +5487,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 55489,
+  "EOS_Progressed": 55492,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 579,
+  "EOS_NewPlayers": 580,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13912,6 +13912,11 @@
       "Time": "2023-07-10T22:07:48.263147+00:00",
       "NumProgressed": 55489,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-10T23:07:03.3535699+00:00",
+      "NumProgressed": 55492,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -13931,7 +13936,7 @@
       "Name": "Apple of my eye",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 7768
+      "UsersEstimate": 7769
     },
     {
       "ID": "Bannerlord",
@@ -14091,7 +14096,7 @@
       "Name": "I can do it",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8323
+      "UsersEstimate": 8324
     },
     {
       "ID": "I spit on your grave",
@@ -14115,7 +14120,7 @@
       "Name": "King Solomon",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 8878
+      "UsersEstimate": 8879
     },
     {
       "ID": "Kingslayer",
@@ -14131,7 +14136,7 @@
       "Name": "Know your enemy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3329
+      "UsersEstimate": 3330
     },
     {
       "ID": "Lance-a-lot",
@@ -14147,7 +14152,7 @@
       "Name": "Landlord",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 17202
+      "UsersEstimate": 17203
     },
     {
       "ID": "Lawbringer",
@@ -14155,7 +14160,7 @@
       "Name": "Lawbringer",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 20531
+      "UsersEstimate": 20532
     },
     {
       "ID": "Lawmaker",
@@ -14275,7 +14280,7 @@
       "Name": "The king is pleased",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 9433
+      "UsersEstimate": 9434
     },
     {
       "ID": "This Is Our Land",
@@ -14330,15 +14335,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 55489,
+      "Progressed": 55492,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-07-10T21:01:03.8843566+00:00",
-  "LastChanged_Achievements": "2023-07-10T22:07:48.2631461+00:00",
+  "LastChanged_Achievements": "2023-07-10T23:07:03.3535695+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:03.335469+00:00",
-  "LastUpdate_Ratings": "2023-07-10T22:00:57.3860224+00:00",
-  "LastUpdate_Achievements": "2023-07-10T22:07:48.2632681+00:00"
+  "LastUpdate_Ratings": "2023-07-10T23:00:10.4405104+00:00",
+  "LastUpdate_Achievements": "2023-07-10T23:07:03.3536687+00:00"
 }

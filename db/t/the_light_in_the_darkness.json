@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 24,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1896,
+  "EOS_Progressed": 1897,
   "EOS_Completed": 161,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 8.49,
   "EosHistory": [
@@ -3698,6 +3698,11 @@
       "Time": "2023-07-10T21:02:44.609844+00:00",
       "NumProgressed": 1896,
       "NumCompleted": 161
+    },
+    {
+      "Time": "2023-07-10T23:02:23.4731749+00:00",
+      "NumProgressed": 1897,
+      "NumCompleted": 161
     }
   ],
   "TotalAchievements": 12,
@@ -3709,7 +3714,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "Bernard",
@@ -3749,7 +3754,7 @@
       "Name": "Jakob",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "Jude",
@@ -3765,7 +3770,7 @@
       "Name": "Le Juif et la France",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "Little Helper",
@@ -3804,7 +3809,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1896,
+      "Progressed": 1897,
       "Completed": 161
     }
   ],
@@ -3812,8 +3817,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-07-10T22:02:37.8822603+00:00",
+  "LastChanged_Achievements": "2023-07-10T23:02:23.4731744+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:46.7313961+00:00",
-  "LastUpdate_Ratings": "2023-07-10T22:00:40.7719037+00:00",
-  "LastUpdate_Achievements": "2023-07-10T22:02:37.8823134+00:00"
+  "LastUpdate_Ratings": "2023-07-10T22:59:57.0754783+00:00",
+  "LastUpdate_Achievements": "2023-07-10T23:02:23.47321+00:00"
 }

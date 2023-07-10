@@ -2,20 +2,20 @@
   "ID": "05ae696a3c5f49af91a7433547460c21",
   "Name": "Redout 2",
   "ProductSlug": "redout-2",
-  "Ranking_Rating": 596,
+  "Ranking_Rating": 585,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.47,
+  "Rating": 4.48,
   "RatingHistory": [
     {
       "Time": "2022-10-24T23:31:30.797446+00:00",
@@ -66,6 +66,12 @@
     {
       "Time": "2023-07-08T22:59:03.1324839+00:00",
       "Rating": 4.47,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-07-10T22:58:27.6839395+00:00",
+      "Rating": 4.48,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -982,9 +988,9 @@
   "FirstSeen": "2022-07-22T20:21:48.0586054+00:00",
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
-  "LastChanged": "2023-07-08T22:59:03.1324838+00:00",
-  "LastChanged_Achievements": "2023-07-10T22:03:57.5988517+00:00",
+  "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
+  "LastChanged_Achievements": "2023-07-10T23:03:45.1259037+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:48.1905608+00:00",
-  "LastUpdate_Ratings": "2023-07-10T21:58:49.3361513+00:00",
-  "LastUpdate_Achievements": "2023-07-10T22:03:57.5989098+00:00"
+  "LastUpdate_Ratings": "2023-07-10T22:58:27.6839398+00:00",
+  "LastUpdate_Achievements": "2023-07-10T23:03:45.125953+00:00"
 }

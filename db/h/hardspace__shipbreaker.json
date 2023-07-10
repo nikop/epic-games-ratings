@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -1260,9 +1260,9 @@
       "ID": "ACH_A_DROP_IN_THE_OCEAN",
       "SetID": "108h92c",
       "Name": "A drop in the Ocean",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 226
     },
     {
       "ID": "ACH_A_SUCCESSFUL_PROCEDURE",
@@ -1453,8 +1453,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-27T22:57:40.9300302+00:00",
-  "LastChanged_Achievements": "2023-07-10T22:04:27.9594846+00:00",
+  "LastChanged_Achievements": "2023-07-10T23:04:11.3365382+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:46.7114279+00:00",
-  "LastUpdate_Ratings": "2023-07-10T21:57:54.448017+00:00",
-  "LastUpdate_Achievements": "2023-07-10T22:04:27.9595156+00:00"
+  "LastUpdate_Ratings": "2023-07-10T22:57:42.6976112+00:00",
+  "LastUpdate_Achievements": "2023-07-10T23:04:11.3365676+00:00"
 }

@@ -27,10 +27,10 @@ Rating: 4.87 (Ranked 25)
 | I have to read these things? | 0.60% | ~21 |
 | Feeling the beat! | 0.60% | ~21 |
 | You must like calling me in, Chai | 0.60% | ~21 |
+| Perfecter Parry-er! | 0.50% | ~17 |
 | I look cool. But I can look COOLER. | 0.50% | ~17 |
 | You can pet the cat! | 0.50% | ~17 |
 | Well that was a rush! | 0.40% | ~14 |
-| Perfecter Parry-er! | 0.40% | ~14 |
 | That's a lot of junk metal… | 0.40% | ~14 |
 | Does that say weakpoint? | 0.40% | ~14 |
 | Call me Turbo Chai | 0.40% | ~8 |
