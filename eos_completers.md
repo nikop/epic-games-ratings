@@ -53,7 +53,7 @@
 | 51 | [Monster Harvest](games/m/monster_harvest.md) | 3.38% |
 | 52 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 3.33% |
 | 52 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.33% |
-| 54 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.18% |
+| 54 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.21% |
 | 55 | [The Complex](games/t/the_complex.md) | 3.09% |
 | 56 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.08% |
 | 57 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.05% |
