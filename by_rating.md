@@ -33,7 +33,7 @@
 | 28 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 38 | 425 |
 | 28 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.86 | 702 | 162 |
 | 28 | [Inscryption](games/i/inscryption.md) | 4.86 | 336 | 224 |
-| 28 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 12,058 | 31 |
+| 28 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 12,066 | 31 |
 | 28 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 97 | 333 |
 | 28 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 41 | 417 |
 | 28 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,308 | 128 |
@@ -92,14 +92,14 @@
 | 87 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 504 |
 | 87 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.79 | 0 | 504 |
 | 87 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 704 | 161 |
-| 87 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,908 | 56 |
+| 87 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,909 | 56 |
 | 87 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.79 | 44 | 413 |
 | 87 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.79 | 2,428 | 100 |
 | 87 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 377 | 214 |
 | 87 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 119 | 312 |
 | 87 | [Superliminal](games/s/superliminal.md) | 4.79 | 0 | 504 |
 | 99 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 0 | 504 |
-| 99 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,445 | 36 |
+| 99 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,450 | 36 |
 | 99 | [Journey](games/j/journey.md) | 4.78 | 0 | 504 |
 | 99 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 732 | 159 |
 | 99 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,347 | 102 |
@@ -358,7 +358,7 @@
 | 346 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 104 | 325 |
 | 346 | [Prey](games/p/prey.md) | 4.62 | 5,602 | 59 |
 | 346 | [Roguebook](games/r/roguebook.md) | 4.62 | 0 | 504 |
-| 346 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.62 | 475 | 195 |
+| 346 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.62 | 479 | 195 |
 | 346 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.62 | 64 | 380 |
 | 361 | [20XX](games/2/20xx.md) | 4.61 | 36 | 431 |
 | 361 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.61 | 0 | 504 |
@@ -516,7 +516,7 @@
 | 508 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.53 | 0 | 504 |
 | 508 | [Tails of Iron](games/t/tails_of_iron.md) | 4.53 | 0 | 504 |
 | 508 | [UnMetal](games/u/unmetal.md) | 4.53 | 0 | 504 |
-| 508 | [VALORANT](games/v/valorant.md) | 4.53 | 60,099 | 10 |
+| 508 | [VALORANT](games/v/valorant.md) | 4.53 | 60,222 | 10 |
 | 508 | [Verdun](games/v/verdun.md) | 4.53 | 95 | 337 |
 | 519 | [Aimlabs](games/a/aimlabs.md) | 4.52 | 0 | 504 |
 | 519 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.52 | 22 | 485 |
@@ -719,14 +719,14 @@
 | 710 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 504 |
 | 710 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.38 | 0 | 504 |
 | 710 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.38 | 97 | 333 |
-| 710 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.38 | 40 | 420 |
-| 721 | [Core](games/c/core.md) | 4.37 | 742 | 158 |
-| 721 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 504 |
-| 721 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,140 | 107 |
-| 721 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 504 |
-| 721 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.37 | 35 | 434 |
-| 721 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.37 | 0 | 504 |
-| 721 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 32 | 446 |
+| 720 | [Core](games/c/core.md) | 4.37 | 742 | 158 |
+| 720 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 504 |
+| 720 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,140 | 107 |
+| 720 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 504 |
+| 720 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.37 | 35 | 434 |
+| 720 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.37 | 0 | 504 |
+| 720 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.37 | 40 | 420 |
+| 720 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 32 | 446 |
 | 728 | [Beyond Blue](games/b/beyond_blue.md) | 4.36 | 0 | 504 |
 | 728 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 171 | 284 |
 | 728 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 95 | 337 |
@@ -947,5 +947,5 @@
 | 945 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.72 | 0 | 504 |
 | 946 | [Chainmonsters](games/c/chainmonsters.md) | 3.68 | 0 | 504 |
 | 947 | [Redfall](games/r/redfall.md) | 3.55 | 0 | 504 |
-| 948 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.53 | 0 | 504 |
+| 948 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.49 | 0 | 504 |
 | 949 | [Adios](games/a/adios.md) | 3.42 | 0 | 504 |

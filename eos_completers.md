@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 56.25% |
-| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.82% |
+| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 44.94% |
 | 3 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 30.00% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -11,8 +11,8 @@
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 10 | [Island Cities](games/i/island_cities.md) | 17.99% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
-| 12 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 14.04% |
-| 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.58% |
+| 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
+| 13 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 14.04% |
 | 14 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 15 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.12% |
 | 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.05% |
@@ -28,9 +28,9 @@
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.50% |
 | 27 | [Time Loader](games/t/time_loader.md) | 7.21% |
 | 28 | [Scorn](games/s/scorn.md) | 7.07% |
-| 29 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.04% |
-| 30 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.85% |
-| 31 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.82% |
+| 29 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.85% |
+| 30 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.82% |
+| 31 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.76% |
 | 32 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 33 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 34 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.71% |
@@ -53,7 +53,7 @@
 | 51 | [Monster Harvest](games/m/monster_harvest.md) | 3.38% |
 | 52 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 3.33% |
 | 52 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.33% |
-| 54 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.21% |
+| 54 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.24% |
 | 55 | [The Complex](games/t/the_complex.md) | 3.09% |
 | 56 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.08% |
 | 57 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.05% |
@@ -93,7 +93,7 @@
 | 91 | [Late Shift](games/l/late_shift.md) | 1.35% |
 | 92 | [Five Dates](games/f/five_dates.md) | 1.30% |
 | 93 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.25% |
-| 94 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.23% |
+| 94 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.22% |
 | 95 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.21% |
 | 96 | [Chorus](games/c/chorus.md) | 1.17% |
 | 97 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.15% |
@@ -488,4 +488,4 @@
 | 237 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 237 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 237 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,887 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
+| 2,888 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
