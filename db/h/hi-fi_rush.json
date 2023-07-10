@@ -4321,9 +4321,9 @@
       "ID": "Ach021",
       "SetID": "12n4k20",
       "Name": "I have to read these things?",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 21
     },
     {
       "ID": "Ach022",
@@ -4561,17 +4561,17 @@
       "ID": "Ach051",
       "SetID": "12n4k20",
       "Name": "You can pet the cat!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "Ach052",
       "SetID": "12n4k20",
       "Name": "Wanna hear my playlist?",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "Ach053",
@@ -4585,9 +4585,9 @@
       "ID": "Ach054",
       "SetID": "12n4k20",
       "Name": "I told you I\u0027d be fine, Peppermint!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "Ach055",
@@ -4744,8 +4744,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-10T00:00:33.7535293+00:00",
+  "LastChanged_Achievements": "2023-07-10T02:29:09.7855336+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:24.9104218+00:00",
-  "LastUpdate_Ratings": "2023-07-09T23:58:26.5970867+00:00",
-  "LastUpdate_Achievements": "2023-07-10T00:00:33.7536062+00:00"
+  "LastUpdate_Ratings": "2023-07-10T02:25:15.5936535+00:00",
+  "LastUpdate_Achievements": "2023-07-10T02:29:09.7856393+00:00"
 }

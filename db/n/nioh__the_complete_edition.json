@@ -4,10 +4,10 @@
   "ProductSlug": "nioh-the-complete-edition",
   "Ranking_Rating": 439,
   "Ranking_Popularity": 44,
-  "Ranking_PopularitySum": 57,
+  "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-09-09T15:00:00+00:00",
@@ -5456,10 +5456,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 18236,
       "NumberOfAwardsMax": 7550
+    },
+    {
+      "Time": "2023-07-10T02:27:02.8881443+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 17565,
+      "NumberOfAwardsMax": 7550
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 18236,
+  "NumberOfAwards": 17565,
   "NumberOfAwardsMax": 7550,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5497,7 +5503,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 799
+      "Count": 800
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5535,8 +5541,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:37.2904323+00:00",
-  "LastChanged": "2023-07-09T22:01:10.2422068+00:00",
+  "LastChanged": "2023-07-10T02:27:02.8881441+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:15.0122929+00:00",
-  "LastUpdate_Ratings": "2023-07-10T00:00:19.0132232+00:00",
-  "LastUpdate_Achievements": "2023-07-10T00:05:38.3525112+00:00"
+  "LastUpdate_Ratings": "2023-07-10T02:27:02.8881455+00:00",
+  "LastUpdate_Achievements": "2023-07-10T02:32:51.5485027+00:00"
 }

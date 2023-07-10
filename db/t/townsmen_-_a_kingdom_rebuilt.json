@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 287,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -959,9 +959,9 @@
       "ID": "ACHIEVEMENT_LASTMANSTANDING",
       "SetID": "9eacipp",
       "Name": "Last man standing",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_LORDOFWAR",
@@ -1575,8 +1575,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-07-10T00:03:12.5381825+00:00",
+  "LastChanged_Achievements": "2023-07-10T02:30:27.2026697+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:35.0045065+00:00",
-  "LastUpdate_Ratings": "2023-07-09T23:57:56.6589615+00:00",
-  "LastUpdate_Achievements": "2023-07-10T00:03:12.5382966+00:00"
+  "LastUpdate_Ratings": "2023-07-10T02:24:44.5692418+00:00",
+  "LastUpdate_Achievements": "2023-07-10T02:30:27.2027991+00:00"
 }

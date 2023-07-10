@@ -14,7 +14,7 @@ Rating: 4.66 (Ranked 270)
 | Luglox Genocide | 43.00% | ~9,882 |
 | Playing Card To Get | 34.00% | ~7,814 |
 | Don't Knife The Hand That Feeds | 33.00% | ~7,584 |
-| Creature Feature | 29.00% | ~6,665 |
+| Creature Feature | 30.00% | ~6,895 |
 | Satisfied Gus-tomer | 28.00% | ~6,435 |
 | Cold-Blooded Driller | 28.00% | ~6,435 |
 | Are You Packin'? | 25.00% | ~5,746 |

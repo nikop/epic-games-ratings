@@ -20,7 +20,7 @@
 | The Forgotten Tower | 11.00% | ~16 |
 | Rest In Peace | 9.00% | ~14 |
 | The Curse Is Real | 9.00% | ~14 |
-| Trapped | 8.00% | ~12 |
+| Trapped | 9.00% | ~14 |
 | What A Mansion | 8.00% | ~12 |
 | Modern Player | 7.00% | ~11 |
 | Researcher | 5.00% | ~8 |

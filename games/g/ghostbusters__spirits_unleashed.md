@@ -5,31 +5,31 @@ Rating: 4.49 (Ranked 573)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~20,743 |
-| Advancement | 73.00% | ~17,608 |
-| Meticulously Efficient | 64.00% | ~15,437 |
-| Discovery | 61.00% | ~14,713 |
-| Fully Upgraded | 54.00% | ~13,025 |
-| Swift Rift Removers | 54.00% | ~13,025 |
-| Cultured | 52.00% | ~12,542 |
-| I collect Spores, Molds, and Fungi | 51.00% | ~12,301 |
-| Vaporous Expansion | 48.00% | ~11,578 |
-| Teamwork | 44.00% | ~10,613 |
+| Stylish | 86.00% | ~20,745 |
+| Advancement | 73.00% | ~17,609 |
+| Meticulously Efficient | 64.00% | ~15,438 |
+| Discovery | 61.00% | ~14,714 |
+| Fully Upgraded | 54.00% | ~13,026 |
+| Swift Rift Removers | 54.00% | ~13,026 |
+| Cultured | 52.00% | ~12,543 |
+| I collect Spores, Molds, and Fungi | 51.00% | ~12,302 |
+| Vaporous Expansion | 48.00% | ~11,579 |
+| Teamwork | 44.00% | ~10,614 |
 | There you are! | 43.00% | ~10,372 |
-| Clutch Capture | 41.00% | ~9,889 |
-| Back Off | 35.00% | ~8,442 |
+| Clutch Capture | 41.00% | ~9,890 |
+| Back Off | 35.00% | ~8,443 |
 | Daily Dose | 34.00% | ~8,201 |
-| Solo Capture | 32.00% | ~7,718 |
-| Welcome to the Crew | 32.00% | ~7,718 |
-| Ghostbuster In Training | 30.00% | ~7,236 |
-| Icing on the Cake | 30.00% | ~7,236 |
-| We have the best insurance | 27.00% | ~6,512 |
-| Side Hustle | 27.00% | ~6,512 |
-| Summoner | 27.00% | ~6,512 |
-| Legions | 26.00% | ~6,271 |
-| Pesky Jerks | 26.00% | ~6,271 |
-| Right back at ya | 26.00% | ~6,271 |
-| Stunner | 26.00% | ~6,271 |
+| Solo Capture | 32.00% | ~7,719 |
+| Welcome to the Crew | 32.00% | ~7,719 |
+| Ghostbuster In Training | 30.00% | ~7,237 |
+| Icing on the Cake | 30.00% | ~7,237 |
+| We have the best insurance | 27.00% | ~6,513 |
+| Side Hustle | 27.00% | ~6,513 |
+| Summoner | 27.00% | ~6,513 |
+| Legions | 26.00% | ~6,272 |
+| Pesky Jerks | 26.00% | ~6,272 |
+| Right back at ya | 26.00% | ~6,272 |
+| Stunner | 26.00% | ~6,272 |
 | Animated | 24.00% | ~5,789 |
 | Skilled | 24.00% | ~5,789 |
 | Collector | 23.00% | ~5,548 |
@@ -37,18 +37,18 @@ Rating: 4.49 (Ranked 573)
 | Rift Destroyer | 20.00% | ~4,824 |
 | Terrifying | 18.00% | ~4,342 |
 | Tobin's Prodigy | 18.00% | ~4,342 |
-| Reckless | 17.00% | ~4,100 |
-| Diabolical | 16.00% | ~3,859 |
-| Escape Artist | 16.00% | ~3,859 |
-| Seasoned | 16.00% | ~3,859 |
-| Whoopsie | 12.00% | ~2,894 |
+| Reckless | 17.00% | ~4,101 |
+| Diabolical | 16.00% | ~3,860 |
+| Escape Artist | 16.00% | ~3,860 |
+| Seasoned | 16.00% | ~3,860 |
+| Whoopsie | 12.00% | ~2,895 |
 | Liability | 10.00% | ~2,412 |
 | Rivalry | 10.00% | ~2,412 |
 | Fragile Panes | 9.00% | ~2,171 |
 | Surprise! | 9.00% | ~2,171 |
-| Master Collector | 7.00% | ~1,688 |
-| Rift Seeker | 7.00% | ~1,688 |
-| Therapeutic | 7.00% | ~1,688 |
+| Master Collector | 7.00% | ~1,689 |
+| Rift Seeker | 7.00% | ~1,689 |
+| Therapeutic | 7.00% | ~1,689 |
 | Ghost Expert | 3.00% | ~724 |
 | Catostrophic Destroyer | 2.00% | ~482 |
 | Line em' up | 2.00% | ~482 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 573)
 | Mycophile | 1.00% | ~241 |
 | I don't need these | 0.90% | ~217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,120 (Ranked 97)  
+Progressed: 24,122 (Ranked 97)  
 Completed: 46 (0.19%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,10 +138,10 @@ Completed: 46 (0.19%) (Ranked 165)
 | 2023-07-07 | 24,081 | 46 |
 | 2023-07-08 | 24,104 | 46 |
 | 2023-07-09 | 24,117 | 46 |
-| 2023-07-10 | 24,120 | 46 |
+| 2023-07-10 | 24,122 | 46 |
 ## Awards
 Max (Great for Quick Sessions): 240  (Ranked 249)  
-Sum: 2,153 (Ranked 189)  
+Sum: 2,154 (Ranked 189)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
@@ -149,7 +149,7 @@ Diff (max vs sum): 60
 | This game is Great for Beginners | 228 |
 | This game has Competitive Players | 223 |
 | This game has Diverse Characters | 217 |
-| This game has Amazing Storytelling | 216 |
+| This game has Amazing Storytelling | 217 |
 | This game is Extremely Fun | 211 |
 | This game is Highly Recommended | 209 |
 | This game is Relaxing | 209 |
@@ -268,3 +268,4 @@ Diff (max vs sum): 60
 | 2023-07-06 | 4.49 | 240 | 2,151 |
 | 2023-07-07 | 4.49 | 240 | 2,152 |
 | 2023-07-09 | 4.49 | 240 | 2,153 |
+| 2023-07-10 | 4.49 | 240 | 2,154 |

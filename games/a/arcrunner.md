@@ -14,9 +14,9 @@
 | Challenge Mastered | 9.00% | ~63 |
 | Terminated III | 8.00% | ~56 |
 | Nanonic II | 7.00% | ~49 |
+| Starship Docks | 6.00% | ~42 |
 | Supply Run | 6.00% | ~42 |
 | Cybernetic | 5.00% | ~35 |
-| Starship Docks | 5.00% | ~35 |
 | Nanonic III | 5.00% | ~35 |
 | The Bigger They Are | 4.00% | ~28 |
 | Fully Modded | 3.00% | ~21 |

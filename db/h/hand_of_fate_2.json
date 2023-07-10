@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 372,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -862,9 +862,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 659087,
+  "EOS_Progressed": 659088,
   "EOS_Completed": 165,
-  "EOS_NewPlayers": 318,
+  "EOS_NewPlayers": 316,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8392,6 +8392,11 @@
       "Time": "2023-07-09T23:01:15.4708386+00:00",
       "NumProgressed": 659087,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-07-10T02:29:07.6737616+00:00",
+      "NumProgressed": 659088,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -8411,7 +8416,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 382270
+      "UsersEstimate": 382271
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -8643,7 +8648,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 79090
+      "UsersEstimate": 79091
     },
     {
       "ID": "Achievement_32_Karma",
@@ -8786,15 +8791,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 659087,
+      "Progressed": 659088,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-07-06T22:58:14.2890682+00:00",
-  "LastChanged_Achievements": "2023-07-10T00:00:31.8102658+00:00",
+  "LastChanged_Achievements": "2023-07-10T02:29:07.6737607+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:04.5984191+00:00",
-  "LastUpdate_Ratings": "2023-07-09T23:57:37.8743965+00:00",
-  "LastUpdate_Achievements": "2023-07-10T00:00:31.8103316+00:00"
+  "LastUpdate_Ratings": "2023-07-10T02:24:24.6044415+00:00",
+  "LastUpdate_Achievements": "2023-07-10T02:29:07.6738452+00:00"
 }

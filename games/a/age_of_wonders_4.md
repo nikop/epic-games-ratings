@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.61 (Ranked 362)  
+Rating: 4.61 (Ranked 361)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -38,9 +38,9 @@ Rating: 4.61 (Ranked 362)
 | Digging for Treasure | 1.00% | ~50 |
 | Preparation Is Everything | 1.00% | ~50 |
 | Duality | 1.00% | ~50 |
+| Lord of Chaos | 0.90% | ~45 |
 | Crimson Caldera | 0.90% | ~45 |
 | The Eternal Court | 0.90% | ~45 |
-| Lord of Chaos | 0.80% | ~40 |
 | Jack of All Tomes | 0.80% | ~40 |
 | Grexolis | 0.70% | ~35 |
 | One for All, All for One | 0.70% | ~35 |

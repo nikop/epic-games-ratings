@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -151,9 +151,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1301,
+  "EOS_Progressed": 1303,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1061,6 +1061,11 @@
       "Time": "2023-07-09T23:04:20.5530544+00:00",
       "NumProgressed": 1301,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-10T02:31:09.2565057+00:00",
+      "NumProgressed": 1303,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 56,
@@ -1088,7 +1093,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -1136,7 +1141,7 @@
       "Name": "Gotta Ca... Must Collect All of Them",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
@@ -1144,7 +1149,7 @@
       "Name": "Passing Shadow",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -1232,7 +1237,7 @@
       "Name": "This Too Shall Pass",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -1240,7 +1245,7 @@
       "Name": "How Romantic!",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "achievement_maimedHero",
@@ -1248,7 +1253,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "achievement_mythwalker",
@@ -1264,7 +1269,7 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -1344,7 +1349,7 @@
       "Name": "Daybreak",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "completedStory_vultureLord",
@@ -1519,15 +1524,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1301,
+      "Progressed": 1303,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-07-08T20:01:41.3411794+00:00",
-  "LastChanged_Achievements": "2023-07-10T00:03:56.1176372+00:00",
+  "LastChanged_Achievements": "2023-07-10T02:31:09.256505+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:13.8802543+00:00",
-  "LastUpdate_Ratings": "2023-07-10T00:00:17.9252293+00:00",
-  "LastUpdate_Achievements": "2023-07-10T00:03:56.1176798+00:00"
+  "LastUpdate_Ratings": "2023-07-10T02:27:01.5014854+00:00",
+  "LastUpdate_Achievements": "2023-07-10T02:31:09.2565585+00:00"
 }

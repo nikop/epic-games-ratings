@@ -20,27 +20,28 @@ Rating: 4.87 (Ranked 25)
 | Headliner | 0.60% | ~21 |
 | Time to pay up! | 0.60% | ~21 |
 | Who's the boss now? | 0.60% | ~21 |
+| I have to read these things? | 0.60% | ~21 |
 | Perfect Parry | 0.60% | ~21 |
 | Who put gears in there? | 0.60% | ~21 |
 | Alright, that felt AWESOME! | 0.60% | ~21 |
 | Start with a bang! | 0.50% | ~17 |
-| I have to read these things? | 0.50% | ~17 |
 | Feeling the beat! | 0.50% | ~17 |
 | You must like calling me in, Chai | 0.50% | ~17 |
 | I look cool. But I can look COOLER. | 0.50% | ~17 |
+| You can pet the cat! | 0.50% | ~17 |
 | Well that was a rush! | 0.40% | ~14 |
 | Perfecter Parry-er! | 0.40% | ~14 |
 | That's a lot of junk metal… | 0.40% | ~14 |
-| You can pet the cat! | 0.40% | ~14 |
 | Call me Turbo Chai | 0.40% | ~8 |
 | There's such a thing as TOO helpful | 0.30% | ~10 |
+| Wanna hear my playlist? | 0.30% | ~10 |
 | Does that say weakpoint? | 0.30% | ~10 |
 | New bad guys? No problem! | 0.30% | ~6 |
 | Chip-tuned | 0.20% | ~7 |
 | Beat-hit mania | 0.20% | ~7 |
 | I think I found your calling, Macaron | 0.20% | ~7 |
 | This is a breeze! | 0.20% | ~7 |
-| Wanna hear my playlist? | 0.20% | ~7 |
+| I told you I'd be fine, Peppermint! | 0.20% | ~7 |
 | Check out my moves! | 0.20% | ~7 |
 | Easy Listening | 0.10% | ~3 |
 | I think I deserve some praise, here! | 0.10% | ~3 |
@@ -54,7 +55,6 @@ Rating: 4.87 (Ranked 25)
 | This was... not what I expected. | 0.10% | ~3 |
 | Have we met before? | 0.10% | ~3 |
 | I hit things with a guitar really well. | 0.10% | ~3 |
-| I told you I'd be fine, Peppermint! | 0.10% | ~3 |
 | You ever parry a volcano? | 0.10% | ~3 |
 | I saw all those hits coming a measure away! | 0.10% | ~3 |
 | Choose your own adventure | 0.10% | ~2 |

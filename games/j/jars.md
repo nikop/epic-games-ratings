@@ -26,7 +26,7 @@
 | Master of puppets | 5.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 62 (Ranked 327)  
-Completed: 3 (4.84%) (Ranked 38)  
+Completed: 3 (4.84%) (Ranked 39)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

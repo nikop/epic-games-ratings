@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2429,
+  "EOS_Progressed": 2430,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -2954,6 +2954,11 @@
       "Time": "2023-07-09T23:06:47.0631851+00:00",
       "NumProgressed": 2429,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-10T02:33:08.5827941+00:00",
+      "NumProgressed": 2430,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -2965,7 +2970,7 @@
       "Name": "Embrace the darkness",
       "Percentage": 12,
       "XP": 120,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "STB_COLISSEUM_FIRST",
@@ -2981,7 +2986,7 @@
       "Name": "Whispers in the Woods IV",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "STB_COLISSEUM_SECOND",
@@ -3029,7 +3034,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2332
+      "UsersEstimate": 2333
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -3069,7 +3074,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -3141,7 +3146,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1846
+      "UsersEstimate": 1847
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -3149,7 +3154,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2235
+      "UsersEstimate": 2236
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -3181,7 +3186,7 @@
       "Name": "Dark Forest",
       "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 1870
+      "UsersEstimate": 1871
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -3197,7 +3202,7 @@
       "Name": "Clarion Cove",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -3213,7 +3218,7 @@
       "Name": "Sacred Woods",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -3309,7 +3314,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -3341,7 +3346,7 @@
       "Name": "The use of petricite",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 1797
+      "UsersEstimate": 1798
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -3388,7 +3393,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2429,
+      "Progressed": 2430,
       "Completed": 4
     }
   ],
@@ -3396,8 +3401,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-07-07T20:57:43.6161991+00:00",
-  "LastChanged_Achievements": "2023-07-10T00:05:55.9467022+00:00",
+  "LastChanged_Achievements": "2023-07-10T02:33:08.5827937+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:00.9514452+00:00",
-  "LastUpdate_Ratings": "2023-07-09T23:57:36.3362737+00:00",
-  "LastUpdate_Achievements": "2023-07-10T00:05:55.9467526+00:00"
+  "LastUpdate_Ratings": "2023-07-10T02:24:23.0795087+00:00",
+  "LastUpdate_Achievements": "2023-07-10T02:33:08.5828582+00:00"
 }
