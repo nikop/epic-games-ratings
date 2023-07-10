@@ -29,7 +29,7 @@ Rating: 4.39 (Ranked 701)
 | Stuff Of Nightmares | 17.00% | ~471 |
 | Come on, You Wanna Live Forever? | 17.00% | ~471 |
 | Deep Into Insanity | 17.00% | ~471 |
-| The Passenger | 16.00% | ~444 |
+| The Passenger | 17.00% | ~471 |
 | El Riesgo Siempre Vive | 15.00% | ~416 |
 | One For Every Occasion | 13.00% | ~360 |
 | The Spire | 13.00% | ~360 |

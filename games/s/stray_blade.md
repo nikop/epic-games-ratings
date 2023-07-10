@@ -6,10 +6,11 @@
 | ---- | ---------- | ----- |
 | Self-Defence | 64.00% | ~7 |
 | Tinkerer | 45.00% | ~5 |
-| A new World ahead | 27.00% | ~3 |
+| A new World ahead | 36.00% | ~4 |
 | Bringing guns to a sword fight | 18.00% | ~2 |
 | Welcome to the Club | 18.00% | ~2 |
 | Don't Cry Wolf | 18.00% | ~2 |
+| Can't touch this | 18.00% | ~2 |
 | Apprentice | 18.00% | ~2 |
 | Mirror, Mirror on the Wall | 9.00% | ~1 |
 | Defeat Ingla | 9.00% | ~1 |
@@ -20,7 +21,6 @@
 | Through Dangers Untold | 9.00% | ~1 |
 | Finally! | 9.00% | ~1 |
 | The End | 9.00% | ~1 |
-| Can't touch this | 9.00% | ~1 |
 | But what of the Acreans? | 9.00% | ~1 |
 | The Golden Flash | 9.00% | ~1 |
 | The Power of the Mountains | 9.00% | ~1 |

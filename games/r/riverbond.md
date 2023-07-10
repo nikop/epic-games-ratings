@@ -6,18 +6,18 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~365,239 |
-| Now You're Talking | 62.00% | ~323,497 |
-| Steel Yourself | 62.00% | ~323,497 |
-| Window Dressing | 50.00% | ~260,885 |
-| Trigger Happy | 46.00% | ~240,014 |
-| Riverborn | 45.00% | ~234,796 |
+| First Step | 70.00% | ~365,240 |
+| Now You're Talking | 62.00% | ~323,498 |
+| Steel Yourself | 62.00% | ~323,498 |
+| Window Dressing | 50.00% | ~260,886 |
+| Trigger Happy | 46.00% | ~240,015 |
+| Riverborn | 45.00% | ~234,797 |
 | Starry Eyed | 34.00% | ~177,402 |
 | Poking Around | 34.00% | ~177,402 |
 | Talk of the Town | 24.00% | ~125,225 |
 | AAARR! | 23.00% | ~120,007 |
 | Hello Darkness | 23.00% | ~120,007 |
-| Wind At Our Backs | 22.00% | ~114,789 |
+| Wind At Our Backs | 22.00% | ~114,790 |
 | To the Beat | 20.00% | ~104,354 |
 | Sunny Shores | 17.00% | ~88,701 |
 | Sunday Best | 16.00% | ~83,483 |
@@ -38,10 +38,10 @@ Number of Ratings: 617  (23.09.2022)
 | Mind the Moose | 6.00% | ~31,306 |
 | Dressed to Kill | 6.00% | ~31,306 |
 | Beast Mode | 6.00% | ~31,306 |
-| Oh, Romeo! | 5.00% | ~26,088 |
-| Noble Intentions | 5.00% | ~26,088 |
-| Rising Star | 5.00% | ~26,088 |
-| Slime Slayer | 5.00% | ~26,088 |
+| Oh, Romeo! | 5.00% | ~26,089 |
+| Noble Intentions | 5.00% | ~26,089 |
+| Rising Star | 5.00% | ~26,089 |
+| Slime Slayer | 5.00% | ~26,089 |
 | Privacy, Please! | 4.00% | ~20,871 |
 | Silky Smooth | 4.00% | ~20,871 |
 | Hash It Over | 4.00% | ~20,871 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,565 |
 | Point Taken | 0.10% | ~522 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 521,770 (Ranked 29)  
+Progressed: 521,771 (Ranked 29)  
 Completed: 442 (0.08%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 442 (0.08%) (Ranked 192)
 | 2023-07-07 | 521,568 | 440 |
 | 2023-07-08 | 521,666 | 441 |
 | 2023-07-09 | 521,765 | 442 |
-| 2023-07-10 | 521,770 | 442 |
+| 2023-07-10 | 521,771 | 442 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -32,8 +32,8 @@ Rating: 4.19 (Ranked 845)
 | One Last Job | 0.90% | ~32 |
 | In Striking Distance | 0.70% | ~110 |
 | This Isn't About Escape | 0.50% | ~18 |
+| Armed to the Teeth | 0.40% | ~14 |
 | Information Overload | 0.40% | ~14 |
-| Armed to the Teeth | 0.30% | ~11 |
 | Grim Reaper | 0.30% | ~47 |
 | Quick Pick | 0.30% | ~11 |
 | Parole Denied | 0.20% | ~7 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 845)
 | I am the Danger | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,677 (Ranked 108)  
+Progressed: 15,678 (Ranked 108)  
 Completed: 66 (0.42%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 66 (0.42%) (Ranked 133)
 | 2023-07-07 | 15,660 | 64 |
 | 2023-07-08 | 15,667 | 64 |
 | 2023-07-09 | 15,676 | 66 |
-| 2023-07-10 | 15,677 | 66 |
+| 2023-07-10 | 15,678 | 66 |
 ## Awards
 Max (Highly Recommended): 65  (Ranked 379)  
 Sum: 378 (Ranked 317)  

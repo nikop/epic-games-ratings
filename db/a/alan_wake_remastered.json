@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57132,
+  "EOS_Progressed": 57134,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 411,
+  "EOS_NewPlayers": 410,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7492,6 +7492,11 @@
       "Time": "2023-07-10T02:30:41.3240764+00:00",
       "NumProgressed": 57132,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-10T03:28:27.3762973+00:00",
+      "NumProgressed": 57134,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7503,7 +7508,7 @@
       "Name": "Follow the Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 19425
+      "UsersEstimate": 19426
     },
     {
       "ID": "02",
@@ -7519,7 +7524,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11426
+      "UsersEstimate": 11427
     },
     {
       "ID": "04",
@@ -7743,7 +7748,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 7998
+      "UsersEstimate": 7999
     },
     {
       "ID": "32",
@@ -7751,7 +7756,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14854
+      "UsersEstimate": 14855
     },
     {
       "ID": "33",
@@ -7823,7 +7828,7 @@
       "Name": "Finders Keepers",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 7998
+      "UsersEstimate": 7999
     },
     {
       "ID": "42",
@@ -8038,21 +8043,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57132,
+      "Progressed": 57134,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20600,
+      "Progressed": 20602,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-10T02:30:41.324076+00:00",
+  "LastChanged_Achievements": "2023-07-10T03:28:27.3762964+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:08.3646753+00:00",
-  "LastUpdate_Ratings": "2023-07-10T02:24:27.5550795+00:00",
-  "LastUpdate_Achievements": "2023-07-10T02:30:41.3241902+00:00"
+  "LastUpdate_Ratings": "2023-07-10T03:23:03.7432065+00:00",
+  "LastUpdate_Achievements": "2023-07-10T03:28:27.376417+00:00"
 }

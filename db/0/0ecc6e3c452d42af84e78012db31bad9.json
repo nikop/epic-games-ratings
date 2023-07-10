@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 919,
+  "EOS_Progressed": 920,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 448,
+  "EOS_NewPlayers": 443,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1101,6 +1101,11 @@
       "Time": "2023-07-10T02:31:09.5509221+00:00",
       "NumProgressed": 919,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-10T03:29:07.2684089+00:00",
+      "NumProgressed": 920,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 16,
@@ -1144,7 +1149,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 74,
       "XP": 30,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "ach_architecture_completed",
@@ -1184,7 +1189,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "ach_food_completed",
@@ -1200,7 +1205,7 @@
       "Name": "Food - unlocked",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "ach_game_opened",
@@ -1222,9 +1227,9 @@
       "ID": "ach_no_boosters",
       "SetID": "3h4khpo",
       "Name": "Master",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 100,
-      "UsersEstimate": 340
+      "UsersEstimate": 350
     },
     {
       "ID": "ach_tornado",
@@ -1239,14 +1244,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 919,
+      "Progressed": 920,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-07-10T02:31:09.550921+00:00",
+  "LastChanged_Achievements": "2023-07-10T03:29:07.2684081+00:00",
   "LastUpdate_AppInfo": "2023-07-07T08:57:12.6821142+00:00",
-  "LastUpdate_Ratings": "2023-07-10T02:23:50.3665367+00:00",
-  "LastUpdate_Achievements": "2023-07-10T02:31:09.5509391+00:00"
+  "LastUpdate_Ratings": "2023-07-10T03:22:25.9854927+00:00",
+  "LastUpdate_Achievements": "2023-07-10T03:29:07.2684345+00:00"
 }

@@ -23,15 +23,15 @@ Rating: 4.45 (Ranked 622)
 | Opposing Force | 1.00% | ~32 |
 | Organ Grinder | 1.00% | ~32 |
 | Gunslinger | 1.00% | ~32 |
+| Skirmisher | 1.00% | ~32 |
+| My Little Friend | 1.00% | ~32 |
 | Explosive Efficiency | 1.00% | ~32 |
 | Der Geist | 1.00% | ~32 |
 | Close Quarters | 1.00% | ~32 |
 | Snake in the Grass | 1.00% | ~32 |
 | Brains of the Operation | 1.00% | ~32 |
-| Skirmisher | 0.90% | ~29 |
 | Set Europe Ablaze | 0.90% | ~29 |
 | Precision Is Key | 0.90% | ~29 |
-| My Little Friend | 0.90% | ~29 |
 | Enemy at the Gates | 0.80% | ~26 |
 | Fields of Glory | 0.70% | ~23 |
 | Just a Flesh Wound | 0.70% | ~23 |

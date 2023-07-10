@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
@@ -5638,9 +5638,9 @@
       "ID": "ACH_SURGE_GAUNTLET_JOCKEY",
       "SetID": "97mcd7i",
       "Name": "Surge Gauntlet Jockey",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 6441
+      "UsersEstimate": 6517
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_SCHOLAR",
@@ -5742,8 +5742,8 @@
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-07-02T16:58:50.9856652+00:00",
-  "LastChanged_Achievements": "2023-07-10T02:32:05.602888+00:00",
+  "LastChanged_Achievements": "2023-07-10T03:30:03.9884058+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:08.6615768+00:00",
-  "LastUpdate_Ratings": "2023-07-10T02:25:07.8109549+00:00",
-  "LastUpdate_Achievements": "2023-07-10T02:32:05.6029584+00:00"
+  "LastUpdate_Ratings": "2023-07-10T03:23:43.8313692+00:00",
+  "LastUpdate_Achievements": "2023-07-10T03:30:03.9884809+00:00"
 }

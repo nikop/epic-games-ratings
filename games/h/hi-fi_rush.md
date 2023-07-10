@@ -6,9 +6,9 @@ Rating: 4.87 (Ranked 25)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | NOW we got a kickass hideout! | 1.00% | ~20 |
+| Cream of the Crop | 0.80% | ~27 |
 | I play my own way! | 0.80% | ~27 |
 | Kissing the sky! | 0.80% | ~27 |
-| Cream of the Crop | 0.70% | ~24 |
 | This will cost you big time | 0.70% | ~24 |
 | The Negotiator | 0.70% | ~24 |
 | Thanks for the free chip, Peppermint! | 0.70% | ~24 |

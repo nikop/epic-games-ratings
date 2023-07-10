@@ -5014,9 +5014,9 @@
       "ID": "REWARD_25_SKIRMISHER",
       "SetID": "bm6el81",
       "Name": "Skirmisher",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 32
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -5078,9 +5078,9 @@
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
       "SetID": "bm6el81",
       "Name": "My Little Friend",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 32
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -5469,8 +5469,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-09T23:00:54.8044631+00:00",
-  "LastChanged_Achievements": "2023-07-10T02:29:32.8626363+00:00",
+  "LastChanged_Achievements": "2023-07-10T03:27:19.1797635+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:07.1687539+00:00",
-  "LastUpdate_Ratings": "2023-07-10T02:26:58.091394+00:00",
-  "LastUpdate_Achievements": "2023-07-10T02:29:32.8627388+00:00"
+  "LastUpdate_Ratings": "2023-07-10T03:25:42.7322017+00:00",
+  "LastUpdate_Achievements": "2023-07-10T03:27:19.1798742+00:00"
 }
