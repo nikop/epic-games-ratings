@@ -18,7 +18,7 @@
 | 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 419 | 202 |
 | 12 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.89 | 0 | 504 |
 | 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 16,847 | 20 |
-| 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 135 | 299 |
+| 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 135 | 300 |
 | 19 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 271 | 241 |
 | 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,137 | 76 |
 | 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 158,003 | 6 |
@@ -399,7 +399,7 @@
 | 390 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,482 | 27 |
 | 390 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 0 | 504 |
 | 390 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 120 | 310 |
-| 390 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 58 | 388 |
+| 390 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 58 | 389 |
 | 390 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 37 | 428 |
 | 390 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 598 | 175 |
 | 390 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 62 | 384 |
@@ -488,7 +488,7 @@
 | 477 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 89 | 345 |
 | 477 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.55 | 0 | 504 |
 | 477 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 0 | 504 |
-| 477 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 309 | 230 |
+| 477 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 310 | 230 |
 | 477 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,205 | 131 |
 | 491 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 0 | 504 |
 | 491 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 5,130 | 63 |
@@ -590,23 +590,23 @@
 | 585 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.48 | 0 | 504 |
 | 585 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.48 | 0 | 504 |
 | 585 | [Paradigm](games/p/paradigm.md) | 4.48 | 0 | 504 |
+| 585 | [Redout 2](games/r/redout_2.md) | 4.48 | 0 | 504 |
 | 585 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.48 | 0 | 504 |
 | 585 | [Scorn](games/s/scorn.md) | 4.48 | 0 | 504 |
 | 585 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.48 | 2,090 | 108 |
 | 585 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.48 | 7,515 | 45 |
 | 585 | [The Escapists](games/t/the_escapists.md) | 4.48 | 0 | 504 |
-| 596 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 0 | 504 |
-| 596 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 0 | 504 |
-| 596 | [Figment](games/f/figment.md) | 4.47 | 20 | 501 |
-| 596 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,489 | 82 |
-| 596 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.47 | 38 | 425 |
-| 596 | [Redout 2](games/r/redout_2.md) | 4.47 | 0 | 504 |
-| 596 | [Riverbond](games/r/riverbond.md) | 4.47 | 0 | 504 |
-| 596 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.47 | 0 | 504 |
-| 596 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 0 | 504 |
-| 596 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 99 | 330 |
-| 596 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.47 | 0 | 504 |
-| 596 | [Train Valley](games/t/train_valley.md) | 4.47 | 0 | 504 |
+| 597 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 0 | 504 |
+| 597 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 0 | 504 |
+| 597 | [Figment](games/f/figment.md) | 4.47 | 20 | 501 |
+| 597 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,489 | 82 |
+| 597 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.47 | 38 | 425 |
+| 597 | [Riverbond](games/r/riverbond.md) | 4.47 | 0 | 504 |
+| 597 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.47 | 0 | 504 |
+| 597 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 0 | 504 |
+| 597 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 99 | 330 |
+| 597 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.47 | 0 | 504 |
+| 597 | [Train Valley](games/t/train_valley.md) | 4.47 | 0 | 504 |
 | 608 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 0 | 504 |
 | 608 | [Anno 2070](games/a/anno_2070.md) | 4.46 | 0 | 504 |
 | 608 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.46 | 0 | 504 |
@@ -734,11 +734,11 @@
 | 728 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 504 |
 | 728 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 474 |
 | 728 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 48 | 404 |
-| 728 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.36 | 56 | 389 |
+| 728 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.36 | 59 | 387 |
 | 728 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 100 | 329 |
 | 728 | [ZOMBI](games/z/zombi.md) | 4.36 | 0 | 504 |
 | 738 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 0 | 504 |
-| 738 | [Encased](games/e/encased.md) | 4.35 | 135 | 299 |
+| 738 | [Encased](games/e/encased.md) | 4.35 | 136 | 299 |
 | 738 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.35 | 0 | 504 |
 | 738 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.35 | 0 | 504 |
 | 738 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 202 | 267 |
