@@ -41,7 +41,7 @@
 | A Megapint...? | 28.00% | ~25 |
 | Another one bites the iron | 28.00% | ~25 |
 | Ripe Meat Off The Bone! | 26.00% | ~23 |
-| Hovering around | 24.00% | ~22 |
+| Hovering around | 26.00% | ~23 |
 | Kleptomaniac | 23.00% | ~21 |
 | You're not so Big anymore, Boi! | 22.00% | ~20 |
 | Your daily dose of Vitamin C. | 22.00% | ~20 |

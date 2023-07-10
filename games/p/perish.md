@@ -10,13 +10,13 @@
 | Lochos | 5.00% | ~161 |
 | Strength of Herakles | 5.00% | ~161 |
 | Initiate's Resolve | 5.00% | ~161 |
-| Go For the Head | 4.00% | ~128 |
-| Spartan Sandal | 4.00% | ~128 |
-| Modest Earnings | 4.00% | ~128 |
-| Armaments of the Pantheon | 4.00% | ~128 |
-| The Sons of Minos | 4.00% | ~128 |
-| Eidola | 4.00% | ~128 |
-| Reign in Blood | 4.00% | ~128 |
+| Go For the Head | 4.00% | ~129 |
+| Spartan Sandal | 4.00% | ~129 |
+| Modest Earnings | 4.00% | ~129 |
+| Armaments of the Pantheon | 4.00% | ~129 |
+| The Sons of Minos | 4.00% | ~129 |
+| Eidola | 4.00% | ~129 |
+| Reign in Blood | 4.00% | ~129 |
 | Comedy and Tragedy | 3.00% | ~96 |
 | Pillars of Eternity | 3.00% | ~96 |
 | Immolator | 3.00% | ~96 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,212 (Ranked 147)  
+Progressed: 3,214 (Ranked 147)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-07 | 3,178 | 0 |
 | 2023-07-08 | 3,184 | 0 |
 | 2023-07-09 | 3,203 | 0 |
-| 2023-07-10 | 3,212 | 0 |
+| 2023-07-10 | 3,214 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

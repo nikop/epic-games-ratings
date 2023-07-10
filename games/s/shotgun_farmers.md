@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 66.00% | ~116 |
-| Aspairagus | 52.00% | ~66 |
-| Triple Kill | 48.00% | ~84 |
-| Survivor | 48.00% | ~60 |
-| First Blood | 47.00% | ~83 |
-| I Believe I Can Fly | 41.00% | ~72 |
-| Cornivore | 41.00% | ~72 |
-| No Asperascope | 39.00% | ~69 |
-| Early Survivor | 36.00% | ~45 |
-| No Diggity | 36.00% | ~45 |
+| Seeds of War | 67.00% | ~119 |
+| Aspairagus | 51.00% | ~65 |
+| Triple Kill | 49.00% | ~87 |
+| Survivor | 48.00% | ~61 |
+| First Blood | 47.00% | ~84 |
+| I Believe I Can Fly | 42.00% | ~75 |
+| Cornivore | 42.00% | ~75 |
+| No Asperascope | 40.00% | ~71 |
+| Early Survivor | 37.00% | ~47 |
+| No Diggity | 36.00% | ~46 |
 | Amateur Survivor | 26.00% | ~33 |
-| Bouncemato | 23.00% | ~29 |
-| 10K | 20.00% | ~35 |
-| 15K | 19.00% | ~33 |
+| Bouncemato | 22.00% | ~28 |
+| 10K | 21.00% | ~37 |
+| 15K | 20.00% | ~36 |
 | Professional Survivor | 18.00% | ~23 |
-| Drinking Problem | 16.00% | ~28 |
+| Drinking Problem | 17.00% | ~30 |
+| Grave Digger | 17.00% | ~22 |
 | Quick-Draw Pod | 16.00% | ~20 |
-| Grave Digger | 16.00% | ~20 |
 | This Is My Boomstick | 14.00% | ~18 |
-| Skin Of Your Teeth | 11.00% | ~19 |
+| Skin Of Your Teeth | 11.00% | ~20 |
 | Summers Here | 11.00% | ~14 |
 | Pork Chop Express | 10.00% | ~18 |
 | Eggtraordinary | 10.00% | ~18 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 176 (Ranked 275)  
+Progressed: 178 (Ranked 273)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-04 | 138 | 0 |
 | 2023-07-08 | 141 | 0 |
 | 2023-07-09 | 160 | 0 |
-| 2023-07-10 | 176 | 0 |
+| 2023-07-10 | 178 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

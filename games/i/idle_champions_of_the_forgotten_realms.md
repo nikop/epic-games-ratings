@@ -6,34 +6,34 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,465 |
-| The Mad Wizard | 11.00% | ~23,074 |
-| The Ring of Regeneration | 7.00% | ~14,684 |
-| Are Ya Chicken? | 7.00% | ~14,684 |
-| Were-verpowered | 6.00% | ~12,586 |
-| Seeking Allies | 5.00% | ~10,488 |
-| Mad Cow Disease | 5.00% | ~10,488 |
-| Friendly Imps | 5.00% | ~10,488 |
-| A Persistent Buzzing | 4.00% | ~8,391 |
-| Pure Energy | 4.00% | ~8,391 |
-| Beast Mode | 3.00% | ~6,293 |
-| Terror in the Dark | 3.00% | ~6,293 |
-| Unearthed Evil | 3.00% | ~6,293 |
-| The Crumbling Temple | 3.00% | ~6,293 |
-| Exploring Port Nyanzaru | 3.00% | ~6,293 |
-| The Contagious Curse | 3.00% | ~6,293 |
-| Escort to Waterdeep | 3.00% | ~6,293 |
-| Low Initiative | 2.00% | ~4,195 |
-| A Mysterious Summons | 2.00% | ~4,195 |
-| Building Trust | 2.00% | ~4,195 |
-| March of the Undead | 2.00% | ~4,195 |
-| No Time To Rest | 2.00% | ~4,195 |
-| Useless Allies | 2.00% | ~4,195 |
-| Running of the Saurs | 2.00% | ~4,195 |
-| Waterdeep Detours | 2.00% | ~4,195 |
-| Underdeep Cartography | 2.00% | ~4,195 |
-| Overdue Rendezvous | 2.00% | ~4,195 |
-| The Templar's Camp | 2.00% | ~4,195 |
+| The Cursed Farmer | 15.00% | ~31,469 |
+| The Mad Wizard | 11.00% | ~23,077 |
+| The Ring of Regeneration | 7.00% | ~14,686 |
+| Are Ya Chicken? | 7.00% | ~14,686 |
+| Were-verpowered | 6.00% | ~12,588 |
+| Seeking Allies | 5.00% | ~10,490 |
+| Mad Cow Disease | 5.00% | ~10,490 |
+| Friendly Imps | 5.00% | ~10,490 |
+| A Persistent Buzzing | 4.00% | ~8,392 |
+| Pure Energy | 4.00% | ~8,392 |
+| Beast Mode | 3.00% | ~6,294 |
+| Terror in the Dark | 3.00% | ~6,294 |
+| Unearthed Evil | 3.00% | ~6,294 |
+| The Crumbling Temple | 3.00% | ~6,294 |
+| Exploring Port Nyanzaru | 3.00% | ~6,294 |
+| The Contagious Curse | 3.00% | ~6,294 |
+| Escort to Waterdeep | 3.00% | ~6,294 |
+| Low Initiative | 2.00% | ~4,196 |
+| A Mysterious Summons | 2.00% | ~4,196 |
+| Building Trust | 2.00% | ~4,196 |
+| March of the Undead | 2.00% | ~4,196 |
+| No Time To Rest | 2.00% | ~4,196 |
+| Useless Allies | 2.00% | ~4,196 |
+| Running of the Saurs | 2.00% | ~4,196 |
+| Waterdeep Detours | 2.00% | ~4,196 |
+| Underdeep Cartography | 2.00% | ~4,196 |
+| Overdue Rendezvous | 2.00% | ~4,196 |
+| The Templar's Camp | 2.00% | ~4,196 |
 | Homecoming | 1.00% | ~2,098 |
 | The Lost Heir of Omu | 1.00% | ~2,098 |
 | Street War | 1.00% | ~2,098 |
@@ -61,18 +61,18 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Grand Puzzle | 0.80% | ~1,678 |
 | Treasure Hunters | 0.80% | ~1,678 |
 | Nimble Escape | 0.80% | ~1,678 |
-| The Giant's Bane Tavern | 0.80% | ~1,408 |
+| The Giant's Bane Tavern | 0.80% | ~1,409 |
 | Rude Welcome | 0.80% | ~1,678 |
 | The Haunted Jungle | 0.80% | ~1,678 |
-| Tomb of the Nine Gods | 0.70% | ~1,468 |
-| Family Entanglements | 0.70% | ~1,468 |
-| The Immortal Warrior | 0.70% | ~1,468 |
-| Fugitives | 0.70% | ~1,468 |
-| Hopelessly Lost | 0.70% | ~1,468 |
-| Crowded Streets | 0.70% | ~1,468 |
-| The Darkness Runs Deeper | 0.70% | ~1,468 |
-| Market Fluctuations | 0.70% | ~1,468 |
-| Durable Deep | 0.70% | ~1,468 |
+| Tomb of the Nine Gods | 0.70% | ~1,469 |
+| Family Entanglements | 0.70% | ~1,469 |
+| The Immortal Warrior | 0.70% | ~1,469 |
+| Fugitives | 0.70% | ~1,469 |
+| Hopelessly Lost | 0.70% | ~1,469 |
+| Crowded Streets | 0.70% | ~1,469 |
+| The Darkness Runs Deeper | 0.70% | ~1,469 |
+| Market Fluctuations | 0.70% | ~1,469 |
+| Durable Deep | 0.70% | ~1,469 |
 | The Wyrmheart Mine | 0.60% | ~1,259 |
 | Tower on the Lake | 0.60% | ~1,259 |
 | The Guardian of Orolunga | 0.60% | ~1,259 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209,767 (Ranked 52)  
+Progressed: 209,794 (Ranked 52)  
 Completed: 2,045 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -591,17 +591,17 @@ Completed: 2,045 (0.97%) (Ranked 102)
 | 2023-07-07 | 208,152 | 2,037 |
 | 2023-07-08 | 208,782 | 2,041 |
 | 2023-07-09 | 209,384 | 2,043 |
-| 2023-07-10 | 209,767 | 2,045 |
+| 2023-07-10 | 209,794 | 2,045 |
 ## Awards
 Max (Diverse Characters): 5,021  (Ranked 65)  
-Sum: 30,470 (Ranked 37)  
+Sum: 30,473 (Ranked 37)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,021 |
 | This game is Great for Beginners | 4,954 |
 | This game has Quickly Understood Controls | 4,653 |
-| This game is Relaxing | 4,547 |
+| This game is Relaxing | 4,550 |
 | This game is Highly Recommended | 4,000 |
 | This game has Amazing Characters | 4,000 |
 | This game has Playful Visuals | 3,295 |
@@ -773,4 +773,4 @@ Diff (max vs sum): 28
 | 2023-07-07 | 4.05 | - | 5,013 | 30,436 |
 | 2023-07-08 | 4.05 | - | 5,013 | 30,446 |
 | 2023-07-09 | 4.05 | - | 5,016 | 30,455 |
-| 2023-07-10 | 4.05 | - | 5,021 | 30,470 |
+| 2023-07-10 | 4.05 | - | 5,021 | 30,473 |

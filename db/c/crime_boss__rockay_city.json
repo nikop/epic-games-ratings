@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -2460,9 +2460,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 68696,
+  "EOS_Progressed": 68697,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 426,
+  "EOS_NewPlayers": 423,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -10980,6 +10980,11 @@
       "Time": "2023-07-10T19:04:18.4779226+00:00",
       "NumProgressed": 68696,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-07-10T20:04:55.3815387+00:00",
+      "NumProgressed": 68697,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 37,
@@ -11015,7 +11020,7 @@
       "Name": "Hidden Sonata",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8930
+      "UsersEstimate": 8931
     },
     {
       "ID": "ACH_0014",
@@ -11135,7 +11140,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 44652
+      "UsersEstimate": 44653
     },
     {
       "ID": "ACH_0210",
@@ -11143,7 +11148,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 50835
+      "UsersEstimate": 50836
     },
     {
       "ID": "ACH_0211",
@@ -11159,7 +11164,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 32287
+      "UsersEstimate": 32288
     },
     {
       "ID": "ACH_0300",
@@ -11255,7 +11260,7 @@
       "Name": "Raider\u2019s Ruin",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10991
+      "UsersEstimate": 10992
     },
     {
       "ID": "ACH_0452",
@@ -11286,7 +11291,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 68696,
+      "Progressed": 68697,
       "Completed": 36
     }
   ],
@@ -11294,8 +11299,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-07-10T15:01:13.0023543+00:00",
-  "LastChanged_Achievements": "2023-07-10T19:04:18.4779221+00:00",
+  "LastChanged_Achievements": "2023-07-10T20:04:55.3815382+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:23.2557502+00:00",
-  "LastUpdate_Ratings": "2023-07-10T18:59:52.7947698+00:00",
-  "LastUpdate_Achievements": "2023-07-10T19:04:18.4780037+00:00"
+  "LastUpdate_Ratings": "2023-07-10T20:00:38.182177+00:00",
+  "LastUpdate_Achievements": "2023-07-10T20:04:55.3816185+00:00"
 }

@@ -21,9 +21,9 @@
 | The Bigger They Are | 4.00% | ~28 |
 | Fully Modded | 4.00% | ~28 |
 | Up Close And Personal | 4.00% | ~28 |
+| Eden Heights | 3.00% | ~21 |
 | Outer Core | 3.00% | ~21 |
 | Rookie | 3.00% | ~21 |
-| Eden Heights | 2.00% | ~14 |
 | Inner Core | 2.00% | ~14 |
 | Integration | 2.00% | ~14 |
 | Destruction | 0.70% | ~5 |

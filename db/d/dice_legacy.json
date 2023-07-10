@@ -1200,9 +1200,9 @@
       "ID": "THREE_HAPPY_CLASSES",
       "SetID": "6ohhfoc",
       "Name": "Listening to the crowd",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 54
     },
     {
       "ID": "TRIPLE_FAIR",
@@ -1337,8 +1337,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-07-10T19:02:27.2212082+00:00",
+  "LastChanged_Achievements": "2023-07-10T20:03:18.0136848+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:08.7957135+00:00",
-  "LastUpdate_Ratings": "2023-07-10T18:57:49.5682001+00:00",
-  "LastUpdate_Achievements": "2023-07-10T19:02:27.2212505+00:00"
+  "LastUpdate_Ratings": "2023-07-10T19:58:04.4308322+00:00",
+  "LastUpdate_Achievements": "2023-07-10T20:03:18.0137262+00:00"
 }

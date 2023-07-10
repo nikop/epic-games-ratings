@@ -16,7 +16,7 @@ Number of Ratings: 180  (23.09.2022)
 | First train station | 64.00% | ~900 |
 | First steam train arrived | 60.00% | ~844 |
 | First industry upgraded | 57.00% | ~801 |
-| Transport millionaire | 55.00% | ~773 |
+| Transport millionaire | 56.00% | ~787 |
 | Cargo hub | 54.00% | ~759 |
 | Transport master | 53.00% | ~745 |
 | Cadet | 53.00% | ~745 |

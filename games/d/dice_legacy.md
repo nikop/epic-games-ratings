@@ -8,10 +8,10 @@ Rating: 4.27 (Ranked 795)
 | We made it | 34.00% | ~308 |
 | Manipulating Fate | 8.00% | ~72 |
 | The City | 8.00% | ~72 |
+| Listening to the crowd | 6.00% | ~54 |
 | Full house | 5.00% | ~45 |
 | Burn and Pillage | 5.00% | ~45 |
 | Hear me out | 5.00% | ~45 |
-| Listening to the crowd | 5.00% | ~45 |
 | Ascended | 4.00% | ~36 |
 | The Penitent Ones | 4.00% | ~36 |
 | Greedy | 4.00% | ~36 |

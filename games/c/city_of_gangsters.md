@@ -5,16 +5,16 @@ Rating: 4.26 (Ranked 801)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~151,265 |
-| Copacetic Coordination | 16.00% | ~52,614 |
-| Fronting the Money | 14.00% | ~46,037 |
-| The Dawn of Automation | 14.00% | ~46,037 |
-| Extraordinary Logistics | 14.00% | ~46,037 |
-| Dirty Money | 13.00% | ~42,749 |
-| Family First | 13.00% | ~42,749 |
+| Corner Clout | 46.00% | ~151,268 |
+| Copacetic Coordination | 16.00% | ~52,615 |
+| Fronting the Money | 14.00% | ~46,038 |
+| The Dawn of Automation | 14.00% | ~46,038 |
+| Extraordinary Logistics | 14.00% | ~46,038 |
+| Dirty Money | 13.00% | ~42,750 |
+| Family First | 13.00% | ~42,750 |
 | Cleaning House | 12.00% | ~39,461 |
 | Room in the Back | 12.00% | ~39,461 |
-| Booze Baron | 11.00% | ~36,172 |
+| Booze Baron | 11.00% | ~36,173 |
 | Beating the Heat | 10.00% | ~32,884 |
 | Friends on the Force | 10.00% | ~32,884 |
 | Neighborhood Watch | 10.00% | ~32,884 |
@@ -23,10 +23,10 @@ Rating: 4.26 (Ranked 801)
 | Street Fighter | 7.00% | ~23,019 |
 | Friendly Gestures | 7.00% | ~23,019 |
 | People Person | 7.00% | ~23,019 |
-| Liquor Lord | 6.00% | ~19,730 |
-| Safety in Numbers | 6.00% | ~19,730 |
-| Show ‘em the Sugar | 6.00% | ~19,730 |
-| Killing Them Softly | 6.00% | ~19,730 |
+| Liquor Lord | 6.00% | ~19,731 |
+| Safety in Numbers | 6.00% | ~19,731 |
+| Show ‘em the Sugar | 6.00% | ~19,731 |
+| Killing Them Softly | 6.00% | ~19,731 |
 | Street Knowledge | 5.00% | ~16,442 |
 | Oh Captain | 5.00% | ~16,442 |
 | Branching Out | 5.00% | ~16,442 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 801)
 | High Pillow | 0.10% | ~329 |
 | Station Master | 0.10% | ~329 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 328,838 (Ranked 40)  
+Progressed: 328,843 (Ranked 40)  
 Completed: 5 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,17 +167,17 @@ Completed: 5 (0.00%) (Ranked 237)
 | 2023-07-07 | 328,149 | 5 |
 | 2023-07-08 | 328,398 | 5 |
 | 2023-07-09 | 328,678 | 5 |
-| 2023-07-10 | 328,838 | 5 |
+| 2023-07-10 | 328,843 | 5 |
 ## Awards
 Max (Highly Recommended): 27  (Ranked 465)  
-Sum: 118 (Ranked 400)  
-Diff (max vs sum): 65  
+Sum: 119 (Ranked 399)  
+Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 27 |
 | This game is Relaxing | 26 |
 | This game has Quickly Understood Controls | 23 |
-| This game is Extremely Fun | 21 |
+| This game is Extremely Fun | 22 |
 | This game has Easy Combat | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -238,3 +238,4 @@ Diff (max vs sum): 65
 | 2023-07-07 | 4.26 | 27 | 116 |
 | 2023-07-08 | 4.26 | 27 | 117 |
 | 2023-07-09 | 4.26 | 27 | 118 |
+| 2023-07-10 | 4.26 | 27 | 119 |

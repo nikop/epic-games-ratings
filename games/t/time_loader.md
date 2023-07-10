@@ -21,10 +21,10 @@
 | Here we go again | 20.00% | ~22 |
 | Flyer | 17.00% | ~19 |
 | It’s in the Vault | 15.00% | ~17 |
+| Time Capsule | 14.00% | ~16 |
+| Photo | 14.00% | ~16 |
 | Dr. Antivirus | 14.00% | ~16 |
 | Access protocol | 14.00% | ~16 |
-| Time Capsule | 13.00% | ~14 |
-| Photo | 13.00% | ~14 |
 | Ticket | 13.00% | ~14 |
 | Baseball | 10.00% | ~11 |
 | Contract | 9.00% | ~10 |

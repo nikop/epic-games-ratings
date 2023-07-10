@@ -39,12 +39,12 @@
 | Talent And Dedication | 24.00% | ~5 |
 | Read, Read, Read | 19.00% | ~4 |
 | Ledge-walker | 19.00% | ~4 |
+| Prolific Artist | 19.00% | ~4 |
 | Slip and Slide | 19.00% | ~4 |
-| Prolific Artist | 14.00% | ~3 |
-| Merely Inquisitive | 14.00% | ~3 |
+| Merely Inquisitive | 19.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 21 (Ranked 371)  
-Completed: 3 (14.29%) (Ranked 11)  
+Completed: 4 (19.05%) (Ranked 10)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -61,6 +61,7 @@ Completed: 3 (14.29%) (Ranked 11)
 | 2023-06-03 | 18 | 3 |
 | 2023-06-09 | 20 | 3 |
 | 2023-06-20 | 21 | 3 |
+| 2023-07-10 | 21 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

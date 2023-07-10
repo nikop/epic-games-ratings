@@ -2446,9 +2446,9 @@
       "Count": 253
     }
   ],
-  "EOS_Progressed": 231888,
+  "EOS_Progressed": 231905,
   "EOS_Completed": 766,
-  "EOS_NewPlayers": 1082,
+  "EOS_NewPlayers": 1088,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -11016,6 +11016,11 @@
       "Time": "2023-07-10T19:00:32.3379631+00:00",
       "NumProgressed": 231888,
       "NumCompleted": 766
+    },
+    {
+      "Time": "2023-07-10T20:01:31.2455014+00:00",
+      "NumProgressed": 231905,
+      "NumCompleted": 766
     }
   ],
   "TotalAchievements": 39,
@@ -11027,7 +11032,7 @@
       "Name": "Welcome to Earth",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 57972
+      "UsersEstimate": 57976
     },
     {
       "ID": "AchievementBananaLickerID",
@@ -11043,7 +11048,7 @@
       "Name": "Car Cave",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 27827
+      "UsersEstimate": 27829
     },
     {
       "ID": "AchievementBaywatchID",
@@ -11059,7 +11064,7 @@
       "Name": "San Angora: Become Human",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 60291
+      "UsersEstimate": 60295
     },
     {
       "ID": "AchievementBigFootID",
@@ -11075,7 +11080,7 @@
       "Name": "New Goat Order",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 69566
+      "UsersEstimate": 69572
     },
     {
       "ID": "AchievementBoulderID",
@@ -11083,7 +11088,7 @@
       "Name": "Raider of the Lost Parking Garage",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 60291
+      "UsersEstimate": 60295
     },
     {
       "ID": "AchievementCastleRenovationID",
@@ -11091,7 +11096,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 211018
+      "UsersEstimate": 211034
     },
     {
       "ID": "AchievementClownID",
@@ -11099,7 +11104,7 @@
       "Name": "Where is It?",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 39421
+      "UsersEstimate": 39424
     },
     {
       "ID": "AchievementContainerPartyID",
@@ -11107,7 +11112,7 @@
       "Name": "Club Mohair",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 18551
+      "UsersEstimate": 18552
     },
     {
       "ID": "AchievementCrashGameID",
@@ -11115,7 +11120,7 @@
       "Name": "Don\u0027t touch the servers",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 64929
+      "UsersEstimate": 64933
     },
     {
       "ID": "AchievementEggID",
@@ -11123,7 +11128,7 @@
       "Name": "Egg Simulator",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 37102
+      "UsersEstimate": 37105
     },
     {
       "ID": "AchievementFrenchFikaID",
@@ -11131,7 +11136,7 @@
       "Name": "French Fika",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16232
+      "UsersEstimate": 16233
     },
     {
       "ID": "AchievementGatorID",
@@ -11139,7 +11144,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 76523
+      "UsersEstimate": 76529
     },
     {
       "ID": "AchievementGoatID",
@@ -11155,7 +11160,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 122901
+      "UsersEstimate": 122910
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -11163,7 +11168,7 @@
       "Name": "Into the Matrix",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 44059
+      "UsersEstimate": 44062
     },
     {
       "ID": "AchievementINirvanaID",
@@ -11171,7 +11176,7 @@
       "Name": "Beauty, Mindfulness and Meditation",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 34783
+      "UsersEstimate": 34786
     },
     {
       "ID": "AchievementInstinctID",
@@ -11187,7 +11192,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 104350
+      "UsersEstimate": 104357
     },
     {
       "ID": "AchievementIntroID",
@@ -11195,7 +11200,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 132176
+      "UsersEstimate": 132186
     },
     {
       "ID": "AchievementLootBoxID",
@@ -11203,7 +11208,7 @@
       "Name": "Black Market",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 32464
+      "UsersEstimate": 32467
     },
     {
       "ID": "AchievementMascotPoopID",
@@ -11227,7 +11232,7 @@
       "Name": "Shadow Syndicate",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 88117
+      "UsersEstimate": 88124
     },
     {
       "ID": "AchievementRampID",
@@ -11259,7 +11264,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 171597
+      "UsersEstimate": 171610
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -11267,7 +11272,7 @@
       "Name": "A Center for Ants?",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 18551
+      "UsersEstimate": 18552
     },
     {
       "ID": "AchievementStratosphereID",
@@ -11275,7 +11280,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 115944
+      "UsersEstimate": 115952
     },
     {
       "ID": "AchievementStreakingID",
@@ -11291,7 +11296,7 @@
       "Name": "401(K.O.)",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 32464
+      "UsersEstimate": 32467
     },
     {
       "ID": "AchievementThroneID",
@@ -11299,7 +11304,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 127538
+      "UsersEstimate": 127548
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -11307,7 +11312,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 108987
+      "UsersEstimate": 108995
     },
     {
       "ID": "AchievementTrinketID",
@@ -11323,7 +11328,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 150727
+      "UsersEstimate": 150738
     },
     {
       "ID": "AchievementWhaleID",
@@ -11331,14 +11336,14 @@
       "Name": "Real Buoy",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 60291
+      "UsersEstimate": 60295
     }
   ],
   "AchievementSets": [
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 231888,
+      "Progressed": 231905,
       "Completed": 766
     }
   ],
@@ -11346,8 +11351,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-07-10T18:01:42.9490167+00:00",
-  "LastChanged_Achievements": "2023-07-10T19:00:32.3379624+00:00",
+  "LastChanged_Achievements": "2023-07-10T20:01:31.2455011+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:00.698233+00:00",
-  "LastUpdate_Ratings": "2023-07-10T19:00:14.7014117+00:00",
-  "LastUpdate_Achievements": "2023-07-10T19:00:32.3380557+00:00"
+  "LastUpdate_Ratings": "2023-07-10T20:01:08.0422516+00:00",
+  "LastUpdate_Achievements": "2023-07-10T20:01:31.2455801+00:00"
 }
