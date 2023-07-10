@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1314,
+  "EOS_Progressed": 1315,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
@@ -1133,6 +1133,11 @@
       "Time": "2023-07-10T09:06:59.4389224+00:00",
       "NumProgressed": 1314,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-10T10:07:16.4171543+00:00",
+      "NumProgressed": 1315,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1144,7 +1149,7 @@
       "Name": "Lovebirds",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "10",
@@ -1152,7 +1157,7 @@
       "Name": "Perfect timing",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "11",
@@ -1176,7 +1181,7 @@
       "Name": "Unstoppable",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "14",
@@ -1208,7 +1213,7 @@
       "Name": "Balding bloot!",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1038
+      "UsersEstimate": 1039
     },
     {
       "ID": "18",
@@ -1304,7 +1309,7 @@
       "Name": "Hug therapy",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "30",
@@ -1352,7 +1357,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "7",
@@ -1383,15 +1388,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1314,
+      "Progressed": 1315,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-07-10T09:06:59.438921+00:00",
+  "LastChanged_Achievements": "2023-07-10T10:07:16.4171539+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:43.1478787+00:00",
-  "LastUpdate_Ratings": "2023-07-10T09:00:03.6242528+00:00",
-  "LastUpdate_Achievements": "2023-07-10T09:06:59.4389697+00:00"
+  "LastUpdate_Ratings": "2023-07-10T10:00:01.0583849+00:00",
+  "LastUpdate_Achievements": "2023-07-10T10:07:16.4171762+00:00"
 }

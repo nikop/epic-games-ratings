@@ -6,12 +6,12 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 89.00% | ~621,271 |
+| Escaped Tartarus | 89.00% | ~621,272 |
 | Escaped Asphodel | 80.00% | ~558,446 |
-| Arms Collector | 71.00% | ~495,620 |
+| Arms Collector | 71.00% | ~495,621 |
 | Friends in High Places | 68.00% | ~474,679 |
 | Escaped Elysium | 66.00% | ~460,718 |
-| Chthonic Colleagues | 63.00% | ~439,776 |
+| Chthonic Colleagues | 63.00% | ~439,777 |
 | Is There No Escape? | 52.00% | ~362,990 |
 | Death Dealer | 45.00% | ~314,126 |
 | Skelly Slayer | 42.00% | ~293,184 |
@@ -21,10 +21,10 @@ Number of Ratings: 6,336  (23.09.2022)
 | Blessed by the Gods | 37.00% | ~258,281 |
 | Urge to Sing | 36.00% | ~251,301 |
 | Blood Bound | 35.00% | ~244,320 |
-| Three-Headed Boy | 32.00% | ~223,378 |
+| Three-Headed Boy | 32.00% | ~223,379 |
 | River Denizens | 28.00% | ~195,456 |
 | Grown Close | 28.00% | ~195,456 |
-| Home Makeover | 27.00% | ~188,475 |
+| Home Makeover | 27.00% | ~188,476 |
 | Had to Happen | 25.00% | ~174,514 |
 | The Family Secret | 25.00% | ~174,514 |
 | Tools of the Architect | 23.00% | ~160,553 |
@@ -37,7 +37,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Well Versed | 17.00% | ~118,670 |
 | War-God's Bloodlust | 15.00% | ~104,709 |
 | Musician and Muse | 14.00% | ~97,728 |
-| Champion of Elysium | 13.00% | ~90,747 |
+| Champion of Elysium | 13.00% | ~90,748 |
 | The Useless Trinket | 12.00% | ~83,767 |
 | Slashed Benefits | 12.00% | ~83,767 |
 | Haste of Hermes | 11.00% | ~76,786 |
@@ -56,8 +56,8 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~27,922 |
 | Friends Forever | 4.00% | ~27,922 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 698,057 (Ranked 19)  
-Completed: 6,221 (0.89%) (Ranked 105)  
+Progressed: 698,058 (Ranked 19)  
+Completed: 6,222 (0.89%) (Ranked 105)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -137,7 +137,7 @@ Completed: 6,221 (0.89%) (Ranked 105)
 | 2023-07-07 | 697,821 | 6,217 |
 | 2023-07-08 | 697,918 | 6,220 |
 | 2023-07-09 | 698,031 | 6,220 |
-| 2023-07-10 | 698,057 | 6,221 |
+| 2023-07-10 | 698,058 | 6,222 |
 ## Awards
 Max (Character Customization): 3,171  (Ranked 89)  
 Sum: 7,676 (Ranked 98)  

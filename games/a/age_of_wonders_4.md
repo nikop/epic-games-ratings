@@ -5,13 +5,14 @@ Rating: 4.61 (Ranked 361)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 4.00% | ~198 |
-| Tipping the Scales | 4.00% | ~198 |
+| Secret Technique | 4.00% | ~199 |
+| Tipping the Scales | 4.00% | ~199 |
 | Realm Estate | 3.00% | ~149 |
 | A Wonderful Discovery | 3.00% | ~149 |
 | Walls Cannot Stop Us | 3.00% | ~149 |
 | From Friends to Family | 3.00% | ~149 |
 | Magical Synergy | 3.00% | ~149 |
+| My Final Form | 3.00% | ~149 |
 | Intimidation Tactics | 3.00% | ~149 |
 | Here be Dragons | 3.00% | ~149 |
 | Blood of the Dragon | 3.00% | ~149 |
@@ -22,7 +23,6 @@ Rating: 4.61 (Ranked 361)
 | Return of the Wizard King | 2.00% | ~99 |
 | Bone Peddler | 2.00% | ~99 |
 | Stronger Together | 2.00% | ~99 |
-| My Final Form | 2.00% | ~99 |
 | Seat of Power | 2.00% | ~99 |
 | In a Liege of Your Own | 2.00% | ~99 |
 | Fiery Friend | 2.00% | ~99 |
@@ -56,7 +56,7 @@ Rating: 4.61 (Ranked 361)
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,962 (Ranked 135)  
+Progressed: 4,963 (Ranked 135)  
 Completed: 5 (0.10%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 5 (0.10%) (Ranked 183)
 | 2023-07-07 | 4,937 | 5 |
 | 2023-07-08 | 4,954 | 5 |
 | 2023-07-09 | 4,959 | 5 |
-| 2023-07-10 | 4,962 | 5 |
+| 2023-07-10 | 4,963 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

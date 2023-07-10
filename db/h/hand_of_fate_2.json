@@ -862,9 +862,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 659094,
+  "EOS_Progressed": 659096,
   "EOS_Completed": 165,
-  "EOS_NewPlayers": 314,
+  "EOS_NewPlayers": 316,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8417,6 +8417,11 @@
       "Time": "2023-07-10T09:01:23.6140787+00:00",
       "NumProgressed": 659094,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-07-10T10:01:23.7494683+00:00",
+      "NumProgressed": 659096,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -8428,7 +8433,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 474548
+      "UsersEstimate": 474549
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -8436,7 +8441,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 382275
+      "UsersEstimate": 382276
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -8492,7 +8497,7 @@
       "Name": "Gambler",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 65909
+      "UsersEstimate": 65910
     },
     {
       "ID": "Achievement_10_Long_Shot",
@@ -8524,7 +8529,7 @@
       "Name": "Dice Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 65909
+      "UsersEstimate": 65910
     },
     {
       "ID": "Achievement_14_Magician",
@@ -8668,7 +8673,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 79091
+      "UsersEstimate": 79092
     },
     {
       "ID": "Achievement_32_Karma",
@@ -8708,7 +8713,7 @@
       "Name": "Swordsman",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 59318
+      "UsersEstimate": 59319
     },
     {
       "ID": "Achievement_37_Champion",
@@ -8811,15 +8816,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 659094,
+      "Progressed": 659096,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-07-06T22:58:14.2890682+00:00",
-  "LastChanged_Achievements": "2023-07-10T09:01:23.614078+00:00",
+  "LastChanged_Achievements": "2023-07-10T10:01:23.7494679+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:04.5984191+00:00",
-  "LastUpdate_Ratings": "2023-07-10T08:58:06.5677927+00:00",
-  "LastUpdate_Achievements": "2023-07-10T09:01:23.614181+00:00"
+  "LastUpdate_Ratings": "2023-07-10T09:58:01.3725352+00:00",
+  "LastUpdate_Achievements": "2023-07-10T10:01:23.7495407+00:00"
 }

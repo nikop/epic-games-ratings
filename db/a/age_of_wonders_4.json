@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -268,9 +268,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4962,
+  "EOS_Progressed": 4963,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5068,6 +5068,11 @@
       "Time": "2023-07-10T09:03:07.1015661+00:00",
       "NumProgressed": 4962,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-10T10:03:26.8859749+00:00",
+      "NumProgressed": 4963,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 50,
@@ -5207,7 +5212,7 @@
       "Name": "Secret Technique",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "25",
@@ -5277,9 +5282,9 @@
       "ID": "32",
       "SetID": "3aa2279",
       "Name": "My Final Form",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 149
     },
     {
       "ID": "33",
@@ -5439,7 +5444,7 @@
       "Name": "Tipping the Scales",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "47",
@@ -5478,13 +5483,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4962,
+      "Progressed": 4963,
       "Completed": 4760
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4962,
+      "Progressed": 4963,
       "Completed": 5
     }
   ],
@@ -5492,8 +5497,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-07-04T17:00:43.3128649+00:00",
-  "LastChanged_Achievements": "2023-07-10T09:03:07.1015646+00:00",
+  "LastChanged_Achievements": "2023-07-10T10:03:26.8859746+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:44.6563449+00:00",
-  "LastUpdate_Ratings": "2023-07-10T09:00:05.0487804+00:00",
-  "LastUpdate_Achievements": "2023-07-10T09:03:07.1016467+00:00"
+  "LastUpdate_Ratings": "2023-07-10T10:00:02.6314658+00:00",
+  "LastUpdate_Achievements": "2023-07-10T10:03:26.8860334+00:00"
 }

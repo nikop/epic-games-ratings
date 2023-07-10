@@ -1008,7 +1008,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4033,
+  "EOS_Progressed": 4034,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
@@ -5848,6 +5848,11 @@
       "Time": "2023-07-10T07:05:19.9129069+00:00",
       "NumProgressed": 4033,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-10T10:05:18.8880345+00:00",
+      "NumProgressed": 4034,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -6019,7 +6024,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3065
+      "UsersEstimate": 3066
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -6041,9 +6046,9 @@
       "ID": "ACH_MISSION_NOELECTION",
       "SetID": "1p8ab95",
       "Name": "We Don\u0027t Have Time For That",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 766
+      "UsersEstimate": 807
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -6178,15 +6183,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4033,
+      "Progressed": 4034,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-09T22:00:42.3216597+00:00",
-  "LastChanged_Achievements": "2023-07-10T09:05:05.309957+00:00",
+  "LastChanged_Achievements": "2023-07-10T10:05:18.8880343+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:41.4762855+00:00",
-  "LastUpdate_Ratings": "2023-07-10T09:00:48.2088702+00:00",
-  "LastUpdate_Achievements": "2023-07-10T09:05:05.3100213+00:00"
+  "LastUpdate_Ratings": "2023-07-10T10:00:47.8433317+00:00",
+  "LastUpdate_Achievements": "2023-07-10T10:05:18.8880807+00:00"
 }

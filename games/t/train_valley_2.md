@@ -6,7 +6,7 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 11.00% | ~83 |
+| Dealmaker | 12.00% | ~91 |
 | Full garage | 10.00% | ~76 |
 | Individual delivery | 9.00% | ~68 |
 | To the eyeballs! | 9.00% | ~68 |
@@ -14,11 +14,11 @@ Number of Ratings: 87  (23.09.2022)
 | Forgot something | 7.00% | ~53 |
 | Mega-railroad | 7.00% | ~53 |
 | Non-Stop | 7.00% | ~53 |
-| Close call! | 6.00% | ~45 |
-| Common cause | 6.00% | ~45 |
-| Get out my way | 6.00% | ~45 |
-| Just in time! | 6.00% | ~45 |
-| Upgrade complete | 6.00% | ~45 |
+| Close call! | 6.00% | ~46 |
+| Common cause | 6.00% | ~46 |
+| Get out my way | 6.00% | ~46 |
+| Just in time! | 6.00% | ~46 |
+| Upgrade complete | 6.00% | ~46 |
 | Builder | 5.00% | ~38 |
 | Critical care | 5.00% | ~38 |
 | Need to think | 5.00% | ~38 |
@@ -63,9 +63,9 @@ Number of Ratings: 87  (23.09.2022)
 | Information Age | 0.90% | ~1 |
 | Metro builder | 0.90% | ~7 |
 | Vostok | 0.90% | ~1 |
+| Highlander | 0.80% | ~6 |
 | Railroad tycoon | 0.80% | ~6 |
 | Astrochemist | 0.70% | ~1 |
-| Highlander | 0.70% | ~5 |
 | Miscalculation | 0.70% | ~5 |
 | Space Age | 0.70% | ~5 |
 | Arcturus | 0.40% | ~0 |
@@ -82,7 +82,7 @@ Number of Ratings: 87  (23.09.2022)
 | Gemologist | 0.00% | ~0 |
 | Jeweller | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 758 (Ranked 195)  
+Progressed: 759 (Ranked 195)  
 Completed: 1 (0.13%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,6 +125,7 @@ Completed: 1 (0.13%) (Ranked 178)
 | 2023-07-07 | 752 | 1 |
 | 2023-07-08 | 757 | 1 |
 | 2023-07-09 | 758 | 1 |
+| 2023-07-10 | 759 | 1 |
 ## Awards
 Max (Challenging Puzzles): 72  (Ranked 370)  
 Sum: 72 (Ranked 428)  

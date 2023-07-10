@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 428,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
@@ -277,9 +277,9 @@
       "Count": 72
     }
   ],
-  "EOS_Progressed": 758,
+  "EOS_Progressed": 759,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -597,6 +597,11 @@
       "Time": "2023-07-09T23:05:43.7793753+00:00",
       "NumProgressed": 758,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-10T10:06:13.181993+00:00",
+      "NumProgressed": 759,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -712,7 +717,7 @@
       "Name": "Close call!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "AchievementCommonCause",
@@ -720,7 +725,7 @@
       "Name": "Common cause",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "AchievementCriticalCare",
@@ -734,9 +739,9 @@
       "ID": "AchievementDealmaker",
       "SetID": "76o014g",
       "Name": "Dealmaker",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 91
     },
     {
       "ID": "AchievementDigitalAge_NAME",
@@ -808,7 +813,7 @@
       "Name": "Get out my way",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "AchievementGlobalisationAge",
@@ -822,9 +827,9 @@
       "ID": "AchievementHighlander",
       "SetID": "76o014g",
       "Name": "Highlander",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "AchievementIndividualDelivery",
@@ -896,7 +901,7 @@
       "Name": "Just in time!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "AchievementLargeConstruction",
@@ -1144,7 +1149,7 @@
       "Name": "Upgrade complete",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "AchievementUrbanizationAge",
@@ -1207,21 +1212,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 99,
+      "Progressed": 100,
       "Completed": 6
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 758,
+      "Progressed": 759,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-06-28T09:58:02.8229732+00:00",
-  "LastChanged_Achievements": "2023-07-10T09:05:58.0832332+00:00",
+  "LastChanged_Achievements": "2023-07-10T10:06:13.1819926+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:50.3569514+00:00",
-  "LastUpdate_Ratings": "2023-07-10T08:57:59.6130922+00:00",
-  "LastUpdate_Achievements": "2023-07-10T09:05:58.0833754+00:00"
+  "LastUpdate_Ratings": "2023-07-10T09:57:54.6359771+00:00",
+  "LastUpdate_Achievements": "2023-07-10T10:06:13.1820561+00:00"
 }

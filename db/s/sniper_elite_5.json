@@ -392,7 +392,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3249,
+  "EOS_Progressed": 3250,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 3,
@@ -4887,6 +4887,11 @@
       "Time": "2023-07-10T06:02:21.9328693+00:00",
       "NumProgressed": 3249,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-10T10:03:28.4447594+00:00",
+      "NumProgressed": 3250,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -5042,7 +5047,7 @@
       "Name": "The Long Game",
       "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "REWARD_28_AMBUSH_KING",
@@ -5465,13 +5470,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3200,
+      "Progressed": 3201,
       "Completed": 13
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3249,
+      "Progressed": 3250,
       "Completed": 9
     }
   ],
@@ -5479,8 +5484,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-09T23:00:54.8044631+00:00",
-  "LastChanged_Achievements": "2023-07-10T09:03:08.578093+00:00",
+  "LastChanged_Achievements": "2023-07-10T10:03:28.444759+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:07.1687539+00:00",
-  "LastUpdate_Ratings": "2023-07-10T09:01:11.9600882+00:00",
-  "LastUpdate_Achievements": "2023-07-10T09:03:08.5782299+00:00"
+  "LastUpdate_Ratings": "2023-07-10T10:01:10.4503843+00:00",
+  "LastUpdate_Achievements": "2023-07-10T10:03:28.4448354+00:00"
 }

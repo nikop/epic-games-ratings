@@ -5,36 +5,36 @@ Rating: 4.46 (Ranked 607)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 74.00% | ~1,120 |
-| A new Journey | 73.00% | ~1,105 |
-| Departure | 72.00% | ~1,090 |
-| From X to Y | 71.00% | ~1,075 |
+| Country Bumpkin | 74.00% | ~1,121 |
+| A new Journey | 73.00% | ~1,106 |
+| Departure | 72.00% | ~1,091 |
+| From X to Y | 71.00% | ~1,076 |
 | Way of Iron | 70.00% | ~1,060 |
 | Mystery Tour | 68.00% | ~1,030 |
-| We brake for nobody | 66.00% | ~999 |
-| Brainstorm | 65.00% | ~984 |
-| Travel Company | 65.00% | ~984 |
-| Mind the Gap | 64.00% | ~969 |
+| We brake for nobody | 66.00% | ~1,000 |
+| Brainstorm | 65.00% | ~985 |
+| Mind the Gap | 64.00% | ~970 |
+| Travel Company | 64.00% | ~970 |
 | All around the World | 62.00% | ~939 |
-| Right through the middle | 57.00% | ~863 |
+| Right through the middle | 57.00% | ~864 |
 | Facility Manager | 54.00% | ~818 |
 | Poor Devil | 54.00% | ~818 |
-| Producer | 51.00% | ~772 |
+| Producer | 51.00% | ~773 |
 | Apprentice | 42.00% | ~636 |
 | Bridge Builder | 42.00% | ~636 |
 | Access granted | 35.00% | ~530 |
 | Going once, going twice, sold | 35.00% | ~530 |
 | Stoker | 33.00% | ~500 |
 | Bull and bear | 33.00% | ~500 |
-| Full Steam ahead | 32.00% | ~484 |
+| Full Steam ahead | 32.00% | ~485 |
 | Financial Shark | 30.00% | ~454 |
 | All mine | 29.00% | ~439 |
 | Mole | 29.00% | ~439 |
 | Socializer | 27.00% | ~409 |
 | General Manager | 26.00% | ~394 |
 | Country Life | 26.00% | ~394 |
-| Hostile Takeover | 25.00% | ~378 |
-| Seven at one stroke | 24.00% | ~363 |
+| Hostile Takeover | 25.00% | ~379 |
+| Seven at one stroke | 24.00% | ~364 |
 | Trailblazer | 20.00% | ~303 |
 | Breaking Ground | 20.00% | ~303 |
 | Traffic Junction | 19.00% | ~288 |
@@ -47,7 +47,7 @@ Rating: 4.46 (Ranked 607)
 | Settler | 13.00% | ~197 |
 | Go West | 12.00% | ~182 |
 | Bold and beautiful | 11.00% | ~167 |
-| A new Hope | 10.00% | ~151 |
+| A new Hope | 10.00% | ~152 |
 | Tycoon | 9.00% | ~136 |
 | Unstoppable | 7.00% | ~106 |
 | Track to the Future | 7.00% | ~106 |
@@ -61,7 +61,7 @@ Rating: 4.46 (Ranked 607)
 | United States | 0.30% | ~5 |
 | Three Cheers for Progress | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,514 (Ranked 170)  
+Progressed: 1,515 (Ranked 170)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-07 | 1,487 | 0 |
 | 2023-07-08 | 1,500 | 0 |
 | 2023-07-09 | 1,512 | 0 |
-| 2023-07-10 | 1,514 | 0 |
+| 2023-07-10 | 1,515 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
