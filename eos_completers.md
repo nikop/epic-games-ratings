@@ -31,28 +31,28 @@
 | 29 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.85% |
 | 30 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.82% |
 | 31 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.76% |
-| 32 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
-| 33 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 34 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.71% |
-| 35 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
-| 36 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.13% |
-| 37 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.08% |
-| 38 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.91% |
-| 39 | [JARS](games/j/jars.md) | 4.84% |
-| 40 | [Bugsnax](games/b/bugsnax.md) | 4.68% |
-| 41 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.61% |
-| 42 | [Without Escape](games/w/without_escape.md) | 4.55% |
-| 43 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.40% |
-| 44 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.91% |
-| 45 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.70% |
-| 46 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
-| 47 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.63% |
-| 48 | [Doodle God](games/d/doodle_god.md) | 3.56% |
-| 49 | [ZZT!](games/z/zzt!.md) | 3.53% |
-| 50 | [Bunny Park](games/b/bunny_park.md) | 3.42% |
-| 51 | [Monster Harvest](games/m/monster_harvest.md) | 3.38% |
-| 52 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 3.33% |
-| 52 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.33% |
+| 32 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 6.67% |
+| 33 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
+| 34 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
+| 35 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.71% |
+| 36 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
+| 37 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.13% |
+| 38 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.08% |
+| 39 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.91% |
+| 40 | [JARS](games/j/jars.md) | 4.84% |
+| 41 | [Bugsnax](games/b/bugsnax.md) | 4.68% |
+| 42 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.61% |
+| 43 | [Without Escape](games/w/without_escape.md) | 4.55% |
+| 44 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.40% |
+| 45 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.91% |
+| 46 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.79% |
+| 47 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
+| 48 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.63% |
+| 49 | [Doodle God](games/d/doodle_god.md) | 3.56% |
+| 50 | [ZZT!](games/z/zzt!.md) | 3.53% |
+| 51 | [Bunny Park](games/b/bunny_park.md) | 3.42% |
+| 52 | [Monster Harvest](games/m/monster_harvest.md) | 3.38% |
+| 53 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.33% |
 | 54 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.24% |
 | 55 | [The Complex](games/t/the_complex.md) | 3.09% |
 | 56 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.08% |
@@ -106,7 +106,7 @@
 | 104 | [Adios](games/a/adios.md) | 0.95% |
 | 105 | [Hades](games/h/hades.md) | 0.89% |
 | 106 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
-| 107 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
+| 107 | [Dungeons 3](games/d/dungeons_3.md) | 0.84% |
 | 108 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.77% |
 | 108 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.77% |
 | 110 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
