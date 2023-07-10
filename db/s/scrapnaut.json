@@ -990,9 +990,9 @@
       "ID": "ACH_SURVIVE_10_DAYS",
       "SetID": "7c4cldc",
       "Name": "Survivor",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_SURVIVE_20_DAYS",
@@ -1031,8 +1031,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-07-10T07:03:16.2295822+00:00",
+  "LastChanged_Achievements": "2023-07-10T08:03:21.1573813+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:16.8374592+00:00",
-  "LastUpdate_Ratings": "2023-07-10T06:59:14.5841841+00:00",
-  "LastUpdate_Achievements": "2023-07-10T07:03:16.2296102+00:00"
+  "LastUpdate_Ratings": "2023-07-10T07:58:42.7542721+00:00",
+  "LastUpdate_Achievements": "2023-07-10T08:03:21.1574088+00:00"
 }

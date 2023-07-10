@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 928,
+  "EOS_Progressed": 929,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 445,
   "EOS_NewCompleters": 1,
@@ -1126,6 +1126,11 @@
       "Time": "2023-07-10T07:04:45.3922293+00:00",
       "NumProgressed": 928,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-10T08:04:24.1699257+00:00",
+      "NumProgressed": 929,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 16,
@@ -1185,7 +1190,7 @@
       "Name": "Architecture - unlocked",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "ach_bomb",
@@ -1233,7 +1238,7 @@
       "Name": "Game opened",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "ach_magic_wand",
@@ -1249,7 +1254,7 @@
       "Name": "Master",
       "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "ach_tornado",
@@ -1264,14 +1269,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 928,
+      "Progressed": 929,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-07-10T07:04:45.3922287+00:00",
+  "LastChanged_Achievements": "2023-07-10T08:04:24.1699252+00:00",
   "LastUpdate_AppInfo": "2023-07-07T08:57:12.6821142+00:00",
-  "LastUpdate_Ratings": "2023-07-10T06:57:15.194226+00:00",
-  "LastUpdate_Achievements": "2023-07-10T07:04:45.3922481+00:00"
+  "LastUpdate_Ratings": "2023-07-10T07:57:19.078006+00:00",
+  "LastUpdate_Achievements": "2023-07-10T08:04:24.1699458+00:00"
 }

@@ -6,23 +6,23 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,426 |
-| The Mad Wizard | 11.00% | ~23,046 |
-| The Ring of Regeneration | 7.00% | ~14,665 |
-| Are Ya Chicken? | 7.00% | ~14,665 |
-| Were-verpowered | 6.00% | ~12,570 |
-| Seeking Allies | 5.00% | ~10,475 |
-| Mad Cow Disease | 5.00% | ~10,475 |
-| Friendly Imps | 5.00% | ~10,475 |
-| A Persistent Buzzing | 4.00% | ~8,380 |
-| Pure Energy | 4.00% | ~8,380 |
-| Beast Mode | 3.00% | ~6,285 |
-| Terror in the Dark | 3.00% | ~6,285 |
-| Unearthed Evil | 3.00% | ~6,285 |
-| The Crumbling Temple | 3.00% | ~6,285 |
-| Exploring Port Nyanzaru | 3.00% | ~6,285 |
-| The Contagious Curse | 3.00% | ~6,285 |
-| Escort to Waterdeep | 3.00% | ~6,285 |
+| The Cursed Farmer | 15.00% | ~31,428 |
+| The Mad Wizard | 11.00% | ~23,047 |
+| The Ring of Regeneration | 7.00% | ~14,666 |
+| Are Ya Chicken? | 7.00% | ~14,666 |
+| Were-verpowered | 6.00% | ~12,571 |
+| Seeking Allies | 5.00% | ~10,476 |
+| Mad Cow Disease | 5.00% | ~10,476 |
+| Friendly Imps | 5.00% | ~10,476 |
+| A Persistent Buzzing | 4.00% | ~8,381 |
+| Pure Energy | 4.00% | ~8,381 |
+| Beast Mode | 3.00% | ~6,286 |
+| Terror in the Dark | 3.00% | ~6,286 |
+| Unearthed Evil | 3.00% | ~6,286 |
+| The Crumbling Temple | 3.00% | ~6,286 |
+| Exploring Port Nyanzaru | 3.00% | ~6,286 |
+| The Contagious Curse | 3.00% | ~6,286 |
+| Escort to Waterdeep | 3.00% | ~6,286 |
 | Low Initiative | 2.00% | ~4,190 |
 | A Mysterious Summons | 2.00% | ~4,190 |
 | Building Trust | 2.00% | ~4,190 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209,505 (Ranked 52)  
+Progressed: 209,519 (Ranked 52)  
 Completed: 2,043 (0.98%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -591,7 +591,7 @@ Completed: 2,043 (0.98%) (Ranked 102)
 | 2023-07-07 | 208,152 | 2,037 |
 | 2023-07-08 | 208,782 | 2,041 |
 | 2023-07-09 | 209,384 | 2,043 |
-| 2023-07-10 | 209,505 | 2,043 |
+| 2023-07-10 | 209,519 | 2,043 |
 ## Awards
 Max (Diverse Characters): 5,021  (Ranked 65)  
 Sum: 30,464 (Ranked 37)  

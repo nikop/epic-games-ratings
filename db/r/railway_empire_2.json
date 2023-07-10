@@ -3169,9 +3169,9 @@
       "ID": "A03",
       "SetID": "9b7p7eo",
       "Name": "Resistance is futile",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 242
     },
     {
       "ID": "A04",
@@ -3594,8 +3594,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-07-07T23:58:34.1742751+00:00",
-  "LastChanged_Achievements": "2023-07-10T07:02:12.2061661+00:00",
+  "LastChanged_Achievements": "2023-07-10T08:00:47.1617157+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:45.6342045+00:00",
-  "LastUpdate_Ratings": "2023-07-10T06:58:45.0973193+00:00",
-  "LastUpdate_Achievements": "2023-07-10T07:02:12.2062487+00:00"
+  "LastUpdate_Ratings": "2023-07-10T07:58:23.6869574+00:00",
+  "LastUpdate_Achievements": "2023-07-10T08:00:47.1617915+00:00"
 }

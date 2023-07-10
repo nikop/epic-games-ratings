@@ -1207,9 +1207,9 @@
       "ID": "ACHIEVEMENT_SCENARIO_DISEASE",
       "SetID": "9eacipp",
       "Name": "Panacea",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_DRAUGHT",
@@ -1575,8 +1575,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-07-10T07:03:46.6552523+00:00",
+  "LastChanged_Achievements": "2023-07-10T08:03:42.8334184+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:35.0045065+00:00",
-  "LastUpdate_Ratings": "2023-07-10T06:58:35.0984232+00:00",
-  "LastUpdate_Achievements": "2023-07-10T07:03:46.6553994+00:00"
+  "LastUpdate_Ratings": "2023-07-10T07:58:17.864779+00:00",
+  "LastUpdate_Achievements": "2023-07-10T08:03:42.8335487+00:00"
 }

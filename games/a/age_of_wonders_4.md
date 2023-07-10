@@ -19,6 +19,7 @@ Rating: 4.61 (Ranked 361)
 | Mighty Hoard | 3.00% | ~149 |
 | There Can Only Be One! | 2.00% | ~99 |
 | Full Ascension | 2.00% | ~99 |
+| Return of the Wizard King | 2.00% | ~99 |
 | Bone Peddler | 2.00% | ~99 |
 | Stronger Together | 2.00% | ~99 |
 | Seat of Power | 2.00% | ~99 |
@@ -28,7 +29,6 @@ Rating: 4.61 (Ranked 361)
 | Impenetrable Fortress | 2.00% | ~99 |
 | Valley of Wonders | 1.00% | ~50 |
 | The Magic That Empowers Me! | 1.00% | ~50 |
-| Return of the Wizard King | 1.00% | ~50 |
 | God Emperor | 1.00% | ~50 |
 | Arch Mage | 1.00% | ~50 |
 | The Creator | 1.00% | ~50 |
@@ -37,11 +37,11 @@ Rating: 4.61 (Ranked 361)
 | Eternal Lord | 1.00% | ~50 |
 | Digging for Treasure | 1.00% | ~50 |
 | Preparation Is Everything | 1.00% | ~50 |
+| The Eternal Court | 1.00% | ~50 |
 | Duality | 1.00% | ~50 |
 | Lord of Chaos | 0.90% | ~45 |
 | Crimson Caldera | 0.90% | ~45 |
-| The Eternal Court | 0.90% | ~45 |
-| Jack of All Tomes | 0.80% | ~40 |
+| Jack of All Tomes | 0.90% | ~45 |
 | Grexolis | 0.70% | ~35 |
 | One for All, All for One | 0.70% | ~35 |
 | Pruning for Progress | 0.60% | ~30 |

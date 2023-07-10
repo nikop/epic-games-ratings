@@ -39,10 +39,10 @@ Rating: 4.46 (Ranked 607)
 | Breaking Ground | 20.00% | ~303 |
 | Traffic Junction | 19.00% | ~288 |
 | Traffic Jam | 18.00% | ~273 |
+| Resistance is futile | 16.00% | ~242 |
 | Assimilated | 16.00% | ~242 |
 | Locusts | 16.00% | ~242 |
 | Networker | 16.00% | ~242 |
-| Resistance is futile | 15.00% | ~227 |
 | Max Power | 13.00% | ~197 |
 | Settler | 13.00% | ~197 |
 | Go West | 12.00% | ~182 |

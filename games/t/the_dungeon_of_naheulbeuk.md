@@ -6,35 +6,35 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 58.00% | ~101,818 |
-| Where's that freaking Dwarf? | 45.00% | ~78,997 |
-| GG EZ | 27.00% | ~47,398 |
-| Speedrun | 26.00% | ~45,643 |
-| Déjà vu | 20.00% | ~35,110 |
-| Sock! SOCK! | 14.00% | ~24,577 |
-| DM intervention | 12.00% | ~21,066 |
-| Fireproof Wizardess | 7.00% | ~12,288 |
-| A beer, two curses, three companions | 6.00% | ~10,533 |
-| Way of the Wimp | 5.00% | ~8,777 |
-| Livin' in a dwarven paradise | 4.00% | ~7,022 |
-| The plot thickens... At the tavern | 4.00% | ~7,022 |
-| The Woman in the High Castle | 3.00% | ~5,266 |
-| Team Building Exercise | 3.00% | ~5,266 |
-| The demons' feast | 2.00% | ~3,511 |
-| Res Judicata | 2.00% | ~3,511 |
-| I am the night | 2.00% | ~3,511 |
-| Shiny and Crôm | 1.00% | ~1,755 |
-| The Great Library | 1.00% | ~1,755 |
-| Dwarf Fortress | 1.00% | ~1,755 |
-| The Ranger of Chaos | 1.00% | ~1,755 |
-| Oh, when I'll be level 10... | 1.00% | ~1,755 |
+| Alt+F4 | 58.00% | ~101,850 |
+| Where's that freaking Dwarf? | 45.00% | ~79,022 |
+| GG EZ | 27.00% | ~47,413 |
+| Speedrun | 26.00% | ~45,657 |
+| Déjà vu | 20.00% | ~35,121 |
+| Sock! SOCK! | 14.00% | ~24,585 |
+| DM intervention | 12.00% | ~21,072 |
+| Fireproof Wizardess | 7.00% | ~12,292 |
+| A beer, two curses, three companions | 6.00% | ~10,536 |
+| Way of the Wimp | 5.00% | ~8,780 |
+| Livin' in a dwarven paradise | 4.00% | ~7,024 |
+| The plot thickens... At the tavern | 4.00% | ~7,024 |
+| The Woman in the High Castle | 3.00% | ~5,268 |
+| Team Building Exercise | 3.00% | ~5,268 |
+| The demons' feast | 2.00% | ~3,512 |
+| Res Judicata | 2.00% | ~3,512 |
+| I am the night | 2.00% | ~3,512 |
+| Shiny and Crôm | 1.00% | ~1,756 |
+| The Great Library | 1.00% | ~1,756 |
+| Dwarf Fortress | 1.00% | ~1,756 |
+| The Ranger of Chaos | 1.00% | ~1,756 |
+| Oh, when I'll be level 10... | 1.00% | ~1,756 |
 | Torture and Sensibility | 0.90% | ~1,580 |
 | Thieves' Guild Accreditation | 0.90% | ~1,580 |
 | The beards of change | 0.70% | ~1,229 |
 | Lust and Debauchery | 0.70% | ~1,229 |
 | Material Girl | 0.70% | ~1,229 |
-| Gargantua | 0.60% | ~1,053 |
-| In Navalu's footsteps | 0.60% | ~1,053 |
+| Gargantua | 0.60% | ~1,054 |
+| In Navalu's footsteps | 0.60% | ~1,054 |
 | Urik's Depths | 0.50% | ~878 |
 | Look but don't touch | 0.50% | ~878 |
 | Lëgal Legend | 0.50% | ~878 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 175,549 (Ranked 58)  
+Progressed: 175,604 (Ranked 58)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-07 | 166,795 | 0 |
 | 2023-07-08 | 171,176 | 0 |
 | 2023-07-09 | 174,947 | 0 |
-| 2023-07-10 | 175,549 | 0 |
+| 2023-07-10 | 175,604 | 0 |
 ## Awards
 Max (Character Customization): 82  (Ranked 353)  
 Sum: 82 (Ranked 418)  

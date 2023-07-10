@@ -6,20 +6,20 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~708,753 |
-| The Blues | 85.00% | ~608,525 |
-| Fast | 66.00% | ~472,502 |
+| Out of bed | 99.00% | ~708,754 |
+| The Blues | 85.00% | ~608,526 |
+| Fast | 66.00% | ~472,503 |
 | Healthbar | 55.00% | ~393,752 |
-| Force Cube | 53.00% | ~379,433 |
+| Force Cube | 53.00% | ~379,434 |
 | Double Jump | 48.00% | ~343,638 |
 | Regeneration | 47.00% | ~336,479 |
 | Climb the hill | 42.00% | ~300,683 |
 | Triple Jump | 42.00% | ~300,683 |
 | Through the fire pipe | 38.00% | ~272,047 |
 | MacGuffin | 38.00% | ~272,047 |
-| Just once | 36.00% | ~257,728 |
+| Just once | 36.00% | ~257,729 |
 | Armor | 30.00% | ~214,774 |
-| True holy spirit | 27.00% | ~193,296 |
+| True holy spirit | 27.00% | ~193,297 |
 | That's how electronics work obviously | 26.00% | ~186,137 |
 | Force Cube Catapult | 25.00% | ~178,978 |
 | Holy Sword | 23.00% | ~164,660 |
@@ -36,8 +36,8 @@ Number of Ratings: 25,175  (23.09.2022)
 | 9 | 13.00% | ~93,069 |
 | Purple Cube | 13.00% | ~93,069 |
 | Supraball Noob | 13.00% | ~93,069 |
-| Helped a star | 12.00% | ~85,909 |
-| Strong | 12.00% | ~85,909 |
+| Helped a star | 12.00% | ~85,910 |
+| Strong | 12.00% | ~85,910 |
 | Blue King's lair | 11.00% | ~78,750 |
 | Got the gun back | 11.00% | ~78,750 |
 | Infiltrated | 11.00% | ~78,750 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~716 |
 | DLC: Top of the world | 0.10% | ~716 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,912 (Ranked 16)  
+Progressed: 715,913 (Ranked 16)  
 Completed: 707 (0.10%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 707 (0.10%) (Ranked 183)
 | 2023-07-07 | 715,496 | 706 |
 | 2023-07-08 | 715,684 | 706 |
 | 2023-07-09 | 715,871 | 707 |
-| 2023-07-10 | 715,912 | 707 |
+| 2023-07-10 | 715,913 | 707 |
 ## Awards
 Max (Challenging Puzzles): 7,641  (Ranked 43)  
 Sum: 9,952 (Ranked 81)  

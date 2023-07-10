@@ -3,7 +3,7 @@
   "Name": "For The King",
   "ProductSlug": "for-the-king",
   "Ranking_Rating": 196,
-  "Ranking_Popularity": 215,
+  "Ranking_Popularity": 216,
   "Ranking_PopularitySum": 166,
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
@@ -2860,10 +2860,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 2857,
       "NumberOfAwardsMax": 374
+    },
+    {
+      "Time": "2023-07-10T07:59:14.1782737+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2858,
+      "NumberOfAwardsMax": 374
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2857,
+  "NumberOfAwards": 2858,
   "NumberOfAwardsMax": 374,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2889,7 +2895,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 325
+      "Count": 326
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2939,8 +2945,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:13.7495529+00:00",
-  "LastChanged": "2023-07-08T20:59:53.6341193+00:00",
+  "LastChanged": "2023-07-10T07:59:14.1782735+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:07.3170563+00:00",
-  "LastUpdate_Ratings": "2023-07-10T07:00:00.587374+00:00",
-  "LastUpdate_Achievements": "2023-07-10T07:03:09.8226531+00:00"
+  "LastUpdate_Ratings": "2023-07-10T07:59:14.1782741+00:00",
+  "LastUpdate_Achievements": "2023-07-10T08:03:17.9100561+00:00"
 }

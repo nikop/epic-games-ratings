@@ -24,8 +24,8 @@
 | Grave Digger | 16.00% | ~18 |
 | This Is My Boomstick | 14.00% | ~16 |
 | Summers Here | 12.00% | ~14 |
+| Pork Chop Express | 11.00% | ~18 |
 | Skin Of Your Teeth | 10.00% | ~16 |
-| Pork Chop Express | 10.00% | ~16 |
 | Eggtraordinary | 10.00% | ~16 |
 | Carrocketeer | 10.00% | ~16 |
 | Oh My Gourd | 9.00% | ~10 |

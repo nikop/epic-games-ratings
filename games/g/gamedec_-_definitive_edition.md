@@ -6,9 +6,9 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~66,219 |
-| Powergamer | 27.00% | ~63,854 |
-| Barely scratched the surface | 25.00% | ~59,124 |
+| I will finish what you started | 28.00% | ~66,220 |
+| Powergamer | 27.00% | ~63,855 |
+| Barely scratched the surface | 25.00% | ~59,125 |
 | Write that down | 24.00% | ~56,760 |
 | Guns, lots of guns | 12.00% | ~28,380 |
 | Collector | 11.00% | ~26,015 |
@@ -42,7 +42,7 @@ Number of Ratings: 33  (23.09.2022)
 | SysOp on duty | 1.00% | ~2,365 |
 | Take the blue pill | 1.00% | ~2,365 |
 | The power of three | 1.00% | ~2,365 |
-| A true blacksmith | 0.90% | ~2,128 |
+| A true blacksmith | 0.90% | ~2,129 |
 | Let's try another | 0.80% | ~1,892 |
 | Home run | 0.80% | ~1,892 |
 | I have the high ground | 0.70% | ~1,655 |
@@ -51,15 +51,15 @@ Number of Ratings: 33  (23.09.2022)
 | Enjoy these little moments | 0.40% | ~946 |
 | Irondec | 0.40% | ~946 |
 | Un-bear-able | 0.40% | ~946 |
-| LET ME OUT! | 0.30% | ~709 |
-| Well-deserved reunion | 0.30% | ~709 |
+| LET ME OUT! | 0.30% | ~710 |
+| Well-deserved reunion | 0.30% | ~710 |
 | Breaking the chains | 0.20% | ~473 |
 | Aren't you overthinking? | 0.20% | ~473 |
 | Take the red pill | 0.20% | ~473 |
 | This is the way | 0.20% | ~473 |
 | Memory 5 | 0.10% | ~236 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,498 (Ranked 45)  
+Progressed: 236,500 (Ranked 45)  
 Completed: 7 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 7 (0.00%) (Ranked 237)
 | 2023-07-07 | 236,094 | 7 |
 | 2023-07-08 | 236,274 | 7 |
 | 2023-07-09 | 236,467 | 7 |
-| 2023-07-10 | 236,498 | 7 |
+| 2023-07-10 | 236,500 | 7 |
 ## Awards
 Max (Character Customization): 74  (Ranked 363)  
 Sum: 74 (Ranked 425)  

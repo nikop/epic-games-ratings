@@ -2,9 +2,9 @@
   "ID": "929e7d2e310b44a0a2af387a803a8ec1",
   "Name": "EBOLA 3",
   "ProductSlug": "ebola-3-2c79e9",
-  "Ranking_EOS_Progress": 266,
+  "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 207,
+  "EOS_Progressed": 208,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -863,6 +863,11 @@
       "Time": "2023-07-09T19:02:42.1198739+00:00",
       "NumProgressed": 207,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-10T08:03:16.1670167+00:00",
+      "NumProgressed": 208,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -936,9 +941,9 @@
       "ID": "achChest",
       "SetID": "72gjli4",
       "Name": "Chest \u2714",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 110
     },
     {
       "ID": "achCity",
@@ -1072,9 +1077,9 @@
       "ID": "achKloyn",
       "SetID": "72gjli4",
       "Name": "Fright \u2714",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 116
     },
     {
       "ID": "achLizun",
@@ -1144,9 +1149,9 @@
       "ID": "achPolice",
       "SetID": "72gjli4",
       "Name": "Police officers \u2714",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 52
     },
     {
       "ID": "achPriest",
@@ -1250,7 +1255,7 @@
       "Name": "Thirst \u2714",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "achWeapon",
@@ -1273,7 +1278,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 207,
+      "Progressed": 208,
       "Completed": 0
     }
   ],
@@ -1281,8 +1286,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-07-10T07:03:04.7667997+00:00",
+  "LastChanged_Achievements": "2023-07-10T08:03:16.1670162+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:46.4476605+00:00",
-  "LastUpdate_Ratings": "2023-07-10T07:01:32.1411817+00:00",
-  "LastUpdate_Achievements": "2023-07-10T07:03:04.7668584+00:00"
+  "LastUpdate_Ratings": "2023-07-10T08:00:18.2918311+00:00",
+  "LastUpdate_Achievements": "2023-07-10T08:03:16.1670663+00:00"
 }

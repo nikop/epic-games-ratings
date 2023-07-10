@@ -5120,9 +5120,9 @@
       "ID": "15",
       "SetID": "3aa2279",
       "Name": "Return of the Wizard King",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 99
     },
     {
       "ID": "16",
@@ -5336,9 +5336,9 @@
       "ID": "4",
       "SetID": "3aa2279",
       "Name": "The Eternal Court",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 45
+      "UsersEstimate": 50
     },
     {
       "ID": "40",
@@ -5352,9 +5352,9 @@
       "ID": "41",
       "SetID": "3aa2279",
       "Name": "Jack of All Tomes",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 45
     },
     {
       "ID": "42",
@@ -5487,8 +5487,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-07-04T17:00:43.3128649+00:00",
-  "LastChanged_Achievements": "2023-07-10T07:03:13.8762693+00:00",
+  "LastChanged_Achievements": "2023-07-10T08:03:19.5130269+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:44.6563449+00:00",
-  "LastUpdate_Ratings": "2023-07-10T07:00:35.1471189+00:00",
-  "LastUpdate_Achievements": "2023-07-10T07:03:13.876375+00:00"
+  "LastUpdate_Ratings": "2023-07-10T07:59:38.490105+00:00",
+  "LastUpdate_Achievements": "2023-07-10T08:03:19.5131038+00:00"
 }

@@ -2727,9 +2727,9 @@
       "ID": "achHq",
       "SetID": "dgl390n",
       "Name": "Settled down",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 674
+      "UsersEstimate": 688
     },
     {
       "ID": "achHq20",
@@ -2927,8 +2927,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-07-08T14:00:25.0323346+00:00",
-  "LastChanged_Achievements": "2023-07-10T07:02:12.1686584+00:00",
+  "LastChanged_Achievements": "2023-07-10T08:00:47.0488314+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:59.47484+00:00",
-  "LastUpdate_Ratings": "2023-07-10T07:00:52.7768625+00:00",
-  "LastUpdate_Achievements": "2023-07-10T07:02:12.1687469+00:00"
+  "LastUpdate_Ratings": "2023-07-10T07:59:51.8665811+00:00",
+  "LastUpdate_Achievements": "2023-07-10T08:00:47.0489079+00:00"
 }

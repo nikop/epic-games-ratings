@@ -6,19 +6,19 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 89.00% | ~891,417 |
-| I Need a Bigger Garage | 63.00% | ~631,003 |
-| Pump my Ride | 46.00% | ~460,732 |
-| Ghostbuster | 32.00% | ~320,509 |
-| That Was Close | 18.00% | ~180,287 |
-| Call Roadside Assistance | 17.00% | ~170,271 |
-| Quickie | 10.00% | ~100,159 |
-| California Dreamer | 7.00% | ~70,111 |
-| Can't Touch This | 5.00% | ~50,080 |
-| Carménère Taster | 3.00% | ~30,048 |
-| Comeback | 3.00% | ~30,048 |
-| Marathonist | 3.00% | ~30,048 |
-| Living Legend | 3.00% | ~30,048 |
+| The First of Many | 89.00% | ~891,440 |
+| I Need a Bigger Garage | 63.00% | ~631,019 |
+| Pump my Ride | 46.00% | ~460,744 |
+| Ghostbuster | 32.00% | ~320,518 |
+| That Was Close | 18.00% | ~180,291 |
+| Call Roadside Assistance | 17.00% | ~170,275 |
+| Quickie | 10.00% | ~100,162 |
+| California Dreamer | 7.00% | ~70,113 |
+| Can't Touch This | 5.00% | ~50,081 |
+| Carménère Taster | 3.00% | ~30,049 |
+| Comeback | 3.00% | ~30,049 |
+| Marathonist | 3.00% | ~30,049 |
+| Living Legend | 3.00% | ~30,049 |
 | Driver from Ipanema | 2.00% | ~20,032 |
 | Pathfinder | 2.00% | ~20,032 |
 | Go-Kart Champion | 2.00% | ~20,032 |
@@ -31,8 +31,8 @@ Number of Ratings: 1,343  (23.09.2022)
 | Round the Globe | 1.00% | ~10,016 |
 | Golden Passport | 1.00% | ~10,016 |
 | Brave and Bold | 1.00% | ~10,016 |
-| Crocodile Hunter | 0.90% | ~9,014 |
-| Bollywood Star | 0.90% | ~9,014 |
+| Crocodile Hunter | 0.90% | ~9,015 |
+| Bollywood Star | 0.90% | ~9,015 |
 | Old Master | 0.80% | ~8,013 |
 | Otaku | 0.80% | ~8,013 |
 | Volcano Surfer | 0.70% | ~7,011 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,002 |
 | Look Mom, No Hands! | 0.10% | ~1,002 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,001,592 (Ranked 12)  
+Progressed: 1,001,618 (Ranked 12)  
 Completed: 344 (0.03%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 344 (0.03%) (Ranked 209)
 | 2023-07-07 | 999,548 | 343 |
 | 2023-07-08 | 1,000,467 | 344 |
 | 2023-07-09 | 1,001,365 | 344 |
-| 2023-07-10 | 1,001,592 | 344 |
+| 2023-07-10 | 1,001,618 | 344 |
 ## Awards
 Max (Great for Beginners): 149  (Ranked 292)  
 Sum: 1,202 (Ranked 229)  
