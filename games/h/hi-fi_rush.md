@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 25)
 | OK, I THINK I know what I'm doing now | 0.00% | ~0 |
 | Low budget finish | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,429 (Ranked 145)  
+Progressed: 3,430 (Ranked 145)  
 Completed: 5 (0.15%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,6 +157,7 @@ Completed: 5 (0.15%) (Ranked 172)
 | 2023-07-07 | 3,418 | 5 |
 | 2023-07-08 | 3,426 | 5 |
 | 2023-07-09 | 3,429 | 5 |
+| 2023-07-10 | 3,430 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

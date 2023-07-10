@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -392,9 +392,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3250,
+  "EOS_Progressed": 3251,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -4892,6 +4892,11 @@
       "Time": "2023-07-10T10:03:28.4447594+00:00",
       "NumProgressed": 3250,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-10T14:03:07.7567202+00:00",
+      "NumProgressed": 3251,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -4919,7 +4924,7 @@
       "Name": "Best of the Best",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "REWARD_13_OPTIONAL_TASK",
@@ -4927,7 +4932,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -4935,7 +4940,7 @@
       "Name": "Opposing Force",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -4967,7 +4972,7 @@
       "Name": "Organ Grinder",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -4999,7 +5004,7 @@
       "Name": "Master of Secondaries",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "REWARD_22_MASTER_OF_RIFLES",
@@ -5007,7 +5012,7 @@
       "Name": "Master of Rifles",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "REWARD_23_MASTER_AT_ARMS",
@@ -5023,7 +5028,7 @@
       "Name": "Gunslinger",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -5031,7 +5036,7 @@
       "Name": "Skirmisher",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -5055,7 +5060,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -5079,7 +5084,7 @@
       "Name": "Out of Scope",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "REWARD_32_RIGGED_BLOW",
@@ -5095,7 +5100,7 @@
       "Name": "My Little Friend",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -5103,7 +5108,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -5135,7 +5140,7 @@
       "Name": "Der Geist",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -5159,7 +5164,7 @@
       "Name": "Close Quarters",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -5167,7 +5172,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -5247,7 +5252,7 @@
       "Name": "Up close and personal",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "REWARD_66_VEHICULAR_OMNICIDE",
@@ -5279,7 +5284,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -5287,7 +5292,7 @@
       "Name": "Sight Beyond Sights",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "REWARD_7_TARGET_AMERICA",
@@ -5303,7 +5308,7 @@
       "Name": "Shoot for the Moon",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "REWARD_8_THE_KRAKEN_SLEEPS",
@@ -5319,7 +5324,7 @@
       "Name": "Can\u0027t Outrun A Bullet",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "REWARD_DLC01_01_FUHRERIOUS_REPETITION",
@@ -5470,13 +5475,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3201,
+      "Progressed": 3202,
       "Completed": 13
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3250,
+      "Progressed": 3251,
       "Completed": 9
     }
   ],
@@ -5484,8 +5489,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-09T23:00:54.8044631+00:00",
-  "LastChanged_Achievements": "2023-07-10T13:20:23.0891752+00:00",
+  "LastChanged_Achievements": "2023-07-10T14:03:07.7567192+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:07.1687539+00:00",
-  "LastUpdate_Ratings": "2023-07-10T13:18:21.1120966+00:00",
-  "LastUpdate_Achievements": "2023-07-10T13:20:23.0892798+00:00"
+  "LastUpdate_Ratings": "2023-07-10T14:00:19.681175+00:00",
+  "LastUpdate_Achievements": "2023-07-10T14:03:07.7568353+00:00"
 }

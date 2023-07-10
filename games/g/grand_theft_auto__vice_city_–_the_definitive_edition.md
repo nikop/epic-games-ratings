@@ -5,15 +5,15 @@ Rating: 4.54 (Ranked 491)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 45.00% | ~4,012 |
+| Legal Counsel | 45.00% | ~4,013 |
 | Greasy Palms | 41.00% | ~3,656 |
 | South American Connection | 25.00% | ~2,229 |
 | Life of the Party | 19.00% | ~1,694 |
-| Tommy Two-Wheels | 15.00% | ~1,337 |
+| Tommy Two-Wheels | 15.00% | ~1,338 |
 | Big Heat from Little Havana | 14.00% | ~1,248 |
 | Chauffeur | 14.00% | ~1,248 |
 | Salutations My Little Friend | 10.00% | ~892 |
-| Iron-y | 9.00% | ~802 |
+| Iron-y | 9.00% | ~803 |
 | Gun for Hire | 8.00% | ~713 |
 | Mischief Managed | 8.00% | ~713 |
 | Vice City Mogul | 6.00% | ~535 |
@@ -22,11 +22,11 @@ Rating: 4.54 (Ranked 491)
 | Grand Theft Auto | 5.00% | ~446 |
 | Not my First Time | 4.00% | ~357 |
 | Pie Guy | 4.00% | ~357 |
-| Point A to Point B | 3.00% | ~267 |
-| High Quality H2O | 3.00% | ~267 |
-| Bull in a China Shop | 3.00% | ~267 |
-| Just Like the Real Thing | 3.00% | ~267 |
-| Don't Need Roads | 3.00% | ~267 |
+| Point A to Point B | 3.00% | ~268 |
+| High Quality H2O | 3.00% | ~268 |
+| Bull in a China Shop | 3.00% | ~268 |
+| Just Like the Real Thing | 3.00% | ~268 |
+| Don't Need Roads | 3.00% | ~268 |
 | Running Rampant | 2.00% | ~178 |
 | One is Better Than Two | 2.00% | ~178 |
 | Somebody Call the Wambulance? | 2.00% | ~178 |
@@ -40,7 +40,7 @@ Rating: 4.54 (Ranked 491)
 | Done it All | 0.80% | ~71 |
 | Kingpin | 0.50% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,916 (Ranked 119)  
+Progressed: 8,917 (Ranked 119)  
 Completed: 43 (0.48%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 43 (0.48%) (Ranked 128)
 | 2023-07-07 | 8,893 | 43 |
 | 2023-07-08 | 8,902 | 43 |
 | 2023-07-09 | 8,913 | 43 |
-| 2023-07-10 | 8,916 | 43 |
+| 2023-07-10 | 8,917 | 43 |
 ## Awards
 Max (Great Boss Battles): 60  (Ranked 386)  
 Sum: 60 (Ranked 440)  

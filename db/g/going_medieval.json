@@ -1138,7 +1138,7 @@
   ],
   "EOS_Progressed": 4499,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 178,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -5154,9 +5154,9 @@
       "ID": "STORE_NUTRITION_5000",
       "SetID": "5349c2e",
       "Name": "Putting Food on the Table",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 2654
+      "UsersEstimate": 2699
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -5266,8 +5266,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-07-10T09:00:28.1401302+00:00",
-  "LastChanged_Achievements": "2023-07-10T13:18:29.0740447+00:00",
+  "LastChanged_Achievements": "2023-07-10T14:00:28.2669682+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:13.9493644+00:00",
-  "LastUpdate_Ratings": "2023-07-10T13:17:37.8960241+00:00",
-  "LastUpdate_Achievements": "2023-07-10T13:18:29.0741252+00:00"
+  "LastUpdate_Ratings": "2023-07-10T13:59:45.1536368+00:00",
+  "LastUpdate_Achievements": "2023-07-10T14:00:28.2670249+00:00"
 }

@@ -19,18 +19,18 @@ Rating: 4.45 (Ranked 622)
 | Taking it back | 2.00% | ~65 |
 | Target America | 2.00% | ~65 |
 | The Kraken Sleeps | 2.00% | ~65 |
-| No Stone Unturned | 1.00% | ~32 |
-| Opposing Force | 1.00% | ~32 |
-| Organ Grinder | 1.00% | ~32 |
-| Gunslinger | 1.00% | ~32 |
-| Skirmisher | 1.00% | ~32 |
-| Set Europe Ablaze | 1.00% | ~32 |
-| My Little Friend | 1.00% | ~32 |
-| Explosive Efficiency | 1.00% | ~32 |
-| Der Geist | 1.00% | ~32 |
-| Close Quarters | 1.00% | ~32 |
-| Snake in the Grass | 1.00% | ~32 |
-| Brains of the Operation | 1.00% | ~32 |
+| No Stone Unturned | 1.00% | ~33 |
+| Opposing Force | 1.00% | ~33 |
+| Organ Grinder | 1.00% | ~33 |
+| Gunslinger | 1.00% | ~33 |
+| Skirmisher | 1.00% | ~33 |
+| Set Europe Ablaze | 1.00% | ~33 |
+| My Little Friend | 1.00% | ~33 |
+| Explosive Efficiency | 1.00% | ~33 |
+| Der Geist | 1.00% | ~33 |
+| Close Quarters | 1.00% | ~33 |
+| Snake in the Grass | 1.00% | ~33 |
+| Brains of the Operation | 1.00% | ~33 |
 | Precision Is Key | 0.90% | ~29 |
 | Enemy at the Gates | 0.80% | ~26 |
 | Just a Flesh Wound | 0.80% | ~26 |
@@ -57,14 +57,14 @@ Rating: 4.45 (Ranked 622)
 | Last Resort | 0.30% | ~10 |
 | If You Go Down To The Woods Today | 0.30% | ~10 |
 | Fight Another Day | 0.30% | ~10 |
-| Best of the Best | 0.20% | ~6 |
-| Master of Secondaries | 0.20% | ~6 |
-| Master of Rifles | 0.20% | ~6 |
-| Out of Scope | 0.20% | ~6 |
-| Up close and personal | 0.20% | ~6 |
-| Sight Beyond Sights | 0.20% | ~6 |
-| Shoot for the Moon | 0.20% | ~6 |
-| Can't Outrun A Bullet | 0.20% | ~6 |
+| Best of the Best | 0.20% | ~7 |
+| Master of Secondaries | 0.20% | ~7 |
+| Master of Rifles | 0.20% | ~7 |
+| Out of Scope | 0.20% | ~7 |
+| Up close and personal | 0.20% | ~7 |
+| Sight Beyond Sights | 0.20% | ~7 |
+| Shoot for the Moon | 0.20% | ~7 |
+| Can't Outrun A Bullet | 0.20% | ~7 |
 | Führerious Repetition | 0.20% | ~6 |
 | Operation Overlord | 0.20% | ~6 |
 | Going Overboard | 0.20% | ~6 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 622)
 | Das Familienjuwel | 0.10% | ~3 |
 | Stroll in the Woods | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,250 (Ranked 146)  
+Progressed: 3,251 (Ranked 146)  
 Completed: 9 (0.28%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,7 +157,7 @@ Completed: 9 (0.28%) (Ranked 150)
 | 2023-07-07 | 3,227 | 9 |
 | 2023-07-08 | 3,234 | 9 |
 | 2023-07-09 | 3,245 | 9 |
-| 2023-07-10 | 3,250 | 9 |
+| 2023-07-10 | 3,251 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

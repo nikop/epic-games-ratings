@@ -21,6 +21,7 @@ Rating: 4.61 (Ranked 361)
 | There Can Only Be One! | 2.00% | ~99 |
 | Full Ascension | 2.00% | ~99 |
 | Return of the Wizard King | 2.00% | ~99 |
+| Arch Mage | 2.00% | ~99 |
 | Bone Peddler | 2.00% | ~99 |
 | Stronger Together | 2.00% | ~99 |
 | Seat of Power | 2.00% | ~99 |
@@ -30,7 +31,6 @@ Rating: 4.61 (Ranked 361)
 | Impenetrable Fortress | 2.00% | ~99 |
 | The Magic That Empowers Me! | 1.00% | ~50 |
 | God Emperor | 1.00% | ~50 |
-| Arch Mage | 1.00% | ~50 |
 | The Creator | 1.00% | ~50 |
 | Enchanted Archipelago | 1.00% | ~50 |
 | The Goddess of Nature | 1.00% | ~50 |

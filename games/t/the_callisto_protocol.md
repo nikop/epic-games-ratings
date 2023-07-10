@@ -6,6 +6,7 @@ Rating: 4.19 (Ranked 845)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Get a Grip | 3.00% | ~470 |
+| You Need a Gun | 2.00% | ~314 |
 | Flesh Wound | 2.00% | ~314 |
 | Two Heads Are Better Than One | 2.00% | ~314 |
 | Chew 'Em Up | 2.00% | ~314 |
@@ -14,7 +15,6 @@ Rating: 4.19 (Ranked 845)
 | Keep Fighting | 2.00% | ~72 |
 | It's Time | 2.00% | ~72 |
 | Giving Back | 1.00% | ~157 |
-| You Need a Gun | 1.00% | ~157 |
 | I Do Belong Here | 1.00% | ~157 |
 | Terminated | 1.00% | ~157 |
 | Workplace Hazard | 1.00% | ~157 |

@@ -13,7 +13,7 @@ Rating: 4.39 (Ranked 701)
 | Something Lurks Under The Hills | 57.00% | ~1,585 |
 | This Was No Papercut | 56.00% | ~1,557 |
 | The Shrink Hates Me | 52.00% | ~1,446 |
-| People Person | 50.00% | ~1,390 |
+| People Person | 51.00% | ~1,418 |
 | Use The Bumper, That's What It's For | 48.00% | ~1,334 |
 | First Steps Into Madness | 47.00% | ~1,307 |
 | Colonial Barrels | 46.00% | ~1,279 |
@@ -31,8 +31,8 @@ Rating: 4.39 (Ranked 701)
 | Deep Into Insanity | 17.00% | ~473 |
 | The Passenger | 17.00% | ~473 |
 | El Riesgo Siempre Vive | 15.00% | ~417 |
+| The Spire | 14.00% | ~389 |
 | One For Every Occasion | 13.00% | ~361 |
-| The Spire | 13.00% | ~361 |
 | Bandage Lover | 12.00% | ~334 |
 | Frontliner | 12.00% | ~334 |
 | The Cable Guy | 12.00% | ~334 |
