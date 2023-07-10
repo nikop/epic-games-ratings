@@ -8,21 +8,21 @@ Rating: 4.87 (Ranked 25)
 | NOW we got a kickass hideout! | 1.00% | ~20 |
 | Cream of the Crop | 0.80% | ~27 |
 | I play my own way! | 0.80% | ~27 |
+| Z-shielding's got nothing on us! | 0.80% | ~27 |
 | Kissing the sky! | 0.80% | ~27 |
 | This will cost you big time | 0.70% | ~24 |
 | The Negotiator | 0.70% | ~24 |
 | Thanks for the free chip, Peppermint! | 0.70% | ~24 |
 | Whoa! There's ANOTHER health bar!? | 0.70% | ~24 |
 | You got this, Peppermint? | 0.70% | ~24 |
-| Z-shielding's got nothing on us! | 0.70% | ~24 |
 | Out in a puff of smoke | 0.70% | ~24 |
+| Perfect Parry | 0.70% | ~24 |
 | Uh, they were broken when I got here | 0.70% | ~24 |
+| Who put gears in there? | 0.70% | ~24 |
 | Headliner | 0.60% | ~21 |
 | Time to pay up! | 0.60% | ~21 |
 | Who's the boss now? | 0.60% | ~21 |
 | I have to read these things? | 0.60% | ~21 |
-| Perfect Parry | 0.60% | ~21 |
-| Who put gears in there? | 0.60% | ~21 |
 | Alright, that felt AWESOME! | 0.60% | ~21 |
 | Start with a bang! | 0.50% | ~17 |
 | Feeling the beat! | 0.50% | ~17 |

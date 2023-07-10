@@ -52,8 +52,8 @@ Number of Ratings: 75  (23.09.2022)
 | Level: Eye In The Sky | 0.50% | ~26 |
 | CEO | 0.50% | ~26 |
 | Campaign: Man vs. Machine | 0.40% | ~20 |
+| A Happy Taskforce: Interior Designer | 0.40% | ~20 |
 | Rockstar | 0.40% | ~20 |
-| A Happy Taskforce: Interior Designer | 0.30% | ~15 |
 | The Machinery: Goal Orientated | 0.30% | ~15 |
 | The Machinery: Energy Saver | 0.30% | ~15 |
 | Super Rich | 0.30% | ~15 |

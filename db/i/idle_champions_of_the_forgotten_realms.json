@@ -4814,10 +4814,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 30461,
       "NumberOfAwardsMax": 5021
+    },
+    {
+      "Time": "2023-07-10T04:58:27.1519111+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30464,
+      "NumberOfAwardsMax": 5021
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30461,
+  "NumberOfAwards": 30464,
   "NumberOfAwardsMax": 5021,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4849,7 +4855,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3997
+      "Count": 4000
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4864,9 +4870,9 @@
       "Count": 3294
     }
   ],
-  "EOS_Progressed": 209468,
+  "EOS_Progressed": 209475,
   "EOS_Completed": 2043,
-  "EOS_NewPlayers": 4558,
+  "EOS_NewPlayers": 4528,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -13409,6 +13415,11 @@
       "Time": "2023-07-10T04:03:58.8334249+00:00",
       "NumProgressed": 209468,
       "NumCompleted": 2043
+    },
+    {
+      "Time": "2023-07-10T05:04:29.6022994+00:00",
+      "NumProgressed": 209475,
+      "NumCompleted": 2043
     }
   ],
   "TotalAchievements": 503,
@@ -14604,7 +14615,7 @@
       "Name": "Low Initiative",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4189
+      "UsersEstimate": 4190
     },
     {
       "ID": "objective_completed_164",
@@ -14612,7 +14623,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4189
+      "UsersEstimate": 4190
     },
     {
       "ID": "objective_completed_165",
@@ -14644,7 +14655,7 @@
       "Name": "Building Trust",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4189
+      "UsersEstimate": 4190
     },
     {
       "ID": "objective_completed_17",
@@ -14652,7 +14663,7 @@
       "Name": "March of the Undead",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4189
+      "UsersEstimate": 4190
     },
     {
       "ID": "objective_completed_170",
@@ -14756,7 +14767,7 @@
       "Name": "No Time To Rest",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4189
+      "UsersEstimate": 4190
     },
     {
       "ID": "objective_completed_208",
@@ -15042,9 +15053,9 @@
       "ID": "objective_completed_280",
       "SetID": "cc37lbc",
       "Name": "House of Darkness",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 628
+      "UsersEstimate": 838
     },
     {
       "ID": "objective_completed_281",
@@ -15092,7 +15103,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 31420
+      "UsersEstimate": 31421
     },
     {
       "ID": "objective_completed_34",
@@ -15212,7 +15223,7 @@
       "Name": "Seeking Allies",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10473
+      "UsersEstimate": 10474
     },
     {
       "ID": "objective_completed_390",
@@ -15292,7 +15303,7 @@
       "Name": "Useless Allies",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4189
+      "UsersEstimate": 4190
     },
     {
       "ID": "objective_completed_400",
@@ -15556,7 +15567,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10473
+      "UsersEstimate": 10474
     },
     {
       "ID": "objective_completed_54",
@@ -15908,7 +15919,7 @@
       "Name": "Running of the Saurs",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4189
+      "UsersEstimate": 4190
     },
     {
       "ID": "objective_completed_590",
@@ -16564,7 +16575,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 23041
+      "UsersEstimate": 23042
     },
     {
       "ID": "objective_completed_70",
@@ -16596,7 +16607,7 @@
       "Name": "Waterdeep Detours",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4189
+      "UsersEstimate": 4190
     },
     {
       "ID": "objective_completed_75",
@@ -16628,7 +16639,7 @@
       "Name": "Underdeep Cartography",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4189
+      "UsersEstimate": 4190
     },
     {
       "ID": "objective_completed_8",
@@ -16636,7 +16647,7 @@
       "Name": "Friendly Imps",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10473
+      "UsersEstimate": 10474
     },
     {
       "ID": "objective_completed_80",
@@ -16644,7 +16655,7 @@
       "Name": "Overdue Rendezvous",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4189
+      "UsersEstimate": 4190
     },
     {
       "ID": "objective_completed_802",
@@ -17292,7 +17303,7 @@
       "Name": "The Templar\u0027s Camp",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4189
+      "UsersEstimate": 4190
     },
     {
       "ID": "objective_completed_95",
@@ -17443,21 +17454,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 175742,
+      "Progressed": 175749,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 209468,
+      "Progressed": 209475,
       "Completed": 2043
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-07-10T03:58:04.5500601+00:00",
-  "LastChanged_Achievements": "2023-07-10T04:03:58.8334245+00:00",
+  "LastChanged": "2023-07-10T04:58:27.151911+00:00",
+  "LastChanged_Achievements": "2023-07-10T05:04:29.6022989+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:43.9043947+00:00",
-  "LastUpdate_Ratings": "2023-07-10T03:58:04.5500613+00:00",
-  "LastUpdate_Achievements": "2023-07-10T04:03:58.8360571+00:00"
+  "LastUpdate_Ratings": "2023-07-10T04:58:27.1519117+00:00",
+  "LastUpdate_Achievements": "2023-07-10T05:04:29.6048039+00:00"
 }

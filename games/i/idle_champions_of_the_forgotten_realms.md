@@ -6,14 +6,14 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,420 |
-| The Mad Wizard | 11.00% | ~23,041 |
+| The Cursed Farmer | 15.00% | ~31,421 |
+| The Mad Wizard | 11.00% | ~23,042 |
 | The Ring of Regeneration | 7.00% | ~14,663 |
 | Are Ya Chicken? | 7.00% | ~14,663 |
 | Were-verpowered | 6.00% | ~12,568 |
-| Seeking Allies | 5.00% | ~10,473 |
-| Mad Cow Disease | 5.00% | ~10,473 |
-| Friendly Imps | 5.00% | ~10,473 |
+| Seeking Allies | 5.00% | ~10,474 |
+| Mad Cow Disease | 5.00% | ~10,474 |
+| Friendly Imps | 5.00% | ~10,474 |
 | A Persistent Buzzing | 4.00% | ~8,379 |
 | Pure Energy | 4.00% | ~8,379 |
 | Beast Mode | 3.00% | ~6,284 |
@@ -23,17 +23,17 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 3.00% | ~6,284 |
 | The Contagious Curse | 3.00% | ~6,284 |
 | Escort to Waterdeep | 3.00% | ~6,284 |
-| Low Initiative | 2.00% | ~4,189 |
-| A Mysterious Summons | 2.00% | ~4,189 |
-| Building Trust | 2.00% | ~4,189 |
-| March of the Undead | 2.00% | ~4,189 |
-| No Time To Rest | 2.00% | ~4,189 |
-| Useless Allies | 2.00% | ~4,189 |
-| Running of the Saurs | 2.00% | ~4,189 |
-| Waterdeep Detours | 2.00% | ~4,189 |
-| Underdeep Cartography | 2.00% | ~4,189 |
-| Overdue Rendezvous | 2.00% | ~4,189 |
-| The Templar's Camp | 2.00% | ~4,189 |
+| Low Initiative | 2.00% | ~4,190 |
+| A Mysterious Summons | 2.00% | ~4,190 |
+| Building Trust | 2.00% | ~4,190 |
+| March of the Undead | 2.00% | ~4,190 |
+| No Time To Rest | 2.00% | ~4,190 |
+| Useless Allies | 2.00% | ~4,190 |
+| Running of the Saurs | 2.00% | ~4,190 |
+| Waterdeep Detours | 2.00% | ~4,190 |
+| Underdeep Cartography | 2.00% | ~4,190 |
+| Overdue Rendezvous | 2.00% | ~4,190 |
+| The Templar's Camp | 2.00% | ~4,190 |
 | Homecoming | 1.00% | ~2,095 |
 | Street War | 1.00% | ~2,095 |
 | Invisible Shadows | 1.00% | ~2,095 |
@@ -107,6 +107,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | We're not in Faerûn Anymore | 0.40% | ~838 |
 | Modron Assistance | 0.40% | ~838 |
 | Domesticated Owlbears | 0.40% | ~838 |
+| House of Darkness | 0.40% | ~838 |
 | The Trepidatious Trio | 0.40% | ~838 |
 | A Saurial's Resolve | 0.40% | ~838 |
 | Backtracking Through Barovia | 0.40% | ~838 |
@@ -133,7 +134,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Haunted Fortunes | 0.30% | ~628 |
 | Thine Bounty is Mine! | 0.30% | ~527 |
 | Hold for the Red Wizards | 0.30% | ~628 |
-| House of Darkness | 0.30% | ~628 |
 | Our Time To Shine | 0.30% | ~628 |
 | A Saurial's Lament | 0.30% | ~628 |
 | Nimblest Escape | 0.30% | ~628 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209,468 (Ranked 52)  
+Progressed: 209,475 (Ranked 52)  
 Completed: 2,043 (0.98%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -591,10 +591,10 @@ Completed: 2,043 (0.98%) (Ranked 102)
 | 2023-07-07 | 208,152 | 2,037 |
 | 2023-07-08 | 208,782 | 2,041 |
 | 2023-07-09 | 209,384 | 2,043 |
-| 2023-07-10 | 209,468 | 2,043 |
+| 2023-07-10 | 209,475 | 2,043 |
 ## Awards
 Max (Diverse Characters): 5,021  (Ranked 65)  
-Sum: 30,461 (Ranked 37)  
+Sum: 30,464 (Ranked 37)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -602,8 +602,8 @@ Diff (max vs sum): 28
 | This game is Great for Beginners | 4,951 |
 | This game has Quickly Understood Controls | 4,653 |
 | This game is Relaxing | 4,547 |
+| This game is Highly Recommended | 4,000 |
 | This game has Amazing Characters | 3,998 |
-| This game is Highly Recommended | 3,997 |
 | This game has Playful Visuals | 3,294 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -773,4 +773,4 @@ Diff (max vs sum): 28
 | 2023-07-07 | 4.05 | - | 5,013 | 30,436 |
 | 2023-07-08 | 4.05 | - | 5,013 | 30,446 |
 | 2023-07-09 | 4.05 | - | 5,016 | 30,455 |
-| 2023-07-10 | 4.05 | - | 5,021 | 30,461 |
+| 2023-07-10 | 4.05 | - | 5,021 | 30,464 |

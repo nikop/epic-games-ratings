@@ -6,16 +6,16 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 75.00% | ~2,267 |
-| Ready for Winter | 64.00% | ~1,935 |
-| Ready for Summer | 51.00% | ~1,542 |
-| Cordon Bleu | 43.00% | ~1,300 |
-| Tapped! | 37.00% | ~1,119 |
-| Eureka | 32.00% | ~967 |
-| Scourge Slayer | 26.00% | ~786 |
-| Exceptional Skill | 23.00% | ~695 |
-| Science, Troglodyte! | 23.00% | ~695 |
-| Home Sweet Home | 22.00% | ~665 |
+| Venture Outward | 75.00% | ~2,270 |
+| Ready for Winter | 64.00% | ~1,937 |
+| Ready for Summer | 51.00% | ~1,543 |
+| Cordon Bleu | 43.00% | ~1,301 |
+| Tapped! | 37.00% | ~1,120 |
+| Eureka | 32.00% | ~968 |
+| Scourge Slayer | 26.00% | ~787 |
+| Exceptional Skill | 23.00% | ~696 |
+| Science, Troglodyte! | 23.00% | ~696 |
+| Home Sweet Home | 22.00% | ~666 |
 | Encyclopedic! | 20.00% | ~605 |
 | A Fortress Toppled! | 16.00% | ~484 |
 | Apex Predator | 16.00% | ~484 |
@@ -30,17 +30,17 @@ Number of Ratings: 266  (23.09.2022)
 | Let ‘em eat magma! | 7.00% | ~212 |
 | The power of ambition | 7.00% | ~212 |
 | The stuff of legends. | 7.00% | ~212 |
-| Blood and justice | 6.00% | ~181 |
-| Hold my Mead and Watch This | 6.00% | ~181 |
+| Blood and justice | 6.00% | ~182 |
+| Hold my Mead and Watch This | 6.00% | ~182 |
 | Ancestor's Pride | 4.00% | ~121 |
 | For All Aurai | 4.00% | ~121 |
 | Memory of a legend | 4.00% | ~121 |
 | Light of Levant | 3.00% | ~91 |
 | This was a mistake... | 3.00% | ~91 |
-| Crowd Pleaser. | 2.00% | ~60 |
-| Perfect Defense | 2.00% | ~60 |
-| Power! To! The People! | 2.00% | ~60 |
-| Your actions define you | 2.00% | ~60 |
+| Crowd Pleaser. | 2.00% | ~61 |
+| Perfect Defense | 2.00% | ~61 |
+| Power! To! The People! | 2.00% | ~61 |
+| Your actions define you | 2.00% | ~61 |
 | The blood is life | 1.00% | ~30 |
 | They'll Tell Stories About This | 1.00% | ~30 |
 | Vanquisher of nightmares | 1.00% | ~30 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~9 |
 | The Absolute Pinnacle. | 0.30% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,023 (Ranked 149)  
+Progressed: 3,026 (Ranked 149)  
 Completed: 2 (0.07%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 2 (0.07%) (Ranked 194)
 | 2023-07-07 | 3,011 | 2 |
 | 2023-07-08 | 3,017 | 2 |
 | 2023-07-09 | 3,022 | 2 |
-| 2023-07-10 | 3,023 | 2 |
+| 2023-07-10 | 3,026 | 2 |
 ## Awards
 Max (Amazing Characters): 31  (Ranked 453)  
 Sum: 239 (Ranked 349)  

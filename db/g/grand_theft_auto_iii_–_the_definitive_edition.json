@@ -370,9 +370,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6949,
+  "EOS_Progressed": 6950,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -5435,6 +5435,11 @@
       "Time": "2023-07-10T02:31:05.5986274+00:00",
       "NumProgressed": 6949,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-07-10T05:04:25.4272655+00:00",
+      "NumProgressed": 6950,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 29,
@@ -5454,7 +5459,7 @@
       "Name": "Without a Scratch",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 2293
+      "UsersEstimate": 2294
     },
     {
       "ID": "ACH03",
@@ -5462,7 +5467,7 @@
       "Name": "Escape Artist",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH04",
@@ -5470,7 +5475,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2571
+      "UsersEstimate": 2572
     },
     {
       "ID": "ACH05",
@@ -5494,7 +5499,7 @@
       "Name": "Planned Ahead",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH08",
@@ -5502,7 +5507,7 @@
       "Name": "Got This Figured Out",
       "Percentage": 1,
       "XP": 45,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH09",
@@ -5526,7 +5531,7 @@
       "Name": "Wheels Up",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH12",
@@ -5534,7 +5539,7 @@
       "Name": "Come Out to Play-y-y-y",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH13",
@@ -5566,7 +5571,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1737
+      "UsersEstimate": 1738
     },
     {
       "ID": "ACH17",
@@ -5574,7 +5579,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "ACH18",
@@ -5582,7 +5587,7 @@
       "Name": "Not So Fast",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "ACH19",
@@ -5590,7 +5595,7 @@
       "Name": "A Gift from the King",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "ACH20",
@@ -5598,7 +5603,7 @@
       "Name": "Man Toyz",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH21",
@@ -5614,7 +5619,7 @@
       "Name": "Playing Doctor",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH23",
@@ -5622,7 +5627,7 @@
       "Name": "Going Rogue",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH24",
@@ -5677,7 +5682,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6949,
+      "Progressed": 6950,
       "Completed": 40
     }
   ],
@@ -5685,8 +5690,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-07-06T20:58:32.0541996+00:00",
-  "LastChanged_Achievements": "2023-07-10T04:03:55.4020127+00:00",
+  "LastChanged_Achievements": "2023-07-10T05:04:25.4272649+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:25.3422771+00:00",
-  "LastUpdate_Ratings": "2023-07-10T03:57:54.2547557+00:00",
-  "LastUpdate_Achievements": "2023-07-10T04:03:55.40206+00:00"
+  "LastUpdate_Ratings": "2023-07-10T04:58:16.8142508+00:00",
+  "LastUpdate_Achievements": "2023-07-10T05:04:25.4273156+00:00"
 }

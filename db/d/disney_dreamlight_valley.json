@@ -2592,9 +2592,9 @@
       "Count": 481
     }
   ],
-  "EOS_Progressed": 6358,
+  "EOS_Progressed": 6359,
   "EOS_Completed": 162,
-  "EOS_NewPlayers": 495,
+  "EOS_NewPlayers": 496,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.55,
   "EosHistory": [
@@ -5462,6 +5462,11 @@
       "Time": "2023-07-10T03:27:06.797704+00:00",
       "NumProgressed": 6358,
       "NumCompleted": 162
+    },
+    {
+      "Time": "2023-07-10T05:03:14.3556802+00:00",
+      "NumProgressed": 6359,
+      "NumCompleted": 162
     }
   ],
   "TotalAchievements": 15,
@@ -5513,7 +5518,7 @@
       "Name": "Constructor",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 3624
+      "UsersEstimate": 3625
     },
     {
       "ID": "Duty_Bound",
@@ -5521,7 +5526,7 @@
       "Name": "Duty Bound",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "Gardener",
@@ -5545,7 +5550,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 76,
       "XP": 75,
-      "UsersEstimate": 4832
+      "UsersEstimate": 4833
     },
     {
       "ID": "Miner",
@@ -5561,7 +5566,7 @@
       "Name": "Photographer",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 4641
+      "UsersEstimate": 4642
     },
     {
       "ID": "Renovator",
@@ -5585,14 +5590,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 68,
       "XP": 100,
-      "UsersEstimate": 4323
+      "UsersEstimate": 4324
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 6358,
+      "Progressed": 6359,
       "Completed": 162
     }
   ],
@@ -5600,8 +5605,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-07-09T22:58:19.9300063+00:00",
-  "LastChanged_Achievements": "2023-07-10T04:02:13.8764599+00:00",
+  "LastChanged_Achievements": "2023-07-10T05:03:14.3556795+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:42.1936986+00:00",
-  "LastUpdate_Ratings": "2023-07-10T03:58:03.1762301+00:00",
-  "LastUpdate_Achievements": "2023-07-10T04:02:13.8764862+00:00"
+  "LastUpdate_Ratings": "2023-07-10T04:58:26.1011862+00:00",
+  "LastUpdate_Achievements": "2023-07-10T05:03:14.3557115+00:00"
 }

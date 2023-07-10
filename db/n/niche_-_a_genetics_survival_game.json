@@ -4,7 +4,7 @@
   "ProductSlug": "niche-a-genetics-survival-game",
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 314,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-09-15T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:28.3183995+00:00",
   "LastChanged": "2023-03-31T05:58:28.3183996+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:37.2747395+00:00",
-  "LastUpdate_Ratings": "2023-07-10T03:58:00.5613935+00:00",
-  "LastUpdate_Achievements": "2023-07-10T04:05:09.9918858+00:00"
+  "LastUpdate_Ratings": "2023-07-10T04:58:23.5024989+00:00",
+  "LastUpdate_Achievements": "2023-07-10T05:05:36.866692+00:00"
 }

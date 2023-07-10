@@ -6,29 +6,29 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~708,738 |
-| The Blues | 85.00% | ~608,512 |
-| Fast | 66.00% | ~472,492 |
-| Healthbar | 55.00% | ~393,743 |
-| Force Cube | 53.00% | ~379,425 |
-| Double Jump | 48.00% | ~343,631 |
-| Regeneration | 47.00% | ~336,472 |
-| Climb the hill | 42.00% | ~300,677 |
-| Triple Jump | 42.00% | ~300,677 |
-| Through the fire pipe | 38.00% | ~272,041 |
-| MacGuffin | 38.00% | ~272,041 |
-| Just once | 36.00% | ~257,723 |
-| Armor | 30.00% | ~214,769 |
-| True holy spirit | 27.00% | ~193,292 |
-| That's how electronics work obviously | 26.00% | ~186,133 |
-| Force Cube Catapult | 25.00% | ~178,974 |
-| Holy Sword | 23.00% | ~164,656 |
-| Telefrag | 22.00% | ~157,497 |
-| Freed from prison | 21.00% | ~150,338 |
-| Stomp | 21.00% | ~150,338 |
-| Double Health | 18.00% | ~128,861 |
-| Buckle | 17.00% | ~121,702 |
-| Green Keycard | 17.00% | ~121,702 |
+| Out of bed | 99.00% | ~708,744 |
+| The Blues | 85.00% | ~608,518 |
+| Fast | 66.00% | ~472,496 |
+| Healthbar | 55.00% | ~393,747 |
+| Force Cube | 53.00% | ~379,429 |
+| Double Jump | 48.00% | ~343,633 |
+| Regeneration | 47.00% | ~336,474 |
+| Climb the hill | 42.00% | ~300,679 |
+| Triple Jump | 42.00% | ~300,679 |
+| Through the fire pipe | 38.00% | ~272,043 |
+| MacGuffin | 38.00% | ~272,043 |
+| Just once | 36.00% | ~257,725 |
+| Armor | 30.00% | ~214,771 |
+| True holy spirit | 27.00% | ~193,294 |
+| That's how electronics work obviously | 26.00% | ~186,135 |
+| Force Cube Catapult | 25.00% | ~178,976 |
+| Holy Sword | 23.00% | ~164,658 |
+| Telefrag | 22.00% | ~157,499 |
+| Freed from prison | 21.00% | ~150,340 |
+| Stomp | 21.00% | ~150,340 |
+| Double Health | 18.00% | ~128,863 |
+| Buckle | 17.00% | ~121,704 |
+| Green Keycard | 17.00% | ~121,704 |
 | Rattle Hag | 15.00% | ~107,385 |
 | All Shells | 14.00% | ~100,226 |
 | Beam | 14.00% | ~100,226 |
@@ -66,21 +66,21 @@ Number of Ratings: 25,175  (23.09.2022)
 | Groupies | 1.00% | ~7,159 |
 | Jesus Christ Suprastar | 1.00% | ~7,159 |
 | Redstone Pickaxe | 1.00% | ~7,159 |
-| DLC: Green Bird | 0.50% | ~3,579 |
-| DLC: Basement Robbery | 0.50% | ~3,579 |
-| DLC: Rooftop Chase | 0.50% | ~3,579 |
-| DLC: Home Invasion | 0.50% | ~3,579 |
-| DLC: Crashed again | 0.50% | ~3,579 |
-| DLC: Crashed again (again) | 0.50% | ~3,579 |
-| DLC: Crashed | 0.50% | ~3,579 |
-| DLC: Discovering the Globe | 0.50% | ~3,579 |
-| DLC: Gotta Jump High | 0.50% | ~3,579 |
-| DLC: Gotta Run Fast | 0.50% | ~3,579 |
-| DLC: Monster Maker | 0.50% | ~3,579 |
-| DLC: Race the First | 0.50% | ~3,579 |
-| DLC: No-ball Winner | 0.50% | ~3,579 |
-| DLC: Welcome to Orangeburg | 0.50% | ~3,579 |
-| DLC: A Wrinkle in Spacetime | 0.50% | ~3,579 |
+| DLC: Green Bird | 0.50% | ~3,580 |
+| DLC: Basement Robbery | 0.50% | ~3,580 |
+| DLC: Rooftop Chase | 0.50% | ~3,580 |
+| DLC: Home Invasion | 0.50% | ~3,580 |
+| DLC: Crashed again | 0.50% | ~3,580 |
+| DLC: Crashed again (again) | 0.50% | ~3,580 |
+| DLC: Crashed | 0.50% | ~3,580 |
+| DLC: Discovering the Globe | 0.50% | ~3,580 |
+| DLC: Gotta Jump High | 0.50% | ~3,580 |
+| DLC: Gotta Run Fast | 0.50% | ~3,580 |
+| DLC: Monster Maker | 0.50% | ~3,580 |
+| DLC: Race the First | 0.50% | ~3,580 |
+| DLC: No-ball Winner | 0.50% | ~3,580 |
+| DLC: Welcome to Orangeburg | 0.50% | ~3,580 |
+| DLC: A Wrinkle in Spacetime | 0.50% | ~3,580 |
 | DLC: The palace job | 0.40% | ~2,864 |
 | DLC: A Criminal Revealed | 0.40% | ~2,864 |
 | DLC: Crashed for the final time! | 0.40% | ~2,864 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~716 |
 | DLC: Top of the world | 0.10% | ~716 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,897 (Ranked 16)  
+Progressed: 715,903 (Ranked 16)  
 Completed: 707 (0.10%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 707 (0.10%) (Ranked 183)
 | 2023-07-07 | 715,496 | 706 |
 | 2023-07-08 | 715,684 | 706 |
 | 2023-07-09 | 715,871 | 707 |
-| 2023-07-10 | 715,897 | 707 |
+| 2023-07-10 | 715,903 | 707 |
 ## Awards
 Max (Challenging Puzzles): 7,641  (Ranked 43)  
 Sum: 9,952 (Ranked 81)  

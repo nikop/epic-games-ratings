@@ -1,24 +1,24 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.49 (Ranked 573)  
+Rating: 4.49 (Ranked 574)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~20,745 |
-| Advancement | 73.00% | ~17,609 |
-| Meticulously Efficient | 64.00% | ~15,438 |
-| Discovery | 61.00% | ~14,714 |
+| Stylish | 86.00% | ~20,746 |
+| Advancement | 73.00% | ~17,610 |
+| Meticulously Efficient | 64.00% | ~15,439 |
+| Discovery | 61.00% | ~14,715 |
 | Fully Upgraded | 54.00% | ~13,026 |
 | Swift Rift Removers | 54.00% | ~13,026 |
-| Cultured | 52.00% | ~12,543 |
-| I collect Spores, Molds, and Fungi | 51.00% | ~12,302 |
+| Cultured | 52.00% | ~12,544 |
+| I collect Spores, Molds, and Fungi | 51.00% | ~12,303 |
 | Vaporous Expansion | 48.00% | ~11,579 |
 | Teamwork | 44.00% | ~10,614 |
-| There you are! | 43.00% | ~10,372 |
+| There you are! | 43.00% | ~10,373 |
 | Clutch Capture | 41.00% | ~9,890 |
 | Back Off | 35.00% | ~8,443 |
-| Daily Dose | 34.00% | ~8,201 |
+| Daily Dose | 34.00% | ~8,202 |
 | Solo Capture | 32.00% | ~7,719 |
 | Welcome to the Crew | 32.00% | ~7,719 |
 | Ghostbuster In Training | 30.00% | ~7,237 |
@@ -30,11 +30,11 @@ Rating: 4.49 (Ranked 573)
 | Pesky Jerks | 26.00% | ~6,272 |
 | Right back at ya | 26.00% | ~6,272 |
 | Stunner | 26.00% | ~6,272 |
-| Animated | 24.00% | ~5,789 |
-| Skilled | 24.00% | ~5,789 |
+| Animated | 24.00% | ~5,790 |
+| Skilled | 24.00% | ~5,790 |
 | Collector | 23.00% | ~5,548 |
 | Ectoplasmic Entity | 23.00% | ~5,548 |
-| Rift Destroyer | 20.00% | ~4,824 |
+| Rift Destroyer | 20.00% | ~4,825 |
 | Terrifying | 18.00% | ~4,342 |
 | Tobin's Prodigy | 18.00% | ~4,342 |
 | Reckless | 17.00% | ~4,101 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 573)
 | Mycophile | 1.00% | ~241 |
 | I don't need these | 0.90% | ~217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,122 (Ranked 97)  
+Progressed: 24,123 (Ranked 97)  
 Completed: 46 (0.19%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 46 (0.19%) (Ranked 165)
 | 2023-07-07 | 24,081 | 46 |
 | 2023-07-08 | 24,104 | 46 |
 | 2023-07-09 | 24,117 | 46 |
-| 2023-07-10 | 24,122 | 46 |
+| 2023-07-10 | 24,123 | 46 |
 ## Awards
 Max (Great for Quick Sessions): 240  (Ranked 249)  
 Sum: 2,154 (Ranked 189)  

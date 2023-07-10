@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -2454,9 +2454,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 68655,
+  "EOS_Progressed": 68656,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 426,
+  "EOS_NewPlayers": 427,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -10904,6 +10904,11 @@
       "Time": "2023-07-10T04:04:00.0305874+00:00",
       "NumProgressed": 68655,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-07-10T05:04:30.4165569+00:00",
+      "NumProgressed": 68656,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 37,
@@ -11147,7 +11152,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 24029
+      "UsersEstimate": 24030
     },
     {
       "ID": "ACH_0431",
@@ -11163,7 +11168,7 @@
       "Name": "True Player",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 13044
+      "UsersEstimate": 13045
     },
     {
       "ID": "ACH_0450",
@@ -11171,7 +11176,7 @@
       "Name": "Off the Rocks",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 13044
+      "UsersEstimate": 13045
     },
     {
       "ID": "ACH_0451",
@@ -11187,7 +11192,7 @@
       "Name": "Dragonslayer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11671
+      "UsersEstimate": 11672
     },
     {
       "ID": "ACH_0460",
@@ -11210,7 +11215,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 68655,
+      "Progressed": 68656,
       "Completed": 36
     }
   ],
@@ -11218,8 +11223,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-07-10T02:26:31.8404752+00:00",
-  "LastChanged_Achievements": "2023-07-10T04:04:00.0305869+00:00",
+  "LastChanged_Achievements": "2023-07-10T05:04:30.4165562+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:23.2557502+00:00",
-  "LastUpdate_Ratings": "2023-07-10T03:59:43.6137969+00:00",
-  "LastUpdate_Achievements": "2023-07-10T04:04:00.0306593+00:00"
+  "LastUpdate_Ratings": "2023-07-10T05:00:06.5655136+00:00",
+  "LastUpdate_Achievements": "2023-07-10T05:04:30.4166375+00:00"
 }

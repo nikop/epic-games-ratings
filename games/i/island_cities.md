@@ -23,12 +23,12 @@
 | Commuting | 20.00% | ~76 |
 | Le jardin magnifique | 19.00% | ~72 |
 | Aiming for a living and human city | 18.00% | ~68 |
-| City of dreams | 17.00% | ~64 |
+| City of dreams | 18.00% | ~68 |
 | Happy Christmas night! | 17.00% | ~64 |
 | Night walk along the beach | 17.00% | ~64 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 378 (Ranked 231)  
-Completed: 67 (17.72%) (Ranked 10)  
+Completed: 68 (17.99%) (Ranked 10)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -102,6 +102,7 @@ Completed: 67 (17.72%) (Ranked 10)
 | 2023-07-07 | 376 | 66 |
 | 2023-07-08 | 376 | 67 |
 | 2023-07-09 | 378 | 67 |
+| 2023-07-10 | 378 | 68 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

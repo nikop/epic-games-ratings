@@ -15,14 +15,14 @@
 | The Penguin | 46.00% | ~53 |
 | The Magician | 45.00% | ~52 |
 | The Tunneler | 40.00% | ~46 |
-| Level Up!! | 38.00% | ~44 |
+| Level Up!! | 39.00% | ~45 |
 | The Shield | 38.00% | ~44 |
 | Kill-streak | 33.00% | ~38 |
 | The Bird | 30.00% | ~35 |
 | The Ninja | 29.00% | ~34 |
+| Topped up | 27.00% | ~31 |
 | The Idol | 27.00% | ~31 |
 | Inferno Ruins | 27.00% | ~31 |
-| Topped up | 26.00% | ~30 |
 | I'm Rich | 24.00% | ~28 |
 | Untouchable | 23.00% | ~27 |
 | 1 is all I need | 22.00% | ~26 |

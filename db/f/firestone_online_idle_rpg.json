@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1601,
+  "EOS_Progressed": 1602,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3983,6 +3983,11 @@
       "Time": "2023-07-10T00:05:55.6886888+00:00",
       "NumProgressed": 1601,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-10T05:06:25.2989108+00:00",
+      "NumProgressed": 1602,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -4178,7 +4183,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "fourleafclover",
@@ -4554,7 +4559,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1489
+      "UsersEstimate": 1490
     },
     {
       "ID": "warmachinesarmy",
@@ -4586,14 +4591,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1601,
+      "Progressed": 1602,
       "Completed": 1
     }
   ],
@@ -4601,8 +4606,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-07-06T11:58:21.6174539+00:00",
-  "LastChanged_Achievements": "2023-07-10T04:06:01.7961902+00:00",
+  "LastChanged_Achievements": "2023-07-10T05:06:25.2989102+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:35.1051404+00:00",
-  "LastUpdate_Ratings": "2023-07-10T03:57:59.1390387+00:00",
-  "LastUpdate_Achievements": "2023-07-10T04:06:01.7963075+00:00"
+  "LastUpdate_Ratings": "2023-07-10T04:58:22.0272973+00:00",
+  "LastUpdate_Achievements": "2023-07-10T05:06:25.2990139+00:00"
 }

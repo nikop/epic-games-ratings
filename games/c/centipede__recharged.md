@@ -15,8 +15,8 @@ Number of Ratings: 76  (23.09.2022)
 | I Am The Storm | 18.00% | ~2,762 |
 | Still Burnin' | 18.00% | ~2,762 |
 | Deadline | 15.00% | ~2,302 |
+| Don't Fear The Reaper | 13.00% | ~1,995 |
 | Eyes On Fire | 13.00% | ~1,995 |
-| Don't Fear The Reaper | 12.00% | ~1,841 |
 | Harvester Of Eyes | 7.00% | ~1,074 |
 | The Reaper | 7.00% | ~1,074 |
 | Feel The Thunder | 6.00% | ~921 |

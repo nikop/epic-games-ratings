@@ -2,7 +2,7 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 573,
+  "Ranking_Rating": 574,
   "Ranking_Popularity": 249,
   "Ranking_PopularitySum": 189,
   "Ranking_EOS_Progress": 97,
@@ -1416,9 +1416,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 24122,
+  "EOS_Progressed": 24123,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7576,6 +7576,11 @@
       "Time": "2023-07-10T02:30:30.4500177+00:00",
       "NumProgressed": 24122,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-07-10T05:03:51.1720239+00:00",
+      "NumProgressed": 24123,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 51,
@@ -7587,7 +7592,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 17609
+      "UsersEstimate": 17610
     },
     {
       "ID": "Animated",
@@ -7595,7 +7600,7 @@
       "Name": "Animated",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 5789
+      "UsersEstimate": 5790
     },
     {
       "ID": "Back_Off",
@@ -7635,7 +7640,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 12302
+      "UsersEstimate": 12303
     },
     {
       "ID": "Collector",
@@ -7651,7 +7656,7 @@
       "Name": "Cultured",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 12543
+      "UsersEstimate": 12544
     },
     {
       "ID": "Daily_Dose",
@@ -7659,7 +7664,7 @@
       "Name": "Daily Dose",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 8201
+      "UsersEstimate": 8202
     },
     {
       "ID": "Diabolical",
@@ -7675,7 +7680,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 14714
+      "UsersEstimate": 14715
     },
     {
       "ID": "Dont_Need_These",
@@ -7699,7 +7704,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 15438
+      "UsersEstimate": 15439
     },
     {
       "ID": "Escape_Artist",
@@ -7819,7 +7824,7 @@
       "Name": "Rift Destroyer",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4824
+      "UsersEstimate": 4825
     },
     {
       "ID": "Rift_Seeker",
@@ -7867,7 +7872,7 @@
       "Name": "Skilled",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5789
+      "UsersEstimate": 5790
     },
     {
       "ID": "Solo_Capture",
@@ -7891,7 +7896,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 20745
+      "UsersEstimate": 20746
     },
     {
       "ID": "Summoner",
@@ -7947,7 +7952,7 @@
       "Name": "There you are!",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 10372
+      "UsersEstimate": 10373
     },
     {
       "ID": "Tobins_Prodigy",
@@ -7994,7 +7999,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 24122,
+      "Progressed": 24123,
       "Completed": 46
     }
   ],
@@ -8002,8 +8007,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-07-10T02:25:38.9931889+00:00",
-  "LastChanged_Achievements": "2023-07-10T04:03:20.5049819+00:00",
+  "LastChanged_Achievements": "2023-07-10T05:03:51.1720234+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:03.6661628+00:00",
-  "LastUpdate_Ratings": "2023-07-10T03:58:51.5560879+00:00",
-  "LastUpdate_Achievements": "2023-07-10T04:03:20.5050655+00:00"
+  "LastUpdate_Ratings": "2023-07-10T04:59:15.9964551+00:00",
+  "LastUpdate_Achievements": "2023-07-10T05:03:51.1721041+00:00"
 }
