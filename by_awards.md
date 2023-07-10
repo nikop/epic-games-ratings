@@ -37,7 +37,7 @@
 | 35 | [Satisfactory](games/s/satisfactory.md) | 10,552 | 4.88 | 19 |
 | 36 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,445 | 4.78 | 99 |
 | 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,424 | 4.61 | 361 |
-| 38 | [SnowRunner](games/s/snowrunner.md) | 9,082 | 4.76 | 120 |
+| 38 | [SnowRunner](games/s/snowrunner.md) | 9,105 | 4.76 | 120 |
 | 39 | [Control](games/c/control.md) | 8,392 | 4.60 | 389 |
 | 40 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 8,305 | 4.58 | 422 |
 | 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,681 | 4.85 | 40 |
@@ -87,7 +87,7 @@
 | 85 | [Paladins](games/p/paladins.md) | 3,389 | 4.34 | 746 |
 | 86 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,334 | 4.68 | 239 |
 | 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,262 | 4.68 | 239 |
-| 88 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,259 | 4.76 | 120 |
+| 87 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,262 | 4.76 | 120 |
 | 89 | [Hades](games/h/hades.md) | 3,171 | 4.92 | 4 |
 | 90 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,154 | 4.57 | 439 |
 | 91 | [Trackmania](games/t/trackmania.md) | 2,932 | 4.67 | 259 |
@@ -125,9 +125,9 @@
 | 123 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,410 | 4.87 | 25 |
 | 124 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,377 | 4.62 | 346 |
 | 125 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,324 | 4.52 | 519 |
-| 126 | [Conan Exiles](games/c/conan_exiles.md) | 1,315 | 4.55 | 476 |
-| 127 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,308 | 4.86 | 28 |
-| 128 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,307 | 4.78 | 99 |
+| 126 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,317 | 4.78 | 99 |
+| 127 | [Conan Exiles](games/c/conan_exiles.md) | 1,315 | 4.55 | 476 |
+| 128 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,308 | 4.86 | 28 |
 | 129 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,306 | 4.70 | 196 |
 | 130 | [DOOM 64](games/d/doom_64.md) | 1,290 | 4.66 | 270 |
 | 131 | [XCOM® 2](games/x/xcom®_2.md) | 1,204 | 4.55 | 476 |
@@ -203,7 +203,7 @@
 | 201 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 421 | 4.40 | 688 |
 | 202 | [RimWorld](games/r/rimworld.md) | 419 | 4.89 | 12 |
 | 203 | [Against the Storm](games/a/against_the_storm.md) | 418 | 4.81 | 75 |
-| 204 | [Dishonored 2](games/d/dishonored_2.md) | 415 | 4.79 | 87 |
+| 204 | [Dishonored 2](games/d/dishonored_2.md) | 416 | 4.79 | 87 |
 | 205 | [Loop Hero](games/l/loop_hero.md) | 414 | 4.68 | 239 |
 | 206 | [Into the Breach](games/i/into_the_breach.md) | 410 | 4.84 | 49 |
 | 207 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 408 | 4.73 | 157 |

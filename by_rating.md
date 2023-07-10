@@ -36,7 +36,7 @@
 | 28 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 12,058 | 31 |
 | 28 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 97 | 333 |
 | 28 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 41 | 417 |
-| 28 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,308 | 127 |
+| 28 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,308 | 128 |
 | 28 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 482 | 194 |
 | 28 | [WarmSnow](games/w/warmsnow.md) | 4.86 | 0 | 504 |
 | 40 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,681 | 41 |
@@ -87,7 +87,7 @@
 | 81 | [The Messenger](games/t/the_messenger.md) | 4.80 | 321 | 228 |
 | 81 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 0 | 504 |
 | 87 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,467 | 121 |
-| 87 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 415 | 204 |
+| 87 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 416 | 204 |
 | 87 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 159 | 290 |
 | 87 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 504 |
 | 87 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.79 | 0 | 504 |
@@ -103,7 +103,7 @@
 | 99 | [Journey](games/j/journey.md) | 4.78 | 0 | 504 |
 | 99 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 732 | 159 |
 | 99 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,347 | 101 |
-| 99 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,307 | 128 |
+| 99 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,317 | 126 |
 | 99 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 921 | 146 |
 | 99 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 504 |
 | 107 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 3,592 | 81 |
@@ -122,7 +122,7 @@
 | 120 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 14,739 | 23 |
 | 120 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 85 | 348 |
 | 120 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 0 | 504 |
-| 120 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,259 | 88 |
+| 120 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,262 | 87 |
 | 120 | [Diabotical](games/d/diabotical.md) | 4.76 | 270 | 242 |
 | 120 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 42 | 416 |
 | 120 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,272 | 74 |
@@ -130,7 +130,7 @@
 | 120 | [Outlast](games/o/outlast.md) | 4.76 | 0 | 504 |
 | 120 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,674 | 117 |
 | 120 | [Quake](games/q/quake.md) | 4.76 | 46 | 406 |
-| 120 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 9,082 | 38 |
+| 120 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 9,105 | 38 |
 | 120 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.76 | 44 | 413 |
 | 120 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.76 | 345 | 223 |
 | 134 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 24 | 475 |
@@ -478,7 +478,7 @@
 | 476 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.55 | 0 | 504 |
 | 476 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.55 | 0 | 504 |
 | 476 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 504 |
-| 476 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,315 | 126 |
+| 476 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,315 | 127 |
 | 476 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 221 | 253 |
 | 476 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.55 | 149 | 292 |
 | 476 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.55 | 0 | 504 |
