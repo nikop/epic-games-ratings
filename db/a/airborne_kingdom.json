@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 108,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6775,
+  "EOS_Progressed": 6776,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -2578,6 +2578,11 @@
       "Time": "2023-07-10T13:18:32.7815005+00:00",
       "NumProgressed": 6775,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-07-10T17:02:18.0210051+00:00",
+      "NumProgressed": 6776,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 27,
@@ -2637,7 +2642,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1490
+      "UsersEstimate": 1491
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -2741,7 +2746,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3794
+      "UsersEstimate": 3795
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -2804,15 +2809,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6775,
+      "Progressed": 6776,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-07-10T16:01:22.4134934+00:00",
+  "LastChanged_Achievements": "2023-07-10T17:02:18.0210044+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:45.5061234+00:00",
-  "LastUpdate_Ratings": "2023-07-10T15:57:45.90617+00:00",
-  "LastUpdate_Achievements": "2023-07-10T16:01:22.4135367+00:00"
+  "LastUpdate_Ratings": "2023-07-10T16:57:57.8691367+00:00",
+  "LastUpdate_Achievements": "2023-07-10T17:02:18.0210626+00:00"
 }

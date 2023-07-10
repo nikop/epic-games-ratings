@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Augmented | 17.00% | ~119 |
+| Augmented | 17.00% | ~120 |
 | Challenge Accepted | 15.00% | ~105 |
 | Terminated I | 14.00% | ~98 |
 | Unlocked and Loaded | 13.00% | ~91 |
@@ -19,10 +19,10 @@
 | Cybernetic | 5.00% | ~35 |
 | Nanonic III | 5.00% | ~35 |
 | The Bigger They Are | 4.00% | ~28 |
+| Up Close And Personal | 4.00% | ~28 |
 | Fully Modded | 3.00% | ~21 |
 | Outer Core | 3.00% | ~21 |
 | Rookie | 3.00% | ~21 |
-| Up Close And Personal | 3.00% | ~21 |
 | Eden Heights | 2.00% | ~14 |
 | Inner Core | 2.00% | ~14 |
 | Integration | 2.00% | ~14 |
@@ -34,7 +34,7 @@
 | Weaponsmith | 0.10% | ~1 |
 | Hell Raiser | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702 (Ranked 202)  
+Progressed: 703 (Ranked 202)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-05 | 697 | 0 |
 | 2023-07-06 | 698 | 0 |
 | 2023-07-09 | 700 | 0 |
-| 2023-07-10 | 702 | 0 |
+| 2023-07-10 | 703 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -18,11 +18,11 @@ Rating: 4.68 (Ranked 239)
 | Sneak peek | 5.00% | ~27 |
 | Fishing fanatic | 5.00% | ~27 |
 | Liar Liar | 5.00% | ~27 |
+| The cycle acknowledged | 5.00% | ~27 |
 | Baba Yaga | 5.00% | ~27 |
 | Extensive retelling | 4.00% | ~22 |
 | Favorite | 4.00% | ~22 |
 | The word around is... | 4.00% | ~22 |
-| The cycle acknowledged | 4.00% | ~22 |
 | Queen | 4.00% | ~22 |
 | Goal! | 3.00% | ~16 |
 | Both sides | 3.00% | ~16 |

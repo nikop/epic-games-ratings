@@ -5395,10 +5395,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 13686,
       "NumberOfAwardsMax": 6773
+    },
+    {
+      "Time": "2023-07-10T17:00:56.204615+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 13687,
+      "NumberOfAwardsMax": 6773
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13686,
+  "NumberOfAwards": 13687,
   "NumberOfAwardsMax": 6773,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5430,7 +5436,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 874
+      "Count": 875
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5475,9 +5481,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 55466,
+  "EOS_Progressed": 55467,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 577,
+  "EOS_NewPlayers": 575,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13870,6 +13876,11 @@
       "Time": "2023-07-10T16:06:59.8199938+00:00",
       "NumProgressed": 55466,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-10T17:07:43.1169003+00:00",
+      "NumProgressed": 55467,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -13975,9 +13986,9 @@
       "ID": "Entrepreneur",
       "SetID": "den0lp1",
       "Name": "Entrepreneur",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1109
+      "UsersEstimate": 555
     },
     {
       "ID": "Explorer",
@@ -14105,7 +14116,7 @@
       "Name": "Landlord",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 17194
+      "UsersEstimate": 17195
     },
     {
       "ID": "Lawbringer",
@@ -14113,7 +14124,7 @@
       "Name": "Lawbringer",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 20522
+      "UsersEstimate": 20523
     },
     {
       "ID": "Lawmaker",
@@ -14288,15 +14299,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 55466,
+      "Progressed": 55467,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-07-10T15:00:53.9610805+00:00",
-  "LastChanged_Achievements": "2023-07-10T16:06:59.8199929+00:00",
+  "LastChanged": "2023-07-10T17:00:56.2046148+00:00",
+  "LastChanged_Achievements": "2023-07-10T17:07:43.1168996+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:03.335469+00:00",
-  "LastUpdate_Ratings": "2023-07-10T16:00:13.8905324+00:00",
-  "LastUpdate_Achievements": "2023-07-10T16:06:59.8200907+00:00"
+  "LastUpdate_Ratings": "2023-07-10T17:00:56.2046159+00:00",
+  "LastUpdate_Achievements": "2023-07-10T17:07:43.1170006+00:00"
 }

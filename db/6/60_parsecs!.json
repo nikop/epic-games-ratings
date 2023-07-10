@@ -4,7 +4,7 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 672,
+  "EOS_Progressed": 673,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -483,6 +483,11 @@
       "Time": "2023-07-10T00:04:39.4673199+00:00",
       "NumProgressed": 672,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-10T17:05:53.6709926+00:00",
+      "NumProgressed": 673,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -558,7 +563,7 @@
       "Name": "Crafty",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "Achievement_DontPanic",
@@ -566,7 +571,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "Achievement_DustToDust",
@@ -574,7 +579,7 @@
       "Name": "Dust to Dust",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "Achievement_EcoShuttle",
@@ -638,7 +643,7 @@
       "Name": "Friendzone",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "Achievement_GiantLeap",
@@ -670,7 +675,7 @@
       "Name": "Hello World",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "Achievement_Improvinator",
@@ -718,7 +723,7 @@
       "Name": "Meet the Petersons",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "Achievement_MutinyInMaking",
@@ -742,7 +747,7 @@
       "Name": "No Man Left Behind",
       "Percentage": 9,
       "XP": 70,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Achievement_NonFiction",
@@ -790,7 +795,7 @@
       "Name": "Space Engineer",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "Achievement_SpaceExplorer",
@@ -830,7 +835,7 @@
       "Name": "Tinkerer",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "Achievement_Traitor",
@@ -845,7 +850,7 @@
     {
       "ID": "c01p6e5",
       "IsBase": true,
-      "Progressed": 672,
+      "Progressed": 673,
       "Completed": 1
     }
   ],
@@ -853,8 +858,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-07-10T16:05:26.8300544+00:00",
+  "LastChanged_Achievements": "2023-07-10T17:05:53.6709919+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:48.9617306+00:00",
-  "LastUpdate_Ratings": "2023-07-10T15:59:18.0588302+00:00",
-  "LastUpdate_Achievements": "2023-07-10T16:05:26.8300931+00:00"
+  "LastUpdate_Ratings": "2023-07-10T16:59:49.4979601+00:00",
+  "LastUpdate_Achievements": "2023-07-10T17:05:53.6710319+00:00"
 }

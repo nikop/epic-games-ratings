@@ -6,27 +6,27 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 76.00% | ~3,508 |
-| Hey Good Hookin | 66.00% | ~3,047 |
-| I'm on a Boat! | 57.00% | ~2,631 |
-| Can you smell what the Rod is Hooking | 50.00% | ~2,308 |
-| Scaling up | 50.00% | ~2,308 |
-| Ready to Rod and Roll | 42.00% | ~1,939 |
-| More Fish in the Sea | 41.00% | ~1,893 |
-| License to Gill | 33.00% | ~1,523 |
-| Fish Out of Water | 32.00% | ~1,477 |
-| Things that go Splash in the Night | 27.00% | ~1,246 |
-| Goldfish? | 27.00% | ~1,246 |
-| Going for Gold | 24.00% | ~1,108 |
+| Fish Just Got Reel | 76.00% | ~3,510 |
+| Hey Good Hookin | 66.00% | ~3,049 |
+| I'm on a Boat! | 57.00% | ~2,633 |
+| Can you smell what the Rod is Hooking | 50.00% | ~2,310 |
+| Scaling up | 50.00% | ~2,310 |
+| Ready to Rod and Roll | 42.00% | ~1,940 |
+| More Fish in the Sea | 41.00% | ~1,894 |
+| License to Gill | 33.00% | ~1,524 |
+| Fish Out of Water | 32.00% | ~1,478 |
+| Things that go Splash in the Night | 27.00% | ~1,247 |
+| Goldfish? | 27.00% | ~1,247 |
+| Going for Gold | 24.00% | ~1,109 |
 | I'm Hooked! | 18.00% | ~831 |
 | More than a Tourist | 12.00% | ~554 |
 | Diamond in the Rough | 12.00% | ~554 |
-| Hook, Line and Sinker | 8.00% | ~369 |
-| Marathon | 8.00% | ~369 |
+| Hook, Line and Sinker | 8.00% | ~370 |
+| Marathon | 8.00% | ~370 |
 | Big Fish Small Pond | 6.00% | ~277 |
 | I'm the Captain Now | 5.00% | ~231 |
 | School's Out for Summer | 4.00% | ~185 |
-| Gonna Need a Bigger Boat | 3.00% | ~138 |
+| Gonna Need a Bigger Boat | 3.00% | ~139 |
 | The Beetles | 2.00% | ~92 |
 | Rod and Troll | 2.00% | ~80 |
 | Taylor Made | 1.00% | ~46 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | No Fin left to give | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,616 (Ranked 136)  
+Progressed: 4,619 (Ranked 136)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-07 | 4,593 | 0 |
 | 2023-07-08 | 4,603 | 0 |
 | 2023-07-09 | 4,614 | 0 |
-| 2023-07-10 | 4,616 | 0 |
+| 2023-07-10 | 4,619 | 0 |
 ## Awards
 Max (Relaxing): 32  (Ranked 446)  
 Sum: 158 (Ranked 387)  

@@ -1138,7 +1138,7 @@
   ],
   "EOS_Progressed": 4500,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -5055,9 +5055,9 @@
       "ID": "HARVEST_CROP_5",
       "SetID": "5349c2e",
       "Name": "Having A Field Day",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3240
+      "UsersEstimate": 3285
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -5223,9 +5223,9 @@
       "ID": "UNLOCK_RESEARCH",
       "SetID": "5349c2e",
       "Name": "Novice Researcher",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 2835
+      "UsersEstimate": 2880
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -5271,8 +5271,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-07-10T09:00:28.1401302+00:00",
-  "LastChanged_Achievements": "2023-07-10T16:01:18.282323+00:00",
+  "LastChanged_Achievements": "2023-07-10T17:02:13.7590975+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:13.9493644+00:00",
-  "LastUpdate_Ratings": "2023-07-10T16:00:21.7488113+00:00",
-  "LastUpdate_Achievements": "2023-07-10T16:01:18.2823806+00:00"
+  "LastUpdate_Ratings": "2023-07-10T17:01:05.7186403+00:00",
+  "LastUpdate_Achievements": "2023-07-10T17:02:13.7591561+00:00"
 }

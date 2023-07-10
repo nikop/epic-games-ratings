@@ -3,7 +3,7 @@
   "Name": "Fly Corp",
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 251,
-  "Ranking_EOS_Completed": 137,
+  "Ranking_EOS_Completed": 138,
   "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 266,
+  "EOS_Progressed": 267,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.38,
+  "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
     {
       "Time": "2023-06-13T17:01:33.4797695+00:00",
@@ -781,6 +781,11 @@
       "Time": "2023-07-10T14:03:19.3554184+00:00",
       "NumProgressed": 266,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-10T17:03:36.5646337+00:00",
+      "NumProgressed": 267,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -808,7 +813,7 @@
       "Name": "Basic Controls",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "BigPlane",
@@ -902,9 +907,9 @@
       "ID": "Hundred",
       "SetID": "1e89b4i",
       "Name": "One Hundred",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "Incredible",
@@ -958,17 +963,17 @@
       "ID": "LongDistance",
       "SetID": "1e89b4i",
       "Name": "Long Distances",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 75
     },
     {
       "ID": "ManagementMaster",
       "SetID": "1e89b4i",
       "Name": "Management Master",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "MaximumUpgrade",
@@ -1014,9 +1019,9 @@
       "ID": "NotPlanned",
       "SetID": "1e89b4i",
       "Name": "This Wasn\u0027t Part of the Plan...",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 51
     },
     {
       "ID": "Ownway",
@@ -1030,7 +1035,7 @@
       "ID": "PublicFigure",
       "SetID": "1e89b4i",
       "Name": "Public Figure",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -1054,9 +1059,9 @@
       "ID": "ReliableTransporter",
       "SetID": "1e89b4i",
       "Name": "Reliable Transporter",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 59
     },
     {
       "ID": "ResourceEconomy",
@@ -1104,7 +1109,7 @@
       "Name": "Ten!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "TimeForManagement",
@@ -1120,21 +1125,21 @@
       "Name": "Transport Hub",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 266,
+      "Progressed": 267,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-07-10T16:03:29.3589975+00:00",
+  "LastChanged_Achievements": "2023-07-10T17:03:36.564633+00:00",
   "LastUpdate_AppInfo": "2023-07-04T07:57:07.1618856+00:00",
-  "LastUpdate_Ratings": "2023-07-10T15:57:07.2991284+00:00",
-  "LastUpdate_Achievements": "2023-07-10T16:03:29.3590359+00:00"
+  "LastUpdate_Ratings": "2023-07-10T16:57:12.7837058+00:00",
+  "LastUpdate_Achievements": "2023-07-10T17:03:36.5646738+00:00"
 }

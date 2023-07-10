@@ -6,8 +6,8 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 37.00% | ~20,522 |
-| Landlord | 31.00% | ~17,194 |
+| Lawbringer | 37.00% | ~20,523 |
+| Landlord | 31.00% | ~17,195 |
 | Lawmaker | 22.00% | ~12,203 |
 | Bannerlord | 21.00% | ~11,648 |
 | Horde breaker | 21.00% | ~11,648 |
@@ -33,8 +33,8 @@ Number of Ratings: 5,603  (23.09.2022)
 | Veni vidi vici | 4.00% | ~2,219 |
 | Freedom! | 3.00% | ~1,664 |
 | Real Estate | 3.00% | ~1,664 |
-| Entrepreneur | 2.00% | ~1,109 |
 | Long live the Empire! | 2.00% | ~1,109 |
+| Entrepreneur | 1.00% | ~555 |
 | Supreme Emperor | 1.00% | ~555 |
 | Crackshot | 0.80% | ~444 |
 | Undercover | 0.80% | ~444 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,466 (Ranked 83)  
+Progressed: 55,467 (Ranked 83)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,15 +139,15 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-07 | 55,244 | 0 |
 | 2023-07-08 | 55,324 | 0 |
 | 2023-07-09 | 55,420 | 0 |
-| 2023-07-10 | 55,466 | 0 |
+| 2023-07-10 | 55,467 | 0 |
 ## Awards
 Max (Character Customization): 6,773  (Ranked 48)  
-Sum: 13,686 (Ranked 67)  
+Sum: 13,687 (Ranked 67)  
 Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 6,773 |
-| This game is Great for Beginners | 874 |
+| This game is Great for Beginners | 875 |
 | This game has Diverse Characters | 856 |
 | This game is Highly Recommended | 817 |
 | This game is Extremely Fun | 778 |
@@ -337,4 +337,4 @@ Diff (max vs sum): -19
 | 2023-07-07 | 4.74 | - | 6,763 | 13,658 |
 | 2023-07-08 | 4.74 | - | 6,767 | 13,665 |
 | 2023-07-09 | 4.74 | - | 6,773 | 13,679 |
-| 2023-07-10 | 4.74 | - | 6,773 | 13,686 |
+| 2023-07-10 | 4.74 | - | 6,773 | 13,687 |

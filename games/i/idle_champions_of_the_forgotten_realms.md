@@ -6,23 +6,23 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,454 |
-| The Mad Wizard | 11.00% | ~23,066 |
-| The Ring of Regeneration | 7.00% | ~14,679 |
-| Are Ya Chicken? | 7.00% | ~14,679 |
-| Were-verpowered | 6.00% | ~12,582 |
-| Seeking Allies | 5.00% | ~10,485 |
-| Mad Cow Disease | 5.00% | ~10,485 |
-| Friendly Imps | 5.00% | ~10,485 |
-| A Persistent Buzzing | 4.00% | ~8,388 |
-| Pure Energy | 4.00% | ~8,388 |
-| Beast Mode | 3.00% | ~6,291 |
-| Terror in the Dark | 3.00% | ~6,291 |
-| Unearthed Evil | 3.00% | ~6,291 |
-| The Crumbling Temple | 3.00% | ~6,291 |
-| Exploring Port Nyanzaru | 3.00% | ~6,291 |
-| The Contagious Curse | 3.00% | ~6,291 |
-| Escort to Waterdeep | 3.00% | ~6,291 |
+| The Cursed Farmer | 15.00% | ~31,458 |
+| The Mad Wizard | 11.00% | ~23,069 |
+| The Ring of Regeneration | 7.00% | ~14,681 |
+| Are Ya Chicken? | 7.00% | ~14,681 |
+| Were-verpowered | 6.00% | ~12,583 |
+| Seeking Allies | 5.00% | ~10,486 |
+| Mad Cow Disease | 5.00% | ~10,486 |
+| Friendly Imps | 5.00% | ~10,486 |
+| A Persistent Buzzing | 4.00% | ~8,389 |
+| Pure Energy | 4.00% | ~8,389 |
+| Beast Mode | 3.00% | ~6,292 |
+| Terror in the Dark | 3.00% | ~6,292 |
+| Unearthed Evil | 3.00% | ~6,292 |
+| The Crumbling Temple | 3.00% | ~6,292 |
+| Exploring Port Nyanzaru | 3.00% | ~6,292 |
+| The Contagious Curse | 3.00% | ~6,292 |
+| Escort to Waterdeep | 3.00% | ~6,292 |
 | Low Initiative | 2.00% | ~4,194 |
 | A Mysterious Summons | 2.00% | ~4,194 |
 | Building Trust | 2.00% | ~4,194 |
@@ -83,21 +83,21 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elturel Has Fallen | 0.60% | ~1,258 |
 | The Everlasting Rime | 0.60% | ~1,056 |
 | Expert Opinion | 0.60% | ~1,258 |
-| Home Field Advantage | 0.50% | ~1,048 |
-| Force Grey Unleashed | 0.50% | ~1,048 |
-| Sleuth It Out | 0.50% | ~1,048 |
-| Azaka's Procession - Part 1 | 0.50% | ~1,048 |
-| Azaka's Procession - Part 2 | 0.50% | ~1,048 |
-| Chatty Nobles | 0.50% | ~1,048 |
-| Haaave You Met Asmodeus? | 0.50% | ~1,048 |
-| Seeds of Deceit | 0.50% | ~1,048 |
-| The Gargoyle's Apprentice | 0.50% | ~1,048 |
-| Flies on the Wall | 0.50% | ~1,048 |
-| Cramped Quarters | 0.50% | ~1,048 |
-| Waterdeep Under Siege | 0.50% | ~1,048 |
-| Vault of Dragons | 0.50% | ~1,048 |
-| Resolve Amongst Chaos | 0.50% | ~1,048 |
-| Poor Guidance | 0.50% | ~1,048 |
+| Home Field Advantage | 0.50% | ~1,049 |
+| Force Grey Unleashed | 0.50% | ~1,049 |
+| Sleuth It Out | 0.50% | ~1,049 |
+| Azaka's Procession - Part 1 | 0.50% | ~1,049 |
+| Azaka's Procession - Part 2 | 0.50% | ~1,049 |
+| Chatty Nobles | 0.50% | ~1,049 |
+| Haaave You Met Asmodeus? | 0.50% | ~1,049 |
+| Seeds of Deceit | 0.50% | ~1,049 |
+| The Gargoyle's Apprentice | 0.50% | ~1,049 |
+| Flies on the Wall | 0.50% | ~1,049 |
+| Cramped Quarters | 0.50% | ~1,049 |
+| Waterdeep Under Siege | 0.50% | ~1,049 |
+| Vault of Dragons | 0.50% | ~1,049 |
+| Resolve Amongst Chaos | 0.50% | ~1,049 |
+| Poor Guidance | 0.50% | ~1,049 |
 | Anti-Dexterous Explorers | 0.40% | ~839 |
 | Not Very Charming | 0.40% | ~839 |
 | Lobsterfolk Assault | 0.40% | ~839 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209,695 (Ranked 52)  
+Progressed: 209,722 (Ranked 52)  
 Completed: 2,043 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -591,10 +591,10 @@ Completed: 2,043 (0.97%) (Ranked 102)
 | 2023-07-07 | 208,152 | 2,037 |
 | 2023-07-08 | 208,782 | 2,041 |
 | 2023-07-09 | 209,384 | 2,043 |
-| 2023-07-10 | 209,695 | 2,043 |
+| 2023-07-10 | 209,722 | 2,043 |
 ## Awards
 Max (Diverse Characters): 5,021  (Ranked 65)  
-Sum: 30,468 (Ranked 37)  
+Sum: 30,470 (Ranked 37)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -603,7 +603,7 @@ Diff (max vs sum): 28
 | This game has Quickly Understood Controls | 4,653 |
 | This game is Relaxing | 4,547 |
 | This game is Highly Recommended | 4,000 |
-| This game has Amazing Characters | 3,998 |
+| This game has Amazing Characters | 4,000 |
 | This game has Playful Visuals | 3,295 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -773,4 +773,4 @@ Diff (max vs sum): 28
 | 2023-07-07 | 4.05 | - | 5,013 | 30,436 |
 | 2023-07-08 | 4.05 | - | 5,013 | 30,446 |
 | 2023-07-09 | 4.05 | - | 5,016 | 30,455 |
-| 2023-07-10 | 4.05 | - | 5,021 | 30,468 |
+| 2023-07-10 | 4.05 | - | 5,021 | 30,470 |

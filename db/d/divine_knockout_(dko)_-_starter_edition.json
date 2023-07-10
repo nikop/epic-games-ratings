@@ -4,10 +4,10 @@
   "ProductSlug": "divine-knockout",
   "Ranking_Rating": 755,
   "Ranking_Popularity": 390,
-  "Ranking_PopularitySum": 300,
+  "Ranking_PopularitySum": 299,
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-06-29T11:00:00+00:00",
@@ -942,10 +942,16 @@
       "Rating": 4.33,
       "NumberOfAwards": 483,
       "NumberOfAwardsMax": 55
+    },
+    {
+      "Time": "2023-07-10T17:01:06.269774+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 485,
+      "NumberOfAwardsMax": 55
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 483,
+  "NumberOfAwards": 485,
   "NumberOfAwardsMax": 55,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -983,7 +989,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 50
+      "Count": 51
     },
     {
       "Text": "This game has Playful Visuals",
@@ -995,7 +1001,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 40
+      "Count": 41
     },
     {
       "Text": "This game is Relaxing",
@@ -1039,8 +1045,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:52.9902406+00:00",
-  "LastChanged": "2023-07-10T10:00:26.7165445+00:00",
+  "LastChanged": "2023-07-10T17:01:06.2697738+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:14.6006169+00:00",
-  "LastUpdate_Ratings": "2023-07-10T16:00:22.1791863+00:00",
-  "LastUpdate_Achievements": "2023-07-10T16:06:16.7051583+00:00"
+  "LastUpdate_Ratings": "2023-07-10T17:01:06.2697744+00:00",
+  "LastUpdate_Achievements": "2023-07-10T17:06:52.6202185+00:00"
 }

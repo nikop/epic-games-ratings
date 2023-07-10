@@ -5,38 +5,38 @@ Rating: 4.77 (Ranked 107)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 11.00% | ~31,516 |
-| First Class Student | 10.00% | ~28,651 |
-| Troll with the Punches | 10.00% | ~28,651 |
-| A Keen Sense of Spell | 9.00% | ~25,786 |
-| That's a Keeper | 9.00% | ~25,786 |
-| Grappling with a Graphorn | 8.00% | ~22,921 |
-| The One Who Mastered Memories | 8.00% | ~22,921 |
-| The Hallowed Hero | 8.00% | ~22,921 |
-| The Hero of Hogwarts | 8.00% | ~22,921 |
-| The Defender of Dragons | 8.00% | ~22,921 |
-| Loom for Improvement | 8.00% | ~22,921 |
-| A Talent for Spending | 8.00% | ~22,921 |
-| Coasting Along | 8.00% | ~22,921 |
-| Challenge Accepted | 7.00% | ~20,055 |
-| Followed the Butterflies | 7.00% | ~20,055 |
-| Rising From the Ashes | 7.00% | ~20,055 |
-| The Avenging Gazelle | 6.00% | ~17,190 |
-| Beast Friends | 6.00% | ~17,190 |
-| A Sallow Grave | 6.00% | ~17,190 |
-| Flight the Good Flight | 6.00% | ~17,190 |
-| The Spell Master | 6.00% | ~17,190 |
-| The Seeker of Knowledge | 5.00% | ~14,325 |
-| The Root of the Problem | 4.00% | ~11,460 |
-| Third Time's a Charm | 4.00% | ~11,460 |
-| The Ends Petrify the Means | 4.00% | ~11,460 |
-| Raising Expectations | 4.00% | ~11,460 |
-| The Toast of the Town | 3.00% | ~8,595 |
-| Going Through the Potions | 3.00% | ~8,595 |
-| Room with a View | 3.00% | ~8,595 |
-| The Intrepid Explorer | 3.00% | ~8,595 |
-| The Gryffindor in the Graveyard | 3.00% | ~8,595 |
-| The Wise Owl | 3.00% | ~8,595 |
+| The Sort Who Makes an Entrance | 11.00% | ~31,518 |
+| First Class Student | 10.00% | ~28,652 |
+| Troll with the Punches | 10.00% | ~28,652 |
+| A Keen Sense of Spell | 9.00% | ~25,787 |
+| That's a Keeper | 9.00% | ~25,787 |
+| Grappling with a Graphorn | 8.00% | ~22,922 |
+| The One Who Mastered Memories | 8.00% | ~22,922 |
+| The Hallowed Hero | 8.00% | ~22,922 |
+| The Hero of Hogwarts | 8.00% | ~22,922 |
+| The Defender of Dragons | 8.00% | ~22,922 |
+| Loom for Improvement | 8.00% | ~22,922 |
+| A Talent for Spending | 8.00% | ~22,922 |
+| Coasting Along | 8.00% | ~22,922 |
+| Challenge Accepted | 7.00% | ~20,057 |
+| Followed the Butterflies | 7.00% | ~20,057 |
+| Rising From the Ashes | 7.00% | ~20,057 |
+| The Avenging Gazelle | 6.00% | ~17,191 |
+| Beast Friends | 6.00% | ~17,191 |
+| A Sallow Grave | 6.00% | ~17,191 |
+| Flight the Good Flight | 6.00% | ~17,191 |
+| The Spell Master | 6.00% | ~17,191 |
+| The Seeker of Knowledge | 5.00% | ~14,326 |
+| The Root of the Problem | 4.00% | ~11,461 |
+| Third Time's a Charm | 4.00% | ~11,461 |
+| The Ends Petrify the Means | 4.00% | ~11,461 |
+| Raising Expectations | 4.00% | ~11,461 |
+| The Toast of the Town | 3.00% | ~8,596 |
+| Going Through the Potions | 3.00% | ~8,596 |
+| Room with a View | 3.00% | ~8,596 |
+| The Intrepid Explorer | 3.00% | ~8,596 |
+| The Gryffindor in the Graveyard | 3.00% | ~8,596 |
+| The Wise Owl | 3.00% | ~8,596 |
 | Put Down Roots | 2.00% | ~5,730 |
 | The Auror's Apprentice | 2.00% | ~5,730 |
 | Floo Around the World | 2.00% | ~5,730 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 107)
 | The Nature of the Beast | 0.50% | ~1,433 |
 | Collector's Edition | 0.20% | ~573 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 286,507 (Ranked 41)  
+Progressed: 286,524 (Ranked 41)  
 Completed: 422 (0.15%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,10 +132,10 @@ Completed: 422 (0.15%) (Ranked 172)
 | 2023-07-07 | 285,655 | 419 |
 | 2023-07-08 | 285,994 | 419 |
 | 2023-07-09 | 286,337 | 420 |
-| 2023-07-10 | 286,507 | 422 |
+| 2023-07-10 | 286,524 | 422 |
 ## Awards
 Max (Character Customization): 20,828  (Ranked 17)  
-Sum: 38,869 (Ranked 30)  
+Sum: 38,870 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -150,7 +150,7 @@ Diff (max vs sum): -13
 | This game is Highly Recommended | 819 |
 | This game has Quickly Understood Controls | 781 |
 | This game has Beautiful Visuals | 727 |
-| This game has a Creative Community | 548 |
+| This game has a Creative Community | 549 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -262,4 +262,4 @@ Diff (max vs sum): -13
 | 2023-07-07 | 4.77 | 20,762 | 38,712 |
 | 2023-07-08 | 4.77 | 20,791 | 38,769 |
 | 2023-07-09 | 4.77 | 20,828 | 38,845 |
-| 2023-07-10 | 4.77 | 20,828 | 38,869 |
+| 2023-07-10 | 4.77 | 20,828 | 38,870 |

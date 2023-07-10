@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2782,
+  "EOS_Progressed": 2783,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 286,
+  "EOS_NewPlayers": 278,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2218,6 +2218,11 @@
       "Time": "2023-07-10T16:06:52.0627599+00:00",
       "NumProgressed": 2782,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-10T17:07:34.3550523+00:00",
+      "NumProgressed": 2783,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2261,7 +2266,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 1363
+      "UsersEstimate": 1364
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -2325,7 +2330,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 2003
+      "UsersEstimate": 2004
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -2341,7 +2346,7 @@
       "Name": "Call Me Snake",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 1641
+      "UsersEstimate": 1642
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -2349,7 +2354,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 1780
+      "UsersEstimate": 1781
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -2379,9 +2384,9 @@
       "ID": "ACH_MAX_GUNNER",
       "SetID": "816efe",
       "Name": "El Riesgo Siempre Vive",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 417
+      "UsersEstimate": 445
     },
     {
       "ID": "ACH_MAX_MEDIC",
@@ -2437,7 +2442,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     },
     {
       "ID": "ACH_MISSION_04",
@@ -2453,7 +2458,7 @@
       "Name": "Where It All Begun",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "ACH_MISSION_06",
@@ -2493,7 +2498,7 @@
       "Name": "The Spire",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "ACH_MISSION_11",
@@ -2523,9 +2528,9 @@
       "ID": "ACH_PREVENT_ABDUCTED",
       "SetID": "816efe",
       "Name": "Snatched Out",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 2059
+      "UsersEstimate": 2032
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -2565,7 +2570,7 @@
       "Name": "Recouped Investment",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 890
+      "UsersEstimate": 891
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -2588,7 +2593,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 2782,
+      "Progressed": 2783,
       "Completed": 0
     }
   ],
@@ -2596,8 +2601,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-09T20:59:26.8996663+00:00",
-  "LastChanged_Achievements": "2023-07-10T16:06:52.0627594+00:00",
+  "LastChanged_Achievements": "2023-07-10T17:07:34.3550516+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:32.529009+00:00",
-  "LastUpdate_Ratings": "2023-07-10T15:59:47.3147785+00:00",
-  "LastUpdate_Achievements": "2023-07-10T16:06:52.0628146+00:00"
+  "LastUpdate_Ratings": "2023-07-10T17:00:24.316036+00:00",
+  "LastUpdate_Achievements": "2023-07-10T17:07:34.3551247+00:00"
 }

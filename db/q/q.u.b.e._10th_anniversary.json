@@ -4,7 +4,7 @@
   "ProductSlug": "qube-10th-anniversary-59e999",
   "Ranking_EOS_Progress": 456,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-09-29T11:00:00+00:00",
@@ -235,8 +235,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
-  "LastChanged_Achievements": "2023-07-10T16:06:52.3857804+00:00",
+  "LastChanged_Achievements": "2023-07-10T17:07:34.7604787+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:46.6679162+00:00",
-  "LastUpdate_Ratings": "2023-07-10T15:59:59.7031967+00:00",
-  "LastUpdate_Achievements": "2023-07-10T16:06:52.3858123+00:00"
+  "LastUpdate_Ratings": "2023-07-10T17:00:38.981742+00:00",
+  "LastUpdate_Achievements": "2023-07-10T17:07:34.7604964+00:00"
 }

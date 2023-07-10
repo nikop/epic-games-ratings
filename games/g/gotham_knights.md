@@ -5,7 +5,7 @@ Rating: 4.18 (Ranked 854)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 6.00% | ~4,009 |
+| First Step Into the Knight | 6.00% | ~4,010 |
 | To the Victor Go the Spoils | 4.00% | ~2,673 |
 | Har, Har, Har, Very Funny | 4.00% | ~2,673 |
 | Knighthood | 4.00% | ~2,673 |
@@ -22,19 +22,19 @@ Rating: 4.18 (Ranked 854)
 | Lock and Key | 3.00% | ~2,005 |
 | Bad Apples in Every Orchard | 3.00% | ~2,005 |
 | From Inside Gotham's Walls | 3.00% | ~2,005 |
-| End of an Era | 2.00% | ~1,336 |
-| In Your Element | 2.00% | ~1,336 |
-| Protector of Gotham | 2.00% | ~1,336 |
-| Rock and a Hard Place | 2.00% | ~1,336 |
-| Not On My Watch | 2.00% | ~1,336 |
-| Bulldozed | 2.00% | ~1,336 |
-| Shock Til They Drop | 2.00% | ~1,336 |
-| Cooldown | 2.00% | ~1,336 |
-| Universal Health Scare | 2.00% | ~1,336 |
-| Voiceless | 2.00% | ~1,336 |
-| Seeking Asylum | 2.00% | ~1,336 |
-| Gotham Knight | 2.00% | ~1,336 |
-| Gotham City Confidential | 2.00% | ~1,336 |
+| End of an Era | 2.00% | ~1,337 |
+| In Your Element | 2.00% | ~1,337 |
+| Protector of Gotham | 2.00% | ~1,337 |
+| Rock and a Hard Place | 2.00% | ~1,337 |
+| Not On My Watch | 2.00% | ~1,337 |
+| Bulldozed | 2.00% | ~1,337 |
+| Shock Til They Drop | 2.00% | ~1,337 |
+| Cooldown | 2.00% | ~1,337 |
+| Universal Health Scare | 2.00% | ~1,337 |
+| Voiceless | 2.00% | ~1,337 |
+| Seeking Asylum | 2.00% | ~1,337 |
+| Gotham Knight | 2.00% | ~1,337 |
+| Gotham City Confidential | 2.00% | ~1,337 |
 | Fusion Expert | 1.00% | ~668 |
 | Out of Their League | 1.00% | ~668 |
 | Family Meeting | 1.00% | ~668 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 854)
 | History Major | 0.10% | ~67 |
 | Confronting Your Demon | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,818 (Ranked 75)  
+Progressed: 66,826 (Ranked 75)  
 Completed: 101 (0.15%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,14 +148,14 @@ Completed: 101 (0.15%) (Ranked 172)
 | 2023-07-07 | 66,641 | 101 |
 | 2023-07-08 | 66,718 | 101 |
 | 2023-07-09 | 66,781 | 101 |
-| 2023-07-10 | 66,818 | 101 |
+| 2023-07-10 | 66,826 | 101 |
 ## Awards
-Max (Great Boss Battles): 2,431  (Ranked 99)  
-Sum: 4,025 (Ranked 137)  
+Max (Great Boss Battles): 2,434  (Ranked 99)  
+Sum: 4,028 (Ranked 137)  
 Diff (max vs sum): -38  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,431 |
+| This game has Great Boss Battles | 2,434 |
 | This game has Quickly Understood Controls | 206 |
 | This game is Relaxing | 205 |
 | This game is Extremely Fun | 205 |
@@ -307,4 +307,4 @@ Diff (max vs sum): -38
 | 2023-07-07 | 4.18 | 2,421 | 4,010 |
 | 2023-07-08 | 4.18 | 2,425 | 4,014 |
 | 2023-07-09 | 4.18 | 2,431 | 4,023 |
-| 2023-07-10 | 4.18 | 2,431 | 4,025 |
+| 2023-07-10 | 4.18 | 2,434 | 4,028 |

@@ -2,7 +2,7 @@
   "ID": "97be0dec5b1d4577b7647d3d96d79a94",
   "Name": "Life After Death",
   "ProductSlug": "life-after-death-b4e964",
-  "Ranking_EOS_Progress": 411,
+  "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 284,
   "Ranking_EOS_NewCompleters": 95,
@@ -549,8 +549,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-28T14:03:50.6091132+00:00",
-  "LastChanged_Achievements": "2023-07-10T16:05:28.2248936+00:00",
+  "LastChanged_Achievements": "2023-07-10T17:05:55.2067561+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:40.5933177+00:00",
-  "LastUpdate_Ratings": "2023-07-10T15:59:55.1399023+00:00",
-  "LastUpdate_Achievements": "2023-07-10T16:05:28.2250109+00:00"
+  "LastUpdate_Ratings": "2023-07-10T17:00:32.8363564+00:00",
+  "LastUpdate_Achievements": "2023-07-10T17:05:55.2068248+00:00"
 }

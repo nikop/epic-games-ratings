@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 74,
+  "EOS_Progressed": 75,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 6.76,
+  "EOS_Completed_Percentage": 6.67,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -246,6 +246,11 @@
       "Time": "2023-07-10T15:05:15.242847+00:00",
       "NumProgressed": 74,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-10T17:05:11.0931351+00:00",
+      "NumProgressed": 75,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 16,
@@ -279,7 +284,7 @@
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "8d3ci0",
       "Name": "Ducks adrift",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
       "UsersEstimate": 22
     },
@@ -287,7 +292,7 @@
       "ID": "NEW_ACHIEVEMENT_1_12",
       "SetID": "8d3ci0",
       "Name": "That\u0027s all, ducks!",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 160,
       "UsersEstimate": 13
     },
@@ -295,7 +300,7 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "8d3ci0",
       "Name": "High-rise",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 15,
       "UsersEstimate": 36
     },
@@ -303,7 +308,7 @@
       "ID": "NEW_ACHIEVEMENT_1_14",
       "SetID": "8d3ci0",
       "Name": "Putting challenge",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 80,
       "UsersEstimate": 16
     },
@@ -327,7 +332,7 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "8d3ci0",
       "Name": "Make a wish",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 25
     },
@@ -351,7 +356,7 @@
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "8d3ci0",
       "Name": "Private pool",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
       "UsersEstimate": 39
     },
@@ -384,14 +389,14 @@
     {
       "ID": "8d3ci0",
       "IsBase": true,
-      "Progressed": 74,
+      "Progressed": 75,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-10T16:04:50.8348972+00:00",
+  "LastChanged_Achievements": "2023-07-10T17:05:11.0931345+00:00",
   "LastUpdate_AppInfo": "2023-07-08T11:56:59.3518994+00:00",
-  "LastUpdate_Ratings": "2023-07-10T15:57:08.6343798+00:00",
-  "LastUpdate_Achievements": "2023-07-10T16:04:50.8349138+00:00"
+  "LastUpdate_Ratings": "2023-07-10T16:57:14.2941885+00:00",
+  "LastUpdate_Achievements": "2023-07-10T17:05:11.0931512+00:00"
 }

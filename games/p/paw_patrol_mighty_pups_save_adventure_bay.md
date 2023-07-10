@@ -13,15 +13,15 @@
 | Carlos Is Tangled | 50.00% | ~7 |
 | Mandy Family | 50.00% | ~7 |
 | Robot Out of Control | 50.00% | ~7 |
-| Mr. Porter | 36.00% | ~5 |
-| Animal Sighting | 36.00% | ~5 |
+| Mr. Porter | 43.00% | ~6 |
+| Animal Sighting | 43.00% | ~6 |
+| Training Day | 36.00% | ~5 |
+| The Fastest | 36.00% | ~5 |
+| You Have Been Everywhere | 36.00% | ~5 |
 | Break Time | 29.00% | ~4 |
 | Master of the Rope | 29.00% | ~4 |
-| Training Day | 29.00% | ~4 |
-| The Fastest | 29.00% | ~4 |
-| You Have Been Everywhere | 29.00% | ~4 |
-| In the Air | 21.00% | ~3 |
-| Never Miss | 21.00% | ~3 |
+| In the Air | 29.00% | ~4 |
+| Never Miss | 29.00% | ~4 |
 | Adventure Bay’s Citizen | 21.00% | ~3 |
 | Everything Under Control | 14.00% | ~2 |
 | Clear the Road | 14.00% | ~2 |

@@ -6,22 +6,22 @@ Rating: 4.39 (Ranked 701)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | This Is Hayes, Pioneer Station, Signing Off | 80.00% | ~2,226 |
-| Snatched Out | 74.00% | ~2,059 |
-| Keep 'Em Coming | 72.00% | ~2,003 |
-| Cleaning Lethe, One Nest At A Time | 64.00% | ~1,780 |
-| Call Me Snake | 59.00% | ~1,641 |
+| Snatched Out | 73.00% | ~2,032 |
+| Keep 'Em Coming | 72.00% | ~2,004 |
+| Cleaning Lethe, One Nest At A Time | 64.00% | ~1,781 |
+| Call Me Snake | 59.00% | ~1,642 |
 | Something Lurks Under The Hills | 57.00% | ~1,586 |
 | This Was No Papercut | 56.00% | ~1,558 |
 | The Shrink Hates Me | 52.00% | ~1,447 |
 | People Person | 51.00% | ~1,419 |
-| Use The Bumper, That's What It's For | 49.00% | ~1,363 |
+| Use The Bumper, That's What It's For | 49.00% | ~1,364 |
 | First Steps Into Madness | 47.00% | ~1,308 |
 | Colonial Barrels | 46.00% | ~1,280 |
 | Damn Dude, You Gotta Lose Some Weight! | 39.00% | ~1,085 |
-| Harper's Hell | 37.00% | ~1,029 |
+| Harper's Hell | 37.00% | ~1,030 |
 | Making a Stand | 35.00% | ~974 |
-| Recouped Investment | 32.00% | ~890 |
-| Where It All Begun | 31.00% | ~862 |
+| Recouped Investment | 32.00% | ~891 |
+| Where It All Begun | 31.00% | ~863 |
 | Omelette Du Fromage | 30.00% | ~835 |
 | The More The Merrier | 24.00% | ~668 |
 | Living Nightmare | 23.00% | ~640 |
@@ -30,8 +30,8 @@ Rating: 4.39 (Ranked 701)
 | Come on, You Wanna Live Forever? | 17.00% | ~473 |
 | Deep Into Insanity | 17.00% | ~473 |
 | The Passenger | 17.00% | ~473 |
-| El Riesgo Siempre Vive | 15.00% | ~417 |
-| The Spire | 14.00% | ~389 |
+| El Riesgo Siempre Vive | 16.00% | ~445 |
+| The Spire | 14.00% | ~390 |
 | One For Every Occasion | 13.00% | ~362 |
 | Bandage Lover | 12.00% | ~334 |
 | Frontliner | 12.00% | ~334 |
@@ -51,7 +51,7 @@ Rating: 4.39 (Ranked 701)
 | Perfect Organism | 0.30% | ~8 |
 | This Ain't No Picnic | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,782 (Ranked 154)  
+Progressed: 2,783 (Ranked 154)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-07 | 2,686 | 0 |
 | 2023-07-08 | 2,739 | 0 |
 | 2023-07-09 | 2,769 | 0 |
-| 2023-07-10 | 2,782 | 0 |
+| 2023-07-10 | 2,783 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 79,
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 80,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -5076,9 +5076,9 @@
       "Count": 362
     }
   ],
-  "EOS_Progressed": 710642,
+  "EOS_Progressed": 710643,
   "EOS_Completed": 12809,
-  "EOS_NewPlayers": 212,
+  "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -12736,6 +12736,11 @@
       "Time": "2023-07-10T16:06:59.6621029+00:00",
       "NumProgressed": 710642,
       "NumCompleted": 12809
+    },
+    {
+      "Time": "2023-07-10T17:07:42.8250576+00:00",
+      "NumProgressed": 710643,
+      "NumCompleted": 12809
     }
   ],
   "TotalAchievements": 50,
@@ -12795,7 +12800,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 4974
+      "UsersEstimate": 4975
     },
     {
       "ID": "08_Wude_H2",
@@ -12859,7 +12864,7 @@
       "Name": "Detective Story",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 4974
+      "UsersEstimate": 4975
     },
     {
       "ID": "16_Detective_H2",
@@ -13146,21 +13151,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 19943,
-      "Completed": 10379
+      "Progressed": 19944,
+      "Completed": 10380
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 710642,
+      "Progressed": 710643,
       "Completed": 12809
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-10T15:59:27.4235134+00:00",
-  "LastChanged_Achievements": "2023-07-10T16:06:59.6621025+00:00",
+  "LastChanged_Achievements": "2023-07-10T17:07:42.8250569+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:05.6915334+00:00",
-  "LastUpdate_Ratings": "2023-07-10T15:59:27.4235146+00:00",
-  "LastUpdate_Achievements": "2023-07-10T16:06:59.6621875+00:00"
+  "LastUpdate_Ratings": "2023-07-10T17:00:00.0526471+00:00",
+  "LastUpdate_Achievements": "2023-07-10T17:07:42.8251871+00:00"
 }

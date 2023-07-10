@@ -7,7 +7,7 @@ Number of Ratings: 87  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Dealmaker | 12.00% | ~91 |
-| Full garage | 11.00% | ~83 |
+| Full garage | 11.00% | ~84 |
 | Individual delivery | 9.00% | ~68 |
 | To the eyeballs! | 9.00% | ~68 |
 | Juggler | 8.00% | ~61 |
@@ -33,8 +33,6 @@ Number of Ratings: 87  (23.09.2022)
 | Beginner | 3.00% | ~23 |
 | Jewelry accuracy | 3.00% | ~23 |
 | Overseer | 3.00% | ~23 |
-| Prick of conscience | 3.00% | ~23 |
-| Relocation | 3.00% | ~23 |
 | Star Sapphire | 3.00% | ~3 |
 | Without a lunch break | 3.00% | ~23 |
 | Astronomer | 2.00% | ~15 |
@@ -48,6 +46,8 @@ Number of Ratings: 87  (23.09.2022)
 | Living it large | 2.00% | ~15 |
 | Lucky vandal | 2.00% | ~15 |
 | Missed it! | 2.00% | ~15 |
+| Prick of conscience | 2.00% | ~15 |
+| Relocation | 2.00% | ~15 |
 | Sabotage | 2.00% | ~15 |
 | Squander | 2.00% | ~15 |
 | Stargazer | 2.00% | ~15 |
@@ -82,7 +82,7 @@ Number of Ratings: 87  (23.09.2022)
 | Gemologist | 0.00% | ~0 |
 | Jeweller | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 759 (Ranked 195)  
+Progressed: 761 (Ranked 195)  
 Completed: 1 (0.13%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 1 (0.13%) (Ranked 178)
 | 2023-07-07 | 752 | 1 |
 | 2023-07-08 | 757 | 1 |
 | 2023-07-09 | 758 | 1 |
-| 2023-07-10 | 759 | 1 |
+| 2023-07-10 | 761 | 1 |
 ## Awards
 Max (Challenging Puzzles): 72  (Ranked 370)  
 Sum: 72 (Ranked 428)  

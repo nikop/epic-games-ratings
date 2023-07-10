@@ -1323,9 +1323,9 @@
       "ID": "MuhsroomTruth",
       "SetID": "2aagp3d",
       "Name": "The cycle acknowledged",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 22
+      "UsersEstimate": 27
     },
     {
       "ID": "NoMoreWards",
@@ -1444,8 +1444,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-07-10T16:06:57.2201346+00:00",
+  "LastChanged_Achievements": "2023-07-10T17:07:40.1497386+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:26.2300006+00:00",
-  "LastUpdate_Ratings": "2023-07-10T15:58:14.5295826+00:00",
-  "LastUpdate_Achievements": "2023-07-10T16:06:57.220164+00:00"
+  "LastUpdate_Ratings": "2023-07-10T16:58:32.6944707+00:00",
+  "LastUpdate_Achievements": "2023-07-10T17:07:40.1497731+00:00"
 }
