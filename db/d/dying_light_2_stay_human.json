@@ -6859,9 +6859,9 @@
       "Count": 574
     }
   ],
-  "EOS_Progressed": 591553,
+  "EOS_Progressed": 591558,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 4902,
+  "EOS_NewPlayers": 4894,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15559,6 +15559,11 @@
       "Time": "2023-07-10T03:27:30.090686+00:00",
       "NumProgressed": 591553,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-07-10T04:03:05.5877339+00:00",
+      "NumProgressed": 591558,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 65,
@@ -15570,7 +15575,7 @@
       "Name": "Into the Unknown",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 59155
+      "UsersEstimate": 59156
     },
     {
       "ID": "achievement_02",
@@ -15578,7 +15583,7 @@
       "Name": "First Shot",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 59155
+      "UsersEstimate": 59156
     },
     {
       "ID": "achievement_03",
@@ -15706,7 +15711,7 @@
       "Name": "Sancho Panza",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 47324
+      "UsersEstimate": 47325
     },
     {
       "ID": "achievement_19",
@@ -16089,21 +16094,21 @@
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 591553,
+      "Progressed": 591558,
       "Completed": 58
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 236997,
+      "Progressed": 237002,
       "Completed": 1419
     }
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
   "LastChanged": "2023-07-10T02:26:28.8480309+00:00",
-  "LastChanged_Achievements": "2023-07-10T03:27:30.0906854+00:00",
+  "LastChanged_Achievements": "2023-07-10T04:03:05.5877332+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:19.9732845+00:00",
-  "LastUpdate_Ratings": "2023-07-10T03:25:07.3864421+00:00",
-  "LastUpdate_Achievements": "2023-07-10T03:27:30.0908263+00:00"
+  "LastUpdate_Ratings": "2023-07-10T03:59:40.4175265+00:00",
+  "LastUpdate_Achievements": "2023-07-10T04:03:05.5878587+00:00"
 }

@@ -5463,9 +5463,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 55429,
+  "EOS_Progressed": 55430,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 584,
+  "EOS_NewPlayers": 585,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13808,6 +13808,11 @@
       "Time": "2023-07-10T03:31:09.4639+00:00",
       "NumProgressed": 55429,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-10T04:06:02.738029+00:00",
+      "NumProgressed": 55430,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -13947,7 +13952,7 @@
       "Name": "God of the Arena",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 6651
+      "UsersEstimate": 6652
     },
     {
       "ID": "Great Granny",
@@ -14059,7 +14064,7 @@
       "Name": "Lawmaker",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 12194
+      "UsersEstimate": 12195
     },
     {
       "ID": "Long live the Empire",
@@ -14226,15 +14231,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 55429,
+      "Progressed": 55430,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-07-10T02:26:19.0489489+00:00",
-  "LastChanged_Achievements": "2023-07-10T03:31:09.4638995+00:00",
+  "LastChanged_Achievements": "2023-07-10T04:06:02.7380283+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:03.335469+00:00",
-  "LastUpdate_Ratings": "2023-07-10T03:24:55.8800585+00:00",
-  "LastUpdate_Achievements": "2023-07-10T03:31:09.4640053+00:00"
+  "LastUpdate_Ratings": "2023-07-10T03:59:31.4042032+00:00",
+  "LastUpdate_Achievements": "2023-07-10T04:06:02.7381163+00:00"
 }

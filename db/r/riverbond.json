@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 521771,
+  "EOS_Progressed": 521772,
   "EOS_Completed": 442,
-  "EOS_NewPlayers": 600,
+  "EOS_NewPlayers": 599,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -8765,6 +8765,11 @@
       "Time": "2023-07-10T03:25:55.8806307+00:00",
       "NumProgressed": 521771,
       "NumCompleted": 442
+    },
+    {
+      "Time": "2023-07-10T04:00:25.4365765+00:00",
+      "NumProgressed": 521772,
+      "NumCompleted": 442
     }
   ],
   "TotalAchievements": 57,
@@ -8776,7 +8781,7 @@
       "Name": "AAARR!",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 120007
+      "UsersEstimate": 120008
     },
     {
       "ID": "10",
@@ -8856,7 +8861,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 323498
+      "UsersEstimate": 323499
     },
     {
       "ID": "2",
@@ -9008,7 +9013,7 @@
       "Name": "Sunday Best",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 83483
+      "UsersEstimate": 83484
     },
     {
       "ID": "37",
@@ -9104,7 +9109,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 323498
+      "UsersEstimate": 323499
     },
     {
       "ID": "48",
@@ -9160,7 +9165,7 @@
       "Name": "Hello Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 120007
+      "UsersEstimate": 120008
     },
     {
       "ID": "54",
@@ -9231,15 +9236,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 521771,
+      "Progressed": 521772,
       "Completed": 442
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-07-10T03:25:55.8806299+00:00",
+  "LastChanged_Achievements": "2023-07-10T04:00:25.436576+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:39.1461956+00:00",
-  "LastUpdate_Ratings": "2023-07-10T03:22:47.1140945+00:00",
-  "LastUpdate_Achievements": "2023-07-10T03:25:55.8807576+00:00"
+  "LastUpdate_Ratings": "2023-07-10T03:57:28.9841482+00:00",
+  "LastUpdate_Achievements": "2023-07-10T04:00:25.4367358+00:00"
 }

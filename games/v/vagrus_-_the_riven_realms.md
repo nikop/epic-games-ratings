@@ -52,6 +52,7 @@
 | Celebrity | 0.90% | ~1 |
 | Ruiner | 0.90% | ~1 |
 | Life... Finds a Way | 0.90% | ~1 |
+| Wyrmslayer | 0.90% | ~1 |
 | Merchant Lord | 0.90% | ~1 |
 | Voracity Confronted | 0.90% | ~1 |
 | Liberator | 0.00% | ~0 |
@@ -97,7 +98,6 @@
 | The Last Voyage | 0.00% | ~0 |
 | Tax Evasion | 0.00% | ~0 |
 | Theory to Practice | 0.00% | ~0 |
-| Wyrmslayer | 0.00% | ~0 |
 | Defiant | 0.00% | ~0 |
 | Vagrus Supreme | 0.00% | ~0 |
 | Glorious leader | 0.00% | ~0 |

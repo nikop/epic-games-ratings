@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 749,
+  "EOS_Progressed": 750,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -1584,6 +1584,11 @@
       "Time": "2023-07-09T15:07:34.4817435+00:00",
       "NumProgressed": 749,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-10T04:05:59.4531271+00:00",
+      "NumProgressed": 750,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1595,7 +1600,7 @@
       "Name": "Thinking Two Steps Ahead",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "CamilleDefeated",
@@ -1611,7 +1616,7 @@
       "Name": "Chaincrawler Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ChestCompletion1",
@@ -1619,7 +1624,7 @@
       "Name": "Treasure Trove",
       "Percentage": 13,
       "XP": 75,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -1675,7 +1680,7 @@
       "Name": "Cultivair Explorer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "EntresolChests1",
@@ -1707,7 +1712,7 @@
       "Name": "Fairgrounds Explorer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -1723,7 +1728,7 @@
       "Name": "The Betrayer",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -1779,7 +1784,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "LacunaCompleted",
@@ -1835,7 +1840,7 @@
       "Name": "Time Flies",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ParryBoss",
@@ -1843,7 +1848,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ParryRepeated1",
@@ -1851,7 +1856,7 @@
       "Name": "No, Thanks!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "PhaseDiveCounter",
@@ -1867,7 +1872,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "PidgeDefeated",
@@ -1899,7 +1904,7 @@
       "Name": "Golem Hunter",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ScrambotProgress1",
@@ -1923,7 +1928,7 @@
       "Name": "Fast Learner",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "SpeedRun",
@@ -1931,7 +1936,7 @@
       "Name": "No Time to Waste",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "SumpChests1",
@@ -1939,7 +1944,7 @@
       "Name": "Sump Explorer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "SyronGift",
@@ -1947,7 +1952,7 @@
       "Name": "Syron for Hope",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "TemporalPulseKills1",
@@ -1971,7 +1976,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "WarwickDefeated",
@@ -1987,7 +1992,7 @@
       "Name": "Ask Questions Later",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "WatcherSpared",
@@ -1995,7 +2000,7 @@
       "Name": "Good Neighbor",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Zarkon1Defeated",
@@ -2018,14 +2023,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 749,
+      "Progressed": 750,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-10T03:31:05.5587215+00:00",
+  "LastChanged_Achievements": "2023-07-10T04:05:59.4531267+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:34.816735+00:00",
-  "LastUpdate_Ratings": "2023-07-10T03:24:37.725458+00:00",
-  "LastUpdate_Achievements": "2023-07-10T03:31:05.558789+00:00"
+  "LastUpdate_Ratings": "2023-07-10T03:59:12.514722+00:00",
+  "LastUpdate_Achievements": "2023-07-10T04:05:59.4531786+00:00"
 }

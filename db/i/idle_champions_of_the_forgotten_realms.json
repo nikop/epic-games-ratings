@@ -4808,11 +4808,17 @@
       "Rating": 4.05,
       "NumberOfAwards": 30455,
       "NumberOfAwardsMax": 5016
+    },
+    {
+      "Time": "2023-07-10T03:58:04.5500605+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30461,
+      "NumberOfAwardsMax": 5021
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30455,
-  "NumberOfAwardsMax": 5016,
+  "NumberOfAwards": 30461,
+  "NumberOfAwardsMax": 5021,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -4825,13 +4831,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5016
+      "Count": 5021
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4652
+      "Count": 4653
     },
     {
       "Text": "This game is Relaxing",
@@ -4858,9 +4864,9 @@
       "Count": 3294
     }
   ],
-  "EOS_Progressed": 209464,
+  "EOS_Progressed": 209468,
   "EOS_Completed": 2043,
-  "EOS_NewPlayers": 4571,
+  "EOS_NewPlayers": 4558,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -13398,6 +13404,11 @@
       "Time": "2023-07-10T03:29:06.9736451+00:00",
       "NumProgressed": 209464,
       "NumCompleted": 2043
+    },
+    {
+      "Time": "2023-07-10T04:03:58.8334249+00:00",
+      "NumProgressed": 209468,
+      "NumCompleted": 2043
     }
   ],
   "TotalAchievements": 503,
@@ -14679,9 +14690,9 @@
       "ID": "objective_completed_180",
       "SetID": "cc37lbc",
       "Name": "Never Split the Party",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 419
+      "UsersEstimate": 628
     },
     {
       "ID": "objective_completed_181",
@@ -15089,7 +15100,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 14662
+      "UsersEstimate": 14663
     },
     {
       "ID": "objective_completed_35",
@@ -15273,7 +15284,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 14662
+      "UsersEstimate": 14663
     },
     {
       "ID": "objective_completed_40",
@@ -17432,21 +17443,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 175738,
+      "Progressed": 175742,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 209464,
+      "Progressed": 209468,
       "Completed": 2043
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-07-09T11:58:07.1138008+00:00",
-  "LastChanged_Achievements": "2023-07-10T03:29:06.9736445+00:00",
+  "LastChanged": "2023-07-10T03:58:04.5500601+00:00",
+  "LastChanged_Achievements": "2023-07-10T04:03:58.8334245+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:43.9043947+00:00",
-  "LastUpdate_Ratings": "2023-07-10T03:23:27.0178059+00:00",
-  "LastUpdate_Achievements": "2023-07-10T03:29:06.9762252+00:00"
+  "LastUpdate_Ratings": "2023-07-10T03:58:04.5500613+00:00",
+  "LastUpdate_Achievements": "2023-07-10T04:03:58.8360571+00:00"
 }

@@ -16,15 +16,15 @@
 | Immaculate Aim | 14.00% | ~105 |
 | The Brass Boss | 14.00% | ~105 |
 | The Family Fortune | 14.00% | ~105 |
-| Treasure Trove | 13.00% | ~97 |
-| The Betrayer | 13.00% | ~97 |
-| The Loose Cannon | 13.00% | ~97 |
-| Time Flies | 13.00% | ~97 |
-| The Harder They Fall | 13.00% | ~97 |
-| No, Thanks! | 13.00% | ~97 |
-| The Wicked Twins | 13.00% | ~97 |
-| Fast Learner | 13.00% | ~97 |
-| Immaculate Aim | 13.00% | ~97 |
+| Treasure Trove | 13.00% | ~98 |
+| The Betrayer | 13.00% | ~98 |
+| The Loose Cannon | 13.00% | ~98 |
+| Time Flies | 13.00% | ~98 |
+| The Harder They Fall | 13.00% | ~98 |
+| No, Thanks! | 13.00% | ~98 |
+| The Wicked Twins | 13.00% | ~98 |
+| Fast Learner | 13.00% | ~98 |
+| Immaculate Aim | 13.00% | ~98 |
 | Like Clockwork | 12.00% | ~90 |
 | Honest Mistake | 12.00% | ~90 |
 | Golem Chaser | 12.00% | ~90 |
@@ -32,33 +32,33 @@
 | Right On Time | 11.00% | ~82 |
 | Street Style | 11.00% | ~82 |
 | Whiz Kid | 10.00% | ~75 |
-| Chaincrawler Explorer | 9.00% | ~67 |
-| Good Neighbor | 9.00% | ~67 |
+| Chaincrawler Explorer | 9.00% | ~68 |
+| Good Neighbor | 9.00% | ~68 |
 | Family Memories | 8.00% | ~60 |
 | Theater Explorer | 8.00% | ~60 |
-| Cultivair Explorer | 7.00% | ~52 |
-| Fairgrounds Explorer | 7.00% | ~52 |
-| Sump Explorer | 7.00% | ~52 |
-| Syron for Hope | 7.00% | ~52 |
-| Ask Questions Later | 7.00% | ~52 |
+| Cultivair Explorer | 7.00% | ~53 |
+| Fairgrounds Explorer | 7.00% | ~53 |
+| Sump Explorer | 7.00% | ~53 |
+| Syron for Hope | 7.00% | ~53 |
+| Ask Questions Later | 7.00% | ~53 |
 | Corin Goes Home | 6.00% | ~45 |
 | Sartorialist | 6.00% | ~45 |
 | Entresol Explorer | 6.00% | ~45 |
 | Factorywood Explorer | 6.00% | ~45 |
-| Golem Hunter | 5.00% | ~37 |
+| Golem Hunter | 5.00% | ~38 |
 | Clovemary for Remembering | 4.00% | ~30 |
 | Rungs Was Right | 4.00% | ~30 |
 | Hexlock for Protection | 3.00% | ~22 |
 | Wunderkind | 2.00% | ~15 |
 | Fitting In | 2.00% | ~15 |
-| Thinking Two Steps Ahead | 1.00% | ~7 |
-| No Time to Waste | 1.00% | ~7 |
+| Thinking Two Steps Ahead | 1.00% | ~8 |
+| No Time to Waste | 1.00% | ~8 |
 | Wildlife Protection | 0.70% | ~5 |
 | A Lesson in Precision | 0.70% | ~5 |
 | Raw Talent | 0.50% | ~4 |
 | Going to Live Forever | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 749 (Ranked 198)  
+Progressed: 750 (Ranked 198)  
 Completed: 4 (0.53%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,3 +109,4 @@ Completed: 4 (0.53%) (Ranked 125)
 | 2023-07-06 | 746 | 4 |
 | 2023-07-07 | 748 | 4 |
 | 2023-07-09 | 749 | 4 |
+| 2023-07-10 | 750 | 4 |

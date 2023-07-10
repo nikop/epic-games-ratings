@@ -7,11 +7,11 @@ Number of Ratings: 7,305  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You Never Forget Your First... | 11.00% | ~65,071 |
-| Into the Unknown | 10.00% | ~59,155 |
-| First Shot | 10.00% | ~59,155 |
+| Into the Unknown | 10.00% | ~59,156 |
+| First Shot | 10.00% | ~59,156 |
 | Herzlich Wilkommen! | 9.00% | ~53,240 |
 | Good Night & Good Luck | 9.00% | ~53,240 |
-| Sancho Panza | 8.00% | ~47,324 |
+| Sancho Panza | 8.00% | ~47,325 |
 | Under Pressure | 7.00% | ~41,409 |
 | On the Trail of the Enemy | 7.00% | ~41,409 |
 | Flag Burning | 7.00% | ~41,409 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~237 |
 | Connoisseur | 0.10% | ~237 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 591,553 (Ranked 26)  
+Progressed: 591,558 (Ranked 26)  
 Completed: 58 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 58 (0.01%) (Ranked 223)
 | 2023-07-07 | 589,795 | 58 |
 | 2023-07-08 | 590,574 | 58 |
 | 2023-07-09 | 591,444 | 58 |
-| 2023-07-10 | 591,553 | 58 |
+| 2023-07-10 | 591,558 | 58 |
 ## Awards
 Max (Character Customization): 8,305  (Ranked 40)  
 Sum: 19,555 (Ranked 55)  

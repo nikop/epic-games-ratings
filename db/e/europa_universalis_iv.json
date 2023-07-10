@@ -6942,9 +6942,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 67826,
+  "EOS_Progressed": 67831,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3158,
+  "EOS_NewPlayers": 3157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15647,6 +15647,11 @@
       "Time": "2023-07-10T03:26:08.2991172+00:00",
       "NumProgressed": 67826,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-10T04:02:06.6484186+00:00",
+      "NumProgressed": 67831,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -16490,7 +16495,7 @@
       "Name": "For the Glory",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3391
+      "UsersEstimate": 3392
     },
     {
       "ID": "achievement_forever_golden",
@@ -18322,7 +18327,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 6104
+      "UsersEstimate": 6105
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -18489,21 +18494,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 67826,
+      "Progressed": 67831,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 67826,
+      "Progressed": 67831,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-07-09T20:57:40.7673138+00:00",
-  "LastChanged_Achievements": "2023-07-10T03:26:08.2991164+00:00",
+  "LastChanged_Achievements": "2023-07-10T04:02:06.6484182+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:36.5478418+00:00",
-  "LastUpdate_Ratings": "2023-07-10T03:22:47.3845162+00:00",
-  "LastUpdate_Achievements": "2023-07-10T03:26:08.3004775+00:00"
+  "LastUpdate_Ratings": "2023-07-10T03:57:29.2308302+00:00",
+  "LastUpdate_Achievements": "2023-07-10T04:02:06.6496694+00:00"
 }
