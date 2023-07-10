@@ -23,6 +23,7 @@ Rating: 4.61 (Ranked 361)
 | Return of the Wizard King | 2.00% | ~99 |
 | Arch Mage | 2.00% | ~99 |
 | Bone Peddler | 2.00% | ~99 |
+| Digging for Treasure | 2.00% | ~99 |
 | Stronger Together | 2.00% | ~99 |
 | Seat of Power | 2.00% | ~99 |
 | In a Liege of Your Own | 2.00% | ~99 |
@@ -35,7 +36,6 @@ Rating: 4.61 (Ranked 361)
 | Enchanted Archipelago | 1.00% | ~50 |
 | The Goddess of Nature | 1.00% | ~50 |
 | Eternal Lord | 1.00% | ~50 |
-| Digging for Treasure | 1.00% | ~50 |
 | Preparation Is Everything | 1.00% | ~50 |
 | The Eternal Court | 1.00% | ~50 |
 | Duality | 1.00% | ~50 |

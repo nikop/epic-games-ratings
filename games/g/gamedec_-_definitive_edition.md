@@ -6,34 +6,34 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~66,238 |
-| Powergamer | 27.00% | ~63,873 |
-| Barely scratched the surface | 25.00% | ~59,141 |
-| Write that down | 24.00% | ~56,776 |
-| Guns, lots of guns | 12.00% | ~28,388 |
-| Collector | 11.00% | ~26,022 |
-| Elementary! | 9.00% | ~21,291 |
-| Pumpkin Jack | 8.00% | ~18,925 |
-| Wake up! | 8.00% | ~18,925 |
-| It's honest work | 7.00% | ~16,560 |
-| Griever | 7.00% | ~16,560 |
-| Me smart | 6.00% | ~14,194 |
-| Good listener | 5.00% | ~11,828 |
-| Trash compactor | 5.00% | ~11,828 |
-| Valedictorian | 5.00% | ~11,828 |
+| I will finish what you started | 28.00% | ~66,243 |
+| Powergamer | 27.00% | ~63,877 |
+| Barely scratched the surface | 25.00% | ~59,145 |
+| Write that down | 24.00% | ~56,779 |
+| Guns, lots of guns | 12.00% | ~28,390 |
+| Collector | 11.00% | ~26,024 |
+| Elementary! | 9.00% | ~21,292 |
+| Pumpkin Jack | 8.00% | ~18,926 |
+| Wake up! | 8.00% | ~18,926 |
+| It's honest work | 7.00% | ~16,561 |
+| Griever | 7.00% | ~16,561 |
+| Me smart | 6.00% | ~14,195 |
+| Good listener | 5.00% | ~11,829 |
+| Trash compactor | 5.00% | ~11,829 |
+| Valedictorian | 5.00% | ~11,829 |
 | BOY! | 4.00% | ~9,463 |
 | Ka-ching! | 4.00% | ~9,463 |
 | So you like to read? | 4.00% | ~9,463 |
 | I like to sniff around | 3.00% | ~7,097 |
 | Mind reader | 3.00% | ~7,097 |
-| Gentleman's classic | 2.00% | ~4,731 |
-| Hoarder | 2.00% | ~4,731 |
-| Is that a rift? | 2.00% | ~4,731 |
-| It's alive! | 2.00% | ~4,731 |
-| Enjoy the beach | 2.00% | ~4,731 |
-| Rinse and repeat | 2.00% | ~4,731 |
-| Mama, I'm a criminal | 2.00% | ~4,731 |
-| Never gonna give you up | 2.00% | ~4,731 |
+| Gentleman's classic | 2.00% | ~4,732 |
+| Hoarder | 2.00% | ~4,732 |
+| Is that a rift? | 2.00% | ~4,732 |
+| It's alive! | 2.00% | ~4,732 |
+| Enjoy the beach | 2.00% | ~4,732 |
+| Rinse and repeat | 2.00% | ~4,732 |
+| Mama, I'm a criminal | 2.00% | ~4,732 |
+| Never gonna give you up | 2.00% | ~4,732 |
 | A muscle to rely on | 1.00% | ~2,366 |
 | Catnip | 1.00% | ~2,366 |
 | I am in great pain, please help me | 1.00% | ~2,366 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~473 |
 | Memory 5 | 0.10% | ~237 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,565 (Ranked 45)  
+Progressed: 236,581 (Ranked 45)  
 Completed: 7 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 7 (0.00%) (Ranked 237)
 | 2023-07-07 | 236,094 | 7 |
 | 2023-07-08 | 236,274 | 7 |
 | 2023-07-09 | 236,467 | 7 |
-| 2023-07-10 | 236,565 | 7 |
+| 2023-07-10 | 236,581 | 7 |
 ## Awards
 Max (Character Customization): 74  (Ranked 363)  
 Sum: 74 (Ranked 425)  

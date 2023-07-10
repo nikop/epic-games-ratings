@@ -9,17 +9,17 @@ Number of Ratings: 87  (23.09.2022)
 | Dealmaker | 12.00% | ~91 |
 | Full garage | 11.00% | ~84 |
 | Individual delivery | 9.00% | ~68 |
+| Juggler | 9.00% | ~68 |
 | To the eyeballs! | 9.00% | ~68 |
-| Juggler | 8.00% | ~61 |
 | Forgot something | 7.00% | ~53 |
 | Mega-railroad | 7.00% | ~53 |
 | Non-Stop | 7.00% | ~53 |
+| Builder | 6.00% | ~46 |
 | Close call! | 6.00% | ~46 |
 | Common cause | 6.00% | ~46 |
 | Get out my way | 6.00% | ~46 |
 | Just in time! | 6.00% | ~46 |
 | Upgrade complete | 6.00% | ~46 |
-| Builder | 5.00% | ~38 |
 | Critical care | 5.00% | ~38 |
 | Need to think | 5.00% | ~38 |
 | Steam Age | 5.00% | ~38 |

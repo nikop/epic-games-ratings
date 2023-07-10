@@ -5,14 +5,14 @@ Rating: 4.09 (Ranked 890)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,494 |
-| World Map | 79.00% | ~1,269 |
-| Temple of Eternals | 57.00% | ~915 |
-| Prestigious | 53.00% | ~851 |
-| Fellowship Power | 41.00% | ~658 |
+| Victor | 93.00% | ~1,495 |
+| World Map | 79.00% | ~1,270 |
+| Temple of Eternals | 56.00% | ~900 |
+| Prestigious | 53.00% | ~852 |
+| Fellowship Power | 41.00% | ~659 |
 | Guild Power | 25.00% | ~402 |
-| Prestigious x10 | 21.00% | ~337 |
-| The game is on | 19.00% | ~305 |
+| Prestigious x10 | 21.00% | ~338 |
+| The game is on | 19.00% | ~306 |
 | Exotic Merchant | 17.00% | ~273 |
 | Dragon Clicker | 16.00% | ~257 |
 | Miner Clicker | 16.00% | ~257 |
@@ -38,11 +38,11 @@ Rating: 4.09 (Ranked 890)
 | Moving Up The Ladder | 9.00% | ~145 |
 | Relic Of The Past | 9.00% | ~145 |
 | Scroll Master | 9.00% | ~145 |
-| Four Leaf Clover | 8.00% | ~128 |
-| Here We Go Again | 7.00% | ~112 |
-| Master Enchanter | 7.00% | ~112 |
-| The father of Dragons | 7.00% | ~112 |
-| Trader | 7.00% | ~112 |
+| Four Leaf Clover | 8.00% | ~129 |
+| Here We Go Again | 7.00% | ~113 |
+| Master Enchanter | 7.00% | ~113 |
+| The father of Dragons | 7.00% | ~113 |
+| Trader | 7.00% | ~113 |
 | Enchanting skill | 6.00% | ~96 |
 | How Do You Turn This On? | 6.00% | ~96 |
 | The Expeditioner | 6.00% | ~96 |
@@ -81,7 +81,7 @@ Rating: 4.09 (Ranked 890)
 | War Machines Army | 0.20% | ~3 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,606 (Ranked 168)  
+Progressed: 1,608 (Ranked 168)  
 Completed: 1 (0.06%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 1 (0.06%) (Ranked 197)
 | 2023-07-07 | 1,584 | 1 |
 | 2023-07-08 | 1,591 | 1 |
 | 2023-07-09 | 1,600 | 1 |
-| 2023-07-10 | 1,606 | 1 |
+| 2023-07-10 | 1,608 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

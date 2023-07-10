@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-09-29T14:00:00+00:00",
     "PcReleaseDate": "2022-09-29T14:00:00+00:00",
@@ -468,9 +468,9 @@
       "Count": 46
     }
   ],
-  "EOS_Progressed": 19234,
+  "EOS_Progressed": 19235,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -4018,6 +4018,11 @@
       "Time": "2023-07-10T15:07:41.2625204+00:00",
       "NumProgressed": 19234,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-07-10T18:07:46.6684439+00:00",
+      "NumProgressed": 19235,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 37,
@@ -4037,7 +4042,7 @@
       "Name": "Helper of the People",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 7501
+      "UsersEstimate": 7502
     },
     {
       "ID": "ach.030.deertastic",
@@ -4061,7 +4066,7 @@
       "Name": "Builder",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 15964
+      "UsersEstimate": 15965
     },
     {
       "ID": "ach.060.goingdistance",
@@ -4069,7 +4074,7 @@
       "Name": "Going the Distance",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 10386
+      "UsersEstimate": 10387
     },
     {
       "ID": "ach.070.8kenough",
@@ -4077,7 +4082,7 @@
       "Name": "8K is Enough for Everyone",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4231
+      "UsersEstimate": 4232
     },
     {
       "ID": "ach.080.eraser",
@@ -4125,7 +4130,7 @@
       "Name": "Minimalist",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 17311
+      "UsersEstimate": 17312
     },
     {
       "ID": "ach.140.legacy",
@@ -4133,7 +4138,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 98,
       "XP": 60,
-      "UsersEstimate": 18849
+      "UsersEstimate": 18850
     },
     {
       "ID": "ach.150.pocket",
@@ -4141,7 +4146,7 @@
       "Name": "Pocket of Trains",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 12502
+      "UsersEstimate": 12503
     },
     {
       "ID": "ach.160.box",
@@ -4149,7 +4154,7 @@
       "Name": "Box of Trains",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 6347
+      "UsersEstimate": 6348
     },
     {
       "ID": "ach.170.room",
@@ -4165,7 +4170,7 @@
       "Name": "Inspector",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 11348
+      "UsersEstimate": 11349
     },
     {
       "ID": "ach.190.scenic",
@@ -4189,7 +4194,7 @@
       "Name": "Oil Baron",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 8078
+      "UsersEstimate": 8079
     },
     {
       "ID": "ach.220.hot",
@@ -4213,7 +4218,7 @@
       "Name": "Loads-a-Money",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 8078
+      "UsersEstimate": 8079
     },
     {
       "ID": "ach.250.downfall",
@@ -4221,7 +4226,7 @@
       "Name": "Before the Downfall",
       "Percentage": 93,
       "XP": 60,
-      "UsersEstimate": 17888
+      "UsersEstimate": 17889
     },
     {
       "ID": "ach.260.investor",
@@ -4229,7 +4234,7 @@
       "Name": "Investor",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1923
+      "UsersEstimate": 1924
     },
     {
       "ID": "ach.270.groundwater",
@@ -4277,7 +4282,7 @@
       "Name": "Industrialist",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 4808
+      "UsersEstimate": 4809
     },
     {
       "ID": "ach.330.water",
@@ -4285,7 +4290,7 @@
       "Name": "Money like Water",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 17503
+      "UsersEstimate": 17504
     },
     {
       "ID": "ach.340.steel",
@@ -4293,7 +4298,7 @@
       "Name": "Man of Steel",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3077
+      "UsersEstimate": 3078
     },
     {
       "ID": "ach.350.pipes",
@@ -4324,7 +4329,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 19234,
+      "Progressed": 19235,
       "Completed": 32
     }
   ],
@@ -4332,8 +4337,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-07-07T14:59:15.8790573+00:00",
-  "LastChanged_Achievements": "2023-07-10T17:07:37.9276395+00:00",
+  "LastChanged_Achievements": "2023-07-10T18:07:46.6684432+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:35.0047379+00:00",
-  "LastUpdate_Ratings": "2023-07-10T17:00:27.6455593+00:00",
-  "LastUpdate_Achievements": "2023-07-10T17:07:37.9277054+00:00"
+  "LastUpdate_Ratings": "2023-07-10T18:00:22.4517289+00:00",
+  "LastUpdate_Achievements": "2023-07-10T18:07:46.6685047+00:00"
 }

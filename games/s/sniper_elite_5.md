@@ -66,13 +66,13 @@ Rating: 4.45 (Ranked 622)
 | Shoot for the Moon | 0.20% | ~7 |
 | Can't Outrun A Bullet | 0.20% | ~7 |
 | Führerious Repetition | 0.20% | ~6 |
+| Covert Elimination | 0.20% | ~6 |
 | Operation Overlord | 0.20% | ~6 |
 | Going Overboard | 0.20% | ~6 |
 | Master of Pistols | 0.10% | ~3 |
 | Master-at-arms | 0.10% | ~3 |
 | Reich To The Point | 0.10% | ~3 |
 | From Führer Away | 0.10% | ~3 |
-| Covert Elimination | 0.10% | ~3 |
 | Alpha | 0.10% | ~3 |
 | Das Familienjuwel | 0.10% | ~3 |
 | Stroll in the Woods | 0.10% | ~3 |

@@ -2660,9 +2660,9 @@
       "ID": "12",
       "SetID": "d0g98p",
       "Name": "Spellbound",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 374
+      "UsersEstimate": 385
     },
     {
       "ID": "13",
@@ -2732,9 +2732,9 @@
       "ID": "20",
       "SetID": "d0g98p",
       "Name": "Stardust",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 364
+      "UsersEstimate": 374
     },
     {
       "ID": "21",
@@ -3045,8 +3045,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-07-10T17:07:36.3222276+00:00",
+  "LastChanged_Achievements": "2023-07-10T18:07:45.101566+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:44.4971469+00:00",
-  "LastUpdate_Ratings": "2023-07-10T16:57:55.8894181+00:00",
-  "LastUpdate_Achievements": "2023-07-10T17:07:36.322345+00:00"
+  "LastUpdate_Ratings": "2023-07-10T17:57:53.0307279+00:00",
+  "LastUpdate_Achievements": "2023-07-10T18:07:45.1016285+00:00"
 }

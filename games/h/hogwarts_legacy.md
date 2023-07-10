@@ -5,42 +5,42 @@ Rating: 4.77 (Ranked 107)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 11.00% | ~31,518 |
-| First Class Student | 10.00% | ~28,652 |
-| Troll with the Punches | 10.00% | ~28,652 |
-| A Keen Sense of Spell | 9.00% | ~25,787 |
-| That's a Keeper | 9.00% | ~25,787 |
-| Grappling with a Graphorn | 8.00% | ~22,922 |
-| The One Who Mastered Memories | 8.00% | ~22,922 |
-| The Hallowed Hero | 8.00% | ~22,922 |
-| The Hero of Hogwarts | 8.00% | ~22,922 |
-| The Defender of Dragons | 8.00% | ~22,922 |
-| Loom for Improvement | 8.00% | ~22,922 |
-| A Talent for Spending | 8.00% | ~22,922 |
-| Coasting Along | 8.00% | ~22,922 |
-| Challenge Accepted | 7.00% | ~20,057 |
-| Followed the Butterflies | 7.00% | ~20,057 |
-| Rising From the Ashes | 7.00% | ~20,057 |
-| The Avenging Gazelle | 6.00% | ~17,191 |
-| Beast Friends | 6.00% | ~17,191 |
-| A Sallow Grave | 6.00% | ~17,191 |
-| Flight the Good Flight | 6.00% | ~17,191 |
-| The Spell Master | 6.00% | ~17,191 |
-| The Seeker of Knowledge | 5.00% | ~14,326 |
-| The Root of the Problem | 4.00% | ~11,461 |
-| Third Time's a Charm | 4.00% | ~11,461 |
-| The Ends Petrify the Means | 4.00% | ~11,461 |
-| Raising Expectations | 4.00% | ~11,461 |
+| The Sort Who Makes an Entrance | 11.00% | ~31,520 |
+| First Class Student | 10.00% | ~28,654 |
+| Troll with the Punches | 10.00% | ~28,654 |
+| A Keen Sense of Spell | 9.00% | ~25,789 |
+| That's a Keeper | 9.00% | ~25,789 |
+| Grappling with a Graphorn | 8.00% | ~22,923 |
+| The One Who Mastered Memories | 8.00% | ~22,923 |
+| The Hallowed Hero | 8.00% | ~22,923 |
+| The Hero of Hogwarts | 8.00% | ~22,923 |
+| The Defender of Dragons | 8.00% | ~22,923 |
+| Loom for Improvement | 8.00% | ~22,923 |
+| A Talent for Spending | 8.00% | ~22,923 |
+| Coasting Along | 8.00% | ~22,923 |
+| Challenge Accepted | 7.00% | ~20,058 |
+| Followed the Butterflies | 7.00% | ~20,058 |
+| Rising From the Ashes | 7.00% | ~20,058 |
+| The Avenging Gazelle | 6.00% | ~17,193 |
+| Beast Friends | 6.00% | ~17,193 |
+| A Sallow Grave | 6.00% | ~17,193 |
+| Flight the Good Flight | 6.00% | ~17,193 |
+| The Spell Master | 6.00% | ~17,193 |
+| The Seeker of Knowledge | 5.00% | ~14,327 |
+| The Root of the Problem | 4.00% | ~11,462 |
+| Third Time's a Charm | 4.00% | ~11,462 |
+| The Ends Petrify the Means | 4.00% | ~11,462 |
+| Raising Expectations | 4.00% | ~11,462 |
 | The Toast of the Town | 3.00% | ~8,596 |
 | Going Through the Potions | 3.00% | ~8,596 |
 | Room with a View | 3.00% | ~8,596 |
 | The Intrepid Explorer | 3.00% | ~8,596 |
 | The Gryffindor in the Graveyard | 3.00% | ~8,596 |
 | The Wise Owl | 3.00% | ~8,596 |
-| Put Down Roots | 2.00% | ~5,730 |
-| The Auror's Apprentice | 2.00% | ~5,730 |
-| Floo Around the World | 2.00% | ~5,730 |
-| Rise to the Challenges | 2.00% | ~5,730 |
+| Put Down Roots | 2.00% | ~5,731 |
+| The Auror's Apprentice | 2.00% | ~5,731 |
+| Floo Around the World | 2.00% | ~5,731 |
+| Rise to the Challenges | 2.00% | ~5,731 |
 | The Good Samaritan | 1.00% | ~2,865 |
 | Savvy Spender | 1.00% | ~2,865 |
 | Demiguise Dread | 1.00% | ~2,865 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 107)
 | The Nature of the Beast | 0.50% | ~1,433 |
 | Collector's Edition | 0.20% | ~573 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 286,524 (Ranked 41)  
+Progressed: 286,543 (Ranked 41)  
 Completed: 422 (0.15%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,10 +132,10 @@ Completed: 422 (0.15%) (Ranked 172)
 | 2023-07-07 | 285,655 | 419 |
 | 2023-07-08 | 285,994 | 419 |
 | 2023-07-09 | 286,337 | 420 |
-| 2023-07-10 | 286,524 | 422 |
+| 2023-07-10 | 286,543 | 422 |
 ## Awards
 Max (Character Customization): 20,828  (Ranked 17)  
-Sum: 38,870 (Ranked 30)  
+Sum: 38,872 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -143,7 +143,7 @@ Diff (max vs sum): -13
 | This game has Great Boss Battles | 9,950 |
 | This game is Great for Beginners | 894 |
 | This game is Extremely Fun | 877 |
-| This game is Relaxing | 869 |
+| This game is Relaxing | 871 |
 | This game has Amazing Storytelling | 866 |
 | This game has Diverse Characters | 862 |
 | This game has Amazing Characters | 848 |
@@ -262,4 +262,4 @@ Diff (max vs sum): -13
 | 2023-07-07 | 4.77 | 20,762 | 38,712 |
 | 2023-07-08 | 4.77 | 20,791 | 38,769 |
 | 2023-07-09 | 4.77 | 20,828 | 38,845 |
-| 2023-07-10 | 4.77 | 20,828 | 38,870 |
+| 2023-07-10 | 4.77 | 20,828 | 38,872 |

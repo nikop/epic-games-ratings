@@ -6,24 +6,24 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 76.00% | ~4,850 |
-| Photographer | 72.00% | ~4,594 |
-| Valley's Helper | 68.00% | ~4,339 |
-| Constructor | 57.00% | ~3,637 |
-| Renovator | 55.00% | ~3,510 |
-| Bestest Friend | 53.00% | ~3,382 |
-| Banker | 44.00% | ~2,808 |
-| Gardener | 34.00% | ~2,170 |
-| Generous | 25.00% | ~1,595 |
-| Chef Cook | 19.00% | ~1,212 |
-| Miner | 9.00% | ~574 |
+| Goofy's Investor | 76.00% | ~4,854 |
+| Photographer | 72.00% | ~4,599 |
+| Valley's Helper | 68.00% | ~4,343 |
+| Constructor | 57.00% | ~3,641 |
+| Renovator | 55.00% | ~3,513 |
+| Bestest Friend | 53.00% | ~3,385 |
+| Banker | 44.00% | ~2,810 |
+| Gardener | 34.00% | ~2,172 |
+| Generous | 25.00% | ~1,597 |
+| Chef Cook | 19.00% | ~1,214 |
+| Miner | 9.00% | ~575 |
 | Duty Bound | 6.00% | ~383 |
 | Angler | 5.00% | ~319 |
 | Thorn Cleaner | 4.00% | ~255 |
-| Chit Chatter | 3.00% | ~191 |
+| Chit Chatter | 3.00% | ~192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,381 (Ranked 129)  
-Completed: 164 (2.57%) (Ranked 67)  
+Progressed: 6,387 (Ranked 129)  
+Completed: 164 (2.57%) (Ranked 68)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -54,10 +54,10 @@ Completed: 164 (2.57%) (Ranked 67)
 | 2023-07-07 | 6,198 | 160 |
 | 2023-07-08 | 6,271 | 161 |
 | 2023-07-09 | 6,349 | 162 |
-| 2023-07-10 | 6,381 | 164 |
+| 2023-07-10 | 6,387 | 164 |
 ## Awards
 Max (Great for Beginners): 891  (Ranked 148)  
-Sum: 7,264 (Ranked 104)  
+Sum: 7,265 (Ranked 104)  
 Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
@@ -69,7 +69,7 @@ Diff (max vs sum): 44
 | This game has Amazing Storytelling | 743 |
 | This game has Quickly Understood Controls | 725 |
 | This game is Extremely Fun | 723 |
-| This game has a Creative Community | 602 |
+| This game has a Creative Community | 603 |
 | This game has Easy Combat | 481 |
 | This game has Obsessive Gameplay | 415 |
 ## Ratings History
@@ -197,3 +197,4 @@ Diff (max vs sum): 44
 | 2023-07-06 | 4.75 | - | 888 | 7,252 |
 | 2023-07-07 | 4.75 | - | 889 | 7,259 |
 | 2023-07-09 | 4.75 | - | 891 | 7,264 |
+| 2023-07-10 | 4.75 | - | 891 | 7,265 |

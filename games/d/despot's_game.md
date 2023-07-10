@@ -22,7 +22,7 @@ Rating: 4.50 (Ranked 552)
 | Rookie | 26.00% | ~105 |
 | Assemble a Meganewbie | 24.00% | ~97 |
 | Frugal | 22.00% | ~89 |
-| Feed a God | 20.00% | ~81 |
+| Feed a God | 21.00% | ~85 |
 | To the Moon and Back | 20.00% | ~81 |
 | Great Flight | 18.00% | ~73 |
 | Holy Vengeance | 16.00% | ~65 |

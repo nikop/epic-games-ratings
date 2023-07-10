@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -664,9 +664,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 252783,
+  "EOS_Progressed": 252784,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 435,
+  "EOS_NewPlayers": 434,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8929,6 +8929,11 @@
       "Time": "2023-07-10T17:05:54.1281185+00:00",
       "NumProgressed": 252783,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-10T18:06:03.8224585+00:00",
+      "NumProgressed": 252784,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 56,
@@ -9212,7 +9217,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7583
+      "UsersEstimate": 7584
     },
     {
       "ID": "KillOtherWithMine",
@@ -9387,7 +9392,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 252783,
+      "Progressed": 252784,
       "Completed": 2
     }
   ],
@@ -9395,8 +9400,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-07-06T21:01:42.966299+00:00",
-  "LastChanged_Achievements": "2023-07-10T17:05:54.1281178+00:00",
+  "LastChanged_Achievements": "2023-07-10T18:06:03.8224576+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:46.8796395+00:00",
-  "LastUpdate_Ratings": "2023-07-10T17:01:36.8412707+00:00",
-  "LastUpdate_Achievements": "2023-07-10T17:05:54.1282966+00:00"
+  "LastUpdate_Ratings": "2023-07-10T18:01:32.1730081+00:00",
+  "LastUpdate_Achievements": "2023-07-10T18:06:03.8225759+00:00"
 }

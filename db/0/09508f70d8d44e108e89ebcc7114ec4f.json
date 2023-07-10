@@ -3,9 +3,9 @@
   "Name": "Match Village",
   "ProductSlug": "match-village-5f41dd",
   "Ranking_EOS_Progress": 242,
-  "Ranking_EOS_Completed": 72,
-  "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_Completed": 67,
+  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-06-01T13:00:00+00:00",
     "PcReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 306,
-  "EOS_Completed": 7,
+  "EOS_Completed": 8,
   "EOS_NewPlayers": 3,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.29,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 2.61,
   "EosHistory": [
     {
       "Time": "2023-05-18T11:00:53.5227902+00:00",
@@ -846,6 +846,11 @@
       "Time": "2023-07-10T14:04:00.4025828+00:00",
       "NumProgressed": 306,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-07-10T18:04:43.1535375+00:00",
+      "NumProgressed": 306,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 24,
@@ -927,9 +932,9 @@
       "ID": "fun!",
       "SetID": "ap7g2g4",
       "Name": "Fun!",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 80,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "hope_farm",
@@ -1049,13 +1054,13 @@
       "ID": "ap7g2g4",
       "IsBase": true,
       "Progressed": 306,
-      "Completed": 7
+      "Completed": 8
     }
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-07-10T17:04:33.2121032+00:00",
+  "LastChanged_Achievements": "2023-07-10T18:04:43.1535364+00:00",
   "LastUpdate_AppInfo": "2023-07-06T15:57:02.8517894+00:00",
-  "LastUpdate_Ratings": "2023-07-10T16:57:30.8604145+00:00",
-  "LastUpdate_Achievements": "2023-07-10T17:04:33.2121267+00:00"
+  "LastUpdate_Ratings": "2023-07-10T17:57:26.6699329+00:00",
+  "LastUpdate_Achievements": "2023-07-10T18:04:43.1535745+00:00"
 }

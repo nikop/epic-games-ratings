@@ -6,9 +6,9 @@
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 209,
-  "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_Completed": 166,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -60,11 +60,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 540,
+  "EOS_Progressed": 541,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.19,
+  "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:47.2871763+00:00",
@@ -1170,6 +1170,11 @@
       "Time": "2023-07-09T12:06:05.9875979+00:00",
       "NumProgressed": 540,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-10T18:07:48.885683+00:00",
+      "NumProgressed": 541,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1397,7 +1402,7 @@
       "Name": "Tooth fairy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "Toxic",
@@ -1436,7 +1441,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 540,
+      "Progressed": 541,
       "Completed": 1
     }
   ],
@@ -1444,8 +1449,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-07-10T17:07:40.1497386+00:00",
+  "LastChanged_Achievements": "2023-07-10T18:07:48.8856821+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:26.2300006+00:00",
-  "LastUpdate_Ratings": "2023-07-10T16:58:32.6944707+00:00",
-  "LastUpdate_Achievements": "2023-07-10T17:07:40.1497731+00:00"
+  "LastUpdate_Ratings": "2023-07-10T17:58:27.9916404+00:00",
+  "LastUpdate_Achievements": "2023-07-10T18:07:48.8857337+00:00"
 }
