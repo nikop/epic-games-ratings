@@ -31,7 +31,7 @@
 | 29 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.84% |
 | 30 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.82% |
 | 31 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 6.67% |
-| 32 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.58% |
+| 32 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.49% |
 | 33 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 34 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 35 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.71% |
@@ -70,7 +70,7 @@
 | 68 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.57% |
 | 69 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 70 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
-| 71 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.40% |
+| 71 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.39% |
 | 72 | [Bloodshore](games/b/bloodshore.md) | 2.30% |
 | 73 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 74 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.15% |
@@ -101,8 +101,8 @@
 | 99 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.06% |
 | 99 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.06% |
 | 101 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.04% |
-| 102 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
-| 103 | [Sable](games/s/sable.md) | 0.97% |
+| 102 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.97% |
+| 102 | [Sable](games/s/sable.md) | 0.97% |
 | 104 | [Adios](games/a/adios.md) | 0.95% |
 | 105 | [Hades](games/h/hades.md) | 0.89% |
 | 106 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
@@ -133,9 +133,9 @@
 | 131 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
 | 132 | [Tchia](games/t/tchia.md) | 0.43% |
 | 133 | [Ghostrunner](games/g/ghostrunner.md) | 0.42% |
-| 133 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
 | 133 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.42% |
-| 136 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.41% |
+| 135 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.41% |
+| 135 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
 | 137 | [Wildermyth](games/w/wildermyth.md) | 0.38% |
 | 138 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.37% |
 | 138 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
