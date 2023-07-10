@@ -488,7 +488,7 @@
 | 476 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 89 | 345 |
 | 476 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 0 | 504 |
 | 476 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 309 | 230 |
-| 476 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,203 | 131 |
+| 476 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,204 | 131 |
 | 490 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 0 | 504 |
 | 490 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 5,113 | 64 |
 | 490 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 442 |
@@ -592,7 +592,7 @@
 | 584 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.48 | 0 | 504 |
 | 584 | [Scorn](games/s/scorn.md) | 4.48 | 0 | 504 |
 | 584 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 0 | 504 |
-| 584 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.48 | 2,076 | 108 |
+| 584 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.48 | 2,090 | 108 |
 | 584 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.48 | 7,505 | 45 |
 | 584 | [The Escapists](games/t/the_escapists.md) | 4.48 | 0 | 504 |
 | 596 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 0 | 504 |
@@ -726,17 +726,17 @@
 | 722 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,140 | 107 |
 | 722 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 504 |
 | 722 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.37 | 0 | 504 |
-| 722 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.37 | 100 | 329 |
 | 722 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 32 | 446 |
-| 729 | [Beyond Blue](games/b/beyond_blue.md) | 4.36 | 0 | 504 |
-| 729 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 171 | 284 |
-| 729 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 95 | 337 |
-| 729 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,564 | 29 |
-| 729 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 504 |
-| 729 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 474 |
-| 729 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 48 | 404 |
-| 729 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.36 | 56 | 389 |
-| 729 | [ZOMBI](games/z/zombi.md) | 4.36 | 0 | 504 |
+| 728 | [Beyond Blue](games/b/beyond_blue.md) | 4.36 | 0 | 504 |
+| 728 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 171 | 284 |
+| 728 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 95 | 337 |
+| 728 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,564 | 29 |
+| 728 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 504 |
+| 728 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 474 |
+| 728 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 48 | 404 |
+| 728 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.36 | 56 | 389 |
+| 728 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 100 | 329 |
+| 728 | [ZOMBI](games/z/zombi.md) | 4.36 | 0 | 504 |
 | 738 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 0 | 504 |
 | 738 | [Encased](games/e/encased.md) | 4.35 | 135 | 299 |
 | 738 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.35 | 0 | 504 |
@@ -805,7 +805,7 @@
 | 801 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.26 | 27 | 465 |
 | 801 | [The Fall](games/t/the_fall.md) | 4.26 | 0 | 504 |
 | 801 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 0 | 504 |
-| 806 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.25 | 14,862 | 22 |
+| 806 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.25 | 14,912 | 22 |
 | 806 | [EVE Online](games/e/eve_online.md) | 4.25 | 1,039 | 140 |
 | 806 | [Godlike Burger](games/g/godlike_burger.md) | 4.25 | 0 | 504 |
 | 806 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.25 | 0 | 504 |
