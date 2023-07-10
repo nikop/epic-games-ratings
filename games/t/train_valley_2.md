@@ -33,6 +33,7 @@ Number of Ratings: 87  (23.09.2022)
 | Beginner | 3.00% | ~23 |
 | Jewelry accuracy | 3.00% | ~23 |
 | Overseer | 3.00% | ~23 |
+| Relocation | 3.00% | ~23 |
 | Star Sapphire | 3.00% | ~3 |
 | Without a lunch break | 3.00% | ~23 |
 | Astronomer | 2.00% | ~15 |
@@ -47,7 +48,6 @@ Number of Ratings: 87  (23.09.2022)
 | Lucky vandal | 2.00% | ~15 |
 | Missed it! | 2.00% | ~15 |
 | Prick of conscience | 2.00% | ~15 |
-| Relocation | 2.00% | ~15 |
 | Sabotage | 2.00% | ~15 |
 | Squander | 2.00% | ~15 |
 | Stargazer | 2.00% | ~15 |
@@ -65,9 +65,9 @@ Number of Ratings: 87  (23.09.2022)
 | Vostok | 0.90% | ~1 |
 | Highlander | 0.80% | ~6 |
 | Railroad tycoon | 0.80% | ~6 |
+| Space Age | 0.80% | ~6 |
 | Astrochemist | 0.70% | ~1 |
 | Miscalculation | 0.70% | ~5 |
-| Space Age | 0.70% | ~5 |
 | Arcturus | 0.40% | ~0 |
 | BBQ | 0.40% | ~3 |
 | It's no coincidence | 0.40% | ~3 |

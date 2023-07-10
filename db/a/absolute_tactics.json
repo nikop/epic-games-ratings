@@ -2,9 +2,9 @@
   "ID": "00968dd40b6e49548220ce6f215cbb44",
   "Name": "Absolute Tactics",
   "ProductSlug": "absolute-tactics-ca91e4",
-  "Ranking_EOS_Progress": 431,
+  "Ranking_EOS_Progress": 428,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-09-15T16:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -47,6 +47,11 @@
       "Time": "2023-07-10T20:06:59.2815903+00:00",
       "NumProgressed": 3,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-10T21:07:29.9824629+00:00",
+      "NumProgressed": 4,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-05T17:06:24.6383645+00:00",
@@ -57,9 +62,9 @@
       "ID": "AT_ACHIEVEMENT_NAME_0001",
       "SetID": "9jb1eoe",
       "Name": "A New Adventure",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "AT_ACHIEVEMENT_NAME_0002",
@@ -105,7 +110,7 @@
       "ID": "AT_ACHIEVEMENT_NAME_0007",
       "SetID": "9jb1eoe",
       "Name": "Big Money",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -226,7 +231,7 @@
     {
       "ID": "9jb1eoe",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 4,
       "Completed": 0
     }
   ],
@@ -234,8 +239,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.3491897+00:00",
   "FirstSeenAchievements": "2023-06-19T22:05:39.5621964+00:00",
   "LastChanged": "2023-03-31T05:57:50.3491898+00:00",
-  "LastChanged_Achievements": "2023-07-10T20:06:59.2815899+00:00",
+  "LastChanged_Achievements": "2023-07-10T21:07:29.9824622+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:31.0565099+00:00",
-  "LastUpdate_Ratings": "2023-07-10T20:00:42.9999827+00:00",
-  "LastUpdate_Achievements": "2023-07-10T20:06:59.2816058+00:00"
+  "LastUpdate_Ratings": "2023-07-10T21:01:29.6970549+00:00",
+  "LastUpdate_Achievements": "2023-07-10T21:07:29.9824769+00:00"
 }

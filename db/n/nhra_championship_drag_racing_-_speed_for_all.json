@@ -448,9 +448,9 @@
       "ID": "26",
       "SetID": "4n5bj21",
       "Name": "Fan Boy",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "27",
@@ -585,8 +585,8 @@
   "FirstSeenRating": "2023-03-31T05:56:56.4017079+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:42.4655927+00:00",
   "LastChanged": "2023-03-31T05:56:56.401708+00:00",
-  "LastChanged_Achievements": "2023-07-10T20:03:37.8696642+00:00",
+  "LastChanged_Achievements": "2023-07-10T21:03:17.0793609+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:08.2263759+00:00",
-  "LastUpdate_Ratings": "2023-07-10T19:58:51.9847015+00:00",
-  "LastUpdate_Achievements": "2023-07-10T20:03:37.8696901+00:00"
+  "LastUpdate_Ratings": "2023-07-10T20:59:18.3923108+00:00",
+  "LastUpdate_Achievements": "2023-07-10T21:03:17.0793927+00:00"
 }

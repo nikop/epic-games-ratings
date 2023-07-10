@@ -15,8 +15,8 @@ Rating: 4.25 (Ranked 806)
 | HONORS STUDENT | 37.00% | ~134 |
 | BUTCHER | 26.00% | ~94 |
 | RAMBO | 22.00% | ~80 |
+| MARTYR | 21.00% | ~76 |
 | INDIVIDUAL APPROACH | 20.00% | ~72 |
-| MARTYR | 20.00% | ~72 |
 | HELL'S KITCHEN | 19.00% | ~69 |
 | CELEBRITY | 18.00% | ~65 |
 | GRATITUDE | 17.00% | ~62 |

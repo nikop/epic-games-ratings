@@ -2,7 +2,7 @@
   "ID": "4966d5da285c4f2c876937844b0e23ee",
   "Name": "Rogue Legacy 2",
   "ProductSlug": "rogue-legacy-2",
-  "Ranking_Rating": 41,
+  "Ranking_Rating": 42,
   "Ranking_Popularity": 255,
   "Ranking_PopularitySum": 209,
   "Ranking_EOS_Progress": 100,
@@ -1183,10 +1183,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 1659,
       "NumberOfAwardsMax": 218
+    },
+    {
+      "Time": "2023-07-10T21:00:20.8424577+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 1660,
+      "NumberOfAwardsMax": 218
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1659,
+  "NumberOfAwards": 1660,
   "NumberOfAwardsMax": 218,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1242,7 +1248,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 151
+      "Count": 152
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -5510,9 +5516,9 @@
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
-  "LastChanged": "2023-07-10T15:59:37.7624695+00:00",
-  "LastChanged_Achievements": "2023-07-10T20:07:21.2589846+00:00",
+  "LastChanged": "2023-07-10T21:00:20.8424576+00:00",
+  "LastChanged_Achievements": "2023-07-10T21:07:55.8378643+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:19.0758026+00:00",
-  "LastUpdate_Ratings": "2023-07-10T19:59:43.1664938+00:00",
-  "LastUpdate_Achievements": "2023-07-10T20:07:21.2590397+00:00"
+  "LastUpdate_Ratings": "2023-07-10T21:00:20.8424582+00:00",
+  "LastUpdate_Achievements": "2023-07-10T21:07:55.8379241+00:00"
 }

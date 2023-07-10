@@ -51,7 +51,7 @@ Rating: 4.46 (Ranked 608)
 | Tycoon | 9.00% | ~137 |
 | Unstoppable | 7.00% | ~106 |
 | Track to the Future | 7.00% | ~106 |
-| Conductor | 5.00% | ~76 |
+| Conductor | 6.00% | ~91 |
 | Call of Duty | 4.00% | ~61 |
 | Let off some steam | 3.00% | ~46 |
 | Engineer | 2.00% | ~30 |

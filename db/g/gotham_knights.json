@@ -1976,9 +1976,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 66832,
+  "EOS_Progressed": 66834,
   "EOS_Completed": 101,
-  "EOS_NewPlayers": 469,
+  "EOS_NewPlayers": 467,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -9346,6 +9346,11 @@
       "Time": "2023-07-10T20:04:01.5254162+00:00",
       "NumProgressed": 66832,
       "NumCompleted": 101
+    },
+    {
+      "Time": "2023-07-10T21:04:04.6533608+00:00",
+      "NumProgressed": 66834,
+      "NumCompleted": 101
     }
   ],
   "TotalAchievements": 61,
@@ -9429,7 +9434,7 @@
       "Name": "Practice Makes Perfect",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ALL_VILLAIN",
@@ -9741,7 +9746,7 @@
       "Name": "A Worthy Successor",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "MYSTERY_01",
@@ -9844,13 +9849,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 66832,
+      "Progressed": 66834,
       "Completed": 101
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 37112,
+      "Progressed": 37114,
       "Completed": 2652
     }
   ],
@@ -9858,8 +9863,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-07-10T17:00:57.7745428+00:00",
-  "LastChanged_Achievements": "2023-07-10T20:04:01.5254157+00:00",
+  "LastChanged_Achievements": "2023-07-10T21:04:04.6533599+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:06.0757808+00:00",
-  "LastUpdate_Ratings": "2023-07-10T20:00:23.8249335+00:00",
-  "LastUpdate_Achievements": "2023-07-10T20:04:01.525521+00:00"
+  "LastUpdate_Ratings": "2023-07-10T21:01:05.2575205+00:00",
+  "LastUpdate_Achievements": "2023-07-10T21:04:04.6534752+00:00"
 }

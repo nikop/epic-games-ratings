@@ -40,7 +40,7 @@ Rating: 4.18 (Ranked 854)
 | Family Meeting | 1.00% | ~668 |
 | Drone You Out | 1.00% | ~668 |
 | Solid Alibi | 1.00% | ~668 |
-| A Worthy Successor | 0.90% | ~601 |
+| A Worthy Successor | 0.90% | ~602 |
 | Expert Crime Fighter | 0.80% | ~535 |
 | Dressed to Impress | 0.70% | ~468 |
 | A Momentum Occasion | 0.60% | ~401 |
@@ -48,7 +48,7 @@ Rating: 4.18 (Ranked 854)
 | He'd Be So Proud of You | 0.40% | ~267 |
 | Hammer and Icicle | 0.30% | ~111 |
 | Renewable Enemy Source | 0.30% | ~111 |
-| Practice Makes Perfect | 0.30% | ~200 |
+| Practice Makes Perfect | 0.30% | ~201 |
 | Element of Surprise | 0.20% | ~74 |
 | Crime Is a Terrible Thing to Waste | 0.20% | ~74 |
 | The Cold, the Bad and the Ugly | 0.20% | ~74 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 854)
 | History Major | 0.10% | ~67 |
 | Confronting Your Demon | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,832 (Ranked 75)  
+Progressed: 66,834 (Ranked 75)  
 Completed: 101 (0.15%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 101 (0.15%) (Ranked 172)
 | 2023-07-07 | 66,641 | 101 |
 | 2023-07-08 | 66,718 | 101 |
 | 2023-07-09 | 66,781 | 101 |
-| 2023-07-10 | 66,832 | 101 |
+| 2023-07-10 | 66,834 | 101 |
 ## Awards
 Max (Great Boss Battles): 2,434  (Ranked 99)  
 Sum: 4,028 (Ranked 137)  

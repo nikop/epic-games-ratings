@@ -4,7 +4,7 @@
   "ProductSlug": "switchball-hd-6d3802",
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewPlayers": 287,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-05-12T13:00:00+00:00",
@@ -524,9 +524,9 @@
       "ID": "ACHIEVEMENT_SPYGLASS_ID",
       "SetID": "2h9pc72",
       "Name": "Spyglass",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
@@ -539,8 +539,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:34.7709022+00:00",
   "FirstSeenAchievements": "2023-05-02T12:00:27.1068616+00:00",
-  "LastChanged_Achievements": "2023-07-10T20:04:34.7869809+00:00",
+  "LastChanged_Achievements": "2023-07-10T21:04:42.9098269+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:36.0678319+00:00",
-  "LastUpdate_Ratings": "2023-07-10T19:57:41.014314+00:00",
-  "LastUpdate_Achievements": "2023-07-10T20:04:34.7869913+00:00"
+  "LastUpdate_Ratings": "2023-07-10T20:57:59.1302622+00:00",
+  "LastUpdate_Achievements": "2023-07-10T21:04:42.9098412+00:00"
 }

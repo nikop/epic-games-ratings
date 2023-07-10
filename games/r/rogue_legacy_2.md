@@ -1,7 +1,7 @@
 # Rogue Legacy 2
 [Store](https://store.epicgames.com/en-US/p/rogue-legacy-2)  
 [View Rawdata](../../db/r/rogue_legacy_2.json)  
-Rating: 4.85 (Ranked 41)  
+Rating: 4.85 (Ranked 42)  
 Number of Ratings: 1,331  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -130,7 +130,7 @@ Completed: 35 (0.16%) (Ranked 169)
 | 2023-07-10 | 22,452 | 35 |
 ## Awards
 Max (Extremely Fun): 218  (Ranked 255)  
-Sum: 1,659 (Ranked 209)  
+Sum: 1,660 (Ranked 209)  
 Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
@@ -142,7 +142,7 @@ Diff (max vs sum): 46
 | This game is Relaxing | 182 |
 | This game has Amazing Characters | 164 |
 | This game has Amazing Storytelling | 163 |
-| This game has Playful Visuals | 151 |
+| This game has Playful Visuals | 152 |
 | This game has Obsessive Gameplay | 123 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -240,4 +240,4 @@ Diff (max vs sum): 46
 | 2023-06-30 | 4.85 | - | 218 | 1,656 |
 | 2023-07-03 | 4.85 | - | 218 | 1,657 |
 | 2023-07-07 | 4.85 | - | 218 | 1,658 |
-| 2023-07-10 | 4.85 | - | 218 | 1,659 |
+| 2023-07-10 | 4.85 | - | 218 | 1,660 |

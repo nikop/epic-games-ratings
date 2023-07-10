@@ -6,14 +6,14 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 15.00% | ~92,624 |
-| Incurious | 15.00% | ~92,624 |
-| Stroller | 13.00% | ~80,274 |
-| Climate Change | 13.00% | ~80,274 |
-| Advanced Hiker | 11.00% | ~67,924 |
-| Toy Train | 11.00% | ~67,924 |
-| Hiker | 10.00% | ~61,749 |
-| Mojave Courier | 5.00% | ~30,874 |
+| Advanced Stroller | 15.00% | ~92,627 |
+| Incurious | 15.00% | ~92,627 |
+| Stroller | 13.00% | ~80,277 |
+| Climate Change | 13.00% | ~80,277 |
+| Advanced Hiker | 11.00% | ~67,927 |
+| Toy Train | 11.00% | ~67,927 |
+| Hiker | 10.00% | ~61,751 |
+| Mojave Courier | 5.00% | ~30,876 |
 | Voyager | 3.00% | ~18,525 |
 | Advanced Voyager | 3.00% | ~18,525 |
 | Expert Stroller | 3.00% | ~18,525 |
@@ -25,41 +25,41 @@ Number of Ratings: 21,990  (23.09.2022)
 | Lost | 1.00% | ~6,175 |
 | Rocketman | 0.60% | ~3,705 |
 | Shopaholic | 0.60% | ~3,705 |
-| Expert Voyager | 0.50% | ~3,087 |
-| Nanuk | 0.50% | ~3,087 |
+| Expert Voyager | 0.50% | ~3,088 |
+| Nanuk | 0.50% | ~3,088 |
 | Scrooge | 0.40% | ~2,470 |
 | Terminal Station | 0.40% | ~2,470 |
 | Dynamite Fishing | 0.40% | ~2,470 |
-| Wayfarer | 0.30% | ~1,852 |
-| Advanced Wayfarer | 0.30% | ~1,852 |
-| Trans-Siberian Railway | 0.30% | ~1,852 |
-| Satan's Minion | 0.30% | ~1,852 |
-| Snowman's Land | 0.30% | ~1,852 |
-| Tough Nut! | 0.30% | ~1,852 |
+| Wayfarer | 0.30% | ~1,853 |
+| Advanced Wayfarer | 0.30% | ~1,853 |
+| Trans-Siberian Railway | 0.30% | ~1,853 |
+| Satan's Minion | 0.30% | ~1,853 |
+| Snowman's Land | 0.30% | ~1,853 |
+| Tough Nut! | 0.30% | ~1,853 |
 | Engineer | 0.20% | ~1,235 |
-| Explorer | 0.10% | ~617 |
-| Advanced Explorer | 0.10% | ~617 |
-| Expert Wayfarer | 0.10% | ~617 |
-| Expert Explorer | 0.10% | ~617 |
-| Deep Space Transit | 0.10% | ~617 |
-| Leet | 0.10% | ~617 |
-| Wrong way! | 0.10% | ~617 |
-| Ducky Danger | 0.10% | ~617 |
-| Shepherd | 0.10% | ~617 |
-| Industrialist | 0.10% | ~617 |
-| Missed Opportunities | 0.10% | ~617 |
-| Cowter Space | 0.10% | ~617 |
-| Apollo 13 | 0.10% | ~617 |
-| Collector | 0.10% | ~617 |
-| Achievement Master | 0.10% | ~617 |
-| Fire Fighter | 0.10% | ~617 |
-| Megalomaniac | 0.10% | ~617 |
-| No Space for Improvement | 0.10% | ~617 |
-| Where They Belong | 0.10% | ~617 |
-| Fireworks! | 0.10% | ~617 |
-| 20 Miles under the Sea | 0.10% | ~617 |
+| Explorer | 0.10% | ~618 |
+| Advanced Explorer | 0.10% | ~618 |
+| Expert Wayfarer | 0.10% | ~618 |
+| Expert Explorer | 0.10% | ~618 |
+| Deep Space Transit | 0.10% | ~618 |
+| Leet | 0.10% | ~618 |
+| Wrong way! | 0.10% | ~618 |
+| Ducky Danger | 0.10% | ~618 |
+| Shepherd | 0.10% | ~618 |
+| Industrialist | 0.10% | ~618 |
+| Missed Opportunities | 0.10% | ~618 |
+| Cowter Space | 0.10% | ~618 |
+| Apollo 13 | 0.10% | ~618 |
+| Collector | 0.10% | ~618 |
+| Achievement Master | 0.10% | ~618 |
+| Fire Fighter | 0.10% | ~618 |
+| Megalomaniac | 0.10% | ~618 |
+| No Space for Improvement | 0.10% | ~618 |
+| Where They Belong | 0.10% | ~618 |
+| Fireworks! | 0.10% | ~618 |
+| 20 Miles under the Sea | 0.10% | ~618 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 617,490 (Ranked 24)  
+Progressed: 617,514 (Ranked 24)  
 Completed: 7 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,10 +140,10 @@ Completed: 7 (0.00%) (Ranked 237)
 | 2023-07-07 | 615,960 | 7 |
 | 2023-07-08 | 616,490 | 7 |
 | 2023-07-09 | 617,076 | 7 |
-| 2023-07-10 | 617,490 | 7 |
+| 2023-07-10 | 617,514 | 7 |
 ## Awards
 Max (Diverse Characters): 190  (Ranked 273)  
-Sum: 1,534 (Ranked 215)  
+Sum: 1,535 (Ranked 215)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -152,7 +152,7 @@ Diff (max vs sum): 58
 | This game is Great for Beginners | 186 |
 | This game is Extremely Fun | 180 |
 | This game is Relaxing | 179 |
-| This game has Amazing Characters | 162 |
+| This game has Amazing Characters | 163 |
 | This game is Highly Recommended | 155 |
 | This game has Playful Visuals | 152 |
 | This game has Amazing Storytelling | 143 |
@@ -255,3 +255,4 @@ Diff (max vs sum): 58
 | 2023-07-01 | 4.64 | - | 190 | 1,532 |
 | 2023-07-04 | 4.64 | - | 190 | 1,533 |
 | 2023-07-06 | 4.64 | - | 190 | 1,534 |
+| 2023-07-10 | 4.64 | - | 190 | 1,535 |

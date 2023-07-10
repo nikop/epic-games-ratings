@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -151,9 +151,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1303,
+  "EOS_Progressed": 1304,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1066,6 +1066,11 @@
       "Time": "2023-07-10T02:31:09.2565057+00:00",
       "NumProgressed": 1303,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-10T21:05:04.228434+00:00",
+      "NumProgressed": 1304,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 56,
@@ -1165,7 +1170,7 @@
       "Name": "Completing the Look",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "achievement_kill1000Cultists",
@@ -1221,7 +1226,7 @@
       "Name": "Who\u0027s Counting?",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "achievement_kill3EnemiesWithPoisonInOneTurn",
@@ -1317,7 +1322,7 @@
       "Name": "War Endured",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "completedStory_legacy",
@@ -1524,15 +1529,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1303,
+      "Progressed": 1304,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-07-08T20:01:41.3411794+00:00",
-  "LastChanged_Achievements": "2023-07-10T20:04:54.0161575+00:00",
+  "LastChanged_Achievements": "2023-07-10T21:05:04.2284333+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:13.8802543+00:00",
-  "LastUpdate_Ratings": "2023-07-10T20:01:20.1033461+00:00",
-  "LastUpdate_Achievements": "2023-07-10T20:04:54.0162118+00:00"
+  "LastUpdate_Ratings": "2023-07-10T21:02:09.900188+00:00",
+  "LastUpdate_Achievements": "2023-07-10T21:05:04.2285027+00:00"
 }

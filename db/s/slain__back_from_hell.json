@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 29492,
+  "EOS_Progressed": 29495,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 852,
+  "EOS_NewPlayers": 849,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -8896,6 +8896,11 @@
       "Time": "2023-07-10T20:03:46.8007314+00:00",
       "NumProgressed": 29492,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-07-10T21:03:27.4427453+00:00",
+      "NumProgressed": 29495,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -8915,7 +8920,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5898
+      "UsersEstimate": 5899
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -9073,9 +9078,9 @@
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
       "SetID": "443p4o4",
       "Name": "Schadenfreude",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 206
+      "UsersEstimate": 236
     },
     {
       "ID": "ACH_24_HEAD_BANGED_TO_ALL_BOSSES",
@@ -9138,7 +9143,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 29492,
+      "Progressed": 29495,
       "Completed": 20
     }
   ],
@@ -9146,8 +9151,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-07-10T20:03:46.800731+00:00",
+  "LastChanged_Achievements": "2023-07-10T21:03:27.4427447+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:25.1516139+00:00",
-  "LastUpdate_Ratings": "2023-07-10T20:00:38.726878+00:00",
-  "LastUpdate_Achievements": "2023-07-10T20:03:46.8008079+00:00"
+  "LastUpdate_Ratings": "2023-07-10T21:01:23.2064941+00:00",
+  "LastUpdate_Achievements": "2023-07-10T21:03:27.4428188+00:00"
 }

@@ -32,6 +32,7 @@ Rating: 4.61 (Ranked 361)
 | Impenetrable Fortress | 2.00% | ~99 |
 | The Magic That Empowers Me! | 1.00% | ~50 |
 | God Emperor | 1.00% | ~50 |
+| Lord of Chaos | 1.00% | ~50 |
 | The Creator | 1.00% | ~50 |
 | Enchanted Archipelago | 1.00% | ~50 |
 | The Goddess of Nature | 1.00% | ~50 |
@@ -39,11 +40,10 @@ Rating: 4.61 (Ranked 361)
 | Preparation Is Everything | 1.00% | ~50 |
 | The Eternal Court | 1.00% | ~50 |
 | Duality | 1.00% | ~50 |
-| Lord of Chaos | 0.90% | ~45 |
 | Crimson Caldera | 0.90% | ~45 |
 | Jack of All Tomes | 0.90% | ~45 |
-| Grexolis | 0.70% | ~35 |
-| One for All, All for One | 0.70% | ~35 |
+| Grexolis | 0.80% | ~40 |
+| One for All, All for One | 0.80% | ~40 |
 | Pruning for Progress | 0.60% | ~30 |
 | I've Got Everything I Need Right Here | 0.50% | ~25 |
 | Manufactured War | 0.40% | ~20 |

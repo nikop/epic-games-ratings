@@ -40,11 +40,11 @@ Rating: 4.45 (Ranked 622)
 | Tinkerer | 0.70% | ~23 |
 | Herr Today, Gone Tomorrow | 0.60% | ~19 |
 | Rigged to Blow | 0.50% | ~16 |
+| From Paris with Love | 0.50% | ~16 |
 | Don't hold your breath | 0.50% | ~16 |
 | Shipbreaker | 0.50% | ~16 |
 | Sink or Swim | 0.50% | ~16 |
 | Strategist | 0.40% | ~13 |
-| From Paris with Love | 0.40% | ~13 |
 | Burn after reading | 0.40% | ~13 |
 | Souvenir hunter | 0.40% | ~13 |
 | Eagle Eyed | 0.40% | ~13 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 622)
 | Das Familienjuwel | 0.10% | ~3 |
 | Stroll in the Woods | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,252 (Ranked 146)  
+Progressed: 3,253 (Ranked 146)  
 Completed: 9 (0.28%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,7 +157,7 @@ Completed: 9 (0.28%) (Ranked 150)
 | 2023-07-07 | 3,227 | 9 |
 | 2023-07-08 | 3,234 | 9 |
 | 2023-07-09 | 3,245 | 9 |
-| 2023-07-10 | 3,252 | 9 |
+| 2023-07-10 | 3,253 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

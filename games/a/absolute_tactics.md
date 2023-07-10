@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Adventure | 33.00% | ~1 |
-| Big Money | 33.00% | ~1 |
+| A New Adventure | 50.00% | ~2 |
+| Big Money | 25.00% | ~1 |
 | The Killing Moon | 0.00% | ~0 |
 | Eye for an Eye | 0.00% | ~0 |
 | Bloody Vengeance | 0.00% | ~0 |
@@ -26,13 +26,13 @@
 | The Hordes of Mercy | 0.00% | ~0 |
 | Thinning the Horde | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3 (Ranked 431)  
+Progressed: 4 (Ranked 428)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-07-05 | 1 | 0 |
-| 2023-07-10 | 3 | 0 |
+| 2023-07-10 | 4 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

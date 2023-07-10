@@ -14,9 +14,9 @@ Number of Ratings: 45  (23.09.2022)
 | How Romantic! | 26.00% | ~339 |
 | Daybreak | 25.00% | ~326 |
 | Gotta Ca... Must Collect All of Them | 23.00% | ~300 |
-| Completing the Look | 13.00% | ~169 |
-| Who's Counting? | 13.00% | ~169 |
-| War Endured | 13.00% | ~169 |
+| Completing the Look | 13.00% | ~170 |
+| Who's Counting? | 13.00% | ~170 |
+| War Endured | 13.00% | ~170 |
 | A Mythic Menagerie | 12.00% | ~156 |
 | Core Failure | 12.00% | ~156 |
 | Pyrrhic Victory | 10.00% | ~130 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | We Call That Mortificient! | 0.70% | ~9 |
 | Peacemaker | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,303 (Ranked 176)  
+Progressed: 1,304 (Ranked 176)  
 Completed: 5 (0.38%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 5 (0.38%) (Ranked 137)
 | 2023-07-07 | 1,294 | 4 |
 | 2023-07-08 | 1,295 | 5 |
 | 2023-07-09 | 1,301 | 5 |
-| 2023-07-10 | 1,303 | 5 |
+| 2023-07-10 | 1,304 | 5 |
 ## Awards
 Max (Character Customization): 28  (Ranked 462)  
 Sum: 28 (Ranked 474)  
