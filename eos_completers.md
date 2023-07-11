@@ -67,7 +67,7 @@
 | 65 | [Lamentum](games/l/lamentum.md) | 2.67% |
 | 66 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
 | 67 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.61% |
-| 68 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.56% |
+| 68 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.58% |
 | 69 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 70 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
 | 71 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.38% |
@@ -91,7 +91,7 @@
 | 88 | [Poosh XL](games/p/poosh_xl.md) | 1.45% |
 | 90 | [A Musical Story](games/a/a_musical_story.md) | 1.43% |
 | 91 | [Late Shift](games/l/late_shift.md) | 1.34% |
-| 92 | [Five Dates](games/f/five_dates.md) | 1.29% |
+| 92 | [Five Dates](games/f/five_dates.md) | 1.28% |
 | 93 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.25% |
 | 94 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.22% |
 | 95 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.21% |
@@ -163,8 +163,8 @@
 | 161 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.21% |
 | 162 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
 | 162 | [Going Medieval](games/g/going_medieval.md) | 0.20% |
-| 162 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.20% |
-| 165 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
+| 164 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
+| 164 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.19% |
 | 166 | [BLACKTAIL](games/b/blacktail.md) | 0.18% |
 | 166 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.18% |
 | 168 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
