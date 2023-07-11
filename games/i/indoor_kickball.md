@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hat Unlocked | 85.00% | ~62 |
-| Accessory Unlocked | 85.00% | ~62 |
-| Character Unlocked | 84.00% | ~61 |
-| Settle Down | 73.00% | ~53 |
-| Homer | 70.00% | ~51 |
-| Butter Fingers | 70.00% | ~51 |
-| Have a good trip! | 70.00% | ~51 |
-| Kickball Unlocked | 67.00% | ~49 |
-| Stay Hydrated | 67.00% | ~49 |
+| Hat Unlocked | 84.00% | ~62 |
+| Accessory Unlocked | 84.00% | ~62 |
+| Character Unlocked | 82.00% | ~61 |
+| Settle Down | 72.00% | ~53 |
+| Homer | 69.00% | ~51 |
+| Butter Fingers | 69.00% | ~51 |
+| Have a good trip! | 69.00% | ~51 |
+| Kickball Unlocked | 66.00% | ~49 |
+| Stay Hydrated | 66.00% | ~49 |
 | First Win | 64.00% | ~47 |
-| True Story! | 40.00% | ~29 |
-| Bedroom Secret Spot | 37.00% | ~27 |
-| Kick It | 33.00% | ~24 |
+| True Story! | 39.00% | ~29 |
+| Bedroom Secret Spot | 36.00% | ~27 |
+| Kick It | 32.00% | ~24 |
 | Grand Slam! | 26.00% | ~19 |
 | Have Mercy | 26.00% | ~19 |
-| Spooky | 25.00% | ~18 |
+| Spooky | 24.00% | ~18 |
 | Save some water for the fishies | 22.00% | ~16 |
-| Classroom Secret Spot | 21.00% | ~15 |
-| Bathroom Secret Spot | 21.00% | ~15 |
-| Angry Dad | 21.00% | ~15 |
-| At least everyone still had fun | 21.00% | ~15 |
+| Classroom Secret Spot | 20.00% | ~15 |
+| Bathroom Secret Spot | 20.00% | ~15 |
+| Angry Dad | 20.00% | ~15 |
+| At least everyone still had fun | 20.00% | ~15 |
 | Living Room Secret Spot | 16.00% | ~12 |
 | Hi Hungry, I'm Dad | 12.00% | ~9 |
-| Interference | 10.00% | ~7 |
-| Just how we drew it up | 10.00% | ~7 |
+| Interference | 9.00% | ~7 |
+| Just how we drew it up | 9.00% | ~7 |
 | Angry Mom | 8.00% | ~6 |
 | Kitchen Secret Spot | 5.00% | ~4 |
 | Found the Secret Formula! | 5.00% | ~4 |
@@ -45,7 +45,7 @@
 | The Champ | 0.00% | ~0 |
 | He's heating Up! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73 (Ranked 320)  
+Progressed: 74 (Ranked 320)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,3 +78,4 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-06 | 70 | 0 |
 | 2023-07-07 | 71 | 0 |
 | 2023-07-10 | 73 | 0 |
+| 2023-07-11 | 74 | 0 |

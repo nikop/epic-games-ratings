@@ -2466,9 +2466,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 68709,
+  "EOS_Progressed": 68710,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 427,
+  "EOS_NewPlayers": 425,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -11011,6 +11011,11 @@
       "Time": "2023-07-11T02:21:48.607025+00:00",
       "NumProgressed": 68709,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-07-11T03:19:28.1235531+00:00",
+      "NumProgressed": 68710,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 37,
@@ -11022,7 +11027,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 34354
+      "UsersEstimate": 34355
     },
     {
       "ID": "ACH_0011",
@@ -11062,7 +11067,7 @@
       "Name": "Legend Looter",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3435
+      "UsersEstimate": 3436
     },
     {
       "ID": "ACH_0016",
@@ -11094,7 +11099,7 @@
       "Name": "Savvy Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3435
+      "UsersEstimate": 3436
     },
     {
       "ID": "ACH_0040",
@@ -11166,7 +11171,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 44661
+      "UsersEstimate": 44662
     },
     {
       "ID": "ACH_0210",
@@ -11190,7 +11195,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 32293
+      "UsersEstimate": 32294
     },
     {
       "ID": "ACH_0300",
@@ -11286,7 +11291,7 @@
       "Name": "Raider\u2019s Ruin",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10993
+      "UsersEstimate": 10994
     },
     {
       "ID": "ACH_0452",
@@ -11317,7 +11322,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 68709,
+      "Progressed": 68710,
       "Completed": 36
     }
   ],
@@ -11325,8 +11330,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-07-10T22:01:16.5103995+00:00",
-  "LastChanged_Achievements": "2023-07-11T02:21:48.6070243+00:00",
+  "LastChanged_Achievements": "2023-07-11T03:19:28.1235523+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:23.2557502+00:00",
-  "LastUpdate_Ratings": "2023-07-11T02:17:37.0182415+00:00",
-  "LastUpdate_Achievements": "2023-07-11T02:21:48.6070841+00:00"
+  "LastUpdate_Ratings": "2023-07-11T03:15:17.1064393+00:00",
+  "LastUpdate_Achievements": "2023-07-11T03:19:28.1236339+00:00"
 }

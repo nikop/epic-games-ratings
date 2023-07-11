@@ -4,7 +4,7 @@
   "ProductSlug": "master-of-magic",
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewPlayers": 318,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-12-13T15:40:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:34.5096649+00:00",
   "LastChanged": "2023-03-31T05:58:34.509665+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:02.1861161+00:00",
-  "LastUpdate_Ratings": "2023-07-11T02:16:34.4523133+00:00",
-  "LastUpdate_Achievements": "2023-07-11T02:23:22.6734551+00:00"
+  "LastUpdate_Ratings": "2023-07-11T03:14:11.8976334+00:00",
+  "LastUpdate_Achievements": "2023-07-11T03:21:04.5002332+00:00"
 }

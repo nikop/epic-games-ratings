@@ -3,9 +3,9 @@
   "Name": "Placid Plastic Duck Simulator",
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 316,
-  "Ranking_EOS_Completed": 33,
+  "Ranking_EOS_Completed": 26,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
     "PcReleaseDate": "2022-07-06T08:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 79,
-  "EOS_Completed": 5,
+  "EOS_Completed": 6,
   "EOS_NewPlayers": 76,
-  "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 6.33,
+  "EOS_NewCompleters": 6,
+  "EOS_Completed_Percentage": 7.59,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -271,6 +271,11 @@
       "Time": "2023-07-10T21:05:24.5465726+00:00",
       "NumProgressed": 79,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-11T03:19:43.5222654+00:00",
+      "NumProgressed": 79,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 16,
@@ -312,9 +317,9 @@
       "ID": "NEW_ACHIEVEMENT_1_12",
       "SetID": "8d3ci0",
       "Name": "That\u0027s all, ducks!",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 160,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
@@ -410,13 +415,13 @@
       "ID": "8d3ci0",
       "IsBase": true,
       "Progressed": 79,
-      "Completed": 5
+      "Completed": 6
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-11T02:22:03.9761351+00:00",
+  "LastChanged_Achievements": "2023-07-11T03:19:43.5222651+00:00",
   "LastUpdate_AppInfo": "2023-07-08T11:56:59.3518994+00:00",
-  "LastUpdate_Ratings": "2023-07-11T02:14:16.4666578+00:00",
-  "LastUpdate_Achievements": "2023-07-11T02:22:03.9761543+00:00"
+  "LastUpdate_Ratings": "2023-07-11T03:11:53.7858719+00:00",
+  "LastUpdate_Achievements": "2023-07-11T03:19:43.5222776+00:00"
 }

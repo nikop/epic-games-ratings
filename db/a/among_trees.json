@@ -2,12 +2,12 @@
   "ID": "1886704a76f94324ab964a4698db3e09",
   "Name": "Among Trees",
   "ProductSlug": "among-trees",
-  "Ranking_Rating": 746,
+  "Ranking_Rating": 738,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewPlayers": 318,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2020-06-13T19:20:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.34,
+  "Rating": 4.35,
   "NumberOfRatings": 122,
   "RatingHistory": [
     {
@@ -374,6 +374,12 @@
       "Rating": 4.34,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-07-11T03:12:56.1800155+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -391,8 +397,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:39.253901+00:00",
-  "LastChanged": "2023-06-30T02:15:49.74463+00:00",
+  "LastChanged": "2023-07-11T03:12:56.1800149+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:21.7413782+00:00",
-  "LastUpdate_Ratings": "2023-07-11T02:15:19.1642816+00:00",
-  "LastUpdate_Achievements": "2023-07-11T02:19:19.3594394+00:00"
+  "LastUpdate_Ratings": "2023-07-11T03:12:56.1800162+00:00",
+  "LastUpdate_Achievements": "2023-07-11T03:17:10.1135753+00:00"
 }

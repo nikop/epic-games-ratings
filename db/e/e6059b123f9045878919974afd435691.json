@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 518,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 279,
+  "EOS_NewPlayers": 276,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1108,9 +1108,9 @@
       "ID": "EXTINV_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Think Bullets Will Affect Her?",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 47
     },
     {
       "ID": "EXT_ACHIEVEMENT_1",
@@ -1260,9 +1260,9 @@
       "ID": "LEECHER_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Don\u0027t Turn Your Back",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 114
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -1340,9 +1340,9 @@
       "ID": "PASS_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Beep Beep Boop",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 47
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_1",
@@ -1435,8 +1435,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-11T02:21:42.2129089+00:00",
+  "LastChanged_Achievements": "2023-07-11T03:19:21.1845008+00:00",
   "LastUpdate_AppInfo": "2023-07-06T13:16:22.5768242+00:00",
-  "LastUpdate_Ratings": "2023-07-11T02:14:11.0021244+00:00",
-  "LastUpdate_Achievements": "2023-07-11T02:21:42.212964+00:00"
+  "LastUpdate_Ratings": "2023-07-11T03:11:48.4977817+00:00",
+  "LastUpdate_Achievements": "2023-07-11T03:19:21.1845756+00:00"
 }

@@ -34,10 +34,10 @@ Rating: 4.87 (Ranked 25)
 | That's a lot of junk metal… | 0.40% | ~14 |
 | Does that say weakpoint? | 0.40% | ~14 |
 | Call me Turbo Chai | 0.40% | ~8 |
+| New bad guys? No problem! | 0.40% | ~8 |
 | Beat-hit mania | 0.30% | ~10 |
 | There's such a thing as TOO helpful | 0.30% | ~10 |
 | Wanna hear my playlist? | 0.30% | ~10 |
-| New bad guys? No problem! | 0.30% | ~6 |
 | I think I deserve some praise, here! | 0.20% | ~7 |
 | Chip-tuned | 0.20% | ~7 |
 | I think I found your calling, Macaron | 0.20% | ~7 |

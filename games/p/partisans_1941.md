@@ -7,8 +7,8 @@ Number of Ratings: 98  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | E1M1 | 34.00% | ~373 |
+| Grenadier | 33.00% | ~362 |
 | War Never Changes | 33.00% | ~362 |
-| Grenadier | 32.00% | ~351 |
 | Heroes Never Die | 30.00% | ~329 |
 | Mosquito bite | 29.00% | ~318 |
 | Spice It Up | 26.00% | ~285 |
@@ -17,8 +17,8 @@ Number of Ratings: 98  (23.09.2022)
 | Bomberman | 22.00% | ~241 |
 | Death to the Oppressor! | 16.00% | ~175 |
 | The Gang's All Here | 13.00% | ~142 |
+| One by One | 12.00% | ~132 |
 | Your Answer | 12.00% | ~132 |
-| One by One | 11.00% | ~121 |
 | The Big Bertha | 10.00% | ~110 |
 | Game Over | 9.00% | ~99 |
 | Lock, Stock | 6.00% | ~66 |

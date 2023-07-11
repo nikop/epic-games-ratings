@@ -6,9 +6,9 @@ Rating: 3.93 (Ranked 924)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Downed but Not Outed | 74.00% | ~50,845 |
-| First One’s Free | 65.00% | ~44,661 |
-| Neophyte Ninja | 50.00% | ~34,354 |
-| Too Old for This | 47.00% | ~32,293 |
+| First One’s Free | 65.00% | ~44,662 |
+| Neophyte Ninja | 50.00% | ~34,355 |
+| Too Old for This | 47.00% | ~32,294 |
 | Fancy Pants | 35.00% | ~24,048 |
 | Case Closed | 34.00% | ~23,361 |
 | King of the Hill | 34.00% | ~23,361 |
@@ -17,7 +17,7 @@ Rating: 3.93 (Ranked 924)
 | True Player | 19.00% | ~13,055 |
 | Off the Rocks | 19.00% | ~13,055 |
 | Dragonslayer | 17.00% | ~11,681 |
-| Raider’s Ruin | 16.00% | ~10,993 |
+| Raider’s Ruin | 16.00% | ~10,994 |
 | Hidden Sonata | 13.00% | ~8,932 |
 | Rockay Rex | 11.00% | ~7,558 |
 | Freebooter | 10.00% | ~6,871 |
@@ -27,8 +27,8 @@ Rating: 3.93 (Ranked 924)
 | Headhunter | 8.00% | ~5,497 |
 | Ding Dong | 8.00% | ~5,497 |
 | Foo Finder | 7.00% | ~4,810 |
-| Legend Looter | 5.00% | ~3,435 |
-| Savvy Seeker | 5.00% | ~3,435 |
+| Legend Looter | 5.00% | ~3,436 |
+| Savvy Seeker | 5.00% | ~3,436 |
 | Imports and Exports | 4.00% | ~2,748 |
 | Olympus Ascended | 4.00% | ~2,748 |
 | Cracked the Jack | 4.00% | ~2,748 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 924)
 | Geek Out | 0.50% | ~344 |
 | Full House | 0.20% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,709 (Ranked 73)  
+Progressed: 68,710 (Ranked 73)  
 Completed: 36 (0.05%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 36 (0.05%) (Ranked 202)
 | 2023-07-08 | 68,561 | 36 |
 | 2023-07-09 | 68,644 | 36 |
 | 2023-07-10 | 68,703 | 36 |
-| 2023-07-11 | 68,709 | 36 |
+| 2023-07-11 | 68,710 | 36 |
 ## Awards
 Max (Diverse Characters): 359  (Ranked 220)  
 Sum: 1,710 (Ranked 206)  

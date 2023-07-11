@@ -13,7 +13,7 @@ Number of Ratings: 45  (23.09.2022)
 | Cutthroat Competitors | 28.00% | ~365 |
 | How Romantic! | 26.00% | ~339 |
 | Daybreak | 25.00% | ~326 |
-| Gotta Ca... Must Collect All of Them | 23.00% | ~300 |
+| Gotta Ca... Must Collect All of Them | 24.00% | ~313 |
 | Completing the Look | 13.00% | ~170 |
 | Who's Counting? | 13.00% | ~170 |
 | War Endured | 13.00% | ~170 |

@@ -10,8 +10,8 @@
 | A Prophecy | 85.00% | ~886 |
 | Sword, Shield, Fight! | 76.00% | ~792 |
 | A Grand Visit | 72.00% | ~750 |
+| Fun Guy | 63.00% | ~656 |
 | Vibing | 62.00% | ~646 |
-| Fun Guy | 62.00% | ~646 |
 | Tragic Brave | 54.00% | ~563 |
 | Awakened Spirits | 51.00% | ~531 |
 | Little Shop | 50.00% | ~521 |
@@ -56,7 +56,7 @@
 | Bombs Away! | 9.00% | ~94 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,042 (Ranked 185)  
-Completed: 78 (7.49%) (Ranked 26)  
+Completed: 78 (7.49%) (Ranked 27)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

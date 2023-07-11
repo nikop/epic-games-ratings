@@ -4,7 +4,7 @@
   "ProductSlug": "of-bird-and-cage",
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewPlayers": 318,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-12-16T16:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:15.975788+00:00",
   "LastChanged": "2023-03-31T05:58:15.975788+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:10.7168088+00:00",
-  "LastUpdate_Ratings": "2023-07-11T02:15:11.2873963+00:00",
-  "LastUpdate_Achievements": "2023-07-11T02:22:29.6861842+00:00"
+  "LastUpdate_Ratings": "2023-07-11T03:12:47.446229+00:00",
+  "LastUpdate_Achievements": "2023-07-11T03:20:09.1640361+00:00"
 }

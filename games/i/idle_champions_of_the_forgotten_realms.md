@@ -6,14 +6,14 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,489 |
-| The Mad Wizard | 11.00% | ~23,092 |
-| The Ring of Regeneration | 7.00% | ~14,695 |
-| Are Ya Chicken? | 7.00% | ~14,695 |
+| The Cursed Farmer | 15.00% | ~31,490 |
+| The Mad Wizard | 11.00% | ~23,093 |
+| The Ring of Regeneration | 7.00% | ~14,696 |
+| Are Ya Chicken? | 7.00% | ~14,696 |
 | Were-verpowered | 6.00% | ~12,596 |
-| Seeking Allies | 5.00% | ~10,496 |
-| Mad Cow Disease | 5.00% | ~10,496 |
-| Friendly Imps | 5.00% | ~10,496 |
+| Seeking Allies | 5.00% | ~10,497 |
+| Mad Cow Disease | 5.00% | ~10,497 |
+| Friendly Imps | 5.00% | ~10,497 |
 | A Persistent Buzzing | 4.00% | ~8,397 |
 | Pure Energy | 4.00% | ~8,397 |
 | Beast Mode | 3.00% | ~6,298 |
@@ -64,15 +64,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Giant's Bane Tavern | 0.80% | ~1,410 |
 | Rude Welcome | 0.80% | ~1,679 |
 | The Haunted Jungle | 0.80% | ~1,679 |
-| Tomb of the Nine Gods | 0.70% | ~1,469 |
-| Family Entanglements | 0.70% | ~1,469 |
-| The Immortal Warrior | 0.70% | ~1,469 |
-| Fugitives | 0.70% | ~1,469 |
-| Hopelessly Lost | 0.70% | ~1,469 |
-| Crowded Streets | 0.70% | ~1,469 |
-| The Darkness Runs Deeper | 0.70% | ~1,469 |
-| Market Fluctuations | 0.70% | ~1,469 |
-| Durable Deep | 0.70% | ~1,469 |
+| Tomb of the Nine Gods | 0.70% | ~1,470 |
+| Family Entanglements | 0.70% | ~1,470 |
+| The Immortal Warrior | 0.70% | ~1,470 |
+| Fugitives | 0.70% | ~1,470 |
+| Hopelessly Lost | 0.70% | ~1,470 |
+| Crowded Streets | 0.70% | ~1,470 |
+| The Darkness Runs Deeper | 0.70% | ~1,470 |
+| Market Fluctuations | 0.70% | ~1,470 |
+| Durable Deep | 0.70% | ~1,470 |
 | The Wyrmheart Mine | 0.60% | ~1,260 |
 | Tower on the Lake | 0.60% | ~1,260 |
 | The Guardian of Orolunga | 0.60% | ~1,260 |
@@ -93,6 +93,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeds of Deceit | 0.50% | ~1,050 |
 | The Gargoyle's Apprentice | 0.50% | ~1,050 |
 | Flies on the Wall | 0.50% | ~1,050 |
+| Backtracking Through Barovia | 0.50% | ~1,050 |
 | Cramped Quarters | 0.50% | ~1,050 |
 | Waterdeep Under Siege | 0.50% | ~1,050 |
 | Vault of Dragons | 0.50% | ~1,050 |
@@ -114,7 +115,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | House of Darkness | 0.40% | ~840 |
 | The Trepidatious Trio | 0.40% | ~840 |
 | A Saurial's Resolve | 0.40% | ~840 |
-| Backtracking Through Barovia | 0.40% | ~840 |
 | Excavating History | 0.40% | ~840 |
 | Towering Expectations | 0.40% | ~840 |
 | A Tale of Two Fiends | 0.40% | ~840 |
@@ -153,6 +153,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Sunless Citadel | 0.30% | ~630 |
 | Troublesome Prisoner | 0.30% | ~630 |
 | Dark Doppelgangers | 0.30% | ~630 |
+| Cold & Wet | 0.30% | ~630 |
 | The Wandering Emporium | 0.30% | ~529 |
 | Tiamat's Army | 0.30% | ~529 |
 | Questlines | 0.30% | ~529 |
@@ -216,7 +217,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bregan D'aerthe Comes to Call | 0.20% | ~420 |
 | Sober Up | 0.20% | ~420 |
 | Meepo's Quest | 0.20% | ~420 |
-| Cold & Wet | 0.20% | ~420 |
 | Madcap Adventures | 0.20% | ~420 |
 | Vault of Pixies | 0.20% | ~420 |
 | Vault of Poison | 0.20% | ~420 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209,928 (Ranked 52)  
+Progressed: 209,936 (Ranked 52)  
 Completed: 2,045 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -592,7 +592,7 @@ Completed: 2,045 (0.97%) (Ranked 102)
 | 2023-07-08 | 208,782 | 2,041 |
 | 2023-07-09 | 209,384 | 2,043 |
 | 2023-07-10 | 209,861 | 2,045 |
-| 2023-07-11 | 209,928 | 2,045 |
+| 2023-07-11 | 209,936 | 2,045 |
 ## Awards
 Max (Diverse Characters): 5,021  (Ranked 65)  
 Sum: 30,473 (Ranked 38)  

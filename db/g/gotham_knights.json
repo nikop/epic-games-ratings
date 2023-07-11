@@ -1976,9 +1976,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 66850,
+  "EOS_Progressed": 66851,
   "EOS_Completed": 101,
-  "EOS_NewPlayers": 470,
+  "EOS_NewPlayers": 466,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -9371,6 +9371,11 @@
       "Time": "2023-07-11T02:20:56.9455728+00:00",
       "NumProgressed": 66850,
       "NumCompleted": 101
+    },
+    {
+      "Time": "2023-07-11T03:18:35.4707089+00:00",
+      "NumProgressed": 66851,
+      "NumCompleted": 101
     }
   ],
   "TotalAchievements": 61,
@@ -9526,7 +9531,7 @@
       "Name": "Fusion Expert",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -9566,7 +9571,7 @@
       "Name": "Out of Their League",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -9582,7 +9587,7 @@
       "Name": "Family Meeting",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -9598,7 +9603,7 @@
       "Name": "Drone You Out",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "FREEZE_1",
@@ -9846,7 +9851,7 @@
       "Name": "Solid Alibi",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -9869,13 +9874,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 66850,
+      "Progressed": 66851,
       "Completed": 101
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 37130,
+      "Progressed": 37131,
       "Completed": 2652
     }
   ],
@@ -9883,8 +9888,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-07-10T17:00:57.7745428+00:00",
-  "LastChanged_Achievements": "2023-07-11T02:20:56.945572+00:00",
+  "LastChanged_Achievements": "2023-07-11T03:18:35.4707085+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:06.0757808+00:00",
-  "LastUpdate_Ratings": "2023-07-11T02:17:23.1604618+00:00",
-  "LastUpdate_Achievements": "2023-07-11T02:20:56.9456539+00:00"
+  "LastUpdate_Ratings": "2023-07-11T03:15:01.5434061+00:00",
+  "LastUpdate_Achievements": "2023-07-11T03:18:35.4708122+00:00"
 }

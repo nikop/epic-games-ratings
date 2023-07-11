@@ -6,14 +6,14 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,140 |
+| Until death do us apart | 9.00% | ~6,141 |
 | That's a Grand Army | 8.00% | ~5,458 |
 | That is mine! | 8.00% | ~5,458 |
 | Victorious! | 8.00% | ~5,458 |
-| Brothers in Arms | 6.00% | ~4,093 |
-| That's a Grand Navy | 6.00% | ~4,093 |
-| Seriously?! | 6.00% | ~4,093 |
-| For the Glory | 5.00% | ~3,411 |
+| Brothers in Arms | 6.00% | ~4,094 |
+| That's a Grand Navy | 6.00% | ~4,094 |
+| Seriously?! | 6.00% | ~4,094 |
+| For the Glory | 5.00% | ~3,412 |
 | Cold War | 4.00% | ~2,729 |
 | True Catholic | 4.00% | ~2,729 |
 | Defender of the Faith | 3.00% | ~2,047 |
@@ -22,15 +22,15 @@ Number of Ratings: 8,414  (23.09.2022)
 | Respected | 3.00% | ~2,047 |
 | The Princess is in this Castle | 3.00% | ~2,047 |
 | Truly Divine Ruler | 3.00% | ~2,047 |
-| Agressive Expander | 2.00% | ~1,364 |
-| Blockader | 2.00% | ~1,364 |
-| Combined Arms | 2.00% | ~1,364 |
-| Double the Love | 2.00% | ~1,364 |
-| Gentle Persuasion | 2.00% | ~1,364 |
-| My armies are invincible! | 2.00% | ~1,364 |
-| Queen of Conquest | 2.00% | ~1,364 |
-| Royal Authority | 2.00% | ~1,364 |
-| Total Control | 2.00% | ~1,364 |
+| Agressive Expander | 2.00% | ~1,365 |
+| Blockader | 2.00% | ~1,365 |
+| Combined Arms | 2.00% | ~1,365 |
+| Double the Love | 2.00% | ~1,365 |
+| Gentle Persuasion | 2.00% | ~1,365 |
+| My armies are invincible! | 2.00% | ~1,365 |
+| Queen of Conquest | 2.00% | ~1,365 |
+| Royal Authority | 2.00% | ~1,365 |
+| Total Control | 2.00% | ~1,365 |
 | All That's Thine Shall Be Mine | 1.00% | ~682 |
 | Azur semé de lis or | 1.00% | ~682 |
 | Bright Spark | 1.00% | ~682 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,220 (Ranked 74)  
+Progressed: 68,231 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -443,7 +443,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-08 | 67,273 | 0 |
 | 2023-07-09 | 67,782 | 0 |
 | 2023-07-10 | 68,178 | 0 |
-| 2023-07-11 | 68,220 | 0 |
+| 2023-07-11 | 68,231 | 0 |
 ## Awards
 Max (Educational): 5,527  (Ranked 60)  
 Sum: 45,607 (Ranked 27)  

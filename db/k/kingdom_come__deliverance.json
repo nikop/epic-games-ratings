@@ -5838,9 +5838,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 791934,
+  "EOS_Progressed": 791937,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 1094,
+  "EOS_NewPlayers": 1093,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14578,6 +14578,11 @@
       "Time": "2023-07-11T02:21:04.6093653+00:00",
       "NumProgressed": 791934,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-07-11T03:18:43.3174014+00:00",
+      "NumProgressed": 791937,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -14613,7 +14618,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 126709
+      "UsersEstimate": 126710
     },
     {
       "ID": "Awakening",
@@ -14749,7 +14754,7 @@
       "Name": "Convict",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 79193
+      "UsersEstimate": 79194
     },
     {
       "ID": "DavidHorak",
@@ -14789,7 +14794,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 182145
+      "UsersEstimate": 182146
     },
     {
       "ID": "Fighter",
@@ -14805,7 +14810,7 @@
       "Name": "Firestarter",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 118790
+      "UsersEstimate": 118791
     },
     {
       "ID": "Freud",
@@ -14909,7 +14914,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 102951
+      "UsersEstimate": 102952
     },
     {
       "ID": "Judas",
@@ -14989,7 +14994,7 @@
       "Name": "McLovin",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 55435
+      "UsersEstimate": 55436
     },
     {
       "ID": "MercenarysHonor",
@@ -15093,7 +15098,7 @@
       "Name": "Runt",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 55435
+      "UsersEstimate": 55436
     },
     {
       "ID": "Saviour",
@@ -15197,7 +15202,7 @@
       "Name": "Traveller",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 79193
+      "UsersEstimate": 79194
     },
     {
       "ID": "TrialAndError",
@@ -15244,15 +15249,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 791934,
+      "Progressed": 791937,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-07-11T02:15:56.2765441+00:00",
-  "LastChanged_Achievements": "2023-07-11T02:21:04.6093647+00:00",
+  "LastChanged_Achievements": "2023-07-11T03:18:43.317401+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:10.689818+00:00",
-  "LastUpdate_Ratings": "2023-07-11T02:15:56.2765446+00:00",
-  "LastUpdate_Achievements": "2023-07-11T02:21:04.6094743+00:00"
+  "LastUpdate_Ratings": "2023-07-11T03:13:33.0238882+00:00",
+  "LastUpdate_Achievements": "2023-07-11T03:18:43.3175452+00:00"
 }

@@ -23,8 +23,8 @@ Number of Ratings: 154  (23.09.2022)
 | Cleared Sonic the Hedgehog | 57.00% | ~158 |
 | Museum Time | 53.00% | ~147 |
 | Very First Mission Clear! | 52.00% | ~144 |
+| Super Sonic | 51.00% | ~141 |
 | Shut Down Metal Sonic | 50.00% | ~138 |
-| Super Sonic | 50.00% | ~138 |
 | Beware Stingers! | 49.00% | ~136 |
 | Cleared Sonic CD | 47.00% | ~130 |
 | Beware Moto Bugs! | 45.00% | ~125 |

@@ -1181,9 +1181,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 122975,
+  "EOS_Progressed": 122976,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 308,
+  "EOS_NewPlayers": 307,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -9046,6 +9046,11 @@
       "Time": "2023-07-11T02:20:06.8586932+00:00",
       "NumProgressed": 122975,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-07-11T03:17:17.0985296+00:00",
+      "NumProgressed": 122976,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -9249,7 +9254,7 @@
       "Name": "Hardie\u0027s Heroes",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 7378
+      "UsersEstimate": 7379
     },
     {
       "ID": "ACH_ICEBREAKER",
@@ -9273,7 +9278,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 17216
+      "UsersEstimate": 17217
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -9376,15 +9381,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 122975,
+      "Progressed": 122976,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-07-07T16:59:40.5892511+00:00",
-  "LastChanged_Achievements": "2023-07-11T02:20:06.8586926+00:00",
+  "LastChanged_Achievements": "2023-07-11T03:17:17.0985293+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:13.7032583+00:00",
-  "LastUpdate_Ratings": "2023-07-11T02:16:43.1503603+00:00",
-  "LastUpdate_Achievements": "2023-07-11T02:20:06.858754+00:00"
+  "LastUpdate_Ratings": "2023-07-11T03:14:20.3040499+00:00",
+  "LastUpdate_Achievements": "2023-07-11T03:17:17.0986061+00:00"
 }
