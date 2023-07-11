@@ -6,16 +6,16 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~474,599 |
-| Apprentice | 58.00% | ~382,316 |
-| Close Shave | 25.00% | ~164,791 |
+| The Fool | 72.00% | ~474,600 |
+| Apprentice | 58.00% | ~382,317 |
+| Close Shave | 25.00% | ~164,792 |
 | Mercenary | 23.00% | ~151,608 |
 | Ninja | 23.00% | ~151,608 |
 | Northern Scourge | 17.00% | ~112,058 |
 | Thief Bane | 14.00% | ~92,283 |
 | Master of Arms | 12.00% | ~79,100 |
-| Gambler | 10.00% | ~65,916 |
-| Dice Master | 10.00% | ~65,916 |
+| Gambler | 10.00% | ~65,917 |
+| Dice Master | 10.00% | ~65,917 |
 | Swordsman | 9.00% | ~59,325 |
 | Knight | 8.00% | ~52,733 |
 | Cure for Corruption | 8.00% | ~52,733 |
@@ -39,7 +39,7 @@ Number of Ratings: 780  (23.09.2022)
 | Cursed Soul | 1.00% | ~6,592 |
 | Champion | 1.00% | ~6,592 |
 | Final Death | 1.00% | ~6,592 |
-| Thomas' Bane | 0.90% | ~5,932 |
+| Thomas' Bane | 0.90% | ~5,933 |
 | Ally | 0.80% | ~5,273 |
 | Gamester | 0.70% | ~4,614 |
 | Hero | 0.60% | ~3,955 |
@@ -47,7 +47,7 @@ Number of Ratings: 780  (23.09.2022)
 | Dungeon Master | 0.50% | ~3,296 |
 | Pilgrim | 0.40% | ~2,637 |
 | Smiths Honour | 0.40% | ~2,637 |
-| Peaceful Coast | 0.30% | ~1,977 |
+| Peaceful Coast | 0.30% | ~1,978 |
 | Money Bags | 0.20% | ~1,318 |
 | Grifter | 0.10% | ~659 |
 | Unburdened | 0.10% | ~659 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~659 |
 | Blood Pact | 0.10% | ~659 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 659,165 (Ranked 22)  
+Progressed: 659,167 (Ranked 22)  
 Completed: 165 (0.03%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 165 (0.03%) (Ranked 209)
 | 2023-07-08 | 659,026 | 165 |
 | 2023-07-09 | 659,087 | 165 |
 | 2023-07-10 | 659,124 | 165 |
-| 2023-07-11 | 659,165 | 165 |
+| 2023-07-11 | 659,167 | 165 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 434)  
 Sum: 180 (Ranked 372)  

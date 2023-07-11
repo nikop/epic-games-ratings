@@ -2367,9 +2367,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 527326,
+  "EOS_Progressed": 527327,
   "EOS_Completed": 1476,
-  "EOS_NewPlayers": 694,
+  "EOS_NewPlayers": 691,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -11077,6 +11077,11 @@
       "Time": "2023-07-11T20:03:30.3743259+00:00",
       "NumProgressed": 527326,
       "NumCompleted": 1476
+    },
+    {
+      "Time": "2023-07-11T21:03:17.5846108+00:00",
+      "NumProgressed": 527327,
+      "NumCompleted": 1476
     }
   ],
   "TotalAchievements": 37,
@@ -11088,7 +11093,7 @@
       "Name": "Branded",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 68552
+      "UsersEstimate": 68553
     },
     {
       "ID": "COASTROCK",
@@ -11200,7 +11205,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 210930
+      "UsersEstimate": 210931
     },
     {
       "ID": "THE_CASTLE",
@@ -11256,7 +11261,7 @@
       "Name": "The Imposter",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 68552
+      "UsersEstimate": 68553
     },
     {
       "ID": "THE_IRON_ONES",
@@ -11272,7 +11277,7 @@
       "Name": "The Keep",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 68552
+      "UsersEstimate": 68553
     },
     {
       "ID": "THE_LAKE",
@@ -11383,15 +11388,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 527326,
+      "Progressed": 527327,
       "Completed": 1476
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-07-11T14:01:40.161554+00:00",
-  "LastChanged_Achievements": "2023-07-11T20:03:30.3743253+00:00",
+  "LastChanged_Achievements": "2023-07-11T21:03:17.5846104+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:35.4713999+00:00",
-  "LastUpdate_Ratings": "2023-07-11T19:59:22.2330985+00:00",
-  "LastUpdate_Achievements": "2023-07-11T20:03:30.3744794+00:00"
+  "LastUpdate_Ratings": "2023-07-11T20:59:23.7008156+00:00",
+  "LastUpdate_Achievements": "2023-07-11T21:03:17.5846707+00:00"
 }

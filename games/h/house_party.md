@@ -35,6 +35,7 @@ Number of Ratings: 177  (23.09.2022)
 | Benedict Brahrnold | 0.30% | ~17 |
 | Now It's a Party! | 0.30% | ~17 |
 | Rachael | 0.30% | ~17 |
+| Good Ol' Days | 0.30% | ~17 |
 | Te Amo Lety | 0.30% | ~17 |
 | Beyond the Call of Dude-y | 0.20% | ~11 |
 | The Bride | 0.20% | ~11 |
@@ -49,7 +50,6 @@ Number of Ratings: 177  (23.09.2022)
 | Howz It Goin Dood | 0.20% | ~11 |
 | Derezzed | 0.20% | ~11 |
 | The Elder Brahs | 0.20% | ~11 |
-| Good Ol' Days | 0.20% | ~11 |
 | Against All Odds | 0.10% | ~6 |
 | Casabrova | 0.10% | ~6 |
 | Congrats, A Celebrity Hates You | 0.10% | ~3 |

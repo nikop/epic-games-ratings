@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 321,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2017-07-21T09:00:00+00:00",
     "PcReleaseDate": "2017-07-21T09:00:50+00:00",
@@ -5321,18 +5321,24 @@
       "Rating": 4.29,
       "NumberOfAwards": 10714304,
       "NumberOfAwardsMax": 1490561
+    },
+    {
+      "Time": "2023-07-11T20:57:34.7036913+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 10726663,
+      "NumberOfAwardsMax": 1492857
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10714304,
-  "NumberOfAwardsMax": 1490561,
+  "NumberOfAwards": 10726663,
+  "NumberOfAwardsMax": 1492857,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 1490561
+      "Count": 1492857
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5344,31 +5350,31 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1431492
+      "Count": 1433681
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1386720
+      "Count": 1388789
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1319105
+      "Count": 1321042
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1289792
+      "Count": 1291754
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1304141
+      "Count": 1306047
     },
     {
       "Text": "This game has a Competitive Community",
@@ -5388,8 +5394,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:41.6739549+00:00",
-  "LastChanged": "2023-07-10T21:57:55.03419+00:00",
+  "LastChanged": "2023-07-11T20:57:34.7036912+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:46.2111995+00:00",
-  "LastUpdate_Ratings": "2023-07-11T19:57:41.7281611+00:00",
-  "LastUpdate_Achievements": "2023-07-11T20:03:42.8246926+00:00"
+  "LastUpdate_Ratings": "2023-07-11T20:57:34.7036917+00:00",
+  "LastUpdate_Achievements": "2023-07-11T21:03:30.8643635+00:00"
 }

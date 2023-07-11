@@ -19,11 +19,11 @@ Rating: 4.87 (Ranked 24)
 | You got this, Peppermint? | 0.80% | ~27 |
 | Z-shielding's got nothing on us! | 0.80% | ~27 |
 | Out in a puff of smoke | 0.80% | ~27 |
+| Perfect Parry | 0.80% | ~27 |
 | Uh, they were broken when I got here | 0.80% | ~27 |
 | Start with a bang! | 0.70% | ~24 |
 | Headliner | 0.70% | ~24 |
 | You must like calling me in, Chai | 0.70% | ~24 |
-| Perfect Parry | 0.70% | ~24 |
 | Alright, that felt AWESOME! | 0.70% | ~24 |
 | I have to read these things? | 0.60% | ~21 |
 | Feeling the beat! | 0.60% | ~21 |

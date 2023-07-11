@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -187,9 +187,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 29634,
+  "EOS_Progressed": 29643,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 866,
+  "EOS_NewPlayers": 872,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -9017,6 +9017,11 @@
       "Time": "2023-07-11T20:03:16.0654279+00:00",
       "NumProgressed": 29634,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-07-11T21:03:03.7642192+00:00",
+      "NumProgressed": 29643,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -9028,7 +9033,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4741
+      "UsersEstimate": 4743
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -9036,7 +9041,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5927
+      "UsersEstimate": 5929
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -9116,7 +9121,7 @@
       "Name": "Red In Tooth And Claw",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ACH_14_DEFEATED_MOTHER_BEHOLDER",
@@ -9132,7 +9137,7 @@
       "Name": "Death Becomes Her",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ACH_16_RETURNED_ICE_METEORS",
@@ -9164,7 +9169,7 @@
       "Name": "The Sky Is Falling",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ACH_20_MULTI_KILL",
@@ -9172,7 +9177,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1185
+      "UsersEstimate": 1186
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -9188,7 +9193,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1778
+      "UsersEstimate": 1779
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -9204,7 +9209,7 @@
       "Name": "Hail the Great Horned Metal God!",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ACH_25_TALISMAN_COMPLETE",
@@ -9259,7 +9264,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 29634,
+      "Progressed": 29643,
       "Completed": 20
     }
   ],
@@ -9267,8 +9272,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-07-11T15:00:39.3575549+00:00",
-  "LastChanged_Achievements": "2023-07-11T20:03:16.0654153+00:00",
+  "LastChanged_Achievements": "2023-07-11T21:03:03.7642187+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:25.1516139+00:00",
-  "LastUpdate_Ratings": "2023-07-11T19:59:58.8469846+00:00",
-  "LastUpdate_Achievements": "2023-07-11T20:03:16.0655378+00:00"
+  "LastUpdate_Ratings": "2023-07-11T20:59:56.3220293+00:00",
+  "LastUpdate_Achievements": "2023-07-11T21:03:03.7642762+00:00"
 }

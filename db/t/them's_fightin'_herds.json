@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 77,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -208,7 +208,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 225967,
+  "EOS_Progressed": 225968,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 479,
   "EOS_NewCompleters": 0,
@@ -8728,6 +8728,11 @@
       "Time": "2023-07-11T20:03:57.4392831+00:00",
       "NumProgressed": 225967,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-11T21:03:44.7695394+00:00",
+      "NumProgressed": 225968,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -8947,7 +8952,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 38414
+      "UsersEstimate": 38415
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -8962,7 +8967,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 225967,
+      "Progressed": 225968,
       "Completed": 3
     }
   ],
@@ -8970,8 +8975,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-07-04T22:59:46.8695793+00:00",
-  "LastChanged_Achievements": "2023-07-11T20:03:57.4392824+00:00",
+  "LastChanged_Achievements": "2023-07-11T21:03:44.7695389+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:08.7255676+00:00",
-  "LastUpdate_Ratings": "2023-07-11T19:59:49.745707+00:00",
-  "LastUpdate_Achievements": "2023-07-11T20:03:57.4393881+00:00"
+  "LastUpdate_Ratings": "2023-07-11T20:59:46.0530742+00:00",
+  "LastUpdate_Achievements": "2023-07-11T21:03:44.7695907+00:00"
 }

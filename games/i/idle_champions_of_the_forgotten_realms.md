@@ -6,24 +6,24 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,535 |
-| The Mad Wizard | 11.00% | ~23,126 |
-| The Ring of Regeneration | 7.00% | ~14,716 |
-| Are Ya Chicken? | 7.00% | ~14,716 |
-| Were-verpowered | 6.00% | ~12,614 |
-| Seeking Allies | 5.00% | ~10,512 |
-| Mad Cow Disease | 5.00% | ~10,512 |
-| Friendly Imps | 5.00% | ~10,512 |
-| A Persistent Buzzing | 4.00% | ~8,409 |
-| Pure Energy | 4.00% | ~8,409 |
-| Beast Mode | 3.00% | ~6,307 |
-| Terror in the Dark | 3.00% | ~6,307 |
-| A Mysterious Summons | 3.00% | ~6,307 |
-| Unearthed Evil | 3.00% | ~6,307 |
-| The Crumbling Temple | 3.00% | ~6,307 |
-| Exploring Port Nyanzaru | 3.00% | ~6,307 |
-| The Contagious Curse | 3.00% | ~6,307 |
-| Escort to Waterdeep | 3.00% | ~6,307 |
+| The Cursed Farmer | 15.00% | ~31,538 |
+| The Mad Wizard | 11.00% | ~23,128 |
+| The Ring of Regeneration | 7.00% | ~14,718 |
+| Are Ya Chicken? | 7.00% | ~14,718 |
+| Were-verpowered | 6.00% | ~12,615 |
+| Seeking Allies | 5.00% | ~10,513 |
+| Mad Cow Disease | 5.00% | ~10,513 |
+| Friendly Imps | 5.00% | ~10,513 |
+| A Persistent Buzzing | 4.00% | ~8,410 |
+| Pure Energy | 4.00% | ~8,410 |
+| Beast Mode | 3.00% | ~6,308 |
+| Terror in the Dark | 3.00% | ~6,308 |
+| A Mysterious Summons | 3.00% | ~6,308 |
+| Unearthed Evil | 3.00% | ~6,308 |
+| The Crumbling Temple | 3.00% | ~6,308 |
+| Exploring Port Nyanzaru | 3.00% | ~6,308 |
+| The Contagious Curse | 3.00% | ~6,308 |
+| Escort to Waterdeep | 3.00% | ~6,308 |
 | Low Initiative | 2.00% | ~4,205 |
 | Building Trust | 2.00% | ~4,205 |
 | March of the Undead | 2.00% | ~4,205 |
@@ -34,25 +34,25 @@ Number of Ratings: 9,041  (23.09.2022)
 | Underdeep Cartography | 2.00% | ~4,205 |
 | Overdue Rendezvous | 2.00% | ~4,205 |
 | The Templar's Camp | 2.00% | ~4,205 |
-| Homecoming | 1.00% | ~2,102 |
-| The Lost Heir of Omu | 1.00% | ~2,102 |
-| Street War | 1.00% | ~2,102 |
-| Invisible Shadows | 1.00% | ~2,102 |
-| The Dinner Party | 1.00% | ~2,102 |
-| The Botched Kidnapping | 1.00% | ~2,102 |
-| Trollskull Manor | 1.00% | ~2,102 |
-| The Death Curse | 1.00% | ~2,102 |
-| Premature Betrayal | 1.00% | ~2,102 |
-| A Tale of Two Cities | 1.00% | ~2,102 |
-| The Dead Three | 1.00% | ~2,102 |
-| Flying Monkey Skulls of Doom | 1.00% | ~2,102 |
-| Dinosaur Racing | 1.00% | ~2,102 |
-| Close Escort | 1.00% | ~2,102 |
-| Constant Banditry | 1.00% | ~2,102 |
-| The Long Haul | 1.00% | ~2,102 |
-| Lost in the Deep | 1.00% | ~2,102 |
-| Easily Distracted | 1.00% | ~2,102 |
-| Rescue in the Jungle | 1.00% | ~2,102 |
+| Homecoming | 1.00% | ~2,103 |
+| The Lost Heir of Omu | 1.00% | ~2,103 |
+| Street War | 1.00% | ~2,103 |
+| Invisible Shadows | 1.00% | ~2,103 |
+| The Dinner Party | 1.00% | ~2,103 |
+| The Botched Kidnapping | 1.00% | ~2,103 |
+| Trollskull Manor | 1.00% | ~2,103 |
+| The Death Curse | 1.00% | ~2,103 |
+| Premature Betrayal | 1.00% | ~2,103 |
+| A Tale of Two Cities | 1.00% | ~2,103 |
+| The Dead Three | 1.00% | ~2,103 |
+| Flying Monkey Skulls of Doom | 1.00% | ~2,103 |
+| Dinosaur Racing | 1.00% | ~2,103 |
+| Close Escort | 1.00% | ~2,103 |
+| Constant Banditry | 1.00% | ~2,103 |
+| The Long Haul | 1.00% | ~2,103 |
+| Lost in the Deep | 1.00% | ~2,103 |
+| Easily Distracted | 1.00% | ~2,103 |
+| Rescue in the Jungle | 1.00% | ~2,103 |
 | The Forbidden City | 0.90% | ~1,892 |
 | Captured! | 0.90% | ~1,892 |
 | Wisdom Check | 0.90% | ~1,892 |
@@ -75,17 +75,17 @@ Number of Ratings: 9,041  (23.09.2022)
 | Crowded Streets | 0.70% | ~1,472 |
 | Difficult Terrain | 0.70% | ~1,472 |
 | Market Fluctuations | 0.70% | ~1,472 |
-| Sleuth It Out | 0.60% | ~1,261 |
-| Tower on the Lake | 0.60% | ~1,261 |
-| Seeds of Deceit | 0.60% | ~1,261 |
-| The Guardian of Orolunga | 0.60% | ~1,261 |
-| The Lost Love | 0.60% | ~1,261 |
-| Enter the Sargauth | 0.60% | ~1,261 |
-| Lair of the Xanathar | 0.60% | ~1,261 |
-| Waterdeep Under Siege | 0.60% | ~1,261 |
-| Elturel Has Fallen | 0.60% | ~1,261 |
+| Sleuth It Out | 0.60% | ~1,262 |
+| Tower on the Lake | 0.60% | ~1,262 |
+| Seeds of Deceit | 0.60% | ~1,262 |
+| The Guardian of Orolunga | 0.60% | ~1,262 |
+| The Lost Love | 0.60% | ~1,262 |
+| Enter the Sargauth | 0.60% | ~1,262 |
+| Lair of the Xanathar | 0.60% | ~1,262 |
+| Waterdeep Under Siege | 0.60% | ~1,262 |
+| Elturel Has Fallen | 0.60% | ~1,262 |
 | The Everlasting Rime | 0.60% | ~1,059 |
-| Expert Opinion | 0.60% | ~1,261 |
+| Expert Opinion | 0.60% | ~1,262 |
 | Lobsterfolk Assault | 0.50% | ~1,051 |
 | Home Field Advantage | 0.50% | ~1,051 |
 | Force Grey Unleashed | 0.50% | ~1,051 |
@@ -170,6 +170,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Radiant Nightmare | 0.30% | ~530 |
 | Waiting on Sunrise | 0.30% | ~530 |
 | Deekin's Mission | 0.30% | ~530 |
+| Frozen Vengeance | 0.30% | ~530 |
 | The Battle of High Hall Tower | 0.30% | ~530 |
 | Elturel's Last Stand | 0.30% | ~530 |
 | Overwhelming Force | 0.30% | ~631 |
@@ -180,61 +181,61 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Out! | 0.20% | ~353 |
 | Who Lurks Below? | 0.20% | ~353 |
 | Xanathaaaaaaar! | 0.20% | ~353 |
-| Wagon Train | 0.20% | ~420 |
-| Taking Responsibility | 0.20% | ~420 |
+| Wagon Train | 0.20% | ~421 |
+| Taking Responsibility | 0.20% | ~421 |
 | No One Can Hear You Scream | 0.20% | ~353 |
-| No Good at All | 0.20% | ~420 |
-| Fall From Grace | 0.20% | ~420 |
-| Underground Railroad | 0.20% | ~420 |
-| The Soulmonger Calls | 0.20% | ~420 |
-| Relentless Misfortune | 0.20% | ~420 |
+| No Good at All | 0.20% | ~421 |
+| Fall From Grace | 0.20% | ~421 |
+| Underground Railroad | 0.20% | ~421 |
+| The Soulmonger Calls | 0.20% | ~421 |
+| Relentless Misfortune | 0.20% | ~421 |
 | This Quest Stinks! | 0.20% | ~353 |
-| Form Ranks | 0.20% | ~420 |
-| They Who Smelt It | 0.20% | ~420 |
-| Distribute Your Weight | 0.20% | ~420 |
-| Only the Strong Survive | 0.20% | ~420 |
-| Shorty's Day Off | 0.20% | ~420 |
-| Intelligence Hunt | 0.20% | ~420 |
-| Visions of Strahd | 0.20% | ~420 |
-| Seeds of Corruption | 0.20% | ~420 |
+| Form Ranks | 0.20% | ~421 |
+| They Who Smelt It | 0.20% | ~421 |
+| Distribute Your Weight | 0.20% | ~421 |
+| Only the Strong Survive | 0.20% | ~421 |
+| Shorty's Day Off | 0.20% | ~421 |
+| Intelligence Hunt | 0.20% | ~421 |
+| Visions of Strahd | 0.20% | ~421 |
+| Seeds of Corruption | 0.20% | ~421 |
 | The Strahd Squad | 0.20% | ~353 |
 | Home Not So Alone | 0.20% | ~353 |
 | Review by the Blackstaff | 0.20% | ~353 |
-| Think Your Way Out Of It | 0.20% | ~420 |
-| Air's Getting Pretty Thin | 0.20% | ~420 |
-| The Killer Mists | 0.20% | ~420 |
-| Class Vacation | 0.20% | ~420 |
-| Diversity Day-Trip | 0.20% | ~420 |
-| Late Game | 0.20% | ~420 |
-| Screams of the Dead | 0.20% | ~420 |
-| Frantic Excavation | 0.20% | ~420 |
-| Guests of the Groom | 0.20% | ~420 |
-| Careful Consideration | 0.20% | ~420 |
-| The Madness Grows | 0.20% | ~420 |
-| Bullywugs in the Bog | 0.20% | ~420 |
-| Modrons in the Mud | 0.20% | ~420 |
-| An Abyssal Situation | 0.20% | ~420 |
-| Dino Nightmare | 0.20% | ~420 |
-| A Tale of Two Champions | 0.20% | ~420 |
-| Feigned Weakness | 0.20% | ~420 |
-| Bregan D'aerthe Comes to Call | 0.20% | ~420 |
-| Sober Up | 0.20% | ~420 |
-| Meepo's Quest | 0.20% | ~420 |
-| Madcap Adventures | 0.20% | ~420 |
-| Vault of Pixies | 0.20% | ~420 |
-| Vault of Poison | 0.20% | ~420 |
-| On The Job Learning | 0.20% | ~420 |
+| Think Your Way Out Of It | 0.20% | ~421 |
+| Air's Getting Pretty Thin | 0.20% | ~421 |
+| The Killer Mists | 0.20% | ~421 |
+| Class Vacation | 0.20% | ~421 |
+| Diversity Day-Trip | 0.20% | ~421 |
+| Late Game | 0.20% | ~421 |
+| Screams of the Dead | 0.20% | ~421 |
+| Frantic Excavation | 0.20% | ~421 |
+| Guests of the Groom | 0.20% | ~421 |
+| Careful Consideration | 0.20% | ~421 |
+| The Madness Grows | 0.20% | ~421 |
+| Bullywugs in the Bog | 0.20% | ~421 |
+| Modrons in the Mud | 0.20% | ~421 |
+| An Abyssal Situation | 0.20% | ~421 |
+| Dino Nightmare | 0.20% | ~421 |
+| A Tale of Two Champions | 0.20% | ~421 |
+| Feigned Weakness | 0.20% | ~421 |
+| Bregan D'aerthe Comes to Call | 0.20% | ~421 |
+| Sober Up | 0.20% | ~421 |
+| Meepo's Quest | 0.20% | ~421 |
+| Madcap Adventures | 0.20% | ~421 |
+| Vault of Pixies | 0.20% | ~421 |
+| Vault of Poison | 0.20% | ~421 |
+| On The Job Learning | 0.20% | ~421 |
 | Strike! | 0.20% | ~353 |
-| Lost in the Goblin Halls | 0.20% | ~420 |
-| The Twilight Grove | 0.20% | ~420 |
-| Everything is Awful | 0.20% | ~420 |
+| Lost in the Goblin Halls | 0.20% | ~421 |
+| The Twilight Grove | 0.20% | ~421 |
+| Everything is Awful | 0.20% | ~421 |
 | Earthquake! | 0.20% | ~353 |
-| All You Know Is Wrong | 0.20% | ~420 |
+| All You Know Is Wrong | 0.20% | ~421 |
 | Shadow Stalkers | 0.20% | ~353 |
-| Twice More Into The Breach | 0.20% | ~420 |
-| Displaced Anger | 0.20% | ~420 |
+| Twice More Into The Breach | 0.20% | ~421 |
+| Displaced Anger | 0.20% | ~421 |
 | Ettercap Swarm | 0.20% | ~353 |
-| Relay Race | 0.20% | ~420 |
+| Relay Race | 0.20% | ~421 |
 | An Illithid Ambush | 0.20% | ~353 |
 | Wait, What? | 0.20% | ~353 |
 | A Difficult Descent | 0.20% | ~353 |
@@ -258,7 +259,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Relentless Peril | 0.20% | ~353 |
 | The Madness of Yeenoghu | 0.20% | ~353 |
 | Reya Reborn | 0.20% | ~353 |
-| Frozen Vengeance | 0.20% | ~353 |
 | Lost in the Underdark | 0.20% | ~353 |
 | Leemooggoogoon Rises | 0.20% | ~353 |
 | Ending the Rime - Part 1 | 0.20% | ~353 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,232 (Ranked 52)  
+Progressed: 210,255 (Ranked 52)  
 Completed: 2,046 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -592,16 +592,16 @@ Completed: 2,046 (0.97%) (Ranked 102)
 | 2023-07-08 | 208,782 | 2,041 |
 | 2023-07-09 | 209,384 | 2,043 |
 | 2023-07-10 | 209,861 | 2,045 |
-| 2023-07-11 | 210,232 | 2,046 |
+| 2023-07-11 | 210,255 | 2,046 |
 ## Awards
 Max (Diverse Characters): 5,025  (Ranked 65)  
-Sum: 30,481 (Ranked 38)  
+Sum: 30,484 (Ranked 38)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,025 |
 | This game is Great for Beginners | 4,958 |
-| This game has Quickly Understood Controls | 4,653 |
+| This game has Quickly Understood Controls | 4,656 |
 | This game is Relaxing | 4,550 |
 | This game is Highly Recommended | 4,000 |
 | This game has Amazing Characters | 4,000 |
@@ -775,4 +775,4 @@ Diff (max vs sum): 27
 | 2023-07-08 | 4.05 | - | 5,013 | 30,446 |
 | 2023-07-09 | 4.05 | - | 5,016 | 30,455 |
 | 2023-07-10 | 4.05 | - | 5,021 | 30,473 |
-| 2023-07-11 | 4.05 | - | 5,025 | 30,481 |
+| 2023-07-11 | 4.05 | - | 5,025 | 30,484 |

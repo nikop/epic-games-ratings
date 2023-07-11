@@ -28,13 +28,13 @@ Number of Ratings: 87  (23.09.2022)
 | Multilevel road | 4.00% | ~31 |
 | One way | 4.00% | ~31 |
 | Pink Ruby | 4.00% | ~4 |
+| Star Sapphire | 4.00% | ~4 |
 | The Tortoise | 4.00% | ~31 |
 | Trapiche Emerald | 4.00% | ~4 |
 | Beginner | 3.00% | ~23 |
 | Jewelry accuracy | 3.00% | ~23 |
 | Overseer | 3.00% | ~23 |
 | Relocation | 3.00% | ~23 |
-| Star Sapphire | 3.00% | ~3 |
 | Without a lunch break | 3.00% | ~23 |
 | Astronomer | 2.00% | ~15 |
 | At the last moment! | 2.00% | ~15 |

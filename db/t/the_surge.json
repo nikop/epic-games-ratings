@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -337,9 +337,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 4476,
+  "EOS_Progressed": 4477,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1597,6 +1597,11 @@
       "Time": "2023-07-10T19:00:28.2452514+00:00",
       "NumProgressed": 4476,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-07-11T21:00:40.5561833+00:00",
+      "NumProgressed": 4477,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 67,
@@ -1624,7 +1629,7 @@
       "Name": "Big Sister",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "ID_ACHIEV_04",
@@ -1664,7 +1669,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4207
+      "UsersEstimate": 4208
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -1696,7 +1701,7 @@
       "Name": "Gear Up",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "ID_ACHIEV_13",
@@ -1880,7 +1885,7 @@
       "Name": "Infidel",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -1952,7 +1957,7 @@
       "Name": "OPERATOR",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1611
+      "UsersEstimate": 1612
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -1960,7 +1965,7 @@
       "Name": "SENTINEL",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "ID_ACHIEV_47",
@@ -2143,15 +2148,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4476,
+      "Progressed": 4477,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-07-06T14:58:32.669808+00:00",
-  "LastChanged_Achievements": "2023-07-11T20:00:41.3685109+00:00",
+  "LastChanged_Achievements": "2023-07-11T21:00:40.5561827+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:35.225015+00:00",
-  "LastUpdate_Ratings": "2023-07-11T19:58:10.3581402+00:00",
-  "LastUpdate_Achievements": "2023-07-11T20:00:41.3686371+00:00"
+  "LastUpdate_Ratings": "2023-07-11T20:58:02.538528+00:00",
+  "LastUpdate_Achievements": "2023-07-11T21:00:40.5562417+00:00"
 }

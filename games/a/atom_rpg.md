@@ -18,7 +18,7 @@ Number of Ratings: 54  (23.09.2022)
 | Paranoia | 15.00% | ~152 |
 | Kraina Grzybow | 10.00% | ~101 |
 | Love Guru | 10.00% | ~101 |
-| Savant | 9.00% | ~91 |
+| Savant | 10.00% | ~101 |
 | Not-so-private Eye | 8.00% | ~81 |
 | Superhuman | 8.00% | ~81 |
 | Bustin' nuts | 7.00% | ~71 |

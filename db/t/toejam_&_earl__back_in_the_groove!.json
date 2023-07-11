@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 55726,
+  "EOS_Progressed": 55731,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5427,6 +5427,11 @@
       "Time": "2023-07-11T20:04:14.1694491+00:00",
       "NumProgressed": 55726,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-11T21:04:11.6149604+00:00",
+      "NumProgressed": 55731,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 49,
@@ -5510,7 +5515,7 @@
       "Name": "Flying Present Catcher",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2786
+      "UsersEstimate": 2787
     },
     {
       "ID": "FlyingPresentMaster",
@@ -5526,7 +5531,7 @@
       "Name": "Food Taster",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 5015
+      "UsersEstimate": 5016
     },
     {
       "ID": "FoolMeTwice",
@@ -5582,7 +5587,7 @@
       "Name": "HFZ Goober",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2786
+      "UsersEstimate": 2787
     },
     {
       "ID": "HarshLove",
@@ -5829,7 +5834,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 55726,
+      "Progressed": 55731,
       "Completed": 4
     }
   ],
@@ -5837,8 +5842,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-07-11T20:04:14.1694485+00:00",
+  "LastChanged_Achievements": "2023-07-11T21:04:11.6149593+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:05.8866487+00:00",
-  "LastUpdate_Ratings": "2023-07-11T20:00:25.7853579+00:00",
-  "LastUpdate_Achievements": "2023-07-11T20:04:14.1695395+00:00"
+  "LastUpdate_Ratings": "2023-07-11T21:00:23.3418296+00:00",
+  "LastUpdate_Achievements": "2023-07-11T21:04:11.6150163+00:00"
 }

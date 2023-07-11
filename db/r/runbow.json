@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 246418,
+  "EOS_Progressed": 246421,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 386,
+  "EOS_NewPlayers": 384,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8039,6 +8039,11 @@
       "Time": "2023-07-11T20:06:03.8238804+00:00",
       "NumProgressed": 246418,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-11T21:06:23.7925779+00:00",
+      "NumProgressed": 246421,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -8106,7 +8111,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 41891
+      "UsersEstimate": 41892
     },
     {
       "ID": "cantBeKeptDown",
@@ -8146,7 +8151,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 44355
+      "UsersEstimate": 44356
     },
     {
       "ID": "curator",
@@ -8226,7 +8231,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 130602
+      "UsersEstimate": 130603
     },
     {
       "ID": "indegestible",
@@ -8266,7 +8271,7 @@
       "Name": "Lazy Laser",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 19713
+      "UsersEstimate": 19714
     },
     {
       "ID": "lockupLockdown",
@@ -8280,9 +8285,9 @@
       "ID": "muddyWaters",
       "SetID": "d7im63i",
       "Name": "Muddy Waters",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 36963
+      "UsersEstimate": 34499
     },
     {
       "ID": "myFirstRunbow",
@@ -8290,7 +8295,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 123209
+      "UsersEstimate": 123210
     },
     {
       "ID": "notScared",
@@ -8370,7 +8375,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32034
+      "UsersEstimate": 32035
     },
     {
       "ID": "treeMedalist",
@@ -8417,7 +8422,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 246418,
+      "Progressed": 246421,
       "Completed": 3
     }
   ],
@@ -8425,8 +8430,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-07-11T20:06:03.8238799+00:00",
+  "LastChanged_Achievements": "2023-07-11T21:06:23.7925775+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:16.5016071+00:00",
-  "LastUpdate_Ratings": "2023-07-11T19:59:10.8233066+00:00",
-  "LastUpdate_Achievements": "2023-07-11T20:06:03.8240249+00:00"
+  "LastUpdate_Ratings": "2023-07-11T20:59:09.3832668+00:00",
+  "LastUpdate_Achievements": "2023-07-11T21:06:23.7926415+00:00"
 }
