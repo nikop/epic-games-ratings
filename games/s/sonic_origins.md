@@ -13,7 +13,7 @@ Number of Ratings: 154  (23.09.2022)
 | Welcome to Sonic 3 & Knuckles | 77.00% | ~216 |
 | Ring Collector | 74.00% | ~207 |
 | Time Traveler | 73.00% | ~204 |
-| Everyone's Hero | 69.00% | ~193 |
+| Everyone's Hero | 70.00% | ~196 |
 | Gallant Spin Dash | 68.00% | ~190 |
 | Knuckles the Echidna | 68.00% | ~190 |
 | Bubbly Breath | 66.00% | ~185 |
@@ -26,7 +26,7 @@ Number of Ratings: 154  (23.09.2022)
 | Shut Down Metal Sonic | 50.00% | ~140 |
 | Super Sonic | 50.00% | ~140 |
 | Beware Stingers! | 49.00% | ~137 |
-| Cleared Sonic CD | 46.00% | ~129 |
+| Cleared Sonic CD | 47.00% | ~132 |
 | Beware Moto Bugs! | 45.00% | ~126 |
 | Cleared Sonic the Hedgehog 2 | 45.00% | ~126 |
 | Cleared Sonic the Hedgehog 3 & Knuckles | 44.00% | ~123 |

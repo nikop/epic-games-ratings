@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3463,
+  "EOS_Progressed": 3464,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -693,6 +693,11 @@
       "Time": "2023-07-10T22:02:14.6555692+00:00",
       "NumProgressed": 3463,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-11T18:02:05.2552009+00:00",
+      "NumProgressed": 3464,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -704,7 +709,7 @@
       "Name": "You\u0027re Not Naked",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1004
+      "UsersEstimate": 1005
     },
     {
       "ID": "BUY_EVERY_COSMETIC_ITEM",
@@ -744,7 +749,7 @@
       "Name": "Each Sold Separately",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1281
+      "UsersEstimate": 1282
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -784,7 +789,7 @@
       "Name": "...To Heroes",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "FINISH_GAME_W_GOOD_SKATE_RAT",
@@ -800,7 +805,7 @@
       "Name": "Tale in the Toilet",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1004
+      "UsersEstimate": 1005
     },
     {
       "ID": "GET_MONEY_SINK_OR_SWIM",
@@ -911,7 +916,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3463,
+      "Progressed": 3464,
       "Completed": 0
     }
   ],
@@ -919,8 +924,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-07-11T17:02:11.7866232+00:00",
+  "LastChanged_Achievements": "2023-07-11T18:02:05.2552004+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:37.5105511+00:00",
-  "LastUpdate_Ratings": "2023-07-11T17:00:20.2499392+00:00",
-  "LastUpdate_Achievements": "2023-07-11T17:02:11.7866454+00:00"
+  "LastUpdate_Ratings": "2023-07-11T17:59:27.1628446+00:00",
+  "LastUpdate_Achievements": "2023-07-11T18:02:05.2552225+00:00"
 }

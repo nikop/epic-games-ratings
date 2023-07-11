@@ -532,10 +532,16 @@
       "Rating": 4.37,
       "NumberOfAwards": 297,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-07-11T17:57:07.4983965+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 298,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 297,
+  "NumberOfAwards": 298,
   "NumberOfAwardsMax": 35,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -555,7 +561,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -606,9 +612,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 1221748,
+  "EOS_Progressed": 1221803,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10382,
+  "EOS_NewPlayers": 10354,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5146,6 +5152,11 @@
       "Time": "2023-07-11T17:04:47.8223428+00:00",
       "NumProgressed": 1221748,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-11T18:04:10.5218104+00:00",
+      "NumProgressed": 1221803,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -5157,7 +5168,7 @@
       "Name": "Possess 1000 Props!",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2443
+      "UsersEstimate": 2444
     },
     {
       "ID": "100_corruption_kills",
@@ -5181,7 +5192,7 @@
       "Name": "100 Kills as a Ghost!",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2443
+      "UsersEstimate": 2444
     },
     {
       "ID": "100_ghost_wins",
@@ -5269,7 +5280,7 @@
       "Name": "10 Kills as a Ghost!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 134392
+      "UsersEstimate": 134398
     },
     {
       "ID": "10_ghost_wins",
@@ -5277,7 +5288,7 @@
       "Name": "10 Ghost Wins!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 97740
+      "UsersEstimate": 97744
     },
     {
       "ID": "10_hero_prop_kills",
@@ -5293,7 +5304,7 @@
       "Name": "10 Kills as a Hunter!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 195480
+      "UsersEstimate": 195488
     },
     {
       "ID": "10_hunter_wins",
@@ -5301,7 +5312,7 @@
       "Name": "10 Hunter Wins!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 73305
+      "UsersEstimate": 73308
     },
     {
       "ID": "10_prop_headshots",
@@ -5309,7 +5320,7 @@
       "Name": "10 Headshots as A Prop!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 24435
+      "UsersEstimate": 24436
     },
     {
       "ID": "250_c4_kills",
@@ -5405,7 +5416,7 @@
       "Name": "250 Taunts!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 12217
+      "UsersEstimate": 12218
     },
     {
       "ID": "25_cosmetic_unlocks",
@@ -5421,7 +5432,7 @@
       "Name": "25 Taunts In One Game!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 48870
+      "UsersEstimate": 48872
     },
     {
       "ID": "50_riot_shield_kills",
@@ -5445,7 +5456,7 @@
       "Name": "ACE!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 122175
+      "UsersEstimate": 122180
     },
     {
       "ID": "ghost_win",
@@ -5453,7 +5464,7 @@
       "Name": "Ghost Victory!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 733049
+      "UsersEstimate": 733082
     },
     {
       "ID": "hunter_win",
@@ -5461,7 +5472,7 @@
       "Name": "Hunter Victory!",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 671961
+      "UsersEstimate": 671992
     },
     {
       "ID": "master_of_loadouts",
@@ -5485,23 +5496,23 @@
       "Name": "Unlock Any Cosmetic",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 281002
+      "UsersEstimate": 281015
     }
   ],
   "AchievementSets": [
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1221748,
+      "Progressed": 1221803,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-01T17:56:58.3739755+00:00",
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
-  "LastChanged": "2023-07-10T21:57:13.7907814+00:00",
-  "LastChanged_Achievements": "2023-07-11T17:04:47.8223424+00:00",
+  "LastChanged": "2023-07-11T17:57:07.4983962+00:00",
+  "LastChanged_Achievements": "2023-07-11T18:04:10.5218097+00:00",
   "LastUpdate_AppInfo": "2023-07-06T19:57:06.0279104+00:00",
-  "LastUpdate_Ratings": "2023-07-11T16:57:29.9047176+00:00",
-  "LastUpdate_Achievements": "2023-07-11T17:04:47.8224055+00:00"
+  "LastUpdate_Ratings": "2023-07-11T17:57:07.498397+00:00",
+  "LastUpdate_Achievements": "2023-07-11T18:04:10.5218732+00:00"
 }

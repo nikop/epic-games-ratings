@@ -2,20 +2,20 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 454,
+  "Ranking_Rating": 440,
   "Ranking_Popularity": 263,
   "Ranking_PopularitySum": 356,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 153,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.56,
+  "Rating": 4.57,
   "RatingHistory": [
     {
       "Time": "2023-02-21T07:58:25.3551608+00:00",
@@ -524,6 +524,12 @@
       "Rating": 4.56,
       "NumberOfAwards": 212,
       "NumberOfAwardsMax": 212
+    },
+    {
+      "Time": "2023-07-11T18:00:08.2457616+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 212,
+      "NumberOfAwardsMax": 212
     }
   ],
   "ReviewsDisabled": false,
@@ -538,9 +544,9 @@
       "Count": 212
     }
   ],
-  "EOS_Progressed": 11014,
+  "EOS_Progressed": 11015,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -6418,6 +6424,11 @@
       "Time": "2023-07-11T16:07:49.5592939+00:00",
       "NumProgressed": 11014,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-07-11T18:06:02.5486704+00:00",
+      "NumProgressed": 11015,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 35,
@@ -6429,7 +6440,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 8921
+      "UsersEstimate": 8922
     },
     {
       "ID": "ACH02",
@@ -6485,7 +6496,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5507
+      "UsersEstimate": 5508
     },
     {
       "ID": "ACH09",
@@ -6525,7 +6536,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1872
+      "UsersEstimate": 1873
     },
     {
       "ID": "ACH14",
@@ -6533,7 +6544,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1102
     },
     {
       "ID": "ACH15",
@@ -6605,7 +6616,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 2643
+      "UsersEstimate": 2644
     },
     {
       "ID": "ACH24",
@@ -6708,16 +6719,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11014,
+      "Progressed": 11015,
       "Completed": 28
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-07-09T15:01:12.039138+00:00",
-  "LastChanged_Achievements": "2023-07-11T17:07:26.1428168+00:00",
+  "LastChanged": "2023-07-11T18:00:08.2457615+00:00",
+  "LastChanged_Achievements": "2023-07-11T18:06:02.5486695+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:43.1834453+00:00",
-  "LastUpdate_Ratings": "2023-07-11T17:01:14.9216495+00:00",
-  "LastUpdate_Achievements": "2023-07-11T17:07:26.1428852+00:00"
+  "LastUpdate_Ratings": "2023-07-11T18:00:08.245762+00:00",
+  "LastUpdate_Achievements": "2023-07-11T18:06:02.5487329+00:00"
 }

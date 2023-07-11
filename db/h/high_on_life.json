@@ -214,9 +214,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22985,
+  "EOS_Progressed": 22986,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -2084,6 +2084,11 @@
       "Time": "2023-07-11T15:06:20.744521+00:00",
       "NumProgressed": 22985,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-11T18:05:27.9593263+00:00",
+      "NumProgressed": 22986,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 32,
@@ -2111,7 +2116,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 17698
+      "UsersEstimate": 17699
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -2159,7 +2164,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 17698
+      "UsersEstimate": 17699
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -2175,7 +2180,7 @@
       "Name": "RIP Davey Glutes",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5516
+      "UsersEstimate": 5517
     },
     {
       "ID": "ACH_GET_SWEEZY",
@@ -2215,7 +2220,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 13101
+      "UsersEstimate": 13102
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -2223,7 +2228,7 @@
       "Name": "First Bounty Down",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 13561
+      "UsersEstimate": 13562
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -2279,7 +2284,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 16779
+      "UsersEstimate": 16780
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -2350,22 +2355,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 22985,
+      "Progressed": 22986,
       "Completed": 8
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 278,
-      "Completed": 278
+      "Progressed": 279,
+      "Completed": 279
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-06-17T22:58:08.3064018+00:00",
-  "LastChanged_Achievements": "2023-07-11T17:06:42.9337067+00:00",
+  "LastChanged_Achievements": "2023-07-11T18:05:27.9593257+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:34.9037764+00:00",
-  "LastUpdate_Ratings": "2023-07-11T16:58:42.0777212+00:00",
-  "LastUpdate_Achievements": "2023-07-11T17:06:42.9337511+00:00"
+  "LastUpdate_Ratings": "2023-07-11T17:58:06.9153776+00:00",
+  "LastUpdate_Achievements": "2023-07-11T18:05:27.9593628+00:00"
 }

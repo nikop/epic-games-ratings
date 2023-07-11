@@ -4,7 +4,7 @@
   "ProductSlug": "paw-patrol-mighty-pups-save-adventure-bay-aaad37",
   "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-12-13T19:30:00+00:00",
@@ -304,9 +304,9 @@
       "ID": "4",
       "SetID": "38ide56",
       "Name": "Carlos Is Tangled",
-      "Percentage": 47,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "5",
@@ -361,8 +361,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-07-11T17:03:37.2871444+00:00",
+  "LastChanged_Achievements": "2023-07-11T18:03:12.5373601+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:35.9946564+00:00",
-  "LastUpdate_Ratings": "2023-07-11T17:00:18.8934671+00:00",
-  "LastUpdate_Achievements": "2023-07-11T17:03:37.2871702+00:00"
+  "LastUpdate_Ratings": "2023-07-11T17:59:25.0330929+00:00",
+  "LastUpdate_Achievements": "2023-07-11T18:03:12.5373845+00:00"
 }

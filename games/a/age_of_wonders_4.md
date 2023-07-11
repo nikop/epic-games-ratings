@@ -14,6 +14,7 @@ Rating: 4.62 (Ranked 346)
 | Stronger Together | 3.00% | ~149 |
 | Magical Synergy | 3.00% | ~149 |
 | My Final Form | 3.00% | ~149 |
+| Seat of Power | 3.00% | ~149 |
 | Intimidation Tactics | 3.00% | ~149 |
 | Here be Dragons | 3.00% | ~149 |
 | Blood of the Dragon | 3.00% | ~149 |
@@ -26,7 +27,6 @@ Rating: 4.62 (Ranked 346)
 | Bone Peddler | 2.00% | ~99 |
 | Digging for Treasure | 2.00% | ~99 |
 | Preparation Is Everything | 2.00% | ~99 |
-| Seat of Power | 2.00% | ~99 |
 | In a Liege of Your Own | 2.00% | ~99 |
 | Fiery Friend | 2.00% | ~99 |
 | Against the Odds | 2.00% | ~99 |
@@ -56,7 +56,7 @@ Rating: 4.62 (Ranked 346)
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,970 (Ranked 135)  
+Progressed: 4,971 (Ranked 135)  
 Completed: 5 (0.10%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 5 (0.10%) (Ranked 184)
 | 2023-07-08 | 4,954 | 5 |
 | 2023-07-09 | 4,959 | 5 |
 | 2023-07-10 | 4,964 | 5 |
-| 2023-07-11 | 4,970 | 5 |
+| 2023-07-11 | 4,971 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

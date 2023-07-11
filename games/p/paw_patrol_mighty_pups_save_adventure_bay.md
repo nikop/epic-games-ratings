@@ -9,9 +9,9 @@
 | Summer Day | 60.00% | ~9 |
 | Risky Rescue | 60.00% | ~9 |
 | Grand Re-Opening | 53.00% | ~8 |
+| Carlos Is Tangled | 53.00% | ~8 |
 | Mr. Porter | 47.00% | ~7 |
 | Paw patrol member | 47.00% | ~7 |
-| Carlos Is Tangled | 47.00% | ~7 |
 | Mandy Family | 47.00% | ~7 |
 | Robot Out of Control | 47.00% | ~7 |
 | Animal Sighting | 40.00% | ~6 |

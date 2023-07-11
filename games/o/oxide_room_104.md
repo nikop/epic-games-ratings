@@ -18,7 +18,7 @@
 | The third floor | 15.00% | ~19 |
 | On the right path | 14.00% | ~18 |
 | One-way | 14.00% | ~18 |
-| It can't be true | 12.00% | ~15 |
+| It can't be true | 13.00% | ~16 |
 | I'm close now | 11.00% | ~14 |
 | Failed attempt | 11.00% | ~14 |
 | Good choice | 11.00% | ~14 |
@@ -26,7 +26,7 @@
 | He who seeks, finds! | 11.00% | ~14 |
 | The real escape | 10.00% | ~12 |
 | Nightmare in the kitchen | 10.00% | ~12 |
-| Born again | 7.00% | ~9 |
+| Born again | 8.00% | ~10 |
 | 373 | 6.00% | ~8 |
 | The experiment | 6.00% | ~8 |
 | Matthew's revenge | 6.00% | ~8 |

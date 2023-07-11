@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -274,7 +274,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4970,
+  "EOS_Progressed": 4971,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 1,
@@ -5104,6 +5104,11 @@
       "Time": "2023-07-11T15:02:09.1785883+00:00",
       "NumProgressed": 4970,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-11T18:02:05.4939807+00:00",
+      "NumProgressed": 4971,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 50,
@@ -5321,9 +5326,9 @@
       "ID": "33",
       "SetID": "3aa2279",
       "Name": "Seat of Power",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 149
     },
     {
       "ID": "34",
@@ -5514,13 +5519,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4970,
+      "Progressed": 4971,
       "Completed": 4760
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4970,
+      "Progressed": 4971,
       "Completed": 5
     }
   ],
@@ -5528,8 +5533,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-07-11T11:00:15.2595187+00:00",
-  "LastChanged_Achievements": "2023-07-11T17:02:12.0368805+00:00",
+  "LastChanged_Achievements": "2023-07-11T18:02:05.4939802+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:44.6563449+00:00",
-  "LastUpdate_Ratings": "2023-07-11T17:00:25.4283566+00:00",
-  "LastUpdate_Achievements": "2023-07-11T17:02:12.0370393+00:00"
+  "LastUpdate_Ratings": "2023-07-11T17:59:31.1207228+00:00",
+  "LastUpdate_Achievements": "2023-07-11T18:02:05.4940489+00:00"
 }

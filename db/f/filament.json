@@ -225,9 +225,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 196015,
+  "EOS_Progressed": 196020,
   "EOS_Completed": 462,
-  "EOS_NewPlayers": 644,
+  "EOS_NewPlayers": 643,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -8905,6 +8905,11 @@
       "Time": "2023-07-11T17:07:17.4136028+00:00",
       "NumProgressed": 196015,
       "NumCompleted": 462
+    },
+    {
+      "Time": "2023-07-11T18:05:55.2955758+00:00",
+      "NumProgressed": 196020,
+      "NumCompleted": 462
     }
   ],
   "TotalAchievements": 29,
@@ -8940,7 +8945,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 184254
+      "UsersEstimate": 184259
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -8988,7 +8993,7 @@
       "Name": "Answers can be found amongst the stars",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5880
+      "UsersEstimate": 5881
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTED",
@@ -9084,7 +9089,7 @@
       "Name": "Bend to the will of the arrows.",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5880
+      "UsersEstimate": 5881
     },
     {
       "ID": "ACHIEVEMENT_SECRET",
@@ -9147,7 +9152,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 196015,
+      "Progressed": 196020,
       "Completed": 462
     }
   ],
@@ -9155,8 +9160,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-06-26T22:58:32.656469+00:00",
-  "LastChanged_Achievements": "2023-07-11T17:07:17.413602+00:00",
+  "LastChanged_Achievements": "2023-07-11T18:05:55.295575+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:47.2271443+00:00",
-  "LastUpdate_Ratings": "2023-07-11T16:59:41.457263+00:00",
-  "LastUpdate_Achievements": "2023-07-11T17:07:17.4137466+00:00"
+  "LastUpdate_Ratings": "2023-07-11T17:58:53.5283857+00:00",
+  "LastUpdate_Achievements": "2023-07-11T18:05:55.295653+00:00"
 }

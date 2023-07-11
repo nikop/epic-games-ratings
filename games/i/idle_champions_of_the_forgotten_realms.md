@@ -6,24 +6,24 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,527 |
-| The Mad Wizard | 11.00% | ~23,120 |
-| The Ring of Regeneration | 7.00% | ~14,712 |
-| Are Ya Chicken? | 7.00% | ~14,712 |
-| Were-verpowered | 6.00% | ~12,611 |
-| Seeking Allies | 5.00% | ~10,509 |
-| Mad Cow Disease | 5.00% | ~10,509 |
-| Friendly Imps | 5.00% | ~10,509 |
-| A Persistent Buzzing | 4.00% | ~8,407 |
-| Pure Energy | 4.00% | ~8,407 |
-| Beast Mode | 3.00% | ~6,305 |
-| Terror in the Dark | 3.00% | ~6,305 |
-| A Mysterious Summons | 3.00% | ~6,305 |
-| Unearthed Evil | 3.00% | ~6,305 |
-| The Crumbling Temple | 3.00% | ~6,305 |
-| Exploring Port Nyanzaru | 3.00% | ~6,305 |
-| The Contagious Curse | 3.00% | ~6,305 |
-| Escort to Waterdeep | 3.00% | ~6,305 |
+| The Cursed Farmer | 15.00% | ~31,530 |
+| The Mad Wizard | 11.00% | ~23,122 |
+| The Ring of Regeneration | 7.00% | ~14,714 |
+| Are Ya Chicken? | 7.00% | ~14,714 |
+| Were-verpowered | 6.00% | ~12,612 |
+| Seeking Allies | 5.00% | ~10,510 |
+| Mad Cow Disease | 5.00% | ~10,510 |
+| Friendly Imps | 5.00% | ~10,510 |
+| A Persistent Buzzing | 4.00% | ~8,408 |
+| Pure Energy | 4.00% | ~8,408 |
+| Beast Mode | 3.00% | ~6,306 |
+| Terror in the Dark | 3.00% | ~6,306 |
+| A Mysterious Summons | 3.00% | ~6,306 |
+| Unearthed Evil | 3.00% | ~6,306 |
+| The Crumbling Temple | 3.00% | ~6,306 |
+| Exploring Port Nyanzaru | 3.00% | ~6,306 |
+| The Contagious Curse | 3.00% | ~6,306 |
+| Escort to Waterdeep | 3.00% | ~6,306 |
 | Low Initiative | 2.00% | ~4,204 |
 | Building Trust | 2.00% | ~4,204 |
 | March of the Undead | 2.00% | ~4,204 |
@@ -53,20 +53,20 @@ Number of Ratings: 9,041  (23.09.2022)
 | Easily Distracted | 1.00% | ~2,102 |
 | Rescue in the Jungle | 1.00% | ~2,102 |
 | The Forbidden City | 0.90% | ~1,892 |
+| Captured! | 0.90% | ~1,892 |
 | Wisdom Check | 0.90% | ~1,892 |
 | The Mists of Ravenloft | 0.90% | ~1,892 |
 | Attack on the Manor | 0.90% | ~1,892 |
 | The Dead Three | 0.90% | ~1,892 |
-| Captured! | 0.80% | ~1,681 |
-| A Grand Puzzle | 0.80% | ~1,681 |
-| Tomb of the Nine Gods | 0.80% | ~1,681 |
-| Treasure Hunters | 0.80% | ~1,681 |
-| Nimble Escape | 0.80% | ~1,681 |
-| The Darkness Runs Deeper | 0.80% | ~1,681 |
+| A Grand Puzzle | 0.80% | ~1,682 |
+| Tomb of the Nine Gods | 0.80% | ~1,682 |
+| Treasure Hunters | 0.80% | ~1,682 |
+| Nimble Escape | 0.80% | ~1,682 |
+| The Darkness Runs Deeper | 0.80% | ~1,682 |
 | The Giant's Bane Tavern | 0.80% | ~1,412 |
-| Rude Welcome | 0.80% | ~1,681 |
-| Durable Deep | 0.80% | ~1,681 |
-| The Haunted Jungle | 0.80% | ~1,681 |
+| Rude Welcome | 0.80% | ~1,682 |
+| Durable Deep | 0.80% | ~1,682 |
+| The Haunted Jungle | 0.80% | ~1,682 |
 | Family Entanglements | 0.70% | ~1,471 |
 | The Immortal Warrior | 0.70% | ~1,471 |
 | The Wyrmheart Mine | 0.70% | ~1,471 |
@@ -82,6 +82,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Lost Love | 0.60% | ~1,261 |
 | Enter the Sargauth | 0.60% | ~1,261 |
 | Lair of the Xanathar | 0.60% | ~1,261 |
+| Waterdeep Under Siege | 0.60% | ~1,261 |
 | Elturel Has Fallen | 0.60% | ~1,261 |
 | The Everlasting Rime | 0.60% | ~1,059 |
 | Expert Opinion | 0.60% | ~1,261 |
@@ -91,12 +92,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Azaka's Procession - Part 1 | 0.50% | ~1,051 |
 | Azaka's Procession - Part 2 | 0.50% | ~1,051 |
 | Chatty Nobles | 0.50% | ~1,051 |
+| Modron Assistance | 0.50% | ~1,051 |
 | Haaave You Met Asmodeus? | 0.50% | ~1,051 |
 | The Gargoyle's Apprentice | 0.50% | ~1,051 |
 | Flies on the Wall | 0.50% | ~1,051 |
 | Backtracking Through Barovia | 0.50% | ~1,051 |
 | Cramped Quarters | 0.50% | ~1,051 |
-| Waterdeep Under Siege | 0.50% | ~1,051 |
 | Vault of Dragons | 0.50% | ~1,051 |
 | Champions of Waterdeep | 0.50% | ~1,051 |
 | Resolve Amongst Chaos | 0.50% | ~1,051 |
@@ -112,7 +113,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Hunt for Owl-y | 0.40% | ~841 |
 | Werewolves in the Mist | 0.40% | ~841 |
 | We're not in Faerûn Anymore | 0.40% | ~841 |
-| Modron Assistance | 0.40% | ~841 |
 | Domesticated Owlbears | 0.40% | ~841 |
 | House of Darkness | 0.40% | ~841 |
 | The Trepidatious Trio | 0.40% | ~841 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,178 (Ranked 52)  
+Progressed: 210,198 (Ranked 52)  
 Completed: 2,046 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -592,7 +592,7 @@ Completed: 2,046 (0.97%) (Ranked 102)
 | 2023-07-08 | 208,782 | 2,041 |
 | 2023-07-09 | 209,384 | 2,043 |
 | 2023-07-10 | 209,861 | 2,045 |
-| 2023-07-11 | 210,178 | 2,046 |
+| 2023-07-11 | 210,198 | 2,046 |
 ## Awards
 Max (Diverse Characters): 5,025  (Ranked 65)  
 Sum: 30,481 (Ranked 38)  

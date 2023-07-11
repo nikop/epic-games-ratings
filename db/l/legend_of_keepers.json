@@ -2,7 +2,7 @@
   "ID": "3d4b3dcf7ec449c7a042c163d08fa0f3",
   "Name": "Legend of Keepers",
   "ProductSlug": "legend-of-keepers",
-  "Ranking_Rating": 454,
+  "Ranking_Rating": 455,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 490,
@@ -178,6 +178,6 @@
   "FirstSeen": "2022-07-22T20:26:54.4614277+00:00",
   "LastChanged": "2023-04-01T18:58:27.2306789+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:22.1751749+00:00",
-  "LastUpdate_Ratings": "2023-07-11T16:57:45.4233918+00:00",
-  "LastUpdate_Achievements": "2023-07-11T17:06:51.9891603+00:00"
+  "LastUpdate_Ratings": "2023-07-11T17:57:18.8654939+00:00",
+  "LastUpdate_Achievements": "2023-07-11T18:05:34.8662164+00:00"
 }

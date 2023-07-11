@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 749,
+  "EOS_Progressed": 750,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2151,6 +2151,11 @@
       "Time": "2023-07-11T15:03:49.2122441+00:00",
       "NumProgressed": 749,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-11T18:03:32.1292525+00:00",
+      "NumProgressed": 750,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2160,9 +2165,9 @@
       "ID": "adventurous_1",
       "SetID": "53c1p3k",
       "Name": "Adventurous 1",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 210
+      "UsersEstimate": 202
     },
     {
       "ID": "adventurous_2",
@@ -2402,7 +2407,7 @@
       "Name": "Glitter of Gold 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "glitter_of_gold_2",
@@ -2450,7 +2455,7 @@
       "Name": "Invincible 1",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "invincible_2",
@@ -2522,7 +2527,7 @@
       "Name": "Obsessed Carver 1",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "obsessed_carver_2",
@@ -2674,7 +2679,7 @@
       "Name": "Tomb Raider 2",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "tomb_raider_3",
@@ -2689,14 +2694,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 749,
+      "Progressed": 750,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-07-11T17:04:00.9311126+00:00",
+  "LastChanged_Achievements": "2023-07-11T18:03:32.1292519+00:00",
   "LastUpdate_AppInfo": "2023-07-11T03:11:42.9317837+00:00",
-  "LastUpdate_Ratings": "2023-07-11T16:57:30.7319346+00:00",
-  "LastUpdate_Achievements": "2023-07-11T17:04:00.9312331+00:00"
+  "LastUpdate_Ratings": "2023-07-11T17:57:08.097404+00:00",
+  "LastUpdate_Achievements": "2023-07-11T18:03:32.1293301+00:00"
 }

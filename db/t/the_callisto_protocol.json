@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 317,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -932,7 +932,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 15685,
+  "EOS_Progressed": 15686,
   "EOS_Completed": 66,
   "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 3,
@@ -5512,6 +5512,11 @@
       "Time": "2023-07-11T16:06:52.8636139+00:00",
       "NumProgressed": 15685,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-07-11T18:05:24.6113718+00:00",
+      "NumProgressed": 15686,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 47,
@@ -5761,9 +5766,9 @@
       "ID": "STORY_SNOWCAT",
       "SetID": "4hj6d86",
       "Name": "Crash Site",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 314
     },
     {
       "ID": "STORY_TOWER",
@@ -5867,7 +5872,7 @@
       "Name": "One Last Job",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "KILL_BIOBOT",
@@ -5898,13 +5903,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15685,
+      "Progressed": 15686,
       "Completed": 66
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3611,
+      "Progressed": 3612,
       "Completed": 29
     }
   ],
@@ -5912,8 +5917,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-07-10T20:58:48.9945238+00:00",
-  "LastChanged_Achievements": "2023-07-11T17:06:38.6451476+00:00",
+  "LastChanged_Achievements": "2023-07-11T18:05:24.6113708+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:30.5014032+00:00",
-  "LastUpdate_Ratings": "2023-07-11T16:58:41.1177267+00:00",
-  "LastUpdate_Achievements": "2023-07-11T17:06:38.6452274+00:00"
+  "LastUpdate_Ratings": "2023-07-11T17:58:05.9787324+00:00",
+  "LastUpdate_Achievements": "2023-07-11T18:05:24.6114444+00:00"
 }

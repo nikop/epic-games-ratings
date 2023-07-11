@@ -874,9 +874,9 @@
       "ID": "ach_heal_x_points_with_health_pack",
       "SetID": "cmg602e",
       "Name": "Drinking Problem",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "ach_hit_tree_with_shovel",
@@ -962,9 +962,9 @@
       "ID": "ach_pickup_chicken_in_x_seconds_after_match_start",
       "SetID": "cmg602e",
       "Name": "Early Bird",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ach_prestige_1",
@@ -1090,9 +1090,9 @@
       "ID": "ach_sniperKillNoScope",
       "SetID": "cmg602e",
       "Name": "No Asperascope",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ach_steal_x_gnomes",
@@ -1178,9 +1178,9 @@
       "ID": "ach_hit_player_with_bounce_grenade",
       "SetID": "bf10c8p",
       "Name": "Bouncemato",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ach_kill_pistol_with_pistol",
@@ -1258,25 +1258,25 @@
       "ID": "ach_waves_1",
       "SetID": "bf10c8p",
       "Name": "Survivor",
-      "Percentage": 48,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 70
     },
     {
       "ID": "ach_waves_10",
       "SetID": "bf10c8p",
       "Name": "Early Survivor",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "ach_waves_20",
       "SetID": "bf10c8p",
       "Name": "Amateur Survivor",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ach_waves_30",
@@ -1378,9 +1378,9 @@
       "ID": "ach_x_victims_using_shovel",
       "SetID": "bf10c8p",
       "Name": "Grave Digger",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ach_y_farmers_same_sniper",
@@ -1409,8 +1409,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-07-11T17:04:46.3210319+00:00",
+  "LastChanged_Achievements": "2023-07-11T18:04:09.3108212+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:01.6150749+00:00",
-  "LastUpdate_Ratings": "2023-07-11T16:59:05.6718299+00:00",
-  "LastUpdate_Achievements": "2023-07-11T17:04:46.3211059+00:00"
+  "LastUpdate_Ratings": "2023-07-11T17:58:24.6151854+00:00",
+  "LastUpdate_Achievements": "2023-07-11T18:04:09.3109064+00:00"
 }

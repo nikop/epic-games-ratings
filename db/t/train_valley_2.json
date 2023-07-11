@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 428,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
@@ -277,9 +277,9 @@
       "Count": 72
     }
   ],
-  "EOS_Progressed": 761,
+  "EOS_Progressed": 762,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -607,6 +607,11 @@
       "Time": "2023-07-10T17:06:27.8798478+00:00",
       "NumProgressed": 761,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-11T18:05:14.6121808+00:00",
+      "NumProgressed": 762,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -842,7 +847,7 @@
       "Name": "Individual delivery",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "AchievementIndustrialAge",
@@ -898,7 +903,7 @@
       "Name": "Juggler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "AchievementJustInTime",
@@ -1130,7 +1135,7 @@
       "Name": "To the eyeballs!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "AchievementTourismAge",
@@ -1217,21 +1222,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 102,
+      "Progressed": 103,
       "Completed": 6
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 761,
+      "Progressed": 762,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-06-28T09:58:02.8229732+00:00",
-  "LastChanged_Achievements": "2023-07-11T17:06:26.2109498+00:00",
+  "LastChanged_Achievements": "2023-07-11T18:05:14.6121803+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:50.3569514+00:00",
-  "LastUpdate_Ratings": "2023-07-11T16:58:09.2016891+00:00",
-  "LastUpdate_Achievements": "2023-07-11T17:06:26.2110257+00:00"
+  "LastUpdate_Ratings": "2023-07-11T17:57:40.657392+00:00",
+  "LastUpdate_Achievements": "2023-07-11T18:05:14.6122701+00:00"
 }

@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 246411,
+  "EOS_Progressed": 246414,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 384,
+  "EOS_NewPlayers": 387,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8024,6 +8024,11 @@
       "Time": "2023-07-11T17:07:23.7610255+00:00",
       "NumProgressed": 246411,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-11T18:06:00.6602781+00:00",
+      "NumProgressed": 246414,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -8059,7 +8064,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 51746
+      "UsersEstimate": 51747
     },
     {
       "ID": "blotbuster",
@@ -8131,7 +8136,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 44354
+      "UsersEstimate": 44355
     },
     {
       "ID": "curator",
@@ -8139,7 +8144,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 49282
+      "UsersEstimate": 49283
     },
     {
       "ID": "didYourTime",
@@ -8211,7 +8216,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 130598
+      "UsersEstimate": 130599
     },
     {
       "ID": "indegestible",
@@ -8235,7 +8240,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 64067
+      "UsersEstimate": 64068
     },
     {
       "ID": "justABit",
@@ -8275,7 +8280,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 123206
+      "UsersEstimate": 123207
     },
     {
       "ID": "notScared",
@@ -8339,7 +8344,7 @@
       "Name": "The Stunner",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 51746
+      "UsersEstimate": 51747
     },
     {
       "ID": "thunderstruck",
@@ -8355,7 +8360,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32033
+      "UsersEstimate": 32034
     },
     {
       "ID": "treeMedalist",
@@ -8402,7 +8407,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 246411,
+      "Progressed": 246414,
       "Completed": 3
     }
   ],
@@ -8410,8 +8415,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-07-11T17:07:23.7610249+00:00",
+  "LastChanged_Achievements": "2023-07-11T18:06:00.6602776+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:16.5016071+00:00",
-  "LastUpdate_Ratings": "2023-07-11T17:00:05.2774799+00:00",
-  "LastUpdate_Achievements": "2023-07-11T17:07:23.7611946+00:00"
+  "LastUpdate_Ratings": "2023-07-11T17:59:12.4706256+00:00",
+  "LastUpdate_Achievements": "2023-07-11T18:06:00.6603648+00:00"
 }
