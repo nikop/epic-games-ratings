@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 523,
+  "EOS_Progressed": 524,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 271,
+  "EOS_NewPlayers": 270,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -901,6 +901,11 @@
       "Time": "2023-07-11T06:04:45.1792796+00:00",
       "NumProgressed": 523,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-11T09:04:45.0531041+00:00",
+      "NumProgressed": 524,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -928,7 +933,7 @@
       "Name": "FULLCLIP",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "AMMO_ACHIEVEMENT_4",
@@ -984,7 +989,7 @@
       "Name": "Capraphobia",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -1032,15 +1037,15 @@
       "Name": "Burnt Smell",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Where There\u0027s Smoke There\u0027s Fire",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 52
     },
     {
       "ID": "BURN_ACHIEVEMENT_3",
@@ -1198,9 +1203,9 @@
       "ID": "KILLR_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Who You Gonna Call?",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 136
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -1208,7 +1213,7 @@
       "Name": "Decakill!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -1344,7 +1349,7 @@
       "Name": "The Last of Us",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -1358,9 +1363,9 @@
       "ID": "RAPTOR_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Clairvoyant Who Doesn\u0027t See",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 183
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -1439,14 +1444,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 523,
+      "Progressed": 524,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-11T08:04:31.510089+00:00",
+  "LastChanged_Achievements": "2023-07-11T09:04:45.0531037+00:00",
   "LastUpdate_AppInfo": "2023-07-06T13:16:22.5768242+00:00",
-  "LastUpdate_Ratings": "2023-07-11T07:56:55.8328013+00:00",
-  "LastUpdate_Achievements": "2023-07-11T08:04:31.5101439+00:00"
+  "LastUpdate_Ratings": "2023-07-11T08:57:07.8412625+00:00",
+  "LastUpdate_Achievements": "2023-07-11T09:04:45.0531791+00:00"
 }

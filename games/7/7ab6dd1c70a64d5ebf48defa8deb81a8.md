@@ -3,44 +3,44 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break out | 25.00% | ~4 |
-| Find Allies | 19.00% | ~3 |
-| Tributes of Caladrias | 19.00% | ~3 |
-| Powerful Allies | 13.00% | ~2 |
-| Monsalar: Wildlands | 13.00% | ~2 |
-| Geared up | 13.00% | ~2 |
-| Fashion Victim | 13.00% | ~2 |
-| Alchemist | 13.00% | ~2 |
-| Stone collection | 13.00% | ~2 |
-| To battle | 6.00% | ~1 |
-| Godslayer | 6.00% | ~1 |
-| A taste of wrath | 6.00% | ~1 |
-| The Mentor | 6.00% | ~1 |
-| Trinity | 6.00% | ~1 |
-| Adventurer | 6.00% | ~1 |
-| Airborne | 6.00% | ~1 |
-| Essence Blow | 6.00% | ~1 |
-| Shatter them all | 6.00% | ~1 |
-| Flawless Victory | 6.00% | ~1 |
-| Scholar | 6.00% | ~1 |
-| I found it | 6.00% | ~1 |
-| Miner | 6.00% | ~1 |
-| The collector | 6.00% | ~1 |
-| Clear sight | 0.00% | ~0 |
+| Break Out | 0.00% | ~0 |
+| Find Allies | 0.00% | ~0 |
+| Powerful Allies | 0.00% | ~0 |
+| Calm before the Storm | 0.00% | ~0 |
+| To Battle | 0.00% | ~0 |
+| Godslayer | 0.00% | ~0 |
+| Clear Sight | 0.00% | ~0 |
+| A Taste of Wrath | 0.00% | ~0 |
+| The Mentor | 0.00% | ~0 |
+| Trinity | 0.00% | ~0 |
 | Forgemaster | 0.00% | ~0 |
 | Shardbearer | 0.00% | ~0 |
+| Adventurer | 0.00% | ~0 |
+| Airborne | 0.00% | ~0 |
+| Tributes of Caladrias | 0.00% | ~0 |
+| Essence Blow | 0.00% | ~0 |
 | Shatterer | 0.00% | ~0 |
+| Shatter Them All | 0.00% | ~0 |
 | Slayer | 0.00% | ~0 |
-| Big bazar | 0.00% | ~0 |
-| Fine feathers make fine birds | 0.00% | ~0 |
-| All there is | 0.00% | ~0 |
+| Flawless Victory | 0.00% | ~0 |
+| Big Bazar | 0.00% | ~0 |
+| Fine Feathers Make Fine Birds | 0.00% | ~0 |
+| Geared Up | 0.00% | ~0 |
+| All There Is | 0.00% | ~0 |
+| Fashion Victim | 0.00% | ~0 |
+| Scholar | 0.00% | ~0 |
 | False God | 0.00% | ~0 |
-| All that gold | 0.00% | ~0 |
+| I Found It | 0.00% | ~0 |
+| All That Gold | 0.00% | ~0 |
+| Alchemist | 0.00% | ~0 |
+| Stone Collection | 0.00% | ~0 |
+| Miner | 0.00% | ~0 |
+| The Collector | 0.00% | ~0 |
 | Feeling Fancy | 0.00% | ~0 |
-| A Queen's tale | 0.00% | ~0 |
+| A Queen's Tale | 0.00% | ~0 |
 | Summiter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16 (Ranked 380)  
+Progressed: 17 (Ranked 378)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -50,3 +50,4 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-06-28 | 13 | 0 |
 | 2023-06-29 | 14 | 0 |
 | 2023-07-06 | 16 | 0 |
+| 2023-07-11 | 17 | 0 |

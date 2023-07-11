@@ -318,9 +318,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 61560,
+  "EOS_Progressed": 61561,
   "EOS_Completed": 311,
-  "EOS_NewPlayers": 823,
+  "EOS_NewPlayers": 821,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -8983,6 +8983,11 @@
       "Time": "2023-07-11T08:02:28.2203333+00:00",
       "NumProgressed": 61560,
       "NumCompleted": 311
+    },
+    {
+      "Time": "2023-07-11T09:03:07.4231096+00:00",
+      "NumProgressed": 61561,
+      "NumCompleted": 311
     }
   ],
   "TotalAchievements": 24,
@@ -9050,7 +9055,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 17852
+      "UsersEstimate": 17853
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -9144,9 +9149,9 @@
       "ID": "SPIRIT_DASH",
       "SetID": "30359jm",
       "Name": "SPIRIT DASH",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 6156
+      "UsersEstimate": 6772
     },
     {
       "ID": "SPIRIT_FORM",
@@ -9185,7 +9190,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 61560,
+      "Progressed": 61561,
       "Completed": 311
     }
   ],
@@ -9193,8 +9198,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-06-20T12:00:48.5369511+00:00",
-  "LastChanged_Achievements": "2023-07-11T08:02:28.2203326+00:00",
+  "LastChanged_Achievements": "2023-07-11T09:03:07.4231091+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:39.6580646+00:00",
-  "LastUpdate_Ratings": "2023-07-11T07:59:52.9256397+00:00",
-  "LastUpdate_Achievements": "2023-07-11T08:02:28.220385+00:00"
+  "LastUpdate_Ratings": "2023-07-11T09:00:15.9951887+00:00",
+  "LastUpdate_Achievements": "2023-07-11T09:03:07.4231797+00:00"
 }

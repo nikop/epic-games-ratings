@@ -2452,9 +2452,9 @@
       "Count": 253
     }
   ],
-  "EOS_Progressed": 231950,
+  "EOS_Progressed": 231951,
   "EOS_Completed": 766,
-  "EOS_NewPlayers": 1071,
+  "EOS_NewPlayers": 1069,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -11077,6 +11077,11 @@
       "Time": "2023-07-11T08:02:15.4760252+00:00",
       "NumProgressed": 231950,
       "NumCompleted": 766
+    },
+    {
+      "Time": "2023-07-11T09:02:05.3828125+00:00",
+      "NumProgressed": 231951,
+      "NumCompleted": 766
     }
   ],
   "TotalAchievements": 39,
@@ -11152,7 +11157,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 211074
+      "UsersEstimate": 211075
     },
     {
       "ID": "AchievementClownID",
@@ -11224,7 +11229,7 @@
       "Name": "Into the Matrix",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 44070
+      "UsersEstimate": 44071
     },
     {
       "ID": "AchievementINirvanaID",
@@ -11232,7 +11237,7 @@
       "Name": "Beauty, Mindfulness and Meditation",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 34792
+      "UsersEstimate": 34793
     },
     {
       "ID": "AchievementInstinctID",
@@ -11320,7 +11325,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 171643
+      "UsersEstimate": 171644
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -11336,7 +11341,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 115975
+      "UsersEstimate": 115976
     },
     {
       "ID": "AchievementStreakingID",
@@ -11368,7 +11373,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 109016
+      "UsersEstimate": 109017
     },
     {
       "ID": "AchievementTrinketID",
@@ -11399,7 +11404,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 231950,
+      "Progressed": 231951,
       "Completed": 766
     }
   ],
@@ -11407,8 +11412,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-07-11T08:00:53.0586838+00:00",
-  "LastChanged_Achievements": "2023-07-11T08:02:15.4760248+00:00",
+  "LastChanged_Achievements": "2023-07-11T09:02:05.3828119+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:00.698233+00:00",
-  "LastUpdate_Ratings": "2023-07-11T08:00:53.0586842+00:00",
-  "LastUpdate_Achievements": "2023-07-11T08:02:15.4760875+00:00"
+  "LastUpdate_Ratings": "2023-07-11T09:01:19.7900797+00:00",
+  "LastUpdate_Achievements": "2023-07-11T09:02:05.382894+00:00"
 }

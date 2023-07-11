@@ -1,9 +1,9 @@
 {
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": null,
-  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": null,
@@ -14,9 +14,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 16,
+  "EOS_Progressed": 17,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -64,6 +64,11 @@
       "Time": "2023-07-06T15:01:53.8967842+00:00",
       "NumProgressed": 16,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-11T09:01:46.9848697+00:00",
+      "NumProgressed": 17,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -72,55 +77,55 @@
     {
       "ID": "ACH_01",
       "SetID": "efe2lj",
-      "Name": "Break out",
-      "Percentage": 25,
+      "Name": "Break Out",
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_02",
       "SetID": "efe2lj",
       "Name": "Find Allies",
-      "Percentage": 19,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_03",
       "SetID": "efe2lj",
       "Name": "Powerful Allies",
-      "Percentage": 13,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_04",
       "SetID": "efe2lj",
-      "Name": "Monsalar: Wildlands",
-      "Percentage": 13,
+      "Name": "Calm before the Storm",
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_05",
       "SetID": "efe2lj",
-      "Name": "To battle",
-      "Percentage": 6,
+      "Name": "To Battle",
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_06",
       "SetID": "efe2lj",
       "Name": "Godslayer",
-      "Percentage": 6,
+      "Percentage": 0,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_07",
       "SetID": "efe2lj",
-      "Name": "Clear sight",
+      "Name": "Clear Sight",
       "Percentage": 0,
       "XP": 40,
       "UsersEstimate": 0
@@ -128,26 +133,26 @@
     {
       "ID": "ACH_08",
       "SetID": "efe2lj",
-      "Name": "A taste of wrath",
-      "Percentage": 6,
+      "Name": "A Taste of Wrath",
+      "Percentage": 0,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_09",
       "SetID": "efe2lj",
       "Name": "The Mentor",
-      "Percentage": 6,
+      "Percentage": 0,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_10",
       "SetID": "efe2lj",
       "Name": "Trinity",
-      "Percentage": 6,
+      "Percentage": 0,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_11",
@@ -169,33 +174,33 @@
       "ID": "ACH_13",
       "SetID": "efe2lj",
       "Name": "Adventurer",
-      "Percentage": 6,
+      "Percentage": 0,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_14",
       "SetID": "efe2lj",
       "Name": "Airborne",
-      "Percentage": 6,
+      "Percentage": 0,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_15",
       "SetID": "efe2lj",
       "Name": "Tributes of Caladrias",
-      "Percentage": 19,
+      "Percentage": 0,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_16",
       "SetID": "efe2lj",
       "Name": "Essence Blow",
-      "Percentage": 6,
+      "Percentage": 0,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_17",
@@ -208,10 +213,10 @@
     {
       "ID": "ACH_18",
       "SetID": "efe2lj",
-      "Name": "Shatter them all",
-      "Percentage": 6,
+      "Name": "Shatter Them All",
+      "Percentage": 0,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_19",
@@ -225,14 +230,14 @@
       "ID": "ACH_20",
       "SetID": "efe2lj",
       "Name": "Flawless Victory",
-      "Percentage": 6,
+      "Percentage": 0,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_21",
       "SetID": "efe2lj",
-      "Name": "Big bazar",
+      "Name": "Big Bazar",
       "Percentage": 0,
       "XP": 20,
       "UsersEstimate": 0
@@ -240,7 +245,7 @@
     {
       "ID": "ACH_22",
       "SetID": "efe2lj",
-      "Name": "Fine feathers make fine birds",
+      "Name": "Fine Feathers Make Fine Birds",
       "Percentage": 0,
       "XP": 60,
       "UsersEstimate": 0
@@ -248,15 +253,15 @@
     {
       "ID": "ACH_23",
       "SetID": "efe2lj",
-      "Name": "Geared up",
-      "Percentage": 13,
+      "Name": "Geared Up",
+      "Percentage": 0,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_24",
       "SetID": "efe2lj",
-      "Name": "All there is",
+      "Name": "All There Is",
       "Percentage": 0,
       "XP": 60,
       "UsersEstimate": 0
@@ -265,17 +270,17 @@
       "ID": "ACH_25",
       "SetID": "efe2lj",
       "Name": "Fashion Victim",
-      "Percentage": 13,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_26",
       "SetID": "efe2lj",
       "Name": "Scholar",
-      "Percentage": 6,
+      "Percentage": 0,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_27",
@@ -288,15 +293,15 @@
     {
       "ID": "ACH_28",
       "SetID": "efe2lj",
-      "Name": "I found it",
-      "Percentage": 6,
+      "Name": "I Found It",
+      "Percentage": 0,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_29",
       "SetID": "efe2lj",
-      "Name": "All that gold",
+      "Name": "All That Gold",
       "Percentage": 0,
       "XP": 60,
       "UsersEstimate": 0
@@ -305,33 +310,33 @@
       "ID": "ACH_30",
       "SetID": "efe2lj",
       "Name": "Alchemist",
-      "Percentage": 13,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_31",
       "SetID": "efe2lj",
-      "Name": "Stone collection",
-      "Percentage": 13,
+      "Name": "Stone Collection",
+      "Percentage": 0,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_33",
       "SetID": "efe2lj",
       "Name": "Miner",
-      "Percentage": 6,
+      "Percentage": 0,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_34",
       "SetID": "efe2lj",
-      "Name": "The collector",
-      "Percentage": 6,
+      "Name": "The Collector",
+      "Percentage": 0,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_35",
@@ -344,7 +349,7 @@
     {
       "ID": "ACH_36",
       "SetID": "efe2lj",
-      "Name": "A Queen\u0027s tale",
+      "Name": "A Queen\u0027s Tale",
       "Percentage": 0,
       "XP": 15,
       "UsersEstimate": 0
@@ -362,12 +367,12 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 16,
+      "Progressed": 17,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-07-11T08:02:07.4160882+00:00",
-  "LastUpdate_Ratings": "2023-07-11T07:57:00.8409194+00:00",
-  "LastUpdate_Achievements": "2023-07-11T08:02:07.4161132+00:00"
+  "LastChanged_Achievements": "2023-07-11T09:01:46.9848696+00:00",
+  "LastUpdate_Ratings": "2023-07-11T08:57:13.1384331+00:00",
+  "LastUpdate_Achievements": "2023-07-11T09:01:46.9849059+00:00"
 }

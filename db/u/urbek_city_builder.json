@@ -1153,9 +1153,9 @@
       "ID": "POPULATION_1",
       "SetID": "44dlcg0",
       "Name": "Small town",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 171
+      "UsersEstimate": 173
     },
     {
       "ID": "POPULATION_2",
@@ -1362,8 +1362,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-07-11T08:07:02.8727833+00:00",
+  "LastChanged_Achievements": "2023-07-11T09:07:23.5708399+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:53.8439851+00:00",
-  "LastUpdate_Ratings": "2023-07-11T07:59:17.5147887+00:00",
-  "LastUpdate_Achievements": "2023-07-11T08:07:02.8728527+00:00"
+  "LastUpdate_Ratings": "2023-07-11T08:59:35.8522754+00:00",
+  "LastUpdate_Achievements": "2023-07-11T09:07:23.5709312+00:00"
 }

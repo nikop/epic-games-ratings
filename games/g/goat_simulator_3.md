@@ -5,14 +5,14 @@ Rating: 4.85 (Ranked 42)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~211,074 |
-| Private Club | 74.00% | ~171,643 |
+| Forgotten Sorority | 91.00% | ~211,075 |
+| Private Club | 74.00% | ~171,644 |
 | Rogue Guild | 65.00% | ~150,768 |
 | I Watched the Intro | 57.00% | ~132,212 |
 | Covert Consortium | 55.00% | ~127,573 |
 | Goat Queen | 53.00% | ~122,934 |
-| Reach the Stratosphere | 50.00% | ~115,975 |
-| Synchronization Complete | 47.00% | ~109,016 |
+| Reach the Stratosphere | 50.00% | ~115,976 |
+| Synchronization Complete | 47.00% | ~109,017 |
 | Secret Society | 45.00% | ~104,378 |
 | Shadow Syndicate | 38.00% | ~88,141 |
 | What a Waste of Money | 33.00% | ~76,544 |
@@ -22,10 +22,10 @@ Rating: 4.85 (Ranked 42)
 | Raider of the Lost Parking Garage | 26.00% | ~60,307 |
 | Real Buoy | 26.00% | ~60,307 |
 | Welcome to Earth | 25.00% | ~57,988 |
-| Into the Matrix | 19.00% | ~44,070 |
+| Into the Matrix | 19.00% | ~44,071 |
 | Where is It? | 17.00% | ~39,432 |
 | Egg Simulator | 16.00% | ~37,112 |
-| Beauty, Mindfulness and Meditation | 15.00% | ~34,792 |
+| Beauty, Mindfulness and Meditation | 15.00% | ~34,793 |
 | Black Market | 14.00% | ~32,473 |
 | 401(K.O.) | 14.00% | ~32,473 |
 | Car Cave | 12.00% | ~27,834 |
@@ -45,7 +45,7 @@ Rating: 4.85 (Ranked 42)
 | Move! That! Bus! | 0.60% | ~1,392 |
 | G.O.A.T | 0.30% | ~696 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,950 (Ranked 47)  
+Progressed: 231,951 (Ranked 47)  
 Completed: 766 (0.33%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 766 (0.33%) (Ranked 142)
 | 2023-07-08 | 231,597 | 766 |
 | 2023-07-09 | 231,776 | 766 |
 | 2023-07-10 | 231,921 | 766 |
-| 2023-07-11 | 231,950 | 766 |
+| 2023-07-11 | 231,951 | 766 |
 ## Awards
 Max (Great for Beginners): 361  (Ranked 219)  
 Sum: 3,015 (Ranked 160)  

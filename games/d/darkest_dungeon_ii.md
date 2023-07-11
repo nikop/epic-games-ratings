@@ -6,31 +6,31 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~102,050 |
+| A Place to Lay Your Head | 93.00% | ~102,051 |
 | Don't Make Me Turn This Coach Around | 70.00% | ~76,812 |
-| A Clear Conscience | 69.00% | ~75,714 |
-| Unleash Hell | 68.00% | ~74,617 |
-| Unfulfilled Desires | 68.00% | ~74,617 |
+| A Clear Conscience | 69.00% | ~75,715 |
+| Unleash Hell | 68.00% | ~74,618 |
+| Unfulfilled Desires | 68.00% | ~74,618 |
 | Funny Guy | 67.00% | ~73,520 |
 | Unshackled | 67.00% | ~73,520 |
-| Long Live the King | 66.00% | ~72,422 |
-| Resurrection | 62.00% | ~68,033 |
-| Wyrdly Reconstructed | 62.00% | ~68,033 |
+| Long Live the King | 66.00% | ~72,423 |
+| Resurrection | 62.00% | ~68,034 |
+| Wyrdly Reconstructed | 62.00% | ~68,034 |
 | Boxcar Kid | 60.00% | ~65,839 |
 | To Grandmother's House | 60.00% | ~65,839 |
-| Rush Hour | 59.00% | ~64,741 |
-| Serenity Now! | 52.00% | ~57,060 |
+| Rush Hour | 59.00% | ~64,742 |
+| Serenity Now! | 52.00% | ~57,061 |
 | Hope Rekindled | 50.00% | ~54,866 |
 | Ramble On | 48.00% | ~52,671 |
 | Nope | 47.00% | ~51,574 |
 | This Looks Familiar | 38.00% | ~41,698 |
-| Hot Air | 36.00% | ~39,503 |
+| Hot Air | 36.00% | ~39,504 |
 | Now Stay Dead | 35.00% | ~38,406 |
 | Merry Time | 35.00% | ~38,406 |
 | Harvest Festival | 35.00% | ~38,406 |
 | Creep and Sleep | 32.00% | ~35,114 |
 | Overdue Notice | 31.00% | ~34,017 |
-| Whale | 30.00% | ~32,919 |
+| Whale | 30.00% | ~32,920 |
 | Banishment | 29.00% | ~31,822 |
 | FNG | 28.00% | ~30,725 |
 | Predator | 23.00% | ~25,238 |
@@ -48,11 +48,11 @@ Number of Ratings: 7,767  (23.09.2022)
 | Handled | 15.00% | ~16,460 |
 | Catch and Decease | 13.00% | ~14,265 |
 | Not Today! | 12.00% | ~13,168 |
-| Deprogramming | 11.00% | ~12,070 |
-| Shrine of Reflection | 11.00% | ~12,070 |
+| Deprogramming | 11.00% | ~12,071 |
+| Shrine of Reflection | 11.00% | ~12,071 |
 | When You Want Something Done Right | 10.00% | ~10,973 |
 | Body of Work | 9.00% | ~9,876 |
-| Utopia | 8.00% | ~8,778 |
+| Utopia | 8.00% | ~8,779 |
 | Hat Trick | 6.00% | ~6,584 |
 | No More Mouths to Feed | 5.00% | ~5,487 |
 | Ichthyophobic | 4.00% | ~4,389 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~110 |
 | Hard Mode | 0.10% | ~110 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 109,731 (Ranked 64)  
+Progressed: 109,732 (Ranked 64)  
 Completed: 1 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 1 (0.00%) (Ranked 237)
 | 2023-07-08 | 109,289 | 1 |
 | 2023-07-09 | 109,520 | 1 |
 | 2023-07-10 | 109,686 | 1 |
-| 2023-07-11 | 109,731 | 1 |
+| 2023-07-11 | 109,732 | 1 |
 ## Awards
 Max (Character Customization): 7,259  (Ranked 47)  
 Sum: 18,772 (Ranked 56)  

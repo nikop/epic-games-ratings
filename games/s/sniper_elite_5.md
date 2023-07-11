@@ -25,6 +25,7 @@ Rating: 4.45 (Ranked 622)
 | Gunslinger | 1.00% | ~33 |
 | Skirmisher | 1.00% | ~33 |
 | Set Europe Ablaze | 1.00% | ~33 |
+| Precision Is Key | 1.00% | ~33 |
 | My Little Friend | 1.00% | ~33 |
 | Explosive Efficiency | 1.00% | ~33 |
 | Der Geist | 1.00% | ~33 |
@@ -32,7 +33,6 @@ Rating: 4.45 (Ranked 622)
 | Snake in the Grass | 1.00% | ~33 |
 | Brains of the Operation | 1.00% | ~33 |
 | Just a Flesh Wound | 0.90% | ~29 |
-| Precision Is Key | 0.90% | ~29 |
 | Die Nussknacker Sweet! | 0.90% | ~29 |
 | Enemy at the Gates | 0.80% | ~26 |
 | Fields of Glory | 0.80% | ~26 |

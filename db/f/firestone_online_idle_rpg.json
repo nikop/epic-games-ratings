@@ -4520,9 +4520,9 @@
       "ID": "theexpeditioner",
       "SetID": "3nl4bcg",
       "Name": "The Expeditioner",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 113
     },
     {
       "ID": "thefatherofdragons",
@@ -4657,8 +4657,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-07-11T02:15:28.7878959+00:00",
-  "LastChanged_Achievements": "2023-07-11T08:07:01.6162201+00:00",
+  "LastChanged_Achievements": "2023-07-11T09:07:22.4021472+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:35.1051404+00:00",
-  "LastUpdate_Ratings": "2023-07-11T07:58:16.6888511+00:00",
-  "LastUpdate_Achievements": "2023-07-11T08:07:01.6162966+00:00"
+  "LastUpdate_Ratings": "2023-07-11T08:58:30.5968031+00:00",
+  "LastUpdate_Achievements": "2023-07-11T09:07:22.4022488+00:00"
 }

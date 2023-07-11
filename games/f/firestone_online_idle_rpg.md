@@ -41,12 +41,12 @@ Rating: 4.11 (Ranked 885)
 | Four Leaf Clover | 8.00% | ~129 |
 | Here We Go Again | 7.00% | ~113 |
 | Master Enchanter | 7.00% | ~113 |
+| The Expeditioner | 7.00% | ~113 |
 | The father of Dragons | 7.00% | ~113 |
 | Trader | 7.00% | ~113 |
 | Crystal Mining | 6.00% | ~97 |
 | Enchanting skill | 6.00% | ~97 |
 | How Do You Turn This On? | 6.00% | ~97 |
-| The Expeditioner | 6.00% | ~97 |
 | Weekly Quest Completionist | 6.00% | ~97 |
 | Ancient Knowledge | 5.00% | ~81 |
 | Blueprint Upgrades | 5.00% | ~81 |

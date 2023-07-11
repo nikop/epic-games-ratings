@@ -6,16 +6,16 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,498 |
-| The Mad Wizard | 11.00% | ~23,099 |
-| The Ring of Regeneration | 7.00% | ~14,699 |
-| Are Ya Chicken? | 7.00% | ~14,699 |
-| Were-verpowered | 6.00% | ~12,599 |
-| Seeking Allies | 5.00% | ~10,499 |
-| Mad Cow Disease | 5.00% | ~10,499 |
-| Friendly Imps | 5.00% | ~10,499 |
-| A Persistent Buzzing | 4.00% | ~8,400 |
-| Pure Energy | 4.00% | ~8,400 |
+| The Cursed Farmer | 15.00% | ~31,502 |
+| The Mad Wizard | 11.00% | ~23,101 |
+| The Ring of Regeneration | 7.00% | ~14,701 |
+| Are Ya Chicken? | 7.00% | ~14,701 |
+| Were-verpowered | 6.00% | ~12,601 |
+| Seeking Allies | 5.00% | ~10,501 |
+| Mad Cow Disease | 5.00% | ~10,501 |
+| Friendly Imps | 5.00% | ~10,501 |
+| A Persistent Buzzing | 4.00% | ~8,401 |
+| Pure Energy | 4.00% | ~8,401 |
 | Beast Mode | 3.00% | ~6,300 |
 | Terror in the Dark | 3.00% | ~6,300 |
 | Unearthed Evil | 3.00% | ~6,300 |
@@ -83,6 +83,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elturel Has Fallen | 0.60% | ~1,260 |
 | The Everlasting Rime | 0.60% | ~1,058 |
 | Expert Opinion | 0.60% | ~1,260 |
+| Lobsterfolk Assault | 0.50% | ~1,050 |
 | Home Field Advantage | 0.50% | ~1,050 |
 | Force Grey Unleashed | 0.50% | ~1,050 |
 | Sleuth It Out | 0.50% | ~1,050 |
@@ -99,11 +100,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vault of Dragons | 0.50% | ~1,050 |
 | Champions of Waterdeep | 0.50% | ~1,050 |
 | Resolve Amongst Chaos | 0.50% | ~1,050 |
+| Into The Fire | 0.50% | ~881 |
 | Moose Tracks | 0.50% | ~881 |
 | Poor Guidance | 0.50% | ~1,050 |
 | Anti-Dexterous Explorers | 0.40% | ~840 |
 | Not Very Charming | 0.40% | ~840 |
-| Lobsterfolk Assault | 0.40% | ~840 |
 | Periodic Petrification | 0.40% | ~840 |
 | Double Vision | 0.40% | ~840 |
 | Vajra's Guards | 0.40% | ~840 |
@@ -124,7 +125,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wyllowwood | 0.40% | ~840 |
 | An Illithid Undertaking | 0.40% | ~705 |
 | Déjà Vu | 0.40% | ~705 |
-| Into The Fire | 0.40% | ~705 |
 | Dreamscape | 0.40% | ~705 |
 | The Path of Dreams | 0.40% | ~705 |
 | The Lost Hollyphant | 0.40% | ~705 |
@@ -182,7 +182,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | No One Can Hear You Scream | 0.20% | ~353 |
 | No Good at All | 0.20% | ~420 |
 | Fall From Grace | 0.20% | ~420 |
-| Underground Railroad | 0.20% | ~420 |
 | Snakes on our Plane | 0.20% | ~353 |
 | The Soulmonger Calls | 0.20% | ~420 |
 | Poor Fortune | 0.20% | ~420 |
@@ -288,6 +287,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Anchors Aweigh | 0.10% | ~176 |
 | Welcome to the Rock | 0.10% | ~176 |
 | Welcome to the Band | 0.10% | ~176 |
+| Underground Railroad | 0.10% | ~210 |
 | Acererak's Puzzle | 0.10% | ~176 |
 | Drop of Time | 0.10% | ~176 |
 | Mongrelfolk Incursion | 0.10% | ~176 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209,989 (Ranked 52)  
+Progressed: 210,013 (Ranked 52)  
 Completed: 2,045 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -592,7 +592,7 @@ Completed: 2,045 (0.97%) (Ranked 102)
 | 2023-07-08 | 208,782 | 2,041 |
 | 2023-07-09 | 209,384 | 2,043 |
 | 2023-07-10 | 209,861 | 2,045 |
-| 2023-07-11 | 209,989 | 2,045 |
+| 2023-07-11 | 210,013 | 2,045 |
 ## Awards
 Max (Diverse Characters): 5,025  (Ranked 65)  
 Sum: 30,477 (Ranked 38)  

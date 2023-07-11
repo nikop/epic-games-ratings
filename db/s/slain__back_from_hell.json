@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 29569,
+  "EOS_Progressed": 29572,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 871,
+  "EOS_NewPlayers": 872,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -8951,6 +8951,11 @@
       "Time": "2023-07-11T08:03:31.5570023+00:00",
       "NumProgressed": 29569,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-07-11T09:03:41.6837698+00:00",
+      "NumProgressed": 29572,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -8962,7 +8967,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4731
+      "UsersEstimate": 4732
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -9034,7 +9039,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1478
+      "UsersEstimate": 1479
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -9114,7 +9119,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1478
+      "UsersEstimate": 1479
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -9193,7 +9198,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 29569,
+      "Progressed": 29572,
       "Completed": 20
     }
   ],
@@ -9201,8 +9206,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-07-11T08:03:31.5570019+00:00",
+  "LastChanged_Achievements": "2023-07-11T09:03:41.6837691+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:25.1516139+00:00",
-  "LastUpdate_Ratings": "2023-07-11T08:00:25.6577239+00:00",
-  "LastUpdate_Achievements": "2023-07-11T08:03:31.5570612+00:00"
+  "LastUpdate_Ratings": "2023-07-11T09:00:52.8376219+00:00",
+  "LastUpdate_Achievements": "2023-07-11T09:03:41.6838404+00:00"
 }

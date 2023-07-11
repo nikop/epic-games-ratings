@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 102,
   "Ranking_EOS_NewPlayers": 20,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4894,9 +4894,9 @@
       "Count": 3295
     }
   ],
-  "EOS_Progressed": 209989,
+  "EOS_Progressed": 210013,
   "EOS_Completed": 2045,
-  "EOS_NewPlayers": 4159,
+  "EOS_NewPlayers": 4183,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -13574,6 +13574,11 @@
       "Time": "2023-07-11T08:04:47.8444906+00:00",
       "NumProgressed": 209989,
       "NumCompleted": 2045
+    },
+    {
+      "Time": "2023-07-11T09:05:02.1241043+00:00",
+      "NumProgressed": 210013,
+      "NumCompleted": 2045
     }
   ],
   "TotalAchievements": 503,
@@ -14449,7 +14454,7 @@
       "Name": "Were-verpowered",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 12599
+      "UsersEstimate": 12601
     },
     {
       "ID": "objective_completed_1203",
@@ -14561,7 +14566,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8400
+      "UsersEstimate": 8401
     },
     {
       "ID": "objective_completed_130",
@@ -14575,9 +14580,9 @@
       "ID": "objective_completed_131",
       "SetID": "cc37lbc",
       "Name": "Lobsterfolk Assault",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 840
+      "UsersEstimate": 1050
     },
     {
       "ID": "objective_completed_132",
@@ -14759,9 +14764,9 @@
       "ID": "objective_completed_157",
       "SetID": "cc37lbc",
       "Name": "Underground Railroad",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 420
+      "UsersEstimate": 210
     },
     {
       "ID": "objective_completed_16",
@@ -15257,7 +15262,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 31498
+      "UsersEstimate": 31502
     },
     {
       "ID": "objective_completed_34",
@@ -15265,7 +15270,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 14699
+      "UsersEstimate": 14701
     },
     {
       "ID": "objective_completed_35",
@@ -15377,7 +15382,7 @@
       "Name": "Seeking Allies",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10499
+      "UsersEstimate": 10501
     },
     {
       "ID": "objective_completed_390",
@@ -15449,7 +15454,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 14699
+      "UsersEstimate": 14701
     },
     {
       "ID": "objective_completed_40",
@@ -15721,7 +15726,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10499
+      "UsersEstimate": 10501
     },
     {
       "ID": "objective_completed_54",
@@ -16351,9 +16356,9 @@
       "ID": "objective_completed_630",
       "SetID": "415jc5c",
       "Name": "Into The Fire",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 705
+      "UsersEstimate": 881
     },
     {
       "ID": "objective_completed_631",
@@ -16729,7 +16734,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 23099
+      "UsersEstimate": 23101
     },
     {
       "ID": "objective_completed_70",
@@ -16801,7 +16806,7 @@
       "Name": "Friendly Imps",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10499
+      "UsersEstimate": 10501
     },
     {
       "ID": "objective_completed_80",
@@ -17329,7 +17334,7 @@
       "Name": "Pure Energy",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8400
+      "UsersEstimate": 8401
     },
     {
       "ID": "objective_completed_902",
@@ -17608,21 +17613,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 176263,
+      "Progressed": 176287,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 209989,
+      "Progressed": 210013,
       "Completed": 2045
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-11T05:58:53.7688904+00:00",
-  "LastChanged_Achievements": "2023-07-11T08:04:47.8444902+00:00",
+  "LastChanged_Achievements": "2023-07-11T09:05:02.1241038+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:43.9043947+00:00",
-  "LastUpdate_Ratings": "2023-07-11T07:58:24.6182066+00:00",
-  "LastUpdate_Achievements": "2023-07-11T08:04:47.8467727+00:00"
+  "LastUpdate_Ratings": "2023-07-11T08:58:38.4624614+00:00",
+  "LastUpdate_Achievements": "2023-07-11T09:05:02.1266871+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 268,
+  "EOS_Progressed": 269,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -791,6 +791,11 @@
       "Time": "2023-07-11T08:03:33.6720699+00:00",
       "NumProgressed": 268,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-11T09:03:43.8684678+00:00",
+      "NumProgressed": 269,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -888,9 +893,9 @@
       "ID": "Fifty",
       "SetID": "1e89b4i",
       "Name": "Fifty",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 38
     },
     {
       "ID": "First",
@@ -984,9 +989,9 @@
       "ID": "MaximumUpgrade",
       "SetID": "1e89b4i",
       "Name": "Maximum Upgrade",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 54
     },
     {
       "ID": "Millionaire",
@@ -1002,7 +1007,7 @@
       "Name": "New Record",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "NoTimeForModernization",
@@ -1114,7 +1119,7 @@
       "Name": "Ten!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "TimeForManagement",
@@ -1130,21 +1135,21 @@
       "Name": "Transport Hub",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 268,
+      "Progressed": 269,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-07-11T08:03:33.6720695+00:00",
-  "LastUpdate_AppInfo": "2023-07-04T07:57:07.1618856+00:00",
-  "LastUpdate_Ratings": "2023-07-11T07:57:00.5108586+00:00",
-  "LastUpdate_Achievements": "2023-07-11T08:03:33.672104+00:00"
+  "LastChanged_Achievements": "2023-07-11T09:03:43.8684673+00:00",
+  "LastUpdate_AppInfo": "2023-07-11T08:57:01.7024715+00:00",
+  "LastUpdate_Ratings": "2023-07-11T08:57:12.073742+00:00",
+  "LastUpdate_Achievements": "2023-07-11T09:03:43.8685073+00:00"
 }
