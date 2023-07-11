@@ -53,7 +53,7 @@
 | 51 | [Bunny Park](games/b/bunny_park.md) | 3.42% |
 | 52 | [Monster Harvest](games/m/monster_harvest.md) | 3.38% |
 | 53 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.33% |
-| 54 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.24% |
+| 54 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.27% |
 | 55 | [The Complex](games/t/the_complex.md) | 3.09% |
 | 56 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.08% |
 | 57 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.05% |
@@ -84,7 +84,7 @@
 | 82 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.76% |
 | 83 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.64% |
 | 84 | [Somerville](games/s/somerville.md) | 1.56% |
-| 85 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.53% |
+| 85 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.52% |
 | 86 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
 | 86 | [Ten Dates](games/t/ten_dates.md) | 1.50% |
 | 88 | [Night Book](games/n/night_book.md) | 1.45% |
@@ -120,8 +120,8 @@
 | 118 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 119 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.60% |
 | 120 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.58% |
-| 120 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.58% |
-| 122 | [Grindstone](games/g/grindstone.md) | 0.57% |
+| 121 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.57% |
+| 121 | [Grindstone](games/g/grindstone.md) | 0.57% |
 | 123 | [Potion Permit](games/p/potion_permit.md) | 0.55% |
 | 123 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
 | 125 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.53% |
