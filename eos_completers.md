@@ -14,7 +14,7 @@
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
 | 13 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 14.04% |
 | 14 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
-| 15 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.10% |
+| 15 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.07% |
 | 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.04% |
 | 17 | [Remains](games/r/remains.md) | 11.90% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.22% |
@@ -24,7 +24,7 @@
 | 22 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 9.09% |
 | 23 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.75% |
 | 24 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
-| 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.47% |
+| 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.46% |
 | 26 | [Smelter](games/s/smelter.md) | 8.11% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 7.47% |
 | 28 | [Time Loader](games/t/time_loader.md) | 7.21% |
@@ -488,4 +488,4 @@
 | 237 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 237 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 237 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,890 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
+| 2,891 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
