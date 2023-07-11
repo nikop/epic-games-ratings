@@ -538,9 +538,9 @@
       "Count": 212
     }
   ],
-  "EOS_Progressed": 11007,
+  "EOS_Progressed": 11008,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -6388,6 +6388,11 @@
       "Time": "2023-07-10T22:07:46.4713451+00:00",
       "NumProgressed": 11007,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-07-11T06:07:37.8923352+00:00",
+      "NumProgressed": 11008,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 35,
@@ -6415,7 +6420,7 @@
       "Name": "The End of the Line",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "ACH04",
@@ -6615,7 +6620,7 @@
       "Name": "Original Gangster",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "ACH29",
@@ -6678,7 +6683,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11007,
+      "Progressed": 11008,
       "Completed": 28
     }
   ],
@@ -6686,8 +6691,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-09T15:01:12.039138+00:00",
-  "LastChanged_Achievements": "2023-07-11T05:07:30.337988+00:00",
+  "LastChanged_Achievements": "2023-07-11T06:07:37.8923346+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:43.1834453+00:00",
-  "LastUpdate_Ratings": "2023-07-11T05:01:08.2631994+00:00",
-  "LastUpdate_Achievements": "2023-07-11T05:07:30.3380345+00:00"
+  "LastUpdate_Ratings": "2023-07-11T06:01:30.6960038+00:00",
+  "LastUpdate_Achievements": "2023-07-11T06:07:37.8924209+00:00"
 }

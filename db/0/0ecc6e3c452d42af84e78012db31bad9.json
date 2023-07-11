@@ -4,7 +4,7 @@
   "ProductSlug": "pixel-art-coloring-book-a485ef",
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 991,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 463,
+  "EOS_NewPlayers": 461,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1251,9 +1251,9 @@
       "ID": "ach_10_medium_pictures",
       "SetID": "3h4khpo",
       "Name": "Artist in the making",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 79
+      "UsersEstimate": 89
     },
     {
       "ID": "ach_animals_completed",
@@ -1315,9 +1315,9 @@
       "ID": "ach_food_completed",
       "SetID": "3h4khpo",
       "Name": "Food - completed",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 20
     },
     {
       "ID": "ach_food_unlocked",
@@ -1370,8 +1370,8 @@
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-07-11T05:04:34.135535+00:00",
+  "LastChanged_Achievements": "2023-07-11T06:04:49.9399923+00:00",
   "LastUpdate_AppInfo": "2023-07-07T08:57:12.6821142+00:00",
-  "LastUpdate_Ratings": "2023-07-11T04:57:15.3530414+00:00",
-  "LastUpdate_Achievements": "2023-07-11T05:04:34.1355518+00:00"
+  "LastUpdate_Ratings": "2023-07-11T05:57:25.8071914+00:00",
+  "LastUpdate_Achievements": "2023-07-11T06:04:49.9400221+00:00"
 }

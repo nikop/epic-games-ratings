@@ -72,7 +72,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 65521,
+  "EOS_Progressed": 65523,
   "EOS_Completed": 620,
   "EOS_NewPlayers": 944,
   "EOS_NewCompleters": 18,
@@ -8877,6 +8877,11 @@
       "Time": "2023-07-11T05:07:23.3239535+00:00",
       "NumProgressed": 65521,
       "NumCompleted": 620
+    },
+    {
+      "Time": "2023-07-11T06:07:30.3205194+00:00",
+      "NumProgressed": 65523,
+      "NumCompleted": 620
     }
   ],
   "TotalAchievements": 25,
@@ -8960,7 +8965,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 13104
+      "UsersEstimate": 13105
     },
     {
       "ID": "Hearty",
@@ -8992,7 +8997,7 @@
       "Name": "Master, Commander",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 13104
+      "UsersEstimate": 13105
     },
     {
       "ID": "Meaty",
@@ -9016,7 +9021,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10483
+      "UsersEstimate": 10484
     },
     {
       "ID": "Nothing Left to Say",
@@ -9048,7 +9053,7 @@
       "Name": "Sniper",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4586
+      "UsersEstimate": 4587
     },
     {
       "ID": "Spicy",
@@ -9087,7 +9092,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 65521,
+      "Progressed": 65523,
       "Completed": 620
     }
   ],
@@ -9095,8 +9100,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-06-28T22:00:50.6722945+00:00",
-  "LastChanged_Achievements": "2023-07-11T05:07:23.3239531+00:00",
+  "LastChanged_Achievements": "2023-07-11T06:07:30.3205188+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:06.4873224+00:00",
-  "LastUpdate_Ratings": "2023-07-11T05:01:27.1485128+00:00",
-  "LastUpdate_Achievements": "2023-07-11T05:07:23.3240045+00:00"
+  "LastUpdate_Ratings": "2023-07-11T06:01:52.4904576+00:00",
+  "LastUpdate_Achievements": "2023-07-11T06:07:30.3205933+00:00"
 }

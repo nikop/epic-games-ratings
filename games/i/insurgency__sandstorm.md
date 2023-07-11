@@ -6,31 +6,31 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~20,553 |
-| Exploitative | 4.00% | ~16,442 |
-| Point Shooting | 4.00% | ~16,442 |
-| Wet Feet | 4.00% | ~16,442 |
+| Wallbanger | 5.00% | ~20,554 |
+| Exploitative | 4.00% | ~16,443 |
+| Point Shooting | 4.00% | ~16,443 |
+| Wet Feet | 4.00% | ~16,443 |
 | High Speed Low Drag | 3.00% | ~12,332 |
 | Lucky | 3.00% | ~12,332 |
 | Stylin' | 3.00% | ~12,332 |
 | Turf War | 3.00% | ~12,332 |
-| Banged | 2.00% | ~8,221 |
-| Checkpoint Victory | 2.00% | ~8,221 |
-| First Blood | 2.00% | ~8,221 |
-| Flaccid Paralysis | 2.00% | ~8,221 |
-| Push Victory | 2.00% | ~8,221 |
-| Self-destructive | 2.00% | ~8,221 |
+| Banged | 2.00% | ~8,222 |
+| Checkpoint Victory | 2.00% | ~8,222 |
+| First Blood | 2.00% | ~8,222 |
+| Flaccid Paralysis | 2.00% | ~8,222 |
+| Push Victory | 2.00% | ~8,222 |
+| Self-destructive | 2.00% | ~8,222 |
 | Blindfire | 1.00% | ~4,111 |
 | Ruthless | 1.00% | ~4,111 |
 | Semper Paratus | 1.00% | ~4,111 |
-| Carrying | 0.90% | ~3,699 |
-| Efficient | 0.90% | ~3,699 |
-| Mount & Gun | 0.90% | ~3,699 |
-| Personal | 0.90% | ~3,699 |
-| Grounded | 0.80% | ~3,288 |
-| Play to Win | 0.80% | ~3,288 |
-| #1 | 0.70% | ~2,877 |
-| Special Delivery | 0.70% | ~2,877 |
+| Carrying | 0.90% | ~3,700 |
+| Efficient | 0.90% | ~3,700 |
+| Mount & Gun | 0.90% | ~3,700 |
+| Grounded | 0.80% | ~3,289 |
+| Personal | 0.80% | ~3,289 |
+| Play to Win | 0.80% | ~3,289 |
+| #1 | 0.70% | ~2,878 |
+| Special Delivery | 0.70% | ~2,878 |
 | Firefight Victory | 0.60% | ~2,466 |
 | Cinematic | 0.50% | ~2,055 |
 | Thanks Station! | 0.40% | ~1,644 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~411 |
 | Road Hazard | 0.10% | ~411 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 411,053 (Ranked 39)  
+Progressed: 411,076 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 2 (0.00%) (Ranked 237)
 | 2023-07-08 | 409,013 | 2 |
 | 2023-07-09 | 410,060 | 2 |
 | 2023-07-10 | 410,865 | 2 |
-| 2023-07-11 | 411,053 | 2 |
+| 2023-07-11 | 411,076 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 364  (Ranked 218)  
 Sum: 2,790 (Ranked 169)  

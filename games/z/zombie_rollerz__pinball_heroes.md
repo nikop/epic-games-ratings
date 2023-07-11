@@ -20,22 +20,22 @@
 | Kill-streak | 32.00% | ~37 |
 | The Bird | 30.00% | ~35 |
 | The Ninja | 29.00% | ~34 |
+| The Idol | 27.00% | ~32 |
 | Inferno Ruins | 27.00% | ~32 |
 | Topped up | 26.00% | ~30 |
-| The Idol | 26.00% | ~30 |
 | I'm Rich | 24.00% | ~28 |
 | Untouchable | 23.00% | ~27 |
 | 1 is all I need | 22.00% | ~26 |
 | The Giant | 21.00% | ~25 |
 | The Slime | 21.00% | ~25 |
-| The Flower | 18.00% | ~21 |
-| Out of the Frying Pan... | 18.00% | ~21 |
+| The Flower | 19.00% | ~22 |
+| Out of the Frying Pan... | 19.00% | ~22 |
 | The Blacksmith | 17.00% | ~20 |
 | The Ooze | 16.00% | ~19 |
+| Turquoise | 16.00% | ~19 |
 | The Assistant | 15.00% | ~18 |
 | The Steampunk | 15.00% | ~18 |
 | Ember | 15.00% | ~18 |
-| Turquoise | 15.00% | ~18 |
 | Verse | 13.00% | ~15 |
 | The Droid | 11.00% | ~13 |
 | Iron | 11.00% | ~13 |

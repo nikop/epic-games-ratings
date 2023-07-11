@@ -6,23 +6,23 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 58.00% | ~103,108 |
-| Where's that freaking Dwarf? | 45.00% | ~79,997 |
-| GG EZ | 27.00% | ~47,998 |
-| Speedrun | 26.00% | ~46,221 |
-| Déjà vu | 20.00% | ~35,554 |
-| Sock! SOCK! | 15.00% | ~26,666 |
-| DM intervention | 12.00% | ~21,333 |
-| A beer, two curses, three companions | 7.00% | ~12,444 |
-| Fireproof Wizardess | 7.00% | ~12,444 |
-| Livin' in a dwarven paradise | 5.00% | ~8,889 |
-| Way of the Wimp | 5.00% | ~8,889 |
-| The plot thickens... At the tavern | 4.00% | ~7,111 |
-| The Woman in the High Castle | 3.00% | ~5,333 |
-| Team Building Exercise | 3.00% | ~5,333 |
-| The demons' feast | 2.00% | ~3,555 |
-| Res Judicata | 2.00% | ~3,555 |
-| I am the night | 2.00% | ~3,555 |
+| Alt+F4 | 58.00% | ~103,137 |
+| Where's that freaking Dwarf? | 45.00% | ~80,020 |
+| GG EZ | 27.00% | ~48,012 |
+| Speedrun | 26.00% | ~46,234 |
+| Déjà vu | 20.00% | ~35,564 |
+| Sock! SOCK! | 15.00% | ~26,673 |
+| DM intervention | 12.00% | ~21,339 |
+| A beer, two curses, three companions | 7.00% | ~12,448 |
+| Fireproof Wizardess | 7.00% | ~12,448 |
+| Livin' in a dwarven paradise | 5.00% | ~8,891 |
+| Way of the Wimp | 5.00% | ~8,891 |
+| The plot thickens... At the tavern | 4.00% | ~7,113 |
+| The Woman in the High Castle | 3.00% | ~5,335 |
+| Team Building Exercise | 3.00% | ~5,335 |
+| The demons' feast | 2.00% | ~3,556 |
+| Res Judicata | 2.00% | ~3,556 |
+| I am the night | 2.00% | ~3,556 |
 | Shiny and Crôm | 1.00% | ~1,778 |
 | The Great Library | 1.00% | ~1,778 |
 | Torture and Sensibility | 1.00% | ~1,778 |
@@ -30,11 +30,11 @@ Number of Ratings: 118  (23.09.2022)
 | The Ranger of Chaos | 1.00% | ~1,778 |
 | Thieves' Guild Accreditation | 1.00% | ~1,778 |
 | Oh, when I'll be level 10... | 1.00% | ~1,778 |
-| The beards of change | 0.80% | ~1,422 |
-| Lust and Debauchery | 0.80% | ~1,422 |
-| Material Girl | 0.80% | ~1,422 |
-| Gargantua | 0.70% | ~1,244 |
-| In Navalu's footsteps | 0.70% | ~1,244 |
+| The beards of change | 0.80% | ~1,423 |
+| Lust and Debauchery | 0.80% | ~1,423 |
+| Material Girl | 0.80% | ~1,423 |
+| Gargantua | 0.70% | ~1,245 |
+| In Navalu's footsteps | 0.70% | ~1,245 |
 | Urik's Depths | 0.60% | ~1,067 |
 | Look but don't touch | 0.60% | ~1,067 |
 | The Statuette of Gladeulfeurah | 0.50% | ~889 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 177,772 (Ranked 58)  
+Progressed: 177,822 (Ranked 58)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-08 | 171,176 | 0 |
 | 2023-07-09 | 174,947 | 0 |
 | 2023-07-10 | 177,355 | 0 |
-| 2023-07-11 | 177,772 | 0 |
+| 2023-07-11 | 177,822 | 0 |
 ## Awards
 Max (Character Customization): 84  (Ranked 351)  
 Sum: 84 (Ranked 418)  

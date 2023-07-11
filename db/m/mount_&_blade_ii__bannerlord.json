@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -5487,9 +5487,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 55499,
+  "EOS_Progressed": 55501,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 580,
+  "EOS_NewPlayers": 579,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13942,6 +13942,11 @@
       "Time": "2023-07-11T05:07:31.9659447+00:00",
       "NumProgressed": 55499,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-11T06:07:39.6930077+00:00",
+      "NumProgressed": 55501,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -13977,7 +13982,7 @@
       "Name": "Best served cold",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Butcher of Calradia",
@@ -13985,7 +13990,7 @@
       "Name": "Butcher of Calradia",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Butterlord",
@@ -14001,7 +14006,7 @@
       "Name": "Catch",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "Champion",
@@ -14057,7 +14062,7 @@
       "Name": "Explorer",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Fat Cat",
@@ -14089,7 +14094,7 @@
       "Name": "Great Granny",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Head hunter",
@@ -14097,7 +14102,7 @@
       "Name": "Headhunter",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Heartbreaker",
@@ -14105,7 +14110,7 @@
       "Name": "Heartbreaker",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Horde breaker",
@@ -14153,7 +14158,7 @@
       "Name": "Kingslayer",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Know your enemy",
@@ -14169,7 +14174,7 @@
       "Name": "Lance-a-lot",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Landlord",
@@ -14217,7 +14222,7 @@
       "Name": "Minor Clan",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Mounted Archery",
@@ -14225,7 +14230,7 @@
       "Name": "Mounted Archery",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "My way",
@@ -14249,7 +14254,7 @@
       "Name": "Ride it like you stole it",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "Roadkill",
@@ -14257,7 +14262,7 @@
       "Name": "Roadkill",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Shish Kebab",
@@ -14321,7 +14326,7 @@
       "Name": "This is Sparta!",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Trained",
@@ -14360,15 +14365,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 55499,
+      "Progressed": 55501,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-07-10T21:01:03.8843566+00:00",
-  "LastChanged_Achievements": "2023-07-11T05:07:31.9659442+00:00",
+  "LastChanged_Achievements": "2023-07-11T06:07:39.6930069+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:03.335469+00:00",
-  "LastUpdate_Ratings": "2023-07-11T05:00:34.4655513+00:00",
-  "LastUpdate_Achievements": "2023-07-11T05:07:31.9660146+00:00"
+  "LastUpdate_Ratings": "2023-07-11T06:00:54.6965967+00:00",
+  "LastUpdate_Achievements": "2023-07-11T06:07:39.6931773+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 108,
   "Ranking_EOS_NewPlayers": 33,
-  "Ranking_EOS_NewCompleters": 9,
+  "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2022-02-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-08T13:25:14+00:00",
@@ -244,9 +244,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 102368,
+  "EOS_Progressed": 102373,
   "EOS_Completed": 790,
-  "EOS_NewPlayers": 2199,
+  "EOS_NewPlayers": 2198,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -9069,6 +9069,11 @@
       "Time": "2023-07-11T05:02:03.1253942+00:00",
       "NumProgressed": 102368,
       "NumCompleted": 790
+    },
+    {
+      "Time": "2023-07-11T06:02:31.8443797+00:00",
+      "NumProgressed": 102373,
+      "NumCompleted": 790
     }
   ],
   "TotalAchievements": 34,
@@ -9088,7 +9093,7 @@
       "Name": "The only thing I have now",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 16379
+      "UsersEstimate": 16380
     },
     {
       "ID": "ACH_GAME_JOURNAL1",
@@ -9096,7 +9101,7 @@
       "Name": "Interesting...",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 41971
+      "UsersEstimate": 41973
     },
     {
       "ID": "ACH_GAME_JOURNAL2",
@@ -9104,7 +9109,7 @@
       "Name": "Halfway there",
       "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 28663
+      "UsersEstimate": 28664
     },
     {
       "ID": "ACH_GAME_JOURNAL3",
@@ -9120,7 +9125,7 @@
       "Name": "I\u0027ll make a note of that...",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 9213
+      "UsersEstimate": 9214
     },
     {
       "ID": "ACH_GAME_REPLAY",
@@ -9136,7 +9141,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 79847
+      "UsersEstimate": 79851
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -9152,7 +9157,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 56302
+      "UsersEstimate": 56305
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -9160,7 +9165,7 @@
       "Name": "A brigantine, a brig and a barque",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 28663
+      "UsersEstimate": 28664
     },
     {
       "ID": "ACH_L02_BASECAMP_END",
@@ -9168,7 +9173,7 @@
       "Name": "The Everhart Expedition",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 39924
+      "UsersEstimate": 39925
     },
     {
       "ID": "ACH_L02_BASECAMP_OBJ",
@@ -9176,7 +9181,7 @@
       "Name": "Weekend at Walakea\u0027s",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 27639
+      "UsersEstimate": 27641
     },
     {
       "ID": "ACH_L02_LOGO",
@@ -9192,7 +9197,7 @@
       "Name": "The Vanishing of the Lady Shannon",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 29687
+      "UsersEstimate": 29688
     },
     {
       "ID": "ACH_L03_BLACKBEACH_OBJ",
@@ -9200,7 +9205,7 @@
       "Name": "Marsh Cannery",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 20474
+      "UsersEstimate": 20475
     },
     {
       "ID": "ACH_L03_ORGAN",
@@ -9208,7 +9213,7 @@
       "Name": "Seaside Serenade",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 29687
+      "UsersEstimate": 29688
     },
     {
       "ID": "ACH_L03_PIANO",
@@ -9232,7 +9237,7 @@
       "Name": "Not Another Boring Slideshow!",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 15355
+      "UsersEstimate": 15356
     },
     {
       "ID": "ACH_L04A_MIC",
@@ -9248,7 +9253,7 @@
       "Name": "Quite a Show",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 26616
+      "UsersEstimate": 26617
     },
     {
       "ID": "ACH_L04B_DESERT_END",
@@ -9256,7 +9261,7 @@
       "Name": "506 East Hampden Avenue",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 27639
+      "UsersEstimate": 27641
     },
     {
       "ID": "ACH_L04B_DESERT_OBJ",
@@ -9272,7 +9277,7 @@
       "Name": "The Norahnomicon",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 9213
+      "UsersEstimate": 9214
     },
     {
       "ID": "ACH_L05_NAACAL",
@@ -9280,7 +9285,7 @@
       "Name": "Naacalvision",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 15355
+      "UsersEstimate": 15356
     },
     {
       "ID": "ACH_L05_STREAMS",
@@ -9288,7 +9293,7 @@
       "Name": "Dark Water Ride",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 23545
+      "UsersEstimate": 23546
     },
     {
       "ID": "ACH_L05_TOWN_END",
@@ -9296,7 +9301,7 @@
       "Name": "Sunken",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 23545
+      "UsersEstimate": 23546
     },
     {
       "ID": "ACH_L05_TOWN_OBJ",
@@ -9328,7 +9333,7 @@
       "Name": "Deep Cut",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 23545
+      "UsersEstimate": 23546
     },
     {
       "ID": "ACH_L06_TEMPLE_END",
@@ -9336,7 +9341,7 @@
       "Name": "FHALGOF\u0027N\u0027",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 22521
+      "UsersEstimate": 22522
     },
     {
       "ID": "ACH_L06_TEMPLE_OBJ",
@@ -9351,7 +9356,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 102368,
+      "Progressed": 102373,
       "Completed": 790
     }
   ],
@@ -9359,8 +9364,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-07-09T08:59:27.1982702+00:00",
-  "LastChanged_Achievements": "2023-07-11T05:02:03.1253938+00:00",
+  "LastChanged_Achievements": "2023-07-11T06:02:31.844379+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:35.40014+00:00",
-  "LastUpdate_Ratings": "2023-07-11T05:00:09.2638548+00:00",
-  "LastUpdate_Achievements": "2023-07-11T05:02:03.1254536+00:00"
+  "LastUpdate_Ratings": "2023-07-11T06:00:27.2121405+00:00",
+  "LastUpdate_Achievements": "2023-07-11T06:02:31.8445498+00:00"
 }

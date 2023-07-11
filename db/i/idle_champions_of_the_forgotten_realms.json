@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 102,
   "Ranking_EOS_NewPlayers": 20,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4838,11 +4838,17 @@
       "Rating": 4.05,
       "NumberOfAwards": 30473,
       "NumberOfAwardsMax": 5021
+    },
+    {
+      "Time": "2023-07-11T05:58:53.7688906+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30477,
+      "NumberOfAwardsMax": 5025
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30473,
-  "NumberOfAwardsMax": 5021,
+  "NumberOfAwards": 30477,
+  "NumberOfAwardsMax": 5025,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -4855,7 +4861,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5021
+      "Count": 5025
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4888,9 +4894,9 @@
       "Count": 3295
     }
   ],
-  "EOS_Progressed": 209964,
+  "EOS_Progressed": 209972,
   "EOS_Completed": 2045,
-  "EOS_NewPlayers": 4187,
+  "EOS_NewPlayers": 4176,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -13553,6 +13559,11 @@
       "Time": "2023-07-11T05:04:45.834927+00:00",
       "NumProgressed": 209964,
       "NumCompleted": 2045
+    },
+    {
+      "Time": "2023-07-11T06:05:02.8782246+00:00",
+      "NumProgressed": 209972,
+      "NumCompleted": 2045
     }
   ],
   "TotalAchievements": 503,
@@ -15236,7 +15247,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 31495
+      "UsersEstimate": 31496
     },
     {
       "ID": "objective_completed_34",
@@ -15244,7 +15255,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 14697
+      "UsersEstimate": 14698
     },
     {
       "ID": "objective_completed_35",
@@ -15356,7 +15367,7 @@
       "Name": "Seeking Allies",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10498
+      "UsersEstimate": 10499
     },
     {
       "ID": "objective_completed_390",
@@ -15428,7 +15439,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 14697
+      "UsersEstimate": 14698
     },
     {
       "ID": "objective_completed_40",
@@ -15700,7 +15711,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10498
+      "UsersEstimate": 10499
     },
     {
       "ID": "objective_completed_54",
@@ -16708,7 +16719,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 23096
+      "UsersEstimate": 23097
     },
     {
       "ID": "objective_completed_70",
@@ -16780,7 +16791,7 @@
       "Name": "Friendly Imps",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10498
+      "UsersEstimate": 10499
     },
     {
       "ID": "objective_completed_80",
@@ -17587,21 +17598,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 176238,
+      "Progressed": 176246,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 209964,
+      "Progressed": 209972,
       "Completed": 2045
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-07-10T19:58:34.5812574+00:00",
-  "LastChanged_Achievements": "2023-07-11T05:04:45.8349265+00:00",
+  "LastChanged": "2023-07-11T05:58:53.7688904+00:00",
+  "LastChanged_Achievements": "2023-07-11T06:05:02.878224+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:43.9043947+00:00",
-  "LastUpdate_Ratings": "2023-07-11T04:58:38.4145853+00:00",
-  "LastUpdate_Achievements": "2023-07-11T05:04:45.8372463+00:00"
+  "LastUpdate_Ratings": "2023-07-11T05:58:53.7688912+00:00",
+  "LastUpdate_Achievements": "2023-07-11T06:05:02.8812265+00:00"
 }

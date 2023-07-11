@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
     "PcReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -463,9 +463,9 @@
       "ID": "CLG_UNLOCK_10003",
       "SetID": "89cjc9l",
       "Name": "The Idol",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "CLG_UNLOCK_10004",
@@ -567,9 +567,9 @@
       "ID": "PRG_BOSS_FLOWER",
       "SetID": "89cjc9l",
       "Name": "The Flower",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "PRG_BOSS_GIANT",
@@ -847,9 +847,9 @@
       "ID": "PRG_MODE_HARD",
       "SetID": "89cjc9l",
       "Name": "Out of the Frying Pan...",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "PRG_MODE_HELL",
@@ -871,9 +871,9 @@
       "ID": "PRG_NORMAL_10002",
       "SetID": "89cjc9l",
       "Name": "Turquoise",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "PRG_NORMAL_10003",
@@ -968,8 +968,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-07-11T05:01:36.5111416+00:00",
+  "LastChanged_Achievements": "2023-07-11T06:02:03.2265465+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:47.3455238+00:00",
-  "LastUpdate_Ratings": "2023-07-11T04:57:53.2286764+00:00",
-  "LastUpdate_Achievements": "2023-07-11T05:01:36.5112208+00:00"
+  "LastUpdate_Ratings": "2023-07-11T05:58:05.0283939+00:00",
+  "LastUpdate_Achievements": "2023-07-11T06:02:03.2267006+00:00"
 }

@@ -6,14 +6,14 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,495 |
-| The Mad Wizard | 11.00% | ~23,096 |
-| The Ring of Regeneration | 7.00% | ~14,697 |
-| Are Ya Chicken? | 7.00% | ~14,697 |
+| The Cursed Farmer | 15.00% | ~31,496 |
+| The Mad Wizard | 11.00% | ~23,097 |
+| The Ring of Regeneration | 7.00% | ~14,698 |
+| Are Ya Chicken? | 7.00% | ~14,698 |
 | Were-verpowered | 6.00% | ~12,598 |
-| Seeking Allies | 5.00% | ~10,498 |
-| Mad Cow Disease | 5.00% | ~10,498 |
-| Friendly Imps | 5.00% | ~10,498 |
+| Seeking Allies | 5.00% | ~10,499 |
+| Mad Cow Disease | 5.00% | ~10,499 |
+| Friendly Imps | 5.00% | ~10,499 |
 | A Persistent Buzzing | 4.00% | ~8,399 |
 | Pure Energy | 4.00% | ~8,399 |
 | Beast Mode | 3.00% | ~6,299 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209,964 (Ranked 52)  
+Progressed: 209,972 (Ranked 52)  
 Completed: 2,045 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -592,14 +592,14 @@ Completed: 2,045 (0.97%) (Ranked 102)
 | 2023-07-08 | 208,782 | 2,041 |
 | 2023-07-09 | 209,384 | 2,043 |
 | 2023-07-10 | 209,861 | 2,045 |
-| 2023-07-11 | 209,964 | 2,045 |
+| 2023-07-11 | 209,972 | 2,045 |
 ## Awards
-Max (Diverse Characters): 5,021  (Ranked 65)  
-Sum: 30,473 (Ranked 38)  
+Max (Diverse Characters): 5,025  (Ranked 65)  
+Sum: 30,477 (Ranked 38)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 5,021 |
+| This game has Diverse Characters | 5,025 |
 | This game is Great for Beginners | 4,954 |
 | This game has Quickly Understood Controls | 4,653 |
 | This game is Relaxing | 4,550 |
@@ -775,3 +775,4 @@ Diff (max vs sum): 27
 | 2023-07-08 | 4.05 | - | 5,013 | 30,446 |
 | 2023-07-09 | 4.05 | - | 5,016 | 30,455 |
 | 2023-07-10 | 4.05 | - | 5,021 | 30,473 |
+| 2023-07-11 | 4.05 | - | 5,025 | 30,477 |

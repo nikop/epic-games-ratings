@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 521853,
+  "EOS_Progressed": 521854,
   "EOS_Completed": 442,
-  "EOS_NewPlayers": 604,
+  "EOS_NewPlayers": 603,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -8880,6 +8880,11 @@
       "Time": "2023-07-11T05:01:48.4449733+00:00",
       "NumProgressed": 521853,
       "NumCompleted": 442
+    },
+    {
+      "Time": "2023-07-11T06:02:15.7983843+00:00",
+      "NumProgressed": 521854,
+      "NumCompleted": 442
     }
   ],
   "TotalAchievements": 57,
@@ -8907,7 +8912,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 365297
+      "UsersEstimate": 365298
     },
     {
       "ID": "12",
@@ -9115,7 +9120,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 260926
+      "UsersEstimate": 260927
     },
     {
       "ID": "36",
@@ -9123,7 +9128,7 @@
       "Name": "Sunday Best",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 83496
+      "UsersEstimate": 83497
     },
     {
       "ID": "37",
@@ -9251,7 +9256,7 @@
       "Name": "Two of a Kind",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 73059
+      "UsersEstimate": 73060
     },
     {
       "ID": "51",
@@ -9267,7 +9272,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 240052
+      "UsersEstimate": 240053
     },
     {
       "ID": "53",
@@ -9346,15 +9351,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 521853,
+      "Progressed": 521854,
       "Completed": 442
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-07-11T05:01:48.4449729+00:00",
+  "LastChanged_Achievements": "2023-07-11T06:02:15.7983836+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:39.1461956+00:00",
-  "LastUpdate_Ratings": "2023-07-11T04:57:46.9414125+00:00",
-  "LastUpdate_Achievements": "2023-07-11T05:01:48.4450497+00:00"
+  "LastUpdate_Ratings": "2023-07-11T05:57:58.9130792+00:00",
+  "LastUpdate_Achievements": "2023-07-11T06:02:15.7985285+00:00"
 }

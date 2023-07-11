@@ -6,17 +6,17 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~65,153 |
-| Into the Unknown | 10.00% | ~59,230 |
-| First Shot | 10.00% | ~59,230 |
-| Herzlich Wilkommen! | 9.00% | ~53,307 |
-| Good Night & Good Luck | 9.00% | ~53,307 |
-| Sancho Panza | 8.00% | ~47,384 |
-| Under Pressure | 7.00% | ~41,461 |
-| On the Trail of the Enemy | 7.00% | ~41,461 |
-| Flag Burning | 7.00% | ~41,461 |
-| Oh, So This Is How It Works! | 7.00% | ~41,461 |
-| Night Hunter | 7.00% | ~41,461 |
+| You Never Forget Your First... | 11.00% | ~65,154 |
+| Into the Unknown | 10.00% | ~59,231 |
+| First Shot | 10.00% | ~59,231 |
+| Herzlich Wilkommen! | 9.00% | ~53,308 |
+| Good Night & Good Luck | 9.00% | ~53,308 |
+| Sancho Panza | 8.00% | ~47,385 |
+| Under Pressure | 7.00% | ~41,462 |
+| On the Trail of the Enemy | 7.00% | ~41,462 |
+| Flag Burning | 7.00% | ~41,462 |
+| Oh, So This Is How It Works! | 7.00% | ~41,462 |
+| Night Hunter | 7.00% | ~41,462 |
 | Light in the Darkness | 6.00% | ~35,538 |
 | Get Outta My House! | 6.00% | ~35,538 |
 | It Wasn't That Hard, Was It? | 6.00% | ~35,538 |
@@ -47,8 +47,8 @@ Number of Ratings: 7,305  (23.09.2022)
 | That's Teamwork! | 1.00% | ~5,923 |
 | Fit as a Fiddle | 1.00% | ~5,923 |
 | Ironheart | 1.00% | ~5,923 |
-| Nemesis | 1.00% | ~2,377 |
-| Enter the Hall | 1.00% | ~2,377 |
+| Nemesis | 1.00% | ~2,378 |
+| Enter the Hall | 1.00% | ~2,378 |
 | Find Anything Interesting? | 0.90% | ~5,331 |
 | Boot Licker | 0.90% | ~5,331 |
 | Who Wants To Be a... | 0.80% | ~4,738 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~238 |
 | Connoisseur | 0.10% | ~238 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 592,299 (Ranked 26)  
+Progressed: 592,308 (Ranked 26)  
 Completed: 58 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 58 (0.01%) (Ranked 223)
 | 2023-07-08 | 590,574 | 58 |
 | 2023-07-09 | 591,444 | 58 |
 | 2023-07-10 | 592,168 | 58 |
-| 2023-07-11 | 592,299 | 58 |
+| 2023-07-11 | 592,308 | 58 |
 ## Awards
 Max (Character Customization): 8,321  (Ranked 40)  
 Sum: 19,600 (Ranked 55)  
