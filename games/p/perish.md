@@ -17,18 +17,18 @@
 | The Sons of Minos | 4.00% | ~129 |
 | Eidola | 4.00% | ~129 |
 | Reign in Blood | 4.00% | ~129 |
-| Comedy and Tragedy | 3.00% | ~96 |
-| Pillars of Eternity | 3.00% | ~96 |
-| Immolator | 3.00% | ~96 |
-| War Chest | 3.00% | ~96 |
-| Chthonic Investor | 3.00% | ~96 |
-| Symbols of Heresy | 3.00% | ~96 |
-| First Fragment | 3.00% | ~96 |
-| Sisters of the Pantheon | 3.00% | ~96 |
-| Siege Unit | 3.00% | ~96 |
-| Divine Assemblage | 3.00% | ~96 |
-| Ophiolatreia | 3.00% | ~96 |
-| Serpentine | 3.00% | ~96 |
+| Comedy and Tragedy | 3.00% | ~97 |
+| Pillars of Eternity | 3.00% | ~97 |
+| Immolator | 3.00% | ~97 |
+| War Chest | 3.00% | ~97 |
+| Chthonic Investor | 3.00% | ~97 |
+| Symbols of Heresy | 3.00% | ~97 |
+| First Fragment | 3.00% | ~97 |
+| Sisters of the Pantheon | 3.00% | ~97 |
+| Siege Unit | 3.00% | ~97 |
+| Divine Assemblage | 3.00% | ~97 |
+| Ophiolatreia | 3.00% | ~97 |
+| Serpentine | 3.00% | ~97 |
 | Wayward Son of Hephaestus | 2.00% | ~64 |
 | Forged in Fire | 2.00% | ~64 |
 | Rock and a Hard Place | 2.00% | ~64 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,216 (Ranked 147)  
+Progressed: 3,217 (Ranked 147)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,6 +148,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-08 | 3,184 | 0 |
 | 2023-07-09 | 3,203 | 0 |
 | 2023-07-10 | 3,216 | 0 |
+| 2023-07-11 | 3,217 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

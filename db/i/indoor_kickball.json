@@ -4,7 +4,7 @@
   "ProductSlug": "indoor-kickball-843529",
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-05-26T19:00:00+00:00",
@@ -641,9 +641,9 @@
       "ID": "7",
       "SetID": "39djiaj",
       "Name": "At least everyone still had fun",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "8",
@@ -672,8 +672,8 @@
   ],
   "FirstSeen": "2023-05-27T21:59:02.7354993+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:07.9162458+00:00",
-  "LastChanged_Achievements": "2023-07-10T23:06:58.0502712+00:00",
+  "LastChanged_Achievements": "2023-07-11T00:06:05.8159231+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:16.0821032+00:00",
-  "LastUpdate_Ratings": "2023-07-10T22:59:32.6549433+00:00",
-  "LastUpdate_Achievements": "2023-07-10T23:06:58.050304+00:00"
+  "LastUpdate_Ratings": "2023-07-10T23:59:15.0817465+00:00",
+  "LastUpdate_Achievements": "2023-07-11T00:06:05.8159508+00:00"
 }

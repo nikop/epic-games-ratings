@@ -4,7 +4,7 @@
   "ProductSlug": "zzt",
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-03-31T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2895,
+  "EOS_Progressed": 2896,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 3.52,
   "EosHistory": [
@@ -3166,6 +3166,11 @@
       "Time": "2023-07-10T23:06:50.9507288+00:00",
       "NumProgressed": 2895,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-07-11T00:05:59.8505377+00:00",
+      "NumProgressed": 2896,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 5,
@@ -3177,15 +3182,15 @@
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 2895
+      "UsersEstimate": 2896
     },
     {
       "ID": "2",
       "SetID": "dm385hd",
       "Name": "Traveler",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 200,
-      "UsersEstimate": 145
+      "UsersEstimate": 174
     },
     {
       "ID": "3",
@@ -3216,7 +3221,7 @@
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 2895,
+      "Progressed": 2896,
       "Completed": 102
     }
   ],
@@ -3224,8 +3229,8 @@
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-07-10T23:06:50.9507281+00:00",
+  "LastChanged_Achievements": "2023-07-11T00:05:59.8505373+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:03.5980967+00:00",
-  "LastUpdate_Ratings": "2023-07-10T22:58:38.3964359+00:00",
-  "LastUpdate_Achievements": "2023-07-10T23:06:50.9507875+00:00"
+  "LastUpdate_Ratings": "2023-07-10T23:58:31.1749768+00:00",
+  "LastUpdate_Achievements": "2023-07-11T00:05:59.8505611+00:00"
 }

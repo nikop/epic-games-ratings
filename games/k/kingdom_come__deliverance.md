@@ -7,7 +7,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Blacksmith's Son | 31.00% | ~245,497 |
-| Cavalier | 25.00% | ~197,981 |
+| Cavalier | 25.00% | ~197,982 |
 | Fatso | 23.00% | ~182,143 |
 | Awakening | 20.00% | ~158,385 |
 | Ranger | 20.00% | ~158,385 |
@@ -19,8 +19,8 @@ Number of Ratings: 9,133  (23.09.2022)
 | Buddy | 12.00% | ~95,031 |
 | Thief | 12.00% | ~95,031 |
 | Sinner | 11.00% | ~87,112 |
-| Convict | 10.00% | ~79,192 |
-| Traveller | 10.00% | ~79,192 |
+| Convict | 10.00% | ~79,193 |
+| Traveller | 10.00% | ~79,193 |
 | Haggler | 9.00% | ~71,273 |
 | McLovin | 7.00% | ~55,435 |
 | Runt | 7.00% | ~55,435 |
@@ -35,15 +35,15 @@ Number of Ratings: 9,133  (23.09.2022)
 | Conqueror | 3.00% | ~23,758 |
 | Ginger in a Pickle | 3.00% | ~23,758 |
 | Kingdom did not come | 3.00% | ~23,758 |
-| Completionist | 2.00% | ~15,838 |
-| Death by splinter | 2.00% | ~15,838 |
-| King Charming | 2.00% | ~15,838 |
-| Knightrider | 2.00% | ~15,838 |
-| Level Cap | 2.00% | ~15,838 |
-| Arena Master | 2.00% | ~15,838 |
-| Robber Baron | 2.00% | ~15,838 |
-| Talmberger | 2.00% | ~15,838 |
-| The End | 2.00% | ~15,838 |
+| Completionist | 2.00% | ~15,839 |
+| Death by splinter | 2.00% | ~15,839 |
+| King Charming | 2.00% | ~15,839 |
+| Knightrider | 2.00% | ~15,839 |
+| Level Cap | 2.00% | ~15,839 |
+| Arena Master | 2.00% | ~15,839 |
+| Robber Baron | 2.00% | ~15,839 |
+| Talmberger | 2.00% | ~15,839 |
+| The End | 2.00% | ~15,839 |
 | Woman's Lot | 1.00% | ~7,919 |
 | Chivalrous Soul | 1.00% | ~7,919 |
 | Spoilsport | 1.00% | ~7,919 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~792 |
 | Wingman | 0.10% | ~792 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 791,925 (Ranked 15)  
+Progressed: 791,926 (Ranked 15)  
 Completed: 44 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,6 +171,7 @@ Completed: 44 (0.01%) (Ranked 223)
 | 2023-07-08 | 791,603 | 44 |
 | 2023-07-09 | 791,781 | 44 |
 | 2023-07-10 | 791,925 | 44 |
+| 2023-07-11 | 791,926 | 44 |
 ## Awards
 Max (Character Customization): 7,309  (Ranked 46)  
 Sum: 27,249 (Ranked 43)  

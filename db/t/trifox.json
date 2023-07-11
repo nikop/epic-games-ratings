@@ -2,7 +2,7 @@
   "ID": "77c7b912cbbd4c45b883db72f4a1f0bd",
   "Name": "Trifox",
   "ProductSlug": "trifox-b361b7",
-  "Ranking_EOS_Progress": 303,
+  "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 98,
   "Ranking_EOS_NewPlayers": 317,
   "Ranking_EOS_NewCompleters": 94,
@@ -478,8 +478,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.8391982+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00",
   "LastChanged": "2023-03-31T05:58:28.8391984+00:00",
-  "LastChanged_Achievements": "2023-07-10T23:04:12.8194157+00:00",
+  "LastChanged_Achievements": "2023-07-11T00:03:49.9180585+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:08.960065+00:00",
-  "LastUpdate_Ratings": "2023-07-10T22:59:25.2754756+00:00",
-  "LastUpdate_Achievements": "2023-07-10T23:04:12.8194538+00:00"
+  "LastUpdate_Ratings": "2023-07-10T23:59:09.5607033+00:00",
+  "LastUpdate_Achievements": "2023-07-11T00:03:49.9180958+00:00"
 }

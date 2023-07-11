@@ -6,23 +6,23 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 71.00% | ~5,160 |
-| Leader | 61.00% | ~4,433 |
-| Explorer | 53.00% | ~3,852 |
-| Healer | 52.00% | ~3,779 |
+| First Step | 71.00% | ~5,161 |
+| Leader | 61.00% | ~4,434 |
+| Explorer | 53.00% | ~3,853 |
+| Healer | 52.00% | ~3,780 |
 | Aspiring Inventor | 44.00% | ~3,198 |
 | Adventurer | 41.00% | ~2,980 |
 | Famous Healer | 38.00% | ~2,762 |
 | Local Leader | 35.00% | ~2,544 |
 | Famous Explorer | 34.00% | ~2,471 |
 | New Opportunities | 34.00% | ~2,471 |
-| Energized | 33.00% | ~2,398 |
-| The Long Haul | 33.00% | ~2,398 |
+| Energized | 33.00% | ~2,399 |
+| The Long Haul | 33.00% | ~2,399 |
 | Survivor | 32.00% | ~2,326 |
 | The Great Healer | 31.00% | ~2,253 |
 | Cleaner | 28.00% | ~2,035 |
 | Catastrofan | 28.00% | ~2,035 |
-| Legendary Explorer | 27.00% | ~1,962 |
+| Legendary Explorer | 27.00% | ~1,963 |
 | Finders, Keepers | 26.00% | ~1,890 |
 | Top Notch | 25.00% | ~1,817 |
 | Ice Lakes | 23.00% | ~1,672 |
@@ -42,8 +42,8 @@ Number of Ratings: 836  (23.09.2022)
 | Big Catastrofan | 12.00% | ~872 |
 | It's a Finnish Thing | 10.00% | ~727 |
 | Sky Burial | 9.00% | ~654 |
-| Trader | 8.00% | ~581 |
-| Bread and Circuses | 8.00% | ~581 |
+| Trader | 8.00% | ~582 |
+| Bread and Circuses | 8.00% | ~582 |
 | New Eden | 7.00% | ~509 |
 | Tailored to fit | 7.00% | ~509 |
 | Really Friendly | 6.00% | ~436 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~15 |
 | Customized calamities | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,268 (Ranked 123)  
+Progressed: 7,269 (Ranked 123)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,6 +148,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-08 | 7,205 | 0 |
 | 2023-07-09 | 7,240 | 0 |
 | 2023-07-10 | 7,268 | 0 |
+| 2023-07-11 | 7,269 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 330)  
 Sum: 677 (Ranked 272)  

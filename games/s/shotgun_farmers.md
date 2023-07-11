@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 67.00% | ~121 |
+| Seeds of War | 67.00% | ~122 |
 | Aspairagus | 50.00% | ~66 |
 | Triple Kill | 49.00% | ~89 |
-| Survivor | 48.00% | ~63 |
-| First Blood | 46.00% | ~83 |
+| Survivor | 47.00% | ~62 |
+| First Blood | 46.00% | ~84 |
 | Cornivore | 42.00% | ~76 |
-| I Believe I Can Fly | 41.00% | ~74 |
-| No Asperascope | 39.00% | ~71 |
-| Early Survivor | 36.00% | ~47 |
-| No Diggity | 36.00% | ~47 |
+| I Believe I Can Fly | 41.00% | ~75 |
+| No Asperascope | 40.00% | ~73 |
+| Early Survivor | 36.00% | ~48 |
+| No Diggity | 36.00% | ~48 |
 | Amateur Survivor | 26.00% | ~34 |
-| 10K | 22.00% | ~40 |
 | Bouncemato | 22.00% | ~29 |
+| 10K | 21.00% | ~38 |
 | 15K | 20.00% | ~36 |
 | Drinking Problem | 18.00% | ~33 |
 | Professional Survivor | 18.00% | ~24 |
@@ -29,11 +29,11 @@
 | Carrocketeer | 10.00% | ~18 |
 | Oh My Gourd | 10.00% | ~13 |
 | Summers Here | 10.00% | ~13 |
-| Fresh Pancake | 8.00% | ~14 |
-| Getting Started | 8.00% | ~14 |
-| Perfect | 8.00% | ~10 |
+| Fresh Pancake | 8.00% | ~15 |
+| Getting Started | 8.00% | ~15 |
+| Perfect | 8.00% | ~11 |
+| Expert Survivor | 8.00% | ~11 |
 | Quit Horsin' Around | 7.00% | ~13 |
-| Expert Survivor | 7.00% | ~9 |
 | Pyromaniac | 7.00% | ~9 |
 | Quadsparagus | 6.00% | ~8 |
 | Bring Home The Bacon | 5.00% | ~9 |
@@ -47,14 +47,14 @@
 | Pro Pyromancer | 1.00% | ~2 |
 | King of the Crow | 1.00% | ~1 |
 | Tomassacred | 1.00% | ~1 |
-| 15 Days | 0.60% | ~1 |
-| Pro Carrocketeer | 0.60% | ~1 |
-| Pro Shotgunner | 0.60% | ~1 |
-| Unstoppable | 0.60% | ~1 |
-| Berry Loved | 0.60% | ~1 |
-| Carrocket From Above | 0.60% | ~1 |
-| Death From Above | 0.60% | ~1 |
-| Heal Me Peas | 0.60% | ~1 |
+| 15 Days | 0.50% | ~1 |
+| Pro Carrocketeer | 0.50% | ~1 |
+| Pro Shotgunner | 0.50% | ~1 |
+| Unstoppable | 0.50% | ~1 |
+| Berry Loved | 0.50% | ~1 |
+| Carrocket From Above | 0.50% | ~1 |
+| Death From Above | 0.50% | ~1 |
+| Heal Me Peas | 0.50% | ~1 |
 | 30 Days | 0.00% | ~0 |
 | Darkside Survivor | 0.00% | ~0 |
 | Forestside Survivor | 0.00% | ~0 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 181 (Ranked 273)  
+Progressed: 182 (Ranked 273)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,6 +135,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-08 | 141 | 0 |
 | 2023-07-09 | 160 | 0 |
 | 2023-07-10 | 181 | 0 |
+| 2023-07-11 | 182 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

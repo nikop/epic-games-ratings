@@ -3,8 +3,8 @@
   "Name": "Fallout 2: A Post Nuclear Role Playing Game",
   "ProductSlug": "fallout-2",
   "Ranking_Rating": 181,
-  "Ranking_Popularity": 361,
-  "Ranking_PopularitySum": 423,
+  "Ranking_Popularity": 359,
+  "Ranking_PopularitySum": 422,
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 317,
@@ -364,18 +364,24 @@
       "Rating": 4.71,
       "NumberOfAwards": 75,
       "NumberOfAwardsMax": 75
+    },
+    {
+      "Time": "2023-07-10T23:59:28.5926936+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 76,
+      "NumberOfAwardsMax": 76
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 75,
-  "NumberOfAwardsMax": 75,
+  "NumberOfAwards": 76,
+  "NumberOfAwardsMax": 76,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 75
+      "Count": 76
     }
   ],
   "EOS_Progressed": 0,
@@ -390,8 +396,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-22T00:03:23.4324557+00:00",
   "FirstSeenRating": "2022-10-31T14:02:48.9261194+00:00",
-  "LastChanged": "2023-07-08T18:00:07.4472387+00:00",
+  "LastChanged": "2023-07-10T23:59:28.5926933+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:42.0725773+00:00",
-  "LastUpdate_Ratings": "2023-07-10T22:59:52.1091045+00:00",
-  "LastUpdate_Achievements": "2023-07-10T23:03:28.2223553+00:00"
+  "LastUpdate_Ratings": "2023-07-10T23:59:28.5926941+00:00",
+  "LastUpdate_Achievements": "2023-07-11T00:03:12.9263469+00:00"
 }

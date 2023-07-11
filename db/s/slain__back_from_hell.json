@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 397,
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 56,
+  "Ranking_EOS_NewPlayers": 55,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 29514,
+  "EOS_Progressed": 29521,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 854,
+  "EOS_NewPlayers": 856,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -8911,6 +8911,11 @@
       "Time": "2023-07-10T23:03:29.9620297+00:00",
       "NumProgressed": 29514,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-07-11T00:03:14.3973627+00:00",
+      "NumProgressed": 29521,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -8922,7 +8927,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4722
+      "UsersEstimate": 4723
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -8930,7 +8935,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5903
+      "UsersEstimate": 5904
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -9153,7 +9158,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 29514,
+      "Progressed": 29521,
       "Completed": 20
     }
   ],
@@ -9161,8 +9166,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-07-10T23:03:29.9620293+00:00",
+  "LastChanged_Achievements": "2023-07-11T00:03:14.3973622+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:25.1516139+00:00",
-  "LastUpdate_Ratings": "2023-07-10T23:00:26.6708113+00:00",
-  "LastUpdate_Achievements": "2023-07-10T23:03:29.9621094+00:00"
+  "LastUpdate_Ratings": "2023-07-10T23:59:55.5593038+00:00",
+  "LastUpdate_Achievements": "2023-07-11T00:03:14.3974351+00:00"
 }

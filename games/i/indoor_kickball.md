@@ -23,8 +23,8 @@
 | Save some water for the fishies | 22.00% | ~16 |
 | Classroom Secret Spot | 21.00% | ~15 |
 | Bathroom Secret Spot | 21.00% | ~15 |
+| At least everyone still had fun | 21.00% | ~15 |
 | Angry Dad | 19.00% | ~14 |
-| At least everyone still had fun | 19.00% | ~14 |
 | Living Room Secret Spot | 16.00% | ~12 |
 | Hi Hungry, I'm Dad | 12.00% | ~9 |
 | Interference | 10.00% | ~7 |

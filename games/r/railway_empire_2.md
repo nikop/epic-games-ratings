@@ -30,7 +30,7 @@ Rating: 4.46 (Ranked 608)
 | Financial Shark | 30.00% | ~456 |
 | All mine | 29.00% | ~441 |
 | Mole | 29.00% | ~441 |
-| Socializer | 27.00% | ~410 |
+| Socializer | 28.00% | ~426 |
 | General Manager | 26.00% | ~395 |
 | Country Life | 26.00% | ~395 |
 | Hostile Takeover | 25.00% | ~380 |

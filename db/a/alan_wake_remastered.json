@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57171,
+  "EOS_Progressed": 57176,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 402,
+  "EOS_NewPlayers": 403,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7577,6 +7577,11 @@
       "Time": "2023-07-10T23:04:01.7347804+00:00",
       "NumProgressed": 57171,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-11T00:03:41.0302384+00:00",
+      "NumProgressed": 57176,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7588,7 +7593,7 @@
       "Name": "Follow the Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 19438
+      "UsersEstimate": 19440
     },
     {
       "ID": "02",
@@ -7596,7 +7601,7 @@
       "Name": "Nordic Walking",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 12006
+      "UsersEstimate": 12007
     },
     {
       "ID": "03",
@@ -7604,7 +7609,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11434
+      "UsersEstimate": 11435
     },
     {
       "ID": "04",
@@ -7620,7 +7625,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10291
+      "UsersEstimate": 10292
     },
     {
       "ID": "06",
@@ -7660,7 +7665,7 @@
       "Name": "Medical Opinions",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1144
     },
     {
       "ID": "11",
@@ -7676,7 +7681,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5717
+      "UsersEstimate": 5718
     },
     {
       "ID": "13",
@@ -7692,7 +7697,7 @@
       "Name": "Gatekeeper",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5145
+      "UsersEstimate": 5146
     },
     {
       "ID": "15",
@@ -7700,7 +7705,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5145
+      "UsersEstimate": 5146
     },
     {
       "ID": "16",
@@ -7708,7 +7713,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3430
+      "UsersEstimate": 3431
     },
     {
       "ID": "17",
@@ -7716,7 +7721,7 @@
       "Name": "Departure",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3430
+      "UsersEstimate": 3431
     },
     {
       "ID": "18",
@@ -7764,7 +7769,7 @@
       "Name": "Taken Season",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1144
     },
     {
       "ID": "24",
@@ -7772,7 +7777,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5717
+      "UsersEstimate": 5718
     },
     {
       "ID": "25",
@@ -7788,7 +7793,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5717
+      "UsersEstimate": 5718
     },
     {
       "ID": "27",
@@ -7820,7 +7825,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5145
+      "UsersEstimate": 5146
     },
     {
       "ID": "31",
@@ -7828,7 +7833,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 8004
+      "UsersEstimate": 8005
     },
     {
       "ID": "32",
@@ -7836,7 +7841,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14864
+      "UsersEstimate": 14866
     },
     {
       "ID": "33",
@@ -7852,7 +7857,7 @@
       "Name": "Energized!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5145
+      "UsersEstimate": 5146
     },
     {
       "ID": "35",
@@ -7860,7 +7865,7 @@
       "Name": "Let There Be Light",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 15436
+      "UsersEstimate": 15438
     },
     {
       "ID": "36",
@@ -7868,7 +7873,7 @@
       "Name": "Carny",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1144
     },
     {
       "ID": "37",
@@ -7884,7 +7889,7 @@
       "Name": "An Idyllic Small Town",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1144
     },
     {
       "ID": "39",
@@ -7908,7 +7913,7 @@
       "Name": "Finders Keepers",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 8004
+      "UsersEstimate": 8005
     },
     {
       "ID": "42",
@@ -7948,7 +7953,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 7432
+      "UsersEstimate": 7433
     },
     {
       "ID": "47",
@@ -7988,7 +7993,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1651
+      "UsersEstimate": 1652
     },
     {
       "ID": "52",
@@ -7996,7 +8001,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1238
+      "UsersEstimate": 1239
     },
     {
       "ID": "53",
@@ -8123,21 +8128,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57171,
+      "Progressed": 57176,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20639,
+      "Progressed": 20644,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-10T23:04:01.73478+00:00",
+  "LastChanged_Achievements": "2023-07-11T00:03:41.030238+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:08.3646753+00:00",
-  "LastUpdate_Ratings": "2023-07-10T22:57:56.7863033+00:00",
-  "LastUpdate_Achievements": "2023-07-10T23:04:01.7348946+00:00"
+  "LastUpdate_Ratings": "2023-07-10T23:57:55.4624497+00:00",
+  "LastUpdate_Achievements": "2023-07-11T00:03:41.0303477+00:00"
 }
