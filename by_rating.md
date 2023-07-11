@@ -5,7 +5,7 @@
 | 3 | [Rain World](games/r/rain_world.md) | 4.94 | 0 | 504 |
 | 4 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.92 | 21 | 492 |
 | 4 | [Celeste](games/c/celeste.md) | 4.92 | 1,520 | 119 |
-| 4 | [Hades](games/h/hades.md) | 4.92 | 3,171 | 89 |
+| 4 | [Hades](games/h/hades.md) | 4.92 | 3,173 | 89 |
 | 7 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.91 | 0 | 504 |
 | 8 | [Mago](games/m/mago.md) | 4.90 | 0 | 504 |
 | 8 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 504 |
@@ -24,7 +24,7 @@
 | 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 158,003 | 6 |
 | 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 10,568 | 35 |
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 485 |
-| 25 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,410 | 123 |
+| 25 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,411 | 123 |
 | 25 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.87 | 0 | 504 |
 | 25 | [Ooblets](games/o/ooblets.md) | 4.87 | 1,014 | 141 |
 | 28 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 0 | 504 |
@@ -42,7 +42,7 @@
 | 28 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.86 | 0 | 504 |
 | 28 | [WarmSnow](games/w/warmsnow.md) | 4.86 | 0 | 504 |
 | 42 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,685 | 42 |
-| 42 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,511 | 61 |
+| 42 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,516 | 61 |
 | 42 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 361 | 219 |
 | 42 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 218 | 255 |
 | 42 | [Subnautica](games/s/subnautica.md) | 4.85 | 671 | 166 |
@@ -183,7 +183,7 @@
 | 181 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.71 | 0 | 504 |
 | 181 | [Barony](games/b/barony.md) | 4.71 | 73 | 367 |
 | 181 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 0 | 504 |
-| 181 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.71 | 76 | 359 |
+| 181 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.71 | 76 | 360 |
 | 181 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 0 | 504 |
 | 181 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,642 | 50 |
 | 181 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 434 |
@@ -369,7 +369,7 @@
 | 361 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 377 | 214 |
 | 361 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.61 | 74 | 363 |
 | 361 | [Darkwood](games/d/darkwood.md) | 4.61 | 322 | 227 |
-| 361 | [Dead Space](games/d/dead_space.md) | 4.61 | 76 | 359 |
+| 361 | [Dead Space](games/d/dead_space.md) | 4.61 | 77 | 359 |
 | 361 | [DOOM 3](games/d/doom_3.md) | 4.61 | 67 | 374 |
 | 361 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 40,544 | 12 |
 | 361 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 364 | 218 |
@@ -578,7 +578,7 @@
 | 575 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,978 | 109 |
 | 575 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 0 | 504 |
 | 575 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 273 | 240 |
-| 575 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 240 | 249 |
+| 575 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 243 | 248 |
 | 575 | [Maneater](games/m/maneater.md) | 4.49 | 13,564 | 26 |
 | 575 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 626 | 171 |
 | 575 | [Solitairica](games/s/solitairica.md) | 4.49 | 83 | 353 |
@@ -630,7 +630,7 @@
 | 622 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 10,785 | 34 |
 | 622 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 29 | 459 |
 | 622 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 504 |
-| 622 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 862 | 150 |
+| 622 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 863 | 150 |
 | 622 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 51 | 395 |
 | 622 | [SMITE](games/s/smite.md) | 4.45 | 3,995 | 78 |
 | 622 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.45 | 0 | 504 |
@@ -841,7 +841,7 @@
 | 835 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 0 | 504 |
 | 835 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 22 | 485 |
 | 835 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 0 | 504 |
-| 835 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 76 | 359 |
+| 835 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 76 | 360 |
 | 835 | [Somerville](games/s/somerville.md) | 4.20 | 0 | 504 |
 | 835 | [The Bridge](games/t/the_bridge.md) | 4.20 | 0 | 504 |
 | 845 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 398 |
@@ -917,7 +917,7 @@
 | 915 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 372 | 217 |
 | 915 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,654 | 69 |
 | 917 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 504 |
-| 917 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 2,599 | 92 |
+| 917 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 2,609 | 92 |
 | 919 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 0 | 504 |
 | 920 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.96 | 0 | 504 |
 | 921 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 409 |
