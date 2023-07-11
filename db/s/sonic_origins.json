@@ -1273,9 +1273,9 @@
       "ID": "ID_28_ART_MANIA",
       "SetID": "7o8nc5m",
       "Name": "Art Appreciator",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 58
+      "UsersEstimate": 61
     },
     {
       "ID": "ID_29_HERO_FOR_ALL",
@@ -1345,8 +1345,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-07-02T16:58:08.0160842+00:00",
-  "LastChanged_Achievements": "2023-07-11T03:21:45.0178827+00:00",
+  "LastChanged_Achievements": "2023-07-11T04:07:42.4989896+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:17.4042216+00:00",
-  "LastUpdate_Ratings": "2023-07-11T03:12:53.1556712+00:00",
-  "LastUpdate_Achievements": "2023-07-11T03:21:45.0179117+00:00"
+  "LastUpdate_Ratings": "2023-07-11T03:58:37.6250604+00:00",
+  "LastUpdate_Achievements": "2023-07-11T04:07:42.4990131+00:00"
 }

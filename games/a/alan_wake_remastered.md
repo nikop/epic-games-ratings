@@ -6,12 +6,12 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 34.00% | ~19,443 |
+| Follow the Light | 34.00% | ~19,444 |
 | Let There Be Light | 27.00% | ~15,440 |
-| Float Like a Butterfly | 26.00% | ~14,868 |
+| Float Like a Butterfly | 26.00% | ~14,869 |
 | Nordic Walking | 21.00% | ~12,009 |
 | Bright Falls' Finest | 20.00% | ~11,437 |
-| Under a Thin Layer of Skin | 18.00% | ~10,293 |
+| Under a Thin Layer of Skin | 18.00% | ~10,294 |
 | Park Ranger | 15.00% | ~8,578 |
 | Paging Mr. Wake | 15.00% | ~8,578 |
 | Back! Back, I Say! | 14.00% | ~8,006 |
@@ -21,14 +21,14 @@ Number of Ratings: 524  (23.09.2022)
 | They're Heeeeeere! | 12.00% | ~6,862 |
 | Sound and Fury | 12.00% | ~6,862 |
 | Missed by a Mile | 12.00% | ~6,862 |
-| Heavy Metal | 11.00% | ~6,290 |
-| Iron Horse | 11.00% | ~6,290 |
-| The Six-Gun Scribe | 11.00% | ~6,290 |
-| Collateral Carnage | 11.00% | ~6,290 |
-| Come One, Come All | 11.00% | ~6,290 |
-| Perchance to Dream | 10.00% | ~5,718 |
-| It's Not Just a Typewriter Brand | 10.00% | ~5,718 |
-| Thunder and Lightning | 10.00% | ~5,718 |
+| Heavy Metal | 11.00% | ~6,291 |
+| Iron Horse | 11.00% | ~6,291 |
+| The Six-Gun Scribe | 11.00% | ~6,291 |
+| Collateral Carnage | 11.00% | ~6,291 |
+| Come One, Come All | 11.00% | ~6,291 |
+| Perchance to Dream | 10.00% | ~5,719 |
+| It's Not Just a Typewriter Brand | 10.00% | ~5,719 |
+| Thunder and Lightning | 10.00% | ~5,719 |
 | Gatekeeper | 9.00% | ~5,147 |
 | The Lady of the Light | 9.00% | ~5,147 |
 | Two For the Price of One | 9.00% | ~5,147 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~57 |
 | No Punctuation | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,185 (Ranked 81)  
+Progressed: 57,187 (Ranked 81)  
 Completed: 57 (0.10%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 57 (0.10%) (Ranked 183)
 | 2023-07-08 | 57,062 | 57 |
 | 2023-07-09 | 57,124 | 57 |
 | 2023-07-10 | 57,171 | 57 |
-| 2023-07-11 | 57,185 | 57 |
+| 2023-07-11 | 57,187 | 57 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

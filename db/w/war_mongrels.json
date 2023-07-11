@@ -1527,9 +1527,9 @@
       "ID": "ACH_NEST1",
       "SetID": "1j25agn",
       "Name": "Bullseye!",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 82
     },
     {
       "ID": "ACH_NEST2",
@@ -1567,8 +1567,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-06-24T07:57:51.3010975+00:00",
-  "LastChanged_Achievements": "2023-07-11T03:19:07.024809+00:00",
+  "LastChanged_Achievements": "2023-07-11T04:05:07.0661049+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:50.0000159+00:00",
-  "LastUpdate_Ratings": "2023-07-11T03:12:33.3728716+00:00",
-  "LastUpdate_Achievements": "2023-07-11T03:19:07.024869+00:00"
+  "LastUpdate_Ratings": "2023-07-11T03:58:17.3628232+00:00",
+  "LastUpdate_Achievements": "2023-07-11T04:05:07.0661506+00:00"
 }

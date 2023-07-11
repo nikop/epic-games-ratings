@@ -2446,7 +2446,7 @@
       "Count": 253
     }
   ],
-  "EOS_Progressed": 231942,
+  "EOS_Progressed": 231943,
   "EOS_Completed": 766,
   "EOS_NewPlayers": 1070,
   "EOS_NewCompleters": 8,
@@ -11051,6 +11051,11 @@
       "Time": "2023-07-11T03:16:13.3866337+00:00",
       "NumProgressed": 231942,
       "NumCompleted": 766
+    },
+    {
+      "Time": "2023-07-11T04:03:14.3677474+00:00",
+      "NumProgressed": 231943,
+      "NumCompleted": 766
     }
   ],
   "TotalAchievements": 39,
@@ -11126,7 +11131,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 211067
+      "UsersEstimate": 211068
     },
     {
       "ID": "AchievementClownID",
@@ -11190,7 +11195,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 122929
+      "UsersEstimate": 122930
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -11230,7 +11235,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 132207
+      "UsersEstimate": 132208
     },
     {
       "ID": "AchievementLootBoxID",
@@ -11294,7 +11299,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 171637
+      "UsersEstimate": 171638
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -11310,7 +11315,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 115971
+      "UsersEstimate": 115972
     },
     {
       "ID": "AchievementStreakingID",
@@ -11334,7 +11339,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 127568
+      "UsersEstimate": 127569
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -11358,7 +11363,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 150762
+      "UsersEstimate": 150763
     },
     {
       "ID": "AchievementWhaleID",
@@ -11373,7 +11378,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 231942,
+      "Progressed": 231943,
       "Completed": 766
     }
   ],
@@ -11381,8 +11386,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-07-10T18:01:42.9490167+00:00",
-  "LastChanged_Achievements": "2023-07-11T03:16:13.3866332+00:00",
+  "LastChanged_Achievements": "2023-07-11T04:03:14.3677468+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:00.698233+00:00",
-  "LastUpdate_Ratings": "2023-07-11T03:15:44.2784534+00:00",
-  "LastUpdate_Achievements": "2023-07-11T03:16:13.3867153+00:00"
+  "LastUpdate_Ratings": "2023-07-11T04:01:23.7676685+00:00",
+  "LastUpdate_Achievements": "2023-07-11T04:03:14.3678068+00:00"
 }

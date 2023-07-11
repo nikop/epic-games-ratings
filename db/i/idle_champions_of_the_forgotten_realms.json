@@ -4888,9 +4888,9 @@
       "Count": 3295
     }
   ],
-  "EOS_Progressed": 209936,
+  "EOS_Progressed": 209946,
   "EOS_Completed": 2045,
-  "EOS_NewPlayers": 4204,
+  "EOS_NewPlayers": 4198,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -13543,6 +13543,11 @@
       "Time": "2023-07-11T03:19:35.7375939+00:00",
       "NumProgressed": 209936,
       "NumCompleted": 2045
+    },
+    {
+      "Time": "2023-07-11T04:05:36.036663+00:00",
+      "NumProgressed": 209946,
+      "NumCompleted": 2045
     }
   ],
   "TotalAchievements": 503,
@@ -14418,7 +14423,7 @@
       "Name": "Were-verpowered",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 12596
+      "UsersEstimate": 12597
     },
     {
       "ID": "objective_completed_1203",
@@ -14530,7 +14535,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8397
+      "UsersEstimate": 8398
     },
     {
       "ID": "objective_completed_130",
@@ -14666,7 +14671,7 @@
       "Name": "The Forbidden City",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1889
+      "UsersEstimate": 1890
     },
     {
       "ID": "objective_completed_15",
@@ -14706,7 +14711,7 @@
       "Name": "Captured!",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1679
+      "UsersEstimate": 1680
     },
     {
       "ID": "objective_completed_155",
@@ -14794,7 +14799,7 @@
       "Name": "Wisdom Check",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1889
+      "UsersEstimate": 1890
     },
     {
       "ID": "objective_completed_171",
@@ -14818,7 +14823,7 @@
       "Name": "A Grand Puzzle",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1679
+      "UsersEstimate": 1680
     },
     {
       "ID": "objective_completed_180",
@@ -14898,7 +14903,7 @@
       "Name": "The Mists of Ravenloft",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1889
+      "UsersEstimate": 1890
     },
     {
       "ID": "objective_completed_209",
@@ -15194,7 +15199,7 @@
       "Name": "Attack on the Manor",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1889
+      "UsersEstimate": 1890
     },
     {
       "ID": "objective_completed_284",
@@ -15226,7 +15231,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 31490
+      "UsersEstimate": 31492
     },
     {
       "ID": "objective_completed_34",
@@ -15258,7 +15263,7 @@
       "Name": "Treasure Hunters",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1679
+      "UsersEstimate": 1680
     },
     {
       "ID": "objective_completed_378",
@@ -15402,7 +15407,7 @@
       "Name": "Nimble Escape",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1679
+      "UsersEstimate": 1680
     },
     {
       "ID": "objective_completed_399",
@@ -15738,7 +15743,7 @@
       "Name": "The Dead Three",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1889
+      "UsersEstimate": 1890
     },
     {
       "ID": "objective_completed_546",
@@ -15912,9 +15917,9 @@
       "ID": "objective_completed_570",
       "SetID": "cc37lbc",
       "Name": "The Darkness Runs Deeper",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1470
+      "UsersEstimate": 1680
     },
     {
       "ID": "objective_completed_571",
@@ -16698,7 +16703,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 23093
+      "UsersEstimate": 23094
     },
     {
       "ID": "objective_completed_70",
@@ -16754,7 +16759,7 @@
       "Name": "Rude Welcome",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1679
+      "UsersEstimate": 1680
     },
     {
       "ID": "objective_completed_79",
@@ -17298,7 +17303,7 @@
       "Name": "Pure Energy",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8397
+      "UsersEstimate": 8398
     },
     {
       "ID": "objective_completed_902",
@@ -17434,7 +17439,7 @@
       "Name": "The Haunted Jungle",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1679
+      "UsersEstimate": 1680
     },
     {
       "ID": "objective_completed_96",
@@ -17577,21 +17582,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 176210,
+      "Progressed": 176220,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 209936,
+      "Progressed": 209946,
       "Completed": 2045
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-10T19:58:34.5812574+00:00",
-  "LastChanged_Achievements": "2023-07-11T03:19:35.7375933+00:00",
+  "LastChanged_Achievements": "2023-07-11T04:05:36.0366625+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:43.9043947+00:00",
-  "LastUpdate_Ratings": "2023-07-11T03:13:11.8570833+00:00",
-  "LastUpdate_Achievements": "2023-07-11T03:19:35.7405954+00:00"
+  "LastUpdate_Ratings": "2023-07-11T03:58:57.1748828+00:00",
+  "LastUpdate_Achievements": "2023-07-11T04:05:36.0389345+00:00"
 }

@@ -6,16 +6,16 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,490 |
-| The Mad Wizard | 11.00% | ~23,093 |
+| The Cursed Farmer | 15.00% | ~31,492 |
+| The Mad Wizard | 11.00% | ~23,094 |
 | The Ring of Regeneration | 7.00% | ~14,696 |
 | Are Ya Chicken? | 7.00% | ~14,696 |
-| Were-verpowered | 6.00% | ~12,596 |
+| Were-verpowered | 6.00% | ~12,597 |
 | Seeking Allies | 5.00% | ~10,497 |
 | Mad Cow Disease | 5.00% | ~10,497 |
 | Friendly Imps | 5.00% | ~10,497 |
-| A Persistent Buzzing | 4.00% | ~8,397 |
-| Pure Energy | 4.00% | ~8,397 |
+| A Persistent Buzzing | 4.00% | ~8,398 |
+| Pure Energy | 4.00% | ~8,398 |
 | Beast Mode | 3.00% | ~6,298 |
 | Terror in the Dark | 3.00% | ~6,298 |
 | Unearthed Evil | 3.00% | ~6,298 |
@@ -52,25 +52,25 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lost in the Deep | 1.00% | ~2,099 |
 | Easily Distracted | 1.00% | ~2,099 |
 | Rescue in the Jungle | 1.00% | ~2,099 |
-| The Forbidden City | 0.90% | ~1,889 |
-| Wisdom Check | 0.90% | ~1,889 |
-| The Mists of Ravenloft | 0.90% | ~1,889 |
-| Attack on the Manor | 0.90% | ~1,889 |
-| The Dead Three | 0.90% | ~1,889 |
-| Captured! | 0.80% | ~1,679 |
-| A Grand Puzzle | 0.80% | ~1,679 |
-| Treasure Hunters | 0.80% | ~1,679 |
-| Nimble Escape | 0.80% | ~1,679 |
+| The Forbidden City | 0.90% | ~1,890 |
+| Wisdom Check | 0.90% | ~1,890 |
+| The Mists of Ravenloft | 0.90% | ~1,890 |
+| Attack on the Manor | 0.90% | ~1,890 |
+| The Dead Three | 0.90% | ~1,890 |
+| Captured! | 0.80% | ~1,680 |
+| A Grand Puzzle | 0.80% | ~1,680 |
+| Treasure Hunters | 0.80% | ~1,680 |
+| Nimble Escape | 0.80% | ~1,680 |
+| The Darkness Runs Deeper | 0.80% | ~1,680 |
 | The Giant's Bane Tavern | 0.80% | ~1,410 |
-| Rude Welcome | 0.80% | ~1,679 |
-| The Haunted Jungle | 0.80% | ~1,679 |
+| Rude Welcome | 0.80% | ~1,680 |
+| The Haunted Jungle | 0.80% | ~1,680 |
 | Tomb of the Nine Gods | 0.70% | ~1,470 |
 | Family Entanglements | 0.70% | ~1,470 |
 | The Immortal Warrior | 0.70% | ~1,470 |
 | Fugitives | 0.70% | ~1,470 |
 | Hopelessly Lost | 0.70% | ~1,470 |
 | Crowded Streets | 0.70% | ~1,470 |
-| The Darkness Runs Deeper | 0.70% | ~1,470 |
 | Market Fluctuations | 0.70% | ~1,470 |
 | Durable Deep | 0.70% | ~1,470 |
 | The Wyrmheart Mine | 0.60% | ~1,260 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209,936 (Ranked 52)  
+Progressed: 209,946 (Ranked 52)  
 Completed: 2,045 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -592,7 +592,7 @@ Completed: 2,045 (0.97%) (Ranked 102)
 | 2023-07-08 | 208,782 | 2,041 |
 | 2023-07-09 | 209,384 | 2,043 |
 | 2023-07-10 | 209,861 | 2,045 |
-| 2023-07-11 | 209,936 | 2,045 |
+| 2023-07-11 | 209,946 | 2,045 |
 ## Awards
 Max (Diverse Characters): 5,021  (Ranked 65)  
 Sum: 30,473 (Ranked 38)  

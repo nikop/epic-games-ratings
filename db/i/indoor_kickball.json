@@ -350,49 +350,49 @@
       "ID": "1",
       "SetID": "39djiaj",
       "Name": "First Win",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "10",
       "SetID": "39djiaj",
       "Name": "Character Unlocked",
-      "Percentage": 82,
+      "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "11",
       "SetID": "39djiaj",
       "Name": "Hat Unlocked",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "12",
       "SetID": "39djiaj",
       "Name": "Accessory Unlocked",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "13",
       "SetID": "39djiaj",
       "Name": "Kickball Unlocked",
-      "Percentage": 66,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "14",
       "SetID": "39djiaj",
       "Name": "Settle Down",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "15",
@@ -414,9 +414,9 @@
       "ID": "17",
       "SetID": "39djiaj",
       "Name": "True Story!",
-      "Percentage": 39,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "18",
@@ -438,9 +438,9 @@
       "ID": "2",
       "SetID": "39djiaj",
       "Name": "Homer",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "20",
@@ -574,9 +574,9 @@
       "ID": "35",
       "SetID": "39djiaj",
       "Name": "Butter Fingers",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "37",
@@ -590,9 +590,9 @@
       "ID": "38",
       "SetID": "39djiaj",
       "Name": "Have a good trip!",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "39",
@@ -677,8 +677,8 @@
   ],
   "FirstSeen": "2023-05-27T21:59:02.7354993+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:07.9162458+00:00",
-  "LastChanged_Achievements": "2023-07-11T03:21:49.1036246+00:00",
+  "LastChanged_Achievements": "2023-07-11T04:07:46.3974297+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:16.0821032+00:00",
-  "LastUpdate_Ratings": "2023-07-11T03:14:23.0519041+00:00",
-  "LastUpdate_Achievements": "2023-07-11T03:21:49.1036602+00:00"
+  "LastUpdate_Ratings": "2023-07-11T04:00:04.9320071+00:00",
+  "LastUpdate_Achievements": "2023-07-11T04:07:46.3974564+00:00"
 }

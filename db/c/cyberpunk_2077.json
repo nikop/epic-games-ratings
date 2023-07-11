@@ -8687,9 +8687,9 @@
       "Count": 5292
     }
   ],
-  "EOS_Progressed": 864957,
+  "EOS_Progressed": 864958,
   "EOS_Completed": 1852,
-  "EOS_NewPlayers": 1486,
+  "EOS_NewPlayers": 1479,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -17472,6 +17472,11 @@
       "Time": "2023-07-11T03:21:48.5647983+00:00",
       "NumProgressed": 864957,
       "NumCompleted": 1852
+    },
+    {
+      "Time": "2023-07-11T04:07:45.8323312+00:00",
+      "NumProgressed": 864958,
+      "NumCompleted": 1852
     }
   ],
   "TotalAchievements": 44,
@@ -17523,7 +17528,7 @@
       "Name": "To Protect and Serve",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 112444
+      "UsersEstimate": 112445
     },
     {
       "ID": "Fortuneteller",
@@ -17571,7 +17576,7 @@
       "Name": "Master Crafter",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 112444
+      "UsersEstimate": 112445
     },
     {
       "ID": "IAmMaxTac",
@@ -17579,7 +17584,7 @@
       "Name": "I Am The Law",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 112444
+      "UsersEstimate": 112445
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -17651,7 +17656,7 @@
       "Name": "Life of the Road",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 172991
+      "UsersEstimate": 172992
     },
     {
       "ID": "Roleplayer",
@@ -17723,7 +17728,7 @@
       "Name": "The Lovers",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 294085
+      "UsersEstimate": 294086
     },
     {
       "ID": "TheStar",
@@ -17803,7 +17808,7 @@
       "Name": "Judy vs Night City",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 112444
+      "UsersEstimate": 112445
     },
     {
       "ID": "VForVendetta",
@@ -17834,15 +17839,15 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 864957,
+      "Progressed": 864958,
       "Completed": 1852
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-07-11T03:12:52.3711587+00:00",
-  "LastChanged_Achievements": "2023-07-11T03:21:48.5647974+00:00",
+  "LastChanged_Achievements": "2023-07-11T04:07:45.8323308+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:16.9313784+00:00",
-  "LastUpdate_Ratings": "2023-07-11T03:12:52.3711595+00:00",
-  "LastUpdate_Achievements": "2023-07-11T03:21:48.5648898+00:00"
+  "LastUpdate_Ratings": "2023-07-11T03:58:36.8232816+00:00",
+  "LastUpdate_Achievements": "2023-07-11T04:07:45.8323995+00:00"
 }
