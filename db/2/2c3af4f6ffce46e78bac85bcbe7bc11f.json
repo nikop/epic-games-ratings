@@ -3,9 +3,9 @@
   "Name": "Recollection",
   "ProductSlug": "recollection-71f3a4",
   "Ranking_EOS_Progress": 395,
-  "Ranking_EOS_Completed": 22,
+  "Ranking_EOS_Completed": 12,
   "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
     "PcReleaseDate": "2023-04-17T15:00:00+00:00",
@@ -20,10 +20,10 @@
   "ReviewsDisabled": false,
   "Tags": [],
   "EOS_Progressed": 11,
-  "EOS_Completed": 1,
+  "EOS_Completed": 2,
   "EOS_NewPlayers": 2,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 9.09,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 18.18,
   "EosHistory": [
     {
       "Time": "2023-06-14T15:00:16.7509072+00:00",
@@ -84,6 +84,11 @@
       "Time": "2023-07-10T21:05:25.6722178+00:00",
       "NumProgressed": 11,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-11T22:05:34.9212669+00:00",
+      "NumProgressed": 11,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 26,
@@ -269,9 +274,9 @@
       "ID": "Tree",
       "SetID": "6j29jep",
       "Name": "Something firmly rooted...",
-      "Percentage": 36,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Tree_Fragile",
@@ -303,12 +308,12 @@
       "ID": "6j29jep",
       "IsBase": true,
       "Progressed": 11,
-      "Completed": 1
+      "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2023-05-31T12:00:38.8856808+00:00",
-  "LastChanged_Achievements": "2023-07-11T21:04:22.2649849+00:00",
+  "LastChanged_Achievements": "2023-07-11T22:05:34.9212662+00:00",
   "LastUpdate_AppInfo": "2023-07-05T13:16:28.9400302+00:00",
-  "LastUpdate_Ratings": "2023-07-11T20:57:09.7394225+00:00",
-  "LastUpdate_Achievements": "2023-07-11T21:04:22.265+00:00"
+  "LastUpdate_Ratings": "2023-07-11T21:57:26.0748442+00:00",
+  "LastUpdate_Achievements": "2023-07-11T22:05:34.9213049+00:00"
 }

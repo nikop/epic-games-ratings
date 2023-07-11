@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1054,
+  "EOS_Progressed": 1056,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -560,6 +560,11 @@
       "Time": "2023-07-11T21:03:17.055067+00:00",
       "NumProgressed": 1054,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-11T22:04:18.5465947+00:00",
+      "NumProgressed": 1056,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -667,7 +672,7 @@
       "Name": "Martian explorer",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ALLTRACKSTARTARUS",
@@ -699,7 +704,7 @@
       "Name": "Rookie No More",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "CAREERADVANCED",
@@ -827,7 +832,7 @@
       "Name": "Redout Grandmaster",
       "Percentage": 0.9,
       "XP": 80,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "JOIN50ONLINE",
@@ -875,7 +880,7 @@
       "Name": "Suit up",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "ONEMODULE",
@@ -883,7 +888,7 @@
       "Name": "Increasing your Power Level",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "ONEPAINT",
@@ -907,7 +912,7 @@
       "Name": "Put it on a shelf",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "OVERTAKE100HUMANS",
@@ -955,7 +960,7 @@
       "Name": "Grandslam",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "WINLAST",
@@ -986,7 +991,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1054,
+      "Progressed": 1056,
       "Completed": 0
     }
   ],
@@ -994,8 +999,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-07-11T21:03:17.0550666+00:00",
+  "LastChanged_Achievements": "2023-07-11T22:04:18.5465942+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:48.1905608+00:00",
-  "LastUpdate_Ratings": "2023-07-11T20:58:11.1638149+00:00",
-  "LastUpdate_Achievements": "2023-07-11T21:03:17.0553606+00:00"
+  "LastUpdate_Ratings": "2023-07-11T21:58:57.6152891+00:00",
+  "LastUpdate_Achievements": "2023-07-11T22:04:18.5466411+00:00"
 }

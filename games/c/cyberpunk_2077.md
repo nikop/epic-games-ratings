@@ -6,19 +6,19 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~588,266 |
-| Right Back At Ya | 38.00% | ~328,737 |
-| The Lovers | 34.00% | ~294,133 |
-| Stanislavski's Method | 28.00% | ~242,227 |
-| The Wheel of Fortune | 26.00% | ~224,925 |
-| The Hermit | 24.00% | ~207,623 |
-| Christmas Tree Attack | 22.00% | ~190,321 |
-| True Soldier | 22.00% | ~190,321 |
-| The High Priestess | 21.00% | ~181,670 |
-| Legend of The Afterlife | 21.00% | ~181,670 |
-| Life of the Road | 20.00% | ~173,019 |
-| Full Body Conversion | 18.00% | ~155,717 |
-| The World | 17.00% | ~147,066 |
+| The Fool | 68.00% | ~588,269 |
+| Right Back At Ya | 38.00% | ~328,739 |
+| The Lovers | 34.00% | ~294,135 |
+| Stanislavski's Method | 28.00% | ~242,229 |
+| The Wheel of Fortune | 26.00% | ~224,927 |
+| The Hermit | 24.00% | ~207,624 |
+| Christmas Tree Attack | 22.00% | ~190,322 |
+| True Soldier | 22.00% | ~190,322 |
+| The High Priestess | 21.00% | ~181,671 |
+| Legend of The Afterlife | 21.00% | ~181,671 |
+| Life of the Road | 20.00% | ~173,020 |
+| Full Body Conversion | 18.00% | ~155,718 |
+| The World | 17.00% | ~147,067 |
 | Bushido and Chill | 16.00% | ~138,416 |
 | Gun Fu | 15.00% | ~129,765 |
 | True Warrior | 15.00% | ~129,765 |
@@ -49,9 +49,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | Daemon In The Shell | 2.00% | ~17,302 |
 | The Devil | 2.00% | ~17,302 |
 | Gunslinger | 1.00% | ~8,651 |
-| Rough Landing | 0.50% | ~4,325 |
+| Rough Landing | 0.50% | ~4,326 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 865,097 (Ranked 14)  
+Progressed: 865,102 (Ranked 14)  
 Completed: 1,856 (0.21%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,10 +133,10 @@ Completed: 1,856 (0.21%) (Ranked 161)
 | 2023-07-08 | 864,543 | 1,842 |
 | 2023-07-09 | 864,741 | 1,847 |
 | 2023-07-10 | 864,933 | 1,851 |
-| 2023-07-11 | 865,097 | 1,856 |
+| 2023-07-11 | 865,102 | 1,856 |
 ## Awards
 Max (Character Customization): 72,863  (Ranked 9)  
-Sum: 190,992 (Ranked 13)  
+Sum: 191,009 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -146,7 +146,7 @@ Diff (max vs sum): -4
 | This game is Great for Beginners | 8,387 |
 | This game has Amazing Storytelling | 8,382 |
 | This game is Extremely Fun | 8,266 |
-| This game is Highly Recommended | 8,233 |
+| This game is Highly Recommended | 8,250 |
 | This game is Relaxing | 8,200 |
 | This game has Quickly Understood Controls | 8,073 |
 | This game has Amazing Characters | 8,046 |
@@ -327,4 +327,4 @@ Diff (max vs sum): -4
 | 2023-07-08 | 4.62 | - | 72,573 | 190,035 |
 | 2023-07-09 | 4.62 | - | 72,679 | 190,405 |
 | 2023-07-10 | 4.62 | - | 72,774 | 190,719 |
-| 2023-07-11 | 4.62 | - | 72,863 | 190,992 |
+| 2023-07-11 | 4.62 | - | 72,863 | 191,009 |

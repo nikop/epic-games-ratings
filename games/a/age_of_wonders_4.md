@@ -10,6 +10,7 @@ Rating: 4.62 (Ranked 346)
 | Realm Estate | 3.00% | ~149 |
 | A Wonderful Discovery | 3.00% | ~149 |
 | Walls Cannot Stop Us | 3.00% | ~149 |
+| Bone Peddler | 3.00% | ~149 |
 | From Friends to Family | 3.00% | ~149 |
 | Stronger Together | 3.00% | ~149 |
 | Magical Synergy | 3.00% | ~149 |
@@ -24,7 +25,6 @@ Rating: 4.62 (Ranked 346)
 | Full Ascension | 2.00% | ~99 |
 | Return of the Wizard King | 2.00% | ~99 |
 | Arch Mage | 2.00% | ~99 |
-| Bone Peddler | 2.00% | ~99 |
 | Digging for Treasure | 2.00% | ~99 |
 | Preparation Is Everything | 2.00% | ~99 |
 | In a Liege of Your Own | 2.00% | ~99 |

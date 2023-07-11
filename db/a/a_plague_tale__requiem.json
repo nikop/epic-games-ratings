@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 288,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -352,7 +352,7 @@
   ],
   "EOS_Progressed": 12006,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -5158,9 +5158,9 @@
       "ID": "ACH_09",
       "SetID": "9d4cf4c",
       "Name": "Tales and Revelations",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 6723
+      "UsersEstimate": 6843
     },
     {
       "ID": "ACH_10",
@@ -5383,8 +5383,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-07-11T18:59:53.0039364+00:00",
-  "LastChanged_Achievements": "2023-07-11T21:06:26.1573241+00:00",
+  "LastChanged_Achievements": "2023-07-11T22:08:00.4631372+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:37.015771+00:00",
-  "LastUpdate_Ratings": "2023-07-11T20:59:25.1235509+00:00",
-  "LastUpdate_Achievements": "2023-07-11T21:06:26.1573641+00:00"
+  "LastUpdate_Ratings": "2023-07-11T22:00:35.8916796+00:00",
+  "LastUpdate_Achievements": "2023-07-11T22:08:00.4631911+00:00"
 }

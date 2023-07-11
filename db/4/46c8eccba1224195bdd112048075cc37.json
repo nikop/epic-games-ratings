@@ -399,9 +399,9 @@
       "ID": "Leprechaun",
       "SetID": "7g1kpc8",
       "Name": "Leprechaun",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "MonsterSlayer",
@@ -462,8 +462,8 @@
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-07-11T21:04:08.5249677+00:00",
+  "LastChanged_Achievements": "2023-07-11T22:05:15.6592953+00:00",
   "LastUpdate_AppInfo": "2023-07-10T08:57:08.5318209+00:00",
-  "LastUpdate_Ratings": "2023-07-11T20:57:15.5325212+00:00",
-  "LastUpdate_Achievements": "2023-07-11T21:04:08.5250001+00:00"
+  "LastUpdate_Ratings": "2023-07-11T21:57:32.7576153+00:00",
+  "LastUpdate_Achievements": "2023-07-11T22:05:15.6593164+00:00"
 }

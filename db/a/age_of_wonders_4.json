@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -276,7 +276,7 @@
   "Tags": [],
   "EOS_Progressed": 4972,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5267,9 +5267,9 @@
       "ID": "26",
       "SetID": "3aa2279",
       "Name": "Bone Peddler",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 149
     },
     {
       "ID": "27",
@@ -5538,8 +5538,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-07-11T11:00:15.2595187+00:00",
-  "LastChanged_Achievements": "2023-07-11T21:00:49.0199327+00:00",
+  "LastChanged_Achievements": "2023-07-11T22:02:38.0049143+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:44.6563449+00:00",
-  "LastUpdate_Ratings": "2023-07-11T20:59:28.777661+00:00",
-  "LastUpdate_Achievements": "2023-07-11T21:00:49.019988+00:00"
+  "LastUpdate_Ratings": "2023-07-11T22:00:41.1582699+00:00",
+  "LastUpdate_Achievements": "2023-07-11T22:02:38.0049938+00:00"
 }

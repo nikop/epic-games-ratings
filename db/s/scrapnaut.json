@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -135,9 +135,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 296,
+  "EOS_Progressed": 297,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -775,6 +775,11 @@
       "Time": "2023-07-11T13:20:17.7162201+00:00",
       "NumProgressed": 296,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-11T22:03:33.9645288+00:00",
+      "NumProgressed": 297,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -818,7 +823,7 @@
       "Name": "Scrap Master",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ACH_COLLECT_10_HERBS",
@@ -882,7 +887,7 @@
       "Name": "Cook",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_CUT_100_TREES",
@@ -920,9 +925,9 @@
       "ID": "ACH_FIRST_BASE",
       "SetID": "7c4cldc",
       "Name": "My New Home",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH_KILL_100",
@@ -938,7 +943,7 @@
       "Name": "Scrapper",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_KILL_50",
@@ -978,7 +983,7 @@
       "Name": "Mythical Smelter",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_PERMADEATH",
@@ -1026,14 +1031,14 @@
       "Name": "Teleport",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     }
   ],
   "AchievementSets": [
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 296,
+      "Progressed": 297,
       "Completed": 1
     }
   ],
@@ -1041,8 +1046,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-07-11T21:02:25.5609476+00:00",
+  "LastChanged_Achievements": "2023-07-11T22:03:33.9645279+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:16.8374592+00:00",
-  "LastUpdate_Ratings": "2023-07-11T20:58:30.1956096+00:00",
-  "LastUpdate_Achievements": "2023-07-11T21:02:25.5609684+00:00"
+  "LastUpdate_Ratings": "2023-07-11T21:59:25.3463428+00:00",
+  "LastUpdate_Achievements": "2023-07-11T22:03:33.9645568+00:00"
 }

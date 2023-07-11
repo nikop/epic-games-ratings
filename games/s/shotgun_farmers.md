@@ -17,7 +17,7 @@
 | Amateur Survivor | 26.00% | ~36 |
 | Bouncemato | 23.00% | ~32 |
 | 10K | 21.00% | ~40 |
-| 15K | 19.00% | ~36 |
+| 15K | 20.00% | ~38 |
 | Drinking Problem | 19.00% | ~36 |
 | Grave Digger | 18.00% | ~25 |
 | Professional Survivor | 17.00% | ~24 |

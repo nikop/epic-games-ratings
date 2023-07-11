@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The secret passage | 57.00% | ~43 |
-| Seth's office | 54.00% | ~41 |
+| The secret passage | 58.00% | ~44 |
+| Seth's office | 55.00% | ~42 |
 | Across the lake | 50.00% | ~38 |
-| First document retrieved | 47.00% | ~36 |
-| There is something strange here... | 47.00% | ~36 |
+| First document retrieved | 49.00% | ~37 |
+| There is something strange here... | 49.00% | ~37 |
 | Curious by nature | 42.00% | ~32 |
 | A lonely death | 36.00% | ~27 |
 | An ear for music | 34.00% | ~26 |
