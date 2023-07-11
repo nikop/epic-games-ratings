@@ -103,7 +103,7 @@
 | 99 | [Journey](games/j/journey.md) | 4.78 | 0 | 504 |
 | 99 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 734 | 159 |
 | 99 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,347 | 103 |
-| 99 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,317 | 126 |
+| 99 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,317 | 127 |
 | 99 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 922 | 147 |
 | 99 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 504 |
 | 107 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 3,603 | 81 |
@@ -422,7 +422,7 @@
 | 413 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 213 | 262 |
 | 413 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.59 | 85 | 348 |
 | 422 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.58 | 0 | 504 |
-| 422 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 58,836 | 11 |
+| 422 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 58,874 | 11 |
 | 422 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 161 | 288 |
 | 422 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 504 |
 | 422 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 8,321 | 40 |
@@ -444,7 +444,7 @@
 | 439 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 0 | 504 |
 | 439 | [Hob](games/h/hob.md) | 4.57 | 0 | 504 |
 | 439 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,555 | 44 |
-| 439 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,154 | 90 |
+| 439 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,156 | 90 |
 | 439 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.57 | 4,909 | 66 |
 | 439 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 122 | 308 |
 | 439 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 504 |
@@ -478,7 +478,7 @@
 | 454 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,146 | 75 |
 | 477 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.55 | 0 | 504 |
 | 477 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 504 |
-| 477 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,315 | 127 |
+| 477 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,319 | 126 |
 | 477 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 221 | 253 |
 | 477 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.55 | 150 | 292 |
 | 477 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.55 | 0 | 504 |
@@ -719,6 +719,7 @@
 | 711 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 504 |
 | 711 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.38 | 0 | 504 |
 | 711 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.38 | 97 | 333 |
+| 720 | [Beyond Blue](games/b/beyond_blue.md) | 4.37 | 0 | 504 |
 | 720 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 504 |
 | 720 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,141 | 107 |
 | 720 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 504 |
@@ -726,17 +727,16 @@
 | 720 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.37 | 0 | 504 |
 | 720 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.37 | 40 | 420 |
 | 720 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 32 | 447 |
-| 727 | [Beyond Blue](games/b/beyond_blue.md) | 4.36 | 0 | 504 |
-| 727 | [Core](games/c/core.md) | 4.36 | 742 | 158 |
-| 727 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 171 | 284 |
-| 727 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 95 | 337 |
-| 727 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,566 | 29 |
-| 727 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 504 |
-| 727 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 474 |
-| 727 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 48 | 404 |
-| 727 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.36 | 59 | 387 |
-| 727 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 100 | 329 |
-| 727 | [ZOMBI](games/z/zombi.md) | 4.36 | 0 | 504 |
+| 728 | [Core](games/c/core.md) | 4.36 | 742 | 158 |
+| 728 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 171 | 284 |
+| 728 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 95 | 337 |
+| 728 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,566 | 29 |
+| 728 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 504 |
+| 728 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 474 |
+| 728 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 48 | 404 |
+| 728 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.36 | 59 | 387 |
+| 728 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 100 | 329 |
+| 728 | [ZOMBI](games/z/zombi.md) | 4.36 | 0 | 504 |
 | 738 | [Among Trees](games/a/among_trees.md) | 4.35 | 0 | 504 |
 | 738 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 0 | 504 |
 | 738 | [Encased](games/e/encased.md) | 4.35 | 136 | 299 |

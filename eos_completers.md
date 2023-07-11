@@ -41,11 +41,11 @@
 | 39 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.91% |
 | 40 | [JARS](games/j/jars.md) | 4.84% |
 | 41 | [Bugsnax](games/b/bugsnax.md) | 4.69% |
-| 42 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.61% |
+| 42 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.60% |
 | 43 | [Without Escape](games/w/without_escape.md) | 4.55% |
 | 44 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.38% |
 | 45 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.90% |
-| 46 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.79% |
+| 46 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.78% |
 | 47 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
 | 48 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.61% |
 | 49 | [Doodle God](games/d/doodle_god.md) | 3.56% |
@@ -119,8 +119,8 @@
 | 117 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.63% |
 | 118 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 119 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.60% |
-| 120 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.59% |
-| 121 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.58% |
+| 120 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.58% |
+| 120 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.58% |
 | 122 | [Grindstone](games/g/grindstone.md) | 0.57% |
 | 123 | [Potion Permit](games/p/potion_permit.md) | 0.55% |
 | 123 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
