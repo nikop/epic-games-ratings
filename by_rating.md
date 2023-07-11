@@ -20,7 +20,7 @@
 | 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 16,847 | 20 |
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 135 | 300 |
 | 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,137 | 76 |
-| 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 158,003 | 6 |
+| 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 158,265 | 6 |
 | 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 10,568 | 35 |
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 485 |
 | 24 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 271 | 241 |
@@ -101,7 +101,7 @@
 | 99 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 0 | 504 |
 | 99 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,450 | 36 |
 | 99 | [Journey](games/j/journey.md) | 4.78 | 0 | 504 |
-| 99 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 732 | 159 |
+| 99 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 734 | 159 |
 | 99 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,347 | 103 |
 | 99 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,317 | 126 |
 | 99 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 922 | 147 |
@@ -149,7 +149,7 @@
 | 144 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 635 | 170 |
 | 144 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,773 | 48 |
 | 144 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.74 | 0 | 504 |
-| 144 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 34,300 | 14 |
+| 144 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 34,337 | 14 |
 | 144 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 0 | 504 |
 | 144 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 0 | 504 |
 | 144 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 0 | 504 |
@@ -303,33 +303,33 @@
 | 300 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,908 | 67 |
 | 300 | [F1® 23](games/f/f1®_23_standard_edition.md) | 4.65 | 0 | 504 |
 | 300 | [GigaBash](games/g/gigabash.md) | 4.65 | 0 | 504 |
+| 300 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 4.65 | 0 | 504 |
 | 300 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.65 | 0 | 504 |
 | 300 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 0 | 504 |
 | 300 | [Old World](games/o/old_world.md) | 4.65 | 218 | 255 |
 | 300 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 0 | 504 |
-| 300 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,657 | 16 |
+| 300 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,662 | 16 |
 | 300 | [Tennis Manager 2022](games/t/tennis_manager_2022.md) | 4.65 | 0 | 504 |
 | 300 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.65 | 21 | 492 |
-| 311 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 0 | 504 |
-| 311 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 0 | 504 |
-| 311 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 5,952 | 55 |
-| 311 | [Deceive Inc.](games/d/deceive_inc..md) | 4.64 | 0 | 504 |
-| 311 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.64 | 0 | 504 |
-| 311 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 4.64 | 0 | 504 |
-| 311 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 0 | 504 |
-| 311 | [HITMAN](games/h/hitman.md) | 4.64 | 201 | 270 |
-| 311 | [King of Retail](games/k/king_of_retail.md) | 4.64 | 0 | 504 |
-| 311 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 182 | 277 |
-| 311 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.64 | 0 | 504 |
-| 311 | [Mutazione](games/m/mutazione.md) | 4.64 | 0 | 504 |
-| 311 | [Rogue Lords](games/r/rogue_lords.md) | 4.64 | 0 | 504 |
-| 311 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.64 | 0 | 504 |
-| 311 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 24 | 476 |
-| 311 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.64 | 0 | 504 |
-| 311 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 66 | 376 |
-| 311 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.64 | 0 | 504 |
-| 311 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.64 | 0 | 504 |
-| 311 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 190 | 273 |
+| 312 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 0 | 504 |
+| 312 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 0 | 504 |
+| 312 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 5,952 | 55 |
+| 312 | [Deceive Inc.](games/d/deceive_inc..md) | 4.64 | 0 | 504 |
+| 312 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.64 | 0 | 504 |
+| 312 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 0 | 504 |
+| 312 | [HITMAN](games/h/hitman.md) | 4.64 | 201 | 270 |
+| 312 | [King of Retail](games/k/king_of_retail.md) | 4.64 | 0 | 504 |
+| 312 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 182 | 277 |
+| 312 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.64 | 0 | 504 |
+| 312 | [Mutazione](games/m/mutazione.md) | 4.64 | 0 | 504 |
+| 312 | [Rogue Lords](games/r/rogue_lords.md) | 4.64 | 0 | 504 |
+| 312 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.64 | 0 | 504 |
+| 312 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 24 | 476 |
+| 312 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.64 | 0 | 504 |
+| 312 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 66 | 376 |
+| 312 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.64 | 0 | 504 |
+| 312 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.64 | 0 | 504 |
+| 312 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 190 | 273 |
 | 331 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 21 | 492 |
 | 331 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.63 | 0 | 504 |
 | 331 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 114 | 316 |
@@ -525,7 +525,7 @@
 | 520 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 40 | 420 |
 | 520 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 29,798 | 15 |
 | 520 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 21 | 492 |
-| 520 | [Fall Guys](games/f/fall_guys.md) | 4.52 | 143,850 | 7 |
+| 520 | [Fall Guys](games/f/fall_guys.md) | 4.52 | 143,929 | 7 |
 | 520 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 516 | 190 |
 | 520 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 101 | 327 |
 | 520 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 148 | 293 |
@@ -557,7 +557,7 @@
 | 552 | [CryoFall](games/c/cryofall.md) | 4.50 | 0 | 504 |
 | 552 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 90 | 344 |
 | 552 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 504 |
-| 552 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 35,605 | 13 |
+| 552 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 35,622 | 13 |
 | 552 | [Duskers](games/d/duskers.md) | 4.50 | 0 | 504 |
 | 552 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 0 | 504 |
 | 552 | [First Class Trouble](games/f/first_class_trouble.md) | 4.50 | 111 | 320 |

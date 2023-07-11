@@ -5,17 +5,17 @@
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 299,864 | 4.68 | 239 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 197,197 | 4.68 | 239 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 185,634 | 4.19 | 845 |
-| 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 158,003 | 4.88 | 19 |
-| 7 | [Fall Guys](games/f/fall_guys.md) | 143,850 | 4.52 | 520 |
+| 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 158,265 | 4.88 | 19 |
+| 7 | [Fall Guys](games/f/fall_guys.md) | 143,929 | 4.52 | 520 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 112,742 | 4.69 | 217 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 72,774 | 4.62 | 346 |
 | 10 | [VALORANT](games/v/valorant.md) | 60,222 | 4.53 | 508 |
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 58,836 | 4.58 | 422 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 40,544 | 4.61 | 360 |
-| 13 | [Destiny 2](games/d/destiny_2.md) | 35,605 | 4.50 | 552 |
-| 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 34,300 | 4.74 | 144 |
+| 13 | [Destiny 2](games/d/destiny_2.md) | 35,622 | 4.50 | 552 |
+| 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 34,337 | 4.74 | 144 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 29,798 | 4.52 | 520 |
-| 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,657 | 4.65 | 300 |
+| 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,662 | 4.65 | 300 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 20,861 | 4.77 | 107 |
 | 18 | [Dauntless](games/d/dauntless.md) | 20,672 | 4.53 | 508 |
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 18,908 | 4.57 | 439 |
@@ -54,7 +54,7 @@
 | 52 | [Sifu](games/s/sifu.md) | 6,257 | 4.82 | 65 |
 | 53 | [DEATH STRANDING](games/d/death_stranding.md) | 6,217 | 4.77 | 107 |
 | 54 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,215 | 4.58 | 422 |
-| 55 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,952 | 4.64 | 311 |
+| 55 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,952 | 4.64 | 312 |
 | 56 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,909 | 4.79 | 87 |
 | 57 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,803 | 4.66 | 271 |
 | 58 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,628 | 4.82 | 65 |
@@ -158,7 +158,7 @@
 | 156 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 756 | 4.51 | 539 |
 | 157 | [Auto Chess](games/a/auto_chess.md) | 752 | 4.52 | 520 |
 | 158 | [Core](games/c/core.md) | 742 | 4.36 | 727 |
-| 159 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 732 | 4.78 | 99 |
+| 159 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 734 | 4.78 | 99 |
 | 160 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 722 | 4.50 | 552 |
 | 161 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 704 | 4.79 | 87 |
 | 162 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 702 | 4.86 | 28 |
@@ -269,14 +269,14 @@
 | 267 | [Brawlhalla](games/b/brawlhalla.md) | 202 | 4.60 | 390 |
 | 267 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 202 | 4.43 | 653 |
 | 267 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 202 | 4.35 | 738 |
-| 270 | [HITMAN](games/h/hitman.md) | 201 | 4.64 | 311 |
+| 270 | [HITMAN](games/h/hitman.md) | 201 | 4.64 | 312 |
 | 271 | [Relicta](games/r/relicta.md) | 199 | 4.15 | 868 |
 | 272 | [Crashlands](games/c/crashlands.md) | 191 | 4.66 | 271 |
-| 273 | [Unrailed!](games/u/unrailed!.md) | 190 | 4.64 | 311 |
+| 273 | [Unrailed!](games/u/unrailed!.md) | 190 | 4.64 | 312 |
 | 274 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 187 | 4.51 | 539 |
 | 275 | [Severed Steel](games/s/severed_steel.md) | 185 | 4.68 | 239 |
 | 276 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 184 | 4.63 | 331 |
-| 277 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 182 | 4.64 | 311 |
+| 277 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 182 | 4.64 | 312 |
 | 278 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 181 | 4.07 | 899 |
 | 279 | [Pinball FX](games/p/pinball_fx.md) | 179 | 4.04 | 904 |
 | 280 | [The Witness](games/t/the_witness.md) | 177 | 4.70 | 196 |
@@ -377,7 +377,7 @@
 | 374 | [Potion Permit](games/p/potion_permit.md) | 67 | 3.82 | 936 |
 | 376 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 66 | 4.63 | 331 |
 | 376 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 66 | 4.43 | 653 |
-| 376 | [Symphony of War](games/s/symphony_of_war.md) | 66 | 4.64 | 311 |
+| 376 | [Symphony of War](games/s/symphony_of_war.md) | 66 | 4.64 | 312 |
 | 376 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 66 | 4.19 | 845 |
 | 380 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 64 | 3.77 | 942 |
 | 380 | [Ticket to Ride](games/t/ticket_to_ride.md) | 64 | 4.62 | 346 |
@@ -477,7 +477,7 @@
 | 474 | [Spirit of the North](games/s/spirit_of_the_north.md) | 25 | 4.36 | 727 |
 | 476 | [ELEX](games/e/elex.md) | 24 | 4.44 | 642 |
 | 476 | [Rayman Origins](games/r/rayman_origins.md) | 24 | 4.83 | 57 |
-| 476 | [Solar Ash](games/s/solar_ash.md) | 24 | 4.64 | 311 |
+| 476 | [Solar Ash](games/s/solar_ash.md) | 24 | 4.64 | 312 |
 | 476 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 24 | 4.57 | 439 |
 | 476 | [Weird West: Definitive Edition](games/w/weird_west.md) | 24 | 4.45 | 622 |
 | 481 | [Chimeraland](games/c/chimeraland.md) | 23 | 3.91 | 927 |

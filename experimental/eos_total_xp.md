@@ -440,6 +440,7 @@
 | [Terraforming Mars](../games/t/terraforming_mars.md) | 30 | 1,000 |
 | [Terror of Hemasaurus](../games/t/terror_of_hemasaurus.md) | 30 | 1,000 |
 | [tERRORbane](../games/t/terrorbane.md) | 25 | 1,000 |
+| [Testament: The Order Of High-Human](../games/3/3c69660cdc2d41aeac310fe3f864eb26.md) | 41 | 1,000 |
 | [The Alto Collection](../games/t/the_alto_collection.md) | 39 | 1,000 |
 | [The Backroom Project](../games/5/51dd70aea58d47609d82b87473877daa.md) | 18 | 1,000 |
 | [The Bookwalker: Thief of Tales](../games/a/a6ec40c07ed2404687698a3ea8de36ce.md) | 37 | 1,000 |

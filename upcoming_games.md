@@ -1,6 +1,7 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
 | [Deverse World](games/c/c4a0429b74cb4abbb49b15e652ec6c1f.md) | 2023-07-12 | - |  | - | - |
+| [A Second Before The War](games/5/52fb1bcf3a604f3b9d2a2a2adea86d82.md) | 2023-07-12 | - |  | - | - |
 | [The Zombie Smasher](games/d/dd115523a4e24061be581586b20645ef.md) | 2023-07-13 | - |  | - | - |
 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 2023-07-13 | 23 (1,000 XP) | 1 | - | - |
 | [field peas~Sayaendou~](games/3/3ce6af86146c4e46b97aff18292fb25b.md) | 2023-07-14 | - |  | - | - |
@@ -30,7 +31,7 @@
 | [Probo Rush](games/p/probo_rush.md) | 2023-07-31 | - |  | - | - |
 | [Run A Cafe](games/7/752a74d471e54cb79d4bf96d7e6b9cde.md) | 2023-07-31 | - |  | - | - |
 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 2023-07-31 | - |  | - | - |
-| [Testament: The Order Of High-Human](games/3/3c69660cdc2d41aeac310fe3f864eb26.md) | 2023-07-31 | - |  | - | - |
+| [Testament: The Order Of High-Human](games/3/3c69660cdc2d41aeac310fe3f864eb26.md) | 2023-07-31 | 41 (1,000 XP) | 0 | - | - |
 | [Virus Infinite](games/0/0f0415b3318747949c6d444dc2edd27d.md) | 2023-07-31 | - |  | - | - |
 | [XR22-SEAGUARD](games/a/a7a640d2ef344fe981c58f45405d1e2e.md) | 2023-07-31 | - |  | - | - |
 | [F1 Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 2023-07-31 | - |  | - | - |
@@ -84,7 +85,7 @@
 | [Shalnor Legends 2: Trials of Thunder](games/d/d26c3a62ed20492f90a07c3a27e8db97.md) | 2023-09-30 | - |  | - | - |
 | [Smurfs Kart](games/0/017ffe3b2bdc41e5a7a4dca5eec73fc4.md) | 2023-09-30 | - |  | - | - |
 | [Team Disorder](games/9/9c9cc8a992404fb8925827eed7a7f500.md) | 2023-09-30 | - |  | - | - |
-| [The Devil's Face](games/t/the_devil's_face.md) | 2023-09-30 | 14 (1,000 XP) | 91 | - | - |
+| [The Devil's Face](games/t/the_devil's_face.md) | 2023-09-30 | 14 (1,000 XP) | 93 | - | - |
 | [The Future Project](games/1/1846202a6db1495189ceefd84672b545.md) | 2023-09-30 | - |  | - | - |
 | [The Wild Case](games/2/21c2551943894e5d92fd8e7f3ed1f58d.md) | 2023-09-30 | - |  | - | - |
 | [Trail Of Ayash](games/5/538efd8138f94b088f2d9e3da178edd6.md) | 2023-09-30 | - |  | - | - |
@@ -400,7 +401,7 @@
 | [Yakuza Empire](games/y/yakuza_empire.md) | 2099-01-02 | - |  | - | - |
 | [The Invincible](games/t/the_invincible.md) | 2099-01-28 | - |  | - | - |
 | [Broken Roads](games/b/broken_roads.md) | 2099-02-01 | - |  | - | - |
-| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2099-02-01 | 24 (1,000 XP) | 2,932 | - | - |
+| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2099-02-01 | 24 (1,000 XP) | 2,933 | - | - |
 | [Eville](games/e/eville.md) | 2099-02-01 | - |  | - | - |
 | [Gangs of Sherwood](games/g/gangs_of_sherwood.md) | 2099-02-01 | - |  | - | - |
 | [Hades II](games/h/hades_ii.md) | 2099-02-01 | - |  | - | - |
