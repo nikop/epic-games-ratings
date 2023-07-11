@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Historian | 93.00% | ~194 |
+| Historian | 94.00% | ~196 |
 | Treasure hunter | 90.00% | ~188 |
 | Survivalist | 82.00% | ~171 |
 | Challenge seeker | 78.00% | ~163 |

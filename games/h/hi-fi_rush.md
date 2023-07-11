@@ -9,13 +9,13 @@ Rating: 4.87 (Ranked 24)
 | Cream of the Crop | 0.90% | ~31 |
 | The Negotiator | 0.90% | ~31 |
 | I play my own way! | 0.90% | ~31 |
+| Whoa! There's ANOTHER health bar!? | 0.90% | ~31 |
 | Kissing the sky! | 0.90% | ~31 |
 | Who put gears in there? | 0.90% | ~31 |
 | This will cost you big time | 0.80% | ~27 |
 | Time to pay up! | 0.80% | ~27 |
 | Who's the boss now? | 0.80% | ~27 |
 | Thanks for the free chip, Peppermint! | 0.80% | ~27 |
-| Whoa! There's ANOTHER health bar!? | 0.80% | ~27 |
 | You got this, Peppermint? | 0.80% | ~27 |
 | Z-shielding's got nothing on us! | 0.80% | ~27 |
 | Out in a puff of smoke | 0.80% | ~27 |

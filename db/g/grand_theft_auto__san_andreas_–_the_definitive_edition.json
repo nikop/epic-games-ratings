@@ -2,12 +2,12 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 440,
+  "Ranking_Rating": 439,
   "Ranking_Popularity": 263,
   "Ranking_PopularitySum": 356,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -544,9 +544,9 @@
       "Count": 212
     }
   ],
-  "EOS_Progressed": 11015,
+  "EOS_Progressed": 11017,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -6429,6 +6429,11 @@
       "Time": "2023-07-11T18:06:02.5486704+00:00",
       "NumProgressed": 11015,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-07-11T19:07:03.517346+00:00",
+      "NumProgressed": 11017,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 35,
@@ -6440,7 +6445,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 8922
+      "UsersEstimate": 8924
     },
     {
       "ID": "ACH02",
@@ -6504,7 +6509,7 @@
       "Name": "Bike or Biker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ACH10",
@@ -6520,7 +6525,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "ACH12",
@@ -6560,7 +6565,7 @@
       "Name": "Smooth Moves",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1762
+      "UsersEstimate": 1763
     },
     {
       "ID": "ACH17",
@@ -6632,7 +6637,7 @@
       "Name": "What are the Odds",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ACH26",
@@ -6719,7 +6724,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11015,
+      "Progressed": 11017,
       "Completed": 28
     }
   ],
@@ -6727,8 +6732,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-11T18:00:08.2457615+00:00",
-  "LastChanged_Achievements": "2023-07-11T18:06:02.5486695+00:00",
+  "LastChanged_Achievements": "2023-07-11T19:07:03.5173448+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:43.1834453+00:00",
-  "LastUpdate_Ratings": "2023-07-11T18:00:08.245762+00:00",
-  "LastUpdate_Achievements": "2023-07-11T18:06:02.5487329+00:00"
+  "LastUpdate_Ratings": "2023-07-11T19:00:45.0324541+00:00",
+  "LastUpdate_Achievements": "2023-07-11T19:07:03.5174117+00:00"
 }

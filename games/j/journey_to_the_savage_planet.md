@@ -1,7 +1,7 @@
 # Journey to the Savage Planet
 [Store](https://store.epicgames.com/en-US/p/journey-to-the-savage-planet)  
 [View Rawdata](../../db/j/journey_to_the_savage_planet.json)  
-Rating: 4.58 (Ranked 422)  
+Rating: 4.57 (Ranked 439)  
 Number of Ratings: 114  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 37  (Ranked 428)  
@@ -73,3 +73,4 @@ Diff (max vs sum): -33
 | 2023-05-01 | 4.57 | - | 36 | 36 |
 | 2023-05-14 | 4.58 | - | 36 | 36 |
 | 2023-06-10 | 4.58 | - | 37 | 37 |
+| 2023-07-11 | 4.57 | - | 37 | 37 |

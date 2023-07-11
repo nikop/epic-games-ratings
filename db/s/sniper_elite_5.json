@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -392,9 +392,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3260,
+  "EOS_Progressed": 3261,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -4937,6 +4937,11 @@
       "Time": "2023-07-11T14:05:10.5208292+00:00",
       "NumProgressed": 3260,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-11T19:01:12.9308582+00:00",
+      "NumProgressed": 3261,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -5346,9 +5351,9 @@
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
       "SetID": "bm6el81",
       "Name": "Shoot for the Moon",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "REWARD_8_THE_KRAKEN_SLEEPS",
@@ -5418,9 +5423,9 @@
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
       "SetID": "83mdf7p",
       "Name": "Operation Foxley",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -5434,9 +5439,9 @@
       "ID": "REWARD_DLC01_09_LAST_RESORT",
       "SetID": "83mdf7p",
       "Name": "Last Resort",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
@@ -5515,13 +5520,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3211,
+      "Progressed": 3212,
       "Completed": 13
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3260,
+      "Progressed": 3261,
       "Completed": 9
     }
   ],
@@ -5529,8 +5534,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-09T23:00:54.8044631+00:00",
-  "LastChanged_Achievements": "2023-07-11T17:03:26.5315074+00:00",
+  "LastChanged_Achievements": "2023-07-11T19:01:12.9308576+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:07.1687539+00:00",
-  "LastUpdate_Ratings": "2023-07-11T18:00:23.1633936+00:00",
-  "LastUpdate_Achievements": "2023-07-11T17:03:26.5316029+00:00"
+  "LastUpdate_Ratings": "2023-07-11T19:01:04.9152075+00:00",
+  "LastUpdate_Achievements": "2023-07-11T19:01:12.9309726+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "d469e82d91fe4516a00d6566c3d2f8f7",
   "Name": "Going Medieval",
   "ProductSlug": "going-medieval",
-  "Ranking_Rating": 390,
+  "Ranking_Rating": 389,
   "Ranking_Popularity": 310,
   "Ranking_PopularitySum": 239,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1136,9 +1136,9 @@
       "Count": 64
     }
   ],
-  "EOS_Progressed": 4521,
+  "EOS_Progressed": 4522,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -5066,6 +5066,11 @@
       "Time": "2023-07-11T17:02:09.5825834+00:00",
       "NumProgressed": 4521,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-11T19:01:11.6370919+00:00",
+      "NumProgressed": 4522,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 31,
@@ -5077,7 +5082,7 @@
       "Name": "Get A Room",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3300
+      "UsersEstimate": 3301
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -5085,7 +5090,7 @@
       "Name": "Beam Me Up",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2215
+      "UsersEstimate": 2216
     },
     {
       "ID": "DISMANTLE_ITEMS_5",
@@ -5117,7 +5122,7 @@
       "Name": "Having A Field Day",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3300
+      "UsersEstimate": 3301
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -5189,7 +5194,7 @@
       "Name": "Retribution",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 1763
+      "UsersEstimate": 1764
     },
     {
       "ID": "PRODUCE_AT_CAMPFIRE",
@@ -5197,7 +5202,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 2441
+      "UsersEstimate": 2442
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -5205,7 +5210,7 @@
       "Name": "Feast or Famine",
       "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 2260
+      "UsersEstimate": 2261
     },
     {
       "ID": "STORE_NUTRITION_20000",
@@ -5235,9 +5240,9 @@
       "ID": "SURVIVE_FIRST_DAY",
       "SetID": "5349c2e",
       "Name": "The First Day",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 3029
+      "UsersEstimate": 2985
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -5245,7 +5250,7 @@
       "Name": "...And Don\u2019t Come Back!",
       "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 1763
+      "UsersEstimate": 1764
     },
     {
       "ID": "SURVIVE_FIRST_SUMMER",
@@ -5285,7 +5290,7 @@
       "Name": "Novice Researcher",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 2893
+      "UsersEstimate": 2894
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -5293,7 +5298,7 @@
       "Name": "Adept Researcher",
       "Percentage": 44,
       "XP": 75,
-      "UsersEstimate": 1989
+      "UsersEstimate": 1990
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -5317,22 +5322,22 @@
       "Name": "Studious Researcher",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 2260
+      "UsersEstimate": 2261
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 4521,
+      "Progressed": 4522,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-07-10T09:00:28.1401302+00:00",
-  "LastChanged_Achievements": "2023-07-11T17:02:09.5825827+00:00",
+  "LastChanged_Achievements": "2023-07-11T19:01:11.6370907+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:13.9493644+00:00",
-  "LastUpdate_Ratings": "2023-07-11T17:59:50.7432981+00:00",
-  "LastUpdate_Achievements": "2023-07-11T17:02:09.5826357+00:00"
+  "LastUpdate_Ratings": "2023-07-11T19:00:23.3716978+00:00",
+  "LastUpdate_Achievements": "2023-07-11T19:01:11.6372264+00:00"
 }

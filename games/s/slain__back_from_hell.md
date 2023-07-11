@@ -5,14 +5,14 @@ Rating: 4.29 (Ranked 780)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Man 'O War | 20.00% | ~5,923 |
-| A Good Day To Die | 16.00% | ~4,739 |
-| Right Back Atcha | 6.00% | ~1,777 |
+| Man 'O War | 20.00% | ~5,925 |
+| A Good Day To Die | 16.00% | ~4,740 |
+| Right Back Atcha | 6.00% | ~1,778 |
 | Killed by Death | 5.00% | ~1,481 |
 | Guard! Turn! Parry! Dodge! Spin! Ha! | 5.00% | ~1,481 |
 | Kill 'Em All | 4.00% | ~1,185 |
-| Down Boy! | 2.00% | ~592 |
-| A Snowball's Chance in Hell | 2.00% | ~592 |
+| Down Boy! | 2.00% | ~593 |
+| A Snowball's Chance in Hell | 2.00% | ~593 |
 | Enjoy The Silence | 1.00% | ~296 |
 | Thorn in My Herbicide | 0.80% | ~237 |
 | Sure Footed As A Goat | 0.80% | ~237 |
@@ -21,13 +21,13 @@ Rating: 4.29 (Ranked 780)
 | Red In Tooth And Claw | 0.70% | ~207 |
 | Death Becomes Her | 0.70% | ~207 |
 | The Sky Is Falling | 0.70% | ~207 |
+| Hail the Great Horned Metal God! | 0.70% | ~207 |
 | Start As You Mean To Go On | 0.60% | ~178 |
-| Hail the Great Horned Metal God! | 0.60% | ~178 |
 | That'll Come In Handy... | 0.60% | ~178 |
 | Oh God, Mother! Blood! Blood! | 0.50% | ~148 |
-| Four Legged Friend | 0.40% | ~118 |
-| Ice To See You | 0.40% | ~118 |
-| Smack My Imp Up | 0.40% | ~118 |
+| Four Legged Friend | 0.40% | ~119 |
+| Ice To See You | 0.40% | ~119 |
+| Smack My Imp Up | 0.40% | ~119 |
 | Vroll With It | 0.30% | ~89 |
 | Swift of Foot, Keen of Blade | 0.30% | ~89 |
 | Flame Retardant | 0.20% | ~59 |
@@ -35,7 +35,7 @@ Rating: 4.29 (Ranked 780)
 | Too Metal For Magic | 0.10% | ~30 |
 | Heart Of Steel | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,616 (Ranked 95)  
+Progressed: 29,626 (Ranked 95)  
 Completed: 20 (0.07%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 20 (0.07%) (Ranked 194)
 | 2023-07-08 | 29,252 | 20 |
 | 2023-07-09 | 29,393 | 20 |
 | 2023-07-10 | 29,514 | 20 |
-| 2023-07-11 | 29,616 | 20 |
+| 2023-07-11 | 29,626 | 20 |
 ## Awards
 Max (Great Boss Battles): 125  (Ranked 306)  
 Sum: 125 (Ranked 397)  

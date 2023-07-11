@@ -6,16 +6,16 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,530 |
-| The Mad Wizard | 11.00% | ~23,122 |
-| The Ring of Regeneration | 7.00% | ~14,714 |
-| Are Ya Chicken? | 7.00% | ~14,714 |
-| Were-verpowered | 6.00% | ~12,612 |
-| Seeking Allies | 5.00% | ~10,510 |
-| Mad Cow Disease | 5.00% | ~10,510 |
-| Friendly Imps | 5.00% | ~10,510 |
-| A Persistent Buzzing | 4.00% | ~8,408 |
-| Pure Energy | 4.00% | ~8,408 |
+| The Cursed Farmer | 15.00% | ~31,532 |
+| The Mad Wizard | 11.00% | ~23,124 |
+| The Ring of Regeneration | 7.00% | ~14,715 |
+| Are Ya Chicken? | 7.00% | ~14,715 |
+| Were-verpowered | 6.00% | ~12,613 |
+| Seeking Allies | 5.00% | ~10,511 |
+| Mad Cow Disease | 5.00% | ~10,511 |
+| Friendly Imps | 5.00% | ~10,511 |
+| A Persistent Buzzing | 4.00% | ~8,409 |
+| Pure Energy | 4.00% | ~8,409 |
 | Beast Mode | 3.00% | ~6,306 |
 | Terror in the Dark | 3.00% | ~6,306 |
 | A Mysterious Summons | 3.00% | ~6,306 |
@@ -44,6 +44,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Death Curse | 1.00% | ~2,102 |
 | Premature Betrayal | 1.00% | ~2,102 |
 | A Tale of Two Cities | 1.00% | ~2,102 |
+| The Dead Three | 1.00% | ~2,102 |
 | Flying Monkey Skulls of Doom | 1.00% | ~2,102 |
 | Dinosaur Racing | 1.00% | ~2,102 |
 | Close Escort | 1.00% | ~2,102 |
@@ -57,7 +58,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wisdom Check | 0.90% | ~1,892 |
 | The Mists of Ravenloft | 0.90% | ~1,892 |
 | Attack on the Manor | 0.90% | ~1,892 |
-| The Dead Three | 0.90% | ~1,892 |
 | A Grand Puzzle | 0.80% | ~1,682 |
 | Tomb of the Nine Gods | 0.80% | ~1,682 |
 | Treasure Hunters | 0.80% | ~1,682 |
@@ -67,14 +67,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rude Welcome | 0.80% | ~1,682 |
 | Durable Deep | 0.80% | ~1,682 |
 | The Haunted Jungle | 0.80% | ~1,682 |
-| Family Entanglements | 0.70% | ~1,471 |
-| The Immortal Warrior | 0.70% | ~1,471 |
-| The Wyrmheart Mine | 0.70% | ~1,471 |
-| Fugitives | 0.70% | ~1,471 |
-| Hopelessly Lost | 0.70% | ~1,471 |
-| Crowded Streets | 0.70% | ~1,471 |
-| Difficult Terrain | 0.70% | ~1,471 |
-| Market Fluctuations | 0.70% | ~1,471 |
+| Family Entanglements | 0.70% | ~1,472 |
+| The Immortal Warrior | 0.70% | ~1,472 |
+| The Wyrmheart Mine | 0.70% | ~1,472 |
+| Fugitives | 0.70% | ~1,472 |
+| Hopelessly Lost | 0.70% | ~1,472 |
+| Crowded Streets | 0.70% | ~1,472 |
+| Difficult Terrain | 0.70% | ~1,472 |
+| Market Fluctuations | 0.70% | ~1,472 |
 | Sleuth It Out | 0.60% | ~1,261 |
 | Tower on the Lake | 0.60% | ~1,261 |
 | Seeds of Deceit | 0.60% | ~1,261 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,198 (Ranked 52)  
+Progressed: 210,215 (Ranked 52)  
 Completed: 2,046 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -592,7 +592,7 @@ Completed: 2,046 (0.97%) (Ranked 102)
 | 2023-07-08 | 208,782 | 2,041 |
 | 2023-07-09 | 209,384 | 2,043 |
 | 2023-07-10 | 209,861 | 2,045 |
-| 2023-07-11 | 210,198 | 2,046 |
+| 2023-07-11 | 210,215 | 2,046 |
 ## Awards
 Max (Diverse Characters): 5,025  (Ranked 65)  
 Sum: 30,481 (Ranked 38)  

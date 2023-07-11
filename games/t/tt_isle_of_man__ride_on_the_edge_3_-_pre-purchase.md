@@ -9,7 +9,7 @@
 | You Get An Upgrade, You Get An Upgrade! | 21.00% | ~20 |
 | Onwards and Upwards | 21.00% | ~20 |
 | Like Phileas Fogg | 16.00% | ~15 |
-| Serial Winner | 14.00% | ~13 |
+| Serial Winner | 15.00% | ~14 |
 | Start Your Engines | 12.00% | ~11 |
 | Lone Wolf | 11.00% | ~10 |
 | Highly Qualified | 10.00% | ~9 |

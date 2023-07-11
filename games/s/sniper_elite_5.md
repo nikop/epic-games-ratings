@@ -44,17 +44,18 @@ Rating: 4.45 (Ranked 622)
 | Burn after reading | 0.50% | ~16 |
 | It'll Buff Right Out | 0.50% | ~16 |
 | Don't hold your breath | 0.50% | ~16 |
+| Operation Foxley | 0.50% | ~16 |
 | Shipbreaker | 0.50% | ~16 |
 | Sink or Swim | 0.50% | ~16 |
 | Strategist | 0.40% | ~13 |
 | Souvenir hunter | 0.40% | ~13 |
 | Eagle Eyed | 0.40% | ~13 |
 | Road Rage | 0.40% | ~13 |
-| Operation Foxley | 0.40% | ~13 |
+| Last Resort | 0.40% | ~13 |
 | Siegebreaker | 0.40% | ~13 |
 | Ghost of Falaise | 0.40% | ~13 |
 | Locomotion Commotion | 0.30% | ~10 |
-| Last Resort | 0.30% | ~10 |
+| Shoot for the Moon | 0.30% | ~10 |
 | If You Go Down To The Woods Today | 0.30% | ~10 |
 | Fight Another Day | 0.30% | ~10 |
 | Best of the Best | 0.20% | ~7 |
@@ -63,7 +64,6 @@ Rating: 4.45 (Ranked 622)
 | Out of Scope | 0.20% | ~7 |
 | Up close and personal | 0.20% | ~7 |
 | Sight Beyond Sights | 0.20% | ~7 |
-| Shoot for the Moon | 0.20% | ~7 |
 | Can't Outrun A Bullet | 0.20% | ~7 |
 | Führerious Repetition | 0.20% | ~6 |
 | Covert Elimination | 0.20% | ~6 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 622)
 | Das Familienjuwel | 0.10% | ~3 |
 | Stroll in the Woods | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,260 (Ranked 146)  
+Progressed: 3,261 (Ranked 146)  
 Completed: 9 (0.28%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 9 (0.28%) (Ranked 150)
 | 2023-07-08 | 3,234 | 9 |
 | 2023-07-09 | 3,245 | 9 |
 | 2023-07-10 | 3,253 | 9 |
-| 2023-07-11 | 3,260 | 9 |
+| 2023-07-11 | 3,261 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,10 +4,10 @@
   "ProductSlug": "walking-dead-definitive-series",
   "Ranking_Rating": 28,
   "Ranking_Popularity": 195,
-  "Ranking_PopularitySum": 273,
+  "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewPlayers": 321,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2019-09-10T15:00:00+00:00",
@@ -883,10 +883,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 676,
       "NumberOfAwardsMax": 483
+    },
+    {
+      "Time": "2023-07-11T19:00:06.5796632+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 696,
+      "NumberOfAwardsMax": 483
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 676,
+  "NumberOfAwards": 696,
   "NumberOfAwardsMax": 483,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -937,6 +943,12 @@
       "Prefix": "This game has",
       "Type": "Amazing Characters",
       "Count": 22
+    },
+    {
+      "Text": "This game has Unique Visuals",
+      "Prefix": "This game has",
+      "Type": "Unique Visuals",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -950,8 +962,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:07.806679+00:00",
-  "LastChanged": "2023-07-10T20:00:13.3706727+00:00",
+  "LastChanged": "2023-07-11T19:00:06.579663+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:54.5759691+00:00",
-  "LastUpdate_Ratings": "2023-07-11T17:59:37.853568+00:00",
-  "LastUpdate_Achievements": "2023-07-11T18:05:30.8909842+00:00"
+  "LastUpdate_Ratings": "2023-07-11T19:00:06.5796638+00:00",
+  "LastUpdate_Achievements": "2023-07-11T19:06:24.4891194+00:00"
 }

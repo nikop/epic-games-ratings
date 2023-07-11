@@ -1,27 +1,27 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.66 (Ranked 271)  
+Rating: 4.66 (Ranked 272)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~20,335 |
+| Genin | 11.00% | ~20,336 |
 | Thorough | 9.00% | ~16,638 |
-| A thief's beginning | 8.00% | ~14,789 |
-| Tanuki Time | 8.00% | ~14,789 |
-| Disguised | 7.00% | ~12,940 |
-| Rescue Takuma | 7.00% | ~12,940 |
-| Rollin' | 7.00% | ~12,940 |
+| A thief's beginning | 8.00% | ~14,790 |
+| Tanuki Time | 8.00% | ~14,790 |
+| Disguised | 7.00% | ~12,941 |
+| Rescue Takuma | 7.00% | ~12,941 |
+| Rollin' | 7.00% | ~12,941 |
 | Chunin | 6.00% | ~11,092 |
 | Ice Ice Yuki | 6.00% | ~11,092 |
 | Jonin | 6.00% | ~11,092 |
 | Stoned Ox | 6.00% | ~11,092 |
 | Yabu | 6.00% | ~11,092 |
-| Flying Rocks | 5.00% | ~9,243 |
-| Happy Planning | 5.00% | ~9,243 |
-| Mugen Unchained | 5.00% | ~9,243 |
-| Warzone | 5.00% | ~9,243 |
+| Flying Rocks | 5.00% | ~9,244 |
+| Happy Planning | 5.00% | ~9,244 |
+| Mugen Unchained | 5.00% | ~9,244 |
+| Warzone | 5.00% | ~9,244 |
 | Okkoto | 4.00% | ~7,395 |
 | Prisoners | 4.00% | ~7,395 |
 | Too Early | 4.00% | ~7,395 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~185 |
 | Release the Kraken | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 184,863 (Ranked 57)  
+Progressed: 184,872 (Ranked 57)  
 Completed: 58 (0.03%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,11 +133,11 @@ Completed: 58 (0.03%) (Ranked 209)
 | 2023-07-08 | 184,133 | 56 |
 | 2023-07-09 | 184,440 | 58 |
 | 2023-07-10 | 184,681 | 58 |
-| 2023-07-11 | 184,863 | 58 |
+| 2023-07-11 | 184,872 | 58 |
 ## Awards
-Max (Great for Beginners): 556  (Ranked 182)  
+Max (Great for Beginners): 556  (Ranked 183)  
 Sum: 4,700 (Ranked 131)  
-Diff (max vs sum): 51  
+Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 556 |

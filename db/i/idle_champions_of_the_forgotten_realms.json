@@ -4900,9 +4900,9 @@
       "Count": 3295
     }
   ],
-  "EOS_Progressed": 210198,
+  "EOS_Progressed": 210215,
   "EOS_Completed": 2046,
-  "EOS_NewPlayers": 4075,
+  "EOS_NewPlayers": 4066,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -13630,6 +13630,11 @@
       "Time": "2023-07-11T18:04:19.2631963+00:00",
       "NumProgressed": 210198,
       "NumCompleted": 2046
+    },
+    {
+      "Time": "2023-07-11T19:04:57.2191028+00:00",
+      "NumProgressed": 210215,
+      "NumCompleted": 2046
     }
   ],
   "TotalAchievements": 503,
@@ -14505,7 +14510,7 @@
       "Name": "Were-verpowered",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 12612
+      "UsersEstimate": 12613
     },
     {
       "ID": "objective_completed_1203",
@@ -14617,7 +14622,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8408
+      "UsersEstimate": 8409
     },
     {
       "ID": "objective_completed_130",
@@ -15025,7 +15030,7 @@
       "Name": "Family Entanglements",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1471
+      "UsersEstimate": 1472
     },
     {
       "ID": "objective_completed_214",
@@ -15121,7 +15126,7 @@
       "Name": "The Immortal Warrior",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1471
+      "UsersEstimate": 1472
     },
     {
       "ID": "objective_completed_247",
@@ -15153,7 +15158,7 @@
       "Name": "The Wyrmheart Mine",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1471
+      "UsersEstimate": 1472
     },
     {
       "ID": "objective_completed_252",
@@ -15313,7 +15318,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 31530
+      "UsersEstimate": 31532
     },
     {
       "ID": "objective_completed_34",
@@ -15321,7 +15326,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 14714
+      "UsersEstimate": 14715
     },
     {
       "ID": "objective_completed_35",
@@ -15433,7 +15438,7 @@
       "Name": "Seeking Allies",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10510
+      "UsersEstimate": 10511
     },
     {
       "ID": "objective_completed_390",
@@ -15505,7 +15510,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 14714
+      "UsersEstimate": 14715
     },
     {
       "ID": "objective_completed_40",
@@ -15537,7 +15542,7 @@
       "Name": "Fugitives",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1471
+      "UsersEstimate": 1472
     },
     {
       "ID": "objective_completed_404",
@@ -15641,7 +15646,7 @@
       "Name": "Hopelessly Lost",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1471
+      "UsersEstimate": 1472
     },
     {
       "ID": "objective_completed_419",
@@ -15777,7 +15782,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10510
+      "UsersEstimate": 10511
     },
     {
       "ID": "objective_completed_54",
@@ -15823,9 +15828,9 @@
       "ID": "objective_completed_545",
       "SetID": "cc37lbc",
       "Name": "The Dead Three",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1892
+      "UsersEstimate": 2102
     },
     {
       "ID": "objective_completed_546",
@@ -15929,7 +15934,7 @@
       "Name": "Crowded Streets",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1471
+      "UsersEstimate": 1472
     },
     {
       "ID": "objective_completed_560",
@@ -16033,7 +16038,7 @@
       "Name": "Difficult Terrain",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1471
+      "UsersEstimate": 1472
     },
     {
       "ID": "objective_completed_576",
@@ -16265,7 +16270,7 @@
       "Name": "Market Fluctuations",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1471
+      "UsersEstimate": 1472
     },
     {
       "ID": "objective_completed_610",
@@ -16785,7 +16790,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 23122
+      "UsersEstimate": 23124
     },
     {
       "ID": "objective_completed_70",
@@ -16857,7 +16862,7 @@
       "Name": "Friendly Imps",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10510
+      "UsersEstimate": 10511
     },
     {
       "ID": "objective_completed_80",
@@ -17385,7 +17390,7 @@
       "Name": "Pure Energy",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8408
+      "UsersEstimate": 8409
     },
     {
       "ID": "objective_completed_902",
@@ -17664,21 +17669,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 176472,
+      "Progressed": 176489,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 210198,
+      "Progressed": 210215,
       "Completed": 2046
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-11T16:58:52.3065238+00:00",
-  "LastChanged_Achievements": "2023-07-11T18:04:19.2631939+00:00",
+  "LastChanged_Achievements": "2023-07-11T19:04:57.2191022+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:43.9043947+00:00",
-  "LastUpdate_Ratings": "2023-07-11T17:58:13.4222814+00:00",
-  "LastUpdate_Achievements": "2023-07-11T18:04:19.2662615+00:00"
+  "LastUpdate_Ratings": "2023-07-11T18:58:22.9800953+00:00",
+  "LastUpdate_Achievements": "2023-07-11T19:04:57.2217143+00:00"
 }

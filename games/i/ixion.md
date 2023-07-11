@@ -22,10 +22,10 @@ Rating: 4.56 (Ranked 455)
 | Hope Seeker | 8.00% | ~224 |
 | A Hunk of Junk | 7.00% | ~196 |
 | Man's Best Friend | 5.00% | ~140 |
-| Sightseeing | 5.00% | ~140 |
 | Power Outage | 5.00% | ~140 |
 | Convenient Transport | 5.00% | ~140 |
 | Please Make it Stop! | 5.00% | ~140 |
+| Sightseeing | 4.00% | ~112 |
 | Access Granted | 4.00% | ~112 |
 | Necessary Enhancement | 4.00% | ~112 |
 | All in Good Health | 4.00% | ~112 |
@@ -53,8 +53,8 @@ Rating: 4.56 (Ranked 455)
 | Better Him Than Me | 0.70% | ~20 |
 | Remember the Dead | 0.50% | ~14 |
 | Work Harder | 0.30% | ~8 |
-| Soylent Green | 0.30% | ~8 |
 | Crunch Culture | 0.20% | ~6 |
+| Soylent Green | 0.20% | ~6 |
 | Suburban Perfection | 0.10% | ~3 |
 | A Junker's Dream | 0.10% | ~3 |
 | Scenic View | 0.10% | ~3 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 455)
 | This is Fine | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,800 (Ranked 154)  
+Progressed: 2,801 (Ranked 154)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-08 | 2,791 | 0 |
 | 2023-07-09 | 2,797 | 0 |
 | 2023-07-10 | 2,799 | 0 |
-| 2023-07-11 | 2,800 | 0 |
+| 2023-07-11 | 2,801 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

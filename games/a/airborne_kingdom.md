@@ -1,29 +1,29 @@
 # Airborne Kingdom
 [Store](https://store.epicgames.com/en-US/p/airborne-kingdom)  
 [View Rawdata](../../db/a/airborne_kingdom.json)  
-Rating: 4.65 (Ranked 300)  
+Rating: 4.65 (Ranked 301)  
 Number of Ratings: 74  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Small Community | 56.00% | ~3,797 |
+| A Small Community | 56.00% | ~3,798 |
 | A Grove Replanted | 53.00% | ~3,594 |
-| Fields Watered | 41.00% | ~2,780 |
-| Seekers Found | 41.00% | ~2,780 |
-| Settling the Skies | 41.00% | ~2,780 |
-| Wind Powered | 40.00% | ~2,712 |
+| Fields Watered | 41.00% | ~2,781 |
+| Seekers Found | 41.00% | ~2,781 |
+| Settling the Skies | 41.00% | ~2,781 |
+| Wind Powered | 40.00% | ~2,713 |
 | It Takes a Village | 34.00% | ~2,306 |
 | On the Town | 28.00% | ~1,899 |
 | Daylight Found | 26.00% | ~1,763 |
-| Irons Scorched | 25.00% | ~1,695 |
-| Islands Connected | 25.00% | ~1,695 |
+| Irons Scorched | 25.00% | ~1,696 |
+| Islands Connected | 25.00% | ~1,696 |
 | Harp Tuned | 23.00% | ~1,560 |
 | Pyre Ignited | 23.00% | ~1,560 |
 | Travelers Returned | 23.00% | ~1,560 |
 | Hopes Hoisted | 22.00% | ~1,492 |
 | Knowledge Shared | 20.00% | ~1,356 |
 | Relic Finder | 20.00% | ~1,356 |
-| Worthy of the Title | 19.00% | ~1,288 |
+| Worthy of the Title | 19.00% | ~1,289 |
 | A Peaceful Respite | 14.00% | ~949 |
 | A Learned Scholar | 13.00% | ~882 |
 | Prophecy Fulfilled | 13.00% | ~882 |
@@ -34,7 +34,7 @@ Number of Ratings: 74  (23.09.2022)
 | Sparkling Alloys | 2.00% | ~136 |
 | A True Challenge | 2.00% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,781 (Ranked 126)  
+Progressed: 6,782 (Ranked 126)  
 Completed: 52 (0.77%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 52 (0.77%) (Ranked 108)
 | 2023-07-08 | 6,766 | 52 |
 | 2023-07-09 | 6,773 | 52 |
 | 2023-07-10 | 6,778 | 52 |
-| 2023-07-11 | 6,781 | 52 |
+| 2023-07-11 | 6,782 | 52 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -60,8 +60,8 @@
 | Debauchery | 0.40% | ~13 |
 | Blessing of Spring | 0.40% | ~13 |
 | Interrupt the Interloper | 0.40% | ~13 |
+| Elephantine | 0.40% | ~13 |
 | Window Shopping | 0.30% | ~10 |
-| Elephantine | 0.30% | ~10 |
 | Buyer's Remorse | 0.20% | ~6 |
 | Library of Alexandria | 0.10% | ~3 |
 | Chitinous | 0.10% | ~3 |

@@ -5,8 +5,8 @@ Rating: 4.86 (Ranked 28)
 Number of Ratings: 663  (23.09.2022)  
 ## Awards
 Max (Impact the Story): 483  (Ranked 195)  
-Sum: 676 (Ranked 273)  
-Diff (max vs sum): -78  
+Sum: 696 (Ranked 271)  
+Diff (max vs sum): -76  
 | Award | Count |
 | ----- | ----- |
 | In this game, your choices Impact the Story | 483 |
@@ -17,6 +17,7 @@ Diff (max vs sum): -78
 | This game is Great for Beginners | 25 |
 | This game has Amazing Characters | 22 |
 | This game has Quickly Understood Controls | 20 |
+| This game has Unique Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -129,3 +130,4 @@ Diff (max vs sum): -78
 | 2023-07-07 | 4.86 | - | 481 | 674 |
 | 2023-07-09 | 4.86 | - | 482 | 675 |
 | 2023-07-10 | 4.86 | - | 483 | 676 |
+| 2023-07-11 | 4.86 | - | 483 | 696 |
