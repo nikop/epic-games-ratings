@@ -35,15 +35,15 @@
 | Expert Survivor | 8.00% | ~11 |
 | Quit Horsin' Around | 7.00% | ~13 |
 | Pyromaniac | 7.00% | ~9 |
-| Quadsparagus | 6.00% | ~8 |
+| Quadsparagus | 7.00% | ~9 |
 | Bring Home The Bacon | 5.00% | ~9 |
 | Master Survivor | 4.00% | ~5 |
 | Chick Magnet | 3.00% | ~6 |
 | Early Bird | 3.00% | ~6 |
 | Heart Breaker | 3.00% | ~4 |
+| I Have The High Ground | 2.00% | ~4 |
 | Easy Peasy | 2.00% | ~3 |
 | Honk Honk | 1.00% | ~2 |
-| I Have The High Ground | 1.00% | ~2 |
 | Pro Pyromancer | 1.00% | ~2 |
 | King of the Crow | 1.00% | ~1 |
 | Tomassacred | 1.00% | ~1 |

@@ -6,27 +6,27 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 89.00% | ~621,338 |
-| Escaped Asphodel | 80.00% | ~558,506 |
-| Arms Collector | 71.00% | ~495,674 |
-| Friends in High Places | 68.00% | ~474,730 |
+| Escaped Tartarus | 89.00% | ~621,339 |
+| Escaped Asphodel | 80.00% | ~558,507 |
+| Arms Collector | 71.00% | ~495,675 |
+| Friends in High Places | 68.00% | ~474,731 |
 | Escaped Elysium | 66.00% | ~460,768 |
 | Chthonic Colleagues | 63.00% | ~439,824 |
-| Is There No Escape? | 52.00% | ~363,029 |
+| Is There No Escape? | 52.00% | ~363,030 |
 | Death Dealer | 45.00% | ~314,160 |
 | Skelly Slayer | 42.00% | ~293,216 |
-| Well Stocked | 40.00% | ~279,253 |
+| Well Stocked | 40.00% | ~279,254 |
 | Back to Work | 38.00% | ~265,291 |
-| Day-or-Night Trader | 37.00% | ~258,309 |
-| Blessed by the Gods | 37.00% | ~258,309 |
+| Day-or-Night Trader | 37.00% | ~258,310 |
+| Blessed by the Gods | 37.00% | ~258,310 |
 | Urge to Sing | 36.00% | ~251,328 |
 | Blood Bound | 35.00% | ~244,347 |
 | Three-Headed Boy | 32.00% | ~223,403 |
-| River Denizens | 28.00% | ~195,477 |
-| Grown Close | 28.00% | ~195,477 |
+| River Denizens | 28.00% | ~195,478 |
+| Grown Close | 28.00% | ~195,478 |
 | Home Makeover | 27.00% | ~188,496 |
-| Had to Happen | 25.00% | ~174,533 |
-| The Family Secret | 25.00% | ~174,533 |
+| Had to Happen | 25.00% | ~174,534 |
+| The Family Secret | 25.00% | ~174,534 |
 | Tools of the Architect | 23.00% | ~160,571 |
 | Master of Arms | 23.00% | ~160,571 |
 | To Charon's Credit | 22.00% | ~153,589 |
@@ -56,7 +56,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~27,925 |
 | Friends Forever | 4.00% | ~27,925 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 698,133 (Ranked 20)  
+Progressed: 698,134 (Ranked 20)  
 Completed: 6,224 (0.89%) (Ranked 105)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 6,224 (0.89%) (Ranked 105)
 | 2023-07-08 | 697,918 | 6,220 |
 | 2023-07-09 | 698,031 | 6,220 |
 | 2023-07-10 | 698,116 | 6,224 |
-| 2023-07-11 | 698,133 | 6,224 |
+| 2023-07-11 | 698,134 | 6,224 |
 ## Awards
 Max (Character Customization): 3,173  (Ranked 89)  
 Sum: 7,679 (Ranked 98)  

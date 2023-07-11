@@ -5,15 +5,15 @@ Rating: 4.42 (Ranked 663)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 80.00% | ~2,240 |
-| Snatched Out | 73.00% | ~2,044 |
-| Keep 'Em Coming | 72.00% | ~2,016 |
-| Cleaning Lethe, One Nest At A Time | 64.00% | ~1,792 |
-| Call Me Snake | 59.00% | ~1,652 |
-| Something Lurks Under The Hills | 57.00% | ~1,596 |
-| This Was No Papercut | 56.00% | ~1,568 |
-| The Shrink Hates Me | 52.00% | ~1,456 |
-| People Person | 51.00% | ~1,428 |
+| This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,269 |
+| Snatched Out | 73.00% | ~2,045 |
+| Keep 'Em Coming | 72.00% | ~2,017 |
+| Cleaning Lethe, One Nest At A Time | 64.00% | ~1,793 |
+| Call Me Snake | 59.00% | ~1,653 |
+| Something Lurks Under The Hills | 57.00% | ~1,597 |
+| This Was No Papercut | 56.00% | ~1,569 |
+| The Shrink Hates Me | 52.00% | ~1,457 |
+| People Person | 51.00% | ~1,429 |
 | Use The Bumper, That's What It's For | 49.00% | ~1,372 |
 | First Steps Into Madness | 47.00% | ~1,316 |
 | Colonial Barrels | 46.00% | ~1,288 |
@@ -51,7 +51,7 @@ Rating: 4.42 (Ranked 663)
 | Perfect Organism | 0.30% | ~8 |
 | This Ain't No Picnic | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,800 (Ranked 153)  
+Progressed: 2,801 (Ranked 153)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-08 | 2,739 | 0 |
 | 2023-07-09 | 2,769 | 0 |
 | 2023-07-10 | 2,794 | 0 |
-| 2023-07-11 | 2,800 | 0 |
+| 2023-07-11 | 2,801 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 226912,
+  "EOS_Progressed": 226913,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 567,
+  "EOS_NewPlayers": 566,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -8718,6 +8718,11 @@
       "Time": "2023-07-11T07:05:50.6622931+00:00",
       "NumProgressed": 226912,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-07-11T08:06:52.6724948+00:00",
+      "NumProgressed": 226913,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 34,
@@ -8745,7 +8750,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 63535
+      "UsersEstimate": 63536
     },
     {
       "ID": "CENTAUR",
@@ -8817,7 +8822,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 45382
+      "UsersEstimate": 45383
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -8945,7 +8950,7 @@
       "Name": "SHOWOFF",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 9076
+      "UsersEstimate": 9077
     },
     {
       "ID": "SNEAKYSNEAKY",
@@ -8969,7 +8974,7 @@
       "Name": "TAKATORA",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9076
+      "UsersEstimate": 9077
     },
     {
       "ID": "TRICKUPYOURSLEEVE",
@@ -9000,15 +9005,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 226912,
+      "Progressed": 226913,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-07-11T07:05:50.6622927+00:00",
+  "LastChanged_Achievements": "2023-07-11T08:06:52.6724944+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:56.9727616+00:00",
-  "LastUpdate_Ratings": "2023-07-11T06:58:08.7922764+00:00",
-  "LastUpdate_Achievements": "2023-07-11T07:05:50.6623505+00:00"
+  "LastUpdate_Ratings": "2023-07-11T07:58:35.0402129+00:00",
+  "LastUpdate_Achievements": "2023-07-11T08:06:52.6725512+00:00"
 }

@@ -6,23 +6,23 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,497 |
-| The Mad Wizard | 11.00% | ~23,098 |
+| The Cursed Farmer | 15.00% | ~31,498 |
+| The Mad Wizard | 11.00% | ~23,099 |
 | The Ring of Regeneration | 7.00% | ~14,699 |
 | Are Ya Chicken? | 7.00% | ~14,699 |
 | Were-verpowered | 6.00% | ~12,599 |
 | Seeking Allies | 5.00% | ~10,499 |
 | Mad Cow Disease | 5.00% | ~10,499 |
 | Friendly Imps | 5.00% | ~10,499 |
-| A Persistent Buzzing | 4.00% | ~8,399 |
-| Pure Energy | 4.00% | ~8,399 |
-| Beast Mode | 3.00% | ~6,299 |
-| Terror in the Dark | 3.00% | ~6,299 |
-| Unearthed Evil | 3.00% | ~6,299 |
-| The Crumbling Temple | 3.00% | ~6,299 |
-| Exploring Port Nyanzaru | 3.00% | ~6,299 |
-| The Contagious Curse | 3.00% | ~6,299 |
-| Escort to Waterdeep | 3.00% | ~6,299 |
+| A Persistent Buzzing | 4.00% | ~8,400 |
+| Pure Energy | 4.00% | ~8,400 |
+| Beast Mode | 3.00% | ~6,300 |
+| Terror in the Dark | 3.00% | ~6,300 |
+| Unearthed Evil | 3.00% | ~6,300 |
+| The Crumbling Temple | 3.00% | ~6,300 |
+| Exploring Port Nyanzaru | 3.00% | ~6,300 |
+| The Contagious Curse | 3.00% | ~6,300 |
+| Escort to Waterdeep | 3.00% | ~6,300 |
 | Low Initiative | 2.00% | ~4,200 |
 | A Mysterious Summons | 2.00% | ~4,200 |
 | Building Trust | 2.00% | ~4,200 |
@@ -68,12 +68,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tomb of the Nine Gods | 0.70% | ~1,470 |
 | Family Entanglements | 0.70% | ~1,470 |
 | The Immortal Warrior | 0.70% | ~1,470 |
+| The Wyrmheart Mine | 0.70% | ~1,470 |
 | Fugitives | 0.70% | ~1,470 |
 | Hopelessly Lost | 0.70% | ~1,470 |
 | Crowded Streets | 0.70% | ~1,470 |
 | Market Fluctuations | 0.70% | ~1,470 |
 | Durable Deep | 0.70% | ~1,470 |
-| The Wyrmheart Mine | 0.60% | ~1,260 |
 | Tower on the Lake | 0.60% | ~1,260 |
 | The Guardian of Orolunga | 0.60% | ~1,260 |
 | The Lost Love | 0.60% | ~1,260 |
@@ -129,6 +129,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Path of Dreams | 0.40% | ~705 |
 | The Lost Hollyphant | 0.40% | ~705 |
 | Alterdeep | 0.40% | ~705 |
+| The Wandering Emporium | 0.40% | ~705 |
 | Civilization | 0.40% | ~705 |
 | Dwarven Rumors | 0.40% | ~705 |
 | Struggling Toward Omu | 0.30% | ~630 |
@@ -154,7 +155,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Troublesome Prisoner | 0.30% | ~630 |
 | Dark Doppelgangers | 0.30% | ~630 |
 | Cold & Wet | 0.30% | ~630 |
-| The Wandering Emporium | 0.30% | ~529 |
 | Tiamat's Army | 0.30% | ~529 |
 | Questlines | 0.30% | ~529 |
 | Bel's Forge | 0.30% | ~529 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209,979 (Ranked 52)  
+Progressed: 209,989 (Ranked 52)  
 Completed: 2,045 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -592,7 +592,7 @@ Completed: 2,045 (0.97%) (Ranked 102)
 | 2023-07-08 | 208,782 | 2,041 |
 | 2023-07-09 | 209,384 | 2,043 |
 | 2023-07-10 | 209,861 | 2,045 |
-| 2023-07-11 | 209,979 | 2,045 |
+| 2023-07-11 | 209,989 | 2,045 |
 ## Awards
 Max (Diverse Characters): 5,025  (Ranked 65)  
 Sum: 30,477 (Ranked 38)  

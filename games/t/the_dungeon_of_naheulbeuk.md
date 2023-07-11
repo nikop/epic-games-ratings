@@ -6,20 +6,20 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 58.00% | ~103,170 |
-| Where's that freaking Dwarf? | 45.00% | ~80,046 |
-| GG EZ | 27.00% | ~48,027 |
-| Speedrun | 26.00% | ~46,249 |
-| Déjà vu | 20.00% | ~35,576 |
-| Sock! SOCK! | 15.00% | ~26,682 |
-| DM intervention | 12.00% | ~21,345 |
-| A beer, two curses, three companions | 7.00% | ~12,452 |
-| Fireproof Wizardess | 7.00% | ~12,452 |
-| Livin' in a dwarven paradise | 5.00% | ~8,894 |
-| Way of the Wimp | 5.00% | ~8,894 |
-| The plot thickens... At the tavern | 4.00% | ~7,115 |
-| The Woman in the High Castle | 3.00% | ~5,336 |
-| Team Building Exercise | 3.00% | ~5,336 |
+| Alt+F4 | 58.00% | ~103,194 |
+| Where's that freaking Dwarf? | 45.00% | ~80,064 |
+| GG EZ | 27.00% | ~48,039 |
+| Speedrun | 26.00% | ~46,259 |
+| Déjà vu | 20.00% | ~35,584 |
+| Sock! SOCK! | 15.00% | ~26,688 |
+| DM intervention | 12.00% | ~21,351 |
+| A beer, two curses, three companions | 7.00% | ~12,454 |
+| Fireproof Wizardess | 7.00% | ~12,454 |
+| Livin' in a dwarven paradise | 5.00% | ~8,896 |
+| Way of the Wimp | 5.00% | ~8,896 |
+| The plot thickens... At the tavern | 4.00% | ~7,117 |
+| The Woman in the High Castle | 3.00% | ~5,338 |
+| Team Building Exercise | 3.00% | ~5,338 |
 | The demons' feast | 2.00% | ~3,558 |
 | Res Judicata | 2.00% | ~3,558 |
 | I am the night | 2.00% | ~3,558 |
@@ -35,13 +35,13 @@ Number of Ratings: 118  (23.09.2022)
 | Material Girl | 0.80% | ~1,423 |
 | Gargantua | 0.70% | ~1,245 |
 | In Navalu's footsteps | 0.70% | ~1,245 |
-| Urik's Depths | 0.60% | ~1,067 |
-| Look but don't touch | 0.60% | ~1,067 |
-| The Statuette of Gladeulfeurah | 0.50% | ~889 |
-| A tale of adventurers not quite like the others... | 0.50% | ~889 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.50% | ~889 |
-| It's been a hard day's night | 0.50% | ~889 |
-| Lëgal Legend | 0.50% | ~889 |
+| Urik's Depths | 0.60% | ~1,068 |
+| Look but don't touch | 0.60% | ~1,068 |
+| The Statuette of Gladeulfeurah | 0.50% | ~890 |
+| A tale of adventurers not quite like the others... | 0.50% | ~890 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.50% | ~890 |
+| It's been a hard day's night | 0.50% | ~890 |
+| Lëgal Legend | 0.50% | ~890 |
 | I'd rather... Just... Sing! | 0.40% | ~712 |
 | The number of the counting shalt be 7 | 0.40% | ~712 |
 | Dead for good | 0.40% | ~712 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 177,879 (Ranked 58)  
+Progressed: 177,921 (Ranked 58)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-08 | 171,176 | 0 |
 | 2023-07-09 | 174,947 | 0 |
 | 2023-07-10 | 177,355 | 0 |
-| 2023-07-11 | 177,879 | 0 |
+| 2023-07-11 | 177,921 | 0 |
 ## Awards
 Max (Character Customization): 84  (Ranked 351)  
 Sum: 84 (Ranked 418)  

@@ -15,6 +15,7 @@
 | To battle | 6.00% | ~1 |
 | Godslayer | 6.00% | ~1 |
 | A taste of wrath | 6.00% | ~1 |
+| The Mentor | 6.00% | ~1 |
 | Trinity | 6.00% | ~1 |
 | Adventurer | 6.00% | ~1 |
 | Airborne | 6.00% | ~1 |
@@ -26,7 +27,6 @@
 | Miner | 6.00% | ~1 |
 | The collector | 6.00% | ~1 |
 | Clear sight | 0.00% | ~0 |
-| The Mentor | 0.00% | ~0 |
 | Forgemaster | 0.00% | ~0 |
 | Shardbearer | 0.00% | ~0 |
 | Shatterer | 0.00% | ~0 |

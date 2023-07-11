@@ -137,9 +137,9 @@
       "ID": "ACH_09",
       "SetID": "efe2lj",
       "Name": "The Mentor",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_10",
@@ -367,7 +367,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-07-11T07:00:19.2861542+00:00",
-  "LastUpdate_Ratings": "2023-07-11T06:56:59.0666477+00:00",
-  "LastUpdate_Achievements": "2023-07-11T07:00:19.2861791+00:00"
+  "LastChanged_Achievements": "2023-07-11T08:02:07.4160882+00:00",
+  "LastUpdate_Ratings": "2023-07-11T07:57:00.8409194+00:00",
+  "LastUpdate_Achievements": "2023-07-11T08:02:07.4161132+00:00"
 }
