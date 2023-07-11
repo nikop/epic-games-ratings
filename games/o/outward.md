@@ -130,12 +130,12 @@ Completed: 2 (0.07%) (Ranked 194)
 | 2023-07-09 | 3,022 | 2 |
 | 2023-07-10 | 3,032 | 2 |
 ## Awards
-Max (Amazing Characters): 31  (Ranked 453)  
-Sum: 239 (Ranked 349)  
-Diff (max vs sum): 104  
+Max (Highly Recommended): 33  (Ranked 442)  
+Sum: 241 (Ranked 349)  
+Diff (max vs sum): 93  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 31 |
+| This game is Highly Recommended | 33 |
 | This game has Amazing Characters | 31 |
 | This game has Unique Visuals | 30 |
 | This game has Challenging Combat | 28 |
@@ -208,3 +208,4 @@ Diff (max vs sum): 104
 | 2023-04-13 | 4.54 | - | 31 | 238 |
 | 2023-04-16 | 4.55 | - | 31 | 238 |
 | 2023-06-15 | 4.55 | - | 31 | 239 |
+| 2023-07-11 | 4.55 | - | 33 | 241 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-05-26T19:00:00+00:00",
     "PcReleaseDate": "2023-05-26T19:00:00+00:00",
@@ -625,9 +625,9 @@
       "ID": "5",
       "SetID": "39djiaj",
       "Name": "Angry Dad",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "6",
@@ -649,9 +649,9 @@
       "ID": "8",
       "SetID": "39djiaj",
       "Name": "Stay Hydrated",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "9",
@@ -672,8 +672,8 @@
   ],
   "FirstSeen": "2023-05-27T21:59:02.7354993+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:07.9162458+00:00",
-  "LastChanged_Achievements": "2023-07-11T00:06:05.8159231+00:00",
+  "LastChanged_Achievements": "2023-07-11T02:24:06.0482821+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:16.0821032+00:00",
-  "LastUpdate_Ratings": "2023-07-10T23:59:15.0817465+00:00",
-  "LastUpdate_Achievements": "2023-07-11T00:06:05.8159508+00:00"
+  "LastUpdate_Ratings": "2023-07-11T02:16:46.2924715+00:00",
+  "LastUpdate_Achievements": "2023-07-11T02:24:06.0483101+00:00"
 }

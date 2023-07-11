@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -124,7 +124,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2794,
+  "EOS_Progressed": 2795,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 266,
   "EOS_NewCompleters": 0,
@@ -2259,6 +2259,11 @@
       "Time": "2023-07-10T23:06:55.5733258+00:00",
       "NumProgressed": 2794,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-11T02:24:03.5990646+00:00",
+      "NumProgressed": 2795,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2302,7 +2307,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 1369
+      "UsersEstimate": 1370
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -2310,7 +2315,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1285
+      "UsersEstimate": 1286
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -2324,9 +2329,9 @@
       "ID": "ACH_EMBRAYO_EXTRACTION",
       "SetID": "816efe",
       "Name": "Stuff Of Nightmares",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 503
+      "UsersEstimate": 475
     },
     {
       "ID": "ACH_FINISH_HARD",
@@ -2382,7 +2387,7 @@
       "Name": "Call Me Snake",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 1648
+      "UsersEstimate": 1649
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -2390,7 +2395,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 1788
+      "UsersEstimate": 1789
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -2398,7 +2403,7 @@
       "Name": "Heavy Steps",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "ACH_MARINE_PROSTHESIS",
@@ -2470,7 +2475,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 1313
+      "UsersEstimate": 1314
     },
     {
       "ID": "ACH_MISSION_03",
@@ -2574,7 +2579,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 2235
+      "UsersEstimate": 2236
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -2629,7 +2634,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 2794,
+      "Progressed": 2795,
       "Completed": 0
     }
   ],
@@ -2637,8 +2642,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-10T21:00:33.0410734+00:00",
-  "LastChanged_Achievements": "2023-07-11T00:06:03.659251+00:00",
+  "LastChanged_Achievements": "2023-07-11T02:24:03.5990641+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:32.529009+00:00",
-  "LastUpdate_Ratings": "2023-07-10T23:59:22.9009362+00:00",
-  "LastUpdate_Achievements": "2023-07-11T00:06:03.6593025+00:00"
+  "LastUpdate_Ratings": "2023-07-11T02:16:57.8340149+00:00",
+  "LastUpdate_Achievements": "2023-07-11T02:24:03.5991035+00:00"
 }

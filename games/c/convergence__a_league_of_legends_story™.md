@@ -55,8 +55,8 @@
 | No Time to Waste | 1.00% | ~8 |
 | Wildlife Protection | 0.70% | ~5 |
 | A Lesson in Precision | 0.70% | ~5 |
+| Going to Live Forever | 0.50% | ~4 |
 | Raw Talent | 0.50% | ~4 |
-| Going to Live Forever | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 750 (Ranked 198)  
 Completed: 4 (0.53%) (Ranked 125)  

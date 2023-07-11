@@ -1,19 +1,19 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.09 (Ranked 890)  
+Rating: 4.11 (Ranked 885)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,499 |
-| World Map | 79.00% | ~1,273 |
-| Temple of Eternals | 56.00% | ~903 |
-| Prestigious | 53.00% | ~854 |
-| Fellowship Power | 41.00% | ~661 |
-| Guild Power | 24.00% | ~387 |
+| Victor | 93.00% | ~1,502 |
+| World Map | 79.00% | ~1,276 |
+| Temple of Eternals | 56.00% | ~904 |
+| Prestigious | 53.00% | ~856 |
+| Fellowship Power | 41.00% | ~662 |
+| Guild Power | 24.00% | ~388 |
 | Prestigious x10 | 21.00% | ~339 |
-| The game is on | 19.00% | ~306 |
-| Exotic Merchant | 17.00% | ~274 |
+| The game is on | 19.00% | ~307 |
+| Exotic Merchant | 17.00% | ~275 |
 | Dragon Clicker | 16.00% | ~258 |
 | Miner Clicker | 16.00% | ~258 |
 | Full Party | 15.00% | ~242 |
@@ -23,12 +23,12 @@ Rating: 4.09 (Ranked 890)
 | Hero inspection | 14.00% | ~226 |
 | Lieutenant | 14.00% | ~226 |
 | Mysterious Rock | 13.00% | ~210 |
-| Milestone collector | 12.00% | ~193 |
-| Natural Talent | 12.00% | ~193 |
-| Superior | 12.00% | ~193 |
-| The Unstoppable | 12.00% | ~193 |
-| Scientist | 11.00% | ~177 |
-| Hunter | 10.00% | ~161 |
+| Milestone collector | 12.00% | ~194 |
+| Natural Talent | 12.00% | ~194 |
+| Superior | 12.00% | ~194 |
+| The Unstoppable | 12.00% | ~194 |
+| Scientist | 11.00% | ~178 |
+| Hunter | 10.00% | ~162 |
 | Challenger | 9.00% | ~145 |
 | Daily Quest Completionist | 9.00% | ~145 |
 | Doing My Part | 9.00% | ~145 |
@@ -54,8 +54,8 @@ Rating: 4.09 (Ranked 890)
 | Engineer Mastery | 5.00% | ~81 |
 | Lock And Load | 5.00% | ~81 |
 | Missions Dedication | 5.00% | ~81 |
-| Background Story | 4.00% | ~64 |
-| Sailor | 4.00% | ~64 |
+| Background Story | 4.00% | ~65 |
+| Sailor | 4.00% | ~65 |
 | Active Member | 3.00% | ~48 |
 | Arena Challenger | 3.00% | ~48 |
 | Legendary | 3.00% | ~48 |
@@ -81,7 +81,7 @@ Rating: 4.09 (Ranked 890)
 | War Machines Army | 0.20% | ~3 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,612 (Ranked 168)  
+Progressed: 1,615 (Ranked 168)  
 Completed: 1 (0.06%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 1 (0.06%) (Ranked 198)
 | 2023-07-08 | 1,591 | 1 |
 | 2023-07-09 | 1,600 | 1 |
 | 2023-07-10 | 1,611 | 1 |
-| 2023-07-11 | 1,612 | 1 |
+| 2023-07-11 | 1,615 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -186,3 +186,4 @@ Completed: 1 (0.06%) (Ranked 198)
 | 2023-06-08 | 4.05 | 0 | 0 |
 | 2023-06-18 | 4.07 | 0 | 0 |
 | 2023-07-06 | 4.09 | 0 | 0 |
+| 2023-07-11 | 4.11 | 0 | 0 |

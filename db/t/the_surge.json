@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 476,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -2054,9 +2054,9 @@
       "ID": "ID_ACHIEV_58",
       "SetID": "98bke8c",
       "Name": "Is This Real Life?",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 358
+      "UsersEstimate": 403
     },
     {
       "ID": "ID_ACHIEV_59",
@@ -2150,8 +2150,8 @@
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-07-06T14:58:32.669808+00:00",
-  "LastChanged_Achievements": "2023-07-11T00:00:37.6667675+00:00",
+  "LastChanged_Achievements": "2023-07-11T02:19:07.9444445+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:35.225015+00:00",
-  "LastUpdate_Ratings": "2023-07-10T23:58:12.7870621+00:00",
-  "LastUpdate_Achievements": "2023-07-11T00:00:37.6668541+00:00"
+  "LastUpdate_Ratings": "2023-07-11T02:15:29.2903551+00:00",
+  "LastUpdate_Achievements": "2023-07-11T02:19:07.944529+00:00"
 }

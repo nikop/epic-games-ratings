@@ -5,23 +5,23 @@ Rating: 4.18 (Ranked 854)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 6.00% | ~4,010 |
+| First Step Into the Knight | 6.00% | ~4,011 |
 | To the Victor Go the Spoils | 4.00% | ~2,674 |
 | Har, Har, Har, Very Funny | 4.00% | ~2,674 |
 | Knighthood | 4.00% | ~2,674 |
 | Loose Ends | 4.00% | ~2,674 |
-| The Batman Family | 3.00% | ~2,005 |
-| Something in the Clay | 3.00% | ~2,005 |
-| The Show Mud Go On | 3.00% | ~2,005 |
-| Quartzer Life Crisis | 3.00% | ~2,005 |
-| Snow Problem | 3.00% | ~2,005 |
-| Get ReQ'd | 3.00% | ~2,005 |
-| Working Hard or Harley Working? | 3.00% | ~2,005 |
-| Unstoppable Force | 3.00% | ~2,005 |
-| Whispered Words | 3.00% | ~2,005 |
-| Lock and Key | 3.00% | ~2,005 |
-| Bad Apples in Every Orchard | 3.00% | ~2,005 |
-| From Inside Gotham's Walls | 3.00% | ~2,005 |
+| The Batman Family | 3.00% | ~2,006 |
+| Something in the Clay | 3.00% | ~2,006 |
+| The Show Mud Go On | 3.00% | ~2,006 |
+| Quartzer Life Crisis | 3.00% | ~2,006 |
+| Snow Problem | 3.00% | ~2,006 |
+| Get ReQ'd | 3.00% | ~2,006 |
+| Working Hard or Harley Working? | 3.00% | ~2,006 |
+| Unstoppable Force | 3.00% | ~2,006 |
+| Whispered Words | 3.00% | ~2,006 |
+| Lock and Key | 3.00% | ~2,006 |
+| Bad Apples in Every Orchard | 3.00% | ~2,006 |
+| From Inside Gotham's Walls | 3.00% | ~2,006 |
 | End of an Era | 2.00% | ~1,337 |
 | In Your Element | 2.00% | ~1,337 |
 | Protector of Gotham | 2.00% | ~1,337 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 854)
 | History Major | 0.10% | ~67 |
 | Confronting Your Demon | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,840 (Ranked 75)  
+Progressed: 66,850 (Ranked 75)  
 Completed: 101 (0.15%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 101 (0.15%) (Ranked 172)
 | 2023-07-08 | 66,718 | 101 |
 | 2023-07-09 | 66,781 | 101 |
 | 2023-07-10 | 66,839 | 101 |
-| 2023-07-11 | 66,840 | 101 |
+| 2023-07-11 | 66,850 | 101 |
 ## Awards
 Max (Great Boss Battles): 2,434  (Ranked 99)  
 Sum: 4,028 (Ranked 137)  

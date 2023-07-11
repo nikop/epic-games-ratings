@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 517,
+  "EOS_Progressed": 518,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 292,
+  "EOS_NewPlayers": 279,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -886,6 +886,11 @@
       "Time": "2023-07-11T00:04:05.1373362+00:00",
       "NumProgressed": 517,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-11T02:21:42.2129095+00:00",
+      "NumProgressed": 518,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -897,7 +902,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -905,7 +910,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -937,7 +942,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -1097,15 +1102,15 @@
       "Name": "Greetings from Royalty",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Think Bullets Will Affect Her?",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 41
     },
     {
       "ID": "EXT_ACHIEVEMENT_1",
@@ -1177,7 +1182,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -1185,7 +1190,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -1215,9 +1220,9 @@
       "ID": "KLACKEY_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "And There We Go",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 140
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -1249,7 +1254,7 @@
       "Name": "Leecher Hunting Season",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "LEECHER_ACHIEVEMENT_1",
@@ -1273,7 +1278,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -1289,7 +1294,7 @@
       "Name": "Night Snack",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -1335,9 +1340,9 @@
       "ID": "PASS_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Beep Beep Boop",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 41
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_1",
@@ -1424,14 +1429,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 517,
+      "Progressed": 518,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-11T00:04:05.1373358+00:00",
+  "LastChanged_Achievements": "2023-07-11T02:21:42.2129089+00:00",
   "LastUpdate_AppInfo": "2023-07-06T13:16:22.5768242+00:00",
-  "LastUpdate_Ratings": "2023-07-10T23:57:06.7276458+00:00",
-  "LastUpdate_Achievements": "2023-07-11T00:04:05.1374099+00:00"
+  "LastUpdate_Ratings": "2023-07-11T02:14:11.0021244+00:00",
+  "LastUpdate_Achievements": "2023-07-11T02:21:42.212964+00:00"
 }

@@ -8,7 +8,7 @@
 | Library | 66.00% | ~55 |
 | Space | 49.00% | ~41 |
 | Haunted Mansion | 46.00% | ~38 |
-| Science Laboratory | 36.00% | ~30 |
+| Science Laboratory | 37.00% | ~31 |
 | Ball Disposal Facility | 29.00% | ~24 |
 | Mecha Wars | 29.00% | ~24 |
 | Sewer | 29.00% | ~24 |

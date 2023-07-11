@@ -9,9 +9,9 @@
 | Don't Cry Wolf | 33.00% | ~4 |
 | A new World ahead | 33.00% | ~4 |
 | Welcome to the Club | 25.00% | ~3 |
+| Apprentice | 25.00% | ~3 |
 | Bringing guns to a sword fight | 17.00% | ~2 |
 | Can't touch this | 17.00% | ~2 |
-| Apprentice | 17.00% | ~2 |
 | Mirror, Mirror on the Wall | 8.00% | ~1 |
 | Defeat Ingla | 8.00% | ~1 |
 | Defeat Tezuth | 8.00% | ~1 |

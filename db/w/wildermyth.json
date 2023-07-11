@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -151,7 +151,7 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1304,
+  "EOS_Progressed": 1305,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 1,
@@ -1071,6 +1071,11 @@
       "Time": "2023-07-10T21:05:04.228434+00:00",
       "NumProgressed": 1304,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-11T02:21:47.1943974+00:00",
+      "NumProgressed": 1305,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 56,
@@ -1098,7 +1103,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -1114,7 +1119,7 @@
       "Name": "A Mythic Menagerie",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "achievement_beatAllStoryCampaigns",
@@ -1258,7 +1263,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "achievement_mythwalker",
@@ -1280,9 +1285,9 @@
       "ID": "achievement_twoDifferentThemeLimbs",
       "SetID": "95dc8p",
       "Name": "Thematic Divergence",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 117
     },
     {
       "ID": "achievement_use3ReactionStrikesInOneTurn",
@@ -1386,7 +1391,7 @@
       "Name": "Core Failure",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "enduringWar_destroyEnduring",
@@ -1529,15 +1534,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1304,
+      "Progressed": 1305,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-07-08T20:01:41.3411794+00:00",
-  "LastChanged_Achievements": "2023-07-11T00:04:09.1876208+00:00",
+  "LastChanged_Achievements": "2023-07-11T02:21:47.1943969+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:13.8802543+00:00",
-  "LastUpdate_Ratings": "2023-07-11T00:00:29.6137956+00:00",
-  "LastUpdate_Achievements": "2023-07-11T00:04:09.1876776+00:00"
+  "LastUpdate_Ratings": "2023-07-11T02:18:15.8933989+00:00",
+  "LastUpdate_Achievements": "2023-07-11T02:21:47.1944417+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -114,7 +114,7 @@
   "Tags": [],
   "EOS_Progressed": 3431,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4499,9 +4499,9 @@
       "ID": "Ach042",
       "SetID": "12n4k20",
       "Name": "I look cool. But I can look COOLER.",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 21
     },
     {
       "ID": "Ach043",
@@ -4571,9 +4571,9 @@
       "ID": "Ach051",
       "SetID": "12n4k20",
       "Name": "You can pet the cat!",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 21
     },
     {
       "ID": "Ach052",
@@ -4754,8 +4754,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-11T00:02:10.1289891+00:00",
+  "LastChanged_Achievements": "2023-07-11T02:19:21.748293+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:24.9104218+00:00",
-  "LastUpdate_Ratings": "2023-07-10T23:58:44.9330283+00:00",
-  "LastUpdate_Achievements": "2023-07-11T00:02:10.1290853+00:00"
+  "LastUpdate_Ratings": "2023-07-11T02:16:06.9978885+00:00",
+  "LastUpdate_Achievements": "2023-07-11T02:19:21.7483684+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -621,9 +621,9 @@
       "ID": "ArtifactsCollector",
       "SetID": "82505mn",
       "Name": "Artifact Collector",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 80
+      "UsersEstimate": 84
     },
     {
       "ID": "Assassin",
@@ -885,9 +885,9 @@
       "ID": "TrapMaster",
       "SetID": "82505mn",
       "Name": "Trap Master",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 84
     },
     {
       "ID": "TreasureHunter",
@@ -934,8 +934,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-07-11T00:02:09.0923911+00:00",
+  "LastChanged_Achievements": "2023-07-11T02:19:20.4056651+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:50.0593179+00:00",
-  "LastUpdate_Ratings": "2023-07-10T23:59:35.3940768+00:00",
-  "LastUpdate_Achievements": "2023-07-11T00:02:09.0924236+00:00"
+  "LastUpdate_Ratings": "2023-07-11T02:17:12.445103+00:00",
+  "LastUpdate_Achievements": "2023-07-11T02:19:20.4056933+00:00"
 }

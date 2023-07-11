@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Augmented | 17.00% | ~120 |
+| Augmented | 18.00% | ~127 |
 | Challenge Accepted | 15.00% | ~106 |
 | Terminated I | 14.00% | ~99 |
 | Unlocked and Loaded | 13.00% | ~92 |

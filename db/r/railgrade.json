@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-09-29T14:00:00+00:00",
     "PcReleaseDate": "2022-09-29T14:00:00+00:00",
@@ -468,9 +468,9 @@
       "Count": 46
     }
   ],
-  "EOS_Progressed": 19238,
+  "EOS_Progressed": 19239,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -4033,6 +4033,11 @@
       "Time": "2023-07-10T21:07:52.5789579+00:00",
       "NumProgressed": 19238,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-07-11T02:24:06.4859591+00:00",
+      "NumProgressed": 19239,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 37,
@@ -4092,7 +4097,7 @@
       "Name": "8K is Enough for Everyone",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4232
+      "UsersEstimate": 4233
     },
     {
       "ID": "ach.080.eraser",
@@ -4140,7 +4145,7 @@
       "Name": "Minimalist",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 17314
+      "UsersEstimate": 17315
     },
     {
       "ID": "ach.140.legacy",
@@ -4148,7 +4153,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 98,
       "XP": 60,
-      "UsersEstimate": 18853
+      "UsersEstimate": 18854
     },
     {
       "ID": "ach.150.pocket",
@@ -4180,7 +4185,7 @@
       "Name": "Inspector",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 11350
+      "UsersEstimate": 11351
     },
     {
       "ID": "ach.190.scenic",
@@ -4188,7 +4193,7 @@
       "Name": "The scenic route",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 5194
+      "UsersEstimate": 5195
     },
     {
       "ID": "ach.200.light",
@@ -4236,7 +4241,7 @@
       "Name": "Before the Downfall",
       "Percentage": 93,
       "XP": 60,
-      "UsersEstimate": 17891
+      "UsersEstimate": 17892
     },
     {
       "ID": "ach.260.investor",
@@ -4339,7 +4344,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 19238,
+      "Progressed": 19239,
       "Completed": 32
     }
   ],
@@ -4347,8 +4352,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-07-07T14:59:15.8790573+00:00",
-  "LastChanged_Achievements": "2023-07-11T00:06:06.2786521+00:00",
+  "LastChanged_Achievements": "2023-07-11T02:24:06.4859586+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:35.0047379+00:00",
-  "LastUpdate_Ratings": "2023-07-10T23:59:24.9588952+00:00",
-  "LastUpdate_Achievements": "2023-07-11T00:06:06.2787008+00:00"
+  "LastUpdate_Ratings": "2023-07-11T02:17:00.3580253+00:00",
+  "LastUpdate_Achievements": "2023-07-11T02:24:06.4859976+00:00"
 }

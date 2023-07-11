@@ -11,8 +11,8 @@ Rating: 3.55 (Ranked 947)
 | Wounded Whispers | 60.00% | ~1,031 |
 | Blood Will Have Blood | 51.00% | ~877 |
 | ICU | 46.00% | ~791 |
+| Catch and Release | 45.00% | ~774 |
 | Peek-a-boo | 44.00% | ~756 |
-| Catch and Release | 44.00% | ~756 |
 | Sucks To Be You | 43.00% | ~739 |
 | Welcome to the Neighborhood | 38.00% | ~653 |
 | Fly Fisher | 36.00% | ~619 |

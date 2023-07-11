@@ -27,7 +27,7 @@ Rating: 4.46 (Ranked 608)
 | Stoker | 33.00% | ~502 |
 | Bull and bear | 33.00% | ~502 |
 | Full Steam ahead | 32.00% | ~486 |
-| Financial Shark | 30.00% | ~456 |
+| Financial Shark | 31.00% | ~471 |
 | All mine | 29.00% | ~441 |
 | Mole | 29.00% | ~441 |
 | Socializer | 28.00% | ~426 |
@@ -43,8 +43,8 @@ Rating: 4.46 (Ranked 608)
 | Resistance is futile | 16.00% | ~243 |
 | Assimilated | 16.00% | ~243 |
 | Locusts | 16.00% | ~243 |
+| Settler | 14.00% | ~213 |
 | Max Power | 13.00% | ~198 |
-| Settler | 13.00% | ~198 |
 | Go West | 12.00% | ~182 |
 | Bold and beautiful | 11.00% | ~167 |
 | A new Hope | 10.00% | ~152 |

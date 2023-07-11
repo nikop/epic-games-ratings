@@ -34,6 +34,7 @@ Number of Ratings: 371  (23.09.2022)
 | Junk Banishment | 3.00% | ~89 |
 | Tactical Flexibility | 3.00% | ~89 |
 | Patron of Deimos | 2.00% | ~59 |
+| Fleetmaster | 2.00% | ~59 |
 | Exterminator | 2.00% | ~59 |
 | Hands-On Research | 2.00% | ~59 |
 | Only in Death | 2.00% | ~59 |
@@ -41,7 +42,6 @@ Number of Ratings: 371  (23.09.2022)
 | Engine Kill | 2.00% | ~59 |
 | Death Comes For All | 2.00% | ~59 |
 | Clean Slate | 1.00% | ~30 |
-| Fleetmaster | 1.00% | ~30 |
 | For the Machine God | 1.00% | ~30 |
 | Unstable Immaterium | 1.00% | ~30 |
 | Strike Force | 1.00% | ~30 |
