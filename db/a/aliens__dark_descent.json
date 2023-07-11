@@ -126,7 +126,7 @@
   "Tags": [],
   "EOS_Progressed": 2804,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 261,
+  "EOS_NewPlayers": 255,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2316,9 +2316,9 @@
       "ID": "ACH_ALL_MARINES_ALIVE",
       "SetID": "816efe",
       "Name": "Flawless Victory",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 168
+      "UsersEstimate": 196
     },
     {
       "ID": "ACH_ALL_WEAPONS",
@@ -2612,9 +2612,9 @@
       "ID": "ACH_PROLOGUE",
       "SetID": "816efe",
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 2243
+      "UsersEstimate": 2271
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -2677,8 +2677,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-10T21:00:33.0410734+00:00",
-  "LastChanged_Achievements": "2023-07-11T13:23:15.6212674+00:00",
+  "LastChanged_Achievements": "2023-07-11T14:08:41.7760688+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:32.529009+00:00",
-  "LastUpdate_Ratings": "2023-07-11T13:16:41.3590417+00:00",
-  "LastUpdate_Achievements": "2023-07-11T13:23:15.6213191+00:00"
+  "LastUpdate_Ratings": "2023-07-11T14:01:36.5345794+00:00",
+  "LastUpdate_Achievements": "2023-07-11T14:08:41.7761215+00:00"
 }

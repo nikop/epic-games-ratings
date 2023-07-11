@@ -1,7 +1,7 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.52 (Ranked 520)  
+Rating: 4.52 (Ranked 519)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -15,7 +15,7 @@ Number of Ratings: 368  (23.09.2022)
 | Wannabe knight | 24.00% | ~3,319 |
 | Garden of Eden | 24.00% | ~3,319 |
 | Full house | 24.00% | ~3,319 |
-| Help an old friend | 22.00% | ~3,042 |
+| Help an old friend | 22.00% | ~3,043 |
 | Two of us | 20.00% | ~2,766 |
 | Negotiation skills | 19.00% | ~2,628 |
 | Workers' union | 18.00% | ~2,489 |
@@ -38,9 +38,9 @@ Number of Ratings: 368  (23.09.2022)
 | A cry for help | 8.00% | ~1,106 |
 | Silentium est aureum | 7.00% | ~968 |
 | Rebel without a cause | 6.00% | ~830 |
-| Staring contest champion | 5.00% | ~691 |
-| Lone wolf | 5.00% | ~691 |
-| Vox Populi | 5.00% | ~691 |
+| Staring contest champion | 5.00% | ~692 |
+| Lone wolf | 5.00% | ~692 |
+| Vox Populi | 5.00% | ~692 |
 | Revenge | 4.00% | ~553 |
 | Self-defense | 4.00% | ~553 |
 | Countess Aliena | 4.00% | ~553 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~415 |
 | Boy of mystery | 2.00% | ~277 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,829 (Ranked 111)  
+Progressed: 13,830 (Ranked 111)  
 Completed: 105 (0.76%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 105 (0.76%) (Ranked 110)
 | 2023-07-08 | 13,780 | 104 |
 | 2023-07-09 | 13,801 | 104 |
 | 2023-07-10 | 13,819 | 105 |
-| 2023-07-11 | 13,829 | 105 |
+| 2023-07-11 | 13,830 | 105 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 293)  
 Sum: 188 (Ranked 366)  

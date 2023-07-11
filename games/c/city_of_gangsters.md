@@ -5,28 +5,28 @@ Rating: 4.26 (Ranked 801)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~151,328 |
-| Copacetic Coordination | 16.00% | ~52,636 |
+| Corner Clout | 46.00% | ~151,332 |
+| Copacetic Coordination | 16.00% | ~52,637 |
 | Fronting the Money | 14.00% | ~46,057 |
 | The Dawn of Automation | 14.00% | ~46,057 |
 | Extraordinary Logistics | 14.00% | ~46,057 |
-| Dirty Money | 13.00% | ~42,767 |
-| Family First | 13.00% | ~42,767 |
-| Cleaning House | 12.00% | ~39,477 |
-| Room in the Back | 12.00% | ~39,477 |
-| Booze Baron | 11.00% | ~36,187 |
+| Dirty Money | 13.00% | ~42,768 |
+| Family First | 13.00% | ~42,768 |
+| Cleaning House | 12.00% | ~39,478 |
+| Room in the Back | 12.00% | ~39,478 |
+| Booze Baron | 11.00% | ~36,188 |
 | Beating the Heat | 10.00% | ~32,898 |
 | Friends on the Force | 10.00% | ~32,898 |
 | Neighborhood Watch | 10.00% | ~32,898 |
-| Core Corps | 8.00% | ~26,318 |
-| Sizeable Stash | 7.00% | ~23,028 |
-| Street Fighter | 7.00% | ~23,028 |
-| Friendly Gestures | 7.00% | ~23,028 |
-| People Person | 7.00% | ~23,028 |
-| Liquor Lord | 6.00% | ~19,738 |
-| Safety in Numbers | 6.00% | ~19,738 |
-| Show ‘em the Sugar | 6.00% | ~19,738 |
-| Killing Them Softly | 6.00% | ~19,738 |
+| Core Corps | 8.00% | ~26,319 |
+| Sizeable Stash | 7.00% | ~23,029 |
+| Street Fighter | 7.00% | ~23,029 |
+| Friendly Gestures | 7.00% | ~23,029 |
+| People Person | 7.00% | ~23,029 |
+| Liquor Lord | 6.00% | ~19,739 |
+| Safety in Numbers | 6.00% | ~19,739 |
+| Show ‘em the Sugar | 6.00% | ~19,739 |
+| Killing Them Softly | 6.00% | ~19,739 |
 | Street Knowledge | 5.00% | ~16,449 |
 | Oh Captain | 5.00% | ~16,449 |
 | Branching Out | 5.00% | ~16,449 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 801)
 | High Pillow | 0.10% | ~329 |
 | Station Master | 0.10% | ~329 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 328,975 (Ranked 40)  
+Progressed: 328,982 (Ranked 40)  
 Completed: 5 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 5 (0.00%) (Ranked 237)
 | 2023-07-08 | 328,398 | 5 |
 | 2023-07-09 | 328,678 | 5 |
 | 2023-07-10 | 328,868 | 5 |
-| 2023-07-11 | 328,975 | 5 |
+| 2023-07-11 | 328,982 | 5 |
 ## Awards
 Max (Highly Recommended): 27  (Ranked 465)  
 Sum: 119 (Ranked 399)  

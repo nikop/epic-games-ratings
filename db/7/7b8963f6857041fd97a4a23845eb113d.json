@@ -2,9 +2,9 @@
   "ID": "7b8963f6857041fd97a4a23845eb113d",
   "Name": "Daydream. Forgotten Sorrow",
   "ProductSlug": "daydream-forgotten-sorrow-6025c9",
-  "Ranking_EOS_Progress": 371,
+  "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21,
+  "EOS_Progressed": 22,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -121,6 +121,11 @@
       "Time": "2023-07-09T10:04:17.0422155+00:00",
       "NumProgressed": 21,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-11T14:06:03.5791866+00:00",
+      "NumProgressed": 22,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -130,7 +135,7 @@
       "ID": "CH1_FATHER",
       "SetID": "6d348d1",
       "Name": "What a Mess!",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 70,
       "UsersEstimate": 2
     },
@@ -138,7 +143,7 @@
       "ID": "CH1_FIRST",
       "SetID": "6d348d1",
       "Name": "On a Journey!",
-      "Percentage": 81,
+      "Percentage": 77,
       "XP": 70,
       "UsersEstimate": 17
     },
@@ -146,7 +151,7 @@
       "ID": "CH1_MOTHER",
       "SetID": "6d348d1",
       "Name": "Mother\u0027s song",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 70,
       "UsersEstimate": 2
     },
@@ -170,7 +175,7 @@
       "ID": "CH2_SPIDER",
       "SetID": "6d348d1",
       "Name": "A Light in the Darkness",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 70,
       "UsersEstimate": 2
     },
@@ -178,7 +183,7 @@
       "ID": "CH2_UNDERGROUND",
       "SetID": "6d348d1",
       "Name": "Secret Lair",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 70,
       "UsersEstimate": 2
     },
@@ -186,7 +191,7 @@
       "ID": "CH3_FLOWER",
       "SetID": "6d348d1",
       "Name": "The Flower",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 70,
       "UsersEstimate": 4
     },
@@ -210,7 +215,7 @@
       "ID": "CH4_CLOAKROOM",
       "SetID": "6d348d1",
       "Name": "The Last Drawing",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 70,
       "UsersEstimate": 2
     },
@@ -226,7 +231,7 @@
       "ID": "CH4_SWING",
       "SetID": "6d348d1",
       "Name": "The Swing Set",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 75,
       "UsersEstimate": 2
     },
@@ -243,14 +248,14 @@
     {
       "ID": "6d348d1",
       "IsBase": true,
-      "Progressed": 21,
+      "Progressed": 22,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T16:57:07.6621394+00:00",
   "FirstSeenAchievements": "2023-06-01T12:01:12.0964223+00:00",
-  "LastChanged_Achievements": "2023-07-11T13:21:01.103564+00:00",
+  "LastChanged_Achievements": "2023-07-11T14:06:03.5791859+00:00",
   "LastUpdate_AppInfo": "2023-07-06T15:57:02.5853892+00:00",
-  "LastUpdate_Ratings": "2023-07-11T13:14:23.840035+00:00",
-  "LastUpdate_Achievements": "2023-07-11T13:21:01.103573+00:00"
+  "LastUpdate_Ratings": "2023-07-11T13:58:57.5873221+00:00",
+  "LastUpdate_Achievements": "2023-07-11T14:06:03.5792051+00:00"
 }

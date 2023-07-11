@@ -5,7 +5,7 @@ Rating: 4.42 (Ranked 663)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 80.00% | ~2,243 |
+| This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,271 |
 | Snatched Out | 73.00% | ~2,047 |
 | Keep 'Em Coming | 72.00% | ~2,019 |
 | Cleaning Lethe, One Nest At A Time | 64.00% | ~1,795 |
@@ -40,7 +40,7 @@ Rating: 4.42 (Ranked 663)
 | Abysmal Horrors | 11.00% | ~308 |
 | Heavy Steps | 9.00% | ~252 |
 | Regicide | 8.00% | ~224 |
-| Flawless Victory | 6.00% | ~168 |
+| Flawless Victory | 7.00% | ~196 |
 | This Went Smoothly | 6.00% | ~168 |
 | Perfect Enhancements | 5.00% | ~140 |
 | The True Experience | 5.00% | ~140 |

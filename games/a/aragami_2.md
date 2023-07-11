@@ -12,7 +12,7 @@ Number of Ratings: 88  (23.09.2022)
 | Tools of the Trade | 63.00% | ~23,469 |
 | Apprentice | 60.00% | ~22,352 |
 | Secret Seeker | 57.00% | ~21,234 |
-| Forge of Assassins | 55.00% | ~20,489 |
+| Forge of Assassins | 56.00% | ~20,862 |
 | Revenant | 52.00% | ~19,372 |
 | I don’t Care! | 45.00% | ~16,764 |
 | Bird of Prey | 37.00% | ~13,784 |
@@ -52,7 +52,7 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 1.00% | ~373 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 37,253 (Ranked 90)  
-Completed: 186 (0.50%) (Ranked 127)  
+Completed: 186 (0.50%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

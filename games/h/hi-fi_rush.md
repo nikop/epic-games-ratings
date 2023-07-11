@@ -9,6 +9,7 @@ Rating: 4.87 (Ranked 24)
 | The Negotiator | 0.90% | ~31 |
 | I play my own way! | 0.90% | ~31 |
 | Kissing the sky! | 0.90% | ~31 |
+| Who put gears in there? | 0.90% | ~31 |
 | Cream of the Crop | 0.80% | ~27 |
 | Time to pay up! | 0.80% | ~27 |
 | Who's the boss now? | 0.80% | ~27 |
@@ -17,7 +18,6 @@ Rating: 4.87 (Ranked 24)
 | You got this, Peppermint? | 0.80% | ~27 |
 | Z-shielding's got nothing on us! | 0.80% | ~27 |
 | Out in a puff of smoke | 0.80% | ~27 |
-| Who put gears in there? | 0.80% | ~27 |
 | Start with a bang! | 0.70% | ~24 |
 | This will cost you big time | 0.70% | ~24 |
 | Perfect Parry | 0.70% | ~24 |

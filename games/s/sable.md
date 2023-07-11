@@ -1,50 +1,50 @@
 # Sable
 [Store](https://store.epicgames.com/en-US/p/sable)  
 [View Rawdata](../../db/s/sable.json)  
-Rating: 4.52 (Ranked 520)  
+Rating: 4.52 (Ranked 519)  
 Number of Ratings: 43  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~25,867 |
-| Just The Two of Us | 33.00% | ~25,106 |
-| Up On High | 25.00% | ~19,020 |
-| Under The Hood | 25.00% | ~19,020 |
-| Got Your Nose | 24.00% | ~18,259 |
-| The Gift of Gab | 24.00% | ~18,259 |
-| Wrapping Up | 22.00% | ~16,737 |
-| More Than A Box Of Sand | 18.00% | ~13,694 |
-| The Dunboyne | 17.00% | ~12,933 |
-| Badge Hobbyist | 17.00% | ~12,933 |
+| Simoon | 34.00% | ~25,869 |
+| Just The Two of Us | 33.00% | ~25,108 |
+| Up On High | 25.00% | ~19,021 |
+| Under The Hood | 25.00% | ~19,021 |
+| Got Your Nose | 24.00% | ~18,260 |
+| The Gift of Gab | 24.00% | ~18,260 |
+| Wrapping Up | 22.00% | ~16,738 |
+| More Than A Box Of Sand | 18.00% | ~13,695 |
+| The Dunboyne | 17.00% | ~12,934 |
+| Badge Hobbyist | 17.00% | ~12,934 |
 | Chum Novice | 16.00% | ~12,173 |
 | Silver-Tongued Sable | 16.00% | ~12,173 |
 | Sticky Paws | 16.00% | ~12,173 |
 | Bubble Up | 16.00% | ~12,173 |
-| Thread The Needle | 15.00% | ~11,412 |
-| Power to the People | 14.00% | ~10,651 |
-| Take That! | 13.00% | ~9,890 |
-| Nesting Giant | 13.00% | ~9,890 |
-| Treasure Tracker | 13.00% | ~9,890 |
-| Big Spender | 13.00% | ~9,890 |
-| Badge Collector | 12.00% | ~9,129 |
-| Quite The Catch | 12.00% | ~9,129 |
+| Thread The Needle | 15.00% | ~11,413 |
+| Power to the People | 14.00% | ~10,652 |
+| Take That! | 13.00% | ~9,891 |
+| Nesting Giant | 13.00% | ~9,891 |
+| Treasure Tracker | 13.00% | ~9,891 |
+| Big Spender | 13.00% | ~9,891 |
+| Badge Collector | 12.00% | ~9,130 |
+| Quite The Catch | 12.00% | ~9,130 |
 | Rowleys Way | 11.00% | ~8,369 |
 | The Machinist Mask | 10.00% | ~7,608 |
 | The Cartographer Mask | 10.00% | ~7,608 |
 | Balfron Connection | 10.00% | ~7,608 |
 | Ceiling Of Stars | 10.00% | ~7,608 |
 | Playing Dress Up | 10.00% | ~7,608 |
-| Many Different Faces | 9.00% | ~6,847 |
-| Trellick's Pillar | 9.00% | ~6,847 |
-| Centre Of Brunswick | 9.00% | ~6,847 |
-| Bike Collector | 9.00% | ~6,847 |
-| Not That Kind Of Gliding | 9.00% | ~6,847 |
-| The Scrapper Mask | 8.00% | ~6,086 |
-| Shadow Of Neave | 8.00% | ~6,086 |
-| Fragile Goods | 8.00% | ~6,086 |
-| Glider on the Storm | 8.00% | ~6,086 |
-| Squeeze One Out | 8.00% | ~6,086 |
-| Dune Rider | 8.00% | ~6,086 |
+| Many Different Faces | 9.00% | ~6,848 |
+| Trellick's Pillar | 9.00% | ~6,848 |
+| Centre Of Brunswick | 9.00% | ~6,848 |
+| Bike Collector | 9.00% | ~6,848 |
+| Not That Kind Of Gliding | 9.00% | ~6,848 |
+| The Scrapper Mask | 8.00% | ~6,087 |
+| Shadow Of Neave | 8.00% | ~6,087 |
+| Fragile Goods | 8.00% | ~6,087 |
+| Glider on the Storm | 8.00% | ~6,087 |
+| Squeeze One Out | 8.00% | ~6,087 |
+| Dune Rider | 8.00% | ~6,087 |
 | Amateur Historian | 7.00% | ~5,326 |
 | The Beetle Mask | 7.00% | ~5,326 |
 | The Guard Mask | 7.00% | ~5,326 |
@@ -58,12 +58,12 @@ Number of Ratings: 43  (23.09.2022)
 | The Gliding | 4.00% | ~3,043 |
 | The Quick and the Curious | 4.00% | ~3,043 |
 | Bike Aficionado | 4.00% | ~3,043 |
-| Chum Expert | 3.00% | ~2,282 |
-| Gastric Bypass | 3.00% | ~2,282 |
-| The Angler Mask | 3.00% | ~2,282 |
+| Chum Expert | 3.00% | ~2,283 |
+| Gastric Bypass | 3.00% | ~2,283 |
+| The Angler Mask | 3.00% | ~2,283 |
 | Vivacious Vivarium | 2.00% | ~1,522 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,079 (Ranked 72)  
+Progressed: 76,084 (Ranked 72)  
 Completed: 736 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 736 (0.97%) (Ranked 102)
 | 2023-07-08 | 75,493 | 730 |
 | 2023-07-09 | 75,745 | 733 |
 | 2023-07-10 | 75,961 | 735 |
-| 2023-07-11 | 76,079 | 736 |
+| 2023-07-11 | 76,084 | 736 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

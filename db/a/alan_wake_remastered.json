@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57196,
+  "EOS_Progressed": 57197,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 400,
+  "EOS_NewPlayers": 398,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7627,6 +7627,11 @@
       "Time": "2023-07-11T13:20:52.9429295+00:00",
       "NumProgressed": 57196,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-11T14:05:53.9284685+00:00",
+      "NumProgressed": 57197,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7678,7 +7683,7 @@
       "Name": "Park Ranger",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 8579
+      "UsersEstimate": 8580
     },
     {
       "ID": "07",
@@ -7878,7 +7883,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 8007
+      "UsersEstimate": 8008
     },
     {
       "ID": "32",
@@ -7958,7 +7963,7 @@
       "Name": "Finders Keepers",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 8007
+      "UsersEstimate": 8008
     },
     {
       "ID": "42",
@@ -7974,7 +7979,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8579
+      "UsersEstimate": 8580
     },
     {
       "ID": "44",
@@ -7998,7 +8003,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 7435
+      "UsersEstimate": 7436
     },
     {
       "ID": "47",
@@ -8173,21 +8178,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57196,
+      "Progressed": 57197,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20664,
+      "Progressed": 20665,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-11T13:20:52.942929+00:00",
+  "LastChanged_Achievements": "2023-07-11T14:05:53.9284681+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:08.3646753+00:00",
-  "LastUpdate_Ratings": "2023-07-11T13:15:05.731257+00:00",
-  "LastUpdate_Achievements": "2023-07-11T13:20:52.9430382+00:00"
+  "LastUpdate_Ratings": "2023-07-11T13:59:45.7815043+00:00",
+  "LastUpdate_Achievements": "2023-07-11T14:05:53.928584+00:00"
 }

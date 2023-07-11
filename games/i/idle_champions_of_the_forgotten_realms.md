@@ -6,14 +6,14 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,514 |
-| The Mad Wizard | 11.00% | ~23,110 |
-| The Ring of Regeneration | 7.00% | ~14,706 |
-| Are Ya Chicken? | 7.00% | ~14,706 |
-| Were-verpowered | 6.00% | ~12,605 |
-| Seeking Allies | 5.00% | ~10,504 |
-| Mad Cow Disease | 5.00% | ~10,504 |
-| Friendly Imps | 5.00% | ~10,504 |
+| The Cursed Farmer | 15.00% | ~31,516 |
+| The Mad Wizard | 11.00% | ~23,112 |
+| The Ring of Regeneration | 7.00% | ~14,707 |
+| Are Ya Chicken? | 7.00% | ~14,707 |
+| Were-verpowered | 6.00% | ~12,606 |
+| Seeking Allies | 5.00% | ~10,505 |
+| Mad Cow Disease | 5.00% | ~10,505 |
+| Friendly Imps | 5.00% | ~10,505 |
 | A Persistent Buzzing | 4.00% | ~8,404 |
 | Pure Energy | 4.00% | ~8,404 |
 | Beast Mode | 3.00% | ~6,303 |
@@ -83,32 +83,32 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elturel Has Fallen | 0.60% | ~1,261 |
 | The Everlasting Rime | 0.60% | ~1,058 |
 | Expert Opinion | 0.60% | ~1,261 |
-| Lobsterfolk Assault | 0.50% | ~1,050 |
-| Home Field Advantage | 0.50% | ~1,050 |
-| Force Grey Unleashed | 0.50% | ~1,050 |
-| Sleuth It Out | 0.50% | ~1,050 |
-| Azaka's Procession - Part 1 | 0.50% | ~1,050 |
-| Azaka's Procession - Part 2 | 0.50% | ~1,050 |
-| Chatty Nobles | 0.50% | ~1,050 |
-| Haaave You Met Asmodeus? | 0.50% | ~1,050 |
-| Seeds of Deceit | 0.50% | ~1,050 |
-| The Gargoyle's Apprentice | 0.50% | ~1,050 |
-| Flies on the Wall | 0.50% | ~1,050 |
-| Backtracking Through Barovia | 0.50% | ~1,050 |
-| Cramped Quarters | 0.50% | ~1,050 |
-| Waterdeep Under Siege | 0.50% | ~1,050 |
-| Vault of Dragons | 0.50% | ~1,050 |
-| Champions of Waterdeep | 0.50% | ~1,050 |
-| Resolve Amongst Chaos | 0.50% | ~1,050 |
+| Lobsterfolk Assault | 0.50% | ~1,051 |
+| Home Field Advantage | 0.50% | ~1,051 |
+| Force Grey Unleashed | 0.50% | ~1,051 |
+| Sleuth It Out | 0.50% | ~1,051 |
+| Azaka's Procession - Part 1 | 0.50% | ~1,051 |
+| Azaka's Procession - Part 2 | 0.50% | ~1,051 |
+| Chatty Nobles | 0.50% | ~1,051 |
+| Haaave You Met Asmodeus? | 0.50% | ~1,051 |
+| Seeds of Deceit | 0.50% | ~1,051 |
+| The Gargoyle's Apprentice | 0.50% | ~1,051 |
+| Flies on the Wall | 0.50% | ~1,051 |
+| Backtracking Through Barovia | 0.50% | ~1,051 |
+| Cramped Quarters | 0.50% | ~1,051 |
+| Waterdeep Under Siege | 0.50% | ~1,051 |
+| Vault of Dragons | 0.50% | ~1,051 |
+| Champions of Waterdeep | 0.50% | ~1,051 |
+| Resolve Amongst Chaos | 0.50% | ~1,051 |
 | Into The Fire | 0.50% | ~882 |
 | Moose Tracks | 0.50% | ~882 |
-| Poor Guidance | 0.50% | ~1,050 |
+| Poor Guidance | 0.50% | ~1,051 |
 | Anti-Dexterous Explorers | 0.40% | ~840 |
 | Not Very Charming | 0.40% | ~840 |
 | Periodic Petrification | 0.40% | ~840 |
 | Double Vision | 0.40% | ~840 |
 | Vajra's Guards | 0.40% | ~840 |
-| The Newcomers of Notoriety | 0.40% | ~705 |
+| The Newcomers of Notoriety | 0.40% | ~706 |
 | The Hunt for Owl-y | 0.40% | ~840 |
 | Werewolves in the Mist | 0.40% | ~840 |
 | We're not in Faerûn Anymore | 0.40% | ~840 |
@@ -124,15 +124,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | Patience is Key | 0.40% | ~840 |
 | Once More Into The Breach | 0.40% | ~840 |
 | Wyllowwood | 0.40% | ~840 |
-| An Illithid Undertaking | 0.40% | ~705 |
-| Déjà Vu | 0.40% | ~705 |
-| Dreamscape | 0.40% | ~705 |
-| The Path of Dreams | 0.40% | ~705 |
-| The Lost Hollyphant | 0.40% | ~705 |
-| Alterdeep | 0.40% | ~705 |
-| The Wandering Emporium | 0.40% | ~705 |
-| Civilization | 0.40% | ~705 |
-| Dwarven Rumors | 0.40% | ~705 |
+| An Illithid Undertaking | 0.40% | ~706 |
+| Déjà Vu | 0.40% | ~706 |
+| Dreamscape | 0.40% | ~706 |
+| The Path of Dreams | 0.40% | ~706 |
+| The Lost Hollyphant | 0.40% | ~706 |
+| Alterdeep | 0.40% | ~706 |
+| The Wandering Emporium | 0.40% | ~706 |
+| Civilization | 0.40% | ~706 |
+| Dwarven Rumors | 0.40% | ~706 |
 | Struggling Toward Omu | 0.30% | ~630 |
 | Never Split the Party | 0.30% | ~630 |
 | Haunted Fortunes | 0.30% | ~630 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,090 (Ranked 52)  
+Progressed: 210,106 (Ranked 52)  
 Completed: 2,045 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -592,7 +592,7 @@ Completed: 2,045 (0.97%) (Ranked 102)
 | 2023-07-08 | 208,782 | 2,041 |
 | 2023-07-09 | 209,384 | 2,043 |
 | 2023-07-10 | 209,861 | 2,045 |
-| 2023-07-11 | 210,090 | 2,045 |
+| 2023-07-11 | 210,106 | 2,045 |
 ## Awards
 Max (Diverse Characters): 5,025  (Ranked 65)  
 Sum: 30,477 (Ranked 38)  

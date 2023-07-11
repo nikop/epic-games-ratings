@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 269,
+  "EOS_Progressed": 270,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -796,6 +796,11 @@
       "Time": "2023-07-11T09:03:43.8684678+00:00",
       "NumProgressed": 269,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-11T14:05:24.6940956+00:00",
+      "NumProgressed": 270,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -815,15 +820,15 @@
       "Name": "Active Pause",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "BasicControls",
       "SetID": "1e89b4i",
       "Name": "Basic Controls",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 170
     },
     {
       "ID": "BigPlane",
@@ -855,7 +860,7 @@
       "Name": "That Was Close!",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Creator",
@@ -869,9 +874,9 @@
       "ID": "Debtor",
       "SetID": "1e89b4i",
       "Name": "Debtor",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "EdgeOfTheWorld",
@@ -957,9 +962,9 @@
       "ID": "LegendaryTransporter",
       "SetID": "1e89b4i",
       "Name": "Legendary transporter",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "LinearNetwork",
@@ -975,7 +980,7 @@
       "Name": "Long Distances",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ManagementMaster",
@@ -1013,9 +1018,9 @@
       "ID": "NoTimeForModernization",
       "SetID": "1e89b4i",
       "Name": "No Time for Modernization",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 35
     },
     {
       "ID": "NoWayBack",
@@ -1142,14 +1147,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 269,
+      "Progressed": 270,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-07-11T13:20:28.6431692+00:00",
+  "LastChanged_Achievements": "2023-07-11T14:05:24.6940951+00:00",
   "LastUpdate_AppInfo": "2023-07-11T08:57:01.7024715+00:00",
-  "LastUpdate_Ratings": "2023-07-11T13:14:19.978047+00:00",
-  "LastUpdate_Achievements": "2023-07-11T13:20:28.6432034+00:00"
+  "LastUpdate_Ratings": "2023-07-11T13:58:53.1097554+00:00",
+  "LastUpdate_Achievements": "2023-07-11T14:05:24.6941349+00:00"
 }

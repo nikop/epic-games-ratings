@@ -5082,9 +5082,9 @@
       "Count": 363
     }
   ],
-  "EOS_Progressed": 710665,
+  "EOS_Progressed": 710668,
   "EOS_Completed": 12810,
-  "EOS_NewPlayers": 206,
+  "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -12807,6 +12807,11 @@
       "Time": "2023-07-11T13:23:22.5818505+00:00",
       "NumProgressed": 710665,
       "NumCompleted": 12810
+    },
+    {
+      "Time": "2023-07-11T14:08:50.5020804+00:00",
+      "NumProgressed": 710668,
+      "NumCompleted": 12810
     }
   ],
   "TotalAchievements": 50,
@@ -12952,9 +12957,9 @@
       "ID": "18_Detective_H4",
       "SetID": "adcm20g",
       "Name": "Knowledge Greed",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2132
+      "UsersEstimate": 2843
     },
     {
       "ID": "19_Detective_H5",
@@ -13217,21 +13222,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 19966,
+      "Progressed": 19969,
       "Completed": 10381
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 710665,
+      "Progressed": 710668,
       "Completed": 12810
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-11T11:59:58.2970177+00:00",
-  "LastChanged_Achievements": "2023-07-11T13:23:22.5818499+00:00",
+  "LastChanged_Achievements": "2023-07-11T14:08:50.5020799+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:05.6915334+00:00",
-  "LastUpdate_Ratings": "2023-07-11T13:16:22.6543172+00:00",
-  "LastUpdate_Achievements": "2023-07-11T13:23:22.5819316+00:00"
+  "LastUpdate_Ratings": "2023-07-11T14:01:15.9432263+00:00",
+  "LastUpdate_Achievements": "2023-07-11T14:08:50.5021706+00:00"
 }

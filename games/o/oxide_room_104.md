@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What's going on here? | 87.00% | ~109 |
+| What's going on here? | 88.00% | ~110 |
 | Brute force | 82.00% | ~102 |
 | Nimble fingers | 79.00% | ~99 |
 | Room 104 | 78.00% | ~98 |

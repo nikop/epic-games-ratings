@@ -2,7 +2,7 @@
   "ID": "ce8393adfbf342ceab0a36479ffbc627",
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
-  "Ranking_Rating": 520,
+  "Ranking_Rating": 519,
   "Ranking_Popularity": 293,
   "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 111,
@@ -489,7 +489,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13829,
+  "EOS_Progressed": 13830,
   "EOS_Completed": 105,
   "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 1,
@@ -5874,6 +5874,11 @@
       "Time": "2023-07-11T13:19:13.3554995+00:00",
       "NumProgressed": 13829,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2023-07-11T14:04:10.0623856+00:00",
+      "NumProgressed": 13830,
+      "NumCompleted": 105
     }
   ],
   "TotalAchievements": 41,
@@ -5909,7 +5914,7 @@
       "Name": "Staring contest champion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "tpote_achievement_13",
@@ -5917,7 +5922,7 @@
       "Name": "Lone wolf",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "tpote_achievement_14",
@@ -6125,7 +6130,7 @@
       "Name": "Vox Populi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "tpote_achievement_38",
@@ -6197,7 +6202,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3042
+      "UsersEstimate": 3043
     },
     {
       "ID": "tpote_achievement_9",
@@ -6212,15 +6217,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13829,
+      "Progressed": 13830,
       "Completed": 105
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-11T13:19:13.3554989+00:00",
+  "LastChanged_Achievements": "2023-07-11T14:04:10.062385+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:22.7316946+00:00",
-  "LastUpdate_Ratings": "2023-07-11T13:17:16.9130393+00:00",
-  "LastUpdate_Achievements": "2023-07-11T13:19:13.3555644+00:00"
+  "LastUpdate_Ratings": "2023-07-11T14:02:17.5775947+00:00",
+  "LastUpdate_Achievements": "2023-07-11T14:04:10.0624517+00:00"
 }

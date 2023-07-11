@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1897,
+  "EOS_Progressed": 1898,
   "EOS_Completed": 161,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 8.49,
+  "EOS_Completed_Percentage": 8.48,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -3703,6 +3703,11 @@
       "Time": "2023-07-10T23:02:23.4731749+00:00",
       "NumProgressed": 1897,
       "NumCompleted": 161
+    },
+    {
+      "Time": "2023-07-11T14:04:17.1018039+00:00",
+      "NumProgressed": 1898,
+      "NumCompleted": 161
     }
   ],
   "TotalAchievements": 12,
@@ -3730,7 +3735,7 @@
       "Name": "Building the Fox",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "Green Ticket Roundup",
@@ -3738,7 +3743,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "Jacques a Dit",
@@ -3809,7 +3814,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1897,
+      "Progressed": 1898,
       "Completed": 161
     }
   ],
@@ -3817,8 +3822,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-07-11T13:19:19.9261285+00:00",
+  "LastChanged_Achievements": "2023-07-11T14:04:17.1018034+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:46.7313961+00:00",
-  "LastUpdate_Ratings": "2023-07-11T13:16:55.1649144+00:00",
-  "LastUpdate_Achievements": "2023-07-11T13:19:19.9261617+00:00"
+  "LastUpdate_Ratings": "2023-07-11T14:01:49.0859686+00:00",
+  "LastUpdate_Achievements": "2023-07-11T14:04:17.1018358+00:00"
 }
