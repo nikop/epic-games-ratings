@@ -11,19 +11,19 @@
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
 | 11 | [Island Cities](games/i/island_cities.md) | 18.25% |
-| 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
-| 13 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 14.04% |
-| 14 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
-| 15 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.07% |
-| 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.04% |
-| 17 | [Remains](games/r/remains.md) | 11.90% |
-| 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.22% |
-| 19 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 20 | [Sonic Origins](games/s/sonic_origins.md) | 10.32% |
-| 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 22 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 9.09% |
-| 23 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.75% |
-| 24 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
+| 12 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 18.18% |
+| 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
+| 14 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 14.04% |
+| 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
+| 16 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.07% |
+| 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.04% |
+| 18 | [Remains](games/r/remains.md) | 11.90% |
+| 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.22% |
+| 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
+| 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.32% |
+| 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
+| 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
+| 24 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.54% |
 | 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.46% |
 | 26 | [Smelter](games/s/smelter.md) | 8.11% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 7.47% |
