@@ -6,10 +6,10 @@ Rating: 4.87 (Ranked 24)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | NOW we got a kickass hideout! | 1.00% | ~20 |
+| The Negotiator | 0.90% | ~31 |
 | I play my own way! | 0.90% | ~31 |
 | Kissing the sky! | 0.90% | ~31 |
 | Cream of the Crop | 0.80% | ~27 |
-| The Negotiator | 0.80% | ~27 |
 | Time to pay up! | 0.80% | ~27 |
 | Who's the boss now? | 0.80% | ~27 |
 | Thanks for the free chip, Peppermint! | 0.80% | ~27 |

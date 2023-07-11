@@ -4,7 +4,7 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 342,
+  "EOS_Progressed": 343,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -271,6 +271,11 @@
       "Time": "2023-07-11T10:00:28.3701244+00:00",
       "NumProgressed": 342,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-11T12:02:25.5258361+00:00",
+      "NumProgressed": 343,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -384,9 +389,9 @@
       "ID": "FIND_ALL_GAPS",
       "SetID": "20koof9",
       "Name": "My Precious",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 14
+      "UsersEstimate": 10
     },
     {
       "ID": "FIND_THE_GAP",
@@ -408,9 +413,9 @@
       "ID": "FRONT_OR_BACKFLIP",
       "SetID": "20koof9",
       "Name": "Disoriented",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 75
     },
     {
       "ID": "FULLY_LEVEL_20_CARS",
@@ -506,7 +511,7 @@
       "Name": "Toot Toot!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "JOIN_A_FRIEND",
@@ -576,9 +581,9 @@
       "ID": "ONE_MILLION_CASH",
       "SetID": "20koof9",
       "Name": "One Million Dollars!",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 10
     },
     {
       "ID": "REACH_TANKBATTLE_LEVEL_10",
@@ -600,9 +605,9 @@
       "ID": "STUNT_EVENT",
       "SetID": "20koof9",
       "Name": "Bag of Tricks",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 82
     },
     {
       "ID": "STUNT_SCORE_DOUBLE",
@@ -634,7 +639,7 @@
       "Name": "Rocketman",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "USE_TUNNEL",
@@ -658,7 +663,7 @@
       "Name": "Event Amateur",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "WIN_50_EVENTS",
@@ -714,14 +719,14 @@
       "Name": "Blasting away!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     }
   ],
   "AchievementSets": [
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 342,
+      "Progressed": 343,
       "Completed": 2
     }
   ],
@@ -729,8 +734,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-07-11T11:02:14.0288213+00:00",
+  "LastChanged_Achievements": "2023-07-11T12:02:25.5258356+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:43.7236843+00:00",
-  "LastUpdate_Ratings": "2023-07-11T10:59:26.414368+00:00",
-  "LastUpdate_Achievements": "2023-07-11T11:02:14.028862+00:00"
+  "LastUpdate_Ratings": "2023-07-11T11:59:38.860221+00:00",
+  "LastUpdate_Achievements": "2023-07-11T12:02:25.5259041+00:00"
 }

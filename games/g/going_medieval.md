@@ -29,8 +29,8 @@ Number of Ratings: 706  (23.09.2022)
 | Winter Is Here | 22.00% | ~993 |
 | Disassembled | 19.00% | ~858 |
 | A Party Now | 19.00% | ~858 |
+| Oh Deer! | 19.00% | ~858 |
 | All Year Round | 19.00% | ~858 |
-| Oh Deer! | 18.00% | ~813 |
 | Nothing Wasted | 12.00% | ~542 |
 | Don't Cry Wolf | 11.00% | ~497 |
 | Deerly Departed | 8.00% | ~361 |

@@ -3552,9 +3552,9 @@
       "ID": "WhattoBuy",
       "SetID": "97dk767",
       "Name": "What should I buy?",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6559
+      "UsersEstimate": 6638
     }
   ],
   "AchievementSets": [
@@ -3568,8 +3568,8 @@
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-07-05T08:59:19.7816189+00:00",
-  "LastChanged_Achievements": "2023-07-11T11:04:40.1290467+00:00",
+  "LastChanged_Achievements": "2023-07-11T12:04:58.3777665+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:55.1459271+00:00",
-  "LastUpdate_Ratings": "2023-07-11T10:59:37.8409827+00:00",
-  "LastUpdate_Achievements": "2023-07-11T11:04:40.1290726+00:00"
+  "LastUpdate_Ratings": "2023-07-11T11:59:51.727356+00:00",
+  "LastUpdate_Achievements": "2023-07-11T12:04:58.3778091+00:00"
 }

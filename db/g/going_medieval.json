@@ -1138,7 +1138,7 @@
   ],
   "EOS_Progressed": 4514,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -5132,9 +5132,9 @@
       "ID": "HUNT_DEER_5",
       "SetID": "5349c2e",
       "Name": "Oh Deer!",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 813
+      "UsersEstimate": 858
     },
     {
       "ID": "HUNT_RABBIT_20",
@@ -5316,8 +5316,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-07-10T09:00:28.1401302+00:00",
-  "LastChanged_Achievements": "2023-07-11T11:02:09.0070442+00:00",
+  "LastChanged_Achievements": "2023-07-11T12:02:19.6954625+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:13.9493644+00:00",
-  "LastUpdate_Ratings": "2023-07-11T11:00:39.6535967+00:00",
-  "LastUpdate_Achievements": "2023-07-11T11:02:09.0070889+00:00"
+  "LastUpdate_Ratings": "2023-07-11T12:01:03.7314887+00:00",
+  "LastUpdate_Achievements": "2023-07-11T12:02:19.695516+00:00"
 }

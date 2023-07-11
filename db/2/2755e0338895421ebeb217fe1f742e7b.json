@@ -2,9 +2,9 @@
   "ID": "2755e0338895421ebeb217fe1f742e7b",
   "Name": "Nocturnal",
   "ProductSlug": "nocturnal-ef3fa0",
-  "Ranking_EOS_Progress": 423,
+  "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 287,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-06-07T15:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 5,
+  "EOS_Progressed": 6,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -49,6 +49,11 @@
       "Time": "2023-06-30T17:03:12.246109+00:00",
       "NumProgressed": 5,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-11T12:04:48.5628765+00:00",
+      "NumProgressed": 6,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 11,
@@ -58,7 +63,7 @@
       "ID": "Nocturnal_Achivement_10_Brun",
       "SetID": "329ifed",
       "Name": "Mr. Brightside",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 150,
       "UsersEstimate": 2
     },
@@ -76,7 +81,7 @@
       "Name": "Form Blazing Sword",
       "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Nocturnal_Achivement_2_Shrine",
@@ -84,13 +89,13 @@
       "Name": "A Light in Dark Places",
       "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Nocturnal_Achivement_3_Azita",
       "SetID": "329ifed",
       "Name": "Unfortunate Enemies",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -98,7 +103,7 @@
       "ID": "Nocturnal_Achivement_4_Avatar",
       "SetID": "329ifed",
       "Name": "Avatar Ascendant",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -106,7 +111,7 @@
       "ID": "Nocturnal_Achivement_5_Berserker",
       "SetID": "329ifed",
       "Name": "Stand Your Ground",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -114,7 +119,7 @@
       "ID": "Nocturnal_Achivement_6_Arsia",
       "SetID": "329ifed",
       "Name": "Baleful Shadow",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -122,7 +127,7 @@
       "ID": "Nocturnal_Achivement_7_Letter",
       "SetID": "329ifed",
       "Name": "Words Unspoken",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -130,7 +135,7 @@
       "ID": "Nocturnal_Achivement_8_End",
       "SetID": "329ifed",
       "Name": "A Grim Farewell",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -140,20 +145,20 @@
       "Name": "The Torchbearer",
       "Percentage": 100,
       "XP": 150,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
     {
       "ID": "329ifed",
       "IsBase": true,
-      "Progressed": 5,
+      "Progressed": 6,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-06-12T15:00:06.5838251+00:00",
-  "LastChanged_Achievements": "2023-07-11T11:04:31.8409707+00:00",
+  "LastChanged_Achievements": "2023-07-11T12:04:48.5628758+00:00",
   "LastUpdate_AppInfo": "2023-07-10T16:57:00.6691211+00:00",
-  "LastUpdate_Ratings": "2023-07-11T10:57:22.6596067+00:00",
-  "LastUpdate_Achievements": "2023-07-11T11:04:31.8409797+00:00"
+  "LastUpdate_Ratings": "2023-07-11T11:57:13.4446309+00:00",
+  "LastUpdate_Achievements": "2023-07-11T12:04:48.5628903+00:00"
 }

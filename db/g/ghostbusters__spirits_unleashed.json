@@ -1428,9 +1428,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 24149,
+  "EOS_Progressed": 24150,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7663,6 +7663,11 @@
       "Time": "2023-07-11T08:03:50.2493289+00:00",
       "NumProgressed": 24149,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-07-11T12:04:13.1486029+00:00",
+      "NumProgressed": 24150,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 51,
@@ -7674,7 +7679,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 17629
+      "UsersEstimate": 17630
     },
     {
       "ID": "Animated",
@@ -7714,7 +7719,7 @@
       "Name": "Clutch Capture",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 9901
+      "UsersEstimate": 9902
     },
     {
       "ID": "Collect_Spores",
@@ -7762,7 +7767,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 14731
+      "UsersEstimate": 14732
     },
     {
       "ID": "Dont_Need_These",
@@ -7786,7 +7791,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 15455
+      "UsersEstimate": 15456
     },
     {
       "ID": "Escape_Artist",
@@ -7802,7 +7807,7 @@
       "Name": "Fragile Panes",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2173
+      "UsersEstimate": 2174
     },
     {
       "ID": "Fully_Upgraded",
@@ -7810,7 +7815,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 13040
+      "UsersEstimate": 13041
     },
     {
       "ID": "GB_In_Training",
@@ -7874,7 +7879,7 @@
       "Name": "Master Collector",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1690
+      "UsersEstimate": 1691
     },
     {
       "ID": "Mycophile",
@@ -7882,7 +7887,7 @@
       "Name": "Mycophile",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "Pesky_Jerks",
@@ -7898,7 +7903,7 @@
       "Name": "Reckless",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 4105
+      "UsersEstimate": 4106
     },
     {
       "ID": "Rift_Destroyer",
@@ -7914,7 +7919,7 @@
       "Name": "Rift Seeker",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1690
+      "UsersEstimate": 1691
     },
     {
       "ID": "Right_Back",
@@ -7978,7 +7983,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 20768
+      "UsersEstimate": 20769
     },
     {
       "ID": "Summoner",
@@ -7994,7 +7999,7 @@
       "Name": "Surprise!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2173
+      "UsersEstimate": 2174
     },
     {
       "ID": "Swift_Removers",
@@ -8002,7 +8007,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 13040
+      "UsersEstimate": 13041
     },
     {
       "ID": "Teamwork",
@@ -8026,7 +8031,7 @@
       "Name": "Therapeutic",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1690
+      "UsersEstimate": 1691
     },
     {
       "ID": "There_You_Are",
@@ -8081,7 +8086,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 24149,
+      "Progressed": 24150,
       "Completed": 46
     }
   ],
@@ -8089,8 +8094,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-07-11T04:59:41.8955713+00:00",
-  "LastChanged_Achievements": "2023-07-11T11:04:01.0317017+00:00",
+  "LastChanged_Achievements": "2023-07-11T12:04:13.1486021+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:03.6661628+00:00",
-  "LastUpdate_Ratings": "2023-07-11T10:59:42.2422857+00:00",
-  "LastUpdate_Achievements": "2023-07-11T11:04:01.031763+00:00"
+  "LastUpdate_Ratings": "2023-07-11T11:59:56.9447254+00:00",
+  "LastUpdate_Achievements": "2023-07-11T12:04:13.1487087+00:00"
 }

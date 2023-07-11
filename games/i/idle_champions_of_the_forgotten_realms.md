@@ -6,24 +6,24 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,506 |
-| The Mad Wizard | 11.00% | ~23,105 |
-| The Ring of Regeneration | 7.00% | ~14,703 |
-| Are Ya Chicken? | 7.00% | ~14,703 |
-| Were-verpowered | 6.00% | ~12,603 |
-| Seeking Allies | 5.00% | ~10,502 |
-| Mad Cow Disease | 5.00% | ~10,502 |
-| Friendly Imps | 5.00% | ~10,502 |
-| A Persistent Buzzing | 4.00% | ~8,402 |
-| Pure Energy | 4.00% | ~8,402 |
-| Beast Mode | 3.00% | ~6,301 |
-| Terror in the Dark | 3.00% | ~6,301 |
-| A Mysterious Summons | 3.00% | ~6,301 |
-| Unearthed Evil | 3.00% | ~6,301 |
-| The Crumbling Temple | 3.00% | ~6,301 |
-| Exploring Port Nyanzaru | 3.00% | ~6,301 |
-| The Contagious Curse | 3.00% | ~6,301 |
-| Escort to Waterdeep | 3.00% | ~6,301 |
+| The Cursed Farmer | 15.00% | ~31,510 |
+| The Mad Wizard | 11.00% | ~23,107 |
+| The Ring of Regeneration | 7.00% | ~14,704 |
+| Are Ya Chicken? | 7.00% | ~14,704 |
+| Were-verpowered | 6.00% | ~12,604 |
+| Seeking Allies | 5.00% | ~10,503 |
+| Mad Cow Disease | 5.00% | ~10,503 |
+| Friendly Imps | 5.00% | ~10,503 |
+| A Persistent Buzzing | 4.00% | ~8,403 |
+| Pure Energy | 4.00% | ~8,403 |
+| Beast Mode | 3.00% | ~6,302 |
+| Terror in the Dark | 3.00% | ~6,302 |
+| A Mysterious Summons | 3.00% | ~6,302 |
+| Unearthed Evil | 3.00% | ~6,302 |
+| The Crumbling Temple | 3.00% | ~6,302 |
+| Exploring Port Nyanzaru | 3.00% | ~6,302 |
+| The Contagious Curse | 3.00% | ~6,302 |
+| Escort to Waterdeep | 3.00% | ~6,302 |
 | Low Initiative | 2.00% | ~4,201 |
 | Building Trust | 2.00% | ~4,201 |
 | March of the Undead | 2.00% | ~4,201 |
@@ -34,37 +34,37 @@ Number of Ratings: 9,041  (23.09.2022)
 | Underdeep Cartography | 2.00% | ~4,201 |
 | Overdue Rendezvous | 2.00% | ~4,201 |
 | The Templar's Camp | 2.00% | ~4,201 |
-| Homecoming | 1.00% | ~2,100 |
-| The Lost Heir of Omu | 1.00% | ~2,100 |
-| Street War | 1.00% | ~2,100 |
-| Invisible Shadows | 1.00% | ~2,100 |
-| The Dinner Party | 1.00% | ~2,100 |
-| The Botched Kidnapping | 1.00% | ~2,100 |
-| Trollskull Manor | 1.00% | ~2,100 |
-| The Death Curse | 1.00% | ~2,100 |
-| Premature Betrayal | 1.00% | ~2,100 |
-| A Tale of Two Cities | 1.00% | ~2,100 |
-| Flying Monkey Skulls of Doom | 1.00% | ~2,100 |
-| Dinosaur Racing | 1.00% | ~2,100 |
-| Close Escort | 1.00% | ~2,100 |
-| Constant Banditry | 1.00% | ~2,100 |
-| The Long Haul | 1.00% | ~2,100 |
-| Lost in the Deep | 1.00% | ~2,100 |
-| Easily Distracted | 1.00% | ~2,100 |
-| Rescue in the Jungle | 1.00% | ~2,100 |
-| The Forbidden City | 0.90% | ~1,890 |
-| Wisdom Check | 0.90% | ~1,890 |
-| The Mists of Ravenloft | 0.90% | ~1,890 |
-| Attack on the Manor | 0.90% | ~1,890 |
-| The Dead Three | 0.90% | ~1,890 |
-| Captured! | 0.80% | ~1,680 |
-| A Grand Puzzle | 0.80% | ~1,680 |
-| Treasure Hunters | 0.80% | ~1,680 |
-| Nimble Escape | 0.80% | ~1,680 |
-| The Darkness Runs Deeper | 0.80% | ~1,680 |
+| Homecoming | 1.00% | ~2,101 |
+| The Lost Heir of Omu | 1.00% | ~2,101 |
+| Street War | 1.00% | ~2,101 |
+| Invisible Shadows | 1.00% | ~2,101 |
+| The Dinner Party | 1.00% | ~2,101 |
+| The Botched Kidnapping | 1.00% | ~2,101 |
+| Trollskull Manor | 1.00% | ~2,101 |
+| The Death Curse | 1.00% | ~2,101 |
+| Premature Betrayal | 1.00% | ~2,101 |
+| A Tale of Two Cities | 1.00% | ~2,101 |
+| Flying Monkey Skulls of Doom | 1.00% | ~2,101 |
+| Dinosaur Racing | 1.00% | ~2,101 |
+| Close Escort | 1.00% | ~2,101 |
+| Constant Banditry | 1.00% | ~2,101 |
+| The Long Haul | 1.00% | ~2,101 |
+| Lost in the Deep | 1.00% | ~2,101 |
+| Easily Distracted | 1.00% | ~2,101 |
+| Rescue in the Jungle | 1.00% | ~2,101 |
+| The Forbidden City | 0.90% | ~1,891 |
+| Wisdom Check | 0.90% | ~1,891 |
+| The Mists of Ravenloft | 0.90% | ~1,891 |
+| Attack on the Manor | 0.90% | ~1,891 |
+| The Dead Three | 0.90% | ~1,891 |
+| Captured! | 0.80% | ~1,681 |
+| A Grand Puzzle | 0.80% | ~1,681 |
+| Treasure Hunters | 0.80% | ~1,681 |
+| Nimble Escape | 0.80% | ~1,681 |
+| The Darkness Runs Deeper | 0.80% | ~1,681 |
 | The Giant's Bane Tavern | 0.80% | ~1,411 |
-| Rude Welcome | 0.80% | ~1,680 |
-| The Haunted Jungle | 0.80% | ~1,680 |
+| Rude Welcome | 0.80% | ~1,681 |
+| The Haunted Jungle | 0.80% | ~1,681 |
 | Tomb of the Nine Gods | 0.70% | ~1,470 |
 | Family Entanglements | 0.70% | ~1,470 |
 | The Immortal Warrior | 0.70% | ~1,470 |
@@ -108,6 +108,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Periodic Petrification | 0.40% | ~840 |
 | Double Vision | 0.40% | ~840 |
 | Vajra's Guards | 0.40% | ~840 |
+| The Newcomers of Notoriety | 0.40% | ~705 |
 | The Hunt for Owl-y | 0.40% | ~840 |
 | Werewolves in the Mist | 0.40% | ~840 |
 | We're not in Faerûn Anymore | 0.40% | ~840 |
@@ -133,9 +134,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Civilization | 0.40% | ~705 |
 | Dwarven Rumors | 0.40% | ~705 |
 | Struggling Toward Omu | 0.30% | ~630 |
-| The Newcomers of Notoriety | 0.30% | ~529 |
 | Never Split the Party | 0.30% | ~630 |
 | Haunted Fortunes | 0.30% | ~630 |
+| Poor Fortune | 0.30% | ~630 |
 | Thine Bounty is Mine! | 0.30% | ~529 |
 | Hold for the Red Wizards | 0.30% | ~630 |
 | Our Time To Shine | 0.30% | ~630 |
@@ -185,7 +186,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Underground Railroad | 0.20% | ~420 |
 | Snakes on our Plane | 0.20% | ~353 |
 | The Soulmonger Calls | 0.20% | ~420 |
-| Poor Fortune | 0.20% | ~420 |
 | Relentless Misfortune | 0.20% | ~420 |
 | This Quest Stinks! | 0.20% | ~353 |
 | Form Ranks | 0.20% | ~420 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,043 (Ranked 52)  
+Progressed: 210,064 (Ranked 52)  
 Completed: 2,045 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -592,7 +592,7 @@ Completed: 2,045 (0.97%) (Ranked 102)
 | 2023-07-08 | 208,782 | 2,041 |
 | 2023-07-09 | 209,384 | 2,043 |
 | 2023-07-10 | 209,861 | 2,045 |
-| 2023-07-11 | 210,043 | 2,045 |
+| 2023-07-11 | 210,064 | 2,045 |
 ## Awards
 Max (Diverse Characters): 5,025  (Ranked 65)  
 Sum: 30,477 (Ranked 38)  

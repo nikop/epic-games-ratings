@@ -520,9 +520,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 8924,
+  "EOS_Progressed": 8925,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -6140,6 +6140,11 @@
       "Time": "2023-07-11T11:02:13.7134816+00:00",
       "NumProgressed": 8924,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-11T12:02:25.217833+00:00",
+      "NumProgressed": 8925,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -6223,7 +6228,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "ACH11",
@@ -6239,7 +6244,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "ACH13",
@@ -6335,7 +6340,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1249
+      "UsersEstimate": 1250
     },
     {
       "ID": "ACH25",
@@ -6343,7 +6348,7 @@
       "Name": "Chauffeur",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1249
+      "UsersEstimate": 1250
     },
     {
       "ID": "ACH26",
@@ -6367,7 +6372,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "ACH29",
@@ -6422,7 +6427,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8924,
+      "Progressed": 8925,
       "Completed": 43
     }
   ],
@@ -6430,8 +6435,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-07T10:58:53.3105834+00:00",
-  "LastChanged_Achievements": "2023-07-11T11:02:13.7134813+00:00",
+  "LastChanged_Achievements": "2023-07-11T12:02:25.2178324+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:55.3864428+00:00",
-  "LastUpdate_Ratings": "2023-07-11T10:58:52.2376479+00:00",
-  "LastUpdate_Achievements": "2023-07-11T11:02:13.7135244+00:00"
+  "LastUpdate_Ratings": "2023-07-11T11:58:56.0170778+00:00",
+  "LastUpdate_Achievements": "2023-07-11T12:02:25.2178991+00:00"
 }

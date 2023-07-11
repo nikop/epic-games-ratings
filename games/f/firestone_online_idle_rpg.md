@@ -5,17 +5,17 @@ Rating: 4.11 (Ranked 885)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,502 |
-| World Map | 79.00% | ~1,276 |
-| Temple of Eternals | 56.00% | ~904 |
+| Victor | 93.00% | ~1,503 |
+| World Map | 79.00% | ~1,277 |
+| Temple of Eternals | 56.00% | ~905 |
 | Prestigious | 53.00% | ~856 |
-| Fellowship Power | 41.00% | ~662 |
+| Fellowship Power | 41.00% | ~663 |
 | Guild Power | 24.00% | ~388 |
 | Prestigious x10 | 21.00% | ~339 |
 | The game is on | 19.00% | ~307 |
 | Exotic Merchant | 17.00% | ~275 |
-| Dragon Clicker | 16.00% | ~258 |
-| Miner Clicker | 16.00% | ~258 |
+| Dragon Clicker | 16.00% | ~259 |
+| Miner Clicker | 16.00% | ~259 |
 | Full Party | 15.00% | ~242 |
 | Inspection | 15.00% | ~242 |
 | Dragon Master | 14.00% | ~226 |
@@ -41,12 +41,12 @@ Rating: 4.11 (Ranked 885)
 | Four Leaf Clover | 8.00% | ~129 |
 | Here We Go Again | 7.00% | ~113 |
 | Master Enchanter | 7.00% | ~113 |
-| The Expeditioner | 7.00% | ~113 |
 | The father of Dragons | 7.00% | ~113 |
 | Trader | 7.00% | ~113 |
 | Crystal Mining | 6.00% | ~97 |
 | Enchanting skill | 6.00% | ~97 |
 | How Do You Turn This On? | 6.00% | ~97 |
+| The Expeditioner | 6.00% | ~97 |
 | Weekly Quest Completionist | 6.00% | ~97 |
 | Ancient Knowledge | 5.00% | ~81 |
 | Blueprint Upgrades | 5.00% | ~81 |
@@ -81,7 +81,7 @@ Rating: 4.11 (Ranked 885)
 | War Machines Army | 0.20% | ~3 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,615 (Ranked 168)  
+Progressed: 1,616 (Ranked 168)  
 Completed: 1 (0.06%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 1 (0.06%) (Ranked 198)
 | 2023-07-08 | 1,591 | 1 |
 | 2023-07-09 | 1,600 | 1 |
 | 2023-07-10 | 1,611 | 1 |
-| 2023-07-11 | 1,615 | 1 |
+| 2023-07-11 | 1,616 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

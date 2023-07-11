@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 68.00% | ~126 |
+| Seeds of War | 68.00% | ~127 |
 | Aspairagus | 50.00% | ~68 |
-| Triple Kill | 49.00% | ~91 |
-| Survivor | 48.00% | ~65 |
-| First Blood | 46.00% | ~85 |
-| Cornivore | 44.00% | ~81 |
-| I Believe I Can Fly | 42.00% | ~78 |
-| No Asperascope | 40.00% | ~74 |
-| Early Survivor | 37.00% | ~50 |
+| Triple Kill | 49.00% | ~92 |
+| Survivor | 48.00% | ~66 |
+| First Blood | 46.00% | ~86 |
+| Cornivore | 44.00% | ~82 |
+| I Believe I Can Fly | 42.00% | ~79 |
+| No Asperascope | 40.00% | ~75 |
+| Early Survivor | 36.00% | ~49 |
 | No Diggity | 36.00% | ~49 |
 | Amateur Survivor | 25.00% | ~34 |
-| Bouncemato | 23.00% | ~31 |
+| Bouncemato | 22.00% | ~30 |
 | 10K | 21.00% | ~39 |
 | 15K | 20.00% | ~37 |
-| Drinking Problem | 18.00% | ~33 |
-| Professional Survivor | 18.00% | ~24 |
-| Grave Digger | 18.00% | ~24 |
+| Drinking Problem | 18.00% | ~34 |
+| Professional Survivor | 18.00% | ~25 |
+| Grave Digger | 18.00% | ~25 |
 | Quick-Draw Pod | 16.00% | ~22 |
-| This Is My Boomstick | 14.00% | ~19 |
-| Skin Of Your Teeth | 11.00% | ~20 |
-| Carrocketeer | 11.00% | ~20 |
-| Pork Chop Express | 10.00% | ~18 |
-| Eggtraordinary | 10.00% | ~18 |
+| This Is My Boomstick | 13.00% | ~18 |
+| Skin Of Your Teeth | 11.00% | ~21 |
+| Carrocketeer | 11.00% | ~21 |
+| Pork Chop Express | 10.00% | ~19 |
+| Eggtraordinary | 10.00% | ~19 |
 | Oh My Gourd | 10.00% | ~14 |
 | Summers Here | 10.00% | ~14 |
-| Fresh Pancake | 8.00% | ~15 |
 | Getting Started | 8.00% | ~15 |
 | Perfect | 8.00% | ~11 |
-| Expert Survivor | 8.00% | ~11 |
+| Fresh Pancake | 7.00% | ~13 |
 | Quit Horsin' Around | 7.00% | ~13 |
-| Pyromaniac | 7.00% | ~9 |
+| Expert Survivor | 7.00% | ~10 |
+| Pyromaniac | 7.00% | ~10 |
 | Quadsparagus | 6.00% | ~8 |
 | Bring Home The Bacon | 5.00% | ~9 |
 | Master Survivor | 4.00% | ~5 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 185 (Ranked 273)  
+Progressed: 187 (Ranked 273)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-08 | 141 | 0 |
 | 2023-07-09 | 160 | 0 |
 | 2023-07-10 | 181 | 0 |
-| 2023-07-11 | 185 | 0 |
+| 2023-07-11 | 187 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -16,20 +16,20 @@
 | The Collector | 25.00% | ~86 |
 | Insurance fraud | 25.00% | ~86 |
 | The Wild West | 25.00% | ~86 |
-| Bag of Tricks | 25.00% | ~86 |
 | To and Fro | 24.00% | ~82 |
+| Bag of Tricks | 24.00% | ~82 |
 | I see the light! | 24.00% | ~82 |
 | In the Bag! | 24.00% | ~82 |
 | You're it | 24.00% | ~82 |
 | First Come, First Serve | 23.00% | ~79 |
-| Disoriented | 23.00% | ~79 |
 | Take that Frosty! | 23.00% | ~79 |
 | Goodbye cruel world | 23.00% | ~79 |
 | Beach Party! | 23.00% | ~79 |
 | Car-Tapult | 22.00% | ~75 |
+| Disoriented | 22.00% | ~75 |
 | Anger Issues | 22.00% | ~75 |
 | Your Highness | 22.00% | ~75 |
-| Event Amateur | 20.00% | ~68 |
+| Event Amateur | 20.00% | ~69 |
 | Drift King! | 19.00% | ~65 |
 | Feeling Dizzy? | 19.00% | ~65 |
 | Feeling Hot Hot Hot! | 18.00% | ~62 |
@@ -38,9 +38,9 @@
 | Speed of light | 18.00% | ~62 |
 | Out of this League | 15.00% | ~51 |
 | Special Forces | 14.00% | ~48 |
-| Toot Toot! | 13.00% | ~44 |
-| Rocketman | 13.00% | ~44 |
-| Blasting away! | 13.00% | ~44 |
+| Toot Toot! | 13.00% | ~45 |
+| Rocketman | 13.00% | ~45 |
+| Blasting away! | 13.00% | ~45 |
 | High Roller | 12.00% | ~41 |
 | Earth Defense Force | 12.00% | ~41 |
 | Event Pro | 11.00% | ~38 |
@@ -49,18 +49,18 @@
 | Hoarder | 7.00% | ~24 |
 | Event Master | 6.00% | ~21 |
 | A Starting Collector | 5.00% | ~17 |
-| My Precious | 4.00% | ~14 |
 | Apprentice Mechanic | 4.00% | ~14 |
 | 433 Eros | 4.00% | ~14 |
 | Best Friends! | 4.00% | ~14 |
-| One Million Dollars! | 4.00% | ~14 |
 | M2H was Here! | 3.00% | ~10 |
+| My Precious | 3.00% | ~10 |
+| One Million Dollars! | 3.00% | ~10 |
 | Monkey Madness | 2.00% | ~7 |
 | Ultimate Car Collector | 1.00% | ~3 |
 | Master Mechanic | 1.00% | ~3 |
 | Crashed and Driven | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 342 (Ranked 234)  
+Progressed: 343 (Ranked 234)  
 Completed: 2 (0.58%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 2 (0.58%) (Ranked 120)
 | 2023-07-02 | 339 | 2 |
 | 2023-07-03 | 340 | 2 |
 | 2023-07-10 | 341 | 2 |
-| 2023-07-11 | 342 | 2 |
+| 2023-07-11 | 343 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

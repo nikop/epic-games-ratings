@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 402,
+  "EOS_Progressed": 403,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1381,6 +1381,11 @@
       "Time": "2023-07-11T10:04:31.3490097+00:00",
       "NumProgressed": 402,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-11T12:05:45.0760139+00:00",
+      "NumProgressed": 403,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1512,7 +1517,7 @@
       "Name": "Sergeant",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -1576,7 +1581,7 @@
       "Name": "Covert Operative",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -1695,14 +1700,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 402,
+      "Progressed": 403,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-11T11:05:18.9302497+00:00",
+  "LastChanged_Achievements": "2023-07-11T12:05:45.0760133+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:58.5226048+00:00",
-  "LastUpdate_Ratings": "2023-07-11T11:01:12.2173117+00:00",
-  "LastUpdate_Achievements": "2023-07-11T11:05:18.9302782+00:00"
+  "LastUpdate_Ratings": "2023-07-11T12:01:45.4770454+00:00",
+  "LastUpdate_Achievements": "2023-07-11T12:05:45.0760591+00:00"
 }

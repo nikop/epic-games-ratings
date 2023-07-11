@@ -562,9 +562,9 @@
       "Count": 214
     }
   ],
-  "EOS_Progressed": 462747,
+  "EOS_Progressed": 462750,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 549,
+  "EOS_NewPlayers": 548,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8932,6 +8932,11 @@
       "Time": "2023-07-11T11:07:12.6907943+00:00",
       "NumProgressed": 462747,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-07-11T12:07:59.1317445+00:00",
+      "NumProgressed": 462750,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 79,
@@ -8943,7 +8948,7 @@
       "Name": "Knightmare Frames",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "achievement_expedition_overcome_sandworm",
@@ -8951,7 +8956,7 @@
       "Name": "May His passing cleanse the world",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "achievement_first_death",
@@ -8967,7 +8972,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -8975,7 +8980,7 @@
       "Name": "Chapter II: Fallible Flesh",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "achievement_story_complete_chapter_3",
@@ -9111,7 +9116,7 @@
       "Name": "Pope Zenon",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "achievement_story_neon_child",
@@ -9119,7 +9124,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -9391,7 +9396,7 @@
       "Name": "Plan for the worst",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -9455,7 +9460,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -9574,21 +9579,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 6681,
+      "Progressed": 6684,
       "Completed": 2352
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 462747,
+      "Progressed": 462750,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-07-02T08:59:13.8125338+00:00",
-  "LastChanged_Achievements": "2023-07-11T11:07:12.6907938+00:00",
+  "LastChanged_Achievements": "2023-07-11T12:07:59.1317443+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:26.1718184+00:00",
-  "LastUpdate_Ratings": "2023-07-11T11:00:02.6166569+00:00",
-  "LastUpdate_Achievements": "2023-07-11T11:07:12.6908959+00:00"
+  "LastUpdate_Ratings": "2023-07-11T12:00:20.2464654+00:00",
+  "LastUpdate_Achievements": "2023-07-11T12:07:59.1318931+00:00"
 }
