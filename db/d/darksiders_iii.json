@@ -3,12 +3,12 @@
   "Name": "Darksiders III",
   "ProductSlug": "darksiders3",
   "Ranking_Rating": 552,
-  "Ranking_Popularity": 344,
-  "Ranking_PopularitySum": 414,
+  "Ranking_Popularity": 345,
+  "Ranking_PopularitySum": 415,
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 318,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -400,6 +400,6 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "LastChanged": "2023-07-01T09:00:47.5308888+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:50.2880133+00:00",
-  "LastUpdate_Ratings": "2023-07-11T16:01:50.791848+00:00",
-  "LastUpdate_Achievements": "2023-07-11T16:07:23.9091307+00:00"
+  "LastUpdate_Ratings": "2023-07-11T17:01:20.0515309+00:00",
+  "LastUpdate_Achievements": "2023-07-11T17:07:05.4782482+00:00"
 }

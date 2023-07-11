@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 32,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-12-20T16:00:00+00:00",
     "PcReleaseDate": "2020-12-20T16:00:00+00:00",
@@ -1681,9 +1681,9 @@
       "Count": 71
     }
   ],
-  "EOS_Progressed": 481271,
+  "EOS_Progressed": 481272,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 539,
+  "EOS_NewPlayers": 540,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10111,6 +10111,11 @@
       "Time": "2023-07-11T16:07:51.6589164+00:00",
       "NumProgressed": 481271,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-11T17:07:29.0986813+00:00",
+      "NumProgressed": 481272,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 87,
@@ -10234,7 +10239,7 @@
       "Name": "Confident",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 192508
+      "UsersEstimate": 192509
     },
     {
       "ID": "CORECONTAINER",
@@ -10250,7 +10255,7 @@
       "Name": "Death From Above",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 77003
+      "UsersEstimate": 77004
     },
     {
       "ID": "DIVERSITY",
@@ -10298,7 +10303,7 @@
       "Name": "Filthy Rich",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 91441
+      "UsersEstimate": 91442
     },
     {
       "ID": "FIREBUG",
@@ -10410,7 +10415,7 @@
       "Name": "Hey! That\u0027s mine!",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 375391
+      "UsersEstimate": 375392
     },
     {
       "ID": "HIGHVOLTAGE",
@@ -10434,7 +10439,7 @@
       "Name": "I Spy",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 308013
+      "UsersEstimate": 308014
     },
     {
       "ID": "KABOOM",
@@ -10458,7 +10463,7 @@
       "Name": "Leadhead",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 341702
+      "UsersEstimate": 341703
     },
     {
       "ID": "LIQUIDATOR",
@@ -10522,7 +10527,7 @@
       "Name": "No Sale",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 144381
+      "UsersEstimate": 144382
     },
     {
       "ID": "NOTSOFAST",
@@ -10634,7 +10639,7 @@
       "Name": "Retry",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 77003
+      "UsersEstimate": 77004
     },
     {
       "ID": "RETRYAGAIN",
@@ -10666,7 +10671,7 @@
       "Name": "Sharpshooter",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 158819
+      "UsersEstimate": 158820
     },
     {
       "ID": "SHELLSHOCKED",
@@ -10706,7 +10711,7 @@
       "Name": "Surplus",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 312826
+      "UsersEstimate": 312827
     },
     {
       "ID": "TEMPORALWOULDHAVEBEENNICE",
@@ -10802,7 +10807,7 @@
       "Name": "Yellow Beats Green",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 264699
+      "UsersEstimate": 264700
     },
     {
       "ID": "YOUMONSTER",
@@ -10817,15 +10822,15 @@
     {
       "ID": "bko38ff",
       "IsBase": true,
-      "Progressed": 481271,
+      "Progressed": 481272,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:21:41.4012807+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:40.5516265+00:00",
   "LastChanged": "2023-07-07T10:59:00.7981359+00:00",
-  "LastChanged_Achievements": "2023-07-11T16:07:51.6589159+00:00",
+  "LastChanged_Achievements": "2023-07-11T17:07:29.0986802+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:05.076446+00:00",
-  "LastUpdate_Ratings": "2023-07-11T15:59:14.4122671+00:00",
-  "LastUpdate_Achievements": "2023-07-11T16:07:51.6590835+00:00"
+  "LastUpdate_Ratings": "2023-07-11T16:59:10.1666126+00:00",
+  "LastUpdate_Achievements": "2023-07-11T17:07:29.098847+00:00"
 }

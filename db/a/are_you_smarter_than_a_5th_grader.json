@@ -2,10 +2,10 @@
   "ID": "1293d5a9bfc84e7e8574d02b6ee5a3af",
   "Name": "Are You Smarter Than A 5th Grader",
   "ProductSlug": "are-you-smarter-than-a-5th-grader-bc328a",
-  "Ranking_EOS_Progress": 243,
+  "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-08-23T13:00:00+00:00",
     "PcReleaseDate": "2022-08-23T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 305,
+  "EOS_Progressed": 307,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -222,6 +222,11 @@
       "Time": "2023-07-11T02:20:17.7326894+00:00",
       "NumProgressed": 305,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-11T17:01:42.8917048+00:00",
+      "NumProgressed": 307,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 19,
@@ -247,9 +252,9 @@
       "ID": "Byoing",
       "SetID": "6l18k14",
       "Name": "Byoing",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 21
     },
     {
       "ID": "ExamPractice",
@@ -265,7 +270,7 @@
       "Name": "Exam Time",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 256
+      "UsersEstimate": 258
     },
     {
       "ID": "FifthGrade",
@@ -281,7 +286,7 @@
       "Name": "1st Grade",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "FourthGrade",
@@ -313,7 +318,7 @@
       "Name": "In The Honor Roll",
       "Percentage": 9,
       "XP": 75,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Librarian",
@@ -384,7 +389,7 @@
     {
       "ID": "6l18k14",
       "IsBase": true,
-      "Progressed": 305,
+      "Progressed": 307,
       "Completed": 0
     }
   ],
@@ -392,8 +397,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.561977+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.3990521+00:00",
   "LastChanged": "2023-03-31T05:58:18.5619771+00:00",
-  "LastChanged_Achievements": "2023-07-11T16:02:18.2317586+00:00",
+  "LastChanged_Achievements": "2023-07-11T17:01:42.8917038+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:33.8112123+00:00",
-  "LastUpdate_Ratings": "2023-07-11T16:01:35.4614876+00:00",
-  "LastUpdate_Achievements": "2023-07-11T16:02:18.2318078+00:00"
+  "LastUpdate_Ratings": "2023-07-11T17:01:06.4145413+00:00",
+  "LastUpdate_Achievements": "2023-07-11T17:01:42.8917479+00:00"
 }

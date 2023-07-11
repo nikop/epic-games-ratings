@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 532,
+  "EOS_Progressed": 533,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 251,
+  "EOS_NewPlayers": 248,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -926,6 +926,11 @@
       "Time": "2023-07-11T14:06:22.6998707+00:00",
       "NumProgressed": 532,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-11T17:04:38.1205724+00:00",
+      "NumProgressed": 533,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -935,9 +940,9 @@
       "ID": "AMMO_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "This Isn\u0027t The Last Box",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 293
+      "UsersEstimate": 288
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -1137,7 +1142,7 @@
       "Name": "Greetings from Royalty",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -1217,7 +1222,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -1225,7 +1230,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -1257,7 +1262,7 @@
       "Name": "And There We Go",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -1289,15 +1294,15 @@
       "Name": "Leecher Hunting Season",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "LEECHER_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Don\u0027t Turn Your Back",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 117
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -1313,7 +1318,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -1329,7 +1334,7 @@
       "Name": "Night Snack",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -1385,7 +1390,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -1464,14 +1469,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 532,
+      "Progressed": 533,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-11T16:04:54.7261547+00:00",
+  "LastChanged_Achievements": "2023-07-11T17:04:38.1205721+00:00",
   "LastUpdate_AppInfo": "2023-07-06T13:16:22.5768242+00:00",
-  "LastUpdate_Ratings": "2023-07-11T15:57:09.3611468+00:00",
-  "LastUpdate_Achievements": "2023-07-11T16:04:54.7262485+00:00"
+  "LastUpdate_Ratings": "2023-07-11T16:57:20.6420661+00:00",
+  "LastUpdate_Achievements": "2023-07-11T17:04:38.1206409+00:00"
 }

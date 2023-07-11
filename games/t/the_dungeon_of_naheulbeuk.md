@@ -1,42 +1,42 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.54 (Ranked 490)  
+Rating: 4.53 (Ranked 507)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 58.00% | ~103,655 |
-| Where's that freaking Dwarf? | 45.00% | ~80,422 |
-| GG EZ | 27.00% | ~48,253 |
-| Speedrun | 26.00% | ~46,466 |
-| Déjà vu | 20.00% | ~35,743 |
-| Sock! SOCK! | 15.00% | ~26,807 |
-| DM intervention | 12.00% | ~21,446 |
-| A beer, two curses, three companions | 7.00% | ~12,510 |
-| Fireproof Wizardess | 7.00% | ~12,510 |
-| Livin' in a dwarven paradise | 5.00% | ~8,936 |
-| Way of the Wimp | 5.00% | ~8,936 |
-| The plot thickens... At the tavern | 4.00% | ~7,149 |
-| The Woman in the High Castle | 3.00% | ~5,361 |
-| Team Building Exercise | 3.00% | ~5,361 |
-| The demons' feast | 2.00% | ~3,574 |
-| Res Judicata | 2.00% | ~3,574 |
-| I am the night | 2.00% | ~3,574 |
-| Shiny and Crôm | 1.00% | ~1,787 |
-| The Great Library | 1.00% | ~1,787 |
-| Torture and Sensibility | 1.00% | ~1,787 |
-| Dwarf Fortress | 1.00% | ~1,787 |
-| The Ranger of Chaos | 1.00% | ~1,787 |
-| Thieves' Guild Accreditation | 1.00% | ~1,787 |
-| Oh, when I'll be level 10... | 1.00% | ~1,787 |
-| The beards of change | 0.80% | ~1,430 |
-| Lust and Debauchery | 0.80% | ~1,430 |
-| Material Girl | 0.80% | ~1,430 |
-| Look but don't touch | 0.70% | ~1,251 |
-| Gargantua | 0.70% | ~1,251 |
-| In Navalu's footsteps | 0.70% | ~1,251 |
-| Urik's Depths | 0.60% | ~1,072 |
+| Alt+F4 | 58.00% | ~103,714 |
+| Where's that freaking Dwarf? | 46.00% | ~82,256 |
+| GG EZ | 27.00% | ~48,281 |
+| Speedrun | 26.00% | ~46,492 |
+| Déjà vu | 20.00% | ~35,763 |
+| Sock! SOCK! | 15.00% | ~26,823 |
+| DM intervention | 12.00% | ~21,458 |
+| A beer, two curses, three companions | 7.00% | ~12,517 |
+| Fireproof Wizardess | 7.00% | ~12,517 |
+| Livin' in a dwarven paradise | 5.00% | ~8,941 |
+| Way of the Wimp | 5.00% | ~8,941 |
+| The plot thickens... At the tavern | 4.00% | ~7,153 |
+| The Woman in the High Castle | 3.00% | ~5,365 |
+| Team Building Exercise | 3.00% | ~5,365 |
+| The demons' feast | 2.00% | ~3,576 |
+| Res Judicata | 2.00% | ~3,576 |
+| I am the night | 2.00% | ~3,576 |
+| Shiny and Crôm | 1.00% | ~1,788 |
+| The Great Library | 1.00% | ~1,788 |
+| Torture and Sensibility | 1.00% | ~1,788 |
+| Dwarf Fortress | 1.00% | ~1,788 |
+| The Ranger of Chaos | 1.00% | ~1,788 |
+| Thieves' Guild Accreditation | 1.00% | ~1,788 |
+| Oh, when I'll be level 10... | 1.00% | ~1,788 |
+| The beards of change | 0.80% | ~1,431 |
+| Lust and Debauchery | 0.80% | ~1,431 |
+| Material Girl | 0.80% | ~1,431 |
+| Look but don't touch | 0.70% | ~1,252 |
+| Gargantua | 0.70% | ~1,252 |
+| In Navalu's footsteps | 0.70% | ~1,252 |
+| Urik's Depths | 0.60% | ~1,073 |
 | The Statuette of Gladeulfeurah | 0.50% | ~894 |
 | I'd rather... Just... Sing! | 0.50% | ~894 |
 | A tale of adventurers not quite like the others... | 0.50% | ~894 |
@@ -50,8 +50,8 @@ Number of Ratings: 118  (23.09.2022)
 | Law and Order | 0.40% | ~715 |
 | Friendly fire | 0.30% | ~536 |
 | An old poacher makes the best gamekeeper | 0.30% | ~536 |
-| Scholar of the Lands of Fangh | 0.20% | ~357 |
-| Insult to injury | 0.20% | ~357 |
+| Scholar of the Lands of Fangh | 0.20% | ~358 |
+| Insult to injury | 0.20% | ~358 |
 | Cursed die | 0.10% | ~179 |
 | Holistic Adventuring Party | 0.10% | ~179 |
 | Necrophilia | 0.10% | ~179 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 178,715 (Ranked 58)  
+Progressed: 178,817 (Ranked 58)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,14 +136,14 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-08 | 171,176 | 0 |
 | 2023-07-09 | 174,947 | 0 |
 | 2023-07-10 | 177,355 | 0 |
-| 2023-07-11 | 178,715 | 0 |
+| 2023-07-11 | 178,817 | 0 |
 ## Awards
-Max (Character Customization): 84  (Ranked 351)  
-Sum: 84 (Ranked 418)  
-Diff (max vs sum): -67  
+Max (Character Customization): 92  (Ranked 343)  
+Sum: 92 (Ranked 414)  
+Diff (max vs sum): -71  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 84 |
+| This game has Inclusive Character Customization | 92 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -226,3 +226,4 @@ Diff (max vs sum): -67
 | 2023-07-08 | 4.55 | - | 78 | 78 |
 | 2023-07-09 | 4.54 | - | 82 | 82 |
 | 2023-07-10 | 4.54 | - | 84 | 84 |
+| 2023-07-11 | 4.53 | - | 92 | 92 |

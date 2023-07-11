@@ -1,7 +1,7 @@
 # Sonic Origins
 [Store](https://store.epicgames.com/en-US/p/sonic-origins)  
 [View Rawdata](../../db/s/sonic_origins.json)  
-Rating: 4.57 (Ranked 439)  
+Rating: 4.58 (Ranked 422)  
 Number of Ratings: 154  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -122,3 +122,4 @@ Diff (max vs sum): -90
 | 2023-06-23 | 4.57 | - | 119 | 119 |
 | 2023-07-01 | 4.57 | - | 121 | 121 |
 | 2023-07-02 | 4.57 | - | 122 | 122 |
+| 2023-07-11 | 4.58 | - | 122 | 122 |

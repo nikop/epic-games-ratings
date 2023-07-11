@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3086,9 +3086,9 @@
       "Count": 381
     }
   ],
-  "EOS_Progressed": 10268,
+  "EOS_Progressed": 10269,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8191,6 +8191,11 @@
       "Time": "2023-07-11T16:04:17.4285973+00:00",
       "NumProgressed": 10268,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-11T17:04:06.1411717+00:00",
+      "NumProgressed": 10269,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -8338,7 +8343,7 @@
       "Name": "Mythic Choices",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "19_EqualToAroden",
@@ -8450,7 +8455,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -9098,7 +9103,7 @@
       "Name": "This Wall Won\u0027t Fall",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "DLC4_27_Not the Last Sarkorian",
@@ -9129,21 +9134,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9050,
+      "Progressed": 9051,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10268,
+      "Progressed": 10269,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-11T13:15:47.8185114+00:00",
-  "LastChanged_Achievements": "2023-07-11T16:04:17.4285968+00:00",
+  "LastChanged_Achievements": "2023-07-11T17:04:06.1411707+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:12.7052521+00:00",
-  "LastUpdate_Ratings": "2023-07-11T15:59:18.9602736+00:00",
-  "LastUpdate_Achievements": "2023-07-11T16:04:17.4288146+00:00"
+  "LastUpdate_Ratings": "2023-07-11T16:59:14.2191867+00:00",
+  "LastUpdate_Achievements": "2023-07-11T17:04:06.1413281+00:00"
 }

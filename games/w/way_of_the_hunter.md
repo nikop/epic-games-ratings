@@ -5,7 +5,7 @@ Rating: 4.38 (Ranked 711)
 Number of Ratings: 190  (23.09.2022)  
 ## Awards
 Max (Highly Recommended): 40  (Ranked 420)  
-Sum: 264 (Ranked 346)  
+Sum: 265 (Ranked 346)  
 Diff (max vs sum): 74  
 | Award | Count |
 | ----- | ----- |
@@ -19,8 +19,8 @@ Diff (max vs sum): 74
 | This game is Educational | 22 |
 | This game has Obsessive Gameplay | 21 |
 | This game has Realistic Visuals | 21 |
+| This game has Challenging Combat | 21 |
 | This game is Great for Beginners | 20 |
-| This game has Challenging Combat | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -126,4 +126,4 @@ Diff (max vs sum): 74
 | 2023-06-29 | 4.37 | - | 40 | 263 |
 | 2023-07-09 | 4.38 | - | 40 | 263 |
 | 2023-07-10 | 4.37 | - | 40 | 264 |
-| 2023-07-11 | 4.38 | - | 40 | 264 |
+| 2023-07-11 | 4.38 | - | 40 | 265 |

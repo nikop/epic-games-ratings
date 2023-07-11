@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 15,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -1515,9 +1515,9 @@
       "ID": "LEVEL_001",
       "SetID": "212bg48",
       "Name": "A fresh start",
-      "Percentage": 95,
+      "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 471
+      "UsersEstimate": 476
     },
     {
       "ID": "LEVEL_002",
@@ -1531,9 +1531,9 @@
       "ID": "LEVEL_003",
       "SetID": "212bg48",
       "Name": "A horse in the country",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 337
+      "UsersEstimate": 342
     },
     {
       "ID": "LEVEL_004",
@@ -1762,8 +1762,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-07-11T16:06:29.0080604+00:00",
+  "LastChanged_Achievements": "2023-07-11T17:06:17.8637772+00:00",
   "LastUpdate_AppInfo": "2023-07-10T16:57:01.27896+00:00",
-  "LastUpdate_Ratings": "2023-07-11T15:57:30.8173178+00:00",
-  "LastUpdate_Achievements": "2023-07-11T16:06:29.0080996+00:00"
+  "LastUpdate_Ratings": "2023-07-11T16:57:39.1425344+00:00",
+  "LastUpdate_Achievements": "2023-07-11T17:06:17.8638079+00:00"
 }

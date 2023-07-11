@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 59,
+  "Ranking_EOS_NewPlayers": 60,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
@@ -443,9 +443,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 78234,
+  "EOS_Progressed": 78239,
   "EOS_Completed": 371,
-  "EOS_NewPlayers": 813,
+  "EOS_NewPlayers": 805,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -9138,6 +9138,11 @@
       "Time": "2023-07-11T16:04:38.6658206+00:00",
       "NumProgressed": 78234,
       "NumCompleted": 371
+    },
+    {
+      "Time": "2023-07-11T17:04:24.3375013+00:00",
+      "NumProgressed": 78239,
+      "NumCompleted": 371
     }
   ],
   "TotalAchievements": 10,
@@ -9205,7 +9210,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 7823
+      "UsersEstimate": 7824
     },
     {
       "ID": "Level00BowlingStrike",
@@ -9213,7 +9218,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 27382
+      "UsersEstimate": 27384
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -9228,15 +9233,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 78234,
+      "Progressed": 78239,
       "Completed": 371
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-03-31T05:57:32.2303432+00:00",
-  "LastChanged_Achievements": "2023-07-11T16:04:38.6658201+00:00",
+  "LastChanged_Achievements": "2023-07-11T17:04:24.3375007+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:58.7470048+00:00",
-  "LastUpdate_Ratings": "2023-07-11T16:02:00.5658222+00:00",
-  "LastUpdate_Achievements": "2023-07-11T16:04:38.6658986+00:00"
+  "LastUpdate_Ratings": "2023-07-11T17:01:28.3333087+00:00",
+  "LastUpdate_Achievements": "2023-07-11T17:04:24.3375585+00:00"
 }

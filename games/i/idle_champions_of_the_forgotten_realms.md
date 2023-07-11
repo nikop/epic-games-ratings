@@ -6,16 +6,16 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,523 |
-| The Mad Wizard | 11.00% | ~23,117 |
-| The Ring of Regeneration | 7.00% | ~14,711 |
-| Are Ya Chicken? | 7.00% | ~14,711 |
-| Were-verpowered | 6.00% | ~12,609 |
-| Seeking Allies | 5.00% | ~10,508 |
-| Mad Cow Disease | 5.00% | ~10,508 |
-| Friendly Imps | 5.00% | ~10,508 |
-| A Persistent Buzzing | 4.00% | ~8,406 |
-| Pure Energy | 4.00% | ~8,406 |
+| The Cursed Farmer | 15.00% | ~31,527 |
+| The Mad Wizard | 11.00% | ~23,120 |
+| The Ring of Regeneration | 7.00% | ~14,712 |
+| Are Ya Chicken? | 7.00% | ~14,712 |
+| Were-verpowered | 6.00% | ~12,611 |
+| Seeking Allies | 5.00% | ~10,509 |
+| Mad Cow Disease | 5.00% | ~10,509 |
+| Friendly Imps | 5.00% | ~10,509 |
+| A Persistent Buzzing | 4.00% | ~8,407 |
+| Pure Energy | 4.00% | ~8,407 |
 | Beast Mode | 3.00% | ~6,305 |
 | Terror in the Dark | 3.00% | ~6,305 |
 | A Mysterious Summons | 3.00% | ~6,305 |
@@ -24,16 +24,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 3.00% | ~6,305 |
 | The Contagious Curse | 3.00% | ~6,305 |
 | Escort to Waterdeep | 3.00% | ~6,305 |
-| Low Initiative | 2.00% | ~4,203 |
-| Building Trust | 2.00% | ~4,203 |
-| March of the Undead | 2.00% | ~4,203 |
-| No Time To Rest | 2.00% | ~4,203 |
-| Useless Allies | 2.00% | ~4,203 |
-| Running of the Saurs | 2.00% | ~4,203 |
-| Waterdeep Detours | 2.00% | ~4,203 |
-| Underdeep Cartography | 2.00% | ~4,203 |
-| Overdue Rendezvous | 2.00% | ~4,203 |
-| The Templar's Camp | 2.00% | ~4,203 |
+| Low Initiative | 2.00% | ~4,204 |
+| Building Trust | 2.00% | ~4,204 |
+| March of the Undead | 2.00% | ~4,204 |
+| No Time To Rest | 2.00% | ~4,204 |
+| Useless Allies | 2.00% | ~4,204 |
+| Running of the Saurs | 2.00% | ~4,204 |
+| Waterdeep Detours | 2.00% | ~4,204 |
+| Underdeep Cartography | 2.00% | ~4,204 |
+| Overdue Rendezvous | 2.00% | ~4,204 |
+| The Templar's Camp | 2.00% | ~4,204 |
 | Homecoming | 1.00% | ~2,102 |
 | The Lost Heir of Omu | 1.00% | ~2,102 |
 | Street War | 1.00% | ~2,102 |
@@ -52,18 +52,18 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lost in the Deep | 1.00% | ~2,102 |
 | Easily Distracted | 1.00% | ~2,102 |
 | Rescue in the Jungle | 1.00% | ~2,102 |
-| The Forbidden City | 0.90% | ~1,891 |
-| Wisdom Check | 0.90% | ~1,891 |
-| The Mists of Ravenloft | 0.90% | ~1,891 |
-| Attack on the Manor | 0.90% | ~1,891 |
-| The Dead Three | 0.90% | ~1,891 |
+| The Forbidden City | 0.90% | ~1,892 |
+| Wisdom Check | 0.90% | ~1,892 |
+| The Mists of Ravenloft | 0.90% | ~1,892 |
+| Attack on the Manor | 0.90% | ~1,892 |
+| The Dead Three | 0.90% | ~1,892 |
 | Captured! | 0.80% | ~1,681 |
 | A Grand Puzzle | 0.80% | ~1,681 |
 | Tomb of the Nine Gods | 0.80% | ~1,681 |
 | Treasure Hunters | 0.80% | ~1,681 |
 | Nimble Escape | 0.80% | ~1,681 |
 | The Darkness Runs Deeper | 0.80% | ~1,681 |
-| The Giant's Bane Tavern | 0.80% | ~1,411 |
+| The Giant's Bane Tavern | 0.80% | ~1,412 |
 | Rude Welcome | 0.80% | ~1,681 |
 | Durable Deep | 0.80% | ~1,681 |
 | The Haunted Jungle | 0.80% | ~1,681 |
@@ -75,7 +75,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Crowded Streets | 0.70% | ~1,471 |
 | Difficult Terrain | 0.70% | ~1,471 |
 | Market Fluctuations | 0.70% | ~1,471 |
+| Sleuth It Out | 0.60% | ~1,261 |
 | Tower on the Lake | 0.60% | ~1,261 |
+| Seeds of Deceit | 0.60% | ~1,261 |
 | The Guardian of Orolunga | 0.60% | ~1,261 |
 | The Lost Love | 0.60% | ~1,261 |
 | Enter the Sargauth | 0.60% | ~1,261 |
@@ -86,12 +88,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lobsterfolk Assault | 0.50% | ~1,051 |
 | Home Field Advantage | 0.50% | ~1,051 |
 | Force Grey Unleashed | 0.50% | ~1,051 |
-| Sleuth It Out | 0.50% | ~1,051 |
 | Azaka's Procession - Part 1 | 0.50% | ~1,051 |
 | Azaka's Procession - Part 2 | 0.50% | ~1,051 |
 | Chatty Nobles | 0.50% | ~1,051 |
 | Haaave You Met Asmodeus? | 0.50% | ~1,051 |
-| Seeds of Deceit | 0.50% | ~1,051 |
 | The Gargoyle's Apprentice | 0.50% | ~1,051 |
 | Flies on the Wall | 0.50% | ~1,051 |
 | Backtracking Through Barovia | 0.50% | ~1,051 |
@@ -133,30 +133,30 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Wandering Emporium | 0.40% | ~706 |
 | Civilization | 0.40% | ~706 |
 | Dwarven Rumors | 0.40% | ~706 |
-| Struggling Toward Omu | 0.30% | ~630 |
-| Never Split the Party | 0.30% | ~630 |
+| Struggling Toward Omu | 0.30% | ~631 |
+| Never Split the Party | 0.30% | ~631 |
 | Snakes on our Plane | 0.30% | ~529 |
-| Haunted Fortunes | 0.30% | ~630 |
-| Poor Fortune | 0.30% | ~630 |
+| Haunted Fortunes | 0.30% | ~631 |
+| Poor Fortune | 0.30% | ~631 |
 | Thine Bounty is Mine! | 0.30% | ~529 |
-| Hold for the Red Wizards | 0.30% | ~630 |
-| Our Time To Shine | 0.30% | ~630 |
-| A Saurial's Lament | 0.30% | ~630 |
-| Nimblest Escape | 0.30% | ~630 |
-| Stumbling Escape | 0.30% | ~630 |
-| From The Shadows | 0.30% | ~630 |
-| Spined Nuisances | 0.30% | ~630 |
-| Bazaar Exploits | 0.30% | ~630 |
-| Flame(skull) War | 0.30% | ~630 |
-| Elder Rune Madness | 0.30% | ~630 |
-| Who Lurks in Lurkwood | 0.30% | ~630 |
-| Orcs Are Wild | 0.30% | ~630 |
-| A Hero's Entourage | 0.30% | ~630 |
-| Dreams of Beholders | 0.30% | ~630 |
-| The Sunless Citadel | 0.30% | ~630 |
-| Troublesome Prisoner | 0.30% | ~630 |
-| Dark Doppelgangers | 0.30% | ~630 |
-| Cold & Wet | 0.30% | ~630 |
+| Hold for the Red Wizards | 0.30% | ~631 |
+| Our Time To Shine | 0.30% | ~631 |
+| A Saurial's Lament | 0.30% | ~631 |
+| Nimblest Escape | 0.30% | ~631 |
+| Stumbling Escape | 0.30% | ~631 |
+| From The Shadows | 0.30% | ~631 |
+| Spined Nuisances | 0.30% | ~631 |
+| Bazaar Exploits | 0.30% | ~631 |
+| Flame(skull) War | 0.30% | ~631 |
+| Elder Rune Madness | 0.30% | ~631 |
+| Who Lurks in Lurkwood | 0.30% | ~631 |
+| Orcs Are Wild | 0.30% | ~631 |
+| A Hero's Entourage | 0.30% | ~631 |
+| Dreams of Beholders | 0.30% | ~631 |
+| The Sunless Citadel | 0.30% | ~631 |
+| Troublesome Prisoner | 0.30% | ~631 |
+| Dark Doppelgangers | 0.30% | ~631 |
+| Cold & Wet | 0.30% | ~631 |
 | The Gargoyle | 0.30% | ~529 |
 | Tiamat's Army | 0.30% | ~529 |
 | Questlines | 0.30% | ~529 |
@@ -172,7 +172,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Deekin's Mission | 0.30% | ~529 |
 | The Battle of High Hall Tower | 0.30% | ~529 |
 | Elturel's Last Stand | 0.30% | ~529 |
-| Overwhelming Force | 0.30% | ~630 |
+| Overwhelming Force | 0.30% | ~631 |
 | The Castle of a Thousand Vecnas | 0.20% | ~353 |
 | The Sanctum of the Sword | 0.20% | ~353 |
 | Get Back In The Castle | 0.20% | ~353 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,152 (Ranked 52)  
+Progressed: 210,178 (Ranked 52)  
 Completed: 2,046 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -592,15 +592,15 @@ Completed: 2,046 (0.97%) (Ranked 102)
 | 2023-07-08 | 208,782 | 2,041 |
 | 2023-07-09 | 209,384 | 2,043 |
 | 2023-07-10 | 209,861 | 2,045 |
-| 2023-07-11 | 210,152 | 2,046 |
+| 2023-07-11 | 210,178 | 2,046 |
 ## Awards
 Max (Diverse Characters): 5,025  (Ranked 65)  
-Sum: 30,477 (Ranked 38)  
+Sum: 30,481 (Ranked 38)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,025 |
-| This game is Great for Beginners | 4,954 |
+| This game is Great for Beginners | 4,958 |
 | This game has Quickly Understood Controls | 4,653 |
 | This game is Relaxing | 4,550 |
 | This game is Highly Recommended | 4,000 |
@@ -775,4 +775,4 @@ Diff (max vs sum): 27
 | 2023-07-08 | 4.05 | - | 5,013 | 30,446 |
 | 2023-07-09 | 4.05 | - | 5,016 | 30,455 |
 | 2023-07-10 | 4.05 | - | 5,021 | 30,473 |
-| 2023-07-11 | 4.05 | - | 5,025 | 30,477 |
+| 2023-07-11 | 4.05 | - | 5,025 | 30,481 |

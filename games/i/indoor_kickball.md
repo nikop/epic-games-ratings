@@ -25,11 +25,11 @@
 | Bathroom Secret Spot | 20.00% | ~15 |
 | Angry Dad | 20.00% | ~15 |
 | At least everyone still had fun | 20.00% | ~15 |
-| Living Room Secret Spot | 16.00% | ~12 |
+| Living Room Secret Spot | 18.00% | ~13 |
 | Hi Hungry, I'm Dad | 14.00% | ~10 |
 | Just how we drew it up | 11.00% | ~8 |
+| Angry Mom | 9.00% | ~7 |
 | Interference | 9.00% | ~7 |
-| Angry Mom | 8.00% | ~6 |
 | Kitchen Secret Spot | 5.00% | ~4 |
 | Found the Secret Formula! | 5.00% | ~4 |
 | Basement Secret Spot | 4.00% | ~3 |

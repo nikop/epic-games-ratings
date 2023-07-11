@@ -27,7 +27,7 @@ Rating: 4.39 (Ranked 702)
 | Jarhead | 32.00% | ~389 |
 | Infiltrator | 31.00% | ~377 |
 | Pushing Daisy | 30.00% | ~365 |
-| Experienced | 28.00% | ~341 |
+| Experienced | 29.00% | ~353 |
 | Hold The Line | 26.00% | ~316 |
 | Endgame | 25.00% | ~304 |
 | Savior | 25.00% | ~304 |

@@ -7,6 +7,7 @@ Rating: 4.45 (Ranked 622)
 | ---- | ---------- | ----- |
 | Climbing the Ladder | 2.00% | ~65 |
 | Liberté | 2.00% | ~65 |
+| No Stone Unturned | 2.00% | ~65 |
 | Meeting Resistance | 2.00% | ~65 |
 | Gunslinger | 2.00% | ~65 |
 | Sharpshooter | 2.00% | ~65 |
@@ -20,7 +21,6 @@ Rating: 4.45 (Ranked 622)
 | Taking it back | 2.00% | ~65 |
 | Target America | 2.00% | ~65 |
 | The Kraken Sleeps | 2.00% | ~65 |
-| No Stone Unturned | 1.00% | ~33 |
 | Opposing Force | 1.00% | ~33 |
 | Organ Grinder | 1.00% | ~33 |
 | Skirmisher | 1.00% | ~33 |
@@ -38,15 +38,15 @@ Rating: 4.45 (Ranked 622)
 | Fields of Glory | 0.80% | ~26 |
 | The Long Game | 0.70% | ~23 |
 | Tinkerer | 0.70% | ~23 |
+| Rigged to Blow | 0.60% | ~20 |
 | Herr Today, Gone Tomorrow | 0.60% | ~19 |
-| Rigged to Blow | 0.50% | ~16 |
 | From Paris with Love | 0.50% | ~16 |
+| Burn after reading | 0.50% | ~16 |
 | It'll Buff Right Out | 0.50% | ~16 |
 | Don't hold your breath | 0.50% | ~16 |
 | Shipbreaker | 0.50% | ~16 |
 | Sink or Swim | 0.50% | ~16 |
 | Strategist | 0.40% | ~13 |
-| Burn after reading | 0.40% | ~13 |
 | Souvenir hunter | 0.40% | ~13 |
 | Eagle Eyed | 0.40% | ~13 |
 | Road Rage | 0.40% | ~13 |

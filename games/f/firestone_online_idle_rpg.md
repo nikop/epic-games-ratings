@@ -29,6 +29,7 @@ Rating: 4.11 (Ranked 885)
 | Superior | 12.00% | ~194 |
 | Scientist | 11.00% | ~178 |
 | Hunter | 10.00% | ~162 |
+| The power of Awakening | 10.00% | ~162 |
 | Challenger | 9.00% | ~145 |
 | Daily Quest Completionist | 9.00% | ~145 |
 | Doing My Part | 9.00% | ~145 |
@@ -38,7 +39,6 @@ Rating: 4.11 (Ranked 885)
 | Moving Up The Ladder | 9.00% | ~145 |
 | Relic Of The Past | 9.00% | ~145 |
 | Scroll Master | 9.00% | ~145 |
-| The power of Awakening | 9.00% | ~145 |
 | Here We Go Again | 7.00% | ~113 |
 | Master Enchanter | 7.00% | ~113 |
 | The father of Dragons | 7.00% | ~113 |

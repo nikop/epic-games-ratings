@@ -122,7 +122,7 @@ Completed: 1,307 (4.69%) (Ranked 41)
 | 2023-07-11 | 27,892 | 1,307 |
 ## Awards
 Max (Amazing Storytelling): 38  (Ranked 425)  
-Sum: 322 (Ranked 330)  
+Sum: 323 (Ranked 330)  
 Diff (max vs sum): 95  
 | Award | Count |
 | ----- | ----- |
@@ -136,7 +136,7 @@ Diff (max vs sum): 95
 | This game is Relaxing | 26 |
 | This game has a Creative Community | 26 |
 | This game is Great for Quick Sessions | 25 |
-| This game has Easy Combat | 24 |
+| This game has Easy Combat | 25 |
 | This game has Obsessive Gameplay | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -228,3 +228,4 @@ Diff (max vs sum): 95
 | 2023-06-19 | 4.86 | - | 38 | 320 |
 | 2023-06-23 | 4.86 | - | 38 | 321 |
 | 2023-06-30 | 4.86 | - | 38 | 322 |
+| 2023-07-11 | 4.86 | - | 38 | 323 |

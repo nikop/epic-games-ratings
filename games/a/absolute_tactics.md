@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A New Adventure | 50.00% | ~2 |
-| Big Money | 25.00% | ~1 |
+| Big Money | 50.00% | ~2 |
 | The Killing Moon | 0.00% | ~0 |
 | Eye for an Eye | 0.00% | ~0 |
 | Bloody Vengeance | 0.00% | ~0 |

@@ -2,13 +2,13 @@
   "ID": "jackal",
   "Name": "Dauntless",
   "ProductSlug": "dauntless",
-  "Ranking_Rating": 508,
+  "Ranking_Rating": 507,
   "Ranking_Popularity": 18,
   "Ranking_PopularitySum": 23,
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 318,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-03-19T13:51:00+00:00",
     "PcReleaseDate": null,
@@ -6558,18 +6558,24 @@
       "Rating": 4.53,
       "NumberOfAwards": 51661,
       "NumberOfAwardsMax": 20672
+    },
+    {
+      "Time": "2023-07-11T16:59:57.6930644+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 51685,
+      "NumberOfAwardsMax": 20691
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 51661,
-  "NumberOfAwardsMax": 20672,
+  "NumberOfAwards": 51685,
+  "NumberOfAwardsMax": 20691,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 20672
+      "Count": 20691
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -6587,7 +6593,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 2825
+      "Count": 2830
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -6643,8 +6649,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:00.3029746+00:00",
-  "LastChanged": "2023-07-11T13:16:24.8125846+00:00",
+  "LastChanged": "2023-07-11T16:59:57.6930641+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:08.6480461+00:00",
-  "LastUpdate_Ratings": "2023-07-11T16:00:09.0343254+00:00",
-  "LastUpdate_Achievements": "2023-07-11T16:05:37.5058274+00:00"
+  "LastUpdate_Ratings": "2023-07-11T16:59:57.693065+00:00",
+  "LastUpdate_Achievements": "2023-07-11T17:05:34.3283977+00:00"
 }
