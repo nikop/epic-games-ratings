@@ -2,7 +2,7 @@
   "ID": "489c2ca47aaa4190b694184b979d3b23",
   "Name": "The First Tree",
   "ProductSlug": "the-first-tree",
-  "Ranking_Rating": 914,
+  "Ranking_Rating": 913,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 92,
@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 33321,
+  "EOS_Progressed": 33322,
   "EOS_Completed": 103,
-  "EOS_NewPlayers": 301,
+  "EOS_NewPlayers": 299,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -7553,6 +7553,11 @@
       "Time": "2023-07-11T10:03:46.6047001+00:00",
       "NumProgressed": 33321,
       "NumCompleted": 103
+    },
+    {
+      "Time": "2023-07-11T11:04:26.3838257+00:00",
+      "NumProgressed": 33322,
+      "NumCompleted": 103
     }
   ],
   "TotalAchievements": 14,
@@ -7580,7 +7585,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 8663
+      "UsersEstimate": 8664
     },
     {
       "ID": "allItems",
@@ -7652,7 +7657,7 @@
       "Name": "Two Worlds",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 25990
+      "UsersEstimate": 25991
     },
     {
       "ID": "roots",
@@ -7675,15 +7680,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 33321,
+      "Progressed": 33322,
       "Completed": 103
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-06-14T02:10:18.2883541+00:00",
-  "LastChanged_Achievements": "2023-07-11T10:03:46.604699+00:00",
+  "LastChanged_Achievements": "2023-07-11T11:04:26.3838251+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:44.7737855+00:00",
-  "LastUpdate_Ratings": "2023-07-11T09:59:54.4463811+00:00",
-  "LastUpdate_Achievements": "2023-07-11T10:03:46.6047599+00:00"
+  "LastUpdate_Ratings": "2023-07-11T11:01:01.553016+00:00",
+  "LastUpdate_Achievements": "2023-07-11T11:04:26.3838668+00:00"
 }

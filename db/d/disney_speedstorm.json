@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2934,
+  "EOS_Progressed": 2935,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 3.24,
   "EosHistory": [
@@ -3380,6 +3380,11 @@
       "Time": "2023-07-11T10:04:59.8788659+00:00",
       "NumProgressed": 2934,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-07-11T11:05:53.2551333+00:00",
+      "NumProgressed": 2935,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 24,
@@ -3391,7 +3396,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "10",
@@ -3407,7 +3412,7 @@
       "Name": "PERFECTLY POISED",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "12",
@@ -3455,7 +3460,7 @@
       "Name": "BE OUR GUEST",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "18",
@@ -3463,7 +3468,7 @@
       "Name": "ACE BRAWLER",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "19",
@@ -3471,7 +3476,7 @@
       "Name": "DEFEAT OUR CHAMPION",
       "Percentage": 13,
       "XP": 85,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "2",
@@ -3479,7 +3484,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "20",
@@ -3503,7 +3508,7 @@
       "Name": "THE EYE OF THE HUNTER",
       "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "23",
@@ -3543,7 +3548,7 @@
       "Name": "ROOKIE",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1555
+      "UsersEstimate": 1556
     },
     {
       "ID": "6",
@@ -3551,7 +3556,7 @@
       "Name": "PRO",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 968
+      "UsersEstimate": 969
     },
     {
       "ID": "7",
@@ -3582,13 +3587,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2934,
+      "Progressed": 2935,
       "Completed": 95
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-07-11T10:04:59.8788647+00:00",
+  "LastChanged_Achievements": "2023-07-11T11:05:53.2551327+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:58.7714419+00:00",
-  "LastUpdate_Ratings": "2023-07-11T09:58:45.74999+00:00",
-  "LastUpdate_Achievements": "2023-07-11T10:04:59.8789086+00:00"
+  "LastUpdate_Ratings": "2023-07-11T10:59:40.127156+00:00",
+  "LastUpdate_Achievements": "2023-07-11T11:05:53.2551618+00:00"
 }

@@ -4894,9 +4894,9 @@
       "Count": 3295
     }
   ],
-  "EOS_Progressed": 210029,
+  "EOS_Progressed": 210043,
   "EOS_Completed": 2045,
-  "EOS_NewPlayers": 4157,
+  "EOS_NewPlayers": 4145,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -13584,6 +13584,11 @@
       "Time": "2023-07-11T10:04:15.0330842+00:00",
       "NumProgressed": 210029,
       "NumCompleted": 2045
+    },
+    {
+      "Time": "2023-07-11T11:04:59.9359579+00:00",
+      "NumProgressed": 210043,
+      "NumCompleted": 2045
     }
   ],
   "TotalAchievements": 503,
@@ -14459,7 +14464,7 @@
       "Name": "Were-verpowered",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 12602
+      "UsersEstimate": 12603
     },
     {
       "ID": "objective_completed_1203",
@@ -14571,7 +14576,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8401
+      "UsersEstimate": 8402
     },
     {
       "ID": "objective_completed_130",
@@ -14769,9 +14774,9 @@
       "ID": "objective_completed_157",
       "SetID": "cc37lbc",
       "Name": "Underground Railroad",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 210
+      "UsersEstimate": 420
     },
     {
       "ID": "objective_completed_16",
@@ -14785,9 +14790,9 @@
       "ID": "objective_completed_164",
       "SetID": "cc37lbc",
       "Name": "A Mysterious Summons",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4201
+      "UsersEstimate": 6301
     },
     {
       "ID": "objective_completed_165",
@@ -15267,7 +15272,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 31504
+      "UsersEstimate": 31506
     },
     {
       "ID": "objective_completed_34",
@@ -15275,7 +15280,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 14702
+      "UsersEstimate": 14703
     },
     {
       "ID": "objective_completed_35",
@@ -15387,7 +15392,7 @@
       "Name": "Seeking Allies",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10501
+      "UsersEstimate": 10502
     },
     {
       "ID": "objective_completed_390",
@@ -15459,7 +15464,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 14702
+      "UsersEstimate": 14703
     },
     {
       "ID": "objective_completed_40",
@@ -15731,7 +15736,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10501
+      "UsersEstimate": 10502
     },
     {
       "ID": "objective_completed_54",
@@ -16675,7 +16680,7 @@
       "Name": "The Giant\u0027s Bane Tavern",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1410
+      "UsersEstimate": 1411
     },
     {
       "ID": "objective_completed_691",
@@ -16739,7 +16744,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 23103
+      "UsersEstimate": 23105
     },
     {
       "ID": "objective_completed_70",
@@ -16811,7 +16816,7 @@
       "Name": "Friendly Imps",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10501
+      "UsersEstimate": 10502
     },
     {
       "ID": "objective_completed_80",
@@ -17339,7 +17344,7 @@
       "Name": "Pure Energy",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8401
+      "UsersEstimate": 8402
     },
     {
       "ID": "objective_completed_902",
@@ -17618,21 +17623,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 176303,
+      "Progressed": 176317,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 210029,
+      "Progressed": 210043,
       "Completed": 2045
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-11T05:58:53.7688904+00:00",
-  "LastChanged_Achievements": "2023-07-11T10:04:15.0330838+00:00",
+  "LastChanged_Achievements": "2023-07-11T11:04:59.9359573+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:43.9043947+00:00",
-  "LastUpdate_Ratings": "2023-07-11T09:57:59.9765168+00:00",
-  "LastUpdate_Achievements": "2023-07-11T10:04:15.0355787+00:00"
+  "LastUpdate_Ratings": "2023-07-11T10:58:43.5351607+00:00",
+  "LastUpdate_Achievements": "2023-07-11T11:04:59.9381862+00:00"
 }

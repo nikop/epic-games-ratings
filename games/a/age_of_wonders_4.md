@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.61 (Ranked 360)  
+Rating: 4.62 (Ranked 346)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -25,6 +25,7 @@ Rating: 4.61 (Ranked 360)
 | Arch Mage | 2.00% | ~99 |
 | Bone Peddler | 2.00% | ~99 |
 | Digging for Treasure | 2.00% | ~99 |
+| Preparation Is Everything | 2.00% | ~99 |
 | Seat of Power | 2.00% | ~99 |
 | In a Liege of Your Own | 2.00% | ~99 |
 | Fiery Friend | 2.00% | ~99 |
@@ -37,7 +38,6 @@ Rating: 4.61 (Ranked 360)
 | Enchanted Archipelago | 1.00% | ~50 |
 | The Goddess of Nature | 1.00% | ~50 |
 | Eternal Lord | 1.00% | ~50 |
-| Preparation Is Everything | 1.00% | ~50 |
 | The Eternal Court | 1.00% | ~50 |
 | Duality | 1.00% | ~50 |
 | Crimson Caldera | 0.90% | ~45 |
@@ -46,7 +46,7 @@ Rating: 4.61 (Ranked 360)
 | One for All, All for One | 0.80% | ~40 |
 | Pruning for Progress | 0.60% | ~30 |
 | I've Got Everything I Need Right Here | 0.50% | ~25 |
-| Manufactured War | 0.40% | ~20 |
+| Manufactured War | 0.50% | ~25 |
 | Snap Out of It! | 0.30% | ~15 |
 | Betrayal Most Foul | 0.20% | ~10 |
 | I Want to Break Free | 0.10% | ~5 |
@@ -57,7 +57,7 @@ Rating: 4.61 (Ranked 360)
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,967 (Ranked 135)  
-Completed: 5 (0.10%) (Ranked 183)  
+Completed: 5 (0.10%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -163,3 +163,4 @@ Completed: 5 (0.10%) (Ranked 183)
 | 2023-06-26 | 4.59 | 0 | 0 |
 | 2023-07-02 | 4.60 | 0 | 0 |
 | 2023-07-04 | 4.61 | 0 | 0 |
+| 2023-07-11 | 4.62 | 0 | 0 |

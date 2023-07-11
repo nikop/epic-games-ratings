@@ -54,10 +54,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Musaeum | 34.00% | ~4,338 |
 | Drillmaster | 32.00% | ~4,083 |
 | Learn to Play 1 | 32.00% | ~4,083 |
+| Furious Family | 31.00% | ~3,955 |
 | Colossus | 31.00% | ~3,955 |
 | Legendary Cities | 30.00% | ~3,828 |
 | Artisans | 30.00% | ~3,828 |
-| Furious Family | 30.00% | ~3,828 |
 | Acropolis | 30.00% | ~3,828 |
 | Wise | 29.00% | ~3,700 |
 | Just Difficulty | 29.00% | ~3,700 |
@@ -258,6 +258,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Alexander the Great | 0.20% | ~26 |
 | Alexander the who? | 0.20% | ~26 |
 | Hagia Sophia in Byzantion | 0.20% | ~26 |
+| Liberator | 0.20% | ~26 |
 | Restorer | 0.20% | ~26 |
 | Via Recta Souk in Damascus | 0.20% | ~26 |
 | Oracle in Delphi | 0.20% | ~26 |
@@ -271,7 +272,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Great Raging Horde | 0.10% | ~13 |
 | United Against The Horde | 0.10% | ~13 |
 | Epic Victory (Carthage 4) | 0.10% | ~13 |
-| Liberator | 0.10% | ~13 |
 | Council of Madness | 0.10% | ~13 |
 | Ethnic Diversity | 0.10% | ~13 |
 | That Also Works | 0.10% | ~13 |

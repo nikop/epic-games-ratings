@@ -6,22 +6,22 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~39,188 |
-| Worth it | 63.00% | ~32,063 |
-| Eagle Eye | 55.00% | ~27,992 |
-| Corpseman I | 40.00% | ~20,358 |
-| Blast fishing | 37.00% | ~18,831 |
-| Not alone | 32.00% | ~16,286 |
-| Headhunter I | 26.00% | ~13,232 |
-| Manual Labour I | 25.00% | ~12,724 |
-| Developers, Developers, Developers | 24.00% | ~12,215 |
-| Basic Training | 24.00% | ~12,215 |
-| Furchtlos und Treu | 13.00% | ~6,616 |
-| Gott Mit Uns | 12.00% | ~6,107 |
-| This We'll Defend! | 9.00% | ~4,580 |
-| Anker wirf! | 9.00% | ~4,580 |
-| Providentiea Memor | 9.00% | ~4,580 |
-| For King and Country | 9.00% | ~4,580 |
+| Setting an example | 77.00% | ~39,195 |
+| Worth it | 63.00% | ~32,068 |
+| Eagle Eye | 55.00% | ~27,996 |
+| Corpseman I | 40.00% | ~20,361 |
+| Blast fishing | 37.00% | ~18,834 |
+| Not alone | 32.00% | ~16,289 |
+| Headhunter I | 26.00% | ~13,235 |
+| Manual Labour I | 25.00% | ~12,726 |
+| Developers, Developers, Developers | 24.00% | ~12,216 |
+| Basic Training | 24.00% | ~12,216 |
+| Furchtlos und Treu | 13.00% | ~6,617 |
+| Gott Mit Uns | 12.00% | ~6,108 |
+| This We'll Defend! | 9.00% | ~4,581 |
+| Anker wirf! | 9.00% | ~4,581 |
+| Providentiea Memor | 9.00% | ~4,581 |
+| For King and Country | 9.00% | ~4,581 |
 | Battle hardened | 8.00% | ~4,072 |
 | Semper Fidelis! | 7.00% | ~3,563 |
 | Honneur et Patrie | 7.00% | ~3,563 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~51 |
 | Blood Brother | 0.10% | ~51 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,894 (Ranked 85)  
+Progressed: 50,902 (Ranked 85)  
 Completed: 4 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 4 (0.01%) (Ranked 223)
 | 2023-07-08 | 50,598 | 4 |
 | 2023-07-09 | 50,728 | 4 |
 | 2023-07-10 | 50,855 | 4 |
-| 2023-07-11 | 50,894 | 4 |
+| 2023-07-11 | 50,902 | 4 |
 ## Awards
 Max (Highly Recommended): 95  (Ranked 337)  
 Sum: 757 (Ranked 262)  

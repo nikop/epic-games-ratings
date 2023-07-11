@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 162,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -5100,9 +5100,9 @@
       "ID": "HARVEST_CROP_5",
       "SetID": "5349c2e",
       "Name": "Having A Field Day",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3250
+      "UsersEstimate": 3295
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -5316,8 +5316,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-07-10T09:00:28.1401302+00:00",
-  "LastChanged_Achievements": "2023-07-11T10:00:24.0874842+00:00",
+  "LastChanged_Achievements": "2023-07-11T11:02:09.0070442+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:13.9493644+00:00",
-  "LastUpdate_Ratings": "2023-07-11T09:59:35.5775887+00:00",
-  "LastUpdate_Achievements": "2023-07-11T10:00:24.0875406+00:00"
+  "LastUpdate_Ratings": "2023-07-11T11:00:39.6535967+00:00",
+  "LastUpdate_Achievements": "2023-07-11T11:02:09.0070889+00:00"
 }

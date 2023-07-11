@@ -1,24 +1,24 @@
 # Supraland
 [Store](https://store.epicgames.com/en-US/p/supraland)  
 [View Rawdata](../../db/s/supraland.json)  
-Rating: 4.61 (Ranked 360)  
+Rating: 4.61 (Ranked 362)  
 Number of Ratings: 25,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~708,920 |
-| The Blues | 85.00% | ~608,669 |
-| Fast | 66.00% | ~472,613 |
+| Out of bed | 99.00% | ~708,921 |
+| The Blues | 85.00% | ~608,670 |
+| Fast | 66.00% | ~472,614 |
 | Healthbar | 55.00% | ~393,845 |
 | Force Cube | 53.00% | ~379,523 |
 | Double Jump | 48.00% | ~343,719 |
-| Regeneration | 47.00% | ~336,558 |
+| Regeneration | 47.00% | ~336,559 |
 | Climb the hill | 42.00% | ~300,754 |
 | Triple Jump | 42.00% | ~300,754 |
 | Through the fire pipe | 38.00% | ~272,111 |
 | MacGuffin | 38.00% | ~272,111 |
-| Just once | 36.00% | ~257,789 |
-| Armor | 30.00% | ~214,824 |
+| Just once | 36.00% | ~257,790 |
+| Armor | 30.00% | ~214,825 |
 | True holy spirit | 27.00% | ~193,342 |
 | That's how electronics work obviously | 26.00% | ~186,181 |
 | Force Cube Catapult | 25.00% | ~179,020 |
@@ -53,8 +53,8 @@ Number of Ratings: 25,175  (23.09.2022)
 | Moon Door | 9.00% | ~64,447 |
 | Momentum | 9.00% | ~64,447 |
 | Panic Lights | 9.00% | ~64,447 |
-| Through the tiny pipe | 8.00% | ~57,286 |
-| Win! | 8.00% | ~57,286 |
+| Through the tiny pipe | 8.00% | ~57,287 |
+| Win! | 8.00% | ~57,287 |
 | The real real teleported man | 7.00% | ~50,126 |
 | Well deserved | 6.00% | ~42,965 |
 | Happiness | 3.00% | ~21,482 |
@@ -105,8 +105,8 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~716 |
 | DLC: Top of the world | 0.10% | ~716 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 716,081 (Ranked 16)  
-Completed: 707 (0.10%) (Ranked 183)  
+Progressed: 716,082 (Ranked 16)  
+Completed: 707 (0.10%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -187,7 +187,7 @@ Completed: 707 (0.10%) (Ranked 183)
 | 2023-07-08 | 715,684 | 706 |
 | 2023-07-09 | 715,871 | 707 |
 | 2023-07-10 | 716,038 | 707 |
-| 2023-07-11 | 716,081 | 707 |
+| 2023-07-11 | 716,082 | 707 |
 ## Awards
 Max (Challenging Puzzles): 7,641  (Ranked 43)  
 Sum: 9,952 (Ranked 81)  

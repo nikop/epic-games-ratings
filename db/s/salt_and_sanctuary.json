@@ -2,7 +2,7 @@
   "ID": "79d9bff700bb46a790b21e8c73b34899",
   "Name": "Salt and Sanctuary",
   "ProductSlug": "salt-and-sanctuary",
-  "Ranking_Rating": 360,
+  "Ranking_Rating": 362,
   "Ranking_Popularity": 239,
   "Ranking_PopularitySum": 201,
   "Ranking_EOS_Progress": 28,
@@ -2355,9 +2355,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 527286,
+  "EOS_Progressed": 527288,
   "EOS_Completed": 1476,
-  "EOS_NewPlayers": 698,
+  "EOS_NewPlayers": 699,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -11015,6 +11015,11 @@
       "Time": "2023-07-11T10:03:24.137223+00:00",
       "NumProgressed": 527286,
       "NumCompleted": 1476
+    },
+    {
+      "Time": "2023-07-11T11:03:58.6737417+00:00",
+      "NumProgressed": 527288,
+      "NumCompleted": 1476
     }
   ],
   "TotalAchievements": 37,
@@ -11082,7 +11087,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 437647
+      "UsersEstimate": 437649
     },
     {
       "ID": "HONED",
@@ -11090,7 +11095,7 @@
       "Name": "Honed",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 21091
+      "UsersEstimate": 21092
     },
     {
       "ID": "HOUSE_OF_SPLENDOR",
@@ -11098,7 +11103,7 @@
       "Name": "The House of Splendor",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 21091
+      "UsersEstimate": 21092
     },
     {
       "ID": "KEEPERS_OF_FIRE",
@@ -11138,7 +11143,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 210914
+      "UsersEstimate": 210915
     },
     {
       "ID": "THE_CASTLE",
@@ -11146,7 +11151,7 @@
       "Name": "The Castle",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 58001
+      "UsersEstimate": 58002
     },
     {
       "ID": "THE_CAVE",
@@ -11170,7 +11175,7 @@
       "Name": "The Crypt",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 21091
+      "UsersEstimate": 21092
     },
     {
       "ID": "THE_DOME",
@@ -11202,7 +11207,7 @@
       "Name": "The Iron Ones",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 94911
+      "UsersEstimate": 94912
     },
     {
       "ID": "THE_KEEP",
@@ -11234,7 +11239,7 @@
       "Name": "The Palace",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 21091
+      "UsersEstimate": 21092
     },
     {
       "ID": "THE_PITCHWOODS",
@@ -11282,7 +11287,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 337463
+      "UsersEstimate": 337464
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -11321,15 +11326,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 527286,
+      "Progressed": 527288,
       "Completed": 1476
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-07-05T17:00:10.6635387+00:00",
-  "LastChanged_Achievements": "2023-07-11T10:03:24.1372225+00:00",
+  "LastChanged_Achievements": "2023-07-11T11:03:58.6737412+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:35.4713999+00:00",
-  "LastUpdate_Ratings": "2023-07-11T09:59:10.3922514+00:00",
-  "LastUpdate_Achievements": "2023-07-11T10:03:24.1373029+00:00"
+  "LastUpdate_Ratings": "2023-07-11T11:00:09.5085888+00:00",
+  "LastUpdate_Achievements": "2023-07-11T11:03:58.6738014+00:00"
 }

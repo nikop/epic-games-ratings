@@ -2,11 +2,11 @@
   "ID": "ae373893881044d2bf26d6f8363a120e",
   "Name": "Supraland",
   "ProductSlug": "supraland",
-  "Ranking_Rating": 360,
+  "Ranking_Rating": 362,
   "Ranking_Popularity": 43,
   "Ranking_PopularitySum": 81,
   "Ranking_EOS_Progress": 16,
-  "Ranking_EOS_Completed": 183,
+  "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 47,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
@@ -2644,9 +2644,9 @@
       "Count": 188
     }
   ],
-  "EOS_Progressed": 716081,
+  "EOS_Progressed": 716082,
   "EOS_Completed": 707,
-  "EOS_NewPlayers": 1210,
+  "EOS_NewPlayers": 1202,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11389,6 +11389,11 @@
       "Time": "2023-07-11T10:04:33.633629+00:00",
       "NumProgressed": 716081,
       "NumCompleted": 707
+    },
+    {
+      "Time": "2023-07-11T11:05:21.3021252+00:00",
+      "NumProgressed": 716082,
+      "NumCompleted": 707
     }
   ],
   "TotalAchievements": 98,
@@ -11432,7 +11437,7 @@
       "Name": "Armor",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 214824
+      "UsersEstimate": 214825
     },
     {
       "ID": "BallShooter",
@@ -11768,7 +11773,7 @@
       "Name": "Regeneration",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 336558
+      "UsersEstimate": 336559
     },
     {
       "ID": "HelpedAStar",
@@ -11840,7 +11845,7 @@
       "Name": "Just once",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 257789
+      "UsersEstimate": 257790
     },
     {
       "ID": "MacGuffin",
@@ -11912,7 +11917,7 @@
       "Name": "Out of bed",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 708920
+      "UsersEstimate": 708921
     },
     {
       "ID": "PanicLights",
@@ -12032,7 +12037,7 @@
       "Name": "Fast",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 472613
+      "UsersEstimate": 472614
     },
     {
       "ID": "Strong",
@@ -12072,7 +12077,7 @@
       "Name": "The Blues",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 608669
+      "UsersEstimate": 608670
     },
     {
       "ID": "ThroughPipe",
@@ -12080,7 +12085,7 @@
       "Name": "Through the tiny pipe",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 57286
+      "UsersEstimate": 57287
     },
     {
       "ID": "Thrown",
@@ -12136,7 +12141,7 @@
       "Name": "Win!",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 57286
+      "UsersEstimate": 57287
     },
     {
       "ID": "WelcometoOrangeburg",
@@ -12183,15 +12188,15 @@
     {
       "ID": "3m49pn8",
       "IsBase": true,
-      "Progressed": 716081,
+      "Progressed": 716082,
       "Completed": 707
     }
   ],
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1459144+00:00",
   "LastChanged": "2023-07-08T23:58:40.0180366+00:00",
-  "LastChanged_Achievements": "2023-07-11T10:04:33.6336278+00:00",
+  "LastChanged_Achievements": "2023-07-11T11:05:21.3021247+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:49.1211952+00:00",
-  "LastUpdate_Ratings": "2023-07-11T09:58:03.0937128+00:00",
-  "LastUpdate_Achievements": "2023-07-11T10:04:33.633799+00:00"
+  "LastUpdate_Ratings": "2023-07-11T10:58:46.6524461+00:00",
+  "LastUpdate_Achievements": "2023-07-11T11:05:21.3022595+00:00"
 }

@@ -6,25 +6,25 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,504 |
-| The Mad Wizard | 11.00% | ~23,103 |
-| The Ring of Regeneration | 7.00% | ~14,702 |
-| Are Ya Chicken? | 7.00% | ~14,702 |
-| Were-verpowered | 6.00% | ~12,602 |
-| Seeking Allies | 5.00% | ~10,501 |
-| Mad Cow Disease | 5.00% | ~10,501 |
-| Friendly Imps | 5.00% | ~10,501 |
-| A Persistent Buzzing | 4.00% | ~8,401 |
-| Pure Energy | 4.00% | ~8,401 |
+| The Cursed Farmer | 15.00% | ~31,506 |
+| The Mad Wizard | 11.00% | ~23,105 |
+| The Ring of Regeneration | 7.00% | ~14,703 |
+| Are Ya Chicken? | 7.00% | ~14,703 |
+| Were-verpowered | 6.00% | ~12,603 |
+| Seeking Allies | 5.00% | ~10,502 |
+| Mad Cow Disease | 5.00% | ~10,502 |
+| Friendly Imps | 5.00% | ~10,502 |
+| A Persistent Buzzing | 4.00% | ~8,402 |
+| Pure Energy | 4.00% | ~8,402 |
 | Beast Mode | 3.00% | ~6,301 |
 | Terror in the Dark | 3.00% | ~6,301 |
+| A Mysterious Summons | 3.00% | ~6,301 |
 | Unearthed Evil | 3.00% | ~6,301 |
 | The Crumbling Temple | 3.00% | ~6,301 |
 | Exploring Port Nyanzaru | 3.00% | ~6,301 |
 | The Contagious Curse | 3.00% | ~6,301 |
 | Escort to Waterdeep | 3.00% | ~6,301 |
 | Low Initiative | 2.00% | ~4,201 |
-| A Mysterious Summons | 2.00% | ~4,201 |
 | Building Trust | 2.00% | ~4,201 |
 | March of the Undead | 2.00% | ~4,201 |
 | No Time To Rest | 2.00% | ~4,201 |
@@ -62,7 +62,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Treasure Hunters | 0.80% | ~1,680 |
 | Nimble Escape | 0.80% | ~1,680 |
 | The Darkness Runs Deeper | 0.80% | ~1,680 |
-| The Giant's Bane Tavern | 0.80% | ~1,410 |
+| The Giant's Bane Tavern | 0.80% | ~1,411 |
 | Rude Welcome | 0.80% | ~1,680 |
 | The Haunted Jungle | 0.80% | ~1,680 |
 | Tomb of the Nine Gods | 0.70% | ~1,470 |
@@ -182,6 +182,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | No One Can Hear You Scream | 0.20% | ~353 |
 | No Good at All | 0.20% | ~420 |
 | Fall From Grace | 0.20% | ~420 |
+| Underground Railroad | 0.20% | ~420 |
 | Snakes on our Plane | 0.20% | ~353 |
 | The Soulmonger Calls | 0.20% | ~420 |
 | Poor Fortune | 0.20% | ~420 |
@@ -287,7 +288,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Anchors Aweigh | 0.10% | ~176 |
 | Welcome to the Rock | 0.10% | ~176 |
 | Welcome to the Band | 0.10% | ~176 |
-| Underground Railroad | 0.10% | ~210 |
 | Acererak's Puzzle | 0.10% | ~176 |
 | Drop of Time | 0.10% | ~176 |
 | Mongrelfolk Incursion | 0.10% | ~176 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,029 (Ranked 52)  
+Progressed: 210,043 (Ranked 52)  
 Completed: 2,045 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -592,7 +592,7 @@ Completed: 2,045 (0.97%) (Ranked 102)
 | 2023-07-08 | 208,782 | 2,041 |
 | 2023-07-09 | 209,384 | 2,043 |
 | 2023-07-10 | 209,861 | 2,045 |
-| 2023-07-11 | 210,029 | 2,045 |
+| 2023-07-11 | 210,043 | 2,045 |
 ## Awards
 Max (Diverse Characters): 5,025  (Ranked 65)  
 Sum: 30,477 (Ranked 38)  
