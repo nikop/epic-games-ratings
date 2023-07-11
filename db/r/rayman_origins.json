@@ -2,13 +2,13 @@
   "ID": "66e9c042d8cd42b7956f5e195e0442de",
   "Name": "Rayman Origins",
   "ProductSlug": "rayman-origins",
-  "Ranking_Rating": 57,
+  "Ranking_Rating": 49,
   "Ranking_Popularity": 476,
   "Ranking_PopularitySum": 481,
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 318,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-02-04T16:00:00+00:00",
     "PcReleaseDate": "2012-03-22T16:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.83,
+  "Rating": 4.84,
   "NumberOfRatings": 34,
   "RatingHistory": [
     {
@@ -244,6 +244,12 @@
       "Rating": 4.83,
       "NumberOfAwards": 24,
       "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2023-07-11T14:59:51.0214607+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 24,
+      "NumberOfAwardsMax": 24
     }
   ],
   "ReviewsDisabled": false,
@@ -269,8 +275,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:19.1614924+00:00",
-  "LastChanged": "2023-06-30T16:00:21.4250409+00:00",
+  "LastChanged": "2023-07-11T14:59:51.0214605+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:28.2573763+00:00",
-  "LastUpdate_Ratings": "2023-07-11T14:01:34.8442795+00:00",
-  "LastUpdate_Achievements": "2023-07-11T14:05:48.8443455+00:00"
+  "LastUpdate_Ratings": "2023-07-11T14:59:51.0214612+00:00",
+  "LastUpdate_Achievements": "2023-07-11T15:03:51.9250463+00:00"
 }

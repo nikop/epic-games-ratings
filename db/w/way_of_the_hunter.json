@@ -2,20 +2,20 @@
   "ID": "bdbfb29cbd004978acad9ca4eaf9ec82",
   "Name": "Way of the Hunter",
   "ProductSlug": "way-of-the-hunter",
-  "Ranking_Rating": 720,
+  "Ranking_Rating": 711,
   "Ranking_Popularity": 420,
   "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 318,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-08-22T17:00:00+00:00",
     "PcReleaseDate": "2022-08-16T17:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.37,
+  "Rating": 4.38,
   "NumberOfRatings": 190,
   "RatingHistory": [
     {
@@ -728,6 +728,12 @@
       "Rating": 4.37,
       "NumberOfAwards": 264,
       "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2023-07-11T14:59:29.5230748+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 264,
+      "NumberOfAwardsMax": 40
     }
   ],
   "ReviewsDisabled": false,
@@ -820,8 +826,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-22T17:32:55.4881061+00:00",
   "FirstSeenRating": "2022-08-25T19:31:36.42786+00:00",
-  "LastChanged": "2023-07-10T14:59:53.7447915+00:00",
+  "LastChanged": "2023-07-11T14:59:29.5230747+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:56.7709868+00:00",
-  "LastUpdate_Ratings": "2023-07-11T14:01:12.5373936+00:00",
-  "LastUpdate_Achievements": "2023-07-11T14:06:44.1010515+00:00"
+  "LastUpdate_Ratings": "2023-07-11T14:59:29.5230752+00:00",
+  "LastUpdate_Achievements": "2023-07-11T15:04:58.2653161+00:00"
 }

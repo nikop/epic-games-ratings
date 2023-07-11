@@ -45,6 +45,7 @@ Number of Ratings: 45  (23.09.2022)
 | Some Say I'm Too Flashy | 3.00% | ~39 |
 | Into Mulch | 3.00% | ~39 |
 | Astrology | 3.00% | ~39 |
+| Tempest | 3.00% | ~39 |
 | Lochias's Hunger | 3.00% | ~39 |
 | The Power of Friendship | 2.00% | ~26 |
 | Empty the Caves | 2.00% | ~26 |
@@ -54,7 +55,6 @@ Number of Ratings: 45  (23.09.2022)
 | Fight Like a Bird | 2.00% | ~26 |
 | Solid as the Hills | 2.00% | ~26 |
 | Symbiosis | 2.00% | ~26 |
-| Tempest | 2.00% | ~26 |
 | A Lowly Crust of Beef | 1.00% | ~13 |
 | I'm Not Smiling | 1.00% | ~13 |
 | Thwack! | 1.00% | ~13 |

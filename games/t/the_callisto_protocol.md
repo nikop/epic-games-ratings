@@ -5,7 +5,7 @@ Rating: 4.19 (Ranked 845)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get a Grip | 3.00% | ~470 |
+| Get a Grip | 3.00% | ~471 |
 | You Need a Gun | 2.00% | ~314 |
 | Flesh Wound | 2.00% | ~314 |
 | Two Heads Are Better Than One | 2.00% | ~314 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 845)
 | I am the Danger | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,682 (Ranked 108)  
+Progressed: 15,684 (Ranked 108)  
 Completed: 66 (0.42%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,6 +134,7 @@ Completed: 66 (0.42%) (Ranked 133)
 | 2023-07-08 | 15,667 | 64 |
 | 2023-07-09 | 15,676 | 66 |
 | 2023-07-10 | 15,682 | 66 |
+| 2023-07-11 | 15,684 | 66 |
 ## Awards
 Max (Amazing Storytelling): 66  (Ranked 376)  
 Sum: 380 (Ranked 317)  

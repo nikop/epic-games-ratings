@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -214,9 +214,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22984,
+  "EOS_Progressed": 22985,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -2079,6 +2079,11 @@
       "Time": "2023-07-11T14:08:05.9024348+00:00",
       "NumProgressed": 22984,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-11T15:06:20.744521+00:00",
+      "NumProgressed": 22985,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 32,
@@ -2114,7 +2119,7 @@
       "Name": "Luglox Genocide",
       "Percentage": 43,
       "XP": 60,
-      "UsersEstimate": 9883
+      "UsersEstimate": 9884
     },
     {
       "ID": "ACH_APPLEBEES_BILL",
@@ -2130,7 +2135,7 @@
       "Name": "Creature Feature",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 6895
+      "UsersEstimate": 6896
     },
     {
       "ID": "ACH_GET_GUS",
@@ -2194,7 +2199,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 19077
+      "UsersEstimate": 19078
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -2242,7 +2247,7 @@
       "Name": "Hardest Battle In The Game",
       "Percentage": 22,
       "XP": 45,
-      "UsersEstimate": 5056
+      "UsersEstimate": 5057
     },
     {
       "ID": "ACH_KILL_KRUBIS",
@@ -2274,7 +2279,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 16778
+      "UsersEstimate": 16779
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -2306,7 +2311,7 @@
       "Name": "Seeing All The Sights",
       "Percentage": 16,
       "XP": 45,
-      "UsersEstimate": 3677
+      "UsersEstimate": 3678
     },
     {
       "ID": "ACH_NIPULON_JOKE",
@@ -2338,29 +2343,29 @@
       "Name": "Series Wrap on Suit-O",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 5056
+      "UsersEstimate": 5057
     }
   ],
   "AchievementSets": [
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 22984,
+      "Progressed": 22985,
       "Completed": 8
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 277,
-      "Completed": 277
+      "Progressed": 278,
+      "Completed": 278
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-06-17T22:58:08.3064018+00:00",
-  "LastChanged_Achievements": "2023-07-11T14:08:05.9024344+00:00",
+  "LastChanged_Achievements": "2023-07-11T15:06:20.7445204+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:34.9037764+00:00",
-  "LastUpdate_Ratings": "2023-07-11T14:00:06.7660949+00:00",
-  "LastUpdate_Achievements": "2023-07-11T14:08:05.9024717+00:00"
+  "LastUpdate_Ratings": "2023-07-11T14:58:25.3660665+00:00",
+  "LastUpdate_Achievements": "2023-07-11T15:06:20.7445591+00:00"
 }

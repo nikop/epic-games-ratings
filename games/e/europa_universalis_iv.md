@@ -6,22 +6,22 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,154 |
-| That's a Grand Army | 8.00% | ~5,471 |
-| That is mine! | 8.00% | ~5,471 |
-| Victorious! | 8.00% | ~5,471 |
-| Brothers in Arms | 6.00% | ~4,103 |
-| That's a Grand Navy | 6.00% | ~4,103 |
-| Seriously?! | 6.00% | ~4,103 |
-| For the Glory | 5.00% | ~3,419 |
-| Cold War | 4.00% | ~2,735 |
-| True Catholic | 4.00% | ~2,735 |
-| Defender of the Faith | 3.00% | ~2,051 |
-| It's all about luck | 3.00% | ~2,051 |
-| It's all about the money | 3.00% | ~2,051 |
-| Respected | 3.00% | ~2,051 |
-| The Princess is in this Castle | 3.00% | ~2,051 |
-| Truly Divine Ruler | 3.00% | ~2,051 |
+| Until death do us apart | 9.00% | ~6,156 |
+| That's a Grand Army | 8.00% | ~5,472 |
+| That is mine! | 8.00% | ~5,472 |
+| Victorious! | 8.00% | ~5,472 |
+| Brothers in Arms | 6.00% | ~4,104 |
+| That's a Grand Navy | 6.00% | ~4,104 |
+| Seriously?! | 6.00% | ~4,104 |
+| For the Glory | 5.00% | ~3,420 |
+| Cold War | 4.00% | ~2,736 |
+| True Catholic | 4.00% | ~2,736 |
+| Defender of the Faith | 3.00% | ~2,052 |
+| It's all about luck | 3.00% | ~2,052 |
+| It's all about the money | 3.00% | ~2,052 |
+| Respected | 3.00% | ~2,052 |
+| The Princess is in this Castle | 3.00% | ~2,052 |
+| Truly Divine Ruler | 3.00% | ~2,052 |
 | Agressive Expander | 2.00% | ~1,368 |
 | Blockader | 2.00% | ~1,368 |
 | Combined Arms | 2.00% | ~1,368 |
@@ -40,8 +40,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Golden Empire | 1.00% | ~684 |
 | The Five Colonies | 1.00% | ~684 |
 | This navy can take it all | 1.00% | ~684 |
-| Isn't this the way to India? | 0.90% | ~615 |
-| Market Control | 0.90% | ~615 |
+| Isn't this the way to India? | 0.90% | ~616 |
+| Market Control | 0.90% | ~616 |
 | Down Under | 0.80% | ~547 |
 | Trustworthy | 0.80% | ~547 |
 | Electable! | 0.70% | ~479 |
@@ -70,6 +70,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | One Night in Paris | 0.40% | ~274 |
 | Tear Down This Wall | 0.40% | ~274 |
 | The Continuation of Diplomacy | 0.40% | ~274 |
+| Traditional Player | 0.40% | ~274 |
 | Wonderful | 0.40% | ~274 |
 | A Decent Reserve | 0.30% | ~205 |
 | A Pile of Gold | 0.30% | ~205 |
@@ -79,7 +80,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Not so sad a state... | 0.30% | ~205 |
 | The Chrysanthemum Throne | 0.30% | ~205 |
 | Three Trivial Tributary Tribes | 0.30% | ~205 |
-| Traditional Player | 0.30% | ~205 |
 | Vasa or Wettin? | 0.30% | ~205 |
 | World Discoverer | 0.30% | ~205 |
 | A Protected Market | 0.20% | ~137 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,382 (Ranked 74)  
+Progressed: 68,405 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -443,7 +443,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-08 | 67,273 | 0 |
 | 2023-07-09 | 67,782 | 0 |
 | 2023-07-10 | 68,178 | 0 |
-| 2023-07-11 | 68,382 | 0 |
+| 2023-07-11 | 68,405 | 0 |
 ## Awards
 Max (Educational): 5,533  (Ranked 60)  
 Sum: 45,620 (Ranked 27)  

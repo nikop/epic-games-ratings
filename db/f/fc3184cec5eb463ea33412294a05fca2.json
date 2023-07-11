@@ -295,9 +295,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "8d3ci0",
       "Name": "Three is company",
-      "Percentage": 46,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -319,9 +319,9 @@
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "8d3ci0",
       "Name": "Ducks adrift",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -335,17 +335,17 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "8d3ci0",
       "Name": "High-rise",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
       "SetID": "8d3ci0",
       "Name": "Putting challenge",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_15",
@@ -359,17 +359,17 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "8d3ci0",
       "Name": "Family pond",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "8d3ci0",
       "Name": "Make a wish",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -383,17 +383,17 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "8d3ci0",
       "Name": "Way to the shore",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "8d3ci0",
       "Name": "Private pool",
-      "Percentage": 51,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -430,8 +430,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-11T14:06:43.4826253+00:00",
+  "LastChanged_Achievements": "2023-07-11T15:04:57.5474485+00:00",
   "LastUpdate_AppInfo": "2023-07-08T11:56:59.3518994+00:00",
-  "LastUpdate_Ratings": "2023-07-11T13:58:54.233047+00:00",
-  "LastUpdate_Achievements": "2023-07-11T14:06:43.4826395+00:00"
+  "LastUpdate_Ratings": "2023-07-11T14:57:10.0683633+00:00",
+  "LastUpdate_Achievements": "2023-07-11T15:04:57.5474613+00:00"
 }

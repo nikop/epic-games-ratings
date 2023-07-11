@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -4184,17 +4184,17 @@
       "ID": "Ach002",
       "SetID": "12n4k20",
       "Name": "Cream of the Crop",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 31
     },
     {
       "ID": "Ach003",
       "SetID": "12n4k20",
       "Name": "This will cost you big time",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 27
     },
     {
       "ID": "Ach004",
@@ -4432,9 +4432,9 @@
       "ID": "Ach033",
       "SetID": "12n4k20",
       "Name": "Uh, they were broken when I got here",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 27
     },
     {
       "ID": "Ach034",
@@ -4759,8 +4759,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-11T14:03:11.0258726+00:00",
+  "LastChanged_Achievements": "2023-07-11T15:01:29.0804357+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:24.9104218+00:00",
-  "LastUpdate_Ratings": "2023-07-11T14:00:45.8542947+00:00",
-  "LastUpdate_Achievements": "2023-07-11T14:03:11.025968+00:00"
+  "LastUpdate_Ratings": "2023-07-11T14:59:02.6093868+00:00",
+  "LastUpdate_Achievements": "2023-07-11T15:01:29.080544+00:00"
 }

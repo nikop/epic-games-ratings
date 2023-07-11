@@ -7,24 +7,24 @@ Number of Ratings: 836  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 71.00% | ~5,167 |
-| Leader | 61.00% | ~4,439 |
+| Leader | 61.00% | ~4,440 |
 | Explorer | 53.00% | ~3,857 |
 | Healer | 53.00% | ~3,857 |
 | Aspiring Inventor | 44.00% | ~3,202 |
 | Adventurer | 41.00% | ~2,984 |
-| Famous Healer | 38.00% | ~2,765 |
+| Famous Healer | 38.00% | ~2,766 |
 | Local Leader | 35.00% | ~2,547 |
-| Famous Explorer | 34.00% | ~2,474 |
-| New Opportunities | 34.00% | ~2,474 |
-| Energized | 33.00% | ~2,401 |
-| The Long Haul | 33.00% | ~2,401 |
+| Famous Explorer | 34.00% | ~2,475 |
+| New Opportunities | 34.00% | ~2,475 |
+| Energized | 33.00% | ~2,402 |
+| The Long Haul | 33.00% | ~2,402 |
 | Survivor | 32.00% | ~2,329 |
 | The Great Healer | 31.00% | ~2,256 |
 | Cleaner | 28.00% | ~2,038 |
 | Catastrofan | 28.00% | ~2,038 |
 | Legendary Explorer | 27.00% | ~1,965 |
 | Finders, Keepers | 26.00% | ~1,892 |
-| Top Notch | 25.00% | ~1,819 |
+| Top Notch | 25.00% | ~1,820 |
 | Ice Lakes | 23.00% | ~1,674 |
 | Mentor | 23.00% | ~1,674 |
 | Great Leader | 22.00% | ~1,601 |
@@ -59,14 +59,14 @@ Number of Ratings: 836  (23.09.2022)
 | Legendary Adventurer | 1.00% | ~73 |
 | A Closer Look | 1.00% | ~73 |
 | True Survivor | 1.00% | ~73 |
-| Slimy yet Satisfying | 0.90% | ~65 |
-| Feng Shui | 0.90% | ~65 |
+| Slimy yet Satisfying | 0.90% | ~66 |
+| Feng Shui | 0.90% | ~66 |
 | Finnished | 0.40% | ~29 |
 | Fun and Games | 0.20% | ~15 |
 | Choo-choo! | 0.20% | ~15 |
 | Customized calamities | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,277 (Ranked 123)  
+Progressed: 7,278 (Ranked 123)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-08 | 7,205 | 0 |
 | 2023-07-09 | 7,240 | 0 |
 | 2023-07-10 | 7,268 | 0 |
-| 2023-07-11 | 7,277 | 0 |
+| 2023-07-11 | 7,278 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 330)  
 Sum: 677 (Ranked 272)  

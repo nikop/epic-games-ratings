@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 59,
+  "Ranking_EOS_NewPlayers": 60,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
@@ -443,9 +443,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 78226,
+  "EOS_Progressed": 78230,
   "EOS_Completed": 371,
-  "EOS_NewPlayers": 816,
+  "EOS_NewPlayers": 814,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -9128,6 +9128,11 @@
       "Time": "2023-07-11T14:06:08.9419877+00:00",
       "NumProgressed": 78226,
       "NumCompleted": 371
+    },
+    {
+      "Time": "2023-07-11T15:04:22.4641288+00:00",
+      "NumProgressed": 78230,
+      "NumCompleted": 371
     }
   ],
   "TotalAchievements": 10,
@@ -9139,7 +9144,7 @@
       "Name": "Baby Mozart",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 3911
+      "UsersEstimate": 3912
     },
     {
       "ID": "Drawings01",
@@ -9203,7 +9208,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 27379
+      "UsersEstimate": 27380
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -9218,15 +9223,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 78226,
+      "Progressed": 78230,
       "Completed": 371
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-03-31T05:57:32.2303432+00:00",
-  "LastChanged_Achievements": "2023-07-11T14:06:08.9419872+00:00",
+  "LastChanged_Achievements": "2023-07-11T15:04:22.4641279+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:58.7470048+00:00",
-  "LastUpdate_Ratings": "2023-07-11T14:02:48.0173493+00:00",
-  "LastUpdate_Achievements": "2023-07-11T14:06:08.9420419+00:00"
+  "LastUpdate_Ratings": "2023-07-11T15:01:06.7812396+00:00",
+  "LastUpdate_Achievements": "2023-07-11T15:04:22.4642011+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -4245,9 +4245,9 @@
       "ID": "fourleafclover",
       "SetID": "3nl4bcg",
       "Name": "Four Leaf Clover",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 145
     },
     {
       "ID": "frostfireliberator",
@@ -4662,8 +4662,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-07-11T02:15:28.7878959+00:00",
-  "LastChanged_Achievements": "2023-07-11T14:08:50.6724459+00:00",
+  "LastChanged_Achievements": "2023-07-11T15:07:06.3072572+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:35.1051404+00:00",
-  "LastUpdate_Ratings": "2023-07-11T14:00:06.4488293+00:00",
-  "LastUpdate_Achievements": "2023-07-11T14:08:50.6725499+00:00"
+  "LastUpdate_Ratings": "2023-07-11T14:58:24.9194999+00:00",
+  "LastUpdate_Achievements": "2023-07-11T15:07:06.3073625+00:00"
 }
