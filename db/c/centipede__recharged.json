@@ -296,9 +296,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15360,
+  "EOS_Progressed": 15361,
   "EOS_Completed": 96,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -6636,6 +6636,11 @@
       "Time": "2023-07-11T09:04:00.325694+00:00",
       "NumProgressed": 15360,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2023-07-11T10:03:25.2382221+00:00",
+      "NumProgressed": 15361,
+      "NumCompleted": 96
     }
   ],
   "TotalAchievements": 16,
@@ -6751,7 +6756,7 @@
       "Name": "Sole Survivor",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 5683
+      "UsersEstimate": 5684
     },
     {
       "ID": "Still_Burning",
@@ -6774,15 +6779,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 15360,
+      "Progressed": 15361,
       "Completed": 96
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-05-26T21:58:51.5297179+00:00",
-  "LastChanged_Achievements": "2023-07-11T09:04:00.3256934+00:00",
+  "LastChanged_Achievements": "2023-07-11T10:03:25.2382215+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:05.1679058+00:00",
-  "LastUpdate_Ratings": "2023-07-11T08:59:45.385271+00:00",
-  "LastUpdate_Achievements": "2023-07-11T09:04:00.3257438+00:00"
+  "LastUpdate_Ratings": "2023-07-11T09:58:48.8779534+00:00",
+  "LastUpdate_Achievements": "2023-07-11T10:03:25.2382717+00:00"
 }

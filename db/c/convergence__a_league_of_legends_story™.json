@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 750,
+  "EOS_Progressed": 751,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -1589,6 +1589,11 @@
       "Time": "2023-07-10T04:05:59.4531271+00:00",
       "NumProgressed": 750,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-11T10:06:02.8260863+00:00",
+      "NumProgressed": 751,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1632,7 +1637,7 @@
       "Name": "Right On Time",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ClockworkCompletion1",
@@ -1672,7 +1677,7 @@
       "Name": "Street Style",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "CultivairChests1",
@@ -1720,7 +1725,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -1760,7 +1765,7 @@
       "Name": "Rail Rat",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "HexlockGift",
@@ -1768,7 +1773,7 @@
       "Name": "Hexlock for Protection",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "InxChromaInTheatre",
@@ -2023,14 +2028,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 750,
+      "Progressed": 751,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-11T09:07:20.6728688+00:00",
+  "LastChanged_Achievements": "2023-07-11T10:06:02.8260858+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:34.816735+00:00",
-  "LastUpdate_Ratings": "2023-07-11T09:00:10.67548+00:00",
-  "LastUpdate_Achievements": "2023-07-11T09:07:20.6729283+00:00"
+  "LastUpdate_Ratings": "2023-07-11T09:59:09.6405209+00:00",
+  "LastUpdate_Achievements": "2023-07-11T10:06:02.8261414+00:00"
 }

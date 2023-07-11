@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -392,9 +392,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3257,
+  "EOS_Progressed": 3258,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -4922,6 +4922,11 @@
       "Time": "2023-07-11T05:03:12.2178425+00:00",
       "NumProgressed": 3257,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-11T10:02:30.9773029+00:00",
+      "NumProgressed": 3258,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -5051,9 +5056,9 @@
       "ID": "REWARD_24_GUNSLINGER",
       "SetID": "bm6el81",
       "Name": "Gunslinger",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 65
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -5500,13 +5505,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3208,
+      "Progressed": 3209,
       "Completed": 13
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3257,
+      "Progressed": 3258,
       "Completed": 9
     }
   ],
@@ -5514,8 +5519,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-09T23:00:54.8044631+00:00",
-  "LastChanged_Achievements": "2023-07-11T09:03:29.7201385+00:00",
+  "LastChanged_Achievements": "2023-07-11T10:02:30.9773023+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:07.1687539+00:00",
-  "LastUpdate_Ratings": "2023-07-11T09:01:27.4859371+00:00",
-  "LastUpdate_Achievements": "2023-07-11T09:03:29.7202549+00:00"
+  "LastUpdate_Ratings": "2023-07-11T10:00:11.6279216+00:00",
+  "LastUpdate_Achievements": "2023-07-11T10:02:30.9774039+00:00"
 }

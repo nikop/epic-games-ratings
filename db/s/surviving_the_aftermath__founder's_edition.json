@@ -7922,9 +7922,9 @@
       "ID": "19",
       "SetID": "8idi9ml",
       "Name": "Healer",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3782
+      "UsersEstimate": 3855
     },
     {
       "ID": "2",
@@ -8322,8 +8322,8 @@
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-07-10T18:59:49.6451369+00:00",
-  "LastChanged_Achievements": "2023-07-11T09:05:15.0567335+00:00",
+  "LastChanged_Achievements": "2023-07-11T10:04:24.4872616+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:19.4551876+00:00",
-  "LastUpdate_Ratings": "2023-07-11T09:00:47.1319866+00:00",
-  "LastUpdate_Achievements": "2023-07-11T09:05:15.0568296+00:00"
+  "LastUpdate_Ratings": "2023-07-11T09:59:38.2470873+00:00",
+  "LastUpdate_Achievements": "2023-07-11T10:04:24.4873606+00:00"
 }

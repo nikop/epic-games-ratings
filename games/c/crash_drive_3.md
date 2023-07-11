@@ -7,35 +7,35 @@
 | Brace for impact! | 33.00% | ~113 |
 | Baby's First Car | 31.00% | ~106 |
 | Pushover | 31.00% | ~106 |
-| Amateur Mechanic | 30.00% | ~102 |
-| A Forest Walk | 30.00% | ~102 |
-| C-C-C-Combo! | 28.00% | ~95 |
-| Multiply that! | 28.00% | ~95 |
+| Amateur Mechanic | 30.00% | ~103 |
+| A Forest Walk | 30.00% | ~103 |
+| C-C-C-Combo! | 28.00% | ~96 |
+| Multiply that! | 28.00% | ~96 |
 | Fore! | 26.00% | ~89 |
-| Insurance fraud | 26.00% | ~89 |
 | Snow Fun! | 26.00% | ~89 |
-| The Collector | 25.00% | ~85 |
-| The Wild West | 25.00% | ~85 |
-| Bag of Tricks | 25.00% | ~85 |
+| The Collector | 25.00% | ~86 |
+| Insurance fraud | 25.00% | ~86 |
+| The Wild West | 25.00% | ~86 |
+| Bag of Tricks | 25.00% | ~86 |
 | To and Fro | 24.00% | ~82 |
 | I see the light! | 24.00% | ~82 |
 | In the Bag! | 24.00% | ~82 |
 | You're it | 24.00% | ~82 |
-| First Come, First Serve | 23.00% | ~78 |
-| Disoriented | 23.00% | ~78 |
-| Take that Frosty! | 23.00% | ~78 |
-| Goodbye cruel world | 23.00% | ~78 |
-| Beach Party! | 23.00% | ~78 |
+| First Come, First Serve | 23.00% | ~79 |
+| Disoriented | 23.00% | ~79 |
+| Take that Frosty! | 23.00% | ~79 |
+| Goodbye cruel world | 23.00% | ~79 |
+| Beach Party! | 23.00% | ~79 |
 | Car-Tapult | 22.00% | ~75 |
 | Anger Issues | 22.00% | ~75 |
 | Your Highness | 22.00% | ~75 |
-| Event Amateur | 21.00% | ~72 |
+| Event Amateur | 20.00% | ~68 |
 | Drift King! | 19.00% | ~65 |
 | Feeling Dizzy? | 19.00% | ~65 |
-| Feeling Hot Hot Hot! | 18.00% | ~61 |
-| Ferry Good! | 18.00% | ~61 |
-| Assert Dominance | 18.00% | ~61 |
-| Speed of light | 18.00% | ~61 |
+| Feeling Hot Hot Hot! | 18.00% | ~62 |
+| Ferry Good! | 18.00% | ~62 |
+| Assert Dominance | 18.00% | ~62 |
+| Speed of light | 18.00% | ~62 |
 | Out of this League | 15.00% | ~51 |
 | Special Forces | 14.00% | ~48 |
 | Toot Toot! | 13.00% | ~44 |
@@ -47,7 +47,7 @@
 | Space Crash | 8.00% | ~27 |
 | To war! | 7.00% | ~24 |
 | Hoarder | 7.00% | ~24 |
-| Event Master | 6.00% | ~20 |
+| Event Master | 6.00% | ~21 |
 | A Starting Collector | 5.00% | ~17 |
 | My Precious | 4.00% | ~14 |
 | Apprentice Mechanic | 4.00% | ~14 |
@@ -60,8 +60,8 @@
 | Master Mechanic | 1.00% | ~3 |
 | Crashed and Driven | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 341 (Ranked 234)  
-Completed: 2 (0.59%) (Ranked 120)  
+Progressed: 342 (Ranked 234)  
+Completed: 2 (0.58%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -99,6 +99,7 @@ Completed: 2 (0.59%) (Ranked 120)
 | 2023-07-02 | 339 | 2 |
 | 2023-07-03 | 340 | 2 |
 | 2023-07-10 | 341 | 2 |
+| 2023-07-11 | 342 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

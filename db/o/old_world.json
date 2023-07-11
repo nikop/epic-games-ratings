@@ -8570,9 +8570,9 @@
       "ID": "ACHIEVEMENT_GREECE3_THRACIANS",
       "SetID": "9201eeb",
       "Name": "What\u0027s \u0027hubris\u0027 in Greek?",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 255
     },
     {
       "ID": "ACHIEVEMENT_GREECE3_THREE_WIVES",
@@ -9752,8 +9752,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-07-09T22:58:11.6246548+00:00",
-  "LastChanged_Achievements": "2023-07-11T09:04:16.2290053+00:00",
+  "LastChanged_Achievements": "2023-07-11T10:03:37.9232845+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:30.6160724+00:00",
-  "LastUpdate_Ratings": "2023-07-11T08:58:27.7329308+00:00",
-  "LastUpdate_Achievements": "2023-07-11T09:04:16.2298984+00:00"
+  "LastUpdate_Ratings": "2023-07-11T09:57:51.7684818+00:00",
+  "LastUpdate_Achievements": "2023-07-11T10:03:37.9241517+00:00"
 }

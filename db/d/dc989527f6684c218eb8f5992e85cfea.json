@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6635,
+  "EOS_Progressed": 6637,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 836,
+  "EOS_NewPlayers": 835,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2731,6 +2731,11 @@
       "Time": "2023-07-11T08:02:19.023837+00:00",
       "NumProgressed": 6635,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-11T10:02:06.533386+00:00",
+      "NumProgressed": 6637,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -2814,7 +2819,7 @@
       "Name": "You tried your best!",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2853
+      "UsersEstimate": 2854
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -2908,9 +2913,9 @@
       "ID": "ACH_WIN_A_GAME",
       "SetID": "5ck0pmd",
       "Name": "Art Intern",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1261
     },
     {
       "ID": "ACH_WIN_A_GAME_GUESS_IT",
@@ -2934,21 +2939,21 @@
       "Name": "First Sketch",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1194
+      "UsersEstimate": 1195
     }
   ],
   "AchievementSets": [
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 6635,
+      "Progressed": 6637,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-07-11T09:02:08.8027412+00:00",
+  "LastChanged_Achievements": "2023-07-11T10:02:06.5333856+00:00",
   "LastUpdate_AppInfo": "2023-07-07T17:57:06.089177+00:00",
-  "LastUpdate_Ratings": "2023-07-11T08:57:09.0177947+00:00",
-  "LastUpdate_Achievements": "2023-07-11T09:02:08.8027747+00:00"
+  "LastUpdate_Ratings": "2023-07-11T09:56:51.0462275+00:00",
+  "LastUpdate_Achievements": "2023-07-11T10:02:06.5334176+00:00"
 }

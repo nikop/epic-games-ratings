@@ -4,38 +4,38 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Good to have Allies | 43.00% | ~172 |
-| Defenses Online | 41.00% | ~164 |
-| Facility Online | 36.00% | ~144 |
-| Corporal | 27.00% | ~108 |
-| Covert Operative | 22.00% | ~88 |
+| It's Good to have Allies | 43.00% | ~173 |
+| Defenses Online | 40.00% | ~161 |
+| Facility Online | 36.00% | ~145 |
+| Corporal | 27.00% | ~109 |
+| Covert Operative | 21.00% | ~84 |
 | Sergeant | 19.00% | ~76 |
 | Lieutenant | 14.00% | ~56 |
 | Stocking Up | 14.00% | ~56 |
 | On Target | 14.00% | ~56 |
 | Getting Deployment | 13.00% | ~52 |
-| Keeping Busy | 12.00% | ~48 |
 | Infantry Reporting | 12.00% | ~48 |
+| Keeping Busy | 11.00% | ~44 |
 | Fighting for Survival | 10.00% | ~40 |
 | Silver Competitor | 9.00% | ~36 |
-| Factory Expansion | 9.00% | ~36 |
 | Captain | 8.00% | ~32 |
+| Factory Expansion | 8.00% | ~32 |
 | Exterminator | 7.00% | ~28 |
 | Brothers in Arms | 7.00% | ~28 |
-| Know The Enemy | 4.00% | ~16 |
 | Player Betrayer | 4.00% | ~16 |
 | Silver Achiever | 4.00% | ~16 |
 | Moving On Up | 4.00% | ~16 |
-| Gold Achiever | 3.00% | ~12 |
+| Know The Enemy | 3.00% | ~12 |
 | Advanced Warfare | 3.00% | ~12 |
 | Major | 3.00% | ~12 |
-| Colonel | 3.00% | ~12 |
 | Battle Ready | 3.00% | ~12 |
-| Control the Skies | 3.00% | ~12 |
+| Gold Achiever | 2.00% | ~8 |
+| Colonel | 2.00% | ~8 |
 | General | 2.00% | ~8 |
-| Seek & Destroy | 2.00% | ~8 |
 | Resourceful | 2.00% | ~8 |
-| Titan Tanks | 2.00% | ~8 |
+| Control the Skies | 2.00% | ~8 |
+| Seek & Destroy | 1.00% | ~4 |
+| Titan Tanks | 1.00% | ~4 |
 | Shock Troops | 1.00% | ~4 |
 | Jet Troops | 1.00% | ~4 |
 | Advanced Interceptors | 0.50% | ~2 |
@@ -43,7 +43,7 @@
 | Platinum Achiever | 0.00% | ~0 |
 | Platinum Competitor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 400 (Ranked 225)  
+Progressed: 402 (Ranked 225)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,4 +76,4 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-08 | 374 | 0 |
 | 2023-07-09 | 388 | 0 |
 | 2023-07-10 | 397 | 0 |
-| 2023-07-11 | 400 | 0 |
+| 2023-07-11 | 402 | 0 |

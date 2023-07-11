@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 42,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -46,11 +46,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 521,
+  "EOS_Progressed": 522,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.61,
+  "EOS_Completed_Percentage": 4.6,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -1736,6 +1736,11 @@
       "Time": "2023-07-10T02:32:17.0000431+00:00",
       "NumProgressed": 521,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-07-11T10:05:13.5878126+00:00",
+      "NumProgressed": 522,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 28,
@@ -1747,7 +1752,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "MQ01_2",
@@ -1755,15 +1760,15 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 64,
       "XP": 40,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "MQ02_1",
       "SetID": "bbing49",
       "Name": "High Profile",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 302
+      "UsersEstimate": 298
     },
     {
       "ID": "MQ02_2",
@@ -1777,9 +1782,9 @@
       "ID": "MQ02_3",
       "SetID": "bbing49",
       "Name": "Curiosity Killed The Cat",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 104
     },
     {
       "ID": "MQ02_4",
@@ -1795,7 +1800,7 @@
       "Name": "Fond Memories",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "MQ03_2",
@@ -1851,7 +1856,7 @@
       "Name": "The New World",
       "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "MQ05_1",
@@ -1867,7 +1872,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "MQ05_3",
@@ -1889,9 +1894,9 @@
       "ID": "MQ06_1",
       "SetID": "bbing49",
       "Name": "Brain Food",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 188
+      "UsersEstimate": 183
     },
     {
       "ID": "MQ06_2",
@@ -1915,7 +1920,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "MQ07_1",
@@ -1931,7 +1936,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "MQ08_1",
@@ -1939,7 +1944,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "MQ08_2",
@@ -1970,7 +1975,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 521,
+      "Progressed": 522,
       "Completed": 24
     }
   ],
@@ -1978,8 +1983,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-06-25T15:57:48.8176349+00:00",
-  "LastChanged_Achievements": "2023-07-11T09:06:17.2972498+00:00",
+  "LastChanged_Achievements": "2023-07-11T10:05:13.587812+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:30.1618252+00:00",
-  "LastUpdate_Ratings": "2023-07-11T08:57:40.7708599+00:00",
-  "LastUpdate_Achievements": "2023-07-11T09:06:17.2972809+00:00"
+  "LastUpdate_Ratings": "2023-07-11T09:57:14.9802491+00:00",
+  "LastUpdate_Achievements": "2023-07-11T10:05:13.587845+00:00"
 }

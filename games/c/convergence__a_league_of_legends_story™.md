@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 18.00% | ~135 |
-| The Mysterious Stranger | 15.00% | ~112 |
-| Rail Rat | 15.00% | ~112 |
+| The Mysterious Stranger | 15.00% | ~113 |
+| Rail Rat | 15.00% | ~113 |
 | The Steel Shadow | 14.00% | ~105 |
 | The Man Who Shattered Time | 14.00% | ~105 |
 | Make Up For Lost Time | 14.00% | ~105 |
@@ -29,8 +29,8 @@
 | Honest Mistake | 12.00% | ~90 |
 | Golem Chaser | 12.00% | ~90 |
 | Check Your Pulse | 12.00% | ~90 |
-| Right On Time | 11.00% | ~82 |
-| Street Style | 11.00% | ~82 |
+| Right On Time | 11.00% | ~83 |
+| Street Style | 11.00% | ~83 |
 | Whiz Kid | 10.00% | ~75 |
 | Chaincrawler Explorer | 9.00% | ~68 |
 | Good Neighbor | 9.00% | ~68 |
@@ -48,7 +48,7 @@
 | Golem Hunter | 5.00% | ~38 |
 | Clovemary for Remembering | 4.00% | ~30 |
 | Rungs Was Right | 4.00% | ~30 |
-| Hexlock for Protection | 3.00% | ~22 |
+| Hexlock for Protection | 3.00% | ~23 |
 | Wunderkind | 2.00% | ~15 |
 | Fitting In | 2.00% | ~15 |
 | Thinking Two Steps Ahead | 1.00% | ~8 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.50% | ~4 |
 | Raw Talent | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 750 (Ranked 198)  
+Progressed: 751 (Ranked 198)  
 Completed: 4 (0.53%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,3 +110,4 @@ Completed: 4 (0.53%) (Ranked 125)
 | 2023-07-07 | 748 | 4 |
 | 2023-07-09 | 749 | 4 |
 | 2023-07-10 | 750 | 4 |
+| 2023-07-11 | 751 | 4 |

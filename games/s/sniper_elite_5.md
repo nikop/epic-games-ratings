@@ -8,6 +8,7 @@ Rating: 4.45 (Ranked 622)
 | Climbing the Ladder | 2.00% | ~65 |
 | Liberté | 2.00% | ~65 |
 | Meeting Resistance | 2.00% | ~65 |
+| Gunslinger | 2.00% | ~65 |
 | Sharpshooter | 2.00% | ~65 |
 | Confirming Suspicions | 2.00% | ~65 |
 | Lord of War | 2.00% | ~65 |
@@ -22,7 +23,6 @@ Rating: 4.45 (Ranked 622)
 | No Stone Unturned | 1.00% | ~33 |
 | Opposing Force | 1.00% | ~33 |
 | Organ Grinder | 1.00% | ~33 |
-| Gunslinger | 1.00% | ~33 |
 | Skirmisher | 1.00% | ~33 |
 | Set Europe Ablaze | 1.00% | ~33 |
 | Precision Is Key | 1.00% | ~33 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 622)
 | Das Familienjuwel | 0.10% | ~3 |
 | Stroll in the Woods | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,257 (Ranked 146)  
+Progressed: 3,258 (Ranked 146)  
 Completed: 9 (0.28%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 9 (0.28%) (Ranked 150)
 | 2023-07-08 | 3,234 | 9 |
 | 2023-07-09 | 3,245 | 9 |
 | 2023-07-10 | 3,253 | 9 |
-| 2023-07-11 | 3,257 | 9 |
+| 2023-07-11 | 3,258 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

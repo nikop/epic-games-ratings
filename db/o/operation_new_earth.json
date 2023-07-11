@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 400,
+  "EOS_Progressed": 402,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1376,6 +1376,11 @@
       "Time": "2023-07-11T06:05:27.7396491+00:00",
       "NumProgressed": 400,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-11T10:04:31.3490097+00:00",
+      "NumProgressed": 402,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1385,9 +1390,9 @@
       "ID": "ach_defeat_aliens_250",
       "SetID": "bm61c2p",
       "Name": "Know The Enemy",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 16
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -1417,9 +1422,9 @@
       "ID": "ach_gold_rewards_100",
       "SetID": "bm61c2p",
       "Name": "Gold Achiever",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 12
+      "UsersEstimate": 8
     },
     {
       "ID": "ach_gold_rewards_25",
@@ -1465,9 +1470,9 @@
       "ID": "objective_headquarters_10",
       "SetID": "bm61c2p",
       "Name": "Keeping Busy",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 48
+      "UsersEstimate": 44
     },
     {
       "ID": "objective_headquarters_15",
@@ -1491,7 +1496,7 @@
       "Name": "Facility Online",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -1499,7 +1504,7 @@
       "Name": "Corporal",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -1537,9 +1542,9 @@
       "ID": "objective_hero_level_up_6",
       "SetID": "bm61c2p",
       "Name": "Colonel",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 8
     },
     {
       "ID": "objective_hero_level_up_7",
@@ -1563,15 +1568,15 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "objective_key_contest_tiles_3",
       "SetID": "bm61c2p",
       "Name": "Covert Operative",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 84
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -1585,9 +1590,9 @@
       "ID": "objective_key_drone_missions_completed_3",
       "SetID": "bm61c2p",
       "Name": "Seek \u0026 Destroy",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 4
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_3",
@@ -1633,17 +1638,17 @@
       "ID": "objective_multiple_factory_1",
       "SetID": "bm61c2p",
       "Name": "Factory Expansion",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 32
     },
     {
       "ID": "objective_multiple_turrets_2",
       "SetID": "bm61c2p",
       "Name": "Defenses Online",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 161
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -1657,9 +1662,9 @@
       "ID": "objective_research_unlock_ground_vehicle_tier_4",
       "SetID": "bm61c2p",
       "Name": "Titan Tanks",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 4
     },
     {
       "ID": "objective_research_unlock_heavy_infantry_tier_4",
@@ -1681,23 +1686,23 @@
       "ID": "objective_upgrade_dropships_2",
       "SetID": "bm61c2p",
       "Name": "Control the Skies",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 8
     }
   ],
   "AchievementSets": [
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 400,
+      "Progressed": 402,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-11T09:05:23.7908974+00:00",
+  "LastChanged_Achievements": "2023-07-11T10:04:31.349009+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:58.5226048+00:00",
-  "LastUpdate_Ratings": "2023-07-11T09:01:17.9386602+00:00",
-  "LastUpdate_Achievements": "2023-07-11T09:05:23.790934+00:00"
+  "LastUpdate_Ratings": "2023-07-11T10:00:03.8388496+00:00",
+  "LastUpdate_Achievements": "2023-07-11T10:04:31.3490411+00:00"
 }

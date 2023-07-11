@@ -6,42 +6,42 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~222,984 |
-| Uncharted Territory | 89.00% | ~206,725 |
+| First Steps | 96.00% | ~222,985 |
+| Uncharted Territory | 89.00% | ~206,726 |
 | Getting A Glimpse | 73.00% | ~169,561 |
 | A Quick Escape | 65.00% | ~150,979 |
-| Explorer | 62.00% | ~144,010 |
+| Explorer | 62.00% | ~144,011 |
 | Defeat The Dark | 61.00% | ~141,688 |
 | An Offering | 61.00% | ~141,688 |
 | Colorful Corpse | 58.00% | ~134,720 |
-| That Was Quick | 56.00% | ~130,074 |
-| A Donation | 56.00% | ~130,074 |
+| That Was Quick | 56.00% | ~130,075 |
+| A Donation | 56.00% | ~130,075 |
 | Goodbye, Frog Friend | 54.00% | ~125,429 |
 | Heavy Hitter | 53.00% | ~123,106 |
-| Heartless | 46.00% | ~106,846 |
-| Spine Breaker | 46.00% | ~106,846 |
+| Heartless | 46.00% | ~106,847 |
+| Spine Breaker | 46.00% | ~106,847 |
 | Deflection | 45.00% | ~104,524 |
-| Sneaky | 43.00% | ~99,878 |
+| Sneaky | 43.00% | ~99,879 |
 | Delving Deeper | 42.00% | ~97,556 |
 | Ambitious Intent | 41.00% | ~95,233 |
 | C-C-Combo | 41.00% | ~95,233 |
 | Nothing To Lose | 40.00% | ~92,910 |
 | The Bestiary | 40.00% | ~92,910 |
-| What's Yours Is Mine | 38.00% | ~88,264 |
+| What's Yours Is Mine | 38.00% | ~88,265 |
 | R.I.P | 36.00% | ~83,619 |
 | Shootout | 36.00% | ~83,619 |
-| I Am Overburdened | 35.00% | ~81,296 |
+| I Am Overburdened | 35.00% | ~81,297 |
 | Cold Hearted | 34.00% | ~78,974 |
 | Dig Your Own Grave | 33.00% | ~76,651 |
 | Toxic | 33.00% | ~76,651 |
 | Who To Trust? | 32.00% | ~74,328 |
 | Flesh Wound | 29.00% | ~67,360 |
-| Walk It Off | 27.00% | ~62,714 |
-| Stone Touch | 27.00% | ~62,714 |
-| Acid Bath | 27.00% | ~62,714 |
-| New Perspectives | 27.00% | ~62,714 |
-| Shadow Walker | 27.00% | ~62,714 |
-| Shapeshifting | 27.00% | ~62,714 |
+| Walk It Off | 27.00% | ~62,715 |
+| Stone Touch | 27.00% | ~62,715 |
+| Acid Bath | 27.00% | ~62,715 |
+| New Perspectives | 27.00% | ~62,715 |
+| Shadow Walker | 27.00% | ~62,715 |
+| Shapeshifting | 27.00% | ~62,715 |
 | Consecutive Curses | 26.00% | ~60,392 |
 | Destroy Your Fears | 26.00% | ~60,392 |
 | Save Our Souls | 25.00% | ~58,069 |
@@ -77,13 +77,13 @@ Number of Ratings: 15,086  (23.09.2022)
 | Path To Enlightenment | 7.00% | ~16,259 |
 | Fire Away! | 7.00% | ~16,259 |
 | Sentimental Value | 7.00% | ~16,259 |
-| A Long Climb | 6.00% | ~13,936 |
-| Grave Digger | 6.00% | ~13,936 |
-| Soul Stash | 6.00% | ~13,936 |
-| Power Score | 6.00% | ~13,936 |
-| Just Looking Around | 6.00% | ~13,936 |
-| Obsessed | 6.00% | ~13,936 |
-| Champion of the Day | 6.00% | ~13,936 |
+| A Long Climb | 6.00% | ~13,937 |
+| Grave Digger | 6.00% | ~13,937 |
+| Soul Stash | 6.00% | ~13,937 |
+| Power Score | 6.00% | ~13,937 |
+| Just Looking Around | 6.00% | ~13,937 |
+| Obsessed | 6.00% | ~13,937 |
+| Champion of the Day | 6.00% | ~13,937 |
 | Achievement Hunter | 4.00% | ~9,291 |
 | Hydrophobe | 4.00% | ~9,291 |
 | Explosive Betrayal | 4.00% | ~9,291 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Never Too Many Hats | 0.40% | ~929 |
 | Near Death Experience | 0.30% | ~697 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,275 (Ranked 46)  
+Progressed: 232,276 (Ranked 46)  
 Completed: 246 (0.11%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 246 (0.11%) (Ranked 181)
 | 2023-07-08 | 232,141 | 245 |
 | 2023-07-09 | 232,198 | 246 |
 | 2023-07-10 | 232,259 | 246 |
-| 2023-07-11 | 232,275 | 246 |
+| 2023-07-11 | 232,276 | 246 |
 ## Awards
 Max (Quickly Understood Controls): 1,483  (Ranked 120)  
 Sum: 11,481 (Ranked 75)  

@@ -1164,9 +1164,9 @@
       "ID": "ACHIEVEMENT_SCENARIO_BASICTRAINING",
       "SetID": "9eacipp",
       "Name": "Ten-Hut!",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_BEHINDBLINDERS",
@@ -1580,8 +1580,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-07-11T09:03:59.4853385+00:00",
+  "LastChanged_Achievements": "2023-07-11T10:03:24.5566408+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:35.0045065+00:00",
-  "LastUpdate_Ratings": "2023-07-11T08:58:30.9505374+00:00",
-  "LastUpdate_Achievements": "2023-07-11T09:03:59.4854697+00:00"
+  "LastUpdate_Ratings": "2023-07-11T09:57:54.2541035+00:00",
+  "LastUpdate_Achievements": "2023-07-11T10:03:24.5567692+00:00"
 }

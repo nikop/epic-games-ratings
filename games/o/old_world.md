@@ -188,6 +188,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Like a Lion | 2.00% | ~255 |
 | The Olive Wreath | 2.00% | ~255 |
 | Those Were Mine | 2.00% | ~255 |
+| What's 'hubris' in Greek? | 2.00% | ~255 |
 | Three's a Crowd | 2.00% | ~255 |
 | Medo-Babylonian Conquest | 2.00% | ~255 |
 | Pyramids in Menefer | 2.00% | ~255 |
@@ -201,7 +202,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage - Seizing Destiny | 1.00% | ~128 |
 | Carthage Campaign | 1.00% | ~128 |
 | Destroyer | 1.00% | ~128 |
-| What's 'hubris' in Greek? | 1.00% | ~128 |
 | Play a Hotseat Game | 1.00% | ~128 |
 | Play a MP Teams Game | 1.00% | ~128 |
 | Roman Papacy | 1.00% | ~128 |

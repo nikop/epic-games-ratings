@@ -73,11 +73,11 @@ Number of Ratings: 37  (23.09.2022)
 | I've been everywhere II | 0.90% | ~38 |
 | When there's fire... | 0.70% | ~29 |
 | Last man standing | 0.70% | ~29 |
+| Ten-Hut! | 0.70% | ~29 |
 | I've been everywhere VI | 0.70% | ~29 |
 | The wood shortage | 0.70% | ~29 |
 | Builder V | 0.60% | ~25 |
 | Buried | 0.60% | ~25 |
-| Ten-Hut! | 0.60% | ~25 |
 | Craftsmen challenge | 0.60% | ~25 |
 | Penny pincher | 0.60% | ~25 |
 | Made my choice | 0.50% | ~21 |
