@@ -3,7 +3,7 @@
 | 1 | [Fortnite](games/f/fortnite.md) | 1,490,561 | 4.29 | 780 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 469,619 | 4.50 | 552 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 299,864 | 4.68 | 239 |
-| 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 196,741 | 4.68 | 239 |
+| 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 197,197 | 4.68 | 239 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 185,634 | 4.19 | 845 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 158,003 | 4.88 | 19 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 143,850 | 4.52 | 520 |
@@ -36,7 +36,7 @@
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 10,785 | 4.45 | 622 |
 | 35 | [Satisfactory](games/s/satisfactory.md) | 10,568 | 4.88 | 19 |
 | 36 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,450 | 4.78 | 99 |
-| 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,424 | 4.61 | 361 |
+| 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,433 | 4.61 | 361 |
 | 38 | [SnowRunner](games/s/snowrunner.md) | 9,105 | 4.76 | 120 |
 | 39 | [Control](games/c/control.md) | 8,393 | 4.60 | 390 |
 | 40 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 8,321 | 4.58 | 422 |
@@ -83,7 +83,7 @@
 | 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 3,603 | 4.77 | 107 |
 | 82 | [Gloomhaven](games/g/gloomhaven.md) | 3,489 | 4.47 | 597 |
 | 83 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,476 | 4.57 | 439 |
-| 84 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,426 | 4.46 | 608 |
+| 84 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,426 | 4.46 | 607 |
 | 85 | [Paladins](games/p/paladins.md) | 3,389 | 4.34 | 747 |
 | 86 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,334 | 4.68 | 239 |
 | 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,262 | 4.68 | 239 |
@@ -121,7 +121,7 @@
 | 119 | [Celeste](games/c/celeste.md) | 1,520 | 4.92 | 4 |
 | 120 | [Ring of Pain](games/r/ring_of_pain.md) | 1,483 | 4.58 | 422 |
 | 121 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,467 | 4.79 | 87 |
-| 122 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,443 | 4.81 | 75 |
+| 122 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,447 | 4.81 | 75 |
 | 123 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,410 | 4.87 | 25 |
 | 124 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,379 | 4.62 | 346 |
 | 125 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,327 | 4.52 | 520 |
@@ -235,7 +235,7 @@
 | 233 | [Video Horror Society](games/v/video_horror_society.md) | 297 | 4.27 | 795 |
 | 234 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 296 | 4.59 | 413 |
 | 235 | [Railway Empire](games/r/railway_empire.md) | 285 | 4.52 | 520 |
-| 236 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 282 | 4.46 | 608 |
+| 236 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 282 | 4.46 | 607 |
 | 237 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 280 | 4.43 | 653 |
 | 238 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 277 | 4.62 | 346 |
 | 239 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 274 | 4.61 | 361 |
@@ -322,7 +322,7 @@
 | 320 | [First Class Trouble](games/f/first_class_trouble.md) | 111 | 4.50 | 552 |
 | 321 | [Faeria](games/f/faeria.md) | 108 | 4.45 | 622 |
 | 322 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 106 | 4.50 | 552 |
-| 322 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 106 | 4.46 | 608 |
+| 322 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 106 | 4.46 | 607 |
 | 324 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 105 | 4.51 | 539 |
 | 325 | [Phantom Brigade](games/p/phantom_brigade.md) | 104 | 4.62 | 346 |
 | 326 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 103 | 3.91 | 927 |
@@ -402,7 +402,7 @@
 | 398 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 50 | 4.70 | 196 |
 | 398 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 50 | 4.66 | 270 |
 | 398 | [Session: Skate Sim](games/s/session__skate_sim.md) | 50 | 4.67 | 259 |
-| 403 | [ATOM RPG](games/a/atom_rpg.md) | 49 | 4.46 | 608 |
+| 403 | [ATOM RPG](games/a/atom_rpg.md) | 49 | 4.46 | 607 |
 | 404 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 48 | 4.36 | 727 |
 | 405 | [Desperados III](games/d/desperados_iii.md) | 47 | 4.84 | 49 |
 | 406 | [AXIOM VERGE](games/a/axiom_verge.md) | 46 | 4.56 | 454 |
@@ -469,7 +469,7 @@
 | 465 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 27 | 4.57 | 439 |
 | 465 | [Poker Club](games/p/poker_club.md) | 27 | 3.80 | 939 |
 | 465 | [Songs of Conquest](games/s/songs_of_conquest.md) | 27 | 4.69 | 217 |
-| 465 | [The Surge](games/t/the_surge.md) | 27 | 4.46 | 608 |
+| 465 | [The Surge](games/t/the_surge.md) | 27 | 4.46 | 607 |
 | 471 | [DOOM II](games/d/doom_ii.md) | 26 | 4.73 | 157 |
 | 471 | [God's Trigger](games/g/god's_trigger.md) | 26 | 4.17 | 859 |
 | 471 | [Warpips](games/w/warpips.md) | 26 | 4.41 | 674 |
@@ -500,6 +500,6 @@
 | 492 | [Tunche](games/t/tunche.md) | 21 | 4.42 | 663 |
 | 492 | [Void Bastards](games/v/void_bastards.md) | 21 | 4.60 | 390 |
 | 492 | [We Were Here Forever](games/w/we_were_here_forever.md) | 21 | 4.65 | 300 |
-| 501 | [Figment](games/f/figment.md) | 20 | 4.47 | 597 |
+| 501 | [Figment](games/f/figment.md) | 20 | 4.46 | 607 |
 | 501 | [Forspoken](games/f/forspoken.md) | 20 | 4.14 | 875 |
 | 501 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 20 | 4.63 | 331 |

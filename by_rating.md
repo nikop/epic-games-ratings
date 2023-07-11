@@ -75,7 +75,7 @@
 | 65 | [Sifu](games/s/sifu.md) | 4.82 | 6,257 | 52 |
 | 65 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 396 | 210 |
 | 75 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 418 | 203 |
-| 75 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 1,443 | 122 |
+| 75 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 1,447 | 122 |
 | 75 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.81 | 218 | 255 |
 | 75 | [Star Atlas](games/s/star_atlas.md) | 4.81 | 22 | 485 |
 | 75 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.81 | 0 | 504 |
@@ -248,7 +248,7 @@
 | 239 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 2,357 | 102 |
 | 239 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 0 | 504 |
 | 239 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 299,864 | 3 |
-| 239 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 196,741 | 4 |
+| 239 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 197,197 | 4 |
 | 239 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 414 | 205 |
 | 239 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 560 | 180 |
 | 239 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 674 | 165 |
@@ -379,7 +379,7 @@
 | 361 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,528 | 94 |
 | 361 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 648 | 169 |
 | 361 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 454 | 199 |
-| 361 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,424 | 37 |
+| 361 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,433 | 37 |
 | 361 | [Returnal™](games/r/returnal™.md) | 4.61 | 55 | 390 |
 | 361 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,069 | 137 |
 | 361 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 274 | 239 |
@@ -598,7 +598,6 @@
 | 585 | [The Escapists](games/t/the_escapists.md) | 4.48 | 0 | 504 |
 | 597 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 0 | 504 |
 | 597 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 0 | 504 |
-| 597 | [Figment](games/f/figment.md) | 4.47 | 20 | 501 |
 | 597 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,489 | 82 |
 | 597 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.47 | 38 | 425 |
 | 597 | [Riverbond](games/r/riverbond.md) | 4.47 | 0 | 504 |
@@ -607,20 +606,21 @@
 | 597 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 99 | 330 |
 | 597 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.47 | 0 | 504 |
 | 597 | [Train Valley](games/t/train_valley.md) | 4.47 | 0 | 504 |
-| 608 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 0 | 504 |
-| 608 | [Anno 2070](games/a/anno_2070.md) | 4.46 | 0 | 504 |
-| 608 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.46 | 0 | 504 |
-| 608 | [ATOM RPG](games/a/atom_rpg.md) | 4.46 | 49 | 403 |
-| 608 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,426 | 84 |
-| 608 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.46 | 0 | 504 |
-| 608 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 106 | 322 |
-| 608 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 0 | 504 |
-| 608 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.46 | 0 | 504 |
-| 608 | [Mars Horizon](games/m/mars_horizon.md) | 4.46 | 0 | 504 |
-| 608 | [Railway Empire 2](games/r/railway_empire_2.md) | 4.46 | 0 | 504 |
-| 608 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 504 |
-| 608 | [The Surge](games/t/the_surge.md) | 4.46 | 27 | 465 |
-| 608 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 282 | 236 |
+| 607 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 0 | 504 |
+| 607 | [Anno 2070](games/a/anno_2070.md) | 4.46 | 0 | 504 |
+| 607 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.46 | 0 | 504 |
+| 607 | [ATOM RPG](games/a/atom_rpg.md) | 4.46 | 49 | 403 |
+| 607 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,426 | 84 |
+| 607 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.46 | 0 | 504 |
+| 607 | [Figment](games/f/figment.md) | 4.46 | 20 | 501 |
+| 607 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 106 | 322 |
+| 607 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 0 | 504 |
+| 607 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.46 | 0 | 504 |
+| 607 | [Mars Horizon](games/m/mars_horizon.md) | 4.46 | 0 | 504 |
+| 607 | [Railway Empire 2](games/r/railway_empire_2.md) | 4.46 | 0 | 504 |
+| 607 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 504 |
+| 607 | [The Surge](games/t/the_surge.md) | 4.46 | 27 | 465 |
+| 607 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 282 | 236 |
 | 622 | [Chorus](games/c/chorus.md) | 4.45 | 32 | 447 |
 | 622 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 236 | 250 |
 | 622 | [Faeria](games/f/faeria.md) | 4.45 | 108 | 321 |
