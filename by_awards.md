@@ -77,7 +77,7 @@
 | 75 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,146 | 4.56 | 454 |
 | 76 | [God of War](games/g/god_of_war.md) | 4,137 | 4.88 | 19 |
 | 77 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,102 | 4.51 | 539 |
-| 78 | [SMITE](games/s/smite.md) | 3,991 | 4.45 | 622 |
+| 78 | [SMITE](games/s/smite.md) | 3,995 | 4.45 | 622 |
 | 79 | [Days Gone](games/d/days_gone.md) | 3,870 | 4.68 | 239 |
 | 80 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,671 | 4.29 | 780 |
 | 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 3,603 | 4.77 | 107 |
@@ -319,7 +319,7 @@
 | 316 | [Tropico 5](games/t/tropico_5.md) | 114 | 4.45 | 622 |
 | 318 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 112 | 4.75 | 133 |
 | 318 | [Overcooked](games/o/overcooked.md) | 112 | 4.68 | 239 |
-| 320 | [First Class Trouble](games/f/first_class_trouble.md) | 110 | 4.50 | 552 |
+| 320 | [First Class Trouble](games/f/first_class_trouble.md) | 111 | 4.50 | 552 |
 | 321 | [Faeria](games/f/faeria.md) | 108 | 4.45 | 622 |
 | 322 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 106 | 4.50 | 552 |
 | 322 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 106 | 4.46 | 608 |
@@ -359,9 +359,9 @@
 | 357 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 78 | 4.56 | 454 |
 | 357 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 78 | 4.21 | 832 |
 | 359 | [Dead Space](games/d/dead_space.md) | 76 | 4.61 | 361 |
+| 359 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 76 | 4.71 | 181 |
 | 359 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 76 | 4.20 | 835 |
-| 361 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 75 | 4.71 | 181 |
-| 361 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 75 | 4.59 | 413 |
+| 362 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 75 | 4.59 | 413 |
 | 363 | [Carcassonne](games/c/carcassonne.md) | 74 | 4.66 | 270 |
 | 363 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 74 | 4.61 | 361 |
 | 363 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 74 | 4.31 | 770 |
@@ -467,7 +467,7 @@
 | 465 | [Automachef](games/a/automachef.md) | 27 | 4.34 | 746 |
 | 465 | [City of Gangsters](games/c/city_of_gangsters.md) | 27 | 4.26 | 801 |
 | 465 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 27 | 4.57 | 439 |
-| 465 | [Poker Club](games/p/poker_club.md) | 27 | 3.80 | 940 |
+| 465 | [Poker Club](games/p/poker_club.md) | 27 | 3.80 | 939 |
 | 465 | [Songs of Conquest](games/s/songs_of_conquest.md) | 27 | 4.69 | 217 |
 | 465 | [The Surge](games/t/the_surge.md) | 27 | 4.46 | 608 |
 | 471 | [DOOM II](games/d/doom_ii.md) | 26 | 4.73 | 157 |

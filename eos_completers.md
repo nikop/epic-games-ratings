@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 58.82% |
+| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 55.56% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 44.44% |
 | 3 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 30.00% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
@@ -43,8 +43,8 @@
 | 41 | [Bugsnax](games/b/bugsnax.md) | 4.69% |
 | 42 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.61% |
 | 43 | [Without Escape](games/w/without_escape.md) | 4.55% |
-| 44 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.40% |
-| 45 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.91% |
+| 44 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.38% |
+| 45 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.90% |
 | 46 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.79% |
 | 47 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
 | 48 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.61% |
@@ -193,14 +193,14 @@
 | 188 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
 | 192 | [Riverbond](games/r/riverbond.md) | 0.08% |
 | 192 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
+| 194 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.07% |
 | 194 | [Outward Definitive Edition](games/o/outward.md) | 0.07% |
 | 194 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
 | 194 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
-| 197 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.06% |
-| 197 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.06% |
-| 197 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
-| 197 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
-| 197 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
+| 198 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.06% |
+| 198 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
+| 198 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
+| 198 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
 | 202 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
 | 202 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
 | 202 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.05% |

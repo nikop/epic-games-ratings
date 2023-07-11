@@ -183,7 +183,7 @@
 | 181 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.71 | 0 | 504 |
 | 181 | [Barony](games/b/barony.md) | 4.71 | 73 | 367 |
 | 181 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 0 | 504 |
-| 181 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.71 | 75 | 361 |
+| 181 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.71 | 76 | 359 |
 | 181 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 0 | 504 |
 | 181 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,642 | 50 |
 | 181 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 434 |
@@ -416,7 +416,7 @@
 | 413 | [Moving Out](games/m/moving_out.md) | 4.59 | 0 | 504 |
 | 413 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.59 | 0 | 504 |
 | 413 | [Operation: Tango](games/o/operation__tango.md) | 4.59 | 0 | 504 |
-| 413 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 75 | 361 |
+| 413 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 75 | 362 |
 | 413 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 296 | 234 |
 | 413 | [Torchlight II](games/t/torchlight_ii.md) | 4.59 | 992 | 144 |
 | 413 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 213 | 262 |
@@ -560,7 +560,7 @@
 | 552 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 35,605 | 13 |
 | 552 | [Duskers](games/d/duskers.md) | 4.50 | 0 | 504 |
 | 552 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 0 | 504 |
-| 552 | [First Class Trouble](games/f/first_class_trouble.md) | 4.50 | 110 | 320 |
+| 552 | [First Class Trouble](games/f/first_class_trouble.md) | 4.50 | 111 | 320 |
 | 552 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,537 | 93 |
 | 552 | [Horace](games/h/horace.md) | 4.50 | 0 | 504 |
 | 552 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 0 | 504 |
@@ -632,7 +632,7 @@
 | 622 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 504 |
 | 622 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 862 | 150 |
 | 622 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 51 | 395 |
-| 622 | [SMITE](games/s/smite.md) | 4.45 | 3,991 | 78 |
+| 622 | [SMITE](games/s/smite.md) | 4.45 | 3,995 | 78 |
 | 622 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.45 | 0 | 504 |
 | 622 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.45 | 0 | 504 |
 | 622 | [STG Football](games/s/stg_football.md) | 4.45 | 40 | 420 |
@@ -938,8 +938,8 @@
 | 936 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.82 | 0 | 504 |
 | 936 | [Potion Permit](games/p/potion_permit.md) | 3.82 | 67 | 374 |
 | 936 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.82 | 0 | 504 |
-| 939 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.81 | 0 | 504 |
-| 940 | [Poker Club](games/p/poker_club.md) | 3.80 | 27 | 465 |
+| 939 | [Poker Club](games/p/poker_club.md) | 3.80 | 27 | 465 |
+| 940 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.79 | 0 | 504 |
 | 941 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,048 | 139 |
 | 942 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 0 | 504 |
 | 942 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.77 | 64 | 380 |
