@@ -19,7 +19,7 @@
 | 17 | [Remains](games/r/remains.md) | 11.90% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.22% |
 | 19 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 20 | [Sonic Origins](games/s/sonic_origins.md) | 10.36% |
+| 20 | [Sonic Origins](games/s/sonic_origins.md) | 10.32% |
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 22 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 9.09% |
 | 23 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.75% |
@@ -30,7 +30,7 @@
 | 28 | [Time Loader](games/t/time_loader.md) | 7.21% |
 | 29 | [Scorn](games/s/scorn.md) | 7.07% |
 | 30 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.82% |
-| 31 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.80% |
+| 31 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.79% |
 | 32 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 6.45% |
 | 33 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 34 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -67,7 +67,7 @@
 | 65 | [Lamentum](games/l/lamentum.md) | 2.67% |
 | 66 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
 | 67 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.61% |
-| 68 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.57% |
+| 68 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.56% |
 | 69 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 70 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
 | 71 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.38% |
@@ -127,9 +127,9 @@
 | 125 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.53% |
 | 126 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
 | 126 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
+| 128 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.48% |
 | 128 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.48% |
-| 129 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
-| 129 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.47% |
+| 130 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.47% |
 | 131 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
 | 132 | [Tchia](games/t/tchia.md) | 0.43% |
 | 133 | [Ghostrunner](games/g/ghostrunner.md) | 0.42% |
