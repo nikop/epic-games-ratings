@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -3000,9 +3000,9 @@
       "ID": "NEW_ACHIEVEMENT_ROCKET_JUMP",
       "SetID": "l546gc",
       "Name": "Rocket Jump",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "NEW_ACHIEVEMENT_ROCKET_SCIENCE",
@@ -3081,8 +3081,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-07-11T13:59:27.7611069+00:00",
-  "LastChanged_Achievements": "2023-07-11T19:03:33.151755+00:00",
+  "LastChanged_Achievements": "2023-07-11T20:03:13.4987322+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:43.4000048+00:00",
-  "LastUpdate_Ratings": "2023-07-11T18:57:36.6555168+00:00",
-  "LastUpdate_Achievements": "2023-07-11T19:03:33.1518171+00:00"
+  "LastUpdate_Ratings": "2023-07-11T19:57:36.7155773+00:00",
+  "LastUpdate_Achievements": "2023-07-11T20:03:13.4988129+00:00"
 }

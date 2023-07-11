@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-06-28T22:00:00+00:00",
     "PcReleaseDate": "2021-05-26T11:00:00+00:00",
@@ -236,17 +236,17 @@
       "ID": "ACH_22_QUARRY",
       "SetID": "9dl0ei6",
       "Name": "Much too many stones",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_23_MILL",
       "SetID": "9dl0ei6",
       "Name": "The mill rattles by the rushing stream",
-      "Percentage": 29,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_24_STONECIRCLE",
@@ -290,8 +290,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-18T14:01:38.8947903+00:00",
-  "LastChanged_Achievements": "2023-07-11T19:04:49.7299625+00:00",
+  "LastChanged_Achievements": "2023-07-11T20:04:17.4643981+00:00",
   "LastUpdate_AppInfo": "2023-07-09T14:56:55.5664682+00:00",
-  "LastUpdate_Ratings": "2023-07-11T18:56:59.2808478+00:00",
-  "LastUpdate_Achievements": "2023-07-11T19:04:49.7299837+00:00"
+  "LastUpdate_Ratings": "2023-07-11T19:57:07.9299882+00:00",
+  "LastUpdate_Achievements": "2023-07-11T20:04:17.4644386+00:00"
 }

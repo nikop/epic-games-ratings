@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | Gymnastics Pro | 33.00% | ~3 |
 | Hurdles Pro | 33.00% | ~3 |
+| Pole Vault Pro | 33.00% | ~3 |
 | Tennis Pro | 33.00% | ~3 |
 | Watched a movie | 33.00% | ~3 |
-| Pole Vault Pro | 22.00% | ~2 |
 | Skiing Pro | 22.00% | ~2 |
 | Darts Pro | 11.00% | ~1 |
 | Diving Pro | 0.00% | ~0 |

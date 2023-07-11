@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-28T11:00:00+00:00",
     "PcReleaseDate": "2018-08-18T09:00:00+00:00",
@@ -110,9 +110,9 @@
       "ID": "POLE_VAULT_PRO",
       "SetID": "9fjm696",
       "Name": "Pole Vault Pro",
-      "Percentage": 22,
+      "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SKIING_PRO",
@@ -164,8 +164,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:51:32.0342938+00:00",
-  "LastChanged_Achievements": "2023-07-11T19:04:30.6103038+00:00",
+  "LastChanged_Achievements": "2023-07-11T20:04:02.0645469+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:04.4384477+00:00",
-  "LastUpdate_Ratings": "2023-07-11T19:00:15.1459463+00:00",
-  "LastUpdate_Achievements": "2023-07-11T19:04:30.6103169+00:00"
+  "LastUpdate_Ratings": "2023-07-11T19:59:46.7315921+00:00",
+  "LastUpdate_Achievements": "2023-07-11T20:04:02.0645576+00:00"
 }

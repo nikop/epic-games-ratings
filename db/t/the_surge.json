@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -1646,9 +1646,9 @@
       "ID": "ID_ACHIEV_06",
       "SetID": "98bke8c",
       "Name": "For the Good of Mankind",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 134
+      "UsersEstimate": 179
     },
     {
       "ID": "ID_ACHIEV_07",
@@ -2150,8 +2150,8 @@
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-07-06T14:58:32.669808+00:00",
-  "LastChanged_Achievements": "2023-07-11T19:02:10.9085178+00:00",
+  "LastChanged_Achievements": "2023-07-11T20:00:41.3685109+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:35.225015+00:00",
-  "LastUpdate_Ratings": "2023-07-11T18:58:16.3776978+00:00",
-  "LastUpdate_Achievements": "2023-07-11T19:02:10.908608+00:00"
+  "LastUpdate_Ratings": "2023-07-11T19:58:10.3581402+00:00",
+  "LastUpdate_Achievements": "2023-07-11T20:00:41.3686371+00:00"
 }

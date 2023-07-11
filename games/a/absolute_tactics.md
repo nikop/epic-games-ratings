@@ -6,13 +6,13 @@
 | ---- | ---------- | ----- |
 | A New Adventure | 50.00% | ~2 |
 | Big Money | 50.00% | ~2 |
-| The Killing Moon | 0.00% | ~0 |
+| The Killing Moon | 25.00% | ~1 |
+| The Blood of Mercy | 25.00% | ~1 |
 | Eye for an Eye | 0.00% | ~0 |
 | Bloody Vengeance | 0.00% | ~0 |
 | Glorious Loot | 0.00% | ~0 |
 | Beating the Bushes | 0.00% | ~0 |
 | Good Fortune | 0.00% | ~0 |
-| The Blood of Mercy | 0.00% | ~0 |
 | The Heart of Mercy | 0.00% | ~0 |
 | The Soul of Mercy | 0.00% | ~0 |
 | Victorious | 0.00% | ~0 |

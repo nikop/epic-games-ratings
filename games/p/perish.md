@@ -10,6 +10,7 @@
 | Lochos | 5.00% | ~161 |
 | Strength of Herakles | 5.00% | ~161 |
 | Initiate's Resolve | 5.00% | ~161 |
+| Immolator | 4.00% | ~129 |
 | Go For the Head | 4.00% | ~129 |
 | Spartan Sandal | 4.00% | ~129 |
 | Modest Earnings | 4.00% | ~129 |
@@ -19,7 +20,6 @@
 | Reign in Blood | 4.00% | ~129 |
 | Comedy and Tragedy | 3.00% | ~97 |
 | Pillars of Eternity | 3.00% | ~97 |
-| Immolator | 3.00% | ~97 |
 | War Chest | 3.00% | ~97 |
 | Chthonic Investor | 3.00% | ~97 |
 | Symbols of Heresy | 3.00% | ~97 |

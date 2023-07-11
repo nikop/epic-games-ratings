@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 428,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
     "PcReleaseDate": "2019-04-15T00:00:00+00:00",
@@ -277,9 +277,9 @@
       "Count": 72
     }
   ],
-  "EOS_Progressed": 762,
+  "EOS_Progressed": 763,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -612,6 +612,11 @@
       "Time": "2023-07-11T18:05:14.6121808+00:00",
       "NumProgressed": 762,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-11T20:05:17.5598631+00:00",
+      "NumProgressed": 763,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -711,7 +716,7 @@
       "Name": "Bridgemania",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "AchievementBuilder",
@@ -751,7 +756,7 @@
       "Name": "Dealmaker",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "AchievementDigitalAge_NAME",
@@ -983,7 +988,7 @@
       "Name": "Multilevel road",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "AchievementNeedToThink",
@@ -1007,7 +1012,7 @@
       "Name": "One way",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "AchievementOuroboros",
@@ -1127,7 +1132,7 @@
       "Name": "The Tortoise",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "AchievementToTheEyeballs",
@@ -1222,21 +1227,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 103,
+      "Progressed": 104,
       "Completed": 6
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 762,
+      "Progressed": 763,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-06-28T09:58:02.8229732+00:00",
-  "LastChanged_Achievements": "2023-07-11T19:06:04.3735461+00:00",
+  "LastChanged_Achievements": "2023-07-11T20:05:17.5598625+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:50.3569514+00:00",
-  "LastUpdate_Ratings": "2023-07-11T18:57:44.2003924+00:00",
-  "LastUpdate_Achievements": "2023-07-11T19:06:04.3736317+00:00"
+  "LastUpdate_Ratings": "2023-07-11T19:57:44.2550175+00:00",
+  "LastUpdate_Achievements": "2023-07-11T20:05:17.5599442+00:00"
 }

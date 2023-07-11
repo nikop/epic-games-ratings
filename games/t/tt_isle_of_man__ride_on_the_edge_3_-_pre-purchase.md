@@ -15,8 +15,8 @@
 | Highly Qualified | 10.00% | ~9 |
 | Nerd | 9.00% | ~8 |
 | No Room for Improvement | 9.00% | ~8 |
+| Playing God | 9.00% | ~8 |
 | Upgradeaholic | 7.00% | ~7 |
-| Playing God | 7.00% | ~7 |
 | Tailor-Made | 6.00% | ~6 |
 | Seven-League Boots | 5.00% | ~5 |
 | POI Hunter | 4.00% | ~4 |

@@ -43,6 +43,7 @@ Rating: 4.45 (Ranked 622)
 | From Paris with Love | 0.50% | ~16 |
 | Burn after reading | 0.50% | ~16 |
 | It'll Buff Right Out | 0.50% | ~16 |
+| Road Rage | 0.50% | ~16 |
 | Don't hold your breath | 0.50% | ~16 |
 | Operation Foxley | 0.50% | ~16 |
 | Shipbreaker | 0.50% | ~16 |
@@ -50,7 +51,6 @@ Rating: 4.45 (Ranked 622)
 | Strategist | 0.40% | ~13 |
 | Souvenir hunter | 0.40% | ~13 |
 | Eagle Eyed | 0.40% | ~13 |
-| Road Rage | 0.40% | ~13 |
 | Last Resort | 0.40% | ~13 |
 | Siegebreaker | 0.40% | ~13 |
 | Ghost of Falaise | 0.40% | ~13 |

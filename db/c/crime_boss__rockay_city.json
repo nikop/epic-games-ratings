@@ -2466,9 +2466,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 68748,
+  "EOS_Progressed": 68749,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 420,
+  "EOS_NewPlayers": 418,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -11081,6 +11081,11 @@
       "Time": "2023-07-11T19:04:43.8860173+00:00",
       "NumProgressed": 68748,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-07-11T20:04:12.6930659+00:00",
+      "NumProgressed": 68749,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 37,
@@ -11236,7 +11241,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 44686
+      "UsersEstimate": 44687
     },
     {
       "ID": "ACH_0210",
@@ -11308,7 +11313,7 @@
       "Name": "Case Closed",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 23374
+      "UsersEstimate": 23375
     },
     {
       "ID": "ACH_0420",
@@ -11316,7 +11321,7 @@
       "Name": "King of the Hill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 23374
+      "UsersEstimate": 23375
     },
     {
       "ID": "ACH_0430",
@@ -11387,7 +11392,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 68748,
+      "Progressed": 68749,
       "Completed": 36
     }
   ],
@@ -11395,8 +11400,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-07-10T22:01:16.5103995+00:00",
-  "LastChanged_Achievements": "2023-07-11T19:04:43.8860167+00:00",
+  "LastChanged_Achievements": "2023-07-11T20:04:12.6930654+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:23.2557502+00:00",
-  "LastUpdate_Ratings": "2023-07-11T19:00:30.4511932+00:00",
-  "LastUpdate_Achievements": "2023-07-11T19:04:43.8861098+00:00"
+  "LastUpdate_Ratings": "2023-07-11T19:59:58.7202092+00:00",
+  "LastUpdate_Achievements": "2023-07-11T20:04:12.6931595+00:00"
 }

@@ -11,10 +11,10 @@
 | Storm Traveller | 74.00% | ~40 |
 | Fashion Connoisseur | 72.00% | ~39 |
 | Arms Mechanic | 65.00% | ~35 |
+| Flower Thief | 63.00% | ~34 |
 | Beginner Artificer | 61.00% | ~33 |
-| Flower Thief | 61.00% | ~33 |
 | Apostle of Flame | 61.00% | ~33 |
-| Beginner Cook | 57.00% | ~31 |
+| Beginner Cook | 59.00% | ~32 |
 | Seal Breaker | 52.00% | ~28 |
 | Giant Lizard Killer | 46.00% | ~25 |
 | Handyman | 46.00% | ~25 |
@@ -28,8 +28,8 @@
 | Lethal Blade Mantis Killer | 35.00% | ~19 |
 | Squeaky Clean | 35.00% | ~19 |
 | Kind Adventurer | 35.00% | ~19 |
+| Master Artificer | 33.00% | ~18 |
 | Mermaid Killer | 31.00% | ~17 |
-| Master Artificer | 31.00% | ~17 |
 | Face Slapper | 30.00% | ~16 |
 | Cave Master | 28.00% | ~15 |
 | Master Cook | 22.00% | ~12 |

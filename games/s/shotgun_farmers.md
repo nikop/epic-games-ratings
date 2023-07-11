@@ -4,39 +4,39 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 69.00% | ~130 |
-| Survivor | 50.00% | ~70 |
+| Seeds of War | 68.00% | ~129 |
 | Aspairagus | 50.00% | ~70 |
 | Triple Kill | 49.00% | ~93 |
+| Survivor | 49.00% | ~69 |
 | First Blood | 46.00% | ~87 |
-| Cornivore | 44.00% | ~83 |
-| I Believe I Can Fly | 42.00% | ~79 |
-| No Asperascope | 41.00% | ~77 |
-| Early Survivor | 38.00% | ~53 |
-| No Diggity | 37.00% | ~51 |
+| Cornivore | 44.00% | ~84 |
+| I Believe I Can Fly | 42.00% | ~80 |
+| No Asperascope | 41.00% | ~78 |
+| Early Survivor | 37.00% | ~52 |
+| No Diggity | 37.00% | ~52 |
 | Amateur Survivor | 26.00% | ~36 |
 | Bouncemato | 23.00% | ~32 |
 | 10K | 21.00% | ~40 |
-| 15K | 20.00% | ~38 |
-| Drinking Problem | 19.00% | ~36 |
-| Grave Digger | 19.00% | ~26 |
+| 15K | 19.00% | ~36 |
+| Drinking Problem | 18.00% | ~34 |
+| Grave Digger | 18.00% | ~25 |
 | Professional Survivor | 17.00% | ~24 |
-| Quick-Draw Pod | 15.00% | ~21 |
+| Quick-Draw Pod | 16.00% | ~22 |
 | This Is My Boomstick | 13.00% | ~18 |
 | Skin Of Your Teeth | 12.00% | ~23 |
 | Carrocketeer | 11.00% | ~21 |
 | Pork Chop Express | 10.00% | ~19 |
 | Eggtraordinary | 10.00% | ~19 |
-| Oh My Gourd | 10.00% | ~14 |
 | Summers Here | 10.00% | ~14 |
 | Getting Started | 9.00% | ~17 |
+| Oh My Gourd | 9.00% | ~13 |
 | Fresh Pancake | 8.00% | ~15 |
 | Perfect | 8.00% | ~11 |
 | Quit Horsin' Around | 7.00% | ~13 |
 | Expert Survivor | 7.00% | ~10 |
 | Pyromaniac | 7.00% | ~10 |
 | Quadsparagus | 6.00% | ~8 |
-| Bring Home The Bacon | 5.00% | ~9 |
+| Bring Home The Bacon | 5.00% | ~10 |
 | Early Bird | 4.00% | ~8 |
 | Master Survivor | 4.00% | ~6 |
 | Chick Magnet | 3.00% | ~6 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 189 (Ranked 272)  
+Progressed: 190 (Ranked 272)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-08 | 141 | 0 |
 | 2023-07-09 | 160 | 0 |
 | 2023-07-10 | 181 | 0 |
-| 2023-07-11 | 189 | 0 |
+| 2023-07-11 | 190 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

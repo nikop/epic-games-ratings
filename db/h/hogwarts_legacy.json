@@ -4786,10 +4786,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 38945,
       "NumberOfAwardsMax": 20861
+    },
+    {
+      "Time": "2023-07-11T19:57:35.1153736+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 38951,
+      "NumberOfAwardsMax": 20861
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 38945,
+  "NumberOfAwards": 38951,
   "NumberOfAwardsMax": 20861,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4827,13 +4833,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 882
+      "Count": 885
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 862
+      "Count": 865
     },
     {
       "Text": "This game is Relaxing",
@@ -4866,9 +4872,9 @@
       "Count": 551
     }
   ],
-  "EOS_Progressed": 286808,
+  "EOS_Progressed": 286816,
   "EOS_Completed": 423,
-  "EOS_NewPlayers": 2132,
+  "EOS_NewPlayers": 2113,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -13651,6 +13657,11 @@
       "Time": "2023-07-11T19:03:46.495341+00:00",
       "NumProgressed": 286808,
       "NumCompleted": 423
+    },
+    {
+      "Time": "2023-07-11T20:03:24.3500175+00:00",
+      "NumProgressed": 286816,
+      "NumCompleted": 423
     }
   ],
   "TotalAchievements": 45,
@@ -13662,7 +13673,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 31549
+      "UsersEstimate": 31550
     },
     {
       "ID": "PFA_10",
@@ -13702,7 +13713,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 5,
       "XP": 70,
-      "UsersEstimate": 14340
+      "UsersEstimate": 14341
     },
     {
       "ID": "PFA_15",
@@ -13710,7 +13721,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 17208
+      "UsersEstimate": 17209
     },
     {
       "ID": "PFA_16",
@@ -13726,7 +13737,7 @@
       "Name": "Beast Friends",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 17208
+      "UsersEstimate": 17209
     },
     {
       "ID": "PFA_18",
@@ -13734,7 +13745,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 17208
+      "UsersEstimate": 17209
     },
     {
       "ID": "PFA_19",
@@ -13742,7 +13753,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 17208
+      "UsersEstimate": 17209
     },
     {
       "ID": "PFA_2",
@@ -13798,7 +13809,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11472
+      "UsersEstimate": 11473
     },
     {
       "ID": "PFA_26",
@@ -13830,7 +13841,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11472
+      "UsersEstimate": 11473
     },
     {
       "ID": "PFA_3",
@@ -13902,7 +13913,7 @@
       "Name": "Merlin\u0027s Beard!",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 2294
+      "UsersEstimate": 2295
     },
     {
       "ID": "PFA_38",
@@ -13942,7 +13953,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11472
+      "UsersEstimate": 11473
     },
     {
       "ID": "PFA_42",
@@ -13950,7 +13961,7 @@
       "Name": "Raising Expectations",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 11472
+      "UsersEstimate": 11473
     },
     {
       "ID": "PFA_43",
@@ -13966,7 +13977,7 @@
       "Name": "The Spell Master",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 17208
+      "UsersEstimate": 17209
     },
     {
       "ID": "PFA_45",
@@ -13990,7 +14001,7 @@
       "Name": "First Class Student",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 28681
+      "UsersEstimate": 28682
     },
     {
       "ID": "PFA_7",
@@ -13998,7 +14009,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 28681
+      "UsersEstimate": 28682
     },
     {
       "ID": "PFA_8",
@@ -14021,16 +14032,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 286808,
+      "Progressed": 286816,
       "Completed": 423
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-07-11T17:57:31.4322404+00:00",
-  "LastChanged_Achievements": "2023-07-11T19:03:46.4953404+00:00",
+  "LastChanged": "2023-07-11T19:57:35.1153734+00:00",
+  "LastChanged_Achievements": "2023-07-11T20:03:24.3500167+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:39.7952275+00:00",
-  "LastUpdate_Ratings": "2023-07-11T18:57:34.6580051+00:00",
-  "LastUpdate_Achievements": "2023-07-11T19:03:46.4954304+00:00"
+  "LastUpdate_Ratings": "2023-07-11T19:57:35.1153742+00:00",
+  "LastUpdate_Achievements": "2023-07-11T20:03:24.3502151+00:00"
 }

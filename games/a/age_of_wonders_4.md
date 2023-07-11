@@ -39,9 +39,9 @@ Rating: 4.62 (Ranked 346)
 | The Goddess of Nature | 1.00% | ~50 |
 | Eternal Lord | 1.00% | ~50 |
 | The Eternal Court | 1.00% | ~50 |
+| Jack of All Tomes | 1.00% | ~50 |
 | Duality | 1.00% | ~50 |
 | Crimson Caldera | 0.90% | ~45 |
-| Jack of All Tomes | 0.90% | ~45 |
 | Grexolis | 0.80% | ~40 |
 | One for All, All for One | 0.80% | ~40 |
 | Pruning for Progress | 0.60% | ~30 |

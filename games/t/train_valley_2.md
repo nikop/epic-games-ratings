@@ -6,7 +6,7 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 12.00% | ~91 |
+| Dealmaker | 12.00% | ~92 |
 | Full garage | 11.00% | ~84 |
 | Individual delivery | 9.00% | ~69 |
 | Juggler | 9.00% | ~69 |
@@ -23,12 +23,12 @@ Number of Ratings: 87  (23.09.2022)
 | Critical care | 5.00% | ~38 |
 | Need to think | 5.00% | ~38 |
 | Steam Age | 5.00% | ~38 |
-| Bridgemania | 4.00% | ~30 |
+| Bridgemania | 4.00% | ~31 |
 | Miner | 4.00% | ~4 |
-| Multilevel road | 4.00% | ~30 |
-| One way | 4.00% | ~30 |
+| Multilevel road | 4.00% | ~31 |
+| One way | 4.00% | ~31 |
 | Pink Ruby | 4.00% | ~4 |
-| The Tortoise | 4.00% | ~30 |
+| The Tortoise | 4.00% | ~31 |
 | Trapiche Emerald | 4.00% | ~4 |
 | Beginner | 3.00% | ~23 |
 | Jewelry accuracy | 3.00% | ~23 |
@@ -82,7 +82,7 @@ Number of Ratings: 87  (23.09.2022)
 | Gemologist | 0.00% | ~0 |
 | Jeweller | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 762 (Ranked 195)  
+Progressed: 763 (Ranked 195)  
 Completed: 1 (0.13%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 1 (0.13%) (Ranked 178)
 | 2023-07-08 | 757 | 1 |
 | 2023-07-09 | 758 | 1 |
 | 2023-07-10 | 761 | 1 |
-| 2023-07-11 | 762 | 1 |
+| 2023-07-11 | 763 | 1 |
 ## Awards
 Max (Challenging Puzzles): 72  (Ranked 370)  
 Sum: 72 (Ranked 428)  

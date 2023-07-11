@@ -3,12 +3,12 @@
   "Name": "Jotun: Valhalla Edition",
   "ProductSlug": "jotun",
   "Ranking_Rating": 673,
-  "Ranking_Popularity": 339,
+  "Ranking_Popularity": 340,
   "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 321,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2019-12-06T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -490,6 +490,6 @@
   "FirstSeen": "2022-07-22T20:29:06.202912+00:00",
   "LastChanged": "2023-05-02T18:57:42.2604241+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:08.3490334+00:00",
-  "LastUpdate_Ratings": "2023-07-11T18:57:55.6251613+00:00",
-  "LastUpdate_Achievements": "2023-07-11T19:05:14.7448189+00:00"
+  "LastUpdate_Ratings": "2023-07-11T19:57:53.6935887+00:00",
+  "LastUpdate_Achievements": "2023-07-11T20:04:37.6897372+00:00"
 }

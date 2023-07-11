@@ -9,7 +9,7 @@ Number of Ratings: 706  (23.09.2022)
 | Get A Room | 73.00% | ~3,301 |
 | Having A Field Day | 73.00% | ~3,301 |
 | Reap What You Sow | 70.00% | ~3,165 |
-| The First Day | 66.00% | ~2,985 |
+| The First Day | 67.00% | ~3,030 |
 | Green Thumb | 65.00% | ~2,939 |
 | Novice Researcher | 64.00% | ~2,894 |
 | Putting Food on the Table | 60.00% | ~2,713 |
