@@ -1,30 +1,30 @@
 # Chess Ultra
 [Store](https://store.epicgames.com/en-US/p/chess-ultra-91bba3)  
 [View Rawdata](../../db/c/chess_ultra.json)  
-Rating: 4.26 (Ranked 801)  
+Rating: 4.26 (Ranked 802)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 69.00% | ~131,965 |
-| Doubled Pawn | 55.00% | ~105,190 |
-| Check | 54.00% | ~103,277 |
-| Absolute pin | 46.00% | ~87,977 |
-| Promotion | 30.00% | ~57,376 |
-| Checkmate | 29.00% | ~55,464 |
-| O-O | 23.00% | ~43,988 |
-| Spanish Bishop | 20.00% | ~38,251 |
-| Queen Sacrifice | 19.00% | ~36,338 |
-| Stalemate | 17.00% | ~32,513 |
-| O-O-O | 13.00% | ~24,863 |
-| Octopus | 12.00% | ~22,950 |
-| Stranger Danger | 12.00% | ~22,950 |
-| En Passant | 8.00% | ~15,300 |
-| Double Check | 7.00% | ~13,388 |
-| Piece Collector | 6.00% | ~11,475 |
-| ELO | 5.00% | ~9,563 |
-| Family Fork | 5.00% | ~9,563 |
-| Friendly Fire | 5.00% | ~9,563 |
-| Underpromote | 4.00% | ~7,650 |
+| Chop Wood | 69.00% | ~131,978 |
+| Doubled Pawn | 55.00% | ~105,200 |
+| Check | 54.00% | ~103,287 |
+| Absolute pin | 46.00% | ~87,986 |
+| Promotion | 30.00% | ~57,382 |
+| Checkmate | 29.00% | ~55,469 |
+| O-O | 23.00% | ~43,993 |
+| Spanish Bishop | 20.00% | ~38,255 |
+| Queen Sacrifice | 19.00% | ~36,342 |
+| Stalemate | 17.00% | ~32,516 |
+| O-O-O | 13.00% | ~24,865 |
+| Octopus | 12.00% | ~22,953 |
+| Stranger Danger | 12.00% | ~22,953 |
+| En Passant | 8.00% | ~15,302 |
+| Double Check | 7.00% | ~13,389 |
+| Piece Collector | 6.00% | ~11,476 |
+| ELO | 5.00% | ~9,564 |
+| Family Fork | 5.00% | ~9,564 |
+| Friendly Fire | 5.00% | ~9,564 |
+| Underpromote | 4.00% | ~7,651 |
 | ELO ELO | 3.00% | ~5,738 |
 | Blind Pigs | 2.00% | ~3,825 |
 | ELO ELO ELO | 2.00% | ~3,825 |
@@ -44,7 +44,7 @@ Rating: 4.26 (Ranked 801)
 | Tournament Master | 0.10% | ~191 |
 | Tournament Pro | 0.10% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 191,254 (Ranked 56)  
+Progressed: 191,273 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 2 (0.00%) (Ranked 237)
 | 2023-07-08 | 190,410 | 2 |
 | 2023-07-09 | 190,748 | 2 |
 | 2023-07-10 | 191,024 | 2 |
-| 2023-07-11 | 191,254 | 2 |
+| 2023-07-11 | 191,273 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

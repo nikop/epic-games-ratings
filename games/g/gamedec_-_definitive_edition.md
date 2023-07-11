@@ -1,22 +1,22 @@
 # Gamedec - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/gamedec)  
 [View Rawdata](../../db/g/gamedec_-_definitive_edition.json)  
-Rating: 4.31 (Ranked 770)  
+Rating: 4.31 (Ranked 771)  
 Number of Ratings: 33  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~66,290 |
+| I will finish what you started | 28.00% | ~66,291 |
 | Powergamer | 27.00% | ~63,923 |
 | Barely scratched the surface | 25.00% | ~59,188 |
-| Write that down | 24.00% | ~56,820 |
+| Write that down | 24.00% | ~56,821 |
 | Guns, lots of guns | 12.00% | ~28,410 |
-| Collector | 11.00% | ~26,042 |
+| Collector | 11.00% | ~26,043 |
 | Elementary! | 9.00% | ~21,308 |
 | Pumpkin Jack | 8.00% | ~18,940 |
 | Wake up! | 8.00% | ~18,940 |
-| It's honest work | 7.00% | ~16,572 |
-| Griever | 7.00% | ~16,572 |
+| It's honest work | 7.00% | ~16,573 |
+| Griever | 7.00% | ~16,573 |
 | Me smart | 6.00% | ~14,205 |
 | Good listener | 5.00% | ~11,838 |
 | Trash compactor | 5.00% | ~11,838 |
@@ -24,8 +24,8 @@ Number of Ratings: 33  (23.09.2022)
 | BOY! | 4.00% | ~9,470 |
 | Ka-ching! | 4.00% | ~9,470 |
 | So you like to read? | 4.00% | ~9,470 |
-| I like to sniff around | 3.00% | ~7,102 |
-| Mind reader | 3.00% | ~7,102 |
+| I like to sniff around | 3.00% | ~7,103 |
+| Mind reader | 3.00% | ~7,103 |
 | Gentleman's classic | 2.00% | ~4,735 |
 | Hoarder | 2.00% | ~4,735 |
 | Is that a rift? | 2.00% | ~4,735 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~474 |
 | Memory 5 | 0.10% | ~237 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,750 (Ranked 45)  
+Progressed: 236,753 (Ranked 45)  
 Completed: 7 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 7 (0.00%) (Ranked 237)
 | 2023-07-08 | 236,274 | 7 |
 | 2023-07-09 | 236,467 | 7 |
 | 2023-07-10 | 236,612 | 7 |
-| 2023-07-11 | 236,750 | 7 |
+| 2023-07-11 | 236,753 | 7 |
 ## Awards
 Max (Character Customization): 74  (Ranked 363)  
 Sum: 74 (Ranked 425)  

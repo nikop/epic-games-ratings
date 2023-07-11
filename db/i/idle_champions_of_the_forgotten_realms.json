@@ -2,7 +2,7 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 901,
+  "Ranking_Rating": 902,
   "Ranking_Popularity": 65,
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 52,
@@ -4856,10 +4856,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 30484,
       "NumberOfAwardsMax": 5025
+    },
+    {
+      "Time": "2023-07-11T22:58:48.2156236+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30485,
+      "NumberOfAwardsMax": 5025
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30484,
+  "NumberOfAwards": 30485,
   "NumberOfAwardsMax": 5025,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4897,7 +4903,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4000
+      "Count": 4001
     },
     {
       "Text": "This game has Playful Visuals",
@@ -4906,9 +4912,9 @@
       "Count": 3295
     }
   ],
-  "EOS_Progressed": 210270,
+  "EOS_Progressed": 210283,
   "EOS_Completed": 2046,
-  "EOS_NewPlayers": 4023,
+  "EOS_NewPlayers": 4003,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -13656,6 +13662,11 @@
       "Time": "2023-07-11T22:05:34.668624+00:00",
       "NumProgressed": 210270,
       "NumCompleted": 2046
+    },
+    {
+      "Time": "2023-07-11T23:05:14.449709+00:00",
+      "NumProgressed": 210283,
+      "NumCompleted": 2046
     }
   ],
   "TotalAchievements": 503,
@@ -14531,7 +14542,7 @@
       "Name": "Were-verpowered",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 12616
+      "UsersEstimate": 12617
     },
     {
       "ID": "objective_completed_1203",
@@ -14779,7 +14790,7 @@
       "Name": "The Forbidden City",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1892
+      "UsersEstimate": 1893
     },
     {
       "ID": "objective_completed_15",
@@ -14819,7 +14830,7 @@
       "Name": "Captured!",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1892
+      "UsersEstimate": 1893
     },
     {
       "ID": "objective_completed_155",
@@ -14851,7 +14862,7 @@
       "Name": "Low Initiative",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4205
+      "UsersEstimate": 4206
     },
     {
       "ID": "objective_completed_164",
@@ -14891,7 +14902,7 @@
       "Name": "Building Trust",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4205
+      "UsersEstimate": 4206
     },
     {
       "ID": "objective_completed_17",
@@ -14899,7 +14910,7 @@
       "Name": "March of the Undead",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4205
+      "UsersEstimate": 4206
     },
     {
       "ID": "objective_completed_170",
@@ -14907,7 +14918,7 @@
       "Name": "Wisdom Check",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1892
+      "UsersEstimate": 1893
     },
     {
       "ID": "objective_completed_171",
@@ -15003,7 +15014,7 @@
       "Name": "No Time To Rest",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4205
+      "UsersEstimate": 4206
     },
     {
       "ID": "objective_completed_208",
@@ -15011,7 +15022,7 @@
       "Name": "The Mists of Ravenloft",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1892
+      "UsersEstimate": 1893
     },
     {
       "ID": "objective_completed_209",
@@ -15307,7 +15318,7 @@
       "Name": "Attack on the Manor",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1892
+      "UsersEstimate": 1893
     },
     {
       "ID": "objective_completed_284",
@@ -15339,7 +15350,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 31540
+      "UsersEstimate": 31542
     },
     {
       "ID": "objective_completed_34",
@@ -15347,7 +15358,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 14719
+      "UsersEstimate": 14720
     },
     {
       "ID": "objective_completed_35",
@@ -15531,7 +15542,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 14719
+      "UsersEstimate": 14720
     },
     {
       "ID": "objective_completed_40",
@@ -15539,7 +15550,7 @@
       "Name": "Useless Allies",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4205
+      "UsersEstimate": 4206
     },
     {
       "ID": "objective_completed_400",
@@ -15969,9 +15980,9 @@
       "ID": "objective_completed_561",
       "SetID": "cc37lbc",
       "Name": "Veteran Brigade",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 210
+      "UsersEstimate": 421
     },
     {
       "ID": "objective_completed_562",
@@ -16155,7 +16166,7 @@
       "Name": "Running of the Saurs",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4205
+      "UsersEstimate": 4206
     },
     {
       "ID": "objective_completed_590",
@@ -16811,7 +16822,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 23130
+      "UsersEstimate": 23131
     },
     {
       "ID": "objective_completed_70",
@@ -16843,7 +16854,7 @@
       "Name": "Waterdeep Detours",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4205
+      "UsersEstimate": 4206
     },
     {
       "ID": "objective_completed_75",
@@ -16875,7 +16886,7 @@
       "Name": "Underdeep Cartography",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4205
+      "UsersEstimate": 4206
     },
     {
       "ID": "objective_completed_8",
@@ -16891,7 +16902,7 @@
       "Name": "Overdue Rendezvous",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4205
+      "UsersEstimate": 4206
     },
     {
       "ID": "objective_completed_802",
@@ -17539,7 +17550,7 @@
       "Name": "The Templar\u0027s Camp",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4205
+      "UsersEstimate": 4206
     },
     {
       "ID": "objective_completed_95",
@@ -17690,21 +17701,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 176544,
+      "Progressed": 176557,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 210270,
+      "Progressed": 210283,
       "Completed": 2046
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-07-11T20:58:09.2010426+00:00",
-  "LastChanged_Achievements": "2023-07-11T22:05:34.6686235+00:00",
+  "LastChanged": "2023-07-11T22:58:48.2156233+00:00",
+  "LastChanged_Achievements": "2023-07-11T23:05:14.4497081+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:43.9043947+00:00",
-  "LastUpdate_Ratings": "2023-07-11T21:58:54.6390084+00:00",
-  "LastUpdate_Achievements": "2023-07-11T22:05:34.6712651+00:00"
+  "LastUpdate_Ratings": "2023-07-11T22:58:48.2156245+00:00",
+  "LastUpdate_Achievements": "2023-07-11T23:05:14.4527752+00:00"
 }

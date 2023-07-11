@@ -1,14 +1,14 @@
 # Prison Architect
 [Store](https://store.epicgames.com/en-US/p/prison-architect)  
 [View Rawdata](../../db/p/prison_architect.json)  
-Rating: 4.61 (Ranked 362)  
+Rating: 4.61 (Ranked 363)  
 Number of Ratings: 4,491  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 26.00% | ~38,400 |
-| Get Busy Living | 17.00% | ~25,107 |
-| Samuel Norton | 9.00% | ~13,292 |
+| Stone Walls | 26.00% | ~38,403 |
+| Get Busy Living | 17.00% | ~25,110 |
+| Samuel Norton | 9.00% | ~13,293 |
 | Spare The Rod | 5.00% | ~7,385 |
 | I May Have Found A Way Out Of Here | 4.00% | ~5,908 |
 | Don't Put Me In The Dark | 3.00% | ~4,431 |
@@ -17,13 +17,13 @@ Number of Ratings: 4,491  (23.09.2022)
 | Throw The Book At Them | 2.00% | ~2,954 |
 | D.B. Cooper | 1.00% | ~1,477 |
 | Reformation | 0.60% | ~886 |
-| Crowd Control | 0.50% | ~738 |
+| Crowd Control | 0.50% | ~739 |
 | Freedom | 0.40% | ~591 |
 | Confined | 0.40% | ~591 |
 | It's Not What You Know... | 0.10% | ~148 |
 | ... It's What You Can Prove | 0.10% | ~148 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 147,691 (Ranked 59)  
+Progressed: 147,704 (Ranked 59)  
 Completed: 5 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,14 +105,14 @@ Completed: 5 (0.00%) (Ranked 237)
 | 2023-07-08 | 146,487 | 5 |
 | 2023-07-09 | 146,946 | 5 |
 | 2023-07-10 | 147,345 | 5 |
-| 2023-07-11 | 147,691 | 5 |
+| 2023-07-11 | 147,704 | 5 |
 ## Awards
-Max (Extremely Fun): 454  (Ranked 199)  
-Sum: 3,537 (Ranked 148)  
+Max (Extremely Fun): 456  (Ranked 199)  
+Sum: 3,539 (Ranked 148)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
-| This game is Extremely Fun | 454 |
+| This game is Extremely Fun | 456 |
 | This game is Great for Beginners | 437 |
 | This game is Highly Recommended | 435 |
 | This game has Quickly Understood Controls | 415 |
@@ -297,4 +297,4 @@ Diff (max vs sum): 51
 | 2023-07-08 | 4.61 | - | 454 | 3,521 |
 | 2023-07-09 | 4.61 | - | 454 | 3,526 |
 | 2023-07-10 | 4.61 | - | 454 | 3,530 |
-| 2023-07-11 | 4.61 | - | 454 | 3,537 |
+| 2023-07-11 | 4.61 | - | 456 | 3,539 |

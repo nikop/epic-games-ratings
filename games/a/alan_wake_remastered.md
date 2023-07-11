@@ -1,22 +1,22 @@
 # Alan Wake Remastered
 [Store](https://store.epicgames.com/en-US/p/alan-wake-remastered)  
 [View Rawdata](../../db/a/alan_wake_remastered.json)  
-Rating: 4.55 (Ranked 478)  
+Rating: 4.55 (Ranked 479)  
 Number of Ratings: 524  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 34.00% | ~19,454 |
+| Follow the Light | 34.00% | ~19,455 |
 | Let There Be Light | 27.00% | ~15,449 |
 | Float Like a Butterfly | 26.00% | ~14,877 |
 | Nordic Walking | 21.00% | ~12,016 |
 | Bright Falls' Finest | 20.00% | ~11,444 |
-| Under a Thin Layer of Skin | 18.00% | ~10,299 |
+| Under a Thin Layer of Skin | 18.00% | ~10,300 |
 | Park Ranger | 15.00% | ~8,583 |
 | Paging Mr. Wake | 15.00% | ~8,583 |
 | Back! Back, I Say! | 14.00% | ~8,011 |
 | Finders Keepers | 14.00% | ~8,011 |
-| Damn Good Cup of Coffee | 13.00% | ~7,438 |
+| Damn Good Cup of Coffee | 13.00% | ~7,439 |
 | Wheels Within Wheels | 12.00% | ~6,866 |
 | They're Heeeeeere! | 12.00% | ~6,866 |
 | Sound and Fury | 12.00% | ~6,866 |
@@ -33,7 +33,7 @@ Number of Ratings: 524  (23.09.2022)
 | The Lady of the Light | 9.00% | ~5,150 |
 | Two For the Price of One | 9.00% | ~5,150 |
 | Energized! | 9.00% | ~5,150 |
-| Right of Way | 8.00% | ~4,577 |
+| Right of Way | 8.00% | ~4,578 |
 | A Friend in Need | 8.00% | ~1,655 |
 | Tornado Wrangler | 7.00% | ~4,005 |
 | What Light Through Yonder Window | 7.00% | ~4,005 |
@@ -74,8 +74,8 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~57 |
 | No Punctuation | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,218 (Ranked 81)  
-Completed: 57 (0.10%) (Ranked 184)  
+Progressed: 57,220 (Ranked 81)  
+Completed: 57 (0.10%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -156,7 +156,7 @@ Completed: 57 (0.10%) (Ranked 184)
 | 2023-07-08 | 57,062 | 57 |
 | 2023-07-09 | 57,124 | 57 |
 | 2023-07-10 | 57,171 | 57 |
-| 2023-07-11 | 57,218 | 57 |
+| 2023-07-11 | 57,220 | 57 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

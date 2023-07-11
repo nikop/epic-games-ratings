@@ -2,12 +2,12 @@
   "ID": "4046b000e6b0477ea639ee07e28db3d0",
   "Name": "Hello Neighbor 2",
   "ProductSlug": "hello-neighbor-2",
-  "Ranking_Rating": 622,
+  "Ranking_Rating": 623,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 45,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -354,9 +354,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2569,
+  "EOS_Progressed": 2570,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.89,
   "EosHistory": [
@@ -1844,6 +1844,11 @@
       "Time": "2023-07-11T21:04:09.3552365+00:00",
       "NumProgressed": 2569,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-07-11T23:04:56.098825+00:00",
+      "NumProgressed": 2570,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 14,
@@ -1855,7 +1860,7 @@
       "Name": "Ancient Curse",
       "Percentage": 28,
       "XP": 80,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -1959,14 +1964,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 75,
       "XP": 35,
-      "UsersEstimate": 1927
+      "UsersEstimate": 1928
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2569,
+      "Progressed": 2570,
       "Completed": 100
     }
   ],
@@ -1974,8 +1979,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-07-02T20:01:16.6679969+00:00",
-  "LastChanged_Achievements": "2023-07-11T22:05:16.7343223+00:00",
+  "LastChanged_Achievements": "2023-07-11T23:04:56.0988244+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:49.0605246+00:00",
-  "LastUpdate_Ratings": "2023-07-11T22:01:44.4062619+00:00",
-  "LastUpdate_Achievements": "2023-07-11T22:05:16.7343471+00:00"
+  "LastUpdate_Ratings": "2023-07-11T23:01:39.0385129+00:00",
+  "LastUpdate_Achievements": "2023-07-11T23:04:56.0988474+00:00"
 }

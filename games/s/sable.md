@@ -1,59 +1,59 @@
 # Sable
 [Store](https://store.epicgames.com/en-US/p/sable)  
 [View Rawdata](../../db/s/sable.json)  
-Rating: 4.52 (Ranked 521)  
+Rating: 4.52 (Ranked 522)  
 Number of Ratings: 43  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~25,891 |
-| Just The Two of Us | 33.00% | ~25,130 |
-| Up On High | 25.00% | ~19,038 |
-| Under The Hood | 25.00% | ~19,038 |
-| Got Your Nose | 24.00% | ~18,276 |
-| The Gift of Gab | 24.00% | ~18,276 |
-| Wrapping Up | 22.00% | ~16,753 |
-| More Than A Box Of Sand | 18.00% | ~13,707 |
-| The Dunboyne | 17.00% | ~12,946 |
-| Badge Hobbyist | 17.00% | ~12,946 |
-| Chum Novice | 16.00% | ~12,184 |
-| Silver-Tongued Sable | 16.00% | ~12,184 |
-| Sticky Paws | 16.00% | ~12,184 |
-| Bubble Up | 16.00% | ~12,184 |
-| Thread The Needle | 15.00% | ~11,423 |
-| Power to the People | 14.00% | ~10,661 |
-| Take That! | 13.00% | ~9,900 |
-| Nesting Giant | 13.00% | ~9,900 |
-| Treasure Tracker | 13.00% | ~9,900 |
-| Big Spender | 13.00% | ~9,900 |
-| Badge Collector | 12.00% | ~9,138 |
-| Quite The Catch | 12.00% | ~9,138 |
-| Rowleys Way | 11.00% | ~8,377 |
-| The Machinist Mask | 10.00% | ~7,615 |
-| The Cartographer Mask | 10.00% | ~7,615 |
-| Balfron Connection | 10.00% | ~7,615 |
-| Ceiling Of Stars | 10.00% | ~7,615 |
-| Playing Dress Up | 10.00% | ~7,615 |
+| Simoon | 34.00% | ~25,894 |
+| Just The Two of Us | 33.00% | ~25,133 |
+| Up On High | 25.00% | ~19,040 |
+| Under The Hood | 25.00% | ~19,040 |
+| Got Your Nose | 24.00% | ~18,278 |
+| The Gift of Gab | 24.00% | ~18,278 |
+| Wrapping Up | 22.00% | ~16,755 |
+| More Than A Box Of Sand | 18.00% | ~13,709 |
+| The Dunboyne | 17.00% | ~12,947 |
+| Badge Hobbyist | 17.00% | ~12,947 |
+| Chum Novice | 16.00% | ~12,186 |
+| Silver-Tongued Sable | 16.00% | ~12,186 |
+| Sticky Paws | 16.00% | ~12,186 |
+| Bubble Up | 16.00% | ~12,186 |
+| Thread The Needle | 15.00% | ~11,424 |
+| Power to the People | 14.00% | ~10,662 |
+| Take That! | 13.00% | ~9,901 |
+| Nesting Giant | 13.00% | ~9,901 |
+| Treasure Tracker | 13.00% | ~9,901 |
+| Big Spender | 13.00% | ~9,901 |
+| Badge Collector | 12.00% | ~9,139 |
+| Quite The Catch | 12.00% | ~9,139 |
+| Rowleys Way | 11.00% | ~8,378 |
+| The Machinist Mask | 10.00% | ~7,616 |
+| The Cartographer Mask | 10.00% | ~7,616 |
+| Balfron Connection | 10.00% | ~7,616 |
+| Ceiling Of Stars | 10.00% | ~7,616 |
+| Playing Dress Up | 10.00% | ~7,616 |
 | Many Different Faces | 9.00% | ~6,854 |
 | Trellick's Pillar | 9.00% | ~6,854 |
 | Centre Of Brunswick | 9.00% | ~6,854 |
 | Bike Collector | 9.00% | ~6,854 |
 | Not That Kind Of Gliding | 9.00% | ~6,854 |
-| The Scrapper Mask | 8.00% | ~6,092 |
-| Shadow Of Neave | 8.00% | ~6,092 |
-| Fragile Goods | 8.00% | ~6,092 |
-| Glider on the Storm | 8.00% | ~6,092 |
-| Squeeze One Out | 8.00% | ~6,092 |
-| Dune Rider | 8.00% | ~6,092 |
+| The Scrapper Mask | 8.00% | ~6,093 |
+| Shadow Of Neave | 8.00% | ~6,093 |
+| Fragile Goods | 8.00% | ~6,093 |
+| Glider on the Storm | 8.00% | ~6,093 |
+| Squeeze One Out | 8.00% | ~6,093 |
+| Dune Rider | 8.00% | ~6,093 |
 | Amateur Historian | 7.00% | ~5,331 |
 | The Beetle Mask | 7.00% | ~5,331 |
 | The Guard Mask | 7.00% | ~5,331 |
 | Smoked Out | 7.00% | ~5,331 |
-| The Climber Mask | 6.00% | ~4,569 |
-| The Merchant Mask | 6.00% | ~4,569 |
-| Honorary Chum | 6.00% | ~4,569 |
-| A Hard Place | 6.00% | ~4,569 |
-| Bikes Don't Fly | 6.00% | ~4,569 |
+| The Climber Mask | 6.00% | ~4,570 |
+| The Merchant Mask | 6.00% | ~4,570 |
+| Honorary Chum | 6.00% | ~4,570 |
+| A Hard Place | 6.00% | ~4,570 |
+| Bikes Don't Fly | 6.00% | ~4,570 |
 | The Entertainer Mask | 5.00% | ~3,808 |
 | The Gliding | 4.00% | ~3,046 |
 | The Quick and the Curious | 4.00% | ~3,046 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,285 |
 | Vivacious Vivarium | 2.00% | ~1,523 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,151 (Ranked 72)  
+Progressed: 76,160 (Ranked 72)  
 Completed: 736 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 736 (0.97%) (Ranked 102)
 | 2023-07-08 | 75,493 | 730 |
 | 2023-07-09 | 75,745 | 733 |
 | 2023-07-10 | 75,961 | 735 |
-| 2023-07-11 | 76,151 | 736 |
+| 2023-07-11 | 76,160 | 736 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

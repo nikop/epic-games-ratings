@@ -4,7 +4,7 @@
   "ProductSlug": "thermonuclear-30a1d0",
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 321,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-01-17T17:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:57:54.3783002+00:00",
   "LastChanged": "2023-03-31T05:57:54.3783004+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:05.1290944+00:00",
-  "LastUpdate_Ratings": "2023-07-11T22:01:01.6793536+00:00",
-  "LastUpdate_Achievements": "2023-07-11T22:07:23.1630012+00:00"
+  "LastUpdate_Ratings": "2023-07-11T23:00:55.7252955+00:00",
+  "LastUpdate_Achievements": "2023-07-11T23:07:01.8886535+00:00"
 }

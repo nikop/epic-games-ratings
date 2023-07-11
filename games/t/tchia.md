@@ -1,7 +1,7 @@
 # Tchia
 [Store](https://store.epicgames.com/en-US/p/tchia)  
 [View Rawdata](../../db/t/tchia.json)  
-Rating: 4.77 (Ranked 107)  
+Rating: 4.76 (Ranked 119)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -20,14 +20,14 @@ Rating: 4.77 (Ranked 107)
 | Shredder | 5.00% | ~336 |
 | Liberator | 4.00% | ~269 |
 | Live Wire | 4.00% | ~269 |
-| Fashion Faux-Pas | 3.00% | ~201 |
-| Fashion Victim | 3.00% | ~201 |
+| Fashion Faux-Pas | 3.00% | ~202 |
+| Fashion Victim | 3.00% | ~202 |
 | Arrr! | 2.00% | ~134 |
 | Snip Snip | 2.00% | ~134 |
 | Ça de Wizz! | 1.00% | ~67 |
 | Thing | 1.00% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,716 (Ranked 127)  
+Progressed: 6,717 (Ranked 127)  
 Completed: 29 (0.43%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 29 (0.43%) (Ranked 132)
 | 2023-07-08 | 6,695 | 28 |
 | 2023-07-09 | 6,702 | 29 |
 | 2023-07-10 | 6,709 | 29 |
-| 2023-07-11 | 6,716 | 29 |
+| 2023-07-11 | 6,717 | 29 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -139,3 +139,4 @@ Completed: 29 (0.43%) (Ranked 132)
 | 2023-06-15 | 4.75 | 0 | 0 |
 | 2023-06-23 | 4.76 | 0 | 0 |
 | 2023-07-06 | 4.77 | 0 | 0 |
+| 2023-07-11 | 4.76 | 0 | 0 |

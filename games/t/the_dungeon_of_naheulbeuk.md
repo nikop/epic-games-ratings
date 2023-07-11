@@ -1,28 +1,28 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.53 (Ranked 507)  
+Rating: 4.53 (Ranked 508)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 58.00% | ~104,031 |
-| Where's that freaking Dwarf? | 46.00% | ~82,507 |
-| GG EZ | 27.00% | ~48,428 |
-| Speedrun | 26.00% | ~46,634 |
-| Déjà vu | 20.00% | ~35,873 |
-| Sock! SOCK! | 15.00% | ~26,904 |
-| DM intervention | 12.00% | ~21,524 |
-| A beer, two curses, three companions | 7.00% | ~12,555 |
-| Fireproof Wizardess | 7.00% | ~12,555 |
-| Livin' in a dwarven paradise | 5.00% | ~8,968 |
-| Way of the Wimp | 5.00% | ~8,968 |
-| The plot thickens... At the tavern | 4.00% | ~7,175 |
-| The Woman in the High Castle | 3.00% | ~5,381 |
-| Team Building Exercise | 3.00% | ~5,381 |
-| The demons' feast | 2.00% | ~3,587 |
-| Res Judicata | 2.00% | ~3,587 |
-| I am the night | 2.00% | ~3,587 |
+| Alt+F4 | 58.00% | ~104,069 |
+| Where's that freaking Dwarf? | 46.00% | ~82,537 |
+| GG EZ | 27.00% | ~48,446 |
+| Speedrun | 26.00% | ~46,652 |
+| Déjà vu | 20.00% | ~35,886 |
+| Sock! SOCK! | 15.00% | ~26,914 |
+| DM intervention | 12.00% | ~21,531 |
+| A beer, two curses, three companions | 7.00% | ~12,560 |
+| Fireproof Wizardess | 7.00% | ~12,560 |
+| Livin' in a dwarven paradise | 5.00% | ~8,971 |
+| Way of the Wimp | 5.00% | ~8,971 |
+| The plot thickens... At the tavern | 4.00% | ~7,177 |
+| The Woman in the High Castle | 3.00% | ~5,383 |
+| Team Building Exercise | 3.00% | ~5,383 |
+| The demons' feast | 2.00% | ~3,589 |
+| Res Judicata | 2.00% | ~3,589 |
+| I am the night | 2.00% | ~3,589 |
 | Shiny and Crôm | 1.00% | ~1,794 |
 | The Great Library | 1.00% | ~1,794 |
 | Torture and Sensibility | 1.00% | ~1,794 |
@@ -36,7 +36,7 @@ Number of Ratings: 118  (23.09.2022)
 | Look but don't touch | 0.70% | ~1,256 |
 | Gargantua | 0.70% | ~1,256 |
 | In Navalu's footsteps | 0.70% | ~1,256 |
-| Urik's Depths | 0.60% | ~1,076 |
+| Urik's Depths | 0.60% | ~1,077 |
 | The Statuette of Gladeulfeurah | 0.50% | ~897 |
 | I'd rather... Just... Sing! | 0.50% | ~897 |
 | A tale of adventurers not quite like the others... | 0.50% | ~897 |
@@ -45,9 +45,9 @@ Number of Ratings: 118  (23.09.2022)
 | Law and Order | 0.50% | ~897 |
 | It's been a hard day's night | 0.50% | ~897 |
 | Lëgal Legend | 0.50% | ~897 |
-| The Dungeon Master | 0.40% | ~717 |
-| The number of the counting shalt be 7 | 0.40% | ~717 |
-| The Famous Dungeon of Naheulbeuk | 0.40% | ~717 |
+| The Dungeon Master | 0.40% | ~718 |
+| The number of the counting shalt be 7 | 0.40% | ~718 |
+| The Famous Dungeon of Naheulbeuk | 0.40% | ~718 |
 | Friendly fire | 0.30% | ~538 |
 | An old poacher makes the best gamekeeper | 0.30% | ~538 |
 | Holistic Adventuring Party | 0.20% | ~359 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 179,363 (Ranked 58)  
+Progressed: 179,429 (Ranked 58)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-08 | 171,176 | 0 |
 | 2023-07-09 | 174,947 | 0 |
 | 2023-07-10 | 177,355 | 0 |
-| 2023-07-11 | 179,363 | 0 |
+| 2023-07-11 | 179,429 | 0 |
 ## Awards
 Max (Character Customization): 92  (Ranked 343)  
 Sum: 92 (Ranked 414)  

@@ -1,16 +1,16 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.05 (Ranked 901)  
+Rating: 4.05 (Ranked 902)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,540 |
-| The Mad Wizard | 11.00% | ~23,130 |
-| The Ring of Regeneration | 7.00% | ~14,719 |
-| Are Ya Chicken? | 7.00% | ~14,719 |
-| Were-verpowered | 6.00% | ~12,616 |
+| The Cursed Farmer | 15.00% | ~31,542 |
+| The Mad Wizard | 11.00% | ~23,131 |
+| The Ring of Regeneration | 7.00% | ~14,720 |
+| Are Ya Chicken? | 7.00% | ~14,720 |
+| Were-verpowered | 6.00% | ~12,617 |
 | Seeking Allies | 5.00% | ~10,514 |
 | Mad Cow Disease | 5.00% | ~10,514 |
 | Friendly Imps | 5.00% | ~10,514 |
@@ -24,16 +24,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 3.00% | ~6,308 |
 | The Contagious Curse | 3.00% | ~6,308 |
 | Escort to Waterdeep | 3.00% | ~6,308 |
-| Low Initiative | 2.00% | ~4,205 |
-| Building Trust | 2.00% | ~4,205 |
-| March of the Undead | 2.00% | ~4,205 |
-| No Time To Rest | 2.00% | ~4,205 |
-| Useless Allies | 2.00% | ~4,205 |
-| Running of the Saurs | 2.00% | ~4,205 |
-| Waterdeep Detours | 2.00% | ~4,205 |
-| Underdeep Cartography | 2.00% | ~4,205 |
-| Overdue Rendezvous | 2.00% | ~4,205 |
-| The Templar's Camp | 2.00% | ~4,205 |
+| Low Initiative | 2.00% | ~4,206 |
+| Building Trust | 2.00% | ~4,206 |
+| March of the Undead | 2.00% | ~4,206 |
+| No Time To Rest | 2.00% | ~4,206 |
+| Useless Allies | 2.00% | ~4,206 |
+| Running of the Saurs | 2.00% | ~4,206 |
+| Waterdeep Detours | 2.00% | ~4,206 |
+| Underdeep Cartography | 2.00% | ~4,206 |
+| Overdue Rendezvous | 2.00% | ~4,206 |
+| The Templar's Camp | 2.00% | ~4,206 |
 | Homecoming | 1.00% | ~2,103 |
 | The Lost Heir of Omu | 1.00% | ~2,103 |
 | Street War | 1.00% | ~2,103 |
@@ -53,11 +53,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lost in the Deep | 1.00% | ~2,103 |
 | Easily Distracted | 1.00% | ~2,103 |
 | Rescue in the Jungle | 1.00% | ~2,103 |
-| The Forbidden City | 0.90% | ~1,892 |
-| Captured! | 0.90% | ~1,892 |
-| Wisdom Check | 0.90% | ~1,892 |
-| The Mists of Ravenloft | 0.90% | ~1,892 |
-| Attack on the Manor | 0.90% | ~1,892 |
+| The Forbidden City | 0.90% | ~1,893 |
+| Captured! | 0.90% | ~1,893 |
+| Wisdom Check | 0.90% | ~1,893 |
+| The Mists of Ravenloft | 0.90% | ~1,893 |
+| Attack on the Manor | 0.90% | ~1,893 |
 | A Grand Puzzle | 0.80% | ~1,682 |
 | Tomb of the Nine Gods | 0.80% | ~1,682 |
 | Treasure Hunters | 0.80% | ~1,682 |
@@ -220,6 +220,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Feigned Weakness | 0.20% | ~421 |
 | Bregan D'aerthe Comes to Call | 0.20% | ~421 |
 | Sober Up | 0.20% | ~421 |
+| Veteran Brigade | 0.20% | ~421 |
 | Meepo's Quest | 0.20% | ~421 |
 | Madcap Adventures | 0.20% | ~421 |
 | Vault of Pixies | 0.20% | ~421 |
@@ -308,7 +309,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Sneak Attack | 0.10% | ~177 |
 | DPS in the Deeps | 0.10% | ~177 |
 | In The Beginning | 0.10% | ~177 |
-| Veteran Brigade | 0.10% | ~210 |
 | Social Grace | 0.10% | ~177 |
 | Evergreens with an Evergreen | 0.10% | ~177 |
 | She's Harmless! | 0.10% | ~210 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,270 (Ranked 52)  
+Progressed: 210,283 (Ranked 52)  
 Completed: 2,046 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -592,10 +592,10 @@ Completed: 2,046 (0.97%) (Ranked 102)
 | 2023-07-08 | 208,782 | 2,041 |
 | 2023-07-09 | 209,384 | 2,043 |
 | 2023-07-10 | 209,861 | 2,045 |
-| 2023-07-11 | 210,270 | 2,046 |
+| 2023-07-11 | 210,283 | 2,046 |
 ## Awards
 Max (Diverse Characters): 5,025  (Ranked 65)  
-Sum: 30,484 (Ranked 38)  
+Sum: 30,485 (Ranked 38)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
@@ -603,8 +603,8 @@ Diff (max vs sum): 27
 | This game is Great for Beginners | 4,958 |
 | This game has Quickly Understood Controls | 4,656 |
 | This game is Relaxing | 4,550 |
+| This game has Amazing Characters | 4,001 |
 | This game is Highly Recommended | 4,000 |
-| This game has Amazing Characters | 4,000 |
 | This game has Playful Visuals | 3,295 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -775,4 +775,4 @@ Diff (max vs sum): 27
 | 2023-07-08 | 4.05 | - | 5,013 | 30,446 |
 | 2023-07-09 | 4.05 | - | 5,016 | 30,455 |
 | 2023-07-10 | 4.05 | - | 5,021 | 30,473 |
-| 2023-07-11 | 4.05 | - | 5,025 | 30,484 |
+| 2023-07-11 | 4.05 | - | 5,025 | 30,485 |

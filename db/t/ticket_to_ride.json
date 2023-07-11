@@ -2,12 +2,12 @@
   "ID": "b4d9169e1b8548f2babec33107253309",
   "Name": "Ticket to Ride",
   "ProductSlug": "ticket-to-ride",
-  "Ranking_Rating": 346,
+  "Ranking_Rating": 347,
   "Ranking_Popularity": 380,
   "Ranking_PopularitySum": 318,
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 321,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2012-05-24T08:00:00+00:00",
@@ -621,8 +621,8 @@
   "FirstSeen": "2022-07-22T20:20:53.9949813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.6058604+00:00",
   "LastChanged": "2023-07-11T19:59:44.1101477+00:00",
-  "LastChanged_Achievements": "2023-07-11T22:04:56.7778865+00:00",
+  "LastChanged_Achievements": "2023-07-11T23:04:36.0823164+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:02.6667441+00:00",
-  "LastUpdate_Ratings": "2023-07-11T22:00:59.4934115+00:00",
-  "LastUpdate_Achievements": "2023-07-11T22:04:56.7778967+00:00"
+  "LastUpdate_Ratings": "2023-07-11T23:00:53.7902619+00:00",
+  "LastUpdate_Achievements": "2023-07-11T23:04:36.0823197+00:00"
 }

@@ -2,11 +2,11 @@
   "ID": "2e92a78949e2474aa89271b8b893f3b0",
   "Name": "Alan Wake Remastered",
   "ProductSlug": "alan-wake-remastered",
-  "Ranking_Rating": 478,
+  "Ranking_Rating": 479,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 81,
-  "Ranking_EOS_Completed": 184,
+  "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 85,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57218,
+  "EOS_Progressed": 57220,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 392,
+  "EOS_NewPlayers": 393,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7672,6 +7672,11 @@
       "Time": "2023-07-11T22:04:37.036407+00:00",
       "NumProgressed": 57218,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-11T23:04:15.9685382+00:00",
+      "NumProgressed": 57220,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7683,7 +7688,7 @@
       "Name": "Follow the Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 19454
+      "UsersEstimate": 19455
     },
     {
       "ID": "02",
@@ -7715,7 +7720,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10299
+      "UsersEstimate": 10300
     },
     {
       "ID": "06",
@@ -7995,7 +8000,7 @@
       "Name": "Right of Way",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4577
+      "UsersEstimate": 4578
     },
     {
       "ID": "41",
@@ -8043,7 +8048,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 7438
+      "UsersEstimate": 7439
     },
     {
       "ID": "47",
@@ -8218,21 +8223,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57218,
+      "Progressed": 57220,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20686,
+      "Progressed": 20688,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-11T22:04:37.0364064+00:00",
+  "LastChanged_Achievements": "2023-07-11T23:04:15.9685375+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:08.3646753+00:00",
-  "LastUpdate_Ratings": "2023-07-11T21:58:16.1902471+00:00",
-  "LastUpdate_Achievements": "2023-07-11T22:04:37.0365509+00:00"
+  "LastUpdate_Ratings": "2023-07-11T22:58:12.8612451+00:00",
+  "LastUpdate_Achievements": "2023-07-11T23:04:15.9686554+00:00"
 }

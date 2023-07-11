@@ -2,7 +2,7 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 439,
+  "Ranking_Rating": 440,
   "Ranking_Popularity": 263,
   "Ranking_PopularitySum": 356,
   "Ranking_EOS_Progress": 115,
@@ -544,9 +544,9 @@
       "Count": 212
     }
   ],
-  "EOS_Progressed": 11019,
+  "EOS_Progressed": 11020,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -6444,6 +6444,11 @@
       "Time": "2023-07-11T22:07:59.8931+00:00",
       "NumProgressed": 11019,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-07-11T23:07:39.2832647+00:00",
+      "NumProgressed": 11020,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 35,
@@ -6455,7 +6460,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 8925
+      "UsersEstimate": 8926
     },
     {
       "ID": "ACH02",
@@ -6503,7 +6508,7 @@
       "Name": "The American Dream",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1983
+      "UsersEstimate": 1984
     },
     {
       "ID": "ACH08",
@@ -6734,7 +6739,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11019,
+      "Progressed": 11020,
       "Completed": 28
     }
   ],
@@ -6742,8 +6747,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-11T18:00:08.2457615+00:00",
-  "LastChanged_Achievements": "2023-07-11T22:07:59.8930992+00:00",
+  "LastChanged_Achievements": "2023-07-11T23:07:39.2832643+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:43.1834453+00:00",
-  "LastUpdate_Ratings": "2023-07-11T22:01:37.9928841+00:00",
-  "LastUpdate_Achievements": "2023-07-11T22:07:59.8931906+00:00"
+  "LastUpdate_Ratings": "2023-07-11T23:01:31.9578146+00:00",
+  "LastUpdate_Achievements": "2023-07-11T23:07:39.2833317+00:00"
 }

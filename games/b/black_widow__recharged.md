@@ -1,27 +1,27 @@
 # Black Widow: Recharged
 [Store](https://store.epicgames.com/en-US/p/black-widow-recharged)  
 [View Rawdata](../../db/b/black_widow__recharged.json)  
-Rating: 4.20 (Ranked 835)  
+Rating: 4.20 (Ranked 836)  
 Number of Ratings: 34  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Across The Border | 79.00% | ~12,778 |
+| Across The Border | 79.00% | ~12,779 |
 | I'm Alive | 53.00% | ~8,573 |
 | Danger Ahead | 28.00% | ~4,529 |
 | Look at Me Now | 28.00% | ~4,529 |
 | Don't Bring Me Down | 20.00% | ~3,235 |
 | The Fall | 18.00% | ~2,912 |
 | Everyone's Born to Die | 16.00% | ~2,588 |
-| Wild West Hero | 14.00% | ~2,264 |
+| Wild West Hero | 14.00% | ~2,265 |
 | In My Own Time | 13.00% | ~2,103 |
 | Caught in a Trap | 12.00% | ~1,941 |
 | In For The Kill | 12.00% | ~1,941 |
-| Hello My Old Friend | 6.00% | ~970 |
+| Hello My Old Friend | 6.00% | ~971 |
 | After All | 0.90% | ~146 |
 | Time of Our Life | 0.30% | ~49 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,175 (Ranked 105)  
+Progressed: 16,176 (Ranked 105)  
 Completed: 50 (0.31%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 50 (0.31%) (Ranked 145)
 | 2023-07-08 | 16,093 | 50 |
 | 2023-07-09 | 16,123 | 50 |
 | 2023-07-10 | 16,142 | 50 |
-| 2023-07-11 | 16,175 | 50 |
+| 2023-07-11 | 16,176 | 50 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

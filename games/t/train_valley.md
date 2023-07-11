@@ -1,16 +1,16 @@
 # Train Valley
 [Store](https://store.epicgames.com/en-US/p/train-valley-ead642)  
 [View Rawdata](../../db/t/train_valley.json)  
-Rating: 4.47 (Ranked 597)  
+Rating: 4.47 (Ranked 598)  
 Number of Ratings: 28  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 76.00% | ~236 |
-| Close call! | 75.00% | ~233 |
-| Builder | 56.00% | ~174 |
+| Getting started | 76.00% | ~237 |
+| Close call! | 75.00% | ~234 |
+| Builder | 56.00% | ~175 |
 | Pangs of conscience | 51.00% | ~159 |
-| Living it large! | 46.00% | ~143 |
+| Living it large! | 46.00% | ~144 |
 | Collector | 43.00% | ~134 |
 | Need to think | 42.00% | ~131 |
 | Completely nuts! | 36.00% | ~112 |
@@ -23,12 +23,12 @@ Number of Ratings: 28  (23.09.2022)
 | Ouroboros | 26.00% | ~81 |
 | Madness! | 25.00% | ~78 |
 | Foreman | 24.00% | ~75 |
-| Missed it! | 23.00% | ~72 |
+| Missed it! | 22.00% | ~69 |
 | Russia | 20.00% | ~62 |
 | Sabotage | 19.00% | ~59 |
 | America | 18.00% | ~56 |
-| Woodcutter | 13.00% | ~40 |
-| Engineer | 13.00% | ~40 |
+| Woodcutter | 13.00% | ~41 |
+| Engineer | 13.00% | ~41 |
 | Achtung! | 12.00% | ~37 |
 | Japan | 10.00% | ~31 |
 | Tycoon | 8.00% | ~25 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Maniac vandal | 0.60% | ~2 |
 | Salesman | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 311 (Ranked 241)  
+Progressed: 312 (Ranked 241)  
 Completed: 2 (0.64%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 2 (0.64%) (Ranked 116)
 | 2023-07-07 | 308 | 2 |
 | 2023-07-08 | 309 | 2 |
 | 2023-07-09 | 310 | 2 |
-| 2023-07-11 | 311 | 2 |
+| 2023-07-11 | 312 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

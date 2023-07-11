@@ -2,12 +2,12 @@
   "ID": "2e09c1d223094f3798f63873548c9454",
   "Name": "Tchia",
   "ProductSlug": "tchia",
-  "Ranking_Rating": 107,
+  "Ranking_Rating": 119,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.77,
+  "Rating": 4.76,
   "RatingHistory": [
     {
       "Time": "2023-03-27T01:58:07.9260384+00:00",
@@ -176,15 +176,21 @@
       "Rating": 4.77,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-07-11T22:58:36.2658567+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6716,
+  "EOS_Progressed": 6717,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -4512,6 +4518,11 @@
       "Time": "2023-07-11T22:03:07.1871916+00:00",
       "NumProgressed": 6716,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-07-11T23:02:41.1602319+00:00",
+      "NumProgressed": 6717,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 21,
@@ -4579,7 +4590,7 @@
       "Name": "Fashion Faux-Pas",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "FASHION_VICTIM",
@@ -4587,7 +4598,7 @@
       "Name": "Fashion Victim",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "GLOBE_TROTTER",
@@ -4690,16 +4701,16 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6716,
+      "Progressed": 6717,
       "Completed": 29
     }
   ],
   "FirstSeen": "2023-03-21T09:57:30.0588208+00:00",
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
-  "LastChanged": "2023-07-06T22:58:42.5723312+00:00",
-  "LastChanged_Achievements": "2023-07-11T22:03:07.187191+00:00",
+  "LastChanged": "2023-07-11T22:58:36.2658566+00:00",
+  "LastChanged_Achievements": "2023-07-11T23:02:41.1602312+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:32.1676458+00:00",
-  "LastUpdate_Ratings": "2023-07-11T21:58:40.4762825+00:00",
-  "LastUpdate_Achievements": "2023-07-11T22:03:07.1872407+00:00"
+  "LastUpdate_Ratings": "2023-07-11T22:58:36.2658572+00:00",
+  "LastUpdate_Achievements": "2023-07-11T23:02:41.1602765+00:00"
 }

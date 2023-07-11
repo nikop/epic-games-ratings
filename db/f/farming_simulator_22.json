@@ -6627,9 +6627,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 45329,
+  "EOS_Progressed": 45330,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 337,
+  "EOS_NewPlayers": 335,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13747,6 +13747,11 @@
       "Time": "2023-07-11T22:02:17.257618+00:00",
       "NumProgressed": 45329,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-11T23:02:11.8700536+00:00",
+      "NumProgressed": 45330,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 43,
@@ -13758,7 +13763,7 @@
       "Name": "Clucky Streak",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 6799
+      "UsersEstimate": 6800
     },
     {
       "ID": "BreedCows",
@@ -13902,7 +13907,7 @@
       "Name": "Large-scale supplier",
       "Percentage": 15,
       "XP": 55,
-      "UsersEstimate": 6799
+      "UsersEstimate": 6800
     },
     {
       "ID": "HarvestedFirst",
@@ -13910,7 +13915,7 @@
       "Name": "Own use",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 34450
+      "UsersEstimate": 34451
     },
     {
       "ID": "HorseJumps",
@@ -13966,7 +13971,7 @@
       "Name": "Hard work pays off",
       "Percentage": 53,
       "XP": 55,
-      "UsersEstimate": 24024
+      "UsersEstimate": 24025
     },
     {
       "ID": "NumBeehives",
@@ -14046,7 +14051,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 28557
+      "UsersEstimate": 28558
     },
     {
       "ID": "Stones",
@@ -14054,7 +14059,7 @@
       "Name": "Rock on",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5439
+      "UsersEstimate": 5440
     },
     {
       "ID": "TractorDriving",
@@ -14062,7 +14067,7 @@
       "Name": "Field Trip",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 19491
+      "UsersEstimate": 19492
     },
     {
       "ID": "TruckDriving",
@@ -14101,15 +14106,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 45329,
+      "Progressed": 45330,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-07-11T22:00:56.1126938+00:00",
-  "LastChanged_Achievements": "2023-07-11T22:02:17.2576173+00:00",
+  "LastChanged_Achievements": "2023-07-11T23:02:11.870053+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:57.7938394+00:00",
-  "LastUpdate_Ratings": "2023-07-11T22:00:56.1126947+00:00",
-  "LastUpdate_Achievements": "2023-07-11T22:02:17.2577055+00:00"
+  "LastUpdate_Ratings": "2023-07-11T23:00:49.7625495+00:00",
+  "LastUpdate_Achievements": "2023-07-11T23:02:11.8701373+00:00"
 }

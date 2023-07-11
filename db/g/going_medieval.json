@@ -2,7 +2,7 @@
   "ID": "d469e82d91fe4516a00d6566c3d2f8f7",
   "Name": "Going Medieval",
   "ProductSlug": "going-medieval",
-  "Ranking_Rating": 389,
+  "Ranking_Rating": 390,
   "Ranking_Popularity": 310,
   "Ranking_PopularitySum": 239,
   "Ranking_EOS_Progress": 138,
@@ -5250,9 +5250,9 @@
       "ID": "SURVIVE_FIRST_DAY",
       "SetID": "5349c2e",
       "Name": "The First Day",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 2986
+      "UsersEstimate": 3032
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -5346,8 +5346,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-07-10T09:00:28.1401302+00:00",
-  "LastChanged_Achievements": "2023-07-11T22:02:16.2881812+00:00",
+  "LastChanged_Achievements": "2023-07-11T23:02:10.8880004+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:13.9493644+00:00",
-  "LastUpdate_Ratings": "2023-07-11T22:01:11.2002301+00:00",
-  "LastUpdate_Achievements": "2023-07-11T22:02:16.2882365+00:00"
+  "LastUpdate_Ratings": "2023-07-11T23:01:04.9651381+00:00",
+  "LastUpdate_Achievements": "2023-07-11T23:02:10.8880533+00:00"
 }

@@ -1,7 +1,7 @@
 # My Lovely Wife
 [Store](https://store.epicgames.com/en-US/p/my-lovely-wife-bef07f)  
 [View Rawdata](../../db/m/my_lovely_wife.json)  
-Rating: 4.36 (Ranked 728)  
+Rating: 4.36 (Ranked 730)  
 Number of Ratings: 25  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -33,8 +33,8 @@ Number of Ratings: 25  (23.09.2022)
 | Asmodeus | 8.00% | ~47 |
 | Luna | 8.00% | ~47 |
 | Lover | 1.00% | ~6 |
+| The Harvester | 1.00% | ~6 |
 | Conclusions | 1.00% | ~6 |
-| The Harvester | 0.80% | ~5 |
 | Playboy | 0.30% | ~2 |
 | Necessary Sacrifice | 0.20% | ~1 |
 | Womanizer | 0.00% | ~0 |

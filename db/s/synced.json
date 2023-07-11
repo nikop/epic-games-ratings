@@ -4,7 +4,7 @@
   "ProductSlug": "synced",
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 321,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -35,8 +35,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged_Achievements": "2023-07-11T22:06:06.0740619+00:00",
+  "LastChanged_Achievements": "2023-07-11T23:05:45.4207983+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:10.6761188+00:00",
-  "LastUpdate_Ratings": "2023-07-11T21:58:23.3537802+00:00",
-  "LastUpdate_Achievements": "2023-07-11T22:06:06.0740654+00:00"
+  "LastUpdate_Ratings": "2023-07-11T22:58:19.1517764+00:00",
+  "LastUpdate_Achievements": "2023-07-11T23:05:45.4208012+00:00"
 }
