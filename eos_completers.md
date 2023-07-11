@@ -24,7 +24,7 @@
 | 22 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 9.09% |
 | 23 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.75% |
 | 24 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
-| 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.49% |
+| 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.48% |
 | 26 | [Smelter](games/s/smelter.md) | 8.11% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 7.49% |
 | 28 | [Time Loader](games/t/time_loader.md) | 7.21% |
@@ -125,8 +125,8 @@
 | 123 | [Potion Permit](games/p/potion_permit.md) | 0.55% |
 | 123 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
 | 125 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.53% |
-| 126 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.51% |
-| 127 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
+| 126 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
+| 126 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
 | 128 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.48% |
 | 129 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 129 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.47% |
