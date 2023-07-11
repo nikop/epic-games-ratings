@@ -1,7 +1,7 @@
 # Hi-Fi RUSH
 [Store](https://store.epicgames.com/en-US/p/hi-fi-rush)  
 [View Rawdata](../../db/h/hi-fi_rush.json)  
-Rating: 4.87 (Ranked 25)  
+Rating: 4.87 (Ranked 24)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -31,8 +31,8 @@ Rating: 4.87 (Ranked 25)
 | You can pet the cat! | 0.60% | ~21 |
 | Well that was a rush! | 0.50% | ~17 |
 | Perfecter Parry-er! | 0.50% | ~17 |
+| That's a lot of junk metal… | 0.50% | ~17 |
 | Does that say weakpoint? | 0.50% | ~17 |
-| That's a lot of junk metal… | 0.40% | ~14 |
 | Call me Turbo Chai | 0.40% | ~8 |
 | New bad guys? No problem! | 0.40% | ~8 |
 | Beat-hit mania | 0.30% | ~10 |

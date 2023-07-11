@@ -551,9 +551,9 @@
       "ID": "PRG_ACCUM_GOLD",
       "SetID": "89cjc9l",
       "Name": "I\u0027m Rich",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "PRG_BOSS_BIRD",
@@ -968,8 +968,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-07-11T06:02:03.2265465+00:00",
+  "LastChanged_Achievements": "2023-07-11T07:00:13.6019511+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:47.3455238+00:00",
-  "LastUpdate_Ratings": "2023-07-11T05:58:05.0283939+00:00",
-  "LastUpdate_Achievements": "2023-07-11T06:02:03.2267006+00:00"
+  "LastUpdate_Ratings": "2023-07-11T06:57:30.5307603+00:00",
+  "LastUpdate_Achievements": "2023-07-11T07:00:13.6020216+00:00"
 }

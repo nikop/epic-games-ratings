@@ -4,8 +4,8 @@
   "ProductSlug": "mai-in-the-mysterious-castle-a9a60a",
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-06-20T08:00:00+00:00",
     "PcReleaseDate": "2023-06-28T22:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 30,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 6.67,
   "EosHistory": [
@@ -246,8 +246,8 @@
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2023-07-11T06:04:18.2202882+00:00",
+  "LastChanged_Achievements": "2023-07-11T07:03:35.4933934+00:00",
   "LastUpdate_AppInfo": "2023-07-06T11:57:11.0025762+00:00",
-  "LastUpdate_Ratings": "2023-07-11T05:57:16.3124058+00:00",
-  "LastUpdate_Achievements": "2023-07-11T06:04:18.220296+00:00"
+  "LastUpdate_Ratings": "2023-07-11T06:56:57.511691+00:00",
+  "LastUpdate_Achievements": "2023-07-11T07:03:35.4933996+00:00"
 }

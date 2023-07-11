@@ -42,7 +42,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Forsaken Gods Temple | 1.00% | ~158 |
 | Defying the Crown | 1.00% | ~158 |
 | Into the Forest | 1.00% | ~158 |
-| Efficient Explorer | 0.70% | ~110 |
+| Efficient Explorer | 0.80% | ~126 |
 | Prestigious Expedition | 0.70% | ~110 |
 | Blood Flower Farmer | 0.70% | ~110 |
 | Victory through Prosperity | 0.60% | ~95 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~16 |
 | Higher Needs | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,770 (Ranked 107)  
+Progressed: 15,771 (Ranked 107)  
 Completed: 40 (0.25%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 40 (0.25%) (Ranked 153)
 | 2023-07-08 | 15,719 | 40 |
 | 2023-07-09 | 15,740 | 40 |
 | 2023-07-10 | 15,765 | 40 |
-| 2023-07-11 | 15,770 | 40 |
+| 2023-07-11 | 15,771 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 418  (Ranked 203)  
 Sum: 3,066 (Ranked 156)  

@@ -2,7 +2,7 @@
   "ID": "cc1d104767dc4a2fa22a44d487e2db64",
   "Name": "60 Seconds! Reatomized",
   "ProductSlug": "60-seconds-reatomized-91ffa3",
-  "Ranking_Rating": 270,
+  "Ranking_Rating": 271,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 137,
@@ -3000,9 +3000,9 @@
       "ID": "ACH_BAD_ENDING",
       "SetID": "5nj1ea3",
       "Name": "This is the end",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 1476
+      "UsersEstimate": 1522
     },
     {
       "ID": "ACH_BE_PREPARED",
@@ -3441,8 +3441,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-07-05T23:03:34.5212412+00:00",
-  "LastChanged_Achievements": "2023-07-11T06:02:30.9832223+00:00",
+  "LastChanged_Achievements": "2023-07-11T07:02:12.6323708+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:51.9413224+00:00",
-  "LastUpdate_Ratings": "2023-07-11T06:01:37.4874722+00:00",
-  "LastUpdate_Achievements": "2023-07-11T06:02:30.9833009+00:00"
+  "LastUpdate_Ratings": "2023-07-11T06:59:56.250475+00:00",
+  "LastUpdate_Achievements": "2023-07-11T07:02:12.6324251+00:00"
 }

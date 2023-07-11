@@ -5,8 +5,8 @@ Rating: 4.26 (Ranked 801)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~151,301 |
-| Copacetic Coordination | 16.00% | ~52,626 |
+| Corner Clout | 46.00% | ~151,302 |
+| Copacetic Coordination | 16.00% | ~52,627 |
 | Fronting the Money | 14.00% | ~46,048 |
 | The Dawn of Automation | 14.00% | ~46,048 |
 | Extraordinary Logistics | 14.00% | ~46,048 |
@@ -41,13 +41,13 @@ Rating: 4.26 (Ranked 801)
 | An Affront to the Enemy | 4.00% | ~13,157 |
 | Friends from Back Home | 4.00% | ~13,157 |
 | Half Century Mark | 4.00% | ~13,157 |
-| Corner Opportunities | 3.00% | ~9,867 |
-| 2122 North Clark Street | 3.00% | ~9,867 |
-| Copious Cabbage | 3.00% | ~9,867 |
-| Sockdolager | 3.00% | ~9,867 |
-| Still Stalwart | 3.00% | ~9,867 |
-| Bees Knees Bootlegger | 3.00% | ~9,867 |
-| Tighten the Screws | 3.00% | ~9,867 |
+| Corner Opportunities | 3.00% | ~9,868 |
+| 2122 North Clark Street | 3.00% | ~9,868 |
+| Copious Cabbage | 3.00% | ~9,868 |
+| Sockdolager | 3.00% | ~9,868 |
+| Still Stalwart | 3.00% | ~9,868 |
+| Bees Knees Bootlegger | 3.00% | ~9,868 |
+| Tighten the Screws | 3.00% | ~9,868 |
 | One of Us | 2.00% | ~6,578 |
 | Baker’s Dozen | 2.00% | ~6,578 |
 | Dropping the Dime | 2.00% | ~6,578 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 801)
 | High Pillow | 0.10% | ~329 |
 | Station Master | 0.10% | ~329 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 328,915 (Ranked 40)  
+Progressed: 328,917 (Ranked 40)  
 Completed: 5 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 5 (0.00%) (Ranked 237)
 | 2023-07-08 | 328,398 | 5 |
 | 2023-07-09 | 328,678 | 5 |
 | 2023-07-10 | 328,868 | 5 |
-| 2023-07-11 | 328,915 | 5 |
+| 2023-07-11 | 328,917 | 5 |
 ## Awards
 Max (Highly Recommended): 27  (Ranked 465)  
 Sum: 119 (Ranked 399)  

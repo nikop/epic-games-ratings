@@ -6123,9 +6123,9 @@
       "Count": 898
     }
   ],
-  "EOS_Progressed": 109725,
+  "EOS_Progressed": 109726,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1248,
+  "EOS_NewPlayers": 1240,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13423,6 +13423,11 @@
       "Time": "2023-07-11T06:07:38.2470709+00:00",
       "NumProgressed": 109725,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-11T07:05:58.069315+00:00",
+      "NumProgressed": 109726,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 65,
@@ -13442,7 +13447,7 @@
       "Name": "Serenity Now!",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 57057
+      "UsersEstimate": 57058
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -13474,7 +13479,7 @@
       "Name": "Unleash Hell",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 74613
+      "UsersEstimate": 74614
     },
     {
       "ID": "altar_of_hope_unlock_hero_jester",
@@ -13490,7 +13495,7 @@
       "Name": "Long Live the King",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 72418
+      "UsersEstimate": 72419
     },
     {
       "ID": "altar_of_hope_unlock_hero_occultist",
@@ -13506,7 +13511,7 @@
       "Name": "Boxcar Kid",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 65835
+      "UsersEstimate": 65836
     },
     {
       "ID": "altar_of_hope_unlock_hero_vestal",
@@ -13514,7 +13519,7 @@
       "Name": "Unfulfilled Desires",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 74613
+      "UsersEstimate": 74614
     },
     {
       "ID": "altar_of_hope_upgrade_total_full",
@@ -13538,7 +13543,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 54862
+      "UsersEstimate": 54863
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -13578,7 +13583,7 @@
       "Name": "Banishment",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 31820
+      "UsersEstimate": 31821
     },
     {
       "ID": "combat_kill_death",
@@ -13642,7 +13647,7 @@
       "Name": "Clearing the Ledger",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2194
+      "UsersEstimate": 2195
     },
     {
       "ID": "combat_kill_leviathan",
@@ -13754,7 +13759,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 65835
+      "UsersEstimate": 65836
     },
     {
       "ID": "driving_distance_easy",
@@ -13802,7 +13807,7 @@
       "Name": "A Clear Conscience",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 75710
+      "UsersEstimate": 75711
     },
     {
       "ID": "hoarder_buy_epic_trinket",
@@ -13826,7 +13831,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 102044
+      "UsersEstimate": 102045
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -13834,7 +13839,7 @@
       "Name": "When You Want Something Done Right",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 10972
+      "UsersEstimate": 10973
     },
     {
       "ID": "inn_replacement_hero_add",
@@ -13953,15 +13958,15 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 109725,
+      "Progressed": 109726,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-07-10T20:00:35.8951725+00:00",
-  "LastChanged_Achievements": "2023-07-11T06:07:38.24707+00:00",
+  "LastChanged_Achievements": "2023-07-11T07:05:58.0693149+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:21.0840075+00:00",
-  "LastUpdate_Ratings": "2023-07-11T06:01:11.0554965+00:00",
-  "LastUpdate_Achievements": "2023-07-11T06:07:38.2472546+00:00"
+  "LastUpdate_Ratings": "2023-07-11T06:59:37.9178219+00:00",
+  "LastUpdate_Achievements": "2023-07-11T07:05:58.0693967+00:00"
 }

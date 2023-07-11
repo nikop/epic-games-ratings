@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57188,
+  "EOS_Progressed": 57189,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 404,
+  "EOS_NewPlayers": 403,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7602,6 +7602,11 @@
       "Time": "2023-07-11T05:03:58.3630227+00:00",
       "NumProgressed": 57188,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-11T07:03:30.6214227+00:00",
+      "NumProgressed": 57189,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7621,7 +7626,7 @@
       "Name": "Nordic Walking",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 12009
+      "UsersEstimate": 12010
     },
     {
       "ID": "03",
@@ -7973,7 +7978,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 7434
+      "UsersEstimate": 7435
     },
     {
       "ID": "47",
@@ -8013,7 +8018,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1652
+      "UsersEstimate": 1653
     },
     {
       "ID": "52",
@@ -8148,21 +8153,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57188,
+      "Progressed": 57189,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20656,
+      "Progressed": 20657,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-11T06:04:11.329584+00:00",
+  "LastChanged_Achievements": "2023-07-11T07:03:30.6214224+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:08.3646753+00:00",
-  "LastUpdate_Ratings": "2023-07-11T05:58:20.0661737+00:00",
-  "LastUpdate_Achievements": "2023-07-11T06:04:11.3296965+00:00"
+  "LastUpdate_Ratings": "2023-07-11T06:57:41.3884936+00:00",
+  "LastUpdate_Achievements": "2023-07-11T07:03:30.6215079+00:00"
 }

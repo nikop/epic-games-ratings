@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 289,
+  "EOS_Progressed": 290,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1264,6 +1264,11 @@
       "Time": "2023-07-10T20:05:37.4726793+00:00",
       "NumProgressed": 289,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-11T07:04:33.4190676+00:00",
+      "NumProgressed": 290,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -1347,7 +1352,7 @@
       "Name": "La Der des Ders",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
@@ -1370,7 +1375,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 289,
+      "Progressed": 290,
       "Completed": 0
     }
   ],
@@ -1378,8 +1383,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-07-11T06:05:38.9577512+00:00",
+  "LastChanged_Achievements": "2023-07-11T07:04:33.4190672+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:25.6811768+00:00",
-  "LastUpdate_Ratings": "2023-07-11T05:59:27.0460637+00:00",
-  "LastUpdate_Achievements": "2023-07-11T06:05:38.9577816+00:00"
+  "LastUpdate_Ratings": "2023-07-11T06:58:25.5268924+00:00",
+  "LastUpdate_Achievements": "2023-07-11T07:04:33.4190807+00:00"
 }

@@ -1,7 +1,7 @@
 # 60 Seconds! Reatomized
 [Store](https://store.epicgames.com/en-US/p/60-seconds-reatomized-91ffa3)  
 [View Rawdata](../../db/6/60_seconds!_reatomized.json)  
-Rating: 4.66 (Ranked 270)  
+Rating: 4.66 (Ranked 271)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -24,8 +24,8 @@ Rating: 4.66 (Ranked 270)
 | What goes around... | 42.00% | ~1,937 |
 | Be Prepared | 36.00% | ~1,660 |
 | Unbreakable | 35.00% | ~1,614 |
+| This is the end | 33.00% | ~1,522 |
 | Atomic drill | 32.00% | ~1,476 |
-| This is the end | 32.00% | ~1,476 |
 | Gotta get 'em all | 31.00% | ~1,429 |
 | Disco Roach | 26.00% | ~1,199 |
 | Dawkins Residence | 20.00% | ~922 |

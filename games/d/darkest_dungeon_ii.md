@@ -6,21 +6,21 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~102,044 |
+| A Place to Lay Your Head | 93.00% | ~102,045 |
 | Don't Make Me Turn This Coach Around | 70.00% | ~76,808 |
-| A Clear Conscience | 69.00% | ~75,710 |
-| Unleash Hell | 68.00% | ~74,613 |
-| Unfulfilled Desires | 68.00% | ~74,613 |
+| A Clear Conscience | 69.00% | ~75,711 |
+| Unleash Hell | 68.00% | ~74,614 |
+| Unfulfilled Desires | 68.00% | ~74,614 |
 | Funny Guy | 67.00% | ~73,516 |
 | Unshackled | 67.00% | ~73,516 |
-| Long Live the King | 66.00% | ~72,418 |
+| Long Live the King | 66.00% | ~72,419 |
 | Resurrection | 62.00% | ~68,030 |
 | Wyrdly Reconstructed | 62.00% | ~68,030 |
-| Boxcar Kid | 60.00% | ~65,835 |
-| To Grandmother's House | 60.00% | ~65,835 |
+| Boxcar Kid | 60.00% | ~65,836 |
+| To Grandmother's House | 60.00% | ~65,836 |
 | Rush Hour | 59.00% | ~64,738 |
-| Serenity Now! | 52.00% | ~57,057 |
-| Hope Rekindled | 50.00% | ~54,862 |
+| Serenity Now! | 52.00% | ~57,058 |
+| Hope Rekindled | 50.00% | ~54,863 |
 | Ramble On | 48.00% | ~52,668 |
 | Nope | 47.00% | ~51,571 |
 | This Looks Familiar | 38.00% | ~41,696 |
@@ -31,7 +31,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Creep and Sleep | 32.00% | ~35,112 |
 | Overdue Notice | 31.00% | ~34,015 |
 | Whale | 30.00% | ~32,918 |
-| Banishment | 29.00% | ~31,820 |
+| Banishment | 29.00% | ~31,821 |
 | FNG | 28.00% | ~30,723 |
 | Predator | 23.00% | ~25,237 |
 | Reverse Banditry | 23.00% | ~25,237 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Not Today! | 12.00% | ~13,167 |
 | Deprogramming | 11.00% | ~12,070 |
 | Shrine of Reflection | 11.00% | ~12,070 |
-| When You Want Something Done Right | 10.00% | ~10,972 |
+| When You Want Something Done Right | 10.00% | ~10,973 |
 | Body of Work | 9.00% | ~9,875 |
 | Utopia | 8.00% | ~8,778 |
 | Hat Trick | 6.00% | ~6,584 |
@@ -58,7 +58,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Ichthyophobic | 4.00% | ~4,389 |
 | The World As It Was | 3.00% | ~3,292 |
 | Triage | 3.00% | ~3,292 |
-| Clearing the Ledger | 2.00% | ~2,194 |
+| Clearing the Ledger | 2.00% | ~2,195 |
 | A Life Well Lived | 1.00% | ~1,097 |
 | Pub Crawl | 1.00% | ~1,097 |
 | Eidetic | 1.00% | ~1,097 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~110 |
 | Hard Mode | 0.10% | ~110 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 109,725 (Ranked 64)  
+Progressed: 109,726 (Ranked 64)  
 Completed: 1 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 1 (0.00%) (Ranked 237)
 | 2023-07-08 | 109,289 | 1 |
 | 2023-07-09 | 109,520 | 1 |
 | 2023-07-10 | 109,686 | 1 |
-| 2023-07-11 | 109,725 | 1 |
+| 2023-07-11 | 109,726 | 1 |
 ## Awards
 Max (Character Customization): 7,259  (Ranked 47)  
 Sum: 18,772 (Ranked 56)  

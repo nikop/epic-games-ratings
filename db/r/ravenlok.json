@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 1042,
   "EOS_Completed": 78,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 7.49,
   "EosHistory": [
@@ -2825,9 +2825,9 @@
       "ID": "30",
       "SetID": "d0g98p",
       "Name": "Gooey Delight!",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 427
+      "UsersEstimate": 438
     },
     {
       "ID": "31",
@@ -3050,8 +3050,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-07-11T06:07:33.2152968+00:00",
+  "LastChanged_Achievements": "2023-07-11T07:05:53.8843253+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:44.4971469+00:00",
-  "LastUpdate_Ratings": "2023-07-11T05:58:02.2744671+00:00",
-  "LastUpdate_Achievements": "2023-07-11T06:07:33.21536+00:00"
+  "LastUpdate_Ratings": "2023-07-11T06:57:28.6281685+00:00",
+  "LastUpdate_Achievements": "2023-07-11T07:05:53.8843712+00:00"
 }
