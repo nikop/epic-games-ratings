@@ -14,26 +14,26 @@ Number of Ratings: 1,845  (23.09.2022)
 | Coral Forest | 3.00% | ~473 |
 | The Scarlet Orchard | 3.00% | ~473 |
 | Taking Action | 3.00% | ~473 |
-| Homesick | 2.00% | ~315 |
-| Against All Odds | 2.00% | ~315 |
-| Bandit Camp | 2.00% | ~315 |
-| Barren Lands | 2.00% | ~315 |
-| Ancient Battleground | 2.00% | ~315 |
-| Sparkdew Crystals | 2.00% | ~315 |
-| Dangerous Lands | 2.00% | ~315 |
-| Haunted Forest | 2.00% | ~315 |
-| Levitating Monument | 2.00% | ~315 |
-| Flooded Mines | 2.00% | ~315 |
-| Monastery of the Holy Flame | 2.00% | ~315 |
-| Royal Outpost | 2.00% | ~315 |
-| Lost Colonies | 2.00% | ~315 |
-| Statue of the Forefathers | 2.00% | ~315 |
-| Corrosive Torrent | 2.00% | ~315 |
-| Watchtower | 2.00% | ~315 |
-| Cursed Lands | 2.00% | ~315 |
-| A Real Challenge | 2.00% | ~315 |
-| Like a Machine | 2.00% | ~315 |
-| Trade Baron | 2.00% | ~315 |
+| Homesick | 2.00% | ~316 |
+| Against All Odds | 2.00% | ~316 |
+| Bandit Camp | 2.00% | ~316 |
+| Barren Lands | 2.00% | ~316 |
+| Ancient Battleground | 2.00% | ~316 |
+| Sparkdew Crystals | 2.00% | ~316 |
+| Dangerous Lands | 2.00% | ~316 |
+| Haunted Forest | 2.00% | ~316 |
+| Levitating Monument | 2.00% | ~316 |
+| Flooded Mines | 2.00% | ~316 |
+| Monastery of the Holy Flame | 2.00% | ~316 |
+| Royal Outpost | 2.00% | ~316 |
+| Lost Colonies | 2.00% | ~316 |
+| Statue of the Forefathers | 2.00% | ~316 |
+| Corrosive Torrent | 2.00% | ~316 |
+| Watchtower | 2.00% | ~316 |
+| Cursed Lands | 2.00% | ~316 |
+| A Real Challenge | 2.00% | ~316 |
+| Like a Machine | 2.00% | ~316 |
+| Trade Baron | 2.00% | ~316 |
 | Serving Ale | 1.00% | ~158 |
 | Refinery | 1.00% | ~158 |
 | Ruined Armory | 1.00% | ~158 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~16 |
 | Higher Needs | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,774 (Ranked 107)  
+Progressed: 15,775 (Ranked 107)  
 Completed: 40 (0.25%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 40 (0.25%) (Ranked 153)
 | 2023-07-08 | 15,719 | 40 |
 | 2023-07-09 | 15,740 | 40 |
 | 2023-07-10 | 15,765 | 40 |
-| 2023-07-11 | 15,774 | 40 |
+| 2023-07-11 | 15,775 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 418  (Ranked 203)  
 Sum: 3,066 (Ranked 156)  

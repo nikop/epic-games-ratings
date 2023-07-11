@@ -6,52 +6,52 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 58.00% | ~103,383 |
-| Where's that freaking Dwarf? | 45.00% | ~80,211 |
-| GG EZ | 27.00% | ~48,127 |
-| Speedrun | 26.00% | ~46,344 |
-| Déjà vu | 20.00% | ~35,649 |
-| Sock! SOCK! | 15.00% | ~26,737 |
-| DM intervention | 12.00% | ~21,390 |
-| A beer, two curses, three companions | 7.00% | ~12,477 |
-| Fireproof Wizardess | 7.00% | ~12,477 |
-| Livin' in a dwarven paradise | 5.00% | ~8,912 |
-| Way of the Wimp | 5.00% | ~8,912 |
-| The plot thickens... At the tavern | 4.00% | ~7,130 |
-| The Woman in the High Castle | 3.00% | ~5,347 |
-| Team Building Exercise | 3.00% | ~5,347 |
-| The demons' feast | 2.00% | ~3,565 |
-| Res Judicata | 2.00% | ~3,565 |
-| I am the night | 2.00% | ~3,565 |
-| Shiny and Crôm | 1.00% | ~1,782 |
-| The Great Library | 1.00% | ~1,782 |
-| Torture and Sensibility | 1.00% | ~1,782 |
-| Dwarf Fortress | 1.00% | ~1,782 |
-| The Ranger of Chaos | 1.00% | ~1,782 |
-| Thieves' Guild Accreditation | 1.00% | ~1,782 |
-| Oh, when I'll be level 10... | 1.00% | ~1,782 |
-| The beards of change | 0.80% | ~1,426 |
-| Lust and Debauchery | 0.80% | ~1,426 |
-| Material Girl | 0.80% | ~1,426 |
-| Gargantua | 0.70% | ~1,248 |
-| In Navalu's footsteps | 0.70% | ~1,248 |
-| Urik's Depths | 0.60% | ~1,069 |
-| Look but don't touch | 0.60% | ~1,069 |
-| The Statuette of Gladeulfeurah | 0.50% | ~891 |
-| A tale of adventurers not quite like the others... | 0.50% | ~891 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.50% | ~891 |
-| It's been a hard day's night | 0.50% | ~891 |
-| Lëgal Legend | 0.50% | ~891 |
-| I'd rather... Just... Sing! | 0.40% | ~713 |
-| The number of the counting shalt be 7 | 0.40% | ~713 |
-| Dead for good | 0.40% | ~713 |
-| Law and Order | 0.40% | ~713 |
-| The Dungeon Master | 0.30% | ~535 |
+| Alt+F4 | 58.00% | ~103,465 |
+| Where's that freaking Dwarf? | 45.00% | ~80,275 |
+| GG EZ | 27.00% | ~48,165 |
+| Speedrun | 26.00% | ~46,381 |
+| Déjà vu | 20.00% | ~35,678 |
+| Sock! SOCK! | 15.00% | ~26,758 |
+| DM intervention | 12.00% | ~21,407 |
+| A beer, two curses, three companions | 7.00% | ~12,487 |
+| Fireproof Wizardess | 7.00% | ~12,487 |
+| Livin' in a dwarven paradise | 5.00% | ~8,919 |
+| Way of the Wimp | 5.00% | ~8,919 |
+| The plot thickens... At the tavern | 4.00% | ~7,136 |
+| The Woman in the High Castle | 3.00% | ~5,352 |
+| Team Building Exercise | 3.00% | ~5,352 |
+| The demons' feast | 2.00% | ~3,568 |
+| Res Judicata | 2.00% | ~3,568 |
+| I am the night | 2.00% | ~3,568 |
+| Shiny and Crôm | 1.00% | ~1,784 |
+| The Great Library | 1.00% | ~1,784 |
+| Torture and Sensibility | 1.00% | ~1,784 |
+| Dwarf Fortress | 1.00% | ~1,784 |
+| The Ranger of Chaos | 1.00% | ~1,784 |
+| Thieves' Guild Accreditation | 1.00% | ~1,784 |
+| Oh, when I'll be level 10... | 1.00% | ~1,784 |
+| The beards of change | 0.80% | ~1,427 |
+| Lust and Debauchery | 0.80% | ~1,427 |
+| Material Girl | 0.80% | ~1,427 |
+| Gargantua | 0.70% | ~1,249 |
+| In Navalu's footsteps | 0.70% | ~1,249 |
+| Urik's Depths | 0.60% | ~1,070 |
+| Look but don't touch | 0.60% | ~1,070 |
+| The Statuette of Gladeulfeurah | 0.50% | ~892 |
+| I'd rather... Just... Sing! | 0.50% | ~892 |
+| A tale of adventurers not quite like the others... | 0.50% | ~892 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.50% | ~892 |
+| It's been a hard day's night | 0.50% | ~892 |
+| Lëgal Legend | 0.50% | ~892 |
+| The Dungeon Master | 0.40% | ~714 |
+| The number of the counting shalt be 7 | 0.40% | ~714 |
+| Dead for good | 0.40% | ~714 |
+| Law and Order | 0.40% | ~714 |
 | Friendly fire | 0.30% | ~535 |
 | The Famous Dungeon of Naheulbeuk | 0.30% | ~535 |
 | An old poacher makes the best gamekeeper | 0.30% | ~535 |
-| Scholar of the Lands of Fangh | 0.20% | ~356 |
-| Insult to injury | 0.20% | ~356 |
+| Scholar of the Lands of Fangh | 0.20% | ~357 |
+| Insult to injury | 0.20% | ~357 |
 | Cursed die | 0.10% | ~178 |
 | Holistic Adventuring Party | 0.10% | ~178 |
 | Necrophilia | 0.10% | ~178 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 178,247 (Ranked 58)  
+Progressed: 178,388 (Ranked 58)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-08 | 171,176 | 0 |
 | 2023-07-09 | 174,947 | 0 |
 | 2023-07-10 | 177,355 | 0 |
-| 2023-07-11 | 178,247 | 0 |
+| 2023-07-11 | 178,388 | 0 |
 ## Awards
 Max (Character Customization): 84  (Ranked 351)  
 Sum: 84 (Ranked 418)  

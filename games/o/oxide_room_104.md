@@ -11,12 +11,12 @@
 | Face to face | 77.00% | ~96 |
 | Now or never | 74.00% | ~92 |
 | Let's play a game… | 73.00% | ~91 |
+| Soundtrack | 61.00% | ~76 |
 | First aid | 60.00% | ~75 |
-| Soundtrack | 60.00% | ~75 |
 | Antidote | 50.00% | ~62 |
-| Pick the right door | 23.00% | ~29 |
+| Pick the right door | 24.00% | ~30 |
+| The third floor | 15.00% | ~19 |
 | One-way | 14.00% | ~18 |
-| The third floor | 14.00% | ~18 |
 | On the right path | 13.00% | ~16 |
 | It can't be true | 12.00% | ~15 |
 | He who seeks, finds! | 11.00% | ~14 |

@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57195,
+  "EOS_Progressed": 57196,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 401,
+  "EOS_NewPlayers": 400,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7622,6 +7622,11 @@
       "Time": "2023-07-11T12:04:28.0819869+00:00",
       "NumProgressed": 57195,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-11T13:20:52.9429295+00:00",
+      "NumProgressed": 57196,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7633,7 +7638,7 @@
       "Name": "Follow the Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 19446
+      "UsersEstimate": 19447
     },
     {
       "ID": "02",
@@ -7681,7 +7686,7 @@
       "Name": "Heavy Metal",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6291
+      "UsersEstimate": 6292
     },
     {
       "ID": "08",
@@ -7689,7 +7694,7 @@
       "Name": "Iron Horse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6291
+      "UsersEstimate": 6292
     },
     {
       "ID": "09",
@@ -7697,7 +7702,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6863
+      "UsersEstimate": 6864
     },
     {
       "ID": "10",
@@ -7793,7 +7798,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6863
+      "UsersEstimate": 6864
     },
     {
       "ID": "22",
@@ -7801,7 +7806,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6291
+      "UsersEstimate": 6292
     },
     {
       "ID": "23",
@@ -7841,7 +7846,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6291
+      "UsersEstimate": 6292
     },
     {
       "ID": "28",
@@ -7849,7 +7854,7 @@
       "Name": "Come One, Come All",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6291
+      "UsersEstimate": 6292
     },
     {
       "ID": "29",
@@ -7857,7 +7862,7 @@
       "Name": "Sound and Fury",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6863
+      "UsersEstimate": 6864
     },
     {
       "ID": "30",
@@ -7889,7 +7894,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6863
+      "UsersEstimate": 6864
     },
     {
       "ID": "34",
@@ -8168,21 +8173,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57195,
+      "Progressed": 57196,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20663,
+      "Progressed": 20664,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-11T12:04:28.0819864+00:00",
+  "LastChanged_Achievements": "2023-07-11T13:20:52.942929+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:08.3646753+00:00",
-  "LastUpdate_Ratings": "2023-07-11T11:58:12.48259+00:00",
-  "LastUpdate_Achievements": "2023-07-11T12:04:28.0821457+00:00"
+  "LastUpdate_Ratings": "2023-07-11T13:15:05.731257+00:00",
+  "LastUpdate_Achievements": "2023-07-11T13:20:52.9430382+00:00"
 }

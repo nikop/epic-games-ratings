@@ -67,8 +67,8 @@ Rating: 4.11 (Ranked 885)
 | Guardian Master | 0.70% | ~11 |
 | Training makes a Pro player | 0.70% | ~11 |
 | Transmute | 0.60% | ~10 |
-| Tree of Life | 0.50% | ~8 |
-| Cauldron Liberator | 0.40% | ~6 |
+| Tree of Life | 0.60% | ~10 |
+| Cauldron Liberator | 0.50% | ~8 |
 | Enchanting skill x5 | 0.40% | ~6 |
 | Pokerface | 0.40% | ~6 |
 | Titan Power | 0.40% | ~6 |

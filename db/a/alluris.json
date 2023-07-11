@@ -4,7 +4,7 @@
   "ProductSlug": "alluris",
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewPlayers": 318,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-08-27T12:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:52.8324039+00:00",
   "LastChanged": "2023-03-31T05:57:52.832404+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:43.2896212+00:00",
-  "LastUpdate_Ratings": "2023-07-11T11:58:45.2807889+00:00",
-  "LastUpdate_Achievements": "2023-07-11T12:06:32.7808264+00:00"
+  "LastUpdate_Ratings": "2023-07-11T13:15:28.2607602+00:00",
+  "LastUpdate_Achievements": "2023-07-11T13:22:22.0667206+00:00"
 }

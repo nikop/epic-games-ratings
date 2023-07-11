@@ -6,34 +6,34 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,510 |
-| The Mad Wizard | 11.00% | ~23,107 |
-| The Ring of Regeneration | 7.00% | ~14,704 |
-| Are Ya Chicken? | 7.00% | ~14,704 |
-| Were-verpowered | 6.00% | ~12,604 |
-| Seeking Allies | 5.00% | ~10,503 |
-| Mad Cow Disease | 5.00% | ~10,503 |
-| Friendly Imps | 5.00% | ~10,503 |
-| A Persistent Buzzing | 4.00% | ~8,403 |
-| Pure Energy | 4.00% | ~8,403 |
-| Beast Mode | 3.00% | ~6,302 |
-| Terror in the Dark | 3.00% | ~6,302 |
-| A Mysterious Summons | 3.00% | ~6,302 |
-| Unearthed Evil | 3.00% | ~6,302 |
-| The Crumbling Temple | 3.00% | ~6,302 |
-| Exploring Port Nyanzaru | 3.00% | ~6,302 |
-| The Contagious Curse | 3.00% | ~6,302 |
-| Escort to Waterdeep | 3.00% | ~6,302 |
-| Low Initiative | 2.00% | ~4,201 |
-| Building Trust | 2.00% | ~4,201 |
-| March of the Undead | 2.00% | ~4,201 |
-| No Time To Rest | 2.00% | ~4,201 |
-| Useless Allies | 2.00% | ~4,201 |
-| Running of the Saurs | 2.00% | ~4,201 |
-| Waterdeep Detours | 2.00% | ~4,201 |
-| Underdeep Cartography | 2.00% | ~4,201 |
-| Overdue Rendezvous | 2.00% | ~4,201 |
-| The Templar's Camp | 2.00% | ~4,201 |
+| The Cursed Farmer | 15.00% | ~31,514 |
+| The Mad Wizard | 11.00% | ~23,110 |
+| The Ring of Regeneration | 7.00% | ~14,706 |
+| Are Ya Chicken? | 7.00% | ~14,706 |
+| Were-verpowered | 6.00% | ~12,605 |
+| Seeking Allies | 5.00% | ~10,504 |
+| Mad Cow Disease | 5.00% | ~10,504 |
+| Friendly Imps | 5.00% | ~10,504 |
+| A Persistent Buzzing | 4.00% | ~8,404 |
+| Pure Energy | 4.00% | ~8,404 |
+| Beast Mode | 3.00% | ~6,303 |
+| Terror in the Dark | 3.00% | ~6,303 |
+| A Mysterious Summons | 3.00% | ~6,303 |
+| Unearthed Evil | 3.00% | ~6,303 |
+| The Crumbling Temple | 3.00% | ~6,303 |
+| Exploring Port Nyanzaru | 3.00% | ~6,303 |
+| The Contagious Curse | 3.00% | ~6,303 |
+| Escort to Waterdeep | 3.00% | ~6,303 |
+| Low Initiative | 2.00% | ~4,202 |
+| Building Trust | 2.00% | ~4,202 |
+| March of the Undead | 2.00% | ~4,202 |
+| No Time To Rest | 2.00% | ~4,202 |
+| Useless Allies | 2.00% | ~4,202 |
+| Running of the Saurs | 2.00% | ~4,202 |
+| Waterdeep Detours | 2.00% | ~4,202 |
+| Underdeep Cartography | 2.00% | ~4,202 |
+| Overdue Rendezvous | 2.00% | ~4,202 |
+| The Templar's Camp | 2.00% | ~4,202 |
 | Homecoming | 1.00% | ~2,101 |
 | The Lost Heir of Omu | 1.00% | ~2,101 |
 | Street War | 1.00% | ~2,101 |
@@ -64,25 +64,25 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Darkness Runs Deeper | 0.80% | ~1,681 |
 | The Giant's Bane Tavern | 0.80% | ~1,411 |
 | Rude Welcome | 0.80% | ~1,681 |
+| Durable Deep | 0.80% | ~1,681 |
 | The Haunted Jungle | 0.80% | ~1,681 |
-| Tomb of the Nine Gods | 0.70% | ~1,470 |
-| Family Entanglements | 0.70% | ~1,470 |
-| The Immortal Warrior | 0.70% | ~1,470 |
-| The Wyrmheart Mine | 0.70% | ~1,470 |
-| Fugitives | 0.70% | ~1,470 |
-| Hopelessly Lost | 0.70% | ~1,470 |
-| Crowded Streets | 0.70% | ~1,470 |
-| Market Fluctuations | 0.70% | ~1,470 |
-| Durable Deep | 0.70% | ~1,470 |
-| Tower on the Lake | 0.60% | ~1,260 |
-| The Guardian of Orolunga | 0.60% | ~1,260 |
-| The Lost Love | 0.60% | ~1,260 |
-| Enter the Sargauth | 0.60% | ~1,260 |
-| Lair of the Xanathar | 0.60% | ~1,260 |
-| Difficult Terrain | 0.60% | ~1,260 |
-| Elturel Has Fallen | 0.60% | ~1,260 |
+| Tomb of the Nine Gods | 0.70% | ~1,471 |
+| Family Entanglements | 0.70% | ~1,471 |
+| The Immortal Warrior | 0.70% | ~1,471 |
+| The Wyrmheart Mine | 0.70% | ~1,471 |
+| Fugitives | 0.70% | ~1,471 |
+| Hopelessly Lost | 0.70% | ~1,471 |
+| Crowded Streets | 0.70% | ~1,471 |
+| Difficult Terrain | 0.70% | ~1,471 |
+| Market Fluctuations | 0.70% | ~1,471 |
+| Tower on the Lake | 0.60% | ~1,261 |
+| The Guardian of Orolunga | 0.60% | ~1,261 |
+| The Lost Love | 0.60% | ~1,261 |
+| Enter the Sargauth | 0.60% | ~1,261 |
+| Lair of the Xanathar | 0.60% | ~1,261 |
+| Elturel Has Fallen | 0.60% | ~1,261 |
 | The Everlasting Rime | 0.60% | ~1,058 |
-| Expert Opinion | 0.60% | ~1,260 |
+| Expert Opinion | 0.60% | ~1,261 |
 | Lobsterfolk Assault | 0.50% | ~1,050 |
 | Home Field Advantage | 0.50% | ~1,050 |
 | Force Grey Unleashed | 0.50% | ~1,050 |
@@ -156,6 +156,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Troublesome Prisoner | 0.30% | ~630 |
 | Dark Doppelgangers | 0.30% | ~630 |
 | Cold & Wet | 0.30% | ~630 |
+| The Gargoyle | 0.30% | ~529 |
 | Tiamat's Army | 0.30% | ~529 |
 | Questlines | 0.30% | ~529 |
 | Bel's Forge | 0.30% | ~529 |
@@ -196,6 +197,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Intelligence Hunt | 0.20% | ~420 |
 | Visions of Strahd | 0.20% | ~420 |
 | Seeds of Corruption | 0.20% | ~420 |
+| The Strahd Squad | 0.20% | ~353 |
 | Home Not So Alone | 0.20% | ~353 |
 | Review by the Blackstaff | 0.20% | ~353 |
 | Think Your Way Out Of It | 0.20% | ~420 |
@@ -242,7 +244,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Path of Redcaps | 0.20% | ~353 |
 | The Path of Trials | 0.20% | ~353 |
 | Elder Rune Attack | 0.20% | ~353 |
-| The Gargoyle | 0.20% | ~353 |
 | Madcap Adventures Redux | 0.20% | ~353 |
 | Raggadragga's Crew | 0.20% | ~353 |
 | Extreme Heat | 0.20% | ~353 |
@@ -291,7 +292,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Acererak's Puzzle | 0.10% | ~176 |
 | Drop of Time | 0.10% | ~176 |
 | Mongrelfolk Incursion | 0.10% | ~176 |
-| The Strahd Squad | 0.10% | ~176 |
 | Red Wizard 'Escort' | 0.10% | ~176 |
 | Spirit of the Trickster Gods | 0.10% | ~176 |
 | A Nod from Strahd | 0.10% | ~176 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,064 (Ranked 52)  
+Progressed: 210,090 (Ranked 52)  
 Completed: 2,045 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -592,7 +592,7 @@ Completed: 2,045 (0.97%) (Ranked 102)
 | 2023-07-08 | 208,782 | 2,041 |
 | 2023-07-09 | 209,384 | 2,043 |
 | 2023-07-10 | 209,861 | 2,045 |
-| 2023-07-11 | 210,064 | 2,045 |
+| 2023-07-11 | 210,090 | 2,045 |
 ## Awards
 Max (Diverse Characters): 5,025  (Ranked 65)  
 Sum: 30,477 (Ranked 38)  

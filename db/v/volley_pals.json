@@ -446,25 +446,25 @@
       "ID": "LEVEL_1",
       "SetID": "1fnbp5h",
       "Name": "Library",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 100,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "LEVEL_2",
       "SetID": "1fnbp5h",
       "Name": "Space",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "LEVEL_3",
       "SetID": "1fnbp5h",
       "Name": "Haunted Mansion",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "LEVEL_4",
@@ -524,8 +524,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-02T15:59:43.451096+00:00",
-  "LastChanged_Achievements": "2023-07-11T12:04:24.6008755+00:00",
+  "LastChanged_Achievements": "2023-07-11T13:20:50.419923+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:31.2476875+00:00",
-  "LastUpdate_Ratings": "2023-07-11T11:57:41.7945039+00:00",
-  "LastUpdate_Achievements": "2023-07-11T12:04:24.6008918+00:00"
+  "LastUpdate_Ratings": "2023-07-11T13:14:43.172984+00:00",
+  "LastUpdate_Achievements": "2023-07-11T13:20:50.4199353+00:00"
 }

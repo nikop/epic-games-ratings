@@ -3618,9 +3618,9 @@
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
       "SetID": "akchbl3",
       "Name": "The Show Must Go On",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 509
+      "UsersEstimate": 572
     },
     {
       "ID": "ISONZO_ACH_THUS_WITH_A_KISS",
@@ -3683,8 +3683,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-07-04T13:15:35.7816607+00:00",
-  "LastChanged_Achievements": "2023-07-11T12:05:00.6169061+00:00",
+  "LastChanged_Achievements": "2023-07-11T13:21:16.4557376+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:47.5967083+00:00",
-  "LastUpdate_Ratings": "2023-07-11T11:57:57.4498145+00:00",
-  "LastUpdate_Achievements": "2023-07-11T12:05:00.6169752+00:00"
+  "LastUpdate_Ratings": "2023-07-11T13:14:54.010395+00:00",
+  "LastUpdate_Achievements": "2023-07-11T13:21:16.4557835+00:00"
 }

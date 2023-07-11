@@ -1248,25 +1248,25 @@
       "ID": "ach_waves_1",
       "SetID": "bf10c8p",
       "Name": "Survivor",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ach_waves_10",
       "SetID": "bf10c8p",
       "Name": "Early Survivor",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 51
     },
     {
       "ID": "ach_waves_20",
       "SetID": "bf10c8p",
       "Name": "Amateur Survivor",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "ach_waves_30",
@@ -1399,8 +1399,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-07-11T12:05:11.646567+00:00",
+  "LastChanged_Achievements": "2023-07-11T13:21:24.5682205+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:01.6150749+00:00",
-  "LastUpdate_Ratings": "2023-07-11T11:59:01.7552513+00:00",
-  "LastUpdate_Achievements": "2023-07-11T12:05:11.646684+00:00"
+  "LastUpdate_Ratings": "2023-07-11T13:15:40.8337856+00:00",
+  "LastUpdate_Achievements": "2023-07-11T13:21:24.5683001+00:00"
 }

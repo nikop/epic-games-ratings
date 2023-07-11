@@ -6,7 +6,7 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 34.00% | ~19,446 |
+| Follow the Light | 34.00% | ~19,447 |
 | Let There Be Light | 27.00% | ~15,443 |
 | Float Like a Butterfly | 26.00% | ~14,871 |
 | Nordic Walking | 21.00% | ~12,011 |
@@ -17,15 +17,15 @@ Number of Ratings: 524  (23.09.2022)
 | Back! Back, I Say! | 14.00% | ~8,007 |
 | Finders Keepers | 14.00% | ~8,007 |
 | Damn Good Cup of Coffee | 13.00% | ~7,435 |
-| Wheels Within Wheels | 12.00% | ~6,863 |
-| They're Heeeeeere! | 12.00% | ~6,863 |
-| Sound and Fury | 12.00% | ~6,863 |
-| Missed by a Mile | 12.00% | ~6,863 |
-| Heavy Metal | 11.00% | ~6,291 |
-| Iron Horse | 11.00% | ~6,291 |
-| The Six-Gun Scribe | 11.00% | ~6,291 |
-| Collateral Carnage | 11.00% | ~6,291 |
-| Come One, Come All | 11.00% | ~6,291 |
+| Wheels Within Wheels | 12.00% | ~6,864 |
+| They're Heeeeeere! | 12.00% | ~6,864 |
+| Sound and Fury | 12.00% | ~6,864 |
+| Missed by a Mile | 12.00% | ~6,864 |
+| Heavy Metal | 11.00% | ~6,292 |
+| Iron Horse | 11.00% | ~6,292 |
+| The Six-Gun Scribe | 11.00% | ~6,292 |
+| Collateral Carnage | 11.00% | ~6,292 |
+| Come One, Come All | 11.00% | ~6,292 |
 | Perchance to Dream | 10.00% | ~5,720 |
 | It's Not Just a Typewriter Brand | 10.00% | ~5,720 |
 | Thunder and Lightning | 10.00% | ~5,720 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~57 |
 | No Punctuation | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,195 (Ranked 81)  
+Progressed: 57,196 (Ranked 81)  
 Completed: 57 (0.10%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 57 (0.10%) (Ranked 184)
 | 2023-07-08 | 57,062 | 57 |
 | 2023-07-09 | 57,124 | 57 |
 | 2023-07-10 | 57,171 | 57 |
-| 2023-07-11 | 57,195 | 57 |
+| 2023-07-11 | 57,196 | 57 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

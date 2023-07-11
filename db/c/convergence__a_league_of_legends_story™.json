@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -1787,9 +1787,9 @@
       "ID": "JinxDefeated",
       "SetID": "a9e499d",
       "Name": "The Loose Cannon",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 105
     },
     {
       "ID": "LacunaCompleted",
@@ -2034,8 +2034,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-11T12:07:55.5900228+00:00",
+  "LastChanged_Achievements": "2023-07-11T13:23:21.1585221+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:34.816735+00:00",
-  "LastUpdate_Ratings": "2023-07-11T12:00:27.717807+00:00",
-  "LastUpdate_Achievements": "2023-07-11T12:07:55.5900996+00:00"
+  "LastUpdate_Ratings": "2023-07-11T13:16:43.6669856+00:00",
+  "LastUpdate_Achievements": "2023-07-11T13:23:21.1585773+00:00"
 }

@@ -33,7 +33,7 @@ Number of Ratings: 98  (23.09.2022)
 | The Devil's Paintbrush | 11.00% | ~700 |
 | I Have the High Ground | 10.00% | ~636 |
 | Millenial | 9.00% | ~572 |
-| The Show Must Go On | 8.00% | ~509 |
+| The Show Must Go On | 9.00% | ~572 |
 | Tosca | 8.00% | ~509 |
 | 12th Bottle of the Isonzo | 6.00% | ~382 |
 | Cercatore d'Oro | 6.00% | ~382 |

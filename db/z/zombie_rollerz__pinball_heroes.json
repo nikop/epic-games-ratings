@@ -4,7 +4,7 @@
   "ProductSlug": "zombie-rollerz-7aa027",
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -471,9 +471,9 @@
       "ID": "CLG_UNLOCK_10004",
       "SetID": "89cjc9l",
       "Name": "The Blacksmith",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "CLG_UNLOCK_10005",
@@ -631,9 +631,9 @@
       "ID": "PRG_BOSS_THROWER",
       "SetID": "89cjc9l",
       "Name": "The Thrower",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "PRG_BOSS_TUNNELER",
@@ -968,8 +968,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-07-11T12:02:18.301482+00:00",
+  "LastChanged_Achievements": "2023-07-11T13:18:01.775224+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:47.3455238+00:00",
-  "LastUpdate_Ratings": "2023-07-11T11:57:56.6260878+00:00",
-  "LastUpdate_Achievements": "2023-07-11T12:02:18.3015653+00:00"
+  "LastUpdate_Ratings": "2023-07-11T13:14:53.3307892+00:00",
+  "LastUpdate_Achievements": "2023-07-11T13:18:01.7753077+00:00"
 }

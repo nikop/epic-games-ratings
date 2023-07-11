@@ -10,8 +10,8 @@
 | Villfir Forest | 79.00% | ~92 |
 | Right in the kisser! | 63.00% | ~74 |
 | The Shaman | 50.00% | ~58 |
+| The Thrower | 50.00% | ~58 |
 | Duscot Steamcity | 50.00% | ~58 |
-| The Thrower | 49.00% | ~57 |
 | The Penguin | 46.00% | ~54 |
 | The Magician | 44.00% | ~51 |
 | The Tunneler | 40.00% | ~47 |
@@ -30,7 +30,7 @@
 | The Slime | 21.00% | ~25 |
 | The Flower | 19.00% | ~22 |
 | Out of the Frying Pan... | 19.00% | ~22 |
-| The Blacksmith | 17.00% | ~20 |
+| The Blacksmith | 18.00% | ~21 |
 | The Ooze | 16.00% | ~19 |
 | Turquoise | 16.00% | ~19 |
 | The Assistant | 15.00% | ~18 |

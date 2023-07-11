@@ -9,6 +9,7 @@
 | Rail Rat | 15.00% | ~113 |
 | The Steel Shadow | 14.00% | ~105 |
 | The Man Who Shattered Time | 14.00% | ~105 |
+| The Loose Cannon | 14.00% | ~105 |
 | Make Up For Lost Time | 14.00% | ~105 |
 | Cartographer | 14.00% | ~105 |
 | Breaking Down Barriers | 14.00% | ~105 |
@@ -19,7 +20,6 @@
 | The Family Fortune | 14.00% | ~105 |
 | Treasure Trove | 13.00% | ~98 |
 | The Betrayer | 13.00% | ~98 |
-| The Loose Cannon | 13.00% | ~98 |
 | Time Flies | 13.00% | ~98 |
 | The Harder They Fall | 13.00% | ~98 |
 | No, Thanks! | 13.00% | ~98 |

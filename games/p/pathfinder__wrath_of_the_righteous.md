@@ -6,7 +6,7 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 20.00% | ~2,052 |
+| Devoured by Darkness | 20.00% | ~2,053 |
 | Burning City | 14.00% | ~1,437 |
 | A Spark | 14.00% | ~1,437 |
 | Mythic Choices | 11.00% | ~1,129 |
@@ -17,11 +17,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | Embrace of the Abyss | 5.00% | ~513 |
 | Path of the Angel | 5.00% | ~513 |
 | Demonic and Divine | 5.00% | ~513 |
-| Path of the Azata | 4.00% | ~410 |
-| Transformation | 4.00% | ~410 |
-| Great Upstart | 4.00% | ~410 |
-| Voice from Your Dreams | 4.00% | ~410 |
-| All Paths Open | 4.00% | ~410 |
+| Path of the Azata | 4.00% | ~411 |
+| Transformation | 4.00% | ~411 |
+| Great Upstart | 4.00% | ~411 |
+| Voice from Your Dreams | 4.00% | ~411 |
+| All Paths Open | 4.00% | ~411 |
 | Heart of the Fallen Land | 3.00% | ~308 |
 | The Legacy | 3.00% | ~308 |
 | Divide and Rule | 3.00% | ~308 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,262 (Ranked 116)  
+Progressed: 10,263 (Ranked 116)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,10 +205,10 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-08 | 10,230 | 0 |
 | 2023-07-09 | 10,246 | 0 |
 | 2023-07-10 | 10,256 | 0 |
-| 2023-07-11 | 10,262 | 0 |
+| 2023-07-11 | 10,263 | 0 |
 ## Awards
 Max (Character Customization): 1,676  (Ranked 117)  
-Sum: 6,805 (Ranked 112)  
+Sum: 6,808 (Ranked 112)  
 Diff (max vs sum): 5  
 | Award | Count |
 | ----- | ----- |
@@ -217,9 +217,9 @@ Diff (max vs sum): 5
 | This game is Highly Recommended | 623 |
 | This game has Amazing Characters | 621 |
 | This game has Diverse Characters | 606 |
-| This game has Amazing Storytelling | 600 |
+| This game has Amazing Storytelling | 601 |
 | This game has Challenging Combat | 561 |
-| This game has Quickly Understood Controls | 558 |
+| This game has Quickly Understood Controls | 560 |
 | This game is Relaxing | 537 |
 | This game has a Creative Community | 381 |
 | This game has Obsessive Gameplay | 364 |
@@ -388,3 +388,4 @@ Diff (max vs sum): 5
 | 2023-07-07 | 4.76 | - | 1,673 | 6,799 |
 | 2023-07-08 | 4.76 | - | 1,674 | 6,800 |
 | 2023-07-10 | 4.76 | - | 1,676 | 6,805 |
+| 2023-07-11 | 4.76 | - | 1,676 | 6,808 |
