@@ -33,9 +33,9 @@ Number of Ratings: 836  (23.09.2022)
 | War Never Changes | 19.00% | ~1,382 |
 | Rocket Surgeon | 19.00% | ~1,382 |
 | Big Game Hunter | 17.00% | ~1,236 |
+| Spreading Influence | 17.00% | ~1,236 |
 | Friendly | 16.00% | ~1,164 |
 | Around the World | 16.00% | ~1,164 |
-| Spreading Influence | 16.00% | ~1,164 |
 | Bookworm | 15.00% | ~1,091 |
 | Famous Adventurer | 13.00% | ~945 |
 | Prepared for Anything | 13.00% | ~945 |

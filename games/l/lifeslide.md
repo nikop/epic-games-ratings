@@ -12,7 +12,7 @@
 | Change of Heart | 56.00% | ~180 |
 | Turbulence | 38.00% | ~122 |
 | Endless Possibilities | 37.00% | ~119 |
-| Finding The Way | 24.00% | ~77 |
+| Finding The Way | 25.00% | ~80 |
 | Tangibility | 21.00% | ~68 |
 | On The Right Path | 19.00% | ~61 |
 | Around The World | 19.00% | ~61 |

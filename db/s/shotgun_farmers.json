@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 183,
+  "EOS_Progressed": 184,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -768,6 +768,11 @@
       "Time": "2023-07-11T02:21:50.3312096+00:00",
       "NumProgressed": 183,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-11T05:04:38.4360776+00:00",
+      "NumProgressed": 184,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 74,
@@ -787,7 +792,7 @@
       "Name": "Chick Magnet",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_crushed_by_supply_drop",
@@ -827,7 +832,7 @@
       "Name": "First Blood",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ach_first_harvest",
@@ -939,7 +944,7 @@
       "Name": "Early Bird",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_prestige_1",
@@ -1067,7 +1072,7 @@
       "Name": "No Asperascope",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ach_steal_x_gnomes",
@@ -1083,7 +1088,7 @@
       "Name": "10K",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ach_tripleKill",
@@ -1121,9 +1126,9 @@
       "ID": "ach_x_victims_using_shotgun",
       "SetID": "cmg602e",
       "Name": "Cornivore",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 79
     },
     {
       "ID": "ach_all_koth_points",
@@ -1297,9 +1302,9 @@
       "ID": "ach_x_victims_holding_shovel",
       "SetID": "bf10c8p",
       "Name": "No Diggity",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 47
     },
     {
       "ID": "ach_x_victims_using_bow",
@@ -1370,13 +1375,13 @@
     {
       "ID": "cmg602e",
       "IsBase": true,
-      "Progressed": 183,
+      "Progressed": 184,
       "Completed": 0
     },
     {
       "ID": "bf10c8p",
       "IsBase": false,
-      "Progressed": 133,
+      "Progressed": 134,
       "Completed": 2
     }
   ],
@@ -1384,8 +1389,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-07-11T04:05:29.4573814+00:00",
+  "LastChanged_Achievements": "2023-07-11T05:04:38.4360772+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:01.6150749+00:00",
-  "LastUpdate_Ratings": "2023-07-11T03:59:10.1033944+00:00",
-  "LastUpdate_Achievements": "2023-07-11T04:05:29.4574434+00:00"
+  "LastUpdate_Ratings": "2023-07-11T04:58:52.3313498+00:00",
+  "LastUpdate_Achievements": "2023-07-11T05:04:38.4361391+00:00"
 }

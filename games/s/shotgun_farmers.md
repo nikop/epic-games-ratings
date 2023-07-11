@@ -8,15 +8,15 @@
 | Aspairagus | 51.00% | ~68 |
 | Triple Kill | 49.00% | ~90 |
 | Survivor | 47.00% | ~63 |
-| First Blood | 46.00% | ~84 |
-| Cornivore | 44.00% | ~81 |
+| First Blood | 46.00% | ~85 |
+| Cornivore | 43.00% | ~79 |
 | I Believe I Can Fly | 41.00% | ~75 |
-| No Asperascope | 40.00% | ~73 |
+| No Asperascope | 40.00% | ~74 |
 | Early Survivor | 36.00% | ~48 |
-| No Diggity | 36.00% | ~48 |
+| No Diggity | 35.00% | ~47 |
 | Amateur Survivor | 26.00% | ~35 |
 | Bouncemato | 23.00% | ~31 |
-| 10K | 21.00% | ~38 |
+| 10K | 21.00% | ~39 |
 | 15K | 20.00% | ~37 |
 | Drinking Problem | 18.00% | ~33 |
 | Professional Survivor | 18.00% | ~24 |
@@ -38,8 +38,8 @@
 | Quadsparagus | 6.00% | ~8 |
 | Bring Home The Bacon | 5.00% | ~9 |
 | Master Survivor | 4.00% | ~5 |
-| Chick Magnet | 3.00% | ~5 |
-| Early Bird | 3.00% | ~5 |
+| Chick Magnet | 3.00% | ~6 |
+| Early Bird | 3.00% | ~6 |
 | Heart Breaker | 3.00% | ~4 |
 | Easy Peasy | 2.00% | ~3 |
 | Honk Honk | 1.00% | ~2 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 183 (Ranked 273)  
+Progressed: 184 (Ranked 273)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-08 | 141 | 0 |
 | 2023-07-09 | 160 | 0 |
 | 2023-07-10 | 181 | 0 |
-| 2023-07-11 | 183 | 0 |
+| 2023-07-11 | 184 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

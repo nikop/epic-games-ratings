@@ -6,29 +6,29 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~637,999 |
-| Green Energy | 60.00% | ~539,154 |
-| Foggy Weather | 59.00% | ~530,168 |
-| Singing In The- | 59.00% | ~530,168 |
-| Unpopular Mayor | 41.00% | ~368,422 |
-| Power at Your Fingertips | 33.00% | ~296,535 |
-| City Planner | 23.00% | ~206,676 |
-| Rolling in Dough | 20.00% | ~179,718 |
-| Does My Bum Look Big In This? | 17.00% | ~152,760 |
-| Climbing the Social Ladder | 16.00% | ~143,774 |
-| Safe City | 14.00% | ~125,803 |
-| Quay-King | 11.00% | ~98,845 |
-| Lawmaker | 10.00% | ~89,859 |
-| With Canals You Can! | 10.00% | ~89,859 |
-| Nomen Est Omen | 7.00% | ~62,901 |
-| Well Informed | 6.00% | ~53,915 |
-| Fire Watch | 5.00% | ~44,930 |
-| Greenest City | 4.00% | ~35,944 |
-| Heavenly City | 3.00% | ~26,958 |
-| Reporting! | 3.00% | ~26,958 |
-| SIMulated City | 3.00% | ~26,958 |
-| The Safest Town | 3.00% | ~26,958 |
-| Professional Dumper | 2.00% | ~17,972 |
+| Pioneer | 71.00% | ~638,029 |
+| Green Energy | 60.00% | ~539,180 |
+| Foggy Weather | 59.00% | ~530,193 |
+| Singing In The- | 59.00% | ~530,193 |
+| Unpopular Mayor | 41.00% | ~368,440 |
+| Power at Your Fingertips | 33.00% | ~296,549 |
+| City Planner | 23.00% | ~206,686 |
+| Rolling in Dough | 20.00% | ~179,727 |
+| Does My Bum Look Big In This? | 17.00% | ~152,768 |
+| Climbing the Social Ladder | 16.00% | ~143,781 |
+| Safe City | 14.00% | ~125,809 |
+| Quay-King | 11.00% | ~98,850 |
+| Lawmaker | 10.00% | ~89,863 |
+| With Canals You Can! | 10.00% | ~89,863 |
+| Nomen Est Omen | 7.00% | ~62,904 |
+| Well Informed | 6.00% | ~53,918 |
+| Fire Watch | 5.00% | ~44,932 |
+| Greenest City | 4.00% | ~35,945 |
+| Heavenly City | 3.00% | ~26,959 |
+| Reporting! | 3.00% | ~26,959 |
+| SIMulated City | 3.00% | ~26,959 |
+| The Safest Town | 3.00% | ~26,959 |
+| Professional Dumper | 2.00% | ~17,973 |
 | City in Motion | 1.00% | ~8,986 |
 | Earthloving City | 1.00% | ~8,986 |
 | Metropolis | 1.00% | ~8,986 |
@@ -45,12 +45,12 @@ Number of Ratings: 25,248  (23.09.2022)
 | The Waters of Our Lives | 0.50% | ~4,493 |
 | Thunder and Lightning | 0.50% | ~4,493 |
 | Twist and shout | 0.50% | ~4,493 |
-| Airfield Expertise | 0.40% | ~3,594 |
-| Airlifter | 0.40% | ~3,594 |
-| Get Your Snowshoes Ready! | 0.40% | ~3,594 |
-| Happy Town | 0.40% | ~3,594 |
-| I Want It All | 0.40% | ~3,594 |
-| Just Tolling | 0.40% | ~3,594 |
+| Airfield Expertise | 0.40% | ~3,595 |
+| Airlifter | 0.40% | ~3,595 |
+| Get Your Snowshoes Ready! | 0.40% | ~3,595 |
+| Happy Town | 0.40% | ~3,595 |
+| I Want It All | 0.40% | ~3,595 |
+| Just Tolling | 0.40% | ~3,595 |
 | A Huge Hadron | 0.30% | ~2,696 |
 | Airport Architect | 0.30% | ~2,696 |
 | Are They Naked In There? | 0.30% | ~2,696 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~899 |
 | Z00 | 0.10% | ~899 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 898,590 (Ranked 13)  
+Progressed: 898,633 (Ranked 13)  
 Completed: 9 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,10 +208,10 @@ Completed: 9 (0.00%) (Ranked 237)
 | 2023-07-08 | 893,052 | 9 |
 | 2023-07-09 | 895,998 | 9 |
 | 2023-07-10 | 898,273 | 9 |
-| 2023-07-11 | 898,590 | 9 |
+| 2023-07-11 | 898,633 | 9 |
 ## Awards
 Max (Relaxing): 4,908  (Ranked 67)  
-Sum: 37,301 (Ranked 33)  
+Sum: 37,309 (Ranked 33)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
@@ -220,10 +220,10 @@ Diff (max vs sum): 34
 | This game has Quickly Understood Controls | 4,610 |
 | This game is Educational | 4,579 |
 | This game is Extremely Fun | 4,287 |
-| This game is Highly Recommended | 4,151 |
+| This game is Highly Recommended | 4,156 |
 | This game has Amazing Storytelling | 3,515 |
 | This game has a Creative Community | 3,354 |
-| This game has Amazing Characters | 2,994 |
+| This game has Amazing Characters | 2,997 |
 | This game has Obsessive Gameplay | 2,497 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -394,4 +394,4 @@ Diff (max vs sum): 34
 | 2023-07-08 | 4.65 | - | 4,894 | 37,182 |
 | 2023-07-09 | 4.65 | - | 4,899 | 37,237 |
 | 2023-07-10 | 4.65 | - | 4,908 | 37,289 |
-| 2023-07-11 | 4.65 | - | 4,908 | 37,301 |
+| 2023-07-11 | 4.65 | - | 4,908 | 37,309 |

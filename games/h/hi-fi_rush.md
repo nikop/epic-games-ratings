@@ -10,15 +10,15 @@ Rating: 4.87 (Ranked 25)
 | Kissing the sky! | 0.90% | ~31 |
 | Cream of the Crop | 0.80% | ~27 |
 | The Negotiator | 0.80% | ~27 |
+| Time to pay up! | 0.80% | ~27 |
 | Thanks for the free chip, Peppermint! | 0.80% | ~27 |
 | You got this, Peppermint? | 0.80% | ~27 |
 | Z-shielding's got nothing on us! | 0.80% | ~27 |
+| Out in a puff of smoke | 0.80% | ~27 |
 | Who put gears in there? | 0.80% | ~27 |
 | This will cost you big time | 0.70% | ~24 |
-| Time to pay up! | 0.70% | ~24 |
 | Who's the boss now? | 0.70% | ~24 |
 | Whoa! There's ANOTHER health bar!? | 0.70% | ~24 |
-| Out in a puff of smoke | 0.70% | ~24 |
 | Perfect Parry | 0.70% | ~24 |
 | Uh, they were broken when I got here | 0.70% | ~24 |
 | Alright, that felt AWESOME! | 0.70% | ~24 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 25)
 | OK, I THINK I know what I'm doing now | 0.00% | ~0 |
 | Low budget finish | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,431 (Ranked 145)  
+Progressed: 3,432 (Ranked 145)  
 Completed: 5 (0.15%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,6 +158,7 @@ Completed: 5 (0.15%) (Ranked 172)
 | 2023-07-08 | 3,426 | 5 |
 | 2023-07-09 | 3,429 | 5 |
 | 2023-07-10 | 3,431 | 5 |
+| 2023-07-11 | 3,432 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

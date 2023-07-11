@@ -7,20 +7,20 @@ Number of Ratings: 524  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Follow the Light | 34.00% | ~19,444 |
-| Let There Be Light | 27.00% | ~15,440 |
+| Let There Be Light | 27.00% | ~15,441 |
 | Float Like a Butterfly | 26.00% | ~14,869 |
 | Nordic Walking | 21.00% | ~12,009 |
-| Bright Falls' Finest | 20.00% | ~11,437 |
+| Bright Falls' Finest | 20.00% | ~11,438 |
 | Under a Thin Layer of Skin | 18.00% | ~10,294 |
 | Park Ranger | 15.00% | ~8,578 |
 | Paging Mr. Wake | 15.00% | ~8,578 |
 | Back! Back, I Say! | 14.00% | ~8,006 |
 | Finders Keepers | 14.00% | ~8,006 |
 | Damn Good Cup of Coffee | 13.00% | ~7,434 |
-| Wheels Within Wheels | 12.00% | ~6,862 |
-| They're Heeeeeere! | 12.00% | ~6,862 |
-| Sound and Fury | 12.00% | ~6,862 |
-| Missed by a Mile | 12.00% | ~6,862 |
+| Wheels Within Wheels | 12.00% | ~6,863 |
+| They're Heeeeeere! | 12.00% | ~6,863 |
+| Sound and Fury | 12.00% | ~6,863 |
+| Missed by a Mile | 12.00% | ~6,863 |
 | Heavy Metal | 11.00% | ~6,291 |
 | Iron Horse | 11.00% | ~6,291 |
 | The Six-Gun Scribe | 11.00% | ~6,291 |
@@ -42,10 +42,10 @@ Number of Ratings: 524  (23.09.2022)
 | Drink 'Em Both Up | 5.00% | ~2,859 |
 | Hardboiled Writer | 5.00% | ~2,859 |
 | Ding! | 5.00% | ~1,033 |
-| Boob Tube | 4.00% | ~2,287 |
-| Children of the Elder God | 4.00% | ~2,287 |
-| If It Flies, It Burns | 4.00% | ~2,287 |
-| KBF-FM | 4.00% | ~2,287 |
+| Boob Tube | 4.00% | ~2,288 |
+| Children of the Elder God | 4.00% | ~2,288 |
+| If It Flies, It Burns | 4.00% | ~2,288 |
+| KBF-FM | 4.00% | ~2,288 |
 | Kill Your Darlings | 3.00% | ~620 |
 | Heartbreaker | 3.00% | ~620 |
 | Medical Opinions | 2.00% | ~1,144 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~57 |
 | No Punctuation | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,187 (Ranked 81)  
+Progressed: 57,188 (Ranked 81)  
 Completed: 57 (0.10%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 57 (0.10%) (Ranked 183)
 | 2023-07-08 | 57,062 | 57 |
 | 2023-07-09 | 57,124 | 57 |
 | 2023-07-10 | 57,171 | 57 |
-| 2023-07-11 | 57,187 | 57 |
+| 2023-07-11 | 57,188 | 57 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

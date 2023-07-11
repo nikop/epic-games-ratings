@@ -1115,7 +1115,7 @@
   ],
   "EOS_Progressed": 7273,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8082,9 +8082,9 @@
       "ID": "37",
       "SetID": "8idi9ml",
       "Name": "Spreading Influence",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1164
+      "UsersEstimate": 1236
     },
     {
       "ID": "38",
@@ -8322,8 +8322,8 @@
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-07-10T18:59:49.6451369+00:00",
-  "LastChanged_Achievements": "2023-07-11T04:05:50.0904828+00:00",
+  "LastChanged_Achievements": "2023-07-11T05:05:20.4085125+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:19.4551876+00:00",
-  "LastUpdate_Ratings": "2023-07-11T04:00:52.766055+00:00",
-  "LastUpdate_Achievements": "2023-07-11T04:05:50.0905607+00:00"
+  "LastUpdate_Ratings": "2023-07-11T05:00:46.1033661+00:00",
+  "LastUpdate_Achievements": "2023-07-11T05:05:20.4086005+00:00"
 }

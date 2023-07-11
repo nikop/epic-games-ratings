@@ -265,7 +265,7 @@
   ],
   "EOS_Progressed": 277,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 10.47,
   "EosHistory": [
@@ -1193,9 +1193,9 @@
       "ID": "ID_18_KNUCKLES_GLIDING",
       "SetID": "7o8nc5m",
       "Name": "Knuckles the Echidna",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 191
     },
     {
       "ID": "ID_19_TAILS_FLYING",
@@ -1217,9 +1217,9 @@
       "ID": "ID_21_SONIC1_CLEAR_S_RANK_MISSION",
       "SetID": "7o8nc5m",
       "Name": "Sonic the Hedgehog Mission Master",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 64
     },
     {
       "ID": "ID_22_SONICCD_CLEAR_S_RANK_MISSION",
@@ -1233,9 +1233,9 @@
       "ID": "ID_23_SONIC2_CLEAR_S_RANK_MISSION",
       "SetID": "7o8nc5m",
       "Name": "Sonic the Hedgehog 2 Mission Master",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 44
     },
     {
       "ID": "ID_24_SONIC3K_CLEAR_S_RANK_MISSION",
@@ -1345,8 +1345,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-07-02T16:58:08.0160842+00:00",
-  "LastChanged_Achievements": "2023-07-11T04:07:42.4989896+00:00",
+  "LastChanged_Achievements": "2023-07-11T05:07:22.499056+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:17.4042216+00:00",
-  "LastUpdate_Ratings": "2023-07-11T03:58:37.6250604+00:00",
-  "LastUpdate_Achievements": "2023-07-11T04:07:42.4990131+00:00"
+  "LastUpdate_Ratings": "2023-07-11T04:58:17.4806368+00:00",
+  "LastUpdate_Achievements": "2023-07-11T05:07:22.4990797+00:00"
 }

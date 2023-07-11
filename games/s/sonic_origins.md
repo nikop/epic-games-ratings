@@ -13,8 +13,8 @@ Number of Ratings: 154  (23.09.2022)
 | Welcome to Sonic 3 & Knuckles | 77.00% | ~213 |
 | Ring Collector | 74.00% | ~205 |
 | Time Traveler | 73.00% | ~202 |
+| Knuckles the Echidna | 69.00% | ~191 |
 | Everyone's Hero | 69.00% | ~191 |
-| Knuckles the Echidna | 68.00% | ~188 |
 | Gallant Spin Dash | 67.00% | ~186 |
 | Bubbly Breath | 66.00% | ~183 |
 | Easy Peasy with Shields | 66.00% | ~183 |
@@ -35,12 +35,12 @@ Number of Ratings: 154  (23.09.2022)
 | To the Mirror World | 35.00% | ~97 |
 | Sound Savant | 27.00% | ~75 |
 | Movie Maniac | 25.00% | ~69 |
-| Sonic the Hedgehog Mission Master | 22.00% | ~61 |
+| Sonic the Hedgehog Mission Master | 23.00% | ~64 |
 | Art Appreciator | 22.00% | ~61 |
 | Beware Rhinobots! | 20.00% | ~55 |
 | Sonic CD Mission Master | 19.00% | ~53 |
 | S3 & K Mission Master | 18.00% | ~50 |
-| Sonic the Hedgehog 2 Mission Master | 15.00% | ~42 |
+| Sonic the Hedgehog 2 Mission Master | 16.00% | ~44 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 277 (Ranked 249)  
 Completed: 29 (10.47%) (Ranked 20)  
