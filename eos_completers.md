@@ -19,7 +19,7 @@
 | 17 | [Remains](games/r/remains.md) | 11.90% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.22% |
 | 19 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 20 | [Sonic Origins](games/s/sonic_origins.md) | 10.43% |
+| 20 | [Sonic Origins](games/s/sonic_origins.md) | 10.39% |
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 22 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 9.09% |
 | 23 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.75% |
@@ -49,7 +49,7 @@
 | 47 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
 | 48 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.61% |
 | 49 | [Doodle God](games/d/doodle_god.md) | 3.56% |
-| 50 | [ZZT!](games/z/zzt!.md) | 3.52% |
+| 50 | [ZZT!](games/z/zzt!.md) | 3.55% |
 | 51 | [Bunny Park](games/b/bunny_park.md) | 3.42% |
 | 52 | [Monster Harvest](games/m/monster_harvest.md) | 3.38% |
 | 53 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.33% |
@@ -67,7 +67,7 @@
 | 65 | [Lamentum](games/l/lamentum.md) | 2.67% |
 | 66 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
 | 67 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.61% |
-| 68 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.56% |
+| 68 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.55% |
 | 69 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 70 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
 | 71 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.38% |
@@ -90,7 +90,7 @@
 | 88 | [Night Book](games/n/night_book.md) | 1.45% |
 | 88 | [Poosh XL](games/p/poosh_xl.md) | 1.45% |
 | 90 | [A Musical Story](games/a/a_musical_story.md) | 1.43% |
-| 91 | [Late Shift](games/l/late_shift.md) | 1.35% |
+| 91 | [Late Shift](games/l/late_shift.md) | 1.34% |
 | 92 | [Five Dates](games/f/five_dates.md) | 1.29% |
 | 93 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.25% |
 | 94 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.22% |
@@ -106,7 +106,7 @@
 | 104 | [Adios](games/a/adios.md) | 0.95% |
 | 105 | [Hades](games/h/hades.md) | 0.89% |
 | 106 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
-| 107 | [Dungeons 3](games/d/dungeons_3.md) | 0.84% |
+| 107 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
 | 108 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.77% |
 | 108 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.77% |
 | 110 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
