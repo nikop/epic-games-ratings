@@ -31,9 +31,9 @@
 | 29 | [Scorn](games/s/scorn.md) | 7.07% |
 | 30 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.82% |
 | 31 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.79% |
-| 32 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 6.45% |
-| 33 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
-| 34 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
+| 32 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
+| 33 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
+| 33 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 6.25% |
 | 35 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.71% |
 | 36 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
 | 37 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.13% |
@@ -67,14 +67,14 @@
 | 65 | [Lamentum](games/l/lamentum.md) | 2.67% |
 | 66 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
 | 67 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.61% |
-| 68 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.58% |
+| 68 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.57% |
 | 69 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 70 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
-| 71 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.38% |
+| 71 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.37% |
 | 72 | [Bloodshore](games/b/bloodshore.md) | 2.29% |
 | 73 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 74 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.13% |
-| 75 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.11% |
+| 75 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.10% |
 | 76 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.08% |
 | 77 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
 | 78 | [Frogun](games/f/frogun.md) | 1.91% |
@@ -94,7 +94,7 @@
 | 92 | [Five Dates](games/f/five_dates.md) | 1.28% |
 | 93 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.25% |
 | 94 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.22% |
-| 95 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.21% |
+| 95 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.20% |
 | 96 | [Chorus](games/c/chorus.md) | 1.17% |
 | 97 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.15% |
 | 98 | [Trifox](games/t/trifox.md) | 1.11% |
@@ -182,11 +182,11 @@
 | 180 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 181 | [Fall Guys](games/f/fall_guys.md) | 0.11% |
 | 181 | [Ring of Pain](games/r/ring_of_pain.md) | 0.11% |
-| 181 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.11% |
-| 184 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.10% |
-| 184 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
-| 184 | [House Flipper](games/h/house_flipper.md) | 0.10% |
-| 184 | [Supraland](games/s/supraland.md) | 0.10% |
+| 183 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.10% |
+| 183 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
+| 183 | [House Flipper](games/h/house_flipper.md) | 0.10% |
+| 183 | [Supraland](games/s/supraland.md) | 0.10% |
+| 183 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.10% |
 | 188 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 188 | [Partisans 1941](games/p/partisans_1941.md) | 0.09% |
 | 188 | [Shop Titans](games/s/shop_titans.md) | 0.09% |
