@@ -719,7 +719,6 @@
 | 711 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 504 |
 | 711 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.38 | 0 | 504 |
 | 711 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.38 | 97 | 333 |
-| 720 | [Core](games/c/core.md) | 4.37 | 742 | 158 |
 | 720 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 504 |
 | 720 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,141 | 107 |
 | 720 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 504 |
@@ -727,16 +726,18 @@
 | 720 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.37 | 0 | 504 |
 | 720 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.37 | 40 | 420 |
 | 720 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 32 | 447 |
-| 728 | [Beyond Blue](games/b/beyond_blue.md) | 4.36 | 0 | 504 |
-| 728 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 171 | 284 |
-| 728 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 95 | 337 |
-| 728 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,566 | 29 |
-| 728 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 504 |
-| 728 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 474 |
-| 728 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 48 | 404 |
-| 728 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.36 | 59 | 387 |
-| 728 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 100 | 329 |
-| 728 | [ZOMBI](games/z/zombi.md) | 4.36 | 0 | 504 |
+| 727 | [Beyond Blue](games/b/beyond_blue.md) | 4.36 | 0 | 504 |
+| 727 | [Core](games/c/core.md) | 4.36 | 742 | 158 |
+| 727 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 171 | 284 |
+| 727 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 95 | 337 |
+| 727 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,566 | 29 |
+| 727 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 504 |
+| 727 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 474 |
+| 727 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 48 | 404 |
+| 727 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.36 | 59 | 387 |
+| 727 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 100 | 329 |
+| 727 | [ZOMBI](games/z/zombi.md) | 4.36 | 0 | 504 |
+| 738 | [Among Trees](games/a/among_trees.md) | 4.35 | 0 | 504 |
 | 738 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 0 | 504 |
 | 738 | [Encased](games/e/encased.md) | 4.35 | 136 | 299 |
 | 738 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.35 | 0 | 504 |
@@ -745,15 +746,14 @@
 | 738 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 0 | 504 |
 | 738 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.35 | 0 | 504 |
 | 738 | [The Silent Age](games/t/the_silent_age.md) | 4.35 | 0 | 504 |
-| 746 | [Among Trees](games/a/among_trees.md) | 4.34 | 0 | 504 |
-| 746 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 465 |
-| 746 | [Backbone](games/b/backbone.md) | 4.34 | 0 | 504 |
-| 746 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.34 | 0 | 504 |
-| 746 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 0 | 504 |
-| 746 | [Paladins](games/p/paladins.md) | 4.34 | 3,389 | 85 |
-| 746 | [Parkitect](games/p/parkitect.md) | 4.34 | 0 | 504 |
-| 746 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 245 | 247 |
-| 746 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.34 | 0 | 504 |
+| 747 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 465 |
+| 747 | [Backbone](games/b/backbone.md) | 4.34 | 0 | 504 |
+| 747 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.34 | 0 | 504 |
+| 747 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 0 | 504 |
+| 747 | [Paladins](games/p/paladins.md) | 4.34 | 3,389 | 85 |
+| 747 | [Parkitect](games/p/parkitect.md) | 4.34 | 0 | 504 |
+| 747 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 245 | 247 |
+| 747 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.34 | 0 | 504 |
 | 755 | [Ashen](games/a/ashen.md) | 4.33 | 0 | 504 |
 | 755 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 117 | 314 |
 | 755 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.33 | 55 | 390 |
@@ -888,7 +888,7 @@
 | 885 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.11 | 0 | 504 |
 | 887 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 0 | 504 |
 | 887 | [Obduction](games/o/obduction.md) | 4.10 | 52 | 393 |
-| 887 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,442 | 98 |
+| 887 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,443 | 98 |
 | 887 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.10 | 0 | 504 |
 | 891 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.09 | 0 | 504 |
 | 891 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 504 |
