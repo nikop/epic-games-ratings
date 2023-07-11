@@ -19,7 +19,7 @@
 | 17 | [Remains](games/r/remains.md) | 11.90% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.22% |
 | 19 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 20 | [Sonic Origins](games/s/sonic_origins.md) | 10.47% |
+| 20 | [Sonic Origins](games/s/sonic_origins.md) | 10.43% |
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 22 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 9.09% |
 | 23 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.75% |
@@ -182,11 +182,11 @@
 | 180 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 181 | [Fall Guys](games/f/fall_guys.md) | 0.11% |
 | 181 | [Ring of Pain](games/r/ring_of_pain.md) | 0.11% |
-| 183 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.10% |
-| 183 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
-| 183 | [House Flipper](games/h/house_flipper.md) | 0.10% |
-| 183 | [Supraland](games/s/supraland.md) | 0.10% |
-| 183 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.10% |
+| 181 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.11% |
+| 184 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.10% |
+| 184 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
+| 184 | [House Flipper](games/h/house_flipper.md) | 0.10% |
+| 184 | [Supraland](games/s/supraland.md) | 0.10% |
 | 188 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 188 | [Partisans 1941](games/p/partisans_1941.md) | 0.09% |
 | 188 | [Shop Titans](games/s/shop_titans.md) | 0.09% |
@@ -488,4 +488,4 @@
 | 237 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 237 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 237 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,889 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
+| 2,890 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
