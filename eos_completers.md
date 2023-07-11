@@ -44,7 +44,7 @@
 | 42 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.60% |
 | 43 | [Without Escape](games/w/without_escape.md) | 4.55% |
 | 44 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.38% |
-| 45 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.90% |
+| 45 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.89% |
 | 46 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.78% |
 | 47 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
 | 48 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.61% |
@@ -76,8 +76,8 @@
 | 74 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.13% |
 | 75 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.11% |
 | 76 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.08% |
-| 77 | [Frogun](games/f/frogun.md) | 1.92% |
 | 77 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
+| 78 | [Frogun](games/f/frogun.md) | 1.91% |
 | 79 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 80 | [Sifu](games/s/sifu.md) | 1.80% |
 | 81 | [Iron Danger](games/i/iron_danger.md) | 1.79% |
