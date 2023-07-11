@@ -4,7 +4,7 @@
   "ProductSlug": "spingun-843f78",
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-06-02T04:00:00+00:00",
@@ -504,9 +504,9 @@
       "ID": "ach_customized",
       "SetID": "5a4225j",
       "Name": "Customize Ship",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ach_endless_120",
@@ -520,9 +520,9 @@
       "ID": "ach_endless_30",
       "SetID": "5a4225j",
       "Name": "Endless 30 Seconds",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 35,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ach_endless_60",
@@ -662,8 +662,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-02T21:05:45.273905+00:00",
-  "LastChanged_Achievements": "2023-07-11T15:04:21.5140523+00:00",
+  "LastChanged_Achievements": "2023-07-11T16:04:37.5473249+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:19.1257474+00:00",
-  "LastUpdate_Ratings": "2023-07-11T14:57:18.607464+00:00",
-  "LastUpdate_Achievements": "2023-07-11T15:04:21.5140747+00:00"
+  "LastUpdate_Ratings": "2023-07-11T15:57:24.9467864+00:00",
+  "LastUpdate_Achievements": "2023-07-11T16:04:37.5473604+00:00"
 }

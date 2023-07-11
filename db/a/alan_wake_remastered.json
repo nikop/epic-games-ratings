@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57198,
+  "EOS_Progressed": 57199,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 398,
+  "EOS_NewPlayers": 396,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7637,6 +7637,11 @@
       "Time": "2023-07-11T15:04:07.1063555+00:00",
       "NumProgressed": 57198,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-11T16:04:20.8705707+00:00",
+      "NumProgressed": 57199,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7648,7 +7653,7 @@
       "Name": "Follow the Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 19447
+      "UsersEstimate": 19448
     },
     {
       "ID": "02",
@@ -7896,7 +7901,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14871
+      "UsersEstimate": 14872
     },
     {
       "ID": "33",
@@ -7920,7 +7925,7 @@
       "Name": "Let There Be Light",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 15443
+      "UsersEstimate": 15444
     },
     {
       "ID": "36",
@@ -8078,9 +8083,9 @@
       "ID": "55",
       "SetID": "6apfemg",
       "Name": "Run-On Sentence",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 83
     },
     {
       "ID": "56",
@@ -8183,21 +8188,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57198,
+      "Progressed": 57199,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20666,
+      "Progressed": 20667,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-11T15:04:07.1063549+00:00",
+  "LastChanged_Achievements": "2023-07-11T16:04:20.8705703+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:08.3646753+00:00",
-  "LastUpdate_Ratings": "2023-07-11T14:58:04.6442007+00:00",
-  "LastUpdate_Achievements": "2023-07-11T15:04:07.1064738+00:00"
+  "LastUpdate_Ratings": "2023-07-11T15:58:19.2763873+00:00",
+  "LastUpdate_Achievements": "2023-07-11T16:04:20.8706925+00:00"
 }

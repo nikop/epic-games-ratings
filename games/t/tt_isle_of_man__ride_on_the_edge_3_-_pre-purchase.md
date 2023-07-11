@@ -8,7 +8,7 @@
 | To Each Their Own | 50.00% | ~47 |
 | You Get An Upgrade, You Get An Upgrade! | 21.00% | ~20 |
 | Onwards and Upwards | 21.00% | ~20 |
-| Like Phileas Fogg | 15.00% | ~14 |
+| Like Phileas Fogg | 16.00% | ~15 |
 | Serial Winner | 14.00% | ~13 |
 | Start Your Engines | 12.00% | ~11 |
 | Lone Wolf | 11.00% | ~10 |
@@ -26,11 +26,11 @@
 | Winner Winner Chicken Dinner | 4.00% | ~4 |
 | Tailor-Made for Two | 4.00% | ~4 |
 | Tempus Fugit | 4.00% | ~4 |
+| Déjà-Vu | 3.00% | ~3 |
 | Say My Name | 3.00% | ~3 |
 | Last One Standing | 3.00% | ~3 |
 | Time Lord | 3.00% | ~3 |
 | First Things First | 3.00% | ~3 |
-| Déjà-Vu | 2.00% | ~2 |
 | Golden Ratio | 2.00% | ~2 |
 | The Joy of Discovery | 2.00% | ~2 |
 | Geek | 2.00% | ~2 |
@@ -44,7 +44,7 @@
 | Superbike Superfan | 2.00% | ~2 |
 | Playing Favourites | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 94 (Ranked 300)  
+Progressed: 94 (Ranked 301)  
 Completed: 2 (2.13%) (Ranked 74)  
 ## EOS Players History
 | Date | Progressed | Completed |

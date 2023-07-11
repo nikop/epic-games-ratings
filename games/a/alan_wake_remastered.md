@@ -6,9 +6,9 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 34.00% | ~19,447 |
-| Let There Be Light | 27.00% | ~15,443 |
-| Float Like a Butterfly | 26.00% | ~14,871 |
+| Follow the Light | 34.00% | ~19,448 |
+| Let There Be Light | 27.00% | ~15,444 |
+| Float Like a Butterfly | 26.00% | ~14,872 |
 | Nordic Walking | 21.00% | ~12,012 |
 | Bright Falls' Finest | 20.00% | ~11,440 |
 | Under a Thin Layer of Skin | 18.00% | ~10,296 |
@@ -58,13 +58,13 @@ Number of Ratings: 524  (23.09.2022)
 | Words Will Never Harm You | 0.60% | ~124 |
 | Cardboard Companions | 0.60% | ~124 |
 | Fast and Furious | 0.50% | ~103 |
+| Run-On Sentence | 0.40% | ~83 |
 | License Revoked | 0.40% | ~83 |
 | Whirlwind | 0.40% | ~83 |
 | Creative Space | 0.40% | ~83 |
 | Alan, Wake Up | 0.30% | ~172 |
 | Meet the Deadline | 0.30% | ~172 |
 | Picking Up After Yourself | 0.30% | ~172 |
-| Run-On Sentence | 0.30% | ~62 |
 | Gunless Wonder | 0.20% | ~114 |
 | Every Nook and Cranny | 0.20% | ~114 |
 | Bright Falls Aficionado | 0.20% | ~114 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~57 |
 | No Punctuation | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,198 (Ranked 81)  
+Progressed: 57,199 (Ranked 81)  
 Completed: 57 (0.10%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 57 (0.10%) (Ranked 184)
 | 2023-07-08 | 57,062 | 57 |
 | 2023-07-09 | 57,124 | 57 |
 | 2023-07-10 | 57,171 | 57 |
-| 2023-07-11 | 57,198 | 57 |
+| 2023-07-11 | 57,199 | 57 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

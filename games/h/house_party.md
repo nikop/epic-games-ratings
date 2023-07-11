@@ -22,6 +22,7 @@ Number of Ratings: 177  (23.09.2022)
 | Social Butterfly | 0.60% | ~34 |
 | Amy | 0.50% | ~29 |
 | The Muse: Madison | 0.50% | ~29 |
+| The Magic Number | 0.50% | ~29 |
 | Amy: Scavenger Hunt | 0.40% | ~23 |
 | I'll Be Back | 0.40% | ~23 |
 | Casanova | 0.40% | ~23 |
@@ -29,7 +30,6 @@ Number of Ratings: 177  (23.09.2022)
 | Smooth Operator: Ashley | 0.40% | ~23 |
 | Stephanie | 0.40% | ~23 |
 | The Crush | 0.40% | ~23 |
-| The Magic Number | 0.40% | ~23 |
 | Vickie | 0.40% | ~23 |
 | Ashley | 0.30% | ~17 |
 | Benedict Brahrnold | 0.30% | ~17 |

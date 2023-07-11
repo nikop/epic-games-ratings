@@ -6,41 +6,41 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~65,177 |
-| Into the Unknown | 10.00% | ~59,252 |
-| First Shot | 10.00% | ~59,252 |
-| Herzlich Wilkommen! | 9.00% | ~53,327 |
-| Good Night & Good Luck | 9.00% | ~53,327 |
-| Sancho Panza | 8.00% | ~47,402 |
-| Under Pressure | 7.00% | ~41,476 |
-| On the Trail of the Enemy | 7.00% | ~41,476 |
-| Flag Burning | 7.00% | ~41,476 |
-| Oh, So This Is How It Works! | 7.00% | ~41,476 |
-| Night Hunter | 7.00% | ~41,476 |
-| Light in the Darkness | 6.00% | ~35,551 |
-| Get Outta My House! | 6.00% | ~35,551 |
-| It Wasn't That Hard, Was It? | 6.00% | ~35,551 |
-| Being All Social | 6.00% | ~35,551 |
-| Debris and Ashes | 5.00% | ~29,626 |
-| We Will Be Heard! | 5.00% | ~29,626 |
-| Known Associate | 5.00% | ~29,626 |
-| Brush with Death | 5.00% | ~29,626 |
-| Tunnel Entrance | 5.00% | ~29,626 |
-| After the Fall | 5.00% | ~29,626 |
-| Can't Touch This! | 5.00% | ~29,626 |
-| Going Down | 4.00% | ~23,701 |
-| Family First | 4.00% | ~23,701 |
-| Your World, Your Rules | 4.00% | ~23,701 |
-| Death From Afar | 4.00% | ~23,701 |
-| Terminal Headache | 4.00% | ~23,701 |
-| Slowpoke! | 4.00% | ~23,701 |
+| You Never Forget Your First... | 11.00% | ~65,180 |
+| Into the Unknown | 10.00% | ~59,255 |
+| First Shot | 10.00% | ~59,255 |
+| Herzlich Wilkommen! | 9.00% | ~53,329 |
+| Good Night & Good Luck | 9.00% | ~53,329 |
+| Sancho Panza | 8.00% | ~47,404 |
+| Under Pressure | 7.00% | ~41,478 |
+| On the Trail of the Enemy | 7.00% | ~41,478 |
+| Flag Burning | 7.00% | ~41,478 |
+| Oh, So This Is How It Works! | 7.00% | ~41,478 |
+| Night Hunter | 7.00% | ~41,478 |
+| Light in the Darkness | 6.00% | ~35,553 |
+| Get Outta My House! | 6.00% | ~35,553 |
+| It Wasn't That Hard, Was It? | 6.00% | ~35,553 |
+| Being All Social | 6.00% | ~35,553 |
+| Debris and Ashes | 5.00% | ~29,627 |
+| We Will Be Heard! | 5.00% | ~29,627 |
+| Known Associate | 5.00% | ~29,627 |
+| Brush with Death | 5.00% | ~29,627 |
+| Tunnel Entrance | 5.00% | ~29,627 |
+| After the Fall | 5.00% | ~29,627 |
+| Can't Touch This! | 5.00% | ~29,627 |
+| Going Down | 4.00% | ~23,702 |
+| Family First | 4.00% | ~23,702 |
+| Your World, Your Rules | 4.00% | ~23,702 |
+| Death From Afar | 4.00% | ~23,702 |
+| Terminal Headache | 4.00% | ~23,702 |
+| Slowpoke! | 4.00% | ~23,702 |
 | Tickets, Please! | 3.00% | ~17,776 |
 | You're Going Down! | 3.00% | ~17,776 |
-| Municipal Services | 2.00% | ~11,850 |
-| Ban Hammer | 2.00% | ~11,850 |
-| Parkour Master | 2.00% | ~11,850 |
-| Combat Master | 2.00% | ~11,850 |
-| Modder | 2.00% | ~11,850 |
+| Municipal Services | 2.00% | ~11,851 |
+| Ban Hammer | 2.00% | ~11,851 |
+| Parkour Master | 2.00% | ~11,851 |
+| Combat Master | 2.00% | ~11,851 |
+| Modder | 2.00% | ~11,851 |
 | Tube Map | 1.00% | ~5,925 |
 | Don Quixote | 1.00% | ~5,925 |
 | Can't You Read the Signs? | 1.00% | ~5,925 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~238 |
 | Connoisseur | 0.10% | ~238 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 592,520 (Ranked 26)  
+Progressed: 592,547 (Ranked 26)  
 Completed: 58 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,10 +154,10 @@ Completed: 58 (0.01%) (Ranked 223)
 | 2023-07-08 | 590,574 | 58 |
 | 2023-07-09 | 591,444 | 58 |
 | 2023-07-10 | 592,168 | 58 |
-| 2023-07-11 | 592,520 | 58 |
+| 2023-07-11 | 592,547 | 58 |
 ## Awards
 Max (Character Customization): 8,338  (Ranked 40)  
-Sum: 19,623 (Ranked 55)  
+Sum: 19,625 (Ranked 55)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
@@ -167,7 +167,7 @@ Diff (max vs sum): -15
 | This game is Highly Recommended | 747 |
 | This game has Diverse Characters | 738 |
 | This game has Amazing Characters | 736 |
-| This game is Extremely Fun | 717 |
+| This game is Extremely Fun | 719 |
 | This game has Amazing Storytelling | 702 |
 | This game has Quickly Understood Controls | 694 |
 | This game is Relaxing | 665 |
@@ -356,4 +356,4 @@ Diff (max vs sum): -15
 | 2023-07-08 | 4.58 | - | 8,284 | 19,482 |
 | 2023-07-09 | 4.58 | - | 8,305 | 19,548 |
 | 2023-07-10 | 4.58 | - | 8,321 | 19,591 |
-| 2023-07-11 | 4.58 | - | 8,338 | 19,623 |
+| 2023-07-11 | 4.58 | - | 8,338 | 19,625 |

@@ -3086,9 +3086,9 @@
       "Count": 381
     }
   ],
-  "EOS_Progressed": 10267,
+  "EOS_Progressed": 10268,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8186,6 +8186,11 @@
       "Time": "2023-07-11T15:04:04.3099891+00:00",
       "NumProgressed": 10267,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-11T16:04:17.4285973+00:00",
+      "NumProgressed": 10268,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -8197,7 +8202,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2053
+      "UsersEstimate": 2054
     },
     {
       "ID": "02_BurningCity",
@@ -8205,7 +8210,7 @@
       "Name": "Burning City",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1437
+      "UsersEstimate": 1438
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -8565,7 +8570,7 @@
       "Name": "A Spark",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1437
+      "UsersEstimate": 1438
     },
     {
       "ID": "49_Flame",
@@ -9117,28 +9122,28 @@
       "Name": "Beware Still Water",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     }
   ],
   "AchievementSets": [
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9049,
+      "Progressed": 9050,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10267,
+      "Progressed": 10268,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-11T13:15:47.8185114+00:00",
-  "LastChanged_Achievements": "2023-07-11T15:04:04.3099886+00:00",
+  "LastChanged_Achievements": "2023-07-11T16:04:17.4285968+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:12.7052521+00:00",
-  "LastUpdate_Ratings": "2023-07-11T14:58:53.2908784+00:00",
-  "LastUpdate_Achievements": "2023-07-11T15:04:04.3101846+00:00"
+  "LastUpdate_Ratings": "2023-07-11T15:59:18.9602736+00:00",
+  "LastUpdate_Achievements": "2023-07-11T16:04:17.4288146+00:00"
 }

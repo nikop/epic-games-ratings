@@ -6,19 +6,19 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~245,520 |
-| Cavalier | 25.00% | ~198,000 |
-| Fatso | 23.00% | ~182,160 |
-| Awakening | 20.00% | ~158,400 |
-| Ranger | 20.00% | ~158,400 |
-| Scrooge | 20.00% | ~158,400 |
-| Anorectic | 16.00% | ~126,720 |
-| Firestarter | 15.00% | ~118,800 |
-| Bookworm | 14.00% | ~110,880 |
-| Insomniac | 13.00% | ~102,960 |
-| Buddy | 12.00% | ~95,040 |
-| Thief | 12.00% | ~95,040 |
-| Sinner | 11.00% | ~87,120 |
+| Blacksmith's Son | 31.00% | ~245,522 |
+| Cavalier | 25.00% | ~198,001 |
+| Fatso | 23.00% | ~182,161 |
+| Awakening | 20.00% | ~158,401 |
+| Ranger | 20.00% | ~158,401 |
+| Scrooge | 20.00% | ~158,401 |
+| Anorectic | 16.00% | ~126,721 |
+| Firestarter | 15.00% | ~118,801 |
+| Bookworm | 14.00% | ~110,881 |
+| Insomniac | 13.00% | ~102,961 |
+| Buddy | 12.00% | ~95,041 |
+| Thief | 12.00% | ~95,041 |
+| Sinner | 11.00% | ~87,121 |
 | Convict | 10.00% | ~79,200 |
 | Traveller | 10.00% | ~79,200 |
 | Haggler | 9.00% | ~71,280 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~792 |
 | Wingman | 0.10% | ~792 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 791,999 (Ranked 15)  
+Progressed: 792,005 (Ranked 15)  
 Completed: 44 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 44 (0.01%) (Ranked 223)
 | 2023-07-08 | 791,603 | 44 |
 | 2023-07-09 | 791,781 | 44 |
 | 2023-07-10 | 791,925 | 44 |
-| 2023-07-11 | 791,999 | 44 |
+| 2023-07-11 | 792,005 | 44 |
 ## Awards
 Max (Character Customization): 7,309  (Ranked 46)  
 Sum: 27,252 (Ranked 43)  

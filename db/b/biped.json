@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4061,
+  "EOS_Progressed": 4063,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 288,
   "EOS_NewCompleters": 0,
@@ -5921,6 +5921,11 @@
       "Time": "2023-07-11T15:06:54.9393065+00:00",
       "NumProgressed": 4061,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-11T16:07:38.660479+00:00",
+      "NumProgressed": 4063,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -5932,7 +5937,7 @@
       "Name": "First Step",
       "Percentage": 39,
       "XP": 45,
-      "UsersEstimate": 1584
+      "UsersEstimate": 1585
     },
     {
       "ID": "10",
@@ -5988,7 +5993,7 @@
       "Name": "Dense Forest",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 1340
+      "UsersEstimate": 1341
     },
     {
       "ID": "3",
@@ -6012,7 +6017,7 @@
       "Name": "Snowy Peak",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "6",
@@ -6036,7 +6041,7 @@
       "Name": "Sunset Ridge",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "9",
@@ -6051,7 +6056,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 4061,
+      "Progressed": 4063,
       "Completed": 0
     }
   ],
@@ -6059,8 +6064,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-07-11T15:06:54.9393062+00:00",
+  "LastChanged_Achievements": "2023-07-11T16:07:38.6604785+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:39.9836246+00:00",
-  "LastUpdate_Ratings": "2023-07-11T14:58:28.0103929+00:00",
-  "LastUpdate_Achievements": "2023-07-11T15:06:54.939359+00:00"
+  "LastUpdate_Ratings": "2023-07-11T15:58:48.7335863+00:00",
+  "LastUpdate_Achievements": "2023-07-11T16:07:38.6605285+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "oxide-room-104-4c1249",
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -590,9 +590,9 @@
       "ID": "ACH_COMMONAREA",
       "SetID": "511e31d",
       "Name": "On the right path",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_DOCDOCUMENTS",
@@ -606,17 +606,17 @@
       "ID": "ACH_ENTRANCE",
       "SetID": "511e31d",
       "Name": "I\u0027m close now",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_ENTRANCEEVIL",
       "SetID": "511e31d",
       "Name": "Failed attempt",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_ESCAPEDOC",
@@ -702,9 +702,9 @@
       "ID": "ACH_NOKNIFE",
       "SetID": "511e31d",
       "Name": "Good choice",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_OUTOFMOTEL",
@@ -726,9 +726,9 @@
       "ID": "ACH_RESTAURANT",
       "SetID": "511e31d",
       "Name": "Take the long way round",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_REVENGE",
@@ -805,8 +805,8 @@
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-07-11T15:07:01.3152137+00:00",
+  "LastChanged_Achievements": "2023-07-11T16:07:45.473559+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:30.8178758+00:00",
-  "LastUpdate_Ratings": "2023-07-11T14:57:38.0444766+00:00",
-  "LastUpdate_Achievements": "2023-07-11T15:07:01.3152408+00:00"
+  "LastUpdate_Ratings": "2023-07-11T15:57:47.2489437+00:00",
+  "LastUpdate_Achievements": "2023-07-11T16:07:45.4735926+00:00"
 }

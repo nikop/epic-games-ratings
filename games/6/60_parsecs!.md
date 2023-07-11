@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 97.00% | ~654 |
-| Space Colonization | 80.00% | ~539 |
-| Friendzone | 79.00% | ~532 |
+| Don't Panic! | 97.00% | ~655 |
+| Space Colonization | 80.00% | ~540 |
+| Friendzone | 79.00% | ~533 |
 | Hello World | 75.00% | ~506 |
 | Space Engineer | 63.00% | ~425 |
 | Tinkerer | 63.00% | ~425 |
-| Dust to Dust | 57.00% | ~384 |
+| Dust to Dust | 57.00% | ~385 |
 | Across The Stars | 47.00% | ~317 |
 | Crafty | 46.00% | ~310 |
-| All Seats Taken | 37.00% | ~249 |
-| For Science! | 33.00% | ~222 |
+| All Seats Taken | 37.00% | ~250 |
+| For Science! | 33.00% | ~223 |
 | Meet the Petersons | 31.00% | ~209 |
 | Stay Cool | 28.00% | ~189 |
-| KIA | 26.00% | ~175 |
+| KIA | 26.00% | ~176 |
 | Mutiny in making | 23.00% | ~155 |
 | Et tu, Astrocitizen? | 19.00% | ~128 |
-| Eco-Shuttle | 18.00% | ~121 |
+| Eco-Shuttle | 18.00% | ~122 |
 | Space Explorer | 15.00% | ~101 |
 | Hands Full | 13.00% | ~88 |
 | Gold Medalist | 12.00% | ~81 |
@@ -35,9 +35,9 @@
 | Extreme Makeover | 4.00% | ~27 |
 | The Improvinator | 4.00% | ~27 |
 | The Last Supper | 3.00% | ~20 |
-| Bovine Domain | 2.00% | ~13 |
-| 2018: A Soup Odyssey | 2.00% | ~13 |
-| That's No Moon! | 2.00% | ~13 |
+| Bovine Domain | 2.00% | ~14 |
+| 2018: A Soup Odyssey | 2.00% | ~14 |
+| That's No Moon! | 2.00% | ~14 |
 | AAARGH! | 1.00% | ~7 |
 | Feels like home | 1.00% | ~7 |
 | No Ticket | 0.90% | ~6 |
@@ -49,7 +49,7 @@
 | Liberté, Égalité, Félinité | 0.10% | ~1 |
 | Man's best comrade | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 674 (Ranked 204)  
+Progressed: 675 (Ranked 204)  
 Completed: 1 (0.15%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 1 (0.15%) (Ranked 172)
 | 2023-07-06 | 670 | 1 |
 | 2023-07-08 | 671 | 1 |
 | 2023-07-10 | 673 | 1 |
-| 2023-07-11 | 674 | 1 |
+| 2023-07-11 | 675 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

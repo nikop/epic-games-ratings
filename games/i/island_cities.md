@@ -14,7 +14,7 @@
 | Passion for sports | 33.00% | ~125 |
 | Who loves trains? | 29.00% | ~110 |
 | Easy and steady climb | 28.00% | ~106 |
-| At the heart of the city | 25.00% | ~94 |
+| At the heart of the city | 26.00% | ~98 |
 | Calm neighborhood | 24.00% | ~91 |
 | Elevated ring | 23.00% | ~87 |
 | Not lonely anymore | 22.00% | ~83 |

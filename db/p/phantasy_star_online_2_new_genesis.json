@@ -4,7 +4,7 @@
   "ProductSlug": "phantasy-star-online-2",
   "Ranking_Rating": 477,
   "Ranking_Popularity": 149,
-  "Ranking_PopularitySum": 141,
+  "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 318,
@@ -2853,10 +2853,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 3881,
       "NumberOfAwardsMax": 885
+    },
+    {
+      "Time": "2023-07-11T15:59:12.3629249+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 3883,
+      "NumberOfAwardsMax": 885
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3881,
+  "NumberOfAwards": 3883,
   "NumberOfAwardsMax": 885,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2918,7 +2924,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 244
+      "Count": 246
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2944,8 +2950,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:27.1466753+00:00",
-  "LastChanged": "2023-07-10T22:58:39.4222821+00:00",
+  "LastChanged": "2023-07-11T15:59:12.3629247+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:04.1504687+00:00",
-  "LastUpdate_Ratings": "2023-07-11T14:58:48.3370542+00:00",
-  "LastUpdate_Achievements": "2023-07-11T15:03:15.6519839+00:00"
+  "LastUpdate_Ratings": "2023-07-11T15:59:12.3629254+00:00",
+  "LastUpdate_Achievements": "2023-07-11T16:03:31.8373998+00:00"
 }

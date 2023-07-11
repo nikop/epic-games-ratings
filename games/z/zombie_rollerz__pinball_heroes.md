@@ -26,8 +26,8 @@
 | I'm Rich | 25.00% | ~29 |
 | Untouchable | 23.00% | ~27 |
 | 1 is all I need | 22.00% | ~26 |
+| The Slime | 22.00% | ~26 |
 | The Giant | 21.00% | ~25 |
-| The Slime | 21.00% | ~25 |
 | The Flower | 19.00% | ~22 |
 | Out of the Frying Pan... | 19.00% | ~22 |
 | The Blacksmith | 18.00% | ~21 |
