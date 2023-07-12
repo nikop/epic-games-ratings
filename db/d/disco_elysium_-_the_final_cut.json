@@ -1181,9 +1181,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 123023,
+  "EOS_Progressed": 123025,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 312,
+  "EOS_NewPlayers": 311,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -9171,6 +9171,11 @@
       "Time": "2023-07-12T06:03:32.5427246+00:00",
       "NumProgressed": 123023,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-07-12T09:03:35.097463+00:00",
+      "NumProgressed": 123025,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -9262,7 +9267,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 34446
+      "UsersEstimate": 34447
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -9318,7 +9323,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 18453
+      "UsersEstimate": 18454
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -9374,7 +9379,7 @@
       "Name": "Hardie\u0027s Heroes",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 7381
+      "UsersEstimate": 7382
     },
     {
       "ID": "ACH_ICEBREAKER",
@@ -9398,7 +9403,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 17223
+      "UsersEstimate": 17224
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -9501,15 +9506,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 123023,
+      "Progressed": 123025,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-07-07T16:59:40.5892511+00:00",
-  "LastChanged_Achievements": "2023-07-12T08:02:08.4741054+00:00",
+  "LastChanged_Achievements": "2023-07-12T09:03:35.0974625+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:13.7032583+00:00",
-  "LastUpdate_Ratings": "2023-07-12T07:58:57.7731395+00:00",
-  "LastUpdate_Achievements": "2023-07-12T08:02:08.4741673+00:00"
+  "LastUpdate_Ratings": "2023-07-12T08:59:36.6537779+00:00",
+  "LastUpdate_Achievements": "2023-07-12T09:03:35.0975251+00:00"
 }

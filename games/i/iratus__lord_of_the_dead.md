@@ -6,30 +6,30 @@ Number of Ratings: 10,109  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 86.00% | ~29,723 |
-| Blood Moon | 73.00% | ~25,230 |
-| Path of the Necromancer | 66.00% | ~22,811 |
-| Chainbreaker - I | 60.00% | ~20,737 |
-| Cursed Creature | 57.00% | ~19,700 |
-| Extraction | 57.00% | ~19,700 |
-| Chainbreaker - II | 55.00% | ~19,009 |
+| Improvement | 86.00% | ~29,724 |
+| Blood Moon | 73.00% | ~25,231 |
+| Path of the Necromancer | 66.00% | ~22,812 |
+| Chainbreaker - I | 60.00% | ~20,738 |
+| Cursed Creature | 57.00% | ~19,701 |
+| Extraction | 57.00% | ~19,701 |
+| Chainbreaker - II | 55.00% | ~19,010 |
 | Necromancer's Apprentice | 51.00% | ~17,627 |
-| Keeper of Keys | 47.00% | ~16,244 |
+| Keeper of Keys | 47.00% | ~16,245 |
 | Distillation | 43.00% | ~14,862 |
 | Mountain King - I | 42.00% | ~14,516 |
 | Transmutation | 42.00% | ~14,516 |
-| Prepared Necromancer | 41.00% | ~14,170 |
+| Prepared Necromancer | 41.00% | ~14,171 |
 | Mountain King - II | 40.00% | ~13,825 |
 | Blind Rage | 38.00% | ~13,134 |
 | Mad Genius | 35.00% | ~12,097 |
 | Cannon Fodder - I | 35.00% | ~12,097 |
 | Soul of Lies | 34.00% | ~11,751 |
-| Bane of Mercenaries - I | 33.00% | ~11,405 |
-| Bane of Mercenaries - II | 31.00% | ~10,714 |
+| Bane of Mercenaries - I | 33.00% | ~11,406 |
+| Bane of Mercenaries - II | 31.00% | ~10,715 |
 | Shadow Between Worlds | 30.00% | ~10,369 |
 | Cannon Fodder - II | 29.00% | ~10,023 |
-| Bane of Monsters | 28.00% | ~9,677 |
-| Chainbreaker - III | 28.00% | ~9,677 |
+| Bane of Monsters | 28.00% | ~9,678 |
+| Chainbreaker - III | 28.00% | ~9,678 |
 | Revealed Secrets - I | 27.00% | ~9,332 |
 | Revealed Secrets - II | 26.00% | ~8,986 |
 | Unholy Bones | 24.00% | ~8,295 |
@@ -40,10 +40,10 @@ Number of Ratings: 10,109  (23.09.2022)
 | Spiritual Attraction | 22.00% | ~7,604 |
 | Nightmare of the Humanity - I | 22.00% | ~7,604 |
 | Nightmare of the Humanity - II | 22.00% | ~7,604 |
-| That Was Easy! | 20.00% | ~6,912 |
-| Silent Waters | 20.00% | ~6,912 |
-| Calcination | 20.00% | ~6,912 |
-| Head of Order | 20.00% | ~6,912 |
+| That Was Easy! | 20.00% | ~6,913 |
+| Silent Waters | 20.00% | ~6,913 |
+| Calcination | 20.00% | ~6,913 |
+| Head of Order | 20.00% | ~6,913 |
 | Blood Mage | 17.00% | ~5,876 |
 | Wild Hunger | 16.00% | ~5,530 |
 | Rage Concentrated | 16.00% | ~5,530 |
@@ -53,7 +53,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Blood Madness | 13.00% | ~4,493 |
 | First Sacrifice | 13.00% | ~4,493 |
 | Master of Alchemy | 13.00% | ~4,493 |
-| Legendary Warrior | 12.00% | ~4,147 |
+| Legendary Warrior | 12.00% | ~4,148 |
 | Bane of Mercenaries - III | 10.00% | ~3,456 |
 | Monument to Greatness | 10.00% | ~3,456 |
 | Ancient Burial | 10.00% | ~3,456 |
@@ -67,7 +67,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Nightmare of the Humanity - III | 7.00% | ~2,419 |
 | Means of Recovery | 6.00% | ~2,074 |
 | Master of Magic | 6.00% | ~2,074 |
-| Master of Destruction | 4.00% | ~1,382 |
+| Master of Destruction | 4.00% | ~1,383 |
 | Dungeon Queen | 3.00% | ~1,037 |
 | Mek Brothers | 3.00% | ~1,037 |
 | The Hunter Becomes... | 3.00% | ~1,037 |
@@ -77,12 +77,12 @@ Number of Ratings: 10,109  (23.09.2022)
 | Graveyard Call - II | 2.00% | ~691 |
 | Sweet Revenge | 2.00% | ~691 |
 | Graveyard Call - III | 0.90% | ~311 |
-| I'll Be Back! | 0.80% | ~276 |
-| Doctorate in Potion Brewing | 0.80% | ~276 |
+| I'll Be Back! | 0.80% | ~277 |
+| Doctorate in Potion Brewing | 0.80% | ~277 |
 | Unrivaled | 0.60% | ~207 |
 | Renowned Researcher | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,562 (Ranked 91)  
+Progressed: 34,563 (Ranked 91)  
 Completed: 22 (0.06%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 22 (0.06%) (Ranked 198)
 | 2023-07-09 | 34,397 | 22 |
 | 2023-07-10 | 34,474 | 22 |
 | 2023-07-11 | 34,540 | 22 |
-| 2023-07-12 | 34,562 | 22 |
+| 2023-07-12 | 34,563 | 22 |
 ## Awards
 Max (Character Customization): 2,141  (Ranked 107)  
 Sum: 4,147 (Ranked 136)  

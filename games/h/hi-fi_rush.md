@@ -12,18 +12,18 @@ Rating: 4.87 (Ranked 24)
 | NOW we got a kickass hideout! | 1.00% | ~20 |
 | The Negotiator | 0.90% | ~31 |
 | Whoa! There's ANOTHER health bar!? | 0.90% | ~31 |
+| You got this, Peppermint? | 0.90% | ~31 |
 | Kissing the sky! | 0.90% | ~31 |
 | This will cost you big time | 0.80% | ~27 |
+| Headliner | 0.80% | ~27 |
 | Time to pay up! | 0.80% | ~27 |
 | Who's the boss now? | 0.80% | ~27 |
-| You got this, Peppermint? | 0.80% | ~27 |
 | Z-shielding's got nothing on us! | 0.80% | ~27 |
 | Out in a puff of smoke | 0.80% | ~27 |
 | Perfect Parry | 0.80% | ~27 |
 | Uh, they were broken when I got here | 0.80% | ~27 |
 | Alright, that felt AWESOME! | 0.80% | ~27 |
 | Start with a bang! | 0.70% | ~24 |
-| Headliner | 0.70% | ~24 |
 | Feeling the beat! | 0.70% | ~24 |
 | You must like calling me in, Chai | 0.70% | ~24 |
 | You can pet the cat! | 0.70% | ~24 |

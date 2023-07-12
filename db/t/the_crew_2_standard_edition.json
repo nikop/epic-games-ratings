@@ -4,7 +4,7 @@
   "ProductSlug": "the-crew-2",
   "Ranking_Rating": 272,
   "Ranking_Popularity": 191,
-  "Ranking_PopularitySum": 150,
+  "Ranking_PopularitySum": 149,
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 319,
@@ -4231,10 +4231,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 3525,
       "NumberOfAwardsMax": 512
+    },
+    {
+      "Time": "2023-07-12T09:00:28.2229081+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 3527,
+      "NumberOfAwardsMax": 512
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3525,
+  "NumberOfAwards": 3527,
   "NumberOfAwardsMax": 512,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4284,7 +4290,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 382
+      "Count": 384
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4310,8 +4316,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:02.2131047+00:00",
-  "LastChanged": "2023-07-12T06:59:51.0694182+00:00",
+  "LastChanged": "2023-07-12T09:00:28.222908+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:17.8767179+00:00",
-  "LastUpdate_Ratings": "2023-07-12T07:59:37.351626+00:00",
-  "LastUpdate_Achievements": "2023-07-12T08:00:32.7753414+00:00"
+  "LastUpdate_Ratings": "2023-07-12T09:00:28.2229085+00:00",
+  "LastUpdate_Achievements": "2023-07-12T09:03:17.0739705+00:00"
 }

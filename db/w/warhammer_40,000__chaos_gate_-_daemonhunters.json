@@ -582,7 +582,7 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 2957,
+  "EOS_Progressed": 2958,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
@@ -2162,6 +2162,11 @@
       "Time": "2023-07-12T02:26:11.8502703+00:00",
       "NumProgressed": 2957,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-12T09:03:24.041459+00:00",
+      "NumProgressed": 2958,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2341,7 +2346,7 @@
       "Name": "Not So Fast...",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "Kills_Bleed",
@@ -2405,7 +2410,7 @@
       "Name": "Purging Spree",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "Kills_Vakir",
@@ -2644,21 +2649,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2957,
+      "Progressed": 2958,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2957,
+      "Progressed": 2958,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-08T19:59:25.149213+00:00",
-  "LastChanged_Achievements": "2023-07-12T08:00:38.5705496+00:00",
+  "LastChanged_Achievements": "2023-07-12T09:03:24.0414586+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:34.0888616+00:00",
-  "LastUpdate_Ratings": "2023-07-12T07:58:33.2582724+00:00",
-  "LastUpdate_Achievements": "2023-07-12T08:00:38.570599+00:00"
+  "LastUpdate_Ratings": "2023-07-12T08:59:07.0385269+00:00",
+  "LastUpdate_Achievements": "2023-07-12T09:03:24.0415083+00:00"
 }

@@ -36,12 +36,13 @@ Rating: 4.43 (Ranked 653)
 | Die Nussknacker Sweet! | 0.90% | ~29 |
 | Enemy at the Gates | 0.80% | ~26 |
 | Fields of Glory | 0.80% | ~26 |
+| Tinkerer | 0.80% | ~26 |
 | The Long Game | 0.70% | ~23 |
-| Tinkerer | 0.70% | ~23 |
 | Rigged to Blow | 0.60% | ~20 |
 | Herr Today, Gone Tomorrow | 0.60% | ~19 |
 | From Paris with Love | 0.50% | ~16 |
 | Burn after reading | 0.50% | ~16 |
+| Souvenir hunter | 0.50% | ~16 |
 | It'll Buff Right Out | 0.50% | ~16 |
 | Road Rage | 0.50% | ~16 |
 | Don't hold your breath | 0.50% | ~16 |
@@ -49,7 +50,6 @@ Rating: 4.43 (Ranked 653)
 | Shipbreaker | 0.50% | ~16 |
 | Sink or Swim | 0.50% | ~16 |
 | Strategist | 0.40% | ~13 |
-| Souvenir hunter | 0.40% | ~13 |
 | Eagle Eyed | 0.40% | ~13 |
 | Last Resort | 0.40% | ~13 |
 | Siegebreaker | 0.40% | ~13 |

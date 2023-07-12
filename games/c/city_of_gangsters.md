@@ -5,11 +5,11 @@ Rating: 4.26 (Ranked 802)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~151,393 |
-| Copacetic Coordination | 16.00% | ~52,658 |
-| Fronting the Money | 14.00% | ~46,076 |
-| The Dawn of Automation | 14.00% | ~46,076 |
-| Extraordinary Logistics | 14.00% | ~46,076 |
+| Corner Clout | 46.00% | ~151,394 |
+| Copacetic Coordination | 16.00% | ~52,659 |
+| Fronting the Money | 14.00% | ~46,077 |
+| The Dawn of Automation | 14.00% | ~46,077 |
+| Extraordinary Logistics | 14.00% | ~46,077 |
 | Dirty Money | 13.00% | ~42,785 |
 | Family First | 13.00% | ~42,785 |
 | Cleaning House | 12.00% | ~39,494 |
@@ -41,13 +41,13 @@ Rating: 4.26 (Ranked 802)
 | An Affront to the Enemy | 4.00% | ~13,165 |
 | Friends from Back Home | 4.00% | ~13,165 |
 | Half Century Mark | 4.00% | ~13,165 |
-| Corner Opportunities | 3.00% | ~9,873 |
-| 2122 North Clark Street | 3.00% | ~9,873 |
-| Copious Cabbage | 3.00% | ~9,873 |
-| Sockdolager | 3.00% | ~9,873 |
-| Still Stalwart | 3.00% | ~9,873 |
-| Bees Knees Bootlegger | 3.00% | ~9,873 |
-| Tighten the Screws | 3.00% | ~9,873 |
+| Corner Opportunities | 3.00% | ~9,874 |
+| 2122 North Clark Street | 3.00% | ~9,874 |
+| Copious Cabbage | 3.00% | ~9,874 |
+| Sockdolager | 3.00% | ~9,874 |
+| Still Stalwart | 3.00% | ~9,874 |
+| Bees Knees Bootlegger | 3.00% | ~9,874 |
+| Tighten the Screws | 3.00% | ~9,874 |
 | One of Us | 2.00% | ~6,582 |
 | Baker’s Dozen | 2.00% | ~6,582 |
 | Dropping the Dime | 2.00% | ~6,582 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 802)
 | High Pillow | 0.10% | ~329 |
 | Station Master | 0.10% | ~329 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 329,115 (Ranked 40)  
+Progressed: 329,118 (Ranked 40)  
 Completed: 5 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 5 (0.00%) (Ranked 237)
 | 2023-07-09 | 328,678 | 5 |
 | 2023-07-10 | 328,868 | 5 |
 | 2023-07-11 | 329,063 | 5 |
-| 2023-07-12 | 329,115 | 5 |
+| 2023-07-12 | 329,118 | 5 |
 ## Awards
 Max (Highly Recommended): 27  (Ranked 466)  
 Sum: 119 (Ranked 399)  

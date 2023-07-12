@@ -4,7 +4,7 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3225,
+  "EOS_Progressed": 3227,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2058,6 +2058,11 @@
       "Time": "2023-07-12T08:04:31.2523975+00:00",
       "NumProgressed": 3225,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-12T09:05:50.9311435+00:00",
+      "NumProgressed": 3227,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -2085,7 +2090,7 @@
       "Name": "Wayward Son of Hephaestus",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_B_K",
@@ -2125,7 +2130,7 @@
       "Name": "Forged in Fire",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_GE",
@@ -2173,7 +2178,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_M_AI",
@@ -2229,7 +2234,7 @@
       "Name": "The Midas Touch",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_M_D5",
@@ -2301,7 +2306,7 @@
       "Name": "Hapax Legomenon",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_OB_CC",
@@ -2333,7 +2338,7 @@
       "Name": "Labour of Apollo",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_OB_FB",
@@ -2389,7 +2394,7 @@
       "Name": "Vandili",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_OB_RE",
@@ -2397,7 +2402,7 @@
       "Name": "No Scylla in Sight",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_OB_SC",
@@ -2413,7 +2418,7 @@
       "Name": "Cloaca Maxima",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_OB_TDS",
@@ -2485,7 +2490,7 @@
       "Name": "Baby Crabs They Ain\u0027t",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_TOTN",
@@ -2501,7 +2506,7 @@
       "Name": "Halls of Marble",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "KA",
@@ -2509,7 +2514,7 @@
       "Name": "Mors Omnibus",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "KA2",
@@ -2541,7 +2546,7 @@
       "Name": "Blot Out the Sky",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "KK",
@@ -2572,7 +2577,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3225,
+      "Progressed": 3227,
       "Completed": 0
     }
   ],
@@ -2580,8 +2585,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-07-12T08:04:31.252397+00:00",
+  "LastChanged_Achievements": "2023-07-12T09:05:50.931143+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:04.7674222+00:00",
-  "LastUpdate_Ratings": "2023-07-12T07:59:28.7322345+00:00",
-  "LastUpdate_Achievements": "2023-07-12T08:04:31.2524569+00:00"
+  "LastUpdate_Ratings": "2023-07-12T09:00:17.1219759+00:00",
+  "LastUpdate_Achievements": "2023-07-12T09:05:50.931201+00:00"
 }

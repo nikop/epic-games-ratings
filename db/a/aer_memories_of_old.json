@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15036,
+  "EOS_Progressed": 15038,
   "EOS_Completed": 316,
-  "EOS_NewPlayers": 604,
+  "EOS_NewPlayers": 605,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -9014,6 +9014,11 @@
       "Time": "2023-07-12T08:02:28.580017+00:00",
       "NumProgressed": 15036,
       "NumCompleted": 316
+    },
+    {
+      "Time": "2023-07-12T09:03:59.2590793+00:00",
+      "NumProgressed": 15038,
+      "NumCompleted": 316
     }
   ],
   "TotalAchievements": 20,
@@ -9057,7 +9062,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1804
+      "UsersEstimate": 1805
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -9081,7 +9086,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1804
+      "UsersEstimate": 1805
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -9089,7 +9094,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2255
+      "UsersEstimate": 2256
     },
     {
       "ID": "FOUND_ERIN",
@@ -9145,7 +9150,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 11427
+      "UsersEstimate": 11429
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -9153,7 +9158,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 4210
+      "UsersEstimate": 4211
     },
     {
       "ID": "NORTH_FINISHED",
@@ -9184,15 +9189,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 15036,
+      "Progressed": 15038,
       "Completed": 316
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-07-12T08:02:28.5800166+00:00",
+  "LastChanged_Achievements": "2023-07-12T09:03:59.2590789+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:34.4370622+00:00",
-  "LastUpdate_Ratings": "2023-07-12T07:59:47.5989866+00:00",
-  "LastUpdate_Achievements": "2023-07-12T08:02:28.5800683+00:00"
+  "LastUpdate_Ratings": "2023-07-12T09:00:40.4516159+00:00",
+  "LastUpdate_Achievements": "2023-07-12T09:03:59.2591374+00:00"
 }

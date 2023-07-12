@@ -6,10 +6,10 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,560 |
-| The Mad Wizard | 11.00% | ~23,144 |
-| The Ring of Regeneration | 7.00% | ~14,728 |
-| Are Ya Chicken? | 7.00% | ~14,728 |
+| The Cursed Farmer | 15.00% | ~31,561 |
+| The Mad Wizard | 11.00% | ~23,145 |
+| The Ring of Regeneration | 7.00% | ~14,729 |
+| Are Ya Chicken? | 7.00% | ~14,729 |
 | Were-verpowered | 6.00% | ~12,624 |
 | Seeking Allies | 5.00% | ~10,520 |
 | Mad Cow Disease | 5.00% | ~10,520 |
@@ -118,6 +118,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | House of Darkness | 0.40% | ~842 |
 | The Trepidatious Trio | 0.40% | ~842 |
 | A Saurial's Resolve | 0.40% | ~842 |
+| Nimblest Escape | 0.40% | ~842 |
 | Excavating History | 0.40% | ~842 |
 | Towering Expectations | 0.40% | ~842 |
 | A Tale of Two Fiends | 0.40% | ~842 |
@@ -142,7 +143,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hold for the Red Wizards | 0.30% | ~631 |
 | Our Time To Shine | 0.30% | ~631 |
 | A Saurial's Lament | 0.30% | ~631 |
-| Nimblest Escape | 0.30% | ~631 |
 | Stumbling Escape | 0.30% | ~631 |
 | From The Shadows | 0.30% | ~631 |
 | Spined Nuisances | 0.30% | ~631 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,399 (Ranked 52)  
+Progressed: 210,408 (Ranked 52)  
 Completed: 2,046 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -593,7 +593,7 @@ Completed: 2,046 (0.97%) (Ranked 102)
 | 2023-07-09 | 209,384 | 2,043 |
 | 2023-07-10 | 209,861 | 2,045 |
 | 2023-07-11 | 210,283 | 2,046 |
-| 2023-07-12 | 210,399 | 2,046 |
+| 2023-07-12 | 210,408 | 2,046 |
 ## Awards
 Max (Diverse Characters): 5,025  (Ranked 65)  
 Sum: 30,487 (Ranked 38)  

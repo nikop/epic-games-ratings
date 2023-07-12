@@ -1,7 +1,7 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.56 (Ranked 457)  
+Rating: 4.56 (Ranked 458)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -51,7 +51,7 @@ Rating: 4.56 (Ranked 457)
 | You Had One Job... | 0.90% | ~25 |
 | Gregor Spinoza | 0.80% | ~22 |
 | Better Him Than Me | 0.70% | ~20 |
-| Remember the Dead | 0.50% | ~14 |
+| Remember the Dead | 0.60% | ~17 |
 | Work Harder | 0.30% | ~8 |
 | Crunch Culture | 0.20% | ~6 |
 | Soylent Green | 0.20% | ~6 |

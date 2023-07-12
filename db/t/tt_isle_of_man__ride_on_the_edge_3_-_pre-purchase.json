@@ -4,7 +4,7 @@
   "ProductSlug": "tt-isle-of-man-ride-on-the-edge-3",
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 74,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 284,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -715,9 +715,9 @@
       "ID": "ACHIEVEMENT_30",
       "SetID": "gagif7",
       "Name": "Onwards and Upwards",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -802,8 +802,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-07-12T08:02:12.3597994+00:00",
+  "LastChanged_Achievements": "2023-07-12T09:03:39.7363991+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:06.9042422+00:00",
-  "LastUpdate_Ratings": "2023-07-12T07:57:38.3417033+00:00",
-  "LastUpdate_Achievements": "2023-07-12T08:02:12.3598272+00:00"
+  "LastUpdate_Ratings": "2023-07-12T08:58:00.1003018+00:00",
+  "LastUpdate_Achievements": "2023-07-12T09:03:39.7364254+00:00"
 }
