@@ -6,10 +6,10 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,550 |
-| The Mad Wizard | 11.00% | ~23,136 |
-| The Ring of Regeneration | 7.00% | ~14,723 |
-| Are Ya Chicken? | 7.00% | ~14,723 |
+| The Cursed Farmer | 15.00% | ~31,551 |
+| The Mad Wizard | 11.00% | ~23,137 |
+| The Ring of Regeneration | 7.00% | ~14,724 |
+| Are Ya Chicken? | 7.00% | ~14,724 |
 | Were-verpowered | 6.00% | ~12,620 |
 | Seeking Allies | 5.00% | ~10,517 |
 | Mad Cow Disease | 5.00% | ~10,517 |
@@ -72,6 +72,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Wyrmheart Mine | 0.70% | ~1,472 |
 | Fugitives | 0.70% | ~1,472 |
 | Hopelessly Lost | 0.70% | ~1,472 |
+| Enter the Sargauth | 0.70% | ~1,472 |
 | Crowded Streets | 0.70% | ~1,472 |
 | Difficult Terrain | 0.70% | ~1,472 |
 | Market Fluctuations | 0.70% | ~1,472 |
@@ -80,7 +81,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeds of Deceit | 0.60% | ~1,262 |
 | The Guardian of Orolunga | 0.60% | ~1,262 |
 | The Lost Love | 0.60% | ~1,262 |
-| Enter the Sargauth | 0.60% | ~1,262 |
 | Lair of the Xanathar | 0.60% | ~1,262 |
 | Waterdeep Under Siege | 0.60% | ~1,262 |
 | Elturel Has Fallen | 0.60% | ~1,262 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,331 (Ranked 52)  
+Progressed: 210,337 (Ranked 52)  
 Completed: 2,046 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -593,7 +593,7 @@ Completed: 2,046 (0.97%) (Ranked 102)
 | 2023-07-09 | 209,384 | 2,043 |
 | 2023-07-10 | 209,861 | 2,045 |
 | 2023-07-11 | 210,283 | 2,046 |
-| 2023-07-12 | 210,331 | 2,046 |
+| 2023-07-12 | 210,337 | 2,046 |
 ## Awards
 Max (Diverse Characters): 5,025  (Ranked 65)  
 Sum: 30,485 (Ranked 38)  

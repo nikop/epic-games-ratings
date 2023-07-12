@@ -2464,9 +2464,9 @@
       "Count": 253
     }
   ],
-  "EOS_Progressed": 232062,
+  "EOS_Progressed": 232063,
   "EOS_Completed": 766,
-  "EOS_NewPlayers": 1047,
+  "EOS_NewPlayers": 1043,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -11169,6 +11169,11 @@
       "Time": "2023-07-12T02:26:05.7515573+00:00",
       "NumProgressed": 232062,
       "NumCompleted": 766
+    },
+    {
+      "Time": "2023-07-12T03:21:27.1737001+00:00",
+      "NumProgressed": 232063,
+      "NumCompleted": 766
     }
   ],
   "TotalAchievements": 39,
@@ -11196,7 +11201,7 @@
       "Name": "Car Cave",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 27847
+      "UsersEstimate": 27848
     },
     {
       "ID": "AchievementBaywatchID",
@@ -11204,7 +11209,7 @@
       "Name": "Who Baywatches the Baywatch?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9282
+      "UsersEstimate": 9283
     },
     {
       "ID": "AchievementBecomeHumanID",
@@ -11244,7 +11249,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 211176
+      "UsersEstimate": 211177
     },
     {
       "ID": "AchievementClownID",
@@ -11268,7 +11273,7 @@
       "Name": "Don\u0027t touch the servers",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 64977
+      "UsersEstimate": 64978
     },
     {
       "ID": "AchievementEggID",
@@ -11292,7 +11297,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 76580
+      "UsersEstimate": 76581
     },
     {
       "ID": "AchievementGoatID",
@@ -11348,7 +11353,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 132275
+      "UsersEstimate": 132276
     },
     {
       "ID": "AchievementLootBoxID",
@@ -11364,7 +11369,7 @@
       "Name": "Nasty!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9282
+      "UsersEstimate": 9283
     },
     {
       "ID": "AchievementMovieID",
@@ -11396,7 +11401,7 @@
       "Name": "[REDACTED]",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 9282
+      "UsersEstimate": 9283
     },
     {
       "ID": "AchievementRedecorationID",
@@ -11412,7 +11417,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 171726
+      "UsersEstimate": 171727
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -11428,7 +11433,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 116031
+      "UsersEstimate": 116032
     },
     {
       "ID": "AchievementStreakingID",
@@ -11452,7 +11457,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 127634
+      "UsersEstimate": 127635
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -11460,7 +11465,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 109069
+      "UsersEstimate": 109070
     },
     {
       "ID": "AchievementTrinketID",
@@ -11476,7 +11481,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 150840
+      "UsersEstimate": 150841
     },
     {
       "ID": "AchievementWhaleID",
@@ -11491,7 +11496,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 232062,
+      "Progressed": 232063,
       "Completed": 766
     }
   ],
@@ -11499,8 +11504,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-07-11T23:01:46.1818167+00:00",
-  "LastChanged_Achievements": "2023-07-12T02:26:05.7515566+00:00",
+  "LastChanged_Achievements": "2023-07-12T03:21:27.1736995+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:00.698233+00:00",
-  "LastUpdate_Ratings": "2023-07-12T02:24:14.2803736+00:00",
-  "LastUpdate_Achievements": "2023-07-12T02:26:05.7516627+00:00"
+  "LastUpdate_Ratings": "2023-07-12T03:20:49.51416+00:00",
+  "LastUpdate_Achievements": "2023-07-12T03:21:27.1737787+00:00"
 }

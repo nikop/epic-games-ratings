@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -5517,9 +5517,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 55550,
+  "EOS_Progressed": 55552,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 547,
+  "EOS_NewPlayers": 545,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14062,6 +14062,11 @@
       "Time": "2023-07-12T02:30:19.5639174+00:00",
       "NumProgressed": 55550,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-12T03:26:45.2100573+00:00",
+      "NumProgressed": 55552,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -14073,7 +14078,7 @@
       "Name": "Against all odds",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6110
+      "UsersEstimate": 6111
     },
     {
       "ID": "Apple of my eye",
@@ -14193,7 +14198,7 @@
       "Name": "Freedom!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1666
+      "UsersEstimate": 1667
     },
     {
       "ID": "God of the Arena",
@@ -14241,7 +14246,7 @@
       "Name": "I can do it",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8332
+      "UsersEstimate": 8333
     },
     {
       "ID": "I spit on your grave",
@@ -14297,7 +14302,7 @@
       "Name": "Landlord",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 17220
+      "UsersEstimate": 17221
     },
     {
       "ID": "Lawbringer",
@@ -14361,7 +14366,7 @@
       "Name": "Real Estate",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1666
+      "UsersEstimate": 1667
     },
     {
       "ID": "Ride it like you stole it",
@@ -14480,15 +14485,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 55550,
+      "Progressed": 55552,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-07-11T20:59:43.2618828+00:00",
-  "LastChanged_Achievements": "2023-07-12T02:30:19.563917+00:00",
+  "LastChanged_Achievements": "2023-07-12T03:26:45.2100568+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:03.335469+00:00",
-  "LastUpdate_Ratings": "2023-07-12T02:23:30.1400738+00:00",
-  "LastUpdate_Achievements": "2023-07-12T02:30:19.5641252+00:00"
+  "LastUpdate_Ratings": "2023-07-12T03:19:59.9812734+00:00",
+  "LastUpdate_Achievements": "2023-07-12T03:26:45.2101972+00:00"
 }

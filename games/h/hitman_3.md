@@ -6,19 +6,19 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~601,265 |
-| Death From Above | 46.00% | ~601,265 |
-| Master of the Household | 39.00% | ~509,768 |
-| Death of the Party | 36.00% | ~470,555 |
-| NEXUS-47 | 33.00% | ~431,342 |
-| The Last Tango | 32.00% | ~418,271 |
-| Nightmare Fuel | 31.00% | ~405,200 |
-| The Result of Previous Training | 28.00% | ~365,987 |
-| Tools of the Trade | 28.00% | ~365,987 |
-| Cleared for Field Duty | 27.00% | ~352,916 |
-| Seizing the Opportunity | 25.00% | ~326,774 |
-| Bullet Train | 21.00% | ~274,490 |
-| Stylish Assassin | 20.00% | ~261,419 |
+| Unseen Assassin | 46.00% | ~601,267 |
+| Death From Above | 46.00% | ~601,267 |
+| Master of the Household | 39.00% | ~509,770 |
+| Death of the Party | 36.00% | ~470,557 |
+| NEXUS-47 | 33.00% | ~431,344 |
+| The Last Tango | 32.00% | ~418,273 |
+| Nightmare Fuel | 31.00% | ~405,202 |
+| The Result of Previous Training | 28.00% | ~365,989 |
+| Tools of the Trade | 28.00% | ~365,989 |
+| Cleared for Field Duty | 27.00% | ~352,918 |
+| Seizing the Opportunity | 25.00% | ~326,776 |
+| Bullet Train | 21.00% | ~274,492 |
+| Stylish Assassin | 20.00% | ~261,421 |
 | Silent Assassin | 14.00% | ~182,994 |
 | Rise Up | 13.00% | ~169,923 |
 | Evil Wine Club | 12.00% | ~156,852 |
@@ -54,7 +54,7 @@ Number of Ratings: 21,082  (23.09.2022)
 | Ripe for the Picking | 1.00% | ~13,071 |
 | The Creative Assassin | 0.70% | ~9,150 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,307,097 (Ranked 9)  
+Progressed: 1,307,103 (Ranked 9)  
 Completed: 2,100 (0.16%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 2,100 (0.16%) (Ranked 169)
 | 2023-07-09 | 1,306,255 | 2,099 |
 | 2023-07-10 | 1,306,646 | 2,099 |
 | 2023-07-11 | 1,307,050 | 2,100 |
-| 2023-07-12 | 1,307,097 | 2,100 |
+| 2023-07-12 | 1,307,103 | 2,100 |
 ## Awards
 Max (Diverse Characters): 9,454  (Ranked 36)  
 Sum: 68,265 (Ranked 20)  

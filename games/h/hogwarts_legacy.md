@@ -5,28 +5,28 @@ Rating: 4.77 (Ranked 108)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 11.00% | ~31,558 |
-| First Class Student | 10.00% | ~28,689 |
-| Troll with the Punches | 10.00% | ~28,689 |
-| A Keen Sense of Spell | 9.00% | ~25,820 |
-| That's a Keeper | 9.00% | ~25,820 |
-| Grappling with a Graphorn | 8.00% | ~22,951 |
-| The One Who Mastered Memories | 8.00% | ~22,951 |
-| The Hallowed Hero | 8.00% | ~22,951 |
-| The Hero of Hogwarts | 8.00% | ~22,951 |
-| The Defender of Dragons | 8.00% | ~22,951 |
-| Challenge Accepted | 8.00% | ~22,951 |
-| Loom for Improvement | 8.00% | ~22,951 |
-| A Talent for Spending | 8.00% | ~22,951 |
-| Coasting Along | 8.00% | ~22,951 |
-| Followed the Butterflies | 7.00% | ~20,082 |
-| The Spell Master | 7.00% | ~20,082 |
-| Rising From the Ashes | 7.00% | ~20,082 |
-| The Avenging Gazelle | 6.00% | ~17,213 |
-| Beast Friends | 6.00% | ~17,213 |
-| A Sallow Grave | 6.00% | ~17,213 |
-| Flight the Good Flight | 6.00% | ~17,213 |
-| The Seeker of Knowledge | 5.00% | ~14,344 |
+| The Sort Who Makes an Entrance | 11.00% | ~31,559 |
+| First Class Student | 10.00% | ~28,690 |
+| Troll with the Punches | 10.00% | ~28,690 |
+| A Keen Sense of Spell | 9.00% | ~25,821 |
+| That's a Keeper | 9.00% | ~25,821 |
+| Grappling with a Graphorn | 8.00% | ~22,952 |
+| The One Who Mastered Memories | 8.00% | ~22,952 |
+| The Hallowed Hero | 8.00% | ~22,952 |
+| The Hero of Hogwarts | 8.00% | ~22,952 |
+| The Defender of Dragons | 8.00% | ~22,952 |
+| Challenge Accepted | 8.00% | ~22,952 |
+| Loom for Improvement | 8.00% | ~22,952 |
+| A Talent for Spending | 8.00% | ~22,952 |
+| Coasting Along | 8.00% | ~22,952 |
+| Followed the Butterflies | 7.00% | ~20,083 |
+| The Spell Master | 7.00% | ~20,083 |
+| Rising From the Ashes | 7.00% | ~20,083 |
+| The Avenging Gazelle | 6.00% | ~17,214 |
+| Beast Friends | 6.00% | ~17,214 |
+| A Sallow Grave | 6.00% | ~17,214 |
+| Flight the Good Flight | 6.00% | ~17,214 |
+| The Seeker of Knowledge | 5.00% | ~14,345 |
 | The Root of the Problem | 4.00% | ~11,476 |
 | Third Time's a Charm | 4.00% | ~11,476 |
 | The Ends Petrify the Means | 4.00% | ~11,476 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.50% | ~1,434 |
 | Collector's Edition | 0.20% | ~574 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 286,888 (Ranked 41)  
+Progressed: 286,897 (Ranked 41)  
 Completed: 423 (0.15%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,10 +134,10 @@ Completed: 423 (0.15%) (Ranked 172)
 | 2023-07-09 | 286,337 | 420 |
 | 2023-07-10 | 286,613 | 422 |
 | 2023-07-11 | 286,851 | 423 |
-| 2023-07-12 | 286,888 | 423 |
+| 2023-07-12 | 286,897 | 423 |
 ## Awards
 Max (Character Customization): 20,887  (Ranked 17)  
-Sum: 38,978 (Ranked 30)  
+Sum: 38,985 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -145,8 +145,8 @@ Diff (max vs sum): -13
 | This game has Great Boss Battles | 9,967 |
 | This game is Great for Beginners | 900 |
 | This game is Extremely Fun | 885 |
-| This game is Relaxing | 871 |
-| This game has Amazing Storytelling | 867 |
+| This game is Relaxing | 875 |
+| This game has Amazing Storytelling | 870 |
 | This game has Diverse Characters | 865 |
 | This game has Amazing Characters | 850 |
 | This game is Highly Recommended | 823 |
@@ -266,3 +266,4 @@ Diff (max vs sum): -13
 | 2023-07-09 | 4.77 | 20,828 | 38,845 |
 | 2023-07-10 | 4.77 | 20,861 | 38,915 |
 | 2023-07-11 | 4.77 | 20,887 | 38,978 |
+| 2023-07-12 | 4.77 | 20,887 | 38,985 |

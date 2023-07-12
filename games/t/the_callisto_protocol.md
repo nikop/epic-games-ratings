@@ -31,7 +31,7 @@ Rating: 4.19 (Ranked 846)
 | Power Up | 1.00% | ~157 |
 | One Last Job | 0.90% | ~33 |
 | In Striking Distance | 0.70% | ~110 |
-| This Isn't About Escape | 0.50% | ~18 |
+| This Isn't About Escape | 0.60% | ~22 |
 | Armed to the Teeth | 0.40% | ~14 |
 | Information Overload | 0.40% | ~14 |
 | Grim Reaper | 0.30% | ~47 |

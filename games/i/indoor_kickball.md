@@ -26,9 +26,9 @@
 | At least everyone still had fun | 22.00% | ~16 |
 | Angry Dad | 20.00% | ~15 |
 | Living Room Secret Spot | 18.00% | ~13 |
-| Hi Hungry, I'm Dad | 14.00% | ~10 |
+| Hi Hungry, I'm Dad | 15.00% | ~11 |
+| Angry Mom | 11.00% | ~8 |
 | Just how we drew it up | 11.00% | ~8 |
-| Angry Mom | 9.00% | ~7 |
 | Interference | 9.00% | ~7 |
 | Kitchen Secret Spot | 5.00% | ~4 |
 | Found the Secret Formula! | 5.00% | ~4 |

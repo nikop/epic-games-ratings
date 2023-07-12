@@ -23,11 +23,11 @@ Number of Ratings: 45  (23.09.2022)
 | Echoes Die | 9.00% | ~118 |
 | Thematic Divergence | 8.00% | ~105 |
 | Chain Reaction | 8.00% | ~105 |
+| Let Me Get My Chisel | 7.00% | ~91 |
 | Plague Doctor | 7.00% | ~91 |
 | Everfading | 7.00% | ~91 |
 | Another Tale to Tell | 7.00% | ~91 |
 | A Story of Heroes | 7.00% | ~91 |
-| Let Me Get My Chisel | 6.00% | ~78 |
 | Legends Never Die | 5.00% | ~65 |
 | In Soil, In Smoke | 5.00% | ~65 |
 | Wingknight's Prowess | 5.00% | ~65 |

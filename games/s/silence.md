@@ -7,23 +7,23 @@
 | Chapter I | 48.00% | ~45 |
 | Fire in the... nevermind | 48.00% | ~45 |
 | Haute cuisine | 45.00% | ~42 |
-| I didn't do it! | 40.00% | ~37 |
+| I didn't do it! | 41.00% | ~38 |
 | Keep away from children | 37.00% | ~34 |
 | Demolition expert | 35.00% | ~33 |
+| Wooooooow! | 34.00% | ~32 |
 | Artistic fool | 33.00% | ~31 |
-| Wooooooow! | 33.00% | ~31 |
 | Chapter II | 30.00% | ~28 |
+| Let the boot talk | 29.00% | ~27 |
 | Open up wide | 29.00% | ~27 |
 | Achoo!! | 29.00% | ~27 |
 | Chapter III | 29.00% | ~27 |
 | Like a moth in the Wind | 29.00% | ~27 |
-| Let the boot talk | 28.00% | ~26 |
 | Mirror mirror on the wall... | 25.00% | ~23 |
 | Bubblekillerfamily | 24.00% | ~22 |
+| Quite a buggy game | 23.00% | ~21 |
 | Shadow on the wall | 23.00% | ~21 |
 | Handyman | 23.00% | ~21 |
 | Fastidious Clown | 23.00% | ~21 |
-| Quite a buggy game | 22.00% | ~20 |
 | It's not easy being green! | 22.00% | ~20 |
 | Home is where the heart is | 22.00% | ~20 |
 | Pacifist | 18.00% | ~17 |
