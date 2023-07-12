@@ -3,12 +3,12 @@
   "Name": "Good Company",
   "ProductSlug": "good-company",
   "Ranking_Rating": 654,
-  "Ranking_Popularity": 504,
-  "Ranking_PopularitySum": 504,
+  "Ranking_Popularity": 505,
+  "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5113,
+  "EOS_Progressed": 5114,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2169,6 +2169,11 @@
       "Time": "2023-07-11T16:04:30.0640619+00:00",
       "NumProgressed": 5113,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-12T02:27:32.2629355+00:00",
+      "NumProgressed": 5114,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -2292,7 +2297,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2556
+      "UsersEstimate": 2557
     },
     {
       "ID": "ach_campaign_progress6",
@@ -2332,7 +2337,7 @@
       "Name": "Returning Home: Quick Learner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1329
+      "UsersEstimate": 1330
     },
     {
       "ID": "ach_campaign_special10",
@@ -2787,15 +2792,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5113,
+      "Progressed": 5114,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-07-12T00:04:19.1334626+00:00",
+  "LastChanged_Achievements": "2023-07-12T02:27:32.2629351+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:01.0714136+00:00",
-  "LastUpdate_Ratings": "2023-07-11T23:59:13.6057888+00:00",
-  "LastUpdate_Achievements": "2023-07-12T00:04:19.1335613+00:00"
+  "LastUpdate_Ratings": "2023-07-12T02:22:42.9475036+00:00",
+  "LastUpdate_Achievements": "2023-07-12T02:27:32.2631644+00:00"
 }

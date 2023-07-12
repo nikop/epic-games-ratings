@@ -5,22 +5,22 @@ Rating: 3.98 (Ranked 918)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blood on My Hands | 77.00% | ~343,104 |
-| Health Junkie | 45.00% | ~200,516 |
-| You Complete Me | 42.00% | ~187,148 |
-| Guardian Angel | 39.00% | ~173,780 |
-| Devil Inside Me | 31.00% | ~138,133 |
-| Killing Spree | 22.00% | ~98,030 |
-| Fantastic Four | 22.00% | ~98,030 |
-| Marksman Novice | 19.00% | ~84,662 |
-| First Blood | 14.00% | ~62,383 |
-| Top 10 | 14.00% | ~62,383 |
-| Now You See Me, Now You Don't | 12.00% | ~53,471 |
-| Marksman Expert | 9.00% | ~40,103 |
-| CQB Novice | 8.00% | ~35,647 |
-| Collateral Damage | 7.00% | ~31,191 |
-| Airborne | 6.00% | ~26,735 |
-| Pacifist | 6.00% | ~26,735 |
+| Blood on My Hands | 77.00% | ~343,112 |
+| Health Junkie | 45.00% | ~200,520 |
+| You Complete Me | 42.00% | ~187,152 |
+| Guardian Angel | 39.00% | ~173,784 |
+| Devil Inside Me | 31.00% | ~138,136 |
+| Killing Spree | 22.00% | ~98,032 |
+| Fantastic Four | 22.00% | ~98,032 |
+| Marksman Novice | 19.00% | ~84,664 |
+| First Blood | 14.00% | ~62,384 |
+| Top 10 | 14.00% | ~62,384 |
+| Now You See Me, Now You Don't | 12.00% | ~53,472 |
+| Marksman Expert | 9.00% | ~40,104 |
+| CQB Novice | 8.00% | ~35,648 |
+| Collateral Damage | 7.00% | ~31,192 |
+| Airborne | 6.00% | ~26,736 |
+| Pacifist | 6.00% | ~26,736 |
 | Last Survivor | 4.00% | ~17,824 |
 | Marksman Master | 4.00% | ~17,824 |
 | Trigonometry Novice | 4.00% | ~17,824 |
@@ -43,7 +43,7 @@ Rating: 3.98 (Ranked 918)
 | Nade King Expert | 0.10% | ~446 |
 | Shoot the Knee | 0.10% | ~446 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 445,590 (Ranked 36)  
+Progressed: 445,600 (Ranked 36)  
 Completed: 10 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,10 +126,10 @@ Completed: 10 (0.00%) (Ranked 237)
 | 2023-07-09 | 442,098 | 10 |
 | 2023-07-10 | 443,871 | 10 |
 | 2023-07-11 | 445,539 | 10 |
-| 2023-07-12 | 445,590 | 10 |
+| 2023-07-12 | 445,600 | 10 |
 ## Awards
 Max (Competitive Players): 2,609  (Ranked 92)  
-Sum: 10,819 (Ranked 78)  
+Sum: 10,828 (Ranked 78)  
 Diff (max vs sum): 14  
 | Award | Count |
 | ----- | ----- |
@@ -137,7 +137,7 @@ Diff (max vs sum): 14
 | This game has Quickly Understood Controls | 2,388 |
 | This game has Challenging Combat | 2,270 |
 | This game is Highly Recommended | 2,081 |
-| This game has a Competitive Community | 1,471 |
+| This game has a Competitive Community | 1,480 |
 | This game is Extremely Fun | 122 |
 | This game has Diverse Characters | 76 |
 | This game is Relaxing | 57 |
@@ -279,3 +279,4 @@ Diff (max vs sum): 14
 | 2023-07-09 | 3.98 | 2,580 | 10,729 |
 | 2023-07-10 | 3.98 | 2,599 | 10,780 |
 | 2023-07-11 | 3.98 | 2,609 | 10,819 |
+| 2023-07-12 | 3.98 | 2,609 | 10,828 |

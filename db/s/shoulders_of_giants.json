@@ -3,12 +3,12 @@
   "Name": "Shoulders of Giants",
   "ProductSlug": "shoulders-of-giants-61381f",
   "Ranking_Rating": 722,
-  "Ranking_Popularity": 504,
-  "Ranking_PopularitySum": 504,
+  "Ranking_Popularity": 505,
+  "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
     "PcReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -72,9 +72,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2169,
+  "EOS_Progressed": 2172,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -1292,6 +1292,11 @@
       "Time": "2023-07-10T19:03:11.5199575+00:00",
       "NumProgressed": 2169,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-12T02:26:43.9791619+00:00",
+      "NumProgressed": 2172,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 19,
@@ -1311,7 +1316,7 @@
       "Name": "Nothing to Wear",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "complete_act_one",
@@ -1343,7 +1348,7 @@
       "Name": "On the Shoulders of Giants",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 1909
+      "UsersEstimate": 1911
     },
     {
       "ID": "deal_damage",
@@ -1351,7 +1356,7 @@
       "Name": "Ouch",
       "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 1193
+      "UsersEstimate": 1195
     },
     {
       "ID": "defeat_enemies",
@@ -1359,7 +1364,7 @@
       "Name": "A Ribbiting Performance",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 1670
+      "UsersEstimate": 1672
     },
     {
       "ID": "defeat_tree_dummy",
@@ -1367,7 +1372,7 @@
       "Name": "Do you feel like a tough guy?",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 954
+      "UsersEstimate": 956
     },
     {
       "ID": "fail_planet",
@@ -1375,7 +1380,7 @@
       "Name": "At Least We Have Each Other...",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 1627
+      "UsersEstimate": 1629
     },
     {
       "ID": "piercing_beam",
@@ -1391,7 +1396,7 @@
       "Name": "Turn Up The HEAT",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "reach_high_heat",
@@ -1407,7 +1412,7 @@
       "Name": "Frogbot",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 1583
+      "UsersEstimate": 1586
     },
     {
       "ID": "save_planet_bestfriend",
@@ -1415,7 +1420,7 @@
       "Name": "Do you trust me?",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "save_planet_coop",
@@ -1423,7 +1428,7 @@
       "Name": "The Interdimensional Power of Friendship",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 954
+      "UsersEstimate": 956
     },
     {
       "ID": "stick_decoy",
@@ -1431,7 +1436,7 @@
       "Name": "Stop Hitting Yourself!",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "stun_enemies",
@@ -1439,7 +1444,7 @@
       "Name": "Fun in the Stun",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1173
     },
     {
       "ID": "trash_truck",
@@ -1454,7 +1459,7 @@
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 2169,
+      "Progressed": 2172,
       "Completed": 9
     }
   ],
@@ -1462,8 +1467,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-06-30T03:59:49.3890269+00:00",
-  "LastChanged_Achievements": "2023-07-12T00:03:38.8480542+00:00",
+  "LastChanged_Achievements": "2023-07-12T02:26:43.9791612+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:48.8553728+00:00",
-  "LastUpdate_Ratings": "2023-07-12T00:00:23.3224675+00:00",
-  "LastUpdate_Achievements": "2023-07-12T00:03:38.8480756+00:00"
+  "LastUpdate_Ratings": "2023-07-12T02:24:04.958855+00:00",
+  "LastUpdate_Achievements": "2023-07-12T02:26:43.9791876+00:00"
 }

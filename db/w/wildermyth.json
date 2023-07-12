@@ -2,12 +2,12 @@
   "ID": "466bb53962c14a6e80f3e3d919f123eb",
   "Name": "Wildermyth",
   "ProductSlug": "wildermyth-593344",
-  "Ranking_Rating": 107,
+  "Ranking_Rating": 108,
   "Ranking_Popularity": 462,
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -151,9 +151,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1305,
+  "EOS_Progressed": 1307,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1076,6 +1076,11 @@
       "Time": "2023-07-11T02:21:47.1943974+00:00",
       "NumProgressed": 1305,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-12T02:27:57.3979344+00:00",
+      "NumProgressed": 1307,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 56,
@@ -1151,7 +1156,7 @@
       "Name": "Gotta Ca... Must Collect All of Them",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
@@ -1159,7 +1164,7 @@
       "Name": "Passing Shadow",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -1247,7 +1252,7 @@
       "Name": "This Too Shall Pass",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -1255,7 +1260,7 @@
       "Name": "How Romantic!",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "achievement_maimedHero",
@@ -1263,7 +1268,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "achievement_mythwalker",
@@ -1279,15 +1284,15 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
       "SetID": "95dc8p",
       "Name": "Thematic Divergence",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 105
     },
     {
       "ID": "achievement_use3ReactionStrikesInOneTurn",
@@ -1295,7 +1300,7 @@
       "Name": "Chain Reaction",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "achievement_victoryAfterLosingThreeHeroesInBattle",
@@ -1303,7 +1308,7 @@
       "Name": "Pyrrhic Victory",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "completedStory_cvawn",
@@ -1343,7 +1348,7 @@
       "Name": "Echoes Die",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "completedStory_procedural",
@@ -1359,7 +1364,7 @@
       "Name": "Daybreak",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "completedStory_vultureLord",
@@ -1534,15 +1539,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1305,
+      "Progressed": 1307,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-07-08T20:01:41.3411794+00:00",
-  "LastChanged_Achievements": "2023-07-12T00:04:40.0557544+00:00",
+  "LastChanged_Achievements": "2023-07-12T02:27:57.3979338+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:13.8802543+00:00",
-  "LastUpdate_Ratings": "2023-07-12T00:00:41.2387761+00:00",
-  "LastUpdate_Achievements": "2023-07-12T00:04:40.0558101+00:00"
+  "LastUpdate_Ratings": "2023-07-12T02:24:25.8505521+00:00",
+  "LastUpdate_Achievements": "2023-07-12T02:27:57.3979885+00:00"
 }

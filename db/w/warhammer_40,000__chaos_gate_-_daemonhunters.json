@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -582,9 +582,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 2956,
+  "EOS_Progressed": 2957,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2157,6 +2157,11 @@
       "Time": "2023-07-11T17:02:07.9844976+00:00",
       "NumProgressed": 2956,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-12T02:26:11.8502703+00:00",
+      "NumProgressed": 2957,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2184,7 +2189,7 @@
       "Name": "Look Over There!",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "BloodAndIron",
@@ -2360,7 +2365,7 @@
       "Name": "Executioner",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1124
     },
     {
       "ID": "Kills_Exterminator",
@@ -2384,7 +2389,7 @@
       "Name": "Opportunist",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "Kills_Knockback",
@@ -2392,7 +2397,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "Kills_Streak",
@@ -2496,7 +2501,7 @@
       "Name": "Efficient Killer",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "MissionVictory_NoDamage",
@@ -2639,21 +2644,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2956,
+      "Progressed": 2957,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2956,
+      "Progressed": 2957,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-08T19:59:25.149213+00:00",
-  "LastChanged_Achievements": "2023-07-12T00:03:11.736266+00:00",
+  "LastChanged_Achievements": "2023-07-12T02:26:11.8502698+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:34.0888616+00:00",
-  "LastUpdate_Ratings": "2023-07-11T23:58:58.0530085+00:00",
-  "LastUpdate_Achievements": "2023-07-12T00:03:11.7363317+00:00"
+  "LastUpdate_Ratings": "2023-07-12T02:22:20.6899666+00:00",
+  "LastUpdate_Achievements": "2023-07-12T02:26:11.8503379+00:00"
 }

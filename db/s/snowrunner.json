@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 21,
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 322,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2020-04-28T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -7540,10 +7540,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 63662,
       "NumberOfAwardsMax": 9122
+    },
+    {
+      "Time": "2023-07-12T02:23:52.9028794+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 63707,
+      "NumberOfAwardsMax": 9122
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 63662,
+  "NumberOfAwards": 63707,
   "NumberOfAwardsMax": 9122,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7551,7 +7557,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 8080
+      "Count": 8099
     },
     {
       "Text": "This game is Relaxing",
@@ -7563,7 +7569,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 7757
+      "Count": 7769
     },
     {
       "Text": "This game is Great for Beginners",
@@ -7593,7 +7599,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 5528
+      "Count": 5542
     },
     {
       "Text": "This game has Amazing Characters",
@@ -7619,8 +7625,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:33.5806012+00:00",
-  "LastChanged": "2023-07-11T19:00:38.5334183+00:00",
+  "LastChanged": "2023-07-12T02:23:52.9028792+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:34.630394+00:00",
-  "LastUpdate_Ratings": "2023-07-12T00:00:15.2359457+00:00",
-  "LastUpdate_Achievements": "2023-07-12T00:03:17.7638579+00:00"
+  "LastUpdate_Ratings": "2023-07-12T02:23:52.90288+00:00",
+  "LastUpdate_Achievements": "2023-07-12T02:26:19.1577733+00:00"
 }

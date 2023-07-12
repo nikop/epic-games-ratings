@@ -3,12 +3,12 @@
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 347,
-  "Ranking_Popularity": 504,
-  "Ranking_PopularitySum": 504,
+  "Ranking_Popularity": 505,
+  "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -277,7 +277,7 @@
   "EOS_Progressed": 4972,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 54,
-  "EOS_NewCompleters": 1,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
     {
@@ -5538,8 +5538,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-07-11T11:00:15.2595187+00:00",
-  "LastChanged_Achievements": "2023-07-12T00:03:13.7420687+00:00",
+  "LastChanged_Achievements": "2023-07-12T02:26:14.2385289+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:44.6563449+00:00",
-  "LastUpdate_Ratings": "2023-07-11T23:59:38.6339102+00:00",
-  "LastUpdate_Achievements": "2023-07-12T00:03:13.742148+00:00"
+  "LastUpdate_Ratings": "2023-07-12T02:23:14.4806241+00:00",
+  "LastUpdate_Achievements": "2023-07-12T02:26:14.238614+00:00"
 }

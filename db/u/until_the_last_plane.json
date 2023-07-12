@@ -4,8 +4,8 @@
   "ProductSlug": "until-the-last-plane-867d60",
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 322,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2021-03-04T17:00:00+00:00",
@@ -126,8 +126,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:50:18.7647785+00:00",
-  "LastChanged_Achievements": "2023-07-12T00:03:13.0920188+00:00",
+  "LastChanged_Achievements": "2023-07-12T02:26:13.3745256+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:28.4677366+00:00",
-  "LastUpdate_Ratings": "2023-07-11T23:59:28.8313166+00:00",
-  "LastUpdate_Achievements": "2023-07-12T00:03:13.0920285+00:00"
+  "LastUpdate_Ratings": "2023-07-12T02:23:02.614242+00:00",
+  "LastUpdate_Achievements": "2023-07-12T02:26:13.3745369+00:00"
 }

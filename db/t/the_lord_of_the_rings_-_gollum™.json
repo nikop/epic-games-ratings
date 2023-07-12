@@ -4,8 +4,8 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -1047,9 +1047,9 @@
       "ID": "Chapter8",
       "SetID": "70l3651",
       "Name": "Her Eyes",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 51
     },
     {
       "ID": "Chapter9",
@@ -1254,8 +1254,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-07-12T00:06:32.7346041+00:00",
+  "LastChanged_Achievements": "2023-07-12T02:30:16.2696661+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:13.2645912+00:00",
-  "LastUpdate_Ratings": "2023-07-11T23:58:04.2460901+00:00",
-  "LastUpdate_Achievements": "2023-07-12T00:06:32.7346397+00:00"
+  "LastUpdate_Ratings": "2023-07-12T02:21:20.2330121+00:00",
+  "LastUpdate_Achievements": "2023-07-12T02:30:16.269697+00:00"
 }

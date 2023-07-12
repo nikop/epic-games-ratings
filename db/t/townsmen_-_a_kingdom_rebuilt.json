@@ -3,12 +3,12 @@
   "Name": "Townsmen - A Kingdom Rebuilt",
   "ProductSlug": "townsmen-a-kingdom-rebuilt-07c09d",
   "Ranking_Rating": 833,
-  "Ranking_Popularity": 504,
-  "Ranking_PopularitySum": 504,
+  "Ranking_Popularity": 505,
+  "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 251,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
     "PcReleaseDate": "2019-02-26T00:00:00+00:00",
@@ -764,9 +764,9 @@
       "ID": "ACHIEVEMENT_ARTOFWAR",
       "SetID": "9eacipp",
       "Name": "The Art of War",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_AUTOTRADE_01",
@@ -1420,9 +1420,9 @@
       "ID": "ACHIEVEMENT_TAXES2",
       "SetID": "9eacipp",
       "Name": "Tax-man II",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 251
+      "UsersEstimate": 293
     },
     {
       "ID": "ACHIEVEMENT_TAXES3",
@@ -1580,8 +1580,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-07-12T00:04:00.8423482+00:00",
+  "LastChanged_Achievements": "2023-07-12T02:27:10.734254+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:35.0045065+00:00",
-  "LastUpdate_Ratings": "2023-07-11T23:58:17.7035901+00:00",
-  "LastUpdate_Achievements": "2023-07-12T00:04:00.8424787+00:00"
+  "LastUpdate_Ratings": "2023-07-12T02:21:35.4797905+00:00",
+  "LastUpdate_Achievements": "2023-07-12T02:27:10.7344001+00:00"
 }

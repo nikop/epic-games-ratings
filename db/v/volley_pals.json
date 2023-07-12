@@ -4,7 +4,7 @@
   "ProductSlug": "volley-pals-0120b4",
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 7,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-05-19T01:00:00+00:00",
@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 83,
+  "EOS_Progressed": 84,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 22.89,
+  "EOS_Completed_Percentage": 22.62,
   "EosHistory": [
     {
       "Time": "2023-05-19T19:23:39.9762126+00:00",
@@ -429,6 +429,11 @@
       "Time": "2023-07-10T13:21:04.7027463+00:00",
       "NumProgressed": 83,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-07-12T02:27:20.595309+00:00",
+      "NumProgressed": 84,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 10,
@@ -440,7 +445,7 @@
       "Name": "Beach",
       "Percentage": 94,
       "XP": 100,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "LEVEL_1",
@@ -454,7 +459,7 @@
       "ID": "LEVEL_2",
       "SetID": "1fnbp5h",
       "Name": "Space",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 100,
       "UsersEstimate": 42
     },
@@ -462,7 +467,7 @@
       "ID": "LEVEL_3",
       "SetID": "1fnbp5h",
       "Name": "Haunted Mansion",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 100,
       "UsersEstimate": 39
     },
@@ -519,13 +524,13 @@
     {
       "ID": "1fnbp5h",
       "IsBase": true,
-      "Progressed": 83,
+      "Progressed": 84,
       "Completed": 19
     }
   ],
   "FirstSeenAchievements": "2023-05-02T15:59:43.451096+00:00",
-  "LastChanged_Achievements": "2023-07-12T00:04:08.8527721+00:00",
+  "LastChanged_Achievements": "2023-07-12T02:27:20.5953085+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:31.2476875+00:00",
-  "LastUpdate_Ratings": "2023-07-11T23:57:38.5247595+00:00",
-  "LastUpdate_Achievements": "2023-07-12T00:04:08.852784+00:00"
+  "LastUpdate_Ratings": "2023-07-12T02:20:47.8597259+00:00",
+  "LastUpdate_Achievements": "2023-07-12T02:27:20.5953218+00:00"
 }

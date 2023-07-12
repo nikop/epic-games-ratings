@@ -3,12 +3,12 @@
   "Name": "The Talos Principle",
   "ProductSlug": "the-talos-principle",
   "Ranking_Rating": 157,
-  "Ranking_Popularity": 504,
-  "Ranking_PopularitySum": 504,
+  "Ranking_Popularity": 505,
+  "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 322,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2019-12-29T16:00:00+00:00",
     "PcReleaseDate": "2014-12-11T11:00:00+00:00",
@@ -434,6 +434,6 @@
   "FirstSeen": "2022-07-22T20:29:14.4566709+00:00",
   "LastChanged": "2023-07-05T03:21:28.7745791+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:19.0614859+00:00",
-  "LastUpdate_Ratings": "2023-07-11T23:58:09.1757143+00:00",
-  "LastUpdate_Achievements": "2023-07-12T00:05:45.3393923+00:00"
+  "LastUpdate_Ratings": "2023-07-12T02:21:24.7392557+00:00",
+  "LastUpdate_Achievements": "2023-07-12T02:29:17.7579383+00:00"
 }

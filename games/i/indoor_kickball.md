@@ -11,20 +11,20 @@
 | Homer | 70.00% | ~52 |
 | Butter Fingers | 70.00% | ~52 |
 | Have a good trip! | 70.00% | ~52 |
-| Kickball Unlocked | 68.00% | ~50 |
+| Kickball Unlocked | 69.00% | ~51 |
 | Stay Hydrated | 68.00% | ~50 |
 | First Win | 65.00% | ~48 |
-| True Story! | 41.00% | ~30 |
+| True Story! | 43.00% | ~32 |
 | Bedroom Secret Spot | 36.00% | ~27 |
 | Kick It | 32.00% | ~24 |
 | Grand Slam! | 27.00% | ~20 |
 | Spooky | 26.00% | ~19 |
 | Have Mercy | 26.00% | ~19 |
+| Classroom Secret Spot | 23.00% | ~17 |
 | Save some water for the fishies | 23.00% | ~17 |
-| Classroom Secret Spot | 20.00% | ~15 |
-| Bathroom Secret Spot | 20.00% | ~15 |
+| Bathroom Secret Spot | 22.00% | ~16 |
+| At least everyone still had fun | 22.00% | ~16 |
 | Angry Dad | 20.00% | ~15 |
-| At least everyone still had fun | 20.00% | ~15 |
 | Living Room Secret Spot | 18.00% | ~13 |
 | Hi Hungry, I'm Dad | 14.00% | ~10 |
 | Just how we drew it up | 11.00% | ~8 |

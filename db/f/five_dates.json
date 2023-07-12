@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 92,
   "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
     "PcReleaseDate": "2020-11-17T18:00:00+00:00",
@@ -808,9 +808,9 @@
       "ID": "we_go_again",
       "SetID": "c4ipj3h",
       "Name": "We Go Again",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 145
+      "UsersEstimate": 149
     }
   ],
   "AchievementSets": [
@@ -825,8 +825,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-07-12T00:05:28.5615467+00:00",
+  "LastChanged_Achievements": "2023-07-12T02:28:56.9002548+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:47.107842+00:00",
-  "LastUpdate_Ratings": "2023-07-11T23:58:24.1309286+00:00",
-  "LastUpdate_Achievements": "2023-07-12T00:05:28.5615616+00:00"
+  "LastUpdate_Ratings": "2023-07-12T02:21:44.5293978+00:00",
+  "LastUpdate_Achievements": "2023-07-12T02:28:56.900274+00:00"
 }

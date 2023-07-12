@@ -3,12 +3,12 @@
   "Name": "Aliens: Dark Descent",
   "ProductSlug": "aliens-dark-descent",
   "Ranking_Rating": 654,
-  "Ranking_Popularity": 504,
-  "Ranking_PopularitySum": 504,
+  "Ranking_Popularity": 505,
+  "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2813,
+  "EOS_Progressed": 2814,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2335,6 +2335,11 @@
       "Time": "2023-07-12T00:06:28.7424141+00:00",
       "NumProgressed": 2813,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-12T02:30:12.1682481+00:00",
+      "NumProgressed": 2814,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2378,7 +2383,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 1378
+      "UsersEstimate": 1379
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -2402,7 +2407,7 @@
       "Name": "Stuff Of Nightmares",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "ACH_FINISH_HARD",
@@ -2442,7 +2447,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 2025
+      "UsersEstimate": 2026
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -2466,7 +2471,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 1800
+      "UsersEstimate": 1801
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -2522,7 +2527,7 @@
       "Name": "Come on, You Wanna Live Forever?",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "ACH_MAX_TECKER",
@@ -2546,7 +2551,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1323
     },
     {
       "ID": "ACH_MISSION_03",
@@ -2594,7 +2599,7 @@
       "Name": "Deep Into Insanity",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "ACH_MISSION_09",
@@ -2602,7 +2607,7 @@
       "Name": "The Passenger",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "ACH_MISSION_10",
@@ -2626,7 +2631,7 @@
       "Name": "Abysmal Horrors",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "ACH_OBJECTIVE_MARINE",
@@ -2642,7 +2647,7 @@
       "Name": "Snatched Out",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 2053
+      "UsersEstimate": 2054
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -2658,7 +2663,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 1575
+      "UsersEstimate": 1576
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -2705,7 +2710,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 2813,
+      "Progressed": 2814,
       "Completed": 0
     }
   ],
@@ -2713,8 +2718,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-11T20:59:20.9477348+00:00",
-  "LastChanged_Achievements": "2023-07-12T00:06:28.7424136+00:00",
+  "LastChanged_Achievements": "2023-07-12T02:30:12.1682476+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:32.529009+00:00",
-  "LastUpdate_Ratings": "2023-07-11T23:59:31.1562713+00:00",
-  "LastUpdate_Achievements": "2023-07-12T00:06:28.7424713+00:00"
+  "LastUpdate_Ratings": "2023-07-12T02:23:04.9334689+00:00",
+  "LastUpdate_Achievements": "2023-07-12T02:30:12.1683115+00:00"
 }

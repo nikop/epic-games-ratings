@@ -3,12 +3,12 @@
   "Name": "Black Widow: Recharged",
   "ProductSlug": "black-widow-recharged",
   "Ranking_Rating": 836,
-  "Ranking_Popularity": 504,
-  "Ranking_PopularitySum": 504,
+  "Ranking_Popularity": 505,
+  "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 145,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -146,7 +146,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16177,
+  "EOS_Progressed": 16179,
   "EOS_Completed": 50,
   "EOS_NewPlayers": 221,
   "EOS_NewCompleters": 0,
@@ -7021,6 +7021,11 @@
       "Time": "2023-07-12T00:06:26.1743696+00:00",
       "NumProgressed": 16177,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-07-12T02:30:09.2050323+00:00",
+      "NumProgressed": 16179,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 14,
@@ -7032,7 +7037,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 12780
+      "UsersEstimate": 12781
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -7064,7 +7069,7 @@
       "Name": "Don\u0027t Bring Me Down",
       "Percentage": 20,
       "XP": 90,
-      "UsersEstimate": 3235
+      "UsersEstimate": 3236
     },
     {
       "ID": "ACH_EVEYONE_IS_BORN_TO_DIE",
@@ -7072,7 +7077,7 @@
       "Name": "Everyone\u0027s Born to Die",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 2588
+      "UsersEstimate": 2589
     },
     {
       "ID": "ACH_HELLO_MY_OLD_FRIEND",
@@ -7088,7 +7093,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 8574
+      "UsersEstimate": 8575
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -7143,15 +7148,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 16177,
+      "Progressed": 16179,
       "Completed": 50
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-05-31T22:01:00.0124016+00:00",
-  "LastChanged_Achievements": "2023-07-12T00:06:26.1743692+00:00",
+  "LastChanged_Achievements": "2023-07-12T02:30:09.2050317+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:52.876233+00:00",
-  "LastUpdate_Ratings": "2023-07-12T00:00:25.6715095+00:00",
-  "LastUpdate_Achievements": "2023-07-12T00:06:26.1744272+00:00"
+  "LastUpdate_Ratings": "2023-07-12T02:24:07.929526+00:00",
+  "LastUpdate_Achievements": "2023-07-12T02:30:09.2051184+00:00"
 }

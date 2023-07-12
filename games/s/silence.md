@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chapter I | 48.00% | ~44 |
-| Fire in the... nevermind | 48.00% | ~44 |
-| Haute cuisine | 45.00% | ~41 |
+| Chapter I | 48.00% | ~45 |
+| Fire in the... nevermind | 48.00% | ~45 |
+| Haute cuisine | 45.00% | ~42 |
 | I didn't do it! | 40.00% | ~37 |
-| Keep away from children | 36.00% | ~33 |
-| Demolition expert | 35.00% | ~32 |
-| Artistic fool | 34.00% | ~31 |
-| Wooooooow! | 34.00% | ~31 |
+| Keep away from children | 37.00% | ~34 |
+| Demolition expert | 35.00% | ~33 |
+| Artistic fool | 33.00% | ~31 |
+| Wooooooow! | 33.00% | ~31 |
 | Chapter II | 30.00% | ~28 |
 | Open up wide | 29.00% | ~27 |
 | Achoo!! | 29.00% | ~27 |
@@ -21,9 +21,9 @@
 | Mirror mirror on the wall... | 25.00% | ~23 |
 | Bubblekillerfamily | 24.00% | ~22 |
 | Shadow on the wall | 23.00% | ~21 |
+| Handyman | 23.00% | ~21 |
 | Fastidious Clown | 23.00% | ~21 |
 | Quite a buggy game | 22.00% | ~20 |
-| Handyman | 22.00% | ~20 |
 | It's not easy being green! | 22.00% | ~20 |
 | Home is where the heart is | 22.00% | ~20 |
 | Pacifist | 18.00% | ~17 |
@@ -51,7 +51,7 @@
 | The Green, the Fat, the Ugly | 1.00% | ~1 |
 | Do not feed the fish! | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92 (Ranked 303)  
+Progressed: 93 (Ranked 302)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,6 +60,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-04-28 | 90 | 0 |
 | 2023-05-31 | 91 | 0 |
 | 2023-07-08 | 92 | 0 |
+| 2023-07-12 | 93 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

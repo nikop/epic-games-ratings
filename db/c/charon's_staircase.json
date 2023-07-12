@@ -4,8 +4,8 @@
   "ProductSlug": "charons-staircase-b2d05f",
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 66,
-  "Ranking_EOS_NewPlayers": 322,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-10-28T07:00:00+00:00",
     "PcReleaseDate": "2022-10-28T07:00:00+00:00",
@@ -102,9 +102,9 @@
       "ID": "ACH_11",
       "SetID": "1g3d1lg",
       "Name": "Second document retrieved",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_12",
@@ -134,9 +134,9 @@
       "ID": "ACH_15",
       "SetID": "1g3d1lg",
       "Name": "Lights and shadows",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_16",
@@ -206,9 +206,9 @@
       "ID": "ACH_5",
       "SetID": "1g3d1lg",
       "Name": "The threshold of horror",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_6",
@@ -255,8 +255,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.6125588+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.3534182+00:00",
   "LastChanged": "2023-03-31T05:58:38.6125589+00:00",
-  "LastChanged_Achievements": "2023-07-12T00:06:30.6628807+00:00",
+  "LastChanged_Achievements": "2023-07-12T02:30:14.5488606+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:13.3293654+00:00",
-  "LastUpdate_Ratings": "2023-07-11T23:59:20.3350182+00:00",
-  "LastUpdate_Achievements": "2023-07-12T00:06:30.6628965+00:00"
+  "LastUpdate_Ratings": "2023-07-12T02:22:51.5246688+00:00",
+  "LastUpdate_Achievements": "2023-07-12T02:30:14.5488775+00:00"
 }

@@ -11,13 +11,13 @@ Number of Ratings: 37  (23.09.2022)
 | A new beginning | 10.00% | ~418 |
 | Friends from the past | 9.00% | ~376 |
 | I like to build stuff... I | 8.00% | ~334 |
+| Tax-man II | 7.00% | ~293 |
 | A time consuming game I | 7.00% | ~293 |
 | Time for some trade | 7.00% | ~293 |
 | Builder I | 6.00% | ~251 |
 | An honorable Governor I | 6.00% | ~251 |
 | Full-time job I | 6.00% | ~251 |
 | Researcher | 6.00% | ~251 |
-| Tax-man II | 6.00% | ~251 |
 | Not a small trader anymore | 5.00% | ~209 |
 | Bread for the people I | 5.00% | ~209 |
 | I like to build stuff... II | 5.00% | ~209 |
@@ -41,6 +41,7 @@ Number of Ratings: 37  (23.09.2022)
 | Tax-man IV | 3.00% | ~125 |
 | A time consuming game III | 3.00% | ~125 |
 | Tools of the trade II | 3.00% | ~125 |
+| The Art of War | 2.00% | ~84 |
 | Bread for the people III | 2.00% | ~84 |
 | Five brews are a schnitzel | 2.00% | ~84 |
 | I like to build stuff... V | 2.00% | ~84 |
@@ -56,7 +57,6 @@ Number of Ratings: 37  (23.09.2022)
 | A time consuming game IV | 2.00% | ~84 |
 | Tools of the trade III | 2.00% | ~84 |
 | Out of the frying pan | 2.00% | ~84 |
-| The Art of War | 1.00% | ~42 |
 | Survivalist | 1.00% | ~42 |
 | My precious... III | 1.00% | ~42 |
 | Lord of War | 1.00% | ~42 |

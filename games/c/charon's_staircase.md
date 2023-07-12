@@ -13,9 +13,9 @@
 | A lonely death | 37.00% | ~28 |
 | An ear for music | 36.00% | ~27 |
 | Agatha's favourite song | 33.00% | ~25 |
-| Lights and shadows | 30.00% | ~23 |
-| The threshold of horror | 29.00% | ~22 |
-| Second document retrieved | 26.00% | ~20 |
+| Lights and shadows | 32.00% | ~24 |
+| The threshold of horror | 30.00% | ~23 |
+| Second document retrieved | 28.00% | ~21 |
 | Third document retrieved | 25.00% | ~19 |
 | Deadly chase | 25.00% | ~19 |
 | Dara's home | 25.00% | ~19 |

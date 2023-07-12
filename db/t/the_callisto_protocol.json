@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 317,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -932,7 +932,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 15692,
+  "EOS_Progressed": 15693,
   "EOS_Completed": 66,
   "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 3,
@@ -5537,6 +5537,11 @@
       "Time": "2023-07-11T22:07:05.7522276+00:00",
       "NumProgressed": 15692,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-07-12T02:29:31.0187066+00:00",
+      "NumProgressed": 15693,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 47,
@@ -5794,9 +5799,9 @@
       "ID": "STORY_TOWER",
       "SetID": "4hj6d86",
       "Name": "Full Circle",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 314
     },
     {
       "ID": "STORY_TUNNELS",
@@ -5923,13 +5928,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15692,
+      "Progressed": 15693,
       "Completed": 66
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3618,
+      "Progressed": 3619,
       "Completed": 29
     }
   ],
@@ -5937,8 +5942,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-07-10T20:58:48.9945238+00:00",
-  "LastChanged_Achievements": "2023-07-12T00:05:55.5220046+00:00",
+  "LastChanged_Achievements": "2023-07-12T02:29:31.0187061+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:30.5014032+00:00",
-  "LastUpdate_Ratings": "2023-07-11T23:58:17.0545164+00:00",
-  "LastUpdate_Achievements": "2023-07-12T00:05:55.5220715+00:00"
+  "LastUpdate_Ratings": "2023-07-12T02:21:34.501395+00:00",
+  "LastUpdate_Achievements": "2023-07-12T02:29:31.0188082+00:00"
 }

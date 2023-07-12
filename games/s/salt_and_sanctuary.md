@@ -1,39 +1,39 @@
 # Salt and Sanctuary
 [Store](https://store.epicgames.com/en-US/p/salt-and-sanctuary)  
 [View Rawdata](../../db/s/salt_and_sanctuary.json)  
-Rating: 4.61 (Ranked 363)  
+Rating: 4.61 (Ranked 364)  
 Number of Ratings: 3,114  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~437,688 |
-| The Three | 64.00% | ~337,494 |
-| The Banquet | 40.00% | ~210,934 |
-| Devara's Light | 30.00% | ~158,200 |
-| The Iron Ones | 18.00% | ~94,920 |
-| The Village | 16.00% | ~84,374 |
-| The Forest | 14.00% | ~73,827 |
+| Find Sanctuary | 83.00% | ~437,694 |
+| The Three | 64.00% | ~337,499 |
+| The Banquet | 40.00% | ~210,937 |
+| Devara's Light | 30.00% | ~158,203 |
+| The Iron Ones | 18.00% | ~94,922 |
+| The Village | 16.00% | ~84,375 |
+| The Forest | 14.00% | ~73,828 |
 | Branded | 13.00% | ~68,554 |
 | The Imposter | 13.00% | ~68,554 |
 | The Keep | 13.00% | ~68,554 |
-| The Castle | 11.00% | ~58,007 |
-| The Dome | 9.00% | ~47,460 |
-| The Red Hall | 9.00% | ~47,460 |
+| The Castle | 11.00% | ~58,008 |
+| The Dome | 9.00% | ~47,461 |
+| The Red Hall | 9.00% | ~47,461 |
 | The Sacrifice | 8.00% | ~42,187 |
-| The Cave | 7.00% | ~36,913 |
-| The Stone Roots | 7.00% | ~36,913 |
-| The Ziggurat | 7.00% | ~36,913 |
-| Storied | 6.00% | ~31,640 |
-| The Construct | 6.00% | ~31,640 |
-| The Mire | 6.00% | ~31,640 |
-| The Ruins | 6.00% | ~31,640 |
+| The Cave | 7.00% | ~36,914 |
+| The Stone Roots | 7.00% | ~36,914 |
+| The Ziggurat | 7.00% | ~36,914 |
+| Storied | 6.00% | ~31,641 |
+| The Construct | 6.00% | ~31,641 |
+| The Mire | 6.00% | ~31,641 |
+| The Ruins | 6.00% | ~31,641 |
 | The Alkymancery | 5.00% | ~26,367 |
 | The Lake | 5.00% | ~26,367 |
 | The Pitchwoods | 5.00% | ~26,367 |
-| Honed | 4.00% | ~21,093 |
-| The House of Splendor | 4.00% | ~21,093 |
-| The Crypt | 4.00% | ~21,093 |
-| The Palace | 4.00% | ~21,093 |
+| Honed | 4.00% | ~21,094 |
+| The House of Splendor | 4.00% | ~21,094 |
+| The Crypt | 4.00% | ~21,094 |
+| The Palace | 4.00% | ~21,094 |
 | Find Salvation | 3.00% | ~15,820 |
 | The Unspeakable Deep | 3.00% | ~15,820 |
 | Coastrock | 2.00% | ~10,547 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,547 |
 | Fading Fast | 1.00% | ~5,273 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 527,335 (Ranked 28)  
+Progressed: 527,342 (Ranked 28)  
 Completed: 1,476 (0.28%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 1,476 (0.28%) (Ranked 150)
 | 2023-07-09 | 527,147 | 1,475 |
 | 2023-07-10 | 527,250 | 1,476 |
 | 2023-07-11 | 527,334 | 1,476 |
-| 2023-07-12 | 527,335 | 1,476 |
+| 2023-07-12 | 527,342 | 1,476 |
 ## Awards
 Max (Challenging Combat): 274  (Ranked 239)  
 Sum: 1,911 (Ranked 201)  
