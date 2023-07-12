@@ -21,7 +21,7 @@ Rating: 4.73 (Ranked 157)
 | Night guard | 43.00% | ~5,164 |
 | Nothing Left | 38.00% | ~4,564 |
 | Healing our Wounds | 36.00% | ~4,324 |
-| Dying Sun | 32.00% | ~3,843 |
+| Dying Sun | 33.00% | ~3,963 |
 | Improved crossbow | 26.00% | ~3,123 |
 | King Hugo | 24.00% | ~2,882 |
 | Mercy | 23.00% | ~2,762 |

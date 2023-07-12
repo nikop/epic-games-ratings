@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 157,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2486,7 +2486,7 @@
       "Count": 310
     }
   ],
-  "EOS_Progressed": 15785,
+  "EOS_Progressed": 15787,
   "EOS_Completed": 40,
   "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 1,
@@ -7051,6 +7051,11 @@
       "Time": "2023-07-12T15:08:03.0632734+00:00",
       "NumProgressed": 15785,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-07-12T20:08:14.2068198+00:00",
+      "NumProgressed": 15787,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 50,
@@ -7358,7 +7363,7 @@
       "Name": "Prestigious Expedition",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "WinPrestige20",
@@ -7390,7 +7395,7 @@
       "Name": "Blood Flower Farmer",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "WinWithEvents",
@@ -7406,7 +7411,7 @@
       "Name": "Victory through Prosperity",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "WinWithRuins",
@@ -7461,15 +7466,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 15785,
+      "Progressed": 15787,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-07-10T16:00:34.2951727+00:00",
-  "LastChanged_Achievements": "2023-07-12T19:06:37.6681756+00:00",
+  "LastChanged_Achievements": "2023-07-12T20:08:14.2068192+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:29.6140408+00:00",
-  "LastUpdate_Ratings": "2023-07-12T19:00:26.7236744+00:00",
-  "LastUpdate_Achievements": "2023-07-12T19:06:37.6682295+00:00"
+  "LastUpdate_Ratings": "2023-07-12T20:01:49.2835804+00:00",
+  "LastUpdate_Achievements": "2023-07-12T20:08:14.2069623+00:00"
 }

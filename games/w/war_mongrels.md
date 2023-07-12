@@ -14,7 +14,7 @@ Number of Ratings: 34  (23.09.2022)
 | Prospector | 42.00% | ~173 |
 | The Breaking Point | 42.00% | ~173 |
 | Treasure Hunter | 39.00% | ~160 |
-| Sniper Wolf | 37.00% | ~152 |
+| Sniper Wolf | 38.00% | ~156 |
 | The Motivation | 36.00% | ~148 |
 | Heroism | 35.00% | ~144 |
 | Missing in Action | 34.00% | ~140 |

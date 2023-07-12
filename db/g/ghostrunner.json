@@ -978,9 +978,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12254,
+  "EOS_Progressed": 12255,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 571,
+  "EOS_NewPlayers": 569,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -9723,6 +9723,11 @@
       "Time": "2023-07-12T19:03:19.6840029+00:00",
       "NumProgressed": 12254,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-07-12T20:03:21.5518973+00:00",
+      "NumProgressed": 12255,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 45,
@@ -9830,7 +9835,7 @@
       "Name": "I call it luck",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 5514
+      "UsersEstimate": 5515
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -9878,7 +9883,7 @@
       "Name": "More than human",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1470
+      "UsersEstimate": 1471
     },
     {
       "ID": "Neuromancer",
@@ -10006,7 +10011,7 @@
       "Name": "Sword Runner",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 7720
+      "UsersEstimate": 7721
     },
     {
       "ID": "SwordToAGunfight",
@@ -10022,7 +10027,7 @@
       "Name": "Triple A",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1225
+      "UsersEstimate": 1226
     },
     {
       "ID": "UnstoppableForce",
@@ -10030,7 +10035,7 @@
       "Name": "Unstoppable force",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 2818
+      "UsersEstimate": 2819
     },
     {
       "ID": "UpCloseAndPersonal",
@@ -10093,21 +10098,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 12254,
+      "Progressed": 12255,
       "Completed": 28
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 12254,
+      "Progressed": 12255,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-06-29T21:58:30.0596552+00:00",
-  "LastChanged_Achievements": "2023-07-12T19:03:19.6840023+00:00",
+  "LastChanged_Achievements": "2023-07-12T20:03:21.5518965+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:39.4993073+00:00",
-  "LastUpdate_Ratings": "2023-07-12T18:58:31.1762443+00:00",
-  "LastUpdate_Achievements": "2023-07-12T19:03:19.6840735+00:00"
+  "LastUpdate_Ratings": "2023-07-12T19:59:09.1445106+00:00",
+  "LastUpdate_Achievements": "2023-07-12T20:03:21.5520055+00:00"
 }

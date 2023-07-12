@@ -5,20 +5,20 @@ Rating: 4.54 (Ranked 491)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 45.00% | ~4,023 |
+| Legal Counsel | 45.00% | ~4,024 |
 | Greasy Palms | 41.00% | ~3,666 |
-| South American Connection | 25.00% | ~2,235 |
+| South American Connection | 25.00% | ~2,236 |
 | Life of the Party | 19.00% | ~1,699 |
 | Tommy Two-Wheels | 15.00% | ~1,341 |
 | Big Heat from Little Havana | 14.00% | ~1,252 |
 | Chauffeur | 14.00% | ~1,252 |
 | Salutations My Little Friend | 10.00% | ~894 |
 | Iron-y | 9.00% | ~805 |
-| Gun for Hire | 9.00% | ~805 |
+| Gun for Hire | 8.00% | ~715 |
 | Mischief Managed | 8.00% | ~715 |
-| Vice City Mogul | 6.00% | ~536 |
-| Catch Me if You Can | 6.00% | ~536 |
-| Bloodstained Hands | 6.00% | ~536 |
+| Vice City Mogul | 6.00% | ~537 |
+| Catch Me if You Can | 6.00% | ~537 |
+| Bloodstained Hands | 6.00% | ~537 |
 | Grand Theft Auto | 5.00% | ~447 |
 | Not my First Time | 4.00% | ~358 |
 | Pie Guy | 4.00% | ~358 |
@@ -40,7 +40,7 @@ Rating: 4.54 (Ranked 491)
 | Done it All | 0.80% | ~72 |
 | Kingpin | 0.50% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,941 (Ranked 119)  
+Progressed: 8,942 (Ranked 119)  
 Completed: 43 (0.48%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,14 +123,14 @@ Completed: 43 (0.48%) (Ranked 128)
 | 2023-07-09 | 8,913 | 43 |
 | 2023-07-10 | 8,921 | 43 |
 | 2023-07-11 | 8,931 | 43 |
-| 2023-07-12 | 8,941 | 43 |
+| 2023-07-12 | 8,942 | 43 |
 ## Awards
-Max (Great Boss Battles): 60  (Ranked 387)  
-Sum: 60 (Ranked 441)  
-Diff (max vs sum): -54  
+Max (Great Boss Battles): 61  (Ranked 386)  
+Sum: 61 (Ranked 439)  
+Diff (max vs sum): -53  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 60 |
+| This game has Great Boss Battles | 61 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -217,3 +217,4 @@ Diff (max vs sum): -54
 | 2023-07-01 | 4.55 | 59 | 59 |
 | 2023-07-06 | 4.55 | 60 | 60 |
 | 2023-07-07 | 4.54 | 60 | 60 |
+| 2023-07-12 | 4.54 | 61 | 61 |

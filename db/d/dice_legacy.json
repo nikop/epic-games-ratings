@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -44,7 +44,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 906,
+  "EOS_Progressed": 907,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
@@ -959,6 +959,11 @@
       "Time": "2023-07-10T17:02:46.3745321+00:00",
       "NumProgressed": 906,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-12T20:03:34.9334835+00:00",
+      "NumProgressed": 907,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -1090,7 +1095,7 @@
       "Name": "Manipulating Fate",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "DIE_MAX_POWER",
@@ -1154,7 +1159,7 @@
       "Name": "The City",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "GOLDMASTER",
@@ -1329,7 +1334,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 906,
+      "Progressed": 907,
       "Completed": 0
     }
   ],
@@ -1337,8 +1342,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-07-12T19:03:29.0561568+00:00",
+  "LastChanged_Achievements": "2023-07-12T20:03:34.933483+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:08.7957135+00:00",
-  "LastUpdate_Ratings": "2023-07-12T18:58:07.5014832+00:00",
-  "LastUpdate_Achievements": "2023-07-12T19:03:29.0561915+00:00"
+  "LastUpdate_Ratings": "2023-07-12T19:58:38.829981+00:00",
+  "LastUpdate_Achievements": "2023-07-12T20:03:34.9335419+00:00"
 }

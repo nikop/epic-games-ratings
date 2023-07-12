@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 293,
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-18T17:00:00+00:00",
@@ -1144,10 +1144,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 564,
       "NumberOfAwardsMax": 82
+    },
+    {
+      "Time": "2023-07-12T19:57:18.2848972+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 565,
+      "NumberOfAwardsMax": 82
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 564,
+  "NumberOfAwards": 565,
   "NumberOfAwardsMax": 82,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -1203,7 +1209,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 63
+      "Count": 64
     },
     {
       "Text": "This game is Relaxing",
@@ -1224,8 +1230,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-18T20:02:29.2906541+00:00",
   "FirstSeenRating": "2023-05-20T18:00:30.4536484+00:00",
-  "LastChanged": "2023-07-12T17:57:42.9255959+00:00",
+  "LastChanged": "2023-07-12T19:57:18.284897+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:09.8739964+00:00",
-  "LastUpdate_Ratings": "2023-07-12T18:57:14.3749607+00:00",
-  "LastUpdate_Achievements": "2023-07-12T19:06:16.7504834+00:00"
+  "LastUpdate_Ratings": "2023-07-12T19:57:18.2848975+00:00",
+  "LastUpdate_Achievements": "2023-07-12T20:07:45.3332737+00:00"
 }

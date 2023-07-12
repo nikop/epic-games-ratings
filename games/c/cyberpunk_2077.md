@@ -6,52 +6,52 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~588,369 |
-| Right Back At Ya | 38.00% | ~328,795 |
-| The Lovers | 34.00% | ~294,185 |
-| Stanislavski's Method | 28.00% | ~242,270 |
-| The Wheel of Fortune | 26.00% | ~224,965 |
+| The Fool | 68.00% | ~588,371 |
+| Right Back At Ya | 38.00% | ~328,796 |
+| The Lovers | 34.00% | ~294,186 |
+| Stanislavski's Method | 28.00% | ~242,271 |
+| The Wheel of Fortune | 26.00% | ~224,966 |
 | The Hermit | 24.00% | ~207,660 |
 | Christmas Tree Attack | 22.00% | ~190,355 |
 | True Soldier | 22.00% | ~190,355 |
-| The High Priestess | 21.00% | ~181,702 |
-| Legend of The Afterlife | 21.00% | ~181,702 |
+| The High Priestess | 21.00% | ~181,703 |
+| Legend of The Afterlife | 21.00% | ~181,703 |
 | Life of the Road | 20.00% | ~173,050 |
 | Full Body Conversion | 18.00% | ~155,745 |
-| The World | 17.00% | ~147,092 |
+| The World | 17.00% | ~147,093 |
 | Bushido and Chill | 16.00% | ~138,440 |
-| Gun Fu | 15.00% | ~129,787 |
-| True Warrior | 15.00% | ~129,787 |
-| To Protect and Serve | 13.00% | ~112,482 |
-| Master Crafter | 13.00% | ~112,482 |
-| I Am The Law | 13.00% | ~112,482 |
-| Judy vs Night City | 13.00% | ~112,482 |
-| Two Heads, One Bullet | 11.00% | ~95,177 |
-| The Wandering Fool | 9.00% | ~77,872 |
-| The Quick and the Dead | 9.00% | ~77,872 |
+| Gun Fu | 15.00% | ~129,788 |
+| True Warrior | 15.00% | ~129,788 |
+| To Protect and Serve | 13.00% | ~112,483 |
+| Master Crafter | 13.00% | ~112,483 |
+| I Am The Law | 13.00% | ~112,483 |
+| Judy vs Night City | 13.00% | ~112,483 |
+| Two Heads, One Bullet | 11.00% | ~95,178 |
+| The Wandering Fool | 9.00% | ~77,873 |
+| The Quick and the Dead | 9.00% | ~77,873 |
 | Ten out of Ten | 8.00% | ~69,220 |
-| Breathtaking | 7.00% | ~60,567 |
+| Breathtaking | 7.00% | ~60,568 |
 | To Bad Decisions! | 6.00% | ~51,915 |
 | The Star | 6.00% | ~51,915 |
 | The Sun | 6.00% | ~51,915 |
 | Must Be Rats | 4.00% | ~34,610 |
 | Temperance | 4.00% | ~34,610 |
-| City Lights | 3.00% | ~25,957 |
-| Mean Streets | 3.00% | ~25,957 |
-| Little Tokyo | 3.00% | ~25,957 |
-| Greetings from Pacifica! | 3.00% | ~25,957 |
-| The Jungle | 3.00% | ~25,957 |
-| V for Vendetta | 3.00% | ~25,957 |
-| It's Elementary | 3.00% | ~25,957 |
+| City Lights | 3.00% | ~25,958 |
+| Mean Streets | 3.00% | ~25,958 |
+| Little Tokyo | 3.00% | ~25,958 |
+| Greetings from Pacifica! | 3.00% | ~25,958 |
+| The Jungle | 3.00% | ~25,958 |
+| V for Vendetta | 3.00% | ~25,958 |
+| It's Elementary | 3.00% | ~25,958 |
 | Autojock | 2.00% | ~17,305 |
 | Frequent Flyer | 2.00% | ~17,305 |
 | The Wasteland | 2.00% | ~17,305 |
 | Daemon In The Shell | 2.00% | ~17,305 |
 | The Devil | 2.00% | ~17,305 |
-| Gunslinger | 1.00% | ~8,652 |
+| Gunslinger | 1.00% | ~8,653 |
 | Rough Landing | 0.50% | ~4,326 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 865,249 (Ranked 14)  
+Progressed: 865,252 (Ranked 14)  
 Completed: 1,860 (0.21%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,14 +134,14 @@ Completed: 1,860 (0.21%) (Ranked 161)
 | 2023-07-09 | 864,741 | 1,847 |
 | 2023-07-10 | 864,933 | 1,851 |
 | 2023-07-11 | 865,106 | 1,856 |
-| 2023-07-12 | 865,249 | 1,860 |
+| 2023-07-12 | 865,252 | 1,860 |
 ## Awards
-Max (Character Customization): 72,863  (Ranked 9)  
-Sum: 191,195 (Ranked 13)  
+Max (Character Customization): 72,962  (Ranked 9)  
+Sum: 191,294 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 72,863 |
+| This game has Inclusive Character Customization | 72,962 |
 | This game has Great Boss Battles | 46,874 |
 | This game has Diverse Characters | 8,445 |
 | This game is Great for Beginners | 8,405 |
@@ -329,4 +329,4 @@ Diff (max vs sum): -4
 | 2023-07-09 | 4.62 | - | 72,679 | 190,405 |
 | 2023-07-10 | 4.62 | - | 72,774 | 190,719 |
 | 2023-07-11 | 4.62 | - | 72,863 | 191,009 |
-| 2023-07-12 | 4.62 | - | 72,863 | 191,195 |
+| 2023-07-12 | 4.62 | - | 72,962 | 191,294 |

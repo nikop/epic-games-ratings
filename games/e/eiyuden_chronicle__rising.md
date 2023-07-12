@@ -30,7 +30,7 @@ Number of Ratings: 48  (23.09.2022)
 | Adept, for an Acting Mayor | 34.00% | ~231 |
 | Rune Wall Master | 33.00% | ~224 |
 | The Quarry...On Foot! | 31.00% | ~210 |
-| The Runebarrows...On Foot! | 28.00% | ~190 |
+| The Runebarrows...On Foot! | 29.00% | ~197 |
 | The Snowpeak...On Foot! | 27.00% | ~183 |
 | The Lava Ruins...On Foot! | 27.00% | ~183 |
 | Meat Master | 26.00% | ~176 |

@@ -5,16 +5,16 @@ Rating: 3.79 (Ranked 941)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~15,055 |
-| No Half Measures | 88.00% | ~13,945 |
-| Personal Matter | 87.00% | ~13,787 |
-| But You Have Heard of Me | 72.00% | ~11,410 |
+| Eeligally Ambitious | 95.00% | ~15,056 |
+| No Half Measures | 88.00% | ~13,946 |
+| Personal Matter | 87.00% | ~13,788 |
+| But You Have Heard of Me | 72.00% | ~11,411 |
 | Double the Barrels, double the Fun | 55.00% | ~8,716 |
-| Pimp My Glide | 47.00% | ~7,448 |
-| ... And Where Do the Stories Come From? | 41.00% | ~6,497 |
+| Pimp My Glide | 47.00% | ~7,449 |
+| ... And Where Do the Stories Come From? | 41.00% | ~6,498 |
 | House Party! | 34.00% | ~5,388 |
-| Make It Rain | 24.00% | ~3,803 |
-| Curse of the Seven Seas | 22.00% | ~3,486 |
+| Make It Rain | 24.00% | ~3,804 |
+| Curse of the Seven Seas | 22.00% | ~3,487 |
 | Head First | 16.00% | ~2,536 |
 | To the World's End | 12.00% | ~1,902 |
 | Table for Six | 11.00% | ~1,743 |
@@ -32,7 +32,7 @@ Rating: 3.79 (Ranked 941)
 | Pufferfish | 0.10% | ~16 |
 | O Captain! My Captain! | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,847 (Ranked 106)  
+Progressed: 15,848 (Ranked 106)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-09 | 15,843 | 0 |
 | 2023-07-10 | 15,844 | 0 |
 | 2023-07-11 | 15,845 | 0 |
-| 2023-07-12 | 15,847 | 0 |
+| 2023-07-12 | 15,848 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -11,11 +11,11 @@ Rating: 4.87 (Ranked 24)
 | I play my own way! | 1.00% | ~34 |
 | Whoa! There's ANOTHER health bar!? | 1.00% | ~34 |
 | You got this, Peppermint? | 1.00% | ~34 |
+| Z-shielding's got nothing on us! | 1.00% | ~34 |
 | Perfect Parry | 1.00% | ~34 |
 | Who put gears in there? | 1.00% | ~34 |
 | NOW we got a kickass hideout! | 1.00% | ~20 |
 | This will cost you big time | 0.90% | ~31 |
-| Z-shielding's got nothing on us! | 0.90% | ~31 |
 | Out in a puff of smoke | 0.90% | ~31 |
 | Uh, they were broken when I got here | 0.90% | ~31 |
 | Kissing the sky! | 0.90% | ~31 |
