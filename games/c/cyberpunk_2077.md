@@ -7,10 +7,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Fool | 68.00% | ~588,301 |
-| Right Back At Ya | 38.00% | ~328,756 |
-| The Lovers | 34.00% | ~294,150 |
-| Stanislavski's Method | 28.00% | ~242,241 |
-| The Wheel of Fortune | 26.00% | ~224,938 |
+| Right Back At Ya | 38.00% | ~328,757 |
+| The Lovers | 34.00% | ~294,151 |
+| Stanislavski's Method | 28.00% | ~242,242 |
+| The Wheel of Fortune | 26.00% | ~224,939 |
 | The Hermit | 24.00% | ~207,636 |
 | Christmas Tree Attack | 22.00% | ~190,333 |
 | True Soldier | 22.00% | ~190,333 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,651 |
 | Rough Landing | 0.50% | ~4,326 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 865,148 (Ranked 14)  
+Progressed: 865,149 (Ranked 14)  
 Completed: 1,856 (0.21%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,10 +134,10 @@ Completed: 1,856 (0.21%) (Ranked 161)
 | 2023-07-09 | 864,741 | 1,847 |
 | 2023-07-10 | 864,933 | 1,851 |
 | 2023-07-11 | 865,106 | 1,856 |
-| 2023-07-12 | 865,148 | 1,856 |
+| 2023-07-12 | 865,149 | 1,856 |
 ## Awards
 Max (Character Customization): 72,863  (Ranked 9)  
-Sum: 191,083 (Ranked 13)  
+Sum: 191,104 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -149,7 +149,7 @@ Diff (max vs sum): -4
 | This game is Extremely Fun | 8,266 |
 | This game is Highly Recommended | 8,250 |
 | This game is Relaxing | 8,214 |
-| This game has Quickly Understood Controls | 8,073 |
+| This game has Quickly Understood Controls | 8,094 |
 | This game has Amazing Characters | 8,046 |
 | This game has a Creative Community | 5,298 |
 | This game has Obsessive Gameplay | 3,165 |
@@ -329,4 +329,4 @@ Diff (max vs sum): -4
 | 2023-07-09 | 4.62 | - | 72,679 | 190,405 |
 | 2023-07-10 | 4.62 | - | 72,774 | 190,719 |
 | 2023-07-11 | 4.62 | - | 72,863 | 191,009 |
-| 2023-07-12 | 4.62 | - | 72,863 | 191,083 |
+| 2023-07-12 | 4.62 | - | 72,863 | 191,104 |

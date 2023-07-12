@@ -2,12 +2,12 @@
   "ID": "f1e33357c0ad46719364bac31a4fcbdf",
   "Name": "Blood of Steel",
   "ProductSlug": "blood-of-steel-5326f7",
-  "Ranking_Rating": 933,
+  "Ranking_Rating": 939,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-12-08T04:00:00+00:00",
@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 3.85,
+  "Rating": 3.81,
   "RatingHistory": [
     {
       "Time": "2023-01-18T14:57:02.2486163+00:00",
@@ -180,6 +180,12 @@
       "Rating": 3.85,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-07-12T07:58:07.9789991+00:00",
+      "Rating": 3.81,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -198,8 +204,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-09T20:57:21.1764121+00:00",
   "FirstSeenRating": "2023-01-18T14:57:02.2486161+00:00",
-  "LastChanged": "2023-07-05T20:59:12.6544978+00:00",
+  "LastChanged": "2023-07-12T07:58:07.978999+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:51.0540548+00:00",
-  "LastUpdate_Ratings": "2023-07-12T06:58:17.076784+00:00",
-  "LastUpdate_Achievements": "2023-07-12T07:04:21.6285824+00:00"
+  "LastUpdate_Ratings": "2023-07-12T07:58:07.9789998+00:00",
+  "LastUpdate_Achievements": "2023-07-12T08:03:58.4265279+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 409,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1543,9 +1543,9 @@
       "ID": "objective_hero_level_up_3",
       "SetID": "bm61c2p",
       "Name": "Lieutenant",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 61
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -1671,9 +1671,9 @@
       "ID": "objective_multiple_turrets_2",
       "SetID": "bm61c2p",
       "Name": "Defenses Online",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 168
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -1726,8 +1726,8 @@
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-12T07:04:42.2076947+00:00",
+  "LastChanged_Achievements": "2023-07-12T08:04:19.2205662+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:58.5226048+00:00",
-  "LastUpdate_Ratings": "2023-07-12T07:00:16.6967283+00:00",
-  "LastUpdate_Achievements": "2023-07-12T07:04:42.2077228+00:00"
+  "LastUpdate_Ratings": "2023-07-12T08:00:03.2908895+00:00",
+  "LastUpdate_Achievements": "2023-07-12T08:04:19.2205956+00:00"
 }

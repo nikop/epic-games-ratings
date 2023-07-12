@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -1941,9 +1941,9 @@
       "ID": "CompleteAll",
       "SetID": "9lj35g4",
       "Name": "King of Kings",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 122
+      "UsersEstimate": 139
     },
     {
       "ID": "CompleteArenaFaction",
@@ -2148,8 +2148,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-06-23T03:22:59.0074005+00:00",
-  "LastChanged_Achievements": "2023-07-12T07:03:35.7019668+00:00",
+  "LastChanged_Achievements": "2023-07-12T08:03:13.0144145+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:06.382845+00:00",
-  "LastUpdate_Ratings": "2023-07-12T06:58:25.7732691+00:00",
-  "LastUpdate_Achievements": "2023-07-12T07:03:35.7019974+00:00"
+  "LastUpdate_Ratings": "2023-07-12T07:58:16.1831099+00:00",
+  "LastUpdate_Achievements": "2023-07-12T08:03:13.0144565+00:00"
 }

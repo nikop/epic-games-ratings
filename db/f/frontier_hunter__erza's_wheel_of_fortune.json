@@ -450,9 +450,9 @@
       "ID": "ACHIEVEMENT_27",
       "SetID": "7pimpda",
       "Name": "Fashion Connoisseur",
-      "Percentage": 72,
+      "Percentage": 74,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -466,9 +466,9 @@
       "ID": "ACHIEVEMENT_3",
       "SetID": "7pimpda",
       "Name": "Kuku Bird Hunter",
-      "Percentage": 78,
+      "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -667,8 +667,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-07-12T07:02:21.0460742+00:00",
+  "LastChanged_Achievements": "2023-07-12T08:02:08.8116766+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:01.8242386+00:00",
-  "LastUpdate_Ratings": "2023-07-12T06:59:40.5857258+00:00",
-  "LastUpdate_Achievements": "2023-07-12T07:02:21.0461046+00:00"
+  "LastUpdate_Ratings": "2023-07-12T07:59:27.6950054+00:00",
+  "LastUpdate_Achievements": "2023-07-12T08:02:08.8117073+00:00"
 }

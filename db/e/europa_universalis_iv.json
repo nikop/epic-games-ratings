@@ -7038,9 +7038,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 68639,
+  "EOS_Progressed": 68645,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3084,
+  "EOS_NewPlayers": 3081,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15988,6 +15988,11 @@
       "Time": "2023-07-12T07:02:22.8337086+00:00",
       "NumProgressed": 68639,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-12T08:02:10.8592091+00:00",
+      "NumProgressed": 68645,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -16439,7 +16444,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 4118
+      "UsersEstimate": 4119
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -16711,7 +16716,7 @@
       "Name": "Electable!",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "achievement_emperor_of_hindustan",
@@ -16999,7 +17004,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 5491
+      "UsersEstimate": 5492
     },
     {
       "ID": "achievement_grand_coalition",
@@ -17023,7 +17028,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 4118
+      "UsersEstimate": 4119
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -17807,7 +17812,7 @@
       "Name": "Populists in Government",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "achievement_prester_john",
@@ -17999,7 +18004,7 @@
       "Name": "Seriously?!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 4118
+      "UsersEstimate": 4119
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -18279,7 +18284,7 @@
       "Name": "That is mine!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 5491
+      "UsersEstimate": 5492
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -18695,7 +18700,7 @@
       "Name": "Victorious!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 5491
+      "UsersEstimate": 5492
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -18830,21 +18835,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 68639,
+      "Progressed": 68645,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 68639,
+      "Progressed": 68645,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-07-11T21:57:52.8257442+00:00",
-  "LastChanged_Achievements": "2023-07-12T07:02:22.8337082+00:00",
+  "LastChanged_Achievements": "2023-07-12T08:02:10.8592087+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:36.5478418+00:00",
-  "LastUpdate_Ratings": "2023-07-12T06:57:35.6785078+00:00",
-  "LastUpdate_Achievements": "2023-07-12T07:02:22.834743+00:00"
+  "LastUpdate_Ratings": "2023-07-12T07:57:24.0526678+00:00",
+  "LastUpdate_Achievements": "2023-07-12T08:02:10.8602601+00:00"
 }

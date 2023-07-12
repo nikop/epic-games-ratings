@@ -11,7 +11,7 @@ Number of Ratings: 28  (23.09.2022)
 | Builder | 56.00% | ~175 |
 | Pangs of conscience | 51.00% | ~159 |
 | Living it large! | 46.00% | ~144 |
-| Collector | 43.00% | ~134 |
+| Collector | 44.00% | ~137 |
 | Need to think | 42.00% | ~131 |
 | Completely nuts! | 36.00% | ~112 |
 | Just in time! | 35.00% | ~109 |
@@ -21,7 +21,7 @@ Number of Ratings: 28  (23.09.2022)
 | Let's roll! | 28.00% | ~87 |
 | Non Stop! | 27.00% | ~84 |
 | Ouroboros | 26.00% | ~81 |
-| Madness! | 25.00% | ~78 |
+| Madness! | 26.00% | ~81 |
 | Foreman | 24.00% | ~75 |
 | Missed it! | 22.00% | ~69 |
 | Russia | 20.00% | ~62 |

@@ -4918,10 +4918,10 @@
       "Count": 3297
     }
   ],
-  "EOS_Progressed": 210383,
+  "EOS_Progressed": 210399,
   "EOS_Completed": 2046,
-  "EOS_NewPlayers": 3938,
-  "EOS_NewCompleters": 18,
+  "EOS_NewPlayers": 3933,
+  "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
     {
@@ -13708,6 +13708,11 @@
       "Time": "2023-07-12T07:04:32.7944567+00:00",
       "NumProgressed": 210383,
       "NumCompleted": 2046
+    },
+    {
+      "Time": "2023-07-12T08:04:10.1967264+00:00",
+      "NumProgressed": 210399,
+      "NumCompleted": 2046
     }
   ],
   "TotalAchievements": 503,
@@ -14583,7 +14588,7 @@
       "Name": "Were-verpowered",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 12623
+      "UsersEstimate": 12624
     },
     {
       "ID": "objective_completed_1203",
@@ -14695,7 +14700,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8415
+      "UsersEstimate": 8416
     },
     {
       "ID": "objective_completed_130",
@@ -14823,7 +14828,7 @@
       "Name": "Beast Mode",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6311
+      "UsersEstimate": 6312
     },
     {
       "ID": "objective_completed_149",
@@ -14831,7 +14836,7 @@
       "Name": "The Forbidden City",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1893
+      "UsersEstimate": 1894
     },
     {
       "ID": "objective_completed_15",
@@ -14839,7 +14844,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6311
+      "UsersEstimate": 6312
     },
     {
       "ID": "objective_completed_150",
@@ -14871,7 +14876,7 @@
       "Name": "Captured!",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1893
+      "UsersEstimate": 1894
     },
     {
       "ID": "objective_completed_155",
@@ -14911,7 +14916,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6311
+      "UsersEstimate": 6312
     },
     {
       "ID": "objective_completed_165",
@@ -14959,7 +14964,7 @@
       "Name": "Wisdom Check",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1893
+      "UsersEstimate": 1894
     },
     {
       "ID": "objective_completed_171",
@@ -15047,7 +15052,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6311
+      "UsersEstimate": 6312
     },
     {
       "ID": "objective_completed_20",
@@ -15063,7 +15068,7 @@
       "Name": "The Mists of Ravenloft",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1893
+      "UsersEstimate": 1894
     },
     {
       "ID": "objective_completed_209",
@@ -15141,9 +15146,9 @@
       "ID": "objective_completed_231",
       "SetID": "cc37lbc",
       "Name": "Chatty Nobles",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1052
+      "UsersEstimate": 1262
     },
     {
       "ID": "objective_completed_232",
@@ -15391,7 +15396,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 31557
+      "UsersEstimate": 31560
     },
     {
       "ID": "objective_completed_34",
@@ -15399,7 +15404,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 14727
+      "UsersEstimate": 14728
     },
     {
       "ID": "objective_completed_35",
@@ -15407,7 +15412,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6311
+      "UsersEstimate": 6312
     },
     {
       "ID": "objective_completed_36",
@@ -15511,7 +15516,7 @@
       "Name": "Seeking Allies",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10519
+      "UsersEstimate": 10520
     },
     {
       "ID": "objective_completed_390",
@@ -15583,7 +15588,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 14727
+      "UsersEstimate": 14728
     },
     {
       "ID": "objective_completed_40",
@@ -15855,7 +15860,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10519
+      "UsersEstimate": 10520
     },
     {
       "ID": "objective_completed_54",
@@ -15863,7 +15868,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6311
+      "UsersEstimate": 6312
     },
     {
       "ID": "objective_completed_540",
@@ -16263,7 +16268,7 @@
       "Name": "The Contagious Curse",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6311
+      "UsersEstimate": 6312
     },
     {
       "ID": "objective_completed_60",
@@ -16791,7 +16796,7 @@
       "Name": "Escort to Waterdeep",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6311
+      "UsersEstimate": 6312
     },
     {
       "ID": "objective_completed_690",
@@ -16863,7 +16868,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 23142
+      "UsersEstimate": 23144
     },
     {
       "ID": "objective_completed_70",
@@ -16935,7 +16940,7 @@
       "Name": "Friendly Imps",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10519
+      "UsersEstimate": 10520
     },
     {
       "ID": "objective_completed_80",
@@ -17461,9 +17466,9 @@
       "ID": "objective_completed_9",
       "SetID": "cc37lbc",
       "Name": "Pure Energy",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 8415
+      "UsersEstimate": 10520
     },
     {
       "ID": "objective_completed_902",
@@ -17742,21 +17747,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 176657,
+      "Progressed": 176673,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 210383,
+      "Progressed": 210399,
       "Completed": 2046
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-12T05:58:46.2278508+00:00",
-  "LastChanged_Achievements": "2023-07-12T07:04:32.7944563+00:00",
+  "LastChanged_Achievements": "2023-07-12T08:04:10.1967259+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:43.9043947+00:00",
-  "LastUpdate_Ratings": "2023-07-12T06:58:13.3709865+00:00",
-  "LastUpdate_Achievements": "2023-07-12T07:04:32.7967444+00:00"
+  "LastUpdate_Ratings": "2023-07-12T07:58:04.0935069+00:00",
+  "LastUpdate_Achievements": "2023-07-12T08:04:10.199033+00:00"
 }

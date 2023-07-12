@@ -6,24 +6,24 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,557 |
-| The Mad Wizard | 11.00% | ~23,142 |
-| The Ring of Regeneration | 7.00% | ~14,727 |
-| Are Ya Chicken? | 7.00% | ~14,727 |
-| Were-verpowered | 6.00% | ~12,623 |
-| Seeking Allies | 5.00% | ~10,519 |
-| Mad Cow Disease | 5.00% | ~10,519 |
-| Friendly Imps | 5.00% | ~10,519 |
-| A Persistent Buzzing | 4.00% | ~8,415 |
-| Pure Energy | 4.00% | ~8,415 |
-| Beast Mode | 3.00% | ~6,311 |
-| Terror in the Dark | 3.00% | ~6,311 |
-| A Mysterious Summons | 3.00% | ~6,311 |
-| Unearthed Evil | 3.00% | ~6,311 |
-| The Crumbling Temple | 3.00% | ~6,311 |
-| Exploring Port Nyanzaru | 3.00% | ~6,311 |
-| The Contagious Curse | 3.00% | ~6,311 |
-| Escort to Waterdeep | 3.00% | ~6,311 |
+| The Cursed Farmer | 15.00% | ~31,560 |
+| The Mad Wizard | 11.00% | ~23,144 |
+| The Ring of Regeneration | 7.00% | ~14,728 |
+| Are Ya Chicken? | 7.00% | ~14,728 |
+| Were-verpowered | 6.00% | ~12,624 |
+| Seeking Allies | 5.00% | ~10,520 |
+| Mad Cow Disease | 5.00% | ~10,520 |
+| Friendly Imps | 5.00% | ~10,520 |
+| Pure Energy | 5.00% | ~10,520 |
+| A Persistent Buzzing | 4.00% | ~8,416 |
+| Beast Mode | 3.00% | ~6,312 |
+| Terror in the Dark | 3.00% | ~6,312 |
+| A Mysterious Summons | 3.00% | ~6,312 |
+| Unearthed Evil | 3.00% | ~6,312 |
+| The Crumbling Temple | 3.00% | ~6,312 |
+| Exploring Port Nyanzaru | 3.00% | ~6,312 |
+| The Contagious Curse | 3.00% | ~6,312 |
+| Escort to Waterdeep | 3.00% | ~6,312 |
 | Low Initiative | 2.00% | ~4,208 |
 | Building Trust | 2.00% | ~4,208 |
 | March of the Undead | 2.00% | ~4,208 |
@@ -54,10 +54,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lost in the Deep | 1.00% | ~2,104 |
 | Easily Distracted | 1.00% | ~2,104 |
 | Rescue in the Jungle | 1.00% | ~2,104 |
-| The Forbidden City | 0.90% | ~1,893 |
-| Captured! | 0.90% | ~1,893 |
-| Wisdom Check | 0.90% | ~1,893 |
-| The Mists of Ravenloft | 0.90% | ~1,893 |
+| The Forbidden City | 0.90% | ~1,894 |
+| Captured! | 0.90% | ~1,894 |
+| Wisdom Check | 0.90% | ~1,894 |
+| The Mists of Ravenloft | 0.90% | ~1,894 |
 | A Grand Puzzle | 0.80% | ~1,683 |
 | Tomb of the Nine Gods | 0.80% | ~1,683 |
 | Treasure Hunters | 0.80% | ~1,683 |
@@ -77,6 +77,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Difficult Terrain | 0.70% | ~1,473 |
 | Market Fluctuations | 0.70% | ~1,473 |
 | Sleuth It Out | 0.60% | ~1,262 |
+| Chatty Nobles | 0.60% | ~1,262 |
 | Tower on the Lake | 0.60% | ~1,262 |
 | Seeds of Deceit | 0.60% | ~1,262 |
 | The Guardian of Orolunga | 0.60% | ~1,262 |
@@ -91,7 +92,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Force Grey Unleashed | 0.50% | ~1,052 |
 | Azaka's Procession - Part 1 | 0.50% | ~1,052 |
 | Azaka's Procession - Part 2 | 0.50% | ~1,052 |
-| Chatty Nobles | 0.50% | ~1,052 |
 | Modron Assistance | 0.50% | ~1,052 |
 | Haaave You Met Asmodeus? | 0.50% | ~1,052 |
 | The Gargoyle's Apprentice | 0.50% | ~1,052 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,383 (Ranked 52)  
+Progressed: 210,399 (Ranked 52)  
 Completed: 2,046 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -593,7 +593,7 @@ Completed: 2,046 (0.97%) (Ranked 102)
 | 2023-07-09 | 209,384 | 2,043 |
 | 2023-07-10 | 209,861 | 2,045 |
 | 2023-07-11 | 210,283 | 2,046 |
-| 2023-07-12 | 210,383 | 2,046 |
+| 2023-07-12 | 210,399 | 2,046 |
 ## Awards
 Max (Diverse Characters): 5,025  (Ranked 65)  
 Sum: 30,487 (Ranked 38)  

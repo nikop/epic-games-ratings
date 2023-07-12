@@ -2616,9 +2616,9 @@
       "Count": 483
     }
   ],
-  "EOS_Progressed": 6464,
+  "EOS_Progressed": 6465,
   "EOS_Completed": 166,
-  "EOS_NewPlayers": 453,
+  "EOS_NewPlayers": 452,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 2.57,
   "EosHistory": [
@@ -5696,6 +5696,11 @@
       "Time": "2023-07-12T07:00:31.0802228+00:00",
       "NumProgressed": 6464,
       "NumCompleted": 166
+    },
+    {
+      "Time": "2023-07-12T08:00:20.3233177+00:00",
+      "NumProgressed": 6465,
+      "NumCompleted": 166
     }
   ],
   "TotalAchievements": 15,
@@ -5715,7 +5720,7 @@
       "Name": "Banker",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 2844
+      "UsersEstimate": 2845
     },
     {
       "ID": "Bestest_Friend",
@@ -5795,7 +5800,7 @@
       "Name": "Photographer",
       "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 4654
+      "UsersEstimate": 4655
     },
     {
       "ID": "Renovator",
@@ -5803,7 +5808,7 @@
       "Name": "Renovator",
       "Percentage": 55,
       "XP": 100,
-      "UsersEstimate": 3555
+      "UsersEstimate": 3556
     },
     {
       "ID": "Thorn_Cleaner",
@@ -5826,7 +5831,7 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 6464,
+      "Progressed": 6465,
       "Completed": 166
     }
   ],
@@ -5834,8 +5839,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-07-11T14:58:30.248106+00:00",
-  "LastChanged_Achievements": "2023-07-12T07:00:31.0802224+00:00",
+  "LastChanged_Achievements": "2023-07-12T08:00:20.3233173+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:42.1936986+00:00",
-  "LastUpdate_Ratings": "2023-07-12T06:58:11.2524475+00:00",
-  "LastUpdate_Achievements": "2023-07-12T07:00:31.0802504+00:00"
+  "LastUpdate_Ratings": "2023-07-12T07:58:02.0182265+00:00",
+  "LastUpdate_Achievements": "2023-07-12T08:00:20.323348+00:00"
 }

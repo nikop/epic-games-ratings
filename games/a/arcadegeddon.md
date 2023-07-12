@@ -142,9 +142,9 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-11 | 7,592 | 0 |
 | 2023-07-12 | 7,594 | 0 |
 ## Awards
-Max (Relaxing): 62  (Ranked 384)  
-Sum: 488 (Ranked 298)  
-Diff (max vs sum): 86  
+Max (Great for Beginners): 62  (Ranked 384)  
+Sum: 451 (Ranked 303)  
+Diff (max vs sum): 81  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 62 |
@@ -156,7 +156,7 @@ Diff (max vs sum): 86
 | This game has Obsessive Gameplay | 51 |
 | This game has Playful Visuals | 50 |
 | This game has Amazing Storytelling | 48 |
-| This game is Highly Recommended | 44 |
+| This game is Highly Recommended | 45 |
 | This game has a Creative Community | 38 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -236,3 +236,4 @@ Diff (max vs sum): 86
 | 2023-06-25 | 4.49 | - | 62 | 486 |
 | 2023-07-01 | 4.49 | - | 62 | 487 |
 | 2023-07-02 | 4.49 | - | 62 | 488 |
+| 2023-07-12 | 4.49 | - | 62 | 451 |

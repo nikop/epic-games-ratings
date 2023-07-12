@@ -130,7 +130,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2816,
+  "EOS_Progressed": 2817,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 222,
   "EOS_NewCompleters": 0,
@@ -2350,6 +2350,11 @@
       "Time": "2023-07-12T07:06:06.7141443+00:00",
       "NumProgressed": 2816,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-12T08:05:44.1782286+00:00",
+      "NumProgressed": 2817,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2401,7 +2406,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1296
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -2473,7 +2478,7 @@
       "Name": "Call Me Snake",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 1661
+      "UsersEstimate": 1662
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -2481,7 +2486,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 1802
+      "UsersEstimate": 1803
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -2489,7 +2494,7 @@
       "Name": "Heavy Steps",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ACH_MARINE_PROSTHESIS",
@@ -2543,9 +2548,9 @@
       "ID": "ACH_MAX_TECKER",
       "SetID": "816efe",
       "Name": "The Cable Guy",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 366
+      "UsersEstimate": 338
     },
     {
       "ID": "ACH_MISSION_01",
@@ -2553,7 +2558,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 1633
+      "UsersEstimate": 1634
     },
     {
       "ID": "ACH_MISSION_02",
@@ -2665,7 +2670,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 2281
+      "UsersEstimate": 2282
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -2673,7 +2678,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 1577
+      "UsersEstimate": 1578
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -2681,7 +2686,7 @@
       "Name": "People Person",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1437
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -2689,7 +2694,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1098
+      "UsersEstimate": 1099
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -2713,14 +2718,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1464
+      "UsersEstimate": 1465
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 2816,
+      "Progressed": 2817,
       "Completed": 0
     }
   ],
@@ -2728,8 +2733,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-11T20:59:20.9477348+00:00",
-  "LastChanged_Achievements": "2023-07-12T07:06:06.7141439+00:00",
+  "LastChanged_Achievements": "2023-07-12T08:05:44.1782282+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:32.529009+00:00",
-  "LastUpdate_Ratings": "2023-07-12T06:59:19.0329815+00:00",
-  "LastUpdate_Achievements": "2023-07-12T07:06:06.7141872+00:00"
+  "LastUpdate_Ratings": "2023-07-12T07:59:08.8062085+00:00",
+  "LastUpdate_Achievements": "2023-07-12T08:05:44.1782741+00:00"
 }

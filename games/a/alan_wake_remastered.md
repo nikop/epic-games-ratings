@@ -16,8 +16,8 @@ Number of Ratings: 524  (23.09.2022)
 | Paging Mr. Wake | 15.00% | ~8,585 |
 | Back! Back, I Say! | 14.00% | ~8,013 |
 | Finders Keepers | 14.00% | ~8,013 |
-| Sound and Fury | 13.00% | ~7,440 |
-| Damn Good Cup of Coffee | 13.00% | ~7,440 |
+| Sound and Fury | 13.00% | ~7,441 |
+| Damn Good Cup of Coffee | 13.00% | ~7,441 |
 | Wheels Within Wheels | 12.00% | ~6,868 |
 | They're Heeeeeere! | 12.00% | ~6,868 |
 | Missed by a Mile | 12.00% | ~6,868 |
@@ -26,9 +26,9 @@ Number of Ratings: 524  (23.09.2022)
 | The Six-Gun Scribe | 11.00% | ~6,296 |
 | Collateral Carnage | 11.00% | ~6,296 |
 | Come One, Come All | 11.00% | ~6,296 |
-| Perchance to Dream | 10.00% | ~5,723 |
-| It's Not Just a Typewriter Brand | 10.00% | ~5,723 |
-| Thunder and Lightning | 10.00% | ~5,723 |
+| Perchance to Dream | 10.00% | ~5,724 |
+| It's Not Just a Typewriter Brand | 10.00% | ~5,724 |
+| Thunder and Lightning | 10.00% | ~5,724 |
 | Gatekeeper | 9.00% | ~5,151 |
 | The Lady of the Light | 9.00% | ~5,151 |
 | Two For the Price of One | 9.00% | ~5,151 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~57 |
 | No Punctuation | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,234 (Ranked 81)  
+Progressed: 57,235 (Ranked 81)  
 Completed: 57 (0.10%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,7 +157,7 @@ Completed: 57 (0.10%) (Ranked 183)
 | 2023-07-09 | 57,124 | 57 |
 | 2023-07-10 | 57,171 | 57 |
 | 2023-07-11 | 57,220 | 57 |
-| 2023-07-12 | 57,234 | 57 |
+| 2023-07-12 | 57,235 | 57 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

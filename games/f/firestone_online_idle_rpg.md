@@ -23,9 +23,9 @@ Rating: 4.11 (Ranked 886)
 | Hero inspection | 14.00% | ~227 |
 | Lieutenant | 14.00% | ~227 |
 | Natural Talent | 13.00% | ~210 |
+| The Unstoppable | 13.00% | ~210 |
 | Mysterious Rock | 12.00% | ~194 |
 | Superior | 12.00% | ~194 |
-| The Unstoppable | 12.00% | ~194 |
 | Milestone collector | 11.00% | ~178 |
 | Scientist | 11.00% | ~178 |
 | Hunter | 10.00% | ~162 |

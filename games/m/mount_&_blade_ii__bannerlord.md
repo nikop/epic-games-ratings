@@ -6,7 +6,7 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 37.00% | ~20,556 |
+| Lawbringer | 37.00% | ~20,557 |
 | Landlord | 31.00% | ~17,223 |
 | Horde breaker | 22.00% | ~12,223 |
 | Lawmaker | 22.00% | ~12,223 |
@@ -26,7 +26,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | What have the Romans ever done for us? | 9.00% | ~5,000 |
 | Butterlord | 8.00% | ~4,445 |
 | Mastery | 7.00% | ~3,889 |
-| Know your enemy | 6.00% | ~3,333 |
+| Know your enemy | 6.00% | ~3,334 |
 | Crowdfunded | 4.00% | ~2,222 |
 | Crush your enemies | 4.00% | ~2,222 |
 | My way | 4.00% | ~2,222 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,558 (Ranked 83)  
+Progressed: 55,559 (Ranked 83)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,10 +141,10 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-09 | 55,420 | 0 |
 | 2023-07-10 | 55,492 | 0 |
 | 2023-07-11 | 55,547 | 0 |
-| 2023-07-12 | 55,558 | 0 |
+| 2023-07-12 | 55,559 | 0 |
 ## Awards
 Max (Character Customization): 6,778  (Ranked 48)  
-Sum: 13,700 (Ranked 67)  
+Sum: 13,704 (Ranked 67)  
 Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |
@@ -154,7 +154,7 @@ Diff (max vs sum): -19
 | This game is Highly Recommended | 817 |
 | This game is Extremely Fun | 779 |
 | This game has Amazing Storytelling | 775 |
-| This game is Relaxing | 754 |
+| This game is Relaxing | 758 |
 | This game has Quickly Understood Controls | 753 |
 | This game has Amazing Characters | 752 |
 | This game has a Creative Community | 561 |
@@ -341,3 +341,4 @@ Diff (max vs sum): -19
 | 2023-07-09 | 4.74 | - | 6,773 | 13,679 |
 | 2023-07-10 | 4.74 | - | 6,773 | 13,688 |
 | 2023-07-11 | 4.74 | - | 6,778 | 13,700 |
+| 2023-07-12 | 4.74 | - | 6,778 | 13,704 |

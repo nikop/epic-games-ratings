@@ -2,7 +2,7 @@
   "ID": "c4395ba88061417a8ac6bd3fdc7fba79",
   "Name": "Potion Permit",
   "ProductSlug": "potion-permit",
-  "Ranking_Rating": 937,
+  "Ranking_Rating": 936,
   "Ranking_Popularity": 374,
   "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 171,
@@ -1638,9 +1638,9 @@
       "ID": "ACHIEVEMENTS_24",
       "SetID": "d4o538a",
       "Name": "Stone Specialist",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 190
+      "UsersEstimate": 204
     },
     {
       "ID": "ACHIEVEMENTS_25",
@@ -1767,8 +1767,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-06-25T23:02:11.750442+00:00",
-  "LastChanged_Achievements": "2023-07-12T07:04:08.7504943+00:00",
+  "LastChanged_Achievements": "2023-07-12T08:03:46.26875+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:57.0949556+00:00",
-  "LastUpdate_Ratings": "2023-07-12T07:00:16.4563213+00:00",
-  "LastUpdate_Achievements": "2023-07-12T07:04:08.750522+00:00"
+  "LastUpdate_Ratings": "2023-07-12T08:00:03.1629996+00:00",
+  "LastUpdate_Achievements": "2023-07-12T08:03:46.2687782+00:00"
 }
