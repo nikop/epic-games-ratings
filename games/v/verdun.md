@@ -6,17 +6,17 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~39,267 |
-| Worth it | 63.00% | ~32,127 |
-| Eagle Eye | 55.00% | ~28,048 |
-| Corpseman I | 40.00% | ~20,398 |
-| Blast fishing | 37.00% | ~18,869 |
-| Not alone | 32.00% | ~16,319 |
-| Headhunter I | 26.00% | ~13,259 |
-| Manual Labour I | 25.00% | ~12,749 |
-| Developers, Developers, Developers | 24.00% | ~12,239 |
-| Basic Training | 24.00% | ~12,239 |
-| Furchtlos und Treu | 13.00% | ~6,629 |
+| Setting an example | 77.00% | ~39,271 |
+| Worth it | 63.00% | ~32,131 |
+| Eagle Eye | 55.00% | ~28,051 |
+| Corpseman I | 40.00% | ~20,400 |
+| Blast fishing | 37.00% | ~18,870 |
+| Not alone | 32.00% | ~16,320 |
+| Headhunter I | 26.00% | ~13,260 |
+| Manual Labour I | 25.00% | ~12,750 |
+| Developers, Developers, Developers | 24.00% | ~12,240 |
+| Basic Training | 24.00% | ~12,240 |
+| Furchtlos und Treu | 13.00% | ~6,630 |
 | Gott Mit Uns | 12.00% | ~6,120 |
 | This We'll Defend! | 9.00% | ~4,590 |
 | Anker wirf! | 9.00% | ~4,590 |
@@ -34,10 +34,10 @@ Number of Ratings: 1,999  (23.09.2022)
 | War is better with friends I | 4.00% | ~2,040 |
 | Let them, come to us | 4.00% | ~2,040 |
 | Corpseman II | 4.00% | ~2,040 |
-| Manual Labour II | 4.00% | ~2,040 |
 | Offense is the best defence | 3.00% | ~1,530 |
 | There is no I in team | 3.00% | ~1,530 |
 | Veteran | 3.00% | ~1,530 |
+| Manual Labour II | 3.00% | ~1,530 |
 | In My Defens God Me Defend | 3.00% | ~1,530 |
 | Silver x100 | 3.00% | ~1,530 |
 | Impavidum Ferient Bella! | 3.00% | ~1,530 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~51 |
 | Blood Brother | 0.10% | ~51 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,996 (Ranked 85)  
+Progressed: 51,001 (Ranked 85)  
 Completed: 4 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 4 (0.01%) (Ranked 223)
 | 2023-07-09 | 50,728 | 4 |
 | 2023-07-10 | 50,855 | 4 |
 | 2023-07-11 | 50,962 | 4 |
-| 2023-07-12 | 50,996 | 4 |
+| 2023-07-12 | 51,001 | 4 |
 ## Awards
 Max (Highly Recommended): 95  (Ranked 337)  
 Sum: 757 (Ranked 262)  

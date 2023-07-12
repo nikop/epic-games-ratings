@@ -4,10 +4,10 @@
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 440,
   "Ranking_Popularity": 263,
-  "Ranking_PopularitySum": 357,
+  "Ranking_PopularitySum": 358,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -544,9 +544,9 @@
       "Count": 212
     }
   ],
-  "EOS_Progressed": 11022,
+  "EOS_Progressed": 11023,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -6459,6 +6459,11 @@
       "Time": "2023-07-12T11:07:10.6795752+00:00",
       "NumProgressed": 11022,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-07-12T12:06:17.0573031+00:00",
+      "NumProgressed": 11023,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 35,
@@ -6470,7 +6475,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 8928
+      "UsersEstimate": 8929
     },
     {
       "ID": "ACH02",
@@ -6526,7 +6531,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5511
+      "UsersEstimate": 5512
     },
     {
       "ID": "ACH09",
@@ -6646,7 +6651,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 2645
+      "UsersEstimate": 2646
     },
     {
       "ID": "ACH24",
@@ -6749,7 +6754,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11022,
+      "Progressed": 11023,
       "Completed": 28
     }
   ],
@@ -6757,8 +6762,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-11T18:00:08.2457615+00:00",
-  "LastChanged_Achievements": "2023-07-12T11:07:10.6795746+00:00",
+  "LastChanged_Achievements": "2023-07-12T12:06:17.0573025+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:43.1834453+00:00",
-  "LastUpdate_Ratings": "2023-07-12T11:01:04.5496083+00:00",
-  "LastUpdate_Achievements": "2023-07-12T11:07:10.6796336+00:00"
+  "LastUpdate_Ratings": "2023-07-12T12:00:17.8922945+00:00",
+  "LastUpdate_Achievements": "2023-07-12T12:06:17.057364+00:00"
 }

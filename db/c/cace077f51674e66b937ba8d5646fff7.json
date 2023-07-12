@@ -189,9 +189,9 @@
       "ID": "ENEMY_1",
       "SetID": "50pdlpn",
       "Name": "Norman the Useless Gyroscope",
-      "Percentage": 85,
+      "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ENEMY_10",
@@ -701,9 +701,9 @@
       "ID": "SERIAL_KISSER",
       "SetID": "50pdlpn",
       "Name": "Serial Kisser",
-      "Percentage": 85,
+      "Percentage": 90,
       "XP": 40,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     }
   ],
   "AchievementSets": [
@@ -716,8 +716,8 @@
   ],
   "FirstSeen": "2023-07-03T16:57:31.1356684+00:00",
   "FirstSeenAchievements": "2023-05-08T09:03:21.3999065+00:00",
-  "LastChanged_Achievements": "2023-07-12T11:05:23.6547482+00:00",
+  "LastChanged_Achievements": "2023-07-12T12:04:51.6650497+00:00",
   "LastUpdate_AppInfo": "2023-07-10T13:56:59.3027723+00:00",
-  "LastUpdate_Ratings": "2023-07-12T10:57:31.4182318+00:00",
-  "LastUpdate_Achievements": "2023-07-12T11:05:23.6548254+00:00"
+  "LastUpdate_Ratings": "2023-07-12T11:57:33.280996+00:00",
+  "LastUpdate_Achievements": "2023-07-12T12:04:51.665117+00:00"
 }

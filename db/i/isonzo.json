@@ -3442,9 +3442,9 @@
       "ID": "ISONZO_ACH_INSUBORDINATION",
       "SetID": "akchbl3",
       "Name": "Insubordination",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1272
     },
     {
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
@@ -3683,8 +3683,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-07-04T13:15:35.7816607+00:00",
-  "LastChanged_Achievements": "2023-07-12T11:04:35.908823+00:00",
+  "LastChanged_Achievements": "2023-07-12T12:04:14.4108502+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:47.5967083+00:00",
-  "LastUpdate_Ratings": "2023-07-12T10:57:51.5594376+00:00",
-  "LastUpdate_Achievements": "2023-07-12T11:04:35.9088776+00:00"
+  "LastUpdate_Ratings": "2023-07-12T11:57:47.7436365+00:00",
+  "LastUpdate_Achievements": "2023-07-12T12:04:14.4109021+00:00"
 }

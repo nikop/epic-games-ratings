@@ -6,16 +6,16 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,565 |
-| The Mad Wizard | 11.00% | ~23,148 |
+| The Cursed Farmer | 15.00% | ~31,567 |
+| The Mad Wizard | 11.00% | ~23,149 |
 | The Ring of Regeneration | 7.00% | ~14,731 |
 | Are Ya Chicken? | 7.00% | ~14,731 |
-| Were-verpowered | 6.00% | ~12,626 |
+| Were-verpowered | 6.00% | ~12,627 |
 | Seeking Allies | 5.00% | ~10,522 |
 | Mad Cow Disease | 5.00% | ~10,522 |
 | Friendly Imps | 5.00% | ~10,522 |
 | Pure Energy | 5.00% | ~10,522 |
-| A Persistent Buzzing | 4.00% | ~8,417 |
+| A Persistent Buzzing | 4.00% | ~8,418 |
 | Beast Mode | 3.00% | ~6,313 |
 | Terror in the Dark | 3.00% | ~6,313 |
 | A Mysterious Summons | 3.00% | ~6,313 |
@@ -58,15 +58,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | Captured! | 0.90% | ~1,894 |
 | Wisdom Check | 0.90% | ~1,894 |
 | The Mists of Ravenloft | 0.90% | ~1,894 |
-| A Grand Puzzle | 0.80% | ~1,683 |
-| Tomb of the Nine Gods | 0.80% | ~1,683 |
-| Treasure Hunters | 0.80% | ~1,683 |
-| Nimble Escape | 0.80% | ~1,683 |
-| The Darkness Runs Deeper | 0.80% | ~1,683 |
+| A Grand Puzzle | 0.80% | ~1,684 |
+| Tomb of the Nine Gods | 0.80% | ~1,684 |
+| Treasure Hunters | 0.80% | ~1,684 |
+| Nimble Escape | 0.80% | ~1,684 |
+| The Darkness Runs Deeper | 0.80% | ~1,684 |
 | The Giant's Bane Tavern | 0.80% | ~1,414 |
-| Rude Welcome | 0.80% | ~1,683 |
-| Durable Deep | 0.80% | ~1,683 |
-| The Haunted Jungle | 0.80% | ~1,683 |
+| Rude Welcome | 0.80% | ~1,684 |
+| Durable Deep | 0.80% | ~1,684 |
+| The Haunted Jungle | 0.80% | ~1,684 |
 | Family Entanglements | 0.70% | ~1,473 |
 | The Immortal Warrior | 0.70% | ~1,473 |
 | The Wyrmheart Mine | 0.70% | ~1,473 |
@@ -97,8 +97,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Gargoyle's Apprentice | 0.50% | ~1,052 |
 | Flies on the Wall | 0.50% | ~1,052 |
 | Backtracking Through Barovia | 0.50% | ~1,052 |
-| Excavating History | 0.50% | ~1,052 |
 | Cramped Quarters | 0.50% | ~1,052 |
+| Slow and Steady | 0.50% | ~1,052 |
 | Vault of Dragons | 0.50% | ~1,052 |
 | Champions of Waterdeep | 0.50% | ~1,052 |
 | Resolve Amongst Chaos | 0.50% | ~1,052 |
@@ -120,9 +120,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Trepidatious Trio | 0.40% | ~842 |
 | A Saurial's Resolve | 0.40% | ~842 |
 | Nimblest Escape | 0.40% | ~842 |
+| Excavating History | 0.40% | ~842 |
 | Towering Expectations | 0.40% | ~842 |
 | A Tale of Two Fiends | 0.40% | ~842 |
-| Slow and Steady | 0.40% | ~842 |
 | Patience is Key | 0.40% | ~842 |
 | Wyllowwood | 0.40% | ~842 |
 | An Illithid Undertaking | 0.40% | ~707 |
@@ -132,6 +132,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Lost Hollyphant | 0.40% | ~707 |
 | Alterdeep | 0.40% | ~707 |
 | The Wandering Emporium | 0.40% | ~707 |
+| Tiamat's Army | 0.40% | ~707 |
 | Civilization | 0.40% | ~707 |
 | Dwarven Rumors | 0.40% | ~707 |
 | Struggling Toward Omu | 0.30% | ~631 |
@@ -158,7 +159,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dark Doppelgangers | 0.30% | ~631 |
 | Cold & Wet | 0.30% | ~631 |
 | The Gargoyle | 0.30% | ~530 |
-| Tiamat's Army | 0.30% | ~530 |
 | Questlines | 0.30% | ~530 |
 | Bel's Forge | 0.30% | ~530 |
 | Rime Bandits | 0.30% | ~530 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,436 (Ranked 52)  
+Progressed: 210,448 (Ranked 52)  
 Completed: 2,046 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -593,7 +593,7 @@ Completed: 2,046 (0.97%) (Ranked 102)
 | 2023-07-09 | 209,384 | 2,043 |
 | 2023-07-10 | 209,861 | 2,045 |
 | 2023-07-11 | 210,283 | 2,046 |
-| 2023-07-12 | 210,436 | 2,046 |
+| 2023-07-12 | 210,448 | 2,046 |
 ## Awards
 Max (Diverse Characters): 5,025  (Ranked 65)  
 Sum: 30,487 (Ranked 38)  

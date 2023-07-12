@@ -6,13 +6,13 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~474,611 |
+| The Fool | 72.00% | ~474,612 |
 | Apprentice | 58.00% | ~382,326 |
 | Close Shave | 25.00% | ~164,796 |
 | Mercenary | 23.00% | ~151,612 |
 | Ninja | 23.00% | ~151,612 |
 | Northern Scourge | 17.00% | ~112,061 |
-| Thief Bane | 14.00% | ~92,285 |
+| Thief Bane | 14.00% | ~92,286 |
 | Master of Arms | 12.00% | ~79,102 |
 | Gambler | 10.00% | ~65,918 |
 | Dice Master | 10.00% | ~65,918 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~659 |
 | Blood Pact | 0.10% | ~659 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 659,182 (Ranked 22)  
+Progressed: 659,183 (Ranked 22)  
 Completed: 165 (0.03%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 165 (0.03%) (Ranked 209)
 | 2023-07-09 | 659,087 | 165 |
 | 2023-07-10 | 659,124 | 165 |
 | 2023-07-11 | 659,169 | 165 |
-| 2023-07-12 | 659,182 | 165 |
+| 2023-07-12 | 659,183 | 165 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 434)  
 Sum: 180 (Ranked 373)  

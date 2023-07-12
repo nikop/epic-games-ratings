@@ -789,9 +789,9 @@
       "ID": "ACH_10_DIG",
       "SetID": "7c4cldc",
       "Name": "Digger",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH_ALL_TELEPORTS",
@@ -869,9 +869,9 @@
       "ID": "ACH_COLLECT_50_ELECTROSCRAP",
       "SetID": "7c4cldc",
       "Name": "Electro-Scrap Gatherer",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 107
     },
     {
       "ID": "ACH_COLLECT_50_SCRAP",
@@ -941,9 +941,9 @@
       "ID": "ACH_KILL_20",
       "SetID": "7c4cldc",
       "Name": "Scrapper",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 143
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_KILL_50",
@@ -1046,8 +1046,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-07-12T11:03:15.4397958+00:00",
+  "LastChanged_Achievements": "2023-07-12T12:03:18.0694934+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:16.8374592+00:00",
-  "LastUpdate_Ratings": "2023-07-12T10:59:02.5695951+00:00",
-  "LastUpdate_Achievements": "2023-07-12T11:03:15.4398218+00:00"
+  "LastUpdate_Ratings": "2023-07-12T11:58:41.1246632+00:00",
+  "LastUpdate_Achievements": "2023-07-12T12:03:18.0695191+00:00"
 }

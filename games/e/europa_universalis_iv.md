@@ -1,21 +1,21 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 216)  
+Rating: 4.69 (Ranked 217)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,182 |
-| That's a Grand Army | 8.00% | ~5,495 |
-| That is mine! | 8.00% | ~5,495 |
-| Victorious! | 8.00% | ~5,495 |
-| Brothers in Arms | 6.00% | ~4,121 |
-| That's a Grand Navy | 6.00% | ~4,121 |
-| Seriously?! | 6.00% | ~4,121 |
-| For the Glory | 5.00% | ~3,434 |
-| Cold War | 4.00% | ~2,747 |
-| True Catholic | 4.00% | ~2,747 |
+| Until death do us apart | 9.00% | ~6,183 |
+| That's a Grand Army | 8.00% | ~5,496 |
+| That is mine! | 8.00% | ~5,496 |
+| Victorious! | 8.00% | ~5,496 |
+| Brothers in Arms | 6.00% | ~4,122 |
+| That's a Grand Navy | 6.00% | ~4,122 |
+| Seriously?! | 6.00% | ~4,122 |
+| For the Glory | 5.00% | ~3,435 |
+| Cold War | 4.00% | ~2,748 |
+| True Catholic | 4.00% | ~2,748 |
 | Defender of the Faith | 3.00% | ~2,061 |
 | It's all about luck | 3.00% | ~2,061 |
 | It's all about the money | 3.00% | ~2,061 |
@@ -42,8 +42,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | This navy can take it all | 1.00% | ~687 |
 | Isn't this the way to India? | 0.90% | ~618 |
 | Market Control | 0.90% | ~618 |
-| Down Under | 0.80% | ~549 |
-| Trustworthy | 0.80% | ~549 |
+| Down Under | 0.80% | ~550 |
+| Trustworthy | 0.80% | ~550 |
 | Electable! | 0.70% | ~481 |
 | Populists in Government | 0.70% | ~481 |
 | All belongs to Mother Russia | 0.60% | ~412 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,685 (Ranked 74)  
+Progressed: 68,697 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -444,7 +444,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-09 | 67,782 | 0 |
 | 2023-07-10 | 68,178 | 0 |
 | 2023-07-11 | 68,569 | 0 |
-| 2023-07-12 | 68,685 | 0 |
+| 2023-07-12 | 68,697 | 0 |
 ## Awards
 Max (Educational): 5,533  (Ranked 60)  
 Sum: 45,644 (Ranked 27)  
