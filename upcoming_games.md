@@ -356,7 +356,7 @@
 | [The Front](games/t/the_front.md) | 2099-01-01 | - |  | - | - |
 | [The Golden Eyed Ghosts](games/t/the_golden_eyed_ghosts.md) | 2099-01-01 | - |  | - | - |
 | [The Hive](games/3/3778010ababa48d387d44ee9fd61b517.md) | 2099-01-01 | - |  | - | - |
-| [The Machines Arena](games/t/the_machines_arena.md) | 2099-01-01 | - |  | 4.70 | 0 |
+| [The Machines Arena](games/t/the_machines_arena.md) | 2099-01-01 | - |  | 4.71 | 0 |
 | [The Most Awesome Game Ever Made](games/t/the_most_awesome_game_ever_made.md) | 2099-01-01 | - |  | - | - |
 | [The Precinct](games/2/2d1432c62a8c49ab80feaefa176a9671.md) | 2099-01-01 | - |  | - | - |
 | [THE SILENT CITY CHAPTER TWO](games/1/15863494f4ef46d481aae0759ec24eb1.md) | 2099-01-01 | - |  | - | - |

@@ -20,7 +20,7 @@
 | 18 | [Remains](games/r/remains.md) | 11.90% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.22% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.60% |
+| 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.56% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
 | 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.45% |
@@ -107,8 +107,8 @@
 | 105 | [Hades](games/h/hades.md) | 0.89% |
 | 106 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
 | 107 | [Dungeons 3](games/d/dungeons_3.md) | 0.84% |
-| 108 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.77% |
-| 108 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.77% |
+| 108 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.78% |
+| 109 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.77% |
 | 110 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
 | 110 | [Lemon Cake](games/l/lemon_cake.md) | 0.76% |
 | 112 | [Haven](games/h/haven.md) | 0.68% |
@@ -119,9 +119,9 @@
 | 117 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.63% |
 | 118 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 119 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.60% |
-| 120 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.58% |
-| 121 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.57% |
-| 121 | [Grindstone](games/g/grindstone.md) | 0.57% |
+| 120 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.59% |
+| 121 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.58% |
+| 122 | [Grindstone](games/g/grindstone.md) | 0.57% |
 | 123 | [Potion Permit](games/p/potion_permit.md) | 0.55% |
 | 123 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
 | 125 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.53% |
@@ -192,11 +192,11 @@
 | 189 | [Partisans 1941](games/p/partisans_1941.md) | 0.09% |
 | 189 | [Shop Titans](games/s/shop_titans.md) | 0.09% |
 | 189 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
+| 193 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.08% |
 | 193 | [Riverbond](games/r/riverbond.md) | 0.08% |
 | 193 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
-| 195 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.07% |
-| 195 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
-| 195 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
+| 196 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
+| 196 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
 | 198 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.06% |
 | 198 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
 | 198 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
