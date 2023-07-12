@@ -16,8 +16,8 @@ Number of Ratings: 38  (23.09.2022)
 | Smelter | 37.00% | ~110 |
 | Electro-Scrap Gatherer | 35.00% | ~104 |
 | Digger | 33.00% | ~98 |
-| Survivor | 32.00% | ~95 |
-| Robot Destroyer | 31.00% | ~92 |
+| Survivor | 33.00% | ~98 |
+| Robot Destroyer | 32.00% | ~95 |
 | Herbalist | 30.00% | ~89 |
 | Lumberjack | 29.00% | ~86 |
 | Electro-Scrap Master | 26.00% | ~77 |
@@ -25,7 +25,7 @@ Number of Ratings: 38  (23.09.2022)
 | Robot Hunter | 23.00% | ~68 |
 | Advanced Survivalist | 21.00% | ~62 |
 | Master Of Technology | 18.00% | ~53 |
-| Treasure Hunter | 17.00% | ~50 |
+| Treasure Hunter | 18.00% | ~53 |
 | Mythical Smelter | 13.00% | ~39 |
 | Blacksmith | 12.00% | ~36 |
 | Master Of Management | 10.00% | ~30 |

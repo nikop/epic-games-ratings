@@ -6547,10 +6547,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 38043,
       "NumberOfAwardsMax": 4518
+    },
+    {
+      "Time": "2023-07-12T09:59:56.0105665+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 38049,
+      "NumberOfAwardsMax": 4518
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 38043,
+  "NumberOfAwards": 38049,
   "NumberOfAwardsMax": 4518,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6618,7 +6624,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 3144
+      "Count": 3150
     },
     {
       "Text": "This game has Easy Combat",
@@ -6627,9 +6633,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 45339,
+  "EOS_Progressed": 45340,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 330,
+  "EOS_NewPlayers": 331,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13782,6 +13788,11 @@
       "Time": "2023-07-12T08:00:30.3599137+00:00",
       "NumProgressed": 45339,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-12T10:02:09.3084975+00:00",
+      "NumProgressed": 45340,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 43,
@@ -13873,7 +13884,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 29017
+      "UsersEstimate": 29018
     },
     {
       "ID": "CutTree",
@@ -14025,7 +14036,7 @@
       "Name": "All out of Land",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 19949
+      "UsersEstimate": 19950
     },
     {
       "ID": "NumProductionPoints",
@@ -14129,22 +14140,22 @@
       "Name": "That\u0027s a wrap",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 6347
+      "UsersEstimate": 6348
     }
   ],
   "AchievementSets": [
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 45339,
+      "Progressed": 45340,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
-  "LastChanged": "2023-07-11T22:00:56.1126938+00:00",
-  "LastChanged_Achievements": "2023-07-12T09:03:13.986722+00:00",
+  "LastChanged": "2023-07-12T09:59:56.0105662+00:00",
+  "LastChanged_Achievements": "2023-07-12T10:02:09.3084967+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:57.7938394+00:00",
-  "LastUpdate_Ratings": "2023-07-12T09:00:13.3059651+00:00",
-  "LastUpdate_Achievements": "2023-07-12T09:03:13.9867868+00:00"
+  "LastUpdate_Ratings": "2023-07-12T09:59:56.0105672+00:00",
+  "LastUpdate_Achievements": "2023-07-12T10:02:09.3085927+00:00"
 }

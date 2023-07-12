@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Seeds of War | 70.00% | ~138 |
+| Aspairagus | 51.00% | ~75 |
 | Triple Kill | 50.00% | ~98 |
 | Survivor | 50.00% | ~74 |
-| Aspairagus | 50.00% | ~74 |
 | First Blood | 48.00% | ~95 |
 | Cornivore | 46.00% | ~91 |
 | I Believe I Can Fly | 44.00% | ~87 |
@@ -20,7 +20,7 @@
 | 15K | 22.00% | ~43 |
 | Drinking Problem | 20.00% | ~39 |
 | Grave Digger | 19.00% | ~28 |
-| Professional Survivor | 17.00% | ~25 |
+| Professional Survivor | 18.00% | ~26 |
 | Quick-Draw Pod | 16.00% | ~24 |
 | This Is My Boomstick | 13.00% | ~19 |
 | Skin Of Your Teeth | 11.00% | ~22 |
@@ -30,7 +30,7 @@
 | Eggtraordinary | 10.00% | ~20 |
 | Oh My Gourd | 10.00% | ~15 |
 | Summers Here | 10.00% | ~15 |
-| Fresh Pancake | 8.00% | ~16 |
+| Fresh Pancake | 9.00% | ~18 |
 | Quit Horsin' Around | 8.00% | ~16 |
 | Perfect | 8.00% | ~12 |
 | Expert Survivor | 7.00% | ~10 |

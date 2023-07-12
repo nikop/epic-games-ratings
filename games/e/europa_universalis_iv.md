@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,179 |
-| That's a Grand Army | 8.00% | ~5,492 |
-| That is mine! | 8.00% | ~5,492 |
-| Victorious! | 8.00% | ~5,492 |
-| Brothers in Arms | 6.00% | ~4,119 |
-| That's a Grand Navy | 6.00% | ~4,119 |
-| Seriously?! | 6.00% | ~4,119 |
-| For the Glory | 5.00% | ~3,433 |
-| Cold War | 4.00% | ~2,746 |
-| True Catholic | 4.00% | ~2,746 |
+| Until death do us apart | 9.00% | ~6,180 |
+| That's a Grand Army | 8.00% | ~5,494 |
+| That is mine! | 8.00% | ~5,494 |
+| Victorious! | 8.00% | ~5,494 |
+| Brothers in Arms | 6.00% | ~4,120 |
+| That's a Grand Navy | 6.00% | ~4,120 |
+| Seriously?! | 6.00% | ~4,120 |
+| For the Glory | 5.00% | ~3,434 |
+| Cold War | 4.00% | ~2,747 |
+| True Catholic | 4.00% | ~2,747 |
 | Defender of the Faith | 3.00% | ~2,060 |
 | It's all about luck | 3.00% | ~2,060 |
 | It's all about the money | 3.00% | ~2,060 |
@@ -92,7 +92,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Imperio español | 0.20% | ~137 |
 | Industrial Powerhouse | 0.20% | ~137 |
 | Je maintiendrai | 0.20% | ~137 |
-| A Kaiser not just in name | 0.20% | ~137 |
 | Magellan’s Voyage | 0.20% | ~137 |
 | Pyramid of Skulls | 0.20% | ~137 |
 | The Power of Three | 0.20% | ~137 |
@@ -197,6 +196,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Iron Price | 0.10% | ~69 |
 | It's All Greek To Me | 0.10% | ~69 |
 | Just Resting In My Account | 0.10% | ~69 |
+| A Kaiser not just in name | 0.10% | ~69 |
 | Keep the Flame Burning | 0.10% | ~69 |
 | KHAAAAAAN | 0.10% | ~69 |
 | King of Jerusalem | 0.10% | ~69 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,654 (Ranked 74)  
+Progressed: 68,670 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -444,7 +444,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-09 | 67,782 | 0 |
 | 2023-07-10 | 68,178 | 0 |
 | 2023-07-11 | 68,569 | 0 |
-| 2023-07-12 | 68,654 | 0 |
+| 2023-07-12 | 68,670 | 0 |
 ## Awards
 Max (Educational): 5,533  (Ranked 60)  
 Sum: 45,642 (Ranked 27)  

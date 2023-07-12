@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 139,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 274,
+  "EOS_Progressed": 275,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -816,6 +816,11 @@
       "Time": "2023-07-12T02:26:55.0328045+00:00",
       "NumProgressed": 274,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-12T10:03:30.2259035+00:00",
+      "NumProgressed": 275,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -827,7 +832,7 @@
       "Name": "Great Luck",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ActivePause",
@@ -865,9 +870,9 @@
       "ID": "Calculated",
       "SetID": "1e89b4i",
       "Name": "Calculated",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 71
+      "UsersEstimate": 69
     },
     {
       "ID": "Close",
@@ -915,15 +920,15 @@
       "Name": "Fifty",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "First",
       "SetID": "1e89b4i",
       "Name": "Game Started",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 58
     },
     {
       "ID": "FullCompletion",
@@ -1155,21 +1160,21 @@
       "Name": "Transport Hub",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 274,
+      "Progressed": 275,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-07-12T09:04:03.4735678+00:00",
+  "LastChanged_Achievements": "2023-07-12T10:03:30.2259026+00:00",
   "LastUpdate_AppInfo": "2023-07-11T08:57:01.7024715+00:00",
-  "LastUpdate_Ratings": "2023-07-12T08:57:04.7200699+00:00",
-  "LastUpdate_Achievements": "2023-07-12T09:04:03.4735977+00:00"
+  "LastUpdate_Ratings": "2023-07-12T09:57:17.0076362+00:00",
+  "LastUpdate_Achievements": "2023-07-12T10:03:30.2259488+00:00"
 }

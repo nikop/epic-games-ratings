@@ -13,6 +13,7 @@ Rating: 4.87 (Ranked 24)
 | The Negotiator | 0.90% | ~31 |
 | Whoa! There's ANOTHER health bar!? | 0.90% | ~31 |
 | You got this, Peppermint? | 0.90% | ~31 |
+| Perfect Parry | 0.90% | ~31 |
 | Kissing the sky! | 0.90% | ~31 |
 | This will cost you big time | 0.80% | ~27 |
 | Headliner | 0.80% | ~27 |
@@ -20,7 +21,6 @@ Rating: 4.87 (Ranked 24)
 | Who's the boss now? | 0.80% | ~27 |
 | Z-shielding's got nothing on us! | 0.80% | ~27 |
 | Out in a puff of smoke | 0.80% | ~27 |
-| Perfect Parry | 0.80% | ~27 |
 | Uh, they were broken when I got here | 0.80% | ~27 |
 | Alright, that felt AWESOME! | 0.80% | ~27 |
 | Start with a bang! | 0.70% | ~24 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | OK, I THINK I know what I'm doing now | 0.00% | ~0 |
 | Low budget finish | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,434 (Ranked 145)  
+Progressed: 3,435 (Ranked 145)  
 Completed: 5 (0.15%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 5 (0.15%) (Ranked 172)
 | 2023-07-09 | 3,429 | 5 |
 | 2023-07-10 | 3,431 | 5 |
 | 2023-07-11 | 3,432 | 5 |
-| 2023-07-12 | 3,434 | 5 |
+| 2023-07-12 | 3,435 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

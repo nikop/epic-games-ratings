@@ -400,7 +400,7 @@
   "Tags": [],
   "EOS_Progressed": 3265,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -5521,17 +5521,17 @@
       "ID": "REWARD_DLC04_01_SHIPBREAKER",
       "SetID": "83mdf7p",
       "Name": "Shipbreaker",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "REWARD_DLC04_02_SINK_OR_SWIM",
       "SetID": "83mdf7p",
       "Name": "Sink or Swim",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "REWARD_DLC04_03_GOING_OVERBOARD",
@@ -5560,8 +5560,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-12T04:01:32.7620915+00:00",
-  "LastChanged_Achievements": "2023-07-12T09:03:14.8869493+00:00",
+  "LastChanged_Achievements": "2023-07-12T10:02:10.0046039+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:07.1687539+00:00",
-  "LastUpdate_Ratings": "2023-07-12T09:01:09.485467+00:00",
-  "LastUpdate_Achievements": "2023-07-12T09:03:14.8870353+00:00"
+  "LastUpdate_Ratings": "2023-07-12T10:00:39.3129297+00:00",
+  "LastUpdate_Achievements": "2023-07-12T10:02:10.004711+00:00"
 }

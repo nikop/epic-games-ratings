@@ -6,32 +6,32 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 58.00% | ~104,365 |
-| Where's that freaking Dwarf? | 46.00% | ~82,772 |
-| GG EZ | 27.00% | ~48,584 |
-| Speedrun | 26.00% | ~46,784 |
-| Déjà vu | 20.00% | ~35,988 |
-| Sock! SOCK! | 15.00% | ~26,991 |
-| DM intervention | 12.00% | ~21,593 |
-| A beer, two curses, three companions | 7.00% | ~12,596 |
-| Fireproof Wizardess | 7.00% | ~12,596 |
-| Livin' in a dwarven paradise | 5.00% | ~8,997 |
-| Way of the Wimp | 5.00% | ~8,997 |
-| The plot thickens... At the tavern | 4.00% | ~7,198 |
-| The Woman in the High Castle | 3.00% | ~5,398 |
-| Team Building Exercise | 3.00% | ~5,398 |
-| The demons' feast | 2.00% | ~3,599 |
-| Res Judicata | 2.00% | ~3,599 |
-| I am the night | 2.00% | ~3,599 |
-| Shiny and Crôm | 1.00% | ~1,799 |
-| The Great Library | 1.00% | ~1,799 |
-| Torture and Sensibility | 1.00% | ~1,799 |
-| Dwarf Fortress | 1.00% | ~1,799 |
-| The Ranger of Chaos | 1.00% | ~1,799 |
-| Thieves' Guild Accreditation | 1.00% | ~1,799 |
-| Oh, when I'll be level 10... | 1.00% | ~1,799 |
-| The beards of change | 0.90% | ~1,619 |
-| Material Girl | 0.90% | ~1,619 |
+| Alt+F4 | 58.00% | ~104,403 |
+| Where's that freaking Dwarf? | 46.00% | ~82,802 |
+| GG EZ | 27.00% | ~48,601 |
+| Speedrun | 26.00% | ~46,801 |
+| Déjà vu | 20.00% | ~36,001 |
+| Sock! SOCK! | 15.00% | ~27,001 |
+| DM intervention | 12.00% | ~21,601 |
+| A beer, two curses, three companions | 7.00% | ~12,600 |
+| Fireproof Wizardess | 7.00% | ~12,600 |
+| Livin' in a dwarven paradise | 5.00% | ~9,000 |
+| Way of the Wimp | 5.00% | ~9,000 |
+| The plot thickens... At the tavern | 4.00% | ~7,200 |
+| The Woman in the High Castle | 3.00% | ~5,400 |
+| Team Building Exercise | 3.00% | ~5,400 |
+| The demons' feast | 2.00% | ~3,600 |
+| Res Judicata | 2.00% | ~3,600 |
+| I am the night | 2.00% | ~3,600 |
+| Shiny and Crôm | 1.00% | ~1,800 |
+| The Great Library | 1.00% | ~1,800 |
+| Torture and Sensibility | 1.00% | ~1,800 |
+| Dwarf Fortress | 1.00% | ~1,800 |
+| The Ranger of Chaos | 1.00% | ~1,800 |
+| Thieves' Guild Accreditation | 1.00% | ~1,800 |
+| Oh, when I'll be level 10... | 1.00% | ~1,800 |
+| The beards of change | 0.90% | ~1,620 |
+| Material Girl | 0.90% | ~1,620 |
 | Gargantua | 0.80% | ~1,440 |
 | In Navalu's footsteps | 0.80% | ~1,440 |
 | Lust and Debauchery | 0.80% | ~1,440 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 179,939 (Ranked 58)  
+Progressed: 180,005 (Ranked 58)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-09 | 174,947 | 0 |
 | 2023-07-10 | 177,355 | 0 |
 | 2023-07-11 | 179,429 | 0 |
-| 2023-07-12 | 179,939 | 0 |
+| 2023-07-12 | 180,005 | 0 |
 ## Awards
 Max (Character Customization): 92  (Ranked 343)  
 Sum: 92 (Ranked 414)  

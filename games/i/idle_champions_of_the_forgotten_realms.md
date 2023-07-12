@@ -6,24 +6,24 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,561 |
-| The Mad Wizard | 11.00% | ~23,145 |
+| The Cursed Farmer | 15.00% | ~31,563 |
+| The Mad Wizard | 11.00% | ~23,146 |
 | The Ring of Regeneration | 7.00% | ~14,729 |
 | Are Ya Chicken? | 7.00% | ~14,729 |
-| Were-verpowered | 6.00% | ~12,624 |
-| Seeking Allies | 5.00% | ~10,520 |
-| Mad Cow Disease | 5.00% | ~10,520 |
-| Friendly Imps | 5.00% | ~10,520 |
-| Pure Energy | 5.00% | ~10,520 |
-| A Persistent Buzzing | 4.00% | ~8,416 |
-| Beast Mode | 3.00% | ~6,312 |
-| Terror in the Dark | 3.00% | ~6,312 |
-| A Mysterious Summons | 3.00% | ~6,312 |
-| Unearthed Evil | 3.00% | ~6,312 |
-| The Crumbling Temple | 3.00% | ~6,312 |
-| Exploring Port Nyanzaru | 3.00% | ~6,312 |
-| The Contagious Curse | 3.00% | ~6,312 |
-| Escort to Waterdeep | 3.00% | ~6,312 |
+| Were-verpowered | 6.00% | ~12,625 |
+| Seeking Allies | 5.00% | ~10,521 |
+| Mad Cow Disease | 5.00% | ~10,521 |
+| Friendly Imps | 5.00% | ~10,521 |
+| Pure Energy | 5.00% | ~10,521 |
+| A Persistent Buzzing | 4.00% | ~8,417 |
+| Beast Mode | 3.00% | ~6,313 |
+| Terror in the Dark | 3.00% | ~6,313 |
+| A Mysterious Summons | 3.00% | ~6,313 |
+| Unearthed Evil | 3.00% | ~6,313 |
+| The Crumbling Temple | 3.00% | ~6,313 |
+| Exploring Port Nyanzaru | 3.00% | ~6,313 |
+| The Contagious Curse | 3.00% | ~6,313 |
+| Escort to Waterdeep | 3.00% | ~6,313 |
 | Low Initiative | 2.00% | ~4,208 |
 | Building Trust | 2.00% | ~4,208 |
 | March of the Undead | 2.00% | ~4,208 |
@@ -63,7 +63,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Treasure Hunters | 0.80% | ~1,683 |
 | Nimble Escape | 0.80% | ~1,683 |
 | The Darkness Runs Deeper | 0.80% | ~1,683 |
-| The Giant's Bane Tavern | 0.80% | ~1,413 |
+| The Giant's Bane Tavern | 0.80% | ~1,414 |
 | Rude Welcome | 0.80% | ~1,683 |
 | Durable Deep | 0.80% | ~1,683 |
 | The Haunted Jungle | 0.80% | ~1,683 |
@@ -76,17 +76,17 @@ Number of Ratings: 9,041  (23.09.2022)
 | Crowded Streets | 0.70% | ~1,473 |
 | Difficult Terrain | 0.70% | ~1,473 |
 | Market Fluctuations | 0.70% | ~1,473 |
-| Sleuth It Out | 0.60% | ~1,262 |
-| Chatty Nobles | 0.60% | ~1,262 |
-| Tower on the Lake | 0.60% | ~1,262 |
-| Seeds of Deceit | 0.60% | ~1,262 |
-| The Guardian of Orolunga | 0.60% | ~1,262 |
-| The Lost Love | 0.60% | ~1,262 |
-| Lair of the Xanathar | 0.60% | ~1,262 |
-| Waterdeep Under Siege | 0.60% | ~1,262 |
-| Elturel Has Fallen | 0.60% | ~1,262 |
+| Sleuth It Out | 0.60% | ~1,263 |
+| Chatty Nobles | 0.60% | ~1,263 |
+| Tower on the Lake | 0.60% | ~1,263 |
+| Seeds of Deceit | 0.60% | ~1,263 |
+| The Guardian of Orolunga | 0.60% | ~1,263 |
+| The Lost Love | 0.60% | ~1,263 |
+| Lair of the Xanathar | 0.60% | ~1,263 |
+| Waterdeep Under Siege | 0.60% | ~1,263 |
+| Elturel Has Fallen | 0.60% | ~1,263 |
 | The Everlasting Rime | 0.60% | ~1,060 |
-| Expert Opinion | 0.60% | ~1,262 |
+| Expert Opinion | 0.60% | ~1,263 |
 | Lobsterfolk Assault | 0.50% | ~1,052 |
 | Home Field Advantage | 0.50% | ~1,052 |
 | Force Grey Unleashed | 0.50% | ~1,052 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,408 (Ranked 52)  
+Progressed: 210,419 (Ranked 52)  
 Completed: 2,046 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -593,7 +593,7 @@ Completed: 2,046 (0.97%) (Ranked 102)
 | 2023-07-09 | 209,384 | 2,043 |
 | 2023-07-10 | 209,861 | 2,045 |
 | 2023-07-11 | 210,283 | 2,046 |
-| 2023-07-12 | 210,408 | 2,046 |
+| 2023-07-12 | 210,419 | 2,046 |
 ## Awards
 Max (Diverse Characters): 5,025  (Ranked 65)  
 Sum: 30,487 (Ranked 38)  

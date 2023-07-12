@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6753,
+  "EOS_Progressed": 6756,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 831,
+  "EOS_NewPlayers": 830,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2841,6 +2841,11 @@
       "Time": "2023-07-12T09:01:20.2852861+00:00",
       "NumProgressed": 6753,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-12T10:00:49.6171948+00:00",
+      "NumProgressed": 6756,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -2852,7 +2857,7 @@
       "Name": "Self Portrait",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "ACH_COLOR_AVERAGE_AT_LEAST_6_AFTER_25_GAMES",
@@ -2924,7 +2929,7 @@
       "Name": "You tried your best!",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2904
+      "UsersEstimate": 2905
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -2940,7 +2945,7 @@
       "Name": "Facepalm",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1148
+      "UsersEstimate": 1149
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -3051,14 +3056,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 6753,
+      "Progressed": 6756,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-07-12T09:01:20.2852857+00:00",
+  "LastChanged_Achievements": "2023-07-12T10:00:49.6171938+00:00",
   "LastUpdate_AppInfo": "2023-07-07T17:57:06.089177+00:00",
-  "LastUpdate_Ratings": "2023-07-12T08:57:00.9002+00:00",
-  "LastUpdate_Achievements": "2023-07-12T09:01:20.285317+00:00"
+  "LastUpdate_Ratings": "2023-07-12T09:57:14.1364676+00:00",
+  "LastUpdate_Achievements": "2023-07-12T10:00:49.6172423+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
@@ -256,9 +256,9 @@
       "ID": "ACH_40075_KM",
       "SetID": "8h8m55b",
       "Name": "40,075Km",
-      "Percentage": 9,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_50_DRINK_CHALLENGEMODE",
@@ -280,9 +280,9 @@
       "ID": "ACH_BAD_MEMORY",
       "SetID": "8h8m55b",
       "Name": "Bad Memory",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_BAD_REVIEW",
@@ -352,9 +352,9 @@
       "ID": "ACH_FAILED_MESSENGER",
       "SetID": "8h8m55b",
       "Name": "Failed Messenger",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_FELLOW_INFLUENCER",
@@ -416,17 +416,17 @@
       "ID": "ACH_GUEST_OF_HONOR",
       "SetID": "8h8m55b",
       "Name": "Guest of Honor",
-      "Percentage": 9,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_HARDBOILED_ADVICE",
       "SetID": "8h8m55b",
       "Name": "A Hardboiled Advice",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_HOW_I_MET_YOUR_ANCESTOR",
@@ -671,8 +671,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-07-12T09:05:44.3644824+00:00",
+  "LastChanged_Achievements": "2023-07-12T10:04:52.6186109+00:00",
   "LastUpdate_AppInfo": "2023-07-11T05:57:06.0013645+00:00",
-  "LastUpdate_Ratings": "2023-07-12T08:57:12.5331019+00:00",
-  "LastUpdate_Achievements": "2023-07-12T09:05:44.3645207+00:00"
+  "LastUpdate_Ratings": "2023-07-12T09:57:21.5577227+00:00",
+  "LastUpdate_Achievements": "2023-07-12T10:04:52.6186617+00:00"
 }

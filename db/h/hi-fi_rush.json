@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3434,
+  "EOS_Progressed": 3435,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4177,6 +4177,11 @@
       "Time": "2023-07-12T06:03:13.7071382+00:00",
       "NumProgressed": 3434,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-12T10:02:13.7035154+00:00",
+      "NumProgressed": 3435,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 71,
@@ -4426,9 +4431,9 @@
       "ID": "Ach031",
       "SetID": "12n4k20",
       "Name": "Perfect Parry",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 31
     },
     {
       "ID": "Ach032",
@@ -4755,13 +4760,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3434,
+      "Progressed": 3435,
       "Completed": 5
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 1955,
+      "Progressed": 1956,
       "Completed": 1927
     }
   ],
@@ -4769,8 +4774,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-12T09:03:19.2778468+00:00",
+  "LastChanged_Achievements": "2023-07-12T10:02:13.7035148+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:24.9104218+00:00",
-  "LastUpdate_Ratings": "2023-07-12T08:58:59.8235037+00:00",
-  "LastUpdate_Achievements": "2023-07-12T09:03:19.2779235+00:00"
+  "LastUpdate_Ratings": "2023-07-12T09:58:54.6964038+00:00",
+  "LastUpdate_Achievements": "2023-07-12T10:02:13.7036792+00:00"
 }

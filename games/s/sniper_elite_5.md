@@ -40,6 +40,8 @@ Rating: 4.43 (Ranked 653)
 | The Long Game | 0.70% | ~23 |
 | Rigged to Blow | 0.60% | ~20 |
 | Herr Today, Gone Tomorrow | 0.60% | ~19 |
+| Shipbreaker | 0.60% | ~19 |
+| Sink or Swim | 0.60% | ~19 |
 | From Paris with Love | 0.50% | ~16 |
 | Burn after reading | 0.50% | ~16 |
 | Souvenir hunter | 0.50% | ~16 |
@@ -47,8 +49,6 @@ Rating: 4.43 (Ranked 653)
 | Road Rage | 0.50% | ~16 |
 | Don't hold your breath | 0.50% | ~16 |
 | Operation Foxley | 0.50% | ~16 |
-| Shipbreaker | 0.50% | ~16 |
-| Sink or Swim | 0.50% | ~16 |
 | Strategist | 0.40% | ~13 |
 | Eagle Eyed | 0.40% | ~13 |
 | Last Resort | 0.40% | ~13 |

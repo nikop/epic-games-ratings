@@ -12,7 +12,7 @@ Rating: 4.43 (Ranked 653)
 | Call Me Snake | 59.00% | ~1,662 |
 | Something Lurks Under The Hills | 58.00% | ~1,634 |
 | This Was No Papercut | 56.00% | ~1,578 |
-| The Shrink Hates Me | 52.00% | ~1,465 |
+| The Shrink Hates Me | 53.00% | ~1,493 |
 | People Person | 51.00% | ~1,437 |
 | Use The Bumper, That's What It's For | 49.00% | ~1,380 |
 | First Steps Into Madness | 47.00% | ~1,324 |
@@ -31,8 +31,8 @@ Rating: 4.43 (Ranked 653)
 | Deep Into Insanity | 18.00% | ~507 |
 | The Passenger | 18.00% | ~507 |
 | El Riesgo Siempre Vive | 16.00% | ~451 |
+| The Spire | 15.00% | ~423 |
 | One For Every Occasion | 14.00% | ~394 |
-| The Spire | 14.00% | ~394 |
 | Bandage Lover | 13.00% | ~366 |
 | Frontliner | 13.00% | ~366 |
 | The Cable Guy | 12.00% | ~338 |
