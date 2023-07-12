@@ -352,7 +352,7 @@
 | 347 | [Dead Space](games/d/dead_space.md) | 4.62 | 77 | 359 |
 | 347 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 278 | 238 |
 | 347 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 34 | 439 |
-| 347 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,379 | 124 |
+| 347 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,381 | 124 |
 | 347 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.62 | 0 | 505 |
 | 347 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 364 | 218 |
 | 347 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 548 | 185 |
@@ -397,7 +397,7 @@
 | 390 | [Control](games/c/control.md) | 4.60 | 8,393 | 39 |
 | 390 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 218 | 255 |
 | 390 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 74 | 363 |
-| 390 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,482 | 27 |
+| 390 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,487 | 27 |
 | 390 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 0 | 505 |
 | 390 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 120 | 310 |
 | 390 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 58 | 389 |
@@ -595,7 +595,7 @@
 | 587 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.48 | 0 | 505 |
 | 587 | [Scorn](games/s/scorn.md) | 4.48 | 0 | 505 |
 | 587 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.48 | 2,103 | 108 |
-| 587 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.48 | 7,523 | 45 |
+| 587 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.48 | 7,531 | 45 |
 | 587 | [The Escapists](games/t/the_escapists.md) | 4.48 | 0 | 505 |
 | 598 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.47 | 0 | 505 |
 | 598 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 0 | 505 |
@@ -674,6 +674,7 @@
 | 664 | [Tunche](games/t/tunche.md) | 4.42 | 21 | 492 |
 | 664 | [World of Warships](games/w/world_of_warships.md) | 4.42 | 1,188 | 133 |
 | 674 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.41 | 0 | 505 |
+| 674 | [Breathedge](games/b/breathedge.md) | 4.41 | 0 | 505 |
 | 674 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 247 | 246 |
 | 674 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.41 | 0 | 505 |
 | 674 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 94 | 340 |
@@ -689,19 +690,18 @@
 | 674 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 0 | 505 |
 | 674 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.41 | 548 | 185 |
 | 674 | [Warpips](games/w/warpips.md) | 4.41 | 26 | 471 |
-| 690 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 0 | 505 |
-| 690 | [Breathedge](games/b/breathedge.md) | 4.40 | 0 | 505 |
-| 690 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,006 | 143 |
-| 690 | [Democracy 4](games/d/democracy_4.md) | 4.40 | 0 | 505 |
-| 690 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 0 | 505 |
-| 690 | [MORDHAU](games/m/mordhau.md) | 4.40 | 388 | 211 |
-| 690 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 0 | 505 |
-| 690 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 0 | 505 |
-| 690 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 422 | 201 |
-| 690 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 0 | 505 |
-| 690 | [Tacoma](games/t/tacoma.md) | 4.40 | 0 | 505 |
-| 690 | [The Lion's Song](games/t/the_lion's_song.md) | 4.40 | 0 | 505 |
-| 690 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.40 | 0 | 505 |
+| 691 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 0 | 505 |
+| 691 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,006 | 143 |
+| 691 | [Democracy 4](games/d/democracy_4.md) | 4.40 | 0 | 505 |
+| 691 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 0 | 505 |
+| 691 | [MORDHAU](games/m/mordhau.md) | 4.40 | 388 | 211 |
+| 691 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 0 | 505 |
+| 691 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 0 | 505 |
+| 691 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 422 | 201 |
+| 691 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 0 | 505 |
+| 691 | [Tacoma](games/t/tacoma.md) | 4.40 | 0 | 505 |
+| 691 | [The Lion's Song](games/t/the_lion's_song.md) | 4.40 | 0 | 505 |
+| 691 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.40 | 0 | 505 |
 | 703 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 0 | 505 |
 | 703 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.39 | 0 | 505 |
 | 703 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 505 |
@@ -806,7 +806,7 @@
 | 802 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.26 | 27 | 466 |
 | 802 | [The Fall](games/t/the_fall.md) | 4.26 | 0 | 505 |
 | 802 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 0 | 505 |
-| 807 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.25 | 14,978 | 22 |
+| 807 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.25 | 15,026 | 22 |
 | 807 | [EVE Online](games/e/eve_online.md) | 4.25 | 1,039 | 140 |
 | 807 | [Godlike Burger](games/g/godlike_burger.md) | 4.25 | 0 | 505 |
 | 807 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.25 | 0 | 505 |
