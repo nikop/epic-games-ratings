@@ -916,7 +916,7 @@
 | 914 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.00 | 0 | 505 |
 | 914 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 0 | 505 |
 | 916 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 372 | 217 |
-| 916 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,654 | 69 |
+| 916 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,657 | 69 |
 | 918 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 505 |
 | 918 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 2,609 | 92 |
 | 920 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 0 | 505 |

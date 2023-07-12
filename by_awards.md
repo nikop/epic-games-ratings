@@ -68,7 +68,7 @@
 | 66 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4,982 | 4.57 | 440 |
 | 67 | [Cities: Skylines](games/c/cities__skylines.md) | 4,910 | 4.65 | 301 |
 | 68 | [MultiVersus](games/m/multiversus.md) | 4,745 | 4.56 | 457 |
-| 69 | [Shop Titans](games/s/shop_titans.md) | 4,654 | 3.99 | 916 |
+| 69 | [Shop Titans](games/s/shop_titans.md) | 4,657 | 3.99 | 916 |
 | 70 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,541 | 4.70 | 195 |
 | 71 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,518 | 4.70 | 195 |
 | 72 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,411 | 4.70 | 195 |
