@@ -4912,9 +4912,9 @@
       "Count": 3295
     }
   ],
-  "EOS_Progressed": 210337,
+  "EOS_Progressed": 210345,
   "EOS_Completed": 2046,
-  "EOS_NewPlayers": 3966,
+  "EOS_NewPlayers": 3956,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -13682,6 +13682,11 @@
       "Time": "2023-07-12T03:24:19.5069716+00:00",
       "NumProgressed": 210337,
       "NumCompleted": 2046
+    },
+    {
+      "Time": "2023-07-12T04:05:06.699661+00:00",
+      "NumProgressed": 210345,
+      "NumCompleted": 2046
     }
   ],
   "TotalAchievements": 503,
@@ -14557,7 +14562,7 @@
       "Name": "Were-verpowered",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 12620
+      "UsersEstimate": 12621
     },
     {
       "ID": "objective_completed_1203",
@@ -14669,7 +14674,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8413
+      "UsersEstimate": 8414
     },
     {
       "ID": "objective_completed_130",
@@ -15365,7 +15370,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 31551
+      "UsersEstimate": 31552
     },
     {
       "ID": "objective_completed_34",
@@ -16837,7 +16842,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 23137
+      "UsersEstimate": 23138
     },
     {
       "ID": "objective_completed_70",
@@ -17437,7 +17442,7 @@
       "Name": "Pure Energy",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8413
+      "UsersEstimate": 8414
     },
     {
       "ID": "objective_completed_902",
@@ -17716,21 +17721,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 176611,
+      "Progressed": 176619,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 210337,
+      "Progressed": 210345,
       "Completed": 2046
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-11T22:58:48.2156233+00:00",
-  "LastChanged_Achievements": "2023-07-12T03:24:19.5069707+00:00",
+  "LastChanged_Achievements": "2023-07-12T04:05:06.6996605+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:43.9043947+00:00",
-  "LastUpdate_Ratings": "2023-07-12T03:17:55.6594684+00:00",
-  "LastUpdate_Achievements": "2023-07-12T03:24:19.5099112+00:00"
+  "LastUpdate_Ratings": "2023-07-12T03:58:48.9858041+00:00",
+  "LastUpdate_Achievements": "2023-07-12T04:05:06.7019289+00:00"
 }

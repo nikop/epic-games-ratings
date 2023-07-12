@@ -8,11 +8,11 @@ Number of Ratings: 398  (23.09.2022)
 | ---- | ---------- | ----- |
 | Just One...More...Term... | 76.00% | ~3,076 |
 | Un-Lonely Island | 48.00% | ~1,943 |
-| The Beginning of a Servantship | 45.00% | ~1,821 |
+| The Beginning of a Servantship | 45.00% | ~1,822 |
 | Trade Is My Trait | 38.00% | ~1,538 |
-| Number 18 | 24.00% | ~971 |
-| We Don't Have Time For That | 20.00% | ~809 |
-| The Governator | 18.00% | ~728 |
+| Number 18 | 24.00% | ~972 |
+| We Don't Have Time For That | 20.00% | ~810 |
+| The Governator | 18.00% | ~729 |
 | The Legend of Langostino | 17.00% | ~688 |
 | Caribbean Comrade | 16.00% | ~648 |
 | The Dreamer of Dreams | 16.00% | ~648 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 1.00% | ~40 |
 | My Ways | 0.40% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,047 (Ranked 142)  
+Progressed: 4,048 (Ranked 142)  
 Completed: 1 (0.02%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 1 (0.02%) (Ranked 214)
 | 2023-07-09 | 4,032 | 1 |
 | 2023-07-10 | 4,040 | 1 |
 | 2023-07-11 | 4,046 | 1 |
-| 2023-07-12 | 4,047 | 1 |
+| 2023-07-12 | 4,048 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 94  (Ranked 340)  
 Sum: 667 (Ranked 276)  

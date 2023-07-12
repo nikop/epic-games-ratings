@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15024,
+  "EOS_Progressed": 15025,
   "EOS_Completed": 316,
-  "EOS_NewPlayers": 605,
+  "EOS_NewPlayers": 602,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -8989,6 +8989,11 @@
       "Time": "2023-07-12T03:22:29.9674515+00:00",
       "NumProgressed": 15024,
       "NumCompleted": 316
+    },
+    {
+      "Time": "2023-07-12T04:03:42.7102115+00:00",
+      "NumProgressed": 15025,
+      "NumCompleted": 316
     }
   ],
   "TotalAchievements": 20,
@@ -9008,7 +9013,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 901
+      "UsersEstimate": 902
     },
     {
       "ID": "EAST_FINISHED",
@@ -9016,7 +9021,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2103
+      "UsersEstimate": 2104
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -9080,7 +9085,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 901
+      "UsersEstimate": 902
     },
     {
       "ID": "FOUND_MAMBA",
@@ -9088,7 +9093,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 901
+      "UsersEstimate": 902
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -9096,7 +9101,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2103
+      "UsersEstimate": 2104
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -9120,7 +9125,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 11418
+      "UsersEstimate": 11419
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -9136,7 +9141,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2103
+      "UsersEstimate": 2104
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -9159,15 +9164,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 15024,
+      "Progressed": 15025,
       "Completed": 316
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-07-12T03:22:29.9674509+00:00",
+  "LastChanged_Achievements": "2023-07-12T04:03:42.710211+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:34.4370622+00:00",
-  "LastUpdate_Ratings": "2023-07-12T03:20:26.2039136+00:00",
-  "LastUpdate_Achievements": "2023-07-12T03:22:29.9675366+00:00"
+  "LastUpdate_Ratings": "2023-07-12T04:01:00.1256126+00:00",
+  "LastUpdate_Achievements": "2023-07-12T04:03:42.7102637+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 357,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -544,9 +544,9 @@
       "Count": 212
     }
   ],
-  "EOS_Progressed": 11020,
+  "EOS_Progressed": 11021,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -6449,6 +6449,11 @@
       "Time": "2023-07-11T23:07:39.2832647+00:00",
       "NumProgressed": 11020,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-07-12T04:07:04.855951+00:00",
+      "NumProgressed": 11021,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 35,
@@ -6460,7 +6465,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 8926
+      "UsersEstimate": 8927
     },
     {
       "ID": "ACH02",
@@ -6556,7 +6561,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1873
+      "UsersEstimate": 1874
     },
     {
       "ID": "ACH14",
@@ -6739,7 +6744,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11020,
+      "Progressed": 11021,
       "Completed": 28
     }
   ],
@@ -6747,8 +6752,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-11T18:00:08.2457615+00:00",
-  "LastChanged_Achievements": "2023-07-12T03:26:42.9852255+00:00",
+  "LastChanged_Achievements": "2023-07-12T04:07:04.8559506+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:43.1834453+00:00",
-  "LastUpdate_Ratings": "2023-07-12T03:20:35.9426173+00:00",
-  "LastUpdate_Achievements": "2023-07-12T03:26:42.9853328+00:00"
+  "LastUpdate_Ratings": "2023-07-12T04:01:08.8408219+00:00",
+  "LastUpdate_Achievements": "2023-07-12T04:07:04.8559988+00:00"
 }

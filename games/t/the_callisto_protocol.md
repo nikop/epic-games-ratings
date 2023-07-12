@@ -8,6 +8,7 @@ Rating: 4.19 (Ranked 846)
 | Get a Grip | 3.00% | ~471 |
 | You Need a Gun | 2.00% | ~314 |
 | Flesh Wound | 2.00% | ~314 |
+| I Do Belong Here | 2.00% | ~314 |
 | Two Heads Are Better Than One | 2.00% | ~314 |
 | Chew 'Em Up | 2.00% | ~314 |
 | Float Like A Butterfly | 2.00% | ~314 |
@@ -16,10 +17,10 @@ Rating: 4.19 (Ranked 846)
 | In the Pipe, Five by Five | 2.00% | ~314 |
 | Crash Site | 2.00% | ~314 |
 | Full Circle | 2.00% | ~314 |
+| Power Up | 2.00% | ~314 |
 | Keep Fighting | 2.00% | ~72 |
 | It's Time | 2.00% | ~72 |
 | Giving Back | 1.00% | ~157 |
-| I Do Belong Here | 1.00% | ~157 |
 | Terminated | 1.00% | ~157 |
 | Workplace Hazard | 1.00% | ~157 |
 | The Commonality | 1.00% | ~157 |
@@ -28,7 +29,6 @@ Rating: 4.19 (Ranked 846)
 | Without A Paddle | 1.00% | ~157 |
 | What Lies Beneath | 1.00% | ~157 |
 | Desperate Times | 1.00% | ~157 |
-| Power Up | 1.00% | ~157 |
 | One Last Job | 0.90% | ~33 |
 | In Striking Distance | 0.70% | ~110 |
 | This Isn't About Escape | 0.60% | ~22 |
@@ -138,8 +138,8 @@ Completed: 66 (0.42%) (Ranked 133)
 | 2023-07-12 | 15,693 | 66 |
 ## Awards
 Max (Amazing Storytelling): 66  (Ranked 376)  
-Sum: 380 (Ranked 317)  
-Diff (max vs sum): 59  
+Sum: 380 (Ranked 316)  
+Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 66 |

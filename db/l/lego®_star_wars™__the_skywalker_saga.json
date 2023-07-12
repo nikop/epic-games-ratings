@@ -6,9 +6,9 @@
   "Ranking_Popularity": 103,
   "Ranking_PopularitySum": 116,
   "Ranking_EOS_Progress": 86,
-  "Ranking_EOS_Completed": 135,
+  "Ranking_EOS_Completed": 133,
   "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -2685,10 +2685,10 @@
     }
   ],
   "EOS_Progressed": 49854,
-  "EOS_Completed": 206,
+  "EOS_Completed": 207,
   "EOS_NewPlayers": 37,
-  "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 0.41,
+  "EOS_NewCompleters": 6,
+  "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:43.3939238+00:00",
@@ -8799,6 +8799,11 @@
       "Time": "2023-07-11T20:03:13.1633996+00:00",
       "NumProgressed": 49854,
       "NumCompleted": 206
+    },
+    {
+      "Time": "2023-07-12T04:03:42.1222469+00:00",
+      "NumProgressed": 49854,
+      "NumCompleted": 207
     }
   ],
   "TotalAchievements": 45,
@@ -9032,9 +9037,9 @@
       "ID": "COMPLETE_SKYWALKER_SAGA",
       "SetID": "3fcpmbm",
       "Name": "\u0027\u0027It\u0027s true... all of it\u0027\u0027",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 8974
+      "UsersEstimate": 9472
     },
     {
       "ID": "CREATE_25_REBEL_DISGUISES",
@@ -9170,14 +9175,14 @@
       "ID": "3fcpmbm",
       "IsBase": true,
       "Progressed": 49854,
-      "Completed": 206
+      "Completed": 207
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-07-11T21:00:29.003495+00:00",
-  "LastChanged_Achievements": "2023-07-12T03:22:29.2840782+00:00",
+  "LastChanged_Achievements": "2023-07-12T04:03:42.1222464+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:13.8094619+00:00",
-  "LastUpdate_Ratings": "2023-07-12T03:21:04.4501606+00:00",
-  "LastUpdate_Achievements": "2023-07-12T03:22:29.284163+00:00"
+  "LastUpdate_Ratings": "2023-07-12T04:01:37.853612+00:00",
+  "LastUpdate_Achievements": "2023-07-12T04:03:42.1223044+00:00"
 }

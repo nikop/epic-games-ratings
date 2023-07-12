@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 11,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-12-06T05:00:00+00:00",
     "PcReleaseDate": "2017-12-21T00:00:00+00:00",
@@ -2854,9 +2854,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 445601,
+  "EOS_Progressed": 445605,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 12926,
+  "EOS_NewPlayers": 12906,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11794,6 +11794,11 @@
       "Time": "2023-07-12T03:26:42.3017681+00:00",
       "NumProgressed": 445601,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-12T04:07:04.2342883+00:00",
+      "NumProgressed": 445605,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 37,
@@ -11829,7 +11834,7 @@
       "Name": "Marksman Novice",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 84664
+      "UsersEstimate": 84665
     },
     {
       "ID": "13",
@@ -11877,7 +11882,7 @@
       "Name": "Devil Inside Me",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 138136
+      "UsersEstimate": 138138
     },
     {
       "ID": "19",
@@ -11885,7 +11890,7 @@
       "Name": "Blood on My Hands",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 343113
+      "UsersEstimate": 343116
     },
     {
       "ID": "2",
@@ -11909,7 +11914,7 @@
       "Name": "Killing Spree",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 98032
+      "UsersEstimate": 98033
     },
     {
       "ID": "22",
@@ -11933,7 +11938,7 @@
       "Name": "First Blood",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 62384
+      "UsersEstimate": 62385
     },
     {
       "ID": "25",
@@ -11965,7 +11970,7 @@
       "Name": "Now You See Me, Now You Don\u0027t",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 53472
+      "UsersEstimate": 53473
     },
     {
       "ID": "29",
@@ -11997,7 +12002,7 @@
       "Name": "Guardian Angel",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 173784
+      "UsersEstimate": 173786
     },
     {
       "ID": "32",
@@ -12029,7 +12034,7 @@
       "Name": "You Complete Me",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 187152
+      "UsersEstimate": 187154
     },
     {
       "ID": "36",
@@ -12045,7 +12050,7 @@
       "Name": "Health Junkie",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 200520
+      "UsersEstimate": 200522
     },
     {
       "ID": "4",
@@ -12053,7 +12058,7 @@
       "Name": "Fantastic Four",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 98032
+      "UsersEstimate": 98033
     },
     {
       "ID": "5",
@@ -12061,7 +12066,7 @@
       "Name": "Top 10",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 62384
+      "UsersEstimate": 62385
     },
     {
       "ID": "6",
@@ -12100,7 +12105,7 @@
     {
       "ID": "7ko8h8f",
       "IsBase": true,
-      "Progressed": 445601,
+      "Progressed": 445605,
       "Completed": 10
     }
   ],
@@ -12108,8 +12113,8 @@
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00",
   "LastChanged": "2023-07-12T02:22:15.7351236+00:00",
-  "LastChanged_Achievements": "2023-07-12T03:26:42.3017675+00:00",
+  "LastChanged_Achievements": "2023-07-12T04:07:04.2342879+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:28.0608975+00:00",
-  "LastUpdate_Ratings": "2023-07-12T03:18:32.1749777+00:00",
-  "LastUpdate_Achievements": "2023-07-12T03:26:42.3018719+00:00"
+  "LastUpdate_Ratings": "2023-07-12T03:59:23.2476147+00:00",
+  "LastUpdate_Achievements": "2023-07-12T04:07:04.2343511+00:00"
 }

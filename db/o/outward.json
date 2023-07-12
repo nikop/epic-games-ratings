@@ -6,9 +6,9 @@
   "Ranking_Popularity": 442,
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 149,
-  "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_Completed": 183,
+  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -496,11 +496,11 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3035,
-  "EOS_Completed": 2,
-  "EOS_NewPlayers": 35,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.07,
+  "EOS_Progressed": 3036,
+  "EOS_Completed": 3,
+  "EOS_NewPlayers": 36,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:49.1218315+00:00",
@@ -3116,6 +3116,11 @@
       "Time": "2023-07-11T13:22:03.354146+00:00",
       "NumProgressed": 3035,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-12T04:05:36.4267838+00:00",
+      "NumProgressed": 3036,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 42,
@@ -3167,7 +3172,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1335
+      "UsersEstimate": 1336
     },
     {
       "ID": "CrowdPleaser",
@@ -3191,7 +3196,7 @@
       "Name": "Eureka",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 971
+      "UsersEstimate": 972
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -3255,7 +3260,7 @@
       "Name": "Let \u2018em eat magma!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "LightofLevant_18",
@@ -3319,7 +3324,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1942
+      "UsersEstimate": 1943
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -3375,7 +3380,7 @@
       "Name": "The power of ambition",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ThePowerofFaith_4",
@@ -3407,7 +3412,7 @@
       "Name": "The stuff of legends.",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "TheyllTellStoriesAboutThis_35",
@@ -3447,7 +3452,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2276
+      "UsersEstimate": 2277
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -3462,15 +3467,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3035,
-      "Completed": 2
+      "Progressed": 3036,
+      "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-07-11T02:15:21.6079736+00:00",
-  "LastChanged_Achievements": "2023-07-12T03:24:55.9897895+00:00",
+  "LastChanged_Achievements": "2023-07-12T04:05:36.4267834+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:22.0293515+00:00",
-  "LastUpdate_Ratings": "2023-07-12T03:17:36.7638664+00:00",
-  "LastUpdate_Achievements": "2023-07-12T03:24:55.9898442+00:00"
+  "LastUpdate_Ratings": "2023-07-12T03:58:33.4706139+00:00",
+  "LastUpdate_Achievements": "2023-07-12T04:05:36.4268223+00:00"
 }

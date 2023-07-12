@@ -6,14 +6,14 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~365,351 |
+| First Step | 70.00% | ~365,352 |
 | Now You're Talking | 62.00% | ~323,597 |
 | Steel Yourself | 62.00% | ~323,597 |
-| Window Dressing | 50.00% | ~260,965 |
+| Window Dressing | 50.00% | ~260,966 |
 | Trigger Happy | 46.00% | ~240,088 |
-| Riverborn | 45.00% | ~234,868 |
-| Starry Eyed | 34.00% | ~177,456 |
-| Poking Around | 34.00% | ~177,456 |
+| Riverborn | 45.00% | ~234,869 |
+| Starry Eyed | 34.00% | ~177,457 |
+| Poking Around | 34.00% | ~177,457 |
 | Talk of the Town | 24.00% | ~125,263 |
 | AAARR! | 23.00% | ~120,044 |
 | Hello Darkness | 23.00% | ~120,044 |
@@ -38,10 +38,10 @@ Number of Ratings: 617  (23.09.2022)
 | Mind the Moose | 6.00% | ~31,316 |
 | Dressed to Kill | 6.00% | ~31,316 |
 | Beast Mode | 6.00% | ~31,316 |
-| Oh, Romeo! | 5.00% | ~26,096 |
-| Noble Intentions | 5.00% | ~26,096 |
-| Rising Star | 5.00% | ~26,096 |
-| Slime Slayer | 5.00% | ~26,096 |
+| Oh, Romeo! | 5.00% | ~26,097 |
+| Noble Intentions | 5.00% | ~26,097 |
+| Rising Star | 5.00% | ~26,097 |
+| Slime Slayer | 5.00% | ~26,097 |
 | Privacy, Please! | 4.00% | ~20,877 |
 | Silky Smooth | 4.00% | ~20,877 |
 | Hash It Over | 4.00% | ~20,877 |
@@ -64,8 +64,8 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,566 |
 | Point Taken | 0.10% | ~522 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 521,930 (Ranked 29)  
-Completed: 442 (0.08%) (Ranked 192)  
+Progressed: 521,931 (Ranked 29)  
+Completed: 442 (0.08%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -147,7 +147,7 @@ Completed: 442 (0.08%) (Ranked 192)
 | 2023-07-09 | 521,765 | 442 |
 | 2023-07-10 | 521,835 | 442 |
 | 2023-07-11 | 521,915 | 442 |
-| 2023-07-12 | 521,930 | 442 |
+| 2023-07-12 | 521,931 | 442 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

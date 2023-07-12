@@ -1,26 +1,26 @@
 # Farming Simulator 22
 [Store](https://store.epicgames.com/en-US/p/farming-simulator-22)  
 [View Rawdata](../../db/f/farming_simulator_22.json)  
-Rating: 4.70 (Ranked 196)  
+Rating: 4.70 (Ranked 195)  
 Number of Ratings: 7,683  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 76.00% | ~34,452 |
-| I read Shakespeare and stuff | 64.00% | ~29,012 |
-| Just a sprinkle | 63.00% | ~28,559 |
+| Own use | 76.00% | ~34,453 |
+| I read Shakespeare and stuff | 64.00% | ~29,013 |
+| Just a sprinkle | 63.00% | ~28,560 |
 | I'm stumped | 61.00% | ~27,653 |
 | Plant get enough | 61.00% | ~27,653 |
 | This is just my weekend vehicle | 58.00% | ~26,293 |
 | It's just the beginning | 58.00% | ~26,293 |
 | Hard work pays off | 53.00% | ~24,026 |
-| It's never too late to farm | 48.00% | ~21,759 |
-| All out of Land | 44.00% | ~19,946 |
+| It's never too late to farm | 48.00% | ~21,760 |
+| All out of Land | 44.00% | ~19,947 |
 | Field Trip | 43.00% | ~19,493 |
 | I like to switch it up | 40.00% | ~18,133 |
-| Help me to help you | 38.00% | ~17,226 |
+| Help me to help you | 38.00% | ~17,227 |
 | Ultimutt Pawesomeness | 28.00% | ~12,693 |
-| Van Gogh | 26.00% | ~11,786 |
+| Van Gogh | 26.00% | ~11,787 |
 | You wood not believe it | 21.00% | ~9,520 |
 | Vehicle fleet | 21.00% | ~9,520 |
 | The plot thickens | 16.00% | ~7,253 |
@@ -28,7 +28,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | Long haul | 16.00% | ~7,253 |
 | Clucky Streak | 15.00% | ~6,800 |
 | Large-scale supplier | 15.00% | ~6,800 |
-| That's a wrap | 14.00% | ~6,346 |
+| That's a wrap | 14.00% | ~6,347 |
 | Fix me up | 13.00% | ~5,893 |
 | Rock on | 12.00% | ~5,440 |
 | It's sow easy | 11.00% | ~4,987 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~181 |
 | Raisin the stakes | 0.30% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,332 (Ranked 87)  
+Progressed: 45,333 (Ranked 87)  
 Completed: 5 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 5 (0.01%) (Ranked 223)
 | 2023-07-09 | 45,253 | 5 |
 | 2023-07-10 | 45,294 | 5 |
 | 2023-07-11 | 45,330 | 5 |
-| 2023-07-12 | 45,332 | 5 |
+| 2023-07-12 | 45,333 | 5 |
 ## Awards
 Max (Great for Beginners): 4,518  (Ranked 71)  
 Sum: 38,043 (Ranked 31)  

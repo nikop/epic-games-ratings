@@ -2,13 +2,13 @@
   "ID": "87b7ded137594cbbbe7b772826ec3289",
   "Name": "Aliens: Dark Descent",
   "ProductSlug": "aliens-dark-descent",
-  "Ranking_Rating": 654,
+  "Ranking_Rating": 653,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -2485,9 +2485,9 @@
       "ID": "ACH_MARINE_PROSTHESIS",
       "SetID": "816efe",
       "Name": "Chalk It Up To Experience",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_MAX_ALL_CLASSES",
@@ -2573,9 +2573,9 @@
       "ID": "ACH_MISSION_05",
       "SetID": "816efe",
       "Name": "Where It All Begun",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 872
+      "UsersEstimate": 900
     },
     {
       "ID": "ACH_MISSION_06",
@@ -2718,8 +2718,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-11T20:59:20.9477348+00:00",
-  "LastChanged_Achievements": "2023-07-12T03:26:36.8281568+00:00",
+  "LastChanged_Achievements": "2023-07-12T04:06:59.6286797+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:32.529009+00:00",
-  "LastUpdate_Ratings": "2023-07-12T03:19:29.4908433+00:00",
-  "LastUpdate_Achievements": "2023-07-12T03:26:36.8282392+00:00"
+  "LastUpdate_Ratings": "2023-07-12T04:00:11.9722993+00:00",
+  "LastUpdate_Achievements": "2023-07-12T04:06:59.6287192+00:00"
 }

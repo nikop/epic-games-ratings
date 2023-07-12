@@ -6,9 +6,9 @@ Rating: 4.87 (Ranked 24)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Cream of the Crop | 1.00% | ~34 |
+| Thanks for the free chip, Peppermint! | 1.00% | ~34 |
 | NOW we got a kickass hideout! | 1.00% | ~20 |
 | The Negotiator | 0.90% | ~31 |
-| Thanks for the free chip, Peppermint! | 0.90% | ~31 |
 | I play my own way! | 0.90% | ~31 |
 | Whoa! There's ANOTHER health bar!? | 0.90% | ~31 |
 | Kissing the sky! | 0.90% | ~31 |

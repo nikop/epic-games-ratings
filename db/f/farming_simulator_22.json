@@ -2,13 +2,13 @@
   "ID": "308cbcb523ad4937a8c509d10e9b688a",
   "Name": "Farming Simulator 22",
   "ProductSlug": "farming-simulator-22",
-  "Ranking_Rating": 196,
+  "Ranking_Rating": 195,
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 31,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -6627,7 +6627,7 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 45332,
+  "EOS_Progressed": 45333,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 329,
   "EOS_NewCompleters": 0,
@@ -13762,6 +13762,11 @@
       "Time": "2023-07-12T03:21:21.1255173+00:00",
       "NumProgressed": 45332,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-12T04:02:12.1681559+00:00",
+      "NumProgressed": 45333,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 43,
@@ -13853,7 +13858,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 29012
+      "UsersEstimate": 29013
     },
     {
       "ID": "CutTree",
@@ -13925,7 +13930,7 @@
       "Name": "Own use",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 34452
+      "UsersEstimate": 34453
     },
     {
       "ID": "HorseJumps",
@@ -13957,7 +13962,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 21759
+      "UsersEstimate": 21760
     },
     {
       "ID": "Mission",
@@ -13973,7 +13978,7 @@
       "Name": "Help me to help you",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 17226
+      "UsersEstimate": 17227
     },
     {
       "ID": "Money",
@@ -14005,7 +14010,7 @@
       "Name": "All out of Land",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 19946
+      "UsersEstimate": 19947
     },
     {
       "ID": "NumProductionPoints",
@@ -14061,7 +14066,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 28559
+      "UsersEstimate": 28560
     },
     {
       "ID": "Stones",
@@ -14093,7 +14098,7 @@
       "Name": "Van Gogh",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 11786
+      "UsersEstimate": 11787
     },
     {
       "ID": "VehicleRepair",
@@ -14109,22 +14114,22 @@
       "Name": "That\u0027s a wrap",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 6346
+      "UsersEstimate": 6347
     }
   ],
   "AchievementSets": [
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 45332,
+      "Progressed": 45333,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-07-11T22:00:56.1126938+00:00",
-  "LastChanged_Achievements": "2023-07-12T03:21:21.1255168+00:00",
+  "LastChanged_Achievements": "2023-07-12T04:02:12.1681555+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:57.7938394+00:00",
-  "LastUpdate_Ratings": "2023-07-12T03:19:54.1302165+00:00",
-  "LastUpdate_Achievements": "2023-07-12T03:21:21.1256075+00:00"
+  "LastUpdate_Ratings": "2023-07-12T04:00:34.1649236+00:00",
+  "LastUpdate_Achievements": "2023-07-12T04:02:12.168216+00:00"
 }

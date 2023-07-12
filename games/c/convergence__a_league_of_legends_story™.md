@@ -23,12 +23,12 @@
 | Time Flies | 13.00% | ~98 |
 | The Harder They Fall | 13.00% | ~98 |
 | No, Thanks! | 13.00% | ~98 |
+| Golem Chaser | 13.00% | ~98 |
 | Fast Learner | 13.00% | ~98 |
 | Check Your Pulse | 13.00% | ~98 |
 | Immaculate Aim | 13.00% | ~98 |
 | Like Clockwork | 12.00% | ~90 |
 | Honest Mistake | 12.00% | ~90 |
-| Golem Chaser | 12.00% | ~90 |
 | Right On Time | 11.00% | ~83 |
 | Street Style | 11.00% | ~83 |
 | Whiz Kid | 10.00% | ~75 |

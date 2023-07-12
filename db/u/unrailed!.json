@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 24,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-04-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-23T00:00:00+00:00",
@@ -2474,9 +2474,9 @@
       "Count": 143
     }
   ],
-  "EOS_Progressed": 617981,
+  "EOS_Progressed": 617985,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 3224,
+  "EOS_NewPlayers": 3222,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11319,6 +11319,11 @@
       "Time": "2023-07-12T03:21:51.4197427+00:00",
       "NumProgressed": 617981,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-07-12T04:03:17.6779165+00:00",
+      "NumProgressed": 617985,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -11346,7 +11351,7 @@
       "Name": "Voyager",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 18539
+      "UsersEstimate": 18540
     },
     {
       "ID": "_01_03_DISTANCE_1000_EASY",
@@ -11370,7 +11375,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 92697
+      "UsersEstimate": 92698
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -11386,7 +11391,7 @@
       "Name": "Advanced Voyager",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 18539
+      "UsersEstimate": 18540
     },
     {
       "ID": "_01_08_DISTANCE_1000_MEDIUM",
@@ -11410,7 +11415,7 @@
       "Name": "Expert Stroller",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 18539
+      "UsersEstimate": 18540
     },
     {
       "ID": "_01_11_DISTANCE_200_HARD",
@@ -11458,7 +11463,7 @@
       "Name": "Orient Express",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 18539
+      "UsersEstimate": 18540
     },
     {
       "ID": "_01_22_TRACKS_2000",
@@ -11578,7 +11583,7 @@
       "Name": "Incurious",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 92697
+      "UsersEstimate": 92698
     },
     {
       "ID": "_03_01_MOJAVE_COURIER",
@@ -11738,22 +11743,22 @@
       "Name": "Saved by Nausica\u00E4",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 18539
+      "UsersEstimate": 18540
     }
   ],
   "AchievementSets": [
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 617981,
+      "Progressed": 617985,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-07-10T20:58:04.2941512+00:00",
-  "LastChanged_Achievements": "2023-07-12T03:21:51.4197422+00:00",
+  "LastChanged_Achievements": "2023-07-12T04:03:17.6779161+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:40.6423147+00:00",
-  "LastUpdate_Ratings": "2023-07-12T03:17:02.3438255+00:00",
-  "LastUpdate_Achievements": "2023-07-12T03:21:51.4198498+00:00"
+  "LastUpdate_Ratings": "2023-07-12T03:58:01.9942972+00:00",
+  "LastUpdate_Achievements": "2023-07-12T04:03:17.6779957+00:00"
 }

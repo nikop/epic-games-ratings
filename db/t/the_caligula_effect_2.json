@@ -2,13 +2,13 @@
   "ID": "380b93eff8d14bf5b7ba9e39979af8f3",
   "Name": "The Caligula Effect 2",
   "ProductSlug": "the-caligula-effect-2-a51f60",
-  "Ranking_Rating": 643,
+  "Ranking_Rating": 642,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 106,
   "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-06-23T03:00:00+00:00",
     "PcReleaseDate": "2022-06-23T03:00:00+00:00",
@@ -504,8 +504,8 @@
   "FirstSeen": "2022-07-22T20:19:58.3140985+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.7038898+00:00",
   "LastChanged": "2023-03-31T05:57:16.8033506+00:00",
-  "LastChanged_Achievements": "2023-07-12T03:23:21.9325114+00:00",
+  "LastChanged_Achievements": "2023-07-12T04:04:18.5447882+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:19:57.8910463+00:00",
-  "LastUpdate_Ratings": "2023-07-12T03:17:12.4803704+00:00",
-  "LastUpdate_Achievements": "2023-07-12T03:23:21.9325528+00:00"
+  "LastUpdate_Ratings": "2023-07-12T03:58:11.2549162+00:00",
+  "LastUpdate_Achievements": "2023-07-12T04:04:18.5448241+00:00"
 }

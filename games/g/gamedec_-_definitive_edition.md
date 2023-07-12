@@ -6,9 +6,9 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~66,296 |
+| I will finish what you started | 28.00% | ~66,297 |
 | Powergamer | 27.00% | ~63,929 |
-| Barely scratched the surface | 25.00% | ~59,193 |
+| Barely scratched the surface | 25.00% | ~59,194 |
 | Write that down | 24.00% | ~56,826 |
 | Guns, lots of guns | 12.00% | ~28,413 |
 | Collector | 11.00% | ~26,045 |
@@ -26,14 +26,14 @@ Number of Ratings: 33  (23.09.2022)
 | So you like to read? | 4.00% | ~9,471 |
 | I like to sniff around | 3.00% | ~7,103 |
 | Mind reader | 3.00% | ~7,103 |
-| Gentleman's classic | 2.00% | ~4,735 |
-| Hoarder | 2.00% | ~4,735 |
-| Is that a rift? | 2.00% | ~4,735 |
-| It's alive! | 2.00% | ~4,735 |
-| Enjoy the beach | 2.00% | ~4,735 |
-| Rinse and repeat | 2.00% | ~4,735 |
-| Mama, I'm a criminal | 2.00% | ~4,735 |
-| Never gonna give you up | 2.00% | ~4,735 |
+| Gentleman's classic | 2.00% | ~4,736 |
+| Hoarder | 2.00% | ~4,736 |
+| Is that a rift? | 2.00% | ~4,736 |
+| It's alive! | 2.00% | ~4,736 |
+| Enjoy the beach | 2.00% | ~4,736 |
+| Rinse and repeat | 2.00% | ~4,736 |
+| Mama, I'm a criminal | 2.00% | ~4,736 |
+| Never gonna give you up | 2.00% | ~4,736 |
 | A muscle to rely on | 1.00% | ~2,368 |
 | Catnip | 1.00% | ~2,368 |
 | I am in great pain, please help me | 1.00% | ~2,368 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~474 |
 | Memory 5 | 0.10% | ~237 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,773 (Ranked 45)  
+Progressed: 236,775 (Ranked 45)  
 Completed: 7 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 7 (0.00%) (Ranked 237)
 | 2023-07-09 | 236,467 | 7 |
 | 2023-07-10 | 236,612 | 7 |
 | 2023-07-11 | 236,753 | 7 |
-| 2023-07-12 | 236,773 | 7 |
+| 2023-07-12 | 236,775 | 7 |
 ## Awards
 Max (Character Customization): 74  (Ranked 363)  
 Sum: 74 (Ranked 425)  

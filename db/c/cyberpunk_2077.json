@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 161,
   "Ranking_EOS_NewPlayers": 43,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -8649,10 +8649,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 191009,
       "NumberOfAwardsMax": 72863
+    },
+    {
+      "Time": "2023-07-12T03:58:28.0926146+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 191069,
+      "NumberOfAwardsMax": 72863
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 191009,
+  "NumberOfAwards": 191069,
   "NumberOfAwardsMax": 72863,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8666,7 +8672,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 46814
+      "Count": 46874
     },
     {
       "Text": "This game has Diverse Characters",
@@ -8729,9 +8735,9 @@
       "Count": 5298
     }
   ],
-  "EOS_Progressed": 865128,
+  "EOS_Progressed": 865129,
   "EOS_Completed": 1856,
-  "EOS_NewPlayers": 1416,
+  "EOS_NewPlayers": 1414,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -17629,6 +17635,11 @@
       "Time": "2023-07-12T03:26:38.7783671+00:00",
       "NumProgressed": 865128,
       "NumCompleted": 1856
+    },
+    {
+      "Time": "2023-07-12T04:07:01.2164113+00:00",
+      "NumProgressed": 865129,
+      "NumCompleted": 1856
     }
   ],
   "TotalAchievements": 44,
@@ -17656,7 +17667,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 138420
+      "UsersEstimate": 138421
     },
     {
       "ID": "Cyberjunkie",
@@ -17856,7 +17867,7 @@
       "Name": "The Fool",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 588287
+      "UsersEstimate": 588288
     },
     {
       "ID": "TheHermit",
@@ -17904,7 +17915,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 224933
+      "UsersEstimate": 224934
     },
     {
       "ID": "TheWorld",
@@ -17991,15 +18002,15 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 865128,
+      "Progressed": 865129,
       "Completed": 1856
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-07-11T21:58:28.0927078+00:00",
-  "LastChanged_Achievements": "2023-07-12T03:26:38.7783664+00:00",
+  "LastChanged": "2023-07-12T03:58:28.0926145+00:00",
+  "LastChanged_Achievements": "2023-07-12T04:07:01.2164109+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:16.9313784+00:00",
-  "LastUpdate_Ratings": "2023-07-12T03:17:30.5525137+00:00",
-  "LastUpdate_Achievements": "2023-07-12T03:26:38.7784632+00:00"
+  "LastUpdate_Ratings": "2023-07-12T03:58:28.0926151+00:00",
+  "LastUpdate_Achievements": "2023-07-12T04:07:01.216481+00:00"
 }

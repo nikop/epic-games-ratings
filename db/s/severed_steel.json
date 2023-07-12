@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 37,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-09-17T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -278,9 +278,9 @@
       "Count": 185
     }
   ],
-  "EOS_Progressed": 424056,
+  "EOS_Progressed": 424061,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 1888,
+  "EOS_NewPlayers": 1890,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9178,6 +9178,11 @@
       "Time": "2023-07-12T03:22:31.8110341+00:00",
       "NumProgressed": 424056,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-07-12T04:03:44.3466673+00:00",
+      "NumProgressed": 424061,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 52,
@@ -9197,7 +9202,7 @@
       "Name": "100 KILLS",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 59368
+      "UsersEstimate": 59369
     },
     {
       "ID": "200_HEADSHOTS HEADSHOTS (0-200)",
@@ -9205,7 +9210,7 @@
       "Name": "200 HEADSHOTS",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 33924
+      "UsersEstimate": 33925
     },
     {
       "ID": "50_HEADSHOTS HEADSHOTS (0-50)",
@@ -9213,7 +9218,7 @@
       "Name": "50 HEADSHOTS",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 55127
+      "UsersEstimate": 55128
     },
     {
       "ID": "BIGUPS",
@@ -9269,7 +9274,7 @@
       "Name": "FINISHED CHAPTER 3",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 25443
+      "UsersEstimate": 25444
     },
     {
       "ID": "CHAPTER4",
@@ -9277,7 +9282,7 @@
       "Name": "FINISHED CHAPTER 4",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 25443
+      "UsersEstimate": 25444
     },
     {
       "ID": "CHAPTER5",
@@ -9604,7 +9609,7 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 424056,
+      "Progressed": 424061,
       "Completed": 38
     }
   ],
@@ -9612,8 +9617,8 @@
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "LastChanged": "2023-07-04T08:00:18.0682194+00:00",
-  "LastChanged_Achievements": "2023-07-12T03:22:31.8110337+00:00",
+  "LastChanged_Achievements": "2023-07-12T04:03:44.3466668+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:44.1135221+00:00",
-  "LastUpdate_Ratings": "2023-07-12T03:19:40.1254455+00:00",
-  "LastUpdate_Achievements": "2023-07-12T03:22:31.8111339+00:00"
+  "LastUpdate_Ratings": "2023-07-12T04:00:21.5164885+00:00",
+  "LastUpdate_Achievements": "2023-07-12T04:03:44.3467431+00:00"
 }

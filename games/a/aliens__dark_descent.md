@@ -1,7 +1,7 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.43 (Ranked 654)  
+Rating: 4.43 (Ranked 653)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -20,8 +20,8 @@ Rating: 4.43 (Ranked 654)
 | Damn Dude, You Gotta Lose Some Weight! | 39.00% | ~1,097 |
 | Harper's Hell | 38.00% | ~1,069 |
 | Making a Stand | 36.00% | ~1,013 |
+| Where It All Begun | 32.00% | ~900 |
 | Recouped Investment | 32.00% | ~900 |
-| Where It All Begun | 31.00% | ~872 |
 | Omelette Du Fromage | 30.00% | ~844 |
 | Living Nightmare | 24.00% | ~675 |
 | The More The Merrier | 24.00% | ~675 |
@@ -47,7 +47,7 @@ Rating: 4.43 (Ranked 654)
 | Hardened In The Heat Of Battle | 4.00% | ~113 |
 | Fair And Square | 1.00% | ~28 |
 | Archivist | 0.60% | ~17 |
-| Chalk It Up To Experience | 0.40% | ~11 |
+| Chalk It Up To Experience | 0.50% | ~14 |
 | Perfect Organism | 0.30% | ~8 |
 | This Ain't No Picnic | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)

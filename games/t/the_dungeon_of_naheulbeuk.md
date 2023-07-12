@@ -6,23 +6,23 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 58.00% | ~104,200 |
-| Where's that freaking Dwarf? | 46.00% | ~82,641 |
-| GG EZ | 27.00% | ~48,507 |
-| Speedrun | 26.00% | ~46,710 |
-| Déjà vu | 20.00% | ~35,931 |
-| Sock! SOCK! | 15.00% | ~26,948 |
-| DM intervention | 12.00% | ~21,559 |
-| A beer, two curses, three companions | 7.00% | ~12,576 |
-| Fireproof Wizardess | 7.00% | ~12,576 |
-| Livin' in a dwarven paradise | 5.00% | ~8,983 |
-| Way of the Wimp | 5.00% | ~8,983 |
-| The plot thickens... At the tavern | 4.00% | ~7,186 |
-| The Woman in the High Castle | 3.00% | ~5,390 |
-| Team Building Exercise | 3.00% | ~5,390 |
-| The demons' feast | 2.00% | ~3,593 |
-| Res Judicata | 2.00% | ~3,593 |
-| I am the night | 2.00% | ~3,593 |
+| Alt+F4 | 58.00% | ~104,225 |
+| Where's that freaking Dwarf? | 46.00% | ~82,661 |
+| GG EZ | 27.00% | ~48,518 |
+| Speedrun | 26.00% | ~46,721 |
+| Déjà vu | 20.00% | ~35,940 |
+| Sock! SOCK! | 15.00% | ~26,955 |
+| DM intervention | 12.00% | ~21,564 |
+| A beer, two curses, three companions | 7.00% | ~12,579 |
+| Fireproof Wizardess | 7.00% | ~12,579 |
+| Livin' in a dwarven paradise | 5.00% | ~8,985 |
+| Way of the Wimp | 5.00% | ~8,985 |
+| The plot thickens... At the tavern | 4.00% | ~7,188 |
+| The Woman in the High Castle | 3.00% | ~5,391 |
+| Team Building Exercise | 3.00% | ~5,391 |
+| The demons' feast | 2.00% | ~3,594 |
+| Res Judicata | 2.00% | ~3,594 |
+| I am the night | 2.00% | ~3,594 |
 | Shiny and Crôm | 1.00% | ~1,797 |
 | The Great Library | 1.00% | ~1,797 |
 | Torture and Sensibility | 1.00% | ~1,797 |
@@ -31,8 +31,8 @@ Number of Ratings: 118  (23.09.2022)
 | Thieves' Guild Accreditation | 1.00% | ~1,797 |
 | Oh, when I'll be level 10... | 1.00% | ~1,797 |
 | The beards of change | 0.90% | ~1,617 |
-| Lust and Debauchery | 0.80% | ~1,437 |
-| Material Girl | 0.80% | ~1,437 |
+| Lust and Debauchery | 0.80% | ~1,438 |
+| Material Girl | 0.80% | ~1,438 |
 | Look but don't touch | 0.70% | ~1,258 |
 | Gargantua | 0.70% | ~1,258 |
 | In Navalu's footsteps | 0.70% | ~1,258 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 179,655 (Ranked 58)  
+Progressed: 179,698 (Ranked 58)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-09 | 174,947 | 0 |
 | 2023-07-10 | 177,355 | 0 |
 | 2023-07-11 | 179,429 | 0 |
-| 2023-07-12 | 179,655 | 0 |
+| 2023-07-12 | 179,698 | 0 |
 ## Awards
 Max (Character Customization): 92  (Ranked 343)  
 Sum: 92 (Ranked 414)  

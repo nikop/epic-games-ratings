@@ -6,12 +6,12 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 75.00% | ~2,276 |
-| Ready for Winter | 64.00% | ~1,942 |
+| Venture Outward | 75.00% | ~2,277 |
+| Ready for Winter | 64.00% | ~1,943 |
 | Ready for Summer | 51.00% | ~1,548 |
-| Cordon Bleu | 44.00% | ~1,335 |
+| Cordon Bleu | 44.00% | ~1,336 |
 | Tapped! | 37.00% | ~1,123 |
-| Eureka | 32.00% | ~971 |
+| Eureka | 32.00% | ~972 |
 | Scourge Slayer | 26.00% | ~789 |
 | Exceptional Skill | 23.00% | ~698 |
 | Science, Troglodyte! | 23.00% | ~698 |
@@ -27,9 +27,9 @@ Number of Ratings: 266  (23.09.2022)
 | Gift from the Ancestors | 8.00% | ~243 |
 | House of Cards | 8.00% | ~243 |
 | Magic is a science | 8.00% | ~243 |
-| Let ‘em eat magma! | 7.00% | ~212 |
-| The power of ambition | 7.00% | ~212 |
-| The stuff of legends. | 7.00% | ~212 |
+| Let ‘em eat magma! | 7.00% | ~213 |
+| The power of ambition | 7.00% | ~213 |
+| The stuff of legends. | 7.00% | ~213 |
 | Blood and justice | 6.00% | ~182 |
 | Hold my Mead and Watch This | 6.00% | ~182 |
 | Ancestor's Pride | 4.00% | ~121 |
@@ -49,8 +49,8 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~9 |
 | The Absolute Pinnacle. | 0.30% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,035 (Ranked 149)  
-Completed: 2 (0.07%) (Ranked 194)  
+Progressed: 3,036 (Ranked 149)  
+Completed: 3 (0.10%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -130,6 +130,7 @@ Completed: 2 (0.07%) (Ranked 194)
 | 2023-07-09 | 3,022 | 2 |
 | 2023-07-10 | 3,032 | 2 |
 | 2023-07-11 | 3,035 | 2 |
+| 2023-07-12 | 3,036 | 3 |
 ## Awards
 Max (Highly Recommended): 33  (Ranked 442)  
 Sum: 241 (Ranked 349)  
