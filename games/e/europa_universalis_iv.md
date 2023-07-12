@@ -1,36 +1,36 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 217)  
+Rating: 4.69 (Ranked 216)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,194 |
-| That's a Grand Army | 8.00% | ~5,506 |
-| That is mine! | 8.00% | ~5,506 |
-| Victorious! | 8.00% | ~5,506 |
-| Brothers in Arms | 6.00% | ~4,129 |
-| That's a Grand Navy | 6.00% | ~4,129 |
-| Seriously?! | 6.00% | ~4,129 |
-| For the Glory | 5.00% | ~3,441 |
-| Cold War | 4.00% | ~2,753 |
-| True Catholic | 4.00% | ~2,753 |
+| Until death do us apart | 9.00% | ~6,196 |
+| That's a Grand Army | 8.00% | ~5,507 |
+| That is mine! | 8.00% | ~5,507 |
+| Victorious! | 8.00% | ~5,507 |
+| Brothers in Arms | 6.00% | ~4,130 |
+| That's a Grand Navy | 6.00% | ~4,130 |
+| Seriously?! | 6.00% | ~4,130 |
+| For the Glory | 5.00% | ~3,442 |
+| Cold War | 4.00% | ~2,754 |
+| True Catholic | 4.00% | ~2,754 |
 | Defender of the Faith | 3.00% | ~2,065 |
 | It's all about luck | 3.00% | ~2,065 |
 | It's all about the money | 3.00% | ~2,065 |
 | Respected | 3.00% | ~2,065 |
 | The Princess is in this Castle | 3.00% | ~2,065 |
 | Truly Divine Ruler | 3.00% | ~2,065 |
-| Agressive Expander | 2.00% | ~1,376 |
-| Blockader | 2.00% | ~1,376 |
-| Combined Arms | 2.00% | ~1,376 |
-| Double the Love | 2.00% | ~1,376 |
-| Gentle Persuasion | 2.00% | ~1,376 |
-| My armies are invincible! | 2.00% | ~1,376 |
-| Queen of Conquest | 2.00% | ~1,376 |
-| Royal Authority | 2.00% | ~1,376 |
-| Total Control | 2.00% | ~1,376 |
+| Agressive Expander | 2.00% | ~1,377 |
+| Blockader | 2.00% | ~1,377 |
+| Combined Arms | 2.00% | ~1,377 |
+| Double the Love | 2.00% | ~1,377 |
+| Gentle Persuasion | 2.00% | ~1,377 |
+| My armies are invincible! | 2.00% | ~1,377 |
+| Queen of Conquest | 2.00% | ~1,377 |
+| Royal Authority | 2.00% | ~1,377 |
+| Total Control | 2.00% | ~1,377 |
 | All That's Thine Shall Be Mine | 1.00% | ~688 |
 | Azur semé de lis or | 1.00% | ~688 |
 | Bright Spark | 1.00% | ~688 |
@@ -40,8 +40,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Golden Empire | 1.00% | ~688 |
 | The Five Colonies | 1.00% | ~688 |
 | This navy can take it all | 1.00% | ~688 |
-| Isn't this the way to India? | 0.90% | ~619 |
-| Market Control | 0.90% | ~619 |
+| Isn't this the way to India? | 0.90% | ~620 |
+| Market Control | 0.90% | ~620 |
 | Down Under | 0.80% | ~551 |
 | Trustworthy | 0.80% | ~551 |
 | Electable! | 0.70% | ~482 |
@@ -71,17 +71,17 @@ Number of Ratings: 8,414  (23.09.2022)
 | Tear Down This Wall | 0.40% | ~275 |
 | The Continuation of Diplomacy | 0.40% | ~275 |
 | Wonderful | 0.40% | ~275 |
-| A Decent Reserve | 0.30% | ~206 |
-| A Pile of Gold | 0.30% | ~206 |
-| Grand Duchy | 0.30% | ~206 |
-| Multiculturalism | 0.30% | ~206 |
-| No Pirates in my Caribbean | 0.30% | ~206 |
-| Not so sad a state... | 0.30% | ~206 |
-| The Chrysanthemum Throne | 0.30% | ~206 |
-| Three Trivial Tributary Tribes | 0.30% | ~206 |
-| Traditional Player | 0.30% | ~206 |
-| Vasa or Wettin? | 0.30% | ~206 |
-| World Discoverer | 0.30% | ~206 |
+| A Decent Reserve | 0.30% | ~207 |
+| A Pile of Gold | 0.30% | ~207 |
+| Grand Duchy | 0.30% | ~207 |
+| Multiculturalism | 0.30% | ~207 |
+| No Pirates in my Caribbean | 0.30% | ~207 |
+| Not so sad a state... | 0.30% | ~207 |
+| The Chrysanthemum Throne | 0.30% | ~207 |
+| Three Trivial Tributary Tribes | 0.30% | ~207 |
+| Traditional Player | 0.30% | ~207 |
+| Vasa or Wettin? | 0.30% | ~207 |
+| World Discoverer | 0.30% | ~207 |
 | A Protected Market | 0.20% | ~138 |
 | AAA Credit | 0.20% | ~138 |
 | An early Reich | 0.20% | ~138 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,821 (Ranked 73)  
+Progressed: 68,841 (Ranked 73)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -444,7 +444,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-09 | 67,782 | 0 |
 | 2023-07-10 | 68,178 | 0 |
 | 2023-07-11 | 68,569 | 0 |
-| 2023-07-12 | 68,821 | 0 |
+| 2023-07-12 | 68,841 | 0 |
 ## Awards
 Max (Educational): 5,537  (Ranked 60)  
 Sum: 45,659 (Ranked 27)  

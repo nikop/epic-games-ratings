@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6785,
+  "EOS_Progressed": 6786,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -2628,6 +2628,11 @@
       "Time": "2023-07-12T16:00:54.2618072+00:00",
       "NumProgressed": 6785,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-07-12T19:01:10.3973081+00:00",
+      "NumProgressed": 6786,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 27,
@@ -2671,7 +2676,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3596
+      "UsersEstimate": 3597
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -2854,15 +2859,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6785,
+      "Progressed": 6786,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-07-12T18:03:06.5353175+00:00",
+  "LastChanged_Achievements": "2023-07-12T19:01:10.3973076+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:45.5061234+00:00",
-  "LastUpdate_Ratings": "2023-07-12T17:58:31.286733+00:00",
-  "LastUpdate_Achievements": "2023-07-12T18:03:06.5353546+00:00"
+  "LastUpdate_Ratings": "2023-07-12T18:57:52.9873159+00:00",
+  "LastUpdate_Achievements": "2023-07-12T19:01:10.3973325+00:00"
 }

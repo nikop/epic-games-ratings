@@ -34,22 +34,22 @@
 | Under One Roof | 17.00% | ~39 |
 | Established Fame | 17.00% | ~39 |
 | Cashflow Chief | 17.00% | ~39 |
+| Terrifically Trashed | 16.00% | ~37 |
 | Starred Dining | 15.00% | ~34 |
 | Boutique Benefits | 15.00% | ~34 |
-| Terrifically Trashed | 15.00% | ~34 |
 | Thrilled Tenants | 15.00% | ~34 |
 | Smooth Operator | 13.00% | ~30 |
 | Swimming in Surplus | 13.00% | ~30 |
 | 28 Days Later | 12.00% | ~28 |
+| Master of Puppets | 11.00% | ~25 |
 | Plaza Plan | 10.00% | ~23 |
-| Master of Puppets | 10.00% | ~23 |
 | First 100 Days | 9.00% | ~21 |
 | Aestheticly Pleased | 9.00% | ~21 |
 | Refined Palates | 9.00% | ~21 |
+| Phoning It In | 9.00% | ~21 |
 | Meet Me at HQ | 8.00% | ~18 |
 | Maximum Reuse | 8.00% | ~18 |
 | Revenue Royalty | 8.00% | ~18 |
-| Phoning It In | 8.00% | ~18 |
 | Pipe Up | 8.00% | ~18 |
 | I'm Busy Ruling | 7.00% | ~16 |
 | Careful Constructor | 7.00% | ~16 |

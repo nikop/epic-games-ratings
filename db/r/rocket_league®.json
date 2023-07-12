@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 2,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 2,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
     "PcReleaseDate": "2015-07-07T15:00:00+00:00",
@@ -5155,10 +5155,10 @@
       "Count": 338638
     }
   ],
-  "EOS_Progressed": 24709756,
+  "EOS_Progressed": 24710781,
   "EOS_Completed": 2107,
-  "EOS_NewPlayers": 117420,
-  "EOS_NewCompleters": 27,
+  "EOS_NewPlayers": 117421,
+  "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
     {
@@ -14170,6 +14170,11 @@
       "Time": "2023-07-12T18:04:29.0220238+00:00",
       "NumProgressed": 24709756,
       "NumCompleted": 2107
+    },
+    {
+      "Time": "2023-07-12T19:04:02.5378046+00:00",
+      "NumProgressed": 24710781,
+      "NumCompleted": 2107
     }
   ],
   "TotalAchievements": 88,
@@ -14181,7 +14186,7 @@
       "Name": "Virtuoso",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 24710
+      "UsersEstimate": 24711
     },
     {
       "ID": "1",
@@ -14189,7 +14194,7 @@
       "Name": "Stocked",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 6424537
+      "UsersEstimate": 6424803
     },
     {
       "ID": "10",
@@ -14197,7 +14202,7 @@
       "Name": "Grease Monkey",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 8154219
+      "UsersEstimate": 8154558
     },
     {
       "ID": "11",
@@ -14205,7 +14210,7 @@
       "Name": "Pitch Veteran",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 12601976
+      "UsersEstimate": 12602498
     },
     {
       "ID": "12",
@@ -14213,7 +14218,7 @@
       "Name": "Rider\u0027s Block",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 9883902
+      "UsersEstimate": 9884312
     },
     {
       "ID": "13",
@@ -14221,7 +14226,7 @@
       "Name": "Break Shot",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 7165829
+      "UsersEstimate": 7166126
     },
     {
       "ID": "14",
@@ -14229,7 +14234,7 @@
       "Name": "Turbocharger",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 15320049
+      "UsersEstimate": 15320684
     },
     {
       "ID": "15",
@@ -14237,7 +14242,7 @@
       "Name": "Drill Sergeant",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3212268
+      "UsersEstimate": 3212402
     },
     {
       "ID": "16",
@@ -14245,7 +14250,7 @@
       "Name": "Minute to Win it",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 12849073
+      "UsersEstimate": 12849606
     },
     {
       "ID": "17",
@@ -14253,7 +14258,7 @@
       "Name": "Speed Demon",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 12354878
+      "UsersEstimate": 12355390
     },
     {
       "ID": "18",
@@ -14261,7 +14266,7 @@
       "Name": "Pick-Me Up",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 20262000
+      "UsersEstimate": 20262840
     },
     {
       "ID": "19",
@@ -14269,7 +14274,7 @@
       "Name": "Wall-Crawler",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 14578756
+      "UsersEstimate": 14579361
     },
     {
       "ID": "2",
@@ -14277,7 +14282,7 @@
       "Name": "Far, Far Away...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 8401317
+      "UsersEstimate": 8401666
     },
     {
       "ID": "20",
@@ -14285,7 +14290,7 @@
       "Name": "Team Player",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 197678
+      "UsersEstimate": 197686
     },
     {
       "ID": "21",
@@ -14293,7 +14298,7 @@
       "Name": "SARPBC Forever",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 3459366
+      "UsersEstimate": 3459509
     },
     {
       "ID": "22",
@@ -14301,7 +14306,7 @@
       "Name": "Feather in Your Recap",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 2718073
+      "UsersEstimate": 2718186
     },
     {
       "ID": "23",
@@ -14309,7 +14314,7 @@
       "Name": "Winner",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 14578756
+      "UsersEstimate": 14579361
     },
     {
       "ID": "24",
@@ -14317,7 +14322,7 @@
       "Name": "Clean Sheet",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 14825854
+      "UsersEstimate": 14826469
     },
     {
       "ID": "25",
@@ -14325,7 +14330,7 @@
       "Name": "Triple Threat",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 16802634
+      "UsersEstimate": 16803331
     },
     {
       "ID": "26",
@@ -14333,7 +14338,7 @@
       "Name": "Double Up",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 12601976
+      "UsersEstimate": 12602498
     },
     {
       "ID": "27",
@@ -14341,7 +14346,7 @@
       "Name": "Singles Club",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 8895512
+      "UsersEstimate": 8895881
     },
     {
       "ID": "28",
@@ -14349,7 +14354,7 @@
       "Name": "Perfect Start",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 741293
+      "UsersEstimate": 741323
     },
     {
       "ID": "29",
@@ -14357,7 +14362,7 @@
       "Name": "Still A Show-Off",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 9142610
+      "UsersEstimate": 9142989
     },
     {
       "ID": "3",
@@ -14365,7 +14370,7 @@
       "Name": "Super Victorious",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 10131000
+      "UsersEstimate": 10131420
     },
     {
       "ID": "30",
@@ -14373,7 +14378,7 @@
       "Name": "Know the Drill",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 5683244
+      "UsersEstimate": 5683480
     },
     {
       "ID": "31",
@@ -14381,7 +14386,7 @@
       "Name": "Traveler",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 14825854
+      "UsersEstimate": 14826469
     },
     {
       "ID": "32",
@@ -14389,7 +14394,7 @@
       "Name": "Tinkerer",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 15072951
+      "UsersEstimate": 15073576
     },
     {
       "ID": "33",
@@ -14397,7 +14402,7 @@
       "Name": "First-Timer",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 18285219
+      "UsersEstimate": 18285978
     },
     {
       "ID": "34",
@@ -14405,7 +14410,7 @@
       "Name": "Barras Bravas",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 13096171
+      "UsersEstimate": 13096714
     },
     {
       "ID": "35",
@@ -14413,7 +14418,7 @@
       "Name": "Friendly",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 1482585
+      "UsersEstimate": 1482647
     },
     {
       "ID": "36",
@@ -14421,7 +14426,7 @@
       "Name": "Sky High",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 7660024
+      "UsersEstimate": 7660342
     },
     {
       "ID": "37",
@@ -14429,7 +14434,7 @@
       "Name": "All Fours",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 5683244
+      "UsersEstimate": 5683480
     },
     {
       "ID": "38",
@@ -14437,7 +14442,7 @@
       "Name": "Gladiator",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 9883902
+      "UsersEstimate": 9884312
     },
     {
       "ID": "39",
@@ -14445,7 +14450,7 @@
       "Name": "Winning is Winning",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 24710
+      "UsersEstimate": 24711
     },
     {
       "ID": "4",
@@ -14453,7 +14458,7 @@
       "Name": "Champion",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 123549
+      "UsersEstimate": 123554
     },
     {
       "ID": "40",
@@ -14461,7 +14466,7 @@
       "Name": "An Inch and 6.2 Miles",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3459366
+      "UsersEstimate": 3459509
     },
     {
       "ID": "41",
@@ -14469,7 +14474,7 @@
       "Name": "Ride or Die",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 4447756
+      "UsersEstimate": 4447941
     },
     {
       "ID": "42",
@@ -14477,7 +14482,7 @@
       "Name": "Don\u0027t Look Back",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 2223878
+      "UsersEstimate": 2223970
     },
     {
       "ID": "43",
@@ -14485,7 +14490,7 @@
       "Name": "Family, Not Friends",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 7660024
+      "UsersEstimate": 7660342
     },
     {
       "ID": "44",
@@ -14493,7 +14498,7 @@
       "Name": "Drift King",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 3953561
+      "UsersEstimate": 3953725
     },
     {
       "ID": "45",
@@ -14501,7 +14506,7 @@
       "Name": "Survival of the Fittest",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 98839
+      "UsersEstimate": 98843
     },
     {
       "ID": "46",
@@ -14509,7 +14514,7 @@
       "Name": "Heartbreaker",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 5436146
+      "UsersEstimate": 5436372
     },
     {
       "ID": "47",
@@ -14517,7 +14522,7 @@
       "Name": "Natural Progression",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1729683
+      "UsersEstimate": 1729755
     },
     {
       "ID": "48",
@@ -14525,7 +14530,7 @@
       "Name": "Throwback",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 4941951
+      "UsersEstimate": 4942156
     },
     {
       "ID": "49",
@@ -14533,7 +14538,7 @@
       "Name": "Hot Shot, Part Two",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1235488
+      "UsersEstimate": 1235539
     },
     {
       "ID": "5",
@@ -14541,7 +14546,7 @@
       "Name": "The Streak",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 5189049
+      "UsersEstimate": 5189264
     },
     {
       "ID": "50",
@@ -14549,7 +14554,7 @@
       "Name": "My World is Fire",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 988390
+      "UsersEstimate": 988431
     },
     {
       "ID": "51",
@@ -14557,7 +14562,7 @@
       "Name": "Spectacular",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 49420
+      "UsersEstimate": 49422
     },
     {
       "ID": "52",
@@ -14565,7 +14570,7 @@
       "Name": "Savage",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 98839
+      "UsersEstimate": 98843
     },
     {
       "ID": "53",
@@ -14573,7 +14578,7 @@
       "Name": "Ruthless",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1235488
+      "UsersEstimate": 1235539
     },
     {
       "ID": "54",
@@ -14581,7 +14586,7 @@
       "Name": "Psycho-Master Exploder",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 2718073
+      "UsersEstimate": 2718186
     },
     {
       "ID": "55",
@@ -14589,7 +14594,7 @@
       "Name": "Mad Scientist",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1235488
+      "UsersEstimate": 1235539
     },
     {
       "ID": "56",
@@ -14597,7 +14602,7 @@
       "Name": "Icing the Cake",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 1976780
+      "UsersEstimate": 1976862
     },
     {
       "ID": "57",
@@ -14605,7 +14610,7 @@
       "Name": "Left Wing, Right Wing",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 1482585
+      "UsersEstimate": 1482647
     },
     {
       "ID": "58",
@@ -14613,7 +14618,7 @@
       "Name": "Fast Break",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1729683
+      "UsersEstimate": 1729755
     },
     {
       "ID": "59",
@@ -14621,7 +14626,7 @@
       "Name": "Buzzer Beater",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1235488
+      "UsersEstimate": 1235539
     },
     {
       "ID": "6",
@@ -14629,7 +14634,7 @@
       "Name": "Helen\u0027s Pride",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 9636805
+      "UsersEstimate": 9637205
     },
     {
       "ID": "60",
@@ -14637,7 +14642,7 @@
       "Name": "Budding Artist",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 6918732
+      "UsersEstimate": 6919019
     },
     {
       "ID": "61",
@@ -14645,7 +14650,7 @@
       "Name": "One Better",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 4200659
+      "UsersEstimate": 4200833
     },
     {
       "ID": "62",
@@ -14653,7 +14658,7 @@
       "Name": "Certifiable",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2965171
+      "UsersEstimate": 2965294
     },
     {
       "ID": "63",
@@ -14661,7 +14666,7 @@
       "Name": "GG",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 9636805
+      "UsersEstimate": 9637205
     },
     {
       "ID": "64",
@@ -14669,7 +14674,7 @@
       "Name": "Trifecta",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 10625195
+      "UsersEstimate": 10625636
     },
     {
       "ID": "65",
@@ -14677,7 +14682,7 @@
       "Name": "Infinite Power!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 5436146
+      "UsersEstimate": 5436372
     },
     {
       "ID": "66",
@@ -14685,7 +14690,7 @@
       "Name": "Stopped Cold",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 1482585
+      "UsersEstimate": 1482647
     },
     {
       "ID": "67",
@@ -14693,7 +14698,7 @@
       "Name": "Sea Turtle",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 741293
+      "UsersEstimate": 741323
     },
     {
       "ID": "68",
@@ -14701,7 +14706,7 @@
       "Name": "Get Up, Mr. Bubbles!",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3212268
+      "UsersEstimate": 3212402
     },
     {
       "ID": "69",
@@ -14709,7 +14714,7 @@
       "Name": "Rocket Repleter",
       "Percentage": 29,
       "XP": 60,
-      "UsersEstimate": 7165829
+      "UsersEstimate": 7166126
     },
     {
       "ID": "7",
@@ -14717,7 +14722,7 @@
       "Name": "Car Collector",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 10131000
+      "UsersEstimate": 10131420
     },
     {
       "ID": "70",
@@ -14725,7 +14730,7 @@
       "Name": "Registered Voter",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 741293
+      "UsersEstimate": 741323
     },
     {
       "ID": "71",
@@ -14733,7 +14738,7 @@
       "Name": "Metaverse",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 49420
+      "UsersEstimate": 49422
     },
     {
       "ID": "72",
@@ -14741,7 +14746,7 @@
       "Name": "Brave the Elements",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 7412927
+      "UsersEstimate": 7413234
     },
     {
       "ID": "73",
@@ -14749,7 +14754,7 @@
       "Name": "Damage Control",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2223878
+      "UsersEstimate": 2223970
     },
     {
       "ID": "74",
@@ -14757,7 +14762,7 @@
       "Name": "Full Course",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 988390
+      "UsersEstimate": 988431
     },
     {
       "ID": "75",
@@ -14765,7 +14770,7 @@
       "Name": "Buckminster x10",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1976780
+      "UsersEstimate": 1976862
     },
     {
       "ID": "76",
@@ -14773,7 +14778,7 @@
       "Name": "Storm Trooper",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 10131000
+      "UsersEstimate": 10131420
     },
     {
       "ID": "77",
@@ -14781,7 +14786,7 @@
       "Name": "Good Times",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 12354878
+      "UsersEstimate": 12355390
     },
     {
       "ID": "78",
@@ -14789,7 +14794,7 @@
       "Name": "Swap Meet",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1235488
+      "UsersEstimate": 1235539
     },
     {
       "ID": "79",
@@ -14797,7 +14802,7 @@
       "Name": "Trade Secret",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 5683244
+      "UsersEstimate": 5683480
     },
     {
       "ID": "8",
@@ -14805,7 +14810,7 @@
       "Name": "Drops in the Bucket",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 10625195
+      "UsersEstimate": 10625636
     },
     {
       "ID": "80",
@@ -14813,7 +14818,7 @@
       "Name": "Rank Up",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 9142610
+      "UsersEstimate": 9142989
     },
     {
       "ID": "81",
@@ -14821,7 +14826,7 @@
       "Name": "Coming On Strong",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 11860683
+      "UsersEstimate": 11861175
     },
     {
       "ID": "82",
@@ -14829,7 +14834,7 @@
       "Name": "Join the Club!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 4447756
+      "UsersEstimate": 4447941
     },
     {
       "ID": "83",
@@ -14837,7 +14842,7 @@
       "Name": "Together is Better",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 5436146
+      "UsersEstimate": 5436372
     },
     {
       "ID": "84",
@@ -14845,7 +14850,7 @@
       "Name": "New Challenger",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 5436146
+      "UsersEstimate": 5436372
     },
     {
       "ID": "85",
@@ -14853,7 +14858,7 @@
       "Name": "People Person",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4694854
+      "UsersEstimate": 4695048
     },
     {
       "ID": "86",
@@ -14861,7 +14866,7 @@
       "Name": "Squad Goals",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 4447756
+      "UsersEstimate": 4447941
     },
     {
       "ID": "87",
@@ -14869,7 +14874,7 @@
       "Name": "Best of the Bunch",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 3953561
+      "UsersEstimate": 3953725
     },
     {
       "ID": "9",
@@ -14877,22 +14882,22 @@
       "Name": "Rocketeer",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 148259
+      "UsersEstimate": 148265
     }
   ],
   "AchievementSets": [
     {
       "ID": "db8gc6i",
       "IsBase": true,
-      "Progressed": 24709756,
+      "Progressed": 24710781,
       "Completed": 2107
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.1538752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.1822521+00:00",
   "LastChanged": "2023-07-11T22:59:39.4151102+00:00",
-  "LastChanged_Achievements": "2023-07-12T18:04:29.0220232+00:00",
+  "LastChanged_Achievements": "2023-07-12T19:04:02.5378039+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:41.0248397+00:00",
-  "LastUpdate_Ratings": "2023-07-12T17:59:50.8742086+00:00",
-  "LastUpdate_Achievements": "2023-07-12T18:04:29.0222325+00:00"
+  "LastUpdate_Ratings": "2023-07-12T18:59:12.9373915+00:00",
+  "LastUpdate_Achievements": "2023-07-12T19:04:02.5379304+00:00"
 }

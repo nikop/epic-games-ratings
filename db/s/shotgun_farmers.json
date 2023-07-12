@@ -835,9 +835,9 @@
       "ID": "ach_all_points_in_chicken_run",
       "SetID": "cmg602e",
       "Name": "Chick Magnet",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ach_crushed_by_supply_drop",
@@ -867,17 +867,17 @@
       "ID": "ach_fifteen_thousand_points",
       "SetID": "cmg602e",
       "Name": "15K",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "ach_first_first_blood",
       "SetID": "cmg602e",
       "Name": "First Blood",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 97
     },
     {
       "ID": "ach_first_harvest",
@@ -1115,9 +1115,9 @@
       "ID": "ach_sniperKillNoScope",
       "SetID": "cmg602e",
       "Name": "No Asperascope",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 83
+      "UsersEstimate": 85
     },
     {
       "ID": "ach_steal_x_gnomes",
@@ -1203,9 +1203,9 @@
       "ID": "ach_hit_player_with_bounce_grenade",
       "SetID": "bf10c8p",
       "Name": "Bouncemato",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ach_kill_pistol_with_pistol",
@@ -1219,9 +1219,9 @@
       "ID": "ach_kill_self_with_pumpkin",
       "SetID": "bf10c8p",
       "Name": "Oh My Gourd",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ach_perfect",
@@ -1299,9 +1299,9 @@
       "ID": "ach_waves_20",
       "SetID": "bf10c8p",
       "Name": "Amateur Survivor",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 43
     },
     {
       "ID": "ach_waves_30",
@@ -1434,8 +1434,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-07-12T18:05:28.1102017+00:00",
+  "LastChanged_Achievements": "2023-07-12T19:04:42.2908128+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:01.6150749+00:00",
-  "LastUpdate_Ratings": "2023-07-12T17:59:21.4705472+00:00",
-  "LastUpdate_Achievements": "2023-07-12T18:05:28.11028+00:00"
+  "LastUpdate_Ratings": "2023-07-12T18:58:47.2583791+00:00",
+  "LastUpdate_Achievements": "2023-07-12T19:04:42.2908734+00:00"
 }

@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 108,
+  "EOS_Progressed": 109,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -489,6 +489,11 @@
       "Time": "2023-07-12T17:04:25.2257682+00:00",
       "NumProgressed": 108,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-12T19:04:22.4191142+00:00",
+      "NumProgressed": 109,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -580,7 +585,7 @@
       "Name": "Endless 60 Seconds",
       "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ach_endless_c_60",
@@ -684,7 +689,7 @@
       "Name": "Won Spreader Zone",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_toosoon",
@@ -707,13 +712,13 @@
     {
       "ID": "5a4225j",
       "IsBase": true,
-      "Progressed": 108,
+      "Progressed": 109,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-06-02T21:05:45.273905+00:00",
-  "LastChanged_Achievements": "2023-07-12T18:04:48.7942215+00:00",
+  "LastChanged_Achievements": "2023-07-12T19:04:22.4191137+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:19.1257474+00:00",
-  "LastUpdate_Ratings": "2023-07-12T17:58:01.5192807+00:00",
-  "LastUpdate_Achievements": "2023-07-12T18:04:48.7942517+00:00"
+  "LastUpdate_Ratings": "2023-07-12T18:57:29.7289653+00:00",
+  "LastUpdate_Achievements": "2023-07-12T19:04:22.4191309+00:00"
 }

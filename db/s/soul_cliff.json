@@ -4,7 +4,7 @@
   "ProductSlug": "soul-cliff-c751a7",
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 317,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-04T18:00:00+00:00",
@@ -18,6 +18,8 @@
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 0,
   "EOS_Completed": 0,
@@ -29,7 +31,8 @@
   "TotalAchievementsXP": 0,
   "Achievements": [],
   "AchievementSets": [],
+  "FirstSeen": "2023-07-12T18:59:02.464115+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:24.6744289+00:00",
-  "LastUpdate_Ratings": "2023-07-12T17:59:38.0320505+00:00",
-  "LastUpdate_Achievements": "2023-07-12T18:03:12.6260743+00:00"
+  "LastUpdate_Ratings": "2023-07-12T18:59:02.4641189+00:00",
+  "LastUpdate_Achievements": "2023-07-12T19:03:06.1148133+00:00"
 }

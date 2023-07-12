@@ -3,12 +3,12 @@
 [View Rawdata](../../db/h/honkai_impact_3rd.json)  
 Rating: 4.50 (Ranked 553)  
 ## Awards
-Max (Character Customization): 2,542  (Ranked 94)  
-Sum: 8,891 (Ranked 88)  
+Max (Character Customization): 2,545  (Ranked 94)  
+Sum: 8,896 (Ranked 88)  
 Diff (max vs sum): 6  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 2,542 |
+| This game has Inclusive Character Customization | 2,545 |
 | This game has Great Boss Battles | 1,886 |
 | This game is Great for Quick Sessions | 519 |
 | This game has Diverse Characters | 506 |
@@ -18,7 +18,7 @@ Diff (max vs sum): 6
 | This game has Beautiful Visuals | 436 |
 | This game has Amazing Storytelling | 425 |
 | This game has Quickly Understood Controls | 407 |
-| This game is Extremely Fun | 403 |
+| This game is Extremely Fun | 405 |
 | This game is Relaxing | 377 |
 | This game has Challenging Combat | 28 |
 | This game has a Kind Community | 22 |
@@ -167,4 +167,4 @@ Diff (max vs sum): 6
 | 2023-07-09 | 4.51 | 2,532 | 8,854 |
 | 2023-07-10 | 4.50 | 2,537 | 8,865 |
 | 2023-07-11 | 4.50 | 2,542 | 8,875 |
-| 2023-07-12 | 4.50 | 2,542 | 8,891 |
+| 2023-07-12 | 4.50 | 2,545 | 8,896 |

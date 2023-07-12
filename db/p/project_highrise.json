@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 317,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -848,9 +848,9 @@
       "ID": "ach_pop_2",
       "SetID": "b8gh1fi",
       "Name": "Master of Puppets",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "ach_prestige_1",
@@ -1048,9 +1048,9 @@
       "ID": "ach_trash_1",
       "SetID": "b8gh1fi",
       "Name": "Terrifically Trashed",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 37
     },
     {
       "ID": "ach_tutorial",
@@ -1080,9 +1080,9 @@
       "ID": "ach_util_phone",
       "SetID": "b8gh1fi",
       "Name": "Phoning It In",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "ach_util_power",
@@ -1129,8 +1129,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-07-12T18:03:13.4456363+00:00",
+  "LastChanged_Achievements": "2023-07-12T19:03:07.0919999+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:38.4963572+00:00",
-  "LastUpdate_Ratings": "2023-07-12T17:59:04.0546367+00:00",
-  "LastUpdate_Achievements": "2023-07-12T18:03:13.4457579+00:00"
+  "LastUpdate_Ratings": "2023-07-12T18:58:27.9603896+00:00",
+  "LastUpdate_Achievements": "2023-07-12T19:03:07.0920848+00:00"
 }

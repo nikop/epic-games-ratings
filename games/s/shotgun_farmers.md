@@ -8,16 +8,16 @@
 | Triple Kill | 51.00% | ~100 |
 | Survivor | 51.00% | ~75 |
 | Aspairagus | 51.00% | ~75 |
-| First Blood | 48.00% | ~95 |
+| First Blood | 49.00% | ~97 |
 | Cornivore | 46.00% | ~91 |
 | I Believe I Can Fly | 45.00% | ~89 |
-| No Asperascope | 42.00% | ~83 |
+| No Asperascope | 43.00% | ~85 |
 | Early Survivor | 40.00% | ~59 |
 | No Diggity | 40.00% | ~59 |
-| Amateur Survivor | 28.00% | ~41 |
+| Amateur Survivor | 29.00% | ~43 |
 | 10K | 24.00% | ~47 |
-| Bouncemato | 23.00% | ~34 |
-| 15K | 22.00% | ~43 |
+| Bouncemato | 24.00% | ~35 |
+| 15K | 23.00% | ~45 |
 | Drinking Problem | 20.00% | ~39 |
 | Grave Digger | 20.00% | ~29 |
 | Professional Survivor | 18.00% | ~26 |
@@ -26,10 +26,10 @@
 | Skin Of Your Teeth | 12.00% | ~24 |
 | Pork Chop Express | 11.00% | ~22 |
 | Carrocketeer | 11.00% | ~22 |
+| Oh My Gourd | 11.00% | ~16 |
 | Summers Here | 11.00% | ~16 |
 | Getting Started | 10.00% | ~20 |
 | Eggtraordinary | 10.00% | ~20 |
-| Oh My Gourd | 10.00% | ~15 |
 | Fresh Pancake | 9.00% | ~18 |
 | Quit Horsin' Around | 9.00% | ~18 |
 | Perfect | 9.00% | ~13 |
@@ -37,9 +37,9 @@
 | Pyromaniac | 7.00% | ~10 |
 | Bring Home The Bacon | 6.00% | ~12 |
 | Quadsparagus | 6.00% | ~9 |
+| Chick Magnet | 4.00% | ~8 |
 | Early Bird | 4.00% | ~8 |
 | Master Survivor | 4.00% | ~6 |
-| Chick Magnet | 3.00% | ~6 |
 | Heart Breaker | 3.00% | ~4 |
 | Honk Honk | 2.00% | ~4 |
 | I Have The High Ground | 2.00% | ~4 |

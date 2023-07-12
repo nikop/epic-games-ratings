@@ -24,7 +24,7 @@ Number of Ratings: 28  (23.09.2022)
 | Madness! | 26.00% | ~81 |
 | Foreman | 24.00% | ~75 |
 | Missed it! | 22.00% | ~69 |
-| Russia | 19.00% | ~59 |
+| Russia | 20.00% | ~63 |
 | Sabotage | 19.00% | ~59 |
 | America | 18.00% | ~56 |
 | Woodcutter | 12.00% | ~38 |

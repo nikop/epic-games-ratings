@@ -4,18 +4,18 @@
 Rating: 3.91 (Ranked 929)  
 Number of Ratings: 3,179  (23.09.2022)  
 ## Awards
-Max (Relaxing): 399  (Ranked 209)  
-Sum: 3,147 (Ranked 152)  
+Max (Relaxing): 400  (Ranked 209)  
+Sum: 3,150 (Ranked 152)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 399 |
+| This game is Relaxing | 400 |
 | This game has Diverse Characters | 393 |
 | This game has Competitive Players | 370 |
 | This game is Highly Recommended | 352 |
 | This game has Amazing Storytelling | 349 |
 | This game has Quickly Understood Controls | 346 |
-| This game has Amazing Characters | 334 |
+| This game has Amazing Characters | 336 |
 | This game is Extremely Fun | 329 |
 | This game is Great for Quick Sessions | 277 |
 | This game has a Competitive Community | 275 |
@@ -186,3 +186,4 @@ Diff (max vs sum): 57
 | 2023-07-08 | 3.91 | - | 399 | 3,144 |
 | 2023-07-09 | 3.91 | - | 399 | 3,145 |
 | 2023-07-10 | 3.91 | - | 399 | 3,147 |
+| 2023-07-12 | 3.91 | - | 400 | 3,150 |

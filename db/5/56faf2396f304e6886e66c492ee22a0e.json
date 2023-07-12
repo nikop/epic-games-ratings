@@ -4,7 +4,7 @@
   "ProductSlug": "hush-hush-5c1fa0",
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 317,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-07-31T00:00:00+00:00",
@@ -25,9 +25,323 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-07-12T19:00:59.231295+00:00",
+  "TotalAchievements": 39,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACHIEVEMENT_Ach_BonnibelPeanut_Awkward",
+      "SetID": "70j9o42",
+      "Name": "Awkward Treat-ment",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Ach_MioIntro_Cleavage",
+      "SetID": "70j9o42",
+      "Name": "A Load Of The Goods",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Ach_MioScene4_Flex",
+      "SetID": "70j9o42",
+      "Name": "Make It Rain",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Ach_PotatoChip",
+      "SetID": "70j9o42",
+      "Name": "Not My Potatoes!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Ach_SpeedrunFail",
+      "SetID": "70j9o42",
+      "Name": "Speed Run!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Buff",
+      "SetID": "70j9o42",
+      "Name": "Pump You Up",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Cassie_Date5_Secret",
+      "SetID": "70j9o42",
+      "Name": "When The Moon Hits Your Eye",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Cassie_Death2_Failed",
+      "SetID": "70j9o42",
+      "Name": "No Such Thing As Bad Pizza",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Dorian_Impress_D2",
+      "SetID": "70j9o42",
+      "Name": "Impressive",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Dorian_Spare_You",
+      "SetID": "70j9o42",
+      "Name": "Chill Villain",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_EasyMode",
+      "SetID": "70j9o42",
+      "Name": "Easy Peezy Lemon Squeezy",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Elle_Date5_Secret",
+      "SetID": "70j9o42",
+      "Name": "Int-Elle Gathering",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Elle_Death3_Failed",
+      "SetID": "70j9o42",
+      "Name": "Inconceiveab-Elle",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Elle_StandUp",
+      "SetID": "70j9o42",
+      "Name": "Admirab-Elle",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Game_Ended",
+      "SetID": "70j9o42",
+      "Name": "Summa Cum Laude",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HardMode",
+      "SetID": "70j9o42",
+      "Name": "Try Hard",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Helped_Lotus_1",
+      "SetID": "70j9o42",
+      "Name": "Lotus Bud",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Iro_BestEnding",
+      "SetID": "70j9o42",
+      "Name": "Pain Killer",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Iro_Date5_Secret",
+      "SetID": "70j9o42",
+      "Name": "Slippery When Wet",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Iro_Death3_Failed",
+      "SetID": "70j9o42",
+      "Name": "Double Dare",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Lilianna_Respect",
+      "SetID": "70j9o42",
+      "Name": "Find Out What It Means To Me",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Love_Machine",
+      "SetID": "70j9o42",
+      "Name": "Love Machine",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Lucky",
+      "SetID": "70j9o42",
+      "Name": "Fortunate Soul",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Mio_Date5_Secret",
+      "SetID": "70j9o42",
+      "Name": "A Winner Is You",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Mio_Death3_Failed",
+      "SetID": "70j9o42",
+      "Name": "A Shocking End",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Money",
+      "SetID": "70j9o42",
+      "Name": "Six Figures",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Motivation",
+      "SetID": "70j9o42",
+      "Name": "Motivational Peaker",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Mystic_All_Secrets",
+      "SetID": "70j9o42",
+      "Name": "Mystic-al Knowledge",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_NormalMode",
+      "SetID": "70j9o42",
+      "Name": "Normal Is My Middle Name",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Player_Wins_Marshmallows",
+      "SetID": "70j9o42",
+      "Name": "Marshm-Elle-ows",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Prodamon_victory",
+      "SetID": "70j9o42",
+      "Name": "Gotta Capture All Of \u0027Em",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Qpernikiss_Ending",
+      "SetID": "70j9o42",
+      "Name": "Wreathed In Light",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Quill_Date5_Secret",
+      "SetID": "70j9o42",
+      "Name": "The Cat\u0027s Meow",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Quill_Death3_Failed",
+      "SetID": "70j9o42",
+      "Name": "9 Lives Down",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Suave",
+      "SetID": "70j9o42",
+      "Name": "Master Of Love",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Team_Fumi",
+      "SetID": "70j9o42",
+      "Name": "Team Fumi",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_TechSavvy",
+      "SetID": "70j9o42",
+      "Name": "Brainiac",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Thelima_Ending",
+      "SetID": "70j9o42",
+      "Name": "The Shadow\u0027s Embrace",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Wine_veryfancy",
+      "SetID": "70j9o42",
+      "Name": "Wine And Dine",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "70j9o42",
@@ -37,8 +351,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-12T17:04:29.8033729+00:00",
-  "LastChanged_Achievements": "2023-07-12T17:04:29.8033712+00:00",
+  "LastChanged_Achievements": "2023-07-12T19:00:59.2312899+00:00",
   "LastUpdate_AppInfo": "2023-07-11T05:57:06.0025765+00:00",
-  "LastUpdate_Ratings": "2023-07-12T17:57:54.1562166+00:00",
-  "LastUpdate_Achievements": "2023-07-12T17:04:29.8033741+00:00"
+  "LastUpdate_Ratings": "2023-07-12T18:57:24.1251897+00:00",
+  "LastUpdate_Achievements": "2023-07-12T19:00:59.2313155+00:00"
 }

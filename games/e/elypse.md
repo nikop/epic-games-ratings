@@ -10,7 +10,7 @@
 | Baited | 70.00% | ~47 |
 | "Swoosh" | 60.00% | ~40 |
 | The light at the end of the tunnel | 58.00% | ~39 |
-| Splash! | 54.00% | ~36 |
+| Splash! | 55.00% | ~37 |
 | Masochistic | 51.00% | ~34 |
 | Soft skin | 45.00% | ~30 |
 | Squid game | 37.00% | ~25 |

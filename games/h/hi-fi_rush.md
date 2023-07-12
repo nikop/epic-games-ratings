@@ -33,8 +33,8 @@ Rating: 4.87 (Ranked 24)
 | Perfecter Parry-er! | 0.50% | ~17 |
 | That's a lot of junk metal… | 0.50% | ~17 |
 | Does that say weakpoint? | 0.50% | ~17 |
+| Call me Turbo Chai | 0.50% | ~10 |
 | There's such a thing as TOO helpful | 0.40% | ~14 |
-| Call me Turbo Chai | 0.40% | ~8 |
 | New bad guys? No problem! | 0.40% | ~8 |
 | Chip-tuned | 0.30% | ~10 |
 | Beat-hit mania | 0.30% | ~10 |

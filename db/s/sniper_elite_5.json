@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -400,7 +400,7 @@
   "Tags": [],
   "EOS_Progressed": 3266,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -5030,9 +5030,9 @@
       "ID": "REWARD_16_FIELDS_OF_GLORY",
       "SetID": "bm6el81",
       "Name": "Fields of Glory",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -5565,8 +5565,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-12T04:01:32.7620915+00:00",
-  "LastChanged_Achievements": "2023-07-12T18:03:17.859379+00:00",
+  "LastChanged_Achievements": "2023-07-12T19:03:11.0972338+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:07.1687539+00:00",
-  "LastUpdate_Ratings": "2023-07-12T18:01:41.1676811+00:00",
-  "LastUpdate_Achievements": "2023-07-12T18:03:17.8594941+00:00"
+  "LastUpdate_Ratings": "2023-07-12T19:00:53.1977698+00:00",
+  "LastUpdate_Achievements": "2023-07-12T19:03:11.0973104+00:00"
 }
