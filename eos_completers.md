@@ -15,8 +15,8 @@
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
 | 14 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 14.04% |
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
-| 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.04% |
-| 17 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.00% |
+| 16 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.20% |
+| 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.04% |
 | 18 | [Remains](games/r/remains.md) | 11.90% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.22% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -66,8 +66,8 @@
 | 64 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 65 | [Lamentum](games/l/lamentum.md) | 2.67% |
 | 66 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
-| 67 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.61% |
-| 68 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.57% |
+| 67 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.60% |
+| 68 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.59% |
 | 69 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 70 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
 | 71 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.37% |
@@ -152,21 +152,21 @@
 | 150 | [Godlike Burger](games/g/godlike_burger.md) | 0.28% |
 | 150 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
 | 150 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.28% |
-| 153 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
-| 153 | [Against the Storm](games/a/against_the_storm.md) | 0.25% |
-| 153 | [Despot's Game](games/d/despot's_game.md) | 0.25% |
-| 153 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.25% |
-| 157 | [Filament](games/f/filament.md) | 0.24% |
-| 158 | [Blanc](games/b/blanc.md) | 0.23% |
-| 159 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
-| 159 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.22% |
-| 161 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.21% |
-| 162 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
-| 162 | [Going Medieval](games/g/going_medieval.md) | 0.20% |
-| 164 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
-| 165 | [BLACKTAIL](games/b/blacktail.md) | 0.18% |
-| 165 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.18% |
-| 165 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.18% |
+| 153 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.27% |
+| 154 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
+| 154 | [Against the Storm](games/a/against_the_storm.md) | 0.25% |
+| 154 | [Despot's Game](games/d/despot's_game.md) | 0.25% |
+| 154 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.25% |
+| 158 | [Filament](games/f/filament.md) | 0.24% |
+| 159 | [Blanc](games/b/blanc.md) | 0.23% |
+| 160 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
+| 160 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.22% |
+| 160 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.22% |
+| 163 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
+| 163 | [Going Medieval](games/g/going_medieval.md) | 0.20% |
+| 165 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
+| 166 | [BLACKTAIL](games/b/blacktail.md) | 0.18% |
+| 166 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.18% |
 | 168 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
 | 169 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 169 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
@@ -489,4 +489,4 @@
 | 237 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 237 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 237 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,892 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
+| 2,893 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
