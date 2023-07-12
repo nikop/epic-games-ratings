@@ -33,7 +33,7 @@
 | 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 12,075 | 4.86 | 28 |
 | 32 | [NBA 2K21](games/n/nba_2k21.md) | 11,722 | 4.39 | 703 |
 | 33 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,303 | 4.69 | 216 |
-| 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 10,796 | 4.45 | 623 |
+| 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 10,803 | 4.45 | 623 |
 | 35 | [Satisfactory](games/s/satisfactory.md) | 10,582 | 4.88 | 19 |
 | 36 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,454 | 4.78 | 99 |
 | 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,433 | 4.61 | 364 |
@@ -91,7 +91,7 @@
 | 89 | [Hades](games/h/hades.md) | 3,173 | 4.92 | 4 |
 | 90 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,156 | 4.57 | 440 |
 | 91 | [Trackmania](games/t/trackmania.md) | 2,942 | 4.67 | 259 |
-| 92 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 2,609 | 3.98 | 918 |
+| 92 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 2,621 | 3.98 | 918 |
 | 93 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,542 | 4.50 | 553 |
 | 94 | [Path of Exile](games/p/path_of_exile.md) | 2,529 | 4.61 | 364 |
 | 95 | [Among Us](games/a/among_us.md) | 2,527 | 4.57 | 440 |
@@ -220,8 +220,8 @@
 | 218 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 364 | 4.62 | 347 |
 | 219 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 361 | 4.85 | 42 |
 | 220 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 359 | 3.93 | 925 |
-| 221 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 353 | 4.32 | 765 |
-| 221 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 353 | 4.70 | 195 |
+| 221 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 356 | 4.70 | 195 |
+| 222 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 353 | 4.32 | 765 |
 | 223 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 345 | 4.76 | 119 |
 | 224 | [Inscryption](games/i/inscryption.md) | 336 | 4.86 | 28 |
 | 225 | [Dungeons 3](games/d/dungeons_3.md) | 331 | 4.66 | 272 |
@@ -385,9 +385,9 @@
 | 382 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 63 | 4.51 | 540 |
 | 384 | [Arcadegeddon](games/a/arcadegeddon.md) | 62 | 4.49 | 576 |
 | 384 | [In Sound Mind](games/i/in_sound_mind.md) | 62 | 4.60 | 390 |
-| 386 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 60 | 4.54 | 491 |
-| 387 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 59 | 4.35 | 738 |
-| 387 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 59 | 4.44 | 642 |
+| 386 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 61 | 4.35 | 738 |
+| 387 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 60 | 4.54 | 491 |
+| 388 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 59 | 4.44 | 642 |
 | 389 | [Heavy Rain](games/h/heavy_rain.md) | 58 | 4.60 | 390 |
 | 390 | [Returnal™](games/r/returnal™.md) | 57 | 4.61 | 364 |
 | 391 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 55 | 4.33 | 756 |

@@ -195,7 +195,7 @@
 | 181 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.71 | 116 | 315 |
 | 181 | [SUPERHOT](games/s/superhot.md) | 4.71 | 0 | 505 |
 | 195 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,541 | 70 |
-| 195 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 353 | 221 |
+| 195 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 356 | 221 |
 | 195 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 380 | 213 |
 | 195 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 4,518 | 71 |
 | 195 | [For The King](games/f/for_the_king.md) | 4.70 | 375 | 216 |
@@ -496,7 +496,7 @@
 | 491 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 442 |
 | 491 | [Far Cry](games/f/far_cry.md) | 4.54 | 0 | 505 |
 | 491 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,191 | 132 |
-| 491 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.54 | 60 | 386 |
+| 491 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.54 | 60 | 387 |
 | 491 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.54 | 0 | 505 |
 | 491 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 71 | 372 |
 | 491 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 22 | 485 |
@@ -628,7 +628,7 @@
 | 623 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 765 | 155 |
 | 623 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.45 | 0 | 505 |
 | 623 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.45 | 0 | 505 |
-| 623 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 10,796 | 34 |
+| 623 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 10,803 | 34 |
 | 623 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 29 | 459 |
 | 623 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 505 |
 | 623 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 863 | 150 |
@@ -650,7 +650,7 @@
 | 642 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 505 |
 | 642 | [The Captain](games/t/the_captain.md) | 4.44 | 97 | 333 |
 | 642 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 0 | 505 |
-| 642 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 387 |
+| 642 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 388 |
 | 642 | [WRC Generations](games/w/wrc_generations.md) | 4.44 | 0 | 505 |
 | 653 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.43 | 0 | 505 |
 | 653 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 202 | 268 |
@@ -746,7 +746,7 @@
 | 738 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 0 | 505 |
 | 738 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.35 | 0 | 505 |
 | 738 | [The Silent Age](games/t/the_silent_age.md) | 4.35 | 0 | 505 |
-| 738 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.35 | 59 | 387 |
+| 738 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.35 | 61 | 386 |
 | 748 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 466 |
 | 748 | [Backbone](games/b/backbone.md) | 4.34 | 0 | 505 |
 | 748 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.34 | 0 | 505 |
@@ -764,7 +764,7 @@
 | 756 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.33 | 0 | 505 |
 | 756 | [Torchlight](games/t/torchlight.md) | 4.33 | 21 | 492 |
 | 756 | [War Mongrels](games/w/war_mongrels.md) | 4.33 | 0 | 505 |
-| 765 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 353 | 221 |
+| 765 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 353 | 222 |
 | 765 | [Filament](games/f/filament.md) | 4.32 | 558 | 181 |
 | 765 | [House Party](games/h/house_party.md) | 4.32 | 0 | 505 |
 | 765 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 29 | 459 |
@@ -918,7 +918,7 @@
 | 916 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 372 | 217 |
 | 916 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,657 | 69 |
 | 918 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 505 |
-| 918 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 2,609 | 92 |
+| 918 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 2,621 | 92 |
 | 920 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 0 | 505 |
 | 921 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.96 | 0 | 505 |
 | 922 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 409 |
