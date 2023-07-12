@@ -7,7 +7,7 @@ Number of Ratings: 45  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Cost of Heroism | 36.00% | ~471 |
-| Me and My Familiar | 34.00% | ~444 |
+| Me and My Familiar | 34.00% | ~445 |
 | This Too Shall Pass | 29.00% | ~379 |
 | Passing Shadow | 28.00% | ~366 |
 | Cutthroat Competitors | 28.00% | ~366 |
@@ -20,21 +20,21 @@ Number of Ratings: 45  (23.09.2022)
 | A Mythic Menagerie | 12.00% | ~157 |
 | Core Failure | 12.00% | ~157 |
 | Pyrrhic Victory | 10.00% | ~131 |
+| Thematic Divergence | 9.00% | ~118 |
 | Echoes Die | 9.00% | ~118 |
-| Thematic Divergence | 8.00% | ~105 |
 | Chain Reaction | 8.00% | ~105 |
-| Let Me Get My Chisel | 7.00% | ~91 |
-| Plague Doctor | 7.00% | ~91 |
-| Everfading | 7.00% | ~91 |
-| Another Tale to Tell | 7.00% | ~91 |
-| A Story of Heroes | 7.00% | ~91 |
+| Plague Doctor | 7.00% | ~92 |
+| Everfading | 7.00% | ~92 |
+| Another Tale to Tell | 7.00% | ~92 |
+| A Story of Heroes | 7.00% | ~92 |
+| Let Me Get My Chisel | 6.00% | ~78 |
 | Legends Never Die | 5.00% | ~65 |
 | In Soil, In Smoke | 5.00% | ~65 |
+| A Hunger, Sated | 5.00% | ~65 |
 | Wingknight's Prowess | 5.00% | ~65 |
 | All My Birds, Safely Home | 5.00% | ~65 |
 | Turncoat | 5.00% | ~65 |
 | Worldwalker | 4.00% | ~52 |
-| A Hunger, Sated | 4.00% | ~52 |
 | Grillmaster | 4.00% | ~52 |
 | No Time for Clawmonsters | 4.00% | ~52 |
 | We Emerge Changed | 3.00% | ~39 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | We Call That Mortificient! | 0.70% | ~9 |
 | Peacemaker | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,307 (Ranked 176)  
+Progressed: 1,308 (Ranked 176)  
 Completed: 5 (0.38%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 5 (0.38%) (Ranked 137)
 | 2023-07-09 | 1,301 | 5 |
 | 2023-07-10 | 1,304 | 5 |
 | 2023-07-11 | 1,305 | 5 |
-| 2023-07-12 | 1,307 | 5 |
+| 2023-07-12 | 1,308 | 5 |
 ## Awards
 Max (Character Customization): 28  (Ranked 462)  
 Sum: 28 (Ranked 474)  

@@ -7,29 +7,29 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Play a Single Player Game | 84.00% | ~10,744 |
-| Settler | 81.00% | ~10,360 |
-| Explorer | 79.00% | ~10,104 |
-| Friendly Family | 75.00% | ~9,592 |
-| Intrepid | 69.00% | ~8,825 |
-| Architect | 61.00% | ~7,802 |
-| Able | 60.00% | ~7,674 |
-| Mason | 60.00% | ~7,674 |
-| Strong | 59.00% | ~7,546 |
-| Hanging Gardens | 59.00% | ~7,546 |
-| Noble | 57.00% | ~7,290 |
-| Oracle | 57.00% | ~7,290 |
+| Settler | 81.00% | ~10,361 |
+| Explorer | 79.00% | ~10,105 |
+| Friendly Family | 75.00% | ~9,593 |
+| Intrepid | 69.00% | ~8,826 |
+| Architect | 61.00% | ~7,803 |
+| Able | 60.00% | ~7,675 |
+| Mason | 60.00% | ~7,675 |
+| Strong | 59.00% | ~7,547 |
+| Hanging Gardens | 59.00% | ~7,547 |
+| Noble | 57.00% | ~7,291 |
+| Oracle | 57.00% | ~7,291 |
 | Good | 55.00% | ~7,035 |
 | Just | 54.00% | ~6,907 |
 | Judaism | 54.00% | ~6,907 |
 | Keystone | 53.00% | ~6,779 |
 | Glorious | 51.00% | ~6,523 |
 | Trade Caravan | 51.00% | ~6,523 |
-| Naming Landmarks | 49.00% | ~6,267 |
-| Learned | 48.00% | ~6,139 |
-| Pioneer | 48.00% | ~6,139 |
-| Zoroastrianism | 48.00% | ~6,139 |
-| Fountainhead | 47.00% | ~6,011 |
-| Developing Cities | 47.00% | ~6,011 |
+| Naming Landmarks | 49.00% | ~6,268 |
+| Learned | 48.00% | ~6,140 |
+| Pioneer | 48.00% | ~6,140 |
+| Zoroastrianism | 48.00% | ~6,140 |
+| Fountainhead | 47.00% | ~6,012 |
+| Developing Cities | 47.00% | ~6,012 |
 | Magnificent | 45.00% | ~5,756 |
 | Pyramids | 45.00% | ~5,756 |
 | Warrior | 44.00% | ~5,628 |
@@ -43,13 +43,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Christianity | 40.00% | ~5,116 |
 | Great | 39.00% | ~4,988 |
 | Lighthouse | 39.00% | ~4,988 |
-| Ambitious | 38.00% | ~4,860 |
-| Able Difficulty | 38.00% | ~4,860 |
-| Carthaginian Paganism | 37.00% | ~4,732 |
-| Necropolis | 36.00% | ~4,604 |
-| Apadana | 35.00% | ~4,476 |
-| Manichaeism | 35.00% | ~4,476 |
-| Egyptian Paganism | 35.00% | ~4,476 |
+| Ambitious | 38.00% | ~4,861 |
+| Able Difficulty | 38.00% | ~4,861 |
+| Carthaginian Paganism | 37.00% | ~4,733 |
+| Necropolis | 36.00% | ~4,605 |
+| Apadana | 35.00% | ~4,477 |
+| Manichaeism | 35.00% | ~4,477 |
+| Egyptian Paganism | 35.00% | ~4,477 |
 | Brilliant | 34.00% | ~4,349 |
 | Musaeum | 34.00% | ~4,349 |
 | Drillmaster | 32.00% | ~4,093 |
@@ -63,7 +63,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just Difficulty | 29.00% | ~3,709 |
 | Mythology | 29.00% | ~3,709 |
 | Mausoleum | 28.00% | ~3,581 |
-| Intercessor | 26.00% | ~3,325 |
+| Intercessor | 26.00% | ~3,326 |
 | Valiant | 25.00% | ~3,198 |
 | Sages | 25.00% | ~3,198 |
 | Hanging Gardens in Babylon | 24.00% | ~3,070 |
@@ -103,21 +103,21 @@ Number of Ratings: 1,307  (23.09.2022)
 | Redemption | 17.00% | ~2,174 |
 | Phalangite | 17.00% | ~2,174 |
 | Double Victory | 17.00% | ~2,174 |
-| Beloved | 16.00% | ~2,046 |
-| Lion | 16.00% | ~2,046 |
-| Strong Difficulty | 16.00% | ~2,046 |
-| Gnosticism | 16.00% | ~2,046 |
-| Veneration | 16.00% | ~2,046 |
-| Kushite Cavalry | 16.00% | ~2,046 |
-| Bad Heir Day | 15.00% | ~1,918 |
-| Capable | 15.00% | ~1,918 |
-| Invincible | 15.00% | ~1,918 |
-| Hunters | 15.00% | ~1,918 |
-| Hittite Paganism | 15.00% | ~1,918 |
-| Industrial Progress | 15.00% | ~1,918 |
-| Enlightenment | 15.00% | ~1,918 |
-| Revelation | 15.00% | ~1,918 |
-| Win a Single Player Game | 15.00% | ~1,918 |
+| Beloved | 16.00% | ~2,047 |
+| Lion | 16.00% | ~2,047 |
+| Strong Difficulty | 16.00% | ~2,047 |
+| Gnosticism | 16.00% | ~2,047 |
+| Veneration | 16.00% | ~2,047 |
+| Kushite Cavalry | 16.00% | ~2,047 |
+| Bad Heir Day | 15.00% | ~1,919 |
+| Capable | 15.00% | ~1,919 |
+| Invincible | 15.00% | ~1,919 |
+| Hunters | 15.00% | ~1,919 |
+| Hittite Paganism | 15.00% | ~1,919 |
+| Industrial Progress | 15.00% | ~1,919 |
+| Enlightenment | 15.00% | ~1,919 |
+| Revelation | 15.00% | ~1,919 |
+| Win a Single Player Game | 15.00% | ~1,919 |
 | Regicide | 14.00% | ~1,791 |
 | Devout | 14.00% | ~1,791 |
 | Church of the Holy Sepulchre | 14.00% | ~1,791 |
@@ -292,7 +292,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.10% | ~13 |
 | Win a Play-By-Cloud Game | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,790 (Ranked 112)  
+Progressed: 12,791 (Ranked 112)  
 Completed: 5 (0.04%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -375,7 +375,7 @@ Completed: 5 (0.04%) (Ranked 207)
 | 2023-07-09 | 12,719 | 5 |
 | 2023-07-10 | 12,749 | 5 |
 | 2023-07-11 | 12,774 | 5 |
-| 2023-07-12 | 12,790 | 5 |
+| 2023-07-12 | 12,791 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 255)  
 Sum: 1,780 (Ranked 204)  

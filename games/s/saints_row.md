@@ -6,22 +6,22 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 35.00% | ~18,518 |
-| To The Nines | 32.00% | ~16,931 |
+| First F#@!ing Day | 35.00% | ~18,519 |
+| To The Nines | 32.00% | ~16,932 |
 | Optimized | 27.00% | ~14,286 |
 | Performance Review | 27.00% | ~14,286 |
 | Making a Name | 26.00% | ~13,757 |
 | Tune Up | 25.00% | ~13,228 |
-| Wet Work | 24.00% | ~12,698 |
-| Landlord | 24.00% | ~12,698 |
-| The Side Job | 23.00% | ~12,169 |
+| Wet Work | 24.00% | ~12,699 |
+| Landlord | 24.00% | ~12,699 |
+| The Side Job | 23.00% | ~12,170 |
 | Wrecking Ball | 20.00% | ~10,582 |
 | Food for Thought | 20.00% | ~10,582 |
 | Finders Keepers | 19.00% | ~10,053 |
 | A Young Empire | 19.00% | ~10,053 |
 | Work Ethic | 17.00% | ~8,995 |
-| Power Players | 14.00% | ~7,407 |
-| Picking Fights | 14.00% | ~7,407 |
+| Power Players | 14.00% | ~7,408 |
+| Picking Fights | 14.00% | ~7,408 |
 | Quality Time | 13.00% | ~6,878 |
 | Showdown | 12.00% | ~6,349 |
 | Et tu? | 12.00% | ~6,349 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.10% | ~53 |
 | Fiesta Time | 0.10% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,910 (Ranked 84)  
+Progressed: 52,911 (Ranked 84)  
 Completed: 28 (0.05%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,14 +143,14 @@ Completed: 28 (0.05%) (Ranked 202)
 | 2023-07-09 | 52,383 | 28 |
 | 2023-07-10 | 52,591 | 28 |
 | 2023-07-11 | 52,785 | 28 |
-| 2023-07-12 | 52,910 | 28 |
+| 2023-07-12 | 52,911 | 28 |
 ## Awards
-Max (Extremely Fun): 1,048  (Ranked 139)  
-Sum: 8,514 (Ranked 91)  
+Max (Extremely Fun): 1,049  (Ranked 139)  
+Sum: 8,515 (Ranked 91)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
-| This game is Extremely Fun | 1,048 |
+| This game is Extremely Fun | 1,049 |
 | This game has Quickly Understood Controls | 1,020 |
 | This game is Highly Recommended | 988 |
 | This game has Diverse Characters | 983 |
@@ -286,4 +286,4 @@ Diff (max vs sum): 48
 | 2023-07-08 | 3.78 | - | 1,047 | 8,506 |
 | 2023-07-09 | 3.78 | - | 1,048 | 8,510 |
 | 2023-07-11 | 3.78 | - | 1,048 | 8,513 |
-| 2023-07-12 | 3.78 | - | 1,048 | 8,514 |
+| 2023-07-12 | 3.78 | - | 1,049 | 8,515 |

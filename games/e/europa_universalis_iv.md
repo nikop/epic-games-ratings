@@ -6,22 +6,22 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,190 |
-| That's a Grand Army | 8.00% | ~5,502 |
-| That is mine! | 8.00% | ~5,502 |
-| Victorious! | 8.00% | ~5,502 |
-| Brothers in Arms | 6.00% | ~4,127 |
-| That's a Grand Navy | 6.00% | ~4,127 |
-| Seriously?! | 6.00% | ~4,127 |
-| For the Glory | 5.00% | ~3,439 |
-| Cold War | 4.00% | ~2,751 |
-| True Catholic | 4.00% | ~2,751 |
-| Defender of the Faith | 3.00% | ~2,063 |
-| It's all about luck | 3.00% | ~2,063 |
-| It's all about the money | 3.00% | ~2,063 |
-| Respected | 3.00% | ~2,063 |
-| The Princess is in this Castle | 3.00% | ~2,063 |
-| Truly Divine Ruler | 3.00% | ~2,063 |
+| Until death do us apart | 9.00% | ~6,192 |
+| That's a Grand Army | 8.00% | ~5,504 |
+| That is mine! | 8.00% | ~5,504 |
+| Victorious! | 8.00% | ~5,504 |
+| Brothers in Arms | 6.00% | ~4,128 |
+| That's a Grand Navy | 6.00% | ~4,128 |
+| Seriously?! | 6.00% | ~4,128 |
+| For the Glory | 5.00% | ~3,440 |
+| Cold War | 4.00% | ~2,752 |
+| True Catholic | 4.00% | ~2,752 |
+| Defender of the Faith | 3.00% | ~2,064 |
+| It's all about luck | 3.00% | ~2,064 |
+| It's all about the money | 3.00% | ~2,064 |
+| Respected | 3.00% | ~2,064 |
+| The Princess is in this Castle | 3.00% | ~2,064 |
+| Truly Divine Ruler | 3.00% | ~2,064 |
 | Agressive Expander | 2.00% | ~1,376 |
 | Blockader | 2.00% | ~1,376 |
 | Combined Arms | 2.00% | ~1,376 |
@@ -44,8 +44,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Market Control | 0.90% | ~619 |
 | Down Under | 0.80% | ~550 |
 | Trustworthy | 0.80% | ~550 |
-| Electable! | 0.70% | ~481 |
-| Populists in Government | 0.70% | ~481 |
+| Electable! | 0.70% | ~482 |
+| Populists in Government | 0.70% | ~482 |
 | All belongs to Mother Russia | 0.60% | ~413 |
 | At every continent | 0.60% | ~413 |
 | Early-Modern Warfare | 0.60% | ~413 |
@@ -312,6 +312,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | This is Persia! | 0.10% | ~69 |
 | This Revolution Was Crushed | 0.10% | ~69 |
 | Tiger of Mysore | 0.10% | ~69 |
+| To the Bone | 0.10% | ~69 |
 | Trade Hegemon | 0.10% | ~69 |
 | Triple the Rome | 0.10% | ~69 |
 | True Heir of Timur | 0.10% | ~69 |
@@ -356,12 +357,11 @@ Number of Ratings: 8,414  (23.09.2022)
 | Sworn Fealty | 0.00% | ~0 |
 | The Freest Man in the World | 0.00% | ~0 |
 | The Pheasant Strut | 0.00% | ~0 |
-| To the Bone | 0.00% | ~0 |
 | Turkish Delight | 0.00% | ~0 |
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,780 (Ranked 73)  
+Progressed: 68,803 (Ranked 73)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -444,7 +444,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-09 | 67,782 | 0 |
 | 2023-07-10 | 68,178 | 0 |
 | 2023-07-11 | 68,569 | 0 |
-| 2023-07-12 | 68,780 | 0 |
+| 2023-07-12 | 68,803 | 0 |
 ## Awards
 Max (Educational): 5,537  (Ranked 60)  
 Sum: 45,650 (Ranked 27)  

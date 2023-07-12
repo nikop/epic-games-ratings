@@ -5443,18 +5443,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 13704,
       "NumberOfAwardsMax": 6778
+    },
+    {
+      "Time": "2023-07-12T17:00:20.7410739+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 13710,
+      "NumberOfAwardsMax": 6782
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13704,
-  "NumberOfAwardsMax": 6778,
+  "NumberOfAwards": 13710,
+  "NumberOfAwardsMax": 6782,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 6778
+      "Count": 6782
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5478,7 +5484,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 875
+      "Count": 876
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5502,7 +5508,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 856
+      "Count": 857
     },
     {
       "Text": "This game is Relaxing",
@@ -5523,9 +5529,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 55585,
+  "EOS_Progressed": 55587,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 513,
+  "EOS_NewPlayers": 511,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14128,6 +14134,11 @@
       "Time": "2023-07-12T16:06:16.697342+00:00",
       "NumProgressed": 55585,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-12T17:06:40.7452359+00:00",
+      "NumProgressed": 55587,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -14139,7 +14150,7 @@
       "Name": "Against all odds",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6114
+      "UsersEstimate": 6115
     },
     {
       "ID": "Apple of my eye",
@@ -14363,7 +14374,7 @@
       "Name": "Landlord",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 17231
+      "UsersEstimate": 17232
     },
     {
       "ID": "Lawbringer",
@@ -14371,7 +14382,7 @@
       "Name": "Lawbringer",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 20566
+      "UsersEstimate": 20567
     },
     {
       "ID": "Lawmaker",
@@ -14483,7 +14494,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 5558
+      "UsersEstimate": 5559
     },
     {
       "ID": "The king is pleased",
@@ -14491,7 +14502,7 @@
       "Name": "The king is pleased",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 9449
+      "UsersEstimate": 9450
     },
     {
       "ID": "This Is Our Land",
@@ -14546,15 +14557,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 55585,
+      "Progressed": 55587,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-07-12T07:59:28.9425065+00:00",
-  "LastChanged_Achievements": "2023-07-12T16:06:16.6973417+00:00",
+  "LastChanged": "2023-07-12T17:00:20.7410738+00:00",
+  "LastChanged_Achievements": "2023-07-12T17:06:40.7452354+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:03.335469+00:00",
-  "LastUpdate_Ratings": "2023-07-12T15:59:52.1584186+00:00",
-  "LastUpdate_Achievements": "2023-07-12T16:06:16.6974145+00:00"
+  "LastUpdate_Ratings": "2023-07-12T17:00:20.7410743+00:00",
+  "LastUpdate_Achievements": "2023-07-12T17:06:40.7453108+00:00"
 }

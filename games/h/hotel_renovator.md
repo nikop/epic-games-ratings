@@ -1,7 +1,7 @@
 # Hotel Renovator
 [Store](https://store.epicgames.com/en-US/p/hotel-renovator)  
 [View Rawdata](../../db/h/hotel_renovator.json)  
-Rating: 4.55 (Ranked 479)  
+Rating: 4.55 (Ranked 478)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -26,7 +26,7 @@ Rating: 4.55 (Ranked 479)
 | Aesop's fable | 26.00% | ~222 |
 | Nearly there | 24.00% | ~205 |
 | Broken heart | 22.00% | ~188 |
-| Island boy | 20.00% | ~171 |
+| Island boy | 21.00% | ~179 |
 | You're a star | 19.00% | ~162 |
 | Unstoppable | 18.00% | ~154 |
 | Reunited | 17.00% | ~145 |

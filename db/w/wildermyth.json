@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -151,9 +151,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1307,
+  "EOS_Progressed": 1308,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1081,6 +1081,11 @@
       "Time": "2023-07-12T02:27:57.3979344+00:00",
       "NumProgressed": 1307,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-12T17:04:41.5939005+00:00",
+      "NumProgressed": 1308,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 56,
@@ -1108,7 +1113,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -1138,9 +1143,9 @@
       "ID": "achievement_beatGameOnIronmanMode",
       "SetID": "95dc8p",
       "Name": "Let Me Get My Chisel",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 78
     },
     {
       "ID": "achievement_beatGameOnWalkingLunch",
@@ -1244,7 +1249,7 @@
       "Name": "Plague Doctor",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "achievement_loseBattle",
@@ -1290,9 +1295,9 @@
       "ID": "achievement_twoDifferentThemeLimbs",
       "SetID": "95dc8p",
       "Name": "Thematic Divergence",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 118
     },
     {
       "ID": "achievement_use3ReactionStrikesInOneTurn",
@@ -1324,7 +1329,7 @@
       "Name": "Everfading",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "completedStory_enduringWar",
@@ -1340,7 +1345,7 @@
       "Name": "Another Tale to Tell",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "completedStory_monarchs",
@@ -1356,7 +1361,7 @@
       "Name": "A Story of Heroes",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "completedStory_ulstryx",
@@ -1370,9 +1375,9 @@
       "ID": "completedStory_vultureLord",
       "SetID": "95dc8p",
       "Name": "A Hunger, Sated",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 65
     },
     {
       "ID": "cvawn_allDrauvenSurvivedMission",
@@ -1539,15 +1544,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1307,
+      "Progressed": 1308,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-07-08T20:01:41.3411794+00:00",
-  "LastChanged_Achievements": "2023-07-12T16:04:18.6583924+00:00",
+  "LastChanged_Achievements": "2023-07-12T17:04:41.5939+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:13.8802543+00:00",
-  "LastUpdate_Ratings": "2023-07-12T16:00:44.5491465+00:00",
-  "LastUpdate_Achievements": "2023-07-12T16:04:18.6584437+00:00"
+  "LastUpdate_Ratings": "2023-07-12T17:01:08.2925389+00:00",
+  "LastUpdate_Achievements": "2023-07-12T17:04:41.5939443+00:00"
 }

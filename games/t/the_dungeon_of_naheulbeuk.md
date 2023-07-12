@@ -6,41 +6,41 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 58.00% | ~104,704 |
-| Where's that freaking Dwarf? | 46.00% | ~83,042 |
-| GG EZ | 27.00% | ~48,742 |
-| Speedrun | 26.00% | ~46,936 |
-| Déjà vu | 20.00% | ~36,105 |
-| Sock! SOCK! | 15.00% | ~27,079 |
-| DM intervention | 12.00% | ~21,663 |
-| A beer, two curses, three companions | 7.00% | ~12,637 |
-| Fireproof Wizardess | 7.00% | ~12,637 |
-| Way of the Wimp | 6.00% | ~10,832 |
-| Livin' in a dwarven paradise | 5.00% | ~9,026 |
-| The plot thickens... At the tavern | 4.00% | ~7,221 |
-| The Woman in the High Castle | 3.00% | ~5,416 |
-| Team Building Exercise | 3.00% | ~5,416 |
-| The demons' feast | 2.00% | ~3,610 |
-| Res Judicata | 2.00% | ~3,610 |
-| I am the night | 2.00% | ~3,610 |
-| Shiny and Crôm | 1.00% | ~1,805 |
-| The Great Library | 1.00% | ~1,805 |
-| Torture and Sensibility | 1.00% | ~1,805 |
-| Dwarf Fortress | 1.00% | ~1,805 |
-| The Ranger of Chaos | 1.00% | ~1,805 |
-| Thieves' Guild Accreditation | 1.00% | ~1,805 |
-| Oh, when I'll be level 10... | 1.00% | ~1,805 |
+| Alt+F4 | 58.00% | ~104,754 |
+| Where's that freaking Dwarf? | 46.00% | ~83,081 |
+| GG EZ | 27.00% | ~48,765 |
+| Speedrun | 26.00% | ~46,959 |
+| Déjà vu | 20.00% | ~36,122 |
+| Sock! SOCK! | 15.00% | ~27,092 |
+| DM intervention | 12.00% | ~21,673 |
+| Fireproof Wizardess | 8.00% | ~14,449 |
+| A beer, two curses, three companions | 7.00% | ~12,643 |
+| Way of the Wimp | 6.00% | ~10,837 |
+| Livin' in a dwarven paradise | 5.00% | ~9,031 |
+| The plot thickens... At the tavern | 4.00% | ~7,224 |
+| The Woman in the High Castle | 3.00% | ~5,418 |
+| Team Building Exercise | 3.00% | ~5,418 |
+| The demons' feast | 2.00% | ~3,612 |
+| Res Judicata | 2.00% | ~3,612 |
+| I am the night | 2.00% | ~3,612 |
+| Shiny and Crôm | 1.00% | ~1,806 |
+| The Great Library | 1.00% | ~1,806 |
+| Torture and Sensibility | 1.00% | ~1,806 |
+| Dwarf Fortress | 1.00% | ~1,806 |
+| The Ranger of Chaos | 1.00% | ~1,806 |
+| Thieves' Guild Accreditation | 1.00% | ~1,806 |
+| Oh, when I'll be level 10... | 1.00% | ~1,806 |
 | The beards of change | 0.90% | ~1,625 |
 | Material Girl | 0.90% | ~1,625 |
-| Gargantua | 0.80% | ~1,444 |
-| In Navalu's footsteps | 0.80% | ~1,444 |
-| Lust and Debauchery | 0.80% | ~1,444 |
+| Gargantua | 0.80% | ~1,445 |
+| In Navalu's footsteps | 0.80% | ~1,445 |
+| Lust and Debauchery | 0.80% | ~1,445 |
 | Urik's Depths | 0.70% | ~1,264 |
 | Look but don't touch | 0.70% | ~1,264 |
-| The Statuette of Gladeulfeurah | 0.60% | ~1,083 |
-| A tale of adventurers not quite like the others... | 0.60% | ~1,083 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.60% | ~1,083 |
-| It's been a hard day's night | 0.60% | ~1,083 |
+| The Statuette of Gladeulfeurah | 0.60% | ~1,084 |
+| A tale of adventurers not quite like the others... | 0.60% | ~1,084 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.60% | ~1,084 |
+| It's been a hard day's night | 0.60% | ~1,084 |
 | I'd rather... Just... Sing! | 0.50% | ~903 |
 | Dead for good | 0.50% | ~903 |
 | Law and Order | 0.50% | ~903 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 180,525 (Ranked 58)  
+Progressed: 180,611 (Ranked 58)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,14 +137,14 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-09 | 174,947 | 0 |
 | 2023-07-10 | 177,355 | 0 |
 | 2023-07-11 | 179,429 | 0 |
-| 2023-07-12 | 180,525 | 0 |
+| 2023-07-12 | 180,611 | 0 |
 ## Awards
-Max (Character Customization): 92  (Ranked 343)  
-Sum: 92 (Ranked 414)  
-Diff (max vs sum): -71  
+Max (Character Customization): 95  (Ranked 337)  
+Sum: 95 (Ranked 411)  
+Diff (max vs sum): -74  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 92 |
+| This game has Inclusive Character Customization | 95 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -228,3 +228,4 @@ Diff (max vs sum): -71
 | 2023-07-09 | 4.54 | - | 82 | 82 |
 | 2023-07-10 | 4.54 | - | 84 | 84 |
 | 2023-07-11 | 4.53 | - | 92 | 92 |
+| 2023-07-12 | 4.53 | - | 95 | 95 |

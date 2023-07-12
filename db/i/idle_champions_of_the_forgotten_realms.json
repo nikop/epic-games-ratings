@@ -4918,9 +4918,9 @@
       "Count": 3297
     }
   ],
-  "EOS_Progressed": 210525,
+  "EOS_Progressed": 210540,
   "EOS_Completed": 2046,
-  "EOS_NewPlayers": 3832,
+  "EOS_NewPlayers": 3818,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -13753,6 +13753,11 @@
       "Time": "2023-07-12T16:04:38.2650325+00:00",
       "NumProgressed": 210525,
       "NumCompleted": 2046
+    },
+    {
+      "Time": "2023-07-12T17:05:01.8554032+00:00",
+      "NumProgressed": 210540,
+      "NumCompleted": 2046
     }
   ],
   "TotalAchievements": 503,
@@ -14740,7 +14745,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8421
+      "UsersEstimate": 8422
     },
     {
       "ID": "objective_completed_130",
@@ -14948,7 +14953,7 @@
       "Name": "Low Initiative",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4210
+      "UsersEstimate": 4211
     },
     {
       "ID": "objective_completed_164",
@@ -14978,9 +14983,9 @@
       "ID": "objective_completed_167",
       "SetID": "cc37lbc",
       "Name": "Vajra\u0027s Guards",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 842
+      "UsersEstimate": 1053
     },
     {
       "ID": "objective_completed_169",
@@ -14988,7 +14993,7 @@
       "Name": "Building Trust",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4210
+      "UsersEstimate": 4211
     },
     {
       "ID": "objective_completed_17",
@@ -14996,7 +15001,7 @@
       "Name": "March of the Undead",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4210
+      "UsersEstimate": 4211
     },
     {
       "ID": "objective_completed_170",
@@ -15100,7 +15105,7 @@
       "Name": "No Time To Rest",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4210
+      "UsersEstimate": 4211
     },
     {
       "ID": "objective_completed_208",
@@ -15170,9 +15175,9 @@
       "ID": "objective_completed_216",
       "SetID": "cc37lbc",
       "Name": "Relentless Misfortune",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 421
+      "UsersEstimate": 632
     },
     {
       "ID": "objective_completed_230",
@@ -15180,7 +15185,7 @@
       "Name": "The Dinner Party",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4210
+      "UsersEstimate": 4211
     },
     {
       "ID": "objective_completed_231",
@@ -15436,7 +15441,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 31579
+      "UsersEstimate": 31581
     },
     {
       "ID": "objective_completed_34",
@@ -15444,7 +15449,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 14737
+      "UsersEstimate": 14738
     },
     {
       "ID": "objective_completed_35",
@@ -15556,7 +15561,7 @@
       "Name": "Seeking Allies",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10526
+      "UsersEstimate": 10527
     },
     {
       "ID": "objective_completed_390",
@@ -15628,7 +15633,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 14737
+      "UsersEstimate": 14738
     },
     {
       "ID": "objective_completed_40",
@@ -15636,7 +15641,7 @@
       "Name": "Useless Allies",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4210
+      "UsersEstimate": 4211
     },
     {
       "ID": "objective_completed_400",
@@ -15900,7 +15905,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10526
+      "UsersEstimate": 10527
     },
     {
       "ID": "objective_completed_54",
@@ -16252,7 +16257,7 @@
       "Name": "Running of the Saurs",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4210
+      "UsersEstimate": 4211
     },
     {
       "ID": "objective_completed_590",
@@ -16844,7 +16849,7 @@
       "Name": "The Giant\u0027s Bane Tavern",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1414
+      "UsersEstimate": 1415
     },
     {
       "ID": "objective_completed_691",
@@ -16908,7 +16913,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 23158
+      "UsersEstimate": 23159
     },
     {
       "ID": "objective_completed_70",
@@ -16940,7 +16945,7 @@
       "Name": "Waterdeep Detours",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4210
+      "UsersEstimate": 4211
     },
     {
       "ID": "objective_completed_75",
@@ -16972,7 +16977,7 @@
       "Name": "Underdeep Cartography",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4210
+      "UsersEstimate": 4211
     },
     {
       "ID": "objective_completed_8",
@@ -16980,7 +16985,7 @@
       "Name": "Friendly Imps",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10526
+      "UsersEstimate": 10527
     },
     {
       "ID": "objective_completed_80",
@@ -16988,7 +16993,7 @@
       "Name": "Overdue Rendezvous",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4210
+      "UsersEstimate": 4211
     },
     {
       "ID": "objective_completed_802",
@@ -17508,7 +17513,7 @@
       "Name": "Pure Energy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10526
+      "UsersEstimate": 10527
     },
     {
       "ID": "objective_completed_902",
@@ -17636,7 +17641,7 @@
       "Name": "The Templar\u0027s Camp",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4210
+      "UsersEstimate": 4211
     },
     {
       "ID": "objective_completed_95",
@@ -17787,21 +17792,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 176799,
+      "Progressed": 176814,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 210525,
+      "Progressed": 210540,
       "Completed": 2046
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-12T05:58:46.2278508+00:00",
-  "LastChanged_Achievements": "2023-07-12T16:04:38.2650322+00:00",
+  "LastChanged_Achievements": "2023-07-12T17:05:01.8554022+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:43.9043947+00:00",
-  "LastUpdate_Ratings": "2023-07-12T15:58:18.5071476+00:00",
-  "LastUpdate_Achievements": "2023-07-12T16:04:38.2673389+00:00"
+  "LastUpdate_Ratings": "2023-07-12T16:58:43.9283468+00:00",
+  "LastUpdate_Achievements": "2023-07-12T17:05:01.8576794+00:00"
 }

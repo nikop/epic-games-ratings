@@ -6,22 +6,22 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~223,056 |
+| First Steps | 96.00% | ~223,057 |
 | Uncharted Territory | 89.00% | ~206,792 |
 | Getting A Glimpse | 73.00% | ~169,616 |
 | A Quick Escape | 65.00% | ~151,028 |
-| Explorer | 62.00% | ~144,057 |
+| Explorer | 62.00% | ~144,058 |
 | Defeat The Dark | 61.00% | ~141,734 |
 | An Offering | 61.00% | ~141,734 |
-| Colorful Corpse | 58.00% | ~134,763 |
-| That Was Quick | 56.00% | ~130,116 |
-| A Donation | 56.00% | ~130,116 |
-| Goodbye, Frog Friend | 54.00% | ~125,469 |
+| Colorful Corpse | 58.00% | ~134,764 |
+| That Was Quick | 56.00% | ~130,117 |
+| A Donation | 56.00% | ~130,117 |
+| Goodbye, Frog Friend | 54.00% | ~125,470 |
 | Heavy Hitter | 53.00% | ~123,146 |
 | Heartless | 46.00% | ~106,881 |
 | Spine Breaker | 46.00% | ~106,881 |
 | Deflection | 45.00% | ~104,558 |
-| Sneaky | 43.00% | ~99,910 |
+| Sneaky | 43.00% | ~99,911 |
 | Delving Deeper | 42.00% | ~97,587 |
 | Ambitious Intent | 41.00% | ~95,264 |
 | C-C-Combo | 41.00% | ~95,264 |
@@ -30,7 +30,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | What's Yours Is Mine | 38.00% | ~88,293 |
 | R.I.P | 36.00% | ~83,646 |
 | Shootout | 36.00% | ~83,646 |
-| I Am Overburdened | 35.00% | ~81,322 |
+| I Am Overburdened | 35.00% | ~81,323 |
 | Cold Hearted | 34.00% | ~78,999 |
 | Dig Your Own Grave | 33.00% | ~76,676 |
 | Toxic | 33.00% | ~76,676 |
@@ -48,14 +48,14 @@ Number of Ratings: 15,086  (23.09.2022)
 | To The Death! | 20.00% | ~46,470 |
 | Well Prepared | 20.00% | ~46,470 |
 | Just Chilling | 20.00% | ~46,470 |
-| Stop Hitting Yourself | 19.00% | ~44,146 |
+| Stop Hitting Yourself | 19.00% | ~44,147 |
 | All Consuming | 18.00% | ~41,823 |
 | Shadow Spreads | 17.00% | ~39,500 |
 | Don't Ignore Me! | 17.00% | ~39,500 |
 | Illuminate, Eliminate | 17.00% | ~39,500 |
 | Max Damage! | 16.00% | ~37,176 |
 | Doing Time | 16.00% | ~37,176 |
-| Spreading Plague | 15.00% | ~34,852 |
+| Spreading Plague | 15.00% | ~34,853 |
 | The Long Run | 14.00% | ~32,529 |
 | A Rough Road | 13.00% | ~30,206 |
 | Chain Reaction | 13.00% | ~30,206 |
@@ -92,16 +92,16 @@ Number of Ratings: 15,086  (23.09.2022)
 | Resourceful | 4.00% | ~9,294 |
 | Become The Nightmare | 4.00% | ~9,294 |
 | No Mercy | 4.00% | ~9,294 |
-| Quick Descent | 3.00% | ~6,970 |
-| A Week Attempt | 3.00% | ~6,970 |
-| Dead Revels | 3.00% | ~6,970 |
-| Powerful Potion | 3.00% | ~6,970 |
-| Here Comes The Airplane | 3.00% | ~6,970 |
-| Trail Of Death | 3.00% | ~6,970 |
-| The Boulder | 3.00% | ~6,970 |
-| Overthrown | 3.00% | ~6,970 |
-| Illuminate, Annihilate | 3.00% | ~6,970 |
-| Masochist | 3.00% | ~6,970 |
+| Quick Descent | 3.00% | ~6,971 |
+| A Week Attempt | 3.00% | ~6,971 |
+| Dead Revels | 3.00% | ~6,971 |
+| Powerful Potion | 3.00% | ~6,971 |
+| Here Comes The Airplane | 3.00% | ~6,971 |
+| Trail Of Death | 3.00% | ~6,971 |
+| The Boulder | 3.00% | ~6,971 |
+| Overthrown | 3.00% | ~6,971 |
+| Illuminate, Annihilate | 3.00% | ~6,971 |
+| Masochist | 3.00% | ~6,971 |
 | Poor Choices | 2.00% | ~4,647 |
 | Not What I Meant | 2.00% | ~4,647 |
 | A Rock And A Hard Place | 2.00% | ~4,647 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Never Too Many Hats | 0.40% | ~929 |
 | Near Death Experience | 0.30% | ~697 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,350 (Ranked 46)  
+Progressed: 232,351 (Ranked 46)  
 Completed: 246 (0.11%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 246 (0.11%) (Ranked 181)
 | 2023-07-09 | 232,198 | 246 |
 | 2023-07-10 | 232,259 | 246 |
 | 2023-07-11 | 232,311 | 246 |
-| 2023-07-12 | 232,350 | 246 |
+| 2023-07-12 | 232,351 | 246 |
 ## Awards
 Max (Quickly Understood Controls): 1,483  (Ranked 120)  
 Sum: 11,482 (Ranked 75)  

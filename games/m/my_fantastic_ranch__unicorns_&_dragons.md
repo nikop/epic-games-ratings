@@ -15,17 +15,17 @@
 | Dream Big | 9.00% | ~2 |
 | Entering New Territory | 9.00% | ~2 |
 | Lecturer | 9.00% | ~2 |
+| Kindred Spirits | 9.00% | ~2 |
 | Gotta Adopt Them All! | 5.00% | ~1 |
 | Protected Nature Reserve | 5.00% | ~1 |
 | Diamonds in the Rough | 5.00% | ~1 |
+| Paving the Way | 5.00% | ~1 |
 | Just One More Go | 5.00% | ~1 |
 | Fully Booked! | 5.00% | ~1 |
 | Neverending Story | 5.00% | ~1 |
-| Kindred Spirits | 5.00% | ~1 |
 | Kingdom Champions | 0.00% | ~0 |
 | Dream Team | 0.00% | ~0 |
 | S is for Sensational | 0.00% | ~0 |
-| Paving the Way | 0.00% | ~0 |
 | Dragon Academy | 0.00% | ~0 |
 | Job Done! | 0.00% | ~0 |
 | Claim to Fame | 0.00% | ~0 |

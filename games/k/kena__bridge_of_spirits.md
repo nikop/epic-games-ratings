@@ -6,36 +6,36 @@ Number of Ratings: 3,313  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Found a Friend | 95.00% | ~405,381 |
+| Found a Friend | 95.00% | ~405,382 |
 | Haikyo | 80.00% | ~341,374 |
-| Good as New | 72.00% | ~307,236 |
+| Good as New | 72.00% | ~307,237 |
 | Into the Woods | 69.00% | ~294,435 |
-| Hunter in the Forest | 60.00% | ~256,030 |
-| Rot Commander | 60.00% | ~256,030 |
+| Hunter in the Forest | 60.00% | ~256,031 |
+| Rot Commander | 60.00% | ~256,031 |
 | Taro's Fear | 56.00% | ~238,962 |
 | Between the Eyes | 46.00% | ~196,290 |
 | Taro's Love | 45.00% | ~192,023 |
-| Taro's Regret | 43.00% | ~183,488 |
-| Spirit Guide | 42.00% | ~179,221 |
-| Harness Your Power | 38.00% | ~162,152 |
-| The Open Range | 37.00% | ~157,885 |
+| Taro's Regret | 43.00% | ~183,489 |
+| Spirit Guide | 42.00% | ~179,222 |
+| Harness Your Power | 38.00% | ~162,153 |
+| The Open Range | 37.00% | ~157,886 |
 | Adira's Love | 34.00% | ~145,084 |
-| Adira's Fear | 32.00% | ~136,549 |
-| Weigh Them Down | 31.00% | ~132,282 |
-| Adira's Regret | 31.00% | ~132,282 |
+| Adira's Fear | 32.00% | ~136,550 |
+| Weigh Them Down | 31.00% | ~132,283 |
+| Adira's Regret | 31.00% | ~132,283 |
 | A Heavy Hammer | 30.00% | ~128,015 |
 | Crossing Over | 29.00% | ~123,748 |
 | Quick Draw | 29.00% | ~123,748 |
 | Toshi's Fear | 27.00% | ~115,214 |
 | Toshi's Love | 27.00% | ~115,214 |
-| A Leader Walks Alone | 26.00% | ~110,946 |
-| Bow Master | 26.00% | ~110,946 |
-| The Lonely Path | 26.00% | ~110,946 |
-| Toshi's Regret | 26.00% | ~110,946 |
-| Restore Balance | 25.00% | ~106,679 |
+| A Leader Walks Alone | 26.00% | ~110,947 |
+| Bow Master | 26.00% | ~110,947 |
+| The Lonely Path | 26.00% | ~110,947 |
+| Toshi's Regret | 26.00% | ~110,947 |
+| Restore Balance | 25.00% | ~106,680 |
 | Say Cheese | 16.00% | ~68,275 |
 | Skillful Spirit Guide | 15.00% | ~64,008 |
-| Piercing Blow | 14.00% | ~59,740 |
+| Piercing Blow | 14.00% | ~59,741 |
 | Zen Master | 8.00% | ~34,137 |
 | Curse Collector | 7.00% | ~29,870 |
 | The Last Stop | 7.00% | ~29,870 |
@@ -48,7 +48,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Triple Threat | 0.90% | ~3,840 |
 | Master Spirit Guide | 0.30% | ~1,280 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 426,717 (Ranked 37)  
+Progressed: 426,718 (Ranked 37)  
 Completed: 516 (0.12%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 516 (0.12%) (Ranked 180)
 | 2023-07-09 | 426,671 | 515 |
 | 2023-07-10 | 426,686 | 515 |
 | 2023-07-11 | 426,706 | 516 |
-| 2023-07-12 | 426,717 | 516 |
+| 2023-07-12 | 426,718 | 516 |
 ## Awards
 Max (Great Boss Battles): 1,306  (Ranked 129)  
 Sum: 1,680 (Ranked 207)  

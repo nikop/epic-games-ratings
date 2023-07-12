@@ -19,7 +19,7 @@ Rating: 4.19 (Ranked 846)
 | Crash Site | 2.00% | ~314 |
 | Full Circle | 2.00% | ~314 |
 | Power Up | 2.00% | ~314 |
-| It's Time | 2.00% | ~72 |
+| It's Time | 2.00% | ~73 |
 | Giving Back | 1.00% | ~157 |
 | Terminated | 1.00% | ~157 |
 | Workplace Hazard | 1.00% | ~157 |
@@ -32,8 +32,8 @@ Rating: 4.19 (Ranked 846)
 | One Last Job | 1.00% | ~36 |
 | In Striking Distance | 0.70% | ~110 |
 | This Isn't About Escape | 0.60% | ~22 |
-| Armed to the Teeth | 0.40% | ~14 |
-| Information Overload | 0.40% | ~14 |
+| Armed to the Teeth | 0.40% | ~15 |
+| Information Overload | 0.40% | ~15 |
 | Grim Reaper | 0.30% | ~47 |
 | Parole Denied | 0.30% | ~11 |
 | Quick Pick | 0.30% | ~11 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 846)
 | I am the Danger | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,699 (Ranked 108)  
+Progressed: 15,700 (Ranked 108)  
 Completed: 66 (0.42%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 66 (0.42%) (Ranked 133)
 | 2023-07-09 | 15,676 | 66 |
 | 2023-07-10 | 15,682 | 66 |
 | 2023-07-11 | 15,692 | 66 |
-| 2023-07-12 | 15,699 | 66 |
+| 2023-07-12 | 15,700 | 66 |
 ## Awards
 Max (Amazing Storytelling): 68  (Ranked 374)  
 Sum: 382 (Ranked 316)  

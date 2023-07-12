@@ -6,19 +6,19 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 37.00% | ~20,566 |
-| Landlord | 31.00% | ~17,231 |
+| Lawbringer | 37.00% | ~20,567 |
+| Landlord | 31.00% | ~17,232 |
 | Horde breaker | 22.00% | ~12,229 |
 | Lawmaker | 22.00% | ~12,229 |
 | Bannerlord | 21.00% | ~11,673 |
 | Trained | 21.00% | ~11,673 |
-| The king is pleased | 17.00% | ~9,449 |
+| The king is pleased | 17.00% | ~9,450 |
 | King Solomon | 16.00% | ~8,894 |
 | I can do it | 15.00% | ~8,338 |
 | Apple of my eye | 14.00% | ~7,782 |
 | God of the Arena | 12.00% | ~6,670 |
-| Against all odds | 11.00% | ~6,114 |
-| Swordbearer | 10.00% | ~5,558 |
+| Against all odds | 11.00% | ~6,115 |
+| Swordbearer | 10.00% | ~5,559 |
 | Duelist | 9.00% | ~5,003 |
 | Dynasty | 9.00% | ~5,003 |
 | I spit on your grave | 9.00% | ~5,003 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,585 (Ranked 83)  
+Progressed: 55,587 (Ranked 83)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,16 +141,16 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-09 | 55,420 | 0 |
 | 2023-07-10 | 55,492 | 0 |
 | 2023-07-11 | 55,547 | 0 |
-| 2023-07-12 | 55,585 | 0 |
+| 2023-07-12 | 55,587 | 0 |
 ## Awards
-Max (Character Customization): 6,778  (Ranked 48)  
-Sum: 13,704 (Ranked 67)  
+Max (Character Customization): 6,782  (Ranked 48)  
+Sum: 13,710 (Ranked 67)  
 Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 6,778 |
-| This game is Great for Beginners | 875 |
-| This game has Diverse Characters | 856 |
+| This game has Inclusive Character Customization | 6,782 |
+| This game is Great for Beginners | 876 |
+| This game has Diverse Characters | 857 |
 | This game is Highly Recommended | 817 |
 | This game is Extremely Fun | 779 |
 | This game has Amazing Storytelling | 775 |
@@ -341,4 +341,4 @@ Diff (max vs sum): -19
 | 2023-07-09 | 4.74 | - | 6,773 | 13,679 |
 | 2023-07-10 | 4.74 | - | 6,773 | 13,688 |
 | 2023-07-11 | 4.74 | - | 6,778 | 13,700 |
-| 2023-07-12 | 4.74 | - | 6,778 | 13,704 |
+| 2023-07-12 | 4.74 | - | 6,782 | 13,710 |

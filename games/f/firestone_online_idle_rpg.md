@@ -28,9 +28,9 @@ Rating: 4.11 (Ranked 886)
 | Superior | 12.00% | ~194 |
 | Milestone collector | 11.00% | ~178 |
 | Scientist | 11.00% | ~178 |
+| Challenger | 10.00% | ~162 |
 | Hunter | 10.00% | ~162 |
 | The power of Awakening | 10.00% | ~162 |
-| Challenger | 9.00% | ~146 |
 | Daily Quest Completionist | 9.00% | ~146 |
 | Doing My Part | 9.00% | ~146 |
 | Four Leaf Clover | 9.00% | ~146 |

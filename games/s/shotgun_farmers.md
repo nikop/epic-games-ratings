@@ -15,11 +15,11 @@
 | Early Survivor | 40.00% | ~59 |
 | No Diggity | 40.00% | ~59 |
 | Amateur Survivor | 28.00% | ~41 |
-| 10K | 23.00% | ~45 |
+| 10K | 24.00% | ~47 |
 | Bouncemato | 23.00% | ~34 |
 | 15K | 22.00% | ~43 |
 | Drinking Problem | 20.00% | ~39 |
-| Grave Digger | 19.00% | ~28 |
+| Grave Digger | 20.00% | ~29 |
 | Professional Survivor | 18.00% | ~26 |
 | Quick-Draw Pod | 16.00% | ~24 |
 | This Is My Boomstick | 13.00% | ~19 |

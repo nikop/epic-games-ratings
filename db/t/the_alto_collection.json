@@ -697,9 +697,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 30709,
+  "EOS_Progressed": 30712,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 992,
+  "EOS_NewPlayers": 995,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -9612,6 +9612,11 @@
       "Time": "2023-07-12T16:03:24.0885226+00:00",
       "NumProgressed": 30709,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-12T17:03:27.3284953+00:00",
+      "NumProgressed": 30712,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -9663,7 +9668,7 @@
       "Name": "Rookie",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 7984
+      "UsersEstimate": 7985
     },
     {
       "ID": "goals180",
@@ -9735,7 +9740,7 @@
       "Name": "My Little Friend",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1535
+      "UsersEstimate": 1536
     },
     {
       "ID": "nomad",
@@ -9831,7 +9836,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 7984
+      "UsersEstimate": 7985
     },
     {
       "ID": "sandboarder",
@@ -9887,7 +9892,7 @@
       "Name": "Welcome Maya",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 4606
+      "UsersEstimate": 4607
     },
     {
       "ID": "unlockpaz",
@@ -9911,7 +9916,7 @@
       "Name": "Voyager",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1535
+      "UsersEstimate": 1536
     },
     {
       "ID": "wanderer",
@@ -9934,15 +9939,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 30709,
+      "Progressed": 30712,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-06-28T23:00:30.7076755+00:00",
-  "LastChanged_Achievements": "2023-07-12T16:03:24.0885223+00:00",
+  "LastChanged_Achievements": "2023-07-12T17:03:27.3284948+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:25.3056035+00:00",
-  "LastUpdate_Ratings": "2023-07-12T15:59:25.8932104+00:00",
-  "LastUpdate_Achievements": "2023-07-12T16:03:24.0885861+00:00"
+  "LastUpdate_Ratings": "2023-07-12T16:59:56.2042781+00:00",
+  "LastUpdate_Achievements": "2023-07-12T17:03:27.3285655+00:00"
 }

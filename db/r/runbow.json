@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 246450,
+  "EOS_Progressed": 246451,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 382,
+  "EOS_NewPlayers": 381,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8109,6 +8109,11 @@
       "Time": "2023-07-12T16:06:12.9954111+00:00",
       "NumProgressed": 246450,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-12T17:06:36.9111167+00:00",
+      "NumProgressed": 246451,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -8144,7 +8149,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 51754
+      "UsersEstimate": 51755
     },
     {
       "ID": "blotbuster",
@@ -8176,7 +8181,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 41896
+      "UsersEstimate": 41897
     },
     {
       "ID": "cantBeKeptDown",
@@ -8296,7 +8301,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 130618
+      "UsersEstimate": 130619
     },
     {
       "ID": "indegestible",
@@ -8328,7 +8333,7 @@
       "Name": "Just A Bit",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2464
+      "UsersEstimate": 2465
     },
     {
       "ID": "lazyLaser",
@@ -8360,7 +8365,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 123225
+      "UsersEstimate": 123226
     },
     {
       "ID": "notScared",
@@ -8424,7 +8429,7 @@
       "Name": "The Stunner",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 51754
+      "UsersEstimate": 51755
     },
     {
       "ID": "thunderstruck",
@@ -8440,7 +8445,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32038
+      "UsersEstimate": 32039
     },
     {
       "ID": "treeMedalist",
@@ -8464,7 +8469,7 @@
       "Name": "Tubular, Dude",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 2464
+      "UsersEstimate": 2465
     },
     {
       "ID": "whatATrip",
@@ -8487,7 +8492,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 246450,
+      "Progressed": 246451,
       "Completed": 3
     }
   ],
@@ -8495,8 +8500,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-07-12T16:06:12.9954107+00:00",
+  "LastChanged_Achievements": "2023-07-12T17:06:36.9111161+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:16.5016071+00:00",
-  "LastUpdate_Ratings": "2023-07-12T15:59:19.7165711+00:00",
-  "LastUpdate_Achievements": "2023-07-12T16:06:12.995477+00:00"
+  "LastUpdate_Ratings": "2023-07-12T16:59:47.0546021+00:00",
+  "LastUpdate_Achievements": "2023-07-12T17:06:36.9111819+00:00"
 }
