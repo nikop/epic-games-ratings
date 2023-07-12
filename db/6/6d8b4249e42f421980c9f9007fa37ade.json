@@ -559,9 +559,9 @@
       "ID": "Epic_InnerWorld_1",
       "SetID": "ba1m2fc",
       "Name": "Pseudo-redemption",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Epic_KillBoss_25",
@@ -639,9 +639,9 @@
       "ID": "Epic_Purgatory_1",
       "SetID": "ba1m2fc",
       "Name": "Paradise Lost",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "Epic_Revenge_1",
@@ -679,9 +679,9 @@
       "ID": "Epic_Shotgun_1",
       "SetID": "ba1m2fc",
       "Name": "Deadly Twin Cracks",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "Epic_SmallBell_1",
@@ -766,8 +766,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-07-12T05:05:12.485836+00:00",
+  "LastChanged_Achievements": "2023-07-12T06:05:27.0519344+00:00",
   "LastUpdate_AppInfo": "2023-07-06T05:56:55.6931967+00:00",
-  "LastUpdate_Ratings": "2023-07-12T04:57:15.3303609+00:00",
-  "LastUpdate_Achievements": "2023-07-12T05:05:12.4859239+00:00"
+  "LastUpdate_Ratings": "2023-07-12T05:57:25.28042+00:00",
+  "LastUpdate_Achievements": "2023-07-12T06:05:27.0519694+00:00"
 }

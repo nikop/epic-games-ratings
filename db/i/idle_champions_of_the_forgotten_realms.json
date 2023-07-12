@@ -4862,10 +4862,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 30485,
       "NumberOfAwardsMax": 5025
+    },
+    {
+      "Time": "2023-07-12T05:58:46.227851+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30487,
+      "NumberOfAwardsMax": 5025
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30485,
+  "NumberOfAwards": 30487,
   "NumberOfAwardsMax": 5025,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4909,12 +4915,12 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3295
+      "Count": 3297
     }
   ],
-  "EOS_Progressed": 210355,
+  "EOS_Progressed": 210367,
   "EOS_Completed": 2046,
-  "EOS_NewPlayers": 3943,
+  "EOS_NewPlayers": 3935,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -13692,6 +13698,11 @@
       "Time": "2023-07-12T05:05:18.1208889+00:00",
       "NumProgressed": 210355,
       "NumCompleted": 2046
+    },
+    {
+      "Time": "2023-07-12T06:05:33.1580667+00:00",
+      "NumProgressed": 210367,
+      "NumCompleted": 2046
     }
   ],
   "TotalAchievements": 503,
@@ -14567,7 +14578,7 @@
       "Name": "Were-verpowered",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 12621
+      "UsersEstimate": 12622
     },
     {
       "ID": "objective_completed_1203",
@@ -14679,7 +14690,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8414
+      "UsersEstimate": 8415
     },
     {
       "ID": "objective_completed_130",
@@ -15087,7 +15098,7 @@
       "Name": "Family Entanglements",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1472
+      "UsersEstimate": 1473
     },
     {
       "ID": "objective_completed_214",
@@ -15183,7 +15194,7 @@
       "Name": "The Immortal Warrior",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1472
+      "UsersEstimate": 1473
     },
     {
       "ID": "objective_completed_247",
@@ -15215,7 +15226,7 @@
       "Name": "The Wyrmheart Mine",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1472
+      "UsersEstimate": 1473
     },
     {
       "ID": "objective_completed_252",
@@ -15375,7 +15386,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 31553
+      "UsersEstimate": 31555
     },
     {
       "ID": "objective_completed_34",
@@ -15383,7 +15394,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 14725
+      "UsersEstimate": 14726
     },
     {
       "ID": "objective_completed_35",
@@ -15567,7 +15578,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 14725
+      "UsersEstimate": 14726
     },
     {
       "ID": "objective_completed_40",
@@ -15599,7 +15610,7 @@
       "Name": "Fugitives",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1472
+      "UsersEstimate": 1473
     },
     {
       "ID": "objective_completed_404",
@@ -15703,7 +15714,7 @@
       "Name": "Hopelessly Lost",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1472
+      "UsersEstimate": 1473
     },
     {
       "ID": "objective_completed_419",
@@ -15743,7 +15754,7 @@
       "Name": "Enter the Sargauth",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1472
+      "UsersEstimate": 1473
     },
     {
       "ID": "objective_completed_424",
@@ -15991,7 +16002,7 @@
       "Name": "Crowded Streets",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1472
+      "UsersEstimate": 1473
     },
     {
       "ID": "objective_completed_560",
@@ -16095,7 +16106,7 @@
       "Name": "Difficult Terrain",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1472
+      "UsersEstimate": 1473
     },
     {
       "ID": "objective_completed_576",
@@ -16327,7 +16338,7 @@
       "Name": "Market Fluctuations",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1472
+      "UsersEstimate": 1473
     },
     {
       "ID": "objective_completed_610",
@@ -16847,7 +16858,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 23139
+      "UsersEstimate": 23140
     },
     {
       "ID": "objective_completed_70",
@@ -17447,7 +17458,7 @@
       "Name": "Pure Energy",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8414
+      "UsersEstimate": 8415
     },
     {
       "ID": "objective_completed_902",
@@ -17726,21 +17737,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 176629,
+      "Progressed": 176641,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 210355,
+      "Progressed": 210367,
       "Completed": 2046
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-07-11T22:58:48.2156233+00:00",
-  "LastChanged_Achievements": "2023-07-12T05:05:18.1208881+00:00",
+  "LastChanged": "2023-07-12T05:58:46.2278508+00:00",
+  "LastChanged_Achievements": "2023-07-12T06:05:33.1580662+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:43.9043947+00:00",
-  "LastUpdate_Ratings": "2023-07-12T04:58:41.3280093+00:00",
-  "LastUpdate_Achievements": "2023-07-12T05:05:18.1248106+00:00"
+  "LastUpdate_Ratings": "2023-07-12T05:58:46.2278513+00:00",
+  "LastUpdate_Achievements": "2023-07-12T06:05:33.1603574+00:00"
 }

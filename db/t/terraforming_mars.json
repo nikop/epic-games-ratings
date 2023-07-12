@@ -2440,9 +2440,9 @@
       "Count": 235
     }
   ],
-  "EOS_Progressed": 66691,
+  "EOS_Progressed": 66692,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 947,
+  "EOS_NewPlayers": 945,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11220,6 +11220,11 @@
       "Time": "2023-07-12T05:04:40.6853698+00:00",
       "NumProgressed": 66691,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2023-07-12T06:04:57.0375224+00:00",
+      "NumProgressed": 66692,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 30,
@@ -11319,7 +11324,7 @@
       "Name": "Changing the Planet",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 19340
+      "UsersEstimate": 19341
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -11367,7 +11372,7 @@
       "Name": "Sojourner",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 18673
+      "UsersEstimate": 18674
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -11470,15 +11475,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 66691,
+      "Progressed": 66692,
       "Completed": 70
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-07-09T23:58:11.8280956+00:00",
-  "LastChanged_Achievements": "2023-07-12T05:04:40.6853692+00:00",
+  "LastChanged_Achievements": "2023-07-12T06:04:57.0375219+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:57.7557598+00:00",
-  "LastUpdate_Ratings": "2023-07-12T04:58:54.9779531+00:00",
-  "LastUpdate_Achievements": "2023-07-12T05:04:40.6855146+00:00"
+  "LastUpdate_Ratings": "2023-07-12T05:58:58.8522984+00:00",
+  "LastUpdate_Achievements": "2023-07-12T06:04:57.0375799+00:00"
 }

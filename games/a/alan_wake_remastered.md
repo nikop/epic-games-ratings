@@ -7,7 +7,7 @@ Number of Ratings: 524  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Follow the Light | 34.00% | ~19,459 |
-| Let There Be Light | 27.00% | ~15,452 |
+| Let There Be Light | 27.00% | ~15,453 |
 | Float Like a Butterfly | 26.00% | ~14,880 |
 | Nordic Walking | 21.00% | ~12,019 |
 | Bright Falls' Finest | 20.00% | ~11,446 |
@@ -21,11 +21,11 @@ Number of Ratings: 524  (23.09.2022)
 | Wheels Within Wheels | 12.00% | ~6,868 |
 | They're Heeeeeere! | 12.00% | ~6,868 |
 | Missed by a Mile | 12.00% | ~6,868 |
-| Heavy Metal | 11.00% | ~6,295 |
-| Iron Horse | 11.00% | ~6,295 |
-| The Six-Gun Scribe | 11.00% | ~6,295 |
-| Collateral Carnage | 11.00% | ~6,295 |
-| Come One, Come All | 11.00% | ~6,295 |
+| Heavy Metal | 11.00% | ~6,296 |
+| Iron Horse | 11.00% | ~6,296 |
+| The Six-Gun Scribe | 11.00% | ~6,296 |
+| Collateral Carnage | 11.00% | ~6,296 |
+| Come One, Come All | 11.00% | ~6,296 |
 | Perchance to Dream | 10.00% | ~5,723 |
 | It's Not Just a Typewriter Brand | 10.00% | ~5,723 |
 | Thunder and Lightning | 10.00% | ~5,723 |
@@ -33,7 +33,7 @@ Number of Ratings: 524  (23.09.2022)
 | The Lady of the Light | 9.00% | ~5,151 |
 | Two For the Price of One | 9.00% | ~5,151 |
 | Energized! | 9.00% | ~5,151 |
-| Right of Way | 8.00% | ~4,578 |
+| Right of Way | 8.00% | ~4,579 |
 | A Friend in Need | 8.00% | ~1,656 |
 | Tornado Wrangler | 7.00% | ~4,006 |
 | What Light Through Yonder Window | 7.00% | ~4,006 |
@@ -57,7 +57,7 @@ Number of Ratings: 524  (23.09.2022)
 | Go Gentle Into That Good Light | 1.00% | ~207 |
 | Words Will Never Harm You | 0.60% | ~124 |
 | Cardboard Companions | 0.60% | ~124 |
-| Fast and Furious | 0.50% | ~103 |
+| Fast and Furious | 0.50% | ~104 |
 | Run-On Sentence | 0.40% | ~83 |
 | License Revoked | 0.40% | ~83 |
 | Whirlwind | 0.40% | ~83 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~57 |
 | No Punctuation | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,231 (Ranked 81)  
+Progressed: 57,232 (Ranked 81)  
 Completed: 57 (0.10%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,7 +157,7 @@ Completed: 57 (0.10%) (Ranked 183)
 | 2023-07-09 | 57,124 | 57 |
 | 2023-07-10 | 57,171 | 57 |
 | 2023-07-11 | 57,220 | 57 |
-| 2023-07-12 | 57,231 | 57 |
+| 2023-07-12 | 57,232 | 57 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

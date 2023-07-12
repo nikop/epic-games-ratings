@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 544,
+  "EOS_Progressed": 545,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -956,6 +956,11 @@
       "Time": "2023-07-12T04:04:43.9647304+00:00",
       "NumProgressed": 544,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-12T06:05:07.3256071+00:00",
+      "NumProgressed": 545,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -967,7 +972,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -1167,7 +1172,7 @@
       "Name": "Greetings from Royalty",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -1205,9 +1210,9 @@
       "ID": "FREEM_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Where Is Houdini?",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 65
     },
     {
       "ID": "FREE_ACHIEVEMENT_1",
@@ -1255,7 +1260,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -1317,9 +1322,9 @@
       "ID": "KLEECHER_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Leecher Hunting Season",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 76
     },
     {
       "ID": "LEECHER_ACHIEVEMENT_1",
@@ -1357,9 +1362,9 @@
       "ID": "MEAT_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Night Snack",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 114
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -1494,14 +1499,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 544,
+      "Progressed": 545,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-12T05:04:51.4560949+00:00",
+  "LastChanged_Achievements": "2023-07-12T06:05:07.3256068+00:00",
   "LastUpdate_AppInfo": "2023-07-06T13:16:22.5768242+00:00",
-  "LastUpdate_Ratings": "2023-07-12T04:56:58.6191108+00:00",
-  "LastUpdate_Achievements": "2023-07-12T05:04:51.4561908+00:00"
+  "LastUpdate_Ratings": "2023-07-12T05:57:08.4412207+00:00",
+  "LastUpdate_Achievements": "2023-07-12T06:05:07.3256662+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "voodoo-kid-05b29a",
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 321,
+  "Ranking_EOS_NewPlayers": 320,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-03T14:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-04-16T04:58:17.8746185+00:00",
   "LastChanged": "2023-04-16T04:58:17.8746186+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:27.6325256+00:00",
-  "LastUpdate_Ratings": "2023-07-12T05:00:16.4416834+00:00",
-  "LastUpdate_Achievements": "2023-07-12T05:06:18.1994212+00:00"
+  "LastUpdate_Ratings": "2023-07-12T06:00:15.3374648+00:00",
+  "LastUpdate_Achievements": "2023-07-12T06:06:29.2583011+00:00"
 }

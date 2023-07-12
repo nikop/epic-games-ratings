@@ -6,16 +6,16 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,553 |
-| The Mad Wizard | 11.00% | ~23,139 |
-| The Ring of Regeneration | 7.00% | ~14,725 |
-| Are Ya Chicken? | 7.00% | ~14,725 |
-| Were-verpowered | 6.00% | ~12,621 |
+| The Cursed Farmer | 15.00% | ~31,555 |
+| The Mad Wizard | 11.00% | ~23,140 |
+| The Ring of Regeneration | 7.00% | ~14,726 |
+| Are Ya Chicken? | 7.00% | ~14,726 |
+| Were-verpowered | 6.00% | ~12,622 |
 | Seeking Allies | 5.00% | ~10,518 |
 | Mad Cow Disease | 5.00% | ~10,518 |
 | Friendly Imps | 5.00% | ~10,518 |
-| A Persistent Buzzing | 4.00% | ~8,414 |
-| Pure Energy | 4.00% | ~8,414 |
+| A Persistent Buzzing | 4.00% | ~8,415 |
+| Pure Energy | 4.00% | ~8,415 |
 | Beast Mode | 3.00% | ~6,311 |
 | Terror in the Dark | 3.00% | ~6,311 |
 | A Mysterious Summons | 3.00% | ~6,311 |
@@ -67,15 +67,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rude Welcome | 0.80% | ~1,683 |
 | Durable Deep | 0.80% | ~1,683 |
 | The Haunted Jungle | 0.80% | ~1,683 |
-| Family Entanglements | 0.70% | ~1,472 |
-| The Immortal Warrior | 0.70% | ~1,472 |
-| The Wyrmheart Mine | 0.70% | ~1,472 |
-| Fugitives | 0.70% | ~1,472 |
-| Hopelessly Lost | 0.70% | ~1,472 |
-| Enter the Sargauth | 0.70% | ~1,472 |
-| Crowded Streets | 0.70% | ~1,472 |
-| Difficult Terrain | 0.70% | ~1,472 |
-| Market Fluctuations | 0.70% | ~1,472 |
+| Family Entanglements | 0.70% | ~1,473 |
+| The Immortal Warrior | 0.70% | ~1,473 |
+| The Wyrmheart Mine | 0.70% | ~1,473 |
+| Fugitives | 0.70% | ~1,473 |
+| Hopelessly Lost | 0.70% | ~1,473 |
+| Enter the Sargauth | 0.70% | ~1,473 |
+| Crowded Streets | 0.70% | ~1,473 |
+| Difficult Terrain | 0.70% | ~1,473 |
+| Market Fluctuations | 0.70% | ~1,473 |
 | Sleuth It Out | 0.60% | ~1,262 |
 | Tower on the Lake | 0.60% | ~1,262 |
 | Seeds of Deceit | 0.60% | ~1,262 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,355 (Ranked 52)  
+Progressed: 210,367 (Ranked 52)  
 Completed: 2,046 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -593,10 +593,10 @@ Completed: 2,046 (0.97%) (Ranked 102)
 | 2023-07-09 | 209,384 | 2,043 |
 | 2023-07-10 | 209,861 | 2,045 |
 | 2023-07-11 | 210,283 | 2,046 |
-| 2023-07-12 | 210,355 | 2,046 |
+| 2023-07-12 | 210,367 | 2,046 |
 ## Awards
 Max (Diverse Characters): 5,025  (Ranked 65)  
-Sum: 30,485 (Ranked 38)  
+Sum: 30,487 (Ranked 38)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
@@ -606,7 +606,7 @@ Diff (max vs sum): 27
 | This game is Relaxing | 4,550 |
 | This game has Amazing Characters | 4,001 |
 | This game is Highly Recommended | 4,000 |
-| This game has Playful Visuals | 3,295 |
+| This game has Playful Visuals | 3,297 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -777,3 +777,4 @@ Diff (max vs sum): 27
 | 2023-07-09 | 4.05 | - | 5,016 | 30,455 |
 | 2023-07-10 | 4.05 | - | 5,021 | 30,473 |
 | 2023-07-11 | 4.05 | - | 5,025 | 30,485 |
+| 2023-07-12 | 4.05 | - | 5,025 | 30,487 |

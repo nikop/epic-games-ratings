@@ -7,12 +7,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Until death do us apart | 9.00% | ~6,176 |
-| That's a Grand Army | 8.00% | ~5,489 |
-| That is mine! | 8.00% | ~5,489 |
-| Victorious! | 8.00% | ~5,489 |
-| Brothers in Arms | 6.00% | ~4,117 |
-| That's a Grand Navy | 6.00% | ~4,117 |
-| Seriously?! | 6.00% | ~4,117 |
+| That's a Grand Army | 8.00% | ~5,490 |
+| That is mine! | 8.00% | ~5,490 |
+| Victorious! | 8.00% | ~5,490 |
+| Brothers in Arms | 6.00% | ~4,118 |
+| That's a Grand Navy | 6.00% | ~4,118 |
+| Seriously?! | 6.00% | ~4,118 |
 | For the Glory | 5.00% | ~3,431 |
 | Cold War | 4.00% | ~2,745 |
 | True Catholic | 4.00% | ~2,745 |
@@ -22,15 +22,15 @@ Number of Ratings: 8,414  (23.09.2022)
 | Respected | 3.00% | ~2,059 |
 | The Princess is in this Castle | 3.00% | ~2,059 |
 | Truly Divine Ruler | 3.00% | ~2,059 |
-| Agressive Expander | 2.00% | ~1,372 |
-| Blockader | 2.00% | ~1,372 |
-| Combined Arms | 2.00% | ~1,372 |
-| Double the Love | 2.00% | ~1,372 |
-| Gentle Persuasion | 2.00% | ~1,372 |
-| My armies are invincible! | 2.00% | ~1,372 |
-| Queen of Conquest | 2.00% | ~1,372 |
-| Royal Authority | 2.00% | ~1,372 |
-| Total Control | 2.00% | ~1,372 |
+| Agressive Expander | 2.00% | ~1,373 |
+| Blockader | 2.00% | ~1,373 |
+| Combined Arms | 2.00% | ~1,373 |
+| Double the Love | 2.00% | ~1,373 |
+| Gentle Persuasion | 2.00% | ~1,373 |
+| My armies are invincible! | 2.00% | ~1,373 |
+| Queen of Conquest | 2.00% | ~1,373 |
+| Royal Authority | 2.00% | ~1,373 |
+| Total Control | 2.00% | ~1,373 |
 | All That's Thine Shall Be Mine | 1.00% | ~686 |
 | Azur semé de lis or | 1.00% | ~686 |
 | Bright Spark | 1.00% | ~686 |
@@ -59,18 +59,18 @@ Number of Ratings: 8,414  (23.09.2022)
 | Ruina Imperii | 0.50% | ~343 |
 | Trophy Hunter | 0.50% | ~343 |
 | Voting Streak | 0.50% | ~343 |
-| All Your Trade Are Belong to Us | 0.40% | ~274 |
-| Bleed Them Dry | 0.40% | ~274 |
-| Dude, Where's my Boat? | 0.40% | ~274 |
-| Four For Trade | 0.40% | ~274 |
-| Global Hegemony | 0.40% | ~274 |
-| In the Name of the Father | 0.40% | ~274 |
-| Italian Ambition | 0.40% | ~274 |
-| Just a Little Patience | 0.40% | ~274 |
-| One Night in Paris | 0.40% | ~274 |
-| Tear Down This Wall | 0.40% | ~274 |
-| The Continuation of Diplomacy | 0.40% | ~274 |
-| Wonderful | 0.40% | ~274 |
+| All Your Trade Are Belong to Us | 0.40% | ~275 |
+| Bleed Them Dry | 0.40% | ~275 |
+| Dude, Where's my Boat? | 0.40% | ~275 |
+| Four For Trade | 0.40% | ~275 |
+| Global Hegemony | 0.40% | ~275 |
+| In the Name of the Father | 0.40% | ~275 |
+| Italian Ambition | 0.40% | ~275 |
+| Just a Little Patience | 0.40% | ~275 |
+| One Night in Paris | 0.40% | ~275 |
+| Tear Down This Wall | 0.40% | ~275 |
+| The Continuation of Diplomacy | 0.40% | ~275 |
+| Wonderful | 0.40% | ~275 |
 | A Decent Reserve | 0.30% | ~206 |
 | A Pile of Gold | 0.30% | ~206 |
 | Grand Duchy | 0.30% | ~206 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,617 (Ranked 74)  
+Progressed: 68,627 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -444,7 +444,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-09 | 67,782 | 0 |
 | 2023-07-10 | 68,178 | 0 |
 | 2023-07-11 | 68,569 | 0 |
-| 2023-07-12 | 68,617 | 0 |
+| 2023-07-12 | 68,627 | 0 |
 ## Awards
 Max (Educational): 5,533  (Ranked 60)  
 Sum: 45,642 (Ranked 27)  
