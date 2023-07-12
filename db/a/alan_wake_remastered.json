@@ -512,7 +512,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57241,
+  "EOS_Progressed": 57244,
   "EOS_Completed": 57,
   "EOS_NewPlayers": 389,
   "EOS_NewCompleters": 0,
@@ -7737,6 +7737,11 @@
       "Time": "2023-07-12T15:04:34.2285517+00:00",
       "NumProgressed": 57241,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-12T16:03:50.4439616+00:00",
+      "NumProgressed": 57244,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7748,7 +7753,7 @@
       "Name": "Follow the Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 19462
+      "UsersEstimate": 19463
     },
     {
       "ID": "02",
@@ -7764,7 +7769,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11448
+      "UsersEstimate": 11449
     },
     {
       "ID": "04",
@@ -7780,7 +7785,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10303
+      "UsersEstimate": 10304
     },
     {
       "ID": "06",
@@ -7788,7 +7793,7 @@
       "Name": "Park Ranger",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 8586
+      "UsersEstimate": 8587
     },
     {
       "ID": "07",
@@ -7876,7 +7881,7 @@
       "Name": "Departure",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3434
+      "UsersEstimate": 3435
     },
     {
       "ID": "18",
@@ -7972,7 +7977,7 @@
       "Name": "Sound and Fury",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7441
+      "UsersEstimate": 7442
     },
     {
       "ID": "30",
@@ -8020,7 +8025,7 @@
       "Name": "Let There Be Light",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 15455
+      "UsersEstimate": 15456
     },
     {
       "ID": "36",
@@ -8060,7 +8065,7 @@
       "Name": "Right of Way",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4579
+      "UsersEstimate": 4580
     },
     {
       "ID": "41",
@@ -8084,7 +8089,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8586
+      "UsersEstimate": 8587
     },
     {
       "ID": "44",
@@ -8108,7 +8113,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 7441
+      "UsersEstimate": 7442
     },
     {
       "ID": "47",
@@ -8212,7 +8217,7 @@
       "Name": "Ding!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1035
+      "UsersEstimate": 1036
     },
     {
       "ID": "60",
@@ -8283,21 +8288,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57241,
+      "Progressed": 57244,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20709,
+      "Progressed": 20712,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-12T15:04:34.2285509+00:00",
+  "LastChanged_Achievements": "2023-07-12T16:03:50.4439612+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:08.3646753+00:00",
-  "LastUpdate_Ratings": "2023-07-12T14:58:22.4705083+00:00",
-  "LastUpdate_Achievements": "2023-07-12T15:04:34.2286687+00:00"
+  "LastUpdate_Ratings": "2023-07-12T15:57:51.7675591+00:00",
+  "LastUpdate_Achievements": "2023-07-12T16:03:50.4440453+00:00"
 }

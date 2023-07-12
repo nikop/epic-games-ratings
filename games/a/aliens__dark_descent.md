@@ -12,8 +12,8 @@ Rating: 4.43 (Ranked 653)
 | Call Me Snake | 59.00% | ~1,664 |
 | Something Lurks Under The Hills | 58.00% | ~1,636 |
 | This Was No Papercut | 56.00% | ~1,580 |
+| People Person | 52.00% | ~1,467 |
 | The Shrink Hates Me | 52.00% | ~1,467 |
-| People Person | 51.00% | ~1,439 |
 | Use The Bumper, That's What It's For | 49.00% | ~1,382 |
 | First Steps Into Madness | 48.00% | ~1,354 |
 | Colonial Barrels | 46.00% | ~1,298 |
@@ -23,8 +23,8 @@ Rating: 4.43 (Ranked 653)
 | Where It All Begun | 32.00% | ~903 |
 | Recouped Investment | 32.00% | ~903 |
 | Omelette Du Fromage | 30.00% | ~846 |
+| The More The Merrier | 25.00% | ~705 |
 | Living Nightmare | 24.00% | ~677 |
-| The More The Merrier | 24.00% | ~677 |
 | The Darwin Era Was Here | 20.00% | ~564 |
 | Deep Into Insanity | 19.00% | ~536 |
 | Stuff Of Nightmares | 18.00% | ~508 |
@@ -37,7 +37,7 @@ Rating: 4.43 (Ranked 653)
 | Frontliner | 13.00% | ~367 |
 | The Cable Guy | 13.00% | ~367 |
 | Excavating The Truth | 12.00% | ~339 |
-| Abysmal Horrors | 11.00% | ~310 |
+| Abysmal Horrors | 12.00% | ~339 |
 | Regicide | 9.00% | ~254 |
 | Heavy Steps | 9.00% | ~254 |
 | Flawless Victory | 7.00% | ~197 |

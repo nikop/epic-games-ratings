@@ -4,7 +4,7 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -891,9 +891,9 @@
       "ID": "ach_first_rocket_jump",
       "SetID": "cmg602e",
       "Name": "I Believe I Can Fly",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 89
     },
     {
       "ID": "ach_heal_x_points_with_health_pack",
@@ -1139,9 +1139,9 @@
       "ID": "ach_tripleKill",
       "SetID": "cmg602e",
       "Name": "Triple Kill",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 100
     },
     {
       "ID": "ach_win_with_no_deaths",
@@ -1283,17 +1283,17 @@
       "ID": "ach_waves_1",
       "SetID": "bf10c8p",
       "Name": "Survivor",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ach_waves_10",
       "SetID": "bf10c8p",
       "Name": "Early Survivor",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 59
     },
     {
       "ID": "ach_waves_20",
@@ -1387,9 +1387,9 @@
       "ID": "ach_x_victims_using_lmg",
       "SetID": "bf10c8p",
       "Name": "Summers Here",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ach_x_victims_using_pistol",
@@ -1434,8 +1434,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-07-12T15:05:18.6388828+00:00",
+  "LastChanged_Achievements": "2023-07-12T16:04:21.9895874+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:01.6150749+00:00",
-  "LastUpdate_Ratings": "2023-07-12T14:59:15.7810725+00:00",
-  "LastUpdate_Achievements": "2023-07-12T15:05:18.6389846+00:00"
+  "LastUpdate_Ratings": "2023-07-12T15:58:28.5052667+00:00",
+  "LastUpdate_Achievements": "2023-07-12T16:04:21.9896461+00:00"
 }

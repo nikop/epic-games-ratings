@@ -5,29 +5,29 @@ Rating: 4.39 (Ranked 703)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 93.00% | ~1,134 |
-| Ranidaphobia | 78.00% | ~951 |
-| Aspiring Editor | 75.00% | ~914 |
-| Gun for Hire | 70.00% | ~853 |
-| I am the law! | 64.00% | ~780 |
+| First Blood | 93.00% | ~1,135 |
+| Ranidaphobia | 78.00% | ~952 |
+| Aspiring Editor | 75.00% | ~915 |
+| Gun for Hire | 70.00% | ~854 |
+| I am the law! | 64.00% | ~781 |
 | Lumberjack | 52.00% | ~634 |
-| Croaked | 48.00% | ~585 |
+| Croaked | 48.00% | ~586 |
 | Limp Richard | 47.00% | ~573 |
-| Exorcist | 47.00% | ~573 |
 | From Darkness to Light | 47.00% | ~573 |
 | Editor Adept | 46.00% | ~561 |
-| Giant Killer | 44.00% | ~536 |
+| Exorcist | 46.00% | ~561 |
+| Giant Killer | 44.00% | ~537 |
 | Firestarter | 42.00% | ~512 |
 | Sensei | 42.00% | ~512 |
 | The meaning of Kain | 40.00% | ~488 |
-| Technophobe | 38.00% | ~463 |
+| Technophobe | 38.00% | ~464 |
 | Recycler | 37.00% | ~451 |
-| Are you not entertained? | 33.00% | ~402 |
+| Are you not entertained? | 33.00% | ~403 |
 | Ganglord | 32.00% | ~390 |
 | Jarhead | 32.00% | ~390 |
 | Infiltrator | 31.00% | ~378 |
 | Pushing Daisy | 30.00% | ~366 |
-| Experienced | 28.00% | ~341 |
+| Experienced | 28.00% | ~342 |
 | Hold The Line | 26.00% | ~317 |
 | Endgame | 25.00% | ~305 |
 | Savior | 25.00% | ~305 |
@@ -57,7 +57,7 @@ Rating: 4.39 (Ranked 703)
 | Shadow Boxin' | 0.80% | ~10 |
 | Goaaaaal! | 0.70% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,219 (Ranked 179)  
+Progressed: 1,220 (Ranked 179)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-08 | 1,211 | 0 |
 | 2023-07-09 | 1,216 | 0 |
 | 2023-07-10 | 1,217 | 0 |
-| 2023-07-12 | 1,219 | 0 |
+| 2023-07-12 | 1,220 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

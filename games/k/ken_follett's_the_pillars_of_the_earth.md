@@ -6,29 +6,29 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 41.00% | ~5,676 |
-| Man of politics | 35.00% | ~4,846 |
-| Friends of sorts | 34.00% | ~4,707 |
-| Yet another secret | 34.00% | ~4,707 |
-| Let there be darkness | 33.00% | ~4,569 |
-| End of Book One | 31.00% | ~4,292 |
-| Wannabe knight | 24.00% | ~3,323 |
-| Garden of Eden | 24.00% | ~3,323 |
-| Full house | 24.00% | ~3,323 |
-| Help an old friend | 22.00% | ~3,046 |
-| Two of us | 20.00% | ~2,769 |
+| Tattletale | 41.00% | ~5,678 |
+| Man of politics | 35.00% | ~4,847 |
+| Friends of sorts | 34.00% | ~4,708 |
+| Yet another secret | 34.00% | ~4,708 |
+| Let there be darkness | 33.00% | ~4,570 |
+| End of Book One | 31.00% | ~4,293 |
+| Wannabe knight | 24.00% | ~3,324 |
+| Garden of Eden | 24.00% | ~3,324 |
+| Full house | 24.00% | ~3,324 |
+| Help an old friend | 22.00% | ~3,047 |
+| Two of us | 20.00% | ~2,770 |
 | Negotiation skills | 19.00% | ~2,631 |
-| Workers' union | 18.00% | ~2,492 |
-| End of Book Two | 18.00% | ~2,492 |
+| Workers' union | 18.00% | ~2,493 |
+| End of Book Two | 18.00% | ~2,493 |
 | Everything's in order | 17.00% | ~2,354 |
 | Jack was here! | 15.00% | ~2,077 |
-| Twist of Fate | 14.00% | ~1,938 |
-| Exterminator | 14.00% | ~1,938 |
+| Twist of Fate | 14.00% | ~1,939 |
+| Exterminator | 14.00% | ~1,939 |
 | Whodunnit | 13.00% | ~1,800 |
 | Good midwife | 11.00% | ~1,523 |
 | Friar Tuck | 11.00% | ~1,523 |
 | First profit | 11.00% | ~1,523 |
-| Team player | 10.00% | ~1,384 |
+| Team player | 10.00% | ~1,385 |
 | Skilled merchant | 9.00% | ~1,246 |
 | Nothing but make-believe | 9.00% | ~1,246 |
 | Brother Marcus | 9.00% | ~1,246 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~415 |
 | Boy of mystery | 2.00% | ~277 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,845 (Ranked 111)  
+Progressed: 13,848 (Ranked 111)  
 Completed: 105 (0.76%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 105 (0.76%) (Ranked 110)
 | 2023-07-09 | 13,801 | 104 |
 | 2023-07-10 | 13,819 | 105 |
 | 2023-07-11 | 13,838 | 105 |
-| 2023-07-12 | 13,845 | 105 |
+| 2023-07-12 | 13,848 | 105 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 293)  
 Sum: 188 (Ranked 366)  

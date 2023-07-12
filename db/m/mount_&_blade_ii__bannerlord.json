@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewPlayers": 76,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -5523,9 +5523,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 55584,
+  "EOS_Progressed": 55585,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 522,
+  "EOS_NewPlayers": 513,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14123,6 +14123,11 @@
       "Time": "2023-07-12T15:08:03.476646+00:00",
       "NumProgressed": 55584,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-12T16:06:16.697342+00:00",
+      "NumProgressed": 55585,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -14294,7 +14299,7 @@
       "Name": "Horde breaker",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 12228
+      "UsersEstimate": 12229
     },
     {
       "ID": "I can do it",
@@ -14326,7 +14331,7 @@
       "Name": "King Solomon",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 8893
+      "UsersEstimate": 8894
     },
     {
       "ID": "Kingslayer",
@@ -14374,7 +14379,7 @@
       "Name": "Lawmaker",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 12228
+      "UsersEstimate": 12229
     },
     {
       "ID": "Long live the Empire",
@@ -14541,15 +14546,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 55584,
+      "Progressed": 55585,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-07-12T07:59:28.9425065+00:00",
-  "LastChanged_Achievements": "2023-07-12T15:08:03.476645+00:00",
+  "LastChanged_Achievements": "2023-07-12T16:06:16.6973417+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:03.335469+00:00",
-  "LastUpdate_Ratings": "2023-07-12T15:01:17.2000031+00:00",
-  "LastUpdate_Achievements": "2023-07-12T15:08:03.4768138+00:00"
+  "LastUpdate_Ratings": "2023-07-12T15:59:52.1584186+00:00",
+  "LastUpdate_Achievements": "2023-07-12T16:06:16.6974145+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "699c2dc3694c4156befa26cad5c65505",
   "Name": "Sherlock Holmes Chapter One",
   "ProductSlug": "sherlock-holmes-chapter-one",
-  "Ranking_Rating": 598,
+  "Ranking_Rating": 587,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 490,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.47,
+  "Rating": 4.48,
   "NumberOfRatings": 179,
   "RatingHistory": [
     {
@@ -401,6 +401,12 @@
       "Rating": 4.47,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-07-12T16:00:05.927026+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -418,8 +424,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:16.496586+00:00",
-  "LastChanged": "2023-07-10T16:00:29.1965001+00:00",
+  "LastChanged": "2023-07-12T16:00:05.9270258+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:20.7645739+00:00",
-  "LastUpdate_Ratings": "2023-07-12T15:01:34.7787375+00:00",
-  "LastUpdate_Achievements": "2023-07-12T15:02:39.1792095+00:00"
+  "LastUpdate_Ratings": "2023-07-12T16:00:05.9270263+00:00",
+  "LastUpdate_Achievements": "2023-07-12T16:00:55.6936528+00:00"
 }

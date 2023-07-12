@@ -6,50 +6,50 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 63.00% | ~258 |
+| Explorer | 63.00% | ~259 |
 | Cowardice | 56.00% | ~230 |
 | NO LIFE IS WORTH SAVING... | 48.00% | ~197 |
 | Eat Lead! | 46.00% | ~189 |
-| Prospector | 42.00% | ~172 |
-| The Breaking Point | 42.00% | ~172 |
-| Here Comes the Boom | 42.00% | ~172 |
+| Here Comes the Boom | 43.00% | ~177 |
+| Prospector | 42.00% | ~173 |
+| The Breaking Point | 42.00% | ~173 |
 | Treasure Hunter | 39.00% | ~160 |
 | Sniper Wolf | 37.00% | ~152 |
 | The Motivation | 36.00% | ~148 |
 | Heroism | 35.00% | ~144 |
-| Missing in Action | 34.00% | ~139 |
-| Collectibles of Chapter I | 33.00% | ~135 |
+| Missing in Action | 34.00% | ~140 |
+| Collectibles of Chapter I | 33.00% | ~136 |
 | Consequences | 30.00% | ~123 |
 | King of Knives | 30.00% | ~123 |
 | Opportunities | 28.00% | ~115 |
 | The Horror | 27.00% | ~111 |
-| The Difference | 24.00% | ~98 |
-| Vengeance | 23.00% | ~94 |
-| Collectibles of Chapter II | 22.00% | ~90 |
+| The Difference | 24.00% | ~99 |
+| Collectibles of Chapter II | 23.00% | ~95 |
+| Vengeance | 23.00% | ~95 |
 | It's Just an Accident | 22.00% | ~90 |
 | Broken Hopes | 20.00% | ~82 |
 | Bullseye! | 20.00% | ~82 |
 | Food Massacre | 18.00% | ~74 |
 | Sorrow | 17.00% | ~70 |
+| Collectibles of Chapter III | 15.00% | ~62 |
 | Collectibles of Chapter IV | 15.00% | ~62 |
 | Atonement | 15.00% | ~62 |
 | Helping Hand | 15.00% | ~62 |
-| Collectibles of Chapter III | 14.00% | ~57 |
 | Without a Second Thought | 13.00% | ~53 |
 | Collectibles of Chapter V | 10.00% | ~41 |
 | Such is War! | 8.00% | ~33 |
 | Tiptoe Around | 8.00% | ~33 |
 | Collectibles of Chapter XII | 6.00% | ~25 |
 | Piece of Cake | 6.00% | ~25 |
-| Collectibles of Chapter VII | 5.00% | ~20 |
-| It Will Rain | 5.00% | ~20 |
+| Collectibles of Chapter VII | 5.00% | ~21 |
+| It Will Rain | 5.00% | ~21 |
 | Collectibles of Chapter VIII | 4.00% | ~16 |
+| Collectibles of Chapter X | 4.00% | ~16 |
 | Collectibles of Chapter XI | 4.00% | ~16 |
 | The Good Samaritan | 4.00% | ~16 |
 | Not Spill a Drop | 4.00% | ~16 |
+| Collectibles of Chapter VI | 3.00% | ~12 |
 | Collectibles of Chapter IX | 3.00% | ~12 |
-| Collectibles of Chapter X | 3.00% | ~12 |
-| Collectibles of Chapter VI | 2.00% | ~8 |
 | Daddy Would Be Proud | 2.00% | ~8 |
 | Hold a Door | 1.00% | ~4 |
 | Warm Up | 0.20% | ~1 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 410 (Ranked 224)  
+Progressed: 411 (Ranked 224)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,6 +136,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-09 | 408 | 0 |
 | 2023-07-10 | 409 | 0 |
 | 2023-07-11 | 410 | 0 |
+| 2023-07-12 | 411 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

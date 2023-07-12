@@ -20,8 +20,8 @@
 | Sam | 52.00% | ~56 |
 | Commissioner | 50.00% | ~54 |
 | Doctor | 50.00% | ~54 |
+| Leave | 49.00% | ~53 |
 | Engineer | 49.00% | ~53 |
-| Leave | 48.00% | ~52 |
 | Soldier | 48.00% | ~52 |
 | Press Play | 37.00% | ~40 |
 | General | 25.00% | ~27 |
