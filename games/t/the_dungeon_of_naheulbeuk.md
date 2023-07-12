@@ -6,20 +6,20 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 58.00% | ~104,273 |
-| Where's that freaking Dwarf? | 46.00% | ~82,699 |
-| GG EZ | 27.00% | ~48,541 |
-| Speedrun | 26.00% | ~46,743 |
-| Déjà vu | 20.00% | ~35,956 |
-| Sock! SOCK! | 15.00% | ~26,967 |
-| DM intervention | 12.00% | ~21,574 |
-| A beer, two curses, three companions | 7.00% | ~12,585 |
-| Fireproof Wizardess | 7.00% | ~12,585 |
-| Livin' in a dwarven paradise | 5.00% | ~8,989 |
-| Way of the Wimp | 5.00% | ~8,989 |
-| The plot thickens... At the tavern | 4.00% | ~7,191 |
-| The Woman in the High Castle | 3.00% | ~5,393 |
-| Team Building Exercise | 3.00% | ~5,393 |
+| Alt+F4 | 58.00% | ~104,298 |
+| Where's that freaking Dwarf? | 46.00% | ~82,720 |
+| GG EZ | 27.00% | ~48,553 |
+| Speedrun | 26.00% | ~46,754 |
+| Déjà vu | 20.00% | ~35,965 |
+| Sock! SOCK! | 15.00% | ~26,974 |
+| DM intervention | 12.00% | ~21,579 |
+| A beer, two curses, three companions | 7.00% | ~12,588 |
+| Fireproof Wizardess | 7.00% | ~12,588 |
+| Livin' in a dwarven paradise | 5.00% | ~8,991 |
+| Way of the Wimp | 5.00% | ~8,991 |
+| The plot thickens... At the tavern | 4.00% | ~7,193 |
+| The Woman in the High Castle | 3.00% | ~5,395 |
+| Team Building Exercise | 3.00% | ~5,395 |
 | The demons' feast | 2.00% | ~3,596 |
 | Res Judicata | 2.00% | ~3,596 |
 | I am the night | 2.00% | ~3,596 |
@@ -31,11 +31,11 @@ Number of Ratings: 118  (23.09.2022)
 | Thieves' Guild Accreditation | 1.00% | ~1,798 |
 | Oh, when I'll be level 10... | 1.00% | ~1,798 |
 | The beards of change | 0.90% | ~1,618 |
-| Gargantua | 0.80% | ~1,438 |
-| Lust and Debauchery | 0.80% | ~1,438 |
-| Material Girl | 0.80% | ~1,438 |
-| Look but don't touch | 0.70% | ~1,258 |
-| In Navalu's footsteps | 0.70% | ~1,258 |
+| Gargantua | 0.80% | ~1,439 |
+| In Navalu's footsteps | 0.80% | ~1,439 |
+| Lust and Debauchery | 0.80% | ~1,439 |
+| Material Girl | 0.80% | ~1,439 |
+| Look but don't touch | 0.70% | ~1,259 |
 | Urik's Depths | 0.60% | ~1,079 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.60% | ~1,079 |
 | The Statuette of Gladeulfeurah | 0.50% | ~899 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 179,781 (Ranked 58)  
+Progressed: 179,825 (Ranked 58)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-09 | 174,947 | 0 |
 | 2023-07-10 | 177,355 | 0 |
 | 2023-07-11 | 179,429 | 0 |
-| 2023-07-12 | 179,781 | 0 |
+| 2023-07-12 | 179,825 | 0 |
 ## Awards
 Max (Character Customization): 92  (Ranked 343)  
 Sum: 92 (Ranked 414)  

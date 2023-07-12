@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 276,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1008,9 +1008,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4050,
+  "EOS_Progressed": 4051,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -5923,6 +5923,11 @@
       "Time": "2023-07-12T06:05:43.7451036+00:00",
       "NumProgressed": 4050,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-12T07:04:40.2881473+00:00",
+      "NumProgressed": 4051,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -5982,7 +5987,7 @@
       "Name": "Viva Tropico!",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ACH_EP_BETTERREDTHANDEAD",
@@ -6030,7 +6035,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1822
+      "UsersEstimate": 1823
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -6038,7 +6043,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -6094,7 +6099,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3078
+      "UsersEstimate": 3079
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -6102,7 +6107,7 @@
       "Name": "From Knight to Little Duck",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_MILITARYCOUP",
@@ -6166,7 +6171,7 @@
       "Name": "Survivor",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_TEAMPLAYER",
@@ -6230,7 +6235,7 @@
       "Name": "Fairy Tale Come True",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ACH_WONDER_FRENCHCONNECTION",
@@ -6253,15 +6258,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4050,
+      "Progressed": 4051,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-09T22:00:42.3216597+00:00",
-  "LastChanged_Achievements": "2023-07-12T06:05:43.7451032+00:00",
+  "LastChanged_Achievements": "2023-07-12T07:04:40.2881467+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:41.4762855+00:00",
-  "LastUpdate_Ratings": "2023-07-12T06:01:20.0537418+00:00",
-  "LastUpdate_Achievements": "2023-07-12T06:05:43.7451508+00:00"
+  "LastUpdate_Ratings": "2023-07-12T07:00:07.9833932+00:00",
+  "LastUpdate_Achievements": "2023-07-12T07:04:40.2881917+00:00"
 }

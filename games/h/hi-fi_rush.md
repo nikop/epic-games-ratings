@@ -7,12 +7,12 @@ Rating: 4.87 (Ranked 24)
 | ---- | ---------- | ----- |
 | Cream of the Crop | 1.00% | ~34 |
 | Thanks for the free chip, Peppermint! | 1.00% | ~34 |
+| Who put gears in there? | 1.00% | ~34 |
 | NOW we got a kickass hideout! | 1.00% | ~20 |
 | The Negotiator | 0.90% | ~31 |
 | I play my own way! | 0.90% | ~31 |
 | Whoa! There's ANOTHER health bar!? | 0.90% | ~31 |
 | Kissing the sky! | 0.90% | ~31 |
-| Who put gears in there? | 0.90% | ~31 |
 | This will cost you big time | 0.80% | ~27 |
 | Time to pay up! | 0.80% | ~27 |
 | Who's the boss now? | 0.80% | ~27 |
@@ -24,11 +24,11 @@ Rating: 4.87 (Ranked 24)
 | Alright, that felt AWESOME! | 0.80% | ~27 |
 | Start with a bang! | 0.70% | ~24 |
 | Headliner | 0.70% | ~24 |
+| Feeling the beat! | 0.70% | ~24 |
 | You must like calling me in, Chai | 0.70% | ~24 |
+| You can pet the cat! | 0.70% | ~24 |
 | I have to read these things? | 0.60% | ~21 |
-| Feeling the beat! | 0.60% | ~21 |
 | I look cool. But I can look COOLER. | 0.60% | ~21 |
-| You can pet the cat! | 0.60% | ~21 |
 | Well that was a rush! | 0.50% | ~17 |
 | Perfecter Parry-er! | 0.50% | ~17 |
 | That's a lot of junk metal… | 0.50% | ~17 |

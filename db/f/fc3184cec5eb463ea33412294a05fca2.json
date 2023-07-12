@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 84,
+  "EOS_Progressed": 85,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 8.33,
+  "EOS_Completed_Percentage": 8.24,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -296,6 +296,11 @@
       "Time": "2023-07-12T02:28:12.6456969+00:00",
       "NumProgressed": 84,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-07-12T07:04:29.3769872+00:00",
+      "NumProgressed": 85,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 16,
@@ -305,7 +310,7 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "8d3ci0",
       "Name": "Three is company",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 5,
       "UsersEstimate": 40
     },
@@ -321,7 +326,7 @@
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "8d3ci0",
       "Name": "Cruise ship",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 30,
       "UsersEstimate": 24
     },
@@ -329,7 +334,7 @@
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "8d3ci0",
       "Name": "Ducks adrift",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
       "UsersEstimate": 25
     },
@@ -369,7 +374,7 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "8d3ci0",
       "Name": "Family pond",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 50,
       "UsersEstimate": 19
     },
@@ -385,7 +390,7 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "8d3ci0",
       "Name": "Catch a flight",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 30,
       "UsersEstimate": 24
     },
@@ -434,14 +439,14 @@
     {
       "ID": "8d3ci0",
       "IsBase": true,
-      "Progressed": 84,
+      "Progressed": 85,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-12T06:05:28.4388481+00:00",
+  "LastChanged_Achievements": "2023-07-12T07:04:29.3769869+00:00",
   "LastUpdate_AppInfo": "2023-07-08T11:56:59.3518994+00:00",
-  "LastUpdate_Ratings": "2023-07-12T05:57:14.2504227+00:00",
-  "LastUpdate_Achievements": "2023-07-12T06:05:28.4388603+00:00"
+  "LastUpdate_Ratings": "2023-07-12T06:57:05.2625132+00:00",
+  "LastUpdate_Achievements": "2023-07-12T07:04:29.3769966+00:00"
 }

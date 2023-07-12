@@ -1138,7 +1138,7 @@
   ],
   "EOS_Progressed": 4534,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -5155,9 +5155,9 @@
       "ID": "HARVEST_CROP_5",
       "SetID": "5349c2e",
       "Name": "Having A Field Day",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3264
+      "UsersEstimate": 3310
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -5275,9 +5275,9 @@
       "ID": "SURVIVE_FIRST_DAY",
       "SetID": "5349c2e",
       "Name": "The First Day",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 2992
+      "UsersEstimate": 3038
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -5371,8 +5371,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-07-10T09:00:28.1401302+00:00",
-  "LastChanged_Achievements": "2023-07-12T06:03:05.1559677+00:00",
+  "LastChanged_Achievements": "2023-07-12T07:00:40.2478337+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:13.9493644+00:00",
-  "LastUpdate_Ratings": "2023-07-12T06:00:56.6236054+00:00",
-  "LastUpdate_Achievements": "2023-07-12T06:03:05.1560041+00:00"
+  "LastUpdate_Ratings": "2023-07-12T06:59:49.2902954+00:00",
+  "LastUpdate_Achievements": "2023-07-12T07:00:40.2478729+00:00"
 }

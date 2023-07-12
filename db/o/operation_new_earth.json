@@ -1535,9 +1535,9 @@
       "ID": "objective_hero_level_up_2",
       "SetID": "bm61c2p",
       "Name": "Sergeant",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 82
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -1726,8 +1726,8 @@
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-12T06:05:46.2574331+00:00",
+  "LastChanged_Achievements": "2023-07-12T07:04:42.2076947+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:58.5226048+00:00",
-  "LastUpdate_Ratings": "2023-07-12T06:01:32.3962232+00:00",
-  "LastUpdate_Achievements": "2023-07-12T06:05:46.2574616+00:00"
+  "LastUpdate_Ratings": "2023-07-12T07:00:16.6967283+00:00",
+  "LastUpdate_Achievements": "2023-07-12T07:04:42.2077228+00:00"
 }

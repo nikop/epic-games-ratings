@@ -3565,9 +3565,9 @@
       "ID": "A45",
       "SetID": "9b7p7eo",
       "Name": "Settler",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 215
     },
     {
       "ID": "A46",
@@ -3654,8 +3654,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-07-07T23:58:34.1742751+00:00",
-  "LastChanged_Achievements": "2023-07-12T05:02:08.1859747+00:00",
+  "LastChanged_Achievements": "2023-07-12T07:00:28.569445+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:45.6342045+00:00",
-  "LastUpdate_Ratings": "2023-07-12T05:58:46.4176078+00:00",
-  "LastUpdate_Achievements": "2023-07-12T05:02:08.1861153+00:00"
+  "LastUpdate_Ratings": "2023-07-12T06:58:13.4905553+00:00",
+  "LastUpdate_Achievements": "2023-07-12T07:00:28.5699038+00:00"
 }

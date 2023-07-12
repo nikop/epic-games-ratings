@@ -5,7 +5,7 @@ Rating: 4.26 (Ranked 802)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~151,389 |
+| Corner Clout | 46.00% | ~151,390 |
 | Copacetic Coordination | 16.00% | ~52,657 |
 | Fronting the Money | 14.00% | ~46,075 |
 | The Dawn of Automation | 14.00% | ~46,075 |
@@ -18,15 +18,15 @@ Rating: 4.26 (Ranked 802)
 | Beating the Heat | 10.00% | ~32,911 |
 | Friends on the Force | 10.00% | ~32,911 |
 | Neighborhood Watch | 10.00% | ~32,911 |
-| Core Corps | 8.00% | ~26,328 |
-| Sizeable Stash | 8.00% | ~26,328 |
-| Street Fighter | 7.00% | ~23,037 |
-| Friendly Gestures | 7.00% | ~23,037 |
-| People Person | 7.00% | ~23,037 |
-| Liquor Lord | 6.00% | ~19,746 |
-| Safety in Numbers | 6.00% | ~19,746 |
-| Show ‘em the Sugar | 6.00% | ~19,746 |
-| Killing Them Softly | 6.00% | ~19,746 |
+| Core Corps | 8.00% | ~26,329 |
+| Sizeable Stash | 8.00% | ~26,329 |
+| Street Fighter | 7.00% | ~23,038 |
+| Friendly Gestures | 7.00% | ~23,038 |
+| People Person | 7.00% | ~23,038 |
+| Liquor Lord | 6.00% | ~19,747 |
+| Safety in Numbers | 6.00% | ~19,747 |
+| Show ‘em the Sugar | 6.00% | ~19,747 |
+| Killing Them Softly | 6.00% | ~19,747 |
 | Street Knowledge | 5.00% | ~16,455 |
 | Oh Captain | 5.00% | ~16,455 |
 | Branching Out | 5.00% | ~16,455 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 802)
 | High Pillow | 0.10% | ~329 |
 | Station Master | 0.10% | ~329 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 329,106 (Ranked 40)  
+Progressed: 329,109 (Ranked 40)  
 Completed: 5 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 5 (0.00%) (Ranked 237)
 | 2023-07-09 | 328,678 | 5 |
 | 2023-07-10 | 328,868 | 5 |
 | 2023-07-11 | 329,063 | 5 |
-| 2023-07-12 | 329,106 | 5 |
+| 2023-07-12 | 329,109 | 5 |
 ## Awards
 Max (Highly Recommended): 27  (Ranked 466)  
 Sum: 119 (Ranked 399)  

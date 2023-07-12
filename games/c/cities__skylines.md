@@ -6,29 +6,29 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~639,567 |
-| Green Energy | 60.00% | ~540,479 |
-| Foggy Weather | 59.00% | ~531,471 |
-| Singing In The- | 59.00% | ~531,471 |
-| Unpopular Mayor | 41.00% | ~369,328 |
-| Power at Your Fingertips | 33.00% | ~297,264 |
-| City Planner | 23.00% | ~207,184 |
-| Rolling in Dough | 20.00% | ~180,160 |
-| Does My Bum Look Big In This? | 17.00% | ~153,136 |
-| Climbing the Social Ladder | 16.00% | ~144,128 |
-| Safe City | 14.00% | ~126,112 |
-| Quay-King | 11.00% | ~99,088 |
-| Lawmaker | 10.00% | ~90,080 |
-| With Canals You Can! | 10.00% | ~90,080 |
-| Nomen Est Omen | 7.00% | ~63,056 |
-| Well Informed | 6.00% | ~54,048 |
-| Fire Watch | 5.00% | ~45,040 |
-| Greenest City | 4.00% | ~36,032 |
-| Heavenly City | 3.00% | ~27,024 |
-| Reporting! | 3.00% | ~27,024 |
-| SIMulated City | 3.00% | ~27,024 |
-| The Safest Town | 3.00% | ~27,024 |
-| Professional Dumper | 2.00% | ~18,016 |
+| Pioneer | 71.00% | ~639,604 |
+| Green Energy | 60.00% | ~540,510 |
+| Foggy Weather | 59.00% | ~531,502 |
+| Singing In The- | 59.00% | ~531,502 |
+| Unpopular Mayor | 41.00% | ~369,348 |
+| Power at Your Fingertips | 33.00% | ~297,280 |
+| City Planner | 23.00% | ~207,196 |
+| Rolling in Dough | 20.00% | ~180,170 |
+| Does My Bum Look Big In This? | 17.00% | ~153,144 |
+| Climbing the Social Ladder | 16.00% | ~144,136 |
+| Safe City | 14.00% | ~126,119 |
+| Quay-King | 11.00% | ~99,094 |
+| Lawmaker | 10.00% | ~90,085 |
+| With Canals You Can! | 10.00% | ~90,085 |
+| Nomen Est Omen | 7.00% | ~63,060 |
+| Well Informed | 6.00% | ~54,051 |
+| Fire Watch | 5.00% | ~45,042 |
+| Greenest City | 4.00% | ~36,034 |
+| Heavenly City | 3.00% | ~27,026 |
+| Reporting! | 3.00% | ~27,026 |
+| SIMulated City | 3.00% | ~27,026 |
+| The Safest Town | 3.00% | ~27,026 |
+| Professional Dumper | 2.00% | ~18,017 |
 | City in Motion | 1.00% | ~9,008 |
 | Earthloving City | 1.00% | ~9,008 |
 | Metropolis | 1.00% | ~9,008 |
@@ -51,14 +51,14 @@ Number of Ratings: 25,248  (23.09.2022)
 | Happy Town | 0.40% | ~3,603 |
 | I Want It All | 0.40% | ~3,603 |
 | Just Tolling | 0.40% | ~3,603 |
-| A Huge Hadron | 0.30% | ~2,702 |
-| Airport Architect | 0.30% | ~2,702 |
-| Are They Naked In There? | 0.30% | ~2,702 |
-| Friendly Teaching | 0.30% | ~2,702 |
-| Here's A Tram | 0.30% | ~2,702 |
-| Run, Bambi! | 0.30% | ~2,702 |
-| Short Fuse | 0.30% | ~2,702 |
-| We need snorkels! | 0.30% | ~2,702 |
+| A Huge Hadron | 0.30% | ~2,703 |
+| Airport Architect | 0.30% | ~2,703 |
+| Are They Naked In There? | 0.30% | ~2,703 |
+| Friendly Teaching | 0.30% | ~2,703 |
+| Here's A Tram | 0.30% | ~2,703 |
+| Run, Bambi! | 0.30% | ~2,703 |
+| Short Fuse | 0.30% | ~2,703 |
+| We need snorkels! | 0.30% | ~2,703 |
 | City in Motion 2 | 0.20% | ~1,802 |
 | Eternal City | 0.20% | ~1,802 |
 | It's Wintertime! | 0.20% | ~1,802 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~901 |
 | Z00 | 0.10% | ~901 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 900,799 (Ranked 13)  
+Progressed: 900,850 (Ranked 13)  
 Completed: 9 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,10 +209,10 @@ Completed: 9 (0.00%) (Ranked 237)
 | 2023-07-09 | 895,998 | 9 |
 | 2023-07-10 | 898,273 | 9 |
 | 2023-07-11 | 900,388 | 9 |
-| 2023-07-12 | 900,799 | 9 |
+| 2023-07-12 | 900,850 | 9 |
 ## Awards
 Max (Great for Beginners): 4,910  (Ranked 67)  
-Sum: 37,331 (Ranked 33)  
+Sum: 37,336 (Ranked 33)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
@@ -221,7 +221,7 @@ Diff (max vs sum): 34
 | This game has Quickly Understood Controls | 4,613 |
 | This game is Educational | 4,583 |
 | This game is Extremely Fun | 4,295 |
-| This game is Highly Recommended | 4,156 |
+| This game is Highly Recommended | 4,161 |
 | This game has Amazing Storytelling | 3,515 |
 | This game has a Creative Community | 3,354 |
 | This game has Amazing Characters | 2,997 |
@@ -396,3 +396,4 @@ Diff (max vs sum): 34
 | 2023-07-09 | 4.65 | - | 4,899 | 37,237 |
 | 2023-07-10 | 4.65 | - | 4,908 | 37,289 |
 | 2023-07-11 | 4.65 | - | 4,910 | 37,331 |
+| 2023-07-12 | 4.65 | - | 4,910 | 37,336 |

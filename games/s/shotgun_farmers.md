@@ -28,8 +28,8 @@
 | Carrocketeer | 11.00% | ~22 |
 | Getting Started | 10.00% | ~20 |
 | Eggtraordinary | 10.00% | ~20 |
+| Oh My Gourd | 10.00% | ~15 |
 | Summers Here | 10.00% | ~15 |
-| Oh My Gourd | 9.00% | ~13 |
 | Fresh Pancake | 8.00% | ~16 |
 | Quit Horsin' Around | 8.00% | ~16 |
 | Perfect | 8.00% | ~12 |

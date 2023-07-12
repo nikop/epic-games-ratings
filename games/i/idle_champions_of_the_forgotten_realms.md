@@ -6,14 +6,14 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,555 |
-| The Mad Wizard | 11.00% | ~23,140 |
-| The Ring of Regeneration | 7.00% | ~14,726 |
-| Are Ya Chicken? | 7.00% | ~14,726 |
-| Were-verpowered | 6.00% | ~12,622 |
-| Seeking Allies | 5.00% | ~10,518 |
-| Mad Cow Disease | 5.00% | ~10,518 |
-| Friendly Imps | 5.00% | ~10,518 |
+| The Cursed Farmer | 15.00% | ~31,557 |
+| The Mad Wizard | 11.00% | ~23,142 |
+| The Ring of Regeneration | 7.00% | ~14,727 |
+| Are Ya Chicken? | 7.00% | ~14,727 |
+| Were-verpowered | 6.00% | ~12,623 |
+| Seeking Allies | 5.00% | ~10,519 |
+| Mad Cow Disease | 5.00% | ~10,519 |
+| Friendly Imps | 5.00% | ~10,519 |
 | A Persistent Buzzing | 4.00% | ~8,415 |
 | Pure Energy | 4.00% | ~8,415 |
 | Beast Mode | 3.00% | ~6,311 |
@@ -24,17 +24,17 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 3.00% | ~6,311 |
 | The Contagious Curse | 3.00% | ~6,311 |
 | Escort to Waterdeep | 3.00% | ~6,311 |
-| Low Initiative | 2.00% | ~4,207 |
-| Building Trust | 2.00% | ~4,207 |
-| March of the Undead | 2.00% | ~4,207 |
-| No Time To Rest | 2.00% | ~4,207 |
-| The Dinner Party | 2.00% | ~4,207 |
-| Useless Allies | 2.00% | ~4,207 |
-| Running of the Saurs | 2.00% | ~4,207 |
-| Waterdeep Detours | 2.00% | ~4,207 |
-| Underdeep Cartography | 2.00% | ~4,207 |
-| Overdue Rendezvous | 2.00% | ~4,207 |
-| The Templar's Camp | 2.00% | ~4,207 |
+| Low Initiative | 2.00% | ~4,208 |
+| Building Trust | 2.00% | ~4,208 |
+| March of the Undead | 2.00% | ~4,208 |
+| No Time To Rest | 2.00% | ~4,208 |
+| The Dinner Party | 2.00% | ~4,208 |
+| Useless Allies | 2.00% | ~4,208 |
+| Running of the Saurs | 2.00% | ~4,208 |
+| Waterdeep Detours | 2.00% | ~4,208 |
+| Underdeep Cartography | 2.00% | ~4,208 |
+| Overdue Rendezvous | 2.00% | ~4,208 |
+| The Templar's Camp | 2.00% | ~4,208 |
 | Homecoming | 1.00% | ~2,104 |
 | The Lost Heir of Omu | 1.00% | ~2,104 |
 | Street War | 1.00% | ~2,104 |
@@ -101,29 +101,29 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vault of Dragons | 0.50% | ~1,052 |
 | Champions of Waterdeep | 0.50% | ~1,052 |
 | Resolve Amongst Chaos | 0.50% | ~1,052 |
+| Once More Into The Breach | 0.50% | ~1,052 |
 | Into The Fire | 0.50% | ~883 |
 | Moose Tracks | 0.50% | ~883 |
 | Poor Guidance | 0.50% | ~1,052 |
-| Anti-Dexterous Explorers | 0.40% | ~841 |
-| Not Very Charming | 0.40% | ~841 |
-| Periodic Petrification | 0.40% | ~841 |
-| Double Vision | 0.40% | ~841 |
-| Vajra's Guards | 0.40% | ~841 |
+| Anti-Dexterous Explorers | 0.40% | ~842 |
+| Not Very Charming | 0.40% | ~842 |
+| Periodic Petrification | 0.40% | ~842 |
+| Double Vision | 0.40% | ~842 |
+| Vajra's Guards | 0.40% | ~842 |
 | The Newcomers of Notoriety | 0.40% | ~707 |
-| The Hunt for Owl-y | 0.40% | ~841 |
-| Werewolves in the Mist | 0.40% | ~841 |
-| We're not in Faerûn Anymore | 0.40% | ~841 |
-| Domesticated Owlbears | 0.40% | ~841 |
-| House of Darkness | 0.40% | ~841 |
-| The Trepidatious Trio | 0.40% | ~841 |
-| A Saurial's Resolve | 0.40% | ~841 |
-| Excavating History | 0.40% | ~841 |
-| Towering Expectations | 0.40% | ~841 |
-| A Tale of Two Fiends | 0.40% | ~841 |
-| Slow and Steady | 0.40% | ~841 |
-| Patience is Key | 0.40% | ~841 |
-| Once More Into The Breach | 0.40% | ~841 |
-| Wyllowwood | 0.40% | ~841 |
+| The Hunt for Owl-y | 0.40% | ~842 |
+| Werewolves in the Mist | 0.40% | ~842 |
+| We're not in Faerûn Anymore | 0.40% | ~842 |
+| Domesticated Owlbears | 0.40% | ~842 |
+| House of Darkness | 0.40% | ~842 |
+| The Trepidatious Trio | 0.40% | ~842 |
+| A Saurial's Resolve | 0.40% | ~842 |
+| Excavating History | 0.40% | ~842 |
+| Towering Expectations | 0.40% | ~842 |
+| A Tale of Two Fiends | 0.40% | ~842 |
+| Slow and Steady | 0.40% | ~842 |
+| Patience is Key | 0.40% | ~842 |
+| Wyllowwood | 0.40% | ~842 |
 | An Illithid Undertaking | 0.40% | ~707 |
 | Déjà Vu | 0.40% | ~707 |
 | Dreamscape | 0.40% | ~707 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,367 (Ranked 52)  
+Progressed: 210,383 (Ranked 52)  
 Completed: 2,046 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -593,7 +593,7 @@ Completed: 2,046 (0.97%) (Ranked 102)
 | 2023-07-09 | 209,384 | 2,043 |
 | 2023-07-10 | 209,861 | 2,045 |
 | 2023-07-11 | 210,283 | 2,046 |
-| 2023-07-12 | 210,367 | 2,046 |
+| 2023-07-12 | 210,383 | 2,046 |
 ## Awards
 Max (Diverse Characters): 5,025  (Ranked 65)  
 Sum: 30,487 (Ranked 38)  
