@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -845,9 +845,9 @@
       "ID": "ACH_COLLECT_20_RED_BOOKS",
       "SetID": "7c4cldc",
       "Name": "Master Of Technology",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_COLLECT_20_YELLOW_BOOKS",
@@ -957,17 +957,17 @@
       "ID": "ACH_MAKE_CANNED_FOOD",
       "SetID": "7c4cldc",
       "Name": "Prepper",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_MAKE_FUEL",
       "SetID": "7c4cldc",
       "Name": "Fuel",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_METEORITE_SMELTER",
@@ -1046,8 +1046,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-07-12T10:03:20.4152931+00:00",
+  "LastChanged_Achievements": "2023-07-12T11:03:15.4397958+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:16.8374592+00:00",
-  "LastUpdate_Ratings": "2023-07-12T09:58:50.0297905+00:00",
-  "LastUpdate_Achievements": "2023-07-12T10:03:20.4153207+00:00"
+  "LastUpdate_Ratings": "2023-07-12T10:59:02.5695951+00:00",
+  "LastUpdate_Achievements": "2023-07-12T11:03:15.4398218+00:00"
 }

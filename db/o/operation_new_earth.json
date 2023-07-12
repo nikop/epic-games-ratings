@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 410,
+  "EOS_Progressed": 411,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1411,6 +1411,11 @@
       "Time": "2023-07-12T09:05:36.0296674+00:00",
       "NumProgressed": 410,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-12T11:05:16.1012713+00:00",
+      "NumProgressed": 411,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1484,9 +1489,9 @@
       "ID": "ach_silver_rewards_10",
       "SetID": "bm61c2p",
       "Name": "Silver Competitor",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 41
+      "UsersEstimate": 37
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -1540,9 +1545,9 @@
       "ID": "objective_hero_level_up_2",
       "SetID": "bm61c2p",
       "Name": "Sergeant",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 78
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -1598,7 +1603,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -1646,7 +1651,7 @@
       "Name": "On Target",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -1725,14 +1730,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 410,
+      "Progressed": 411,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-12T10:04:46.2157932+00:00",
+  "LastChanged_Achievements": "2023-07-12T11:05:16.1012704+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:58.5226048+00:00",
-  "LastUpdate_Ratings": "2023-07-12T10:00:32.231056+00:00",
-  "LastUpdate_Achievements": "2023-07-12T10:04:46.215838+00:00"
+  "LastUpdate_Ratings": "2023-07-12T11:01:17.2159039+00:00",
+  "LastUpdate_Achievements": "2023-07-12T11:05:16.1013069+00:00"
 }

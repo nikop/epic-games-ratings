@@ -29,7 +29,7 @@ Rating: 4.19 (Ranked 846)
 | Without A Paddle | 1.00% | ~157 |
 | What Lies Beneath | 1.00% | ~157 |
 | Desperate Times | 1.00% | ~157 |
-| One Last Job | 0.90% | ~33 |
+| One Last Job | 1.00% | ~36 |
 | In Striking Distance | 0.70% | ~110 |
 | This Isn't About Escape | 0.60% | ~22 |
 | Armed to the Teeth | 0.40% | ~14 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 846)
 | I am the Danger | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,696 (Ranked 108)  
+Progressed: 15,697 (Ranked 108)  
 Completed: 66 (0.42%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 66 (0.42%) (Ranked 133)
 | 2023-07-09 | 15,676 | 66 |
 | 2023-07-10 | 15,682 | 66 |
 | 2023-07-11 | 15,692 | 66 |
-| 2023-07-12 | 15,696 | 66 |
+| 2023-07-12 | 15,697 | 66 |
 ## Awards
 Max (Amazing Storytelling): 66  (Ranked 376)  
 Sum: 380 (Ranked 316)  

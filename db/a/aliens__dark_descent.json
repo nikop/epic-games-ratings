@@ -132,7 +132,7 @@
   "Tags": [],
   "EOS_Progressed": 2817,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 219,
+  "EOS_NewPlayers": 217,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2548,9 +2548,9 @@
       "ID": "ACH_MAX_TECKER",
       "SetID": "816efe",
       "Name": "The Cable Guy",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 338
+      "UsersEstimate": 366
     },
     {
       "ID": "ACH_MISSION_01",
@@ -2733,8 +2733,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-11T20:59:20.9477348+00:00",
-  "LastChanged_Achievements": "2023-07-12T10:06:10.1258086+00:00",
+  "LastChanged_Achievements": "2023-07-12T11:07:05.4183535+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:32.529009+00:00",
-  "LastUpdate_Ratings": "2023-07-12T09:59:38.412055+00:00",
-  "LastUpdate_Achievements": "2023-07-12T10:06:10.125871+00:00"
+  "LastUpdate_Ratings": "2023-07-12T11:00:00.888888+00:00",
+  "LastUpdate_Achievements": "2023-07-12T11:07:05.4184033+00:00"
 }

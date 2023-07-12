@@ -4,7 +4,7 @@
   "ProductSlug": "classic-racing-manager-679706",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-10T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 260,
+  "EOS_Progressed": 261,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -491,6 +491,11 @@
       "Time": "2023-07-12T09:04:08.5763772+00:00",
       "NumProgressed": 260,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-12T11:03:33.1262876+00:00",
+      "NumProgressed": 261,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 162,
@@ -564,9 +569,9 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "76k7b7p",
       "Name": "Newbie",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 208
+      "UsersEstimate": 206
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -1622,7 +1627,7 @@
       "Name": "Photo shoot",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACHIEVEMENT_76",
@@ -1797,14 +1802,14 @@
     {
       "ID": "76k7b7p",
       "IsBase": true,
-      "Progressed": 260,
+      "Progressed": 261,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2023-07-12T10:03:34.4757393+00:00",
+  "LastChanged_Achievements": "2023-07-12T11:03:33.1262868+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:21.2786365+00:00",
-  "LastUpdate_Ratings": "2023-07-12T09:57:29.3855254+00:00",
-  "LastUpdate_Achievements": "2023-07-12T10:03:34.4761949+00:00"
+  "LastUpdate_Ratings": "2023-07-12T10:57:23.4082407+00:00",
+  "LastUpdate_Achievements": "2023-07-12T11:03:33.1266443+00:00"
 }

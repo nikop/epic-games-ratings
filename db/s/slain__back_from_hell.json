@@ -187,9 +187,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 29687,
+  "EOS_Progressed": 29691,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 865,
+  "EOS_NewPlayers": 866,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -9072,6 +9072,11 @@
       "Time": "2023-07-12T10:03:27.5682131+00:00",
       "NumProgressed": 29687,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-07-12T11:03:24.4122791+00:00",
+      "NumProgressed": 29691,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -9083,7 +9088,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4750
+      "UsersEstimate": 4751
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -9091,7 +9096,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5937
+      "UsersEstimate": 5938
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -9107,7 +9112,7 @@
       "Name": "Thorn in My Herbicide",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ACH_06_BLOODTOWER_NO_PIT_DEATH",
@@ -9115,7 +9120,7 @@
       "Name": "Sure Footed As A Goat",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ACH_07_BLOODTOWER_NO_HOUND_DAMAGE",
@@ -9131,7 +9136,7 @@
       "Name": "Backdoor Man",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ACH_09_HIGHLANDS_NO_FLAME_KILLS",
@@ -9155,7 +9160,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1484
+      "UsersEstimate": 1485
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -9227,7 +9232,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1187
+      "UsersEstimate": 1188
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -9235,7 +9240,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1484
+      "UsersEstimate": 1485
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -9251,7 +9256,7 @@
       "Name": "Schadenfreude",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ACH_24_HEAD_BANGED_TO_ALL_BOSSES",
@@ -9314,7 +9319,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 29687,
+      "Progressed": 29691,
       "Completed": 20
     }
   ],
@@ -9322,8 +9327,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-07-11T15:00:39.3575549+00:00",
-  "LastChanged_Achievements": "2023-07-12T10:03:27.5682125+00:00",
+  "LastChanged_Achievements": "2023-07-12T11:03:24.4122785+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:25.1516139+00:00",
-  "LastUpdate_Ratings": "2023-07-12T10:00:11.4569857+00:00",
-  "LastUpdate_Achievements": "2023-07-12T10:03:27.5683059+00:00"
+  "LastUpdate_Ratings": "2023-07-12T11:00:49.5498934+00:00",
+  "LastUpdate_Achievements": "2023-07-12T11:03:24.4123469+00:00"
 }

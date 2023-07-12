@@ -4,7 +4,7 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3227,
+  "EOS_Progressed": 3231,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2063,6 +2063,11 @@
       "Time": "2023-07-12T09:05:50.9311435+00:00",
       "NumProgressed": 3227,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-12T11:05:31.5496229+00:00",
+      "NumProgressed": 3231,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -2120,9 +2125,9 @@
       "ID": "ACH_EXG",
       "SetID": "b3fep3o",
       "Name": "Immolator",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_FH",
@@ -2170,7 +2175,7 @@
       "Name": "Missilis",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ACH_MC",
@@ -2282,7 +2287,7 @@
       "Name": "Persephone\u0027s Guidance",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ACH_OB_BB",
@@ -2378,7 +2383,7 @@
       "Name": "Lochos",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ACH_OB_LS",
@@ -2410,7 +2415,7 @@
       "Name": "Strength of Herakles",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ACH_OB_SD",
@@ -2450,7 +2455,7 @@
       "Name": "Initiate\u0027s Resolve",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ACH_R_A",
@@ -2577,7 +2582,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3227,
+      "Progressed": 3231,
       "Completed": 0
     }
   ],
@@ -2585,8 +2590,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-07-12T10:04:58.0503046+00:00",
+  "LastChanged_Achievements": "2023-07-12T11:05:31.5496223+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:04.7674222+00:00",
-  "LastUpdate_Ratings": "2023-07-12T09:59:58.9041142+00:00",
-  "LastUpdate_Achievements": "2023-07-12T10:04:58.0503972+00:00"
+  "LastUpdate_Ratings": "2023-07-12T11:00:30.6608547+00:00",
+  "LastUpdate_Achievements": "2023-07-12T11:05:31.549709+00:00"
 }

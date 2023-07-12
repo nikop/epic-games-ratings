@@ -6,11 +6,11 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 26.00% | ~38,436 |
-| Get Busy Living | 17.00% | ~25,131 |
-| Samuel Norton | 9.00% | ~13,305 |
+| Stone Walls | 26.00% | ~38,439 |
+| Get Busy Living | 17.00% | ~25,133 |
+| Samuel Norton | 9.00% | ~13,306 |
 | Spare The Rod | 5.00% | ~7,392 |
-| I May Have Found A Way Out Of Here | 4.00% | ~5,913 |
+| I May Have Found A Way Out Of Here | 4.00% | ~5,914 |
 | Don't Put Me In The Dark | 3.00% | ~4,435 |
 | Wait and Hope | 3.00% | ~4,435 |
 | Iron Bars | 3.00% | ~4,435 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~148 |
 | ... It's What You Can Prove | 0.10% | ~148 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 147,830 (Ranked 59)  
+Progressed: 147,841 (Ranked 59)  
 Completed: 5 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,10 +106,10 @@ Completed: 5 (0.00%) (Ranked 237)
 | 2023-07-09 | 146,946 | 5 |
 | 2023-07-10 | 147,345 | 5 |
 | 2023-07-11 | 147,704 | 5 |
-| 2023-07-12 | 147,830 | 5 |
+| 2023-07-12 | 147,841 | 5 |
 ## Awards
 Max (Extremely Fun): 456  (Ranked 199)  
-Sum: 3,540 (Ranked 148)  
+Sum: 3,541 (Ranked 148)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
@@ -120,7 +120,7 @@ Diff (max vs sum): 51
 | This game is Relaxing | 402 |
 | This game has Diverse Characters | 384 |
 | This game has Amazing Storytelling | 375 |
-| This game has Amazing Characters | 358 |
+| This game has Amazing Characters | 359 |
 | This game has a Creative Community | 278 |
 | This game has Obsessive Gameplay | 234 |
 ## Ratings History
@@ -299,4 +299,4 @@ Diff (max vs sum): 51
 | 2023-07-09 | 4.61 | - | 454 | 3,526 |
 | 2023-07-10 | 4.61 | - | 454 | 3,530 |
 | 2023-07-11 | 4.61 | - | 456 | 3,539 |
-| 2023-07-12 | 4.61 | - | 456 | 3,540 |
+| 2023-07-12 | 4.61 | - | 456 | 3,541 |

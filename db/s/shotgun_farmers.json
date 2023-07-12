@@ -827,9 +827,9 @@
       "ID": "ach_all_ctf_points",
       "SetID": "cmg602e",
       "Name": "Bring Home The Bacon",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_all_points_in_chicken_run",
@@ -979,9 +979,9 @@
       "ID": "ach_kill_with_horse_kick",
       "SetID": "cmg602e",
       "Name": "Quit Horsin\u0027 Around",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "ach_pickup_chicken_in_x_seconds_after_match_start",
@@ -1434,8 +1434,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-07-12T10:04:23.6097984+00:00",
+  "LastChanged_Achievements": "2023-07-12T11:04:46.5552046+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:01.6150749+00:00",
-  "LastUpdate_Ratings": "2023-07-12T09:58:40.2536713+00:00",
-  "LastUpdate_Achievements": "2023-07-12T10:04:23.6098875+00:00"
+  "LastUpdate_Ratings": "2023-07-12T10:58:47.7993032+00:00",
+  "LastUpdate_Achievements": "2023-07-12T11:04:46.5552881+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "000ac10599a14d4dbe6ce5b817040fdd",
   "Name": "NeuroNet: Mendax Proxy",
   "ProductSlug": "neuronet-mendax-proxy",
-  "Ranking_EOS_Progress": 374,
+  "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 89,
@@ -526,8 +526,8 @@
   "FirstSeenRating": "2023-05-04T20:59:38.4702697+00:00",
   "FirstSeenAchievements": "2023-04-26T14:07:41.5246515+00:00",
   "LastChanged": "2023-05-04T20:59:38.4702697+00:00",
-  "LastChanged_Achievements": "2023-07-12T10:04:13.5214099+00:00",
+  "LastChanged_Achievements": "2023-07-12T11:04:33.3962025+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:57.5521618+00:00",
-  "LastUpdate_Ratings": "2023-07-12T09:59:55.8794433+00:00",
-  "LastUpdate_Achievements": "2023-07-12T10:04:13.5214691+00:00"
+  "LastUpdate_Ratings": "2023-07-12T11:00:24.7109004+00:00",
+  "LastUpdate_Achievements": "2023-07-12T11:04:33.3962478+00:00"
 }

@@ -4918,9 +4918,9 @@
       "Count": 3297
     }
   ],
-  "EOS_Progressed": 210419,
+  "EOS_Progressed": 210436,
   "EOS_Completed": 2046,
-  "EOS_NewPlayers": 3913,
+  "EOS_NewPlayers": 3902,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -13723,6 +13723,11 @@
       "Time": "2023-07-12T10:04:38.0885685+00:00",
       "NumProgressed": 210419,
       "NumCompleted": 2046
+    },
+    {
+      "Time": "2023-07-12T11:05:05.4297097+00:00",
+      "NumProgressed": 210436,
+      "NumCompleted": 2046
     }
   ],
   "TotalAchievements": 503,
@@ -14598,7 +14603,7 @@
       "Name": "Were-verpowered",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 12625
+      "UsersEstimate": 12626
     },
     {
       "ID": "objective_completed_1203",
@@ -14918,7 +14923,7 @@
       "Name": "Low Initiative",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4208
+      "UsersEstimate": 4209
     },
     {
       "ID": "objective_completed_164",
@@ -14958,7 +14963,7 @@
       "Name": "Building Trust",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4208
+      "UsersEstimate": 4209
     },
     {
       "ID": "objective_completed_17",
@@ -14966,7 +14971,7 @@
       "Name": "March of the Undead",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4208
+      "UsersEstimate": 4209
     },
     {
       "ID": "objective_completed_170",
@@ -15070,7 +15075,7 @@
       "Name": "No Time To Rest",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4208
+      "UsersEstimate": 4209
     },
     {
       "ID": "objective_completed_208",
@@ -15150,7 +15155,7 @@
       "Name": "The Dinner Party",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4208
+      "UsersEstimate": 4209
     },
     {
       "ID": "objective_completed_231",
@@ -15406,7 +15411,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 31563
+      "UsersEstimate": 31565
     },
     {
       "ID": "objective_completed_34",
@@ -15414,7 +15419,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 14729
+      "UsersEstimate": 14731
     },
     {
       "ID": "objective_completed_35",
@@ -15526,7 +15531,7 @@
       "Name": "Seeking Allies",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10521
+      "UsersEstimate": 10522
     },
     {
       "ID": "objective_completed_390",
@@ -15598,7 +15603,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 14729
+      "UsersEstimate": 14731
     },
     {
       "ID": "objective_completed_40",
@@ -15606,7 +15611,7 @@
       "Name": "Useless Allies",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4208
+      "UsersEstimate": 4209
     },
     {
       "ID": "objective_completed_400",
@@ -15660,9 +15665,9 @@
       "ID": "objective_completed_408",
       "SetID": "cc37lbc",
       "Name": "Excavating History",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 842
+      "UsersEstimate": 1052
     },
     {
       "ID": "objective_completed_409",
@@ -15870,7 +15875,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10521
+      "UsersEstimate": 10522
     },
     {
       "ID": "objective_completed_54",
@@ -16222,7 +16227,7 @@
       "Name": "Running of the Saurs",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4208
+      "UsersEstimate": 4209
     },
     {
       "ID": "objective_completed_590",
@@ -16502,7 +16507,7 @@
       "Name": "Into The Fire",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "objective_completed_631",
@@ -16878,7 +16883,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 23146
+      "UsersEstimate": 23148
     },
     {
       "ID": "objective_completed_70",
@@ -16910,7 +16915,7 @@
       "Name": "Waterdeep Detours",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4208
+      "UsersEstimate": 4209
     },
     {
       "ID": "objective_completed_75",
@@ -16942,7 +16947,7 @@
       "Name": "Underdeep Cartography",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4208
+      "UsersEstimate": 4209
     },
     {
       "ID": "objective_completed_8",
@@ -16950,7 +16955,7 @@
       "Name": "Friendly Imps",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10521
+      "UsersEstimate": 10522
     },
     {
       "ID": "objective_completed_80",
@@ -16958,7 +16963,7 @@
       "Name": "Overdue Rendezvous",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4208
+      "UsersEstimate": 4209
     },
     {
       "ID": "objective_completed_802",
@@ -16966,7 +16971,7 @@
       "Name": "Moose Tracks",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "objective_completed_803",
@@ -17478,7 +17483,7 @@
       "Name": "Pure Energy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10521
+      "UsersEstimate": 10522
     },
     {
       "ID": "objective_completed_902",
@@ -17606,7 +17611,7 @@
       "Name": "The Templar\u0027s Camp",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4208
+      "UsersEstimate": 4209
     },
     {
       "ID": "objective_completed_95",
@@ -17757,21 +17762,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 176693,
+      "Progressed": 176710,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 210419,
+      "Progressed": 210436,
       "Completed": 2046
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-12T05:58:46.2278508+00:00",
-  "LastChanged_Achievements": "2023-07-12T10:04:38.088568+00:00",
+  "LastChanged_Achievements": "2023-07-12T11:05:05.4297092+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:43.9043947+00:00",
-  "LastUpdate_Ratings": "2023-07-12T09:58:29.7860974+00:00",
-  "LastUpdate_Achievements": "2023-07-12T10:04:38.09186+00:00"
+  "LastUpdate_Ratings": "2023-07-12T10:58:34.8900276+00:00",
+  "LastUpdate_Achievements": "2023-07-12T11:05:05.4322648+00:00"
 }

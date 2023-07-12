@@ -35,7 +35,7 @@ Rating: 4.43 (Ranked 653)
 | One For Every Occasion | 14.00% | ~394 |
 | Bandage Lover | 13.00% | ~366 |
 | Frontliner | 13.00% | ~366 |
-| The Cable Guy | 12.00% | ~338 |
+| The Cable Guy | 13.00% | ~366 |
 | Excavating The Truth | 12.00% | ~338 |
 | Abysmal Horrors | 11.00% | ~310 |
 | Heavy Steps | 9.00% | ~254 |

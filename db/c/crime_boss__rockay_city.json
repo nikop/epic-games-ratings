@@ -3,12 +3,12 @@
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 925,
-  "Ranking_Popularity": 220,
+  "Ranking_Popularity": 219,
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -2416,11 +2416,17 @@
       "Rating": 3.93,
       "NumberOfAwards": 1711,
       "NumberOfAwardsMax": 359
+    },
+    {
+      "Time": "2023-07-12T11:00:49.3947257+00:00",
+      "Rating": 3.93,
+      "NumberOfAwards": 1713,
+      "NumberOfAwardsMax": 361
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 1711,
-  "NumberOfAwardsMax": 359,
+  "NumberOfAwards": 1713,
+  "NumberOfAwardsMax": 361,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -2433,7 +2439,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 359
+      "Count": 361
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2472,9 +2478,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 68764,
+  "EOS_Progressed": 68765,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 405,
+  "EOS_NewPlayers": 402,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -11132,6 +11138,11 @@
       "Time": "2023-07-12T09:05:07.0666137+00:00",
       "NumProgressed": 68764,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-07-12T11:04:45.223541+00:00",
+      "NumProgressed": 68765,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 37,
@@ -11159,7 +11170,7 @@
       "Name": "Roid Ranger",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 14440
+      "UsersEstimate": 14441
     },
     {
       "ID": "ACH_0013",
@@ -11231,7 +11242,7 @@
       "Name": "Foo Finder",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4813
+      "UsersEstimate": 4814
     },
     {
       "ID": "ACH_0060",
@@ -11295,7 +11306,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 50885
+      "UsersEstimate": 50886
     },
     {
       "ID": "ACH_0211",
@@ -11311,7 +11322,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 32319
+      "UsersEstimate": 32320
     },
     {
       "ID": "ACH_0300",
@@ -11375,7 +11386,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 24067
+      "UsersEstimate": 24068
     },
     {
       "ID": "ACH_0431",
@@ -11438,16 +11449,16 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 68764,
+      "Progressed": 68765,
       "Completed": 36
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-07-12T00:00:08.4804346+00:00",
-  "LastChanged_Achievements": "2023-07-12T10:04:22.5599377+00:00",
+  "LastChanged": "2023-07-12T11:00:49.3947255+00:00",
+  "LastChanged_Achievements": "2023-07-12T11:04:45.2235404+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:23.2557502+00:00",
-  "LastUpdate_Ratings": "2023-07-12T10:00:11.3210281+00:00",
-  "LastUpdate_Achievements": "2023-07-12T10:04:22.5600372+00:00"
+  "LastUpdate_Ratings": "2023-07-12T11:00:49.3947261+00:00",
+  "LastUpdate_Achievements": "2023-07-12T11:04:45.2236231+00:00"
 }

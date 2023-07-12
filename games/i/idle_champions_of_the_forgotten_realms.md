@@ -6,15 +6,15 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,563 |
-| The Mad Wizard | 11.00% | ~23,146 |
-| The Ring of Regeneration | 7.00% | ~14,729 |
-| Are Ya Chicken? | 7.00% | ~14,729 |
-| Were-verpowered | 6.00% | ~12,625 |
-| Seeking Allies | 5.00% | ~10,521 |
-| Mad Cow Disease | 5.00% | ~10,521 |
-| Friendly Imps | 5.00% | ~10,521 |
-| Pure Energy | 5.00% | ~10,521 |
+| The Cursed Farmer | 15.00% | ~31,565 |
+| The Mad Wizard | 11.00% | ~23,148 |
+| The Ring of Regeneration | 7.00% | ~14,731 |
+| Are Ya Chicken? | 7.00% | ~14,731 |
+| Were-verpowered | 6.00% | ~12,626 |
+| Seeking Allies | 5.00% | ~10,522 |
+| Mad Cow Disease | 5.00% | ~10,522 |
+| Friendly Imps | 5.00% | ~10,522 |
+| Pure Energy | 5.00% | ~10,522 |
 | A Persistent Buzzing | 4.00% | ~8,417 |
 | Beast Mode | 3.00% | ~6,313 |
 | Terror in the Dark | 3.00% | ~6,313 |
@@ -24,17 +24,17 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 3.00% | ~6,313 |
 | The Contagious Curse | 3.00% | ~6,313 |
 | Escort to Waterdeep | 3.00% | ~6,313 |
-| Low Initiative | 2.00% | ~4,208 |
-| Building Trust | 2.00% | ~4,208 |
-| March of the Undead | 2.00% | ~4,208 |
-| No Time To Rest | 2.00% | ~4,208 |
-| The Dinner Party | 2.00% | ~4,208 |
-| Useless Allies | 2.00% | ~4,208 |
-| Running of the Saurs | 2.00% | ~4,208 |
-| Waterdeep Detours | 2.00% | ~4,208 |
-| Underdeep Cartography | 2.00% | ~4,208 |
-| Overdue Rendezvous | 2.00% | ~4,208 |
-| The Templar's Camp | 2.00% | ~4,208 |
+| Low Initiative | 2.00% | ~4,209 |
+| Building Trust | 2.00% | ~4,209 |
+| March of the Undead | 2.00% | ~4,209 |
+| No Time To Rest | 2.00% | ~4,209 |
+| The Dinner Party | 2.00% | ~4,209 |
+| Useless Allies | 2.00% | ~4,209 |
+| Running of the Saurs | 2.00% | ~4,209 |
+| Waterdeep Detours | 2.00% | ~4,209 |
+| Underdeep Cartography | 2.00% | ~4,209 |
+| Overdue Rendezvous | 2.00% | ~4,209 |
+| The Templar's Camp | 2.00% | ~4,209 |
 | Homecoming | 1.00% | ~2,104 |
 | The Lost Heir of Omu | 1.00% | ~2,104 |
 | Street War | 1.00% | ~2,104 |
@@ -97,13 +97,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Gargoyle's Apprentice | 0.50% | ~1,052 |
 | Flies on the Wall | 0.50% | ~1,052 |
 | Backtracking Through Barovia | 0.50% | ~1,052 |
+| Excavating History | 0.50% | ~1,052 |
 | Cramped Quarters | 0.50% | ~1,052 |
 | Vault of Dragons | 0.50% | ~1,052 |
 | Champions of Waterdeep | 0.50% | ~1,052 |
 | Resolve Amongst Chaos | 0.50% | ~1,052 |
 | Once More Into The Breach | 0.50% | ~1,052 |
-| Into The Fire | 0.50% | ~883 |
-| Moose Tracks | 0.50% | ~883 |
+| Into The Fire | 0.50% | ~884 |
+| Moose Tracks | 0.50% | ~884 |
 | Poor Guidance | 0.50% | ~1,052 |
 | Anti-Dexterous Explorers | 0.40% | ~842 |
 | Not Very Charming | 0.40% | ~842 |
@@ -119,7 +120,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Trepidatious Trio | 0.40% | ~842 |
 | A Saurial's Resolve | 0.40% | ~842 |
 | Nimblest Escape | 0.40% | ~842 |
-| Excavating History | 0.40% | ~842 |
 | Towering Expectations | 0.40% | ~842 |
 | A Tale of Two Fiends | 0.40% | ~842 |
 | Slow and Steady | 0.40% | ~842 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,419 (Ranked 52)  
+Progressed: 210,436 (Ranked 52)  
 Completed: 2,046 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -593,7 +593,7 @@ Completed: 2,046 (0.97%) (Ranked 102)
 | 2023-07-09 | 209,384 | 2,043 |
 | 2023-07-10 | 209,861 | 2,045 |
 | 2023-07-11 | 210,283 | 2,046 |
-| 2023-07-12 | 210,419 | 2,046 |
+| 2023-07-12 | 210,436 | 2,046 |
 ## Awards
 Max (Diverse Characters): 5,025  (Ranked 65)  
 Sum: 30,487 (Ranked 38)  
