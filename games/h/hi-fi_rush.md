@@ -8,24 +8,24 @@ Rating: 4.87 (Ranked 24)
 | Cream of the Crop | 1.00% | ~34 |
 | Thanks for the free chip, Peppermint! | 1.00% | ~34 |
 | I play my own way! | 1.00% | ~34 |
+| Whoa! There's ANOTHER health bar!? | 1.00% | ~34 |
 | You got this, Peppermint? | 1.00% | ~34 |
 | Who put gears in there? | 1.00% | ~34 |
 | NOW we got a kickass hideout! | 1.00% | ~20 |
+| This will cost you big time | 0.90% | ~31 |
 | The Negotiator | 0.90% | ~31 |
-| Whoa! There's ANOTHER health bar!? | 0.90% | ~31 |
+| Z-shielding's got nothing on us! | 0.90% | ~31 |
 | Perfect Parry | 0.90% | ~31 |
+| Uh, they were broken when I got here | 0.90% | ~31 |
 | Kissing the sky! | 0.90% | ~31 |
 | Alright, that felt AWESOME! | 0.90% | ~31 |
 | Start with a bang! | 0.80% | ~27 |
-| This will cost you big time | 0.80% | ~27 |
 | Headliner | 0.80% | ~27 |
 | Time to pay up! | 0.80% | ~27 |
 | Who's the boss now? | 0.80% | ~27 |
+| Feeling the beat! | 0.80% | ~27 |
 | You must like calling me in, Chai | 0.80% | ~27 |
-| Z-shielding's got nothing on us! | 0.80% | ~27 |
 | Out in a puff of smoke | 0.80% | ~27 |
-| Uh, they were broken when I got here | 0.80% | ~27 |
-| Feeling the beat! | 0.70% | ~24 |
 | You can pet the cat! | 0.70% | ~24 |
 | I have to read these things? | 0.60% | ~21 |
 | I look cool. But I can look COOLER. | 0.60% | ~21 |

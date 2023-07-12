@@ -52,7 +52,7 @@ Rating: 4.47 (Ranked 598)
 | Unstoppable | 7.00% | ~108 |
 | Track to the Future | 7.00% | ~108 |
 | Conductor | 6.00% | ~92 |
-| Call of Duty | 4.00% | ~61 |
+| Call of Duty | 5.00% | ~77 |
 | Let off some steam | 3.00% | ~46 |
 | Engineer | 2.00% | ~31 |
 | Accurate | 2.00% | ~31 |

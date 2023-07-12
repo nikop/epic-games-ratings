@@ -12,8 +12,8 @@
 | Cornivore | 46.00% | ~91 |
 | I Believe I Can Fly | 44.00% | ~87 |
 | No Asperascope | 42.00% | ~83 |
+| No Diggity | 40.00% | ~59 |
 | Early Survivor | 39.00% | ~57 |
-| No Diggity | 39.00% | ~57 |
 | Amateur Survivor | 28.00% | ~41 |
 | 10K | 23.00% | ~45 |
 | Bouncemato | 23.00% | ~34 |
@@ -23,7 +23,7 @@
 | Professional Survivor | 18.00% | ~26 |
 | Quick-Draw Pod | 16.00% | ~24 |
 | This Is My Boomstick | 13.00% | ~19 |
-| Skin Of Your Teeth | 11.00% | ~22 |
+| Skin Of Your Teeth | 12.00% | ~24 |
 | Pork Chop Express | 11.00% | ~22 |
 | Carrocketeer | 11.00% | ~22 |
 | Getting Started | 10.00% | ~20 |
@@ -32,7 +32,7 @@
 | Summers Here | 10.00% | ~15 |
 | Fresh Pancake | 9.00% | ~18 |
 | Quit Horsin' Around | 9.00% | ~18 |
-| Perfect | 8.00% | ~12 |
+| Perfect | 9.00% | ~13 |
 | Expert Survivor | 7.00% | ~10 |
 | Pyromaniac | 7.00% | ~10 |
 | Bring Home The Bacon | 6.00% | ~12 |

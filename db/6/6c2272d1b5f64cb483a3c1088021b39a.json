@@ -4,8 +4,8 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -2641,9 +2641,9 @@
       "ID": "stronghold_1",
       "SetID": "53c1p3k",
       "Name": "Stronghold 1",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "stronghold_2",
@@ -2720,8 +2720,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-07-12T14:04:20.4102884+00:00",
+  "LastChanged_Achievements": "2023-07-12T15:04:25.2060674+00:00",
   "LastUpdate_AppInfo": "2023-07-11T03:11:42.9317837+00:00",
-  "LastUpdate_Ratings": "2023-07-12T13:57:18.4744714+00:00",
-  "LastUpdate_Achievements": "2023-07-12T14:04:20.4103736+00:00"
+  "LastUpdate_Ratings": "2023-07-12T14:57:18.0428609+00:00",
+  "LastUpdate_Achievements": "2023-07-12T15:04:25.2061392+00:00"
 }

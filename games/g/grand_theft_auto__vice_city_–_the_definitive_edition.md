@@ -14,7 +14,7 @@ Rating: 4.54 (Ranked 491)
 | Chauffeur | 14.00% | ~1,251 |
 | Salutations My Little Friend | 10.00% | ~894 |
 | Iron-y | 9.00% | ~805 |
-| Gun for Hire | 8.00% | ~715 |
+| Gun for Hire | 9.00% | ~805 |
 | Mischief Managed | 8.00% | ~715 |
 | Vice City Mogul | 6.00% | ~536 |
 | Catch Me if You Can | 6.00% | ~536 |

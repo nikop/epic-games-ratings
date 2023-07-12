@@ -1,39 +1,39 @@
 # Farming Simulator 22
 [Store](https://store.epicgames.com/en-US/p/farming-simulator-22)  
 [View Rawdata](../../db/f/farming_simulator_22.json)  
-Rating: 4.70 (Ranked 195)  
+Rating: 4.70 (Ranked 196)  
 Number of Ratings: 7,683  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 76.00% | ~34,462 |
-| I read Shakespeare and stuff | 64.00% | ~29,021 |
-| Just a sprinkle | 63.00% | ~28,567 |
-| I'm stumped | 61.00% | ~27,660 |
-| Plant get enough | 61.00% | ~27,660 |
-| This is just my weekend vehicle | 58.00% | ~26,300 |
-| It's just the beginning | 58.00% | ~26,300 |
-| Hard work pays off | 53.00% | ~24,033 |
-| It's never too late to farm | 48.00% | ~21,766 |
-| All out of Land | 44.00% | ~19,952 |
-| Field Trip | 43.00% | ~19,498 |
-| I like to switch it up | 40.00% | ~18,138 |
-| Help me to help you | 38.00% | ~17,231 |
+| Own use | 76.00% | ~34,464 |
+| I read Shakespeare and stuff | 64.00% | ~29,022 |
+| Just a sprinkle | 63.00% | ~28,569 |
+| I'm stumped | 61.00% | ~27,662 |
+| Plant get enough | 61.00% | ~27,662 |
+| This is just my weekend vehicle | 58.00% | ~26,301 |
+| It's just the beginning | 58.00% | ~26,301 |
+| Hard work pays off | 53.00% | ~24,034 |
+| It's never too late to farm | 48.00% | ~21,767 |
+| All out of Land | 44.00% | ~19,953 |
+| Field Trip | 43.00% | ~19,499 |
+| I like to switch it up | 40.00% | ~18,139 |
+| Help me to help you | 38.00% | ~17,232 |
 | Ultimutt Pawesomeness | 28.00% | ~12,697 |
 | Van Gogh | 26.00% | ~11,790 |
-| You wood not believe it | 21.00% | ~9,522 |
-| Vehicle fleet | 21.00% | ~9,522 |
-| The plot thickens | 16.00% | ~7,255 |
-| Well-Oiled Machine | 16.00% | ~7,255 |
-| Long haul | 16.00% | ~7,255 |
+| You wood not believe it | 21.00% | ~9,523 |
+| Vehicle fleet | 21.00% | ~9,523 |
+| The plot thickens | 16.00% | ~7,256 |
+| Well-Oiled Machine | 16.00% | ~7,256 |
+| Long haul | 16.00% | ~7,256 |
 | Clucky Streak | 15.00% | ~6,802 |
 | Large-scale supplier | 15.00% | ~6,802 |
-| That's a wrap | 14.00% | ~6,348 |
+| That's a wrap | 14.00% | ~6,349 |
 | Fix me up | 13.00% | ~5,895 |
-| Rock on | 12.00% | ~5,441 |
+| Rock on | 12.00% | ~5,442 |
 | It's sow easy | 11.00% | ~4,988 |
-| Highly cultivated | 10.00% | ~4,534 |
-| Giddy-up! | 10.00% | ~4,534 |
+| Highly cultivated | 10.00% | ~4,535 |
+| Giddy-up! | 10.00% | ~4,535 |
 | Cowherd | 7.00% | ~3,174 |
 | Fluffyness | 6.00% | ~2,721 |
 | Helper A does not stop … ever | 6.00% | ~2,721 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~181 |
 | Raisin the stakes | 0.30% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,345 (Ranked 87)  
+Progressed: 45,347 (Ranked 87)  
 Completed: 5 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 5 (0.01%) (Ranked 223)
 | 2023-07-09 | 45,253 | 5 |
 | 2023-07-10 | 45,294 | 5 |
 | 2023-07-11 | 45,330 | 5 |
-| 2023-07-12 | 45,345 | 5 |
+| 2023-07-12 | 45,347 | 5 |
 ## Awards
 Max (Great for Beginners): 4,525  (Ranked 71)  
 Sum: 38,061 (Ranked 31)  

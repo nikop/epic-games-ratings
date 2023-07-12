@@ -6,9 +6,9 @@
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 125,
-  "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -376,11 +376,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6961,
-  "EOS_Completed": 40,
-  "EOS_NewPlayers": 52,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.57,
+  "EOS_Progressed": 6962,
+  "EOS_Completed": 41,
+  "EOS_NewPlayers": 53,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:24.6451257+00:00",
@@ -5496,6 +5496,11 @@
       "Time": "2023-07-12T14:05:01.7275455+00:00",
       "NumProgressed": 6961,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-07-12T15:05:07.8901963+00:00",
+      "NumProgressed": 6962,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 29,
@@ -5611,7 +5616,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1184
     },
     {
       "ID": "ACH15",
@@ -5643,7 +5648,7 @@
       "Name": "Not So Fast",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "ACH19",
@@ -5738,16 +5743,16 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6961,
-      "Completed": 40
+      "Progressed": 6962,
+      "Completed": 41
     }
   ],
   "FirstSeen": "2023-02-16T16:58:44.0672808+00:00",
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-07-10T19:58:18.918804+00:00",
-  "LastChanged_Achievements": "2023-07-12T14:05:01.7275447+00:00",
+  "LastChanged_Achievements": "2023-07-12T15:05:07.8901954+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:25.3422771+00:00",
-  "LastUpdate_Ratings": "2023-07-12T13:58:32.5607235+00:00",
-  "LastUpdate_Achievements": "2023-07-12T14:05:01.7276026+00:00"
+  "LastUpdate_Ratings": "2023-07-12T14:58:40.7150627+00:00",
+  "LastUpdate_Achievements": "2023-07-12T15:05:07.8902689+00:00"
 }

@@ -11,12 +11,12 @@ Rating: 4.15 (Ranked 869)
 | Wreckless Driving | 28.00% | ~1,949 |
 | A Marked Man | 25.00% | ~1,740 |
 | Street Sweeper | 18.00% | ~1,253 |
-| Liberty City Minute | 17.00% | ~1,183 |
+| Liberty City Minute | 17.00% | ~1,184 |
 | Offshore Delivery | 13.00% | ~905 |
 | Dirty Money | 12.00% | ~835 |
 | By a Mile | 10.00% | ~696 |
 | Right-hand Man | 10.00% | ~696 |
-| Not So Fast | 9.00% | ~626 |
+| Not So Fast | 9.00% | ~627 |
 | A Gift from the King | 7.00% | ~487 |
 | Full Artillery | 4.00% | ~278 |
 | Mob Boss | 2.00% | ~139 |
@@ -35,8 +35,8 @@ Rating: 4.15 (Ranked 869)
 | Is That All You've Got? | 0.80% | ~56 |
 | King of Liberty City | 0.60% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,961 (Ranked 125)  
-Completed: 40 (0.57%) (Ranked 121)  
+Progressed: 6,962 (Ranked 125)  
+Completed: 41 (0.59%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -118,7 +118,7 @@ Completed: 40 (0.57%) (Ranked 121)
 | 2023-07-09 | 6,948 | 40 |
 | 2023-07-10 | 6,953 | 40 |
 | 2023-07-11 | 6,958 | 40 |
-| 2023-07-12 | 6,961 | 40 |
+| 2023-07-12 | 6,962 | 41 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

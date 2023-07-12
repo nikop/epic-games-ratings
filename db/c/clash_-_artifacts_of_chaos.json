@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 308,
   "Ranking_EOS_Completed": 97,
   "Ranking_EOS_NewPlayers": 319,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
     "PcReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -312,9 +312,9 @@
       "ID": "Achievement4",
       "SetID": "jf6ho5",
       "Name": "Omnia Vincit Amor",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 90,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Achievement5",
@@ -369,8 +369,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-07-12T14:04:07.0135513+00:00",
+  "LastChanged_Achievements": "2023-07-12T15:04:10.8247144+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:48.6455789+00:00",
-  "LastUpdate_Ratings": "2023-07-12T14:01:45.7510014+00:00",
-  "LastUpdate_Achievements": "2023-07-12T14:04:07.0135689+00:00"
+  "LastUpdate_Ratings": "2023-07-12T15:01:58.170981+00:00",
+  "LastUpdate_Achievements": "2023-07-12T15:04:10.8247391+00:00"
 }

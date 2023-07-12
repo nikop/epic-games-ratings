@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-06-02T04:00:00+00:00",
     "PcReleaseDate": "2016-11-11T05:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 105,
+  "EOS_Progressed": 107,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -479,6 +479,11 @@
       "Time": "2023-07-12T14:04:44.7959247+00:00",
       "NumProgressed": 105,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-12T15:04:50.3953133+00:00",
+      "NumProgressed": 107,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -488,7 +493,7 @@
       "ID": "ach_beamer_zone",
       "SetID": "5a4225j",
       "Name": "Won Beamer Zone",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -546,7 +551,7 @@
       "Name": "Customize Ship",
       "Percentage": 50,
       "XP": 40,
-      "UsersEstimate": 52
+      "UsersEstimate": 54
     },
     {
       "ID": "ach_endless_120",
@@ -562,15 +567,15 @@
       "Name": "Endless 30 Seconds",
       "Percentage": 72,
       "XP": 35,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ach_endless_60",
       "SetID": "5a4225j",
       "Name": "Endless 60 Seconds",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 32
+      "UsersEstimate": 31
     },
     {
       "ID": "ach_endless_c_60",
@@ -592,7 +597,7 @@
       "ID": "ach_endless_winter",
       "SetID": "5a4225j",
       "Name": "Endless Winter",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -616,7 +621,7 @@
       "ID": "ach_homer_zone",
       "SetID": "5a4225j",
       "Name": "Won Homer Zone",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -697,13 +702,13 @@
     {
       "ID": "5a4225j",
       "IsBase": true,
-      "Progressed": 105,
+      "Progressed": 107,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-06-02T21:05:45.273905+00:00",
-  "LastChanged_Achievements": "2023-07-12T14:04:44.7959239+00:00",
+  "LastChanged_Achievements": "2023-07-12T15:04:50.3953126+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:19.1257474+00:00",
-  "LastUpdate_Ratings": "2023-07-12T13:57:22.2770397+00:00",
-  "LastUpdate_Achievements": "2023-07-12T14:04:44.7959489+00:00"
+  "LastUpdate_Ratings": "2023-07-12T14:57:21.674962+00:00",
+  "LastUpdate_Achievements": "2023-07-12T15:04:50.395343+00:00"
 }

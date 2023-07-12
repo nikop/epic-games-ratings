@@ -1,7 +1,7 @@
 # The Machines Arena
 [Store](https://store.epicgames.com/en-US/p/the-machines-arena-74e0f1)  
 [View Rawdata](../../db/t/the_machines_arena.json)  
-Rating: 4.70 (Ranked 195)  
+Rating: 4.71 (Ranked 181)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -10,3 +10,4 @@ Rating: 4.70 (Ranked 195)
 | 2023-04-18 | 4.67 | 0 | 0 |
 | 2023-04-23 | 4.68 | 0 | 0 |
 | 2023-05-28 | 4.70 | 0 | 0 |
+| 2023-07-12 | 4.71 | 0 | 0 |

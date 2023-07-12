@@ -4,8 +4,8 @@
   "ProductSlug": "scribble-it-c61a6f",
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 57,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6768,
+  "EOS_Progressed": 6770,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 821,
+  "EOS_NewPlayers": 819,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2861,6 +2861,11 @@
       "Time": "2023-07-12T14:02:15.8732835+00:00",
       "NumProgressed": 6768,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-12T15:02:26.3110878+00:00",
+      "NumProgressed": 6770,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -2944,7 +2949,7 @@
       "Name": "You tried your best!",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2910
+      "UsersEstimate": 2911
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -3064,21 +3069,21 @@
       "Name": "First Sketch",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1218
+      "UsersEstimate": 1219
     }
   ],
   "AchievementSets": [
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 6768,
+      "Progressed": 6770,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-07-12T14:02:15.8732825+00:00",
+  "LastChanged_Achievements": "2023-07-12T15:02:26.3110862+00:00",
   "LastUpdate_AppInfo": "2023-07-07T17:57:06.089177+00:00",
-  "LastUpdate_Ratings": "2023-07-12T13:57:06.5527018+00:00",
-  "LastUpdate_Achievements": "2023-07-12T14:02:15.8738947+00:00"
+  "LastUpdate_Ratings": "2023-07-12T14:57:05.3162225+00:00",
+  "LastUpdate_Achievements": "2023-07-12T15:02:26.3111846+00:00"
 }

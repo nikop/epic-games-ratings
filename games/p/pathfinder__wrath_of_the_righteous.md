@@ -48,7 +48,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | This Wall Won't Fall | 1.00% | ~91 |
 | The Final Threshold | 0.90% | ~92 |
 | Strategic Victory | 0.90% | ~92 |
-| Not the Last Sarkorian | 0.90% | ~81 |
+| Not the Last Sarkorian | 0.90% | ~82 |
 | End of Eternal Guard | 0.80% | ~82 |
 | Path of the Dragon | 0.70% | ~72 |
 | Path of the Legend | 0.70% | ~72 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,273 (Ranked 116)  
+Progressed: 10,274 (Ranked 116)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-09 | 10,246 | 0 |
 | 2023-07-10 | 10,256 | 0 |
 | 2023-07-11 | 10,271 | 0 |
-| 2023-07-12 | 10,273 | 0 |
+| 2023-07-12 | 10,274 | 0 |
 ## Awards
 Max (Character Customization): 1,676  (Ranked 117)  
 Sum: 6,809 (Ranked 112)  

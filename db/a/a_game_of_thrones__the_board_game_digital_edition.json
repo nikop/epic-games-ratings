@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 259,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewPlayers": 67,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1257,9 +1257,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 18310,
+  "EOS_Progressed": 18311,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 620,
+  "EOS_NewPlayers": 617,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -9962,6 +9962,11 @@
       "Time": "2023-07-12T14:07:54.4499868+00:00",
       "NumProgressed": 18310,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-07-12T15:07:52.727092+00:00",
+      "NumProgressed": 18311,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 22,
@@ -10101,7 +10106,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2563
+      "UsersEstimate": 2564
     },
     {
       "ID": "1032",
@@ -10133,7 +10138,7 @@
       "Name": "Royal Fleet",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2563
+      "UsersEstimate": 2564
     },
     {
       "ID": "1036",
@@ -10148,15 +10153,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 18310,
+      "Progressed": 18311,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-06-24T15:00:43.300424+00:00",
-  "LastChanged_Achievements": "2023-07-12T14:07:54.4499861+00:00",
+  "LastChanged_Achievements": "2023-07-12T15:07:52.7270912+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:43.393171+00:00",
-  "LastUpdate_Ratings": "2023-07-12T14:01:43.6909153+00:00",
-  "LastUpdate_Achievements": "2023-07-12T14:07:54.450067+00:00"
+  "LastUpdate_Ratings": "2023-07-12T15:01:56.1390351+00:00",
+  "LastUpdate_Achievements": "2023-07-12T15:07:52.7272134+00:00"
 }
