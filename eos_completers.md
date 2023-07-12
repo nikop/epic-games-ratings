@@ -29,8 +29,8 @@
 | 27 | [Ravenlok](games/r/ravenlok.md) | 7.47% |
 | 28 | [Time Loader](games/t/time_loader.md) | 7.21% |
 | 29 | [Scorn](games/s/scorn.md) | 7.06% |
-| 30 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.82% |
-| 31 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.78% |
+| 30 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.85% |
+| 31 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.82% |
 | 32 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 33 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 33 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 6.25% |
@@ -93,8 +93,8 @@
 | 91 | [Late Shift](games/l/late_shift.md) | 1.34% |
 | 92 | [Five Dates](games/f/five_dates.md) | 1.28% |
 | 93 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.25% |
-| 94 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.22% |
-| 95 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.20% |
+| 94 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.20% |
+| 94 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.20% |
 | 96 | [Chorus](games/c/chorus.md) | 1.17% |
 | 97 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.15% |
 | 98 | [Trifox](games/t/trifox.md) | 1.11% |
@@ -164,9 +164,9 @@
 | 162 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
 | 162 | [Going Medieval](games/g/going_medieval.md) | 0.20% |
 | 164 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
-| 164 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.19% |
-| 166 | [BLACKTAIL](games/b/blacktail.md) | 0.18% |
-| 166 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.18% |
+| 165 | [BLACKTAIL](games/b/blacktail.md) | 0.18% |
+| 165 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.18% |
+| 165 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.18% |
 | 168 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
 | 169 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 169 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
