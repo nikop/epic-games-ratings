@@ -2,9 +2,9 @@
   "ID": "65ec90853bee4caebdf4608f808b1b61",
   "Name": "Infinitesimals",
   "ProductSlug": "infinitesimals",
-  "Ranking_EOS_Progress": 490,
+  "Ranking_EOS_Progress": 491,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-08T03:22:09.6417792+00:00",
-  "LastUpdate_Ratings": "2023-07-12T20:59:24.7159625+00:00",
-  "LastUpdate_Achievements": "2023-07-12T21:06:06.867499+00:00"
+  "LastUpdate_Ratings": "2023-07-12T21:59:13.4866672+00:00",
+  "LastUpdate_Achievements": "2023-07-12T22:05:50.0394644+00:00"
 }

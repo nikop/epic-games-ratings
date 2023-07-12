@@ -178,9 +178,9 @@
       "ID": "CONQUEROR",
       "SetID": "50pdlpn",
       "Name": "Conqueror",
-      "Percentage": 62,
+      "Percentage": 67,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ENEMY_0",
@@ -426,9 +426,9 @@
       "ID": "ENEMY_8",
       "SetID": "50pdlpn",
       "Name": "Kabeer the Demonic Headphone",
-      "Percentage": 24,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ENEMY_9",
@@ -721,8 +721,8 @@
   ],
   "FirstSeen": "2023-07-03T16:57:31.1356684+00:00",
   "FirstSeenAchievements": "2023-05-08T09:03:21.3999065+00:00",
-  "LastChanged_Achievements": "2023-07-12T21:05:20.27583+00:00",
+  "LastChanged_Achievements": "2023-07-12T22:05:02.9252714+00:00",
   "LastUpdate_AppInfo": "2023-07-10T13:56:59.3027723+00:00",
-  "LastUpdate_Ratings": "2023-07-12T20:57:43.3517619+00:00",
-  "LastUpdate_Achievements": "2023-07-12T21:05:20.2759058+00:00"
+  "LastUpdate_Ratings": "2023-07-12T21:57:32.4847855+00:00",
+  "LastUpdate_Achievements": "2023-07-12T22:05:02.9253605+00:00"
 }

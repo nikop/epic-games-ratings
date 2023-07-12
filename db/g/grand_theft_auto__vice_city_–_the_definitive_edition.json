@@ -526,9 +526,9 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 8943,
+  "EOS_Progressed": 8944,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -6221,6 +6221,11 @@
       "Time": "2023-07-12T21:03:29.2539917+00:00",
       "NumProgressed": 8943,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-12T22:03:12.0389834+00:00",
+      "NumProgressed": 8944,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -6360,7 +6365,7 @@
       "Name": "Gun for Hire",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "ACH18",
@@ -6392,7 +6397,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4024
+      "UsersEstimate": 4025
     },
     {
       "ID": "ACH22",
@@ -6432,7 +6437,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1341
+      "UsersEstimate": 1342
     },
     {
       "ID": "ACH27",
@@ -6464,7 +6469,7 @@
       "Name": "Mischief Managed",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "ACH31",
@@ -6503,7 +6508,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8943,
+      "Progressed": 8944,
       "Completed": 43
     }
   ],
@@ -6511,8 +6516,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-12T19:59:24.8621469+00:00",
-  "LastChanged_Achievements": "2023-07-12T21:03:29.2539912+00:00",
+  "LastChanged_Achievements": "2023-07-12T22:03:12.0389826+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:55.3864428+00:00",
-  "LastUpdate_Ratings": "2023-07-12T20:58:38.8806051+00:00",
-  "LastUpdate_Achievements": "2023-07-12T21:03:29.2540499+00:00"
+  "LastUpdate_Ratings": "2023-07-12T21:58:27.3620279+00:00",
+  "LastUpdate_Achievements": "2023-07-12T22:03:12.0390503+00:00"
 }

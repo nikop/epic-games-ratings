@@ -22,11 +22,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Death Curse | 0.10% | ~211 |
 | Treasure Hunters | 0.10% | ~211 |
 | The Guardian of Orolunga | 0.10% | ~211 |
+| Think Your Way Out Of It | 0.10% | ~211 |
+| Air's Getting Pretty Thin | 0.10% | ~211 |
+| Red Wizard 'Escort' | 0.10% | ~177 |
 | The Lost Love | 0.10% | ~211 |
 | A Saurial's Lament | 0.10% | ~211 |
 | A Saurial's Resolve | 0.10% | ~211 |
+| Spirit of the Trickster Gods | 0.10% | ~177 |
 | Flies on the Wall | 0.10% | ~211 |
 | Seeking Allies | 0.10% | ~211 |
+| Class Vacation | 0.10% | ~211 |
 | Shadowfell Stalwarts | 0.10% | ~177 |
 | Nimble Escape | 0.10% | ~211 |
 | Nimblest Escape | 0.10% | ~211 |
@@ -41,6 +46,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Excavating History | 0.10% | ~211 |
 | Premature Betrayal | 0.10% | ~211 |
 | Birds of a Feather | 0.10% | ~177 |
+| Towering Expectations | 0.10% | ~211 |
 | Guests of the Groom | 0.10% | ~211 |
 | Careful Consideration | 0.10% | ~211 |
 | Tanking Expectations | 0.10% | ~177 |
@@ -51,6 +57,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Enter the Sargauth | 0.10% | ~211 |
 | Elder Rune Madness | 0.10% | ~211 |
 | The Madness Grows | 0.10% | ~211 |
+| The Madness Peaks | 0.10% | ~177 |
 | Who Lurks in Lurkwood | 0.10% | ~211 |
 | And a Pixie in a Pear Treant | 0.10% | ~177 |
 | Mad Cow Disease | 0.10% | ~211 |
@@ -138,6 +145,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Wandering Emporium | 0.10% | ~177 |
 | Madcap Adventures Redux | 0.10% | ~177 |
 | When the Going Gets Tough | 0.10% | ~177 |
+| Tiamat's Army | 0.10% | ~177 |
 | Show of Strength | 0.10% | ~177 |
 | Fight Dragons with Dragons | 0.10% | ~177 |
 | Questlines | 0.10% | ~177 |
@@ -147,6 +155,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Extreme Heat | 0.10% | ~177 |
 | Fire and Brimstone | 0.10% | ~177 |
 | Into the Unknown | 0.10% | ~177 |
+| A Nightmare Occasion | 0.10% | ~177 |
 | Prisoners of Unknown Choices | 0.10% | ~177 |
 | Escort to Waterdeep | 0.10% | ~211 |
 | The Giant's Bane Tavern | 0.10% | ~177 |
@@ -186,8 +195,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Frozen in Fear | 0.10% | ~177 |
 | It's Cold Out There Today | 0.10% | ~177 |
 | Sunblight | 0.10% | ~177 |
+| Hats off to you! | 0.10% | ~177 |
 | The Bleeding Citadel | 0.10% | ~177 |
+| Going To Eleven | 0.10% | ~177 |
 | Idyllglen | 0.10% | ~177 |
+| The Madness of Yeenoghu | 0.10% | ~177 |
 | The Radiant Nightmare | 0.10% | ~177 |
 | Quick Thinking | 0.10% | ~177 |
 | Tough Acting | 0.10% | ~177 |
@@ -206,6 +218,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ending the Rime - Part 1 | 0.10% | ~177 |
 | Ambitious Speakers - Part 1 | 0.10% | ~177 |
 | Shady Sidekicks - Part 1 | 0.10% | ~177 |
+| Ending the Rime - Part 2 | 0.10% | ~177 |
 | Shady Sidekicks - Part 2 | 0.10% | ~177 |
 | Reghed Glacier Mysteries | 0.10% | ~177 |
 | Mysteries Unlocked | 0.10% | ~177 |
@@ -421,21 +434,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Intelligence Hunt | 0.00% | ~0 |
 | Seeds of Corruption | 0.00% | ~0 |
 | The Strahd Squad | 0.00% | ~0 |
-| Think Your Way Out Of It | 0.00% | ~0 |
-| Air's Getting Pretty Thin | 0.00% | ~0 |
-| Red Wizard 'Escort' | 0.00% | ~0 |
-| Spirit of the Trickster Gods | 0.00% | ~0 |
 | The Killer Mists | 0.00% | ~0 |
-| Class Vacation | 0.00% | ~0 |
 | A Nod from Strahd | 0.00% | ~0 |
 | Backtracking Through Barovia | 0.00% | ~0 |
 | Diversity Day-Trip | 0.00% | ~0 |
 | Late Game | 0.00% | ~0 |
 | Screams of the Dead | 0.00% | ~0 |
 | Frantic Excavation | 0.00% | ~0 |
-| Towering Expectations | 0.00% | ~0 |
 | Cramped Quarters | 0.00% | ~0 |
-| The Madness Peaks | 0.00% | ~0 |
 | Bullywugs in the Bog | 0.00% | ~0 |
 | Modrons in the Mud | 0.00% | ~0 |
 | Orcs Are Wild | 0.00% | ~0 |
@@ -459,20 +465,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | Look Out! | 0.00% | ~0 |
 | Zapper Overload | 0.00% | ~0 |
 | Ulkoria's Escape from Alterdeep | 0.00% | ~0 |
-| Tiamat's Army | 0.00% | ~0 |
 | A Tenday at Golgamann's | 0.00% | ~0 |
-| A Nightmare Occasion | 0.00% | ~0 |
 | The Prison of Velkynvelve | 0.00% | ~0 |
 | Prisoners of Lolth | 0.00% | ~0 |
 | The Archduke's Blessing | 0.00% | ~0 |
 | A Neutral Party | 0.00% | ~0 |
 | Mimic Perception | 0.00% | ~0 |
 | Fortress Assault | 0.00% | ~0 |
-| Hats off to you! | 0.00% | ~0 |
 | It's Cold Out There Every Day | 0.00% | ~0 |
 | Don't Pick at the Scab | 0.00% | ~0 |
-| Going To Eleven | 0.00% | ~0 |
-| The Madness of Yeenoghu | 0.00% | ~0 |
 | Reya Reborn | 0.00% | ~0 |
 | Witty Riposting | 0.00% | ~0 |
 | Frontline Fighters | 0.00% | ~0 |
@@ -484,7 +485,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lost in the Underdark | 0.00% | ~0 |
 | Leemooggoogoon Rises | 0.00% | ~0 |
 | Volo's Guide to Kuo-toa | 0.00% | ~0 |
-| Ending the Rime - Part 2 | 0.00% | ~0 |
 | Ambitious Speakers - Part 2 | 0.00% | ~0 |
 | Tekeli-li's Hunt | 0.00% | ~0 |
 | Working for the Weak End | 0.00% | ~0 |
@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,618 (Ranked 52)  
+Progressed: 210,638 (Ranked 52)  
 Completed: 2,046 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -597,7 +597,7 @@ Completed: 2,046 (0.97%) (Ranked 102)
 | 2023-07-09 | 209,384 | 2,043 |
 | 2023-07-10 | 209,861 | 2,045 |
 | 2023-07-11 | 210,283 | 2,046 |
-| 2023-07-12 | 210,618 | 2,046 |
+| 2023-07-12 | 210,638 | 2,046 |
 ## Awards
 Max (Diverse Characters): 5,025  (Ranked 66)  
 Sum: 30,489 (Ranked 38)  

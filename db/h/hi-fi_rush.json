@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3436,
+  "EOS_Progressed": 3438,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4187,6 +4187,11 @@
       "Time": "2023-07-12T21:03:23.2168032+00:00",
       "NumProgressed": 3436,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-12T22:03:05.9706976+00:00",
+      "NumProgressed": 3438,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 71,
@@ -4198,7 +4203,7 @@
       "Name": "Start with a bang!",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Ach002",
@@ -4230,7 +4235,7 @@
       "Name": "Headliner",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Ach006",
@@ -4238,7 +4243,7 @@
       "Name": "Time to pay up!",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Ach007",
@@ -4246,7 +4251,7 @@
       "Name": "Who\u0027s the boss now?",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Ach008",
@@ -4374,7 +4379,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Ach024",
@@ -4398,7 +4403,7 @@
       "Name": "You must like calling me in, Chai",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Ach027",
@@ -4572,9 +4577,9 @@
       "ID": "Ach048",
       "SetID": "12n4k20",
       "Name": "Alright, that felt AWESOME!",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 34
     },
     {
       "ID": "Ach049",
@@ -4765,13 +4770,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3436,
+      "Progressed": 3438,
       "Completed": 5
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 1957,
+      "Progressed": 1959,
       "Completed": 1927
     }
   ],
@@ -4779,8 +4784,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-12T21:03:23.2168027+00:00",
+  "LastChanged_Achievements": "2023-07-12T22:03:05.9706971+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:24.9104218+00:00",
-  "LastUpdate_Ratings": "2023-07-12T20:58:56.1153406+00:00",
-  "LastUpdate_Achievements": "2023-07-12T21:03:23.2169044+00:00"
+  "LastUpdate_Ratings": "2023-07-12T21:58:47.231335+00:00",
+  "LastUpdate_Achievements": "2023-07-12T22:03:05.9708019+00:00"
 }

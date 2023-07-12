@@ -562,9 +562,9 @@
       "Count": 214
     }
   ],
-  "EOS_Progressed": 462845,
+  "EOS_Progressed": 462846,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 552,
+  "EOS_NewPlayers": 550,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9082,6 +9082,11 @@
       "Time": "2023-07-12T21:06:47.1976139+00:00",
       "NumProgressed": 462845,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-07-12T22:06:31.7369262+00:00",
+      "NumProgressed": 462846,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 79,
@@ -9724,21 +9729,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 6779,
+      "Progressed": 6780,
       "Completed": 2352
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 462845,
+      "Progressed": 462846,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-07-02T08:59:13.8125338+00:00",
-  "LastChanged_Achievements": "2023-07-12T21:06:47.1976134+00:00",
+  "LastChanged_Achievements": "2023-07-12T22:06:31.7369253+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:26.1718184+00:00",
-  "LastUpdate_Ratings": "2023-07-12T20:59:36.0917593+00:00",
-  "LastUpdate_Achievements": "2023-07-12T21:06:47.1977472+00:00"
+  "LastUpdate_Ratings": "2023-07-12T21:59:24.4645263+00:00",
+  "LastUpdate_Achievements": "2023-07-12T22:06:31.7370736+00:00"
 }

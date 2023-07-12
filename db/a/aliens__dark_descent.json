@@ -2399,9 +2399,9 @@
       "ID": "ACH_ALL_DATAPAD",
       "SetID": "816efe",
       "Name": "Archivist",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_ALL_MARINES_ALIVE",
@@ -2768,8 +2768,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-11T20:59:20.9477348+00:00",
-  "LastChanged_Achievements": "2023-07-12T21:06:40.5238986+00:00",
+  "LastChanged_Achievements": "2023-07-12T22:06:25.1596631+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:32.529009+00:00",
-  "LastUpdate_Ratings": "2023-07-12T20:59:39.1028559+00:00",
-  "LastUpdate_Achievements": "2023-07-12T21:06:40.5239484+00:00"
+  "LastUpdate_Ratings": "2023-07-12T21:59:28.9834252+00:00",
+  "LastUpdate_Achievements": "2023-07-12T22:06:25.1597215+00:00"
 }

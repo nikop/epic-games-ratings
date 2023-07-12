@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57259,
+  "EOS_Progressed": 57260,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 391,
+  "EOS_NewPlayers": 389,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7767,6 +7767,11 @@
       "Time": "2023-07-12T21:04:19.7309365+00:00",
       "NumProgressed": 57259,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-12T22:04:02.825751+00:00",
+      "NumProgressed": 57260,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7786,7 +7791,7 @@
       "Name": "Nordic Walking",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 12024
+      "UsersEstimate": 12025
     },
     {
       "ID": "03",
@@ -7826,7 +7831,7 @@
       "Name": "Heavy Metal",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6298
+      "UsersEstimate": 6299
     },
     {
       "ID": "08",
@@ -7834,7 +7839,7 @@
       "Name": "Iron Horse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6298
+      "UsersEstimate": 6299
     },
     {
       "ID": "09",
@@ -7946,7 +7951,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6298
+      "UsersEstimate": 6299
     },
     {
       "ID": "23",
@@ -7986,7 +7991,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6298
+      "UsersEstimate": 6299
     },
     {
       "ID": "28",
@@ -7994,7 +7999,7 @@
       "Name": "Come One, Come All",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6298
+      "UsersEstimate": 6299
     },
     {
       "ID": "29",
@@ -8026,7 +8031,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14887
+      "UsersEstimate": 14888
     },
     {
       "ID": "33",
@@ -8313,21 +8318,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57259,
+      "Progressed": 57260,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20727,
+      "Progressed": 20728,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-12T21:04:19.7309357+00:00",
+  "LastChanged_Achievements": "2023-07-12T22:04:02.8257498+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:08.3646753+00:00",
-  "LastUpdate_Ratings": "2023-07-12T20:58:06.4725325+00:00",
-  "LastUpdate_Achievements": "2023-07-12T21:04:19.7310332+00:00"
+  "LastUpdate_Ratings": "2023-07-12T21:57:55.6061744+00:00",
+  "LastUpdate_Achievements": "2023-07-12T22:04:02.8258705+00:00"
 }

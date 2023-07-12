@@ -14,18 +14,18 @@ Rating: 4.87 (Ranked 24)
 | Z-shielding's got nothing on us! | 1.00% | ~34 |
 | Perfect Parry | 1.00% | ~34 |
 | Who put gears in there? | 1.00% | ~34 |
+| Alright, that felt AWESOME! | 1.00% | ~34 |
 | NOW we got a kickass hideout! | 1.00% | ~20 |
 | This will cost you big time | 0.90% | ~31 |
 | Out in a puff of smoke | 0.90% | ~31 |
 | Uh, they were broken when I got here | 0.90% | ~31 |
 | Kissing the sky! | 0.90% | ~31 |
-| Alright, that felt AWESOME! | 0.90% | ~31 |
-| Start with a bang! | 0.80% | ~27 |
-| Headliner | 0.80% | ~27 |
-| Time to pay up! | 0.80% | ~27 |
-| Who's the boss now? | 0.80% | ~27 |
-| Feeling the beat! | 0.80% | ~27 |
-| You must like calling me in, Chai | 0.80% | ~27 |
+| Start with a bang! | 0.80% | ~28 |
+| Headliner | 0.80% | ~28 |
+| Time to pay up! | 0.80% | ~28 |
+| Who's the boss now? | 0.80% | ~28 |
+| Feeling the beat! | 0.80% | ~28 |
+| You must like calling me in, Chai | 0.80% | ~28 |
 | I have to read these things? | 0.70% | ~24 |
 | You can pet the cat! | 0.70% | ~24 |
 | I look cool. But I can look COOLER. | 0.60% | ~21 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | OK, I THINK I know what I'm doing now | 0.00% | ~0 |
 | Low budget finish | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,436 (Ranked 145)  
+Progressed: 3,438 (Ranked 145)  
 Completed: 5 (0.15%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 5 (0.15%) (Ranked 172)
 | 2023-07-09 | 3,429 | 5 |
 | 2023-07-10 | 3,431 | 5 |
 | 2023-07-11 | 3,432 | 5 |
-| 2023-07-12 | 3,436 | 5 |
+| 2023-07-12 | 3,438 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

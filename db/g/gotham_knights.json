@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1926,10 +1926,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4037,
       "NumberOfAwardsMax": 2441
+    },
+    {
+      "Time": "2023-07-12T21:59:51.4658267+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4038,
+      "NumberOfAwardsMax": 2441
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4037,
+  "NumberOfAwards": 4038,
   "NumberOfAwardsMax": 2441,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1943,7 +1949,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 206
+      "Count": 207
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1994,9 +2000,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 66926,
+  "EOS_Progressed": 66927,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 430,
+  "EOS_NewPlayers": 426,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -9559,6 +9565,11 @@
       "Time": "2023-07-12T21:04:06.8514343+00:00",
       "NumProgressed": 66926,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-07-12T22:03:49.3082118+00:00",
+      "NumProgressed": 66927,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 61,
@@ -9704,9 +9715,9 @@
       "ID": "CRAFTING_LEGENDARY_SET",
       "SetID": "4eo5ebm",
       "Name": "Dressed to Impress",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 468
+      "UsersEstimate": 535
     },
     {
       "ID": "CRAFTING_MOD_CHIPS",
@@ -10057,22 +10068,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 66926,
+      "Progressed": 66927,
       "Completed": 102
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 37206,
+      "Progressed": 37207,
       "Completed": 2652
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-07-12T17:00:21.8587637+00:00",
-  "LastChanged_Achievements": "2023-07-12T21:04:06.8514333+00:00",
+  "LastChanged": "2023-07-12T21:59:51.4658264+00:00",
+  "LastChanged_Achievements": "2023-07-12T22:03:49.3082112+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:06.0757808+00:00",
-  "LastUpdate_Ratings": "2023-07-12T21:00:03.2108443+00:00",
-  "LastUpdate_Achievements": "2023-07-12T21:04:06.8515344+00:00"
+  "LastUpdate_Ratings": "2023-07-12T21:59:51.4658273+00:00",
+  "LastUpdate_Achievements": "2023-07-12T22:03:49.3083257+00:00"
 }

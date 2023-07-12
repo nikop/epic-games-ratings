@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 415,
+  "EOS_Progressed": 416,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
@@ -1436,6 +1436,11 @@
       "Time": "2023-07-12T20:06:00.9445156+00:00",
       "NumProgressed": 415,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-12T22:04:56.9836692+00:00",
+      "NumProgressed": 416,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1551,15 +1556,15 @@
       "Name": "Facility Online",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "objective_hero_level_up_1",
       "SetID": "bm61c2p",
       "Name": "Corporal",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 108
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -1613,9 +1618,9 @@
       "ID": "objective_key_alliance_help_2",
       "SetID": "bm61c2p",
       "Name": "Brothers in Arms",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 25
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -1623,7 +1628,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -1750,14 +1755,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 415,
+      "Progressed": 416,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-12T21:05:14.0664633+00:00",
+  "LastChanged_Achievements": "2023-07-12T22:04:56.9836679+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:58.5226048+00:00",
-  "LastUpdate_Ratings": "2023-07-12T21:00:33.7121162+00:00",
-  "LastUpdate_Achievements": "2023-07-12T21:05:14.0665051+00:00"
+  "LastUpdate_Ratings": "2023-07-12T22:00:23.7702406+00:00",
+  "LastUpdate_Achievements": "2023-07-12T22:04:56.9837146+00:00"
 }

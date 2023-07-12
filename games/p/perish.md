@@ -10,6 +10,7 @@
 | Lochos | 5.00% | ~162 |
 | Strength of Herakles | 5.00% | ~162 |
 | Initiate's Resolve | 5.00% | ~162 |
+| Immolator | 4.00% | ~129 |
 | Go For the Head | 4.00% | ~129 |
 | Spartan Sandal | 4.00% | ~129 |
 | Modest Earnings | 4.00% | ~129 |
@@ -19,7 +20,6 @@
 | Reign in Blood | 4.00% | ~129 |
 | Comedy and Tragedy | 3.00% | ~97 |
 | Pillars of Eternity | 3.00% | ~97 |
-| Immolator | 3.00% | ~97 |
 | War Chest | 3.00% | ~97 |
 | Chthonic Investor | 3.00% | ~97 |
 | Symbols of Heresy | 3.00% | ~97 |
@@ -35,6 +35,7 @@
 | Rock and a Hard Place | 2.00% | ~65 |
 | The Midas Touch | 2.00% | ~65 |
 | Hapax Legomenon | 2.00% | ~65 |
+| Don't Pay the Ferryman | 2.00% | ~65 |
 | Labour of Apollo | 2.00% | ~65 |
 | Vandili | 2.00% | ~65 |
 | No Scylla in Sight | 2.00% | ~65 |
@@ -46,7 +47,6 @@
 | The Nameless One | 1.00% | ~32 |
 | Rule of Thirds | 1.00% | ~32 |
 | Pyr Demon | 1.00% | ~32 |
-| Don't Pay the Ferryman | 1.00% | ~32 |
 | Veneration of Hephaestus | 1.00% | ~32 |
 | Biotechnology | 1.00% | ~32 |
 | The Archimedes Principle | 1.00% | ~32 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,233 (Ranked 147)  
+Progressed: 3,235 (Ranked 147)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-09 | 3,203 | 0 |
 | 2023-07-10 | 3,216 | 0 |
 | 2023-07-11 | 3,224 | 0 |
-| 2023-07-12 | 3,233 | 0 |
+| 2023-07-12 | 3,235 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

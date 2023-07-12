@@ -400,7 +400,7 @@
   "Tags": [],
   "EOS_Progressed": 3266,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -5038,9 +5038,9 @@
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
       "SetID": "bm6el81",
       "Name": "Just a Flesh Wound",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 33
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -5166,9 +5166,9 @@
       "ID": "REWARD_32_RIGGED_BLOW",
       "SetID": "bm6el81",
       "Name": "Rigged to Blow",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -5565,8 +5565,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-12T04:01:32.7620915+00:00",
-  "LastChanged_Achievements": "2023-07-12T21:03:20.2564516+00:00",
+  "LastChanged_Achievements": "2023-07-12T22:02:13.161006+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:07.1687539+00:00",
-  "LastUpdate_Ratings": "2023-07-12T21:00:41.7078211+00:00",
-  "LastUpdate_Achievements": "2023-07-12T21:03:20.2565479+00:00"
+  "LastUpdate_Ratings": "2023-07-12T22:00:34.8682844+00:00",
+  "LastUpdate_Achievements": "2023-07-12T22:02:13.1611168+00:00"
 }

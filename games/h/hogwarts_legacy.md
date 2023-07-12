@@ -5,32 +5,32 @@ Rating: 4.77 (Ranked 108)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 11.00% | ~31,579 |
-| First Class Student | 10.00% | ~28,708 |
-| Troll with the Punches | 10.00% | ~28,708 |
-| A Keen Sense of Spell | 9.00% | ~25,838 |
-| That's a Keeper | 9.00% | ~25,838 |
-| Grappling with a Graphorn | 8.00% | ~22,967 |
-| The One Who Mastered Memories | 8.00% | ~22,967 |
-| The Hallowed Hero | 8.00% | ~22,967 |
-| The Hero of Hogwarts | 8.00% | ~22,967 |
-| The Defender of Dragons | 8.00% | ~22,967 |
-| Challenge Accepted | 8.00% | ~22,967 |
-| Loom for Improvement | 8.00% | ~22,967 |
-| A Talent for Spending | 8.00% | ~22,967 |
-| Coasting Along | 8.00% | ~22,967 |
-| Followed the Butterflies | 7.00% | ~20,096 |
-| The Spell Master | 7.00% | ~20,096 |
-| Rising From the Ashes | 7.00% | ~20,096 |
-| The Avenging Gazelle | 6.00% | ~17,225 |
-| Beast Friends | 6.00% | ~17,225 |
-| A Sallow Grave | 6.00% | ~17,225 |
-| Flight the Good Flight | 6.00% | ~17,225 |
-| The Seeker of Knowledge | 5.00% | ~14,354 |
-| Raising Expectations | 5.00% | ~14,354 |
-| The Root of the Problem | 4.00% | ~11,483 |
-| Third Time's a Charm | 4.00% | ~11,483 |
-| The Ends Petrify the Means | 4.00% | ~11,483 |
+| The Sort Who Makes an Entrance | 11.00% | ~31,581 |
+| First Class Student | 10.00% | ~28,710 |
+| Troll with the Punches | 10.00% | ~28,710 |
+| A Keen Sense of Spell | 9.00% | ~25,839 |
+| That's a Keeper | 9.00% | ~25,839 |
+| Grappling with a Graphorn | 8.00% | ~22,968 |
+| The One Who Mastered Memories | 8.00% | ~22,968 |
+| The Hallowed Hero | 8.00% | ~22,968 |
+| The Hero of Hogwarts | 8.00% | ~22,968 |
+| The Defender of Dragons | 8.00% | ~22,968 |
+| Challenge Accepted | 8.00% | ~22,968 |
+| Loom for Improvement | 8.00% | ~22,968 |
+| A Talent for Spending | 8.00% | ~22,968 |
+| Coasting Along | 8.00% | ~22,968 |
+| Followed the Butterflies | 7.00% | ~20,097 |
+| The Spell Master | 7.00% | ~20,097 |
+| Rising From the Ashes | 7.00% | ~20,097 |
+| The Avenging Gazelle | 6.00% | ~17,226 |
+| Beast Friends | 6.00% | ~17,226 |
+| A Sallow Grave | 6.00% | ~17,226 |
+| Flight the Good Flight | 6.00% | ~17,226 |
+| The Seeker of Knowledge | 5.00% | ~14,355 |
+| Raising Expectations | 5.00% | ~14,355 |
+| The Root of the Problem | 4.00% | ~11,484 |
+| Third Time's a Charm | 4.00% | ~11,484 |
+| The Ends Petrify the Means | 4.00% | ~11,484 |
 | The Toast of the Town | 3.00% | ~8,613 |
 | Going Through the Potions | 3.00% | ~8,613 |
 | Room with a View | 3.00% | ~8,613 |
@@ -48,10 +48,10 @@ Rating: 4.77 (Ranked 108)
 | A Forte for Achievement | 1.00% | ~2,871 |
 | Merlin's Beard! | 0.80% | ~2,297 |
 | Spilled Milk | 0.70% | ~2,010 |
-| The Nature of the Beast | 0.50% | ~1,435 |
+| The Nature of the Beast | 0.50% | ~1,436 |
 | Collector's Edition | 0.20% | ~574 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 287,085 (Ranked 41)  
+Progressed: 287,100 (Ranked 41)  
 Completed: 423 (0.15%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,10 +134,10 @@ Completed: 423 (0.15%) (Ranked 172)
 | 2023-07-09 | 286,337 | 420 |
 | 2023-07-10 | 286,613 | 422 |
 | 2023-07-11 | 286,851 | 423 |
-| 2023-07-12 | 287,085 | 423 |
+| 2023-07-12 | 287,100 | 423 |
 ## Awards
 Max (Character Customization): 20,887  (Ranked 17)  
-Sum: 39,014 (Ranked 30)  
+Sum: 39,016 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -149,7 +149,7 @@ Diff (max vs sum): -13
 | This game has Amazing Storytelling | 870 |
 | This game has Diverse Characters | 869 |
 | This game has Amazing Characters | 850 |
-| This game is Highly Recommended | 823 |
+| This game is Highly Recommended | 825 |
 | This game has Quickly Understood Controls | 782 |
 | This game has Beautiful Visuals | 730 |
 | This game has a Creative Community | 551 |
@@ -266,4 +266,4 @@ Diff (max vs sum): -13
 | 2023-07-09 | 4.77 | 20,828 | 38,845 |
 | 2023-07-10 | 4.77 | 20,861 | 38,915 |
 | 2023-07-11 | 4.77 | 20,887 | 38,978 |
-| 2023-07-12 | 4.77 | 20,887 | 39,014 |
+| 2023-07-12 | 4.77 | 20,887 | 39,016 |

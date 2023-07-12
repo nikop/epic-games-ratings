@@ -23,6 +23,7 @@ Rating: 4.43 (Ranked 653)
 | Target America | 2.00% | ~65 |
 | The Kraken Sleeps | 2.00% | ~65 |
 | Opposing Force | 1.00% | ~33 |
+| Just a Flesh Wound | 1.00% | ~33 |
 | Skirmisher | 1.00% | ~33 |
 | Set Europe Ablaze | 1.00% | ~33 |
 | Precision Is Key | 1.00% | ~33 |
@@ -33,12 +34,11 @@ Rating: 4.43 (Ranked 653)
 | Snake in the Grass | 1.00% | ~33 |
 | Brains of the Operation | 1.00% | ~33 |
 | Fields of Glory | 0.90% | ~29 |
-| Just a Flesh Wound | 0.90% | ~29 |
 | Die Nussknacker Sweet! | 0.90% | ~29 |
 | Enemy at the Gates | 0.80% | ~26 |
 | Tinkerer | 0.80% | ~26 |
 | The Long Game | 0.70% | ~23 |
-| Rigged to Blow | 0.60% | ~20 |
+| Rigged to Blow | 0.70% | ~23 |
 | Herr Today, Gone Tomorrow | 0.60% | ~19 |
 | Shipbreaker | 0.60% | ~19 |
 | Sink or Swim | 0.60% | ~19 |

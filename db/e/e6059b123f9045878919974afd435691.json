@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 550,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1006,9 +1006,9 @@
       "ID": "AMMO_ACHIEVEMENT_3",
       "SetID": "9lcahn0",
       "Name": "FULLCLIP",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 88
     },
     {
       "ID": "AMMO_ACHIEVEMENT_4",
@@ -1525,8 +1525,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-12T21:04:44.7441553+00:00",
+  "LastChanged_Achievements": "2023-07-12T22:04:27.9308758+00:00",
   "LastUpdate_AppInfo": "2023-07-06T13:16:22.5768242+00:00",
-  "LastUpdate_Ratings": "2023-07-12T20:57:18.3567658+00:00",
-  "LastUpdate_Achievements": "2023-07-12T21:04:44.7442194+00:00"
+  "LastUpdate_Ratings": "2023-07-12T21:57:08.288145+00:00",
+  "LastUpdate_Achievements": "2023-07-12T22:04:27.93096+00:00"
 }

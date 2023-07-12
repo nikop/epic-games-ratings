@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1985,
+  "EOS_Progressed": 1986,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3561,6 +3561,11 @@
       "Time": "2023-07-12T19:03:06.7877693+00:00",
       "NumProgressed": 1985,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-12T22:02:08.5733359+00:00",
+      "NumProgressed": 1986,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -3580,7 +3585,7 @@
       "Name": "Puppetmaster",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "BOT_DESTROYER",
@@ -3596,7 +3601,7 @@
       "Name": "Whoops",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "CONQUEROR",
@@ -3652,7 +3657,7 @@
       "Name": "Novice",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "GLOVE_SLAP",
@@ -3676,7 +3681,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1191
+      "UsersEstimate": 1192
     },
     {
       "ID": "GUARD_MAKER",
@@ -3747,14 +3752,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1985,
+      "Progressed": 1986,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-07-12T21:03:15.6337963+00:00",
+  "LastChanged_Achievements": "2023-07-12T22:02:08.5733353+00:00",
   "LastUpdate_AppInfo": "2023-07-11T17:56:54.9709107+00:00",
-  "LastUpdate_Ratings": "2023-07-12T20:57:34.3456293+00:00",
-  "LastUpdate_Achievements": "2023-07-12T21:03:15.6338322+00:00"
+  "LastUpdate_Ratings": "2023-07-12T21:57:24.8509755+00:00",
+  "LastUpdate_Achievements": "2023-07-12T22:02:08.5733803+00:00"
 }

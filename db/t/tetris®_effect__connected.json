@@ -4,10 +4,10 @@
   "ProductSlug": "tetris-effect",
   "Ranking_Rating": 28,
   "Ranking_Popularity": 417,
-  "Ranking_PopularitySum": 339,
-  "Ranking_EOS_Progress": 490,
+  "Ranking_PopularitySum": 337,
+  "Ranking_EOS_Progress": 491,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2019-08-02T00:00:00+00:00",
@@ -481,12 +481,18 @@
       "Rating": 4.86,
       "NumberOfAwards": 277,
       "NumberOfAwardsMax": 41
+    },
+    {
+      "Time": "2023-07-12T21:57:58.4165324+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 279,
+      "NumberOfAwardsMax": 41
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 277,
+  "NumberOfAwards": 279,
   "NumberOfAwardsMax": 41,
-  "MaxAwardTitle": "Extremely Fun",
+  "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
@@ -504,7 +510,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 40
+      "Count": 41
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -534,7 +540,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -566,8 +572,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:49.195013+00:00",
-  "LastChanged": "2023-07-11T16:58:23.1178925+00:00",
+  "LastChanged": "2023-07-12T21:57:58.4165322+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:12.6375116+00:00",
-  "LastUpdate_Ratings": "2023-07-12T20:58:11.0606419+00:00",
-  "LastUpdate_Achievements": "2023-07-12T21:05:39.3622124+00:00"
+  "LastUpdate_Ratings": "2023-07-12T21:57:58.4165331+00:00",
+  "LastUpdate_Achievements": "2023-07-12T22:05:21.7710699+00:00"
 }

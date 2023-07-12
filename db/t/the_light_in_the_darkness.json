@@ -4,8 +4,8 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 24,
-  "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1912,
+  "EOS_Progressed": 1914,
   "EOS_Completed": 161,
-  "EOS_NewPlayers": 56,
-  "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 8.42,
+  "EOS_NewPlayers": 58,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 8.41,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -3758,6 +3758,11 @@
       "Time": "2023-07-12T21:03:06.2343908+00:00",
       "NumProgressed": 1912,
       "NumCompleted": 161
+    },
+    {
+      "Time": "2023-07-12T22:00:49.8218057+00:00",
+      "NumProgressed": 1914,
+      "NumCompleted": 161
     }
   ],
   "TotalAchievements": 12,
@@ -3777,7 +3782,7 @@
       "Name": "Bernard",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "Building the Fox",
@@ -3785,7 +3790,7 @@
       "Name": "Building the Fox",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "Green Ticket Roundup",
@@ -3793,7 +3798,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "Jacques a Dit",
@@ -3801,7 +3806,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "Jakob",
@@ -3817,7 +3822,7 @@
       "Name": "Jude",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "Le Juif et la France",
@@ -3857,14 +3862,14 @@
       "Name": "Nuremberg Laws",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     }
   ],
   "AchievementSets": [
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1912,
+      "Progressed": 1914,
       "Completed": 161
     }
   ],
@@ -3872,8 +3877,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-07-12T21:03:06.2343903+00:00",
+  "LastChanged_Achievements": "2023-07-12T22:00:49.8218052+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:46.7313961+00:00",
-  "LastUpdate_Ratings": "2023-07-12T20:59:49.5553954+00:00",
-  "LastUpdate_Achievements": "2023-07-12T21:03:06.2344271+00:00"
+  "LastUpdate_Ratings": "2023-07-12T21:59:40.0497717+00:00",
+  "LastUpdate_Achievements": "2023-07-12T22:00:49.8218438+00:00"
 }

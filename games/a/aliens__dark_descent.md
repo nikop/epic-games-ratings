@@ -46,7 +46,7 @@ Rating: 4.43 (Ranked 653)
 | The True Experience | 5.00% | ~141 |
 | Hardened In The Heat Of Battle | 4.00% | ~113 |
 | Fair And Square | 1.00% | ~28 |
-| Archivist | 0.60% | ~17 |
+| Archivist | 0.70% | ~20 |
 | Chalk It Up To Experience | 0.50% | ~14 |
 | Perfect Organism | 0.40% | ~11 |
 | This Ain't No Picnic | 0.30% | ~8 |
