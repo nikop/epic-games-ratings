@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 428,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
@@ -277,9 +277,9 @@
       "Count": 72
     }
   ],
-  "EOS_Progressed": 765,
+  "EOS_Progressed": 766,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -627,6 +627,11 @@
       "Time": "2023-07-12T17:05:49.4228675+00:00",
       "NumProgressed": 765,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-12T18:06:32.6170178+00:00",
+      "NumProgressed": 766,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -804,9 +809,9 @@
       "ID": "AchievementForgotSomething",
       "SetID": "76o014g",
       "Name": "Forgot something",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 61
     },
     {
       "ID": "AchievementForgotten",
@@ -1148,9 +1153,9 @@
       "ID": "AchievementToTheEyeballs",
       "SetID": "76o014g",
       "Name": "To the eyeballs!",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 77
     },
     {
       "ID": "AchievementTourismAge",
@@ -1237,21 +1242,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 106,
+      "Progressed": 107,
       "Completed": 6
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 765,
+      "Progressed": 766,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-06-28T09:58:02.8229732+00:00",
-  "LastChanged_Achievements": "2023-07-12T17:05:49.4228671+00:00",
+  "LastChanged_Achievements": "2023-07-12T18:06:32.6170174+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:50.3569514+00:00",
-  "LastUpdate_Ratings": "2023-07-12T16:58:04.7516647+00:00",
-  "LastUpdate_Achievements": "2023-07-12T17:05:49.422938+00:00"
+  "LastUpdate_Ratings": "2023-07-12T17:58:34.5318464+00:00",
+  "LastUpdate_Achievements": "2023-07-12T18:06:32.6171103+00:00"
 }

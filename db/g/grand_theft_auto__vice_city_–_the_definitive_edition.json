@@ -520,9 +520,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 8939,
+  "EOS_Progressed": 8940,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -6195,6 +6195,11 @@
       "Time": "2023-07-12T13:20:22.2209188+00:00",
       "NumProgressed": 8939,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-12T18:03:26.9832119+00:00",
+      "NumProgressed": 8940,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -6374,7 +6379,7 @@
       "Name": "Life of the Party",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1698
+      "UsersEstimate": 1699
     },
     {
       "ID": "ACH23",
@@ -6390,7 +6395,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1251
+      "UsersEstimate": 1252
     },
     {
       "ID": "ACH25",
@@ -6398,7 +6403,7 @@
       "Name": "Chauffeur",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1251
+      "UsersEstimate": 1252
     },
     {
       "ID": "ACH26",
@@ -6477,7 +6482,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8939,
+      "Progressed": 8940,
       "Completed": 43
     }
   ],
@@ -6485,8 +6490,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-07T10:58:53.3105834+00:00",
-  "LastChanged_Achievements": "2023-07-12T17:02:21.4528088+00:00",
+  "LastChanged_Achievements": "2023-07-12T18:03:26.9832114+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:55.3864428+00:00",
-  "LastUpdate_Ratings": "2023-07-12T16:58:52.2271904+00:00",
-  "LastUpdate_Achievements": "2023-07-12T17:02:21.4528557+00:00"
+  "LastUpdate_Ratings": "2023-07-12T17:59:17.8274875+00:00",
+  "LastUpdate_Achievements": "2023-07-12T18:03:26.9832953+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 133,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -8976,9 +8976,9 @@
       "ID": "COMPLETE_EPISODE_4",
       "SetID": "3fcpmbm",
       "Name": "A New Hope",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 23433
+      "UsersEstimate": 23931
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -9208,8 +9208,8 @@
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-07-12T14:02:14.7871056+00:00",
-  "LastChanged_Achievements": "2023-07-12T17:03:25.4959469+00:00",
+  "LastChanged_Achievements": "2023-07-12T18:04:09.999337+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:13.8094619+00:00",
-  "LastUpdate_Ratings": "2023-07-12T17:01:09.1763289+00:00",
-  "LastUpdate_Achievements": "2023-07-12T17:03:25.4960035+00:00"
+  "LastUpdate_Ratings": "2023-07-12T18:01:44.6481964+00:00",
+  "LastUpdate_Achievements": "2023-07-12T18:04:09.9994164+00:00"
 }

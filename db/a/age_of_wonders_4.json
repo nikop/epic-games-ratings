@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -274,7 +274,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4974,
+  "EOS_Progressed": 4975,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
@@ -5119,6 +5119,11 @@
       "Time": "2023-07-12T16:02:15.2761972+00:00",
       "NumProgressed": 4974,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-12T18:03:25.8926682+00:00",
+      "NumProgressed": 4975,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 50,
@@ -5130,7 +5135,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "10",
@@ -5146,7 +5151,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "12",
@@ -5170,7 +5175,7 @@
       "Name": "Full Ascension",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "15",
@@ -5178,7 +5183,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "16",
@@ -5202,7 +5207,7 @@
       "Name": "Arch Mage",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "19",
@@ -5282,7 +5287,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "28",
@@ -5314,7 +5319,7 @@
       "Name": "Preparation Is Everything",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "31",
@@ -5346,7 +5351,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "35",
@@ -5362,7 +5367,7 @@
       "Name": "Fiery Friend",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "37",
@@ -5370,7 +5375,7 @@
       "Name": "Against the Odds",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "38",
@@ -5386,7 +5391,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "4",
@@ -5529,13 +5534,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4974,
+      "Progressed": 4975,
       "Completed": 4760
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4974,
+      "Progressed": 4975,
       "Completed": 5
     }
   ],
@@ -5543,8 +5548,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-07-11T11:00:15.2595187+00:00",
-  "LastChanged_Achievements": "2023-07-12T17:02:20.3732502+00:00",
+  "LastChanged_Achievements": "2023-07-12T18:03:25.8926678+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:44.6563449+00:00",
-  "LastUpdate_Ratings": "2023-07-12T17:00:06.1390869+00:00",
-  "LastUpdate_Achievements": "2023-07-12T17:02:20.3733076+00:00"
+  "LastUpdate_Ratings": "2023-07-12T18:00:36.0843056+00:00",
+  "LastUpdate_Achievements": "2023-07-12T18:03:25.8927402+00:00"
 }

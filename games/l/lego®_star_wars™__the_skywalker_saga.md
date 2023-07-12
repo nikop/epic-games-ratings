@@ -14,7 +14,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Aggressive Negotiations'' | 58.00% | ~28,917 |
 | ''I can fly anything'' | 57.00% | ~28,418 |
 | ''And who gave you permission...?'' | 53.00% | ~26,424 |
-| A New Hope | 47.00% | ~23,433 |
+| A New Hope | 48.00% | ~23,931 |
 | Attack of the Clones | 46.00% | ~22,934 |
 | Revenge of the Sith | 40.00% | ~19,943 |
 | The Empire Strikes Back | 37.00% | ~18,447 |

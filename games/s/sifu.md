@@ -41,9 +41,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Source of Flying Daggers | 0.60% | ~4,264 |
 | Iron Money | 0.60% | ~4,264 |
 | Legendary Talismans of Wuxing | 0.60% | ~4,264 |
-| Prodigal Child | 0.50% | ~3,553 |
-| The 36th Chamber of Kung-Fu | 0.50% | ~3,553 |
-| Sword Stained With Blood | 0.50% | ~3,553 |
+| Prodigal Child | 0.50% | ~3,554 |
+| The 36th Chamber of Kung-Fu | 0.50% | ~3,554 |
+| Sword Stained With Blood | 0.50% | ~3,554 |
 | Knowledge Greed | 0.40% | ~2,843 |
 | Martial Hub | 0.40% | ~80 |
 | Secure, Protect, Leave | 0.40% | ~80 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,421 |
 | Warriors from the Mountain | 0.10% | ~711 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 710,699 (Ranked 17)  
+Progressed: 710,700 (Ranked 17)  
 Completed: 12,810 (1.80%) (Ranked 80)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 12,810 (1.80%) (Ranked 80)
 | 2023-07-09 | 710,629 | 12,809 |
 | 2023-07-10 | 710,654 | 12,809 |
 | 2023-07-11 | 710,681 | 12,810 |
-| 2023-07-12 | 710,699 | 12,810 |
+| 2023-07-12 | 710,700 | 12,810 |
 ## Awards
 Max (Great Boss Battles): 6,259  (Ranked 52)  
 Sum: 10,721 (Ranked 79)  

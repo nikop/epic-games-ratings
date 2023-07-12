@@ -6,16 +6,17 @@ Rating: 4.87 (Ranked 24)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Cream of the Crop | 1.00% | ~34 |
+| The Negotiator | 1.00% | ~34 |
 | Thanks for the free chip, Peppermint! | 1.00% | ~34 |
 | I play my own way! | 1.00% | ~34 |
 | Whoa! There's ANOTHER health bar!? | 1.00% | ~34 |
 | You got this, Peppermint? | 1.00% | ~34 |
+| Perfect Parry | 1.00% | ~34 |
 | Who put gears in there? | 1.00% | ~34 |
 | NOW we got a kickass hideout! | 1.00% | ~20 |
 | This will cost you big time | 0.90% | ~31 |
-| The Negotiator | 0.90% | ~31 |
 | Z-shielding's got nothing on us! | 0.90% | ~31 |
-| Perfect Parry | 0.90% | ~31 |
+| Out in a puff of smoke | 0.90% | ~31 |
 | Uh, they were broken when I got here | 0.90% | ~31 |
 | Kissing the sky! | 0.90% | ~31 |
 | Alright, that felt AWESOME! | 0.90% | ~31 |
@@ -25,21 +26,20 @@ Rating: 4.87 (Ranked 24)
 | Who's the boss now? | 0.80% | ~27 |
 | Feeling the beat! | 0.80% | ~27 |
 | You must like calling me in, Chai | 0.80% | ~27 |
-| Out in a puff of smoke | 0.80% | ~27 |
+| I have to read these things? | 0.70% | ~24 |
 | You can pet the cat! | 0.70% | ~24 |
-| I have to read these things? | 0.60% | ~21 |
 | I look cool. But I can look COOLER. | 0.60% | ~21 |
 | Well that was a rush! | 0.50% | ~17 |
 | Perfecter Parry-er! | 0.50% | ~17 |
 | That's a lot of junk metal… | 0.50% | ~17 |
 | Does that say weakpoint? | 0.50% | ~17 |
+| There's such a thing as TOO helpful | 0.40% | ~14 |
 | Call me Turbo Chai | 0.40% | ~8 |
 | New bad guys? No problem! | 0.40% | ~8 |
+| Chip-tuned | 0.30% | ~10 |
 | Beat-hit mania | 0.30% | ~10 |
-| There's such a thing as TOO helpful | 0.30% | ~10 |
 | Wanna hear my playlist? | 0.30% | ~10 |
 | I think I deserve some praise, here! | 0.20% | ~7 |
-| Chip-tuned | 0.20% | ~7 |
 | I think I found your calling, Macaron | 0.20% | ~7 |
 | This is a breeze! | 0.20% | ~7 |
 | I told you I'd be fine, Peppermint! | 0.20% | ~7 |

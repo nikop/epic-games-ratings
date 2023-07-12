@@ -6,24 +6,24 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,581 |
-| The Mad Wizard | 11.00% | ~23,159 |
-| The Ring of Regeneration | 7.00% | ~14,738 |
-| Are Ya Chicken? | 7.00% | ~14,738 |
-| Were-verpowered | 6.00% | ~12,632 |
-| Seeking Allies | 5.00% | ~10,527 |
-| Mad Cow Disease | 5.00% | ~10,527 |
-| Friendly Imps | 5.00% | ~10,527 |
-| Pure Energy | 5.00% | ~10,527 |
+| The Cursed Farmer | 15.00% | ~31,583 |
+| The Mad Wizard | 11.00% | ~23,161 |
+| The Ring of Regeneration | 7.00% | ~14,739 |
+| Are Ya Chicken? | 7.00% | ~14,739 |
+| Were-verpowered | 6.00% | ~12,633 |
+| Seeking Allies | 5.00% | ~10,528 |
+| Mad Cow Disease | 5.00% | ~10,528 |
+| Friendly Imps | 5.00% | ~10,528 |
+| Pure Energy | 5.00% | ~10,528 |
 | A Persistent Buzzing | 4.00% | ~8,422 |
-| Beast Mode | 3.00% | ~6,316 |
-| Terror in the Dark | 3.00% | ~6,316 |
-| A Mysterious Summons | 3.00% | ~6,316 |
-| Unearthed Evil | 3.00% | ~6,316 |
-| The Crumbling Temple | 3.00% | ~6,316 |
-| Exploring Port Nyanzaru | 3.00% | ~6,316 |
-| The Contagious Curse | 3.00% | ~6,316 |
-| Escort to Waterdeep | 3.00% | ~6,316 |
+| Beast Mode | 3.00% | ~6,317 |
+| Terror in the Dark | 3.00% | ~6,317 |
+| A Mysterious Summons | 3.00% | ~6,317 |
+| Unearthed Evil | 3.00% | ~6,317 |
+| The Crumbling Temple | 3.00% | ~6,317 |
+| Exploring Port Nyanzaru | 3.00% | ~6,317 |
+| The Contagious Curse | 3.00% | ~6,317 |
+| Escort to Waterdeep | 3.00% | ~6,317 |
 | Low Initiative | 2.00% | ~4,211 |
 | Building Trust | 2.00% | ~4,211 |
 | March of the Undead | 2.00% | ~4,211 |
@@ -35,25 +35,25 @@ Number of Ratings: 9,041  (23.09.2022)
 | Underdeep Cartography | 2.00% | ~4,211 |
 | Overdue Rendezvous | 2.00% | ~4,211 |
 | The Templar's Camp | 2.00% | ~4,211 |
-| Homecoming | 1.00% | ~2,105 |
-| The Lost Heir of Omu | 1.00% | ~2,105 |
-| Street War | 1.00% | ~2,105 |
-| Invisible Shadows | 1.00% | ~2,105 |
-| The Botched Kidnapping | 1.00% | ~2,105 |
-| Trollskull Manor | 1.00% | ~2,105 |
-| Attack on the Manor | 1.00% | ~2,105 |
-| The Death Curse | 1.00% | ~2,105 |
-| Premature Betrayal | 1.00% | ~2,105 |
-| A Tale of Two Cities | 1.00% | ~2,105 |
-| The Dead Three | 1.00% | ~2,105 |
-| Flying Monkey Skulls of Doom | 1.00% | ~2,105 |
-| Dinosaur Racing | 1.00% | ~2,105 |
-| Close Escort | 1.00% | ~2,105 |
-| Constant Banditry | 1.00% | ~2,105 |
-| The Long Haul | 1.00% | ~2,105 |
-| Lost in the Deep | 1.00% | ~2,105 |
-| Easily Distracted | 1.00% | ~2,105 |
-| Rescue in the Jungle | 1.00% | ~2,105 |
+| Homecoming | 1.00% | ~2,106 |
+| The Lost Heir of Omu | 1.00% | ~2,106 |
+| Street War | 1.00% | ~2,106 |
+| Invisible Shadows | 1.00% | ~2,106 |
+| The Botched Kidnapping | 1.00% | ~2,106 |
+| Trollskull Manor | 1.00% | ~2,106 |
+| Attack on the Manor | 1.00% | ~2,106 |
+| The Death Curse | 1.00% | ~2,106 |
+| Premature Betrayal | 1.00% | ~2,106 |
+| A Tale of Two Cities | 1.00% | ~2,106 |
+| The Dead Three | 1.00% | ~2,106 |
+| Flying Monkey Skulls of Doom | 1.00% | ~2,106 |
+| Dinosaur Racing | 1.00% | ~2,106 |
+| Close Escort | 1.00% | ~2,106 |
+| Constant Banditry | 1.00% | ~2,106 |
+| The Long Haul | 1.00% | ~2,106 |
+| Lost in the Deep | 1.00% | ~2,106 |
+| Easily Distracted | 1.00% | ~2,106 |
+| Rescue in the Jungle | 1.00% | ~2,106 |
 | The Forbidden City | 0.90% | ~1,895 |
 | Captured! | 0.90% | ~1,895 |
 | Wisdom Check | 0.90% | ~1,895 |
@@ -62,6 +62,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tomb of the Nine Gods | 0.80% | ~1,684 |
 | Treasure Hunters | 0.80% | ~1,684 |
 | Nimble Escape | 0.80% | ~1,684 |
+| Fugitives | 0.80% | ~1,684 |
 | The Darkness Runs Deeper | 0.80% | ~1,684 |
 | The Giant's Bane Tavern | 0.80% | ~1,415 |
 | Rude Welcome | 0.80% | ~1,684 |
@@ -70,7 +71,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Family Entanglements | 0.70% | ~1,474 |
 | The Immortal Warrior | 0.70% | ~1,474 |
 | The Wyrmheart Mine | 0.70% | ~1,474 |
-| Fugitives | 0.70% | ~1,474 |
 | Hopelessly Lost | 0.70% | ~1,474 |
 | Enter the Sargauth | 0.70% | ~1,474 |
 | Crowded Streets | 0.70% | ~1,474 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,540 (Ranked 52)  
+Progressed: 210,556 (Ranked 52)  
 Completed: 2,046 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -593,7 +593,7 @@ Completed: 2,046 (0.97%) (Ranked 102)
 | 2023-07-09 | 209,384 | 2,043 |
 | 2023-07-10 | 209,861 | 2,045 |
 | 2023-07-11 | 210,283 | 2,046 |
-| 2023-07-12 | 210,540 | 2,046 |
+| 2023-07-12 | 210,556 | 2,046 |
 ## Awards
 Max (Diverse Characters): 5,025  (Ranked 66)  
 Sum: 30,487 (Ranked 38)  

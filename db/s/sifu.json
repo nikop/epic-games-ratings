@@ -5100,7 +5100,7 @@
       "Count": 363
     }
   ],
-  "EOS_Progressed": 710699,
+  "EOS_Progressed": 710700,
   "EOS_Completed": 12810,
   "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 5,
@@ -12920,6 +12920,11 @@
       "Time": "2023-07-12T17:06:39.987501+00:00",
       "NumProgressed": 710699,
       "NumCompleted": 12810
+    },
+    {
+      "Time": "2023-07-12T18:07:21.353523+00:00",
+      "NumProgressed": 710700,
+      "NumCompleted": 12810
     }
   ],
   "TotalAchievements": 50,
@@ -13027,7 +13032,7 @@
       "Name": "Prodigal Child",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3553
+      "UsersEstimate": 3554
     },
     {
       "ID": "14_DeathlessBoss_Trophy",
@@ -13147,7 +13152,7 @@
       "Name": "The 36th Chamber of Kung-Fu",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 3553
+      "UsersEstimate": 3554
     },
     {
       "ID": "29_FocusAttack_Trophy",
@@ -13187,7 +13192,7 @@
       "Name": "Sword Stained With Blood",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3553
+      "UsersEstimate": 3554
     },
     {
       "ID": "34_TimedTakedown",
@@ -13330,21 +13335,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 20000,
+      "Progressed": 20001,
       "Completed": 10383
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 710699,
+      "Progressed": 710700,
       "Completed": 12810
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-12T15:00:16.6121928+00:00",
-  "LastChanged_Achievements": "2023-07-12T17:06:39.9875005+00:00",
+  "LastChanged_Achievements": "2023-07-12T18:07:21.3535221+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:05.6915334+00:00",
-  "LastUpdate_Ratings": "2023-07-12T16:59:35.6635007+00:00",
-  "LastUpdate_Achievements": "2023-07-12T17:06:39.9875958+00:00"
+  "LastUpdate_Ratings": "2023-07-12T18:00:09.1763359+00:00",
+  "LastUpdate_Achievements": "2023-07-12T18:07:21.3536253+00:00"
 }

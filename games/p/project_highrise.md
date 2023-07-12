@@ -46,6 +46,7 @@
 | First 100 Days | 9.00% | ~21 |
 | Aestheticly Pleased | 9.00% | ~21 |
 | Refined Palates | 9.00% | ~21 |
+| Meet Me at HQ | 8.00% | ~18 |
 | Maximum Reuse | 8.00% | ~18 |
 | Revenue Royalty | 8.00% | ~18 |
 | Phoning It In | 8.00% | ~18 |
@@ -53,7 +54,6 @@
 | I'm Busy Ruling | 7.00% | ~16 |
 | Careful Constructor | 7.00% | ~16 |
 | Water Features | 7.00% | ~16 |
-| Meet Me at HQ | 7.00% | ~16 |
 | Sky High Stature | 7.00% | ~16 |
 | Profound Proceeds | 7.00% | ~16 |
 | It's a Gas | 7.00% | ~16 |

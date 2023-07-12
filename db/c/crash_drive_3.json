@@ -4,7 +4,7 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 343,
+  "EOS_Progressed": 344,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -276,6 +276,11 @@
       "Time": "2023-07-11T12:02:25.5258361+00:00",
       "NumProgressed": 343,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-12T18:03:27.4724049+00:00",
+      "NumProgressed": 344,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -287,7 +292,7 @@
       "Name": "Brace for impact!",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ALL_ACHIEVEMENTS",
@@ -311,7 +316,7 @@
       "Name": "Car-Tapult",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "COIN_COLLECT",
@@ -327,7 +332,7 @@
       "Name": "Baby\u0027s First Car",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "COLLECT_20_CARS",
@@ -407,7 +412,7 @@
       "Name": "To and Fro",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "FRONT_OR_BACKFLIP",
@@ -415,7 +420,7 @@
       "Name": "Disoriented",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "FULLY_LEVEL_20_CARS",
@@ -463,7 +468,7 @@
       "Name": "Anger Issues",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "HIT_50_PUSHABLES",
@@ -471,7 +476,7 @@
       "Name": "Pushover",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "HIT_ALIEN",
@@ -503,7 +508,7 @@
       "Name": "Space Crash",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "HONK_100_TIMES",
@@ -527,7 +532,7 @@
       "Name": "Your Highness",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "LEFT_LEVEL",
@@ -607,7 +612,7 @@
       "Name": "Bag of Tricks",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "STUNT_SCORE_DOUBLE",
@@ -615,7 +620,7 @@
       "Name": "Out of this League",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "TAGGED_25_OBJECTS",
@@ -647,7 +652,7 @@
       "Name": "I see the light!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "WIN_100_EVENTS",
@@ -703,7 +708,7 @@
       "Name": "In the Bag!",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "WIN_TAG_EVENT",
@@ -711,7 +716,7 @@
       "Name": "You\u0027re it",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "WIN_TANK_BATTLES",
@@ -726,7 +731,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 343,
+      "Progressed": 344,
       "Completed": 2
     }
   ],
@@ -734,8 +739,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-07-12T17:02:22.021639+00:00",
+  "LastChanged_Achievements": "2023-07-12T18:03:27.4724044+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:43.7236843+00:00",
-  "LastUpdate_Ratings": "2023-07-12T16:59:23.8216515+00:00",
-  "LastUpdate_Achievements": "2023-07-12T17:02:22.0216797+00:00"
+  "LastUpdate_Ratings": "2023-07-12T17:59:52.7401849+00:00",
+  "LastUpdate_Achievements": "2023-07-12T18:03:27.4724519+00:00"
 }

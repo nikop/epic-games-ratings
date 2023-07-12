@@ -1,7 +1,7 @@
 # Townsmen - A Kingdom Rebuilt
 [Store](https://store.epicgames.com/en-US/p/townsmen-a-kingdom-rebuilt-07c09d)  
 [View Rawdata](../../db/t/townsmen_-_a_kingdom_rebuilt.json)  
-Rating: 4.21 (Ranked 833)  
+Rating: 4.21 (Ranked 834)  
 Number of Ratings: 37  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -93,6 +93,7 @@ Number of Ratings: 37  (23.09.2022)
 | I've been everywhere VIII | 0.40% | ~17 |
 | I've been everywhere IX | 0.40% | ~17 |
 | To serve and protect | 0.40% | ~17 |
+| You shall not pass | 0.40% | ~17 |
 | It went unnoticed | 0.30% | ~13 |
 | Brew master | 0.30% | ~13 |
 | I've been everywhere X | 0.30% | ~13 |
@@ -100,7 +101,6 @@ Number of Ratings: 37  (23.09.2022)
 | LEGEN… wait for it… DARY | 0.30% | ~13 |
 | War-zone | 0.30% | ~13 |
 | Waterways | 0.30% | ~13 |
-| You shall not pass | 0.30% | ~13 |
 | Malediction | 0.20% | ~8 |
 | Tired by festival | 0.20% | ~8 |
 | Good luck miner! | 0.10% | ~4 |

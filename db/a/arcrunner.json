@@ -1694,9 +1694,9 @@
       "ID": "ACHV_TRICKSHOT",
       "SetID": "cceobco",
       "Name": "Trickshot",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHV_UNLOCKEDANDLOADED",
@@ -1749,8 +1749,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-07-12T17:02:08.548851+00:00",
+  "LastChanged_Achievements": "2023-07-12T18:03:13.6276541+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:54.5129219+00:00",
-  "LastUpdate_Ratings": "2023-07-12T17:00:14.191323+00:00",
-  "LastUpdate_Achievements": "2023-07-12T17:02:08.5488775+00:00"
+  "LastUpdate_Ratings": "2023-07-12T18:00:44.9570137+00:00",
+  "LastUpdate_Achievements": "2023-07-12T18:03:13.6276872+00:00"
 }

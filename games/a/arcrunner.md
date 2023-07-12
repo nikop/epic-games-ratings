@@ -26,8 +26,8 @@
 | Rookie | 3.00% | ~21 |
 | Inner Core | 2.00% | ~14 |
 | Integration | 2.00% | ~14 |
+| Trickshot | 0.80% | ~6 |
 | Destruction | 0.70% | ~5 |
-| Trickshot | 0.70% | ~5 |
 | Ripperdoc | 0.60% | ~4 |
 | Hard Boiled | 0.40% | ~3 |
 | Cyborg | 0.10% | ~1 |

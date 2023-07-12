@@ -2516,9 +2516,9 @@
       "ID": "MissionVictory_NoAmmo",
       "SetID": "3jha1np",
       "Name": "Efficient Killer",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 237
+      "UsersEstimate": 266
     },
     {
       "ID": "MissionVictory_NoDamage",
@@ -2674,8 +2674,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-12T10:59:15.9478559+00:00",
-  "LastChanged_Achievements": "2023-07-12T17:02:19.9470171+00:00",
+  "LastChanged_Achievements": "2023-07-12T18:03:25.523928+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:34.0888616+00:00",
-  "LastUpdate_Ratings": "2023-07-12T16:59:17.5333748+00:00",
-  "LastUpdate_Achievements": "2023-07-12T17:02:19.9470669+00:00"
+  "LastUpdate_Ratings": "2023-07-12T17:59:44.8104793+00:00",
+  "LastUpdate_Achievements": "2023-07-12T18:03:25.5240076+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -1855,9 +1855,9 @@
       "ID": "ACHV_37",
       "SetID": "8p5mlmc",
       "Name": "Luminary",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 403
+      "UsersEstimate": 422
     },
     {
       "ID": "ACHV_38",
@@ -2032,8 +2032,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-07-03T18:02:00.1101593+00:00",
-  "LastChanged_Achievements": "2023-07-12T17:01:16.5396412+00:00",
+  "LastChanged_Achievements": "2023-07-12T18:01:52.9973987+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:02.3042155+00:00",
-  "LastUpdate_Ratings": "2023-07-12T17:00:58.2816189+00:00",
-  "LastUpdate_Achievements": "2023-07-12T17:01:16.5396911+00:00"
+  "LastUpdate_Ratings": "2023-07-12T18:01:37.5977321+00:00",
+  "LastUpdate_Achievements": "2023-07-12T18:01:52.997465+00:00"
 }

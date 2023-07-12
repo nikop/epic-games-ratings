@@ -1202,9 +1202,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 426718,
+  "EOS_Progressed": 426719,
   "EOS_Completed": 516,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -7177,6 +7177,11 @@
       "Time": "2023-07-12T17:05:23.3548318+00:00",
       "NumProgressed": 426718,
       "NumCompleted": 516
+    },
+    {
+      "Time": "2023-07-12T18:06:05.9005111+00:00",
+      "NumProgressed": 426719,
+      "NumCompleted": 516
     }
   ],
   "TotalAchievements": 41,
@@ -7212,7 +7217,7 @@
       "Name": "Crossing Over",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 123748
+      "UsersEstimate": 123749
     },
     {
       "ID": "ACH_BOSS_ROT_GOD",
@@ -7244,7 +7249,7 @@
       "Name": "A Heavy Hammer",
       "Percentage": 30,
       "XP": 60,
-      "UsersEstimate": 128015
+      "UsersEstimate": 128016
     },
     {
       "ID": "ACH_CHALLENGE_ARROW",
@@ -7276,7 +7281,7 @@
       "Name": "Quick Draw",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 123748
+      "UsersEstimate": 123749
     },
     {
       "ID": "ACH_CHALLENGE_DASH_KILL",
@@ -7324,7 +7329,7 @@
       "Name": "Between the Eyes",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 196290
+      "UsersEstimate": 196291
     },
     {
       "ID": "ACH_CHESTS_ALL",
@@ -7356,7 +7361,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 405382
+      "UsersEstimate": 405383
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -7372,7 +7377,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 307237
+      "UsersEstimate": 307238
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -7388,7 +7393,7 @@
       "Name": "Into the Woods",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 294435
+      "UsersEstimate": 294436
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -7404,7 +7409,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 341374
+      "UsersEstimate": 341375
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -7420,7 +7425,7 @@
       "Name": "Zen Master",
       "Percentage": 8,
       "XP": 60,
-      "UsersEstimate": 34137
+      "UsersEstimate": 34138
     },
     {
       "ID": "ACH_PHOTO_MODE",
@@ -7436,7 +7441,7 @@
       "Name": "Taro\u0027s Love",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 192023
+      "UsersEstimate": 192024
     },
     {
       "ID": "ACH_RELIC_HAMMER",
@@ -7468,7 +7473,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 238962
+      "UsersEstimate": 238963
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -7515,15 +7520,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 426718,
+      "Progressed": 426719,
       "Completed": 516
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-07-10T03:23:39.6637527+00:00",
-  "LastChanged_Achievements": "2023-07-12T17:05:23.3548311+00:00",
+  "LastChanged_Achievements": "2023-07-12T18:06:05.9005107+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:00.7181392+00:00",
-  "LastUpdate_Ratings": "2023-07-12T16:58:56.6775922+00:00",
-  "LastUpdate_Achievements": "2023-07-12T17:05:23.3548858+00:00"
+  "LastUpdate_Ratings": "2023-07-12T17:59:21.987474+00:00",
+  "LastUpdate_Achievements": "2023-07-12T18:06:05.9005745+00:00"
 }

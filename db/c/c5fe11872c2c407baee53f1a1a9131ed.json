@@ -578,9 +578,9 @@
       "ID": "ach_endless_60",
       "SetID": "5a4225j",
       "Name": "Endless 60 Seconds",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ach_endless_c_60",
@@ -712,8 +712,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-02T21:05:45.273905+00:00",
-  "LastChanged_Achievements": "2023-07-12T17:04:25.2257677+00:00",
+  "LastChanged_Achievements": "2023-07-12T18:04:48.7942215+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:19.1257474+00:00",
-  "LastUpdate_Ratings": "2023-07-12T16:57:34.5763278+00:00",
-  "LastUpdate_Achievements": "2023-07-12T17:04:25.2257853+00:00"
+  "LastUpdate_Ratings": "2023-07-12T17:58:01.5192807+00:00",
+  "LastUpdate_Achievements": "2023-07-12T18:04:48.7942517+00:00"
 }
