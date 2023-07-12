@@ -18,7 +18,7 @@
 | 10K | 24.00% | ~48 |
 | Bouncemato | 24.00% | ~36 |
 | 15K | 23.00% | ~46 |
-| Drinking Problem | 20.00% | ~40 |
+| Drinking Problem | 21.00% | ~42 |
 | Grave Digger | 20.00% | ~30 |
 | Professional Survivor | 18.00% | ~27 |
 | Quick-Draw Pod | 16.00% | ~24 |
@@ -40,9 +40,9 @@
 | Chick Magnet | 4.00% | ~8 |
 | Early Bird | 4.00% | ~8 |
 | Master Survivor | 4.00% | ~6 |
+| I Have The High Ground | 3.00% | ~6 |
 | Heart Breaker | 3.00% | ~4 |
 | Honk Honk | 2.00% | ~4 |
-| I Have The High Ground | 2.00% | ~4 |
 | Easy Peasy | 2.00% | ~3 |
 | Pro Pyromancer | 1.00% | ~2 |
 | King of the Crow | 1.00% | ~1 |

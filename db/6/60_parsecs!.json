@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2018-09-17T22:00:00+00:00",
@@ -704,9 +704,9 @@
       "ID": "Achievement_IntergalacticBreakup",
       "SetID": "c01p6e5",
       "Name": "Intergalactic Breakup",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 54
     },
     {
       "ID": "Achievement_KIA",
@@ -873,8 +873,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-07-12T22:05:15.6431402+00:00",
+  "LastChanged_Achievements": "2023-07-12T23:06:27.8756957+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:48.9617306+00:00",
-  "LastUpdate_Ratings": "2023-07-12T21:59:02.5737825+00:00",
-  "LastUpdate_Achievements": "2023-07-12T22:05:15.6431821+00:00"
+  "LastUpdate_Ratings": "2023-07-12T23:00:00.2672677+00:00",
+  "LastUpdate_Achievements": "2023-07-12T23:06:27.8757333+00:00"
 }

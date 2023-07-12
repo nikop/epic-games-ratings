@@ -5,23 +5,23 @@ Rating: 4.77 (Ranked 108)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 11.00% | ~31,581 |
-| First Class Student | 10.00% | ~28,710 |
-| Troll with the Punches | 10.00% | ~28,710 |
-| A Keen Sense of Spell | 9.00% | ~25,839 |
-| That's a Keeper | 9.00% | ~25,839 |
-| Grappling with a Graphorn | 8.00% | ~22,968 |
-| The One Who Mastered Memories | 8.00% | ~22,968 |
-| The Hallowed Hero | 8.00% | ~22,968 |
-| The Hero of Hogwarts | 8.00% | ~22,968 |
-| The Defender of Dragons | 8.00% | ~22,968 |
-| Challenge Accepted | 8.00% | ~22,968 |
-| Loom for Improvement | 8.00% | ~22,968 |
-| A Talent for Spending | 8.00% | ~22,968 |
-| Coasting Along | 8.00% | ~22,968 |
-| Followed the Butterflies | 7.00% | ~20,097 |
-| The Spell Master | 7.00% | ~20,097 |
-| Rising From the Ashes | 7.00% | ~20,097 |
+| The Sort Who Makes an Entrance | 11.00% | ~31,582 |
+| First Class Student | 10.00% | ~28,711 |
+| Troll with the Punches | 10.00% | ~28,711 |
+| A Keen Sense of Spell | 9.00% | ~25,840 |
+| That's a Keeper | 9.00% | ~25,840 |
+| Grappling with a Graphorn | 8.00% | ~22,969 |
+| The One Who Mastered Memories | 8.00% | ~22,969 |
+| The Hallowed Hero | 8.00% | ~22,969 |
+| The Hero of Hogwarts | 8.00% | ~22,969 |
+| The Defender of Dragons | 8.00% | ~22,969 |
+| Challenge Accepted | 8.00% | ~22,969 |
+| Loom for Improvement | 8.00% | ~22,969 |
+| A Talent for Spending | 8.00% | ~22,969 |
+| Coasting Along | 8.00% | ~22,969 |
+| Followed the Butterflies | 7.00% | ~20,098 |
+| The Spell Master | 7.00% | ~20,098 |
+| Rising From the Ashes | 7.00% | ~20,098 |
 | The Avenging Gazelle | 6.00% | ~17,226 |
 | Beast Friends | 6.00% | ~17,226 |
 | A Sallow Grave | 6.00% | ~17,226 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.50% | ~1,436 |
 | Collector's Edition | 0.20% | ~574 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 287,100 (Ranked 41)  
+Progressed: 287,108 (Ranked 41)  
 Completed: 423 (0.15%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,14 +134,14 @@ Completed: 423 (0.15%) (Ranked 172)
 | 2023-07-09 | 286,337 | 420 |
 | 2023-07-10 | 286,613 | 422 |
 | 2023-07-11 | 286,851 | 423 |
-| 2023-07-12 | 287,100 | 423 |
+| 2023-07-12 | 287,108 | 423 |
 ## Awards
-Max (Character Customization): 20,887  (Ranked 17)  
-Sum: 39,016 (Ranked 30)  
+Max (Character Customization): 20,913  (Ranked 17)  
+Sum: 39,042 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 20,887 |
+| This game has Inclusive Character Customization | 20,913 |
 | This game has Great Boss Battles | 9,989 |
 | This game is Great for Beginners | 903 |
 | This game is Extremely Fun | 885 |
@@ -266,4 +266,4 @@ Diff (max vs sum): -13
 | 2023-07-09 | 4.77 | 20,828 | 38,845 |
 | 2023-07-10 | 4.77 | 20,861 | 38,915 |
 | 2023-07-11 | 4.77 | 20,887 | 38,978 |
-| 2023-07-12 | 4.77 | 20,887 | 39,016 |
+| 2023-07-12 | 4.77 | 20,913 | 39,042 |

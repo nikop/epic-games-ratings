@@ -12,15 +12,15 @@
 | Night Shift | 24.00% | ~25 |
 | It's about the journey | 13.00% | ~14 |
 | C'who? | 10.00% | ~10 |
-| Shine bright | 9.00% | ~9 |
+| Shine bright | 10.00% | ~10 |
 | There be sand in me shorts | 8.00% | ~8 |
 | It gets everywhere | 8.00% | ~8 |
 | Make it rain | 7.00% | ~7 |
 | Holy Crops! | 7.00% | ~7 |
 | Do you wanna build a snowboiii? | 6.00% | ~6 |
+| Ay ay yarrr! | 5.00% | ~5 |
 | Peaceful skies | 4.00% | ~4 |
 | Groovy! | 4.00% | ~4 |
-| Ay ay yarrr! | 4.00% | ~4 |
 | It's a bug's life | 3.00% | ~3 |
 | Homecoming | 2.00% | ~2 |
 | Who let the pets out? | 2.00% | ~2 |

@@ -2,13 +2,13 @@
   "ID": "2a14cf8a83b149919a2399504e5686a6",
   "Name": "The Sims\u2122 4",
   "ProductSlug": "the-sims-4",
-  "Ranking_Rating": 364,
+  "Ranking_Rating": 363,
   "Ranking_Popularity": 194,
   "Ranking_PopularitySum": 156,
   "Ranking_EOS_Progress": 491,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-02-02T18:00:00+00:00",
     "PcReleaseDate": "2014-09-02T15:00:00+00:00",
@@ -3986,11 +3986,17 @@
       "Rating": 4.61,
       "NumberOfAwards": 3072,
       "NumberOfAwardsMax": 485
+    },
+    {
+      "Time": "2023-07-12T22:58:19.0998524+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3078,
+      "NumberOfAwardsMax": 490
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3072,
-  "NumberOfAwardsMax": 485,
+  "NumberOfAwards": 3078,
+  "NumberOfAwardsMax": 490,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -4003,7 +4009,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 485
+      "Count": 490
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4015,7 +4021,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 282
+      "Count": 283
     },
     {
       "Text": "This game is Educational",
@@ -4072,8 +4078,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
-  "LastChanged": "2023-07-12T17:58:37.8761816+00:00",
+  "LastChanged": "2023-07-12T22:58:19.0998522+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:00.4729128+00:00",
-  "LastUpdate_Ratings": "2023-07-12T21:57:50.5273036+00:00",
-  "LastUpdate_Achievements": "2023-07-12T22:00:47.8186678+00:00"
+  "LastUpdate_Ratings": "2023-07-12T22:58:19.0998528+00:00",
+  "LastUpdate_Achievements": "2023-07-12T23:02:26.1900087+00:00"
 }

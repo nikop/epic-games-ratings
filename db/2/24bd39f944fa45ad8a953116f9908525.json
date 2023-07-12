@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-06-30T02:00:00+00:00",
     "PcReleaseDate": "2022-08-25T02:30:00+00:00",
@@ -546,9 +546,9 @@
       "ID": "ach_48_moneySmell",
       "SetID": "16n29hg",
       "Name": "Greed is Good",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_49_kindHaak",
@@ -617,8 +617,8 @@
   ],
   "FirstSeen": "2023-06-30T05:57:16.6793848+00:00",
   "FirstSeenAchievements": "2023-06-20T07:03:35.8699826+00:00",
-  "LastChanged_Achievements": "2023-07-12T22:03:47.2592738+00:00",
+  "LastChanged_Achievements": "2023-07-12T23:04:26.1513419+00:00",
   "LastUpdate_AppInfo": "2023-07-12T06:56:56.5760237+00:00",
-  "LastUpdate_Ratings": "2023-07-12T21:57:17.7538173+00:00",
-  "LastUpdate_Achievements": "2023-07-12T22:03:47.2593327+00:00"
+  "LastUpdate_Ratings": "2023-07-12T22:57:31.6855291+00:00",
+  "LastUpdate_Achievements": "2023-07-12T23:04:26.1514301+00:00"
 }

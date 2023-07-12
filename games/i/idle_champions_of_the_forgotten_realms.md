@@ -8,6 +8,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | Seeds of Deceit | 0.10% | ~211 |
 | Visions of Strahd | 0.10% | ~211 |
+| Seeds of Corruption | 0.10% | ~211 |
 | Trollskull Manor | 0.10% | ~211 |
 | The Gargoyle's Apprentice | 0.10% | ~211 |
 | House of Darkness | 0.10% | ~211 |
@@ -32,6 +33,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flies on the Wall | 0.10% | ~211 |
 | Seeking Allies | 0.10% | ~211 |
 | Class Vacation | 0.10% | ~211 |
+| Backtracking Through Barovia | 0.10% | ~211 |
 | Shadowfell Stalwarts | 0.10% | ~177 |
 | Nimble Escape | 0.10% | ~211 |
 | Nimblest Escape | 0.10% | ~211 |
@@ -52,6 +54,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tanking Expectations | 0.10% | ~177 |
 | Hopelessly Lost | 0.10% | ~211 |
 | Bazaar Exploits | 0.10% | ~211 |
+| Cramped Quarters | 0.10% | ~211 |
 | Flame(skull) War | 0.10% | ~211 |
 | Servants of the Demon Prince | 0.10% | ~177 |
 | Enter the Sargauth | 0.10% | ~211 |
@@ -60,6 +63,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Madness Peaks | 0.10% | ~177 |
 | Who Lurks in Lurkwood | 0.10% | ~211 |
 | And a Pixie in a Pear Treant | 0.10% | ~177 |
+| Orcs Are Wild | 0.10% | ~211 |
 | Mad Cow Disease | 0.10% | ~211 |
 | Exploring Port Nyanzaru | 0.10% | ~211 |
 | A Tale of Two Cities | 0.10% | ~211 |
@@ -118,6 +122,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wyllowwood | 0.10% | ~211 |
 | Displaced Anger | 0.10% | ~211 |
 | Ettercap Swarm | 0.10% | ~177 |
+| Relay Race | 0.10% | ~211 |
 | An Illithid Undertaking | 0.10% | ~177 |
 | An Illithid Ambush | 0.10% | ~177 |
 | Misty Undermountain | 0.10% | ~177 |
@@ -155,6 +160,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Extreme Heat | 0.10% | ~177 |
 | Fire and Brimstone | 0.10% | ~177 |
 | Into the Unknown | 0.10% | ~177 |
+| A Tenday at Golgamann's | 0.10% | ~177 |
 | A Nightmare Occasion | 0.10% | ~177 |
 | Prisoners of Unknown Choices | 0.10% | ~177 |
 | Escort to Waterdeep | 0.10% | ~211 |
@@ -187,15 +193,19 @@ Number of Ratings: 9,041  (23.09.2022)
 | Durable Deep | 0.10% | ~211 |
 | Lone Wolf Party | 0.10% | ~177 |
 | The Sibriex | 0.10% | ~177 |
+| A Neutral Party | 0.10% | ~177 |
 | Wrecked Flying Fortress | 0.10% | ~177 |
 | Relentless Peril | 0.10% | ~177 |
 | Rickety Rubble | 0.10% | ~177 |
 | Expert Opinion | 0.10% | ~211 |
 | Dwarven Rumors | 0.10% | ~177 |
+| Mimic Perception | 0.10% | ~177 |
 | Frozen in Fear | 0.10% | ~177 |
 | It's Cold Out There Today | 0.10% | ~177 |
 | Sunblight | 0.10% | ~177 |
+| Fortress Assault | 0.10% | ~177 |
 | Hats off to you! | 0.10% | ~177 |
+| It's Cold Out There Every Day | 0.10% | ~177 |
 | The Bleeding Citadel | 0.10% | ~177 |
 | Going To Eleven | 0.10% | ~177 |
 | Idyllglen | 0.10% | ~177 |
@@ -214,6 +224,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Gargauth's Betrayal | 0.10% | ~177 |
 | Demons Here, Demons There | 0.10% | ~177 |
 | Visions of Hornfirth | 0.10% | ~177 |
+| Leemooggoogoon Rises | 0.10% | ~177 |
 | Stragglers | 0.10% | ~177 |
 | Ending the Rime - Part 1 | 0.10% | ~177 |
 | Ambitious Speakers - Part 1 | 0.10% | ~177 |
@@ -229,7 +240,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Crimson Perception | 0.10% | ~177 |
 | Watchful Eyes | 0.10% | ~177 |
 | Maroon Madness | 0.10% | ~177 |
+| An Icewind Dale Reunion | 0.10% | ~177 |
 | Ineffectual Intellectuals | 0.10% | ~177 |
+| The Archaeologist and the Sailor | 0.10% | ~177 |
 | The Templar's Camp | 0.10% | ~211 |
 | The Haunted Jungle | 0.10% | ~211 |
 | Poor Guidance | 0.10% | ~211 |
@@ -432,19 +445,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | Only the Strong Survive | 0.00% | ~0 |
 | Shorty's Day Off | 0.00% | ~0 |
 | Intelligence Hunt | 0.00% | ~0 |
-| Seeds of Corruption | 0.00% | ~0 |
 | The Strahd Squad | 0.00% | ~0 |
 | The Killer Mists | 0.00% | ~0 |
 | A Nod from Strahd | 0.00% | ~0 |
-| Backtracking Through Barovia | 0.00% | ~0 |
 | Diversity Day-Trip | 0.00% | ~0 |
 | Late Game | 0.00% | ~0 |
 | Screams of the Dead | 0.00% | ~0 |
 | Frantic Excavation | 0.00% | ~0 |
-| Cramped Quarters | 0.00% | ~0 |
 | Bullywugs in the Bog | 0.00% | ~0 |
 | Modrons in the Mud | 0.00% | ~0 |
-| Orcs Are Wild | 0.00% | ~0 |
 | An Abyssal Situation | 0.00% | ~0 |
 | Dino Nightmare | 0.00% | ~0 |
 | A Familiar Friend | 0.00% | ~0 |
@@ -460,19 +469,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Misty Grove | 0.00% | ~0 |
 | Nightmare Mode | 0.00% | ~0 |
 | Smooth Talkers | 0.00% | ~0 |
-| Relay Race | 0.00% | ~0 |
 | Déjà Vu All Over Again | 0.00% | ~0 |
 | Look Out! | 0.00% | ~0 |
 | Zapper Overload | 0.00% | ~0 |
 | Ulkoria's Escape from Alterdeep | 0.00% | ~0 |
-| A Tenday at Golgamann's | 0.00% | ~0 |
 | The Prison of Velkynvelve | 0.00% | ~0 |
 | Prisoners of Lolth | 0.00% | ~0 |
 | The Archduke's Blessing | 0.00% | ~0 |
-| A Neutral Party | 0.00% | ~0 |
-| Mimic Perception | 0.00% | ~0 |
-| Fortress Assault | 0.00% | ~0 |
-| It's Cold Out There Every Day | 0.00% | ~0 |
 | Don't Pick at the Scab | 0.00% | ~0 |
 | Reya Reborn | 0.00% | ~0 |
 | Witty Riposting | 0.00% | ~0 |
@@ -483,7 +486,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Might Makes Right | 0.00% | ~0 |
 | The Stunning Tower Battle | 0.00% | ~0 |
 | Lost in the Underdark | 0.00% | ~0 |
-| Leemooggoogoon Rises | 0.00% | ~0 |
 | Volo's Guide to Kuo-toa | 0.00% | ~0 |
 | Ambitious Speakers - Part 2 | 0.00% | ~0 |
 | Tekeli-li's Hunt | 0.00% | ~0 |
@@ -492,9 +494,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Encroaching Madness | 0.00% | ~0 |
 | The Rite of the Arcane Octad | 0.00% | ~0 |
 | Alien Allies | 0.00% | ~0 |
-| An Icewind Dale Reunion | 0.00% | ~0 |
 | The Netherese Necropolis | 0.00% | ~0 |
-| The Archaeologist and the Sailor | 0.00% | ~0 |
 | The Court of Storms | 0.00% | ~0 |
 | Coasting to the Finish | 0.00% | ~0 |
 | Beware the Jabberwock | 0.00% | ~0 |
@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,638 (Ranked 52)  
+Progressed: 210,649 (Ranked 52)  
 Completed: 2,046 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -597,7 +597,7 @@ Completed: 2,046 (0.97%) (Ranked 102)
 | 2023-07-09 | 209,384 | 2,043 |
 | 2023-07-10 | 209,861 | 2,045 |
 | 2023-07-11 | 210,283 | 2,046 |
-| 2023-07-12 | 210,638 | 2,046 |
+| 2023-07-12 | 210,649 | 2,046 |
 ## Awards
 Max (Diverse Characters): 5,025  (Ranked 66)  
 Sum: 30,489 (Ranked 38)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 233,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
@@ -1181,9 +1181,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 123056,
+  "EOS_Progressed": 123057,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 323,
+  "EOS_NewPlayers": 322,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -9226,6 +9226,11 @@
       "Time": "2023-07-12T21:03:07.3317978+00:00",
       "NumProgressed": 123056,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-07-12T23:02:30.6521023+00:00",
+      "NumProgressed": 123057,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -9285,7 +9290,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 9844
+      "UsersEstimate": 9845
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -9293,7 +9298,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 29533
+      "UsersEstimate": 29534
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -9301,7 +9306,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 9844
+      "UsersEstimate": 9845
     },
     {
       "ID": "ACH_COP_DORK",
@@ -9373,7 +9378,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 18458
+      "UsersEstimate": 18459
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -9556,15 +9561,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 123056,
+      "Progressed": 123057,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-07-07T16:59:40.5892511+00:00",
-  "LastChanged_Achievements": "2023-07-12T22:00:50.8832954+00:00",
+  "LastChanged_Achievements": "2023-07-12T23:02:30.6521015+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:13.7032583+00:00",
-  "LastUpdate_Ratings": "2023-07-12T21:59:15.9528186+00:00",
-  "LastUpdate_Achievements": "2023-07-12T22:00:50.8833853+00:00"
+  "LastUpdate_Ratings": "2023-07-12T23:00:19.8595607+00:00",
+  "LastUpdate_Achievements": "2023-07-12T23:02:30.6522433+00:00"
 }

@@ -4924,9 +4924,9 @@
       "Count": 3297
     }
   ],
-  "EOS_Progressed": 210638,
+  "EOS_Progressed": 210649,
   "EOS_Completed": 2046,
-  "EOS_NewPlayers": 3767,
+  "EOS_NewPlayers": 3760,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -13789,6 +13789,11 @@
       "Time": "2023-07-12T22:04:53.2824161+00:00",
       "NumProgressed": 210638,
       "NumCompleted": 2046
+    },
+    {
+      "Time": "2023-07-12T23:05:56.8618001+00:00",
+      "NumProgressed": 210649,
+      "NumCompleted": 2046
     }
   ],
   "TotalAchievements": 507,
@@ -15390,9 +15395,9 @@
       "ID": "objective_completed_269",
       "SetID": "cc37lbc",
       "Name": "Seeds of Corruption",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 211
     },
     {
       "ID": "objective_completed_270",
@@ -15614,9 +15619,9 @@
       "ID": "objective_completed_393",
       "SetID": "cc37lbc",
       "Name": "Backtracking Through Barovia",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 211
     },
     {
       "ID": "objective_completed_394",
@@ -15814,9 +15819,9 @@
       "ID": "objective_completed_42",
       "SetID": "cc37lbc",
       "Name": "Cramped Quarters",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 211
     },
     {
       "ID": "objective_completed_420",
@@ -15902,9 +15907,9 @@
       "ID": "objective_completed_433",
       "SetID": "cc37lbc",
       "Name": "Orcs Are Wild",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 211
     },
     {
       "ID": "objective_completed_434",
@@ -16494,9 +16499,9 @@
       "ID": "objective_completed_62",
       "SetID": "cc37lbc",
       "Name": "Relay Race",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 211
     },
     {
       "ID": "objective_completed_620",
@@ -16830,9 +16835,9 @@
       "ID": "objective_completed_681",
       "SetID": "415jc5c",
       "Name": "A Tenday at Golgamann\u0027s",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_682",
@@ -17118,9 +17123,9 @@
       "ID": "objective_completed_814",
       "SetID": "415jc5c",
       "Name": "A Neutral Party",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_817",
@@ -17166,9 +17171,9 @@
       "ID": "objective_completed_828",
       "SetID": "415jc5c",
       "Name": "Mimic Perception",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_829",
@@ -17198,9 +17203,9 @@
       "ID": "objective_completed_833",
       "SetID": "415jc5c",
       "Name": "Fortress Assault",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_834",
@@ -17214,9 +17219,9 @@
       "ID": "objective_completed_835",
       "SetID": "415jc5c",
       "Name": "It\u0027s Cold Out There Every Day",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_837",
@@ -17446,9 +17451,9 @@
       "ID": "objective_completed_882",
       "SetID": "415jc5c",
       "Name": "Leemooggoogoon Rises",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_883",
@@ -17638,9 +17643,9 @@
       "ID": "objective_completed_930",
       "SetID": "415jc5c",
       "Name": "An Icewind Dale Reunion",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_933",
@@ -17662,9 +17667,9 @@
       "ID": "objective_completed_935",
       "SetID": "415jc5c",
       "Name": "The Archaeologist and the Sailor",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_94",
@@ -17855,21 +17860,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 176912,
+      "Progressed": 176923,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 210638,
+      "Progressed": 210649,
       "Completed": 2046
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-12T18:58:35.2452234+00:00",
-  "LastChanged_Achievements": "2023-07-12T22:04:53.2824156+00:00",
+  "LastChanged_Achievements": "2023-07-12T23:05:56.8617996+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:43.9043947+00:00",
-  "LastUpdate_Ratings": "2023-07-12T21:58:21.0480597+00:00",
-  "LastUpdate_Achievements": "2023-07-12T22:04:53.2854664+00:00"
+  "LastUpdate_Ratings": "2023-07-12T22:58:59.4638709+00:00",
+  "LastUpdate_Achievements": "2023-07-12T23:05:56.86578+00:00"
 }
