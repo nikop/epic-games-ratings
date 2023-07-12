@@ -520,7 +520,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 8932,
+  "EOS_Progressed": 8933,
   "EOS_Completed": 43,
   "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 1,
@@ -6165,6 +6165,11 @@
       "Time": "2023-07-12T04:03:06.1090691+00:00",
       "NumProgressed": 8932,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-12T05:02:27.1371701+00:00",
+      "NumProgressed": 8933,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -6280,7 +6285,7 @@
       "Name": "Greasy Palms",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3662
+      "UsersEstimate": 3663
     },
     {
       "ID": "ACH15",
@@ -6336,7 +6341,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4019
+      "UsersEstimate": 4020
     },
     {
       "ID": "ACH22",
@@ -6360,7 +6365,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1250
+      "UsersEstimate": 1251
     },
     {
       "ID": "ACH25",
@@ -6368,7 +6373,7 @@
       "Name": "Chauffeur",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1250
+      "UsersEstimate": 1251
     },
     {
       "ID": "ACH26",
@@ -6447,7 +6452,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8932,
+      "Progressed": 8933,
       "Completed": 43
     }
   ],
@@ -6455,8 +6460,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-07T10:58:53.3105834+00:00",
-  "LastChanged_Achievements": "2023-07-12T04:03:06.1090687+00:00",
+  "LastChanged_Achievements": "2023-07-12T05:02:27.1371693+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:55.3864428+00:00",
-  "LastUpdate_Ratings": "2023-07-12T03:58:56.371462+00:00",
-  "LastUpdate_Achievements": "2023-07-12T04:03:06.1091135+00:00"
+  "LastUpdate_Ratings": "2023-07-12T04:58:51.4284146+00:00",
+  "LastUpdate_Achievements": "2023-07-12T05:02:27.1372817+00:00"
 }

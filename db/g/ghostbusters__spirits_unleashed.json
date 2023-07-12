@@ -1428,9 +1428,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 24170,
+  "EOS_Progressed": 24171,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7713,6 +7713,11 @@
       "Time": "2023-07-12T04:04:03.6504325+00:00",
       "NumProgressed": 24170,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-07-12T05:04:03.2600113+00:00",
+      "NumProgressed": 24171,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 51,
@@ -7724,7 +7729,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 17644
+      "UsersEstimate": 17645
     },
     {
       "ID": "Animated",
@@ -7794,9 +7799,9 @@
       "ID": "Daily_Dose",
       "SetID": "819popo",
       "Name": "Daily Dose",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 8218
+      "UsersEstimate": 8460
     },
     {
       "ID": "Diabolical",
@@ -8012,7 +8017,7 @@
       "Name": "Solo Capture",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 7734
+      "UsersEstimate": 7735
     },
     {
       "ID": "Stunner",
@@ -8028,7 +8033,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 20786
+      "UsersEstimate": 20787
     },
     {
       "ID": "Summoner",
@@ -8084,7 +8089,7 @@
       "Name": "There you are!",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 10393
+      "UsersEstimate": 10394
     },
     {
       "ID": "Tobins_Prodigy",
@@ -8116,7 +8121,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 7734
+      "UsersEstimate": 7735
     },
     {
       "ID": "Whoopsie",
@@ -8124,14 +8129,14 @@
       "Name": "Whoopsie",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2900
+      "UsersEstimate": 2901
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 24170,
+      "Progressed": 24171,
       "Completed": 46
     }
   ],
@@ -8139,8 +8144,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-07-11T04:59:41.8955713+00:00",
-  "LastChanged_Achievements": "2023-07-12T04:04:03.6504321+00:00",
+  "LastChanged_Achievements": "2023-07-12T05:04:03.2600107+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:03.6661628+00:00",
-  "LastUpdate_Ratings": "2023-07-12T03:59:49.9341519+00:00",
-  "LastUpdate_Achievements": "2023-07-12T04:04:03.6504996+00:00"
+  "LastUpdate_Ratings": "2023-07-12T04:59:51.6806375+00:00",
+  "LastUpdate_Achievements": "2023-07-12T05:04:03.2601765+00:00"
 }

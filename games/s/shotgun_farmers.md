@@ -5,28 +5,28 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Seeds of War | 70.00% | ~137 |
+| Triple Kill | 50.00% | ~98 |
 | Survivor | 50.00% | ~73 |
-| Triple Kill | 49.00% | ~96 |
-| Aspairagus | 49.00% | ~72 |
-| First Blood | 46.00% | ~90 |
-| Cornivore | 44.00% | ~86 |
+| Aspairagus | 50.00% | ~73 |
+| First Blood | 47.00% | ~92 |
+| Cornivore | 45.00% | ~88 |
 | I Believe I Can Fly | 43.00% | ~84 |
 | No Asperascope | 41.00% | ~80 |
 | Early Survivor | 39.00% | ~57 |
 | No Diggity | 37.00% | ~54 |
-| Amateur Survivor | 27.00% | ~39 |
+| Amateur Survivor | 28.00% | ~41 |
 | Bouncemato | 23.00% | ~34 |
-| 10K | 21.00% | ~41 |
-| 15K | 20.00% | ~39 |
+| 10K | 22.00% | ~43 |
+| 15K | 21.00% | ~41 |
 | Drinking Problem | 19.00% | ~37 |
 | Grave Digger | 19.00% | ~28 |
 | Professional Survivor | 17.00% | ~25 |
 | Quick-Draw Pod | 16.00% | ~23 |
 | This Is My Boomstick | 13.00% | ~19 |
 | Skin Of Your Teeth | 11.00% | ~22 |
+| Pork Chop Express | 11.00% | ~22 |
 | Carrocketeer | 11.00% | ~22 |
 | Getting Started | 10.00% | ~20 |
-| Pork Chop Express | 10.00% | ~20 |
 | Eggtraordinary | 10.00% | ~20 |
 | Summers Here | 10.00% | ~15 |
 | Oh My Gourd | 9.00% | ~13 |

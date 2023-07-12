@@ -18,7 +18,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Insomniac | 13.00% | ~102,971 |
 | Buddy | 12.00% | ~95,050 |
 | Thief | 12.00% | ~95,050 |
-| Sinner | 11.00% | ~87,129 |
+| Sinner | 11.00% | ~87,130 |
 | Convict | 10.00% | ~79,209 |
 | Traveller | 10.00% | ~79,209 |
 | Haggler | 9.00% | ~71,288 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~792 |
 | Wingman | 0.10% | ~792 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 792,086 (Ranked 15)  
+Progressed: 792,087 (Ranked 15)  
 Completed: 44 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 44 (0.01%) (Ranked 223)
 | 2023-07-09 | 791,781 | 44 |
 | 2023-07-10 | 791,925 | 44 |
 | 2023-07-11 | 792,059 | 44 |
-| 2023-07-12 | 792,086 | 44 |
+| 2023-07-12 | 792,087 | 44 |
 ## Awards
 Max (Character Customization): 7,311  (Ranked 46)  
 Sum: 27,258 (Ranked 43)  

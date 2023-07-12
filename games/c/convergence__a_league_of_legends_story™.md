@@ -12,6 +12,7 @@
 | The Loose Cannon | 14.00% | ~105 |
 | Make Up For Lost Time | 14.00% | ~105 |
 | Cartographer | 14.00% | ~105 |
+| Time Flies | 14.00% | ~105 |
 | Breaking Down Barriers | 14.00% | ~105 |
 | The Wicked Twins | 14.00% | ~105 |
 | The Prince in Heels | 14.00% | ~105 |
@@ -20,7 +21,6 @@
 | The Family Fortune | 14.00% | ~105 |
 | Treasure Trove | 13.00% | ~98 |
 | The Betrayer | 13.00% | ~98 |
-| Time Flies | 13.00% | ~98 |
 | The Harder They Fall | 13.00% | ~98 |
 | No, Thanks! | 13.00% | ~98 |
 | Golem Chaser | 13.00% | ~98 |

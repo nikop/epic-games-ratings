@@ -5,8 +5,8 @@ Rating: 4.49 (Ranked 576)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~20,786 |
-| Advancement | 73.00% | ~17,644 |
+| Stylish | 86.00% | ~20,787 |
+| Advancement | 73.00% | ~17,645 |
 | Meticulously Efficient | 64.00% | ~15,469 |
 | Discovery | 61.00% | ~14,744 |
 | Fully Upgraded | 54.00% | ~13,052 |
@@ -15,12 +15,12 @@ Rating: 4.49 (Ranked 576)
 | Cultured | 51.00% | ~12,327 |
 | Vaporous Expansion | 48.00% | ~11,602 |
 | Teamwork | 44.00% | ~10,635 |
-| There you are! | 43.00% | ~10,393 |
+| There you are! | 43.00% | ~10,394 |
 | Clutch Capture | 41.00% | ~9,910 |
 | Back Off | 35.00% | ~8,460 |
-| Daily Dose | 34.00% | ~8,218 |
-| Solo Capture | 32.00% | ~7,734 |
-| Welcome to the Crew | 32.00% | ~7,734 |
+| Daily Dose | 35.00% | ~8,460 |
+| Solo Capture | 32.00% | ~7,735 |
+| Welcome to the Crew | 32.00% | ~7,735 |
 | Ghostbuster In Training | 30.00% | ~7,251 |
 | Icing on the Cake | 30.00% | ~7,251 |
 | We have the best insurance | 27.00% | ~6,526 |
@@ -41,7 +41,7 @@ Rating: 4.49 (Ranked 576)
 | Diabolical | 16.00% | ~3,867 |
 | Escape Artist | 16.00% | ~3,867 |
 | Seasoned | 16.00% | ~3,867 |
-| Whoopsie | 12.00% | ~2,900 |
+| Whoopsie | 12.00% | ~2,901 |
 | Liability | 10.00% | ~2,417 |
 | Rivalry | 10.00% | ~2,417 |
 | Fragile Panes | 9.00% | ~2,175 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 576)
 | Mycophile | 1.00% | ~242 |
 | I don't need these | 0.90% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,170 (Ranked 97)  
+Progressed: 24,171 (Ranked 97)  
 Completed: 46 (0.19%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 46 (0.19%) (Ranked 164)
 | 2023-07-09 | 24,117 | 46 |
 | 2023-07-10 | 24,140 | 46 |
 | 2023-07-11 | 24,165 | 46 |
-| 2023-07-12 | 24,170 | 46 |
+| 2023-07-12 | 24,171 | 46 |
 ## Awards
 Max (Great for Quick Sessions): 243  (Ranked 249)  
 Sum: 2,158 (Ranked 189)  

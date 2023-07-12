@@ -12,7 +12,7 @@
 | Demolition expert | 35.00% | ~33 |
 | Wooooooow! | 34.00% | ~32 |
 | Artistic fool | 33.00% | ~31 |
-| Chapter II | 30.00% | ~28 |
+| Chapter II | 31.00% | ~29 |
 | Let the boot talk | 29.00% | ~27 |
 | Open up wide | 29.00% | ~27 |
 | Achoo!! | 29.00% | ~27 |
@@ -42,7 +42,7 @@
 | The hands of a healer | 5.00% | ~5 |
 | Shut up clown! | 5.00% | ~5 |
 | Fartjokes! | 4.00% | ~4 |
-| Life is but a dream | 3.00% | ~3 |
+| Life is but a dream | 4.00% | ~4 |
 | Checkmate in 8 moves | 3.00% | ~3 |
 | Summit attempt | 2.00% | ~2 |
 | Fine Listener | 2.00% | ~2 |

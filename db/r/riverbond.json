@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 521931,
+  "EOS_Progressed": 521932,
   "EOS_Completed": 442,
-  "EOS_NewPlayers": 606,
+  "EOS_NewPlayers": 604,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -8990,6 +8990,11 @@
       "Time": "2023-07-12T04:03:09.0454195+00:00",
       "NumProgressed": 521931,
       "NumCompleted": 442
+    },
+    {
+      "Time": "2023-07-12T05:02:30.5025965+00:00",
+      "NumProgressed": 521932,
+      "NumCompleted": 442
     }
   ],
   "TotalAchievements": 57,
@@ -9041,7 +9046,7 @@
       "Name": "Going on an Adventure",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 57412
+      "UsersEstimate": 57413
     },
     {
       "ID": "15",
@@ -9081,7 +9086,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 323597
+      "UsersEstimate": 323598
     },
     {
       "ID": "2",
@@ -9097,7 +9102,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 125263
+      "UsersEstimate": 125264
     },
     {
       "ID": "21",
@@ -9105,7 +9110,7 @@
       "Name": "Make Peace, Not War",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 57412
+      "UsersEstimate": 57413
     },
     {
       "ID": "22",
@@ -9329,7 +9334,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 323597
+      "UsersEstimate": 323598
     },
     {
       "ID": "48",
@@ -9377,7 +9382,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 240088
+      "UsersEstimate": 240089
     },
     {
       "ID": "53",
@@ -9456,15 +9461,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 521931,
+      "Progressed": 521932,
       "Completed": 442
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-07-12T04:03:09.045419+00:00",
+  "LastChanged_Achievements": "2023-07-12T05:02:30.502596+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:39.1461956+00:00",
-  "LastUpdate_Ratings": "2023-07-12T03:58:00.1567009+00:00",
-  "LastUpdate_Achievements": "2023-07-12T04:03:09.0455008+00:00"
+  "LastUpdate_Ratings": "2023-07-12T04:57:45.7006224+00:00",
+  "LastUpdate_Achievements": "2023-07-12T05:02:30.502718+00:00"
 }

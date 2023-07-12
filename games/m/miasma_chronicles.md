@@ -5,40 +5,40 @@ Rating: 4.39 (Ranked 703)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 93.00% | ~1,132 |
-| Ranidaphobia | 78.00% | ~949 |
-| Aspiring Editor | 75.00% | ~913 |
-| Gun for Hire | 70.00% | ~852 |
-| I am the law! | 64.00% | ~779 |
+| First Blood | 93.00% | ~1,133 |
+| Ranidaphobia | 78.00% | ~950 |
+| Aspiring Editor | 75.00% | ~914 |
+| Gun for Hire | 70.00% | ~853 |
+| I am the law! | 64.00% | ~780 |
 | Lumberjack | 52.00% | ~633 |
-| Croaked | 48.00% | ~584 |
+| Croaked | 48.00% | ~585 |
 | Limp Richard | 47.00% | ~572 |
 | Exorcist | 47.00% | ~572 |
 | From Darkness to Light | 47.00% | ~572 |
 | Editor Adept | 46.00% | ~560 |
-| Giant Killer | 44.00% | ~535 |
-| Firestarter | 42.00% | ~511 |
-| Sensei | 42.00% | ~511 |
-| The meaning of Kain | 40.00% | ~487 |
-| Technophobe | 38.00% | ~462 |
-| Recycler | 37.00% | ~450 |
+| Giant Killer | 44.00% | ~536 |
+| Firestarter | 42.00% | ~512 |
+| Sensei | 42.00% | ~512 |
+| The meaning of Kain | 39.00% | ~475 |
+| Technophobe | 38.00% | ~463 |
+| Recycler | 37.00% | ~451 |
 | Are you not entertained? | 33.00% | ~402 |
-| Ganglord | 32.00% | ~389 |
-| Jarhead | 32.00% | ~389 |
-| Infiltrator | 31.00% | ~377 |
+| Ganglord | 32.00% | ~390 |
+| Jarhead | 32.00% | ~390 |
+| Infiltrator | 31.00% | ~378 |
 | Pushing Daisy | 30.00% | ~365 |
-| Experienced | 29.00% | ~353 |
-| Hold The Line | 26.00% | ~316 |
+| Experienced | 28.00% | ~341 |
+| Hold The Line | 26.00% | ~317 |
 | Endgame | 25.00% | ~304 |
 | Savior | 25.00% | ~304 |
 | There Can Be Only One! | 24.00% | ~292 |
 | Chain Killer | 22.00% | ~268 |
-| The Watchers | 20.00% | ~243 |
+| The Watchers | 20.00% | ~244 |
 | Commando | 16.00% | ~195 |
 | Newtonian Knockout | 16.00% | ~195 |
 | Chaos Theory | 15.00% | ~183 |
 | Dr Jones | 15.00% | ~183 |
-| Ruthless | 14.00% | ~170 |
+| Ruthless | 14.00% | ~171 |
 | Silent but Violent | 12.00% | ~146 |
 | Side Order | 10.00% | ~122 |
 | Chain Reaction | 9.00% | ~110 |
@@ -57,7 +57,7 @@ Rating: 4.39 (Ranked 703)
 | Shadow Boxin' | 0.80% | ~10 |
 | Goaaaaal! | 0.70% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,217 (Ranked 179)  
+Progressed: 1,218 (Ranked 179)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,6 +107,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-08 | 1,211 | 0 |
 | 2023-07-09 | 1,216 | 0 |
 | 2023-07-10 | 1,217 | 0 |
+| 2023-07-12 | 1,218 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

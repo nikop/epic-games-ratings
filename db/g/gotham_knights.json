@@ -1988,9 +1988,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 66899,
+  "EOS_Progressed": 66902,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 437,
+  "EOS_NewPlayers": 436,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -9493,6 +9493,11 @@
       "Time": "2023-07-12T04:03:59.8644394+00:00",
       "NumProgressed": 66899,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-07-12T05:03:58.6555538+00:00",
+      "NumProgressed": 66902,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 61,
@@ -9984,20 +9989,20 @@
       "Name": "Bat Out of Hell",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     }
   ],
   "AchievementSets": [
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 66899,
+      "Progressed": 66902,
       "Completed": 102
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 37179,
+      "Progressed": 37182,
       "Completed": 2652
     }
   ],
@@ -10005,8 +10010,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-07-12T02:23:31.0366403+00:00",
-  "LastChanged_Achievements": "2023-07-12T04:03:59.8644389+00:00",
+  "LastChanged_Achievements": "2023-07-12T05:03:58.655553+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:06.0757808+00:00",
-  "LastUpdate_Ratings": "2023-07-12T04:00:39.8158154+00:00",
-  "LastUpdate_Achievements": "2023-07-12T04:03:59.8645193+00:00"
+  "LastUpdate_Ratings": "2023-07-12T05:00:49.0946492+00:00",
+  "LastUpdate_Achievements": "2023-07-12T05:03:58.6557655+00:00"
 }

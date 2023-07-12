@@ -21,10 +21,10 @@ Rating: 4.87 (Ranked 24)
 | Out in a puff of smoke | 0.80% | ~27 |
 | Perfect Parry | 0.80% | ~27 |
 | Uh, they were broken when I got here | 0.80% | ~27 |
+| Alright, that felt AWESOME! | 0.80% | ~27 |
 | Start with a bang! | 0.70% | ~24 |
 | Headliner | 0.70% | ~24 |
 | You must like calling me in, Chai | 0.70% | ~24 |
-| Alright, that felt AWESOME! | 0.70% | ~24 |
 | I have to read these things? | 0.60% | ~21 |
 | Feeling the beat! | 0.60% | ~21 |
 | I look cool. But I can look COOLER. | 0.60% | ~21 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | OK, I THINK I know what I'm doing now | 0.00% | ~0 |
 | Low budget finish | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,432 (Ranked 145)  
+Progressed: 3,433 (Ranked 145)  
 Completed: 5 (0.15%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,6 +159,7 @@ Completed: 5 (0.15%) (Ranked 172)
 | 2023-07-09 | 3,429 | 5 |
 | 2023-07-10 | 3,431 | 5 |
 | 2023-07-11 | 3,432 | 5 |
+| 2023-07-12 | 3,433 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

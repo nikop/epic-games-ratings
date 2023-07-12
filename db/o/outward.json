@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -496,9 +496,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3036,
+  "EOS_Progressed": 3037,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3121,6 +3121,11 @@
       "Time": "2023-07-12T04:05:36.4267838+00:00",
       "NumProgressed": 3036,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-12T05:05:53.0700528+00:00",
+      "NumProgressed": 3037,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 42,
@@ -3204,7 +3209,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "ForAllAurai_8",
@@ -3316,7 +3321,7 @@
       "Name": "Ready for Summer",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1548
+      "UsersEstimate": 1549
     },
     {
       "ID": "ReadyforWinter_42",
@@ -3324,7 +3329,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1943
+      "UsersEstimate": 1944
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -3332,7 +3337,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -3340,7 +3345,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -3356,7 +3361,7 @@
       "Name": "Tapped!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1124
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -3452,7 +3457,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2277
+      "UsersEstimate": 2278
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -3467,15 +3472,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3036,
+      "Progressed": 3037,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-07-11T02:15:21.6079736+00:00",
-  "LastChanged_Achievements": "2023-07-12T04:05:36.4267834+00:00",
+  "LastChanged_Achievements": "2023-07-12T05:05:53.0700524+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:22.0293515+00:00",
-  "LastUpdate_Ratings": "2023-07-12T03:58:33.4706139+00:00",
-  "LastUpdate_Achievements": "2023-07-12T04:05:36.4268223+00:00"
+  "LastUpdate_Ratings": "2023-07-12T04:58:24.8349958+00:00",
+  "LastUpdate_Achievements": "2023-07-12T05:05:53.0701114+00:00"
 }

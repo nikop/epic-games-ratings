@@ -4964,11 +4964,17 @@
       "Rating": 3.99,
       "NumberOfAwards": 26902,
       "NumberOfAwardsMax": 4654
+    },
+    {
+      "Time": "2023-07-12T04:59:03.0719707+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 26905,
+      "NumberOfAwardsMax": 4657
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 26902,
-  "NumberOfAwardsMax": 4654,
+  "NumberOfAwards": 26905,
+  "NumberOfAwardsMax": 4657,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -4987,7 +4993,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4654
+      "Count": 4657
     },
     {
       "Text": "This game has Easy Combat",
@@ -5020,7 +5026,7 @@
       "Count": 3704
     }
   ],
-  "EOS_Progressed": 132348,
+  "EOS_Progressed": 132349,
   "EOS_Completed": 117,
   "EOS_NewPlayers": 413,
   "EOS_NewCompleters": 3,
@@ -13345,6 +13351,11 @@
       "Time": "2023-07-12T04:02:08.2885226+00:00",
       "NumProgressed": 132348,
       "NumCompleted": 117
+    },
+    {
+      "Time": "2023-07-12T05:02:07.158361+00:00",
+      "NumProgressed": 132349,
+      "NumCompleted": 117
     }
   ],
   "TotalAchievements": 112,
@@ -13404,7 +13415,7 @@
       "Name": "Ascended",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 37057
+      "UsersEstimate": 37058
     },
     {
       "ID": "ascend02",
@@ -13484,7 +13495,7 @@
       "Name": "Vanity, Verily",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 34410
+      "UsersEstimate": 34411
     },
     {
       "ID": "boss01",
@@ -13492,7 +13503,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 58233
+      "UsersEstimate": 58234
     },
     {
       "ID": "boss02",
@@ -13524,7 +13535,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 128378
+      "UsersEstimate": 128379
     },
     {
       "ID": "chest02",
@@ -13588,7 +13599,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 119113
+      "UsersEstimate": 119114
     },
     {
       "ID": "commonres02",
@@ -13596,7 +13607,7 @@
       "Name": "Demand for Supplies",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 50292
+      "UsersEstimate": 50293
     },
     {
       "ID": "commonres03",
@@ -13620,7 +13631,7 @@
       "Name": "Disintermediation",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 99261
+      "UsersEstimate": 99262
     },
     {
       "ID": "craft02",
@@ -13708,7 +13719,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 80732
+      "UsersEstimate": 80733
     },
     {
       "ID": "energy02",
@@ -13820,7 +13831,7 @@
       "Name": "Gem Expert",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 37057
+      "UsersEstimate": 37058
     },
     {
       "ID": "gold01",
@@ -13828,7 +13839,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 113819
+      "UsersEstimate": 113820
     },
     {
       "ID": "gold02",
@@ -13836,7 +13847,7 @@
       "Name": "Pretty Penny",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 75438
+      "UsersEstimate": 75439
     },
     {
       "ID": "gold03",
@@ -13876,7 +13887,7 @@
       "Name": "Helping Hand",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 37057
+      "UsersEstimate": 37058
     },
     {
       "ID": "help02",
@@ -13980,7 +13991,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 55586
+      "UsersEstimate": 55587
     },
     {
       "ID": "loot02",
@@ -14012,7 +14023,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 60880
+      "UsersEstimate": 60881
     },
     {
       "ID": "master02",
@@ -14172,7 +14183,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 127054
+      "UsersEstimate": 127055
     },
     {
       "ID": "twinenchant01",
@@ -14228,7 +14239,7 @@
       "Name": "Arcane Industries",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 44998
+      "UsersEstimate": 44999
     },
     {
       "ID": "workers03",
@@ -14251,15 +14262,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 132348,
+      "Progressed": 132349,
       "Completed": 117
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-07-11T20:58:24.6852362+00:00",
-  "LastChanged_Achievements": "2023-07-12T04:02:08.2885219+00:00",
+  "LastChanged": "2023-07-12T04:59:03.0719705+00:00",
+  "LastChanged_Achievements": "2023-07-12T05:02:07.1583603+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:08.864137+00:00",
-  "LastUpdate_Ratings": "2023-07-12T03:59:07.1367053+00:00",
-  "LastUpdate_Achievements": "2023-07-12T04:02:08.2886889+00:00"
+  "LastUpdate_Ratings": "2023-07-12T04:59:03.0719714+00:00",
+  "LastUpdate_Achievements": "2023-07-12T05:02:07.1588183+00:00"
 }

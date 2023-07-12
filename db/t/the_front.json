@@ -4,7 +4,7 @@
   "ProductSlug": "the-front-3a8219",
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 321,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-08T03:21:44.1270183+00:00",
-  "LastUpdate_Ratings": "2023-07-12T03:59:36.1702158+00:00",
-  "LastUpdate_Achievements": "2023-07-12T04:03:54.7440201+00:00"
+  "LastUpdate_Ratings": "2023-07-12T04:59:36.072362+00:00",
+  "LastUpdate_Achievements": "2023-07-12T05:03:52.7304732+00:00"
 }
