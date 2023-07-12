@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -376,9 +376,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6960,
+  "EOS_Progressed": 6961,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -5491,6 +5491,11 @@
       "Time": "2023-07-12T10:04:16.6710213+00:00",
       "NumProgressed": 6960,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-07-12T14:05:01.7275455+00:00",
+      "NumProgressed": 6961,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 29,
@@ -5502,7 +5507,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5777
+      "UsersEstimate": 5778
     },
     {
       "ID": "ACH02",
@@ -5526,7 +5531,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2575
+      "UsersEstimate": 2576
     },
     {
       "ID": "ACH05",
@@ -5733,7 +5738,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6960,
+      "Progressed": 6961,
       "Completed": 40
     }
   ],
@@ -5741,8 +5746,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-07-10T19:58:18.918804+00:00",
-  "LastChanged_Achievements": "2023-07-12T13:21:56.9754777+00:00",
+  "LastChanged_Achievements": "2023-07-12T14:05:01.7275447+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:25.3422771+00:00",
-  "LastUpdate_Ratings": "2023-07-12T13:15:34.857582+00:00",
-  "LastUpdate_Achievements": "2023-07-12T13:21:56.9755313+00:00"
+  "LastUpdate_Ratings": "2023-07-12T13:58:32.5607235+00:00",
+  "LastUpdate_Achievements": "2023-07-12T14:05:01.7276026+00:00"
 }

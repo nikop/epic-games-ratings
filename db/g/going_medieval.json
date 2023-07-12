@@ -5290,9 +5290,9 @@
       "ID": "SURVIVE_FIRST_DAY",
       "SetID": "5349c2e",
       "Name": "The First Day",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 2996
+      "UsersEstimate": 3041
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -5386,8 +5386,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-07-10T09:00:28.1401302+00:00",
-  "LastChanged_Achievements": "2023-07-12T13:20:11.5280607+00:00",
+  "LastChanged_Achievements": "2023-07-12T14:02:42.482161+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:13.9493644+00:00",
-  "LastUpdate_Ratings": "2023-07-12T13:17:21.6106978+00:00",
-  "LastUpdate_Achievements": "2023-07-12T13:20:11.5281142+00:00"
+  "LastUpdate_Ratings": "2023-07-12T14:01:14.3046278+00:00",
+  "LastUpdate_Achievements": "2023-07-12T14:02:42.4822144+00:00"
 }

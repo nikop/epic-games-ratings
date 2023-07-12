@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 448,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -358,9 +358,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 1010,
+  "EOS_Progressed": 1011,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1588,6 +1588,11 @@
       "Time": "2023-07-11T18:06:01.4035988+00:00",
       "NumProgressed": 1010,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-12T14:08:01.1595383+00:00",
+      "NumProgressed": 1011,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1655,7 +1660,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1000
+      "UsersEstimate": 1001
     },
     {
       "ID": "EXPERT_1",
@@ -1725,9 +1730,9 @@
       "ID": "LOVE_GURU_1",
       "SetID": "bf13m8j",
       "Name": "Love Guru",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 91
     },
     {
       "ID": "NEANDERTHAL_1",
@@ -1791,7 +1796,7 @@
       "Name": "Protection racket",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "RELICTS",
@@ -1815,7 +1820,7 @@
       "Name": "Sacrifice",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "SAVANT_1",
@@ -1831,7 +1836,7 @@
       "Name": "Secret room",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "SHOG",
@@ -1886,15 +1891,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1010,
+      "Progressed": 1011,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-11T18:59:46.5771351+00:00",
-  "LastChanged_Achievements": "2023-07-12T13:23:54.7762785+00:00",
+  "LastChanged_Achievements": "2023-07-12T14:08:01.1595377+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:36.4768526+00:00",
-  "LastUpdate_Ratings": "2023-07-12T13:17:35.2026907+00:00",
-  "LastUpdate_Achievements": "2023-07-12T13:23:54.77634+00:00"
+  "LastUpdate_Ratings": "2023-07-12T14:01:34.9353901+00:00",
+  "LastUpdate_Achievements": "2023-07-12T14:08:01.1595719+00:00"
 }

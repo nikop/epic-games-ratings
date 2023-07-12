@@ -6,11 +6,11 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,570 |
-| The Mad Wizard | 11.00% | ~23,152 |
-| The Ring of Regeneration | 7.00% | ~14,733 |
-| Are Ya Chicken? | 7.00% | ~14,733 |
-| Were-verpowered | 6.00% | ~12,628 |
+| The Cursed Farmer | 15.00% | ~31,572 |
+| The Mad Wizard | 11.00% | ~23,153 |
+| The Ring of Regeneration | 7.00% | ~14,734 |
+| Are Ya Chicken? | 7.00% | ~14,734 |
+| Were-verpowered | 6.00% | ~12,629 |
 | Seeking Allies | 5.00% | ~10,524 |
 | Mad Cow Disease | 5.00% | ~10,524 |
 | Friendly Imps | 5.00% | ~10,524 |
@@ -24,17 +24,17 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 3.00% | ~6,314 |
 | The Contagious Curse | 3.00% | ~6,314 |
 | Escort to Waterdeep | 3.00% | ~6,314 |
-| Low Initiative | 2.00% | ~4,209 |
-| Building Trust | 2.00% | ~4,209 |
-| March of the Undead | 2.00% | ~4,209 |
-| No Time To Rest | 2.00% | ~4,209 |
-| The Dinner Party | 2.00% | ~4,209 |
-| Useless Allies | 2.00% | ~4,209 |
-| Running of the Saurs | 2.00% | ~4,209 |
-| Waterdeep Detours | 2.00% | ~4,209 |
-| Underdeep Cartography | 2.00% | ~4,209 |
-| Overdue Rendezvous | 2.00% | ~4,209 |
-| The Templar's Camp | 2.00% | ~4,209 |
+| Low Initiative | 2.00% | ~4,210 |
+| Building Trust | 2.00% | ~4,210 |
+| March of the Undead | 2.00% | ~4,210 |
+| No Time To Rest | 2.00% | ~4,210 |
+| The Dinner Party | 2.00% | ~4,210 |
+| Useless Allies | 2.00% | ~4,210 |
+| Running of the Saurs | 2.00% | ~4,210 |
+| Waterdeep Detours | 2.00% | ~4,210 |
+| Underdeep Cartography | 2.00% | ~4,210 |
+| Overdue Rendezvous | 2.00% | ~4,210 |
+| The Templar's Camp | 2.00% | ~4,210 |
 | Homecoming | 1.00% | ~2,105 |
 | The Lost Heir of Omu | 1.00% | ~2,105 |
 | Street War | 1.00% | ~2,105 |
@@ -85,7 +85,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lair of the Xanathar | 0.60% | ~1,263 |
 | Waterdeep Under Siege | 0.60% | ~1,263 |
 | Elturel Has Fallen | 0.60% | ~1,263 |
-| The Everlasting Rime | 0.60% | ~1,060 |
+| The Everlasting Rime | 0.60% | ~1,061 |
 | Expert Opinion | 0.60% | ~1,263 |
 | Lobsterfolk Assault | 0.50% | ~1,052 |
 | Home Field Advantage | 0.50% | ~1,052 |
@@ -174,22 +174,22 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Battle of High Hall Tower | 0.30% | ~530 |
 | Elturel's Last Stand | 0.30% | ~530 |
 | Overwhelming Force | 0.30% | ~631 |
-| The Castle of a Thousand Vecnas | 0.20% | ~353 |
-| The Sanctum of the Sword | 0.20% | ~353 |
-| Get Back In The Castle | 0.20% | ~353 |
-| Checkmate | 0.20% | ~353 |
-| Vecna Out! | 0.20% | ~353 |
-| Who Lurks Below? | 0.20% | ~353 |
-| Xanathaaaaaaar! | 0.20% | ~353 |
+| The Castle of a Thousand Vecnas | 0.20% | ~354 |
+| The Sanctum of the Sword | 0.20% | ~354 |
+| Get Back In The Castle | 0.20% | ~354 |
+| Checkmate | 0.20% | ~354 |
+| Vecna Out! | 0.20% | ~354 |
+| Who Lurks Below? | 0.20% | ~354 |
+| Xanathaaaaaaar! | 0.20% | ~354 |
 | Wagon Train | 0.20% | ~421 |
 | Taking Responsibility | 0.20% | ~421 |
-| No One Can Hear You Scream | 0.20% | ~353 |
+| No One Can Hear You Scream | 0.20% | ~354 |
 | No Good at All | 0.20% | ~421 |
 | Fall From Grace | 0.20% | ~421 |
 | Underground Railroad | 0.20% | ~421 |
 | The Soulmonger Calls | 0.20% | ~421 |
 | Relentless Misfortune | 0.20% | ~421 |
-| This Quest Stinks! | 0.20% | ~353 |
+| This Quest Stinks! | 0.20% | ~354 |
 | Form Ranks | 0.20% | ~421 |
 | They Who Smelt It | 0.20% | ~421 |
 | Distribute Your Weight | 0.20% | ~421 |
@@ -198,9 +198,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Intelligence Hunt | 0.20% | ~421 |
 | Visions of Strahd | 0.20% | ~421 |
 | Seeds of Corruption | 0.20% | ~421 |
-| The Strahd Squad | 0.20% | ~353 |
-| Home Not So Alone | 0.20% | ~353 |
-| Review by the Blackstaff | 0.20% | ~353 |
+| The Strahd Squad | 0.20% | ~354 |
+| Home Not So Alone | 0.20% | ~354 |
+| Review by the Blackstaff | 0.20% | ~354 |
 | Think Your Way Out Of It | 0.20% | ~421 |
 | Air's Getting Pretty Thin | 0.20% | ~421 |
 | The Killer Mists | 0.20% | ~421 |
@@ -226,51 +226,51 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vault of Pixies | 0.20% | ~421 |
 | Vault of Poison | 0.20% | ~421 |
 | On The Job Learning | 0.20% | ~421 |
-| Strike! | 0.20% | ~353 |
+| Strike! | 0.20% | ~354 |
 | Lost in the Goblin Halls | 0.20% | ~421 |
 | The Twilight Grove | 0.20% | ~421 |
 | Everything is Awful | 0.20% | ~421 |
-| Earthquake! | 0.20% | ~353 |
+| Earthquake! | 0.20% | ~354 |
 | All You Know Is Wrong | 0.20% | ~421 |
-| Shadow Stalkers | 0.20% | ~353 |
+| Shadow Stalkers | 0.20% | ~354 |
 | Twice More Into The Breach | 0.20% | ~421 |
 | Displaced Anger | 0.20% | ~421 |
-| Ettercap Swarm | 0.20% | ~353 |
+| Ettercap Swarm | 0.20% | ~354 |
 | Relay Race | 0.20% | ~421 |
-| An Illithid Ambush | 0.20% | ~353 |
-| Wait, What? | 0.20% | ~353 |
-| A Difficult Descent | 0.20% | ~353 |
-| The Devil Arrives | 0.20% | ~353 |
-| Dream Gauntlet | 0.20% | ~353 |
-| Zombie Dreams | 0.20% | ~353 |
-| The Path of Redcaps | 0.20% | ~353 |
-| The Path of Trials | 0.20% | ~353 |
-| Zapper Overload | 0.20% | ~353 |
-| Elder Rune Attack | 0.20% | ~353 |
-| Madcap Adventures Redux | 0.20% | ~353 |
-| Raggadragga's Crew | 0.20% | ~353 |
-| Extreme Heat | 0.20% | ~353 |
-| Into the Unknown | 0.20% | ~353 |
-| The Prison of Velkynvelve | 0.20% | ~353 |
-| Giant-Size Adventure | 0.20% | ~353 |
-| Enemy Summit | 0.20% | ~353 |
-| Mirage Arcane | 0.20% | ~353 |
-| An Awakened Axe | 0.20% | ~353 |
-| Trench Coat Run | 0.20% | ~353 |
-| The Archduke's Blessing | 0.20% | ~353 |
-| Relentless Peril | 0.20% | ~353 |
-| The Madness of Yeenoghu | 0.20% | ~353 |
-| Reya Reborn | 0.20% | ~353 |
-| Lost in the Underdark | 0.20% | ~353 |
-| Leemooggoogoon Rises | 0.20% | ~353 |
-| Ending the Rime - Part 1 | 0.20% | ~353 |
-| Ending the Rime - Part 2 | 0.20% | ~353 |
-| Reghed Glacier Mysteries | 0.20% | ~353 |
-| Tekeli-li's Hunt | 0.20% | ~353 |
-| Neutral No More | 0.20% | ~353 |
-| Encroaching Madness | 0.20% | ~353 |
-| The Rite of the Arcane Octad | 0.20% | ~353 |
-| The Netherese Necropolis | 0.20% | ~353 |
+| An Illithid Ambush | 0.20% | ~354 |
+| Wait, What? | 0.20% | ~354 |
+| A Difficult Descent | 0.20% | ~354 |
+| The Devil Arrives | 0.20% | ~354 |
+| Dream Gauntlet | 0.20% | ~354 |
+| Zombie Dreams | 0.20% | ~354 |
+| The Path of Redcaps | 0.20% | ~354 |
+| The Path of Trials | 0.20% | ~354 |
+| Zapper Overload | 0.20% | ~354 |
+| Elder Rune Attack | 0.20% | ~354 |
+| Madcap Adventures Redux | 0.20% | ~354 |
+| Raggadragga's Crew | 0.20% | ~354 |
+| Extreme Heat | 0.20% | ~354 |
+| Into the Unknown | 0.20% | ~354 |
+| The Prison of Velkynvelve | 0.20% | ~354 |
+| Giant-Size Adventure | 0.20% | ~354 |
+| Enemy Summit | 0.20% | ~354 |
+| Mirage Arcane | 0.20% | ~354 |
+| An Awakened Axe | 0.20% | ~354 |
+| Trench Coat Run | 0.20% | ~354 |
+| The Archduke's Blessing | 0.20% | ~354 |
+| Relentless Peril | 0.20% | ~354 |
+| The Madness of Yeenoghu | 0.20% | ~354 |
+| Reya Reborn | 0.20% | ~354 |
+| Lost in the Underdark | 0.20% | ~354 |
+| Leemooggoogoon Rises | 0.20% | ~354 |
+| Ending the Rime - Part 1 | 0.20% | ~354 |
+| Ending the Rime - Part 2 | 0.20% | ~354 |
+| Reghed Glacier Mysteries | 0.20% | ~354 |
+| Tekeli-li's Hunt | 0.20% | ~354 |
+| Neutral No More | 0.20% | ~354 |
+| Encroaching Madness | 0.20% | ~354 |
+| The Rite of the Arcane Octad | 0.20% | ~354 |
+| The Netherese Necropolis | 0.20% | ~354 |
 | Frail Doesn't Mean Broken | 0.10% | ~177 |
 | Clumsy Doesn't Mean Inept | 0.10% | ~177 |
 | Unreasonable Doesn't Mean Stupid | 0.10% | ~177 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,470 (Ranked 52)  
+Progressed: 210,480 (Ranked 52)  
 Completed: 2,046 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -593,7 +593,7 @@ Completed: 2,046 (0.97%) (Ranked 102)
 | 2023-07-09 | 209,384 | 2,043 |
 | 2023-07-10 | 209,861 | 2,045 |
 | 2023-07-11 | 210,283 | 2,046 |
-| 2023-07-12 | 210,470 | 2,046 |
+| 2023-07-12 | 210,480 | 2,046 |
 ## Awards
 Max (Diverse Characters): 5,025  (Ranked 66)  
 Sum: 30,487 (Ranked 38)  

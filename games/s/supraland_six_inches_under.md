@@ -24,8 +24,8 @@ Number of Ratings: 209  (23.09.2022)
 | Magnet Repel | 88.00% | ~1,894 |
 | You feel middle classy | 87.00% | ~1,872 |
 | Boomeraxe | 87.00% | ~1,872 |
+| Iron Pickaxe | 87.00% | ~1,872 |
 | Banking District | 86.00% | ~1,851 |
-| Iron Pickaxe | 86.00% | ~1,851 |
 | Arrested | 85.00% | ~1,829 |
 | Zappy Gun | 85.00% | ~1,829 |
 | Got your own one now | 85.00% | ~1,829 |
@@ -39,9 +39,9 @@ Number of Ratings: 209  (23.09.2022)
 | Translocator | 80.00% | ~1,722 |
 | Inner Peace | 77.00% | ~1,657 |
 | Diamond Pickaxe | 77.00% | ~1,657 |
-| Killed them all | 76.00% | ~1,636 |
+| Killed them all | 77.00% | ~1,657 |
 | Trickle Down Economy | 76.00% | ~1,636 |
-| Win | 75.00% | ~1,614 |
+| Win | 76.00% | ~1,636 |
 | Greenhouse | 72.00% | ~1,549 |
 | Played with fire | 70.00% | ~1,506 |
 | You feel very sorry | 69.00% | ~1,485 |

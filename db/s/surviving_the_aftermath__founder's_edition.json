@@ -8375,9 +8375,9 @@
       "ID": "7",
       "SetID": "8idi9ml",
       "Name": "Survivor",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2264
+      "UsersEstimate": 2337
     },
     {
       "ID": "8",
@@ -8407,8 +8407,8 @@
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-07-10T18:59:49.6451369+00:00",
-  "LastChanged_Achievements": "2023-07-12T13:22:20.360383+00:00",
+  "LastChanged_Achievements": "2023-07-12T14:05:34.0261776+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:19.4551876+00:00",
-  "LastUpdate_Ratings": "2023-07-12T13:17:23.6314534+00:00",
-  "LastUpdate_Achievements": "2023-07-12T13:22:20.3605093+00:00"
+  "LastUpdate_Ratings": "2023-07-12T14:01:17.5579001+00:00",
+  "LastUpdate_Achievements": "2023-07-12T14:05:34.0262891+00:00"
 }

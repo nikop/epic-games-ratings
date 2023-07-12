@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 31,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -6645,9 +6645,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 45344,
+  "EOS_Progressed": 45345,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 322,
+  "EOS_NewPlayers": 319,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13815,6 +13815,11 @@
       "Time": "2023-07-12T13:20:12.238796+00:00",
       "NumProgressed": 45344,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-12T14:02:43.3758028+00:00",
+      "NumProgressed": 45345,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 43,
@@ -13906,7 +13911,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 29020
+      "UsersEstimate": 29021
     },
     {
       "ID": "CutTree",
@@ -13978,7 +13983,7 @@
       "Name": "Own use",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 34461
+      "UsersEstimate": 34462
     },
     {
       "ID": "HorseJumps",
@@ -14010,7 +14015,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 21765
+      "UsersEstimate": 21766
     },
     {
       "ID": "Mission",
@@ -14034,7 +14039,7 @@
       "Name": "Hard work pays off",
       "Percentage": 53,
       "XP": 55,
-      "UsersEstimate": 24032
+      "UsersEstimate": 24033
     },
     {
       "ID": "NumBeehives",
@@ -14058,7 +14063,7 @@
       "Name": "All out of Land",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 19951
+      "UsersEstimate": 19952
     },
     {
       "ID": "NumProductionPoints",
@@ -14090,7 +14095,7 @@
       "Name": "Ultimutt Pawesomeness",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 12696
+      "UsersEstimate": 12697
     },
     {
       "ID": "PlayTime",
@@ -14146,7 +14151,7 @@
       "Name": "Van Gogh",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 11789
+      "UsersEstimate": 11790
     },
     {
       "ID": "VehicleRepair",
@@ -14169,15 +14174,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 45344,
+      "Progressed": 45345,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-07-12T11:59:46.4008508+00:00",
-  "LastChanged_Achievements": "2023-07-12T13:20:12.2387956+00:00",
+  "LastChanged_Achievements": "2023-07-12T14:02:43.3758021+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:57.7938394+00:00",
-  "LastUpdate_Ratings": "2023-07-12T13:17:09.5455763+00:00",
-  "LastUpdate_Achievements": "2023-07-12T13:20:12.2389239+00:00"
+  "LastUpdate_Ratings": "2023-07-12T14:00:57.7558605+00:00",
+  "LastUpdate_Achievements": "2023-07-12T14:02:43.3758786+00:00"
 }
