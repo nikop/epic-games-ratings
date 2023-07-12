@@ -134,7 +134,7 @@
 | 119 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.76 | 345 | 223 |
 | 133 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 25 | 474 |
 | 133 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 5,451 | 62 |
-| 133 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 891 | 148 |
+| 133 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 893 | 148 |
 | 133 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 529 | 187 |
 | 133 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.75 | 0 | 505 |
 | 133 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 114 | 316 |
@@ -360,7 +360,7 @@
 | 347 | [NORCO](games/n/norco.md) | 4.62 | 0 | 505 |
 | 347 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 505 |
 | 347 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 104 | 325 |
-| 347 | [Prey](games/p/prey.md) | 4.62 | 5,602 | 59 |
+| 347 | [Prey](games/p/prey.md) | 4.62 | 5,604 | 59 |
 | 347 | [Roguebook](games/r/roguebook.md) | 4.62 | 0 | 505 |
 | 347 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.62 | 65 | 380 |
 | 364 | [20XX](games/2/20xx.md) | 4.61 | 36 | 431 |
@@ -423,7 +423,7 @@
 | 414 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 213 | 262 |
 | 414 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.59 | 85 | 349 |
 | 423 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.58 | 0 | 505 |
-| 423 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 58,874 | 11 |
+| 423 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 58,906 | 11 |
 | 423 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 161 | 288 |
 | 423 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 505 |
 | 423 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 8,338 | 40 |
@@ -462,7 +462,7 @@
 | 458 | [Aztez](games/a/aztez.md) | 4.56 | 0 | 505 |
 | 458 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 50 | 398 |
 | 458 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.56 | 0 | 505 |
-| 458 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 800 | 151 |
+| 458 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 802 | 151 |
 | 458 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 35 | 434 |
 | 458 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 0 | 505 |
 | 458 | [Hue](games/h/hue.md) | 4.56 | 0 | 505 |
@@ -491,7 +491,7 @@
 | 479 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 310 | 230 |
 | 479 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,205 | 131 |
 | 491 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 0 | 505 |
-| 491 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,319 | 127 |
+| 491 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,320 | 127 |
 | 491 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 5,146 | 63 |
 | 491 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 442 |
 | 491 | [Far Cry](games/f/far_cry.md) | 4.54 | 0 | 505 |
@@ -925,7 +925,7 @@
 | 923 | [Ironcast](games/i/ironcast.md) | 3.94 | 0 | 505 |
 | 923 | [Patron](games/p/patron.md) | 3.94 | 0 | 505 |
 | 925 | [Conarium](games/c/conarium.md) | 3.93 | 0 | 505 |
-| 925 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 359 | 220 |
+| 925 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 361 | 219 |
 | 925 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 3.93 | 0 | 505 |
 | 928 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 29 | 459 |
 | 929 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 23 | 481 |

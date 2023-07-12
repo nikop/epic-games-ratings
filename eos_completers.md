@@ -11,7 +11,7 @@
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
 | 11 | [Island Cities](games/i/island_cities.md) | 18.25% |
-| 12 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 18.18% |
+| 12 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 16.67% |
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
 | 14 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 14.04% |
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
