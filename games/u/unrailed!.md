@@ -6,19 +6,19 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 15.00% | ~92,742 |
-| Incurious | 15.00% | ~92,742 |
-| Climate Change | 14.00% | ~86,559 |
-| Stroller | 13.00% | ~80,376 |
-| Advanced Hiker | 11.00% | ~68,010 |
-| Toy Train | 11.00% | ~68,010 |
-| Hiker | 10.00% | ~61,828 |
-| Mojave Courier | 5.00% | ~30,914 |
-| Voyager | 3.00% | ~18,548 |
-| Advanced Voyager | 3.00% | ~18,548 |
-| Expert Stroller | 3.00% | ~18,548 |
-| Orient Express | 3.00% | ~18,548 |
-| Saved by Nausicaä | 3.00% | ~18,548 |
+| Advanced Stroller | 15.00% | ~92,745 |
+| Incurious | 15.00% | ~92,745 |
+| Climate Change | 14.00% | ~86,562 |
+| Stroller | 13.00% | ~80,379 |
+| Advanced Hiker | 11.00% | ~68,013 |
+| Toy Train | 11.00% | ~68,013 |
+| Hiker | 10.00% | ~61,830 |
+| Mojave Courier | 5.00% | ~30,915 |
+| Voyager | 3.00% | ~18,549 |
+| Advanced Voyager | 3.00% | ~18,549 |
+| Expert Stroller | 3.00% | ~18,549 |
+| Orient Express | 3.00% | ~18,549 |
+| Saved by Nausicaä | 3.00% | ~18,549 |
 | Expert Hiker | 2.00% | ~12,366 |
 | Marathon | 2.00% | ~12,366 |
 | Destructionist | 2.00% | ~12,366 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~618 |
 | 20 Miles under the Sea | 0.10% | ~618 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 618,277 (Ranked 24)  
+Progressed: 618,298 (Ranked 24)  
 Completed: 7 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 7 (0.00%) (Ranked 237)
 | 2023-07-09 | 617,076 | 7 |
 | 2023-07-10 | 617,545 | 7 |
 | 2023-07-11 | 617,926 | 7 |
-| 2023-07-12 | 618,277 | 7 |
+| 2023-07-12 | 618,298 | 7 |
 ## Awards
 Max (Diverse Characters): 190  (Ranked 273)  
 Sum: 1,535 (Ranked 215)  

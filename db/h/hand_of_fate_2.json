@@ -3,12 +3,12 @@
   "Name": "Hand of Fate 2",
   "ProductSlug": "hand-of-fate-2",
   "Ranking_Rating": 458,
-  "Ranking_Popularity": 434,
+  "Ranking_Popularity": 435,
   "Ranking_PopularitySum": 373,
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -862,9 +862,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 659208,
+  "EOS_Progressed": 659210,
   "EOS_Completed": 165,
-  "EOS_NewPlayers": 324,
+  "EOS_NewPlayers": 323,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8672,6 +8672,11 @@
       "Time": "2023-07-12T20:03:27.3075786+00:00",
       "NumProgressed": 659208,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-07-12T21:03:32.798436+00:00",
+      "NumProgressed": 659210,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -8683,7 +8688,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 474630
+      "UsersEstimate": 474631
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -8691,7 +8696,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 382341
+      "UsersEstimate": 382342
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -8707,7 +8712,7 @@
       "Name": "Adventurer",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39552
+      "UsersEstimate": 39553
     },
     {
       "ID": "Achievement_05_Protector_of_the_Realm",
@@ -8835,7 +8840,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 112065
+      "UsersEstimate": 112066
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -8843,7 +8848,7 @@
       "Name": "Empire\u0027s Bane",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39552
+      "UsersEstimate": 39553
     },
     {
       "ID": "Achievement_22_Cure_for_Corruption",
@@ -9066,15 +9071,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 659208,
+      "Progressed": 659210,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-07-06T22:58:14.2890682+00:00",
-  "LastChanged_Achievements": "2023-07-12T20:03:27.3075779+00:00",
+  "LastChanged_Achievements": "2023-07-12T21:03:32.7984354+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:04.5984191+00:00",
-  "LastUpdate_Ratings": "2023-07-12T19:58:34.1926645+00:00",
-  "LastUpdate_Achievements": "2023-07-12T20:03:27.3076728+00:00"
+  "LastUpdate_Ratings": "2023-07-12T20:58:03.1455188+00:00",
+  "LastUpdate_Achievements": "2023-07-12T21:03:32.7985178+00:00"
 }

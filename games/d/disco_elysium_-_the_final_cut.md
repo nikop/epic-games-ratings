@@ -6,7 +6,7 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~34,455 |
+| Goodest Of The Good Cops | 28.00% | ~34,456 |
 | Biggest Communism Builder | 24.00% | ~29,533 |
 | The World's Most Laughable Centrist | 20.00% | ~24,611 |
 | Il Coppo Del'Arte! | 18.00% | ~22,150 |
@@ -30,7 +30,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Wheel of Pleasure and Light | 2.00% | ~2,461 |
 | Massive Torque Dork | 1.00% | ~1,231 |
 | Avowed Inframaterialist | 1.00% | ~1,231 |
-| Real Musor | 0.90% | ~1,107 |
+| Real Musor | 0.90% | ~1,108 |
 | Baddest Brow in Town | 0.80% | ~984 |
 | Committee of la Responsabilité | 0.80% | ~984 |
 | Venture into the HARDCORE | 0.80% | ~984 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~123 |
 | What body? | 0.10% | ~123 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 123,054 (Ranked 61)  
+Progressed: 123,056 (Ranked 61)  
 Completed: 27 (0.02%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 27 (0.02%) (Ranked 214)
 | 2023-07-09 | 122,926 | 27 |
 | 2023-07-10 | 122,971 | 27 |
 | 2023-07-11 | 123,012 | 27 |
-| 2023-07-12 | 123,054 | 27 |
+| 2023-07-12 | 123,056 | 27 |
 ## Awards
 Max (Character Customization): 702  (Ranked 162)  
 Sum: 1,063 (Ranked 233)  

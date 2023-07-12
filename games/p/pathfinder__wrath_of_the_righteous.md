@@ -6,12 +6,12 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 20.00% | ~2,055 |
+| Devoured by Darkness | 20.00% | ~2,056 |
 | Burning City | 14.00% | ~1,439 |
 | A Spark | 14.00% | ~1,439 |
 | Defender's Heart | 12.00% | ~1,233 |
-| Banner over the Citadel | 11.00% | ~1,130 |
-| Mythic Choices | 11.00% | ~1,130 |
+| Banner over the Citadel | 11.00% | ~1,131 |
+| Mythic Choices | 11.00% | ~1,131 |
 | Queen's Gratitude | 9.00% | ~925 |
 | Fifth Crusade | 6.00% | ~617 |
 | Embrace of the Abyss | 5.00% | ~514 |
@@ -46,8 +46,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Aeon | 1.00% | ~103 |
 | Abyssal Conspiracy | 1.00% | ~103 |
 | This Wall Won't Fall | 1.00% | ~91 |
-| The Final Threshold | 0.90% | ~92 |
-| Strategic Victory | 0.90% | ~92 |
+| The Final Threshold | 0.90% | ~93 |
+| Strategic Victory | 0.90% | ~93 |
 | Not the Last Sarkorian | 0.90% | ~82 |
 | End of Eternal Guard | 0.80% | ~82 |
 | Path of the Dragon | 0.70% | ~72 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,277 (Ranked 116)  
+Progressed: 10,278 (Ranked 116)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,14 +206,14 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-09 | 10,246 | 0 |
 | 2023-07-10 | 10,256 | 0 |
 | 2023-07-11 | 10,271 | 0 |
-| 2023-07-12 | 10,277 | 0 |
+| 2023-07-12 | 10,278 | 0 |
 ## Awards
-Max (Character Customization): 1,676  (Ranked 117)  
-Sum: 6,809 (Ranked 112)  
+Max (Character Customization): 1,677  (Ranked 117)  
+Sum: 6,810 (Ranked 112)  
 Diff (max vs sum): 5  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 1,676 |
+| This game has Inclusive Character Customization | 1,677 |
 | This game is Extremely Fun | 642 |
 | This game is Highly Recommended | 623 |
 | This game has Amazing Characters | 621 |
@@ -390,4 +390,4 @@ Diff (max vs sum): 5
 | 2023-07-08 | 4.76 | - | 1,674 | 6,800 |
 | 2023-07-10 | 4.76 | - | 1,676 | 6,805 |
 | 2023-07-11 | 4.76 | - | 1,676 | 6,808 |
-| 2023-07-12 | 4.76 | - | 1,676 | 6,809 |
+| 2023-07-12 | 4.76 | - | 1,677 | 6,810 |

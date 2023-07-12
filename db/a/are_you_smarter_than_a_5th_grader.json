@@ -4,8 +4,8 @@
   "ProductSlug": "are-you-smarter-than-a-5th-grader-bc328a",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-08-23T13:00:00+00:00",
     "PcReleaseDate": "2022-08-23T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 307,
+  "EOS_Progressed": 308,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -227,6 +227,11 @@
       "Time": "2023-07-11T17:01:42.8917048+00:00",
       "NumProgressed": 307,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-12T21:03:20.4915398+00:00",
+      "NumProgressed": 308,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 19,
@@ -244,7 +249,7 @@
       "ID": "AStudent",
       "SetID": "6l18k14",
       "Name": "\u0022A\u0022 Student",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -252,9 +257,9 @@
       "ID": "Byoing",
       "SetID": "6l18k14",
       "Name": "Byoing",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 25
     },
     {
       "ID": "ExamPractice",
@@ -270,7 +275,7 @@
       "Name": "Exam Time",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "FifthGrade",
@@ -358,7 +363,7 @@
       "Name": "Smarter than a 5th Grader",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "StudySession",
@@ -380,16 +385,16 @@
       "ID": "Unlucky",
       "SetID": "6l18k14",
       "Name": "Unlucky",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 64
+      "UsersEstimate": 62
     }
   ],
   "AchievementSets": [
     {
       "ID": "6l18k14",
       "IsBase": true,
-      "Progressed": 307,
+      "Progressed": 308,
       "Completed": 0
     }
   ],
@@ -397,8 +402,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.561977+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.3990521+00:00",
   "LastChanged": "2023-03-31T05:58:18.5619771+00:00",
-  "LastChanged_Achievements": "2023-07-12T20:03:09.7402646+00:00",
+  "LastChanged_Achievements": "2023-07-12T21:03:20.491539+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:33.8112123+00:00",
-  "LastUpdate_Ratings": "2023-07-12T20:01:55.1051603+00:00",
-  "LastUpdate_Achievements": "2023-07-12T20:03:09.740297+00:00"
+  "LastUpdate_Ratings": "2023-07-12T21:00:20.7120732+00:00",
+  "LastUpdate_Achievements": "2023-07-12T21:03:20.4915547+00:00"
 }

@@ -1994,7 +1994,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 66924,
+  "EOS_Progressed": 66926,
   "EOS_Completed": 102,
   "EOS_NewPlayers": 430,
   "EOS_NewCompleters": 2,
@@ -9554,6 +9554,11 @@
       "Time": "2023-07-12T20:04:24.9644807+00:00",
       "NumProgressed": 66924,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-07-12T21:04:06.8514343+00:00",
+      "NumProgressed": 66926,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 61,
@@ -9645,7 +9650,7 @@
       "Name": "End of an Era",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "APPLY_STATUS",
@@ -9653,7 +9658,7 @@
       "Name": "In Your Element",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "CHALLENGES_1",
@@ -9661,7 +9666,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "CLAYFACE_1",
@@ -9685,7 +9690,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -9725,7 +9730,7 @@
       "Name": "Not On My Watch",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -9741,7 +9746,7 @@
       "Name": "Bulldozed",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -9773,7 +9778,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -9813,7 +9818,7 @@
       "Name": "Cooldown",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -9893,7 +9898,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -9909,7 +9914,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4015
+      "UsersEstimate": 4016
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -9997,7 +10002,7 @@
       "Name": "Voiceless",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "MYSTERY_07",
@@ -10005,7 +10010,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "MYSTERY_08",
@@ -10013,7 +10018,7 @@
       "Name": "Gotham Knight",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "SECRET_CACHE",
@@ -10021,7 +10026,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -10052,13 +10057,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 66924,
+      "Progressed": 66926,
       "Completed": 102
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 37204,
+      "Progressed": 37206,
       "Completed": 2652
     }
   ],
@@ -10066,8 +10071,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-07-12T17:00:21.8587637+00:00",
-  "LastChanged_Achievements": "2023-07-12T20:04:24.9644802+00:00",
+  "LastChanged_Achievements": "2023-07-12T21:04:06.8514333+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:06.0757808+00:00",
-  "LastUpdate_Ratings": "2023-07-12T20:01:26.0420141+00:00",
-  "LastUpdate_Achievements": "2023-07-12T20:04:24.9645697+00:00"
+  "LastUpdate_Ratings": "2023-07-12T21:00:03.2108443+00:00",
+  "LastUpdate_Achievements": "2023-07-12T21:04:06.8515344+00:00"
 }

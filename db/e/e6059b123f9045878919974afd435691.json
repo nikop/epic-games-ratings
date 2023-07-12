@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 549,
+  "EOS_Progressed": 550,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -976,6 +976,11 @@
       "Time": "2023-07-12T14:05:02.9259256+00:00",
       "NumProgressed": 549,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-12T21:04:44.7441572+00:00",
+      "NumProgressed": 550,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1011,7 +1016,7 @@
       "Name": "Out Of Stock",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ATKM_ACHIEVEMENT_1",
@@ -1035,7 +1040,7 @@
       "Name": "Goat Whisperer",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ATK_ACHIEVEMENT_3",
@@ -1059,7 +1064,7 @@
       "Name": "Capraphobia",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -1123,7 +1128,7 @@
       "Name": "He\u0027s Getting Crazier",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "BURN_ACHIEVEMENT_4",
@@ -1131,7 +1136,7 @@
       "Name": "Completing The Duty",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "BURN_ACHIEVEMENT_5",
@@ -1163,7 +1168,7 @@
       "Name": "The Way It Should Be",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "COOP_ACHIEVEMENT_2",
@@ -1185,9 +1190,9 @@
       "ID": "DUCHESS_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Greetings from Royalty",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 138
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -1195,7 +1200,7 @@
       "Name": "Think Bullets Will Affect Her?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "EXT_ACHIEVEMENT_1",
@@ -1291,7 +1296,7 @@
       "Name": "Call The Winchester",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "KILLR_ACHIEVEMENT_5",
@@ -1299,15 +1304,15 @@
       "Name": "Do This In Silence",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "And There We Go",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 148
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -1315,7 +1320,7 @@
       "Name": "End the Infestation",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_3",
@@ -1347,7 +1352,7 @@
       "Name": "Don\u0027t Turn Your Back",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -1355,7 +1360,7 @@
       "Name": "1, 2, 3! Grandma!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "MARY_ACHIEVEMENT_1",
@@ -1363,7 +1368,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -1395,7 +1400,7 @@
       "Name": "Ancestral Banquet",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "NOTEM_ACHIEVEMENT_1",
@@ -1419,7 +1424,7 @@
       "Name": "The Last of Us",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -1427,7 +1432,7 @@
       "Name": "Beep Beep Boop",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_1",
@@ -1467,7 +1472,7 @@
       "Name": "Let the Medical Exams Begin",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "SING_ACHIEVEMENT_1",
@@ -1507,21 +1512,21 @@
       "Name": "Do You Accept The Challenge?",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 549,
+      "Progressed": 550,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-12T20:05:18.9289244+00:00",
+  "LastChanged_Achievements": "2023-07-12T21:04:44.7441553+00:00",
   "LastUpdate_AppInfo": "2023-07-06T13:16:22.5768242+00:00",
-  "LastUpdate_Ratings": "2023-07-12T19:57:24.6036085+00:00",
-  "LastUpdate_Achievements": "2023-07-12T20:05:18.9290048+00:00"
+  "LastUpdate_Ratings": "2023-07-12T20:57:18.3567658+00:00",
+  "LastUpdate_Achievements": "2023-07-12T21:04:44.7442194+00:00"
 }

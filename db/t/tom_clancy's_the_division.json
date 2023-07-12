@@ -4,11 +4,11 @@
   "ProductSlug": "the-division",
   "Ranking_Rating": 413,
   "Ranking_Popularity": 233,
-  "Ranking_PopularitySum": 270,
+  "Ranking_PopularitySum": 269,
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 316,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2016-03-08T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1136,10 +1136,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 711,
       "NumberOfAwardsMax": 297
+    },
+    {
+      "Time": "2023-07-12T21:00:16.6263628+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 712,
+      "NumberOfAwardsMax": 297
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 711,
+  "NumberOfAwards": 712,
   "NumberOfAwardsMax": 297,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1183,7 +1189,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -1227,8 +1233,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:11.4605071+00:00",
-  "LastChanged": "2023-07-12T19:00:24.9565129+00:00",
+  "LastChanged": "2023-07-12T21:00:16.6263627+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:28.2440052+00:00",
-  "LastUpdate_Ratings": "2023-07-12T20:01:47.8666559+00:00",
-  "LastUpdate_Achievements": "2023-07-12T20:03:46.7973335+00:00"
+  "LastUpdate_Ratings": "2023-07-12T21:00:16.6263633+00:00",
+  "LastUpdate_Achievements": "2023-07-12T21:03:47.0996174+00:00"
 }

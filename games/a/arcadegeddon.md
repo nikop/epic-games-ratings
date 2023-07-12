@@ -1,22 +1,22 @@
 # Arcadegeddon
 [Store](https://store.epicgames.com/en-US/p/arcadegeddon)  
 [View Rawdata](../../db/a/arcadegeddon.json)  
-Rating: 4.49 (Ranked 576)  
+Rating: 4.49 (Ranked 575)  
 Number of Ratings: 801  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 92.00% | ~6,992 |
-| Photogenic | 88.00% | ~6,688 |
-| Surge Gauntlet Jockey | 86.00% | ~6,536 |
-| Plug It In | 85.00% | ~6,460 |
-| Adventure Time | 80.00% | ~6,080 |
-| Playing With Power | 78.00% | ~5,928 |
-| Coup d'Etat | 59.00% | ~4,484 |
-| You're Fired | 58.00% | ~4,408 |
-| Get Furious | 56.00% | ~4,256 |
-| Gunplay And Cosplay | 55.00% | ~4,180 |
-| Hacks In Stacks | 55.00% | ~4,180 |
+| Let's Get This Party Started | 92.00% | ~6,993 |
+| Photogenic | 88.00% | ~6,689 |
+| Surge Gauntlet Jockey | 86.00% | ~6,537 |
+| Plug It In | 85.00% | ~6,461 |
+| Adventure Time | 80.00% | ~6,081 |
+| Playing With Power | 78.00% | ~5,929 |
+| Coup d'Etat | 59.00% | ~4,485 |
+| You're Fired | 58.00% | ~4,409 |
+| Get Furious | 56.00% | ~4,257 |
+| Gunplay And Cosplay | 55.00% | ~4,181 |
+| Hacks In Stacks | 55.00% | ~4,181 |
 | Meching Enemies | 49.00% | ~3,724 |
 | Ticket Toddler | 45.00% | ~3,420 |
 | Booty Bashing | 43.00% | ~3,268 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~30 |
 | Pyrotechnical | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,600 (Ranked 121)  
+Progressed: 7,601 (Ranked 121)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-09 | 7,574 | 0 |
 | 2023-07-10 | 7,582 | 0 |
 | 2023-07-11 | 7,592 | 0 |
-| 2023-07-12 | 7,600 | 0 |
+| 2023-07-12 | 7,601 | 0 |
 ## Awards
 Max (Great for Beginners): 62  (Ranked 384)  
 Sum: 451 (Ranked 303)  

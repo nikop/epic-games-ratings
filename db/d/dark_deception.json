@@ -2,13 +2,13 @@
   "ID": "bddbb30a6c36455a9ca82c3a0f91af06",
   "Name": "Dark Deception",
   "ProductSlug": "dark-deception",
-  "Ranking_Rating": 540,
+  "Ranking_Rating": 598,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 316,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-10-30T00:00:00+00:00",
     "PcReleaseDate": "2018-09-27T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": ""
     }
   },
-  "Rating": 4.51,
+  "Rating": 4.47,
   "NumberOfRatings": 50,
   "RatingHistory": [
     {
@@ -272,6 +272,12 @@
       "Rating": 4.51,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-07-12T20:59:10.9676458+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -289,8 +295,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:45.5721818+00:00",
-  "LastChanged": "2023-06-04T09:58:58.670906+00:00",
+  "LastChanged": "2023-07-12T20:59:10.9676457+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:48.9905755+00:00",
-  "LastUpdate_Ratings": "2023-07-12T20:00:13.5319879+00:00",
-  "LastUpdate_Achievements": "2023-07-12T20:03:50.0240405+00:00"
+  "LastUpdate_Ratings": "2023-07-12T20:59:10.9676467+00:00",
+  "LastUpdate_Achievements": "2023-07-12T21:03:49.3169374+00:00"
 }

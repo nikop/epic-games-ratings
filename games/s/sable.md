@@ -6,45 +6,45 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~25,951 |
-| Just The Two of Us | 33.00% | ~25,188 |
-| Up On High | 25.00% | ~19,082 |
-| Under The Hood | 25.00% | ~19,082 |
-| Got Your Nose | 24.00% | ~18,318 |
-| The Gift of Gab | 24.00% | ~18,318 |
-| Wrapping Up | 22.00% | ~16,792 |
-| More Than A Box Of Sand | 18.00% | ~13,739 |
-| The Dunboyne | 17.00% | ~12,975 |
-| Badge Hobbyist | 17.00% | ~12,975 |
-| Chum Novice | 16.00% | ~12,212 |
-| Silver-Tongued Sable | 16.00% | ~12,212 |
-| Sticky Paws | 16.00% | ~12,212 |
-| Bubble Up | 16.00% | ~12,212 |
-| Thread The Needle | 15.00% | ~11,449 |
-| Power to the People | 14.00% | ~10,686 |
-| Take That! | 13.00% | ~9,922 |
-| Nesting Giant | 13.00% | ~9,922 |
-| Treasure Tracker | 13.00% | ~9,922 |
-| Big Spender | 13.00% | ~9,922 |
-| Badge Collector | 12.00% | ~9,159 |
-| Quite The Catch | 12.00% | ~9,159 |
-| Rowleys Way | 11.00% | ~8,396 |
+| Simoon | 34.00% | ~25,953 |
+| Just The Two of Us | 33.00% | ~25,190 |
+| Up On High | 25.00% | ~19,083 |
+| Under The Hood | 25.00% | ~19,083 |
+| Got Your Nose | 24.00% | ~18,320 |
+| The Gift of Gab | 24.00% | ~18,320 |
+| Wrapping Up | 22.00% | ~16,793 |
+| More Than A Box Of Sand | 18.00% | ~13,740 |
+| The Dunboyne | 17.00% | ~12,977 |
+| Badge Hobbyist | 17.00% | ~12,977 |
+| Chum Novice | 16.00% | ~12,213 |
+| Silver-Tongued Sable | 16.00% | ~12,213 |
+| Sticky Paws | 16.00% | ~12,213 |
+| Bubble Up | 16.00% | ~12,213 |
+| Thread The Needle | 15.00% | ~11,450 |
+| Power to the People | 14.00% | ~10,687 |
+| Take That! | 13.00% | ~9,923 |
+| Nesting Giant | 13.00% | ~9,923 |
+| Treasure Tracker | 13.00% | ~9,923 |
+| Big Spender | 13.00% | ~9,923 |
+| Badge Collector | 12.00% | ~9,160 |
+| Quite The Catch | 12.00% | ~9,160 |
+| Rowleys Way | 11.00% | ~8,397 |
 | The Machinist Mask | 10.00% | ~7,633 |
 | The Cartographer Mask | 10.00% | ~7,633 |
 | Balfron Connection | 10.00% | ~7,633 |
 | Ceiling Of Stars | 10.00% | ~7,633 |
 | Playing Dress Up | 10.00% | ~7,633 |
-| Many Different Faces | 9.00% | ~6,869 |
-| Trellick's Pillar | 9.00% | ~6,869 |
-| Centre Of Brunswick | 9.00% | ~6,869 |
-| Bike Collector | 9.00% | ~6,869 |
-| Not That Kind Of Gliding | 9.00% | ~6,869 |
-| The Scrapper Mask | 8.00% | ~6,106 |
-| Shadow Of Neave | 8.00% | ~6,106 |
-| Fragile Goods | 8.00% | ~6,106 |
-| Glider on the Storm | 8.00% | ~6,106 |
-| Squeeze One Out | 8.00% | ~6,106 |
-| Dune Rider | 8.00% | ~6,106 |
+| Many Different Faces | 9.00% | ~6,870 |
+| Trellick's Pillar | 9.00% | ~6,870 |
+| Centre Of Brunswick | 9.00% | ~6,870 |
+| Bike Collector | 9.00% | ~6,870 |
+| Not That Kind Of Gliding | 9.00% | ~6,870 |
+| The Scrapper Mask | 8.00% | ~6,107 |
+| Shadow Of Neave | 8.00% | ~6,107 |
+| Fragile Goods | 8.00% | ~6,107 |
+| Glider on the Storm | 8.00% | ~6,107 |
+| Squeeze One Out | 8.00% | ~6,107 |
+| Dune Rider | 8.00% | ~6,107 |
 | Amateur Historian | 7.00% | ~5,343 |
 | The Beetle Mask | 7.00% | ~5,343 |
 | The Guard Mask | 7.00% | ~5,343 |
@@ -54,7 +54,7 @@ Number of Ratings: 43  (23.09.2022)
 | Honorary Chum | 6.00% | ~4,580 |
 | A Hard Place | 6.00% | ~4,580 |
 | Bikes Don't Fly | 6.00% | ~4,580 |
-| The Entertainer Mask | 5.00% | ~3,816 |
+| The Entertainer Mask | 5.00% | ~3,817 |
 | The Gliding | 4.00% | ~3,053 |
 | The Quick and the Curious | 4.00% | ~3,053 |
 | Bike Aficionado | 4.00% | ~3,053 |
@@ -63,8 +63,8 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,290 |
 | Vivacious Vivarium | 2.00% | ~1,527 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,326 (Ranked 72)  
-Completed: 740 (0.97%) (Ranked 102)  
+Progressed: 76,333 (Ranked 72)  
+Completed: 741 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -146,7 +146,7 @@ Completed: 740 (0.97%) (Ranked 102)
 | 2023-07-09 | 75,745 | 733 |
 | 2023-07-10 | 75,961 | 735 |
 | 2023-07-11 | 76,160 | 736 |
-| 2023-07-12 | 76,326 | 740 |
+| 2023-07-12 | 76,333 | 741 |
 ## Awards
 Max (Quickly Understood Controls): 20  (Ranked 501)  
 Sum: 20 (Ranked 501)  

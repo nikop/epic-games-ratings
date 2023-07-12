@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3018,18 +3018,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 6809,
       "NumberOfAwardsMax": 1676
+    },
+    {
+      "Time": "2023-07-12T20:58:48.382973+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6810,
+      "NumberOfAwardsMax": 1677
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6809,
-  "NumberOfAwardsMax": 1676,
+  "NumberOfAwards": 6810,
+  "NumberOfAwardsMax": 1677,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1676
+      "Count": 1677
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3092,9 +3098,9 @@
       "Count": 381
     }
   ],
-  "EOS_Progressed": 10277,
+  "EOS_Progressed": 10278,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8242,6 +8248,11 @@
       "Time": "2023-07-12T20:04:42.4365031+00:00",
       "NumProgressed": 10277,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-12T21:04:18.9621742+00:00",
+      "NumProgressed": 10278,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -8253,7 +8264,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2055
+      "UsersEstimate": 2056
     },
     {
       "ID": "02_BurningCity",
@@ -8269,7 +8280,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1131
     },
     {
       "ID": "04_FithCrusade",
@@ -8301,7 +8312,7 @@
       "Name": "The Final Threshold",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "08_PathOfAngel",
@@ -8389,7 +8400,7 @@
       "Name": "Mythic Choices",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1131
     },
     {
       "ID": "19_EqualToAroden",
@@ -8469,7 +8480,7 @@
       "Name": "Strategic Victory",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "30_BattlefieldVictory",
@@ -9180,21 +9191,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9059,
+      "Progressed": 9060,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10277,
+      "Progressed": 10278,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-07-12T13:59:14.3295975+00:00",
-  "LastChanged_Achievements": "2023-07-12T20:04:42.4365026+00:00",
+  "LastChanged": "2023-07-12T20:58:48.3829729+00:00",
+  "LastChanged_Achievements": "2023-07-12T21:04:18.9621737+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:12.7052521+00:00",
-  "LastUpdate_Ratings": "2023-07-12T19:59:39.2654578+00:00",
-  "LastUpdate_Achievements": "2023-07-12T20:04:42.4367707+00:00"
+  "LastUpdate_Ratings": "2023-07-12T20:58:48.3829735+00:00",
+  "LastUpdate_Achievements": "2023-07-12T21:04:18.9623646+00:00"
 }

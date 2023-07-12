@@ -17,10 +17,10 @@ Number of Ratings: 87  (23.09.2022)
 | Builder | 6.00% | ~46 |
 | Close call! | 6.00% | ~46 |
 | Common cause | 6.00% | ~46 |
+| Critical care | 6.00% | ~46 |
 | Get out my way | 6.00% | ~46 |
 | Just in time! | 6.00% | ~46 |
 | Upgrade complete | 6.00% | ~46 |
-| Critical care | 5.00% | ~38 |
 | Need to think | 5.00% | ~38 |
 | Steam Age | 5.00% | ~38 |
 | Bridgemania | 4.00% | ~31 |

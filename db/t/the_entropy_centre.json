@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2022-11-03T16:00:00+00:00",
@@ -774,9 +774,9 @@
       "ID": "ACH_ACT3",
       "SetID": "2310cb1",
       "Name": "Command Centre",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 106
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_ACT4",
@@ -927,8 +927,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-07-12T20:08:06.7015804+00:00",
+  "LastChanged_Achievements": "2023-07-12T21:06:40.7327207+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:46.4096499+00:00",
-  "LastUpdate_Ratings": "2023-07-12T19:58:23.5237516+00:00",
-  "LastUpdate_Achievements": "2023-07-12T20:08:06.7016074+00:00"
+  "LastUpdate_Ratings": "2023-07-12T20:57:56.0657641+00:00",
+  "LastUpdate_Achievements": "2023-07-12T21:06:40.7327441+00:00"
 }

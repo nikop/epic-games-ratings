@@ -1,19 +1,19 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.49 (Ranked 576)  
+Rating: 4.49 (Ranked 575)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~20,802 |
-| Advancement | 73.00% | ~17,657 |
-| Meticulously Efficient | 64.00% | ~15,480 |
+| Stylish | 86.00% | ~20,803 |
+| Advancement | 73.00% | ~17,658 |
+| Meticulously Efficient | 64.00% | ~15,481 |
 | Discovery | 61.00% | ~14,755 |
 | Fully Upgraded | 54.00% | ~13,062 |
 | Swift Rift Removers | 54.00% | ~13,062 |
 | I collect Spores, Molds, and Fungi | 51.00% | ~12,336 |
 | Cultured | 51.00% | ~12,336 |
-| Vaporous Expansion | 48.00% | ~11,610 |
+| Vaporous Expansion | 48.00% | ~11,611 |
 | Teamwork | 44.00% | ~10,643 |
 | There you are! | 43.00% | ~10,401 |
 | Clutch Capture | 41.00% | ~9,917 |
@@ -21,8 +21,8 @@ Rating: 4.49 (Ranked 576)
 | Daily Dose | 35.00% | ~8,466 |
 | Solo Capture | 32.00% | ~7,740 |
 | Welcome to the Crew | 32.00% | ~7,740 |
-| Ghostbuster In Training | 30.00% | ~7,256 |
-| Icing on the Cake | 30.00% | ~7,256 |
+| Ghostbuster In Training | 30.00% | ~7,257 |
+| Icing on the Cake | 30.00% | ~7,257 |
 | We have the best insurance | 27.00% | ~6,531 |
 | Side Hustle | 27.00% | ~6,531 |
 | Summoner | 27.00% | ~6,531 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 576)
 | Mycophile | 1.00% | ~242 |
 | I don't need these | 0.90% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,188 (Ranked 97)  
+Progressed: 24,189 (Ranked 97)  
 Completed: 46 (0.19%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 46 (0.19%) (Ranked 164)
 | 2023-07-09 | 24,117 | 46 |
 | 2023-07-10 | 24,140 | 46 |
 | 2023-07-11 | 24,165 | 46 |
-| 2023-07-12 | 24,188 | 46 |
+| 2023-07-12 | 24,189 | 46 |
 ## Awards
 Max (Great for Quick Sessions): 243  (Ranked 249)  
 Sum: 2,158 (Ranked 189)  

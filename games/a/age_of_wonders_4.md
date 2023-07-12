@@ -44,8 +44,8 @@ Rating: 4.62 (Ranked 347)
 | Duality | 1.00% | ~50 |
 | Grexolis | 0.80% | ~40 |
 | One for All, All for One | 0.80% | ~40 |
+| Pruning for Progress | 0.70% | ~35 |
 | I've Got Everything I Need Right Here | 0.60% | ~30 |
-| Pruning for Progress | 0.60% | ~30 |
 | Manufactured War | 0.50% | ~25 |
 | Snap Out of It! | 0.30% | ~15 |
 | Betrayal Most Foul | 0.20% | ~10 |

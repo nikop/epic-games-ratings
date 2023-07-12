@@ -30,6 +30,7 @@
 | Ophiolatreia | 3.00% | ~97 |
 | Serpentine | 3.00% | ~97 |
 | Wayward Son of Hephaestus | 2.00% | ~65 |
+| Lament of the Constellations | 2.00% | ~65 |
 | Forged in Fire | 2.00% | ~65 |
 | Rock and a Hard Place | 2.00% | ~65 |
 | The Midas Touch | 2.00% | ~65 |
@@ -43,7 +44,6 @@
 | Mors Omnibus | 2.00% | ~65 |
 | Blot Out the Sky | 2.00% | ~65 |
 | The Nameless One | 1.00% | ~32 |
-| Lament of the Constellations | 1.00% | ~32 |
 | Rule of Thirds | 1.00% | ~32 |
 | Pyr Demon | 1.00% | ~32 |
 | Don't Pay the Ferryman | 1.00% | ~32 |

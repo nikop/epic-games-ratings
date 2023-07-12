@@ -940,7 +940,7 @@
   ],
   "EOS_Progressed": 15700,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -5899,9 +5899,9 @@
       "ID": "SPEND_20000",
       "SetID": "6j5ggkc",
       "Name": "Big Spender",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 11
     },
     {
       "ID": "DESTROY_FACTORY_CRATES",
@@ -5978,8 +5978,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-07-12T14:58:48.0487514+00:00",
-  "LastChanged_Achievements": "2023-07-12T20:07:17.1363803+00:00",
+  "LastChanged_Achievements": "2023-07-12T21:06:07.1913198+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:30.5014032+00:00",
-  "LastUpdate_Ratings": "2023-07-12T19:59:03.5232977+00:00",
-  "LastUpdate_Achievements": "2023-07-12T20:07:17.1364581+00:00"
+  "LastUpdate_Ratings": "2023-07-12T20:58:24.9722413+00:00",
+  "LastUpdate_Achievements": "2023-07-12T21:06:07.1913864+00:00"
 }
