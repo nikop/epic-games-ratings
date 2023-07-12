@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -292,9 +292,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 38943,
+  "EOS_Progressed": 38945,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5162,6 +5162,11 @@
       "Time": "2023-07-12T09:03:39.5832387+00:00",
       "NumProgressed": 38943,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-12T13:20:30.8751319+00:00",
+      "NumProgressed": 38945,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -5301,7 +5306,7 @@
       "Name": "Forspoken",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "CHAPTER_12_CLEAR",
@@ -5596,22 +5601,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 38943,
+      "Progressed": 38945,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 3780,
-      "Completed": 3780
+      "Progressed": 3782,
+      "Completed": 3782
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-07-01T18:58:51.3076879+00:00",
-  "LastChanged_Achievements": "2023-07-12T12:03:07.8444636+00:00",
+  "LastChanged_Achievements": "2023-07-12T13:20:30.8751316+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:18.1747348+00:00",
-  "LastUpdate_Ratings": "2023-07-12T11:58:41.3777477+00:00",
-  "LastUpdate_Achievements": "2023-07-12T12:03:07.8445396+00:00"
+  "LastUpdate_Ratings": "2023-07-12T13:16:06.7744265+00:00",
+  "LastUpdate_Achievements": "2023-07-12T13:20:30.8752266+00:00"
 }

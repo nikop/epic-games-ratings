@@ -3086,9 +3086,9 @@
       "Count": 381
     }
   ],
-  "EOS_Progressed": 10272,
+  "EOS_Progressed": 10273,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8211,6 +8211,11 @@
       "Time": "2023-07-12T08:03:25.1039996+00:00",
       "NumProgressed": 10272,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-12T13:21:32.7659+00:00",
+      "NumProgressed": 10273,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -8222,7 +8227,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2054
+      "UsersEstimate": 2055
     },
     {
       "ID": "02_BurningCity",
@@ -8422,7 +8427,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "28_GreatUpstart",
@@ -8620,9 +8625,9 @@
       "ID": "52_TrulyImportantDeed",
       "SetID": "989of5o",
       "Name": "Truly Important Deed",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 205
     },
     {
       "ID": "53_TrulyProfaneGift",
@@ -9149,21 +9154,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9054,
+      "Progressed": 9055,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10272,
+      "Progressed": 10273,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-11T13:15:47.8185114+00:00",
-  "LastChanged_Achievements": "2023-07-12T12:03:50.949345+00:00",
+  "LastChanged_Achievements": "2023-07-12T13:21:32.7658994+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:12.7052521+00:00",
-  "LastUpdate_Ratings": "2023-07-12T11:58:37.8456043+00:00",
-  "LastUpdate_Achievements": "2023-07-12T12:03:50.9495156+00:00"
+  "LastUpdate_Ratings": "2023-07-12T13:16:02.9852631+00:00",
+  "LastUpdate_Achievements": "2023-07-12T13:21:32.7661461+00:00"
 }

@@ -3763,9 +3763,9 @@
       "ID": "ACH_BASE_48",
       "SetID": "92iocjf",
       "Name": "Permanent Redesigns",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 280
+      "UsersEstimate": 308
     },
     {
       "ID": "ACH_BASE_49",
@@ -3938,8 +3938,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-07-08T02:22:11.1138638+00:00",
-  "LastChanged_Achievements": "2023-07-12T12:04:12.9856188+00:00",
+  "LastChanged_Achievements": "2023-07-12T13:21:54.3754063+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:17.2355244+00:00",
-  "LastUpdate_Ratings": "2023-07-12T11:58:40.8809296+00:00",
-  "LastUpdate_Achievements": "2023-07-12T12:04:12.9856915+00:00"
+  "LastUpdate_Ratings": "2023-07-12T13:16:05.8283026+00:00",
+  "LastUpdate_Achievements": "2023-07-12T13:21:54.3754898+00:00"
 }

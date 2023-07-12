@@ -5,35 +5,35 @@ Rating: 4.55 (Ranked 479)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 76.00% | ~648 |
-| And so it begins | 72.00% | ~614 |
-| No pressure | 70.00% | ~597 |
+| Good start | 76.00% | ~649 |
+| And so it begins | 72.00% | ~615 |
+| No pressure | 70.00% | ~598 |
 | Memento | 62.00% | ~529 |
-| Let there be light | 59.00% | ~503 |
-| I think you dropped this | 55.00% | ~469 |
-| Soulmate? | 53.00% | ~452 |
-| Excellent service | 48.00% | ~409 |
-| Roll with it | 46.00% | ~392 |
-| Love is in the air | 44.00% | ~375 |
+| Let there be light | 59.00% | ~504 |
+| I think you dropped this | 55.00% | ~470 |
+| Soulmate? | 53.00% | ~453 |
+| Excellent service | 48.00% | ~410 |
+| Roll with it | 46.00% | ~393 |
+| Love is in the air | 44.00% | ~376 |
 | Humble beginnings | 43.00% | ~367 |
 | Fine, I'll do it myself | 41.00% | ~350 |
 | Moving up | 41.00% | ~350 |
 | No need to call anyone | 39.00% | ~333 |
-| Big fortune | 32.00% | ~273 |
+| Big fortune | 31.00% | ~265 |
 | Still more work ahead | 28.00% | ~239 |
-| Hotel sleuthing | 27.00% | ~230 |
+| Hotel sleuthing | 27.00% | ~231 |
 | Kaboom | 26.00% | ~222 |
 | Aesop's fable | 26.00% | ~222 |
 | Nearly there | 24.00% | ~205 |
 | Broken heart | 22.00% | ~188 |
-| Island boy | 21.00% | ~179 |
+| Island boy | 20.00% | ~171 |
 | You're a star | 19.00% | ~162 |
 | Unstoppable | 18.00% | ~154 |
 | Reunited | 17.00% | ~145 |
 | King of hospitality | 11.00% | ~94 |
 | Top spot in town | 3.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 853 (Ranked 193)  
+Progressed: 854 (Ranked 193)  
 Completed: 15 (1.76%) (Ranked 82)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,6 +103,7 @@ Completed: 15 (1.76%) (Ranked 82)
 | 2023-07-06 | 851 | 15 |
 | 2023-07-10 | 852 | 15 |
 | 2023-07-11 | 853 | 15 |
+| 2023-07-12 | 854 | 15 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

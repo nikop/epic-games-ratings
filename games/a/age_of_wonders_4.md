@@ -38,10 +38,10 @@ Rating: 4.62 (Ranked 347)
 | Enchanted Archipelago | 1.00% | ~50 |
 | The Goddess of Nature | 1.00% | ~50 |
 | Eternal Lord | 1.00% | ~50 |
+| Crimson Caldera | 1.00% | ~50 |
 | The Eternal Court | 1.00% | ~50 |
 | Jack of All Tomes | 1.00% | ~50 |
 | Duality | 1.00% | ~50 |
-| Crimson Caldera | 0.90% | ~45 |
 | Grexolis | 0.80% | ~40 |
 | One for All, All for One | 0.80% | ~40 |
 | I've Got Everything I Need Right Here | 0.60% | ~30 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -86,9 +86,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 853,
+  "EOS_Progressed": 854,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.76,
   "EosHistory": [
@@ -911,6 +911,11 @@
       "Time": "2023-07-11T17:04:14.9287224+00:00",
       "NumProgressed": 853,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-07-12T13:21:38.4597448+00:00",
+      "NumProgressed": 854,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 27,
@@ -938,7 +943,7 @@
       "Name": "Soulmate?",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "ACH_DICE_WIN",
@@ -946,7 +951,7 @@
       "Name": "Roll with it",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -970,7 +975,7 @@
       "Name": "Love is in the air",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "ACH_ENGAGEMENT_RING",
@@ -1018,7 +1023,7 @@
       "Name": "No pressure",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -1026,7 +1031,7 @@
       "Name": "And so it begins",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -1034,23 +1039,23 @@
       "Name": "Hotel sleuthing",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "ACH_NEWSPAPER_ARTICLE",
       "SetID": "7k95e4n",
       "Name": "Big fortune",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 273
+      "UsersEstimate": 265
     },
     {
       "ID": "ACH_POSTCARD",
       "SetID": "7k95e4n",
       "Name": "Island boy",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 179
+      "UsersEstimate": 171
     },
     {
       "ID": "ACH_POWER_OUTRAGE_FIXED",
@@ -1058,7 +1063,7 @@
       "Name": "Let there be light",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -1074,7 +1079,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "ACH_STAR_2",
@@ -1122,7 +1127,7 @@
       "Name": "Excellent service",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "ACH_WALLET_RETURNED",
@@ -1130,14 +1135,14 @@
       "Name": "I think you dropped this",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     }
   ],
   "AchievementSets": [
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 853,
+      "Progressed": 854,
       "Completed": 15
     }
   ],
@@ -1145,8 +1150,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-07-05T18:57:43.3386981+00:00",
-  "LastChanged_Achievements": "2023-07-12T12:03:56.7188179+00:00",
+  "LastChanged_Achievements": "2023-07-12T13:21:38.4597445+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:23.1466896+00:00",
-  "LastUpdate_Ratings": "2023-07-12T11:57:32.6298366+00:00",
-  "LastUpdate_Achievements": "2023-07-12T12:03:56.7188417+00:00"
+  "LastUpdate_Ratings": "2023-07-12T13:14:59.7185472+00:00",
+  "LastUpdate_Achievements": "2023-07-12T13:21:38.4597752+00:00"
 }

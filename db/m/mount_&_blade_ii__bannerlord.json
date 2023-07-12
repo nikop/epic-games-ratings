@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewPlayers": 76,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -5523,9 +5523,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 55572,
+  "EOS_Progressed": 55574,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 529,
+  "EOS_NewPlayers": 519,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14108,6 +14108,11 @@
       "Time": "2023-07-12T12:06:19.1817598+00:00",
       "NumProgressed": 55572,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-12T13:23:57.9056239+00:00",
+      "NumProgressed": 55574,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -14135,7 +14140,7 @@
       "Name": "Bannerlord",
       "Percentage": 21,
       "XP": 65,
-      "UsersEstimate": 11670
+      "UsersEstimate": 11671
     },
     {
       "ID": "Best served cold",
@@ -14199,7 +14204,7 @@
       "Name": "Duelist",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5001
+      "UsersEstimate": 5002
     },
     {
       "ID": "Dynasty",
@@ -14207,7 +14212,7 @@
       "Name": "Dynasty",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 5001
+      "UsersEstimate": 5002
     },
     {
       "ID": "Entrepreneur",
@@ -14295,7 +14300,7 @@
       "Name": "I spit on your grave",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5001
+      "UsersEstimate": 5002
     },
     {
       "ID": "Jack of All Trades",
@@ -14343,7 +14348,7 @@
       "Name": "Landlord",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 17227
+      "UsersEstimate": 17228
     },
     {
       "ID": "Lawbringer",
@@ -14471,7 +14476,7 @@
       "Name": "The king is pleased",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 9447
+      "UsersEstimate": 9448
     },
     {
       "ID": "This Is Our Land",
@@ -14479,7 +14484,7 @@
       "Name": "This Is Our Land",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5001
+      "UsersEstimate": 5002
     },
     {
       "ID": "This is Sparta",
@@ -14495,7 +14500,7 @@
       "Name": "Trained",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 11670
+      "UsersEstimate": 11671
     },
     {
       "ID": "Undercover",
@@ -14519,22 +14524,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5001
+      "UsersEstimate": 5002
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 55572,
+      "Progressed": 55574,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-07-12T07:59:28.9425065+00:00",
-  "LastChanged_Achievements": "2023-07-12T12:06:19.1817592+00:00",
+  "LastChanged_Achievements": "2023-07-12T13:23:57.9056234+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:03.335469+00:00",
-  "LastUpdate_Ratings": "2023-07-12T11:59:49.8352446+00:00",
-  "LastUpdate_Achievements": "2023-07-12T12:06:19.1818535+00:00"
+  "LastUpdate_Ratings": "2023-07-12T13:17:14.7438629+00:00",
+  "LastUpdate_Achievements": "2023-07-12T13:23:57.9057565+00:00"
 }

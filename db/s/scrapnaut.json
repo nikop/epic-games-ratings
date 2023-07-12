@@ -885,9 +885,9 @@
       "ID": "ACH_COOK",
       "SetID": "7c4cldc",
       "Name": "Cook",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 125
     },
     {
       "ID": "ACH_CUT_100_TREES",
@@ -1046,8 +1046,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-07-12T12:03:18.0694934+00:00",
+  "LastChanged_Achievements": "2023-07-12T13:20:40.7754874+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:16.8374592+00:00",
-  "LastUpdate_Ratings": "2023-07-12T11:58:41.1246632+00:00",
-  "LastUpdate_Achievements": "2023-07-12T12:03:18.0695191+00:00"
+  "LastUpdate_Ratings": "2023-07-12T13:16:06.558356+00:00",
+  "LastUpdate_Achievements": "2023-07-12T13:20:40.7755153+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 276,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1008,9 +1008,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4055,
+  "EOS_Progressed": 4056,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -5948,6 +5948,11 @@
       "Time": "2023-07-12T12:04:44.0420145+00:00",
       "NumProgressed": 4055,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-12T13:22:25.6655356+00:00",
+      "NumProgressed": 4056,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -6063,7 +6068,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -6119,7 +6124,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3082
+      "UsersEstimate": 3083
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -6215,7 +6220,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1946
+      "UsersEstimate": 1947
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -6278,15 +6283,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4055,
+      "Progressed": 4056,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-09T22:00:42.3216597+00:00",
-  "LastChanged_Achievements": "2023-07-12T12:04:44.042014+00:00",
+  "LastChanged_Achievements": "2023-07-12T13:22:25.6655351+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:41.4762855+00:00",
-  "LastUpdate_Ratings": "2023-07-12T12:00:16.0235597+00:00",
-  "LastUpdate_Achievements": "2023-07-12T12:04:44.0420769+00:00"
+  "LastUpdate_Ratings": "2023-07-12T13:17:39.7799562+00:00",
+  "LastUpdate_Achievements": "2023-07-12T13:22:25.665611+00:00"
 }

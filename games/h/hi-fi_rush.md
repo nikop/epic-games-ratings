@@ -8,11 +8,11 @@ Rating: 4.87 (Ranked 24)
 | Cream of the Crop | 1.00% | ~34 |
 | Thanks for the free chip, Peppermint! | 1.00% | ~34 |
 | I play my own way! | 1.00% | ~34 |
+| You got this, Peppermint? | 1.00% | ~34 |
 | Who put gears in there? | 1.00% | ~34 |
 | NOW we got a kickass hideout! | 1.00% | ~20 |
 | The Negotiator | 0.90% | ~31 |
 | Whoa! There's ANOTHER health bar!? | 0.90% | ~31 |
-| You got this, Peppermint? | 0.90% | ~31 |
 | Perfect Parry | 0.90% | ~31 |
 | Kissing the sky! | 0.90% | ~31 |
 | Start with a bang! | 0.80% | ~27 |

@@ -12,7 +12,7 @@ Rating: 4.56 (Ranked 458)
 | Space Society | 12.00% | ~336 |
 | A Thousand Strong | 12.00% | ~336 |
 | Ready for a New World | 12.00% | ~336 |
-| Permanent Redesigns | 10.00% | ~280 |
+| Permanent Redesigns | 11.00% | ~308 |
 | Guy de Borderlands | 9.00% | ~252 |
 | Fully Recycled | 9.00% | ~252 |
 | Ain't Nobody Got Time for That | 9.00% | ~252 |

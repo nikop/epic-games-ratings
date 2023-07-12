@@ -4,8 +4,8 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 11,
-  "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -29,10 +29,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 378,
-  "EOS_Completed": 69,
+  "EOS_Completed": 70,
   "EOS_NewPlayers": 5,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 18.25,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 18.52,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -1788,6 +1788,11 @@
       "Time": "2023-07-10T21:07:46.3984339+00:00",
       "NumProgressed": 378,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-07-12T13:23:49.4014847+00:00",
+      "NumProgressed": 378,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 22,
@@ -1965,9 +1970,9 @@
       "ID": "LEVEL_022",
       "SetID": "3khpmem",
       "Name": "Night walk along the beach",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 64
+      "UsersEstimate": 68
     }
   ],
   "AchievementSets": [
@@ -1975,15 +1980,15 @@
       "ID": "3khpmem",
       "IsBase": true,
       "Progressed": 378,
-      "Completed": 69
+      "Completed": 70
     }
   ],
   "FirstSeen": "2023-04-28T06:58:06.5817191+00:00",
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-07-12T12:06:10.1533048+00:00",
+  "LastChanged_Achievements": "2023-07-12T13:23:49.4014842+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:38.9181248+00:00",
-  "LastUpdate_Ratings": "2023-07-12T11:58:19.2133629+00:00",
-  "LastUpdate_Achievements": "2023-07-12T12:06:10.153332+00:00"
+  "LastUpdate_Ratings": "2023-07-12T13:15:44.3084602+00:00",
+  "LastUpdate_Achievements": "2023-07-12T13:23:49.4015161+00:00"
 }
