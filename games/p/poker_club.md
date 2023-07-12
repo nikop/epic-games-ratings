@@ -5,27 +5,27 @@ Rating: 3.80 (Ranked 940)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~380,285 |
-| Handy | 40.00% | ~200,150 |
-| Cold Caller | 38.00% | ~190,142 |
-| A Bit On The Side | 26.00% | ~130,098 |
-| Backdoor | 24.00% | ~120,090 |
-| Rank Amateur | 20.00% | ~100,075 |
+| Pro Creation | 76.00% | ~380,289 |
+| Handy | 40.00% | ~200,152 |
+| Cold Caller | 38.00% | ~190,144 |
+| A Bit On The Side | 26.00% | ~130,099 |
+| Backdoor | 24.00% | ~120,091 |
+| Rank Amateur | 20.00% | ~100,076 |
 | Three Way | 18.00% | ~90,068 |
-| Deadly Assassin | 15.00% | ~75,056 |
+| Deadly Assassin | 15.00% | ~75,057 |
 | Gutshot | 13.00% | ~65,049 |
 | Risk It For A Biscuit | 13.00% | ~65,049 |
 | Showoff | 13.00% | ~65,049 |
-| W.H.I.P. | 11.00% | ~55,041 |
+| W.H.I.P. | 11.00% | ~55,042 |
 | Bet Bet Bet | 9.00% | ~45,034 |
 | Blindman's Bluff | 8.00% | ~40,030 |
 | Poker Joker | 8.00% | ~40,030 |
-| Dog Eat Dog | 7.00% | ~35,026 |
-| Never Give Up | 7.00% | ~35,026 |
-| Quack Quack | 7.00% | ~35,026 |
-| The Bigger They Are | 7.00% | ~35,026 |
-| Total Knock Out | 7.00% | ~35,026 |
-| Give Your Regards To Broadway | 6.00% | ~30,022 |
+| Dog Eat Dog | 7.00% | ~35,027 |
+| Never Give Up | 7.00% | ~35,027 |
+| Quack Quack | 7.00% | ~35,027 |
+| The Bigger They Are | 7.00% | ~35,027 |
+| Total Knock Out | 7.00% | ~35,027 |
+| Give Your Regards To Broadway | 6.00% | ~30,023 |
 | Check Yourself | 4.00% | ~20,015 |
 | Moneymaker | 4.00% | ~20,015 |
 | In The Gang | 3.00% | ~15,011 |
@@ -51,7 +51,7 @@ Rating: 3.80 (Ranked 940)
 | Rounder | 0.10% | ~500 |
 | Top Dog | 0.10% | ~500 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 500,375 (Ranked 31)  
+Progressed: 500,380 (Ranked 31)  
 Completed: 1 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,6 +133,7 @@ Completed: 1 (0.00%) (Ranked 237)
 | 2023-07-09 | 499,556 | 1 |
 | 2023-07-10 | 499,976 | 1 |
 | 2023-07-11 | 500,375 | 1 |
+| 2023-07-12 | 500,380 | 1 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 462)  
 Sum: 28 (Ranked 474)  

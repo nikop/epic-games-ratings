@@ -6,14 +6,14 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,171 |
-| That's a Grand Army | 8.00% | ~5,486 |
-| That is mine! | 8.00% | ~5,486 |
-| Victorious! | 8.00% | ~5,486 |
-| Brothers in Arms | 6.00% | ~4,114 |
-| That's a Grand Navy | 6.00% | ~4,114 |
-| Seriously?! | 6.00% | ~4,114 |
-| For the Glory | 5.00% | ~3,428 |
+| Until death do us apart | 9.00% | ~6,172 |
+| That's a Grand Army | 8.00% | ~5,487 |
+| That is mine! | 8.00% | ~5,487 |
+| Victorious! | 8.00% | ~5,487 |
+| Brothers in Arms | 6.00% | ~4,115 |
+| That's a Grand Navy | 6.00% | ~4,115 |
+| Seriously?! | 6.00% | ~4,115 |
+| For the Glory | 5.00% | ~3,429 |
 | Cold War | 4.00% | ~2,743 |
 | True Catholic | 4.00% | ~2,743 |
 | Defender of the Faith | 3.00% | ~2,057 |
@@ -22,15 +22,15 @@ Number of Ratings: 8,414  (23.09.2022)
 | Respected | 3.00% | ~2,057 |
 | The Princess is in this Castle | 3.00% | ~2,057 |
 | Truly Divine Ruler | 3.00% | ~2,057 |
-| Agressive Expander | 2.00% | ~1,371 |
-| Blockader | 2.00% | ~1,371 |
-| Combined Arms | 2.00% | ~1,371 |
-| Double the Love | 2.00% | ~1,371 |
-| Gentle Persuasion | 2.00% | ~1,371 |
-| My armies are invincible! | 2.00% | ~1,371 |
-| Queen of Conquest | 2.00% | ~1,371 |
-| Royal Authority | 2.00% | ~1,371 |
-| Total Control | 2.00% | ~1,371 |
+| Agressive Expander | 2.00% | ~1,372 |
+| Blockader | 2.00% | ~1,372 |
+| Combined Arms | 2.00% | ~1,372 |
+| Double the Love | 2.00% | ~1,372 |
+| Gentle Persuasion | 2.00% | ~1,372 |
+| My armies are invincible! | 2.00% | ~1,372 |
+| Queen of Conquest | 2.00% | ~1,372 |
+| Royal Authority | 2.00% | ~1,372 |
+| Total Control | 2.00% | ~1,372 |
 | All That's Thine Shall Be Mine | 1.00% | ~686 |
 | Azur semé de lis or | 1.00% | ~686 |
 | Bright Spark | 1.00% | ~686 |
@@ -70,7 +70,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | One Night in Paris | 0.40% | ~274 |
 | Tear Down This Wall | 0.40% | ~274 |
 | The Continuation of Diplomacy | 0.40% | ~274 |
-| Traditional Player | 0.40% | ~274 |
 | Wonderful | 0.40% | ~274 |
 | A Decent Reserve | 0.30% | ~206 |
 | A Pile of Gold | 0.30% | ~206 |
@@ -80,6 +79,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Not so sad a state... | 0.30% | ~206 |
 | The Chrysanthemum Throne | 0.30% | ~206 |
 | Three Trivial Tributary Tribes | 0.30% | ~206 |
+| Traditional Player | 0.30% | ~206 |
 | Vasa or Wettin? | 0.30% | ~206 |
 | World Discoverer | 0.30% | ~206 |
 | A Protected Market | 0.20% | ~137 |
@@ -92,6 +92,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Imperio español | 0.20% | ~137 |
 | Industrial Powerhouse | 0.20% | ~137 |
 | Je maintiendrai | 0.20% | ~137 |
+| A Kaiser not just in name | 0.20% | ~137 |
 | Magellan’s Voyage | 0.20% | ~137 |
 | Pyramid of Skulls | 0.20% | ~137 |
 | The Power of Three | 0.20% | ~137 |
@@ -196,7 +197,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Iron Price | 0.10% | ~69 |
 | It's All Greek To Me | 0.10% | ~69 |
 | Just Resting In My Account | 0.10% | ~69 |
-| A Kaiser not just in name | 0.10% | ~69 |
 | Keep the Flame Burning | 0.10% | ~69 |
 | KHAAAAAAN | 0.10% | ~69 |
 | King of Jerusalem | 0.10% | ~69 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,569 (Ranked 74)  
+Progressed: 68,583 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -444,6 +444,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-09 | 67,782 | 0 |
 | 2023-07-10 | 68,178 | 0 |
 | 2023-07-11 | 68,569 | 0 |
+| 2023-07-12 | 68,583 | 0 |
 ## Awards
 Max (Educational): 5,533  (Ranked 60)  
 Sum: 45,642 (Ranked 27)  

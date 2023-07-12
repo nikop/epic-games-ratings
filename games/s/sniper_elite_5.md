@@ -8,6 +8,7 @@ Rating: 4.45 (Ranked 623)
 | Climbing the Ladder | 2.00% | ~65 |
 | Liberté | 2.00% | ~65 |
 | No Stone Unturned | 2.00% | ~65 |
+| Organ Grinder | 2.00% | ~65 |
 | Meeting Resistance | 2.00% | ~65 |
 | Gunslinger | 2.00% | ~65 |
 | Sharpshooter | 2.00% | ~65 |
@@ -22,7 +23,6 @@ Rating: 4.45 (Ranked 623)
 | Target America | 2.00% | ~65 |
 | The Kraken Sleeps | 2.00% | ~65 |
 | Opposing Force | 1.00% | ~33 |
-| Organ Grinder | 1.00% | ~33 |
 | Skirmisher | 1.00% | ~33 |
 | Set Europe Ablaze | 1.00% | ~33 |
 | Precision Is Key | 1.00% | ~33 |

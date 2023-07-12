@@ -9,10 +9,10 @@
 | Across the lake | 51.00% | ~39 |
 | First document retrieved | 49.00% | ~37 |
 | There is something strange here... | 49.00% | ~37 |
-| Curious by nature | 42.00% | ~32 |
-| A lonely death | 36.00% | ~27 |
-| An ear for music | 34.00% | ~26 |
-| Agatha's favourite song | 32.00% | ~24 |
+| Curious by nature | 43.00% | ~33 |
+| A lonely death | 37.00% | ~28 |
+| An ear for music | 36.00% | ~27 |
+| Agatha's favourite song | 33.00% | ~25 |
 | Lights and shadows | 30.00% | ~23 |
 | The threshold of horror | 29.00% | ~22 |
 | Second document retrieved | 26.00% | ~20 |
@@ -21,7 +21,7 @@
 | Dara's home | 25.00% | ~19 |
 | The lowest floor of the lift | 24.00% | ~18 |
 | Charon's coin | 22.00% | ~17 |
-| Until death do us part | 20.00% | ~15 |
+| Until death do us part | 21.00% | ~16 |
 | The impatient one | 18.00% | ~14 |
 | Spectres from the past | 7.00% | ~5 |
 ## Popularity (Based on EOS Achievements)

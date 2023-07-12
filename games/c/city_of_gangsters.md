@@ -5,24 +5,24 @@ Rating: 4.26 (Ranked 802)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~151,369 |
-| Copacetic Coordination | 16.00% | ~52,650 |
-| Fronting the Money | 14.00% | ~46,069 |
-| The Dawn of Automation | 14.00% | ~46,069 |
-| Extraordinary Logistics | 14.00% | ~46,069 |
-| Dirty Money | 13.00% | ~42,778 |
-| Family First | 13.00% | ~42,778 |
+| Corner Clout | 46.00% | ~151,371 |
+| Copacetic Coordination | 16.00% | ~52,651 |
+| Fronting the Money | 14.00% | ~46,070 |
+| The Dawn of Automation | 14.00% | ~46,070 |
+| Extraordinary Logistics | 14.00% | ~46,070 |
+| Dirty Money | 13.00% | ~42,779 |
+| Family First | 13.00% | ~42,779 |
 | Cleaning House | 12.00% | ~39,488 |
 | Room in the Back | 12.00% | ~39,488 |
 | Booze Baron | 11.00% | ~36,197 |
-| Beating the Heat | 10.00% | ~32,906 |
-| Friends on the Force | 10.00% | ~32,906 |
-| Neighborhood Watch | 10.00% | ~32,906 |
+| Beating the Heat | 10.00% | ~32,907 |
+| Friends on the Force | 10.00% | ~32,907 |
+| Neighborhood Watch | 10.00% | ~32,907 |
 | Core Corps | 8.00% | ~26,325 |
-| Sizeable Stash | 7.00% | ~23,034 |
-| Street Fighter | 7.00% | ~23,034 |
-| Friendly Gestures | 7.00% | ~23,034 |
-| People Person | 7.00% | ~23,034 |
+| Sizeable Stash | 7.00% | ~23,035 |
+| Street Fighter | 7.00% | ~23,035 |
+| Friendly Gestures | 7.00% | ~23,035 |
+| People Person | 7.00% | ~23,035 |
 | Liquor Lord | 6.00% | ~19,744 |
 | Safety in Numbers | 6.00% | ~19,744 |
 | Show ‘em the Sugar | 6.00% | ~19,744 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 802)
 | High Pillow | 0.10% | ~329 |
 | Station Master | 0.10% | ~329 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 329,063 (Ranked 40)  
+Progressed: 329,068 (Ranked 40)  
 Completed: 5 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,6 +169,7 @@ Completed: 5 (0.00%) (Ranked 237)
 | 2023-07-09 | 328,678 | 5 |
 | 2023-07-10 | 328,868 | 5 |
 | 2023-07-11 | 329,063 | 5 |
+| 2023-07-12 | 329,068 | 5 |
 ## Awards
 Max (Highly Recommended): 27  (Ranked 466)  
 Sum: 119 (Ranked 399)  

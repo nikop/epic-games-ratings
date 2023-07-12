@@ -5688,9 +5688,9 @@
       "ID": "ACH_SURGE_GAUNTLET_JOCKEY",
       "SetID": "97mcd7i",
       "Name": "Surge Gauntlet Jockey",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 6453
+      "UsersEstimate": 6529
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_SCHOLAR",
@@ -5792,8 +5792,8 @@
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-07-02T16:58:50.9856652+00:00",
-  "LastChanged_Achievements": "2023-07-11T23:06:15.4192583+00:00",
+  "LastChanged_Achievements": "2023-07-12T00:05:36.0375573+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:08.6615768+00:00",
-  "LastUpdate_Ratings": "2023-07-11T22:59:09.7057401+00:00",
-  "LastUpdate_Achievements": "2023-07-11T23:06:15.4193299+00:00"
+  "LastUpdate_Ratings": "2023-07-11T23:58:43.2728566+00:00",
+  "LastUpdate_Achievements": "2023-07-12T00:05:36.0376332+00:00"
 }

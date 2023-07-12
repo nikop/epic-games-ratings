@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57220,
+  "EOS_Progressed": 57221,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 393,
+  "EOS_NewPlayers": 390,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7677,6 +7677,11 @@
       "Time": "2023-07-11T23:04:15.9685382+00:00",
       "NumProgressed": 57220,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-12T00:04:12.2475696+00:00",
+      "NumProgressed": 57221,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7752,7 +7757,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6866
+      "UsersEstimate": 6867
     },
     {
       "ID": "10",
@@ -7848,7 +7853,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6866
+      "UsersEstimate": 6867
     },
     {
       "ID": "22",
@@ -7910,9 +7915,9 @@
       "ID": "29",
       "SetID": "212770e",
       "Name": "Sound and Fury",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6866
+      "UsersEstimate": 7439
     },
     {
       "ID": "30",
@@ -7944,7 +7949,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6866
+      "UsersEstimate": 6867
     },
     {
       "ID": "34",
@@ -7960,7 +7965,7 @@
       "Name": "Let There Be Light",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 15449
+      "UsersEstimate": 15450
     },
     {
       "ID": "36",
@@ -8223,21 +8228,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57220,
+      "Progressed": 57221,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20688,
+      "Progressed": 20689,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-11T23:04:15.9685375+00:00",
+  "LastChanged_Achievements": "2023-07-12T00:04:12.2475691+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:08.3646753+00:00",
-  "LastUpdate_Ratings": "2023-07-11T22:58:12.8612451+00:00",
-  "LastUpdate_Achievements": "2023-07-11T23:04:15.9686554+00:00"
+  "LastUpdate_Ratings": "2023-07-11T23:58:00.9480925+00:00",
+  "LastUpdate_Achievements": "2023-07-12T00:04:12.2476923+00:00"
 }

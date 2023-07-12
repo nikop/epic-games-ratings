@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 99,
+  "EOS_Progressed": 100,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -454,6 +454,11 @@
       "Time": "2023-07-11T22:04:52.7969193+00:00",
       "NumProgressed": 99,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-12T00:04:24.128042+00:00",
+      "NumProgressed": 100,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -535,7 +540,7 @@
       "ID": "ach_endless_30",
       "SetID": "5a4225j",
       "Name": "Endless 30 Seconds",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 35,
       "UsersEstimate": 72
     },
@@ -672,13 +677,13 @@
     {
       "ID": "5a4225j",
       "IsBase": true,
-      "Progressed": 99,
+      "Progressed": 100,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-06-02T21:05:45.273905+00:00",
-  "LastChanged_Achievements": "2023-07-11T23:04:32.1539552+00:00",
+  "LastChanged_Achievements": "2023-07-12T00:04:24.1280409+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:19.1257474+00:00",
-  "LastUpdate_Ratings": "2023-07-11T22:57:19.6406304+00:00",
-  "LastUpdate_Achievements": "2023-07-11T23:04:32.1539873+00:00"
+  "LastUpdate_Ratings": "2023-07-11T23:57:23.879742+00:00",
+  "LastUpdate_Achievements": "2023-07-12T00:04:24.1280667+00:00"
 }

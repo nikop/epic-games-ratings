@@ -118,17 +118,17 @@
       "ID": "ACH_13",
       "SetID": "1g3d1lg",
       "Name": "An ear for music",
-      "Percentage": 34,
+      "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_14",
       "SetID": "1g3d1lg",
       "Name": "Agatha\u0027s favourite song",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_15",
@@ -142,17 +142,17 @@
       "ID": "ACH_16",
       "SetID": "1g3d1lg",
       "Name": "Curious by nature",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_17",
       "SetID": "1g3d1lg",
       "Name": "Until death do us part",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_18",
@@ -198,9 +198,9 @@
       "ID": "ACH_4",
       "SetID": "1g3d1lg",
       "Name": "A lonely death",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 35,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_5",
@@ -255,8 +255,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.6125588+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.3534182+00:00",
   "LastChanged": "2023-03-31T05:58:38.6125589+00:00",
-  "LastChanged_Achievements": "2023-07-11T23:07:35.9341302+00:00",
+  "LastChanged_Achievements": "2023-07-12T00:06:30.6628807+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:13.3293654+00:00",
-  "LastUpdate_Ratings": "2023-07-11T23:00:07.40307+00:00",
-  "LastUpdate_Achievements": "2023-07-11T23:07:35.9341527+00:00"
+  "LastUpdate_Ratings": "2023-07-11T23:59:20.3350182+00:00",
+  "LastUpdate_Achievements": "2023-07-12T00:06:30.6628965+00:00"
 }

@@ -5,23 +5,23 @@ Rating: 4.64 (Ranked 313)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 64.00% | ~4,646 |
-| Mainframe Hacker | 47.00% | ~3,412 |
-| The Spy who eliminated me | 47.00% | ~3,412 |
+| On Deceive Inc.'s Secret Service | 64.00% | ~4,647 |
+| Mainframe Hacker | 47.00% | ~3,413 |
+| The Spy who eliminated me | 47.00% | ~3,413 |
 | Tomorrow Never Dyes | 46.00% | ~3,340 |
 | Never Say Loser Again | 40.00% | ~2,904 |
-| For your Eyes only | 39.00% | ~2,831 |
-| From the Vault with Love | 37.00% | ~2,686 |
-| Tailor-Made | 37.00% | ~2,686 |
+| For your Eyes only | 39.00% | ~2,832 |
+| From the Vault with Love | 37.00% | ~2,687 |
+| Tailor-Made | 37.00% | ~2,687 |
 | Fully Decked Out | 35.00% | ~2,541 |
 | You Only Live Twice | 33.00% | ~2,396 |
 | A view to Win | 27.00% | ~1,960 |
 | Private Collection | 25.00% | ~1,815 |
 | Smells Like Trouble | 25.00% | ~1,815 |
-| Assistant Accountant | 24.00% | ~1,742 |
-| The Living Portrait | 24.00% | ~1,742 |
-| Killer Looks | 24.00% | ~1,742 |
-| Hostile Takeover | 24.00% | ~1,742 |
+| Assistant Accountant | 24.00% | ~1,743 |
+| The Living Portrait | 24.00% | ~1,743 |
+| Killer Looks | 24.00% | ~1,743 |
+| Hostile Takeover | 24.00% | ~1,743 |
 | Keycards Royale | 23.00% | ~1,670 |
 | Dr. No Kill | 23.00% | ~1,670 |
 | My Motto, My Creed | 23.00% | ~1,670 |
@@ -42,7 +42,7 @@ Rating: 4.64 (Ranked 313)
 | Extraction Confusion | 0.30% | ~22 |
 | Spyfall | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,260 (Ranked 124)  
+Progressed: 7,261 (Ranked 124)  
 Completed: 1 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,6 +125,7 @@ Completed: 1 (0.01%) (Ranked 223)
 | 2023-07-09 | 7,230 | 1 |
 | 2023-07-10 | 7,247 | 1 |
 | 2023-07-11 | 7,260 | 1 |
+| 2023-07-12 | 7,261 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

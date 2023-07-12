@@ -6,24 +6,24 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,542 |
-| The Mad Wizard | 11.00% | ~23,131 |
-| The Ring of Regeneration | 7.00% | ~14,720 |
-| Are Ya Chicken? | 7.00% | ~14,720 |
-| Were-verpowered | 6.00% | ~12,617 |
-| Seeking Allies | 5.00% | ~10,514 |
-| Mad Cow Disease | 5.00% | ~10,514 |
-| Friendly Imps | 5.00% | ~10,514 |
-| A Persistent Buzzing | 4.00% | ~8,411 |
-| Pure Energy | 4.00% | ~8,411 |
-| Beast Mode | 3.00% | ~6,308 |
-| Terror in the Dark | 3.00% | ~6,308 |
-| A Mysterious Summons | 3.00% | ~6,308 |
-| Unearthed Evil | 3.00% | ~6,308 |
-| The Crumbling Temple | 3.00% | ~6,308 |
-| Exploring Port Nyanzaru | 3.00% | ~6,308 |
-| The Contagious Curse | 3.00% | ~6,308 |
-| Escort to Waterdeep | 3.00% | ~6,308 |
+| The Cursed Farmer | 15.00% | ~31,545 |
+| The Mad Wizard | 11.00% | ~23,133 |
+| The Ring of Regeneration | 7.00% | ~14,721 |
+| Are Ya Chicken? | 7.00% | ~14,721 |
+| Were-verpowered | 6.00% | ~12,618 |
+| Seeking Allies | 5.00% | ~10,515 |
+| Mad Cow Disease | 5.00% | ~10,515 |
+| Friendly Imps | 5.00% | ~10,515 |
+| A Persistent Buzzing | 4.00% | ~8,412 |
+| Pure Energy | 4.00% | ~8,412 |
+| Beast Mode | 3.00% | ~6,309 |
+| Terror in the Dark | 3.00% | ~6,309 |
+| A Mysterious Summons | 3.00% | ~6,309 |
+| Unearthed Evil | 3.00% | ~6,309 |
+| The Crumbling Temple | 3.00% | ~6,309 |
+| Exploring Port Nyanzaru | 3.00% | ~6,309 |
+| The Contagious Curse | 3.00% | ~6,309 |
+| Escort to Waterdeep | 3.00% | ~6,309 |
 | Low Initiative | 2.00% | ~4,206 |
 | Building Trust | 2.00% | ~4,206 |
 | March of the Undead | 2.00% | ~4,206 |
@@ -63,7 +63,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Treasure Hunters | 0.80% | ~1,682 |
 | Nimble Escape | 0.80% | ~1,682 |
 | The Darkness Runs Deeper | 0.80% | ~1,682 |
-| The Giant's Bane Tavern | 0.80% | ~1,412 |
+| The Giant's Bane Tavern | 0.80% | ~1,413 |
 | Rude Welcome | 0.80% | ~1,682 |
 | Durable Deep | 0.80% | ~1,682 |
 | The Haunted Jungle | 0.80% | ~1,682 |
@@ -86,24 +86,24 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elturel Has Fallen | 0.60% | ~1,262 |
 | The Everlasting Rime | 0.60% | ~1,059 |
 | Expert Opinion | 0.60% | ~1,262 |
-| Lobsterfolk Assault | 0.50% | ~1,051 |
-| Home Field Advantage | 0.50% | ~1,051 |
-| Force Grey Unleashed | 0.50% | ~1,051 |
-| Azaka's Procession - Part 1 | 0.50% | ~1,051 |
-| Azaka's Procession - Part 2 | 0.50% | ~1,051 |
-| Chatty Nobles | 0.50% | ~1,051 |
-| Modron Assistance | 0.50% | ~1,051 |
-| Haaave You Met Asmodeus? | 0.50% | ~1,051 |
-| The Gargoyle's Apprentice | 0.50% | ~1,051 |
-| Flies on the Wall | 0.50% | ~1,051 |
-| Backtracking Through Barovia | 0.50% | ~1,051 |
-| Cramped Quarters | 0.50% | ~1,051 |
-| Vault of Dragons | 0.50% | ~1,051 |
-| Champions of Waterdeep | 0.50% | ~1,051 |
-| Resolve Amongst Chaos | 0.50% | ~1,051 |
+| Lobsterfolk Assault | 0.50% | ~1,052 |
+| Home Field Advantage | 0.50% | ~1,052 |
+| Force Grey Unleashed | 0.50% | ~1,052 |
+| Azaka's Procession - Part 1 | 0.50% | ~1,052 |
+| Azaka's Procession - Part 2 | 0.50% | ~1,052 |
+| Chatty Nobles | 0.50% | ~1,052 |
+| Modron Assistance | 0.50% | ~1,052 |
+| Haaave You Met Asmodeus? | 0.50% | ~1,052 |
+| The Gargoyle's Apprentice | 0.50% | ~1,052 |
+| Flies on the Wall | 0.50% | ~1,052 |
+| Backtracking Through Barovia | 0.50% | ~1,052 |
+| Cramped Quarters | 0.50% | ~1,052 |
+| Vault of Dragons | 0.50% | ~1,052 |
+| Champions of Waterdeep | 0.50% | ~1,052 |
+| Resolve Amongst Chaos | 0.50% | ~1,052 |
 | Into The Fire | 0.50% | ~883 |
 | Moose Tracks | 0.50% | ~883 |
-| Poor Guidance | 0.50% | ~1,051 |
+| Poor Guidance | 0.50% | ~1,052 |
 | Anti-Dexterous Explorers | 0.40% | ~841 |
 | Not Very Charming | 0.40% | ~841 |
 | Periodic Petrification | 0.40% | ~841 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,283 (Ranked 52)  
+Progressed: 210,300 (Ranked 52)  
 Completed: 2,046 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -593,6 +593,7 @@ Completed: 2,046 (0.97%) (Ranked 102)
 | 2023-07-09 | 209,384 | 2,043 |
 | 2023-07-10 | 209,861 | 2,045 |
 | 2023-07-11 | 210,283 | 2,046 |
+| 2023-07-12 | 210,300 | 2,046 |
 ## Awards
 Max (Diverse Characters): 5,025  (Ranked 65)  
 Sum: 30,485 (Ranked 38)  

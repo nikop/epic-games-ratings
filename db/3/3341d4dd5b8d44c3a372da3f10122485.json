@@ -211,9 +211,9 @@
       "ID": "Les",
       "SetID": "823jm6g",
       "Name": "Woods",
-      "Percentage": 89,
+      "Percentage": 94,
       "XP": 80,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Majak",
@@ -227,17 +227,17 @@
       "ID": "Nora",
       "SetID": "823jm6g",
       "Name": "Burrow",
-      "Percentage": 89,
+      "Percentage": 94,
       "XP": 75,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Planina",
       "SetID": "823jm6g",
       "Name": "Plain",
-      "Percentage": 83,
+      "Percentage": 89,
       "XP": 80,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Poklop",
@@ -282,8 +282,8 @@
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-07-11T23:04:03.6786968+00:00",
+  "LastChanged_Achievements": "2023-07-12T00:04:03.624078+00:00",
   "LastUpdate_AppInfo": "2023-07-07T13:12:57.3889522+00:00",
-  "LastUpdate_Ratings": "2023-07-11T22:57:02.5836903+00:00",
-  "LastUpdate_Achievements": "2023-07-11T23:04:03.6787088+00:00"
+  "LastUpdate_Ratings": "2023-07-11T23:57:12.2793955+00:00",
+  "LastUpdate_Achievements": "2023-07-12T00:04:03.6240916+00:00"
 }

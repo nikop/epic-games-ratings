@@ -4,10 +4,10 @@
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 440,
   "Ranking_Popularity": 263,
-  "Ranking_PopularitySum": 356,
+  "Ranking_PopularitySum": 357,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -6747,8 +6747,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-11T18:00:08.2457615+00:00",
-  "LastChanged_Achievements": "2023-07-11T23:07:39.2832643+00:00",
+  "LastChanged_Achievements": "2023-07-12T00:06:33.7890891+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:43.1834453+00:00",
-  "LastUpdate_Ratings": "2023-07-11T23:01:31.9578146+00:00",
-  "LastUpdate_Achievements": "2023-07-11T23:07:39.2833317+00:00"
+  "LastUpdate_Ratings": "2023-07-12T00:00:21.0895801+00:00",
+  "LastUpdate_Achievements": "2023-07-12T00:06:33.7891785+00:00"
 }
