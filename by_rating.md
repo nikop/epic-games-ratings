@@ -308,7 +308,7 @@
 | 301 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 0 | 505 |
 | 301 | [Old World](games/o/old_world.md) | 4.65 | 218 | 255 |
 | 301 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 0 | 505 |
-| 301 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,662 | 16 |
+| 301 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,668 | 16 |
 | 301 | [Tavern Master](games/t/tavern_master.md) | 4.65 | 0 | 505 |
 | 301 | [Tennis Manager 2022](games/t/tennis_manager_2022.md) | 4.65 | 0 | 505 |
 | 301 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.65 | 21 | 492 |
@@ -442,6 +442,7 @@
 | 440 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 0 | 505 |
 | 440 | [Among Us](games/a/among_us.md) | 4.57 | 2,527 | 95 |
 | 440 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.57 | 27 | 466 |
+| 440 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.57 | 22 | 485 |
 | 440 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 0 | 505 |
 | 440 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.57 | 212 | 263 |
 | 440 | [Hob](games/h/hob.md) | 4.57 | 0 | 505 |
@@ -456,28 +457,27 @@
 | 440 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 18,915 | 19 |
 | 440 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,754 | 114 |
 | 440 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.57 | 54 | 392 |
-| 457 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.56 | 0 | 505 |
-| 457 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 46 | 406 |
-| 457 | [Aztez](games/a/aztez.md) | 4.56 | 0 | 505 |
-| 457 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 50 | 398 |
-| 457 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.56 | 0 | 505 |
-| 457 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 800 | 151 |
-| 457 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.56 | 22 | 485 |
-| 457 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 35 | 434 |
-| 457 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 0 | 505 |
-| 457 | [Hue](games/h/hue.md) | 4.56 | 0 | 505 |
-| 457 | [Isonzo](games/i/isonzo.md) | 4.56 | 35 | 434 |
-| 457 | [IXION](games/i/ixion.md) | 4.56 | 0 | 505 |
-| 457 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.56 | 0 | 505 |
-| 457 | [Minit](games/m/minit.md) | 4.56 | 0 | 505 |
-| 457 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,745 | 68 |
-| 457 | [Observation](games/o/observation.md) | 4.56 | 0 | 505 |
-| 457 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,790 | 113 |
-| 457 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.56 | 0 | 505 |
-| 457 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.56 | 0 | 505 |
-| 457 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.56 | 0 | 505 |
-| 457 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.56 | 78 | 357 |
-| 457 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,146 | 75 |
+| 458 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.56 | 0 | 505 |
+| 458 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 46 | 406 |
+| 458 | [Aztez](games/a/aztez.md) | 4.56 | 0 | 505 |
+| 458 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 50 | 398 |
+| 458 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.56 | 0 | 505 |
+| 458 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 800 | 151 |
+| 458 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 35 | 434 |
+| 458 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 0 | 505 |
+| 458 | [Hue](games/h/hue.md) | 4.56 | 0 | 505 |
+| 458 | [Isonzo](games/i/isonzo.md) | 4.56 | 35 | 434 |
+| 458 | [IXION](games/i/ixion.md) | 4.56 | 0 | 505 |
+| 458 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.56 | 0 | 505 |
+| 458 | [Minit](games/m/minit.md) | 4.56 | 0 | 505 |
+| 458 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,745 | 68 |
+| 458 | [Observation](games/o/observation.md) | 4.56 | 0 | 505 |
+| 458 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,790 | 113 |
+| 458 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.56 | 0 | 505 |
+| 458 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.56 | 0 | 505 |
+| 458 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.56 | 0 | 505 |
+| 458 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.56 | 78 | 357 |
+| 458 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,151 | 75 |
 | 479 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.55 | 0 | 505 |
 | 479 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 505 |
 | 479 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 222 | 253 |

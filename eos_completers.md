@@ -129,8 +129,8 @@
 | 126 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
 | 128 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.48% |
 | 128 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.48% |
-| 130 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.47% |
-| 131 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
+| 130 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.46% |
+| 130 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
 | 132 | [Tchia](games/t/tchia.md) | 0.43% |
 | 133 | [Ghostrunner](games/g/ghostrunner.md) | 0.42% |
 | 133 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.42% |
