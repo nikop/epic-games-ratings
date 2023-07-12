@@ -133,9 +133,9 @@
 | 131 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
 | 132 | [Tchia](games/t/tchia.md) | 0.43% |
 | 133 | [Ghostrunner](games/g/ghostrunner.md) | 0.42% |
+| 133 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.42% |
 | 133 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.42% |
-| 135 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.41% |
-| 135 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
+| 136 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
 | 137 | [Wildermyth](games/w/wildermyth.md) | 0.38% |
 | 138 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 139 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.36% |
@@ -185,18 +185,18 @@
 | 183 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.10% |
 | 183 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
 | 183 | [House Flipper](games/h/house_flipper.md) | 0.10% |
+| 183 | [Outward Definitive Edition](games/o/outward.md) | 0.10% |
 | 183 | [Supraland](games/s/supraland.md) | 0.10% |
 | 183 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.10% |
-| 188 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
-| 188 | [Partisans 1941](games/p/partisans_1941.md) | 0.09% |
-| 188 | [Shop Titans](games/s/shop_titans.md) | 0.09% |
-| 188 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
-| 192 | [Riverbond](games/r/riverbond.md) | 0.08% |
-| 192 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
-| 194 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.07% |
-| 194 | [Outward Definitive Edition](games/o/outward.md) | 0.07% |
-| 194 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
-| 194 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
+| 189 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
+| 189 | [Partisans 1941](games/p/partisans_1941.md) | 0.09% |
+| 189 | [Shop Titans](games/s/shop_titans.md) | 0.09% |
+| 189 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
+| 193 | [Riverbond](games/r/riverbond.md) | 0.08% |
+| 193 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
+| 195 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.07% |
+| 195 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
+| 195 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
 | 198 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.06% |
 | 198 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
 | 198 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
