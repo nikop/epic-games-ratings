@@ -460,9 +460,9 @@
       "ID": "finished-quest-sci",
       "SetID": "799afm0",
       "Name": "Knowledge is Power",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 179
     },
     {
       "ID": "finished-quest-secret",
@@ -613,8 +613,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-07-13T18:03:33.8337943+00:00",
+  "LastChanged_Achievements": "2023-07-13T19:03:25.3178758+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:31.3205078+00:00",
-  "LastUpdate_Ratings": "2023-07-13T17:59:07.0254219+00:00",
-  "LastUpdate_Achievements": "2023-07-13T18:03:33.8338231+00:00"
+  "LastUpdate_Ratings": "2023-07-13T18:58:43.5270944+00:00",
+  "LastUpdate_Achievements": "2023-07-13T19:03:25.3179042+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "Indoor Kickball",
   "ProductSlug": "indoor-kickball-843529",
   "Ranking_EOS_Progress": 319,
-  "Ranking_EOS_Completed": 237,
+  "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
@@ -400,9 +400,9 @@
       "ID": "14",
       "SetID": "39djiaj",
       "Name": "Settle Down",
-      "Percentage": 72,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "15",
@@ -472,9 +472,9 @@
       "ID": "22",
       "SetID": "39djiaj",
       "Name": "Classroom Secret Spot",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "23",
@@ -672,9 +672,9 @@
       "ID": "9",
       "SetID": "39djiaj",
       "Name": "Just how we drew it up",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
@@ -687,8 +687,8 @@
   ],
   "FirstSeen": "2023-05-27T21:59:02.7354993+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:07.9162458+00:00",
-  "LastChanged_Achievements": "2023-07-13T18:06:53.5943685+00:00",
+  "LastChanged_Achievements": "2023-07-13T19:06:16.1053207+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:16.0821032+00:00",
-  "LastUpdate_Ratings": "2023-07-13T17:59:41.1775229+00:00",
-  "LastUpdate_Achievements": "2023-07-13T18:06:53.5944019+00:00"
+  "LastUpdate_Ratings": "2023-07-13T18:59:13.6322237+00:00",
+  "LastUpdate_Achievements": "2023-07-13T19:06:16.1053604+00:00"
 }

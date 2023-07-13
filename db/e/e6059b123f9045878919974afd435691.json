@@ -3,7 +3,7 @@
   "Name": "Chased by Darkness",
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 209,
-  "Ranking_EOS_Completed": 237,
+  "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 558,
+  "EOS_Progressed": 559,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1006,6 +1006,11 @@
       "Time": "2023-07-13T14:04:45.8829778+00:00",
       "NumProgressed": 558,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-13T19:04:18.3592483+00:00",
+      "NumProgressed": 559,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1089,7 +1094,7 @@
       "Name": "Capraphobia",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -1295,9 +1300,9 @@
       "ID": "KILLR_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Breaking Twigs",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 246
+      "UsersEstimate": 240
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -1329,7 +1334,7 @@
       "Name": "Do This In Silence",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_1",
@@ -1337,7 +1342,7 @@
       "Name": "And There We Go",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -1544,14 +1549,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 558,
+      "Progressed": 559,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-13T18:04:35.5435369+00:00",
+  "LastChanged_Achievements": "2023-07-13T19:04:18.3592479+00:00",
   "LastUpdate_AppInfo": "2023-07-13T13:57:00.6642341+00:00",
-  "LastUpdate_Ratings": "2023-07-13T17:57:00.1576573+00:00",
-  "LastUpdate_Achievements": "2023-07-13T18:04:35.5436138+00:00"
+  "LastUpdate_Ratings": "2023-07-13T18:56:54.9889208+00:00",
+  "LastUpdate_Achievements": "2023-07-13T19:04:18.3593212+00:00"
 }

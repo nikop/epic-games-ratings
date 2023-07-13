@@ -5,15 +5,15 @@ Rating: 3.93 (Ranked 925)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~50,938 |
-| First One’s Free | 65.00% | ~44,743 |
+| Downed but Not Outed | 74.00% | ~50,939 |
+| First One’s Free | 65.00% | ~44,744 |
 | Neophyte Ninja | 50.00% | ~34,418 |
-| Too Old for This | 47.00% | ~32,352 |
-| Fancy Pants | 35.00% | ~24,092 |
-| Case Closed | 34.00% | ~23,404 |
-| King of the Hill | 34.00% | ~23,404 |
-| Underworld Initiate | 29.00% | ~19,962 |
-| Roid Ranger | 21.00% | ~14,455 |
+| Too Old for This | 47.00% | ~32,353 |
+| Fancy Pants | 35.00% | ~24,093 |
+| Case Closed | 34.00% | ~23,405 |
+| King of the Hill | 34.00% | ~23,405 |
+| Underworld Initiate | 29.00% | ~19,963 |
+| Roid Ranger | 21.00% | ~14,456 |
 | True Player | 19.00% | ~13,079 |
 | Off the Rocks | 19.00% | ~13,079 |
 | Dragonslayer | 17.00% | ~11,702 |
@@ -26,7 +26,7 @@ Rating: 3.93 (Ranked 925)
 | I Like Trains | 8.00% | ~5,507 |
 | Headhunter | 8.00% | ~5,507 |
 | Ding Dong | 8.00% | ~5,507 |
-| Foo Finder | 7.00% | ~4,818 |
+| Foo Finder | 7.00% | ~4,819 |
 | Legend Looter | 5.00% | ~3,442 |
 | Savvy Seeker | 5.00% | ~3,442 |
 | Imports and Exports | 4.00% | ~2,753 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 925)
 | Geek Out | 0.50% | ~344 |
 | Full House | 0.20% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,835 (Ranked 74)  
+Progressed: 68,837 (Ranked 74)  
 Completed: 36 (0.05%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,15 +127,15 @@ Completed: 36 (0.05%) (Ranked 201)
 | 2023-07-10 | 68,703 | 36 |
 | 2023-07-11 | 68,751 | 36 |
 | 2023-07-12 | 68,791 | 36 |
-| 2023-07-13 | 68,835 | 36 |
+| 2023-07-13 | 68,837 | 36 |
 ## Awards
 Max (Diverse Characters): 361  (Ranked 220)  
-Sum: 1,718 (Ranked 206)  
+Sum: 1,719 (Ranked 206)  
 Diff (max vs sum): 14  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 361 |
-| This game is Highly Recommended | 351 |
+| This game is Highly Recommended | 352 |
 | This game has Quickly Understood Controls | 343 |
 | This game has Challenging Combat | 336 |
 | This game has Amazing Characters | 327 |
@@ -249,4 +249,4 @@ Diff (max vs sum): 14
 | 2023-07-09 | 3.93 | 359 | 1,705 |
 | 2023-07-10 | 3.93 | 359 | 1,710 |
 | 2023-07-12 | 3.93 | 361 | 1,714 |
-| 2023-07-13 | 3.93 | 361 | 1,718 |
+| 2023-07-13 | 3.93 | 361 | 1,719 |

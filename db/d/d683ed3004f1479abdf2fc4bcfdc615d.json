@@ -3,7 +3,7 @@
   "Name": "Eigengrau",
   "ProductSlug": "eigengrau-62aef0",
   "Ranking_EOS_Progress": 439,
-  "Ranking_EOS_Completed": 237,
+  "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
@@ -545,8 +545,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-17T23:00:57.8989714+00:00",
-  "LastChanged_Achievements": "2023-07-13T18:05:00.1381868+00:00",
+  "LastChanged_Achievements": "2023-07-13T19:04:39.8570968+00:00",
   "LastUpdate_AppInfo": "2023-07-08T23:57:01.9614103+00:00",
-  "LastUpdate_Ratings": "2023-07-13T17:57:06.2204375+00:00",
-  "LastUpdate_Achievements": "2023-07-13T18:05:00.1382538+00:00"
+  "LastUpdate_Ratings": "2023-07-13T18:56:59.0957313+00:00",
+  "LastUpdate_Achievements": "2023-07-13T19:04:39.8571541+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 43,
-  "Ranking_EOS_Completed": 237,
+  "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 246500,
+  "EOS_Progressed": 246503,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 374,
+  "EOS_NewPlayers": 377,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8204,6 +8204,11 @@
       "Time": "2023-07-13T18:06:54.6942631+00:00",
       "NumProgressed": 246500,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-13T19:06:17.1529927+00:00",
+      "NumProgressed": 246503,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -8239,7 +8244,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 51765
+      "UsersEstimate": 51766
     },
     {
       "ID": "blotbuster",
@@ -8271,7 +8276,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 41905
+      "UsersEstimate": 41906
     },
     {
       "ID": "cantBeKeptDown",
@@ -8279,7 +8284,7 @@
       "Name": "Can\u0027t Be Kept Down",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "chanTastic",
@@ -8295,7 +8300,7 @@
       "Name": "Clear-Cut",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1232
+      "UsersEstimate": 1233
     },
     {
       "ID": "completionist",
@@ -8303,7 +8308,7 @@
       "Name": "Completionist",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "crowningAround",
@@ -8311,7 +8316,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 44370
+      "UsersEstimate": 44371
     },
     {
       "ID": "curator",
@@ -8319,7 +8324,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 49300
+      "UsersEstimate": 49301
     },
     {
       "ID": "didYourTime",
@@ -8327,7 +8332,7 @@
       "Name": "Did Your Time",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "disposable",
@@ -8351,7 +8356,7 @@
       "Name": "Hanging 10",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "hardToStomach",
@@ -8359,7 +8364,7 @@
       "Name": "Hard To Stomach",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "heWhoLaughsLast",
@@ -8391,7 +8396,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 130645
+      "UsersEstimate": 130647
     },
     {
       "ID": "indegestible",
@@ -8399,7 +8404,7 @@
       "Name": "Indegestible",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "intoTheDrift",
@@ -8415,7 +8420,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 64090
+      "UsersEstimate": 64091
     },
     {
       "ID": "justABit",
@@ -8439,7 +8444,7 @@
       "Name": "Lockup Lockdown",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "muddyWaters",
@@ -8455,7 +8460,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 123250
+      "UsersEstimate": 123252
     },
     {
       "ID": "notScared",
@@ -8463,7 +8468,7 @@
       "Name": "Not Scared",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "perfectDarkness",
@@ -8471,7 +8476,7 @@
       "Name": "Perfect Darkness",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "pleaseTheKing",
@@ -8511,7 +8516,7 @@
       "Name": "Talent Scout",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "theStunner",
@@ -8519,7 +8524,7 @@
       "Name": "The Stunner",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 51765
+      "UsersEstimate": 51766
     },
     {
       "ID": "thunderstruck",
@@ -8551,7 +8556,7 @@
       "Name": "True Completionist",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "tubularDude",
@@ -8582,7 +8587,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 246500,
+      "Progressed": 246503,
       "Completed": 3
     }
   ],
@@ -8590,8 +8595,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-07-13T18:06:54.6942625+00:00",
+  "LastChanged_Achievements": "2023-07-13T19:06:17.1529922+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:16.5016071+00:00",
-  "LastUpdate_Ratings": "2023-07-13T17:59:40.2479175+00:00",
-  "LastUpdate_Achievements": "2023-07-13T18:06:54.6943489+00:00"
+  "LastUpdate_Ratings": "2023-07-13T18:59:12.6182806+00:00",
+  "LastUpdate_Achievements": "2023-07-13T19:06:17.1530841+00:00"
 }

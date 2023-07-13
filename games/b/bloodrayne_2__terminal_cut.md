@@ -20,7 +20,7 @@
 | Pound of Flesh | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 8 (Ranked 409)  
-Completed: 0 (0.00%) (Ranked 237)  
+Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

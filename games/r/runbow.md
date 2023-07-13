@@ -5,14 +5,14 @@ Rating: 4.46 (Ranked 608)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~130,645 |
-| My First Runbow | 50.00% | ~123,250 |
-| It's The Fall | 26.00% | ~64,090 |
-| Be Aggressive | 21.00% | ~51,765 |
-| The Stunner | 21.00% | ~51,765 |
-| Curator | 20.00% | ~49,300 |
-| Crowning Around | 18.00% | ~44,370 |
-| Can You Dig It? | 17.00% | ~41,905 |
+| In The Zone | 53.00% | ~130,647 |
+| My First Runbow | 50.00% | ~123,252 |
+| It's The Fall | 26.00% | ~64,091 |
+| Be Aggressive | 21.00% | ~51,766 |
+| The Stunner | 21.00% | ~51,766 |
+| Curator | 20.00% | ~49,301 |
+| Crowning Around | 18.00% | ~44,371 |
+| Can You Dig It? | 17.00% | ~41,906 |
 | You Juan-A-Go? | 16.00% | ~39,440 |
 | Chan-tastic | 15.00% | ~36,975 |
 | Muddy Waters | 14.00% | ~34,510 |
@@ -32,7 +32,7 @@ Rating: 4.46 (Ranked 608)
 | What A Trip | 0.90% | ~2,219 |
 | Here We Go! | 0.80% | ~1,972 |
 | Please The King | 0.80% | ~1,972 |
-| Clear-Cut | 0.50% | ~1,232 |
+| Clear-Cut | 0.50% | ~1,233 |
 | Breaking Out | 0.40% | ~986 |
 | Disposable | 0.40% | ~986 |
 | A Winner Is You | 0.20% | ~493 |
@@ -40,20 +40,20 @@ Rating: 4.46 (Ranked 608)
 | I'm Here All Night | 0.20% | ~493 |
 | Ride The Wave | 0.20% | ~493 |
 | Tree Medalist | 0.20% | ~493 |
-| Can't Be Kept Down | 0.10% | ~246 |
-| Completionist | 0.10% | ~246 |
-| Did Your Time | 0.10% | ~246 |
-| Hanging 10 | 0.10% | ~246 |
-| Hard To Stomach | 0.10% | ~246 |
-| Indegestible | 0.10% | ~246 |
-| Lockup Lockdown | 0.10% | ~246 |
-| Not Scared | 0.10% | ~246 |
-| Perfect Darkness | 0.10% | ~246 |
-| Talent Scout | 0.10% | ~246 |
-| True Completionist | 0.10% | ~246 |
+| Can't Be Kept Down | 0.10% | ~247 |
+| Completionist | 0.10% | ~247 |
+| Did Your Time | 0.10% | ~247 |
+| Hanging 10 | 0.10% | ~247 |
+| Hard To Stomach | 0.10% | ~247 |
+| Indegestible | 0.10% | ~247 |
+| Lockup Lockdown | 0.10% | ~247 |
+| Not Scared | 0.10% | ~247 |
+| Perfect Darkness | 0.10% | ~247 |
+| Talent Scout | 0.10% | ~247 |
+| True Completionist | 0.10% | ~247 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246,500 (Ranked 43)  
-Completed: 3 (0.00%) (Ranked 237)  
+Progressed: 246,503 (Ranked 43)  
+Completed: 3 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -136,7 +136,7 @@ Completed: 3 (0.00%) (Ranked 237)
 | 2023-07-10 | 246,372 | 3 |
 | 2023-07-11 | 246,425 | 3 |
 | 2023-07-12 | 246,467 | 3 |
-| 2023-07-13 | 246,500 | 3 |
+| 2023-07-13 | 246,503 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

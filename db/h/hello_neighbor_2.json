@@ -354,9 +354,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2575,
+  "EOS_Progressed": 2576,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.88,
   "EosHistory": [
@@ -1874,6 +1874,11 @@
       "Time": "2023-07-13T17:04:36.9556614+00:00",
       "NumProgressed": 2575,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-07-13T19:04:20.155534+00:00",
+      "NumProgressed": 2576,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 14,
@@ -1981,7 +1986,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 30,
       "XP": 80,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -1989,14 +1994,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 75,
       "XP": 35,
-      "UsersEstimate": 1931
+      "UsersEstimate": 1932
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2575,
+      "Progressed": 2576,
       "Completed": 100
     }
   ],
@@ -2004,8 +2009,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-07-02T20:01:16.6679969+00:00",
-  "LastChanged_Achievements": "2023-07-13T18:04:37.6728199+00:00",
+  "LastChanged_Achievements": "2023-07-13T19:04:20.1555336+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:49.0605246+00:00",
-  "LastUpdate_Ratings": "2023-07-13T18:00:54.6391542+00:00",
-  "LastUpdate_Achievements": "2023-07-13T18:04:37.6728412+00:00"
+  "LastUpdate_Ratings": "2023-07-13T19:00:18.3649715+00:00",
+  "LastUpdate_Achievements": "2023-07-13T19:04:20.155556+00:00"
 }

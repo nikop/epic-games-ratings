@@ -7,7 +7,7 @@
 | Hat Unlocked | 84.00% | ~64 |
 | Accessory Unlocked | 84.00% | ~64 |
 | Character Unlocked | 83.00% | ~63 |
-| Settle Down | 72.00% | ~55 |
+| Settle Down | 74.00% | ~56 |
 | Homer | 71.00% | ~54 |
 | Butter Fingers | 71.00% | ~54 |
 | Kickball Unlocked | 70.00% | ~53 |
@@ -20,15 +20,15 @@
 | Grand Slam! | 26.00% | ~20 |
 | Spooky | 26.00% | ~20 |
 | Have Mercy | 25.00% | ~19 |
-| Classroom Secret Spot | 22.00% | ~17 |
+| Classroom Secret Spot | 24.00% | ~18 |
 | Save some water for the fishies | 22.00% | ~17 |
 | Bathroom Secret Spot | 21.00% | ~16 |
 | Angry Dad | 21.00% | ~16 |
 | At least everyone still had fun | 21.00% | ~16 |
 | Living Room Secret Spot | 17.00% | ~13 |
 | Hi Hungry, I'm Dad | 14.00% | ~11 |
+| Just how we drew it up | 12.00% | ~9 |
 | Angry Mom | 11.00% | ~8 |
-| Just how we drew it up | 11.00% | ~8 |
 | Interference | 9.00% | ~7 |
 | Kitchen Secret Spot | 5.00% | ~4 |
 | Found the Secret Formula! | 5.00% | ~4 |
@@ -46,7 +46,7 @@
 | He's heating Up! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 76 (Ranked 319)  
-Completed: 0 (0.00%) (Ranked 237)  
+Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

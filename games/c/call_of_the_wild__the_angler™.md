@@ -6,24 +6,24 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 76.00% | ~3,527 |
-| Hey Good Hookin | 66.00% | ~3,063 |
-| I'm on a Boat! | 57.00% | ~2,645 |
-| Can you smell what the Rod is Hooking | 50.00% | ~2,320 |
-| Scaling up | 50.00% | ~2,320 |
-| Ready to Rod and Roll | 42.00% | ~1,949 |
+| Fish Just Got Reel | 76.00% | ~3,528 |
+| Hey Good Hookin | 66.00% | ~3,064 |
+| I'm on a Boat! | 57.00% | ~2,646 |
+| Can you smell what the Rod is Hooking | 50.00% | ~2,321 |
+| Scaling up | 50.00% | ~2,321 |
+| Ready to Rod and Roll | 42.00% | ~1,950 |
 | More Fish in the Sea | 41.00% | ~1,903 |
 | License to Gill | 33.00% | ~1,532 |
 | Fish Out of Water | 32.00% | ~1,485 |
 | Things that go Splash in the Night | 27.00% | ~1,253 |
 | Goldfish? | 27.00% | ~1,253 |
 | Going for Gold | 24.00% | ~1,114 |
-| I'm Hooked! | 18.00% | ~835 |
+| I'm Hooked! | 18.00% | ~836 |
 | More than a Tourist | 12.00% | ~557 |
 | Diamond in the Rough | 12.00% | ~557 |
 | Hook, Line and Sinker | 8.00% | ~371 |
 | Marathon | 8.00% | ~371 |
-| Big Fish Small Pond | 6.00% | ~278 |
+| Big Fish Small Pond | 6.00% | ~279 |
 | I'm the Captain Now | 5.00% | ~232 |
 | School's Out for Summer | 4.00% | ~186 |
 | Gonna Need a Bigger Boat | 3.00% | ~139 |
@@ -42,8 +42,8 @@ Number of Ratings: 281  (23.09.2022)
 | No Fin left to give | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,641 (Ranked 137)  
-Completed: 0 (0.00%) (Ranked 237)  
+Progressed: 4,642 (Ranked 137)  
+Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -126,7 +126,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-10 | 4,625 | 0 |
 | 2023-07-11 | 4,631 | 0 |
 | 2023-07-12 | 4,636 | 0 |
-| 2023-07-13 | 4,641 | 0 |
+| 2023-07-13 | 4,642 | 0 |
 ## Awards
 Max (Relaxing): 32  (Ranked 447)  
 Sum: 158 (Ranked 387)  

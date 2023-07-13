@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 40,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -1303,9 +1303,9 @@
       "Count": 244
     }
   ],
-  "EOS_Progressed": 185295,
+  "EOS_Progressed": 185307,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 1699,
+  "EOS_NewPlayers": 1697,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -10438,6 +10438,11 @@
       "Time": "2023-07-13T18:06:57.4359169+00:00",
       "NumProgressed": 185295,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-07-13T19:06:19.4766485+00:00",
+      "NumProgressed": 185307,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 44,
@@ -10449,7 +10454,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 14824
+      "UsersEstimate": 14825
     },
     {
       "ID": "AtheistOx",
@@ -10521,7 +10526,7 @@
       "Name": "Genin",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 20382
+      "UsersEstimate": 20384
     },
     {
       "ID": "HappyLittleAccidents",
@@ -10705,7 +10710,7 @@
       "Name": "Tanuki Time",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 14824
+      "UsersEstimate": 14825
     },
     {
       "ID": "TheCave",
@@ -10737,7 +10742,7 @@
       "Name": "Thorough",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 16677
+      "UsersEstimate": 16678
     },
     {
       "ID": "TimeParadox",
@@ -10745,7 +10750,7 @@
       "Name": "Time Paradox",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "UndeservedHonor",
@@ -10800,15 +10805,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 185295,
+      "Progressed": 185307,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-07-13T05:59:49.2970566+00:00",
-  "LastChanged_Achievements": "2023-07-13T18:06:57.4359164+00:00",
+  "LastChanged_Achievements": "2023-07-13T19:06:19.476648+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:08.4389574+00:00",
-  "LastUpdate_Ratings": "2023-07-13T17:59:33.6190648+00:00",
-  "LastUpdate_Achievements": "2023-07-13T18:06:57.436011+00:00"
+  "LastUpdate_Ratings": "2023-07-13T18:59:06.3710894+00:00",
+  "LastUpdate_Achievements": "2023-07-13T19:06:19.4767494+00:00"
 }
