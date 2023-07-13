@@ -20,7 +20,7 @@
 | 18 | [Remains](games/r/remains.md) | 11.90% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.22% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.38% |
+| 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.34% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
 | 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.44% |
@@ -56,7 +56,7 @@
 | 54 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.30% |
 | 55 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.08% |
 | 55 | [The Complex](games/t/the_complex.md) | 3.08% |
-| 57 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.05% |
+| 57 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.04% |
 | 58 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 58 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 60 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 2.92% |
