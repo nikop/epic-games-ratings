@@ -3,10 +3,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Calm before the Storm | 6.00% | ~1 |
+| Shardbearer | 6.00% | ~1 |
 | Break Out | 0.00% | ~0 |
 | Find Allies | 0.00% | ~0 |
 | Powerful Allies | 0.00% | ~0 |
-| Calm before the Storm | 0.00% | ~0 |
 | To Battle | 0.00% | ~0 |
 | Godslayer | 0.00% | ~0 |
 | Clear Sight | 0.00% | ~0 |
@@ -14,7 +15,6 @@
 | The Mentor | 0.00% | ~0 |
 | Trinity | 0.00% | ~0 |
 | Forgemaster | 0.00% | ~0 |
-| Shardbearer | 0.00% | ~0 |
 | Adventurer | 0.00% | ~0 |
 | Airborne | 0.00% | ~0 |
 | Tributes of Caladrias | 0.00% | ~0 |

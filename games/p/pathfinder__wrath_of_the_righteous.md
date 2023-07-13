@@ -12,7 +12,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Defender's Heart | 12.00% | ~1,234 |
 | Banner over the Citadel | 11.00% | ~1,131 |
 | Mythic Choices | 11.00% | ~1,131 |
-| Queen's Gratitude | 9.00% | ~925 |
+| Queen's Gratitude | 9.00% | ~926 |
 | Fifth Crusade | 6.00% | ~617 |
 | Embrace of the Abyss | 5.00% | ~514 |
 | Path of the Angel | 5.00% | ~514 |
@@ -22,14 +22,14 @@ Number of Ratings: 1,354  (23.09.2022)
 | Great Upstart | 4.00% | ~411 |
 | Voice from Your Dreams | 4.00% | ~411 |
 | All Paths Open | 4.00% | ~411 |
-| Heart of the Fallen Land | 3.00% | ~308 |
-| The Legacy | 3.00% | ~308 |
-| Divide and Rule | 3.00% | ~308 |
-| Mythic Reinforcements | 3.00% | ~308 |
-| A Flame | 3.00% | ~308 |
-| Hey, I Know You! | 3.00% | ~308 |
-| Next-Door Play | 3.00% | ~308 |
-| Get the Toad | 3.00% | ~308 |
+| Heart of the Fallen Land | 3.00% | ~309 |
+| The Legacy | 3.00% | ~309 |
+| Divide and Rule | 3.00% | ~309 |
+| Mythic Reinforcements | 3.00% | ~309 |
+| A Flame | 3.00% | ~309 |
+| Hey, I Know You! | 3.00% | ~309 |
+| Next-Door Play | 3.00% | ~309 |
+| Get the Toad | 3.00% | ~309 |
 | Beware Still Water | 3.00% | ~272 |
 | Path of the Trickster | 2.00% | ~206 |
 | Path of the Lich | 2.00% | ~206 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,283 (Ranked 116)  
+Progressed: 10,284 (Ranked 116)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-10 | 10,256 | 0 |
 | 2023-07-11 | 10,271 | 0 |
 | 2023-07-12 | 10,279 | 0 |
-| 2023-07-13 | 10,283 | 0 |
+| 2023-07-13 | 10,284 | 0 |
 ## Awards
 Max (Character Customization): 1,677  (Ranked 117)  
 Sum: 6,810 (Ranked 112)  

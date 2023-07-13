@@ -10,18 +10,18 @@ Rating: 4.18 (Ranked 855)
 | Har, Har, Har, Very Funny | 4.00% | ~2,678 |
 | Knighthood | 4.00% | ~2,678 |
 | Loose Ends | 4.00% | ~2,678 |
-| The Batman Family | 3.00% | ~2,008 |
-| Something in the Clay | 3.00% | ~2,008 |
-| The Show Mud Go On | 3.00% | ~2,008 |
-| Quartzer Life Crisis | 3.00% | ~2,008 |
-| Snow Problem | 3.00% | ~2,008 |
-| Get ReQ'd | 3.00% | ~2,008 |
-| Working Hard or Harley Working? | 3.00% | ~2,008 |
-| Unstoppable Force | 3.00% | ~2,008 |
-| Whispered Words | 3.00% | ~2,008 |
-| Lock and Key | 3.00% | ~2,008 |
-| Bad Apples in Every Orchard | 3.00% | ~2,008 |
-| From Inside Gotham's Walls | 3.00% | ~2,008 |
+| The Batman Family | 3.00% | ~2,009 |
+| Something in the Clay | 3.00% | ~2,009 |
+| The Show Mud Go On | 3.00% | ~2,009 |
+| Quartzer Life Crisis | 3.00% | ~2,009 |
+| Snow Problem | 3.00% | ~2,009 |
+| Get ReQ'd | 3.00% | ~2,009 |
+| Working Hard or Harley Working? | 3.00% | ~2,009 |
+| Unstoppable Force | 3.00% | ~2,009 |
+| Whispered Words | 3.00% | ~2,009 |
+| Lock and Key | 3.00% | ~2,009 |
+| Bad Apples in Every Orchard | 3.00% | ~2,009 |
+| From Inside Gotham's Walls | 3.00% | ~2,009 |
 | End of an Era | 2.00% | ~1,339 |
 | In Your Element | 2.00% | ~1,339 |
 | Protector of Gotham | 2.00% | ~1,339 |
@@ -35,11 +35,11 @@ Rating: 4.18 (Ranked 855)
 | Seeking Asylum | 2.00% | ~1,339 |
 | Gotham Knight | 2.00% | ~1,339 |
 | Gotham City Confidential | 2.00% | ~1,339 |
-| Fusion Expert | 1.00% | ~669 |
-| Out of Their League | 1.00% | ~669 |
-| Family Meeting | 1.00% | ~669 |
-| Drone You Out | 1.00% | ~669 |
-| Solid Alibi | 1.00% | ~669 |
+| Fusion Expert | 1.00% | ~670 |
+| Out of Their League | 1.00% | ~670 |
+| Family Meeting | 1.00% | ~670 |
+| Drone You Out | 1.00% | ~670 |
+| Solid Alibi | 1.00% | ~670 |
 | Expert Crime Fighter | 0.90% | ~603 |
 | A Worthy Successor | 0.90% | ~603 |
 | Dressed to Impress | 0.70% | ~469 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 855)
 | History Major | 0.10% | ~67 |
 | Confronting Your Demon | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,949 (Ranked 75)  
+Progressed: 66,955 (Ranked 75)  
 Completed: 102 (0.15%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,17 +151,17 @@ Completed: 102 (0.15%) (Ranked 172)
 | 2023-07-10 | 66,839 | 101 |
 | 2023-07-11 | 66,886 | 101 |
 | 2023-07-12 | 66,929 | 102 |
-| 2023-07-13 | 66,949 | 102 |
+| 2023-07-13 | 66,955 | 102 |
 ## Awards
 Max (Great Boss Battles): 2,442  (Ranked 100)  
-Sum: 4,039 (Ranked 137)  
+Sum: 4,041 (Ranked 137)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,442 |
 | This game has Quickly Understood Controls | 207 |
+| This game is Extremely Fun | 207 |
 | This game is Relaxing | 206 |
-| This game is Extremely Fun | 205 |
 | This game has Amazing Characters | 199 |
 | This game has Diverse Characters | 199 |
 | This game is Great for Beginners | 194 |
@@ -313,3 +313,4 @@ Diff (max vs sum): -37
 | 2023-07-10 | 4.18 | 2,434 | 4,028 |
 | 2023-07-11 | 4.18 | 2,441 | 4,035 |
 | 2023-07-12 | 4.18 | 2,442 | 4,039 |
+| 2023-07-13 | 4.18 | 2,442 | 4,041 |

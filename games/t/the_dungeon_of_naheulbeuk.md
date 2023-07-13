@@ -6,45 +6,45 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 58.00% | ~105,351 |
-| Where's that freaking Dwarf? | 46.00% | ~83,554 |
-| GG EZ | 27.00% | ~49,043 |
-| Speedrun | 26.00% | ~47,226 |
-| Déjà vu | 20.00% | ~36,328 |
-| Sock! SOCK! | 15.00% | ~27,246 |
-| DM intervention | 12.00% | ~21,797 |
-| Fireproof Wizardess | 8.00% | ~14,531 |
-| A beer, two curses, three companions | 7.00% | ~12,715 |
-| Way of the Wimp | 6.00% | ~10,898 |
-| Livin' in a dwarven paradise | 5.00% | ~9,082 |
-| The plot thickens... At the tavern | 4.00% | ~7,266 |
-| The Woman in the High Castle | 3.00% | ~5,449 |
-| Team Building Exercise | 3.00% | ~5,449 |
-| Shiny and Crôm | 2.00% | ~3,633 |
-| The demons' feast | 2.00% | ~3,633 |
-| Res Judicata | 2.00% | ~3,633 |
-| I am the night | 2.00% | ~3,633 |
-| Oh, when I'll be level 10... | 2.00% | ~3,633 |
-| The Great Library | 1.00% | ~1,816 |
-| Torture and Sensibility | 1.00% | ~1,816 |
-| Dwarf Fortress | 1.00% | ~1,816 |
-| The Ranger of Chaos | 1.00% | ~1,816 |
-| Thieves' Guild Accreditation | 1.00% | ~1,816 |
-| The beards of change | 0.90% | ~1,635 |
+| Alt+F4 | 58.00% | ~105,387 |
+| Where's that freaking Dwarf? | 46.00% | ~83,582 |
+| GG EZ | 27.00% | ~49,059 |
+| Speedrun | 26.00% | ~47,242 |
+| Déjà vu | 20.00% | ~36,340 |
+| Sock! SOCK! | 15.00% | ~27,255 |
+| DM intervention | 12.00% | ~21,804 |
+| Fireproof Wizardess | 8.00% | ~14,536 |
+| A beer, two curses, three companions | 7.00% | ~12,719 |
+| Way of the Wimp | 6.00% | ~10,902 |
+| Livin' in a dwarven paradise | 5.00% | ~9,085 |
+| The plot thickens... At the tavern | 4.00% | ~7,268 |
+| The Woman in the High Castle | 3.00% | ~5,451 |
+| Team Building Exercise | 3.00% | ~5,451 |
+| Shiny and Crôm | 2.00% | ~3,634 |
+| The demons' feast | 2.00% | ~3,634 |
+| Res Judicata | 2.00% | ~3,634 |
+| I am the night | 2.00% | ~3,634 |
+| Oh, when I'll be level 10... | 2.00% | ~3,634 |
+| The Great Library | 1.00% | ~1,817 |
+| Torture and Sensibility | 1.00% | ~1,817 |
+| Dwarf Fortress | 1.00% | ~1,817 |
+| The beards of change | 1.00% | ~1,817 |
+| The Ranger of Chaos | 1.00% | ~1,817 |
+| Thieves' Guild Accreditation | 1.00% | ~1,817 |
+| Material Girl | 1.00% | ~1,817 |
+| Gargantua | 0.90% | ~1,635 |
 | Lust and Debauchery | 0.90% | ~1,635 |
-| Material Girl | 0.90% | ~1,635 |
-| Look but don't touch | 0.80% | ~1,453 |
-| Gargantua | 0.80% | ~1,453 |
-| In Navalu's footsteps | 0.80% | ~1,453 |
-| Urik's Depths | 0.70% | ~1,271 |
+| Look but don't touch | 0.80% | ~1,454 |
+| In Navalu's footsteps | 0.80% | ~1,454 |
+| Urik's Depths | 0.70% | ~1,272 |
 | The Statuette of Gladeulfeurah | 0.60% | ~1,090 |
 | A tale of adventurers not quite like the others... | 0.60% | ~1,090 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.60% | ~1,090 |
 | It's been a hard day's night | 0.60% | ~1,090 |
 | Lëgal Legend | 0.60% | ~1,090 |
-| I'd rather... Just... Sing! | 0.50% | ~908 |
-| Dead for good | 0.50% | ~908 |
-| Law and Order | 0.50% | ~908 |
+| I'd rather... Just... Sing! | 0.50% | ~909 |
+| Dead for good | 0.50% | ~909 |
+| Law and Order | 0.50% | ~909 |
 | The Dungeon Master | 0.40% | ~727 |
 | The number of the counting shalt be 7 | 0.40% | ~727 |
 | The Famous Dungeon of Naheulbeuk | 0.40% | ~727 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 181,640 (Ranked 58)  
+Progressed: 181,701 (Ranked 58)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-10 | 177,355 | 0 |
 | 2023-07-11 | 179,429 | 0 |
 | 2023-07-12 | 181,126 | 0 |
-| 2023-07-13 | 181,640 | 0 |
+| 2023-07-13 | 181,701 | 0 |
 ## Awards
 Max (Character Customization): 95  (Ranked 337)  
 Sum: 95 (Ranked 411)  

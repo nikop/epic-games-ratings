@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 112,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -654,9 +654,9 @@
       "ID": "ach_lotsokills",
       "SetID": "5a4225j",
       "Name": "Lots o\u0027 Kills",
-      "Percentage": 0,
+      "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_pacifist",
@@ -732,8 +732,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-02T21:05:45.273905+00:00",
-  "LastChanged_Achievements": "2023-07-13T10:03:58.3769998+00:00",
+  "LastChanged_Achievements": "2023-07-13T11:04:22.6599989+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:19.1257474+00:00",
-  "LastUpdate_Ratings": "2023-07-13T09:57:17.3795634+00:00",
-  "LastUpdate_Achievements": "2023-07-13T10:03:58.3770212+00:00"
+  "LastUpdate_Ratings": "2023-07-13T10:57:36.7411132+00:00",
+  "LastUpdate_Achievements": "2023-07-13T11:04:22.6600268+00:00"
 }

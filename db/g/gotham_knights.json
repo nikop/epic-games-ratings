@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1938,10 +1938,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4039,
       "NumberOfAwardsMax": 2442
+    },
+    {
+      "Time": "2023-07-13T11:00:03.3597252+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4041,
+      "NumberOfAwardsMax": 2442
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4039,
+  "NumberOfAwards": 4041,
   "NumberOfAwardsMax": 2442,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1991,7 +1997,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 205
+      "Count": 207
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2006,9 +2012,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 66949,
+  "EOS_Progressed": 66955,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 417,
+  "EOS_NewPlayers": 422,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -9626,6 +9632,11 @@
       "Time": "2023-07-13T09:04:11.7025673+00:00",
       "NumProgressed": 66949,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-07-13T11:03:59.9263752+00:00",
+      "NumProgressed": 66955,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 61,
@@ -9685,7 +9696,7 @@
       "Name": "The Batman Family",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2008
+      "UsersEstimate": 2009
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -9741,7 +9752,7 @@
       "Name": "Something in the Clay",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2008
+      "UsersEstimate": 2009
     },
     {
       "ID": "CLAYFACE_2",
@@ -9749,7 +9760,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2008
+      "UsersEstimate": 2009
     },
     {
       "ID": "CLAYFACE_3",
@@ -9781,7 +9792,7 @@
       "Name": "Fusion Expert",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -9821,7 +9832,7 @@
       "Name": "Out of Their League",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -9837,7 +9848,7 @@
       "Name": "Family Meeting",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -9853,7 +9864,7 @@
       "Name": "Drone You Out",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "FREEZE_1",
@@ -9869,7 +9880,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2008
+      "UsersEstimate": 2009
     },
     {
       "ID": "FREEZE_2",
@@ -9877,7 +9888,7 @@
       "Name": "Snow Problem",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2008
+      "UsersEstimate": 2009
     },
     {
       "ID": "FREEZE_3",
@@ -9949,7 +9960,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2008
+      "UsersEstimate": 2009
     },
     {
       "ID": "HARLEY_3",
@@ -9957,7 +9968,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2008
+      "UsersEstimate": 2009
     },
     {
       "ID": "HARLEY_4",
@@ -10005,7 +10016,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2008
+      "UsersEstimate": 2009
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -10037,7 +10048,7 @@
       "Name": "Whispered Words",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2008
+      "UsersEstimate": 2009
     },
     {
       "ID": "MYSTERY_03",
@@ -10045,7 +10056,7 @@
       "Name": "Lock and Key",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2008
+      "UsersEstimate": 2009
     },
     {
       "ID": "MYSTERY_04",
@@ -10053,7 +10064,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2008
+      "UsersEstimate": 2009
     },
     {
       "ID": "MYSTERY_05",
@@ -10061,7 +10072,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2008
+      "UsersEstimate": 2009
     },
     {
       "ID": "MYSTERY_06",
@@ -10101,7 +10112,7 @@
       "Name": "Solid Alibi",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -10124,22 +10135,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 66949,
+      "Progressed": 66955,
       "Completed": 102
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 37229,
+      "Progressed": 37235,
       "Completed": 2652
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-07-12T23:01:07.621023+00:00",
-  "LastChanged_Achievements": "2023-07-13T10:03:35.0235085+00:00",
+  "LastChanged": "2023-07-13T11:00:03.359725+00:00",
+  "LastChanged_Achievements": "2023-07-13T11:03:59.9263744+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:06.0757808+00:00",
-  "LastUpdate_Ratings": "2023-07-13T09:59:48.8114697+00:00",
-  "LastUpdate_Achievements": "2023-07-13T10:03:35.0236269+00:00"
+  "LastUpdate_Ratings": "2023-07-13T11:00:03.3597261+00:00",
+  "LastUpdate_Achievements": "2023-07-13T11:03:59.926555+00:00"
 }
