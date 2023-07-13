@@ -25,11 +25,11 @@ Rating: 4.54 (Ranked 490)
 | Point A to Point B | 3.00% | ~268 |
 | High Quality H2O | 3.00% | ~268 |
 | Bull in a China Shop | 3.00% | ~268 |
+| Somebody Call the Wambulance? | 3.00% | ~268 |
 | Just Like the Real Thing | 3.00% | ~268 |
 | Don't Need Roads | 3.00% | ~268 |
 | Running Rampant | 2.00% | ~179 |
 | One is Better Than Two | 2.00% | ~179 |
-| Somebody Call the Wambulance? | 2.00% | ~179 |
 | Take the Cannoli | 2.00% | ~179 |
 | City Sleuth | 2.00% | ~179 |
 | Daredevil | 1.00% | ~89 |

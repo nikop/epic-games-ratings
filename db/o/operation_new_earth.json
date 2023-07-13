@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 419,
+  "EOS_Progressed": 420,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
@@ -1456,6 +1456,11 @@
       "Time": "2023-07-13T05:04:41.5015515+00:00",
       "NumProgressed": 419,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-13T07:05:36.8238783+00:00",
+      "NumProgressed": 420,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1481,9 +1486,9 @@
       "ID": "ach_defeat_players_10",
       "SetID": "bm61c2p",
       "Name": "Fighting for Survival",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 42
     },
     {
       "ID": "ach_defeat_players_100",
@@ -1641,9 +1646,9 @@
       "ID": "objective_key_alliance_join_1",
       "SetID": "bm61c2p",
       "Name": "It\u0027s Good to have Allies",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 176
+      "UsersEstimate": 181
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -1659,7 +1664,7 @@
       "Name": "Getting Deployment",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -1770,14 +1775,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 419,
+      "Progressed": 420,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-13T06:05:11.0569293+00:00",
+  "LastChanged_Achievements": "2023-07-13T07:05:36.8238779+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:58.5226048+00:00",
-  "LastUpdate_Ratings": "2023-07-13T06:01:16.5138628+00:00",
-  "LastUpdate_Achievements": "2023-07-13T06:05:11.0569586+00:00"
+  "LastUpdate_Ratings": "2023-07-13T07:01:30.6444374+00:00",
+  "LastUpdate_Achievements": "2023-07-13T07:05:36.8239066+00:00"
 }

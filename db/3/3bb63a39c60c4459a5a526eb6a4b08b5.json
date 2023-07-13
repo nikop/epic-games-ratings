@@ -1114,9 +1114,9 @@
       "ID": "ReliableTransporter",
       "SetID": "1e89b4i",
       "Name": "Reliable Transporter",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 62
     },
     {
       "ID": "ResourceEconomy",
@@ -1193,8 +1193,8 @@
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-07-13T06:03:31.8731388+00:00",
+  "LastChanged_Achievements": "2023-07-13T07:04:08.4691737+00:00",
   "LastUpdate_AppInfo": "2023-07-11T08:57:01.7024715+00:00",
-  "LastUpdate_Ratings": "2023-07-13T05:57:17.3422509+00:00",
-  "LastUpdate_Achievements": "2023-07-13T06:03:31.8731683+00:00"
+  "LastUpdate_Ratings": "2023-07-13T06:57:38.4135886+00:00",
+  "LastUpdate_Achievements": "2023-07-13T07:04:08.4692022+00:00"
 }

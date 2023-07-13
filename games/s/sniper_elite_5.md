@@ -5,6 +5,7 @@ Rating: 4.43 (Ranked 653)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Taking it back | 3.00% | ~98 |
 | Target America | 3.00% | ~98 |
 | Climbing the Ladder | 2.00% | ~65 |
 | Liberté | 2.00% | ~65 |
@@ -20,7 +21,6 @@ Rating: 4.43 (Ranked 653)
 | The Kraken Wakes | 2.00% | ~65 |
 | It's Starting to Crack | 2.00% | ~65 |
 | Change the Channel | 2.00% | ~65 |
-| Taking it back | 2.00% | ~65 |
 | The Kraken Sleeps | 2.00% | ~65 |
 | Opposing Force | 1.00% | ~33 |
 | Just a Flesh Wound | 1.00% | ~33 |

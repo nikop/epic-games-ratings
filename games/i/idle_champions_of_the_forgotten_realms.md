@@ -38,6 +38,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Class Vacation | 0.10% | ~211 |
 | A Nod from Strahd | 0.10% | ~177 |
 | Backtracking Through Barovia | 0.10% | ~211 |
+| Late Game | 0.10% | ~211 |
 | Shadowfell Stalwarts | 0.10% | ~177 |
 | Nimble Escape | 0.10% | ~211 |
 | Nimblest Escape | 0.10% | ~211 |
@@ -50,6 +51,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spined Nuisances | 0.10% | ~211 |
 | Twilight Twist | 0.10% | ~177 |
 | Excavating History | 0.10% | ~211 |
+| Screams of the Dead | 0.10% | ~211 |
 | Premature Betrayal | 0.10% | ~211 |
 | Frantic Excavation | 0.10% | ~211 |
 | Birds of a Feather | 0.10% | ~177 |
@@ -149,6 +151,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Déjà Vu | 0.10% | ~177 |
 | Wait, What? | 0.10% | ~177 |
 | Ireena von Zarovich | 0.10% | ~177 |
+| Déjà Vu All Over Again | 0.10% | ~177 |
 | Into The Fire | 0.10% | ~177 |
 | A Difficult Descent | 0.10% | ~177 |
 | The Devil Arrives | 0.10% | ~177 |
@@ -484,12 +487,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Only the Strong Survive | 0.00% | ~0 |
 | Shorty's Day Off | 0.00% | ~0 |
 | Diversity Day-Trip | 0.00% | ~0 |
-| Late Game | 0.00% | ~0 |
-| Screams of the Dead | 0.00% | ~0 |
 | Veteran Brigade | 0.00% | ~0 |
 | Meepo's Quest | 0.00% | ~0 |
 | Take Five | 0.00% | ~0 |
-| Déjà Vu All Over Again | 0.00% | ~0 |
 | Ulkoria's Escape from Alterdeep | 0.00% | ~0 |
 | A Chilling Encounter | 0.00% | ~0 |
 | Might Makes Right | 0.00% | ~0 |
@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,739 (Ranked 52)  
+Progressed: 210,751 (Ranked 52)  
 Completed: 2,046 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -598,7 +598,7 @@ Completed: 2,046 (0.97%) (Ranked 102)
 | 2023-07-10 | 209,861 | 2,045 |
 | 2023-07-11 | 210,283 | 2,046 |
 | 2023-07-12 | 210,649 | 2,046 |
-| 2023-07-13 | 210,739 | 2,046 |
+| 2023-07-13 | 210,751 | 2,046 |
 ## Awards
 Max (Diverse Characters): 5,029  (Ranked 66)  
 Sum: 30,493 (Ranked 38)  

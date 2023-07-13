@@ -6,7 +6,7 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,208 |
+| Until death do us apart | 9.00% | ~6,209 |
 | That's a Grand Army | 8.00% | ~5,519 |
 | That is mine! | 8.00% | ~5,519 |
 | Victorious! | 8.00% | ~5,519 |
@@ -14,14 +14,14 @@ Number of Ratings: 8,414  (23.09.2022)
 | That's a Grand Navy | 6.00% | ~4,139 |
 | Seriously?! | 6.00% | ~4,139 |
 | For the Glory | 5.00% | ~3,449 |
-| Cold War | 4.00% | ~2,759 |
-| True Catholic | 4.00% | ~2,759 |
-| Defender of the Faith | 3.00% | ~2,069 |
-| It's all about luck | 3.00% | ~2,069 |
-| It's all about the money | 3.00% | ~2,069 |
-| Respected | 3.00% | ~2,069 |
-| The Princess is in this Castle | 3.00% | ~2,069 |
-| Truly Divine Ruler | 3.00% | ~2,069 |
+| Cold War | 4.00% | ~2,760 |
+| True Catholic | 4.00% | ~2,760 |
+| Defender of the Faith | 3.00% | ~2,070 |
+| It's all about luck | 3.00% | ~2,070 |
+| It's all about the money | 3.00% | ~2,070 |
+| Respected | 3.00% | ~2,070 |
+| The Princess is in this Castle | 3.00% | ~2,070 |
+| Truly Divine Ruler | 3.00% | ~2,070 |
 | Agressive Expander | 2.00% | ~1,380 |
 | Blockader | 2.00% | ~1,380 |
 | Combined Arms | 2.00% | ~1,380 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,982 (Ranked 73)  
+Progressed: 68,989 (Ranked 73)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -445,7 +445,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-10 | 68,178 | 0 |
 | 2023-07-11 | 68,569 | 0 |
 | 2023-07-12 | 68,921 | 0 |
-| 2023-07-13 | 68,982 | 0 |
+| 2023-07-13 | 68,989 | 0 |
 ## Awards
 Max (Educational): 5,537  (Ranked 60)  
 Sum: 45,667 (Ranked 27)  

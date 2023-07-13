@@ -43,9 +43,9 @@ Number of Ratings: 111  (23.09.2022)
 | Trick shot marksman | 4.00% | ~100 |
 | We get it, you're good | 4.00% | ~100 |
 | Hoarder | 3.00% | ~75 |
+| Pew-Pew | 3.00% | ~75 |
 | Cross lock country | 2.00% | ~50 |
 | Many plys later... | 2.00% | ~50 |
-| Pew-Pew | 2.00% | ~50 |
 | Dipped! | 1.00% | ~25 |
 | That was wheelie fun | 1.00% | ~25 |
 | Skatepark hero | 0.80% | ~20 |

@@ -6,24 +6,24 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~66,342 |
-| Powergamer | 27.00% | ~63,972 |
+| I will finish what you started | 28.00% | ~66,343 |
+| Powergamer | 27.00% | ~63,973 |
 | Barely scratched the surface | 25.00% | ~59,234 |
-| Write that down | 24.00% | ~56,864 |
-| Guns, lots of guns | 12.00% | ~28,432 |
+| Write that down | 24.00% | ~56,865 |
+| Guns, lots of guns | 12.00% | ~28,433 |
 | Collector | 11.00% | ~26,063 |
 | Elementary! | 9.00% | ~21,324 |
 | Pumpkin Jack | 8.00% | ~18,955 |
 | Wake up! | 8.00% | ~18,955 |
-| It's honest work | 7.00% | ~16,585 |
-| Griever | 7.00% | ~16,585 |
+| It's honest work | 7.00% | ~16,586 |
+| Griever | 7.00% | ~16,586 |
 | Me smart | 6.00% | ~14,216 |
 | Good listener | 5.00% | ~11,847 |
 | Trash compactor | 5.00% | ~11,847 |
 | Valedictorian | 5.00% | ~11,847 |
-| BOY! | 4.00% | ~9,477 |
-| Ka-ching! | 4.00% | ~9,477 |
-| So you like to read? | 4.00% | ~9,477 |
+| BOY! | 4.00% | ~9,478 |
+| Ka-ching! | 4.00% | ~9,478 |
+| So you like to read? | 4.00% | ~9,478 |
 | I like to sniff around | 3.00% | ~7,108 |
 | Mind reader | 3.00% | ~7,108 |
 | Gentleman's classic | 2.00% | ~4,739 |
@@ -43,8 +43,8 @@ Number of Ratings: 33  (23.09.2022)
 | Take the blue pill | 1.00% | ~2,369 |
 | The power of three | 1.00% | ~2,369 |
 | A true blacksmith | 0.90% | ~2,132 |
-| Let's try another | 0.80% | ~1,895 |
-| Home run | 0.80% | ~1,895 |
+| Let's try another | 0.80% | ~1,896 |
+| Home run | 0.80% | ~1,896 |
 | I have the high ground | 0.70% | ~1,659 |
 | It's blue, always blue | 0.70% | ~1,659 |
 | Who wouldn't love a troll? | 0.50% | ~1,185 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~474 |
 | Memory 5 | 0.10% | ~237 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,935 (Ranked 45)  
+Progressed: 236,938 (Ranked 45)  
 Completed: 7 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 7 (0.00%) (Ranked 237)
 | 2023-07-10 | 236,612 | 7 |
 | 2023-07-11 | 236,753 | 7 |
 | 2023-07-12 | 236,901 | 7 |
-| 2023-07-13 | 236,935 | 7 |
+| 2023-07-13 | 236,938 | 7 |
 ## Awards
 Max (Character Customization): 74  (Ranked 363)  
 Sum: 74 (Ranked 425)  

@@ -18,8 +18,8 @@ Number of Ratings: 1,047  (23.09.2022)
 | Perfection | 33.00% | ~4,055 |
 | Why not both | 31.00% | ~3,809 |
 | Sword to a gunfight | 30.00% | ~3,686 |
+| Upgrades not mandatory | 30.00% | ~3,686 |
 | Artificial selection | 29.00% | ~3,563 |
-| Upgrades not mandatory | 29.00% | ~3,563 |
 | Control freak | 28.00% | ~3,440 |
 | Running Wild | 28.00% | ~3,440 |
 | Finish line | 27.00% | ~3,317 |

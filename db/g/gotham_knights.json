@@ -2006,9 +2006,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 66944,
+  "EOS_Progressed": 66947,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 419,
+  "EOS_NewPlayers": 420,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -9611,6 +9611,11 @@
       "Time": "2023-07-13T06:03:43.8524236+00:00",
       "NumProgressed": 66944,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-07-13T07:04:20.5538121+00:00",
+      "NumProgressed": 66947,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 61,
@@ -9774,7 +9779,7 @@
       "Name": "Expert Crime Fighter",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -10006,7 +10011,7 @@
       "Name": "A Worthy Successor",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "MYSTERY_01",
@@ -10109,13 +10114,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 66944,
+      "Progressed": 66947,
       "Completed": 102
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 37224,
+      "Progressed": 37227,
       "Completed": 2652
     }
   ],
@@ -10123,8 +10128,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-07-12T23:01:07.621023+00:00",
-  "LastChanged_Achievements": "2023-07-13T06:03:43.852423+00:00",
+  "LastChanged_Achievements": "2023-07-13T07:04:20.5538118+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:06.0757808+00:00",
-  "LastUpdate_Ratings": "2023-07-13T06:00:32.9666977+00:00",
-  "LastUpdate_Achievements": "2023-07-13T06:03:43.8525143+00:00"
+  "LastUpdate_Ratings": "2023-07-13T07:00:49.5757143+00:00",
+  "LastUpdate_Achievements": "2023-07-13T07:04:20.5538891+00:00"
 }

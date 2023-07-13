@@ -26,12 +26,12 @@ Number of Ratings: 3,313  (23.09.2022)
 | A Heavy Hammer | 30.00% | ~128,017 |
 | Crossing Over | 29.00% | ~123,749 |
 | Quick Draw | 29.00% | ~123,749 |
+| Toshi's Regret | 27.00% | ~115,215 |
 | Toshi's Fear | 27.00% | ~115,215 |
 | Toshi's Love | 27.00% | ~115,215 |
 | A Leader Walks Alone | 26.00% | ~110,948 |
 | Bow Master | 26.00% | ~110,948 |
 | The Lonely Path | 26.00% | ~110,948 |
-| Toshi's Regret | 26.00% | ~110,948 |
 | Restore Balance | 25.00% | ~106,680 |
 | Say Cheese | 16.00% | ~68,276 |
 | Skillful Spirit Guide | 15.00% | ~64,008 |

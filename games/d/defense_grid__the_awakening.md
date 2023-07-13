@@ -7,18 +7,18 @@ Number of Ratings: 1,225  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Blood | 81.00% | ~389,894 |
-| Hey! That's mine! | 78.00% | ~375,453 |
+| Hey! That's mine! | 78.00% | ~375,454 |
 | Happy Returns | 77.00% | ~370,640 |
-| Field Promotion | 74.00% | ~356,199 |
-| Leadhead | 71.00% | ~341,758 |
-| Eradicator | 67.00% | ~322,504 |
+| Field Promotion | 74.00% | ~356,200 |
+| Leadhead | 71.00% | ~341,759 |
+| Eradicator | 67.00% | ~322,505 |
 | Surplus | 65.00% | ~312,878 |
-| I Spy | 64.00% | ~308,064 |
-| Burn Baby Burn | 59.00% | ~283,996 |
-| Yellow Beats Green | 55.00% | ~264,742 |
+| I Spy | 64.00% | ~308,065 |
+| Burn Baby Burn | 59.00% | ~283,997 |
+| Yellow Beats Green | 55.00% | ~264,743 |
 | Salvage Rights | 53.00% | ~255,116 |
-| Pew Pew | 50.00% | ~240,675 |
-| What IS that? | 50.00% | ~240,675 |
+| Pew Pew | 50.00% | ~240,676 |
+| What IS that? | 50.00% | ~240,676 |
 | Close Call | 49.00% | ~235,862 |
 | Penny Pincher | 49.00% | ~235,862 |
 | Arsenal | 46.00% | ~221,421 |
@@ -33,7 +33,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Kaboom! | 29.00% | ~139,592 |
 | Liquidator | 29.00% | ~139,592 |
 | High Voltage | 24.00% | ~115,524 |
-| Filthy Rich | 19.00% | ~91,456 |
+| Filthy Rich | 19.00% | ~91,457 |
 | The Not-So-Friendly Skies | 18.00% | ~86,643 |
 | Power Builder | 17.00% | ~81,830 |
 | Pyrrhic Victory | 17.00% | ~81,830 |
@@ -47,9 +47,9 @@ Number of Ratings: 1,225  (23.09.2022)
 | Indecisive | 6.00% | ~28,881 |
 | Base Defender | 5.00% | ~24,068 |
 | Relay Race | 5.00% | ~24,068 |
-| Diversity | 3.00% | ~14,440 |
-| Full Potential | 3.00% | ~14,440 |
-| Tower Expert | 3.00% | ~14,440 |
+| Diversity | 3.00% | ~14,441 |
+| Full Potential | 3.00% | ~14,441 |
+| Tower Expert | 3.00% | ~14,441 |
 | Minimalist | 2.00% | ~9,627 |
 | Nail Biter | 2.00% | ~9,627 |
 | Siege Breaker | 2.00% | ~9,627 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~481 |
 | You Monster | 0.10% | ~481 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 481,350 (Ranked 32)  
+Progressed: 481,351 (Ranked 32)  
 Completed: 4 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 4 (0.00%) (Ranked 237)
 | 2023-07-10 | 481,218 | 4 |
 | 2023-07-11 | 481,286 | 4 |
 | 2023-07-12 | 481,339 | 4 |
-| 2023-07-13 | 481,350 | 4 |
+| 2023-07-13 | 481,351 | 4 |
 ## Awards
 Max (Great for Beginners): 236  (Ranked 250)  
 Sum: 1,663 (Ranked 208)  

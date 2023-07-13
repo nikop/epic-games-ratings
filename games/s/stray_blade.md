@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 69.00% | ~9 |
-| Tinkerer | 46.00% | ~6 |
-| Don't Cry Wolf | 31.00% | ~4 |
-| A new World ahead | 31.00% | ~4 |
-| Welcome to the Club | 23.00% | ~3 |
-| Can't touch this | 23.00% | ~3 |
-| Apprentice | 23.00% | ~3 |
-| Bringing guns to a sword fight | 15.00% | ~2 |
-| Mirror, Mirror on the Wall | 8.00% | ~1 |
-| Defeat Ingla | 8.00% | ~1 |
-| Defeat Tezuth | 8.00% | ~1 |
-| Defeat Uskol | 8.00% | ~1 |
-| Freezing Cold | 8.00% | ~1 |
-| Searing Heat | 8.00% | ~1 |
-| Through Dangers Untold | 8.00% | ~1 |
-| Finally! | 8.00% | ~1 |
-| The End | 8.00% | ~1 |
-| But what of the Acreans? | 8.00% | ~1 |
-| The Golden Flash | 8.00% | ~1 |
-| The Power of the Mountains | 8.00% | ~1 |
-| Changing the World | 8.00% | ~1 |
+| Self-Defence | 64.00% | ~9 |
+| Tinkerer | 43.00% | ~6 |
+| Don't Cry Wolf | 29.00% | ~4 |
+| A new World ahead | 29.00% | ~4 |
+| Welcome to the Club | 21.00% | ~3 |
+| Can't touch this | 21.00% | ~3 |
+| Apprentice | 21.00% | ~3 |
+| Bringing guns to a sword fight | 14.00% | ~2 |
+| Mirror, Mirror on the Wall | 7.00% | ~1 |
+| Defeat Ingla | 7.00% | ~1 |
+| Defeat Tezuth | 7.00% | ~1 |
+| Defeat Uskol | 7.00% | ~1 |
+| Freezing Cold | 7.00% | ~1 |
+| Searing Heat | 7.00% | ~1 |
+| Through Dangers Untold | 7.00% | ~1 |
+| Finally! | 7.00% | ~1 |
+| The End | 7.00% | ~1 |
+| But what of the Acreans? | 7.00% | ~1 |
+| The Golden Flash | 7.00% | ~1 |
+| The Power of the Mountains | 7.00% | ~1 |
+| Changing the World | 7.00% | ~1 |
 | Sponsor | 0.00% | ~0 |
 | Craftsmen | 0.00% | ~0 |
 | Style over Stats | 0.00% | ~0 |
@@ -51,7 +51,7 @@
 | Master of all Domains | 0.00% | ~0 |
 | Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13 (Ranked 389)  
+Progressed: 14 (Ranked 386)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,6 +65,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-08 | 11 | 0 |
 | 2023-07-10 | 12 | 0 |
 | 2023-07-12 | 13 | 0 |
+| 2023-07-13 | 14 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

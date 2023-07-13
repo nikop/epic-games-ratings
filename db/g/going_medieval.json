@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 163,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1136,9 +1136,9 @@
       "Count": 64
     }
   ],
-  "EOS_Progressed": 4553,
+  "EOS_Progressed": 4554,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -5156,6 +5156,11 @@
       "Time": "2023-07-13T00:02:39.512148+00:00",
       "NumProgressed": 4553,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-13T07:03:09.6919049+00:00",
+      "NumProgressed": 4554,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 31,
@@ -5199,7 +5204,7 @@
       "Name": "Green Thumb",
       "Percentage": 65,
       "XP": 50,
-      "UsersEstimate": 2959
+      "UsersEstimate": 2960
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -5215,7 +5220,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 3187
+      "UsersEstimate": 3188
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -5295,7 +5300,7 @@
       "Name": "Feast or Famine",
       "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 2276
+      "UsersEstimate": 2277
     },
     {
       "ID": "STORE_NUTRITION_20000",
@@ -5303,7 +5308,7 @@
       "Name": "Fit For A King",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 1730
+      "UsersEstimate": 1731
     },
     {
       "ID": "STORE_NUTRITION_5000",
@@ -5325,9 +5330,9 @@
       "ID": "SURVIVE_FIRST_DAY",
       "SetID": "5349c2e",
       "Name": "The First Day",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 3005
+      "UsersEstimate": 3051
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -5375,7 +5380,7 @@
       "Name": "Novice Researcher",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 2914
+      "UsersEstimate": 2915
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -5383,7 +5388,7 @@
       "Name": "Adept Researcher",
       "Percentage": 44,
       "XP": 75,
-      "UsersEstimate": 2003
+      "UsersEstimate": 2004
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -5399,7 +5404,7 @@
       "Name": "Onward",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 2504
+      "UsersEstimate": 2505
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -5407,22 +5412,22 @@
       "Name": "Studious Researcher",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 2276
+      "UsersEstimate": 2277
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 4553,
+      "Progressed": 4554,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-07-10T09:00:28.1401302+00:00",
-  "LastChanged_Achievements": "2023-07-13T06:02:12.7163767+00:00",
+  "LastChanged_Achievements": "2023-07-13T07:03:09.6919047+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:13.9493644+00:00",
-  "LastUpdate_Ratings": "2023-07-13T06:00:40.8422928+00:00",
-  "LastUpdate_Achievements": "2023-07-13T06:02:12.7164128+00:00"
+  "LastUpdate_Ratings": "2023-07-13T07:00:55.9337354+00:00",
+  "LastUpdate_Achievements": "2023-07-13T07:03:09.6919377+00:00"
 }
