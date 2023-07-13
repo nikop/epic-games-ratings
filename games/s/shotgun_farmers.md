@@ -40,8 +40,8 @@
 | Chick Magnet | 4.00% | ~8 |
 | Early Bird | 4.00% | ~8 |
 | Master Survivor | 4.00% | ~6 |
+| I Have The High Ground | 3.00% | ~6 |
 | Heart Breaker | 3.00% | ~5 |
-| I Have The High Ground | 2.00% | ~4 |
 | Easy Peasy | 2.00% | ~3 |
 | Honk Honk | 1.00% | ~2 |
 | Pro Pyromancer | 1.00% | ~2 |

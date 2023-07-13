@@ -29,7 +29,7 @@
 | Blunga 15 | 30.00% | ~63 |
 | Kokakoka | 30.00% | ~63 |
 | Blunga 20 | 11.00% | ~23 |
-| Blunga 25 | 6.00% | ~13 |
+| Blunga 25 | 7.00% | ~15 |
 | Blunga 30 | 6.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 210 (Ranked 263)  

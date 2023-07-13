@@ -4,11 +4,11 @@
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
   "Ranking_Rating": 413,
   "Ranking_Popularity": 261,
-  "Ranking_PopularitySum": 304,
+  "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -532,10 +532,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 450,
       "NumberOfAwardsMax": 214
+    },
+    {
+      "Time": "2023-07-13T14:59:29.0223899+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 451,
+      "NumberOfAwardsMax": 214
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 450,
+  "NumberOfAwards": 451,
   "NumberOfAwardsMax": 214,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -579,7 +585,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game is Relaxing",
@@ -2684,9 +2690,9 @@
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
-  "LastChanged": "2023-07-12T21:58:52.7321843+00:00",
-  "LastChanged_Achievements": "2023-07-13T14:01:31.4963586+00:00",
+  "LastChanged": "2023-07-13T14:59:29.0223898+00:00",
+  "LastChanged_Achievements": "2023-07-13T15:01:51.2656196+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:34.0888616+00:00",
-  "LastUpdate_Ratings": "2023-07-13T13:59:13.827128+00:00",
-  "LastUpdate_Achievements": "2023-07-13T14:01:31.4964237+00:00"
+  "LastUpdate_Ratings": "2023-07-13T14:59:29.0223903+00:00",
+  "LastUpdate_Achievements": "2023-07-13T15:01:51.2657555+00:00"
 }

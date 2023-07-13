@@ -56,7 +56,7 @@ Number of Ratings: 209  (23.09.2022)
 | You're unsure if you broke the game or not | 42.00% | ~904 |
 | But wait... ...There's more... | 39.00% | ~839 |
 | So much force | 34.00% | ~732 |
-| You feel fully engaged | 23.00% | ~495 |
+| You feel fully engaged | 24.00% | ~516 |
 | Too hot | 19.00% | ~409 |
 | All the chests | 13.00% | ~280 |
 ## Popularity (Based on EOS Achievements)

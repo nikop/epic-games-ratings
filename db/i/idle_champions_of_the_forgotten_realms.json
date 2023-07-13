@@ -4936,9 +4936,9 @@
       "Count": 3297
     }
   ],
-  "EOS_Progressed": 210861,
+  "EOS_Progressed": 210885,
   "EOS_Completed": 2046,
-  "EOS_NewPlayers": 3670,
+  "EOS_NewPlayers": 3665,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -13876,6 +13876,11 @@
       "Time": "2023-07-13T14:05:22.7506076+00:00",
       "NumProgressed": 210861,
       "NumCompleted": 2046
+    },
+    {
+      "Time": "2023-07-13T15:05:41.2229102+00:00",
+      "NumProgressed": 210885,
+      "NumCompleted": 2046
     }
   ],
   "TotalAchievements": 507,
@@ -17637,9 +17642,9 @@
       "ID": "objective_completed_902",
       "SetID": "415jc5c",
       "Name": "Tekeli-li\u0027s Hunt",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_903",
@@ -17942,21 +17947,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 177135,
+      "Progressed": 177159,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 210861,
+      "Progressed": 210885,
       "Completed": 2046
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-13T11:58:24.8366724+00:00",
-  "LastChanged_Achievements": "2023-07-13T14:05:22.750607+00:00",
+  "LastChanged_Achievements": "2023-07-13T15:05:41.2229098+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:43.9043947+00:00",
-  "LastUpdate_Ratings": "2023-07-13T13:58:36.4723384+00:00",
-  "LastUpdate_Achievements": "2023-07-13T14:05:22.7531071+00:00"
+  "LastUpdate_Ratings": "2023-07-13T14:58:52.2458093+00:00",
+  "LastUpdate_Achievements": "2023-07-13T15:05:41.2256631+00:00"
 }

@@ -39,6 +39,7 @@ Rating: 4.44 (Ranked 642)
 | Tinkerer | 0.80% | ~26 |
 | The Long Game | 0.70% | ~23 |
 | Rigged to Blow | 0.70% | ~23 |
+| Road Rage | 0.60% | ~20 |
 | Herr Today, Gone Tomorrow | 0.60% | ~19 |
 | Shipbreaker | 0.60% | ~19 |
 | Sink or Swim | 0.60% | ~19 |
@@ -46,7 +47,6 @@ Rating: 4.44 (Ranked 642)
 | Burn after reading | 0.50% | ~16 |
 | Souvenir hunter | 0.50% | ~16 |
 | It'll Buff Right Out | 0.50% | ~16 |
-| Road Rage | 0.50% | ~16 |
 | Don't hold your breath | 0.50% | ~16 |
 | Operation Foxley | 0.50% | ~16 |
 | Strategist | 0.40% | ~13 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 642)
 | Das Familienjuwel | 0.10% | ~3 |
 | Stroll in the Woods | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,266 (Ranked 146)  
+Progressed: 3,267 (Ranked 146)  
 Completed: 9 (0.28%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,6 +160,7 @@ Completed: 9 (0.28%) (Ranked 150)
 | 2023-07-10 | 3,253 | 9 |
 | 2023-07-11 | 3,263 | 9 |
 | 2023-07-12 | 3,266 | 9 |
+| 2023-07-13 | 3,267 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

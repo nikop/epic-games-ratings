@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Monster of Moonglow | 2.00% | ~8 |
-| Eternal Tempest | 1.00% | ~4 |
+| Eternal Tempest | 2.00% | ~8 |
 | The Art of Conversation | 1.00% | ~4 |
 | Selfish Shellfish | 1.00% | ~4 |
 | Flying Tackle | 1.00% | ~4 |

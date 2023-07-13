@@ -4,8 +4,8 @@
   "ProductSlug": "lumencraft-abc105",
   "Ranking_EOS_Progress": 492,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-02-28T18:00:00+00:00",
     "PcReleaseDate": "2022-04-13T17:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:57:01.8494433+00:00",
   "LastChanged": "2023-03-31T05:57:01.8494434+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:13.7110977+00:00",
-  "LastUpdate_Ratings": "2023-07-13T14:00:35.1923111+00:00",
-  "LastUpdate_Achievements": "2023-07-13T14:06:38.6505352+00:00"
+  "LastUpdate_Ratings": "2023-07-13T15:00:49.2943958+00:00",
+  "LastUpdate_Achievements": "2023-07-13T15:06:54.5848469+00:00"
 }

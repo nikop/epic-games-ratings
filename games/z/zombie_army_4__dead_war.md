@@ -8,32 +8,32 @@ Number of Ratings: 743  (23.09.2022)
 | ---- | ---------- | ----- |
 | Shoot it, man! Shoot it in the head! | 69.00% | ~29,693 |
 | Say goodbye, creep! | 66.00% | ~28,402 |
-| Blood splattered | 65.00% | ~27,971 |
-| Choo choo! | 62.00% | ~26,680 |
-| Groovy | 61.00% | ~26,250 |
+| Blood splattered | 65.00% | ~27,972 |
+| Choo choo! | 62.00% | ~26,681 |
+| Groovy | 61.00% | ~26,251 |
 | Cleanup on aisle 4! | 57.00% | ~24,529 |
-| Gold | 50.00% | ~21,516 |
-| The boat can leave now...tell the crew | 49.00% | ~21,086 |
+| Gold | 50.00% | ~21,517 |
+| The boat can leave now...tell the crew | 49.00% | ~21,087 |
 | Stand back boy! | 47.00% | ~20,226 |
-| Give me something to shoot! | 46.00% | ~19,795 |
+| Give me something to shoot! | 46.00% | ~19,796 |
 | Weird science | 44.00% | ~18,935 |
 | Chain reaction | 44.00% | ~18,935 |
 | What did you say, Blain? | 42.00% | ~18,074 |
 | Look mummy! A shark! | 41.00% | ~17,644 |
 | In the dark dark woods... | 39.00% | ~16,783 |
 | Come and get it! It's a running buffet! | 38.00% | ~16,353 |
-| Double tap | 37.00% | ~15,922 |
+| Double tap | 37.00% | ~15,923 |
 | All of this has happened before… | 36.00% | ~15,492 |
 | Cranial blowout! | 36.00% | ~15,492 |
 | Zombie killin' machine | 36.00% | ~15,492 |
 | Every bullet counts | 36.00% | ~15,492 |
-| All roads lead to Rome | 34.00% | ~14,631 |
-| You've got red on you | 34.00% | ~14,631 |
+| All roads lead to Rome | 34.00% | ~14,632 |
+| You've got red on you | 34.00% | ~14,632 |
 | You're all going to die down here | 32.00% | ~13,771 |
-| He did Nazi that coming | 31.00% | ~13,340 |
-| Kill of the week | 31.00% | ~13,340 |
+| He did Nazi that coming | 31.00% | ~13,341 |
+| Kill of the week | 31.00% | ~13,341 |
 | I never liked them anyway | 30.00% | ~12,910 |
-| Is it over? | 28.00% | ~12,049 |
+| Is it over? | 28.00% | ~12,050 |
 | Got your back | 27.00% | ~11,619 |
 | Gore soaked | 24.00% | ~10,328 |
 | Shock therapy | 22.00% | ~9,467 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~430 |
 | None more hard | 0.50% | ~215 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,033 (Ranked 88)  
+Progressed: 43,034 (Ranked 88)  
 Completed: 25 (0.06%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,7 +157,7 @@ Completed: 25 (0.06%) (Ranked 198)
 | 2023-07-10 | 43,021 | 25 |
 | 2023-07-11 | 43,026 | 25 |
 | 2023-07-12 | 43,031 | 25 |
-| 2023-07-13 | 43,033 | 25 |
+| 2023-07-13 | 43,034 | 25 |
 ## Awards
 Max (Great Boss Battles): 799  (Ranked 152)  
 Sum: 2,438 (Ranked 173)  

@@ -27,8 +27,8 @@ Rating: 4.87 (Ranked 24)
 | Who's the boss now? | 0.80% | ~28 |
 | I have to read these things? | 0.80% | ~28 |
 | Feeling the beat! | 0.80% | ~28 |
+| Perfecter Parry-er! | 0.70% | ~24 |
 | You can pet the cat! | 0.70% | ~24 |
-| Perfecter Parry-er! | 0.60% | ~21 |
 | I look cool. But I can look COOLER. | 0.60% | ~21 |
 | Well that was a rush! | 0.50% | ~17 |
 | That's a lot of junk metal… | 0.50% | ~17 |

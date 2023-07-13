@@ -32,6 +32,7 @@
 | Merchant Prince II | 8.00% | ~4 |
 | Flower Power | 6.00% | ~3 |
 | Sectoral Captain | 6.00% | ~3 |
+| Rambo III | 4.00% | ~2 |
 | Hitchhiker | 4.00% | ~2 |
 | Omicron Beta | 4.00% | ~2 |
 | Hoarder | 4.00% | ~2 |
@@ -45,7 +46,6 @@
 | Bronze BBQ | 2.00% | ~1 |
 | Bronze Pest Control | 2.00% | ~1 |
 | Cartridge Hoarder | 2.00% | ~1 |
-| Rambo III | 2.00% | ~1 |
 | Rambo IV | 2.00% | ~1 |
 | Curious | 2.00% | ~1 |
 | Pilgrim | 2.00% | ~1 |

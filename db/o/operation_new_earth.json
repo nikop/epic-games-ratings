@@ -4,8 +4,8 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 421,
+  "EOS_Progressed": 424,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1466,6 +1466,11 @@
       "Time": "2023-07-13T11:05:02.111698+00:00",
       "NumProgressed": 421,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-13T15:05:37.7590999+00:00",
+      "NumProgressed": 424,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1579,9 +1584,9 @@
       "ID": "objective_headquarters_5",
       "SetID": "bm61c2p",
       "Name": "Facility Online",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 148
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -1589,7 +1594,7 @@
       "Name": "Corporal",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -1597,7 +1602,7 @@
       "Name": "Sergeant",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -1653,7 +1658,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -1661,7 +1666,7 @@
       "Name": "Covert Operative",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -1685,7 +1690,7 @@
       "Name": "Stocking Up",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -1723,9 +1728,9 @@
       "ID": "objective_multiple_factory_1",
       "SetID": "bm61c2p",
       "Name": "Factory Expansion",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 34
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -1733,7 +1738,7 @@
       "Name": "Defenses Online",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 170
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -1755,7 +1760,7 @@
       "ID": "objective_research_unlock_heavy_infantry_tier_4",
       "SetID": "bm61c2p",
       "Name": "Shock Troops",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -1763,7 +1768,7 @@
       "ID": "objective_research_unlock_light_infantry_tier_4",
       "SetID": "bm61c2p",
       "Name": "Jet Troops",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -1780,14 +1785,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 421,
+      "Progressed": 424,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-13T14:05:19.5662267+00:00",
+  "LastChanged_Achievements": "2023-07-13T15:05:37.7590993+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:58.5226048+00:00",
-  "LastUpdate_Ratings": "2023-07-13T14:01:09.2841022+00:00",
-  "LastUpdate_Achievements": "2023-07-13T14:05:19.5662612+00:00"
+  "LastUpdate_Ratings": "2023-07-13T15:01:26.707781+00:00",
+  "LastUpdate_Achievements": "2023-07-13T15:05:37.7591403+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "ebola-2-b61221",
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
     "PcReleaseDate": "2020-12-20T03:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 231,
+  "EOS_Progressed": 232,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -866,6 +866,11 @@
       "Time": "2023-07-10T02:32:29.9943096+00:00",
       "NumProgressed": 231,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-13T15:06:40.9238662+00:00",
+      "NumProgressed": 232,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 18,
@@ -963,9 +968,9 @@
       "ID": "achIce",
       "SetID": "1al1mjg",
       "Name": "Recluse \u2714",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 72
     },
     {
       "ID": "achMeat",
@@ -997,7 +1002,7 @@
       "Name": "Statue \u2714",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "achVirus",
@@ -1020,14 +1025,14 @@
     {
       "ID": "1al1mjg",
       "IsBase": true,
-      "Progressed": 231,
+      "Progressed": 232,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-07-13T14:06:24.5657838+00:00",
+  "LastChanged_Achievements": "2023-07-13T15:06:40.9238656+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:20.1290031+00:00",
-  "LastUpdate_Ratings": "2023-07-13T13:57:28.962818+00:00",
-  "LastUpdate_Achievements": "2023-07-13T14:06:24.5657984+00:00"
+  "LastUpdate_Ratings": "2023-07-13T14:57:45.7649561+00:00",
+  "LastUpdate_Achievements": "2023-07-13T15:06:40.9238869+00:00"
 }

@@ -3,42 +3,42 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Calm before the Storm | 6.00% | ~1 |
-| Shardbearer | 6.00% | ~1 |
-| Tributes of Caladrias | 6.00% | ~1 |
-| Break Out | 0.00% | ~0 |
-| Find Allies | 0.00% | ~0 |
-| Powerful Allies | 0.00% | ~0 |
+| Calm before the Storm | 0.00% | ~0 |
 | To Battle | 0.00% | ~0 |
 | Godslayer | 0.00% | ~0 |
 | Clear Sight | 0.00% | ~0 |
-| A Taste of Wrath | 0.00% | ~0 |
-| The Mentor | 0.00% | ~0 |
-| Trinity | 0.00% | ~0 |
 | Forgemaster | 0.00% | ~0 |
-| Adventurer | 0.00% | ~0 |
-| Airborne | 0.00% | ~0 |
-| Essence Blow | 0.00% | ~0 |
+| Shardbearer | 0.00% | ~0 |
+| Tributes of Caladrias | 0.00% | ~0 |
 | Shatterer | 0.00% | ~0 |
-| Shatter Them All | 0.00% | ~0 |
 | Slayer | 0.00% | ~0 |
 | Flawless Victory | 0.00% | ~0 |
-| Big Bazar | 0.00% | ~0 |
 | Fine Feathers Make Fine Birds | 0.00% | ~0 |
-| Geared Up | 0.00% | ~0 |
 | All There Is | 0.00% | ~0 |
-| Fashion Victim | 0.00% | ~0 |
-| Scholar | 0.00% | ~0 |
 | False God | 0.00% | ~0 |
-| I Found It | 0.00% | ~0 |
 | All That Gold | 0.00% | ~0 |
-| Alchemist | 0.00% | ~0 |
-| Stone Collection | 0.00% | ~0 |
 | Miner | 0.00% | ~0 |
-| The Collector | 0.00% | ~0 |
 | Feeling Fancy | 0.00% | ~0 |
-| A Queen's Tale | 0.00% | ~0 |
 | Summiter | 0.00% | ~0 |
+| Break Out | -5.60% | ~-1 |
+| Find Allies | -5.60% | ~-1 |
+| Powerful Allies | -5.60% | ~-1 |
+| A Taste of Wrath | -5.60% | ~-1 |
+| The Mentor | -5.60% | ~-1 |
+| Trinity | -5.60% | ~-1 |
+| Adventurer | -5.60% | ~-1 |
+| Airborne | -5.60% | ~-1 |
+| Essence Blow | -5.60% | ~-1 |
+| Shatter Them All | -5.60% | ~-1 |
+| Big Bazar | -5.60% | ~-1 |
+| Geared Up | -5.60% | ~-1 |
+| Fashion Victim | -5.60% | ~-1 |
+| Scholar | -5.60% | ~-1 |
+| I Found It | -5.60% | ~-1 |
+| Alchemist | -5.60% | ~-1 |
+| Stone Collection | -5.60% | ~-1 |
+| The Collector | -5.60% | ~-1 |
+| A Queen's Tale | -5.60% | ~-1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 18 (Ranked 377)  
 Completed: 0 (0.00%) (Ranked 237)  

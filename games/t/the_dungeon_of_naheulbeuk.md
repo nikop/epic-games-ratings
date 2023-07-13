@@ -6,26 +6,26 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 58.00% | ~105,532 |
-| Where's that freaking Dwarf? | 46.00% | ~83,697 |
-| GG EZ | 27.00% | ~49,127 |
-| Speedrun | 26.00% | ~47,307 |
-| Déjà vu | 20.00% | ~36,390 |
-| Sock! SOCK! | 15.00% | ~27,293 |
-| DM intervention | 12.00% | ~21,834 |
-| Fireproof Wizardess | 8.00% | ~14,556 |
-| A beer, two curses, three companions | 7.00% | ~12,737 |
-| Way of the Wimp | 6.00% | ~10,917 |
-| Livin' in a dwarven paradise | 5.00% | ~9,098 |
-| The plot thickens... At the tavern | 4.00% | ~7,278 |
-| The Woman in the High Castle | 3.00% | ~5,459 |
-| Team Building Exercise | 3.00% | ~5,459 |
-| Shiny and Crôm | 2.00% | ~3,639 |
-| The demons' feast | 2.00% | ~3,639 |
-| Res Judicata | 2.00% | ~3,639 |
-| The Ranger of Chaos | 2.00% | ~3,639 |
-| I am the night | 2.00% | ~3,639 |
-| Oh, when I'll be level 10... | 2.00% | ~3,639 |
+| Alt+F4 | 58.00% | ~105,582 |
+| Where's that freaking Dwarf? | 46.00% | ~83,737 |
+| GG EZ | 27.00% | ~49,150 |
+| Speedrun | 26.00% | ~47,330 |
+| Déjà vu | 20.00% | ~36,408 |
+| Sock! SOCK! | 15.00% | ~27,306 |
+| DM intervention | 12.00% | ~21,845 |
+| Fireproof Wizardess | 8.00% | ~14,563 |
+| A beer, two curses, three companions | 7.00% | ~12,743 |
+| Way of the Wimp | 6.00% | ~10,922 |
+| Livin' in a dwarven paradise | 5.00% | ~9,102 |
+| The plot thickens... At the tavern | 4.00% | ~7,282 |
+| The Woman in the High Castle | 3.00% | ~5,461 |
+| Team Building Exercise | 3.00% | ~5,461 |
+| Shiny and Crôm | 2.00% | ~3,641 |
+| The demons' feast | 2.00% | ~3,641 |
+| Res Judicata | 2.00% | ~3,641 |
+| The Ranger of Chaos | 2.00% | ~3,641 |
+| I am the night | 2.00% | ~3,641 |
+| Oh, when I'll be level 10... | 2.00% | ~3,641 |
 | The Great Library | 1.00% | ~1,820 |
 | Torture and Sensibility | 1.00% | ~1,820 |
 | Dwarf Fortress | 1.00% | ~1,820 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 181,951 (Ranked 58)  
+Progressed: 182,038 (Ranked 58)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-10 | 177,355 | 0 |
 | 2023-07-11 | 179,429 | 0 |
 | 2023-07-12 | 181,126 | 0 |
-| 2023-07-13 | 181,951 | 0 |
+| 2023-07-13 | 182,038 | 0 |
 ## Awards
 Max (Character Customization): 95  (Ranked 337)  
 Sum: 95 (Ranked 411)  

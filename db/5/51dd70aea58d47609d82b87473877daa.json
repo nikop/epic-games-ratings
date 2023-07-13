@@ -4,8 +4,8 @@
   "ProductSlug": "the-backroom-project-b6b434",
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 95,
-  "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-29T22:00:00+00:00",
     "PcReleaseDate": "2022-05-15T10:00:00+00:00",
@@ -466,9 +466,9 @@
       "ID": "ACH_GET_OUT",
       "SetID": "c2kf3nm",
       "Name": "Time Heals NOTHING",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 200,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_HABITABLE",
@@ -561,8 +561,8 @@
   ],
   "FirstSeen": "2023-06-01T17:57:00.4013591+00:00",
   "FirstSeenAchievements": "2023-05-25T20:00:56.667869+00:00",
-  "LastChanged_Achievements": "2023-07-13T14:03:21.0221852+00:00",
+  "LastChanged_Achievements": "2023-07-13T15:03:42.7653672+00:00",
   "LastUpdate_AppInfo": "2023-07-06T22:56:58.9751708+00:00",
-  "LastUpdate_Ratings": "2023-07-13T13:57:19.4078025+00:00",
-  "LastUpdate_Achievements": "2023-07-13T14:03:21.022196+00:00"
+  "LastUpdate_Ratings": "2023-07-13T14:57:35.7320187+00:00",
+  "LastUpdate_Achievements": "2023-07-13T15:03:42.7653824+00:00"
 }

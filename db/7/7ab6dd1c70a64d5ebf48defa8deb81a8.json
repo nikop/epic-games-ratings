@@ -3,8 +3,8 @@
   "Name": null,
   "Ranking_EOS_Progress": 377,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 251,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -83,33 +83,33 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break Out",
-      "Percentage": 0,
+      "Percentage": -5.6,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": -1
     },
     {
       "ID": "ACH_02",
       "SetID": "efe2lj",
       "Name": "Find Allies",
-      "Percentage": 0,
+      "Percentage": -5.6,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": -1
     },
     {
       "ID": "ACH_03",
       "SetID": "efe2lj",
       "Name": "Powerful Allies",
-      "Percentage": 0,
+      "Percentage": -5.6,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": -1
     },
     {
       "ID": "ACH_04",
       "SetID": "efe2lj",
       "Name": "Calm before the Storm",
-      "Percentage": 6,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_05",
@@ -139,25 +139,25 @@
       "ID": "ACH_08",
       "SetID": "efe2lj",
       "Name": "A Taste of Wrath",
-      "Percentage": 0,
+      "Percentage": -5.6,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": -1
     },
     {
       "ID": "ACH_09",
       "SetID": "efe2lj",
       "Name": "The Mentor",
-      "Percentage": 0,
+      "Percentage": -5.6,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": -1
     },
     {
       "ID": "ACH_10",
       "SetID": "efe2lj",
       "Name": "Trinity",
-      "Percentage": 0,
+      "Percentage": -5.6,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": -1
     },
     {
       "ID": "ACH_11",
@@ -171,41 +171,41 @@
       "ID": "ACH_12",
       "SetID": "efe2lj",
       "Name": "Shardbearer",
-      "Percentage": 6,
+      "Percentage": 0,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_13",
       "SetID": "efe2lj",
       "Name": "Adventurer",
-      "Percentage": 0,
+      "Percentage": -5.6,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": -1
     },
     {
       "ID": "ACH_14",
       "SetID": "efe2lj",
       "Name": "Airborne",
-      "Percentage": 0,
+      "Percentage": -5.6,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": -1
     },
     {
       "ID": "ACH_15",
       "SetID": "efe2lj",
       "Name": "Tributes of Caladrias",
-      "Percentage": 6,
+      "Percentage": 0,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_16",
       "SetID": "efe2lj",
       "Name": "Essence Blow",
-      "Percentage": 0,
+      "Percentage": -5.6,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": -1
     },
     {
       "ID": "ACH_17",
@@ -219,9 +219,9 @@
       "ID": "ACH_18",
       "SetID": "efe2lj",
       "Name": "Shatter Them All",
-      "Percentage": 0,
+      "Percentage": -5.6,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": -1
     },
     {
       "ID": "ACH_19",
@@ -243,9 +243,9 @@
       "ID": "ACH_21",
       "SetID": "efe2lj",
       "Name": "Big Bazar",
-      "Percentage": 0,
+      "Percentage": -5.6,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": -1
     },
     {
       "ID": "ACH_22",
@@ -259,9 +259,9 @@
       "ID": "ACH_23",
       "SetID": "efe2lj",
       "Name": "Geared Up",
-      "Percentage": 0,
+      "Percentage": -5.6,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": -1
     },
     {
       "ID": "ACH_24",
@@ -275,17 +275,17 @@
       "ID": "ACH_25",
       "SetID": "efe2lj",
       "Name": "Fashion Victim",
-      "Percentage": 0,
+      "Percentage": -5.6,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": -1
     },
     {
       "ID": "ACH_26",
       "SetID": "efe2lj",
       "Name": "Scholar",
-      "Percentage": 0,
+      "Percentage": -5.6,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": -1
     },
     {
       "ID": "ACH_27",
@@ -299,9 +299,9 @@
       "ID": "ACH_28",
       "SetID": "efe2lj",
       "Name": "I Found It",
-      "Percentage": 0,
+      "Percentage": -5.6,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": -1
     },
     {
       "ID": "ACH_29",
@@ -315,17 +315,17 @@
       "ID": "ACH_30",
       "SetID": "efe2lj",
       "Name": "Alchemist",
-      "Percentage": 0,
+      "Percentage": -5.6,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": -1
     },
     {
       "ID": "ACH_31",
       "SetID": "efe2lj",
       "Name": "Stone Collection",
-      "Percentage": 0,
+      "Percentage": -5.6,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": -1
     },
     {
       "ID": "ACH_33",
@@ -339,9 +339,9 @@
       "ID": "ACH_34",
       "SetID": "efe2lj",
       "Name": "The Collector",
-      "Percentage": 0,
+      "Percentage": -5.6,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": -1
     },
     {
       "ID": "ACH_35",
@@ -355,9 +355,9 @@
       "ID": "ACH_36",
       "SetID": "efe2lj",
       "Name": "A Queen\u0027s Tale",
-      "Percentage": 0,
+      "Percentage": -5.6,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": -1
     },
     {
       "ID": "ACH_38",
@@ -377,7 +377,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-07-13T14:01:31.2112609+00:00",
-  "LastUpdate_Ratings": "2023-07-13T13:57:12.0496242+00:00",
-  "LastUpdate_Achievements": "2023-07-13T14:01:31.2112852+00:00"
+  "LastChanged_Achievements": "2023-07-13T15:01:50.892072+00:00",
+  "LastUpdate_Ratings": "2023-07-13T14:57:28.7989873+00:00",
+  "LastUpdate_Achievements": "2023-07-13T15:01:50.8921128+00:00"
 }
