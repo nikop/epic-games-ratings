@@ -13,7 +13,7 @@
 | 11 | [Island Cities](games/i/island_cities.md) | 18.52% |
 | 12 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 16.67% |
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
-| 14 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 13.91% |
+| 14 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 13.79% |
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 16 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.15% |
 | 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.04% |
@@ -178,20 +178,20 @@
 | 172 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
 | 177 | [Port Royale 4](games/p/port_royale_4.md) | 0.14% |
 | 178 | [Isonzo](games/i/isonzo.md) | 0.13% |
-| 178 | [Train Valley 2](games/t/train_valley_2.md) | 0.13% |
-| 180 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
-| 181 | [Fall Guys](games/f/fall_guys.md) | 0.11% |
-| 181 | [Ring of Pain](games/r/ring_of_pain.md) | 0.11% |
-| 183 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.10% |
-| 183 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
-| 183 | [House Flipper](games/h/house_flipper.md) | 0.10% |
-| 183 | [Outward Definitive Edition](games/o/outward.md) | 0.10% |
-| 183 | [Supraland](games/s/supraland.md) | 0.10% |
-| 183 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.10% |
-| 189 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
-| 189 | [Partisans 1941](games/p/partisans_1941.md) | 0.09% |
-| 189 | [Shop Titans](games/s/shop_titans.md) | 0.09% |
-| 189 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
+| 179 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
+| 180 | [Fall Guys](games/f/fall_guys.md) | 0.11% |
+| 180 | [Ring of Pain](games/r/ring_of_pain.md) | 0.11% |
+| 182 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.10% |
+| 182 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
+| 182 | [House Flipper](games/h/house_flipper.md) | 0.10% |
+| 182 | [Outward Definitive Edition](games/o/outward.md) | 0.10% |
+| 182 | [Supraland](games/s/supraland.md) | 0.10% |
+| 182 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.10% |
+| 188 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
+| 188 | [Partisans 1941](games/p/partisans_1941.md) | 0.09% |
+| 188 | [Shop Titans](games/s/shop_titans.md) | 0.09% |
+| 188 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
+| 188 | [Train Valley 2](games/t/train_valley_2.md) | 0.09% |
 | 193 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.08% |
 | 193 | [Riverbond](games/r/riverbond.md) | 0.08% |
 | 193 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
