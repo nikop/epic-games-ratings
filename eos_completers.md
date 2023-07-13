@@ -29,7 +29,7 @@
 | 27 | [Ravenlok](games/r/ravenlok.md) | 7.47% |
 | 28 | [Time Loader](games/t/time_loader.md) | 7.21% |
 | 29 | [Scorn](games/s/scorn.md) | 7.06% |
-| 30 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.85% |
+| 30 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.84% |
 | 31 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.82% |
 | 32 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 33 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -132,10 +132,10 @@
 | 130 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.46% |
 | 130 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
 | 132 | [Tchia](games/t/tchia.md) | 0.43% |
-| 133 | [Ghostrunner](games/g/ghostrunner.md) | 0.42% |
 | 133 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.42% |
 | 133 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.42% |
-| 136 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
+| 135 | [Ghostrunner](games/g/ghostrunner.md) | 0.41% |
+| 135 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
 | 137 | [Wildermyth](games/w/wildermyth.md) | 0.38% |
 | 138 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 139 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.36% |
@@ -343,6 +343,7 @@
 | 237 | [Indoor Kickball](games/i/indoor_kickball.md) | 0.00% |
 | 237 | [Infindustry](games/i/infindustry.md) | 0.00% |
 | 237 | [Influent](games/3/3d27fbb922a04299b8401e1b50c55619.md) | 0.00% |
+| 237 | [Insomnis](games/i/insomnis.md) | 0.00% |
 | 237 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 0.00% |
 | 237 | [IXION](games/i/ixion.md) | 0.00% |
 | 237 | [JYDGE](games/j/jydge.md) | 0.00% |
