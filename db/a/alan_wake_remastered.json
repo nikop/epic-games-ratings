@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,7 +512,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57297,
+  "EOS_Progressed": 57298,
   "EOS_Completed": 57,
   "EOS_NewPlayers": 367,
   "EOS_NewCompleters": 0,
@@ -7867,6 +7867,11 @@
       "Time": "2023-07-13T22:04:17.516245+00:00",
       "NumProgressed": 57297,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-13T23:04:07.2829986+00:00",
+      "NumProgressed": 57298,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7886,7 +7891,7 @@
       "Name": "Nordic Walking",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 12032
+      "UsersEstimate": 12033
     },
     {
       "ID": "03",
@@ -7894,7 +7899,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11459
+      "UsersEstimate": 11460
     },
     {
       "ID": "04",
@@ -7910,7 +7915,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10313
+      "UsersEstimate": 10314
     },
     {
       "ID": "06",
@@ -8413,21 +8418,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57297,
+      "Progressed": 57298,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20765,
+      "Progressed": 20766,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-13T22:04:17.5162442+00:00",
+  "LastChanged_Achievements": "2023-07-13T23:04:07.2829983+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:08.3646753+00:00",
-  "LastUpdate_Ratings": "2023-07-13T21:58:08.2201671+00:00",
-  "LastUpdate_Achievements": "2023-07-13T22:04:17.5164416+00:00"
+  "LastUpdate_Ratings": "2023-07-13T22:58:01.166613+00:00",
+  "LastUpdate_Achievements": "2023-07-13T23:04:07.2830806+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2185,
+  "EOS_Progressed": 2188,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -1518,6 +1518,11 @@
       "Time": "2023-07-13T20:04:01.043293+00:00",
       "NumProgressed": 2185,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-13T23:03:34.9922878+00:00",
+      "NumProgressed": 2188,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 13,
@@ -1553,7 +1558,7 @@
       "Name": "Helping the little ones",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "MOVE_ON",
@@ -1601,7 +1606,7 @@
       "Name": "Stronger together",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "THE_END",
@@ -1625,14 +1630,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2185,
+      "Progressed": 2188,
       "Completed": 5
     }
   ],
@@ -1640,8 +1645,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-07-13T22:03:50.5166001+00:00",
+  "LastChanged_Achievements": "2023-07-13T23:03:34.9922871+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:24.0265171+00:00",
-  "LastUpdate_Ratings": "2023-07-13T21:59:36.0333271+00:00",
-  "LastUpdate_Achievements": "2023-07-13T22:03:50.5166194+00:00"
+  "LastUpdate_Ratings": "2023-07-13T22:59:50.4432523+00:00",
+  "LastUpdate_Achievements": "2023-07-13T23:03:34.992303+00:00"
 }

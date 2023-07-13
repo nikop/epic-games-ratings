@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6730,
+  "EOS_Progressed": 6731,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -4588,6 +4588,11 @@
       "Time": "2023-07-13T22:03:32.9018437+00:00",
       "NumProgressed": 6730,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-07-13T23:03:14.3642515+00:00",
+      "NumProgressed": 6731,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 21,
@@ -4679,7 +4684,7 @@
       "Name": "Happy Camper",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "HISTORIAN",
@@ -4727,7 +4732,7 @@
       "Name": "Shredder",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "SNIP_SNIP",
@@ -4766,7 +4771,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6730,
+      "Progressed": 6731,
       "Completed": 29
     }
   ],
@@ -4774,8 +4779,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-07-11T22:58:36.2658566+00:00",
-  "LastChanged_Achievements": "2023-07-13T22:03:32.9018431+00:00",
+  "LastChanged_Achievements": "2023-07-13T23:03:14.3642511+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:32.1676458+00:00",
-  "LastUpdate_Ratings": "2023-07-13T21:58:23.2292077+00:00",
-  "LastUpdate_Achievements": "2023-07-13T22:03:32.9018847+00:00"
+  "LastUpdate_Ratings": "2023-07-13T22:58:24.0865234+00:00",
+  "LastUpdate_Achievements": "2023-07-13T23:03:14.3642838+00:00"
 }

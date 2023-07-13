@@ -6,6 +6,7 @@
 | ---- | ---------- | ----- |
 | To Suffer is to Learn | 6.00% | ~195 |
 | Missilis | 5.00% | ~162 |
+| Armaments of the Pantheon | 5.00% | ~162 |
 | Persephone's Guidance | 5.00% | ~162 |
 | Lochos | 5.00% | ~162 |
 | Strength of Herakles | 5.00% | ~162 |
@@ -14,21 +15,20 @@
 | Go For the Head | 4.00% | ~130 |
 | Spartan Sandal | 4.00% | ~130 |
 | Modest Earnings | 4.00% | ~130 |
-| Armaments of the Pantheon | 4.00% | ~130 |
 | The Sons of Minos | 4.00% | ~130 |
 | Eidola | 4.00% | ~130 |
 | Reign in Blood | 4.00% | ~130 |
-| Comedy and Tragedy | 3.00% | ~97 |
-| Pillars of Eternity | 3.00% | ~97 |
-| War Chest | 3.00% | ~97 |
-| Chthonic Investor | 3.00% | ~97 |
-| Symbols of Heresy | 3.00% | ~97 |
-| First Fragment | 3.00% | ~97 |
-| Sisters of the Pantheon | 3.00% | ~97 |
-| Siege Unit | 3.00% | ~97 |
-| Divine Assemblage | 3.00% | ~97 |
-| Ophiolatreia | 3.00% | ~97 |
-| Serpentine | 3.00% | ~97 |
+| Comedy and Tragedy | 3.00% | ~98 |
+| Pillars of Eternity | 3.00% | ~98 |
+| War Chest | 3.00% | ~98 |
+| Chthonic Investor | 3.00% | ~98 |
+| Symbols of Heresy | 3.00% | ~98 |
+| First Fragment | 3.00% | ~98 |
+| Sisters of the Pantheon | 3.00% | ~98 |
+| Siege Unit | 3.00% | ~98 |
+| Divine Assemblage | 3.00% | ~98 |
+| Ophiolatreia | 3.00% | ~98 |
+| Serpentine | 3.00% | ~98 |
 | Wayward Son of Hephaestus | 2.00% | ~65 |
 | Lament of the Constellations | 2.00% | ~65 |
 | Forged in Fire | 2.00% | ~65 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,249 (Ranked 148)  
+Progressed: 3,250 (Ranked 148)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-10 | 3,216 | 0 |
 | 2023-07-11 | 3,224 | 0 |
 | 2023-07-12 | 3,235 | 0 |
-| 2023-07-13 | 3,249 | 0 |
+| 2023-07-13 | 3,250 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

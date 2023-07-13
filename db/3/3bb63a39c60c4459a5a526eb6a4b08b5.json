@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 285,
+  "EOS_Progressed": 286,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -866,6 +866,11 @@
       "Time": "2023-07-13T21:04:25.8265929+00:00",
       "NumProgressed": 285,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-13T23:03:40.2302197+00:00",
+      "NumProgressed": 286,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -877,7 +882,7 @@
       "Name": "Great Luck",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ActivePause",
@@ -899,9 +904,9 @@
       "ID": "BigPlane",
       "SetID": "1e89b4i",
       "Name": "Expensive Plane",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 106
     },
     {
       "ID": "BudgetFlight",
@@ -909,7 +914,7 @@
       "Name": "Budget Flight",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "Calculated",
@@ -917,7 +922,7 @@
       "Name": "Calculated",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "Close",
@@ -979,7 +984,7 @@
       "ID": "FullCompletion",
       "SetID": "1e89b4i",
       "Name": "Full Completion",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -1019,7 +1024,7 @@
       "ID": "LargeTerritories",
       "SetID": "1e89b4i",
       "Name": "Large Territories",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -1107,7 +1112,7 @@
       "ID": "Ownway",
       "SetID": "1e89b4i",
       "Name": "Own Way",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -1149,7 +1154,7 @@
       "Name": "Resource Economy",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "Restructuring",
@@ -1163,7 +1168,7 @@
       "ID": "Reviewer",
       "SetID": "1e89b4i",
       "Name": "Reviewer",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -1171,15 +1176,15 @@
       "ID": "ScenarioAmateur",
       "SetID": "1e89b4i",
       "Name": "Scenario Amateur",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "ScenarioExpert",
       "SetID": "1e89b4i",
       "Name": "Scenario Expert",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -1205,21 +1210,21 @@
       "Name": "Transport Hub",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 285,
+      "Progressed": 286,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-07-13T22:03:54.7553547+00:00",
+  "LastChanged_Achievements": "2023-07-13T23:03:40.2302192+00:00",
   "LastUpdate_AppInfo": "2023-07-11T08:57:01.7024715+00:00",
-  "LastUpdate_Ratings": "2023-07-13T21:57:21.6240697+00:00",
-  "LastUpdate_Achievements": "2023-07-13T22:03:54.7553933+00:00"
+  "LastUpdate_Ratings": "2023-07-13T22:57:06.2946515+00:00",
+  "LastUpdate_Achievements": "2023-07-13T23:03:40.2302517+00:00"
 }

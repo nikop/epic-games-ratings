@@ -6,7 +6,7 @@ Rating: 4.41 (Ranked 673)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,308 |
-| Snatched Out | 73.00% | ~2,080 |
+| Snatched Out | 74.00% | ~2,109 |
 | Keep 'Em Coming | 72.00% | ~2,052 |
 | Cleaning Lethe, One Nest At A Time | 65.00% | ~1,852 |
 | Call Me Snake | 59.00% | ~1,682 |
@@ -26,10 +26,10 @@ Rating: 4.41 (Ranked 673)
 | The More The Merrier | 25.00% | ~712 |
 | Living Nightmare | 24.00% | ~684 |
 | The Darwin Era Was Here | 21.00% | ~598 |
+| Stuff Of Nightmares | 19.00% | ~542 |
 | Come on, You Wanna Live Forever? | 19.00% | ~542 |
 | Deep Into Insanity | 19.00% | ~542 |
 | The Passenger | 19.00% | ~542 |
-| Stuff Of Nightmares | 18.00% | ~513 |
 | El Riesgo Siempre Vive | 17.00% | ~485 |
 | The Spire | 16.00% | ~456 |
 | One For Every Occasion | 15.00% | ~428 |

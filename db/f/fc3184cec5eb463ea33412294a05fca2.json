@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 97,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 8.25,
   "EosHistory": [
@@ -360,9 +360,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "8d3ci0",
       "Name": "Three is company",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -376,9 +376,9 @@
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "8d3ci0",
       "Name": "Cruise ship",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -400,9 +400,9 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "8d3ci0",
       "Name": "High-rise",
-      "Percentage": 49,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -448,17 +448,17 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "8d3ci0",
       "Name": "Way to the shore",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "8d3ci0",
       "Name": "Private pool",
-      "Percentage": 52,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -495,8 +495,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-13T22:04:56.4310878+00:00",
+  "LastChanged_Achievements": "2023-07-13T23:04:54.9857506+00:00",
   "LastUpdate_AppInfo": "2023-07-08T11:56:59.3518994+00:00",
-  "LastUpdate_Ratings": "2023-07-13T21:57:22.1084599+00:00",
-  "LastUpdate_Achievements": "2023-07-13T22:04:56.4311084+00:00"
+  "LastUpdate_Ratings": "2023-07-13T22:57:06.8868691+00:00",
+  "LastUpdate_Achievements": "2023-07-13T23:04:54.9857622+00:00"
 }

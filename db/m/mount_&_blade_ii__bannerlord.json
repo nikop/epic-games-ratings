@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 77,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -5479,18 +5479,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 13718,
       "NumberOfAwardsMax": 6782
+    },
+    {
+      "Time": "2023-07-13T23:00:26.6189279+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 13723,
+      "NumberOfAwardsMax": 6787
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13718,
-  "NumberOfAwardsMax": 6782,
+  "NumberOfAwards": 13723,
+  "NumberOfAwardsMax": 6787,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 6782
+      "Count": 6787
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5559,9 +5565,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 55668,
+  "EOS_Progressed": 55670,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 490,
+  "EOS_NewPlayers": 491,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14289,6 +14295,11 @@
       "Time": "2023-07-13T22:06:40.5500034+00:00",
       "NumProgressed": 55668,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-13T23:07:13.3275981+00:00",
+      "NumProgressed": 55670,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -14300,7 +14311,7 @@
       "Name": "Against all odds",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6123
+      "UsersEstimate": 6124
     },
     {
       "ID": "Apple of my eye",
@@ -14316,7 +14327,7 @@
       "Name": "Bannerlord",
       "Percentage": 21,
       "XP": 65,
-      "UsersEstimate": 11690
+      "UsersEstimate": 11691
     },
     {
       "ID": "Best served cold",
@@ -14340,7 +14351,7 @@
       "Name": "Butterlord",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 4453
+      "UsersEstimate": 4454
     },
     {
       "ID": "Catch",
@@ -14524,7 +14535,7 @@
       "Name": "Landlord",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 17257
+      "UsersEstimate": 17258
     },
     {
       "ID": "Lawbringer",
@@ -14532,7 +14543,7 @@
       "Name": "Lawbringer",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 20597
+      "UsersEstimate": 20598
     },
     {
       "ID": "Lawmaker",
@@ -14676,7 +14687,7 @@
       "Name": "Trained",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 11690
+      "UsersEstimate": 11691
     },
     {
       "ID": "Undercover",
@@ -14707,15 +14718,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 55668,
+      "Progressed": 55670,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-07-13T20:01:25.2022225+00:00",
-  "LastChanged_Achievements": "2023-07-13T22:06:40.550001+00:00",
+  "LastChanged": "2023-07-13T23:00:26.6189277+00:00",
+  "LastChanged_Achievements": "2023-07-13T23:07:13.3275977+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:03.335469+00:00",
-  "LastUpdate_Ratings": "2023-07-13T22:00:05.1889039+00:00",
-  "LastUpdate_Achievements": "2023-07-13T22:06:40.5501701+00:00"
+  "LastUpdate_Ratings": "2023-07-13T23:00:26.6189285+00:00",
+  "LastUpdate_Achievements": "2023-07-13T23:07:13.3276718+00:00"
 }

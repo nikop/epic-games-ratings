@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -896,9 +896,9 @@
       "ID": "WIN_FIRST_VAULTLANDER_BATTLE",
       "SetID": "kakdpn",
       "Name": "Don\u0027t Get Cocky",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 901
+      "UsersEstimate": 936
     },
     {
       "ID": "WIN_VAULTLANDER_BATTLE_CLAPTRAP",
@@ -929,8 +929,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-07-13T21:03:23.9469771+00:00",
+  "LastChanged_Achievements": "2023-07-13T23:01:24.2909921+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:37.5105511+00:00",
-  "LastUpdate_Ratings": "2023-07-13T21:59:44.8716204+00:00",
-  "LastUpdate_Achievements": "2023-07-13T21:03:23.947015+00:00"
+  "LastUpdate_Ratings": "2023-07-13T23:00:00.6243296+00:00",
+  "LastUpdate_Achievements": "2023-07-13T23:01:24.2929611+00:00"
 }

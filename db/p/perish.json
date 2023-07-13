@@ -4,8 +4,8 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
     "PcReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3249,
+  "EOS_Progressed": 3250,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2133,6 +2133,11 @@
       "Time": "2023-07-13T22:05:22.9097985+00:00",
       "NumProgressed": 3249,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-13T23:05:27.7569245+00:00",
+      "NumProgressed": 3250,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -2152,7 +2157,7 @@
       "Name": "Comedy and Tragedy",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_B_FS",
@@ -2168,7 +2173,7 @@
       "Name": "Pillars of Eternity",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_B_KK",
@@ -2288,7 +2293,7 @@
       "Name": "War Chest",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_M_D3",
@@ -2296,7 +2301,7 @@
       "Name": "Chthonic Investor",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_M_D4",
@@ -2334,9 +2339,9 @@
       "ID": "ACH_M_PW",
       "SetID": "b3fep3o",
       "Name": "Armaments of the Pantheon",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 162
     },
     {
       "ID": "ACH_M_SC",
@@ -2360,7 +2365,7 @@
       "Name": "Symbols of Heresy",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_OB_BR",
@@ -2368,7 +2373,7 @@
       "Name": "First Fragment",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_OB_CA",
@@ -2400,7 +2405,7 @@
       "Name": "Sisters of the Pantheon",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_OB_DS",
@@ -2416,7 +2421,7 @@
       "Name": "Siege Unit",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_OB_FC",
@@ -2456,7 +2461,7 @@
       "Name": "Divine Assemblage",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_OB_PR",
@@ -2512,7 +2517,7 @@
       "Name": "Ophiolatreia",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_OT",
@@ -2640,14 +2645,14 @@
       "Name": "Serpentine",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     }
   ],
   "AchievementSets": [
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3249,
+      "Progressed": 3250,
       "Completed": 0
     }
   ],
@@ -2655,8 +2660,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-07-13T22:05:22.9097977+00:00",
+  "LastChanged_Achievements": "2023-07-13T23:05:27.7569242+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:04.7674222+00:00",
-  "LastUpdate_Ratings": "2023-07-13T22:00:04.4995658+00:00",
-  "LastUpdate_Achievements": "2023-07-13T22:05:22.9099244+00:00"
+  "LastUpdate_Ratings": "2023-07-13T23:00:25.385534+00:00",
+  "LastUpdate_Achievements": "2023-07-13T23:05:27.7569828+00:00"
 }
