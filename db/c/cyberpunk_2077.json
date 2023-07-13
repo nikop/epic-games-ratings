@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 160,
   "Ranking_EOS_NewPlayers": 43,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -8801,10 +8801,10 @@
       "Count": 5307
     }
   ],
-  "EOS_Progressed": 865304,
+  "EOS_Progressed": 865307,
   "EOS_Completed": 1861,
-  "EOS_NewPlayers": 1380,
-  "EOS_NewCompleters": 27,
+  "EOS_NewPlayers": 1375,
+  "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
     {
@@ -17836,6 +17836,11 @@
       "Time": "2023-07-13T07:07:19.8263208+00:00",
       "NumProgressed": 865304,
       "NumCompleted": 1861
+    },
+    {
+      "Time": "2023-07-13T08:06:16.2315094+00:00",
+      "NumProgressed": 865307,
+      "NumCompleted": 1861
     }
   ],
   "TotalAchievements": 44,
@@ -17879,7 +17884,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 328816
+      "UsersEstimate": 328817
     },
     {
       "ID": "FollowingTheRiver",
@@ -17895,7 +17900,7 @@
       "Name": "The Wandering Fool",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 77877
+      "UsersEstimate": 77878
     },
     {
       "ID": "Gearhead",
@@ -17967,7 +17972,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 190367
+      "UsersEstimate": 190368
     },
     {
       "ID": "MaxPain",
@@ -17975,7 +17980,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 77877
+      "UsersEstimate": 77878
     },
     {
       "ID": "MustBeTheRats",
@@ -18023,7 +18028,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 242285
+      "UsersEstimate": 242286
     },
     {
       "ID": "Specialist",
@@ -18031,7 +18036,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 69224
+      "UsersEstimate": 69225
     },
     {
       "ID": "Temperance",
@@ -18063,7 +18068,7 @@
       "Name": "The Fool",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 588407
+      "UsersEstimate": 588409
     },
     {
       "ID": "TheHermit",
@@ -18071,7 +18076,7 @@
       "Name": "The Hermit",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 207673
+      "UsersEstimate": 207674
     },
     {
       "ID": "TheHightPriestess",
@@ -18087,7 +18092,7 @@
       "Name": "The Lovers",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 294203
+      "UsersEstimate": 294204
     },
     {
       "ID": "TheStar",
@@ -18111,7 +18116,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 224979
+      "UsersEstimate": 224980
     },
     {
       "ID": "TheWorld",
@@ -18143,7 +18148,7 @@
       "Name": "True Soldier",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 190367
+      "UsersEstimate": 190368
     },
     {
       "ID": "TrueWarrior",
@@ -18159,7 +18164,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 95183
+      "UsersEstimate": 95184
     },
     {
       "ID": "UnderPressure",
@@ -18198,15 +18203,15 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 865304,
+      "Progressed": 865307,
       "Completed": 1861
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-07-13T04:57:53.6296306+00:00",
-  "LastChanged_Achievements": "2023-07-13T07:07:19.8263206+00:00",
+  "LastChanged_Achievements": "2023-07-13T08:06:16.2315089+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:16.9313784+00:00",
-  "LastUpdate_Ratings": "2023-07-13T06:58:40.8853419+00:00",
-  "LastUpdate_Achievements": "2023-07-13T07:07:19.8263879+00:00"
+  "LastUpdate_Ratings": "2023-07-13T07:57:58.4528207+00:00",
+  "LastUpdate_Achievements": "2023-07-13T08:06:16.2315963+00:00"
 }

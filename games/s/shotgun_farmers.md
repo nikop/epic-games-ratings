@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 70.00% | ~141 |
+| Seeds of War | 71.00% | ~143 |
 | Triple Kill | 51.00% | ~103 |
 | Survivor | 51.00% | ~77 |
 | Aspairagus | 50.00% | ~76 |
 | First Blood | 49.00% | ~98 |
-| Cornivore | 46.00% | ~92 |
+| Cornivore | 47.00% | ~94 |
 | I Believe I Can Fly | 45.00% | ~90 |
 | No Asperascope | 42.00% | ~84 |
 | Early Survivor | 40.00% | ~60 |
@@ -30,9 +30,9 @@
 | Oh My Gourd | 10.00% | ~15 |
 | Summers Here | 10.00% | ~15 |
 | Fresh Pancake | 9.00% | ~18 |
+| Quit Horsin' Around | 9.00% | ~18 |
 | Eggtraordinary | 9.00% | ~18 |
 | Perfect | 9.00% | ~14 |
-| Quit Horsin' Around | 8.00% | ~16 |
 | Bring Home The Bacon | 7.00% | ~14 |
 | Expert Survivor | 7.00% | ~11 |
 | Pyromaniac | 6.00% | ~9 |

@@ -436,7 +436,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1529016,
+  "EOS_Progressed": 1529021,
   "EOS_Completed": 644,
   "EOS_NewPlayers": 1274,
   "EOS_NewCompleters": 2,
@@ -9466,6 +9466,11 @@
       "Time": "2023-07-13T07:06:05.4316795+00:00",
       "NumProgressed": 1529016,
       "NumCompleted": 644
+    },
+    {
+      "Time": "2023-07-13T08:05:00.8942681+00:00",
+      "NumProgressed": 1529021,
+      "NumCompleted": 644
     }
   ],
   "TotalAchievements": 20,
@@ -9509,7 +9514,7 @@
       "Name": "Drift Line Apprentice",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 45870
+      "UsersEstimate": 45871
     },
     {
       "ID": "ACH_DRIFT_LINE_MASTER",
@@ -9525,7 +9530,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 137611
+      "UsersEstimate": 137612
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -9557,7 +9562,7 @@
       "Name": "Mad Skills",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 45870
+      "UsersEstimate": 45871
     },
     {
       "ID": "ACH_MASTER_DRIFTER",
@@ -9589,7 +9594,7 @@
       "Name": "Multiplier Master",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 137611
+      "UsersEstimate": 137612
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -9636,15 +9641,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1529016,
+      "Progressed": 1529021,
       "Completed": 644
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-07-03T17:01:00.6084184+00:00",
-  "LastChanged_Achievements": "2023-07-13T07:06:05.431679+00:00",
+  "LastChanged_Achievements": "2023-07-13T08:05:00.8942675+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:28.0260923+00:00",
-  "LastUpdate_Ratings": "2023-07-13T07:01:05.8670145+00:00",
-  "LastUpdate_Achievements": "2023-07-13T07:06:05.4317317+00:00"
+  "LastUpdate_Ratings": "2023-07-13T08:00:02.6216331+00:00",
+  "LastUpdate_Achievements": "2023-07-13T08:05:00.8943673+00:00"
 }

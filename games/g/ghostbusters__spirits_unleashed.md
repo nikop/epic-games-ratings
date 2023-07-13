@@ -34,7 +34,7 @@ Rating: 4.49 (Ranked 575)
 | Skilled | 24.00% | ~5,806 |
 | Collector | 23.00% | ~5,564 |
 | Ectoplasmic Entity | 23.00% | ~5,564 |
-| Rift Destroyer | 19.00% | ~4,596 |
+| Rift Destroyer | 20.00% | ~4,838 |
 | Terrifying | 18.00% | ~4,355 |
 | Tobin's Prodigy | 18.00% | ~4,355 |
 | Reckless | 17.00% | ~4,113 |

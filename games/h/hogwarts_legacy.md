@@ -5,9 +5,9 @@ Rating: 4.77 (Ranked 108)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 11.00% | ~31,589 |
-| First Class Student | 10.00% | ~28,717 |
-| Troll with the Punches | 10.00% | ~28,717 |
+| The Sort Who Makes an Entrance | 11.00% | ~31,590 |
+| First Class Student | 10.00% | ~28,718 |
+| Troll with the Punches | 10.00% | ~28,718 |
 | A Keen Sense of Spell | 9.00% | ~25,846 |
 | That's a Keeper | 9.00% | ~25,846 |
 | Grappling with a Graphorn | 8.00% | ~22,974 |
@@ -19,13 +19,13 @@ Rating: 4.77 (Ranked 108)
 | Loom for Improvement | 8.00% | ~22,974 |
 | A Talent for Spending | 8.00% | ~22,974 |
 | Coasting Along | 8.00% | ~22,974 |
-| Followed the Butterflies | 7.00% | ~20,102 |
-| The Spell Master | 7.00% | ~20,102 |
-| Rising From the Ashes | 7.00% | ~20,102 |
-| The Avenging Gazelle | 6.00% | ~17,230 |
-| Beast Friends | 6.00% | ~17,230 |
-| A Sallow Grave | 6.00% | ~17,230 |
-| Flight the Good Flight | 6.00% | ~17,230 |
+| Followed the Butterflies | 7.00% | ~20,103 |
+| The Spell Master | 7.00% | ~20,103 |
+| Rising From the Ashes | 7.00% | ~20,103 |
+| The Avenging Gazelle | 6.00% | ~17,231 |
+| Beast Friends | 6.00% | ~17,231 |
+| A Sallow Grave | 6.00% | ~17,231 |
+| Flight the Good Flight | 6.00% | ~17,231 |
 | The Seeker of Knowledge | 5.00% | ~14,359 |
 | Raising Expectations | 5.00% | ~14,359 |
 | The Root of the Problem | 4.00% | ~11,487 |
@@ -37,10 +37,10 @@ Rating: 4.77 (Ranked 108)
 | The Intrepid Explorer | 3.00% | ~8,615 |
 | The Gryffindor in the Graveyard | 3.00% | ~8,615 |
 | The Wise Owl | 3.00% | ~8,615 |
-| Put Down Roots | 2.00% | ~5,743 |
-| The Auror's Apprentice | 2.00% | ~5,743 |
-| Floo Around the World | 2.00% | ~5,743 |
-| Rise to the Challenges | 2.00% | ~5,743 |
+| Put Down Roots | 2.00% | ~5,744 |
+| The Auror's Apprentice | 2.00% | ~5,744 |
+| Floo Around the World | 2.00% | ~5,744 |
+| Rise to the Challenges | 2.00% | ~5,744 |
 | The Good Samaritan | 1.00% | ~2,872 |
 | Savvy Spender | 1.00% | ~2,872 |
 | Demiguise Dread | 1.00% | ~2,872 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.50% | ~1,436 |
 | Collector's Edition | 0.20% | ~574 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 287,174 (Ranked 41)  
+Progressed: 287,181 (Ranked 41)  
 Completed: 423 (0.15%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 423 (0.15%) (Ranked 172)
 | 2023-07-10 | 286,613 | 422 |
 | 2023-07-11 | 286,851 | 423 |
 | 2023-07-12 | 287,108 | 423 |
-| 2023-07-13 | 287,174 | 423 |
+| 2023-07-13 | 287,181 | 423 |
 ## Awards
 Max (Character Customization): 20,913  (Ranked 17)  
 Sum: 39,043 (Ranked 30)  

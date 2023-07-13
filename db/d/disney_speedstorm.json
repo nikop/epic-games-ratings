@@ -15,11 +15,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2940,
+  "EOS_Progressed": 2941,
   "EOS_Completed": 96,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 3.27,
+  "EOS_Completed_Percentage": 3.26,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:49:22.8918022+00:00",
@@ -3410,6 +3410,11 @@
       "Time": "2023-07-12T11:05:51.3609705+00:00",
       "NumProgressed": 2940,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2023-07-13T08:05:04.4995305+00:00",
+      "NumProgressed": 2941,
+      "NumCompleted": 96
     }
   ],
   "TotalAchievements": 24,
@@ -3429,7 +3434,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "11",
@@ -3461,7 +3466,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "15",
@@ -3517,7 +3522,7 @@
       "Name": "PROTECTED",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "21",
@@ -3533,7 +3538,7 @@
       "Name": "THE EYE OF THE HUNTER",
       "Percentage": 11,
       "XP": 55,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "23",
@@ -3573,7 +3578,7 @@
       "Name": "ROOKIE",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1558
+      "UsersEstimate": 1559
     },
     {
       "ID": "6",
@@ -3581,7 +3586,7 @@
       "Name": "PRO",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "7",
@@ -3612,13 +3617,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2940,
+      "Progressed": 2941,
       "Completed": 96
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-07-13T07:06:10.2320232+00:00",
+  "LastChanged_Achievements": "2023-07-13T08:05:04.49953+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:58.7714419+00:00",
-  "LastUpdate_Ratings": "2023-07-13T06:59:57.8291715+00:00",
-  "LastUpdate_Achievements": "2023-07-13T07:06:10.2320524+00:00"
+  "LastUpdate_Ratings": "2023-07-13T07:59:01.1128122+00:00",
+  "LastUpdate_Achievements": "2023-07-13T08:05:04.4995682+00:00"
 }

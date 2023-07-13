@@ -22,10 +22,10 @@ Rating: 4.56 (Ranked 458)
 | Breaking Protocol | 8.00% | ~224 |
 | A Hunk of Junk | 7.00% | ~196 |
 | Man's Best Friend | 5.00% | ~140 |
+| Sightseeing | 5.00% | ~140 |
 | Power Outage | 5.00% | ~140 |
 | Convenient Transport | 5.00% | ~140 |
 | Please Make it Stop! | 5.00% | ~140 |
-| Sightseeing | 4.00% | ~112 |
 | Access Granted | 4.00% | ~112 |
 | Necessary Enhancement | 4.00% | ~112 |
 | All in Good Health | 4.00% | ~112 |

@@ -5541,9 +5541,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 55621,
+  "EOS_Progressed": 55622,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 510,
+  "EOS_NewPlayers": 508,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14201,6 +14201,11 @@
       "Time": "2023-07-13T07:07:25.3055851+00:00",
       "NumProgressed": 55621,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-13T08:06:21.7113307+00:00",
+      "NumProgressed": 55622,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -14228,7 +14233,7 @@
       "Name": "Bannerlord",
       "Percentage": 21,
       "XP": 65,
-      "UsersEstimate": 11680
+      "UsersEstimate": 11681
     },
     {
       "ID": "Best served cold",
@@ -14404,7 +14409,7 @@
       "Name": "King Solomon",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 8899
+      "UsersEstimate": 8900
     },
     {
       "ID": "Kingslayer",
@@ -14468,7 +14473,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 3893
+      "UsersEstimate": 3894
     },
     {
       "ID": "Minor Clan",
@@ -14588,7 +14593,7 @@
       "Name": "Trained",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 11680
+      "UsersEstimate": 11681
     },
     {
       "ID": "Undercover",
@@ -14619,15 +14624,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 55621,
+      "Progressed": 55622,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-07-13T00:01:00.668187+00:00",
-  "LastChanged_Achievements": "2023-07-13T07:07:25.3055847+00:00",
+  "LastChanged_Achievements": "2023-07-13T08:06:21.7113304+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:03.335469+00:00",
-  "LastUpdate_Ratings": "2023-07-13T07:00:48.7645323+00:00",
-  "LastUpdate_Achievements": "2023-07-13T07:07:25.3056599+00:00"
+  "LastUpdate_Ratings": "2023-07-13T07:59:44.7702521+00:00",
+  "LastUpdate_Achievements": "2023-07-13T08:06:21.7114233+00:00"
 }

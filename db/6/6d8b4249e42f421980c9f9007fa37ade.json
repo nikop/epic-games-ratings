@@ -380,9 +380,9 @@
       "ID": "Epic_ArcGenerator_1",
       "SetID": "ba1m2fc",
       "Name": "10,000-Volt Electric Field",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "Epic_AsteroidBase_1",
@@ -540,9 +540,9 @@
       "ID": "Epic_HolyLight_1",
       "SetID": "ba1m2fc",
       "Name": "Exorcism",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "Epic_HomeRun_1",
@@ -732,9 +732,9 @@
       "ID": "Epic_Tornado_1",
       "SetID": "ba1m2fc",
       "Name": "Winds of Destruction",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Epic_Treasure_1000",
@@ -771,8 +771,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-07-13T07:05:20.0194223+00:00",
+  "LastChanged_Achievements": "2023-07-13T08:04:23.271952+00:00",
   "LastUpdate_AppInfo": "2023-07-13T05:57:07.9382356+00:00",
-  "LastUpdate_Ratings": "2023-07-13T06:57:48.7549907+00:00",
-  "LastUpdate_Achievements": "2023-07-13T07:05:20.0194557+00:00"
+  "LastUpdate_Ratings": "2023-07-13T07:57:15.5755427+00:00",
+  "LastUpdate_Achievements": "2023-07-13T08:04:23.271995+00:00"
 }

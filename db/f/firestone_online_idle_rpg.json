@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -166,7 +166,7 @@
   "Tags": [],
   "EOS_Progressed": 1622,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4526,9 +4526,9 @@
       "ID": "superior",
       "SetID": "3nl4bcg",
       "Name": "Superior",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 211
     },
     {
       "ID": "templeofeternals",
@@ -4687,8 +4687,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-07-11T02:15:28.7878959+00:00",
-  "LastChanged_Achievements": "2023-07-13T07:07:24.7296521+00:00",
+  "LastChanged_Achievements": "2023-07-13T08:06:21.1119645+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:35.1051404+00:00",
-  "LastUpdate_Ratings": "2023-07-13T06:58:54.03383+00:00",
-  "LastUpdate_Achievements": "2023-07-13T07:07:24.7297281+00:00"
+  "LastUpdate_Ratings": "2023-07-13T07:58:09.2838204+00:00",
+  "LastUpdate_Achievements": "2023-07-13T08:06:21.1120643+00:00"
 }
