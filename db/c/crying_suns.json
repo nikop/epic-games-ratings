@@ -562,9 +562,9 @@
       "Count": 214
     }
   ],
-  "EOS_Progressed": 462910,
+  "EOS_Progressed": 462913,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 532,
+  "EOS_NewPlayers": 530,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9187,6 +9187,11 @@
       "Time": "2023-07-13T21:07:50.0480452+00:00",
       "NumProgressed": 462910,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-07-13T22:06:41.3253082+00:00",
+      "NumProgressed": 462913,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 79,
@@ -9620,9 +9625,9 @@
       "ID": "achievement_win_boss_sector_1",
       "SetID": "8cokdon",
       "Name": "Jeef Skeejj",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1852
+      "UsersEstimate": 2315
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -9829,21 +9834,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 6844,
+      "Progressed": 6847,
       "Completed": 2352
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 462910,
+      "Progressed": 462913,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-07-02T08:59:13.8125338+00:00",
-  "LastChanged_Achievements": "2023-07-13T21:07:50.0480445+00:00",
+  "LastChanged_Achievements": "2023-07-13T22:06:41.3253075+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:26.1718184+00:00",
-  "LastUpdate_Ratings": "2023-07-13T21:00:11.7541554+00:00",
-  "LastUpdate_Achievements": "2023-07-13T21:07:50.0482946+00:00"
+  "LastUpdate_Ratings": "2023-07-13T21:59:37.7181381+00:00",
+  "LastUpdate_Achievements": "2023-07-13T22:06:41.3255516+00:00"
 }

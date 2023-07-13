@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 134,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -952,7 +952,7 @@
   ],
   "EOS_Progressed": 15707,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -5682,17 +5682,17 @@
       "ID": "FINISH_CONTAGION",
       "SetID": "6j5ggkc",
       "Name": "Glutton for Punishment",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 4
     },
     {
       "ID": "FINISH_CONTAGION_NO_DEATH",
       "SetID": "6j5ggkc",
       "Name": "You Belong Here",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 4
     },
     {
       "ID": "FINISH_GAME",
@@ -5746,9 +5746,9 @@
       "ID": "GRP_MELEE_KILL",
       "SetID": "4hj6d86",
       "Name": "In Striking Distance",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 110
+      "UsersEstimate": 126
     },
     {
       "ID": "KILL_2HEAD",
@@ -6025,8 +6025,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-07-13T15:58:49.0764679+00:00",
-  "LastChanged_Achievements": "2023-07-13T21:07:03.5304195+00:00",
+  "LastChanged_Achievements": "2023-07-13T22:06:02.8623808+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:30.5014032+00:00",
-  "LastUpdate_Ratings": "2023-07-13T20:58:40.2517814+00:00",
-  "LastUpdate_Achievements": "2023-07-13T21:07:03.5305413+00:00"
+  "LastUpdate_Ratings": "2023-07-13T21:58:24.5628866+00:00",
+  "LastUpdate_Achievements": "2023-07-13T22:06:02.8624623+00:00"
 }

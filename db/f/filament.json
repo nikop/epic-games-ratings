@@ -225,9 +225,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 196209,
+  "EOS_Progressed": 196212,
   "EOS_Completed": 464,
-  "EOS_NewPlayers": 650,
+  "EOS_NewPlayers": 645,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -9145,6 +9145,11 @@
       "Time": "2023-07-13T21:07:39.0509304+00:00",
       "NumProgressed": 196209,
       "NumCompleted": 464
+    },
+    {
+      "Time": "2023-07-13T22:06:31.4610139+00:00",
+      "NumProgressed": 196212,
+      "NumCompleted": 464
     }
   ],
   "TotalAchievements": 29,
@@ -9180,7 +9185,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 184436
+      "UsersEstimate": 184439
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -9236,7 +9241,7 @@
       "Name": "Corrupted.",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 9810
+      "UsersEstimate": 9811
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTEDCOMPLETE",
@@ -9316,7 +9321,7 @@
       "Name": "Good things come in pairs... Coloured Pairs.",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 9810
+      "UsersEstimate": 9811
     },
     {
       "ID": "ACHIEVEMENT_REQUISITE",
@@ -9387,7 +9392,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 196209,
+      "Progressed": 196212,
       "Completed": 464
     }
   ],
@@ -9395,8 +9400,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-06-26T22:58:32.656469+00:00",
-  "LastChanged_Achievements": "2023-07-13T21:07:39.0509295+00:00",
+  "LastChanged_Achievements": "2023-07-13T22:06:31.4610132+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:47.2271443+00:00",
-  "LastUpdate_Ratings": "2023-07-13T20:59:39.5409074+00:00",
-  "LastUpdate_Achievements": "2023-07-13T21:07:39.0510651+00:00"
+  "LastUpdate_Ratings": "2023-07-13T21:59:13.0836815+00:00",
+  "LastUpdate_Achievements": "2023-07-13T22:06:31.4611454+00:00"
 }

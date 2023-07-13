@@ -6,14 +6,14 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,236 |
-| That's a Grand Army | 8.00% | ~5,543 |
-| That is mine! | 8.00% | ~5,543 |
-| Victorious! | 8.00% | ~5,543 |
-| Brothers in Arms | 6.00% | ~4,157 |
-| That's a Grand Navy | 6.00% | ~4,157 |
-| Seriously?! | 6.00% | ~4,157 |
-| For the Glory | 5.00% | ~3,464 |
+| Until death do us apart | 9.00% | ~6,237 |
+| That's a Grand Army | 8.00% | ~5,544 |
+| That is mine! | 8.00% | ~5,544 |
+| Victorious! | 8.00% | ~5,544 |
+| Brothers in Arms | 6.00% | ~4,158 |
+| That's a Grand Navy | 6.00% | ~4,158 |
+| Seriously?! | 6.00% | ~4,158 |
+| For the Glory | 5.00% | ~3,465 |
 | Cold War | 4.00% | ~2,772 |
 | True Catholic | 4.00% | ~2,772 |
 | Defender of the Faith | 3.00% | ~2,079 |
@@ -42,8 +42,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | This navy can take it all | 1.00% | ~693 |
 | Isn't this the way to India? | 0.90% | ~624 |
 | Market Control | 0.90% | ~624 |
-| Trustworthy | 0.90% | ~624 |
 | Down Under | 0.80% | ~554 |
+| Trustworthy | 0.80% | ~554 |
 | Electable! | 0.70% | ~485 |
 | Populists in Government | 0.70% | ~485 |
 | All belongs to Mother Russia | 0.60% | ~416 |
@@ -53,12 +53,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | The pen is mightier than the sword | 0.60% | ~416 |
 | This is My Faith | 0.60% | ~416 |
 | Time Bandit | 0.60% | ~416 |
-| Absolutely | 0.50% | ~346 |
-| Grand Coalition | 0.50% | ~346 |
-| Live Long and Prosper | 0.50% | ~346 |
-| Ruina Imperii | 0.50% | ~346 |
-| Trophy Hunter | 0.50% | ~346 |
-| Voting Streak | 0.50% | ~346 |
+| Absolutely | 0.50% | ~347 |
+| Grand Coalition | 0.50% | ~347 |
+| Live Long and Prosper | 0.50% | ~347 |
+| Ruina Imperii | 0.50% | ~347 |
+| Trophy Hunter | 0.50% | ~347 |
+| Voting Streak | 0.50% | ~347 |
 | All Your Trade Are Belong to Us | 0.40% | ~277 |
 | Bleed Them Dry | 0.40% | ~277 |
 | Dude, Where's my Boat? | 0.40% | ~277 |
@@ -114,6 +114,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Almost Prussian Blue | 0.10% | ~69 |
 | An Unlikely Candidate | 0.10% | ~69 |
 | Anglophile | 0.10% | ~69 |
+| The Animal Kingdom | 0.10% | ~69 |
 | Arabian Coffee | 0.10% | ~69 |
 | Around the World in 80 Years | 0.10% | ~69 |
 | Assembly Instructions Needed | 0.10% | ~69 |
@@ -331,7 +332,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | World Conqueror | 0.10% | ~69 |
 | Yarr Harr a Pirate's Life For Me | 0.10% | ~69 |
 | You Get A New Home, And You Get A New Home | 0.10% | ~69 |
-| The Animal Kingdom | 0.00% | ~0 |
 | Australia-Hungary | 0.00% | ~0 |
 | Blood for the Sky God! | 0.00% | ~0 |
 | Bunte Kuh | 0.00% | ~0 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69,289 (Ranked 73)  
+Progressed: 69,304 (Ranked 73)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -445,7 +445,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-10 | 68,178 | 0 |
 | 2023-07-11 | 68,569 | 0 |
 | 2023-07-12 | 68,921 | 0 |
-| 2023-07-13 | 69,289 | 0 |
+| 2023-07-13 | 69,304 | 0 |
 ## Awards
 Max (Educational): 5,540  (Ranked 60)  
 Sum: 45,687 (Ranked 27)  

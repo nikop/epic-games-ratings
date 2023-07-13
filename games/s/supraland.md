@@ -6,57 +6,57 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~709,291 |
-| The Blues | 85.00% | ~608,988 |
-| Fast | 66.00% | ~472,861 |
-| Healthbar | 55.00% | ~394,051 |
-| Force Cube | 53.00% | ~379,722 |
-| Double Jump | 48.00% | ~343,899 |
-| Regeneration | 47.00% | ~336,734 |
-| Climb the hill | 42.00% | ~300,912 |
-| Triple Jump | 42.00% | ~300,912 |
-| Through the fire pipe | 38.00% | ~272,253 |
-| MacGuffin | 38.00% | ~272,253 |
-| Just once | 36.00% | ~257,924 |
-| Armor | 30.00% | ~214,937 |
-| True holy spirit | 27.00% | ~193,443 |
-| That's how electronics work obviously | 26.00% | ~186,279 |
-| Force Cube Catapult | 25.00% | ~179,114 |
-| Holy Sword | 23.00% | ~164,785 |
-| Telefrag | 22.00% | ~157,620 |
-| Freed from prison | 21.00% | ~150,456 |
-| Stomp | 21.00% | ~150,456 |
-| Double Health | 18.00% | ~128,962 |
-| Buckle | 17.00% | ~121,798 |
-| Green Keycard | 17.00% | ~121,798 |
-| Rattle Hag | 15.00% | ~107,468 |
-| All Shells | 14.00% | ~100,304 |
-| Beam | 14.00% | ~100,304 |
-| Health Drink | 13.00% | ~93,139 |
-| 9 | 13.00% | ~93,139 |
-| Purple Cube | 13.00% | ~93,139 |
-| Supraball Noob | 13.00% | ~93,139 |
-| Helped a star | 12.00% | ~85,975 |
-| Strong | 12.00% | ~85,975 |
-| Blue King's lair | 11.00% | ~78,810 |
-| Payback | 11.00% | ~78,810 |
-| Got the coins back | 11.00% | ~78,810 |
-| Got the gun back | 11.00% | ~78,810 |
-| Infiltrated | 11.00% | ~78,810 |
-| Robbed | 11.00% | ~78,810 |
+| Out of bed | 99.00% | ~709,298 |
+| The Blues | 85.00% | ~608,994 |
+| Fast | 66.00% | ~472,866 |
+| Healthbar | 55.00% | ~394,055 |
+| Force Cube | 53.00% | ~379,725 |
+| Double Jump | 48.00% | ~343,902 |
+| Regeneration | 47.00% | ~336,738 |
+| Climb the hill | 42.00% | ~300,914 |
+| Triple Jump | 42.00% | ~300,914 |
+| Through the fire pipe | 38.00% | ~272,256 |
+| MacGuffin | 38.00% | ~272,256 |
+| Just once | 36.00% | ~257,927 |
+| Armor | 30.00% | ~214,939 |
+| True holy spirit | 27.00% | ~193,445 |
+| That's how electronics work obviously | 26.00% | ~186,280 |
+| Force Cube Catapult | 25.00% | ~179,116 |
+| Holy Sword | 23.00% | ~164,786 |
+| Telefrag | 22.00% | ~157,622 |
+| Freed from prison | 21.00% | ~150,457 |
+| Stomp | 21.00% | ~150,457 |
+| Double Health | 18.00% | ~128,963 |
+| Buckle | 17.00% | ~121,799 |
+| Green Keycard | 17.00% | ~121,799 |
+| Rattle Hag | 15.00% | ~107,469 |
+| All Shells | 14.00% | ~100,305 |
+| Beam | 14.00% | ~100,305 |
+| Health Drink | 13.00% | ~93,140 |
+| 9 | 13.00% | ~93,140 |
+| Purple Cube | 13.00% | ~93,140 |
+| Supraball Noob | 13.00% | ~93,140 |
+| Helped a star | 12.00% | ~85,976 |
+| Strong | 12.00% | ~85,976 |
+| Blue King's lair | 11.00% | ~78,811 |
+| Payback | 11.00% | ~78,811 |
+| Got the coins back | 11.00% | ~78,811 |
+| Got the gun back | 11.00% | ~78,811 |
+| Infiltrated | 11.00% | ~78,811 |
+| Robbed | 11.00% | ~78,811 |
 | Fire Flies | 10.00% | ~71,646 |
 | Cave Flies | 10.00% | ~71,646 |
 | Gold Scam | 10.00% | ~71,646 |
 | Gold Scam Uncovered | 10.00% | ~71,646 |
 | Translocator | 10.00% | ~71,646 |
 | Yellow Shot Button | 10.00% | ~71,646 |
-| Moon Door | 9.00% | ~64,481 |
-| Momentum | 9.00% | ~64,481 |
-| Panic Lights | 9.00% | ~64,481 |
-| Through the tiny pipe | 9.00% | ~64,481 |
-| Win! | 8.00% | ~57,316 |
+| Moon Door | 9.00% | ~64,482 |
+| Momentum | 9.00% | ~64,482 |
+| Panic Lights | 9.00% | ~64,482 |
+| Through the tiny pipe | 9.00% | ~64,482 |
+| Win! | 8.00% | ~57,317 |
 | The real real teleported man | 7.00% | ~50,152 |
-| Well deserved | 6.00% | ~42,987 |
+| Well deserved | 6.00% | ~42,988 |
 | Happiness | 3.00% | ~21,494 |
 | Super Sword | 3.00% | ~21,494 |
 | All Chests | 2.00% | ~14,329 |
@@ -105,8 +105,8 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~716 |
 | DLC: Top of the world | 0.10% | ~716 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 716,456 (Ranked 16)  
-Completed: 708 (0.10%) (Ranked 183)  
+Progressed: 716,463 (Ranked 16)  
+Completed: 709 (0.10%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -189,7 +189,7 @@ Completed: 708 (0.10%) (Ranked 183)
 | 2023-07-10 | 716,038 | 707 |
 | 2023-07-11 | 716,177 | 707 |
 | 2023-07-12 | 716,315 | 708 |
-| 2023-07-13 | 716,456 | 708 |
+| 2023-07-13 | 716,463 | 709 |
 ## Awards
 Max (Challenging Puzzles): 7,641  (Ranked 43)  
 Sum: 9,954 (Ranked 81)  

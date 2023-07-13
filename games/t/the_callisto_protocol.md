@@ -30,7 +30,7 @@ Rating: 4.19 (Ranked 846)
 | Without A Paddle | 1.00% | ~157 |
 | Desperate Times | 1.00% | ~157 |
 | One Last Job | 1.00% | ~36 |
-| In Striking Distance | 0.70% | ~110 |
+| In Striking Distance | 0.80% | ~126 |
 | This Isn't About Escape | 0.60% | ~22 |
 | Armed to the Teeth | 0.40% | ~15 |
 | Grim Reaper | 0.40% | ~63 |
@@ -40,6 +40,8 @@ Rating: 4.19 (Ranked 846)
 | Quick Pick | 0.30% | ~11 |
 | Mugshot | 0.20% | ~31 |
 | It's over, Jacob! | 0.10% | ~16 |
+| Glutton for Punishment | 0.10% | ~4 |
+| You Belong Here | 0.10% | ~4 |
 | The Protocol is About Life | 0.10% | ~16 |
 | Recidivist | 0.10% | ~4 |
 | Lifer | 0.10% | ~4 |
@@ -48,8 +50,6 @@ Rating: 4.19 (Ranked 846)
 | Hoard Mode | 0.10% | ~4 |
 | Subject Alpha | 0.10% | ~4 |
 | Don't Let It Mellow | 0.10% | ~4 |
-| Glutton for Punishment | 0.00% | ~0 |
-| You Belong Here | 0.00% | ~0 |
 | I am the Danger | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 762,
+  "EOS_Progressed": 763,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
@@ -2206,6 +2206,11 @@
       "Time": "2023-07-13T19:03:47.5744051+00:00",
       "NumProgressed": 762,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-13T22:04:12.3963748+00:00",
+      "NumProgressed": 763,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2313,7 +2318,7 @@
       "Name": "Collector 1",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "collector_2",
@@ -2409,7 +2414,7 @@
       "Name": "Elite Deck 1",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "elite_deck_2",
@@ -2601,7 +2606,7 @@
       "Name": "Punctual 1",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "punctual_2",
@@ -2649,7 +2654,7 @@
       "Name": "Soul Shards 1",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "soul_shards_2",
@@ -2744,14 +2749,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 762,
+      "Progressed": 763,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-07-13T21:04:47.2536459+00:00",
+  "LastChanged_Achievements": "2023-07-13T22:04:12.3963743+00:00",
   "LastUpdate_AppInfo": "2023-07-11T03:11:42.9317837+00:00",
-  "LastUpdate_Ratings": "2023-07-13T20:57:32.1400714+00:00",
-  "LastUpdate_Achievements": "2023-07-13T21:04:47.253732+00:00"
+  "LastUpdate_Ratings": "2023-07-13T21:57:27.6457922+00:00",
+  "LastUpdate_Achievements": "2023-07-13T22:04:12.3964538+00:00"
 }

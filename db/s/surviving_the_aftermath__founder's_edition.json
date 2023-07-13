@@ -1113,9 +1113,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 7334,
+  "EOS_Progressed": 7335,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7998,6 +7998,11 @@
       "Time": "2023-07-13T18:05:00.4262112+00:00",
       "NumProgressed": 7334,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-13T22:05:03.2834701+00:00",
+      "NumProgressed": 7335,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -8017,7 +8022,7 @@
       "Name": "Friendly",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1173
+      "UsersEstimate": 1174
     },
     {
       "ID": "11",
@@ -8041,7 +8046,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3887
+      "UsersEstimate": 3888
     },
     {
       "ID": "14",
@@ -8089,7 +8094,7 @@
       "Name": "Healer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3887
+      "UsersEstimate": 3888
     },
     {
       "ID": "2",
@@ -8121,7 +8126,7 @@
       "Name": "First Step",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 5207
+      "UsersEstimate": 5208
     },
     {
       "ID": "23",
@@ -8137,7 +8142,7 @@
       "Name": "It\u0027s a Finnish Thing",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "25",
@@ -8161,7 +8166,7 @@
       "Name": "Energized",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2420
+      "UsersEstimate": 2421
     },
     {
       "ID": "28",
@@ -8185,7 +8190,7 @@
       "Name": "Great Leader",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1613
+      "UsersEstimate": 1614
     },
     {
       "ID": "30",
@@ -8217,7 +8222,7 @@
       "Name": "Around the World",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1173
+      "UsersEstimate": 1174
     },
     {
       "ID": "34",
@@ -8233,7 +8238,7 @@
       "Name": "War Never Changes",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1393
+      "UsersEstimate": 1394
     },
     {
       "ID": "36",
@@ -8305,7 +8310,7 @@
       "Name": "Prepared for Anything",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "44",
@@ -8337,7 +8342,7 @@
       "Name": "The Long Haul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2420
+      "UsersEstimate": 2421
     },
     {
       "ID": "48",
@@ -8465,7 +8470,7 @@
       "Name": "Real Survivor",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1613
+      "UsersEstimate": 1614
     },
     {
       "ID": "9",
@@ -8480,15 +8485,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 7334,
+      "Progressed": 7335,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-07-10T18:59:49.6451369+00:00",
-  "LastChanged_Achievements": "2023-07-13T21:05:49.00887+00:00",
+  "LastChanged_Achievements": "2023-07-13T22:05:03.2834696+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:19.4551876+00:00",
-  "LastUpdate_Ratings": "2023-07-13T21:00:54.7835741+00:00",
-  "LastUpdate_Achievements": "2023-07-13T21:05:49.0090487+00:00"
+  "LastUpdate_Ratings": "2023-07-13T22:00:14.3682144+00:00",
+  "LastUpdate_Achievements": "2023-07-13T22:05:03.2835694+00:00"
 }

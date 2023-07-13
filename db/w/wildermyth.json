@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -151,9 +151,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1310,
+  "EOS_Progressed": 1311,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1096,6 +1096,11 @@
       "Time": "2023-07-13T13:22:20.2826694+00:00",
       "NumProgressed": 1310,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-13T22:04:44.55412+00:00",
+      "NumProgressed": 1311,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 56,
@@ -1123,7 +1128,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -1171,7 +1176,7 @@
       "Name": "Gotta Ca... Must Collect All of Them",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
@@ -1193,9 +1198,9 @@
       "ID": "achievement_fullTransformation",
       "SetID": "95dc8p",
       "Name": "Completing the Look",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 170
+      "UsersEstimate": 184
     },
     {
       "ID": "achievement_kill1000Cultists",
@@ -1281,9 +1286,9 @@
       "ID": "achievement_maimedHero",
       "SetID": "95dc8p",
       "Name": "The Cost of Heroism",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 472
+      "UsersEstimate": 485
     },
     {
       "ID": "achievement_mythwalker",
@@ -1554,15 +1559,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1310,
+      "Progressed": 1311,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-07-08T20:01:41.3411794+00:00",
-  "LastChanged_Achievements": "2023-07-13T21:05:26.011895+00:00",
+  "LastChanged_Achievements": "2023-07-13T22:04:44.5541194+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:13.8802543+00:00",
-  "LastUpdate_Ratings": "2023-07-13T21:03:07.3471454+00:00",
-  "LastUpdate_Achievements": "2023-07-13T21:05:26.0119718+00:00"
+  "LastUpdate_Ratings": "2023-07-13T22:00:49.7572309+00:00",
+  "LastUpdate_Achievements": "2023-07-13T22:04:44.5542138+00:00"
 }
