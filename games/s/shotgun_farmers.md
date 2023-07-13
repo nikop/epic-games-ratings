@@ -45,11 +45,11 @@
 | Easy Peasy | 2.00% | ~3 |
 | Honk Honk | 1.00% | ~2 |
 | Pro Pyromancer | 1.00% | ~2 |
+| Pro Shotgunner | 1.00% | ~2 |
 | King of the Crow | 1.00% | ~2 |
 | Tomassacred | 1.00% | ~2 |
 | 15 Days | 0.50% | ~1 |
 | Pro Carrocketeer | 0.50% | ~1 |
-| Pro Shotgunner | 0.50% | ~1 |
 | Unstoppable | 0.50% | ~1 |
 | Berry Loved | 0.50% | ~1 |
 | Carrocket From Above | 0.50% | ~1 |

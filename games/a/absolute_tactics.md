@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | A New Adventure | 60.00% | ~3 |
 | Big Money | 40.00% | ~2 |
+| The Blood of Mercy | 40.00% | ~2 |
 | The Killing Moon | 20.00% | ~1 |
 | Beating the Bushes | 20.00% | ~1 |
-| The Blood of Mercy | 20.00% | ~1 |
 | The Heart of Mercy | 20.00% | ~1 |
 | It's a Party | 20.00% | ~1 |
 | Eye for an Eye | 0.00% | ~0 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1944,10 +1944,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4041,
       "NumberOfAwardsMax": 2442
+    },
+    {
+      "Time": "2023-07-13T20:01:25.9439352+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4042,
+      "NumberOfAwardsMax": 2442
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4041,
+  "NumberOfAwards": 4042,
   "NumberOfAwardsMax": 2442,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1967,7 +1973,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 199
+      "Count": 200
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2012,7 +2018,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 66978,
+  "EOS_Progressed": 66982,
   "EOS_Completed": 102,
   "EOS_NewPlayers": 422,
   "EOS_NewCompleters": 2,
@@ -9672,6 +9678,11 @@
       "Time": "2023-07-13T19:03:40.4233045+00:00",
       "NumProgressed": 66978,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-07-13T20:04:21.063948+00:00",
+      "NumProgressed": 66982,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 61,
@@ -9817,9 +9828,9 @@
       "ID": "CRAFTING_LEGENDARY_SET",
       "SetID": "4eo5ebm",
       "Name": "Dressed to Impress",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 469
+      "UsersEstimate": 536
     },
     {
       "ID": "CRAFTING_MOD_CHIPS",
@@ -10170,22 +10181,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 66978,
+      "Progressed": 66982,
       "Completed": 102
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 37258,
+      "Progressed": 37262,
       "Completed": 2652
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-07-13T11:00:03.359725+00:00",
-  "LastChanged_Achievements": "2023-07-13T19:03:40.4233041+00:00",
+  "LastChanged": "2023-07-13T20:01:25.943935+00:00",
+  "LastChanged_Achievements": "2023-07-13T20:04:21.0639474+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:06.0757808+00:00",
-  "LastUpdate_Ratings": "2023-07-13T18:59:46.6046861+00:00",
-  "LastUpdate_Achievements": "2023-07-13T19:03:40.4234198+00:00"
+  "LastUpdate_Ratings": "2023-07-13T20:01:25.9439356+00:00",
+  "LastUpdate_Achievements": "2023-07-13T20:04:21.0640692+00:00"
 }

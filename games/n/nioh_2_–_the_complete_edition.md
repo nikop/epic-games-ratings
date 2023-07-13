@@ -1,7 +1,7 @@
 # Nioh 2 – The Complete Edition
 [Store](https://store.epicgames.com/en-US/p/nioh-2-the-complete-edition)  
 [View Rawdata](../../db/n/nioh_2_–_the_complete_edition.json)  
-Rating: 4.79 (Ranked 88)  
+Rating: 4.80 (Ranked 82)  
 Number of Ratings: 2,526  (23.09.2022)  
 ## Awards
 Max (Character Customization): 2,428  (Ranked 101)  
@@ -185,4 +185,4 @@ Diff (max vs sum): -7
 | 2023-07-08 | 4.80 | - | 2,427 | 6,976 |
 | 2023-07-09 | 4.79 | - | 2,428 | 6,978 |
 | 2023-07-10 | 4.79 | - | 2,428 | 6,980 |
-| 2023-07-13 | 4.79 | - | 2,428 | 6,982 |
+| 2023-07-13 | 4.80 | - | 2,428 | 6,982 |

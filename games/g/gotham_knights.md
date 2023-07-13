@@ -42,7 +42,7 @@ Rating: 4.18 (Ranked 855)
 | Solid Alibi | 1.00% | ~670 |
 | Expert Crime Fighter | 0.90% | ~603 |
 | A Worthy Successor | 0.90% | ~603 |
-| Dressed to Impress | 0.70% | ~469 |
+| Dressed to Impress | 0.80% | ~536 |
 | A Momentum Occasion | 0.60% | ~402 |
 | Bat Out of Hell | 0.50% | ~335 |
 | He'd Be So Proud of You | 0.40% | ~268 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 855)
 | History Major | 0.10% | ~67 |
 | Confronting Your Demon | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,978 (Ranked 75)  
+Progressed: 66,982 (Ranked 75)  
 Completed: 102 (0.15%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,10 +151,10 @@ Completed: 102 (0.15%) (Ranked 172)
 | 2023-07-10 | 66,839 | 101 |
 | 2023-07-11 | 66,886 | 101 |
 | 2023-07-12 | 66,929 | 102 |
-| 2023-07-13 | 66,978 | 102 |
+| 2023-07-13 | 66,982 | 102 |
 ## Awards
 Max (Great Boss Battles): 2,442  (Ranked 100)  
-Sum: 4,041 (Ranked 138)  
+Sum: 4,042 (Ranked 138)  
 Diff (max vs sum): -38  
 | Award | Count |
 | ----- | ----- |
@@ -162,7 +162,7 @@ Diff (max vs sum): -38
 | This game has Quickly Understood Controls | 207 |
 | This game is Extremely Fun | 207 |
 | This game is Relaxing | 206 |
-| This game has Amazing Characters | 199 |
+| This game has Amazing Characters | 200 |
 | This game has Diverse Characters | 199 |
 | This game is Great for Beginners | 194 |
 | This game is Highly Recommended | 194 |
@@ -313,4 +313,4 @@ Diff (max vs sum): -38
 | 2023-07-10 | 4.18 | 2,434 | 4,028 |
 | 2023-07-11 | 4.18 | 2,441 | 4,035 |
 | 2023-07-12 | 4.18 | 2,442 | 4,039 |
-| 2023-07-13 | 4.18 | 2,442 | 4,041 |
+| 2023-07-13 | 4.18 | 2,442 | 4,042 |

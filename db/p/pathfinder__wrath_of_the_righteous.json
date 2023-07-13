@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3030,10 +3030,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6811,
       "NumberOfAwardsMax": 1677
+    },
+    {
+      "Time": "2023-07-13T19:59:34.6843381+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6812,
+      "NumberOfAwardsMax": 1677
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6811,
+  "NumberOfAwards": 6812,
   "NumberOfAwardsMax": 1677,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3095,7 +3101,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 561
+      "Count": 562
     },
     {
       "Text": "This game has a Creative Community",
@@ -3104,9 +3110,9 @@
       "Count": 381
     }
   ],
-  "EOS_Progressed": 10296,
+  "EOS_Progressed": 10297,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8319,6 +8325,11 @@
       "Time": "2023-07-13T19:03:52.3109747+00:00",
       "NumProgressed": 10296,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-13T20:04:37.6794851+00:00",
+      "NumProgressed": 10297,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -8338,7 +8349,7 @@
       "Name": "Burning City",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1441
+      "UsersEstimate": 1442
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -8528,9 +8539,9 @@
       "ID": "27_VictorySeige",
       "SetID": "989of5o",
       "Name": "Queen\u0027s Gratitude",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 927
+      "UsersEstimate": 1030
     },
     {
       "ID": "28_GreatUpstart",
@@ -8698,7 +8709,7 @@
       "Name": "A Spark",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1441
+      "UsersEstimate": 1442
     },
     {
       "ID": "49_Flame",
@@ -9257,21 +9268,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9078,
+      "Progressed": 9079,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10296,
+      "Progressed": 10297,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-07-13T14:59:10.208868+00:00",
-  "LastChanged_Achievements": "2023-07-13T19:03:52.310974+00:00",
+  "LastChanged": "2023-07-13T19:59:34.6843379+00:00",
+  "LastChanged_Achievements": "2023-07-13T20:04:37.6794845+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:12.7052521+00:00",
-  "LastUpdate_Ratings": "2023-07-13T18:58:30.1915012+00:00",
-  "LastUpdate_Achievements": "2023-07-13T19:03:52.3111801+00:00"
+  "LastUpdate_Ratings": "2023-07-13T19:59:34.6843386+00:00",
+  "LastUpdate_Achievements": "2023-07-13T20:04:37.6796962+00:00"
 }

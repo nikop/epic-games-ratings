@@ -4,8 +4,8 @@
   "ProductSlug": "absolute-tactics-ca91e4",
   "Ranking_EOS_Progress": 424,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-09-15T16:00:00+00:00",
     "PcReleaseDate": "2022-09-15T16:00:00+00:00",
@@ -131,9 +131,9 @@
       "ID": "AT_ACHIEVEMENT_NAME_0009",
       "SetID": "9jb1eoe",
       "Name": "The Blood of Mercy",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 90,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "AT_ACHIEVEMENT_NAME_0010",
@@ -244,8 +244,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.3491897+00:00",
   "FirstSeenAchievements": "2023-06-19T22:05:39.5621964+00:00",
   "LastChanged": "2023-03-31T05:57:50.3491898+00:00",
-  "LastChanged_Achievements": "2023-07-13T19:06:02.0045897+00:00",
+  "LastChanged_Achievements": "2023-07-13T20:07:36.9280324+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:31.0565099+00:00",
-  "LastUpdate_Ratings": "2023-07-13T19:00:07.4333367+00:00",
-  "LastUpdate_Achievements": "2023-07-13T19:06:02.0046057+00:00"
+  "LastUpdate_Ratings": "2023-07-13T20:01:51.7259554+00:00",
+  "LastUpdate_Achievements": "2023-07-13T20:07:36.9280496+00:00"
 }

@@ -29,8 +29,8 @@ Rating: 4.87 (Ranked 24)
 | Feeling the beat! | 0.80% | ~28 |
 | You can pet the cat! | 0.80% | ~28 |
 | Perfecter Parry-er! | 0.70% | ~24 |
+| I look cool. But I can look COOLER. | 0.70% | ~24 |
 | Well that was a rush! | 0.60% | ~21 |
-| I look cool. But I can look COOLER. | 0.60% | ~21 |
 | That's a lot of junk metal… | 0.50% | ~17 |
 | There's such a thing as TOO helpful | 0.50% | ~17 |
 | Does that say weakpoint? | 0.50% | ~17 |

@@ -550,9 +550,9 @@
       "Count": 213
     }
   ],
-  "EOS_Progressed": 11034,
+  "EOS_Progressed": 11035,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -6510,6 +6510,11 @@
       "Time": "2023-07-13T19:06:18.8573489+00:00",
       "NumProgressed": 11034,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-07-13T20:08:00.169308+00:00",
+      "NumProgressed": 11035,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 35,
@@ -6577,7 +6582,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5517
+      "UsersEstimate": 5518
     },
     {
       "ID": "ACH09",
@@ -6625,7 +6630,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1103
+      "UsersEstimate": 1104
     },
     {
       "ID": "ACH15",
@@ -6641,7 +6646,7 @@
       "Name": "Smooth Moves",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1765
+      "UsersEstimate": 1766
     },
     {
       "ID": "ACH17",
@@ -6743,9 +6748,9 @@
       "ID": "ACH29",
       "SetID": "4ck5mbe",
       "Name": "Today Was a Good Day",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 45,
-      "UsersEstimate": 1655
+      "UsersEstimate": 1545
     },
     {
       "ID": "ACH30",
@@ -6800,7 +6805,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11034,
+      "Progressed": 11035,
       "Completed": 29
     }
   ],
@@ -6808,8 +6813,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-12T21:00:26.4584416+00:00",
-  "LastChanged_Achievements": "2023-07-13T19:06:18.8573485+00:00",
+  "LastChanged_Achievements": "2023-07-13T20:08:00.1693074+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:43.1834453+00:00",
-  "LastUpdate_Ratings": "2023-07-13T19:00:14.3589452+00:00",
-  "LastUpdate_Achievements": "2023-07-13T19:06:18.857417+00:00"
+  "LastUpdate_Ratings": "2023-07-13T20:02:04.3473527+00:00",
+  "LastUpdate_Achievements": "2023-07-13T20:08:00.1693974+00:00"
 }

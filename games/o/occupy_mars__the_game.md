@@ -6,10 +6,10 @@ Rating: 3.93 (Ranked 925)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I don't feel so good | 41.00% | ~576 |
-| Electrician | 34.00% | ~477 |
-| Fear my botany powers, Mars | 33.00% | ~463 |
-| Zero Waste | 30.00% | ~421 |
-| Bob The Builder | 30.00% | ~421 |
+| Electrician | 34.00% | ~478 |
+| Fear my botany powers, Mars | 33.00% | ~464 |
+| Zero Waste | 30.00% | ~422 |
+| Bob The Builder | 30.00% | ~422 |
 | I am the greatest botanist on this planet. | 29.00% | ~407 |
 | Gardener | 25.00% | ~351 |
 | Miner | 25.00% | ~351 |
@@ -29,14 +29,14 @@ Rating: 3.93 (Ranked 925)
 | To infinity and beyond! | 2.00% | ~28 |
 | Explosive Miner | 1.00% | ~14 |
 | Rocket Jump | 1.00% | ~14 |
+| Caveman | 0.80% | ~11 |
 | Thunderstruck | 0.80% | ~11 |
-| Caveman | 0.70% | ~10 |
 | 5G Network | 0.60% | ~8 |
 | Planetary Defence | 0.60% | ~8 |
 | Bull’s eye | 0.50% | ~7 |
+| One does not simply... | 0.50% | ~7 |
 | Rover Mechanic | 0.50% | ~7 |
 | Korolev crater | 0.40% | ~6 |
-| One does not simply... | 0.40% | ~6 |
 | Hot Repairs | 0.30% | ~4 |
 | Never Ending Story? | 0.20% | ~3 |
 | Cooking Vegetables | 0.10% | ~1 |
@@ -54,7 +54,7 @@ Rating: 3.93 (Ranked 925)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,404 (Ranked 174)  
+Progressed: 1,405 (Ranked 174)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-10 | 1,397 | 0 |
 | 2023-07-11 | 1,399 | 0 |
 | 2023-07-12 | 1,400 | 0 |
-| 2023-07-13 | 1,404 | 0 |
+| 2023-07-13 | 1,405 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
