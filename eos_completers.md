@@ -13,7 +13,7 @@
 | 11 | [Island Cities](games/i/island_cities.md) | 18.52% |
 | 12 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 16.67% |
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
-| 14 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 14.04% |
+| 14 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 13.91% |
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 16 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.15% |
 | 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.04% |
@@ -24,7 +24,7 @@
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 23 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.70% |
 | 24 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
-| 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.40% |
+| 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.46% |
 | 26 | [Smelter](games/s/smelter.md) | 8.11% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 7.47% |
 | 28 | [Time Loader](games/t/time_loader.md) | 7.21% |
@@ -49,7 +49,7 @@
 | 47 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
 | 48 | [Doodle God](games/d/doodle_god.md) | 3.56% |
 | 49 | [ZZT!](games/z/zzt!.md) | 3.55% |
-| 50 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.54% |
+| 50 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.52% |
 | 51 | [Bunny Park](games/b/bunny_park.md) | 3.42% |
 | 52 | [Monster Harvest](games/m/monster_harvest.md) | 3.38% |
 | 53 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.33% |
@@ -490,4 +490,4 @@
 | 237 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 237 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 237 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,894 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
+| 2,896 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
