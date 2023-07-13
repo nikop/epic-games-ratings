@@ -25,7 +25,7 @@
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
 | 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.40% |
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
-| 26 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.69% |
+| 26 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.61% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 7.47% |
 | 28 | [Time Loader](games/t/time_loader.md) | 7.21% |
 | 29 | [Scorn](games/s/scorn.md) | 7.06% |
@@ -92,7 +92,7 @@
 | 90 | [A Musical Story](games/a/a_musical_story.md) | 1.43% |
 | 91 | [Late Shift](games/l/late_shift.md) | 1.34% |
 | 92 | [Five Dates](games/f/five_dates.md) | 1.28% |
-| 93 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.25% |
+| 93 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.23% |
 | 94 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.20% |
 | 94 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.20% |
 | 96 | [Chorus](games/c/chorus.md) | 1.17% |
