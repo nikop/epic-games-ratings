@@ -250,7 +250,7 @@
 | 240 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 2,428 | 101 |
 | 240 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 0 | 505 |
 | 240 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 300,003 | 3 |
-| 240 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 197,630 | 4 |
+| 240 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 198,019 | 4 |
 | 240 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 416 | 205 |
 | 240 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 560 | 180 |
 | 240 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 674 | 165 |
