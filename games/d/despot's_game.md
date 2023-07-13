@@ -5,30 +5,30 @@ Rating: 4.50 (Ranked 552)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 84.00% | ~340 |
+| Good start! | 84.00% | ~341 |
 | Vanquisher of Robots | 75.00% | ~304 |
-| Party | 47.00% | ~190 |
-| Impossible Cube | 45.00% | ~182 |
-| Knowledge is Power | 43.00% | ~174 |
-| No Mercy | 42.00% | ~170 |
+| Party | 47.00% | ~191 |
+| Impossible Cube | 45.00% | ~183 |
+| Knowledge is Power | 43.00% | ~175 |
+| No Mercy | 42.00% | ~171 |
 | The Return of a Rat | 41.00% | ~166 |
 | Through the Darkness | 41.00% | ~166 |
 | Fat of the Earth | 35.00% | ~142 |
 | Last Man Standing | 32.00% | ~130 |
-| Catch Jonathan_tostar | 27.00% | ~109 |
-| Great Hero | 27.00% | ~109 |
-| Campaigning | 26.00% | ~105 |
-| He's Seen It All | 26.00% | ~105 |
-| Rookie | 26.00% | ~105 |
+| Catch Jonathan_tostar | 27.00% | ~110 |
+| Great Hero | 27.00% | ~110 |
+| Campaigning | 26.00% | ~106 |
+| He's Seen It All | 26.00% | ~106 |
+| Rookie | 26.00% | ~106 |
 | Assemble a Meganewbie | 24.00% | ~97 |
 | Frugal | 22.00% | ~89 |
 | Feed a God | 21.00% | ~85 |
 | To the Moon and Back | 20.00% | ~81 |
-| Great Flight | 18.00% | ~73 |
+| Great Flight | 17.00% | ~69 |
 | Holy Vengeance | 16.00% | ~65 |
 | Honorary Cultist | 12.00% | ~49 |
-| Strength and Sorcery | 10.00% | ~40 |
-| Brain and Brawn | 10.00% | ~40 |
+| Strength and Sorcery | 10.00% | ~41 |
+| Brain and Brawn | 10.00% | ~41 |
 | Omae Wa Mou Shindeiru | 8.00% | ~32 |
 | Experimentalist | 6.00% | ~24 |
 | Wide Selection | 6.00% | ~24 |
@@ -41,7 +41,7 @@ Rating: 4.50 (Ranked 552)
 | Vet | 1.00% | ~4 |
 | Real Achiever | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 405 (Ranked 225)  
+Progressed: 406 (Ranked 225)  
 Completed: 1 (0.25%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,6 +76,7 @@ Completed: 1 (0.25%) (Ranked 154)
 | 2023-06-25 | 403 | 1 |
 | 2023-07-03 | 404 | 1 |
 | 2023-07-07 | 405 | 1 |
+| 2023-07-13 | 406 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57278,
+  "EOS_Progressed": 57280,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 367,
+  "EOS_NewPlayers": 366,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7832,6 +7832,11 @@
       "Time": "2023-07-13T14:04:16.0650908+00:00",
       "NumProgressed": 57278,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-13T16:04:20.5287151+00:00",
+      "NumProgressed": 57280,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7851,7 +7856,7 @@
       "Name": "Nordic Walking",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 12028
+      "UsersEstimate": 12029
     },
     {
       "ID": "03",
@@ -7907,7 +7912,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6873
+      "UsersEstimate": 6874
     },
     {
       "ID": "10",
@@ -7963,7 +7968,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4009
+      "UsersEstimate": 4010
     },
     {
       "ID": "17",
@@ -8003,7 +8008,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6873
+      "UsersEstimate": 6874
     },
     {
       "ID": "22",
@@ -8035,7 +8040,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4009
+      "UsersEstimate": 4010
     },
     {
       "ID": "26",
@@ -8091,7 +8096,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14892
+      "UsersEstimate": 14893
     },
     {
       "ID": "33",
@@ -8099,7 +8104,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6873
+      "UsersEstimate": 6874
     },
     {
       "ID": "34",
@@ -8115,7 +8120,7 @@
       "Name": "Let There Be Light",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 15465
+      "UsersEstimate": 15466
     },
     {
       "ID": "36",
@@ -8378,21 +8383,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57278,
+      "Progressed": 57280,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20746,
+      "Progressed": 20748,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-13T15:04:36.5318037+00:00",
+  "LastChanged_Achievements": "2023-07-13T16:04:20.5287144+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:08.3646753+00:00",
-  "LastUpdate_Ratings": "2023-07-13T14:58:25.1487469+00:00",
-  "LastUpdate_Achievements": "2023-07-13T15:04:36.5319187+00:00"
+  "LastUpdate_Ratings": "2023-07-13T15:58:26.2152922+00:00",
+  "LastUpdate_Achievements": "2023-07-13T16:04:20.5288004+00:00"
 }

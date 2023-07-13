@@ -5,8 +5,8 @@
   "Ranking_Rating": 654,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
-  "Ranking_EOS_Progress": 134,
-  "Ranking_EOS_Completed": 214,
+  "Ranking_EOS_Progress": 135,
+  "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
@@ -179,7 +179,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5121,
+  "EOS_Progressed": 5122,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
@@ -2209,6 +2209,11 @@
       "Time": "2023-07-13T08:03:43.7752758+00:00",
       "NumProgressed": 5121,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-13T16:04:30.2763873+00:00",
+      "NumProgressed": 5122,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -2308,7 +2313,7 @@
       "Name": "Level: Extra Life",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "ach_campaign_progress3",
@@ -2332,7 +2337,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2560
+      "UsersEstimate": 2561
     },
     {
       "ID": "ach_campaign_progress6",
@@ -2372,7 +2377,7 @@
       "Name": "Returning Home: Quick Learner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1332
     },
     {
       "ID": "ach_campaign_special10",
@@ -2468,7 +2473,7 @@
       "Name": "Rising Markets: Avoiding the Reds",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "ach_campaign_special5",
@@ -2644,7 +2649,7 @@
       "Name": "Data Churn Type I",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "ach_frp_researchdata2",
@@ -2827,15 +2832,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5121,
+      "Progressed": 5122,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-07-13T15:04:45.2278991+00:00",
+  "LastChanged_Achievements": "2023-07-13T16:04:30.2763868+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:01.0714136+00:00",
-  "LastUpdate_Ratings": "2023-07-13T14:59:49.517225+00:00",
-  "LastUpdate_Achievements": "2023-07-13T15:04:45.228031+00:00"
+  "LastUpdate_Ratings": "2023-07-13T16:00:02.0021929+00:00",
+  "LastUpdate_Achievements": "2023-07-13T16:04:30.2764598+00:00"
 }

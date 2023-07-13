@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 405,
+  "EOS_Progressed": 406,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -310,6 +310,11 @@
       "Time": "2023-07-07T23:02:08.3327267+00:00",
       "NumProgressed": 405,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-13T16:03:37.4523817+00:00",
+      "NumProgressed": 406,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -321,7 +326,7 @@
       "Name": "Strength and Sorcery",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "assemble-team2",
@@ -329,7 +334,7 @@
       "Name": "Brain and Brawn",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "assemble-team3",
@@ -369,7 +374,7 @@
       "Name": "No Mercy",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "different-items1",
@@ -377,7 +382,7 @@
       "Name": "Party",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "different-items2",
@@ -401,15 +406,15 @@
       "Name": "Impossible Cube",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "finished-quest-flight",
       "SetID": "799afm0",
       "Name": "Great Flight",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 69
     },
     {
       "ID": "finished-quest-monster",
@@ -417,7 +422,7 @@
       "Name": "Campaigning",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "finished-quest-nurgle",
@@ -449,7 +454,7 @@
       "Name": "Catch Jonathan_tostar",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "finished-quest-sci",
@@ -457,7 +462,7 @@
       "Name": "Knowledge is Power",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "finished-quest-secret",
@@ -489,7 +494,7 @@
       "Name": "He\u0027s Seen It All",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "last-hero",
@@ -529,7 +534,7 @@
       "Name": "Great Hero",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "win-first-biom",
@@ -545,7 +550,7 @@
       "Name": "Good start!",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "win-koth-fights1",
@@ -553,7 +558,7 @@
       "Name": "Rookie",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "win-koth-fights2",
@@ -600,7 +605,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 405,
+      "Progressed": 406,
       "Completed": 1
     }
   ],
@@ -608,8 +613,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-07-13T15:03:45.4426527+00:00",
+  "LastChanged_Achievements": "2023-07-13T16:03:37.4523811+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:31.3205078+00:00",
-  "LastUpdate_Ratings": "2023-07-13T14:59:27.7686508+00:00",
-  "LastUpdate_Achievements": "2023-07-13T15:03:45.4426802+00:00"
+  "LastUpdate_Ratings": "2023-07-13T15:59:38.4071413+00:00",
+  "LastUpdate_Achievements": "2023-07-13T16:03:37.4524093+00:00"
 }

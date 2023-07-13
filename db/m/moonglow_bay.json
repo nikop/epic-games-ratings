@@ -4,7 +4,7 @@
   "ProductSlug": "moonglow-bay",
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-11-11T17:00:00+00:00",
@@ -334,9 +334,9 @@
       "ID": "ACH_34_GRAPE",
       "SetID": "cieb1c3",
       "Name": "Then Peel Me A Grape",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_35_WORTH",
@@ -375,8 +375,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.9355782+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:22.8517258+00:00",
   "LastChanged": "2023-03-31T05:57:52.9355783+00:00",
-  "LastChanged_Achievements": "2023-07-13T15:05:48.0336707+00:00",
+  "LastChanged_Achievements": "2023-07-13T16:05:36.9341048+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:45.1285992+00:00",
-  "LastUpdate_Ratings": "2023-07-13T15:00:24.9195794+00:00",
-  "LastUpdate_Achievements": "2023-07-13T15:05:48.0337299+00:00"
+  "LastUpdate_Ratings": "2023-07-13T16:00:36.4685885+00:00",
+  "LastUpdate_Achievements": "2023-07-13T16:05:36.9341268+00:00"
 }

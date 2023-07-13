@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 78,
+  "Ranking_EOS_NewPlayers": 79,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
@@ -208,9 +208,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 226062,
+  "EOS_Progressed": 226063,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 465,
+  "EOS_NewPlayers": 464,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8918,6 +8918,11 @@
       "Time": "2023-07-13T15:04:51.7024562+00:00",
       "NumProgressed": 226062,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-13T16:04:37.2321096+00:00",
+      "NumProgressed": 226063,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -8993,7 +8998,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 81382
+      "UsersEstimate": 81383
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -9129,7 +9134,7 @@
       "Name": "Makin\u0027 Bacon",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 9042
+      "UsersEstimate": 9043
     },
     {
       "ID": "WIN_1_ONLINE_MATCH",
@@ -9152,7 +9157,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 226062,
+      "Progressed": 226063,
       "Completed": 3
     }
   ],
@@ -9160,8 +9165,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-07-04T22:59:46.8695793+00:00",
-  "LastChanged_Achievements": "2023-07-13T15:04:51.7024553+00:00",
+  "LastChanged_Achievements": "2023-07-13T16:04:37.2321091+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:08.7255676+00:00",
-  "LastUpdate_Ratings": "2023-07-13T15:00:44.2240043+00:00",
-  "LastUpdate_Achievements": "2023-07-13T15:04:51.7025239+00:00"
+  "LastUpdate_Ratings": "2023-07-13T16:00:55.7684895+00:00",
+  "LastUpdate_Achievements": "2023-07-13T16:04:37.2321643+00:00"
 }

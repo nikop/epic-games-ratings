@@ -6,32 +6,32 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 68.00% | ~42,029 |
-| INFUSED WITH LIGHT | 53.00% | ~32,758 |
-| FOXIN' AROUND | 29.00% | ~17,924 |
-| FETCH | 27.00% | ~16,688 |
-| BLOOMS OF LIGHT | 26.00% | ~16,070 |
-| BEST FRIENDS | 22.00% | ~13,598 |
-| AWAKEN | 21.00% | ~12,980 |
-| SPIRIT BARK | 21.00% | ~12,980 |
-| ERADICATE | 20.00% | ~12,362 |
-| GARDEN OF LIGHT | 18.00% | ~11,125 |
-| SPIRIT FORM | 16.00% | ~9,889 |
-| UPROOTING DARKNESS | 15.00% | ~9,271 |
-| WRITTEN IN STONE | 15.00% | ~9,271 |
-| WEIGHTLESS | 12.00% | ~7,417 |
+| A GUARDIAN FORGOTTEN | 68.00% | ~42,033 |
+| INFUSED WITH LIGHT | 53.00% | ~32,761 |
+| FOXIN' AROUND | 29.00% | ~17,926 |
+| FETCH | 27.00% | ~16,690 |
+| BLOOMS OF LIGHT | 26.00% | ~16,071 |
+| BEST FRIENDS | 22.00% | ~13,599 |
+| AWAKEN | 21.00% | ~12,981 |
+| SPIRIT BARK | 21.00% | ~12,981 |
+| ERADICATE | 20.00% | ~12,363 |
+| GARDEN OF LIGHT | 18.00% | ~11,126 |
+| SPIRIT FORM | 16.00% | ~9,890 |
+| UPROOTING DARKNESS | 15.00% | ~9,272 |
+| WRITTEN IN STONE | 15.00% | ~9,272 |
+| WEIGHTLESS | 12.00% | ~7,418 |
 | SPIRIT DASH | 11.00% | ~6,799 |
 | OLD COMPANION | 9.00% | ~5,563 |
 | PLAGUE DOCTOR | 8.00% | ~4,945 |
 | SPIRITED AWAY | 8.00% | ~4,945 |
 | MATCH MAKER | 7.00% | ~4,327 |
 | NORTHERN LIGHTS | 7.00% | ~4,327 |
-| FOX? OR FLYING SQUIRREL? | 4.00% | ~2,472 |
+| FOX? OR FLYING SQUIRREL? | 4.00% | ~2,473 |
 | ANCIENT HISTORY | 3.00% | ~1,854 |
 | NONE FORGOTTEN | 2.00% | ~1,236 |
 | KINDRED SPIRITS | 0.60% | ~371 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,808 (Ranked 80)  
+Progressed: 61,813 (Ranked 80)  
 Completed: 311 (0.50%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,11 +115,11 @@ Completed: 311 (0.50%) (Ranked 126)
 | 2023-07-10 | 61,528 | 311 |
 | 2023-07-11 | 61,636 | 311 |
 | 2023-07-12 | 61,750 | 311 |
-| 2023-07-13 | 61,808 | 311 |
+| 2023-07-13 | 61,813 | 311 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 474)  
-Sum: 113 (Ranked 404)  
-Diff (max vs sum): 70  
+Sum: 113 (Ranked 405)  
+Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 25 |

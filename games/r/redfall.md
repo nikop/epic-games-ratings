@@ -57,7 +57,7 @@ Rating: 3.54 (Ranked 948)
 | Friends 'Til The End | 1.00% | ~17 |
 | Sisterhood | 0.90% | ~15 |
 | Ask Not For Whom The Horns Blow | 0.90% | ~15 |
-| Good Samaritan | 0.60% | ~10 |
+| Good Samaritan | 0.70% | ~12 |
 | Someplace to Be | 0.50% | ~9 |
 | Bob’s Final Hour | 0.50% | ~9 |
 | A Cry in the Dark | 0.30% | ~5 |
@@ -72,7 +72,7 @@ Rating: 3.54 (Ranked 948)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,720 (Ranked 166)  
+Progressed: 1,720 (Ranked 167)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |

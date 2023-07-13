@@ -6,31 +6,31 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,221 |
-| That's a Grand Army | 8.00% | ~5,530 |
-| That is mine! | 8.00% | ~5,530 |
-| Victorious! | 8.00% | ~5,530 |
-| Brothers in Arms | 6.00% | ~4,147 |
-| That's a Grand Navy | 6.00% | ~4,147 |
-| Seriously?! | 6.00% | ~4,147 |
-| For the Glory | 5.00% | ~3,456 |
-| Cold War | 4.00% | ~2,765 |
-| True Catholic | 4.00% | ~2,765 |
+| Until death do us apart | 9.00% | ~6,223 |
+| That's a Grand Army | 8.00% | ~5,532 |
+| That is mine! | 8.00% | ~5,532 |
+| Victorious! | 8.00% | ~5,532 |
+| Brothers in Arms | 6.00% | ~4,149 |
+| That's a Grand Navy | 6.00% | ~4,149 |
+| Seriously?! | 6.00% | ~4,149 |
+| For the Glory | 5.00% | ~3,457 |
+| Cold War | 4.00% | ~2,766 |
+| True Catholic | 4.00% | ~2,766 |
 | Defender of the Faith | 3.00% | ~2,074 |
 | It's all about luck | 3.00% | ~2,074 |
 | It's all about the money | 3.00% | ~2,074 |
 | Respected | 3.00% | ~2,074 |
 | The Princess is in this Castle | 3.00% | ~2,074 |
 | Truly Divine Ruler | 3.00% | ~2,074 |
-| Agressive Expander | 2.00% | ~1,382 |
-| Blockader | 2.00% | ~1,382 |
-| Combined Arms | 2.00% | ~1,382 |
-| Double the Love | 2.00% | ~1,382 |
-| Gentle Persuasion | 2.00% | ~1,382 |
-| My armies are invincible! | 2.00% | ~1,382 |
-| Queen of Conquest | 2.00% | ~1,382 |
-| Royal Authority | 2.00% | ~1,382 |
-| Total Control | 2.00% | ~1,382 |
+| Agressive Expander | 2.00% | ~1,383 |
+| Blockader | 2.00% | ~1,383 |
+| Combined Arms | 2.00% | ~1,383 |
+| Double the Love | 2.00% | ~1,383 |
+| Gentle Persuasion | 2.00% | ~1,383 |
+| My armies are invincible! | 2.00% | ~1,383 |
+| Queen of Conquest | 2.00% | ~1,383 |
+| Royal Authority | 2.00% | ~1,383 |
+| Total Control | 2.00% | ~1,383 |
 | All That's Thine Shall Be Mine | 1.00% | ~691 |
 | Azur semé de lis or | 1.00% | ~691 |
 | Bright Spark | 1.00% | ~691 |
@@ -59,18 +59,18 @@ Number of Ratings: 8,414  (23.09.2022)
 | Ruina Imperii | 0.50% | ~346 |
 | Trophy Hunter | 0.50% | ~346 |
 | Voting Streak | 0.50% | ~346 |
-| All Your Trade Are Belong to Us | 0.40% | ~276 |
-| Bleed Them Dry | 0.40% | ~276 |
-| Dude, Where's my Boat? | 0.40% | ~276 |
-| Four For Trade | 0.40% | ~276 |
-| Global Hegemony | 0.40% | ~276 |
-| In the Name of the Father | 0.40% | ~276 |
-| Italian Ambition | 0.40% | ~276 |
-| Just a Little Patience | 0.40% | ~276 |
-| One Night in Paris | 0.40% | ~276 |
-| Tear Down This Wall | 0.40% | ~276 |
-| The Continuation of Diplomacy | 0.40% | ~276 |
-| Wonderful | 0.40% | ~276 |
+| All Your Trade Are Belong to Us | 0.40% | ~277 |
+| Bleed Them Dry | 0.40% | ~277 |
+| Dude, Where's my Boat? | 0.40% | ~277 |
+| Four For Trade | 0.40% | ~277 |
+| Global Hegemony | 0.40% | ~277 |
+| In the Name of the Father | 0.40% | ~277 |
+| Italian Ambition | 0.40% | ~277 |
+| Just a Little Patience | 0.40% | ~277 |
+| One Night in Paris | 0.40% | ~277 |
+| Tear Down This Wall | 0.40% | ~277 |
+| The Continuation of Diplomacy | 0.40% | ~277 |
+| Wonderful | 0.40% | ~277 |
 | A Decent Reserve | 0.30% | ~207 |
 | A Pile of Gold | 0.30% | ~207 |
 | Grand Duchy | 0.30% | ~207 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69,123 (Ranked 73)  
+Progressed: 69,148 (Ranked 73)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -445,14 +445,14 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-10 | 68,178 | 0 |
 | 2023-07-11 | 68,569 | 0 |
 | 2023-07-12 | 68,921 | 0 |
-| 2023-07-13 | 69,123 | 0 |
+| 2023-07-13 | 69,148 | 0 |
 ## Awards
-Max (Educational): 5,537  (Ranked 60)  
-Sum: 45,676 (Ranked 27)  
+Max (Educational): 5,540  (Ranked 60)  
+Sum: 45,679 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 5,537 |
+| This game is Educational | 5,540 |
 | This game is Highly Recommended | 5,300 |
 | This game has Challenging Combat | 5,256 |
 | This game is Extremely Fun | 5,252 |
@@ -642,4 +642,4 @@ Diff (max vs sum): 33
 | 2023-07-10 | 4.69 | - | 5,527 | 45,607 |
 | 2023-07-11 | 4.69 | - | 5,533 | 45,642 |
 | 2023-07-12 | 4.69 | - | 5,537 | 45,667 |
-| 2023-07-13 | 4.69 | - | 5,537 | 45,676 |
+| 2023-07-13 | 4.69 | - | 5,540 | 45,679 |

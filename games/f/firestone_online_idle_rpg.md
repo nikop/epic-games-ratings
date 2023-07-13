@@ -39,7 +39,7 @@ Rating: 4.11 (Ranked 887)
 | Mastery | 9.00% | ~146 |
 | Moving Up The Ladder | 9.00% | ~146 |
 | Scroll Master | 9.00% | ~146 |
-| Here We Go Again | 7.00% | ~114 |
+| Here We Go Again | 8.00% | ~130 |
 | Master Enchanter | 7.00% | ~114 |
 | The Expeditioner | 7.00% | ~114 |
 | The father of Dragons | 7.00% | ~114 |
@@ -81,8 +81,8 @@ Rating: 4.11 (Ranked 887)
 | War Machines Army | 0.20% | ~3 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,626 (Ranked 168)  
-Completed: 1 (0.06%) (Ranked 198)  
+Progressed: 1,626 (Ranked 169)  
+Completed: 1 (0.06%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
