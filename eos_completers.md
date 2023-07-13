@@ -22,9 +22,9 @@
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.49% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 23 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.70% |
-| 24 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
-| 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.46% |
+| 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.46% |
+| 25 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.42% |
 | 26 | [Smelter](games/s/smelter.md) | 8.11% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 7.47% |
 | 28 | [Time Loader](games/t/time_loader.md) | 7.21% |
@@ -44,11 +44,11 @@
 | 42 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.59% |
 | 43 | [Without Escape](games/w/without_escape.md) | 4.55% |
 | 44 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.35% |
-| 45 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.89% |
+| 45 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.88% |
 | 46 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.77% |
 | 47 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
-| 48 | [Doodle God](games/d/doodle_god.md) | 3.56% |
-| 49 | [ZZT!](games/z/zzt!.md) | 3.55% |
+| 48 | [ZZT!](games/z/zzt!.md) | 3.58% |
+| 49 | [Doodle God](games/d/doodle_god.md) | 3.56% |
 | 50 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.52% |
 | 51 | [Bunny Park](games/b/bunny_park.md) | 3.42% |
 | 52 | [Monster Harvest](games/m/monster_harvest.md) | 3.38% |
@@ -138,9 +138,9 @@
 | 135 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
 | 137 | [Wildermyth](games/w/wildermyth.md) | 0.38% |
 | 138 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
-| 139 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.36% |
-| 140 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.35% |
-| 140 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.35% |
+| 139 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.35% |
+| 139 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.35% |
+| 139 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.35% |
 | 142 | [Scrapnaut](games/s/scrapnaut.md) | 0.34% |
 | 143 | [Dead Island 2](games/d/dead_island_2.md) | 0.33% |
 | 143 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.33% |
@@ -490,4 +490,4 @@
 | 237 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 237 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 237 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,896 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
+| 2,897 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
