@@ -3531,9 +3531,9 @@
       "ID": "22",
       "SetID": "9p3jgda",
       "Name": "THE EYE OF THE HUNTER",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 55,
-      "UsersEstimate": 294
+      "UsersEstimate": 323
     },
     {
       "ID": "23",
@@ -3617,8 +3617,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-07-13T02:32:15.5674794+00:00",
+  "LastChanged_Achievements": "2023-07-13T03:27:27.3069295+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:58.7714419+00:00",
-  "LastUpdate_Ratings": "2023-07-13T02:26:02.940611+00:00",
-  "LastUpdate_Achievements": "2023-07-13T02:32:15.5675094+00:00"
+  "LastUpdate_Ratings": "2023-07-13T03:21:17.4457536+00:00",
+  "LastUpdate_Achievements": "2023-07-13T03:27:27.3069732+00:00"
 }

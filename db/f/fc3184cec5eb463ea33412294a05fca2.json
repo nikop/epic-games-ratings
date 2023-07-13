@@ -359,9 +359,9 @@
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "8d3ci0",
       "Name": "Ducks adrift",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -375,17 +375,17 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "8d3ci0",
       "Name": "High-rise",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
       "SetID": "8d3ci0",
       "Name": "Putting challenge",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 80,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_15",
@@ -407,9 +407,9 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "8d3ci0",
       "Name": "Make a wish",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -423,17 +423,17 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "8d3ci0",
       "Name": "Way to the shore",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "8d3ci0",
       "Name": "Private pool",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -447,9 +447,9 @@
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "8d3ci0",
       "Name": "On fire",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 60,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -470,8 +470,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-13T02:31:26.2606397+00:00",
+  "LastChanged_Achievements": "2023-07-13T03:26:44.8567437+00:00",
   "LastUpdate_AppInfo": "2023-07-08T11:56:59.3518994+00:00",
-  "LastUpdate_Ratings": "2023-07-13T02:23:36.4952506+00:00",
-  "LastUpdate_Achievements": "2023-07-13T02:31:26.2606552+00:00"
+  "LastUpdate_Ratings": "2023-07-13T03:19:24.4199587+00:00",
+  "LastUpdate_Achievements": "2023-07-13T03:26:44.8567581+00:00"
 }

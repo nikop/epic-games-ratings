@@ -187,9 +187,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 29761,
+  "EOS_Progressed": 29765,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 850,
+  "EOS_NewPlayers": 848,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -9142,6 +9142,11 @@
       "Time": "2023-07-13T02:30:09.1104841+00:00",
       "NumProgressed": 29761,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-07-13T03:25:29.5527777+00:00",
+      "NumProgressed": 29765,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -9161,7 +9166,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5952
+      "UsersEstimate": 5953
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -9297,7 +9302,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1190
+      "UsersEstimate": 1191
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -9384,7 +9389,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 29761,
+      "Progressed": 29765,
       "Completed": 20
     }
   ],
@@ -9392,8 +9397,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-07-11T15:00:39.3575549+00:00",
-  "LastChanged_Achievements": "2023-07-13T02:30:09.1104836+00:00",
+  "LastChanged_Achievements": "2023-07-13T03:25:29.5527772+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:25.1516139+00:00",
-  "LastUpdate_Ratings": "2023-07-13T02:27:09.8542391+00:00",
-  "LastUpdate_Achievements": "2023-07-13T02:30:09.110542+00:00"
+  "LastUpdate_Ratings": "2023-07-13T03:22:17.2880199+00:00",
+  "LastUpdate_Achievements": "2023-07-13T03:25:29.5528555+00:00"
 }

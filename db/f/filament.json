@@ -225,9 +225,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 196131,
+  "EOS_Progressed": 196137,
   "EOS_Completed": 462,
-  "EOS_NewPlayers": 643,
+  "EOS_NewPlayers": 647,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -9055,6 +9055,11 @@
       "Time": "2023-07-13T02:33:20.2776083+00:00",
       "NumProgressed": 196131,
       "NumCompleted": 462
+    },
+    {
+      "Time": "2023-07-13T03:28:21.6429111+00:00",
+      "NumProgressed": 196137,
+      "NumCompleted": 462
     }
   ],
   "TotalAchievements": 29,
@@ -9090,7 +9095,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 184363
+      "UsersEstimate": 184369
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -9250,7 +9255,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 19613
+      "UsersEstimate": 19614
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -9266,7 +9271,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 13729
+      "UsersEstimate": 13730
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -9297,7 +9302,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 196131,
+      "Progressed": 196137,
       "Completed": 462
     }
   ],
@@ -9305,8 +9310,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-06-26T22:58:32.656469+00:00",
-  "LastChanged_Achievements": "2023-07-13T02:33:20.2776079+00:00",
+  "LastChanged_Achievements": "2023-07-13T03:28:21.6429107+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:47.2271443+00:00",
-  "LastUpdate_Ratings": "2023-07-13T02:25:53.4188926+00:00",
-  "LastUpdate_Achievements": "2023-07-13T02:33:20.2776662+00:00"
+  "LastUpdate_Ratings": "2023-07-13T03:21:10.3188745+00:00",
+  "LastUpdate_Achievements": "2023-07-13T03:28:21.6429876+00:00"
 }

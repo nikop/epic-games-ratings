@@ -5886,7 +5886,7 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 792204,
+  "EOS_Progressed": 792205,
   "EOS_Completed": 44,
   "EOS_NewPlayers": 1061,
   "EOS_NewCompleters": 1,
@@ -14856,6 +14856,11 @@
       "Time": "2023-07-13T02:30:29.4078854+00:00",
       "NumProgressed": 792204,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-07-13T03:25:47.0330221+00:00",
+      "NumProgressed": 792205,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -14947,7 +14952,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 245583
+      "UsersEstimate": 245584
     },
     {
       "ID": "Bookworm",
@@ -14963,7 +14968,7 @@
       "Name": "Buddy",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 95064
+      "UsersEstimate": 95065
     },
     {
       "ID": "Casanova",
@@ -15403,7 +15408,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 87142
+      "UsersEstimate": 87143
     },
     {
       "ID": "Sniper",
@@ -15443,7 +15448,7 @@
       "Name": "Thief",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 95064
+      "UsersEstimate": 95065
     },
     {
       "ID": "TisButAScratch",
@@ -15522,15 +15527,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 792204,
+      "Progressed": 792205,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-07-12T21:58:38.1257407+00:00",
-  "LastChanged_Achievements": "2023-07-13T02:30:29.4078848+00:00",
+  "LastChanged_Achievements": "2023-07-13T03:25:47.0330214+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:10.689818+00:00",
-  "LastUpdate_Ratings": "2023-07-13T02:25:19.0941276+00:00",
-  "LastUpdate_Achievements": "2023-07-13T02:30:29.4079964+00:00"
+  "LastUpdate_Ratings": "2023-07-13T03:20:48.1694976+00:00",
+  "LastUpdate_Achievements": "2023-07-13T03:25:47.033173+00:00"
 }

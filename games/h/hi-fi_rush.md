@@ -6,6 +6,7 @@ Rating: 4.87 (Ranked 24)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Cream of the Crop | 1.00% | ~34 |
+| This will cost you big time | 1.00% | ~34 |
 | The Negotiator | 1.00% | ~34 |
 | Thanks for the free chip, Peppermint! | 1.00% | ~34 |
 | I play my own way! | 1.00% | ~34 |
@@ -13,13 +14,12 @@ Rating: 4.87 (Ranked 24)
 | You got this, Peppermint? | 1.00% | ~34 |
 | Z-shielding's got nothing on us! | 1.00% | ~34 |
 | Perfect Parry | 1.00% | ~34 |
+| Kissing the sky! | 1.00% | ~34 |
 | Who put gears in there? | 1.00% | ~34 |
 | Alright, that felt AWESOME! | 1.00% | ~34 |
 | NOW we got a kickass hideout! | 1.00% | ~20 |
-| This will cost you big time | 0.90% | ~31 |
 | Out in a puff of smoke | 0.90% | ~31 |
 | Uh, they were broken when I got here | 0.90% | ~31 |
-| Kissing the sky! | 0.90% | ~31 |
 | Start with a bang! | 0.80% | ~28 |
 | Headliner | 0.80% | ~28 |
 | Time to pay up! | 0.80% | ~28 |
@@ -28,9 +28,9 @@ Rating: 4.87 (Ranked 24)
 | Feeling the beat! | 0.80% | ~28 |
 | You must like calling me in, Chai | 0.80% | ~28 |
 | You can pet the cat! | 0.70% | ~24 |
+| Perfecter Parry-er! | 0.60% | ~21 |
 | I look cool. But I can look COOLER. | 0.60% | ~21 |
 | Well that was a rush! | 0.50% | ~17 |
-| Perfecter Parry-er! | 0.50% | ~17 |
 | That's a lot of junk metal… | 0.50% | ~17 |
 | Does that say weakpoint? | 0.50% | ~17 |
 | Call me Turbo Chai | 0.50% | ~10 |

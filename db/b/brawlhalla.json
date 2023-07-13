@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 196,
   "Ranking_EOS_Progress": 491,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-11-15T17:00:00+00:00",
@@ -3828,10 +3828,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 1958,
       "NumberOfAwardsMax": 206
+    },
+    {
+      "Time": "2023-07-13T03:21:57.328476+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 1959,
+      "NumberOfAwardsMax": 206
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1958,
+  "NumberOfAwards": 1959,
   "NumberOfAwardsMax": 206,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3857,7 +3863,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 184
+      "Count": 185
     },
     {
       "Text": "This game is Relaxing",
@@ -3920,8 +3926,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-07-12T20:59:57.0205433+00:00",
+  "LastChanged": "2023-07-13T03:21:57.3284758+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:56.3018323+00:00",
-  "LastUpdate_Ratings": "2023-07-13T02:26:47.0721659+00:00",
-  "LastUpdate_Achievements": "2023-07-13T02:29:05.6930895+00:00"
+  "LastUpdate_Ratings": "2023-07-13T03:21:57.3284765+00:00",
+  "LastUpdate_Achievements": "2023-07-13T03:22:54.7336246+00:00"
 }

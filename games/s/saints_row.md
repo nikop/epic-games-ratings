@@ -6,23 +6,23 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 35.00% | ~18,549 |
-| To The Nines | 32.00% | ~16,959 |
-| Optimized | 27.00% | ~14,309 |
-| Performance Review | 27.00% | ~14,309 |
-| Making a Name | 26.00% | ~13,779 |
-| Tune Up | 25.00% | ~13,249 |
-| Wet Work | 24.00% | ~12,719 |
-| Landlord | 24.00% | ~12,719 |
-| The Side Job | 23.00% | ~12,189 |
-| Wrecking Ball | 20.00% | ~10,599 |
-| Food for Thought | 20.00% | ~10,599 |
-| Finders Keepers | 19.00% | ~10,069 |
-| A Young Empire | 19.00% | ~10,069 |
-| Work Ethic | 17.00% | ~9,009 |
-| Power Players | 14.00% | ~7,419 |
-| Picking Fights | 14.00% | ~7,419 |
-| Quality Time | 13.00% | ~6,889 |
+| First F#@!ing Day | 35.00% | ~18,551 |
+| To The Nines | 32.00% | ~16,961 |
+| Optimized | 27.00% | ~14,311 |
+| Performance Review | 27.00% | ~14,311 |
+| Making a Name | 26.00% | ~13,781 |
+| Tune Up | 25.00% | ~13,250 |
+| Wet Work | 24.00% | ~12,720 |
+| Landlord | 24.00% | ~12,720 |
+| The Side Job | 23.00% | ~12,190 |
+| Wrecking Ball | 20.00% | ~10,600 |
+| Food for Thought | 20.00% | ~10,600 |
+| Finders Keepers | 19.00% | ~10,070 |
+| A Young Empire | 19.00% | ~10,070 |
+| Work Ethic | 17.00% | ~9,010 |
+| Power Players | 14.00% | ~7,420 |
+| Picking Fights | 14.00% | ~7,420 |
+| Quality Time | 13.00% | ~6,890 |
 | Showdown | 12.00% | ~6,360 |
 | Et tu? | 12.00% | ~6,360 |
 | Took It to The Limit | 12.00% | ~6,360 |
@@ -42,7 +42,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | Untouchable | 4.00% | ~2,120 |
 | Free Refills | 4.00% | ~2,120 |
 | Smooth Moves | 4.00% | ~2,120 |
-| Hazardous Heist | 4.00% | ~985 |
+| Hazardous Heist | 4.00% | ~986 |
 | Neighborly | 3.00% | ~1,590 |
 | Prankster | 3.00% | ~1,590 |
 | Tourist | 3.00% | ~1,590 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.10% | ~53 |
 | Fiesta Time | 0.10% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,996 (Ranked 84)  
+Progressed: 53,002 (Ranked 84)  
 Completed: 28 (0.05%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 28 (0.05%) (Ranked 202)
 | 2023-07-10 | 52,591 | 28 |
 | 2023-07-11 | 52,785 | 28 |
 | 2023-07-12 | 52,973 | 28 |
-| 2023-07-13 | 52,996 | 28 |
+| 2023-07-13 | 53,002 | 28 |
 ## Awards
 Max (Extremely Fun): 1,049  (Ranked 139)  
 Sum: 8,515 (Ranked 91)  

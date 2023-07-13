@@ -8515,9 +8515,9 @@
       "ID": "33_DefendersHeart",
       "SetID": "989of5o",
       "Name": "Defender\u0027s Heart",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1233
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -9209,8 +9209,8 @@
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-12T20:58:48.3829729+00:00",
-  "LastChanged_Achievements": "2023-07-13T02:30:38.0287676+00:00",
+  "LastChanged_Achievements": "2023-07-13T03:26:04.5152038+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:12.7052521+00:00",
-  "LastUpdate_Ratings": "2023-07-13T02:25:19.3181571+00:00",
-  "LastUpdate_Achievements": "2023-07-13T02:30:38.0289288+00:00"
+  "LastUpdate_Ratings": "2023-07-13T03:20:48.3918717+00:00",
+  "LastUpdate_Achievements": "2023-07-13T03:26:04.5156985+00:00"
 }

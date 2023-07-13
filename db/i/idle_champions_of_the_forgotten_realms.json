@@ -4874,11 +4874,17 @@
       "Rating": 4.05,
       "NumberOfAwards": 30489,
       "NumberOfAwardsMax": 5025
+    },
+    {
+      "Time": "2023-07-13T03:20:31.8284607+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30493,
+      "NumberOfAwardsMax": 5029
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30489,
-  "NumberOfAwardsMax": 5025,
+  "NumberOfAwards": 30493,
+  "NumberOfAwardsMax": 5029,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -4891,7 +4897,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5025
+      "Count": 5029
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4924,9 +4930,9 @@
       "Count": 3297
     }
   ],
-  "EOS_Progressed": 210700,
+  "EOS_Progressed": 210711,
   "EOS_Completed": 2046,
-  "EOS_NewPlayers": 3744,
+  "EOS_NewPlayers": 3735,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -13804,6 +13810,11 @@
       "Time": "2023-07-13T02:31:39.3897296+00:00",
       "NumProgressed": 210700,
       "NumCompleted": 2046
+    },
+    {
+      "Time": "2023-07-13T03:26:56.8298399+00:00",
+      "NumProgressed": 210711,
+      "NumCompleted": 2046
     }
   ],
   "TotalAchievements": 507,
@@ -15597,9 +15608,9 @@
       "ID": "objective_completed_389",
       "SetID": "cc37lbc",
       "Name": "The Killer Mists",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 211
     },
     {
       "ID": "objective_completed_39",
@@ -16333,9 +16344,9 @@
       "ID": "objective_completed_595",
       "SetID": "cc37lbc",
       "Name": "The Twilight Grove",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 211
     },
     {
       "ID": "objective_completed_596",
@@ -17517,9 +17528,9 @@
       "ID": "objective_completed_893",
       "SetID": "415jc5c",
       "Name": "Ambitious Speakers - Part 2",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_894",
@@ -17613,9 +17624,9 @@
       "ID": "objective_completed_923",
       "SetID": "415jc5c",
       "Name": "Encroaching Madness",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_924",
@@ -17870,21 +17881,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 176974,
+      "Progressed": 176985,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 210700,
+      "Progressed": 210711,
       "Completed": 2046
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-07-12T18:58:35.2452234+00:00",
-  "LastChanged_Achievements": "2023-07-13T02:31:39.3897289+00:00",
+  "LastChanged": "2023-07-13T03:20:31.8284605+00:00",
+  "LastChanged_Achievements": "2023-07-13T03:26:56.829839+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:43.9043947+00:00",
-  "LastUpdate_Ratings": "2023-07-13T02:25:00.5191108+00:00",
-  "LastUpdate_Achievements": "2023-07-13T02:31:39.3920626+00:00"
+  "LastUpdate_Ratings": "2023-07-13T03:20:31.8284615+00:00",
+  "LastUpdate_Achievements": "2023-07-13T03:26:56.832672+00:00"
 }

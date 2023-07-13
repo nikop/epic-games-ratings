@@ -33,6 +33,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Saurial's Resolve | 0.10% | ~211 |
 | Spirit of the Trickster Gods | 0.10% | ~177 |
 | Flies on the Wall | 0.10% | ~211 |
+| The Killer Mists | 0.10% | ~211 |
 | Seeking Allies | 0.10% | ~211 |
 | Class Vacation | 0.10% | ~211 |
 | Backtracking Through Barovia | 0.10% | ~211 |
@@ -112,6 +113,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lost in the Goblin Halls | 0.10% | ~211 |
 | Batiri in the Goblin Halls | 0.10% | ~211 |
 | Temporal Rift in the Goblin Halls | 0.10% | ~177 |
+| The Twilight Grove | 0.10% | ~211 |
 | The Nimble Grove | 0.10% | ~211 |
 | The Misty Grove | 0.10% | ~177 |
 | The Contagious Curse | 0.10% | ~211 |
@@ -249,6 +251,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ambitious Speakers - Part 1 | 0.10% | ~177 |
 | Shady Sidekicks - Part 1 | 0.10% | ~177 |
 | Ending the Rime - Part 2 | 0.10% | ~177 |
+| Ambitious Speakers - Part 2 | 0.10% | ~177 |
 | Shady Sidekicks - Part 2 | 0.10% | ~177 |
 | Reghed Glacier Mysteries | 0.10% | ~177 |
 | Mysteries Unlocked | 0.10% | ~177 |
@@ -259,6 +262,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Neutral No More | 0.10% | ~177 |
 | Fungal Excitation | 0.10% | ~177 |
 | Crimson Perception | 0.10% | ~177 |
+| Encroaching Madness | 0.10% | ~177 |
 | Watchful Eyes | 0.10% | ~177 |
 | Maroon Madness | 0.10% | ~177 |
 | The Rite of the Arcane Octad | 0.10% | ~177 |
@@ -468,7 +472,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tower on the Lake | 0.00% | ~0 |
 | Only the Strong Survive | 0.00% | ~0 |
 | Shorty's Day Off | 0.00% | ~0 |
-| The Killer Mists | 0.00% | ~0 |
 | A Nod from Strahd | 0.00% | ~0 |
 | Diversity Day-Trip | 0.00% | ~0 |
 | Late Game | 0.00% | ~0 |
@@ -481,7 +484,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Meepo's Quest | 0.00% | ~0 |
 | She's Harmless! | 0.00% | ~0 |
 | Take Five | 0.00% | ~0 |
-| The Twilight Grove | 0.00% | ~0 |
 | Déjà Vu All Over Again | 0.00% | ~0 |
 | Ulkoria's Escape from Alterdeep | 0.00% | ~0 |
 | The Prison of Velkynvelve | 0.00% | ~0 |
@@ -492,9 +494,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | REALLY Frozen Vengeance | 0.00% | ~0 |
 | Might Makes Right | 0.00% | ~0 |
 | Lost in the Underdark | 0.00% | ~0 |
-| Ambitious Speakers - Part 2 | 0.00% | ~0 |
 | Tekeli-li's Hunt | 0.00% | ~0 |
-| Encroaching Madness | 0.00% | ~0 |
 | The Court of Storms | 0.00% | ~0 |
 | Coasting to the Finish | 0.00% | ~0 |
 | Beware the Jabberwock | 0.00% | ~0 |
@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,700 (Ranked 52)  
+Progressed: 210,711 (Ranked 52)  
 Completed: 2,046 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -598,14 +598,14 @@ Completed: 2,046 (0.97%) (Ranked 102)
 | 2023-07-10 | 209,861 | 2,045 |
 | 2023-07-11 | 210,283 | 2,046 |
 | 2023-07-12 | 210,649 | 2,046 |
-| 2023-07-13 | 210,700 | 2,046 |
+| 2023-07-13 | 210,711 | 2,046 |
 ## Awards
-Max (Diverse Characters): 5,025  (Ranked 66)  
-Sum: 30,489 (Ranked 38)  
+Max (Diverse Characters): 5,029  (Ranked 66)  
+Sum: 30,493 (Ranked 38)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 5,025 |
+| This game has Diverse Characters | 5,029 |
 | This game is Great for Beginners | 4,960 |
 | This game has Quickly Understood Controls | 4,656 |
 | This game is Relaxing | 4,550 |
@@ -783,3 +783,4 @@ Diff (max vs sum): 28
 | 2023-07-10 | 4.05 | - | 5,021 | 30,473 |
 | 2023-07-11 | 4.05 | - | 5,025 | 30,485 |
 | 2023-07-12 | 4.05 | - | 5,025 | 30,489 |
+| 2023-07-13 | 4.05 | - | 5,029 | 30,493 |
