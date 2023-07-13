@@ -97,6 +97,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | In The Beginning | 0.10% | ~177 |
 | Crowded Streets | 0.10% | ~211 |
 | The Sunless Citadel | 0.10% | ~211 |
+| Veteran Brigade | 0.10% | ~211 |
 | Social Grace | 0.10% | ~177 |
 | Evergreens with an Evergreen | 0.10% | ~177 |
 | Meepo's Quest | 0.10% | ~211 |
@@ -259,6 +260,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Stunning Tower Battle | 0.10% | ~177 |
 | Elturel's Last Stand | 0.10% | ~177 |
 | Gargauth's Betrayal | 0.10% | ~177 |
+| Lost in the Underdark | 0.10% | ~177 |
 | Demons Here, Demons There | 0.10% | ~177 |
 | Visions of Hornfirth | 0.10% | ~177 |
 | Leemooggoogoon Rises | 0.10% | ~177 |
@@ -490,10 +492,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Only the Strong Survive | 0.00% | ~0 |
 | Shorty's Day Off | 0.00% | ~0 |
 | Diversity Day-Trip | 0.00% | ~0 |
-| Veteran Brigade | 0.00% | ~0 |
 | Take Five | 0.00% | ~0 |
 | A Chilling Encounter | 0.00% | ~0 |
-| Lost in the Underdark | 0.00% | ~0 |
 | Tekeli-li's Hunt | 0.00% | ~0 |
 | The Court of Storms | 0.00% | ~0 |
 | Coasting to the Finish | 0.00% | ~0 |
@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,770 (Ranked 52)  
+Progressed: 210,782 (Ranked 52)  
 Completed: 2,046 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -598,7 +598,7 @@ Completed: 2,046 (0.97%) (Ranked 102)
 | 2023-07-10 | 209,861 | 2,045 |
 | 2023-07-11 | 210,283 | 2,046 |
 | 2023-07-12 | 210,649 | 2,046 |
-| 2023-07-13 | 210,770 | 2,046 |
+| 2023-07-13 | 210,782 | 2,046 |
 ## Awards
 Max (Diverse Characters): 5,029  (Ranked 66)  
 Sum: 30,493 (Ranked 38)  

@@ -2,7 +2,7 @@
   "ID": "94cec4802e954a6c9579e29e8b817f3a",
   "Name": "Insurgency: Sandstorm",
   "ProductSlug": "insurgency-sandstorm",
-  "Ranking_Rating": 346,
+  "Ranking_Rating": 362,
   "Ranking_Popularity": 218,
   "Ranking_PopularitySum": 169,
   "Ranking_EOS_Progress": 39,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.62,
+  "Rating": 4.61,
   "NumberOfRatings": 1316,
   "RatingHistory": [
     {
@@ -2543,6 +2543,12 @@
       "Rating": 4.62,
       "NumberOfAwards": 2792,
       "NumberOfAwardsMax": 364
+    },
+    {
+      "Time": "2023-07-13T09:58:05.7283881+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 2792,
+      "NumberOfAwardsMax": 364
     }
   ],
   "ReviewsDisabled": false,
@@ -2617,9 +2623,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 412956,
+  "EOS_Progressed": 412971,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 6285,
+  "EOS_NewPlayers": 6272,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11622,6 +11628,11 @@
       "Time": "2023-07-13T09:05:07.220519+00:00",
       "NumProgressed": 412956,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-13T10:04:14.8898468+00:00",
+      "NumProgressed": 412971,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -11689,7 +11700,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 16518
+      "UsersEstimate": 16519
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -11801,7 +11812,7 @@
       "Name": "Point Shooting",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 16518
+      "UsersEstimate": 16519
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -11897,7 +11908,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 20648
+      "UsersEstimate": 20649
     },
     {
       "ID": "ACH_WET_FEET",
@@ -11905,22 +11916,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 16518
+      "UsersEstimate": 16519
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 412956,
+      "Progressed": 412971,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
-  "LastChanged": "2023-07-12T02:21:27.4269878+00:00",
-  "LastChanged_Achievements": "2023-07-13T09:05:07.2205184+00:00",
+  "LastChanged": "2023-07-13T09:58:05.7283878+00:00",
+  "LastChanged_Achievements": "2023-07-13T10:04:14.8898463+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:23.3463948+00:00",
-  "LastUpdate_Ratings": "2023-07-13T08:58:37.9040664+00:00",
-  "LastUpdate_Achievements": "2023-07-13T09:05:07.2206484+00:00"
+  "LastUpdate_Ratings": "2023-07-13T09:58:05.7283885+00:00",
+  "LastUpdate_Achievements": "2023-07-13T10:04:14.8899311+00:00"
 }

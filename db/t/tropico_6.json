@@ -1008,9 +1008,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4062,
+  "EOS_Progressed": 4063,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -5978,6 +5978,11 @@
       "Time": "2023-07-12T23:05:59.0271327+00:00",
       "NumProgressed": 4062,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-13T10:04:36.7961986+00:00",
+      "NumProgressed": 4063,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -6125,7 +6130,7 @@
       "Name": "Apocalypso",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "ACH_EP_TROPICOLAND",
@@ -6149,7 +6154,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3087
+      "UsersEstimate": 3088
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -6308,15 +6313,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4062,
+      "Progressed": 4063,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-09T22:00:42.3216597+00:00",
-  "LastChanged_Achievements": "2023-07-13T09:05:40.1277722+00:00",
+  "LastChanged_Achievements": "2023-07-13T10:04:36.7961981+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:41.4762855+00:00",
-  "LastUpdate_Ratings": "2023-07-13T09:01:46.6369225+00:00",
-  "LastUpdate_Achievements": "2023-07-13T09:05:40.1278377+00:00"
+  "LastUpdate_Ratings": "2023-07-13T10:00:10.5784538+00:00",
+  "LastUpdate_Achievements": "2023-07-13T10:04:36.7962599+00:00"
 }

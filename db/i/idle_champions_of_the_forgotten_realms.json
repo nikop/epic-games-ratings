@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 102,
   "Ranking_EOS_NewPlayers": 20,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4930,10 +4930,10 @@
       "Count": 3297
     }
   ],
-  "EOS_Progressed": 210770,
+  "EOS_Progressed": 210782,
   "EOS_Completed": 2046,
-  "EOS_NewPlayers": 3702,
-  "EOS_NewCompleters": 12,
+  "EOS_NewPlayers": 3701,
+  "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
     {
@@ -13845,6 +13845,11 @@
       "Time": "2023-07-13T09:05:43.6560053+00:00",
       "NumProgressed": 210770,
       "NumCompleted": 2046
+    },
+    {
+      "Time": "2023-07-13T10:04:39.7473764+00:00",
+      "NumProgressed": 210782,
+      "NumCompleted": 2046
     }
   ],
   "TotalAchievements": 507,
@@ -16158,9 +16163,9 @@
       "ID": "objective_completed_561",
       "SetID": "cc37lbc",
       "Name": "Veteran Brigade",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 211
     },
     {
       "ID": "objective_completed_562",
@@ -17478,9 +17483,9 @@
       "ID": "objective_completed_877",
       "SetID": "415jc5c",
       "Name": "Lost in the Underdark",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_878",
@@ -17911,21 +17916,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 177044,
+      "Progressed": 177056,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 210770,
+      "Progressed": 210782,
       "Completed": 2046
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-13T03:20:31.8284605+00:00",
-  "LastChanged_Achievements": "2023-07-13T09:05:43.6560047+00:00",
+  "LastChanged_Achievements": "2023-07-13T10:04:39.747376+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:43.9043947+00:00",
-  "LastUpdate_Ratings": "2023-07-13T08:58:56.7065512+00:00",
-  "LastUpdate_Achievements": "2023-07-13T09:05:43.659091+00:00"
+  "LastUpdate_Ratings": "2023-07-13T09:58:17.9818481+00:00",
+  "LastUpdate_Achievements": "2023-07-13T10:04:39.7499888+00:00"
 }

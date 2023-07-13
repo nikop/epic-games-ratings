@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57270,
+  "EOS_Progressed": 57272,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 369,
+  "EOS_NewPlayers": 370,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7812,6 +7812,11 @@
       "Time": "2023-07-13T09:04:28.8870965+00:00",
       "NumProgressed": 57270,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-13T10:03:47.3144872+00:00",
+      "NumProgressed": 57272,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7863,7 +7868,7 @@
       "Name": "Park Ranger",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 8590
+      "UsersEstimate": 8591
     },
     {
       "ID": "07",
@@ -7887,7 +7892,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6872
+      "UsersEstimate": 6873
     },
     {
       "ID": "10",
@@ -7983,7 +7988,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6872
+      "UsersEstimate": 6873
     },
     {
       "ID": "22",
@@ -8071,7 +8076,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14890
+      "UsersEstimate": 14891
     },
     {
       "ID": "33",
@@ -8079,7 +8084,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6872
+      "UsersEstimate": 6873
     },
     {
       "ID": "34",
@@ -8159,7 +8164,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8590
+      "UsersEstimate": 8591
     },
     {
       "ID": "44",
@@ -8358,21 +8363,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57270,
+      "Progressed": 57272,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20738,
+      "Progressed": 20740,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-13T09:04:28.887096+00:00",
+  "LastChanged_Achievements": "2023-07-13T10:03:47.3144866+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:08.3646753+00:00",
-  "LastUpdate_Ratings": "2023-07-13T08:58:21.4196346+00:00",
-  "LastUpdate_Achievements": "2023-07-13T09:04:28.8872264+00:00"
+  "LastUpdate_Ratings": "2023-07-13T09:57:55.3189639+00:00",
+  "LastUpdate_Achievements": "2023-07-13T10:03:47.3146007+00:00"
 }

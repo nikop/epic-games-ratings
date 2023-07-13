@@ -2,7 +2,7 @@
   "ID": "3ffb410dab2d409aacd39a1abc6fcbba",
   "Name": "Prison Architect",
   "ProductSlug": "prison-architect",
-  "Ranking_Rating": 363,
+  "Ranking_Rating": 362,
   "Ranking_Popularity": 199,
   "Ranking_PopularitySum": 148,
   "Ranking_EOS_Progress": 59,
@@ -4068,9 +4068,9 @@
       "Count": 278
     }
   ],
-  "EOS_Progressed": 148176,
+  "EOS_Progressed": 148181,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 2779,
+  "EOS_NewPlayers": 2770,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13043,6 +13043,11 @@
       "Time": "2023-07-13T09:03:29.9642387+00:00",
       "NumProgressed": 148176,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-13T10:03:06.0348272+00:00",
+      "NumProgressed": 148181,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 16,
@@ -13086,7 +13091,7 @@
       "Name": "Get Busy Living",
       "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 25190
+      "UsersEstimate": 25191
     },
     {
       "ID": "Achievement_13",
@@ -13134,7 +13139,7 @@
       "Name": "Stone Walls",
       "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 38526
+      "UsersEstimate": 38527
     },
     {
       "ID": "Achievement_5",
@@ -13181,15 +13186,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 148176,
+      "Progressed": 148181,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-07-12T22:59:41.072838+00:00",
-  "LastChanged_Achievements": "2023-07-13T09:03:29.9642377+00:00",
+  "LastChanged_Achievements": "2023-07-13T10:03:06.0348267+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:27.260732+00:00",
-  "LastUpdate_Ratings": "2023-07-13T08:59:39.3639011+00:00",
-  "LastUpdate_Achievements": "2023-07-13T09:03:29.9644095+00:00"
+  "LastUpdate_Ratings": "2023-07-13T09:58:49.1939202+00:00",
+  "LastUpdate_Achievements": "2023-07-13T10:03:06.0348946+00:00"
 }

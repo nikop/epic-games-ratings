@@ -399,9 +399,9 @@
       "ID": "finished-quest-cube",
       "SetID": "799afm0",
       "Name": "Impossible Cube",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 182
     },
     {
       "ID": "finished-quest-flight",
@@ -608,8 +608,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-07-13T09:03:51.3085525+00:00",
+  "LastChanged_Achievements": "2023-07-13T10:03:21.0551762+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:31.3205078+00:00",
-  "LastUpdate_Ratings": "2023-07-13T08:59:42.673331+00:00",
-  "LastUpdate_Achievements": "2023-07-13T09:03:51.3085822+00:00"
+  "LastUpdate_Ratings": "2023-07-13T09:58:51.3033842+00:00",
+  "LastUpdate_Achievements": "2023-07-13T10:03:21.0552037+00:00"
 }

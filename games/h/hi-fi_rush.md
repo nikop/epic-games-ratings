@@ -18,10 +18,10 @@ Rating: 4.87 (Ranked 24)
 | Who put gears in there? | 1.00% | ~34 |
 | Alright, that felt AWESOME! | 1.00% | ~34 |
 | NOW we got a kickass hideout! | 1.00% | ~20 |
+| Headliner | 0.90% | ~31 |
 | Out in a puff of smoke | 0.90% | ~31 |
 | Uh, they were broken when I got here | 0.90% | ~31 |
 | Start with a bang! | 0.80% | ~28 |
-| Headliner | 0.80% | ~28 |
 | Time to pay up! | 0.80% | ~28 |
 | Who's the boss now? | 0.80% | ~28 |
 | I have to read these things? | 0.80% | ~28 |
