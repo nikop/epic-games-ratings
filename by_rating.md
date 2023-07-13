@@ -20,7 +20,7 @@
 | 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 16,897 | 20 |
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 135 | 300 |
 | 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,145 | 76 |
-| 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 158,510 | 6 |
+| 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 158,728 | 6 |
 | 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 10,582 | 35 |
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 485 |
 | 24 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 271 | 241 |
@@ -138,7 +138,7 @@
 | 132 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 533 | 187 |
 | 132 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.75 | 0 | 505 |
 | 132 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 114 | 316 |
-| 132 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 529 | 188 |
+| 132 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 531 | 188 |
 | 132 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.75 | 0 | 505 |
 | 132 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 41 | 417 |
 | 132 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.75 | 0 | 505 |
@@ -665,7 +665,7 @@
 | 653 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 280 | 237 |
 | 664 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.42 | 0 | 505 |
 | 664 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 63 | 382 |
-| 664 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.42 | 31 | 454 |
+| 664 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.42 | 32 | 447 |
 | 664 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.42 | 12,387 | 30 |
 | 664 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.42 | 0 | 505 |
 | 664 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 49 |
@@ -814,7 +814,7 @@
 | 807 | [The Surge 2](games/t/the_surge_2.md) | 4.25 | 0 | 505 |
 | 807 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 0 | 505 |
 | 814 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 505 |
-| 814 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 454 |
+| 814 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 455 |
 | 814 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.24 | 22 | 485 |
 | 814 | [Flatout](games/f/flatout.md) | 4.24 | 0 | 505 |
 | 814 | [OVERPASS™](games/o/overpass™.md) | 4.24 | 0 | 505 |
@@ -838,7 +838,7 @@
 | 836 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 123 | 307 |
 | 836 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 120 | 310 |
 | 836 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.20 | 0 | 505 |
-| 836 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 31 | 454 |
+| 836 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.20 | 31 | 455 |
 | 836 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 0 | 505 |
 | 836 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 22 | 485 |
 | 836 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 0 | 505 |
