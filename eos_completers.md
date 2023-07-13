@@ -81,7 +81,7 @@
 | 79 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 80 | [Sifu](games/s/sifu.md) | 1.80% |
 | 81 | [Iron Danger](games/i/iron_danger.md) | 1.79% |
-| 82 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.76% |
+| 82 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.75% |
 | 83 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.64% |
 | 84 | [Somerville](games/s/somerville.md) | 1.56% |
 | 85 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.52% |
@@ -489,4 +489,4 @@
 | 237 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 237 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 237 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,893 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
+| 2,894 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
