@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2006,9 +2006,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 66932,
+  "EOS_Progressed": 66935,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 424,
+  "EOS_NewPlayers": 417,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -9586,6 +9586,11 @@
       "Time": "2023-07-13T00:04:18.8235384+00:00",
       "NumProgressed": 66932,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-07-13T02:30:23.7705156+00:00",
+      "NumProgressed": 66935,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 61,
@@ -9731,9 +9736,9 @@
       "ID": "CRAFTING_LEGENDARY_SET",
       "SetID": "4eo5ebm",
       "Name": "Dressed to Impress",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 535
+      "UsersEstimate": 469
     },
     {
       "ID": "CRAFTING_MOD_CHIPS",
@@ -10084,13 +10089,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 66932,
+      "Progressed": 66935,
       "Completed": 102
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 37212,
+      "Progressed": 37215,
       "Completed": 2652
     }
   ],
@@ -10098,8 +10103,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-07-12T23:01:07.621023+00:00",
-  "LastChanged_Achievements": "2023-07-13T00:04:18.8235379+00:00",
+  "LastChanged_Achievements": "2023-07-13T02:30:23.7705151+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:06.0757808+00:00",
-  "LastUpdate_Ratings": "2023-07-13T00:01:02.2618515+00:00",
-  "LastUpdate_Achievements": "2023-07-13T00:04:18.8236484+00:00"
+  "LastUpdate_Ratings": "2023-07-13T02:26:54.6659125+00:00",
+  "LastUpdate_Achievements": "2023-07-13T02:30:23.7705969+00:00"
 }

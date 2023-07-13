@@ -4,8 +4,8 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 31,
-  "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -303,9 +303,9 @@
       "ID": "BearRum",
       "SetID": "db30heh",
       "Name": "Ready for Bed",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "BearSword",
@@ -375,9 +375,9 @@
       "ID": "Drunkard",
       "SetID": "db30heh",
       "Name": "Drunkard",
-      "Percentage": 41,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "DwarDevil",
@@ -399,9 +399,9 @@
       "ID": "DwarfHobo",
       "SetID": "db30heh",
       "Name": "Funny Hobo",
-      "Percentage": 45,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "FerrymanBird",
@@ -423,25 +423,25 @@
       "ID": "HastrmanAmanita",
       "SetID": "db30heh",
       "Name": "Tastes Funny",
-      "Percentage": 50,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "HastrmanHappy",
       "SetID": "db30heh",
       "Name": "Regular Diet",
-      "Percentage": 55,
+      "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "HastrmanRum",
       "SetID": "db30heh",
       "Name": "That\u0027s Not Water",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "HatFlower",
@@ -471,17 +471,17 @@
       "ID": "PriestBroom",
       "SetID": "db30heh",
       "Name": "Chastisement",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "PriestPistol",
       "SetID": "db30heh",
       "Name": "Unexpected Hit",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "PriestPoppiesBroth",
@@ -495,17 +495,17 @@
       "ID": "PriestRogue",
       "SetID": "db30heh",
       "Name": "Direct Hit",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "PriestRum",
       "SetID": "db30heh",
       "Name": "Rummy",
-      "Percentage": 48,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Priestess",
@@ -527,9 +527,9 @@
       "ID": "RogueChest",
       "SetID": "db30heh",
       "Name": "Treasure Chest",
-      "Percentage": 61,
+      "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "RogueEat",
@@ -622,8 +622,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-07-13T00:06:00.4504367+00:00",
+  "LastChanged_Achievements": "2023-07-13T02:31:49.8576671+00:00",
   "LastUpdate_AppInfo": "2023-07-11T13:57:04.2895706+00:00",
-  "LastUpdate_Ratings": "2023-07-12T23:57:11.7240266+00:00",
-  "LastUpdate_Achievements": "2023-07-13T00:06:00.4504769+00:00"
+  "LastUpdate_Ratings": "2023-07-13T02:23:36.8089184+00:00",
+  "LastUpdate_Achievements": "2023-07-13T02:31:49.8576969+00:00"
 }

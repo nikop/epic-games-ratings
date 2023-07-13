@@ -53,6 +53,7 @@ Rating: 4.87 (Ranked 24)
 | I'm not done with you yet | 0.10% | ~3 |
 | First we parry, then we counter | 0.10% | ~3 |
 | Now this is how you fight like a team! | 0.10% | ~3 |
+| My Ultimate Setlist | 0.10% | ~3 |
 | This was... not what I expected. | 0.10% | ~3 |
 | Have we met before? | 0.10% | ~3 |
 | I hit things with a guitar really well. | 0.10% | ~3 |
@@ -69,7 +70,6 @@ Rating: 4.87 (Ranked 24)
 | I think that's enough health for now | 0.00% | ~0 |
 | Fully Powered Up! | 0.00% | ~0 |
 | I have to read ALL of these things? | 0.00% | ~0 |
-| My Ultimate Setlist | 0.00% | ~0 |
 | What a journey it was... | 0.00% | ~0 |
 | I am a good person who likes to help | 0.00% | ~0 |
 | I'm trying to FOCUS HERE! | 0.00% | ~0 |

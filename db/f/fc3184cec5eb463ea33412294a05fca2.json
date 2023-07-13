@@ -335,9 +335,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "8d3ci0",
       "Name": "Three is company",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -351,9 +351,9 @@
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "8d3ci0",
       "Name": "Cruise ship",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -375,9 +375,9 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "8d3ci0",
       "Name": "High-rise",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -415,9 +415,9 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "8d3ci0",
       "Name": "Catch a flight",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -431,9 +431,9 @@
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "8d3ci0",
       "Name": "Private pool",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -470,8 +470,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-13T00:05:32.2065596+00:00",
+  "LastChanged_Achievements": "2023-07-13T02:31:26.2606397+00:00",
   "LastUpdate_AppInfo": "2023-07-08T11:56:59.3518994+00:00",
-  "LastUpdate_Ratings": "2023-07-12T23:57:11.3432448+00:00",
-  "LastUpdate_Achievements": "2023-07-13T00:05:32.2066018+00:00"
+  "LastUpdate_Ratings": "2023-07-13T02:23:36.4952506+00:00",
+  "LastUpdate_Achievements": "2023-07-13T02:31:26.2606552+00:00"
 }

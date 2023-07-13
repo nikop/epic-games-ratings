@@ -4,8 +4,8 @@
   "ProductSlug": "the-house-of-da-vinci-3-b0c022",
   "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2022-12-23T00:00:00+00:00",
@@ -76,17 +76,17 @@
       "ID": "CgkIxYDzrbcPEAIQAg",
       "SetID": "4egpam7",
       "Name": "All in a Day\u0027s Work",
-      "Percentage": 100,
+      "Percentage": 114,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "CgkIxYDzrbcPEAIQAw",
       "SetID": "4egpam7",
       "Name": "The Bald Lady",
-      "Percentage": 86,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "CgkIxYDzrbcPEAIQBA",
@@ -148,9 +148,9 @@
       "ID": "CgkIxYDzrbcPEAIQCw",
       "SetID": "4egpam7",
       "Name": "Target Practice",
-      "Percentage": 86,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "CgkIxYDzrbcPEAIQDA",
@@ -314,8 +314,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-07-13T00:05:08.4853936+00:00",
+  "LastChanged_Achievements": "2023-07-13T02:31:05.4255777+00:00",
   "LastUpdate_AppInfo": "2023-07-11T11:56:57.8750622+00:00",
-  "LastUpdate_Ratings": "2023-07-12T23:57:17.8529448+00:00",
-  "LastUpdate_Achievements": "2023-07-13T00:05:08.4854193+00:00"
+  "LastUpdate_Ratings": "2023-07-13T02:23:40.9905185+00:00",
+  "LastUpdate_Achievements": "2023-07-13T02:31:05.4255961+00:00"
 }

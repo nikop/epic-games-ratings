@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 118,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -296,9 +296,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15392,
+  "EOS_Progressed": 15393,
   "EOS_Completed": 96,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -6736,6 +6736,11 @@
       "Time": "2023-07-13T00:04:19.8569466+00:00",
       "NumProgressed": 15392,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2023-07-13T02:30:24.4901086+00:00",
+      "NumProgressed": 15393,
+      "NumCompleted": 96
     }
   ],
   "TotalAchievements": 16,
@@ -6795,7 +6800,7 @@
       "Name": "Fireworks",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 5079
+      "UsersEstimate": 5080
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -6803,7 +6808,7 @@
       "Name": "Harvester Of Eyes",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1078
     },
     {
       "ID": "I_Am_The_Storm",
@@ -6867,22 +6872,22 @@
       "Name": "The Reaper",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1078
     }
   ],
   "AchievementSets": [
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 15392,
+      "Progressed": 15393,
       "Completed": 96
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-05-26T21:58:51.5297179+00:00",
-  "LastChanged_Achievements": "2023-07-13T00:04:19.8569458+00:00",
+  "LastChanged_Achievements": "2023-07-13T02:30:24.4901081+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:05.1679058+00:00",
-  "LastUpdate_Ratings": "2023-07-13T00:00:04.1856335+00:00",
-  "LastUpdate_Achievements": "2023-07-13T00:04:19.8569997+00:00"
+  "LastUpdate_Ratings": "2023-07-13T02:26:08.2221995+00:00",
+  "LastUpdate_Achievements": "2023-07-13T02:30:24.4901488+00:00"
 }

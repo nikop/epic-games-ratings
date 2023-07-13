@@ -4924,9 +4924,9 @@
       "Count": 3297
     }
   ],
-  "EOS_Progressed": 210667,
+  "EOS_Progressed": 210700,
   "EOS_Completed": 2046,
-  "EOS_NewPlayers": 3758,
+  "EOS_NewPlayers": 3744,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -13799,6 +13799,11 @@
       "Time": "2023-07-13T00:05:46.9438906+00:00",
       "NumProgressed": 210667,
       "NumCompleted": 2046
+    },
+    {
+      "Time": "2023-07-13T02:31:39.3897296+00:00",
+      "NumProgressed": 210700,
+      "NumCompleted": 2046
     }
   ],
   "TotalAchievements": 507,
@@ -15376,9 +15381,9 @@
       "ID": "objective_completed_265",
       "SetID": "cc37lbc",
       "Name": "Intelligence Hunt",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 211
     },
     {
       "ID": "objective_completed_267",
@@ -15408,9 +15413,9 @@
       "ID": "objective_completed_270",
       "SetID": "415jc5c",
       "Name": "The Strahd Squad",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_278",
@@ -15920,17 +15925,17 @@
       "ID": "objective_completed_434",
       "SetID": "cc37lbc",
       "Name": "An Abyssal Situation",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 211
     },
     {
       "ID": "objective_completed_435",
       "SetID": "cc37lbc",
       "Name": "Dino Nightmare",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 211
     },
     {
       "ID": "objective_completed_436",
@@ -16048,9 +16053,9 @@
       "ID": "objective_completed_552",
       "SetID": "cc37lbc",
       "Name": "Feigned Weakness",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 211
     },
     {
       "ID": "objective_completed_553",
@@ -16128,9 +16133,9 @@
       "ID": "objective_completed_563",
       "SetID": "415jc5c",
       "Name": "Evergreens with an Evergreen",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_565",
@@ -16304,9 +16309,9 @@
       "ID": "objective_completed_590",
       "SetID": "cc37lbc",
       "Name": "Lost in the Goblin Halls",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 211
     },
     {
       "ID": "objective_completed_591",
@@ -16496,9 +16501,9 @@
       "ID": "objective_completed_618",
       "SetID": "415jc5c",
       "Name": "Smooth Talkers",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_62",
@@ -16632,9 +16637,9 @@
       "ID": "objective_completed_638",
       "SetID": "415jc5c",
       "Name": "Look Out!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_640",
@@ -16680,9 +16685,9 @@
       "ID": "objective_completed_646",
       "SetID": "415jc5c",
       "Name": "Zapper Overload",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_647",
@@ -17304,9 +17309,9 @@
       "ID": "objective_completed_850",
       "SetID": "415jc5c",
       "Name": "Witty Riposting",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_852",
@@ -17320,9 +17325,9 @@
       "ID": "objective_completed_853",
       "SetID": "415jc5c",
       "Name": "Frontline Fighters",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_854",
@@ -17336,9 +17341,9 @@
       "ID": "objective_completed_855",
       "SetID": "415jc5c",
       "Name": "How Far Away is Thay",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_857",
@@ -17472,9 +17477,9 @@
       "ID": "objective_completed_884",
       "SetID": "415jc5c",
       "Name": "Volo\u0027s Guide to Kuo-toa",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_887",
@@ -17584,9 +17589,9 @@
       "ID": "objective_completed_918",
       "SetID": "415jc5c",
       "Name": "Neutral No More",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_919",
@@ -17865,21 +17870,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 176941,
+      "Progressed": 176974,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 210667,
+      "Progressed": 210700,
       "Completed": 2046
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-12T18:58:35.2452234+00:00",
-  "LastChanged_Achievements": "2023-07-13T00:05:46.94389+00:00",
+  "LastChanged_Achievements": "2023-07-13T02:31:39.3897289+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:43.9043947+00:00",
-  "LastUpdate_Ratings": "2023-07-12T23:58:49.8406818+00:00",
-  "LastUpdate_Achievements": "2023-07-13T00:05:46.9472465+00:00"
+  "LastUpdate_Ratings": "2023-07-13T02:25:00.5191108+00:00",
+  "LastUpdate_Achievements": "2023-07-13T02:31:39.3920626+00:00"
 }

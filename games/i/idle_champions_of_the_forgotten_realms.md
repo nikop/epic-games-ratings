@@ -6,9 +6,11 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Intelligence Hunt | 0.10% | ~211 |
 | Seeds of Deceit | 0.10% | ~211 |
 | Visions of Strahd | 0.10% | ~211 |
 | Seeds of Corruption | 0.10% | ~211 |
+| The Strahd Squad | 0.10% | ~177 |
 | Trollskull Manor | 0.10% | ~211 |
 | The Gargoyle's Apprentice | 0.10% | ~211 |
 | House of Darkness | 0.10% | ~211 |
@@ -64,6 +66,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Who Lurks in Lurkwood | 0.10% | ~211 |
 | And a Pixie in a Pear Treant | 0.10% | ~177 |
 | Orcs Are Wild | 0.10% | ~211 |
+| An Abyssal Situation | 0.10% | ~211 |
+| Dino Nightmare | 0.10% | ~211 |
 | Mad Cow Disease | 0.10% | ~211 |
 | Exploring Port Nyanzaru | 0.10% | ~211 |
 | A Tale of Two Cities | 0.10% | ~211 |
@@ -77,6 +81,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flying Monkey Skulls of Doom | 0.10% | ~211 |
 | Lair of the Xanathar | 0.10% | ~211 |
 | Dreams of Beholders | 0.10% | ~211 |
+| Feigned Weakness | 0.10% | ~211 |
 | DPS in the Deeps | 0.10% | ~177 |
 | Waterdeep Under Siege | 0.10% | ~211 |
 | Bregan D'aerthe Comes to Call | 0.10% | ~211 |
@@ -85,6 +90,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Crowded Streets | 0.10% | ~211 |
 | The Sunless Citadel | 0.10% | ~211 |
 | Social Grace | 0.10% | ~177 |
+| Evergreens with an Evergreen | 0.10% | ~177 |
 | The Tallest of Kobolds | 0.10% | ~177 |
 | Patience is Key | 0.10% | ~211 |
 | The Darkness Runs Deeper | 0.10% | ~211 |
@@ -103,6 +109,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | On The Job Learning | 0.10% | ~211 |
 | Strike! | 0.10% | ~177 |
 | Running of the Saurs | 0.10% | ~211 |
+| Lost in the Goblin Halls | 0.10% | ~211 |
 | Batiri in the Goblin Halls | 0.10% | ~211 |
 | Temporal Rift in the Goblin Halls | 0.10% | ~177 |
 | The Nimble Grove | 0.10% | ~211 |
@@ -125,6 +132,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wyllowwood | 0.10% | ~211 |
 | Displaced Anger | 0.10% | ~211 |
 | Ettercap Swarm | 0.10% | ~177 |
+| Smooth Talkers | 0.10% | ~177 |
 | Relay Race | 0.10% | ~211 |
 | An Illithid Undertaking | 0.10% | ~177 |
 | An Illithid Ambush | 0.10% | ~177 |
@@ -140,11 +148,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dreamscape | 0.10% | ~177 |
 | Dream Gauntlet | 0.10% | ~177 |
 | Zombie Dreams | 0.10% | ~177 |
+| Look Out! | 0.10% | ~177 |
 | The Path of Dreams | 0.10% | ~177 |
 | The Path of Redcaps | 0.10% | ~177 |
 | The Path of Trials | 0.10% | ~177 |
 | Bad Odds in Avernus | 0.10% | ~177 |
 | The Lost Hollyphant | 0.10% | ~177 |
+| Zapper Overload | 0.10% | ~177 |
 | Best Friend Search Squad! | 0.10% | ~177 |
 | An Even Worse Time in Avernus | 0.10% | ~177 |
 | Alterdeep | 0.10% | ~177 |
@@ -217,7 +227,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Radiant Nightmare | 0.10% | ~177 |
 | Quick Thinking | 0.10% | ~177 |
 | Tough Acting | 0.10% | ~177 |
+| Witty Riposting | 0.10% | ~177 |
 | Waiting on Sunrise | 0.10% | ~177 |
+| Frontline Fighters | 0.10% | ~177 |
+| How Far Away is Thay | 0.10% | ~177 |
 | Deekin's Mission | 0.10% | ~177 |
 | Dive Bomb | 0.10% | ~177 |
 | Fire and Ice | 0.10% | ~177 |
@@ -231,6 +244,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Visions of Hornfirth | 0.10% | ~177 |
 | Leemooggoogoon Rises | 0.10% | ~177 |
 | Stragglers | 0.10% | ~177 |
+| Volo's Guide to Kuo-toa | 0.10% | ~177 |
 | Ending the Rime - Part 1 | 0.10% | ~177 |
 | Ambitious Speakers - Part 1 | 0.10% | ~177 |
 | Shady Sidekicks - Part 1 | 0.10% | ~177 |
@@ -242,6 +256,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pure Energy | 0.10% | ~211 |
 | Cackling Horror | 0.10% | ~177 |
 | Working for the Weak End | 0.10% | ~177 |
+| Neutral No More | 0.10% | ~177 |
 | Fungal Excitation | 0.10% | ~177 |
 | Crimson Perception | 0.10% | ~177 |
 | Watchful Eyes | 0.10% | ~177 |
@@ -453,8 +468,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tower on the Lake | 0.00% | ~0 |
 | Only the Strong Survive | 0.00% | ~0 |
 | Shorty's Day Off | 0.00% | ~0 |
-| Intelligence Hunt | 0.00% | ~0 |
-| The Strahd Squad | 0.00% | ~0 |
 | The Killer Mists | 0.00% | ~0 |
 | A Nod from Strahd | 0.00% | ~0 |
 | Diversity Day-Trip | 0.00% | ~0 |
@@ -463,37 +476,24 @@ Number of Ratings: 9,041  (23.09.2022)
 | Frantic Excavation | 0.00% | ~0 |
 | Bullywugs in the Bog | 0.00% | ~0 |
 | Modrons in the Mud | 0.00% | ~0 |
-| An Abyssal Situation | 0.00% | ~0 |
-| Dino Nightmare | 0.00% | ~0 |
 | A Familiar Friend | 0.00% | ~0 |
-| Feigned Weakness | 0.00% | ~0 |
 | Veteran Brigade | 0.00% | ~0 |
-| Evergreens with an Evergreen | 0.00% | ~0 |
 | Meepo's Quest | 0.00% | ~0 |
 | She's Harmless! | 0.00% | ~0 |
 | Take Five | 0.00% | ~0 |
-| Lost in the Goblin Halls | 0.00% | ~0 |
 | The Twilight Grove | 0.00% | ~0 |
-| Smooth Talkers | 0.00% | ~0 |
 | Déjà Vu All Over Again | 0.00% | ~0 |
-| Look Out! | 0.00% | ~0 |
-| Zapper Overload | 0.00% | ~0 |
 | Ulkoria's Escape from Alterdeep | 0.00% | ~0 |
 | The Prison of Velkynvelve | 0.00% | ~0 |
 | The Archduke's Blessing | 0.00% | ~0 |
 | Don't Pick at the Scab | 0.00% | ~0 |
 | Reya Reborn | 0.00% | ~0 |
-| Witty Riposting | 0.00% | ~0 |
-| Frontline Fighters | 0.00% | ~0 |
 | A Chilling Encounter | 0.00% | ~0 |
-| How Far Away is Thay | 0.00% | ~0 |
 | REALLY Frozen Vengeance | 0.00% | ~0 |
 | Might Makes Right | 0.00% | ~0 |
 | Lost in the Underdark | 0.00% | ~0 |
-| Volo's Guide to Kuo-toa | 0.00% | ~0 |
 | Ambitious Speakers - Part 2 | 0.00% | ~0 |
 | Tekeli-li's Hunt | 0.00% | ~0 |
-| Neutral No More | 0.00% | ~0 |
 | Encroaching Madness | 0.00% | ~0 |
 | The Court of Storms | 0.00% | ~0 |
 | Coasting to the Finish | 0.00% | ~0 |
@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,667 (Ranked 52)  
+Progressed: 210,700 (Ranked 52)  
 Completed: 2,046 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -598,7 +598,7 @@ Completed: 2,046 (0.97%) (Ranked 102)
 | 2023-07-10 | 209,861 | 2,045 |
 | 2023-07-11 | 210,283 | 2,046 |
 | 2023-07-12 | 210,649 | 2,046 |
-| 2023-07-13 | 210,667 | 2,046 |
+| 2023-07-13 | 210,700 | 2,046 |
 ## Awards
 Max (Diverse Characters): 5,025  (Ranked 66)  
 Sum: 30,489 (Ranked 38)  

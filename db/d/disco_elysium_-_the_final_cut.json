@@ -1181,9 +1181,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 123057,
+  "EOS_Progressed": 123058,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 321,
+  "EOS_NewPlayers": 318,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -9231,6 +9231,11 @@
       "Time": "2023-07-12T23:02:30.6521023+00:00",
       "NumProgressed": 123057,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-07-13T02:29:18.8826074+00:00",
+      "NumProgressed": 123058,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -9354,7 +9359,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 24611
+      "UsersEstimate": 24612
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -9370,7 +9375,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 15997
+      "UsersEstimate": 15998
     },
     {
       "ID": "ACH_COP_STAR",
@@ -9522,7 +9527,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 15997
+      "UsersEstimate": 15998
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -9561,15 +9566,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 123057,
+      "Progressed": 123058,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-07-07T16:59:40.5892511+00:00",
-  "LastChanged_Achievements": "2023-07-13T00:02:26.2498456+00:00",
+  "LastChanged_Achievements": "2023-07-13T02:29:18.8826066+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:13.7032583+00:00",
-  "LastUpdate_Ratings": "2023-07-13T00:00:11.7103175+00:00",
-  "LastUpdate_Achievements": "2023-07-13T00:02:26.2499303+00:00"
+  "LastUpdate_Ratings": "2023-07-13T02:26:14.5891206+00:00",
+  "LastUpdate_Achievements": "2023-07-13T02:29:18.8826709+00:00"
 }

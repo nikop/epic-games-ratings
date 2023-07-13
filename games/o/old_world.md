@@ -6,24 +6,24 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Play a Single Player Game | 84.00% | ~10,751 |
-| Settler | 81.00% | ~10,367 |
-| Explorer | 79.00% | ~10,111 |
-| Friendly Family | 75.00% | ~9,599 |
-| Intrepid | 69.00% | ~8,831 |
-| Architect | 61.00% | ~7,807 |
-| Able | 60.00% | ~7,679 |
-| Mason | 60.00% | ~7,679 |
-| Strong | 59.00% | ~7,551 |
-| Hanging Gardens | 59.00% | ~7,551 |
-| Noble | 57.00% | ~7,295 |
-| Oracle | 57.00% | ~7,295 |
-| Good | 55.00% | ~7,039 |
-| Just | 54.00% | ~6,911 |
-| Judaism | 54.00% | ~6,911 |
-| Keystone | 53.00% | ~6,783 |
-| Glorious | 51.00% | ~6,527 |
-| Trade Caravan | 51.00% | ~6,527 |
+| Play a Single Player Game | 84.00% | ~10,753 |
+| Settler | 81.00% | ~10,369 |
+| Explorer | 79.00% | ~10,113 |
+| Friendly Family | 75.00% | ~9,601 |
+| Intrepid | 69.00% | ~8,833 |
+| Architect | 61.00% | ~7,809 |
+| Able | 60.00% | ~7,681 |
+| Mason | 60.00% | ~7,681 |
+| Strong | 59.00% | ~7,553 |
+| Hanging Gardens | 59.00% | ~7,553 |
+| Noble | 57.00% | ~7,297 |
+| Oracle | 57.00% | ~7,297 |
+| Good | 55.00% | ~7,041 |
+| Just | 54.00% | ~6,913 |
+| Judaism | 54.00% | ~6,913 |
+| Keystone | 53.00% | ~6,785 |
+| Glorious | 51.00% | ~6,529 |
+| Trade Caravan | 51.00% | ~6,529 |
 | Naming Landmarks | 49.00% | ~6,272 |
 | Learned | 48.00% | ~6,144 |
 | Pioneer | 48.00% | ~6,144 |
@@ -167,7 +167,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bronze Victory (Carthage 1) | 3.00% | ~384 |
 | Ancient | 3.00% | ~384 |
 | Holy | 3.00% | ~384 |
-| The Turning Point | 3.00% | ~384 |
 | A Good Start | 3.00% | ~384 |
 | Tell the Spartans | 3.00% | ~384 |
 | Macedonian Wars | 3.00% | ~384 |
@@ -185,10 +184,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage - Rise of Rome | 2.00% | ~256 |
 | Game of the Week | 2.00% | ~256 |
 | Get the Hellas Out | 2.00% | ~256 |
+| The Turning Point | 2.00% | ~256 |
 | Like a Lion | 2.00% | ~256 |
 | The Olive Wreath | 2.00% | ~256 |
 | Those Were Mine | 2.00% | ~256 |
-| What's 'hubris' in Greek? | 2.00% | ~256 |
 | Three's a Crowd | 2.00% | ~256 |
 | Medo-Babylonian Conquest | 2.00% | ~256 |
 | Pyramids in Menefer | 2.00% | ~256 |
@@ -202,6 +201,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage - Seizing Destiny | 1.00% | ~128 |
 | Carthage Campaign | 1.00% | ~128 |
 | Destroyer | 1.00% | ~128 |
+| What's 'hubris' in Greek? | 1.00% | ~128 |
 | Play a Hotseat Game | 1.00% | ~128 |
 | Play a MP Teams Game | 1.00% | ~128 |
 | Roman Papacy | 1.00% | ~128 |
@@ -212,15 +212,15 @@ Number of Ratings: 1,307  (23.09.2022)
 | Defend Where? | 0.90% | ~115 |
 | Still Fighting | 0.90% | ~115 |
 | Musaeum in Alexandria | 0.80% | ~102 |
-| Bronze Victory (Carthage 3) | 0.80% | ~102 |
 | Et tu Brutus? | 0.80% | ~102 |
 | Learn By Playing 1 - Able | 0.80% | ~102 |
-| Play a 1-v-1 Game | 0.80% | ~102 |
 | Great Ziggurat in Ur | 0.80% | ~102 |
 | Win a Network Game | 0.80% | ~102 |
 | Lighthouse in Alexandria | 0.70% | ~90 |
 | Epic Victory (Carthage 1) | 0.70% | ~90 |
+| Bronze Victory (Carthage 3) | 0.70% | ~90 |
 | I am the Archon Now | 0.70% | ~90 |
+| Play a 1-v-1 Game | 0.70% | ~90 |
 | Epic Victory (Carthage 2) | 0.60% | ~77 |
 | Silver Victory (Carthage 3) | 0.60% | ~77 |
 | Unfinished Business | 0.60% | ~77 |
@@ -292,7 +292,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.10% | ~13 |
 | Win a Play-By-Cloud Game | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,799 (Ranked 112)  
+Progressed: 12,801 (Ranked 112)  
 Completed: 5 (0.04%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -376,6 +376,7 @@ Completed: 5 (0.04%) (Ranked 207)
 | 2023-07-10 | 12,749 | 5 |
 | 2023-07-11 | 12,774 | 5 |
 | 2023-07-12 | 12,799 | 5 |
+| 2023-07-13 | 12,801 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 255)  
 Sum: 1,780 (Ranked 204)  

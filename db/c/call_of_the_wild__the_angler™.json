@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -586,7 +586,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4636,
+  "EOS_Progressed": 4637,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
@@ -4431,6 +4431,11 @@
       "Time": "2023-07-12T23:06:25.1402569+00:00",
       "NumProgressed": 4636,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-13T02:32:02.1383318+00:00",
+      "NumProgressed": 4637,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -4442,7 +4447,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3523
+      "UsersEstimate": 3524
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -4466,7 +4471,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 1947
+      "UsersEstimate": 1948
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -4602,7 +4607,7 @@
       "Name": "I\u0027m Hooked!",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -4721,13 +4726,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 4636,
+      "Progressed": 4637,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 4008,
+      "Progressed": 4009,
       "Completed": 112
     }
   ],
@@ -4735,8 +4740,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-06-29T22:00:44.387661+00:00",
-  "LastChanged_Achievements": "2023-07-13T00:06:15.2273332+00:00",
+  "LastChanged_Achievements": "2023-07-13T02:32:02.1383313+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:07.4773638+00:00",
-  "LastUpdate_Ratings": "2023-07-13T00:01:04.4502503+00:00",
-  "LastUpdate_Achievements": "2023-07-13T00:06:15.2273991+00:00"
+  "LastUpdate_Ratings": "2023-07-13T02:26:56.6230046+00:00",
+  "LastUpdate_Achievements": "2023-07-13T02:32:02.1383707+00:00"
 }

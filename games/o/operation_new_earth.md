@@ -14,9 +14,9 @@
 | Stocking Up | 15.00% | ~63 |
 | On Target | 14.00% | ~59 |
 | Getting Deployment | 13.00% | ~54 |
+| Keeping Busy | 12.00% | ~50 |
 | Infantry Reporting | 12.00% | ~50 |
 | Fighting for Survival | 11.00% | ~46 |
-| Keeping Busy | 11.00% | ~46 |
 | Silver Competitor | 9.00% | ~38 |
 | Factory Expansion | 9.00% | ~38 |
 | Exterminator | 8.00% | ~33 |

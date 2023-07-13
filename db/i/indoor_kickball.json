@@ -4,8 +4,8 @@
   "ProductSlug": "indoor-kickball-843529",
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-26T19:00:00+00:00",
     "PcReleaseDate": "2023-05-26T19:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 74,
+  "EOS_Progressed": 75,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -341,6 +341,11 @@
       "Time": "2023-07-11T03:21:49.1036249+00:00",
       "NumProgressed": 74,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-13T02:33:25.8513894+00:00",
+      "NumProgressed": 75,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -350,7 +355,7 @@
       "ID": "1",
       "SetID": "39djiaj",
       "Name": "First Win",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 10,
       "UsersEstimate": 48
     },
@@ -358,7 +363,7 @@
       "ID": "10",
       "SetID": "39djiaj",
       "Name": "Character Unlocked",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 5,
       "UsersEstimate": 62
     },
@@ -366,7 +371,7 @@
       "ID": "11",
       "SetID": "39djiaj",
       "Name": "Hat Unlocked",
-      "Percentage": 85,
+      "Percentage": 84,
       "XP": 5,
       "UsersEstimate": 63
     },
@@ -374,7 +379,7 @@
       "ID": "12",
       "SetID": "39djiaj",
       "Name": "Accessory Unlocked",
-      "Percentage": 85,
+      "Percentage": 84,
       "XP": 5,
       "UsersEstimate": 63
     },
@@ -384,7 +389,7 @@
       "Name": "Kickball Unlocked",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "14",
@@ -392,7 +397,7 @@
       "Name": "Settle Down",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "15",
@@ -438,9 +443,9 @@
       "ID": "2",
       "SetID": "39djiaj",
       "Name": "Homer",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "20",
@@ -494,7 +499,7 @@
       "ID": "26",
       "SetID": "39djiaj",
       "Name": "Living Room Secret Spot",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
       "UsersEstimate": 13
     },
@@ -558,7 +563,7 @@
       "ID": "33",
       "SetID": "39djiaj",
       "Name": "Spooky",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
       "UsersEstimate": 19
     },
@@ -566,7 +571,7 @@
       "ID": "34",
       "SetID": "39djiaj",
       "Name": "Have Mercy",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 30,
       "UsersEstimate": 19
     },
@@ -574,9 +579,9 @@
       "ID": "35",
       "SetID": "39djiaj",
       "Name": "Butter Fingers",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "37",
@@ -590,9 +595,9 @@
       "ID": "38",
       "SetID": "39djiaj",
       "Name": "Have a good trip!",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "39",
@@ -622,7 +627,7 @@
       "ID": "41",
       "SetID": "39djiaj",
       "Name": "Bathroom Secret Spot",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 30,
       "UsersEstimate": 16
     },
@@ -646,7 +651,7 @@
       "ID": "7",
       "SetID": "39djiaj",
       "Name": "At least everyone still had fun",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 16
     },
@@ -654,7 +659,7 @@
       "ID": "8",
       "SetID": "39djiaj",
       "Name": "Stay Hydrated",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 15,
       "UsersEstimate": 50
     },
@@ -671,14 +676,14 @@
     {
       "ID": "39djiaj",
       "IsBase": true,
-      "Progressed": 74,
+      "Progressed": 75,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-27T21:59:02.7354993+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:07.9162458+00:00",
-  "LastChanged_Achievements": "2023-07-13T00:07:53.3748879+00:00",
+  "LastChanged_Achievements": "2023-07-13T02:33:25.8513889+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:16.0821032+00:00",
-  "LastUpdate_Ratings": "2023-07-13T00:00:17.2281965+00:00",
-  "LastUpdate_Achievements": "2023-07-13T00:07:53.3749281+00:00"
+  "LastUpdate_Ratings": "2023-07-13T02:26:18.3192258+00:00",
+  "LastUpdate_Achievements": "2023-07-13T02:33:25.8514164+00:00"
 }

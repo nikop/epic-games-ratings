@@ -3,12 +3,12 @@
   "Name": "Skul: The Hero Slayer",
   "ProductSlug": "skul-the-hero-slayer",
   "Ranking_Rating": 182,
-  "Ranking_Popularity": 315,
+  "Ranking_Popularity": 314,
   "Ranking_PopularitySum": 260,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -810,11 +810,17 @@
       "Rating": 4.71,
       "NumberOfAwards": 767,
       "NumberOfAwardsMax": 116
+    },
+    {
+      "Time": "2023-07-13T02:26:01.6153555+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 768,
+      "NumberOfAwardsMax": 117
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 767,
-  "NumberOfAwardsMax": 116,
+  "NumberOfAwards": 768,
+  "NumberOfAwardsMax": 117,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -833,7 +839,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 116
+      "Count": 117
     },
     {
       "Text": "This game is Highly Recommended",
@@ -886,7 +892,7 @@
   ],
   "EOS_Progressed": 7905,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3582,9 +3588,9 @@
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
-  "LastChanged": "2023-07-05T08:59:19.7816189+00:00",
-  "LastChanged_Achievements": "2023-07-13T00:05:05.6360589+00:00",
+  "LastChanged": "2023-07-13T02:26:01.6153554+00:00",
+  "LastChanged_Achievements": "2023-07-13T02:31:03.0725319+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:55.1459271+00:00",
-  "LastUpdate_Ratings": "2023-07-12T23:59:56.6705477+00:00",
-  "LastUpdate_Achievements": "2023-07-13T00:05:05.6360916+00:00"
+  "LastUpdate_Ratings": "2023-07-13T02:26:01.6153558+00:00",
+  "LastUpdate_Achievements": "2023-07-13T02:31:03.0725557+00:00"
 }

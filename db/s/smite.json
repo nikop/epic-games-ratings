@@ -2,13 +2,13 @@
   "ID": "076207fa2b5c4803a636af606c3c28b7",
   "Name": "SMITE",
   "ProductSlug": "smite",
-  "Ranking_Rating": 623,
+  "Ranking_Rating": 624,
   "Ranking_Popularity": 78,
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 491,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-04-28T15:00:00+00:00",
     "PcReleaseDate": "2020-04-28T15:00:00+00:00",
@@ -5989,11 +5989,17 @@
       "Rating": 4.45,
       "NumberOfAwards": 24336,
       "NumberOfAwardsMax": 4003
+    },
+    {
+      "Time": "2023-07-13T02:27:22.5734307+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 24349,
+      "NumberOfAwardsMax": 4013
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 24336,
-  "NumberOfAwardsMax": 4003,
+  "NumberOfAwards": 24349,
+  "NumberOfAwardsMax": 4013,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -6006,7 +6012,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 4003
+      "Count": 4013
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6042,7 +6048,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 2556
+      "Count": 2559
     },
     {
       "Text": "This game has a Competitive Community",
@@ -6062,8 +6068,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:32.4644513+00:00",
-  "LastChanged": "2023-07-12T21:00:23.9219465+00:00",
+  "LastChanged": "2023-07-13T02:27:22.5734306+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:39.5475807+00:00",
-  "LastUpdate_Ratings": "2023-07-13T00:01:34.5512166+00:00",
-  "LastUpdate_Achievements": "2023-07-13T00:04:45.043242+00:00"
+  "LastUpdate_Ratings": "2023-07-13T02:27:22.573431+00:00",
+  "LastUpdate_Achievements": "2023-07-13T02:30:46.1029788+00:00"
 }

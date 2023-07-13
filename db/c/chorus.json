@@ -2,13 +2,13 @@
   "ID": "4930dde6add240a9bfc7ddc415dc2799",
   "Name": "Chorus",
   "ProductSlug": "chorus",
-  "Ranking_Rating": 623,
+  "Ranking_Rating": 624,
   "Ranking_Popularity": 447,
   "Ranking_PopularitySum": 469,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
     "PcReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -1571,8 +1571,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-07-09T07:00:38.7677324+00:00",
-  "LastChanged_Achievements": "2023-07-13T00:03:27.6114865+00:00",
+  "LastChanged_Achievements": "2023-07-13T02:29:53.6770354+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:28.6804295+00:00",
-  "LastUpdate_Ratings": "2023-07-13T00:01:22.395195+00:00",
-  "LastUpdate_Achievements": "2023-07-13T00:03:27.6115284+00:00"
+  "LastUpdate_Ratings": "2023-07-13T02:27:12.5798627+00:00",
+  "LastUpdate_Achievements": "2023-07-13T02:29:53.6770681+00:00"
 }

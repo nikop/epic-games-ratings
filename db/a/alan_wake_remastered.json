@@ -2,13 +2,13 @@
   "ID": "2e92a78949e2474aa89271b8b893f3b0",
   "Name": "Alan Wake Remastered",
   "ProductSlug": "alan-wake-remastered",
-  "Ranking_Rating": 478,
+  "Ranking_Rating": 477,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57262,
+  "EOS_Progressed": 57264,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 384,
+  "EOS_NewPlayers": 381,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7782,6 +7782,11 @@
       "Time": "2023-07-13T00:04:36.6060487+00:00",
       "NumProgressed": 57262,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-13T02:30:38.8296594+00:00",
+      "NumProgressed": 57264,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7793,7 +7798,7 @@
       "Name": "Follow the Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 19469
+      "UsersEstimate": 19470
     },
     {
       "ID": "02",
@@ -7809,7 +7814,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11452
+      "UsersEstimate": 11453
     },
     {
       "ID": "04",
@@ -7817,7 +7822,7 @@
       "Name": "Boob Tube",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2290
+      "UsersEstimate": 2291
     },
     {
       "ID": "05",
@@ -7825,7 +7830,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10307
+      "UsersEstimate": 10308
     },
     {
       "ID": "06",
@@ -7833,7 +7838,7 @@
       "Name": "Park Ranger",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 8589
+      "UsersEstimate": 8590
     },
     {
       "ID": "07",
@@ -7857,7 +7862,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6871
+      "UsersEstimate": 6872
     },
     {
       "ID": "10",
@@ -7873,7 +7878,7 @@
       "Name": "Children of the Elder God",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2290
+      "UsersEstimate": 2291
     },
     {
       "ID": "12",
@@ -7945,7 +7950,7 @@
       "Name": "If It Flies, It Burns",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2290
+      "UsersEstimate": 2291
     },
     {
       "ID": "21",
@@ -7953,7 +7958,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6871
+      "UsersEstimate": 6872
     },
     {
       "ID": "22",
@@ -8041,7 +8046,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14888
+      "UsersEstimate": 14889
     },
     {
       "ID": "33",
@@ -8049,7 +8054,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6871
+      "UsersEstimate": 6872
     },
     {
       "ID": "34",
@@ -8129,7 +8134,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8589
+      "UsersEstimate": 8590
     },
     {
       "ID": "44",
@@ -8169,7 +8174,7 @@
       "Name": "KBF-FM",
       "Percentage": 4,
       "XP": 110,
-      "UsersEstimate": 2290
+      "UsersEstimate": 2291
     },
     {
       "ID": "49",
@@ -8193,7 +8198,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "52",
@@ -8257,7 +8262,7 @@
       "Name": "Ding!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1037
     },
     {
       "ID": "60",
@@ -8328,21 +8333,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57262,
+      "Progressed": 57264,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20730,
+      "Progressed": 20732,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-13T00:04:36.6060481+00:00",
+  "LastChanged_Achievements": "2023-07-13T02:30:38.8296589+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:08.3646753+00:00",
-  "LastUpdate_Ratings": "2023-07-12T23:58:15.3691823+00:00",
-  "LastUpdate_Achievements": "2023-07-13T00:04:36.6061852+00:00"
+  "LastUpdate_Ratings": "2023-07-13T02:24:32.6673478+00:00",
+  "LastUpdate_Achievements": "2023-07-13T02:30:38.829746+00:00"
 }

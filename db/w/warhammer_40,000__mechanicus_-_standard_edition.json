@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -457,10 +457,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 2119,
       "NumberOfAwardsMax": 280
+    },
+    {
+      "Time": "2023-07-13T02:25:24.2983905+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 2120,
+      "NumberOfAwardsMax": 280
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2119,
+  "NumberOfAwards": 2120,
   "NumberOfAwardsMax": 280,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -468,7 +474,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 242
+      "Count": 243
     },
     {
       "Text": "This game is Relaxing",
@@ -525,9 +531,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 217022,
+  "EOS_Progressed": 217024,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 635,
+  "EOS_NewPlayers": 631,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9365,6 +9371,11 @@
       "Time": "2023-07-13T00:06:19.4039001+00:00",
       "NumProgressed": 217022,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-13T02:32:05.6164097+00:00",
+      "NumProgressed": 217024,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 34,
@@ -9376,7 +9387,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 41234
+      "UsersEstimate": 41235
     },
     {
       "ID": "ACH_BASE_10",
@@ -9647,16 +9658,16 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 217022,
+      "Progressed": 217024,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-08-11T20:31:05.9094892+00:00",
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
-  "LastChanged": "2023-07-07T16:58:59.406798+00:00",
-  "LastChanged_Achievements": "2023-07-13T00:06:19.4038995+00:00",
+  "LastChanged": "2023-07-13T02:25:24.2983904+00:00",
+  "LastChanged_Achievements": "2023-07-13T02:32:05.6164092+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:16.5954522+00:00",
-  "LastUpdate_Ratings": "2023-07-12T23:59:23.3580692+00:00",
-  "LastUpdate_Achievements": "2023-07-13T00:06:19.404017+00:00"
+  "LastUpdate_Ratings": "2023-07-13T02:25:24.2983908+00:00",
+  "LastUpdate_Achievements": "2023-07-13T02:32:05.6164702+00:00"
 }

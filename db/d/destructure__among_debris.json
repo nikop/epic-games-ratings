@@ -3,9 +3,9 @@
   "Name": "DESTRUCTURE: Among Debris",
   "ProductSlug": "destructure-among-debris-b4aaf8",
   "Ranking_EOS_Progress": 284,
-  "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_Completed": 115,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
     "PcReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 150,
+  "EOS_Progressed": 151,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.67,
+  "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:52:27.5419142+00:00",
@@ -708,6 +708,11 @@
       "Time": "2023-07-03T21:01:01.9533305+00:00",
       "NumProgressed": 150,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-13T02:30:32.6529419+00:00",
+      "NumProgressed": 151,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -735,7 +740,7 @@
       "Name": "Back From The Dead",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ball_collector",
@@ -775,7 +780,7 @@
       "Name": "Collector",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "detoxed",
@@ -783,15 +788,15 @@
       "Name": "Detoxed",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "die",
       "SetID": "jig50d",
       "Name": "You Have Been Deaded",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 113
     },
     {
       "ID": "easy_victory",
@@ -807,7 +812,7 @@
       "Name": "Graduation",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "i_prefer_fusion_jazz",
@@ -815,7 +820,7 @@
       "Name": "I Prefer Jazz Fusion",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ice_breaker",
@@ -855,7 +860,7 @@
       "Name": "Medium Rare",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "monster_of_fashion",
@@ -887,7 +892,7 @@
       "Name": "Rookie",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "scrap_collector",
@@ -966,7 +971,7 @@
     {
       "ID": "jig50d",
       "IsBase": true,
-      "Progressed": 150,
+      "Progressed": 151,
       "Completed": 1
     }
   ],
@@ -974,8 +979,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-07-13T00:04:29.3143594+00:00",
+  "LastChanged_Achievements": "2023-07-13T02:30:32.6529411+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:27.8329656+00:00",
-  "LastUpdate_Ratings": "2023-07-13T00:01:22.3144257+00:00",
-  "LastUpdate_Achievements": "2023-07-13T00:04:29.3143858+00:00"
+  "LastUpdate_Ratings": "2023-07-13T02:27:12.5409905+00:00",
+  "LastUpdate_Achievements": "2023-07-13T02:30:32.6529661+00:00"
 }

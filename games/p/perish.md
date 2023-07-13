@@ -25,6 +25,7 @@
 | Symbols of Heresy | 3.00% | ~97 |
 | First Fragment | 3.00% | ~97 |
 | Sisters of the Pantheon | 3.00% | ~97 |
+| Labour of Apollo | 3.00% | ~97 |
 | Siege Unit | 3.00% | ~97 |
 | Divine Assemblage | 3.00% | ~97 |
 | Ophiolatreia | 3.00% | ~97 |
@@ -36,7 +37,6 @@
 | The Midas Touch | 2.00% | ~65 |
 | Hapax Legomenon | 2.00% | ~65 |
 | Don't Pay the Ferryman | 2.00% | ~65 |
-| Labour of Apollo | 2.00% | ~65 |
 | Vandili | 2.00% | ~65 |
 | No Scylla in Sight | 2.00% | ~65 |
 | Cloaca Maxima | 2.00% | ~65 |
