@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -2214,9 +2214,9 @@
       "ID": "archmage_1",
       "SetID": "53c1p3k",
       "Name": "Archmage 1",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 53
     },
     {
       "ID": "archmage_2",
@@ -2294,9 +2294,9 @@
       "ID": "collector_2",
       "SetID": "53c1p3k",
       "Name": "Collector 2",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "collector_3",
@@ -2725,8 +2725,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-07-13T03:25:49.2000793+00:00",
+  "LastChanged_Achievements": "2023-07-13T04:04:02.2471212+00:00",
   "LastUpdate_AppInfo": "2023-07-11T03:11:42.9317837+00:00",
-  "LastUpdate_Ratings": "2023-07-13T03:19:30.4162218+00:00",
-  "LastUpdate_Achievements": "2023-07-13T03:25:49.2001535+00:00"
+  "LastUpdate_Ratings": "2023-07-13T03:57:13.9599223+00:00",
+  "LastUpdate_Achievements": "2023-07-13T04:04:02.2472014+00:00"
 }

@@ -4930,10 +4930,10 @@
       "Count": 3297
     }
   ],
-  "EOS_Progressed": 210711,
+  "EOS_Progressed": 210715,
   "EOS_Completed": 2046,
-  "EOS_NewPlayers": 3735,
-  "EOS_NewCompleters": 14,
+  "EOS_NewPlayers": 3729,
+  "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
     {
@@ -13815,6 +13815,11 @@
       "Time": "2023-07-13T03:26:56.8298399+00:00",
       "NumProgressed": 210711,
       "NumCompleted": 2046
+    },
+    {
+      "Time": "2023-07-13T04:05:12.4447158+00:00",
+      "NumProgressed": 210715,
+      "NumCompleted": 2046
     }
   ],
   "TotalAchievements": 507,
@@ -16872,9 +16877,9 @@
       "ID": "objective_completed_685",
       "SetID": "415jc5c",
       "Name": "The Prison of Velkynvelve",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_686",
@@ -17136,9 +17141,9 @@
       "ID": "objective_completed_813",
       "SetID": "415jc5c",
       "Name": "The Archduke\u0027s Blessing",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_814",
@@ -17256,9 +17261,9 @@
       "ID": "objective_completed_838",
       "SetID": "415jc5c",
       "Name": "Don\u0027t Pick at the Scab",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_839",
@@ -17881,21 +17886,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 176985,
+      "Progressed": 176989,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 210711,
+      "Progressed": 210715,
       "Completed": 2046
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-13T03:20:31.8284605+00:00",
-  "LastChanged_Achievements": "2023-07-13T03:26:56.829839+00:00",
+  "LastChanged_Achievements": "2023-07-13T04:05:12.4447153+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:43.9043947+00:00",
-  "LastUpdate_Ratings": "2023-07-13T03:20:31.8284615+00:00",
-  "LastUpdate_Achievements": "2023-07-13T03:26:56.832672+00:00"
+  "LastUpdate_Ratings": "2023-07-13T03:58:32.4375022+00:00",
+  "LastUpdate_Achievements": "2023-07-13T04:05:12.4488317+00:00"
 }

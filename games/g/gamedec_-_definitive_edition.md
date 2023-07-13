@@ -8,7 +8,7 @@ Number of Ratings: 33  (23.09.2022)
 | ---- | ---------- | ----- |
 | I will finish what you started | 28.00% | ~66,339 |
 | Powergamer | 27.00% | ~63,970 |
-| Barely scratched the surface | 25.00% | ~59,231 |
+| Barely scratched the surface | 25.00% | ~59,232 |
 | Write that down | 24.00% | ~56,862 |
 | Guns, lots of guns | 12.00% | ~28,431 |
 | Collector | 11.00% | ~26,062 |
@@ -26,14 +26,14 @@ Number of Ratings: 33  (23.09.2022)
 | So you like to read? | 4.00% | ~9,477 |
 | I like to sniff around | 3.00% | ~7,108 |
 | Mind reader | 3.00% | ~7,108 |
-| Gentleman's classic | 2.00% | ~4,738 |
-| Hoarder | 2.00% | ~4,738 |
-| Is that a rift? | 2.00% | ~4,738 |
-| It's alive! | 2.00% | ~4,738 |
-| Enjoy the beach | 2.00% | ~4,738 |
-| Rinse and repeat | 2.00% | ~4,738 |
-| Mama, I'm a criminal | 2.00% | ~4,738 |
-| Never gonna give you up | 2.00% | ~4,738 |
+| Gentleman's classic | 2.00% | ~4,739 |
+| Hoarder | 2.00% | ~4,739 |
+| Is that a rift? | 2.00% | ~4,739 |
+| It's alive! | 2.00% | ~4,739 |
+| Enjoy the beach | 2.00% | ~4,739 |
+| Rinse and repeat | 2.00% | ~4,739 |
+| Mama, I'm a criminal | 2.00% | ~4,739 |
+| Never gonna give you up | 2.00% | ~4,739 |
 | A muscle to rely on | 1.00% | ~2,369 |
 | Catnip | 1.00% | ~2,369 |
 | I am in great pain, please help me | 1.00% | ~2,369 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~474 |
 | Memory 5 | 0.10% | ~237 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,925 (Ranked 45)  
+Progressed: 236,926 (Ranked 45)  
 Completed: 7 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 7 (0.00%) (Ranked 237)
 | 2023-07-10 | 236,612 | 7 |
 | 2023-07-11 | 236,753 | 7 |
 | 2023-07-12 | 236,901 | 7 |
-| 2023-07-13 | 236,925 | 7 |
+| 2023-07-13 | 236,926 | 7 |
 ## Awards
 Max (Character Customization): 74  (Ranked 363)  
 Sum: 74 (Ranked 425)  

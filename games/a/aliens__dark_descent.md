@@ -6,36 +6,36 @@ Rating: 4.43 (Ranked 653)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,296 |
-| Snatched Out | 74.00% | ~2,097 |
-| Keep 'Em Coming | 72.00% | ~2,040 |
-| Cleaning Lethe, One Nest At A Time | 65.00% | ~1,842 |
-| Call Me Snake | 59.00% | ~1,672 |
+| Snatched Out | 73.00% | ~2,070 |
+| Keep 'Em Coming | 72.00% | ~2,041 |
+| Cleaning Lethe, One Nest At A Time | 64.00% | ~1,814 |
+| Call Me Snake | 59.00% | ~1,673 |
 | Something Lurks Under The Hills | 58.00% | ~1,644 |
-| This Was No Papercut | 56.00% | ~1,587 |
-| The Shrink Hates Me | 53.00% | ~1,502 |
+| This Was No Papercut | 56.00% | ~1,588 |
+| The Shrink Hates Me | 53.00% | ~1,503 |
 | People Person | 52.00% | ~1,474 |
 | Use The Bumper, That's What It's For | 49.00% | ~1,389 |
-| First Steps Into Madness | 48.00% | ~1,360 |
+| First Steps Into Madness | 48.00% | ~1,361 |
 | Colonial Barrels | 47.00% | ~1,332 |
-| Harper's Hell | 39.00% | ~1,105 |
-| Damn Dude, You Gotta Lose Some Weight! | 39.00% | ~1,105 |
+| Harper's Hell | 39.00% | ~1,106 |
+| Damn Dude, You Gotta Lose Some Weight! | 39.00% | ~1,106 |
 | Making a Stand | 37.00% | ~1,049 |
-| Recouped Investment | 33.00% | ~935 |
+| Recouped Investment | 33.00% | ~936 |
 | Where It All Begun | 32.00% | ~907 |
 | Omelette Du Fromage | 30.00% | ~850 |
-| The More The Merrier | 25.00% | ~708 |
+| The More The Merrier | 25.00% | ~709 |
 | Living Nightmare | 24.00% | ~680 |
 | The Darwin Era Was Here | 20.00% | ~567 |
-| Deep Into Insanity | 19.00% | ~538 |
+| Deep Into Insanity | 19.00% | ~539 |
 | Stuff Of Nightmares | 18.00% | ~510 |
 | Come on, You Wanna Live Forever? | 18.00% | ~510 |
 | The Passenger | 18.00% | ~510 |
 | El Riesgo Siempre Vive | 17.00% | ~482 |
 | The Spire | 15.00% | ~425 |
 | One For Every Occasion | 14.00% | ~397 |
-| Bandage Lover | 13.00% | ~368 |
-| Frontliner | 13.00% | ~368 |
-| The Cable Guy | 13.00% | ~368 |
+| Bandage Lover | 13.00% | ~369 |
+| Frontliner | 13.00% | ~369 |
+| The Cable Guy | 13.00% | ~369 |
 | Excavating The Truth | 12.00% | ~340 |
 | Abysmal Horrors | 12.00% | ~340 |
 | Regicide | 9.00% | ~255 |
@@ -51,7 +51,7 @@ Rating: 4.43 (Ranked 653)
 | Perfect Organism | 0.40% | ~11 |
 | This Ain't No Picnic | 0.30% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,834 (Ranked 153)  
+Progressed: 2,835 (Ranked 153)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-10 | 2,794 | 0 |
 | 2023-07-11 | 2,812 | 0 |
 | 2023-07-12 | 2,830 | 0 |
-| 2023-07-13 | 2,834 | 0 |
+| 2023-07-13 | 2,835 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

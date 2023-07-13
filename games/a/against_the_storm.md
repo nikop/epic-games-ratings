@@ -46,7 +46,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Prestigious Expedition | 0.70% | ~111 |
 | Blood Flower Farmer | 0.70% | ~111 |
 | Victory through Prosperity | 0.70% | ~111 |
-| Feeding The People | 0.50% | ~79 |
+| Feeding The People | 0.60% | ~95 |
 | Lizard Utopia | 0.50% | ~79 |
 | Beaver Utopia | 0.40% | ~63 |
 | Human Utopia | 0.40% | ~63 |

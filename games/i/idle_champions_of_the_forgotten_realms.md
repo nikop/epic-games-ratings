@@ -177,6 +177,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Into the Unknown | 0.10% | ~177 |
 | A Tenday at Golgamann's | 0.10% | ~177 |
 | A Nightmare Occasion | 0.10% | ~177 |
+| The Prison of Velkynvelve | 0.10% | ~177 |
 | Prisoners of Lolth | 0.10% | ~177 |
 | Prisoners of Unknown Choices | 0.10% | ~177 |
 | Escort to Waterdeep | 0.10% | ~211 |
@@ -209,6 +210,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Durable Deep | 0.10% | ~211 |
 | Lone Wolf Party | 0.10% | ~177 |
 | The Sibriex | 0.10% | ~177 |
+| The Archduke's Blessing | 0.10% | ~177 |
 | A Neutral Party | 0.10% | ~177 |
 | Wrecked Flying Fortress | 0.10% | ~177 |
 | Relentless Peril | 0.10% | ~177 |
@@ -223,6 +225,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hats off to you! | 0.10% | ~177 |
 | It's Cold Out There Every Day | 0.10% | ~177 |
 | The Bleeding Citadel | 0.10% | ~177 |
+| Don't Pick at the Scab | 0.10% | ~177 |
 | Going To Eleven | 0.10% | ~177 |
 | Idyllglen | 0.10% | ~177 |
 | The Madness of Yeenoghu | 0.10% | ~177 |
@@ -486,9 +489,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Take Five | 0.00% | ~0 |
 | Déjà Vu All Over Again | 0.00% | ~0 |
 | Ulkoria's Escape from Alterdeep | 0.00% | ~0 |
-| The Prison of Velkynvelve | 0.00% | ~0 |
-| The Archduke's Blessing | 0.00% | ~0 |
-| Don't Pick at the Scab | 0.00% | ~0 |
 | Reya Reborn | 0.00% | ~0 |
 | A Chilling Encounter | 0.00% | ~0 |
 | REALLY Frozen Vengeance | 0.00% | ~0 |
@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,711 (Ranked 52)  
+Progressed: 210,715 (Ranked 52)  
 Completed: 2,046 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -598,7 +598,7 @@ Completed: 2,046 (0.97%) (Ranked 102)
 | 2023-07-10 | 209,861 | 2,045 |
 | 2023-07-11 | 210,283 | 2,046 |
 | 2023-07-12 | 210,649 | 2,046 |
-| 2023-07-13 | 210,711 | 2,046 |
+| 2023-07-13 | 210,715 | 2,046 |
 ## Awards
 Max (Diverse Characters): 5,029  (Ranked 66)  
 Sum: 30,493 (Ranked 38)  
