@@ -81,6 +81,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Waterdeep Under Siege | 0.10% | ~211 |
 | Bregan D'aerthe Comes to Call | 0.10% | ~211 |
 | Sober Up | 0.10% | ~211 |
+| In The Beginning | 0.10% | ~177 |
 | Crowded Streets | 0.10% | ~211 |
 | The Sunless Citadel | 0.10% | ~211 |
 | Social Grace | 0.10% | ~177 |
@@ -105,6 +106,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Batiri in the Goblin Halls | 0.10% | ~211 |
 | Temporal Rift in the Goblin Halls | 0.10% | ~177 |
 | The Nimble Grove | 0.10% | ~211 |
+| The Misty Grove | 0.10% | ~177 |
 | The Contagious Curse | 0.10% | ~211 |
 | Dinosaur Racing | 0.10% | ~211 |
 | Elturel Has Fallen | 0.10% | ~211 |
@@ -119,6 +121,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Once More Into The Breach | 0.10% | ~211 |
 | Twice More Into The Breach | 0.10% | ~211 |
 | Thrice More Into The Breach | 0.10% | ~177 |
+| Nightmare Mode | 0.10% | ~177 |
 | Wyllowwood | 0.10% | ~211 |
 | Displaced Anger | 0.10% | ~211 |
 | Ettercap Swarm | 0.10% | ~177 |
@@ -162,6 +165,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Into the Unknown | 0.10% | ~177 |
 | A Tenday at Golgamann's | 0.10% | ~177 |
 | A Nightmare Occasion | 0.10% | ~177 |
+| Prisoners of Lolth | 0.10% | ~177 |
 | Prisoners of Unknown Choices | 0.10% | ~177 |
 | Escort to Waterdeep | 0.10% | ~211 |
 | The Giant's Bane Tavern | 0.10% | ~177 |
@@ -220,6 +224,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Frozen Vengeance | 0.10% | ~177 |
 | Mimic Vengeance | 0.10% | ~177 |
 | The Battle of High Hall Tower | 0.10% | ~177 |
+| The Stunning Tower Battle | 0.10% | ~177 |
 | Elturel's Last Stand | 0.10% | ~177 |
 | Gargauth's Betrayal | 0.10% | ~177 |
 | Demons Here, Demons There | 0.10% | ~177 |
@@ -236,11 +241,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | Male Pattern Boldness | 0.10% | ~177 |
 | Pure Energy | 0.10% | ~211 |
 | Cackling Horror | 0.10% | ~177 |
+| Working for the Weak End | 0.10% | ~177 |
 | Fungal Excitation | 0.10% | ~177 |
 | Crimson Perception | 0.10% | ~177 |
 | Watchful Eyes | 0.10% | ~177 |
 | Maroon Madness | 0.10% | ~177 |
+| The Rite of the Arcane Octad | 0.10% | ~177 |
+| Alien Allies | 0.10% | ~177 |
 | An Icewind Dale Reunion | 0.10% | ~177 |
+| The Netherese Necropolis | 0.10% | ~177 |
 | Ineffectual Intellectuals | 0.10% | ~177 |
 | The Archaeologist and the Sailor | 0.10% | ~177 |
 | The Templar's Camp | 0.10% | ~211 |
@@ -458,7 +467,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dino Nightmare | 0.00% | ~0 |
 | A Familiar Friend | 0.00% | ~0 |
 | Feigned Weakness | 0.00% | ~0 |
-| In The Beginning | 0.00% | ~0 |
 | Veteran Brigade | 0.00% | ~0 |
 | Evergreens with an Evergreen | 0.00% | ~0 |
 | Meepo's Quest | 0.00% | ~0 |
@@ -466,15 +474,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Take Five | 0.00% | ~0 |
 | Lost in the Goblin Halls | 0.00% | ~0 |
 | The Twilight Grove | 0.00% | ~0 |
-| The Misty Grove | 0.00% | ~0 |
-| Nightmare Mode | 0.00% | ~0 |
 | Smooth Talkers | 0.00% | ~0 |
 | Déjà Vu All Over Again | 0.00% | ~0 |
 | Look Out! | 0.00% | ~0 |
 | Zapper Overload | 0.00% | ~0 |
 | Ulkoria's Escape from Alterdeep | 0.00% | ~0 |
 | The Prison of Velkynvelve | 0.00% | ~0 |
-| Prisoners of Lolth | 0.00% | ~0 |
 | The Archduke's Blessing | 0.00% | ~0 |
 | Don't Pick at the Scab | 0.00% | ~0 |
 | Reya Reborn | 0.00% | ~0 |
@@ -484,17 +489,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | How Far Away is Thay | 0.00% | ~0 |
 | REALLY Frozen Vengeance | 0.00% | ~0 |
 | Might Makes Right | 0.00% | ~0 |
-| The Stunning Tower Battle | 0.00% | ~0 |
 | Lost in the Underdark | 0.00% | ~0 |
 | Volo's Guide to Kuo-toa | 0.00% | ~0 |
 | Ambitious Speakers - Part 2 | 0.00% | ~0 |
 | Tekeli-li's Hunt | 0.00% | ~0 |
-| Working for the Weak End | 0.00% | ~0 |
 | Neutral No More | 0.00% | ~0 |
 | Encroaching Madness | 0.00% | ~0 |
-| The Rite of the Arcane Octad | 0.00% | ~0 |
-| Alien Allies | 0.00% | ~0 |
-| The Netherese Necropolis | 0.00% | ~0 |
 | The Court of Storms | 0.00% | ~0 |
 | Coasting to the Finish | 0.00% | ~0 |
 | Beware the Jabberwock | 0.00% | ~0 |
@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,649 (Ranked 52)  
+Progressed: 210,667 (Ranked 52)  
 Completed: 2,046 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -598,6 +598,7 @@ Completed: 2,046 (0.97%) (Ranked 102)
 | 2023-07-10 | 209,861 | 2,045 |
 | 2023-07-11 | 210,283 | 2,046 |
 | 2023-07-12 | 210,649 | 2,046 |
+| 2023-07-13 | 210,667 | 2,046 |
 ## Awards
 Max (Diverse Characters): 5,025  (Ranked 66)  
 Sum: 30,489 (Ranked 38)  

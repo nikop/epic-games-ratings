@@ -6,21 +6,21 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~25,959 |
+| Simoon | 34.00% | ~25,960 |
 | Just The Two of Us | 33.00% | ~25,196 |
 | Up On High | 25.00% | ~19,088 |
 | Under The Hood | 25.00% | ~19,088 |
-| Got Your Nose | 24.00% | ~18,324 |
-| The Gift of Gab | 24.00% | ~18,324 |
-| Wrapping Up | 22.00% | ~16,797 |
-| More Than A Box Of Sand | 18.00% | ~13,743 |
+| Got Your Nose | 24.00% | ~18,325 |
+| The Gift of Gab | 24.00% | ~18,325 |
+| Wrapping Up | 22.00% | ~16,798 |
+| More Than A Box Of Sand | 18.00% | ~13,744 |
 | The Dunboyne | 17.00% | ~12,980 |
 | Badge Hobbyist | 17.00% | ~12,980 |
 | Chum Novice | 16.00% | ~12,216 |
 | Silver-Tongued Sable | 16.00% | ~12,216 |
 | Sticky Paws | 16.00% | ~12,216 |
 | Bubble Up | 16.00% | ~12,216 |
-| Thread The Needle | 15.00% | ~11,452 |
+| Thread The Needle | 15.00% | ~11,453 |
 | Power to the People | 14.00% | ~10,689 |
 | Take That! | 13.00% | ~9,926 |
 | Nesting Giant | 13.00% | ~9,926 |
@@ -28,7 +28,7 @@ Number of Ratings: 43  (23.09.2022)
 | Big Spender | 13.00% | ~9,926 |
 | Badge Collector | 12.00% | ~9,162 |
 | Quite The Catch | 12.00% | ~9,162 |
-| Rowleys Way | 11.00% | ~8,398 |
+| Rowleys Way | 11.00% | ~8,399 |
 | The Machinist Mask | 10.00% | ~7,635 |
 | The Cartographer Mask | 10.00% | ~7,635 |
 | Balfron Connection | 10.00% | ~7,635 |
@@ -58,12 +58,12 @@ Number of Ratings: 43  (23.09.2022)
 | The Gliding | 4.00% | ~3,054 |
 | The Quick and the Curious | 4.00% | ~3,054 |
 | Bike Aficionado | 4.00% | ~3,054 |
-| Chum Expert | 3.00% | ~2,290 |
-| Gastric Bypass | 3.00% | ~2,290 |
-| The Angler Mask | 3.00% | ~2,290 |
+| Chum Expert | 3.00% | ~2,291 |
+| Gastric Bypass | 3.00% | ~2,291 |
+| The Angler Mask | 3.00% | ~2,291 |
 | Vivacious Vivarium | 2.00% | ~1,527 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,350 (Ranked 72)  
+Progressed: 76,353 (Ranked 72)  
 Completed: 742 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,6 +147,7 @@ Completed: 742 (0.97%) (Ranked 102)
 | 2023-07-10 | 75,961 | 735 |
 | 2023-07-11 | 76,160 | 736 |
 | 2023-07-12 | 76,350 | 742 |
+| 2023-07-13 | 76,353 | 742 |
 ## Awards
 Max (Quickly Understood Controls): 20  (Ranked 501)  
 Sum: 20 (Ranked 501)  

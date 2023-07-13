@@ -4,8 +4,8 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 417,
+  "EOS_Progressed": 418,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1446,6 +1446,11 @@
       "Time": "2023-07-12T23:06:01.9329129+00:00",
       "NumProgressed": 417,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-13T00:05:51.9008235+00:00",
+      "NumProgressed": 418,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1535,9 +1540,9 @@
       "ID": "objective_headquarters_10",
       "SetID": "bm61c2p",
       "Name": "Keeping Busy",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 50
+      "UsersEstimate": 46
     },
     {
       "ID": "objective_headquarters_15",
@@ -1569,7 +1574,7 @@
       "Name": "Corporal",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -1633,7 +1638,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -1681,7 +1686,7 @@
       "Name": "On Target",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -1760,14 +1765,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 417,
+      "Progressed": 418,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-12T23:06:01.9329123+00:00",
+  "LastChanged_Achievements": "2023-07-13T00:05:51.9008229+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:58.5226048+00:00",
-  "LastUpdate_Ratings": "2023-07-12T23:01:54.6303799+00:00",
-  "LastUpdate_Achievements": "2023-07-12T23:06:01.9329545+00:00"
+  "LastUpdate_Ratings": "2023-07-13T00:01:49.1916206+00:00",
+  "LastUpdate_Achievements": "2023-07-13T00:05:51.9008622+00:00"
 }

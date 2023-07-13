@@ -1,21 +1,21 @@
 # Kingdom Come: Deliverance
 [Store](https://store.epicgames.com/en-US/p/kingdom-come-deliverance)  
 [View Rawdata](../../db/k/kingdom_come__deliverance.json)  
-Rating: 4.71 (Ranked 181)  
+Rating: 4.71 (Ranked 182)  
 Number of Ratings: 9,133  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~245,581 |
-| Cavalier | 25.00% | ~198,049 |
-| Fatso | 23.00% | ~182,205 |
-| Awakening | 20.00% | ~158,439 |
-| Ranger | 20.00% | ~158,439 |
-| Scrooge | 20.00% | ~158,439 |
-| Anorectic | 16.00% | ~126,751 |
-| Firestarter | 15.00% | ~118,829 |
-| Bookworm | 14.00% | ~110,907 |
-| Insomniac | 13.00% | ~102,985 |
+| Blacksmith's Son | 31.00% | ~245,582 |
+| Cavalier | 25.00% | ~198,050 |
+| Fatso | 23.00% | ~182,206 |
+| Awakening | 20.00% | ~158,440 |
+| Ranger | 20.00% | ~158,440 |
+| Scrooge | 20.00% | ~158,440 |
+| Anorectic | 16.00% | ~126,752 |
+| Firestarter | 15.00% | ~118,830 |
+| Bookworm | 14.00% | ~110,908 |
+| Insomniac | 13.00% | ~102,986 |
 | Buddy | 12.00% | ~95,064 |
 | Thief | 12.00% | ~95,064 |
 | Sinner | 11.00% | ~87,142 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~792 |
 | Wingman | 0.10% | ~792 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 792,196 (Ranked 15)  
+Progressed: 792,199 (Ranked 15)  
 Completed: 44 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,6 +173,7 @@ Completed: 44 (0.01%) (Ranked 223)
 | 2023-07-10 | 791,925 | 44 |
 | 2023-07-11 | 792,059 | 44 |
 | 2023-07-12 | 792,196 | 44 |
+| 2023-07-13 | 792,199 | 44 |
 ## Awards
 Max (Character Customization): 7,313  (Ranked 46)  
 Sum: 27,265 (Ranked 43)  

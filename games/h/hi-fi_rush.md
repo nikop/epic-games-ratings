@@ -24,9 +24,9 @@ Rating: 4.87 (Ranked 24)
 | Headliner | 0.80% | ~28 |
 | Time to pay up! | 0.80% | ~28 |
 | Who's the boss now? | 0.80% | ~28 |
+| I have to read these things? | 0.80% | ~28 |
 | Feeling the beat! | 0.80% | ~28 |
 | You must like calling me in, Chai | 0.80% | ~28 |
-| I have to read these things? | 0.70% | ~24 |
 | You can pet the cat! | 0.70% | ~24 |
 | I look cool. But I can look COOLER. | 0.60% | ~21 |
 | Well that was a rush! | 0.50% | ~17 |

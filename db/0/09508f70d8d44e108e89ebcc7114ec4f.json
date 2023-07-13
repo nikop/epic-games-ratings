@@ -894,17 +894,17 @@
       "ID": "brewery",
       "SetID": "ap7g2g4",
       "Name": "Brewery",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 30,
-      "UsersEstimate": 256
+      "UsersEstimate": 259
     },
     {
       "ID": "church",
       "SetID": "ap7g2g4",
       "Name": "Church",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 163
+      "UsersEstimate": 166
     },
     {
       "ID": "circus",
@@ -1046,9 +1046,9 @@
       "ID": "wheat_farm",
       "SetID": "ap7g2g4",
       "Name": "Wheat farm",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 129
+      "UsersEstimate": 132
     },
     {
       "ID": "wood",
@@ -1069,8 +1069,8 @@
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-07-12T23:05:06.7844951+00:00",
+  "LastChanged_Achievements": "2023-07-13T00:04:57.3519737+00:00",
   "LastUpdate_AppInfo": "2023-07-06T15:57:02.8517894+00:00",
-  "LastUpdate_Ratings": "2023-07-12T22:57:41.9237516+00:00",
-  "LastUpdate_Achievements": "2023-07-12T23:05:06.7845297+00:00"
+  "LastUpdate_Ratings": "2023-07-12T23:57:28.9437196+00:00",
+  "LastUpdate_Achievements": "2023-07-13T00:04:57.3519962+00:00"
 }

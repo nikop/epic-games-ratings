@@ -6,32 +6,32 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~20,628 |
-| Exploitative | 4.00% | ~16,502 |
-| Point Shooting | 4.00% | ~16,502 |
-| Wet Feet | 4.00% | ~16,502 |
-| High Speed Low Drag | 3.00% | ~12,377 |
-| Lucky | 3.00% | ~12,377 |
-| Stylin' | 3.00% | ~12,377 |
-| Turf War | 3.00% | ~12,377 |
-| Banged | 2.00% | ~8,251 |
-| Checkpoint Victory | 2.00% | ~8,251 |
-| First Blood | 2.00% | ~8,251 |
-| Flaccid Paralysis | 2.00% | ~8,251 |
-| Push Victory | 2.00% | ~8,251 |
-| Self-destructive | 2.00% | ~8,251 |
+| Wallbanger | 5.00% | ~20,629 |
+| Exploitative | 4.00% | ~16,504 |
+| Point Shooting | 4.00% | ~16,504 |
+| Wet Feet | 4.00% | ~16,504 |
+| High Speed Low Drag | 3.00% | ~12,378 |
+| Lucky | 3.00% | ~12,378 |
+| Stylin' | 3.00% | ~12,378 |
+| Turf War | 3.00% | ~12,378 |
+| Banged | 2.00% | ~8,252 |
+| Checkpoint Victory | 2.00% | ~8,252 |
+| First Blood | 2.00% | ~8,252 |
+| Flaccid Paralysis | 2.00% | ~8,252 |
+| Push Victory | 2.00% | ~8,252 |
+| Self-destructive | 2.00% | ~8,252 |
 | Blindfire | 1.00% | ~4,126 |
 | Ruthless | 1.00% | ~4,126 |
 | Semper Paratus | 1.00% | ~4,126 |
 | Carrying | 0.90% | ~3,713 |
 | Efficient | 0.90% | ~3,713 |
 | Mount & Gun | 0.90% | ~3,713 |
-| Grounded | 0.80% | ~3,300 |
-| Personal | 0.80% | ~3,300 |
-| Play to Win | 0.80% | ~3,300 |
+| Grounded | 0.80% | ~3,301 |
+| Personal | 0.80% | ~3,301 |
+| Play to Win | 0.80% | ~3,301 |
 | #1 | 0.70% | ~2,888 |
 | Special Delivery | 0.70% | ~2,888 |
-| Firefight Victory | 0.60% | ~2,475 |
+| Firefight Victory | 0.60% | ~2,476 |
 | Cinematic | 0.50% | ~2,063 |
 | Thanks Station! | 0.40% | ~1,650 |
 | Knock Knock | 0.30% | ~1,238 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~413 |
 | Road Hazard | 0.10% | ~413 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 412,552 (Ranked 39)  
+Progressed: 412,588 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,6 +126,7 @@ Completed: 2 (0.00%) (Ranked 237)
 | 2023-07-10 | 410,865 | 2 |
 | 2023-07-11 | 411,624 | 2 |
 | 2023-07-12 | 412,552 | 2 |
+| 2023-07-13 | 412,588 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 364  (Ranked 218)  
 Sum: 2,792 (Ranked 169)  

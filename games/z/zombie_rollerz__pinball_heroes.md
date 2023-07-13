@@ -41,7 +41,7 @@
 | Iron | 11.00% | ~13 |
 | The Bomber | 9.00% | ~11 |
 | Tested | 9.00% | ~11 |
-| The Astronaut | 6.00% | ~7 |
+| The Astronaut | 7.00% | ~8 |
 | Highway to Hell | 6.00% | ~7 |
 | Power Overwhelming | 5.00% | ~6 |
 | The Exorcist | 5.00% | ~6 |
@@ -53,6 +53,7 @@
 | Analyzed | 3.00% | ~4 |
 | Tongs | 3.00% | ~4 |
 | Concluded | 3.00% | ~4 |
+| Platinum | 3.00% | ~4 |
 | Really Bad Luck | 2.00% | ~2 |
 | Chorus | 2.00% | ~2 |
 | TNT | 2.00% | ~2 |
@@ -60,7 +61,6 @@
 | Rocket | 2.00% | ~2 |
 | Nuclear Bomb | 2.00% | ~2 |
 | Divinity | 2.00% | ~2 |
-| Platinum | 2.00% | ~2 |
 | Hammer | 2.00% | ~2 |
 | Gunpowder | 2.00% | ~2 |
 | Blaze | 0.90% | ~1 |

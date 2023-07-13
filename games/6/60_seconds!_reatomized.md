@@ -1,28 +1,28 @@
 # 60 Seconds! Reatomized
 [Store](https://store.epicgames.com/en-US/p/60-seconds-reatomized-91ffa3)  
 [View Rawdata](../../db/6/60_seconds!_reatomized.json)  
-Rating: 4.66 (Ranked 272)  
+Rating: 4.66 (Ranked 273)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 93.00% | ~4,307 |
-| All thumbs | 91.00% | ~4,214 |
-| I will survive! | 91.00% | ~4,214 |
-| Home, sweet home | 90.00% | ~4,168 |
-| Survivalist | 88.00% | ~4,075 |
-| One way ticket | 83.00% | ~3,844 |
-| Last man standing | 78.00% | ~3,612 |
+| Prepper | 93.00% | ~4,308 |
+| All thumbs | 91.00% | ~4,215 |
+| I will survive! | 91.00% | ~4,215 |
+| Home, sweet home | 90.00% | ~4,169 |
+| Survivalist | 88.00% | ~4,076 |
+| One way ticket | 83.00% | ~3,845 |
+| Last man standing | 78.00% | ~3,613 |
 | Family guy | 76.00% | ~3,520 |
 | Out of the Bag | 73.00% | ~3,381 |
-| The Dark Side | 68.00% | ~3,149 |
+| The Dark Side | 68.00% | ~3,150 |
 | Duck and cover! | 63.00% | ~2,918 |
-| Souper! | 62.00% | ~2,871 |
+| Souper! | 62.00% | ~2,872 |
 | Pacifist | 57.00% | ~2,640 |
-| 2-1-6 | 56.00% | ~2,593 |
+| 2-1-6 | 56.00% | ~2,594 |
 | A gift | 51.00% | ~2,362 |
 | Girl Power | 45.00% | ~2,084 |
 | What goes around... | 42.00% | ~1,945 |
-| Be Prepared | 36.00% | ~1,667 |
+| Be Prepared | 36.00% | ~1,668 |
 | Unbreakable | 35.00% | ~1,621 |
 | Atomic drill | 32.00% | ~1,482 |
 | This is the end | 32.00% | ~1,482 |
@@ -36,7 +36,7 @@ Rating: 4.66 (Ranked 272)
 | Enigma | 15.00% | ~695 |
 | Challenger | 12.00% | ~556 |
 | Men in Black | 12.00% | ~556 |
-| No stone unturned | 11.00% | ~509 |
+| No stone unturned | 11.00% | ~510 |
 | Mad Hatter | 7.00% | ~324 |
 | Unplugged | 7.00% | ~324 |
 | Holidays! | 6.00% | ~278 |
@@ -66,7 +66,7 @@ Rating: 4.66 (Ranked 272)
 | Miracle | 0.20% | ~9 |
 | Dead Hand | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,631 (Ranked 137)  
+Progressed: 4,632 (Ranked 137)  
 Completed: 1 (0.02%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,6 +150,7 @@ Completed: 1 (0.02%) (Ranked 214)
 | 2023-07-10 | 4,608 | 1 |
 | 2023-07-11 | 4,616 | 1 |
 | 2023-07-12 | 4,631 | 1 |
+| 2023-07-13 | 4,632 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

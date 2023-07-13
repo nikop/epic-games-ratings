@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 294,
+  "EOS_Progressed": 295,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1289,6 +1289,11 @@
       "Time": "2023-07-12T04:05:27.8178454+00:00",
       "NumProgressed": 294,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-13T00:06:02.420917+00:00",
+      "NumProgressed": 295,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -1324,7 +1329,7 @@
       "Name": "From the Pages of History",
       "Percentage": 9,
       "XP": 85,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "COMPLETE_MULTIPLAYER_MATCH",
@@ -1364,7 +1369,7 @@
       "Name": "Earth Shattering",
       "Percentage": 47,
       "XP": 90,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -1395,7 +1400,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 294,
+      "Progressed": 295,
       "Completed": 0
     }
   ],
@@ -1403,8 +1408,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-07-12T23:06:12.5838218+00:00",
+  "LastChanged_Achievements": "2023-07-13T00:06:02.4209162+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:25.6811768+00:00",
-  "LastUpdate_Ratings": "2023-07-12T22:59:35.1756573+00:00",
-  "LastUpdate_Achievements": "2023-07-12T23:06:12.5838509+00:00"
+  "LastUpdate_Ratings": "2023-07-12T23:59:28.6409828+00:00",
+  "LastUpdate_Achievements": "2023-07-13T00:06:02.4209342+00:00"
 }

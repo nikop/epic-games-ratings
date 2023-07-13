@@ -225,9 +225,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 196118,
+  "EOS_Progressed": 196125,
   "EOS_Completed": 462,
-  "EOS_NewPlayers": 640,
+  "EOS_NewPlayers": 644,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -9045,6 +9045,11 @@
       "Time": "2023-07-12T23:07:57.7586928+00:00",
       "NumProgressed": 196118,
       "NumCompleted": 462
+    },
+    {
+      "Time": "2023-07-13T00:07:47.1821075+00:00",
+      "NumProgressed": 196125,
+      "NumCompleted": 462
     }
   ],
   "TotalAchievements": 29,
@@ -9080,7 +9085,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 184351
+      "UsersEstimate": 184358
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -9192,7 +9197,7 @@
       "Name": "So you\u0027re saying I don\u0027t touch these ones?",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 11767
+      "UsersEstimate": 11768
     },
     {
       "ID": "ACHIEVEMENT_OPUS",
@@ -9256,7 +9261,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 13728
+      "UsersEstimate": 13729
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -9287,7 +9292,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 196118,
+      "Progressed": 196125,
       "Completed": 462
     }
   ],
@@ -9295,8 +9300,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-06-26T22:58:32.656469+00:00",
-  "LastChanged_Achievements": "2023-07-12T23:07:57.758692+00:00",
+  "LastChanged_Achievements": "2023-07-13T00:07:47.1821067+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:47.2271443+00:00",
-  "LastUpdate_Ratings": "2023-07-12T22:59:57.082507+00:00",
-  "LastUpdate_Achievements": "2023-07-12T23:07:57.7587694+00:00"
+  "LastUpdate_Ratings": "2023-07-12T23:59:48.2793469+00:00",
+  "LastUpdate_Achievements": "2023-07-13T00:07:47.1821853+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 55749,
+  "EOS_Progressed": 55751,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5497,6 +5497,11 @@
       "Time": "2023-07-12T23:05:29.1961967+00:00",
       "NumProgressed": 55749,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-13T00:05:19.7886309+00:00",
+      "NumProgressed": 55751,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 49,
@@ -5556,7 +5561,7 @@
       "Name": "Elf Chaser",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "Explorer",
@@ -5572,7 +5577,7 @@
       "Name": "Fall Fest",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 3902
+      "UsersEstimate": 3903
     },
     {
       "ID": "FlyingPresent",
@@ -5580,7 +5585,7 @@
       "Name": "Flying Present Catcher",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2787
+      "UsersEstimate": 2788
     },
     {
       "ID": "FlyingPresentMaster",
@@ -5596,7 +5601,7 @@
       "Name": "Food Taster",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 5017
+      "UsersEstimate": 5018
     },
     {
       "ID": "FoolMeTwice",
@@ -5604,7 +5609,7 @@
       "Name": "Fool Me Twice",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "FoundAllBackers",
@@ -5652,7 +5657,7 @@
       "Name": "HFZ Goober",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2787
+      "UsersEstimate": 2788
     },
     {
       "ID": "HarshLove",
@@ -5692,7 +5697,7 @@
       "Name": "Beaten By A Little Girl",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "LordOfHFZ",
@@ -5740,7 +5745,7 @@
       "Name": "Old School Jammin\u0027",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "PacifistVictory",
@@ -5780,7 +5785,7 @@
       "Name": "Broken Present Risk Taker",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "Saint",
@@ -5828,7 +5833,7 @@
       "Name": "Teamwork Rules",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "TheWorstPossibleLuck",
@@ -5860,7 +5865,7 @@
       "Name": "Totally Bummed Again",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "TrulyEvil",
@@ -5868,7 +5873,7 @@
       "Name": "Truly Evil",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "WakeyWakey",
@@ -5876,7 +5881,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "WhyDoIKeepDoingThat",
@@ -5899,7 +5904,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 55749,
+      "Progressed": 55751,
       "Completed": 4
     }
   ],
@@ -5907,8 +5912,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-07-12T23:05:29.1961958+00:00",
+  "LastChanged_Achievements": "2023-07-13T00:05:19.7886303+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:05.8866487+00:00",
-  "LastUpdate_Ratings": "2023-07-12T23:02:03.2652564+00:00",
-  "LastUpdate_Achievements": "2023-07-12T23:05:29.1962761+00:00"
+  "LastUpdate_Ratings": "2023-07-13T00:01:57.7761621+00:00",
+  "LastUpdate_Achievements": "2023-07-13T00:05:19.7887216+00:00"
 }

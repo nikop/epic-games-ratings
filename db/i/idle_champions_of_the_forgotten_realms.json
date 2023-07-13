@@ -4924,9 +4924,9 @@
       "Count": 3297
     }
   ],
-  "EOS_Progressed": 210649,
+  "EOS_Progressed": 210667,
   "EOS_Completed": 2046,
-  "EOS_NewPlayers": 3760,
+  "EOS_NewPlayers": 3758,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -13794,6 +13794,11 @@
       "Time": "2023-07-12T23:05:56.8618001+00:00",
       "NumProgressed": 210649,
       "NumCompleted": 2046
+    },
+    {
+      "Time": "2023-07-13T00:05:46.9438906+00:00",
+      "NumProgressed": 210667,
+      "NumCompleted": 2046
     }
   ],
   "TotalAchievements": 507,
@@ -16083,9 +16088,9 @@
       "ID": "objective_completed_558",
       "SetID": "415jc5c",
       "Name": "In The Beginning",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_56",
@@ -16339,9 +16344,9 @@
       "ID": "objective_completed_597",
       "SetID": "415jc5c",
       "Name": "The Misty Grove",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_6",
@@ -16459,9 +16464,9 @@
       "ID": "objective_completed_613",
       "SetID": "415jc5c",
       "Name": "Nightmare Mode",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_615",
@@ -16859,9 +16864,9 @@
       "ID": "objective_completed_686",
       "SetID": "415jc5c",
       "Name": "Prisoners of Lolth",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_687",
@@ -17403,9 +17408,9 @@
       "ID": "objective_completed_869",
       "SetID": "415jc5c",
       "Name": "The Stunning Tower Battle",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_872",
@@ -17571,9 +17576,9 @@
       "ID": "objective_completed_904",
       "SetID": "415jc5c",
       "Name": "Working for the Weak End",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_918",
@@ -17627,17 +17632,17 @@
       "ID": "objective_completed_928",
       "SetID": "415jc5c",
       "Name": "The Rite of the Arcane Octad",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_929",
       "SetID": "415jc5c",
       "Name": "Alien Allies",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_930",
@@ -17651,9 +17656,9 @@
       "ID": "objective_completed_933",
       "SetID": "415jc5c",
       "Name": "The Netherese Necropolis",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_934",
@@ -17860,21 +17865,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 176923,
+      "Progressed": 176941,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 210649,
+      "Progressed": 210667,
       "Completed": 2046
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-12T18:58:35.2452234+00:00",
-  "LastChanged_Achievements": "2023-07-12T23:05:56.8617996+00:00",
+  "LastChanged_Achievements": "2023-07-13T00:05:46.94389+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:43.9043947+00:00",
-  "LastUpdate_Ratings": "2023-07-12T22:58:59.4638709+00:00",
-  "LastUpdate_Achievements": "2023-07-12T23:05:56.86578+00:00"
+  "LastUpdate_Ratings": "2023-07-12T23:58:49.8406818+00:00",
+  "LastUpdate_Achievements": "2023-07-13T00:05:46.9472465+00:00"
 }
