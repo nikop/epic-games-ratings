@@ -36,7 +36,7 @@
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 10,811 | 4.45 | 624 |
 | 35 | [Satisfactory](games/s/satisfactory.md) | 10,600 | 4.88 | 19 |
 | 36 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,461 | 4.78 | 99 |
-| 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,442 | 4.61 | 362 |
+| 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,449 | 4.61 | 362 |
 | 38 | [SnowRunner](games/s/snowrunner.md) | 9,138 | 4.76 | 118 |
 | 39 | [Control](games/c/control.md) | 8,394 | 4.60 | 389 |
 | 40 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 8,354 | 4.58 | 422 |
@@ -111,7 +111,7 @@
 | 109 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 1,978 | 4.49 | 575 |
 | 110 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 1,892 | 4.66 | 273 |
 | 111 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 1,851 | 4.70 | 196 |
-| 112 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 1,843 | 4.90 | 8 |
+| 112 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 1,844 | 4.90 | 8 |
 | 113 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 1,790 | 4.56 | 458 |
 | 114 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 1,755 | 4.57 | 439 |
 | 115 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,753 | 4.63 | 331 |
@@ -156,7 +156,7 @@
 | 154 | [The Long Dark](games/t/the_long_dark.md) | 777 | 4.74 | 144 |
 | 155 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 765 | 4.45 | 624 |
 | 156 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 756 | 4.51 | 540 |
-| 157 | [Auto Chess](games/a/auto_chess.md) | 752 | 4.52 | 521 |
+| 157 | [Auto Chess](games/a/auto_chess.md) | 753 | 4.52 | 521 |
 | 158 | [Core](games/c/core.md) | 742 | 4.36 | 730 |
 | 159 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 734 | 4.78 | 99 |
 | 160 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 727 | 4.50 | 552 |

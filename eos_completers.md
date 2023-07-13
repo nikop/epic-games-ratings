@@ -41,7 +41,7 @@
 | 39 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.91% |
 | 40 | [JARS](games/j/jars.md) | 4.84% |
 | 41 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
-| 42 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.60% |
+| 42 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.59% |
 | 43 | [Without Escape](games/w/without_escape.md) | 4.55% |
 | 44 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.35% |
 | 45 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.89% |
@@ -94,7 +94,7 @@
 | 92 | [Five Dates](games/f/five_dates.md) | 1.28% |
 | 93 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.23% |
 | 94 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.20% |
-| 94 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.20% |
+| 95 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.19% |
 | 96 | [Chorus](games/c/chorus.md) | 1.17% |
 | 97 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.15% |
 | 98 | [Trifox](games/t/trifox.md) | 1.11% |

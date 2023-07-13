@@ -9,7 +9,7 @@
 | 7 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.91 | 0 | 505 |
 | 8 | [Mago](games/m/mago.md) | 4.90 | 0 | 505 |
 | 8 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 505 |
-| 8 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,843 | 112 |
+| 8 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,844 | 112 |
 | 8 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 505 |
 | 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 7,705 | 41 |
 | 12 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.89 | 0 | 505 |
@@ -377,7 +377,7 @@
 | 362 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,529 | 96 |
 | 362 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 650 | 169 |
 | 362 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 456 | 199 |
-| 362 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,442 | 37 |
+| 362 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,449 | 37 |
 | 362 | [Returnal™](games/r/returnal™.md) | 4.61 | 57 | 390 |
 | 362 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,069 | 137 |
 | 362 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 274 | 239 |
@@ -521,7 +521,7 @@
 | 508 | [VALORANT](games/v/valorant.md) | 4.53 | 60,460 | 10 |
 | 508 | [Verdun](games/v/verdun.md) | 4.53 | 95 | 337 |
 | 521 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.52 | 22 | 485 |
-| 521 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 752 | 157 |
+| 521 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 753 | 157 |
 | 521 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 40 | 420 |
 | 521 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 29,875 | 15 |
 | 521 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 21 | 492 |
