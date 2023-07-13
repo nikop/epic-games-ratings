@@ -4,8 +4,8 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2173,
+  "EOS_Progressed": 2176,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -1493,6 +1493,11 @@
       "Time": "2023-07-13T06:03:26.0934598+00:00",
       "NumProgressed": 2173,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-13T12:03:26.8833668+00:00",
+      "NumProgressed": 2176,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 13,
@@ -1520,7 +1525,7 @@
       "Name": "Sheltered by the fallen tree",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "HELPING_LITTLE_ONES",
@@ -1528,7 +1533,7 @@
       "Name": "Helping the little ones",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "MOVE_ON",
@@ -1584,7 +1589,7 @@
       "Name": "The end",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "TRANSMISSION",
@@ -1600,14 +1605,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2173,
+      "Progressed": 2176,
       "Completed": 5
     }
   ],
@@ -1615,8 +1620,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-07-13T11:03:45.2615231+00:00",
+  "LastChanged_Achievements": "2023-07-13T12:03:26.8833663+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:24.0265171+00:00",
-  "LastUpdate_Ratings": "2023-07-13T10:59:35.5037026+00:00",
-  "LastUpdate_Achievements": "2023-07-13T11:03:45.261555+00:00"
+  "LastUpdate_Ratings": "2023-07-13T11:59:27.3287113+00:00",
+  "LastUpdate_Achievements": "2023-07-13T12:03:26.8833906+00:00"
 }

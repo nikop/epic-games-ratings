@@ -38,6 +38,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Class Vacation | 0.10% | ~211 |
 | A Nod from Strahd | 0.10% | ~177 |
 | Backtracking Through Barovia | 0.10% | ~211 |
+| Diversity Day-Trip | 0.10% | ~211 |
 | Late Game | 0.10% | ~211 |
 | Shadowfell Stalwarts | 0.10% | ~177 |
 | Nimble Escape | 0.10% | ~211 |
@@ -491,7 +492,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tower on the Lake | 0.00% | ~0 |
 | Only the Strong Survive | 0.00% | ~0 |
 | Shorty's Day Off | 0.00% | ~0 |
-| Diversity Day-Trip | 0.00% | ~0 |
 | Take Five | 0.00% | ~0 |
 | A Chilling Encounter | 0.00% | ~0 |
 | Tekeli-li's Hunt | 0.00% | ~0 |
@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,807 (Ranked 52)  
+Progressed: 210,822 (Ranked 52)  
 Completed: 2,046 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -598,10 +598,10 @@ Completed: 2,046 (0.97%) (Ranked 102)
 | 2023-07-10 | 209,861 | 2,045 |
 | 2023-07-11 | 210,283 | 2,046 |
 | 2023-07-12 | 210,649 | 2,046 |
-| 2023-07-13 | 210,807 | 2,046 |
+| 2023-07-13 | 210,822 | 2,046 |
 ## Awards
 Max (Diverse Characters): 5,029  (Ranked 66)  
-Sum: 30,493 (Ranked 38)  
+Sum: 30,494 (Ranked 38)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -609,8 +609,8 @@ Diff (max vs sum): 28
 | This game is Great for Beginners | 4,960 |
 | This game has Quickly Understood Controls | 4,656 |
 | This game is Relaxing | 4,550 |
+| This game is Highly Recommended | 4,001 |
 | This game has Amazing Characters | 4,001 |
-| This game is Highly Recommended | 4,000 |
 | This game has Playful Visuals | 3,297 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -783,4 +783,4 @@ Diff (max vs sum): 28
 | 2023-07-10 | 4.05 | - | 5,021 | 30,473 |
 | 2023-07-11 | 4.05 | - | 5,025 | 30,485 |
 | 2023-07-12 | 4.05 | - | 5,025 | 30,489 |
-| 2023-07-13 | 4.05 | - | 5,029 | 30,493 |
+| 2023-07-13 | 4.05 | - | 5,029 | 30,494 |

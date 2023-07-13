@@ -2,7 +2,7 @@
   "ID": "1b737464d3c441f8956315433be02d3b",
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
-  "Ranking_Rating": 836,
+  "Ranking_Rating": 837,
   "Ranking_Popularity": 307,
   "Ranking_PopularitySum": 259,
   "Ranking_EOS_Progress": 104,
@@ -1257,9 +1257,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 18364,
+  "EOS_Progressed": 18368,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 606,
+  "EOS_NewPlayers": 608,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -10057,6 +10057,11 @@
       "Time": "2023-07-13T11:06:23.8778939+00:00",
       "NumProgressed": 18364,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-07-13T12:06:06.9016753+00:00",
+      "NumProgressed": 18368,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 22,
@@ -10076,7 +10081,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 1285
+      "UsersEstimate": 1286
     },
     {
       "ID": "1017",
@@ -10100,7 +10105,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1285
+      "UsersEstimate": 1286
     },
     {
       "ID": "1020",
@@ -10188,7 +10193,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3673
+      "UsersEstimate": 3674
     },
     {
       "ID": "1031",
@@ -10196,7 +10201,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2571
+      "UsersEstimate": 2572
     },
     {
       "ID": "1032",
@@ -10204,7 +10209,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 7346
+      "UsersEstimate": 7347
     },
     {
       "ID": "1033",
@@ -10228,7 +10233,7 @@
       "Name": "Royal Fleet",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2571
+      "UsersEstimate": 2572
     },
     {
       "ID": "1036",
@@ -10243,15 +10248,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 18364,
+      "Progressed": 18368,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-06-24T15:00:43.300424+00:00",
-  "LastChanged_Achievements": "2023-07-13T11:06:23.8778935+00:00",
+  "LastChanged_Achievements": "2023-07-13T12:06:06.901675+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:43.393171+00:00",
-  "LastUpdate_Ratings": "2023-07-13T11:00:28.7891731+00:00",
-  "LastUpdate_Achievements": "2023-07-13T11:06:23.8779732+00:00"
+  "LastUpdate_Ratings": "2023-07-13T12:00:16.7328527+00:00",
+  "LastUpdate_Achievements": "2023-07-13T12:06:06.9017464+00:00"
 }

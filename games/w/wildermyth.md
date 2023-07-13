@@ -55,10 +55,10 @@ Number of Ratings: 45  (23.09.2022)
 | Fight Like a Bird | 2.00% | ~26 |
 | Solid as the Hills | 2.00% | ~26 |
 | Symbiosis | 2.00% | ~26 |
+| A Temperamental Shrub | 2.00% | ~26 |
 | A Lowly Crust of Beef | 1.00% | ~13 |
 | I'm Not Smiling | 1.00% | ~13 |
 | Thwack! | 1.00% | ~13 |
-| A Temperamental Shrub | 1.00% | ~13 |
 | Overwhelming Monstrosity | 0.80% | ~10 |
 | We Call That Mortificient! | 0.70% | ~9 |
 | Peacemaker | 0.60% | ~8 |

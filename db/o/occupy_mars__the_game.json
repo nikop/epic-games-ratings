@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -184,9 +184,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1401,
+  "EOS_Progressed": 1402,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2689,6 +2689,11 @@
       "Time": "2023-07-13T07:04:04.3040794+00:00",
       "NumProgressed": 1401,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-13T12:03:27.8402393+00:00",
+      "NumProgressed": 1402,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2780,7 +2785,7 @@
       "Name": "Zero Waste",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -2820,7 +2825,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -2876,7 +2881,7 @@
       "Name": "Electrician",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -2916,7 +2921,7 @@
       "Name": "I am the greatest botanist on this planet.",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -2956,7 +2961,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -3060,7 +3065,7 @@
       "Name": "Bob The Builder",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -3083,7 +3088,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1401,
+      "Progressed": 1402,
       "Completed": 0
     }
   ],
@@ -3091,8 +3096,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-07-11T13:59:27.7611069+00:00",
-  "LastChanged_Achievements": "2023-07-13T11:03:46.2184372+00:00",
+  "LastChanged_Achievements": "2023-07-13T12:03:27.840239+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:43.4000048+00:00",
-  "LastUpdate_Ratings": "2023-07-13T10:57:58.2181113+00:00",
-  "LastUpdate_Achievements": "2023-07-13T11:03:46.2184899+00:00"
+  "LastUpdate_Ratings": "2023-07-13T11:57:47.3458555+00:00",
+  "LastUpdate_Achievements": "2023-07-13T12:03:27.8402978+00:00"
 }

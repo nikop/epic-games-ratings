@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 173,
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1803,9 +1803,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43032,
+  "EOS_Progressed": 43033,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4908,6 +4908,11 @@
       "Time": "2023-07-13T07:03:17.8112814+00:00",
       "NumProgressed": 43032,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-07-13T12:03:07.8325715+00:00",
+      "NumProgressed": 43033,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -4959,7 +4964,7 @@
       "Name": "Bad Blood",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 7315
+      "UsersEstimate": 7316
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_NIGHTMARE",
@@ -4991,7 +4996,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 17643
+      "UsersEstimate": 17644
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -5015,7 +5020,7 @@
       "Name": "I\u0027m going deeper underground",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 6024
+      "UsersEstimate": 6025
     },
     {
       "ID": "SE_COMPLETE_GENOA",
@@ -5023,7 +5028,7 @@
       "Name": "In the dark dark woods...",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 16782
+      "UsersEstimate": 16783
     },
     {
       "ID": "SE_COMPLETE_GRAVEYARD_SHIFT",
@@ -5039,7 +5044,7 @@
       "Name": "You\u0027re all going to die down here",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 13770
+      "UsersEstimate": 13771
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_CAGED_FEAR",
@@ -5135,7 +5140,7 @@
       "Name": "Weird science",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 18934
+      "UsersEstimate": 18935
     },
     {
       "ID": "SE_COMPLETE_ST_PETERS",
@@ -5215,7 +5220,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 18073
+      "UsersEstimate": 18074
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -5231,7 +5236,7 @@
       "Name": "Come and get it! It\u0027s a running buffet!",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 16352
+      "UsersEstimate": 16353
     },
     {
       "ID": "SE_GET_X_HEADSHOT_STREAK",
@@ -5247,7 +5252,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 29692
+      "UsersEstimate": 29693
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -5279,7 +5284,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 24528
+      "UsersEstimate": 24529
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -5287,7 +5292,7 @@
       "Name": "Stand back boy!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 20225
+      "UsersEstimate": 20226
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -5311,7 +5316,7 @@
       "Name": "Chain reaction",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 18934
+      "UsersEstimate": 18935
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -5319,7 +5324,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 28401
+      "UsersEstimate": 28402
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -5335,7 +5340,7 @@
       "Name": "Weapons expert",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7315
+      "UsersEstimate": 7316
     },
     {
       "ID": "SE_OPEN_EVERY_HIDDEN_CRATE_IN_HORDE",
@@ -5446,15 +5451,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43032,
+      "Progressed": 43033,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-07-10T02:26:25.9101354+00:00",
-  "LastChanged_Achievements": "2023-07-13T11:03:25.7528216+00:00",
+  "LastChanged_Achievements": "2023-07-13T12:03:07.8325709+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:14.4596335+00:00",
-  "LastUpdate_Ratings": "2023-07-13T11:00:09.5967968+00:00",
-  "LastUpdate_Achievements": "2023-07-13T11:03:25.7529069+00:00"
+  "LastUpdate_Ratings": "2023-07-13T11:59:58.1890387+00:00",
+  "LastUpdate_Achievements": "2023-07-13T12:03:07.8326669+00:00"
 }

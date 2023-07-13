@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -220,9 +220,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22993,
+  "EOS_Progressed": 22994,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -2125,6 +2125,11 @@
       "Time": "2023-07-13T10:05:33.3761171+00:00",
       "NumProgressed": 22993,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-13T12:05:39.4715847+00:00",
+      "NumProgressed": 22994,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 32,
@@ -2216,7 +2221,7 @@
       "Name": "RIP Davey Glutes",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5518
+      "UsersEstimate": 5519
     },
     {
       "ID": "ACH_GET_SWEEZY",
@@ -2240,7 +2245,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 19084
+      "UsersEstimate": 19085
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -2248,7 +2253,7 @@
       "Name": "Sequel-Bait",
       "Percentage": 8,
       "XP": 45,
-      "UsersEstimate": 1839
+      "UsersEstimate": 1840
     },
     {
       "ID": "ACH_JUGGLE_SKILLS",
@@ -2256,7 +2261,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 13106
+      "UsersEstimate": 13107
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -2288,7 +2293,7 @@
       "Name": "Hardest Battle In The Game",
       "Percentage": 22,
       "XP": 45,
-      "UsersEstimate": 5058
+      "UsersEstimate": 5059
     },
     {
       "ID": "ACH_KILL_KRUBIS",
@@ -2320,7 +2325,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 16785
+      "UsersEstimate": 16786
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -2384,29 +2389,29 @@
       "Name": "Series Wrap on Suit-O",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 5058
+      "UsersEstimate": 5059
     }
   ],
   "AchievementSets": [
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 22993,
+      "Progressed": 22994,
       "Completed": 8
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 286,
-      "Completed": 286
+      "Progressed": 287,
+      "Completed": 287
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-07-12T23:58:40.6002161+00:00",
-  "LastChanged_Achievements": "2023-07-13T11:05:56.3758081+00:00",
+  "LastChanged_Achievements": "2023-07-13T12:05:39.4715841+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:34.9037764+00:00",
-  "LastUpdate_Ratings": "2023-07-13T10:58:29.2456001+00:00",
-  "LastUpdate_Achievements": "2023-07-13T11:05:56.375871+00:00"
+  "LastUpdate_Ratings": "2023-07-13T11:58:19.0109694+00:00",
+  "LastUpdate_Achievements": "2023-07-13T12:05:39.4716239+00:00"
 }

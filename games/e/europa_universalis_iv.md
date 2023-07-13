@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,213 |
-| That's a Grand Army | 8.00% | ~5,522 |
-| That is mine! | 8.00% | ~5,522 |
-| Victorious! | 8.00% | ~5,522 |
-| Brothers in Arms | 6.00% | ~4,142 |
-| That's a Grand Navy | 6.00% | ~4,142 |
-| Seriously?! | 6.00% | ~4,142 |
+| Until death do us apart | 9.00% | ~6,214 |
+| That's a Grand Army | 8.00% | ~5,524 |
+| That is mine! | 8.00% | ~5,524 |
+| Victorious! | 8.00% | ~5,524 |
+| Brothers in Arms | 6.00% | ~4,143 |
+| That's a Grand Navy | 6.00% | ~4,143 |
+| Seriously?! | 6.00% | ~4,143 |
 | For the Glory | 5.00% | ~3,452 |
-| Cold War | 4.00% | ~2,761 |
-| True Catholic | 4.00% | ~2,761 |
+| Cold War | 4.00% | ~2,762 |
+| True Catholic | 4.00% | ~2,762 |
 | Defender of the Faith | 3.00% | ~2,071 |
 | It's all about luck | 3.00% | ~2,071 |
 | It's all about the money | 3.00% | ~2,071 |
@@ -42,8 +42,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | This navy can take it all | 1.00% | ~690 |
 | Isn't this the way to India? | 0.90% | ~621 |
 | Market Control | 0.90% | ~621 |
+| Trustworthy | 0.90% | ~621 |
 | Down Under | 0.80% | ~552 |
-| Trustworthy | 0.80% | ~552 |
 | Electable! | 0.70% | ~483 |
 | Populists in Government | 0.70% | ~483 |
 | All belongs to Mother Russia | 0.60% | ~414 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69,031 (Ranked 73)  
+Progressed: 69,049 (Ranked 73)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -445,10 +445,10 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-10 | 68,178 | 0 |
 | 2023-07-11 | 68,569 | 0 |
 | 2023-07-12 | 68,921 | 0 |
-| 2023-07-13 | 69,031 | 0 |
+| 2023-07-13 | 69,049 | 0 |
 ## Awards
 Max (Educational): 5,537  (Ranked 60)  
-Sum: 45,667 (Ranked 27)  
+Sum: 45,673 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -459,7 +459,7 @@ Diff (max vs sum): 33
 | This game has Diverse Characters | 5,212 |
 | This game is Relaxing | 5,121 |
 | This game has Competitive Players | 4,974 |
-| This game has Amazing Storytelling | 4,684 |
+| This game has Amazing Storytelling | 4,690 |
 | This game has Amazing Characters | 4,334 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -642,3 +642,4 @@ Diff (max vs sum): 33
 | 2023-07-10 | 4.69 | - | 5,527 | 45,607 |
 | 2023-07-11 | 4.69 | - | 5,533 | 45,642 |
 | 2023-07-12 | 4.69 | - | 5,537 | 45,667 |
+| 2023-07-13 | 4.69 | - | 5,537 | 45,673 |

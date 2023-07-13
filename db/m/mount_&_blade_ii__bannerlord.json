@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -5467,10 +5467,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 13715,
       "NumberOfAwardsMax": 6782
+    },
+    {
+      "Time": "2023-07-13T11:59:52.4718949+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 13717,
+      "NumberOfAwardsMax": 6782
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13715,
+  "NumberOfAwards": 13717,
   "NumberOfAwardsMax": 6782,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5514,7 +5520,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 752
+      "Count": 754
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5547,9 +5553,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 55631,
+  "EOS_Progressed": 55633,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 507,
+  "EOS_NewPlayers": 506,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14227,6 +14233,11 @@
       "Time": "2023-07-13T11:06:32.159336+00:00",
       "NumProgressed": 55631,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-13T12:06:14.795379+00:00",
+      "NumProgressed": 55633,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -14238,7 +14249,7 @@
       "Name": "Against all odds",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6119
+      "UsersEstimate": 6120
     },
     {
       "ID": "Apple of my eye",
@@ -14246,7 +14257,7 @@
       "Name": "Apple of my eye",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 7788
+      "UsersEstimate": 7789
     },
     {
       "ID": "Bannerlord",
@@ -14278,7 +14289,7 @@
       "Name": "Butterlord",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 4450
+      "UsersEstimate": 4451
     },
     {
       "ID": "Catch",
@@ -14470,7 +14481,7 @@
       "Name": "Lawbringer",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 20583
+      "UsersEstimate": 20584
     },
     {
       "ID": "Lawmaker",
@@ -14590,7 +14601,7 @@
       "Name": "The king is pleased",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 9457
+      "UsersEstimate": 9458
     },
     {
       "ID": "This Is Our Land",
@@ -14645,15 +14656,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 55631,
+      "Progressed": 55633,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-07-13T09:01:09.4330865+00:00",
-  "LastChanged_Achievements": "2023-07-13T11:06:32.1593353+00:00",
+  "LastChanged": "2023-07-13T11:59:52.4718948+00:00",
+  "LastChanged_Achievements": "2023-07-13T12:06:14.7953786+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:03.335469+00:00",
-  "LastUpdate_Ratings": "2023-07-13T11:00:02.6474332+00:00",
-  "LastUpdate_Achievements": "2023-07-13T11:06:32.1595058+00:00"
+  "LastUpdate_Ratings": "2023-07-13T11:59:52.4718954+00:00",
+  "LastUpdate_Achievements": "2023-07-13T12:06:14.7955262+00:00"
 }

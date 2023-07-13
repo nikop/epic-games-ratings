@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57272,
+  "EOS_Progressed": 57273,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 368,
+  "EOS_NewPlayers": 367,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7817,6 +7817,11 @@
       "Time": "2023-07-13T10:03:47.3144872+00:00",
       "NumProgressed": 57272,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-13T12:03:54.1047757+00:00",
+      "NumProgressed": 57273,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7828,7 +7833,7 @@
       "Name": "Follow the Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 19472
+      "UsersEstimate": 19473
     },
     {
       "ID": "02",
@@ -7844,7 +7849,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11454
+      "UsersEstimate": 11455
     },
     {
       "ID": "04",
@@ -7932,7 +7937,7 @@
       "Name": "Gatekeeper",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5154
+      "UsersEstimate": 5155
     },
     {
       "ID": "15",
@@ -7940,7 +7945,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5154
+      "UsersEstimate": 5155
     },
     {
       "ID": "16",
@@ -8060,7 +8065,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5154
+      "UsersEstimate": 5155
     },
     {
       "ID": "31",
@@ -8092,7 +8097,7 @@
       "Name": "Energized!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5154
+      "UsersEstimate": 5155
     },
     {
       "ID": "35",
@@ -8100,7 +8105,7 @@
       "Name": "Let There Be Light",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 15463
+      "UsersEstimate": 15464
     },
     {
       "ID": "36",
@@ -8363,21 +8368,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57272,
+      "Progressed": 57273,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20740,
+      "Progressed": 20741,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-13T11:04:11.8065154+00:00",
+  "LastChanged_Achievements": "2023-07-13T12:03:54.1047752+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:08.3646753+00:00",
-  "LastUpdate_Ratings": "2023-07-13T10:58:12.5195462+00:00",
-  "LastUpdate_Achievements": "2023-07-13T11:04:11.8067304+00:00"
+  "LastUpdate_Ratings": "2023-07-13T11:58:00.2242841+00:00",
+  "LastUpdate_Achievements": "2023-07-13T12:03:54.1049473+00:00"
 }

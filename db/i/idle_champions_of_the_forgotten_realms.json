@@ -4880,10 +4880,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 30493,
       "NumberOfAwardsMax": 5029
+    },
+    {
+      "Time": "2023-07-13T11:58:24.8366726+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30494,
+      "NumberOfAwardsMax": 5029
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30493,
+  "NumberOfAwards": 30494,
   "NumberOfAwardsMax": 5029,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4915,7 +4921,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 4000
+      "Count": 4001
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4930,7 +4936,7 @@
       "Count": 3297
     }
   ],
-  "EOS_Progressed": 210807,
+  "EOS_Progressed": 210822,
   "EOS_Completed": 2046,
   "EOS_NewPlayers": 3699,
   "EOS_NewCompleters": 11,
@@ -13855,6 +13861,11 @@
       "Time": "2023-07-13T11:05:03.7919498+00:00",
       "NumProgressed": 210807,
       "NumCompleted": 2046
+    },
+    {
+      "Time": "2023-07-13T12:04:47.1636658+00:00",
+      "NumProgressed": 210822,
+      "NumCompleted": 2046
     }
   ],
   "TotalAchievements": 507,
@@ -15688,9 +15699,9 @@
       "ID": "objective_completed_394",
       "SetID": "cc37lbc",
       "Name": "Diversity Day-Trip",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 211
     },
     {
       "ID": "objective_completed_395",
@@ -17921,21 +17932,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 177081,
+      "Progressed": 177096,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 210807,
+      "Progressed": 210822,
       "Completed": 2046
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-07-13T03:20:31.8284605+00:00",
-  "LastChanged_Achievements": "2023-07-13T11:05:03.7919492+00:00",
+  "LastChanged": "2023-07-13T11:58:24.8366724+00:00",
+  "LastChanged_Achievements": "2023-07-13T12:04:47.1636653+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:43.9043947+00:00",
-  "LastUpdate_Ratings": "2023-07-13T10:58:35.8506354+00:00",
-  "LastUpdate_Achievements": "2023-07-13T11:05:03.7970592+00:00"
+  "LastUpdate_Ratings": "2023-07-13T11:58:24.8366732+00:00",
+  "LastUpdate_Achievements": "2023-07-13T12:04:47.1664641+00:00"
 }

@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Monster of Moonglow | 1.00% | ~4 |
+| The Monster of Moonglow | 2.00% | ~8 |
 | Eternal Tempest | 1.00% | ~4 |
 | Flying Tackle | 1.00% | ~4 |
 | An Ancient Feud | 0.80% | ~3 |

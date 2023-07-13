@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -591,9 +591,9 @@
       "ID": "34_needtothink",
       "SetID": "chb1m60",
       "Name": "Need to think",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 129
+      "UsersEstimate": 132
     },
     {
       "ID": "35_achtung",
@@ -647,8 +647,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-03-31T05:57:32.453108+00:00",
-  "LastChanged_Achievements": "2023-07-13T11:03:20.4687907+00:00",
+  "LastChanged_Achievements": "2023-07-13T12:02:22.7082086+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:06.143005+00:00",
-  "LastUpdate_Ratings": "2023-07-13T10:58:11.5187068+00:00",
-  "LastUpdate_Achievements": "2023-07-13T11:03:20.468825+00:00"
+  "LastUpdate_Ratings": "2023-07-13T11:57:59.3514261+00:00",
+  "LastUpdate_Achievements": "2023-07-13T12:02:22.7082434+00:00"
 }
