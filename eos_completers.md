@@ -20,11 +20,11 @@
 | 18 | [Remains](games/r/remains.md) | 11.90% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.22% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.49% |
+| 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.45% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.46% |
-| 25 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.42% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.45% |
+| 25 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.25% |
 | 26 | [Smelter](games/s/smelter.md) | 8.11% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 7.47% |
 | 28 | [Time Loader](games/t/time_loader.md) | 7.21% |
@@ -67,7 +67,7 @@
 | 65 | [Lamentum](games/l/lamentum.md) | 2.67% |
 | 66 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
 | 67 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.59% |
-| 68 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.58% |
+| 68 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.57% |
 | 69 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 70 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
 | 71 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.37% |
@@ -153,10 +153,10 @@
 | 151 | [Godlike Burger](games/g/godlike_burger.md) | 0.28% |
 | 151 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
 | 151 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.28% |
-| 154 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
-| 154 | [Against the Storm](games/a/against_the_storm.md) | 0.25% |
-| 154 | [Despot's Game](games/d/despot's_game.md) | 0.25% |
-| 154 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.25% |
+| 154 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.26% |
+| 155 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
+| 155 | [Against the Storm](games/a/against_the_storm.md) | 0.25% |
+| 155 | [Despot's Game](games/d/despot's_game.md) | 0.25% |
 | 158 | [Filament](games/f/filament.md) | 0.24% |
 | 159 | [Blanc](games/b/blanc.md) | 0.23% |
 | 160 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
@@ -181,12 +181,12 @@
 | 179 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 180 | [Fall Guys](games/f/fall_guys.md) | 0.11% |
 | 180 | [Ring of Pain](games/r/ring_of_pain.md) | 0.11% |
-| 182 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.10% |
-| 182 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
-| 182 | [House Flipper](games/h/house_flipper.md) | 0.10% |
-| 182 | [Outward Definitive Edition](games/o/outward.md) | 0.10% |
-| 182 | [Supraland](games/s/supraland.md) | 0.10% |
-| 182 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.10% |
+| 180 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.11% |
+| 183 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.10% |
+| 183 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
+| 183 | [House Flipper](games/h/house_flipper.md) | 0.10% |
+| 183 | [Outward Definitive Edition](games/o/outward.md) | 0.10% |
+| 183 | [Supraland](games/s/supraland.md) | 0.10% |
 | 188 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 188 | [Partisans 1941](games/p/partisans_1941.md) | 0.09% |
 | 188 | [Shop Titans](games/s/shop_titans.md) | 0.09% |
@@ -490,4 +490,4 @@
 | 237 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 237 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 237 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,897 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
+| 2,898 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
