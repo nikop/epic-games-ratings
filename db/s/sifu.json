@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 79,
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 80,
-  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -13010,9 +13010,9 @@
       "ID": "08_Wude_H2",
       "SetID": "adcm20g",
       "Name": "Tiger on Fire",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 4264
+      "UsersEstimate": 4975
     },
     {
       "ID": "09_Wude_H3",
@@ -13368,8 +13368,8 @@
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-12T15:00:16.6121928+00:00",
-  "LastChanged_Achievements": "2023-07-13T05:06:11.4030593+00:00",
+  "LastChanged_Achievements": "2023-07-13T06:06:57.9213697+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:05.6915334+00:00",
-  "LastUpdate_Ratings": "2023-07-13T04:59:02.0146303+00:00",
-  "LastUpdate_Achievements": "2023-07-13T05:06:11.4031558+00:00"
+  "LastUpdate_Ratings": "2023-07-13T05:59:45.3154625+00:00",
+  "LastUpdate_Achievements": "2023-07-13T06:06:57.9214463+00:00"
 }

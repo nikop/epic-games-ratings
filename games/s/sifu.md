@@ -34,10 +34,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Mind | 0.90% | ~6,396 |
 | I know Kung-Fu | 0.90% | ~6,396 |
 | Muk Yan Master | 0.70% | ~4,975 |
+| Tiger on Fire | 0.70% | ~4,975 |
 | Detective Story | 0.70% | ~4,975 |
 | Deadly Venom | 0.70% | ~140 |
 | A Touch of Acumen | 0.70% | ~140 |
-| Tiger on Fire | 0.60% | ~4,264 |
 | Source of Flying Daggers | 0.60% | ~4,264 |
 | Iron Money | 0.60% | ~4,264 |
 | Legendary Talismans of Wuxing | 0.60% | ~4,264 |

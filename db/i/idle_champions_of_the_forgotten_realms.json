@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 102,
   "Ranking_EOS_NewPlayers": 20,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4930,10 +4930,10 @@
       "Count": 3297
     }
   ],
-  "EOS_Progressed": 210727,
+  "EOS_Progressed": 210739,
   "EOS_Completed": 2046,
   "EOS_NewPlayers": 3716,
-  "EOS_NewCompleters": 13,
+  "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
     {
@@ -13825,6 +13825,11 @@
       "Time": "2023-07-13T05:04:40.0189431+00:00",
       "NumProgressed": 210727,
       "NumCompleted": 2046
+    },
+    {
+      "Time": "2023-07-13T06:05:09.8040101+00:00",
+      "NumProgressed": 210739,
+      "NumCompleted": 2046
     }
   ],
   "TotalAchievements": 507,
@@ -15642,9 +15647,9 @@
       "ID": "objective_completed_391",
       "SetID": "415jc5c",
       "Name": "A Nod from Strahd",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_393",
@@ -16170,9 +16175,9 @@
       "ID": "objective_completed_566",
       "SetID": "cc37lbc",
       "Name": "She\u0027s Harmless!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 211
     },
     {
       "ID": "objective_completed_567",
@@ -17410,9 +17415,9 @@
       "ID": "objective_completed_864",
       "SetID": "415jc5c",
       "Name": "REALLY Frozen Vengeance",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_867",
@@ -17891,21 +17896,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 177001,
+      "Progressed": 177013,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 210727,
+      "Progressed": 210739,
       "Completed": 2046
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-13T03:20:31.8284605+00:00",
-  "LastChanged_Achievements": "2023-07-13T05:04:40.0189427+00:00",
+  "LastChanged_Achievements": "2023-07-13T06:05:09.8040096+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:43.9043947+00:00",
-  "LastUpdate_Ratings": "2023-07-13T04:58:11.7421229+00:00",
-  "LastUpdate_Achievements": "2023-07-13T05:04:40.0214772+00:00"
+  "LastUpdate_Ratings": "2023-07-13T05:58:41.8029082+00:00",
+  "LastUpdate_Achievements": "2023-07-13T06:05:09.8063089+00:00"
 }

@@ -31,13 +31,13 @@
 | The Flower | 19.00% | ~22 |
 | Out of the Frying Pan... | 19.00% | ~22 |
 | The Blacksmith | 18.00% | ~21 |
-| The Ooze | 16.00% | ~19 |
+| The Ooze | 17.00% | ~20 |
 | Turquoise | 16.00% | ~19 |
 | The Assistant | 15.00% | ~18 |
 | The Steampunk | 15.00% | ~18 |
 | Ember | 15.00% | ~18 |
 | Verse | 13.00% | ~15 |
-| The Droid | 11.00% | ~13 |
+| The Droid | 12.00% | ~14 |
 | Iron | 11.00% | ~13 |
 | The Bomber | 9.00% | ~11 |
 | Tested | 9.00% | ~11 |
@@ -46,11 +46,11 @@
 | Power Overwhelming | 5.00% | ~6 |
 | The Exorcist | 5.00% | ~6 |
 | Mithril | 5.00% | ~6 |
+| Analyzed | 4.00% | ~5 |
 | Aluminum | 4.00% | ~5 |
 | Anvil | 4.00% | ~5 |
 | Combo Master | 3.00% | ~4 |
 | It's a Trap! | 3.00% | ~4 |
-| Analyzed | 3.00% | ~4 |
 | Tongs | 3.00% | ~4 |
 | Concluded | 3.00% | ~4 |
 | Platinum | 3.00% | ~4 |

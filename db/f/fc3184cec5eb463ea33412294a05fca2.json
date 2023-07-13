@@ -356,17 +356,17 @@
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "8d3ci0",
       "Name": "Cruise ship",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "8d3ci0",
       "Name": "Ducks adrift",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -388,9 +388,9 @@
       "ID": "NEW_ACHIEVEMENT_1_14",
       "SetID": "8d3ci0",
       "Name": "Putting challenge",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_15",
@@ -428,9 +428,9 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "8d3ci0",
       "Name": "Way to the shore",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -452,9 +452,9 @@
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "8d3ci0",
       "Name": "On fire",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 60,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -475,8 +475,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-13T05:04:27.5696681+00:00",
+  "LastChanged_Achievements": "2023-07-13T06:04:54.7295752+00:00",
   "LastUpdate_AppInfo": "2023-07-08T11:56:59.3518994+00:00",
-  "LastUpdate_Ratings": "2023-07-13T04:57:06.0455554+00:00",
-  "LastUpdate_Achievements": "2023-07-13T05:04:27.5696889+00:00"
+  "LastUpdate_Ratings": "2023-07-13T05:57:17.8223515+00:00",
+  "LastUpdate_Achievements": "2023-07-13T06:04:54.7295859+00:00"
 }

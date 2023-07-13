@@ -36,6 +36,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Killer Mists | 0.10% | ~211 |
 | Seeking Allies | 0.10% | ~211 |
 | Class Vacation | 0.10% | ~211 |
+| A Nod from Strahd | 0.10% | ~177 |
 | Backtracking Through Barovia | 0.10% | ~211 |
 | Shadowfell Stalwarts | 0.10% | ~177 |
 | Nimble Escape | 0.10% | ~211 |
@@ -96,6 +97,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Sunless Citadel | 0.10% | ~211 |
 | Social Grace | 0.10% | ~177 |
 | Evergreens with an Evergreen | 0.10% | ~177 |
+| She's Harmless! | 0.10% | ~211 |
 | The Tallest of Kobolds | 0.10% | ~177 |
 | Patience is Key | 0.10% | ~211 |
 | The Darkness Runs Deeper | 0.10% | ~211 |
@@ -246,6 +248,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fire and Ice | 0.10% | ~177 |
 | Frozen Vengeance | 0.10% | ~177 |
 | Mimic Vengeance | 0.10% | ~177 |
+| REALLY Frozen Vengeance | 0.10% | ~177 |
 | The Battle of High Hall Tower | 0.10% | ~177 |
 | The Stunning Tower Battle | 0.10% | ~177 |
 | Elturel's Last Stand | 0.10% | ~177 |
@@ -480,18 +483,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tower on the Lake | 0.00% | ~0 |
 | Only the Strong Survive | 0.00% | ~0 |
 | Shorty's Day Off | 0.00% | ~0 |
-| A Nod from Strahd | 0.00% | ~0 |
 | Diversity Day-Trip | 0.00% | ~0 |
 | Late Game | 0.00% | ~0 |
 | Screams of the Dead | 0.00% | ~0 |
 | Veteran Brigade | 0.00% | ~0 |
 | Meepo's Quest | 0.00% | ~0 |
-| She's Harmless! | 0.00% | ~0 |
 | Take Five | 0.00% | ~0 |
 | Déjà Vu All Over Again | 0.00% | ~0 |
 | Ulkoria's Escape from Alterdeep | 0.00% | ~0 |
 | A Chilling Encounter | 0.00% | ~0 |
-| REALLY Frozen Vengeance | 0.00% | ~0 |
 | Might Makes Right | 0.00% | ~0 |
 | Lost in the Underdark | 0.00% | ~0 |
 | Tekeli-li's Hunt | 0.00% | ~0 |
@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,727 (Ranked 52)  
+Progressed: 210,739 (Ranked 52)  
 Completed: 2,046 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -598,7 +598,7 @@ Completed: 2,046 (0.97%) (Ranked 102)
 | 2023-07-10 | 209,861 | 2,045 |
 | 2023-07-11 | 210,283 | 2,046 |
 | 2023-07-12 | 210,649 | 2,046 |
-| 2023-07-13 | 210,727 | 2,046 |
+| 2023-07-13 | 210,739 | 2,046 |
 ## Awards
 Max (Diverse Characters): 5,029  (Ranked 66)  
 Sum: 30,493 (Ranked 38)  

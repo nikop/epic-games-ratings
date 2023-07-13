@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -86,11 +86,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 854,
+  "EOS_Progressed": 855,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.76,
+  "EOS_Completed_Percentage": 1.75,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:47.1560439+00:00",
@@ -916,6 +916,11 @@
       "Time": "2023-07-12T13:21:38.4597448+00:00",
       "NumProgressed": 854,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-07-13T06:04:13.8764215+00:00",
+      "NumProgressed": 855,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 27,
@@ -927,7 +932,7 @@
       "Name": "Humble beginnings",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "ACH_BOOK_ALL",
@@ -949,9 +954,9 @@
       "ID": "ACH_DICE_WIN",
       "SetID": "7k95e4n",
       "Name": "Roll with it",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 393
+      "UsersEstimate": 385
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -967,7 +972,7 @@
       "Name": "Fine, I\u0027ll do it myself",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "ACH_ELIZA_PHOTO",
@@ -1015,15 +1020,15 @@
       "Name": "Memento",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
       "SetID": "7k95e4n",
       "Name": "No pressure",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 598
+      "UsersEstimate": 590
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -1031,7 +1036,7 @@
       "Name": "And so it begins",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -1055,7 +1060,7 @@
       "Name": "Island boy",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "ACH_POWER_OUTRAGE_FIXED",
@@ -1079,7 +1084,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "ACH_STAR_2",
@@ -1087,7 +1092,7 @@
       "Name": "Moving up",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "ACH_STAR_3",
@@ -1109,9 +1114,9 @@
       "ID": "ACH_STAR_5",
       "SetID": "7k95e4n",
       "Name": "You\u0027re a star",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 80,
-      "UsersEstimate": 162
+      "UsersEstimate": 154
     },
     {
       "ID": "ACH_STORY_MODE_FINISHED",
@@ -1142,7 +1147,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 854,
+      "Progressed": 855,
       "Completed": 15
     }
   ],
@@ -1150,8 +1155,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-07-05T18:57:43.3386981+00:00",
-  "LastChanged_Achievements": "2023-07-13T05:03:32.4610576+00:00",
+  "LastChanged_Achievements": "2023-07-13T06:04:13.8764209+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:23.1466896+00:00",
-  "LastUpdate_Ratings": "2023-07-13T04:57:23.6928369+00:00",
-  "LastUpdate_Achievements": "2023-07-13T05:03:32.4610829+00:00"
+  "LastUpdate_Ratings": "2023-07-13T05:57:40.1279934+00:00",
+  "LastUpdate_Achievements": "2023-07-13T06:04:13.8764401+00:00"
 }

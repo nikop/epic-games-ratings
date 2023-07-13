@@ -15,10 +15,10 @@ Number of Ratings: 2,500  (23.09.2022)
 | Alliance | 9.00% | ~1,652 |
 | Daggers in the Dark | 8.00% | ~1,468 |
 | Oathkeeper | 8.00% | ~1,468 |
+| Influential | 8.00% | ~1,468 |
 | A Long Journey | 8.00% | ~1,468 |
 | Ours is the Fury | 7.00% | ~1,285 |
 | Winter is Coming | 7.00% | ~1,285 |
-| Influential | 7.00% | ~1,285 |
 | We Do Not Sow | 6.00% | ~1,101 |
 | Unbowed, Unbent, Unbroken | 6.00% | ~1,101 |
 | Hear me Roar! | 6.00% | ~1,101 |

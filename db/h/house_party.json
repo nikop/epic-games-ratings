@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
@@ -356,9 +356,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5725,
+  "EOS_Progressed": 5726,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3256,6 +3256,11 @@
       "Time": "2023-07-12T02:29:15.5210895+00:00",
       "NumProgressed": 5725,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-13T06:05:58.0449841+00:00",
+      "NumProgressed": 5726,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -3355,7 +3360,7 @@
       "Name": "Caught in the Act",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "CongratsACelebrityHatesYou",
@@ -3531,7 +3536,7 @@
       "Name": "Katherine",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "LCA",
@@ -3587,7 +3592,7 @@
       "Name": "Relentless",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "Penguinfucker",
@@ -3818,21 +3823,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 2764,
+      "Progressed": 2765,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 5725,
+      "Progressed": 5726,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-03-31T05:57:11.1498515+00:00",
-  "LastChanged_Achievements": "2023-07-13T05:05:20.3310874+00:00",
+  "LastChanged_Achievements": "2023-07-13T06:05:58.0449835+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:37.0636474+00:00",
-  "LastUpdate_Ratings": "2023-07-13T04:57:30.5346181+00:00",
-  "LastUpdate_Achievements": "2023-07-13T05:05:20.3311762+00:00"
+  "LastUpdate_Ratings": "2023-07-13T05:57:50.4025417+00:00",
+  "LastUpdate_Achievements": "2023-07-13T06:05:58.0450574+00:00"
 }

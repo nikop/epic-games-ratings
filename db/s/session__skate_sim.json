@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -784,9 +784,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2507,
+  "EOS_Progressed": 2508,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3039,6 +3039,11 @@
       "Time": "2023-07-12T22:03:30.5956256+00:00",
       "NumProgressed": 2507,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-13T06:01:38.7908302+00:00",
+      "NumProgressed": 2508,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3418,7 +3423,7 @@
       "Name": "Welcome to the family",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -3426,22 +3431,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1429
+      "UsersEstimate": 1430
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2507,
+      "Progressed": 2508,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-07-12T23:00:17.5500382+00:00",
-  "LastChanged_Achievements": "2023-07-13T05:00:31.0247482+00:00",
+  "LastChanged_Achievements": "2023-07-13T06:01:38.7908296+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:10.6515019+00:00",
-  "LastUpdate_Ratings": "2023-07-13T04:59:06.3339551+00:00",
-  "LastUpdate_Achievements": "2023-07-13T05:00:31.0248092+00:00"
+  "LastUpdate_Ratings": "2023-07-13T05:59:50.311724+00:00",
+  "LastUpdate_Achievements": "2023-07-13T06:01:38.7908983+00:00"
 }

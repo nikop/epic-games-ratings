@@ -4,7 +4,7 @@
   "ProductSlug": "zombie-rollerz-7aa027",
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -503,9 +503,9 @@
       "ID": "CLG_UNLOCK_10008",
       "SetID": "89cjc9l",
       "Name": "The Droid",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "CLG_UNLOCK_10009",
@@ -607,9 +607,9 @@
       "ID": "PRG_BOSS_OOZE",
       "SetID": "89cjc9l",
       "Name": "The Ooze",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "PRG_BOSS_SHIELD",
@@ -711,9 +711,9 @@
       "ID": "PRG_HARD_10006",
       "SetID": "89cjc9l",
       "Name": "Analyzed",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "PRG_HARD_10007",
@@ -968,8 +968,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-07-13T05:00:40.2665147+00:00",
+  "LastChanged_Achievements": "2023-07-13T06:01:49.9097702+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:47.3455238+00:00",
-  "LastUpdate_Ratings": "2023-07-13T04:57:36.9056211+00:00",
-  "LastUpdate_Achievements": "2023-07-13T05:00:40.2665932+00:00"
+  "LastUpdate_Ratings": "2023-07-13T05:57:59.4665549+00:00",
+  "LastUpdate_Achievements": "2023-07-13T06:01:49.9098329+00:00"
 }

@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57267,
+  "EOS_Progressed": 57268,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 373,
+  "EOS_NewPlayers": 371,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7797,6 +7797,11 @@
       "Time": "2023-07-13T04:04:09.3944113+00:00",
       "NumProgressed": 57267,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-13T06:04:08.8180788+00:00",
+      "NumProgressed": 57268,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7824,7 +7829,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11453
+      "UsersEstimate": 11454
     },
     {
       "ID": "04",
@@ -8048,7 +8053,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 8017
+      "UsersEstimate": 8018
     },
     {
       "ID": "32",
@@ -8056,7 +8061,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14889
+      "UsersEstimate": 14890
     },
     {
       "ID": "33",
@@ -8128,7 +8133,7 @@
       "Name": "Finders Keepers",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 8017
+      "UsersEstimate": 8018
     },
     {
       "ID": "42",
@@ -8343,21 +8348,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57267,
+      "Progressed": 57268,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20735,
+      "Progressed": 20736,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-13T05:03:28.3246376+00:00",
+  "LastChanged_Achievements": "2023-07-13T06:04:08.8180779+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:08.3646753+00:00",
-  "LastUpdate_Ratings": "2023-07-13T04:57:47.3194601+00:00",
-  "LastUpdate_Achievements": "2023-07-13T05:03:28.3247538+00:00"
+  "LastUpdate_Ratings": "2023-07-13T05:58:12.9284204+00:00",
+  "LastUpdate_Achievements": "2023-07-13T06:04:08.8181638+00:00"
 }
