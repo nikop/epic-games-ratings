@@ -6,9 +6,9 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~588,401 |
-| Right Back At Ya | 38.00% | ~328,812 |
-| The Lovers | 34.00% | ~294,200 |
+| The Fool | 68.00% | ~588,402 |
+| Right Back At Ya | 38.00% | ~328,813 |
+| The Lovers | 34.00% | ~294,201 |
 | Stanislavski's Method | 28.00% | ~242,283 |
 | The Wheel of Fortune | 26.00% | ~224,977 |
 | The Hermit | 24.00% | ~207,671 |
@@ -19,14 +19,14 @@ Number of Ratings: 32,700  (23.09.2022)
 | Life of the Road | 20.00% | ~173,059 |
 | Full Body Conversion | 18.00% | ~155,753 |
 | The World | 17.00% | ~147,100 |
-| Bushido and Chill | 16.00% | ~138,447 |
-| Gun Fu | 15.00% | ~129,794 |
-| True Warrior | 15.00% | ~129,794 |
-| To Protect and Serve | 13.00% | ~112,488 |
-| Master Crafter | 13.00% | ~112,488 |
-| I Am The Law | 13.00% | ~112,488 |
-| Judy vs Night City | 13.00% | ~112,488 |
-| Two Heads, One Bullet | 11.00% | ~95,182 |
+| Bushido and Chill | 16.00% | ~138,448 |
+| Gun Fu | 15.00% | ~129,795 |
+| True Warrior | 15.00% | ~129,795 |
+| To Protect and Serve | 13.00% | ~112,489 |
+| Master Crafter | 13.00% | ~112,489 |
+| I Am The Law | 13.00% | ~112,489 |
+| Judy vs Night City | 13.00% | ~112,489 |
+| Two Heads, One Bullet | 11.00% | ~95,183 |
 | The Wandering Fool | 9.00% | ~77,877 |
 | The Quick and the Dead | 9.00% | ~77,877 |
 | Ten out of Ten | 8.00% | ~69,224 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,653 |
 | Rough Landing | 0.50% | ~4,326 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 865,295 (Ranked 14)  
+Progressed: 865,297 (Ranked 14)  
 Completed: 1,861 (0.22%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,15 +135,15 @@ Completed: 1,861 (0.22%) (Ranked 160)
 | 2023-07-10 | 864,933 | 1,851 |
 | 2023-07-11 | 865,106 | 1,856 |
 | 2023-07-12 | 865,273 | 1,861 |
-| 2023-07-13 | 865,295 | 1,861 |
+| 2023-07-13 | 865,297 | 1,861 |
 ## Awards
 Max (Character Customization): 72,962  (Ranked 9)  
-Sum: 191,305 (Ranked 13)  
+Sum: 191,370 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 72,962 |
-| This game has Great Boss Battles | 46,874 |
+| This game has Great Boss Battles | 46,939 |
 | This game has Diverse Characters | 8,445 |
 | This game is Great for Beginners | 8,405 |
 | This game has Amazing Storytelling | 8,393 |
@@ -331,3 +331,4 @@ Diff (max vs sum): -4
 | 2023-07-10 | 4.62 | - | 72,774 | 190,719 |
 | 2023-07-11 | 4.62 | - | 72,863 | 191,009 |
 | 2023-07-12 | 4.62 | - | 72,962 | 191,305 |
+| 2023-07-13 | 4.62 | - | 72,962 | 191,370 |

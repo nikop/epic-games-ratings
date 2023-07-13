@@ -6,20 +6,20 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 77.00% | ~9,456 |
-| Sword Runner | 63.00% | ~7,737 |
-| Running out of breath | 55.00% | ~6,755 |
-| Wallrunner | 55.00% | ~6,755 |
-| Homerunner | 46.00% | ~5,649 |
-| Out of order | 46.00% | ~5,649 |
-| I call it luck | 45.00% | ~5,526 |
-| Where are my Keys? | 42.00% | ~5,158 |
-| Back to hell | 38.00% | ~4,667 |
+| Longrunner | 77.00% | ~9,458 |
+| Sword Runner | 63.00% | ~7,738 |
+| Running out of breath | 55.00% | ~6,756 |
+| Wallrunner | 55.00% | ~6,756 |
+| Homerunner | 46.00% | ~5,650 |
+| Out of order | 46.00% | ~5,650 |
+| I call it luck | 45.00% | ~5,527 |
+| Where are my Keys? | 42.00% | ~5,159 |
+| Back to hell | 38.00% | ~4,668 |
 | Perfection | 33.00% | ~4,053 |
-| Why not both | 31.00% | ~3,807 |
-| Sword to a gunfight | 30.00% | ~3,684 |
-| Upgrades not mandatory | 30.00% | ~3,684 |
-| Artificial selection | 29.00% | ~3,561 |
+| Why not both | 31.00% | ~3,808 |
+| Sword to a gunfight | 30.00% | ~3,685 |
+| Upgrades not mandatory | 30.00% | ~3,685 |
+| Artificial selection | 29.00% | ~3,562 |
 | Control freak | 28.00% | ~3,439 |
 | Running Wild | 28.00% | ~3,439 |
 | Finish line | 27.00% | ~3,316 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~49 |
 | Up Close And Personal | 0.40% | ~49 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,281 (Ranked 113)  
+Progressed: 12,283 (Ranked 113)  
 Completed: 51 (0.42%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,14 +136,14 @@ Completed: 51 (0.42%) (Ranked 133)
 | 2023-07-10 | 12,130 | 51 |
 | 2023-07-11 | 12,200 | 51 |
 | 2023-07-12 | 12,268 | 51 |
-| 2023-07-13 | 12,281 | 51 |
+| 2023-07-13 | 12,283 | 51 |
 ## Awards
-Max (Great Boss Battles): 470  (Ranked 196)  
-Sum: 607 (Ranked 288)  
+Max (Great Boss Battles): 471  (Ranked 196)  
+Sum: 608 (Ranked 288)  
 Diff (max vs sum): -92  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 470 |
+| This game has Great Boss Battles | 471 |
 | This game has Diverse Characters | 27 |
 | This game has Amazing Characters | 26 |
 | This game has a Creative Community | 22 |
@@ -268,3 +268,4 @@ Diff (max vs sum): -92
 | 2023-06-14 | 4.72 | - | 468 | 626 |
 | 2023-06-24 | 4.72 | - | 468 | 605 |
 | 2023-06-29 | 4.72 | - | 470 | 607 |
+| 2023-07-13 | 4.72 | - | 471 | 608 |

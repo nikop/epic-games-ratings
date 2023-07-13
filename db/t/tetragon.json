@@ -4,7 +4,7 @@
   "ProductSlug": "tetragon-edc5d5",
   "Ranking_EOS_Progress": 491,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 312,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-03-24T15:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-16T11:58:05.7407941+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:03.1349573+00:00",
-  "LastUpdate_Ratings": "2023-07-13T03:58:45.0050903+00:00",
-  "LastUpdate_Achievements": "2023-07-13T04:04:06.4936802+00:00"
+  "LastUpdate_Ratings": "2023-07-13T04:58:21.7443786+00:00",
+  "LastUpdate_Achievements": "2023-07-13T05:03:25.9818911+00:00"
 }

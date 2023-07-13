@@ -5,17 +5,17 @@ Rating: 4.64 (Ranked 312)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 64.00% | ~4,663 |
-| Mainframe Hacker | 47.00% | ~3,424 |
-| The Spy who eliminated me | 47.00% | ~3,424 |
+| On Deceive Inc.'s Secret Service | 64.00% | ~4,664 |
+| Mainframe Hacker | 47.00% | ~3,425 |
+| The Spy who eliminated me | 47.00% | ~3,425 |
 | Tomorrow Never Dyes | 46.00% | ~3,352 |
-| Never Say Loser Again | 40.00% | ~2,914 |
+| Never Say Loser Again | 40.00% | ~2,915 |
 | For your Eyes only | 39.00% | ~2,842 |
-| From the Vault with Love | 37.00% | ~2,696 |
-| Tailor-Made | 37.00% | ~2,696 |
-| Fully Decked Out | 35.00% | ~2,550 |
-| You Only Live Twice | 33.00% | ~2,404 |
-| A view to Win | 27.00% | ~1,967 |
+| From the Vault with Love | 37.00% | ~2,697 |
+| Tailor-Made | 37.00% | ~2,697 |
+| Fully Decked Out | 35.00% | ~2,551 |
+| You Only Live Twice | 33.00% | ~2,405 |
+| A view to Win | 27.00% | ~1,968 |
 | Private Collection | 25.00% | ~1,822 |
 | Smells Like Trouble | 25.00% | ~1,822 |
 | Assistant Accountant | 24.00% | ~1,749 |
@@ -31,8 +31,8 @@ Rating: 4.64 (Ranked 312)
 | Social of Solace | 8.00% | ~583 |
 | Safe Withdrawal | 6.00% | ~437 |
 | Live and let lie | 5.00% | ~364 |
-| Call Me Maybe | 4.00% | ~291 |
-| PHD in VIP | 4.00% | ~291 |
+| Call Me Maybe | 4.00% | ~292 |
+| PHD in VIP | 4.00% | ~292 |
 | Branch Manager | 3.00% | ~219 |
 | The terminals are not enough | 2.00% | ~146 |
 | Lose Another Day | 2.00% | ~146 |
@@ -42,7 +42,7 @@ Rating: 4.64 (Ranked 312)
 | Extraction Confusion | 0.30% | ~22 |
 | Spyfall | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,286 (Ranked 124)  
+Progressed: 7,288 (Ranked 124)  
 Completed: 1 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 1 (0.01%) (Ranked 223)
 | 2023-07-10 | 7,247 | 1 |
 | 2023-07-11 | 7,260 | 1 |
 | 2023-07-12 | 7,281 | 1 |
-| 2023-07-13 | 7,286 | 1 |
+| 2023-07-13 | 7,288 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

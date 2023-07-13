@@ -1257,9 +1257,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 18349,
+  "EOS_Progressed": 18351,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 606,
+  "EOS_NewPlayers": 607,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -10027,6 +10027,11 @@
       "Time": "2023-07-13T04:06:59.5188527+00:00",
       "NumProgressed": 18349,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-07-13T05:06:04.279883+00:00",
+      "NumProgressed": 18351,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 22,
@@ -10038,7 +10043,7 @@
       "Name": "War of the Five Kings",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "1016",
@@ -10046,7 +10051,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 1284
+      "UsersEstimate": 1285
     },
     {
       "ID": "1017",
@@ -10070,7 +10075,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1284
+      "UsersEstimate": 1285
     },
     {
       "ID": "1020",
@@ -10078,7 +10083,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "1021",
@@ -10102,7 +10107,7 @@
       "Name": "What is Dead may Never Die",
       "Percentage": 3,
       "XP": 65,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "1024",
@@ -10134,7 +10139,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1651
+      "UsersEstimate": 1652
     },
     {
       "ID": "1028",
@@ -10150,7 +10155,7 @@
       "Name": "Alliance",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1651
+      "UsersEstimate": 1652
     },
     {
       "ID": "1030",
@@ -10182,7 +10187,7 @@
       "Name": "The Swift",
       "Percentage": 3,
       "XP": 120,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "1034",
@@ -10190,7 +10195,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1284
+      "UsersEstimate": 1285
     },
     {
       "ID": "1035",
@@ -10213,15 +10218,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 18349,
+      "Progressed": 18351,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-06-24T15:00:43.300424+00:00",
-  "LastChanged_Achievements": "2023-07-13T04:06:59.518852+00:00",
+  "LastChanged_Achievements": "2023-07-13T05:06:04.2798827+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:43.393171+00:00",
-  "LastUpdate_Ratings": "2023-07-13T04:00:52.694368+00:00",
-  "LastUpdate_Achievements": "2023-07-13T04:06:59.5189738+00:00"
+  "LastUpdate_Ratings": "2023-07-13T05:00:05.7668466+00:00",
+  "LastUpdate_Achievements": "2023-07-13T05:06:04.2799569+00:00"
 }

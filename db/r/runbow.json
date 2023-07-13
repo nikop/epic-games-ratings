@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewPlayers": 85,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
@@ -179,7 +179,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 246479,
+  "EOS_Progressed": 246480,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 379,
   "EOS_NewCompleters": 0,
@@ -8164,6 +8164,11 @@
       "Time": "2023-07-13T04:07:04.8115868+00:00",
       "NumProgressed": 246479,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-13T05:06:08.5775575+00:00",
+      "NumProgressed": 246480,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -8231,7 +8236,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 41901
+      "UsersEstimate": 41902
     },
     {
       "ID": "cantBeKeptDown",
@@ -8542,7 +8547,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 246479,
+      "Progressed": 246480,
       "Completed": 3
     }
   ],
@@ -8550,8 +8555,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-07-13T04:07:04.8115861+00:00",
+  "LastChanged_Achievements": "2023-07-13T05:06:08.5775572+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:16.5016071+00:00",
-  "LastUpdate_Ratings": "2023-07-13T03:59:40.6307571+00:00",
-  "LastUpdate_Achievements": "2023-07-13T04:07:04.8117787+00:00"
+  "LastUpdate_Ratings": "2023-07-13T04:59:10.1616029+00:00",
+  "LastUpdate_Achievements": "2023-07-13T05:06:08.5776524+00:00"
 }

@@ -50,6 +50,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Twilight Twist | 0.10% | ~177 |
 | Excavating History | 0.10% | ~211 |
 | Premature Betrayal | 0.10% | ~211 |
+| Frantic Excavation | 0.10% | ~211 |
 | Birds of a Feather | 0.10% | ~177 |
 | Towering Expectations | 0.10% | ~211 |
 | Guests of the Groom | 0.10% | ~211 |
@@ -65,10 +66,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Madness Grows | 0.10% | ~211 |
 | The Madness Peaks | 0.10% | ~177 |
 | Who Lurks in Lurkwood | 0.10% | ~211 |
+| Bullywugs in the Bog | 0.10% | ~211 |
+| Modrons in the Mud | 0.10% | ~211 |
 | And a Pixie in a Pear Treant | 0.10% | ~177 |
 | Orcs Are Wild | 0.10% | ~211 |
 | An Abyssal Situation | 0.10% | ~211 |
 | Dino Nightmare | 0.10% | ~211 |
+| A Familiar Friend | 0.10% | ~177 |
 | Mad Cow Disease | 0.10% | ~211 |
 | Exploring Port Nyanzaru | 0.10% | ~211 |
 | A Tale of Two Cities | 0.10% | ~211 |
@@ -229,6 +233,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Going To Eleven | 0.10% | ~177 |
 | Idyllglen | 0.10% | ~177 |
 | The Madness of Yeenoghu | 0.10% | ~177 |
+| Reya Reborn | 0.10% | ~177 |
 | The Radiant Nightmare | 0.10% | ~177 |
 | Quick Thinking | 0.10% | ~177 |
 | Tough Acting | 0.10% | ~177 |
@@ -479,17 +484,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Diversity Day-Trip | 0.00% | ~0 |
 | Late Game | 0.00% | ~0 |
 | Screams of the Dead | 0.00% | ~0 |
-| Frantic Excavation | 0.00% | ~0 |
-| Bullywugs in the Bog | 0.00% | ~0 |
-| Modrons in the Mud | 0.00% | ~0 |
-| A Familiar Friend | 0.00% | ~0 |
 | Veteran Brigade | 0.00% | ~0 |
 | Meepo's Quest | 0.00% | ~0 |
 | She's Harmless! | 0.00% | ~0 |
 | Take Five | 0.00% | ~0 |
 | Déjà Vu All Over Again | 0.00% | ~0 |
 | Ulkoria's Escape from Alterdeep | 0.00% | ~0 |
-| Reya Reborn | 0.00% | ~0 |
 | A Chilling Encounter | 0.00% | ~0 |
 | REALLY Frozen Vengeance | 0.00% | ~0 |
 | Might Makes Right | 0.00% | ~0 |
@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,715 (Ranked 52)  
+Progressed: 210,727 (Ranked 52)  
 Completed: 2,046 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -598,7 +598,7 @@ Completed: 2,046 (0.97%) (Ranked 102)
 | 2023-07-10 | 209,861 | 2,045 |
 | 2023-07-11 | 210,283 | 2,046 |
 | 2023-07-12 | 210,649 | 2,046 |
-| 2023-07-13 | 210,715 | 2,046 |
+| 2023-07-13 | 210,727 | 2,046 |
 ## Awards
 Max (Diverse Characters): 5,029  (Ranked 66)  
 Sum: 30,493 (Ranked 38)  
