@@ -1,6 +1,6 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
-| 1 | [Fortnite](games/f/fortnite.md) | 1,495,148 | 4.29 | 781 |
+| 1 | [Fortnite](games/f/fortnite.md) | 1,497,322 | 4.29 | 781 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 471,487 | 4.50 | 552 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 300,003 | 4.68 | 241 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 198,019 | 4.68 | 241 |
@@ -9,7 +9,7 @@
 | 7 | [Fall Guys](games/f/fall_guys.md) | 144,070 | 4.52 | 521 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 112,845 | 4.69 | 216 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 73,052 | 4.62 | 346 |
-| 10 | [VALORANT](games/v/valorant.md) | 60,576 | 4.53 | 509 |
+| 10 | [VALORANT](games/v/valorant.md) | 60,576 | 4.53 | 508 |
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 58,942 | 4.58 | 422 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 40,760 | 4.61 | 363 |
 | 13 | [Destiny 2](games/d/destiny_2.md) | 35,673 | 4.50 | 552 |
@@ -17,7 +17,7 @@
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 29,875 | 4.52 | 521 |
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,674 | 4.65 | 300 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 20,913 | 4.77 | 108 |
-| 18 | [Dauntless](games/d/dauntless.md) | 20,710 | 4.53 | 509 |
+| 18 | [Dauntless](games/d/dauntless.md) | 20,735 | 4.53 | 508 |
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 18,928 | 4.57 | 439 |
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 16,897 | 4.89 | 12 |
 | 21 | [Warframe](games/w/warframe.md) | 15,935 | 4.61 | 363 |
@@ -209,8 +209,8 @@
 | 206 | [Into the Breach](games/i/into_the_breach.md) | 410 | 4.84 | 49 |
 | 208 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 406 | 4.50 | 552 |
 | 209 | [Warface](games/w/warface.md) | 400 | 3.91 | 929 |
-| 210 | [Slime Rancher](games/s/slime_rancher.md) | 396 | 4.82 | 65 |
-| 211 | [MORDHAU](games/m/mordhau.md) | 393 | 4.40 | 690 |
+| 210 | [MORDHAU](games/m/mordhau.md) | 398 | 4.40 | 690 |
+| 211 | [Slime Rancher](games/s/slime_rancher.md) | 396 | 4.82 | 65 |
 | 212 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 388 | 4.60 | 390 |
 | 213 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 382 | 4.70 | 196 |
 | 214 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 377 | 4.61 | 363 |
@@ -266,9 +266,9 @@
 | 264 | [Sunless Sea](games/s/sunless_sea.md) | 209 | 4.58 | 422 |
 | 265 | [Brawlhalla](games/b/brawlhalla.md) | 207 | 4.60 | 390 |
 | 266 | [shapez](games/s/shapez.md) | 206 | 4.71 | 183 |
+| 267 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 203 | 4.43 | 654 |
 | 267 | [Stranded Deep](games/s/stranded_deep.md) | 203 | 4.22 | 830 |
-| 268 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 202 | 4.43 | 654 |
-| 268 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 202 | 4.35 | 738 |
+| 269 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 202 | 4.35 | 738 |
 | 270 | [HITMAN](games/h/hitman.md) | 201 | 4.64 | 312 |
 | 271 | [Relicta](games/r/relicta.md) | 199 | 4.15 | 869 |
 | 272 | [Crashlands](games/c/crashlands.md) | 191 | 4.66 | 273 |
@@ -339,7 +339,7 @@
 | 337 | [Scavengers](games/s/scavengers.md) | 96 | 4.18 | 855 |
 | 338 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 95 | 4.51 | 540 |
 | 338 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 95 | 4.35 | 738 |
-| 338 | [Verdun](games/v/verdun.md) | 95 | 4.53 | 509 |
+| 338 | [Verdun](games/v/verdun.md) | 95 | 4.53 | 508 |
 | 341 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 94 | 4.41 | 673 |
 | 341 | [Tropico 6](games/t/tropico_6.md) | 94 | 4.67 | 260 |
 | 343 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 93 | 4.54 | 490 |
@@ -439,7 +439,7 @@
 | 435 | [Isonzo](games/i/isonzo.md) | 35 | 4.56 | 458 |
 | 435 | [Voidtrain](games/v/voidtrain.md) | 35 | 4.51 | 540 |
 | 439 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 34 | 4.62 | 346 |
-| 439 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 34 | 4.53 | 509 |
+| 439 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 34 | 4.53 | 508 |
 | 439 | [TUNIC](games/t/tunic.md) | 34 | 4.84 | 49 |
 | 442 | [DEATHLOOP](games/d/deathloop.md) | 33 | 4.54 | 490 |
 | 442 | [DOOM (1993)](games/d/doom_(1993).md) | 33 | 4.82 | 65 |
@@ -483,7 +483,7 @@
 | 481 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 23 | 4.52 | 521 |
 | 481 | [Chimeraland](games/c/chimeraland.md) | 23 | 3.91 | 929 |
 | 481 | [Fez](games/f/fez.md) | 23 | 4.72 | 167 |
-| 481 | [RUINER](games/r/ruiner.md) | 23 | 4.53 | 509 |
+| 481 | [RUINER](games/r/ruiner.md) | 23 | 4.53 | 508 |
 | 481 | [Yooka-Laylee](games/y/yooka-laylee.md) | 23 | 4.24 | 814 |
 | 486 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.24 | 814 |
 | 486 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 22 | 4.57 | 439 |

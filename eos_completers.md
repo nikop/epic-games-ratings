@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 55.56% |
-| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 44.44% |
+| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.96% |
 | 3 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 30.00% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -23,13 +23,13 @@
 | 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.38% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.45% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.44% |
 | 25 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.25% |
 | 26 | [Smelter](games/s/smelter.md) | 8.11% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 7.47% |
 | 28 | [Time Loader](games/t/time_loader.md) | 7.21% |
 | 29 | [Scorn](games/s/scorn.md) | 7.06% |
-| 30 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.90% |
+| 30 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.89% |
 | 31 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.82% |
 | 32 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 33 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -40,7 +40,7 @@
 | 38 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.06% |
 | 39 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.91% |
 | 40 | [JARS](games/j/jars.md) | 4.84% |
-| 41 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
+| 41 | [Bugsnax](games/b/bugsnax.md) | 4.69% |
 | 42 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.59% |
 | 43 | [Without Escape](games/w/without_escape.md) | 4.55% |
 | 44 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.35% |
@@ -62,7 +62,7 @@
 | 60 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 2.92% |
 | 61 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.86% |
 | 62 | [Destiny 2](games/d/destiny_2.md) | 2.82% |
-| 63 | [The Bunker](games/t/the_bunker.md) | 2.78% |
+| 63 | [The Bunker](games/t/the_bunker.md) | 2.75% |
 | 64 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 65 | [Lamentum](games/l/lamentum.md) | 2.67% |
 | 66 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
@@ -131,8 +131,8 @@
 | 129 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 130 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.46% |
 | 130 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
-| 132 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.44% |
-| 133 | [Tchia](games/t/tchia.md) | 0.43% |
+| 132 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.43% |
+| 132 | [Tchia](games/t/tchia.md) | 0.43% |
 | 134 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.42% |
 | 134 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.42% |
 | 136 | [Ghostrunner](games/g/ghostrunner.md) | 0.41% |
