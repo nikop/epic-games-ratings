@@ -49,15 +49,15 @@ Rating: 4.18 (Ranked 855)
 | Hammer and Icicle | 0.30% | ~112 |
 | Renewable Enemy Source | 0.30% | ~112 |
 | Practice Makes Perfect | 0.30% | ~201 |
-| Element of Surprise | 0.20% | ~74 |
-| Crime Is a Terrible Thing to Waste | 0.20% | ~74 |
-| The Cold, the Bad and the Ugly | 0.20% | ~74 |
+| Element of Surprise | 0.20% | ~75 |
+| Crime Is a Terrible Thing to Waste | 0.20% | ~75 |
+| The Cold, the Bad and the Ugly | 0.20% | ~75 |
 | Talonted | 0.20% | ~134 |
 | The Man-Bat Family | 0.20% | ~134 |
-| Icebreaker | 0.20% | ~74 |
+| Icebreaker | 0.20% | ~75 |
 | Batarang Collector | 0.20% | ~134 |
 | Claiming the Mural High Ground | 0.20% | ~134 |
-| A Sophisticated Mallet | 0.20% | ~74 |
+| A Sophisticated Mallet | 0.20% | ~75 |
 | It's Nice to Be Wanted | 0.10% | ~37 |
 | Gotham's Greatest Depths | 0.10% | ~37 |
 | Showdown Sovereign | 0.10% | ~37 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 855)
 | History Major | 0.10% | ~67 |
 | Confronting Your Demon | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,969 (Ranked 75)  
+Progressed: 66,973 (Ranked 75)  
 Completed: 102 (0.15%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 102 (0.15%) (Ranked 172)
 | 2023-07-10 | 66,839 | 101 |
 | 2023-07-11 | 66,886 | 101 |
 | 2023-07-12 | 66,929 | 102 |
-| 2023-07-13 | 66,969 | 102 |
+| 2023-07-13 | 66,973 | 102 |
 ## Awards
 Max (Great Boss Battles): 2,442  (Ranked 100)  
 Sum: 4,041 (Ranked 138)  

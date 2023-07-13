@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 24,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1916,
+  "EOS_Progressed": 1917,
   "EOS_Completed": 162,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 8.46,
+  "EOS_Completed_Percentage": 8.45,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -3778,6 +3778,11 @@
       "Time": "2023-07-13T13:19:11.9730871+00:00",
       "NumProgressed": 1916,
       "NumCompleted": 162
+    },
+    {
+      "Time": "2023-07-13T18:02:05.5082965+00:00",
+      "NumProgressed": 1917,
+      "NumCompleted": 162
     }
   ],
   "TotalAchievements": 12,
@@ -3805,7 +3810,7 @@
       "Name": "Building the Fox",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "Green Ticket Roundup",
@@ -3861,7 +3866,7 @@
       "Name": "May Their Memories be a Blessing",
       "Percentage": 9,
       "XP": 200,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "Nazis in Paris",
@@ -3884,7 +3889,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1916,
+      "Progressed": 1917,
       "Completed": 162
     }
   ],
@@ -3892,8 +3897,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-07-13T17:01:12.4496486+00:00",
+  "LastChanged_Achievements": "2023-07-13T18:02:05.508296+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:46.7313961+00:00",
-  "LastUpdate_Ratings": "2023-07-13T17:00:01.8103415+00:00",
-  "LastUpdate_Achievements": "2023-07-13T17:01:12.4496815+00:00"
+  "LastUpdate_Ratings": "2023-07-13T18:00:03.7578143+00:00",
+  "LastUpdate_Achievements": "2023-07-13T18:02:05.5083302+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 154,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -551,10 +551,10 @@
     }
   ],
   "EOS_Progressed": 11033,
-  "EOS_Completed": 28,
+  "EOS_Completed": 29,
   "EOS_NewPlayers": 70,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 0.25,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:18.653518+00:00",
@@ -6500,6 +6500,11 @@
       "Time": "2023-07-13T04:07:06.8698379+00:00",
       "NumProgressed": 11033,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-07-13T18:06:56.6253345+00:00",
+      "NumProgressed": 11033,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 35,
@@ -6781,9 +6786,9 @@
       "ID": "ACH35",
       "SetID": "4ck5mbe",
       "Name": "I Ain\u0027t No Buster",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 33
     }
   ],
   "AchievementSets": [
@@ -6791,15 +6796,15 @@
       "ID": "4ck5mbe",
       "IsBase": true,
       "Progressed": 11033,
-      "Completed": 28
+      "Completed": 29
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-12T21:00:26.4584416+00:00",
-  "LastChanged_Achievements": "2023-07-13T17:06:32.353663+00:00",
+  "LastChanged_Achievements": "2023-07-13T18:06:56.6253338+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:43.1834453+00:00",
-  "LastUpdate_Ratings": "2023-07-13T17:00:43.2047384+00:00",
-  "LastUpdate_Achievements": "2023-07-13T17:06:32.3537278+00:00"
+  "LastUpdate_Ratings": "2023-07-13T18:00:49.592807+00:00",
+  "LastUpdate_Achievements": "2023-07-13T18:06:56.6253994+00:00"
 }

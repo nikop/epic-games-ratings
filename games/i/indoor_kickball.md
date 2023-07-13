@@ -12,19 +12,19 @@
 | Butter Fingers | 71.00% | ~54 |
 | Kickball Unlocked | 70.00% | ~53 |
 | Have a good trip! | 70.00% | ~53 |
-| Stay Hydrated | 66.00% | ~50 |
-| First Win | 63.00% | ~48 |
-| True Story! | 42.00% | ~32 |
+| Stay Hydrated | 67.00% | ~51 |
+| First Win | 64.00% | ~49 |
+| True Story! | 43.00% | ~33 |
 | Bedroom Secret Spot | 37.00% | ~28 |
 | Kick It | 32.00% | ~24 |
 | Grand Slam! | 26.00% | ~20 |
-| Spooky | 25.00% | ~19 |
+| Spooky | 26.00% | ~20 |
 | Have Mercy | 25.00% | ~19 |
 | Classroom Secret Spot | 22.00% | ~17 |
 | Save some water for the fishies | 22.00% | ~17 |
 | Bathroom Secret Spot | 21.00% | ~16 |
+| Angry Dad | 21.00% | ~16 |
 | At least everyone still had fun | 21.00% | ~16 |
-| Angry Dad | 20.00% | ~15 |
 | Living Room Secret Spot | 17.00% | ~13 |
 | Hi Hungry, I'm Dad | 14.00% | ~11 |
 | Angry Mom | 11.00% | ~8 |

@@ -39,10 +39,10 @@ Rating: 4.57 (Ranked 439)
 | Not a Player | 0.70% | ~77 |
 | Remastered | 0.60% | ~66 |
 | ...Here we go again | 0.30% | ~33 |
-| I Ain't No Buster | 0.20% | ~22 |
+| I Ain't No Buster | 0.30% | ~33 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 11,033 (Ranked 116)  
-Completed: 28 (0.25%) (Ranked 154)  
+Completed: 29 (0.26%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -125,7 +125,7 @@ Completed: 28 (0.25%) (Ranked 154)
 | 2023-07-10 | 11,007 | 28 |
 | 2023-07-11 | 11,020 | 28 |
 | 2023-07-12 | 11,029 | 28 |
-| 2023-07-13 | 11,033 | 28 |
+| 2023-07-13 | 11,033 | 29 |
 ## Awards
 Max (Great Boss Battles): 213  (Ranked 263)  
 Sum: 213 (Ranked 357)  

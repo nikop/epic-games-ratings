@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1319,
+  "EOS_Progressed": 1320,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
@@ -1158,6 +1158,11 @@
       "Time": "2023-07-11T02:24:08.7590732+00:00",
       "NumProgressed": 1319,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-13T18:06:56.328829+00:00",
+      "NumProgressed": 1320,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1233,7 +1238,7 @@
       "Name": "Balding bloot!",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1042
+      "UsersEstimate": 1043
     },
     {
       "ID": "18",
@@ -1265,7 +1270,7 @@
       "Name": "Don\u0027t look back",
       "Percentage": 13,
       "XP": 70,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "21",
@@ -1297,7 +1302,7 @@
       "Name": "In my shoes",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "25",
@@ -1305,7 +1310,7 @@
       "Name": "Heartstrings",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "27",
@@ -1329,7 +1334,7 @@
       "Name": "Hug therapy",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "30",
@@ -1408,15 +1413,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1319,
+      "Progressed": 1320,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-07-13T17:06:31.9527973+00:00",
+  "LastChanged_Achievements": "2023-07-13T18:06:56.3288284+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:43.1478787+00:00",
-  "LastUpdate_Ratings": "2023-07-13T16:59:58.4716197+00:00",
-  "LastUpdate_Achievements": "2023-07-13T17:06:31.9528267+00:00"
+  "LastUpdate_Ratings": "2023-07-13T17:59:59.3241066+00:00",
+  "LastUpdate_Achievements": "2023-07-13T18:06:56.3288593+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
     "PcReleaseDate": "2022-03-17T09:00:00+00:00",
@@ -657,9 +657,9 @@
       "ID": "You_are_the_One",
       "SetID": "gl7plp",
       "Name": "You are the One",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 123
+      "UsersEstimate": 130
     },
     {
       "ID": "manhole",
@@ -698,8 +698,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-07-10T11:57:54.3747562+00:00",
-  "LastChanged_Achievements": "2023-07-13T17:04:26.8390805+00:00",
+  "LastChanged_Achievements": "2023-07-13T18:04:25.4961731+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:00.1261092+00:00",
-  "LastUpdate_Ratings": "2023-07-13T16:58:11.9558014+00:00",
-  "LastUpdate_Achievements": "2023-07-13T17:04:26.8391093+00:00"
+  "LastUpdate_Ratings": "2023-07-13T17:57:55.2350362+00:00",
+  "LastUpdate_Achievements": "2023-07-13T18:04:25.4962035+00:00"
 }

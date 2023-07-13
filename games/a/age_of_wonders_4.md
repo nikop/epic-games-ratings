@@ -7,6 +7,7 @@ Rating: 4.62 (Ranked 346)
 | ---- | ---------- | ----- |
 | Secret Technique | 4.00% | ~199 |
 | Tipping the Scales | 4.00% | ~199 |
+| Full Ascension | 3.00% | ~150 |
 | Realm Estate | 3.00% | ~150 |
 | A Wonderful Discovery | 3.00% | ~150 |
 | Walls Cannot Stop Us | 3.00% | ~150 |
@@ -22,9 +23,9 @@ Rating: 4.62 (Ranked 346)
 | Mighty Hoard | 3.00% | ~150 |
 | Valley of Wonders | 2.00% | ~100 |
 | There Can Only Be One! | 2.00% | ~100 |
-| Full Ascension | 2.00% | ~100 |
 | Return of the Wizard King | 2.00% | ~100 |
 | Arch Mage | 2.00% | ~100 |
+| Enchanted Archipelago | 2.00% | ~100 |
 | Digging for Treasure | 2.00% | ~100 |
 | Preparation Is Everything | 2.00% | ~100 |
 | In a Liege of Your Own | 2.00% | ~100 |
@@ -35,7 +36,6 @@ Rating: 4.62 (Ranked 346)
 | God Emperor | 1.00% | ~50 |
 | Lord of Chaos | 1.00% | ~50 |
 | The Creator | 1.00% | ~50 |
-| Enchanted Archipelago | 1.00% | ~50 |
 | The Goddess of Nature | 1.00% | ~50 |
 | Eternal Lord | 1.00% | ~50 |
 | Crimson Caldera | 1.00% | ~50 |
@@ -57,7 +57,7 @@ Rating: 4.62 (Ranked 346)
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,984 (Ranked 136)  
-Completed: 5 (0.10%) (Ranked 182)  
+Completed: 5 (0.10%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

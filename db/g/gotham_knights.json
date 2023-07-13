@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2012,9 +2012,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 66969,
+  "EOS_Progressed": 66973,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 425,
+  "EOS_NewPlayers": 424,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -9662,6 +9662,11 @@
       "Time": "2023-07-13T17:03:57.8547723+00:00",
       "NumProgressed": 66969,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-07-13T18:03:50.8170205+00:00",
+      "NumProgressed": 66973,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 61,
@@ -9681,7 +9686,7 @@
       "Name": "Element of Surprise",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "AC1_HA_DEFEAT_MOST_WANTED",
@@ -9705,7 +9710,7 @@
       "Name": "Crime Is a Terrible Thing to Waste",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "AC1_HA_STARLABS",
@@ -9713,7 +9718,7 @@
       "Name": "The Cold, the Bad and the Ugly",
       "Percentage": 0.2,
       "XP": 90,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ALL_HEROES_PLAYED",
@@ -9929,7 +9934,7 @@
       "Name": "Icebreaker",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "FREEZE_SHOWDOWN_2",
@@ -10009,7 +10014,7 @@
       "Name": "A Sophisticated Mallet",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "HERO_PROGRESSION_1",
@@ -10160,13 +10165,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 66969,
+      "Progressed": 66973,
       "Completed": 102
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 37249,
+      "Progressed": 37253,
       "Completed": 2652
     }
   ],
@@ -10174,8 +10179,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-07-13T11:00:03.359725+00:00",
-  "LastChanged_Achievements": "2023-07-13T17:03:57.8547719+00:00",
+  "LastChanged_Achievements": "2023-07-13T18:03:50.81702+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:06.0757808+00:00",
-  "LastUpdate_Ratings": "2023-07-13T17:00:14.6363772+00:00",
-  "LastUpdate_Achievements": "2023-07-13T17:03:57.85488+00:00"
+  "LastUpdate_Ratings": "2023-07-13T18:00:20.2475252+00:00",
+  "LastUpdate_Achievements": "2023-07-13T18:03:50.8171286+00:00"
 }
