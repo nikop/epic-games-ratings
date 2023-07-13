@@ -12,11 +12,11 @@ Number of Ratings: 87  (23.09.2022)
 | Individual delivery | 9.00% | ~69 |
 | Juggler | 9.00% | ~69 |
 | Forgot something | 8.00% | ~62 |
-| Common cause | 7.00% | ~54 |
 | Mega-railroad | 7.00% | ~54 |
 | Non-Stop | 7.00% | ~54 |
 | Builder | 6.00% | ~46 |
 | Close call! | 6.00% | ~46 |
+| Common cause | 6.00% | ~46 |
 | Critical care | 6.00% | ~46 |
 | Get out my way | 6.00% | ~46 |
 | Just in time! | 6.00% | ~46 |
@@ -66,8 +66,8 @@ Number of Ratings: 87  (23.09.2022)
 | Highlander | 0.80% | ~6 |
 | Railroad tycoon | 0.80% | ~6 |
 | Space Age | 0.80% | ~6 |
-| Astrochemist | 0.70% | ~1 |
-| Miscalculation | 0.70% | ~5 |
+| Astrochemist | 0.60% | ~1 |
+| Miscalculation | 0.60% | ~5 |
 | Arcturus | 0.40% | ~0 |
 | BBQ | 0.40% | ~3 |
 | It's no coincidence | 0.40% | ~3 |
@@ -82,7 +82,7 @@ Number of Ratings: 87  (23.09.2022)
 | Gemologist | 0.00% | ~0 |
 | Jeweller | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 769 (Ranked 195)  
+Progressed: 770 (Ranked 195)  
 Completed: 1 (0.13%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 1 (0.13%) (Ranked 178)
 | 2023-07-10 | 761 | 1 |
 | 2023-07-11 | 763 | 1 |
 | 2023-07-12 | 766 | 1 |
-| 2023-07-13 | 769 | 1 |
+| 2023-07-13 | 770 | 1 |
 ## Awards
 Max (Challenging Puzzles): 72  (Ranked 370)  
 Sum: 72 (Ranked 428)  

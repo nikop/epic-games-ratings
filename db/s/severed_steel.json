@@ -278,9 +278,9 @@
       "Count": 185
     }
   ],
-  "EOS_Progressed": 424369,
+  "EOS_Progressed": 424372,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 1813,
+  "EOS_NewPlayers": 1802,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9338,6 +9338,11 @@
       "Time": "2023-07-13T13:19:20.8151839+00:00",
       "NumProgressed": 424369,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-07-13T14:01:39.4968585+00:00",
+      "NumProgressed": 424372,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 52,
@@ -9445,7 +9450,7 @@
       "Name": "FINISH CHAPTER 5",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 21218
+      "UsersEstimate": 21219
     },
     {
       "ID": "CHAPTER6",
@@ -9477,7 +9482,7 @@
       "Name": "CATHARTIC ESCAPISM",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 21218
+      "UsersEstimate": 21219
     },
     {
       "ID": "FIREFIGHT10 LEVEL (0-10)",
@@ -9764,7 +9769,7 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 424369,
+      "Progressed": 424372,
       "Completed": 38
     }
   ],
@@ -9772,8 +9777,8 @@
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "LastChanged": "2023-07-04T08:00:18.0682194+00:00",
-  "LastChanged_Achievements": "2023-07-13T13:19:20.815183+00:00",
+  "LastChanged_Achievements": "2023-07-13T14:01:39.4968582+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:44.1135221+00:00",
-  "LastUpdate_Ratings": "2023-07-13T13:17:50.111741+00:00",
-  "LastUpdate_Achievements": "2023-07-13T13:19:20.8152809+00:00"
+  "LastUpdate_Ratings": "2023-07-13T14:00:10.3655253+00:00",
+  "LastUpdate_Achievements": "2023-07-13T14:01:39.4969317+00:00"
 }

@@ -7,7 +7,7 @@
 | Small town | 64.00% | ~174 |
 | I like parks | 52.00% | ~141 |
 | It is nice to share with friends in the city | 27.00% | ~73 |
-| Sport is good for you | 25.00% | ~68 |
+| Sport is good for you | 26.00% | ~71 |
 | The spiritual world... | 23.00% | ~63 |
 | The woodcutter | 22.00% | ~60 |
 | I like books | 20.00% | ~54 |

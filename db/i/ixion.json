@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2806,
+  "EOS_Progressed": 2807,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3473,6 +3473,11 @@
       "Time": "2023-07-13T00:05:06.1645338+00:00",
       "NumProgressed": 2806,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-13T14:04:41.3417114+00:00",
+      "NumProgressed": 2807,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -3652,7 +3657,7 @@
       "Name": "Exceeding Capacity",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "ACH_BASE_31",
@@ -3692,7 +3697,7 @@
       "Name": "Breaking Protocol",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "ACH_BASE_36",
@@ -3939,13 +3944,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 987,
+      "Progressed": 988,
       "Completed": 5
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2806,
+      "Progressed": 2807,
       "Completed": 0
     }
   ],
@@ -3953,8 +3958,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-07-08T02:22:11.1138638+00:00",
-  "LastChanged_Achievements": "2023-07-13T13:22:12.9132415+00:00",
+  "LastChanged_Achievements": "2023-07-13T14:04:41.3417109+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:17.2355244+00:00",
-  "LastUpdate_Ratings": "2023-07-13T13:16:46.5826752+00:00",
-  "LastUpdate_Achievements": "2023-07-13T13:22:12.9133114+00:00"
+  "LastUpdate_Ratings": "2023-07-13T13:59:01.157733+00:00",
+  "LastUpdate_Achievements": "2023-07-13T14:04:41.3417731+00:00"
 }

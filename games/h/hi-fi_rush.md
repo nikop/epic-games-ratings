@@ -20,13 +20,13 @@ Rating: 4.87 (Ranked 24)
 | Alright, that felt AWESOME! | 1.00% | ~34 |
 | NOW we got a kickass hideout! | 1.00% | ~20 |
 | Headliner | 0.90% | ~31 |
+| You must like calling me in, Chai | 0.90% | ~31 |
 | Out in a puff of smoke | 0.90% | ~31 |
 | Start with a bang! | 0.80% | ~28 |
 | Time to pay up! | 0.80% | ~28 |
 | Who's the boss now? | 0.80% | ~28 |
 | I have to read these things? | 0.80% | ~28 |
 | Feeling the beat! | 0.80% | ~28 |
-| You must like calling me in, Chai | 0.80% | ~28 |
 | You can pet the cat! | 0.70% | ~24 |
 | Perfecter Parry-er! | 0.60% | ~21 |
 | I look cool. But I can look COOLER. | 0.60% | ~21 |

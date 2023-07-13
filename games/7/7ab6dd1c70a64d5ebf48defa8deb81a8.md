@@ -5,6 +5,7 @@
 | ---- | ---------- | ----- |
 | Calm before the Storm | 6.00% | ~1 |
 | Shardbearer | 6.00% | ~1 |
+| Tributes of Caladrias | 6.00% | ~1 |
 | Break Out | 0.00% | ~0 |
 | Find Allies | 0.00% | ~0 |
 | Powerful Allies | 0.00% | ~0 |
@@ -17,7 +18,6 @@
 | Forgemaster | 0.00% | ~0 |
 | Adventurer | 0.00% | ~0 |
 | Airborne | 0.00% | ~0 |
-| Tributes of Caladrias | 0.00% | ~0 |
 | Essence Blow | 0.00% | ~0 |
 | Shatterer | 0.00% | ~0 |
 | Shatter Them All | 0.00% | ~0 |

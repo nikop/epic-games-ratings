@@ -120,6 +120,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Champions of Waterdeep | 0.10% | ~211 |
 | On The Job Learning | 0.10% | ~211 |
 | Strike! | 0.10% | ~177 |
+| Take Five | 0.10% | ~177 |
 | Running of the Saurs | 0.10% | ~211 |
 | Lost in the Goblin Halls | 0.10% | ~211 |
 | Batiri in the Goblin Halls | 0.10% | ~211 |
@@ -492,7 +493,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tower on the Lake | 0.00% | ~0 |
 | Only the Strong Survive | 0.00% | ~0 |
 | Shorty's Day Off | 0.00% | ~0 |
-| Take Five | 0.00% | ~0 |
 | A Chilling Encounter | 0.00% | ~0 |
 | Tekeli-li's Hunt | 0.00% | ~0 |
 | The Court of Storms | 0.00% | ~0 |
@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,842 (Ranked 52)  
+Progressed: 210,861 (Ranked 52)  
 Completed: 2,046 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -598,7 +598,7 @@ Completed: 2,046 (0.97%) (Ranked 102)
 | 2023-07-10 | 209,861 | 2,045 |
 | 2023-07-11 | 210,283 | 2,046 |
 | 2023-07-12 | 210,649 | 2,046 |
-| 2023-07-13 | 210,842 | 2,046 |
+| 2023-07-13 | 210,861 | 2,046 |
 ## Awards
 Max (Diverse Characters): 5,029  (Ranked 66)  
 Sum: 30,494 (Ranked 38)  

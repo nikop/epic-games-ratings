@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| To Suffer is to Learn | 6.00% | ~194 |
+| To Suffer is to Learn | 6.00% | ~195 |
 | Missilis | 5.00% | ~162 |
 | Persephone's Guidance | 5.00% | ~162 |
 | Lochos | 5.00% | ~162 |
@@ -25,7 +25,6 @@
 | Symbols of Heresy | 3.00% | ~97 |
 | First Fragment | 3.00% | ~97 |
 | Sisters of the Pantheon | 3.00% | ~97 |
-| Labour of Apollo | 3.00% | ~97 |
 | Siege Unit | 3.00% | ~97 |
 | Divine Assemblage | 3.00% | ~97 |
 | Ophiolatreia | 3.00% | ~97 |
@@ -37,6 +36,7 @@
 | The Midas Touch | 2.00% | ~65 |
 | Hapax Legomenon | 2.00% | ~65 |
 | Don't Pay the Ferryman | 2.00% | ~65 |
+| Labour of Apollo | 2.00% | ~65 |
 | Vandili | 2.00% | ~65 |
 | No Scylla in Sight | 2.00% | ~65 |
 | Cloaca Maxima | 2.00% | ~65 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,240 (Ranked 147)  
+Progressed: 3,242 (Ranked 147)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-10 | 3,216 | 0 |
 | 2023-07-11 | 3,224 | 0 |
 | 2023-07-12 | 3,235 | 0 |
-| 2023-07-13 | 3,240 | 0 |
+| 2023-07-13 | 3,242 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5553,9 +5553,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 55640,
+  "EOS_Progressed": 55641,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 502,
+  "EOS_NewPlayers": 501,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14243,6 +14243,11 @@
       "Time": "2023-07-13T13:24:41.8186418+00:00",
       "NumProgressed": 55640,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-13T14:07:11.019577+00:00",
+      "NumProgressed": 55641,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -14254,7 +14259,7 @@
       "Name": "Against all odds",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6120
+      "UsersEstimate": 6121
     },
     {
       "ID": "Apple of my eye",
@@ -14270,7 +14275,7 @@
       "Name": "Bannerlord",
       "Percentage": 21,
       "XP": 65,
-      "UsersEstimate": 11684
+      "UsersEstimate": 11685
     },
     {
       "ID": "Best served cold",
@@ -14446,7 +14451,7 @@
       "Name": "King Solomon",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 8902
+      "UsersEstimate": 8903
     },
     {
       "ID": "Kingslayer",
@@ -14478,7 +14483,7 @@
       "Name": "Landlord",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 17248
+      "UsersEstimate": 17249
     },
     {
       "ID": "Lawbringer",
@@ -14630,7 +14635,7 @@
       "Name": "Trained",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 11684
+      "UsersEstimate": 11685
     },
     {
       "ID": "Undercover",
@@ -14661,15 +14666,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 55640,
+      "Progressed": 55641,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-07-13T11:59:52.4718948+00:00",
-  "LastChanged_Achievements": "2023-07-13T13:24:41.8186411+00:00",
+  "LastChanged_Achievements": "2023-07-13T14:07:11.0195766+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:03.335469+00:00",
-  "LastUpdate_Ratings": "2023-07-13T13:18:09.0294631+00:00",
-  "LastUpdate_Achievements": "2023-07-13T13:24:41.8187259+00:00"
+  "LastUpdate_Ratings": "2023-07-13T14:00:27.0797228+00:00",
+  "LastUpdate_Achievements": "2023-07-13T14:07:11.0196506+00:00"
 }

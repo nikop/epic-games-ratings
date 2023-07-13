@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 463,
+  "EOS_Progressed": 464,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -950,6 +950,11 @@
       "Time": "2023-07-09T23:06:42.8569886+00:00",
       "NumProgressed": 463,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-13T14:07:07.9072987+00:00",
+      "NumProgressed": 464,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1009,7 +1014,7 @@
       "Name": "The Breeder",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "Chapter4",
@@ -1017,7 +1022,7 @@
       "Name": "The Veteran",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "Chapter5",
@@ -1025,7 +1030,7 @@
       "Name": "The Traitor",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Chapter6",
@@ -1065,7 +1070,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "Collectibles2",
@@ -1241,21 +1246,21 @@
       "Name": "Welcome to Mordor!",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 463,
+      "Progressed": 464,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-07-13T13:24:38.8394657+00:00",
+  "LastChanged_Achievements": "2023-07-13T14:07:07.9072983+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:13.2645912+00:00",
-  "LastUpdate_Ratings": "2023-07-13T13:15:56.6668209+00:00",
-  "LastUpdate_Achievements": "2023-07-13T13:24:38.8394958+00:00"
+  "LastUpdate_Ratings": "2023-07-13T13:58:12.6690374+00:00",
+  "LastUpdate_Achievements": "2023-07-13T14:07:07.9073241+00:00"
 }

@@ -12,7 +12,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | Constructor | 56.00% | ~3,650 |
 | Renovator | 54.00% | ~3,519 |
 | Bestest Friend | 52.00% | ~3,389 |
-| Banker | 43.00% | ~2,802 |
+| Banker | 44.00% | ~2,867 |
 | Gardener | 34.00% | ~2,216 |
 | Generous | 25.00% | ~1,629 |
 | Chef Cook | 19.00% | ~1,238 |

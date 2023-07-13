@@ -172,9 +172,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7291,
+  "EOS_Progressed": 7292,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5667,6 +5667,11 @@
       "Time": "2023-07-13T07:03:09.63461+00:00",
       "NumProgressed": 7291,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-13T14:02:21.7731206+00:00",
+      "NumProgressed": 7292,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -5678,7 +5683,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 4666
+      "UsersEstimate": 4667
     },
     {
       "ID": "0002",
@@ -5806,7 +5811,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 2916
+      "UsersEstimate": 2917
     },
     {
       "ID": "0018",
@@ -5854,7 +5859,7 @@
       "Name": "Safe Withdrawal",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "0024",
@@ -5965,7 +5970,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 7291,
+      "Progressed": 7292,
       "Completed": 1
     }
   ],
@@ -5973,8 +5978,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-06-24T11:00:56.980815+00:00",
-  "LastChanged_Achievements": "2023-07-13T13:20:23.6564071+00:00",
+  "LastChanged_Achievements": "2023-07-13T14:02:21.7731202+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:58.7971193+00:00",
-  "LastUpdate_Ratings": "2023-07-13T13:18:01.700639+00:00",
-  "LastUpdate_Achievements": "2023-07-13T13:20:23.6564601+00:00"
+  "LastUpdate_Ratings": "2023-07-13T14:00:21.4683412+00:00",
+  "LastUpdate_Achievements": "2023-07-13T14:02:21.773166+00:00"
 }

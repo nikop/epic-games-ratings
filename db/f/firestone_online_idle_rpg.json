@@ -4221,9 +4221,9 @@
       "ID": "ebonyjungleliberator",
       "SetID": "3nl4bcg",
       "Name": "Ebony Jungle Liberator",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 49
     },
     {
       "ID": "enchantingskill",
@@ -4501,9 +4501,9 @@
       "ID": "relicofthepast",
       "SetID": "3nl4bcg",
       "Name": "Relic Of The Past",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 162
     },
     {
       "ID": "sailor",
@@ -4702,8 +4702,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-07-11T02:15:28.7878959+00:00",
-  "LastChanged_Achievements": "2023-07-13T13:24:41.2740663+00:00",
+  "LastChanged_Achievements": "2023-07-13T14:07:10.4810829+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:35.1051404+00:00",
-  "LastUpdate_Ratings": "2023-07-13T13:16:14.3507033+00:00",
-  "LastUpdate_Achievements": "2023-07-13T13:24:41.2741591+00:00"
+  "LastUpdate_Ratings": "2023-07-13T13:58:29.364025+00:00",
+  "LastUpdate_Achievements": "2023-07-13T14:07:10.4811612+00:00"
 }

@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13870,
+  "EOS_Progressed": 13871,
   "EOS_Completed": 105,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -5989,6 +5989,11 @@
       "Time": "2023-07-13T13:19:09.6231467+00:00",
       "NumProgressed": 13870,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2023-07-13T14:01:28.1825933+00:00",
+      "NumProgressed": 13871,
+      "NumCompleted": 105
     }
   ],
   "TotalAchievements": 41,
@@ -6200,7 +6205,7 @@
       "Name": "Jack was here!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2080
+      "UsersEstimate": 2081
     },
     {
       "ID": "tpote_achievement_33",
@@ -6312,7 +6317,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3051
+      "UsersEstimate": 3052
     },
     {
       "ID": "tpote_achievement_9",
@@ -6320,22 +6325,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4854
+      "UsersEstimate": 4855
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13870,
+      "Progressed": 13871,
       "Completed": 105
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-13T13:19:09.6231461+00:00",
+  "LastChanged_Achievements": "2023-07-13T14:01:28.1825926+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:22.7316946+00:00",
-  "LastUpdate_Ratings": "2023-07-13T13:18:23.4391429+00:00",
-  "LastUpdate_Achievements": "2023-07-13T13:19:09.6232056+00:00"
+  "LastUpdate_Ratings": "2023-07-13T14:00:41.8403137+00:00",
+  "LastUpdate_Achievements": "2023-07-13T14:01:28.1826542+00:00"
 }

@@ -512,7 +512,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57277,
+  "EOS_Progressed": 57278,
   "EOS_Completed": 57,
   "EOS_NewPlayers": 369,
   "EOS_NewCompleters": 0,
@@ -7827,6 +7827,11 @@
       "Time": "2023-07-13T13:21:48.1602087+00:00",
       "NumProgressed": 57277,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-13T14:04:16.0650908+00:00",
+      "NumProgressed": 57278,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7838,7 +7843,7 @@
       "Name": "Follow the Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 19474
+      "UsersEstimate": 19475
     },
     {
       "ID": "02",
@@ -7854,7 +7859,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11455
+      "UsersEstimate": 11456
     },
     {
       "ID": "04",
@@ -7886,7 +7891,7 @@
       "Name": "Heavy Metal",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6300
+      "UsersEstimate": 6301
     },
     {
       "ID": "08",
@@ -7894,7 +7899,7 @@
       "Name": "Iron Horse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6300
+      "UsersEstimate": 6301
     },
     {
       "ID": "09",
@@ -8006,7 +8011,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6300
+      "UsersEstimate": 6301
     },
     {
       "ID": "23",
@@ -8046,7 +8051,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6300
+      "UsersEstimate": 6301
     },
     {
       "ID": "28",
@@ -8054,7 +8059,7 @@
       "Name": "Come One, Come All",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6300
+      "UsersEstimate": 6301
     },
     {
       "ID": "29",
@@ -8373,21 +8378,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57277,
+      "Progressed": 57278,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20745,
+      "Progressed": 20746,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-13T13:21:48.1602081+00:00",
+  "LastChanged_Achievements": "2023-07-13T14:04:16.0650903+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:08.3646753+00:00",
-  "LastUpdate_Ratings": "2023-07-13T13:15:51.4067757+00:00",
-  "LastUpdate_Achievements": "2023-07-13T13:21:48.1603182+00:00"
+  "LastUpdate_Ratings": "2023-07-13T13:58:07.9041412+00:00",
+  "LastUpdate_Achievements": "2023-07-13T14:04:16.0651752+00:00"
 }

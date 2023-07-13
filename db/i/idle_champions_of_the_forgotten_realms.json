@@ -4936,9 +4936,9 @@
       "Count": 3297
     }
   ],
-  "EOS_Progressed": 210842,
+  "EOS_Progressed": 210861,
   "EOS_Completed": 2046,
-  "EOS_NewPlayers": 3666,
+  "EOS_NewPlayers": 3670,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -13871,6 +13871,11 @@
       "Time": "2023-07-13T13:22:53.2116565+00:00",
       "NumProgressed": 210842,
       "NumCompleted": 2046
+    },
+    {
+      "Time": "2023-07-13T14:05:22.7506076+00:00",
+      "NumProgressed": 210861,
+      "NumCompleted": 2046
     }
   ],
   "TotalAchievements": 507,
@@ -16360,9 +16365,9 @@
       "ID": "objective_completed_588",
       "SetID": "415jc5c",
       "Name": "Take Five",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_59",
@@ -17937,21 +17942,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 177116,
+      "Progressed": 177135,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 210842,
+      "Progressed": 210861,
       "Completed": 2046
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-13T11:58:24.8366724+00:00",
-  "LastChanged_Achievements": "2023-07-13T13:22:53.2116558+00:00",
+  "LastChanged_Achievements": "2023-07-13T14:05:22.750607+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:43.9043947+00:00",
-  "LastUpdate_Ratings": "2023-07-13T13:16:22.8654275+00:00",
-  "LastUpdate_Achievements": "2023-07-13T13:22:53.2143321+00:00"
+  "LastUpdate_Ratings": "2023-07-13T13:58:36.4723384+00:00",
+  "LastUpdate_Achievements": "2023-07-13T14:05:22.7531071+00:00"
 }

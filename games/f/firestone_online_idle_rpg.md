@@ -30,6 +30,7 @@ Rating: 4.11 (Ranked 887)
 | Scientist | 11.00% | ~179 |
 | Challenger | 10.00% | ~162 |
 | Hunter | 10.00% | ~162 |
+| Relic Of The Past | 10.00% | ~162 |
 | The power of Awakening | 10.00% | ~162 |
 | Daily Quest Completionist | 9.00% | ~146 |
 | Doing My Part | 9.00% | ~146 |
@@ -37,7 +38,6 @@ Rating: 4.11 (Ranked 887)
 | Frostfire Liberator | 9.00% | ~146 |
 | Mastery | 9.00% | ~146 |
 | Moving Up The Ladder | 9.00% | ~146 |
-| Relic Of The Past | 9.00% | ~146 |
 | Scroll Master | 9.00% | ~146 |
 | Here We Go Again | 7.00% | ~114 |
 | Master Enchanter | 7.00% | ~114 |
@@ -58,10 +58,10 @@ Rating: 4.11 (Ranked 887)
 | Sailor | 4.00% | ~65 |
 | Active Member | 3.00% | ~49 |
 | Arena Challenger | 3.00% | ~49 |
+| Ebony Jungle Liberator | 3.00% | ~49 |
 | Legendary | 3.00% | ~49 |
 | The Alchemist | 3.00% | ~49 |
 | What lies behind the bush | 3.00% | ~49 |
-| Ebony Jungle Liberator | 2.00% | ~32 |
 | Mythic Power | 1.00% | ~16 |
 | Gear Enchanting | 0.70% | ~11 |
 | Guardian Master | 0.70% | ~11 |

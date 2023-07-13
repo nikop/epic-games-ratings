@@ -22,8 +22,8 @@
 | Drinking Problem | 20.00% | ~40 |
 | Professional Survivor | 18.00% | ~27 |
 | Quick-Draw Pod | 16.00% | ~24 |
+| This Is My Boomstick | 13.00% | ~20 |
 | Carrocketeer | 12.00% | ~24 |
-| This Is My Boomstick | 12.00% | ~18 |
 | Skin Of Your Teeth | 11.00% | ~22 |
 | Pork Chop Express | 11.00% | ~22 |
 | Getting Started | 10.00% | ~20 |

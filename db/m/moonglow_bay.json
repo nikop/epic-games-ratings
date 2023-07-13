@@ -150,9 +150,9 @@
       "ID": "ACH_11_CONVO",
       "SetID": "cieb1c3",
       "Name": "The Art of Conversation",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_12_RACONTEUR",
@@ -286,9 +286,9 @@
       "ID": "ACH_28_SHELLFISH",
       "SetID": "cieb1c3",
       "Name": "Selfish Shellfish",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_29_EXPEDITION",
@@ -375,8 +375,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.9355782+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:22.8517258+00:00",
   "LastChanged": "2023-03-31T05:57:52.9355783+00:00",
-  "LastChanged_Achievements": "2023-07-13T13:23:01.2790717+00:00",
+  "LastChanged_Achievements": "2023-07-13T14:05:30.448415+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:45.1285992+00:00",
-  "LastUpdate_Ratings": "2023-07-13T13:17:51.2357298+00:00",
-  "LastUpdate_Achievements": "2023-07-13T13:23:01.2791011+00:00"
+  "LastUpdate_Ratings": "2023-07-13T14:00:11.7845652+00:00",
+  "LastUpdate_Achievements": "2023-07-13T14:05:30.4484379+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 428,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
@@ -277,9 +277,9 @@
       "Count": 72
     }
   ],
-  "EOS_Progressed": 769,
+  "EOS_Progressed": 770,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -647,6 +647,11 @@
       "Time": "2023-07-13T13:23:43.9594901+00:00",
       "NumProgressed": 769,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-13T14:06:11.80125+00:00",
+      "NumProgressed": 770,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -680,7 +685,7 @@
       "ID": "AchievementAstrochemist_NAME",
       "SetID": "55bbbe2",
       "Name": "Astrochemist",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -768,9 +773,9 @@
       "ID": "AchievementCommonCause",
       "SetID": "76o014g",
       "Name": "Common cause",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 46
     },
     {
       "ID": "AchievementCriticalCare",
@@ -1000,7 +1005,7 @@
       "ID": "AchievementMiscalculation",
       "SetID": "76o014g",
       "Name": "Miscalculation",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -1257,21 +1262,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 110,
+      "Progressed": 111,
       "Completed": 6
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 769,
+      "Progressed": 770,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-06-28T09:58:02.8229732+00:00",
-  "LastChanged_Achievements": "2023-07-13T13:23:43.9594894+00:00",
+  "LastChanged_Achievements": "2023-07-13T14:06:11.8012495+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:50.3569514+00:00",
-  "LastUpdate_Ratings": "2023-07-13T13:15:41.4806848+00:00",
-  "LastUpdate_Achievements": "2023-07-13T13:23:43.9595743+00:00"
+  "LastUpdate_Ratings": "2023-07-13T13:57:57.4555861+00:00",
+  "LastUpdate_Achievements": "2023-07-13T14:06:11.8013127+00:00"
 }
