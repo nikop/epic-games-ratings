@@ -2,7 +2,7 @@
   "ID": "ffebd598d5494ae28740e6507ecbe2ba",
   "Name": "Sphere 3",
   "ProductSlug": "sphere-3-deb200",
-  "Ranking_EOS_Progress": 491,
+  "Ranking_EOS_Progress": 492,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 90,
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-05-03T08:57:50.4684088+00:00",
   "LastChanged": "2023-05-03T08:57:50.4684089+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:11.4981729+00:00",
-  "LastUpdate_Ratings": "2023-07-13T07:57:53.0538414+00:00",
-  "LastUpdate_Achievements": "2023-07-13T08:00:40.8563672+00:00"
+  "LastUpdate_Ratings": "2023-07-13T08:58:25.1346069+00:00",
+  "LastUpdate_Achievements": "2023-07-13T09:02:32.0191346+00:00"
 }

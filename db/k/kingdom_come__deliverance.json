@@ -5886,9 +5886,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 792223,
+  "EOS_Progressed": 792224,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 1062,
+  "EOS_NewPlayers": 1058,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14886,6 +14886,11 @@
       "Time": "2023-07-13T08:03:28.6472275+00:00",
       "NumProgressed": 792223,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-07-13T09:04:17.5770981+00:00",
+      "NumProgressed": 792224,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -15097,7 +15102,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 182211
+      "UsersEstimate": 182212
     },
     {
       "ID": "Fighter",
@@ -15113,7 +15118,7 @@
       "Name": "Firestarter",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 118833
+      "UsersEstimate": 118834
     },
     {
       "ID": "Freud",
@@ -15552,15 +15557,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 792223,
+      "Progressed": 792224,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-07-12T21:58:38.1257407+00:00",
-  "LastChanged_Achievements": "2023-07-13T08:03:28.6472271+00:00",
+  "LastChanged_Achievements": "2023-07-13T09:04:17.5770975+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:10.689818+00:00",
-  "LastUpdate_Ratings": "2023-07-13T07:58:30.3164171+00:00",
-  "LastUpdate_Achievements": "2023-07-13T08:03:28.6473849+00:00"
+  "LastUpdate_Ratings": "2023-07-13T08:59:22.7442297+00:00",
+  "LastUpdate_Achievements": "2023-07-13T09:04:17.577312+00:00"
 }

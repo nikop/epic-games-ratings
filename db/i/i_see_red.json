@@ -2,7 +2,7 @@
   "ID": "21b227238de14dc181de7eb4633b117f",
   "Name": "I See Red",
   "ProductSlug": "i-see-red-de79ef",
-  "Ranking_EOS_Progress": 491,
+  "Ranking_EOS_Progress": 492,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 90,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-04-14T13:04:18.0087101+00:00",
   "LastChanged": "2023-04-14T13:04:18.0087102+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:15.946315+00:00",
-  "LastUpdate_Ratings": "2023-07-13T07:59:54.1664774+00:00",
-  "LastUpdate_Achievements": "2023-07-13T08:02:27.0930654+00:00"
+  "LastUpdate_Ratings": "2023-07-13T09:01:21.2857996+00:00",
+  "LastUpdate_Achievements": "2023-07-13T09:03:33.4649359+00:00"
 }

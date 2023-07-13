@@ -6,17 +6,17 @@ Rating: 4.67 (Ranked 260)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eye Scream, You Scream | 83.00% | ~19,083 |
-| Mods Please Ban | 77.00% | ~17,703 |
-| Bring A Knife to a Gun Fight | 77.00% | ~17,703 |
-| Fallout Doesn't Let You Do This | 73.00% | ~16,783 |
+| Mods Please Ban | 77.00% | ~17,704 |
+| Bring A Knife to a Gun Fight | 77.00% | ~17,704 |
+| Fallout Doesn't Let You Do This | 73.00% | ~16,784 |
 | First Bounty Down | 59.00% | ~13,565 |
 | We're All Very Impressed, Trust Me | 57.00% | ~13,105 |
-| Luglox Genocide | 43.00% | ~9,886 |
+| Luglox Genocide | 43.00% | ~9,887 |
 | Playing Card To Get | 34.00% | ~7,817 |
 | Don't Knife The Hand That Feeds | 33.00% | ~7,587 |
-| Creature Feature | 30.00% | ~6,897 |
-| Satisfied Gus-tomer | 28.00% | ~6,437 |
-| Cold-Blooded Driller | 28.00% | ~6,437 |
+| Creature Feature | 30.00% | ~6,898 |
+| Satisfied Gus-tomer | 28.00% | ~6,438 |
+| Cold-Blooded Driller | 28.00% | ~6,438 |
 | Are You Packin'? | 25.00% | ~5,748 |
 | Sweezy Like Sunday Morning | 25.00% | ~5,748 |
 | G3 Graduation | 25.00% | ~5,748 |
@@ -27,18 +27,18 @@ Rating: 4.67 (Ranked 260)
 | Who's The Boss? | 20.00% | ~4,598 |
 | Spent 15 Hours At The Alien Strip Club | 20.00% | ~4,598 |
 | Self-Actualization | 19.00% | ~4,368 |
-| Legendary Bounty Hunter | 18.00% | ~4,138 |
+| Legendary Bounty Hunter | 18.00% | ~4,139 |
 | Seeing All The Sights | 16.00% | ~3,679 |
 | Carried Stan's Load To Completion | 13.00% | ~2,989 |
 | We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,759 |
 | Eatin' Good in the Neighborhood | 9.00% | ~2,069 |
 | Sequel-Bait | 8.00% | ~1,839 |
 | Gunning For Your Job | 7.00% | ~1,609 |
-| Playing Favorites | 6.00% | ~1,379 |
+| Playing Favorites | 6.00% | ~1,380 |
 | Epic Legendary Prize | 1.00% | ~230 |
 | A Starfish Is Born | 1.00% | ~230 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,991 (Ranked 99)  
+Progressed: 22,992 (Ranked 99)  
 Completed: 8 (0.03%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 8 (0.03%) (Ranked 209)
 | 2023-07-09 | 22,982 | 8 |
 | 2023-07-11 | 22,987 | 8 |
 | 2023-07-12 | 22,990 | 8 |
-| 2023-07-13 | 22,991 | 8 |
+| 2023-07-13 | 22,992 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

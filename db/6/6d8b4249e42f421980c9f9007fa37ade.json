@@ -396,9 +396,9 @@
       "ID": "Epic_Brand_25",
       "SetID": "ba1m2fc",
       "Name": "Pilgrim",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Epic_ChainSaw_1",
@@ -484,9 +484,9 @@
       "ID": "Epic_Firefly_1",
       "SetID": "ba1m2fc",
       "Name": "Stars\u0027 Shimmer",
-      "Percentage": 61,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "Epic_Formula_12",
@@ -508,9 +508,9 @@
       "ID": "Epic_GoldenCity_1",
       "SetID": "ba1m2fc",
       "Name": "Dystopia",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Epic_GoldenCoins_10000000",
@@ -556,9 +556,9 @@
       "ID": "Epic_Hunter_c0190900-91ca-4012-b070-e45fedf5cf41_1",
       "SetID": "ba1m2fc",
       "Name": "Wrecking Ball",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "Epic_InnerWorld_1",
@@ -644,9 +644,9 @@
       "ID": "Epic_Purgatory_1",
       "SetID": "ba1m2fc",
       "Name": "Paradise Lost",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Epic_Revenge_1",
@@ -684,9 +684,9 @@
       "ID": "Epic_Shotgun_1",
       "SetID": "ba1m2fc",
       "Name": "Deadly Twin Cracks",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Epic_SmallBell_1",
@@ -771,8 +771,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-07-13T08:04:23.271952+00:00",
+  "LastChanged_Achievements": "2023-07-13T09:05:22.7999203+00:00",
   "LastUpdate_AppInfo": "2023-07-13T05:57:07.9382356+00:00",
-  "LastUpdate_Ratings": "2023-07-13T07:57:15.5755427+00:00",
-  "LastUpdate_Achievements": "2023-07-13T08:04:23.271995+00:00"
+  "LastUpdate_Ratings": "2023-07-13T08:57:29.4415315+00:00",
+  "LastUpdate_Achievements": "2023-07-13T09:05:22.7999647+00:00"
 }

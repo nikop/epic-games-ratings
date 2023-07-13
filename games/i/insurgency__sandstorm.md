@@ -6,31 +6,31 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~20,646 |
-| Exploitative | 4.00% | ~16,517 |
-| Point Shooting | 4.00% | ~16,517 |
-| Wet Feet | 4.00% | ~16,517 |
-| High Speed Low Drag | 3.00% | ~12,388 |
-| Lucky | 3.00% | ~12,388 |
-| Stylin' | 3.00% | ~12,388 |
-| Turf War | 3.00% | ~12,388 |
+| Wallbanger | 5.00% | ~20,648 |
+| Exploitative | 4.00% | ~16,518 |
+| Point Shooting | 4.00% | ~16,518 |
+| Wet Feet | 4.00% | ~16,518 |
+| High Speed Low Drag | 3.00% | ~12,389 |
+| Lucky | 3.00% | ~12,389 |
+| Stylin' | 3.00% | ~12,389 |
+| Turf War | 3.00% | ~12,389 |
 | Banged | 2.00% | ~8,259 |
 | Checkpoint Victory | 2.00% | ~8,259 |
 | First Blood | 2.00% | ~8,259 |
 | Flaccid Paralysis | 2.00% | ~8,259 |
 | Push Victory | 2.00% | ~8,259 |
 | Self-destructive | 2.00% | ~8,259 |
-| Blindfire | 1.00% | ~4,129 |
-| Ruthless | 1.00% | ~4,129 |
-| Semper Paratus | 1.00% | ~4,129 |
-| Carrying | 0.90% | ~3,716 |
-| Efficient | 0.90% | ~3,716 |
-| Mount & Gun | 0.90% | ~3,716 |
-| Grounded | 0.80% | ~3,303 |
-| Personal | 0.80% | ~3,303 |
-| Play to Win | 0.80% | ~3,303 |
-| #1 | 0.70% | ~2,890 |
-| Special Delivery | 0.70% | ~2,890 |
+| Blindfire | 1.00% | ~4,130 |
+| Ruthless | 1.00% | ~4,130 |
+| Semper Paratus | 1.00% | ~4,130 |
+| Carrying | 0.90% | ~3,717 |
+| Efficient | 0.90% | ~3,717 |
+| Mount & Gun | 0.90% | ~3,717 |
+| Grounded | 0.80% | ~3,304 |
+| Personal | 0.80% | ~3,304 |
+| Play to Win | 0.80% | ~3,304 |
+| #1 | 0.70% | ~2,891 |
+| Special Delivery | 0.70% | ~2,891 |
 | Firefight Victory | 0.60% | ~2,478 |
 | Cinematic | 0.50% | ~2,065 |
 | Thanks Station! | 0.40% | ~1,652 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~413 |
 | Road Hazard | 0.10% | ~413 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 412,926 (Ranked 39)  
+Progressed: 412,956 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 2 (0.00%) (Ranked 237)
 | 2023-07-10 | 410,865 | 2 |
 | 2023-07-11 | 411,624 | 2 |
 | 2023-07-12 | 412,552 | 2 |
-| 2023-07-13 | 412,926 | 2 |
+| 2023-07-13 | 412,956 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 364  (Ranked 218)  
 Sum: 2,792 (Ranked 169)  

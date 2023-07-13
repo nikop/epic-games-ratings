@@ -172,6 +172,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alterdeep | 0.10% | ~177 |
 | Elder Rune Attack | 0.10% | ~177 |
 | The Gargoyle | 0.10% | ~177 |
+| Ulkoria's Escape from Alterdeep | 0.10% | ~177 |
 | The Wandering Emporium | 0.10% | ~177 |
 | Madcap Adventures Redux | 0.10% | ~177 |
 | When the Going Gets Tough | 0.10% | ~177 |
@@ -254,6 +255,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mimic Vengeance | 0.10% | ~177 |
 | REALLY Frozen Vengeance | 0.10% | ~177 |
 | The Battle of High Hall Tower | 0.10% | ~177 |
+| Might Makes Right | 0.10% | ~177 |
 | The Stunning Tower Battle | 0.10% | ~177 |
 | Elturel's Last Stand | 0.10% | ~177 |
 | Gargauth's Betrayal | 0.10% | ~177 |
@@ -490,9 +492,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Diversity Day-Trip | 0.00% | ~0 |
 | Veteran Brigade | 0.00% | ~0 |
 | Take Five | 0.00% | ~0 |
-| Ulkoria's Escape from Alterdeep | 0.00% | ~0 |
 | A Chilling Encounter | 0.00% | ~0 |
-| Might Makes Right | 0.00% | ~0 |
 | Lost in the Underdark | 0.00% | ~0 |
 | Tekeli-li's Hunt | 0.00% | ~0 |
 | The Court of Storms | 0.00% | ~0 |
@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,763 (Ranked 52)  
+Progressed: 210,770 (Ranked 52)  
 Completed: 2,046 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -598,7 +598,7 @@ Completed: 2,046 (0.97%) (Ranked 102)
 | 2023-07-10 | 209,861 | 2,045 |
 | 2023-07-11 | 210,283 | 2,046 |
 | 2023-07-12 | 210,649 | 2,046 |
-| 2023-07-13 | 210,763 | 2,046 |
+| 2023-07-13 | 210,770 | 2,046 |
 ## Awards
 Max (Diverse Characters): 5,029  (Ranked 66)  
 Sum: 30,493 (Ranked 38)  

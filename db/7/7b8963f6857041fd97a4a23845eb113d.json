@@ -172,17 +172,17 @@
       "ID": "CH2_PLANE",
       "SetID": "6d348d1",
       "Name": "Winds of Change",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 70,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "CH2_SPIDER",
       "SetID": "6d348d1",
       "Name": "A Light in the Darkness",
-      "Percentage": 9,
+      "Percentage": 13,
       "XP": 70,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "CH2_UNDERGROUND",
@@ -259,8 +259,8 @@
   ],
   "FirstSeen": "2023-06-15T16:57:07.6621394+00:00",
   "FirstSeenAchievements": "2023-06-01T12:01:12.0964223+00:00",
-  "LastChanged_Achievements": "2023-07-13T08:03:43.1859196+00:00",
+  "LastChanged_Achievements": "2023-07-13T09:04:38.4044223+00:00",
   "LastUpdate_AppInfo": "2023-07-06T15:57:02.5853892+00:00",
-  "LastUpdate_Ratings": "2023-07-13T07:57:10.8880035+00:00",
-  "LastUpdate_Achievements": "2023-07-13T08:03:43.1859309+00:00"
+  "LastUpdate_Ratings": "2023-07-13T08:57:22.4877374+00:00",
+  "LastUpdate_Achievements": "2023-07-13T09:04:38.4044355+00:00"
 }

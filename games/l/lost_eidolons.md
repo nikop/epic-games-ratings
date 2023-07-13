@@ -18,8 +18,8 @@ Rating: 4.33 (Ranked 756)
 | Digging Deep | 13.00% | ~135 |
 | Broken Oath | 8.00% | ~83 |
 | Way of the King | 7.00% | ~73 |
+| Way of the Warlord | 4.00% | ~42 |
 | Til We Meet Again | 4.00% | ~42 |
-| Way of the Warlord | 3.00% | ~31 |
 | Arrow in the Wind | 3.00% | ~31 |
 | The Unvanquished | 2.00% | ~21 |
 | Let Us Cling Together | 2.00% | ~21 |

@@ -5461,10 +5461,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 13712,
       "NumberOfAwardsMax": 6782
+    },
+    {
+      "Time": "2023-07-13T09:01:09.4330867+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 13715,
+      "NumberOfAwardsMax": 6782
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13712,
+  "NumberOfAwards": 13715,
   "NumberOfAwardsMax": 6782,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5502,7 +5508,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 775
+      "Count": 778
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5541,9 +5547,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 55622,
+  "EOS_Progressed": 55623,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 508,
+  "EOS_NewPlayers": 505,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14206,6 +14212,11 @@
       "Time": "2023-07-13T08:06:21.7113307+00:00",
       "NumProgressed": 55622,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-13T09:08:03.9357577+00:00",
+      "NumProgressed": 55623,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -14217,7 +14228,7 @@
       "Name": "Against all odds",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6118
+      "UsersEstimate": 6119
     },
     {
       "ID": "Apple of my eye",
@@ -14449,7 +14460,7 @@
       "Name": "Lawbringer",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 20580
+      "UsersEstimate": 20581
     },
     {
       "ID": "Lawmaker",
@@ -14624,15 +14635,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 55622,
+      "Progressed": 55623,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-07-13T00:01:00.668187+00:00",
-  "LastChanged_Achievements": "2023-07-13T08:06:21.7113304+00:00",
+  "LastChanged": "2023-07-13T09:01:09.4330865+00:00",
+  "LastChanged_Achievements": "2023-07-13T09:08:03.9357568+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:03.335469+00:00",
-  "LastUpdate_Ratings": "2023-07-13T07:59:44.7702521+00:00",
-  "LastUpdate_Achievements": "2023-07-13T08:06:21.7114233+00:00"
+  "LastUpdate_Ratings": "2023-07-13T09:01:09.4330872+00:00",
+  "LastUpdate_Achievements": "2023-07-13T09:08:03.9358694+00:00"
 }

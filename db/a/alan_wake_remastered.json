@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57269,
+  "EOS_Progressed": 57270,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 371,
+  "EOS_NewPlayers": 369,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7807,6 +7807,11 @@
       "Time": "2023-07-13T08:03:36.4562898+00:00",
       "NumProgressed": 57269,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-13T09:04:28.8870965+00:00",
+      "NumProgressed": 57270,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7818,7 +7823,7 @@
       "Name": "Follow the Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 19471
+      "UsersEstimate": 19472
     },
     {
       "ID": "02",
@@ -7826,7 +7831,7 @@
       "Name": "Nordic Walking",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 12026
+      "UsersEstimate": 12027
     },
     {
       "ID": "03",
@@ -7850,7 +7855,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10308
+      "UsersEstimate": 10309
     },
     {
       "ID": "06",
@@ -7914,7 +7919,7 @@
       "Name": "Drink \u0027Em Both Up",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2863
+      "UsersEstimate": 2864
     },
     {
       "ID": "14",
@@ -7954,7 +7959,7 @@
       "Name": "Hardboiled Writer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2863
+      "UsersEstimate": 2864
     },
     {
       "ID": "19",
@@ -8353,21 +8358,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57269,
+      "Progressed": 57270,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20737,
+      "Progressed": 20738,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-13T08:03:36.4562895+00:00",
+  "LastChanged_Achievements": "2023-07-13T09:04:28.887096+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:08.3646753+00:00",
-  "LastUpdate_Ratings": "2023-07-13T07:57:51.1251514+00:00",
-  "LastUpdate_Achievements": "2023-07-13T08:03:36.4563977+00:00"
+  "LastUpdate_Ratings": "2023-07-13T08:58:21.4196346+00:00",
+  "LastUpdate_Achievements": "2023-07-13T09:04:28.8872264+00:00"
 }
