@@ -14,13 +14,13 @@ Rating: 4.87 (Ranked 24)
 | You got this, Peppermint? | 1.00% | ~34 |
 | Z-shielding's got nothing on us! | 1.00% | ~34 |
 | Perfect Parry | 1.00% | ~34 |
+| Uh, they were broken when I got here | 1.00% | ~34 |
 | Kissing the sky! | 1.00% | ~34 |
 | Who put gears in there? | 1.00% | ~34 |
 | Alright, that felt AWESOME! | 1.00% | ~34 |
 | NOW we got a kickass hideout! | 1.00% | ~20 |
 | Headliner | 0.90% | ~31 |
 | Out in a puff of smoke | 0.90% | ~31 |
-| Uh, they were broken when I got here | 0.90% | ~31 |
 | Start with a bang! | 0.80% | ~28 |
 | Time to pay up! | 0.80% | ~28 |
 | Who's the boss now? | 0.80% | ~28 |
@@ -35,9 +35,9 @@ Rating: 4.87 (Ranked 24)
 | There's such a thing as TOO helpful | 0.50% | ~17 |
 | Does that say weakpoint? | 0.50% | ~17 |
 | Call me Turbo Chai | 0.50% | ~10 |
+| Beat-hit mania | 0.40% | ~14 |
 | New bad guys? No problem! | 0.40% | ~8 |
 | Chip-tuned | 0.30% | ~10 |
-| Beat-hit mania | 0.30% | ~10 |
 | Wanna hear my playlist? | 0.30% | ~10 |
 | I think I deserve some praise, here! | 0.20% | ~7 |
 | I think I found your calling, Macaron | 0.20% | ~7 |

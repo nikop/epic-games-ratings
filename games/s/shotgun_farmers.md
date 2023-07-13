@@ -37,9 +37,9 @@
 | Expert Survivor | 7.00% | ~11 |
 | Pyromaniac | 6.00% | ~9 |
 | Quadsparagus | 6.00% | ~9 |
+| Chick Magnet | 4.00% | ~8 |
 | Early Bird | 4.00% | ~8 |
 | Master Survivor | 4.00% | ~6 |
-| Chick Magnet | 3.00% | ~6 |
 | Heart Breaker | 3.00% | ~5 |
 | I Have The High Ground | 2.00% | ~4 |
 | Easy Peasy | 2.00% | ~3 |

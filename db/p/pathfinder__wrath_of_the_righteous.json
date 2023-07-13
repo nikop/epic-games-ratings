@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 112,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3098,9 +3098,9 @@
       "Count": 381
     }
   ],
-  "EOS_Progressed": 10285,
+  "EOS_Progressed": 10288,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8283,6 +8283,11 @@
       "Time": "2023-07-13T12:03:53.663396+00:00",
       "NumProgressed": 10285,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-13T13:21:47.6811848+00:00",
+      "NumProgressed": 10288,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -8294,7 +8299,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2057
+      "UsersEstimate": 2058
     },
     {
       "ID": "02_BurningCity",
@@ -8310,7 +8315,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1132
     },
     {
       "ID": "04_FithCrusade",
@@ -8366,7 +8371,7 @@
       "Name": "Path of the Azata",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "11_PathOfAeon",
@@ -8422,7 +8427,7 @@
       "Name": "Transformation",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "18_MythicChoices",
@@ -8430,7 +8435,7 @@
       "Name": "Mythic Choices",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1132
     },
     {
       "ID": "19_EqualToAroden",
@@ -8502,7 +8507,7 @@
       "Name": "Great Upstart",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "29_StrategicVictory",
@@ -8542,7 +8547,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1235
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -8638,7 +8643,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "46_AllPathsOpen",
@@ -8646,7 +8651,7 @@
       "Name": "All Paths Open",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -9221,21 +9226,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9067,
+      "Progressed": 9070,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10285,
+      "Progressed": 10288,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-12T20:58:48.3829729+00:00",
-  "LastChanged_Achievements": "2023-07-13T12:03:53.6633953+00:00",
+  "LastChanged_Achievements": "2023-07-13T13:21:47.6811824+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:12.7052521+00:00",
-  "LastUpdate_Ratings": "2023-07-13T11:58:42.868891+00:00",
-  "LastUpdate_Achievements": "2023-07-13T12:03:53.6636859+00:00"
+  "LastUpdate_Ratings": "2023-07-13T13:16:42.1247266+00:00",
+  "LastUpdate_Achievements": "2023-07-13T13:21:47.681428+00:00"
 }

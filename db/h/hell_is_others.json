@@ -2,7 +2,7 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 653,
+  "Ranking_Rating": 654,
   "Ranking_Popularity": 447,
   "Ranking_PopularitySum": 374,
   "Ranking_EOS_Progress": 42,
@@ -664,9 +664,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 252914,
+  "EOS_Progressed": 252917,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 400,
+  "EOS_NewPlayers": 401,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9184,6 +9184,11 @@
       "Time": "2023-07-13T12:05:04.1422558+00:00",
       "NumProgressed": 252914,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-13T13:23:14.6697525+00:00",
+      "NumProgressed": 252917,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 56,
@@ -9243,7 +9248,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78403
+      "UsersEstimate": 78404
     },
     {
       "ID": "BackHomeNTimes",
@@ -9299,7 +9304,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25291
+      "UsersEstimate": 25292
     },
     {
       "ID": "CreditLevel2",
@@ -9427,7 +9432,7 @@
       "Name": "Interior designer",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1517
+      "UsersEstimate": 1518
     },
     {
       "ID": "KillCrawlingThing",
@@ -9467,7 +9472,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7587
+      "UsersEstimate": 7588
     },
     {
       "ID": "KillOtherWithMine",
@@ -9483,7 +9488,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55641
+      "UsersEstimate": 55642
     },
     {
       "ID": "KillOthers2",
@@ -9587,7 +9592,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25291
+      "UsersEstimate": 25292
     },
     {
       "ID": "ReachNDays2",
@@ -9642,7 +9647,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 252914,
+      "Progressed": 252917,
       "Completed": 2
     }
   ],
@@ -9650,8 +9655,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-07-06T21:01:42.966299+00:00",
-  "LastChanged_Achievements": "2023-07-13T12:05:04.1422553+00:00",
+  "LastChanged_Achievements": "2023-07-13T13:23:14.6697519+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:46.8796395+00:00",
-  "LastUpdate_Ratings": "2023-07-13T12:00:19.2870151+00:00",
-  "LastUpdate_Achievements": "2023-07-13T12:05:04.1423345+00:00"
+  "LastUpdate_Ratings": "2023-07-13T13:18:41.4655248+00:00",
+  "LastUpdate_Achievements": "2023-07-13T13:23:14.6698567+00:00"
 }

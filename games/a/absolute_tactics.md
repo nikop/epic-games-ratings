@@ -10,13 +10,13 @@
 | Beating the Bushes | 25.00% | ~1 |
 | The Blood of Mercy | 25.00% | ~1 |
 | The Heart of Mercy | 25.00% | ~1 |
+| It's a Party | 25.00% | ~1 |
 | Eye for an Eye | 0.00% | ~0 |
 | Bloody Vengeance | 0.00% | ~0 |
 | Glorious Loot | 0.00% | ~0 |
 | Good Fortune | 0.00% | ~0 |
 | The Soul of Mercy | 0.00% | ~0 |
 | Victorious | 0.00% | ~0 |
-| It's a Party | 0.00% | ~0 |
 | Heroes of Neu Selea | 0.00% | ~0 |
 | Eternal Darkness | 0.00% | ~0 |
 | Real Ultimate Power | 0.00% | ~0 |

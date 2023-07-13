@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -946,7 +946,7 @@
   ],
   "EOS_Progressed": 15703,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -5648,9 +5648,9 @@
       "ID": "FIND_ALL_BIOS",
       "SetID": "4hj6d86",
       "Name": "Grim Reaper",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 47
+      "UsersEstimate": 63
     },
     {
       "ID": "FINISH_CONTAGION",
@@ -5832,9 +5832,9 @@
       "ID": "STORY_MINETOWN",
       "SetID": "4hj6d86",
       "Name": "What Lies Beneath",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 314
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -5999,8 +5999,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-07-13T11:58:18.8161573+00:00",
-  "LastChanged_Achievements": "2023-07-13T12:05:37.0509408+00:00",
+  "LastChanged_Achievements": "2023-07-13T13:23:55.9969351+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:30.5014032+00:00",
-  "LastUpdate_Ratings": "2023-07-13T11:58:18.8161579+00:00",
-  "LastUpdate_Achievements": "2023-07-13T12:05:37.0510268+00:00"
+  "LastUpdate_Ratings": "2023-07-13T13:16:12.2817175+00:00",
+  "LastUpdate_Achievements": "2023-07-13T13:23:55.9969961+00:00"
 }

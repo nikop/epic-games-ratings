@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -1179,9 +1179,9 @@
       "ID": "send-smuggling",
       "SetID": "bed33dd",
       "Name": "Camellos",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 246
+      "UsersEstimate": 251
     },
     {
       "ID": "unlock-residences",
@@ -1219,8 +1219,8 @@
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-07-13T12:06:10.8279966+00:00",
+  "LastChanged_Achievements": "2023-07-13T13:24:37.3698813+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:37.7069167+00:00",
-  "LastUpdate_Ratings": "2023-07-13T12:00:13.5363578+00:00",
-  "LastUpdate_Achievements": "2023-07-13T12:06:10.8280254+00:00"
+  "LastUpdate_Ratings": "2023-07-13T13:18:35.3172932+00:00",
+  "LastUpdate_Achievements": "2023-07-13T13:24:37.3698969+00:00"
 }

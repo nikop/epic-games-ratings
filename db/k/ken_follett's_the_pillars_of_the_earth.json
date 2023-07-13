@@ -489,7 +489,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13869,
+  "EOS_Progressed": 13870,
   "EOS_Completed": 105,
   "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 1,
@@ -5984,6 +5984,11 @@
       "Time": "2023-07-13T12:00:37.2084409+00:00",
       "NumProgressed": 13869,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2023-07-13T13:19:09.6231467+00:00",
+      "NumProgressed": 13870,
+      "NumCompleted": 105
     }
   ],
   "TotalAchievements": 41,
@@ -6019,7 +6024,7 @@
       "Name": "Staring contest champion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "tpote_achievement_13",
@@ -6027,7 +6032,7 @@
       "Name": "Lone wolf",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "tpote_achievement_14",
@@ -6035,7 +6040,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4715
+      "UsersEstimate": 4716
     },
     {
       "ID": "tpote_achievement_15",
@@ -6083,7 +6088,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4715
+      "UsersEstimate": 4716
     },
     {
       "ID": "tpote_achievement_20",
@@ -6099,7 +6104,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 4299
+      "UsersEstimate": 4300
     },
     {
       "ID": "tpote_achievement_22",
@@ -6147,7 +6152,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2496
+      "UsersEstimate": 2497
     },
     {
       "ID": "tpote_achievement_28",
@@ -6187,7 +6192,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2496
+      "UsersEstimate": 2497
     },
     {
       "ID": "tpote_achievement_32",
@@ -6235,7 +6240,7 @@
       "Name": "Vox Populi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "tpote_achievement_38",
@@ -6259,7 +6264,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 5686
+      "UsersEstimate": 5687
     },
     {
       "ID": "tpote_achievement_40",
@@ -6322,15 +6327,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13869,
+      "Progressed": 13870,
       "Completed": 105
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-13T12:00:37.2084397+00:00",
+  "LastChanged_Achievements": "2023-07-13T13:19:09.6231461+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:22.7316946+00:00",
-  "LastUpdate_Ratings": "2023-07-13T12:00:04.7029392+00:00",
-  "LastUpdate_Achievements": "2023-07-13T12:00:37.2085923+00:00"
+  "LastUpdate_Ratings": "2023-07-13T13:18:23.4391429+00:00",
+  "LastUpdate_Achievements": "2023-07-13T13:19:09.6232056+00:00"
 }

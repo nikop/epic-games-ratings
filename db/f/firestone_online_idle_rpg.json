@@ -164,9 +164,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1624,
+  "EOS_Progressed": 1625,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4079,6 +4079,11 @@
       "Time": "2023-07-13T12:06:14.3186084+00:00",
       "NumProgressed": 1624,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-13T13:24:41.2740669+00:00",
+      "NumProgressed": 1625,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -4170,7 +4175,7 @@
       "Name": "Crystal Mining",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "dailyquestcompletionist",
@@ -4202,7 +4207,7 @@
       "Name": "Dragon Master",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "dragonslayer",
@@ -4226,7 +4231,7 @@
       "Name": "Enchanting skill",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "enchantingskillx5",
@@ -4258,7 +4263,7 @@
       "Name": "Enlightenment",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "exoticmerchant",
@@ -4338,7 +4343,7 @@
       "Name": "Hero inspection",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "howdoyouturnthison",
@@ -4346,7 +4351,7 @@
       "Name": "How Do You Turn This On?",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "hunter",
@@ -4386,7 +4391,7 @@
       "Name": "Lieutenant",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "lockandload",
@@ -4464,9 +4469,9 @@
       "ID": "naturaltalent",
       "SetID": "3nl4bcg",
       "Name": "Natural Talent",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 195
     },
     {
       "ID": "pokerface",
@@ -4536,9 +4541,9 @@
       "ID": "superior",
       "SetID": "3nl4bcg",
       "Name": "Superior",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 195
     },
     {
       "ID": "templeofeternals",
@@ -4546,7 +4551,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 909
+      "UsersEstimate": 910
     },
     {
       "ID": "thealchemist",
@@ -4650,7 +4655,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1510
+      "UsersEstimate": 1511
     },
     {
       "ID": "warmachinesarmy",
@@ -4666,7 +4671,7 @@
       "Name": "Weekly Quest Completionist",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "whatliesbehindthebush",
@@ -4682,14 +4687,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1283
+      "UsersEstimate": 1284
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1624,
+      "Progressed": 1625,
       "Completed": 1
     }
   ],
@@ -4697,8 +4702,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-07-11T02:15:28.7878959+00:00",
-  "LastChanged_Achievements": "2023-07-13T12:06:14.3186078+00:00",
+  "LastChanged_Achievements": "2023-07-13T13:24:41.2740663+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:35.1051404+00:00",
-  "LastUpdate_Ratings": "2023-07-13T11:58:19.1868413+00:00",
-  "LastUpdate_Achievements": "2023-07-13T12:06:14.3187255+00:00"
+  "LastUpdate_Ratings": "2023-07-13T13:16:14.3507033+00:00",
+  "LastUpdate_Achievements": "2023-07-13T13:24:41.2741591+00:00"
 }

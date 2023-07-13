@@ -5,9 +5,9 @@ Rating: 4.11 (Ranked 887)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,510 |
-| World Map | 79.00% | ~1,283 |
-| Temple of Eternals | 56.00% | ~909 |
+| Victor | 93.00% | ~1,511 |
+| World Map | 79.00% | ~1,284 |
+| Temple of Eternals | 56.00% | ~910 |
 | Prestigious | 53.00% | ~861 |
 | Fellowship Power | 41.00% | ~666 |
 | Guild Power | 24.00% | ~390 |
@@ -18,14 +18,14 @@ Rating: 4.11 (Ranked 887)
 | Miner Clicker | 16.00% | ~260 |
 | Full Party | 15.00% | ~244 |
 | Inspection | 15.00% | ~244 |
-| Dragon Master | 14.00% | ~227 |
-| Enlightenment | 14.00% | ~227 |
-| Hero inspection | 14.00% | ~227 |
-| Lieutenant | 14.00% | ~227 |
-| Natural Talent | 13.00% | ~211 |
-| Superior | 13.00% | ~211 |
+| Dragon Master | 14.00% | ~228 |
+| Enlightenment | 14.00% | ~228 |
+| Hero inspection | 14.00% | ~228 |
+| Lieutenant | 14.00% | ~228 |
 | The Unstoppable | 13.00% | ~211 |
 | Mysterious Rock | 12.00% | ~195 |
+| Natural Talent | 12.00% | ~195 |
+| Superior | 12.00% | ~195 |
 | Milestone collector | 11.00% | ~179 |
 | Scientist | 11.00% | ~179 |
 | Challenger | 10.00% | ~162 |
@@ -44,10 +44,10 @@ Rating: 4.11 (Ranked 887)
 | The Expeditioner | 7.00% | ~114 |
 | The father of Dragons | 7.00% | ~114 |
 | Trader | 7.00% | ~114 |
-| Crystal Mining | 6.00% | ~97 |
-| Enchanting skill | 6.00% | ~97 |
-| How Do You Turn This On? | 6.00% | ~97 |
-| Weekly Quest Completionist | 6.00% | ~97 |
+| Crystal Mining | 6.00% | ~98 |
+| Enchanting skill | 6.00% | ~98 |
+| How Do You Turn This On? | 6.00% | ~98 |
+| Weekly Quest Completionist | 6.00% | ~98 |
 | Ancient Knowledge | 5.00% | ~81 |
 | Blueprint Upgrades | 5.00% | ~81 |
 | Dragon Slayer | 5.00% | ~81 |
@@ -81,7 +81,7 @@ Rating: 4.11 (Ranked 887)
 | War Machines Army | 0.20% | ~3 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,624 (Ranked 168)  
+Progressed: 1,625 (Ranked 168)  
 Completed: 1 (0.06%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 1 (0.06%) (Ranked 198)
 | 2023-07-10 | 1,611 | 1 |
 | 2023-07-11 | 1,617 | 1 |
 | 2023-07-12 | 1,620 | 1 |
-| 2023-07-13 | 1,624 | 1 |
+| 2023-07-13 | 1,625 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

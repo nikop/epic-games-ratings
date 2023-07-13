@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2433,
+  "EOS_Progressed": 2434,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -2974,6 +2974,11 @@
       "Time": "2023-07-13T03:28:30.8418654+00:00",
       "NumProgressed": 2433,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-13T13:19:13.99787+00:00",
+      "NumProgressed": 2434,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -3033,7 +3038,7 @@
       "Name": "Elemental master",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -3049,7 +3054,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2336
+      "UsersEstimate": 2337
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -3065,7 +3070,7 @@
       "Name": "Everfrost",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 1898
+      "UsersEstimate": 1899
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -3161,7 +3166,7 @@
       "Name": "Pentakill",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1873
+      "UsersEstimate": 1874
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -3169,7 +3174,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2238
+      "UsersEstimate": 2239
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -3201,7 +3206,7 @@
       "Name": "Dark Forest",
       "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 1873
+      "UsersEstimate": 1874
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -3225,7 +3230,7 @@
       "Name": "Devineur",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -3289,7 +3294,7 @@
       "Name": "You can pet the dog",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 1484
+      "UsersEstimate": 1485
     },
     {
       "ID": "STB_PET_HORSE",
@@ -3321,7 +3326,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -3361,7 +3366,7 @@
       "Name": "The use of petricite",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 1800
+      "UsersEstimate": 1801
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -3408,7 +3413,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2433,
+      "Progressed": 2434,
       "Completed": 4
     }
   ],
@@ -3416,8 +3421,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-07-07T20:57:43.6161991+00:00",
-  "LastChanged_Achievements": "2023-07-13T12:00:40.6706653+00:00",
+  "LastChanged_Achievements": "2023-07-13T13:19:13.9978695+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:00.9514452+00:00",
-  "LastUpdate_Ratings": "2023-07-13T11:57:56.2563616+00:00",
-  "LastUpdate_Achievements": "2023-07-13T12:00:40.6707865+00:00"
+  "LastUpdate_Ratings": "2023-07-13T13:15:46.4049641+00:00",
+  "LastUpdate_Achievements": "2023-07-13T13:19:13.9979354+00:00"
 }
