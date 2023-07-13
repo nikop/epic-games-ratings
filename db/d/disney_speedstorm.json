@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2941,
+  "EOS_Progressed": 2942,
   "EOS_Completed": 97,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 3.3,
   "EosHistory": [
@@ -3420,6 +3420,11 @@
       "Time": "2023-07-13T16:06:01.9660387+00:00",
       "NumProgressed": 2941,
       "NumCompleted": 97
+    },
+    {
+      "Time": "2023-07-13T17:05:30.8194405+00:00",
+      "NumProgressed": 2942,
+      "NumCompleted": 97
     }
   ],
   "TotalAchievements": 24,
@@ -3551,7 +3556,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "24",
@@ -3559,7 +3564,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "3",
@@ -3575,7 +3580,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 30,
       "XP": 80,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "5",
@@ -3622,13 +3627,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2941,
+      "Progressed": 2942,
       "Completed": 97
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-07-13T16:06:01.9660381+00:00",
+  "LastChanged_Achievements": "2023-07-13T17:05:30.8194398+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:58.7714419+00:00",
-  "LastUpdate_Ratings": "2023-07-13T16:00:00.9284847+00:00",
-  "LastUpdate_Achievements": "2023-07-13T16:06:01.9660657+00:00"
+  "LastUpdate_Ratings": "2023-07-13T16:59:28.35209+00:00",
+  "LastUpdate_Achievements": "2023-07-13T17:05:30.8194771+00:00"
 }

@@ -4936,9 +4936,9 @@
       "Count": 3297
     }
   ],
-  "EOS_Progressed": 210916,
+  "EOS_Progressed": 210942,
   "EOS_Completed": 2046,
-  "EOS_NewPlayers": 3669,
+  "EOS_NewPlayers": 3657,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -13886,6 +13886,11 @@
       "Time": "2023-07-13T16:05:30.2238697+00:00",
       "NumProgressed": 210916,
       "NumCompleted": 2046
+    },
+    {
+      "Time": "2023-07-13T17:05:05.3502825+00:00",
+      "NumProgressed": 210942,
+      "NumCompleted": 2046
     }
   ],
   "TotalAchievements": 507,
@@ -17415,9 +17420,9 @@
       "ID": "objective_completed_854",
       "SetID": "415jc5c",
       "Name": "A Chilling Encounter",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_855",
@@ -17952,21 +17957,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 177190,
+      "Progressed": 177216,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 210916,
+      "Progressed": 210942,
       "Completed": 2046
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-13T11:58:24.8366724+00:00",
-  "LastChanged_Achievements": "2023-07-13T16:05:30.2238692+00:00",
+  "LastChanged_Achievements": "2023-07-13T17:05:05.3502818+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:43.9043947+00:00",
-  "LastUpdate_Ratings": "2023-07-13T15:59:00.1216192+00:00",
-  "LastUpdate_Achievements": "2023-07-13T16:05:30.2262532+00:00"
+  "LastUpdate_Ratings": "2023-07-13T16:58:41.6325418+00:00",
+  "LastUpdate_Achievements": "2023-07-13T17:05:05.3528847+00:00"
 }

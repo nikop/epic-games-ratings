@@ -1,7 +1,7 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.49 (Ranked 575)  
+Rating: 4.49 (Ranked 576)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -34,7 +34,7 @@ Rating: 4.49 (Ranked 575)
 | Skilled | 24.00% | ~5,808 |
 | Collector | 23.00% | ~5,566 |
 | Ectoplasmic Entity | 23.00% | ~5,566 |
-| Rift Destroyer | 19.00% | ~4,598 |
+| Rift Destroyer | 20.00% | ~4,840 |
 | Terrifying | 18.00% | ~4,356 |
 | Tobin's Prodigy | 18.00% | ~4,356 |
 | Reckless | 17.00% | ~4,114 |

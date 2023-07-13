@@ -11,7 +11,8 @@
     "PcReleaseDate": null,
     "isBlockchainUsed": false,
     "CustomAttributes": {
-      "com.epicgames.app.blacklist": "[]"
+      "com.epicgames.app.blacklist": "[]",
+      "catalogItemAgeGatings": "true"
     }
   },
   "RatingHistory": [],
@@ -28,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-13T15:57:18.5565921+00:00",
-  "LastUpdate_Ratings": "2023-07-13T16:00:46.9293866+00:00",
-  "LastUpdate_Achievements": "2023-07-13T16:05:52.1933227+00:00"
+  "LastUpdate_Ratings": "2023-07-13T17:00:08.6430581+00:00",
+  "LastUpdate_Achievements": "2023-07-13T17:05:22.9820663+00:00"
 }

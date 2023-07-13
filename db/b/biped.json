@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4142,
+  "EOS_Progressed": 4143,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 305,
+  "EOS_NewPlayers": 303,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6086,6 +6086,11 @@
       "Time": "2023-07-13T16:07:19.3732757+00:00",
       "NumProgressed": 4142,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-13T17:06:25.1210847+00:00",
+      "NumProgressed": 4143,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -6153,7 +6158,7 @@
       "Name": "Dense Forest",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1325
+      "UsersEstimate": 1326
     },
     {
       "ID": "3",
@@ -6199,9 +6204,9 @@
       "ID": "8",
       "SetID": "1dkhij4",
       "Name": "Sunset Ridge",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 166
+      "UsersEstimate": 124
     },
     {
       "ID": "9",
@@ -6216,7 +6221,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 4142,
+      "Progressed": 4143,
       "Completed": 0
     }
   ],
@@ -6224,8 +6229,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-07-13T16:07:19.3732752+00:00",
+  "LastChanged_Achievements": "2023-07-13T17:06:25.121084+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:39.9836246+00:00",
-  "LastUpdate_Ratings": "2023-07-13T15:58:52.7378147+00:00",
-  "LastUpdate_Achievements": "2023-07-13T16:07:19.3733112+00:00"
+  "LastUpdate_Ratings": "2023-07-13T16:58:36.4516799+00:00",
+  "LastUpdate_Achievements": "2023-07-13T17:06:25.121134+00:00"
 }

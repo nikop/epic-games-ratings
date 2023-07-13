@@ -7,19 +7,19 @@ Rating: 4.62 (Ranked 346)
 | ---- | ---------- | ----- |
 | Secret Technique | 4.00% | ~199 |
 | Tipping the Scales | 4.00% | ~199 |
-| Realm Estate | 3.00% | ~149 |
-| A Wonderful Discovery | 3.00% | ~149 |
-| Walls Cannot Stop Us | 3.00% | ~149 |
-| Bone Peddler | 3.00% | ~149 |
-| From Friends to Family | 3.00% | ~149 |
-| Stronger Together | 3.00% | ~149 |
-| Magical Synergy | 3.00% | ~149 |
-| My Final Form | 3.00% | ~149 |
-| Seat of Power | 3.00% | ~149 |
-| Intimidation Tactics | 3.00% | ~149 |
-| Here be Dragons | 3.00% | ~149 |
-| Blood of the Dragon | 3.00% | ~149 |
-| Mighty Hoard | 3.00% | ~149 |
+| Realm Estate | 3.00% | ~150 |
+| A Wonderful Discovery | 3.00% | ~150 |
+| Walls Cannot Stop Us | 3.00% | ~150 |
+| Bone Peddler | 3.00% | ~150 |
+| From Friends to Family | 3.00% | ~150 |
+| Stronger Together | 3.00% | ~150 |
+| Magical Synergy | 3.00% | ~150 |
+| My Final Form | 3.00% | ~150 |
+| Seat of Power | 3.00% | ~150 |
+| Intimidation Tactics | 3.00% | ~150 |
+| Here be Dragons | 3.00% | ~150 |
+| Blood of the Dragon | 3.00% | ~150 |
+| Mighty Hoard | 3.00% | ~150 |
 | Valley of Wonders | 2.00% | ~100 |
 | There Can Only Be One! | 2.00% | ~100 |
 | Full Ascension | 2.00% | ~100 |
@@ -56,7 +56,7 @@ Rating: 4.62 (Ranked 346)
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,983 (Ranked 136)  
+Progressed: 4,984 (Ranked 136)  
 Completed: 5 (0.10%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 5 (0.10%) (Ranked 182)
 | 2023-07-10 | 4,964 | 5 |
 | 2023-07-11 | 4,972 | 5 |
 | 2023-07-12 | 4,977 | 5 |
-| 2023-07-13 | 4,983 | 5 |
+| 2023-07-13 | 4,984 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

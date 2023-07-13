@@ -6,18 +6,18 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 34.00% | ~19,475 |
+| Follow the Light | 34.00% | ~19,476 |
 | Let There Be Light | 27.00% | ~15,466 |
 | Float Like a Butterfly | 26.00% | ~14,893 |
 | Nordic Walking | 21.00% | ~12,029 |
 | Bright Falls' Finest | 20.00% | ~11,456 |
-| Under a Thin Layer of Skin | 18.00% | ~10,310 |
+| Under a Thin Layer of Skin | 18.00% | ~10,311 |
 | Park Ranger | 15.00% | ~8,592 |
 | Paging Mr. Wake | 15.00% | ~8,592 |
 | Back! Back, I Say! | 14.00% | ~8,019 |
 | Finders Keepers | 14.00% | ~8,019 |
-| Sound and Fury | 13.00% | ~7,446 |
-| Damn Good Cup of Coffee | 13.00% | ~7,446 |
+| Sound and Fury | 13.00% | ~7,447 |
+| Damn Good Cup of Coffee | 13.00% | ~7,447 |
 | Wheels Within Wheels | 12.00% | ~6,874 |
 | They're Heeeeeere! | 12.00% | ~6,874 |
 | Missed by a Mile | 12.00% | ~6,874 |
@@ -33,7 +33,7 @@ Number of Ratings: 524  (23.09.2022)
 | The Lady of the Light | 9.00% | ~5,155 |
 | Two For the Price of One | 9.00% | ~5,155 |
 | Energized! | 9.00% | ~5,155 |
-| Right of Way | 8.00% | ~4,582 |
+| Right of Way | 8.00% | ~4,583 |
 | A Friend in Need | 8.00% | ~1,660 |
 | Tornado Wrangler | 7.00% | ~4,010 |
 | What Light Through Yonder Window | 7.00% | ~4,010 |
@@ -41,7 +41,7 @@ Number of Ratings: 524  (23.09.2022)
 | A Friend Indeed | 6.00% | ~1,245 |
 | Drink 'Em Both Up | 5.00% | ~2,864 |
 | Hardboiled Writer | 5.00% | ~2,864 |
-| Ding! | 5.00% | ~1,037 |
+| Ding! | 5.00% | ~1,038 |
 | Boob Tube | 4.00% | ~2,291 |
 | Children of the Elder God | 4.00% | ~2,291 |
 | If It Flies, It Burns | 4.00% | ~2,291 |
@@ -54,7 +54,7 @@ Number of Ratings: 524  (23.09.2022)
 | An Idyllic Small Town | 2.00% | ~1,146 |
 | Iron Will | 2.00% | ~415 |
 | Couch Potato | 1.00% | ~573 |
-| Go Gentle Into That Good Light | 1.00% | ~207 |
+| Go Gentle Into That Good Light | 1.00% | ~208 |
 | Words Will Never Harm You | 0.60% | ~124 |
 | Cardboard Companions | 0.60% | ~124 |
 | Fast and Furious | 0.50% | ~104 |
@@ -68,13 +68,13 @@ Number of Ratings: 524  (23.09.2022)
 | Gunless Wonder | 0.20% | ~115 |
 | Every Nook and Cranny | 0.20% | ~115 |
 | Bright Falls Aficionado | 0.20% | ~115 |
-| Tick Tock | 0.20% | ~41 |
-| Licensed Properties | 0.20% | ~41 |
+| Tick Tock | 0.20% | ~42 |
+| Licensed Properties | 0.20% | ~42 |
 | Collector's Edition | 0.10% | ~57 |
 | Hypercaffeinated | 0.10% | ~57 |
 | No Punctuation | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,280 (Ranked 81)  
+Progressed: 57,282 (Ranked 81)  
 Completed: 57 (0.10%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 57 (0.10%) (Ranked 182)
 | 2023-07-10 | 57,171 | 57 |
 | 2023-07-11 | 57,220 | 57 |
 | 2023-07-12 | 57,261 | 57 |
-| 2023-07-13 | 57,280 | 57 |
+| 2023-07-13 | 57,282 | 57 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

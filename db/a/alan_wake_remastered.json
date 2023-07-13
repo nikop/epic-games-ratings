@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57280,
+  "EOS_Progressed": 57282,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 366,
+  "EOS_NewPlayers": 365,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7837,6 +7837,11 @@
       "Time": "2023-07-13T16:04:20.5287151+00:00",
       "NumProgressed": 57280,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-13T17:04:10.2462696+00:00",
+      "NumProgressed": 57282,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7848,7 +7853,7 @@
       "Name": "Follow the Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 19475
+      "UsersEstimate": 19476
     },
     {
       "ID": "02",
@@ -7880,7 +7885,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10310
+      "UsersEstimate": 10311
     },
     {
       "ID": "06",
@@ -8072,7 +8077,7 @@
       "Name": "Sound and Fury",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7446
+      "UsersEstimate": 7447
     },
     {
       "ID": "30",
@@ -8160,7 +8165,7 @@
       "Name": "Right of Way",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4582
+      "UsersEstimate": 4583
     },
     {
       "ID": "41",
@@ -8208,7 +8213,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 7446
+      "UsersEstimate": 7447
     },
     {
       "ID": "47",
@@ -8296,7 +8301,7 @@
       "Name": "Tick Tock",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "58",
@@ -8312,7 +8317,7 @@
       "Name": "Ding!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1038
     },
     {
       "ID": "60",
@@ -8328,7 +8333,7 @@
       "Name": "Go Gentle Into That Good Light",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "62",
@@ -8360,7 +8365,7 @@
       "Name": "Licensed Properties",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "66",
@@ -8383,21 +8388,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57280,
+      "Progressed": 57282,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20748,
+      "Progressed": 20750,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-13T16:04:20.5287144+00:00",
+  "LastChanged_Achievements": "2023-07-13T17:04:10.246269+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:08.3646753+00:00",
-  "LastUpdate_Ratings": "2023-07-13T15:58:26.2152922+00:00",
-  "LastUpdate_Achievements": "2023-07-13T16:04:20.5288004+00:00"
+  "LastUpdate_Ratings": "2023-07-13T16:58:16.9605205+00:00",
+  "LastUpdate_Achievements": "2023-07-13T17:04:10.2463846+00:00"
 }

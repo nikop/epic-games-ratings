@@ -187,9 +187,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 29829,
+  "EOS_Progressed": 29838,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 857,
+  "EOS_NewPlayers": 861,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -9212,6 +9212,11 @@
       "Time": "2023-07-13T16:03:39.675782+00:00",
       "NumProgressed": 29829,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-07-13T17:03:45.3433883+00:00",
+      "NumProgressed": 29838,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -9223,7 +9228,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4773
+      "UsersEstimate": 4774
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -9231,7 +9236,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5966
+      "UsersEstimate": 5968
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -9295,7 +9300,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1491
+      "UsersEstimate": 1492
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -9367,7 +9372,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1193
+      "UsersEstimate": 1194
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -9375,7 +9380,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1491
+      "UsersEstimate": 1492
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -9415,7 +9420,7 @@
       "Name": "Vroll With It",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACH_27_VROLL_QUICK_KILL",
@@ -9423,7 +9428,7 @@
       "Name": "Swift of Foot, Keen of Blade",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACH_28_FINISHED_GAME_NO_MANA_USE",
@@ -9454,7 +9459,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 29829,
+      "Progressed": 29838,
       "Completed": 20
     }
   ],
@@ -9462,8 +9467,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-07-11T15:00:39.3575549+00:00",
-  "LastChanged_Achievements": "2023-07-13T16:03:39.6757816+00:00",
+  "LastChanged_Achievements": "2023-07-13T17:03:45.3433879+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:25.1516139+00:00",
-  "LastUpdate_Ratings": "2023-07-13T16:01:11.5904436+00:00",
-  "LastUpdate_Achievements": "2023-07-13T16:03:39.6758378+00:00"
+  "LastUpdate_Ratings": "2023-07-13T17:00:27.8339675+00:00",
+  "LastUpdate_Achievements": "2023-07-13T17:03:45.3434642+00:00"
 }

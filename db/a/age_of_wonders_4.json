@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -274,9 +274,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4983,
+  "EOS_Progressed": 4984,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5164,6 +5164,11 @@
       "Time": "2023-07-13T16:03:12.511512+00:00",
       "NumProgressed": 4983,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-13T17:03:23.0332959+00:00",
+      "NumProgressed": 4984,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 50,
@@ -5287,7 +5292,7 @@
       "Name": "Realm Estate",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "23",
@@ -5295,7 +5300,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "24",
@@ -5311,7 +5316,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "26",
@@ -5319,7 +5324,7 @@
       "Name": "Bone Peddler",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "27",
@@ -5335,7 +5340,7 @@
       "Name": "From Friends to Family",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "29",
@@ -5343,7 +5348,7 @@
       "Name": "Stronger Together",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "3",
@@ -5367,7 +5372,7 @@
       "Name": "Magical Synergy",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "32",
@@ -5375,7 +5380,7 @@
       "Name": "My Final Form",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "33",
@@ -5383,7 +5388,7 @@
       "Name": "Seat of Power",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "34",
@@ -5447,7 +5452,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "41",
@@ -5527,7 +5532,7 @@
       "Name": "Here be Dragons",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "46",
@@ -5551,7 +5556,7 @@
       "Name": "Blood of the Dragon",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "49",
@@ -5559,7 +5564,7 @@
       "Name": "Mighty Hoard",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "50",
@@ -5574,13 +5579,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4983,
+      "Progressed": 4984,
       "Completed": 4760
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4983,
+      "Progressed": 4984,
       "Completed": 5
     }
   ],
@@ -5588,8 +5593,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-07-11T11:00:15.2595187+00:00",
-  "LastChanged_Achievements": "2023-07-13T16:03:12.5115115+00:00",
+  "LastChanged_Achievements": "2023-07-13T17:03:23.0332954+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:44.6563449+00:00",
-  "LastUpdate_Ratings": "2023-07-13T16:00:35.0303986+00:00",
-  "LastUpdate_Achievements": "2023-07-13T16:03:12.511571+00:00"
+  "LastUpdate_Ratings": "2023-07-13T16:59:59.0692377+00:00",
+  "LastUpdate_Achievements": "2023-07-13T17:03:23.0333722+00:00"
 }

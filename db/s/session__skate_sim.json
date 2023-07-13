@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -784,9 +784,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2508,
+  "EOS_Progressed": 2509,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3044,6 +3044,11 @@
       "Time": "2023-07-13T06:01:38.7908302+00:00",
       "NumProgressed": 2508,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-13T17:03:04.629808+00:00",
+      "NumProgressed": 2509,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3071,7 +3076,7 @@
       "Name": "Bottom ply killer",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_COMMENCE-THE-HIJINX",
@@ -3119,7 +3124,7 @@
       "Name": "Fashionista",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_FINALLY-HE-SHUTS-UP",
@@ -3127,7 +3132,7 @@
       "Name": "Finally he zips it",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_FULFILLED-THE-DREAM",
@@ -3319,7 +3324,7 @@
       "Name": "Sup widdit big dog!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_TANK-COMMANDER",
@@ -3335,7 +3340,7 @@
       "Name": "That pinch!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_THAT-WAS-WHEELIE-FUN",
@@ -3359,7 +3364,7 @@
       "Name": "The finer things in life",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -3383,7 +3388,7 @@
       "Name": "Tight lipslides",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_TRICK-SHOT-MARKSMAN",
@@ -3438,15 +3443,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2508,
+      "Progressed": 2509,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-07-12T23:00:17.5500382+00:00",
-  "LastChanged_Achievements": "2023-07-13T16:02:19.056807+00:00",
+  "LastChanged_Achievements": "2023-07-13T17:03:04.6298074+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:10.6515019+00:00",
-  "LastUpdate_Ratings": "2023-07-13T16:00:10.3449657+00:00",
-  "LastUpdate_Achievements": "2023-07-13T16:02:19.0568498+00:00"
+  "LastUpdate_Ratings": "2023-07-13T16:59:38.047806+00:00",
+  "LastUpdate_Achievements": "2023-07-13T17:03:04.6298626+00:00"
 }

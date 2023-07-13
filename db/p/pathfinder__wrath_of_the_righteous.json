@@ -5,7 +5,7 @@
   "Ranking_Rating": 118,
   "Ranking_Popularity": 117,
   "Ranking_PopularitySum": 112,
-  "Ranking_EOS_Progress": 116,
+  "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 88,
@@ -3104,7 +3104,7 @@
       "Count": 381
     }
   ],
-  "EOS_Progressed": 10291,
+  "EOS_Progressed": 10293,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
@@ -8304,6 +8304,11 @@
       "Time": "2023-07-13T16:04:20.1790558+00:00",
       "NumProgressed": 10291,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-13T17:04:09.9965823+00:00",
+      "NumProgressed": 10293,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -8315,7 +8320,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2058
+      "UsersEstimate": 2059
     },
     {
       "ID": "02_BurningCity",
@@ -8339,7 +8344,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -9187,7 +9192,7 @@
       "Name": "Stay Underground",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "DLC4_24_Hanged Man\u0027s Notes",
@@ -9195,7 +9200,7 @@
       "Name": "Hanged Man\u0027s Notes",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "DLC4_25_Sarkoris Will Be Green",
@@ -9203,7 +9208,7 @@
       "Name": "Sarkoris Will Be Green",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "DLC4_26_This Wall Won\u0027t Fall",
@@ -9227,7 +9232,7 @@
       "Name": "The Lady of the Forest",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "DLC4_34_Beware of Still Water",
@@ -9242,21 +9247,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9073,
+      "Progressed": 9075,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10291,
+      "Progressed": 10293,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-13T14:59:10.208868+00:00",
-  "LastChanged_Achievements": "2023-07-13T16:04:20.1790552+00:00",
+  "LastChanged_Achievements": "2023-07-13T17:04:09.9965817+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:12.7052521+00:00",
-  "LastUpdate_Ratings": "2023-07-13T15:59:22.3705469+00:00",
-  "LastUpdate_Achievements": "2023-07-13T16:04:20.1792156+00:00"
+  "LastUpdate_Ratings": "2023-07-13T16:58:58.4076407+00:00",
+  "LastUpdate_Achievements": "2023-07-13T17:04:09.9967897+00:00"
 }

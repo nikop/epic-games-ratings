@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 276,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1008,9 +1008,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4068,
+  "EOS_Progressed": 4069,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -5993,6 +5993,11 @@
       "Time": "2023-07-13T16:05:23.9139457+00:00",
       "NumProgressed": 4068,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-13T17:05:00.2375461+00:00",
+      "NumProgressed": 4069,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -6020,7 +6025,7 @@
       "Name": "Double Trouble",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -6028,7 +6033,7 @@
       "Name": "Happy Ending?",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -6044,7 +6049,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -6124,7 +6129,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -6132,7 +6137,7 @@
       "Name": "Firestarter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "ACH_EP_THEREFERENDUM",
@@ -6148,7 +6153,7 @@
       "Name": "For Science!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -6284,7 +6289,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -6308,7 +6313,7 @@
       "Name": "French Connection",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -6323,15 +6328,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4068,
+      "Progressed": 4069,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-09T22:00:42.3216597+00:00",
-  "LastChanged_Achievements": "2023-07-13T16:05:23.9139448+00:00",
+  "LastChanged_Achievements": "2023-07-13T17:05:00.2375453+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:41.4762855+00:00",
-  "LastUpdate_Ratings": "2023-07-13T16:01:25.4425881+00:00",
-  "LastUpdate_Achievements": "2023-07-13T16:05:23.9139916+00:00"
+  "LastUpdate_Ratings": "2023-07-13T17:00:41.58144+00:00",
+  "LastUpdate_Achievements": "2023-07-13T17:05:00.2376108+00:00"
 }

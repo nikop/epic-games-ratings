@@ -11,8 +11,8 @@ Rating: 4.57 (Ranked 439)
 | The American Dream | 18.00% | ~1,986 |
 | School's Out | 17.00% | ~1,876 |
 | Smooth Moves | 16.00% | ~1,765 |
+| Today Was a Good Day | 15.00% | ~1,655 |
 | What happens in Las Venturas... | 14.00% | ~1,545 |
-| Today Was a Good Day | 14.00% | ~1,545 |
 | Horror of the Santa Maria | 10.00% | ~1,103 |
 | Liberty City State of Mind | 9.00% | ~993 |
 | The End of the Line | 7.00% | ~772 |
@@ -41,7 +41,7 @@ Rating: 4.57 (Ranked 439)
 | ...Here we go again | 0.30% | ~33 |
 | I Ain't No Buster | 0.20% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,033 (Ranked 115)  
+Progressed: 11,033 (Ranked 116)  
 Completed: 28 (0.25%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
