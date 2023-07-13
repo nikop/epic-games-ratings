@@ -6,19 +6,19 @@ Number of Ratings: 425  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Everybody Gets One | 97.00% | ~27,065 |
-| Gone Home | 93.00% | ~25,949 |
-| Wonderfalls | 87.00% | ~24,275 |
+| Everybody Gets One | 97.00% | ~27,066 |
+| Gone Home | 93.00% | ~25,950 |
+| Wonderfalls | 87.00% | ~24,276 |
 | Got to Catch a Few | 77.00% | ~21,485 |
-| Double Trapper | 75.00% | ~20,926 |
-| I'm Stuffed | 69.00% | ~19,252 |
-| Got to Catch a Lot | 66.00% | ~18,415 |
-| Talkin' 'Bout Bugsnax | 61.00% | ~17,020 |
-| In the Arms of the Gramble | 59.00% | ~16,462 |
-| Know Thy Neighbor | 59.00% | ~16,462 |
-| Launch Party | 56.00% | ~15,625 |
-| Perf Dirt | 56.00% | ~15,625 |
-| Vacation's End | 53.00% | ~14,788 |
+| Double Trapper | 75.00% | ~20,927 |
+| I'm Stuffed | 69.00% | ~19,253 |
+| Got to Catch a Lot | 66.00% | ~18,416 |
+| Talkin' 'Bout Bugsnax | 61.00% | ~17,021 |
+| In the Arms of the Gramble | 59.00% | ~16,463 |
+| Know Thy Neighbor | 59.00% | ~16,463 |
+| Launch Party | 56.00% | ~15,626 |
+| Perf Dirt | 56.00% | ~15,626 |
+| Vacation's End | 53.00% | ~14,789 |
 | Bossy Bugs | 46.00% | ~12,835 |
 | Survivor | 45.00% | ~12,556 |
 | That Reminds Me of a Puzzle | 43.00% | ~11,998 |
@@ -28,17 +28,17 @@ Number of Ratings: 425  (23.09.2022)
 | Midnight Snak | 36.00% | ~10,045 |
 | Candid Cryptid | 35.00% | ~9,766 |
 | Got to Catch Them All | 32.00% | ~8,929 |
-| Deep Impact | 23.00% | ~6,417 |
-| Grab Bag | 23.00% | ~6,417 |
-| Feeding Frenzy | 18.00% | ~5,022 |
+| Deep Impact | 23.00% | ~6,418 |
+| Grab Bag | 23.00% | ~6,418 |
+| Feeding Frenzy | 18.00% | ~5,023 |
 | Clothesline | 16.00% | ~4,464 |
 | Say Cheese! | 15.00% | ~4,185 |
 | Sundae Best | 13.00% | ~3,627 |
 | Live Laugh Hut | 8.00% | ~2,232 |
 | Dapper Capper | 6.00% | ~1,674 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,902 (Ranked 97)  
-Completed: 1,310 (4.70%) (Ranked 41)  
+Progressed: 27,903 (Ranked 97)  
+Completed: 1,310 (4.69%) (Ranked 41)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -121,7 +121,7 @@ Completed: 1,310 (4.70%) (Ranked 41)
 | 2023-07-10 | 27,889 | 1,307 |
 | 2023-07-11 | 27,893 | 1,307 |
 | 2023-07-12 | 27,899 | 1,307 |
-| 2023-07-13 | 27,902 | 1,310 |
+| 2023-07-13 | 27,903 | 1,310 |
 ## Awards
 Max (Amazing Storytelling): 38  (Ranked 425)  
 Sum: 323 (Ranked 330)  

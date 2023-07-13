@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2434,
+  "EOS_Progressed": 2435,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -2979,6 +2979,11 @@
       "Time": "2023-07-13T13:19:13.99787+00:00",
       "NumProgressed": 2434,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-13T21:03:25.47438+00:00",
+      "NumProgressed": 2435,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -3046,7 +3051,7 @@
       "Name": "No more holding back",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "STB_DEFEAT_GAREN_I",
@@ -3054,7 +3059,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2337
+      "UsersEstimate": 2338
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -3094,7 +3099,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -3166,7 +3171,7 @@
       "Name": "Pentakill",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1874
+      "UsersEstimate": 1875
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -3174,7 +3179,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2239
+      "UsersEstimate": 2240
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -3206,7 +3211,7 @@
       "Name": "Dark Forest",
       "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 1874
+      "UsersEstimate": 1875
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -3222,7 +3227,7 @@
       "Name": "Clarion Cove",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -3238,7 +3243,7 @@
       "Name": "Sacred Woods",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -3286,7 +3291,7 @@
       "Name": "Truth is a dark mirror",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "STB_PET_DOG",
@@ -3318,7 +3323,7 @@
       "Name": "Back to sleep, then...",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_I",
@@ -3350,7 +3355,7 @@
       "Name": "Quickmoore Headquarters",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_V",
@@ -3366,7 +3371,7 @@
       "Name": "The use of petricite",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 1801
+      "UsersEstimate": 1802
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -3390,7 +3395,7 @@
       "Name": "Call it \u0027redistribution of magic",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "STB_UNLOCK_ULTIMATE",
@@ -3413,7 +3418,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2434,
+      "Progressed": 2435,
       "Completed": 4
     }
   ],
@@ -3421,8 +3426,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-07-07T20:57:43.6161991+00:00",
-  "LastChanged_Achievements": "2023-07-13T20:02:57.2826529+00:00",
+  "LastChanged_Achievements": "2023-07-13T21:03:25.4743793+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:00.9514452+00:00",
-  "LastUpdate_Ratings": "2023-07-13T19:58:23.852473+00:00",
-  "LastUpdate_Achievements": "2023-07-13T20:02:57.2827527+00:00"
+  "LastUpdate_Ratings": "2023-07-13T20:58:15.4690659+00:00",
+  "LastUpdate_Achievements": "2023-07-13T21:03:25.4744958+00:00"
 }

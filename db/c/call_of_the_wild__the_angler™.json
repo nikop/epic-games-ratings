@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -586,7 +586,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4645,
+  "EOS_Progressed": 4646,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
@@ -4466,6 +4466,11 @@
       "Time": "2023-07-13T20:06:16.6990171+00:00",
       "NumProgressed": 4645,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-13T21:06:18.7910356+00:00",
+      "NumProgressed": 4646,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -4477,7 +4482,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3530
+      "UsersEstimate": 3531
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -4485,7 +4490,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 2322
+      "UsersEstimate": 2323
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -4509,7 +4514,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1486
+      "UsersEstimate": 1487
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -4525,7 +4530,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1904
+      "UsersEstimate": 1905
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -4533,7 +4538,7 @@
       "Name": "Scaling up",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 2322
+      "UsersEstimate": 2323
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -4557,7 +4562,7 @@
       "Name": "More than a Tourist",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "ACHIEVEMENT_012",
@@ -4645,7 +4650,7 @@
       "Name": "Diamond in the Rough",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "ACHIEVEMENT_023",
@@ -4756,13 +4761,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 4645,
+      "Progressed": 4646,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 4017,
+      "Progressed": 4018,
       "Completed": 112
     }
   ],
@@ -4770,8 +4775,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-06-29T22:00:44.387661+00:00",
-  "LastChanged_Achievements": "2023-07-13T20:06:16.6990166+00:00",
+  "LastChanged_Achievements": "2023-07-13T21:06:18.7910349+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:07.4773638+00:00",
-  "LastUpdate_Ratings": "2023-07-13T20:01:28.9659985+00:00",
-  "LastUpdate_Achievements": "2023-07-13T20:06:16.6990742+00:00"
+  "LastUpdate_Ratings": "2023-07-13T21:00:46.3023856+00:00",
+  "LastUpdate_Achievements": "2023-07-13T21:06:18.7911269+00:00"
 }

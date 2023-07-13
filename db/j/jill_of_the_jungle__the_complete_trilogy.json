@@ -4,8 +4,8 @@
   "ProductSlug": "jill-of-the-jungle-the-complete-trilogy",
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 30,
-  "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-04-26T15:00:00+00:00",
     "PcReleaseDate": "1992-07-01T12:44:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1348,
+  "EOS_Progressed": 1349,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 6.9,
+  "EOS_Completed_Percentage": 6.89,
   "EosHistory": [
     {
       "Time": "2023-04-26T15:59:54.0238725+00:00",
@@ -4174,6 +4174,11 @@
       "Time": "2023-07-13T16:03:21.5032709+00:00",
       "NumProgressed": 1348,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-07-13T21:04:04.6377643+00:00",
+      "NumProgressed": 1349,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 5,
@@ -4185,7 +4190,7 @@
       "Name": "Welcome to the Jungle",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1349
     },
     {
       "ID": "2",
@@ -4224,7 +4229,7 @@
     {
       "ID": "dg4cch5",
       "IsBase": true,
-      "Progressed": 1348,
+      "Progressed": 1349,
       "Completed": 93
     }
   ],
@@ -4232,8 +4237,8 @@
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
-  "LastChanged_Achievements": "2023-07-13T20:03:42.878504+00:00",
+  "LastChanged_Achievements": "2023-07-13T21:04:04.6377632+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:23.861685+00:00",
-  "LastUpdate_Ratings": "2023-07-13T19:57:48.985628+00:00",
-  "LastUpdate_Achievements": "2023-07-13T20:03:42.8785453+00:00"
+  "LastUpdate_Ratings": "2023-07-13T20:57:49.4608942+00:00",
+  "LastUpdate_Achievements": "2023-07-13T21:04:04.6378202+00:00"
 }

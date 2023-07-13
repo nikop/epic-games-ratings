@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
     "PcReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10173,
+  "EOS_Progressed": 10174,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1166,6 +1166,11 @@
       "Time": "2023-07-13T04:03:40.6123011+00:00",
       "NumProgressed": 10173,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-13T21:04:25.3628755+00:00",
+      "NumProgressed": 10174,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1185,7 +1190,7 @@
       "Name": "to finish first, first you must finish",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 2136
+      "UsersEstimate": 2137
     },
     {
       "ID": "ACH_ABSOLUTE_DRIFT",
@@ -1233,7 +1238,7 @@
       "Name": "perkele",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1323
     },
     {
       "ID": "ACH_COLLECTIBLES_GERMANY",
@@ -1281,7 +1286,7 @@
       "Name": "grocery-getter",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3967
+      "UsersEstimate": 3968
     },
     {
       "ID": "ACH_COMPLETE_GROUP3",
@@ -1337,7 +1342,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7833
+      "UsersEstimate": 7834
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -1401,7 +1406,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9766
+      "UsersEstimate": 9767
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1425,7 +1430,7 @@
       "Name": "night ride",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1323
     },
     {
       "ID": "ACH_PAINT_BOOTH",
@@ -1433,7 +1438,7 @@
       "Name": "the artist",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1323
     },
     {
       "ID": "ACH_RAIN",
@@ -1441,7 +1446,7 @@
       "Name": "snorkel",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1323
     },
     {
       "ID": "ACH_ROLL",
@@ -1449,7 +1454,7 @@
       "Name": "you can\u0027t treat a car like a human being. a car requires love",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 2136
+      "UsersEstimate": 2137
     },
     {
       "ID": "ACH_SIMULATOR",
@@ -1520,15 +1525,15 @@
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10173,
+      "Progressed": 10174,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-07-13T20:04:06.425551+00:00",
+  "LastChanged_Achievements": "2023-07-13T21:04:25.3628742+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:39.7953924+00:00",
-  "LastUpdate_Ratings": "2023-07-13T19:58:06.2783106+00:00",
-  "LastUpdate_Achievements": "2023-07-13T20:04:06.4255951+00:00"
+  "LastUpdate_Ratings": "2023-07-13T20:58:00.4078996+00:00",
+  "LastUpdate_Achievements": "2023-07-13T21:04:25.3629456+00:00"
 }

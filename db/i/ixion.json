@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2810,
+  "EOS_Progressed": 2812,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3483,6 +3483,11 @@
       "Time": "2023-07-13T20:05:06.9315816+00:00",
       "NumProgressed": 2810,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-13T21:05:18.8004934+00:00",
+      "NumProgressed": 2812,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -3502,7 +3507,7 @@
       "Name": "Man\u0027s Best Friend",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ACH_BASE_11",
@@ -3582,7 +3587,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "ACH_BASE_22",
@@ -3622,7 +3627,7 @@
       "Name": "Sightseeing",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ACH_BASE_27",
@@ -3670,7 +3675,7 @@
       "Name": "Power Outage",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ACH_BASE_32",
@@ -3822,7 +3827,7 @@
       "Name": "Convenient Transport",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ACH_BASE_52",
@@ -3846,7 +3851,7 @@
       "Name": "Please Make it Stop!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ACH_BASE_57",
@@ -3949,13 +3954,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 991,
+      "Progressed": 993,
       "Completed": 5
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2810,
+      "Progressed": 2812,
       "Completed": 0
     }
   ],
@@ -3963,8 +3968,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-07-08T02:22:11.1138638+00:00",
-  "LastChanged_Achievements": "2023-07-13T20:05:06.931581+00:00",
+  "LastChanged_Achievements": "2023-07-13T21:05:18.8004926+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:17.2355244+00:00",
-  "LastUpdate_Ratings": "2023-07-13T19:59:40.7017463+00:00",
-  "LastUpdate_Achievements": "2023-07-13T20:05:06.9316684+00:00"
+  "LastUpdate_Ratings": "2023-07-13T20:59:15.3907454+00:00",
+  "LastUpdate_Achievements": "2023-07-13T21:05:18.8006313+00:00"
 }

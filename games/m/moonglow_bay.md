@@ -17,10 +17,10 @@
 | Wise and Floofy | 0.50% | ~2 |
 | Four-Legged Friends | 0.50% | ~2 |
 | Then Peel Me A Grape | 0.50% | ~2 |
+| Worth Your While | 0.50% | ~2 |
 | From Beyond | 0.30% | ~1 |
 | Ocean Wings | 0.30% | ~1 |
 | Crimebusters of the Sea | 0.30% | ~1 |
-| Worth Your While | 0.30% | ~1 |
 | The Whole Journey | 0.00% | ~0 |
 | Restored to Prosperity | 0.00% | ~0 |
 | Fishing Season | 0.00% | ~0 |

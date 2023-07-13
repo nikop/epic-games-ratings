@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57290,
+  "EOS_Progressed": 57293,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 367,
+  "EOS_NewPlayers": 366,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7857,6 +7857,11 @@
       "Time": "2023-07-13T20:04:38.006259+00:00",
       "NumProgressed": 57290,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-13T21:04:53.311878+00:00",
+      "NumProgressed": 57293,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7868,7 +7873,7 @@
       "Name": "Follow the Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 19479
+      "UsersEstimate": 19480
     },
     {
       "ID": "02",
@@ -7876,7 +7881,7 @@
       "Name": "Nordic Walking",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 12031
+      "UsersEstimate": 12032
     },
     {
       "ID": "03",
@@ -7884,7 +7889,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11458
+      "UsersEstimate": 11459
     },
     {
       "ID": "04",
@@ -7900,7 +7905,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10312
+      "UsersEstimate": 10313
     },
     {
       "ID": "06",
@@ -7964,7 +7969,7 @@
       "Name": "Drink \u0027Em Both Up",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2864
+      "UsersEstimate": 2865
     },
     {
       "ID": "14",
@@ -7988,7 +7993,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4010
+      "UsersEstimate": 4011
     },
     {
       "ID": "17",
@@ -7996,7 +8001,7 @@
       "Name": "Departure",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3437
+      "UsersEstimate": 3438
     },
     {
       "ID": "18",
@@ -8004,7 +8009,7 @@
       "Name": "Hardboiled Writer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2864
+      "UsersEstimate": 2865
     },
     {
       "ID": "19",
@@ -8060,7 +8065,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4010
+      "UsersEstimate": 4011
     },
     {
       "ID": "26",
@@ -8116,7 +8121,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14895
+      "UsersEstimate": 14896
     },
     {
       "ID": "33",
@@ -8140,7 +8145,7 @@
       "Name": "Let There Be Light",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 15468
+      "UsersEstimate": 15469
     },
     {
       "ID": "36",
@@ -8276,7 +8281,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1245
+      "UsersEstimate": 1246
     },
     {
       "ID": "53",
@@ -8403,21 +8408,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57290,
+      "Progressed": 57293,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20758,
+      "Progressed": 20761,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-13T20:04:38.0062584+00:00",
+  "LastChanged_Achievements": "2023-07-13T21:04:53.3118773+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:08.3646753+00:00",
-  "LastUpdate_Ratings": "2023-07-13T19:58:29.7913476+00:00",
-  "LastUpdate_Achievements": "2023-07-13T20:04:38.0064038+00:00"
+  "LastUpdate_Ratings": "2023-07-13T20:58:20.6427123+00:00",
+  "LastUpdate_Achievements": "2023-07-13T21:04:53.3120974+00:00"
 }

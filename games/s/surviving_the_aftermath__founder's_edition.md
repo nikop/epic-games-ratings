@@ -37,7 +37,7 @@ Number of Ratings: 836  (23.09.2022)
 | Friendly | 16.00% | ~1,173 |
 | Around the World | 16.00% | ~1,173 |
 | Bookworm | 15.00% | ~1,100 |
-| Famous Adventurer | 13.00% | ~953 |
+| Famous Adventurer | 14.00% | ~1,027 |
 | Prepared for Anything | 13.00% | ~953 |
 | Big Catastrofan | 12.00% | ~880 |
 | It's a Finnish Thing | 10.00% | ~733 |

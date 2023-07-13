@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Statue ✔ | 61.00% | ~142 |
-| Recluse ✔ | 31.00% | ~72 |
+| Recluse ✔ | 32.00% | ~74 |
 | Witch ✔ | 19.00% | ~44 |
 | Scent of Meat ✔ | 18.00% | ~42 |
 | Survival ✔ | 3.00% | ~7 |

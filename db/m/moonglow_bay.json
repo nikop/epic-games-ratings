@@ -4,8 +4,8 @@
   "ProductSlug": "moonglow-bay",
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2021-11-11T17:00:00+00:00",
     "PcReleaseDate": "2021-11-11T17:00:00+00:00",
@@ -342,9 +342,9 @@
       "ID": "ACH_35_WORTH",
       "SetID": "cieb1c3",
       "Name": "Worth Your While",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_36_SPIDER",
@@ -375,8 +375,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.9355782+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:22.8517258+00:00",
   "LastChanged": "2023-03-31T05:57:52.9355783+00:00",
-  "LastChanged_Achievements": "2023-07-13T20:06:04.2105213+00:00",
+  "LastChanged_Achievements": "2023-07-13T21:06:07.5587074+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:45.1285992+00:00",
-  "LastUpdate_Ratings": "2023-07-13T20:01:04.2122072+00:00",
-  "LastUpdate_Achievements": "2023-07-13T20:06:04.2105899+00:00"
+  "LastUpdate_Ratings": "2023-07-13T21:00:25.1218662+00:00",
+  "LastUpdate_Achievements": "2023-07-13T21:06:07.5587583+00:00"
 }

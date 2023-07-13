@@ -6,49 +6,49 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 58.00% | ~105,866 |
-| Where's that freaking Dwarf? | 46.00% | ~83,963 |
-| GG EZ | 27.00% | ~49,283 |
-| Speedrun | 26.00% | ~47,457 |
-| Déjà vu | 20.00% | ~36,506 |
-| Sock! SOCK! | 15.00% | ~27,379 |
-| DM intervention | 12.00% | ~21,903 |
-| Fireproof Wizardess | 8.00% | ~14,602 |
-| A beer, two curses, three companions | 7.00% | ~12,777 |
-| Way of the Wimp | 6.00% | ~10,952 |
-| Livin' in a dwarven paradise | 5.00% | ~9,126 |
-| The plot thickens... At the tavern | 4.00% | ~7,301 |
-| The Woman in the High Castle | 3.00% | ~5,476 |
-| Team Building Exercise | 3.00% | ~5,476 |
-| Shiny and Crôm | 2.00% | ~3,651 |
-| The demons' feast | 2.00% | ~3,651 |
-| Res Judicata | 2.00% | ~3,651 |
-| The Ranger of Chaos | 2.00% | ~3,651 |
-| I am the night | 2.00% | ~3,651 |
-| Oh, when I'll be level 10... | 2.00% | ~3,651 |
-| The Great Library | 1.00% | ~1,825 |
-| Torture and Sensibility | 1.00% | ~1,825 |
-| Dwarf Fortress | 1.00% | ~1,825 |
-| The beards of change | 1.00% | ~1,825 |
-| Thieves' Guild Accreditation | 1.00% | ~1,825 |
-| Material Girl | 1.00% | ~1,825 |
-| Gargantua | 0.90% | ~1,643 |
-| In Navalu's footsteps | 0.90% | ~1,643 |
-| Lust and Debauchery | 0.90% | ~1,643 |
-| Urik's Depths | 0.80% | ~1,460 |
-| Look but don't touch | 0.80% | ~1,460 |
-| The Statuette of Gladeulfeurah | 0.60% | ~1,095 |
-| A tale of adventurers not quite like the others... | 0.60% | ~1,095 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.60% | ~1,095 |
-| It's been a hard day's night | 0.60% | ~1,095 |
-| Lëgal Legend | 0.60% | ~1,095 |
+| Alt+F4 | 58.00% | ~105,941 |
+| Where's that freaking Dwarf? | 46.00% | ~84,022 |
+| GG EZ | 27.00% | ~49,317 |
+| Speedrun | 26.00% | ~47,491 |
+| Déjà vu | 20.00% | ~36,531 |
+| Sock! SOCK! | 15.00% | ~27,399 |
+| DM intervention | 12.00% | ~21,919 |
+| Fireproof Wizardess | 8.00% | ~14,613 |
+| A beer, two curses, three companions | 7.00% | ~12,786 |
+| Way of the Wimp | 6.00% | ~10,959 |
+| Livin' in a dwarven paradise | 5.00% | ~9,133 |
+| The plot thickens... At the tavern | 4.00% | ~7,306 |
+| The Woman in the High Castle | 3.00% | ~5,480 |
+| Team Building Exercise | 3.00% | ~5,480 |
+| Shiny and Crôm | 2.00% | ~3,653 |
+| The demons' feast | 2.00% | ~3,653 |
+| The Great Library | 2.00% | ~3,653 |
+| Res Judicata | 2.00% | ~3,653 |
+| The Ranger of Chaos | 2.00% | ~3,653 |
+| I am the night | 2.00% | ~3,653 |
+| Oh, when I'll be level 10... | 2.00% | ~3,653 |
+| Torture and Sensibility | 1.00% | ~1,827 |
+| Dwarf Fortress | 1.00% | ~1,827 |
+| The beards of change | 1.00% | ~1,827 |
+| Thieves' Guild Accreditation | 1.00% | ~1,827 |
+| Material Girl | 1.00% | ~1,827 |
+| Gargantua | 0.90% | ~1,644 |
+| In Navalu's footsteps | 0.90% | ~1,644 |
+| Lust and Debauchery | 0.90% | ~1,644 |
+| Urik's Depths | 0.80% | ~1,461 |
+| Look but don't touch | 0.80% | ~1,461 |
+| The Statuette of Gladeulfeurah | 0.60% | ~1,096 |
+| A tale of adventurers not quite like the others... | 0.60% | ~1,096 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.60% | ~1,096 |
+| It's been a hard day's night | 0.60% | ~1,096 |
+| Lëgal Legend | 0.60% | ~1,096 |
 | The Dungeon Master | 0.50% | ~913 |
 | I'd rather... Just... Sing! | 0.50% | ~913 |
 | The Famous Dungeon of Naheulbeuk | 0.50% | ~913 |
 | Dead for good | 0.50% | ~913 |
 | Law and Order | 0.50% | ~913 |
-| The number of the counting shalt be 7 | 0.40% | ~730 |
-| An old poacher makes the best gamekeeper | 0.40% | ~730 |
+| The number of the counting shalt be 7 | 0.40% | ~731 |
+| An old poacher makes the best gamekeeper | 0.40% | ~731 |
 | Friendly fire | 0.30% | ~548 |
 | Holistic Adventuring Party | 0.20% | ~365 |
 | Scholar of the Lands of Fangh | 0.20% | ~365 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 182,528 (Ranked 58)  
+Progressed: 182,657 (Ranked 58)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-10 | 177,355 | 0 |
 | 2023-07-11 | 179,429 | 0 |
 | 2023-07-12 | 181,126 | 0 |
-| 2023-07-13 | 182,528 | 0 |
+| 2023-07-13 | 182,657 | 0 |
 ## Awards
 Max (Character Customization): 98  (Ranked 332)  
 Sum: 98 (Ranked 410)  

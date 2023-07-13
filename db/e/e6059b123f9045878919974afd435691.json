@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -1268,9 +1268,9 @@
       "ID": "FREE_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "I\u0027ll Save You!",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 73
     },
     {
       "ID": "FREE_ACHIEVEMENT_2",
@@ -1380,9 +1380,9 @@
       "ID": "LEECHER_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Don\u0027t Turn Your Back",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 129
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -1396,9 +1396,9 @@
       "ID": "MARY_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Hostage of the Elderly",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 123
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -1555,8 +1555,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-13T20:05:13.0843206+00:00",
+  "LastChanged_Achievements": "2023-07-13T21:05:23.7129663+00:00",
   "LastUpdate_AppInfo": "2023-07-13T13:57:00.6642341+00:00",
-  "LastUpdate_Ratings": "2023-07-13T19:57:15.6671816+00:00",
-  "LastUpdate_Achievements": "2023-07-13T20:05:13.0843954+00:00"
+  "LastUpdate_Ratings": "2023-07-13T20:57:18.1394604+00:00",
+  "LastUpdate_Achievements": "2023-07-13T21:05:23.7130905+00:00"
 }

@@ -5,13 +5,13 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | ROOKIE | 53.00% | ~1,559 |
-| EXTRA BOOST | 41.00% | ~1,206 |
+| EXTRA BOOST | 42.00% | ~1,236 |
 | IT MAKES BOOM! | 41.00% | ~1,206 |
 | PRO | 33.00% | ~971 |
 | PROTECTED | 31.00% | ~912 |
+| AGGRESSIVE RACER | 31.00% | ~912 |
 | A TIGER'S FEAR | 30.00% | ~883 |
 | HERE ARE SOME BARE NECESSITIES | 30.00% | ~883 |
-| AGGRESSIVE RACER | 30.00% | ~883 |
 | ACE SPEEDSTER | 22.00% | ~647 |
 | IT'S A LONG WAY TO THE TOP | 19.00% | ~559 |
 | MASTER | 15.00% | ~441 |
