@@ -22,18 +22,18 @@
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.31% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.43% |
-| 25 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.25% |
-| 26 | [Smelter](games/s/smelter.md) | 8.11% |
-| 27 | [Ravenlok](games/r/ravenlok.md) | 7.46% |
-| 28 | [Time Loader](games/t/time_loader.md) | 7.21% |
-| 29 | [Scorn](games/s/scorn.md) | 7.06% |
-| 30 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.97% |
-| 31 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.82% |
-| 32 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
-| 33 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 34 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 5.88% |
+| 23 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.82% |
+| 24 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
+| 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.43% |
+| 26 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.25% |
+| 27 | [Smelter](games/s/smelter.md) | 8.11% |
+| 28 | [Ravenlok](games/r/ravenlok.md) | 7.46% |
+| 29 | [Time Loader](games/t/time_loader.md) | 7.21% |
+| 30 | [Scorn](games/s/scorn.md) | 7.06% |
+| 31 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.96% |
+| 32 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.82% |
+| 33 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
+| 34 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 35 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.71% |
 | 36 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
 | 37 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.13% |
@@ -53,7 +53,7 @@
 | 51 | [Bunny Park](games/b/bunny_park.md) | 3.42% |
 | 52 | [Monster Harvest](games/m/monster_harvest.md) | 3.38% |
 | 53 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.33% |
-| 54 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.30% |
+| 54 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.29% |
 | 55 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.08% |
 | 55 | [The Complex](games/t/the_complex.md) | 3.08% |
 | 57 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.04% |
