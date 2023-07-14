@@ -6,47 +6,47 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 58.00% | ~106,311 |
-| Where's that freaking Dwarf? | 46.00% | ~84,316 |
-| GG EZ | 27.00% | ~49,490 |
-| Speedrun | 26.00% | ~47,657 |
-| Déjà vu | 20.00% | ~36,659 |
-| Sock! SOCK! | 15.00% | ~27,494 |
-| DM intervention | 12.00% | ~21,995 |
-| Fireproof Wizardess | 8.00% | ~14,664 |
-| A beer, two curses, three companions | 7.00% | ~12,831 |
-| Livin' in a dwarven paradise | 6.00% | ~10,998 |
-| Way of the Wimp | 6.00% | ~10,998 |
-| The plot thickens... At the tavern | 4.00% | ~7,332 |
-| The Woman in the High Castle | 3.00% | ~5,499 |
-| Team Building Exercise | 3.00% | ~5,499 |
-| Shiny and Crôm | 2.00% | ~3,666 |
-| The demons' feast | 2.00% | ~3,666 |
-| The Great Library | 2.00% | ~3,666 |
-| Res Judicata | 2.00% | ~3,666 |
-| The Ranger of Chaos | 2.00% | ~3,666 |
-| I am the night | 2.00% | ~3,666 |
-| Oh, when I'll be level 10... | 2.00% | ~3,666 |
-| Torture and Sensibility | 1.00% | ~1,833 |
-| Dwarf Fortress | 1.00% | ~1,833 |
-| The beards of change | 1.00% | ~1,833 |
-| Thieves' Guild Accreditation | 1.00% | ~1,833 |
-| Material Girl | 1.00% | ~1,833 |
+| Alt+F4 | 58.00% | ~106,344 |
+| Where's that freaking Dwarf? | 46.00% | ~84,342 |
+| GG EZ | 27.00% | ~49,505 |
+| Speedrun | 26.00% | ~47,672 |
+| Déjà vu | 20.00% | ~36,670 |
+| Sock! SOCK! | 15.00% | ~27,503 |
+| DM intervention | 12.00% | ~22,002 |
+| Fireproof Wizardess | 8.00% | ~14,668 |
+| A beer, two curses, three companions | 7.00% | ~12,835 |
+| Livin' in a dwarven paradise | 6.00% | ~11,001 |
+| Way of the Wimp | 6.00% | ~11,001 |
+| The plot thickens... At the tavern | 4.00% | ~7,334 |
+| The Woman in the High Castle | 3.00% | ~5,501 |
+| I am the night | 3.00% | ~5,501 |
+| Team Building Exercise | 3.00% | ~5,501 |
+| Shiny and Crôm | 2.00% | ~3,667 |
+| The demons' feast | 2.00% | ~3,667 |
+| The Great Library | 2.00% | ~3,667 |
+| Res Judicata | 2.00% | ~3,667 |
+| Dwarf Fortress | 2.00% | ~3,667 |
+| The Ranger of Chaos | 2.00% | ~3,667 |
+| Oh, when I'll be level 10... | 2.00% | ~3,667 |
+| Torture and Sensibility | 1.00% | ~1,834 |
+| The beards of change | 1.00% | ~1,834 |
+| Thieves' Guild Accreditation | 1.00% | ~1,834 |
+| Material Girl | 1.00% | ~1,834 |
+| Look but don't touch | 0.90% | ~1,650 |
 | Gargantua | 0.90% | ~1,650 |
 | In Navalu's footsteps | 0.90% | ~1,650 |
 | Lust and Debauchery | 0.90% | ~1,650 |
-| Urik's Depths | 0.80% | ~1,466 |
-| Look but don't touch | 0.80% | ~1,466 |
+| Urik's Depths | 0.80% | ~1,467 |
 | The Statuette of Gladeulfeurah | 0.70% | ~1,283 |
 | A tale of adventurers not quite like the others... | 0.70% | ~1,283 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.70% | ~1,283 |
+| Dead for good | 0.60% | ~1,100 |
 | It's been a hard day's night | 0.60% | ~1,100 |
 | Lëgal Legend | 0.60% | ~1,100 |
-| The Dungeon Master | 0.50% | ~916 |
-| I'd rather... Just... Sing! | 0.50% | ~916 |
-| The Famous Dungeon of Naheulbeuk | 0.50% | ~916 |
-| Dead for good | 0.50% | ~916 |
-| Law and Order | 0.50% | ~916 |
+| The Dungeon Master | 0.50% | ~917 |
+| I'd rather... Just... Sing! | 0.50% | ~917 |
+| The Famous Dungeon of Naheulbeuk | 0.50% | ~917 |
+| Law and Order | 0.50% | ~917 |
 | The number of the counting shalt be 7 | 0.40% | ~733 |
 | An old poacher makes the best gamekeeper | 0.40% | ~733 |
 | Friendly fire | 0.30% | ~550 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 183,295 (Ranked 58)  
+Progressed: 183,352 (Ranked 58)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-11 | 179,429 | 0 |
 | 2023-07-12 | 181,126 | 0 |
 | 2023-07-13 | 182,819 | 0 |
-| 2023-07-14 | 183,295 | 0 |
+| 2023-07-14 | 183,352 | 0 |
 ## Awards
 Max (Character Customization): 98  (Ranked 332)  
 Sum: 98 (Ranked 410)  

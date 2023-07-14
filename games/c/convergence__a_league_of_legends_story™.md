@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 18.00% | ~135 |
+| Time Heals All Wounds | 18.00% | ~136 |
 | The Mysterious Stranger | 15.00% | ~113 |
 | Rail Rat | 15.00% | ~113 |
 | The Steel Shadow | 14.00% | ~105 |
@@ -23,12 +23,12 @@
 | The Betrayer | 13.00% | ~98 |
 | The Harder They Fall | 13.00% | ~98 |
 | No, Thanks! | 13.00% | ~98 |
-| Golem Chaser | 13.00% | ~98 |
 | Fast Learner | 13.00% | ~98 |
-| Check Your Pulse | 13.00% | ~98 |
 | Immaculate Aim | 13.00% | ~98 |
 | Like Clockwork | 12.00% | ~90 |
 | Honest Mistake | 12.00% | ~90 |
+| Golem Chaser | 12.00% | ~90 |
+| Check Your Pulse | 12.00% | ~90 |
 | Right On Time | 11.00% | ~83 |
 | Street Style | 11.00% | ~83 |
 | Whiz Kid | 10.00% | ~75 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.50% | ~4 |
 | Raw Talent | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 752 (Ranked 199)  
+Progressed: 753 (Ranked 199)  
 Completed: 4 (0.53%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,4 +111,4 @@ Completed: 4 (0.53%) (Ranked 125)
 | 2023-07-09 | 749 | 4 |
 | 2023-07-10 | 750 | 4 |
 | 2023-07-11 | 751 | 4 |
-| 2023-07-14 | 752 | 4 |
+| 2023-07-14 | 753 | 4 |

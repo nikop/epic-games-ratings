@@ -7,10 +7,10 @@ Number of Ratings: 524  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Follow the Light | 34.00% | ~19,486 |
-| Let There Be Light | 27.00% | ~15,474 |
+| Let There Be Light | 27.00% | ~15,475 |
 | Float Like a Butterfly | 26.00% | ~14,901 |
 | Nordic Walking | 21.00% | ~12,036 |
-| Bright Falls' Finest | 20.00% | ~11,462 |
+| Bright Falls' Finest | 20.00% | ~11,463 |
 | Under a Thin Layer of Skin | 18.00% | ~10,316 |
 | Park Ranger | 15.00% | ~8,597 |
 | Paging Mr. Wake | 15.00% | ~8,597 |
@@ -18,9 +18,9 @@ Number of Ratings: 524  (23.09.2022)
 | Finders Keepers | 14.00% | ~8,024 |
 | Sound and Fury | 13.00% | ~7,451 |
 | Damn Good Cup of Coffee | 13.00% | ~7,451 |
-| Wheels Within Wheels | 12.00% | ~6,877 |
-| They're Heeeeeere! | 12.00% | ~6,877 |
-| Missed by a Mile | 12.00% | ~6,877 |
+| Wheels Within Wheels | 12.00% | ~6,878 |
+| They're Heeeeeere! | 12.00% | ~6,878 |
+| Missed by a Mile | 12.00% | ~6,878 |
 | Heavy Metal | 11.00% | ~6,304 |
 | Iron Horse | 11.00% | ~6,304 |
 | The Six-Gun Scribe | 11.00% | ~6,304 |
@@ -42,10 +42,10 @@ Number of Ratings: 524  (23.09.2022)
 | Drink 'Em Both Up | 5.00% | ~2,866 |
 | Hardboiled Writer | 5.00% | ~2,866 |
 | Ding! | 5.00% | ~1,039 |
-| Boob Tube | 4.00% | ~2,292 |
-| Children of the Elder God | 4.00% | ~2,292 |
-| If It Flies, It Burns | 4.00% | ~2,292 |
-| KBF-FM | 4.00% | ~2,292 |
+| Boob Tube | 4.00% | ~2,293 |
+| Children of the Elder God | 4.00% | ~2,293 |
+| If It Flies, It Burns | 4.00% | ~2,293 |
+| KBF-FM | 4.00% | ~2,293 |
 | Kill Your Darlings | 3.00% | ~623 |
 | Heartbreaker | 3.00% | ~623 |
 | Medical Opinions | 2.00% | ~1,146 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~57 |
 | No Punctuation | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,312 (Ranked 82)  
+Progressed: 57,313 (Ranked 82)  
 Completed: 57 (0.10%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 57 (0.10%) (Ranked 183)
 | 2023-07-11 | 57,220 | 57 |
 | 2023-07-12 | 57,261 | 57 |
 | 2023-07-13 | 57,298 | 57 |
-| 2023-07-14 | 57,312 | 57 |
+| 2023-07-14 | 57,313 | 57 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -3,6 +3,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Flawless Victory | 6.00% | ~1 |
 | Break Out | 0.00% | ~0 |
 | Calm before the Storm | 0.00% | ~0 |
 | To Battle | 0.00% | ~0 |
@@ -14,11 +15,12 @@
 | Shatterer | 0.00% | ~0 |
 | Shatter Them All | 0.00% | ~0 |
 | Slayer | 0.00% | ~0 |
-| Flawless Victory | 0.00% | ~0 |
 | Fine Feathers Make Fine Birds | 0.00% | ~0 |
+| Geared Up | 0.00% | ~0 |
 | All There Is | 0.00% | ~0 |
 | Fashion Victim | 0.00% | ~0 |
 | False God | 0.00% | ~0 |
+| I Found It | 0.00% | ~0 |
 | All That Gold | 0.00% | ~0 |
 | Miner | 0.00% | ~0 |
 | Feeling Fancy | 0.00% | ~0 |
@@ -32,9 +34,7 @@
 | Airborne | -5.60% | ~-1 |
 | Essence Blow | -5.60% | ~-1 |
 | Big Bazar | -5.60% | ~-1 |
-| Geared Up | -5.60% | ~-1 |
 | Scholar | -5.60% | ~-1 |
-| I Found It | -5.60% | ~-1 |
 | Alchemist | -5.60% | ~-1 |
 | Stone Collection | -5.60% | ~-1 |
 | The Collector | -5.60% | ~-1 |

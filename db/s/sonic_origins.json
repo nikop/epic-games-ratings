@@ -271,7 +271,7 @@
   ],
   "EOS_Progressed": 291,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 10.31,
   "EosHistory": [
@@ -1149,17 +1149,17 @@
       "ID": "ID_03_SONIC2_WATCH_OPENING",
       "SetID": "7o8nc5m",
       "Name": "Welcome to Sonic the Hedgehog 2",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 227
     },
     {
       "ID": "ID_04_SONIC3K_WATCH_OPENING",
       "SetID": "7o8nc5m",
       "Name": "Welcome to Sonic 3 \u0026 Knuckles",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 227
     },
     {
       "ID": "ID_05_SONIC1_DEFEAT_MOTORA",
@@ -1197,9 +1197,9 @@
       "ID": "ID_09_SONIC2_DEFEAT_STINGER",
       "SetID": "7o8nc5m",
       "Name": "Beware Stingers!",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 143
     },
     {
       "ID": "ID_10_SONIC2_WIN_THE_JACKPOT",
@@ -1421,8 +1421,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-07-11T16:58:27.9146656+00:00",
-  "LastChanged_Achievements": "2023-07-14T08:07:54.4687114+00:00",
+  "LastChanged_Achievements": "2023-07-14T09:06:04.2931603+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:17.4042216+00:00",
-  "LastUpdate_Ratings": "2023-07-14T07:58:32.4921711+00:00",
-  "LastUpdate_Achievements": "2023-07-14T08:07:54.468739+00:00"
+  "LastUpdate_Ratings": "2023-07-14T08:57:55.3243884+00:00",
+  "LastUpdate_Achievements": "2023-07-14T09:06:04.293185+00:00"
 }

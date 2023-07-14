@@ -3,8 +3,8 @@
   "Name": null,
   "Ranking_EOS_Progress": 377,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -235,9 +235,9 @@
       "ID": "ACH_20",
       "SetID": "efe2lj",
       "Name": "Flawless Victory",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_21",
@@ -259,9 +259,9 @@
       "ID": "ACH_23",
       "SetID": "efe2lj",
       "Name": "Geared Up",
-      "Percentage": -5.6,
+      "Percentage": 0,
       "XP": 20,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_24",
@@ -299,9 +299,9 @@
       "ID": "ACH_28",
       "SetID": "efe2lj",
       "Name": "I Found It",
-      "Percentage": -5.6,
+      "Percentage": 0,
       "XP": 20,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_29",
@@ -377,7 +377,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-07-14T08:02:25.6960245+00:00",
-  "LastUpdate_Ratings": "2023-07-14T07:57:16.3975003+00:00",
-  "LastUpdate_Achievements": "2023-07-14T08:02:25.6960532+00:00"
+  "LastChanged_Achievements": "2023-07-14T09:00:41.019221+00:00",
+  "LastUpdate_Ratings": "2023-07-14T08:57:03.3271061+00:00",
+  "LastUpdate_Achievements": "2023-07-14T09:00:41.0192425+00:00"
 }
