@@ -18,7 +18,7 @@ Rating: 4.49 (Ranked 576)
 | There you are! | 43.00% | ~10,415 |
 | Clutch Capture | 41.00% | ~9,930 |
 | Back Off | 35.00% | ~8,477 |
-| Daily Dose | 34.00% | ~8,235 |
+| Daily Dose | 35.00% | ~8,477 |
 | Solo Capture | 32.00% | ~7,750 |
 | Welcome to the Crew | 32.00% | ~7,750 |
 | Ghostbuster In Training | 30.00% | ~7,266 |

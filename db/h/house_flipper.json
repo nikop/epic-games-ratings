@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -1734,9 +1734,9 @@
       "Count": 210
     }
   ],
-  "EOS_Progressed": 19901,
+  "EOS_Progressed": 19902,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5774,6 +5774,11 @@
       "Time": "2023-07-14T17:08:04.5801002+00:00",
       "NumProgressed": 19901,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-07-14T18:06:34.3228989+00:00",
+      "NumProgressed": 19902,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -5833,7 +5838,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18707
+      "UsersEstimate": 18708
     },
     {
       "ID": "GameOver",
@@ -5945,7 +5950,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6169
+      "UsersEstimate": 6170
     },
     {
       "ID": "VeronicaLiptson",
@@ -5968,15 +5973,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19901,
+      "Progressed": 19902,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-07-13T18:00:01.2110728+00:00",
-  "LastChanged_Achievements": "2023-07-14T17:08:04.5800993+00:00",
+  "LastChanged_Achievements": "2023-07-14T18:06:34.3228984+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:44.7849025+00:00",
-  "LastUpdate_Ratings": "2023-07-14T17:00:58.0961427+00:00",
-  "LastUpdate_Achievements": "2023-07-14T17:08:04.580141+00:00"
+  "LastUpdate_Ratings": "2023-07-14T18:00:05.022526+00:00",
+  "LastUpdate_Achievements": "2023-07-14T18:06:34.32293+00:00"
 }

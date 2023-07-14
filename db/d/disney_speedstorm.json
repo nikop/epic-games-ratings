@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 2948,
   "EOS_Completed": 97,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 3.29,
   "EosHistory": [
@@ -3638,9 +3638,9 @@
       "ID": "9",
       "SetID": "9p3jgda",
       "Name": "LEGENDARY HERO",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 354
+      "UsersEstimate": 383
     }
   ],
   "AchievementSets": [
@@ -3652,8 +3652,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-07-14T17:06:48.5452032+00:00",
+  "LastChanged_Achievements": "2023-07-14T18:05:31.2626492+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:58.7714419+00:00",
-  "LastUpdate_Ratings": "2023-07-14T17:00:13.2984657+00:00",
-  "LastUpdate_Achievements": "2023-07-14T17:06:48.5452434+00:00"
+  "LastUpdate_Ratings": "2023-07-14T17:59:26.6750404+00:00",
+  "LastUpdate_Achievements": "2023-07-14T18:05:31.26268+00:00"
 }

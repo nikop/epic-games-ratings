@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3116,7 +3116,7 @@
       "Count": 381
     }
   ],
-  "EOS_Progressed": 10309,
+  "EOS_Progressed": 10310,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
@@ -8381,6 +8381,11 @@
       "Time": "2023-07-14T17:04:57.0123268+00:00",
       "NumProgressed": 10309,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-14T18:04:11.2893738+00:00",
+      "NumProgressed": 10310,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -8424,7 +8429,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -8448,7 +8453,7 @@
       "Name": "Path of the Angel",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "09_PathOfDemon",
@@ -8784,7 +8789,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -9319,21 +9324,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9091,
+      "Progressed": 9092,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10309,
+      "Progressed": 10310,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-14T09:59:14.033827+00:00",
-  "LastChanged_Achievements": "2023-07-14T17:04:57.0123259+00:00",
+  "LastChanged_Achievements": "2023-07-14T18:04:11.2893733+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:12.7052521+00:00",
-  "LastUpdate_Ratings": "2023-07-14T16:59:29.3729737+00:00",
-  "LastUpdate_Achievements": "2023-07-14T17:04:57.0126003+00:00"
+  "LastUpdate_Ratings": "2023-07-14T17:58:53.5021625+00:00",
+  "LastUpdate_Achievements": "2023-07-14T18:04:11.2895274+00:00"
 }

@@ -6,6 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| The Ring of Regeneration | 0.20% | ~423 |
 | Intelligence Hunt | 0.10% | ~211 |
 | Seeds of Deceit | 0.10% | ~211 |
 | Visions of Strahd | 0.10% | ~211 |
@@ -20,7 +21,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Our Time To Shine | 0.10% | ~211 |
 | Review by the Blackstaff | 0.10% | ~178 |
 | The Cursed Farmer | 0.10% | ~211 |
-| The Ring of Regeneration | 0.10% | ~211 |
 | The Crumbling Temple | 0.10% | ~211 |
 | The Death Curse | 0.10% | ~211 |
 | Treasure Hunters | 0.10% | ~211 |
@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211,367 (Ranked 52)  
+Progressed: 211,389 (Ranked 52)  
 Completed: 2,050 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -599,7 +599,7 @@ Completed: 2,050 (0.97%) (Ranked 102)
 | 2023-07-11 | 210,283 | 2,046 |
 | 2023-07-12 | 210,649 | 2,046 |
 | 2023-07-13 | 211,069 | 2,049 |
-| 2023-07-14 | 211,367 | 2,050 |
+| 2023-07-14 | 211,389 | 2,050 |
 ## Awards
 Max (Diverse Characters): 5,033  (Ranked 66)  
 Sum: 30,510 (Ranked 38)  

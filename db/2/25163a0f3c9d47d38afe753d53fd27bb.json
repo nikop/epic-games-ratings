@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 503,
+  "EOS_Progressed": 504,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 12.13,
+  "EOS_Completed_Percentage": 12.1,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -1546,6 +1546,11 @@
       "Time": "2023-07-14T11:06:30.196036+00:00",
       "NumProgressed": 503,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-07-14T18:05:38.3752968+00:00",
+      "NumProgressed": 504,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 30,
@@ -1557,7 +1562,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "LEVEL_002",
@@ -1565,7 +1570,7 @@
       "Name": "Promising crop",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "LEVEL_003",
@@ -1573,7 +1578,7 @@
       "Name": "A horse in the country",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "LEVEL_004",
@@ -1589,15 +1594,15 @@
       "Name": "Small village",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "LEVEL_006",
       "SetID": "212bg48",
       "Name": "Nothing like fresh food",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 202
     },
     {
       "ID": "LEVEL_007",
@@ -1693,15 +1698,15 @@
       "Name": "Isle rock city",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "LEVEL_019",
       "SetID": "212bg48",
       "Name": "Calling Mr. Joe",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 71
     },
     {
       "ID": "LEVEL_020",
@@ -1709,7 +1714,7 @@
       "Name": "Go round and round",
       "Percentage": 14,
       "XP": 110,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "LEVEL_021",
@@ -1796,14 +1801,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 503,
+      "Progressed": 504,
       "Completed": 61
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-07-14T17:06:58.8964009+00:00",
+  "LastChanged_Achievements": "2023-07-14T18:05:38.3752963+00:00",
   "LastUpdate_AppInfo": "2023-07-10T16:57:01.27896+00:00",
-  "LastUpdate_Ratings": "2023-07-14T16:57:37.39115+00:00",
-  "LastUpdate_Achievements": "2023-07-14T17:06:58.8964566+00:00"
+  "LastUpdate_Ratings": "2023-07-14T17:57:27.951398+00:00",
+  "LastUpdate_Achievements": "2023-07-14T18:05:38.3753209+00:00"
 }

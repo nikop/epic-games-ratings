@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1320,
+  "EOS_Progressed": 1321,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
@@ -1163,6 +1163,11 @@
       "Time": "2023-07-13T18:06:56.328829+00:00",
       "NumProgressed": 1320,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-14T18:06:40.8368033+00:00",
+      "NumProgressed": 1321,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1196,9 +1201,9 @@
       "ID": "12",
       "SetID": "n50no0",
       "Name": "Shake the rust off their feet",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 290
+      "UsersEstimate": 277
     },
     {
       "ID": "13",
@@ -1222,7 +1227,7 @@
       "Name": "Back to rust",
       "Percentage": 12,
       "XP": 70,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "16",
@@ -1238,7 +1243,7 @@
       "Name": "Balding bloot!",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1044
     },
     {
       "ID": "18",
@@ -1262,7 +1267,7 @@
       "Name": "Flower Powered",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "20",
@@ -1398,7 +1403,7 @@
       "Name": "Over my dead body",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "9",
@@ -1413,15 +1418,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1320,
+      "Progressed": 1321,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-07-14T17:08:13.2538879+00:00",
+  "LastChanged_Achievements": "2023-07-14T18:06:40.8368029+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:43.1478787+00:00",
-  "LastUpdate_Ratings": "2023-07-14T17:00:55.0642932+00:00",
-  "LastUpdate_Achievements": "2023-07-14T17:08:13.2539151+00:00"
+  "LastUpdate_Ratings": "2023-07-14T18:00:03.1227841+00:00",
+  "LastUpdate_Achievements": "2023-07-14T18:06:40.8368251+00:00"
 }

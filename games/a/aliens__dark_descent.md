@@ -1,7 +1,7 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.41 (Ranked 673)  
+Rating: 4.43 (Ranked 654)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -15,7 +15,7 @@ Rating: 4.41 (Ranked 673)
 | The Shrink Hates Me | 53.00% | ~1,517 |
 | People Person | 52.00% | ~1,488 |
 | Use The Bumper, That's What It's For | 50.00% | ~1,431 |
-| First Steps Into Madness | 48.00% | ~1,374 |
+| First Steps Into Madness | 49.00% | ~1,402 |
 | Colonial Barrels | 47.00% | ~1,345 |
 | Harper's Hell | 39.00% | ~1,116 |
 | Damn Dude, You Gotta Lose Some Weight! | 39.00% | ~1,116 |
@@ -23,8 +23,8 @@ Rating: 4.41 (Ranked 673)
 | Where It All Begun | 33.00% | ~944 |
 | Recouped Investment | 33.00% | ~944 |
 | Omelette Du Fromage | 30.00% | ~859 |
+| The More The Merrier | 26.00% | ~744 |
 | Living Nightmare | 25.00% | ~716 |
-| The More The Merrier | 25.00% | ~716 |
 | The Darwin Era Was Here | 21.00% | ~601 |
 | Stuff Of Nightmares | 19.00% | ~544 |
 | Come on, You Wanna Live Forever? | 19.00% | ~544 |
@@ -102,3 +102,4 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-10 | 4.42 | 0 | 0 |
 | 2023-07-11 | 4.43 | 0 | 0 |
 | 2023-07-13 | 4.41 | 0 | 0 |
+| 2023-07-14 | 4.43 | 0 | 0 |

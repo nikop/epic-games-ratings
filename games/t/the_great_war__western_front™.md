@@ -11,7 +11,7 @@
 | The Chemists' War | 5.00% | ~15 |
 | War with Friends | 4.00% | ~12 |
 | A Student of History | 1.00% | ~3 |
-| That's Not What Happened | 0.70% | ~2 |
+| That's Not What Happened | 1.00% | ~3 |
 | Bombs Away! | 0.30% | ~1 |
 | Nothing Can Stop Us! | 0.30% | ~1 |
 | Eventful | 0.00% | ~0 |

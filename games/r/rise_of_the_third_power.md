@@ -19,8 +19,8 @@
 | Beginning of the End | 20.00% | ~27 |
 | Bling | 19.00% | ~26 |
 | Geared | 18.00% | ~25 |
+| Master Trader | 13.00% | ~18 |
 | Master Crafter | 12.00% | ~16 |
-| Master Trader | 12.00% | ~16 |
 | Mysteries of Rin | 12.00% | ~16 |
 | Empyrean Champion | 9.00% | ~12 |
 | Patience | 9.00% | ~12 |

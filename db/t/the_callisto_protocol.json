@@ -4,7 +4,7 @@
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 846,
   "Ranking_Popularity": 374,
-  "Ranking_PopularitySum": 316,
+  "Ranking_PopularitySum": 315,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 134,
   "Ranking_EOS_NewPlayers": 129,
@@ -906,10 +906,16 @@
       "Rating": 4.19,
       "NumberOfAwards": 385,
       "NumberOfAwardsMax": 68
+    },
+    {
+      "Time": "2023-07-14T17:58:27.8102872+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 387,
+      "NumberOfAwardsMax": 68
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 385,
+  "NumberOfAwards": 387,
   "NumberOfAwardsMax": 68,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -935,7 +941,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 63
+      "Count": 65
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -956,7 +962,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 15713,
+  "EOS_Progressed": 15714,
   "EOS_Completed": 66,
   "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 2,
@@ -5661,6 +5667,11 @@
       "Time": "2023-07-14T17:07:25.6270048+00:00",
       "NumProgressed": 15713,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-07-14T18:05:56.8411955+00:00",
+      "NumProgressed": 15714,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 47,
@@ -6047,22 +6058,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15713,
+      "Progressed": 15714,
       "Completed": 66
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3639,
+      "Progressed": 3640,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-07-14T05:58:24.1809517+00:00",
-  "LastChanged_Achievements": "2023-07-14T17:07:25.6270043+00:00",
+  "LastChanged": "2023-07-14T17:58:27.810287+00:00",
+  "LastChanged_Achievements": "2023-07-14T18:05:56.841195+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:30.5014032+00:00",
-  "LastUpdate_Ratings": "2023-07-14T16:58:54.7780287+00:00",
-  "LastUpdate_Achievements": "2023-07-14T17:07:25.627104+00:00"
+  "LastUpdate_Ratings": "2023-07-14T17:58:27.8102879+00:00",
+  "LastUpdate_Achievements": "2023-07-14T18:05:56.8412506+00:00"
 }

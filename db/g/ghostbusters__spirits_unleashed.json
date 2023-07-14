@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 164,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1454,7 +1454,7 @@
   ],
   "EOS_Progressed": 24220,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7948,9 +7948,9 @@
       "ID": "Daily_Dose",
       "SetID": "819popo",
       "Name": "Daily Dose",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 8235
+      "UsersEstimate": 8477
     },
     {
       "ID": "Diabolical",
@@ -8293,8 +8293,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-07-14T03:59:25.3074827+00:00",
-  "LastChanged_Achievements": "2023-07-14T17:03:11.9073762+00:00",
+  "LastChanged_Achievements": "2023-07-14T18:02:22.9921567+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:03.6661628+00:00",
-  "LastUpdate_Ratings": "2023-07-14T17:00:17.5636168+00:00",
-  "LastUpdate_Achievements": "2023-07-14T17:03:11.9074985+00:00"
+  "LastUpdate_Ratings": "2023-07-14T17:59:31.4642842+00:00",
+  "LastUpdate_Achievements": "2023-07-14T18:02:22.9922233+00:00"
 }

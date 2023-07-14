@@ -1,7 +1,7 @@
 # Pillars of Eternity - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/pillars-of-eternity)  
 [View Rawdata](../../db/p/pillars_of_eternity_-_definitive_edition.json)  
-Rating: 4.66 (Ranked 273)  
+Rating: 4.65 (Ranked 299)  
 Number of Ratings: 2,847  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -220,3 +220,4 @@ Diff (max vs sum): -23
 | 2023-07-08 | 4.66 | - | 1,891 | 4,645 |
 | 2023-07-10 | 4.66 | - | 1,892 | 4,647 |
 | 2023-07-13 | 4.66 | - | 1,893 | 4,648 |
+| 2023-07-14 | 4.65 | - | 1,893 | 4,648 |

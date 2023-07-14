@@ -7,6 +7,7 @@ Rating: 4.44 (Ranked 642)
 | ---- | ---------- | ----- |
 | Taking it back | 3.00% | ~98 |
 | Target America | 3.00% | ~98 |
+| The Kraken Sleeps | 3.00% | ~98 |
 | Climbing the Ladder | 2.00% | ~65 |
 | Liberté | 2.00% | ~65 |
 | No Stone Unturned | 2.00% | ~65 |
@@ -21,7 +22,6 @@ Rating: 4.44 (Ranked 642)
 | The Kraken Wakes | 2.00% | ~65 |
 | It's Starting to Crack | 2.00% | ~65 |
 | Change the Channel | 2.00% | ~65 |
-| The Kraken Sleeps | 2.00% | ~65 |
 | Opposing Force | 1.00% | ~33 |
 | Just a Flesh Wound | 1.00% | ~33 |
 | Skirmisher | 1.00% | ~33 |
@@ -51,10 +51,10 @@ Rating: 4.44 (Ranked 642)
 | Sink or Swim | 0.50% | ~16 |
 | Strategist | 0.40% | ~13 |
 | Eagle Eyed | 0.40% | ~13 |
+| Locomotion Commotion | 0.40% | ~13 |
 | Last Resort | 0.40% | ~13 |
 | Siegebreaker | 0.40% | ~13 |
 | Ghost of Falaise | 0.40% | ~13 |
-| Locomotion Commotion | 0.30% | ~10 |
 | Shoot for the Moon | 0.30% | ~10 |
 | If You Go Down To The Woods Today | 0.30% | ~10 |
 | Fight Another Day | 0.30% | ~10 |
