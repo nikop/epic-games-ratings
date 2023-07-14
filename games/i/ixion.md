@@ -5,7 +5,7 @@ Rating: 4.56 (Ranked 457)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 21.00% | ~591 |
+| Wakey Wakey | 22.00% | ~620 |
 | Infinite Growth... | 18.00% | ~507 |
 | Sputnik 2049 | 18.00% | ~507 |
 | Without Breaking Some Eggs... | 17.00% | ~479 |

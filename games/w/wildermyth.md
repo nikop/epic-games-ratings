@@ -6,19 +6,19 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cost of Heroism | 37.00% | ~485 |
-| Me and My Familiar | 35.00% | ~459 |
-| This Too Shall Pass | 29.00% | ~380 |
-| Passing Shadow | 28.00% | ~367 |
-| Cutthroat Competitors | 28.00% | ~367 |
+| The Cost of Heroism | 37.00% | ~486 |
+| Me and My Familiar | 35.00% | ~460 |
+| This Too Shall Pass | 29.00% | ~381 |
+| Passing Shadow | 28.00% | ~368 |
+| Cutthroat Competitors | 28.00% | ~368 |
 | How Romantic! | 26.00% | ~341 |
-| Daybreak | 25.00% | ~328 |
+| Daybreak | 26.00% | ~341 |
 | Gotta Ca... Must Collect All of Them | 24.00% | ~315 |
-| Completing the Look | 14.00% | ~184 |
-| Who's Counting? | 13.00% | ~170 |
-| War Endured | 13.00% | ~170 |
-| A Mythic Menagerie | 12.00% | ~157 |
-| Core Failure | 12.00% | ~157 |
+| Completing the Look | 13.00% | ~171 |
+| Who's Counting? | 13.00% | ~171 |
+| War Endured | 13.00% | ~171 |
+| A Mythic Menagerie | 12.00% | ~158 |
+| Core Failure | 12.00% | ~158 |
 | Pyrrhic Victory | 10.00% | ~131 |
 | Thematic Divergence | 9.00% | ~118 |
 | Echoes Die | 9.00% | ~118 |
@@ -30,13 +30,13 @@ Number of Ratings: 45  (23.09.2022)
 | Let Me Get My Chisel | 6.00% | ~79 |
 | Legends Never Die | 5.00% | ~66 |
 | In Soil, In Smoke | 5.00% | ~66 |
-| A Hunger, Sated | 5.00% | ~66 |
 | Wingknight's Prowess | 5.00% | ~66 |
 | All My Birds, Safely Home | 5.00% | ~66 |
 | Turncoat | 5.00% | ~66 |
-| Worldwalker | 4.00% | ~52 |
-| Grillmaster | 4.00% | ~52 |
-| No Time for Clawmonsters | 4.00% | ~52 |
+| Worldwalker | 4.00% | ~53 |
+| A Hunger, Sated | 4.00% | ~53 |
+| Grillmaster | 4.00% | ~53 |
+| No Time for Clawmonsters | 4.00% | ~53 |
 | We Emerge Changed | 3.00% | ~39 |
 | Storied Past | 3.00% | ~39 |
 | Bonebreakers | 3.00% | ~39 |
@@ -59,11 +59,11 @@ Number of Ratings: 45  (23.09.2022)
 | A Lowly Crust of Beef | 1.00% | ~13 |
 | I'm Not Smiling | 1.00% | ~13 |
 | Thwack! | 1.00% | ~13 |
-| Overwhelming Monstrosity | 0.80% | ~10 |
+| Overwhelming Monstrosity | 0.80% | ~11 |
 | We Call That Mortificient! | 0.70% | ~9 |
 | Peacemaker | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,311 (Ranked 177)  
+Progressed: 1,313 (Ranked 177)  
 Completed: 5 (0.38%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,6 +137,7 @@ Completed: 5 (0.38%) (Ranked 138)
 | 2023-07-11 | 1,305 | 5 |
 | 2023-07-12 | 1,309 | 5 |
 | 2023-07-13 | 1,311 | 5 |
+| 2023-07-14 | 1,313 | 5 |
 ## Awards
 Max (Character Customization): 28  (Ranked 462)  
 Sum: 28 (Ranked 474)  

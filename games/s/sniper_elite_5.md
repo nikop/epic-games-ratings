@@ -1,27 +1,28 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.44 (Ranked 642)  
+Rating: 4.44 (Ranked 643)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Taking it back | 3.00% | ~98 |
 | Target America | 3.00% | ~98 |
 | The Kraken Sleeps | 3.00% | ~98 |
-| Climbing the Ladder | 2.00% | ~65 |
-| Liberté | 2.00% | ~65 |
-| No Stone Unturned | 2.00% | ~65 |
-| Organ Grinder | 2.00% | ~65 |
-| Meeting Resistance | 2.00% | ~65 |
-| Gunslinger | 2.00% | ~65 |
-| Sharpshooter | 2.00% | ~65 |
-| Confirming Suspicions | 2.00% | ~65 |
-| Lord of War | 2.00% | ~65 |
-| Resourceful | 2.00% | ~65 |
-| As Quiet as a Mouse | 2.00% | ~65 |
-| The Kraken Wakes | 2.00% | ~65 |
-| It's Starting to Crack | 2.00% | ~65 |
-| Change the Channel | 2.00% | ~65 |
+| Climbing the Ladder | 2.00% | ~66 |
+| Liberté | 2.00% | ~66 |
+| No Stone Unturned | 2.00% | ~66 |
+| Organ Grinder | 2.00% | ~66 |
+| Meeting Resistance | 2.00% | ~66 |
+| Gunslinger | 2.00% | ~66 |
+| Sharpshooter | 2.00% | ~66 |
+| Confirming Suspicions | 2.00% | ~66 |
+| Lord of War | 2.00% | ~66 |
+| Resourceful | 2.00% | ~66 |
+| Der Geist | 2.00% | ~66 |
+| As Quiet as a Mouse | 2.00% | ~66 |
+| The Kraken Wakes | 2.00% | ~66 |
+| It's Starting to Crack | 2.00% | ~66 |
+| Change the Channel | 2.00% | ~66 |
 | Opposing Force | 1.00% | ~33 |
 | Just a Flesh Wound | 1.00% | ~33 |
 | Skirmisher | 1.00% | ~33 |
@@ -29,7 +30,6 @@ Rating: 4.44 (Ranked 642)
 | Precision Is Key | 1.00% | ~33 |
 | My Little Friend | 1.00% | ~33 |
 | Explosive Efficiency | 1.00% | ~33 |
-| Der Geist | 1.00% | ~33 |
 | Close Quarters | 1.00% | ~33 |
 | Snake in the Grass | 1.00% | ~33 |
 | Brains of the Operation | 1.00% | ~33 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 642)
 | Alpha | 0.10% | ~3 |
 | Das Familienjuwel | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,274 (Ranked 147)  
+Progressed: 3,276 (Ranked 147)  
 Completed: 9 (0.27%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 9 (0.27%) (Ranked 153)
 | 2023-07-11 | 3,263 | 9 |
 | 2023-07-12 | 3,266 | 9 |
 | 2023-07-13 | 3,269 | 9 |
-| 2023-07-14 | 3,274 | 9 |
+| 2023-07-14 | 3,276 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

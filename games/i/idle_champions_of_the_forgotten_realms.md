@@ -1,12 +1,13 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.05 (Ranked 902)  
+Rating: 4.05 (Ranked 903)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Ring of Regeneration | 0.20% | ~423 |
+| The Mad Wizard | 0.20% | ~423 |
 | Intelligence Hunt | 0.10% | ~211 |
 | Seeds of Deceit | 0.10% | ~211 |
 | Visions of Strahd | 0.10% | ~211 |
@@ -203,7 +204,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Enemy Summit | 0.10% | ~178 |
 | Mirage Arcane | 0.10% | ~178 |
 | Only Human | 0.10% | ~178 |
-| The Mad Wizard | 0.10% | ~211 |
 | Close Escort | 0.10% | ~211 |
 | Constant Banditry | 0.10% | ~211 |
 | The Long Haul | 0.10% | ~211 |
@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211,417 (Ranked 52)  
+Progressed: 211,435 (Ranked 52)  
 Completed: 2,050 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -599,7 +599,7 @@ Completed: 2,050 (0.97%) (Ranked 102)
 | 2023-07-11 | 210,283 | 2,046 |
 | 2023-07-12 | 210,649 | 2,046 |
 | 2023-07-13 | 211,069 | 2,049 |
-| 2023-07-14 | 211,417 | 2,050 |
+| 2023-07-14 | 211,435 | 2,050 |
 ## Awards
 Max (Diverse Characters): 5,033  (Ranked 66)  
 Sum: 30,510 (Ranked 38)  

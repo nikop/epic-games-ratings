@@ -2,12 +2,12 @@
   "ID": "89fb09a222a54e53b692e9c36e68d0a1",
   "Name": "Filament",
   "ProductSlug": "filament-332a92",
-  "Ranking_Rating": 765,
+  "Ranking_Rating": 766,
   "Ranking_Popularity": 181,
   "Ranking_PopularitySum": 275,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 65,
+  "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -225,9 +225,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 196289,
+  "EOS_Progressed": 196292,
   "EOS_Completed": 465,
-  "EOS_NewPlayers": 638,
+  "EOS_NewPlayers": 634,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -9235,6 +9235,11 @@
       "Time": "2023-07-14T19:03:02.3116459+00:00",
       "NumProgressed": 196289,
       "NumCompleted": 465
+    },
+    {
+      "Time": "2023-07-14T20:01:18.009854+00:00",
+      "NumProgressed": 196292,
+      "NumCompleted": 465
     }
   ],
   "TotalAchievements": 29,
@@ -9270,7 +9275,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 184512
+      "UsersEstimate": 184514
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -9326,7 +9331,7 @@
       "Name": "Corrupted.",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 9814
+      "UsersEstimate": 9815
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTEDCOMPLETE",
@@ -9382,7 +9387,7 @@
       "Name": "So you\u0027re saying I don\u0027t touch these ones?",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 11777
+      "UsersEstimate": 11778
     },
     {
       "ID": "ACHIEVEMENT_OPUS",
@@ -9406,7 +9411,7 @@
       "Name": "Good things come in pairs... Coloured Pairs.",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 9814
+      "UsersEstimate": 9815
     },
     {
       "ID": "ACHIEVEMENT_REQUISITE",
@@ -9477,7 +9482,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 196289,
+      "Progressed": 196292,
       "Completed": 465
     }
   ],
@@ -9485,8 +9490,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-06-26T22:58:32.656469+00:00",
-  "LastChanged_Achievements": "2023-07-14T19:03:02.3116452+00:00",
+  "LastChanged_Achievements": "2023-07-14T20:01:18.0098532+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:47.2271443+00:00",
-  "LastUpdate_Ratings": "2023-07-14T19:00:20.2624224+00:00",
-  "LastUpdate_Achievements": "2023-07-14T19:03:02.3117565+00:00"
+  "LastUpdate_Ratings": "2023-07-14T19:59:22.2353936+00:00",
+  "LastUpdate_Achievements": "2023-07-14T20:01:18.0099597+00:00"
 }

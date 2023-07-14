@@ -1,18 +1,18 @@
 # Dice Legacy
 [Store](https://store.epicgames.com/en-US/p/dice-legacy)  
 [View Rawdata](../../db/d/dice_legacy.json)  
-Rating: 4.27 (Ranked 796)  
+Rating: 4.27 (Ranked 797)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | We made it | 34.00% | ~309 |
 | Manipulating Fate | 8.00% | ~73 |
 | The City | 8.00% | ~73 |
-| Listening to the crowd | 6.00% | ~55 |
-| Full house | 5.00% | ~45 |
-| Burn and Pillage | 5.00% | ~45 |
-| Hear me out | 5.00% | ~45 |
-| Accepting the Prophecy | 5.00% | ~45 |
+| Full house | 5.00% | ~46 |
+| Burn and Pillage | 5.00% | ~46 |
+| Hear me out | 5.00% | ~46 |
+| Listening to the crowd | 5.00% | ~46 |
+| Accepting the Prophecy | 5.00% | ~46 |
 | Ascended | 4.00% | ~36 |
 | The Penitent Ones | 4.00% | ~36 |
 | Greedy | 4.00% | ~36 |
@@ -25,10 +25,10 @@ Rating: 4.27 (Ranked 796)
 | The Unruly Ones | 2.00% | ~18 |
 | The First King | 1.00% | ~9 |
 | The great fire | 1.00% | ~9 |
-| The Council | 0.90% | ~8 |
+| The Council | 1.00% | ~9 |
 | The Mad | 0.90% | ~8 |
 | Like the dream | 0.70% | ~6 |
-| Six Faces | 0.60% | ~5 |
+| Six Faces | 0.50% | ~5 |
 | Charismatic Leader | 0.40% | ~4 |
 | Metropolis | 0.40% | ~4 |
 | The Great Winter | 0.30% | ~3 |
@@ -51,7 +51,7 @@ Rating: 4.27 (Ranked 796)
 | Fate is against us | 0.00% | ~0 |
 | Despite everything | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 909 (Ranked 193)  
+Progressed: 910 (Ranked 193)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-09 | 905 | 0 |
 | 2023-07-10 | 906 | 0 |
 | 2023-07-12 | 907 | 0 |
-| 2023-07-14 | 909 | 0 |
+| 2023-07-14 | 910 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

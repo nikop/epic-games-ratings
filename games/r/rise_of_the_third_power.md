@@ -13,8 +13,8 @@
 | Specialist | 34.00% | ~47 |
 | Opulent | 33.00% | ~45 |
 | Sparkly | 30.00% | ~41 |
+| Teamwork | 24.00% | ~33 |
 | Ready to Rock | 23.00% | ~32 |
-| Teamwork | 23.00% | ~32 |
 | Determined | 21.00% | ~29 |
 | Beginning of the End | 20.00% | ~27 |
 | Bling | 20.00% | ~27 |
@@ -22,7 +22,7 @@
 | Master Trader | 13.00% | ~18 |
 | Master Crafter | 12.00% | ~16 |
 | Mysteries of Rin | 12.00% | ~16 |
-| Empyrean Champion | 9.00% | ~12 |
+| Empyrean Champion | 10.00% | ~14 |
 | Patience | 9.00% | ~12 |
 | Master Tactician | 2.00% | ~3 |
 ## Popularity (Based on EOS Achievements)

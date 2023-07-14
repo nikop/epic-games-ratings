@@ -2,13 +2,13 @@
   "ID": "93b333eb973b45b582f3bdf68dfc1dc9",
   "Name": "Railway Empire",
   "ProductSlug": "railway-empire",
-  "Ranking_Rating": 521,
+  "Ranking_Rating": 522,
   "Ranking_Popularity": 235,
   "Ranking_PopularitySum": 194,
   "Ranking_EOS_Progress": 492,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2020-09-10T15:00:00+00:00",
     "PcReleaseDate": "2018-01-26T15:00:00+00:00",
@@ -2622,10 +2622,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 1994,
       "NumberOfAwardsMax": 286
+    },
+    {
+      "Time": "2023-07-14T20:00:36.4965331+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 1995,
+      "NumberOfAwardsMax": 286
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1994,
+  "NumberOfAwards": 1995,
   "NumberOfAwardsMax": 286,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2633,7 +2639,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 282
+      "Count": 283
     },
     {
       "Text": "This game is Relaxing",
@@ -2709,9 +2715,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:36.383576+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.8826483+00:00",
-  "LastChanged": "2023-07-14T14:00:29.3984807+00:00",
-  "LastChanged_Achievements": "2023-07-14T19:08:23.7944713+00:00",
+  "LastChanged": "2023-07-14T20:00:36.4965329+00:00",
+  "LastChanged_Achievements": "2023-07-14T20:06:38.9821604+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:30.2520656+00:00",
-  "LastUpdate_Ratings": "2023-07-14T19:02:04.4445061+00:00",
-  "LastUpdate_Achievements": "2023-07-14T19:08:23.7944769+00:00"
+  "LastUpdate_Ratings": "2023-07-14T20:00:36.4965336+00:00",
+  "LastUpdate_Achievements": "2023-07-14T20:06:38.9821638+00:00"
 }

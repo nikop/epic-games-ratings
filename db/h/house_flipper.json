@@ -2,13 +2,13 @@
   "ID": "d5cbd232ad304c91aacc20f31849435c",
   "Name": "House Flipper",
   "ProductSlug": "house-flipper",
-  "Ranking_Rating": 217,
+  "Ranking_Rating": 218,
   "Ranking_Popularity": 232,
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -1734,7 +1734,7 @@
       "Count": 210
     }
   ],
-  "EOS_Progressed": 19903,
+  "EOS_Progressed": 19904,
   "EOS_Completed": 19,
   "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
@@ -5784,6 +5784,11 @@
       "Time": "2023-07-14T19:08:29.936196+00:00",
       "NumProgressed": 19903,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-07-14T20:06:43.405074+00:00",
+      "NumProgressed": 19904,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -5795,7 +5800,7 @@
       "Name": "Family man",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2587
+      "UsersEstimate": 2588
     },
     {
       "ID": "CarMechanic",
@@ -5827,7 +5832,7 @@
       "Name": "Worth Every Penny",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2985
+      "UsersEstimate": 2986
     },
     {
       "ID": "EstateAgent",
@@ -5843,7 +5848,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18709
+      "UsersEstimate": 18710
     },
     {
       "ID": "GameOver",
@@ -5883,7 +5888,7 @@
       "Name": "Junior Estate Agent",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2587
+      "UsersEstimate": 2588
     },
     {
       "ID": "KnockKnock",
@@ -5978,15 +5983,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19903,
+      "Progressed": 19904,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-07-13T18:00:01.2110728+00:00",
-  "LastChanged_Achievements": "2023-07-14T19:08:29.9361954+00:00",
+  "LastChanged_Achievements": "2023-07-14T20:06:43.4050733+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:44.7849025+00:00",
-  "LastUpdate_Ratings": "2023-07-14T19:01:17.818856+00:00",
-  "LastUpdate_Achievements": "2023-07-14T19:08:29.9362459+00:00"
+  "LastUpdate_Ratings": "2023-07-14T20:00:04.3635703+00:00",
+  "LastUpdate_Achievements": "2023-07-14T20:06:43.4051359+00:00"
 }

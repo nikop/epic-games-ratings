@@ -1,7 +1,7 @@
 # Saturnalia
 [Store](https://store.epicgames.com/en-US/p/saturnalia)  
 [View Rawdata](../../db/s/saturnalia.json)  
-Rating: 4.25 (Ranked 807)  
+Rating: 4.25 (Ranked 808)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -22,11 +22,11 @@ Rating: 4.25 (Ranked 807)
 | Let there be light | 0.50% | ~322 |
 | Silent Advisor | 0.50% | ~322 |
 | Are you still there? | 0.40% | ~258 |
-| Soda addiction | 0.30% | ~193 |
-| Paparazzi | 0.30% | ~193 |
+| Soda addiction | 0.30% | ~194 |
+| Paparazzi | 0.30% | ~194 |
 | Ear Ringing | 0.10% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,498 (Ranked 80)  
+Progressed: 64,500 (Ranked 80)  
 Completed: 13 (0.02%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 13 (0.02%) (Ranked 214)
 | 2023-07-11 | 64,471 | 13 |
 | 2023-07-12 | 64,480 | 13 |
 | 2023-07-13 | 64,492 | 13 |
-| 2023-07-14 | 64,498 | 13 |
+| 2023-07-14 | 64,500 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

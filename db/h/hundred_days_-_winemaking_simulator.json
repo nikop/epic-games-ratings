@@ -2,13 +2,13 @@
   "ID": "4d8b727a49144090b103f6b6ba471e71",
   "Name": "Hundred Days - Winemaking Simulator",
   "ProductSlug": "hundred-days-winemaking-simulator",
-  "Ranking_Rating": 738,
+  "Ranking_Rating": 739,
   "Ranking_Popularity": 269,
   "Ranking_PopularitySum": 221,
   "Ranking_EOS_Progress": 492,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -937,8 +937,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-07-07T21:58:25.9102149+00:00",
-  "LastChanged_Achievements": "2023-07-14T19:08:20.3273448+00:00",
+  "LastChanged_Achievements": "2023-07-14T20:06:36.6854975+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:29.5274827+00:00",
-  "LastUpdate_Ratings": "2023-07-14T18:59:01.3635323+00:00",
-  "LastUpdate_Achievements": "2023-07-14T19:08:20.3273488+00:00"
+  "LastUpdate_Ratings": "2023-07-14T19:58:26.5632175+00:00",
+  "LastUpdate_Achievements": "2023-07-14T20:06:36.6855042+00:00"
 }

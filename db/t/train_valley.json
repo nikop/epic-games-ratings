@@ -2,13 +2,13 @@
   "ID": "317acd36093b41cab801f4237499e5d7",
   "Name": "Train Valley",
   "ProductSlug": "train-valley-ead642",
-  "Ranking_Rating": 598,
+  "Ranking_Rating": 599,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -93,9 +93,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 315,
+  "EOS_Progressed": 316,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -323,6 +323,11 @@
       "Time": "2023-07-14T16:01:18.4093939+00:00",
       "NumProgressed": 315,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-14T20:01:18.1795779+00:00",
+      "NumProgressed": 316,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -334,7 +339,7 @@
       "Name": "Getting started",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "02_collector",
@@ -422,7 +427,7 @@
       "Name": "Let\u0027s roll!",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "13_bunkrupt",
@@ -460,9 +465,9 @@
       "ID": "17_builder",
       "SetID": "chb1m60",
       "Name": "Builder",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 180
+      "UsersEstimate": 177
     },
     {
       "ID": "18_foreman",
@@ -478,7 +483,7 @@
       "Name": "Just in time!",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "20_sabotage",
@@ -492,9 +497,9 @@
       "ID": "21_missed",
       "SetID": "chb1m60",
       "Name": "Missed it!",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 72
+      "UsersEstimate": 70
     },
     {
       "ID": "22_ouroboros",
@@ -510,7 +515,7 @@
       "Name": "Close call!",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "24_mega",
@@ -566,7 +571,7 @@
       "Name": "Completely nuts!",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "31_chancellor",
@@ -598,7 +603,7 @@
       "Name": "Need to think",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "35_achtung",
@@ -645,15 +650,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 315,
+      "Progressed": 316,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-03-31T05:57:32.453108+00:00",
-  "LastChanged_Achievements": "2023-07-14T19:03:02.5903683+00:00",
+  "LastChanged_Achievements": "2023-07-14T20:01:18.1795772+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:06.143005+00:00",
-  "LastUpdate_Ratings": "2023-07-14T18:58:35.5640371+00:00",
-  "LastUpdate_Achievements": "2023-07-14T19:03:02.5904104+00:00"
+  "LastUpdate_Ratings": "2023-07-14T19:58:10.4374257+00:00",
+  "LastUpdate_Achievements": "2023-07-14T20:01:18.179613+00:00"
 }

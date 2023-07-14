@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6734,
+  "EOS_Progressed": 6735,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -4608,6 +4608,11 @@
       "Time": "2023-07-14T18:03:16.4019319+00:00",
       "NumProgressed": 6734,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-07-14T20:03:27.9017089+00:00",
+      "NumProgressed": 6735,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 21,
@@ -4619,7 +4624,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "ARRR",
@@ -4665,9 +4670,9 @@
       "ID": "ENERGY_SAVER",
       "SetID": "3cck1g6",
       "Name": "Energy Saver",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1145
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -4771,7 +4776,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 875
+      "UsersEstimate": 876
     },
     {
       "ID": "THING",
@@ -4786,7 +4791,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6734,
+      "Progressed": 6735,
       "Completed": 29
     }
   ],
@@ -4794,8 +4799,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-07-11T22:58:36.2658566+00:00",
-  "LastChanged_Achievements": "2023-07-14T19:03:59.6418407+00:00",
+  "LastChanged_Achievements": "2023-07-14T20:03:27.9017083+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:32.1676458+00:00",
-  "LastUpdate_Ratings": "2023-07-14T18:59:01.5202135+00:00",
-  "LastUpdate_Achievements": "2023-07-14T19:03:59.6418962+00:00"
+  "LastUpdate_Ratings": "2023-07-14T19:58:26.568971+00:00",
+  "LastUpdate_Achievements": "2023-07-14T20:03:27.9017604+00:00"
 }

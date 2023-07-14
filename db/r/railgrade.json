@@ -2,13 +2,13 @@
   "ID": "7277899e0d3241ea81ee56943fd31567",
   "Name": "RAILGRADE",
   "ProductSlug": "railgrade",
-  "Ranking_Rating": 492,
+  "Ranking_Rating": 493,
   "Ranking_Popularity": 348,
   "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-09-29T14:00:00+00:00",
     "PcReleaseDate": "2022-09-29T14:00:00+00:00",
@@ -468,9 +468,9 @@
       "Count": 46
     }
   ],
-  "EOS_Progressed": 19266,
+  "EOS_Progressed": 19267,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -4158,6 +4158,11 @@
       "Time": "2023-07-14T19:08:35.2485062+00:00",
       "NumProgressed": 19266,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-07-14T20:06:47.3342293+00:00",
+      "NumProgressed": 19267,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 37,
@@ -4201,7 +4206,7 @@
       "Name": "Builder",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 15991
+      "UsersEstimate": 15992
     },
     {
       "ID": "ach.060.goingdistance",
@@ -4225,7 +4230,7 @@
       "Name": "Eraser",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 13486
+      "UsersEstimate": 13487
     },
     {
       "ID": "ach.090.perfectionist",
@@ -4257,7 +4262,7 @@
       "Name": "Simplification",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 6550
+      "UsersEstimate": 6551
     },
     {
       "ID": "ach.130.minimalist",
@@ -4265,7 +4270,7 @@
       "Name": "Minimalist",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 17339
+      "UsersEstimate": 17340
     },
     {
       "ID": "ach.140.legacy",
@@ -4273,7 +4278,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 98,
       "XP": 60,
-      "UsersEstimate": 18881
+      "UsersEstimate": 18882
     },
     {
       "ID": "ach.150.pocket",
@@ -4281,7 +4286,7 @@
       "Name": "Pocket of Trains",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 12523
+      "UsersEstimate": 12524
     },
     {
       "ID": "ach.160.box",
@@ -4305,7 +4310,7 @@
       "Name": "Inspector",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 11367
+      "UsersEstimate": 11368
     },
     {
       "ID": "ach.190.scenic",
@@ -4337,7 +4342,7 @@
       "Name": "Hot Water",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5972
+      "UsersEstimate": 5973
     },
     {
       "ID": "ach.230.infinity",
@@ -4361,7 +4366,7 @@
       "Name": "Before the Downfall",
       "Percentage": 93,
       "XP": 60,
-      "UsersEstimate": 17917
+      "UsersEstimate": 17918
     },
     {
       "ID": "ach.260.investor",
@@ -4417,7 +4422,7 @@
       "Name": "Industrialist",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 4816
+      "UsersEstimate": 4817
     },
     {
       "ID": "ach.330.water",
@@ -4425,7 +4430,7 @@
       "Name": "Money like Water",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 17532
+      "UsersEstimate": 17533
     },
     {
       "ID": "ach.340.steel",
@@ -4464,7 +4469,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 19266,
+      "Progressed": 19267,
       "Completed": 32
     }
   ],
@@ -4472,8 +4477,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-07-07T14:59:15.8790573+00:00",
-  "LastChanged_Achievements": "2023-07-14T19:08:35.2485056+00:00",
+  "LastChanged_Achievements": "2023-07-14T20:06:47.3342286+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:35.0047379+00:00",
-  "LastUpdate_Ratings": "2023-07-14T19:01:08.3710239+00:00",
-  "LastUpdate_Achievements": "2023-07-14T19:08:35.2485656+00:00"
+  "LastUpdate_Ratings": "2023-07-14T19:59:57.8378887+00:00",
+  "LastUpdate_Achievements": "2023-07-14T20:06:47.3343207+00:00"
 }

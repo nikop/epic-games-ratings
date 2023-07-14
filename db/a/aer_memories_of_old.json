@@ -2,7 +2,7 @@
   "ID": "f3720f53cccb4a20841a392a8ea0457f",
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
-  "Ranking_Rating": 610,
+  "Ranking_Rating": 611,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 111,
@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15221,
+  "EOS_Progressed": 15223,
   "EOS_Completed": 319,
-  "EOS_NewPlayers": 585,
+  "EOS_NewPlayers": 581,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -9274,6 +9274,11 @@
       "Time": "2023-07-14T19:04:22.2015094+00:00",
       "NumProgressed": 15221,
       "NumCompleted": 319
+    },
+    {
+      "Time": "2023-07-14T20:03:44.2943976+00:00",
+      "NumProgressed": 15223,
+      "NumCompleted": 319
     }
   ],
   "TotalAchievements": 20,
@@ -9389,7 +9394,7 @@
       "Name": "Written in stone",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1065
+      "UsersEstimate": 1066
     },
     {
       "ID": "GAME_FINISHED",
@@ -9405,7 +9410,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 11568
+      "UsersEstimate": 11569
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -9429,7 +9434,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1065
+      "UsersEstimate": 1066
     },
     {
       "ID": "WEST_FINISHED",
@@ -9444,15 +9449,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 15221,
+      "Progressed": 15223,
       "Completed": 319
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-07-14T19:04:22.2015087+00:00",
+  "LastChanged_Achievements": "2023-07-14T20:03:44.2943969+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:34.4370622+00:00",
-  "LastUpdate_Ratings": "2023-07-14T19:02:07.1714241+00:00",
-  "LastUpdate_Achievements": "2023-07-14T19:04:22.2016002+00:00"
+  "LastUpdate_Ratings": "2023-07-14T20:00:40.0475812+00:00",
+  "LastUpdate_Achievements": "2023-07-14T20:03:44.2944809+00:00"
 }

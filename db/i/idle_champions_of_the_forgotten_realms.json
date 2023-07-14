@@ -2,13 +2,13 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 902,
+  "Ranking_Rating": 903,
   "Ranking_Popularity": 66,
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 102,
   "Ranking_EOS_NewPlayers": 22,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4966,10 +4966,10 @@
       "Count": 3299
     }
   ],
-  "EOS_Progressed": 211417,
+  "EOS_Progressed": 211435,
   "EOS_Completed": 2050,
-  "EOS_NewPlayers": 3371,
-  "EOS_NewCompleters": 15,
+  "EOS_NewPlayers": 3354,
+  "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
     {
@@ -14046,6 +14046,11 @@
       "Time": "2023-07-14T19:06:51.8973675+00:00",
       "NumProgressed": 211417,
       "NumCompleted": 2050
+    },
+    {
+      "Time": "2023-07-14T20:05:26.743232+00:00",
+      "NumProgressed": 211435,
+      "NumCompleted": 2050
     }
   ],
   "TotalAchievements": 507,
@@ -17199,9 +17204,9 @@
       "ID": "objective_completed_7",
       "SetID": "cc37lbc",
       "Name": "The Mad Wizard",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 423
     },
     {
       "ID": "objective_completed_70",
@@ -18112,21 +18117,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 177691,
+      "Progressed": 177709,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 211417,
+      "Progressed": 211435,
       "Completed": 2050
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-14T13:58:35.7820989+00:00",
-  "LastChanged_Achievements": "2023-07-14T19:06:51.8973668+00:00",
+  "LastChanged_Achievements": "2023-07-14T20:05:26.7432314+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:43.9043947+00:00",
-  "LastUpdate_Ratings": "2023-07-14T18:59:14.2057551+00:00",
-  "LastUpdate_Achievements": "2023-07-14T19:06:51.9005294+00:00"
+  "LastUpdate_Ratings": "2023-07-14T19:58:34.881126+00:00",
+  "LastUpdate_Achievements": "2023-07-14T20:05:26.7461755+00:00"
 }

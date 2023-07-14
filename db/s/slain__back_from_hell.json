@@ -2,13 +2,13 @@
   "ID": "5a85738bd9e74940ad8409ed8a2c680a",
   "Name": "Slain: Back From Hell",
   "ProductSlug": "slain-aea303",
-  "Ranking_Rating": 781,
+  "Ranking_Rating": 782,
   "Ranking_Popularity": 306,
   "Ranking_PopularitySum": 397,
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -187,9 +187,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 29968,
+  "EOS_Progressed": 29974,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 861,
+  "EOS_NewPlayers": 858,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -9342,6 +9342,11 @@
       "Time": "2023-07-14T19:04:24.0065258+00:00",
       "NumProgressed": 29968,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-07-14T20:03:45.5966404+00:00",
+      "NumProgressed": 29974,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -9353,7 +9358,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4795
+      "UsersEstimate": 4796
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -9361,7 +9366,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5994
+      "UsersEstimate": 5995
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -9425,7 +9430,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1498
+      "UsersEstimate": 1499
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -9505,7 +9510,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1498
+      "UsersEstimate": 1499
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -9584,7 +9589,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 29968,
+      "Progressed": 29974,
       "Completed": 20
     }
   ],
@@ -9592,8 +9597,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-07-11T15:00:39.3575549+00:00",
-  "LastChanged_Achievements": "2023-07-14T19:04:24.0065251+00:00",
+  "LastChanged_Achievements": "2023-07-14T20:03:45.5966395+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:25.1516139+00:00",
-  "LastUpdate_Ratings": "2023-07-14T19:01:59.09861+00:00",
-  "LastUpdate_Achievements": "2023-07-14T19:04:24.0066186+00:00"
+  "LastUpdate_Ratings": "2023-07-14T20:00:33.8043352+00:00",
+  "LastUpdate_Achievements": "2023-07-14T20:03:45.5967311+00:00"
 }

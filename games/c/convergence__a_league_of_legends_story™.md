@@ -5,23 +5,23 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 18.00% | ~136 |
-| Rail Rat | 16.00% | ~120 |
+| Rail Rat | 16.00% | ~121 |
 | The Mysterious Stranger | 15.00% | ~113 |
-| The Steel Shadow | 14.00% | ~105 |
-| The Man Who Shattered Time | 14.00% | ~105 |
-| The Loose Cannon | 14.00% | ~105 |
-| Make Up For Lost Time | 14.00% | ~105 |
-| Cartographer | 14.00% | ~105 |
-| Time Flies | 14.00% | ~105 |
-| The Harder They Fall | 14.00% | ~105 |
-| No, Thanks! | 14.00% | ~105 |
-| Breaking Down Barriers | 14.00% | ~105 |
-| The Wicked Twins | 14.00% | ~105 |
-| The Prince in Heels | 14.00% | ~105 |
-| Immaculate Aim | 14.00% | ~105 |
-| Immaculate Aim | 14.00% | ~105 |
-| The Brass Boss | 14.00% | ~105 |
-| The Family Fortune | 14.00% | ~105 |
+| The Steel Shadow | 14.00% | ~106 |
+| The Man Who Shattered Time | 14.00% | ~106 |
+| The Loose Cannon | 14.00% | ~106 |
+| Make Up For Lost Time | 14.00% | ~106 |
+| Cartographer | 14.00% | ~106 |
+| Time Flies | 14.00% | ~106 |
+| The Harder They Fall | 14.00% | ~106 |
+| No, Thanks! | 14.00% | ~106 |
+| Breaking Down Barriers | 14.00% | ~106 |
+| The Wicked Twins | 14.00% | ~106 |
+| The Prince in Heels | 14.00% | ~106 |
+| Immaculate Aim | 14.00% | ~106 |
+| Immaculate Aim | 14.00% | ~106 |
+| The Brass Boss | 14.00% | ~106 |
+| The Family Fortune | 14.00% | ~106 |
 | Treasure Trove | 13.00% | ~98 |
 | The Betrayer | 13.00% | ~98 |
 | Golem Chaser | 13.00% | ~98 |
@@ -38,11 +38,11 @@
 | Sump Explorer | 8.00% | ~60 |
 | Syron for Hope | 8.00% | ~60 |
 | Theater Explorer | 8.00% | ~60 |
-| Cultivair Explorer | 7.00% | ~53 |
 | Fairgrounds Explorer | 7.00% | ~53 |
 | Ask Questions Later | 7.00% | ~53 |
 | Corin Goes Home | 6.00% | ~45 |
 | Sartorialist | 6.00% | ~45 |
+| Cultivair Explorer | 6.00% | ~45 |
 | Entresol Explorer | 6.00% | ~45 |
 | Factorywood Explorer | 6.00% | ~45 |
 | Golem Hunter | 5.00% | ~38 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.50% | ~4 |
 | Raw Talent | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 753 (Ranked 199)  
+Progressed: 754 (Ranked 199)  
 Completed: 4 (0.53%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,4 +111,4 @@ Completed: 4 (0.53%) (Ranked 125)
 | 2023-07-09 | 749 | 4 |
 | 2023-07-10 | 750 | 4 |
 | 2023-07-11 | 751 | 4 |
-| 2023-07-14 | 753 | 4 |
+| 2023-07-14 | 754 | 4 |

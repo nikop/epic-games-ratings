@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 42,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -1797,9 +1797,9 @@
       "ID": "MQ02_3",
       "SetID": "bbing49",
       "Name": "Curiosity Killed The Cat",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 105
+      "UsersEstimate": 110
     },
     {
       "ID": "MQ02_4",
@@ -1998,8 +1998,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-06-25T15:57:48.8176349+00:00",
-  "LastChanged_Achievements": "2023-07-14T19:07:32.1746893+00:00",
+  "LastChanged_Achievements": "2023-07-14T20:05:53.6495844+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:30.1618252+00:00",
-  "LastUpdate_Ratings": "2023-07-14T18:58:03.5377423+00:00",
-  "LastUpdate_Achievements": "2023-07-14T19:07:32.1747255+00:00"
+  "LastUpdate_Ratings": "2023-07-14T19:57:42.2268379+00:00",
+  "LastUpdate_Achievements": "2023-07-14T20:05:53.6496216+00:00"
 }

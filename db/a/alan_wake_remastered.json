@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57322,
+  "EOS_Progressed": 57324,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 349,
+  "EOS_NewPlayers": 348,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7932,6 +7932,11 @@
       "Time": "2023-07-14T19:02:56.9356223+00:00",
       "NumProgressed": 57322,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-14T20:01:14.7970161+00:00",
+      "NumProgressed": 57324,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7943,7 +7948,7 @@
       "Name": "Follow the Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 19489
+      "UsersEstimate": 19490
     },
     {
       "ID": "02",
@@ -7983,7 +7988,7 @@
       "Name": "Park Ranger",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 8598
+      "UsersEstimate": 8599
     },
     {
       "ID": "07",
@@ -7991,7 +7996,7 @@
       "Name": "Heavy Metal",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6305
+      "UsersEstimate": 6306
     },
     {
       "ID": "08",
@@ -7999,7 +8004,7 @@
       "Name": "Iron Horse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6305
+      "UsersEstimate": 6306
     },
     {
       "ID": "09",
@@ -8111,7 +8116,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6305
+      "UsersEstimate": 6306
     },
     {
       "ID": "23",
@@ -8151,7 +8156,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6305
+      "UsersEstimate": 6306
     },
     {
       "ID": "28",
@@ -8159,7 +8164,7 @@
       "Name": "Come One, Come All",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6305
+      "UsersEstimate": 6306
     },
     {
       "ID": "29",
@@ -8279,7 +8284,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8598
+      "UsersEstimate": 8599
     },
     {
       "ID": "44",
@@ -8351,7 +8356,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "53",
@@ -8478,21 +8483,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57322,
+      "Progressed": 57324,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20790,
+      "Progressed": 20792,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-14T19:02:56.9356216+00:00",
+  "LastChanged_Achievements": "2023-07-14T20:01:14.7970153+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:08.3646753+00:00",
-  "LastUpdate_Ratings": "2023-07-14T18:58:37.1121195+00:00",
-  "LastUpdate_Achievements": "2023-07-14T19:02:56.935795+00:00"
+  "LastUpdate_Ratings": "2023-07-14T19:58:11.804137+00:00",
+  "LastUpdate_Achievements": "2023-07-14T20:01:14.7971358+00:00"
 }

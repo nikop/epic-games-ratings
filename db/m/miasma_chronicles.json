@@ -2,13 +2,13 @@
   "ID": "632b8c18774d480d978cb116518cd06b",
   "Name": "Miasma Chronicles",
   "ProductSlug": "miasma-chronicles",
-  "Ranking_Rating": 702,
+  "Ranking_Rating": 703,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -2395,9 +2395,9 @@
       "ID": "EXORCIST",
       "SetID": "9a4jnji",
       "Name": "Exorcist",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 562
+      "UsersEstimate": 574
     },
     {
       "ID": "EXPERIENCED",
@@ -2595,9 +2595,9 @@
       "ID": "SILENT_BUT_VIOLENT",
       "SetID": "9a4jnji",
       "Name": "Silent but Violent",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 159
     },
     {
       "ID": "TECHNOPHOBE",
@@ -2652,8 +2652,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-07-10T17:58:57.5580271+00:00",
-  "LastChanged_Achievements": "2023-07-14T19:03:30.6948903+00:00",
+  "LastChanged_Achievements": "2023-07-14T20:02:28.1462746+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:59.5184485+00:00",
-  "LastUpdate_Ratings": "2023-07-14T18:59:28.6139887+00:00",
-  "LastUpdate_Achievements": "2023-07-14T19:03:30.6949655+00:00"
+  "LastUpdate_Ratings": "2023-07-14T19:58:47.4523148+00:00",
+  "LastUpdate_Achievements": "2023-07-14T20:02:28.1463529+00:00"
 }
