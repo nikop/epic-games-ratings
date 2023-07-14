@@ -4,7 +4,7 @@
   "Ranking_EOS_Progress": 377,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -219,9 +219,9 @@
       "ID": "ACH_18",
       "SetID": "efe2lj",
       "Name": "Shatter Them All",
-      "Percentage": -5.6,
+      "Percentage": 0,
       "XP": 20,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_19",
@@ -275,9 +275,9 @@
       "ID": "ACH_25",
       "SetID": "efe2lj",
       "Name": "Fashion Victim",
-      "Percentage": -5.6,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_26",
@@ -377,7 +377,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-07-14T07:00:34.5012235+00:00",
-  "LastUpdate_Ratings": "2023-07-14T06:57:01.6138572+00:00",
-  "LastUpdate_Achievements": "2023-07-14T07:00:34.5012607+00:00"
+  "LastChanged_Achievements": "2023-07-14T08:02:25.6960245+00:00",
+  "LastUpdate_Ratings": "2023-07-14T07:57:16.3975003+00:00",
+  "LastUpdate_Achievements": "2023-07-14T08:02:25.6960532+00:00"
 }

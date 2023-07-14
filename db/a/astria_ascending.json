@@ -4,8 +4,8 @@
   "ProductSlug": "astria-ascending",
   "Ranking_EOS_Progress": 492,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2021-09-30T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:02.6538123+00:00",
   "LastChanged": "2023-03-31T05:57:02.6538124+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:47.7191439+00:00",
-  "LastUpdate_Ratings": "2023-07-14T07:00:08.4370093+00:00",
-  "LastUpdate_Achievements": "2023-07-14T07:05:55.1170285+00:00"
+  "LastUpdate_Ratings": "2023-07-14T08:01:47.6489503+00:00",
+  "LastUpdate_Achievements": "2023-07-14T08:07:34.1164084+00:00"
 }

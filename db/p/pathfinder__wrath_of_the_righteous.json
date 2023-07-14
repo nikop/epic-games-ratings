@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3110,9 +3110,9 @@
       "Count": 381
     }
   ],
-  "EOS_Progressed": 10301,
+  "EOS_Progressed": 10302,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8345,6 +8345,11 @@
       "Time": "2023-07-14T07:03:52.3299529+00:00",
       "NumProgressed": 10301,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-14T08:04:44.1913758+00:00",
+      "NumProgressed": 10302,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -9276,28 +9281,28 @@
       "Name": "Beware Still Water",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     }
   ],
   "AchievementSets": [
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9083,
+      "Progressed": 9084,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10301,
+      "Progressed": 10302,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-13T19:59:34.6843379+00:00",
-  "LastChanged_Achievements": "2023-07-14T07:03:52.3299523+00:00",
+  "LastChanged_Achievements": "2023-07-14T08:04:44.1913753+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:12.7052521+00:00",
-  "LastUpdate_Ratings": "2023-07-14T06:58:29.0904489+00:00",
-  "LastUpdate_Achievements": "2023-07-14T07:03:52.3301088+00:00"
+  "LastUpdate_Ratings": "2023-07-14T07:59:19.5243434+00:00",
+  "LastUpdate_Achievements": "2023-07-14T08:04:44.1915652+00:00"
 }

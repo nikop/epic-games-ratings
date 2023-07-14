@@ -12,10 +12,12 @@
 | Shardbearer | 0.00% | ~0 |
 | Tributes of Caladrias | 0.00% | ~0 |
 | Shatterer | 0.00% | ~0 |
+| Shatter Them All | 0.00% | ~0 |
 | Slayer | 0.00% | ~0 |
 | Flawless Victory | 0.00% | ~0 |
 | Fine Feathers Make Fine Birds | 0.00% | ~0 |
 | All There Is | 0.00% | ~0 |
+| Fashion Victim | 0.00% | ~0 |
 | False God | 0.00% | ~0 |
 | All That Gold | 0.00% | ~0 |
 | Miner | 0.00% | ~0 |
@@ -29,10 +31,8 @@
 | Adventurer | -5.60% | ~-1 |
 | Airborne | -5.60% | ~-1 |
 | Essence Blow | -5.60% | ~-1 |
-| Shatter Them All | -5.60% | ~-1 |
 | Big Bazar | -5.60% | ~-1 |
 | Geared Up | -5.60% | ~-1 |
-| Fashion Victim | -5.60% | ~-1 |
 | Scholar | -5.60% | ~-1 |
 | I Found It | -5.60% | ~-1 |
 | Alchemist | -5.60% | ~-1 |

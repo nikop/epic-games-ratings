@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 38,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2021-09-17T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -278,7 +278,7 @@
       "Count": 185
     }
   ],
-  "EOS_Progressed": 424555,
+  "EOS_Progressed": 424560,
   "EOS_Completed": 38,
   "EOS_NewPlayers": 1810,
   "EOS_NewCompleters": 0,
@@ -9423,6 +9423,11 @@
       "Time": "2023-07-14T07:00:49.3069199+00:00",
       "NumProgressed": 424555,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-07-14T08:03:16.9995739+00:00",
+      "NumProgressed": 424560,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 52,
@@ -9450,7 +9455,7 @@
       "Name": "200 HEADSHOTS",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 33964
+      "UsersEstimate": 33965
     },
     {
       "ID": "50_HEADSHOTS HEADSHOTS (0-50)",
@@ -9458,7 +9463,7 @@
       "Name": "50 HEADSHOTS",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 55192
+      "UsersEstimate": 55193
     },
     {
       "ID": "BIGUPS",
@@ -9514,7 +9519,7 @@
       "Name": "FINISHED CHAPTER 3",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 25473
+      "UsersEstimate": 25474
     },
     {
       "ID": "CHAPTER4",
@@ -9522,7 +9527,7 @@
       "Name": "FINISHED CHAPTER 4",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 25473
+      "UsersEstimate": 25474
     },
     {
       "ID": "CHAPTER5",
@@ -9849,7 +9854,7 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 424555,
+      "Progressed": 424560,
       "Completed": 38
     }
   ],
@@ -9857,8 +9862,8 @@
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "LastChanged": "2023-07-04T08:00:18.0682194+00:00",
-  "LastChanged_Achievements": "2023-07-14T07:00:49.3069195+00:00",
+  "LastChanged_Achievements": "2023-07-14T08:03:16.999573+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:44.1135221+00:00",
-  "LastUpdate_Ratings": "2023-07-14T06:59:24.2868768+00:00",
-  "LastUpdate_Achievements": "2023-07-14T07:00:49.306982+00:00"
+  "LastUpdate_Ratings": "2023-07-14T08:00:41.4971388+00:00",
+  "LastUpdate_Achievements": "2023-07-14T08:03:16.9996673+00:00"
 }
