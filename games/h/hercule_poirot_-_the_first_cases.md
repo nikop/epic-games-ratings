@@ -16,15 +16,15 @@ Rating: 4.35 (Ranked 738)
 | Florette Duval | 55.00% | ~217 |
 | Fine-toothed Comb | 54.00% | ~213 |
 | Order and Method | 53.00% | ~209 |
-| The Altercation | 50.00% | ~197 |
+| The Altercation | 51.00% | ~201 |
 | Truth from Within | 49.00% | ~193 |
-| The Major | 47.00% | ~185 |
+| The Major | 48.00% | ~189 |
 | Comtesse Margaux de Vos | 45.00% | ~177 |
 | Curious and Beautiful | 44.00% | ~173 |
 | Jacqueline “Jackie” Conrad | 44.00% | ~173 |
-| The Interrogations | 43.00% | ~169 |
+| The Interrogations | 44.00% | ~173 |
 | Well-acquainted | 42.00% | ~165 |
-| Zakariya Demir | 41.00% | ~162 |
+| Zakariya Demir | 42.00% | ~165 |
 | Well-read | 39.00% | ~154 |
 | Cassandra Van den Bosch | 37.00% | ~146 |
 | The Secret | 37.00% | ~146 |
@@ -43,8 +43,8 @@ Rating: 4.35 (Ranked 738)
 | Viscount Edwin Van den Bosch | 25.00% | ~98 |
 | Well-prepared | 21.00% | ~83 |
 | The Truth | 21.00% | ~83 |
+| Sunken Secrets | 19.00% | ~75 |
 | I Like an Audience | 19.00% | ~75 |
-| Sunken Secrets | 18.00% | ~71 |
 | What Else Did I Miss? | 18.00% | ~71 |
 | The Denouement | 17.00% | ~67 |
 | Probably the Greatest Detective in the World | 13.00% | ~51 |

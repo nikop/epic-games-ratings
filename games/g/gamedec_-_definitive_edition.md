@@ -6,24 +6,24 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~66,398 |
-| Powergamer | 27.00% | ~64,026 |
-| Barely scratched the surface | 25.00% | ~59,284 |
-| Write that down | 24.00% | ~56,912 |
-| Guns, lots of guns | 12.00% | ~28,456 |
-| Collector | 11.00% | ~26,085 |
-| Elementary! | 9.00% | ~21,342 |
+| I will finish what you started | 28.00% | ~66,400 |
+| Powergamer | 27.00% | ~64,029 |
+| Barely scratched the surface | 25.00% | ~59,286 |
+| Write that down | 24.00% | ~56,914 |
+| Guns, lots of guns | 12.00% | ~28,457 |
+| Collector | 11.00% | ~26,086 |
+| Elementary! | 9.00% | ~21,343 |
 | Pumpkin Jack | 8.00% | ~18,971 |
 | Wake up! | 8.00% | ~18,971 |
-| It's honest work | 7.00% | ~16,599 |
-| Griever | 7.00% | ~16,599 |
-| Me smart | 6.00% | ~14,228 |
+| It's honest work | 7.00% | ~16,600 |
+| Griever | 7.00% | ~16,600 |
+| Me smart | 6.00% | ~14,229 |
 | Good listener | 5.00% | ~11,857 |
 | Trash compactor | 5.00% | ~11,857 |
 | Valedictorian | 5.00% | ~11,857 |
-| BOY! | 4.00% | ~9,485 |
-| Ka-ching! | 4.00% | ~9,485 |
-| So you like to read? | 4.00% | ~9,485 |
+| BOY! | 4.00% | ~9,486 |
+| Ka-ching! | 4.00% | ~9,486 |
+| So you like to read? | 4.00% | ~9,486 |
 | I like to sniff around | 3.00% | ~7,114 |
 | Mind reader | 3.00% | ~7,114 |
 | Gentleman's classic | 2.00% | ~4,743 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~474 |
 | Memory 5 | 0.10% | ~237 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 237,135 (Ranked 45)  
+Progressed: 237,143 (Ranked 45)  
 Completed: 7 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 7 (0.00%) (Ranked 236)
 | 2023-07-11 | 236,753 | 7 |
 | 2023-07-12 | 236,901 | 7 |
 | 2023-07-13 | 237,032 | 7 |
-| 2023-07-14 | 237,135 | 7 |
+| 2023-07-14 | 237,143 | 7 |
 ## Awards
 Max (Character Customization): 74  (Ranked 363)  
 Sum: 74 (Ranked 425)  

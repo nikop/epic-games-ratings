@@ -13,7 +13,7 @@ Rating: 4.67 (Ranked 260)
 | We're All Very Impressed, Trust Me | 57.00% | ~13,110 |
 | Luglox Genocide | 43.00% | ~9,890 |
 | Playing Card To Get | 34.00% | ~7,820 |
-| Don't Knife The Hand That Feeds | 33.00% | ~7,590 |
+| Don't Knife The Hand That Feeds | 34.00% | ~7,820 |
 | Creature Feature | 30.00% | ~6,900 |
 | Satisfied Gus-tomer | 28.00% | ~6,440 |
 | Cold-Blooded Driller | 28.00% | ~6,440 |

@@ -6,27 +6,27 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 64.00% | ~263 |
-| Cowardice | 56.00% | ~230 |
-| NO LIFE IS WORTH SAVING... | 48.00% | ~197 |
-| Eat Lead! | 46.00% | ~189 |
-| The Breaking Point | 43.00% | ~177 |
+| Explorer | 64.00% | ~264 |
+| Cowardice | 56.00% | ~231 |
+| NO LIFE IS WORTH SAVING... | 49.00% | ~202 |
+| Eat Lead! | 46.00% | ~190 |
 | Here Comes the Boom | 43.00% | ~177 |
 | Prospector | 42.00% | ~173 |
-| Treasure Hunter | 39.00% | ~160 |
-| Sniper Wolf | 38.00% | ~156 |
+| The Breaking Point | 42.00% | ~173 |
+| Treasure Hunter | 39.00% | ~161 |
+| Sniper Wolf | 38.00% | ~157 |
 | The Motivation | 37.00% | ~152 |
 | Heroism | 35.00% | ~144 |
 | Missing in Action | 34.00% | ~140 |
 | Collectibles of Chapter I | 33.00% | ~136 |
-| King of Knives | 31.00% | ~127 |
-| Consequences | 30.00% | ~123 |
+| King of Knives | 31.00% | ~128 |
+| Consequences | 30.00% | ~124 |
 | Opportunities | 29.00% | ~119 |
 | The Horror | 28.00% | ~115 |
 | The Difference | 25.00% | ~103 |
 | Collectibles of Chapter II | 23.00% | ~95 |
 | Vengeance | 23.00% | ~95 |
-| It's Just an Accident | 22.00% | ~90 |
+| It's Just an Accident | 22.00% | ~91 |
 | Broken Hopes | 20.00% | ~82 |
 | Bullseye! | 20.00% | ~82 |
 | Sorrow | 18.00% | ~74 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 411 (Ranked 224)  
+Progressed: 412 (Ranked 224)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,6 +137,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-10 | 409 | 0 |
 | 2023-07-11 | 410 | 0 |
 | 2023-07-12 | 411 | 0 |
+| 2023-07-14 | 412 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

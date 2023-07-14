@@ -39,16 +39,16 @@ Rating: 4.44 (Ranked 642)
 | Tinkerer | 0.80% | ~26 |
 | The Long Game | 0.70% | ~23 |
 | Rigged to Blow | 0.70% | ~23 |
-| Road Rage | 0.60% | ~20 |
 | Herr Today, Gone Tomorrow | 0.60% | ~19 |
 | Shipbreaker | 0.60% | ~19 |
-| Sink or Swim | 0.60% | ~19 |
 | From Paris with Love | 0.50% | ~16 |
 | Burn after reading | 0.50% | ~16 |
 | Souvenir hunter | 0.50% | ~16 |
 | It'll Buff Right Out | 0.50% | ~16 |
+| Road Rage | 0.50% | ~16 |
 | Don't hold your breath | 0.50% | ~16 |
 | Operation Foxley | 0.50% | ~16 |
+| Sink or Swim | 0.50% | ~16 |
 | Strategist | 0.40% | ~13 |
 | Eagle Eyed | 0.40% | ~13 |
 | Last Resort | 0.40% | ~13 |
@@ -68,6 +68,7 @@ Rating: 4.44 (Ranked 642)
 | Führerious Repetition | 0.20% | ~6 |
 | Covert Elimination | 0.20% | ~6 |
 | Operation Overlord | 0.20% | ~6 |
+| Stroll in the Woods | 0.20% | ~6 |
 | Going Overboard | 0.20% | ~6 |
 | Master of Pistols | 0.10% | ~3 |
 | Master-at-arms | 0.10% | ~3 |
@@ -75,10 +76,9 @@ Rating: 4.44 (Ranked 642)
 | From Führer Away | 0.10% | ~3 |
 | Alpha | 0.10% | ~3 |
 | Das Familienjuwel | 0.10% | ~3 |
-| Stroll in the Woods | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,272 (Ranked 147)  
-Completed: 9 (0.28%) (Ranked 151)  
+Progressed: 3,273 (Ranked 147)  
+Completed: 9 (0.27%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -161,7 +161,7 @@ Completed: 9 (0.28%) (Ranked 151)
 | 2023-07-11 | 3,263 | 9 |
 | 2023-07-12 | 3,266 | 9 |
 | 2023-07-13 | 3,269 | 9 |
-| 2023-07-14 | 3,272 | 9 |
+| 2023-07-14 | 3,273 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,12 +2,12 @@
   "ID": "08f38e25e11f4c1e977cb75aae5e4535",
   "Name": "The Surge",
   "ProductSlug": "the-surge",
-  "Ranking_Rating": 609,
+  "Ranking_Rating": 610,
   "Ranking_Popularity": 466,
   "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -337,9 +337,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 4483,
+  "EOS_Progressed": 4484,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1637,6 +1637,11 @@
       "Time": "2023-07-14T15:03:23.3583187+00:00",
       "NumProgressed": 4483,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-07-14T16:02:25.3093754+00:00",
+      "NumProgressed": 4484,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 67,
@@ -1664,7 +1669,7 @@
       "Name": "Big Sister",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "ID_ACHIEV_04",
@@ -1704,7 +1709,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4214
+      "UsersEstimate": 4215
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -1712,7 +1717,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3452
+      "UsersEstimate": 3453
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -1736,7 +1741,7 @@
       "Name": "Gear Up",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "ID_ACHIEV_13",
@@ -1760,7 +1765,7 @@
       "Name": "Turing Test",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ID_ACHIEV_16",
@@ -1792,7 +1797,7 @@
       "Name": "Melting Down",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "ID_ACHIEV_20",
@@ -1800,7 +1805,7 @@
       "Name": "Repeat Customer",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ID_ACHIEV_21",
@@ -1864,7 +1869,7 @@
       "Name": "First Day on the Job",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3452
+      "UsersEstimate": 3453
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -1880,7 +1885,7 @@
       "Name": "Raging Drones",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "ID_ACHIEV_31",
@@ -1888,7 +1893,7 @@
       "Name": "Evolution Theory",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ID_ACHIEV_32",
@@ -1928,7 +1933,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1479
+      "UsersEstimate": 1480
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -1976,7 +1981,7 @@
       "Name": "Overconfident",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "ID_ACHIEV_44",
@@ -1984,7 +1989,7 @@
       "Name": "GOLIATH",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 941
+      "UsersEstimate": 942
     },
     {
       "ID": "ID_ACHIEV_45",
@@ -2000,7 +2005,7 @@
       "Name": "SENTINEL",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "ID_ACHIEV_47",
@@ -2183,15 +2188,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4483,
+      "Progressed": 4484,
       "Completed": 15
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-07-06T14:58:32.669808+00:00",
-  "LastChanged_Achievements": "2023-07-14T15:03:23.3583182+00:00",
+  "LastChanged_Achievements": "2023-07-14T16:02:25.3093749+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:35.225015+00:00",
-  "LastUpdate_Ratings": "2023-07-14T14:58:43.984713+00:00",
-  "LastUpdate_Achievements": "2023-07-14T15:03:23.3583996+00:00"
+  "LastUpdate_Ratings": "2023-07-14T15:58:34.9310351+00:00",
+  "LastUpdate_Achievements": "2023-07-14T16:02:25.3094717+00:00"
 }

@@ -2514,9 +2514,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 68875,
+  "EOS_Progressed": 68879,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 403,
+  "EOS_NewPlayers": 405,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -11389,6 +11389,11 @@
       "Time": "2023-07-14T15:04:51.0416778+00:00",
       "NumProgressed": 68875,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-07-14T16:04:44.8659176+00:00",
+      "NumProgressed": 68879,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 37,
@@ -11400,7 +11405,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 34438
+      "UsersEstimate": 34440
     },
     {
       "ID": "ACH_0011",
@@ -11408,7 +11413,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 19974
+      "UsersEstimate": 19975
     },
     {
       "ID": "ACH_0012",
@@ -11416,7 +11421,7 @@
       "Name": "Roid Ranger",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 14464
+      "UsersEstimate": 14465
     },
     {
       "ID": "ACH_0013",
@@ -11488,7 +11493,7 @@
       "Name": "Foo Finder",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4821
+      "UsersEstimate": 4822
     },
     {
       "ID": "ACH_0060",
@@ -11544,7 +11549,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 44769
+      "UsersEstimate": 44771
     },
     {
       "ID": "ACH_0210",
@@ -11552,7 +11557,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 50968
+      "UsersEstimate": 50970
     },
     {
       "ID": "ACH_0211",
@@ -11568,7 +11573,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 32371
+      "UsersEstimate": 32373
     },
     {
       "ID": "ACH_0300",
@@ -11616,7 +11621,7 @@
       "Name": "Case Closed",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 23418
+      "UsersEstimate": 23419
     },
     {
       "ID": "ACH_0420",
@@ -11624,7 +11629,7 @@
       "Name": "King of the Hill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 23418
+      "UsersEstimate": 23419
     },
     {
       "ID": "ACH_0430",
@@ -11632,7 +11637,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 24106
+      "UsersEstimate": 24108
     },
     {
       "ID": "ACH_0431",
@@ -11648,7 +11653,7 @@
       "Name": "True Player",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 13086
+      "UsersEstimate": 13087
     },
     {
       "ID": "ACH_0450",
@@ -11656,7 +11661,7 @@
       "Name": "Off the Rocks",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 13086
+      "UsersEstimate": 13087
     },
     {
       "ID": "ACH_0451",
@@ -11664,7 +11669,7 @@
       "Name": "Raider\u2019s Ruin",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 11020
+      "UsersEstimate": 11021
     },
     {
       "ID": "ACH_0452",
@@ -11688,14 +11693,14 @@
       "Name": "Rockay Rex",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 7576
+      "UsersEstimate": 7577
     }
   ],
   "AchievementSets": [
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 68875,
+      "Progressed": 68879,
       "Completed": 36
     }
   ],
@@ -11703,8 +11708,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-07-14T03:22:50.1159274+00:00",
-  "LastChanged_Achievements": "2023-07-14T15:04:51.0416773+00:00",
+  "LastChanged_Achievements": "2023-07-14T16:04:44.865917+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:23.2557502+00:00",
-  "LastUpdate_Ratings": "2023-07-14T15:00:43.6771373+00:00",
-  "LastUpdate_Achievements": "2023-07-14T15:04:51.0417558+00:00"
+  "LastUpdate_Ratings": "2023-07-14T16:00:39.0358648+00:00",
+  "LastUpdate_Achievements": "2023-07-14T16:04:44.8660644+00:00"
 }

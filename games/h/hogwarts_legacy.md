@@ -5,20 +5,20 @@ Rating: 4.77 (Ranked 108)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 12.00% | ~34,493 |
-| First Class Student | 10.00% | ~28,744 |
-| Troll with the Punches | 10.00% | ~28,744 |
+| The Sort Who Makes an Entrance | 12.00% | ~34,494 |
+| First Class Student | 10.00% | ~28,745 |
+| Troll with the Punches | 10.00% | ~28,745 |
 | A Keen Sense of Spell | 9.00% | ~25,870 |
 | That's a Keeper | 9.00% | ~25,870 |
-| Grappling with a Graphorn | 8.00% | ~22,995 |
-| The One Who Mastered Memories | 8.00% | ~22,995 |
-| The Hallowed Hero | 8.00% | ~22,995 |
-| The Hero of Hogwarts | 8.00% | ~22,995 |
-| The Defender of Dragons | 8.00% | ~22,995 |
-| Challenge Accepted | 8.00% | ~22,995 |
-| Loom for Improvement | 8.00% | ~22,995 |
-| A Talent for Spending | 8.00% | ~22,995 |
-| Coasting Along | 8.00% | ~22,995 |
+| Grappling with a Graphorn | 8.00% | ~22,996 |
+| The One Who Mastered Memories | 8.00% | ~22,996 |
+| The Hallowed Hero | 8.00% | ~22,996 |
+| The Hero of Hogwarts | 8.00% | ~22,996 |
+| The Defender of Dragons | 8.00% | ~22,996 |
+| Challenge Accepted | 8.00% | ~22,996 |
+| Loom for Improvement | 8.00% | ~22,996 |
+| A Talent for Spending | 8.00% | ~22,996 |
+| Coasting Along | 8.00% | ~22,996 |
 | Followed the Butterflies | 7.00% | ~20,121 |
 | The Spell Master | 7.00% | ~20,121 |
 | Rising From the Ashes | 7.00% | ~20,121 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.50% | ~1,437 |
 | Collector's Edition | 0.20% | ~575 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 287,443 (Ranked 41)  
+Progressed: 287,449 (Ranked 41)  
 Completed: 425 (0.15%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 425 (0.15%) (Ranked 172)
 | 2023-07-11 | 286,851 | 423 |
 | 2023-07-12 | 287,108 | 423 |
 | 2023-07-13 | 287,362 | 425 |
-| 2023-07-14 | 287,443 | 425 |
+| 2023-07-14 | 287,449 | 425 |
 ## Awards
 Max (Character Customization): 20,943  (Ranked 17)  
 Sum: 39,130 (Ranked 30)  

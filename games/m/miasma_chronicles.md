@@ -6,36 +6,36 @@ Rating: 4.39 (Ranked 703)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Blood | 93.00% | ~1,136 |
-| Ranidaphobia | 78.00% | ~952 |
+| Ranidaphobia | 77.00% | ~941 |
 | Aspiring Editor | 75.00% | ~916 |
 | Gun for Hire | 70.00% | ~855 |
-| I am the law! | 64.00% | ~781 |
+| I am the law! | 64.00% | ~782 |
 | Lumberjack | 52.00% | ~635 |
-| Croaked | 48.00% | ~586 |
+| Croaked | 48.00% | ~587 |
 | Limp Richard | 47.00% | ~574 |
-| Exorcist | 47.00% | ~574 |
 | From Darkness to Light | 47.00% | ~574 |
 | Editor Adept | 46.00% | ~562 |
-| Giant Killer | 44.00% | ~537 |
+| Exorcist | 46.00% | ~562 |
+| Giant Killer | 44.00% | ~538 |
 | Firestarter | 42.00% | ~513 |
 | Sensei | 42.00% | ~513 |
-| The meaning of Kain | 40.00% | ~488 |
+| The meaning of Kain | 40.00% | ~489 |
 | Technophobe | 38.00% | ~464 |
 | Recycler | 37.00% | ~452 |
 | Are you not entertained? | 33.00% | ~403 |
 | Ganglord | 32.00% | ~391 |
 | Jarhead | 32.00% | ~391 |
 | Infiltrator | 32.00% | ~391 |
-| Pushing Daisy | 30.00% | ~366 |
+| Pushing Daisy | 30.00% | ~367 |
 | Experienced | 29.00% | ~354 |
-| Hold The Line | 26.00% | ~317 |
-| Endgame | 25.00% | ~305 |
-| Savior | 25.00% | ~305 |
+| Hold The Line | 26.00% | ~318 |
+| Endgame | 25.00% | ~306 |
+| Savior | 25.00% | ~306 |
 | There Can Be Only One! | 24.00% | ~293 |
 | Chain Killer | 22.00% | ~269 |
 | The Watchers | 20.00% | ~244 |
-| Commando | 16.00% | ~195 |
-| Newtonian Knockout | 16.00% | ~195 |
+| Commando | 16.00% | ~196 |
+| Newtonian Knockout | 16.00% | ~196 |
 | Chaos Theory | 15.00% | ~183 |
 | Dr Jones | 15.00% | ~183 |
 | Ruthless | 14.00% | ~171 |
@@ -44,8 +44,8 @@ Rating: 4.39 (Ranked 703)
 | Chain Reaction | 9.00% | ~110 |
 | Bot Whisperer | 8.00% | ~98 |
 | Curveball | 8.00% | ~98 |
-| Dressed To Kill | 7.00% | ~85 |
-| Wipe Out | 7.00% | ~85 |
+| Dressed To Kill | 7.00% | ~86 |
+| Wipe Out | 7.00% | ~86 |
 | Cruelty | 3.00% | ~37 |
 | Master Editor | 3.00% | ~37 |
 | Attenborough | 2.00% | ~24 |
@@ -57,7 +57,7 @@ Rating: 4.39 (Ranked 703)
 | Shadow Boxin' | 0.80% | ~10 |
 | Goaaaaal! | 0.70% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,221 (Ranked 180)  
+Progressed: 1,222 (Ranked 180)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,6 +109,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-10 | 1,217 | 0 |
 | 2023-07-12 | 1,220 | 0 |
 | 2023-07-13 | 1,221 | 0 |
+| 2023-07-14 | 1,222 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

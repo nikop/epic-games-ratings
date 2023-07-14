@@ -6,6 +6,7 @@ Rating: 4.87 (Ranked 24)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | NOW we got a kickass hideout! | 2.00% | ~39 |
+| Start with a bang! | 1.00% | ~34 |
 | Cream of the Crop | 1.00% | ~34 |
 | This will cost you big time | 1.00% | ~34 |
 | The Negotiator | 1.00% | ~34 |
@@ -16,6 +17,7 @@ Rating: 4.87 (Ranked 24)
 | I play my own way! | 1.00% | ~34 |
 | Whoa! There's ANOTHER health bar!? | 1.00% | ~34 |
 | You got this, Peppermint? | 1.00% | ~34 |
+| You must like calling me in, Chai | 1.00% | ~34 |
 | Z-shielding's got nothing on us! | 1.00% | ~34 |
 | Out in a puff of smoke | 1.00% | ~34 |
 | Perfect Parry | 1.00% | ~34 |
@@ -23,14 +25,12 @@ Rating: 4.87 (Ranked 24)
 | Kissing the sky! | 1.00% | ~34 |
 | Who put gears in there? | 1.00% | ~34 |
 | Alright, that felt AWESOME! | 1.00% | ~34 |
-| Start with a bang! | 0.90% | ~31 |
 | I have to read these things? | 0.90% | ~31 |
 | Feeling the beat! | 0.90% | ~31 |
-| You must like calling me in, Chai | 0.90% | ~31 |
 | You can pet the cat! | 0.90% | ~31 |
+| I look cool. But I can look COOLER. | 0.80% | ~28 |
+| Well that was a rush! | 0.70% | ~24 |
 | Perfecter Parry-er! | 0.70% | ~24 |
-| I look cool. But I can look COOLER. | 0.70% | ~24 |
-| Well that was a rush! | 0.60% | ~21 |
 | That's a lot of junk metal… | 0.60% | ~21 |
 | There's such a thing as TOO helpful | 0.60% | ~21 |
 | Does that say weakpoint? | 0.60% | ~21 |
@@ -48,6 +48,7 @@ Rating: 4.87 (Ranked 24)
 | Easy Listening | 0.10% | ~3 |
 | Problem solved... wait, what? | 0.10% | ~3 |
 | I can't see this ever being a problem again | 0.10% | ~3 |
+| Fully Powered Up! | 0.10% | ~3 |
 | OK, well THEY came after ME! | 0.10% | ~3 |
 | We're Jammin' | 0.10% | ~3 |
 | I'm not done with you yet | 0.10% | ~3 |
@@ -68,7 +69,6 @@ Rating: 4.87 (Ranked 24)
 | And the crowd goes wild! | 0.00% | ~0 |
 | Didn't skip a beat! | 0.00% | ~0 |
 | I think that's enough health for now | 0.00% | ~0 |
-| Fully Powered Up! | 0.00% | ~0 |
 | I have to read ALL of these things? | 0.00% | ~0 |
 | What a journey it was... | 0.00% | ~0 |
 | I am a good person who likes to help | 0.00% | ~0 |

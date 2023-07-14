@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
@@ -356,9 +356,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5733,
+  "EOS_Progressed": 5734,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3291,6 +3291,11 @@
       "Time": "2023-07-14T13:20:59.8369566+00:00",
       "NumProgressed": 5733,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-14T16:05:49.5529808+00:00",
+      "NumProgressed": 5734,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -3620,9 +3625,9 @@
       "ID": "Pat_Relentless",
       "SetID": "bmkn7o4",
       "Name": "Relentless",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 57
     },
     {
       "ID": "Penguinfucker",
@@ -3853,21 +3858,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 2772,
+      "Progressed": 2773,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 5733,
+      "Progressed": 5734,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-03-31T05:57:11.1498515+00:00",
-  "LastChanged_Achievements": "2023-07-14T15:05:53.0309489+00:00",
+  "LastChanged_Achievements": "2023-07-14T16:05:49.5529801+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:37.0636474+00:00",
-  "LastUpdate_Ratings": "2023-07-14T14:58:03.1978684+00:00",
-  "LastUpdate_Achievements": "2023-07-14T15:05:53.0310363+00:00"
+  "LastUpdate_Ratings": "2023-07-14T15:57:49.5218445+00:00",
+  "LastUpdate_Achievements": "2023-07-14T16:05:49.5531296+00:00"
 }

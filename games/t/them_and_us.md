@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alone with Them | 70.00% | ~105 |
-| Forced to Kill | 69.00% | ~103 |
+| Alone with Them | 70.00% | ~106 |
+| Forced to Kill | 69.00% | ~104 |
 | A Night To Remember | 38.00% | ~57 |
 | Safe...For now? | 32.00% | ~48 |
 | Open Sesame | 28.00% | ~42 |
@@ -16,8 +16,8 @@
 | This Coffin Has Your Name On It! | 13.00% | ~20 |
 | Alone In The Dark | 12.00% | ~18 |
 | Parasite Exterminated | 12.00% | ~18 |
-| Lover of classics | 11.00% | ~16 |
-| The Forgotten Tower | 11.00% | ~16 |
+| Lover of classics | 11.00% | ~17 |
+| The Forgotten Tower | 11.00% | ~17 |
 | Rest In Peace | 9.00% | ~14 |
 | The Curse Is Real | 9.00% | ~14 |
 | Trapped | 9.00% | ~14 |
@@ -26,9 +26,9 @@
 | Researcher | 6.00% | ~9 |
 | I Am The Gate Keeper! | 6.00% | ~9 |
 | This Mansion Is Clean | 4.00% | ~6 |
-| Armed To The Teeth | 3.00% | ~4 |
-| Run and Gun | 3.00% | ~4 |
-| The bus stop | 3.00% | ~4 |
+| Armed To The Teeth | 3.00% | ~5 |
+| Run and Gun | 3.00% | ~5 |
+| The bus stop | 3.00% | ~5 |
 | Retro Player | 2.00% | ~3 |
 | Spiritual essence well spent | 2.00% | ~3 |
 | Pet The Dog | 2.00% | ~3 |
@@ -45,8 +45,8 @@
 | No Time To Relax | 0.70% | ~1 |
 | Survival Horror | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 150 (Ranked 285)  
-Completed: 1 (0.67%) (Ranked 113)  
+Progressed: 151 (Ranked 284)  
+Completed: 1 (0.66%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -84,6 +84,7 @@ Completed: 1 (0.67%) (Ranked 113)
 | 2023-06-25 | 147 | 1 |
 | 2023-06-28 | 148 | 1 |
 | 2023-07-09 | 150 | 1 |
+| 2023-07-14 | 151 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

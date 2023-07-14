@@ -4,7 +4,7 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 46,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1141,
+  "EOS_Progressed": 1142,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.77,
   "EosHistory": [
@@ -1836,6 +1836,11 @@
       "Time": "2023-07-14T11:07:25.3444576+00:00",
       "NumProgressed": 1141,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-14T16:06:29.7817409+00:00",
+      "NumProgressed": 1142,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 16,
@@ -1855,7 +1860,7 @@
       "Name": "Deep Listener",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "ACH_DREAMLISTENER",
@@ -1871,7 +1876,7 @@
       "Name": "Emotional Baggage Handler",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ACH_GOODBYETIENGVALLEY",
@@ -1895,7 +1900,7 @@
       "Name": "Grey Hands Praxis 101",
       "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACH_HOMELEAVER",
@@ -1933,9 +1938,9 @@
       "ID": "ACH_OUTSIDEWORLDSEER",
       "SetID": "7pam6gn",
       "Name": "Outside World Seer",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 40,
-      "UsersEstimate": 742
+      "UsersEstimate": 731
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -1974,7 +1979,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1141,
+      "Progressed": 1142,
       "Completed": 43
     }
   ],
@@ -1982,8 +1987,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-07-14T15:06:33.151744+00:00",
+  "LastChanged_Achievements": "2023-07-14T16:06:29.7817404+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:27.6668752+00:00",
-  "LastUpdate_Ratings": "2023-07-14T14:59:21.7297899+00:00",
-  "LastUpdate_Achievements": "2023-07-14T15:06:33.1517796+00:00"
+  "LastUpdate_Ratings": "2023-07-14T15:59:10.7413514+00:00",
+  "LastUpdate_Achievements": "2023-07-14T16:06:29.7817647+00:00"
 }

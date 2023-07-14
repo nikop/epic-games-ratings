@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 205,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1539,7 +1539,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 12833,
+  "EOS_Progressed": 12834,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
@@ -7674,6 +7674,11 @@
       "Time": "2023-07-14T14:04:21.3929312+00:00",
       "NumProgressed": 12833,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-14T16:04:25.8457021+00:00",
+      "NumProgressed": 12834,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 285,
@@ -7725,7 +7730,7 @@
       "Name": "Alliance Victory",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_ASSASSINATED_ANOTHER_LEADER",
@@ -7757,7 +7762,7 @@
       "Name": "Acropolis in Athenai",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ACHIEVEMENT_BABYLON_HANGING_GARDENS",
@@ -7813,7 +7818,7 @@
       "Name": "Before the Mongol Horde",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_BLADE_OF_THE_MONKEY",
@@ -7901,7 +7906,7 @@
       "Name": "Gold Victory (Carthage 2)",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_2_SILVER",
@@ -7933,7 +7938,7 @@
       "Name": "Epic Victory (Carthage 3)",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_3_GOLD",
@@ -7981,7 +7986,7 @@
       "Name": "Gold Victory (Carthage 4)",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_4_SILVER",
@@ -8037,7 +8042,7 @@
       "Name": "Architect",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 7828
+      "UsersEstimate": 7829
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AVENGER",
@@ -8069,7 +8074,7 @@
       "Name": "Brilliant",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 4363
+      "UsersEstimate": 4364
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_CAPABLE",
@@ -8117,7 +8122,7 @@
       "Name": "Explorer",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 10138
+      "UsersEstimate": 10139
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -8141,7 +8146,7 @@
       "Name": "Good",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 7058
+      "UsersEstimate": 7059
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GREAT",
@@ -8197,7 +8202,7 @@
       "Name": "Keystone",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 6801
+      "UsersEstimate": 6802
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_LEARNED",
@@ -8309,7 +8314,7 @@
       "Name": "Settler",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 10395
+      "UsersEstimate": 10396
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -8317,7 +8322,7 @@
       "Name": "Strong",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 7571
+      "UsersEstimate": 7572
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
@@ -8357,7 +8362,7 @@
       "Name": "White Death",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_WISE",
@@ -8485,7 +8490,7 @@
       "Name": "Elephant in Elephantine",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_ETHNIC_DIVERSITY",
@@ -8597,7 +8602,7 @@
       "Name": "Friendly Family",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 9625
+      "UsersEstimate": 9626
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
@@ -8613,7 +8618,7 @@
       "Name": "Battle of the Fertile Crescent",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ACHIEVEMENT_FIRST_PEACE_TREATY",
@@ -8653,7 +8658,7 @@
       "Name": "Defend Where?",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ACHIEVEMENT_GREECE1_RUN",
@@ -8717,7 +8722,7 @@
       "Name": "Still Fighting",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ACHIEVEMENT_GREECE2_THERMOPYLAE_40",
@@ -8749,7 +8754,7 @@
       "Name": "Shape of Things to Come",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_GREECE3_ATHENS",
@@ -8829,7 +8834,7 @@
       "Name": "Philip\u0027s Golden Crown",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_GREECE3_VICTORY_SILVER",
@@ -8981,7 +8986,7 @@
       "Name": "Mausoleum in Halicarnassus",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_HARDCORE",
@@ -9029,7 +9034,7 @@
       "Name": "Colossus",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 3978
+      "UsersEstimate": 3979
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_GREAT_ZIGGURAT",
@@ -9037,7 +9042,7 @@
       "Name": "Great Ziggurat",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 5133
+      "UsersEstimate": 5134
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HAGIA_SOPHIA",
@@ -9053,7 +9058,7 @@
       "Name": "Hanging Gardens",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 7571
+      "UsersEstimate": 7572
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY",
@@ -9093,7 +9098,7 @@
       "Name": "Ishtar Gate",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 5518
+      "UsersEstimate": 5519
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_LIGHTHOUSE",
@@ -9109,7 +9114,7 @@
       "Name": "Mausoleum",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 3593
+      "UsersEstimate": 3594
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_MUSAEUM",
@@ -9117,7 +9122,7 @@
       "Name": "Musaeum",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 4363
+      "UsersEstimate": 4364
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_NECROPOLIS",
@@ -9189,7 +9194,7 @@
       "Name": "Learn By Playing 3 - Good",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_LBP4",
@@ -9197,7 +9202,7 @@
       "Name": "Learn By Playing 4 - Strong",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_1",
@@ -9429,7 +9434,7 @@
       "Name": "Play a Play-By-Cloud Game",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_PLAY_SINGLEPLAYER",
@@ -9437,7 +9442,7 @@
       "Name": "Play a Single Player Game",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 10780
+      "UsersEstimate": 10781
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -9461,7 +9466,7 @@
       "Name": "Christianity",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 5133
+      "UsersEstimate": 5134
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_JUDAISM",
@@ -9493,7 +9498,7 @@
       "Name": "Babylonian Paganism",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 5518
+      "UsersEstimate": 5519
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_CARTHAGE",
@@ -9501,7 +9506,7 @@
       "Name": "Carthaginian Paganism",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 4748
+      "UsersEstimate": 4749
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_EGYPT",
@@ -9605,7 +9610,7 @@
       "Name": "Naming Landmarks",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 6288
+      "UsersEstimate": 6289
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_LEADERS",
@@ -9909,7 +9914,7 @@
       "Name": "Win a Free-For-All Game (\u003E2 Players)",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_WIN_HOTSEAT",
@@ -9964,21 +9969,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 12833,
+      "Progressed": 12834,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 12833,
+      "Progressed": 12834,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-07-09T22:58:11.6246548+00:00",
-  "LastChanged_Achievements": "2023-07-14T15:04:32.5299378+00:00",
+  "LastChanged_Achievements": "2023-07-14T16:04:25.8457018+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:30.6160724+00:00",
-  "LastUpdate_Ratings": "2023-07-14T14:58:39.4585921+00:00",
-  "LastUpdate_Achievements": "2023-07-14T15:04:32.5307085+00:00"
+  "LastUpdate_Ratings": "2023-07-14T15:58:29.2305368+00:00",
+  "LastUpdate_Achievements": "2023-07-14T16:04:25.8466641+00:00"
 }

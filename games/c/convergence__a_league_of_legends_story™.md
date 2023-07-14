@@ -13,6 +13,7 @@
 | Make Up For Lost Time | 14.00% | ~105 |
 | Cartographer | 14.00% | ~105 |
 | Time Flies | 14.00% | ~105 |
+| The Harder They Fall | 14.00% | ~105 |
 | Breaking Down Barriers | 14.00% | ~105 |
 | The Wicked Twins | 14.00% | ~105 |
 | The Prince in Heels | 14.00% | ~105 |
@@ -22,23 +23,22 @@
 | The Family Fortune | 14.00% | ~105 |
 | Treasure Trove | 13.00% | ~98 |
 | The Betrayer | 13.00% | ~98 |
-| The Harder They Fall | 13.00% | ~98 |
 | No, Thanks! | 13.00% | ~98 |
 | Golem Chaser | 13.00% | ~98 |
 | Fast Learner | 13.00% | ~98 |
+| Check Your Pulse | 13.00% | ~98 |
 | Like Clockwork | 12.00% | ~90 |
 | Honest Mistake | 12.00% | ~90 |
-| Check Your Pulse | 12.00% | ~90 |
 | Right On Time | 11.00% | ~83 |
 | Street Style | 11.00% | ~83 |
 | Whiz Kid | 10.00% | ~75 |
 | Chaincrawler Explorer | 9.00% | ~68 |
 | Good Neighbor | 9.00% | ~68 |
 | Family Memories | 8.00% | ~60 |
+| Sump Explorer | 8.00% | ~60 |
 | Theater Explorer | 8.00% | ~60 |
 | Cultivair Explorer | 7.00% | ~53 |
 | Fairgrounds Explorer | 7.00% | ~53 |
-| Sump Explorer | 7.00% | ~53 |
 | Syron for Hope | 7.00% | ~53 |
 | Ask Questions Later | 7.00% | ~53 |
 | Corin Goes Home | 6.00% | ~45 |

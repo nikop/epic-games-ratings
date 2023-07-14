@@ -6,8 +6,8 @@
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 147,
-  "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_Completed": 153,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -404,11 +404,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3272,
+  "EOS_Progressed": 3273,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.28,
+  "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:23.1376838+00:00",
@@ -5009,6 +5009,11 @@
       "Time": "2023-07-14T15:03:35.1096877+00:00",
       "NumProgressed": 3272,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-14T16:03:17.4226208+00:00",
+      "NumProgressed": 3273,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -5370,9 +5375,9 @@
       "ID": "REWARD_66_VEHICULAR_OMNICIDE",
       "SetID": "bm6el81",
       "Name": "Road Rage",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 16
     },
     {
       "ID": "REWARD_67_NO_ASSISTANCE",
@@ -5554,9 +5559,9 @@
       "ID": "REWARD_DLC03_03_STROLL_IN_THE_WOODS",
       "SetID": "83mdf7p",
       "Name": "Stroll in the Woods",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_DLC04_01_SHIPBREAKER",
@@ -5570,9 +5575,9 @@
       "ID": "REWARD_DLC04_02_SINK_OR_SWIM",
       "SetID": "83mdf7p",
       "Name": "Sink or Swim",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 16
     },
     {
       "ID": "REWARD_DLC04_03_GOING_OVERBOARD",
@@ -5587,13 +5592,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3223,
+      "Progressed": 3224,
       "Completed": 13
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3272,
+      "Progressed": 3273,
       "Completed": 9
     }
   ],
@@ -5601,8 +5606,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-13T13:19:01.0264879+00:00",
-  "LastChanged_Achievements": "2023-07-14T15:03:35.1096872+00:00",
+  "LastChanged_Achievements": "2023-07-14T16:03:17.4226203+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:07.1687539+00:00",
-  "LastUpdate_Ratings": "2023-07-14T14:57:20.5437076+00:00",
-  "LastUpdate_Achievements": "2023-07-14T15:03:35.1097861+00:00"
+  "LastUpdate_Ratings": "2023-07-14T15:57:04.9606999+00:00",
+  "LastUpdate_Achievements": "2023-07-14T16:03:17.4227249+00:00"
 }

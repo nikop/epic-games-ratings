@@ -5,27 +5,27 @@ Rating: 4.47 (Ranked 598)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 74.00% | ~1,146 |
-| A new Journey | 73.00% | ~1,131 |
-| Departure | 72.00% | ~1,115 |
+| Country Bumpkin | 74.00% | ~1,147 |
+| A new Journey | 73.00% | ~1,132 |
+| Departure | 72.00% | ~1,116 |
 | From X to Y | 71.00% | ~1,100 |
-| Way of Iron | 69.00% | ~1,069 |
+| Way of Iron | 69.00% | ~1,070 |
 | Mystery Tour | 67.00% | ~1,038 |
-| We brake for nobody | 66.00% | ~1,022 |
-| Brainstorm | 65.00% | ~1,007 |
-| Travel Company | 64.00% | ~991 |
+| We brake for nobody | 66.00% | ~1,023 |
+| Brainstorm | 65.00% | ~1,008 |
+| Travel Company | 64.00% | ~992 |
 | Mind the Gap | 63.00% | ~976 |
-| All around the World | 61.00% | ~945 |
-| Right through the middle | 56.00% | ~867 |
-| Facility Manager | 53.00% | ~821 |
-| Poor Devil | 53.00% | ~821 |
-| Producer | 50.00% | ~774 |
+| All around the World | 61.00% | ~946 |
+| Right through the middle | 56.00% | ~868 |
+| Facility Manager | 53.00% | ~822 |
+| Poor Devil | 53.00% | ~822 |
+| Producer | 50.00% | ~775 |
 | Apprentice | 42.00% | ~651 |
-| Bridge Builder | 41.00% | ~635 |
+| Bridge Builder | 41.00% | ~636 |
 | Access granted | 35.00% | ~542 |
 | Going once, going twice, sold | 35.00% | ~542 |
-| Stoker | 33.00% | ~511 |
-| Bull and bear | 33.00% | ~511 |
+| Stoker | 33.00% | ~512 |
+| Bull and bear | 33.00% | ~512 |
 | Full Steam ahead | 32.00% | ~496 |
 | Financial Shark | 30.00% | ~465 |
 | All mine | 29.00% | ~449 |
@@ -33,26 +33,26 @@ Rating: 4.47 (Ranked 598)
 | Socializer | 28.00% | ~434 |
 | General Manager | 26.00% | ~403 |
 | Country Life | 26.00% | ~403 |
-| Hostile Takeover | 25.00% | ~387 |
+| Hostile Takeover | 25.00% | ~388 |
 | Seven at one stroke | 24.00% | ~372 |
 | Trailblazer | 20.00% | ~310 |
 | Breaking Ground | 20.00% | ~310 |
 | Traffic Junction | 19.00% | ~294 |
 | Traffic Jam | 18.00% | ~279 |
-| Networker | 17.00% | ~263 |
+| Networker | 17.00% | ~264 |
 | Resistance is futile | 16.00% | ~248 |
 | Assimilated | 16.00% | ~248 |
 | Locusts | 16.00% | ~248 |
 | Settler | 14.00% | ~217 |
-| Max Power | 13.00% | ~201 |
+| Max Power | 13.00% | ~202 |
 | Go West | 12.00% | ~186 |
 | Bold and beautiful | 11.00% | ~170 |
 | A new Hope | 10.00% | ~155 |
-| Tycoon | 9.00% | ~139 |
-| Unstoppable | 7.00% | ~108 |
-| Track to the Future | 7.00% | ~108 |
+| Tycoon | 9.00% | ~140 |
+| Unstoppable | 7.00% | ~109 |
+| Track to the Future | 7.00% | ~109 |
 | Conductor | 6.00% | ~93 |
-| Call of Duty | 5.00% | ~77 |
+| Call of Duty | 5.00% | ~78 |
 | Let off some steam | 3.00% | ~46 |
 | Engineer | 2.00% | ~31 |
 | Accurate | 2.00% | ~31 |
@@ -61,7 +61,7 @@ Rating: 4.47 (Ranked 598)
 | United States | 0.30% | ~5 |
 | Three Cheers for Progress | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,549 (Ranked 171)  
+Progressed: 1,550 (Ranked 171)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-11 | 1,534 | 0 |
 | 2023-07-12 | 1,537 | 0 |
 | 2023-07-13 | 1,545 | 0 |
-| 2023-07-14 | 1,549 | 0 |
+| 2023-07-14 | 1,550 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

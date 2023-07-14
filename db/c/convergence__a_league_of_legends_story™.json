@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -1861,9 +1861,9 @@
       "ID": "ParryBoss",
       "SetID": "a9e499d",
       "Name": "The Harder They Fall",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 105
     },
     {
       "ID": "ParryRepeated1",
@@ -1957,9 +1957,9 @@
       "ID": "SumpChests1",
       "SetID": "a9e499d",
       "Name": "Sump Explorer",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 60
     },
     {
       "ID": "SyronGift",
@@ -1973,9 +1973,9 @@
       "ID": "TemporalPulseKills1",
       "SetID": "a9e499d",
       "Name": "Check Your Pulse",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 98
     },
     {
       "ID": "TheaterChests1",
@@ -2044,8 +2044,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-14T15:06:41.6740126+00:00",
+  "LastChanged_Achievements": "2023-07-14T16:06:38.0040204+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:34.816735+00:00",
-  "LastUpdate_Ratings": "2023-07-14T15:00:09.2359179+00:00",
-  "LastUpdate_Achievements": "2023-07-14T15:06:41.6740717+00:00"
+  "LastUpdate_Ratings": "2023-07-14T16:00:01.6650024+00:00",
+  "LastUpdate_Achievements": "2023-07-14T16:06:38.0040815+00:00"
 }

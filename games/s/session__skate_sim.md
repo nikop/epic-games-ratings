@@ -6,8 +6,8 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 57.00% | ~1,430 |
-| Keeping it classy | 26.00% | ~652 |
+| You're free now! | 57.00% | ~1,431 |
+| Keeping it classy | 26.00% | ~653 |
 | Welcome to the family | 20.00% | ~502 |
 | The finer things in life | 18.00% | ~452 |
 | Backpacker | 13.00% | ~326 |
@@ -21,17 +21,17 @@ Number of Ratings: 111  (23.09.2022)
 | Bottom ply killer | 6.00% | ~151 |
 | Fashionista | 6.00% | ~151 |
 | Finally he zips it | 6.00% | ~151 |
-| Sup widdit big dog! | 6.00% | ~151 |
 | That pinch! | 6.00% | ~151 |
 | Tight lipslides | 6.00% | ~151 |
-| Commence the Hijinx! | 5.00% | ~125 |
-| Fulfilled the dream | 5.00% | ~125 |
-| G'Day Mate! | 5.00% | ~125 |
-| Globetrotter | 5.00% | ~125 |
-| Laid back | 5.00% | ~125 |
-| NAHELL! | 5.00% | ~125 |
-| Purple passion | 5.00% | ~125 |
-| Squad goals | 5.00% | ~125 |
+| Commence the Hijinx! | 5.00% | ~126 |
+| Fulfilled the dream | 5.00% | ~126 |
+| G'Day Mate! | 5.00% | ~126 |
+| Globetrotter | 5.00% | ~126 |
+| Laid back | 5.00% | ~126 |
+| NAHELL! | 5.00% | ~126 |
+| Purple passion | 5.00% | ~126 |
+| Squad goals | 5.00% | ~126 |
+| Sup widdit big dog! | 5.00% | ~126 |
 | Cops called! | 4.00% | ~100 |
 | DIY Boss | 4.00% | ~100 |
 | G.O.A.T. status | 4.00% | ~100 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,509 (Ranked 157)  
+Progressed: 2,510 (Ranked 157)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,6 +133,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-11 | 2,505 | 0 |
 | 2023-07-12 | 2,507 | 0 |
 | 2023-07-13 | 2,509 | 0 |
+| 2023-07-14 | 2,510 | 0 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 398)  
 Sum: 436 (Ranked 306)  

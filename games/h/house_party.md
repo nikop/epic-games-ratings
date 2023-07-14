@@ -10,10 +10,10 @@ Number of Ratings: 177  (23.09.2022)
 | Smooth Operator: Madison | 3.00% | ~172 |
 | Caught in the Act | 2.00% | ~115 |
 | Katherine | 2.00% | ~115 |
-| Relentless | 2.00% | ~115 |
 | The Brahdyssey | 1.00% | ~57 |
 | Drunk and Disorderly: Stephanie | 1.00% | ~57 |
 | Life Found a Way | 1.00% | ~28 |
+| Relentless | 1.00% | ~57 |
 | If at First You Don't Succeed... | 1.00% | ~57 |
 | Drunk and Disorderly: Ashley | 0.70% | ~40 |
 | IRL Let's Player | 0.70% | ~40 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | Sucker Punch | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,733 (Ranked 133)  
+Progressed: 5,734 (Ranked 133)  
 Completed: 3 (0.05%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 3 (0.05%) (Ranked 201)
 | 2023-07-11 | 5,723 | 3 |
 | 2023-07-12 | 5,725 | 3 |
 | 2023-07-13 | 5,729 | 3 |
-| 2023-07-14 | 5,733 | 3 |
+| 2023-07-14 | 5,734 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
