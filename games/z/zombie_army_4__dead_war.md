@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~430 |
 | None more hard | 0.50% | ~215 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,038 (Ranked 88)  
+Progressed: 43,038 (Ranked 89)  
 Completed: 25 (0.06%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,12 +159,12 @@ Completed: 25 (0.06%) (Ranked 197)
 | 2023-07-12 | 43,031 | 25 |
 | 2023-07-13 | 43,038 | 25 |
 ## Awards
-Max (Great Boss Battles): 799  (Ranked 152)  
-Sum: 2,438 (Ranked 173)  
+Max (Great Boss Battles): 800  (Ranked 152)  
+Sum: 2,439 (Ranked 173)  
 Diff (max vs sum): -21  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 799 |
+| This game has Great Boss Battles | 800 |
 | This game is Great for Beginners | 246 |
 | This game is Highly Recommended | 209 |
 | This game has Diverse Characters | 209 |
@@ -328,3 +328,4 @@ Diff (max vs sum): -21
 | 2023-07-08 | 4.69 | - | 798 | 2,435 |
 | 2023-07-09 | 4.69 | - | 799 | 2,437 |
 | 2023-07-10 | 4.69 | - | 799 | 2,438 |
+| 2023-07-14 | 4.69 | - | 800 | 2,439 |

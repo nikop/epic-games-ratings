@@ -5,34 +5,34 @@ Rating: 3.41 (Ranked 950)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 22.00% | ~14,490 |
-| Hard Worker | 20.00% | ~13,172 |
-| Master, Commander | 20.00% | ~13,172 |
-| Mechanic | 19.00% | ~12,514 |
-| Adios, Friendo | 18.00% | ~11,855 |
-| Bottom's Up | 18.00% | ~11,855 |
-| Nice Try | 16.00% | ~10,538 |
-| Right On Target | 13.00% | ~8,562 |
-| Piano Man | 10.00% | ~6,586 |
-| Lazy Bones | 9.00% | ~5,928 |
-| Vinyl Vibes | 8.00% | ~5,269 |
-| Sniper | 7.00% | ~4,610 |
-| Nothing Left to Say | 6.00% | ~3,952 |
-| Cut Call | 5.00% | ~3,293 |
-| Butcher | 4.00% | ~2,634 |
-| Magnetic Miracles | 4.00% | ~2,634 |
-| Spicy | 4.00% | ~2,634 |
+| Be Seeing You | 22.00% | ~14,493 |
+| Hard Worker | 20.00% | ~13,175 |
+| Master, Commander | 20.00% | ~13,175 |
+| Mechanic | 19.00% | ~12,516 |
+| Adios, Friendo | 18.00% | ~11,858 |
+| Bottom's Up | 18.00% | ~11,858 |
+| Nice Try | 16.00% | ~10,540 |
+| Right On Target | 13.00% | ~8,564 |
+| Piano Man | 10.00% | ~6,588 |
+| Lazy Bones | 9.00% | ~5,929 |
+| Vinyl Vibes | 8.00% | ~5,270 |
+| Sniper | 7.00% | ~4,611 |
+| Nothing Left to Say | 6.00% | ~3,953 |
+| Cut Call | 5.00% | ~3,294 |
+| Butcher | 4.00% | ~2,635 |
+| Magnetic Miracles | 4.00% | ~2,635 |
+| Spicy | 4.00% | ~2,635 |
 | A Man Of Taste | 3.00% | ~1,976 |
 | Ace in the Hole | 3.00% | ~1,976 |
 | Fair's Fair | 3.00% | ~1,976 |
 | Hearty | 3.00% | ~1,976 |
 | Meaty | 3.00% | ~1,976 |
 | Taco Toto | 3.00% | ~1,976 |
-| Audiophile | 2.00% | ~1,317 |
-| Tape Head | 2.00% | ~1,317 |
+| Audiophile | 2.00% | ~1,318 |
+| Tape Head | 2.00% | ~1,318 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,862 (Ranked 77)  
-Completed: 629 (0.96%) (Ranked 104)  
+Progressed: 65,876 (Ranked 77)  
+Completed: 630 (0.96%) (Ranked 104)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -116,7 +116,7 @@ Completed: 629 (0.96%) (Ranked 104)
 | 2023-07-11 | 65,598 | 621 |
 | 2023-07-12 | 65,715 | 624 |
 | 2023-07-13 | 65,856 | 629 |
-| 2023-07-14 | 65,862 | 629 |
+| 2023-07-14 | 65,876 | 630 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -13,12 +13,12 @@
 | My Emperor... I've failed you! | 20.00% | ~9 |
 | Enemy shield analyzed | 7.00% | ~3 |
 | Piece of cake | 4.00% | ~2 |
+| I'm ready, anytime | 4.00% | ~2 |
 | No need to say goodbye | 4.00% | ~2 |
 | Better hurry up | 2.00% | ~1 |
 | I call her the BF-Worm | 2.00% | ~1 |
 | Axel? | 2.00% | ~1 |
 | You won't escape that easy!! | 2.00% | ~1 |
-| I'm ready, anytime | 2.00% | ~1 |
 | Actually it's called aileron roll | 2.00% | ~1 |
 | I have a bad feeling about this | 2.00% | ~1 |
 | Any other day at work | 2.00% | ~1 |

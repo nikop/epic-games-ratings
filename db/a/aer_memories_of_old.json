@@ -374,10 +374,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15163,
-  "EOS_Completed": 318,
-  "EOS_NewPlayers": 593,
-  "EOS_NewCompleters": 11,
+  "EOS_Progressed": 15165,
+  "EOS_Completed": 319,
+  "EOS_NewPlayers": 586,
+  "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
     {
@@ -9194,6 +9194,11 @@
       "Time": "2023-07-14T00:04:17.5119477+00:00",
       "NumProgressed": 15163,
       "NumCompleted": 318
+    },
+    {
+      "Time": "2023-07-14T02:29:42.5652984+00:00",
+      "NumProgressed": 15165,
+      "NumCompleted": 319
     }
   ],
   "TotalAchievements": 20,
@@ -9269,7 +9274,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2274
+      "UsersEstimate": 2275
     },
     {
       "ID": "FOUND_ERIN",
@@ -9309,7 +9314,7 @@
       "Name": "Written in stone",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     },
     {
       "ID": "GAME_FINISHED",
@@ -9325,7 +9330,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 11524
+      "UsersEstimate": 11525
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -9349,7 +9354,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     },
     {
       "ID": "WEST_FINISHED",
@@ -9364,15 +9369,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 15163,
-      "Completed": 318
+      "Progressed": 15165,
+      "Completed": 319
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-07-14T00:04:17.5119471+00:00",
+  "LastChanged_Achievements": "2023-07-14T02:29:42.5652979+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:34.4370622+00:00",
-  "LastUpdate_Ratings": "2023-07-14T00:01:03.5097106+00:00",
-  "LastUpdate_Achievements": "2023-07-14T00:04:17.5120391+00:00"
+  "LastUpdate_Ratings": "2023-07-14T02:27:29.4534219+00:00",
+  "LastUpdate_Achievements": "2023-07-14T02:29:42.5653942+00:00"
 }

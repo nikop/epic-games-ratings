@@ -160,9 +160,9 @@
       "ID": "Trophy_12",
       "SetID": "cf5h6dl",
       "Name": "Just Hoverin\u0027 Along",
-      "Percentage": 11,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Trophy_13",
@@ -344,9 +344,9 @@
       "ID": "Trophy_35",
       "SetID": "cf5h6dl",
       "Name": "Go-Getter",
-      "Percentage": 15,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Trophy_36",
@@ -449,8 +449,8 @@
   "FirstSeenRating": "2023-04-14T13:04:33.1915334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:56.3452226+00:00",
   "LastChanged": "2023-04-14T13:04:33.1915334+00:00",
-  "LastChanged_Achievements": "2023-07-14T00:04:10.3007457+00:00",
+  "LastChanged_Achievements": "2023-07-14T02:29:33.4236601+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:44.0283581+00:00",
-  "LastUpdate_Ratings": "2023-07-14T00:01:13.3761464+00:00",
-  "LastUpdate_Achievements": "2023-07-14T00:04:10.3007935+00:00"
+  "LastUpdate_Ratings": "2023-07-14T02:27:41.9460243+00:00",
+  "LastUpdate_Achievements": "2023-07-14T02:29:33.4236947+00:00"
 }

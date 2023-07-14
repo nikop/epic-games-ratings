@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211,083 (Ranked 52)  
+Progressed: 211,123 (Ranked 52)  
 Completed: 2,049 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -599,15 +599,15 @@ Completed: 2,049 (0.97%) (Ranked 102)
 | 2023-07-11 | 210,283 | 2,046 |
 | 2023-07-12 | 210,649 | 2,046 |
 | 2023-07-13 | 211,069 | 2,049 |
-| 2023-07-14 | 211,083 | 2,049 |
+| 2023-07-14 | 211,123 | 2,049 |
 ## Awards
 Max (Diverse Characters): 5,029  (Ranked 66)  
-Sum: 30,497 (Ranked 38)  
+Sum: 30,501 (Ranked 38)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,029 |
-| This game is Great for Beginners | 4,960 |
+| This game is Great for Beginners | 4,964 |
 | This game has Quickly Understood Controls | 4,657 |
 | This game is Relaxing | 4,550 |
 | This game is Highly Recommended | 4,001 |
@@ -785,3 +785,4 @@ Diff (max vs sum): 28
 | 2023-07-11 | 4.05 | - | 5,025 | 30,485 |
 | 2023-07-12 | 4.05 | - | 5,025 | 30,489 |
 | 2023-07-13 | 4.05 | - | 5,029 | 30,497 |
+| 2023-07-14 | 4.05 | - | 5,029 | 30,501 |

@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | To Suffer is to Learn | 6.00% | ~195 |
-| Missilis | 5.00% | ~162 |
-| Armaments of the Pantheon | 5.00% | ~162 |
-| Persephone's Guidance | 5.00% | ~162 |
-| Lochos | 5.00% | ~162 |
-| Strength of Herakles | 5.00% | ~162 |
-| Initiate's Resolve | 5.00% | ~162 |
+| Missilis | 5.00% | ~163 |
+| Armaments of the Pantheon | 5.00% | ~163 |
+| Persephone's Guidance | 5.00% | ~163 |
+| Lochos | 5.00% | ~163 |
+| Strength of Herakles | 5.00% | ~163 |
+| Initiate's Resolve | 5.00% | ~163 |
 | Immolator | 4.00% | ~130 |
 | Go For the Head | 4.00% | ~130 |
 | Spartan Sandal | 4.00% | ~130 |
@@ -44,15 +44,15 @@
 | Halls of Marble | 2.00% | ~65 |
 | Mors Omnibus | 2.00% | ~65 |
 | Blot Out the Sky | 2.00% | ~65 |
-| The Nameless One | 1.00% | ~32 |
-| Rule of Thirds | 1.00% | ~32 |
-| Pyr Demon | 1.00% | ~32 |
-| Veneration of Hephaestus | 1.00% | ~32 |
-| Biotechnology | 1.00% | ~32 |
-| The Archimedes Principle | 1.00% | ~32 |
-| Rites at Sea | 1.00% | ~32 |
-| Close Shut the Doors | 1.00% | ~32 |
-| Scrap Metal | 1.00% | ~32 |
+| The Nameless One | 1.00% | ~33 |
+| Rule of Thirds | 1.00% | ~33 |
+| Pyr Demon | 1.00% | ~33 |
+| Veneration of Hephaestus | 1.00% | ~33 |
+| Biotechnology | 1.00% | ~33 |
+| The Archimedes Principle | 1.00% | ~33 |
+| Rites at Sea | 1.00% | ~33 |
+| Close Shut the Doors | 1.00% | ~33 |
+| Scrap Metal | 1.00% | ~33 |
 | Athenian Treasury | 0.80% | ~26 |
 | Invicta | 0.80% | ~26 |
 | Hipparchia's Labour | 0.50% | ~16 |
@@ -62,13 +62,13 @@
 | Interrupt the Interloper | 0.40% | ~13 |
 | Elephantine | 0.40% | ~13 |
 | Window Shopping | 0.30% | ~10 |
-| Buyer's Remorse | 0.20% | ~6 |
+| Buyer's Remorse | 0.20% | ~7 |
 | Library of Alexandria | 0.10% | ~3 |
 | Chitinous | 0.10% | ~3 |
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,250 (Ranked 148)  
+Progressed: 3,252 (Ranked 148)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,6 +151,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-11 | 3,224 | 0 |
 | 2023-07-12 | 3,235 | 0 |
 | 2023-07-13 | 3,250 | 0 |
+| 2023-07-14 | 3,252 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

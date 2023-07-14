@@ -23,27 +23,27 @@ Rating: 4.87 (Ranked 24)
 | NOW we got a kickass hideout! | 1.00% | ~20 |
 | Start with a bang! | 0.90% | ~31 |
 | Time to pay up! | 0.90% | ~31 |
+| Who's the boss now? | 0.90% | ~31 |
+| I have to read these things? | 0.90% | ~31 |
 | You must like calling me in, Chai | 0.90% | ~31 |
-| Who's the boss now? | 0.80% | ~28 |
-| I have to read these things? | 0.80% | ~28 |
 | Feeling the beat! | 0.80% | ~28 |
 | You can pet the cat! | 0.80% | ~28 |
 | Perfecter Parry-er! | 0.70% | ~24 |
 | I look cool. But I can look COOLER. | 0.70% | ~24 |
 | Well that was a rush! | 0.60% | ~21 |
+| Does that say weakpoint? | 0.60% | ~21 |
 | That's a lot of junk metal… | 0.50% | ~17 |
 | There's such a thing as TOO helpful | 0.50% | ~17 |
-| Does that say weakpoint? | 0.50% | ~17 |
 | Call me Turbo Chai | 0.50% | ~10 |
 | Beat-hit mania | 0.40% | ~14 |
 | New bad guys? No problem! | 0.40% | ~8 |
 | Chip-tuned | 0.30% | ~10 |
 | Wanna hear my playlist? | 0.30% | ~10 |
+| Check out my moves! | 0.30% | ~10 |
 | I think I deserve some praise, here! | 0.20% | ~7 |
 | I think I found your calling, Macaron | 0.20% | ~7 |
 | This is a breeze! | 0.20% | ~7 |
 | I told you I'd be fine, Peppermint! | 0.20% | ~7 |
-| Check out my moves! | 0.20% | ~7 |
 | Choose your own adventure | 0.20% | ~4 |
 | Easy Listening | 0.10% | ~3 |
 | Problem solved... wait, what? | 0.10% | ~3 |

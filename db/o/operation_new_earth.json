@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 426,
+  "EOS_Progressed": 427,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
@@ -1481,6 +1481,11 @@
       "Time": "2023-07-13T20:05:51.991027+00:00",
       "NumProgressed": 426,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-14T02:31:33.2870693+00:00",
+      "NumProgressed": 427,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1498,9 +1503,9 @@
       "ID": "ach_defeat_aliens_50",
       "SetID": "bm61c2p",
       "Name": "Exterminator",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 30
     },
     {
       "ID": "ach_defeat_players_10",
@@ -1668,7 +1673,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -1748,7 +1753,7 @@
       "Name": "Defenses Online",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -1795,14 +1800,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 426,
+      "Progressed": 427,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-14T00:05:51.8456907+00:00",
+  "LastChanged_Achievements": "2023-07-14T02:31:33.2870687+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:58.5226048+00:00",
-  "LastUpdate_Ratings": "2023-07-14T00:01:22.4038131+00:00",
-  "LastUpdate_Achievements": "2023-07-14T00:05:51.8457487+00:00"
+  "LastUpdate_Ratings": "2023-07-14T02:27:53.0424096+00:00",
+  "LastUpdate_Achievements": "2023-07-14T02:31:33.2871008+00:00"
 }

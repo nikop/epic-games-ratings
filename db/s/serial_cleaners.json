@@ -498,9 +498,9 @@
       "ID": "PSYCHO_DISMEMBER",
       "SetID": "2lk004m",
       "Name": "The Wing and the Thigh",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "TUTORIAL_COMPLETE",
@@ -537,8 +537,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-07-14T00:04:16.234341+00:00",
+  "LastChanged_Achievements": "2023-07-14T02:29:41.1441947+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:17.5485689+00:00",
-  "LastUpdate_Ratings": "2023-07-14T00:00:02.1229952+00:00",
-  "LastUpdate_Achievements": "2023-07-14T00:04:16.2343623+00:00"
+  "LastUpdate_Ratings": "2023-07-14T02:26:16.8126554+00:00",
+  "LastUpdate_Achievements": "2023-07-14T02:29:41.1442154+00:00"
 }

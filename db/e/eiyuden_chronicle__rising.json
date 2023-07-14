@@ -164,11 +164,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 678,
+  "EOS_Progressed": 679,
   "EOS_Completed": 58,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.55,
+  "EOS_Completed_Percentage": 8.54,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:45.6416158+00:00",
@@ -254,6 +254,11 @@
       "Time": "2023-06-27T07:00:29.1483191+00:00",
       "NumProgressed": 678,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-07-14T02:30:49.8688066+00:00",
+      "NumProgressed": 679,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 50,
@@ -265,7 +270,7 @@
       "Name": "Plenty More to Go",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "ACHIEVEMENT002",
@@ -273,7 +278,7 @@
       "Name": "Partners?",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "ACHIEVEMENT003",
@@ -289,7 +294,7 @@
       "Name": "All Bark, No Bite",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "ACHIEVEMENT005",
@@ -305,7 +310,7 @@
       "Name": "The Lords of the Snowpeak",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "ACHIEVEMENT007",
@@ -313,7 +318,7 @@
       "Name": "The Lava Mantor Wyrm",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ACHIEVEMENT008",
@@ -321,7 +326,7 @@
       "Name": "This Treasure I\u0027ve Found",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACHIEVEMENT009",
@@ -329,7 +334,7 @@
       "Name": "The Road to Recovery",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "ACHIEVEMENT010",
@@ -385,7 +390,7 @@
       "Name": "One Mean Merc",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ACHIEVEMENT017",
@@ -449,7 +454,7 @@
       "Name": "Amateur Adventurer",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "ACHIEVEMENT025",
@@ -457,7 +462,7 @@
       "Name": "Hopeful Hunter",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "ACHIEVEMENT026",
@@ -479,9 +484,9 @@
       "ID": "ACHIEVEMENT028",
       "SetID": "dejhjd5",
       "Name": "On Outlander Lane",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 373
+      "UsersEstimate": 367
     },
     {
       "ID": "ACHIEVEMENT029",
@@ -489,7 +494,7 @@
       "Name": "New Nevaeh\u0027s Number One Customer",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACHIEVEMENT030",
@@ -521,15 +526,15 @@
       "Name": "Rune Scholar",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACHIEVEMENT034",
       "SetID": "dejhjd5",
       "Name": "Money, Money, Money",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 237
+      "UsersEstimate": 231
     },
     {
       "ID": "ACHIEVEMENT035",
@@ -545,7 +550,7 @@
       "Name": "First Time Hunting",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ACHIEVEMENT037",
@@ -553,7 +558,7 @@
       "Name": "Rune Wall Wreckage",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "ACHIEVEMENT038",
@@ -569,7 +574,7 @@
       "Name": "Meat Master",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACHIEVEMENT040",
@@ -623,9 +628,9 @@
       "ID": "ACHIEVEMENT046",
       "SetID": "dejhjd5",
       "Name": "Champion of the Great Forest",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 81
+      "UsersEstimate": 75
     },
     {
       "ID": "ACHIEVEMENT047",
@@ -657,22 +662,22 @@
       "Name": "Rising Champion",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     }
   ],
   "AchievementSets": [
     {
       "ID": "dejhjd5",
       "IsBase": true,
-      "Progressed": 678,
+      "Progressed": 679,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-06-30T09:59:54.3990333+00:00",
-  "LastChanged_Achievements": "2023-07-14T00:05:15.5527994+00:00",
+  "LastChanged_Achievements": "2023-07-14T02:30:49.8688062+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:44.5598551+00:00",
-  "LastUpdate_Ratings": "2023-07-14T00:01:12.0219788+00:00",
-  "LastUpdate_Achievements": "2023-07-14T00:05:15.5528414+00:00"
+  "LastUpdate_Ratings": "2023-07-14T02:27:40.2106651+00:00",
+  "LastUpdate_Achievements": "2023-07-14T02:30:49.8688619+00:00"
 }

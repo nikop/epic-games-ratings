@@ -4,7 +4,7 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 25,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 97,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 8.25,
   "EosHistory": [
@@ -360,9 +360,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "8d3ci0",
       "Name": "Three is company",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -384,9 +384,9 @@
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "8d3ci0",
       "Name": "Ducks adrift",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -400,9 +400,9 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "8d3ci0",
       "Name": "High-rise",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -416,49 +416,49 @@
       "ID": "NEW_ACHIEVEMENT_1_15",
       "SetID": "8d3ci0",
       "Name": "Floatpiercer",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 150,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "8d3ci0",
       "Name": "Family pond",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "8d3ci0",
       "Name": "Make a wish",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "8d3ci0",
       "Name": "Catch a flight",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "8d3ci0",
       "Name": "Way to the shore",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "8d3ci0",
       "Name": "Private pool",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -472,9 +472,9 @@
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "8d3ci0",
       "Name": "On fire",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 60,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -495,8 +495,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-14T00:05:35.7738745+00:00",
+  "LastChanged_Achievements": "2023-07-14T02:31:14.1420611+00:00",
   "LastUpdate_AppInfo": "2023-07-08T11:56:59.3518994+00:00",
-  "LastUpdate_Ratings": "2023-07-13T23:57:20.5391305+00:00",
-  "LastUpdate_Achievements": "2023-07-14T00:05:35.7738927+00:00"
+  "LastUpdate_Ratings": "2023-07-14T02:23:06.630362+00:00",
+  "LastUpdate_Achievements": "2023-07-14T02:31:14.1420751+00:00"
 }

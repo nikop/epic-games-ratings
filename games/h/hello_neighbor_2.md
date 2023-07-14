@@ -5,11 +5,11 @@ Rating: 4.45 (Ranked 624)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Raven Brooks | 75.00% | ~1,934 |
-| Shovel Night | 37.00% | ~954 |
-| Case Closed | 36.00% | ~928 |
+| Welcome to Raven Brooks | 75.00% | ~1,935 |
+| Shovel Night | 37.00% | ~955 |
+| Case Closed | 36.00% | ~929 |
 | Easy As Pie | 33.00% | ~851 |
-| Family Lost | 32.00% | ~825 |
+| Family Lost | 32.00% | ~826 |
 | Treasure Hunt | 30.00% | ~774 |
 | Ancient Curse | 28.00% | ~722 |
 | Cat Person | 25.00% | ~645 |
@@ -20,7 +20,7 @@ Rating: 4.45 (Ranked 624)
 | Mad Scientist | 23.00% | ~593 |
 | Dog Person | 20.00% | ~516 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,579 (Ranked 156)  
+Progressed: 2,580 (Ranked 156)  
 Completed: 100 (3.88%) (Ranked 45)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 100 (3.88%) (Ranked 45)
 | 2023-07-11 | 2,570 | 100 |
 | 2023-07-12 | 2,572 | 100 |
 | 2023-07-13 | 2,578 | 100 |
-| 2023-07-14 | 2,579 | 100 |
+| 2023-07-14 | 2,580 | 100 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 406,
+  "EOS_Progressed": 407,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -315,6 +315,11 @@
       "Time": "2023-07-13T16:03:37.4523817+00:00",
       "NumProgressed": 406,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-14T02:29:42.1493637+00:00",
+      "NumProgressed": 407,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -342,7 +347,7 @@
       "Name": "Omae Wa Mou Shindeiru",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "collect-combos",
@@ -358,7 +363,7 @@
       "Name": "Frugal",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "collect-discounted-items2",
@@ -380,9 +385,9 @@
       "ID": "different-items1",
       "SetID": "799afm0",
       "Name": "Party",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 191
     },
     {
       "ID": "different-items2",
@@ -438,7 +443,7 @@
       "Name": "Assemble a Meganewbie",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "finished-quest-rat",
@@ -446,7 +451,7 @@
       "Name": "The Return of a Rat",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "finished-quest-reaper",
@@ -460,9 +465,9 @@
       "ID": "finished-quest-sci",
       "SetID": "799afm0",
       "Name": "Knowledge is Power",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 179
+      "UsersEstimate": 175
     },
     {
       "ID": "finished-quest-secret",
@@ -542,7 +547,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "win-first-level",
@@ -550,7 +555,7 @@
       "Name": "Good start!",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "win-koth-fights1",
@@ -580,9 +585,9 @@
       "ID": "win-second-biom",
       "SetID": "799afm0",
       "Name": "Through the Darkness",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 166
+      "UsersEstimate": 171
     },
     {
       "ID": "win-with-3-cultists",
@@ -605,7 +610,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 406,
+      "Progressed": 407,
       "Completed": 1
     }
   ],
@@ -613,8 +618,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-07-14T00:04:17.1293496+00:00",
+  "LastChanged_Achievements": "2023-07-14T02:29:42.1493634+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:31.3205078+00:00",
-  "LastUpdate_Ratings": "2023-07-13T23:59:25.3841184+00:00",
-  "LastUpdate_Achievements": "2023-07-14T00:04:17.1293936+00:00"
+  "LastUpdate_Ratings": "2023-07-14T02:25:32.9484772+00:00",
+  "LastUpdate_Achievements": "2023-07-14T02:29:42.1493867+00:00"
 }

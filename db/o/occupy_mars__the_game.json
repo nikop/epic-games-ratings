@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -184,9 +184,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1405,
+  "EOS_Progressed": 1407,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2709,6 +2709,11 @@
       "Time": "2023-07-13T20:04:02.0880982+00:00",
       "NumProgressed": 1405,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-14T02:29:42.8423533+00:00",
+      "NumProgressed": 1407,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2838,9 +2843,9 @@
       "ID": "NEW_ACHIEVEMENT_BOTANY_POWERS",
       "SetID": "l546gc",
       "Name": "Fear my botany powers, Mars",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 464
+      "UsersEstimate": 450
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -2912,7 +2917,7 @@
       "Name": "Gardener",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -2920,7 +2925,7 @@
       "Name": "Get your hands dirty",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "NEW_ACHIEVEMENT_GOOD_MARTIAN",
@@ -2936,7 +2941,7 @@
       "Name": "I am the greatest botanist on this planet.",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -2968,7 +2973,7 @@
       "Name": "Miner",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -2976,7 +2981,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -2992,7 +2997,7 @@
       "Name": "Occupy Mars!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -3103,7 +3108,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1405,
+      "Progressed": 1407,
       "Completed": 0
     }
   ],
@@ -3111,8 +3116,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-07-11T13:59:27.7611069+00:00",
-  "LastChanged_Achievements": "2023-07-14T00:04:17.7816812+00:00",
+  "LastChanged_Achievements": "2023-07-14T02:29:42.8423527+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:43.4000048+00:00",
-  "LastUpdate_Ratings": "2023-07-13T23:57:57.5243178+00:00",
-  "LastUpdate_Achievements": "2023-07-14T00:04:17.7817928+00:00"
+  "LastUpdate_Ratings": "2023-07-14T02:23:52.1026842+00:00",
+  "LastUpdate_Achievements": "2023-07-14T02:29:42.842402+00:00"
 }

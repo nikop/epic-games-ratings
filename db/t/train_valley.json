@@ -415,9 +415,9 @@
       "ID": "12_roll",
       "SetID": "chb1m60",
       "Name": "Let\u0027s roll!",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 91
     },
     {
       "ID": "13_bunkrupt",
@@ -647,8 +647,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-03-31T05:57:32.453108+00:00",
-  "LastChanged_Achievements": "2023-07-14T00:03:49.4892044+00:00",
+  "LastChanged_Achievements": "2023-07-14T02:28:59.4872968+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:06.143005+00:00",
-  "LastUpdate_Ratings": "2023-07-13T23:58:14.760318+00:00",
-  "LastUpdate_Achievements": "2023-07-14T00:03:49.4892383+00:00"
+  "LastUpdate_Ratings": "2023-07-14T02:24:10.7483197+00:00",
+  "LastUpdate_Achievements": "2023-07-14T02:28:59.4873255+00:00"
 }

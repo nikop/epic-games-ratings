@@ -6,8 +6,8 @@ Rating: 3.54 (Ranked 948)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I Like My Stakes Rare! | 77.00% | ~1,324 |
+| Ne Plus Ultra | 61.00% | ~1,049 |
 | Home Is Where the Heart Is | 60.00% | ~1,032 |
-| Ne Plus Ultra | 60.00% | ~1,032 |
 | Wounded Whispers | 60.00% | ~1,032 |
 | Blood Will Have Blood | 51.00% | ~877 |
 | ICU | 46.00% | ~791 |
@@ -57,7 +57,7 @@ Rating: 3.54 (Ranked 948)
 | Friends 'Til The End | 1.00% | ~17 |
 | Sisterhood | 0.90% | ~15 |
 | Ask Not For Whom The Horns Blow | 0.90% | ~15 |
-| Good Samaritan | 0.70% | ~12 |
+| Good Samaritan | 0.80% | ~14 |
 | Someplace to Be | 0.50% | ~9 |
 | Bob’s Final Hour | 0.50% | ~9 |
 | A Cry in the Dark | 0.30% | ~5 |
