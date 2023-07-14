@@ -292,9 +292,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 38967,
+  "EOS_Progressed": 38968,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5267,6 +5267,11 @@
       "Time": "2023-07-14T22:04:12.8742064+00:00",
       "NumProgressed": 38967,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-14T23:03:32.7241269+00:00",
+      "NumProgressed": 38968,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -5524,9 +5529,9 @@
       "ID": "MAGIC_ELECTRIC_SHOCK",
       "SetID": "6d0g7k8",
       "Name": "Shocker",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 390
+      "UsersEstimate": 779
     },
     {
       "ID": "MAGIC_FLOWER",
@@ -5701,22 +5706,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 38967,
+      "Progressed": 38968,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 3804,
-      "Completed": 3804
+      "Progressed": 3805,
+      "Completed": 3805
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-07-01T18:58:51.3076879+00:00",
-  "LastChanged_Achievements": "2023-07-14T22:04:12.8742059+00:00",
+  "LastChanged_Achievements": "2023-07-14T23:03:32.7241264+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:18.1747348+00:00",
-  "LastUpdate_Ratings": "2023-07-14T21:59:55.0408923+00:00",
-  "LastUpdate_Achievements": "2023-07-14T22:04:12.874283+00:00"
+  "LastUpdate_Ratings": "2023-07-14T22:58:52.8103737+00:00",
+  "LastUpdate_Achievements": "2023-07-14T23:03:32.7241847+00:00"
 }

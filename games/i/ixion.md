@@ -13,11 +13,11 @@ Rating: 4.56 (Ranked 457)
 | Space Society | 12.00% | ~338 |
 | A Thousand Strong | 12.00% | ~338 |
 | Permanent Redesigns | 11.00% | ~310 |
-| Guy de Borderlands | 9.00% | ~253 |
-| Fully Recycled | 9.00% | ~253 |
-| Ain't Nobody Got Time for That | 9.00% | ~253 |
-| The Ship of Theseus | 9.00% | ~253 |
-| Hope Seeker | 9.00% | ~253 |
+| Guy de Borderlands | 9.00% | ~254 |
+| Fully Recycled | 9.00% | ~254 |
+| Ain't Nobody Got Time for That | 9.00% | ~254 |
+| The Ship of Theseus | 9.00% | ~254 |
+| Hope Seeker | 9.00% | ~254 |
 | Exceeding Capacity | 8.00% | ~225 |
 | Breaking Protocol | 8.00% | ~225 |
 | A Hunk of Junk | 7.00% | ~197 |
@@ -30,11 +30,11 @@ Rating: 4.56 (Ranked 457)
 | Necessary Enhancement | 4.00% | ~113 |
 | All in Good Health | 4.00% | ~113 |
 | From the Past | 4.00% | ~113 |
-| Oats | 3.00% | ~84 |
-| What They Hide From Us | 3.00% | ~84 |
-| ...  in a finite world | 3.00% | ~84 |
-| BRAWL! | 3.00% | ~84 |
-| What the Ruins Teach Us | 3.00% | ~84 |
+| Oats | 3.00% | ~85 |
+| What They Hide From Us | 3.00% | ~85 |
+| ...  in a finite world | 3.00% | ~85 |
+| BRAWL! | 3.00% | ~85 |
+| What the Ruins Teach Us | 3.00% | ~85 |
 | Sustainable Energy | 2.00% | ~56 |
 | In Dolos We Trust | 2.00% | ~56 |
 | Delivery! | 2.00% | ~56 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 457)
 | This is Fine | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,816 (Ranked 155)  
+Progressed: 2,817 (Ranked 155)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-11 | 2,801 | 0 |
 | 2023-07-12 | 2,805 | 0 |
 | 2023-07-13 | 2,812 | 0 |
-| 2023-07-14 | 2,816 | 0 |
+| 2023-07-14 | 2,817 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

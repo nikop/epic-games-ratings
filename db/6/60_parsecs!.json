@@ -4,7 +4,7 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 677,
+  "EOS_Progressed": 678,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -508,6 +508,11 @@
       "Time": "2023-07-13T18:05:31.9728953+00:00",
       "NumProgressed": 677,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-14T23:05:22.8559802+00:00",
+      "NumProgressed": 678,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -527,7 +532,7 @@
       "Name": "Across The Stars",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "Achievement_AirlockExit",
@@ -543,7 +548,7 @@
       "Name": "All Seats Taken",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "Achievement_AxelInSpace",
@@ -583,7 +588,7 @@
       "Name": "Crafty",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "Achievement_DontPanic",
@@ -591,7 +596,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "Achievement_DustToDust",
@@ -655,7 +660,7 @@
       "Name": "For Science!",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "Achievement_Friendzone",
@@ -663,7 +668,7 @@
       "Name": "Friendzone",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "Achievement_GiantLeap",
@@ -775,7 +780,7 @@
       "Name": "Non-Fiction",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "Achievement_SecondLife",
@@ -870,7 +875,7 @@
     {
       "ID": "c01p6e5",
       "IsBase": true,
-      "Progressed": 677,
+      "Progressed": 678,
       "Completed": 1
     }
   ],
@@ -878,8 +883,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-07-14T22:06:48.4444746+00:00",
+  "LastChanged_Achievements": "2023-07-14T23:05:22.8559797+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:48.9617306+00:00",
-  "LastUpdate_Ratings": "2023-07-14T22:00:28.3396003+00:00",
-  "LastUpdate_Achievements": "2023-07-14T22:06:48.4445437+00:00"
+  "LastUpdate_Ratings": "2023-07-14T22:59:17.6797397+00:00",
+  "LastUpdate_Achievements": "2023-07-14T23:05:22.8560091+00:00"
 }

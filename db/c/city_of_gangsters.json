@@ -419,10 +419,16 @@
       "Rating": 4.26,
       "NumberOfAwards": 119,
       "NumberOfAwardsMax": 27
+    },
+    {
+      "Time": "2023-07-14T22:58:09.6261806+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 120,
+      "NumberOfAwardsMax": 27
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 119,
+  "NumberOfAwards": 120,
   "NumberOfAwardsMax": 27,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -442,7 +448,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -457,9 +463,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 329725,
+  "EOS_Progressed": 329730,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1584,
+  "EOS_NewPlayers": 1581,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9657,6 +9663,11 @@
       "Time": "2023-07-14T22:07:31.9693727+00:00",
       "NumProgressed": 329725,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-14T23:05:46.050764+00:00",
+      "NumProgressed": 329730,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 80,
@@ -9684,7 +9695,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 39567
+      "UsersEstimate": 39568
     },
     {
       "ID": "ach004",
@@ -9692,7 +9703,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6594
+      "UsersEstimate": 6595
     },
     {
       "ID": "ach005",
@@ -9724,7 +9735,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 39567
+      "UsersEstimate": 39568
     },
     {
       "ID": "ach009",
@@ -9764,7 +9775,7 @@
       "Name": "Baker\u2019s Dozen",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6594
+      "UsersEstimate": 6595
     },
     {
       "ID": "ach014",
@@ -9796,7 +9807,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 42864
+      "UsersEstimate": 42865
     },
     {
       "ID": "ach018",
@@ -9876,7 +9887,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 151674
+      "UsersEstimate": 151676
     },
     {
       "ID": "ach028",
@@ -9892,7 +9903,7 @@
       "Name": "Beating the Heat",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 32972
+      "UsersEstimate": 32973
     },
     {
       "ID": "ach030",
@@ -9900,7 +9911,7 @@
       "Name": "Dropping the Dime",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6594
+      "UsersEstimate": 6595
     },
     {
       "ID": "ach031",
@@ -9972,7 +9983,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 32972
+      "UsersEstimate": 32973
     },
     {
       "ID": "ach040",
@@ -10020,7 +10031,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 42864
+      "UsersEstimate": 42865
     },
     {
       "ID": "ach046",
@@ -10100,7 +10111,7 @@
       "Name": "Spiffy Speakeasies",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6594
+      "UsersEstimate": 6595
     },
     {
       "ID": "ach056",
@@ -10132,7 +10143,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 32972
+      "UsersEstimate": 32973
     },
     {
       "ID": "ach060",
@@ -10148,7 +10159,7 @@
       "Name": "Keeping Your Word",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6594
+      "UsersEstimate": 6595
     },
     {
       "ID": "ach062",
@@ -10196,7 +10207,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 52756
+      "UsersEstimate": 52757
     },
     {
       "ID": "ach069",
@@ -10307,16 +10318,16 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 329725,
+      "Progressed": 329730,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-08-11T21:00:23.9390359+00:00",
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
-  "LastChanged": "2023-07-10T19:58:07.28054+00:00",
-  "LastChanged_Achievements": "2023-07-14T22:07:31.9693722+00:00",
+  "LastChanged": "2023-07-14T22:58:09.6261804+00:00",
+  "LastChanged_Achievements": "2023-07-14T23:05:46.0507634+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:11.3135464+00:00",
-  "LastUpdate_Ratings": "2023-07-14T21:58:43.9145831+00:00",
-  "LastUpdate_Achievements": "2023-07-14T22:07:31.9695385+00:00"
+  "LastUpdate_Ratings": "2023-07-14T22:58:09.6261809+00:00",
+  "LastUpdate_Achievements": "2023-07-14T23:05:46.0508713+00:00"
 }

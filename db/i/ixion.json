@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2816,
+  "EOS_Progressed": 2817,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3503,6 +3503,11 @@
       "Time": "2023-07-14T19:05:49.0087579+00:00",
       "NumProgressed": 2816,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-14T23:04:31.7491354+00:00",
+      "NumProgressed": 2817,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -3546,7 +3551,7 @@
       "Name": "Oats",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_BASE_15",
@@ -3570,7 +3575,7 @@
       "Name": "What They Hide From Us",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_BASE_18",
@@ -3586,7 +3591,7 @@
       "Name": "...  in a finite world",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_BASE_2",
@@ -3594,7 +3599,7 @@
       "Name": "Guy de Borderlands",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ACH_BASE_21",
@@ -3706,7 +3711,7 @@
       "Name": "Fully Recycled",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ACH_BASE_34",
@@ -3818,7 +3823,7 @@
       "Name": "Ain\u0027t Nobody Got Time for That",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ACH_BASE_5",
@@ -3850,7 +3855,7 @@
       "Name": "BRAWL!",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_BASE_53",
@@ -3890,7 +3895,7 @@
       "Name": "The Ship of Theseus",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ACH_BASE_6",
@@ -3898,7 +3903,7 @@
       "Name": "Hope Seeker",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ACH_BASE_60",
@@ -3954,7 +3959,7 @@
       "Name": "What the Ruins Teach Us",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_BASE_9",
@@ -3969,13 +3974,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 997,
-      "Completed": 5
+      "Progressed": 999,
+      "Completed": 6
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2816,
+      "Progressed": 2817,
       "Completed": 0
     }
   ],
@@ -3983,8 +3988,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-07-08T02:22:11.1138638+00:00",
-  "LastChanged_Achievements": "2023-07-14T22:05:36.1873527+00:00",
+  "LastChanged_Achievements": "2023-07-14T23:04:31.749135+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:17.2355244+00:00",
-  "LastUpdate_Ratings": "2023-07-14T21:59:55.6736083+00:00",
-  "LastUpdate_Achievements": "2023-07-14T22:05:36.1874224+00:00"
+  "LastUpdate_Ratings": "2023-07-14T22:58:53.583183+00:00",
+  "LastUpdate_Achievements": "2023-07-14T23:04:31.7491973+00:00"
 }

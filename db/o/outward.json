@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -496,9 +496,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3040,
+  "EOS_Progressed": 3041,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3141,6 +3141,11 @@
       "Time": "2023-07-14T11:06:06.5409984+00:00",
       "NumProgressed": 3040,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-14T23:05:19.4402577+00:00",
+      "NumProgressed": 3041,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 42,
@@ -3152,7 +3157,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "AceDetective_9",
@@ -3176,7 +3181,7 @@
       "Name": "Apex Predator",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "BloodAndJustice_50",
@@ -3336,7 +3341,7 @@
       "Name": "Ready for Summer",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1550
+      "UsersEstimate": 1551
     },
     {
       "ID": "ReadyforWinter_42",
@@ -3360,7 +3365,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -3416,7 +3421,7 @@
       "Name": "The Power of Family",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -3472,7 +3477,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2280
+      "UsersEstimate": 2281
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -3487,15 +3492,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3040,
+      "Progressed": 3041,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-07-11T02:15:21.6079736+00:00",
-  "LastChanged_Achievements": "2023-07-14T22:06:43.6723019+00:00",
+  "LastChanged_Achievements": "2023-07-14T23:05:19.4402573+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:22.0293515+00:00",
-  "LastUpdate_Ratings": "2023-07-14T21:58:59.3975244+00:00",
-  "LastUpdate_Achievements": "2023-07-14T22:06:43.6723477+00:00"
+  "LastUpdate_Ratings": "2023-07-14T22:58:18.2461182+00:00",
+  "LastUpdate_Achievements": "2023-07-14T23:05:19.4402961+00:00"
 }

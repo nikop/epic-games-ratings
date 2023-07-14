@@ -3060,9 +3060,9 @@
       "Count": 1049
     }
   ],
-  "EOS_Progressed": 53313,
+  "EOS_Progressed": 53319,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 1476,
+  "EOS_NewPlayers": 1473,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -12180,6 +12180,11 @@
       "Time": "2023-07-14T22:05:19.0789728+00:00",
       "NumProgressed": 53313,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-07-14T23:04:19.480915+00:00",
+      "NumProgressed": 53319,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 53,
@@ -12223,7 +12228,7 @@
       "Name": "Hijacked",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4265
+      "UsersEstimate": 4266
     },
     {
       "ID": "collect_high_amount_hero_props",
@@ -12239,7 +12244,7 @@
       "Name": "Finders Keepers",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 10129
+      "UsersEstimate": 10131
     },
     {
       "ID": "complet_epilogue_mission",
@@ -12287,7 +12292,7 @@
       "Name": "The Side Job",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 12262
+      "UsersEstimate": 12263
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -12295,7 +12300,7 @@
       "Name": "Wet Work",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 12795
+      "UsersEstimate": 12797
     },
     {
       "ID": "complete_mission_1",
@@ -12303,7 +12308,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 18660
+      "UsersEstimate": 18662
     },
     {
       "ID": "customize_a_vehicle",
@@ -12311,15 +12316,15 @@
       "Name": "Tune Up",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 13328
+      "UsersEstimate": 13330
     },
     {
       "ID": "customize_a_weapon",
       "SetID": "3ib2d0i",
       "Name": "Optimized",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 14395
+      "UsersEstimate": 14929
     },
     {
       "ID": "cutting_edge_materials",
@@ -12367,7 +12372,7 @@
       "Name": "A Young Empire",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 10129
+      "UsersEstimate": 10131
     },
     {
       "ID": "empire_tier_3",
@@ -12375,7 +12380,7 @@
       "Name": "Power Players",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 7464
+      "UsersEstimate": 7465
     },
     {
       "ID": "empire_tier_4",
@@ -12383,7 +12388,7 @@
       "Name": "Masters of Santo Ileso",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 4798
+      "UsersEstimate": 4799
     },
     {
       "ID": "empire_tier_5",
@@ -12399,7 +12404,7 @@
       "Name": "Landlord",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 12795
+      "UsersEstimate": 12797
     },
     {
       "ID": "fully_complete_a_building",
@@ -12407,7 +12412,7 @@
       "Name": "Work Ethic",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 9063
+      "UsersEstimate": 9064
     },
     {
       "ID": "fully_upgrade_1_vehicle",
@@ -12423,7 +12428,7 @@
       "Name": "Kitted Out",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 5331
+      "UsersEstimate": 5332
     },
     {
       "ID": "get_betrayed",
@@ -12439,7 +12444,7 @@
       "Name": "Performance Review",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 14395
+      "UsersEstimate": 14396
     },
     {
       "ID": "hit_max_level",
@@ -12463,7 +12468,7 @@
       "Name": "Picking Fights",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 7464
+      "UsersEstimate": 7465
     },
     {
       "ID": "kill_enemy_with_tetherd_object",
@@ -12471,7 +12476,7 @@
       "Name": "Wrecking Ball",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 10663
+      "UsersEstimate": 10664
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -12487,7 +12492,7 @@
       "Name": "Making a Name",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 13861
+      "UsersEstimate": 13863
     },
     {
       "ID": "one_third_purple",
@@ -12495,7 +12500,7 @@
       "Name": "Neighborly",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1599
+      "UsersEstimate": 1600
     },
     {
       "ID": "own_100_pieces_of_clothing",
@@ -12511,7 +12516,7 @@
       "Name": "Prankster",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1599
+      "UsersEstimate": 1600
     },
     {
       "ID": "purchase_2_emotes",
@@ -12535,7 +12540,7 @@
       "Name": "Tourist",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1599
+      "UsersEstimate": 1600
     },
     {
       "ID": "staggered_by_vending_machine",
@@ -12543,7 +12548,7 @@
       "Name": "Food for Thought",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 10663
+      "UsersEstimate": 10664
     },
     {
       "ID": "two_thirds_purple",
@@ -12575,7 +12580,7 @@
       "Name": "To The Nines",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 17060
+      "UsersEstimate": 17062
     },
     {
       "ID": "whole_map_purple",
@@ -12614,13 +12619,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 53313,
+      "Progressed": 53319,
       "Completed": 28
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 24950,
+      "Progressed": 24956,
       "Completed": 2480
     }
   ],
@@ -12628,8 +12633,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-07-14T19:01:32.4354272+00:00",
-  "LastChanged_Achievements": "2023-07-14T22:05:19.0789723+00:00",
+  "LastChanged_Achievements": "2023-07-14T23:04:19.4809145+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:59.9580935+00:00",
-  "LastUpdate_Ratings": "2023-07-14T22:01:46.8784227+00:00",
-  "LastUpdate_Achievements": "2023-07-14T22:05:19.0790778+00:00"
+  "LastUpdate_Ratings": "2023-07-14T23:00:06.389869+00:00",
+  "LastUpdate_Achievements": "2023-07-14T23:04:19.4809973+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 55785,
+  "EOS_Progressed": 55789,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5597,6 +5597,11 @@
       "Time": "2023-07-14T21:04:49.5009139+00:00",
       "NumProgressed": 55785,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-14T23:04:39.8551111+00:00",
+      "NumProgressed": 55789,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 49,
@@ -5744,7 +5749,7 @@
       "Name": "Gimme My Presents Back!",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "HFZGoober",
@@ -5896,7 +5901,7 @@
       "Name": "Cleaning Out Santa\u0027s Sack",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "SecretLevel",
@@ -5920,7 +5925,7 @@
       "Name": "Sunflower Master",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2231
+      "UsersEstimate": 2232
     },
     {
       "ID": "Teamwork",
@@ -5999,7 +6004,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 55785,
+      "Progressed": 55789,
       "Completed": 4
     }
   ],
@@ -6007,8 +6012,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-07-14T22:05:47.5037713+00:00",
+  "LastChanged_Achievements": "2023-07-14T23:04:39.8551108+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:05.8866487+00:00",
-  "LastUpdate_Ratings": "2023-07-14T22:02:54.0041514+00:00",
-  "LastUpdate_Achievements": "2023-07-14T22:05:47.5039024+00:00"
+  "LastUpdate_Ratings": "2023-07-14T23:00:57.4694062+00:00",
+  "LastUpdate_Achievements": "2023-07-14T23:04:39.8551643+00:00"
 }

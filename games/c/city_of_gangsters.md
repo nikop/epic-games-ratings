@@ -5,19 +5,19 @@ Rating: 4.26 (Ranked 804)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~151,674 |
-| Copacetic Coordination | 16.00% | ~52,756 |
+| Corner Clout | 46.00% | ~151,676 |
+| Copacetic Coordination | 16.00% | ~52,757 |
 | Fronting the Money | 14.00% | ~46,162 |
 | The Dawn of Automation | 14.00% | ~46,162 |
 | Extraordinary Logistics | 14.00% | ~46,162 |
-| Dirty Money | 13.00% | ~42,864 |
-| Family First | 13.00% | ~42,864 |
-| Cleaning House | 12.00% | ~39,567 |
-| Room in the Back | 12.00% | ~39,567 |
+| Dirty Money | 13.00% | ~42,865 |
+| Family First | 13.00% | ~42,865 |
+| Cleaning House | 12.00% | ~39,568 |
+| Room in the Back | 12.00% | ~39,568 |
 | Booze Baron | 11.00% | ~36,270 |
-| Beating the Heat | 10.00% | ~32,972 |
-| Friends on the Force | 10.00% | ~32,972 |
-| Neighborhood Watch | 10.00% | ~32,972 |
+| Beating the Heat | 10.00% | ~32,973 |
+| Friends on the Force | 10.00% | ~32,973 |
+| Neighborhood Watch | 10.00% | ~32,973 |
 | Core Corps | 8.00% | ~26,378 |
 | Sizeable Stash | 8.00% | ~26,378 |
 | Street Fighter | 7.00% | ~23,081 |
@@ -48,11 +48,11 @@ Rating: 4.26 (Ranked 804)
 | Still Stalwart | 3.00% | ~9,892 |
 | Bees Knees Bootlegger | 3.00% | ~9,892 |
 | Tighten the Screws | 3.00% | ~9,892 |
-| One of Us | 2.00% | ~6,594 |
-| Baker’s Dozen | 2.00% | ~6,594 |
-| Dropping the Dime | 2.00% | ~6,594 |
-| Spiffy Speakeasies | 2.00% | ~6,594 |
-| Keeping Your Word | 2.00% | ~6,594 |
+| One of Us | 2.00% | ~6,595 |
+| Baker’s Dozen | 2.00% | ~6,595 |
+| Dropping the Dime | 2.00% | ~6,595 |
+| Spiffy Speakeasies | 2.00% | ~6,595 |
+| Keeping Your Word | 2.00% | ~6,595 |
 | Boxing Them In | 1.00% | ~3,297 |
 | Backroom Empire | 1.00% | ~3,297 |
 | Corner Control | 1.00% | ~3,297 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 804)
 | High Pillow | 0.10% | ~330 |
 | Station Master | 0.10% | ~330 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 329,725 (Ranked 40)  
+Progressed: 329,730 (Ranked 40)  
 Completed: 5 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,17 +171,17 @@ Completed: 5 (0.00%) (Ranked 236)
 | 2023-07-11 | 329,063 | 5 |
 | 2023-07-12 | 329,266 | 5 |
 | 2023-07-13 | 329,473 | 5 |
-| 2023-07-14 | 329,725 | 5 |
+| 2023-07-14 | 329,730 | 5 |
 ## Awards
 Max (Highly Recommended): 27  (Ranked 466)  
-Sum: 119 (Ranked 400)  
+Sum: 120 (Ranked 400)  
 Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 27 |
 | This game is Relaxing | 26 |
+| This game is Extremely Fun | 23 |
 | This game has Quickly Understood Controls | 23 |
-| This game is Extremely Fun | 22 |
 | This game has Easy Combat | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -243,3 +243,4 @@ Diff (max vs sum): 66
 | 2023-07-08 | 4.26 | 27 | 117 |
 | 2023-07-09 | 4.26 | 27 | 118 |
 | 2023-07-10 | 4.26 | 27 | 119 |
+| 2023-07-14 | 4.26 | 27 | 120 |

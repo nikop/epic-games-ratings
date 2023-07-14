@@ -2,7 +2,7 @@
   "ID": "fc3184cec5eb463ea33412294a05fca2",
   "Name": "Placid Plastic Duck Simulator",
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
-  "Ranking_EOS_Progress": 300,
+  "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 27,
   "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 19,
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 103,
+  "EOS_Progressed": 104,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 7.77,
+  "EOS_Completed_Percentage": 7.69,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -376,6 +376,11 @@
       "Time": "2023-07-14T21:04:59.1617428+00:00",
       "NumProgressed": 103,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-14T23:04:49.1040736+00:00",
+      "NumProgressed": 104,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 16,
@@ -417,9 +422,9 @@
       "ID": "NEW_ACHIEVEMENT_1_12",
       "SetID": "8d3ci0",
       "Name": "That\u0027s all, ducks!",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 160,
-      "UsersEstimate": 18
+      "UsersEstimate": 17
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
@@ -443,7 +448,7 @@
       "Name": "Floatpiercer",
       "Percentage": 13,
       "XP": 150,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -514,14 +519,14 @@
     {
       "ID": "8d3ci0",
       "IsBase": true,
-      "Progressed": 103,
+      "Progressed": 104,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-14T22:06:00.9691125+00:00",
+  "LastChanged_Achievements": "2023-07-14T23:04:49.1040731+00:00",
   "LastUpdate_AppInfo": "2023-07-08T11:56:59.3518994+00:00",
-  "LastUpdate_Ratings": "2023-07-14T21:57:26.0632261+00:00",
-  "LastUpdate_Achievements": "2023-07-14T22:06:00.9691394+00:00"
+  "LastUpdate_Ratings": "2023-07-14T22:57:17.1138476+00:00",
+  "LastUpdate_Achievements": "2023-07-14T23:04:49.1040844+00:00"
 }

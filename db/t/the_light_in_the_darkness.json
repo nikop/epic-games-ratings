@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1925,
+  "EOS_Progressed": 1926,
   "EOS_Completed": 162,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 8.42,
+  "EOS_Completed_Percentage": 8.41,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -3818,6 +3818,11 @@
       "Time": "2023-07-14T17:02:34.8577483+00:00",
       "NumProgressed": 1925,
       "NumCompleted": 162
+    },
+    {
+      "Time": "2023-07-14T23:01:10.0541806+00:00",
+      "NumProgressed": 1926,
+      "NumCompleted": 162
     }
   ],
   "TotalAchievements": 12,
@@ -3853,7 +3858,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "Jacques a Dit",
@@ -3909,7 +3914,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "Nuremberg Laws",
@@ -3924,7 +3929,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1925,
+      "Progressed": 1926,
       "Completed": 162
     }
   ],
@@ -3932,8 +3937,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-07-14T22:03:11.9102902+00:00",
+  "LastChanged_Achievements": "2023-07-14T23:01:10.0541801+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:46.7313961+00:00",
-  "LastUpdate_Ratings": "2023-07-14T22:01:30.8365757+00:00",
-  "LastUpdate_Achievements": "2023-07-14T22:03:11.9103863+00:00"
+  "LastUpdate_Ratings": "2023-07-14T22:59:57.9830866+00:00",
+  "LastUpdate_Achievements": "2023-07-14T23:01:10.0542523+00:00"
 }
