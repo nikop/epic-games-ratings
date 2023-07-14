@@ -19,9 +19,9 @@
 | 12 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.89 | 0 | 505 |
 | 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 16,920 | 20 |
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 135 | 300 |
-| 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,145 | 76 |
+| 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,148 | 76 |
 | 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 158,970 | 6 |
-| 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 10,600 | 35 |
+| 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 10,616 | 35 |
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 486 |
 | 24 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 271 | 241 |
 | 24 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,411 | 123 |
@@ -149,7 +149,7 @@
 | 144 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 639 | 170 |
 | 144 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,787 | 48 |
 | 144 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.74 | 0 | 505 |
-| 144 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 34,414 | 14 |
+| 144 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 34,453 | 14 |
 | 144 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 0 | 505 |
 | 144 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 0 | 505 |
 | 144 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 0 | 505 |
@@ -372,7 +372,7 @@
 | 362 | [DOOM 3](games/d/doom_3.md) | 4.61 | 67 | 375 |
 | 362 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 40,760 | 12 |
 | 362 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 364 | 218 |
-| 362 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,137 | 136 |
+| 362 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,140 | 136 |
 | 362 | [MudRunner](games/m/mudrunner.md) | 4.61 | 244 | 248 |
 | 362 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 505 |
 | 362 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,529 | 96 |
@@ -525,7 +525,7 @@
 | 521 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 40 | 420 |
 | 521 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 29,927 | 15 |
 | 521 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 21 | 492 |
-| 521 | [Fall Guys](games/f/fall_guys.md) | 4.52 | 144,070 | 7 |
+| 521 | [Fall Guys](games/f/fall_guys.md) | 4.52 | 144,139 | 7 |
 | 521 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 516 | 191 |
 | 521 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 101 | 328 |
 | 521 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 148 | 293 |
@@ -633,7 +633,7 @@
 | 624 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 505 |
 | 624 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 863 | 150 |
 | 624 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 51 | 395 |
-| 624 | [SMITE](games/s/smite.md) | 4.45 | 4,013 | 78 |
+| 624 | [SMITE](games/s/smite.md) | 4.45 | 4,017 | 78 |
 | 624 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.45 | 0 | 505 |
 | 624 | [STG Football](games/s/stg_football.md) | 4.45 | 40 | 420 |
 | 624 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 114 | 316 |
@@ -806,7 +806,7 @@
 | 803 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.26 | 27 | 466 |
 | 803 | [The Fall](games/t/the_fall.md) | 4.26 | 0 | 505 |
 | 803 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 0 | 505 |
-| 807 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.25 | 15,081 | 22 |
+| 807 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.25 | 15,133 | 22 |
 | 807 | [EVE Online](games/e/eve_online.md) | 4.25 | 1,041 | 140 |
 | 807 | [Godlike Burger](games/g/godlike_burger.md) | 4.25 | 0 | 505 |
 | 807 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.25 | 0 | 505 |

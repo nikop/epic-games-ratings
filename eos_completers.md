@@ -25,8 +25,8 @@
 | 23 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.57% |
 | 24 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
 | 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.43% |
-| 26 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.16% |
-| 27 | [Smelter](games/s/smelter.md) | 8.11% |
+| 26 | [Smelter](games/s/smelter.md) | 8.11% |
+| 27 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.08% |
 | 28 | [Ravenlok](games/r/ravenlok.md) | 7.46% |
 | 29 | [Time Loader](games/t/time_loader.md) | 7.21% |
 | 30 | [Scorn](games/s/scorn.md) | 7.06% |
@@ -61,7 +61,7 @@
 | 58 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 60 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 2.92% |
 | 61 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.86% |
-| 62 | [Destiny 2](games/d/destiny_2.md) | 2.82% |
+| 62 | [Destiny 2](games/d/destiny_2.md) | 2.81% |
 | 63 | [The Bunker](games/t/the_bunker.md) | 2.75% |
 | 64 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 65 | [Lamentum](games/l/lamentum.md) | 2.67% |

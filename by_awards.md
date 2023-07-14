@@ -6,14 +6,14 @@
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 198,433 | 4.68 | 241 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 185,862 | 4.19 | 846 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 158,970 | 4.88 | 19 |
-| 7 | [Fall Guys](games/f/fall_guys.md) | 144,070 | 4.52 | 521 |
+| 7 | [Fall Guys](games/f/fall_guys.md) | 144,139 | 4.52 | 521 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 112,896 | 4.69 | 216 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 73,052 | 4.62 | 346 |
 | 10 | [VALORANT](games/v/valorant.md) | 60,576 | 4.53 | 509 |
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 58,942 | 4.58 | 422 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 40,760 | 4.61 | 362 |
 | 13 | [Destiny 2](games/d/destiny_2.md) | 35,673 | 4.50 | 552 |
-| 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 34,414 | 4.74 | 144 |
+| 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 34,453 | 4.74 | 144 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 29,927 | 4.52 | 521 |
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,674 | 4.65 | 300 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 20,943 | 4.77 | 108 |
@@ -21,7 +21,7 @@
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 18,928 | 4.57 | 439 |
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 16,920 | 4.89 | 12 |
 | 21 | [Warframe](games/w/warframe.md) | 15,950 | 4.61 | 362 |
-| 22 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 15,081 | 4.25 | 807 |
+| 22 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 15,133 | 4.25 | 807 |
 | 23 | [Borderlands 2](games/b/borderlands_2.md) | 14,766 | 4.76 | 118 |
 | 24 | [League of Legends](games/l/league_of_legends.md) | 14,673 | 4.21 | 835 |
 | 25 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,417 | 4.58 | 422 |
@@ -34,7 +34,7 @@
 | 32 | [NBA 2K21](games/n/nba_2k21.md) | 11,722 | 4.39 | 703 |
 | 33 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,305 | 4.69 | 216 |
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 10,818 | 4.45 | 624 |
-| 35 | [Satisfactory](games/s/satisfactory.md) | 10,600 | 4.88 | 19 |
+| 35 | [Satisfactory](games/s/satisfactory.md) | 10,616 | 4.88 | 19 |
 | 36 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,471 | 4.78 | 99 |
 | 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,449 | 4.61 | 362 |
 | 38 | [SnowRunner](games/s/snowrunner.md) | 9,154 | 4.76 | 118 |
@@ -75,9 +75,9 @@
 | 73 | [Chivalry 2](games/c/chivalry_2.md) | 4,353 | 4.61 | 362 |
 | 74 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4,282 | 4.76 | 118 |
 | 75 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,155 | 4.56 | 458 |
-| 76 | [God of War](games/g/god_of_war.md) | 4,145 | 4.88 | 19 |
+| 76 | [God of War](games/g/god_of_war.md) | 4,148 | 4.88 | 19 |
 | 77 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,102 | 4.51 | 540 |
-| 78 | [SMITE](games/s/smite.md) | 4,013 | 4.45 | 624 |
+| 78 | [SMITE](games/s/smite.md) | 4,017 | 4.45 | 624 |
 | 79 | [Days Gone](games/d/days_gone.md) | 3,872 | 4.68 | 241 |
 | 80 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,673 | 4.29 | 781 |
 | 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 3,630 | 4.77 | 108 |
@@ -135,7 +135,7 @@
 | 133 | [World of Warships](games/w/world_of_warships.md) | 1,192 | 4.42 | 662 |
 | 134 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,179 | 4.69 | 216 |
 | 135 | [OUTRIDERS](games/o/outriders.md) | 1,165 | 4.42 | 662 |
-| 136 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,137 | 4.61 | 362 |
+| 136 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,140 | 4.61 | 362 |
 | 137 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,069 | 4.61 | 362 |
 | 138 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,052 | 4.66 | 273 |
 | 139 | [Saints Row](games/s/saints_row.md) | 1,049 | 3.78 | 942 |
