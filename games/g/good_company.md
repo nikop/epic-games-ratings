@@ -6,8 +6,8 @@ Number of Ratings: 75  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level: Returning Home | 50.00% | ~2,562 |
-| Returning Home: Quick Learner | 26.00% | ~1,332 |
+| Level: Returning Home | 50.00% | ~2,563 |
+| Returning Home: Quick Learner | 26.00% | ~1,333 |
 | Level: Charlie's Circuits | 22.00% | ~1,128 |
 | Level: Rising Markets | 9.00% | ~461 |
 | Peddler | 8.00% | ~410 |
@@ -24,17 +24,17 @@ Number of Ratings: 75  (23.09.2022)
 | Level: Bet On Bots | 3.00% | ~154 |
 | Modular Performance | 3.00% | ~154 |
 | Salesperson | 3.00% | ~154 |
-| Level: Merry-Go-Around | 2.00% | ~102 |
-| Charlies's Circuits: Artist | 2.00% | ~102 |
-| Modular Peak | 2.00% | ~102 |
-| Accountant | 2.00% | ~102 |
-| Data Churn Type III | 2.00% | ~102 |
-| Multi-Millionaire | 2.00% | ~102 |
-| Contender | 2.00% | ~102 |
-| Trophy Collector | 2.00% | ~102 |
-| Module Maniac | 2.00% | ~102 |
-| Overproducer | 2.00% | ~102 |
-| Natural Talent | 2.00% | ~102 |
+| Level: Merry-Go-Around | 2.00% | ~103 |
+| Charlies's Circuits: Artist | 2.00% | ~103 |
+| Modular Peak | 2.00% | ~103 |
+| Accountant | 2.00% | ~103 |
+| Data Churn Type III | 2.00% | ~103 |
+| Multi-Millionaire | 2.00% | ~103 |
+| Contender | 2.00% | ~103 |
+| Trophy Collector | 2.00% | ~103 |
+| Module Maniac | 2.00% | ~103 |
+| Overproducer | 2.00% | ~103 |
+| Natural Talent | 2.00% | ~103 |
 | Level: A Happy Taskforce | 1.00% | ~51 |
 | Level: The Machinery | 1.00% | ~51 |
 | Extra Life: Knowledge Cap | 1.00% | ~51 |
@@ -51,9 +51,9 @@ Number of Ratings: 75  (23.09.2022)
 | Level: Heating-Up | 0.50% | ~26 |
 | Level: Eye In The Sky | 0.50% | ~26 |
 | CEO | 0.50% | ~26 |
-| Campaign: Man vs. Machine | 0.40% | ~20 |
-| A Happy Taskforce: Interior Designer | 0.40% | ~20 |
-| Rockstar | 0.40% | ~20 |
+| Campaign: Man vs. Machine | 0.40% | ~21 |
+| A Happy Taskforce: Interior Designer | 0.40% | ~21 |
+| Rockstar | 0.40% | ~21 |
 | The Machinery: Goal Orientated | 0.30% | ~15 |
 | The Machinery: Energy Saver | 0.30% | ~15 |
 | Super Rich | 0.30% | ~15 |
@@ -83,8 +83,8 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~5 |
 | Prestigious | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,125 (Ranked 135)  
-Completed: 1 (0.02%) (Ranked 213)  
+Progressed: 5,126 (Ranked 135)  
+Completed: 1 (0.02%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -167,6 +167,7 @@ Completed: 1 (0.02%) (Ranked 213)
 | 2023-07-11 | 5,113 | 1 |
 | 2023-07-12 | 5,118 | 1 |
 | 2023-07-13 | 5,125 | 1 |
+| 2023-07-14 | 5,126 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

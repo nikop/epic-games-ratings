@@ -910,9 +910,9 @@
       "ID": "ach_first_first_blood",
       "SetID": "cmg602e",
       "Name": "First Blood",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 104
     },
     {
       "ID": "ach_first_harvest",
@@ -1150,9 +1150,9 @@
       "ID": "ach_sniperKillNoScope",
       "SetID": "cmg602e",
       "Name": "No Asperascope",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 90
+      "UsersEstimate": 92
     },
     {
       "ID": "ach_steal_x_gnomes",
@@ -1366,9 +1366,9 @@
       "ID": "ach_x_farmers_same_sniper",
       "SetID": "bf10c8p",
       "Name": "Aspairagus",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 82
     },
     {
       "ID": "ach_x_peastol_healing_done",
@@ -1469,8 +1469,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-07-14T12:04:41.2553946+00:00",
+  "LastChanged_Achievements": "2023-07-14T13:19:58.1390967+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:01.6150749+00:00",
-  "LastUpdate_Ratings": "2023-07-14T11:58:39.0452565+00:00",
-  "LastUpdate_Achievements": "2023-07-14T12:04:41.2555439+00:00"
+  "LastUpdate_Ratings": "2023-07-14T13:13:53.0077835+00:00",
+  "LastUpdate_Achievements": "2023-07-14T13:19:58.1391813+00:00"
 }

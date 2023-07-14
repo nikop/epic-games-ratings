@@ -14,6 +14,7 @@
 | Trinity | 0.00% | ~0 |
 | Forgemaster | 0.00% | ~0 |
 | Shardbearer | 0.00% | ~0 |
+| Adventurer | 0.00% | ~0 |
 | Tributes of Caladrias | 0.00% | ~0 |
 | Essence Blow | 0.00% | ~0 |
 | Shatterer | 0.00% | ~0 |
@@ -33,7 +34,6 @@
 | Summiter | 0.00% | ~0 |
 | Powerful Allies | -5.60% | ~-1 |
 | The Mentor | -5.60% | ~-1 |
-| Adventurer | -5.60% | ~-1 |
 | Airborne | -5.60% | ~-1 |
 | Big Bazar | -5.60% | ~-1 |
 | Alchemist | -5.60% | ~-1 |

@@ -700,7 +700,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6363,
+  "EOS_Progressed": 6364,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
@@ -3315,6 +3315,11 @@
       "Time": "2023-07-13T02:31:04.3359961+00:00",
       "NumProgressed": 6363,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-14T13:19:49.6276875+00:00",
+      "NumProgressed": 6364,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -3334,7 +3339,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 1463
+      "UsersEstimate": 1464
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -3494,7 +3499,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 2354
+      "UsersEstimate": 2355
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -3574,7 +3579,7 @@
       "Name": "Silver Lining",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 1845
+      "UsersEstimate": 1846
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -3622,7 +3627,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1145
+      "UsersEstimate": 1146
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -3654,7 +3659,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3436
+      "UsersEstimate": 3437
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -3678,14 +3683,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3372
+      "UsersEstimate": 3373
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6363,
+      "Progressed": 6364,
       "Completed": 8
     }
   ],
@@ -3693,8 +3698,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-07-04T13:15:35.7816607+00:00",
-  "LastChanged_Achievements": "2023-07-14T12:04:32.7544093+00:00",
+  "LastChanged_Achievements": "2023-07-14T13:19:49.6276863+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:47.5967083+00:00",
-  "LastUpdate_Ratings": "2023-07-14T11:57:51.5508477+00:00",
-  "LastUpdate_Achievements": "2023-07-14T12:04:32.7545016+00:00"
+  "LastUpdate_Ratings": "2023-07-14T13:13:06.5906865+00:00",
+  "LastUpdate_Achievements": "2023-07-14T13:19:49.6278145+00:00"
 }

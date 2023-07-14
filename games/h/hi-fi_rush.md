@@ -32,9 +32,9 @@ Rating: 4.87 (Ranked 24)
 | I look cool. But I can look COOLER. | 0.70% | ~24 |
 | Well that was a rush! | 0.60% | ~21 |
 | That's a lot of junk metal… | 0.60% | ~21 |
+| There's such a thing as TOO helpful | 0.60% | ~21 |
 | Does that say weakpoint? | 0.60% | ~21 |
 | Beat-hit mania | 0.50% | ~17 |
-| There's such a thing as TOO helpful | 0.50% | ~17 |
 | Call me Turbo Chai | 0.50% | ~10 |
 | New bad guys? No problem! | 0.40% | ~8 |
 | I think I deserve some praise, here! | 0.30% | ~10 |

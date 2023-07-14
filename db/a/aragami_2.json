@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37528,
+  "EOS_Progressed": 37529,
   "EOS_Completed": 188,
-  "EOS_NewPlayers": 685,
+  "EOS_NewPlayers": 681,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -8454,6 +8454,11 @@
       "Time": "2023-07-14T12:03:15.1703722+00:00",
       "NumProgressed": 37528,
       "NumCompleted": 188
+    },
+    {
+      "Time": "2023-07-14T13:18:30.2916777+00:00",
+      "NumProgressed": 37529,
+      "NumCompleted": 188
     }
   ],
   "TotalAchievements": 44,
@@ -8465,7 +8470,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 21391
+      "UsersEstimate": 21392
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -8625,7 +8630,7 @@
       "Name": "Look Behind You",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 6004
+      "UsersEstimate": 6005
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -8649,7 +8654,7 @@
       "Name": "Sleeping on the Job",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 6004
+      "UsersEstimate": 6005
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -8657,7 +8662,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 13885
+      "UsersEstimate": 13886
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -8689,7 +8694,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 20640
+      "UsersEstimate": 20641
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -8801,7 +8806,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 34901
+      "UsersEstimate": 34902
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -8816,7 +8821,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 37528,
+      "Progressed": 37529,
       "Completed": 188
     }
   ],
@@ -8824,8 +8829,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-06-11T14:58:10.4478603+00:00",
-  "LastChanged_Achievements": "2023-07-14T12:03:15.1703715+00:00",
+  "LastChanged_Achievements": "2023-07-14T13:18:30.2916773+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:06.1137886+00:00",
-  "LastUpdate_Ratings": "2023-07-14T11:58:42.7284415+00:00",
-  "LastUpdate_Achievements": "2023-07-14T12:03:15.1705316+00:00"
+  "LastUpdate_Ratings": "2023-07-14T13:13:57.6171725+00:00",
+  "LastUpdate_Achievements": "2023-07-14T13:18:30.2917655+00:00"
 }

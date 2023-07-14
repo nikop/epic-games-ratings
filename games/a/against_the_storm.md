@@ -6,8 +6,8 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Marshlands | 4.00% | ~632 |
-| No Deaths | 4.00% | ~632 |
+| The Marshlands | 4.00% | ~633 |
+| No Deaths | 4.00% | ~633 |
 | First Real Expedition | 3.00% | ~474 |
 | Overcoming Difficulty | 3.00% | ~474 |
 | Fertile Meadows | 3.00% | ~474 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Forsaken Gods Temple | 1.00% | ~158 |
 | Defying the Crown | 1.00% | ~158 |
 | Into the Forest | 1.00% | ~158 |
-| Efficient Explorer | 0.80% | ~126 |
+| Efficient Explorer | 0.80% | ~127 |
 | Prestigious Expedition | 0.70% | ~111 |
 | Blood Flower Farmer | 0.70% | ~111 |
 | Victory through Prosperity | 0.70% | ~111 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~16 |
 | Higher Needs | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,812 (Ranked 108)  
+Progressed: 15,813 (Ranked 108)  
 Completed: 40 (0.25%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 40 (0.25%) (Ranked 155)
 | 2023-07-11 | 15,780 | 40 |
 | 2023-07-12 | 15,788 | 40 |
 | 2023-07-13 | 15,801 | 40 |
-| 2023-07-14 | 15,812 | 40 |
+| 2023-07-14 | 15,813 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 418  (Ranked 203)  
 Sum: 3,067 (Ranked 157)  

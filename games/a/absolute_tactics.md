@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Adventure | 60.00% | ~3 |
+| A New Adventure | 80.00% | ~4 |
 | Big Money | 40.00% | ~2 |
 | The Blood of Mercy | 40.00% | ~2 |
 | The Killing Moon | 20.00% | ~1 |

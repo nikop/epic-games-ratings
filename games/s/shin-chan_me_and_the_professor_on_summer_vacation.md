@@ -17,6 +17,7 @@
 | That Was a Snap! | 11.00% | ~3 |
 | It's Alive! | 11.00% | ~3 |
 | Farm Life! | 11.00% | ~3 |
+| Ptera Pal | 11.00% | ~3 |
 | A New Time | 7.00% | ~2 |
 | Beetle Savant | 7.00% | ~2 |
 | Cicada Connoisseur | 7.00% | ~2 |
@@ -26,7 +27,6 @@
 | Ice Fishing | 7.00% | ~2 |
 | Did Someone Order Ramen? | 7.00% | ~2 |
 | Top-Notch Journalist | 7.00% | ~2 |
-| Ptera Pal | 7.00% | ~2 |
 | DJ Superstar | 7.00% | ~2 |
 | Asso Bridge Enthusiast | 7.00% | ~2 |
 | Bee Professor | 4.00% | ~1 |
@@ -41,6 +41,7 @@
 | Brachio Battler | 4.00% | ~1 |
 | Stego Stooge | 4.00% | ~1 |
 | T-Rex Wrangler | 4.00% | ~1 |
+| Gumdum Robot, I Choose You! | 4.00% | ~1 |
 | Asso Billboard Inspector | 4.00% | ~1 |
 | Asso Stair Climber | 4.00% | ~1 |
 | My Summer Vacation with the Professor | 0.00% | ~0 |
@@ -48,7 +49,6 @@
 | Winner Winner, Minnow Dinner | 0.00% | ~0 |
 | Rosy Cheeks | 0.00% | ~0 |
 | Did Someone Order Katsu Curry? | 0.00% | ~0 |
-| Gumdum Robot, I Choose You! | 0.00% | ~0 |
 | Dinosaur Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 27 (Ranked 366)  

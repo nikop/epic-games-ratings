@@ -5,11 +5,11 @@ Rating: 4.77 (Ranked 108)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 12.00% | ~34,490 |
-| First Class Student | 10.00% | ~28,742 |
-| Troll with the Punches | 10.00% | ~28,742 |
-| A Keen Sense of Spell | 9.00% | ~25,868 |
-| That's a Keeper | 9.00% | ~25,868 |
+| The Sort Who Makes an Entrance | 12.00% | ~34,492 |
+| First Class Student | 10.00% | ~28,743 |
+| Troll with the Punches | 10.00% | ~28,743 |
+| A Keen Sense of Spell | 9.00% | ~25,869 |
+| That's a Keeper | 9.00% | ~25,869 |
 | Grappling with a Graphorn | 8.00% | ~22,994 |
 | The One Who Mastered Memories | 8.00% | ~22,994 |
 | The Hallowed Hero | 8.00% | ~22,994 |
@@ -19,15 +19,15 @@ Rating: 4.77 (Ranked 108)
 | Loom for Improvement | 8.00% | ~22,994 |
 | A Talent for Spending | 8.00% | ~22,994 |
 | Coasting Along | 8.00% | ~22,994 |
-| Followed the Butterflies | 7.00% | ~20,119 |
-| The Spell Master | 7.00% | ~20,119 |
-| Rising From the Ashes | 7.00% | ~20,119 |
-| The Avenging Gazelle | 6.00% | ~17,245 |
-| Beast Friends | 6.00% | ~17,245 |
-| A Sallow Grave | 6.00% | ~17,245 |
-| Flight the Good Flight | 6.00% | ~17,245 |
-| The Seeker of Knowledge | 5.00% | ~14,371 |
-| Raising Expectations | 5.00% | ~14,371 |
+| Followed the Butterflies | 7.00% | ~20,120 |
+| The Spell Master | 7.00% | ~20,120 |
+| Rising From the Ashes | 7.00% | ~20,120 |
+| The Avenging Gazelle | 6.00% | ~17,246 |
+| Beast Friends | 6.00% | ~17,246 |
+| A Sallow Grave | 6.00% | ~17,246 |
+| Flight the Good Flight | 6.00% | ~17,246 |
+| The Seeker of Knowledge | 5.00% | ~14,372 |
+| Raising Expectations | 5.00% | ~14,372 |
 | The Root of the Problem | 4.00% | ~11,497 |
 | Third Time's a Charm | 4.00% | ~11,497 |
 | The Ends Petrify the Means | 4.00% | ~11,497 |
@@ -37,11 +37,11 @@ Rating: 4.77 (Ranked 108)
 | The Intrepid Explorer | 3.00% | ~8,623 |
 | The Gryffindor in the Graveyard | 3.00% | ~8,623 |
 | The Wise Owl | 3.00% | ~8,623 |
-| The Good Samaritan | 2.00% | ~5,748 |
-| Put Down Roots | 2.00% | ~5,748 |
-| The Auror's Apprentice | 2.00% | ~5,748 |
-| Floo Around the World | 2.00% | ~5,748 |
-| Rise to the Challenges | 2.00% | ~5,748 |
+| The Good Samaritan | 2.00% | ~5,749 |
+| Put Down Roots | 2.00% | ~5,749 |
+| The Auror's Apprentice | 2.00% | ~5,749 |
+| Floo Around the World | 2.00% | ~5,749 |
+| Rise to the Challenges | 2.00% | ~5,749 |
 | Savvy Spender | 1.00% | ~2,874 |
 | Demiguise Dread | 1.00% | ~2,874 |
 | Finishing Touches | 1.00% | ~2,874 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.50% | ~1,437 |
 | Collector's Edition | 0.20% | ~575 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 287,420 (Ranked 41)  
+Progressed: 287,431 (Ranked 41)  
 Completed: 425 (0.15%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,10 +136,10 @@ Completed: 425 (0.15%) (Ranked 172)
 | 2023-07-11 | 286,851 | 423 |
 | 2023-07-12 | 287,108 | 423 |
 | 2023-07-13 | 287,362 | 425 |
-| 2023-07-14 | 287,420 | 425 |
+| 2023-07-14 | 287,431 | 425 |
 ## Awards
 Max (Character Customization): 20,943  (Ranked 17)  
-Sum: 39,118 (Ranked 30)  
+Sum: 39,130 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -147,11 +147,11 @@ Diff (max vs sum): -13
 | This game has Great Boss Battles | 10,010 |
 | This game is Great for Beginners | 907 |
 | This game is Extremely Fun | 887 |
-| This game is Relaxing | 880 |
+| This game is Relaxing | 883 |
 | This game has Diverse Characters | 874 |
 | This game has Amazing Storytelling | 871 |
-| This game has Amazing Characters | 850 |
-| This game is Highly Recommended | 825 |
+| This game has Amazing Characters | 855 |
+| This game is Highly Recommended | 829 |
 | This game has Quickly Understood Controls | 788 |
 | This game has Beautiful Visuals | 732 |
 | This game has a Creative Community | 551 |
@@ -270,4 +270,4 @@ Diff (max vs sum): -13
 | 2023-07-11 | 4.77 | 20,887 | 38,978 |
 | 2023-07-12 | 4.77 | 20,913 | 39,043 |
 | 2023-07-13 | 4.77 | 20,943 | 39,111 |
-| 2023-07-14 | 4.77 | 20,943 | 39,118 |
+| 2023-07-14 | 4.77 | 20,943 | 39,130 |

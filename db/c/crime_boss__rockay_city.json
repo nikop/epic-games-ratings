@@ -2,7 +2,7 @@
   "ID": "af0ea01162704696bebf8633a52a7a6d",
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
-  "Ranking_Rating": 925,
+  "Ranking_Rating": 926,
   "Ranking_Popularity": 219,
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 75,
@@ -2514,7 +2514,7 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 68867,
+  "EOS_Progressed": 68868,
   "EOS_Completed": 36,
   "EOS_NewPlayers": 402,
   "EOS_NewCompleters": 0,
@@ -11374,6 +11374,11 @@
       "Time": "2023-07-14T12:04:39.9323446+00:00",
       "NumProgressed": 68867,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-07-14T13:19:56.727788+00:00",
+      "NumProgressed": 68868,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 37,
@@ -11393,7 +11398,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 19971
+      "UsersEstimate": 19972
     },
     {
       "ID": "ACH_0012",
@@ -11553,7 +11558,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 32367
+      "UsersEstimate": 32368
     },
     {
       "ID": "ACH_0300",
@@ -11617,7 +11622,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 24103
+      "UsersEstimate": 24104
     },
     {
       "ID": "ACH_0431",
@@ -11657,7 +11662,7 @@
       "Name": "Dragonslayer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11707
+      "UsersEstimate": 11708
     },
     {
       "ID": "ACH_0460",
@@ -11680,7 +11685,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 68867,
+      "Progressed": 68868,
       "Completed": 36
     }
   ],
@@ -11688,8 +11693,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-07-14T03:22:50.1159274+00:00",
-  "LastChanged_Achievements": "2023-07-14T12:04:39.932344+00:00",
+  "LastChanged_Achievements": "2023-07-14T13:19:56.7277871+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:23.2557502+00:00",
-  "LastUpdate_Ratings": "2023-07-14T12:00:19.6172951+00:00",
-  "LastUpdate_Achievements": "2023-07-14T12:04:39.9324959+00:00"
+  "LastUpdate_Ratings": "2023-07-14T13:15:28.9951573+00:00",
+  "LastUpdate_Achievements": "2023-07-14T13:19:56.7278746+00:00"
 }

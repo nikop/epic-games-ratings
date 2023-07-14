@@ -37,7 +37,7 @@ Rating: 4.39 (Ranked 703)
 | Commando | 16.00% | ~195 |
 | Newtonian Knockout | 16.00% | ~195 |
 | Chaos Theory | 15.00% | ~183 |
-| Dr Jones | 14.00% | ~171 |
+| Dr Jones | 15.00% | ~183 |
 | Ruthless | 14.00% | ~171 |
 | Silent but Violent | 12.00% | ~147 |
 | Side Order | 10.00% | ~122 |

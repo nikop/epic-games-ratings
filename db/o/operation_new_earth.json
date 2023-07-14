@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 430,
+  "EOS_Progressed": 431,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
@@ -1501,6 +1501,11 @@
       "Time": "2023-07-14T09:04:40.122516+00:00",
       "NumProgressed": 430,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-14T13:20:20.0231168+00:00",
+      "NumProgressed": 431,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1616,7 +1621,7 @@
       "Name": "Facility Online",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -1686,9 +1691,9 @@
       "ID": "objective_key_alliance_join_1",
       "SetID": "bm61c2p",
       "Name": "It\u0027s Good to have Allies",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 185
+      "UsersEstimate": 181
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -1696,7 +1701,7 @@
       "Name": "Covert Operative",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -1720,7 +1725,7 @@
       "Name": "Stocking Up",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -1815,14 +1820,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 430,
+      "Progressed": 431,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-14T12:05:02.6659506+00:00",
+  "LastChanged_Achievements": "2023-07-14T13:20:20.023116+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:58.5226048+00:00",
-  "LastUpdate_Ratings": "2023-07-14T12:00:42.9118037+00:00",
-  "LastUpdate_Achievements": "2023-07-14T12:05:02.66604+00:00"
+  "LastUpdate_Ratings": "2023-07-14T13:15:54.3308418+00:00",
+  "LastUpdate_Achievements": "2023-07-14T13:20:20.0231564+00:00"
 }

@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57314,
+  "EOS_Progressed": 57316,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 359,
+  "EOS_NewPlayers": 360,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7912,6 +7912,11 @@
       "Time": "2023-07-14T11:04:45.4757787+00:00",
       "NumProgressed": 57314,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-14T13:19:27.8303651+00:00",
+      "NumProgressed": 57316,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -8011,7 +8016,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5731
+      "UsersEstimate": 5732
     },
     {
       "ID": "13",
@@ -8107,7 +8112,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5731
+      "UsersEstimate": 5732
     },
     {
       "ID": "25",
@@ -8123,7 +8128,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5731
+      "UsersEstimate": 5732
     },
     {
       "ID": "27",
@@ -8395,7 +8400,7 @@
       "Name": "Kill Your Darlings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "61",
@@ -8451,28 +8456,28 @@
       "Name": "Heartbreaker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     }
   ],
   "AchievementSets": [
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57314,
+      "Progressed": 57316,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20782,
+      "Progressed": 20784,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-14T12:04:10.7237161+00:00",
+  "LastChanged_Achievements": "2023-07-14T13:19:27.8303646+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:08.3646753+00:00",
-  "LastUpdate_Ratings": "2023-07-14T11:58:00.7168649+00:00",
-  "LastUpdate_Achievements": "2023-07-14T12:04:10.7239421+00:00"
+  "LastUpdate_Ratings": "2023-07-14T13:13:17.7029273+00:00",
+  "LastUpdate_Achievements": "2023-07-14T13:19:27.8304836+00:00"
 }

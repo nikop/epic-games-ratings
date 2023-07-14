@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 144,
   "Ranking_EOS_Progress": 492,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-12-09T02:00:00+00:00",
@@ -3286,10 +3286,16 @@
       "Rating": 4.24,
       "NumberOfAwards": 3758,
       "NumberOfAwardsMax": 502
+    },
+    {
+      "Time": "2023-07-14T13:14:41.8694871+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 3766,
+      "NumberOfAwardsMax": 502
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3758,
+  "NumberOfAwards": 3766,
   "NumberOfAwardsMax": 502,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3303,7 +3309,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 433
+      "Count": 436
     },
     {
       "Text": "This game has Competitive Players",
@@ -3345,7 +3351,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 327
+      "Count": 328
     },
     {
       "Text": "This game has a Competitive Community",
@@ -3363,7 +3369,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 384
+      "Count": 388
     },
     {
       "Text": "This game has Unique Visuals",
@@ -3384,8 +3390,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-07T03:53:37.8993563+00:00",
   "FirstSeenRating": "2022-11-10T14:19:52.8915141+00:00",
-  "LastChanged": "2023-07-14T03:21:35.0722719+00:00",
+  "LastChanged": "2023-07-14T13:14:41.8694869+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:07.7489554+00:00",
-  "LastUpdate_Ratings": "2023-07-14T11:59:24.3424238+00:00",
-  "LastUpdate_Achievements": "2023-07-14T12:04:36.067811+00:00"
+  "LastUpdate_Ratings": "2023-07-14T13:14:41.8694883+00:00",
+  "LastUpdate_Achievements": "2023-07-14T13:19:52.8651991+00:00"
 }

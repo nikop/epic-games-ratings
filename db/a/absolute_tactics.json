@@ -67,9 +67,9 @@
       "ID": "AT_ACHIEVEMENT_NAME_0001",
       "SetID": "9jb1eoe",
       "Name": "A New Adventure",
-      "Percentage": 60,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "AT_ACHIEVEMENT_NAME_0002",
@@ -244,8 +244,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.3491897+00:00",
   "FirstSeenAchievements": "2023-06-19T22:05:39.5621964+00:00",
   "LastChanged": "2023-03-31T05:57:50.3491898+00:00",
-  "LastChanged_Achievements": "2023-07-14T12:06:15.8579504+00:00",
+  "LastChanged_Achievements": "2023-07-14T13:21:32.9146927+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:31.0565099+00:00",
-  "LastUpdate_Ratings": "2023-07-14T12:00:25.540035+00:00",
-  "LastUpdate_Achievements": "2023-07-14T12:06:15.8579713+00:00"
+  "LastUpdate_Ratings": "2023-07-14T13:15:37.0910154+00:00",
+  "LastUpdate_Achievements": "2023-07-14T13:21:32.9147095+00:00"
 }

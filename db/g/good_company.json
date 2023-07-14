@@ -6,8 +6,8 @@
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 135,
-  "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_Completed": 214,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5125,
+  "EOS_Progressed": 5126,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2229,6 +2229,11 @@
       "Time": "2023-07-13T20:04:47.6815904+00:00",
       "NumProgressed": 5125,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-14T13:19:35.2530768+00:00",
+      "NumProgressed": 5126,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -2280,7 +2285,7 @@
       "Name": "Campaign: Man vs. Machine",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ach_campaign_chapter3",
@@ -2352,7 +2357,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2562
+      "UsersEstimate": 2563
     },
     {
       "ID": "ach_campaign_progress6",
@@ -2368,7 +2373,7 @@
       "Name": "Level: Merry-Go-Around",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ach_campaign_progress8",
@@ -2392,7 +2397,7 @@
       "Name": "Returning Home: Quick Learner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1332
+      "UsersEstimate": 1333
     },
     {
       "ID": "ach_campaign_special10",
@@ -2408,7 +2413,7 @@
       "Name": "A Happy Taskforce: Interior Designer",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ach_campaign_special12",
@@ -2472,7 +2477,7 @@
       "Name": "Charlies\u0027s Circuits: Artist",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ach_campaign_special3",
@@ -2616,7 +2621,7 @@
       "Name": "Modular Peak",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ach_frp_many_products",
@@ -2640,7 +2645,7 @@
       "Name": "Accountant",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ach_frp_many_products4",
@@ -2680,7 +2685,7 @@
       "Name": "Data Churn Type III",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ach_frp_researchdata4",
@@ -2696,7 +2701,7 @@
       "Name": "Multi-Millionaire",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ach_frp_veryhigh_networth2",
@@ -2736,7 +2741,7 @@
       "Name": "Contender",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ach_many_trophies",
@@ -2744,7 +2749,7 @@
       "Name": "Trophy Collector",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ach_prof_assignments",
@@ -2792,7 +2797,7 @@
       "Name": "Module Maniac",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ach_prof_modules_sold",
@@ -2800,7 +2805,7 @@
       "Name": "Overproducer",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ach_prof_products_sold",
@@ -2824,7 +2829,7 @@
       "Name": "Rockstar",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ach_speedy",
@@ -2840,22 +2845,22 @@
       "Name": "Natural Talent",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     }
   ],
   "AchievementSets": [
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5125,
+      "Progressed": 5126,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-07-14T12:04:18.2122899+00:00",
+  "LastChanged_Achievements": "2023-07-14T13:19:35.2530763+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:01.0714136+00:00",
-  "LastUpdate_Ratings": "2023-07-14T11:59:19.2100205+00:00",
-  "LastUpdate_Achievements": "2023-07-14T12:04:18.2124623+00:00"
+  "LastUpdate_Ratings": "2023-07-14T13:14:33.457568+00:00",
+  "LastUpdate_Achievements": "2023-07-14T13:19:35.2531739+00:00"
 }
