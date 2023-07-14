@@ -5,14 +5,14 @@ Rating: 4.32 (Ranked 765)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Boarded! | 94.00% | ~184,467 |
-| Snooper. | 10.00% | ~19,624 |
-| You have to start somewhere, right? | 7.00% | ~13,737 |
-| So you're saying I don't touch these ones? | 6.00% | ~11,774 |
-| Corrupted. | 5.00% | ~9,812 |
-| Good things come in pairs... Coloured Pairs. | 5.00% | ~9,812 |
-| Answers can be found amongst the stars | 3.00% | ~5,887 |
-| Bend to the will of the arrows. | 3.00% | ~5,887 |
+| Boarded! | 94.00% | ~184,478 |
+| Snooper. | 10.00% | ~19,625 |
+| You have to start somewhere, right? | 7.00% | ~13,738 |
+| So you're saying I don't touch these ones? | 6.00% | ~11,775 |
+| Corrupted. | 5.00% | ~9,813 |
+| Good things come in pairs... Coloured Pairs. | 5.00% | ~9,813 |
+| Answers can be found amongst the stars | 3.00% | ~5,888 |
+| Bend to the will of the arrows. | 3.00% | ~5,888 |
 | You've been through a lot. | 2.00% | ~3,925 |
 | People's feelings on these ones are very... Binary... | 2.00% | ~3,925 |
 | I hope your remember your colour theory. | 2.00% | ~3,925 |
@@ -24,18 +24,18 @@ Rating: 4.32 (Ranked 765)
 | They're like really flat pillars. | 2.00% | ~3,925 |
 | That's a wrap. | 2.00% | ~3,925 |
 | In balance. | 2.00% | ~3,925 |
-| I hope you're ready. | 1.00% | ~1,962 |
+| I hope you're ready. | 1.00% | ~1,963 |
 | Bridge crossed. | 0.70% | ~1,374 |
 | Cockpit | 0.70% | ~1,374 |
 | Names to faces. | 0.70% | ~1,374 |
 | Witness it. | 0.70% | ~1,374 |
-| A full deck. | 0.60% | ~1,177 |
-| 14237b6509eafd8c | 0.60% | ~1,177 |
+| A full deck. | 0.60% | ~1,178 |
+| 14237b6509eafd8c | 0.60% | ~1,178 |
 | No Anchor too great. | 0.50% | ~981 |
 | Snooper + | 0.40% | ~785 |
 | Corrupted + | 0.30% | ~589 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 196,241 (Ranked 54)  
+Progressed: 196,253 (Ranked 54)  
 Completed: 464 (0.24%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 464 (0.24%) (Ranked 158)
 | 2023-07-11 | 196,044 | 462 |
 | 2023-07-12 | 196,118 | 462 |
 | 2023-07-13 | 196,216 | 464 |
-| 2023-07-14 | 196,241 | 464 |
+| 2023-07-14 | 196,253 | 464 |
 ## Awards
 Max (Challenging Puzzles): 558  (Ranked 181)  
 Sum: 672 (Ranked 274)  

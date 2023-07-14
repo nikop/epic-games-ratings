@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 274,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewPlayers": 65,
   "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -225,9 +225,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 196241,
+  "EOS_Progressed": 196253,
   "EOS_Completed": 464,
-  "EOS_NewPlayers": 636,
+  "EOS_NewPlayers": 643,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -9195,6 +9195,11 @@
       "Time": "2023-07-14T09:06:01.6910076+00:00",
       "NumProgressed": 196241,
       "NumCompleted": 464
+    },
+    {
+      "Time": "2023-07-14T11:01:53.1254979+00:00",
+      "NumProgressed": 196253,
+      "NumCompleted": 464
     }
   ],
   "TotalAchievements": 29,
@@ -9230,7 +9235,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 184467
+      "UsersEstimate": 184478
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -9246,7 +9251,7 @@
       "Name": "I hope you\u0027re ready.",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1962
+      "UsersEstimate": 1963
     },
     {
       "ID": "ACHIEVEMENT_CARDS",
@@ -9254,7 +9259,7 @@
       "Name": "A full deck.",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 1177
+      "UsersEstimate": 1178
     },
     {
       "ID": "ACHIEVEMENT_COCKPIT",
@@ -9278,7 +9283,7 @@
       "Name": "Answers can be found amongst the stars",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5887
+      "UsersEstimate": 5888
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTED",
@@ -9286,7 +9291,7 @@
       "Name": "Corrupted.",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 9812
+      "UsersEstimate": 9813
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTEDCOMPLETE",
@@ -9342,7 +9347,7 @@
       "Name": "So you\u0027re saying I don\u0027t touch these ones?",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 11774
+      "UsersEstimate": 11775
     },
     {
       "ID": "ACHIEVEMENT_OPUS",
@@ -9366,7 +9371,7 @@
       "Name": "Good things come in pairs... Coloured Pairs.",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 9812
+      "UsersEstimate": 9813
     },
     {
       "ID": "ACHIEVEMENT_REQUISITE",
@@ -9374,7 +9379,7 @@
       "Name": "Bend to the will of the arrows.",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5887
+      "UsersEstimate": 5888
     },
     {
       "ID": "ACHIEVEMENT_SECRET",
@@ -9382,7 +9387,7 @@
       "Name": "14237b6509eafd8c",
       "Percentage": 0.6,
       "XP": 80,
-      "UsersEstimate": 1177
+      "UsersEstimate": 1178
     },
     {
       "ID": "ACHIEVEMENT_SNOOPER",
@@ -9390,7 +9395,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 19624
+      "UsersEstimate": 19625
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -9406,7 +9411,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 13737
+      "UsersEstimate": 13738
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -9437,7 +9442,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 196241,
+      "Progressed": 196253,
       "Completed": 464
     }
   ],
@@ -9445,8 +9450,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-06-26T22:58:32.656469+00:00",
-  "LastChanged_Achievements": "2023-07-14T09:06:01.6910073+00:00",
+  "LastChanged_Achievements": "2023-07-14T11:01:53.1254975+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:47.2271443+00:00",
-  "LastUpdate_Ratings": "2023-07-14T09:59:42.9292481+00:00",
-  "LastUpdate_Achievements": "2023-07-14T09:06:01.6910661+00:00"
+  "LastUpdate_Ratings": "2023-07-14T10:59:52.3452327+00:00",
+  "LastUpdate_Achievements": "2023-07-14T11:01:53.1255786+00:00"
 }

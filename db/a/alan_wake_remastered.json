@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57313,
+  "EOS_Progressed": 57314,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 363,
+  "EOS_NewPlayers": 361,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7907,6 +7907,11 @@
       "Time": "2023-07-14T09:03:47.6633659+00:00",
       "NumProgressed": 57313,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-14T11:04:45.4757787+00:00",
+      "NumProgressed": 57314,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7918,7 +7923,7 @@
       "Name": "Follow the Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 19486
+      "UsersEstimate": 19487
     },
     {
       "ID": "02",
@@ -7950,7 +7955,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10316
+      "UsersEstimate": 10317
     },
     {
       "ID": "06",
@@ -7966,7 +7971,7 @@
       "Name": "Heavy Metal",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6304
+      "UsersEstimate": 6305
     },
     {
       "ID": "08",
@@ -7974,7 +7979,7 @@
       "Name": "Iron Horse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6304
+      "UsersEstimate": 6305
     },
     {
       "ID": "09",
@@ -8086,7 +8091,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6304
+      "UsersEstimate": 6305
     },
     {
       "ID": "23",
@@ -8126,7 +8131,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6304
+      "UsersEstimate": 6305
     },
     {
       "ID": "28",
@@ -8134,7 +8139,7 @@
       "Name": "Come One, Come All",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6304
+      "UsersEstimate": 6305
     },
     {
       "ID": "29",
@@ -8166,7 +8171,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14901
+      "UsersEstimate": 14902
     },
     {
       "ID": "33",
@@ -8318,7 +8323,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "52",
@@ -8453,21 +8458,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57313,
+      "Progressed": 57314,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20781,
+      "Progressed": 20782,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-14T10:04:16.8271475+00:00",
+  "LastChanged_Achievements": "2023-07-14T11:04:45.4757781+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:08.3646753+00:00",
-  "LastUpdate_Ratings": "2023-07-14T09:58:19.6279776+00:00",
-  "LastUpdate_Achievements": "2023-07-14T10:04:16.827229+00:00"
+  "LastUpdate_Ratings": "2023-07-14T10:58:24.4737948+00:00",
+  "LastUpdate_Achievements": "2023-07-14T11:04:45.4758738+00:00"
 }

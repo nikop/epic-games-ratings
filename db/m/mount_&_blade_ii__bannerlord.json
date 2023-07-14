@@ -5565,9 +5565,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 55684,
+  "EOS_Progressed": 55685,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 480,
+  "EOS_NewPlayers": 475,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14325,6 +14325,11 @@
       "Time": "2023-07-14T10:07:20.1268182+00:00",
       "NumProgressed": 55684,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-14T11:07:35.5940938+00:00",
+      "NumProgressed": 55685,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -14496,7 +14501,7 @@
       "Name": "Horde breaker",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 12250
+      "UsersEstimate": 12251
     },
     {
       "ID": "I can do it",
@@ -14528,7 +14533,7 @@
       "Name": "King Solomon",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 8909
+      "UsersEstimate": 8910
     },
     {
       "ID": "Kingslayer",
@@ -14576,7 +14581,7 @@
       "Name": "Lawmaker",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 12250
+      "UsersEstimate": 12251
     },
     {
       "ID": "Long live the Empire",
@@ -14743,15 +14748,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 55684,
+      "Progressed": 55685,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-07-13T23:00:26.6189277+00:00",
-  "LastChanged_Achievements": "2023-07-14T10:07:20.1268177+00:00",
+  "LastChanged_Achievements": "2023-07-14T11:07:35.5940934+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:03.335469+00:00",
-  "LastUpdate_Ratings": "2023-07-14T10:00:48.0303937+00:00",
-  "LastUpdate_Achievements": "2023-07-14T10:07:20.1268949+00:00"
+  "LastUpdate_Ratings": "2023-07-14T11:00:54.4656932+00:00",
+  "LastUpdate_Achievements": "2023-07-14T11:07:35.594185+00:00"
 }

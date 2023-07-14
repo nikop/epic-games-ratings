@@ -138,7 +138,7 @@
   "Tags": [],
   "EOS_Progressed": 2855,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 200,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2602,9 +2602,9 @@
       "ID": "ACH_KILL_UNDETECTED",
       "SetID": "816efe",
       "Name": "Call Me Snake",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1684
+      "UsersEstimate": 1713
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -2722,9 +2722,9 @@
       "ID": "ACH_MISSION_06",
       "SetID": "816efe",
       "Name": "Living Nightmare",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 685
+      "UsersEstimate": 714
     },
     {
       "ID": "ACH_MISSION_07",
@@ -2859,8 +2859,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-13T17:59:49.8527087+00:00",
-  "LastChanged_Achievements": "2023-07-14T10:07:13.8246473+00:00",
+  "LastChanged_Achievements": "2023-07-14T11:07:29.6686044+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:32.529009+00:00",
-  "LastUpdate_Ratings": "2023-07-14T10:00:17.5981935+00:00",
-  "LastUpdate_Achievements": "2023-07-14T10:07:13.8246931+00:00"
+  "LastUpdate_Ratings": "2023-07-14T11:00:26.5754362+00:00",
+  "LastUpdate_Achievements": "2023-07-14T11:07:29.6686549+00:00"
 }

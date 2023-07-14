@@ -4,7 +4,7 @@
   "ProductSlug": "the-entropy-centre-40bccd",
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 220,
+  "EOS_Progressed": 221,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -693,6 +693,11 @@
       "Time": "2023-07-12T05:07:32.2950855+00:00",
       "NumProgressed": 220,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-14T11:07:29.5824029+00:00",
+      "NumProgressed": 221,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -702,9 +707,9 @@
       "ID": "ACH_ACT1",
       "SetID": "2310cb1",
       "Name": "Wake Up",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 30,
-      "UsersEstimate": 176
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_ACT10",
@@ -712,7 +717,7 @@
       "Name": "So Close",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_ACT11",
@@ -736,7 +741,7 @@
       "Name": "All Alone",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_ACT14",
@@ -752,7 +757,7 @@
       "Name": "Cataclysm",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_ACT16",
@@ -774,9 +779,9 @@
       "ID": "ACH_ACT3",
       "SetID": "2310cb1",
       "Name": "Command Centre",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 108
+      "UsersEstimate": 106
     },
     {
       "ID": "ACH_ACT4",
@@ -800,7 +805,7 @@
       "Name": "48 Attempts",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_ACT7",
@@ -832,7 +837,7 @@
       "Name": "Archivist",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_BESTFRIEND",
@@ -864,23 +869,23 @@
       "Name": "Fashionista",
       "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_HANDYMAN",
       "SetID": "2310cb1",
       "Name": "Handyman",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 55
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_LOOPER",
       "SetID": "2310cb1",
       "Name": "Looper",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 33
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_REUINTED",
@@ -888,15 +893,15 @@
       "Name": "Reunited",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_REWINDTIME",
       "SetID": "2310cb1",
       "Name": "It\u0027s Rewind Time",
-      "Percentage": 90,
+      "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 197
     },
     {
       "ID": "ACH_SUMMERLOVE",
@@ -919,7 +924,7 @@
     {
       "ID": "2310cb1",
       "IsBase": true,
-      "Progressed": 220,
+      "Progressed": 221,
       "Completed": 0
     }
   ],
@@ -927,8 +932,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-07-14T10:07:13.641762+00:00",
+  "LastChanged_Achievements": "2023-07-14T11:07:29.5824024+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:46.4096499+00:00",
-  "LastUpdate_Ratings": "2023-07-14T09:58:06.588187+00:00",
-  "LastUpdate_Achievements": "2023-07-14T10:07:13.6417795+00:00"
+  "LastUpdate_Ratings": "2023-07-14T10:58:10.7663824+00:00",
+  "LastUpdate_Achievements": "2023-07-14T11:07:29.5824254+00:00"
 }

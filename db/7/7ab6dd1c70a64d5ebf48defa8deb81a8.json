@@ -3,7 +3,7 @@
   "Name": null,
   "Ranking_EOS_Progress": 377,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": null,
@@ -155,9 +155,9 @@
       "ID": "ACH_10",
       "SetID": "efe2lj",
       "Name": "Trinity",
-      "Percentage": -5.6,
+      "Percentage": 0,
       "XP": 20,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_11",
@@ -283,9 +283,9 @@
       "ID": "ACH_26",
       "SetID": "efe2lj",
       "Name": "Scholar",
-      "Percentage": -5.6,
+      "Percentage": 0,
       "XP": 20,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_27",
@@ -339,9 +339,9 @@
       "ID": "ACH_34",
       "SetID": "efe2lj",
       "Name": "The Collector",
-      "Percentage": -5.6,
+      "Percentage": 0,
       "XP": 20,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_35",
@@ -377,7 +377,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-07-14T10:01:58.0180651+00:00",
-  "LastUpdate_Ratings": "2023-07-14T09:57:26.1276794+00:00",
-  "LastUpdate_Achievements": "2023-07-14T10:01:58.0180873+00:00"
+  "LastChanged_Achievements": "2023-07-14T11:02:16.7133053+00:00",
+  "LastUpdate_Ratings": "2023-07-14T10:57:24.4432813+00:00",
+  "LastUpdate_Achievements": "2023-07-14T11:02:16.7133324+00:00"
 }

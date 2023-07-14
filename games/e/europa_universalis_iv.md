@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,248 |
-| That's a Grand Army | 8.00% | ~5,554 |
-| That is mine! | 8.00% | ~5,554 |
-| Victorious! | 8.00% | ~5,554 |
-| Brothers in Arms | 6.00% | ~4,166 |
-| That's a Grand Navy | 6.00% | ~4,166 |
-| Seriously?! | 6.00% | ~4,166 |
-| For the Glory | 5.00% | ~3,471 |
-| Cold War | 4.00% | ~2,777 |
-| True Catholic | 4.00% | ~2,777 |
+| Until death do us apart | 9.00% | ~6,250 |
+| That's a Grand Army | 8.00% | ~5,556 |
+| That is mine! | 8.00% | ~5,556 |
+| Victorious! | 8.00% | ~5,556 |
+| Brothers in Arms | 6.00% | ~4,167 |
+| That's a Grand Navy | 6.00% | ~4,167 |
+| Seriously?! | 6.00% | ~4,167 |
+| For the Glory | 5.00% | ~3,472 |
+| Cold War | 4.00% | ~2,778 |
+| True Catholic | 4.00% | ~2,778 |
 | Defender of the Faith | 3.00% | ~2,083 |
 | It's all about luck | 3.00% | ~2,083 |
 | It's all about the money | 3.00% | ~2,083 |
@@ -43,7 +43,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Isn't this the way to India? | 0.90% | ~625 |
 | Market Control | 0.90% | ~625 |
 | Trustworthy | 0.90% | ~625 |
-| Down Under | 0.80% | ~555 |
+| Down Under | 0.80% | ~556 |
 | Electable! | 0.70% | ~486 |
 | Populists in Government | 0.70% | ~486 |
 | All belongs to Mother Russia | 0.60% | ~417 |
@@ -70,7 +70,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | One Night in Paris | 0.40% | ~278 |
 | Tear Down This Wall | 0.40% | ~278 |
 | The Continuation of Diplomacy | 0.40% | ~278 |
-| Traditional Player | 0.40% | ~278 |
 | Wonderful | 0.40% | ~278 |
 | A Decent Reserve | 0.30% | ~208 |
 | A Pile of Gold | 0.30% | ~208 |
@@ -80,6 +79,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Not so sad a state... | 0.30% | ~208 |
 | The Chrysanthemum Throne | 0.30% | ~208 |
 | Three Trivial Tributary Tribes | 0.30% | ~208 |
+| Traditional Player | 0.30% | ~208 |
 | Vasa or Wettin? | 0.30% | ~208 |
 | World Discoverer | 0.30% | ~208 |
 | A Protected Market | 0.20% | ~139 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69,426 (Ranked 73)  
+Progressed: 69,444 (Ranked 73)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -446,7 +446,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-11 | 68,569 | 0 |
 | 2023-07-12 | 68,921 | 0 |
 | 2023-07-13 | 69,319 | 0 |
-| 2023-07-14 | 69,426 | 0 |
+| 2023-07-14 | 69,444 | 0 |
 ## Awards
 Max (Educational): 5,540  (Ranked 60)  
 Sum: 45,689 (Ranked 27)  

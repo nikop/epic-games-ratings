@@ -6,12 +6,12 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 34.00% | ~19,486 |
+| Follow the Light | 34.00% | ~19,487 |
 | Let There Be Light | 27.00% | ~15,475 |
-| Float Like a Butterfly | 26.00% | ~14,901 |
+| Float Like a Butterfly | 26.00% | ~14,902 |
 | Nordic Walking | 21.00% | ~12,036 |
 | Bright Falls' Finest | 21.00% | ~12,036 |
-| Under a Thin Layer of Skin | 18.00% | ~10,316 |
+| Under a Thin Layer of Skin | 18.00% | ~10,317 |
 | Park Ranger | 15.00% | ~8,597 |
 | Paging Mr. Wake | 15.00% | ~8,597 |
 | Back! Back, I Say! | 14.00% | ~8,024 |
@@ -21,11 +21,11 @@ Number of Ratings: 524  (23.09.2022)
 | Wheels Within Wheels | 12.00% | ~6,878 |
 | They're Heeeeeere! | 12.00% | ~6,878 |
 | Missed by a Mile | 12.00% | ~6,878 |
-| Heavy Metal | 11.00% | ~6,304 |
-| Iron Horse | 11.00% | ~6,304 |
-| The Six-Gun Scribe | 11.00% | ~6,304 |
-| Collateral Carnage | 11.00% | ~6,304 |
-| Come One, Come All | 11.00% | ~6,304 |
+| Heavy Metal | 11.00% | ~6,305 |
+| Iron Horse | 11.00% | ~6,305 |
+| The Six-Gun Scribe | 11.00% | ~6,305 |
+| Collateral Carnage | 11.00% | ~6,305 |
+| Come One, Come All | 11.00% | ~6,305 |
 | Perchance to Dream | 10.00% | ~5,731 |
 | It's Not Just a Typewriter Brand | 10.00% | ~5,731 |
 | Thunder and Lightning | 10.00% | ~5,731 |
@@ -34,7 +34,7 @@ Number of Ratings: 524  (23.09.2022)
 | Two For the Price of One | 9.00% | ~5,158 |
 | Energized! | 9.00% | ~5,158 |
 | Right of Way | 8.00% | ~4,585 |
-| A Friend in Need | 8.00% | ~1,662 |
+| A Friend in Need | 8.00% | ~1,663 |
 | Tornado Wrangler | 7.00% | ~4,012 |
 | What Light Through Yonder Window | 7.00% | ~4,012 |
 | Departure | 6.00% | ~3,439 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~57 |
 | No Punctuation | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,313 (Ranked 82)  
+Progressed: 57,314 (Ranked 82)  
 Completed: 57 (0.10%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 57 (0.10%) (Ranked 183)
 | 2023-07-11 | 57,220 | 57 |
 | 2023-07-12 | 57,261 | 57 |
 | 2023-07-13 | 57,298 | 57 |
-| 2023-07-14 | 57,313 | 57 |
+| 2023-07-14 | 57,314 | 57 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
