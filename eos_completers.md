@@ -26,7 +26,7 @@
 | 24 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
 | 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.42% |
 | 26 | [Smelter](games/s/smelter.md) | 8.11% |
-| 27 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.08% |
+| 27 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.00% |
 | 28 | [Ravenlok](games/r/ravenlok.md) | 7.45% |
 | 29 | [Time Loader](games/t/time_loader.md) | 7.21% |
 | 30 | [Scorn](games/s/scorn.md) | 7.06% |
@@ -67,7 +67,7 @@
 | 65 | [Lamentum](games/l/lamentum.md) | 2.67% |
 | 66 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
 | 67 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.58% |
-| 68 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.56% |
+| 68 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.55% |
 | 69 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 70 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
 | 71 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.37% |
@@ -162,9 +162,9 @@
 | 160 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
 | 160 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.22% |
 | 160 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.22% |
-| 163 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
 | 163 | [Going Medieval](games/g/going_medieval.md) | 0.20% |
-| 165 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
+| 164 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.19% |
+| 164 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
 | 166 | [BLACKTAIL](games/b/blacktail.md) | 0.18% |
 | 166 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.18% |
 | 168 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
