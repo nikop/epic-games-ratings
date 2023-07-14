@@ -26,7 +26,7 @@
 | 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.42% |
 | 25 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.11% |
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
-| 27 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.92% |
+| 27 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.77% |
 | 28 | [Ravenlok](games/r/ravenlok.md) | 7.45% |
 | 29 | [Time Loader](games/t/time_loader.md) | 7.21% |
 | 30 | [Scorn](games/s/scorn.md) | 7.06% |
@@ -47,7 +47,7 @@
 | 45 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.87% |
 | 46 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.77% |
 | 47 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
-| 48 | [ZZT!](games/z/zzt!.md) | 3.58% |
+| 48 | [ZZT!](games/z/zzt!.md) | 3.57% |
 | 49 | [Doodle God](games/d/doodle_god.md) | 3.56% |
 | 50 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.52% |
 | 51 | [Bunny Park](games/b/bunny_park.md) | 3.42% |
@@ -188,12 +188,12 @@
 | 183 | [Outward Definitive Edition](games/o/outward.md) | 0.10% |
 | 183 | [Supraland](games/s/supraland.md) | 0.10% |
 | 188 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
+| 188 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.09% |
 | 188 | [Partisans 1941](games/p/partisans_1941.md) | 0.09% |
 | 188 | [Shop Titans](games/s/shop_titans.md) | 0.09% |
 | 188 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
-| 192 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.08% |
-| 192 | [Riverbond](games/r/riverbond.md) | 0.08% |
-| 192 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
+| 193 | [Riverbond](games/r/riverbond.md) | 0.08% |
+| 193 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
 | 195 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
 | 195 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
 | 197 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.06% |
