@@ -4,8 +4,8 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 751,
+  "EOS_Progressed": 752,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -1594,6 +1594,11 @@
       "Time": "2023-07-11T10:06:02.8260863+00:00",
       "NumProgressed": 751,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-14T05:08:12.2633491+00:00",
+      "NumProgressed": 752,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -2028,14 +2033,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 751,
+      "Progressed": 752,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-14T04:06:30.9550544+00:00",
+  "LastChanged_Achievements": "2023-07-14T05:08:12.2633485+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:34.816735+00:00",
-  "LastUpdate_Ratings": "2023-07-14T03:59:46.3926352+00:00",
-  "LastUpdate_Achievements": "2023-07-14T04:06:30.9551149+00:00"
+  "LastUpdate_Ratings": "2023-07-14T05:00:41.9854127+00:00",
+  "LastUpdate_Achievements": "2023-07-14T05:08:12.2634175+00:00"
 }

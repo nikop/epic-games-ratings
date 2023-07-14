@@ -7,9 +7,9 @@ Number of Ratings: 495  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Genin | 11.00% | ~20,392 |
-| Thorough | 9.00% | ~16,684 |
-| A thief's beginning | 8.00% | ~14,830 |
-| Tanuki Time | 8.00% | ~14,830 |
+| Thorough | 9.00% | ~16,685 |
+| A thief's beginning | 8.00% | ~14,831 |
+| Tanuki Time | 8.00% | ~14,831 |
 | Disguised | 7.00% | ~12,977 |
 | Rescue Takuma | 7.00% | ~12,977 |
 | Rollin' | 7.00% | ~12,977 |
@@ -25,11 +25,11 @@ Number of Ratings: 495  (23.09.2022)
 | Okkoto | 4.00% | ~7,415 |
 | Prisoners | 4.00% | ~7,415 |
 | Too Early | 4.00% | ~7,415 |
-| Gear up | 3.00% | ~5,561 |
-| Happy little accidents | 3.00% | ~5,561 |
-| Noboru | 3.00% | ~5,561 |
-| Still Rollin' | 3.00% | ~5,561 |
-| Stoned | 3.00% | ~5,561 |
+| Gear up | 3.00% | ~5,562 |
+| Happy little accidents | 3.00% | ~5,562 |
+| Noboru | 3.00% | ~5,562 |
+| Still Rollin' | 3.00% | ~5,562 |
+| Stoned | 3.00% | ~5,562 |
 | Atheist Ox | 2.00% | ~3,708 |
 | It's raining men | 2.00% | ~3,708 |
 | Old Man | 2.00% | ~3,708 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~185 |
 | Release the Kraken | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 185,379 (Ranked 57)  
+Progressed: 185,386 (Ranked 57)  
 Completed: 58 (0.03%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 58 (0.03%) (Ranked 208)
 | 2023-07-11 | 184,899 | 58 |
 | 2023-07-12 | 185,131 | 58 |
 | 2023-07-13 | 185,346 | 58 |
-| 2023-07-14 | 185,379 | 58 |
+| 2023-07-14 | 185,386 | 58 |
 ## Awards
 Max (Great for Beginners): 556  (Ranked 183)  
 Sum: 4,701 (Ranked 131)  

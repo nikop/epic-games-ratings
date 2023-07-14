@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -531,9 +531,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 217112,
+  "EOS_Progressed": 217114,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 621,
+  "EOS_NewPlayers": 622,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9496,6 +9496,11 @@
       "Time": "2023-07-14T04:05:22.3199386+00:00",
       "NumProgressed": 217112,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-14T05:06:33.5577123+00:00",
+      "NumProgressed": 217114,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 34,
@@ -9507,7 +9512,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 41251
+      "UsersEstimate": 41252
     },
     {
       "ID": "ACH_BASE_10",
@@ -9531,7 +9536,7 @@
       "Name": "Competent Cohort",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8684
+      "UsersEstimate": 8685
     },
     {
       "ID": "ACH_BASE_13",
@@ -9675,7 +9680,7 @@
       "Name": "Celestial Cartography Catastrophe",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8684
+      "UsersEstimate": 8685
     },
     {
       "ID": "ACH_BASE_30",
@@ -9755,7 +9760,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 26053
+      "UsersEstimate": 26054
     },
     {
       "ID": "ACH_BASE_8",
@@ -9763,7 +9768,7 @@
       "Name": "One with the Machine",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8684
+      "UsersEstimate": 8685
     },
     {
       "ID": "ACH_BASE_9",
@@ -9778,7 +9783,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 217112,
+      "Progressed": 217114,
       "Completed": 4
     }
   ],
@@ -9786,8 +9791,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-07-13T02:25:24.2983904+00:00",
-  "LastChanged_Achievements": "2023-07-14T04:05:22.3199381+00:00",
+  "LastChanged_Achievements": "2023-07-14T05:06:33.5577115+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:16.5954522+00:00",
-  "LastUpdate_Ratings": "2023-07-14T03:58:56.0547762+00:00",
-  "LastUpdate_Achievements": "2023-07-14T04:05:22.3200259+00:00"
+  "LastUpdate_Ratings": "2023-07-14T04:59:29.973547+00:00",
+  "LastUpdate_Achievements": "2023-07-14T05:06:33.5578227+00:00"
 }

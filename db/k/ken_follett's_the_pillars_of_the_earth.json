@@ -489,7 +489,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13881,
+  "EOS_Progressed": 13882,
   "EOS_Completed": 105,
   "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 1,
@@ -6029,6 +6029,11 @@
       "Time": "2023-07-14T02:28:09.0917005+00:00",
       "NumProgressed": 13881,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2023-07-14T05:02:23.0233258+00:00",
+      "NumProgressed": 13882,
+      "NumCompleted": 105
     }
   ],
   "TotalAchievements": 41,
@@ -6056,7 +6061,7 @@
       "Name": "Wannabe knight",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3331
+      "UsersEstimate": 3332
     },
     {
       "ID": "tpote_achievement_12",
@@ -6120,7 +6125,7 @@
       "Name": "Negotiation skills",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2637
+      "UsersEstimate": 2638
     },
     {
       "ID": "tpote_achievement_2",
@@ -6256,7 +6261,7 @@
       "Name": "A cry for help",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "tpote_achievement_35",
@@ -6304,7 +6309,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 5691
+      "UsersEstimate": 5692
     },
     {
       "ID": "tpote_achievement_40",
@@ -6328,7 +6333,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3331
+      "UsersEstimate": 3332
     },
     {
       "ID": "tpote_achievement_6",
@@ -6336,7 +6341,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3331
+      "UsersEstimate": 3332
     },
     {
       "ID": "tpote_achievement_7",
@@ -6360,22 +6365,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4858
+      "UsersEstimate": 4859
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13881,
+      "Progressed": 13882,
       "Completed": 105
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-14T04:00:54.9558542+00:00",
+  "LastChanged_Achievements": "2023-07-14T05:02:23.0233237+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:22.7316946+00:00",
-  "LastUpdate_Ratings": "2023-07-14T04:00:17.7391313+00:00",
-  "LastUpdate_Achievements": "2023-07-14T04:00:54.956009+00:00"
+  "LastUpdate_Ratings": "2023-07-14T05:01:29.6331359+00:00",
+  "LastUpdate_Achievements": "2023-07-14T05:02:23.0234346+00:00"
 }

@@ -6,27 +6,27 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 58.00% | ~106,189 |
-| Where's that freaking Dwarf? | 46.00% | ~84,219 |
-| GG EZ | 27.00% | ~49,433 |
-| Speedrun | 26.00% | ~47,602 |
-| Déjà vu | 20.00% | ~36,617 |
-| Sock! SOCK! | 15.00% | ~27,463 |
-| DM intervention | 12.00% | ~21,970 |
-| Fireproof Wizardess | 8.00% | ~14,647 |
-| A beer, two curses, three companions | 7.00% | ~12,816 |
-| Livin' in a dwarven paradise | 6.00% | ~10,985 |
-| Way of the Wimp | 6.00% | ~10,985 |
-| The plot thickens... At the tavern | 4.00% | ~7,323 |
-| The Woman in the High Castle | 3.00% | ~5,493 |
-| Team Building Exercise | 3.00% | ~5,493 |
-| Shiny and Crôm | 2.00% | ~3,662 |
-| The demons' feast | 2.00% | ~3,662 |
-| The Great Library | 2.00% | ~3,662 |
-| Res Judicata | 2.00% | ~3,662 |
-| The Ranger of Chaos | 2.00% | ~3,662 |
-| I am the night | 2.00% | ~3,662 |
-| Oh, when I'll be level 10... | 2.00% | ~3,662 |
+| Alt+F4 | 58.00% | ~106,220 |
+| Where's that freaking Dwarf? | 46.00% | ~84,243 |
+| GG EZ | 27.00% | ~49,447 |
+| Speedrun | 26.00% | ~47,616 |
+| Déjà vu | 20.00% | ~36,628 |
+| Sock! SOCK! | 15.00% | ~27,471 |
+| DM intervention | 12.00% | ~21,977 |
+| Fireproof Wizardess | 8.00% | ~14,651 |
+| A beer, two curses, three companions | 7.00% | ~12,820 |
+| Livin' in a dwarven paradise | 6.00% | ~10,988 |
+| Way of the Wimp | 6.00% | ~10,988 |
+| The plot thickens... At the tavern | 4.00% | ~7,326 |
+| The Woman in the High Castle | 3.00% | ~5,494 |
+| Team Building Exercise | 3.00% | ~5,494 |
+| Shiny and Crôm | 2.00% | ~3,663 |
+| The demons' feast | 2.00% | ~3,663 |
+| The Great Library | 2.00% | ~3,663 |
+| Res Judicata | 2.00% | ~3,663 |
+| The Ranger of Chaos | 2.00% | ~3,663 |
+| I am the night | 2.00% | ~3,663 |
+| Oh, when I'll be level 10... | 2.00% | ~3,663 |
 | Torture and Sensibility | 1.00% | ~1,831 |
 | Dwarf Fortress | 1.00% | ~1,831 |
 | The beards of change | 1.00% | ~1,831 |
@@ -42,13 +42,13 @@ Number of Ratings: 118  (23.09.2022)
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.70% | ~1,282 |
 | It's been a hard day's night | 0.60% | ~1,099 |
 | Lëgal Legend | 0.60% | ~1,099 |
-| The Dungeon Master | 0.50% | ~915 |
-| I'd rather... Just... Sing! | 0.50% | ~915 |
-| The Famous Dungeon of Naheulbeuk | 0.50% | ~915 |
-| Dead for good | 0.50% | ~915 |
-| Law and Order | 0.50% | ~915 |
-| The number of the counting shalt be 7 | 0.40% | ~732 |
-| An old poacher makes the best gamekeeper | 0.40% | ~732 |
+| The Dungeon Master | 0.50% | ~916 |
+| I'd rather... Just... Sing! | 0.50% | ~916 |
+| The Famous Dungeon of Naheulbeuk | 0.50% | ~916 |
+| Dead for good | 0.50% | ~916 |
+| Law and Order | 0.50% | ~916 |
+| The number of the counting shalt be 7 | 0.40% | ~733 |
+| An old poacher makes the best gamekeeper | 0.40% | ~733 |
 | Friendly fire | 0.30% | ~549 |
 | Holistic Adventuring Party | 0.20% | ~366 |
 | Scholar of the Lands of Fangh | 0.20% | ~366 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 183,084 (Ranked 58)  
+Progressed: 183,138 (Ranked 58)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-11 | 179,429 | 0 |
 | 2023-07-12 | 181,126 | 0 |
 | 2023-07-13 | 182,819 | 0 |
-| 2023-07-14 | 183,084 | 0 |
+| 2023-07-14 | 183,138 | 0 |
 ## Awards
 Max (Character Customization): 98  (Ranked 332)  
 Sum: 98 (Ranked 410)  

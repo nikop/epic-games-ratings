@@ -2,10 +2,10 @@
   "ID": "e9f8d704869e4bd1a2d4e065c8c86f6e",
   "Name": "Remains",
   "ProductSlug": "remains-dcb937",
-  "Ranking_EOS_Progress": 348,
+  "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 18,
-  "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-05-03T17:00:00+00:00",
     "PcReleaseDate": "2021-06-09T12:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 42,
+  "EOS_Progressed": 43,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 11.9,
+  "EOS_Completed_Percentage": 11.63,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:47:43.8172131+00:00",
@@ -246,6 +246,11 @@
       "Time": "2023-07-08T02:30:31.1901255+00:00",
       "NumProgressed": 42,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-14T05:08:00.5705992+00:00",
+      "NumProgressed": 43,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 7,
@@ -257,13 +262,13 @@
       "Name": "Garbage collector",
       "Percentage": 98,
       "XP": 90,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "Achievement_IAmSpeed",
       "SetID": "436h0ek",
       "Name": "I am speed!",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 200,
       "UsersEstimate": 20
     },
@@ -279,7 +284,7 @@
       "ID": "Achievement_NoOneWillHearYou",
       "SetID": "436h0ek",
       "Name": "No one will hear you!",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 20,
       "UsersEstimate": 18
     },
@@ -289,13 +294,13 @@
       "Name": "Om nom nom",
       "Percentage": 74,
       "XP": 200,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Achievement_RepairMaster",
       "SetID": "436h0ek",
       "Name": "Repair master",
-      "Percentage": 60,
+      "Percentage": 58,
       "XP": 200,
       "UsersEstimate": 25
     },
@@ -305,21 +310,21 @@
       "Name": "Welcome",
       "Percentage": 100,
       "XP": 90,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     }
   ],
   "AchievementSets": [
     {
       "ID": "436h0ek",
       "IsBase": true,
-      "Progressed": 42,
+      "Progressed": 43,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-05-07T09:59:54.1262097+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:43.8172139+00:00",
-  "LastChanged_Achievements": "2023-07-14T04:06:22.2231561+00:00",
+  "LastChanged_Achievements": "2023-07-14T05:08:00.5705988+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:55.1901078+00:00",
-  "LastUpdate_Ratings": "2023-07-14T03:58:39.2590592+00:00",
-  "LastUpdate_Achievements": "2023-07-14T04:06:22.2231657+00:00"
+  "LastUpdate_Ratings": "2023-07-14T04:59:07.9614748+00:00",
+  "LastUpdate_Achievements": "2023-07-14T05:08:00.5706356+00:00"
 }

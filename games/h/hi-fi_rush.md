@@ -5,10 +5,12 @@ Rating: 4.87 (Ranked 24)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| NOW we got a kickass hideout! | 2.00% | ~39 |
 | Cream of the Crop | 1.00% | ~34 |
 | This will cost you big time | 1.00% | ~34 |
 | The Negotiator | 1.00% | ~34 |
 | Headliner | 1.00% | ~34 |
+| Time to pay up! | 1.00% | ~34 |
 | Thanks for the free chip, Peppermint! | 1.00% | ~34 |
 | I play my own way! | 1.00% | ~34 |
 | Whoa! There's ANOTHER health bar!? | 1.00% | ~34 |
@@ -20,9 +22,7 @@ Rating: 4.87 (Ranked 24)
 | Kissing the sky! | 1.00% | ~34 |
 | Who put gears in there? | 1.00% | ~34 |
 | Alright, that felt AWESOME! | 1.00% | ~34 |
-| NOW we got a kickass hideout! | 1.00% | ~20 |
 | Start with a bang! | 0.90% | ~31 |
-| Time to pay up! | 0.90% | ~31 |
 | Who's the boss now? | 0.90% | ~31 |
 | I have to read these things? | 0.90% | ~31 |
 | Feeling the beat! | 0.90% | ~31 |
@@ -31,9 +31,9 @@ Rating: 4.87 (Ranked 24)
 | Perfecter Parry-er! | 0.70% | ~24 |
 | I look cool. But I can look COOLER. | 0.70% | ~24 |
 | Well that was a rush! | 0.60% | ~21 |
+| That's a lot of junk metal… | 0.60% | ~21 |
 | Does that say weakpoint? | 0.60% | ~21 |
 | Beat-hit mania | 0.50% | ~17 |
-| That's a lot of junk metal… | 0.50% | ~17 |
 | There's such a thing as TOO helpful | 0.50% | ~17 |
 | Call me Turbo Chai | 0.50% | ~10 |
 | New bad guys? No problem! | 0.40% | ~8 |

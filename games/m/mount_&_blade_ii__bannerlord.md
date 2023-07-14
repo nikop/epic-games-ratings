@@ -6,7 +6,7 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 37.00% | ~20,599 |
+| Lawbringer | 37.00% | ~20,600 |
 | Landlord | 31.00% | ~17,259 |
 | Horde breaker | 22.00% | ~12,248 |
 | Lawmaker | 22.00% | ~12,248 |
@@ -15,10 +15,10 @@ Number of Ratings: 5,603  (23.09.2022)
 | The king is pleased | 17.00% | ~9,465 |
 | King Solomon | 16.00% | ~8,908 |
 | I can do it | 15.00% | ~8,351 |
-| Apple of my eye | 14.00% | ~7,794 |
+| Apple of my eye | 14.00% | ~7,795 |
 | God of the Arena | 12.00% | ~6,681 |
 | Against all odds | 11.00% | ~6,124 |
-| Swordbearer | 10.00% | ~5,567 |
+| Swordbearer | 10.00% | ~5,568 |
 | Duelist | 9.00% | ~5,011 |
 | Dynasty | 9.00% | ~5,011 |
 | I spit on your grave | 9.00% | ~5,011 |
@@ -33,7 +33,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Veni vidi vici | 4.00% | ~2,227 |
 | Freedom! | 3.00% | ~1,670 |
 | Real Estate | 3.00% | ~1,670 |
-| Long live the Empire! | 2.00% | ~1,113 |
+| Long live the Empire! | 2.00% | ~1,114 |
 | Entrepreneur | 1.00% | ~557 |
 | Supreme Emperor | 1.00% | ~557 |
 | Crackshot | 0.80% | ~445 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,674 (Ranked 83)  
+Progressed: 55,675 (Ranked 83)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-11 | 55,547 | 0 |
 | 2023-07-12 | 55,609 | 0 |
 | 2023-07-13 | 55,670 | 0 |
-| 2023-07-14 | 55,674 | 0 |
+| 2023-07-14 | 55,675 | 0 |
 ## Awards
 Max (Character Customization): 6,787  (Ranked 48)  
 Sum: 13,723 (Ranked 67)  
