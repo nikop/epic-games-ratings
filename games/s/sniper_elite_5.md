@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 642)
 | Alpha | 0.10% | ~3 |
 | Das Familienjuwel | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,273 (Ranked 147)  
+Progressed: 3,274 (Ranked 147)  
 Completed: 9 (0.27%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 9 (0.27%) (Ranked 153)
 | 2023-07-11 | 3,263 | 9 |
 | 2023-07-12 | 3,266 | 9 |
 | 2023-07-13 | 3,269 | 9 |
-| 2023-07-14 | 3,273 | 9 |
+| 2023-07-14 | 3,274 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

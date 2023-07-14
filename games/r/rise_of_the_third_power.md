@@ -17,7 +17,7 @@
 | Teamwork | 23.00% | ~32 |
 | Determined | 21.00% | ~29 |
 | Beginning of the End | 20.00% | ~27 |
-| Bling | 19.00% | ~26 |
+| Bling | 20.00% | ~27 |
 | Geared | 18.00% | ~25 |
 | Master Trader | 13.00% | ~18 |
 | Master Crafter | 12.00% | ~16 |

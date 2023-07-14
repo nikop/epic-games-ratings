@@ -28,9 +28,9 @@ Rating: 4.87 (Ranked 24)
 | Who put gears in there? | 1.00% | ~34 |
 | Alright, that felt AWESOME! | 1.00% | ~34 |
 | You can pet the cat! | 1.00% | ~34 |
+| Perfecter Parry-er! | 0.80% | ~28 |
 | I look cool. But I can look COOLER. | 0.80% | ~28 |
 | Well that was a rush! | 0.70% | ~24 |
-| Perfecter Parry-er! | 0.70% | ~24 |
 | That's a lot of junk metal… | 0.60% | ~21 |
 | There's such a thing as TOO helpful | 0.60% | ~21 |
 | Does that say weakpoint? | 0.60% | ~21 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | OK, I THINK I know what I'm doing now | 0.00% | ~0 |
 | Low budget finish | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,444 (Ranked 146)  
+Progressed: 3,445 (Ranked 146)  
 Completed: 5 (0.15%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 5 (0.15%) (Ranked 172)
 | 2023-07-11 | 3,432 | 5 |
 | 2023-07-12 | 3,439 | 5 |
 | 2023-07-13 | 3,441 | 5 |
-| 2023-07-14 | 3,444 | 5 |
+| 2023-07-14 | 3,445 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

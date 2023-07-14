@@ -4,7 +4,7 @@
   "ProductSlug": "rise-of-the-third-power-682886",
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -151,9 +151,9 @@
       "ID": "Bling",
       "SetID": "4nce15l",
       "Name": "Bling",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Bloodlust",
@@ -312,8 +312,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.3919584+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00",
   "LastChanged": "2023-03-31T05:58:42.3919585+00:00",
-  "LastChanged_Achievements": "2023-07-14T18:06:35.6241209+00:00",
+  "LastChanged_Achievements": "2023-07-14T19:08:31.8446348+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:59.2485454+00:00",
-  "LastUpdate_Ratings": "2023-07-14T17:59:25.292827+00:00",
-  "LastUpdate_Achievements": "2023-07-14T18:06:35.6241357+00:00"
+  "LastUpdate_Ratings": "2023-07-14T19:00:31.0220829+00:00",
+  "LastUpdate_Achievements": "2023-07-14T19:08:31.8446551+00:00"
 }

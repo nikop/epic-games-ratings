@@ -46,15 +46,15 @@ Rating: 4.47 (Ranked 598)
 | Settler | 14.00% | ~217 |
 | Max Power | 13.00% | ~202 |
 | Go West | 12.00% | ~186 |
-| Bold and beautiful | 11.00% | ~170 |
+| Bold and beautiful | 12.00% | ~186 |
 | A new Hope | 10.00% | ~155 |
 | Tycoon | 9.00% | ~140 |
 | Unstoppable | 7.00% | ~109 |
 | Track to the Future | 7.00% | ~109 |
 | Conductor | 6.00% | ~93 |
 | Call of Duty | 5.00% | ~78 |
+| Engineer | 3.00% | ~46 |
 | Let off some steam | 3.00% | ~46 |
-| Engineer | 2.00% | ~31 |
 | Accurate | 2.00% | ~31 |
 | European Union | 0.50% | ~8 |
 | Together we stand | 0.50% | ~8 |

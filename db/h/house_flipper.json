@@ -2,12 +2,12 @@
   "ID": "d5cbd232ad304c91aacc20f31849435c",
   "Name": "House Flipper",
   "ProductSlug": "house-flipper",
-  "Ranking_Rating": 216,
+  "Ranking_Rating": 217,
   "Ranking_Popularity": 232,
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
@@ -1734,9 +1734,9 @@
       "Count": 210
     }
   ],
-  "EOS_Progressed": 19902,
+  "EOS_Progressed": 19903,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5779,6 +5779,11 @@
       "Time": "2023-07-14T18:06:34.3228989+00:00",
       "NumProgressed": 19902,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-07-14T19:08:29.936196+00:00",
+      "NumProgressed": 19903,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -5838,7 +5843,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18708
+      "UsersEstimate": 18709
     },
     {
       "ID": "GameOver",
@@ -5902,7 +5907,7 @@
       "Name": "Just Enough",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3781
+      "UsersEstimate": 3782
     },
     {
       "ID": "Negotiator",
@@ -5926,7 +5931,7 @@
       "Name": "Alpha Male",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3781
+      "UsersEstimate": 3782
     },
     {
       "ID": "SeniorEstateAgent",
@@ -5942,7 +5947,7 @@
       "Name": "Pro-creative",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3582
+      "UsersEstimate": 3583
     },
     {
       "ID": "Strongman",
@@ -5973,15 +5978,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19902,
+      "Progressed": 19903,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-07-13T18:00:01.2110728+00:00",
-  "LastChanged_Achievements": "2023-07-14T18:06:34.3228984+00:00",
+  "LastChanged_Achievements": "2023-07-14T19:08:29.9361954+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:44.7849025+00:00",
-  "LastUpdate_Ratings": "2023-07-14T18:00:05.022526+00:00",
-  "LastUpdate_Achievements": "2023-07-14T18:06:34.32293+00:00"
+  "LastUpdate_Ratings": "2023-07-14T19:01:17.818856+00:00",
+  "LastUpdate_Achievements": "2023-07-14T19:08:29.9362459+00:00"
 }

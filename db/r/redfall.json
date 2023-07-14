@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -184,9 +184,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1720,
+  "EOS_Progressed": 1721,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2089,6 +2089,11 @@
       "Time": "2023-07-13T13:19:19.0815799+00:00",
       "NumProgressed": 1720,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-14T19:03:35.9465881+00:00",
+      "NumProgressed": 1721,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2116,7 +2121,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "Achievement_004",
@@ -2148,7 +2153,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "Achievement_009",
@@ -2156,7 +2161,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 1049
+      "UsersEstimate": 1050
     },
     {
       "ID": "Achievement_010",
@@ -2220,7 +2225,7 @@
       "Name": "Bad Wiring",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "Achievement_018",
@@ -2236,7 +2241,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1324
+      "UsersEstimate": 1325
     },
     {
       "ID": "Achievement_020",
@@ -2292,7 +2297,7 @@
       "Name": "Fly Fisher",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "Achievement_027",
@@ -2324,7 +2329,7 @@
       "Name": "ICU",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 791
+      "UsersEstimate": 792
     },
     {
       "ID": "Achievement_031",
@@ -2348,7 +2353,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "Achievement_034",
@@ -2436,7 +2441,7 @@
       "Name": "Skin of Their Teeth",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "Achievement_046",
@@ -2627,7 +2632,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1720,
+      "Progressed": 1721,
       "Completed": 0
     }
   ],
@@ -2635,8 +2640,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-07-11T21:58:27.9494076+00:00",
-  "LastChanged_Achievements": "2023-07-14T18:02:29.5478225+00:00",
+  "LastChanged_Achievements": "2023-07-14T19:03:35.9465875+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:17.7438623+00:00",
-  "LastUpdate_Ratings": "2023-07-14T17:58:13.0070957+00:00",
-  "LastUpdate_Achievements": "2023-07-14T18:02:29.547898+00:00"
+  "LastUpdate_Ratings": "2023-07-14T18:58:49.1359118+00:00",
+  "LastUpdate_Achievements": "2023-07-14T19:03:35.9467143+00:00"
 }

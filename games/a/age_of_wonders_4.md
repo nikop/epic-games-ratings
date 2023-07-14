@@ -17,6 +17,7 @@ Rating: 4.62 (Ranked 346)
 | Magical Synergy | 3.00% | ~150 |
 | My Final Form | 3.00% | ~150 |
 | Seat of Power | 3.00% | ~150 |
+| Impenetrable Fortress | 3.00% | ~150 |
 | Intimidation Tactics | 3.00% | ~150 |
 | Here be Dragons | 3.00% | ~150 |
 | Blood of the Dragon | 3.00% | ~150 |
@@ -26,17 +27,16 @@ Rating: 4.62 (Ranked 346)
 | Return of the Wizard King | 2.00% | ~100 |
 | Arch Mage | 2.00% | ~100 |
 | Enchanted Archipelago | 2.00% | ~100 |
+| The Goddess of Nature | 2.00% | ~100 |
 | Digging for Treasure | 2.00% | ~100 |
 | Preparation Is Everything | 2.00% | ~100 |
 | In a Liege of Your Own | 2.00% | ~100 |
 | Fiery Friend | 2.00% | ~100 |
 | Against the Odds | 2.00% | ~100 |
-| Impenetrable Fortress | 2.00% | ~100 |
 | The Magic That Empowers Me! | 1.00% | ~50 |
 | God Emperor | 1.00% | ~50 |
 | Lord of Chaos | 1.00% | ~50 |
 | The Creator | 1.00% | ~50 |
-| The Goddess of Nature | 1.00% | ~50 |
 | Eternal Lord | 1.00% | ~50 |
 | Crimson Caldera | 1.00% | ~50 |
 | The Eternal Court | 1.00% | ~50 |
@@ -56,7 +56,7 @@ Rating: 4.62 (Ranked 346)
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,989 (Ranked 136)  
+Progressed: 4,990 (Ranked 136)  
 Completed: 5 (0.10%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 5 (0.10%) (Ranked 183)
 | 2023-07-11 | 4,972 | 5 |
 | 2023-07-12 | 4,977 | 5 |
 | 2023-07-13 | 4,985 | 5 |
-| 2023-07-14 | 4,989 | 5 |
+| 2023-07-14 | 4,990 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

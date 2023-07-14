@@ -2,7 +2,7 @@
   "ID": "632b8c18774d480d978cb116518cd06b",
   "Name": "Miasma Chronicles",
   "ProductSlug": "miasma-chronicles",
-  "Ranking_Rating": 703,
+  "Ranking_Rating": 702,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 180,
@@ -2539,9 +2539,9 @@
       "ID": "RANIDAPHOBIA",
       "SetID": "9a4jnji",
       "Name": "Ranidaphobia",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 941
+      "UsersEstimate": 953
     },
     {
       "ID": "RECYCLER",
@@ -2652,8 +2652,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-07-10T17:58:57.5580271+00:00",
-  "LastChanged_Achievements": "2023-07-14T18:02:25.8362727+00:00",
+  "LastChanged_Achievements": "2023-07-14T19:03:30.6948903+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:59.5184485+00:00",
-  "LastUpdate_Ratings": "2023-07-14T17:58:44.4011993+00:00",
-  "LastUpdate_Achievements": "2023-07-14T18:02:25.8363171+00:00"
+  "LastUpdate_Ratings": "2023-07-14T18:59:28.6139887+00:00",
+  "LastUpdate_Achievements": "2023-07-14T19:03:30.6949655+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 45,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -354,9 +354,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2581,
+  "EOS_Progressed": 2582,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.87,
   "EosHistory": [
@@ -1904,6 +1904,11 @@
       "Time": "2023-07-14T15:04:48.04485+00:00",
       "NumProgressed": 2581,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-07-14T19:05:55.5654897+00:00",
+      "NumProgressed": 2582,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 14,
@@ -1923,7 +1928,7 @@
       "Name": "Case Closed",
       "Percentage": 36,
       "XP": 55,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -1931,7 +1936,7 @@
       "Name": "Cat Person",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "ACH_CLIMBER",
@@ -1939,7 +1944,7 @@
       "Name": "Climber",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "ACH_DOG_LOVER",
@@ -1971,7 +1976,7 @@
       "Name": "Hidden Secrets",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "ACH_IMPRISONMENT",
@@ -1995,7 +2000,7 @@
       "Name": "Reunion",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "ACH_SHOVEL_NIGHT",
@@ -2011,7 +2016,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 30,
       "XP": 80,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -2026,7 +2031,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2581,
+      "Progressed": 2582,
       "Completed": 100
     }
   ],
@@ -2034,8 +2039,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-07-02T20:01:16.6679969+00:00",
-  "LastChanged_Achievements": "2023-07-14T18:04:36.0952315+00:00",
+  "LastChanged_Achievements": "2023-07-14T19:05:55.5654891+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:49.0605246+00:00",
-  "LastUpdate_Ratings": "2023-07-14T18:00:57.1209504+00:00",
-  "LastUpdate_Achievements": "2023-07-14T18:04:36.0952477+00:00"
+  "LastUpdate_Ratings": "2023-07-14T19:02:26.8228857+00:00",
+  "LastUpdate_Achievements": "2023-07-14T19:05:55.5655169+00:00"
 }

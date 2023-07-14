@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57319,
+  "EOS_Progressed": 57322,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 354,
+  "EOS_NewPlayers": 349,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7927,6 +7927,11 @@
       "Time": "2023-07-14T17:04:55.2764495+00:00",
       "NumProgressed": 57319,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-14T19:02:56.9356223+00:00",
+      "NumProgressed": 57322,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7938,7 +7943,7 @@
       "Name": "Follow the Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 19488
+      "UsersEstimate": 19489
     },
     {
       "ID": "02",
@@ -7946,7 +7951,7 @@
       "Name": "Nordic Walking",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 12037
+      "UsersEstimate": 12038
     },
     {
       "ID": "03",
@@ -7954,7 +7959,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 12037
+      "UsersEstimate": 12038
     },
     {
       "ID": "04",
@@ -7970,7 +7975,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10317
+      "UsersEstimate": 10318
     },
     {
       "ID": "06",
@@ -8002,7 +8007,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6878
+      "UsersEstimate": 6879
     },
     {
       "ID": "10",
@@ -8058,7 +8063,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4012
+      "UsersEstimate": 4013
     },
     {
       "ID": "17",
@@ -8098,7 +8103,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6878
+      "UsersEstimate": 6879
     },
     {
       "ID": "22",
@@ -8130,7 +8135,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4012
+      "UsersEstimate": 4013
     },
     {
       "ID": "26",
@@ -8162,7 +8167,7 @@
       "Name": "Sound and Fury",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7451
+      "UsersEstimate": 7452
     },
     {
       "ID": "30",
@@ -8186,7 +8191,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14903
+      "UsersEstimate": 14904
     },
     {
       "ID": "33",
@@ -8194,7 +8199,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6878
+      "UsersEstimate": 6879
     },
     {
       "ID": "34",
@@ -8210,7 +8215,7 @@
       "Name": "Let There Be Light",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 15476
+      "UsersEstimate": 15477
     },
     {
       "ID": "36",
@@ -8298,7 +8303,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 7451
+      "UsersEstimate": 7452
     },
     {
       "ID": "47",
@@ -8402,7 +8407,7 @@
       "Name": "Ding!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1039
+      "UsersEstimate": 1040
     },
     {
       "ID": "60",
@@ -8473,21 +8478,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57319,
+      "Progressed": 57322,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20787,
+      "Progressed": 20790,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-14T17:04:55.2764488+00:00",
+  "LastChanged_Achievements": "2023-07-14T19:02:56.9356216+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:08.3646753+00:00",
-  "LastUpdate_Ratings": "2023-07-14T17:58:03.4000314+00:00",
-  "LastUpdate_Achievements": "2023-07-14T17:04:55.2765644+00:00"
+  "LastUpdate_Ratings": "2023-07-14T18:58:37.1121195+00:00",
+  "LastUpdate_Achievements": "2023-07-14T19:02:56.935795+00:00"
 }

@@ -1685,9 +1685,9 @@
       "ID": "CosmeticProgress1",
       "SetID": "a9e499d",
       "Name": "Street Style",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 90
     },
     {
       "ID": "CultivairChests1",
@@ -1965,9 +1965,9 @@
       "ID": "SyronGift",
       "SetID": "a9e499d",
       "Name": "Syron for Hope",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 60
     },
     {
       "ID": "TemporalPulseKills1",
@@ -2044,8 +2044,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-14T18:06:41.7793312+00:00",
+  "LastChanged_Achievements": "2023-07-14T19:08:39.7162126+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:34.816735+00:00",
-  "LastUpdate_Ratings": "2023-07-14T17:59:58.3972348+00:00",
-  "LastUpdate_Achievements": "2023-07-14T18:06:41.7793749+00:00"
+  "LastUpdate_Ratings": "2023-07-14T19:01:07.5625016+00:00",
+  "LastUpdate_Achievements": "2023-07-14T19:08:39.7162764+00:00"
 }

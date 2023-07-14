@@ -1,12 +1,12 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.39 (Ranked 703)  
+Rating: 4.39 (Ranked 702)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Blood | 93.00% | ~1,136 |
-| Ranidaphobia | 77.00% | ~941 |
+| Ranidaphobia | 78.00% | ~953 |
 | Aspiring Editor | 75.00% | ~916 |
 | Gun for Hire | 70.00% | ~855 |
 | I am the law! | 64.00% | ~782 |

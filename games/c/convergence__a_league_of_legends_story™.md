@@ -28,18 +28,18 @@
 | Fast Learner | 13.00% | ~98 |
 | Check Your Pulse | 13.00% | ~98 |
 | Like Clockwork | 12.00% | ~90 |
+| Street Style | 12.00% | ~90 |
 | Honest Mistake | 12.00% | ~90 |
 | Right On Time | 11.00% | ~83 |
-| Street Style | 11.00% | ~83 |
 | Whiz Kid | 10.00% | ~75 |
 | Chaincrawler Explorer | 9.00% | ~68 |
 | Good Neighbor | 9.00% | ~68 |
 | Family Memories | 8.00% | ~60 |
 | Sump Explorer | 8.00% | ~60 |
+| Syron for Hope | 8.00% | ~60 |
 | Theater Explorer | 8.00% | ~60 |
 | Cultivair Explorer | 7.00% | ~53 |
 | Fairgrounds Explorer | 7.00% | ~53 |
-| Syron for Hope | 7.00% | ~53 |
 | Ask Questions Later | 7.00% | ~53 |
 | Corin Goes Home | 6.00% | ~45 |
 | Sartorialist | 6.00% | ~45 |

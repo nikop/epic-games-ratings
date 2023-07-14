@@ -14,12 +14,12 @@ Rating: 4.09 (Ranked 892)
 | From Zeroes... | 28.00% | ~970 |
 | Don't Get Cocky | 27.00% | ~936 |
 | Shard Snatchers | 24.00% | ~832 |
-| You Rich Now! | 22.00% | ~762 |
+| You Rich Now! | 22.00% | ~763 |
 | Our Lucky Winner | 20.00% | ~693 |
 | You Poor Now! | 20.00% | ~693 |
 | You Got the Goods, Kid | 20.00% | ~693 |
-| The Shardmenstration | 19.00% | ~658 |
-| Those Were the Days... | 19.00% | ~658 |
+| The Shardmenstration | 19.00% | ~659 |
+| Those Were the Days... | 19.00% | ~659 |
 | ...To Heroes | 18.00% | ~624 |
 | Mas, Por Favor | 17.00% | ~589 |
 | And Still Champion... | 14.00% | ~485 |
@@ -32,7 +32,7 @@ Rating: 4.09 (Ranked 892)
 | Not Dolls. Action Figures! | 0.20% | ~7 |
 | You Played This Before? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,465 (Ranked 145)  
+Progressed: 3,466 (Ranked 145)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,6 +96,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-10 | 3,463 | 0 |
 | 2023-07-11 | 3,464 | 0 |
 | 2023-07-12 | 3,465 | 0 |
+| 2023-07-14 | 3,466 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

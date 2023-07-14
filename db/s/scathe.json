@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 175,
+  "EOS_Progressed": 176,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -768,6 +768,11 @@
       "Time": "2023-07-14T16:04:21.3165013+00:00",
       "NumProgressed": 175,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-14T19:05:26.3900066+00:00",
+      "NumProgressed": 176,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -851,7 +856,7 @@
       "Name": "Half a Life",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_ICE_WORK",
@@ -1018,7 +1023,7 @@
     {
       "ID": "2ff85j2",
       "IsBase": true,
-      "Progressed": 175,
+      "Progressed": 176,
       "Completed": 0
     }
   ],
@@ -1026,8 +1031,8 @@
   "FirstSeenRating": "2023-04-24T10:58:16.802842+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.6712735+00:00",
   "LastChanged": "2023-04-24T10:58:16.8028421+00:00",
-  "LastChanged_Achievements": "2023-07-14T18:04:15.7237598+00:00",
+  "LastChanged_Achievements": "2023-07-14T19:05:26.3900059+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:19:56.4425875+00:00",
-  "LastUpdate_Ratings": "2023-07-14T17:57:54.2697701+00:00",
-  "LastUpdate_Achievements": "2023-07-14T18:04:15.723781+00:00"
+  "LastUpdate_Ratings": "2023-07-14T18:58:23.6323964+00:00",
+  "LastUpdate_Achievements": "2023-07-14T19:05:26.3900442+00:00"
 }

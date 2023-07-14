@@ -1,27 +1,27 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 216)  
+Rating: 4.69 (Ranked 217)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,264 |
-| That's a Grand Army | 8.00% | ~5,568 |
-| That is mine! | 8.00% | ~5,568 |
-| Victorious! | 8.00% | ~5,568 |
-| Brothers in Arms | 6.00% | ~4,176 |
-| That's a Grand Navy | 6.00% | ~4,176 |
-| Seriously?! | 6.00% | ~4,176 |
-| For the Glory | 5.00% | ~3,480 |
-| Cold War | 4.00% | ~2,784 |
-| True Catholic | 4.00% | ~2,784 |
-| Defender of the Faith | 3.00% | ~2,088 |
-| It's all about luck | 3.00% | ~2,088 |
-| It's all about the money | 3.00% | ~2,088 |
-| Respected | 3.00% | ~2,088 |
-| The Princess is in this Castle | 3.00% | ~2,088 |
-| Truly Divine Ruler | 3.00% | ~2,088 |
+| Until death do us apart | 9.00% | ~6,266 |
+| That's a Grand Army | 8.00% | ~5,570 |
+| That is mine! | 8.00% | ~5,570 |
+| Victorious! | 8.00% | ~5,570 |
+| Brothers in Arms | 6.00% | ~4,177 |
+| That's a Grand Navy | 6.00% | ~4,177 |
+| Seriously?! | 6.00% | ~4,177 |
+| For the Glory | 5.00% | ~3,481 |
+| Cold War | 4.00% | ~2,785 |
+| True Catholic | 4.00% | ~2,785 |
+| Defender of the Faith | 3.00% | ~2,089 |
+| It's all about luck | 3.00% | ~2,089 |
+| It's all about the money | 3.00% | ~2,089 |
+| Respected | 3.00% | ~2,089 |
+| The Princess is in this Castle | 3.00% | ~2,089 |
+| Truly Divine Ruler | 3.00% | ~2,089 |
 | Agressive Expander | 2.00% | ~1,392 |
 | Blockader | 2.00% | ~1,392 |
 | Combined Arms | 2.00% | ~1,392 |
@@ -40,9 +40,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Golden Empire | 1.00% | ~696 |
 | The Five Colonies | 1.00% | ~696 |
 | This navy can take it all | 1.00% | ~696 |
-| Isn't this the way to India? | 0.90% | ~626 |
-| Market Control | 0.90% | ~626 |
-| Trustworthy | 0.90% | ~626 |
+| Isn't this the way to India? | 0.90% | ~627 |
+| Market Control | 0.90% | ~627 |
+| Trustworthy | 0.90% | ~627 |
 | Down Under | 0.80% | ~557 |
 | Electable! | 0.70% | ~487 |
 | Populists in Government | 0.70% | ~487 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69,599 (Ranked 74)  
+Progressed: 69,622 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -446,7 +446,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-11 | 68,569 | 0 |
 | 2023-07-12 | 68,921 | 0 |
 | 2023-07-13 | 69,319 | 0 |
-| 2023-07-14 | 69,599 | 0 |
+| 2023-07-14 | 69,622 | 0 |
 ## Awards
 Max (Educational): 5,540  (Ranked 60)  
 Sum: 45,701 (Ranked 27)  
