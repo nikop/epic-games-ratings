@@ -135,7 +135,7 @@
 | 132 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 5,462 | 62 |
 | 132 | [Diabotical](games/d/diabotical.md) | 4.75 | 271 | 241 |
 | 132 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 893 | 148 |
-| 132 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 533 | 187 |
+| 132 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 534 | 187 |
 | 132 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.75 | 0 | 505 |
 | 132 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 114 | 316 |
 | 132 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 531 | 188 |
@@ -186,7 +186,7 @@
 | 183 | [Barony](games/b/barony.md) | 4.71 | 73 | 367 |
 | 183 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 0 | 505 |
 | 183 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 0 | 505 |
-| 183 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,656 | 50 |
+| 183 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,662 | 50 |
 | 183 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 435 |
 | 183 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,316 | 46 |
 | 183 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.71 | 0 | 505 |
@@ -490,7 +490,6 @@
 | 477 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 0 | 505 |
 | 477 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 310 | 230 |
 | 477 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,208 | 131 |
-| 491 | [Aimlabs](games/a/aimlabs.md) | 4.54 | 0 | 505 |
 | 491 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 0 | 505 |
 | 491 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,323 | 127 |
 | 491 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 5,185 | 63 |
@@ -508,18 +507,19 @@
 | 491 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 503 | 192 |
 | 491 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.54 | 98 | 332 |
 | 491 | [The Tenants](games/t/the_tenants.md) | 4.54 | 0 | 505 |
-| 509 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 505 |
-| 509 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 505 |
-| 509 | [Dauntless](games/d/dauntless.md) | 4.53 | 20,735 | 18 |
-| 509 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.53 | 34 | 439 |
-| 509 | [Everything](games/e/everything.md) | 4.53 | 0 | 505 |
-| 509 | [GRIME](games/g/grime.md) | 4.53 | 0 | 505 |
-| 509 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 0 | 505 |
-| 509 | [RUINER](games/r/ruiner.md) | 4.53 | 23 | 481 |
-| 509 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.53 | 0 | 505 |
-| 509 | [UnMetal](games/u/unmetal.md) | 4.53 | 0 | 505 |
-| 509 | [VALORANT](games/v/valorant.md) | 4.53 | 60,576 | 10 |
-| 509 | [Verdun](games/v/verdun.md) | 4.53 | 95 | 338 |
+| 508 | [Aimlabs](games/a/aimlabs.md) | 4.53 | 0 | 505 |
+| 508 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 505 |
+| 508 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 505 |
+| 508 | [Dauntless](games/d/dauntless.md) | 4.53 | 20,735 | 18 |
+| 508 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.53 | 34 | 439 |
+| 508 | [Everything](games/e/everything.md) | 4.53 | 0 | 505 |
+| 508 | [GRIME](games/g/grime.md) | 4.53 | 0 | 505 |
+| 508 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 0 | 505 |
+| 508 | [RUINER](games/r/ruiner.md) | 4.53 | 23 | 481 |
+| 508 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.53 | 0 | 505 |
+| 508 | [UnMetal](games/u/unmetal.md) | 4.53 | 0 | 505 |
+| 508 | [VALORANT](games/v/valorant.md) | 4.53 | 60,576 | 10 |
+| 508 | [Verdun](games/v/verdun.md) | 4.53 | 95 | 338 |
 | 521 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.52 | 23 | 481 |
 | 521 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 753 | 157 |
 | 521 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 40 | 420 |
@@ -557,7 +557,7 @@
 | 552 | [CryoFall](games/c/cryofall.md) | 4.50 | 0 | 505 |
 | 552 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 90 | 345 |
 | 552 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 505 |
-| 552 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 35,673 | 13 |
+| 552 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 35,689 | 13 |
 | 552 | [Duskers](games/d/duskers.md) | 4.50 | 0 | 505 |
 | 552 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 0 | 505 |
 | 552 | [First Class Trouble](games/f/first_class_trouble.md) | 4.50 | 111 | 320 |
