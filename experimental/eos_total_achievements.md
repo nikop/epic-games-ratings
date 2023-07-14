@@ -19,6 +19,7 @@
 | [Football Manager 2022](../games/f/football_manager_2022.md) | 98 | 1,000 |
 | [Supraland](../games/s/supraland.md) | 98 | 1,000 |
 | [McPixel 3](../games/m/mcpixel_3.md) | 93 | 1,000 |
+| [Train Valley 2](../games/t/train_valley_2.md) | 89 | 1,300 |
 | [Project Highrise](../games/p/project_highrise.md) | 88 | 1,000 |
 | [Rocket League®](../games/r/rocket_league®.md) | 88 | 1,000 |
 | [The Dungeon of Naheulbeuk](../games/t/the_dungeon_of_naheulbeuk.md) | 88 | 1,490 |
@@ -36,7 +37,6 @@
 | [Fallout: New Vegas](../games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 75 | 1,655 |
 | [Firestone Online Idle RPG](../games/f/firestone_online_idle_rpg.md) | 75 | 1,000 |
 | [Iratus: Lord of the Dead](../games/i/iratus__lord_of_the_dead.md) | 75 | 1,000 |
-| [Train Valley 2](../games/t/train_valley_2.md) | 75 | 1,140 |
 | [Quest Hunter](../games/b/b72f5f79f855471e9691ff22e4967656.md) | 74 | 1,110 |
 | [Shotgun Farmers](../games/s/shotgun_farmers.md) | 74 | 1,150 |
 | [Mokoko X](../games/c/cace077f51674e66b937ba8d5646fff7.md) | 73 | 1,000 |

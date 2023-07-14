@@ -15,6 +15,7 @@
 | [Gotham Knights](../games/g/gotham_knights.md) | 61 | 1,390 |
 | [Sifu](../games/s/sifu.md) | 50 | 1,350 |
 | [Serial Cleaners](../games/s/serial_cleaners.md) | 24 | 1,300 |
+| [Train Valley 2](../games/t/train_valley_2.md) | 89 | 1,300 |
 | [Hi-Fi RUSH](../games/h/hi-fi_rush.md) | 71 | 1,250 |
 | [Destiny 2](../games/d/destiny_2.md) | 23 | 1,240 |
 | [Rogue Legacy 2](../games/r/rogue_legacy_2.md) | 39 | 1,240 |
@@ -28,7 +29,6 @@
 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](../games/p/pathfinder__wrath_of_the_righteous.md) | 116 | 1,150 |
 | [Shotgun Farmers](../games/s/shotgun_farmers.md) | 74 | 1,150 |
 | [Warhammer 40,000: Chaos Gate - Daemonhunters](../games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 59 | 1,150 |
-| [Train Valley 2](../games/t/train_valley_2.md) | 75 | 1,140 |
 | [Quest Hunter](../games/b/b72f5f79f855471e9691ff22e4967656.md) | 74 | 1,110 |
 | [GRIME](../games/g/grime.md) | 42 | 1,100 |
 | [Saints Row](../games/s/saints_row.md) | 53 | 1,075 |

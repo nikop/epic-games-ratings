@@ -5,7 +5,7 @@
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 300,065 | 4.68 | 241 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 198,433 | 4.68 | 241 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 185,862 | 4.19 | 846 |
-| 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 158,728 | 4.88 | 19 |
+| 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 158,970 | 4.88 | 19 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 144,070 | 4.52 | 521 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 112,896 | 4.69 | 216 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 73,052 | 4.62 | 346 |
@@ -35,12 +35,12 @@
 | 33 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,305 | 4.69 | 216 |
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 10,818 | 4.45 | 624 |
 | 35 | [Satisfactory](games/s/satisfactory.md) | 10,600 | 4.88 | 19 |
-| 36 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,461 | 4.78 | 99 |
+| 36 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,471 | 4.78 | 99 |
 | 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,449 | 4.61 | 362 |
 | 38 | [SnowRunner](games/s/snowrunner.md) | 9,154 | 4.76 | 118 |
 | 39 | [Control](games/c/control.md) | 8,394 | 4.60 | 390 |
 | 40 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 8,367 | 4.58 | 422 |
-| 41 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 7,705 | 4.89 | 12 |
+| 41 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 7,715 | 4.89 | 12 |
 | 42 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,688 | 4.85 | 41 |
 | 43 | [Supraland](games/s/supraland.md) | 7,641 | 4.61 | 362 |
 | 44 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,572 | 4.57 | 439 |
@@ -61,7 +61,7 @@
 | 59 | [Prey](games/p/prey.md) | 5,605 | 4.62 | 346 |
 | 60 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,540 | 4.69 | 216 |
 | 61 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,517 | 4.85 | 41 |
-| 62 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,455 | 4.75 | 132 |
+| 62 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,462 | 4.75 | 132 |
 | 63 | [Dead Island 2](games/d/dead_island_2.md) | 5,185 | 4.54 | 491 |
 | 64 | [Rogue Company](games/r/rogue_company.md) | 5,135 | 4.33 | 756 |
 | 65 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 5,116 | 4.57 | 439 |
