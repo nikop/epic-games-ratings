@@ -7024,10 +7024,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 45687,
       "NumberOfAwardsMax": 5540
+    },
+    {
+      "Time": "2023-07-13T23:57:55.2508459+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 45689,
+      "NumberOfAwardsMax": 5540
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45687,
+  "NumberOfAwards": 45689,
   "NumberOfAwardsMax": 5540,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -7077,7 +7083,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 5121
+      "Count": 5123
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -7098,9 +7104,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 69319,
+  "EOS_Progressed": 69331,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2993,
+  "EOS_NewPlayers": 2997,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16243,6 +16249,11 @@
       "Time": "2023-07-13T23:03:27.6275938+00:00",
       "NumProgressed": 69319,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-14T00:04:09.8648534+00:00",
+      "NumProgressed": 69331,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -16382,7 +16393,7 @@
       "Name": "Agressive Expander",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "achievement_albania_or_iberia",
@@ -16646,7 +16657,7 @@
       "Name": "Blockader",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "achievement_blood_for_the_sky_god",
@@ -16694,7 +16705,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 4159
+      "UsersEstimate": 4160
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -16790,7 +16801,7 @@
       "Name": "Combined Arms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "achievement_consulate_of_the_sea",
@@ -16910,7 +16921,7 @@
       "Name": "Double the Love",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "achievement_dovmonts_own",
@@ -17086,7 +17097,7 @@
       "Name": "For the Glory",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3466
+      "UsersEstimate": 3467
     },
     {
       "ID": "achievement_forever_golden",
@@ -17174,7 +17185,7 @@
       "Name": "Gentle Persuasion",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "achievement_georgia_on_my_mind",
@@ -17278,7 +17289,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 4159
+      "UsersEstimate": 4160
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -17822,7 +17833,7 @@
       "Name": "My armies are invincible!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "achievement_my_true_friend",
@@ -18118,7 +18129,7 @@
       "Name": "Queen of Conquest",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "achievement_queen_of_mercury",
@@ -18206,7 +18217,7 @@
       "Name": "Royal Authority",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "achievement_rozwi_empire",
@@ -18254,7 +18265,7 @@
       "Name": "Seriously?!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 4159
+      "UsersEstimate": 4160
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -18806,7 +18817,7 @@
       "Name": "Total Control",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "achievement_trade_hegemon",
@@ -18868,9 +18879,9 @@
       "ID": "achievement_trustworthy",
       "SetID": "8p2n7he",
       "Name": "Trustworthy",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 555
+      "UsersEstimate": 624
     },
     {
       "ID": "achievement_turkish_delight",
@@ -18918,7 +18929,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 6239
+      "UsersEstimate": 6240
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -19085,21 +19096,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 69319,
+      "Progressed": 69331,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 69319,
+      "Progressed": 69331,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-07-13T20:58:00.3484304+00:00",
-  "LastChanged_Achievements": "2023-07-13T23:03:27.6275933+00:00",
+  "LastChanged": "2023-07-13T23:57:55.2508452+00:00",
+  "LastChanged_Achievements": "2023-07-14T00:04:09.8648532+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:36.5478418+00:00",
-  "LastUpdate_Ratings": "2023-07-13T22:57:40.9117692+00:00",
-  "LastUpdate_Achievements": "2023-07-13T23:03:27.6286048+00:00"
+  "LastUpdate_Ratings": "2023-07-13T23:57:55.2508465+00:00",
+  "LastUpdate_Achievements": "2023-07-14T00:04:09.8664417+00:00"
 }

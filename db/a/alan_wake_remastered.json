@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57298,
+  "EOS_Progressed": 57299,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 367,
+  "EOS_NewPlayers": 368,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7872,6 +7872,11 @@
       "Time": "2023-07-13T23:04:07.2829986+00:00",
       "NumProgressed": 57298,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-14T00:04:48.9126497+00:00",
+      "NumProgressed": 57299,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7883,7 +7888,7 @@
       "Name": "Follow the Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 19481
+      "UsersEstimate": 19482
     },
     {
       "ID": "02",
@@ -8131,7 +8136,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14897
+      "UsersEstimate": 14898
     },
     {
       "ID": "33",
@@ -8155,7 +8160,7 @@
       "Name": "Let There Be Light",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 15470
+      "UsersEstimate": 15471
     },
     {
       "ID": "36",
@@ -8418,21 +8423,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57298,
+      "Progressed": 57299,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20766,
+      "Progressed": 20767,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-13T23:04:07.2829983+00:00",
+  "LastChanged_Achievements": "2023-07-14T00:04:48.9126492+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:08.3646753+00:00",
-  "LastUpdate_Ratings": "2023-07-13T22:58:01.166613+00:00",
-  "LastUpdate_Achievements": "2023-07-13T23:04:07.2830806+00:00"
+  "LastUpdate_Ratings": "2023-07-13T23:58:15.729563+00:00",
+  "LastUpdate_Achievements": "2023-07-14T00:04:48.9127497+00:00"
 }

@@ -41,7 +41,7 @@ Rating: 4.41 (Ranked 673)
 | Regicide | 9.00% | ~256 |
 | Heavy Steps | 9.00% | ~256 |
 | Flawless Victory | 8.00% | ~228 |
-| This Went Smoothly | 7.00% | ~200 |
+| This Went Smoothly | 8.00% | ~228 |
 | Perfect Enhancements | 6.00% | ~171 |
 | The True Experience | 5.00% | ~142 |
 | Hardened In The Heat Of Battle | 4.00% | ~114 |

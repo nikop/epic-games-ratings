@@ -6,14 +6,14 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,239 |
+| Until death do us apart | 9.00% | ~6,240 |
 | That's a Grand Army | 8.00% | ~5,546 |
 | That is mine! | 8.00% | ~5,546 |
 | Victorious! | 8.00% | ~5,546 |
-| Brothers in Arms | 6.00% | ~4,159 |
-| That's a Grand Navy | 6.00% | ~4,159 |
-| Seriously?! | 6.00% | ~4,159 |
-| For the Glory | 5.00% | ~3,466 |
+| Brothers in Arms | 6.00% | ~4,160 |
+| That's a Grand Navy | 6.00% | ~4,160 |
+| Seriously?! | 6.00% | ~4,160 |
+| For the Glory | 5.00% | ~3,467 |
 | Cold War | 4.00% | ~2,773 |
 | True Catholic | 4.00% | ~2,773 |
 | Defender of the Faith | 3.00% | ~2,080 |
@@ -22,15 +22,15 @@ Number of Ratings: 8,414  (23.09.2022)
 | Respected | 3.00% | ~2,080 |
 | The Princess is in this Castle | 3.00% | ~2,080 |
 | Truly Divine Ruler | 3.00% | ~2,080 |
-| Agressive Expander | 2.00% | ~1,386 |
-| Blockader | 2.00% | ~1,386 |
-| Combined Arms | 2.00% | ~1,386 |
-| Double the Love | 2.00% | ~1,386 |
-| Gentle Persuasion | 2.00% | ~1,386 |
-| My armies are invincible! | 2.00% | ~1,386 |
-| Queen of Conquest | 2.00% | ~1,386 |
-| Royal Authority | 2.00% | ~1,386 |
-| Total Control | 2.00% | ~1,386 |
+| Agressive Expander | 2.00% | ~1,387 |
+| Blockader | 2.00% | ~1,387 |
+| Combined Arms | 2.00% | ~1,387 |
+| Double the Love | 2.00% | ~1,387 |
+| Gentle Persuasion | 2.00% | ~1,387 |
+| My armies are invincible! | 2.00% | ~1,387 |
+| Queen of Conquest | 2.00% | ~1,387 |
+| Royal Authority | 2.00% | ~1,387 |
+| Total Control | 2.00% | ~1,387 |
 | All That's Thine Shall Be Mine | 1.00% | ~693 |
 | Azur semé de lis or | 1.00% | ~693 |
 | Bright Spark | 1.00% | ~693 |
@@ -42,8 +42,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | This navy can take it all | 1.00% | ~693 |
 | Isn't this the way to India? | 0.90% | ~624 |
 | Market Control | 0.90% | ~624 |
+| Trustworthy | 0.90% | ~624 |
 | Down Under | 0.80% | ~555 |
-| Trustworthy | 0.80% | ~555 |
 | Electable! | 0.70% | ~485 |
 | Populists in Government | 0.70% | ~485 |
 | All belongs to Mother Russia | 0.60% | ~416 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69,319 (Ranked 73)  
+Progressed: 69,331 (Ranked 73)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -446,9 +446,10 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-11 | 68,569 | 0 |
 | 2023-07-12 | 68,921 | 0 |
 | 2023-07-13 | 69,319 | 0 |
+| 2023-07-14 | 69,331 | 0 |
 ## Awards
 Max (Educational): 5,540  (Ranked 60)  
-Sum: 45,687 (Ranked 27)  
+Sum: 45,689 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -457,7 +458,7 @@ Diff (max vs sum): 33
 | This game has Challenging Combat | 5,264 |
 | This game is Extremely Fun | 5,252 |
 | This game has Diverse Characters | 5,212 |
-| This game is Relaxing | 5,121 |
+| This game is Relaxing | 5,123 |
 | This game has Competitive Players | 4,974 |
 | This game has Amazing Storytelling | 4,690 |
 | This game has Amazing Characters | 4,334 |
@@ -642,4 +643,4 @@ Diff (max vs sum): 33
 | 2023-07-10 | 4.69 | - | 5,527 | 45,607 |
 | 2023-07-11 | 4.69 | - | 5,533 | 45,642 |
 | 2023-07-12 | 4.69 | - | 5,537 | 45,667 |
-| 2023-07-13 | 4.69 | - | 5,540 | 45,687 |
+| 2023-07-13 | 4.69 | - | 5,540 | 45,689 |

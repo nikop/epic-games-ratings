@@ -6,27 +6,27 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 77.00% | ~9,500 |
-| Sword Runner | 63.00% | ~7,773 |
+| Longrunner | 77.00% | ~9,501 |
+| Sword Runner | 63.00% | ~7,774 |
 | Running out of breath | 55.00% | ~6,786 |
 | Wallrunner | 55.00% | ~6,786 |
-| Homerunner | 46.00% | ~5,675 |
-| Out of order | 46.00% | ~5,675 |
-| I call it luck | 45.00% | ~5,552 |
+| Homerunner | 46.00% | ~5,676 |
+| Out of order | 46.00% | ~5,676 |
+| I call it luck | 45.00% | ~5,553 |
 | Where are my Keys? | 42.00% | ~5,182 |
-| Back to hell | 38.00% | ~4,688 |
+| Back to hell | 38.00% | ~4,689 |
 | Perfection | 33.00% | ~4,072 |
 | Why not both | 31.00% | ~3,825 |
-| Sword to a gunfight | 30.00% | ~3,701 |
+| Sword to a gunfight | 30.00% | ~3,702 |
+| Upgrades not mandatory | 30.00% | ~3,702 |
 | Artificial selection | 29.00% | ~3,578 |
-| Upgrades not mandatory | 29.00% | ~3,578 |
 | Control freak | 28.00% | ~3,455 |
 | Running Wild | 28.00% | ~3,455 |
-| Finish line | 27.00% | ~3,331 |
+| Finish line | 27.00% | ~3,332 |
 | Unstoppable force | 23.00% | ~2,838 |
-| Wave of mutilation | 22.00% | ~2,714 |
+| Wave of mutilation | 22.00% | ~2,715 |
 | Can't Run Can't Hide | 18.00% | ~2,221 |
-| R is for Running | 17.00% | ~2,097 |
+| R is for Running | 17.00% | ~2,098 |
 | Dead in the air | 15.00% | ~1,851 |
 | Improvise, adapt, overrun | 13.00% | ~1,604 |
 | Pre-empative strike | 13.00% | ~1,604 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~49 |
 | Up Close And Personal | 0.40% | ~49 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,338 (Ranked 114)  
+Progressed: 12,339 (Ranked 114)  
 Completed: 51 (0.41%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,6 +137,7 @@ Completed: 51 (0.41%) (Ranked 136)
 | 2023-07-11 | 12,200 | 51 |
 | 2023-07-12 | 12,268 | 51 |
 | 2023-07-13 | 12,338 | 51 |
+| 2023-07-14 | 12,339 | 51 |
 ## Awards
 Max (Great Boss Battles): 471  (Ranked 196)  
 Sum: 608 (Ranked 288)  

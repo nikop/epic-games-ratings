@@ -16,6 +16,7 @@ Rating: 4.19 (Ranked 846)
 | Float Like A Butterfly | 2.00% | ~314 |
 | Reforged | 2.00% | ~314 |
 | Paper Jams | 2.00% | ~314 |
+| Without A Paddle | 2.00% | ~314 |
 | In the Pipe, Five by Five | 2.00% | ~314 |
 | What Lies Beneath | 2.00% | ~314 |
 | Crash Site | 2.00% | ~314 |
@@ -27,7 +28,6 @@ Rating: 4.19 (Ranked 846)
 | The Commonality | 1.00% | ~157 |
 | The Outer Way | 1.00% | ~157 |
 | If the SHU Fits... | 1.00% | ~157 |
-| Without A Paddle | 1.00% | ~157 |
 | Desperate Times | 1.00% | ~157 |
 | One Last Job | 1.00% | ~36 |
 | In Striking Distance | 0.80% | ~126 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 846)
 | I am the Danger | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,707 (Ranked 109)  
+Progressed: 15,708 (Ranked 109)  
 Completed: 66 (0.42%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,6 +137,7 @@ Completed: 66 (0.42%) (Ranked 134)
 | 2023-07-11 | 15,692 | 66 |
 | 2023-07-12 | 15,701 | 66 |
 | 2023-07-13 | 15,707 | 66 |
+| 2023-07-14 | 15,708 | 66 |
 ## Awards
 Max (Amazing Storytelling): 68  (Ranked 374)  
 Sum: 384 (Ranked 316)  

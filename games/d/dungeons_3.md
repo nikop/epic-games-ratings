@@ -7,22 +7,22 @@ Number of Ratings: 1,635  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Shadow strikes | 70.00% | ~16,598 |
-| The Evilest Evil | 59.00% | ~13,989 |
-| Twistram is devastated | 58.00% | ~13,752 |
+| The Evilest Evil | 59.00% | ~13,990 |
+| Twistram is devastated | 58.00% | ~13,753 |
 | The Gehenna Stones | 50.00% | ~11,856 |
-| No one has to die today! | 46.00% | ~10,907 |
+| No one has to die today! | 46.00% | ~10,908 |
 | Death and destruction! | 45.00% | ~10,670 |
 | The Swamplanders from the swamplands | 44.00% | ~10,433 |
 | The One-Huge-Army-Building Evil | 41.00% | ~9,722 |
 | Rusty Steel | 41.00% | ~9,722 |
-| The last burger | 38.00% | ~9,010 |
-| Braiiiiins! | 38.00% | ~9,010 |
+| The last burger | 38.00% | ~9,011 |
+| Braiiiiins! | 38.00% | ~9,011 |
 | Hands off the Dungeonheart! | 37.00% | ~8,773 |
 | A trip on sea, what fun it can be | 35.00% | ~8,299 |
 | Damned good | 33.00% | ~7,825 |
 | Stock Market Crash | 32.00% | ~7,588 |
 | Factory farming | 32.00% | ~7,588 |
-| Not-So-Overproud | 30.00% | ~7,113 |
+| Not-So-Overproud | 30.00% | ~7,114 |
 | For a handfull of Catapults | 29.00% | ~6,876 |
 | Shadow hunter | 29.00% | ~6,876 |
 | Thirst quencher | 28.00% | ~6,639 |
@@ -35,7 +35,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Angel of Fire | 25.00% | ~5,928 |
 | Where there is Light, there is Shadow | 24.00% | ~5,691 |
 | At the foot of Mount Destiny | 23.00% | ~5,454 |
-| The Force disturbed | 22.00% | ~5,216 |
+| The Force disturbed | 22.00% | ~5,217 |
 | The Victorious Evil | 20.00% | ~4,742 |
 | We don’t have time! | 20.00% | ~4,742 |
 | Chorus of damnation | 19.00% | ~4,505 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~474 |
 | Sacrifices! | 2.00% | ~474 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,711 (Ranked 99)  
+Progressed: 23,712 (Ranked 99)  
 Completed: 197 (0.83%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,6 +152,7 @@ Completed: 197 (0.83%) (Ranked 107)
 | 2023-07-11 | 23,532 | 197 |
 | 2023-07-12 | 23,619 | 197 |
 | 2023-07-13 | 23,711 | 197 |
+| 2023-07-14 | 23,712 | 197 |
 ## Awards
 Max (Great for Beginners): 331  (Ranked 225)  
 Sum: 2,588 (Ranked 172)  

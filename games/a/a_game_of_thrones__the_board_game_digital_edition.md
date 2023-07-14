@@ -6,13 +6,13 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~7,366 |
+| Conqueror | 40.00% | ~7,367 |
 | Battering Crew | 20.00% | ~3,683 |
 | The Kingsroad | 18.00% | ~3,315 |
 | Well Stocked | 14.00% | ~2,578 |
 | Royal Fleet | 14.00% | ~2,578 |
-| The Kraken’s Grasp | 9.00% | ~1,657 |
-| Alliance | 9.00% | ~1,657 |
+| The Kraken’s Grasp | 9.00% | ~1,658 |
+| Alliance | 9.00% | ~1,658 |
 | Daggers in the Dark | 8.00% | ~1,473 |
 | Oathkeeper | 8.00% | ~1,473 |
 | Influential | 8.00% | ~1,473 |
@@ -24,12 +24,12 @@ Number of Ratings: 2,500  (23.09.2022)
 | Hear me Roar! | 6.00% | ~1,105 |
 | Defender of the Wall | 6.00% | ~1,105 |
 | Growing Strong | 5.00% | ~921 |
-| What is Dead may Never Die | 3.00% | ~552 |
-| The Swift | 3.00% | ~552 |
+| What is Dead may Never Die | 3.00% | ~553 |
+| The Swift | 3.00% | ~553 |
 | King in the North | 2.00% | ~368 |
 | War of the Five Kings | 1.00% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,416 (Ranked 105)  
+Progressed: 18,417 (Ranked 105)  
 Completed: 36 (0.20%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,9 +114,10 @@ Completed: 36 (0.20%) (Ranked 163)
 | 2023-07-11 | 18,272 | 36 |
 | 2023-07-12 | 18,338 | 36 |
 | 2023-07-13 | 18,416 | 36 |
+| 2023-07-14 | 18,417 | 36 |
 ## Awards
 Max (Quickly Understood Controls): 123  (Ranked 307)  
-Sum: 784 (Ranked 259)  
+Sum: 785 (Ranked 259)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
@@ -125,7 +126,7 @@ Diff (max vs sum): 48
 | This game is Highly Recommended | 109 |
 | This game has Competitive Players | 98 |
 | This game is Relaxing | 95 |
-| This game has Amazing Storytelling | 91 |
+| This game has Amazing Storytelling | 92 |
 | This game has Amazing Characters | 85 |
 | This game has a Competitive Community | 73 |
 | This game has Playful Visuals | 20 |
@@ -212,3 +213,4 @@ Diff (max vs sum): 48
 | 2023-06-04 | 4.20 | - | 123 | 782 |
 | 2023-06-18 | 4.20 | - | 123 | 783 |
 | 2023-06-24 | 4.20 | - | 123 | 784 |
+| 2023-07-14 | 4.20 | - | 123 | 785 |

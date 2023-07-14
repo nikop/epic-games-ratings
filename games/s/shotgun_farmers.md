@@ -10,7 +10,7 @@
 | First Blood | 50.00% | ~102 |
 | Aspairagus | 50.00% | ~76 |
 | Cornivore | 47.00% | ~95 |
-| I Believe I Can Fly | 44.00% | ~89 |
+| I Believe I Can Fly | 45.00% | ~91 |
 | No Asperascope | 43.00% | ~87 |
 | Early Survivor | 40.00% | ~61 |
 | No Diggity | 39.00% | ~60 |
@@ -29,8 +29,8 @@
 | Oh My Gourd | 11.00% | ~17 |
 | Summers Here | 11.00% | ~17 |
 | Getting Started | 10.00% | ~20 |
+| Quit Horsin' Around | 10.00% | ~20 |
 | Fresh Pancake | 9.00% | ~18 |
-| Quit Horsin' Around | 9.00% | ~18 |
 | Eggtraordinary | 9.00% | ~18 |
 | Perfect | 9.00% | ~14 |
 | Bring Home The Bacon | 7.00% | ~14 |

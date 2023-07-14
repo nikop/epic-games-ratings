@@ -16,11 +16,11 @@
 | Lights and shadows | 32.00% | ~24 |
 | The threshold of horror | 30.00% | ~23 |
 | Second document retrieved | 28.00% | ~21 |
-| Third document retrieved | 25.00% | ~19 |
-| Deadly chase | 25.00% | ~19 |
+| Third document retrieved | 26.00% | ~20 |
+| Deadly chase | 26.00% | ~20 |
+| The lowest floor of the lift | 25.00% | ~19 |
 | Dara's home | 25.00% | ~19 |
-| The lowest floor of the lift | 24.00% | ~18 |
-| Charon's coin | 22.00% | ~17 |
+| Charon's coin | 24.00% | ~18 |
 | Until death do us part | 21.00% | ~16 |
 | The impatient one | 18.00% | ~14 |
 | Spectres from the past | 7.00% | ~5 |

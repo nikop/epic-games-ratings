@@ -368,9 +368,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "8d3ci0",
       "Name": "Duck invasion",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -384,9 +384,9 @@
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "8d3ci0",
       "Name": "Ducks adrift",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -424,17 +424,17 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "8d3ci0",
       "Name": "Family pond",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "8d3ci0",
       "Name": "Make a wish",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 33
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -495,8 +495,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-13T23:04:54.9857506+00:00",
+  "LastChanged_Achievements": "2023-07-14T00:05:35.7738745+00:00",
   "LastUpdate_AppInfo": "2023-07-08T11:56:59.3518994+00:00",
-  "LastUpdate_Ratings": "2023-07-13T22:57:06.8868691+00:00",
-  "LastUpdate_Achievements": "2023-07-13T23:04:54.9857622+00:00"
+  "LastUpdate_Ratings": "2023-07-13T23:57:20.5391305+00:00",
+  "LastUpdate_Achievements": "2023-07-14T00:05:35.7738927+00:00"
 }

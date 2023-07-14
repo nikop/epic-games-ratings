@@ -31,6 +31,7 @@ Rating: 4.11 (Ranked 887)
 | Challenger | 10.00% | ~163 |
 | Hunter | 10.00% | ~163 |
 | Relic Of The Past | 10.00% | ~163 |
+| Scroll Master | 10.00% | ~163 |
 | The power of Awakening | 10.00% | ~163 |
 | Daily Quest Completionist | 9.00% | ~147 |
 | Doing My Part | 9.00% | ~147 |
@@ -38,7 +39,6 @@ Rating: 4.11 (Ranked 887)
 | Frostfire Liberator | 9.00% | ~147 |
 | Mastery | 9.00% | ~147 |
 | Moving Up The Ladder | 9.00% | ~147 |
-| Scroll Master | 9.00% | ~147 |
 | Here We Go Again | 7.00% | ~114 |
 | Master Enchanter | 7.00% | ~114 |
 | The Expeditioner | 7.00% | ~114 |

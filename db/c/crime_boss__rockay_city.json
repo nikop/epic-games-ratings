@@ -3,7 +3,7 @@
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 925,
-  "Ranking_Popularity": 220,
+  "Ranking_Popularity": 219,
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 201,
@@ -2446,11 +2446,17 @@
       "Rating": 3.93,
       "NumberOfAwards": 1719,
       "NumberOfAwardsMax": 361
+    },
+    {
+      "Time": "2023-07-14T00:00:56.3736654+00:00",
+      "Rating": 3.93,
+      "NumberOfAwards": 1720,
+      "NumberOfAwardsMax": 362
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 1719,
-  "NumberOfAwardsMax": 361,
+  "NumberOfAwards": 1720,
+  "NumberOfAwardsMax": 362,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -2463,7 +2469,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 361
+      "Count": 362
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2502,7 +2508,7 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 68844,
+  "EOS_Progressed": 68846,
   "EOS_Completed": 36,
   "EOS_NewPlayers": 402,
   "EOS_NewCompleters": 0,
@@ -11312,6 +11318,11 @@
       "Time": "2023-07-13T23:04:43.3583092+00:00",
       "NumProgressed": 68844,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-07-14T00:05:24.6105631+00:00",
+      "NumProgressed": 68846,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 37,
@@ -11323,7 +11334,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 34422
+      "UsersEstimate": 34423
     },
     {
       "ID": "ACH_0011",
@@ -11339,7 +11350,7 @@
       "Name": "Roid Ranger",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 14457
+      "UsersEstimate": 14458
     },
     {
       "ID": "ACH_0013",
@@ -11419,7 +11430,7 @@
       "Name": "Freebooter",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6884
+      "UsersEstimate": 6885
     },
     {
       "ID": "ACH_0061",
@@ -11467,7 +11478,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 44749
+      "UsersEstimate": 44750
     },
     {
       "ID": "ACH_0210",
@@ -11475,7 +11486,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 50945
+      "UsersEstimate": 50946
     },
     {
       "ID": "ACH_0211",
@@ -11491,7 +11502,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 32357
+      "UsersEstimate": 32358
     },
     {
       "ID": "ACH_0300",
@@ -11539,7 +11550,7 @@
       "Name": "Case Closed",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 23407
+      "UsersEstimate": 23408
     },
     {
       "ID": "ACH_0420",
@@ -11547,7 +11558,7 @@
       "Name": "King of the Hill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 23407
+      "UsersEstimate": 23408
     },
     {
       "ID": "ACH_0430",
@@ -11555,7 +11566,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 24095
+      "UsersEstimate": 24096
     },
     {
       "ID": "ACH_0431",
@@ -11571,7 +11582,7 @@
       "Name": "True Player",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 13080
+      "UsersEstimate": 13081
     },
     {
       "ID": "ACH_0450",
@@ -11579,7 +11590,7 @@
       "Name": "Off the Rocks",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 13080
+      "UsersEstimate": 13081
     },
     {
       "ID": "ACH_0451",
@@ -11595,7 +11606,7 @@
       "Name": "Dragonslayer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11703
+      "UsersEstimate": 11704
     },
     {
       "ID": "ACH_0460",
@@ -11618,16 +11629,16 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 68844,
+      "Progressed": 68846,
       "Completed": 36
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-07-13T19:00:01.5738365+00:00",
-  "LastChanged_Achievements": "2023-07-13T23:04:43.3583089+00:00",
+  "LastChanged": "2023-07-14T00:00:56.3736651+00:00",
+  "LastChanged_Achievements": "2023-07-14T00:05:24.6105626+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:23.2557502+00:00",
-  "LastUpdate_Ratings": "2023-07-13T23:00:43.0157789+00:00",
-  "LastUpdate_Achievements": "2023-07-13T23:04:43.3583706+00:00"
+  "LastUpdate_Ratings": "2023-07-14T00:00:56.373666+00:00",
+  "LastUpdate_Achievements": "2023-07-14T00:05:24.6106929+00:00"
 }

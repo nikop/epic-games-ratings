@@ -354,9 +354,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2578,
+  "EOS_Progressed": 2579,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.88,
   "EosHistory": [
@@ -1889,6 +1889,11 @@
       "Time": "2023-07-13T21:05:25.5325882+00:00",
       "NumProgressed": 2578,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-07-14T00:05:20.8636562+00:00",
+      "NumProgressed": 2579,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 14,
@@ -1916,7 +1921,7 @@
       "Name": "Cat Person",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "ACH_CLIMBER",
@@ -1996,7 +2001,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 30,
       "XP": 80,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -2011,7 +2016,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2578,
+      "Progressed": 2579,
       "Completed": 100
     }
   ],
@@ -2019,8 +2024,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-07-02T20:01:16.6679969+00:00",
-  "LastChanged_Achievements": "2023-07-13T23:04:39.6833545+00:00",
+  "LastChanged_Achievements": "2023-07-14T00:05:20.8636556+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:49.0605246+00:00",
-  "LastUpdate_Ratings": "2023-07-13T23:01:05.4877616+00:00",
-  "LastUpdate_Achievements": "2023-07-13T23:04:39.6833709+00:00"
+  "LastUpdate_Ratings": "2023-07-14T00:01:17.5863081+00:00",
+  "LastUpdate_Achievements": "2023-07-14T00:05:20.8636744+00:00"
 }

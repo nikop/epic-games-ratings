@@ -1360,10 +1360,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 2161,
       "NumberOfAwardsMax": 243
+    },
+    {
+      "Time": "2023-07-13T23:59:50.4242441+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 2162,
+      "NumberOfAwardsMax": 243
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2161,
+  "NumberOfAwards": 2162,
   "NumberOfAwardsMax": 243,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1419,7 +1425,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 209
+      "Count": 210
     },
     {
       "Text": "This game is Relaxing",
@@ -1440,7 +1446,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 24209,
+  "EOS_Progressed": 24210,
   "EOS_Completed": 46,
   "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
@@ -7825,6 +7831,11 @@
       "Time": "2023-07-13T23:01:34.6954567+00:00",
       "NumProgressed": 24209,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-07-14T00:03:17.6869421+00:00",
+      "NumProgressed": 24210,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 51,
@@ -7852,7 +7863,7 @@
       "Name": "Back Off",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 8473
+      "UsersEstimate": 8474
     },
     {
       "ID": "Best_Insurance",
@@ -7860,7 +7871,7 @@
       "Name": "We have the best insurance",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 6536
+      "UsersEstimate": 6537
     },
     {
       "ID": "Catostrophic_Destroyer",
@@ -7916,7 +7927,7 @@
       "Name": "Diabolical",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3873
+      "UsersEstimate": 3874
     },
     {
       "ID": "Discovery",
@@ -7924,7 +7935,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 14767
+      "UsersEstimate": 14768
     },
     {
       "ID": "Dont_Need_These",
@@ -7956,7 +7967,7 @@
       "Name": "Escape Artist",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3873
+      "UsersEstimate": 3874
     },
     {
       "ID": "Fragile_Panes",
@@ -8004,7 +8015,7 @@
       "Name": "Legions",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 6294
+      "UsersEstimate": 6295
     },
     {
       "ID": "Liability",
@@ -8084,7 +8095,7 @@
       "Name": "Right back at ya",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 6294
+      "UsersEstimate": 6295
     },
     {
       "ID": "Rivalry",
@@ -8100,7 +8111,7 @@
       "Name": "Seasoned",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 3873
+      "UsersEstimate": 3874
     },
     {
       "ID": "Side_Hustle",
@@ -8108,7 +8119,7 @@
       "Name": "Side Hustle",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6536
+      "UsersEstimate": 6537
     },
     {
       "ID": "Skilled",
@@ -8132,7 +8143,7 @@
       "Name": "Stunner",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 6294
+      "UsersEstimate": 6295
     },
     {
       "ID": "Stylish",
@@ -8140,7 +8151,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 20820
+      "UsersEstimate": 20821
     },
     {
       "ID": "Summoner",
@@ -8148,7 +8159,7 @@
       "Name": "Summoner",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6536
+      "UsersEstimate": 6537
     },
     {
       "ID": "Surprise",
@@ -8220,7 +8231,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 11620
+      "UsersEstimate": 11621
     },
     {
       "ID": "Welcome_Crew",
@@ -8243,16 +8254,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 24209,
+      "Progressed": 24210,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-07-13T20:59:54.9683679+00:00",
-  "LastChanged_Achievements": "2023-07-13T23:01:34.6954564+00:00",
+  "LastChanged": "2023-07-13T23:59:50.4242439+00:00",
+  "LastChanged_Achievements": "2023-07-14T00:03:17.6869414+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:03.6661628+00:00",
-  "LastUpdate_Ratings": "2023-07-13T22:59:36.8198397+00:00",
-  "LastUpdate_Achievements": "2023-07-13T23:01:34.695523+00:00"
+  "LastUpdate_Ratings": "2023-07-13T23:59:50.4242446+00:00",
+  "LastUpdate_Achievements": "2023-07-14T00:03:17.6870513+00:00"
 }

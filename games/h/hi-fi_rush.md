@@ -22,8 +22,8 @@ Rating: 4.87 (Ranked 24)
 | Alright, that felt AWESOME! | 1.00% | ~34 |
 | NOW we got a kickass hideout! | 1.00% | ~20 |
 | Start with a bang! | 0.90% | ~31 |
+| Time to pay up! | 0.90% | ~31 |
 | You must like calling me in, Chai | 0.90% | ~31 |
-| Time to pay up! | 0.80% | ~28 |
 | Who's the boss now? | 0.80% | ~28 |
 | I have to read these things? | 0.80% | ~28 |
 | Feeling the beat! | 0.80% | ~28 |

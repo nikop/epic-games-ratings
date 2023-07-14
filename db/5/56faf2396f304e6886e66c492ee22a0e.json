@@ -2,9 +2,9 @@
   "ID": "56faf2396f304e6886e66c492ee22a0e",
   "Name": "Hush Hush",
   "ProductSlug": "hush-hush-5c1fa0",
-  "Ranking_EOS_Progress": 457,
+  "Ranking_EOS_Progress": 439,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-07-31T00:00:00+00:00",
@@ -19,15 +19,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-07-12T22:00:45.1451899+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-14T00:03:35.8276782+00:00",
+      "NumProgressed": 2,
       "NumCompleted": 0
     }
   ],
@@ -47,9 +52,9 @@
       "ID": "ACHIEVEMENT_Ach_MioIntro_Cleavage",
       "SetID": "70j9o42",
       "Name": "A Load Of The Goods",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_Ach_MioScene4_Flex",
@@ -71,7 +76,7 @@
       "ID": "ACHIEVEMENT_Ach_SpeedrunFail",
       "SetID": "70j9o42",
       "Name": "Speed Run!",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -95,9 +100,9 @@
       "ID": "ACHIEVEMENT_Cassie_Death2_Failed",
       "SetID": "70j9o42",
       "Name": "No Such Thing As Bad Pizza",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_Dorian_Impress_D2",
@@ -352,13 +357,13 @@
     {
       "ID": "70j9o42",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-12T17:04:29.8033729+00:00",
-  "LastChanged_Achievements": "2023-07-13T23:02:23.3449727+00:00",
+  "LastChanged_Achievements": "2023-07-14T00:03:35.8276777+00:00",
   "LastUpdate_AppInfo": "2023-07-11T05:57:06.0025765+00:00",
-  "LastUpdate_Ratings": "2023-07-13T22:57:09.5380302+00:00",
-  "LastUpdate_Achievements": "2023-07-13T23:02:23.3449958+00:00"
+  "LastUpdate_Ratings": "2023-07-13T23:57:23.1348528+00:00",
+  "LastUpdate_Achievements": "2023-07-14T00:03:35.827706+00:00"
 }

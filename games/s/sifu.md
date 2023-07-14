@@ -11,11 +11,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Old Grandmaster | 2.00% | ~14,214 |
 | The Assault | 2.00% | ~14,214 |
 | The Hateful Pole Fighter | 2.00% | ~14,214 |
+| A Lady's Blood in the Snow | 2.00% | ~14,214 |
 | Life is your teacher | 2.00% | ~14,214 |
 | State of constant learning | 2.00% | ~14,214 |
 | Qi Gong: Breath | 2.00% | ~14,214 |
 | Lightning Hands | 2.00% | ~14,214 |
-| A Lady's Blood in the Snow | 1.00% | ~7,107 |
 | Lady Wing Chun | 1.00% | ~7,107 |
 | Furious Fists | 1.00% | ~7,107 |
 | Scareless | 1.00% | ~7,107 |

@@ -15,7 +15,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2942,
+  "EOS_Progressed": 2943,
   "EOS_Completed": 97,
   "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 8,
@@ -3425,6 +3425,11 @@
       "Time": "2023-07-13T17:05:30.8194405+00:00",
       "NumProgressed": 2942,
       "NumCompleted": 97
+    },
+    {
+      "Time": "2023-07-14T00:06:26.3043023+00:00",
+      "NumProgressed": 2943,
+      "NumCompleted": 97
     }
   ],
   "TotalAchievements": 24,
@@ -3442,9 +3447,9 @@
       "ID": "10",
       "SetID": "9p3jgda",
       "Name": "EXTRA BOOST",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1236
+      "UsersEstimate": 1207
     },
     {
       "ID": "11",
@@ -3460,7 +3465,7 @@
       "Name": "TRAINING HARD",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "13",
@@ -3476,7 +3481,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1207
     },
     {
       "ID": "15",
@@ -3498,9 +3503,9 @@
       "ID": "17",
       "SetID": "9p3jgda",
       "Name": "BE OUR GUEST",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 324
+      "UsersEstimate": 294
     },
     {
       "ID": "18",
@@ -3508,7 +3513,7 @@
       "Name": "ACE BRAWLER",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "19",
@@ -3516,7 +3521,7 @@
       "Name": "DEFEAT OUR CHAMPION",
       "Percentage": 13,
       "XP": 85,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "2",
@@ -3588,7 +3593,7 @@
       "Name": "ROOKIE",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1559
+      "UsersEstimate": 1560
     },
     {
       "ID": "6",
@@ -3627,13 +3632,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2942,
+      "Progressed": 2943,
       "Completed": 97
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-07-13T23:05:46.5274368+00:00",
+  "LastChanged_Achievements": "2023-07-14T00:06:26.3043018+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:58.7714419+00:00",
-  "LastUpdate_Ratings": "2023-07-13T22:59:33.0928114+00:00",
-  "LastUpdate_Achievements": "2023-07-13T23:05:46.527465+00:00"
+  "LastUpdate_Ratings": "2023-07-13T23:59:45.6340709+00:00",
+  "LastUpdate_Achievements": "2023-07-14T00:06:26.3043701+00:00"
 }

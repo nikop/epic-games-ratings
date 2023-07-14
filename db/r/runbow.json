@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 246513,
+  "EOS_Progressed": 246514,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 367,
+  "EOS_NewPlayers": 366,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8229,6 +8229,11 @@
       "Time": "2023-07-13T23:06:59.494279+00:00",
       "NumProgressed": 246513,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-14T00:07:38.2974137+00:00",
+      "NumProgressed": 246514,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -8336,7 +8341,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 44372
+      "UsersEstimate": 44373
     },
     {
       "ID": "curator",
@@ -8440,7 +8445,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 64093
+      "UsersEstimate": 64094
     },
     {
       "ID": "justABit",
@@ -8480,7 +8485,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 123256
+      "UsersEstimate": 123257
     },
     {
       "ID": "notScared",
@@ -8607,7 +8612,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 246513,
+      "Progressed": 246514,
       "Completed": 3
     }
   ],
@@ -8615,8 +8620,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-07-13T23:06:59.4942787+00:00",
+  "LastChanged_Achievements": "2023-07-14T00:07:38.2974131+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:16.5016071+00:00",
-  "LastUpdate_Ratings": "2023-07-13T22:59:46.267919+00:00",
-  "LastUpdate_Achievements": "2023-07-13T23:06:59.494345+00:00"
+  "LastUpdate_Ratings": "2023-07-13T23:59:59.9410682+00:00",
+  "LastUpdate_Achievements": "2023-07-14T00:07:38.2976066+00:00"
 }
