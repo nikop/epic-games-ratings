@@ -321,6 +321,7 @@
 | [Outward Definitive Edition](../games/o/outward.md) | 42 | 1,000 |
 | [Overloop](../games/o/overloop.md) | 21 | 1,000 |
 | [Oxide Room 104](../games/o/oxide_room_104.md) | 31 | 1,000 |
+| [Palladium: Adventure in Greece](../games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 41 | 1,000 |
 | [Panic Porcupine](../games/p/panic_porcupine.md) | 13 | 1,000 |
 | [Partisans 1941](../games/p/partisans_1941.md) | 30 | 1,000 |
 | [PAW Patrol Mighty Pups Save Adventure Bay](../games/p/paw_patrol_mighty_pups_save_adventure_bay.md) | 30 | 1,000 |
