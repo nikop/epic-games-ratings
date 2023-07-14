@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 246544,
+  "EOS_Progressed": 246547,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 367,
+  "EOS_NewPlayers": 364,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8294,6 +8294,11 @@
       "Time": "2023-07-14T14:06:39.5755215+00:00",
       "NumProgressed": 246544,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-14T15:06:39.5694327+00:00",
+      "NumProgressed": 246547,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -8329,7 +8334,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 51774
+      "UsersEstimate": 51775
     },
     {
       "ID": "blotbuster",
@@ -8361,7 +8366,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 41912
+      "UsersEstimate": 41913
     },
     {
       "ID": "cantBeKeptDown",
@@ -8481,7 +8486,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 130668
+      "UsersEstimate": 130670
     },
     {
       "ID": "indegestible",
@@ -8505,7 +8510,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 64101
+      "UsersEstimate": 64102
     },
     {
       "ID": "justABit",
@@ -8537,7 +8542,7 @@
       "Name": "Muddy Waters",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 34516
+      "UsersEstimate": 34517
     },
     {
       "ID": "myFirstRunbow",
@@ -8545,7 +8550,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 123272
+      "UsersEstimate": 123274
     },
     {
       "ID": "notScared",
@@ -8609,7 +8614,7 @@
       "Name": "The Stunner",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 51774
+      "UsersEstimate": 51775
     },
     {
       "ID": "thunderstruck",
@@ -8665,14 +8670,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 39447
+      "UsersEstimate": 39448
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 246544,
+      "Progressed": 246547,
       "Completed": 3
     }
   ],
@@ -8680,8 +8685,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-07-14T14:06:39.5755211+00:00",
+  "LastChanged_Achievements": "2023-07-14T15:06:39.5694322+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:16.5016071+00:00",
-  "LastUpdate_Ratings": "2023-07-14T13:59:39.2418619+00:00",
-  "LastUpdate_Achievements": "2023-07-14T14:06:39.5755864+00:00"
+  "LastUpdate_Ratings": "2023-07-14T14:59:56.8088592+00:00",
+  "LastUpdate_Achievements": "2023-07-14T15:06:39.5695189+00:00"
 }

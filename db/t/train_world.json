@@ -25,9 +25,411 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-07-14T15:04:55.3907399+00:00",
+  "TotalAchievements": 50,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "all_capitals_connected",
+      "SetID": "5ia1dkp",
+      "Name": "Capital Connection",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "all_regions_unlocked",
+      "SetID": "5ia1dkp",
+      "Name": "World Explorer",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "bulk_replace",
+      "SetID": "5ia1dkp",
+      "Name": "Mass Upgrade",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "company_billion",
+      "SetID": "5ia1dkp",
+      "Name": "Billionaire Club",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "complete_tutorial",
+      "SetID": "5ia1dkp",
+      "Name": "Trainee",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "diesel_engine",
+      "SetID": "5ia1dkp",
+      "Name": "Diesel Dream",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "electric_engine",
+      "SetID": "5ia1dkp",
+      "Name": "Electric Avenue",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "fifty_cars_train",
+      "SetID": "5ia1dkp",
+      "Name": "Super Long Train",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "first_line",
+      "SetID": "5ia1dkp",
+      "Name": "Line Up",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "five_cities_connected",
+      "SetID": "5ia1dkp",
+      "Name": "Cross Country",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "five_hundred_passengers_waiting",
+      "SetID": "5ia1dkp",
+      "Name": "Busy Station",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "five_trains_line",
+      "SetID": "5ia1dkp",
+      "Name": "Five Alive",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "full_first_era_unlocked",
+      "SetID": "5ia1dkp",
+      "Name": "Old School",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "full_second_era_unlocked",
+      "SetID": "5ia1dkp",
+      "Name": "Modern Times",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "full_third_era_unlocked",
+      "SetID": "5ia1dkp",
+      "Name": "Future Proof",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "hundred_cars_train",
+      "SetID": "5ia1dkp",
+      "Name": "Ultra Long Train",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "hundred_million_company",
+      "SetID": "5ia1dkp",
+      "Name": "Money Train",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "hundred_passengers",
+      "SetID": "5ia1dkp",
+      "Name": "Full House",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "hundred_trains_active",
+      "SetID": "5ia1dkp",
+      "Name": "Train Tycoon",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "hundred_twenty_speed",
+      "SetID": "5ia1dkp",
+      "Name": "Speed Demon",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "large_loan",
+      "SetID": "5ia1dkp",
+      "Name": "Big Spender",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "late_era_steam",
+      "SetID": "5ia1dkp",
+      "Name": "Steam Punk",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "late_era_unlocked",
+      "SetID": "5ia1dkp",
+      "Name": "Future Vision",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "long_bridge",
+      "SetID": "5ia1dkp",
+      "Name": "Bridge Over Troubled Water",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "long_line",
+      "SetID": "5ia1dkp",
+      "Name": "One Line Wonder",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "long_tunnel",
+      "SetID": "5ia1dkp",
+      "Name": "Tunnel Vision",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "machines",
+      "SetID": "5ia1dkp",
+      "Name": "Machine Maker",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "mid_era_unlocked",
+      "SetID": "5ia1dkp",
+      "Name": "Time Traveler",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "million_from_freight",
+      "SetID": "5ia1dkp",
+      "Name": "Cargo King",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "million_from_passengers",
+      "SetID": "5ia1dkp",
+      "Name": "People Mover",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "multi_freight",
+      "SetID": "5ia1dkp",
+      "Name": "Mixed Bag",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "only_electric",
+      "SetID": "5ia1dkp",
+      "Name": "Green Energy",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "region_cities_connected",
+      "SetID": "5ia1dkp",
+      "Name": "Regional Express",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "region_industries_connected",
+      "SetID": "5ia1dkp",
+      "Name": "Industrial Giant",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "steam_engine",
+      "SetID": "5ia1dkp",
+      "Name": "Steam Power",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "task_complete",
+      "SetID": "5ia1dkp",
+      "Name": "Task Apprentice",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ten_cities_connected",
+      "SetID": "5ia1dkp",
+      "Name": "Urban Network",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ten_industries_connected",
+      "SetID": "5ia1dkp",
+      "Name": "Supply Chain",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ten_tasks_complete",
+      "SetID": "5ia1dkp",
+      "Name": "Task Master",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ten_trains",
+      "SetID": "5ia1dkp",
+      "Name": "Train Spotter",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "thousand_freight_train",
+      "SetID": "5ia1dkp",
+      "Name": "Mega Train",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "three_hundred_freight_train",
+      "SetID": "5ia1dkp",
+      "Name": "Heavy Load",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "three_hundred_passengers",
+      "SetID": "5ia1dkp",
+      "Name": "Crowd Pleaser",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "three_hundred_speed",
+      "SetID": "5ia1dkp",
+      "Name": "Bullet Train",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "three_loans",
+      "SetID": "5ia1dkp",
+      "Name": "Money Matters",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "twenty_cars_train",
+      "SetID": "5ia1dkp",
+      "Name": "Long Train",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "twenty_lines",
+      "SetID": "5ia1dkp",
+      "Name": "Line Master",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "two_cities_connected",
+      "SetID": "5ia1dkp",
+      "Name": "City Link",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "two_industries_connected",
+      "SetID": "5ia1dkp",
+      "Name": "Industrial Revolution",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "two_trains_line",
+      "SetID": "5ia1dkp",
+      "Name": "Double Trouble",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "5ia1dkp",
@@ -37,8 +439,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-14T13:20:01.4168917+00:00",
-  "LastChanged_Achievements": "2023-07-14T14:04:44.5046194+00:00",
+  "LastChanged_Achievements": "2023-07-14T15:04:55.390738+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:03.5088236+00:00",
-  "LastUpdate_Ratings": "2023-07-14T13:58:48.2340109+00:00",
-  "LastUpdate_Achievements": "2023-07-14T14:04:44.5046219+00:00"
+  "LastUpdate_Ratings": "2023-07-14T14:59:06.108472+00:00",
+  "LastUpdate_Achievements": "2023-07-14T15:04:55.3907783+00:00"
 }

@@ -5,34 +5,34 @@ Rating: 4.11 (Ranked 887)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,520 |
-| World Map | 79.00% | ~1,291 |
-| Temple of Eternals | 56.00% | ~915 |
-| Prestigious | 53.00% | ~866 |
+| Victor | 93.00% | ~1,521 |
+| World Map | 79.00% | ~1,292 |
+| Temple of Eternals | 56.00% | ~916 |
+| Prestigious | 53.00% | ~867 |
 | Fellowship Power | 41.00% | ~670 |
 | Guild Power | 24.00% | ~392 |
 | Prestigious x10 | 21.00% | ~343 |
-| The game is on | 19.00% | ~310 |
+| The game is on | 19.00% | ~311 |
 | Exotic Merchant | 17.00% | ~278 |
-| Dragon Clicker | 16.00% | ~261 |
-| Miner Clicker | 16.00% | ~261 |
+| Dragon Clicker | 16.00% | ~262 |
+| Miner Clicker | 16.00% | ~262 |
 | Full Party | 15.00% | ~245 |
 | Inspection | 15.00% | ~245 |
 | Dragon Master | 14.00% | ~229 |
 | Enlightenment | 14.00% | ~229 |
 | Hero inspection | 14.00% | ~229 |
 | Lieutenant | 14.00% | ~229 |
-| The Unstoppable | 13.00% | ~212 |
+| The Unstoppable | 13.00% | ~213 |
 | Mysterious Rock | 12.00% | ~196 |
 | Natural Talent | 12.00% | ~196 |
 | Superior | 12.00% | ~196 |
 | Milestone collector | 11.00% | ~180 |
 | Scientist | 11.00% | ~180 |
-| Challenger | 10.00% | ~163 |
-| Hunter | 10.00% | ~163 |
-| Relic Of The Past | 10.00% | ~163 |
-| Scroll Master | 10.00% | ~163 |
-| The power of Awakening | 10.00% | ~163 |
+| Challenger | 10.00% | ~164 |
+| Hunter | 10.00% | ~164 |
+| Relic Of The Past | 10.00% | ~164 |
+| Scroll Master | 10.00% | ~164 |
+| The power of Awakening | 10.00% | ~164 |
 | Daily Quest Completionist | 9.00% | ~147 |
 | Doing My Part | 9.00% | ~147 |
 | Four Leaf Clover | 9.00% | ~147 |
@@ -81,7 +81,7 @@ Rating: 4.11 (Ranked 887)
 | War Machines Army | 0.20% | ~3 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,634 (Ranked 169)  
+Progressed: 1,635 (Ranked 169)  
 Completed: 1 (0.06%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 1 (0.06%) (Ranked 197)
 | 2023-07-11 | 1,617 | 1 |
 | 2023-07-12 | 1,620 | 1 |
 | 2023-07-13 | 1,630 | 1 |
-| 2023-07-14 | 1,634 | 1 |
+| 2023-07-14 | 1,635 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

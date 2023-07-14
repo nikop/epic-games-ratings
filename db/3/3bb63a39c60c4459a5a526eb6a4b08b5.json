@@ -3,9 +3,9 @@
   "Name": "Fly Corp",
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 249,
-  "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_Completed": 141,
+  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 288,
+  "EOS_Progressed": 290,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.35,
+  "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
       "Time": "2023-06-13T17:01:33.4797695+00:00",
@@ -881,6 +881,11 @@
       "Time": "2023-07-14T14:03:48.9437196+00:00",
       "NumProgressed": 288,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-14T15:04:01.1973197+00:00",
+      "NumProgressed": 290,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -908,23 +913,23 @@
       "Name": "Basic Controls",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "BigPlane",
       "SetID": "1e89b4i",
       "Name": "Expensive Plane",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 107
     },
     {
       "ID": "BudgetFlight",
       "SetID": "1e89b4i",
       "Name": "Budget Flight",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 95
+      "UsersEstimate": 93
     },
     {
       "ID": "Calculated",
@@ -978,9 +983,9 @@
       "ID": "Fifty",
       "SetID": "1e89b4i",
       "Name": "Fifty",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 38
     },
     {
       "ID": "First",
@@ -988,7 +993,7 @@
       "Name": "Game Started",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "FullCompletion",
@@ -1018,9 +1023,9 @@
       "ID": "LackOfTime",
       "SetID": "1e89b4i",
       "Name": "Lack of Time",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 38
     },
     {
       "ID": "LargeAirport",
@@ -1098,9 +1103,9 @@
       "ID": "NoTimeForModernization",
       "SetID": "1e89b4i",
       "Name": "No Time for Modernization",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 35
     },
     {
       "ID": "NoWayBack",
@@ -1108,7 +1113,7 @@
       "Name": "No Way Back",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "NotPlanned",
@@ -1156,15 +1161,15 @@
       "Name": "Reliable Transporter",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ResourceEconomy",
       "SetID": "1e89b4i",
       "Name": "Resource Economy",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 93
     },
     {
       "ID": "Restructuring",
@@ -1204,7 +1209,7 @@
       "Name": "Ten!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "TimeForManagement",
@@ -1212,7 +1217,7 @@
       "Name": "Time for Management",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "TransportHub",
@@ -1220,21 +1225,21 @@
       "Name": "Transport Hub",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 288,
+      "Progressed": 290,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-07-14T14:03:48.943719+00:00",
+  "LastChanged_Achievements": "2023-07-14T15:04:01.1973191+00:00",
   "LastUpdate_AppInfo": "2023-07-11T08:57:01.7024715+00:00",
-  "LastUpdate_Ratings": "2023-07-14T13:57:17.9462374+00:00",
-  "LastUpdate_Achievements": "2023-07-14T14:03:48.943753+00:00"
+  "LastUpdate_Ratings": "2023-07-14T14:57:29.5482801+00:00",
+  "LastUpdate_Achievements": "2023-07-14T15:04:01.1973567+00:00"
 }

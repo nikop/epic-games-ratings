@@ -5,47 +5,47 @@ Rating: 4.85 (Ranked 41)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~211,469 |
-| Private Club | 74.00% | ~171,964 |
-| Rogue Guild | 65.00% | ~151,050 |
-| I Watched the Intro | 57.00% | ~132,459 |
-| Covert Consortium | 55.00% | ~127,811 |
-| Goat Queen | 53.00% | ~123,164 |
-| Reach the Stratosphere | 50.00% | ~116,192 |
-| Synchronization Complete | 47.00% | ~109,220 |
-| Secret Society | 45.00% | ~104,573 |
-| Shadow Syndicate | 38.00% | ~88,306 |
-| What a Waste of Money | 33.00% | ~76,687 |
-| New Goat Order | 30.00% | ~69,715 |
-| Don't touch the servers | 28.00% | ~65,068 |
-| San Angora: Become Human | 26.00% | ~60,420 |
-| Raider of the Lost Parking Garage | 26.00% | ~60,420 |
-| Real Buoy | 26.00% | ~60,420 |
-| Welcome to Earth | 25.00% | ~58,096 |
-| Into the Matrix | 19.00% | ~44,153 |
-| Where is It? | 17.00% | ~39,505 |
-| Egg Simulator | 16.00% | ~37,181 |
-| Beauty, Mindfulness and Meditation | 15.00% | ~34,858 |
-| Black Market | 14.00% | ~32,534 |
-| 401(K.O.) | 14.00% | ~32,534 |
-| Car Cave | 12.00% | ~27,886 |
-| Club Mohair | 8.00% | ~18,591 |
-| A Center for Ants? | 8.00% | ~18,591 |
-| French Fika | 7.00% | ~16,267 |
-| Who Baywatches the Baywatch? | 4.00% | ~9,295 |
-| Nasty! | 4.00% | ~9,295 |
-| [REDACTED] | 4.00% | ~9,295 |
+| Forgotten Sorority | 91.00% | ~211,481 |
+| Private Club | 74.00% | ~171,974 |
+| Rogue Guild | 65.00% | ~151,058 |
+| I Watched the Intro | 57.00% | ~132,466 |
+| Covert Consortium | 55.00% | ~127,818 |
+| Goat Queen | 53.00% | ~123,170 |
+| Reach the Stratosphere | 50.00% | ~116,198 |
+| Synchronization Complete | 47.00% | ~109,227 |
+| Secret Society | 45.00% | ~104,579 |
+| Shadow Syndicate | 38.00% | ~88,311 |
+| What a Waste of Money | 33.00% | ~76,691 |
+| New Goat Order | 30.00% | ~69,719 |
+| Don't touch the servers | 28.00% | ~65,071 |
+| San Angora: Become Human | 26.00% | ~60,423 |
+| Raider of the Lost Parking Garage | 26.00% | ~60,423 |
+| Real Buoy | 26.00% | ~60,423 |
+| Welcome to Earth | 25.00% | ~58,099 |
+| Into the Matrix | 19.00% | ~44,155 |
+| Where is It? | 17.00% | ~39,507 |
+| Egg Simulator | 16.00% | ~37,184 |
+| Beauty, Mindfulness and Meditation | 15.00% | ~34,860 |
+| Black Market | 14.00% | ~32,536 |
+| 401(K.O.) | 14.00% | ~32,536 |
+| Car Cave | 12.00% | ~27,888 |
+| Club Mohair | 8.00% | ~18,592 |
+| A Center for Ants? | 8.00% | ~18,592 |
+| French Fika | 7.00% | ~16,268 |
+| Who Baywatches the Baywatch? | 4.00% | ~9,296 |
+| Nasty! | 4.00% | ~9,296 |
+| [REDACTED] | 4.00% | ~9,296 |
 | Cannibanana | 2.00% | ~4,648 |
 | Daredevil | 2.00% | ~4,648 |
 | You Trusted Your Instincts | 1.00% | ~2,324 |
 | Certified Fresh | 1.00% | ~2,324 |
 | Streaking | 1.00% | ~2,324 |
 | Try Hard 2 | 1.00% | ~2,324 |
-| Crocsquatch | 0.90% | ~2,091 |
+| Crocsquatch | 0.90% | ~2,092 |
 | Move! That! Bus! | 0.60% | ~1,394 |
 | G.O.A.T | 0.30% | ~697 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,384 (Ranked 47)  
+Progressed: 232,397 (Ranked 47)  
 Completed: 770 (0.33%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 770 (0.33%) (Ranked 143)
 | 2023-07-11 | 232,052 | 766 |
 | 2023-07-12 | 232,209 | 768 |
 | 2023-07-13 | 232,333 | 769 |
-| 2023-07-14 | 232,384 | 770 |
+| 2023-07-14 | 232,397 | 770 |
 ## Awards
 Max (Great for Beginners): 362  (Ranked 219)  
 Sum: 3,023 (Ranked 160)  

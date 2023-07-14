@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -337,9 +337,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 4482,
+  "EOS_Progressed": 4483,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1632,6 +1632,11 @@
       "Time": "2023-07-14T00:03:32.269874+00:00",
       "NumProgressed": 4482,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-07-14T15:03:23.3583187+00:00",
+      "NumProgressed": 4483,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 67,
@@ -1643,7 +1648,7 @@
       "Name": "P.A.X",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -1651,7 +1656,7 @@
       "Name": "Firebug",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 896
+      "UsersEstimate": 897
     },
     {
       "ID": "ID_ACHIEV_03",
@@ -1691,7 +1696,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 3810
+      "UsersEstimate": 3811
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -1699,7 +1704,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4213
+      "UsersEstimate": 4214
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -1707,7 +1712,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3451
+      "UsersEstimate": 3452
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -1715,7 +1720,7 @@
       "Name": "Hey Listen",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -1859,7 +1864,7 @@
       "Name": "First Day on the Job",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3451
+      "UsersEstimate": 3452
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -1891,7 +1896,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 2465
+      "UsersEstimate": 2466
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -1907,7 +1912,7 @@
       "Name": "Most Wanted",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1165
+      "UsersEstimate": 1166
     },
     {
       "ID": "ID_ACHIEV_36",
@@ -2089,9 +2094,9 @@
       "ID": "ID_ACHIEV_58",
       "SetID": "98bke8c",
       "Name": "Is This Real Life?",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 403
+      "UsersEstimate": 359
     },
     {
       "ID": "ID_ACHIEV_59",
@@ -2178,15 +2183,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4482,
+      "Progressed": 4483,
       "Completed": 15
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-07-06T14:58:32.669808+00:00",
-  "LastChanged_Achievements": "2023-07-14T14:03:11.6298292+00:00",
+  "LastChanged_Achievements": "2023-07-14T15:03:23.3583182+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:35.225015+00:00",
-  "LastUpdate_Ratings": "2023-07-14T13:58:31.7862081+00:00",
-  "LastUpdate_Achievements": "2023-07-14T14:03:11.6298908+00:00"
+  "LastUpdate_Ratings": "2023-07-14T14:58:43.984713+00:00",
+  "LastUpdate_Achievements": "2023-07-14T15:03:23.3583996+00:00"
 }

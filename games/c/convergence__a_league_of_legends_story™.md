@@ -17,17 +17,17 @@
 | The Wicked Twins | 14.00% | ~105 |
 | The Prince in Heels | 14.00% | ~105 |
 | Immaculate Aim | 14.00% | ~105 |
+| Immaculate Aim | 14.00% | ~105 |
 | The Brass Boss | 14.00% | ~105 |
 | The Family Fortune | 14.00% | ~105 |
 | Treasure Trove | 13.00% | ~98 |
 | The Betrayer | 13.00% | ~98 |
 | The Harder They Fall | 13.00% | ~98 |
 | No, Thanks! | 13.00% | ~98 |
+| Golem Chaser | 13.00% | ~98 |
 | Fast Learner | 13.00% | ~98 |
-| Immaculate Aim | 13.00% | ~98 |
 | Like Clockwork | 12.00% | ~90 |
 | Honest Mistake | 12.00% | ~90 |
-| Golem Chaser | 12.00% | ~90 |
 | Check Your Pulse | 12.00% | ~90 |
 | Right On Time | 11.00% | ~83 |
 | Street Style | 11.00% | ~83 |

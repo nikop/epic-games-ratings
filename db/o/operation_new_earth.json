@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 431,
+  "EOS_Progressed": 432,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1506,6 +1506,11 @@
       "Time": "2023-07-14T13:20:20.0231168+00:00",
       "NumProgressed": 431,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-14T15:05:13.816916+00:00",
+      "NumProgressed": 432,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1653,7 +1658,7 @@
       "Name": "Captain",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -1765,7 +1770,7 @@
       "Name": "Factory Expansion",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -1773,7 +1778,7 @@
       "Name": "Defenses Online",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -1820,14 +1825,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 431,
+      "Progressed": 432,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-14T14:05:02.941951+00:00",
+  "LastChanged_Achievements": "2023-07-14T15:05:13.8169155+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:58.5226048+00:00",
-  "LastUpdate_Ratings": "2023-07-14T14:00:51.1774192+00:00",
-  "LastUpdate_Achievements": "2023-07-14T14:05:02.9419856+00:00"
+  "LastUpdate_Ratings": "2023-07-14T15:01:08.7233425+00:00",
+  "LastUpdate_Achievements": "2023-07-14T15:05:13.8169531+00:00"
 }

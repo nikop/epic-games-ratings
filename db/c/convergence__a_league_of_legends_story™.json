@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 753,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -1925,9 +1925,9 @@
       "ID": "ScrambotProgress1",
       "SetID": "a9e499d",
       "Name": "Golem Chaser",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 98
     },
     {
       "ID": "SkillCompletion1",
@@ -1989,9 +1989,9 @@
       "ID": "TimewinderMultiKill1",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 105
     },
     {
       "ID": "WarwickDefeated",
@@ -2044,8 +2044,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-14T14:06:41.6576265+00:00",
+  "LastChanged_Achievements": "2023-07-14T15:06:41.6740126+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:34.816735+00:00",
-  "LastUpdate_Ratings": "2023-07-14T13:59:49.662882+00:00",
-  "LastUpdate_Achievements": "2023-07-14T14:06:41.657672+00:00"
+  "LastUpdate_Ratings": "2023-07-14T15:00:09.2359179+00:00",
+  "LastUpdate_Achievements": "2023-07-14T15:06:41.6740717+00:00"
 }

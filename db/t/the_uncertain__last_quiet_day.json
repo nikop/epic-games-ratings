@@ -4,7 +4,7 @@
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 493,
+  "EOS_Progressed": 494,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.04,
   "EosHistory": [
@@ -376,6 +376,11 @@
       "Time": "2023-07-13T23:07:10.2293274+00:00",
       "NumProgressed": 493,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-07-14T15:06:39.7899738+00:00",
+      "NumProgressed": 494,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 32,
@@ -475,7 +480,7 @@
       "Name": "Hands up!",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "HAPPY_HALLOWEEN",
@@ -483,7 +488,7 @@
       "Name": "Trick or Treat?",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "HE_IS_JUST_A_CHILD",
@@ -523,7 +528,7 @@
       "Name": "Meticulous",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "NOT_CLUMSY",
@@ -547,7 +552,7 @@
       "Name": "Now you know",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "PERFECT_HEARING",
@@ -587,7 +592,7 @@
       "Name": "Short circuit",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "SILENT",
@@ -619,7 +624,7 @@
       "Name": "There is another way",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "UNCERTAIN",
@@ -642,7 +647,7 @@
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 493,
+      "Progressed": 494,
       "Completed": 15
     }
   ],
@@ -650,8 +655,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-07-14T14:06:39.7820193+00:00",
+  "LastChanged_Achievements": "2023-07-14T15:06:39.7899734+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:39.7487449+00:00",
-  "LastUpdate_Ratings": "2023-07-14T13:59:12.7625371+00:00",
-  "LastUpdate_Achievements": "2023-07-14T14:06:39.7820365+00:00"
+  "LastUpdate_Ratings": "2023-07-14T14:59:32.7069597+00:00",
+  "LastUpdate_Achievements": "2023-07-14T15:06:39.7899986+00:00"
 }

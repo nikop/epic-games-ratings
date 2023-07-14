@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 642)
 | Das Familienjuwel | 0.10% | ~3 |
 | Stroll in the Woods | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,271 (Ranked 147)  
+Progressed: 3,272 (Ranked 147)  
 Completed: 9 (0.28%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 9 (0.28%) (Ranked 151)
 | 2023-07-11 | 3,263 | 9 |
 | 2023-07-12 | 3,266 | 9 |
 | 2023-07-13 | 3,269 | 9 |
-| 2023-07-14 | 3,271 | 9 |
+| 2023-07-14 | 3,272 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

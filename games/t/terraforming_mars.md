@@ -1,43 +1,43 @@
 # Terraforming Mars
 [Store](https://store.epicgames.com/en-US/p/terraforming-mars-18c3ad)  
 [View Rawdata](../../db/t/terraforming_mars.json)  
-Rating: 4.54 (Ranked 491)  
+Rating: 4.54 (Ranked 492)  
 Number of Ratings: 2,731  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 38.00% | ~25,455 |
-| Final touch | 37.00% | ~24,785 |
-| Prop-M Rover | 33.00% | ~22,105 |
-| Changing the Planet | 29.00% | ~19,426 |
-| Sojourner | 27.00% | ~18,086 |
-| Beagle 2 | 25.00% | ~16,746 |
-| New Home | 24.00% | ~16,077 |
-| Winner Winner Terraformer | 23.00% | ~15,407 |
-| Project Manager | 20.00% | ~13,397 |
-| Curiosity | 20.00% | ~13,397 |
-| Collector | 20.00% | ~13,397 |
-| Self-sufficient | 20.00% | ~13,397 |
-| Master | 20.00% | ~13,397 |
-| No Longer Red | 19.00% | ~12,727 |
-| Money money | 16.00% | ~10,718 |
-| Biggest Reward | 15.00% | ~10,048 |
-| Acquired knowledge | 14.00% | ~9,378 |
-| First Journey | 12.00% | ~8,038 |
-| Most Achievements | 12.00% | ~8,038 |
-| Hellenic Elysium | 12.00% | ~8,038 |
-| Grand champion | 12.00% | ~8,038 |
-| Landlord | 11.00% | ~7,368 |
-| Spirit | 11.00% | ~7,368 |
-| Variety Expert | 10.00% | ~6,699 |
-| Ultimate success | 10.00% | ~6,699 |
-| Frequent tester | 8.00% | ~5,359 |
-| Determined | 8.00% | ~5,359 |
-| Terraformer | 4.00% | ~2,679 |
+| It's a steal! | 38.00% | ~25,459 |
+| Final touch | 37.00% | ~24,789 |
+| Prop-M Rover | 33.00% | ~22,109 |
+| Changing the Planet | 29.00% | ~19,429 |
+| Sojourner | 27.00% | ~18,089 |
+| Beagle 2 | 25.00% | ~16,749 |
+| New Home | 24.00% | ~16,079 |
+| Winner Winner Terraformer | 23.00% | ~15,409 |
+| Project Manager | 20.00% | ~13,399 |
+| Curiosity | 20.00% | ~13,399 |
+| Collector | 20.00% | ~13,399 |
+| Self-sufficient | 20.00% | ~13,399 |
+| Master | 20.00% | ~13,399 |
+| No Longer Red | 19.00% | ~12,729 |
+| Money money | 16.00% | ~10,720 |
+| Biggest Reward | 15.00% | ~10,050 |
+| Acquired knowledge | 14.00% | ~9,380 |
+| First Journey | 12.00% | ~8,040 |
+| Most Achievements | 12.00% | ~8,040 |
+| Hellenic Elysium | 12.00% | ~8,040 |
+| Grand champion | 12.00% | ~8,040 |
+| Landlord | 11.00% | ~7,370 |
+| Spirit | 11.00% | ~7,370 |
+| Ultimate success | 11.00% | ~7,370 |
+| Variety Expert | 10.00% | ~6,700 |
+| Frequent tester | 8.00% | ~5,360 |
+| Determined | 8.00% | ~5,360 |
+| Terraformer | 4.00% | ~2,680 |
 | Team Effort | 3.00% | ~2,010 |
 | Opportunity | 3.00% | ~2,010 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,986 (Ranked 77)  
+Progressed: 66,997 (Ranked 77)  
 Completed: 71 (0.11%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 71 (0.11%) (Ranked 180)
 | 2023-07-11 | 66,668 | 70 |
 | 2023-07-12 | 66,786 | 70 |
 | 2023-07-13 | 66,915 | 71 |
-| 2023-07-14 | 66,986 | 71 |
+| 2023-07-14 | 66,997 | 71 |
 ## Awards
 Max (Relaxing): 503  (Ranked 192)  
 Sum: 3,110 (Ranked 155)  

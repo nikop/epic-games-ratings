@@ -4,7 +4,7 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2000,
+  "EOS_Progressed": 2001,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3616,6 +3616,11 @@
       "Time": "2023-07-14T12:03:19.5566757+00:00",
       "NumProgressed": 2000,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-14T15:03:30.7671059+00:00",
+      "NumProgressed": 2001,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -3731,15 +3736,15 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1200
+      "UsersEstimate": 1201
     },
     {
       "ID": "GUARD_MAKER",
       "SetID": "8lhbnh7",
       "Name": "Guard Maker",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "ISOLATION_MASTER",
@@ -3802,14 +3807,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2000,
+      "Progressed": 2001,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-07-14T14:03:19.282622+00:00",
+  "LastChanged_Achievements": "2023-07-14T15:03:30.7671054+00:00",
   "LastUpdate_AppInfo": "2023-07-11T17:56:54.9709107+00:00",
-  "LastUpdate_Ratings": "2023-07-14T13:57:32.4173719+00:00",
-  "LastUpdate_Achievements": "2023-07-14T14:03:19.2826475+00:00"
+  "LastUpdate_Ratings": "2023-07-14T14:57:45.5047925+00:00",
+  "LastUpdate_Achievements": "2023-07-14T15:03:30.7671425+00:00"
 }
