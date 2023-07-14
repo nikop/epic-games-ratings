@@ -1693,7 +1693,7 @@
       "Count": 71
     }
   ],
-  "EOS_Progressed": 481423,
+  "EOS_Progressed": 481424,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 511,
   "EOS_NewCompleters": 0,
@@ -10373,6 +10373,11 @@
       "Time": "2023-07-14T03:29:27.2443987+00:00",
       "NumProgressed": 481423,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-14T04:06:31.7003972+00:00",
+      "NumProgressed": 481424,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 87,
@@ -10432,7 +10437,7 @@
       "Name": "Boot Camp",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 216640
+      "UsersEstimate": 216641
     },
     {
       "ID": "BURNBABYBURN",
@@ -10480,7 +10485,7 @@
       "Name": "Close Call",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 235897
+      "UsersEstimate": 235898
     },
     {
       "ID": "COMBATTURMOIL",
@@ -10496,7 +10501,7 @@
       "Name": "Confident",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 192569
+      "UsersEstimate": 192570
     },
     {
       "ID": "CORECONTAINER",
@@ -10528,7 +10533,7 @@
       "Name": "Eradicator",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 322553
+      "UsersEstimate": 322554
     },
     {
       "ID": "EXTERMINATOR",
@@ -10536,7 +10541,7 @@
       "Name": "Exterminator",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 173312
+      "UsersEstimate": 173313
     },
     {
       "ID": "FAITHFULCOMPANION",
@@ -10552,7 +10557,7 @@
       "Name": "Field Promotion",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 356253
+      "UsersEstimate": 356254
     },
     {
       "ID": "FILTHYRICH",
@@ -10560,7 +10565,7 @@
       "Name": "Filthy Rich",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 91470
+      "UsersEstimate": 91471
     },
     {
       "ID": "FIREBUG",
@@ -10640,7 +10645,7 @@
       "Name": "Great Ball of Fire",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 154055
+      "UsersEstimate": 154056
     },
     {
       "ID": "GUNCRAZY",
@@ -10672,7 +10677,7 @@
       "Name": "Hey! That\u0027s mine!",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 375510
+      "UsersEstimate": 375511
     },
     {
       "ID": "HIGHVOLTAGE",
@@ -10720,7 +10725,7 @@
       "Name": "Leadhead",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 341810
+      "UsersEstimate": 341811
     },
     {
       "ID": "LIQUIDATOR",
@@ -10792,7 +10797,7 @@
       "Name": "Not So Fast",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 154055
+      "UsersEstimate": 154056
     },
     {
       "ID": "OUTOFBULLETS",
@@ -10832,7 +10837,7 @@
       "Name": "Penny Pincher",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 235897
+      "UsersEstimate": 235898
     },
     {
       "ID": "PEWPEW",
@@ -10912,7 +10917,7 @@
       "Name": "Salvage Rights",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 255154
+      "UsersEstimate": 255155
     },
     {
       "ID": "SAVANTGENIUS",
@@ -10968,7 +10973,7 @@
       "Name": "Surplus",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 312925
+      "UsersEstimate": 312926
     },
     {
       "ID": "TEMPORALWOULDHAVEBEENNICE",
@@ -11079,15 +11084,15 @@
     {
       "ID": "bko38ff",
       "IsBase": true,
-      "Progressed": 481423,
+      "Progressed": 481424,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:21:41.4012807+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:40.5516265+00:00",
   "LastChanged": "2023-07-12T14:59:20.2612006+00:00",
-  "LastChanged_Achievements": "2023-07-14T03:29:27.2443979+00:00",
+  "LastChanged_Achievements": "2023-07-14T04:06:31.7003965+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:05.076446+00:00",
-  "LastUpdate_Ratings": "2023-07-14T03:20:34.378452+00:00",
-  "LastUpdate_Achievements": "2023-07-14T03:29:27.244684+00:00"
+  "LastUpdate_Ratings": "2023-07-14T03:58:47.0002285+00:00",
+  "LastUpdate_Achievements": "2023-07-14T04:06:31.7005594+00:00"
 }

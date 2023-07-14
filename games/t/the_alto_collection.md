@@ -6,15 +6,15 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 26.00% | ~8,040 |
-| Finding Your Footing | 26.00% | ~8,040 |
-| Nomad | 18.00% | ~5,566 |
-| Picking Up Speed | 16.00% | ~4,948 |
+| Rookie | 26.00% | ~8,042 |
+| Finding Your Footing | 26.00% | ~8,042 |
+| Nomad | 18.00% | ~5,567 |
+| Picking Up Speed | 16.00% | ~4,949 |
 | Welcome Maya | 15.00% | ~4,639 |
 | Sightseer | 11.00% | ~3,402 |
-| Scout | 10.00% | ~3,092 |
-| Amateur | 9.00% | ~2,783 |
-| Wanderer | 9.00% | ~2,783 |
+| Scout | 10.00% | ~3,093 |
+| Amateur | 9.00% | ~2,784 |
+| Wanderer | 9.00% | ~2,784 |
 | Enter Paz | 8.00% | ~2,474 |
 | Unlock Maya | 7.00% | ~2,165 |
 | Aviator | 6.00% | ~1,856 |
@@ -27,9 +27,9 @@ Number of Ratings: 332  (23.09.2022)
 | Traveler | 3.00% | ~928 |
 | Journeyer | 3.00% | ~928 |
 | Unlock Paz | 3.00% | ~928 |
-| Pro | 2.00% | ~618 |
-| Human Flight | 2.00% | ~618 |
-| Here Comes Felipe | 2.00% | ~618 |
+| Pro | 2.00% | ~619 |
+| Human Flight | 2.00% | ~619 |
+| Here Comes Felipe | 2.00% | ~619 |
 | Explorer | 1.00% | ~309 |
 | Hoist the Mainsail | 1.00% | ~309 |
 | Unlock Izel | 1.00% | ~309 |
@@ -37,7 +37,7 @@ Number of Ratings: 332  (23.09.2022)
 | Vandal | 1.00% | ~309 |
 | Daredevil | 0.90% | ~278 |
 | Unlock Felipe | 0.80% | ~247 |
-| Adventurer | 0.70% | ~216 |
+| Adventurer | 0.70% | ~217 |
 | Unlock Tupa | 0.40% | ~124 |
 | Master Of The Sands | 0.30% | ~93 |
 | Master | 0.20% | ~62 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~31 |
 | Windswept | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,925 (Ranked 95)  
+Progressed: 30,929 (Ranked 95)  
 Completed: 5 (0.02%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 5 (0.02%) (Ranked 213)
 | 2023-07-11 | 30,618 | 5 |
 | 2023-07-12 | 30,757 | 5 |
 | 2023-07-13 | 30,894 | 5 |
-| 2023-07-14 | 30,925 | 5 |
+| 2023-07-14 | 30,929 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 45  (Ranked 409)  
 Sum: 351 (Ranked 322)  

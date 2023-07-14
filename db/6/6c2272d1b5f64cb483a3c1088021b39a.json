@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 764,
+  "EOS_Progressed": 765,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2216,6 +2216,11 @@
       "Time": "2023-07-14T00:04:43.1040469+00:00",
       "NumProgressed": 764,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-14T04:04:05.5862608+00:00",
+      "NumProgressed": 765,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2227,7 +2232,7 @@
       "Name": "Adventurous 1",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "adventurous_2",
@@ -2251,7 +2256,7 @@
       "Name": "Archmage 1",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "archmage_2",
@@ -2754,14 +2759,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 764,
+      "Progressed": 765,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-07-14T03:25:45.8999537+00:00",
+  "LastChanged_Achievements": "2023-07-14T04:04:05.5862603+00:00",
   "LastUpdate_AppInfo": "2023-07-11T03:11:42.9317837+00:00",
-  "LastUpdate_Ratings": "2023-07-14T03:18:36.7681267+00:00",
-  "LastUpdate_Achievements": "2023-07-14T03:25:45.9000913+00:00"
+  "LastUpdate_Ratings": "2023-07-14T03:57:29.3589859+00:00",
+  "LastUpdate_Achievements": "2023-07-14T04:04:05.5863467+00:00"
 }

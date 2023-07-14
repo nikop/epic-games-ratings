@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57308,
+  "EOS_Progressed": 57309,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 368,
+  "EOS_NewPlayers": 367,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7887,6 +7887,11 @@
       "Time": "2023-07-14T03:25:53.0624501+00:00",
       "NumProgressed": 57308,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-14T04:04:10.3400133+00:00",
+      "NumProgressed": 57309,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7930,7 +7935,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10315
+      "UsersEstimate": 10316
     },
     {
       "ID": "06",
@@ -8026,7 +8031,7 @@
       "Name": "Departure",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3438
+      "UsersEstimate": 3439
     },
     {
       "ID": "18",
@@ -8433,21 +8438,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57308,
+      "Progressed": 57309,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20776,
+      "Progressed": 20777,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-14T03:25:53.0624493+00:00",
+  "LastChanged_Achievements": "2023-07-14T04:04:10.3400126+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:08.3646753+00:00",
-  "LastUpdate_Ratings": "2023-07-14T03:19:40.461304+00:00",
-  "LastUpdate_Achievements": "2023-07-14T03:25:53.062655+00:00"
+  "LastUpdate_Ratings": "2023-07-14T03:58:10.7993268+00:00",
+  "LastUpdate_Achievements": "2023-07-14T04:04:10.3401161+00:00"
 }

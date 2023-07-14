@@ -2338,9 +2338,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 23721,
+  "EOS_Progressed": 23722,
   "EOS_Completed": 197,
-  "EOS_NewPlayers": 776,
+  "EOS_NewPlayers": 775,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
@@ -11263,6 +11263,11 @@
       "Time": "2023-07-14T03:28:51.0888809+00:00",
       "NumProgressed": 23721,
       "NumCompleted": 197
+    },
+    {
+      "Time": "2023-07-14T04:06:12.9453066+00:00",
+      "NumProgressed": 23722,
+      "NumCompleted": 197
     }
   ],
   "TotalAchievements": 60,
@@ -11274,7 +11279,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 13995
+      "UsersEstimate": 13996
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -11290,7 +11295,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 13758
+      "UsersEstimate": 13759
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -11338,7 +11343,7 @@
       "Name": "Difficult family relationships",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 6167
+      "UsersEstimate": 6168
     },
     {
       "ID": "ACH_D3_Campaign_DayNight_1",
@@ -11362,7 +11367,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 8302
+      "UsersEstimate": 8303
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -11386,7 +11391,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 11860
+      "UsersEstimate": 11861
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -11482,7 +11487,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 10437
+      "UsersEstimate": 10438
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -11554,7 +11559,7 @@
       "Name": "Destroy the thing",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 6167
+      "UsersEstimate": 6168
     },
     {
       "ID": "ACH_D3_Campaign_Pain_1",
@@ -11610,7 +11615,7 @@
       "Name": "Can\u2019t stand the sight of Dark Elf blood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 3795
+      "UsersEstimate": 3796
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_2",
@@ -11642,7 +11647,7 @@
       "Name": "A little something extra",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1660
+      "UsersEstimate": 1661
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_Completed",
@@ -11658,7 +11663,7 @@
       "Name": "Death and destruction!",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 10674
+      "UsersEstimate": 10675
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -11714,7 +11719,7 @@
       "Name": "Hearts are trump",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1660
+      "UsersEstimate": 1661
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_Completed",
@@ -11722,7 +11727,7 @@
       "Name": "Not-So-Overproud",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 7116
+      "UsersEstimate": 7117
     },
     {
       "ID": "ACH_D3_Campaign_Water_1",
@@ -11753,15 +11758,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 23721,
+      "Progressed": 23722,
       "Completed": 197
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-07-13T02:26:20.213821+00:00",
-  "LastChanged_Achievements": "2023-07-14T03:28:51.0888801+00:00",
+  "LastChanged_Achievements": "2023-07-14T04:06:12.9453061+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:22.120746+00:00",
-  "LastUpdate_Ratings": "2023-07-14T03:21:49.5880617+00:00",
-  "LastUpdate_Achievements": "2023-07-14T03:28:51.089077+00:00"
+  "LastUpdate_Ratings": "2023-07-14T03:59:36.3134294+00:00",
+  "LastUpdate_Achievements": "2023-07-14T04:06:12.9454226+00:00"
 }
