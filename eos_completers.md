@@ -26,10 +26,10 @@
 | 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.44% |
 | 25 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.25% |
 | 26 | [Smelter](games/s/smelter.md) | 8.11% |
-| 27 | [Ravenlok](games/r/ravenlok.md) | 7.47% |
+| 27 | [Ravenlok](games/r/ravenlok.md) | 7.46% |
 | 28 | [Time Loader](games/t/time_loader.md) | 7.21% |
 | 29 | [Scorn](games/s/scorn.md) | 7.06% |
-| 30 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.89% |
+| 30 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.97% |
 | 31 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.82% |
 | 32 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 33 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
