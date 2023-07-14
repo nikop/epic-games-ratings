@@ -25,17 +25,17 @@ Rating: 4.87 (Ranked 24)
 | Time to pay up! | 0.90% | ~31 |
 | Who's the boss now? | 0.90% | ~31 |
 | I have to read these things? | 0.90% | ~31 |
+| Feeling the beat! | 0.90% | ~31 |
 | You must like calling me in, Chai | 0.90% | ~31 |
-| Feeling the beat! | 0.80% | ~28 |
 | You can pet the cat! | 0.80% | ~28 |
 | Perfecter Parry-er! | 0.70% | ~24 |
 | I look cool. But I can look COOLER. | 0.70% | ~24 |
 | Well that was a rush! | 0.60% | ~21 |
 | Does that say weakpoint? | 0.60% | ~21 |
+| Beat-hit mania | 0.50% | ~17 |
 | That's a lot of junk metal… | 0.50% | ~17 |
 | There's such a thing as TOO helpful | 0.50% | ~17 |
 | Call me Turbo Chai | 0.50% | ~10 |
-| Beat-hit mania | 0.40% | ~14 |
 | New bad guys? No problem! | 0.40% | ~8 |
 | Chip-tuned | 0.30% | ~10 |
 | Wanna hear my playlist? | 0.30% | ~10 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | OK, I THINK I know what I'm doing now | 0.00% | ~0 |
 | Low budget finish | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,441 (Ranked 146)  
+Progressed: 3,442 (Ranked 146)  
 Completed: 5 (0.15%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,6 +161,7 @@ Completed: 5 (0.15%) (Ranked 172)
 | 2023-07-11 | 3,432 | 5 |
 | 2023-07-12 | 3,439 | 5 |
 | 2023-07-13 | 3,441 | 5 |
+| 2023-07-14 | 3,442 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

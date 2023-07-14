@@ -219,9 +219,9 @@
       "ID": "BlueSkeleton",
       "SetID": "a76l54k",
       "Name": "Blue Skeleton",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 200,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "GreenSkeleton",
@@ -235,25 +235,25 @@
       "ID": "OrangeSkeleton",
       "SetID": "a76l54k",
       "Name": "Orange Skeleton",
-      "Percentage": 35,
+      "Percentage": 38,
       "XP": 100,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "RedSkeleton",
       "SetID": "a76l54k",
       "Name": "Red Skeleton",
-      "Percentage": 53,
+      "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "YellowSkeleton",
       "SetID": "a76l54k",
       "Name": "Yellow Skeleton",
-      "Percentage": 15,
+      "Percentage": 18,
       "XP": 200,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
@@ -266,8 +266,8 @@
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2023-07-14T02:30:23.1827011+00:00",
+  "LastChanged_Achievements": "2023-07-14T03:25:57.5584196+00:00",
   "LastUpdate_AppInfo": "2023-07-13T13:14:46.3730919+00:00",
-  "LastUpdate_Ratings": "2023-07-14T02:23:02.5516233+00:00",
-  "LastUpdate_Achievements": "2023-07-14T02:30:23.1827091+00:00"
+  "LastUpdate_Ratings": "2023-07-14T03:18:28.4704233+00:00",
+  "LastUpdate_Achievements": "2023-07-14T03:25:57.5584325+00:00"
 }

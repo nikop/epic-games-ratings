@@ -2896,9 +2896,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 448428,
+  "EOS_Progressed": 448473,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 12291,
+  "EOS_NewPlayers": 12295,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12056,6 +12056,11 @@
       "Time": "2023-07-14T02:33:40.8711286+00:00",
       "NumProgressed": 448428,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-14T03:29:25.0115713+00:00",
+      "NumProgressed": 448473,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 37,
@@ -12067,7 +12072,7 @@
       "Name": "Last Survivor",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 17937
+      "UsersEstimate": 17939
     },
     {
       "ID": "10",
@@ -12075,7 +12080,7 @@
       "Name": "Marksman Master",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 17937
+      "UsersEstimate": 17939
     },
     {
       "ID": "11",
@@ -12083,7 +12088,7 @@
       "Name": "Marksman Expert",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 40359
+      "UsersEstimate": 40363
     },
     {
       "ID": "12",
@@ -12091,7 +12096,7 @@
       "Name": "Marksman Novice",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 85201
+      "UsersEstimate": 85210
     },
     {
       "ID": "13",
@@ -12115,7 +12120,7 @@
       "Name": "Nade King Novice",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3587
+      "UsersEstimate": 3588
     },
     {
       "ID": "16",
@@ -12131,7 +12136,7 @@
       "Name": "Collateral Damage",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 31390
+      "UsersEstimate": 31393
     },
     {
       "ID": "18",
@@ -12139,7 +12144,7 @@
       "Name": "Devil Inside Me",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 139013
+      "UsersEstimate": 139027
     },
     {
       "ID": "19",
@@ -12147,7 +12152,7 @@
       "Name": "Blood on My Hands",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 345290
+      "UsersEstimate": 345324
     },
     {
       "ID": "2",
@@ -12171,7 +12176,7 @@
       "Name": "Killing Spree",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 98654
+      "UsersEstimate": 98664
     },
     {
       "ID": "22",
@@ -12179,7 +12184,7 @@
       "Name": "Trigonometry Novice",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 17937
+      "UsersEstimate": 17939
     },
     {
       "ID": "23",
@@ -12195,7 +12200,7 @@
       "Name": "First Blood",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 62780
+      "UsersEstimate": 62786
     },
     {
       "ID": "25",
@@ -12211,7 +12216,7 @@
       "Name": "First Come, First Served",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 17937
+      "UsersEstimate": 17939
     },
     {
       "ID": "27",
@@ -12227,7 +12232,7 @@
       "Name": "Now You See Me, Now You Don\u0027t",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 53811
+      "UsersEstimate": 53817
     },
     {
       "ID": "29",
@@ -12235,7 +12240,7 @@
       "Name": "Airborne",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 26906
+      "UsersEstimate": 26908
     },
     {
       "ID": "3",
@@ -12243,7 +12248,7 @@
       "Name": "Dynamic Duo",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 17937
+      "UsersEstimate": 17939
     },
     {
       "ID": "30",
@@ -12251,7 +12256,7 @@
       "Name": "Fury Road",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 4484
+      "UsersEstimate": 4485
     },
     {
       "ID": "31",
@@ -12259,7 +12264,7 @@
       "Name": "Guardian Angel",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 174887
+      "UsersEstimate": 174904
     },
     {
       "ID": "32",
@@ -12267,7 +12272,7 @@
       "Name": "Ghost",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 4484
+      "UsersEstimate": 4485
     },
     {
       "ID": "33",
@@ -12291,7 +12296,7 @@
       "Name": "You Complete Me",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 188340
+      "UsersEstimate": 188359
     },
     {
       "ID": "36",
@@ -12299,7 +12304,7 @@
       "Name": "Cruising with the Enemy",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4484
+      "UsersEstimate": 4485
     },
     {
       "ID": "37",
@@ -12307,7 +12312,7 @@
       "Name": "Health Junkie",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 201793
+      "UsersEstimate": 201813
     },
     {
       "ID": "4",
@@ -12315,7 +12320,7 @@
       "Name": "Fantastic Four",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 98654
+      "UsersEstimate": 98664
     },
     {
       "ID": "5",
@@ -12323,7 +12328,7 @@
       "Name": "Top 10",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 58296
+      "UsersEstimate": 58301
     },
     {
       "ID": "6",
@@ -12331,7 +12336,7 @@
       "Name": "Pacifist",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 26906
+      "UsersEstimate": 26908
     },
     {
       "ID": "7",
@@ -12355,14 +12360,14 @@
       "Name": "CQB Novice",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 35874
+      "UsersEstimate": 35878
     }
   ],
   "AchievementSets": [
     {
       "ID": "7ko8h8f",
       "IsBase": true,
-      "Progressed": 448428,
+      "Progressed": 448473,
       "Completed": 10
     }
   ],
@@ -12370,8 +12375,8 @@
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00",
   "LastChanged": "2023-07-14T02:25:28.784955+00:00",
-  "LastChanged_Achievements": "2023-07-14T02:33:40.8711283+00:00",
+  "LastChanged_Achievements": "2023-07-14T03:29:25.0115703+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:28.0608975+00:00",
-  "LastUpdate_Ratings": "2023-07-14T02:25:28.7849557+00:00",
-  "LastUpdate_Achievements": "2023-07-14T02:33:40.8712166+00:00"
+  "LastUpdate_Ratings": "2023-07-14T03:20:54.9951904+00:00",
+  "LastUpdate_Achievements": "2023-07-14T03:29:25.0117263+00:00"
 }

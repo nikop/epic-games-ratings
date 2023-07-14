@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 171,
+  "EOS_Progressed": 172,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -748,6 +748,11 @@
       "Time": "2023-07-13T17:04:16.6853515+00:00",
       "NumProgressed": 171,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-14T03:26:01.5634332+00:00",
+      "NumProgressed": 172,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -813,9 +818,9 @@
       "ID": "ACHIEVEMENT_FIRST_BLOOD",
       "SetID": "2ff85j2",
       "Name": "First Blood",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_GEARS_OF_DOOR",
@@ -998,7 +1003,7 @@
     {
       "ID": "2ff85j2",
       "IsBase": true,
-      "Progressed": 171,
+      "Progressed": 172,
       "Completed": 0
     }
   ],
@@ -1006,8 +1011,8 @@
   "FirstSeenRating": "2023-04-24T10:58:16.802842+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.6712735+00:00",
   "LastChanged": "2023-04-24T10:58:16.8028421+00:00",
-  "LastChanged_Achievements": "2023-07-14T02:30:27.2852666+00:00",
+  "LastChanged_Achievements": "2023-07-14T03:26:01.5634325+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:19:56.4425875+00:00",
-  "LastUpdate_Ratings": "2023-07-14T02:24:01.4993141+00:00",
-  "LastUpdate_Achievements": "2023-07-14T02:30:27.2852909+00:00"
+  "LastUpdate_Ratings": "2023-07-14T03:19:26.4166751+00:00",
+  "LastUpdate_Achievements": "2023-07-14T03:26:01.5634759+00:00"
 }

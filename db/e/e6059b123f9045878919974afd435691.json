@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 561,
+  "EOS_Progressed": 562,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1021,6 +1021,11 @@
       "Time": "2023-07-14T02:30:54.3018715+00:00",
       "NumProgressed": 561,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-14T03:26:28.8661713+00:00",
+      "NumProgressed": 562,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1030,9 +1035,9 @@
       "ID": "AMMO_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "This Isn\u0027t The Last Box",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 309
+      "UsersEstimate": 315
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -1232,7 +1237,7 @@
       "Name": "Greetings from Royalty",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -1264,7 +1269,7 @@
       "Name": "End of Rest",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "FREEM_ACHIEVEMENT_1",
@@ -1320,15 +1325,15 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
       "SetID": "9lcahn0",
       "Name": "Decakill!",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 118
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -1392,7 +1397,7 @@
       "Name": "Don\u0027t Turn Your Back",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -1408,7 +1413,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -1424,7 +1429,7 @@
       "Name": "Night Snack",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -1432,7 +1437,7 @@
       "Name": "To Get Stronger",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "MEAT_ACHIEVEMENT_3",
@@ -1472,7 +1477,7 @@
       "Name": "Beep Beep Boop",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_1",
@@ -1559,14 +1564,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 561,
+      "Progressed": 562,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-14T02:30:54.3018707+00:00",
+  "LastChanged_Achievements": "2023-07-14T03:26:28.8661706+00:00",
   "LastUpdate_AppInfo": "2023-07-13T13:57:00.6642341+00:00",
-  "LastUpdate_Ratings": "2023-07-14T02:22:58.1893106+00:00",
-  "LastUpdate_Achievements": "2023-07-14T02:30:54.3019496+00:00"
+  "LastUpdate_Ratings": "2023-07-14T03:18:24.3198265+00:00",
+  "LastUpdate_Achievements": "2023-07-14T03:26:28.8663019+00:00"
 }

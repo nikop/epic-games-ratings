@@ -33,9 +33,9 @@ Rating: 4.44 (Ranked 642)
 | Close Quarters | 1.00% | ~33 |
 | Snake in the Grass | 1.00% | ~33 |
 | Brains of the Operation | 1.00% | ~33 |
+| Enemy at the Gates | 0.90% | ~29 |
 | Fields of Glory | 0.90% | ~29 |
 | Die Nussknacker Sweet! | 0.90% | ~29 |
-| Enemy at the Gates | 0.80% | ~26 |
 | Tinkerer | 0.80% | ~26 |
 | The Long Game | 0.70% | ~23 |
 | Rigged to Blow | 0.70% | ~23 |

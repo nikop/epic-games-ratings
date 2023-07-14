@@ -28,13 +28,13 @@ Number of Ratings: 111  (23.09.2022)
 | Fulfilled the dream | 5.00% | ~125 |
 | G'Day Mate! | 5.00% | ~125 |
 | Globetrotter | 5.00% | ~125 |
+| Laid back | 5.00% | ~125 |
 | NAHELL! | 5.00% | ~125 |
 | Purple passion | 5.00% | ~125 |
 | Squad goals | 5.00% | ~125 |
 | Cops called! | 4.00% | ~100 |
 | DIY Boss | 4.00% | ~100 |
 | G.O.A.T. status | 4.00% | ~100 |
-| Laid back | 4.00% | ~100 |
 | Lines for days | 4.00% | ~100 |
 | Manny Destroys All | 4.00% | ~100 |
 | Prince of Philly | 4.00% | ~100 |

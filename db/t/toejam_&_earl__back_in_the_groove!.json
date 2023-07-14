@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 55772,
+  "EOS_Progressed": 55777,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5557,6 +5557,11 @@
       "Time": "2023-07-14T02:31:01.1996952+00:00",
       "NumProgressed": 55772,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-14T03:26:35.572565+00:00",
+      "NumProgressed": 55777,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 49,
@@ -5576,7 +5581,7 @@
       "Name": "Backer Visitor",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1116
     },
     {
       "ID": "BoomBox",
@@ -5656,7 +5661,7 @@
       "Name": "Food Taster",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 5019
+      "UsersEstimate": 5020
     },
     {
       "ID": "FoolMeTwice",
@@ -5728,7 +5733,7 @@
       "Name": "Hi Fiver",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1116
     },
     {
       "ID": "IsThisPossible",
@@ -5824,7 +5829,7 @@
       "Name": "Hate That Randomizer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1116
     },
     {
       "ID": "RhythmStar",
@@ -5864,7 +5869,7 @@
       "Name": "Feet on Funkotron",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1116
     },
     {
       "ID": "StruckLove",
@@ -5904,7 +5909,7 @@
       "Name": "Thrill Seeker",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3346
+      "UsersEstimate": 3347
     },
     {
       "ID": "TimelySplash",
@@ -5912,7 +5917,7 @@
       "Name": "A Timely Splash",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1116
     },
     {
       "ID": "TotalBummer",
@@ -5959,7 +5964,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 55772,
+      "Progressed": 55777,
       "Completed": 4
     }
   ],
@@ -5967,8 +5972,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-07-14T02:31:01.1996945+00:00",
+  "LastChanged_Achievements": "2023-07-14T03:26:35.5725642+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:05.8866487+00:00",
-  "LastUpdate_Ratings": "2023-07-14T02:28:01.3419859+00:00",
-  "LastUpdate_Achievements": "2023-07-14T02:31:01.1998186+00:00"
+  "LastUpdate_Ratings": "2023-07-14T03:23:33.2185929+00:00",
+  "LastUpdate_Achievements": "2023-07-14T03:26:35.5726983+00:00"
 }

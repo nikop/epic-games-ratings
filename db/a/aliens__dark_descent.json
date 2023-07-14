@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -138,7 +138,7 @@
   "Tags": [],
   "EOS_Progressed": 2852,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 202,
+  "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2776,9 +2776,9 @@
       "ID": "ACH_PREVENT_ABDUCTED",
       "SetID": "816efe",
       "Name": "Snatched Out",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2082
+      "UsersEstimate": 2110
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -2849,8 +2849,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-13T17:59:49.8527087+00:00",
-  "LastChanged_Achievements": "2023-07-14T02:33:36.5061947+00:00",
+  "LastChanged_Achievements": "2023-07-14T03:29:20.7907476+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:32.529009+00:00",
-  "LastUpdate_Ratings": "2023-07-14T02:26:28.2411886+00:00",
-  "LastUpdate_Achievements": "2023-07-14T02:33:36.5062346+00:00"
+  "LastUpdate_Ratings": "2023-07-14T03:22:01.7134568+00:00",
+  "LastUpdate_Achievements": "2023-07-14T03:29:20.7908328+00:00"
 }
