@@ -15,7 +15,7 @@
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
 | 14 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 13.79% |
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
-| 16 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.13% |
+| 16 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.10% |
 | 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.03% |
 | 18 | [Remains](games/r/remains.md) | 11.63% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.22% |
@@ -41,7 +41,7 @@
 | 39 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.91% |
 | 40 | [JARS](games/j/jars.md) | 4.84% |
 | 41 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
-| 42 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.58% |
+| 42 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.57% |
 | 43 | [Without Escape](games/w/without_escape.md) | 4.55% |
 | 44 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.32% |
 | 45 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.87% |
@@ -188,12 +188,12 @@
 | 183 | [Outward Definitive Edition](games/o/outward.md) | 0.10% |
 | 183 | [Supraland](games/s/supraland.md) | 0.10% |
 | 188 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
+| 188 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.09% |
 | 188 | [Partisans 1941](games/p/partisans_1941.md) | 0.09% |
 | 188 | [Shop Titans](games/s/shop_titans.md) | 0.09% |
 | 188 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
-| 192 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.08% |
-| 192 | [Riverbond](games/r/riverbond.md) | 0.08% |
-| 192 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
+| 193 | [Riverbond](games/r/riverbond.md) | 0.08% |
+| 193 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
 | 195 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
 | 195 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
 | 197 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.06% |
