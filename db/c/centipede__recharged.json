@@ -296,9 +296,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15428,
+  "EOS_Progressed": 15429,
   "EOS_Completed": 97,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -6846,6 +6846,11 @@
       "Time": "2023-07-14T11:04:30.2018531+00:00",
       "NumProgressed": 15428,
       "NumCompleted": 97
+    },
+    {
+      "Time": "2023-07-14T12:03:58.1018069+00:00",
+      "NumProgressed": 15429,
+      "NumCompleted": 97
     }
   ],
   "TotalAchievements": 16,
@@ -6905,7 +6910,7 @@
       "Name": "Fireworks",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 5091
+      "UsersEstimate": 5092
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -6953,7 +6958,7 @@
       "Name": "Shooting Shark",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 7868
+      "UsersEstimate": 7869
     },
     {
       "ID": "Sole_Survivor",
@@ -6961,7 +6966,7 @@
       "Name": "Sole Survivor",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 5708
+      "UsersEstimate": 5709
     },
     {
       "ID": "Still_Burning",
@@ -6984,15 +6989,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 15428,
+      "Progressed": 15429,
       "Completed": 97
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-05-26T21:58:51.5297179+00:00",
-  "LastChanged_Achievements": "2023-07-14T11:04:30.2018525+00:00",
+  "LastChanged_Achievements": "2023-07-14T12:03:58.1018058+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:05.1679058+00:00",
-  "LastUpdate_Ratings": "2023-07-14T11:00:06.3216519+00:00",
-  "LastUpdate_Achievements": "2023-07-14T11:04:30.2019051+00:00"
+  "LastUpdate_Ratings": "2023-07-14T11:59:21.814964+00:00",
+  "LastUpdate_Achievements": "2023-07-14T12:03:58.1019017+00:00"
 }

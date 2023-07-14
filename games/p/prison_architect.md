@@ -6,15 +6,15 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 26.00% | ~38,650 |
-| Get Busy Living | 17.00% | ~25,271 |
-| Samuel Norton | 9.00% | ~13,379 |
-| Spare The Rod | 5.00% | ~7,433 |
-| I May Have Found A Way Out Of Here | 4.00% | ~5,946 |
+| Stone Walls | 26.00% | ~38,657 |
+| Get Busy Living | 17.00% | ~25,276 |
+| Samuel Norton | 9.00% | ~13,381 |
+| Spare The Rod | 5.00% | ~7,434 |
+| I May Have Found A Way Out Of Here | 4.00% | ~5,947 |
 | Don't Put Me In The Dark | 3.00% | ~4,460 |
 | Wait and Hope | 3.00% | ~4,460 |
 | Iron Bars | 3.00% | ~4,460 |
-| Throw The Book At Them | 2.00% | ~2,973 |
+| Throw The Book At Them | 2.00% | ~2,974 |
 | D.B. Cooper | 1.00% | ~1,487 |
 | Reformation | 0.60% | ~892 |
 | Crowd Control | 0.50% | ~743 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~149 |
 | ... It's What You Can Prove | 0.10% | ~149 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 148,655 (Ranked 59)  
+Progressed: 148,681 (Ranked 59)  
 Completed: 5 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,15 +108,15 @@ Completed: 5 (0.00%) (Ranked 236)
 | 2023-07-11 | 147,704 | 5 |
 | 2023-07-12 | 148,074 | 5 |
 | 2023-07-13 | 148,480 | 5 |
-| 2023-07-14 | 148,655 | 5 |
+| 2023-07-14 | 148,681 | 5 |
 ## Awards
 Max (Extremely Fun): 457  (Ranked 199)  
-Sum: 3,550 (Ranked 148)  
+Sum: 3,551 (Ranked 148)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 457 |
-| This game is Great for Beginners | 438 |
+| This game is Great for Beginners | 439 |
 | This game is Highly Recommended | 435 |
 | This game has Quickly Understood Controls | 416 |
 | This game is Relaxing | 404 |
@@ -303,3 +303,4 @@ Diff (max vs sum): 51
 | 2023-07-11 | 4.61 | - | 456 | 3,539 |
 | 2023-07-12 | 4.61 | - | 456 | 3,546 |
 | 2023-07-13 | 4.61 | - | 457 | 3,550 |
+| 2023-07-14 | 4.61 | - | 457 | 3,551 |

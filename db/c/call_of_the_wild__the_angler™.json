@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 387,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -586,9 +586,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4647,
+  "EOS_Progressed": 4648,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4476,6 +4476,11 @@
       "Time": "2023-07-13T22:05:27.4513604+00:00",
       "NumProgressed": 4647,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-14T12:05:20.7015266+00:00",
+      "NumProgressed": 4648,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -4503,7 +4508,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 3067
+      "UsersEstimate": 3068
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -4535,7 +4540,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1905
+      "UsersEstimate": 1906
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -4599,7 +4604,7 @@
       "Name": "Going for Gold",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1116
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -4647,7 +4652,7 @@
       "Name": "I\u0027m Hooked!",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -4766,13 +4771,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 4647,
+      "Progressed": 4648,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 4019,
+      "Progressed": 4020,
       "Completed": 112
     }
   ],
@@ -4780,8 +4785,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-06-29T22:00:44.387661+00:00",
-  "LastChanged_Achievements": "2023-07-14T11:06:09.0980426+00:00",
+  "LastChanged_Achievements": "2023-07-14T12:05:20.7015256+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:07.4773638+00:00",
-  "LastUpdate_Ratings": "2023-07-14T11:00:57.4597287+00:00",
-  "LastUpdate_Achievements": "2023-07-14T11:06:09.0980943+00:00"
+  "LastUpdate_Ratings": "2023-07-14T12:00:09.3772368+00:00",
+  "LastUpdate_Achievements": "2023-07-14T12:05:20.7016224+00:00"
 }

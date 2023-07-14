@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1999,
+  "EOS_Progressed": 2000,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3611,6 +3611,11 @@
       "Time": "2023-07-14T05:03:35.3910554+00:00",
       "NumProgressed": 1999,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-14T12:03:19.5566757+00:00",
+      "NumProgressed": 2000,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -3692,9 +3697,9 @@
       "ID": "FEUD_GRANDMASTER",
       "SetID": "8lhbnh7",
       "Name": "Grandmaster",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "FEUD_NOVICE",
@@ -3726,7 +3731,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1199
+      "UsersEstimate": 1200
     },
     {
       "ID": "GUARD_MAKER",
@@ -3740,9 +3745,9 @@
       "ID": "ISOLATION_MASTER",
       "SetID": "8lhbnh7",
       "Name": "Manipulator",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "KING_MASTERY",
@@ -3764,9 +3769,9 @@
       "ID": "MEDIC_MASTERY",
       "SetID": "8lhbnh7",
       "Name": "Chief Physician",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "REGICIDE_MASTER",
@@ -3797,14 +3802,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1999,
+      "Progressed": 2000,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-07-14T11:03:33.5704652+00:00",
+  "LastChanged_Achievements": "2023-07-14T12:03:19.5566752+00:00",
   "LastUpdate_AppInfo": "2023-07-11T17:56:54.9709107+00:00",
-  "LastUpdate_Ratings": "2023-07-14T10:57:43.9923386+00:00",
-  "LastUpdate_Achievements": "2023-07-14T11:03:33.5705038+00:00"
+  "LastUpdate_Ratings": "2023-07-14T11:57:26.535236+00:00",
+  "LastUpdate_Achievements": "2023-07-14T12:03:19.556753+00:00"
 }

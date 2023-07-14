@@ -5,6 +5,7 @@
 | ---- | ---------- | ----- |
 | Flawless Victory | 6.00% | ~1 |
 | Break Out | 0.00% | ~0 |
+| Find Allies | 0.00% | ~0 |
 | Calm before the Storm | 0.00% | ~0 |
 | To Battle | 0.00% | ~0 |
 | Godslayer | 0.00% | ~0 |
@@ -14,6 +15,7 @@
 | Forgemaster | 0.00% | ~0 |
 | Shardbearer | 0.00% | ~0 |
 | Tributes of Caladrias | 0.00% | ~0 |
+| Essence Blow | 0.00% | ~0 |
 | Shatterer | 0.00% | ~0 |
 | Shatter Them All | 0.00% | ~0 |
 | Slayer | 0.00% | ~0 |
@@ -29,12 +31,10 @@
 | The Collector | 0.00% | ~0 |
 | Feeling Fancy | 0.00% | ~0 |
 | Summiter | 0.00% | ~0 |
-| Find Allies | -5.60% | ~-1 |
 | Powerful Allies | -5.60% | ~-1 |
 | The Mentor | -5.60% | ~-1 |
 | Adventurer | -5.60% | ~-1 |
 | Airborne | -5.60% | ~-1 |
-| Essence Blow | -5.60% | ~-1 |
 | Big Bazar | -5.60% | ~-1 |
 | Alchemist | -5.60% | ~-1 |
 | Stone Collection | -5.60% | ~-1 |
