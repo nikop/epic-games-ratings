@@ -376,7 +376,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6971,
+  "EOS_Progressed": 6972,
   "EOS_Completed": 41,
   "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 1,
@@ -5546,6 +5546,11 @@
       "Time": "2023-07-14T02:30:51.1250019+00:00",
       "NumProgressed": 6971,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-07-14T10:04:44.2710359+00:00",
+      "NumProgressed": 6972,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 29,
@@ -5557,7 +5562,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5786
+      "UsersEstimate": 5787
     },
     {
       "ID": "ACH02",
@@ -5565,7 +5570,7 @@
       "Name": "Without a Scratch",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 2300
+      "UsersEstimate": 2301
     },
     {
       "ID": "ACH03",
@@ -5581,7 +5586,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2579
+      "UsersEstimate": 2580
     },
     {
       "ID": "ACH05",
@@ -5788,7 +5793,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6971,
+      "Progressed": 6972,
       "Completed": 41
     }
   ],
@@ -5796,8 +5801,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-07-10T19:58:18.918804+00:00",
-  "LastChanged_Achievements": "2023-07-14T09:04:11.279924+00:00",
+  "LastChanged_Achievements": "2023-07-14T10:04:44.2710354+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:25.3422771+00:00",
-  "LastUpdate_Ratings": "2023-07-14T08:57:59.6895949+00:00",
-  "LastUpdate_Achievements": "2023-07-14T09:04:11.2799642+00:00"
+  "LastUpdate_Ratings": "2023-07-14T09:58:36.2718283+00:00",
+  "LastUpdate_Achievements": "2023-07-14T10:04:44.2710734+00:00"
 }

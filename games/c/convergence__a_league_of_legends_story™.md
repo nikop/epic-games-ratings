@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 18.00% | ~136 |
+| Rail Rat | 16.00% | ~120 |
 | The Mysterious Stranger | 15.00% | ~113 |
-| Rail Rat | 15.00% | ~113 |
 | The Steel Shadow | 14.00% | ~105 |
 | The Man Who Shattered Time | 14.00% | ~105 |
 | The Loose Cannon | 14.00% | ~105 |

@@ -6,24 +6,24 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 63.00% | ~259 |
+| Explorer | 64.00% | ~263 |
 | Cowardice | 56.00% | ~230 |
 | NO LIFE IS WORTH SAVING... | 48.00% | ~197 |
 | Eat Lead! | 46.00% | ~189 |
+| The Breaking Point | 43.00% | ~177 |
 | Here Comes the Boom | 43.00% | ~177 |
 | Prospector | 42.00% | ~173 |
-| The Breaking Point | 42.00% | ~173 |
 | Treasure Hunter | 39.00% | ~160 |
 | Sniper Wolf | 38.00% | ~156 |
-| The Motivation | 36.00% | ~148 |
+| The Motivation | 37.00% | ~152 |
 | Heroism | 35.00% | ~144 |
 | Missing in Action | 34.00% | ~140 |
 | Collectibles of Chapter I | 33.00% | ~136 |
 | King of Knives | 31.00% | ~127 |
 | Consequences | 30.00% | ~123 |
 | Opportunities | 29.00% | ~119 |
-| The Horror | 27.00% | ~111 |
-| The Difference | 24.00% | ~99 |
+| The Horror | 28.00% | ~115 |
+| The Difference | 25.00% | ~103 |
 | Collectibles of Chapter II | 23.00% | ~95 |
 | Vengeance | 23.00% | ~95 |
 | It's Just an Accident | 22.00% | ~90 |
@@ -31,11 +31,11 @@ Number of Ratings: 34  (23.09.2022)
 | Bullseye! | 20.00% | ~82 |
 | Sorrow | 18.00% | ~74 |
 | Food Massacre | 18.00% | ~74 |
+| Atonement | 16.00% | ~66 |
 | Collectibles of Chapter III | 15.00% | ~62 |
 | Collectibles of Chapter IV | 15.00% | ~62 |
-| Atonement | 15.00% | ~62 |
 | Helping Hand | 15.00% | ~62 |
-| Without a Second Thought | 13.00% | ~53 |
+| Without a Second Thought | 14.00% | ~58 |
 | Collectibles of Chapter V | 10.00% | ~41 |
 | Such is War! | 8.00% | ~33 |
 | Tiptoe Around | 8.00% | ~33 |

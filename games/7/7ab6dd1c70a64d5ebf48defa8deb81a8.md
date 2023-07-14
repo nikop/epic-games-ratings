@@ -9,6 +9,7 @@
 | To Battle | 0.00% | ~0 |
 | Godslayer | 0.00% | ~0 |
 | Clear Sight | 0.00% | ~0 |
+| A Taste of Wrath | 0.00% | ~0 |
 | Forgemaster | 0.00% | ~0 |
 | Shardbearer | 0.00% | ~0 |
 | Tributes of Caladrias | 0.00% | ~0 |
@@ -27,7 +28,6 @@
 | Summiter | 0.00% | ~0 |
 | Find Allies | -5.60% | ~-1 |
 | Powerful Allies | -5.60% | ~-1 |
-| A Taste of Wrath | -5.60% | ~-1 |
 | The Mentor | -5.60% | ~-1 |
 | Trinity | -5.60% | ~-1 |
 | Adventurer | -5.60% | ~-1 |

@@ -4,7 +4,7 @@
   "ProductSlug": "rift-rangers-b3b5fa",
   "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-06-06T13:30:00+00:00",
@@ -534,8 +534,8 @@
   ],
   "FirstSeen": "2023-07-03T08:57:11.4691999+00:00",
   "FirstSeenAchievements": "2023-06-06T14:01:35.6862615+00:00",
-  "LastChanged_Achievements": "2023-07-14T09:04:47.4755937+00:00",
+  "LastChanged_Achievements": "2023-07-14T10:05:29.1079699+00:00",
   "LastUpdate_AppInfo": "2023-07-11T16:57:13.9447987+00:00",
-  "LastUpdate_Ratings": "2023-07-14T08:57:04.9705021+00:00",
-  "LastUpdate_Achievements": "2023-07-14T09:04:47.4756296+00:00"
+  "LastUpdate_Ratings": "2023-07-14T09:57:28.0549412+00:00",
+  "LastUpdate_Achievements": "2023-07-14T10:05:29.1080092+00:00"
 }

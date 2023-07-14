@@ -5,8 +5,8 @@ Rating: 4.62 (Ranked 346)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 4.00% | ~199 |
-| Tipping the Scales | 4.00% | ~199 |
+| Secret Technique | 4.00% | ~200 |
+| Tipping the Scales | 4.00% | ~200 |
 | Full Ascension | 3.00% | ~150 |
 | Realm Estate | 3.00% | ~150 |
 | A Wonderful Discovery | 3.00% | ~150 |
@@ -56,7 +56,7 @@ Rating: 4.62 (Ranked 346)
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,987 (Ranked 136)  
+Progressed: 4,988 (Ranked 136)  
 Completed: 5 (0.10%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 5 (0.10%) (Ranked 183)
 | 2023-07-11 | 4,972 | 5 |
 | 2023-07-12 | 4,977 | 5 |
 | 2023-07-13 | 4,985 | 5 |
-| 2023-07-14 | 4,987 | 5 |
+| 2023-07-14 | 4,988 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

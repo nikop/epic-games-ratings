@@ -224,9 +224,9 @@
       "ID": "ENEMY_1",
       "SetID": "50pdlpn",
       "Name": "Norman the Useless Gyroscope",
-      "Percentage": 81,
+      "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ENEMY_10",
@@ -312,9 +312,9 @@
       "ID": "ENEMY_2",
       "SetID": "50pdlpn",
       "Name": "Vanunu the Heartless but not Soulless Emperor",
-      "Percentage": 70,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ENEMY_20",
@@ -400,9 +400,9 @@
       "ID": "ENEMY_3",
       "SetID": "50pdlpn",
       "Name": "Federic, Norman \u0026 Vanunu",
-      "Percentage": 63,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ENEMY_30",
@@ -424,9 +424,9 @@
       "ID": "ENEMY_4",
       "SetID": "50pdlpn",
       "Name": "Khalil the Grim Ant",
-      "Percentage": 44,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ENEMY_5",
@@ -751,8 +751,8 @@
   ],
   "FirstSeen": "2023-07-03T16:57:31.1356684+00:00",
   "FirstSeenAchievements": "2023-05-08T09:03:21.3999065+00:00",
-  "LastChanged_Achievements": "2023-07-14T09:04:45.6195629+00:00",
+  "LastChanged_Achievements": "2023-07-14T10:05:26.6877323+00:00",
   "LastUpdate_AppInfo": "2023-07-10T13:56:59.3027723+00:00",
-  "LastUpdate_Ratings": "2023-07-14T08:57:22.5423041+00:00",
-  "LastUpdate_Achievements": "2023-07-14T09:04:45.6196221+00:00"
+  "LastUpdate_Ratings": "2023-07-14T09:57:50.664726+00:00",
+  "LastUpdate_Achievements": "2023-07-14T10:05:26.6877924+00:00"
 }

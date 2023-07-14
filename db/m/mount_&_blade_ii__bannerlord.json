@@ -5565,9 +5565,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 55680,
+  "EOS_Progressed": 55684,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 477,
+  "EOS_NewPlayers": 480,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14320,6 +14320,11 @@
       "Time": "2023-07-14T09:06:10.140101+00:00",
       "NumProgressed": 55680,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-14T10:07:20.1268182+00:00",
+      "NumProgressed": 55684,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -14339,7 +14344,7 @@
       "Name": "Apple of my eye",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 7795
+      "UsersEstimate": 7796
     },
     {
       "ID": "Bannerlord",
@@ -14347,7 +14352,7 @@
       "Name": "Bannerlord",
       "Percentage": 21,
       "XP": 65,
-      "UsersEstimate": 11693
+      "UsersEstimate": 11694
     },
     {
       "ID": "Best served cold",
@@ -14371,7 +14376,7 @@
       "Name": "Butterlord",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 4454
+      "UsersEstimate": 4455
     },
     {
       "ID": "Catch",
@@ -14411,7 +14416,7 @@
       "Name": "Duelist",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5011
+      "UsersEstimate": 5012
     },
     {
       "ID": "Dynasty",
@@ -14419,7 +14424,7 @@
       "Name": "Dynasty",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 5011
+      "UsersEstimate": 5012
     },
     {
       "ID": "Entrepreneur",
@@ -14451,7 +14456,7 @@
       "Name": "Freedom!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1670
+      "UsersEstimate": 1671
     },
     {
       "ID": "God of the Arena",
@@ -14499,7 +14504,7 @@
       "Name": "I can do it",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8352
+      "UsersEstimate": 8353
     },
     {
       "ID": "I spit on your grave",
@@ -14507,7 +14512,7 @@
       "Name": "I spit on your grave",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5011
+      "UsersEstimate": 5012
     },
     {
       "ID": "Jack of All Trades",
@@ -14555,7 +14560,7 @@
       "Name": "Landlord",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 17261
+      "UsersEstimate": 17262
     },
     {
       "ID": "Lawbringer",
@@ -14563,7 +14568,7 @@
       "Name": "Lawbringer",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 20602
+      "UsersEstimate": 20603
     },
     {
       "ID": "Lawmaker",
@@ -14619,7 +14624,7 @@
       "Name": "Real Estate",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1670
+      "UsersEstimate": 1671
     },
     {
       "ID": "Ride it like you stole it",
@@ -14691,7 +14696,7 @@
       "Name": "This Is Our Land",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5011
+      "UsersEstimate": 5012
     },
     {
       "ID": "This is Sparta",
@@ -14707,7 +14712,7 @@
       "Name": "Trained",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 11693
+      "UsersEstimate": 11694
     },
     {
       "ID": "Undercover",
@@ -14731,22 +14736,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5011
+      "UsersEstimate": 5012
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 55680,
+      "Progressed": 55684,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-07-13T23:00:26.6189277+00:00",
-  "LastChanged_Achievements": "2023-07-14T09:06:10.1401008+00:00",
+  "LastChanged_Achievements": "2023-07-14T10:07:20.1268177+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:03.335469+00:00",
-  "LastUpdate_Ratings": "2023-07-14T08:59:44.0481681+00:00",
-  "LastUpdate_Achievements": "2023-07-14T09:06:10.1401728+00:00"
+  "LastUpdate_Ratings": "2023-07-14T10:00:48.0303937+00:00",
+  "LastUpdate_Achievements": "2023-07-14T10:07:20.1268949+00:00"
 }

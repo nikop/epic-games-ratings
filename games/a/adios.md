@@ -5,23 +5,23 @@ Rating: 3.41 (Ranked 950)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 22.00% | ~14,499 |
-| Hard Worker | 20.00% | ~13,181 |
-| Master, Commander | 20.00% | ~13,181 |
-| Mechanic | 19.00% | ~12,522 |
-| Adios, Friendo | 18.00% | ~11,863 |
-| Bottom's Up | 18.00% | ~11,863 |
-| Nice Try | 16.00% | ~10,545 |
-| Right On Target | 13.00% | ~8,568 |
+| Be Seeing You | 22.00% | ~14,501 |
+| Hard Worker | 20.00% | ~13,183 |
+| Master, Commander | 20.00% | ~13,183 |
+| Mechanic | 19.00% | ~12,523 |
+| Adios, Friendo | 18.00% | ~11,864 |
+| Bottom's Up | 18.00% | ~11,864 |
+| Nice Try | 16.00% | ~10,546 |
+| Right On Target | 13.00% | ~8,569 |
 | Piano Man | 10.00% | ~6,591 |
 | Lazy Bones | 9.00% | ~5,932 |
-| Vinyl Vibes | 8.00% | ~5,272 |
-| Sniper | 7.00% | ~4,613 |
-| Nothing Left to Say | 6.00% | ~3,954 |
-| Cut Call | 5.00% | ~3,295 |
-| Butcher | 4.00% | ~2,636 |
-| Magnetic Miracles | 4.00% | ~2,636 |
-| Spicy | 4.00% | ~2,636 |
+| Vinyl Vibes | 8.00% | ~5,273 |
+| Sniper | 7.00% | ~4,614 |
+| Nothing Left to Say | 6.00% | ~3,955 |
+| Cut Call | 5.00% | ~3,296 |
+| Butcher | 4.00% | ~2,637 |
+| Magnetic Miracles | 4.00% | ~2,637 |
+| Spicy | 4.00% | ~2,637 |
 | A Man Of Taste | 3.00% | ~1,977 |
 | Ace in the Hole | 3.00% | ~1,977 |
 | Fair's Fair | 3.00% | ~1,977 |
@@ -31,7 +31,7 @@ Rating: 3.41 (Ranked 950)
 | Audiophile | 2.00% | ~1,318 |
 | Tape Head | 2.00% | ~1,318 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,906 (Ranked 77)  
+Progressed: 65,913 (Ranked 77)  
 Completed: 630 (0.96%) (Ranked 104)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 630 (0.96%) (Ranked 104)
 | 2023-07-11 | 65,598 | 621 |
 | 2023-07-12 | 65,715 | 624 |
 | 2023-07-13 | 65,856 | 629 |
-| 2023-07-14 | 65,906 | 630 |
+| 2023-07-14 | 65,913 | 630 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

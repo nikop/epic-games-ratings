@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6970,
+  "EOS_Progressed": 6971,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 801,
+  "EOS_NewPlayers": 797,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3041,6 +3041,11 @@
       "Time": "2023-07-14T09:00:38.4409729+00:00",
       "NumProgressed": 6970,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-14T10:01:55.0418812+00:00",
+      "NumProgressed": 6971,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -3052,7 +3057,7 @@
       "Name": "Self Portrait",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "ACH_COLOR_AVERAGE_AT_LEAST_6_AFTER_25_GAMES",
@@ -3124,15 +3129,15 @@
       "Name": "You tried your best!",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2997
+      "UsersEstimate": 2998
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
       "SetID": "5ck0pmd",
       "Name": "First words",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 35
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_ONLY_ONE_TO_NOT_GUESS_CORRECTLY",
@@ -3251,14 +3256,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 6970,
+      "Progressed": 6971,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-07-14T09:00:38.4409725+00:00",
+  "LastChanged_Achievements": "2023-07-14T10:01:55.0418807+00:00",
   "LastUpdate_AppInfo": "2023-07-07T17:57:06.089177+00:00",
-  "LastUpdate_Ratings": "2023-07-14T08:56:57.6881903+00:00",
-  "LastUpdate_Achievements": "2023-07-14T09:00:38.4410055+00:00"
+  "LastUpdate_Ratings": "2023-07-14T09:57:20.7806026+00:00",
+  "LastUpdate_Achievements": "2023-07-14T10:01:55.0420833+00:00"
 }
