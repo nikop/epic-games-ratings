@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 153,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -404,9 +404,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3276,
+  "EOS_Progressed": 3277,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -5024,6 +5024,11 @@
       "Time": "2023-07-14T20:03:23.6706053+00:00",
       "NumProgressed": 3276,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-14T22:04:01.3109042+00:00",
+      "NumProgressed": 3277,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -5465,9 +5470,9 @@
       "ID": "REWARD_DLC01_02_REICH_TO_THE_POINT",
       "SetID": "83mdf7p",
       "Name": "Reich To The Point",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_DLC01_03_FROM_FUHRER_AWAY",
@@ -5497,9 +5502,9 @@
       "ID": "REWARD_DLC01_06_HERR_TODAY",
       "SetID": "83mdf7p",
       "Name": "Herr Today, Gone Tomorrow",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 23
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -5602,13 +5607,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3227,
+      "Progressed": 3228,
       "Completed": 13
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3276,
+      "Progressed": 3277,
       "Completed": 9
     }
   ],
@@ -5616,8 +5621,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-13T13:19:01.0264879+00:00",
-  "LastChanged_Achievements": "2023-07-14T21:03:33.3695448+00:00",
+  "LastChanged_Achievements": "2023-07-14T22:04:01.3109037+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:07.1687539+00:00",
-  "LastUpdate_Ratings": "2023-07-14T20:57:06.9333342+00:00",
-  "LastUpdate_Achievements": "2023-07-14T21:03:33.3696594+00:00"
+  "LastUpdate_Ratings": "2023-07-14T21:57:09.4627215+00:00",
+  "LastUpdate_Achievements": "2023-07-14T22:04:01.3110063+00:00"
 }

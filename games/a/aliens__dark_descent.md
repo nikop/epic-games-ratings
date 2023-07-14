@@ -19,7 +19,7 @@ Rating: 4.43 (Ranked 655)
 | Colonial Barrels | 47.00% | ~1,347 |
 | Harper's Hell | 39.00% | ~1,118 |
 | Damn Dude, You Gotta Lose Some Weight! | 39.00% | ~1,118 |
-| Making a Stand | 37.00% | ~1,060 |
+| Making a Stand | 38.00% | ~1,089 |
 | Where It All Begun | 33.00% | ~946 |
 | Recouped Investment | 33.00% | ~946 |
 | Omelette Du Fromage | 30.00% | ~860 |
@@ -38,7 +38,7 @@ Rating: 4.43 (Ranked 655)
 | The Cable Guy | 14.00% | ~401 |
 | Excavating The Truth | 13.00% | ~373 |
 | Abysmal Horrors | 13.00% | ~373 |
-| Regicide | 9.00% | ~258 |
+| Regicide | 10.00% | ~287 |
 | Heavy Steps | 9.00% | ~258 |
 | Flawless Victory | 8.00% | ~229 |
 | This Went Smoothly | 8.00% | ~229 |
@@ -48,7 +48,7 @@ Rating: 4.43 (Ranked 655)
 | Fair And Square | 1.00% | ~29 |
 | Archivist | 0.90% | ~26 |
 | Chalk It Up To Experience | 0.60% | ~17 |
-| Perfect Organism | 0.40% | ~11 |
+| Perfect Organism | 0.50% | ~14 |
 | This Ain't No Picnic | 0.30% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,866 (Ranked 154)  

@@ -39,7 +39,7 @@ Rating: 4.44 (Ranked 643)
 | Tinkerer | 0.80% | ~26 |
 | The Long Game | 0.70% | ~23 |
 | Rigged to Blow | 0.70% | ~23 |
-| Herr Today, Gone Tomorrow | 0.60% | ~19 |
+| Herr Today, Gone Tomorrow | 0.70% | ~23 |
 | Shipbreaker | 0.60% | ~19 |
 | From Paris with Love | 0.50% | ~16 |
 | Burn after reading | 0.50% | ~16 |
@@ -66,18 +66,18 @@ Rating: 4.44 (Ranked 643)
 | Sight Beyond Sights | 0.20% | ~7 |
 | Can't Outrun A Bullet | 0.20% | ~7 |
 | Führerious Repetition | 0.20% | ~6 |
+| Reich To The Point | 0.20% | ~6 |
 | Covert Elimination | 0.20% | ~6 |
 | Operation Overlord | 0.20% | ~6 |
 | Stroll in the Woods | 0.20% | ~6 |
 | Going Overboard | 0.20% | ~6 |
 | Master of Pistols | 0.10% | ~3 |
 | Master-at-arms | 0.10% | ~3 |
-| Reich To The Point | 0.10% | ~3 |
 | From Führer Away | 0.10% | ~3 |
 | Alpha | 0.10% | ~3 |
 | Das Familienjuwel | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,276 (Ranked 147)  
+Progressed: 3,277 (Ranked 147)  
 Completed: 9 (0.27%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 9 (0.27%) (Ranked 153)
 | 2023-07-11 | 3,263 | 9 |
 | 2023-07-12 | 3,266 | 9 |
 | 2023-07-13 | 3,269 | 9 |
-| 2023-07-14 | 3,276 | 9 |
+| 2023-07-14 | 3,277 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

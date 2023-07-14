@@ -48,9 +48,9 @@ Rating: 4.18 (Ranked 856)
 | He'd Be So Proud of You | 0.40% | ~268 |
 | Hammer and Icicle | 0.30% | ~112 |
 | Renewable Enemy Source | 0.30% | ~112 |
+| Crime Is a Terrible Thing to Waste | 0.30% | ~112 |
 | Practice Makes Perfect | 0.30% | ~201 |
 | Element of Surprise | 0.20% | ~75 |
-| Crime Is a Terrible Thing to Waste | 0.20% | ~75 |
 | The Cold, the Bad and the Ugly | 0.20% | ~75 |
 | Talonted | 0.20% | ~134 |
 | The Man-Bat Family | 0.20% | ~134 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -562,9 +562,9 @@
       "Count": 216
     }
   ],
-  "EOS_Progressed": 11050,
+  "EOS_Progressed": 11052,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -6577,6 +6577,11 @@
       "Time": "2023-07-14T18:06:40.699739+00:00",
       "NumProgressed": 11050,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-07-14T22:08:36.3051766+00:00",
+      "NumProgressed": 11052,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 35,
@@ -6588,7 +6593,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 8950
+      "UsersEstimate": 8952
     },
     {
       "ID": "ACH02",
@@ -6620,7 +6625,7 @@
       "Name": "A Legitimate Business",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH06",
@@ -6644,7 +6649,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5525
+      "UsersEstimate": 5526
     },
     {
       "ID": "ACH09",
@@ -6668,7 +6673,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "ACH12",
@@ -6676,7 +6681,7 @@
       "Name": "Swiss Army Strife",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH13",
@@ -6748,7 +6753,7 @@
       "Name": "Lucky Spinner",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH22",
@@ -6796,7 +6801,7 @@
       "Name": "Assassin",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH28",
@@ -6828,7 +6833,7 @@
       "Name": "Chick Magnet",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH32",
@@ -6867,7 +6872,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11050,
+      "Progressed": 11052,
       "Completed": 29
     }
   ],
@@ -6875,8 +6880,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-14T15:00:57.6719502+00:00",
-  "LastChanged_Achievements": "2023-07-14T21:06:49.9301945+00:00",
+  "LastChanged_Achievements": "2023-07-14T22:08:36.305176+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:43.1834453+00:00",
-  "LastUpdate_Ratings": "2023-07-14T21:00:47.8414029+00:00",
-  "LastUpdate_Achievements": "2023-07-14T21:06:49.9302636+00:00"
+  "LastUpdate_Ratings": "2023-07-14T22:02:31.4160993+00:00",
+  "LastUpdate_Achievements": "2023-07-14T22:08:36.3052383+00:00"
 }

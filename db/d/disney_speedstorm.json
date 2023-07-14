@@ -15,7 +15,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2948,
+  "EOS_Progressed": 2949,
   "EOS_Completed": 97,
   "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 5,
@@ -3445,6 +3445,11 @@
       "Time": "2023-07-14T15:05:41.5451797+00:00",
       "NumProgressed": 2948,
       "NumCompleted": 97
+    },
+    {
+      "Time": "2023-07-14T22:07:11.0095678+00:00",
+      "NumProgressed": 2949,
+      "NumCompleted": 97
     }
   ],
   "TotalAchievements": 24,
@@ -3576,7 +3581,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "24",
@@ -3608,7 +3613,7 @@
       "Name": "ROOKIE",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1562
+      "UsersEstimate": 1563
     },
     {
       "ID": "6",
@@ -3647,13 +3652,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2948,
+      "Progressed": 2949,
       "Completed": 97
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-07-14T21:05:50.884971+00:00",
+  "LastChanged_Achievements": "2023-07-14T22:07:11.0095672+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:58.7714419+00:00",
-  "LastUpdate_Ratings": "2023-07-14T20:59:35.8253541+00:00",
-  "LastUpdate_Achievements": "2023-07-14T21:05:50.8850119+00:00"
+  "LastUpdate_Ratings": "2023-07-14T22:00:39.985199+00:00",
+  "LastUpdate_Achievements": "2023-07-14T22:07:11.0096808+00:00"
 }

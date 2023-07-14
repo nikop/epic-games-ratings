@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6735,
+  "EOS_Progressed": 6740,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -4613,6 +4613,11 @@
       "Time": "2023-07-14T20:03:27.9017089+00:00",
       "NumProgressed": 6735,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-07-14T22:04:07.2690929+00:00",
+      "NumProgressed": 6740,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 21,
@@ -4640,7 +4645,7 @@
       "Name": "Audiophile",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "BODY_AND_SOUL",
@@ -4670,9 +4675,9 @@
       "ID": "ENERGY_SAVER",
       "SetID": "3cck1g6",
       "Name": "Energy Saver",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 1145
+      "UsersEstimate": 1078
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -4728,7 +4733,7 @@
       "Name": "In a Pinch",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "LIBERATOR",
@@ -4736,7 +4741,7 @@
       "Name": "Liberator",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "LIVE_WIRE",
@@ -4744,7 +4749,7 @@
       "Name": "Live Wire",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "SHREDDER",
@@ -4791,7 +4796,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6735,
+      "Progressed": 6740,
       "Completed": 29
     }
   ],
@@ -4799,8 +4804,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-07-11T22:58:36.2658566+00:00",
-  "LastChanged_Achievements": "2023-07-14T21:03:37.7802175+00:00",
+  "LastChanged_Achievements": "2023-07-14T22:04:07.2690923+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:32.1676458+00:00",
-  "LastUpdate_Ratings": "2023-07-14T20:58:30.5517528+00:00",
-  "LastUpdate_Achievements": "2023-07-14T21:03:37.7802659+00:00"
+  "LastUpdate_Ratings": "2023-07-14T21:59:06.5104281+00:00",
+  "LastUpdate_Achievements": "2023-07-14T22:04:07.2691966+00:00"
 }

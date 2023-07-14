@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 189,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1452,9 +1452,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 24225,
+  "EOS_Progressed": 24226,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7877,6 +7877,11 @@
       "Time": "2023-07-14T21:03:14.6976294+00:00",
       "NumProgressed": 24225,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-07-14T22:03:35.5073025+00:00",
+      "NumProgressed": 24226,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 51,
@@ -7888,7 +7893,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 17684
+      "UsersEstimate": 17685
     },
     {
       "ID": "Animated",
@@ -7920,7 +7925,7 @@
       "Name": "Catostrophic Destroyer",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "Clutch_Capture",
@@ -7928,7 +7933,7 @@
       "Name": "Clutch Capture",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 9932
+      "UsersEstimate": 9933
     },
     {
       "ID": "Collect_Spores",
@@ -7976,7 +7981,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 14777
+      "UsersEstimate": 14778
     },
     {
       "ID": "Dont_Need_These",
@@ -8000,7 +8005,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 15504
+      "UsersEstimate": 15505
     },
     {
       "ID": "Escape_Artist",
@@ -8056,7 +8061,7 @@
       "Name": "Legions",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 6298
+      "UsersEstimate": 6299
     },
     {
       "ID": "Liability",
@@ -8064,7 +8069,7 @@
       "Name": "Liability",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 2422
+      "UsersEstimate": 2423
     },
     {
       "ID": "Line_Em_Up",
@@ -8072,7 +8077,7 @@
       "Name": "Line em\u0027 up",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "Little_Help",
@@ -8080,7 +8085,7 @@
       "Name": "Little Help Here",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "Master_Collector",
@@ -8136,7 +8141,7 @@
       "Name": "Right back at ya",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 6298
+      "UsersEstimate": 6299
     },
     {
       "ID": "Rivalry",
@@ -8144,7 +8149,7 @@
       "Name": "Rivalry",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2422
+      "UsersEstimate": 2423
     },
     {
       "ID": "Seasoned",
@@ -8184,7 +8189,7 @@
       "Name": "Stunner",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 6298
+      "UsersEstimate": 6299
     },
     {
       "ID": "Stylish",
@@ -8232,7 +8237,7 @@
       "Name": "Terrifying",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 4360
+      "UsersEstimate": 4361
     },
     {
       "ID": "Therapeutic",
@@ -8256,7 +8261,7 @@
       "Name": "Tobin\u0027s Prodigy",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4360
+      "UsersEstimate": 4361
     },
     {
       "ID": "Ultimate_Defense",
@@ -8264,7 +8269,7 @@
       "Name": "Ultimate Defense",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "Vaporous_Expansion",
@@ -8295,7 +8300,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 24225,
+      "Progressed": 24226,
       "Completed": 46
     }
   ],
@@ -8303,8 +8308,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-07-14T03:59:25.3074827+00:00",
-  "LastChanged_Achievements": "2023-07-14T21:03:14.6976289+00:00",
+  "LastChanged_Achievements": "2023-07-14T22:03:35.507302+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:03.6661628+00:00",
-  "LastUpdate_Ratings": "2023-07-14T20:59:39.4250214+00:00",
-  "LastUpdate_Achievements": "2023-07-14T21:03:14.6977352+00:00"
+  "LastUpdate_Ratings": "2023-07-14T22:00:44.8732192+00:00",
+  "LastUpdate_Achievements": "2023-07-14T22:03:35.5074003+00:00"
 }

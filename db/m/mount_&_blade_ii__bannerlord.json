@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 77,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -5583,9 +5583,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 55730,
+  "EOS_Progressed": 55731,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 488,
+  "EOS_NewPlayers": 489,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14398,6 +14398,11 @@
       "Time": "2023-07-14T21:06:51.5221367+00:00",
       "NumProgressed": 55730,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-14T22:08:38.2417062+00:00",
+      "NumProgressed": 55731,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -14425,7 +14430,7 @@
       "Name": "Bannerlord",
       "Percentage": 21,
       "XP": 65,
-      "UsersEstimate": 11703
+      "UsersEstimate": 11704
     },
     {
       "ID": "Best served cold",
@@ -14633,7 +14638,7 @@
       "Name": "Landlord",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 17276
+      "UsersEstimate": 17277
     },
     {
       "ID": "Lawbringer",
@@ -14785,7 +14790,7 @@
       "Name": "Trained",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 11703
+      "UsersEstimate": 11704
     },
     {
       "ID": "Undercover",
@@ -14816,15 +14821,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 55730,
+      "Progressed": 55731,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-07-14T19:01:39.2281063+00:00",
-  "LastChanged_Achievements": "2023-07-14T21:06:51.5221361+00:00",
+  "LastChanged_Achievements": "2023-07-14T22:08:38.2417054+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:03.335469+00:00",
-  "LastUpdate_Ratings": "2023-07-14T21:00:23.8222665+00:00",
-  "LastUpdate_Achievements": "2023-07-14T21:06:51.5222437+00:00"
+  "LastUpdate_Ratings": "2023-07-14T22:01:52.3161586+00:00",
+  "LastUpdate_Achievements": "2023-07-14T22:08:38.2417981+00:00"
 }

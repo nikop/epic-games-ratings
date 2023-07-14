@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 129,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -526,7 +526,7 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 8963,
+  "EOS_Progressed": 8964,
   "EOS_Completed": 43,
   "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
@@ -6291,6 +6291,11 @@
       "Time": "2023-07-14T21:03:35.660236+00:00",
       "NumProgressed": 8963,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-14T22:04:04.5590771+00:00",
+      "NumProgressed": 8964,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -6462,7 +6467,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4033
+      "UsersEstimate": 4034
     },
     {
       "ID": "ACH22",
@@ -6502,7 +6507,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1344
+      "UsersEstimate": 1345
     },
     {
       "ID": "ACH27",
@@ -6573,7 +6578,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8963,
+      "Progressed": 8964,
       "Completed": 43
     }
   ],
@@ -6581,8 +6586,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-12T19:59:24.8621469+00:00",
-  "LastChanged_Achievements": "2023-07-14T21:03:35.6602354+00:00",
+  "LastChanged_Achievements": "2023-07-14T22:04:04.5590761+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:55.3864428+00:00",
-  "LastUpdate_Ratings": "2023-07-14T20:58:50.7214894+00:00",
-  "LastUpdate_Achievements": "2023-07-14T21:03:35.6603144+00:00"
+  "LastUpdate_Ratings": "2023-07-14T21:59:32.2043774+00:00",
+  "LastUpdate_Achievements": "2023-07-14T22:04:04.5591528+00:00"
 }

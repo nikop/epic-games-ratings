@@ -374,7 +374,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15231,
+  "EOS_Progressed": 15233,
   "EOS_Completed": 320,
   "EOS_NewPlayers": 585,
   "EOS_NewCompleters": 12,
@@ -9284,6 +9284,11 @@
       "Time": "2023-07-14T21:03:54.5553231+00:00",
       "NumProgressed": 15231,
       "NumCompleted": 320
+    },
+    {
+      "Time": "2023-07-14T22:04:29.7390379+00:00",
+      "NumProgressed": 15233,
+      "NumCompleted": 320
     }
   ],
   "TotalAchievements": 20,
@@ -9295,7 +9300,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 2589
+      "UsersEstimate": 2590
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -9311,7 +9316,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2132
+      "UsersEstimate": 2133
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -9343,7 +9348,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1218
+      "UsersEstimate": 1219
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -9391,7 +9396,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2132
+      "UsersEstimate": 2133
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -9415,7 +9420,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 11576
+      "UsersEstimate": 11577
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -9431,7 +9436,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2132
+      "UsersEstimate": 2133
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -9454,15 +9459,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 15231,
+      "Progressed": 15233,
       "Completed": 320
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-07-14T21:03:54.5553225+00:00",
+  "LastChanged_Achievements": "2023-07-14T22:04:29.7390371+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:34.4370622+00:00",
-  "LastUpdate_Ratings": "2023-07-14T21:00:40.7937058+00:00",
-  "LastUpdate_Achievements": "2023-07-14T21:03:54.5554132+00:00"
+  "LastUpdate_Ratings": "2023-07-14T22:02:20.2861457+00:00",
+  "LastUpdate_Achievements": "2023-07-14T22:04:29.7391117+00:00"
 }

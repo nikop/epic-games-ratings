@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 83,
-  "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-03-01T17:00:00+00:00",
@@ -65,11 +65,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 366,
+  "EOS_Progressed": 367,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.64,
+  "EOS_Completed_Percentage": 1.63,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.6449061+00:00",
@@ -135,6 +135,11 @@
       "Time": "2023-07-09T20:04:53.091284+00:00",
       "NumProgressed": 366,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-07-14T22:06:10.70411+00:00",
+      "NumProgressed": 367,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 36,
@@ -146,7 +151,7 @@
       "Name": "Huzza, he\u0027s back.",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "dep4_achievement_10",
@@ -186,7 +191,7 @@
       "Name": "Shall we play a game?",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "dep4_achievement_15",
@@ -216,9 +221,9 @@
       "ID": "dep4_achievement_18",
       "SetID": "5d32b60",
       "Name": "Chunky",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 184
     },
     {
       "ID": "dep4_achievement_19",
@@ -226,7 +231,7 @@
       "Name": "FunScore",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "dep4_achievement_2",
@@ -234,7 +239,7 @@
       "Name": "And again, and again, and...",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "dep4_achievement_20",
@@ -256,9 +261,9 @@
       "ID": "dep4_achievement_22",
       "SetID": "5d32b60",
       "Name": "No man left behind!",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 110
+      "UsersEstimate": 106
     },
     {
       "ID": "dep4_achievement_23",
@@ -290,7 +295,7 @@
       "Name": "Scaffolding Expert",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "dep4_achievement_27",
@@ -304,9 +309,9 @@
       "ID": "dep4_achievement_28",
       "SetID": "5d32b60",
       "Name": "Kuvaq Minigame-Master",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 223
+      "UsersEstimate": 220
     },
     {
       "ID": "dep4_achievement_29",
@@ -320,9 +325,9 @@
       "ID": "dep4_achievement_3",
       "SetID": "5d32b60",
       "Name": "Burn, Elysium, burn!",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 228
     },
     {
       "ID": "dep4_achievement_30",
@@ -330,7 +335,7 @@
       "Name": "Elysian Minigame-Master",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "dep4_achievement_31",
@@ -386,7 +391,7 @@
       "Name": "Funtime\u0027s over",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "dep4_achievement_5",
@@ -402,15 +407,15 @@
       "Name": "School\u0027s out",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "dep4_achievement_7",
       "SetID": "5d32b60",
       "Name": "Portals come in packs",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 106
     },
     {
       "ID": "dep4_achievement_8",
@@ -433,7 +438,7 @@
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 366,
+      "Progressed": 367,
       "Completed": 6
     }
   ],
@@ -441,8 +446,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-04-17T16:58:11.036869+00:00",
-  "LastChanged_Achievements": "2023-07-14T21:05:15.6884948+00:00",
+  "LastChanged_Achievements": "2023-07-14T22:06:10.7041095+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:43.8308531+00:00",
-  "LastUpdate_Ratings": "2023-07-14T21:00:47.9828364+00:00",
-  "LastUpdate_Achievements": "2023-07-14T21:05:15.6885259+00:00"
+  "LastUpdate_Ratings": "2023-07-14T22:02:31.6071751+00:00",
+  "LastUpdate_Achievements": "2023-07-14T22:06:10.7041362+00:00"
 }
