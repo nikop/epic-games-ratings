@@ -3,7 +3,7 @@
 | 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 55.56% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.96% |
 | 3 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 30.00% |
-| 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
+| 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.21% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 7 | [Volley Pals](games/v/volley_pals.md) | 22.62% |
@@ -30,14 +30,14 @@
 | 28 | [Ravenlok](games/r/ravenlok.md) | 7.46% |
 | 29 | [Time Loader](games/t/time_loader.md) | 7.21% |
 | 30 | [Scorn](games/s/scorn.md) | 7.06% |
-| 31 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.96% |
+| 31 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.95% |
 | 32 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.82% |
 | 33 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 34 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 35 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.71% |
 | 36 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
-| 37 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.13% |
-| 38 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.06% |
+| 37 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.06% |
+| 38 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.00% |
 | 39 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.91% |
 | 40 | [JARS](games/j/jars.md) | 4.84% |
 | 41 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
@@ -106,7 +106,7 @@
 | 104 | [Adios](games/a/adios.md) | 0.96% |
 | 105 | [Hades](games/h/hades.md) | 0.89% |
 | 106 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
-| 107 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
+| 107 | [Dungeons 3](games/d/dungeons_3.md) | 0.84% |
 | 108 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.78% |
 | 109 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.77% |
 | 110 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
@@ -211,16 +211,16 @@
 | 208 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
 | 208 | [High On Life](games/h/high_on_life.md) | 0.03% |
 | 208 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.03% |
+| 208 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.03% |
 | 208 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.03% |
-| 213 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
-| 213 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
-| 213 | [Good Company](games/g/good_company.md) | 0.02% |
-| 213 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.02% |
-| 213 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
-| 213 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
-| 213 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
-| 213 | [The Alto Collection](games/t/the_alto_collection.md) | 0.02% |
-| 213 | [Tropico 6](games/t/tropico_6.md) | 0.02% |
+| 214 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
+| 214 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
+| 214 | [Good Company](games/g/good_company.md) | 0.02% |
+| 214 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
+| 214 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
+| 214 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
+| 214 | [The Alto Collection](games/t/the_alto_collection.md) | 0.02% |
+| 214 | [Tropico 6](games/t/tropico_6.md) | 0.02% |
 | 222 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
 | 222 | [Deceive Inc.](games/d/deceive_inc..md) | 0.01% |
 | 222 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
