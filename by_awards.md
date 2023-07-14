@@ -72,7 +72,7 @@
 | 70 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,544 | 4.70 | 196 |
 | 71 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,528 | 4.70 | 196 |
 | 72 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,413 | 4.70 | 196 |
-| 73 | [Chivalry 2](games/c/chivalry_2.md) | 4,351 | 4.61 | 362 |
+| 73 | [Chivalry 2](games/c/chivalry_2.md) | 4,353 | 4.61 | 362 |
 | 74 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4,282 | 4.76 | 118 |
 | 75 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,155 | 4.56 | 458 |
 | 76 | [God of War](games/g/god_of_war.md) | 4,145 | 4.88 | 19 |
@@ -93,11 +93,11 @@
 | 91 | [Trackmania](games/t/trackmania.md) | 2,961 | 4.67 | 260 |
 | 92 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 2,726 | 4.73 | 157 |
 | 93 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 2,651 | 3.98 | 918 |
-| 94 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,545 | 4.50 | 552 |
+| 94 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,549 | 4.50 | 552 |
 | 95 | [Among Us](games/a/among_us.md) | 2,537 | 4.57 | 439 |
 | 96 | [Path of Exile](games/p/path_of_exile.md) | 2,529 | 4.61 | 362 |
 | 97 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 2,508 | 4.82 | 65 |
-| 98 | [RAGE 2](games/r/rage_2.md) | 2,494 | 4.27 | 796 |
+| 98 | [RAGE 2](games/r/rage_2.md) | 2,498 | 4.27 | 796 |
 | 99 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2,466 | 4.68 | 241 |
 | 100 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,446 | 4.10 | 888 |
 | 101 | [Gotham Knights](games/g/gotham_knights.md) | 2,445 | 4.18 | 855 |
@@ -235,7 +235,7 @@
 | 233 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 297 | 4.59 | 413 |
 | 233 | [Video Horror Society](games/v/video_horror_society.md) | 297 | 4.27 | 796 |
 | 235 | [Railway Empire](games/r/railway_empire.md) | 285 | 4.52 | 521 |
-| 236 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 282 | 4.46 | 609 |
+| 236 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 284 | 4.46 | 609 |
 | 237 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 280 | 4.43 | 654 |
 | 238 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 278 | 4.62 | 346 |
 | 239 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 274 | 4.61 | 362 |
@@ -416,9 +416,9 @@
 | 413 | [The Riftbreaker](games/t/the_riftbreaker.md) | 44 | 4.76 | 118 |
 | 415 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 43 | 4.29 | 781 |
 | 416 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 42 | 4.76 | 118 |
-| 417 | [Coromon](games/c/coromon.md) | 41 | 4.66 | 273 |
-| 417 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 41 | 4.86 | 28 |
-| 417 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 41 | 4.75 | 132 |
+| 416 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 42 | 4.86 | 28 |
+| 418 | [Coromon](games/c/coromon.md) | 41 | 4.66 | 273 |
+| 418 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 41 | 4.75 | 132 |
 | 420 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 40 | 4.52 | 521 |
 | 420 | [STG Football](games/s/stg_football.md) | 40 | 4.45 | 624 |
 | 420 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 40 | 4.38 | 711 |

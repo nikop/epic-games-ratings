@@ -35,7 +35,7 @@
 | 28 | [Inscryption](games/i/inscryption.md) | 4.86 | 337 | 224 |
 | 28 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 12,097 | 31 |
 | 28 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 97 | 334 |
-| 28 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 41 | 417 |
+| 28 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 42 | 416 |
 | 28 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,314 | 128 |
 | 28 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 484 | 195 |
 | 28 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.86 | 0 | 505 |
@@ -140,7 +140,7 @@
 | 132 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 114 | 316 |
 | 132 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 531 | 188 |
 | 132 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.75 | 0 | 505 |
-| 132 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 41 | 417 |
+| 132 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 41 | 418 |
 | 132 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.75 | 0 | 505 |
 | 132 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 0 | 505 |
 | 144 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 505 |
@@ -274,7 +274,7 @@
 | 260 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 94 | 341 |
 | 273 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.66 | 0 | 505 |
 | 273 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 74 | 363 |
-| 273 | [Coromon](games/c/coromon.md) | 4.66 | 41 | 417 |
+| 273 | [Coromon](games/c/coromon.md) | 4.66 | 41 | 418 |
 | 273 | [Crashlands](games/c/crashlands.md) | 4.66 | 191 | 272 |
 | 273 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 166 | 285 |
 | 273 | [Death's Door](games/d/death's_door.md) | 4.66 | 0 | 505 |
@@ -364,7 +364,7 @@
 | 362 | [20XX](games/2/20xx.md) | 4.61 | 36 | 432 |
 | 362 | [Alien: Isolation](games/a/alien__isolation.md) | 4.61 | 130 | 304 |
 | 362 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.61 | 0 | 505 |
-| 362 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 4,351 | 73 |
+| 362 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 4,353 | 73 |
 | 362 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 0 | 505 |
 | 362 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 377 | 214 |
 | 362 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.61 | 74 | 363 |
@@ -561,7 +561,7 @@
 | 552 | [Duskers](games/d/duskers.md) | 4.50 | 0 | 505 |
 | 552 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 0 | 505 |
 | 552 | [First Class Trouble](games/f/first_class_trouble.md) | 4.50 | 111 | 320 |
-| 552 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,545 | 94 |
+| 552 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,549 | 94 |
 | 552 | [Horace](games/h/horace.md) | 4.50 | 0 | 505 |
 | 552 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 0 | 505 |
 | 552 | [Knockout City™](games/k/knockout_city™.md) | 4.50 | 0 | 505 |
@@ -621,7 +621,7 @@
 | 609 | [Mars Horizon](games/m/mars_horizon.md) | 4.46 | 0 | 505 |
 | 609 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 505 |
 | 609 | [The Surge](games/t/the_surge.md) | 4.46 | 27 | 466 |
-| 609 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 282 | 236 |
+| 609 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 284 | 236 |
 | 609 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.46 | 0 | 505 |
 | 624 | [Chorus](games/c/chorus.md) | 4.45 | 32 | 447 |
 | 624 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 236 | 250 |
@@ -800,7 +800,7 @@
 | 796 | [Dice Legacy](games/d/dice_legacy.md) | 4.27 | 0 | 505 |
 | 796 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.27 | 0 | 505 |
 | 796 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.27 | 0 | 505 |
-| 796 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,494 | 98 |
+| 796 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,498 | 98 |
 | 796 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 297 | 233 |
 | 803 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.26 | 0 | 505 |
 | 803 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.26 | 27 | 466 |
