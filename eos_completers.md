@@ -20,17 +20,17 @@
 | 18 | [Remains](games/r/remains.md) | 11.63% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.22% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.27% |
+| 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.24% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 23 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.57% |
-| 24 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
-| 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.42% |
+| 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.42% |
+| 25 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.33% |
 | 26 | [Smelter](games/s/smelter.md) | 8.11% |
-| 27 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.00% |
+| 27 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.92% |
 | 28 | [Ravenlok](games/r/ravenlok.md) | 7.45% |
 | 29 | [Time Loader](games/t/time_loader.md) | 7.21% |
 | 30 | [Scorn](games/s/scorn.md) | 7.06% |
-| 31 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.94% |
+| 31 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.93% |
 | 32 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.82% |
 | 33 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 34 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -96,7 +96,7 @@
 | 94 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.20% |
 | 95 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.19% |
 | 96 | [Chorus](games/c/chorus.md) | 1.17% |
-| 97 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.15% |
+| 97 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.14% |
 | 98 | [Trifox](games/t/trifox.md) | 1.11% |
 | 99 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.06% |
 | 99 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.06% |
@@ -188,12 +188,12 @@
 | 183 | [Outward Definitive Edition](games/o/outward.md) | 0.10% |
 | 183 | [Supraland](games/s/supraland.md) | 0.10% |
 | 188 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
-| 188 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.09% |
 | 188 | [Partisans 1941](games/p/partisans_1941.md) | 0.09% |
 | 188 | [Shop Titans](games/s/shop_titans.md) | 0.09% |
 | 188 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
-| 193 | [Riverbond](games/r/riverbond.md) | 0.08% |
-| 193 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
+| 192 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.08% |
+| 192 | [Riverbond](games/r/riverbond.md) | 0.08% |
+| 192 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
 | 195 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
 | 195 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
 | 197 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.06% |
