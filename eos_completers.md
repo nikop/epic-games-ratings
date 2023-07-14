@@ -30,7 +30,7 @@
 | 28 | [Ravenlok](games/r/ravenlok.md) | 7.45% |
 | 29 | [Time Loader](games/t/time_loader.md) | 7.21% |
 | 30 | [Scorn](games/s/scorn.md) | 7.06% |
-| 31 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.95% |
+| 31 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.94% |
 | 32 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.82% |
 | 33 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 34 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -112,12 +112,12 @@
 | 110 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
 | 110 | [Lemon Cake](games/l/lemon_cake.md) | 0.76% |
 | 112 | [Haven](games/h/haven.md) | 0.68% |
-| 113 | [Them and Us](games/t/them_and_us.md) | 0.67% |
-| 114 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.66% |
-| 114 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.66% |
-| 116 | [Train Valley](games/t/train_valley.md) | 0.64% |
-| 117 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
-| 117 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.63% |
+| 113 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.66% |
+| 113 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.66% |
+| 113 | [Them and Us](games/t/them_and_us.md) | 0.66% |
+| 116 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
+| 116 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.63% |
+| 116 | [Train Valley](games/t/train_valley.md) | 0.63% |
 | 119 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.60% |
 | 120 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.59% |
 | 121 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.58% |
@@ -125,9 +125,9 @@
 | 123 | [Potion Permit](games/p/potion_permit.md) | 0.55% |
 | 123 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
 | 125 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.53% |
-| 126 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.51% |
-| 127 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
-| 127 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
+| 126 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
+| 126 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.50% |
+| 126 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
 | 129 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.48% |
 | 130 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 131 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.46% |
@@ -152,7 +152,7 @@
 | 147 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 151 | [Godlike Burger](games/g/godlike_burger.md) | 0.28% |
 | 151 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
-| 151 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.28% |
+| 153 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.27% |
 | 154 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.26% |
 | 155 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
 | 155 | [Against the Storm](games/a/against_the_storm.md) | 0.25% |
