@@ -4269,9 +4269,9 @@
       "ID": "Ach007",
       "SetID": "12n4k20",
       "Name": "Who\u0027s the boss now?",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 34
     },
     {
       "ID": "Ach008",
@@ -4804,8 +4804,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-14T13:18:13.0380131+00:00",
+  "LastChanged_Achievements": "2023-07-14T14:02:18.8551155+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:24.9104218+00:00",
-  "LastUpdate_Ratings": "2023-07-14T13:14:08.4052852+00:00",
-  "LastUpdate_Achievements": "2023-07-14T13:18:13.0381189+00:00"
+  "LastUpdate_Ratings": "2023-07-14T13:59:01.3873448+00:00",
+  "LastUpdate_Achievements": "2023-07-14T14:02:18.8551891+00:00"
 }

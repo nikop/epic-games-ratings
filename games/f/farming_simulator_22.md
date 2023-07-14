@@ -6,19 +6,19 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 76.00% | ~34,533 |
-| I read Shakespeare and stuff | 64.00% | ~29,080 |
-| Just a sprinkle | 63.00% | ~28,626 |
-| I'm stumped | 61.00% | ~27,717 |
-| Plant get enough | 60.00% | ~27,263 |
-| This is just my weekend vehicle | 58.00% | ~26,354 |
-| It's just the beginning | 58.00% | ~26,354 |
-| Hard work pays off | 53.00% | ~24,082 |
-| It's never too late to farm | 48.00% | ~21,810 |
-| All out of Land | 44.00% | ~19,993 |
-| Field Trip | 43.00% | ~19,538 |
-| I like to switch it up | 40.00% | ~18,175 |
-| Help me to help you | 38.00% | ~17,266 |
+| Own use | 76.00% | ~34,534 |
+| I read Shakespeare and stuff | 64.00% | ~29,082 |
+| Just a sprinkle | 63.00% | ~28,627 |
+| I'm stumped | 61.00% | ~27,718 |
+| Plant get enough | 60.00% | ~27,264 |
+| This is just my weekend vehicle | 58.00% | ~26,355 |
+| It's just the beginning | 58.00% | ~26,355 |
+| Hard work pays off | 53.00% | ~24,083 |
+| It's never too late to farm | 48.00% | ~21,811 |
+| All out of Land | 44.00% | ~19,994 |
+| Field Trip | 43.00% | ~19,539 |
+| I like to switch it up | 40.00% | ~18,176 |
+| Help me to help you | 38.00% | ~17,267 |
 | Ultimutt Pawesomeness | 28.00% | ~12,723 |
 | Van Gogh | 26.00% | ~11,814 |
 | You wood not believe it | 21.00% | ~9,542 |
@@ -28,7 +28,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | Long haul | 16.00% | ~7,270 |
 | Clucky Streak | 15.00% | ~6,816 |
 | Large-scale supplier | 15.00% | ~6,816 |
-| That's a wrap | 14.00% | ~6,361 |
+| That's a wrap | 14.00% | ~6,362 |
 | Fix me up | 13.00% | ~5,907 |
 | Rock on | 12.00% | ~5,453 |
 | It's sow easy | 11.00% | ~4,998 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~182 |
 | Raisin the stakes | 0.30% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,438 (Ranked 88)  
+Progressed: 45,440 (Ranked 88)  
 Completed: 5 (0.01%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 5 (0.01%) (Ranked 222)
 | 2023-07-11 | 45,330 | 5 |
 | 2023-07-12 | 45,367 | 5 |
 | 2023-07-13 | 45,412 | 5 |
-| 2023-07-14 | 45,438 | 5 |
+| 2023-07-14 | 45,440 | 5 |
 ## Awards
 Max (Great for Beginners): 4,528  (Ranked 71)  
 Sum: 38,100 (Ranked 31)  

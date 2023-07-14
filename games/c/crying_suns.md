@@ -13,6 +13,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | In space, no one can hear you scream | 0.30% | ~1,389 |
 | Mother | 0.30% | ~1,389 |
 | Jeef Skagg | 0.30% | ~1,389 |
+| Plan for the worst | 0.30% | ~1,389 |
 | Knightmare Frames | 0.20% | ~926 |
 | May His passing cleanse the world | 0.20% | ~926 |
 | Chapter I: Echoes | 0.20% | ~926 |
@@ -20,7 +21,6 @@ Number of Ratings: 1,003  (23.09.2022)
 | Tetsuo | 0.20% | ~926 |
 | Pope Zenon | 0.20% | ~926 |
 | Things persisted in not being what they seemed | 0.20% | ~926 |
-| Plan for the worst | 0.20% | ~926 |
 | Excelsior Rule | 0.20% | ~926 |
 | Hand of the Emperor | 0.20% | ~14 |
 | Chapter III: The Man Who Sold the World | 0.10% | ~463 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~7 |
 | Kronos Rule | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 462,949 (Ranked 35)  
+Progressed: 462,953 (Ranked 35)  
 Completed: 16 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 16 (0.00%) (Ranked 236)
 | 2023-07-11 | 462,791 | 16 |
 | 2023-07-12 | 462,850 | 16 |
 | 2023-07-13 | 462,915 | 16 |
-| 2023-07-14 | 462,949 | 16 |
+| 2023-07-14 | 462,953 | 16 |
 ## Awards
 Max (Character Customization): 214  (Ranked 262)  
 Sum: 214 (Ranked 356)  

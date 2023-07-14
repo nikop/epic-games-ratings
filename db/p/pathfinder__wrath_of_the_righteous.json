@@ -3116,9 +3116,9 @@
       "Count": 381
     }
   ],
-  "EOS_Progressed": 10304,
+  "EOS_Progressed": 10305,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8361,6 +8361,11 @@
       "Time": "2023-07-14T13:19:28.8233387+00:00",
       "NumProgressed": 10304,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-14T14:04:12.3606127+00:00",
+      "NumProgressed": 10305,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -8388,7 +8393,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1133
+      "UsersEstimate": 1134
     },
     {
       "ID": "04_FithCrusade",
@@ -8508,7 +8513,7 @@
       "Name": "Mythic Choices",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1133
+      "UsersEstimate": 1134
     },
     {
       "ID": "19_EqualToAroden",
@@ -8620,7 +8625,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1236
+      "UsersEstimate": 1237
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -9299,21 +9304,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9086,
+      "Progressed": 9087,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10304,
+      "Progressed": 10305,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-14T09:59:14.033827+00:00",
-  "LastChanged_Achievements": "2023-07-14T13:19:28.8233382+00:00",
+  "LastChanged_Achievements": "2023-07-14T14:04:12.3606123+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:12.7052521+00:00",
-  "LastUpdate_Ratings": "2023-07-14T13:13:59.8271481+00:00",
-  "LastUpdate_Achievements": "2023-07-14T13:19:28.823537+00:00"
+  "LastUpdate_Ratings": "2023-07-14T13:58:53.2148873+00:00",
+  "LastUpdate_Achievements": "2023-07-14T14:04:12.3607722+00:00"
 }

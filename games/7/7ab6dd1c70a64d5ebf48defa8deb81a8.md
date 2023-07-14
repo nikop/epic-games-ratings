@@ -20,6 +20,7 @@
 | Shatterer | 0.00% | ~0 |
 | Shatter Them All | 0.00% | ~0 |
 | Slayer | 0.00% | ~0 |
+| Big Bazar | 0.00% | ~0 |
 | Fine Feathers Make Fine Birds | 0.00% | ~0 |
 | Geared Up | 0.00% | ~0 |
 | All There Is | 0.00% | ~0 |
@@ -28,6 +29,7 @@
 | False God | 0.00% | ~0 |
 | I Found It | 0.00% | ~0 |
 | All That Gold | 0.00% | ~0 |
+| Stone Collection | 0.00% | ~0 |
 | Miner | 0.00% | ~0 |
 | The Collector | 0.00% | ~0 |
 | Feeling Fancy | 0.00% | ~0 |
@@ -35,9 +37,7 @@
 | Powerful Allies | -5.60% | ~-1 |
 | The Mentor | -5.60% | ~-1 |
 | Airborne | -5.60% | ~-1 |
-| Big Bazar | -5.60% | ~-1 |
 | Alchemist | -5.60% | ~-1 |
-| Stone Collection | -5.60% | ~-1 |
 | A Queen's Tale | -5.60% | ~-1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 18 (Ranked 377)  

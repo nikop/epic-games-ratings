@@ -6,18 +6,18 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~20,400 |
+| Genin | 11.00% | ~20,401 |
 | Thorough | 9.00% | ~16,691 |
-| A thief's beginning | 8.00% | ~14,836 |
-| Tanuki Time | 8.00% | ~14,836 |
+| A thief's beginning | 8.00% | ~14,837 |
+| Tanuki Time | 8.00% | ~14,837 |
 | Disguised | 7.00% | ~12,982 |
 | Rescue Takuma | 7.00% | ~12,982 |
 | Rollin' | 7.00% | ~12,982 |
-| Chunin | 6.00% | ~11,127 |
-| Ice Ice Yuki | 6.00% | ~11,127 |
-| Jonin | 6.00% | ~11,127 |
-| Stoned Ox | 6.00% | ~11,127 |
-| Yabu | 6.00% | ~11,127 |
+| Chunin | 6.00% | ~11,128 |
+| Ice Ice Yuki | 6.00% | ~11,128 |
+| Jonin | 6.00% | ~11,128 |
+| Stoned Ox | 6.00% | ~11,128 |
+| Yabu | 6.00% | ~11,128 |
 | Flying Rocks | 5.00% | ~9,273 |
 | Happy Planning | 5.00% | ~9,273 |
 | Mugen Unchained | 5.00% | ~9,273 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~185 |
 | Release the Kraken | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 185,453 (Ranked 57)  
+Progressed: 185,460 (Ranked 57)  
 Completed: 58 (0.03%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,10 +136,10 @@ Completed: 58 (0.03%) (Ranked 208)
 | 2023-07-11 | 184,899 | 58 |
 | 2023-07-12 | 185,131 | 58 |
 | 2023-07-13 | 185,346 | 58 |
-| 2023-07-14 | 185,453 | 58 |
+| 2023-07-14 | 185,460 | 58 |
 ## Awards
 Max (Great for Beginners): 556  (Ranked 183)  
-Sum: 4,701 (Ranked 131)  
+Sum: 4,702 (Ranked 131)  
 Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
@@ -152,7 +152,7 @@ Diff (max vs sum): 52
 | This game has Challenging Combat | 477 |
 | This game is Relaxing | 473 |
 | This game has Quickly Understood Controls | 445 |
-| This game has a Creative Community | 244 |
+| This game has a Creative Community | 245 |
 | This game has Unique Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -294,3 +294,4 @@ Diff (max vs sum): 52
 | 2023-07-09 | 4.66 | - | 554 | 4,698 |
 | 2023-07-10 | 4.66 | - | 556 | 4,700 |
 | 2023-07-13 | 4.66 | - | 556 | 4,701 |
+| 2023-07-14 | 4.66 | - | 556 | 4,702 |

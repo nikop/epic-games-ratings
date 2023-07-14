@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1102,
+  "EOS_Progressed": 1104,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1435,6 +1435,11 @@
       "Time": "2023-07-14T13:21:48.4084199+00:00",
       "NumProgressed": 1102,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-14T14:06:40.6676488+00:00",
+      "NumProgressed": 1104,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1446,7 +1451,7 @@
       "Name": "Agent 47",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "Auditor",
@@ -1478,7 +1483,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "Commandos",
@@ -1494,7 +1499,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "Defense_Common",
@@ -1532,9 +1537,9 @@
       "ID": "Everyone_is_here",
       "SetID": "85nb4h3",
       "Name": "The Gang\u0027s All Here",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 144
     },
     {
       "ID": "Experienced_strategist",
@@ -1630,7 +1635,7 @@
       "Name": "Bomberman",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "MoskitoBite",
@@ -1685,15 +1690,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1102,
+      "Progressed": 1104,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-07-14T13:21:48.4084193+00:00",
+  "LastChanged_Achievements": "2023-07-14T14:06:40.6676485+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:17.5173337+00:00",
-  "LastUpdate_Ratings": "2023-07-14T13:14:46.6664942+00:00",
-  "LastUpdate_Achievements": "2023-07-14T13:21:48.4084488+00:00"
+  "LastUpdate_Ratings": "2023-07-14T13:59:38.9588576+00:00",
+  "LastUpdate_Achievements": "2023-07-14T14:06:40.6676701+00:00"
 }

@@ -11,6 +11,7 @@ Rating: 4.87 (Ranked 24)
 | The Negotiator | 1.00% | ~34 |
 | Headliner | 1.00% | ~34 |
 | Time to pay up! | 1.00% | ~34 |
+| Who's the boss now? | 1.00% | ~34 |
 | Thanks for the free chip, Peppermint! | 1.00% | ~34 |
 | I play my own way! | 1.00% | ~34 |
 | Whoa! There's ANOTHER health bar!? | 1.00% | ~34 |
@@ -23,7 +24,6 @@ Rating: 4.87 (Ranked 24)
 | Who put gears in there? | 1.00% | ~34 |
 | Alright, that felt AWESOME! | 1.00% | ~34 |
 | Start with a bang! | 0.90% | ~31 |
-| Who's the boss now? | 0.90% | ~31 |
 | I have to read these things? | 0.90% | ~31 |
 | Feeling the beat! | 0.90% | ~31 |
 | You must like calling me in, Chai | 0.90% | ~31 |

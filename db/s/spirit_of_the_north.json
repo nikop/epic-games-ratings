@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 127,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -318,9 +318,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 61899,
+  "EOS_Progressed": 61900,
   "EOS_Completed": 312,
-  "EOS_NewPlayers": 819,
+  "EOS_NewPlayers": 815,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -9313,6 +9313,11 @@
       "Time": "2023-07-14T13:16:17.1494509+00:00",
       "NumProgressed": 61899,
       "NumCompleted": 312
+    },
+    {
+      "Time": "2023-07-14T14:02:14.2579218+00:00",
+      "NumProgressed": 61900,
+      "NumCompleted": 312
     }
   ],
   "TotalAchievements": 24,
@@ -9340,7 +9345,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 42091
+      "UsersEstimate": 42092
     },
     {
       "ID": "BEST_FRIENDS",
@@ -9404,7 +9409,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 32806
+      "UsersEstimate": 32807
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -9515,7 +9520,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 61899,
+      "Progressed": 61900,
       "Completed": 312
     }
   ],
@@ -9523,8 +9528,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-06-20T12:00:48.5369511+00:00",
-  "LastChanged_Achievements": "2023-07-14T13:16:17.14945+00:00",
+  "LastChanged_Achievements": "2023-07-14T14:02:14.2579214+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:39.6580646+00:00",
-  "LastUpdate_Ratings": "2023-07-14T13:15:02.0764983+00:00",
-  "LastUpdate_Achievements": "2023-07-14T13:16:17.1495325+00:00"
+  "LastUpdate_Ratings": "2023-07-14T13:59:53.2527582+00:00",
+  "LastUpdate_Achievements": "2023-07-14T14:02:14.2581434+00:00"
 }
