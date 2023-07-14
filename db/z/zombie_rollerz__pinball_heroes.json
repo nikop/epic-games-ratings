@@ -519,9 +519,9 @@
       "ID": "CLG_UNLOCK_10010",
       "SetID": "89cjc9l",
       "Name": "The Astronaut",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "PRG_ACCUM_BLESS",
@@ -591,9 +591,9 @@
       "ID": "PRG_BOSS_MAGICIAN",
       "SetID": "89cjc9l",
       "Name": "The Magician",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "PRG_BOSS_NINJA",
@@ -727,9 +727,9 @@
       "ID": "PRG_HARD_10008",
       "SetID": "89cjc9l",
       "Name": "Titanium",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "PRG_HARD_10009",
@@ -855,9 +855,9 @@
       "ID": "PRG_MODE_HELL",
       "SetID": "89cjc9l",
       "Name": "Highway to Hell",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "PRG_NORMAL_10001",
@@ -968,8 +968,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-07-14T06:02:23.0979814+00:00",
+  "LastChanged_Achievements": "2023-07-14T07:00:45.1889541+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:47.3455238+00:00",
-  "LastUpdate_Ratings": "2023-07-14T05:57:49.2859517+00:00",
-  "LastUpdate_Achievements": "2023-07-14T06:02:23.0980429+00:00"
+  "LastUpdate_Ratings": "2023-07-14T06:57:34.9026975+00:00",
+  "LastUpdate_Achievements": "2023-07-14T07:00:45.1890129+00:00"
 }

@@ -1452,7 +1452,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 24211,
+  "EOS_Progressed": 24212,
   "EOS_Completed": 46,
   "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
@@ -7847,6 +7847,11 @@
       "Time": "2023-07-14T02:28:21.9265543+00:00",
       "NumProgressed": 24211,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-07-14T07:00:40.6190061+00:00",
+      "NumProgressed": 24212,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 51,
@@ -7858,7 +7863,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 17674
+      "UsersEstimate": 17675
     },
     {
       "ID": "Animated",
@@ -7970,7 +7975,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 15495
+      "UsersEstimate": 15496
     },
     {
       "ID": "Escape_Artist",
@@ -8002,7 +8007,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 7263
+      "UsersEstimate": 7264
     },
     {
       "ID": "Ghost_Expert",
@@ -8018,7 +8023,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 7263
+      "UsersEstimate": 7264
     },
     {
       "ID": "Legions",
@@ -8162,7 +8167,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 20821
+      "UsersEstimate": 20822
     },
     {
       "ID": "Summoner",
@@ -8242,7 +8247,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 11621
+      "UsersEstimate": 11622
     },
     {
       "ID": "Welcome_Crew",
@@ -8265,7 +8270,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 24211,
+      "Progressed": 24212,
       "Completed": 46
     }
   ],
@@ -8273,8 +8278,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-07-14T03:59:25.3074827+00:00",
-  "LastChanged_Achievements": "2023-07-14T06:02:17.6126941+00:00",
+  "LastChanged_Achievements": "2023-07-14T07:00:40.6190056+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:03.6661628+00:00",
-  "LastUpdate_Ratings": "2023-07-14T05:59:33.5971814+00:00",
-  "LastUpdate_Achievements": "2023-07-14T06:02:17.6129408+00:00"
+  "LastUpdate_Ratings": "2023-07-14T06:59:01.8184859+00:00",
+  "LastUpdate_Achievements": "2023-07-14T07:00:40.6190712+00:00"
 }

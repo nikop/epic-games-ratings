@@ -3,6 +3,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Break Out | 0.00% | ~0 |
 | Calm before the Storm | 0.00% | ~0 |
 | To Battle | 0.00% | ~0 |
 | Godslayer | 0.00% | ~0 |
@@ -20,7 +21,6 @@
 | Miner | 0.00% | ~0 |
 | Feeling Fancy | 0.00% | ~0 |
 | Summiter | 0.00% | ~0 |
-| Break Out | -5.60% | ~-1 |
 | Find Allies | -5.60% | ~-1 |
 | Powerful Allies | -5.60% | ~-1 |
 | A Taste of Wrath | -5.60% | ~-1 |

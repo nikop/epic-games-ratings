@@ -1303,9 +1303,9 @@
       "Count": 244
     }
   ],
-  "EOS_Progressed": 185390,
+  "EOS_Progressed": 185393,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 1699,
+  "EOS_NewPlayers": 1696,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -10493,6 +10493,11 @@
       "Time": "2023-07-14T06:07:15.2914235+00:00",
       "NumProgressed": 185390,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-07-14T07:06:14.3937878+00:00",
+      "NumProgressed": 185393,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 44,
@@ -10528,7 +10533,7 @@
       "Name": "Chunin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 11123
+      "UsersEstimate": 11124
     },
     {
       "ID": "CompleteMastery",
@@ -10544,7 +10549,7 @@
       "Name": "Disguised",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 12977
+      "UsersEstimate": 12978
     },
     {
       "ID": "FiveShadows",
@@ -10608,7 +10613,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 11123
+      "UsersEstimate": 11124
     },
     {
       "ID": "ItsRainingMen",
@@ -10624,7 +10629,7 @@
       "Name": "Jonin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 11123
+      "UsersEstimate": 11124
     },
     {
       "ID": "Mercyful",
@@ -10720,7 +10725,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 12977
+      "UsersEstimate": 12978
     },
     {
       "ID": "Rollin",
@@ -10728,7 +10733,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 12977
+      "UsersEstimate": 12978
     },
     {
       "ID": "StillRollin",
@@ -10752,7 +10757,7 @@
       "Name": "Stoned Ox",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 11123
+      "UsersEstimate": 11124
     },
     {
       "ID": "TanukiTime",
@@ -10848,22 +10853,22 @@
       "Name": "Yabu",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 11123
+      "UsersEstimate": 11124
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 185390,
+      "Progressed": 185393,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-07-13T05:59:49.2970566+00:00",
-  "LastChanged_Achievements": "2023-07-14T06:07:15.291423+00:00",
+  "LastChanged_Achievements": "2023-07-14T07:06:14.3937873+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:08.4389574+00:00",
-  "LastUpdate_Ratings": "2023-07-14T05:59:36.562513+00:00",
-  "LastUpdate_Achievements": "2023-07-14T06:07:15.2914942+00:00"
+  "LastUpdate_Ratings": "2023-07-14T06:59:04.0775436+00:00",
+  "LastUpdate_Achievements": "2023-07-14T07:06:14.3938561+00:00"
 }

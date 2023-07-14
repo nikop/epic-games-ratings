@@ -6,31 +6,31 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,244 |
-| That's a Grand Army | 8.00% | ~5,550 |
-| That is mine! | 8.00% | ~5,550 |
-| Victorious! | 8.00% | ~5,550 |
-| Brothers in Arms | 6.00% | ~4,162 |
-| That's a Grand Navy | 6.00% | ~4,162 |
-| Seriously?! | 6.00% | ~4,162 |
-| For the Glory | 5.00% | ~3,469 |
-| Cold War | 4.00% | ~2,775 |
-| True Catholic | 4.00% | ~2,775 |
-| Defender of the Faith | 3.00% | ~2,081 |
-| It's all about luck | 3.00% | ~2,081 |
-| It's all about the money | 3.00% | ~2,081 |
-| Respected | 3.00% | ~2,081 |
-| The Princess is in this Castle | 3.00% | ~2,081 |
-| Truly Divine Ruler | 3.00% | ~2,081 |
-| Agressive Expander | 2.00% | ~1,387 |
-| Blockader | 2.00% | ~1,387 |
-| Combined Arms | 2.00% | ~1,387 |
-| Double the Love | 2.00% | ~1,387 |
-| Gentle Persuasion | 2.00% | ~1,387 |
-| My armies are invincible! | 2.00% | ~1,387 |
-| Queen of Conquest | 2.00% | ~1,387 |
-| Royal Authority | 2.00% | ~1,387 |
-| Total Control | 2.00% | ~1,387 |
+| Until death do us apart | 9.00% | ~6,245 |
+| That's a Grand Army | 8.00% | ~5,551 |
+| That is mine! | 8.00% | ~5,551 |
+| Victorious! | 8.00% | ~5,551 |
+| Brothers in Arms | 6.00% | ~4,163 |
+| That's a Grand Navy | 6.00% | ~4,163 |
+| Seriously?! | 6.00% | ~4,163 |
+| For the Glory | 5.00% | ~3,470 |
+| Cold War | 4.00% | ~2,776 |
+| True Catholic | 4.00% | ~2,776 |
+| Defender of the Faith | 3.00% | ~2,082 |
+| It's all about luck | 3.00% | ~2,082 |
+| It's all about the money | 3.00% | ~2,082 |
+| Respected | 3.00% | ~2,082 |
+| The Princess is in this Castle | 3.00% | ~2,082 |
+| Truly Divine Ruler | 3.00% | ~2,082 |
+| Agressive Expander | 2.00% | ~1,388 |
+| Blockader | 2.00% | ~1,388 |
+| Combined Arms | 2.00% | ~1,388 |
+| Double the Love | 2.00% | ~1,388 |
+| Gentle Persuasion | 2.00% | ~1,388 |
+| My armies are invincible! | 2.00% | ~1,388 |
+| Queen of Conquest | 2.00% | ~1,388 |
+| Royal Authority | 2.00% | ~1,388 |
+| Total Control | 2.00% | ~1,388 |
 | All That's Thine Shall Be Mine | 1.00% | ~694 |
 | Azur semé de lis or | 1.00% | ~694 |
 | Bright Spark | 1.00% | ~694 |
@@ -40,9 +40,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Golden Empire | 1.00% | ~694 |
 | The Five Colonies | 1.00% | ~694 |
 | This navy can take it all | 1.00% | ~694 |
-| Isn't this the way to India? | 0.90% | ~624 |
-| Market Control | 0.90% | ~624 |
-| Trustworthy | 0.90% | ~624 |
+| Isn't this the way to India? | 0.90% | ~625 |
+| Market Control | 0.90% | ~625 |
+| Trustworthy | 0.90% | ~625 |
 | Down Under | 0.80% | ~555 |
 | Electable! | 0.70% | ~486 |
 | Populists in Government | 0.70% | ~486 |
@@ -59,18 +59,18 @@ Number of Ratings: 8,414  (23.09.2022)
 | Ruina Imperii | 0.50% | ~347 |
 | Trophy Hunter | 0.50% | ~347 |
 | Voting Streak | 0.50% | ~347 |
-| All Your Trade Are Belong to Us | 0.40% | ~277 |
-| Bleed Them Dry | 0.40% | ~277 |
-| Dude, Where's my Boat? | 0.40% | ~277 |
-| Four For Trade | 0.40% | ~277 |
-| Global Hegemony | 0.40% | ~277 |
-| In the Name of the Father | 0.40% | ~277 |
-| Italian Ambition | 0.40% | ~277 |
-| Just a Little Patience | 0.40% | ~277 |
-| One Night in Paris | 0.40% | ~277 |
-| Tear Down This Wall | 0.40% | ~277 |
-| The Continuation of Diplomacy | 0.40% | ~277 |
-| Wonderful | 0.40% | ~277 |
+| All Your Trade Are Belong to Us | 0.40% | ~278 |
+| Bleed Them Dry | 0.40% | ~278 |
+| Dude, Where's my Boat? | 0.40% | ~278 |
+| Four For Trade | 0.40% | ~278 |
+| Global Hegemony | 0.40% | ~278 |
+| In the Name of the Father | 0.40% | ~278 |
+| Italian Ambition | 0.40% | ~278 |
+| Just a Little Patience | 0.40% | ~278 |
+| One Night in Paris | 0.40% | ~278 |
+| Tear Down This Wall | 0.40% | ~278 |
+| The Continuation of Diplomacy | 0.40% | ~278 |
+| Wonderful | 0.40% | ~278 |
 | A Decent Reserve | 0.30% | ~208 |
 | A Pile of Gold | 0.30% | ~208 |
 | Grand Duchy | 0.30% | ~208 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69,373 (Ranked 73)  
+Progressed: 69,391 (Ranked 73)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -446,7 +446,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-11 | 68,569 | 0 |
 | 2023-07-12 | 68,921 | 0 |
 | 2023-07-13 | 69,319 | 0 |
-| 2023-07-14 | 69,373 | 0 |
+| 2023-07-14 | 69,391 | 0 |
 ## Awards
 Max (Educational): 5,540  (Ranked 60)  
 Sum: 45,689 (Ranked 27)  

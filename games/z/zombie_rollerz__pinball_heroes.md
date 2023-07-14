@@ -13,7 +13,7 @@
 | The Thrower | 50.00% | ~58 |
 | Duscot Steamcity | 50.00% | ~58 |
 | The Penguin | 46.00% | ~54 |
-| The Magician | 44.00% | ~51 |
+| The Magician | 45.00% | ~53 |
 | The Tunneler | 40.00% | ~47 |
 | Level Up!! | 38.00% | ~44 |
 | The Shield | 38.00% | ~44 |
@@ -41,8 +41,8 @@
 | Iron | 11.00% | ~13 |
 | The Bomber | 9.00% | ~11 |
 | Tested | 9.00% | ~11 |
-| The Astronaut | 7.00% | ~8 |
-| Highway to Hell | 6.00% | ~7 |
+| The Astronaut | 8.00% | ~9 |
+| Highway to Hell | 7.00% | ~8 |
 | Power Overwhelming | 5.00% | ~6 |
 | The Exorcist | 5.00% | ~6 |
 | Mithril | 5.00% | ~6 |
@@ -51,13 +51,13 @@
 | Anvil | 4.00% | ~5 |
 | Combo Master | 3.00% | ~4 |
 | It's a Trap! | 3.00% | ~4 |
+| Titanium | 3.00% | ~4 |
 | Tongs | 3.00% | ~4 |
 | Concluded | 3.00% | ~4 |
 | Platinum | 3.00% | ~4 |
 | Really Bad Luck | 2.00% | ~2 |
 | Chorus | 2.00% | ~2 |
 | TNT | 2.00% | ~2 |
-| Titanium | 2.00% | ~2 |
 | Rocket | 2.00% | ~2 |
 | Nuclear Bomb | 2.00% | ~2 |
 | Divinity | 2.00% | ~2 |

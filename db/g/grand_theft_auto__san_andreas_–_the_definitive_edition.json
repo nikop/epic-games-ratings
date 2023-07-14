@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 154,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -556,9 +556,9 @@
       "Count": 216
     }
   ],
-  "EOS_Progressed": 11040,
+  "EOS_Progressed": 11041,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -6541,6 +6541,11 @@
       "Time": "2023-07-14T06:07:14.2730163+00:00",
       "NumProgressed": 11040,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-07-14T07:06:13.5960091+00:00",
+      "NumProgressed": 11041,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 35,
@@ -6552,7 +6557,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 8942
+      "UsersEstimate": 8943
     },
     {
       "ID": "ACH02",
@@ -6672,7 +6677,7 @@
       "Name": "Smooth Moves",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1766
+      "UsersEstimate": 1767
     },
     {
       "ID": "ACH17",
@@ -6831,7 +6836,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11040,
+      "Progressed": 11041,
       "Completed": 29
     }
   ],
@@ -6839,8 +6844,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-14T00:01:12.6621522+00:00",
-  "LastChanged_Achievements": "2023-07-14T06:07:14.2730158+00:00",
+  "LastChanged_Achievements": "2023-07-14T07:06:13.5960086+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:43.1834453+00:00",
-  "LastUpdate_Ratings": "2023-07-14T06:00:58.3218777+00:00",
-  "LastUpdate_Achievements": "2023-07-14T06:07:14.273063+00:00"
+  "LastUpdate_Ratings": "2023-07-14T07:00:03.8445424+00:00",
+  "LastUpdate_Achievements": "2023-07-14T07:06:13.5960552+00:00"
 }

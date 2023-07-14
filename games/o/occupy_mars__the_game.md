@@ -33,8 +33,8 @@ Rating: 3.93 (Ranked 925)
 | Thunderstruck | 0.80% | ~11 |
 | 5G Network | 0.60% | ~8 |
 | Planetary Defence | 0.60% | ~8 |
+| One does not simply... | 0.60% | ~8 |
 | Bull’s eye | 0.50% | ~7 |
-| One does not simply... | 0.50% | ~7 |
 | Rover Mechanic | 0.50% | ~7 |
 | Korolev crater | 0.40% | ~6 |
 | Hot Repairs | 0.30% | ~4 |

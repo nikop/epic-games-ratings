@@ -27,7 +27,7 @@ Rating: 4.87 (Ranked 24)
 | I have to read these things? | 0.90% | ~31 |
 | Feeling the beat! | 0.90% | ~31 |
 | You must like calling me in, Chai | 0.90% | ~31 |
-| You can pet the cat! | 0.80% | ~28 |
+| You can pet the cat! | 0.90% | ~31 |
 | Perfecter Parry-er! | 0.70% | ~24 |
 | I look cool. But I can look COOLER. | 0.70% | ~24 |
 | Well that was a rush! | 0.60% | ~21 |
@@ -37,10 +37,10 @@ Rating: 4.87 (Ranked 24)
 | There's such a thing as TOO helpful | 0.50% | ~17 |
 | Call me Turbo Chai | 0.50% | ~10 |
 | New bad guys? No problem! | 0.40% | ~8 |
+| I think I deserve some praise, here! | 0.30% | ~10 |
 | Chip-tuned | 0.30% | ~10 |
 | Wanna hear my playlist? | 0.30% | ~10 |
 | Check out my moves! | 0.30% | ~10 |
-| I think I deserve some praise, here! | 0.20% | ~7 |
 | I think I found your calling, Macaron | 0.20% | ~7 |
 | This is a breeze! | 0.20% | ~7 |
 | I told you I'd be fine, Peppermint! | 0.20% | ~7 |

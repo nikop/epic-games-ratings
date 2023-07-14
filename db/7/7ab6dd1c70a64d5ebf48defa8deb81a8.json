@@ -83,9 +83,9 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break Out",
-      "Percentage": -5.6,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_02",
@@ -377,7 +377,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-07-14T06:01:28.937527+00:00",
-  "LastUpdate_Ratings": "2023-07-14T05:57:06.5586771+00:00",
-  "LastUpdate_Achievements": "2023-07-14T06:01:28.9375528+00:00"
+  "LastChanged_Achievements": "2023-07-14T07:00:34.5012235+00:00",
+  "LastUpdate_Ratings": "2023-07-14T06:57:01.6138572+00:00",
+  "LastUpdate_Achievements": "2023-07-14T07:00:34.5012607+00:00"
 }

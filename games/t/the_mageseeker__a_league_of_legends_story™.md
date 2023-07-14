@@ -48,9 +48,9 @@ Rating: 4.81 (Ranked 75)
 | I smell fear | 11.00% | ~268 |
 | The end of the experiments | 11.00% | ~268 |
 | The Great City of Demacia | 11.00% | ~268 |
+| Call it 'redistribution of magic | 11.00% | ~268 |
 | Truth is a dark mirror | 10.00% | ~244 |
 | Back to sleep, then... | 10.00% | ~244 |
-| Call it 'redistribution of magic | 10.00% | ~244 |
 | Do you trust me? | 9.00% | ~219 |
 | Chains master | 9.00% | ~219 |
 | You can pet the... horse | 9.00% | ~219 |

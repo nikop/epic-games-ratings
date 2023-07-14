@@ -6,19 +6,19 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~389,958 |
-| Hey! That's mine! | 78.00% | ~375,515 |
-| Happy Returns | 77.00% | ~370,701 |
-| Field Promotion | 74.00% | ~356,258 |
-| Leadhead | 71.00% | ~341,815 |
-| Eradicator | 67.00% | ~322,558 |
+| First Blood | 81.00% | ~389,959 |
+| Hey! That's mine! | 78.00% | ~375,516 |
+| Happy Returns | 77.00% | ~370,702 |
+| Field Promotion | 74.00% | ~356,259 |
+| Leadhead | 71.00% | ~341,816 |
+| Eradicator | 67.00% | ~322,559 |
 | Surplus | 65.00% | ~312,930 |
-| I Spy | 64.00% | ~308,115 |
+| I Spy | 64.00% | ~308,116 |
 | Burn Baby Burn | 59.00% | ~284,044 |
-| Yellow Beats Green | 55.00% | ~264,786 |
+| Yellow Beats Green | 55.00% | ~264,787 |
 | Salvage Rights | 53.00% | ~255,158 |
-| Pew Pew | 50.00% | ~240,715 |
-| What IS that? | 50.00% | ~240,715 |
+| Pew Pew | 50.00% | ~240,716 |
+| What IS that? | 50.00% | ~240,716 |
 | Close Call | 49.00% | ~235,901 |
 | Penny Pincher | 49.00% | ~235,901 |
 | Arsenal | 46.00% | ~221,458 |
@@ -34,7 +34,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Liquidator | 29.00% | ~139,615 |
 | High Voltage | 24.00% | ~115,543 |
 | Filthy Rich | 19.00% | ~91,472 |
-| The Not-So-Friendly Skies | 18.00% | ~86,657 |
+| The Not-So-Friendly Skies | 18.00% | ~86,658 |
 | Power Builder | 17.00% | ~81,843 |
 | Pyrrhic Victory | 17.00% | ~81,843 |
 | Death From Above | 16.00% | ~77,029 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~481 |
 | You Monster | 0.10% | ~481 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 481,430 (Ranked 32)  
+Progressed: 481,431 (Ranked 32)  
 Completed: 4 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 4 (0.00%) (Ranked 236)
 | 2023-07-11 | 481,286 | 4 |
 | 2023-07-12 | 481,339 | 4 |
 | 2023-07-13 | 481,412 | 4 |
-| 2023-07-14 | 481,430 | 4 |
+| 2023-07-14 | 481,431 | 4 |
 ## Awards
 Max (Great for Beginners): 236  (Ranked 250)  
 Sum: 1,663 (Ranked 208)  

@@ -2,7 +2,7 @@
   "ID": "25d726130e6c4fe68f88e71933bda955",
   "Name": "Terraforming Mars",
   "ProductSlug": "terraforming-mars-18c3ad",
-  "Ranking_Rating": 490,
+  "Ranking_Rating": 491,
   "Ranking_Popularity": 192,
   "Ranking_PopularitySum": 155,
   "Ranking_EOS_Progress": 76,
@@ -2446,9 +2446,9 @@
       "Count": 235
     }
   ],
-  "EOS_Progressed": 66949,
+  "EOS_Progressed": 66950,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 938,
+  "EOS_NewPlayers": 937,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11461,6 +11461,11 @@
       "Time": "2023-07-14T06:04:43.327526+00:00",
       "NumProgressed": 66949,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2023-07-14T07:04:07.9822777+00:00",
+      "NumProgressed": 66950,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 30,
@@ -11560,7 +11565,7 @@
       "Name": "Changing the Planet",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 19415
+      "UsersEstimate": 19416
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -11568,7 +11573,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 22093
+      "UsersEstimate": 22094
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -11600,7 +11605,7 @@
       "Name": "Beagle 2",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 16737
+      "UsersEstimate": 16738
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -11648,7 +11653,7 @@
       "Name": "Final touch",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 24771
+      "UsersEstimate": 24772
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -11711,15 +11716,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 66949,
+      "Progressed": 66950,
       "Completed": 71
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-07-13T02:25:10.5378083+00:00",
-  "LastChanged_Achievements": "2023-07-14T06:04:43.3275255+00:00",
+  "LastChanged_Achievements": "2023-07-14T07:04:07.9822771+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:57.7557598+00:00",
-  "LastUpdate_Ratings": "2023-07-14T05:58:44.5392659+00:00",
-  "LastUpdate_Achievements": "2023-07-14T06:04:43.3275869+00:00"
+  "LastUpdate_Ratings": "2023-07-14T06:58:21.1270487+00:00",
+  "LastUpdate_Achievements": "2023-07-14T07:04:07.9823381+00:00"
 }

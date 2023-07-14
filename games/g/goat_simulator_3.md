@@ -5,22 +5,22 @@ Rating: 4.85 (Ranked 41)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~211,437 |
+| Forgotten Sorority | 91.00% | ~211,438 |
 | Private Club | 74.00% | ~171,938 |
-| Rogue Guild | 65.00% | ~151,026 |
-| I Watched the Intro | 57.00% | ~132,438 |
-| Covert Consortium | 55.00% | ~127,791 |
-| Goat Queen | 53.00% | ~123,144 |
+| Rogue Guild | 65.00% | ~151,027 |
+| I Watched the Intro | 57.00% | ~132,439 |
+| Covert Consortium | 55.00% | ~127,792 |
+| Goat Queen | 53.00% | ~123,145 |
 | Reach the Stratosphere | 50.00% | ~116,174 |
 | Synchronization Complete | 47.00% | ~109,204 |
 | Secret Society | 45.00% | ~104,557 |
-| Shadow Syndicate | 38.00% | ~88,292 |
+| Shadow Syndicate | 38.00% | ~88,293 |
 | What a Waste of Money | 33.00% | ~76,675 |
-| New Goat Order | 30.00% | ~69,704 |
-| Don't touch the servers | 28.00% | ~65,057 |
-| San Angora: Become Human | 26.00% | ~60,410 |
-| Raider of the Lost Parking Garage | 26.00% | ~60,410 |
-| Real Buoy | 26.00% | ~60,410 |
+| New Goat Order | 30.00% | ~69,705 |
+| Don't touch the servers | 28.00% | ~65,058 |
+| San Angora: Become Human | 26.00% | ~60,411 |
+| Raider of the Lost Parking Garage | 26.00% | ~60,411 |
+| Real Buoy | 26.00% | ~60,411 |
 | Welcome to Earth | 25.00% | ~58,087 |
 | Into the Matrix | 19.00% | ~44,146 |
 | Where is It? | 17.00% | ~39,499 |
@@ -45,8 +45,8 @@ Rating: 4.85 (Ranked 41)
 | Move! That! Bus! | 0.60% | ~1,394 |
 | G.O.A.T | 0.30% | ~697 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,348 (Ranked 47)  
-Completed: 769 (0.33%) (Ranked 143)  
+Progressed: 232,349 (Ranked 47)  
+Completed: 770 (0.33%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -130,7 +130,7 @@ Completed: 769 (0.33%) (Ranked 143)
 | 2023-07-11 | 232,052 | 766 |
 | 2023-07-12 | 232,209 | 768 |
 | 2023-07-13 | 232,333 | 769 |
-| 2023-07-14 | 232,348 | 769 |
+| 2023-07-14 | 232,349 | 770 |
 ## Awards
 Max (Great for Beginners): 362  (Ranked 219)  
 Sum: 3,023 (Ranked 160)  
