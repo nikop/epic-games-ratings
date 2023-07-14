@@ -41,7 +41,7 @@
 | 39 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.91% |
 | 40 | [JARS](games/j/jars.md) | 4.84% |
 | 41 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
-| 42 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.59% |
+| 42 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.58% |
 | 43 | [Without Escape](games/w/without_escape.md) | 4.55% |
 | 44 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.32% |
 | 45 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.88% |
@@ -125,14 +125,14 @@
 | 123 | [Potion Permit](games/p/potion_permit.md) | 0.55% |
 | 123 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
 | 125 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.53% |
-| 126 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
-| 126 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
-| 128 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.48% |
-| 129 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
-| 130 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.46% |
-| 130 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
-| 132 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.43% |
-| 132 | [Tchia](games/t/tchia.md) | 0.43% |
+| 126 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.51% |
+| 127 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
+| 127 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
+| 129 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.48% |
+| 130 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
+| 131 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.46% |
+| 131 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
+| 133 | [Tchia](games/t/tchia.md) | 0.43% |
 | 134 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.42% |
 | 134 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.42% |
 | 136 | [Ghostrunner](games/g/ghostrunner.md) | 0.41% |
@@ -490,4 +490,4 @@
 | 236 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 236 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 236 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,899 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
+| 2,900 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |

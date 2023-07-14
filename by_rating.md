@@ -731,7 +731,7 @@
 | 721 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 32 | 447 |
 | 730 | [Core](games/c/core.md) | 4.36 | 742 | 158 |
 | 730 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 171 | 284 |
-| 730 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,567 | 29 |
+| 730 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,569 | 29 |
 | 730 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 505 |
 | 730 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 474 |
 | 730 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 48 | 404 |
@@ -789,12 +789,12 @@
 | 781 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 700 | 164 |
 | 781 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 43 | 415 |
 | 781 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 125 | 306 |
-| 781 | [Steelrising](games/s/steelrising.md) | 4.29 | 36 | 432 |
 | 781 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.29 | 0 | 505 |
-| 792 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.28 | 0 | 505 |
-| 792 | [Mortal Shell](games/m/mortal_shell.md) | 4.28 | 0 | 505 |
-| 792 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.28 | 137 | 298 |
-| 792 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 283 |
+| 791 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.28 | 0 | 505 |
+| 791 | [Mortal Shell](games/m/mortal_shell.md) | 4.28 | 0 | 505 |
+| 791 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.28 | 137 | 298 |
+| 791 | [Steelrising](games/s/steelrising.md) | 4.28 | 36 | 432 |
+| 791 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 283 |
 | 796 | [Chess Ultra](games/c/chess_ultra.md) | 4.27 | 0 | 505 |
 | 796 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 4.27 | 0 | 505 |
 | 796 | [Dice Legacy](games/d/dice_legacy.md) | 4.27 | 0 | 505 |
