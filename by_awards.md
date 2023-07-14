@@ -1,7 +1,7 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 1,499,676 | 4.29 | 782 |
-| 2 | [Rocket League®](games/r/rocket_league®.md) | 472,387 | 4.50 | 552 |
+| 2 | [Rocket League®](games/r/rocket_league®.md) | 473,379 | 4.50 | 552 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 300,065 | 4.68 | 241 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 198,433 | 4.68 | 241 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 186,108 | 4.19 | 847 |
@@ -38,10 +38,10 @@
 | 36 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,471 | 4.78 | 99 |
 | 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,455 | 4.61 | 362 |
 | 38 | [SnowRunner](games/s/snowrunner.md) | 9,184 | 4.76 | 118 |
-| 39 | [Control](games/c/control.md) | 8,394 | 4.60 | 389 |
+| 39 | [Control](games/c/control.md) | 8,396 | 4.60 | 389 |
 | 40 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 8,393 | 4.58 | 422 |
 | 41 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 7,715 | 4.89 | 12 |
-| 42 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,688 | 4.85 | 41 |
+| 42 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,691 | 4.85 | 41 |
 | 43 | [Supraland](games/s/supraland.md) | 7,643 | 4.61 | 362 |
 | 44 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,572 | 4.57 | 439 |
 | 45 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 7,550 | 4.48 | 587 |

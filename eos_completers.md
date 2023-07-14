@@ -45,7 +45,7 @@
 | 43 | [Without Escape](games/w/without_escape.md) | 4.55% |
 | 44 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.32% |
 | 45 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.87% |
-| 46 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.77% |
+| 46 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.76% |
 | 47 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
 | 48 | [ZZT!](games/z/zzt!.md) | 3.57% |
 | 49 | [Doodle God](games/d/doodle_god.md) | 3.56% |
@@ -82,7 +82,7 @@
 | 80 | [Sifu](games/s/sifu.md) | 1.80% |
 | 81 | [Iron Danger](games/i/iron_danger.md) | 1.79% |
 | 82 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.75% |
-| 83 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.64% |
+| 83 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.63% |
 | 84 | [Somerville](games/s/somerville.md) | 1.56% |
 | 85 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.52% |
 | 86 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |

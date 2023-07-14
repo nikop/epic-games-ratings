@@ -40,7 +40,7 @@
 | 28 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 485 | 195 |
 | 28 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.86 | 0 | 505 |
 | 28 | [WarmSnow](games/w/warmsnow.md) | 4.86 | 0 | 505 |
-| 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,688 | 42 |
+| 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,691 | 42 |
 | 41 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,517 | 61 |
 | 41 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 362 | 219 |
 | 41 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 218 | 256 |
@@ -393,7 +393,7 @@
 | 389 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.60 | 667 | 167 |
 | 389 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 12,831 | 28 |
 | 389 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 207 | 266 |
-| 389 | [Control](games/c/control.md) | 4.60 | 8,394 | 39 |
+| 389 | [Control](games/c/control.md) | 4.60 | 8,396 | 39 |
 | 389 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 218 | 256 |
 | 389 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 74 | 363 |
 | 389 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,494 | 27 |
@@ -573,7 +573,7 @@
 | 552 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.50 | 0 | 505 |
 | 552 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 0 | 505 |
 | 552 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 728 | 160 |
-| 552 | [Rocket League®](games/r/rocket_league®.md) | 4.50 | 472,387 | 2 |
+| 552 | [Rocket League®](games/r/rocket_league®.md) | 4.50 | 473,379 | 2 |
 | 552 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.50 | 0 | 505 |
 | 552 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 35 | 435 |
 | 577 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 62 | 385 |
