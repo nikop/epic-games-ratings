@@ -40,7 +40,7 @@
 | 38 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.06% |
 | 39 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.91% |
 | 40 | [JARS](games/j/jars.md) | 4.84% |
-| 41 | [Bugsnax](games/b/bugsnax.md) | 4.69% |
+| 41 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
 | 42 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.59% |
 | 43 | [Without Escape](games/w/without_escape.md) | 4.55% |
 | 44 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.32% |
@@ -61,7 +61,7 @@
 | 58 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 60 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 2.92% |
 | 61 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.86% |
-| 62 | [Destiny 2](games/d/destiny_2.md) | 2.82% |
+| 62 | [Destiny 2](games/d/destiny_2.md) | 2.81% |
 | 63 | [The Bunker](games/t/the_bunker.md) | 2.75% |
 | 64 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 65 | [Lamentum](games/l/lamentum.md) | 2.67% |

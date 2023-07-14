@@ -36,7 +36,7 @@
 | 28 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 12,097 | 31 |
 | 28 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 97 | 334 |
 | 28 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 42 | 416 |
-| 28 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,314 | 128 |
+| 28 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,315 | 128 |
 | 28 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 484 | 195 |
 | 28 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.86 | 0 | 505 |
 | 28 | [WarmSnow](games/w/warmsnow.md) | 4.86 | 0 | 505 |
@@ -478,6 +478,7 @@
 | 458 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,155 | 75 |
 | 477 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.55 | 0 | 505 |
 | 477 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 505 |
+| 477 | [Far Cry](games/f/far_cry.md) | 4.55 | 0 | 505 |
 | 477 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 222 | 253 |
 | 477 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.55 | 150 | 292 |
 | 477 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.55 | 0 | 505 |
@@ -489,25 +490,24 @@
 | 477 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 0 | 505 |
 | 477 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 310 | 230 |
 | 477 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,208 | 131 |
-| 490 | [Aimlabs](games/a/aimlabs.md) | 4.54 | 0 | 505 |
-| 490 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 0 | 505 |
-| 490 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,323 | 127 |
-| 490 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 5,185 | 63 |
-| 490 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 442 |
-| 490 | [Far Cry](games/f/far_cry.md) | 4.54 | 0 | 505 |
-| 490 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,192 | 132 |
-| 490 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.54 | 61 | 387 |
-| 490 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.54 | 0 | 505 |
-| 490 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 71 | 372 |
-| 490 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 22 | 486 |
-| 490 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 33 | 442 |
-| 490 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 87 | 348 |
-| 490 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 93 | 343 |
-| 490 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 505 |
-| 490 | [Tails of Iron](games/t/tails_of_iron.md) | 4.54 | 0 | 505 |
-| 490 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 503 | 192 |
-| 490 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.54 | 98 | 332 |
-| 490 | [The Tenants](games/t/the_tenants.md) | 4.54 | 0 | 505 |
+| 491 | [Aimlabs](games/a/aimlabs.md) | 4.54 | 0 | 505 |
+| 491 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 0 | 505 |
+| 491 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,323 | 127 |
+| 491 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 5,185 | 63 |
+| 491 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 442 |
+| 491 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,198 | 132 |
+| 491 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.54 | 61 | 387 |
+| 491 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.54 | 0 | 505 |
+| 491 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 71 | 372 |
+| 491 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 22 | 486 |
+| 491 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 33 | 442 |
+| 491 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 87 | 348 |
+| 491 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 93 | 343 |
+| 491 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 505 |
+| 491 | [Tails of Iron](games/t/tails_of_iron.md) | 4.54 | 0 | 505 |
+| 491 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 503 | 192 |
+| 491 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.54 | 98 | 332 |
+| 491 | [The Tenants](games/t/the_tenants.md) | 4.54 | 0 | 505 |
 | 509 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 505 |
 | 509 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 505 |
 | 509 | [Dauntless](games/d/dauntless.md) | 4.53 | 20,735 | 18 |
@@ -628,7 +628,7 @@
 | 624 | [Faeria](games/f/faeria.md) | 4.45 | 108 | 321 |
 | 624 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 766 | 155 |
 | 624 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.45 | 0 | 505 |
-| 624 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 10,811 | 34 |
+| 624 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 10,818 | 34 |
 | 624 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 29 | 459 |
 | 624 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 505 |
 | 624 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 863 | 150 |
@@ -671,7 +671,7 @@
 | 662 | [Sheltered](games/s/sheltered.md) | 4.42 | 268 | 243 |
 | 662 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 145 | 295 |
 | 662 | [Tunche](games/t/tunche.md) | 4.42 | 21 | 492 |
-| 662 | [World of Warships](games/w/world_of_warships.md) | 4.42 | 1,192 | 132 |
+| 662 | [World of Warships](games/w/world_of_warships.md) | 4.42 | 1,192 | 133 |
 | 673 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.41 | 0 | 505 |
 | 673 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.41 | 0 | 505 |
 | 673 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 248 | 246 |
