@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 109,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -313,7 +313,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6794,
+  "EOS_Progressed": 6795,
   "EOS_Completed": 52,
   "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
@@ -2663,6 +2663,11 @@
       "Time": "2023-07-14T02:28:17.2281564+00:00",
       "NumProgressed": 6794,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-07-14T06:02:12.9922224+00:00",
+      "NumProgressed": 6795,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 27,
@@ -2682,7 +2687,7 @@
       "Name": "Daylight Found",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1766
+      "UsersEstimate": 1767
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -2730,7 +2735,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1698
+      "UsersEstimate": 1699
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -2738,7 +2743,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1698
+      "UsersEstimate": 1699
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -2770,7 +2775,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 1902
+      "UsersEstimate": 1903
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -2889,15 +2894,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6794,
+      "Progressed": 6795,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-07-14T05:02:31.216522+00:00",
+  "LastChanged_Achievements": "2023-07-14T06:02:12.992222+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:45.5061234+00:00",
-  "LastUpdate_Ratings": "2023-07-14T04:58:05.4384569+00:00",
-  "LastUpdate_Achievements": "2023-07-14T05:02:31.2166546+00:00"
+  "LastUpdate_Ratings": "2023-07-14T05:57:49.1111518+00:00",
+  "LastUpdate_Achievements": "2023-07-14T06:02:12.9922931+00:00"
 }

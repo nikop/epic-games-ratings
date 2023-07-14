@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 140,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -1013,9 +1013,9 @@
       "ID": "LackOfTime",
       "SetID": "1e89b4i",
       "Name": "Lack of Time",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 40
     },
     {
       "ID": "LargeAirport",
@@ -1045,9 +1045,9 @@
       "ID": "LinearNetwork",
       "SetID": "1e89b4i",
       "Name": "Linear Network",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "LongDistance",
@@ -1101,9 +1101,9 @@
       "ID": "NoWayBack",
       "SetID": "1e89b4i",
       "Name": "No Way Back",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 86
     },
     {
       "ID": "NotPlanned",
@@ -1228,8 +1228,8 @@
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-07-14T05:04:18.9143424+00:00",
+  "LastChanged_Achievements": "2023-07-14T06:03:48.1475196+00:00",
   "LastUpdate_AppInfo": "2023-07-11T08:57:01.7024715+00:00",
-  "LastUpdate_Ratings": "2023-07-14T04:57:15.3725017+00:00",
-  "LastUpdate_Achievements": "2023-07-14T05:04:18.9144389+00:00"
+  "LastUpdate_Ratings": "2023-07-14T05:57:05.9094194+00:00",
+  "LastUpdate_Achievements": "2023-07-14T06:03:48.1475494+00:00"
 }

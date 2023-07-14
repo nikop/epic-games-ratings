@@ -7,12 +7,12 @@
 | Welcome | 100.00% | ~43 |
 | Garbage collector | 98.00% | ~42 |
 | Om nom nom | 74.00% | ~32 |
-| Repair master | 58.00% | ~25 |
+| Repair master | 60.00% | ~26 |
 | I am speed! | 47.00% | ~20 |
 | No one will hear you! | 42.00% | ~18 |
 | It's safe here! | 26.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43 (Ranked 347)  
+Progressed: 43 (Ranked 348)  
 Completed: 5 (11.63%) (Ranked 18)  
 ## EOS Players History
 | Date | Progressed | Completed |

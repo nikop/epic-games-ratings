@@ -6,7 +6,7 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~20,392 |
+| Genin | 11.00% | ~20,393 |
 | Thorough | 9.00% | ~16,685 |
 | A thief's beginning | 8.00% | ~14,831 |
 | Tanuki Time | 8.00% | ~14,831 |
@@ -18,13 +18,13 @@ Number of Ratings: 495  (23.09.2022)
 | Jonin | 6.00% | ~11,123 |
 | Stoned Ox | 6.00% | ~11,123 |
 | Yabu | 6.00% | ~11,123 |
-| Flying Rocks | 5.00% | ~9,269 |
-| Happy Planning | 5.00% | ~9,269 |
-| Mugen Unchained | 5.00% | ~9,269 |
-| Warzone | 5.00% | ~9,269 |
-| Okkoto | 4.00% | ~7,415 |
-| Prisoners | 4.00% | ~7,415 |
-| Too Early | 4.00% | ~7,415 |
+| Flying Rocks | 5.00% | ~9,270 |
+| Happy Planning | 5.00% | ~9,270 |
+| Mugen Unchained | 5.00% | ~9,270 |
+| Warzone | 5.00% | ~9,270 |
+| Okkoto | 4.00% | ~7,416 |
+| Prisoners | 4.00% | ~7,416 |
+| Too Early | 4.00% | ~7,416 |
 | Gear up | 3.00% | ~5,562 |
 | Happy little accidents | 3.00% | ~5,562 |
 | Noboru | 3.00% | ~5,562 |
@@ -38,7 +38,7 @@ Number of Ratings: 495  (23.09.2022)
 | Meticulous | 1.00% | ~1,854 |
 | No Gimmicks | 1.00% | ~1,854 |
 | The End | 1.00% | ~1,854 |
-| Undeserved Honor | 0.90% | ~1,668 |
+| Undeserved Honor | 0.90% | ~1,669 |
 | When Cut Across the Neck | 0.80% | ~1,483 |
 | High Five the Moon | 0.70% | ~1,298 |
 | The Cave | 0.70% | ~1,298 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~185 |
 | Release the Kraken | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 185,386 (Ranked 57)  
+Progressed: 185,390 (Ranked 57)  
 Completed: 58 (0.03%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 58 (0.03%) (Ranked 208)
 | 2023-07-11 | 184,899 | 58 |
 | 2023-07-12 | 185,131 | 58 |
 | 2023-07-13 | 185,346 | 58 |
-| 2023-07-14 | 185,386 | 58 |
+| 2023-07-14 | 185,390 | 58 |
 ## Awards
 Max (Great for Beginners): 556  (Ranked 183)  
 Sum: 4,701 (Ranked 131)  

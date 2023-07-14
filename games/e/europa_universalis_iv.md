@@ -6,7 +6,7 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,243 |
+| Until death do us apart | 9.00% | ~6,244 |
 | That's a Grand Army | 8.00% | ~5,550 |
 | That is mine! | 8.00% | ~5,550 |
 | Victorious! | 8.00% | ~5,550 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69,371 (Ranked 73)  
+Progressed: 69,373 (Ranked 73)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -446,7 +446,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-11 | 68,569 | 0 |
 | 2023-07-12 | 68,921 | 0 |
 | 2023-07-13 | 69,319 | 0 |
-| 2023-07-14 | 69,371 | 0 |
+| 2023-07-14 | 69,373 | 0 |
 ## Awards
 Max (Educational): 5,540  (Ranked 60)  
 Sum: 45,689 (Ranked 27)  

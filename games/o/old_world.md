@@ -64,7 +64,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mythology | 29.00% | ~3,721 |
 | Mausoleum | 28.00% | ~3,592 |
 | Intercessor | 26.00% | ~3,336 |
-| Valiant | 25.00% | ~3,208 |
+| Valiant | 26.00% | ~3,336 |
 | Sages | 25.00% | ~3,208 |
 | Hanging Gardens in Babylon | 24.00% | ~3,079 |
 | Learn to Play 2 | 24.00% | ~3,079 |

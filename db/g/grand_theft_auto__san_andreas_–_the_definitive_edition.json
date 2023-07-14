@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 154,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -556,7 +556,7 @@
       "Count": 216
     }
   ],
-  "EOS_Progressed": 11039,
+  "EOS_Progressed": 11040,
   "EOS_Completed": 29,
   "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 3,
@@ -6536,6 +6536,11 @@
       "Time": "2023-07-14T02:33:41.3396733+00:00",
       "NumProgressed": 11039,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-07-14T06:07:14.2730163+00:00",
+      "NumProgressed": 11040,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 35,
@@ -6715,7 +6720,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1545
+      "UsersEstimate": 1546
     },
     {
       "ID": "ACH23",
@@ -6723,7 +6728,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 2649
+      "UsersEstimate": 2650
     },
     {
       "ID": "ACH24",
@@ -6826,7 +6831,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11039,
+      "Progressed": 11040,
       "Completed": 29
     }
   ],
@@ -6834,8 +6839,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-14T00:01:12.6621522+00:00",
-  "LastChanged_Achievements": "2023-07-14T05:08:11.6014221+00:00",
+  "LastChanged_Achievements": "2023-07-14T06:07:14.2730158+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:43.1834453+00:00",
-  "LastUpdate_Ratings": "2023-07-14T05:01:49.7175656+00:00",
-  "LastUpdate_Achievements": "2023-07-14T05:08:11.6014972+00:00"
+  "LastUpdate_Ratings": "2023-07-14T06:00:58.3218777+00:00",
+  "LastUpdate_Achievements": "2023-07-14T06:07:14.273063+00:00"
 }

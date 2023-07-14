@@ -24,7 +24,7 @@
 | Inferno Ruins | 27.00% | ~32 |
 | Topped up | 26.00% | ~30 |
 | I'm Rich | 25.00% | ~29 |
-| Untouchable | 23.00% | ~27 |
+| Untouchable | 24.00% | ~28 |
 | 1 is all I need | 22.00% | ~26 |
 | The Slime | 22.00% | ~26 |
 | The Giant | 21.00% | ~25 |
