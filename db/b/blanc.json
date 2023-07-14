@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2204,
+  "EOS_Progressed": 2206,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -1578,6 +1578,11 @@
       "Time": "2023-07-14T19:04:21.5881526+00:00",
       "NumProgressed": 2204,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-14T21:03:54.2147111+00:00",
+      "NumProgressed": 2206,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 13,
@@ -1597,7 +1602,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "FALLEN_TREE",
@@ -1613,7 +1618,7 @@
       "Name": "Helping the little ones",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "MOVE_ON",
@@ -1661,7 +1666,7 @@
       "Name": "Stronger together",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "THE_END",
@@ -1692,7 +1697,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2204,
+      "Progressed": 2206,
       "Completed": 5
     }
   ],
@@ -1700,8 +1705,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-07-14T20:03:43.904155+00:00",
+  "LastChanged_Achievements": "2023-07-14T21:03:54.2147105+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:24.0265171+00:00",
-  "LastUpdate_Ratings": "2023-07-14T19:59:49.37325+00:00",
-  "LastUpdate_Achievements": "2023-07-14T20:03:43.9041781+00:00"
+  "LastUpdate_Ratings": "2023-07-14T20:59:49.9597621+00:00",
+  "LastUpdate_Achievements": "2023-07-14T21:03:54.2147372+00:00"
 }

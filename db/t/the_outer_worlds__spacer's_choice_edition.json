@@ -3,11 +3,11 @@
   "Name": "The Outer Worlds: Spacer\u0027s Choice Edition",
   "ProductSlug": "the-outer-worlds-spacers-choice-edition",
   "Ranking_Rating": 439,
-  "Ranking_Popularity": 476,
-  "Ranking_PopularitySum": 481,
+  "Ranking_Popularity": 471,
+  "Ranking_PopularitySum": 479,
   "Ranking_EOS_Progress": 492,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-03-07T16:00:00+00:00",
@@ -294,18 +294,24 @@
       "Rating": 4.57,
       "NumberOfAwards": 24,
       "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2023-07-14T21:00:56.8324057+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 26,
+      "NumberOfAwardsMax": 26
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 24,
-  "NumberOfAwardsMax": 24,
+  "NumberOfAwards": 26,
+  "NumberOfAwardsMax": 26,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 24
+      "Count": 26
     }
   ],
   "EOS_Progressed": 0,
@@ -328,9 +334,9 @@
   "FirstSeen": "2023-03-07T20:56:52.9843527+00:00",
   "FirstSeenRating": "2023-03-24T21:56:57.663882+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5081268+00:00",
-  "LastChanged": "2023-07-09T11:00:08.0561596+00:00",
-  "LastChanged_Achievements": "2023-07-14T20:06:41.5182309+00:00",
+  "LastChanged": "2023-07-14T21:00:56.8324055+00:00",
+  "LastChanged_Achievements": "2023-07-14T21:06:41.6663888+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:56.4906068+00:00",
-  "LastUpdate_Ratings": "2023-07-14T20:00:57.4584889+00:00",
-  "LastUpdate_Achievements": "2023-07-14T20:06:41.5182354+00:00"
+  "LastUpdate_Ratings": "2023-07-14T21:00:56.8324061+00:00",
+  "LastUpdate_Achievements": "2023-07-14T21:06:41.666393+00:00"
 }

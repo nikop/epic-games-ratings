@@ -215,9 +215,9 @@
       "ID": "MasterCrafter",
       "SetID": "4nce15l",
       "Name": "Master Crafter",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 130,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "MasterTrader",
@@ -255,9 +255,9 @@
       "ID": "Patience",
       "SetID": "4nce15l",
       "Name": "Patience",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "ReadyToRock",
@@ -312,8 +312,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.3919584+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00",
   "LastChanged": "2023-03-31T05:58:42.3919585+00:00",
-  "LastChanged_Achievements": "2023-07-14T20:06:44.6529446+00:00",
+  "LastChanged_Achievements": "2023-07-14T21:06:44.8140257+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:59.2485454+00:00",
-  "LastUpdate_Ratings": "2023-07-14T19:59:30.1532873+00:00",
-  "LastUpdate_Achievements": "2023-07-14T20:06:44.6529607+00:00"
+  "LastUpdate_Ratings": "2023-07-14T20:59:35.5406376+00:00",
+  "LastUpdate_Achievements": "2023-07-14T21:06:44.8140432+00:00"
 }

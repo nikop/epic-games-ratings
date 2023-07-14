@@ -6,25 +6,25 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~20,411 |
-| Thorough | 9.00% | ~16,700 |
-| A thief's beginning | 8.00% | ~14,844 |
-| Tanuki Time | 8.00% | ~14,844 |
-| Disguised | 7.00% | ~12,989 |
-| Rescue Takuma | 7.00% | ~12,989 |
-| Rollin' | 7.00% | ~12,989 |
-| Chunin | 6.00% | ~11,133 |
-| Ice Ice Yuki | 6.00% | ~11,133 |
-| Jonin | 6.00% | ~11,133 |
-| Stoned Ox | 6.00% | ~11,133 |
-| Yabu | 6.00% | ~11,133 |
+| Genin | 11.00% | ~20,412 |
+| Thorough | 9.00% | ~16,701 |
+| A thief's beginning | 8.00% | ~14,845 |
+| Tanuki Time | 8.00% | ~14,845 |
+| Disguised | 7.00% | ~12,990 |
+| Rescue Takuma | 7.00% | ~12,990 |
+| Rollin' | 7.00% | ~12,990 |
+| Chunin | 6.00% | ~11,134 |
+| Ice Ice Yuki | 6.00% | ~11,134 |
+| Jonin | 6.00% | ~11,134 |
+| Stoned Ox | 6.00% | ~11,134 |
+| Yabu | 6.00% | ~11,134 |
 | Flying Rocks | 5.00% | ~9,278 |
 | Happy Planning | 5.00% | ~9,278 |
 | Mugen Unchained | 5.00% | ~9,278 |
 | Warzone | 5.00% | ~9,278 |
-| Okkoto | 4.00% | ~7,422 |
-| Prisoners | 4.00% | ~7,422 |
-| Too Early | 4.00% | ~7,422 |
+| Okkoto | 4.00% | ~7,423 |
+| Prisoners | 4.00% | ~7,423 |
+| Too Early | 4.00% | ~7,423 |
 | Gear up | 3.00% | ~5,567 |
 | Happy little accidents | 3.00% | ~5,567 |
 | Noboru | 3.00% | ~5,567 |
@@ -39,7 +39,7 @@ Number of Ratings: 495  (23.09.2022)
 | No Gimmicks | 1.00% | ~1,856 |
 | The End | 1.00% | ~1,856 |
 | Undeserved Honor | 0.90% | ~1,670 |
-| When Cut Across the Neck | 0.80% | ~1,484 |
+| When Cut Across the Neck | 0.80% | ~1,485 |
 | High Five the Moon | 0.70% | ~1,299 |
 | The Cave | 0.70% | ~1,299 |
 | Time Paradox | 0.50% | ~928 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~186 |
 | Release the Kraken | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 185,551 (Ranked 57)  
+Progressed: 185,565 (Ranked 57)  
 Completed: 58 (0.03%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 58 (0.03%) (Ranked 208)
 | 2023-07-11 | 184,899 | 58 |
 | 2023-07-12 | 185,131 | 58 |
 | 2023-07-13 | 185,346 | 58 |
-| 2023-07-14 | 185,551 | 58 |
+| 2023-07-14 | 185,565 | 58 |
 ## Awards
 Max (Great for Beginners): 556  (Ranked 183)  
 Sum: 4,702 (Ranked 131)  

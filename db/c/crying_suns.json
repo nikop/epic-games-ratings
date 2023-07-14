@@ -2,7 +2,7 @@
   "ID": "0a4fc789eb0143c29296de79df5387ab",
   "Name": "Crying Suns",
   "ProductSlug": "crying-suns",
-  "Ranking_Rating": 553,
+  "Ranking_Rating": 552,
   "Ranking_Popularity": 262,
   "Ranking_PopularitySum": 357,
   "Ranking_EOS_Progress": 35,
@@ -562,9 +562,9 @@
       "Count": 214
     }
   ],
-  "EOS_Progressed": 462972,
+  "EOS_Progressed": 462975,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 503,
+  "EOS_NewPlayers": 500,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9287,6 +9287,11 @@
       "Time": "2023-07-14T20:06:52.2042728+00:00",
       "NumProgressed": 462972,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-07-14T21:06:52.0681772+00:00",
+      "NumProgressed": 462975,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 79,
@@ -9808,9 +9813,9 @@
       "ID": "achievement_win_run_with_starter",
       "SetID": "8cokdon",
       "Name": "Excelsior Rule",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 926
+      "UsersEstimate": 1389
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -9929,21 +9934,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 6906,
+      "Progressed": 6909,
       "Completed": 2352
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 462972,
+      "Progressed": 462975,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-07-02T08:59:13.8125338+00:00",
-  "LastChanged_Achievements": "2023-07-14T20:06:52.2042722+00:00",
+  "LastChanged_Achievements": "2023-07-14T21:06:52.0681766+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:26.1718184+00:00",
-  "LastUpdate_Ratings": "2023-07-14T19:59:52.6489041+00:00",
-  "LastUpdate_Achievements": "2023-07-14T20:06:52.204442+00:00"
+  "LastUpdate_Ratings": "2023-07-14T20:59:52.2805656+00:00",
+  "LastUpdate_Achievements": "2023-07-14T21:06:52.0683591+00:00"
 }

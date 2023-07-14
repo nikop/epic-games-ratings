@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 17,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
@@ -1600,9 +1600,9 @@
       "ID": "PickaxeIron",
       "SetID": "5lok9mm",
       "Name": "Iron Pickaxe",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 1852
+      "UsersEstimate": 1873
     },
     {
       "ID": "PickaxeStone",
@@ -1624,9 +1624,9 @@
       "ID": "Plumbster",
       "SetID": "5lok9mm",
       "Name": "Plumbster",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 1292
+      "UsersEstimate": 1313
     },
     {
       "ID": "Race",
@@ -1744,8 +1744,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-05-31T02:21:41.8483735+00:00",
-  "LastChanged_Achievements": "2023-07-14T20:03:14.4689865+00:00",
+  "LastChanged_Achievements": "2023-07-14T21:03:23.9940432+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:25.62289+00:00",
-  "LastUpdate_Ratings": "2023-07-14T20:00:33.9824707+00:00",
-  "LastUpdate_Achievements": "2023-07-14T20:03:14.4690787+00:00"
+  "LastUpdate_Ratings": "2023-07-14T21:00:36.4322104+00:00",
+  "LastUpdate_Achievements": "2023-07-14T21:03:23.9941029+00:00"
 }

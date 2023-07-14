@@ -6,20 +6,20 @@ Number of Ratings: 28  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 76.00% | ~240 |
-| Close call! | 75.00% | ~237 |
-| Builder | 56.00% | ~177 |
-| Pangs of conscience | 51.00% | ~161 |
-| Living it large! | 46.00% | ~145 |
+| Getting started | 76.00% | ~241 |
+| Close call! | 75.00% | ~238 |
+| Builder | 56.00% | ~178 |
+| Pangs of conscience | 51.00% | ~162 |
+| Living it large! | 46.00% | ~146 |
 | Collector | 44.00% | ~139 |
 | Need to think | 42.00% | ~133 |
 | Completely nuts! | 36.00% | ~114 |
 | Just in time! | 35.00% | ~111 |
-| It's no coincidence. | 33.00% | ~104 |
+| It's no coincidence. | 33.00% | ~105 |
 | Europe | 32.00% | ~101 |
 | Let's roll! | 29.00% | ~92 |
-| Philatelist | 28.00% | ~88 |
-| Non Stop! | 27.00% | ~85 |
+| Philatelist | 28.00% | ~89 |
+| Non Stop! | 27.00% | ~86 |
 | Ouroboros | 26.00% | ~82 |
 | Madness! | 25.00% | ~79 |
 | Foreman | 24.00% | ~76 |
@@ -37,8 +37,8 @@ Number of Ratings: 28  (23.09.2022)
 | Supercrash! | 5.00% | ~16 |
 | Сhancellor | 4.00% | ~13 |
 | Peacemaker | 4.00% | ~13 |
-| Forgotten | 3.00% | ~9 |
-| Lucky vandal | 3.00% | ~9 |
+| Forgotten | 3.00% | ~10 |
+| Lucky vandal | 3.00% | ~10 |
 | BBQ | 0.60% | ~2 |
 | Vandal | 0.60% | ~2 |
 | Mega-railroad | 0.60% | ~2 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Maniac vandal | 0.60% | ~2 |
 | Salesman | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 316 (Ranked 241)  
+Progressed: 317 (Ranked 241)  
 Completed: 2 (0.63%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 2 (0.63%) (Ranked 116)
 | 2023-07-09 | 310 | 2 |
 | 2023-07-11 | 312 | 2 |
 | 2023-07-12 | 314 | 2 |
-| 2023-07-14 | 316 | 2 |
+| 2023-07-14 | 317 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

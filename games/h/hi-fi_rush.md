@@ -66,6 +66,7 @@ Rating: 4.87 (Ranked 24)
 | That was just EVIL | 0.10% | ~2 |
 | It was all for this | 0.10% | ~2 |
 | Voices from within | 0.10% | ~2 |
+| Low budget finish | 0.10% | ~2 |
 | And the crowd goes wild! | 0.00% | ~0 |
 | Didn't skip a beat! | 0.00% | ~0 |
 | I think that's enough health for now | 0.00% | ~0 |
@@ -75,7 +76,6 @@ Rating: 4.87 (Ranked 24)
 | I'm trying to FOCUS HERE! | 0.00% | ~0 |
 | With our powers combined…and to the rhythm… | 0.00% | ~0 |
 | OK, I THINK I know what I'm doing now | 0.00% | ~0 |
-| Low budget finish | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,445 (Ranked 146)  
 Completed: 5 (0.15%) (Ranked 172)  

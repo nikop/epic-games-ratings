@@ -2514,9 +2514,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 68891,
+  "EOS_Progressed": 68892,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 406,
+  "EOS_NewPlayers": 405,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -11409,6 +11409,11 @@
       "Time": "2023-07-14T19:06:00.1849525+00:00",
       "NumProgressed": 68891,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-07-14T21:04:49.1854652+00:00",
+      "NumProgressed": 68892,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 37,
@@ -11428,7 +11433,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 19978
+      "UsersEstimate": 19979
     },
     {
       "ID": "ACH_0012",
@@ -11564,7 +11569,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 44779
+      "UsersEstimate": 44780
     },
     {
       "ID": "ACH_0210",
@@ -11572,7 +11577,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 50979
+      "UsersEstimate": 50980
     },
     {
       "ID": "ACH_0211",
@@ -11692,7 +11697,7 @@
       "Name": "Dragonslayer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11711
+      "UsersEstimate": 11712
     },
     {
       "ID": "ACH_0460",
@@ -11715,7 +11720,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 68891,
+      "Progressed": 68892,
       "Completed": 36
     }
   ],
@@ -11723,8 +11728,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-07-14T03:22:50.1159274+00:00",
-  "LastChanged_Achievements": "2023-07-14T20:04:49.9315392+00:00",
+  "LastChanged_Achievements": "2023-07-14T21:04:49.1854644+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:23.2557502+00:00",
-  "LastUpdate_Ratings": "2023-07-14T20:00:33.0350758+00:00",
-  "LastUpdate_Achievements": "2023-07-14T20:04:49.9316865+00:00"
+  "LastUpdate_Ratings": "2023-07-14T21:00:35.944821+00:00",
+  "LastUpdate_Achievements": "2023-07-14T21:04:49.1855719+00:00"
 }

@@ -1,7 +1,7 @@
 # Voidtrain
 [Store](https://store.epicgames.com/en-US/p/voidtrain)  
 [View Rawdata](../../db/v/voidtrain.json)  
-Rating: 4.51 (Ranked 541)  
+Rating: 4.50 (Ranked 552)  
 Number of Ratings: 1,305  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 35  (Ranked 435)  
@@ -118,3 +118,4 @@ Diff (max vs sum): 30
 | 2023-07-02 | 4.51 | - | 34 | 110 |
 | 2023-07-07 | 4.51 | - | 35 | 111 |
 | 2023-07-09 | 4.51 | - | 35 | 113 |
+| 2023-07-14 | 4.50 | - | 35 | 113 |

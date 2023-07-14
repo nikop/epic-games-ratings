@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 2,
   "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
     "PcReleaseDate": "2022-09-30T08:00:00+00:00",
@@ -697,9 +697,9 @@
       "ID": "Samaritan",
       "SetID": "b7i210",
       "Name": "Samaritan",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "Street_food",
@@ -713,9 +713,9 @@
       "ID": "Tower_builder",
       "SetID": "b7i210",
       "Name": "Tower builder",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 50,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Troubleshooter",
@@ -736,8 +736,8 @@
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-07-14T20:05:01.9379328+00:00",
+  "LastChanged_Achievements": "2023-07-14T21:05:11.5327582+00:00",
   "LastUpdate_AppInfo": "2023-07-10T19:56:59.674835+00:00",
-  "LastUpdate_Ratings": "2023-07-14T19:57:35.4881026+00:00",
-  "LastUpdate_Achievements": "2023-07-14T20:05:01.9379569+00:00"
+  "LastUpdate_Ratings": "2023-07-14T20:57:39.3739883+00:00",
+  "LastUpdate_Achievements": "2023-07-14T21:05:11.532779+00:00"
 }

@@ -24,8 +24,8 @@ Number of Ratings: 209  (23.09.2022)
 | Magnet Repel | 88.00% | ~1,895 |
 | You feel middle classy | 87.00% | ~1,873 |
 | Boomeraxe | 87.00% | ~1,873 |
+| Iron Pickaxe | 87.00% | ~1,873 |
 | Banking District | 86.00% | ~1,852 |
-| Iron Pickaxe | 86.00% | ~1,852 |
 | Arrested | 85.00% | ~1,830 |
 | Zappy Gun | 85.00% | ~1,830 |
 | Got your own one now | 85.00% | ~1,830 |
@@ -47,7 +47,7 @@ Number of Ratings: 209  (23.09.2022)
 | You feel very sorry | 69.00% | ~1,486 |
 | No Match for you | 65.00% | ~1,399 |
 | Bouncy | 61.00% | ~1,313 |
-| Plumbster | 60.00% | ~1,292 |
+| Plumbster | 61.00% | ~1,313 |
 | Faster | 60.00% | ~1,292 |
 | Much Magic | 57.00% | ~1,227 |
 | Chest Detector | 55.00% | ~1,184 |

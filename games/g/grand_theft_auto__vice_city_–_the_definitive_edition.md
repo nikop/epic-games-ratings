@@ -1,27 +1,27 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.54 (Ranked 493)  
+Rating: 4.54 (Ranked 492)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 45.00% | ~4,032 |
-| Greasy Palms | 41.00% | ~3,674 |
-| South American Connection | 25.00% | ~2,240 |
+| Legal Counsel | 45.00% | ~4,033 |
+| Greasy Palms | 41.00% | ~3,675 |
+| South American Connection | 25.00% | ~2,241 |
 | Life of the Party | 19.00% | ~1,703 |
 | Tommy Two-Wheels | 15.00% | ~1,344 |
 | Big Heat from Little Havana | 14.00% | ~1,255 |
 | Chauffeur | 14.00% | ~1,255 |
 | Salutations My Little Friend | 10.00% | ~896 |
-| Iron-y | 9.00% | ~806 |
-| Gun for Hire | 9.00% | ~806 |
+| Iron-y | 9.00% | ~807 |
+| Gun for Hire | 9.00% | ~807 |
 | Mischief Managed | 8.00% | ~717 |
 | Vice City Mogul | 6.00% | ~538 |
 | Catch Me if You Can | 6.00% | ~538 |
 | Bloodstained Hands | 6.00% | ~538 |
 | Not my First Time | 5.00% | ~448 |
 | Grand Theft Auto | 5.00% | ~448 |
-| Pie Guy | 4.00% | ~358 |
+| Pie Guy | 4.00% | ~359 |
 | Point A to Point B | 3.00% | ~269 |
 | High Quality H2O | 3.00% | ~269 |
 | Bull in a China Shop | 3.00% | ~269 |
@@ -40,7 +40,7 @@ Rating: 4.54 (Ranked 493)
 | Done it All | 0.80% | ~72 |
 | Kingpin | 0.50% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,961 (Ranked 120)  
+Progressed: 8,963 (Ranked 120)  
 Completed: 43 (0.48%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 43 (0.48%) (Ranked 129)
 | 2023-07-11 | 8,931 | 43 |
 | 2023-07-12 | 8,944 | 43 |
 | 2023-07-13 | 8,954 | 43 |
-| 2023-07-14 | 8,961 | 43 |
+| 2023-07-14 | 8,963 | 43 |
 ## Awards
 Max (Great Boss Battles): 61  (Ranked 387)  
 Sum: 61 (Ranked 440)  

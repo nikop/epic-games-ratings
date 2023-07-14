@@ -17,7 +17,7 @@
 | At the heart of the city | 26.00% | ~99 |
 | Calm neighborhood | 24.00% | ~91 |
 | Elevated ring | 23.00% | ~87 |
-| Not lonely anymore | 22.00% | ~84 |
+| Not lonely anymore | 23.00% | ~87 |
 | Monumental tribute | 22.00% | ~84 |
 | The beach is right there | 20.00% | ~76 |
 | Commuting | 20.00% | ~76 |

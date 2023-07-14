@@ -23,6 +23,7 @@ Rating: 4.44 (Ranked 643)
 | The Kraken Wakes | 2.00% | ~66 |
 | It's Starting to Crack | 2.00% | ~66 |
 | Change the Channel | 2.00% | ~66 |
+| Brains of the Operation | 2.00% | ~66 |
 | Opposing Force | 1.00% | ~33 |
 | Just a Flesh Wound | 1.00% | ~33 |
 | Skirmisher | 1.00% | ~33 |
@@ -32,7 +33,6 @@ Rating: 4.44 (Ranked 643)
 | Explosive Efficiency | 1.00% | ~33 |
 | Close Quarters | 1.00% | ~33 |
 | Snake in the Grass | 1.00% | ~33 |
-| Brains of the Operation | 1.00% | ~33 |
 | Enemy at the Gates | 0.90% | ~29 |
 | Fields of Glory | 0.90% | ~29 |
 | Die Nussknacker Sweet! | 0.90% | ~29 |

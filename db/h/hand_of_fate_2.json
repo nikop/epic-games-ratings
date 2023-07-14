@@ -862,9 +862,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 659284,
+  "EOS_Progressed": 659286,
   "EOS_Completed": 165,
-  "EOS_NewPlayers": 320,
+  "EOS_NewPlayers": 319,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8857,6 +8857,11 @@
       "Time": "2023-07-14T20:02:25.9335045+00:00",
       "NumProgressed": 659284,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-07-14T21:03:15.4931247+00:00",
+      "NumProgressed": 659286,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -8868,7 +8873,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 474684
+      "UsersEstimate": 474686
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -8876,7 +8881,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 382385
+      "UsersEstimate": 382386
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -8884,7 +8889,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 151635
+      "UsersEstimate": 151636
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -8932,7 +8937,7 @@
       "Name": "Gambler",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 65928
+      "UsersEstimate": 65929
     },
     {
       "ID": "Achievement_10_Long_Shot",
@@ -8964,7 +8969,7 @@
       "Name": "Dice Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 65928
+      "UsersEstimate": 65929
     },
     {
       "ID": "Achievement_14_Magician",
@@ -9004,7 +9009,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 151635
+      "UsersEstimate": 151636
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -9020,7 +9025,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 112078
+      "UsersEstimate": 112079
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -9132,7 +9137,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 164821
+      "UsersEstimate": 164822
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -9251,15 +9256,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 659284,
+      "Progressed": 659286,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-07-06T22:58:14.2890682+00:00",
-  "LastChanged_Achievements": "2023-07-14T20:02:25.9335039+00:00",
+  "LastChanged_Achievements": "2023-07-14T21:03:15.4931241+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:04.5984191+00:00",
-  "LastUpdate_Ratings": "2023-07-14T19:58:08.00938+00:00",
-  "LastUpdate_Achievements": "2023-07-14T20:02:25.9336122+00:00"
+  "LastUpdate_Ratings": "2023-07-14T20:58:06.0895763+00:00",
+  "LastUpdate_Achievements": "2023-07-14T21:03:15.4932435+00:00"
 }

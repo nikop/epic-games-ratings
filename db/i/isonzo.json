@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 347,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -700,9 +700,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6365,
+  "EOS_Progressed": 6366,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3325,6 +3325,11 @@
       "Time": "2023-07-14T16:04:37.7784181+00:00",
       "NumProgressed": 6365,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-14T21:04:41.8737211+00:00",
+      "NumProgressed": 6366,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -3384,7 +3389,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2291
+      "UsersEstimate": 2292
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -3448,7 +3453,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 2100
+      "UsersEstimate": 2101
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -3472,7 +3477,7 @@
       "Name": "I Have the High Ground",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "ISONZO_ACH_LUIGI_CADORNA",
@@ -3576,7 +3581,7 @@
       "Name": "Shaken, Not Stirred",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "ISONZO_ACH_SILVER_LINING",
@@ -3664,7 +3669,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3437
+      "UsersEstimate": 3438
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -3680,7 +3685,7 @@
       "Name": "Veni Vidi Vici",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1400
+      "UsersEstimate": 1401
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -3688,14 +3693,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3373
+      "UsersEstimate": 3374
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6365,
+      "Progressed": 6366,
       "Completed": 8
     }
   ],
@@ -3703,8 +3708,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-07-04T13:15:35.7816607+00:00",
-  "LastChanged_Achievements": "2023-07-14T20:04:42.9223943+00:00",
+  "LastChanged_Achievements": "2023-07-14T21:04:41.8737205+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:47.5967083+00:00",
-  "LastUpdate_Ratings": "2023-07-14T19:58:01.7627725+00:00",
-  "LastUpdate_Achievements": "2023-07-14T20:04:42.9224609+00:00"
+  "LastUpdate_Ratings": "2023-07-14T20:58:00.3167524+00:00",
+  "LastUpdate_Achievements": "2023-07-14T21:04:41.8739296+00:00"
 }
