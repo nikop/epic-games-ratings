@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -245,7 +245,7 @@
   "Tags": [],
   "EOS_Progressed": 1834,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -1623,9 +1623,9 @@
       "ID": "ACHV_08",
       "SetID": "8p5mlmc",
       "Name": "Mommy Dearest",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 257
     },
     {
       "ID": "ACHV_09",
@@ -2032,8 +2032,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-07-03T18:02:00.1101593+00:00",
-  "LastChanged_Achievements": "2023-07-14T15:03:27.3636352+00:00",
+  "LastChanged_Achievements": "2023-07-14T17:02:33.6361043+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:02.3042155+00:00",
-  "LastUpdate_Ratings": "2023-07-14T16:01:09.7544195+00:00",
-  "LastUpdate_Achievements": "2023-07-14T15:03:27.3636941+00:00"
+  "LastUpdate_Ratings": "2023-07-14T17:02:21.5117756+00:00",
+  "LastUpdate_Achievements": "2023-07-14T17:02:33.6362298+00:00"
 }

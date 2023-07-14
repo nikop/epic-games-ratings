@@ -6,13 +6,13 @@ Rating: 4.73 (Ranked 157)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Under a New Sun | 92.00% | ~11,061 |
-| Newcomers | 78.00% | ~9,378 |
+| Newcomers | 79.00% | ~9,498 |
 | A Burden of Blood | 73.00% | ~8,777 |
 | Protector's Duty | 70.00% | ~8,416 |
 | Alchemist | 68.00% | ~8,176 |
 | In our Wake | 67.00% | ~8,055 |
 | Leaving all Behind | 64.00% | ~7,695 |
-| Felons | 61.00% | ~7,334 |
+| Felons | 62.00% | ~7,454 |
 | A Sea of Promises | 60.00% | ~7,214 |
 | Tales and Revelations | 57.00% | ~6,853 |
 | Bloodline | 52.00% | ~6,252 |

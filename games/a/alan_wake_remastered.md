@@ -33,7 +33,7 @@ Number of Ratings: 524  (23.09.2022)
 | The Lady of the Light | 9.00% | ~5,159 |
 | Two For the Price of One | 9.00% | ~5,159 |
 | Energized! | 9.00% | ~5,159 |
-| Right of Way | 8.00% | ~4,585 |
+| Right of Way | 8.00% | ~4,586 |
 | A Friend in Need | 8.00% | ~1,663 |
 | Tornado Wrangler | 7.00% | ~4,012 |
 | What Light Through Yonder Window | 7.00% | ~4,012 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~57 |
 | No Punctuation | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,318 (Ranked 82)  
+Progressed: 57,319 (Ranked 82)  
 Completed: 57 (0.10%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 57 (0.10%) (Ranked 183)
 | 2023-07-11 | 57,220 | 57 |
 | 2023-07-12 | 57,261 | 57 |
 | 2023-07-13 | 57,298 | 57 |
-| 2023-07-14 | 57,318 | 57 |
+| 2023-07-14 | 57,319 | 57 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3442,
+  "EOS_Progressed": 3443,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4212,6 +4212,11 @@
       "Time": "2023-07-14T03:23:44.734855+00:00",
       "NumProgressed": 3442,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-14T17:02:36.5914915+00:00",
+      "NumProgressed": 3443,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 71,
@@ -4381,9 +4386,9 @@
       "ID": "Ach021",
       "SetID": "12n4k20",
       "Name": "I have to read these things?",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 34
     },
     {
       "ID": "Ach022",
@@ -4790,13 +4795,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3442,
+      "Progressed": 3443,
       "Completed": 5
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 1963,
+      "Progressed": 1964,
       "Completed": 1927
     }
   ],
@@ -4804,8 +4809,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-14T16:01:18.1890407+00:00",
+  "LastChanged_Achievements": "2023-07-14T17:02:36.5914909+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:24.9104218+00:00",
-  "LastUpdate_Ratings": "2023-07-14T15:59:09.6761245+00:00",
-  "LastUpdate_Achievements": "2023-07-14T16:01:18.1891604+00:00"
+  "LastUpdate_Ratings": "2023-07-14T16:59:39.9739102+00:00",
+  "LastUpdate_Achievements": "2023-07-14T17:02:36.5916069+00:00"
 }

@@ -24,13 +24,13 @@ Number of Ratings: 37  (23.09.2022)
 | Completionist I | 5.00% | ~209 |
 | Full-time job II | 5.00% | ~209 |
 | A time consuming game II | 5.00% | ~209 |
+| Tools of the trade I | 5.00% | ~209 |
 | Knee deep in snow | 5.00% | ~209 |
 | Bread for the people II | 4.00% | ~167 |
 | I like to build stuff... III | 4.00% | ~167 |
 | The King's new clothes I | 4.00% | ~167 |
 | Builder II | 4.00% | ~167 |
 | Tax-man III | 4.00% | ~167 |
-| Tools of the trade I | 4.00% | ~167 |
 | Conflicting parties | 4.00% | ~167 |
 | Another one bites the dust | 3.00% | ~125 |
 | I like to build stuff... IV | 3.00% | ~125 |

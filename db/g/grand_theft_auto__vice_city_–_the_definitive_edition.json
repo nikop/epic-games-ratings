@@ -526,9 +526,9 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 8958,
+  "EOS_Progressed": 8959,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -6271,6 +6271,11 @@
       "Time": "2023-07-14T16:03:20.1314459+00:00",
       "NumProgressed": 8958,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-14T17:03:42.7130254+00:00",
+      "NumProgressed": 8959,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -6354,7 +6359,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "ACH11",
@@ -6370,7 +6375,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "ACH13",
@@ -6442,7 +6447,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4031
+      "UsersEstimate": 4032
     },
     {
       "ID": "ACH22",
@@ -6498,7 +6503,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "ACH29",
@@ -6553,7 +6558,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8958,
+      "Progressed": 8959,
       "Completed": 43
     }
   ],
@@ -6561,8 +6566,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-12T19:59:24.8621469+00:00",
-  "LastChanged_Achievements": "2023-07-14T16:03:20.1314454+00:00",
+  "LastChanged_Achievements": "2023-07-14T17:03:42.7130244+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:55.3864428+00:00",
-  "LastUpdate_Ratings": "2023-07-14T15:58:46.6187742+00:00",
-  "LastUpdate_Achievements": "2023-07-14T16:03:20.1315115+00:00"
+  "LastUpdate_Ratings": "2023-07-14T16:59:15.7170006+00:00",
+  "LastUpdate_Achievements": "2023-07-14T17:03:42.7131329+00:00"
 }

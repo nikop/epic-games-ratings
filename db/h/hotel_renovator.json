@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -86,9 +86,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 856,
+  "EOS_Progressed": 857,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.75,
   "EosHistory": [
@@ -926,6 +926,11 @@
       "Time": "2023-07-13T20:04:43.0798477+00:00",
       "NumProgressed": 856,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-07-14T17:05:00.9305253+00:00",
+      "NumProgressed": 857,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 27,
@@ -937,7 +942,7 @@
       "Name": "Humble beginnings",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "ACH_BOOK_ALL",
@@ -961,7 +966,7 @@
       "Name": "Roll with it",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -993,7 +998,7 @@
       "Name": "Broken heart",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_GHOST_BUSTED",
@@ -1041,7 +1046,7 @@
       "Name": "And so it begins",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -1057,7 +1062,7 @@
       "Name": "Big fortune",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ACH_POSTCARD",
@@ -1073,7 +1078,7 @@
       "Name": "Let there be light",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -1113,7 +1118,7 @@
       "Name": "Nearly there",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ACH_STAR_5",
@@ -1152,7 +1157,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 856,
+      "Progressed": 857,
       "Completed": 15
     }
   ],
@@ -1160,8 +1165,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-07-05T18:57:43.3386981+00:00",
-  "LastChanged_Achievements": "2023-07-14T16:04:19.6749099+00:00",
+  "LastChanged_Achievements": "2023-07-14T17:05:00.9305246+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:23.1466896+00:00",
-  "LastUpdate_Ratings": "2023-07-14T15:57:39.0497659+00:00",
-  "LastUpdate_Achievements": "2023-07-14T16:04:19.6749358+00:00"
+  "LastUpdate_Ratings": "2023-07-14T16:57:49.2804992+00:00",
+  "LastUpdate_Achievements": "2023-07-14T17:05:00.9305514+00:00"
 }

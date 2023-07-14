@@ -491,11 +491,20 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "222fo9l",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2023-01-27T17:57:20.5533157+00:00",
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
+  "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-07-13T14:01:20.9455698+00:00",
+  "LastChanged_Achievements": "2023-07-14T17:07:55.1010124+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:13.679938+00:00",
-  "LastUpdate_Ratings": "2023-07-14T16:01:14.7616175+00:00",
-  "LastUpdate_Achievements": "2023-07-14T16:06:23.8466967+00:00"
+  "LastUpdate_Ratings": "2023-07-14T17:02:29.7679559+00:00",
+  "LastUpdate_Achievements": "2023-07-14T17:07:55.101017+00:00"
 }

@@ -16,6 +16,7 @@ Rating: 4.87 (Ranked 24)
 | Thanks for the free chip, Peppermint! | 1.00% | ~34 |
 | I play my own way! | 1.00% | ~34 |
 | Whoa! There's ANOTHER health bar!? | 1.00% | ~34 |
+| I have to read these things? | 1.00% | ~34 |
 | You got this, Peppermint? | 1.00% | ~34 |
 | You must like calling me in, Chai | 1.00% | ~34 |
 | Z-shielding's got nothing on us! | 1.00% | ~34 |
@@ -25,7 +26,6 @@ Rating: 4.87 (Ranked 24)
 | Kissing the sky! | 1.00% | ~34 |
 | Who put gears in there? | 1.00% | ~34 |
 | Alright, that felt AWESOME! | 1.00% | ~34 |
-| I have to read these things? | 0.90% | ~31 |
 | Feeling the beat! | 0.90% | ~31 |
 | You can pet the cat! | 0.90% | ~31 |
 | I look cool. But I can look COOLER. | 0.80% | ~28 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | OK, I THINK I know what I'm doing now | 0.00% | ~0 |
 | Low budget finish | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,442 (Ranked 146)  
+Progressed: 3,443 (Ranked 146)  
 Completed: 5 (0.15%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 5 (0.15%) (Ranked 172)
 | 2023-07-11 | 3,432 | 5 |
 | 2023-07-12 | 3,439 | 5 |
 | 2023-07-13 | 3,441 | 5 |
-| 2023-07-14 | 3,442 | 5 |
+| 2023-07-14 | 3,443 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

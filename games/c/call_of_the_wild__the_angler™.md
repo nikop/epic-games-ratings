@@ -6,17 +6,17 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 76.00% | ~3,533 |
-| Hey Good Hookin | 66.00% | ~3,068 |
+| Fish Just Got Reel | 76.00% | ~3,534 |
+| Hey Good Hookin | 66.00% | ~3,069 |
 | I'm on a Boat! | 57.00% | ~2,650 |
-| Can you smell what the Rod is Hooking | 50.00% | ~2,324 |
-| Scaling up | 50.00% | ~2,324 |
+| Can you smell what the Rod is Hooking | 50.00% | ~2,325 |
+| Scaling up | 50.00% | ~2,325 |
 | Ready to Rod and Roll | 42.00% | ~1,953 |
 | More Fish in the Sea | 41.00% | ~1,906 |
 | License to Gill | 33.00% | ~1,534 |
 | Fish Out of Water | 32.00% | ~1,488 |
-| Things that go Splash in the Night | 27.00% | ~1,255 |
-| Goldfish? | 27.00% | ~1,255 |
+| Things that go Splash in the Night | 27.00% | ~1,256 |
+| Goldfish? | 27.00% | ~1,256 |
 | Going for Gold | 24.00% | ~1,116 |
 | I'm Hooked! | 18.00% | ~837 |
 | More than a Tourist | 12.00% | ~558 |
@@ -26,7 +26,7 @@ Number of Ratings: 281  (23.09.2022)
 | Big Fish Small Pond | 6.00% | ~279 |
 | I'm the Captain Now | 5.00% | ~232 |
 | School's Out for Summer | 4.00% | ~186 |
-| Gonna Need a Bigger Boat | 3.00% | ~139 |
+| Gonna Need a Bigger Boat | 3.00% | ~140 |
 | The Beetles | 2.00% | ~93 |
 | Rod and Troll | 2.00% | ~80 |
 | Taylor Made | 1.00% | ~46 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | No Fin left to give | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,649 (Ranked 137)  
+Progressed: 4,650 (Ranked 137)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-11 | 4,631 | 0 |
 | 2023-07-12 | 4,636 | 0 |
 | 2023-07-13 | 4,647 | 0 |
-| 2023-07-14 | 4,649 | 0 |
+| 2023-07-14 | 4,650 | 0 |
 ## Awards
 Max (Relaxing): 32  (Ranked 447)  
 Sum: 158 (Ranked 387)  

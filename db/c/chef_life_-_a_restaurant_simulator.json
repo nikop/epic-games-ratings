@@ -4,7 +4,7 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 456,
+  "EOS_Progressed": 457,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1914,6 +1914,11 @@
       "Time": "2023-07-14T06:01:21.5595782+00:00",
       "NumProgressed": 456,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-14T17:02:33.2496278+00:00",
+      "NumProgressed": 457,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -2189,7 +2194,7 @@
       "Name": "Italian Style",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "UnlockAssiette",
@@ -2244,7 +2249,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 456,
+      "Progressed": 457,
       "Completed": 0
     }
   ],
@@ -2252,8 +2257,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-07-14T15:01:38.138363+00:00",
+  "LastChanged_Achievements": "2023-07-14T17:02:33.2496269+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:09.4073719+00:00",
-  "LastUpdate_Ratings": "2023-07-14T15:59:00.8497228+00:00",
-  "LastUpdate_Achievements": "2023-07-14T15:01:38.1384092+00:00"
+  "LastUpdate_Ratings": "2023-07-14T16:59:28.824225+00:00",
+  "LastUpdate_Achievements": "2023-07-14T17:02:33.2497054+00:00"
 }

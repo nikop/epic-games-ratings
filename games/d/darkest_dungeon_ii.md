@@ -6,40 +6,40 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~102,533 |
-| Don't Make Me Turn This Coach Around | 70.00% | ~77,176 |
-| A Clear Conscience | 69.00% | ~76,073 |
-| Unleash Hell | 68.00% | ~74,971 |
-| Unfulfilled Desires | 68.00% | ~74,971 |
-| Funny Guy | 67.00% | ~73,868 |
-| Unshackled | 67.00% | ~73,868 |
-| Long Live the King | 66.00% | ~72,766 |
-| Resurrection | 62.00% | ~68,356 |
-| Wyrdly Reconstructed | 62.00% | ~68,356 |
-| Boxcar Kid | 60.00% | ~66,151 |
-| To Grandmother's House | 60.00% | ~66,151 |
-| Rush Hour | 59.00% | ~65,048 |
-| Serenity Now! | 52.00% | ~57,331 |
-| Hope Rekindled | 50.00% | ~55,126 |
-| Ramble On | 48.00% | ~52,920 |
-| Nope | 47.00% | ~51,818 |
-| This Looks Familiar | 38.00% | ~41,895 |
-| Hot Air | 36.00% | ~39,690 |
-| Now Stay Dead | 35.00% | ~38,588 |
-| Merry Time | 35.00% | ~38,588 |
-| Harvest Festival | 35.00% | ~38,588 |
-| Creep and Sleep | 32.00% | ~35,280 |
-| Overdue Notice | 31.00% | ~34,178 |
-| Whale | 30.00% | ~33,075 |
-| Banishment | 29.00% | ~31,973 |
-| FNG | 28.00% | ~30,870 |
+| A Place to Lay Your Head | 93.00% | ~102,536 |
+| Don't Make Me Turn This Coach Around | 70.00% | ~77,178 |
+| A Clear Conscience | 69.00% | ~76,075 |
+| Unleash Hell | 68.00% | ~74,973 |
+| Unfulfilled Desires | 68.00% | ~74,973 |
+| Funny Guy | 67.00% | ~73,870 |
+| Unshackled | 67.00% | ~73,870 |
+| Long Live the King | 66.00% | ~72,768 |
+| Resurrection | 62.00% | ~68,357 |
+| Wyrdly Reconstructed | 62.00% | ~68,357 |
+| Boxcar Kid | 60.00% | ~66,152 |
+| To Grandmother's House | 60.00% | ~66,152 |
+| Rush Hour | 59.00% | ~65,050 |
+| Serenity Now! | 52.00% | ~57,332 |
+| Hope Rekindled | 50.00% | ~55,127 |
+| Ramble On | 48.00% | ~52,922 |
+| Nope | 47.00% | ~51,819 |
+| This Looks Familiar | 38.00% | ~41,897 |
+| Hot Air | 36.00% | ~39,691 |
+| Now Stay Dead | 35.00% | ~38,589 |
+| Merry Time | 35.00% | ~38,589 |
+| Harvest Festival | 35.00% | ~38,589 |
+| Creep and Sleep | 32.00% | ~35,281 |
+| Overdue Notice | 31.00% | ~34,179 |
+| Whale | 30.00% | ~33,076 |
+| Banishment | 29.00% | ~31,974 |
+| FNG | 28.00% | ~30,871 |
 | Predator | 23.00% | ~25,358 |
 | Reverse Banditry | 23.00% | ~25,358 |
 | Autodidact | 23.00% | ~25,358 |
-| Meat and Greet | 22.00% | ~24,255 |
+| Meat and Greet | 22.00% | ~24,256 |
 | Spelunker | 21.00% | ~23,153 |
 | Road Trip | 21.00% | ~23,153 |
-| Eyes Up | 20.00% | ~22,050 |
+| Eyes Up | 20.00% | ~22,051 |
 | It Rings a Bell | 19.00% | ~20,948 |
 | Escape from the Black Hole | 17.00% | ~18,743 |
 | It Happens | 17.00% | ~18,743 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~110 |
 | Hard Mode | 0.10% | ~110 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 110,251 (Ranked 64)  
+Progressed: 110,254 (Ranked 64)  
 Completed: 1 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,10 +147,10 @@ Completed: 1 (0.00%) (Ranked 236)
 | 2023-07-11 | 109,853 | 1 |
 | 2023-07-12 | 110,006 | 1 |
 | 2023-07-13 | 110,154 | 1 |
-| 2023-07-14 | 110,251 | 1 |
+| 2023-07-14 | 110,254 | 1 |
 ## Awards
 Max (Character Customization): 7,268  (Ranked 47)  
-Sum: 18,804 (Ranked 56)  
+Sum: 18,807 (Ranked 56)  
 Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |
@@ -160,8 +160,8 @@ Diff (max vs sum): -9
 | This game is Highly Recommended | 1,384 |
 | This game has Amazing Characters | 1,333 |
 | This game is Extremely Fun | 1,332 |
+| This game has Amazing Storytelling | 1,247 |
 | This game has Quickly Understood Controls | 1,244 |
-| This game has Amazing Storytelling | 1,244 |
 | This game has Unique Visuals | 1,202 |
 | This game has a Creative Community | 898 |
 | This game has Obsessive Gameplay | 585 |
@@ -338,4 +338,4 @@ Diff (max vs sum): -9
 | 2023-07-11 | 4.68 | - | 7,261 | 18,782 |
 | 2023-07-12 | 4.68 | - | 7,263 | 18,790 |
 | 2023-07-13 | 4.68 | - | 7,263 | 18,794 |
-| 2023-07-14 | 4.68 | - | 7,268 | 18,804 |
+| 2023-07-14 | 4.68 | - | 7,268 | 18,807 |

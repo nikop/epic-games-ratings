@@ -6,36 +6,36 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~588,579 |
-| Right Back At Ya | 38.00% | ~328,912 |
-| The Lovers | 34.00% | ~294,289 |
-| Stanislavski's Method | 28.00% | ~242,356 |
-| The Wheel of Fortune | 26.00% | ~225,045 |
-| The Hermit | 24.00% | ~207,734 |
-| Christmas Tree Attack | 22.00% | ~190,423 |
-| True Soldier | 22.00% | ~190,423 |
-| The High Priestess | 21.00% | ~181,767 |
-| Legend of The Afterlife | 21.00% | ~181,767 |
-| Life of the Road | 20.00% | ~173,111 |
-| Full Body Conversion | 18.00% | ~155,800 |
-| The World | 17.00% | ~147,145 |
-| Bushido and Chill | 16.00% | ~138,489 |
-| Gun Fu | 15.00% | ~129,834 |
-| True Warrior | 15.00% | ~129,834 |
-| To Protect and Serve | 13.00% | ~112,522 |
-| Master Crafter | 13.00% | ~112,522 |
-| I Am The Law | 13.00% | ~112,522 |
-| Judy vs Night City | 13.00% | ~112,522 |
-| Two Heads, One Bullet | 11.00% | ~95,211 |
-| The Wandering Fool | 9.00% | ~77,900 |
-| The Quick and the Dead | 9.00% | ~77,900 |
-| Ten out of Ten | 8.00% | ~69,245 |
-| Breathtaking | 7.00% | ~60,589 |
-| To Bad Decisions! | 6.00% | ~51,933 |
-| The Star | 6.00% | ~51,933 |
-| The Sun | 6.00% | ~51,933 |
-| Must Be Rats | 4.00% | ~34,622 |
-| Temperance | 4.00% | ~34,622 |
+| The Fool | 68.00% | ~588,587 |
+| Right Back At Ya | 38.00% | ~328,916 |
+| The Lovers | 34.00% | ~294,293 |
+| Stanislavski's Method | 28.00% | ~242,359 |
+| The Wheel of Fortune | 26.00% | ~225,048 |
+| The Hermit | 24.00% | ~207,737 |
+| Christmas Tree Attack | 22.00% | ~190,425 |
+| True Soldier | 22.00% | ~190,425 |
+| The High Priestess | 21.00% | ~181,769 |
+| Legend of The Afterlife | 21.00% | ~181,769 |
+| Life of the Road | 20.00% | ~173,114 |
+| Full Body Conversion | 18.00% | ~155,802 |
+| The World | 17.00% | ~147,147 |
+| Bushido and Chill | 16.00% | ~138,491 |
+| Gun Fu | 15.00% | ~129,835 |
+| True Warrior | 15.00% | ~129,835 |
+| To Protect and Serve | 13.00% | ~112,524 |
+| Master Crafter | 13.00% | ~112,524 |
+| I Am The Law | 13.00% | ~112,524 |
+| Judy vs Night City | 13.00% | ~112,524 |
+| Two Heads, One Bullet | 11.00% | ~95,213 |
+| The Wandering Fool | 9.00% | ~77,901 |
+| The Quick and the Dead | 9.00% | ~77,901 |
+| Ten out of Ten | 8.00% | ~69,246 |
+| Breathtaking | 7.00% | ~60,590 |
+| To Bad Decisions! | 6.00% | ~51,934 |
+| The Star | 6.00% | ~51,934 |
+| The Sun | 6.00% | ~51,934 |
+| Must Be Rats | 4.00% | ~34,623 |
+| Temperance | 4.00% | ~34,623 |
 | City Lights | 3.00% | ~25,967 |
 | Mean Streets | 3.00% | ~25,967 |
 | Little Tokyo | 3.00% | ~25,967 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,656 |
 | Rough Landing | 0.50% | ~4,328 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 865,557 (Ranked 14)  
+Progressed: 865,569 (Ranked 14)  
 Completed: 1,866 (0.22%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,10 +136,10 @@ Completed: 1,866 (0.22%) (Ranked 160)
 | 2023-07-11 | 865,106 | 1,856 |
 | 2023-07-12 | 865,273 | 1,861 |
 | 2023-07-13 | 865,432 | 1,865 |
-| 2023-07-14 | 865,557 | 1,866 |
+| 2023-07-14 | 865,569 | 1,866 |
 ## Awards
 Max (Character Customization): 73,052  (Ranked 9)  
-Sum: 191,690 (Ranked 13)  
+Sum: 191,702 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -152,7 +152,7 @@ Diff (max vs sum): -4
 | This game is Highly Recommended | 8,270 |
 | This game is Relaxing | 8,243 |
 | This game has Quickly Understood Controls | 8,125 |
-| This game has Amazing Characters | 8,077 |
+| This game has Amazing Characters | 8,089 |
 | This game has a Creative Community | 5,318 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -333,4 +333,4 @@ Diff (max vs sum): -4
 | 2023-07-11 | 4.62 | - | 72,863 | 191,009 |
 | 2023-07-12 | 4.62 | - | 72,962 | 191,305 |
 | 2023-07-13 | 4.62 | - | 73,052 | 191,580 |
-| 2023-07-14 | 4.62 | - | 73,052 | 191,690 |
+| 2023-07-14 | 4.62 | - | 73,052 | 191,702 |

@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -1869,9 +1869,9 @@
       "ID": "ParryRepeated1",
       "SetID": "a9e499d",
       "Name": "No, Thanks!",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 105
     },
     {
       "ID": "PhaseDiveCounter",
@@ -2044,8 +2044,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-14T16:06:38.0040204+00:00",
+  "LastChanged_Achievements": "2023-07-14T17:08:14.450513+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:34.816735+00:00",
-  "LastUpdate_Ratings": "2023-07-14T16:00:01.6650024+00:00",
-  "LastUpdate_Achievements": "2023-07-14T16:06:38.0040815+00:00"
+  "LastUpdate_Ratings": "2023-07-14T17:00:48.366889+00:00",
+  "LastUpdate_Achievements": "2023-07-14T17:08:14.4506098+00:00"
 }

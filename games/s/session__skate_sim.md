@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,510 (Ranked 157)  
+Progressed: 2,511 (Ranked 157)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-11 | 2,505 | 0 |
 | 2023-07-12 | 2,507 | 0 |
 | 2023-07-13 | 2,509 | 0 |
-| 2023-07-14 | 2,510 | 0 |
+| 2023-07-14 | 2,511 | 0 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 398)  
 Sum: 436 (Ranked 306)  
