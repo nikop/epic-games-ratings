@@ -2462,9 +2462,9 @@
       "ID": "ACH_OB_FC",
       "SetID": "b3fep3o",
       "Name": "Veneration of Hephaestus",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_OB_FT",
@@ -2614,9 +2614,9 @@
       "ID": "ACH_TP",
       "SetID": "b3fep3o",
       "Name": "Halls of Marble",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 98
     },
     {
       "ID": "KA",
@@ -2695,8 +2695,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-07-15T19:02:45.910875+00:00",
+  "LastChanged_Achievements": "2023-07-15T20:01:10.7013679+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:45.4667739+00:00",
-  "LastUpdate_Ratings": "2023-07-15T19:01:30.9256566+00:00",
-  "LastUpdate_Achievements": "2023-07-15T19:02:45.9109562+00:00"
+  "LastUpdate_Ratings": "2023-07-15T20:00:13.0188137+00:00",
+  "LastUpdate_Achievements": "2023-07-15T20:01:10.7014492+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "the-case-of-the-golden-idol-ce58f7",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 39,
-  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-03-23T16:00:00+00:00",
@@ -759,8 +759,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-07-15T19:06:19.068864+00:00",
+  "LastChanged_Achievements": "2023-07-15T20:05:23.0372819+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:38.5229332+00:00",
-  "LastUpdate_Ratings": "2023-07-15T19:00:05.3294036+00:00",
-  "LastUpdate_Achievements": "2023-07-15T19:06:19.0688809+00:00"
+  "LastUpdate_Ratings": "2023-07-15T19:59:08.3438192+00:00",
+  "LastUpdate_Achievements": "2023-07-15T20:05:23.0372961+00:00"
 }

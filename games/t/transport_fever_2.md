@@ -1,45 +1,45 @@
 # Transport Fever 2
 [Store](https://store.epicgames.com/en-US/p/transport-fever-2)  
 [View Rawdata](../../db/t/transport_fever_2.json)  
-Rating: 4.69 (Ranked 219)  
+Rating: 4.69 (Ranked 218)  
 Number of Ratings: 180  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First line | 77.00% | ~1,096 |
-| First cargo item on board | 71.00% | ~1,010 |
-| First cargo item waiting | 71.00% | ~1,010 |
-| First bus stop | 70.00% | ~996 |
-| First passenger on board | 67.00% | ~953 |
-| First passenger waiting | 67.00% | ~953 |
-| First bus arrived | 66.00% | ~939 |
-| First train station | 64.00% | ~911 |
-| First steam train arrived | 60.00% | ~854 |
-| First industry upgraded | 56.00% | ~797 |
-| Transport millionaire | 55.00% | ~783 |
-| Cargo hub | 54.00% | ~768 |
-| Cadet | 53.00% | ~754 |
-| Transport master | 52.00% | ~740 |
+| First line | 77.00% | ~1,097 |
+| First cargo item on board | 71.00% | ~1,012 |
+| First cargo item waiting | 71.00% | ~1,012 |
+| First bus stop | 70.00% | ~997 |
+| First passenger on board | 67.00% | ~955 |
+| First passenger waiting | 67.00% | ~955 |
+| First bus arrived | 66.00% | ~940 |
+| First train station | 64.00% | ~912 |
+| First steam train arrived | 60.00% | ~855 |
+| First industry upgraded | 56.00% | ~798 |
+| Transport millionaire | 55.00% | ~784 |
+| Cargo hub | 54.00% | ~770 |
+| Cadet | 53.00% | ~755 |
+| Transport master | 52.00% | ~741 |
 | Sculpturer | 50.00% | ~712 |
-| Settled down | 48.00% | ~683 |
-| First electric train arrived | 47.00% | ~669 |
-| First ship arrived | 46.00% | ~655 |
-| Now what? | 46.00% | ~655 |
-| High speed | 43.00% | ~612 |
-| First aircraft arrived | 41.00% | ~583 |
-| Exemplary student | 41.00% | ~583 |
-| Transport shark | 40.00% | ~569 |
-| Mass production | 35.00% | ~498 |
+| Settled down | 48.00% | ~684 |
+| First electric train arrived | 47.00% | ~670 |
+| First ship arrived | 46.00% | ~656 |
+| Now what? | 46.00% | ~656 |
+| High speed | 43.00% | ~613 |
+| First aircraft arrived | 41.00% | ~584 |
+| Exemplary student | 41.00% | ~584 |
+| Transport shark | 40.00% | ~570 |
+| Mass production | 35.00% | ~499 |
 | Aircraft entrepreneur | 33.00% | ~470 |
-| Crowd in a train | 31.00% | ~441 |
-| The future is now, old man | 31.00% | ~441 |
-| Not in my backyard | 30.00% | ~427 |
+| Crowd in a train | 31.00% | ~442 |
+| The future is now, old man | 31.00% | ~442 |
+| Not in my backyard | 30.00% | ~428 |
 | The king of the sea | 29.00% | ~413 |
-| City | 28.00% | ~398 |
+| City | 28.00% | ~399 |
 | Transport tycoon | 24.00% | ~342 |
-| Climate change | 23.00% | ~327 |
-| Old timer | 22.00% | ~313 |
-| The ugly smell of success | 22.00% | ~313 |
+| Climate change | 23.00% | ~328 |
+| Old timer | 22.00% | ~314 |
+| The ugly smell of success | 22.00% | ~314 |
 | Heavily loaded | 21.00% | ~299 |
 | Bob Ross | 16.00% | ~228 |
 | Campaign expert | 11.00% | ~157 |
@@ -48,8 +48,8 @@ Number of Ratings: 180  (23.09.2022)
 | Penny pincher | 10.00% | ~142 |
 | Back to the future | 9.00% | ~128 |
 | Transport belt | 9.00% | ~128 |
-| Campaign shark | 6.00% | ~85 |
-| E.P.E.C. | 6.00% | ~85 |
+| Campaign shark | 6.00% | ~86 |
+| E.P.E.C. | 6.00% | ~86 |
 | Antique | 5.00% | ~71 |
 | Transport shark (Hard mode) | 4.00% | ~57 |
 | Transport corporation | 4.00% | ~57 |
@@ -68,7 +68,7 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.10% | ~1 |
 | Museum line | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,423 (Ranked 173)  
+Progressed: 1,425 (Ranked 173)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,10 +152,10 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-12 | 1,412 | 0 |
 | 2023-07-13 | 1,413 | 0 |
 | 2023-07-14 | 1,419 | 0 |
-| 2023-07-15 | 1,423 | 0 |
+| 2023-07-15 | 1,425 | 0 |
 ## Awards
 Max (Highly Recommended): 40  (Ranked 420)  
-Sum: 273 (Ranked 340)  
+Sum: 274 (Ranked 340)  
 Diff (max vs sum): 80  
 | Award | Count |
 | ----- | ----- |
@@ -166,7 +166,7 @@ Diff (max vs sum): 80
 | This game is Relaxing | 30 |
 | This game has Quickly Understood Controls | 29 |
 | This game has a Creative Community | 26 |
-| This game is Educational | 24 |
+| This game is Educational | 25 |
 | This game has Amazing Characters | 22 |
 | This game has Obsessive Gameplay | 21 |
 ## Ratings History
@@ -242,4 +242,4 @@ Diff (max vs sum): 80
 | 2023-06-28 | 4.69 | - | 39 | 270 |
 | 2023-07-08 | 4.69 | - | 39 | 271 |
 | 2023-07-14 | 4.69 | - | 40 | 272 |
-| 2023-07-15 | 4.69 | - | 40 | 273 |
+| 2023-07-15 | 4.69 | - | 40 | 274 |

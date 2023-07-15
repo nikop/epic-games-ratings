@@ -45,12 +45,12 @@ Rating: 4.06 (Ranked 900)
 | The Expeditioner | 7.00% | ~115 |
 | Trader | 7.00% | ~115 |
 | Crystal Mining | 6.00% | ~99 |
+| Dragon Slayer | 6.00% | ~99 |
 | Enchanting skill | 6.00% | ~99 |
 | How Do You Turn This On? | 6.00% | ~99 |
 | Weekly Quest Completionist | 6.00% | ~99 |
 | Ancient Knowledge | 5.00% | ~82 |
 | Blueprint Upgrades | 5.00% | ~82 |
-| Dragon Slayer | 5.00% | ~82 |
 | Engineer Mastery | 5.00% | ~82 |
 | Lock And Load | 5.00% | ~82 |
 | Missions Dedication | 5.00% | ~82 |

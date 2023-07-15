@@ -1,17 +1,17 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.56 (Ranked 457)  
+Rating: 4.56 (Ranked 458)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~8,960 |
-| Pay 'n' Spray | 50.00% | ~5,531 |
+| Getting Started | 81.00% | ~8,962 |
+| Pay 'n' Spray | 50.00% | ~5,532 |
 | All Dressed Up for San Fierro | 25.00% | ~2,766 |
-| The American Dream | 18.00% | ~1,991 |
+| The American Dream | 18.00% | ~1,992 |
 | School's Out | 17.00% | ~1,881 |
 | Smooth Moves | 16.00% | ~1,770 |
-| Today Was a Good Day | 15.00% | ~1,659 |
+| Today Was a Good Day | 15.00% | ~1,660 |
 | What happens in Las Venturas... | 14.00% | ~1,549 |
 | Horror of the Santa Maria | 10.00% | ~1,106 |
 | Liberty City State of Mind | 9.00% | ~996 |
@@ -19,8 +19,8 @@ Rating: 4.56 (Ranked 457)
 | Original Gangster | 7.00% | ~774 |
 | With Extra Dip | 6.00% | ~664 |
 | Saviour | 6.00% | ~664 |
-| They Can’t Stop All of Us | 4.00% | ~442 |
-| Rescue a Kitten Too? | 4.00% | ~442 |
+| They Can’t Stop All of Us | 4.00% | ~443 |
+| Rescue a Kitten Too? | 4.00% | ~443 |
 | Bike or Biker | 3.00% | ~332 |
 | What are the Odds | 3.00% | ~332 |
 | I’ll Have Two Number 9s | 2.00% | ~221 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 457)
 | ...Here we go again | 0.40% | ~44 |
 | I Ain't No Buster | 0.30% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,062 (Ranked 116)  
+Progressed: 11,064 (Ranked 116)  
 Completed: 30 (0.27%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 30 (0.27%) (Ranked 152)
 | 2023-07-12 | 11,029 | 28 |
 | 2023-07-13 | 11,036 | 29 |
 | 2023-07-14 | 11,052 | 29 |
-| 2023-07-15 | 11,062 | 30 |
+| 2023-07-15 | 11,064 | 30 |
 ## Awards
 Max (Great Boss Battles): 218  (Ranked 256)  
 Sum: 218 (Ranked 354)  

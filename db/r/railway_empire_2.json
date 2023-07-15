@@ -130,7 +130,7 @@
   "Tags": [],
   "EOS_Progressed": 1567,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3633,9 +3633,9 @@
       "ID": "A37",
       "SetID": "9b7p7eo",
       "Name": "All around the World",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 956
+      "UsersEstimate": 972
     },
     {
       "ID": "A38",
@@ -3786,8 +3786,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-07-15T13:11:52.2660049+00:00",
-  "LastChanged_Achievements": "2023-07-15T19:03:14.7865696+00:00",
+  "LastChanged_Achievements": "2023-07-15T20:02:29.090415+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:48.1822596+00:00",
-  "LastUpdate_Ratings": "2023-07-15T18:59:14.0290161+00:00",
-  "LastUpdate_Achievements": "2023-07-15T19:03:14.7866433+00:00"
+  "LastUpdate_Ratings": "2023-07-15T19:58:31.1890987+00:00",
+  "LastUpdate_Achievements": "2023-07-15T20:02:29.0904849+00:00"
 }

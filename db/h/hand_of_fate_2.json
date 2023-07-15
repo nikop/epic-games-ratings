@@ -2,7 +2,7 @@
   "ID": "eb348461cdaf4bec9d69a1c4bb39ecc4",
   "Name": "Hand of Fate 2",
   "ProductSlug": "hand-of-fate-2",
-  "Ranking_Rating": 457,
+  "Ranking_Rating": 458,
   "Ranking_Popularity": 435,
   "Ranking_PopularitySum": 373,
   "Ranking_EOS_Progress": 22,
@@ -862,9 +862,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 659337,
+  "EOS_Progressed": 659338,
   "EOS_Completed": 165,
-  "EOS_NewPlayers": 316,
+  "EOS_NewPlayers": 317,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8957,6 +8957,11 @@
       "Time": "2023-07-15T19:03:22.1295016+00:00",
       "NumProgressed": 659337,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-07-15T20:03:16.5835578+00:00",
+      "NumProgressed": 659338,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -8976,7 +8981,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 382415
+      "UsersEstimate": 382416
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -9208,7 +9213,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 79120
+      "UsersEstimate": 79121
     },
     {
       "ID": "Achievement_32_Karma",
@@ -9351,15 +9356,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 659337,
+      "Progressed": 659338,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-07-06T22:58:14.2890682+00:00",
-  "LastChanged_Achievements": "2023-07-15T19:03:22.1295009+00:00",
+  "LastChanged_Achievements": "2023-07-15T20:03:16.5835574+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:05.0393547+00:00",
-  "LastUpdate_Ratings": "2023-07-15T18:58:30.3998397+00:00",
-  "LastUpdate_Achievements": "2023-07-15T19:03:22.1295969+00:00"
+  "LastUpdate_Ratings": "2023-07-15T19:58:03.928049+00:00",
+  "LastUpdate_Achievements": "2023-07-15T20:03:16.5836551+00:00"
 }

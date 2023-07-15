@@ -1910,9 +1910,9 @@
       "ID": "LEVEL_012",
       "SetID": "3khpmem",
       "Name": "Calm neighborhood",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 91
+      "UsersEstimate": 95
     },
     {
       "ID": "LEVEL_013",
@@ -2007,8 +2007,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-07-15T18:10:28.6627632+00:00",
+  "LastChanged_Achievements": "2023-07-15T20:01:05.9066359+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:43.4679377+00:00",
-  "LastUpdate_Ratings": "2023-07-15T18:59:11.3735814+00:00",
-  "LastUpdate_Achievements": "2023-07-15T18:10:28.6628226+00:00"
+  "LastUpdate_Ratings": "2023-07-15T19:58:29.4591117+00:00",
+  "LastUpdate_Achievements": "2023-07-15T20:01:05.9066726+00:00"
 }

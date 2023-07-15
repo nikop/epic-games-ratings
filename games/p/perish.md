@@ -29,6 +29,7 @@
 | Siege Unit | 3.00% | ~98 |
 | Divine Assemblage | 3.00% | ~98 |
 | Ophiolatreia | 3.00% | ~98 |
+| Halls of Marble | 3.00% | ~98 |
 | Serpentine | 3.00% | ~98 |
 | Wayward Son of Hephaestus | 2.00% | ~65 |
 | Lament of the Constellations | 2.00% | ~65 |
@@ -37,17 +38,16 @@
 | The Midas Touch | 2.00% | ~65 |
 | Hapax Legomenon | 2.00% | ~65 |
 | Don't Pay the Ferryman | 2.00% | ~65 |
+| Veneration of Hephaestus | 2.00% | ~65 |
 | Vandili | 2.00% | ~65 |
 | No Scylla in Sight | 2.00% | ~65 |
 | Cloaca Maxima | 2.00% | ~65 |
 | Baby Crabs They Ain't | 2.00% | ~65 |
-| Halls of Marble | 2.00% | ~65 |
 | Mors Omnibus | 2.00% | ~65 |
 | Blot Out the Sky | 2.00% | ~65 |
 | The Nameless One | 1.00% | ~33 |
 | Rule of Thirds | 1.00% | ~33 |
 | Pyr Demon | 1.00% | ~33 |
-| Veneration of Hephaestus | 1.00% | ~33 |
 | Biotechnology | 1.00% | ~33 |
 | The Archimedes Principle | 1.00% | ~33 |
 | Rites at Sea | 1.00% | ~33 |

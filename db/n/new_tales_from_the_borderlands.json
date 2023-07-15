@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3466,
+  "EOS_Progressed": 3467,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -708,6 +708,11 @@
       "Time": "2023-07-14T19:03:20.9781336+00:00",
       "NumProgressed": 3466,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-15T20:02:13.9012292+00:00",
+      "NumProgressed": 3467,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -759,7 +764,7 @@
       "Name": "Each Sold Separately",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1283
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -767,7 +772,7 @@
       "Name": "From Zeroes...",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "FINISH_EPISODE_2",
@@ -839,7 +844,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 1698
+      "UsersEstimate": 1699
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -926,7 +931,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3466,
+      "Progressed": 3467,
       "Completed": 0
     }
   ],
@@ -934,8 +939,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-07-15T19:02:59.7524088+00:00",
+  "LastChanged_Achievements": "2023-07-15T20:02:13.9012288+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:23.0199972+00:00",
-  "LastUpdate_Ratings": "2023-07-15T19:00:57.7573176+00:00",
-  "LastUpdate_Achievements": "2023-07-15T19:02:59.7524319+00:00"
+  "LastUpdate_Ratings": "2023-07-15T19:59:48.7319718+00:00",
+  "LastUpdate_Achievements": "2023-07-15T20:02:13.9012509+00:00"
 }

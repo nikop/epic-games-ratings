@@ -1,27 +1,27 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 219)  
+Rating: 4.69 (Ranked 218)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,307 |
-| That's a Grand Army | 8.00% | ~5,606 |
-| That is mine! | 8.00% | ~5,606 |
-| Victorious! | 8.00% | ~5,606 |
-| Brothers in Arms | 6.00% | ~4,205 |
-| That's a Grand Navy | 6.00% | ~4,205 |
-| Seriously?! | 6.00% | ~4,205 |
-| For the Glory | 5.00% | ~3,504 |
-| Cold War | 4.00% | ~2,803 |
-| True Catholic | 4.00% | ~2,803 |
-| Defender of the Faith | 3.00% | ~2,102 |
-| It's all about luck | 3.00% | ~2,102 |
-| It's all about the money | 3.00% | ~2,102 |
-| Respected | 3.00% | ~2,102 |
-| The Princess is in this Castle | 3.00% | ~2,102 |
-| Truly Divine Ruler | 3.00% | ~2,102 |
+| Until death do us apart | 9.00% | ~6,309 |
+| That's a Grand Army | 8.00% | ~5,608 |
+| That is mine! | 8.00% | ~5,608 |
+| Victorious! | 8.00% | ~5,608 |
+| Brothers in Arms | 6.00% | ~4,206 |
+| That's a Grand Navy | 6.00% | ~4,206 |
+| Seriously?! | 6.00% | ~4,206 |
+| For the Glory | 5.00% | ~3,505 |
+| Cold War | 4.00% | ~2,804 |
+| True Catholic | 4.00% | ~2,804 |
+| Defender of the Faith | 3.00% | ~2,103 |
+| It's all about luck | 3.00% | ~2,103 |
+| It's all about the money | 3.00% | ~2,103 |
+| Respected | 3.00% | ~2,103 |
+| The Princess is in this Castle | 3.00% | ~2,103 |
+| Truly Divine Ruler | 3.00% | ~2,103 |
 | Agressive Expander | 2.00% | ~1,402 |
 | Blockader | 2.00% | ~1,402 |
 | Combined Arms | 2.00% | ~1,402 |
@@ -46,20 +46,20 @@ Number of Ratings: 8,414  (23.09.2022)
 | Down Under | 0.80% | ~561 |
 | Electable! | 0.70% | ~491 |
 | Populists in Government | 0.70% | ~491 |
-| All belongs to Mother Russia | 0.60% | ~420 |
-| At every continent | 0.60% | ~420 |
-| Early-Modern Warfare | 0.60% | ~420 |
-| One Family to Rule them All | 0.60% | ~420 |
-| The pen is mightier than the sword | 0.60% | ~420 |
-| This is My Faith | 0.60% | ~420 |
-| Time Bandit | 0.60% | ~420 |
-| Absolutely | 0.50% | ~350 |
-| Grand Coalition | 0.50% | ~350 |
-| In the Name of the Father | 0.50% | ~350 |
-| Live Long and Prosper | 0.50% | ~350 |
-| Ruina Imperii | 0.50% | ~350 |
-| Trophy Hunter | 0.50% | ~350 |
-| Voting Streak | 0.50% | ~350 |
+| All belongs to Mother Russia | 0.60% | ~421 |
+| At every continent | 0.60% | ~421 |
+| Early-Modern Warfare | 0.60% | ~421 |
+| One Family to Rule them All | 0.60% | ~421 |
+| The pen is mightier than the sword | 0.60% | ~421 |
+| This is My Faith | 0.60% | ~421 |
+| Time Bandit | 0.60% | ~421 |
+| Absolutely | 0.50% | ~351 |
+| Grand Coalition | 0.50% | ~351 |
+| In the Name of the Father | 0.50% | ~351 |
+| Live Long and Prosper | 0.50% | ~351 |
+| Ruina Imperii | 0.50% | ~351 |
+| Trophy Hunter | 0.50% | ~351 |
+| Voting Streak | 0.50% | ~351 |
 | All Your Trade Are Belong to Us | 0.40% | ~280 |
 | Bleed Them Dry | 0.40% | ~280 |
 | Dude, Where's my Boat? | 0.40% | ~280 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 70,076 (Ranked 74)  
+Progressed: 70,105 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -447,10 +447,10 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-12 | 68,921 | 0 |
 | 2023-07-13 | 69,319 | 0 |
 | 2023-07-14 | 69,707 | 0 |
-| 2023-07-15 | 70,076 | 0 |
+| 2023-07-15 | 70,105 | 0 |
 ## Awards
 Max (Educational): 5,541  (Ranked 60)  
-Sum: 45,723 (Ranked 26)  
+Sum: 45,728 (Ranked 26)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
@@ -458,7 +458,7 @@ Diff (max vs sum): 34
 | This game is Highly Recommended | 5,302 |
 | This game has Challenging Combat | 5,268 |
 | This game is Extremely Fun | 5,260 |
-| This game has Diverse Characters | 5,216 |
+| This game has Diverse Characters | 5,221 |
 | This game is Relaxing | 5,125 |
 | This game has Competitive Players | 4,982 |
 | This game has Amazing Storytelling | 4,692 |
@@ -646,4 +646,4 @@ Diff (max vs sum): 34
 | 2023-07-12 | 4.69 | - | 5,537 | 45,667 |
 | 2023-07-13 | 4.69 | - | 5,540 | 45,689 |
 | 2023-07-14 | 4.69 | - | 5,541 | 45,702 |
-| 2023-07-15 | 4.69 | - | 5,541 | 45,723 |
+| 2023-07-15 | 4.69 | - | 5,541 | 45,728 |

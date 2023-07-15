@@ -21,7 +21,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''A fine addition to my collection'' | 37.00% | ~18,457 |
 | Return of the Jedi | 32.00% | ~15,963 |
 | The Force Awakens | 26.00% | ~12,970 |
-| The Last Jedi | 22.00% | ~10,974 |
+| The Last Jedi | 23.00% | ~11,473 |
 | The Rise of Skywalker | 20.00% | ~9,977 |
 | ''It's true... all of it'' | 19.00% | ~9,478 |
 | ''Get the crews to their fighters'' | 18.00% | ~8,979 |

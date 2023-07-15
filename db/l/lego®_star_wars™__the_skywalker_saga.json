@@ -2710,7 +2710,7 @@
   ],
   "EOS_Progressed": 49884,
   "EOS_Completed": 208,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -9140,9 +9140,9 @@
       "ID": "COMPLETE_EPISODE_8",
       "SetID": "3fcpmbm",
       "Name": "The Last Jedi",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 10974
+      "UsersEstimate": 11473
     },
     {
       "ID": "COMPLETE_EPISODE_9",
@@ -9340,8 +9340,8 @@
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-07-14T19:02:53.4542849+00:00",
-  "LastChanged_Achievements": "2023-07-15T19:04:26.3241664+00:00",
+  "LastChanged_Achievements": "2023-07-15T20:03:50.8562126+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:41.0824625+00:00",
-  "LastUpdate_Ratings": "2023-07-15T19:02:40.2210681+00:00",
-  "LastUpdate_Achievements": "2023-07-15T19:04:26.3242466+00:00"
+  "LastUpdate_Ratings": "2023-07-15T20:01:04.3180607+00:00",
+  "LastUpdate_Achievements": "2023-07-15T20:03:50.8562912+00:00"
 }

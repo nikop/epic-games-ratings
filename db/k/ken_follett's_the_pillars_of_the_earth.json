@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13919,
+  "EOS_Progressed": 13921,
   "EOS_Completed": 105,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -6149,6 +6149,11 @@
       "Time": "2023-07-15T19:02:53.7181777+00:00",
       "NumProgressed": 13919,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2023-07-15T20:01:18.5613209+00:00",
+      "NumProgressed": 13921,
+      "NumCompleted": 105
     }
   ],
   "TotalAchievements": 41,
@@ -6200,7 +6205,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4732
+      "UsersEstimate": 4733
     },
     {
       "ID": "tpote_achievement_15",
@@ -6224,7 +6229,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2366
+      "UsersEstimate": 2367
     },
     {
       "ID": "tpote_achievement_18",
@@ -6248,7 +6253,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4732
+      "UsersEstimate": 4733
     },
     {
       "ID": "tpote_achievement_20",
@@ -6264,7 +6269,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 4315
+      "UsersEstimate": 4316
     },
     {
       "ID": "tpote_achievement_22",
@@ -6312,7 +6317,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2505
+      "UsersEstimate": 2506
     },
     {
       "ID": "tpote_achievement_28",
@@ -6320,7 +6325,7 @@
       "Name": "Whodunnit",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1809
+      "UsersEstimate": 1810
     },
     {
       "ID": "tpote_achievement_29",
@@ -6336,7 +6341,7 @@
       "Name": "Let there be darkness",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4593
+      "UsersEstimate": 4594
     },
     {
       "ID": "tpote_achievement_30",
@@ -6352,7 +6357,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2505
+      "UsersEstimate": 2506
     },
     {
       "ID": "tpote_achievement_32",
@@ -6424,7 +6429,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 5707
+      "UsersEstimate": 5708
     },
     {
       "ID": "tpote_achievement_40",
@@ -6472,7 +6477,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3062
+      "UsersEstimate": 3063
     },
     {
       "ID": "tpote_achievement_9",
@@ -6487,15 +6492,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13919,
+      "Progressed": 13921,
       "Completed": 105
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-15T19:02:53.7181772+00:00",
+  "LastChanged_Achievements": "2023-07-15T20:01:18.5613205+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:01.688698+00:00",
-  "LastUpdate_Ratings": "2023-07-15T19:01:45.6534588+00:00",
-  "LastUpdate_Achievements": "2023-07-15T19:02:53.7182529+00:00"
+  "LastUpdate_Ratings": "2023-07-15T20:00:27.4882981+00:00",
+  "LastUpdate_Achievements": "2023-07-15T20:01:18.5613957+00:00"
 }

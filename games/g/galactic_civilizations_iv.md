@@ -1,27 +1,27 @@
 # Galactic Civilizations IV
 [Store](https://store.epicgames.com/en-US/p/galactic-civilizations-iv)  
 [View Rawdata](../../db/g/galactic_civilizations_iv.json)  
-Rating: 4.18 (Ranked 856)  
+Rating: 4.18 (Ranked 855)  
 Number of Ratings: 429  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 79.00% | ~4,840 |
-| Worker Specialization | 78.00% | ~4,779 |
-| First Contact | 73.00% | ~4,473 |
-| Win a Battle | 67.00% | ~4,105 |
-| Anomaly Researcher | 63.00% | ~3,860 |
-| Unleash My Power | 62.00% | ~3,799 |
-| Own 30 Planets | 35.00% | ~2,144 |
-| Xenocide | 33.00% | ~2,022 |
+| Colonize a Planet | 79.00% | ~4,842 |
+| Worker Specialization | 78.00% | ~4,781 |
+| First Contact | 73.00% | ~4,474 |
+| Win a Battle | 67.00% | ~4,106 |
+| Anomaly Researcher | 63.00% | ~3,861 |
+| Unleash My Power | 62.00% | ~3,800 |
+| Own 30 Planets | 35.00% | ~2,145 |
+| Xenocide | 33.00% | ~2,023 |
 | Commodity Trader | 32.00% | ~1,961 |
 | Design a Civilization | 32.00% | ~1,961 |
 | Design a Ship | 29.00% | ~1,777 |
-| Commodity Seller | 26.00% | ~1,593 |
+| Commodity Seller | 26.00% | ~1,594 |
 | Prestige Victory! | 14.00% | ~858 |
 | Galactic War | 11.00% | ~674 |
-| Trading Partner | 9.00% | ~551 |
-| Fleet Victory | 9.00% | ~551 |
+| Trading Partner | 9.00% | ~552 |
+| Fleet Victory | 9.00% | ~552 |
 | Win as Terrans | 7.00% | ~429 |
 | Gain an Ally | 6.00% | ~368 |
 | Win with a Custom Faction | 6.00% | ~368 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,127 (Ranked 132)  
+Progressed: 6,129 (Ranked 132)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-12 | 6,113 | 0 |
 | 2023-07-13 | 6,120 | 0 |
 | 2023-07-14 | 6,123 | 0 |
-| 2023-07-15 | 6,127 | 0 |
+| 2023-07-15 | 6,129 | 0 |
 ## Awards
 Max (Diverse Characters): 92  (Ranked 344)  
 Sum: 666 (Ranked 277)  
