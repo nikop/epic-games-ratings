@@ -20,7 +20,7 @@
 | The Marriage Is Off | 9.00% | ~19 |
 | Horrific | 7.00% | ~14 |
 | Hopeful | 6.00% | ~12 |
-| Shady Truth | 4.00% | ~8 |
+| Shady Truth | 5.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 207 (Ranked 267)  
 Completed: 3 (1.45%) (Ranked 88)  

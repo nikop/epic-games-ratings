@@ -29,10 +29,10 @@ Rating: 4.06 (Ranked 900)
 | Milestone collector | 11.00% | ~181 |
 | Scientist | 11.00% | ~181 |
 | Challenger | 10.00% | ~164 |
+| Doing My Part | 10.00% | ~164 |
 | Hunter | 10.00% | ~164 |
 | Relic Of The Past | 10.00% | ~164 |
 | Daily Quest Completionist | 9.00% | ~148 |
-| Doing My Part | 9.00% | ~148 |
 | Four Leaf Clover | 9.00% | ~148 |
 | Frostfire Liberator | 9.00% | ~148 |
 | Mastery | 9.00% | ~148 |
@@ -65,7 +65,7 @@ Rating: 4.06 (Ranked 900)
 | Mythic Power | 1.00% | ~16 |
 | Gear Enchanting | 0.80% | ~13 |
 | Guardian Master | 0.80% | ~13 |
-| Training makes a Pro player | 0.70% | ~12 |
+| Training makes a Pro player | 0.80% | ~13 |
 | Cauldron Liberator | 0.50% | ~8 |
 | Titan Power | 0.50% | ~8 |
 | Transmute | 0.50% | ~8 |

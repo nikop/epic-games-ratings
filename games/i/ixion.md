@@ -52,7 +52,7 @@ Rating: 4.56 (Ranked 457)
 | Gregor Spinoza | 0.90% | ~25 |
 | Better Him Than Me | 0.70% | ~20 |
 | Remember the Dead | 0.60% | ~17 |
-| Work Harder | 0.30% | ~8 |
+| Work Harder | 0.40% | ~11 |
 | Crunch Culture | 0.20% | ~6 |
 | Soylent Green | 0.20% | ~6 |
 | Suburban Perfection | 0.10% | ~3 |

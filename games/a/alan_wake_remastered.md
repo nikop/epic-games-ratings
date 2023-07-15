@@ -6,11 +6,11 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 34.00% | ~19,500 |
+| Follow the Light | 34.00% | ~19,501 |
 | Let There Be Light | 27.00% | ~15,486 |
-| Float Like a Butterfly | 26.00% | ~14,912 |
-| Nordic Walking | 21.00% | ~12,044 |
-| Bright Falls' Finest | 21.00% | ~12,044 |
+| Float Like a Butterfly | 26.00% | ~14,913 |
+| Nordic Walking | 21.00% | ~12,045 |
+| Bright Falls' Finest | 21.00% | ~12,045 |
 | Under a Thin Layer of Skin | 18.00% | ~10,324 |
 | Park Ranger | 15.00% | ~8,603 |
 | Paging Mr. Wake | 15.00% | ~8,603 |
@@ -18,17 +18,17 @@ Number of Ratings: 524  (23.09.2022)
 | Finders Keepers | 14.00% | ~8,030 |
 | Sound and Fury | 13.00% | ~7,456 |
 | Damn Good Cup of Coffee | 13.00% | ~7,456 |
-| Wheels Within Wheels | 12.00% | ~6,882 |
-| They're Heeeeeere! | 12.00% | ~6,882 |
-| Missed by a Mile | 12.00% | ~6,882 |
+| Wheels Within Wheels | 12.00% | ~6,883 |
+| They're Heeeeeere! | 12.00% | ~6,883 |
+| Missed by a Mile | 12.00% | ~6,883 |
 | Heavy Metal | 11.00% | ~6,309 |
 | Iron Horse | 11.00% | ~6,309 |
 | The Six-Gun Scribe | 11.00% | ~6,309 |
 | Collateral Carnage | 11.00% | ~6,309 |
 | Come One, Come All | 11.00% | ~6,309 |
-| Perchance to Dream | 10.00% | ~5,735 |
-| It's Not Just a Typewriter Brand | 10.00% | ~5,735 |
-| Thunder and Lightning | 10.00% | ~5,735 |
+| Perchance to Dream | 10.00% | ~5,736 |
+| It's Not Just a Typewriter Brand | 10.00% | ~5,736 |
+| Thunder and Lightning | 10.00% | ~5,736 |
 | Gatekeeper | 9.00% | ~5,162 |
 | The Lady of the Light | 9.00% | ~5,162 |
 | Two For the Price of One | 9.00% | ~5,162 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~57 |
 | No Punctuation | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,354 (Ranked 82)  
+Progressed: 57,356 (Ranked 82)  
 Completed: 58 (0.10%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 58 (0.10%) (Ranked 183)
 | 2023-07-12 | 57,261 | 57 |
 | 2023-07-13 | 57,298 | 57 |
 | 2023-07-14 | 57,331 | 57 |
-| 2023-07-15 | 57,354 | 58 |
+| 2023-07-15 | 57,356 | 58 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

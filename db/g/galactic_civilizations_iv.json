@@ -4037,9 +4037,9 @@
       "ID": "Buy_Resource",
       "SetID": "4h07amh",
       "Name": "Commodity Trader",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1898
+      "UsersEstimate": 1959
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -4589,8 +4589,8 @@
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-07-12T23:57:59.1877062+00:00",
-  "LastChanged_Achievements": "2023-07-15T10:07:31.2533699+00:00",
+  "LastChanged_Achievements": "2023-07-15T11:06:40.4055059+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:23.5203079+00:00",
-  "LastUpdate_Ratings": "2023-07-15T09:58:21.6886792+00:00",
-  "LastUpdate_Achievements": "2023-07-15T10:07:31.2534686+00:00"
+  "LastUpdate_Ratings": "2023-07-15T10:58:00.426842+00:00",
+  "LastUpdate_Achievements": "2023-07-15T11:06:40.4055992+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -1079,6 +1079,6 @@
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
   "LastChanged_Achievements": "2023-07-15T10:06:41.9096959+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:44.4042174+00:00",
-  "LastUpdate_Ratings": "2023-07-15T10:00:15.9898127+00:00",
+  "LastUpdate_Ratings": "2023-07-15T10:59:47.9456501+00:00",
   "LastUpdate_Achievements": "2023-07-15T10:06:41.9097131+00:00"
 }

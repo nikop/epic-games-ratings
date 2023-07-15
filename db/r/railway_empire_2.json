@@ -124,7 +124,7 @@
   "Tags": [],
   "EOS_Progressed": 1560,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3442,9 +3442,9 @@
       "ID": "A17",
       "SetID": "9b7p7eo",
       "Name": "Facility Manager",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 827
+      "UsersEstimate": 842
     },
     {
       "ID": "A18",
@@ -3506,9 +3506,9 @@
       "ID": "A25",
       "SetID": "9b7p7eo",
       "Name": "United States",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "A26",
@@ -3530,9 +3530,9 @@
       "ID": "A28",
       "SetID": "9b7p7eo",
       "Name": "We brake for nobody",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1045
     },
     {
       "ID": "A29",
@@ -3682,9 +3682,9 @@
       "ID": "A47",
       "SetID": "9b7p7eo",
       "Name": "Travel Company",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 998
+      "UsersEstimate": 1014
     },
     {
       "ID": "A48",
@@ -3755,8 +3755,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-07-12T11:58:21.7947222+00:00",
-  "LastChanged_Achievements": "2023-07-15T10:03:28.2637823+00:00",
+  "LastChanged_Achievements": "2023-07-15T11:02:38.182191+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:48.1822596+00:00",
-  "LastUpdate_Ratings": "2023-07-15T09:59:20.9193877+00:00",
-  "LastUpdate_Achievements": "2023-07-15T10:03:28.2638548+00:00"
+  "LastUpdate_Ratings": "2023-07-15T10:58:56.4441251+00:00",
+  "LastUpdate_Achievements": "2023-07-15T11:02:38.1822603+00:00"
 }

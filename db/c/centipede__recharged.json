@@ -296,9 +296,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15456,
+  "EOS_Progressed": 15457,
   "EOS_Completed": 97,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -6911,6 +6911,11 @@
       "Time": "2023-07-15T09:04:51.3532132+00:00",
       "NumProgressed": 15456,
       "NumCompleted": 97
+    },
+    {
+      "Time": "2023-07-15T11:04:20.3489767+00:00",
+      "NumProgressed": 15457,
+      "NumCompleted": 97
     }
   ],
   "TotalAchievements": 16,
@@ -6938,7 +6943,7 @@
       "Name": "Deadline",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 2318
+      "UsersEstimate": 2319
     },
     {
       "ID": "Dont_Fear_The_Reaper",
@@ -6970,7 +6975,7 @@
       "Name": "Fireworks",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 5100
+      "UsersEstimate": 5101
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -6994,7 +6999,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 6646
+      "UsersEstimate": 6647
     },
     {
       "ID": "Mirrors",
@@ -7049,15 +7054,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 15456,
+      "Progressed": 15457,
       "Completed": 97
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-05-26T21:58:51.5297179+00:00",
-  "LastChanged_Achievements": "2023-07-15T10:04:34.9870449+00:00",
+  "LastChanged_Achievements": "2023-07-15T11:04:20.3489759+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:59.2106647+00:00",
-  "LastUpdate_Ratings": "2023-07-15T10:00:38.4298273+00:00",
-  "LastUpdate_Achievements": "2023-07-15T10:04:34.9871029+00:00"
+  "LastUpdate_Ratings": "2023-07-15T11:00:11.3589434+00:00",
+  "LastUpdate_Achievements": "2023-07-15T11:04:20.3490317+00:00"
 }

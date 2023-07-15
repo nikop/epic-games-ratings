@@ -6,8 +6,8 @@
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 165,
-  "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_Completed": 125,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -243,11 +243,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1834,
+  "EOS_Progressed": 1835,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.55,
+  "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:46.0038697+00:00",
@@ -1558,6 +1558,11 @@
       "Time": "2023-07-12T13:18:04.3174004+00:00",
       "NumProgressed": 1834,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-15T11:02:29.4474028+00:00",
+      "NumProgressed": 1835,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -1577,7 +1582,7 @@
       "Name": "Jailbreak",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "ACHV_03",
@@ -1601,7 +1606,7 @@
       "Name": "Studied The Blade",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "ACHV_06",
@@ -1617,7 +1622,7 @@
       "Name": "Court Martial",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "ACHV_08",
@@ -1633,7 +1638,7 @@
       "Name": "Bad Dog",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "ACHV_10",
@@ -1729,7 +1734,7 @@
       "Name": "Stimulating The Local Economy",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ACHV_22",
@@ -1769,7 +1774,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1467
+      "UsersEstimate": 1468
     },
     {
       "ID": "ACHV_27",
@@ -1793,7 +1798,7 @@
       "Name": "Triplets",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ACHV_30",
@@ -1809,7 +1814,7 @@
       "Name": "Where It All Began",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "ACHV_32",
@@ -1841,7 +1846,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "ACHV_36",
@@ -1865,7 +1870,7 @@
       "Name": "Risk Tolerant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "ACHV_39",
@@ -1873,7 +1878,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1413
     },
     {
       "ID": "ACHV_40",
@@ -1889,7 +1894,7 @@
       "Name": "Suited and Booted",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "ACHV_42",
@@ -1897,7 +1902,7 @@
       "Name": "Sorry, Didn\u0027t See You There",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "ACHV_43",
@@ -1905,7 +1910,7 @@
       "Name": "What A Catchy Song",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "ACHV_44",
@@ -1921,7 +1926,7 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "ACHV_46",
@@ -2024,7 +2029,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1834,
+      "Progressed": 1835,
       "Completed": 10
     }
   ],
@@ -2032,8 +2037,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-07-03T18:02:00.1101593+00:00",
-  "LastChanged_Achievements": "2023-07-15T10:03:16.5292254+00:00",
+  "LastChanged_Achievements": "2023-07-15T11:02:29.447402+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:33.6967662+00:00",
-  "LastUpdate_Ratings": "2023-07-15T10:02:43.0267097+00:00",
-  "LastUpdate_Achievements": "2023-07-15T10:03:16.5292986+00:00"
+  "LastUpdate_Ratings": "2023-07-15T11:02:01.1586779+00:00",
+  "LastUpdate_Achievements": "2023-07-15T11:02:29.4474637+00:00"
 }

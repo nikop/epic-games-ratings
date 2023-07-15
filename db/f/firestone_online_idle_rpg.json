@@ -4271,9 +4271,9 @@
       "ID": "doingmypart",
       "SetID": "3nl4bcg",
       "Name": "Doing My Part",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 164
     },
     {
       "ID": "dragonclicker",
@@ -4703,9 +4703,9 @@
       "ID": "trainingmakesaproplayer",
       "SetID": "3nl4bcg",
       "Name": "Training makes a Pro player",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "transmute",
@@ -4784,8 +4784,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-07-15T03:25:49.9041545+00:00",
-  "LastChanged_Achievements": "2023-07-15T10:08:31.231832+00:00",
+  "LastChanged_Achievements": "2023-07-15T11:07:32.0377169+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:38.4078532+00:00",
-  "LastUpdate_Ratings": "2023-07-15T09:59:14.0340585+00:00",
-  "LastUpdate_Achievements": "2023-07-15T10:08:31.2319405+00:00"
+  "LastUpdate_Ratings": "2023-07-15T10:58:46.3765539+00:00",
+  "LastUpdate_Achievements": "2023-07-15T11:07:32.0378197+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 233,
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
@@ -1187,9 +1187,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 123166,
+  "EOS_Progressed": 123168,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 321,
+  "EOS_NewPlayers": 322,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -9447,6 +9447,11 @@
       "Time": "2023-07-15T10:03:19.5975859+00:00",
       "NumProgressed": 123166,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-07-15T11:02:31.8417767+00:00",
+      "NumProgressed": 123168,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -9538,7 +9543,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 34486
+      "UsersEstimate": 34487
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -9570,7 +9575,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 24633
+      "UsersEstimate": 24634
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -9674,7 +9679,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 17243
+      "UsersEstimate": 17244
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -9714,7 +9719,7 @@
       "Name": "Modus: Mullen",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "ACH_NETWORTHY",
@@ -9730,7 +9735,7 @@
       "Name": "Palerunner",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "ACH_PINBALL",
@@ -9762,7 +9767,7 @@
       "Name": "Real Musor",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1108
+      "UsersEstimate": 1109
     },
     {
       "ID": "ACH_WHATBODY",
@@ -9777,15 +9782,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 123166,
+      "Progressed": 123168,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-07-14T02:26:11.120195+00:00",
-  "LastChanged_Achievements": "2023-07-15T10:03:19.5975853+00:00",
+  "LastChanged_Achievements": "2023-07-15T11:02:31.841776+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:06.3105356+00:00",
-  "LastUpdate_Ratings": "2023-07-15T10:00:47.1049646+00:00",
-  "LastUpdate_Achievements": "2023-07-15T10:03:19.5976773+00:00"
+  "LastUpdate_Ratings": "2023-07-15T11:00:18.3498449+00:00",
+  "LastUpdate_Achievements": "2023-07-15T11:02:31.8418612+00:00"
 }

@@ -6,13 +6,13 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~34,486 |
+| Goodest Of The Good Cops | 28.00% | ~34,487 |
 | Biggest Communism Builder | 24.00% | ~29,560 |
-| The World's Most Laughable Centrist | 20.00% | ~24,633 |
+| The World's Most Laughable Centrist | 20.00% | ~24,634 |
 | Il Coppo Del'Arte! | 18.00% | ~22,170 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,707 |
 | Hyperstellar Law Official | 15.00% | ~18,475 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~17,243 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~17,244 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~16,012 |
 | Gurdi-Ball Is Lit | 13.00% | ~16,012 |
 | Truly Rabid *Traditionalist* | 11.00% | ~13,548 |
@@ -30,14 +30,14 @@ Number of Ratings: 1,611  (23.09.2022)
 | Wheel of Pleasure and Light | 2.00% | ~2,463 |
 | Massive Torque Dork | 1.00% | ~1,232 |
 | Avowed Inframaterialist | 1.00% | ~1,232 |
-| Real Musor | 0.90% | ~1,108 |
+| Real Musor | 0.90% | ~1,109 |
 | Baddest Brow in Town | 0.80% | ~985 |
 | Committee of la Responsabilité | 0.80% | ~985 |
 | Venture into the HARDCORE | 0.80% | ~985 |
 | Networthy Individual | 0.70% | ~862 |
 | Leopard Mindset | 0.60% | ~739 |
-| Modus: Mullen | 0.30% | ~369 |
-| Palerunner | 0.30% | ~369 |
+| Modus: Mullen | 0.30% | ~370 |
+| Palerunner | 0.30% | ~370 |
 | Cause a ****storm | 0.20% | ~246 |
 | True Detective | 0.20% | ~246 |
 | The Icebreaker | 0.20% | ~246 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~123 |
 | What body? | 0.10% | ~123 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 123,166 (Ranked 63)  
+Progressed: 123,168 (Ranked 63)  
 Completed: 27 (0.02%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 27 (0.02%) (Ranked 214)
 | 2023-07-12 | 123,057 | 27 |
 | 2023-07-13 | 123,098 | 27 |
 | 2023-07-14 | 123,147 | 27 |
-| 2023-07-15 | 123,166 | 27 |
+| 2023-07-15 | 123,168 | 27 |
 ## Awards
 Max (Character Customization): 703  (Ranked 162)  
 Sum: 1,064 (Ranked 233)  

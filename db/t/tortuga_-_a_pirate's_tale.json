@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -230,9 +230,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15856,
+  "EOS_Progressed": 15857,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2965,6 +2965,11 @@
       "Time": "2023-07-15T10:04:34.2559294+00:00",
       "NumProgressed": 15856,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-15T11:04:19.8416289+00:00",
+      "NumProgressed": 15857,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -2976,7 +2981,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 15063
+      "UsersEstimate": 15064
     },
     {
       "ID": "ACH001",
@@ -2984,7 +2989,7 @@
       "Name": "Personal Matter",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 13795
+      "UsersEstimate": 13796
     },
     {
       "ID": "ACH0010",
@@ -3008,7 +3013,7 @@
       "Name": "Pimp My Glide",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 7452
+      "UsersEstimate": 7453
     },
     {
       "ID": "ACH0013",
@@ -3016,7 +3021,7 @@
       "Name": "Make It Rain",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3805
+      "UsersEstimate": 3806
     },
     {
       "ID": "ACH0014",
@@ -3056,7 +3061,7 @@
       "Name": "Curse of the Seven Seas",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 3488
+      "UsersEstimate": 3489
     },
     {
       "ID": "ACH0019",
@@ -3072,7 +3077,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 11416
+      "UsersEstimate": 11417
     },
     {
       "ID": "ACH0020",
@@ -3104,7 +3109,7 @@
       "Name": "I\u0027m Somewhat of a Colonial Force Myself",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "ACH0024",
@@ -3136,7 +3141,7 @@
       "Name": "No Half Measures",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 13953
+      "UsersEstimate": 13954
     },
     {
       "ID": "ACH005",
@@ -3183,7 +3188,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 15856,
+      "Progressed": 15857,
       "Completed": 0
     }
   ],
@@ -3191,8 +3196,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-07-15T00:01:25.4338441+00:00",
-  "LastChanged_Achievements": "2023-07-15T10:04:34.2559289+00:00",
+  "LastChanged_Achievements": "2023-07-15T11:04:19.8416282+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:15.8847438+00:00",
-  "LastUpdate_Ratings": "2023-07-15T10:02:21.5478536+00:00",
-  "LastUpdate_Achievements": "2023-07-15T10:04:34.2559686+00:00"
+  "LastUpdate_Ratings": "2023-07-15T11:01:38.2750195+00:00",
+  "LastUpdate_Achievements": "2023-07-15T11:04:19.8416648+00:00"
 }

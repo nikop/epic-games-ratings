@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1059,
+  "EOS_Progressed": 1060,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -580,6 +580,11 @@
       "Time": "2023-07-15T10:03:12.2349454+00:00",
       "NumProgressed": 1059,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-15T11:02:26.2309209+00:00",
+      "NumProgressed": 1060,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -663,7 +668,7 @@
       "Name": "Ride in the rising sun",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ALLTRACKSGENESIS",
@@ -925,9 +930,9 @@
       "ID": "ONETROPHY",
       "SetID": "3dh70f3",
       "Name": "Put it on a shelf",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 191
     },
     {
       "ID": "OVERTAKE100HUMANS",
@@ -1006,7 +1011,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1059,
+      "Progressed": 1060,
       "Completed": 0
     }
   ],
@@ -1014,8 +1019,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-07-15T10:03:12.2349448+00:00",
+  "LastChanged_Achievements": "2023-07-15T11:02:26.2309204+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:52.2995402+00:00",
-  "LastUpdate_Ratings": "2023-07-15T09:59:24.0580634+00:00",
-  "LastUpdate_Achievements": "2023-07-15T10:03:12.2349977+00:00"
+  "LastUpdate_Ratings": "2023-07-15T10:59:01.2471251+00:00",
+  "LastUpdate_Achievements": "2023-07-15T11:02:26.2309717+00:00"
 }

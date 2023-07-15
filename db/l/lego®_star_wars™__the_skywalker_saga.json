@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 116,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -2708,9 +2708,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 49881,
+  "EOS_Progressed": 49882,
   "EOS_Completed": 208,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -8948,6 +8948,11 @@
       "Time": "2023-07-15T10:04:21.9471625+00:00",
       "NumProgressed": 49881,
       "NumCompleted": 208
+    },
+    {
+      "Time": "2023-07-15T11:04:10.3029412+00:00",
+      "NumProgressed": 49882,
+      "NumCompleted": 208
     }
   ],
   "TotalAchievements": 45,
@@ -8983,7 +8988,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 39406
+      "UsersEstimate": 39407
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -9079,7 +9084,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 22945
+      "UsersEstimate": 22946
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -9087,7 +9092,7 @@
       "Name": "Revenge of the Sith",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 19952
+      "UsersEstimate": 19953
     },
     {
       "ID": "COMPLETE_EPISODE_4",
@@ -9151,7 +9156,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 28432
+      "UsersEstimate": 28433
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -9183,7 +9188,7 @@
       "Name": "\u0027\u0027It\u0027s true... all of it\u0027\u0027",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 9477
+      "UsersEstimate": 9478
     },
     {
       "ID": "CREATE_25_REBEL_DISGUISES",
@@ -9199,7 +9204,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 28931
+      "UsersEstimate": 28932
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -9223,7 +9228,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 48385
+      "UsersEstimate": 48386
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -9239,7 +9244,7 @@
       "Name": "\u0027\u0027Raw, untamed power\u0027\u0027",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 3990
+      "UsersEstimate": 3991
     },
     {
       "ID": "JEDI_MIND_TRICKS_CANTINA",
@@ -9311,22 +9316,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 35914
+      "UsersEstimate": 35915
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 49881,
+      "Progressed": 49882,
       "Completed": 208
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-07-14T19:02:53.4542849+00:00",
-  "LastChanged_Achievements": "2023-07-15T10:04:21.947162+00:00",
+  "LastChanged_Achievements": "2023-07-15T11:04:10.3029405+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:41.0824625+00:00",
-  "LastUpdate_Ratings": "2023-07-15T10:02:54.695303+00:00",
-  "LastUpdate_Achievements": "2023-07-15T10:04:21.947246+00:00"
+  "LastUpdate_Ratings": "2023-07-15T11:02:12.1713079+00:00",
+  "LastUpdate_Achievements": "2023-07-15T11:04:10.3030167+00:00"
 }

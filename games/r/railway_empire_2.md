@@ -11,13 +11,13 @@ Rating: 4.47 (Ranked 599)
 | From X to Y | 71.00% | ~1,108 |
 | Way of Iron | 70.00% | ~1,092 |
 | Mystery Tour | 68.00% | ~1,061 |
-| We brake for nobody | 66.00% | ~1,030 |
+| We brake for nobody | 67.00% | ~1,045 |
 | Brainstorm | 65.00% | ~1,014 |
+| Travel Company | 65.00% | ~1,014 |
 | Mind the Gap | 64.00% | ~998 |
-| Travel Company | 64.00% | ~998 |
 | All around the World | 62.00% | ~967 |
 | Right through the middle | 56.00% | ~874 |
-| Facility Manager | 53.00% | ~827 |
+| Facility Manager | 54.00% | ~842 |
 | Poor Devil | 53.00% | ~827 |
 | Producer | 50.00% | ~780 |
 | Apprentice | 42.00% | ~655 |
@@ -58,7 +58,7 @@ Rating: 4.47 (Ranked 599)
 | Accurate | 2.00% | ~31 |
 | Together we stand | 0.50% | ~8 |
 | European Union | 0.40% | ~6 |
-| United States | 0.30% | ~5 |
+| United States | 0.40% | ~6 |
 | Three Cheers for Progress | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,560 (Ranked 171)  
