@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -489,7 +489,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13921,
+  "EOS_Progressed": 13922,
   "EOS_Completed": 105,
   "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 1,
@@ -6154,6 +6154,11 @@
       "Time": "2023-07-15T20:01:18.5613209+00:00",
       "NumProgressed": 13921,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2023-07-15T21:03:19.6541749+00:00",
+      "NumProgressed": 13922,
+      "NumCompleted": 105
     }
   ],
   "TotalAchievements": 41,
@@ -6469,7 +6474,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "tpote_achievement_8",
@@ -6485,22 +6490,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4872
+      "UsersEstimate": 4873
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13921,
+      "Progressed": 13922,
       "Completed": 105
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-15T20:01:18.5613205+00:00",
+  "LastChanged_Achievements": "2023-07-15T21:03:19.6541745+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:01.688698+00:00",
-  "LastUpdate_Ratings": "2023-07-15T20:00:27.4882981+00:00",
-  "LastUpdate_Achievements": "2023-07-15T20:01:18.5613957+00:00"
+  "LastUpdate_Ratings": "2023-07-15T21:00:23.6792123+00:00",
+  "LastUpdate_Achievements": "2023-07-15T21:03:19.6542368+00:00"
 }

@@ -5,11 +5,11 @@ Rating: 4.77 (Ranked 108)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 12.00% | ~34,512 |
-| First Class Student | 10.00% | ~28,760 |
-| Troll with the Punches | 10.00% | ~28,760 |
-| A Keen Sense of Spell | 9.00% | ~25,884 |
-| That's a Keeper | 9.00% | ~25,884 |
+| The Sort Who Makes an Entrance | 12.00% | ~34,513 |
+| First Class Student | 10.00% | ~28,761 |
+| Troll with the Punches | 10.00% | ~28,761 |
+| A Keen Sense of Spell | 9.00% | ~25,885 |
+| That's a Keeper | 9.00% | ~25,885 |
 | Grappling with a Graphorn | 8.00% | ~23,008 |
 | The One Who Mastered Memories | 8.00% | ~23,008 |
 | The Hallowed Hero | 8.00% | ~23,008 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.50% | ~1,438 |
 | Collector's Edition | 0.20% | ~575 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 287,599 (Ranked 41)  
+Progressed: 287,606 (Ranked 41)  
 Completed: 428 (0.15%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,17 +137,17 @@ Completed: 428 (0.15%) (Ranked 172)
 | 2023-07-12 | 287,108 | 423 |
 | 2023-07-13 | 287,362 | 425 |
 | 2023-07-14 | 287,497 | 426 |
-| 2023-07-15 | 287,599 | 428 |
+| 2023-07-15 | 287,606 | 428 |
 ## Awards
 Max (Character Customization): 20,971  (Ranked 17)  
-Sum: 39,230 (Ranked 30)  
+Sum: 39,235 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 20,971 |
 | This game has Great Boss Battles | 10,055 |
 | This game is Great for Beginners | 914 |
-| This game is Extremely Fun | 887 |
+| This game is Extremely Fun | 892 |
 | This game is Relaxing | 883 |
 | This game has Diverse Characters | 877 |
 | This game has Amazing Storytelling | 876 |
@@ -272,4 +272,4 @@ Diff (max vs sum): -13
 | 2023-07-12 | 4.77 | 20,913 | 39,043 |
 | 2023-07-13 | 4.77 | 20,943 | 39,111 |
 | 2023-07-14 | 4.77 | 20,971 | 39,184 |
-| 2023-07-15 | 4.77 | 20,971 | 39,230 |
+| 2023-07-15 | 4.77 | 20,971 | 39,235 |

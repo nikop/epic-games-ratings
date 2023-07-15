@@ -4,7 +4,7 @@
   "ProductSlug": "fire-44c606",
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 35,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
@@ -538,9 +538,9 @@
       "ID": "Level_completed_010_010",
       "SetID": "6od1ndi",
       "Name": "AKRE!",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 60,
-      "UsersEstimate": 65
+      "UsersEstimate": 68
     },
     {
       "ID": "Monkey_IQ_test_passed_in_004",
@@ -587,8 +587,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-07-15T19:02:55.2022846+00:00",
+  "LastChanged_Achievements": "2023-07-15T21:00:54.8697083+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:53.8124786+00:00",
-  "LastUpdate_Ratings": "2023-07-15T20:00:20.9492462+00:00",
-  "LastUpdate_Achievements": "2023-07-15T19:02:55.2023052+00:00"
+  "LastUpdate_Ratings": "2023-07-15T21:00:17.7256544+00:00",
+  "LastUpdate_Achievements": "2023-07-15T21:00:54.8724895+00:00"
 }

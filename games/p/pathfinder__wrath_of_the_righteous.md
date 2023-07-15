@@ -12,7 +12,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Mythic Choices | 12.00% | ~1,240 |
 | Defender's Heart | 12.00% | ~1,240 |
 | Banner over the Citadel | 11.00% | ~1,137 |
-| Queen's Gratitude | 10.00% | ~1,033 |
+| Queen's Gratitude | 10.00% | ~1,034 |
 | Fifth Crusade | 6.00% | ~620 |
 | Embrace of the Abyss | 5.00% | ~517 |
 | Path of the Angel | 5.00% | ~517 |
@@ -30,7 +30,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Hey, I Know You! | 3.00% | ~310 |
 | Next-Door Play | 3.00% | ~310 |
 | Get the Toad | 3.00% | ~310 |
-| Beware Still Water | 3.00% | ~273 |
+| Beware Still Water | 3.00% | ~274 |
 | Path of the Trickster | 2.00% | ~207 |
 | Path of the Lich | 2.00% | ~207 |
 | Heroic Victory | 2.00% | ~207 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,333 (Ranked 117)  
+Progressed: 10,337 (Ranked 117)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,14 +209,14 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-12 | 10,279 | 0 |
 | 2023-07-13 | 10,297 | 0 |
 | 2023-07-14 | 10,312 | 0 |
-| 2023-07-15 | 10,333 | 0 |
+| 2023-07-15 | 10,337 | 0 |
 ## Awards
-Max (Character Customization): 1,677  (Ranked 117)  
-Sum: 6,814 (Ranked 112)  
+Max (Character Customization): 1,679  (Ranked 117)  
+Sum: 6,816 (Ranked 112)  
 Diff (max vs sum): 5  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 1,677 |
+| This game has Inclusive Character Customization | 1,679 |
 | This game is Extremely Fun | 642 |
 | This game is Highly Recommended | 624 |
 | This game has Amazing Characters | 622 |
@@ -396,4 +396,4 @@ Diff (max vs sum): 5
 | 2023-07-12 | 4.76 | - | 1,677 | 6,810 |
 | 2023-07-13 | 4.76 | - | 1,677 | 6,812 |
 | 2023-07-14 | 4.76 | - | 1,677 | 6,813 |
-| 2023-07-15 | 4.76 | - | 1,677 | 6,814 |
+| 2023-07-15 | 4.76 | - | 1,679 | 6,816 |

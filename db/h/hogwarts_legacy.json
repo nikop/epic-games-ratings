@@ -4942,10 +4942,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 39230,
       "NumberOfAwardsMax": 20971
+    },
+    {
+      "Time": "2023-07-15T20:58:04.5727643+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 39235,
+      "NumberOfAwardsMax": 20971
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 39230,
+  "NumberOfAwards": 39235,
   "NumberOfAwardsMax": 20971,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4983,7 +4989,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 887
+      "Count": 892
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5022,9 +5028,9 @@
       "Count": 554
     }
   ],
-  "EOS_Progressed": 287599,
+  "EOS_Progressed": 287606,
   "EOS_Completed": 428,
-  "EOS_NewPlayers": 1658,
+  "EOS_NewPlayers": 1644,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -14267,6 +14273,11 @@
       "Time": "2023-07-15T20:03:57.2462688+00:00",
       "NumProgressed": 287599,
       "NumCompleted": 428
+    },
+    {
+      "Time": "2023-07-15T21:04:35.1964877+00:00",
+      "NumProgressed": 287606,
+      "NumCompleted": 428
     }
   ],
   "TotalAchievements": 45,
@@ -14278,7 +14289,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34512
+      "UsersEstimate": 34513
     },
     {
       "ID": "PFA_10",
@@ -14398,7 +14409,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 25884
+      "UsersEstimate": 25885
     },
     {
       "ID": "PFA_24",
@@ -14606,7 +14617,7 @@
       "Name": "First Class Student",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 28760
+      "UsersEstimate": 28761
     },
     {
       "ID": "PFA_7",
@@ -14614,7 +14625,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 28760
+      "UsersEstimate": 28761
     },
     {
       "ID": "PFA_8",
@@ -14622,7 +14633,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 25884
+      "UsersEstimate": 25885
     },
     {
       "ID": "PFA_9",
@@ -14637,16 +14648,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 287599,
+      "Progressed": 287606,
       "Completed": 428
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-07-15T19:57:50.5633939+00:00",
-  "LastChanged_Achievements": "2023-07-15T20:03:57.2462685+00:00",
+  "LastChanged": "2023-07-15T20:58:04.5727641+00:00",
+  "LastChanged_Achievements": "2023-07-15T21:04:35.1964873+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:19.3801839+00:00",
-  "LastUpdate_Ratings": "2023-07-15T19:57:50.5633948+00:00",
-  "LastUpdate_Achievements": "2023-07-15T20:03:57.2463677+00:00"
+  "LastUpdate_Ratings": "2023-07-15T20:58:04.5727647+00:00",
+  "LastUpdate_Achievements": "2023-07-15T21:04:35.1965909+00:00"
 }

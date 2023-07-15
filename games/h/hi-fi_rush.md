@@ -77,8 +77,8 @@ Rating: 4.87 (Ranked 24)
 | With our powers combined…and to the rhythm… | 0.00% | ~0 |
 | OK, I THINK I know what I'm doing now | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,448 (Ranked 146)  
-Completed: 5 (0.15%) (Ranked 172)  
+Progressed: 3,449 (Ranked 146)  
+Completed: 5 (0.14%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -162,7 +162,7 @@ Completed: 5 (0.15%) (Ranked 172)
 | 2023-07-12 | 3,439 | 5 |
 | 2023-07-13 | 3,441 | 5 |
 | 2023-07-14 | 3,446 | 5 |
-| 2023-07-15 | 3,448 | 5 |
+| 2023-07-15 | 3,449 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,46 +6,46 @@ Number of Ratings: 180  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First line | 77.00% | ~1,097 |
-| First cargo item on board | 71.00% | ~1,012 |
-| First cargo item waiting | 71.00% | ~1,012 |
-| First bus stop | 70.00% | ~997 |
-| First passenger on board | 67.00% | ~955 |
-| First passenger waiting | 67.00% | ~955 |
-| First bus arrived | 66.00% | ~940 |
-| First train station | 64.00% | ~912 |
-| First steam train arrived | 60.00% | ~855 |
-| First industry upgraded | 56.00% | ~798 |
-| Transport millionaire | 55.00% | ~784 |
-| Cargo hub | 54.00% | ~770 |
-| Cadet | 53.00% | ~755 |
-| Transport master | 52.00% | ~741 |
-| Sculpturer | 50.00% | ~712 |
-| Settled down | 48.00% | ~684 |
-| First electric train arrived | 47.00% | ~670 |
+| First line | 77.00% | ~1,099 |
+| First cargo item on board | 71.00% | ~1,013 |
+| First cargo item waiting | 71.00% | ~1,013 |
+| First bus stop | 70.00% | ~999 |
+| First passenger on board | 67.00% | ~956 |
+| First passenger waiting | 67.00% | ~956 |
+| First bus arrived | 66.00% | ~942 |
+| First train station | 64.00% | ~913 |
+| First steam train arrived | 60.00% | ~856 |
+| First industry upgraded | 56.00% | ~799 |
+| Transport millionaire | 55.00% | ~785 |
+| Cargo hub | 54.00% | ~771 |
+| Transport master | 53.00% | ~756 |
+| Cadet | 53.00% | ~756 |
+| Sculpturer | 50.00% | ~714 |
+| Settled down | 48.00% | ~685 |
+| First electric train arrived | 47.00% | ~671 |
 | First ship arrived | 46.00% | ~656 |
 | Now what? | 46.00% | ~656 |
-| High speed | 43.00% | ~613 |
-| First aircraft arrived | 41.00% | ~584 |
-| Exemplary student | 41.00% | ~584 |
-| Transport shark | 40.00% | ~570 |
+| High speed | 43.00% | ~614 |
+| First aircraft arrived | 41.00% | ~585 |
+| Exemplary student | 41.00% | ~585 |
+| Transport shark | 40.00% | ~571 |
 | Mass production | 35.00% | ~499 |
-| Aircraft entrepreneur | 33.00% | ~470 |
+| Aircraft entrepreneur | 33.00% | ~471 |
 | Crowd in a train | 31.00% | ~442 |
 | The future is now, old man | 31.00% | ~442 |
 | Not in my backyard | 30.00% | ~428 |
-| The king of the sea | 29.00% | ~413 |
-| City | 28.00% | ~399 |
+| The king of the sea | 29.00% | ~414 |
+| City | 28.00% | ~400 |
 | Transport tycoon | 24.00% | ~342 |
 | Climate change | 23.00% | ~328 |
 | Old timer | 22.00% | ~314 |
 | The ugly smell of success | 22.00% | ~314 |
-| Heavily loaded | 21.00% | ~299 |
+| Heavily loaded | 21.00% | ~300 |
 | Bob Ross | 16.00% | ~228 |
 | Campaign expert | 11.00% | ~157 |
 | Truck Fever | 11.00% | ~157 |
-| No free seats | 10.00% | ~142 |
-| Penny pincher | 10.00% | ~142 |
+| No free seats | 10.00% | ~143 |
+| Penny pincher | 10.00% | ~143 |
 | Back to the future | 9.00% | ~128 |
 | Transport belt | 9.00% | ~128 |
 | Campaign shark | 6.00% | ~86 |
@@ -55,12 +55,12 @@ Number of Ratings: 180  (23.09.2022)
 | Transport corporation | 4.00% | ~57 |
 | Cannot get enough | 3.00% | ~43 |
 | Industrialist | 3.00% | ~43 |
-| Transport tycoon (Hard mode) | 2.00% | ~28 |
-| No country for old trains | 2.00% | ~28 |
-| Charles Alton Ellis | 2.00% | ~28 |
-| Campaign tycoon | 2.00% | ~28 |
-| Metropolis | 2.00% | ~28 |
-| Speed of light | 2.00% | ~28 |
+| Transport tycoon (Hard mode) | 2.00% | ~29 |
+| No country for old trains | 2.00% | ~29 |
+| Charles Alton Ellis | 2.00% | ~29 |
+| Campaign tycoon | 2.00% | ~29 |
+| Metropolis | 2.00% | ~29 |
+| Speed of light | 2.00% | ~29 |
 | Trans-Siberian Railway | 1.00% | ~14 |
 | Train Fever | 1.00% | ~14 |
 | Louis Favre | 0.80% | ~11 |
@@ -68,7 +68,7 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.10% | ~1 |
 | Museum line | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,425 (Ranked 173)  
+Progressed: 1,427 (Ranked 173)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-12 | 1,412 | 0 |
 | 2023-07-13 | 1,413 | 0 |
 | 2023-07-14 | 1,419 | 0 |
-| 2023-07-15 | 1,425 | 0 |
+| 2023-07-15 | 1,427 | 0 |
 ## Awards
 Max (Highly Recommended): 40  (Ranked 420)  
 Sum: 274 (Ranked 340)  

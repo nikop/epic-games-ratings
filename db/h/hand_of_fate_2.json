@@ -862,7 +862,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 659338,
+  "EOS_Progressed": 659339,
   "EOS_Completed": 165,
   "EOS_NewPlayers": 317,
   "EOS_NewCompleters": 0,
@@ -8962,6 +8962,11 @@
       "Time": "2023-07-15T20:03:16.5835578+00:00",
       "NumProgressed": 659338,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-07-15T21:03:45.280089+00:00",
+      "NumProgressed": 659339,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -8973,7 +8978,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 474723
+      "UsersEstimate": 474724
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -8981,7 +8986,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 382416
+      "UsersEstimate": 382417
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -9125,7 +9130,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 112087
+      "UsersEstimate": 112088
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -9237,7 +9242,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 164834
+      "UsersEstimate": 164835
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -9253,7 +9258,7 @@
       "Name": "Swordsman",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 59340
+      "UsersEstimate": 59341
     },
     {
       "ID": "Achievement_37_Champion",
@@ -9356,15 +9361,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 659338,
+      "Progressed": 659339,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-07-06T22:58:14.2890682+00:00",
-  "LastChanged_Achievements": "2023-07-15T20:03:16.5835574+00:00",
+  "LastChanged_Achievements": "2023-07-15T21:03:45.2800887+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:05.0393547+00:00",
-  "LastUpdate_Ratings": "2023-07-15T19:58:03.928049+00:00",
-  "LastUpdate_Achievements": "2023-07-15T20:03:16.5836551+00:00"
+  "LastUpdate_Ratings": "2023-07-15T20:58:16.7755238+00:00",
+  "LastUpdate_Achievements": "2023-07-15T21:03:45.2802323+00:00"
 }

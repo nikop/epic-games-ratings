@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sorry, kiddo | 95.00% | ~187 |
-| And away we go! | 88.00% | ~173 |
+| Sorry, kiddo | 96.00% | ~189 |
+| And away we go! | 89.00% | ~175 |
 | Job one. DONE! | 60.00% | ~118 |
 | You are Carol Vorderman | 57.00% | ~112 |
 | Toby foolery | 51.00% | ~100 |
-| Don't fear the baldness | 39.00% | ~77 |
-| Instinct | 37.00% | ~73 |
+| Don't fear the baldness | 40.00% | ~79 |
+| Instinct | 38.00% | ~75 |
 | Blow | 34.00% | ~67 |
 | I bless the rain down in London | 31.00% | ~61 |
 | Just like me | 31.00% | ~61 |

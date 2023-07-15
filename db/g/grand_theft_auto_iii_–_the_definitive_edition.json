@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -382,7 +382,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6980,
+  "EOS_Progressed": 6981,
   "EOS_Completed": 41,
   "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 1,
@@ -5597,6 +5597,11 @@
       "Time": "2023-07-15T20:04:44.7675634+00:00",
       "NumProgressed": 6980,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-07-15T21:05:12.97147+00:00",
+      "NumProgressed": 6981,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 29,
@@ -5608,7 +5613,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5793
+      "UsersEstimate": 5794
     },
     {
       "ID": "ACH02",
@@ -5616,7 +5621,7 @@
       "Name": "Without a Scratch",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 2303
+      "UsersEstimate": 2304
     },
     {
       "ID": "ACH03",
@@ -5648,7 +5653,7 @@
       "Name": "Street Sweeper",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     },
     {
       "ID": "ACH07",
@@ -5680,7 +5685,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 1954
+      "UsersEstimate": 1955
     },
     {
       "ID": "ACH11",
@@ -5736,7 +5741,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 907
+      "UsersEstimate": 908
     },
     {
       "ID": "ACH18",
@@ -5839,7 +5844,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6980,
+      "Progressed": 6981,
       "Completed": 41
     }
   ],
@@ -5847,8 +5852,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-07-14T20:58:27.169757+00:00",
-  "LastChanged_Achievements": "2023-07-15T20:04:44.7675631+00:00",
+  "LastChanged_Achievements": "2023-07-15T21:05:12.9714696+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:27.5857336+00:00",
-  "LastUpdate_Ratings": "2023-07-15T19:58:19.6295322+00:00",
-  "LastUpdate_Achievements": "2023-07-15T20:04:44.7676162+00:00"
+  "LastUpdate_Ratings": "2023-07-15T20:58:31.0198041+00:00",
+  "LastUpdate_Achievements": "2023-07-15T21:05:12.9715683+00:00"
 }

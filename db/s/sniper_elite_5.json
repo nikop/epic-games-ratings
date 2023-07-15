@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -5430,9 +5430,9 @@
       "ID": "REWARD_66_VEHICULAR_OMNICIDE",
       "SetID": "bm6el81",
       "Name": "Road Rage",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 20
     },
     {
       "ID": "REWARD_67_NO_ASSISTANCE",
@@ -5661,8 +5661,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-13T13:19:01.0264879+00:00",
-  "LastChanged_Achievements": "2023-07-15T20:03:30.5567135+00:00",
+  "LastChanged_Achievements": "2023-07-15T21:03:59.1573514+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:52.6032381+00:00",
-  "LastUpdate_Ratings": "2023-07-15T19:57:08.1163598+00:00",
-  "LastUpdate_Achievements": "2023-07-15T20:03:30.5568133+00:00"
+  "LastUpdate_Ratings": "2023-07-15T20:57:21.3288348+00:00",
+  "LastUpdate_Achievements": "2023-07-15T21:03:59.1574572+00:00"
 }

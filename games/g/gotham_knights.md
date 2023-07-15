@@ -5,7 +5,7 @@ Rating: 4.18 (Ranked 855)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 6.00% | ~4,023 |
+| First Step Into the Knight | 6.00% | ~4,024 |
 | To the Victor Go the Spoils | 4.00% | ~2,682 |
 | Har, Har, Har, Very Funny | 4.00% | ~2,682 |
 | Knighthood | 4.00% | ~2,682 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 855)
 | History Major | 0.10% | ~67 |
 | Confronting Your Demon | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,058 (Ranked 77)  
+Progressed: 67,060 (Ranked 77)  
 Completed: 102 (0.15%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,17 +153,17 @@ Completed: 102 (0.15%) (Ranked 172)
 | 2023-07-12 | 66,929 | 102 |
 | 2023-07-13 | 66,991 | 102 |
 | 2023-07-14 | 67,031 | 102 |
-| 2023-07-15 | 67,058 | 102 |
+| 2023-07-15 | 67,060 | 102 |
 ## Awards
 Max (Great Boss Battles): 2,447  (Ranked 101)  
-Sum: 4,050 (Ranked 138)  
+Sum: 4,051 (Ranked 138)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,447 |
 | This game has Quickly Understood Controls | 207 |
+| This game is Relaxing | 207 |
 | This game is Extremely Fun | 207 |
-| This game is Relaxing | 206 |
 | This game has Amazing Characters | 200 |
 | This game has Diverse Characters | 199 |
 | This game is Highly Recommended | 196 |
@@ -317,4 +317,4 @@ Diff (max vs sum): -37
 | 2023-07-12 | 4.18 | 2,442 | 4,039 |
 | 2023-07-13 | 4.18 | 2,442 | 4,042 |
 | 2023-07-14 | 4.18 | 2,445 | 4,045 |
-| 2023-07-15 | 4.18 | 2,447 | 4,050 |
+| 2023-07-15 | 4.18 | 2,447 | 4,051 |

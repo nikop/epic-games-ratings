@@ -13,8 +13,8 @@ Rating: 4.49 (Ranked 577)
 | Mystery Tour | 68.00% | ~1,066 |
 | We brake for nobody | 66.00% | ~1,034 |
 | Brainstorm | 65.00% | ~1,019 |
+| Travel Company | 65.00% | ~1,019 |
 | Mind the Gap | 64.00% | ~1,003 |
-| Travel Company | 64.00% | ~1,003 |
 | All around the World | 62.00% | ~972 |
 | Right through the middle | 56.00% | ~878 |
 | Facility Manager | 53.00% | ~831 |
@@ -53,8 +53,8 @@ Rating: 4.49 (Ranked 577)
 | Track to the Future | 7.00% | ~110 |
 | Conductor | 6.00% | ~94 |
 | Call of Duty | 5.00% | ~78 |
+| Let off some steam | 4.00% | ~63 |
 | Engineer | 3.00% | ~47 |
-| Let off some steam | 3.00% | ~47 |
 | Accurate | 2.00% | ~31 |
 | Together we stand | 0.50% | ~8 |
 | European Union | 0.40% | ~6 |

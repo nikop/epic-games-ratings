@@ -14,21 +14,21 @@
 | Have a good trip! | 70.00% | ~54 |
 | Stay Hydrated | 68.00% | ~52 |
 | First Win | 65.00% | ~50 |
-| True Story! | 43.00% | ~33 |
-| Bedroom Secret Spot | 36.00% | ~28 |
+| True Story! | 44.00% | ~34 |
+| Bedroom Secret Spot | 38.00% | ~29 |
 | Kick It | 31.00% | ~24 |
 | Spooky | 27.00% | ~21 |
 | Grand Slam! | 26.00% | ~20 |
 | Classroom Secret Spot | 25.00% | ~19 |
 | Have Mercy | 25.00% | ~19 |
-| Save some water for the fishies | 22.00% | ~17 |
+| Save some water for the fishies | 23.00% | ~18 |
 | Bathroom Secret Spot | 21.00% | ~16 |
 | Angry Dad | 21.00% | ~16 |
 | At least everyone still had fun | 21.00% | ~16 |
 | Living Room Secret Spot | 17.00% | ~13 |
-| Hi Hungry, I'm Dad | 14.00% | ~11 |
+| Hi Hungry, I'm Dad | 16.00% | ~12 |
+| Angry Mom | 12.00% | ~9 |
 | Just how we drew it up | 12.00% | ~9 |
-| Angry Mom | 10.00% | ~8 |
 | Interference | 9.00% | ~7 |
 | Kitchen Secret Spot | 5.00% | ~4 |
 | Found the Secret Formula! | 5.00% | ~4 |
