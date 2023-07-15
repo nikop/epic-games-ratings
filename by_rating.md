@@ -65,7 +65,7 @@
 | 58 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 86 | 349 |
 | 58 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.83 | 0 | 505 |
 | 65 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 505 |
-| 65 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,631 | 58 |
+| 65 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,634 | 58 |
 | 65 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 505 |
 | 65 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 505 |
 | 65 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 33 | 442 |
@@ -524,7 +524,7 @@
 | 522 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.52 | 23 | 481 |
 | 522 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 756 | 156 |
 | 522 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 40 | 420 |
-| 522 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 29,927 | 15 |
+| 522 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 29,960 | 15 |
 | 522 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 21 | 492 |
 | 522 | [Fall Guys](games/f/fall_guys.md) | 4.52 | 144,139 | 7 |
 | 522 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 516 | 191 |
@@ -648,7 +648,7 @@
 | 643 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 505 |
 | 643 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.44 | 0 | 505 |
 | 643 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.44 | 0 | 505 |
-| 643 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 558 | 181 |
+| 643 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 559 | 181 |
 | 643 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 505 |
 | 643 | [The Captain](games/t/the_captain.md) | 4.44 | 97 | 334 |
 | 643 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 0 | 505 |
@@ -766,7 +766,7 @@
 | 757 | [Torchlight](games/t/torchlight.md) | 4.33 | 21 | 492 |
 | 757 | [War Mongrels](games/w/war_mongrels.md) | 4.33 | 0 | 505 |
 | 766 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 354 | 222 |
-| 766 | [Filament](games/f/filament.md) | 4.32 | 558 | 181 |
+| 766 | [Filament](games/f/filament.md) | 4.32 | 558 | 182 |
 | 766 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.32 | 74 | 363 |
 | 766 | [House Party](games/h/house_party.md) | 4.32 | 0 | 505 |
 | 766 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 29 | 459 |
@@ -786,7 +786,7 @@
 | 782 | [Dark Light](games/d/dark_light.md) | 4.29 | 0 | 505 |
 | 782 | [ELEX II](games/e/elex_ii.md) | 4.29 | 0 | 505 |
 | 782 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,499,676 | 1 |
-| 782 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.29 | 3,673 | 80 |
+| 782 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.29 | 3,674 | 80 |
 | 782 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 700 | 164 |
 | 782 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 43 | 415 |
 | 782 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 125 | 306 |

@@ -14,7 +14,7 @@
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 40,836 | 4.61 | 362 |
 | 13 | [Destiny 2](games/d/destiny_2.md) | 35,689 | 4.50 | 552 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 34,453 | 4.74 | 144 |
-| 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 29,927 | 4.52 | 522 |
+| 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 29,960 | 4.52 | 522 |
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,678 | 4.65 | 299 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 20,971 | 4.77 | 108 |
 | 18 | [Dauntless](games/d/dauntless.md) | 20,755 | 4.53 | 509 |
@@ -57,7 +57,7 @@
 | 55 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,953 | 4.64 | 312 |
 | 56 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,920 | 4.79 | 89 |
 | 57 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,807 | 4.66 | 273 |
-| 58 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,631 | 4.82 | 65 |
+| 58 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,634 | 4.82 | 65 |
 | 59 | [Prey](games/p/prey.md) | 5,606 | 4.62 | 346 |
 | 60 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,541 | 4.69 | 219 |
 | 61 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,517 | 4.85 | 41 |
@@ -79,7 +79,7 @@
 | 77 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,102 | 4.51 | 541 |
 | 78 | [SMITE](games/s/smite.md) | 4,017 | 4.45 | 625 |
 | 79 | [Days Gone](games/d/days_gone.md) | 3,874 | 4.68 | 241 |
-| 80 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,673 | 4.29 | 782 |
+| 80 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,674 | 4.29 | 782 |
 | 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 3,645 | 4.77 | 108 |
 | 82 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,505 | 4.57 | 439 |
 | 83 | [Gloomhaven](games/g/gloomhaven.md) | 3,489 | 4.47 | 599 |
@@ -180,8 +180,8 @@
 | 178 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 583 | 4.73 | 157 |
 | 179 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 562 | 4.38 | 711 |
 | 180 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 560 | 4.68 | 241 |
-| 181 | [Filament](games/f/filament.md) | 558 | 4.32 | 766 |
-| 181 | [Star Trek Online](games/s/star_trek_online.md) | 558 | 4.44 | 643 |
+| 181 | [Star Trek Online](games/s/star_trek_online.md) | 559 | 4.44 | 643 |
+| 182 | [Filament](games/f/filament.md) | 558 | 4.32 | 766 |
 | 183 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 556 | 4.66 | 273 |
 | 184 | [Vampyr](games/v/vampyr.md) | 551 | 4.32 | 766 |
 | 185 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 550 | 4.41 | 676 |
