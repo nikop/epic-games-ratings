@@ -10,12 +10,12 @@
 | Who's A Good Boy | 70.00% | ~111 |
 | Power Up | 70.00% | ~111 |
 | Thick Skin | 68.00% | ~107 |
-| Math Wizard | 65.00% | ~103 |
+| Math Wizard | 66.00% | ~104 |
 | Destroy Erase Improve | 65.00% | ~103 |
 | Power Overload | 63.00% | ~100 |
 | Quite A Snack | 58.00% | ~92 |
 | Overwhelming Power | 55.00% | ~87 |
-| Impenetrable Skin | 53.00% | ~84 |
+| Impenetrable Skin | 54.00% | ~85 |
 | Chomp Chomp! | 44.00% | ~70 |
 | Supreme Power | 42.00% | ~66 |
 | Glorious Battle | 41.00% | ~65 |

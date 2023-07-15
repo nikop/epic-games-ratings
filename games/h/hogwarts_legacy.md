@@ -10,22 +10,22 @@ Rating: 4.77 (Ranked 108)
 | Troll with the Punches | 10.00% | ~28,761 |
 | A Keen Sense of Spell | 9.00% | ~25,885 |
 | That's a Keeper | 9.00% | ~25,885 |
-| Grappling with a Graphorn | 8.00% | ~23,008 |
-| The One Who Mastered Memories | 8.00% | ~23,008 |
-| The Hallowed Hero | 8.00% | ~23,008 |
-| The Hero of Hogwarts | 8.00% | ~23,008 |
-| The Defender of Dragons | 8.00% | ~23,008 |
-| Challenge Accepted | 8.00% | ~23,008 |
-| Loom for Improvement | 8.00% | ~23,008 |
-| A Talent for Spending | 8.00% | ~23,008 |
-| Coasting Along | 8.00% | ~23,008 |
-| Followed the Butterflies | 7.00% | ~20,132 |
-| The Spell Master | 7.00% | ~20,132 |
-| Rising From the Ashes | 7.00% | ~20,132 |
-| The Avenging Gazelle | 6.00% | ~17,256 |
-| Beast Friends | 6.00% | ~17,256 |
-| A Sallow Grave | 6.00% | ~17,256 |
-| Flight the Good Flight | 6.00% | ~17,256 |
+| Grappling with a Graphorn | 8.00% | ~23,009 |
+| The One Who Mastered Memories | 8.00% | ~23,009 |
+| The Hallowed Hero | 8.00% | ~23,009 |
+| The Hero of Hogwarts | 8.00% | ~23,009 |
+| The Defender of Dragons | 8.00% | ~23,009 |
+| Challenge Accepted | 8.00% | ~23,009 |
+| Loom for Improvement | 8.00% | ~23,009 |
+| A Talent for Spending | 8.00% | ~23,009 |
+| Coasting Along | 8.00% | ~23,009 |
+| Followed the Butterflies | 7.00% | ~20,133 |
+| The Spell Master | 7.00% | ~20,133 |
+| Rising From the Ashes | 7.00% | ~20,133 |
+| The Avenging Gazelle | 6.00% | ~17,257 |
+| Beast Friends | 6.00% | ~17,257 |
+| A Sallow Grave | 6.00% | ~17,257 |
+| Flight the Good Flight | 6.00% | ~17,257 |
 | The Seeker of Knowledge | 5.00% | ~14,380 |
 | Raising Expectations | 5.00% | ~14,380 |
 | The Root of the Problem | 4.00% | ~11,504 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.50% | ~1,438 |
 | Collector's Edition | 0.20% | ~575 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 287,606 (Ranked 41)  
+Progressed: 287,609 (Ranked 41)  
 Completed: 428 (0.15%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,10 +137,10 @@ Completed: 428 (0.15%) (Ranked 172)
 | 2023-07-12 | 287,108 | 423 |
 | 2023-07-13 | 287,362 | 425 |
 | 2023-07-14 | 287,497 | 426 |
-| 2023-07-15 | 287,606 | 428 |
+| 2023-07-15 | 287,609 | 428 |
 ## Awards
 Max (Character Customization): 20,971  (Ranked 17)  
-Sum: 39,235 (Ranked 30)  
+Sum: 39,238 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -154,7 +154,7 @@ Diff (max vs sum): -13
 | This game has Amazing Characters | 857 |
 | This game is Highly Recommended | 834 |
 | This game has Quickly Understood Controls | 789 |
-| This game has Beautiful Visuals | 733 |
+| This game has Beautiful Visuals | 736 |
 | This game has a Creative Community | 554 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -272,4 +272,4 @@ Diff (max vs sum): -13
 | 2023-07-12 | 4.77 | 20,913 | 39,043 |
 | 2023-07-13 | 4.77 | 20,943 | 39,111 |
 | 2023-07-14 | 4.77 | 20,971 | 39,184 |
-| 2023-07-15 | 4.77 | 20,971 | 39,235 |
+| 2023-07-15 | 4.77 | 20,971 | 39,238 |

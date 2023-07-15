@@ -36,9 +36,9 @@ Rating: 4.44 (Ranked 643)
 | Snake in the Grass | 1.00% | ~33 |
 | Enemy at the Gates | 0.90% | ~30 |
 | Die Nussknacker Sweet! | 0.90% | ~30 |
+| Rigged to Blow | 0.80% | ~26 |
 | Tinkerer | 0.80% | ~26 |
 | The Long Game | 0.70% | ~23 |
-| Rigged to Blow | 0.70% | ~23 |
 | Herr Today, Gone Tomorrow | 0.70% | ~23 |
 | Road Rage | 0.60% | ~20 |
 | Don't hold your breath | 0.60% | ~20 |
@@ -60,8 +60,10 @@ Rating: 4.44 (Ranked 643)
 | If You Go Down To The Woods Today | 0.30% | ~10 |
 | Fight Another Day | 0.30% | ~10 |
 | Best of the Best | 0.20% | ~7 |
+| Master of Pistols | 0.20% | ~7 |
 | Master of Secondaries | 0.20% | ~7 |
 | Master of Rifles | 0.20% | ~7 |
+| Master-at-arms | 0.20% | ~7 |
 | Out of Scope | 0.20% | ~7 |
 | Sight Beyond Sights | 0.20% | ~7 |
 | Can't Outrun A Bullet | 0.20% | ~7 |
@@ -71,13 +73,11 @@ Rating: 4.44 (Ranked 643)
 | Operation Overlord | 0.20% | ~6 |
 | Stroll in the Woods | 0.20% | ~6 |
 | Going Overboard | 0.20% | ~6 |
-| Master of Pistols | 0.10% | ~3 |
-| Master-at-arms | 0.10% | ~3 |
 | From Führer Away | 0.10% | ~3 |
 | Alpha | 0.10% | ~3 |
 | Das Familienjuwel | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,286 (Ranked 147)  
+Progressed: 3,287 (Ranked 147)  
 Completed: 9 (0.27%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 9 (0.27%) (Ranked 152)
 | 2023-07-12 | 3,266 | 9 |
 | 2023-07-13 | 3,269 | 9 |
 | 2023-07-14 | 3,277 | 9 |
-| 2023-07-15 | 3,286 | 9 |
+| 2023-07-15 | 3,287 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

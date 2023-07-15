@@ -4,7 +4,7 @@
   "ProductSlug": "ebola-2-b61221",
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
@@ -1010,9 +1010,9 @@
       "ID": "achStatue",
       "SetID": "1al1mjg",
       "Name": "Statue \u2714",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 145
     },
     {
       "ID": "achVirus",
@@ -1041,8 +1041,8 @@
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-07-15T21:06:28.0105636+00:00",
+  "LastChanged_Achievements": "2023-07-15T22:07:15.2083808+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:00.5771291+00:00",
-  "LastUpdate_Ratings": "2023-07-15T20:57:46.5705809+00:00",
-  "LastUpdate_Achievements": "2023-07-15T21:06:28.0106425+00:00"
+  "LastUpdate_Ratings": "2023-07-15T21:57:44.6831135+00:00",
+  "LastUpdate_Achievements": "2023-07-15T22:07:15.2084112+00:00"
 }

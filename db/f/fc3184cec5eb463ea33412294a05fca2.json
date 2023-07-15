@@ -3,9 +3,9 @@
   "Name": "Placid Plastic Duck Simulator",
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 298,
-  "Ranking_EOS_Completed": 28,
+  "Ranking_EOS_Completed": 25,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 24,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
     "PcReleaseDate": "2022-07-06T08:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 110,
-  "EOS_Completed": 8,
+  "EOS_Completed": 9,
   "EOS_NewPlayers": 51,
-  "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 7.27,
+  "EOS_NewCompleters": 7,
+  "EOS_Completed_Percentage": 8.18,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -401,6 +401,11 @@
       "Time": "2023-07-15T17:08:31.8882925+00:00",
       "NumProgressed": 110,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-15T22:05:48.0581398+00:00",
+      "NumProgressed": 110,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 16,
@@ -442,9 +447,9 @@
       "ID": "NEW_ACHIEVEMENT_1_12",
       "SetID": "8d3ci0",
       "Name": "That\u0027s all, ducks!",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 160,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
@@ -474,17 +479,17 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "8d3ci0",
       "Name": "Family pond",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "8d3ci0",
       "Name": "Make a wish",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -522,9 +527,9 @@
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "8d3ci0",
       "Name": "On fire",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 60,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -540,13 +545,13 @@
       "ID": "8d3ci0",
       "IsBase": true,
       "Progressed": 110,
-      "Completed": 8
+      "Completed": 9
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-15T21:05:27.4511047+00:00",
+  "LastChanged_Achievements": "2023-07-15T22:05:48.058139+00:00",
   "LastUpdate_AppInfo": "2023-07-15T11:57:13.4695515+00:00",
-  "LastUpdate_Ratings": "2023-07-15T20:57:32.4259755+00:00",
-  "LastUpdate_Achievements": "2023-07-15T21:05:27.4511182+00:00"
+  "LastUpdate_Ratings": "2023-07-15T21:57:26.0652984+00:00",
+  "LastUpdate_Achievements": "2023-07-15T22:05:48.0581604+00:00"
 }

@@ -29,7 +29,7 @@ Rating: 4.19 (Ranked 848)
 | The Outer Way | 1.00% | ~157 |
 | If the SHU Fits... | 1.00% | ~157 |
 | Desperate Times | 1.00% | ~157 |
-| One Last Job | 1.00% | ~36 |
+| One Last Job | 1.00% | ~37 |
 | In Striking Distance | 0.80% | ~126 |
 | This Isn't About Escape | 0.60% | ~22 |
 | Armed to the Teeth | 0.40% | ~15 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 848)
 | I am the Danger | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,724 (Ranked 109)  
+Progressed: 15,725 (Ranked 109)  
 Completed: 66 (0.42%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 66 (0.42%) (Ranked 134)
 | 2023-07-12 | 15,701 | 66 |
 | 2023-07-13 | 15,707 | 66 |
 | 2023-07-14 | 15,715 | 66 |
-| 2023-07-15 | 15,724 | 66 |
+| 2023-07-15 | 15,725 | 66 |
 ## Awards
 Max (Amazing Storytelling): 69  (Ranked 373)  
 Sum: 388 (Ranked 315)  

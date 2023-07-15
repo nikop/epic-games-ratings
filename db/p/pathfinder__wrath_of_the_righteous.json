@@ -3128,9 +3128,9 @@
       "Count": 381
     }
   ],
-  "EOS_Progressed": 10337,
+  "EOS_Progressed": 10338,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8488,6 +8488,11 @@
       "Time": "2023-07-15T21:04:52.9085842+00:00",
       "NumProgressed": 10337,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-15T22:04:58.2784707+00:00",
+      "NumProgressed": 10338,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -8499,7 +8504,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2067
+      "UsersEstimate": 2068
     },
     {
       "ID": "02_BurningCity",
@@ -8571,7 +8576,7 @@
       "Name": "Path of the Azata",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "11_PathOfAeon",
@@ -8627,7 +8632,7 @@
       "Name": "Transformation",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "18_MythicChoices",
@@ -8635,7 +8640,7 @@
       "Name": "Mythic Choices",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1240
+      "UsersEstimate": 1241
     },
     {
       "ID": "19_EqualToAroden",
@@ -8707,7 +8712,7 @@
       "Name": "Great Upstart",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "29_StrategicVictory",
@@ -8747,7 +8752,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1240
+      "UsersEstimate": 1241
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -8843,7 +8848,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "46_AllPathsOpen",
@@ -8851,7 +8856,7 @@
       "Name": "All Paths Open",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -9426,21 +9431,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9119,
+      "Progressed": 9120,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10337,
+      "Progressed": 10338,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-15T20:59:00.2189312+00:00",
-  "LastChanged_Achievements": "2023-07-15T21:04:52.9085839+00:00",
+  "LastChanged_Achievements": "2023-07-15T22:04:58.2784701+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:17.6267462+00:00",
-  "LastUpdate_Ratings": "2023-07-15T20:59:00.2189317+00:00",
-  "LastUpdate_Achievements": "2023-07-15T21:04:52.9087632+00:00"
+  "LastUpdate_Ratings": "2023-07-15T21:59:30.8566138+00:00",
+  "LastUpdate_Achievements": "2023-07-15T22:04:58.2787209+00:00"
 }

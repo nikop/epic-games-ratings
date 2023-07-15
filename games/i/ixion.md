@@ -6,7 +6,7 @@ Rating: 4.56 (Ranked 458)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 22.00% | ~621 |
-| Sputnik 2049 | 19.00% | ~536 |
+| Sputnik 2049 | 19.00% | ~537 |
 | Infinite Growth... | 18.00% | ~508 |
 | Without Breaking Some Eggs... | 17.00% | ~480 |
 | Ready for a New World | 13.00% | ~367 |
@@ -49,7 +49,7 @@ Rating: 4.56 (Ranked 458)
 | Tiqqun Unchained | 1.00% | ~28 |
 | Scientifically Accurate | 1.00% | ~28 |
 | You Had One Job... | 0.90% | ~25 |
-| Gregor Spinoza | 0.90% | ~25 |
+| Gregor Spinoza | 0.80% | ~23 |
 | Better Him Than Me | 0.70% | ~20 |
 | Remember the Dead | 0.60% | ~17 |
 | Work Harder | 0.40% | ~11 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 458)
 | This is Fine | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,823 (Ranked 155)  
+Progressed: 2,824 (Ranked 155)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-12 | 2,805 | 0 |
 | 2023-07-13 | 2,812 | 0 |
 | 2023-07-14 | 2,817 | 0 |
-| 2023-07-15 | 2,823 | 0 |
+| 2023-07-15 | 2,824 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

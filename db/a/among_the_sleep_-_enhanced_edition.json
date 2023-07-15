@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 130,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
     "PcReleaseDate": "2017-11-02T15:00:00+00:00",
@@ -443,9 +443,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 78756,
+  "EOS_Progressed": 78760,
   "EOS_Completed": 373,
-  "EOS_NewPlayers": 848,
+  "EOS_NewPlayers": 843,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -9613,6 +9613,11 @@
       "Time": "2023-07-15T21:04:59.0739851+00:00",
       "NumProgressed": 78756,
       "NumCompleted": 373
+    },
+    {
+      "Time": "2023-07-15T22:05:07.0547948+00:00",
+      "NumProgressed": 78760,
+      "NumCompleted": 373
     }
   ],
   "TotalAchievements": 10,
@@ -9688,7 +9693,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 27565
+      "UsersEstimate": 27566
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -9696,22 +9701,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 8663
+      "UsersEstimate": 8664
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 78756,
+      "Progressed": 78760,
       "Completed": 373
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-03-31T05:57:32.2303432+00:00",
-  "LastChanged_Achievements": "2023-07-15T21:04:59.0739847+00:00",
+  "LastChanged_Achievements": "2023-07-15T22:05:07.0547939+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:30.7064844+00:00",
-  "LastUpdate_Ratings": "2023-07-15T21:00:44.3961393+00:00",
-  "LastUpdate_Achievements": "2023-07-15T21:04:59.0741211+00:00"
+  "LastUpdate_Ratings": "2023-07-15T22:02:11.2296209+00:00",
+  "LastUpdate_Achievements": "2023-07-15T22:05:07.0549057+00:00"
 }

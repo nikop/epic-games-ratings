@@ -6,19 +6,19 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~438,001 |
-| The Three | 64.00% | ~337,736 |
-| The Banquet | 40.00% | ~211,085 |
-| Devara's Light | 30.00% | ~158,314 |
-| The Iron Ones | 18.00% | ~94,988 |
-| The Village | 16.00% | ~84,434 |
+| Find Sanctuary | 83.00% | ~438,005 |
+| The Three | 64.00% | ~337,739 |
+| The Banquet | 40.00% | ~211,087 |
+| Devara's Light | 30.00% | ~158,315 |
+| The Iron Ones | 18.00% | ~94,989 |
+| The Village | 16.00% | ~84,435 |
 | The Forest | 14.00% | ~73,880 |
 | Branded | 13.00% | ~68,603 |
 | The Imposter | 13.00% | ~68,603 |
 | The Keep | 13.00% | ~68,603 |
-| The Castle | 11.00% | ~58,048 |
-| The Dome | 9.00% | ~47,494 |
-| The Red Hall | 9.00% | ~47,494 |
+| The Castle | 11.00% | ~58,049 |
+| The Dome | 9.00% | ~47,495 |
+| The Red Hall | 9.00% | ~47,495 |
 | The Sacrifice | 8.00% | ~42,217 |
 | The Cave | 7.00% | ~36,940 |
 | The Stone Roots | 7.00% | ~36,940 |
@@ -30,12 +30,12 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Alkymancery | 5.00% | ~26,386 |
 | The Lake | 5.00% | ~26,386 |
 | The Pitchwoods | 5.00% | ~26,386 |
-| Honed | 4.00% | ~21,108 |
-| The House of Splendor | 4.00% | ~21,108 |
-| The Crypt | 4.00% | ~21,108 |
-| The Palace | 4.00% | ~21,108 |
-| Find Salvation | 3.00% | ~15,831 |
-| The Unspeakable Deep | 3.00% | ~15,831 |
+| Honed | 4.00% | ~21,109 |
+| The House of Splendor | 4.00% | ~21,109 |
+| The Crypt | 4.00% | ~21,109 |
+| The Palace | 4.00% | ~21,109 |
+| Find Salvation | 3.00% | ~15,832 |
+| The Unspeakable Deep | 3.00% | ~15,832 |
 | Coastrock | 2.00% | ~10,554 |
 | Devoted | 2.00% | ~10,554 |
 | Dominion | 2.00% | ~10,554 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,554 |
 | Fading Fast | 1.00% | ~5,277 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 527,712 (Ranked 28)  
+Progressed: 527,717 (Ranked 28)  
 Completed: 1,480 (0.28%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 1,480 (0.28%) (Ranked 151)
 | 2023-07-12 | 527,424 | 1,478 |
 | 2023-07-13 | 527,521 | 1,479 |
 | 2023-07-14 | 527,599 | 1,479 |
-| 2023-07-15 | 527,712 | 1,480 |
+| 2023-07-15 | 527,717 | 1,480 |
 ## Awards
 Max (Challenging Combat): 274  (Ranked 239)  
 Sum: 1,912 (Ranked 201)  

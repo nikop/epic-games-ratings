@@ -2498,9 +2498,9 @@
       "Count": 310
     }
   ],
-  "EOS_Progressed": 15836,
+  "EOS_Progressed": 15838,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -7233,6 +7233,11 @@
       "Time": "2023-07-15T21:03:26.0214022+00:00",
       "NumProgressed": 15836,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-07-15T22:02:57.8301573+00:00",
+      "NumProgressed": 15838,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 50,
@@ -7524,7 +7529,7 @@
       "Name": "The Marshlands",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "WinOnMoorlands",
@@ -7580,7 +7585,7 @@
       "Name": "Taking Action",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "WinWithResolve",
@@ -7620,7 +7625,7 @@
       "Name": "No Deaths",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "WinWithoutOrders",
@@ -7643,15 +7648,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 15836,
+      "Progressed": 15838,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-07-15T05:00:39.159135+00:00",
-  "LastChanged_Achievements": "2023-07-15T21:03:26.0214017+00:00",
+  "LastChanged_Achievements": "2023-07-15T22:02:57.8301565+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:06.1023937+00:00",
-  "LastUpdate_Ratings": "2023-07-15T21:00:27.0007336+00:00",
-  "LastUpdate_Achievements": "2023-07-15T21:03:26.0214755+00:00"
+  "LastUpdate_Ratings": "2023-07-15T22:01:39.7540591+00:00",
+  "LastUpdate_Achievements": "2023-07-15T22:02:57.830283+00:00"
 }

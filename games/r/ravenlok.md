@@ -38,11 +38,11 @@
 | Stardust | 36.00% | ~377 |
 | Heartbreaker | 36.00% | ~377 |
 | Kidnapped! | 36.00% | ~377 |
+| Trick Question! | 35.00% | ~366 |
 | Pull the Plug | 34.00% | ~356 |
 | Soul Slayer | 34.00% | ~356 |
 | The Downfall | 34.00% | ~356 |
 | All Heart | 34.00% | ~356 |
-| Trick Question! | 34.00% | ~356 |
 | Final Showdown | 34.00% | ~356 |
 | Spot of Tea? | 34.00% | ~356 |
 | Going Home | 34.00% | ~356 |
@@ -56,7 +56,7 @@
 | Bombs Away! | 9.00% | ~94 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,047 (Ranked 187)  
-Completed: 78 (7.45%) (Ranked 27)  
+Completed: 78 (7.45%) (Ranked 28)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

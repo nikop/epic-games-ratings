@@ -6,19 +6,19 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~245,715 |
+| Blacksmith's Son | 31.00% | ~245,716 |
 | Cavalier | 25.00% | ~198,158 |
-| Fatso | 23.00% | ~182,305 |
-| Awakening | 20.00% | ~158,526 |
-| Ranger | 20.00% | ~158,526 |
-| Scrooge | 20.00% | ~158,526 |
+| Fatso | 23.00% | ~182,306 |
+| Awakening | 20.00% | ~158,527 |
+| Ranger | 20.00% | ~158,527 |
+| Scrooge | 20.00% | ~158,527 |
 | Anorectic | 16.00% | ~126,821 |
-| Firestarter | 15.00% | ~118,894 |
-| Bookworm | 14.00% | ~110,968 |
+| Firestarter | 15.00% | ~118,895 |
+| Bookworm | 14.00% | ~110,969 |
 | Insomniac | 13.00% | ~103,042 |
 | Buddy | 12.00% | ~95,116 |
 | Thief | 12.00% | ~95,116 |
-| Sinner | 11.00% | ~87,189 |
+| Sinner | 11.00% | ~87,190 |
 | Convict | 10.00% | ~79,263 |
 | Traveller | 10.00% | ~79,263 |
 | Haggler | 9.00% | ~71,337 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~793 |
 | Wingman | 0.10% | ~793 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 792,630 (Ranked 15)  
+Progressed: 792,633 (Ranked 15)  
 Completed: 44 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,17 +175,17 @@ Completed: 44 (0.01%) (Ranked 223)
 | 2023-07-12 | 792,196 | 44 |
 | 2023-07-13 | 792,336 | 44 |
 | 2023-07-14 | 792,456 | 44 |
-| 2023-07-15 | 792,630 | 44 |
+| 2023-07-15 | 792,633 | 44 |
 ## Awards
 Max (Character Customization): 7,317  (Ranked 46)  
-Sum: 27,280 (Ranked 43)  
+Sum: 27,281 (Ranked 43)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,317 |
 | This game has Great Boss Battles | 5,379 |
 | This game has Challenging Combat | 1,711 |
-| This game has Amazing Storytelling | 1,672 |
+| This game has Amazing Storytelling | 1,673 |
 | This game has Diverse Characters | 1,649 |
 | This game is Extremely Fun | 1,640 |
 | This game is Highly Recommended | 1,634 |
@@ -368,4 +368,4 @@ Diff (max vs sum): 3
 | 2023-07-12 | 4.71 | - | 7,313 | 27,265 |
 | 2023-07-13 | 4.71 | - | 7,316 | 27,268 |
 | 2023-07-14 | 4.71 | - | 7,316 | 27,274 |
-| 2023-07-15 | 4.71 | - | 7,317 | 27,280 |
+| 2023-07-15 | 4.71 | - | 7,317 | 27,281 |

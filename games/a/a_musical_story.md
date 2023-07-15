@@ -11,9 +11,9 @@
 | Solitude | 83.00% | ~58 |
 | Pinewood, Here we come! | 76.00% | ~53 |
 | The Van | 69.00% | ~48 |
-| Road-Trip | 61.00% | ~43 |
-| A Musical Pause | 60.00% | ~42 |
-| Briget's | 50.00% | ~35 |
+| Road-Trip | 63.00% | ~44 |
+| A Musical Pause | 61.00% | ~43 |
+| Briget's | 51.00% | ~36 |
 | Sound of Noise | 49.00% | ~34 |
 | Big City Music | 47.00% | ~33 |
 | Love at First Sight | 43.00% | ~30 |

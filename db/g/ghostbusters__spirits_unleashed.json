@@ -1458,9 +1458,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 24242,
+  "EOS_Progressed": 24243,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7943,6 +7943,11 @@
       "Time": "2023-07-15T21:03:44.2301706+00:00",
       "NumProgressed": 24242,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-07-15T22:03:34.7813699+00:00",
+      "NumProgressed": 24243,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 51,
@@ -7978,7 +7983,7 @@
       "Name": "We have the best insurance",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 6545
+      "UsersEstimate": 6546
     },
     {
       "ID": "Catostrophic_Destroyer",
@@ -7994,7 +7999,7 @@
       "Name": "Clutch Capture",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 9939
+      "UsersEstimate": 9940
     },
     {
       "ID": "Collect_Spores",
@@ -8002,7 +8007,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 12363
+      "UsersEstimate": 12364
     },
     {
       "ID": "Collector",
@@ -8018,7 +8023,7 @@
       "Name": "Cultured",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 12363
+      "UsersEstimate": 12364
     },
     {
       "ID": "Daily_Dose",
@@ -8066,7 +8071,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 15515
+      "UsersEstimate": 15516
     },
     {
       "ID": "Escape_Artist",
@@ -8170,7 +8175,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6060
+      "UsersEstimate": 6061
     },
     {
       "ID": "Reckless",
@@ -8226,7 +8231,7 @@
       "Name": "Side Hustle",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6545
+      "UsersEstimate": 6546
     },
     {
       "ID": "Skilled",
@@ -8242,7 +8247,7 @@
       "Name": "Solo Capture",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 7757
+      "UsersEstimate": 7758
     },
     {
       "ID": "Stunner",
@@ -8258,7 +8263,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 20848
+      "UsersEstimate": 20849
     },
     {
       "ID": "Summoner",
@@ -8266,7 +8271,7 @@
       "Name": "Summoner",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6545
+      "UsersEstimate": 6546
     },
     {
       "ID": "Surprise",
@@ -8290,7 +8295,7 @@
       "Name": "Teamwork",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 10666
+      "UsersEstimate": 10667
     },
     {
       "ID": "Terrifying",
@@ -8338,7 +8343,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 11636
+      "UsersEstimate": 11637
     },
     {
       "ID": "Welcome_Crew",
@@ -8346,7 +8351,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 7757
+      "UsersEstimate": 7758
     },
     {
       "ID": "Whoopsie",
@@ -8361,7 +8366,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 24242,
+      "Progressed": 24243,
       "Completed": 46
     }
   ],
@@ -8369,8 +8374,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-07-15T16:03:13.3785759+00:00",
-  "LastChanged_Achievements": "2023-07-15T21:03:44.2301701+00:00",
+  "LastChanged_Achievements": "2023-07-15T22:03:34.7813691+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:59.3663354+00:00",
-  "LastUpdate_Ratings": "2023-07-15T20:59:31.9454649+00:00",
-  "LastUpdate_Achievements": "2023-07-15T21:03:44.2302765+00:00"
+  "LastUpdate_Ratings": "2023-07-15T22:00:20.1290042+00:00",
+  "LastUpdate_Achievements": "2023-07-15T22:03:34.7815213+00:00"
 }
