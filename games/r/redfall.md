@@ -16,7 +16,7 @@ Rating: 3.54 (Ranked 951)
 | Sucks To Be You | 43.00% | ~740 |
 | Welcome to the Neighborhood | 38.00% | ~654 |
 | Fly Fisher | 36.00% | ~620 |
-| Throw The First Stone | 35.00% | ~603 |
+| Throw The First Stone | 36.00% | ~620 |
 | Enter of Your Own Free Will | 34.00% | ~585 |
 | Heart Attack | 33.00% | ~568 |
 | Skin of Their Teeth | 31.00% | ~534 |
@@ -57,7 +57,7 @@ Rating: 3.54 (Ranked 951)
 | Friends 'Til The End | 1.00% | ~17 |
 | Sisterhood | 0.90% | ~15 |
 | Ask Not For Whom The Horns Blow | 0.90% | ~15 |
-| Good Samaritan | 0.80% | ~14 |
+| Good Samaritan | 0.90% | ~15 |
 | Someplace to Be | 0.50% | ~9 |
 | Bob’s Final Hour | 0.50% | ~9 |
 | A Cry in the Dark | 0.30% | ~5 |

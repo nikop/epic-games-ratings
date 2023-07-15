@@ -7,10 +7,10 @@ Number of Ratings: 45  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Cost of Heroism | 37.00% | ~487 |
-| Me and My Familiar | 35.00% | ~460 |
-| This Too Shall Pass | 29.00% | ~381 |
-| Passing Shadow | 28.00% | ~368 |
-| Cutthroat Competitors | 28.00% | ~368 |
+| Me and My Familiar | 35.00% | ~461 |
+| This Too Shall Pass | 29.00% | ~382 |
+| Passing Shadow | 28.00% | ~369 |
+| Cutthroat Competitors | 28.00% | ~369 |
 | How Romantic! | 26.00% | ~342 |
 | Daybreak | 26.00% | ~342 |
 | Gotta Ca... Must Collect All of Them | 24.00% | ~316 |
@@ -20,8 +20,8 @@ Number of Ratings: 45  (23.09.2022)
 | A Mythic Menagerie | 12.00% | ~158 |
 | Core Failure | 12.00% | ~158 |
 | Pyrrhic Victory | 10.00% | ~132 |
-| Thematic Divergence | 9.00% | ~118 |
-| Echoes Die | 9.00% | ~118 |
+| Thematic Divergence | 9.00% | ~119 |
+| Echoes Die | 9.00% | ~119 |
 | Chain Reaction | 8.00% | ~105 |
 | Plague Doctor | 7.00% | ~92 |
 | Everfading | 7.00% | ~92 |
@@ -37,16 +37,16 @@ Number of Ratings: 45  (23.09.2022)
 | A Hunger, Sated | 4.00% | ~53 |
 | Grillmaster | 4.00% | ~53 |
 | No Time for Clawmonsters | 4.00% | ~53 |
-| We Emerge Changed | 3.00% | ~39 |
-| Storied Past | 3.00% | ~39 |
-| Bonebreakers | 3.00% | ~39 |
-| No More Nightmares | 3.00% | ~39 |
-| Bears are Scary | 3.00% | ~39 |
-| Some Say I'm Too Flashy | 3.00% | ~39 |
-| Into Mulch | 3.00% | ~39 |
-| Astrology | 3.00% | ~39 |
-| Tempest | 3.00% | ~39 |
-| Lochias's Hunger | 3.00% | ~39 |
+| We Emerge Changed | 3.00% | ~40 |
+| Storied Past | 3.00% | ~40 |
+| Bonebreakers | 3.00% | ~40 |
+| No More Nightmares | 3.00% | ~40 |
+| Bears are Scary | 3.00% | ~40 |
+| Some Say I'm Too Flashy | 3.00% | ~40 |
+| Into Mulch | 3.00% | ~40 |
+| Astrology | 3.00% | ~40 |
+| Tempest | 3.00% | ~40 |
+| Lochias's Hunger | 3.00% | ~40 |
 | The Power of Friendship | 2.00% | ~26 |
 | Empty the Caves | 2.00% | ~26 |
 | Drauvenslayers | 2.00% | ~26 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | We Call That Mortificient! | 0.70% | ~9 |
 | Peacemaker | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,315 (Ranked 177)  
+Progressed: 1,317 (Ranked 177)  
 Completed: 5 (0.38%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 5 (0.38%) (Ranked 138)
 | 2023-07-12 | 1,309 | 5 |
 | 2023-07-13 | 1,311 | 5 |
 | 2023-07-14 | 1,313 | 5 |
-| 2023-07-15 | 1,315 | 5 |
+| 2023-07-15 | 1,317 | 5 |
 ## Awards
 Max (Character Customization): 28  (Ranked 462)  
 Sum: 28 (Ranked 474)  

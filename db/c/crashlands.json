@@ -2,13 +2,13 @@
   "ID": "1b8a504ec52d4430b65cca2990ad6c7f",
   "Name": "Crashlands",
   "ProductSlug": "crashlands",
-  "Ranking_Rating": 273,
+  "Ranking_Rating": 272,
   "Ranking_Popularity": 272,
   "Ranking_PopularitySum": 336,
   "Ranking_EOS_Progress": 494,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 306,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2020-04-30T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -657,6 +657,6 @@
   "FirstSeen": "2022-07-22T20:25:11.0234055+00:00",
   "LastChanged": "2023-06-26T05:58:38.2459436+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:26.9382269+00:00",
-  "LastUpdate_Ratings": "2023-07-15T21:59:38.858399+00:00",
-  "LastUpdate_Achievements": "2023-07-15T22:04:55.9844276+00:00"
+  "LastUpdate_Ratings": "2023-07-15T22:59:09.8283105+00:00",
+  "LastUpdate_Achievements": "2023-07-15T23:04:43.4095379+00:00"
 }

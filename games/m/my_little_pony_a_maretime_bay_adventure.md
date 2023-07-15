@@ -18,7 +18,7 @@
 | Starscout | 38.00% | ~15 |
 | W.I.N.G.S. Cadet | 33.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40 (Ranked 349)  
+Progressed: 40 (Ranked 350)  
 Completed: 11 (27.50%) (Ranked 4)  
 ## EOS Players History
 | Date | Progressed | Completed |

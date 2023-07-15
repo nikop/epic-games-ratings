@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -3473,17 +3473,17 @@
       "ID": "A17",
       "SetID": "9b7p7eo",
       "Name": "Facility Manager",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 831
+      "UsersEstimate": 846
     },
     {
       "ID": "A18",
       "SetID": "9b7p7eo",
       "Name": "General Manager",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 392
+      "UsersEstimate": 407
     },
     {
       "ID": "A19",
@@ -3786,8 +3786,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-07-15T13:11:52.2660049+00:00",
-  "LastChanged_Achievements": "2023-07-15T22:03:26.639975+00:00",
+  "LastChanged_Achievements": "2023-07-15T23:03:19.0290839+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:48.1822596+00:00",
-  "LastUpdate_Ratings": "2023-07-15T21:59:04.8301405+00:00",
-  "LastUpdate_Achievements": "2023-07-15T22:03:26.6400948+00:00"
+  "LastUpdate_Ratings": "2023-07-15T22:58:40.2656119+00:00",
+  "LastUpdate_Achievements": "2023-07-15T23:03:19.029136+00:00"
 }

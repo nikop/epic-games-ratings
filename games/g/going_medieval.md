@@ -1,7 +1,7 @@
 # Going Medieval
 [Store](https://store.epicgames.com/en-US/p/going-medieval)  
 [View Rawdata](../../db/g/going_medieval.json)  
-Rating: 4.60 (Ranked 389)  
+Rating: 4.60 (Ranked 390)  
 Number of Ratings: 706  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -25,7 +25,7 @@ Number of Ratings: 706  (23.09.2022)
 | Fit For A King | 38.00% | ~1,759 |
 | Luminary Researcher | 34.00% | ~1,574 |
 | Heating Up | 28.00% | ~1,296 |
-| Winter Is Coming | 24.00% | ~1,111 |
+| Winter Is Coming | 25.00% | ~1,157 |
 | Winter Is Here | 22.00% | ~1,018 |
 | Disassembled | 19.00% | ~880 |
 | A Party Now | 19.00% | ~880 |

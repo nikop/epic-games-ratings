@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 482,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -325,9 +325,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1689,
+  "EOS_Progressed": 1690,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1305,6 +1305,11 @@
       "Time": "2023-07-13T15:04:28.5214478+00:00",
       "NumProgressed": 1689,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-15T23:04:35.46758+00:00",
+      "NumProgressed": 1690,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -1468,7 +1473,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1013
+      "UsersEstimate": 1014
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -1548,7 +1553,7 @@
       "Name": "Off the Trail",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -1612,7 +1617,7 @@
       "Name": "Self-Improvement",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1216
+      "UsersEstimate": 1217
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -1644,7 +1649,7 @@
       "Name": "The Great Escape",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ACH_THE_HARD_WAY",
@@ -1692,7 +1697,7 @@
       "Name": "Unforgiven",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 1469
+      "UsersEstimate": 1470
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -1739,15 +1744,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1689,
+      "Progressed": 1690,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-07-15T22:04:46.3971577+00:00",
+  "LastChanged_Achievements": "2023-07-15T23:04:35.4675796+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:20.4662233+00:00",
-  "LastUpdate_Ratings": "2023-07-15T21:59:32.1339846+00:00",
-  "LastUpdate_Achievements": "2023-07-15T22:04:46.3972526+00:00"
+  "LastUpdate_Ratings": "2023-07-15T22:59:05.412377+00:00",
+  "LastUpdate_Achievements": "2023-07-15T23:04:35.4676186+00:00"
 }

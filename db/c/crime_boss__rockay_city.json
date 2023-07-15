@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -2532,9 +2532,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 68948,
+  "EOS_Progressed": 68949,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 389,
+  "EOS_NewPlayers": 388,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -11552,6 +11552,11 @@
       "Time": "2023-07-15T22:05:34.3682095+00:00",
       "NumProgressed": 68948,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-07-15T23:05:14.2797079+00:00",
+      "NumProgressed": 68949,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 37,
@@ -11707,7 +11712,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 44816
+      "UsersEstimate": 44817
     },
     {
       "ID": "ACH_0210",
@@ -11779,7 +11784,7 @@
       "Name": "Case Closed",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 23442
+      "UsersEstimate": 23443
     },
     {
       "ID": "ACH_0420",
@@ -11787,7 +11792,7 @@
       "Name": "King of the Hill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 23442
+      "UsersEstimate": 23443
     },
     {
       "ID": "ACH_0430",
@@ -11858,7 +11863,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 68948,
+      "Progressed": 68949,
       "Completed": 36
     }
   ],
@@ -11866,8 +11871,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-07-15T17:04:53.5219133+00:00",
-  "LastChanged_Achievements": "2023-07-15T22:05:34.3682087+00:00",
+  "LastChanged_Achievements": "2023-07-15T23:05:14.2797075+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:02.3078188+00:00",
-  "LastUpdate_Ratings": "2023-07-15T22:01:36.1690143+00:00",
-  "LastUpdate_Achievements": "2023-07-15T22:05:34.3683553+00:00"
+  "LastUpdate_Ratings": "2023-07-15T23:00:44.3187952+00:00",
+  "LastUpdate_Achievements": "2023-07-15T23:05:14.2797717+00:00"
 }

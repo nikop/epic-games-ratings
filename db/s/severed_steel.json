@@ -2,13 +2,13 @@
   "ID": "5db7394e65044dd1bb083ee983e2b3a5",
   "Name": "Severed Steel",
   "ProductSlug": "severed-steel",
-  "Ranking_Rating": 241,
+  "Ranking_Rating": 240,
   "Ranking_Popularity": 275,
   "Ranking_PopularitySum": 369,
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 37,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-09-17T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -278,9 +278,9 @@
       "Count": 185
     }
   ],
-  "EOS_Progressed": 425015,
+  "EOS_Progressed": 425018,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 1802,
+  "EOS_NewPlayers": 1800,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9608,6 +9608,11 @@
       "Time": "2023-07-15T22:03:17.7286557+00:00",
       "NumProgressed": 425015,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-07-15T23:03:11.4915616+00:00",
+      "NumProgressed": 425018,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 52,
@@ -9627,7 +9632,7 @@
       "Name": "100 KILLS",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 59502
+      "UsersEstimate": 59503
     },
     {
       "ID": "200_HEADSHOTS HEADSHOTS (0-200)",
@@ -10034,7 +10039,7 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 425015,
+      "Progressed": 425018,
       "Completed": 38
     }
   ],
@@ -10042,8 +10047,8 @@
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "LastChanged": "2023-07-04T08:00:18.0682194+00:00",
-  "LastChanged_Achievements": "2023-07-15T22:03:17.7286537+00:00",
+  "LastChanged_Achievements": "2023-07-15T23:03:11.4915611+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:28.1107898+00:00",
-  "LastUpdate_Ratings": "2023-07-15T22:00:55.0679894+00:00",
-  "LastUpdate_Achievements": "2023-07-15T22:03:17.7287605+00:00"
+  "LastUpdate_Ratings": "2023-07-15T23:00:10.8134534+00:00",
+  "LastUpdate_Achievements": "2023-07-15T23:03:11.4916373+00:00"
 }

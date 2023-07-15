@@ -4,8 +4,8 @@
   "ProductSlug": "ebola-2-b61221",
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
     "PcReleaseDate": "2020-12-20T03:00:00+00:00",
@@ -1026,9 +1026,9 @@
       "ID": "achWitch",
       "SetID": "1al1mjg",
       "Name": "Witch \u2714",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 44
     }
   ],
   "AchievementSets": [
@@ -1041,8 +1041,8 @@
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-07-15T22:07:15.2083808+00:00",
+  "LastChanged_Achievements": "2023-07-15T23:06:36.9888722+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:00.5771291+00:00",
-  "LastUpdate_Ratings": "2023-07-15T21:57:44.6831135+00:00",
-  "LastUpdate_Achievements": "2023-07-15T22:07:15.2084112+00:00"
+  "LastUpdate_Ratings": "2023-07-15T22:57:36.938107+00:00",
+  "LastUpdate_Achievements": "2023-07-15T23:06:36.9888872+00:00"
 }

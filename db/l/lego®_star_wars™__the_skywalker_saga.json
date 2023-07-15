@@ -2714,9 +2714,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 49884,
+  "EOS_Progressed": 49885,
   "EOS_Completed": 208,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -8969,6 +8969,11 @@
       "Time": "2023-07-15T18:07:08.2114078+00:00",
       "NumProgressed": 49884,
       "NumCompleted": 208
+    },
+    {
+      "Time": "2023-07-15T23:04:16.691512+00:00",
+      "NumProgressed": 49885,
+      "NumCompleted": 208
     }
   ],
   "TotalAchievements": 45,
@@ -9004,7 +9009,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 39408
+      "UsersEstimate": 39409
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -9116,7 +9121,7 @@
       "Name": "A New Hope",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 23944
+      "UsersEstimate": 23945
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -9148,7 +9153,7 @@
       "Name": "The Last Jedi",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 11473
+      "UsersEstimate": 11474
     },
     {
       "ID": "COMPLETE_EPISODE_9",
@@ -9244,7 +9249,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 48387
+      "UsersEstimate": 48388
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -9332,22 +9337,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 35916
+      "UsersEstimate": 35917
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 49884,
+      "Progressed": 49885,
       "Completed": 208
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-07-15T22:02:25.2924257+00:00",
-  "LastChanged_Achievements": "2023-07-15T22:04:24.3067171+00:00",
+  "LastChanged_Achievements": "2023-07-15T23:04:16.6915114+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:41.0824625+00:00",
-  "LastUpdate_Ratings": "2023-07-15T22:02:25.2924267+00:00",
-  "LastUpdate_Achievements": "2023-07-15T22:04:24.3068318+00:00"
+  "LastUpdate_Ratings": "2023-07-15T23:01:24.5787177+00:00",
+  "LastUpdate_Achievements": "2023-07-15T23:04:16.6915688+00:00"
 }

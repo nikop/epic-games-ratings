@@ -2,13 +2,13 @@
   "ID": "1760fff3738043f2870594d94487fa4b",
   "Name": "Transport Fever 2",
   "ProductSlug": "transport-fever-2",
-  "Ranking_Rating": 218,
+  "Ranking_Rating": 217,
   "Ranking_Popularity": 420,
   "Ranking_PopularitySum": 340,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
     "PcReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -510,7 +510,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 1428,
+  "EOS_Progressed": 1429,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
@@ -2545,6 +2545,11 @@
       "Time": "2023-07-15T22:03:44.7103699+00:00",
       "NumProgressed": 1428,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-15T23:03:34.1714264+00:00",
+      "NumProgressed": 1429,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 61,
@@ -2556,7 +2561,7 @@
       "Name": "Transport shark",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "achAccumulate100MHard",
@@ -2570,9 +2575,9 @@
       "ID": "achAccumulate10M",
       "SetID": "dgl390n",
       "Name": "Transport master",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 757
+      "UsersEstimate": 743
     },
     {
       "ID": "achAccumulate1B",
@@ -2596,7 +2601,7 @@
       "Name": "Transport millionaire",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "achAircraftEarnings",
@@ -2604,7 +2609,7 @@
       "Name": "Aircraft entrepreneur",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "achAllClimates",
@@ -2612,7 +2617,7 @@
       "Name": "Climate change",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "achAllElecHighSpeed",
@@ -2660,7 +2665,7 @@
       "Name": "First train station",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "achCannotGetEnough",
@@ -2740,7 +2745,7 @@
       "Name": "Not in my backyard",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "achEpec",
@@ -2756,7 +2761,7 @@
       "Name": "First aircraft arrived",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "achFirstBusArrived",
@@ -2764,7 +2769,7 @@
       "Name": "First bus arrived",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "achFirstCargoTransported",
@@ -2772,7 +2777,7 @@
       "Name": "First cargo item on board",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1015
     },
     {
       "ID": "achFirstCargoWaiting",
@@ -2780,7 +2785,7 @@
       "Name": "First cargo item waiting",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1015
     },
     {
       "ID": "achFirstElectricTrainArrived",
@@ -2788,7 +2793,7 @@
       "Name": "First electric train arrived",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "achFirstIndustryUpgrade",
@@ -2850,9 +2855,9 @@
       "ID": "achHq",
       "SetID": "dgl390n",
       "Name": "Settled down",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 700
+      "UsersEstimate": 686
     },
     {
       "ID": "achHq20",
@@ -2916,7 +2921,7 @@
       "Name": "Exemplary student",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "achMuseumLine",
@@ -2940,7 +2945,7 @@
       "Name": "Bob Ross",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "achPennyPincher",
@@ -2980,7 +2985,7 @@
       "Name": "Cargo hub",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "achTopSpeed120",
@@ -3043,15 +3048,15 @@
     {
       "ID": "dgl390n",
       "IsBase": true,
-      "Progressed": 1428,
+      "Progressed": 1429,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-07-15T20:00:09.728068+00:00",
-  "LastChanged_Achievements": "2023-07-15T22:03:44.7103692+00:00",
+  "LastChanged_Achievements": "2023-07-15T23:03:34.1714257+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:44.8284102+00:00",
-  "LastUpdate_Ratings": "2023-07-15T22:01:13.4141349+00:00",
-  "LastUpdate_Achievements": "2023-07-15T22:03:44.7104963+00:00"
+  "LastUpdate_Ratings": "2023-07-15T23:00:25.997951+00:00",
+  "LastUpdate_Achievements": "2023-07-15T23:03:34.1714809+00:00"
 }

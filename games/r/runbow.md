@@ -5,18 +5,18 @@ Rating: 4.46 (Ranked 611)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~130,711 |
-| My First Runbow | 50.00% | ~123,312 |
-| It's The Fall | 26.00% | ~64,122 |
-| Be Aggressive | 21.00% | ~51,791 |
-| The Stunner | 21.00% | ~51,791 |
+| In The Zone | 53.00% | ~130,712 |
+| My First Runbow | 50.00% | ~123,314 |
+| It's The Fall | 26.00% | ~64,123 |
+| Be Aggressive | 21.00% | ~51,792 |
+| The Stunner | 21.00% | ~51,792 |
 | Curator | 20.00% | ~49,325 |
-| Crowning Around | 18.00% | ~44,392 |
-| Can You Dig It? | 17.00% | ~41,926 |
+| Crowning Around | 18.00% | ~44,393 |
+| Can You Dig It? | 17.00% | ~41,927 |
 | You Juan-A-Go? | 16.00% | ~39,460 |
 | Chan-tastic | 15.00% | ~36,994 |
 | Muddy Waters | 14.00% | ~34,528 |
-| Toasty! | 13.00% | ~32,061 |
+| Toasty! | 13.00% | ~32,062 |
 | Lazy Laser | 8.00% | ~19,730 |
 | Into The Drift | 7.00% | ~17,264 |
 | Ready? Fight! | 7.00% | ~17,264 |
@@ -24,17 +24,17 @@ Rating: 4.46 (Ranked 611)
 | Butt Butt | 6.00% | ~14,798 |
 | He Who Laughs Last | 3.00% | ~7,399 |
 | Shoo, Cat! | 3.00% | ~7,399 |
-| And You're Okay | 2.00% | ~4,932 |
-| Blotbuster | 2.00% | ~4,932 |
-| Thunderstruck | 2.00% | ~4,932 |
+| And You're Okay | 2.00% | ~4,933 |
+| Blotbuster | 2.00% | ~4,933 |
+| Thunderstruck | 2.00% | ~4,933 |
 | Just A Bit | 1.00% | ~2,466 |
 | Tubular, Dude | 1.00% | ~2,466 |
 | What A Trip | 0.90% | ~2,220 |
 | Here We Go! | 0.80% | ~1,973 |
 | Please The King | 0.80% | ~1,973 |
 | Clear-Cut | 0.50% | ~1,233 |
-| Breaking Out | 0.40% | ~986 |
-| Disposable | 0.40% | ~986 |
+| Breaking Out | 0.40% | ~987 |
+| Disposable | 0.40% | ~987 |
 | A Winner Is You | 0.20% | ~493 |
 | Final Nightmare | 0.20% | ~493 |
 | I'm Here All Night | 0.20% | ~493 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 611)
 | Talent Scout | 0.10% | ~247 |
 | True Completionist | 0.10% | ~247 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246,625 (Ranked 43)  
+Progressed: 246,627 (Ranked 43)  
 Completed: 3 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 3 (0.00%) (Ranked 236)
 | 2023-07-12 | 246,467 | 3 |
 | 2023-07-13 | 246,513 | 3 |
 | 2023-07-14 | 246,575 | 3 |
-| 2023-07-15 | 246,625 | 3 |
+| 2023-07-15 | 246,627 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

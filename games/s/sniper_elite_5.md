@@ -55,6 +55,7 @@ Rating: 4.44 (Ranked 643)
 | Eagle Eyed | 0.40% | ~13 |
 | Locomotion Commotion | 0.40% | ~13 |
 | Last Resort | 0.40% | ~13 |
+| Out of Scope | 0.30% | ~10 |
 | Up close and personal | 0.30% | ~10 |
 | Shoot for the Moon | 0.30% | ~10 |
 | If You Go Down To The Woods Today | 0.30% | ~10 |
@@ -64,7 +65,6 @@ Rating: 4.44 (Ranked 643)
 | Master of Secondaries | 0.20% | ~7 |
 | Master of Rifles | 0.20% | ~7 |
 | Master-at-arms | 0.20% | ~7 |
-| Out of Scope | 0.20% | ~7 |
 | Sight Beyond Sights | 0.20% | ~7 |
 | Can't Outrun A Bullet | 0.20% | ~7 |
 | Führerious Repetition | 0.20% | ~6 |

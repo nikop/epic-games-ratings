@@ -17,7 +17,7 @@ Rating: 4.49 (Ranked 577)
 | Mind the Gap | 64.00% | ~1,003 |
 | All around the World | 62.00% | ~972 |
 | Right through the middle | 56.00% | ~878 |
-| Facility Manager | 53.00% | ~831 |
+| Facility Manager | 54.00% | ~846 |
 | Poor Devil | 53.00% | ~831 |
 | Producer | 50.00% | ~784 |
 | Apprentice | 42.00% | ~658 |
@@ -31,8 +31,8 @@ Rating: 4.49 (Ranked 577)
 | All mine | 29.00% | ~454 |
 | Mole | 29.00% | ~454 |
 | Socializer | 28.00% | ~439 |
+| General Manager | 26.00% | ~407 |
 | Country Life | 26.00% | ~407 |
-| General Manager | 25.00% | ~392 |
 | Hostile Takeover | 25.00% | ~392 |
 | Seven at one stroke | 24.00% | ~376 |
 | Trailblazer | 20.00% | ~313 |

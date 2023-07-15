@@ -33,12 +33,12 @@ Rating: 4.06 (Ranked 900)
 | Hunter | 10.00% | ~165 |
 | Relic Of The Past | 10.00% | ~165 |
 | Scroll Master | 10.00% | ~165 |
+| The power of Awakening | 10.00% | ~165 |
 | Daily Quest Completionist | 9.00% | ~148 |
 | Four Leaf Clover | 9.00% | ~148 |
 | Frostfire Liberator | 9.00% | ~148 |
 | Mastery | 9.00% | ~148 |
 | Moving Up The Ladder | 9.00% | ~148 |
-| The power of Awakening | 9.00% | ~148 |
 | The father of Dragons | 8.00% | ~132 |
 | Here We Go Again | 7.00% | ~115 |
 | Master Enchanter | 7.00% | ~115 |

@@ -23,6 +23,7 @@ Rating: 4.87 (Ranked 24)
 | Z-shielding's got nothing on us! | 1.00% | ~34 |
 | Out in a puff of smoke | 1.00% | ~34 |
 | Perfect Parry | 1.00% | ~34 |
+| Perfecter Parry-er! | 1.00% | ~34 |
 | Uh, they were broken when I got here | 1.00% | ~34 |
 | Kissing the sky! | 1.00% | ~34 |
 | I look cool. But I can look COOLER. | 1.00% | ~34 |
@@ -30,7 +31,6 @@ Rating: 4.87 (Ranked 24)
 | Alright, that felt AWESOME! | 1.00% | ~34 |
 | You can pet the cat! | 1.00% | ~34 |
 | Well that was a rush! | 0.90% | ~31 |
-| Perfecter Parry-er! | 0.90% | ~31 |
 | Does that say weakpoint? | 0.70% | ~24 |
 | That's a lot of junk metal… | 0.60% | ~21 |
 | There's such a thing as TOO helpful | 0.60% | ~21 |
@@ -61,6 +61,7 @@ Rating: 4.87 (Ranked 24)
 | Have we met before? | 0.10% | ~3 |
 | I'm untouchable! | 0.10% | ~3 |
 | You ever parry a volcano? | 0.10% | ~3 |
+| With our powers combined…and to the rhythm… | 0.10% | ~3 |
 | I saw all those hits coming a measure away! | 0.10% | ~3 |
 | Please don't make this awkward | 0.10% | ~2 |
 | That was just EVIL | 0.10% | ~2 |
@@ -74,7 +75,6 @@ Rating: 4.87 (Ranked 24)
 | What a journey it was... | 0.00% | ~0 |
 | I am a good person who likes to help | 0.00% | ~0 |
 | I'm trying to FOCUS HERE! | 0.00% | ~0 |
-| With our powers combined…and to the rhythm… | 0.00% | ~0 |
 | OK, I THINK I know what I'm doing now | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,449 (Ranked 146)  
