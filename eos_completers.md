@@ -25,7 +25,7 @@
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
 | 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.49% |
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
-| 26 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.89% |
+| 26 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.69% |
 | 27 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.48% |
 | 28 | [Ravenlok](games/r/ravenlok.md) | 7.45% |
 | 29 | [Time Loader](games/t/time_loader.md) | 7.21% |
@@ -121,8 +121,8 @@
 | 119 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.60% |
 | 120 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.59% |
 | 121 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.58% |
-| 122 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.57% |
-| 123 | [Grindstone](games/g/grindstone.md) | 0.56% |
+| 122 | [Grindstone](games/g/grindstone.md) | 0.56% |
+| 122 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.56% |
 | 124 | [Potion Permit](games/p/potion_permit.md) | 0.55% |
 | 125 | [The Surge 2](games/t/the_surge_2.md) | 0.54% |
 | 126 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.53% |
