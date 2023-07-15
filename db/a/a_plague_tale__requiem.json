@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 289,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 147,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -350,9 +350,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12029,
+  "EOS_Progressed": 12030,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -5190,6 +5190,11 @@
       "Time": "2023-07-15T07:08:23.7373874+00:00",
       "NumProgressed": 12029,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-07-15T08:07:16.0092119+00:00",
+      "NumProgressed": 12030,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 35,
@@ -5201,7 +5206,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 11067
+      "UsersEstimate": 11068
     },
     {
       "ID": "ACH_02",
@@ -5209,7 +5214,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 9503
+      "UsersEstimate": 9504
     },
     {
       "ID": "ACH_03",
@@ -5217,7 +5222,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 8781
+      "UsersEstimate": 8782
     },
     {
       "ID": "ACH_04",
@@ -5225,7 +5230,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 8420
+      "UsersEstimate": 8421
     },
     {
       "ID": "ACH_05",
@@ -5233,7 +5238,7 @@
       "Name": "In our Wake",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 8059
+      "UsersEstimate": 8060
     },
     {
       "ID": "ACH_06",
@@ -5249,7 +5254,7 @@
       "Name": "Felons",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 7458
+      "UsersEstimate": 7459
     },
     {
       "ID": "ACH_08",
@@ -5257,7 +5262,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 7217
+      "UsersEstimate": 7218
     },
     {
       "ID": "ACH_09",
@@ -5273,7 +5278,7 @@
       "Name": "Bloodline",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 6255
+      "UsersEstimate": 6256
     },
     {
       "ID": "ACH_11",
@@ -5289,7 +5294,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 5413
+      "UsersEstimate": 5414
     },
     {
       "ID": "ACH_13",
@@ -5297,7 +5302,7 @@
       "Name": "Nothing Left",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 4691
+      "UsersEstimate": 4692
     },
     {
       "ID": "ACH_14",
@@ -5305,7 +5310,7 @@
       "Name": "Healing our Wounds",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 4330
+      "UsersEstimate": 4331
     },
     {
       "ID": "ACH_15",
@@ -5345,7 +5350,7 @@
       "Name": "Ornithologist",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "ACH_20",
@@ -5409,7 +5414,7 @@
       "Name": "Night guard",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 5172
+      "UsersEstimate": 5173
     },
     {
       "ID": "ACH_28",
@@ -5449,7 +5454,7 @@
       "Name": "Perfect shot",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 2646
+      "UsersEstimate": 2647
     },
     {
       "ID": "ACH_33",
@@ -5480,7 +5485,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 12029,
+      "Progressed": 12030,
       "Completed": 37
     }
   ],
@@ -5488,8 +5493,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-07-11T18:59:53.0039364+00:00",
-  "LastChanged_Achievements": "2023-07-15T07:08:23.737387+00:00",
+  "LastChanged_Achievements": "2023-07-15T08:07:16.0092115+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:24.3188999+00:00",
-  "LastUpdate_Ratings": "2023-07-15T07:01:03.7855033+00:00",
-  "LastUpdate_Achievements": "2023-07-15T07:08:23.7374311+00:00"
+  "LastUpdate_Ratings": "2023-07-15T08:00:03.345116+00:00",
+  "LastUpdate_Achievements": "2023-07-15T08:07:16.0092687+00:00"
 }

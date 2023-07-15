@@ -1541,7 +1541,7 @@
   ],
   "EOS_Progressed": 12848,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8242,9 +8242,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_JUST",
       "SetID": "7l38kb8",
       "Name": "Just",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 6809
+      "UsersEstimate": 6938
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_KEYSTONE",
@@ -10032,8 +10032,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-07-09T22:58:11.6246548+00:00",
-  "LastChanged_Achievements": "2023-07-15T07:05:03.3320132+00:00",
+  "LastChanged_Achievements": "2023-07-15T08:04:28.9276634+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:33.7515284+00:00",
-  "LastUpdate_Ratings": "2023-07-15T06:58:53.0955803+00:00",
-  "LastUpdate_Achievements": "2023-07-15T07:05:03.3326945+00:00"
+  "LastUpdate_Ratings": "2023-07-15T07:58:23.2335491+00:00",
+  "LastUpdate_Achievements": "2023-07-15T08:04:28.929299+00:00"
 }

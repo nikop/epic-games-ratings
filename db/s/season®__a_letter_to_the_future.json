@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1143,
+  "EOS_Progressed": 1144,
   "EOS_Completed": 43,
   "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 1,
@@ -1846,6 +1846,11 @@
       "Time": "2023-07-14T22:08:26.2317929+00:00",
       "NumProgressed": 1143,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-15T08:06:58.5534085+00:00",
+      "NumProgressed": 1144,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 16,
@@ -1857,7 +1862,7 @@
       "Name": "Artist Assistant",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_DEEPLISTENER",
@@ -1913,7 +1918,7 @@
       "Name": "Home Leaver",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 937
+      "UsersEstimate": 938
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -1921,7 +1926,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 937
+      "UsersEstimate": 938
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -1984,7 +1989,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1143,
+      "Progressed": 1144,
       "Completed": 43
     }
   ],
@@ -1992,8 +1997,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-07-15T07:08:14.3258131+00:00",
+  "LastChanged_Achievements": "2023-07-15T08:06:58.5534079+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:29.9798094+00:00",
-  "LastUpdate_Ratings": "2023-07-15T06:59:49.4244805+00:00",
-  "LastUpdate_Achievements": "2023-07-15T07:08:14.3258316+00:00"
+  "LastUpdate_Ratings": "2023-07-15T07:59:07.7544734+00:00",
+  "LastUpdate_Achievements": "2023-07-15T08:06:58.5534319+00:00"
 }

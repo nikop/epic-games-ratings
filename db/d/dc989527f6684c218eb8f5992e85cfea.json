@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7083,
+  "EOS_Progressed": 7085,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 800,
+  "EOS_NewPlayers": 791,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3126,6 +3126,11 @@
       "Time": "2023-07-15T06:02:33.11155+00:00",
       "NumProgressed": 7083,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-15T08:01:28.1859509+00:00",
+      "NumProgressed": 7085,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -3209,7 +3214,7 @@
       "Name": "You tried your best!",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3046
+      "UsersEstimate": 3047
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -3217,15 +3222,15 @@
       "Name": "First words",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_ONLY_ONE_TO_NOT_GUESS_CORRECTLY",
       "SetID": "5ck0pmd",
       "Name": "Facepalm",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1204
+      "UsersEstimate": 1275
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -3321,7 +3326,7 @@
       "Name": "First Prize!",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ACH_WIN_A_GAME_SCRIBBLE_IT",
@@ -3336,14 +3341,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 7083,
+      "Progressed": 7085,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-07-15T07:02:48.6651989+00:00",
+  "LastChanged_Achievements": "2023-07-15T08:01:28.1859503+00:00",
   "LastUpdate_AppInfo": "2023-07-14T18:57:14.8780974+00:00",
-  "LastUpdate_Ratings": "2023-07-15T06:57:10.9719761+00:00",
-  "LastUpdate_Achievements": "2023-07-15T07:02:48.6652318+00:00"
+  "LastUpdate_Ratings": "2023-07-15T07:57:05.4743486+00:00",
+  "LastUpdate_Achievements": "2023-07-15T08:01:28.1859928+00:00"
 }

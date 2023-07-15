@@ -496,9 +496,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3041,
+  "EOS_Progressed": 3042,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3146,6 +3146,11 @@
       "Time": "2023-07-14T23:05:19.4402577+00:00",
       "NumProgressed": 3041,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-15T08:05:33.7032036+00:00",
+      "NumProgressed": 3042,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 42,
@@ -3189,7 +3194,7 @@
       "Name": "Blood and justice",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "CordonBleu_28",
@@ -3229,7 +3234,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "ForAllAurai_8",
@@ -3253,7 +3258,7 @@
       "Name": "Hold my Mead and Watch This",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "HomeSweetHome_25",
@@ -3349,7 +3354,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1946
+      "UsersEstimate": 1947
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -3357,7 +3362,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -3381,7 +3386,7 @@
       "Name": "Tapped!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -3477,7 +3482,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2281
+      "UsersEstimate": 2282
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -3492,15 +3497,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3041,
+      "Progressed": 3042,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-07-11T02:15:21.6079736+00:00",
-  "LastChanged_Achievements": "2023-07-15T07:06:27.0912271+00:00",
+  "LastChanged_Achievements": "2023-07-15T08:05:33.7032031+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:26.5691499+00:00",
-  "LastUpdate_Ratings": "2023-07-15T06:58:45.1270857+00:00",
-  "LastUpdate_Achievements": "2023-07-15T07:06:27.0912665+00:00"
+  "LastUpdate_Ratings": "2023-07-15T07:58:19.2297929+00:00",
+  "LastUpdate_Achievements": "2023-07-15T08:05:33.7032552+00:00"
 }

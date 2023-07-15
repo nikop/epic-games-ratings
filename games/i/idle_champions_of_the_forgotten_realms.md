@@ -8,6 +8,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Cursed Farmer | 0.20% | ~423 |
 | The Ring of Regeneration | 0.20% | ~423 |
+| The Crumbling Temple | 0.20% | ~423 |
 | Seeking Allies | 0.20% | ~423 |
 | Are Ya Chicken? | 0.20% | ~423 |
 | Mad Cow Disease | 0.20% | ~423 |
@@ -29,7 +30,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Trepidatious Trio | 0.10% | ~212 |
 | Our Time To Shine | 0.10% | ~212 |
 | Review by the Blackstaff | 0.10% | ~178 |
-| The Crumbling Temple | 0.10% | ~212 |
 | The Death Curse | 0.10% | ~212 |
 | Treasure Hunters | 0.10% | ~212 |
 | The Guardian of Orolunga | 0.10% | ~212 |
@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211,641 (Ranked 52)  
+Progressed: 211,663 (Ranked 52)  
 Completed: 2,050 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -600,10 +600,10 @@ Completed: 2,050 (0.97%) (Ranked 102)
 | 2023-07-12 | 210,649 | 2,046 |
 | 2023-07-13 | 211,069 | 2,049 |
 | 2023-07-14 | 211,507 | 2,050 |
-| 2023-07-15 | 211,641 | 2,050 |
+| 2023-07-15 | 211,663 | 2,050 |
 ## Awards
 Max (Diverse Characters): 5,033  (Ranked 66)  
-Sum: 30,517 (Ranked 38)  
+Sum: 30,520 (Ranked 38)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -613,7 +613,7 @@ Diff (max vs sum): 28
 | This game is Relaxing | 4,552 |
 | This game has Amazing Characters | 4,004 |
 | This game is Highly Recommended | 4,003 |
-| This game has Playful Visuals | 3,299 |
+| This game has Playful Visuals | 3,302 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -787,4 +787,4 @@ Diff (max vs sum): 28
 | 2023-07-12 | 4.05 | - | 5,025 | 30,489 |
 | 2023-07-13 | 4.05 | - | 5,029 | 30,497 |
 | 2023-07-14 | 4.05 | - | 5,033 | 30,510 |
-| 2023-07-15 | 4.05 | - | 5,033 | 30,517 |
+| 2023-07-15 | 4.05 | - | 5,033 | 30,520 |

@@ -888,9 +888,9 @@
       "ID": "Killed100EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Killing Spree",
-      "Percentage": 67,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "Killed10BossesAchievement",
@@ -1008,9 +1008,9 @@
       "ID": "PerksUnlocked5Achievement",
       "SetID": "a8djcgh",
       "Name": "5Gb HDD",
-      "Percentage": 47,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "PerksUnlocked80Achievement",
@@ -1343,8 +1343,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-07-15T07:04:57.9233797+00:00",
+  "LastChanged_Achievements": "2023-07-15T08:04:24.8015429+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:43.6436476+00:00",
-  "LastUpdate_Ratings": "2023-07-15T07:00:06.6834524+00:00",
-  "LastUpdate_Achievements": "2023-07-15T07:04:57.9235337+00:00"
+  "LastUpdate_Ratings": "2023-07-15T07:59:21.7368781+00:00",
+  "LastUpdate_Achievements": "2023-07-15T08:04:24.8017497+00:00"
 }

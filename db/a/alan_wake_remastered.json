@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57350,
+  "EOS_Progressed": 57352,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 338,
+  "EOS_NewPlayers": 339,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7987,6 +7987,11 @@
       "Time": "2023-07-15T07:03:02.7550163+00:00",
       "NumProgressed": 57350,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-07-15T08:01:38.7565916+00:00",
+      "NumProgressed": 57352,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 67,
@@ -7998,7 +8003,7 @@
       "Name": "Follow the Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 19499
+      "UsersEstimate": 19500
     },
     {
       "ID": "02",
@@ -8038,7 +8043,7 @@
       "Name": "Park Ranger",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 8602
+      "UsersEstimate": 8603
     },
     {
       "ID": "07",
@@ -8046,7 +8051,7 @@
       "Name": "Heavy Metal",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6308
+      "UsersEstimate": 6309
     },
     {
       "ID": "08",
@@ -8054,7 +8059,7 @@
       "Name": "Iron Horse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6308
+      "UsersEstimate": 6309
     },
     {
       "ID": "09",
@@ -8166,7 +8171,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6308
+      "UsersEstimate": 6309
     },
     {
       "ID": "23",
@@ -8206,7 +8211,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6308
+      "UsersEstimate": 6309
     },
     {
       "ID": "28",
@@ -8214,7 +8219,7 @@
       "Name": "Come One, Come All",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6308
+      "UsersEstimate": 6309
     },
     {
       "ID": "29",
@@ -8246,7 +8251,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14911
+      "UsersEstimate": 14912
     },
     {
       "ID": "33",
@@ -8334,7 +8339,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8602
+      "UsersEstimate": 8603
     },
     {
       "ID": "44",
@@ -8398,7 +8403,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1665
+      "UsersEstimate": 1666
     },
     {
       "ID": "52",
@@ -8533,21 +8538,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57350,
+      "Progressed": 57352,
       "Completed": 58
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20818,
+      "Progressed": 20820,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-15T07:03:02.7550156+00:00",
+  "LastChanged_Achievements": "2023-07-15T08:01:38.7565909+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:10.5196415+00:00",
-  "LastUpdate_Ratings": "2023-07-15T06:58:27.4147068+00:00",
-  "LastUpdate_Achievements": "2023-07-15T07:03:02.7551044+00:00"
+  "LastUpdate_Ratings": "2023-07-15T07:58:01.4088733+00:00",
+  "LastUpdate_Achievements": "2023-07-15T08:01:38.7567029+00:00"
 }

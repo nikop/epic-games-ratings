@@ -6643,10 +6643,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 38124,
       "NumberOfAwardsMax": 4536
+    },
+    {
+      "Time": "2023-07-15T08:00:19.254548+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 38126,
+      "NumberOfAwardsMax": 4536
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 38124,
+  "NumberOfAwards": 38126,
   "NumberOfAwardsMax": 4536,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6690,7 +6696,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 3821
+      "Count": 3823
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -6723,9 +6729,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 45470,
+  "EOS_Progressed": 45471,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 319,
+  "EOS_NewPlayers": 320,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14143,6 +14149,11 @@
       "Time": "2023-07-15T07:03:44.2800276+00:00",
       "NumProgressed": 45470,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-15T08:03:19.5367126+00:00",
+      "NumProgressed": 45471,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 43,
@@ -14154,7 +14165,7 @@
       "Name": "Clucky Streak",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 6820
+      "UsersEstimate": 6821
     },
     {
       "ID": "BreedCows",
@@ -14298,7 +14309,7 @@
       "Name": "Large-scale supplier",
       "Percentage": 15,
       "XP": 55,
-      "UsersEstimate": 6820
+      "UsersEstimate": 6821
     },
     {
       "ID": "HarvestedFirst",
@@ -14306,7 +14317,7 @@
       "Name": "Own use",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 34557
+      "UsersEstimate": 34558
     },
     {
       "ID": "HorseJumps",
@@ -14362,7 +14373,7 @@
       "Name": "Hard work pays off",
       "Percentage": 53,
       "XP": 55,
-      "UsersEstimate": 24099
+      "UsersEstimate": 24100
     },
     {
       "ID": "NumBeehives",
@@ -14442,7 +14453,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 28646
+      "UsersEstimate": 28647
     },
     {
       "ID": "Stones",
@@ -14450,7 +14461,7 @@
       "Name": "Rock on",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5456
+      "UsersEstimate": 5457
     },
     {
       "ID": "TractorDriving",
@@ -14458,7 +14469,7 @@
       "Name": "Field Trip",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 19552
+      "UsersEstimate": 19553
     },
     {
       "ID": "TruckDriving",
@@ -14497,15 +14508,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 45470,
+      "Progressed": 45471,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
-  "LastChanged": "2023-07-15T07:01:24.9182402+00:00",
-  "LastChanged_Achievements": "2023-07-15T07:03:44.2800272+00:00",
+  "LastChanged": "2023-07-15T08:00:19.2545477+00:00",
+  "LastChanged_Achievements": "2023-07-15T08:03:19.5367121+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:40.9029546+00:00",
-  "LastUpdate_Ratings": "2023-07-15T07:01:24.9182407+00:00",
-  "LastUpdate_Achievements": "2023-07-15T07:03:44.280095+00:00"
+  "LastUpdate_Ratings": "2023-07-15T08:00:19.2545487+00:00",
+  "LastUpdate_Achievements": "2023-07-15T08:03:19.536795+00:00"
 }

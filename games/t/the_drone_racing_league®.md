@@ -5,7 +5,7 @@ Rating: 4.51 (Ranked 541)
 Number of Ratings: 36  (23.09.2022)  
 ## Awards
 Max (Extremely Fun): 63  (Ranked 383)  
-Sum: 462 (Ranked 301)  
+Sum: 463 (Ranked 301)  
 Diff (max vs sum): 82  
 | Award | Count |
 | ----- | ----- |
@@ -19,7 +19,7 @@ Diff (max vs sum): 82
 | This game has Competitive Players | 41 |
 | This game has a Competitive Community | 40 |
 | This game has Amazing Storytelling | 37 |
-| This game has Challenging Combat | 27 |
+| This game has Challenging Combat | 28 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -94,3 +94,4 @@ Diff (max vs sum): 82
 | 2023-06-23 | 4.51 | - | 63 | 421 |
 | 2023-06-25 | 4.51 | - | 63 | 422 |
 | 2023-07-14 | 4.51 | - | 63 | 462 |
+| 2023-07-15 | 4.51 | - | 63 | 463 |
