@@ -6,6 +6,7 @@ Rating: 4.19 (Ranked 847)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Get a Grip | 3.00% | ~472 |
+| Paper Jams | 3.00% | ~472 |
 | Keep Fighting | 3.00% | ~109 |
 | You Need a Gun | 2.00% | ~314 |
 | Flesh Wound | 2.00% | ~314 |
@@ -15,7 +16,6 @@ Rating: 4.19 (Ranked 847)
 | Workplace Hazard | 2.00% | ~314 |
 | Float Like A Butterfly | 2.00% | ~314 |
 | Reforged | 2.00% | ~314 |
-| Paper Jams | 2.00% | ~314 |
 | Without A Paddle | 2.00% | ~314 |
 | In the Pipe, Five by Five | 2.00% | ~314 |
 | What Lies Beneath | 2.00% | ~314 |

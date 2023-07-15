@@ -28,8 +28,8 @@ Rating: 4.87 (Ranked 24)
 | Who put gears in there? | 1.00% | ~34 |
 | Alright, that felt AWESOME! | 1.00% | ~34 |
 | You can pet the cat! | 1.00% | ~34 |
+| I look cool. But I can look COOLER. | 0.90% | ~31 |
 | Perfecter Parry-er! | 0.80% | ~28 |
-| I look cool. But I can look COOLER. | 0.80% | ~28 |
 | Well that was a rush! | 0.70% | ~24 |
 | Does that say weakpoint? | 0.70% | ~24 |
 | That's a lot of junk metal… | 0.60% | ~21 |

@@ -296,7 +296,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15455,
+  "EOS_Progressed": 15456,
   "EOS_Completed": 97,
   "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 1,
@@ -6906,6 +6906,11 @@
       "Time": "2023-07-15T05:04:13.169623+00:00",
       "NumProgressed": 15455,
       "NumCompleted": 97
+    },
+    {
+      "Time": "2023-07-15T09:04:51.3532132+00:00",
+      "NumProgressed": 15456,
+      "NumCompleted": 97
     }
   ],
   "TotalAchievements": 16,
@@ -6925,7 +6930,7 @@
       "Name": "Burning For You",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 4327
+      "UsersEstimate": 4328
     },
     {
       "ID": "Deadline",
@@ -7013,7 +7018,7 @@
       "Name": "Shooting Shark",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 7882
+      "UsersEstimate": 7883
     },
     {
       "ID": "Sole_Survivor",
@@ -7021,7 +7026,7 @@
       "Name": "Sole Survivor",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 5718
+      "UsersEstimate": 5719
     },
     {
       "ID": "Still_Burning",
@@ -7044,15 +7049,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 15455,
+      "Progressed": 15456,
       "Completed": 97
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-05-26T21:58:51.5297179+00:00",
-  "LastChanged_Achievements": "2023-07-15T08:03:53.970224+00:00",
+  "LastChanged_Achievements": "2023-07-15T09:04:51.3532127+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:59.2106647+00:00",
-  "LastUpdate_Ratings": "2023-07-15T07:59:38.3744868+00:00",
-  "LastUpdate_Achievements": "2023-07-15T08:03:53.9702752+00:00"
+  "LastUpdate_Ratings": "2023-07-15T09:00:25.9306603+00:00",
+  "LastUpdate_Achievements": "2023-07-15T09:04:51.3532649+00:00"
 }

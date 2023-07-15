@@ -16,7 +16,7 @@ Rating: 3.54 (Ranked 951)
 | Sucks To Be You | 43.00% | ~740 |
 | Welcome to the Neighborhood | 38.00% | ~654 |
 | Fly Fisher | 36.00% | ~620 |
-| Throw The First Stone | 35.00% | ~602 |
+| Throw The First Stone | 36.00% | ~620 |
 | Enter of Your Own Free Will | 33.00% | ~568 |
 | Heart Attack | 33.00% | ~568 |
 | Skin of Their Teeth | 31.00% | ~534 |
@@ -29,7 +29,7 @@ Rating: 3.54 (Ranked 951)
 | You Clean It Up | 11.00% | ~189 |
 | Block Party | 8.00% | ~138 |
 | Starve the Beast | 8.00% | ~138 |
-| From the Shadows | 6.00% | ~103 |
+| From the Shadows | 7.00% | ~120 |
 | Bell-ringer | 5.00% | ~86 |
 | Revelations | 4.00% | ~69 |
 | Contingency Plans | 4.00% | ~69 |

@@ -442,9 +442,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 501818,
+  "EOS_Progressed": 501828,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3129,
+  "EOS_NewPlayers": 3118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9492,6 +9492,11 @@
       "Time": "2023-07-15T08:04:32.5615608+00:00",
       "NumProgressed": 501818,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-15T09:05:25.4315056+00:00",
+      "NumProgressed": 501828,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 45,
@@ -9503,7 +9508,7 @@
       "Name": "A Bit On The Side",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 130473
+      "UsersEstimate": 130475
     },
     {
       "ID": "Backdoor",
@@ -9511,7 +9516,7 @@
       "Name": "Backdoor",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 120436
+      "UsersEstimate": 120439
     },
     {
       "ID": "BeforeYouWreckYourself",
@@ -9519,7 +9524,7 @@
       "Name": "Before You Wreck Yourself",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 10036
+      "UsersEstimate": 10037
     },
     {
       "ID": "BetBetBet",
@@ -9527,7 +9532,7 @@
       "Name": "Bet Bet Bet",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 45164
+      "UsersEstimate": 45165
     },
     {
       "ID": "BlindmansBluff",
@@ -9535,7 +9540,7 @@
       "Name": "Blindman\u0027s Bluff",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 40145
+      "UsersEstimate": 40146
     },
     {
       "ID": "BluffingEh",
@@ -9599,7 +9604,7 @@
       "Name": "Cold Caller",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 190691
+      "UsersEstimate": 190695
     },
     {
       "ID": "DeadlyAssassin",
@@ -9607,7 +9612,7 @@
       "Name": "Deadly Assassin",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 75273
+      "UsersEstimate": 75274
     },
     {
       "ID": "DogEatDog",
@@ -9615,7 +9620,7 @@
       "Name": "Dog Eat Dog",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 35127
+      "UsersEstimate": 35128
     },
     {
       "ID": "DressToImpress",
@@ -9631,7 +9636,7 @@
       "Name": "Give Your Regards To Broadway",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 30109
+      "UsersEstimate": 30110
     },
     {
       "ID": "GoForIt",
@@ -9647,7 +9652,7 @@
       "Name": "Gutshot",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 65236
+      "UsersEstimate": 65238
     },
     {
       "ID": "Handy",
@@ -9655,7 +9660,7 @@
       "Name": "Handy",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 200727
+      "UsersEstimate": 200731
     },
     {
       "ID": "HoldingYourOwn",
@@ -9687,7 +9692,7 @@
       "Name": "Keep Your Heads Up",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 10036
+      "UsersEstimate": 10037
     },
     {
       "ID": "Moneymaker",
@@ -9703,7 +9708,7 @@
       "Name": "Never Give Up",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 35127
+      "UsersEstimate": 35128
     },
     {
       "ID": "OnTheButton",
@@ -9735,7 +9740,7 @@
       "Name": "Poker Joker",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 40145
+      "UsersEstimate": 40146
     },
     {
       "ID": "PokerShowdown",
@@ -9751,7 +9756,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 381382
+      "UsersEstimate": 381389
     },
     {
       "ID": "ProPlayer",
@@ -9767,7 +9772,7 @@
       "Name": "Quack Quack",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 35127
+      "UsersEstimate": 35128
     },
     {
       "ID": "RankAmateur",
@@ -9775,7 +9780,7 @@
       "Name": "Rank Amateur",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 100364
+      "UsersEstimate": 100366
     },
     {
       "ID": "RegularPunter",
@@ -9791,7 +9796,7 @@
       "Name": "Risk It For A Biscuit",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 65236
+      "UsersEstimate": 65238
     },
     {
       "ID": "RockAndHighRoller",
@@ -9815,7 +9820,7 @@
       "Name": "Showoff",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 65236
+      "UsersEstimate": 65238
     },
     {
       "ID": "TheBiggerTheyAre",
@@ -9823,7 +9828,7 @@
       "Name": "The Bigger They Are",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 35127
+      "UsersEstimate": 35128
     },
     {
       "ID": "ThreeWay",
@@ -9831,7 +9836,7 @@
       "Name": "Three Way",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 90327
+      "UsersEstimate": 90329
     },
     {
       "ID": "TopDog",
@@ -9847,7 +9852,7 @@
       "Name": "Total Knock Out",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 35127
+      "UsersEstimate": 35128
     },
     {
       "ID": "WHIP",
@@ -9855,14 +9860,14 @@
       "Name": "W.H.I.P.",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 55200
+      "UsersEstimate": 55201
     }
   ],
   "AchievementSets": [
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 501818,
+      "Progressed": 501828,
       "Completed": 1
     }
   ],
@@ -9870,8 +9875,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-07-15T05:00:32.0414614+00:00",
-  "LastChanged_Achievements": "2023-07-15T08:04:32.5615601+00:00",
+  "LastChanged_Achievements": "2023-07-15T09:05:25.4315052+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:57.8313042+00:00",
-  "LastUpdate_Ratings": "2023-07-15T08:00:39.8764663+00:00",
-  "LastUpdate_Achievements": "2023-07-15T08:04:32.5616563+00:00"
+  "LastUpdate_Ratings": "2023-07-15T09:01:41.9158757+00:00",
+  "LastUpdate_Achievements": "2023-07-15T09:05:25.4316037+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -114,7 +114,7 @@
   "Tags": [],
   "EOS_Progressed": 3446,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4569,9 +4569,9 @@
       "ID": "Ach042",
       "SetID": "12n4k20",
       "Name": "I look cool. But I can look COOLER.",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 31
     },
     {
       "ID": "Ach043",
@@ -4824,8 +4824,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-15T08:02:12.6698989+00:00",
+  "LastChanged_Achievements": "2023-07-15T09:03:29.2834172+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:27.8055794+00:00",
-  "LastUpdate_Ratings": "2023-07-15T07:59:03.5320055+00:00",
-  "LastUpdate_Achievements": "2023-07-15T08:02:12.6700028+00:00"
+  "LastUpdate_Ratings": "2023-07-15T08:59:42.1874508+00:00",
+  "LastUpdate_Achievements": "2023-07-15T09:03:29.2835187+00:00"
 }

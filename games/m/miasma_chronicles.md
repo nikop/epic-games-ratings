@@ -57,7 +57,7 @@ Rating: 4.39 (Ranked 703)
 | Shadow Boxin' | 0.80% | ~10 |
 | Goaaaaal! | 0.70% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,223 (Ranked 180)  
+Progressed: 1,223 (Ranked 181)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |

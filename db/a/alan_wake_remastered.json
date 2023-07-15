@@ -2,7 +2,7 @@
   "ID": "2e92a78949e2474aa89271b8b893f3b0",
   "Name": "Alan Wake Remastered",
   "ProductSlug": "alan-wake-remastered",
-  "Ranking_Rating": 477,
+  "Ranking_Rating": 478,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 82,
@@ -512,7 +512,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57352,
+  "EOS_Progressed": 57353,
   "EOS_Completed": 58,
   "EOS_NewPlayers": 339,
   "EOS_NewCompleters": 1,
@@ -7992,6 +7992,11 @@
       "Time": "2023-07-15T08:01:38.7565916+00:00",
       "NumProgressed": 57352,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-07-15T09:03:24.7408157+00:00",
+      "NumProgressed": 57353,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 67,
@@ -8035,7 +8040,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10323
+      "UsersEstimate": 10324
     },
     {
       "ID": "06",
@@ -8538,21 +8543,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57352,
+      "Progressed": 57353,
       "Completed": 58
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20820,
+      "Progressed": 20821,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-15T08:01:38.7565909+00:00",
+  "LastChanged_Achievements": "2023-07-15T09:03:24.740815+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:10.5196415+00:00",
-  "LastUpdate_Ratings": "2023-07-15T07:58:01.4088733+00:00",
-  "LastUpdate_Achievements": "2023-07-15T08:01:38.7567029+00:00"
+  "LastUpdate_Ratings": "2023-07-15T08:58:28.9933712+00:00",
+  "LastUpdate_Achievements": "2023-07-15T09:03:24.7409279+00:00"
 }
