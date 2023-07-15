@@ -5824,18 +5824,24 @@
       "Rating": 4.71,
       "NumberOfAwards": 27274,
       "NumberOfAwardsMax": 7316
+    },
+    {
+      "Time": "2023-07-15T04:58:57.1429754+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 27275,
+      "NumberOfAwardsMax": 7317
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27274,
-  "NumberOfAwardsMax": 7316,
+  "NumberOfAwards": 27275,
+  "NumberOfAwardsMax": 7317,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7316
+      "Count": 7317
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -5910,7 +5916,7 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 792476,
+  "EOS_Progressed": 792478,
   "EOS_Completed": 44,
   "EOS_NewPlayers": 1028,
   "EOS_NewCompleters": 0,
@@ -15115,6 +15121,11 @@
       "Time": "2023-07-15T03:31:39.32024+00:00",
       "NumProgressed": 792476,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-07-15T05:04:18.209208+00:00",
+      "NumProgressed": 792478,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -15158,7 +15169,7 @@
       "Name": "Awakening",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 158495
+      "UsersEstimate": 158496
     },
     {
       "ID": "BadGirl",
@@ -15238,7 +15249,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 198119
+      "UsersEstimate": 198120
     },
     {
       "ID": "Chivalrous",
@@ -15326,7 +15337,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 182269
+      "UsersEstimate": 182270
     },
     {
       "ID": "Fighter",
@@ -15342,7 +15353,7 @@
       "Name": "Firestarter",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 118871
+      "UsersEstimate": 118872
     },
     {
       "ID": "Freud",
@@ -15606,7 +15617,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 158495
+      "UsersEstimate": 158496
     },
     {
       "ID": "RevenantOfLedechko",
@@ -15646,7 +15657,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 158495
+      "UsersEstimate": 158496
     },
     {
       "ID": "SerialKiller",
@@ -15662,7 +15673,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 87172
+      "UsersEstimate": 87173
     },
     {
       "ID": "Sniper",
@@ -15781,15 +15792,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 792476,
+      "Progressed": 792478,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-07-14T21:59:48.0955934+00:00",
-  "LastChanged_Achievements": "2023-07-15T04:06:11.5615986+00:00",
+  "LastChanged": "2023-07-15T04:58:57.1429751+00:00",
+  "LastChanged_Achievements": "2023-07-15T05:04:18.2092072+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:17.5597924+00:00",
-  "LastUpdate_Ratings": "2023-07-15T04:00:54.6577556+00:00",
-  "LastUpdate_Achievements": "2023-07-15T04:06:11.5617121+00:00"
+  "LastUpdate_Ratings": "2023-07-15T04:58:57.142976+00:00",
+  "LastUpdate_Achievements": "2023-07-15T05:04:18.2094192+00:00"
 }

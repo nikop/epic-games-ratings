@@ -4916,10 +4916,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 30510,
       "NumberOfAwardsMax": 5033
+    },
+    {
+      "Time": "2023-07-15T04:58:35.8806816+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30517,
+      "NumberOfAwardsMax": 5033
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30510,
+  "NumberOfAwards": 30517,
   "NumberOfAwardsMax": 5033,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4939,13 +4945,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4657
+      "Count": 4662
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4550
+      "Count": 4552
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4966,9 +4972,9 @@
       "Count": 3299
     }
   ],
-  "EOS_Progressed": 211598,
+  "EOS_Progressed": 211611,
   "EOS_Completed": 2050,
-  "EOS_NewPlayers": 3343,
+  "EOS_NewPlayers": 3334,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -14086,6 +14092,11 @@
       "Time": "2023-07-15T04:07:38.7228383+00:00",
       "NumProgressed": 211598,
       "NumCompleted": 2050
+    },
+    {
+      "Time": "2023-07-15T05:05:33.4484901+00:00",
+      "NumProgressed": 211611,
+      "NumCompleted": 2050
     }
   ],
   "TotalAchievements": 507,
@@ -15959,9 +15970,9 @@
       "ID": "objective_completed_4",
       "SetID": "cc37lbc",
       "Name": "Are Ya Chicken?",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 423
     },
     {
       "ID": "objective_completed_40",
@@ -18152,21 +18163,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 177872,
+      "Progressed": 177885,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 211598,
+      "Progressed": 211611,
       "Completed": 2050
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-07-14T13:58:35.7820989+00:00",
-  "LastChanged_Achievements": "2023-07-15T04:07:38.7228378+00:00",
+  "LastChanged": "2023-07-15T04:58:35.8806814+00:00",
+  "LastChanged_Achievements": "2023-07-15T05:05:33.4484895+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:48.5227447+00:00",
-  "LastUpdate_Ratings": "2023-07-15T04:00:32.1686045+00:00",
-  "LastUpdate_Achievements": "2023-07-15T04:07:38.7258569+00:00"
+  "LastUpdate_Ratings": "2023-07-15T04:58:35.8806825+00:00",
+  "LastUpdate_Achievements": "2023-07-15T05:05:33.4516331+00:00"
 }

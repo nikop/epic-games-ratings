@@ -78,7 +78,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 66016,
+  "EOS_Progressed": 66019,
   "EOS_Completed": 634,
   "EOS_NewPlayers": 932,
   "EOS_NewCompleters": 24,
@@ -9338,6 +9338,11 @@
       "Time": "2023-07-15T04:09:12.2180555+00:00",
       "NumProgressed": 66016,
       "NumCompleted": 634
+    },
+    {
+      "Time": "2023-07-15T05:06:47.6959612+00:00",
+      "NumProgressed": 66019,
+      "NumCompleted": 634
     }
   ],
   "TotalAchievements": 25,
@@ -9349,7 +9354,7 @@
       "Name": "A Man Of Taste",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1980
+      "UsersEstimate": 1981
     },
     {
       "ID": "Ace In The Hole (Kingfisher)",
@@ -9357,7 +9362,7 @@
       "Name": "Ace in the Hole",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1980
+      "UsersEstimate": 1981
     },
     {
       "ID": "Adios, Friendo",
@@ -9413,7 +9418,7 @@
       "Name": "Fair\u0027s Fair",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1980
+      "UsersEstimate": 1981
     },
     {
       "ID": "HardWorker",
@@ -9421,7 +9426,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 13203
+      "UsersEstimate": 13204
     },
     {
       "ID": "Hearty",
@@ -9429,7 +9434,7 @@
       "Name": "Hearty",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1980
+      "UsersEstimate": 1981
     },
     {
       "ID": "LazyBones",
@@ -9437,7 +9442,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 5941
+      "UsersEstimate": 5942
     },
     {
       "ID": "Magnetic Miracles",
@@ -9453,7 +9458,7 @@
       "Name": "Master, Commander",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 13203
+      "UsersEstimate": 13204
     },
     {
       "ID": "Meaty",
@@ -9461,7 +9466,7 @@
       "Name": "Meaty",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1980
+      "UsersEstimate": 1981
     },
     {
       "ID": "Mechanic",
@@ -9469,7 +9474,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12543
+      "UsersEstimate": 12544
     },
     {
       "ID": "Nice Try",
@@ -9525,7 +9530,7 @@
       "Name": "Taco Toto",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1980
+      "UsersEstimate": 1981
     },
     {
       "ID": "Tape Head",
@@ -9541,14 +9546,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 5281
+      "UsersEstimate": 5282
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 66016,
+      "Progressed": 66019,
       "Completed": 634
     }
   ],
@@ -9556,8 +9561,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-07-12T22:00:34.5799915+00:00",
-  "LastChanged_Achievements": "2023-07-15T04:09:12.2180548+00:00",
+  "LastChanged_Achievements": "2023-07-15T05:06:47.6959607+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:36.9043448+00:00",
-  "LastUpdate_Ratings": "2023-07-15T04:03:32.6053301+00:00",
-  "LastUpdate_Achievements": "2023-07-15T04:09:12.2181114+00:00"
+  "LastUpdate_Ratings": "2023-07-15T05:01:07.879752+00:00",
+  "LastUpdate_Achievements": "2023-07-15T05:06:47.6961113+00:00"
 }

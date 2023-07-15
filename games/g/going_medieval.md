@@ -16,15 +16,15 @@ Number of Ratings: 706  (23.09.2022)
 | Onward | 55.00% | ~2,531 |
 | Home Cooked Meal | 54.00% | ~2,485 |
 | The First Week | 52.00% | ~2,393 |
-| Feast or Famine | 50.00% | ~2,300 |
-| Studious Researcher | 50.00% | ~2,300 |
-| Beam Me Up | 49.00% | ~2,254 |
-| Adept Researcher | 44.00% | ~2,024 |
-| Retribution | 39.00% | ~1,794 |
-| ...And Don’t Come Back! | 39.00% | ~1,794 |
-| Fit For A King | 38.00% | ~1,748 |
-| Luminary Researcher | 34.00% | ~1,564 |
-| Heating Up | 28.00% | ~1,288 |
+| Feast or Famine | 50.00% | ~2,301 |
+| Studious Researcher | 50.00% | ~2,301 |
+| Beam Me Up | 49.00% | ~2,255 |
+| Adept Researcher | 44.00% | ~2,025 |
+| Retribution | 39.00% | ~1,795 |
+| ...And Don’t Come Back! | 39.00% | ~1,795 |
+| Fit For A King | 38.00% | ~1,749 |
+| Luminary Researcher | 34.00% | ~1,565 |
+| Heating Up | 28.00% | ~1,289 |
 | Winter Is Coming | 24.00% | ~1,104 |
 | Winter Is Here | 22.00% | ~1,012 |
 | Disassembled | 19.00% | ~874 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~92 |
 | Wabbit Season | 0.60% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,601 (Ranked 139)  
+Progressed: 4,602 (Ranked 139)  
 Completed: 9 (0.20%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 9 (0.20%) (Ranked 163)
 | 2023-07-12 | 4,551 | 9 |
 | 2023-07-13 | 4,571 | 9 |
 | 2023-07-14 | 4,597 | 9 |
-| 2023-07-15 | 4,601 | 9 |
+| 2023-07-15 | 4,602 | 9 |
 ## Awards
 Max (Relaxing): 120  (Ranked 311)  
 Sum: 960 (Ranked 239)  

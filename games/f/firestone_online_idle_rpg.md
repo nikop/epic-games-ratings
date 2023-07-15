@@ -5,17 +5,17 @@ Rating: 4.06 (Ranked 901)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,525 |
-| World Map | 79.00% | ~1,296 |
-| Temple of Eternals | 56.00% | ~918 |
-| Prestigious | 53.00% | ~869 |
-| Fellowship Power | 41.00% | ~672 |
+| Victor | 93.00% | ~1,527 |
+| World Map | 79.00% | ~1,297 |
+| Temple of Eternals | 56.00% | ~920 |
+| Prestigious | 53.00% | ~870 |
+| Fellowship Power | 40.00% | ~657 |
 | Guild Power | 24.00% | ~394 |
-| Prestigious x10 | 21.00% | ~344 |
+| Prestigious x10 | 21.00% | ~345 |
 | The game is on | 19.00% | ~312 |
 | Exotic Merchant | 17.00% | ~279 |
-| Dragon Clicker | 16.00% | ~262 |
-| Miner Clicker | 16.00% | ~262 |
+| Dragon Clicker | 16.00% | ~263 |
+| Miner Clicker | 16.00% | ~263 |
 | Full Party | 15.00% | ~246 |
 | Inspection | 15.00% | ~246 |
 | Dragon Master | 14.00% | ~230 |
@@ -26,8 +26,8 @@ Rating: 4.06 (Ranked 901)
 | Mysterious Rock | 12.00% | ~197 |
 | Natural Talent | 12.00% | ~197 |
 | Superior | 12.00% | ~197 |
-| Milestone collector | 11.00% | ~180 |
-| Scientist | 11.00% | ~180 |
+| Milestone collector | 11.00% | ~181 |
+| Scientist | 11.00% | ~181 |
 | Challenger | 10.00% | ~164 |
 | Doing My Part | 10.00% | ~164 |
 | Hunter | 10.00% | ~164 |
@@ -44,10 +44,10 @@ Rating: 4.06 (Ranked 901)
 | Master Enchanter | 7.00% | ~115 |
 | The Expeditioner | 7.00% | ~115 |
 | Trader | 7.00% | ~115 |
-| Crystal Mining | 6.00% | ~98 |
-| Enchanting skill | 6.00% | ~98 |
-| How Do You Turn This On? | 6.00% | ~98 |
-| Weekly Quest Completionist | 6.00% | ~98 |
+| Crystal Mining | 6.00% | ~99 |
+| Enchanting skill | 6.00% | ~99 |
+| How Do You Turn This On? | 6.00% | ~99 |
+| Weekly Quest Completionist | 6.00% | ~99 |
 | Ancient Knowledge | 5.00% | ~82 |
 | Blueprint Upgrades | 5.00% | ~82 |
 | Dragon Slayer | 5.00% | ~82 |
@@ -61,7 +61,7 @@ Rating: 4.06 (Ranked 901)
 | Ebony Jungle Liberator | 3.00% | ~49 |
 | Legendary | 3.00% | ~49 |
 | The Alchemist | 3.00% | ~49 |
-| What lies behind the bush | 3.00% | ~49 |
+| What lies behind the bush | 2.00% | ~33 |
 | Mythic Power | 1.00% | ~16 |
 | Gear Enchanting | 0.70% | ~11 |
 | Guardian Master | 0.70% | ~11 |
@@ -81,7 +81,7 @@ Rating: 4.06 (Ranked 901)
 | War Machines Army | 0.20% | ~3 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,640 (Ranked 169)  
+Progressed: 1,642 (Ranked 169)  
 Completed: 1 (0.06%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 1 (0.06%) (Ranked 197)
 | 2023-07-12 | 1,620 | 1 |
 | 2023-07-13 | 1,630 | 1 |
 | 2023-07-14 | 1,638 | 1 |
-| 2023-07-15 | 1,640 | 1 |
+| 2023-07-15 | 1,642 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

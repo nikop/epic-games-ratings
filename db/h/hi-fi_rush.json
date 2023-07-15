@@ -4361,9 +4361,9 @@
       "ID": "Ach016",
       "SetID": "12n4k20",
       "Name": "Chip-tuned",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 14
     },
     {
       "ID": "Ach017",
@@ -4529,9 +4529,9 @@
       "ID": "Ach037",
       "SetID": "12n4k20",
       "Name": "We\u0027re Jammin\u0027",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "Ach038",
@@ -4545,9 +4545,9 @@
       "ID": "Ach039",
       "SetID": "12n4k20",
       "Name": "First we parry, then we counter",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "Ach040",
@@ -4649,9 +4649,9 @@
       "ID": "Ach052",
       "SetID": "12n4k20",
       "Name": "Wanna hear my playlist?",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 14
     },
     {
       "ID": "Ach053",
@@ -4824,8 +4824,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-15T04:04:25.0064926+00:00",
+  "LastChanged_Achievements": "2023-07-15T05:02:18.9696481+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:27.8055794+00:00",
-  "LastUpdate_Ratings": "2023-07-15T04:01:04.9397856+00:00",
-  "LastUpdate_Achievements": "2023-07-15T04:04:25.0065761+00:00"
+  "LastUpdate_Ratings": "2023-07-15T04:59:04.7155145+00:00",
+  "LastUpdate_Achievements": "2023-07-15T05:02:18.9697657+00:00"
 }

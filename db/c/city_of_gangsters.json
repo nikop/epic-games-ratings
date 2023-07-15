@@ -463,9 +463,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 329775,
+  "EOS_Progressed": 329780,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1587,
+  "EOS_NewPlayers": 1589,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9688,6 +9688,11 @@
       "Time": "2023-07-15T04:08:19.1110545+00:00",
       "NumProgressed": 329775,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-15T05:05:59.1058564+00:00",
+      "NumProgressed": 329780,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 80,
@@ -9715,7 +9720,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 39573
+      "UsersEstimate": 39574
     },
     {
       "ID": "ach004",
@@ -9755,7 +9760,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 39573
+      "UsersEstimate": 39574
     },
     {
       "ID": "ach009",
@@ -9907,7 +9912,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 151696
+      "UsersEstimate": 151699
     },
     {
       "ID": "ach028",
@@ -10035,7 +10040,7 @@
       "Name": "Street Fighter",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 23084
+      "UsersEstimate": 23085
     },
     {
       "ID": "ach044",
@@ -10059,7 +10064,7 @@
       "Name": "Friendly Gestures",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 23084
+      "UsersEstimate": 23085
     },
     {
       "ID": "ach047",
@@ -10099,7 +10104,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 36275
+      "UsersEstimate": 36276
     },
     {
       "ID": "ach052",
@@ -10107,7 +10112,7 @@
       "Name": "Liquor Lord",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 19786
+      "UsersEstimate": 19787
     },
     {
       "ID": "ach053",
@@ -10171,7 +10176,7 @@
       "Name": "Safety in Numbers",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 19786
+      "UsersEstimate": 19787
     },
     {
       "ID": "ach061",
@@ -10227,7 +10232,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 52764
+      "UsersEstimate": 52765
     },
     {
       "ID": "ach069",
@@ -10267,7 +10272,7 @@
       "Name": "Show \u2018em the Sugar",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 19786
+      "UsersEstimate": 19787
     },
     {
       "ID": "ach074",
@@ -10283,7 +10288,7 @@
       "Name": "Killing Them Softly",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 19786
+      "UsersEstimate": 19787
     },
     {
       "ID": "ach076",
@@ -10307,7 +10312,7 @@
       "Name": "People Person",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 23084
+      "UsersEstimate": 23085
     },
     {
       "ID": "ach079",
@@ -10338,7 +10343,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 329775,
+      "Progressed": 329780,
       "Completed": 5
     }
   ],
@@ -10346,8 +10351,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-07-14T22:58:09.6261804+00:00",
-  "LastChanged_Achievements": "2023-07-15T04:08:19.111054+00:00",
+  "LastChanged_Achievements": "2023-07-15T05:05:59.1058554+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:15.0481604+00:00",
-  "LastUpdate_Ratings": "2023-07-15T04:00:02.3350496+00:00",
-  "LastUpdate_Achievements": "2023-07-15T04:08:19.1111652+00:00"
+  "LastUpdate_Ratings": "2023-07-15T04:58:11.5453909+00:00",
+  "LastUpdate_Achievements": "2023-07-15T05:05:59.1061447+00:00"
 }

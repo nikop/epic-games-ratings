@@ -2,7 +2,7 @@
   "ID": "37baf50c268d47779020d73143bb02b0",
   "Name": "Auto Chess",
   "ProductSlug": "auto-chess",
-  "Ranking_Rating": 522,
+  "Ranking_Rating": 521,
   "Ranking_Popularity": 156,
   "Ranking_PopularitySum": 120,
   "Ranking_EOS_Progress": 493,
@@ -3280,10 +3280,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 5981,
       "NumberOfAwardsMax": 756
+    },
+    {
+      "Time": "2023-07-15T04:59:17.2742799+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 5982,
+      "NumberOfAwardsMax": 756
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5981,
+  "NumberOfAwards": 5982,
   "NumberOfAwardsMax": 756,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
@@ -3315,7 +3321,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 618
+      "Count": 619
     },
     {
       "Text": "This game is Relaxing",
@@ -3365,8 +3371,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:31.7729603+00:00",
-  "LastChanged": "2023-07-14T13:14:20.0408623+00:00",
+  "LastChanged": "2023-07-15T04:59:17.2742797+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:43.0384114+00:00",
-  "LastUpdate_Ratings": "2023-07-15T04:01:19.0795248+00:00",
-  "LastUpdate_Achievements": "2023-07-15T04:07:58.9325725+00:00"
+  "LastUpdate_Ratings": "2023-07-15T04:59:17.2742808+00:00",
+  "LastUpdate_Achievements": "2023-07-15T05:05:50.4463377+00:00"
 }

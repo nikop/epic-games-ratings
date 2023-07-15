@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 275,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -225,9 +225,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 196315,
+  "EOS_Progressed": 196318,
   "EOS_Completed": 466,
-  "EOS_NewPlayers": 631,
+  "EOS_NewPlayers": 633,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -9275,6 +9275,11 @@
       "Time": "2023-07-15T04:04:24.3247182+00:00",
       "NumProgressed": 196315,
       "NumCompleted": 466
+    },
+    {
+      "Time": "2023-07-15T05:02:18.3229942+00:00",
+      "NumProgressed": 196318,
+      "NumCompleted": 466
     }
   ],
   "TotalAchievements": 29,
@@ -9310,7 +9315,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 184536
+      "UsersEstimate": 184539
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -9358,7 +9363,7 @@
       "Name": "Answers can be found amongst the stars",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5889
+      "UsersEstimate": 5890
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTED",
@@ -9454,7 +9459,7 @@
       "Name": "Bend to the will of the arrows.",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5889
+      "UsersEstimate": 5890
     },
     {
       "ID": "ACHIEVEMENT_SECRET",
@@ -9517,7 +9522,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 196315,
+      "Progressed": 196318,
       "Completed": 466
     }
   ],
@@ -9525,8 +9530,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-06-26T22:58:32.656469+00:00",
-  "LastChanged_Achievements": "2023-07-15T04:04:24.3247173+00:00",
+  "LastChanged_Achievements": "2023-07-15T05:02:18.3229935+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:47.6182594+00:00",
-  "LastUpdate_Ratings": "2023-07-15T04:01:24.7031214+00:00",
-  "LastUpdate_Achievements": "2023-07-15T04:04:24.324775+00:00"
+  "LastUpdate_Ratings": "2023-07-15T04:59:20.4237981+00:00",
+  "LastUpdate_Achievements": "2023-07-15T05:02:18.3230747+00:00"
 }

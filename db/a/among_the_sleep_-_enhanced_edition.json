@@ -443,9 +443,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 78646,
+  "EOS_Progressed": 78653,
   "EOS_Completed": 373,
-  "EOS_NewPlayers": 837,
+  "EOS_NewPlayers": 840,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -9528,6 +9528,11 @@
       "Time": "2023-07-15T04:06:30.8107306+00:00",
       "NumProgressed": 78646,
       "NumCompleted": 373
+    },
+    {
+      "Time": "2023-07-15T05:04:35.3407282+00:00",
+      "NumProgressed": 78653,
+      "NumCompleted": 373
     }
   ],
   "TotalAchievements": 10,
@@ -9539,7 +9544,7 @@
       "Name": "Baby Mozart",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 3932
+      "UsersEstimate": 3933
     },
     {
       "ID": "Drawings01",
@@ -9547,7 +9552,7 @@
       "Name": "House Drawings",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "Drawings02",
@@ -9555,7 +9560,7 @@
       "Name": "Cave Drawings",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "Drawings03",
@@ -9603,7 +9608,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 27526
+      "UsersEstimate": 27529
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -9611,22 +9616,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 8651
+      "UsersEstimate": 8652
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 78646,
+      "Progressed": 78653,
       "Completed": 373
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-03-31T05:57:32.2303432+00:00",
-  "LastChanged_Achievements": "2023-07-15T04:06:30.8107299+00:00",
+  "LastChanged_Achievements": "2023-07-15T05:04:35.3407275+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:30.7064844+00:00",
-  "LastUpdate_Ratings": "2023-07-15T04:03:24.9424031+00:00",
-  "LastUpdate_Achievements": "2023-07-15T04:06:30.8107819+00:00"
+  "LastUpdate_Ratings": "2023-07-15T05:01:03.0081693+00:00",
+  "LastUpdate_Achievements": "2023-07-15T05:04:35.3407946+00:00"
 }

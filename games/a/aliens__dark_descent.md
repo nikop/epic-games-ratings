@@ -6,7 +6,7 @@ Rating: 4.43 (Ranked 655)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,327 |
-| Snatched Out | 73.00% | ~2,097 |
+| Snatched Out | 74.00% | ~2,126 |
 | Keep 'Em Coming | 72.00% | ~2,069 |
 | Cleaning Lethe, One Nest At A Time | 65.00% | ~1,867 |
 | Call Me Snake | 60.00% | ~1,724 |
@@ -17,7 +17,7 @@ Rating: 4.43 (Ranked 655)
 | Use The Bumper, That's What It's For | 50.00% | ~1,436 |
 | First Steps Into Madness | 49.00% | ~1,408 |
 | Colonial Barrels | 47.00% | ~1,350 |
-| Harper's Hell | 39.00% | ~1,120 |
+| Harper's Hell | 40.00% | ~1,149 |
 | Damn Dude, You Gotta Lose Some Weight! | 39.00% | ~1,120 |
 | Making a Stand | 38.00% | ~1,092 |
 | Where It All Begun | 33.00% | ~948 |

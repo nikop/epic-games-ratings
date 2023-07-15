@@ -36,13 +36,15 @@ Rating: 4.87 (Ranked 24)
 | Does that say weakpoint? | 0.60% | ~21 |
 | Beat-hit mania | 0.50% | ~17 |
 | Call me Turbo Chai | 0.50% | ~10 |
+| Chip-tuned | 0.40% | ~14 |
+| Wanna hear my playlist? | 0.40% | ~14 |
 | New bad guys? No problem! | 0.40% | ~8 |
 | I think I deserve some praise, here! | 0.30% | ~10 |
-| Chip-tuned | 0.30% | ~10 |
-| Wanna hear my playlist? | 0.30% | ~10 |
 | Check out my moves! | 0.30% | ~10 |
 | I think I found your calling, Macaron | 0.20% | ~7 |
 | This is a breeze! | 0.20% | ~7 |
+| We're Jammin' | 0.20% | ~7 |
+| First we parry, then we counter | 0.20% | ~7 |
 | I told you I'd be fine, Peppermint! | 0.20% | ~7 |
 | Choose your own adventure | 0.20% | ~4 |
 | Easy Listening | 0.10% | ~3 |
@@ -50,9 +52,7 @@ Rating: 4.87 (Ranked 24)
 | I can't see this ever being a problem again | 0.10% | ~3 |
 | Fully Powered Up! | 0.10% | ~3 |
 | OK, well THEY came after ME! | 0.10% | ~3 |
-| We're Jammin' | 0.10% | ~3 |
 | I'm not done with you yet | 0.10% | ~3 |
-| First we parry, then we counter | 0.10% | ~3 |
 | Now this is how you fight like a team! | 0.10% | ~3 |
 | My Ultimate Setlist | 0.10% | ~3 |
 | This was... not what I expected. | 0.10% | ~3 |
