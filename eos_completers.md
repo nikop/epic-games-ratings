@@ -15,7 +15,7 @@
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
 | 14 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 13.79% |
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
-| 16 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.08% |
+| 16 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.06% |
 | 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.03% |
 | 18 | [Remains](games/r/remains.md) | 11.63% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.22% |
@@ -23,12 +23,12 @@
 | 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.07% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.49% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.48% |
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
 | 26 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.69% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 7.45% |
 | 28 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.34% |
-| 29 | [Time Loader](games/t/time_loader.md) | 7.21% |
+| 29 | [Time Loader](games/t/time_loader.md) | 7.14% |
 | 30 | [Scorn](games/s/scorn.md) | 7.06% |
 | 31 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.94% |
 | 32 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.82% |
@@ -67,7 +67,7 @@
 | 65 | [Lamentum](games/l/lamentum.md) | 2.67% |
 | 66 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
 | 67 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.58% |
-| 68 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.55% |
+| 68 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.54% |
 | 69 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 70 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
 | 71 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.36% |
@@ -106,7 +106,7 @@
 | 104 | [Adios](games/a/adios.md) | 0.96% |
 | 105 | [Hades](games/h/hades.md) | 0.89% |
 | 106 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
-| 107 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
+| 107 | [Dungeons 3](games/d/dungeons_3.md) | 0.84% |
 | 108 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.78% |
 | 109 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
 | 109 | [Lemon Cake](games/l/lemon_cake.md) | 0.76% |
@@ -150,10 +150,10 @@
 | 147 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
 | 147 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 147 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
-| 151 | [Godlike Burger](games/g/godlike_burger.md) | 0.28% |
 | 151 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
-| 153 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.27% |
-| 153 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.27% |
+| 152 | [Godlike Burger](games/g/godlike_burger.md) | 0.27% |
+| 152 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.27% |
+| 152 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.27% |
 | 155 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
 | 155 | [Against the Storm](games/a/against_the_storm.md) | 0.25% |
 | 155 | [Despot's Game](games/d/despot's_game.md) | 0.25% |
@@ -190,10 +190,10 @@
 | 188 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 188 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.09% |
 | 188 | [Partisans 1941](games/p/partisans_1941.md) | 0.09% |
+| 188 | [Riverbond](games/r/riverbond.md) | 0.09% |
 | 188 | [Shop Titans](games/s/shop_titans.md) | 0.09% |
 | 188 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
-| 193 | [Riverbond](games/r/riverbond.md) | 0.08% |
-| 193 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
+| 194 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
 | 195 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
 | 195 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
 | 197 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.06% |
