@@ -18,17 +18,17 @@
 | Destination Destiny | 29.00% | ~67 |
 | Happy Tenants | 26.00% | ~60 |
 | Your Prestige is Rising | 24.00% | ~55 |
+| Potent Potables | 24.00% | ~55 |
 | Retail Revenue | 24.00% | ~55 |
 | Smooth Service | 24.00% | ~55 |
-| Potent Potables | 23.00% | ~53 |
 | Lux Living | 22.00% | ~51 |
 | People Mover | 22.00% | ~51 |
 | Leveled Up Shops | 22.00% | ~51 |
+| Emporium Empire | 21.00% | ~48 |
 | Get Electrified | 21.00% | ~48 |
 | Rehab Expert | 20.00% | ~46 |
 | Don't Feel a Loan | 20.00% | ~46 |
 | Tasty Profits | 20.00% | ~46 |
-| Emporium Empire | 20.00% | ~46 |
 | Artfully Done | 19.00% | ~44 |
 | We Don't Need No Education | 19.00% | ~44 |
 | Under One Roof | 17.00% | ~39 |
@@ -43,24 +43,24 @@
 | 28 Days Later | 12.00% | ~28 |
 | Master of Puppets | 11.00% | ~25 |
 | Plaza Plan | 10.00% | ~23 |
+| Refined Palates | 10.00% | ~23 |
+| Phoning It In | 10.00% | ~23 |
 | First 100 Days | 9.00% | ~21 |
 | Aestheticly Pleased | 9.00% | ~21 |
-| Refined Palates | 9.00% | ~21 |
-| Phoning It In | 9.00% | ~21 |
+| Revenue Royalty | 9.00% | ~21 |
 | Meet Me at HQ | 8.00% | ~18 |
 | Maximum Reuse | 8.00% | ~18 |
-| Revenue Royalty | 8.00% | ~18 |
 | Pipe Up | 8.00% | ~18 |
 | I'm Busy Ruling | 7.00% | ~16 |
 | Careful Constructor | 7.00% | ~16 |
 | Water Features | 7.00% | ~16 |
 | Sky High Stature | 7.00% | ~16 |
 | Profound Proceeds | 7.00% | ~16 |
+| Tuned In | 7.00% | ~16 |
 | It's a Gas | 7.00% | ~16 |
 | Meet ADA/360 | 6.00% | ~14 |
 | Penthouse in the Sky | 6.00% | ~14 |
 | Baron of Business | 6.00% | ~14 |
-| Tuned In | 6.00% | ~14 |
 | Office Bigwigs | 5.00% | ~12 |
 | Golden Opportunity | 5.00% | ~12 |
 | Three of a Kind | 4.00% | ~9 |

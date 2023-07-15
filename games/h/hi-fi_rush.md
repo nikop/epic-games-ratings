@@ -34,8 +34,8 @@ Rating: 4.87 (Ranked 24)
 | Does that say weakpoint? | 0.70% | ~24 |
 | That's a lot of junk metal… | 0.60% | ~21 |
 | There's such a thing as TOO helpful | 0.60% | ~21 |
+| Call me Turbo Chai | 0.60% | ~12 |
 | Beat-hit mania | 0.50% | ~17 |
-| Call me Turbo Chai | 0.50% | ~10 |
 | Chip-tuned | 0.40% | ~14 |
 | Wanna hear my playlist? | 0.40% | ~14 |
 | New bad guys? No problem! | 0.40% | ~8 |

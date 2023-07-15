@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 159,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2214,
+  "EOS_Progressed": 2215,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -1608,6 +1608,11 @@
       "Time": "2023-07-15T11:03:47.6595089+00:00",
       "NumProgressed": 2214,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-15T17:07:29.6338296+00:00",
+      "NumProgressed": 2215,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 13,
@@ -1643,7 +1648,7 @@
       "Name": "Helping the little ones",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "MOVE_ON",
@@ -1715,14 +1720,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2214,
+      "Progressed": 2215,
       "Completed": 5
     }
   ],
@@ -1730,8 +1735,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-07-15T16:09:34.7493832+00:00",
+  "LastChanged_Achievements": "2023-07-15T17:07:29.6338289+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:12.10718+00:00",
-  "LastUpdate_Ratings": "2023-07-15T16:03:52.695509+00:00",
-  "LastUpdate_Achievements": "2023-07-15T16:09:34.7494003+00:00"
+  "LastUpdate_Ratings": "2023-07-15T17:03:10.8677208+00:00",
+  "LastUpdate_Achievements": "2023-07-15T17:07:29.6338492+00:00"
 }

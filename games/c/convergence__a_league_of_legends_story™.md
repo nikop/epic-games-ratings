@@ -8,6 +8,7 @@
 | Rail Rat | 16.00% | ~121 |
 | The Mysterious Stranger | 15.00% | ~113 |
 | The Steel Shadow | 14.00% | ~106 |
+| The Betrayer | 14.00% | ~106 |
 | The Man Who Shattered Time | 14.00% | ~106 |
 | The Loose Cannon | 14.00% | ~106 |
 | Make Up For Lost Time | 14.00% | ~106 |
@@ -20,7 +21,6 @@
 | The Brass Boss | 14.00% | ~106 |
 | The Family Fortune | 14.00% | ~106 |
 | Treasure Trove | 13.00% | ~98 |
-| The Betrayer | 13.00% | ~98 |
 | The Harder They Fall | 13.00% | ~98 |
 | No, Thanks! | 13.00% | ~98 |
 | Honest Mistake | 13.00% | ~98 |

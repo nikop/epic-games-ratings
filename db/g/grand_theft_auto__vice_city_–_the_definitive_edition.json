@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 129,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -526,9 +526,9 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 8968,
+  "EOS_Progressed": 8969,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -6316,6 +6316,11 @@
       "Time": "2023-07-15T12:06:00.5205784+00:00",
       "NumProgressed": 8968,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-15T17:07:13.5315957+00:00",
+      "NumProgressed": 8969,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -6559,7 +6564,7 @@
       "Name": "Mischief Managed",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "ACH31",
@@ -6598,7 +6603,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8968,
+      "Progressed": 8969,
       "Completed": 43
     }
   ],
@@ -6606,8 +6611,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-12T19:59:24.8621469+00:00",
-  "LastChanged_Achievements": "2023-07-15T16:09:12.5775226+00:00",
+  "LastChanged_Achievements": "2023-07-15T17:07:13.5315951+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:03.5723456+00:00",
-  "LastUpdate_Ratings": "2023-07-15T16:01:15.4614147+00:00",
-  "LastUpdate_Achievements": "2023-07-15T16:09:12.5775923+00:00"
+  "LastUpdate_Ratings": "2023-07-15T17:00:50.2284579+00:00",
+  "LastUpdate_Achievements": "2023-07-15T17:07:13.5316485+00:00"
 }

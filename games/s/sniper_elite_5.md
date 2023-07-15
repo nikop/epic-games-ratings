@@ -55,6 +55,7 @@ Rating: 4.44 (Ranked 643)
 | Eagle Eyed | 0.40% | ~13 |
 | Locomotion Commotion | 0.40% | ~13 |
 | Last Resort | 0.40% | ~13 |
+| Up close and personal | 0.30% | ~10 |
 | Shoot for the Moon | 0.30% | ~10 |
 | If You Go Down To The Woods Today | 0.30% | ~10 |
 | Fight Another Day | 0.30% | ~10 |
@@ -62,7 +63,6 @@ Rating: 4.44 (Ranked 643)
 | Master of Secondaries | 0.20% | ~7 |
 | Master of Rifles | 0.20% | ~7 |
 | Out of Scope | 0.20% | ~7 |
-| Up close and personal | 0.20% | ~7 |
 | Sight Beyond Sights | 0.20% | ~7 |
 | Can't Outrun A Bullet | 0.20% | ~7 |
 | Führerious Repetition | 0.20% | ~6 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 643)
 | Alpha | 0.10% | ~3 |
 | Das Familienjuwel | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,285 (Ranked 147)  
+Progressed: 3,286 (Ranked 147)  
 Completed: 9 (0.27%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 9 (0.27%) (Ranked 152)
 | 2023-07-12 | 3,266 | 9 |
 | 2023-07-13 | 3,269 | 9 |
 | 2023-07-14 | 3,277 | 9 |
-| 2023-07-15 | 3,285 | 9 |
+| 2023-07-15 | 3,286 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

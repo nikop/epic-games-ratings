@@ -4,8 +4,8 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 596,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1266,9 +1266,9 @@
       "ID": "BURN_ACHIEVEMENT_3",
       "SetID": "9lcahn0",
       "Name": "He\u0027s Getting Crazier",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 30
     },
     {
       "ID": "BURN_ACHIEVEMENT_4",
@@ -1346,9 +1346,9 @@
       "ID": "EXT_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Fire Alarm",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 77
     },
     {
       "ID": "FREEB_ACHIEVEMENT_1",
@@ -1362,9 +1362,9 @@
       "ID": "FREED_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "End of Rest",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 54
     },
     {
       "ID": "FREEM_ACHIEVEMENT_1",
@@ -1458,9 +1458,9 @@
       "ID": "KLACKEY_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "End the Infestation",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 42
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_3",
@@ -1570,9 +1570,9 @@
       "ID": "PASS_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Beep Beep Boop",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 60
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_1",
@@ -1642,9 +1642,9 @@
       "ID": "WINC_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Guardian Angel",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "WINS_ACHIEVEMENT_1",
@@ -1665,8 +1665,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-15T16:10:40.4615913+00:00",
+  "LastChanged_Achievements": "2023-07-15T17:08:19.8850845+00:00",
   "LastUpdate_AppInfo": "2023-07-13T13:57:00.6642341+00:00",
-  "LastUpdate_Ratings": "2023-07-15T15:57:12.6324514+00:00",
-  "LastUpdate_Achievements": "2023-07-15T16:10:40.4616582+00:00"
+  "LastUpdate_Ratings": "2023-07-15T16:57:22.9510719+00:00",
+  "LastUpdate_Achievements": "2023-07-15T17:08:19.8851715+00:00"
 }

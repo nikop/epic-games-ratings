@@ -5,13 +5,13 @@ Rating: 4.06 (Ranked 900)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,530 |
+| Victor | 93.00% | ~1,531 |
 | World Map | 79.00% | ~1,300 |
-| Temple of Eternals | 56.00% | ~921 |
+| Temple of Eternals | 56.00% | ~922 |
 | Prestigious | 53.00% | ~872 |
-| Fellowship Power | 41.00% | ~674 |
+| Fellowship Power | 41.00% | ~675 |
 | Guild Power | 24.00% | ~395 |
-| Prestigious x10 | 21.00% | ~345 |
+| Prestigious x10 | 21.00% | ~346 |
 | The game is on | 19.00% | ~313 |
 | Exotic Merchant | 17.00% | ~280 |
 | Dragon Clicker | 16.00% | ~263 |
@@ -24,20 +24,20 @@ Rating: 4.06 (Ranked 900)
 | Lieutenant | 14.00% | ~230 |
 | Mysterious Rock | 13.00% | ~214 |
 | The Unstoppable | 13.00% | ~214 |
-| Natural Talent | 12.00% | ~197 |
-| Superior | 12.00% | ~197 |
+| Natural Talent | 12.00% | ~198 |
+| Superior | 12.00% | ~198 |
 | Milestone collector | 11.00% | ~181 |
 | Scientist | 11.00% | ~181 |
-| Challenger | 10.00% | ~164 |
-| Doing My Part | 10.00% | ~164 |
-| Hunter | 10.00% | ~164 |
-| Relic Of The Past | 10.00% | ~164 |
+| Challenger | 10.00% | ~165 |
+| Doing My Part | 10.00% | ~165 |
+| Hunter | 10.00% | ~165 |
+| Relic Of The Past | 10.00% | ~165 |
+| Scroll Master | 10.00% | ~165 |
 | Daily Quest Completionist | 9.00% | ~148 |
 | Four Leaf Clover | 9.00% | ~148 |
 | Frostfire Liberator | 9.00% | ~148 |
 | Mastery | 9.00% | ~148 |
 | Moving Up The Ladder | 9.00% | ~148 |
-| Scroll Master | 9.00% | ~148 |
 | The power of Awakening | 9.00% | ~148 |
 | The father of Dragons | 8.00% | ~132 |
 | Here We Go Again | 7.00% | ~115 |
@@ -81,7 +81,7 @@ Rating: 4.06 (Ranked 900)
 | War Machines Army | 0.20% | ~3 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,645 (Ranked 169)  
+Progressed: 1,646 (Ranked 169)  
 Completed: 1 (0.06%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 1 (0.06%) (Ranked 197)
 | 2023-07-12 | 1,620 | 1 |
 | 2023-07-13 | 1,630 | 1 |
 | 2023-07-14 | 1,638 | 1 |
-| 2023-07-15 | 1,645 | 1 |
+| 2023-07-15 | 1,646 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

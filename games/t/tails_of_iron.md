@@ -5,28 +5,28 @@ Rating: 4.54 (Ranked 492)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 80.00% | ~1,401 |
+| Complete Guard Faction | 80.00% | ~1,402 |
 | Become King | 72.00% | ~1,261 |
 | Defeat 25 Frogs | 62.00% | ~1,086 |
-| Ranged Weapon | 61.00% | ~1,068 |
+| Ranged Weapon | 61.00% | ~1,069 |
 | Collect Monster Parts | 58.00% | ~1,016 |
 | Two Handed Weapon | 56.00% | ~981 |
 | Defeat 25 Grubs | 52.00% | ~911 |
 | Rescue Redgi's Brothers | 52.00% | ~911 |
 | Collect Iron Ore | 47.00% | ~823 |
 | Kitchen Ready To Cook | 47.00% | ~823 |
-| Defeat 25 Mozis | 46.00% | ~805 |
+| Defeat 25 Mozis | 46.00% | ~806 |
 | Collect Gold | 45.00% | ~788 |
 | Smithy Ready to Craft | 45.00% | ~788 |
-| Fix the Travellers Wagon | 44.00% | ~770 |
+| Fix the Travellers Wagon | 44.00% | ~771 |
 | Complete Elder Faction | 41.00% | ~718 |
-| End of the Mozis | 38.00% | ~665 |
-| Throne Room Fit For A King | 38.00% | ~665 |
-| Meet the Creatures from the Deep | 36.00% | ~630 |
-| Return Power To The Depths | 36.00% | ~630 |
+| End of the Mozis | 38.00% | ~666 |
+| Throne Room Fit For A King | 38.00% | ~666 |
+| Meet the Creatures from the Deep | 36.00% | ~631 |
+| Return Power To The Depths | 36.00% | ~631 |
 | Defeat Ratnor Rodentson | 29.00% | ~508 |
-| Return the Statues | 26.00% | ~455 |
-| Defeat Rattus Augustail | 26.00% | ~455 |
+| Return the Statues | 26.00% | ~456 |
+| Defeat Rattus Augustail | 26.00% | ~456 |
 | Complete the Chefs Book | 25.00% | ~438 |
 | Complete Ranger Faction | 21.00% | ~368 |
 | Defeat Avor Warden of the Northern Wastes | 20.00% | ~350 |
@@ -36,7 +36,7 @@ Rating: 4.54 (Ranked 492)
 | King of Kings | 7.00% | ~123 |
 | A new Warchief rises | 0.90% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,751 (Ranked 166)  
+Progressed: 1,752 (Ranked 166)  
 Completed: 8 (0.46%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 8 (0.46%) (Ranked 131)
 | 2023-07-11 | 1,743 | 8 |
 | 2023-07-12 | 1,744 | 8 |
 | 2023-07-13 | 1,747 | 8 |
-| 2023-07-15 | 1,751 | 8 |
+| 2023-07-15 | 1,752 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

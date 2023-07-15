@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2819,
+  "EOS_Progressed": 2820,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3518,6 +3518,11 @@
       "Time": "2023-07-15T14:05:59.4556245+00:00",
       "NumProgressed": 2819,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-15T17:08:15.7882998+00:00",
+      "NumProgressed": 2820,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -3593,7 +3598,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "ACH_BASE_19",
@@ -3729,7 +3734,7 @@
       "Name": "Ready for a New World",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "ACH_BASE_35",
@@ -3984,13 +3989,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1001,
+      "Progressed": 1002,
       "Completed": 6
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2819,
+      "Progressed": 2820,
       "Completed": 0
     }
   ],
@@ -3998,8 +4003,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-07-08T02:22:11.1138638+00:00",
-  "LastChanged_Achievements": "2023-07-15T16:10:35.1087923+00:00",
+  "LastChanged_Achievements": "2023-07-15T17:08:15.7882993+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:23.6946025+00:00",
-  "LastUpdate_Ratings": "2023-07-15T16:01:51.1667244+00:00",
-  "LastUpdate_Achievements": "2023-07-15T16:10:35.1088697+00:00"
+  "LastUpdate_Ratings": "2023-07-15T17:01:20.3293043+00:00",
+  "LastUpdate_Achievements": "2023-07-15T17:08:15.7883722+00:00"
 }

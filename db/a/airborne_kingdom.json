@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6799,
+  "EOS_Progressed": 6800,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -2688,6 +2688,11 @@
       "Time": "2023-07-15T16:08:39.2419136+00:00",
       "NumProgressed": 6799,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-07-15T17:06:48.161505+00:00",
+      "NumProgressed": 6800,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 27,
@@ -2731,7 +2736,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3603
+      "UsersEstimate": 3604
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -2851,7 +2856,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3807
+      "UsersEstimate": 3808
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -2914,15 +2919,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6799,
+      "Progressed": 6800,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-07-15T16:08:39.2419132+00:00",
+  "LastChanged_Achievements": "2023-07-15T17:06:48.1615041+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:22.4116679+00:00",
-  "LastUpdate_Ratings": "2023-07-15T15:59:14.8617759+00:00",
-  "LastUpdate_Achievements": "2023-07-15T16:08:39.2419387+00:00"
+  "LastUpdate_Ratings": "2023-07-15T16:59:00.3803761+00:00",
+  "LastUpdate_Achievements": "2023-07-15T17:06:48.1615395+00:00"
 }

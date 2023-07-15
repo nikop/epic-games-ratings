@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 49,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -366,9 +366,9 @@
       "Count": 74
     }
   ],
-  "EOS_Progressed": 237308,
+  "EOS_Progressed": 237321,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1096,
+  "EOS_NewPlayers": 1099,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9666,6 +9666,11 @@
       "Time": "2023-07-15T16:09:39.1472434+00:00",
       "NumProgressed": 237308,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-07-15T17:07:33.0359158+00:00",
+      "NumProgressed": 237321,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -9677,7 +9682,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 64073
+      "UsersEstimate": 64077
     },
     {
       "ID": "ACH_AON",
@@ -9701,7 +9706,7 @@
       "Name": "BOY!",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9492
+      "UsersEstimate": 9493
     },
     {
       "ID": "ACH_CATNIPCATNIP",
@@ -9717,7 +9722,7 @@
       "Name": "Collector",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 26104
+      "UsersEstimate": 26105
     },
     {
       "ID": "ACH_ENJOY",
@@ -9741,7 +9746,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 28477
+      "UsersEstimate": 28479
     },
     {
       "ID": "ACH_HATTRICK",
@@ -9757,7 +9762,7 @@
       "Name": "Elementary!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 21358
+      "UsersEstimate": 21359
     },
     {
       "ID": "ACH_HIDEANDSEEK",
@@ -9797,7 +9802,7 @@
       "Name": "I like to sniff around",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7119
+      "UsersEstimate": 7120
     },
     {
       "ID": "ACH_IRONDEC",
@@ -9821,7 +9826,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 66446
+      "UsersEstimate": 66450
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -9845,7 +9850,7 @@
       "Name": "Ka-ching!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9492
+      "UsersEstimate": 9493
     },
     {
       "ID": "ACH_LETMEOUT",
@@ -9869,7 +9874,7 @@
       "Name": "Let\u0027s try another",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 1898
+      "UsersEstimate": 1899
     },
     {
       "ID": "ACH_LETSBEACH",
@@ -9893,7 +9898,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 56954
+      "UsersEstimate": 56957
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -9909,7 +9914,7 @@
       "Name": "Good listener",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 11865
+      "UsersEstimate": 11866
     },
     {
       "ID": "ACH_LETSOTHERTHINKING",
@@ -9941,7 +9946,7 @@
       "Name": "Home run",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 1898
+      "UsersEstimate": 1899
     },
     {
       "ID": "ACH_LETSWORK",
@@ -9957,7 +9962,7 @@
       "Name": "Me smart",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 14238
+      "UsersEstimate": 14239
     },
     {
       "ID": "ACH_MEMORY5",
@@ -9973,7 +9978,7 @@
       "Name": "Mind reader",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 7119
+      "UsersEstimate": 7120
     },
     {
       "ID": "ACH_NOSTRINGS",
@@ -9989,7 +9994,7 @@
       "Name": "Pumpkin Jack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 18985
+      "UsersEstimate": 18986
     },
     {
       "ID": "ACH_SCRATCH",
@@ -9997,7 +10002,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 59327
+      "UsersEstimate": 59330
     },
     {
       "ID": "ACH_SOREAD",
@@ -10005,7 +10010,7 @@
       "Name": "So you like to read?",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 9492
+      "UsersEstimate": 9493
     },
     {
       "ID": "ACH_TAKEBLUEPILL",
@@ -10045,7 +10050,7 @@
       "Name": "Trash compactor",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11865
+      "UsersEstimate": 11866
     },
     {
       "ID": "ACH_TROLLKING",
@@ -10061,7 +10066,7 @@
       "Name": "Valedictorian",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 11865
+      "UsersEstimate": 11866
     },
     {
       "ID": "ACH_WAKEUP",
@@ -10069,7 +10074,7 @@
       "Name": "Wake up!",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 18985
+      "UsersEstimate": 18986
     },
     {
       "ID": "ACH_WELLDESERVED",
@@ -10092,7 +10097,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 237308,
+      "Progressed": 237321,
       "Completed": 7
     }
   ],
@@ -10100,8 +10105,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-07-15T02:24:18.1654153+00:00",
-  "LastChanged_Achievements": "2023-07-15T16:09:39.1472428+00:00",
+  "LastChanged_Achievements": "2023-07-15T17:07:33.0359152+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:33.5195564+00:00",
-  "LastUpdate_Ratings": "2023-07-15T16:00:32.5855135+00:00",
-  "LastUpdate_Achievements": "2023-07-15T16:09:39.1473207+00:00"
+  "LastUpdate_Ratings": "2023-07-15T17:00:03.0347946+00:00",
+  "LastUpdate_Achievements": "2023-07-15T17:07:33.0360449+00:00"
 }
