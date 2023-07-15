@@ -5,13 +5,13 @@ Rating: 4.54 (Ranked 492)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 45.00% | ~4,035 |
-| Greasy Palms | 41.00% | ~3,676 |
+| Legal Counsel | 45.00% | ~4,036 |
+| Greasy Palms | 41.00% | ~3,677 |
 | South American Connection | 25.00% | ~2,242 |
 | Life of the Party | 19.00% | ~1,704 |
 | Tommy Two-Wheels | 15.00% | ~1,345 |
-| Big Heat from Little Havana | 14.00% | ~1,255 |
-| Chauffeur | 14.00% | ~1,255 |
+| Big Heat from Little Havana | 14.00% | ~1,256 |
+| Chauffeur | 14.00% | ~1,256 |
 | Salutations My Little Friend | 10.00% | ~897 |
 | Iron-y | 9.00% | ~807 |
 | Gun for Hire | 9.00% | ~807 |
@@ -22,13 +22,13 @@ Rating: 4.54 (Ranked 492)
 | Not my First Time | 5.00% | ~448 |
 | Grand Theft Auto | 5.00% | ~448 |
 | Pie Guy | 4.00% | ~359 |
+| Running Rampant | 3.00% | ~269 |
 | Point A to Point B | 3.00% | ~269 |
 | High Quality H2O | 3.00% | ~269 |
 | Bull in a China Shop | 3.00% | ~269 |
 | Somebody Call the Wambulance? | 3.00% | ~269 |
 | Just Like the Real Thing | 3.00% | ~269 |
 | Don't Need Roads | 3.00% | ~269 |
-| Running Rampant | 2.00% | ~179 |
 | One is Better Than Two | 2.00% | ~179 |
 | Take the Cannoli | 2.00% | ~179 |
 | City Sleuth | 2.00% | ~179 |
@@ -40,7 +40,7 @@ Rating: 4.54 (Ranked 492)
 | Done it All | 0.80% | ~72 |
 | Kingpin | 0.50% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,967 (Ranked 120)  
+Progressed: 8,968 (Ranked 120)  
 Completed: 43 (0.48%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 43 (0.48%) (Ranked 129)
 | 2023-07-12 | 8,944 | 43 |
 | 2023-07-13 | 8,954 | 43 |
 | 2023-07-14 | 8,964 | 43 |
-| 2023-07-15 | 8,967 | 43 |
+| 2023-07-15 | 8,968 | 43 |
 ## Awards
 Max (Great Boss Battles): 61  (Ranked 387)  
 Sum: 61 (Ranked 440)  

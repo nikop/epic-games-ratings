@@ -8,8 +8,8 @@ Rating: 4.77 (Ranked 108)
 | The Sort Who Makes an Entrance | 12.00% | ~34,506 |
 | First Class Student | 10.00% | ~28,755 |
 | Troll with the Punches | 10.00% | ~28,755 |
-| A Keen Sense of Spell | 9.00% | ~25,879 |
-| That's a Keeper | 9.00% | ~25,879 |
+| A Keen Sense of Spell | 9.00% | ~25,880 |
+| That's a Keeper | 9.00% | ~25,880 |
 | Grappling with a Graphorn | 8.00% | ~23,004 |
 | The One Who Mastered Memories | 8.00% | ~23,004 |
 | The Hallowed Hero | 8.00% | ~23,004 |
@@ -19,39 +19,39 @@ Rating: 4.77 (Ranked 108)
 | Loom for Improvement | 8.00% | ~23,004 |
 | A Talent for Spending | 8.00% | ~23,004 |
 | Coasting Along | 8.00% | ~23,004 |
-| Followed the Butterflies | 7.00% | ~20,128 |
-| The Spell Master | 7.00% | ~20,128 |
-| Rising From the Ashes | 7.00% | ~20,128 |
+| Followed the Butterflies | 7.00% | ~20,129 |
+| The Spell Master | 7.00% | ~20,129 |
+| Rising From the Ashes | 7.00% | ~20,129 |
 | The Avenging Gazelle | 6.00% | ~17,253 |
 | Beast Friends | 6.00% | ~17,253 |
 | A Sallow Grave | 6.00% | ~17,253 |
 | Flight the Good Flight | 6.00% | ~17,253 |
-| The Seeker of Knowledge | 5.00% | ~14,377 |
-| Raising Expectations | 5.00% | ~14,377 |
+| The Seeker of Knowledge | 5.00% | ~14,378 |
+| Raising Expectations | 5.00% | ~14,378 |
 | The Root of the Problem | 4.00% | ~11,502 |
 | Third Time's a Charm | 4.00% | ~11,502 |
 | The Ends Petrify the Means | 4.00% | ~11,502 |
-| The Toast of the Town | 3.00% | ~8,626 |
-| Going Through the Potions | 3.00% | ~8,626 |
-| Room with a View | 3.00% | ~8,626 |
-| The Intrepid Explorer | 3.00% | ~8,626 |
-| The Gryffindor in the Graveyard | 3.00% | ~8,626 |
-| The Wise Owl | 3.00% | ~8,626 |
+| The Toast of the Town | 3.00% | ~8,627 |
+| Going Through the Potions | 3.00% | ~8,627 |
+| Room with a View | 3.00% | ~8,627 |
+| The Intrepid Explorer | 3.00% | ~8,627 |
+| The Gryffindor in the Graveyard | 3.00% | ~8,627 |
+| The Wise Owl | 3.00% | ~8,627 |
 | The Good Samaritan | 2.00% | ~5,751 |
 | Put Down Roots | 2.00% | ~5,751 |
 | The Auror's Apprentice | 2.00% | ~5,751 |
 | Floo Around the World | 2.00% | ~5,751 |
 | Rise to the Challenges | 2.00% | ~5,751 |
-| Savvy Spender | 1.00% | ~2,875 |
-| Demiguise Dread | 1.00% | ~2,875 |
-| Finishing Touches | 1.00% | ~2,875 |
-| A Forte for Achievement | 1.00% | ~2,875 |
+| Savvy Spender | 1.00% | ~2,876 |
+| Demiguise Dread | 1.00% | ~2,876 |
+| Finishing Touches | 1.00% | ~2,876 |
+| A Forte for Achievement | 1.00% | ~2,876 |
 | Merlin's Beard! | 0.80% | ~2,300 |
 | Spilled Milk | 0.70% | ~2,013 |
 | The Nature of the Beast | 0.50% | ~1,438 |
 | Collector's Edition | 0.20% | ~575 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 287,546 (Ranked 41)  
+Progressed: 287,552 (Ranked 41)  
 Completed: 427 (0.15%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 427 (0.15%) (Ranked 172)
 | 2023-07-12 | 287,108 | 423 |
 | 2023-07-13 | 287,362 | 425 |
 | 2023-07-14 | 287,497 | 426 |
-| 2023-07-15 | 287,546 | 427 |
+| 2023-07-15 | 287,552 | 427 |
 ## Awards
 Max (Character Customization): 20,971  (Ranked 17)  
 Sum: 39,196 (Ranked 30)  

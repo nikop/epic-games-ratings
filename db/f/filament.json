@@ -225,9 +225,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 196341,
+  "EOS_Progressed": 196347,
   "EOS_Completed": 466,
-  "EOS_NewPlayers": 636,
+  "EOS_NewPlayers": 639,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -9310,6 +9310,11 @@
       "Time": "2023-07-15T11:02:30.6420384+00:00",
       "NumProgressed": 196341,
       "NumCompleted": 466
+    },
+    {
+      "Time": "2023-07-15T12:05:17.2024154+00:00",
+      "NumProgressed": 196347,
+      "NumCompleted": 466
     }
   ],
   "TotalAchievements": 29,
@@ -9345,7 +9350,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 184561
+      "UsersEstimate": 184566
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -9457,7 +9462,7 @@
       "Name": "So you\u0027re saying I don\u0027t touch these ones?",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 11780
+      "UsersEstimate": 11781
     },
     {
       "ID": "ACHIEVEMENT_OPUS",
@@ -9505,7 +9510,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 19634
+      "UsersEstimate": 19635
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -9552,7 +9557,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 196341,
+      "Progressed": 196347,
       "Completed": 466
     }
   ],
@@ -9560,8 +9565,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-06-26T22:58:32.656469+00:00",
-  "LastChanged_Achievements": "2023-07-15T11:02:30.6420375+00:00",
+  "LastChanged_Achievements": "2023-07-15T12:05:17.2024145+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:47.6182594+00:00",
-  "LastUpdate_Ratings": "2023-07-15T10:59:54.6984564+00:00",
-  "LastUpdate_Achievements": "2023-07-15T11:02:30.6421169+00:00"
+  "LastUpdate_Ratings": "2023-07-15T12:01:27.2996446+00:00",
+  "LastUpdate_Achievements": "2023-07-15T12:05:17.2024904+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "the-entropy-centre-40bccd",
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2022-11-03T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 222,
+  "EOS_Progressed": 223,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -703,6 +703,11 @@
       "Time": "2023-07-14T22:08:30.7962404+00:00",
       "NumProgressed": 222,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-15T12:10:16.7333154+00:00",
+      "NumProgressed": 223,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -730,15 +735,15 @@
       "Name": "Transformers, cubes in disguise",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_ACT12",
       "SetID": "2310cb1",
       "Name": "Kaboom!",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_ACT13",
@@ -754,7 +759,7 @@
       "Name": "Final Charge",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_ACT15",
@@ -778,15 +783,15 @@
       "Name": "Time Gates",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_ACT3",
       "SetID": "2310cb1",
       "Name": "Command Centre",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 109
+      "UsersEstimate": 107
     },
     {
       "ID": "ACH_ACT4",
@@ -794,15 +799,15 @@
       "Name": "This is a Wall",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACH_ACT5",
       "SetID": "2310cb1",
       "Name": "Extendable Bridges",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 87
     },
     {
       "ID": "ACH_ACT6",
@@ -818,7 +823,7 @@
       "Name": "No Time To Relax",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_ACT8",
@@ -850,7 +855,7 @@
       "Name": "Man\u0027s Best Friend",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_CHAINREACTION",
@@ -858,13 +863,13 @@
       "Name": "Chain Reaction",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_DATARESEARCH",
       "SetID": "2310cb1",
       "Name": "Data Research",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -882,7 +887,7 @@
       "Name": "Handyman",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_LOOPER",
@@ -929,7 +934,7 @@
     {
       "ID": "2310cb1",
       "IsBase": true,
-      "Progressed": 222,
+      "Progressed": 223,
       "Completed": 0
     }
   ],
@@ -937,8 +942,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-07-15T11:07:27.4637054+00:00",
+  "LastChanged_Achievements": "2023-07-15T12:10:16.7333149+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:23.9864201+00:00",
-  "LastUpdate_Ratings": "2023-07-15T10:58:00.7106232+00:00",
-  "LastUpdate_Achievements": "2023-07-15T11:07:27.46373+00:00"
+  "LastUpdate_Ratings": "2023-07-15T11:58:53.4304662+00:00",
+  "LastUpdate_Achievements": "2023-07-15T12:10:16.7333428+00:00"
 }

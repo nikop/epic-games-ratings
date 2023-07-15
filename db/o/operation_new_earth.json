@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 444,
+  "EOS_Progressed": 445,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
@@ -1546,6 +1546,11 @@
       "Time": "2023-07-15T11:05:38.0467929+00:00",
       "NumProgressed": 444,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-15T12:08:11.5844359+00:00",
+      "NumProgressed": 445,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1733,7 +1738,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -1819,7 +1824,7 @@
       "ID": "objective_research_unlock_air_vehicle_tier_4",
       "SetID": "bm61c2p",
       "Name": "Advanced Interceptors",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -1860,14 +1865,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 444,
+      "Progressed": 445,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-15T11:05:38.0467921+00:00",
+  "LastChanged_Achievements": "2023-07-15T12:08:11.5844354+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:28.9258865+00:00",
-  "LastUpdate_Ratings": "2023-07-15T11:01:55.5679855+00:00",
-  "LastUpdate_Achievements": "2023-07-15T11:05:38.0468323+00:00"
+  "LastUpdate_Ratings": "2023-07-15T12:04:21.8447635+00:00",
+  "LastUpdate_Achievements": "2023-07-15T12:08:11.584474+00:00"
 }

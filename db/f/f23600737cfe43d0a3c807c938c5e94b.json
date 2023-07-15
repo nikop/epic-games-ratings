@@ -4,8 +4,8 @@
   "ProductSlug": "reyna-darkness-0e1bb8",
   "Ranking_EOS_Progress": 458,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-07-16T13:00:00+00:00",
     "PcReleaseDate": "2023-07-16T07:00:00+00:00",
@@ -54,9 +54,9 @@
       "ID": "CHAMPION",
       "SetID": "517hp5f",
       "Name": "CHAMPION",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CONQUEROR",
@@ -86,9 +86,9 @@
       "ID": "GENERAL OF WAR",
       "SetID": "517hp5f",
       "Name": "GENERAL OF WAR",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 135,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "LEATHERWORKER",
@@ -148,8 +148,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-18T07:00:32.9688598+00:00",
-  "LastChanged_Achievements": "2023-07-15T11:02:39.5076988+00:00",
+  "LastChanged_Achievements": "2023-07-15T12:05:30.0109249+00:00",
   "LastUpdate_AppInfo": "2023-07-09T07:57:07.9243175+00:00",
-  "LastUpdate_Ratings": "2023-07-15T10:57:15.7560666+00:00",
-  "LastUpdate_Achievements": "2023-07-15T11:02:39.5077092+00:00"
+  "LastUpdate_Ratings": "2023-07-15T11:57:36.3695005+00:00",
+  "LastUpdate_Achievements": "2023-07-15T12:05:30.0109337+00:00"
 }

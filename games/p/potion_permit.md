@@ -5,29 +5,29 @@ Rating: 3.82 (Ranked 939)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,433 |
-| The First Step | 89.00% | ~1,301 |
+| Welcome to Moonbury | 98.00% | ~1,434 |
+| The First Step | 89.00% | ~1,302 |
 | Moonbury Traveller | 64.00% | ~936 |
-| Rookie Chemist | 63.00% | ~921 |
-| Great Doctor | 52.00% | ~760 |
-| Dog Whisperer | 49.00% | ~716 |
+| Rookie Chemist | 63.00% | ~922 |
+| Great Doctor | 52.00% | ~761 |
+| Dog Whisperer | 49.00% | ~717 |
 | Friendly | 48.00% | ~702 |
-| The Capitalist | 44.00% | ~643 |
+| The Capitalist | 44.00% | ~644 |
 | K.O.! | 43.00% | ~629 |
 | Intermediate Chemist | 40.00% | ~585 |
-| Decorative Mind | 31.00% | ~453 |
-| Lumber Specialist | 31.00% | ~453 |
+| Decorative Mind | 31.00% | ~454 |
+| Lumber Specialist | 31.00% | ~454 |
 | Catch of the Day | 25.00% | ~366 |
 | Kind-hearted | 24.00% | ~351 |
 | Amateur Chef | 22.00% | ~322 |
-| Fishing Guru | 20.00% | ~292 |
+| Fishing Guru | 20.00% | ~293 |
 | Spark of Love | 17.00% | ~249 |
 | Community Helper | 17.00% | ~249 |
 | Expert Chemist | 14.00% | ~205 |
 | Stone Specialist | 14.00% | ~205 |
 | Ablutomaniac | 13.00% | ~190 |
-| Line Cook | 12.00% | ~175 |
-| Sociable | 12.00% | ~175 |
+| Line Cook | 12.00% | ~176 |
+| Sociable | 12.00% | ~176 |
 | Production Sorter | 11.00% | ~161 |
 | Good Samaritan | 10.00% | ~146 |
 | Acrobatic Adventurer | 9.00% | ~132 |
@@ -35,7 +35,7 @@ Rating: 3.82 (Ranked 939)
 | Adolescent Love | 6.00% | ~88 |
 | Mail Carrier | 6.00% | ~88 |
 | Plantation Exterminator | 5.00% | ~73 |
-| Grape Supplier | 4.00% | ~58 |
+| Grape Supplier | 4.00% | ~59 |
 | Sous Chef | 3.00% | ~44 |
 | Being forgetful... | 2.00% | ~29 |
 | Community Advisor | 2.00% | ~29 |
@@ -44,7 +44,7 @@ Rating: 3.82 (Ranked 939)
 | Moonbury Navigator | 1.00% | ~15 |
 | Being a donut... | 0.70% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,462 (Ranked 172)  
+Progressed: 1,463 (Ranked 172)  
 Completed: 8 (0.55%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,6 +111,7 @@ Completed: 8 (0.55%) (Ranked 124)
 | 2023-07-11 | 1,460 | 8 |
 | 2023-07-12 | 1,461 | 8 |
 | 2023-07-13 | 1,462 | 8 |
+| 2023-07-15 | 1,463 | 8 |
 ## Awards
 Max (Character Customization): 67  (Ranked 376)  
 Sum: 67 (Ranked 433)  

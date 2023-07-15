@@ -4,8 +4,8 @@
   "ProductSlug": "voltaire-e1c517",
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-02-27T17:00:00+00:00",
     "PcReleaseDate": "2023-02-27T17:00:00+00:00",
@@ -304,9 +304,9 @@
       "ID": "KILL_ELCAPITAN",
       "SetID": "3c20ib3",
       "Name": "Ay ay yarrr!",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "KILL_ENEMIES",
@@ -384,9 +384,9 @@
       "ID": "SILVERBANE",
       "SetID": "3c20ib3",
       "Name": "There be sand in me shorts",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "SNOWSCALE",
@@ -449,8 +449,8 @@
   "FirstSeenRating": "2023-03-31T05:58:46.1122799+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.0090692+00:00",
   "LastChanged": "2023-03-31T05:58:46.11228+00:00",
-  "LastChanged_Achievements": "2023-07-15T10:04:21.5113438+00:00",
+  "LastChanged_Achievements": "2023-07-15T12:04:50.2493486+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:20.4350138+00:00",
-  "LastUpdate_Ratings": "2023-07-15T10:57:57.3233497+00:00",
-  "LastUpdate_Achievements": "2023-07-15T10:04:21.5113762+00:00"
+  "LastUpdate_Ratings": "2023-07-15T11:58:47.3380586+00:00",
+  "LastUpdate_Achievements": "2023-07-15T12:04:50.2494093+00:00"
 }

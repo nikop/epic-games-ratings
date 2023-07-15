@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 147,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -146,9 +146,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16278,
+  "EOS_Progressed": 16279,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -7276,6 +7276,11 @@
       "Time": "2023-07-15T09:08:04.9568977+00:00",
       "NumProgressed": 16278,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-07-15T12:10:12.6999127+00:00",
+      "NumProgressed": 16279,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 14,
@@ -7327,7 +7332,7 @@
       "Name": "Everyone\u0027s Born to Die",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 2604
+      "UsersEstimate": 2605
     },
     {
       "ID": "ACH_HELLO_MY_OLD_FRIEND",
@@ -7343,7 +7348,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 8627
+      "UsersEstimate": 8628
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -7398,15 +7403,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 16278,
+      "Progressed": 16279,
       "Completed": 50
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-05-31T22:01:00.0124016+00:00",
-  "LastChanged_Achievements": "2023-07-15T11:07:24.7266987+00:00",
+  "LastChanged_Achievements": "2023-07-15T12:10:12.6999121+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:24.7695295+00:00",
-  "LastUpdate_Ratings": "2023-07-15T11:01:51.4353457+00:00",
-  "LastUpdate_Achievements": "2023-07-15T11:07:24.7267569+00:00"
+  "LastUpdate_Ratings": "2023-07-15T12:04:16.0782389+00:00",
+  "LastUpdate_Achievements": "2023-07-15T12:10:12.6999793+00:00"
 }

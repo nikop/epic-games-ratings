@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Good to have Allies | 42.00% | ~186 |
+| It's Good to have Allies | 42.00% | ~187 |
 | Defenses Online | 40.00% | ~178 |
 | Facility Online | 34.00% | ~151 |
 | Corporal | 25.00% | ~111 |
@@ -38,12 +38,12 @@
 | Titan Tanks | 1.00% | ~4 |
 | Shock Troops | 0.90% | ~4 |
 | Jet Troops | 0.90% | ~4 |
-| Advanced Interceptors | 0.50% | ~2 |
+| Advanced Interceptors | 0.40% | ~2 |
 | Gold Competitor | 0.00% | ~0 |
 | Platinum Achiever | 0.00% | ~0 |
 | Platinum Competitor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 444 (Ranked 222)  
+Progressed: 445 (Ranked 222)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,4 +80,4 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-12 | 417 | 0 |
 | 2023-07-13 | 426 | 0 |
 | 2023-07-14 | 437 | 0 |
-| 2023-07-15 | 444 | 0 |
+| 2023-07-15 | 445 | 0 |

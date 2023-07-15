@@ -6,14 +6,14 @@ Rating: 4.81 (Ranked 75)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | For Demacia | 96.00% | ~2,340 |
-| No more cages! | 92.00% | ~2,242 |
-| Everfrost | 78.00% | ~1,901 |
-| Pentakill | 77.00% | ~1,876 |
-| Dark Forest | 77.00% | ~1,876 |
-| The use of petricite | 74.00% | ~1,803 |
+| No more cages! | 92.00% | ~2,243 |
+| Everfrost | 78.00% | ~1,902 |
+| Pentakill | 77.00% | ~1,877 |
+| Dark Forest | 77.00% | ~1,877 |
+| The use of petricite | 74.00% | ~1,804 |
 | You can pet the dog | 61.00% | ~1,487 |
-| Big Helmet Bro | 36.00% | ~877 |
-| Clarion Cove | 36.00% | ~877 |
+| Big Helmet Bro | 36.00% | ~878 |
+| Clarion Cove | 36.00% | ~878 |
 | Past trauma | 35.00% | ~853 |
 | Thornbarrow | 35.00% | ~853 |
 | Elemental master | 34.00% | ~829 |
@@ -21,7 +21,7 @@ Rating: 4.81 (Ranked 75)
 | Cypress Glen Headquarters | 32.00% | ~780 |
 | Petricite Burst | 30.00% | ~731 |
 | Old friend | 29.00% | ~707 |
-| Devineur | 28.00% | ~682 |
+| Devineur | 28.00% | ~683 |
 | Whispers in the Woods I | 27.00% | ~658 |
 | Hijack | 27.00% | ~658 |
 | Ancient power | 24.00% | ~585 |
@@ -29,9 +29,9 @@ Rating: 4.81 (Ranked 75)
 | Sacred Woods | 22.00% | ~536 |
 | Little light | 21.00% | ~512 |
 | Capelworth | 21.00% | ~512 |
-| Glyndemere | 20.00% | ~487 |
-| Iffighain Headquarters | 20.00% | ~487 |
-| Full equipped | 20.00% | ~487 |
+| Glyndemere | 20.00% | ~488 |
+| Iffighain Headquarters | 20.00% | ~488 |
+| Full equipped | 20.00% | ~488 |
 | Whispers in the Woods II | 17.00% | ~414 |
 | Quickmoore Headquarters | 17.00% | ~414 |
 | No more holding back | 16.00% | ~390 |
@@ -43,8 +43,8 @@ Rating: 4.81 (Ranked 75)
 | Friendly fire | 14.00% | ~341 |
 | The Central Headquarters | 14.00% | ~341 |
 | Cloven Dell Headquarters | 14.00% | ~341 |
-| Embrace the darkness | 12.00% | ~292 |
-| Whispers in the Woods IV | 12.00% | ~292 |
+| Embrace the darkness | 12.00% | ~293 |
+| Whispers in the Woods IV | 12.00% | ~293 |
 | I smell fear | 11.00% | ~268 |
 | The end of the experiments | 11.00% | ~268 |
 | The Great City of Demacia | 11.00% | ~268 |
@@ -57,9 +57,9 @@ Rating: 4.81 (Ranked 75)
 | The great mage rebellion starts now | 8.00% | ~195 |
 | Spellcrafting | 8.00% | ~195 |
 | Silverwing nest | 2.00% | ~49 |
-| The Unshackled | 0.80% | ~19 |
+| The Unshackled | 0.80% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,437 (Ranked 158)  
+Progressed: 2,438 (Ranked 158)  
 Completed: 4 (0.16%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,6 +140,7 @@ Completed: 4 (0.16%) (Ranked 169)
 | 2023-07-10 | 2,432 | 4 |
 | 2023-07-13 | 2,435 | 4 |
 | 2023-07-14 | 2,437 | 4 |
+| 2023-07-15 | 2,438 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

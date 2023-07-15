@@ -13,11 +13,11 @@
 | It's about the journey | 13.00% | ~14 |
 | C'who? | 10.00% | ~10 |
 | Shine bright | 10.00% | ~10 |
-| There be sand in me shorts | 8.00% | ~8 |
+| There be sand in me shorts | 9.00% | ~9 |
 | It gets everywhere | 8.00% | ~8 |
 | Make it rain | 7.00% | ~7 |
+| Ay ay yarrr! | 7.00% | ~7 |
 | Holy Crops! | 7.00% | ~7 |
-| Ay ay yarrr! | 6.00% | ~6 |
 | Do you wanna build a snowboiii? | 6.00% | ~6 |
 | Peaceful skies | 4.00% | ~4 |
 | Groovy! | 4.00% | ~4 |

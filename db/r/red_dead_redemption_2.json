@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 7,
   "Ranking_EOS_Progress": 494,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2019-11-05T13:00:00+00:00",
     "PcReleaseDate": null,
@@ -9476,10 +9476,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 408175,
       "NumberOfAwardsMax": 159247
+    },
+    {
+      "Time": "2023-07-15T12:01:57.7494897+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 408213,
+      "NumberOfAwardsMax": 159247
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 408175,
+  "NumberOfAwards": 408213,
   "NumberOfAwardsMax": 159247,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -9499,7 +9505,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 15119
+      "Count": 15157
     },
     {
       "Text": "This game has Amazing Characters",
@@ -9579,8 +9585,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-07-15T11:00:15.6450469+00:00",
+  "LastChanged": "2023-07-15T12:01:57.7494895+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:03.509176+00:00",
-  "LastUpdate_Ratings": "2023-07-15T11:00:15.6450476+00:00",
-  "LastUpdate_Achievements": "2023-07-15T11:04:50.7062955+00:00"
+  "LastUpdate_Ratings": "2023-07-15T12:01:57.7494904+00:00",
+  "LastUpdate_Achievements": "2023-07-15T12:07:24.6999525+00:00"
 }

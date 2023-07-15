@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1113,9 +1113,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 7368,
+  "EOS_Progressed": 7369,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 184,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8098,6 +8098,11 @@
       "Time": "2023-07-15T11:05:32.1131767+00:00",
       "NumProgressed": 7368,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-15T12:08:02.8597775+00:00",
+      "NumProgressed": 7369,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -8109,7 +8114,7 @@
       "Name": "Leader",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4494
+      "UsersEstimate": 4495
     },
     {
       "ID": "10",
@@ -8141,7 +8146,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3905
+      "UsersEstimate": 3906
     },
     {
       "ID": "14",
@@ -8189,7 +8194,7 @@
       "Name": "Healer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3905
+      "UsersEstimate": 3906
     },
     {
       "ID": "2",
@@ -8221,7 +8226,7 @@
       "Name": "First Step",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 5231
+      "UsersEstimate": 5232
     },
     {
       "ID": "23",
@@ -8261,7 +8266,7 @@
       "Name": "Energized",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2431
+      "UsersEstimate": 2432
     },
     {
       "ID": "28",
@@ -8277,7 +8282,7 @@
       "Name": "Trader",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "3",
@@ -8381,7 +8386,7 @@
       "Name": "Bread and Circuses",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "41",
@@ -8437,7 +8442,7 @@
       "Name": "The Long Haul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2431
+      "UsersEstimate": 2432
     },
     {
       "ID": "48",
@@ -8580,15 +8585,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 7368,
+      "Progressed": 7369,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-07-10T18:59:49.6451369+00:00",
-  "LastChanged_Achievements": "2023-07-15T11:05:32.1131759+00:00",
+  "LastChanged_Achievements": "2023-07-15T12:08:02.859777+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:57.9913837+00:00",
-  "LastUpdate_Ratings": "2023-07-15T11:01:18.5319106+00:00",
-  "LastUpdate_Achievements": "2023-07-15T11:05:32.1132755+00:00"
+  "LastUpdate_Ratings": "2023-07-15T12:03:30.3204238+00:00",
+  "LastUpdate_Achievements": "2023-07-15T12:08:02.8598758+00:00"
 }

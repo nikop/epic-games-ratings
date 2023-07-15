@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Lucky charm | 92.00% | ~163 |
-| Trumpet | 89.00% | ~158 |
+| Trumpet | 90.00% | ~159 |
 | Spyglass | 84.00% | ~149 |
 | Broken toy | 78.00% | ~138 |
 | Egghead Lucy | 75.00% | ~133 |
@@ -31,7 +31,7 @@
 | Hope | 6.00% | ~11 |
 | Hairball | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 177 (Ranked 275)  
+Progressed: 177 (Ranked 276)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |

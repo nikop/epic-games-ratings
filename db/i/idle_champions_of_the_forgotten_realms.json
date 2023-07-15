@@ -4928,10 +4928,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 30520,
       "NumberOfAwardsMax": 5033
+    },
+    {
+      "Time": "2023-07-15T12:00:11.1572646+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30521,
+      "NumberOfAwardsMax": 5033
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30520,
+  "NumberOfAwards": 30521,
   "NumberOfAwardsMax": 5033,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4969,7 +4975,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4004
+      "Count": 4005
     },
     {
       "Text": "This game has Playful Visuals",
@@ -4978,9 +4984,9 @@
       "Count": 3302
     }
   ],
-  "EOS_Progressed": 211739,
+  "EOS_Progressed": 211762,
   "EOS_Completed": 2051,
-  "EOS_NewPlayers": 3314,
+  "EOS_NewPlayers": 3298,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -14133,6 +14139,11 @@
       "Time": "2023-07-15T11:05:56.2842215+00:00",
       "NumProgressed": 211739,
       "NumCompleted": 2051
+    },
+    {
+      "Time": "2023-07-15T12:08:38.6167861+00:00",
+      "NumProgressed": 211762,
+      "NumCompleted": 2051
     }
   ],
   "TotalAchievements": 507,
@@ -15816,7 +15827,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "objective_completed_34",
@@ -15824,7 +15835,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "objective_completed_35",
@@ -15832,7 +15843,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "objective_completed_36",
@@ -15936,7 +15947,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "objective_completed_390",
@@ -16008,7 +16019,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "objective_completed_40",
@@ -16280,7 +16291,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "objective_completed_54",
@@ -16688,7 +16699,7 @@
       "Name": "The Contagious Curse",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "objective_completed_60",
@@ -17216,7 +17227,7 @@
       "Name": "Escort to Waterdeep",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "objective_completed_690",
@@ -17288,7 +17299,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "objective_completed_70",
@@ -17320,7 +17331,7 @@
       "Name": "Waterdeep Detours",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "objective_completed_75",
@@ -17352,7 +17363,7 @@
       "Name": "Underdeep Cartography",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "objective_completed_8",
@@ -17360,7 +17371,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "objective_completed_80",
@@ -17888,7 +17899,7 @@
       "Name": "Pure Energy",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "objective_completed_902",
@@ -18199,21 +18210,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 178013,
+      "Progressed": 178036,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 211739,
+      "Progressed": 211762,
       "Completed": 2051
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-07-15T07:58:35.3544621+00:00",
-  "LastChanged_Achievements": "2023-07-15T11:05:56.2842209+00:00",
+  "LastChanged": "2023-07-15T12:00:11.1572644+00:00",
+  "LastChanged_Achievements": "2023-07-15T12:08:38.6167856+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:48.5227447+00:00",
-  "LastUpdate_Ratings": "2023-07-15T10:58:57.5098098+00:00",
-  "LastUpdate_Achievements": "2023-07-15T11:05:56.2867725+00:00"
+  "LastUpdate_Ratings": "2023-07-15T12:00:11.1572652+00:00",
+  "LastUpdate_Achievements": "2023-07-15T12:08:38.6196277+00:00"
 }

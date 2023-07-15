@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -568,7 +568,7 @@
       "Count": 218
     }
   ],
-  "EOS_Progressed": 11057,
+  "EOS_Progressed": 11058,
   "EOS_Completed": 30,
   "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 4,
@@ -6608,6 +6608,11 @@
       "Time": "2023-07-15T09:08:12.5667788+00:00",
       "NumProgressed": 11057,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-07-15T12:10:21.177982+00:00",
+      "NumProgressed": 11058,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 35,
@@ -6619,7 +6624,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 8956
+      "UsersEstimate": 8957
     },
     {
       "ID": "ACH02",
@@ -6675,7 +6680,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5528
+      "UsersEstimate": 5529
     },
     {
       "ID": "ACH09",
@@ -6841,9 +6846,9 @@
       "ID": "ACH29",
       "SetID": "4ck5mbe",
       "Name": "Today Was a Good Day",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 1548
+      "UsersEstimate": 1659
     },
     {
       "ID": "ACH30",
@@ -6898,7 +6903,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11057,
+      "Progressed": 11058,
       "Completed": 30
     }
   ],
@@ -6906,8 +6911,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-15T10:02:24.2938104+00:00",
-  "LastChanged_Achievements": "2023-07-15T11:07:30.8674918+00:00",
+  "LastChanged_Achievements": "2023-07-15T12:10:21.1779811+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:18.5169648+00:00",
-  "LastUpdate_Ratings": "2023-07-15T11:01:44.7635159+00:00",
-  "LastUpdate_Achievements": "2023-07-15T11:07:30.8675507+00:00"
+  "LastUpdate_Ratings": "2023-07-15T12:04:01.763483+00:00",
+  "LastUpdate_Achievements": "2023-07-15T12:10:21.1780827+00:00"
 }
