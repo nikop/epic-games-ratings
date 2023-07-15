@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 267,
+  "EOS_Progressed": 268,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -521,6 +521,11 @@
       "Time": "2023-07-14T20:03:55.1623832+00:00",
       "NumProgressed": 267,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-15T19:04:36.2090044+00:00",
+      "NumProgressed": 268,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 162,
@@ -596,7 +601,7 @@
       "Name": "Newbie",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -770,9 +775,9 @@
       "ID": "ACHIEVEMENT_201",
       "SetID": "76k7b7p",
       "Name": "Better than cake",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "ACHIEVEMENT_203",
@@ -1827,14 +1832,14 @@
     {
       "ID": "76k7b7p",
       "IsBase": true,
-      "Progressed": 267,
+      "Progressed": 268,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2023-07-15T18:07:18.5476096+00:00",
+  "LastChanged_Achievements": "2023-07-15T19:04:36.209004+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:00.3792412+00:00",
-  "LastUpdate_Ratings": "2023-07-15T17:58:05.8361849+00:00",
-  "LastUpdate_Achievements": "2023-07-15T18:07:18.5479911+00:00"
+  "LastUpdate_Ratings": "2023-07-15T18:57:50.1501247+00:00",
+  "LastUpdate_Achievements": "2023-07-15T19:04:36.2093219+00:00"
 }

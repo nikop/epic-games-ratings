@@ -9,7 +9,7 @@ Rating: 4.48 (Ranked 588)
 | Increasing your Power Level | 27.00% | ~287 |
 | Enter the Speed Gauntlet | 25.00% | ~266 |
 | I just can't choose | 25.00% | ~266 |
-| A Cheese Grater to the Face | 20.00% | ~212 |
+| A Cheese Grater to the Face | 20.00% | ~213 |
 | It's like an haircut | 18.00% | ~191 |
 | Put it on a shelf | 18.00% | ~191 |
 | Suit up | 17.00% | ~181 |
@@ -27,12 +27,12 @@ Rating: 4.48 (Ranked 588)
 | Even Faster! | 6.00% | ~64 |
 | Longshot | 6.00% | ~64 |
 | B-asic! | 5.00% | ~53 |
-| Under the neon lights | 4.00% | ~42 |
-| All Power to Engines! | 4.00% | ~42 |
-| Had to sweat a bit | 4.00% | ~42 |
-| Almost broke the game | 4.00% | ~42 |
-| Better luck next time | 4.00% | ~42 |
-| Dev, this! | 4.00% | ~42 |
+| Under the neon lights | 4.00% | ~43 |
+| All Power to Engines! | 4.00% | ~43 |
+| Had to sweat a bit | 4.00% | ~43 |
+| Almost broke the game | 4.00% | ~43 |
+| Better luck next time | 4.00% | ~43 |
+| Dev, this! | 4.00% | ~43 |
 | Try them all | 3.00% | ~32 |
 | A-mazing! | 3.00% | ~32 |
 | To infinity and gravity! | 3.00% | ~32 |
@@ -54,11 +54,11 @@ Rating: 4.48 (Ranked 588)
 | Better than half the studio... | 1.00% | ~11 |
 | Redout Grandmaster | 0.90% | ~10 |
 | Grandslam | 0.90% | ~10 |
-| Beat you to it! | 0.80% | ~8 |
+| Beat you to it! | 0.80% | ~9 |
 | I, need, more, shelves! | 0.50% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,062 (Ranked 186)  
+Progressed: 1,063 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-08 | 1,052 | 0 |
 | 2023-07-10 | 1,053 | 0 |
 | 2023-07-11 | 1,056 | 0 |
-| 2023-07-15 | 1,062 | 0 |
+| 2023-07-15 | 1,063 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

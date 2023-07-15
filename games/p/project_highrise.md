@@ -21,22 +21,22 @@
 | Potent Potables | 24.00% | ~55 |
 | Retail Revenue | 24.00% | ~55 |
 | Smooth Service | 24.00% | ~55 |
+| Leveled Up Shops | 23.00% | ~53 |
 | Lux Living | 22.00% | ~51 |
 | People Mover | 22.00% | ~51 |
-| Leveled Up Shops | 22.00% | ~51 |
 | Emporium Empire | 21.00% | ~48 |
 | Get Electrified | 21.00% | ~48 |
+| Artfully Done | 20.00% | ~46 |
 | Rehab Expert | 20.00% | ~46 |
 | Don't Feel a Loan | 20.00% | ~46 |
 | Tasty Profits | 20.00% | ~46 |
-| Artfully Done | 19.00% | ~44 |
 | We Don't Need No Education | 19.00% | ~44 |
 | Under One Roof | 17.00% | ~39 |
 | Established Fame | 17.00% | ~39 |
 | Cashflow Chief | 17.00% | ~39 |
+| Boutique Benefits | 16.00% | ~37 |
 | Terrifically Trashed | 16.00% | ~37 |
 | Starred Dining | 15.00% | ~34 |
-| Boutique Benefits | 15.00% | ~34 |
 | Thrilled Tenants | 15.00% | ~34 |
 | Smooth Operator | 13.00% | ~30 |
 | Swimming in Surplus | 13.00% | ~30 |

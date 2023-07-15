@@ -5613,9 +5613,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 55807,
+  "EOS_Progressed": 55808,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 492,
+  "EOS_NewPlayers": 489,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14528,6 +14528,11 @@
       "Time": "2023-07-15T18:10:35.0887147+00:00",
       "NumProgressed": 55807,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-15T19:08:16.6706221+00:00",
+      "NumProgressed": 55808,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -14553,9 +14558,9 @@
       "ID": "Bannerlord",
       "SetID": "den0lp1",
       "Name": "Bannerlord",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 65,
-      "UsersEstimate": 11719
+      "UsersEstimate": 12278
     },
     {
       "ID": "Best served cold",
@@ -14795,7 +14800,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 3906
+      "UsersEstimate": 3907
     },
     {
       "ID": "Minor Clan",
@@ -14915,7 +14920,7 @@
       "Name": "Trained",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 11719
+      "UsersEstimate": 11720
     },
     {
       "ID": "Undercover",
@@ -14946,15 +14951,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 55807,
+      "Progressed": 55808,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-07-15T10:01:44.2536172+00:00",
-  "LastChanged_Achievements": "2023-07-15T18:10:35.088714+00:00",
+  "LastChanged_Achievements": "2023-07-15T19:08:16.6706214+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:48.1005966+00:00",
-  "LastUpdate_Ratings": "2023-07-15T18:04:07.6503609+00:00",
-  "LastUpdate_Achievements": "2023-07-15T18:10:35.088846+00:00"
+  "LastUpdate_Ratings": "2023-07-15T19:01:32.452878+00:00",
+  "LastUpdate_Achievements": "2023-07-15T19:08:16.6707264+00:00"
 }

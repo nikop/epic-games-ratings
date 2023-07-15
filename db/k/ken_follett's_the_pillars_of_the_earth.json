@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -489,7 +489,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13918,
+  "EOS_Progressed": 13919,
   "EOS_Completed": 105,
   "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 1,
@@ -6144,6 +6144,11 @@
       "Time": "2023-07-15T18:06:03.7755839+00:00",
       "NumProgressed": 13918,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2023-07-15T19:02:53.7181777+00:00",
+      "NumProgressed": 13919,
+      "NumCompleted": 105
     }
   ],
   "TotalAchievements": 41,
@@ -6171,7 +6176,7 @@
       "Name": "Wannabe knight",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3340
+      "UsersEstimate": 3341
     },
     {
       "ID": "tpote_achievement_12",
@@ -6235,7 +6240,7 @@
       "Name": "Negotiation skills",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2644
+      "UsersEstimate": 2645
     },
     {
       "ID": "tpote_achievement_2",
@@ -6371,7 +6376,7 @@
       "Name": "A cry for help",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1114
     },
     {
       "ID": "tpote_achievement_35",
@@ -6419,7 +6424,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 5706
+      "UsersEstimate": 5707
     },
     {
       "ID": "tpote_achievement_40",
@@ -6443,7 +6448,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3340
+      "UsersEstimate": 3341
     },
     {
       "ID": "tpote_achievement_6",
@@ -6451,7 +6456,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3340
+      "UsersEstimate": 3341
     },
     {
       "ID": "tpote_achievement_7",
@@ -6475,22 +6480,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4871
+      "UsersEstimate": 4872
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13918,
+      "Progressed": 13919,
       "Completed": 105
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-15T18:06:03.7755832+00:00",
+  "LastChanged_Achievements": "2023-07-15T19:02:53.7181772+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:01.688698+00:00",
-  "LastUpdate_Ratings": "2023-07-15T18:04:32.2540823+00:00",
-  "LastUpdate_Achievements": "2023-07-15T18:06:03.7756491+00:00"
+  "LastUpdate_Ratings": "2023-07-15T19:01:45.6534588+00:00",
+  "LastUpdate_Achievements": "2023-07-15T19:02:53.7182529+00:00"
 }

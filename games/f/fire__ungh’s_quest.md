@@ -17,17 +17,17 @@
 | BumBum | 42.00% | ~89 |
 | Blunga 10 | 41.00% | ~87 |
 | Onk Boga V | 38.00% | ~80 |
-| Onk Boga VI | 35.00% | ~74 |
-| IQ62 | 35.00% | ~74 |
-| 1978 | 34.00% | ~72 |
-| Onk Boga VII | 34.00% | ~72 |
-| Onk Boga VIII | 33.00% | ~70 |
-| Blubb | 33.00% | ~70 |
-| ParaPara! | 31.00% | ~65 |
-| Onk Boga IX | 31.00% | ~65 |
+| Onk Boga VI | 36.00% | ~76 |
+| IQ62 | 36.00% | ~76 |
+| 1978 | 35.00% | ~74 |
+| Onk Boga VII | 35.00% | ~74 |
+| Onk Boga VIII | 34.00% | ~72 |
+| Blubb | 34.00% | ~72 |
+| ParaPara! | 32.00% | ~68 |
+| Onk Boga IX | 32.00% | ~68 |
+| Kokakoka | 31.00% | ~65 |
 | AKRE! | 31.00% | ~65 |
-| Kokakoka | 30.00% | ~63 |
-| Blunga 15 | 29.00% | ~61 |
+| Blunga 15 | 30.00% | ~63 |
 | Blunga 20 | 11.00% | ~23 |
 | Blunga 25 | 7.00% | ~15 |
 | Blunga 30 | 6.00% | ~13 |

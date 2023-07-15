@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 454,
+  "EOS_Progressed": 455,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1576,6 +1576,11 @@
       "Time": "2023-07-15T17:08:44.5551305+00:00",
       "NumProgressed": 454,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-15T19:05:58.1965034+00:00",
+      "NumProgressed": 455,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1603,7 +1608,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ach_defeat_players_100",
@@ -1689,9 +1694,9 @@
       "ID": "objective_headquarters_5",
       "SetID": "bm61c2p",
       "Name": "Facility Online",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 159
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -1779,7 +1784,7 @@
       "Name": "Getting Deployment",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -1827,7 +1832,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -1890,14 +1895,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 454,
+      "Progressed": 455,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-15T18:08:23.0970449+00:00",
+  "LastChanged_Achievements": "2023-07-15T19:05:58.1965027+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:28.9258865+00:00",
-  "LastUpdate_Ratings": "2023-07-15T18:05:25.003478+00:00",
-  "LastUpdate_Achievements": "2023-07-15T18:08:23.0970852+00:00"
+  "LastUpdate_Ratings": "2023-07-15T19:02:28.2199962+00:00",
+  "LastUpdate_Achievements": "2023-07-15T19:05:58.1965427+00:00"
 }

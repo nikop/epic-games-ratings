@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1062,
+  "EOS_Progressed": 1063,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -595,6 +595,11 @@
       "Time": "2023-07-15T18:06:12.4598214+00:00",
       "NumProgressed": 1062,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-15T19:03:02.2740683+00:00",
+      "NumProgressed": 1063,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -718,7 +723,7 @@
       "Name": "Under the neon lights",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ALLTROPHIES",
@@ -774,7 +779,7 @@
       "Name": "All Power to Engines!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "CAREERTRIALSA",
@@ -782,7 +787,7 @@
       "Name": "Had to sweat a bit",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "CAREERTRIALSB",
@@ -854,7 +859,7 @@
       "Name": "Almost broke the game",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "GRANDMASTER",
@@ -894,7 +899,7 @@
       "Name": "Better luck next time",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ONEAESTHETIC",
@@ -934,7 +939,7 @@
       "Name": "Dev, this!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ONETROPHY",
@@ -958,7 +963,7 @@
       "Name": "A Cheese Grater to the Face",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "TENPLATINUM",
@@ -982,7 +987,7 @@
       "Name": "Beat you to it!",
       "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "WINGRANDSLAM",
@@ -1021,7 +1026,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1062,
+      "Progressed": 1063,
       "Completed": 0
     }
   ],
@@ -1029,8 +1034,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-07-15T18:06:12.4598208+00:00",
+  "LastChanged_Achievements": "2023-07-15T19:03:02.2740675+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:52.2995402+00:00",
-  "LastUpdate_Ratings": "2023-07-15T18:00:21.5965478+00:00",
-  "LastUpdate_Achievements": "2023-07-15T18:06:12.4598702+00:00"
+  "LastUpdate_Ratings": "2023-07-15T18:59:19.3190844+00:00",
+  "LastUpdate_Achievements": "2023-07-15T19:03:02.2741184+00:00"
 }

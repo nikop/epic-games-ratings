@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 756,
+  "EOS_Progressed": 757,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -1619,6 +1619,11 @@
       "Time": "2023-07-15T13:21:13.0956409+00:00",
       "NumProgressed": 756,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-15T19:08:16.0122651+00:00",
+      "NumProgressed": 757,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1700,9 +1705,9 @@
       "ID": "CosmeticProgress1",
       "SetID": "a9e499d",
       "Name": "Street Style",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 83
     },
     {
       "ID": "CultivairChests1",
@@ -1726,7 +1731,7 @@
       "Name": "Family Memories",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "FactorywoodChests1",
@@ -1750,7 +1755,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -1974,7 +1979,7 @@
       "Name": "Sump Explorer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "SyronGift",
@@ -1982,7 +1987,7 @@
       "Name": "Syron for Hope",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "TemporalPulseKills1",
@@ -1998,7 +2003,7 @@
       "Name": "Theater Explorer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "TimewinderMultiKill1",
@@ -2053,14 +2058,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 756,
+      "Progressed": 757,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-15T18:10:34.6026995+00:00",
+  "LastChanged_Achievements": "2023-07-15T19:08:16.0122645+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:20.5747926+00:00",
-  "LastUpdate_Ratings": "2023-07-15T18:03:11.9859956+00:00",
-  "LastUpdate_Achievements": "2023-07-15T18:10:34.602747+00:00"
+  "LastUpdate_Ratings": "2023-07-15T19:00:57.1417915+00:00",
+  "LastUpdate_Achievements": "2023-07-15T19:08:16.0123241+00:00"
 }

@@ -20,7 +20,7 @@
 | Passing the carcass. | 5.00% | ~10 |
 | Lightning swamp. | 4.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 192 (Ranked 272)  
+Progressed: 192 (Ranked 273)  
 Completed: 4 (2.08%) (Ranked 76)  
 ## EOS Players History
 | Date | Progressed | Completed |

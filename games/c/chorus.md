@@ -6,9 +6,9 @@ Number of Ratings: 58  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Another Life | 85.00% | ~875 |
+| Another Life | 86.00% | ~885 |
+| Voices from the Past | 79.00% | ~813 |
 | Space Traveler | 79.00% | ~813 |
-| Voices from the Past | 78.00% | ~803 |
 | Demigod | 76.00% | ~782 |
 | The Great Destroyer | 75.00% | ~772 |
 | Shields Down | 72.00% | ~741 |

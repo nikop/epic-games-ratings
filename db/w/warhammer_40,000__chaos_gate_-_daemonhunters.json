@@ -606,9 +606,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2967,
+  "EOS_Progressed": 2968,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2231,6 +2231,11 @@
       "Time": "2023-07-15T16:08:16.9786746+00:00",
       "NumProgressed": 2967,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-15T19:02:55.0290679+00:00",
+      "NumProgressed": 2968,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2338,7 +2343,7 @@
       "Name": "Surgical Excision",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -2410,7 +2415,7 @@
       "Name": "Not So Fast...",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "Kills_Bleed",
@@ -2434,7 +2439,7 @@
       "Name": "Executioner",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1157
+      "UsersEstimate": 1158
     },
     {
       "ID": "Kills_Exterminator",
@@ -2450,7 +2455,7 @@
       "Name": "Friendly Fire",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "Kills_Interactable",
@@ -2578,7 +2583,7 @@
       "Name": "Bloodless",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "MissionVictory_NoWP",
@@ -2713,21 +2718,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2967,
+      "Progressed": 2968,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2967,
+      "Progressed": 2968,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-13T14:59:29.0223898+00:00",
-  "LastChanged_Achievements": "2023-07-15T18:06:05.0032343+00:00",
+  "LastChanged_Achievements": "2023-07-15T19:02:55.0290672+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:36.8896867+00:00",
-  "LastUpdate_Ratings": "2023-07-15T18:01:30.1686177+00:00",
-  "LastUpdate_Achievements": "2023-07-15T18:06:05.0032988+00:00"
+  "LastUpdate_Ratings": "2023-07-15T19:00:04.2222035+00:00",
+  "LastUpdate_Achievements": "2023-07-15T19:02:55.029147+00:00"
 }

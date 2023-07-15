@@ -984,9 +984,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12476,
+  "EOS_Progressed": 12477,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 537,
+  "EOS_NewPlayers": 535,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -10054,6 +10054,11 @@
       "Time": "2023-07-15T18:06:30.0540939+00:00",
       "NumProgressed": 12476,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-07-15T19:03:19.1248749+00:00",
+      "NumProgressed": 12477,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 45,
@@ -10105,7 +10110,7 @@
       "Name": "Dead in the air",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1871
+      "UsersEstimate": 1872
     },
     {
       "ID": "EveryoneNeedsAHobby",
@@ -10161,7 +10166,7 @@
       "Name": "I call it luck",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 5614
+      "UsersEstimate": 5615
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -10217,7 +10222,7 @@
       "Name": "Control freak",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 3493
+      "UsersEstimate": 3494
     },
     {
       "ID": "ObedientMachine",
@@ -10297,7 +10302,7 @@
       "Name": "Running Wild",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 3493
+      "UsersEstimate": 3494
     },
     {
       "ID": "Scrapped",
@@ -10337,7 +10342,7 @@
       "Name": "Sword Runner",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 7860
+      "UsersEstimate": 7861
     },
     {
       "ID": "SwordToAGunfight",
@@ -10361,7 +10366,7 @@
       "Name": "Unstoppable force",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 2869
+      "UsersEstimate": 2870
     },
     {
       "ID": "UpCloseAndPersonal",
@@ -10424,21 +10429,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 12476,
+      "Progressed": 12477,
       "Completed": 28
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 12476,
+      "Progressed": 12477,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-07-13T04:58:08.9161071+00:00",
-  "LastChanged_Achievements": "2023-07-15T18:06:30.0540929+00:00",
+  "LastChanged_Achievements": "2023-07-15T19:03:19.1248743+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:46.7330035+00:00",
-  "LastUpdate_Ratings": "2023-07-15T18:00:10.3467506+00:00",
-  "LastUpdate_Achievements": "2023-07-15T18:06:30.0541957+00:00"
+  "LastUpdate_Ratings": "2023-07-15T18:59:13.6419265+00:00",
+  "LastUpdate_Achievements": "2023-07-15T19:03:19.1249763+00:00"
 }

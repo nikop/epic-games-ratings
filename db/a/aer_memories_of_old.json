@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15308,
+  "EOS_Progressed": 15314,
   "EOS_Completed": 320,
-  "EOS_NewPlayers": 596,
+  "EOS_NewPlayers": 597,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
@@ -9384,6 +9384,11 @@
       "Time": "2023-07-15T18:07:06.4021729+00:00",
       "NumProgressed": 15308,
       "NumCompleted": 320
+    },
+    {
+      "Time": "2023-07-15T19:04:24.3883269+00:00",
+      "NumProgressed": 15314,
+      "NumCompleted": 320
     }
   ],
   "TotalAchievements": 20,
@@ -9395,7 +9400,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 2602
+      "UsersEstimate": 2603
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -9403,7 +9408,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "EAST_FINISHED",
@@ -9411,7 +9416,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2143
+      "UsersEstimate": 2144
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -9427,7 +9432,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1837
+      "UsersEstimate": 1838
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -9451,7 +9456,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1837
+      "UsersEstimate": 1838
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -9459,7 +9464,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2296
+      "UsersEstimate": 2297
     },
     {
       "ID": "FOUND_ERIN",
@@ -9467,7 +9472,7 @@
       "Name": "Hide and Seek",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -9475,7 +9480,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "FOUND_MAMBA",
@@ -9483,7 +9488,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -9491,15 +9496,15 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1990
+      "UsersEstimate": 1991
     },
     {
       "ID": "FOUND_STONE_MAP",
       "SetID": "b6m2mm5",
       "Name": "Written in stone",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1072
+      "UsersEstimate": 919
     },
     {
       "ID": "GAME_FINISHED",
@@ -9507,7 +9512,7 @@
       "Name": "Equilibrium",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1990
+      "UsersEstimate": 1991
     },
     {
       "ID": "INTRO_FINISHED",
@@ -9515,7 +9520,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 11634
+      "UsersEstimate": 11639
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -9523,7 +9528,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 4286
+      "UsersEstimate": 4288
     },
     {
       "ID": "NORTH_FINISHED",
@@ -9531,7 +9536,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2143
+      "UsersEstimate": 2144
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -9547,22 +9552,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 2909
+      "UsersEstimate": 2910
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 15308,
+      "Progressed": 15314,
       "Completed": 320
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-07-15T18:07:06.402172+00:00",
+  "LastChanged_Achievements": "2023-07-15T19:04:24.3883264+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:08.6336222+00:00",
-  "LastUpdate_Ratings": "2023-07-15T18:04:43.7462483+00:00",
-  "LastUpdate_Achievements": "2023-07-15T18:07:06.4022424+00:00"
+  "LastUpdate_Ratings": "2023-07-15T19:01:56.9492727+00:00",
+  "LastUpdate_Achievements": "2023-07-15T19:04:24.3884077+00:00"
 }

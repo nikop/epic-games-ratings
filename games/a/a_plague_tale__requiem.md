@@ -20,7 +20,7 @@ Rating: 4.73 (Ranked 157)
 | The Life We Deserve | 45.00% | ~5,415 |
 | Night guard | 43.00% | ~5,174 |
 | Nothing Left | 39.00% | ~4,693 |
-| Healing our Wounds | 36.00% | ~4,332 |
+| Healing our Wounds | 37.00% | ~4,452 |
 | Dying Sun | 33.00% | ~3,971 |
 | Improved crossbow | 26.00% | ~3,129 |
 | King Hugo | 24.00% | ~2,888 |
@@ -35,8 +35,8 @@ Rating: 4.73 (Ranked 157)
 | Herbalist | 7.00% | ~842 |
 | Fighter | 7.00% | ~842 |
 | Ornithologist | 5.00% | ~602 |
+| Immortal memories | 4.00% | ~481 |
 | Sneaky | 4.00% | ~481 |
-| Immortal memories | 3.00% | ~361 |
 | Old protector | 2.00% | ~241 |
 | Explorer | 1.00% | ~120 |
 | Malignant | 1.00% | ~120 |

@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 18.00% | ~136 |
 | Rail Rat | 16.00% | ~121 |
-| The Mysterious Stranger | 15.00% | ~113 |
+| The Mysterious Stranger | 15.00% | ~114 |
 | The Steel Shadow | 14.00% | ~106 |
 | The Betrayer | 14.00% | ~106 |
 | The Man Who Shattered Time | 14.00% | ~106 |
@@ -29,15 +29,15 @@
 | Fast Learner | 13.00% | ~98 |
 | Check Your Pulse | 13.00% | ~98 |
 | Immaculate Aim | 13.00% | ~98 |
-| Street Style | 12.00% | ~91 |
 | Right On Time | 11.00% | ~83 |
+| Street Style | 11.00% | ~83 |
 | Whiz Kid | 10.00% | ~76 |
 | Chaincrawler Explorer | 9.00% | ~68 |
 | Good Neighbor | 9.00% | ~68 |
-| Family Memories | 8.00% | ~60 |
-| Sump Explorer | 8.00% | ~60 |
-| Syron for Hope | 8.00% | ~60 |
-| Theater Explorer | 8.00% | ~60 |
+| Family Memories | 8.00% | ~61 |
+| Sump Explorer | 8.00% | ~61 |
+| Syron for Hope | 8.00% | ~61 |
+| Theater Explorer | 8.00% | ~61 |
 | Fairgrounds Explorer | 7.00% | ~53 |
 | Ask Questions Later | 7.00% | ~53 |
 | Corin Goes Home | 6.00% | ~45 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.50% | ~4 |
 | Raw Talent | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 756 (Ranked 199)  
+Progressed: 757 (Ranked 199)  
 Completed: 4 (0.53%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,4 +112,4 @@ Completed: 4 (0.53%) (Ranked 126)
 | 2023-07-10 | 750 | 4 |
 | 2023-07-11 | 751 | 4 |
 | 2023-07-14 | 754 | 4 |
-| 2023-07-15 | 756 | 4 |
+| 2023-07-15 | 757 | 4 |

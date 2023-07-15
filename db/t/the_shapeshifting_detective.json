@@ -4,7 +4,7 @@
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 101,
-  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 193,
+  "EOS_Progressed": 194,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.04,
+  "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:57.7196507+00:00",
@@ -217,6 +217,11 @@
       "Time": "2023-07-05T06:04:30.7164217+00:00",
       "NumProgressed": 193,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-15T19:05:37.2742296+00:00",
+      "NumProgressed": 194,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 21,
@@ -260,7 +265,7 @@
       "Name": "Chicken",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "hashtag_winning",
@@ -268,7 +273,7 @@
       "Name": "Hashtag Winning",
       "Percentage": 37,
       "XP": 90,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "heavy_rayne",
@@ -276,7 +281,7 @@
       "Name": "Heavy Rayne",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "highlander",
@@ -324,7 +329,7 @@
       "Name": "Play Me By The Hour",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "poetent",
@@ -372,7 +377,7 @@
       "Name": "Video Saved The Radio Star",
       "Percentage": 38,
       "XP": 35,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "voyeur",
@@ -395,7 +400,7 @@
     {
       "ID": "2db2j74",
       "IsBase": true,
-      "Progressed": 193,
+      "Progressed": 194,
       "Completed": 2
     }
   ],
@@ -403,8 +408,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-07-15T18:08:01.1861143+00:00",
+  "LastChanged_Achievements": "2023-07-15T19:05:37.274229+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:40.552571+00:00",
-  "LastUpdate_Ratings": "2023-07-15T18:01:37.790464+00:00",
-  "LastUpdate_Achievements": "2023-07-15T18:08:01.1861285+00:00"
+  "LastUpdate_Ratings": "2023-07-15T19:00:08.0048518+00:00",
+  "LastUpdate_Achievements": "2023-07-15T19:05:37.2742462+00:00"
 }

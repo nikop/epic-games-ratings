@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -184,9 +184,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1721,
+  "EOS_Progressed": 1722,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2094,6 +2094,11 @@
       "Time": "2023-07-14T19:03:35.9465881+00:00",
       "NumProgressed": 1721,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-15T19:02:51.4278694+00:00",
+      "NumProgressed": 1722,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2105,7 +2110,7 @@
       "Name": "Neighborhood Revitalization",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "Achievement_002",
@@ -2241,7 +2246,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1325
+      "UsersEstimate": 1326
     },
     {
       "ID": "Achievement_020",
@@ -2257,7 +2262,7 @@
       "Name": "Radio Silence",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "Achievement_022",
@@ -2305,7 +2310,7 @@
       "Name": "Peek-a-boo",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "Achievement_028",
@@ -2319,9 +2324,9 @@
       "ID": "Achievement_029",
       "SetID": "6b34g18",
       "Name": "Throw The First Stone",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 620
+      "UsersEstimate": 603
     },
     {
       "ID": "Achievement_030",
@@ -2361,7 +2366,7 @@
       "Name": "Catch and Release",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "Achievement_035",
@@ -2369,7 +2374,7 @@
       "Name": "From the Shadows",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "Achievement_036",
@@ -2632,7 +2637,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1721,
+      "Progressed": 1722,
       "Completed": 0
     }
   ],
@@ -2640,8 +2645,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-07-11T21:58:27.9494076+00:00",
-  "LastChanged_Achievements": "2023-07-15T18:06:01.3292119+00:00",
+  "LastChanged_Achievements": "2023-07-15T19:02:51.4278689+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:23.9807239+00:00",
-  "LastUpdate_Ratings": "2023-07-15T17:59:36.9233728+00:00",
-  "LastUpdate_Achievements": "2023-07-15T18:06:01.3292969+00:00"
+  "LastUpdate_Ratings": "2023-07-15T18:58:55.3186181+00:00",
+  "LastUpdate_Achievements": "2023-07-15T19:02:51.4280122+00:00"
 }
