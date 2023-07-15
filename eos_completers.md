@@ -16,9 +16,9 @@
 | 14 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 13.79% |
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 16 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.06% |
-| 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.03% |
+| 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.02% |
 | 18 | [Remains](games/r/remains.md) | 11.63% |
-| 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.22% |
+| 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.17% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.07% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
@@ -30,13 +30,13 @@
 | 28 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.27% |
 | 29 | [Time Loader](games/t/time_loader.md) | 7.14% |
 | 30 | [Scorn](games/s/scorn.md) | 7.06% |
-| 31 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.93% |
+| 31 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.92% |
 | 32 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.82% |
 | 33 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 34 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 35 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.69% |
 | 36 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
-| 37 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.06% |
+| 37 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.05% |
 | 38 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.00% |
 | 39 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.91% |
 | 40 | [JARS](games/j/jars.md) | 4.84% |
@@ -66,7 +66,7 @@
 | 64 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 65 | [Lamentum](games/l/lamentum.md) | 2.67% |
 | 66 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
-| 67 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.57% |
+| 67 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.56% |
 | 68 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.54% |
 | 69 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 70 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
@@ -161,7 +161,7 @@
 | 159 | [Blanc](games/b/blanc.md) | 0.23% |
 | 160 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
 | 160 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.22% |
-| 160 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.22% |
+| 162 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.21% |
 | 163 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.19% |
 | 163 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
 | 163 | [Going Medieval](games/g/going_medieval.md) | 0.19% |
