@@ -3,7 +3,7 @@
 | 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 55.56% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.96% |
 | 3 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 30.00% |
-| 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.21% |
+| 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 27.50% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 7 | [Volley Pals](games/v/volley_pals.md) | 22.62% |
@@ -23,7 +23,7 @@
 | 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.07% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.50% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.49% |
 | 25 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.11% |
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
 | 27 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.48% |
@@ -45,7 +45,7 @@
 | 43 | [Without Escape](games/w/without_escape.md) | 4.55% |
 | 44 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.32% |
 | 45 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.87% |
-| 46 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.76% |
+| 46 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.75% |
 | 47 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.65% |
 | 48 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
 | 49 | [ZZT!](games/z/zzt!.md) | 3.57% |
@@ -109,8 +109,8 @@
 | 107 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
 | 108 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.78% |
 | 109 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.77% |
-| 110 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
 | 110 | [Lemon Cake](games/l/lemon_cake.md) | 0.76% |
+| 111 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 112 | [Haven](games/h/haven.md) | 0.68% |
 | 113 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.66% |
 | 113 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.66% |
@@ -124,7 +124,7 @@
 | 122 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.57% |
 | 123 | [Grindstone](games/g/grindstone.md) | 0.56% |
 | 124 | [Potion Permit](games/p/potion_permit.md) | 0.55% |
-| 124 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
+| 125 | [The Surge 2](games/t/the_surge_2.md) | 0.54% |
 | 126 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.53% |
 | 127 | [Aragami 2](games/a/aragami_2.md) | 0.51% |
 | 128 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
@@ -139,7 +139,7 @@
 | 136 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
 | 138 | [Wildermyth](games/w/wildermyth.md) | 0.38% |
 | 139 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
-| 140 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.35% |
+| 140 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.36% |
 | 141 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.34% |
 | 141 | [Scrapnaut](games/s/scrapnaut.md) | 0.34% |
 | 143 | [Dead Island 2](games/d/dead_island_2.md) | 0.33% |
