@@ -2,13 +2,13 @@
   "ID": "bda8d2133655435982b9118972792328",
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
-  "Ranking_Rating": 901,
+  "Ranking_Rating": 900,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -176,9 +176,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1642,
+  "EOS_Progressed": 1643,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4161,6 +4161,11 @@
       "Time": "2023-07-15T05:07:14.9208521+00:00",
       "NumProgressed": 1642,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-15T06:08:14.32428+00:00",
+      "NumProgressed": 1643,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -4266,9 +4271,9 @@
       "ID": "doingmypart",
       "SetID": "3nl4bcg",
       "Name": "Doing My Part",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 148
     },
     {
       "ID": "dragonclicker",
@@ -4388,7 +4393,7 @@
       "Name": "Gear Enchanting",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "guardianmaster",
@@ -4396,7 +4401,7 @@
       "Name": "Guardian Master",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "guildpower",
@@ -4564,7 +4569,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "prestigiousx10",
@@ -4602,9 +4607,9 @@
       "ID": "scrollmaster",
       "SetID": "3nl4bcg",
       "Name": "Scroll Master",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 148
     },
     {
       "ID": "silverwoodliberator",
@@ -4666,9 +4671,9 @@
       "ID": "thepowerofawakening",
       "SetID": "3nl4bcg",
       "Name": "The power of Awakening",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 148
     },
     {
       "ID": "theunstoppable",
@@ -4676,7 +4681,7 @@
       "Name": "The Unstoppable",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "titanpower",
@@ -4700,7 +4705,7 @@
       "Name": "Training makes a Pro player",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "transmute",
@@ -4732,7 +4737,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1527
+      "UsersEstimate": 1528
     },
     {
       "ID": "warmachinesarmy",
@@ -4764,14 +4769,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1297
+      "UsersEstimate": 1298
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1642,
+      "Progressed": 1643,
       "Completed": 1
     }
   ],
@@ -4779,8 +4784,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-07-15T03:25:49.9041545+00:00",
-  "LastChanged_Achievements": "2023-07-15T05:07:14.9208512+00:00",
+  "LastChanged_Achievements": "2023-07-15T06:08:14.3242793+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:38.4078532+00:00",
-  "LastUpdate_Ratings": "2023-07-15T04:58:30.9204385+00:00",
-  "LastUpdate_Achievements": "2023-07-15T05:07:14.9209983+00:00"
+  "LastUpdate_Ratings": "2023-07-15T05:59:03.9796557+00:00",
+  "LastUpdate_Achievements": "2023-07-15T06:08:14.3244592+00:00"
 }

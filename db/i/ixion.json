@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -3629,9 +3629,9 @@
       "ID": "ACH_BASE_24",
       "SetID": "92iocjf",
       "Name": "Sputnik 2049",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 507
+      "UsersEstimate": 535
     },
     {
       "ID": "ACH_BASE_25",
@@ -3988,8 +3988,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-07-08T02:22:11.1138638+00:00",
-  "LastChanged_Achievements": "2023-07-15T05:04:46.9631573+00:00",
+  "LastChanged_Achievements": "2023-07-15T06:05:32.625087+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:23.6946025+00:00",
-  "LastUpdate_Ratings": "2023-07-15T04:59:02.1252226+00:00",
-  "LastUpdate_Achievements": "2023-07-15T05:04:46.9632979+00:00"
+  "LastUpdate_Ratings": "2023-07-15T05:59:40.2014658+00:00",
+  "LastUpdate_Achievements": "2023-07-15T06:05:32.6252228+00:00"
 }

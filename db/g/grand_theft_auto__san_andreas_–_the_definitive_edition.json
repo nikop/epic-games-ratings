@@ -6,9 +6,9 @@
   "Ranking_Popularity": 260,
   "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 116,
-  "Ranking_EOS_Completed": 154,
+  "Ranking_EOS_Completed": 153,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -562,11 +562,11 @@
       "Count": 216
     }
   ],
-  "EOS_Progressed": 11055,
-  "EOS_Completed": 29,
-  "EOS_NewPlayers": 77,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 0.26,
+  "EOS_Progressed": 11056,
+  "EOS_Completed": 30,
+  "EOS_NewPlayers": 78,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:18.653518+00:00",
@@ -6592,6 +6592,11 @@
       "Time": "2023-07-15T03:35:17.2005596+00:00",
       "NumProgressed": 11055,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-07-15T06:08:13.0426881+00:00",
+      "NumProgressed": 11056,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 35,
@@ -6627,7 +6632,7 @@
       "Name": "Hoopin\u0027 it Up",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH05",
@@ -6699,7 +6704,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1879
+      "UsersEstimate": 1880
     },
     {
       "ID": "ACH14",
@@ -6825,9 +6830,9 @@
       "ID": "ACH29",
       "SetID": "4ck5mbe",
       "Name": "Today Was a Good Day",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 45,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1548
     },
     {
       "ID": "ACH30",
@@ -6882,16 +6887,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11055,
-      "Completed": 29
+      "Progressed": 11056,
+      "Completed": 30
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-14T15:00:57.6719502+00:00",
-  "LastChanged_Achievements": "2023-07-15T05:07:13.8259268+00:00",
+  "LastChanged_Achievements": "2023-07-15T06:08:13.0426872+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:18.5169648+00:00",
-  "LastUpdate_Ratings": "2023-07-15T05:00:49.6731158+00:00",
-  "LastUpdate_Achievements": "2023-07-15T05:07:13.8259916+00:00"
+  "LastUpdate_Ratings": "2023-07-15T06:02:01.4634874+00:00",
+  "LastUpdate_Achievements": "2023-07-15T06:08:13.0427981+00:00"
 }

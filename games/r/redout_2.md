@@ -9,14 +9,14 @@ Rating: 4.48 (Ranked 587)
 | Increasing your Power Level | 28.00% | ~296 |
 | Enter the Speed Gauntlet | 25.00% | ~264 |
 | I just can't choose | 25.00% | ~264 |
-| A Cheese Grater to the Face | 20.00% | ~211 |
+| A Cheese Grater to the Face | 20.00% | ~212 |
 | Put it on a shelf | 19.00% | ~201 |
 | It's like an haircut | 18.00% | ~190 |
 | Suit up | 17.00% | ~180 |
 | Ride in the rising sun | 16.00% | ~169 |
 | Walked like an Egyptian | 15.00% | ~159 |
-| Rookie No-No More | 13.00% | ~137 |
-| Running at the speed of sound | 13.00% | ~137 |
+| Rookie No-No More | 13.00% | ~138 |
+| Running at the speed of sound | 13.00% | ~138 |
 | Martian explorer | 12.00% | ~127 |
 | To the core | 9.00% | ~95 |
 | Blurred photofinish | 9.00% | ~95 |
@@ -29,17 +29,17 @@ Rating: 4.48 (Ranked 587)
 | B-asic! | 5.00% | ~53 |
 | Under the neon lights | 4.00% | ~42 |
 | All Power to Engines! | 4.00% | ~42 |
-| Had to sweat a bit | 4.00% | ~42 |
 | Almost broke the game | 4.00% | ~42 |
 | Better luck next time | 4.00% | ~42 |
 | Dev, this! | 4.00% | ~42 |
-| He who laughs last... | 4.00% | ~42 |
 | Try them all | 3.00% | ~32 |
 | A-mazing! | 3.00% | ~32 |
 | To infinity and gravity! | 3.00% | ~32 |
 | One giant drive for mankind | 3.00% | ~32 |
+| Had to sweat a bit | 3.00% | ~32 |
 | [Sweats profusely] | 3.00% | ~32 |
 | It's like a party! | 3.00% | ~32 |
+| He who laughs last... | 3.00% | ~32 |
 | Healthy competition | 3.00% | ~32 |
 | This is to go, even Further Beyond! | 2.00% | ~21 |
 | Gitting Gud | 2.00% | ~21 |
@@ -58,7 +58,7 @@ Rating: 4.48 (Ranked 587)
 | I, need, more, shelves! | 0.50% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,057 (Ranked 186)  
+Progressed: 1,058 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-08 | 1,052 | 0 |
 | 2023-07-10 | 1,053 | 0 |
 | 2023-07-11 | 1,056 | 0 |
-| 2023-07-15 | 1,057 | 0 |
+| 2023-07-15 | 1,058 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

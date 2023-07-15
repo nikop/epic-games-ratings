@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 588,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1401,9 +1401,9 @@
       "ID": "KILLR_ACHIEVEMENT_3",
       "SetID": "9lcahn0",
       "Name": "Decakill!",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 123
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -1640,8 +1640,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-15T05:04:51.0167433+00:00",
+  "LastChanged_Achievements": "2023-07-15T06:05:37.5083985+00:00",
   "LastUpdate_AppInfo": "2023-07-13T13:57:00.6642341+00:00",
-  "LastUpdate_Ratings": "2023-07-15T04:57:08.3911363+00:00",
-  "LastUpdate_Achievements": "2023-07-15T05:04:51.016877+00:00"
+  "LastUpdate_Ratings": "2023-07-15T05:57:29.8397931+00:00",
+  "LastUpdate_Achievements": "2023-07-15T06:05:37.5085287+00:00"
 }

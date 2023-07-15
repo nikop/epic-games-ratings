@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 77,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -5509,10 +5509,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 13730,
       "NumberOfAwardsMax": 6791
+    },
+    {
+      "Time": "2023-07-15T06:01:24.5461611+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 13731,
+      "NumberOfAwardsMax": 6791
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13730,
+  "NumberOfAwards": 13731,
   "NumberOfAwardsMax": 6791,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5526,7 +5532,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 817
+      "Count": 818
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5589,7 +5595,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 55740,
+  "EOS_Progressed": 55743,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 481,
   "EOS_NewCompleters": 0,
@@ -14439,6 +14445,11 @@
       "Time": "2023-07-15T05:07:15.2779774+00:00",
       "NumProgressed": 55740,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-15T06:08:14.733968+00:00",
+      "NumProgressed": 55743,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -14450,7 +14461,7 @@
       "Name": "Against all odds",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6131
+      "UsersEstimate": 6132
     },
     {
       "ID": "Apple of my eye",
@@ -14466,7 +14477,7 @@
       "Name": "Bannerlord",
       "Percentage": 21,
       "XP": 65,
-      "UsersEstimate": 11705
+      "UsersEstimate": 11706
     },
     {
       "ID": "Best served cold",
@@ -14642,7 +14653,7 @@
       "Name": "King Solomon",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 8918
+      "UsersEstimate": 8919
     },
     {
       "ID": "Kingslayer",
@@ -14658,7 +14669,7 @@
       "Name": "Know your enemy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3344
+      "UsersEstimate": 3345
     },
     {
       "ID": "Lance-a-lot",
@@ -14674,7 +14685,7 @@
       "Name": "Landlord",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 17279
+      "UsersEstimate": 17280
     },
     {
       "ID": "Lawbringer",
@@ -14682,7 +14693,7 @@
       "Name": "Lawbringer",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 20624
+      "UsersEstimate": 20625
     },
     {
       "ID": "Lawmaker",
@@ -14826,7 +14837,7 @@
       "Name": "Trained",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 11705
+      "UsersEstimate": 11706
     },
     {
       "ID": "Undercover",
@@ -14857,15 +14868,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 55740,
+      "Progressed": 55743,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-07-15T02:27:00.5976856+00:00",
-  "LastChanged_Achievements": "2023-07-15T05:07:15.2779763+00:00",
+  "LastChanged": "2023-07-15T06:01:24.5461608+00:00",
+  "LastChanged_Achievements": "2023-07-15T06:08:14.7339673+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:48.1005966+00:00",
-  "LastUpdate_Ratings": "2023-07-15T05:00:23.1934119+00:00",
-  "LastUpdate_Achievements": "2023-07-15T05:07:15.2781485+00:00"
+  "LastUpdate_Ratings": "2023-07-15T06:01:24.5461621+00:00",
+  "LastUpdate_Achievements": "2023-07-15T06:08:14.7341387+00:00"
 }

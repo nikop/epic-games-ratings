@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -2526,9 +2526,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 68912,
+  "EOS_Progressed": 68913,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 405,
+  "EOS_NewPlayers": 404,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -11461,6 +11461,11 @@
       "Time": "2023-07-15T05:04:54.1750271+00:00",
       "NumProgressed": 68912,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-07-15T06:05:41.8456483+00:00",
+      "NumProgressed": 68913,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 37,
@@ -11480,7 +11485,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 19984
+      "UsersEstimate": 19985
     },
     {
       "ID": "ACH_0012",
@@ -11520,7 +11525,7 @@
       "Name": "Imports and Exports",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2756
+      "UsersEstimate": 2757
     },
     {
       "ID": "ACH_0021",
@@ -11624,7 +11629,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 50995
+      "UsersEstimate": 50996
     },
     {
       "ID": "ACH_0211",
@@ -11648,7 +11653,7 @@
       "Name": "Olympus Ascended",
       "Percentage": 4,
       "XP": 55,
-      "UsersEstimate": 2756
+      "UsersEstimate": 2757
     },
     {
       "ID": "ACH_0310",
@@ -11656,7 +11661,7 @@
       "Name": "Cracked the Jack",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2756
+      "UsersEstimate": 2757
     },
     {
       "ID": "ACH_0330",
@@ -11672,7 +11677,7 @@
       "Name": "Red Star",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2756
+      "UsersEstimate": 2757
     },
     {
       "ID": "ACH_0350",
@@ -11704,7 +11709,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 24119
+      "UsersEstimate": 24120
     },
     {
       "ID": "ACH_0431",
@@ -11767,7 +11772,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 68912,
+      "Progressed": 68913,
       "Completed": 36
     }
   ],
@@ -11775,8 +11780,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-07-15T02:27:17.682433+00:00",
-  "LastChanged_Achievements": "2023-07-15T05:04:54.1750265+00:00",
+  "LastChanged_Achievements": "2023-07-15T06:05:41.8456475+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:02.3078188+00:00",
-  "LastUpdate_Ratings": "2023-07-15T05:00:35.4650369+00:00",
-  "LastUpdate_Achievements": "2023-07-15T05:04:54.1751319+00:00"
+  "LastUpdate_Ratings": "2023-07-15T06:01:42.5692808+00:00",
+  "LastUpdate_Achievements": "2023-07-15T06:05:41.8457917+00:00"
 }

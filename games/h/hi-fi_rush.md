@@ -40,8 +40,8 @@ Rating: 4.87 (Ranked 24)
 | Wanna hear my playlist? | 0.40% | ~14 |
 | New bad guys? No problem! | 0.40% | ~8 |
 | I think I deserve some praise, here! | 0.30% | ~10 |
+| I think I found your calling, Macaron | 0.30% | ~10 |
 | Check out my moves! | 0.30% | ~10 |
-| I think I found your calling, Macaron | 0.20% | ~7 |
 | This is a breeze! | 0.20% | ~7 |
 | We're Jammin' | 0.20% | ~7 |
 | First we parry, then we counter | 0.20% | ~7 |

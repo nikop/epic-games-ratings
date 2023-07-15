@@ -6,30 +6,30 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| He's Signed! | 50.00% | ~233,526 |
-| First Victory | 50.00% | ~233,526 |
+| He's Signed! | 50.00% | ~233,527 |
+| First Victory | 50.00% | ~233,527 |
 | Clean Sheet | 49.00% | ~228,856 |
 | He's Sold! | 47.00% | ~219,515 |
 | I'm The Boss! | 41.00% | ~191,492 |
 | Hat-trick | 41.00% | ~191,492 |
-| Scoring Streak | 38.00% | ~177,480 |
+| Scoring Streak | 38.00% | ~177,481 |
 | Unbeatable! | 37.00% | ~172,810 |
 | Thumping | 37.00% | ~172,810 |
 | Superb Dressing Room Atmosphere | 35.00% | ~163,469 |
 | Total Support | 32.00% | ~149,457 |
 | Record Signing | 32.00% | ~149,457 |
-| Millionaire's Club | 31.00% | ~144,786 |
+| Millionaire's Club | 31.00% | ~144,787 |
 | Team Performance | 30.00% | ~140,116 |
 | He's a Natural | 30.00% | ~140,116 |
-| Parked The Bus | 29.00% | ~135,445 |
-| Shrewd Spender | 29.00% | ~135,445 |
-| Star Man | 29.00% | ~135,445 |
+| Parked The Bus | 29.00% | ~135,446 |
+| Shrewd Spender | 29.00% | ~135,446 |
+| Star Man | 29.00% | ~135,446 |
 | Attack! | 28.00% | ~130,775 |
 | You're On Fire | 26.00% | ~121,434 |
 | On A Roll | 26.00% | ~121,434 |
 | Tremendous Trio | 26.00% | ~121,434 |
 | Record Sale | 26.00% | ~121,434 |
-| Unstoppable Force | 25.00% | ~116,763 |
+| Unstoppable Force | 25.00% | ~116,764 |
 | Fantastic Five | 24.00% | ~112,093 |
 | Full Faith | 24.00% | ~112,093 |
 | The Boss | 24.00% | ~112,093 |
@@ -50,7 +50,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Overachiever! | 15.00% | ~70,058 |
 | Rushed signing | 15.00% | ~70,058 |
 | Window Shopping | 15.00% | ~70,058 |
-| Eyes and Ears | 14.00% | ~65,387 |
+| Eyes and Ears | 14.00% | ~65,388 |
 | Comeback King! | 13.00% | ~60,717 |
 | You're Up! | 13.00% | ~60,717 |
 | Money, Money, Money | 12.00% | ~56,046 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~467 |
 | Shoestring Budget | 0.10% | ~467 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 467,053 (Ranked 34)  
+Progressed: 467,054 (Ranked 34)  
 Completed: 19 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,14 +191,14 @@ Completed: 19 (0.00%) (Ranked 236)
 | 2023-07-12 | 466,833 | 19 |
 | 2023-07-13 | 466,922 | 19 |
 | 2023-07-14 | 467,040 | 19 |
-| 2023-07-15 | 467,053 | 19 |
+| 2023-07-15 | 467,054 | 19 |
 ## Awards
-Max (Relaxing): 6,354  (Ranked 51)  
-Sum: 50,081 (Ranked 24)  
+Max (Relaxing): 6,359  (Ranked 51)  
+Sum: 50,086 (Ranked 24)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 6,354 |
+| This game is Relaxing | 6,359 |
 | This game is Extremely Fun | 5,984 |
 | This game has Competitive Players | 5,808 |
 | This game has Quickly Understood Controls | 5,799 |
@@ -382,3 +382,4 @@ Diff (max vs sum): 27
 | 2023-07-12 | 4.80 | - | 6,349 | 50,050 |
 | 2023-07-13 | 4.80 | - | 6,352 | 50,069 |
 | 2023-07-14 | 4.80 | - | 6,354 | 50,081 |
+| 2023-07-15 | 4.80 | - | 6,359 | 50,086 |
