@@ -5010,9 +5010,9 @@
       "Count": 554
     }
   ],
-  "EOS_Progressed": 287530,
+  "EOS_Progressed": 287531,
   "EOS_Completed": 426,
-  "EOS_NewPlayers": 1781,
+  "EOS_NewPlayers": 1766,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -14190,6 +14190,11 @@
       "Time": "2023-07-15T06:04:47.9092346+00:00",
       "NumProgressed": 287530,
       "NumCompleted": 426
+    },
+    {
+      "Time": "2023-07-15T07:04:24.3171978+00:00",
+      "NumProgressed": 287531,
+      "NumCompleted": 426
     }
   ],
   "TotalAchievements": 45,
@@ -14241,7 +14246,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 5,
       "XP": 70,
-      "UsersEstimate": 14376
+      "UsersEstimate": 14377
     },
     {
       "ID": "PFA_15",
@@ -14489,7 +14494,7 @@
       "Name": "Raising Expectations",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 14376
+      "UsersEstimate": 14377
     },
     {
       "ID": "PFA_43",
@@ -14560,7 +14565,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 287530,
+      "Progressed": 287531,
       "Completed": 426
     }
   ],
@@ -14568,8 +14573,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-07-15T04:57:51.3924433+00:00",
-  "LastChanged_Achievements": "2023-07-15T06:04:47.9092336+00:00",
+  "LastChanged_Achievements": "2023-07-15T07:04:24.317197+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:19.3801839+00:00",
-  "LastUpdate_Ratings": "2023-07-15T05:58:17.9718159+00:00",
-  "LastUpdate_Achievements": "2023-07-15T06:04:47.9093977+00:00"
+  "LastUpdate_Ratings": "2023-07-15T06:58:07.554963+00:00",
+  "LastUpdate_Achievements": "2023-07-15T07:04:24.3172711+00:00"
 }

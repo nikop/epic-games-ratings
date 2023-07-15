@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 438,
+  "EOS_Progressed": 441,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1531,6 +1531,11 @@
       "Time": "2023-07-15T02:31:31.1745769+00:00",
       "NumProgressed": 438,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-15T07:05:56.04143+00:00",
+      "NumProgressed": 441,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1572,9 +1577,9 @@
       "ID": "ach_gold_rewards_100",
       "SetID": "bm61c2p",
       "Name": "Gold Achiever",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 9
     },
     {
       "ID": "ach_gold_rewards_25",
@@ -1606,7 +1611,7 @@
       "Name": "Silver Competitor",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -1646,15 +1651,15 @@
       "Name": "Facility Online",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "objective_hero_level_up_1",
       "SetID": "bm61c2p",
       "Name": "Corporal",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 110
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -1662,7 +1667,7 @@
       "Name": "Sergeant",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -1670,7 +1675,7 @@
       "Name": "Lieutenant",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -1718,7 +1723,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -1732,9 +1737,9 @@
       "ID": "objective_key_drone_missions_completed_1",
       "SetID": "bm61c2p",
       "Name": "Getting Deployment",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 53
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -1766,15 +1771,15 @@
       "Name": "On Target",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "objective_key_objectives_completed_4",
       "SetID": "bm61c2p",
       "Name": "Battle Ready",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 9
     },
     {
       "ID": "objective_multiple_barracks_1",
@@ -1796,9 +1801,9 @@
       "ID": "objective_multiple_turrets_2",
       "SetID": "bm61c2p",
       "Name": "Defenses Online",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 172
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -1836,23 +1841,23 @@
       "ID": "objective_upgrade_dropships_2",
       "SetID": "bm61c2p",
       "Name": "Control the Skies",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 438,
+      "Progressed": 441,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-15T06:06:19.5042121+00:00",
+  "LastChanged_Achievements": "2023-07-15T07:05:56.0414296+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:28.9258865+00:00",
-  "LastUpdate_Ratings": "2023-07-15T06:02:11.673137+00:00",
-  "LastUpdate_Achievements": "2023-07-15T06:06:19.5042795+00:00"
+  "LastUpdate_Ratings": "2023-07-15T07:02:29.7615319+00:00",
+  "LastUpdate_Achievements": "2023-07-15T07:05:56.0414588+00:00"
 }

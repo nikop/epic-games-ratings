@@ -11,10 +11,10 @@ Rating: 4.47 (Ranked 599)
 | From X to Y | 71.00% | ~1,107 |
 | Way of Iron | 70.00% | ~1,091 |
 | Mystery Tour | 68.00% | ~1,060 |
-| We brake for nobody | 66.00% | ~1,029 |
+| We brake for nobody | 67.00% | ~1,045 |
 | Brainstorm | 65.00% | ~1,013 |
+| Travel Company | 65.00% | ~1,013 |
 | Mind the Gap | 64.00% | ~998 |
-| Travel Company | 64.00% | ~998 |
 | All around the World | 62.00% | ~967 |
 | Right through the middle | 56.00% | ~873 |
 | Facility Manager | 53.00% | ~826 |

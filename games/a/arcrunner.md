@@ -17,8 +17,8 @@
 | Starship Docks | 6.00% | ~42 |
 | Nanonic III | 6.00% | ~42 |
 | Supply Run | 6.00% | ~42 |
+| The Bigger They Are | 5.00% | ~35 |
 | Cybernetic | 5.00% | ~35 |
-| The Bigger They Are | 4.00% | ~28 |
 | Fully Modded | 4.00% | ~28 |
 | Up Close And Personal | 4.00% | ~28 |
 | Eden Heights | 3.00% | ~21 |

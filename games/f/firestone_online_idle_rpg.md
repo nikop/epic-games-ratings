@@ -63,8 +63,8 @@ Rating: 4.06 (Ranked 900)
 | The Alchemist | 3.00% | ~49 |
 | What lies behind the bush | 2.00% | ~33 |
 | Mythic Power | 1.00% | ~16 |
+| Guardian Master | 0.80% | ~13 |
 | Gear Enchanting | 0.70% | ~12 |
-| Guardian Master | 0.70% | ~12 |
 | Training makes a Pro player | 0.70% | ~12 |
 | Cauldron Liberator | 0.50% | ~8 |
 | Transmute | 0.50% | ~8 |

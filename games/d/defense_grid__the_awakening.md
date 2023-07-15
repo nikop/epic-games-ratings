@@ -6,40 +6,40 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~390,014 |
-| Hey! That's mine! | 78.00% | ~375,569 |
-| Happy Returns | 77.00% | ~370,754 |
-| Field Promotion | 74.00% | ~356,309 |
-| Leadhead | 71.00% | ~341,864 |
-| Eradicator | 67.00% | ~322,604 |
-| Surplus | 65.00% | ~312,974 |
-| I Spy | 64.00% | ~308,159 |
-| Burn Baby Burn | 59.00% | ~284,084 |
-| Yellow Beats Green | 55.00% | ~264,824 |
-| Salvage Rights | 53.00% | ~255,194 |
-| Pew Pew | 50.00% | ~240,750 |
-| What IS that? | 50.00% | ~240,750 |
-| Close Call | 49.00% | ~235,935 |
-| Penny Pincher | 49.00% | ~235,935 |
-| Arsenal | 46.00% | ~221,490 |
-| Boot Camp | 45.00% | ~216,675 |
-| Flawless Victory | 42.00% | ~202,230 |
-| Confident | 40.00% | ~192,600 |
-| Exterminator | 36.00% | ~173,340 |
-| Sharpshooter | 33.00% | ~158,895 |
-| Great Ball of Fire | 32.00% | ~154,080 |
-| Not So Fast | 32.00% | ~154,080 |
-| No Sale | 30.00% | ~144,450 |
-| Kaboom! | 29.00% | ~139,635 |
-| Liquidator | 29.00% | ~139,635 |
-| High Voltage | 24.00% | ~115,560 |
-| Filthy Rich | 19.00% | ~91,485 |
-| The Not-So-Friendly Skies | 18.00% | ~86,670 |
-| Power Builder | 17.00% | ~81,855 |
-| Pyrrhic Victory | 17.00% | ~81,855 |
-| Death From Above | 16.00% | ~77,040 |
-| Retry | 16.00% | ~77,040 |
-| Head Trauma | 12.00% | ~57,780 |
+| First Blood | 81.00% | ~390,019 |
+| Hey! That's mine! | 78.00% | ~375,574 |
+| Happy Returns | 77.00% | ~370,759 |
+| Field Promotion | 74.00% | ~356,314 |
+| Leadhead | 71.00% | ~341,869 |
+| Eradicator | 67.00% | ~322,608 |
+| Surplus | 65.00% | ~312,978 |
+| I Spy | 64.00% | ~308,163 |
+| Burn Baby Burn | 59.00% | ~284,088 |
+| Yellow Beats Green | 55.00% | ~264,828 |
+| Salvage Rights | 53.00% | ~255,198 |
+| Pew Pew | 50.00% | ~240,752 |
+| What IS that? | 50.00% | ~240,752 |
+| Close Call | 49.00% | ~235,937 |
+| Penny Pincher | 49.00% | ~235,937 |
+| Arsenal | 46.00% | ~221,492 |
+| Boot Camp | 45.00% | ~216,677 |
+| Flawless Victory | 42.00% | ~202,232 |
+| Confident | 40.00% | ~192,602 |
+| Exterminator | 36.00% | ~173,342 |
+| Sharpshooter | 33.00% | ~158,897 |
+| Great Ball of Fire | 32.00% | ~154,082 |
+| Not So Fast | 32.00% | ~154,082 |
+| No Sale | 30.00% | ~144,452 |
+| Kaboom! | 29.00% | ~139,636 |
+| Liquidator | 29.00% | ~139,636 |
+| High Voltage | 24.00% | ~115,561 |
+| Filthy Rich | 19.00% | ~91,486 |
+| The Not-So-Friendly Skies | 18.00% | ~86,671 |
+| Power Builder | 17.00% | ~81,856 |
+| Pyrrhic Victory | 17.00% | ~81,856 |
+| Death From Above | 16.00% | ~77,041 |
+| Retry | 16.00% | ~77,041 |
+| Head Trauma | 12.00% | ~57,781 |
 | Full Defense | 10.00% | ~48,150 |
 | Overseer | 9.00% | ~43,335 |
 | Annihilator | 8.00% | ~38,520 |
@@ -58,43 +58,43 @@ Number of Ratings: 1,225  (23.09.2022)
 | Flurry | 1.00% | ~4,815 |
 | Well Invested | 1.00% | ~4,815 |
 | Xenocide | 1.00% | ~4,815 |
-| Gun Crazy | 0.90% | ~4,333 |
-| Planet Defender | 0.90% | ~4,333 |
+| Gun Crazy | 0.90% | ~4,334 |
+| Planet Defender | 0.90% | ~4,334 |
 | Master Siege Breaker | 0.80% | ~3,852 |
 | Few and Proud | 0.80% | ~3,852 |
-| Shell-shocked | 0.70% | ~3,370 |
-| Alien Tears | 0.50% | ~2,407 |
+| Shell-shocked | 0.70% | ~3,371 |
+| Alien Tears | 0.50% | ~2,408 |
 | Full House | 0.40% | ~1,926 |
-| Kickstarter | 0.30% | ~1,444 |
-| The Container | 0.30% | ~1,444 |
+| Kickstarter | 0.30% | ~1,445 |
+| The Container | 0.30% | ~1,445 |
 | Foresight is 20/20 | 0.20% | ~963 |
 | Majestic Pony | 0.20% | ~963 |
 | Out of Bullets | 0.20% | ~963 |
 | Savant Genius | 0.20% | ~963 |
-| Beating A Dead Potato | 0.10% | ~481 |
-| Best Friends Forever | 0.10% | ~481 |
-| Top of the Class | 0.10% | ~481 |
-| Circular Hazard | 0.10% | ~481 |
-| Civil Divergence | 0.10% | ~481 |
-| Clean Getaway | 0.10% | ~481 |
-| Combat Turmoil | 0.10% | ~481 |
-| Core Container | 0.10% | ~481 |
-| Faithful Companion | 0.10% | ~481 |
-| Firebug | 0.10% | ~481 |
-| Fully Contained | 0.10% | ~481 |
-| Master Strategist | 0.10% | ~481 |
-| Mostly Dead | 0.10% | ~481 |
-| Clear Skies | 0.10% | ~481 |
-| Overflowing | 0.10% | ~481 |
-| Regional Deluge | 0.10% | ~481 |
-| So Many Spaces to Build On, So Little Time | 0.10% | ~481 |
-| Supreme Strategist | 0.10% | ~481 |
-| A Temporal Would've Been Nice | 0.10% | ~481 |
-| This is…spartan. | 0.10% | ~481 |
-| Contains Trace Amounts of Gold | 0.10% | ~481 |
-| You Monster | 0.10% | ~481 |
+| Beating A Dead Potato | 0.10% | ~482 |
+| Best Friends Forever | 0.10% | ~482 |
+| Top of the Class | 0.10% | ~482 |
+| Circular Hazard | 0.10% | ~482 |
+| Civil Divergence | 0.10% | ~482 |
+| Clean Getaway | 0.10% | ~482 |
+| Combat Turmoil | 0.10% | ~482 |
+| Core Container | 0.10% | ~482 |
+| Faithful Companion | 0.10% | ~482 |
+| Firebug | 0.10% | ~482 |
+| Fully Contained | 0.10% | ~482 |
+| Master Strategist | 0.10% | ~482 |
+| Mostly Dead | 0.10% | ~482 |
+| Clear Skies | 0.10% | ~482 |
+| Overflowing | 0.10% | ~482 |
+| Regional Deluge | 0.10% | ~482 |
+| So Many Spaces to Build On, So Little Time | 0.10% | ~482 |
+| Supreme Strategist | 0.10% | ~482 |
+| A Temporal Would've Been Nice | 0.10% | ~482 |
+| This is…spartan. | 0.10% | ~482 |
+| Contains Trace Amounts of Gold | 0.10% | ~482 |
+| You Monster | 0.10% | ~482 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 481,499 (Ranked 32)  
+Progressed: 481,505 (Ranked 32)  
 Completed: 4 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 4 (0.00%) (Ranked 236)
 | 2023-07-12 | 481,339 | 4 |
 | 2023-07-13 | 481,412 | 4 |
 | 2023-07-14 | 481,484 | 4 |
-| 2023-07-15 | 481,499 | 4 |
+| 2023-07-15 | 481,505 | 4 |
 ## Awards
 Max (Great for Beginners): 236  (Ranked 250)  
 Sum: 1,663 (Ranked 208)  

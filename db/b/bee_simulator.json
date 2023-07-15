@@ -4,7 +4,7 @@
   "ProductSlug": "bee-simulator",
   "Ranking_EOS_Progress": 493,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2019-11-14T14:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:16.98373+00:00",
   "LastChanged": "2023-03-31T05:57:16.9837301+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:19.8305043+00:00",
-  "LastUpdate_Ratings": "2023-07-15T05:58:47.3010115+00:00",
-  "LastUpdate_Achievements": "2023-07-15T06:06:41.6313133+00:00"
+  "LastUpdate_Ratings": "2023-07-15T06:58:37.9325109+00:00",
+  "LastUpdate_Achievements": "2023-07-15T07:06:30.5953144+00:00"
 }

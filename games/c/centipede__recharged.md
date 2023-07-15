@@ -7,7 +7,7 @@ Number of Ratings: 76  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Shooting Shark | 51.00% | ~7,882 |
-| Make Rock Not War | 42.00% | ~6,491 |
+| Make Rock Not War | 43.00% | ~6,646 |
 | Sole Survivor | 37.00% | ~5,718 |
 | Fireworks | 33.00% | ~5,100 |
 | Burning For You | 28.00% | ~4,327 |

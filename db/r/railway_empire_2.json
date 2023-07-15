@@ -3525,9 +3525,9 @@
       "ID": "A28",
       "SetID": "9b7p7eo",
       "Name": "We brake for nobody",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1045
     },
     {
       "ID": "A29",
@@ -3677,9 +3677,9 @@
       "ID": "A47",
       "SetID": "9b7p7eo",
       "Name": "Travel Company",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 998
+      "UsersEstimate": 1013
     },
     {
       "ID": "A48",
@@ -3750,8 +3750,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-07-12T11:58:21.7947222+00:00",
-  "LastChanged_Achievements": "2023-07-15T06:03:28.6187629+00:00",
+  "LastChanged_Achievements": "2023-07-15T07:03:17.4194235+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:48.1822596+00:00",
-  "LastUpdate_Ratings": "2023-07-15T05:59:10.3885556+00:00",
-  "LastUpdate_Achievements": "2023-07-15T06:03:28.6188255+00:00"
+  "LastUpdate_Ratings": "2023-07-15T06:59:05.4865193+00:00",
+  "LastUpdate_Achievements": "2023-07-15T07:03:17.419477+00:00"
 }
