@@ -15,7 +15,7 @@
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
 | 14 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 13.79% |
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
-| 16 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.10% |
+| 16 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.08% |
 | 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.03% |
 | 18 | [Remains](games/r/remains.md) | 11.63% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.22% |
@@ -23,7 +23,7 @@
 | 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.10% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.40% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.39% |
 | 25 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.11% |
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
 | 27 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.48% |
@@ -106,7 +106,7 @@
 | 104 | [Adios](games/a/adios.md) | 0.96% |
 | 105 | [Hades](games/h/hades.md) | 0.89% |
 | 106 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
-| 107 | [Dungeons 3](games/d/dungeons_3.md) | 0.84% |
+| 107 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
 | 108 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.78% |
 | 109 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.77% |
 | 110 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
@@ -152,8 +152,8 @@
 | 147 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 151 | [Godlike Burger](games/g/godlike_burger.md) | 0.28% |
 | 151 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
+| 153 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.27% |
 | 153 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.27% |
-| 154 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.26% |
 | 155 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
 | 155 | [Against the Storm](games/a/against_the_storm.md) | 0.25% |
 | 155 | [Despot's Game](games/d/despot's_game.md) | 0.25% |
