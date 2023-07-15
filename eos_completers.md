@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 55.56% |
-| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.96% |
+| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.48% |
 | 3 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 30.00% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 27.50% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
