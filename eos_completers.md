@@ -26,8 +26,8 @@
 | 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.49% |
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
 | 26 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.69% |
-| 27 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.48% |
-| 28 | [Ravenlok](games/r/ravenlok.md) | 7.45% |
+| 27 | [Ravenlok](games/r/ravenlok.md) | 7.45% |
+| 28 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.34% |
 | 29 | [Time Loader](games/t/time_loader.md) | 7.21% |
 | 30 | [Scorn](games/s/scorn.md) | 7.06% |
 | 31 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.94% |
@@ -162,9 +162,9 @@
 | 160 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
 | 160 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.22% |
 | 160 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.22% |
-| 163 | [Going Medieval](games/g/going_medieval.md) | 0.20% |
-| 164 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.19% |
-| 164 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
+| 163 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.19% |
+| 163 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
+| 163 | [Going Medieval](games/g/going_medieval.md) | 0.19% |
 | 166 | [BLACKTAIL](games/b/blacktail.md) | 0.18% |
 | 166 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.18% |
 | 168 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
@@ -216,25 +216,25 @@
 | 214 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
 | 214 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
 | 214 | [Good Company](games/g/good_company.md) | 0.02% |
+| 214 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.02% |
 | 214 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
 | 214 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
 | 214 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
 | 214 | [The Alto Collection](games/t/the_alto_collection.md) | 0.02% |
 | 214 | [Tropico 6](games/t/tropico_6.md) | 0.02% |
-| 222 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
-| 222 | [Deceive Inc.](games/d/deceive_inc..md) | 0.01% |
-| 222 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
-| 222 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 0.01% |
-| 222 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 0.01% |
-| 222 | [Forspoken](games/f/forspoken.md) | 0.01% |
-| 222 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.01% |
-| 222 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 0.01% |
-| 222 | [Rocket League®](games/r/rocket_league®.md) | 0.01% |
-| 222 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 0.01% |
-| 222 | [Severed Steel](games/s/severed_steel.md) | 0.01% |
-| 222 | [Sunless Sea](games/s/sunless_sea.md) | 0.01% |
-| 222 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 0.01% |
-| 222 | [Verdun](games/v/verdun.md) | 0.01% |
+| 223 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
+| 223 | [Deceive Inc.](games/d/deceive_inc..md) | 0.01% |
+| 223 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
+| 223 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 0.01% |
+| 223 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 0.01% |
+| 223 | [Forspoken](games/f/forspoken.md) | 0.01% |
+| 223 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 0.01% |
+| 223 | [Rocket League®](games/r/rocket_league®.md) | 0.01% |
+| 223 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 0.01% |
+| 223 | [Severed Steel](games/s/severed_steel.md) | 0.01% |
+| 223 | [Sunless Sea](games/s/sunless_sea.md) | 0.01% |
+| 223 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 0.01% |
+| 223 | [Verdun](games/v/verdun.md) | 0.01% |
 | 236 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.00% |
 | 236 | ['n Verlore Verstand](games/'/'n_verlore_verstand.md) | 0.00% |
 | 236 | [12 orbits](games/1/12_orbits.md) | 0.00% |
