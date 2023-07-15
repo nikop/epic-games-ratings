@@ -51,7 +51,7 @@
 | 49 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 665 |
 | 50 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,663 | 4.71 | 183 |
 | 51 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,359 | 4.80 | 82 |
-| 52 | [DEATH STRANDING](games/d/death_stranding.md) | 6,274 | 4.77 | 108 |
+| 52 | [DEATH STRANDING](games/d/death_stranding.md) | 6,291 | 4.77 | 108 |
 | 53 | [Sifu](games/s/sifu.md) | 6,262 | 4.82 | 65 |
 | 54 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,218 | 4.58 | 422 |
 | 55 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,953 | 4.64 | 312 |
@@ -71,7 +71,7 @@
 | 69 | [Shop Titans](games/s/shop_titans.md) | 4,658 | 3.99 | 919 |
 | 70 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,544 | 4.70 | 196 |
 | 71 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,536 | 4.70 | 196 |
-| 72 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,413 | 4.70 | 196 |
+| 72 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,415 | 4.70 | 196 |
 | 73 | [Chivalry 2](games/c/chivalry_2.md) | 4,360 | 4.61 | 362 |
 | 74 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4,285 | 4.76 | 118 |
 | 75 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,158 | 4.56 | 457 |
@@ -190,7 +190,7 @@
 | 188 | [Riders Republic](games/r/riders_republic.md) | 531 | 4.75 | 133 |
 | 189 | [Godfall Ultimate Edition](games/g/godfall.md) | 527 | 4.07 | 898 |
 | 190 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 521 | 4.66 | 273 |
-| 191 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 516 | 4.52 | 521 |
+| 191 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 517 | 4.52 | 521 |
 | 192 | [Terraforming Mars](games/t/terraforming_mars.md) | 503 | 4.54 | 492 |
 | 192 | [The Sims™ 4](games/t/the_sims™_4.md) | 503 | 4.61 | 362 |
 | 194 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 502 | 4.24 | 815 |

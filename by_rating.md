@@ -108,7 +108,7 @@
 | 99 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 923 | 147 |
 | 99 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 505 |
 | 108 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 3,645 | 81 |
-| 108 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 6,274 | 52 |
+| 108 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 6,291 | 52 |
 | 108 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 20,971 | 17 |
 | 108 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 0 | 505 |
 | 108 | [Sailing Era](games/s/sailing_era.md) | 4.77 | 0 | 505 |
@@ -214,7 +214,7 @@
 | 196 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 45 | 409 |
 | 196 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 0 | 505 |
 | 196 | [The Witness](games/t/the_witness.md) | 4.70 | 177 | 280 |
-| 196 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,413 | 72 |
+| 196 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,415 | 72 |
 | 196 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.70 | 1,690 | 116 |
 | 196 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 0 | 505 |
 | 196 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.70 | 0 | 505 |
@@ -526,7 +526,7 @@
 | 521 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 29,960 | 15 |
 | 521 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 21 | 492 |
 | 521 | [Fall Guys](games/f/fall_guys.md) | 4.52 | 144,139 | 7 |
-| 521 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 516 | 191 |
+| 521 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 517 | 191 |
 | 521 | [GRIME](games/g/grime.md) | 4.52 | 0 | 505 |
 | 521 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 101 | 329 |
 | 521 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 148 | 293 |
