@@ -15,7 +15,7 @@ Rating: 4.47 (Ranked 599)
 | Brainstorm | 65.00% | ~1,013 |
 | Mind the Gap | 64.00% | ~998 |
 | Travel Company | 64.00% | ~998 |
-| All around the World | 61.00% | ~951 |
+| All around the World | 62.00% | ~967 |
 | Right through the middle | 56.00% | ~873 |
 | Facility Manager | 53.00% | ~826 |
 | Poor Devil | 53.00% | ~826 |

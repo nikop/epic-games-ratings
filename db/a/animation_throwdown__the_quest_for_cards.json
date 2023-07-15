@@ -2,10 +2,10 @@
   "ID": "1fe9a1a33a8b4df8bd8dd3b9269f8153",
   "Name": "Animation Throwdown: The Quest for Cards",
   "ProductSlug": "animation-throwdown-the-quest-for-cards",
-  "Ranking_Rating": 772,
+  "Ranking_Rating": 766,
   "Ranking_Popularity": 222,
   "Ranking_PopularitySum": 171,
-  "Ranking_EOS_Progress": 492,
+  "Ranking_EOS_Progress": 493,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 78,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.31,
+  "Rating": 4.32,
   "NumberOfRatings": 874,
   "RatingHistory": [
     {
@@ -1589,11 +1589,17 @@
       "Rating": 4.31,
       "NumberOfAwards": 2688,
       "NumberOfAwardsMax": 353
+    },
+    {
+      "Time": "2023-07-15T03:25:21.7270667+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 2692,
+      "NumberOfAwardsMax": 354
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2688,
-  "NumberOfAwardsMax": 353,
+  "NumberOfAwards": 2692,
+  "NumberOfAwardsMax": 354,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
@@ -1612,7 +1618,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 353
+      "Count": 354
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1636,7 +1642,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 322
+      "Count": 325
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1668,8 +1674,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:50.5721144+00:00",
-  "LastChanged": "2023-07-15T02:23:54.0202552+00:00",
-  "LastUpdate_AppInfo": "2023-07-08T03:20:05.2534213+00:00",
-  "LastUpdate_Ratings": "2023-07-15T02:23:54.0202564+00:00",
-  "LastUpdate_Achievements": "2023-07-15T02:31:48.1835314+00:00"
+  "LastChanged": "2023-07-15T03:25:21.7270508+00:00",
+  "LastUpdate_AppInfo": "2023-07-15T03:22:12.7631715+00:00",
+  "LastUpdate_Ratings": "2023-07-15T03:25:21.7270671+00:00",
+  "LastUpdate_Achievements": "2023-07-15T03:33:19.0123331+00:00"
 }

@@ -406,7 +406,7 @@
   "Tags": [],
   "EOS_Progressed": 3278,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -5595,9 +5595,9 @@
       "ID": "REWARD_DLC04_02_SINK_OR_SWIM",
       "SetID": "83mdf7p",
       "Name": "Sink or Swim",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "REWARD_DLC04_03_GOING_OVERBOARD",
@@ -5626,8 +5626,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-13T13:19:01.0264879+00:00",
-  "LastChanged_Achievements": "2023-07-15T02:29:13.7007642+00:00",
+  "LastChanged_Achievements": "2023-07-15T03:30:46.2586009+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:07.1687539+00:00",
-  "LastUpdate_Ratings": "2023-07-15T02:22:29.7623857+00:00",
-  "LastUpdate_Achievements": "2023-07-15T02:29:13.7008651+00:00"
+  "LastUpdate_Ratings": "2023-07-15T03:23:58.3276555+00:00",
+  "LastUpdate_Achievements": "2023-07-15T03:30:46.2586753+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "6dc590b632ec4786b5c698145758d75c",
   "Name": "Lost Eden",
   "ProductSlug": "lost-eden-13175e",
-  "Ranking_EOS_Progress": 492,
+  "Ranking_EOS_Progress": 493,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 78,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1616091+00:00",
   "LastChanged": "2023-03-31T05:58:32.1616092+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:36.8920432+00:00",
-  "LastUpdate_Ratings": "2023-07-15T02:27:29.2227542+00:00",
-  "LastUpdate_Achievements": "2023-07-15T02:29:17.6052756+00:00"
+  "LastUpdate_Ratings": "2023-07-15T03:29:06.8230104+00:00",
+  "LastUpdate_Achievements": "2023-07-15T03:30:49.9152652+00:00"
 }

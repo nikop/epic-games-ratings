@@ -10,7 +10,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | I read Shakespeare and stuff | 64.00% | ~29,100 |
 | Just a sprinkle | 63.00% | ~28,645 |
 | I'm stumped | 61.00% | ~27,736 |
-| Plant get enough | 60.00% | ~27,281 |
+| Plant get enough | 61.00% | ~27,736 |
 | This is just my weekend vehicle | 58.00% | ~26,372 |
 | It's just the beginning | 58.00% | ~26,372 |
 | Hard work pays off | 53.00% | ~24,099 |

@@ -6,19 +6,19 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 71.00% | ~5,228 |
-| Leader | 61.00% | ~4,492 |
+| First Step | 71.00% | ~5,229 |
+| Leader | 61.00% | ~4,493 |
 | Explorer | 53.00% | ~3,903 |
 | Healer | 53.00% | ~3,903 |
-| Aspiring Inventor | 44.00% | ~3,240 |
-| Adventurer | 41.00% | ~3,019 |
-| Famous Healer | 38.00% | ~2,798 |
-| Local Leader | 35.00% | ~2,577 |
+| Aspiring Inventor | 44.00% | ~3,241 |
+| Adventurer | 41.00% | ~3,020 |
+| Famous Healer | 38.00% | ~2,799 |
+| Local Leader | 35.00% | ~2,578 |
 | Famous Explorer | 34.00% | ~2,504 |
 | New Opportunities | 34.00% | ~2,504 |
 | Energized | 33.00% | ~2,430 |
 | The Long Haul | 33.00% | ~2,430 |
-| Survivor | 32.00% | ~2,356 |
+| Survivor | 32.00% | ~2,357 |
 | The Great Healer | 31.00% | ~2,283 |
 | Legendary Explorer | 28.00% | ~2,062 |
 | Cleaner | 28.00% | ~2,062 |
@@ -29,7 +29,7 @@ Number of Ratings: 836  (23.09.2022)
 | Mentor | 23.00% | ~1,694 |
 | Great Leader | 22.00% | ~1,620 |
 | Real Survivor | 22.00% | ~1,620 |
-| Merchant | 21.00% | ~1,546 |
+| Merchant | 21.00% | ~1,547 |
 | Rocket Surgeon | 20.00% | ~1,473 |
 | War Never Changes | 19.00% | ~1,399 |
 | Big Game Hunter | 17.00% | ~1,252 |
@@ -44,8 +44,8 @@ Number of Ratings: 836  (23.09.2022)
 | Sky Burial | 9.00% | ~663 |
 | Trader | 8.00% | ~589 |
 | Bread and Circuses | 8.00% | ~589 |
-| New Eden | 7.00% | ~515 |
-| Tailored to fit | 7.00% | ~515 |
+| New Eden | 7.00% | ~516 |
+| Tailored to fit | 7.00% | ~516 |
 | Really Friendly | 6.00% | ~442 |
 | Amped Up | 6.00% | ~442 |
 | Look, no Hands! | 5.00% | ~368 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~15 |
 | Customized calamities | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,364 (Ranked 124)  
+Progressed: 7,365 (Ranked 124)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-12 | 7,314 | 0 |
 | 2023-07-13 | 7,335 | 0 |
 | 2023-07-14 | 7,357 | 0 |
-| 2023-07-15 | 7,364 | 0 |
+| 2023-07-15 | 7,365 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 331)  
 Sum: 677 (Ranked 273)  

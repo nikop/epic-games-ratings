@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 5.00% | ~1,002 |
+| Diligence as a goal | 5.00% | ~1,003 |
 | Project Arena | 4.00% | ~802 |
 | The Old Grandmaster | 2.00% | ~14,215 |
 | The Assault | 2.00% | ~14,215 |
@@ -16,20 +16,20 @@ Number of Ratings: 9,492  (23.09.2022)
 | State of constant learning | 2.00% | ~14,215 |
 | Qi Gong: Breath | 2.00% | ~14,215 |
 | Lightning Hands | 2.00% | ~14,215 |
-| Lady Wing Chun | 1.00% | ~7,107 |
-| Furious Fists | 1.00% | ~7,107 |
-| Scareless | 1.00% | ~7,107 |
-| Kill Nil | 1.00% | ~7,107 |
-| Stuntmaster | 1.00% | ~7,107 |
-| Street Fighting | 1.00% | ~7,107 |
-| Qi Gong: Essence | 1.00% | ~7,107 |
-| Old Child | 1.00% | ~7,107 |
-| Kung-Fu Tussle | 1.00% | ~7,107 |
-| Path of the Prospect | 1.00% | ~7,107 |
-| Rumble in the Hangar | 1.00% | ~7,107 |
-| Take damage to save time | 1.00% | ~7,107 |
-| Bloody Sport | 1.00% | ~200 |
-| The best strikes are the ones we avoid | 1.00% | ~200 |
+| Lady Wing Chun | 1.00% | ~7,108 |
+| Furious Fists | 1.00% | ~7,108 |
+| Scareless | 1.00% | ~7,108 |
+| Kill Nil | 1.00% | ~7,108 |
+| Stuntmaster | 1.00% | ~7,108 |
+| Street Fighting | 1.00% | ~7,108 |
+| Qi Gong: Essence | 1.00% | ~7,108 |
+| Old Child | 1.00% | ~7,108 |
+| Kung-Fu Tussle | 1.00% | ~7,108 |
+| Path of the Prospect | 1.00% | ~7,108 |
+| Rumble in the Hangar | 1.00% | ~7,108 |
+| Take damage to save time | 1.00% | ~7,108 |
+| Bloody Sport | 1.00% | ~201 |
+| The best strikes are the ones we avoid | 1.00% | ~201 |
 | Dance of the Praying Mantis | 0.90% | ~6,397 |
 | Qi Gong: Mind | 0.90% | ~6,397 |
 | I know Kung-Fu | 0.90% | ~6,397 |
@@ -54,10 +54,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Pit Protector | 0.30% | ~2,132 |
 | Be like water my friend | 0.30% | ~2,132 |
 | Come Snap With Me | 0.30% | ~2,132 |
-| Ferocity, speed, strength, accuracy | 0.20% | ~1,421 |
+| Ferocity, speed, strength, accuracy | 0.20% | ~1,422 |
 | Warriors from the Mountain | 0.10% | ~711 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 710,747 (Ranked 17)  
+Progressed: 710,750 (Ranked 17)  
 Completed: 12,816 (1.80%) (Ranked 80)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,10 +143,10 @@ Completed: 12,816 (1.80%) (Ranked 80)
 | 2023-07-12 | 710,702 | 12,811 |
 | 2023-07-13 | 710,723 | 12,815 |
 | 2023-07-14 | 710,744 | 12,816 |
-| 2023-07-15 | 710,747 | 12,816 |
+| 2023-07-15 | 710,750 | 12,816 |
 ## Awards
 Max (Great Boss Battles): 6,262  (Ranked 53)  
-Sum: 10,728 (Ranked 79)  
+Sum: 10,730 (Ranked 79)  
 Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |
@@ -157,7 +157,7 @@ Diff (max vs sum): -26
 | This game is Extremely Fun | 517 |
 | This game has Amazing Storytelling | 513 |
 | This game is Highly Recommended | 502 |
-| This game has Amazing Characters | 499 |
+| This game has Amazing Characters | 501 |
 | This game has Unique Visuals | 475 |
 | This game is Relaxing | 401 |
 | This game has a Creative Community | 363 |
@@ -344,3 +344,4 @@ Diff (max vs sum): -26
 | 2023-07-12 | 4.82 | - | 6,259 | 10,721 |
 | 2023-07-13 | 4.82 | - | 6,262 | 10,726 |
 | 2023-07-14 | 4.82 | - | 6,262 | 10,728 |
+| 2023-07-15 | 4.82 | - | 6,262 | 10,730 |

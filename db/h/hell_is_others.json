@@ -664,9 +664,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 252984,
+  "EOS_Progressed": 252987,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 379,
+  "EOS_NewPlayers": 378,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9319,6 +9319,11 @@
       "Time": "2023-07-15T02:31:58.6582592+00:00",
       "NumProgressed": 252984,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-15T03:33:30.0343004+00:00",
+      "NumProgressed": 252987,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 56,
@@ -9378,7 +9383,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78425
+      "UsersEstimate": 78426
     },
     {
       "ID": "BackHomeNTimes",
@@ -9434,7 +9439,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25298
+      "UsersEstimate": 25299
     },
     {
       "ID": "CreditLevel2",
@@ -9618,7 +9623,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55656
+      "UsersEstimate": 55657
     },
     {
       "ID": "KillOthers2",
@@ -9722,7 +9727,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25298
+      "UsersEstimate": 25299
     },
     {
       "ID": "ReachNDays2",
@@ -9777,7 +9782,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 252984,
+      "Progressed": 252987,
       "Completed": 2
     }
   ],
@@ -9785,8 +9790,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-07-06T21:01:42.966299+00:00",
-  "LastChanged_Achievements": "2023-07-15T02:31:58.6582587+00:00",
+  "LastChanged_Achievements": "2023-07-15T03:33:30.0343+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:46.8796395+00:00",
-  "LastUpdate_Ratings": "2023-07-15T02:27:41.7624346+00:00",
-  "LastUpdate_Achievements": "2023-07-15T02:31:58.6583648+00:00"
+  "LastUpdate_Ratings": "2023-07-15T03:29:18.2784365+00:00",
+  "LastUpdate_Achievements": "2023-07-15T03:33:30.0344062+00:00"
 }

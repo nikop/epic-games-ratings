@@ -24,12 +24,12 @@
 | The Brass Boss | 14.00% | ~106 |
 | The Family Fortune | 14.00% | ~106 |
 | Treasure Trove | 13.00% | ~98 |
+| Honest Mistake | 13.00% | ~98 |
 | Golem Chaser | 13.00% | ~98 |
 | Fast Learner | 13.00% | ~98 |
 | Check Your Pulse | 13.00% | ~98 |
 | Like Clockwork | 12.00% | ~91 |
 | Street Style | 12.00% | ~91 |
-| Honest Mistake | 12.00% | ~91 |
 | Right On Time | 11.00% | ~83 |
 | Whiz Kid | 10.00% | ~76 |
 | Chaincrawler Explorer | 9.00% | ~68 |
@@ -59,7 +59,7 @@
 | Raw Talent | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 755 (Ranked 199)  
-Completed: 4 (0.53%) (Ranked 125)  
+Completed: 4 (0.53%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

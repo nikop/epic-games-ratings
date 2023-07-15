@@ -4,8 +4,8 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 11,
-  "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 380,
+  "EOS_Progressed": 381,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 18.68,
+  "EOS_Completed_Percentage": 18.64,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -1808,6 +1808,11 @@
       "Time": "2023-07-14T23:06:24.2613+00:00",
       "NumProgressed": 380,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2023-07-15T03:35:09.0544287+00:00",
+      "NumProgressed": 381,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 22,
@@ -1819,7 +1824,7 @@
       "Name": "Welcome!",
       "Percentage": 98,
       "XP": 35,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "LEVEL_002",
@@ -1827,7 +1832,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "LEVEL_003",
@@ -1851,7 +1856,7 @@
       "Name": "Bridges to come and go",
       "Percentage": 49,
       "XP": 35,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "LEVEL_006",
@@ -1859,7 +1864,7 @@
       "Name": "Found an oasis",
       "Percentage": 43,
       "XP": 35,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "LEVEL_007",
@@ -1867,7 +1872,7 @@
       "Name": "Burger or pizza?",
       "Percentage": 39,
       "XP": 35,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "LEVEL_008",
@@ -1875,7 +1880,7 @@
       "Name": "Passion for sports",
       "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "LEVEL_009",
@@ -1891,7 +1896,7 @@
       "Name": "Easy and steady climb",
       "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "LEVEL_011",
@@ -1915,7 +1920,7 @@
       "Name": "Elevated ring",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "LEVEL_014",
@@ -1923,7 +1928,7 @@
       "Name": "Not lonely anymore",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "LEVEL_015",
@@ -1971,7 +1976,7 @@
       "Name": "City of dreams",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "LEVEL_021",
@@ -1979,7 +1984,7 @@
       "Name": "Happy Christmas night!",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "LEVEL_022",
@@ -1987,14 +1992,14 @@
       "Name": "Night walk along the beach",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     }
   ],
   "AchievementSets": [
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 380,
+      "Progressed": 381,
       "Completed": 71
     }
   ],
@@ -2002,8 +2007,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-07-15T02:33:27.0405723+00:00",
-  "LastUpdate_AppInfo": "2023-07-08T03:20:38.9181248+00:00",
-  "LastUpdate_Ratings": "2023-07-15T02:24:28.3347297+00:00",
-  "LastUpdate_Achievements": "2023-07-15T02:33:27.040613+00:00"
+  "LastChanged_Achievements": "2023-07-15T03:35:09.0544283+00:00",
+  "LastUpdate_AppInfo": "2023-07-15T03:22:43.4679377+00:00",
+  "LastUpdate_Ratings": "2023-07-15T03:25:54.4590645+00:00",
+  "LastUpdate_Achievements": "2023-07-15T03:35:09.0544531+00:00"
 }

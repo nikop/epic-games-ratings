@@ -6,9 +6,9 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 20.00% | ~2,063 |
-| Burning City | 14.00% | ~1,444 |
-| A Spark | 14.00% | ~1,444 |
+| Devoured by Darkness | 20.00% | ~2,064 |
+| Burning City | 14.00% | ~1,445 |
+| A Spark | 14.00% | ~1,445 |
 | Mythic Choices | 12.00% | ~1,238 |
 | Defender's Heart | 12.00% | ~1,238 |
 | Banner over the Citadel | 11.00% | ~1,135 |
@@ -22,14 +22,14 @@ Number of Ratings: 1,354  (23.09.2022)
 | Great Upstart | 4.00% | ~413 |
 | Voice from Your Dreams | 4.00% | ~413 |
 | All Paths Open | 4.00% | ~413 |
-| Heart of the Fallen Land | 3.00% | ~309 |
-| The Legacy | 3.00% | ~309 |
-| Divide and Rule | 3.00% | ~309 |
-| Mythic Reinforcements | 3.00% | ~309 |
-| A Flame | 3.00% | ~309 |
-| Hey, I Know You! | 3.00% | ~309 |
-| Next-Door Play | 3.00% | ~309 |
-| Get the Toad | 3.00% | ~309 |
+| Heart of the Fallen Land | 3.00% | ~310 |
+| The Legacy | 3.00% | ~310 |
+| Divide and Rule | 3.00% | ~310 |
+| Mythic Reinforcements | 3.00% | ~310 |
+| A Flame | 3.00% | ~310 |
+| Hey, I Know You! | 3.00% | ~310 |
+| Next-Door Play | 3.00% | ~310 |
+| Get the Toad | 3.00% | ~310 |
 | Beware Still Water | 3.00% | ~273 |
 | Path of the Trickster | 2.00% | ~206 |
 | Path of the Lich | 2.00% | ~206 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,316 (Ranked 117)  
+Progressed: 10,318 (Ranked 117)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-12 | 10,279 | 0 |
 | 2023-07-13 | 10,297 | 0 |
 | 2023-07-14 | 10,312 | 0 |
-| 2023-07-15 | 10,316 | 0 |
+| 2023-07-15 | 10,318 | 0 |
 ## Awards
 Max (Character Customization): 1,677  (Ranked 117)  
 Sum: 6,813 (Ranked 112)  

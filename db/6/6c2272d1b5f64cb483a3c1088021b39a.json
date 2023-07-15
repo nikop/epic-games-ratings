@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 773,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2697,9 +2697,9 @@
       "ID": "soul_shards_1",
       "SetID": "53c1p3k",
       "Name": "Soul Shards 1",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 39
     },
     {
       "ID": "soul_shards_2",
@@ -2800,8 +2800,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-07-15T02:30:11.9945963+00:00",
+  "LastChanged_Achievements": "2023-07-15T03:31:43.9601795+00:00",
   "LastUpdate_AppInfo": "2023-07-11T03:11:42.9317837+00:00",
-  "LastUpdate_Ratings": "2023-07-15T02:22:52.0093791+00:00",
-  "LastUpdate_Achievements": "2023-07-15T02:30:11.9946777+00:00"
+  "LastUpdate_Ratings": "2023-07-15T03:24:20.143578+00:00",
+  "LastUpdate_Achievements": "2023-07-15T03:31:43.9602464+00:00"
 }

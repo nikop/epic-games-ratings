@@ -4,7 +4,7 @@
   "ProductSlug": "nickelodeon-allstar-brawl-a852ad",
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-02-28T17:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 1014,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2148,8 +2148,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.1447352+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:24.7601185+00:00",
   "LastChanged": "2023-03-31T05:57:20.1447353+00:00",
-  "LastChanged_Achievements": "2023-07-15T02:29:54.9836406+00:00",
+  "LastChanged_Achievements": "2023-07-15T03:31:27.4851474+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:24:06.0985821+00:00",
-  "LastUpdate_Ratings": "2023-07-15T02:28:08.0131515+00:00",
-  "LastUpdate_Achievements": "2023-07-15T02:29:54.983672+00:00"
+  "LastUpdate_Ratings": "2023-07-15T03:29:42.4242835+00:00",
+  "LastUpdate_Achievements": "2023-07-15T03:31:27.4851765+00:00"
 }
