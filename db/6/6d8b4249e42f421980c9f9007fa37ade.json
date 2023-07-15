@@ -4,7 +4,7 @@
   "ProductSlug": "return-to-abyss-226301",
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 88,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -500,9 +500,9 @@
       "ID": "Epic_FruitPlanet_1",
       "SetID": "ba1m2fc",
       "Name": "Bad Apple",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Epic_GoldenCity_1",
@@ -676,9 +676,9 @@
       "ID": "Epic_ShellBreaking_1",
       "SetID": "ba1m2fc",
       "Name": "Shellbreaking Day",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Epic_Shotgun_1",
@@ -771,8 +771,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-07-15T17:08:31.5736903+00:00",
+  "LastChanged_Achievements": "2023-07-15T18:08:09.3224306+00:00",
   "LastUpdate_AppInfo": "2023-07-13T05:57:07.9382356+00:00",
-  "LastUpdate_Ratings": "2023-07-15T16:57:51.5997568+00:00",
-  "LastUpdate_Achievements": "2023-07-15T17:08:31.5737354+00:00"
+  "LastUpdate_Ratings": "2023-07-15T17:57:55.5742625+00:00",
+  "LastUpdate_Achievements": "2023-07-15T18:08:09.3224801+00:00"
 }

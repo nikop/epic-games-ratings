@@ -10,14 +10,14 @@
 | First Blood | 51.00% | ~106 |
 | Triple Kill | 51.00% | ~106 |
 | Cornivore | 47.00% | ~97 |
+| I Believe I Can Fly | 45.00% | ~93 |
 | No Asperascope | 45.00% | ~93 |
-| I Believe I Can Fly | 44.00% | ~91 |
 | Early Survivor | 41.00% | ~64 |
 | No Diggity | 40.00% | ~63 |
 | Amateur Survivor | 30.00% | ~47 |
-| 10K | 26.00% | ~54 |
+| 10K | 27.00% | ~56 |
 | Bouncemato | 26.00% | ~41 |
-| 15K | 24.00% | ~50 |
+| 15K | 25.00% | ~52 |
 | Drinking Problem | 21.00% | ~43 |
 | Grave Digger | 21.00% | ~33 |
 | Professional Survivor | 20.00% | ~31 |

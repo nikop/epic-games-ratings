@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 276,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1008,9 +1008,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4098,
+  "EOS_Progressed": 4101,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -6108,6 +6108,11 @@
       "Time": "2023-07-15T17:08:43.5251378+00:00",
       "NumProgressed": 4098,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-15T18:08:22.0032407+00:00",
+      "NumProgressed": 4101,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -6157,9 +6162,9 @@
       "ID": "ACH_EP_BALLGAME",
       "SetID": "1p8ab95",
       "Name": "Go Sovereigns!",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 451
+      "UsersEstimate": 492
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -6215,7 +6220,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1844
+      "UsersEstimate": 1845
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -6279,7 +6284,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3114
+      "UsersEstimate": 3117
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -6375,7 +6380,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1967
+      "UsersEstimate": 1968
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -6391,7 +6396,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 1557
+      "UsersEstimate": 1558
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -6438,15 +6443,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4098,
+      "Progressed": 4101,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-09T22:00:42.3216597+00:00",
-  "LastChanged_Achievements": "2023-07-15T17:08:43.525137+00:00",
+  "LastChanged_Achievements": "2023-07-15T18:08:22.0032401+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:16.0436214+00:00",
-  "LastUpdate_Ratings": "2023-07-15T17:05:24.7187425+00:00",
-  "LastUpdate_Achievements": "2023-07-15T17:08:43.5251973+00:00"
+  "LastUpdate_Ratings": "2023-07-15T18:04:59.9328955+00:00",
+  "LastUpdate_Achievements": "2023-07-15T18:08:22.0033029+00:00"
 }

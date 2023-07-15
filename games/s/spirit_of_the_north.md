@@ -6,24 +6,24 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 68.00% | ~42,197 |
-| INFUSED WITH LIGHT | 53.00% | ~32,889 |
-| FOXIN' AROUND | 29.00% | ~17,996 |
-| FETCH | 27.00% | ~16,755 |
-| BLOOMS OF LIGHT | 26.00% | ~16,134 |
-| BEST FRIENDS | 22.00% | ~13,652 |
-| AWAKEN | 21.00% | ~13,031 |
-| SPIRIT BARK | 21.00% | ~13,031 |
-| ERADICATE | 20.00% | ~12,411 |
-| GARDEN OF LIGHT | 18.00% | ~11,170 |
+| A GUARDIAN FORGOTTEN | 68.00% | ~42,200 |
+| INFUSED WITH LIGHT | 53.00% | ~32,891 |
+| FOXIN' AROUND | 29.00% | ~17,997 |
+| FETCH | 27.00% | ~16,756 |
+| BLOOMS OF LIGHT | 26.00% | ~16,135 |
+| BEST FRIENDS | 22.00% | ~13,653 |
+| AWAKEN | 21.00% | ~13,032 |
+| SPIRIT BARK | 21.00% | ~13,032 |
+| ERADICATE | 20.00% | ~12,412 |
+| GARDEN OF LIGHT | 18.00% | ~11,171 |
 | SPIRIT FORM | 16.00% | ~9,929 |
-| UPROOTING DARKNESS | 15.00% | ~9,308 |
-| WRITTEN IN STONE | 15.00% | ~9,308 |
-| WEIGHTLESS | 12.00% | ~7,446 |
+| UPROOTING DARKNESS | 15.00% | ~9,309 |
+| WRITTEN IN STONE | 15.00% | ~9,309 |
+| WEIGHTLESS | 12.00% | ~7,447 |
 | SPIRIT DASH | 11.00% | ~6,826 |
 | OLD COMPANION | 9.00% | ~5,585 |
-| PLAGUE DOCTOR | 8.00% | ~4,964 |
-| SPIRITED AWAY | 8.00% | ~4,964 |
+| PLAGUE DOCTOR | 8.00% | ~4,965 |
+| SPIRITED AWAY | 8.00% | ~4,965 |
 | MATCH MAKER | 7.00% | ~4,344 |
 | NORTHERN LIGHTS | 7.00% | ~4,344 |
 | FOX? OR FLYING SQUIRREL? | 4.00% | ~2,482 |
@@ -31,7 +31,7 @@ Number of Ratings: 1,175  (23.09.2022)
 | NONE FORGOTTEN | 2.00% | ~1,241 |
 | KINDRED SPIRITS | 0.60% | ~372 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,054 (Ranked 81)  
+Progressed: 62,059 (Ranked 81)  
 Completed: 312 (0.50%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 312 (0.50%) (Ranked 128)
 | 2023-07-12 | 61,750 | 311 |
 | 2023-07-13 | 61,860 | 312 |
 | 2023-07-14 | 61,948 | 312 |
-| 2023-07-15 | 62,054 | 312 |
+| 2023-07-15 | 62,059 | 312 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 475)  
 Sum: 113 (Ranked 405)  

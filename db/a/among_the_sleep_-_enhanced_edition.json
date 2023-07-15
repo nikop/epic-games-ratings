@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 130,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
     "PcReleaseDate": "2017-11-02T15:00:00+00:00",
@@ -443,9 +443,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 78718,
+  "EOS_Progressed": 78724,
   "EOS_Completed": 373,
-  "EOS_NewPlayers": 833,
+  "EOS_NewPlayers": 834,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -9593,6 +9593,11 @@
       "Time": "2023-07-15T17:08:03.6061536+00:00",
       "NumProgressed": 78718,
       "NumCompleted": 373
+    },
+    {
+      "Time": "2023-07-15T18:07:40.3827247+00:00",
+      "NumProgressed": 78724,
+      "NumCompleted": 373
     }
   ],
   "TotalAchievements": 10,
@@ -9668,7 +9673,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 27551
+      "UsersEstimate": 27553
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -9676,22 +9681,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 8659
+      "UsersEstimate": 8660
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 78718,
+      "Progressed": 78724,
       "Completed": 373
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-03-31T05:57:32.2303432+00:00",
-  "LastChanged_Achievements": "2023-07-15T17:08:03.6061529+00:00",
+  "LastChanged_Achievements": "2023-07-15T18:07:40.3827241+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:30.7064844+00:00",
-  "LastUpdate_Ratings": "2023-07-15T17:05:50.1240024+00:00",
-  "LastUpdate_Achievements": "2023-07-15T17:08:03.6062228+00:00"
+  "LastUpdate_Ratings": "2023-07-15T18:05:26.4993125+00:00",
+  "LastUpdate_Achievements": "2023-07-15T18:07:40.3827909+00:00"
 }

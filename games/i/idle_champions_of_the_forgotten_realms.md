@@ -12,6 +12,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeking Allies | 0.20% | ~424 |
 | Are Ya Chicken? | 0.20% | ~424 |
 | Mad Cow Disease | 0.20% | ~424 |
+| Exploring Port Nyanzaru | 0.20% | ~424 |
 | The Contagious Curse | 0.20% | ~424 |
 | Escort to Waterdeep | 0.20% | ~424 |
 | The Mad Wizard | 0.20% | ~424 |
@@ -86,7 +87,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Abyssal Situation | 0.10% | ~212 |
 | Dino Nightmare | 0.10% | ~212 |
 | A Familiar Friend | 0.10% | ~178 |
-| Exploring Port Nyanzaru | 0.10% | ~212 |
 | A Tale of Two Cities | 0.10% | ~212 |
 | A Tale of Two Fiends | 0.10% | ~212 |
 | A Tale of Two Champions | 0.10% | ~212 |
@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211,886 (Ranked 52)  
+Progressed: 211,904 (Ranked 52)  
 Completed: 2,053 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -600,7 +600,7 @@ Completed: 2,053 (0.97%) (Ranked 102)
 | 2023-07-12 | 210,649 | 2,046 |
 | 2023-07-13 | 211,069 | 2,049 |
 | 2023-07-14 | 211,507 | 2,050 |
-| 2023-07-15 | 211,886 | 2,053 |
+| 2023-07-15 | 211,904 | 2,053 |
 ## Awards
 Max (Diverse Characters): 5,036  (Ranked 66)  
 Sum: 30,535 (Ranked 38)  

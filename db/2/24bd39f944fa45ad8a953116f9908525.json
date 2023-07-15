@@ -4,7 +4,7 @@
   "ProductSlug": "haak-1401cb",
   "Ranking_EOS_Progress": 360,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-06-30T02:00:00+00:00",
@@ -599,9 +599,9 @@
       "ID": "ach_54_chainEcho",
       "SetID": "16n29hg",
       "Name": "Echoes of Iron Chains",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_55_loveNPain",
@@ -622,8 +622,8 @@
   ],
   "FirstSeen": "2023-06-30T05:57:16.6793848+00:00",
   "FirstSeenAchievements": "2023-06-20T07:03:35.8699826+00:00",
-  "LastChanged_Achievements": "2023-07-15T17:07:41.2046274+00:00",
+  "LastChanged_Achievements": "2023-07-15T18:07:17.7450886+00:00",
   "LastUpdate_AppInfo": "2023-07-12T06:56:56.5760237+00:00",
-  "LastUpdate_Ratings": "2023-07-15T16:57:43.3529334+00:00",
-  "LastUpdate_Achievements": "2023-07-15T17:07:41.2046976+00:00"
+  "LastUpdate_Ratings": "2023-07-15T17:57:47.9820995+00:00",
+  "LastUpdate_Achievements": "2023-07-15T18:07:17.7451504+00:00"
 }

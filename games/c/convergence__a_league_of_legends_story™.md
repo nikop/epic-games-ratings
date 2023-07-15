@@ -21,6 +21,7 @@
 | The Brass Boss | 14.00% | ~106 |
 | The Family Fortune | 14.00% | ~106 |
 | Treasure Trove | 13.00% | ~98 |
+| Like Clockwork | 13.00% | ~98 |
 | The Harder They Fall | 13.00% | ~98 |
 | No, Thanks! | 13.00% | ~98 |
 | Honest Mistake | 13.00% | ~98 |
@@ -28,7 +29,6 @@
 | Fast Learner | 13.00% | ~98 |
 | Check Your Pulse | 13.00% | ~98 |
 | Immaculate Aim | 13.00% | ~98 |
-| Like Clockwork | 12.00% | ~91 |
 | Street Style | 12.00% | ~91 |
 | Right On Time | 11.00% | ~83 |
 | Whiz Kid | 10.00% | ~76 |

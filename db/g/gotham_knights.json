@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2042,9 +2042,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67054,
+  "EOS_Progressed": 67056,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 362,
+  "EOS_NewPlayers": 364,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -9862,6 +9862,11 @@
       "Time": "2023-07-15T17:07:45.1330976+00:00",
       "NumProgressed": 67054,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-07-15T18:07:22.0569595+00:00",
+      "NumProgressed": 67056,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 61,
@@ -10025,7 +10030,7 @@
       "Name": "Expert Crime Fighter",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -10257,7 +10262,7 @@
       "Name": "A Worthy Successor",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "MYSTERY_01",
@@ -10360,13 +10365,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67054,
+      "Progressed": 67056,
       "Completed": 102
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 37334,
+      "Progressed": 37336,
       "Completed": 2652
     }
   ],
@@ -10374,8 +10379,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-07-15T15:05:15.490389+00:00",
-  "LastChanged_Achievements": "2023-07-15T17:07:45.133097+00:00",
+  "LastChanged_Achievements": "2023-07-15T18:07:22.0569588+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:49.4668745+00:00",
-  "LastUpdate_Ratings": "2023-07-15T17:04:25.2583254+00:00",
-  "LastUpdate_Achievements": "2023-07-15T17:07:45.1332001+00:00"
+  "LastUpdate_Ratings": "2023-07-15T18:04:09.2080547+00:00",
+  "LastUpdate_Achievements": "2023-07-15T18:07:22.0570741+00:00"
 }

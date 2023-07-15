@@ -1,13 +1,13 @@
 # Airborne Kingdom
 [Store](https://store.epicgames.com/en-US/p/airborne-kingdom)  
 [View Rawdata](../../db/a/airborne_kingdom.json)  
-Rating: 4.65 (Ranked 298)  
+Rating: 4.65 (Ranked 299)  
 Number of Ratings: 74  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Small Community | 56.00% | ~3,808 |
-| A Grove Replanted | 53.00% | ~3,604 |
+| A Small Community | 56.00% | ~3,809 |
+| A Grove Replanted | 53.00% | ~3,605 |
 | Fields Watered | 41.00% | ~2,788 |
 | Seekers Found | 41.00% | ~2,788 |
 | Settling the Skies | 41.00% | ~2,788 |
@@ -34,7 +34,7 @@ Number of Ratings: 74  (23.09.2022)
 | Sparkling Alloys | 2.00% | ~136 |
 | A True Challenge | 2.00% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,800 (Ranked 128)  
+Progressed: 6,801 (Ranked 128)  
 Completed: 52 (0.76%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 52 (0.76%) (Ranked 109)
 | 2023-07-12 | 6,786 | 52 |
 | 2023-07-13 | 6,791 | 52 |
 | 2023-07-14 | 6,795 | 52 |
-| 2023-07-15 | 6,800 | 52 |
+| 2023-07-15 | 6,801 | 52 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

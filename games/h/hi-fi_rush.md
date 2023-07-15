@@ -25,23 +25,23 @@ Rating: 4.87 (Ranked 24)
 | Perfect Parry | 1.00% | ~34 |
 | Uh, they were broken when I got here | 1.00% | ~34 |
 | Kissing the sky! | 1.00% | ~34 |
+| I look cool. But I can look COOLER. | 1.00% | ~34 |
 | Who put gears in there? | 1.00% | ~34 |
 | Alright, that felt AWESOME! | 1.00% | ~34 |
 | You can pet the cat! | 1.00% | ~34 |
 | Perfecter Parry-er! | 0.90% | ~31 |
-| I look cool. But I can look COOLER. | 0.90% | ~31 |
 | Well that was a rush! | 0.80% | ~28 |
 | Does that say weakpoint? | 0.70% | ~24 |
 | That's a lot of junk metal… | 0.60% | ~21 |
 | There's such a thing as TOO helpful | 0.60% | ~21 |
 | Call me Turbo Chai | 0.60% | ~12 |
 | Beat-hit mania | 0.50% | ~17 |
+| Wanna hear my playlist? | 0.50% | ~17 |
 | Chip-tuned | 0.40% | ~14 |
-| Wanna hear my playlist? | 0.40% | ~14 |
+| Check out my moves! | 0.40% | ~14 |
 | New bad guys? No problem! | 0.40% | ~8 |
 | I think I deserve some praise, here! | 0.30% | ~10 |
 | I think I found your calling, Macaron | 0.30% | ~10 |
-| Check out my moves! | 0.30% | ~10 |
 | Choose your own adventure | 0.30% | ~6 |
 | This is a breeze! | 0.20% | ~7 |
 | OK, well THEY came after ME! | 0.20% | ~7 |
