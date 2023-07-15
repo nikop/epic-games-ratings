@@ -54,10 +54,10 @@
 | 52 | [Bunny Park](games/b/bunny_park.md) | 3.42% |
 | 53 | [Monster Harvest](games/m/monster_harvest.md) | 3.38% |
 | 54 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.33% |
-| 55 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.29% |
+| 55 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.28% |
 | 56 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.08% |
 | 56 | [The Complex](games/t/the_complex.md) | 3.08% |
-| 58 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.04% |
+| 58 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.03% |
 | 59 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 59 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 61 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.86% |
@@ -66,7 +66,7 @@
 | 64 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 65 | [Lamentum](games/l/lamentum.md) | 2.67% |
 | 66 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
-| 67 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.58% |
+| 67 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.57% |
 | 68 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.54% |
 | 69 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 70 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
@@ -100,7 +100,7 @@
 | 98 | [Trifox](games/t/trifox.md) | 1.11% |
 | 99 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.06% |
 | 99 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.06% |
-| 101 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.04% |
+| 101 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.03% |
 | 102 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.97% |
 | 102 | [Sable](games/s/sable.md) | 0.97% |
 | 104 | [Adios](games/a/adios.md) | 0.96% |
