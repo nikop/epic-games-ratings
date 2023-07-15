@@ -3066,9 +3066,9 @@
       "Count": 1049
     }
   ],
-  "EOS_Progressed": 53452,
+  "EOS_Progressed": 53454,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 1459,
+  "EOS_NewPlayers": 1453,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -12256,6 +12256,11 @@
       "Time": "2023-07-15T13:17:46.3410569+00:00",
       "NumProgressed": 53452,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-07-15T14:05:48.0762239+00:00",
+      "NumProgressed": 53454,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 53,
@@ -12371,7 +12376,7 @@
       "Name": "Wet Work",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 12828
+      "UsersEstimate": 12829
     },
     {
       "ID": "complete_mission_1",
@@ -12387,7 +12392,7 @@
       "Name": "Tune Up",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 13363
+      "UsersEstimate": 13364
     },
     {
       "ID": "customize_a_weapon",
@@ -12451,7 +12456,7 @@
       "Name": "Power Players",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 7483
+      "UsersEstimate": 7484
     },
     {
       "ID": "empire_tier_4",
@@ -12475,7 +12480,7 @@
       "Name": "Landlord",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 12828
+      "UsersEstimate": 12829
     },
     {
       "ID": "fully_complete_a_building",
@@ -12515,7 +12520,7 @@
       "Name": "Performance Review",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 14432
+      "UsersEstimate": 14433
     },
     {
       "ID": "hit_max_level",
@@ -12539,7 +12544,7 @@
       "Name": "Picking Fights",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 7483
+      "UsersEstimate": 7484
     },
     {
       "ID": "kill_enemy_with_tetherd_object",
@@ -12547,7 +12552,7 @@
       "Name": "Wrecking Ball",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 10690
+      "UsersEstimate": 10691
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -12619,7 +12624,7 @@
       "Name": "Food for Thought",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 10690
+      "UsersEstimate": 10691
     },
     {
       "ID": "two_thirds_purple",
@@ -12675,7 +12680,7 @@
       "Name": "Face Off",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "bfhj_complete_mission_3_collectible",
@@ -12690,22 +12695,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 53452,
+      "Progressed": 53454,
       "Completed": 28
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 25089,
-      "Completed": 2491
+      "Progressed": 25091,
+      "Completed": 2495
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-07-15T08:00:21.199846+00:00",
-  "LastChanged_Achievements": "2023-07-15T13:17:46.3410564+00:00",
+  "LastChanged_Achievements": "2023-07-15T14:05:48.0762233+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:43.3784541+00:00",
-  "LastUpdate_Ratings": "2023-07-15T13:14:31.9195071+00:00",
-  "LastUpdate_Achievements": "2023-07-15T13:17:46.3411343+00:00"
+  "LastUpdate_Ratings": "2023-07-15T14:02:29.5444958+00:00",
+  "LastUpdate_Achievements": "2023-07-15T14:05:48.0763303+00:00"
 }

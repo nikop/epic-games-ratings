@@ -88,9 +88,9 @@
       "ID": "Trophy_03",
       "SetID": "cf5h6dl",
       "Name": "Seven Days of Endless Adventure - D\u00E9j\u00E0 Vu",
-      "Percentage": 11,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Trophy_04",
@@ -304,9 +304,9 @@
       "ID": "Trophy_30",
       "SetID": "cf5h6dl",
       "Name": "Did Someone Order Ramen?",
-      "Percentage": 7,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Trophy_31",
@@ -449,8 +449,8 @@
   "FirstSeenRating": "2023-04-14T13:04:33.1915334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:56.3452226+00:00",
   "LastChanged": "2023-04-14T13:04:33.1915334+00:00",
-  "LastChanged_Achievements": "2023-07-15T13:17:06.1985195+00:00",
+  "LastChanged_Achievements": "2023-07-15T14:05:08.6166718+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:18.8171206+00:00",
-  "LastUpdate_Ratings": "2023-07-15T13:15:28.469227+00:00",
-  "LastUpdate_Achievements": "2023-07-15T13:17:06.1985512+00:00"
+  "LastUpdate_Ratings": "2023-07-15T14:03:24.1847028+00:00",
+  "LastUpdate_Achievements": "2023-07-15T14:05:08.616712+00:00"
 }

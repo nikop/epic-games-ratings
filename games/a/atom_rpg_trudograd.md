@@ -21,8 +21,8 @@ Rating: 4.52 (Ranked 521)
 | Albino Bloodsucker | 1.00% | ~11 |
 | Death of the Author | 1.00% | ~11 |
 | Memoirs of a Nibbler | 0.90% | ~10 |
+| KGB Bunker | 0.80% | ~9 |
 | Sixth Sense | 0.80% | ~9 |
-| KGB Bunker | 0.70% | ~8 |
 | Rising Star | 0.60% | ~7 |
 | Baby Eater | 0.40% | ~5 |
 | Sick Freak | 0.40% | ~5 |

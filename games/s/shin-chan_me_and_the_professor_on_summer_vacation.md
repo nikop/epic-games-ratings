@@ -9,15 +9,16 @@
 | Greengrocer | 26.00% | ~7 |
 | Masu-ter Angler | 19.00% | ~5 |
 | Go-Getter | 19.00% | ~5 |
+| Seven Days of Endless Adventure - Déjà Vu | 15.00% | ~4 |
 | Just Hoverin' Along | 15.00% | ~4 |
 | Handyman Extraordinaire | 15.00% | ~4 |
 | River Cleaner | 15.00% | ~4 |
-| Seven Days of Endless Adventure - Déjà Vu | 11.00% | ~3 |
 | My Fair Ladybug | 11.00% | ~3 |
 | What's That Smell? | 11.00% | ~3 |
 | That Was a Snap! | 11.00% | ~3 |
 | It's Alive! | 11.00% | ~3 |
 | Farm Life! | 11.00% | ~3 |
+| Did Someone Order Ramen? | 11.00% | ~3 |
 | Ptera Pal | 11.00% | ~3 |
 | DJ Superstar | 11.00% | ~3 |
 | A New Time | 7.00% | ~2 |
@@ -26,7 +27,6 @@
 | The Holly Grail | 7.00% | ~2 |
 | Biwa Be Mine | 7.00% | ~2 |
 | Ice Fishing | 7.00% | ~2 |
-| Did Someone Order Ramen? | 7.00% | ~2 |
 | Top-Notch Journalist | 7.00% | ~2 |
 | Asso Bridge Enthusiast | 7.00% | ~2 |
 | Bee Professor | 4.00% | ~1 |

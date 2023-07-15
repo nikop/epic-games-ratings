@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3059,
+  "EOS_Progressed": 3060,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -2459,6 +2459,11 @@
       "Time": "2023-07-14T14:02:22.9630978+00:00",
       "NumProgressed": 3059,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-15T14:04:40.8033122+00:00",
+      "NumProgressed": 3060,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 33,
@@ -2558,7 +2563,7 @@
       "Name": "Well Supplied",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "campaign15",
@@ -2622,7 +2627,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1988
+      "UsersEstimate": 1989
     },
     {
       "ID": "campaign4",
@@ -2678,7 +2683,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "scenario2",
@@ -2733,7 +2738,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3059,
+      "Progressed": 3060,
       "Completed": 10
     }
   ],
@@ -2741,8 +2746,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-07-15T13:16:36.4573624+00:00",
+  "LastChanged_Achievements": "2023-07-15T14:04:40.8033113+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:16.8344753+00:00",
-  "LastUpdate_Ratings": "2023-07-15T13:15:27.1489597+00:00",
-  "LastUpdate_Achievements": "2023-07-15T13:16:36.4573937+00:00"
+  "LastUpdate_Ratings": "2023-07-15T14:03:21.3836035+00:00",
+  "LastUpdate_Achievements": "2023-07-15T14:04:40.8033531+00:00"
 }

@@ -70,13 +70,13 @@
 | Loft Life | 3.00% | ~7 |
 | Luxury Boutiques | 3.00% | ~7 |
 | Plebs Are Needed | 3.00% | ~7 |
+| The King of Cool | 3.00% | ~7 |
 | Four of a Kind | 3.00% | ~7 |
 | In the Money | 3.00% | ~7 |
 | Curated Class | 2.00% | ~5 |
 | Glut of Gastronomy | 2.00% | ~5 |
 | Full House | 2.00% | ~5 |
 | Royal Flush | 2.00% | ~5 |
-| The King of Cool | 2.00% | ~5 |
 | It is Payday | 2.00% | ~5 |
 | Scenario Success | 2.00% | ~5 |
 | Double Down | 1.00% | ~2 |

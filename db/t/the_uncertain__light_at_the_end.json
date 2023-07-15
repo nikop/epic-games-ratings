@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 471,
+  "EOS_Progressed": 472,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.06,
   "EosHistory": [
@@ -430,6 +430,11 @@
       "Time": "2023-07-12T09:04:28.7298877+00:00",
       "NumProgressed": 471,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-15T14:05:36.8088816+00:00",
+      "NumProgressed": 472,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -465,7 +470,7 @@
       "Name": "Bosom Buddies",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "Doors_Closing",
@@ -529,7 +534,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "Hitman",
@@ -617,7 +622,7 @@
       "Name": "A Familiar Face",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "Paparazzi",
@@ -672,7 +677,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 471,
+      "Progressed": 472,
       "Completed": 5
     }
   ],
@@ -680,8 +685,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-07-15T13:17:34.3211253+00:00",
+  "LastChanged_Achievements": "2023-07-15T14:05:36.8088811+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:34.9258326+00:00",
-  "LastUpdate_Ratings": "2023-07-15T13:15:53.1756972+00:00",
-  "LastUpdate_Achievements": "2023-07-15T13:17:34.3211435+00:00"
+  "LastUpdate_Ratings": "2023-07-15T14:03:57.7685304+00:00",
+  "LastUpdate_Achievements": "2023-07-15T14:05:36.808905+00:00"
 }

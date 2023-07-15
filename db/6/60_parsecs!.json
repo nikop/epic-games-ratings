@@ -2,9 +2,9 @@
   "ID": "0ab59318bba240478a251395e7bc4a4e",
   "Name": "60 Parsecs!",
   "ProductSlug": "60-parsecs-0481c5",
-  "Ranking_EOS_Progress": 204,
+  "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 678,
+  "EOS_Progressed": 679,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -513,6 +513,11 @@
       "Time": "2023-07-14T23:05:22.8559802+00:00",
       "NumProgressed": 678,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-15T14:07:15.1547157+00:00",
+      "NumProgressed": 679,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -596,7 +601,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "Achievement_DustToDust",
@@ -604,7 +609,7 @@
       "Name": "Dust to Dust",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "Achievement_EcoShuttle",
@@ -644,7 +649,7 @@
       "Name": "First of April",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Achievement_FixItFelix",
@@ -652,7 +657,7 @@
       "Name": "Fix-It Felix",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Achievement_ForScience",
@@ -700,7 +705,7 @@
       "Name": "Hello World",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "Achievement_Improvinator",
@@ -724,7 +729,7 @@
       "Name": "KIA",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "Achievement_LastSupper",
@@ -740,7 +745,7 @@
       "Name": "Flawless Maegangement",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Achievement_MeetThePetersons",
@@ -788,7 +793,7 @@
       "Name": "Second Life",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Achievement_SmallStep",
@@ -812,7 +817,7 @@
       "Name": "Space Colonization",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "Achievement_SpaceEngineer",
@@ -820,7 +825,7 @@
       "Name": "Space Engineer",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "Achievement_SpaceExplorer",
@@ -860,7 +865,7 @@
       "Name": "Tinkerer",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "Achievement_Traitor",
@@ -875,7 +880,7 @@
     {
       "ID": "c01p6e5",
       "IsBase": true,
-      "Progressed": 678,
+      "Progressed": 679,
       "Completed": 1
     }
   ],
@@ -883,8 +888,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-07-15T13:19:16.6155078+00:00",
+  "LastChanged_Achievements": "2023-07-15T14:07:15.1547151+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:50.6403792+00:00",
-  "LastUpdate_Ratings": "2023-07-15T13:13:11.2315697+00:00",
-  "LastUpdate_Achievements": "2023-07-15T13:19:16.6155374+00:00"
+  "LastUpdate_Ratings": "2023-07-15T14:01:08.3178175+00:00",
+  "LastUpdate_Achievements": "2023-07-15T14:07:15.1547577+00:00"
 }

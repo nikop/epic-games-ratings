@@ -3122,7 +3122,7 @@
       "Count": 381
     }
   ],
-  "EOS_Progressed": 10325,
+  "EOS_Progressed": 10327,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
@@ -8447,6 +8447,11 @@
       "Time": "2023-07-15T12:07:01.8910694+00:00",
       "NumProgressed": 10325,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-15T14:05:40.9566233+00:00",
+      "NumProgressed": 10327,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -8546,7 +8551,7 @@
       "Name": "Path of the Trickster",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "13_PathOfLich",
@@ -8554,7 +8559,7 @@
       "Name": "Path of the Lich",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "14_PathOfSwarm",
@@ -8658,7 +8663,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "28_GreatUpstart",
@@ -8682,7 +8687,7 @@
       "Name": "Heroic Victory",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "31_DivideAndRule",
@@ -8714,7 +8719,7 @@
       "Name": "Capitulation Is Now Moot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "35_AbyssalConspiracy",
@@ -8730,7 +8735,7 @@
       "Name": "Core of the Riddle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "37_FirstBigEnemy",
@@ -8738,7 +8743,7 @@
       "Name": "Your First Big Enemy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "38_PrelatesNemesis",
@@ -8858,7 +8863,7 @@
       "Name": "Truly Important Deed",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "53_TrulyProfaneGift",
@@ -9385,21 +9390,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9107,
+      "Progressed": 9109,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10325,
+      "Progressed": 10327,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-15T12:00:42.337909+00:00",
-  "LastChanged_Achievements": "2023-07-15T13:17:38.6099205+00:00",
+  "LastChanged_Achievements": "2023-07-15T14:05:40.9566224+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:17.6267462+00:00",
-  "LastUpdate_Ratings": "2023-07-15T13:12:26.1661199+00:00",
-  "LastUpdate_Achievements": "2023-07-15T13:17:38.610079+00:00"
+  "LastUpdate_Ratings": "2023-07-15T14:00:16.5177387+00:00",
+  "LastUpdate_Achievements": "2023-07-15T14:05:40.9568279+00:00"
 }
