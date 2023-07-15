@@ -5,18 +5,18 @@ Rating: 3.93 (Ranked 928)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~50,984 |
-| First One’s Free | 65.00% | ~44,783 |
-| Neophyte Ninja | 50.00% | ~34,448 |
-| Too Old for This | 47.00% | ~32,382 |
-| Fancy Pants | 35.00% | ~24,114 |
-| Case Closed | 34.00% | ~23,425 |
-| King of the Hill | 34.00% | ~23,425 |
-| Underworld Initiate | 29.00% | ~19,980 |
-| Roid Ranger | 21.00% | ~14,468 |
-| True Player | 19.00% | ~13,090 |
-| Off the Rocks | 19.00% | ~13,090 |
-| Dragonslayer | 17.00% | ~11,712 |
+| Downed but Not Outed | 74.00% | ~50,987 |
+| First One’s Free | 65.00% | ~44,786 |
+| Neophyte Ninja | 50.00% | ~34,450 |
+| Too Old for This | 47.00% | ~32,383 |
+| Fancy Pants | 35.00% | ~24,115 |
+| Case Closed | 34.00% | ~23,426 |
+| King of the Hill | 34.00% | ~23,426 |
+| Underworld Initiate | 29.00% | ~19,981 |
+| Roid Ranger | 21.00% | ~14,469 |
+| True Player | 19.00% | ~13,091 |
+| Off the Rocks | 19.00% | ~13,091 |
+| Dragonslayer | 17.00% | ~11,713 |
 | Raider’s Ruin | 16.00% | ~11,024 |
 | Hidden Sonata | 13.00% | ~8,957 |
 | Rockay Rex | 11.00% | ~7,579 |
@@ -40,10 +40,10 @@ Rating: 3.93 (Ranked 928)
 | Impossible Dreamer | 2.00% | ~1,378 |
 | Rockay Knight | 1.00% | ~689 |
 | Talent Scout | 1.00% | ~689 |
-| Geek Out | 0.50% | ~344 |
+| Geek Out | 0.50% | ~345 |
 | Full House | 0.20% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,897 (Ranked 75)  
+Progressed: 68,901 (Ranked 75)  
 Completed: 36 (0.05%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,15 +129,16 @@ Completed: 36 (0.05%) (Ranked 201)
 | 2023-07-12 | 68,791 | 36 |
 | 2023-07-13 | 68,844 | 36 |
 | 2023-07-14 | 68,897 | 36 |
+| 2023-07-15 | 68,901 | 36 |
 ## Awards
 Max (Diverse Characters): 362  (Ranked 220)  
-Sum: 1,722 (Ranked 206)  
+Sum: 1,724 (Ranked 206)  
 Diff (max vs sum): 14  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 362 |
 | This game is Highly Recommended | 352 |
-| This game has Quickly Understood Controls | 343 |
+| This game has Quickly Understood Controls | 345 |
 | This game has Challenging Combat | 336 |
 | This game has Amazing Characters | 329 |
 | This game is Great for Quick Sessions | 70 |
@@ -252,3 +253,4 @@ Diff (max vs sum): 14
 | 2023-07-12 | 3.93 | 361 | 1,714 |
 | 2023-07-13 | 3.93 | 361 | 1,719 |
 | 2023-07-14 | 3.93 | 362 | 1,722 |
+| 2023-07-15 | 3.93 | 362 | 1,724 |

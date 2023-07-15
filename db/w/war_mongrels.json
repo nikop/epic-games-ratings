@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -238,7 +238,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 412,
+  "EOS_Progressed": 413,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
@@ -1093,6 +1093,11 @@
       "Time": "2023-07-14T16:04:29.2709226+00:00",
       "NumProgressed": 412,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-15T00:04:54.576849+00:00",
+      "NumProgressed": 413,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1230,9 +1235,9 @@
       "ID": "ACH_COLL_CH01",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter I",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 140
     },
     {
       "ID": "ACH_COLL_CH02",
@@ -1288,7 +1293,7 @@
       "Name": "Collectibles of Chapter VIII",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_COLL_CH09",
@@ -1304,7 +1309,7 @@
       "Name": "Collectibles of Chapter X",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_COLL_CH11",
@@ -1312,7 +1317,7 @@
       "Name": "Collectibles of Chapter XI",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_COLL_CH12",
@@ -1344,7 +1349,7 @@
       "Name": "The Motivation",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH_FIN_CH04",
@@ -1352,7 +1357,7 @@
       "Name": "Heroism",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_FIN_CH05",
@@ -1368,7 +1373,7 @@
       "Name": "Opportunities",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ACH_FIN_CH07",
@@ -1376,15 +1381,15 @@
       "Name": "The Horror",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ACH_FIN_CH08",
       "SetID": "1j25agn",
       "Name": "The Difference",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH_FIN_CH09",
@@ -1400,7 +1405,7 @@
       "Name": "Broken Hopes",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_FIN_CH11",
@@ -1414,9 +1419,9 @@
       "ID": "ACH_FIN_CH12",
       "SetID": "1j25agn",
       "Name": "Atonement",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_HARD_1",
@@ -1456,7 +1461,7 @@
       "Name": "The Good Samaritan",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_JOACHIM_FATE2",
@@ -1472,7 +1477,7 @@
       "Name": "Here Comes the Boom",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH_KILL_DOOR",
@@ -1544,7 +1549,7 @@
       "Name": "Bullseye!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_NEST2",
@@ -1575,15 +1580,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 412,
+      "Progressed": 413,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-06-24T07:57:51.3010975+00:00",
-  "LastChanged_Achievements": "2023-07-14T23:04:24.1492011+00:00",
+  "LastChanged_Achievements": "2023-07-15T00:04:54.5768487+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:50.0000159+00:00",
-  "LastUpdate_Ratings": "2023-07-14T22:57:53.807184+00:00",
-  "LastUpdate_Achievements": "2023-07-14T23:04:24.149364+00:00"
+  "LastUpdate_Ratings": "2023-07-14T23:58:04.6554419+00:00",
+  "LastUpdate_Achievements": "2023-07-15T00:04:54.5768939+00:00"
 }

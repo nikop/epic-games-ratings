@@ -80,7 +80,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1056,
+  "EOS_Progressed": 1057,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
@@ -565,6 +565,11 @@
       "Time": "2023-07-11T22:04:18.5465947+00:00",
       "NumProgressed": 1056,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-15T00:02:02.0578713+00:00",
+      "NumProgressed": 1057,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -632,7 +637,7 @@
       "Name": "Walked like an Egyptian",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ALLTRACKSCLOUD",
@@ -991,7 +996,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1056,
+      "Progressed": 1057,
       "Completed": 0
     }
   ],
@@ -999,8 +1004,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-07-14T23:01:05.8100729+00:00",
+  "LastChanged_Achievements": "2023-07-15T00:02:02.057871+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:48.1905608+00:00",
-  "LastUpdate_Ratings": "2023-07-14T22:58:35.0855231+00:00",
-  "LastUpdate_Achievements": "2023-07-14T23:01:05.8101146+00:00"
+  "LastUpdate_Ratings": "2023-07-14T23:58:55.7640468+00:00",
+  "LastUpdate_Achievements": "2023-07-15T00:02:02.0579112+00:00"
 }

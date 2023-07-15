@@ -4,7 +4,7 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 472,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.27,
   "EosHistory": [
@@ -801,9 +801,9 @@
       "ID": "only_thyme_will_tell",
       "SetID": "c4ipj3h",
       "Name": "Only Thyme Will Tell",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 146
+      "UsersEstimate": 151
     },
     {
       "ID": "planting_the_seed",
@@ -850,8 +850,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-07-14T23:05:27.4726452+00:00",
+  "LastChanged_Achievements": "2023-07-15T00:06:27.8977854+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:47.107842+00:00",
-  "LastUpdate_Ratings": "2023-07-14T22:58:32.7132941+00:00",
-  "LastUpdate_Achievements": "2023-07-14T23:05:27.4726566+00:00"
+  "LastUpdate_Ratings": "2023-07-14T23:58:52.9056278+00:00",
+  "LastUpdate_Achievements": "2023-07-15T00:06:27.8977978+00:00"
 }

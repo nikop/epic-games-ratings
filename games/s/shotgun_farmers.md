@@ -50,6 +50,7 @@
 | Tomassacred | 1.00% | ~2 |
 | 15 Days | 0.50% | ~1 |
 | Pro Carrocketeer | 0.50% | ~1 |
+| Pro Sniperagus | 0.50% | ~1 |
 | Unstoppable | 0.50% | ~1 |
 | Berry Loved | 0.50% | ~1 |
 | Carrocket From Above | 0.50% | ~1 |
@@ -70,7 +71,6 @@
 | Pro Moolotover | 0.00% | ~0 |
 | Pro Peavolver | 0.00% | ~0 |
 | Pro Digger | 0.00% | ~0 |
-| Pro Sniperagus | 0.00% | ~0 |
 | Gnome Thief | 0.00% | ~0 |
 | Pum-King | 0.00% | ~0 |
 | First Place | 0.00% | ~0 |

@@ -47,11 +47,11 @@ Rating: 4.77 (Ranked 108)
 | Finishing Touches | 1.00% | ~2,875 |
 | A Forte for Achievement | 1.00% | ~2,875 |
 | Merlin's Beard! | 0.80% | ~2,300 |
-| Spilled Milk | 0.70% | ~2,012 |
-| The Nature of the Beast | 0.50% | ~1,437 |
+| Spilled Milk | 0.70% | ~2,013 |
+| The Nature of the Beast | 0.50% | ~1,438 |
 | Collector's Edition | 0.20% | ~575 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 287,497 (Ranked 41)  
+Progressed: 287,503 (Ranked 41)  
 Completed: 426 (0.15%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,13 +137,14 @@ Completed: 426 (0.15%) (Ranked 172)
 | 2023-07-12 | 287,108 | 423 |
 | 2023-07-13 | 287,362 | 425 |
 | 2023-07-14 | 287,497 | 426 |
+| 2023-07-15 | 287,503 | 426 |
 ## Awards
-Max (Character Customization): 20,943  (Ranked 17)  
-Sum: 39,156 (Ranked 30)  
+Max (Character Customization): 20,971  (Ranked 17)  
+Sum: 39,184 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 20,943 |
+| This game has Inclusive Character Customization | 20,971 |
 | This game has Great Boss Battles | 10,031 |
 | This game is Great for Beginners | 911 |
 | This game is Extremely Fun | 887 |
@@ -270,4 +271,4 @@ Diff (max vs sum): -13
 | 2023-07-11 | 4.77 | 20,887 | 38,978 |
 | 2023-07-12 | 4.77 | 20,913 | 39,043 |
 | 2023-07-13 | 4.77 | 20,943 | 39,111 |
-| 2023-07-14 | 4.77 | 20,943 | 39,156 |
+| 2023-07-14 | 4.77 | 20,971 | 39,184 |

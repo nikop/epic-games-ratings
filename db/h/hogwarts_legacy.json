@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 37,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -4912,18 +4912,24 @@
       "Rating": 4.77,
       "NumberOfAwards": 39156,
       "NumberOfAwardsMax": 20943
+    },
+    {
+      "Time": "2023-07-14T23:57:58.9288992+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 39184,
+      "NumberOfAwardsMax": 20971
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 39156,
-  "NumberOfAwardsMax": 20943,
+  "NumberOfAwards": 39184,
+  "NumberOfAwardsMax": 20971,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 20943
+      "Count": 20971
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -4992,9 +4998,9 @@
       "Count": 551
     }
   ],
-  "EOS_Progressed": 287497,
+  "EOS_Progressed": 287503,
   "EOS_Completed": 426,
-  "EOS_NewPlayers": 1842,
+  "EOS_NewPlayers": 1831,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -14142,6 +14148,11 @@
       "Time": "2023-07-14T23:03:52.8763053+00:00",
       "NumProgressed": 287497,
       "NumCompleted": 426
+    },
+    {
+      "Time": "2023-07-15T00:04:18.4779925+00:00",
+      "NumProgressed": 287503,
+      "NumCompleted": 426
     }
   ],
   "TotalAchievements": 45,
@@ -14297,7 +14308,7 @@
       "Name": "The Nature of the Beast",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 1437
+      "UsersEstimate": 1438
     },
     {
       "ID": "PFA_27",
@@ -14361,7 +14372,7 @@
       "Name": "Spilled Milk",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2012
+      "UsersEstimate": 2013
     },
     {
       "ID": "PFA_34",
@@ -14512,16 +14523,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 287497,
+      "Progressed": 287503,
       "Completed": 426
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-07-14T21:58:17.7253326+00:00",
-  "LastChanged_Achievements": "2023-07-14T23:03:52.8763049+00:00",
+  "LastChanged": "2023-07-14T23:57:58.9288991+00:00",
+  "LastChanged_Achievements": "2023-07-15T00:04:18.4779921+00:00",
   "LastUpdate_AppInfo": "2023-07-08T02:19:39.7952275+00:00",
-  "LastUpdate_Ratings": "2023-07-14T22:57:50.2535526+00:00",
-  "LastUpdate_Achievements": "2023-07-14T23:03:52.8763842+00:00"
+  "LastUpdate_Ratings": "2023-07-14T23:57:58.9288998+00:00",
+  "LastUpdate_Achievements": "2023-07-15T00:04:18.4780655+00:00"
 }

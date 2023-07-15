@@ -5,13 +5,13 @@ Rating: 4.67 (Ranked 261)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~19,092 |
-| Mods Please Ban | 77.00% | ~17,712 |
-| Bring A Knife to a Gun Fight | 77.00% | ~17,712 |
-| Fallout Doesn't Let You Do This | 73.00% | ~16,792 |
+| Eye Scream, You Scream | 83.00% | ~19,093 |
+| Mods Please Ban | 77.00% | ~17,713 |
+| Bring A Knife to a Gun Fight | 77.00% | ~17,713 |
+| Fallout Doesn't Let You Do This | 73.00% | ~16,793 |
 | First Bounty Down | 59.00% | ~13,572 |
 | We're All Very Impressed, Trust Me | 57.00% | ~13,112 |
-| Luglox Genocide | 43.00% | ~9,891 |
+| Luglox Genocide | 43.00% | ~9,892 |
 | Playing Card To Get | 34.00% | ~7,821 |
 | Don't Knife The Hand That Feeds | 34.00% | ~7,821 |
 | Creature Feature | 30.00% | ~6,901 |
@@ -28,8 +28,8 @@ Rating: 4.67 (Ranked 261)
 | Spent 15 Hours At The Alien Strip Club | 20.00% | ~4,601 |
 | Self-Actualization | 19.00% | ~4,371 |
 | Legendary Bounty Hunter | 18.00% | ~4,141 |
-| Seeing All The Sights | 16.00% | ~3,680 |
-| Carried Stan's Load To Completion | 13.00% | ~2,990 |
+| Seeing All The Sights | 16.00% | ~3,681 |
+| Carried Stan's Load To Completion | 13.00% | ~2,991 |
 | We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,760 |
 | Eatin' Good in the Neighborhood | 9.00% | ~2,070 |
 | Sequel-Bait | 8.00% | ~1,840 |
@@ -38,7 +38,7 @@ Rating: 4.67 (Ranked 261)
 | Epic Legendary Prize | 1.00% | ~230 |
 | A Starfish Is Born | 1.00% | ~230 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,003 (Ranked 100)  
+Progressed: 23,004 (Ranked 100)  
 Completed: 8 (0.03%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,6 +123,7 @@ Completed: 8 (0.03%) (Ranked 208)
 | 2023-07-12 | 22,990 | 8 |
 | 2023-07-13 | 22,996 | 8 |
 | 2023-07-14 | 23,003 | 8 |
+| 2023-07-15 | 23,004 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

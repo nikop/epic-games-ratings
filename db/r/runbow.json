@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 246575,
+  "EOS_Progressed": 246576,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 366,
+  "EOS_NewPlayers": 361,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8339,6 +8339,11 @@
       "Time": "2023-07-14T23:06:29.1979545+00:00",
       "NumProgressed": 246575,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-15T00:07:41.8730416+00:00",
+      "NumProgressed": 246576,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -8350,7 +8355,7 @@
       "Name": "Just A Phaze",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14794
+      "UsersEstimate": 14795
     },
     {
       "ID": "aWinnerIsYou",
@@ -8398,7 +8403,7 @@
       "Name": "Butt Butt",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14794
+      "UsersEstimate": 14795
     },
     {
       "ID": "canYouDigIt",
@@ -8582,7 +8587,7 @@
       "Name": "Muddy Waters",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 34520
+      "UsersEstimate": 34521
     },
     {
       "ID": "myFirstRunbow",
@@ -8717,7 +8722,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 246575,
+      "Progressed": 246576,
       "Completed": 3
     }
   ],
@@ -8725,8 +8730,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-07-14T23:06:29.1979541+00:00",
+  "LastChanged_Achievements": "2023-07-15T00:07:41.8730412+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:22:16.5016071+00:00",
-  "LastUpdate_Ratings": "2023-07-14T22:59:35.3438352+00:00",
-  "LastUpdate_Achievements": "2023-07-14T23:06:29.1980179+00:00"
+  "LastUpdate_Ratings": "2023-07-15T00:00:09.324975+00:00",
+  "LastUpdate_Achievements": "2023-07-15T00:07:41.8731112+00:00"
 }

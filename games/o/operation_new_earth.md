@@ -14,8 +14,8 @@
 | Lieutenant | 14.00% | ~61 |
 | On Target | 14.00% | ~61 |
 | Getting Deployment | 13.00% | ~57 |
+| Keeping Busy | 12.00% | ~52 |
 | Infantry Reporting | 12.00% | ~52 |
-| Keeping Busy | 11.00% | ~48 |
 | Fighting for Survival | 10.00% | ~44 |
 | Silver Competitor | 9.00% | ~39 |
 | Captain | 8.00% | ~35 |

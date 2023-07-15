@@ -6,14 +6,14 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 76.00% | ~3,534 |
-| Hey Good Hookin | 66.00% | ~3,069 |
-| I'm on a Boat! | 57.00% | ~2,650 |
-| Can you smell what the Rod is Hooking | 50.00% | ~2,325 |
-| Scaling up | 50.00% | ~2,325 |
+| Fish Just Got Reel | 76.00% | ~3,535 |
+| Hey Good Hookin | 66.00% | ~3,070 |
+| I'm on a Boat! | 57.00% | ~2,651 |
+| Can you smell what the Rod is Hooking | 50.00% | ~2,326 |
+| Scaling up | 50.00% | ~2,326 |
 | Ready to Rod and Roll | 42.00% | ~1,953 |
-| More Fish in the Sea | 41.00% | ~1,906 |
-| License to Gill | 33.00% | ~1,534 |
+| More Fish in the Sea | 41.00% | ~1,907 |
+| License to Gill | 33.00% | ~1,535 |
 | Fish Out of Water | 32.00% | ~1,488 |
 | Things that go Splash in the Night | 27.00% | ~1,256 |
 | Goldfish? | 27.00% | ~1,256 |
@@ -24,12 +24,12 @@ Number of Ratings: 281  (23.09.2022)
 | Hook, Line and Sinker | 8.00% | ~372 |
 | Marathon | 8.00% | ~372 |
 | Big Fish Small Pond | 6.00% | ~279 |
-| I'm the Captain Now | 5.00% | ~232 |
+| I'm the Captain Now | 5.00% | ~233 |
 | School's Out for Summer | 4.00% | ~186 |
 | Gonna Need a Bigger Boat | 3.00% | ~140 |
 | The Beetles | 2.00% | ~93 |
 | Rod and Troll | 2.00% | ~80 |
-| Taylor Made | 1.00% | ~46 |
+| Taylor Made | 1.00% | ~47 |
 | Head for Heights | 0.60% | ~28 |
 | Lake Me up Before You Go Go | 0.50% | ~23 |
 | Fish upon a Star | 0.50% | ~20 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | No Fin left to give | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,650 (Ranked 138)  
+Progressed: 4,651 (Ranked 137)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,6 +128,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-12 | 4,636 | 0 |
 | 2023-07-13 | 4,647 | 0 |
 | 2023-07-14 | 4,650 | 0 |
+| 2023-07-15 | 4,651 | 0 |
 ## Awards
 Max (Relaxing): 32  (Ranked 447)  
 Sum: 158 (Ranked 387)  
