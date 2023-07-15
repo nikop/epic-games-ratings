@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 27,
   "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -3037,17 +3037,17 @@
       "ID": "7",
       "SetID": "d0g98p",
       "Name": "Fun Guy",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 649
+      "UsersEstimate": 660
     },
     {
       "ID": "8",
       "SetID": "d0g98p",
       "Name": "Tragic Brave",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 555
+      "UsersEstimate": 565
     },
     {
       "ID": "9",
@@ -3070,8 +3070,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-07-15T15:07:34.973804+00:00",
+  "LastChanged_Achievements": "2023-07-15T16:08:15.0270284+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:20.3361796+00:00",
-  "LastUpdate_Ratings": "2023-07-15T14:59:09.8264266+00:00",
-  "LastUpdate_Achievements": "2023-07-15T15:07:34.9739335+00:00"
+  "LastUpdate_Ratings": "2023-07-15T15:59:09.0257661+00:00",
+  "LastUpdate_Achievements": "2023-07-15T16:08:15.0270778+00:00"
 }

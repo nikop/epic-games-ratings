@@ -3290,9 +3290,9 @@
       "ID": "LegacyOfaMasterHunter_55",
       "SetID": "c4hee28",
       "Name": "Legacy of a master hunter",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "LetEmEatMagma",
@@ -3514,8 +3514,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-07-11T02:15:21.6079736+00:00",
-  "LastChanged_Achievements": "2023-07-15T15:11:06.9502355+00:00",
+  "LastChanged_Achievements": "2023-07-15T16:11:32.3767041+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:26.5691499+00:00",
-  "LastUpdate_Ratings": "2023-07-15T15:00:20.005+00:00",
-  "LastUpdate_Achievements": "2023-07-15T15:11:06.9502874+00:00"
+  "LastUpdate_Ratings": "2023-07-15T16:00:23.2483454+00:00",
+  "LastUpdate_Achievements": "2023-07-15T16:11:32.3767421+00:00"
 }

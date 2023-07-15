@@ -6,22 +6,22 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,298 |
-| That's a Grand Army | 8.00% | ~5,598 |
-| That is mine! | 8.00% | ~5,598 |
-| Victorious! | 8.00% | ~5,598 |
-| Brothers in Arms | 6.00% | ~4,198 |
-| That's a Grand Navy | 6.00% | ~4,198 |
-| Seriously?! | 6.00% | ~4,198 |
-| For the Glory | 5.00% | ~3,499 |
-| Cold War | 4.00% | ~2,799 |
-| True Catholic | 4.00% | ~2,799 |
-| Defender of the Faith | 3.00% | ~2,099 |
-| It's all about luck | 3.00% | ~2,099 |
-| It's all about the money | 3.00% | ~2,099 |
-| Respected | 3.00% | ~2,099 |
-| The Princess is in this Castle | 3.00% | ~2,099 |
-| Truly Divine Ruler | 3.00% | ~2,099 |
+| Until death do us apart | 9.00% | ~6,301 |
+| That's a Grand Army | 8.00% | ~5,601 |
+| That is mine! | 8.00% | ~5,601 |
+| Victorious! | 8.00% | ~5,601 |
+| Brothers in Arms | 6.00% | ~4,200 |
+| That's a Grand Navy | 6.00% | ~4,200 |
+| Seriously?! | 6.00% | ~4,200 |
+| For the Glory | 5.00% | ~3,500 |
+| Cold War | 4.00% | ~2,800 |
+| True Catholic | 4.00% | ~2,800 |
+| Defender of the Faith | 3.00% | ~2,100 |
+| It's all about luck | 3.00% | ~2,100 |
+| It's all about the money | 3.00% | ~2,100 |
+| Respected | 3.00% | ~2,100 |
+| The Princess is in this Castle | 3.00% | ~2,100 |
+| Truly Divine Ruler | 3.00% | ~2,100 |
 | Agressive Expander | 2.00% | ~1,400 |
 | Blockader | 2.00% | ~1,400 |
 | Combined Arms | 2.00% | ~1,400 |
@@ -48,12 +48,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | Populists in Government | 0.70% | ~490 |
 | All belongs to Mother Russia | 0.60% | ~420 |
 | At every continent | 0.60% | ~420 |
-| Early-Modern Warfare | 0.60% | ~420 |
 | One Family to Rule them All | 0.60% | ~420 |
 | The pen is mightier than the sword | 0.60% | ~420 |
 | This is My Faith | 0.60% | ~420 |
 | Time Bandit | 0.60% | ~420 |
 | Absolutely | 0.50% | ~350 |
+| Early-Modern Warfare | 0.50% | ~350 |
 | Grand Coalition | 0.50% | ~350 |
 | Live Long and Prosper | 0.50% | ~350 |
 | Ruina Imperii | 0.50% | ~350 |
@@ -70,7 +70,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | One Night in Paris | 0.40% | ~280 |
 | Tear Down This Wall | 0.40% | ~280 |
 | The Continuation of Diplomacy | 0.40% | ~280 |
-| Traditional Player | 0.40% | ~280 |
 | Wonderful | 0.40% | ~280 |
 | A Decent Reserve | 0.30% | ~210 |
 | A Pile of Gold | 0.30% | ~210 |
@@ -80,12 +79,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | Not so sad a state... | 0.30% | ~210 |
 | The Chrysanthemum Throne | 0.30% | ~210 |
 | Three Trivial Tributary Tribes | 0.30% | ~210 |
+| Traditional Player | 0.30% | ~210 |
 | Vasa or Wettin? | 0.30% | ~210 |
 | World Discoverer | 0.30% | ~210 |
 | A Protected Market | 0.20% | ~140 |
 | AAA Credit | 0.20% | ~140 |
 | An early Reich | 0.20% | ~140 |
-| Basileus | 0.20% | ~140 |
 | Center of Attention | 0.20% | ~140 |
 | Fine Financials | 0.20% | ~140 |
 | A Fine Goosestep | 0.20% | ~140 |
@@ -93,7 +92,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Imperio español | 0.20% | ~140 |
 | Industrial Powerhouse | 0.20% | ~140 |
 | Je maintiendrai | 0.20% | ~140 |
-| A Kaiser not just in name | 0.20% | ~140 |
 | Magellan’s Voyage | 0.20% | ~140 |
 | Pyramid of Skulls | 0.20% | ~140 |
 | The Power of Three | 0.20% | ~140 |
@@ -128,6 +126,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Baltic Crusader | 0.10% | ~70 |
 | These Banners need a Saga | 0.10% | ~70 |
 | Barbarossa | 0.10% | ~70 |
+| Basileus | 0.10% | ~70 |
 | Basque in Glory | 0.10% | ~70 |
 | Bengal Tiger | 0.10% | ~70 |
 | Better than Napoleon | 0.10% | ~70 |
@@ -198,6 +197,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Iron Price | 0.10% | ~70 |
 | It's All Greek To Me | 0.10% | ~70 |
 | Just Resting In My Account | 0.10% | ~70 |
+| A Kaiser not just in name | 0.10% | ~70 |
 | Keep the Flame Burning | 0.10% | ~70 |
 | KHAAAAAAN | 0.10% | ~70 |
 | King of Jerusalem | 0.10% | ~70 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69,975 (Ranked 74)  
+Progressed: 70,008 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -447,7 +447,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-12 | 68,921 | 0 |
 | 2023-07-13 | 69,319 | 0 |
 | 2023-07-14 | 69,707 | 0 |
-| 2023-07-15 | 69,975 | 0 |
+| 2023-07-15 | 70,008 | 0 |
 ## Awards
 Max (Educational): 5,541  (Ranked 60)  
 Sum: 45,717 (Ranked 26)  

@@ -45,7 +45,7 @@ Number of Ratings: 266  (23.09.2022)
 | They'll Tell Stories About This | 1.00% | ~30 |
 | Vanquisher of nightmares | 1.00% | ~30 |
 | Through fire and flame. | 0.70% | ~21 |
-| Legacy of a master hunter | 0.40% | ~12 |
+| Legacy of a master hunter | 0.50% | ~15 |
 | Master of Aurai | 0.30% | ~9 |
 | The Absolute Pinnacle. | 0.30% | ~9 |
 ## Popularity (Based on EOS Achievements)

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 256,
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 116,
-  "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_Completed": 152,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -568,9 +568,9 @@
       "Count": 218
     }
   ],
-  "EOS_Progressed": 11061,
+  "EOS_Progressed": 11062,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -6623,6 +6623,11 @@
       "Time": "2023-07-15T14:09:18.4190285+00:00",
       "NumProgressed": 11061,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-07-15T16:13:22.011228+00:00",
+      "NumProgressed": 11062,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 35,
@@ -6634,7 +6639,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 8959
+      "UsersEstimate": 8960
     },
     {
       "ID": "ACH02",
@@ -6690,7 +6695,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5530
+      "UsersEstimate": 5531
     },
     {
       "ID": "ACH09",
@@ -6714,7 +6719,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "ACH12",
@@ -6730,7 +6735,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1880
+      "UsersEstimate": 1881
     },
     {
       "ID": "ACH14",
@@ -6810,7 +6815,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2765
+      "UsersEstimate": 2766
     },
     {
       "ID": "ACH24",
@@ -6913,7 +6918,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11061,
+      "Progressed": 11062,
       "Completed": 30
     }
   ],
@@ -6921,8 +6926,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-15T10:02:24.2938104+00:00",
-  "LastChanged_Achievements": "2023-07-15T15:12:40.9732851+00:00",
+  "LastChanged_Achievements": "2023-07-15T16:13:22.0112276+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:18.5169648+00:00",
-  "LastUpdate_Ratings": "2023-07-15T15:06:26.3795406+00:00",
-  "LastUpdate_Achievements": "2023-07-15T15:12:40.9733599+00:00"
+  "LastUpdate_Ratings": "2023-07-15T16:06:52.295878+00:00",
+  "LastUpdate_Achievements": "2023-07-15T16:13:22.0112744+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "destructure-among-debris-b4aaf8",
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewPlayers": 303,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -738,9 +738,9 @@
       "ID": "back_from_the_dead",
       "SetID": "jig50d",
       "Name": "Back From The Dead",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ball_collector",
@@ -979,8 +979,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-07-15T15:09:27.5525952+00:00",
+  "LastChanged_Achievements": "2023-07-15T16:10:00.8862139+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:05.7901927+00:00",
-  "LastUpdate_Ratings": "2023-07-15T15:05:51.94735+00:00",
-  "LastUpdate_Achievements": "2023-07-15T15:09:27.5526621+00:00"
+  "LastUpdate_Ratings": "2023-07-15T16:06:17.7527792+00:00",
+  "LastUpdate_Achievements": "2023-07-15T16:10:00.8862354+00:00"
 }

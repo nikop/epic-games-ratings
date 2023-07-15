@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3061,
+  "EOS_Progressed": 3062,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -2469,6 +2469,11 @@
       "Time": "2023-07-15T15:08:12.2111583+00:00",
       "NumProgressed": 3061,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-15T16:08:49.6485141+00:00",
+      "NumProgressed": 3062,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 33,
@@ -2528,7 +2533,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2724
+      "UsersEstimate": 2725
     },
     {
       "ID": "campaign10",
@@ -2616,7 +2621,7 @@
       "Name": "Flanked!",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2418
+      "UsersEstimate": 2419
     },
     {
       "ID": "campaign20",
@@ -2743,7 +2748,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3061,
+      "Progressed": 3062,
       "Completed": 10
     }
   ],
@@ -2751,8 +2756,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-07-15T15:08:12.2111577+00:00",
+  "LastChanged_Achievements": "2023-07-15T16:08:49.6485135+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:16.8344753+00:00",
-  "LastUpdate_Ratings": "2023-07-15T15:06:25.1380778+00:00",
-  "LastUpdate_Achievements": "2023-07-15T15:08:12.211202+00:00"
+  "LastUpdate_Ratings": "2023-07-15T16:06:49.0924608+00:00",
+  "LastUpdate_Achievements": "2023-07-15T16:08:49.6485439+00:00"
 }

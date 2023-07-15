@@ -10,9 +10,9 @@
 | A Prophecy | 85.00% | ~890 |
 | Sword, Shield, Fight! | 76.00% | ~796 |
 | A Grand Visit | 72.00% | ~754 |
+| Fun Guy | 63.00% | ~660 |
 | Vibing | 62.00% | ~649 |
-| Fun Guy | 62.00% | ~649 |
-| Tragic Brave | 53.00% | ~555 |
+| Tragic Brave | 54.00% | ~565 |
 | Awakened Spirits | 51.00% | ~534 |
 | Little Shop | 50.00% | ~524 |
 | Surprise! | 46.00% | ~482 |

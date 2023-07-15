@@ -17,8 +17,8 @@ Rating: 4.76 (Ranked 118)
 | Iconoclast | 6.00% | ~405 |
 | Soul-Canon | 6.00% | ~405 |
 | Happy Camper | 5.00% | ~337 |
+| Liberator | 5.00% | ~337 |
 | Shredder | 5.00% | ~337 |
-| Liberator | 4.00% | ~270 |
 | Live Wire | 4.00% | ~270 |
 | Fashion Faux-Pas | 3.00% | ~202 |
 | Fashion Victim | 3.00% | ~202 |

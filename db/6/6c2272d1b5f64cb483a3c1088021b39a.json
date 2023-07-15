@@ -2578,9 +2578,9 @@
       "ID": "invincible_1",
       "SetID": "53c1p3k",
       "Name": "Invincible 1",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 16
     },
     {
       "ID": "invincible_2",
@@ -2706,9 +2706,9 @@
       "ID": "sophisticated_alchemist_2",
       "SetID": "53c1p3k",
       "Name": "Sophisticated Alchemist 2",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "sophisticated_alchemist_3",
@@ -2825,8 +2825,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-07-15T15:09:28.8705338+00:00",
+  "LastChanged_Achievements": "2023-07-15T16:10:02.2053972+00:00",
   "LastUpdate_AppInfo": "2023-07-11T03:11:42.9317837+00:00",
-  "LastUpdate_Ratings": "2023-07-15T14:58:03.2054157+00:00",
-  "LastUpdate_Achievements": "2023-07-15T15:09:28.8706252+00:00"
+  "LastUpdate_Ratings": "2023-07-15T15:57:45.7293082+00:00",
+  "LastUpdate_Achievements": "2023-07-15T16:10:02.2054559+00:00"
 }

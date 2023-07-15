@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.05 (Ranked 902)  
+Rating: 4.05 (Ranked 903)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -18,6 +18,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Waterdeep Detours | 0.20% | ~424 |
 | Underdeep Cartography | 0.20% | ~424 |
 | Friendly Imps | 0.20% | ~424 |
+| Overdue Rendezvous | 0.20% | ~424 |
 | Pure Energy | 0.20% | ~424 |
 | Intelligence Hunt | 0.10% | ~212 |
 | Seeds of Deceit | 0.10% | ~212 |
@@ -214,7 +215,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lost in the Deep | 0.10% | ~212 |
 | Easily Distracted | 0.10% | ~212 |
 | Rude Welcome | 0.10% | ~212 |
-| Overdue Rendezvous | 0.10% | ~212 |
 | Moose Tracks | 0.10% | ~178 |
 | An Awakened Axe | 0.10% | ~178 |
 | CONtagious Cold | 0.10% | ~178 |
@@ -514,8 +514,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211,834 (Ranked 52)  
-Completed: 2,052 (0.97%) (Ranked 102)  
+Progressed: 211,863 (Ranked 52)  
+Completed: 2,053 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -600,7 +600,7 @@ Completed: 2,052 (0.97%) (Ranked 102)
 | 2023-07-12 | 210,649 | 2,046 |
 | 2023-07-13 | 211,069 | 2,049 |
 | 2023-07-14 | 211,507 | 2,050 |
-| 2023-07-15 | 211,834 | 2,052 |
+| 2023-07-15 | 211,863 | 2,053 |
 ## Awards
 Max (Diverse Characters): 5,036  (Ranked 66)  
 Sum: 30,535 (Ranked 38)  

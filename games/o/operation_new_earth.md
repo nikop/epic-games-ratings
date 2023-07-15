@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It's Good to have Allies | 42.00% | ~189 |
-| Defenses Online | 40.00% | ~180 |
+| Defenses Online | 39.00% | ~176 |
 | Facility Online | 34.00% | ~153 |
-| Corporal | 25.00% | ~112 |
+| Corporal | 25.00% | ~113 |
 | Covert Operative | 20.00% | ~90 |
 | Sergeant | 18.00% | ~81 |
 | Lieutenant | 14.00% | ~63 |
@@ -15,27 +15,27 @@
 | On Target | 14.00% | ~63 |
 | Getting Deployment | 12.00% | ~54 |
 | Infantry Reporting | 12.00% | ~54 |
-| Keeping Busy | 11.00% | ~49 |
+| Keeping Busy | 11.00% | ~50 |
 | Fighting for Survival | 10.00% | ~45 |
-| Silver Competitor | 9.00% | ~40 |
+| Silver Competitor | 9.00% | ~41 |
 | Captain | 8.00% | ~36 |
 | Factory Expansion | 8.00% | ~36 |
-| Exterminator | 7.00% | ~31 |
+| Exterminator | 7.00% | ~32 |
 | Brothers in Arms | 6.00% | ~27 |
 | Silver Achiever | 4.00% | ~18 |
 | Moving On Up | 4.00% | ~18 |
-| Know The Enemy | 3.00% | ~13 |
-| Player Betrayer | 3.00% | ~13 |
-| Advanced Warfare | 3.00% | ~13 |
-| Major | 3.00% | ~13 |
+| Know The Enemy | 3.00% | ~14 |
+| Player Betrayer | 3.00% | ~14 |
+| Advanced Warfare | 3.00% | ~14 |
+| Major | 3.00% | ~14 |
 | Gold Achiever | 2.00% | ~9 |
 | Colonel | 2.00% | ~9 |
 | General | 2.00% | ~9 |
 | Resourceful | 2.00% | ~9 |
 | Battle Ready | 2.00% | ~9 |
 | Control the Skies | 2.00% | ~9 |
-| Seek & Destroy | 1.00% | ~4 |
-| Titan Tanks | 1.00% | ~4 |
+| Seek & Destroy | 1.00% | ~5 |
+| Titan Tanks | 1.00% | ~5 |
 | Shock Troops | 0.90% | ~4 |
 | Jet Troops | 0.90% | ~4 |
 | Advanced Interceptors | 0.40% | ~2 |
@@ -43,7 +43,7 @@
 | Platinum Achiever | 0.00% | ~0 |
 | Platinum Competitor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 449 (Ranked 221)  
+Progressed: 451 (Ranked 220)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,4 +80,4 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-12 | 417 | 0 |
 | 2023-07-13 | 426 | 0 |
 | 2023-07-14 | 437 | 0 |
-| 2023-07-15 | 449 | 0 |
+| 2023-07-15 | 451 | 0 |

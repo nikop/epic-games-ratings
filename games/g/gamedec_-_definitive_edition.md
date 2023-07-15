@@ -6,17 +6,17 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~66,443 |
-| Powergamer | 27.00% | ~64,070 |
-| Barely scratched the surface | 25.00% | ~59,324 |
-| Write that down | 24.00% | ~56,952 |
-| Guns, lots of guns | 12.00% | ~28,476 |
-| Collector | 11.00% | ~26,103 |
-| Elementary! | 9.00% | ~21,357 |
-| Pumpkin Jack | 8.00% | ~18,984 |
-| Wake up! | 8.00% | ~18,984 |
-| It's honest work | 7.00% | ~16,611 |
-| Griever | 7.00% | ~16,611 |
+| I will finish what you started | 28.00% | ~66,446 |
+| Powergamer | 27.00% | ~64,073 |
+| Barely scratched the surface | 25.00% | ~59,327 |
+| Write that down | 24.00% | ~56,954 |
+| Guns, lots of guns | 12.00% | ~28,477 |
+| Collector | 11.00% | ~26,104 |
+| Elementary! | 9.00% | ~21,358 |
+| Pumpkin Jack | 8.00% | ~18,985 |
+| Wake up! | 8.00% | ~18,985 |
+| It's honest work | 7.00% | ~16,612 |
+| Griever | 7.00% | ~16,612 |
 | Me smart | 6.00% | ~14,238 |
 | Good listener | 5.00% | ~11,865 |
 | Trash compactor | 5.00% | ~11,865 |
@@ -47,7 +47,7 @@ Number of Ratings: 33  (23.09.2022)
 | Home run | 0.80% | ~1,898 |
 | I have the high ground | 0.70% | ~1,661 |
 | It's blue, always blue | 0.70% | ~1,661 |
-| Who wouldn't love a troll? | 0.50% | ~1,186 |
+| Who wouldn't love a troll? | 0.50% | ~1,187 |
 | Enjoy these little moments | 0.40% | ~949 |
 | Irondec | 0.40% | ~949 |
 | Un-bear-able | 0.40% | ~949 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~475 |
 | Memory 5 | 0.10% | ~237 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 237,298 (Ranked 45)  
+Progressed: 237,308 (Ranked 45)  
 Completed: 7 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,11 +145,11 @@ Completed: 7 (0.00%) (Ranked 236)
 | 2023-07-12 | 236,901 | 7 |
 | 2023-07-13 | 237,032 | 7 |
 | 2023-07-14 | 237,186 | 7 |
-| 2023-07-15 | 237,298 | 7 |
+| 2023-07-15 | 237,308 | 7 |
 ## Awards
 Max (Character Customization): 74  (Ranked 363)  
-Sum: 74 (Ranked 425)  
-Diff (max vs sum): -62  
+Sum: 74 (Ranked 426)  
+Diff (max vs sum): -63  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 74 |

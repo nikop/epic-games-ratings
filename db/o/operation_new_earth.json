@@ -2,7 +2,7 @@
   "ID": "fa9a00f7f82846b4b820e6152b69aa55",
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
-  "Ranking_EOS_Progress": 221,
+  "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 79,
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 449,
+  "EOS_Progressed": 451,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1566,6 +1566,11 @@
       "Time": "2023-07-15T15:10:46.3428556+00:00",
       "NumProgressed": 449,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-15T16:11:13.4357777+00:00",
+      "NumProgressed": 451,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1577,7 +1582,7 @@
       "Name": "Know The Enemy",
       "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -1585,7 +1590,7 @@
       "Name": "Exterminator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ach_defeat_players_10",
@@ -1601,7 +1606,7 @@
       "Name": "Player Betrayer",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ach_gold_rewards_100",
@@ -1641,7 +1646,7 @@
       "Name": "Silver Competitor",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -1657,7 +1662,7 @@
       "Name": "Keeping Busy",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "objective_headquarters_15",
@@ -1673,7 +1678,7 @@
       "Name": "Advanced Warfare",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "objective_headquarters_5",
@@ -1689,7 +1694,7 @@
       "Name": "Corporal",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -1721,7 +1726,7 @@
       "Name": "Major",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "objective_hero_level_up_6",
@@ -1777,7 +1782,7 @@
       "Name": "Seek \u0026 Destroy",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_3",
@@ -1831,9 +1836,9 @@
       "ID": "objective_multiple_turrets_2",
       "SetID": "bm61c2p",
       "Name": "Defenses Online",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 176
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -1849,7 +1854,7 @@
       "Name": "Titan Tanks",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "objective_research_unlock_heavy_infantry_tier_4",
@@ -1880,14 +1885,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 449,
+      "Progressed": 451,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-15T15:10:46.3428548+00:00",
+  "LastChanged_Achievements": "2023-07-15T16:11:13.4357772+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:28.9258865+00:00",
-  "LastUpdate_Ratings": "2023-07-15T15:06:53.6803204+00:00",
-  "LastUpdate_Achievements": "2023-07-15T15:10:46.3428963+00:00"
+  "LastUpdate_Ratings": "2023-07-15T16:07:25.8069298+00:00",
+  "LastUpdate_Achievements": "2023-07-15T16:11:13.4358079+00:00"
 }

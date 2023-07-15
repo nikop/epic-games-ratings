@@ -2,13 +2,13 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 902,
+  "Ranking_Rating": 903,
   "Ranking_Popularity": 66,
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 102,
   "Ranking_EOS_NewPlayers": 24,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4996,10 +4996,10 @@
       "Count": 3302
     }
   ],
-  "EOS_Progressed": 211834,
-  "EOS_Completed": 2052,
-  "EOS_NewPlayers": 3276,
-  "EOS_NewCompleters": 12,
+  "EOS_Progressed": 211863,
+  "EOS_Completed": 2053,
+  "EOS_NewPlayers": 3279,
+  "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
     {
@@ -14171,6 +14171,11 @@
       "Time": "2023-07-15T15:11:13.7487638+00:00",
       "NumProgressed": 211834,
       "NumCompleted": 2052
+    },
+    {
+      "Time": "2023-07-15T16:11:39.0640891+00:00",
+      "NumProgressed": 211863,
+      "NumCompleted": 2053
     }
   ],
   "TotalAchievements": 507,
@@ -17404,9 +17409,9 @@
       "ID": "objective_completed_80",
       "SetID": "cc37lbc",
       "Name": "Overdue Rendezvous",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 424
     },
     {
       "ID": "objective_completed_802",
@@ -18237,21 +18242,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 178108,
+      "Progressed": 178137,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 211834,
-      "Completed": 2052
+      "Progressed": 211863,
+      "Completed": 2053
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-15T15:00:54.7798703+00:00",
-  "LastChanged_Achievements": "2023-07-15T15:11:13.7487631+00:00",
+  "LastChanged_Achievements": "2023-07-15T16:11:39.0640886+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:48.5227447+00:00",
-  "LastUpdate_Ratings": "2023-07-15T15:00:54.7798711+00:00",
-  "LastUpdate_Achievements": "2023-07-15T15:11:13.7525714+00:00"
+  "LastUpdate_Ratings": "2023-07-15T16:00:55.1148317+00:00",
+  "LastUpdate_Achievements": "2023-07-15T16:11:39.0663909+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "time-loader",
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 29,
-  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-11-03T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 111,
+  "EOS_Progressed": 112,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.21,
+  "EOS_Completed_Percentage": 7.14,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:23.4088376+00:00",
@@ -121,6 +121,11 @@
       "Time": "2023-07-08T19:06:44.6927586+00:00",
       "NumProgressed": 111,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-15T16:13:20.6250402+00:00",
+      "NumProgressed": 112,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 29,
@@ -138,9 +143,9 @@
       "ID": "02_Soap",
       "SetID": "681m9fa",
       "Name": "Soap",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 46
+      "UsersEstimate": 45
     },
     {
       "ID": "03_Cassette",
@@ -148,7 +153,7 @@
       "Name": "Cassette",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "04_Mug",
@@ -162,17 +167,17 @@
       "ID": "05_TimeCapsule",
       "SetID": "681m9fa",
       "Name": "Time Capsule",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 15
     },
     {
       "ID": "06_Photo",
       "SetID": "681m9fa",
       "Name": "Photo",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 15
     },
     {
       "ID": "07_Contract",
@@ -196,7 +201,7 @@
       "Name": "Ticket",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "10_Flyer",
@@ -218,9 +223,9 @@
       "ID": "12_Purrfect",
       "SetID": "681m9fa",
       "Name": "Purr-fect",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 35
     },
     {
       "ID": "13_DrAntivirus",
@@ -242,7 +247,7 @@
       "ID": "15_Screwdriver",
       "SetID": "681m9fa",
       "Name": "Screwdriver",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 15,
       "UsersEstimate": 71
     },
@@ -252,7 +257,7 @@
       "Name": "Springs",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "17_Capacitors",
@@ -274,7 +279,7 @@
       "ID": "19_Harpoon",
       "SetID": "681m9fa",
       "Name": "Harpoon",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
       "UsersEstimate": 24
     },
@@ -282,9 +287,9 @@
       "ID": "20_AccessProtocol",
       "SetID": "681m9fa",
       "Name": "Access protocol",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 15
     },
     {
       "ID": "21_RobotBros",
@@ -356,14 +361,14 @@
       "Name": "Act 3",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     }
   ],
   "AchievementSets": [
     {
       "ID": "681m9fa",
       "IsBase": true,
-      "Progressed": 111,
+      "Progressed": 112,
       "Completed": 8
     }
   ],
@@ -371,8 +376,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.0272628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.4088384+00:00",
   "LastChanged": "2023-03-31T05:58:23.0272628+00:00",
-  "LastChanged_Achievements": "2023-07-15T15:12:39.5797911+00:00",
+  "LastChanged_Achievements": "2023-07-15T16:13:20.6250397+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:25.950315+00:00",
-  "LastUpdate_Ratings": "2023-07-15T15:00:19.0626061+00:00",
-  "LastUpdate_Achievements": "2023-07-15T15:12:39.5798115+00:00"
+  "LastUpdate_Ratings": "2023-07-15T16:00:23.1984744+00:00",
+  "LastUpdate_Achievements": "2023-07-15T16:13:20.625057+00:00"
 }

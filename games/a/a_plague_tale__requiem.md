@@ -20,7 +20,7 @@ Rating: 4.73 (Ranked 157)
 | The Life We Deserve | 45.00% | ~5,414 |
 | Night guard | 43.00% | ~5,173 |
 | Nothing Left | 39.00% | ~4,692 |
-| Healing our Wounds | 36.00% | ~4,331 |
+| Healing our Wounds | 37.00% | ~4,451 |
 | Dying Sun | 33.00% | ~3,970 |
 | Improved crossbow | 26.00% | ~3,128 |
 | King Hugo | 24.00% | ~2,887 |
