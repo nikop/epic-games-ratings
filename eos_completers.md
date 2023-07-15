@@ -30,7 +30,7 @@
 | 28 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.27% |
 | 29 | [Time Loader](games/t/time_loader.md) | 7.14% |
 | 30 | [Scorn](games/s/scorn.md) | 7.06% |
-| 31 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.92% |
+| 31 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.99% |
 | 32 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.82% |
 | 33 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 34 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -62,7 +62,7 @@
 | 59 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 61 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.86% |
 | 62 | [Destiny 2](games/d/destiny_2.md) | 2.81% |
-| 63 | [The Bunker](games/t/the_bunker.md) | 2.75% |
+| 63 | [The Bunker](games/t/the_bunker.md) | 2.73% |
 | 64 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 65 | [Lamentum](games/l/lamentum.md) | 2.67% |
 | 66 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
@@ -126,8 +126,8 @@
 | 124 | [Potion Permit](games/p/potion_permit.md) | 0.55% |
 | 125 | [The Surge 2](games/t/the_surge_2.md) | 0.54% |
 | 126 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.53% |
-| 127 | [Aragami 2](games/a/aragami_2.md) | 0.51% |
-| 128 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
+| 127 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
+| 127 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
 | 129 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.48% |
 | 130 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 131 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.46% |
@@ -173,10 +173,10 @@
 | 169 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.16% |
 | 172 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.15% |
 | 172 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
-| 172 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.15% |
 | 172 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.15% |
 | 172 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
-| 177 | [Port Royale 4](games/p/port_royale_4.md) | 0.14% |
+| 176 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.14% |
+| 176 | [Port Royale 4](games/p/port_royale_4.md) | 0.14% |
 | 178 | [Isonzo](games/i/isonzo.md) | 0.13% |
 | 179 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 180 | [Fall Guys](games/f/fall_guys.md) | 0.11% |
