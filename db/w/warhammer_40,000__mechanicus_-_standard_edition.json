@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -531,9 +531,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 217197,
+  "EOS_Progressed": 217208,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 636,
+  "EOS_NewPlayers": 638,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9596,6 +9596,11 @@
       "Time": "2023-07-15T00:06:23.2746446+00:00",
       "NumProgressed": 217197,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-15T02:31:59.6644662+00:00",
+      "NumProgressed": 217208,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 34,
@@ -9607,7 +9612,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 41267
+      "UsersEstimate": 41270
     },
     {
       "ID": "ACH_BASE_10",
@@ -9615,7 +9620,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 54299
+      "UsersEstimate": 54302
     },
     {
       "ID": "ACH_BASE_11",
@@ -9647,7 +9652,7 @@
       "Name": "Power Ranger",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19548
+      "UsersEstimate": 19549
     },
     {
       "ID": "ACH_BASE_16",
@@ -9655,7 +9660,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19548
+      "UsersEstimate": 19549
     },
     {
       "ID": "ACH_BASE_17",
@@ -9663,7 +9668,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19548
+      "UsersEstimate": 19549
     },
     {
       "ID": "ACH_BASE_18",
@@ -9671,7 +9676,7 @@
       "Name": "Radium Ready",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19548
+      "UsersEstimate": 19549
     },
     {
       "ID": "ACH_BASE_19",
@@ -9855,7 +9860,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 26064
+      "UsersEstimate": 26065
     },
     {
       "ID": "ACH_BASE_8",
@@ -9871,14 +9876,14 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19548
+      "UsersEstimate": 19549
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 217197,
+      "Progressed": 217208,
       "Completed": 4
     }
   ],
@@ -9886,8 +9891,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-07-13T02:25:24.2983904+00:00",
-  "LastChanged_Achievements": "2023-07-15T00:06:23.2746441+00:00",
+  "LastChanged_Achievements": "2023-07-15T02:31:59.6644656+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:16.5954522+00:00",
-  "LastUpdate_Ratings": "2023-07-14T23:59:18.702628+00:00",
-  "LastUpdate_Achievements": "2023-07-15T00:06:23.2747115+00:00"
+  "LastUpdate_Ratings": "2023-07-15T02:25:05.5988448+00:00",
+  "LastUpdate_Achievements": "2023-07-15T02:31:59.6645576+00:00"
 }

@@ -6,10 +6,10 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~3,102 |
-| Un-Lonely Island | 48.00% | ~1,959 |
-| The Beginning of a Servantship | 45.00% | ~1,837 |
-| Trade Is My Trait | 38.00% | ~1,551 |
+| Just One...More...Term... | 76.00% | ~3,104 |
+| Un-Lonely Island | 48.00% | ~1,960 |
+| The Beginning of a Servantship | 45.00% | ~1,838 |
+| Trade Is My Trait | 38.00% | ~1,552 |
 | Number 18 | 24.00% | ~980 |
 | We Don't Have Time For That | 19.00% | ~776 |
 | The Governator | 18.00% | ~735 |
@@ -33,10 +33,10 @@ Number of Ratings: 398  (23.09.2022)
 | Viva Tropico! | 5.00% | ~204 |
 | Fairy Tale Come True | 5.00% | ~204 |
 | Apocalypso | 4.00% | ~163 |
-| Been there, Done That | 3.00% | ~122 |
-| Narcissist | 3.00% | ~122 |
-| Promising Endeavors | 3.00% | ~122 |
-| The Time For Wonders | 3.00% | ~122 |
+| Been there, Done That | 3.00% | ~123 |
+| Narcissist | 3.00% | ~123 |
+| Promising Endeavors | 3.00% | ~123 |
+| The Time For Wonders | 3.00% | ~123 |
 | Chain Gang | 2.00% | ~82 |
 | One Does Not Simply Stage A Coup | 2.00% | ~82 |
 | Sublime Subliminal Supreme | 2.00% | ~82 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 1.00% | ~41 |
 | My Ways | 0.40% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,082 (Ranked 143)  
+Progressed: 4,084 (Ranked 143)  
 Completed: 1 (0.02%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 1 (0.02%) (Ranked 214)
 | 2023-07-12 | 4,062 | 1 |
 | 2023-07-13 | 4,071 | 1 |
 | 2023-07-14 | 4,081 | 1 |
-| 2023-07-15 | 4,082 | 1 |
+| 2023-07-15 | 4,084 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 94  (Ranked 341)  
 Sum: 667 (Ranked 276)  

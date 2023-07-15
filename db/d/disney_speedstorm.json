@@ -15,7 +15,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2949,
+  "EOS_Progressed": 2950,
   "EOS_Completed": 97,
   "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 5,
@@ -3450,6 +3450,11 @@
       "Time": "2023-07-14T22:07:11.0095678+00:00",
       "NumProgressed": 2949,
       "NumCompleted": 97
+    },
+    {
+      "Time": "2023-07-15T02:32:10.9185443+00:00",
+      "NumProgressed": 2950,
+      "NumCompleted": 97
     }
   ],
   "TotalAchievements": 24,
@@ -3469,7 +3474,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "11",
@@ -3485,7 +3490,7 @@
       "Name": "TRAINING HARD",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "13",
@@ -3493,7 +3498,7 @@
       "Name": "EXPERIENCED CREW",
       "Percentage": 5,
       "XP": 70,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "14",
@@ -3501,7 +3506,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "15",
@@ -3533,7 +3538,7 @@
       "Name": "ACE BRAWLER",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "19",
@@ -3541,7 +3546,7 @@
       "Name": "DEFEAT OUR CHAMPION",
       "Percentage": 13,
       "XP": 85,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "2",
@@ -3613,7 +3618,7 @@
       "Name": "ROOKIE",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1563
+      "UsersEstimate": 1564
     },
     {
       "ID": "6",
@@ -3621,7 +3626,7 @@
       "Name": "PRO",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "7",
@@ -3645,20 +3650,20 @@
       "Name": "LEGENDARY HERO",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     }
   ],
   "AchievementSets": [
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2949,
+      "Progressed": 2950,
       "Completed": 97
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-07-15T00:06:32.6724156+00:00",
+  "LastChanged_Achievements": "2023-07-15T02:32:10.9185429+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:58.7714419+00:00",
-  "LastUpdate_Ratings": "2023-07-14T23:59:56.0092711+00:00",
-  "LastUpdate_Achievements": "2023-07-15T00:06:32.6724462+00:00"
+  "LastUpdate_Ratings": "2023-07-15T02:25:47.624245+00:00",
+  "LastUpdate_Achievements": "2023-07-15T02:32:10.9185856+00:00"
 }

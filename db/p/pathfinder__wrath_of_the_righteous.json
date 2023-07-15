@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 112,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3116,9 +3116,9 @@
       "Count": 381
     }
   ],
-  "EOS_Progressed": 10312,
+  "EOS_Progressed": 10316,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8396,6 +8396,11 @@
       "Time": "2023-07-14T22:05:08.3649041+00:00",
       "NumProgressed": 10312,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-15T02:30:20.0253362+00:00",
+      "NumProgressed": 10316,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -8407,7 +8412,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2062
+      "UsersEstimate": 2063
     },
     {
       "ID": "02_BurningCity",
@@ -8423,7 +8428,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1135
     },
     {
       "ID": "04_FithCrusade",
@@ -8479,7 +8484,7 @@
       "Name": "Path of the Azata",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "11_PathOfAeon",
@@ -8535,7 +8540,7 @@
       "Name": "Transformation",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "18_MythicChoices",
@@ -8543,7 +8548,7 @@
       "Name": "Mythic Choices",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1237
+      "UsersEstimate": 1238
     },
     {
       "ID": "19_EqualToAroden",
@@ -8607,7 +8612,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1031
+      "UsersEstimate": 1032
     },
     {
       "ID": "28_GreatUpstart",
@@ -8615,7 +8620,7 @@
       "Name": "Great Upstart",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "29_StrategicVictory",
@@ -8655,7 +8660,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1237
+      "UsersEstimate": 1238
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -8711,7 +8716,7 @@
       "Name": "End of Eternal Guard",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "41_PlayfulMood",
@@ -8751,7 +8756,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "46_AllPathsOpen",
@@ -8759,7 +8764,7 @@
       "Name": "All Paths Open",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -9309,9 +9314,9 @@
       "ID": "DLC4_27_Not the Last Sarkorian",
       "SetID": "11go2ek",
       "Name": "Not the Last Sarkorian",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 82
     },
     {
       "ID": "DLC4_29_The Lady of the Forest",
@@ -9334,21 +9339,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9094,
+      "Progressed": 9098,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10312,
+      "Progressed": 10316,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-14T09:59:14.033827+00:00",
-  "LastChanged_Achievements": "2023-07-15T00:04:40.4691645+00:00",
+  "LastChanged_Achievements": "2023-07-15T02:30:20.0253356+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:21:12.7052521+00:00",
-  "LastUpdate_Ratings": "2023-07-14T23:59:14.0132765+00:00",
-  "LastUpdate_Achievements": "2023-07-15T00:04:40.4693174+00:00"
+  "LastUpdate_Ratings": "2023-07-15T02:24:57.7449841+00:00",
+  "LastUpdate_Achievements": "2023-07-15T02:30:20.0255362+00:00"
 }

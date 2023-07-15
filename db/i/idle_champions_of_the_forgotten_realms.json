@@ -4966,10 +4966,10 @@
       "Count": 3299
     }
   ],
-  "EOS_Progressed": 211526,
+  "EOS_Progressed": 211565,
   "EOS_Completed": 2050,
-  "EOS_NewPlayers": 3357,
-  "EOS_NewCompleters": 13,
+  "EOS_NewPlayers": 3344,
+  "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
     {
@@ -14071,6 +14071,11 @@
       "Time": "2023-07-15T00:06:17.7494279+00:00",
       "NumProgressed": 211526,
       "NumCompleted": 2050
+    },
+    {
+      "Time": "2023-07-15T02:31:53.5263677+00:00",
+      "NumProgressed": 211565,
+      "NumCompleted": 2050
     }
   ],
   "TotalAchievements": 507,
@@ -16216,9 +16221,9 @@
       "ID": "objective_completed_5",
       "SetID": "cc37lbc",
       "Name": "Mad Cow Disease",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 423
     },
     {
       "ID": "objective_completed_54",
@@ -17296,9 +17301,9 @@
       "ID": "objective_completed_8",
       "SetID": "cc37lbc",
       "Name": "Friendly Imps",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 423
     },
     {
       "ID": "objective_completed_80",
@@ -17824,9 +17829,9 @@
       "ID": "objective_completed_9",
       "SetID": "cc37lbc",
       "Name": "Pure Energy",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 423
     },
     {
       "ID": "objective_completed_902",
@@ -18137,21 +18142,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 177800,
+      "Progressed": 177839,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 211526,
+      "Progressed": 211565,
       "Completed": 2050
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-14T13:58:35.7820989+00:00",
-  "LastChanged_Achievements": "2023-07-15T00:06:17.7494274+00:00",
+  "LastChanged_Achievements": "2023-07-15T02:31:53.5263671+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:43.9043947+00:00",
-  "LastUpdate_Ratings": "2023-07-14T23:58:53.3612737+00:00",
-  "LastUpdate_Achievements": "2023-07-15T00:06:17.7517922+00:00"
+  "LastUpdate_Ratings": "2023-07-15T02:24:31.2370171+00:00",
+  "LastUpdate_Achievements": "2023-07-15T02:31:53.5288874+00:00"
 }

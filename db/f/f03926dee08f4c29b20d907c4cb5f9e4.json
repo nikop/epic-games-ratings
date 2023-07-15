@@ -2,10 +2,10 @@
   "ID": "f03926dee08f4c29b20d907c4cb5f9e4",
   "Name": "HORSE CLUB Adventures 2 - Hazelwood Stories",
   "ProductSlug": "horse-club-adventures-2-hazelwood-stories-b257d3",
-  "Ranking_EOS_Progress": 399,
+  "Ranking_EOS_Progress": 397,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-07-06T10:00:00+00:00",
     "PcReleaseDate": "2022-10-27T11:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 10,
+  "EOS_Progressed": 11,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -74,6 +74,11 @@
       "Time": "2023-07-13T11:03:43.6728748+00:00",
       "NumProgressed": 10,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-15T02:29:38.5045396+00:00",
+      "NumProgressed": 11,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-05T11:01:11.706476+00:00",
@@ -84,23 +89,23 @@
       "ID": "ACH_01_SADDLE_UP",
       "SetID": "9loam6m",
       "Name": "Saddled up and away",
-      "Percentage": 120,
+      "Percentage": 118,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_02_PHOTO_TEAM",
       "SetID": "9loam6m",
       "Name": "Photo team",
-      "Percentage": 80,
+      "Percentage": 82,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_03_MODEL",
       "SetID": "9loam6m",
       "Name": "Model",
-      "Percentage": 40,
+      "Percentage": 36,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -228,7 +233,7 @@
       "ID": "ACH_19_HORSE_FRIENDS",
       "SetID": "9loam6m",
       "Name": "Horse friends",
-      "Percentage": 50,
+      "Percentage": 45,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -244,7 +249,7 @@
       "ID": "ACH_21_FIRST_RACE",
       "SetID": "9loam6m",
       "Name": "First race",
-      "Percentage": 50,
+      "Percentage": 45,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -276,7 +281,7 @@
       "ID": "ACH_25_BALLOON_GAME",
       "SetID": "9loam6m",
       "Name": "Balloon game",
-      "Percentage": 30,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -292,7 +297,7 @@
       "ID": "ACH_27_HORSEMANSHIP",
       "SetID": "9loam6m",
       "Name": "Horsemanship",
-      "Percentage": 50,
+      "Percentage": 45,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -324,9 +329,9 @@
       "ID": "ACH_31_BEST_MUFFINS",
       "SetID": "9loam6m",
       "Name": "The best muffins",
-      "Percentage": 70,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_32_HEART_FOR_ANIMALS",
@@ -340,7 +345,7 @@
       "ID": "ACH_33_LOVELY_VIEW",
       "SetID": "9loam6m",
       "Name": "Lovely view",
-      "Percentage": 30,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -348,15 +353,15 @@
       "ID": "ACH_34_HAZELWOOD",
       "SetID": "9loam6m",
       "Name": "Hazelwood",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_35_RIDING_LESSON",
       "SetID": "9loam6m",
       "Name": "Riding lesson",
-      "Percentage": 20,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -380,7 +385,7 @@
       "ID": "ACH_38_WELL_HIDDEN",
       "SetID": "9loam6m",
       "Name": "Well hidden!",
-      "Percentage": 20,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -388,7 +393,7 @@
       "ID": "ACH_39_TENS_AT_THE_LAKE",
       "SetID": "9loam6m",
       "Name": "Tents at the lake",
-      "Percentage": 20,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -421,13 +426,13 @@
     {
       "ID": "9loam6m",
       "IsBase": true,
-      "Progressed": 10,
+      "Progressed": 11,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2023-07-15T00:03:46.2132983+00:00",
+  "LastChanged_Achievements": "2023-07-15T02:29:38.504539+00:00",
   "LastUpdate_AppInfo": "2023-07-12T11:57:01.6328579+00:00",
-  "LastUpdate_Ratings": "2023-07-14T23:57:11.4346124+00:00",
-  "LastUpdate_Achievements": "2023-07-15T00:03:46.2133286+00:00"
+  "LastUpdate_Ratings": "2023-07-15T02:22:36.7797744+00:00",
+  "LastUpdate_Achievements": "2023-07-15T02:29:38.5045768+00:00"
 }

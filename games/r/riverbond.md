@@ -6,48 +6,48 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~365,511 |
-| Now You're Talking | 62.00% | ~323,739 |
-| Steel Yourself | 62.00% | ~323,739 |
-| Window Dressing | 50.00% | ~261,080 |
-| Trigger Happy | 46.00% | ~240,193 |
-| Riverborn | 45.00% | ~234,972 |
-| Starry Eyed | 34.00% | ~177,534 |
-| Poking Around | 34.00% | ~177,534 |
-| Talk of the Town | 24.00% | ~125,318 |
-| AAARR! | 23.00% | ~120,097 |
-| Hello Darkness | 23.00% | ~120,097 |
-| Wind At Our Backs | 22.00% | ~114,875 |
-| To the Beat | 20.00% | ~104,432 |
-| Sunny Shores | 17.00% | ~88,767 |
-| Sunday Best | 16.00% | ~83,545 |
-| To Victory! | 15.00% | ~78,324 |
-| Two of a Kind | 14.00% | ~73,102 |
-| Keep On Trucking | 13.00% | ~67,881 |
-| Going on an Adventure | 11.00% | ~57,437 |
-| Make Peace, Not War | 11.00% | ~57,437 |
-| Walking The Line | 10.00% | ~52,216 |
-| Not So Cute Anymore | 10.00% | ~52,216 |
-| Road Less Travelled | 9.00% | ~46,994 |
-| Lost and Found | 9.00% | ~46,994 |
-| Partner in Crime | 7.00% | ~36,551 |
-| Hard to Hear | 7.00% | ~36,551 |
-| Under the Radar | 7.00% | ~36,551 |
+| First Step | 70.00% | ~365,521 |
+| Now You're Talking | 62.00% | ~323,747 |
+| Steel Yourself | 62.00% | ~323,747 |
+| Window Dressing | 50.00% | ~261,086 |
+| Trigger Happy | 46.00% | ~240,200 |
+| Riverborn | 45.00% | ~234,978 |
+| Starry Eyed | 34.00% | ~177,539 |
+| Poking Around | 34.00% | ~177,539 |
+| Talk of the Town | 24.00% | ~125,322 |
+| AAARR! | 23.00% | ~120,100 |
+| Hello Darkness | 23.00% | ~120,100 |
+| Wind At Our Backs | 22.00% | ~114,878 |
+| To the Beat | 20.00% | ~104,435 |
+| Sunny Shores | 17.00% | ~88,769 |
+| Sunday Best | 16.00% | ~83,548 |
+| To Victory! | 15.00% | ~78,326 |
+| Two of a Kind | 14.00% | ~73,104 |
+| Keep On Trucking | 13.00% | ~67,882 |
+| Going on an Adventure | 11.00% | ~57,439 |
+| Make Peace, Not War | 11.00% | ~57,439 |
+| Walking The Line | 10.00% | ~52,217 |
+| Not So Cute Anymore | 10.00% | ~52,217 |
+| Road Less Travelled | 9.00% | ~46,996 |
+| Lost and Found | 9.00% | ~46,996 |
+| Partner in Crime | 7.00% | ~36,552 |
+| Hard to Hear | 7.00% | ~36,552 |
+| Under the Radar | 7.00% | ~36,552 |
 | Moving On Up | 6.00% | ~31,330 |
 | Owl Knows Best | 6.00% | ~31,330 |
 | Mind the Moose | 6.00% | ~31,330 |
 | Dressed to Kill | 6.00% | ~31,330 |
 | Beast Mode | 6.00% | ~31,330 |
-| Oh, Romeo! | 5.00% | ~26,108 |
-| Noble Intentions | 5.00% | ~26,108 |
-| Rising Star | 5.00% | ~26,108 |
-| Slime Slayer | 5.00% | ~26,108 |
-| Privacy, Please! | 4.00% | ~20,886 |
-| Silky Smooth | 4.00% | ~20,886 |
-| Hash It Over | 4.00% | ~20,886 |
-| Biting Tongue | 4.00% | ~20,886 |
-| What a Catch! | 4.00% | ~20,886 |
-| Hit the Spot | 4.00% | ~20,886 |
+| Oh, Romeo! | 5.00% | ~26,109 |
+| Noble Intentions | 5.00% | ~26,109 |
+| Rising Star | 5.00% | ~26,109 |
+| Slime Slayer | 5.00% | ~26,109 |
+| Privacy, Please! | 4.00% | ~20,887 |
+| Silky Smooth | 4.00% | ~20,887 |
+| Hash It Over | 4.00% | ~20,887 |
+| Biting Tongue | 4.00% | ~20,887 |
+| What a Catch! | 4.00% | ~20,887 |
+| Hit the Spot | 4.00% | ~20,887 |
 | Talk the Talk | 3.00% | ~15,665 |
 | Skin in the Game | 3.00% | ~15,665 |
 | Caving In | 3.00% | ~15,665 |
@@ -60,11 +60,11 @@ Number of Ratings: 617  (23.09.2022)
 | Justice Served | 2.00% | ~10,443 |
 | Don't Care | 1.00% | ~5,222 |
 | Don’t Get Crabby | 1.00% | ~5,222 |
-| Written in the Stars | 0.90% | ~4,699 |
-| Boss of All Bosses | 0.30% | ~1,566 |
+| Written in the Stars | 0.90% | ~4,700 |
+| Boss of All Bosses | 0.30% | ~1,567 |
 | Point Taken | 0.10% | ~522 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 522,159 (Ranked 29)  
+Progressed: 522,173 (Ranked 29)  
 Completed: 443 (0.08%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 443 (0.08%) (Ranked 193)
 | 2023-07-12 | 521,985 | 443 |
 | 2023-07-13 | 522,062 | 443 |
 | 2023-07-14 | 522,153 | 443 |
-| 2023-07-15 | 522,159 | 443 |
+| 2023-07-15 | 522,173 | 443 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

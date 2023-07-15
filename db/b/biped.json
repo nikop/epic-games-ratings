@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4168,
+  "EOS_Progressed": 4169,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 267,
   "EOS_NewCompleters": 0,
@@ -6186,6 +6186,11 @@
       "Time": "2023-07-15T00:07:35.9291512+00:00",
       "NumProgressed": 4168,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-15T02:33:26.7345368+00:00",
+      "NumProgressed": 4169,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -6261,7 +6266,7 @@
       "Name": "Cactus Vally",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 1000
+      "UsersEstimate": 1001
     },
     {
       "ID": "4",
@@ -6285,7 +6290,7 @@
       "Name": "High Treetops",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "7",
@@ -6316,7 +6321,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 4168,
+      "Progressed": 4169,
       "Completed": 0
     }
   ],
@@ -6324,8 +6329,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-07-15T00:07:35.9291507+00:00",
+  "LastChanged_Achievements": "2023-07-15T02:33:26.7345361+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:20:39.9836246+00:00",
-  "LastUpdate_Ratings": "2023-07-14T23:58:47.4218069+00:00",
-  "LastUpdate_Achievements": "2023-07-15T00:07:35.92919+00:00"
+  "LastUpdate_Ratings": "2023-07-15T02:24:23.1612455+00:00",
+  "LastUpdate_Achievements": "2023-07-15T02:33:26.7345876+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
   "Ranking_Rating": 655,
-  "Ranking_Popularity": 447,
+  "Ranking_Popularity": 448,
   "Ranking_PopularitySum": 374,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -664,9 +664,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 252976,
+  "EOS_Progressed": 252984,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 376,
+  "EOS_NewPlayers": 379,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9314,6 +9314,11 @@
       "Time": "2023-07-15T00:06:22.3704448+00:00",
       "NumProgressed": 252976,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-15T02:31:58.6582592+00:00",
+      "NumProgressed": 252984,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 56,
@@ -9325,7 +9330,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17708
+      "UsersEstimate": 17709
     },
     {
       "ID": "Act2",
@@ -9373,7 +9378,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78423
+      "UsersEstimate": 78425
     },
     {
       "ID": "BackHomeNTimes",
@@ -9597,7 +9602,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7589
+      "UsersEstimate": 7590
     },
     {
       "ID": "KillOtherWithMine",
@@ -9613,7 +9618,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55655
+      "UsersEstimate": 55656
     },
     {
       "ID": "KillOthers2",
@@ -9772,7 +9777,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 252976,
+      "Progressed": 252984,
       "Completed": 2
     }
   ],
@@ -9780,8 +9785,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-07-06T21:01:42.966299+00:00",
-  "LastChanged_Achievements": "2023-07-15T00:06:22.3704444+00:00",
+  "LastChanged_Achievements": "2023-07-15T02:31:58.6582587+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:46.8796395+00:00",
-  "LastUpdate_Ratings": "2023-07-15T00:01:31.072656+00:00",
-  "LastUpdate_Achievements": "2023-07-15T00:06:22.3705254+00:00"
+  "LastUpdate_Ratings": "2023-07-15T02:27:41.7624346+00:00",
+  "LastUpdate_Achievements": "2023-07-15T02:31:58.6583648+00:00"
 }

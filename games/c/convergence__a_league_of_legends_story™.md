@@ -8,6 +8,7 @@
 | Rail Rat | 16.00% | ~121 |
 | The Mysterious Stranger | 15.00% | ~113 |
 | The Steel Shadow | 14.00% | ~106 |
+| The Betrayer | 14.00% | ~106 |
 | The Man Who Shattered Time | 14.00% | ~106 |
 | The Loose Cannon | 14.00% | ~106 |
 | Make Up For Lost Time | 14.00% | ~106 |
@@ -23,15 +24,14 @@
 | The Brass Boss | 14.00% | ~106 |
 | The Family Fortune | 14.00% | ~106 |
 | Treasure Trove | 13.00% | ~98 |
-| The Betrayer | 13.00% | ~98 |
 | Golem Chaser | 13.00% | ~98 |
 | Fast Learner | 13.00% | ~98 |
 | Check Your Pulse | 13.00% | ~98 |
-| Like Clockwork | 12.00% | ~90 |
-| Street Style | 12.00% | ~90 |
-| Honest Mistake | 12.00% | ~90 |
+| Like Clockwork | 12.00% | ~91 |
+| Street Style | 12.00% | ~91 |
+| Honest Mistake | 12.00% | ~91 |
 | Right On Time | 11.00% | ~83 |
-| Whiz Kid | 10.00% | ~75 |
+| Whiz Kid | 10.00% | ~76 |
 | Chaincrawler Explorer | 9.00% | ~68 |
 | Good Neighbor | 9.00% | ~68 |
 | Family Memories | 8.00% | ~60 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.50% | ~4 |
 | Raw Talent | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 754 (Ranked 199)  
+Progressed: 755 (Ranked 199)  
 Completed: 4 (0.53%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,3 +112,4 @@ Completed: 4 (0.53%) (Ranked 125)
 | 2023-07-10 | 750 | 4 |
 | 2023-07-11 | 751 | 4 |
 | 2023-07-14 | 754 | 4 |
+| 2023-07-15 | 755 | 4 |

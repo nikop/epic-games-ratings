@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 110,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13898,
+  "EOS_Progressed": 13899,
   "EOS_Completed": 105,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -6084,6 +6084,11 @@
       "Time": "2023-07-14T23:01:02.8551353+00:00",
       "NumProgressed": 13898,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2023-07-15T02:28:17.9262967+00:00",
+      "NumProgressed": 13899,
+      "NumCompleted": 105
     }
   ],
   "TotalAchievements": 41,
@@ -6135,7 +6140,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4725
+      "UsersEstimate": 4726
     },
     {
       "ID": "tpote_achievement_15",
@@ -6183,7 +6188,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4725
+      "UsersEstimate": 4726
     },
     {
       "ID": "tpote_achievement_20",
@@ -6199,7 +6204,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 4308
+      "UsersEstimate": 4309
     },
     {
       "ID": "tpote_achievement_22",
@@ -6271,7 +6276,7 @@
       "Name": "Let there be darkness",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4586
+      "UsersEstimate": 4587
     },
     {
       "ID": "tpote_achievement_30",
@@ -6359,7 +6364,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 5698
+      "UsersEstimate": 5699
     },
     {
       "ID": "tpote_achievement_40",
@@ -6415,22 +6420,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4864
+      "UsersEstimate": 4865
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13898,
+      "Progressed": 13899,
       "Completed": 105
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-15T00:01:58.5125844+00:00",
+  "LastChanged_Achievements": "2023-07-15T02:28:17.926296+00:00",
   "LastUpdate_AppInfo": "2023-07-08T03:23:22.7316946+00:00",
-  "LastUpdate_Ratings": "2023-07-15T00:01:07.6785366+00:00",
-  "LastUpdate_Achievements": "2023-07-15T00:01:58.5126429+00:00"
+  "LastUpdate_Ratings": "2023-07-15T02:27:17.0771302+00:00",
+  "LastUpdate_Achievements": "2023-07-15T02:28:17.9263697+00:00"
 }

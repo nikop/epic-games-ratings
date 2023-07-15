@@ -4,8 +4,8 @@
   "ProductSlug": "return-to-abyss-226301",
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
     "PcReleaseDate": "2023-01-06T16:00:00+00:00",
@@ -396,9 +396,9 @@
       "ID": "Epic_Brand_25",
       "SetID": "ba1m2fc",
       "Name": "Pilgrim",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Epic_ChainSaw_1",
@@ -771,8 +771,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-07-15T00:05:32.7024048+00:00",
+  "LastChanged_Achievements": "2023-07-15T02:31:10.8341117+00:00",
   "LastUpdate_AppInfo": "2023-07-13T05:57:07.9382356+00:00",
-  "LastUpdate_Ratings": "2023-07-14T23:57:27.6635175+00:00",
-  "LastUpdate_Achievements": "2023-07-15T00:05:32.7024375+00:00"
+  "LastUpdate_Ratings": "2023-07-15T02:22:55.7052948+00:00",
+  "LastUpdate_Achievements": "2023-07-15T02:31:10.8341582+00:00"
 }

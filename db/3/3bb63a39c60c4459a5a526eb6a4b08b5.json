@@ -4,8 +4,8 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 294,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -955,9 +955,9 @@
       "ID": "Calculated",
       "SetID": "1e89b4i",
       "Name": "Calculated",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 71
+      "UsersEstimate": 74
     },
     {
       "ID": "Close",
@@ -1195,9 +1195,9 @@
       "ID": "Restructuring",
       "SetID": "1e89b4i",
       "Name": "Restructuring",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 50
     },
     {
       "ID": "Reviewer",
@@ -1258,8 +1258,8 @@
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-07-15T00:04:13.9880911+00:00",
+  "LastChanged_Achievements": "2023-07-15T02:29:47.5356694+00:00",
   "LastUpdate_AppInfo": "2023-07-11T08:57:01.7024715+00:00",
-  "LastUpdate_Ratings": "2023-07-14T23:57:17.2654747+00:00",
-  "LastUpdate_Achievements": "2023-07-15T00:04:13.9881216+00:00"
+  "LastUpdate_Ratings": "2023-07-15T02:22:42.3502033+00:00",
+  "LastUpdate_Achievements": "2023-07-15T02:29:47.5357087+00:00"
 }

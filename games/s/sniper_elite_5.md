@@ -33,9 +33,9 @@ Rating: 4.44 (Ranked 643)
 | Explosive Efficiency | 1.00% | ~33 |
 | Close Quarters | 1.00% | ~33 |
 | Snake in the Grass | 1.00% | ~33 |
-| Enemy at the Gates | 0.90% | ~29 |
-| Fields of Glory | 0.90% | ~29 |
-| Die Nussknacker Sweet! | 0.90% | ~29 |
+| Enemy at the Gates | 0.90% | ~30 |
+| Fields of Glory | 0.90% | ~30 |
+| Die Nussknacker Sweet! | 0.90% | ~30 |
 | Tinkerer | 0.80% | ~26 |
 | The Long Game | 0.70% | ~23 |
 | Rigged to Blow | 0.70% | ~23 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 643)
 | Alpha | 0.10% | ~3 |
 | Das Familienjuwel | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,277 (Ranked 147)  
+Progressed: 3,278 (Ranked 147)  
 Completed: 9 (0.27%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,6 +162,7 @@ Completed: 9 (0.27%) (Ranked 153)
 | 2023-07-12 | 3,266 | 9 |
 | 2023-07-13 | 3,269 | 9 |
 | 2023-07-14 | 3,277 | 9 |
+| 2023-07-15 | 3,278 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

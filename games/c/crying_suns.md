@@ -19,11 +19,11 @@ Number of Ratings: 1,003  (23.09.2022)
 | May His passing cleanse the world | 0.20% | ~926 |
 | Chapter I: Echoes | 0.20% | ~926 |
 | Chapter II: Fallible Flesh | 0.20% | ~926 |
+| Chapter III: The Man Who Sold the World | 0.20% | ~926 |
 | Tetsuo | 0.20% | ~926 |
 | Pope Zenon | 0.20% | ~926 |
 | Things persisted in not being what they seemed | 0.20% | ~926 |
 | Hand of the Emperor | 0.20% | ~14 |
-| Chapter III: The Man Who Sold the World | 0.10% | ~463 |
 | Chapter IV: Through the Looking Glass | 0.10% | ~463 |
 | Chapter V: Memories of None | 0.10% | ~463 |
 | A Rock in the Dark | 0.10% | ~463 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~7 |
 | Kronos Rule | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 462,984 (Ranked 35)  
+Progressed: 462,992 (Ranked 35)  
 Completed: 16 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 16 (0.00%) (Ranked 236)
 | 2023-07-12 | 462,850 | 16 |
 | 2023-07-13 | 462,915 | 16 |
 | 2023-07-14 | 462,981 | 16 |
-| 2023-07-15 | 462,984 | 16 |
+| 2023-07-15 | 462,992 | 16 |
 ## Awards
 Max (Character Customization): 214  (Ranked 262)  
 Sum: 214 (Ranked 357)  

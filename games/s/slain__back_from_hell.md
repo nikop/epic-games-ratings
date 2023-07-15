@@ -5,8 +5,8 @@ Rating: 4.29 (Ranked 782)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Man 'O War | 20.00% | ~5,999 |
-| A Good Day To Die | 16.00% | ~4,800 |
+| Man 'O War | 20.00% | ~6,002 |
+| A Good Day To Die | 16.00% | ~4,801 |
 | Right Back Atcha | 6.00% | ~1,800 |
 | Killed by Death | 5.00% | ~1,500 |
 | Guard! Turn! Parry! Dodge! Spin! Ha! | 5.00% | ~1,500 |
@@ -21,8 +21,8 @@ Rating: 4.29 (Ranked 782)
 | Red In Tooth And Claw | 0.70% | ~210 |
 | Death Becomes Her | 0.70% | ~210 |
 | The Sky Is Falling | 0.70% | ~210 |
-| Hail the Great Horned Metal God! | 0.70% | ~210 |
 | Start As You Mean To Go On | 0.60% | ~180 |
+| Hail the Great Horned Metal God! | 0.60% | ~180 |
 | That'll Come In Handy... | 0.60% | ~180 |
 | Oh God, Mother! Blood! Blood! | 0.50% | ~150 |
 | Four Legged Friend | 0.40% | ~120 |
@@ -30,12 +30,12 @@ Rating: 4.29 (Ranked 782)
 | Smack My Imp Up | 0.40% | ~120 |
 | Vroll With It | 0.30% | ~90 |
 | Swift of Foot, Keen of Blade | 0.30% | ~90 |
-| Flame Retardant | 0.20% | ~60 |
 | Death or Glory | 0.20% | ~60 |
+| Flame Retardant | 0.10% | ~30 |
 | Too Metal For Magic | 0.10% | ~30 |
 | Heart Of Steel | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,997 (Ranked 96)  
+Progressed: 30,008 (Ranked 96)  
 Completed: 20 (0.07%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 20 (0.07%) (Ranked 195)
 | 2023-07-12 | 29,753 | 20 |
 | 2023-07-13 | 29,869 | 20 |
 | 2023-07-14 | 29,991 | 20 |
-| 2023-07-15 | 29,997 | 20 |
+| 2023-07-15 | 30,008 | 20 |
 ## Awards
 Max (Great Boss Battles): 125  (Ranked 306)  
 Sum: 125 (Ranked 397)  
