@@ -29,8 +29,8 @@ Rating: 4.87 (Ranked 24)
 | Alright, that felt AWESOME! | 1.00% | ~34 |
 | You can pet the cat! | 1.00% | ~34 |
 | I look cool. But I can look COOLER. | 0.90% | ~31 |
+| Well that was a rush! | 0.80% | ~28 |
 | Perfecter Parry-er! | 0.80% | ~28 |
-| Well that was a rush! | 0.70% | ~24 |
 | Does that say weakpoint? | 0.70% | ~24 |
 | That's a lot of junk metal… | 0.60% | ~21 |
 | There's such a thing as TOO helpful | 0.60% | ~21 |
@@ -42,12 +42,12 @@ Rating: 4.87 (Ranked 24)
 | I think I deserve some praise, here! | 0.30% | ~10 |
 | I think I found your calling, Macaron | 0.30% | ~10 |
 | Check out my moves! | 0.30% | ~10 |
+| Choose your own adventure | 0.30% | ~6 |
 | This is a breeze! | 0.20% | ~7 |
 | We're Jammin' | 0.20% | ~7 |
 | First we parry, then we counter | 0.20% | ~7 |
 | I hit things with a guitar really well. | 0.20% | ~7 |
 | I told you I'd be fine, Peppermint! | 0.20% | ~7 |
-| Choose your own adventure | 0.20% | ~4 |
 | Easy Listening | 0.10% | ~3 |
 | Problem solved... wait, what? | 0.10% | ~3 |
 | I can't see this ever being a problem again | 0.10% | ~3 |

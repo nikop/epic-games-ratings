@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -1135,9 +1135,9 @@
       "ID": "08",
       "SetID": "73ikgfc",
       "Name": "Monster Slayer",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 291
+      "UsersEstimate": 301
     },
     {
       "ID": "09",
@@ -1272,8 +1272,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-06-30T20:00:05.692321+00:00",
-  "LastChanged_Achievements": "2023-07-15T14:09:16.5228064+00:00",
+  "LastChanged_Achievements": "2023-07-15T15:12:38.4937579+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:41.6468883+00:00",
-  "LastUpdate_Ratings": "2023-07-15T14:02:27.1695977+00:00",
-  "LastUpdate_Achievements": "2023-07-15T14:09:16.5228281+00:00"
+  "LastUpdate_Ratings": "2023-07-15T15:05:00.4271051+00:00",
+  "LastUpdate_Achievements": "2023-07-15T15:12:38.4937771+00:00"
 }

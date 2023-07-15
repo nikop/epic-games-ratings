@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 116,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -2708,9 +2708,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 49882,
+  "EOS_Progressed": 49883,
   "EOS_Completed": 208,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -8953,6 +8953,11 @@
       "Time": "2023-07-15T11:04:10.3029412+00:00",
       "NumProgressed": 49882,
       "NumCompleted": 208
+    },
+    {
+      "Time": "2023-07-15T15:09:02.7162998+00:00",
+      "NumProgressed": 49883,
+      "NumCompleted": 208
     }
   ],
   "TotalAchievements": 45,
@@ -8988,7 +8993,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 39407
+      "UsersEstimate": 39408
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -9076,7 +9081,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 29430
+      "UsersEstimate": 29431
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -9100,7 +9105,7 @@
       "Name": "A New Hope",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 23943
+      "UsersEstimate": 23944
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -9108,7 +9113,7 @@
       "Name": "The Empire Strikes Back",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 18456
+      "UsersEstimate": 18457
     },
     {
       "ID": "COMPLETE_EPISODE_6",
@@ -9116,7 +9121,7 @@
       "Name": "Return of the Jedi",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 15962
+      "UsersEstimate": 15963
     },
     {
       "ID": "COMPLETE_EPISODE_7",
@@ -9124,7 +9129,7 @@
       "Name": "The Force Awakens",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 12969
+      "UsersEstimate": 12970
     },
     {
       "ID": "COMPLETE_EPISODE_8",
@@ -9140,7 +9145,7 @@
       "Name": "The Rise of Skywalker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 9976
+      "UsersEstimate": 9977
     },
     {
       "ID": "COMPLETE_FAULTYDROID_ON_TATOOINE",
@@ -9228,7 +9233,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 48386
+      "UsersEstimate": 48387
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -9268,7 +9273,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 35416
+      "UsersEstimate": 35417
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -9284,7 +9289,7 @@
       "Name": "\u0027\u0027A fine addition to my collection\u0027\u0027",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 18456
+      "UsersEstimate": 18457
     },
     {
       "ID": "RIDE_ALL_CREATURES",
@@ -9300,7 +9305,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 26437
+      "UsersEstimate": 26438
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -9316,22 +9321,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 35915
+      "UsersEstimate": 35916
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 49882,
+      "Progressed": 49883,
       "Completed": 208
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-07-14T19:02:53.4542849+00:00",
-  "LastChanged_Achievements": "2023-07-15T14:05:16.1262062+00:00",
+  "LastChanged_Achievements": "2023-07-15T15:09:02.716299+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:41.0824625+00:00",
-  "LastUpdate_Ratings": "2023-07-15T14:04:05.3600304+00:00",
-  "LastUpdate_Achievements": "2023-07-15T14:05:16.1262763+00:00"
+  "LastUpdate_Ratings": "2023-07-15T15:07:17.1249193+00:00",
+  "LastUpdate_Achievements": "2023-07-15T15:09:02.7163878+00:00"
 }

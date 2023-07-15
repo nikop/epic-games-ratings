@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1060,
+  "EOS_Progressed": 1061,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -585,6 +585,11 @@
       "Time": "2023-07-15T11:02:26.2309209+00:00",
       "NumProgressed": 1060,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-15T15:07:47.4099993+00:00",
+      "NumProgressed": 1061,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -690,9 +695,9 @@
       "ID": "ALLTRACKSMARS",
       "SetID": "3dh70f3",
       "Name": "Martian explorer",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 117
     },
     {
       "ID": "ALLTRACKSTARTARUS",
@@ -1011,7 +1016,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1060,
+      "Progressed": 1061,
       "Completed": 0
     }
   ],
@@ -1019,8 +1024,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-07-15T14:04:23.523864+00:00",
+  "LastChanged_Achievements": "2023-07-15T15:07:47.4099986+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:52.2995402+00:00",
-  "LastUpdate_Ratings": "2023-07-15T13:59:43.6774344+00:00",
-  "LastUpdate_Achievements": "2023-07-15T14:04:23.523913+00:00"
+  "LastUpdate_Ratings": "2023-07-15T15:01:03.7758184+00:00",
+  "LastUpdate_Achievements": "2023-07-15T15:07:47.4101046+00:00"
 }

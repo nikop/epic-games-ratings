@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1321,
+  "EOS_Progressed": 1322,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
@@ -1168,6 +1168,11 @@
       "Time": "2023-07-14T18:06:40.8368033+00:00",
       "NumProgressed": 1321,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-15T15:12:40.6864636+00:00",
+      "NumProgressed": 1322,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1179,7 +1184,7 @@
       "Name": "Lovebirds",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "10",
@@ -1203,7 +1208,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "13",
@@ -1339,7 +1344,7 @@
       "Name": "Hug therapy",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "30",
@@ -1387,7 +1392,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "7",
@@ -1418,15 +1423,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1321,
+      "Progressed": 1322,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-07-15T14:09:18.1925253+00:00",
+  "LastChanged_Achievements": "2023-07-15T15:12:40.6864629+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:26.9281564+00:00",
-  "LastUpdate_Ratings": "2023-07-15T14:02:10.5801593+00:00",
-  "LastUpdate_Achievements": "2023-07-15T14:09:18.1925509+00:00"
+  "LastUpdate_Ratings": "2023-07-15T15:04:27.0646687+00:00",
+  "LastUpdate_Achievements": "2023-07-15T15:12:40.6864913+00:00"
 }

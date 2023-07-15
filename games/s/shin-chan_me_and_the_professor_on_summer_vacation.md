@@ -5,30 +5,30 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Cabbage in the Baggage | 33.00% | ~9 |
+| Greengrocer | 30.00% | ~8 |
 | Seven Days of Endless Adventure | 26.00% | ~7 |
-| Greengrocer | 26.00% | ~7 |
 | Masu-ter Angler | 19.00% | ~5 |
 | Go-Getter | 19.00% | ~5 |
 | Seven Days of Endless Adventure - Déjà Vu | 15.00% | ~4 |
 | Just Hoverin' Along | 15.00% | ~4 |
+| It's Alive! | 15.00% | ~4 |
 | Handyman Extraordinaire | 15.00% | ~4 |
 | River Cleaner | 15.00% | ~4 |
 | My Fair Ladybug | 11.00% | ~3 |
+| The Holly Grail | 11.00% | ~3 |
 | What's That Smell? | 11.00% | ~3 |
 | That Was a Snap! | 11.00% | ~3 |
-| It's Alive! | 11.00% | ~3 |
 | Farm Life! | 11.00% | ~3 |
 | Did Someone Order Ramen? | 11.00% | ~3 |
 | Ptera Pal | 11.00% | ~3 |
 | DJ Superstar | 11.00% | ~3 |
+| Asso Bridge Enthusiast | 11.00% | ~3 |
 | A New Time | 7.00% | ~2 |
 | Beetle Savant | 7.00% | ~2 |
 | Cicada Connoisseur | 7.00% | ~2 |
-| The Holly Grail | 7.00% | ~2 |
 | Biwa Be Mine | 7.00% | ~2 |
 | Ice Fishing | 7.00% | ~2 |
 | Top-Notch Journalist | 7.00% | ~2 |
-| Asso Bridge Enthusiast | 7.00% | ~2 |
 | Bee Professor | 4.00% | ~1 |
 | Grasshopper Guru | 4.00% | ~1 |
 | Butterfly Maestro | 4.00% | ~1 |

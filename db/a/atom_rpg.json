@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 448,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -358,9 +358,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 1017,
+  "EOS_Progressed": 1018,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1623,6 +1623,11 @@
       "Time": "2023-07-14T21:01:18.760109+00:00",
       "NumProgressed": 1017,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-15T15:07:53.8369804+00:00",
+      "NumProgressed": 1018,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1690,7 +1695,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1007
+      "UsersEstimate": 1008
     },
     {
       "ID": "EXPERT_1",
@@ -1730,7 +1735,7 @@
       "Name": "Head Burst",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "INDY_1",
@@ -1760,9 +1765,9 @@
       "ID": "LOVE_GURU_1",
       "SetID": "bf13m8j",
       "Name": "Love Guru",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 102
     },
     {
       "ID": "NEANDERTHAL_1",
@@ -1890,7 +1895,7 @@
       "Name": "Traveler",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "VVE",
@@ -1921,15 +1926,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1017,
+      "Progressed": 1018,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-11T18:59:46.5771351+00:00",
-  "LastChanged_Achievements": "2023-07-15T14:04:27.9748926+00:00",
+  "LastChanged_Achievements": "2023-07-15T15:07:53.8369796+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:11.8607725+00:00",
-  "LastUpdate_Ratings": "2023-07-15T14:03:16.4405252+00:00",
-  "LastUpdate_Achievements": "2023-07-15T14:04:27.9749282+00:00"
+  "LastUpdate_Ratings": "2023-07-15T15:06:15.9409964+00:00",
+  "LastUpdate_Achievements": "2023-07-15T15:07:53.8370178+00:00"
 }

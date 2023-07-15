@@ -3,12 +3,12 @@
 [View Rawdata](../../db/s/star_wars_jedi__survivor™.json)  
 Rating: 4.48 (Ranked 588)  
 ## Awards
-Max (Great Boss Battles): 2,124  (Ranked 108)  
-Sum: 2,950 (Ranked 162)  
+Max (Great Boss Battles): 2,132  (Ranked 108)  
+Sum: 2,958 (Ranked 162)  
 Diff (max vs sum): -54  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,124 |
+| This game has Great Boss Battles | 2,132 |
 | This game has Amazing Storytelling | 108 |
 | This game has Diverse Characters | 107 |
 | This game has Quickly Understood Controls | 102 |
@@ -99,4 +99,4 @@ Diff (max vs sum): -54
 | 2023-07-12 | 4.48 | 2,107 | 2,859 |
 | 2023-07-13 | 4.48 | 2,114 | 2,877 |
 | 2023-07-14 | 4.48 | 2,124 | 2,949 |
-| 2023-07-15 | 4.48 | 2,124 | 2,950 |
+| 2023-07-15 | 4.48 | 2,132 | 2,958 |

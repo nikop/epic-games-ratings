@@ -4,7 +4,7 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 452,
+  "EOS_Progressed": 453,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -466,6 +466,11 @@
       "Time": "2023-07-14T02:31:36.1206123+00:00",
       "NumProgressed": 452,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-15T15:10:50.0235186+00:00",
+      "NumProgressed": 453,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -483,9 +488,9 @@
       "ID": "TROP001",
       "SetID": "9n0dl35",
       "Name": "We Are a Family",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 45
+      "UsersEstimate": 41
     },
     {
       "ID": "TROP002",
@@ -517,7 +522,7 @@
       "Name": "A Friend in Need",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "TROP006",
@@ -541,7 +546,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "TROP009",
@@ -549,7 +554,7 @@
       "Name": "Surviving",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "TROP010",
@@ -581,7 +586,7 @@
       "Name": "Never Let Down",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "TROP014",
@@ -645,7 +650,7 @@
       "Name": "Tasty",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "TROP022",
@@ -653,7 +658,7 @@
       "Name": "A Barking Fox Doesn\u0027t Bite",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "TROP023",
@@ -700,7 +705,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 452,
+      "Progressed": 453,
       "Completed": 3
     }
   ],
@@ -708,8 +713,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-07-15T14:06:30.1567836+00:00",
+  "LastChanged_Achievements": "2023-07-15T15:10:50.023518+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:50.0357533+00:00",
-  "LastUpdate_Ratings": "2023-07-15T14:01:07.9517169+00:00",
-  "LastUpdate_Achievements": "2023-07-15T14:06:30.1568075+00:00"
+  "LastUpdate_Ratings": "2023-07-15T15:02:49.8488969+00:00",
+  "LastUpdate_Achievements": "2023-07-15T15:10:50.0235592+00:00"
 }

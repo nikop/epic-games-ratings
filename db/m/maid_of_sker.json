@@ -295,9 +295,9 @@
       "ID": "easy_listening",
       "SetID": "3j2phem",
       "Name": "Easy Listening",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "ending_on_a_high_note",
@@ -439,9 +439,9 @@
       "ID": "smooth_operator",
       "SetID": "3j2phem",
       "Name": "Smooth Operator",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "the_long_night",
@@ -480,8 +480,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-07-15T14:08:21.9055959+00:00",
+  "LastChanged_Achievements": "2023-07-15T15:12:02.8796046+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:08.4046448+00:00",
-  "LastUpdate_Ratings": "2023-07-15T14:01:34.8843988+00:00",
-  "LastUpdate_Achievements": "2023-07-15T14:08:21.9056227+00:00"
+  "LastUpdate_Ratings": "2023-07-15T15:03:34.3401085+00:00",
+  "LastUpdate_Achievements": "2023-07-15T15:12:02.8796515+00:00"
 }

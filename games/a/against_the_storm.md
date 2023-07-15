@@ -16,6 +16,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Scarlet Orchard | 3.00% | ~475 |
 | Homesick | 2.00% | ~317 |
 | Against All Odds | 2.00% | ~317 |
+| Ruined Armory | 2.00% | ~317 |
 | Bandit Camp | 2.00% | ~317 |
 | Barren Lands | 2.00% | ~317 |
 | Ancient Battleground | 2.00% | ~317 |
@@ -36,7 +37,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Trade Baron | 2.00% | ~317 |
 | Serving Ale | 1.00% | ~158 |
 | Refinery | 1.00% | ~158 |
-| Ruined Armory | 1.00% | ~158 |
 | Fishmen Ritual Site | 1.00% | ~158 |
 | Forbidden Lands | 1.00% | ~158 |
 | Forsaken Gods Temple | 1.00% | ~158 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~16 |
 | Higher Needs | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,827 (Ranked 108)  
+Progressed: 15,831 (Ranked 108)  
 Completed: 40 (0.25%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 40 (0.25%) (Ranked 155)
 | 2023-07-12 | 15,788 | 40 |
 | 2023-07-13 | 15,801 | 40 |
 | 2023-07-14 | 15,816 | 40 |
-| 2023-07-15 | 15,827 | 40 |
+| 2023-07-15 | 15,831 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 418  (Ranked 203)  
 Sum: 3,068 (Ranked 157)  

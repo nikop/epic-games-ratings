@@ -10,7 +10,7 @@ Rating: 4.06 (Ranked 900)
 | Temple of Eternals | 56.00% | ~921 |
 | Prestigious | 53.00% | ~871 |
 | Fellowship Power | 41.00% | ~674 |
-| Guild Power | 24.00% | ~395 |
+| Guild Power | 25.00% | ~411 |
 | Prestigious x10 | 21.00% | ~345 |
 | The game is on | 19.00% | ~312 |
 | Exotic Merchant | 17.00% | ~279 |
