@@ -30,7 +30,7 @@
 | 28 | [Ravenlok](games/r/ravenlok.md) | 7.45% |
 | 29 | [Time Loader](games/t/time_loader.md) | 7.21% |
 | 30 | [Scorn](games/s/scorn.md) | 7.06% |
-| 31 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.96% |
+| 31 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.95% |
 | 32 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.82% |
 | 33 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 34 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -74,7 +74,7 @@
 | 72 | [Bloodshore](games/b/bloodshore.md) | 2.29% |
 | 73 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.15% |
 | 74 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.13% |
-| 75 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.10% |
+| 75 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.09% |
 | 76 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.08% |
 | 77 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
 | 78 | [Frogun](games/f/frogun.md) | 1.91% |
