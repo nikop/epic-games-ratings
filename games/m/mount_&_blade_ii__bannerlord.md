@@ -6,18 +6,18 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 37.00% | ~20,630 |
-| Landlord | 31.00% | ~17,285 |
+| Lawbringer | 37.00% | ~20,631 |
+| Landlord | 31.00% | ~17,286 |
 | Horde breaker | 22.00% | ~12,267 |
 | Lawmaker | 22.00% | ~12,267 |
-| Bannerlord | 21.00% | ~11,709 |
-| Trained | 21.00% | ~11,709 |
+| Bannerlord | 21.00% | ~11,710 |
+| Trained | 21.00% | ~11,710 |
 | The king is pleased | 17.00% | ~9,479 |
-| King Solomon | 16.00% | ~8,921 |
+| King Solomon | 16.00% | ~8,922 |
 | I can do it | 15.00% | ~8,364 |
 | Apple of my eye | 14.00% | ~7,806 |
 | God of the Arena | 12.00% | ~6,691 |
-| Against all odds | 11.00% | ~6,133 |
+| Against all odds | 11.00% | ~6,134 |
 | Swordbearer | 10.00% | ~5,576 |
 | Duelist | 9.00% | ~5,018 |
 | Dynasty | 9.00% | ~5,018 |
@@ -26,7 +26,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | What have the Romans ever done for us? | 9.00% | ~5,018 |
 | Butterlord | 8.00% | ~4,461 |
 | Mastery | 7.00% | ~3,903 |
-| Know your enemy | 6.00% | ~3,345 |
+| Know your enemy | 6.00% | ~3,346 |
 | Crowdfunded | 4.00% | ~2,230 |
 | Crush your enemies | 4.00% | ~2,230 |
 | My way | 4.00% | ~2,230 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,757 (Ranked 84)  
+Progressed: 55,760 (Ranked 84)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,15 +144,15 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-12 | 55,609 | 0 |
 | 2023-07-13 | 55,670 | 0 |
 | 2023-07-14 | 55,732 | 0 |
-| 2023-07-15 | 55,757 | 0 |
+| 2023-07-15 | 55,760 | 0 |
 ## Awards
 Max (Character Customization): 6,791  (Ranked 48)  
-Sum: 13,738 (Ranked 67)  
+Sum: 13,739 (Ranked 67)  
 Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 6,791 |
-| This game is Great for Beginners | 877 |
+| This game is Great for Beginners | 878 |
 | This game has Diverse Characters | 862 |
 | This game is Highly Recommended | 818 |
 | This game is Extremely Fun | 781 |
@@ -347,4 +347,4 @@ Diff (max vs sum): -19
 | 2023-07-12 | 4.74 | - | 6,782 | 13,711 |
 | 2023-07-13 | 4.74 | - | 6,787 | 13,723 |
 | 2023-07-14 | 4.74 | - | 6,787 | 13,726 |
-| 2023-07-15 | 4.74 | - | 6,791 | 13,738 |
+| 2023-07-15 | 4.74 | - | 6,791 | 13,739 |

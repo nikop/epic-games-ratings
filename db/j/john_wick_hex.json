@@ -2,7 +2,7 @@
   "ID": "a9cb15d3362d43d585b8a5b13b8a4513",
   "Name": "John Wick Hex",
   "ProductSlug": "johnwickhex",
-  "Ranking_EOS_Progress": 493,
+  "Ranking_EOS_Progress": 494,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 80,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:56:58.5458842+00:00",
   "LastChanged": "2023-03-31T05:56:58.5458843+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:04.8134723+00:00",
-  "LastUpdate_Ratings": "2023-07-15T08:59:14.2947296+00:00",
-  "LastUpdate_Achievements": "2023-07-15T09:05:19.2272228+00:00"
+  "LastUpdate_Ratings": "2023-07-15T09:59:34.3752865+00:00",
+  "LastUpdate_Achievements": "2023-07-15T10:05:23.230614+00:00"
 }

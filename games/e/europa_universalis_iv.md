@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,284 |
-| That's a Grand Army | 8.00% | ~5,586 |
-| That is mine! | 8.00% | ~5,586 |
-| Victorious! | 8.00% | ~5,586 |
-| Brothers in Arms | 6.00% | ~4,190 |
-| That's a Grand Navy | 6.00% | ~4,190 |
-| Seriously?! | 6.00% | ~4,190 |
-| For the Glory | 5.00% | ~3,491 |
-| Cold War | 4.00% | ~2,793 |
-| True Catholic | 4.00% | ~2,793 |
+| Until death do us apart | 9.00% | ~6,286 |
+| That's a Grand Army | 8.00% | ~5,588 |
+| That is mine! | 8.00% | ~5,588 |
+| Victorious! | 8.00% | ~5,588 |
+| Brothers in Arms | 6.00% | ~4,191 |
+| That's a Grand Navy | 6.00% | ~4,191 |
+| Seriously?! | 6.00% | ~4,191 |
+| For the Glory | 5.00% | ~3,492 |
+| Cold War | 4.00% | ~2,794 |
+| True Catholic | 4.00% | ~2,794 |
 | Defender of the Faith | 3.00% | ~2,095 |
 | It's all about luck | 3.00% | ~2,095 |
 | It's all about the money | 3.00% | ~2,095 |
@@ -40,9 +40,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Golden Empire | 1.00% | ~698 |
 | The Five Colonies | 1.00% | ~698 |
 | This navy can take it all | 1.00% | ~698 |
-| Isn't this the way to India? | 0.90% | ~628 |
-| Market Control | 0.90% | ~628 |
-| Trustworthy | 0.90% | ~628 |
+| Isn't this the way to India? | 0.90% | ~629 |
+| Market Control | 0.90% | ~629 |
+| Trustworthy | 0.90% | ~629 |
 | Down Under | 0.80% | ~559 |
 | Electable! | 0.70% | ~489 |
 | Populists in Government | 0.70% | ~489 |
@@ -72,16 +72,16 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Continuation of Diplomacy | 0.40% | ~279 |
 | Traditional Player | 0.40% | ~279 |
 | Wonderful | 0.40% | ~279 |
-| A Decent Reserve | 0.30% | ~209 |
-| A Pile of Gold | 0.30% | ~209 |
-| Grand Duchy | 0.30% | ~209 |
-| Multiculturalism | 0.30% | ~209 |
-| No Pirates in my Caribbean | 0.30% | ~209 |
-| Not so sad a state... | 0.30% | ~209 |
-| The Chrysanthemum Throne | 0.30% | ~209 |
-| Three Trivial Tributary Tribes | 0.30% | ~209 |
-| Vasa or Wettin? | 0.30% | ~209 |
-| World Discoverer | 0.30% | ~209 |
+| A Decent Reserve | 0.30% | ~210 |
+| A Pile of Gold | 0.30% | ~210 |
+| Grand Duchy | 0.30% | ~210 |
+| Multiculturalism | 0.30% | ~210 |
+| No Pirates in my Caribbean | 0.30% | ~210 |
+| Not so sad a state... | 0.30% | ~210 |
+| The Chrysanthemum Throne | 0.30% | ~210 |
+| Three Trivial Tributary Tribes | 0.30% | ~210 |
+| Vasa or Wettin? | 0.30% | ~210 |
+| World Discoverer | 0.30% | ~210 |
 | A Protected Market | 0.20% | ~140 |
 | AAA Credit | 0.20% | ~140 |
 | An early Reich | 0.20% | ~140 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69,826 (Ranked 74)  
+Progressed: 69,847 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -447,7 +447,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-12 | 68,921 | 0 |
 | 2023-07-13 | 69,319 | 0 |
 | 2023-07-14 | 69,707 | 0 |
-| 2023-07-15 | 69,826 | 0 |
+| 2023-07-15 | 69,847 | 0 |
 ## Awards
 Max (Educational): 5,541  (Ranked 60)  
 Sum: 45,706 (Ranked 27)  

@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Billionaire Club | 100.00% | ~1 |
 | Capital Connection | 0.00% | ~0 |
 | World Explorer | 0.00% | ~0 |
 | Mass Upgrade | 0.00% | ~0 |
-| Billionaire Club | 0.00% | ~0 |
 | Trainee | 0.00% | ~0 |
 | Diesel Dream | 0.00% | ~0 |
 | Electric Avenue | 0.00% | ~0 |
@@ -54,3 +54,10 @@
 | City Link | 0.00% | ~0 |
 | Industrial Revolution | 0.00% | ~0 |
 | Double Trouble | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 1 (Ranked 458)  
+Completed: 0 (0.00%) (Ranked 236)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-07-15 | 1 | 0 |

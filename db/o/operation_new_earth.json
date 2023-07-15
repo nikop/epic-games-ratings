@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 441,
+  "EOS_Progressed": 442,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1536,6 +1536,11 @@
       "Time": "2023-07-15T07:05:56.04143+00:00",
       "NumProgressed": 441,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-15T10:06:13.9495691+00:00",
+      "NumProgressed": 442,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1651,7 +1656,7 @@
       "Name": "Facility Online",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -1715,7 +1720,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -1723,7 +1728,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -1753,9 +1758,9 @@
       "ID": "objective_key_gather_resources_from_tiles_3",
       "SetID": "bm61c2p",
       "Name": "Stocking Up",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 62
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -1803,7 +1808,7 @@
       "Name": "Defenses Online",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -1850,14 +1855,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 441,
+      "Progressed": 442,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-15T09:06:18.2049203+00:00",
+  "LastChanged_Achievements": "2023-07-15T10:06:13.9495686+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:28.9258865+00:00",
-  "LastUpdate_Ratings": "2023-07-15T09:02:20.6750107+00:00",
-  "LastUpdate_Achievements": "2023-07-15T09:06:18.2049582+00:00"
+  "LastUpdate_Ratings": "2023-07-15T10:02:39.2876955+00:00",
+  "LastUpdate_Achievements": "2023-07-15T10:06:13.9496058+00:00"
 }

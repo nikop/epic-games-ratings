@@ -24,10 +24,10 @@
 | Mysteries of Rin | 12.00% | ~16 |
 | Empyrean Champion | 10.00% | ~14 |
 | Patience | 10.00% | ~14 |
-| Master Tactician | 2.00% | ~3 |
+| Master Tactician | 3.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 137 (Ranked 287)  
-Completed: 4 (2.92%) (Ranked 60)  
+Completed: 5 (3.65%) (Ranked 47)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -50,6 +50,7 @@ Completed: 4 (2.92%) (Ranked 60)
 | 2023-07-05 | 135 | 4 |
 | 2023-07-07 | 136 | 4 |
 | 2023-07-10 | 137 | 4 |
+| 2023-07-15 | 137 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -15,6 +15,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Contagious Curse | 0.20% | ~423 |
 | Escort to Waterdeep | 0.20% | ~423 |
 | The Mad Wizard | 0.20% | ~423 |
+| Waterdeep Detours | 0.20% | ~423 |
 | Underdeep Cartography | 0.20% | ~423 |
 | Friendly Imps | 0.20% | ~423 |
 | Pure Energy | 0.20% | ~423 |
@@ -210,7 +211,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Close Escort | 0.10% | ~212 |
 | Constant Banditry | 0.10% | ~212 |
 | The Long Haul | 0.10% | ~212 |
-| Waterdeep Detours | 0.10% | ~212 |
 | Lost in the Deep | 0.10% | ~212 |
 | Easily Distracted | 0.10% | ~212 |
 | Rude Welcome | 0.10% | ~212 |
@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211,681 (Ranked 52)  
+Progressed: 211,701 (Ranked 52)  
 Completed: 2,051 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -600,7 +600,7 @@ Completed: 2,051 (0.97%) (Ranked 102)
 | 2023-07-12 | 210,649 | 2,046 |
 | 2023-07-13 | 211,069 | 2,049 |
 | 2023-07-14 | 211,507 | 2,050 |
-| 2023-07-15 | 211,681 | 2,051 |
+| 2023-07-15 | 211,701 | 2,051 |
 ## Awards
 Max (Diverse Characters): 5,033  (Ranked 66)  
 Sum: 30,520 (Ranked 38)  

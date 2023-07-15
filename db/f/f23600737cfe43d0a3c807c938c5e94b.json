@@ -7,7 +7,7 @@
   "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
-    "ReleaseDate": "2023-07-16T07:00:00+00:00",
+    "ReleaseDate": "2023-07-16T13:00:00+00:00",
     "PcReleaseDate": "2023-07-16T07:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {
@@ -102,9 +102,9 @@
       "ID": "MEDIUM WEALTH",
       "SetID": "517hp5f",
       "Name": "MEDIUM WEALTH",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PROFESSIONAL BUILDER",
@@ -148,8 +148,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-18T07:00:32.9688598+00:00",
-  "LastChanged_Achievements": "2023-07-15T09:03:39.1786631+00:00",
+  "LastChanged_Achievements": "2023-07-15T10:03:29.8344323+00:00",
   "LastUpdate_AppInfo": "2023-07-09T07:57:07.9243175+00:00",
-  "LastUpdate_Ratings": "2023-07-15T08:57:15.920309+00:00",
-  "LastUpdate_Achievements": "2023-07-15T09:03:39.1786728+00:00"
+  "LastUpdate_Ratings": "2023-07-15T09:57:24.8481166+00:00",
+  "LastUpdate_Achievements": "2023-07-15T10:03:29.8344443+00:00"
 }

@@ -2708,9 +2708,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 49880,
+  "EOS_Progressed": 49881,
   "EOS_Completed": 208,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -8943,6 +8943,11 @@
       "Time": "2023-07-15T07:04:15.8804328+00:00",
       "NumProgressed": 49880,
       "NumCompleted": 208
+    },
+    {
+      "Time": "2023-07-15T10:04:21.9471625+00:00",
+      "NumProgressed": 49881,
+      "NumCompleted": 208
     }
   ],
   "TotalAchievements": 45,
@@ -8978,7 +8983,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 39405
+      "UsersEstimate": 39406
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -9066,7 +9071,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 29429
+      "UsersEstimate": 29430
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -9090,7 +9095,7 @@
       "Name": "A New Hope",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 23942
+      "UsersEstimate": 23943
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -9194,7 +9199,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 28930
+      "UsersEstimate": 28931
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -9202,7 +9207,7 @@
       "Name": "\u0027\u0027Get the crews to their fighters\u0027\u0027",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 8978
+      "UsersEstimate": 8979
     },
     {
       "ID": "EARN_10B_STUDS",
@@ -9218,7 +9223,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 48384
+      "UsersEstimate": 48385
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -9258,7 +9263,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 35415
+      "UsersEstimate": 35416
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -9290,7 +9295,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 26436
+      "UsersEstimate": 26437
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -9313,15 +9318,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 49880,
+      "Progressed": 49881,
       "Completed": 208
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-07-14T19:02:53.4542849+00:00",
-  "LastChanged_Achievements": "2023-07-15T09:04:38.977671+00:00",
+  "LastChanged_Achievements": "2023-07-15T10:04:21.947162+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:41.0824625+00:00",
-  "LastUpdate_Ratings": "2023-07-15T09:02:34.5495426+00:00",
-  "LastUpdate_Achievements": "2023-07-15T09:04:38.977738+00:00"
+  "LastUpdate_Ratings": "2023-07-15T10:02:54.695303+00:00",
+  "LastUpdate_Achievements": "2023-07-15T10:04:21.947246+00:00"
 }

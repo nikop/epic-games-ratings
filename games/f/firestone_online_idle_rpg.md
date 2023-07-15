@@ -9,7 +9,7 @@ Rating: 4.06 (Ranked 900)
 | World Map | 79.00% | ~1,298 |
 | Temple of Eternals | 56.00% | ~920 |
 | Prestigious | 53.00% | ~871 |
-| Fellowship Power | 40.00% | ~657 |
+| Fellowship Power | 41.00% | ~674 |
 | Guild Power | 24.00% | ~394 |
 | Prestigious x10 | 21.00% | ~345 |
 | The game is on | 19.00% | ~312 |
@@ -63,8 +63,8 @@ Rating: 4.06 (Ranked 900)
 | The Alchemist | 3.00% | ~49 |
 | What lies behind the bush | 2.00% | ~33 |
 | Mythic Power | 1.00% | ~16 |
+| Gear Enchanting | 0.80% | ~13 |
 | Guardian Master | 0.80% | ~13 |
-| Gear Enchanting | 0.70% | ~12 |
 | Training makes a Pro player | 0.70% | ~12 |
 | Cauldron Liberator | 0.50% | ~8 |
 | Titan Power | 0.50% | ~8 |

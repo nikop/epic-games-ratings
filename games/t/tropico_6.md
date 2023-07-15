@@ -6,19 +6,19 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~3,105 |
-| Un-Lonely Island | 48.00% | ~1,961 |
-| The Beginning of a Servantship | 45.00% | ~1,839 |
+| Just One...More...Term... | 76.00% | ~3,107 |
+| Un-Lonely Island | 48.00% | ~1,962 |
+| The Beginning of a Servantship | 45.00% | ~1,840 |
 | Trade Is My Trait | 38.00% | ~1,553 |
 | Number 18 | 24.00% | ~981 |
-| We Don't Have Time For That | 19.00% | ~776 |
-| The Governator | 18.00% | ~735 |
+| We Don't Have Time For That | 19.00% | ~777 |
+| The Governator | 18.00% | ~736 |
 | The Legend of Langostino | 17.00% | ~695 |
 | Caribbean Comrade | 16.00% | ~654 |
 | The Dreamer of Dreams | 16.00% | ~654 |
-| Happy Ending? | 11.00% | ~449 |
-| Go Sovereigns! | 11.00% | ~449 |
-| For Science! | 11.00% | ~449 |
+| Happy Ending? | 11.00% | ~450 |
+| Go Sovereigns! | 11.00% | ~450 |
+| For Science! | 11.00% | ~450 |
 | Of Seals And Men | 10.00% | ~409 |
 | Shackadelic | 10.00% | ~409 |
 | Double Trouble | 8.00% | ~327 |
@@ -32,7 +32,7 @@ Number of Ratings: 398  (23.09.2022)
 | Watch The World Burn | 6.00% | ~245 |
 | Viva Tropico! | 5.00% | ~204 |
 | Fairy Tale Come True | 5.00% | ~204 |
-| Apocalypso | 4.00% | ~163 |
+| Apocalypso | 4.00% | ~164 |
 | Been there, Done That | 3.00% | ~123 |
 | Narcissist | 3.00% | ~123 |
 | Promising Endeavors | 3.00% | ~123 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 1.00% | ~41 |
 | My Ways | 0.40% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,086 (Ranked 143)  
+Progressed: 4,088 (Ranked 143)  
 Completed: 1 (0.02%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 1 (0.02%) (Ranked 214)
 | 2023-07-12 | 4,062 | 1 |
 | 2023-07-13 | 4,071 | 1 |
 | 2023-07-14 | 4,081 | 1 |
-| 2023-07-15 | 4,086 | 1 |
+| 2023-07-15 | 4,088 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 94  (Ranked 341)  
 Sum: 667 (Ranked 276)  

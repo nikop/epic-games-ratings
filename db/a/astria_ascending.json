@@ -2,7 +2,7 @@
   "ID": "3000405a9f864d848824e6f6022fb86c",
   "Name": "Astria Ascending",
   "ProductSlug": "astria-ascending",
-  "Ranking_EOS_Progress": 493,
+  "Ranking_EOS_Progress": 494,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 80,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:02.6538123+00:00",
   "LastChanged": "2023-03-31T05:57:02.6538124+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:23.1308571+00:00",
-  "LastUpdate_Ratings": "2023-07-15T09:02:13.0602967+00:00",
-  "LastUpdate_Achievements": "2023-07-15T09:07:50.890663+00:00"
+  "LastUpdate_Ratings": "2023-07-15T10:02:31.3715029+00:00",
+  "LastUpdate_Achievements": "2023-07-15T10:07:47.8716493+00:00"
 }
