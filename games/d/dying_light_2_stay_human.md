@@ -6,47 +6,47 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~65,433 |
-| Into the Unknown | 10.00% | ~59,484 |
-| First Shot | 10.00% | ~59,484 |
-| Herzlich Wilkommen! | 9.00% | ~53,536 |
-| Good Night & Good Luck | 9.00% | ~53,536 |
-| Sancho Panza | 8.00% | ~47,587 |
-| Under Pressure | 7.00% | ~41,639 |
-| On the Trail of the Enemy | 7.00% | ~41,639 |
-| Flag Burning | 7.00% | ~41,639 |
-| Oh, So This Is How It Works! | 7.00% | ~41,639 |
-| Night Hunter | 7.00% | ~41,639 |
+| You Never Forget Your First... | 11.00% | ~65,434 |
+| Into the Unknown | 10.00% | ~59,485 |
+| First Shot | 10.00% | ~59,485 |
+| Herzlich Wilkommen! | 9.00% | ~53,537 |
+| Good Night & Good Luck | 9.00% | ~53,537 |
+| Sancho Panza | 8.00% | ~47,588 |
+| Under Pressure | 7.00% | ~41,640 |
+| On the Trail of the Enemy | 7.00% | ~41,640 |
+| Flag Burning | 7.00% | ~41,640 |
+| Oh, So This Is How It Works! | 7.00% | ~41,640 |
+| Night Hunter | 7.00% | ~41,640 |
 | Light in the Darkness | 6.00% | ~35,691 |
 | Get Outta My House! | 6.00% | ~35,691 |
 | It Wasn't That Hard, Was It? | 6.00% | ~35,691 |
 | Being All Social | 6.00% | ~35,691 |
-| Debris and Ashes | 5.00% | ~29,742 |
-| We Will Be Heard! | 5.00% | ~29,742 |
-| Known Associate | 5.00% | ~29,742 |
-| Brush with Death | 5.00% | ~29,742 |
-| Tunnel Entrance | 5.00% | ~29,742 |
-| After the Fall | 5.00% | ~29,742 |
-| Can't Touch This! | 5.00% | ~29,742 |
+| Debris and Ashes | 5.00% | ~29,743 |
+| We Will Be Heard! | 5.00% | ~29,743 |
+| Known Associate | 5.00% | ~29,743 |
+| Brush with Death | 5.00% | ~29,743 |
+| Tunnel Entrance | 5.00% | ~29,743 |
+| After the Fall | 5.00% | ~29,743 |
+| Can't Touch This! | 5.00% | ~29,743 |
 | Going Down | 4.00% | ~23,794 |
 | Family First | 4.00% | ~23,794 |
 | Your World, Your Rules | 4.00% | ~23,794 |
 | Death From Afar | 4.00% | ~23,794 |
 | Terminal Headache | 4.00% | ~23,794 |
 | Slowpoke! | 4.00% | ~23,794 |
-| Tickets, Please! | 3.00% | ~17,845 |
-| You're Going Down! | 3.00% | ~17,845 |
+| Tickets, Please! | 3.00% | ~17,846 |
+| You're Going Down! | 3.00% | ~17,846 |
 | Municipal Services | 2.00% | ~11,897 |
 | Ban Hammer | 2.00% | ~11,897 |
 | Parkour Master | 2.00% | ~11,897 |
 | Combat Master | 2.00% | ~11,897 |
 | Modder | 2.00% | ~11,897 |
-| Tube Map | 1.00% | ~5,948 |
-| Don Quixote | 1.00% | ~5,948 |
-| Can't You Read the Signs? | 1.00% | ~5,948 |
-| That's Teamwork! | 1.00% | ~5,948 |
-| Fit as a Fiddle | 1.00% | ~5,948 |
-| Ironheart | 1.00% | ~5,948 |
+| Tube Map | 1.00% | ~5,949 |
+| Don Quixote | 1.00% | ~5,949 |
+| Can't You Read the Signs? | 1.00% | ~5,949 |
+| That's Teamwork! | 1.00% | ~5,949 |
+| Fit as a Fiddle | 1.00% | ~5,949 |
+| Ironheart | 1.00% | ~5,949 |
 | Nemesis | 1.00% | ~2,403 |
 | Enter the Hall | 1.00% | ~2,403 |
 | Find Anything Interesting? | 0.90% | ~5,354 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~240 |
 | Connoisseur | 0.10% | ~240 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 594,843 (Ranked 26)  
+Progressed: 594,852 (Ranked 26)  
 Completed: 59 (0.01%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,15 +158,15 @@ Completed: 59 (0.01%) (Ranked 222)
 | 2023-07-12 | 593,449 | 59 |
 | 2023-07-13 | 594,068 | 59 |
 | 2023-07-14 | 594,738 | 59 |
-| 2023-07-15 | 594,843 | 59 |
+| 2023-07-15 | 594,852 | 59 |
 ## Awards
 Max (Character Customization): 8,393  (Ranked 40)  
-Sum: 19,813 (Ranked 55)  
+Sum: 19,833 (Ranked 55)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 8,393 |
-| This game has Great Boss Battles | 4,943 |
+| This game has Great Boss Battles | 4,963 |
 | This game is Great for Beginners | 814 |
 | This game is Highly Recommended | 763 |
 | This game has Diverse Characters | 752 |
@@ -364,3 +364,4 @@ Diff (max vs sum): -15
 | 2023-07-12 | 4.58 | - | 8,354 | 19,703 |
 | 2023-07-13 | 4.58 | - | 8,367 | 19,738 |
 | 2023-07-14 | 4.58 | - | 8,393 | 19,813 |
+| 2023-07-15 | 4.58 | - | 8,393 | 19,833 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 52,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -703,9 +703,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 31058,
+  "EOS_Progressed": 31059,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 995,
+  "EOS_NewPlayers": 988,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -9883,6 +9883,11 @@
       "Time": "2023-07-15T03:29:57.6034039+00:00",
       "NumProgressed": 31058,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-15T04:04:19.1598999+00:00",
+      "NumProgressed": 31059,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -9974,7 +9979,7 @@
       "Name": "Aviator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1863
+      "UsersEstimate": 1864
     },
     {
       "ID": "journeyer",
@@ -10014,7 +10019,7 @@
       "Name": "Nomad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5590
+      "UsersEstimate": 5591
     },
     {
       "ID": "novice",
@@ -10086,7 +10091,7 @@
       "Name": "One With The Board",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1863
+      "UsersEstimate": 1864
     },
     {
       "ID": "proximityFly1000",
@@ -10205,15 +10210,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 31058,
+      "Progressed": 31059,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-07-12T18:59:44.659144+00:00",
-  "LastChanged_Achievements": "2023-07-15T03:29:57.6034032+00:00",
-  "LastUpdate_AppInfo": "2023-07-08T03:22:25.3056035+00:00",
-  "LastUpdate_Ratings": "2023-07-15T03:27:52.6808276+00:00",
-  "LastUpdate_Achievements": "2023-07-15T03:29:57.6035182+00:00"
+  "LastChanged_Achievements": "2023-07-15T04:04:19.1598995+00:00",
+  "LastUpdate_AppInfo": "2023-07-15T03:57:14.8454564+00:00",
+  "LastUpdate_Ratings": "2023-07-15T04:01:56.9991405+00:00",
+  "LastUpdate_Achievements": "2023-07-15T04:04:19.1599646+00:00"
 }

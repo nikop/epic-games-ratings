@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 79,
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 80,
-  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -5130,9 +5130,9 @@
       "Count": 363
     }
   ],
-  "EOS_Progressed": 710750,
+  "EOS_Progressed": 710751,
   "EOS_Completed": 12816,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -13100,6 +13100,11 @@
       "Time": "2023-07-15T03:35:19.4674389+00:00",
       "NumProgressed": 710750,
       "NumCompleted": 12816
+    },
+    {
+      "Time": "2023-07-15T04:09:21.3505182+00:00",
+      "NumProgressed": 710751,
+      "NumCompleted": 12816
     }
   ],
   "TotalAchievements": 50,
@@ -13175,7 +13180,7 @@
       "Name": "Source of Flying Daggers",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 4264
+      "UsersEstimate": 4265
     },
     {
       "ID": "10_Wude_H4",
@@ -13183,7 +13188,7 @@
       "Name": "Iron Money",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 4264
+      "UsersEstimate": 4265
     },
     {
       "ID": "11_Wude_H5",
@@ -13191,7 +13196,7 @@
       "Name": "Legendary Talismans of Wuxing",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 4264
+      "UsersEstimate": 4265
     },
     {
       "ID": "12_MidAge",
@@ -13510,21 +13515,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 20051,
+      "Progressed": 20052,
       "Completed": 10398
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 710750,
+      "Progressed": 710751,
       "Completed": 12816
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-15T03:27:25.8424481+00:00",
-  "LastChanged_Achievements": "2023-07-15T03:35:19.4674383+00:00",
-  "LastUpdate_AppInfo": "2023-07-08T03:22:05.6915334+00:00",
-  "LastUpdate_Ratings": "2023-07-15T03:27:25.8424488+00:00",
-  "LastUpdate_Achievements": "2023-07-15T03:35:19.4675353+00:00"
+  "LastChanged_Achievements": "2023-07-15T04:09:21.3505172+00:00",
+  "LastUpdate_AppInfo": "2023-07-15T03:56:57.8822848+00:00",
+  "LastUpdate_Ratings": "2023-07-15T04:01:37.1582599+00:00",
+  "LastUpdate_Achievements": "2023-07-15T04:09:21.3505933+00:00"
 }

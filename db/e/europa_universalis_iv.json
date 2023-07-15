@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 31,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -7134,7 +7134,7 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 69760,
+  "EOS_Progressed": 69765,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 2967,
   "EOS_NewCompleters": 0,
@@ -16409,6 +16409,11 @@
       "Time": "2023-07-15T03:31:14.0728577+00:00",
       "NumProgressed": 69760,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-15T04:05:41.2722289+00:00",
+      "NumProgressed": 69765,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -16940,7 +16945,7 @@
       "Name": "Cold War",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2790
+      "UsersEstimate": 2791
     },
     {
       "ID": "achievement_colonial_management",
@@ -19012,7 +19017,7 @@
       "Name": "True Catholic",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2790
+      "UsersEstimate": 2791
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -19084,7 +19089,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 6278
+      "UsersEstimate": 6279
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -19251,21 +19256,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 69760,
+      "Progressed": 69765,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 69760,
+      "Progressed": 69765,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-07-15T02:23:28.2453159+00:00",
-  "LastChanged_Achievements": "2023-07-15T03:31:14.072857+00:00",
+  "LastChanged_Achievements": "2023-07-15T04:05:41.2722285+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:17.9711886+00:00",
-  "LastUpdate_Ratings": "2023-07-15T03:24:56.1030067+00:00",
-  "LastUpdate_Achievements": "2023-07-15T03:31:14.073837+00:00"
+  "LastUpdate_Ratings": "2023-07-15T03:59:40.504782+00:00",
+  "LastUpdate_Achievements": "2023-07-15T04:05:41.2732499+00:00"
 }

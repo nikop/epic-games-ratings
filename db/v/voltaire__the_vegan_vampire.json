@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 305,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-02-27T17:00:00+00:00",
     "PcReleaseDate": "2023-02-27T17:00:00+00:00",
@@ -304,9 +304,9 @@
       "ID": "KILL_ELCAPITAN",
       "SetID": "3c20ib3",
       "Name": "Ay ay yarrr!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "KILL_ENEMIES",
@@ -449,8 +449,8 @@
   "FirstSeenRating": "2023-03-31T05:58:46.1122799+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.0090692+00:00",
   "LastChanged": "2023-03-31T05:58:46.11228+00:00",
-  "LastChanged_Achievements": "2023-07-15T03:31:16.3037544+00:00",
+  "LastChanged_Achievements": "2023-07-15T04:05:43.0068952+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:20.4350138+00:00",
-  "LastUpdate_Ratings": "2023-07-15T03:24:58.5179106+00:00",
-  "LastUpdate_Achievements": "2023-07-15T03:31:16.3037766+00:00"
+  "LastUpdate_Ratings": "2023-07-15T03:59:44.3110278+00:00",
+  "LastUpdate_Achievements": "2023-07-15T04:05:43.0069131+00:00"
 }

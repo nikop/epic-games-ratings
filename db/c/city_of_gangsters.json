@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 41,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -463,9 +463,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 329774,
+  "EOS_Progressed": 329775,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1592,
+  "EOS_NewPlayers": 1587,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9683,6 +9683,11 @@
       "Time": "2023-07-15T03:34:13.2386766+00:00",
       "NumProgressed": 329774,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-15T04:08:19.1110545+00:00",
+      "NumProgressed": 329775,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 80,
@@ -9718,7 +9723,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6595
+      "UsersEstimate": 6596
     },
     {
       "ID": "ach005",
@@ -9790,7 +9795,7 @@
       "Name": "Baker\u2019s Dozen",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6595
+      "UsersEstimate": 6596
     },
     {
       "ID": "ach014",
@@ -9798,7 +9803,7 @@
       "Name": "Fronting the Money",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 46168
+      "UsersEstimate": 46169
     },
     {
       "ID": "ach015",
@@ -9918,7 +9923,7 @@
       "Name": "Beating the Heat",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 32977
+      "UsersEstimate": 32978
     },
     {
       "ID": "ach030",
@@ -9926,7 +9931,7 @@
       "Name": "Dropping the Dime",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6595
+      "UsersEstimate": 6596
     },
     {
       "ID": "ach031",
@@ -9998,7 +10003,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 32977
+      "UsersEstimate": 32978
     },
     {
       "ID": "ach040",
@@ -10126,7 +10131,7 @@
       "Name": "Spiffy Speakeasies",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6595
+      "UsersEstimate": 6596
     },
     {
       "ID": "ach056",
@@ -10158,7 +10163,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 32977
+      "UsersEstimate": 32978
     },
     {
       "ID": "ach060",
@@ -10174,7 +10179,7 @@
       "Name": "Keeping Your Word",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6595
+      "UsersEstimate": 6596
     },
     {
       "ID": "ach062",
@@ -10206,7 +10211,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 46168
+      "UsersEstimate": 46169
     },
     {
       "ID": "ach067",
@@ -10230,7 +10235,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 46168
+      "UsersEstimate": 46169
     },
     {
       "ID": "ach070",
@@ -10333,7 +10338,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 329774,
+      "Progressed": 329775,
       "Completed": 5
     }
   ],
@@ -10341,8 +10346,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-07-14T22:58:09.6261804+00:00",
-  "LastChanged_Achievements": "2023-07-15T03:34:13.2386758+00:00",
+  "LastChanged_Achievements": "2023-07-15T04:08:19.111054+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:15.0481604+00:00",
-  "LastUpdate_Ratings": "2023-07-15T03:25:24.1486536+00:00",
-  "LastUpdate_Achievements": "2023-07-15T03:34:13.2388121+00:00"
+  "LastUpdate_Ratings": "2023-07-15T04:00:02.3350496+00:00",
+  "LastUpdate_Achievements": "2023-07-15T04:08:19.1111652+00:00"
 }

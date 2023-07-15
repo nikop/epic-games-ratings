@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -2526,9 +2526,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 68910,
+  "EOS_Progressed": 68911,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 407,
+  "EOS_NewPlayers": 406,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -11451,6 +11451,11 @@
       "Time": "2023-07-15T03:32:30.1447695+00:00",
       "NumProgressed": 68910,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-07-15T04:06:52.8645948+00:00",
+      "NumProgressed": 68911,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 37,
@@ -11462,7 +11467,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 34455
+      "UsersEstimate": 34456
     },
     {
       "ID": "ACH_0011",
@@ -11614,7 +11619,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 50993
+      "UsersEstimate": 50994
     },
     {
       "ID": "ACH_0211",
@@ -11678,7 +11683,7 @@
       "Name": "Case Closed",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 23429
+      "UsersEstimate": 23430
     },
     {
       "ID": "ACH_0420",
@@ -11686,7 +11691,7 @@
       "Name": "King of the Hill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 23429
+      "UsersEstimate": 23430
     },
     {
       "ID": "ACH_0430",
@@ -11694,7 +11699,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 24118
+      "UsersEstimate": 24119
     },
     {
       "ID": "ACH_0431",
@@ -11757,7 +11762,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 68910,
+      "Progressed": 68911,
       "Completed": 36
     }
   ],
@@ -11765,8 +11770,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-07-15T02:27:17.682433+00:00",
-  "LastChanged_Achievements": "2023-07-15T03:32:30.1447689+00:00",
-  "LastUpdate_AppInfo": "2023-07-08T03:23:23.2557502+00:00",
-  "LastUpdate_Ratings": "2023-07-15T03:28:51.7561774+00:00",
-  "LastUpdate_Achievements": "2023-07-15T03:32:30.1448859+00:00"
+  "LastChanged_Achievements": "2023-07-15T04:06:52.8645937+00:00",
+  "LastUpdate_AppInfo": "2023-07-15T03:58:02.3078188+00:00",
+  "LastUpdate_Ratings": "2023-07-15T04:02:51.9250156+00:00",
+  "LastUpdate_Achievements": "2023-07-15T04:06:52.8646559+00:00"
 }

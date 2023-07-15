@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 154,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -564,7 +564,7 @@
   ],
   "EOS_Progressed": 11055,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -6777,9 +6777,9 @@
       "ID": "ACH23",
       "SetID": "4ck5mbe",
       "Name": "All Dressed Up for San Fierro",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2653
+      "UsersEstimate": 2764
     },
     {
       "ID": "ACH24",
@@ -6890,8 +6890,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-14T15:00:57.6719502+00:00",
-  "LastChanged_Achievements": "2023-07-15T03:35:17.2005592+00:00",
-  "LastUpdate_AppInfo": "2023-07-08T03:23:43.1834453+00:00",
-  "LastUpdate_Ratings": "2023-07-15T03:29:15.0986916+00:00",
-  "LastUpdate_Achievements": "2023-07-15T03:35:17.2006225+00:00"
+  "LastChanged_Achievements": "2023-07-15T04:09:19.3197298+00:00",
+  "LastUpdate_AppInfo": "2023-07-15T03:58:18.5169648+00:00",
+  "LastUpdate_Ratings": "2023-07-15T04:03:09.989085+00:00",
+  "LastUpdate_Achievements": "2023-07-15T04:09:19.319777+00:00"
 }

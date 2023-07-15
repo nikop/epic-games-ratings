@@ -11,6 +11,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeking Allies | 0.20% | ~423 |
 | Mad Cow Disease | 0.20% | ~423 |
 | The Contagious Curse | 0.20% | ~423 |
+| Escort to Waterdeep | 0.20% | ~423 |
 | The Mad Wizard | 0.20% | ~423 |
 | Friendly Imps | 0.20% | ~423 |
 | Pure Energy | 0.20% | ~423 |
@@ -197,7 +198,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Prison of Velkynvelve | 0.10% | ~178 |
 | Prisoners of Lolth | 0.10% | ~178 |
 | Prisoners of Unknown Choices | 0.10% | ~178 |
-| Escort to Waterdeep | 0.10% | ~212 |
 | The Giant's Bane Tavern | 0.10% | ~178 |
 | Rime Bandits | 0.10% | ~178 |
 | Giant-Size Adventure | 0.10% | ~178 |
@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211,587 (Ranked 52)  
+Progressed: 211,598 (Ranked 52)  
 Completed: 2,050 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -600,7 +600,7 @@ Completed: 2,050 (0.97%) (Ranked 102)
 | 2023-07-12 | 210,649 | 2,046 |
 | 2023-07-13 | 211,069 | 2,049 |
 | 2023-07-14 | 211,507 | 2,050 |
-| 2023-07-15 | 211,587 | 2,050 |
+| 2023-07-15 | 211,598 | 2,050 |
 ## Awards
 Max (Diverse Characters): 5,033  (Ranked 66)  
 Sum: 30,510 (Ranked 38)  

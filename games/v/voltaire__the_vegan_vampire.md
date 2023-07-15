@@ -17,8 +17,8 @@
 | It gets everywhere | 8.00% | ~8 |
 | Make it rain | 7.00% | ~7 |
 | Holy Crops! | 7.00% | ~7 |
+| Ay ay yarrr! | 6.00% | ~6 |
 | Do you wanna build a snowboiii? | 6.00% | ~6 |
-| Ay ay yarrr! | 5.00% | ~5 |
 | Peaceful skies | 4.00% | ~4 |
 | Groovy! | 4.00% | ~4 |
 | It's a bug's life | 3.00% | ~3 |

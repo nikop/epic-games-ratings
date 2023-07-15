@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,10 +512,10 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57341,
-  "EOS_Completed": 57,
-  "EOS_NewPlayers": 341,
-  "EOS_NewCompleters": 0,
+  "EOS_Progressed": 57342,
+  "EOS_Completed": 58,
+  "EOS_NewPlayers": 339,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
     {
@@ -7967,6 +7967,11 @@
       "Time": "2023-07-15T03:29:58.8553828+00:00",
       "NumProgressed": 57341,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-15T04:04:20.1476704+00:00",
+      "NumProgressed": 57342,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 67,
@@ -8010,7 +8015,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10321
+      "UsersEstimate": 10322
     },
     {
       "ID": "06",
@@ -8106,7 +8111,7 @@
       "Name": "Departure",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3440
+      "UsersEstimate": 3441
     },
     {
       "ID": "18",
@@ -8513,21 +8518,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57341,
-      "Completed": 57
+      "Progressed": 57342,
+      "Completed": 58
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20809,
+      "Progressed": 20810,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-15T03:29:58.8553818+00:00",
+  "LastChanged_Achievements": "2023-07-15T04:04:20.1476699+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:10.5196415+00:00",
-  "LastUpdate_Ratings": "2023-07-15T03:25:20.1728409+00:00",
-  "LastUpdate_Achievements": "2023-07-15T03:29:58.8554933+00:00"
+  "LastUpdate_Ratings": "2023-07-15T03:59:58.8118378+00:00",
+  "LastUpdate_Achievements": "2023-07-15T04:04:20.1477554+00:00"
 }

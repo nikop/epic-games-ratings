@@ -2373,7 +2373,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 527619,
+  "EOS_Progressed": 527621,
   "EOS_Completed": 1480,
   "EOS_NewPlayers": 691,
   "EOS_NewCompleters": 7,
@@ -11443,6 +11443,11 @@
       "Time": "2023-07-15T03:30:17.5456085+00:00",
       "NumProgressed": 527619,
       "NumCompleted": 1480
+    },
+    {
+      "Time": "2023-07-15T04:04:35.519595+00:00",
+      "NumProgressed": 527621,
+      "NumCompleted": 1480
     }
   ],
   "TotalAchievements": 37,
@@ -11454,7 +11459,7 @@
       "Name": "Branded",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 68590
+      "UsersEstimate": 68591
     },
     {
       "ID": "COASTROCK",
@@ -11510,7 +11515,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 437924
+      "UsersEstimate": 437925
     },
     {
       "ID": "HONED",
@@ -11622,7 +11627,7 @@
       "Name": "The Imposter",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 68590
+      "UsersEstimate": 68591
     },
     {
       "ID": "THE_IRON_ONES",
@@ -11630,7 +11635,7 @@
       "Name": "The Iron Ones",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 94971
+      "UsersEstimate": 94972
     },
     {
       "ID": "THE_KEEP",
@@ -11638,7 +11643,7 @@
       "Name": "The Keep",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 68590
+      "UsersEstimate": 68591
     },
     {
       "ID": "THE_LAKE",
@@ -11710,7 +11715,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 337676
+      "UsersEstimate": 337677
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -11749,15 +11754,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 527619,
+      "Progressed": 527621,
       "Completed": 1480
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-07-15T00:00:26.9110203+00:00",
-  "LastChanged_Achievements": "2023-07-15T03:30:17.545608+00:00",
-  "LastUpdate_AppInfo": "2023-07-08T03:22:35.4713999+00:00",
-  "LastUpdate_Ratings": "2023-07-15T03:28:01.874039+00:00",
-  "LastUpdate_Achievements": "2023-07-15T03:30:17.5457158+00:00"
+  "LastChanged_Achievements": "2023-07-15T04:04:35.5195943+00:00",
+  "LastUpdate_AppInfo": "2023-07-15T03:57:23.4888878+00:00",
+  "LastUpdate_Ratings": "2023-07-15T04:02:06.6677505+00:00",
+  "LastUpdate_Achievements": "2023-07-15T04:04:35.5196618+00:00"
 }
