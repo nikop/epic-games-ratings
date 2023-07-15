@@ -382,7 +382,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6976,
+  "EOS_Progressed": 6977,
   "EOS_Completed": 41,
   "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 1,
@@ -5577,6 +5577,11 @@
       "Time": "2023-07-15T05:04:48.0936501+00:00",
       "NumProgressed": 6976,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-07-15T13:17:59.5540052+00:00",
+      "NumProgressed": 6977,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 29,
@@ -5588,7 +5593,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5790
+      "UsersEstimate": 5791
     },
     {
       "ID": "ACH02",
@@ -5660,7 +5665,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 1953
+      "UsersEstimate": 1954
     },
     {
       "ID": "ACH11",
@@ -5819,7 +5824,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6976,
+      "Progressed": 6977,
       "Completed": 41
     }
   ],
@@ -5827,8 +5832,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-07-14T20:58:27.169757+00:00",
-  "LastChanged_Achievements": "2023-07-15T12:07:30.531528+00:00",
+  "LastChanged_Achievements": "2023-07-15T13:17:59.5540048+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:27.5857336+00:00",
-  "LastUpdate_Ratings": "2023-07-15T11:59:46.3486351+00:00",
-  "LastUpdate_Achievements": "2023-07-15T12:07:30.5315801+00:00"
+  "LastUpdate_Ratings": "2023-07-15T13:11:35.6937637+00:00",
+  "LastUpdate_Achievements": "2023-07-15T13:17:59.5540468+00:00"
 }

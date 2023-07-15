@@ -203,9 +203,9 @@
       "ID": "Konec",
       "SetID": "823jm6g",
       "Name": "Happy End",
-      "Percentage": 56,
+      "Percentage": 61,
       "XP": 75,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Les",
@@ -219,9 +219,9 @@
       "ID": "Majak",
       "SetID": "823jm6g",
       "Name": "Lighthouse",
-      "Percentage": 56,
+      "Percentage": 61,
       "XP": 75,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Nora",
@@ -267,9 +267,9 @@
       "ID": "Tuleni",
       "SetID": "823jm6g",
       "Name": "Seal Peaks",
-      "Percentage": 56,
+      "Percentage": 61,
       "XP": 75,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     }
   ],
   "AchievementSets": [
@@ -282,8 +282,8 @@
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-07-15T12:06:47.2146692+00:00",
+  "LastChanged_Achievements": "2023-07-15T13:17:27.8223681+00:00",
   "LastUpdate_AppInfo": "2023-07-14T13:57:07.8710932+00:00",
-  "LastUpdate_Ratings": "2023-07-15T11:57:27.9252156+00:00",
-  "LastUpdate_Achievements": "2023-07-15T12:06:47.214697+00:00"
+  "LastUpdate_Ratings": "2023-07-15T13:09:39.5132974+00:00",
+  "LastUpdate_Achievements": "2023-07-15T13:17:27.8223773+00:00"
 }

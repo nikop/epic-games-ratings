@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6742,
+  "EOS_Progressed": 6743,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -4628,6 +4628,11 @@
       "Time": "2023-07-15T00:03:29.5532819+00:00",
       "NumProgressed": 6742,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-07-15T13:16:55.9576174+00:00",
+      "NumProgressed": 6743,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 21,
@@ -4743,7 +4748,7 @@
       "Name": "In a Pinch",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1349
     },
     {
       "ID": "LIBERATOR",
@@ -4791,7 +4796,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "THING",
@@ -4806,7 +4811,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6742,
+      "Progressed": 6743,
       "Completed": 29
     }
   ],
@@ -4814,8 +4819,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-07-11T22:58:36.2658566+00:00",
-  "LastChanged_Achievements": "2023-07-15T12:06:02.8875765+00:00",
+  "LastChanged_Achievements": "2023-07-15T13:16:55.9576169+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:33.2869654+00:00",
-  "LastUpdate_Ratings": "2023-07-15T11:59:51.6023534+00:00",
-  "LastUpdate_Achievements": "2023-07-15T12:06:02.8876242+00:00"
+  "LastUpdate_Ratings": "2023-07-15T13:11:39.1312719+00:00",
+  "LastUpdate_Achievements": "2023-07-15T13:16:55.9576492+00:00"
 }

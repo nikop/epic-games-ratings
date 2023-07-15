@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 592,
+  "EOS_Progressed": 593,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
@@ -1106,6 +1106,11 @@
       "Time": "2023-07-15T12:07:35.3412016+00:00",
       "NumProgressed": 592,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-15T13:18:12.7687704+00:00",
+      "NumProgressed": 593,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1157,7 +1162,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -1373,7 +1378,7 @@
       "Name": "Free Like Birds",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "FREE_ACHIEVEMENT_3",
@@ -1387,17 +1392,17 @@
       "ID": "KALL_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Pest Control or Taxonomist?",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 77
     },
     {
       "ID": "KILLR_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Breaking Twigs",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 261
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -1413,7 +1418,7 @@
       "Name": "Decakill!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -1485,7 +1490,7 @@
       "Name": "1, 2, 3! Grandma!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "MARY_ACHIEVEMENT_1",
@@ -1493,7 +1498,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -1509,7 +1514,7 @@
       "Name": "Night Snack",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -1549,7 +1554,7 @@
       "Name": "The Last of Us",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -1563,9 +1568,9 @@
       "ID": "RAPTOR_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Clairvoyant Who Doesn\u0027t See",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 219
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -1644,14 +1649,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 592,
+      "Progressed": 593,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-15T12:07:35.341201+00:00",
+  "LastChanged_Achievements": "2023-07-15T13:18:12.7687696+00:00",
   "LastUpdate_AppInfo": "2023-07-13T13:57:00.6642341+00:00",
-  "LastUpdate_Ratings": "2023-07-15T11:57:28.0020402+00:00",
-  "LastUpdate_Achievements": "2023-07-15T12:07:35.3412841+00:00"
+  "LastUpdate_Ratings": "2023-07-15T13:09:39.6161649+00:00",
+  "LastUpdate_Achievements": "2023-07-15T13:18:12.7688295+00:00"
 }

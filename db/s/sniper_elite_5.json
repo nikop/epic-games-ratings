@@ -404,7 +404,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3283,
+  "EOS_Progressed": 3284,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
@@ -5054,6 +5054,11 @@
       "Time": "2023-07-15T11:03:29.137409+00:00",
       "NumProgressed": 3283,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-15T13:16:52.0305314+00:00",
+      "NumProgressed": 3284,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -5433,7 +5438,7 @@
       "Name": "Taking it back",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -5457,7 +5462,7 @@
       "Name": "Target America",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -5473,7 +5478,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -5632,13 +5637,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3234,
+      "Progressed": 3235,
       "Completed": 13
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3283,
+      "Progressed": 3284,
       "Completed": 9
     }
   ],
@@ -5646,8 +5651,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-13T13:19:01.0264879+00:00",
-  "LastChanged_Achievements": "2023-07-15T12:05:57.645088+00:00",
+  "LastChanged_Achievements": "2023-07-15T13:16:52.0305309+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:52.6032381+00:00",
-  "LastUpdate_Ratings": "2023-07-15T11:57:15.2770839+00:00",
-  "LastUpdate_Achievements": "2023-07-15T12:05:57.6451898+00:00"
+  "LastUpdate_Ratings": "2023-07-15T13:09:30.56051+00:00",
+  "LastUpdate_Achievements": "2023-07-15T13:16:52.0306138+00:00"
 }

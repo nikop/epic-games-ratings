@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 755,
+  "EOS_Progressed": 756,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -1614,6 +1614,11 @@
       "Time": "2023-07-15T02:33:36.6874574+00:00",
       "NumProgressed": 755,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-15T13:21:13.0956409+00:00",
+      "NumProgressed": 756,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1751,9 +1756,9 @@
       "ID": "FutureEkko2Defeated",
       "SetID": "a9e499d",
       "Name": "The Betrayer",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 98
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -1871,17 +1876,17 @@
       "ID": "ParryBoss",
       "SetID": "a9e499d",
       "Name": "The Harder They Fall",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 98
     },
     {
       "ID": "ParryRepeated1",
       "SetID": "a9e499d",
       "Name": "No, Thanks!",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 98
     },
     {
       "ID": "PhaseDiveCounter",
@@ -1999,9 +2004,9 @@
       "ID": "TimewinderMultiKill1",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 98
     },
     {
       "ID": "WarwickDefeated",
@@ -2048,14 +2053,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 755,
+      "Progressed": 756,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-15T12:10:22.4183501+00:00",
+  "LastChanged_Achievements": "2023-07-15T13:21:13.0956404+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:20.5747926+00:00",
-  "LastUpdate_Ratings": "2023-07-15T12:02:28.1806728+00:00",
-  "LastUpdate_Achievements": "2023-07-15T12:10:22.4184349+00:00"
+  "LastUpdate_Ratings": "2023-07-15T13:14:00.9648497+00:00",
+  "LastUpdate_Achievements": "2023-07-15T13:21:13.0956845+00:00"
 }

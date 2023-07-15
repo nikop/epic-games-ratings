@@ -6,22 +6,22 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,290 |
-| That's a Grand Army | 8.00% | ~5,591 |
-| That is mine! | 8.00% | ~5,591 |
-| Victorious! | 8.00% | ~5,591 |
-| Brothers in Arms | 6.00% | ~4,193 |
-| That's a Grand Navy | 6.00% | ~4,193 |
-| Seriously?! | 6.00% | ~4,193 |
-| For the Glory | 5.00% | ~3,494 |
-| Cold War | 4.00% | ~2,796 |
-| True Catholic | 4.00% | ~2,796 |
-| Defender of the Faith | 3.00% | ~2,097 |
-| It's all about luck | 3.00% | ~2,097 |
-| It's all about the money | 3.00% | ~2,097 |
-| Respected | 3.00% | ~2,097 |
-| The Princess is in this Castle | 3.00% | ~2,097 |
-| Truly Divine Ruler | 3.00% | ~2,097 |
+| Until death do us apart | 9.00% | ~6,293 |
+| That's a Grand Army | 8.00% | ~5,594 |
+| That is mine! | 8.00% | ~5,594 |
+| Victorious! | 8.00% | ~5,594 |
+| Brothers in Arms | 6.00% | ~4,195 |
+| That's a Grand Navy | 6.00% | ~4,195 |
+| Seriously?! | 6.00% | ~4,195 |
+| For the Glory | 5.00% | ~3,496 |
+| Cold War | 4.00% | ~2,797 |
+| True Catholic | 4.00% | ~2,797 |
+| Defender of the Faith | 3.00% | ~2,098 |
+| It's all about luck | 3.00% | ~2,098 |
+| It's all about the money | 3.00% | ~2,098 |
+| Respected | 3.00% | ~2,098 |
+| The Princess is in this Castle | 3.00% | ~2,098 |
+| Truly Divine Ruler | 3.00% | ~2,098 |
 | Agressive Expander | 2.00% | ~1,398 |
 | Blockader | 2.00% | ~1,398 |
 | Combined Arms | 2.00% | ~1,398 |
@@ -46,19 +46,19 @@ Number of Ratings: 8,414  (23.09.2022)
 | Down Under | 0.80% | ~559 |
 | Electable! | 0.70% | ~489 |
 | Populists in Government | 0.70% | ~489 |
-| All belongs to Mother Russia | 0.60% | ~419 |
-| At every continent | 0.60% | ~419 |
-| One Family to Rule them All | 0.60% | ~419 |
-| The pen is mightier than the sword | 0.60% | ~419 |
-| This is My Faith | 0.60% | ~419 |
-| Time Bandit | 0.60% | ~419 |
-| Absolutely | 0.50% | ~349 |
-| Early-Modern Warfare | 0.50% | ~349 |
-| Grand Coalition | 0.50% | ~349 |
-| Live Long and Prosper | 0.50% | ~349 |
-| Ruina Imperii | 0.50% | ~349 |
-| Trophy Hunter | 0.50% | ~349 |
-| Voting Streak | 0.50% | ~349 |
+| All belongs to Mother Russia | 0.60% | ~420 |
+| At every continent | 0.60% | ~420 |
+| Early-Modern Warfare | 0.60% | ~420 |
+| One Family to Rule them All | 0.60% | ~420 |
+| The pen is mightier than the sword | 0.60% | ~420 |
+| This is My Faith | 0.60% | ~420 |
+| Time Bandit | 0.60% | ~420 |
+| Absolutely | 0.50% | ~350 |
+| Grand Coalition | 0.50% | ~350 |
+| Live Long and Prosper | 0.50% | ~350 |
+| Ruina Imperii | 0.50% | ~350 |
+| Trophy Hunter | 0.50% | ~350 |
+| Voting Streak | 0.50% | ~350 |
 | All Your Trade Are Belong to Us | 0.40% | ~280 |
 | Bleed Them Dry | 0.40% | ~280 |
 | Dude, Where's my Boat? | 0.40% | ~280 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69,889 (Ranked 74)  
+Progressed: 69,924 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -447,11 +447,11 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-12 | 68,921 | 0 |
 | 2023-07-13 | 69,319 | 0 |
 | 2023-07-14 | 69,707 | 0 |
-| 2023-07-15 | 69,889 | 0 |
+| 2023-07-15 | 69,924 | 0 |
 ## Awards
 Max (Educational): 5,541  (Ranked 60)  
-Sum: 45,710 (Ranked 27)  
-Diff (max vs sum): 33  
+Sum: 45,714 (Ranked 26)  
+Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,541 |
@@ -460,7 +460,7 @@ Diff (max vs sum): 33
 | This game is Extremely Fun | 5,254 |
 | This game has Diverse Characters | 5,216 |
 | This game is Relaxing | 5,125 |
-| This game has Competitive Players | 4,978 |
+| This game has Competitive Players | 4,982 |
 | This game has Amazing Storytelling | 4,692 |
 | This game has Amazing Characters | 4,334 |
 | This game has Obsessive Gameplay | 3,351 |
@@ -646,4 +646,4 @@ Diff (max vs sum): 33
 | 2023-07-12 | 4.69 | - | 5,537 | 45,667 |
 | 2023-07-13 | 4.69 | - | 5,540 | 45,689 |
 | 2023-07-14 | 4.69 | - | 5,541 | 45,702 |
-| 2023-07-15 | 4.69 | - | 5,541 | 45,710 |
+| 2023-07-15 | 4.69 | - | 5,541 | 45,714 |

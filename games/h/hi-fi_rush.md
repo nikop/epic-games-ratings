@@ -45,6 +45,7 @@ Rating: 4.87 (Ranked 24)
 | This is a breeze! | 0.20% | ~7 |
 | We're Jammin' | 0.20% | ~7 |
 | First we parry, then we counter | 0.20% | ~7 |
+| I hit things with a guitar really well. | 0.20% | ~7 |
 | I told you I'd be fine, Peppermint! | 0.20% | ~7 |
 | Choose your own adventure | 0.20% | ~4 |
 | Easy Listening | 0.10% | ~3 |
@@ -57,7 +58,6 @@ Rating: 4.87 (Ranked 24)
 | My Ultimate Setlist | 0.10% | ~3 |
 | This was... not what I expected. | 0.10% | ~3 |
 | Have we met before? | 0.10% | ~3 |
-| I hit things with a guitar really well. | 0.10% | ~3 |
 | I'm untouchable! | 0.10% | ~3 |
 | You ever parry a volcano? | 0.10% | ~3 |
 | I saw all those hits coming a measure away! | 0.10% | ~3 |

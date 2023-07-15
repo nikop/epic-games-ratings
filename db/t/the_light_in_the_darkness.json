@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1931,
+  "EOS_Progressed": 1932,
   "EOS_Completed": 164,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 8.49,
   "EosHistory": [
@@ -3848,6 +3848,11 @@
       "Time": "2023-07-15T11:02:29.4112302+00:00",
       "NumProgressed": 1931,
       "NumCompleted": 164
+    },
+    {
+      "Time": "2023-07-15T13:16:21.8833365+00:00",
+      "NumProgressed": 1932,
+      "NumCompleted": 164
     }
   ],
   "TotalAchievements": 12,
@@ -3891,7 +3896,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "Jakob",
@@ -3947,14 +3952,14 @@
       "Name": "Nuremberg Laws",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     }
   ],
   "AchievementSets": [
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1931,
+      "Progressed": 1932,
       "Completed": 164
     }
   ],
@@ -3962,8 +3967,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-07-15T12:05:15.4187852+00:00",
+  "LastChanged_Achievements": "2023-07-15T13:16:21.8833359+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:31.7321074+00:00",
-  "LastUpdate_Ratings": "2023-07-15T12:02:46.3405053+00:00",
-  "LastUpdate_Achievements": "2023-07-15T12:05:15.4188244+00:00"
+  "LastUpdate_Ratings": "2023-07-15T13:14:14.5771937+00:00",
+  "LastUpdate_Achievements": "2023-07-15T13:16:21.8833645+00:00"
 }

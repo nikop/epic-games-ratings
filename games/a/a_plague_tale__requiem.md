@@ -5,18 +5,18 @@ Rating: 4.73 (Ranked 157)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~11,068 |
+| Under a New Sun | 92.00% | ~11,069 |
 | Newcomers | 79.00% | ~9,504 |
-| A Burden of Blood | 73.00% | ~8,782 |
-| Protector's Duty | 70.00% | ~8,421 |
-| In our Wake | 68.00% | ~8,180 |
-| Alchemist | 68.00% | ~8,180 |
-| Leaving all Behind | 64.00% | ~7,699 |
+| A Burden of Blood | 73.00% | ~8,783 |
+| Protector's Duty | 70.00% | ~8,422 |
+| In our Wake | 68.00% | ~8,181 |
+| Alchemist | 68.00% | ~8,181 |
+| Leaving all Behind | 64.00% | ~7,700 |
 | Felons | 62.00% | ~7,459 |
-| A Sea of Promises | 60.00% | ~7,218 |
-| Tales and Revelations | 57.00% | ~6,857 |
+| A Sea of Promises | 60.00% | ~7,219 |
+| Tales and Revelations | 57.00% | ~6,858 |
 | Bloodline | 52.00% | ~6,256 |
-| The Cradle of Centuries | 48.00% | ~5,774 |
+| The Cradle of Centuries | 48.00% | ~5,775 |
 | The Life We Deserve | 45.00% | ~5,414 |
 | Night guard | 43.00% | ~5,173 |
 | Nothing Left | 39.00% | ~4,692 |
@@ -26,8 +26,8 @@ Rating: 4.73 (Ranked 157)
 | King Hugo | 24.00% | ~2,887 |
 | Mercy | 23.00% | ~2,767 |
 | Perfect shot | 22.00% | ~2,647 |
-| Effective instruments | 21.00% | ~2,526 |
-| Perfect throw | 21.00% | ~2,526 |
+| Effective instruments | 21.00% | ~2,527 |
+| Perfect throw | 21.00% | ~2,527 |
 | Knights! | 20.00% | ~2,406 |
 | Handful of pockets | 13.00% | ~1,564 |
 | Not a toy anymore | 11.00% | ~1,323 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 157)
 | Explorer | 1.00% | ~120 |
 | Malignant | 1.00% | ~120 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,030 (Ranked 115)  
+Progressed: 12,031 (Ranked 115)  
 Completed: 37 (0.31%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 37 (0.31%) (Ranked 147)
 | 2023-07-12 | 12,010 | 37 |
 | 2023-07-13 | 12,018 | 37 |
 | 2023-07-14 | 12,027 | 37 |
-| 2023-07-15 | 12,030 | 37 |
+| 2023-07-15 | 12,031 | 37 |
 ## Awards
 Max (Great Boss Battles): 410  (Ranked 206)  
 Sum: 607 (Ranked 289)  

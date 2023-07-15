@@ -7,9 +7,9 @@
 | It's Rewind Time | 89.00% | ~198 |
 | Wake Up | 80.00% | ~178 |
 | Time Gates | 64.00% | ~143 |
-| Command Centre | 48.00% | ~107 |
+| Command Centre | 49.00% | ~109 |
 | This is a Wall | 43.00% | ~96 |
-| Extendable Bridges | 39.00% | ~87 |
+| Extendable Bridges | 40.00% | ~89 |
 | Man's Best Friend | 37.00% | ~83 |
 | Chain Reaction | 37.00% | ~83 |
 | 48 Attempts | 36.00% | ~80 |

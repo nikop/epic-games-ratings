@@ -4,7 +4,7 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 707,
+  "EOS_Progressed": 709,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1498,6 +1498,11 @@
       "Time": "2023-07-14T16:03:14.1250195+00:00",
       "NumProgressed": 707,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-15T13:16:48.1295849+00:00",
+      "NumProgressed": 709,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 29,
@@ -1509,7 +1514,7 @@
       "Name": "Augmented",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACHV_BIGGERTHEYARE",
@@ -1573,7 +1578,7 @@
       "Name": "Starship Docks",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACHV_EDEN",
@@ -1637,7 +1642,7 @@
       "Name": "Nanonic III",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACHV_OUTERCORE",
@@ -1659,9 +1664,9 @@
       "ID": "ACHV_ROOKIE",
       "SetID": "cceobco",
       "Name": "Rookie",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 28
     },
     {
       "ID": "ACHV_SUPPLYRUN",
@@ -1669,7 +1674,7 @@
       "Name": "Supply Run",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACHV_TERMINATED1",
@@ -1740,13 +1745,13 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 707,
+      "Progressed": 709,
       "Completed": 0
     },
     {
       "ID": "cd9kng8",
       "IsBase": false,
-      "Progressed": 133,
+      "Progressed": 135,
       "Completed": 3
     }
   ],
@@ -1754,8 +1759,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-07-15T12:05:52.0950974+00:00",
+  "LastChanged_Achievements": "2023-07-15T13:16:48.1295843+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:38.9845004+00:00",
-  "LastUpdate_Ratings": "2023-07-15T12:02:55.9369678+00:00",
-  "LastUpdate_Achievements": "2023-07-15T12:05:52.0951454+00:00"
+  "LastUpdate_Ratings": "2023-07-15T13:14:25.3130704+00:00",
+  "LastUpdate_Achievements": "2023-07-15T13:16:48.1296097+00:00"
 }
