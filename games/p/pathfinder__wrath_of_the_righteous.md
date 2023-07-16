@@ -6,7 +6,7 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 20.00% | ~2,069 |
+| Devoured by Darkness | 20.00% | ~2,070 |
 | A Spark | 15.00% | ~1,552 |
 | Burning City | 14.00% | ~1,449 |
 | Mythic Choices | 12.00% | ~1,242 |
@@ -14,9 +14,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | Banner over the Citadel | 11.00% | ~1,138 |
 | Queen's Gratitude | 10.00% | ~1,035 |
 | Fifth Crusade | 6.00% | ~621 |
-| Embrace of the Abyss | 5.00% | ~517 |
-| Path of the Angel | 5.00% | ~517 |
-| Demonic and Divine | 5.00% | ~517 |
+| Embrace of the Abyss | 5.00% | ~518 |
+| Path of the Angel | 5.00% | ~518 |
+| Demonic and Divine | 5.00% | ~518 |
 | Path of the Azata | 4.00% | ~414 |
 | Transformation | 4.00% | ~414 |
 | The Legacy | 4.00% | ~414 |
@@ -42,9 +42,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | Hanged Man's Notes | 2.00% | ~183 |
 | Sarkoris Will Be Green | 2.00% | ~183 |
 | The Lady of the Forest | 2.00% | ~183 |
-| Path of the Demon | 1.00% | ~103 |
-| Path of the Aeon | 1.00% | ~103 |
-| Abyssal Conspiracy | 1.00% | ~103 |
+| Path of the Demon | 1.00% | ~104 |
+| Path of the Aeon | 1.00% | ~104 |
+| Abyssal Conspiracy | 1.00% | ~104 |
 | This Wall Won't Fall | 1.00% | ~91 |
 | Not the Last Sarkorian | 1.00% | ~91 |
 | The Final Threshold | 0.90% | ~93 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,347 (Ranked 117)  
+Progressed: 10,350 (Ranked 117)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-13 | 10,297 | 0 |
 | 2023-07-14 | 10,312 | 0 |
 | 2023-07-15 | 10,338 | 0 |
-| 2023-07-16 | 10,347 | 0 |
+| 2023-07-16 | 10,350 | 0 |
 ## Awards
 Max (Character Customization): 1,679  (Ranked 117)  
 Sum: 6,816 (Ranked 112)  

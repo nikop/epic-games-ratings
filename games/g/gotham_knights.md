@@ -10,18 +10,18 @@ Rating: 4.18 (Ranked 855)
 | Har, Har, Har, Very Funny | 4.00% | ~2,683 |
 | Knighthood | 4.00% | ~2,683 |
 | Loose Ends | 4.00% | ~2,683 |
-| The Batman Family | 3.00% | ~2,012 |
-| Something in the Clay | 3.00% | ~2,012 |
-| The Show Mud Go On | 3.00% | ~2,012 |
-| Quartzer Life Crisis | 3.00% | ~2,012 |
-| Snow Problem | 3.00% | ~2,012 |
-| Get ReQ'd | 3.00% | ~2,012 |
-| Working Hard or Harley Working? | 3.00% | ~2,012 |
-| Unstoppable Force | 3.00% | ~2,012 |
-| Whispered Words | 3.00% | ~2,012 |
-| Lock and Key | 3.00% | ~2,012 |
-| Bad Apples in Every Orchard | 3.00% | ~2,012 |
-| From Inside Gotham's Walls | 3.00% | ~2,012 |
+| The Batman Family | 3.00% | ~2,013 |
+| Something in the Clay | 3.00% | ~2,013 |
+| The Show Mud Go On | 3.00% | ~2,013 |
+| Quartzer Life Crisis | 3.00% | ~2,013 |
+| Snow Problem | 3.00% | ~2,013 |
+| Get ReQ'd | 3.00% | ~2,013 |
+| Working Hard or Harley Working? | 3.00% | ~2,013 |
+| Unstoppable Force | 3.00% | ~2,013 |
+| Whispered Words | 3.00% | ~2,013 |
+| Lock and Key | 3.00% | ~2,013 |
+| Bad Apples in Every Orchard | 3.00% | ~2,013 |
+| From Inside Gotham's Walls | 3.00% | ~2,013 |
 | End of an Era | 2.00% | ~1,342 |
 | In Your Element | 2.00% | ~1,342 |
 | Protector of Gotham | 2.00% | ~1,342 |
@@ -43,7 +43,7 @@ Rating: 4.18 (Ranked 855)
 | Expert Crime Fighter | 0.90% | ~604 |
 | A Worthy Successor | 0.90% | ~604 |
 | Dressed to Impress | 0.80% | ~537 |
-| A Momentum Occasion | 0.60% | ~402 |
+| A Momentum Occasion | 0.60% | ~403 |
 | Bat Out of Hell | 0.50% | ~335 |
 | He'd Be So Proud of You | 0.40% | ~268 |
 | Hammer and Icicle | 0.30% | ~112 |
@@ -51,6 +51,7 @@ Rating: 4.18 (Ranked 855)
 | Crime Is a Terrible Thing to Waste | 0.30% | ~112 |
 | Practice Makes Perfect | 0.30% | ~201 |
 | Element of Surprise | 0.20% | ~75 |
+| It's Nice to Be Wanted | 0.20% | ~75 |
 | The Cold, the Bad and the Ugly | 0.20% | ~75 |
 | Talonted | 0.20% | ~134 |
 | The Man-Bat Family | 0.20% | ~134 |
@@ -58,7 +59,6 @@ Rating: 4.18 (Ranked 855)
 | Batarang Collector | 0.20% | ~134 |
 | Claiming the Mural High Ground | 0.20% | ~134 |
 | A Sophisticated Mallet | 0.20% | ~75 |
-| It's Nice to Be Wanted | 0.10% | ~37 |
 | Gotham's Greatest Depths | 0.10% | ~37 |
 | Showdown Sovereign | 0.10% | ~37 |
 | That's Showbiz, Clayby | 0.10% | ~37 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 855)
 | History Major | 0.10% | ~67 |
 | Confronting Your Demon | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,082 (Ranked 77)  
+Progressed: 67,085 (Ranked 77)  
 Completed: 102 (0.15%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 102 (0.15%) (Ranked 173)
 | 2023-07-13 | 66,991 | 102 |
 | 2023-07-14 | 67,031 | 102 |
 | 2023-07-15 | 67,061 | 102 |
-| 2023-07-16 | 67,082 | 102 |
+| 2023-07-16 | 67,085 | 102 |
 ## Awards
 Max (Great Boss Battles): 2,447  (Ranked 101)  
 Sum: 4,051 (Ranked 138)  

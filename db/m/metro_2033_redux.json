@@ -2,13 +2,13 @@
   "ID": "petunia",
   "Name": "Metro 2033 Redux",
   "ProductSlug": "metro-2033-redux",
-  "Ranking_Rating": 217,
+  "Ranking_Rating": 216,
   "Ranking_Popularity": 134,
   "Ranking_PopularitySum": 226,
   "Ranking_EOS_Progress": 495,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 300,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2010-03-16T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -914,18 +914,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 1289,
       "NumberOfAwardsMax": 1179
+    },
+    {
+      "Time": "2023-07-16T13:57:02.7293387+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 1290,
+      "NumberOfAwardsMax": 1180
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1289,
-  "NumberOfAwardsMax": 1179,
+  "NumberOfAwards": 1290,
+  "NumberOfAwardsMax": 1180,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1179
+      "Count": 1180
     },
     {
       "Text": "This game is Highly Recommended",
@@ -969,8 +975,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:16.3934902+00:00",
-  "LastChanged": "2023-07-15T20:00:58.8040358+00:00",
+  "LastChanged": "2023-07-16T13:57:02.7293384+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:35.9279018+00:00",
-  "LastUpdate_Ratings": "2023-07-16T12:00:30.7971247+00:00",
-  "LastUpdate_Achievements": "2023-07-16T13:15:41.3872777+00:00"
+  "LastUpdate_Ratings": "2023-07-16T13:57:02.7293392+00:00",
+  "LastUpdate_Achievements": "2023-07-16T14:02:12.0836176+00:00"
 }

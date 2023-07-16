@@ -1,46 +1,46 @@
 # Farming Simulator 22
 [Store](https://store.epicgames.com/en-US/p/farming-simulator-22)  
 [View Rawdata](../../db/f/farming_simulator_22.json)  
-Rating: 4.70 (Ranked 196)  
+Rating: 4.69 (Ranked 216)  
 Number of Ratings: 7,683  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 76.00% | ~34,607 |
-| I read Shakespeare and stuff | 64.00% | ~29,143 |
-| Just a sprinkle | 63.00% | ~28,688 |
-| I'm stumped | 61.00% | ~27,777 |
-| Plant get enough | 60.00% | ~27,322 |
-| This is just my weekend vehicle | 58.00% | ~26,411 |
-| It's just the beginning | 58.00% | ~26,411 |
-| Hard work pays off | 53.00% | ~24,134 |
-| It's never too late to farm | 48.00% | ~21,857 |
-| All out of Land | 44.00% | ~20,036 |
-| Field Trip | 43.00% | ~19,580 |
-| I like to switch it up | 40.00% | ~18,214 |
-| Help me to help you | 38.00% | ~17,304 |
-| Ultimutt Pawesomeness | 28.00% | ~12,750 |
-| Van Gogh | 26.00% | ~11,839 |
-| You wood not believe it | 21.00% | ~9,563 |
-| Vehicle fleet | 21.00% | ~9,563 |
-| The plot thickens | 16.00% | ~7,286 |
-| Well-Oiled Machine | 16.00% | ~7,286 |
-| Long haul | 16.00% | ~7,286 |
-| Clucky Streak | 15.00% | ~6,830 |
-| Large-scale supplier | 15.00% | ~6,830 |
-| That's a wrap | 14.00% | ~6,375 |
+| Own use | 75.00% | ~34,156 |
+| I read Shakespeare and stuff | 64.00% | ~29,147 |
+| Just a sprinkle | 63.00% | ~28,691 |
+| I'm stumped | 61.00% | ~27,781 |
+| Plant get enough | 60.00% | ~27,325 |
+| This is just my weekend vehicle | 58.00% | ~26,414 |
+| It's just the beginning | 58.00% | ~26,414 |
+| Hard work pays off | 53.00% | ~24,137 |
+| It's never too late to farm | 48.00% | ~21,860 |
+| All out of Land | 44.00% | ~20,038 |
+| Field Trip | 43.00% | ~19,583 |
+| I like to switch it up | 40.00% | ~18,217 |
+| Help me to help you | 38.00% | ~17,306 |
+| Ultimutt Pawesomeness | 28.00% | ~12,752 |
+| Van Gogh | 26.00% | ~11,841 |
+| You wood not believe it | 21.00% | ~9,564 |
+| Vehicle fleet | 21.00% | ~9,564 |
+| The plot thickens | 16.00% | ~7,287 |
+| Well-Oiled Machine | 16.00% | ~7,287 |
+| Long haul | 16.00% | ~7,287 |
+| Clucky Streak | 15.00% | ~6,831 |
+| Large-scale supplier | 15.00% | ~6,831 |
+| That's a wrap | 14.00% | ~6,376 |
 | Fix me up | 13.00% | ~5,920 |
-| Rock on | 12.00% | ~5,464 |
-| It's sow easy | 11.00% | ~5,009 |
+| Rock on | 12.00% | ~5,465 |
+| It's sow easy | 11.00% | ~5,010 |
 | Highly cultivated | 10.00% | ~4,554 |
 | Giddy-up! | 10.00% | ~4,554 |
 | Cowherd | 7.00% | ~3,188 |
-| Fluffyness | 6.00% | ~2,732 |
-| Helper A does not stop … ever | 6.00% | ~2,732 |
-| Bringing in the Honey | 6.00% | ~2,732 |
+| Fluffyness | 6.00% | ~2,733 |
+| Helper A does not stop … ever | 6.00% | ~2,733 |
+| Bringing in the Honey | 6.00% | ~2,733 |
 | Road Trip | 5.00% | ~2,277 |
-| Three little piggies… | 4.00% | ~1,821 |
-| Game on | 4.00% | ~1,821 |
+| Three little piggies… | 4.00% | ~1,822 |
+| Game on | 4.00% | ~1,822 |
 | Pretty colourful | 0.90% | ~410 |
 | Original grain | 0.80% | ~364 |
 | Thoroughbred! | 0.60% | ~273 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~182 |
 | Raisin the stakes | 0.30% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,536 (Ranked 88)  
+Progressed: 45,542 (Ranked 88)  
 Completed: 5 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,10 +137,10 @@ Completed: 5 (0.01%) (Ranked 223)
 | 2023-07-13 | 45,412 | 5 |
 | 2023-07-14 | 45,461 | 5 |
 | 2023-07-15 | 45,509 | 5 |
-| 2023-07-16 | 45,536 | 5 |
+| 2023-07-16 | 45,542 | 5 |
 ## Awards
 Max (Great for Beginners): 4,539  (Ranked 71)  
-Sum: 38,148 (Ranked 31)  
+Sum: 38,154 (Ranked 31)  
 Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
@@ -148,8 +148,8 @@ Diff (max vs sum): 40
 | This game is Relaxing | 4,023 |
 | This game is Educational | 3,989 |
 | This game has Quickly Understood Controls | 3,939 |
+| This game has Diverse Characters | 3,828 |
 | This game is Extremely Fun | 3,824 |
-| This game has Diverse Characters | 3,822 |
 | This game is Highly Recommended | 3,820 |
 | This game has Amazing Storytelling | 3,711 |
 | This game has Amazing Characters | 3,324 |
@@ -339,4 +339,4 @@ Diff (max vs sum): 40
 | 2023-07-13 | 4.70 | - | 4,528 | 38,097 |
 | 2023-07-14 | 4.70 | - | 4,536 | 38,118 |
 | 2023-07-15 | 4.70 | - | 4,539 | 38,137 |
-| 2023-07-16 | 4.70 | - | 4,539 | 38,148 |
+| 2023-07-16 | 4.70 | - | 4,539 | 38,154 |

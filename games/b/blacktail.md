@@ -1,12 +1,12 @@
 # BLACKTAIL
 [Store](https://store.epicgames.com/en-US/p/blacktail)  
 [View Rawdata](../../db/b/blacktail.json)  
-Rating: 4.68 (Ranked 240)  
+Rating: 4.68 (Ranked 239)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tooth fairy | 26.00% | ~143 |
-| Dental maturity | 19.00% | ~104 |
+| Dental maturity | 20.00% | ~110 |
 | Devil's in the details | 14.00% | ~77 |
 | Uprooting | 13.00% | ~71 |
 | Forbidden techniques | 12.00% | ~66 |

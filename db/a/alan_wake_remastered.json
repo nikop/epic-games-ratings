@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57410,
+  "EOS_Progressed": 57412,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 321,
+  "EOS_NewPlayers": 322,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8102,6 +8102,11 @@
       "Time": "2023-07-16T13:15:57.7791018+00:00",
       "NumProgressed": 57410,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-07-16T14:02:26.5591237+00:00",
+      "NumProgressed": 57412,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 67,
@@ -8113,7 +8118,7 @@
       "Name": "Follow the Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 19519
+      "UsersEstimate": 19520
     },
     {
       "ID": "02",
@@ -8121,7 +8126,7 @@
       "Name": "Nordic Walking",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 12056
+      "UsersEstimate": 12057
     },
     {
       "ID": "03",
@@ -8129,7 +8134,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 12056
+      "UsersEstimate": 12057
     },
     {
       "ID": "04",
@@ -8209,7 +8214,7 @@
       "Name": "Drink \u0027Em Both Up",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2870
+      "UsersEstimate": 2871
     },
     {
       "ID": "14",
@@ -8249,7 +8254,7 @@
       "Name": "Hardboiled Writer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2870
+      "UsersEstimate": 2871
     },
     {
       "ID": "19",
@@ -8337,7 +8342,7 @@
       "Name": "Sound and Fury",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7463
+      "UsersEstimate": 7464
     },
     {
       "ID": "30",
@@ -8353,7 +8358,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 8037
+      "UsersEstimate": 8038
     },
     {
       "ID": "32",
@@ -8433,7 +8438,7 @@
       "Name": "Finders Keepers",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 8037
+      "UsersEstimate": 8038
     },
     {
       "ID": "42",
@@ -8473,7 +8478,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 7463
+      "UsersEstimate": 7464
     },
     {
       "ID": "47",
@@ -8648,21 +8653,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57410,
+      "Progressed": 57412,
       "Completed": 58
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20878,
+      "Progressed": 20880,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-16T13:15:57.7791014+00:00",
+  "LastChanged_Achievements": "2023-07-16T14:02:26.559123+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:10.5196415+00:00",
-  "LastUpdate_Ratings": "2023-07-16T13:10:18.9857731+00:00",
-  "LastUpdate_Achievements": "2023-07-16T13:15:57.7792115+00:00"
+  "LastUpdate_Ratings": "2023-07-16T13:58:05.3221434+00:00",
+  "LastUpdate_Achievements": "2023-07-16T14:02:26.559327+00:00"
 }

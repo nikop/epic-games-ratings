@@ -2,13 +2,13 @@
   "ID": "879b0d8776ab46a59a129983ba78f0ce",
   "Name": "Genshin Impact",
   "ProductSlug": "genshin-impact",
-  "Ranking_Rating": 240,
+  "Ranking_Rating": 239,
   "Ranking_Popularity": 3,
   "Ranking_PopularitySum": 4,
   "Ranking_EOS_Progress": 495,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 300,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-06-08T23:00:00+00:00",
     "PcReleaseDate": "2021-06-08T23:00:00+00:00",
@@ -8094,10 +8094,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 1357772,
       "NumberOfAwardsMax": 300205
+    },
+    {
+      "Time": "2023-07-16T13:59:10.4756911+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1357820,
+      "NumberOfAwardsMax": 300205
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1357772,
+  "NumberOfAwards": 1357820,
   "NumberOfAwardsMax": 300205,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8129,7 +8135,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 112752
+      "Count": 112773
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8141,7 +8147,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 115182
+      "Count": 115209
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -8179,8 +8185,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:42.3518763+00:00",
-  "LastChanged": "2023-07-16T13:11:42.4652645+00:00",
+  "LastChanged": "2023-07-16T13:59:10.4756909+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:50.607753+00:00",
-  "LastUpdate_Ratings": "2023-07-16T13:11:42.4652652+00:00",
-  "LastUpdate_Achievements": "2023-07-16T13:15:25.8845902+00:00"
+  "LastUpdate_Ratings": "2023-07-16T13:59:10.4756921+00:00",
+  "LastUpdate_Achievements": "2023-07-16T14:00:58.8689782+00:00"
 }

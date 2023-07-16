@@ -30,7 +30,7 @@ Rating: 4.35 (Ranked 740)
 | The Secret | 37.00% | ~146 |
 | Gedeon Demir | 35.00% | ~138 |
 | Rehana Piette | 34.00% | ~134 |
-| Instinct is Marvellous | 32.00% | ~126 |
+| Instinct is Marvellous | 33.00% | ~130 |
 | Ernesto da Silva | 32.00% | ~126 |
 | Inge Frank | 31.00% | ~122 |
 | The Search | 30.00% | ~118 |

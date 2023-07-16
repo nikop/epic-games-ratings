@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 158,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -225,9 +225,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 196464,
+  "EOS_Progressed": 196470,
   "EOS_Completed": 466,
-  "EOS_NewPlayers": 649,
+  "EOS_NewPlayers": 651,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -9425,6 +9425,11 @@
       "Time": "2023-07-16T13:15:32.2528741+00:00",
       "NumProgressed": 196464,
       "NumCompleted": 466
+    },
+    {
+      "Time": "2023-07-16T14:01:04.6278229+00:00",
+      "NumProgressed": 196470,
+      "NumCompleted": 466
     }
   ],
   "TotalAchievements": 29,
@@ -9460,7 +9465,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 184676
+      "UsersEstimate": 184682
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -9516,7 +9521,7 @@
       "Name": "Corrupted.",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 9823
+      "UsersEstimate": 9824
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTEDCOMPLETE",
@@ -9596,7 +9601,7 @@
       "Name": "Good things come in pairs... Coloured Pairs.",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 9823
+      "UsersEstimate": 9824
     },
     {
       "ID": "ACHIEVEMENT_REQUISITE",
@@ -9620,7 +9625,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 19646
+      "UsersEstimate": 19647
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -9636,7 +9641,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 13752
+      "UsersEstimate": 13753
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -9667,7 +9672,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 196464,
+      "Progressed": 196470,
       "Completed": 466
     }
   ],
@@ -9675,8 +9680,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-06-26T22:58:32.656469+00:00",
-  "LastChanged_Achievements": "2023-07-16T13:15:32.2528738+00:00",
+  "LastChanged_Achievements": "2023-07-16T14:01:04.6278222+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:47.6182594+00:00",
-  "LastUpdate_Ratings": "2023-07-16T13:11:39.9595169+00:00",
-  "LastUpdate_Achievements": "2023-07-16T13:15:32.2529465+00:00"
+  "LastUpdate_Ratings": "2023-07-16T13:59:08.0892854+00:00",
+  "LastUpdate_Achievements": "2023-07-16T14:01:04.6279059+00:00"
 }

@@ -5,7 +5,7 @@ Rating: 4.77 (Ranked 108)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 12.00% | ~34,523 |
+| The Sort Who Makes an Entrance | 12.00% | ~34,524 |
 | First Class Student | 10.00% | ~28,770 |
 | Troll with the Punches | 10.00% | ~28,770 |
 | A Keen Sense of Spell | 9.00% | ~25,893 |
@@ -48,10 +48,10 @@ Rating: 4.77 (Ranked 108)
 | A Forte for Achievement | 1.00% | ~2,877 |
 | Merlin's Beard! | 0.80% | ~2,302 |
 | Spilled Milk | 0.70% | ~2,014 |
-| The Nature of the Beast | 0.50% | ~1,438 |
+| The Nature of the Beast | 0.50% | ~1,439 |
 | Collector's Edition | 0.20% | ~575 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 287,695 (Ranked 41)  
+Progressed: 287,702 (Ranked 41)  
 Completed: 429 (0.15%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,10 +138,10 @@ Completed: 429 (0.15%) (Ranked 173)
 | 2023-07-13 | 287,362 | 425 |
 | 2023-07-14 | 287,497 | 426 |
 | 2023-07-15 | 287,613 | 428 |
-| 2023-07-16 | 287,695 | 429 |
+| 2023-07-16 | 287,702 | 429 |
 ## Awards
 Max (Character Customization): 21,005  (Ranked 17)  
-Sum: 39,278 (Ranked 30)  
+Sum: 39,284 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -156,7 +156,7 @@ Diff (max vs sum): -13
 | This game is Highly Recommended | 834 |
 | This game has Quickly Understood Controls | 792 |
 | This game has Beautiful Visuals | 736 |
-| This game has a Creative Community | 554 |
+| This game has a Creative Community | 560 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -274,4 +274,4 @@ Diff (max vs sum): -13
 | 2023-07-13 | 4.77 | 20,943 | 39,111 |
 | 2023-07-14 | 4.77 | 20,971 | 39,184 |
 | 2023-07-15 | 4.77 | 20,971 | 39,239 |
-| 2023-07-16 | 4.77 | 21,005 | 39,278 |
+| 2023-07-16 | 4.77 | 21,005 | 39,284 |

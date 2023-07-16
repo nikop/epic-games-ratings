@@ -4,13 +4,13 @@
 Rating: 4.66 (Ranked 272)  
 ## Awards
 Max (Quickly Understood Controls): 83  (Ranked 353)  
-Sum: 582 (Ranked 291)  
+Sum: 584 (Ranked 291)  
 Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 83 |
+| This game is Great for Beginners | 82 |
 | This game has Amazing Storytelling | 81 |
-| This game is Great for Beginners | 80 |
 | This game is Extremely Fun | 71 |
 | This game has Amazing Characters | 68 |
 | This game has Diverse Characters | 68 |
@@ -76,4 +76,4 @@ Diff (max vs sum): 62
 | 2023-07-13 | 4.66 | 82 | 570 |
 | 2023-07-14 | 4.66 | 82 | 572 |
 | 2023-07-15 | 4.66 | 82 | 578 |
-| 2023-07-16 | 4.66 | 83 | 582 |
+| 2023-07-16 | 4.66 | 83 | 584 |

@@ -6,15 +6,15 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 75.00% | ~2,286 |
-| Ready for Winter | 64.00% | ~1,951 |
-| Ready for Summer | 51.00% | ~1,554 |
-| Cordon Bleu | 44.00% | ~1,341 |
+| Venture Outward | 75.00% | ~2,288 |
+| Ready for Winter | 64.00% | ~1,952 |
+| Ready for Summer | 51.00% | ~1,556 |
+| Cordon Bleu | 44.00% | ~1,342 |
 | Tapped! | 37.00% | ~1,128 |
-| Eureka | 32.00% | ~975 |
-| Scourge Slayer | 26.00% | ~792 |
-| Exceptional Skill | 23.00% | ~701 |
-| Science, Troglodyte! | 23.00% | ~701 |
+| Eureka | 32.00% | ~976 |
+| Scourge Slayer | 26.00% | ~793 |
+| Science, Troglodyte! | 23.00% | ~702 |
+| Exceptional Skill | 22.00% | ~671 |
 | Home Sweet Home | 22.00% | ~671 |
 | Encyclopedic! | 20.00% | ~610 |
 | A Fortress Toppled! | 16.00% | ~488 |
@@ -27,16 +27,16 @@ Number of Ratings: 266  (23.09.2022)
 | Gift from the Ancestors | 8.00% | ~244 |
 | House of Cards | 8.00% | ~244 |
 | Magic is a science | 8.00% | ~244 |
-| Let ‘em eat magma! | 7.00% | ~213 |
-| The power of ambition | 7.00% | ~213 |
-| The stuff of legends. | 7.00% | ~213 |
+| Let ‘em eat magma! | 7.00% | ~214 |
+| The power of ambition | 7.00% | ~214 |
+| The stuff of legends. | 7.00% | ~214 |
 | Blood and justice | 6.00% | ~183 |
 | Hold my Mead and Watch This | 6.00% | ~183 |
 | Ancestor's Pride | 4.00% | ~122 |
 | For All Aurai | 4.00% | ~122 |
 | Memory of a legend | 4.00% | ~122 |
-| Light of Levant | 3.00% | ~91 |
-| This was a mistake... | 3.00% | ~91 |
+| Light of Levant | 3.00% | ~92 |
+| This was a mistake... | 3.00% | ~92 |
 | Crowd Pleaser. | 2.00% | ~61 |
 | Perfect Defense | 2.00% | ~61 |
 | Power! To! The People! | 2.00% | ~61 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~9 |
 | The Absolute Pinnacle. | 0.30% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,048 (Ranked 150)  
+Progressed: 3,050 (Ranked 150)  
 Completed: 3 (0.10%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 3 (0.10%) (Ranked 183)
 | 2023-07-12 | 3,039 | 3 |
 | 2023-07-14 | 3,041 | 3 |
 | 2023-07-15 | 3,047 | 3 |
-| 2023-07-16 | 3,048 | 3 |
+| 2023-07-16 | 3,050 | 3 |
 ## Awards
 Max (Highly Recommended): 33  (Ranked 442)  
 Sum: 241 (Ranked 349)  
