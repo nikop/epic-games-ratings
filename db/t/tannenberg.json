@@ -2,13 +2,13 @@
   "ID": "538de058a6d9490ea151c4cd111cc01b",
   "Name": "Tannenberg",
   "ProductSlug": "tannenberg",
-  "Ranking_Rating": 703,
+  "Ranking_Rating": 702,
   "Ranking_Popularity": 226,
   "Ranking_PopularitySum": 167,
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 46,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
     "PcReleaseDate": "2017-11-16T15:00:00+00:00",
@@ -3226,7 +3226,7 @@
   ],
   "EOS_Progressed": 120827,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 1211,
+  "EOS_NewPlayers": 1210,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13137,8 +13137,8 @@
   "FirstSeen": "2022-07-22T20:24:54.2486297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:19.3256152+00:00",
   "LastChanged": "2023-07-15T15:05:49.1086109+00:00",
-  "LastChanged_Achievements": "2023-07-16T03:31:38.671556+00:00",
+  "LastChanged_Achievements": "2023-07-16T04:04:40.1523179+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:03.9519067+00:00",
-  "LastUpdate_Ratings": "2023-07-16T03:28:29.8008999+00:00",
-  "LastUpdate_Achievements": "2023-07-16T03:31:38.6717152+00:00"
+  "LastUpdate_Ratings": "2023-07-16T04:02:03.5169954+00:00",
+  "LastUpdate_Achievements": "2023-07-16T04:04:40.152421+00:00"
 }

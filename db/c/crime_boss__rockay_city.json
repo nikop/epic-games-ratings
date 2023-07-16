@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -2532,9 +2532,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 68956,
+  "EOS_Progressed": 68959,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 383,
+  "EOS_NewPlayers": 385,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -11567,6 +11567,11 @@
       "Time": "2023-07-16T03:32:32.2690051+00:00",
       "NumProgressed": 68956,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-07-16T04:05:54.4426623+00:00",
+      "NumProgressed": 68959,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 37,
@@ -11578,7 +11583,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 34478
+      "UsersEstimate": 34480
     },
     {
       "ID": "ACH_0011",
@@ -11586,7 +11591,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 19997
+      "UsersEstimate": 19998
     },
     {
       "ID": "ACH_0012",
@@ -11602,7 +11607,7 @@
       "Name": "Hidden Sonata",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8964
+      "UsersEstimate": 8965
     },
     {
       "ID": "ACH_0014",
@@ -11658,7 +11663,7 @@
       "Name": "I Like Trains",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5516
+      "UsersEstimate": 5517
     },
     {
       "ID": "ACH_0050",
@@ -11690,7 +11695,7 @@
       "Name": "Headhunter",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5516
+      "UsersEstimate": 5517
     },
     {
       "ID": "ACH_0101",
@@ -11722,7 +11727,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 44821
+      "UsersEstimate": 44823
     },
     {
       "ID": "ACH_0210",
@@ -11730,7 +11735,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 51027
+      "UsersEstimate": 51030
     },
     {
       "ID": "ACH_0211",
@@ -11746,7 +11751,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 32409
+      "UsersEstimate": 32411
     },
     {
       "ID": "ACH_0300",
@@ -11770,7 +11775,7 @@
       "Name": "Ding Dong",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5516
+      "UsersEstimate": 5517
     },
     {
       "ID": "ACH_0340",
@@ -11794,7 +11799,7 @@
       "Name": "Case Closed",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 23445
+      "UsersEstimate": 23446
     },
     {
       "ID": "ACH_0420",
@@ -11802,7 +11807,7 @@
       "Name": "King of the Hill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 23445
+      "UsersEstimate": 23446
     },
     {
       "ID": "ACH_0430",
@@ -11810,7 +11815,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 24135
+      "UsersEstimate": 24136
     },
     {
       "ID": "ACH_0431",
@@ -11873,7 +11878,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 68956,
+      "Progressed": 68959,
       "Completed": 36
     }
   ],
@@ -11881,8 +11886,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-07-15T17:04:53.5219133+00:00",
-  "LastChanged_Achievements": "2023-07-16T03:32:32.2690044+00:00",
+  "LastChanged_Achievements": "2023-07-16T04:05:54.4426616+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:02.3078188+00:00",
-  "LastUpdate_Ratings": "2023-07-16T03:28:27.1629182+00:00",
-  "LastUpdate_Achievements": "2023-07-16T03:32:32.2691586+00:00"
+  "LastUpdate_Ratings": "2023-07-16T04:02:02.1889773+00:00",
+  "LastUpdate_Achievements": "2023-07-16T04:05:54.4427778+00:00"
 }

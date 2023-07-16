@@ -6,7 +6,7 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 34.00% | ~19,512 |
+| Follow the Light | 34.00% | ~19,513 |
 | Let There Be Light | 27.00% | ~15,495 |
 | Float Like a Butterfly | 26.00% | ~14,921 |
 | Nordic Walking | 21.00% | ~12,052 |
@@ -14,8 +14,8 @@ Number of Ratings: 524  (23.09.2022)
 | Under a Thin Layer of Skin | 18.00% | ~10,330 |
 | Park Ranger | 15.00% | ~8,608 |
 | Paging Mr. Wake | 15.00% | ~8,608 |
-| Back! Back, I Say! | 14.00% | ~8,034 |
-| Finders Keepers | 14.00% | ~8,034 |
+| Back! Back, I Say! | 14.00% | ~8,035 |
+| Finders Keepers | 14.00% | ~8,035 |
 | Sound and Fury | 13.00% | ~7,461 |
 | Damn Good Cup of Coffee | 13.00% | ~7,461 |
 | Wheels Within Wheels | 12.00% | ~6,887 |
@@ -39,8 +39,8 @@ Number of Ratings: 524  (23.09.2022)
 | What Light Through Yonder Window | 7.00% | ~4,017 |
 | Departure | 6.00% | ~3,443 |
 | A Friend Indeed | 6.00% | ~1,251 |
-| Drink 'Em Both Up | 5.00% | ~2,869 |
-| Hardboiled Writer | 5.00% | ~2,869 |
+| Drink 'Em Both Up | 5.00% | ~2,870 |
+| Hardboiled Writer | 5.00% | ~2,870 |
 | Ding! | 5.00% | ~1,043 |
 | Boob Tube | 4.00% | ~2,296 |
 | Children of the Elder God | 4.00% | ~2,296 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~57 |
 | No Punctuation | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,389 (Ranked 82)  
+Progressed: 57,390 (Ranked 82)  
 Completed: 58 (0.10%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 58 (0.10%) (Ranked 183)
 | 2023-07-13 | 57,298 | 57 |
 | 2023-07-14 | 57,331 | 57 |
 | 2023-07-15 | 57,378 | 58 |
-| 2023-07-16 | 57,389 | 58 |
+| 2023-07-16 | 57,390 | 58 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

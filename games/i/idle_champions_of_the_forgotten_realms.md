@@ -11,6 +11,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Crumbling Temple | 0.20% | ~424 |
 | Seeking Allies | 0.20% | ~424 |
 | Are Ya Chicken? | 0.20% | ~424 |
+| Useless Allies | 0.20% | ~424 |
 | Mad Cow Disease | 0.20% | ~424 |
 | Exploring Port Nyanzaru | 0.20% | ~424 |
 | The Contagious Curse | 0.20% | ~424 |
@@ -54,7 +55,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Shadowfell Stalwarts | 0.10% | ~178 |
 | Nimble Escape | 0.10% | ~212 |
 | Nimblest Escape | 0.10% | ~212 |
-| Useless Allies | 0.10% | ~212 |
 | Stumbling Escape | 0.10% | ~212 |
 | Distracted Escape | 0.10% | ~178 |
 | Fugitives | 0.10% | ~212 |
@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212,086 (Ranked 52)  
+Progressed: 212,096 (Ranked 52)  
 Completed: 2,054 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -601,7 +601,7 @@ Completed: 2,054 (0.97%) (Ranked 102)
 | 2023-07-13 | 211,069 | 2,049 |
 | 2023-07-14 | 211,507 | 2,050 |
 | 2023-07-15 | 212,014 | 2,053 |
-| 2023-07-16 | 212,086 | 2,054 |
+| 2023-07-16 | 212,096 | 2,054 |
 ## Awards
 Max (Diverse Characters): 5,036  (Ranked 66)  
 Sum: 30,535 (Ranked 38)  

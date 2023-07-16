@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37716,
+  "EOS_Progressed": 37717,
   "EOS_Completed": 190,
-  "EOS_NewPlayers": 690,
+  "EOS_NewPlayers": 687,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -8639,6 +8639,11 @@
       "Time": "2023-07-16T03:31:13.5315081+00:00",
       "NumProgressed": 37716,
       "NumCompleted": 190
+    },
+    {
+      "Time": "2023-07-16T04:04:06.1937127+00:00",
+      "NumProgressed": 37717,
+      "NumCompleted": 190
     }
   ],
   "TotalAchievements": 44,
@@ -8650,7 +8655,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 21498
+      "UsersEstimate": 21499
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -8666,7 +8671,7 @@
       "Name": "Embers",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 7920
+      "UsersEstimate": 7921
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -8698,7 +8703,7 @@
       "Name": "Hatching",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3394
+      "UsersEstimate": 3395
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -8706,7 +8711,7 @@
       "Name": "Bonds",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 3394
+      "UsersEstimate": 3395
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -8754,7 +8759,7 @@
       "Name": "The Lion\u2019s Den",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1132
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -8762,7 +8767,7 @@
       "Name": "Heart of Fire",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1132
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -8770,7 +8775,7 @@
       "Name": "First Steps",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 30550
+      "UsersEstimate": 30551
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -8794,7 +8799,7 @@
       "Name": "Get Over Here",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3394
+      "UsersEstimate": 3395
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -8818,7 +8823,7 @@
       "Name": "The Hidden Village",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 3394
+      "UsersEstimate": 3395
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -8890,7 +8895,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 23761
+      "UsersEstimate": 23762
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -8898,7 +8903,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 10183
+      "UsersEstimate": 10184
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -8954,7 +8959,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 16972
+      "UsersEstimate": 16973
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -8978,7 +8983,7 @@
       "Name": "Forest Spirits",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1132
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -8986,7 +8991,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 35076
+      "UsersEstimate": 35077
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -8994,14 +8999,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 19612
+      "UsersEstimate": 19613
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 37716,
+      "Progressed": 37717,
       "Completed": 190
     }
   ],
@@ -9009,8 +9014,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-06-11T14:58:10.4478603+00:00",
-  "LastChanged_Achievements": "2023-07-16T03:31:13.5315076+00:00",
+  "LastChanged_Achievements": "2023-07-16T04:04:06.1937122+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:14.384662+00:00",
-  "LastUpdate_Ratings": "2023-07-16T03:26:42.0336442+00:00",
-  "LastUpdate_Achievements": "2023-07-16T03:31:13.5316043+00:00"
+  "LastUpdate_Ratings": "2023-07-16T03:59:48.7920904+00:00",
+  "LastUpdate_Achievements": "2023-07-16T04:04:06.1938639+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 49,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -366,9 +366,9 @@
       "Count": 74
     }
   ],
-  "EOS_Progressed": 237409,
+  "EOS_Progressed": 237412,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1115,
+  "EOS_NewPlayers": 1114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9716,6 +9716,11 @@
       "Time": "2023-07-16T03:31:42.8690323+00:00",
       "NumProgressed": 237409,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-07-16T04:04:45.9008995+00:00",
+      "NumProgressed": 237412,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -9727,7 +9732,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 64100
+      "UsersEstimate": 64101
     },
     {
       "ID": "ACH_AON",
@@ -9943,7 +9948,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 56978
+      "UsersEstimate": 56979
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -9959,7 +9964,7 @@
       "Name": "Good listener",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 11870
+      "UsersEstimate": 11871
     },
     {
       "ID": "ACH_LETSOTHERTHINKING",
@@ -10047,7 +10052,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 59352
+      "UsersEstimate": 59353
     },
     {
       "ID": "ACH_SOREAD",
@@ -10095,7 +10100,7 @@
       "Name": "Trash compactor",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11870
+      "UsersEstimate": 11871
     },
     {
       "ID": "ACH_TROLLKING",
@@ -10111,7 +10116,7 @@
       "Name": "Valedictorian",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 11870
+      "UsersEstimate": 11871
     },
     {
       "ID": "ACH_WAKEUP",
@@ -10142,7 +10147,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 237409,
+      "Progressed": 237412,
       "Completed": 7
     }
   ],
@@ -10150,8 +10155,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-07-15T02:24:18.1654153+00:00",
-  "LastChanged_Achievements": "2023-07-16T03:31:42.8690317+00:00",
+  "LastChanged_Achievements": "2023-07-16T04:04:45.900899+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:33.5195564+00:00",
-  "LastUpdate_Ratings": "2023-07-16T03:26:18.3736459+00:00",
-  "LastUpdate_Achievements": "2023-07-16T03:31:42.8691804+00:00"
+  "LastUpdate_Ratings": "2023-07-16T03:59:12.8542814+00:00",
+  "LastUpdate_Achievements": "2023-07-16T04:04:45.9010363+00:00"
 }
