@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 40,
+  "Ranking_EOS_NewPlayers": 41,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -5070,9 +5070,9 @@
       "Count": 560
     }
   ],
-  "EOS_Progressed": 287709,
+  "EOS_Progressed": 287712,
   "EOS_Completed": 429,
-  "EOS_NewPlayers": 1507,
+  "EOS_NewPlayers": 1486,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -14405,6 +14405,11 @@
       "Time": "2023-07-16T15:04:30.7903869+00:00",
       "NumProgressed": 287709,
       "NumCompleted": 429
+    },
+    {
+      "Time": "2023-07-16T16:03:56.0862899+00:00",
+      "NumProgressed": 287712,
+      "NumCompleted": 429
     }
   ],
   "TotalAchievements": 45,
@@ -14456,7 +14461,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 5,
       "XP": 70,
-      "UsersEstimate": 14385
+      "UsersEstimate": 14386
     },
     {
       "ID": "PFA_15",
@@ -14552,7 +14557,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14385
+      "UsersEstimate": 14386
     },
     {
       "ID": "PFA_26",
@@ -14704,7 +14709,7 @@
       "Name": "Raising Expectations",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 14385
+      "UsersEstimate": 14386
     },
     {
       "ID": "PFA_43",
@@ -14775,7 +14780,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 287709,
+      "Progressed": 287712,
       "Completed": 429
     }
   ],
@@ -14783,8 +14788,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-07-16T14:57:55.5561447+00:00",
-  "LastChanged_Achievements": "2023-07-16T15:04:30.7903865+00:00",
+  "LastChanged_Achievements": "2023-07-16T16:03:56.0862892+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:19.3801839+00:00",
-  "LastUpdate_Ratings": "2023-07-16T14:57:55.5561452+00:00",
-  "LastUpdate_Achievements": "2023-07-16T15:04:30.7904592+00:00"
+  "LastUpdate_Ratings": "2023-07-16T15:57:38.5595754+00:00",
+  "LastUpdate_Achievements": "2023-07-16T16:03:56.0863882+00:00"
 }

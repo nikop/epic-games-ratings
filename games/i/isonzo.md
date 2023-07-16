@@ -137,12 +137,12 @@ Completed: 8 (0.13%) (Ranked 178)
 | 2023-07-15 | 6,368 | 8 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 435)  
-Sum: 256 (Ranked 347)  
+Sum: 257 (Ranked 347)  
 Diff (max vs sum): 88  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 35 |
-| This game is Extremely Fun | 31 |
+| This game is Extremely Fun | 32 |
 | This game has Amazing Characters | 29 |
 | This game has Quickly Understood Controls | 28 |
 | This game has Diverse Characters | 28 |
@@ -244,3 +244,4 @@ Diff (max vs sum): 88
 | 2023-07-01 | 4.56 | - | 35 | 256 |
 | 2023-07-03 | 4.57 | - | 35 | 256 |
 | 2023-07-04 | 4.56 | - | 35 | 256 |
+| 2023-07-16 | 4.56 | - | 35 | 257 |

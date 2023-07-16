@@ -5,9 +5,9 @@ Rating: 4.08 (Ranked 896)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,540 |
-| World Map | 79.00% | ~1,308 |
-| Temple of Eternals | 56.00% | ~927 |
+| Victor | 93.00% | ~1,541 |
+| World Map | 79.00% | ~1,309 |
+| Temple of Eternals | 56.00% | ~928 |
 | Prestigious | 53.00% | ~878 |
 | Fellowship Power | 41.00% | ~679 |
 | Guild Power | 25.00% | ~414 |
@@ -16,8 +16,8 @@ Rating: 4.08 (Ranked 896)
 | Exotic Merchant | 17.00% | ~282 |
 | Dragon Clicker | 16.00% | ~265 |
 | Miner Clicker | 16.00% | ~265 |
-| Full Party | 15.00% | ~248 |
-| Inspection | 15.00% | ~248 |
+| Full Party | 15.00% | ~249 |
+| Inspection | 15.00% | ~249 |
 | Dragon Master | 14.00% | ~232 |
 | Enlightenment | 14.00% | ~232 |
 | Hero inspection | 14.00% | ~232 |
@@ -39,7 +39,7 @@ Rating: 4.08 (Ranked 896)
 | Frostfire Liberator | 9.00% | ~149 |
 | Mastery | 9.00% | ~149 |
 | Moving Up The Ladder | 9.00% | ~149 |
-| The father of Dragons | 8.00% | ~132 |
+| The father of Dragons | 8.00% | ~133 |
 | Here We Go Again | 7.00% | ~116 |
 | Master Enchanter | 7.00% | ~116 |
 | The Expeditioner | 7.00% | ~116 |
@@ -81,7 +81,7 @@ Rating: 4.08 (Ranked 896)
 | War Machines Army | 0.20% | ~3 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,656 (Ranked 169)  
+Progressed: 1,657 (Ranked 169)  
 Completed: 1 (0.06%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 1 (0.06%) (Ranked 197)
 | 2023-07-13 | 1,630 | 1 |
 | 2023-07-14 | 1,638 | 1 |
 | 2023-07-15 | 1,647 | 1 |
-| 2023-07-16 | 1,656 | 1 |
+| 2023-07-16 | 1,657 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

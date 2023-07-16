@@ -21,7 +21,7 @@ Number of Ratings: 53  (23.09.2022)
 | Pirates! | 35.00% | ~257 |
 | Megalomania | 29.00% | ~213 |
 | Collectionitis | 28.00% | ~205 |
-| Christening | 26.00% | ~191 |
+| Christening | 27.00% | ~198 |
 | Groundskeeper | 26.00% | ~191 |
 | Wholesale | 23.00% | ~169 |
 | Walk the plank | 21.00% | ~154 |

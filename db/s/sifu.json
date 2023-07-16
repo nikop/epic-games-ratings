@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 80,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -5172,10 +5172,10 @@
       "Count": 365
     }
   ],
-  "EOS_Progressed": 710809,
+  "EOS_Progressed": 710815,
   "EOS_Completed": 12819,
-  "EOS_NewPlayers": 191,
-  "EOS_NewCompleters": 11,
+  "EOS_NewPlayers": 196,
+  "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
     {
@@ -13297,6 +13297,11 @@
       "Time": "2023-07-16T15:07:38.5418552+00:00",
       "NumProgressed": 710809,
       "NumCompleted": 12819
+    },
+    {
+      "Time": "2023-07-16T16:06:18.7645109+00:00",
+      "NumProgressed": 710815,
+      "NumCompleted": 12819
     }
   ],
   "TotalAchievements": 50,
@@ -13644,7 +13649,7 @@
       "Name": "Project Arena",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 804
+      "UsersEstimate": 805
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -13707,21 +13712,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 20110,
+      "Progressed": 20116,
       "Completed": 10407
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 710809,
+      "Progressed": 710815,
       "Completed": 12819
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-16T14:59:42.6075009+00:00",
-  "LastChanged_Achievements": "2023-07-16T15:07:38.5418547+00:00",
+  "LastChanged_Achievements": "2023-07-16T16:06:18.7645103+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:57.8822848+00:00",
-  "LastUpdate_Ratings": "2023-07-16T14:59:42.6075014+00:00",
-  "LastUpdate_Achievements": "2023-07-16T15:07:38.541924+00:00"
+  "LastUpdate_Ratings": "2023-07-16T15:59:16.5554005+00:00",
+  "LastUpdate_Achievements": "2023-07-16T16:06:18.7646455+00:00"
 }

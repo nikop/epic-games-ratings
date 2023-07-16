@@ -6,6 +6,7 @@ Rating: 4.43 (Ranked 656)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Liberté | 3.00% | ~99 |
+| Lord of War | 3.00% | ~99 |
 | Taking it back | 3.00% | ~99 |
 | Target America | 3.00% | ~99 |
 | The Kraken Sleeps | 3.00% | ~99 |
@@ -16,7 +17,6 @@ Rating: 4.43 (Ranked 656)
 | Gunslinger | 2.00% | ~66 |
 | Sharpshooter | 2.00% | ~66 |
 | Confirming Suspicions | 2.00% | ~66 |
-| Lord of War | 2.00% | ~66 |
 | Resourceful | 2.00% | ~66 |
 | Der Geist | 2.00% | ~66 |
 | As Quiet as a Mouse | 2.00% | ~66 |
@@ -77,7 +77,7 @@ Rating: 4.43 (Ranked 656)
 | Alpha | 0.10% | ~3 |
 | Das Familienjuwel | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,289 (Ranked 147)  
+Progressed: 3,290 (Ranked 147)  
 Completed: 9 (0.27%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 9 (0.27%) (Ranked 153)
 | 2023-07-13 | 3,269 | 9 |
 | 2023-07-14 | 3,277 | 9 |
 | 2023-07-15 | 3,287 | 9 |
-| 2023-07-16 | 3,289 | 9 |
+| 2023-07-16 | 3,290 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

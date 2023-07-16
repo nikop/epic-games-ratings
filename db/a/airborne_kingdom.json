@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6803,
+  "EOS_Progressed": 6804,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -2708,6 +2708,11 @@
       "Time": "2023-07-16T08:03:28.0472649+00:00",
       "NumProgressed": 6803,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-07-16T16:02:38.4888971+00:00",
+      "NumProgressed": 6804,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 27,
@@ -2735,7 +2740,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2789
+      "UsersEstimate": 2790
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -2807,7 +2812,7 @@
       "Name": "A Learned Scholar",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "AK_ON_TOWN",
@@ -2823,7 +2828,7 @@
       "Name": "A Peaceful Respite",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "AK_PROPHECY_FULFILLED",
@@ -2831,7 +2836,7 @@
       "Name": "Prophecy Fulfilled",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "AK_PYRE_IGNITED",
@@ -2855,7 +2860,7 @@
       "Name": "Seekers Found",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2789
+      "UsersEstimate": 2790
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -2863,7 +2868,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2789
+      "UsersEstimate": 2790
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -2919,7 +2924,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2721
+      "UsersEstimate": 2722
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -2934,15 +2939,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6803,
+      "Progressed": 6804,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-07-16T15:03:28.9139094+00:00",
+  "LastChanged_Achievements": "2023-07-16T16:02:38.4888965+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:22.4116679+00:00",
-  "LastUpdate_Ratings": "2023-07-16T14:57:56.4290121+00:00",
-  "LastUpdate_Achievements": "2023-07-16T15:03:28.9139356+00:00"
+  "LastUpdate_Ratings": "2023-07-16T15:57:39.188818+00:00",
+  "LastUpdate_Achievements": "2023-07-16T16:02:38.4889341+00:00"
 }

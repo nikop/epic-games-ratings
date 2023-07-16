@@ -3447,9 +3447,9 @@
       "ID": "A10",
       "SetID": "9b7p7eo",
       "Name": "From X to Y",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1135
     },
     {
       "ID": "A11",
@@ -3599,9 +3599,9 @@
       "ID": "A29",
       "SetID": "9b7p7eo",
       "Name": "Going once, going twice, sold",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 536
+      "UsersEstimate": 552
     },
     {
       "ID": "A30",
@@ -3711,9 +3711,9 @@
       "ID": "A43",
       "SetID": "9b7p7eo",
       "Name": "Mole",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 441
+      "UsersEstimate": 457
     },
     {
       "ID": "A44",
@@ -3783,9 +3783,9 @@
       "ID": "A52",
       "SetID": "9b7p7eo",
       "Name": "Socializer",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 441
+      "UsersEstimate": 457
     },
     {
       "ID": "A53",
@@ -3816,8 +3816,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-07-15T13:11:52.2660049+00:00",
-  "LastChanged_Achievements": "2023-07-16T15:03:32.7090374+00:00",
+  "LastChanged_Achievements": "2023-07-16T16:03:11.3635117+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:48.1822596+00:00",
-  "LastUpdate_Ratings": "2023-07-16T14:58:41.2943825+00:00",
-  "LastUpdate_Achievements": "2023-07-16T15:03:32.7090895+00:00"
+  "LastUpdate_Ratings": "2023-07-16T15:58:18.8978808+00:00",
+  "LastUpdate_Achievements": "2023-07-16T16:03:11.3635822+00:00"
 }

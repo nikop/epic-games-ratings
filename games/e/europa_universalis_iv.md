@@ -6,44 +6,44 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,338 |
-| That's a Grand Army | 8.00% | ~5,634 |
-| That is mine! | 8.00% | ~5,634 |
-| Victorious! | 8.00% | ~5,634 |
-| Brothers in Arms | 6.00% | ~4,225 |
-| That's a Grand Navy | 6.00% | ~4,225 |
-| Seriously?! | 6.00% | ~4,225 |
-| For the Glory | 5.00% | ~3,521 |
-| Cold War | 4.00% | ~2,817 |
-| True Catholic | 4.00% | ~2,817 |
-| Defender of the Faith | 3.00% | ~2,113 |
-| It's all about luck | 3.00% | ~2,113 |
-| It's all about the money | 3.00% | ~2,113 |
-| Respected | 3.00% | ~2,113 |
-| The Princess is in this Castle | 3.00% | ~2,113 |
-| Truly Divine Ruler | 3.00% | ~2,113 |
-| Agressive Expander | 2.00% | ~1,408 |
-| Blockader | 2.00% | ~1,408 |
-| Combined Arms | 2.00% | ~1,408 |
-| Double the Love | 2.00% | ~1,408 |
-| Gentle Persuasion | 2.00% | ~1,408 |
-| My armies are invincible! | 2.00% | ~1,408 |
-| Queen of Conquest | 2.00% | ~1,408 |
-| Royal Authority | 2.00% | ~1,408 |
-| Total Control | 2.00% | ~1,408 |
-| All That's Thine Shall Be Mine | 1.00% | ~704 |
-| Azur semé de lis or | 1.00% | ~704 |
-| Bright Spark | 1.00% | ~704 |
-| City of Cities | 1.00% | ~704 |
-| The Emperors new clothes | 1.00% | ~704 |
-| Factionalism | 1.00% | ~704 |
-| A Golden Empire | 1.00% | ~704 |
-| The Five Colonies | 1.00% | ~704 |
-| This navy can take it all | 1.00% | ~704 |
+| Until death do us apart | 9.00% | ~6,341 |
+| That's a Grand Army | 8.00% | ~5,637 |
+| That is mine! | 8.00% | ~5,637 |
+| Victorious! | 8.00% | ~5,637 |
+| Brothers in Arms | 6.00% | ~4,227 |
+| That's a Grand Navy | 6.00% | ~4,227 |
+| Seriously?! | 6.00% | ~4,227 |
+| For the Glory | 5.00% | ~3,523 |
+| Cold War | 4.00% | ~2,818 |
+| True Catholic | 4.00% | ~2,818 |
+| Defender of the Faith | 3.00% | ~2,114 |
+| It's all about luck | 3.00% | ~2,114 |
+| It's all about the money | 3.00% | ~2,114 |
+| Respected | 3.00% | ~2,114 |
+| The Princess is in this Castle | 3.00% | ~2,114 |
+| Truly Divine Ruler | 3.00% | ~2,114 |
+| Agressive Expander | 2.00% | ~1,409 |
+| Blockader | 2.00% | ~1,409 |
+| Combined Arms | 2.00% | ~1,409 |
+| Double the Love | 2.00% | ~1,409 |
+| Gentle Persuasion | 2.00% | ~1,409 |
+| My armies are invincible! | 2.00% | ~1,409 |
+| Queen of Conquest | 2.00% | ~1,409 |
+| Royal Authority | 2.00% | ~1,409 |
+| Total Control | 2.00% | ~1,409 |
+| All That's Thine Shall Be Mine | 1.00% | ~705 |
+| Azur semé de lis or | 1.00% | ~705 |
+| Bright Spark | 1.00% | ~705 |
+| City of Cities | 1.00% | ~705 |
+| The Emperors new clothes | 1.00% | ~705 |
+| Factionalism | 1.00% | ~705 |
+| A Golden Empire | 1.00% | ~705 |
+| The Five Colonies | 1.00% | ~705 |
+| This navy can take it all | 1.00% | ~705 |
 | Isn't this the way to India? | 0.90% | ~634 |
 | Market Control | 0.90% | ~634 |
 | Trustworthy | 0.90% | ~634 |
-| Down Under | 0.80% | ~563 |
+| Down Under | 0.80% | ~564 |
 | Electable! | 0.70% | ~493 |
 | Populists in Government | 0.70% | ~493 |
 | All belongs to Mother Russia | 0.60% | ~423 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 70,420 (Ranked 74)  
+Progressed: 70,458 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -448,16 +448,16 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-13 | 69,319 | 0 |
 | 2023-07-14 | 69,707 | 0 |
 | 2023-07-15 | 70,161 | 0 |
-| 2023-07-16 | 70,420 | 0 |
+| 2023-07-16 | 70,458 | 0 |
 ## Awards
 Max (Educational): 5,546  (Ranked 60)  
-Sum: 45,748 (Ranked 26)  
+Sum: 45,752 (Ranked 26)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,546 |
 | This game is Highly Recommended | 5,307 |
-| This game has Challenging Combat | 5,268 |
+| This game has Challenging Combat | 5,272 |
 | This game is Extremely Fun | 5,260 |
 | This game has Diverse Characters | 5,221 |
 | This game is Relaxing | 5,132 |
@@ -648,4 +648,4 @@ Diff (max vs sum): 34
 | 2023-07-13 | 4.69 | - | 5,540 | 45,689 |
 | 2023-07-14 | 4.69 | - | 5,541 | 45,702 |
 | 2023-07-15 | 4.69 | - | 5,541 | 45,728 |
-| 2023-07-16 | 4.69 | - | 5,546 | 45,748 |
+| 2023-07-16 | 4.69 | - | 5,546 | 45,752 |

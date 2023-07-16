@@ -6,16 +6,16 @@ Number of Ratings: 63  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quinceañera Time | 98.00% | ~5,031 |
-| The Journey Begins | 98.00% | ~5,031 |
+| Quinceañera Time | 98.00% | ~5,032 |
+| The Journey Begins | 98.00% | ~5,032 |
 | Slaughterhouse 5 (200 times) | 78.00% | ~4,005 |
-| There is No Escape | 71.00% | ~3,645 |
-| Fun, Flirty, and Thirty | 62.00% | ~3,183 |
-| Royal Flush | 62.00% | ~3,183 |
-| Timber! | 60.00% | ~3,080 |
-| Survive the Bombsequences | 59.00% | ~3,029 |
-| Killed 20 Jerks | 54.00% | ~2,772 |
-| Death Defied | 53.00% | ~2,721 |
+| There is No Escape | 71.00% | ~3,646 |
+| Fun, Flirty, and Thirty | 62.00% | ~3,184 |
+| Royal Flush | 62.00% | ~3,184 |
+| Timber! | 60.00% | ~3,081 |
+| Survive the Bombsequences | 59.00% | ~3,030 |
+| Killed 20 Jerks | 54.00% | ~2,773 |
+| Death Defied | 53.00% | ~2,722 |
 | Fortunate Soul | 49.00% | ~2,516 |
 | Jerk-Slayer | 43.00% | ~2,208 |
 | Employee of the Month | 37.00% | ~1,900 |
@@ -27,19 +27,19 @@ Number of Ratings: 63  (23.09.2022)
 | Humerus Achievement | 31.00% | ~1,592 |
 | Ghost Facers! | 27.00% | ~1,386 |
 | If It Bleeds, You Can Kill It | 21.00% | ~1,078 |
-| Royal Flush, Again | 19.00% | ~975 |
+| Royal Flush, Again | 19.00% | ~976 |
 | Trying To Get Into That 1%, Huh? | 18.00% | ~924 |
 | Can't Touch This | 18.00% | ~924 |
-| Yummy! | 16.00% | ~821 |
-| That Was Quick | 16.00% | ~821 |
+| Yummy! | 16.00% | ~822 |
+| That Was Quick | 16.00% | ~822 |
 | Goldrush Glory Days | 15.00% | ~770 |
 | Best Party Guest | 15.00% | ~770 |
 | Shrub it Off | 15.00% | ~770 |
 | Collected 50 mushrooms | 14.00% | ~719 |
 | Budding Gardener | 14.00% | ~719 |
-| Stop Hitting Each Other | 13.00% | ~667 |
-| Ultimate Jerk | 13.00% | ~667 |
-| Hot Potato | 10.00% | ~513 |
+| Stop Hitting Each Other | 13.00% | ~668 |
+| Ultimate Jerk | 13.00% | ~668 |
+| Hot Potato | 10.00% | ~514 |
 | Off the Beaten Path | 9.00% | ~462 |
 | It's Been a Blast | 9.00% | ~462 |
 | For Rock and Stone! | 9.00% | ~462 |
@@ -56,7 +56,7 @@ Number of Ratings: 63  (23.09.2022)
 | Backdraft | 0.60% | ~31 |
 | Completionist | 0.60% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,134 (Ranked 135)  
+Progressed: 5,135 (Ranked 135)  
 Completed: 29 (0.56%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,6 +107,7 @@ Completed: 29 (0.56%) (Ranked 122)
 | 2023-07-06 | 5,131 | 29 |
 | 2023-07-08 | 5,132 | 29 |
 | 2023-07-13 | 5,134 | 29 |
+| 2023-07-16 | 5,135 | 29 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

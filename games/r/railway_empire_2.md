@@ -7,8 +7,8 @@ Rating: 4.49 (Ranked 576)
 | ---- | ---------- | ----- |
 | Country Bumpkin | 74.00% | ~1,166 |
 | A new Journey | 73.00% | ~1,150 |
+| From X to Y | 72.00% | ~1,135 |
 | Departure | 72.00% | ~1,135 |
-| From X to Y | 71.00% | ~1,119 |
 | Way of Iron | 70.00% | ~1,103 |
 | Mystery Tour | 68.00% | ~1,072 |
 | We brake for nobody | 67.00% | ~1,056 |
@@ -23,14 +23,14 @@ Rating: 4.49 (Ranked 576)
 | Apprentice | 42.00% | ~662 |
 | Bridge Builder | 41.00% | ~646 |
 | Access granted | 35.00% | ~552 |
-| Going once, going twice, sold | 34.00% | ~536 |
+| Going once, going twice, sold | 35.00% | ~552 |
 | Stoker | 33.00% | ~520 |
 | Bull and bear | 33.00% | ~520 |
 | Full Steam ahead | 32.00% | ~504 |
 | Financial Shark | 30.00% | ~473 |
 | All mine | 29.00% | ~457 |
-| Mole | 28.00% | ~441 |
-| Socializer | 28.00% | ~441 |
+| Mole | 29.00% | ~457 |
+| Socializer | 29.00% | ~457 |
 | General Manager | 26.00% | ~410 |
 | Country Life | 26.00% | ~410 |
 | Hostile Takeover | 25.00% | ~394 |

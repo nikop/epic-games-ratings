@@ -33,13 +33,13 @@ Rating: 4.48 (Ranked 587)
 | Almost broke the game | 4.00% | ~43 |
 | Better luck next time | 4.00% | ~43 |
 | Dev, this! | 4.00% | ~43 |
+| He who laughs last... | 4.00% | ~43 |
 | Try them all | 3.00% | ~32 |
 | A-mazing! | 3.00% | ~32 |
 | To infinity and gravity! | 3.00% | ~32 |
 | One giant drive for mankind | 3.00% | ~32 |
 | [Sweats profusely] | 3.00% | ~32 |
 | It's like a party! | 3.00% | ~32 |
-| He who laughs last... | 3.00% | ~32 |
 | Healthy competition | 3.00% | ~32 |
 | This is to go, even Further Beyond! | 2.00% | ~21 |
 | Gitting Gud | 2.00% | ~21 |
