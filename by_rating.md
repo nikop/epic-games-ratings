@@ -65,7 +65,7 @@
 | 58 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 87 | 348 |
 | 58 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.83 | 0 | 505 |
 | 65 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 505 |
-| 65 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,634 | 58 |
+| 65 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,639 | 58 |
 | 65 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 505 |
 | 65 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 505 |
 | 65 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 33 | 442 |
@@ -397,7 +397,7 @@
 | 390 | [Control](games/c/control.md) | 4.60 | 8,399 | 40 |
 | 390 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 218 | 256 |
 | 390 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 74 | 364 |
-| 390 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,494 | 27 |
+| 390 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,495 | 27 |
 | 390 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 120 | 312 |
 | 390 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 58 | 389 |
 | 390 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 37 | 429 |
@@ -525,7 +525,7 @@
 | 521 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 40 | 420 |
 | 521 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 29,992 | 15 |
 | 521 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 21 | 493 |
-| 521 | [Fall Guys](games/f/fall_guys.md) | 4.52 | 144,217 | 7 |
+| 521 | [Fall Guys](games/f/fall_guys.md) | 4.52 | 144,280 | 7 |
 | 521 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 517 | 191 |
 | 521 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 101 | 329 |
 | 521 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 148 | 293 |
@@ -697,7 +697,7 @@
 | 692 | [MORDHAU](games/m/mordhau.md) | 4.40 | 407 | 208 |
 | 692 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 0 | 505 |
 | 692 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 0 | 505 |
-| 692 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 422 | 201 |
+| 692 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 424 | 201 |
 | 692 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 0 | 505 |
 | 692 | [The Lion's Song](games/t/the_lion's_song.md) | 4.40 | 0 | 505 |
 | 692 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.40 | 0 | 505 |
@@ -758,20 +758,20 @@
 | 749 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.34 | 68 | 375 |
 | 757 | [Ashen](games/a/ashen.md) | 4.33 | 0 | 505 |
 | 757 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 117 | 314 |
-| 757 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.33 | 55 | 391 |
 | 757 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.33 | 0 | 505 |
 | 757 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 505 |
 | 757 | [Rogue Company](games/r/rogue_company.md) | 4.33 | 5,144 | 65 |
 | 757 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.33 | 0 | 505 |
 | 757 | [Torchlight](games/t/torchlight.md) | 4.33 | 21 | 493 |
 | 757 | [War Mongrels](games/w/war_mongrels.md) | 4.33 | 0 | 505 |
-| 766 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 354 | 222 |
-| 766 | [Filament](games/f/filament.md) | 4.32 | 558 | 182 |
-| 766 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.32 | 74 | 364 |
-| 766 | [House Party](games/h/house_party.md) | 4.32 | 0 | 505 |
-| 766 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 29 | 459 |
-| 766 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 0 | 505 |
-| 766 | [Vampyr](games/v/vampyr.md) | 4.32 | 552 | 184 |
+| 765 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 354 | 222 |
+| 765 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.32 | 55 | 391 |
+| 765 | [Filament](games/f/filament.md) | 4.32 | 558 | 182 |
+| 765 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.32 | 74 | 364 |
+| 765 | [House Party](games/h/house_party.md) | 4.32 | 0 | 505 |
+| 765 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 29 | 459 |
+| 765 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 0 | 505 |
+| 765 | [Vampyr](games/v/vampyr.md) | 4.32 | 552 | 184 |
 | 773 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 505 |
 | 773 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 956 | 145 |
 | 773 | [Scrapnaut](games/s/scrapnaut.md) | 4.31 | 0 | 505 |

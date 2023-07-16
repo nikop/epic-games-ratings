@@ -30,7 +30,7 @@
 | 28 | [Ravenlok](games/r/ravenlok.md) | 7.44% |
 | 29 | [Time Loader](games/t/time_loader.md) | 7.14% |
 | 30 | [Scorn](games/s/scorn.md) | 7.06% |
-| 31 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.98% |
+| 31 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.97% |
 | 32 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.82% |
 | 33 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 34 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -140,20 +140,20 @@
 | 138 | [Wildermyth](games/w/wildermyth.md) | 0.38% |
 | 139 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 140 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.36% |
-| 141 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.34% |
 | 141 | [Scrapnaut](games/s/scrapnaut.md) | 0.34% |
-| 143 | [Dead Island 2](games/d/dead_island_2.md) | 0.33% |
-| 143 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.33% |
-| 143 | [The Surge](games/t/the_surge.md) | 0.33% |
-| 143 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.33% |
+| 142 | [Dead Island 2](games/d/dead_island_2.md) | 0.33% |
+| 142 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.33% |
+| 142 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.33% |
+| 142 | [The Surge](games/t/the_surge.md) | 0.33% |
+| 142 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.33% |
 | 147 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.31% |
 | 147 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
 | 147 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 147 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 151 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.28% |
 | 151 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
-| 152 | [Godlike Burger](games/g/godlike_burger.md) | 0.27% |
-| 152 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.27% |
-| 152 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.27% |
+| 153 | [Godlike Burger](games/g/godlike_burger.md) | 0.27% |
+| 153 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.27% |
 | 155 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
 | 155 | [Against the Storm](games/a/against_the_storm.md) | 0.25% |
 | 155 | [Despot's Game](games/d/despot's_game.md) | 0.25% |
