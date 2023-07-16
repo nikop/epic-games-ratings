@@ -23,13 +23,13 @@
 | 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.26% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 23 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.70% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.58% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.63% |
 | 25 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
 | 26 | [Smelter](games/s/smelter.md) | 8.11% |
 | 27 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.69% |
 | 28 | [Ravenlok](games/r/ravenlok.md) | 7.44% |
 | 29 | [Time Loader](games/t/time_loader.md) | 7.14% |
-| 30 | [Scorn](games/s/scorn.md) | 7.06% |
+| 30 | [Scorn](games/s/scorn.md) | 7.05% |
 | 31 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.96% |
 | 32 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.67% |
 | 33 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
@@ -41,8 +41,8 @@
 | 39 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.91% |
 | 40 | [JARS](games/j/jars.md) | 4.84% |
 | 41 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
-| 42 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.55% |
 | 42 | [Without Escape](games/w/without_escape.md) | 4.55% |
+| 43 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.54% |
 | 44 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.29% |
 | 45 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.87% |
 | 46 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.75% |
@@ -91,7 +91,7 @@
 | 88 | [Poosh XL](games/p/poosh_xl.md) | 1.45% |
 | 90 | [A Musical Story](games/a/a_musical_story.md) | 1.43% |
 | 91 | [Late Shift](games/l/late_shift.md) | 1.33% |
-| 92 | [Five Dates](games/f/five_dates.md) | 1.27% |
+| 92 | [Five Dates](games/f/five_dates.md) | 1.26% |
 | 93 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.23% |
 | 94 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.20% |
 | 95 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.19% |
@@ -123,9 +123,9 @@
 | 121 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.58% |
 | 122 | [Grindstone](games/g/grindstone.md) | 0.56% |
 | 123 | [Potion Permit](games/p/potion_permit.md) | 0.55% |
-| 124 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.54% |
 | 124 | [The Surge 2](games/t/the_surge_2.md) | 0.54% |
-| 126 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.53% |
+| 125 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.53% |
+| 125 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.53% |
 | 127 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
 | 127 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
 | 129 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.48% |
