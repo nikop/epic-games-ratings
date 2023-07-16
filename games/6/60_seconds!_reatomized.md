@@ -15,7 +15,7 @@ Rating: 4.66 (Ranked 272)
 | Family guy | 76.00% | ~3,555 |
 | Out of the Bag | 73.00% | ~3,414 |
 | The Dark Side | 68.00% | ~3,180 |
-| Duck and cover! | 63.00% | ~2,947 |
+| Duck and cover! | 64.00% | ~2,993 |
 | Souper! | 62.00% | ~2,900 |
 | Pacifist | 57.00% | ~2,666 |
 | 2-1-6 | 56.00% | ~2,619 |

@@ -1188,9 +1188,9 @@
       "ID": "achievement_beatGameOnIronmanMode",
       "SetID": "95dc8p",
       "Name": "Let Me Get My Chisel",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 92
     },
     {
       "ID": "achievement_beatGameOnWalkingLunch",
@@ -1596,8 +1596,8 @@
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-07-08T20:01:41.3411794+00:00",
-  "LastChanged_Achievements": "2023-07-16T20:04:42.5727751+00:00",
+  "LastChanged_Achievements": "2023-07-16T21:05:47.7494916+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:39.8918764+00:00",
-  "LastUpdate_Ratings": "2023-07-16T20:00:19.6586934+00:00",
-  "LastUpdate_Achievements": "2023-07-16T20:04:42.5728166+00:00"
+  "LastUpdate_Ratings": "2023-07-16T21:02:12.2468126+00:00",
+  "LastUpdate_Achievements": "2023-07-16T21:05:47.7495418+00:00"
 }

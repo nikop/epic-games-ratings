@@ -12,20 +12,20 @@
 | Welcome to the Club | 20.00% | ~3 |
 | Apprentice | 20.00% | ~3 |
 | Bringing guns to a sword fight | 13.00% | ~2 |
+| Freezing Cold | 13.00% | ~2 |
 | Searing Heat | 13.00% | ~2 |
+| Through Dangers Untold | 13.00% | ~2 |
+| The Golden Flash | 13.00% | ~2 |
+| The Power of the Mountains | 13.00% | ~2 |
+| Changing the World | 13.00% | ~2 |
 | Mirror, Mirror on the Wall | 7.00% | ~1 |
 | Defeat Ingla | 7.00% | ~1 |
 | Defeat Tezuth | 7.00% | ~1 |
 | Defeat Uskol | 7.00% | ~1 |
-| Freezing Cold | 7.00% | ~1 |
-| Through Dangers Untold | 7.00% | ~1 |
 | Nothing but the Truth | 7.00% | ~1 |
 | Finally! | 7.00% | ~1 |
 | The End | 7.00% | ~1 |
 | But what of the Acreans? | 7.00% | ~1 |
-| The Golden Flash | 7.00% | ~1 |
-| The Power of the Mountains | 7.00% | ~1 |
-| Changing the World | 7.00% | ~1 |
 | Sponsor | 0.00% | ~0 |
 | Craftsmen | 0.00% | ~0 |
 | Style over Stats | 0.00% | ~0 |

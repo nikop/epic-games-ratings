@@ -12,7 +12,7 @@
 | The Red Herring | 37.00% | ~30 |
 | Telekinesis | 32.00% | ~26 |
 | Sapper | 25.00% | ~20 |
-| Tough Decision | 22.00% | ~18 |
+| Tough Decision | 23.00% | ~19 |
 | Veteran Sniper | 20.00% | ~16 |
 | Flatline | 20.00% | ~16 |
 | Mind Over Matter | 20.00% | ~16 |

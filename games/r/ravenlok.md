@@ -8,10 +8,10 @@
 | Waff! | 94.00% | ~986 |
 | Into the Barn | 87.00% | ~913 |
 | A Prophecy | 85.00% | ~892 |
-| Sword, Shield, Fight! | 75.00% | ~787 |
+| Sword, Shield, Fight! | 76.00% | ~797 |
 | A Grand Visit | 72.00% | ~755 |
+| Fun Guy | 63.00% | ~661 |
 | Vibing | 62.00% | ~650 |
-| Fun Guy | 62.00% | ~650 |
 | Tragic Brave | 53.00% | ~556 |
 | Awakened Spirits | 51.00% | ~535 |
 | Little Shop | 50.00% | ~524 |

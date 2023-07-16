@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57435,
+  "EOS_Progressed": 57439,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 321,
+  "EOS_NewPlayers": 323,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8137,6 +8137,11 @@
       "Time": "2023-07-16T20:02:37.6863155+00:00",
       "NumProgressed": 57435,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-07-16T21:03:35.546102+00:00",
+      "NumProgressed": 57439,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 67,
@@ -8148,7 +8153,7 @@
       "Name": "Follow the Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 19528
+      "UsersEstimate": 19529
     },
     {
       "ID": "02",
@@ -8156,7 +8161,7 @@
       "Name": "Nordic Walking",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 12061
+      "UsersEstimate": 12062
     },
     {
       "ID": "03",
@@ -8164,7 +8169,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 12061
+      "UsersEstimate": 12062
     },
     {
       "ID": "04",
@@ -8172,7 +8177,7 @@
       "Name": "Boob Tube",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2297
+      "UsersEstimate": 2298
     },
     {
       "ID": "05",
@@ -8180,7 +8185,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10338
+      "UsersEstimate": 10339
     },
     {
       "ID": "06",
@@ -8188,7 +8193,7 @@
       "Name": "Park Ranger",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 8615
+      "UsersEstimate": 8616
     },
     {
       "ID": "07",
@@ -8212,7 +8217,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6892
+      "UsersEstimate": 6893
     },
     {
       "ID": "10",
@@ -8228,7 +8233,7 @@
       "Name": "Children of the Elder God",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2297
+      "UsersEstimate": 2298
     },
     {
       "ID": "12",
@@ -8252,7 +8257,7 @@
       "Name": "Gatekeeper",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5169
+      "UsersEstimate": 5170
     },
     {
       "ID": "15",
@@ -8260,7 +8265,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5169
+      "UsersEstimate": 5170
     },
     {
       "ID": "16",
@@ -8268,7 +8273,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4020
+      "UsersEstimate": 4021
     },
     {
       "ID": "17",
@@ -8300,7 +8305,7 @@
       "Name": "If It Flies, It Burns",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2297
+      "UsersEstimate": 2298
     },
     {
       "ID": "21",
@@ -8308,7 +8313,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6892
+      "UsersEstimate": 6893
     },
     {
       "ID": "22",
@@ -8380,7 +8385,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5169
+      "UsersEstimate": 5170
     },
     {
       "ID": "31",
@@ -8396,7 +8401,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14933
+      "UsersEstimate": 14934
     },
     {
       "ID": "33",
@@ -8404,7 +8409,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6892
+      "UsersEstimate": 6893
     },
     {
       "ID": "34",
@@ -8412,7 +8417,7 @@
       "Name": "Energized!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5169
+      "UsersEstimate": 5170
     },
     {
       "ID": "35",
@@ -8420,7 +8425,7 @@
       "Name": "Let There Be Light",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 15507
+      "UsersEstimate": 15509
     },
     {
       "ID": "36",
@@ -8484,7 +8489,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8615
+      "UsersEstimate": 8616
     },
     {
       "ID": "44",
@@ -8524,7 +8529,7 @@
       "Name": "KBF-FM",
       "Percentage": 4,
       "XP": 110,
-      "UsersEstimate": 2297
+      "UsersEstimate": 2298
     },
     {
       "ID": "49",
@@ -8548,7 +8553,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1672
+      "UsersEstimate": 1673
     },
     {
       "ID": "52",
@@ -8683,21 +8688,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57435,
+      "Progressed": 57439,
       "Completed": 58
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20903,
+      "Progressed": 20907,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-16T20:02:37.6863149+00:00",
+  "LastChanged_Achievements": "2023-07-16T21:03:35.5461015+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:10.5196415+00:00",
-  "LastUpdate_Ratings": "2023-07-16T19:57:47.6982028+00:00",
-  "LastUpdate_Achievements": "2023-07-16T20:02:37.6864116+00:00"
+  "LastUpdate_Ratings": "2023-07-16T20:58:31.3463068+00:00",
+  "LastUpdate_Achievements": "2023-07-16T21:03:35.5462253+00:00"
 }

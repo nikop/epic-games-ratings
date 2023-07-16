@@ -196,7 +196,7 @@
   "Tags": [],
   "EOS_Progressed": 1658,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4490,9 +4490,9 @@
       "ID": "guildpower",
       "SetID": "3nl4bcg",
       "Name": "Guild Power",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 398
+      "UsersEstimate": 414
     },
     {
       "ID": "herewegoagain",
@@ -4842,9 +4842,9 @@
       "ID": "whatliesbehindthebush",
       "SetID": "3nl4bcg",
       "Name": "What lies behind the bush",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 50
     },
     {
       "ID": "worldmap",
@@ -4867,8 +4867,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-07-16T03:26:23.9449732+00:00",
-  "LastChanged_Achievements": "2023-07-16T20:02:13.1702959+00:00",
+  "LastChanged_Achievements": "2023-07-16T21:02:31.773111+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:38.4078532+00:00",
-  "LastUpdate_Ratings": "2023-07-16T19:58:05.9712499+00:00",
-  "LastUpdate_Achievements": "2023-07-16T20:02:13.1703806+00:00"
+  "LastUpdate_Ratings": "2023-07-16T20:58:57.8670031+00:00",
+  "LastUpdate_Achievements": "2023-07-16T21:02:31.7732364+00:00"
 }

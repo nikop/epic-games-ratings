@@ -21,6 +21,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Contagious Curse | 0.20% | ~425 |
 | Escort to Waterdeep | 0.20% | ~425 |
 | Close Escort | 0.20% | ~425 |
+| Constant Banditry | 0.20% | ~425 |
 | Waterdeep Detours | 0.20% | ~425 |
 | Underdeep Cartography | 0.20% | ~425 |
 | Friendly Imps | 0.20% | ~425 |
@@ -210,7 +211,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Enemy Summit | 0.10% | ~179 |
 | Mirage Arcane | 0.10% | ~179 |
 | Only Human | 0.10% | ~179 |
-| Constant Banditry | 0.10% | ~212 |
 | The Long Haul | 0.10% | ~212 |
 | Lost in the Deep | 0.10% | ~212 |
 | Easily Distracted | 0.10% | ~212 |
@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212,436 (Ranked 52)  
+Progressed: 212,460 (Ranked 52)  
 Completed: 2,055 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -601,15 +601,15 @@ Completed: 2,055 (0.97%) (Ranked 102)
 | 2023-07-13 | 211,069 | 2,049 |
 | 2023-07-14 | 211,507 | 2,050 |
 | 2023-07-15 | 212,014 | 2,053 |
-| 2023-07-16 | 212,436 | 2,055 |
+| 2023-07-16 | 212,460 | 2,055 |
 ## Awards
 Max (Diverse Characters): 5,036  (Ranked 66)  
-Sum: 30,545 (Ranked 38)  
+Sum: 30,550 (Ranked 38)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,036 |
-| This game is Great for Beginners | 4,972 |
+| This game is Great for Beginners | 4,977 |
 | This game has Quickly Understood Controls | 4,664 |
 | This game is Relaxing | 4,555 |
 | This game has Amazing Characters | 4,008 |
@@ -789,4 +789,4 @@ Diff (max vs sum): 28
 | 2023-07-13 | 4.05 | - | 5,029 | 30,497 |
 | 2023-07-14 | 4.05 | - | 5,033 | 30,510 |
 | 2023-07-15 | 4.05 | - | 5,036 | 30,535 |
-| 2023-07-16 | 4.05 | - | 5,036 | 30,545 |
+| 2023-07-16 | 4.05 | - | 5,036 | 30,550 |

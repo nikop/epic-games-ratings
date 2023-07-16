@@ -9,8 +9,8 @@
 | Huh? What was that? | 49.00% | ~23 |
 | Whatever it is, fix it! | 32.00% | ~15 |
 | The opposite of good news | 28.00% | ~13 |
+| My Emperor... I've failed you! | 21.00% | ~10 |
 | Priceless company | 21.00% | ~10 |
-| My Emperor... I've failed you! | 19.00% | ~9 |
 | Enemy shield analyzed | 6.00% | ~3 |
 | Piece of cake | 4.00% | ~2 |
 | I'm ready, anytime | 4.00% | ~2 |

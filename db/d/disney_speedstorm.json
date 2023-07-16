@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 55,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,11 +15,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2956,
+  "EOS_Progressed": 2957,
   "EOS_Completed": 98,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 3.32,
+  "EOS_Completed_Percentage": 3.31,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:49:22.8918022+00:00",
@@ -3490,6 +3490,11 @@
       "Time": "2023-07-16T13:18:47.1818216+00:00",
       "NumProgressed": 2956,
       "NumCompleted": 98
+    },
+    {
+      "Time": "2023-07-16T21:06:55.4466228+00:00",
+      "NumProgressed": 2957,
+      "NumCompleted": 98
     }
   ],
   "TotalAchievements": 24,
@@ -3589,7 +3594,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "20",
@@ -3597,7 +3602,7 @@
       "Name": "PROTECTED",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "21",
@@ -3629,7 +3634,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "3",
@@ -3645,7 +3650,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "5",
@@ -3661,7 +3666,7 @@
       "Name": "PRO",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "7",
@@ -3669,7 +3674,7 @@
       "Name": "MASTER",
       "Percentage": 15,
       "XP": 65,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "8",
@@ -3677,7 +3682,7 @@
       "Name": "ACE TRICKSTER",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "9",
@@ -3692,13 +3697,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2956,
+      "Progressed": 2957,
       "Completed": 98
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-07-16T20:05:31.3182232+00:00",
+  "LastChanged_Achievements": "2023-07-16T21:06:55.4466222+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:54.868293+00:00",
-  "LastUpdate_Ratings": "2023-07-16T19:58:55.4880112+00:00",
-  "LastUpdate_Achievements": "2023-07-16T20:05:31.3182575+00:00"
+  "LastUpdate_Ratings": "2023-07-16T21:00:11.2559297+00:00",
+  "LastUpdate_Achievements": "2023-07-16T21:06:55.4467391+00:00"
 }

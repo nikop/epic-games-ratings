@@ -1785,9 +1785,9 @@
       "ID": "MQ01_1",
       "SetID": "bbing49",
       "Name": "Read Between The Lines",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 333
+      "UsersEstimate": 339
     },
     {
       "ID": "MQ01_2",
@@ -1857,9 +1857,9 @@
       "ID": "MQ03_4",
       "SetID": "bbing49",
       "Name": "Gaze Into The Abyss",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 249
+      "UsersEstimate": 254
     },
     {
       "ID": "MQ03_5",
@@ -2018,8 +2018,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-06-25T15:57:48.8176349+00:00",
-  "LastChanged_Achievements": "2023-07-16T20:05:44.2966685+00:00",
+  "LastChanged_Achievements": "2023-07-16T21:07:13.4267711+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:08.2365804+00:00",
-  "LastUpdate_Ratings": "2023-07-16T19:57:27.0834664+00:00",
-  "LastUpdate_Achievements": "2023-07-16T20:05:44.2966929+00:00"
+  "LastUpdate_Ratings": "2023-07-16T20:57:58.2817744+00:00",
+  "LastUpdate_Achievements": "2023-07-16T21:07:13.4268032+00:00"
 }

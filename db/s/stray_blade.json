@@ -188,9 +188,9 @@
       "ID": "ACH_ENTER_REGION_BEAR",
       "SetID": "7i20me3",
       "Name": "Freezing Cold",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_ENTER_REGION_LIZARD",
@@ -204,9 +204,9 @@
       "ID": "ACH_ENTER_REGION_SPIRE",
       "SetID": "7i20me3",
       "Name": "Through Dangers Untold",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_EQUIP_MAX_RUNES_AT_ONCE",
@@ -444,25 +444,25 @@
       "ID": "ACH_UNLOCK_ABILITY_INTIUM",
       "SetID": "7i20me3",
       "Name": "The Golden Flash",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_UNLOCK_ABILITY_MANNINITE",
       "SetID": "7i20me3",
       "Name": "The Power of the Mountains",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_UNLOCK_ABILITY_XHINNON",
       "SetID": "7i20me3",
       "Name": "Changing the World",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
@@ -483,8 +483,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-07-16T20:04:34.8974034+00:00",
+  "LastChanged_Achievements": "2023-07-16T21:05:36.8979693+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:21.3346126+00:00",
-  "LastUpdate_Ratings": "2023-07-16T19:57:54.7077481+00:00",
-  "LastUpdate_Achievements": "2023-07-16T20:04:34.8974345+00:00"
+  "LastUpdate_Ratings": "2023-07-16T20:58:42.0678984+00:00",
+  "LastUpdate_Achievements": "2023-07-16T21:05:36.8980079+00:00"
 }

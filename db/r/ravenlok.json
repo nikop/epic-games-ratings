@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -2831,9 +2831,9 @@
       "ID": "28",
       "SetID": "d0g98p",
       "Name": "Sword, Shield, Fight!",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 787
+      "UsersEstimate": 797
     },
     {
       "ID": "29",
@@ -3047,9 +3047,9 @@
       "ID": "7",
       "SetID": "d0g98p",
       "Name": "Fun Guy",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 650
+      "UsersEstimate": 661
     },
     {
       "ID": "8",
@@ -3080,8 +3080,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-07-16T20:00:27.7520022+00:00",
+  "LastChanged_Achievements": "2023-07-16T21:02:25.9771611+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:20.3361796+00:00",
-  "LastUpdate_Ratings": "2023-07-16T19:57:35.2652168+00:00",
-  "LastUpdate_Achievements": "2023-07-16T20:00:27.7520536+00:00"
+  "LastUpdate_Ratings": "2023-07-16T20:58:11.7736492+00:00",
+  "LastUpdate_Achievements": "2023-07-16T21:02:25.9772158+00:00"
 }

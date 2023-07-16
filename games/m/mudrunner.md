@@ -1,25 +1,25 @@
 # MudRunner
 [Store](https://store.epicgames.com/en-US/p/mudrunner)  
 [View Rawdata](../../db/m/mudrunner.json)  
-Rating: 4.61 (Ranked 364)  
+Rating: 4.61 (Ranked 363)  
 Number of Ratings: 3,155  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 245  (Ranked 248)  
-Sum: 1,922 (Ranked 199)  
+Sum: 1,924 (Ranked 199)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 245 |
 | This game has Quickly Understood Controls | 236 |
 | This game is Relaxing | 213 |
-| This game is Highly Recommended | 211 |
+| This game is Highly Recommended | 212 |
 | This game is Educational | 210 |
 | This game is Extremely Fun | 190 |
 | This game has Realistic Visuals | 186 |
 | This game has Amazing Storytelling | 171 |
 | This game has Amazing Characters | 139 |
 | This game has Obsessive Gameplay | 128 |
-| This game has a Creative Community | 121 |
+| This game has a Creative Community | 122 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -175,3 +175,4 @@ Diff (max vs sum): 49
 | 2023-07-12 | 4.61 | - | 244 | 1,919 |
 | 2023-07-14 | 4.61 | - | 245 | 1,920 |
 | 2023-07-15 | 4.61 | - | 245 | 1,922 |
+| 2023-07-16 | 4.61 | - | 245 | 1,924 |

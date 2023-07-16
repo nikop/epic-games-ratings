@@ -2,20 +2,20 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 848,
+  "Ranking_Rating": 838,
   "Ranking_Popularity": 374,
   "Ranking_PopularitySum": 315,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.19,
+  "Rating": 4.2,
   "RatingHistory": [
     {
       "Time": "2022-12-03T10:57:24.5094082+00:00",
@@ -918,10 +918,16 @@
       "Rating": 4.19,
       "NumberOfAwards": 388,
       "NumberOfAwardsMax": 69
+    },
+    {
+      "Time": "2023-07-16T20:58:54.0593313+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 389,
+      "NumberOfAwardsMax": 69
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 388,
+  "NumberOfAwards": 389,
   "NumberOfAwardsMax": 69,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -959,7 +965,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 48
+      "Count": 49
     },
     {
       "Text": "This game has a Creative Community",
@@ -6162,9 +6168,9 @@
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-07-14T18:59:03.6076902+00:00",
-  "LastChanged_Achievements": "2023-07-16T20:05:55.2324269+00:00",
+  "LastChanged": "2023-07-16T20:58:54.0593312+00:00",
+  "LastChanged_Achievements": "2023-07-16T21:07:29.0411213+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:35.5915287+00:00",
-  "LastUpdate_Ratings": "2023-07-16T19:58:03.028489+00:00",
-  "LastUpdate_Achievements": "2023-07-16T20:05:55.2324797+00:00"
+  "LastUpdate_Ratings": "2023-07-16T20:58:54.0593319+00:00",
+  "LastUpdate_Achievements": "2023-07-16T21:07:29.0411997+00:00"
 }

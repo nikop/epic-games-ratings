@@ -6,52 +6,52 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~588,909 |
-| Right Back At Ya | 38.00% | ~329,096 |
-| The Lovers | 34.00% | ~294,454 |
-| Stanislavski's Method | 28.00% | ~242,492 |
-| The Wheel of Fortune | 26.00% | ~225,171 |
-| The Hermit | 24.00% | ~207,850 |
-| Christmas Tree Attack | 22.00% | ~190,529 |
-| True Soldier | 22.00% | ~190,529 |
-| The High Priestess | 21.00% | ~181,869 |
-| Legend of The Afterlife | 21.00% | ~181,869 |
-| Life of the Road | 20.00% | ~173,208 |
-| Full Body Conversion | 18.00% | ~155,888 |
-| The World | 17.00% | ~147,227 |
-| Bushido and Chill | 16.00% | ~138,567 |
-| Gun Fu | 15.00% | ~129,906 |
-| True Warrior | 15.00% | ~129,906 |
-| To Protect and Serve | 13.00% | ~112,585 |
-| Master Crafter | 13.00% | ~112,585 |
-| I Am The Law | 13.00% | ~112,585 |
-| Judy vs Night City | 13.00% | ~112,585 |
-| Two Heads, One Bullet | 11.00% | ~95,265 |
-| The Wandering Fool | 9.00% | ~77,944 |
-| The Quick and the Dead | 9.00% | ~77,944 |
-| Ten out of Ten | 8.00% | ~69,283 |
-| Breathtaking | 7.00% | ~60,623 |
+| The Fool | 68.00% | ~588,919 |
+| Right Back At Ya | 38.00% | ~329,102 |
+| The Lovers | 34.00% | ~294,459 |
+| Stanislavski's Method | 28.00% | ~242,496 |
+| The Wheel of Fortune | 26.00% | ~225,175 |
+| The Hermit | 24.00% | ~207,854 |
+| Christmas Tree Attack | 22.00% | ~190,533 |
+| True Soldier | 22.00% | ~190,533 |
+| The High Priestess | 21.00% | ~181,872 |
+| Legend of The Afterlife | 21.00% | ~181,872 |
+| Life of the Road | 20.00% | ~173,211 |
+| Full Body Conversion | 18.00% | ~155,890 |
+| The World | 17.00% | ~147,230 |
+| Bushido and Chill | 16.00% | ~138,569 |
+| Gun Fu | 15.00% | ~129,909 |
+| True Warrior | 15.00% | ~129,909 |
+| To Protect and Serve | 13.00% | ~112,587 |
+| Master Crafter | 13.00% | ~112,587 |
+| I Am The Law | 13.00% | ~112,587 |
+| Judy vs Night City | 13.00% | ~112,587 |
+| Two Heads, One Bullet | 11.00% | ~95,266 |
+| The Wandering Fool | 9.00% | ~77,945 |
+| The Quick and the Dead | 9.00% | ~77,945 |
+| Ten out of Ten | 8.00% | ~69,285 |
+| Breathtaking | 7.00% | ~60,624 |
 | To Bad Decisions! | 6.00% | ~51,963 |
 | The Star | 6.00% | ~51,963 |
 | The Sun | 6.00% | ~51,963 |
 | Must Be Rats | 4.00% | ~34,642 |
 | Temperance | 4.00% | ~34,642 |
-| City Lights | 3.00% | ~25,981 |
-| Mean Streets | 3.00% | ~25,981 |
-| Little Tokyo | 3.00% | ~25,981 |
-| Greetings from Pacifica! | 3.00% | ~25,981 |
-| The Jungle | 3.00% | ~25,981 |
-| V for Vendetta | 3.00% | ~25,981 |
-| It's Elementary | 3.00% | ~25,981 |
+| City Lights | 3.00% | ~25,982 |
+| Mean Streets | 3.00% | ~25,982 |
+| Little Tokyo | 3.00% | ~25,982 |
+| Greetings from Pacifica! | 3.00% | ~25,982 |
+| The Jungle | 3.00% | ~25,982 |
+| V for Vendetta | 3.00% | ~25,982 |
+| It's Elementary | 3.00% | ~25,982 |
 | Autojock | 2.00% | ~17,321 |
 | Frequent Flyer | 2.00% | ~17,321 |
 | The Wasteland | 2.00% | ~17,321 |
 | Daemon In The Shell | 2.00% | ~17,321 |
 | The Devil | 2.00% | ~17,321 |
-| Gunslinger | 1.00% | ~8,660 |
+| Gunslinger | 1.00% | ~8,661 |
 | Rough Landing | 0.50% | ~4,330 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 866,042 (Ranked 14)  
+Progressed: 866,057 (Ranked 14)  
 Completed: 1,878 (0.22%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,14 +138,14 @@ Completed: 1,878 (0.22%) (Ranked 159)
 | 2023-07-13 | 865,432 | 1,865 |
 | 2023-07-14 | 865,617 | 1,869 |
 | 2023-07-15 | 865,846 | 1,874 |
-| 2023-07-16 | 866,042 | 1,878 |
+| 2023-07-16 | 866,057 | 1,878 |
 ## Awards
-Max (Character Customization): 73,221  (Ranked 9)  
-Sum: 192,266 (Ranked 13)  
+Max (Character Customization): 73,337  (Ranked 9)  
+Sum: 192,382 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 73,221 |
+| This game has Inclusive Character Customization | 73,337 |
 | This game has Great Boss Battles | 47,103 |
 | This game has Diverse Characters | 8,512 |
 | This game has Amazing Storytelling | 8,453 |
@@ -337,4 +337,4 @@ Diff (max vs sum): -4
 | 2023-07-13 | 4.62 | - | 73,052 | 191,580 |
 | 2023-07-14 | 4.62 | - | 73,146 | 191,858 |
 | 2023-07-15 | 4.62 | - | 73,221 | 192,096 |
-| 2023-07-16 | 4.62 | - | 73,221 | 192,266 |
+| 2023-07-16 | 4.62 | - | 73,337 | 192,382 |

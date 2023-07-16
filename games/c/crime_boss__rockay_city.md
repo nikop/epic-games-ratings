@@ -5,18 +5,18 @@ Rating: 3.93 (Ranked 928)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~51,065 |
-| First One’s Free | 65.00% | ~44,855 |
+| Downed but Not Outed | 74.00% | ~51,067 |
+| First One’s Free | 65.00% | ~44,856 |
 | Neophyte Ninja | 50.00% | ~34,504 |
-| Too Old for This | 47.00% | ~32,433 |
-| Fancy Pants | 35.00% | ~24,152 |
-| Case Closed | 34.00% | ~23,462 |
-| King of the Hill | 34.00% | ~23,462 |
-| Underworld Initiate | 29.00% | ~20,012 |
-| Roid Ranger | 21.00% | ~14,491 |
-| True Player | 19.00% | ~13,111 |
-| Off the Rocks | 19.00% | ~13,111 |
-| Dragonslayer | 17.00% | ~11,731 |
+| Too Old for This | 47.00% | ~32,434 |
+| Fancy Pants | 35.00% | ~24,153 |
+| Case Closed | 34.00% | ~23,463 |
+| King of the Hill | 34.00% | ~23,463 |
+| Underworld Initiate | 29.00% | ~20,013 |
+| Roid Ranger | 21.00% | ~14,492 |
+| True Player | 19.00% | ~13,112 |
+| Off the Rocks | 19.00% | ~13,112 |
+| Dragonslayer | 17.00% | ~11,732 |
 | Raider’s Ruin | 16.00% | ~11,041 |
 | Hidden Sonata | 13.00% | ~8,971 |
 | Rockay Rex | 11.00% | ~7,591 |
@@ -26,7 +26,7 @@ Rating: 3.93 (Ranked 928)
 | I Like Trains | 8.00% | ~5,521 |
 | Headhunter | 8.00% | ~5,521 |
 | Ding Dong | 8.00% | ~5,521 |
-| Foo Finder | 7.00% | ~4,830 |
+| Foo Finder | 7.00% | ~4,831 |
 | Legend Looter | 5.00% | ~3,450 |
 | Savvy Seeker | 5.00% | ~3,450 |
 | Imports and Exports | 4.00% | ~2,760 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 928)
 | Geek Out | 0.50% | ~345 |
 | Full House | 0.20% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69,007 (Ranked 75)  
+Progressed: 69,009 (Ranked 75)  
 Completed: 36 (0.05%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 36 (0.05%) (Ranked 201)
 | 2023-07-13 | 68,844 | 36 |
 | 2023-07-14 | 68,897 | 36 |
 | 2023-07-15 | 68,949 | 36 |
-| 2023-07-16 | 69,007 | 36 |
+| 2023-07-16 | 69,009 | 36 |
 ## Awards
 Max (Diverse Characters): 364  (Ranked 219)  
 Sum: 1,731 (Ranked 206)  

@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 17,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -1625,9 +1625,9 @@
       "ID": "LEVEL_006",
       "SetID": "212bg48",
       "Name": "Nothing like fresh food",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 209
     },
     {
       "ID": "LEVEL_007",
@@ -1832,8 +1832,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-07-16T20:05:38.4189287+00:00",
+  "LastChanged_Achievements": "2023-07-16T21:07:05.404548+00:00",
   "LastUpdate_AppInfo": "2023-07-10T16:57:01.27896+00:00",
-  "LastUpdate_Ratings": "2023-07-16T19:57:19.0430199+00:00",
-  "LastUpdate_Achievements": "2023-07-16T20:05:38.4189548+00:00"
+  "LastUpdate_Ratings": "2023-07-16T20:57:45.7981642+00:00",
+  "LastUpdate_Achievements": "2023-07-16T21:07:05.4045788+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "remnant-2",
   "Ranking_EOS_Progress": 495,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-07-25T23:00:00+00:00",
@@ -33,8 +33,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged_Achievements": "2023-07-16T20:04:30.1635421+00:00",
+  "LastChanged_Achievements": "2023-07-16T21:05:30.285033+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:12.3062506+00:00",
-  "LastUpdate_Ratings": "2023-07-16T19:59:57.3693353+00:00",
-  "LastUpdate_Achievements": "2023-07-16T20:04:30.163545+00:00"
+  "LastUpdate_Ratings": "2023-07-16T21:01:43.1508199+00:00",
+  "LastUpdate_Achievements": "2023-07-16T21:05:30.2850368+00:00"
 }

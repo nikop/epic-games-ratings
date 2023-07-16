@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | A Second Chance | 55.00% | ~63 |
 | Press-ganged | 41.00% | ~47 |
-| The Package | 24.00% | ~27 |
+| The Package | 23.00% | ~26 |
 | Randomized | 16.00% | ~18 |
 | Conquered | 15.00% | ~17 |
 | Scribe | 8.00% | ~9 |
@@ -15,19 +15,19 @@
 | Fight Another Day | 6.00% | ~7 |
 | Conciliator | 5.00% | ~6 |
 | Scholar | 5.00% | ~6 |
-| The More the Merrier | 4.00% | ~5 |
-| Harbinger | 4.00% | ~5 |
 | Courier | 4.00% | ~5 |
 | Acquaintance | 4.00% | ~5 |
-| Been There | 4.00% | ~5 |
 | Tail-wind | 4.00% | ~5 |
 | Taskmaster | 4.00% | ~5 |
 | Quartermaster | 3.00% | ~3 |
 | Supercargo | 3.00% | ~3 |
 | Strategist | 3.00% | ~3 |
 | Potential Unlocked | 3.00% | ~3 |
+| The More the Merrier | 3.00% | ~3 |
 | Xevarian Gambit | 3.00% | ~3 |
+| Harbinger | 3.00% | ~3 |
 | The Voice of Hereafter | 3.00% | ~3 |
+| Been There | 3.00% | ~3 |
 | A Terrible Will | 3.00% | ~3 |
 | Spiritual Journey | 3.00% | ~3 |
 | Pilgrimage's End | 3.00% | ~3 |
@@ -104,7 +104,7 @@
 | Enterpreneur | 0.00% | ~0 |
 | Insectoid Propagator | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 114 (Ranked 296)  
+Progressed: 115 (Ranked 295)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,6 +144,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-06-21 | 112 | 0 |
 | 2023-06-30 | 113 | 0 |
 | 2023-07-09 | 114 | 0 |
+| 2023-07-16 | 115 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
