@@ -11,11 +11,11 @@ Rating: 4.43 (Ranked 657)
 | Cleaning Lethe, One Nest At A Time | 65.00% | ~1,890 |
 | Call Me Snake | 60.00% | ~1,745 |
 | Something Lurks Under The Hills | 58.00% | ~1,687 |
-| This Was No Papercut | 56.00% | ~1,628 |
+| This Was No Papercut | 57.00% | ~1,658 |
 | The Shrink Hates Me | 53.00% | ~1,541 |
 | People Person | 52.00% | ~1,512 |
 | Use The Bumper, That's What It's For | 50.00% | ~1,454 |
-| First Steps Into Madness | 48.00% | ~1,396 |
+| First Steps Into Madness | 49.00% | ~1,425 |
 | Colonial Barrels | 47.00% | ~1,367 |
 | Harper's Hell | 39.00% | ~1,134 |
 | Damn Dude, You Gotta Lose Some Weight! | 39.00% | ~1,134 |

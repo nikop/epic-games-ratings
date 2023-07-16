@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
     "PcReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 415,
+  "EOS_Progressed": 416,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1108,6 +1108,11 @@
       "Time": "2023-07-15T10:05:27.36745+00:00",
       "NumProgressed": 415,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-16T02:42:16.3007357+00:00",
+      "NumProgressed": 416,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1221,9 +1226,9 @@
       "ID": "ACH_COLL_1",
       "SetID": "1j25agn",
       "Name": "Explorer",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 262
     },
     {
       "ID": "ACH_COLL_20",
@@ -1231,7 +1236,7 @@
       "Name": "Prospector",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ACH_COLL_ALL",
@@ -1255,7 +1260,7 @@
       "Name": "Collectibles of Chapter II",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ACH_COLL_CH03",
@@ -1343,7 +1348,7 @@
       "Name": "Cowardice",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -1351,7 +1356,7 @@
       "Name": "The Breaking Point",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ACH_FIN_CH03",
@@ -1367,7 +1372,7 @@
       "Name": "Heroism",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_FIN_CH05",
@@ -1375,7 +1380,7 @@
       "Name": "Consequences",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACH_FIN_CH06",
@@ -1383,7 +1388,7 @@
       "Name": "Opportunities",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_FIN_CH07",
@@ -1407,7 +1412,7 @@
       "Name": "Vengeance",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACH_FIN_CH10",
@@ -1431,7 +1436,7 @@
       "Name": "Atonement",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ACH_HARD_1",
@@ -1487,7 +1492,7 @@
       "Name": "Here Comes the Boom",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_KILL_DOOR",
@@ -1503,7 +1508,7 @@
       "Name": "NO LIFE IS WORTH SAVING...",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "ACH_KILL_ENV",
@@ -1511,7 +1516,7 @@
       "Name": "It\u0027s Just an Accident",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ACH_KILL_FRAG",
@@ -1525,9 +1530,9 @@
       "ID": "ACH_KILL_OFFICER",
       "SetID": "1j25agn",
       "Name": "Eat Lead!",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 195
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH_KILL_SAUSAGE",
@@ -1590,15 +1595,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 415,
+      "Progressed": 416,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-06-24T07:57:51.3010975+00:00",
-  "LastChanged_Achievements": "2023-07-16T00:05:23.5643987+00:00",
+  "LastChanged_Achievements": "2023-07-16T02:42:16.3007352+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:24.6369841+00:00",
-  "LastUpdate_Ratings": "2023-07-15T23:58:01.5141206+00:00",
-  "LastUpdate_Achievements": "2023-07-16T00:05:23.5644709+00:00"
+  "LastUpdate_Ratings": "2023-07-16T02:35:15.2693442+00:00",
+  "LastUpdate_Achievements": "2023-07-16T02:42:16.300802+00:00"
 }

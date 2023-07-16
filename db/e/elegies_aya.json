@@ -2,10 +2,10 @@
   "ID": "246d81dbb3bc4e0eb0fcfd9b85f4de77",
   "Name": "ELEGIES Aya",
   "ProductSlug": "elegies-aya-17c3f1",
-  "Ranking_EOS_Progress": 400,
+  "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 305,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-05-12T15:00:00+00:00",
     "PcReleaseDate": "2023-04-28T15:00:00+00:00",
@@ -196,8 +196,8 @@
   ],
   "FirstSeen": "2023-05-23T07:59:25.1287927+00:00",
   "FirstSeenAchievements": "2023-05-02T21:04:14.2389634+00:00",
-  "LastChanged_Achievements": "2023-07-16T00:08:01.5997731+00:00",
+  "LastChanged_Achievements": "2023-07-16T02:44:30.9943284+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:56.9716965+00:00",
-  "LastUpdate_Ratings": "2023-07-16T00:00:06.2714537+00:00",
-  "LastUpdate_Achievements": "2023-07-16T00:08:01.5997839+00:00"
+  "LastUpdate_Ratings": "2023-07-16T02:37:06.6784679+00:00",
+  "LastUpdate_Achievements": "2023-07-16T02:44:30.9943383+00:00"
 }

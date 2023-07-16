@@ -21,6 +21,7 @@ Number of Ratings: 111  (23.09.2022)
 | Bottom ply killer | 6.00% | ~151 |
 | Fashionista | 6.00% | ~151 |
 | Finally he zips it | 6.00% | ~151 |
+| Sup widdit big dog! | 6.00% | ~151 |
 | That pinch! | 6.00% | ~151 |
 | Tight lipslides | 6.00% | ~151 |
 | Commence the Hijinx! | 5.00% | ~126 |
@@ -30,7 +31,6 @@ Number of Ratings: 111  (23.09.2022)
 | NAHELL! | 5.00% | ~126 |
 | Purple passion | 5.00% | ~126 |
 | Squad goals | 5.00% | ~126 |
-| Sup widdit big dog! | 5.00% | ~126 |
 | Cops called! | 4.00% | ~101 |
 | DIY Boss | 4.00% | ~101 |
 | G.O.A.T. status | 4.00% | ~101 |

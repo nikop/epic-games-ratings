@@ -4,8 +4,8 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 711,
+  "EOS_Progressed": 713,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1508,6 +1508,11 @@
       "Time": "2023-07-15T17:07:07.7493981+00:00",
       "NumProgressed": 711,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-16T02:40:52.592242+00:00",
+      "NumProgressed": 713,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 29,
@@ -1517,9 +1522,9 @@
       "ID": "ACHV_AUGMENTED",
       "SetID": "cceobco",
       "Name": "Augmented",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 135
     },
     {
       "ID": "ACHV_BIGGERTHEYARE",
@@ -1551,7 +1556,7 @@
       "Name": "The City",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHV_CYBERNETIC",
@@ -1599,7 +1604,7 @@
       "Name": "Fully Modded",
       "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHV_HARDBOILED",
@@ -1631,7 +1636,7 @@
       "Name": "Nanonic I",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ACHV_NANONIC2",
@@ -1671,7 +1676,7 @@
       "Name": "Rookie",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHV_SUPPLYRUN",
@@ -1709,9 +1714,9 @@
       "ID": "ACHV_TRICKSHOT",
       "SetID": "cceobco",
       "Name": "Trickshot",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHV_UNLOCKEDANDLOADED",
@@ -1727,7 +1732,7 @@
       "Name": "Up Close And Personal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHV_WEAPONSMITH",
@@ -1750,13 +1755,13 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 711,
+      "Progressed": 713,
       "Completed": 0
     },
     {
       "ID": "cd9kng8",
       "IsBase": false,
-      "Progressed": 137,
+      "Progressed": 139,
       "Completed": 3
     }
   ],
@@ -1764,8 +1769,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-07-16T00:03:49.0836236+00:00",
+  "LastChanged_Achievements": "2023-07-16T02:40:52.5922413+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:38.9845004+00:00",
-  "LastUpdate_Ratings": "2023-07-16T00:00:57.8226827+00:00",
-  "LastUpdate_Achievements": "2023-07-16T00:03:49.0836607+00:00"
+  "LastUpdate_Ratings": "2023-07-16T02:37:52.0267695+00:00",
+  "LastUpdate_Achievements": "2023-07-16T02:40:52.5923065+00:00"
 }

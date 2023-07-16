@@ -4,8 +4,8 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 3062,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -2627,9 +2627,9 @@
       "ID": "campaign20",
       "SetID": "2h56gn1",
       "Name": "For the Queen",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 153
+      "UsersEstimate": 184
     },
     {
       "ID": "campaign3",
@@ -2756,8 +2756,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-07-16T00:03:32.409966+00:00",
+  "LastChanged_Achievements": "2023-07-16T02:40:38.551427+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:16.8344753+00:00",
-  "LastUpdate_Ratings": "2023-07-16T00:01:41.1308394+00:00",
-  "LastUpdate_Achievements": "2023-07-16T00:03:32.4100146+00:00"
+  "LastUpdate_Ratings": "2023-07-16T02:38:30.3094166+00:00",
+  "LastUpdate_Achievements": "2023-07-16T02:40:38.5514931+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "516f9f06c85048c69f486dd7877c4437",
   "Name": "Pray for Death",
   "ProductSlug": "pray-for-death-fe9a43",
-  "Ranking_EOS_Progress": 494,
+  "Ranking_EOS_Progress": 495,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 305,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-08-19T16:00:00+00:00",
     "PcReleaseDate": "2022-08-19T16:00:00+00:00",
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-15T03:57:41.0366879+00:00",
-  "LastUpdate_Ratings": "2023-07-16T00:01:01.409626+00:00",
-  "LastUpdate_Achievements": "2023-07-16T00:02:17.9311361+00:00"
+  "LastUpdate_Ratings": "2023-07-16T02:37:54.890147+00:00",
+  "LastUpdate_Achievements": "2023-07-16T02:39:01.5612987+00:00"
 }

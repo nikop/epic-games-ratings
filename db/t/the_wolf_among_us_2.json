@@ -2,10 +2,10 @@
   "ID": "97590ba7ef144232b14093375c468032",
   "Name": "The Wolf Among Us 2",
   "ProductSlug": "the-wolf-among-us-2",
-  "Ranking_EOS_Progress": 494,
+  "Ranking_EOS_Progress": 495,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 305,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2099-01-01T20:00:00+00:00",
     "PcReleaseDate": "2099-01-01T20:00:00+00:00",
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-15T03:23:38.5410428+00:00",
-  "LastUpdate_Ratings": "2023-07-15T23:59:41.9575272+00:00",
-  "LastUpdate_Achievements": "2023-07-16T00:04:26.6651386+00:00"
+  "LastUpdate_Ratings": "2023-07-16T02:36:46.0574973+00:00",
+  "LastUpdate_Achievements": "2023-07-16T02:41:26.9911806+00:00"
 }

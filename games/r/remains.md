@@ -12,7 +12,7 @@
 | No one will hear you! | 42.00% | ~18 |
 | It's safe here! | 26.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43 (Ranked 348)  
+Progressed: 43 (Ranked 349)  
 Completed: 5 (11.63%) (Ranked 18)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -10,7 +10,7 @@ Rating: 3.54 (Ranked 951)
 | Home Is Where the Heart Is | 60.00% | ~1,033 |
 | Wounded Whispers | 60.00% | ~1,033 |
 | Blood Will Have Blood | 51.00% | ~878 |
-| ICU | 46.00% | ~792 |
+| ICU | 47.00% | ~809 |
 | Catch and Release | 45.00% | ~775 |
 | Peek-a-boo | 44.00% | ~758 |
 | Sucks To Be You | 43.00% | ~740 |

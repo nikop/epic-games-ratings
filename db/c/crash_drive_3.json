@@ -4,8 +4,8 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
     "PcReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 345,
+  "EOS_Progressed": 346,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -286,6 +286,11 @@
       "Time": "2023-07-14T22:04:05.907279+00:00",
       "NumProgressed": 345,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-16T02:41:10.6860083+00:00",
+      "NumProgressed": 346,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -297,7 +302,7 @@
       "Name": "Brace for impact!",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ALL_ACHIEVEMENTS",
@@ -311,9 +316,9 @@
       "ID": "BALL_HEAVY_HIT",
       "SetID": "20koof9",
       "Name": "Fore!",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 86
     },
     {
       "ID": "CATAPULT_THROW",
@@ -321,7 +326,7 @@
       "Name": "Car-Tapult",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "COIN_COLLECT",
@@ -353,7 +358,7 @@
       "Name": "High Roller",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "COLLECT_ALL_CARS",
@@ -383,9 +388,9 @@
       "ID": "DRIFT_500M",
       "SetID": "20koof9",
       "Name": "Drift King!",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 62
     },
     {
       "ID": "FIND_40_M2H",
@@ -409,7 +414,7 @@
       "Name": "First Come, First Serve",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "FRONT_AND_BACKFLIP",
@@ -417,7 +422,7 @@
       "Name": "To and Fro",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "FRONT_OR_BACKFLIP",
@@ -473,7 +478,7 @@
       "Name": "Anger Issues",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "HIT_50_PUSHABLES",
@@ -489,7 +494,7 @@
       "Name": "Earth Defense Force",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "HIT_BIG_SNOWMAN",
@@ -497,7 +502,7 @@
       "Name": "Take that Frosty!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "HIT_EXPLOSIVE_BARREL",
@@ -537,7 +542,7 @@
       "Name": "Your Highness",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "LEFT_LEVEL",
@@ -545,7 +550,7 @@
       "Name": "Goodbye cruel world",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "LOADED_LVL_DESERT",
@@ -567,9 +572,9 @@
       "ID": "LOADED_LVL_SNOW",
       "SetID": "20koof9",
       "Name": "Snow Fun!",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 86
     },
     {
       "ID": "LOADED_LVL_TANK",
@@ -649,7 +654,7 @@
       "Name": "Rocketman",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "USE_TUNNEL",
@@ -663,9 +668,9 @@
       "ID": "WIN_100_EVENTS",
       "SetID": "20koof9",
       "Name": "Event Master",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 21
+      "UsersEstimate": 17
     },
     {
       "ID": "WIN_10_EVENTS",
@@ -689,7 +694,7 @@
       "Name": "Beach Party!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "WIN_KING_HILL",
@@ -736,7 +741,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 345,
+      "Progressed": 346,
       "Completed": 2
     }
   ],
@@ -744,8 +749,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-07-16T00:03:57.4576942+00:00",
+  "LastChanged_Achievements": "2023-07-16T02:41:10.6860077+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:45.2892914+00:00",
-  "LastUpdate_Ratings": "2023-07-15T23:59:49.8637329+00:00",
-  "LastUpdate_Achievements": "2023-07-16T00:03:57.4577575+00:00"
+  "LastUpdate_Ratings": "2023-07-16T02:36:52.4595982+00:00",
+  "LastUpdate_Achievements": "2023-07-16T02:41:10.6860609+00:00"
 }

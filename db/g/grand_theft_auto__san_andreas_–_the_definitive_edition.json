@@ -2,12 +2,12 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 458,
+  "Ranking_Rating": 457,
   "Ranking_Popularity": 256,
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -568,7 +568,7 @@
       "Count": 218
     }
   ],
-  "EOS_Progressed": 11064,
+  "EOS_Progressed": 11065,
   "EOS_Completed": 30,
   "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 4,
@@ -6633,6 +6633,11 @@
       "Time": "2023-07-15T20:06:30.2465002+00:00",
       "NumProgressed": 11064,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-07-16T02:44:36.7409424+00:00",
+      "NumProgressed": 11065,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 35,
@@ -6644,7 +6649,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 8962
+      "UsersEstimate": 8963
     },
     {
       "ID": "ACH02",
@@ -6660,15 +6665,15 @@
       "Name": "The End of the Line",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "ACH04",
       "SetID": "4ck5mbe",
       "Name": "Hoopin\u0027 it Up",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH05",
@@ -6860,7 +6865,7 @@
       "Name": "Original Gangster",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "ACH29",
@@ -6923,7 +6928,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11064,
+      "Progressed": 11065,
       "Completed": 30
     }
   ],
@@ -6931,8 +6936,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-15T10:02:24.2938104+00:00",
-  "LastChanged_Achievements": "2023-07-16T00:08:07.8794084+00:00",
+  "LastChanged_Achievements": "2023-07-16T02:44:36.7409416+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:18.5169648+00:00",
-  "LastUpdate_Ratings": "2023-07-16T00:01:42.5032645+00:00",
-  "LastUpdate_Achievements": "2023-07-16T00:08:07.8794831+00:00"
+  "LastUpdate_Ratings": "2023-07-16T02:38:32.0047283+00:00",
+  "LastUpdate_Achievements": "2023-07-16T02:44:36.7410272+00:00"
 }

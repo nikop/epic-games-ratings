@@ -1,11 +1,11 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.56 (Ranked 458)  
+Rating: 4.56 (Ranked 457)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~8,962 |
+| Getting Started | 81.00% | ~8,963 |
 | Pay 'n' Spray | 50.00% | ~5,532 |
 | All Dressed Up for San Fierro | 25.00% | ~2,766 |
 | The American Dream | 18.00% | ~1,992 |
@@ -15,8 +15,8 @@ Rating: 4.56 (Ranked 458)
 | What happens in Las Venturas... | 14.00% | ~1,549 |
 | Horror of the Santa Maria | 10.00% | ~1,106 |
 | Liberty City State of Mind | 9.00% | ~996 |
-| The End of the Line | 7.00% | ~774 |
-| Original Gangster | 7.00% | ~774 |
+| The End of the Line | 7.00% | ~775 |
+| Original Gangster | 7.00% | ~775 |
 | With Extra Dip | 6.00% | ~664 |
 | Saviour | 6.00% | ~664 |
 | They Can’t Stop All of Us | 4.00% | ~443 |
@@ -30,18 +30,18 @@ Rating: 4.56 (Ranked 458)
 | Double or Nothin' | 2.00% | ~221 |
 | Public Enemy No. 1 | 2.00% | ~221 |
 | Ain’t Nothing But a G Thing | 2.00% | ~221 |
+| Hoopin' it Up | 1.00% | ~111 |
 | A Legitimate Business | 1.00% | ~111 |
 | Swiss Army Strife | 1.00% | ~111 |
 | Lucky Spinner | 1.00% | ~111 |
 | Assassin | 1.00% | ~111 |
 | Chick Magnet | 1.00% | ~111 |
-| Hoopin' it Up | 0.90% | ~100 |
 | Not a Player | 0.70% | ~77 |
 | Remastered | 0.60% | ~66 |
 | ...Here we go again | 0.40% | ~44 |
 | I Ain't No Buster | 0.30% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,064 (Ranked 116)  
+Progressed: 11,065 (Ranked 116)  
 Completed: 30 (0.27%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,6 +128,7 @@ Completed: 30 (0.27%) (Ranked 152)
 | 2023-07-13 | 11,036 | 29 |
 | 2023-07-14 | 11,052 | 29 |
 | 2023-07-15 | 11,064 | 30 |
+| 2023-07-16 | 11,065 | 30 |
 ## Awards
 Max (Great Boss Battles): 218  (Ranked 256)  
 Sum: 218 (Ranked 354)  

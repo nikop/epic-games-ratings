@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 129,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -526,9 +526,9 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 8973,
+  "EOS_Progressed": 8975,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -6331,6 +6331,11 @@
       "Time": "2023-07-15T22:03:57.6005858+00:00",
       "NumProgressed": 8973,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-16T02:41:10.1541618+00:00",
+      "NumProgressed": 8975,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -6374,7 +6379,7 @@
       "Name": "One is Better Than Two",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "ACH06",
@@ -6422,7 +6427,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "ACH12",
@@ -6446,7 +6451,7 @@
       "Name": "Greasy Palms",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3679
+      "UsersEstimate": 3680
     },
     {
       "ID": "ACH15",
@@ -6502,7 +6507,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4038
+      "UsersEstimate": 4039
     },
     {
       "ID": "ACH22",
@@ -6518,7 +6523,7 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2243
+      "UsersEstimate": 2244
     },
     {
       "ID": "ACH24",
@@ -6526,7 +6531,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     },
     {
       "ID": "ACH25",
@@ -6534,7 +6539,7 @@
       "Name": "Chauffeur",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     },
     {
       "ID": "ACH26",
@@ -6566,7 +6571,7 @@
       "Name": "Take the Cannoli",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "ACH30",
@@ -6590,7 +6595,7 @@
       "Name": "City Sleuth",
       "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "ACH33",
@@ -6613,7 +6618,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8973,
+      "Progressed": 8975,
       "Completed": 43
     }
   ],
@@ -6621,8 +6626,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-12T19:59:24.8621469+00:00",
-  "LastChanged_Achievements": "2023-07-16T00:03:56.9718149+00:00",
+  "LastChanged_Achievements": "2023-07-16T02:41:10.1541608+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:03.5723456+00:00",
-  "LastUpdate_Ratings": "2023-07-15T23:59:08.7478875+00:00",
-  "LastUpdate_Achievements": "2023-07-16T00:03:56.971889+00:00"
+  "LastUpdate_Ratings": "2023-07-16T02:36:13.3595255+00:00",
+  "LastUpdate_Achievements": "2023-07-16T02:41:10.1542411+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "4acbe0ba4b144020b1dee0d6dd607029",
   "Name": "Popcorn Rocket",
   "ProductSlug": "popcorn-rocket-869bc8",
-  "Ranking_EOS_Progress": 494,
+  "Ranking_EOS_Progress": 458,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 305,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-10-17T16:00:00+00:00",
     "PcReleaseDate": "2023-10-17T16:00:00+00:00",
@@ -19,12 +19,18 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2023-07-16T02:40:15.5446291+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
   "AchievementsAdded": "2023-07-13T06:01:30.0641551+00:00",
   "TotalAchievements": 41,
   "TotalAchievementsXP": 1000,
@@ -33,33 +39,33 @@
       "ID": "1000000_POINTS",
       "SetID": "8alam0a",
       "Name": "Medium Popcorn",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "1000_POPCORNCOMBO",
       "SetID": "8alam0a",
       "Name": "Double Buttery Popcorn",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "1200_ENEMIES_INFINITY",
       "SetID": "8alam0a",
       "Name": "Infinite Splattered Pie",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "1300_POPCORNCOMBO_INFINITY",
       "SetID": "8alam0a",
       "Name": "Infinite Buttery Popcorn",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "1500_ENEMIES",
@@ -281,9 +287,9 @@
       "ID": "STAGE_01_BEATEN",
       "SetID": "8alam0a",
       "Name": "Pie Goes Splat!",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "STAGE_02_BEATEN",
@@ -362,13 +368,13 @@
     {
       "ID": "8alam0a",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-13T06:01:30.064155+00:00",
-  "LastChanged_Achievements": "2023-07-16T00:02:45.9482057+00:00",
+  "LastChanged_Achievements": "2023-07-16T02:40:15.5446282+00:00",
   "LastUpdate_AppInfo": "2023-07-13T05:57:07.1659689+00:00",
-  "LastUpdate_Ratings": "2023-07-15T23:57:01.4713782+00:00",
-  "LastUpdate_Achievements": "2023-07-16T00:02:45.9482497+00:00"
+  "LastUpdate_Ratings": "2023-07-16T02:34:21.9748656+00:00",
+  "LastUpdate_Achievements": "2023-07-16T02:40:15.5446596+00:00"
 }

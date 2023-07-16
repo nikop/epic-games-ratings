@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -144,7 +144,7 @@
   "Tags": [],
   "EOS_Progressed": 2908,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2836,9 +2836,9 @@
       "ID": "ACH_MISSION_02",
       "SetID": "816efe",
       "Name": "First Steps Into Madness",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 1396
+      "UsersEstimate": 1425
     },
     {
       "ID": "ACH_MISSION_03",
@@ -2948,9 +2948,9 @@
       "ID": "ACH_SAVE_MARINE_BLEEDING",
       "SetID": "816efe",
       "Name": "This Was No Papercut",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1628
+      "UsersEstimate": 1658
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -3005,8 +3005,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-14T17:59:53.4622787+00:00",
-  "LastChanged_Achievements": "2023-07-16T00:08:04.2218372+00:00",
+  "LastChanged_Achievements": "2023-07-16T02:44:33.5404328+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:18.2957495+00:00",
-  "LastUpdate_Ratings": "2023-07-16T00:00:32.1585068+00:00",
-  "LastUpdate_Achievements": "2023-07-16T00:08:04.2218978+00:00"
+  "LastUpdate_Ratings": "2023-07-16T02:37:32.6217957+00:00",
+  "LastUpdate_Achievements": "2023-07-16T02:44:33.5405339+00:00"
 }

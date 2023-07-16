@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Augmented | 18.00% | ~128 |
+| Augmented | 19.00% | ~135 |
 | Challenge Accepted | 15.00% | ~107 |
 | Terminated I | 14.00% | ~100 |
 | Unlocked and Loaded | 14.00% | ~100 |
-| Nanonic I | 13.00% | ~92 |
-| The City | 12.00% | ~85 |
+| Nanonic I | 13.00% | ~93 |
+| The City | 12.00% | ~86 |
 | Terminated II | 11.00% | ~78 |
 | Challenge Mastered | 10.00% | ~71 |
 | Terminated III | 9.00% | ~64 |
@@ -19,14 +19,14 @@
 | Supply Run | 6.00% | ~43 |
 | The Bigger They Are | 5.00% | ~36 |
 | Cybernetic | 5.00% | ~36 |
-| Fully Modded | 4.00% | ~28 |
-| Rookie | 4.00% | ~28 |
-| Up Close And Personal | 4.00% | ~28 |
+| Fully Modded | 4.00% | ~29 |
+| Rookie | 4.00% | ~29 |
+| Up Close And Personal | 4.00% | ~29 |
 | Eden Heights | 3.00% | ~21 |
 | Outer Core | 3.00% | ~21 |
 | Inner Core | 2.00% | ~14 |
 | Integration | 2.00% | ~14 |
-| Trickshot | 0.80% | ~6 |
+| Trickshot | 1.00% | ~7 |
 | Destruction | 0.70% | ~5 |
 | Ripperdoc | 0.60% | ~4 |
 | Hard Boiled | 0.40% | ~3 |
@@ -34,7 +34,7 @@
 | Weaponsmith | 0.10% | ~1 |
 | Hell Raiser | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 711 (Ranked 202)  
+Progressed: 713 (Ranked 202)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,6 +104,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-12 | 706 | 0 |
 | 2023-07-14 | 707 | 0 |
 | 2023-07-15 | 711 | 0 |
+| 2023-07-16 | 713 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

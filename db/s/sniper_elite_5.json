@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -5627,9 +5627,9 @@
       "ID": "REWARD_DLC04_01_SHIPBREAKER",
       "SetID": "83mdf7p",
       "Name": "Shipbreaker",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 23
     },
     {
       "ID": "REWARD_DLC04_02_SINK_OR_SWIM",
@@ -5666,8 +5666,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-13T13:19:01.0264879+00:00",
-  "LastChanged_Achievements": "2023-07-16T00:03:54.970372+00:00",
+  "LastChanged_Achievements": "2023-07-16T02:40:58.2853946+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:52.6032381+00:00",
-  "LastUpdate_Ratings": "2023-07-15T23:57:00.4872254+00:00",
-  "LastUpdate_Achievements": "2023-07-16T00:03:54.970493+00:00"
+  "LastUpdate_Ratings": "2023-07-16T02:34:20.6543948+00:00",
+  "LastUpdate_Achievements": "2023-07-16T02:40:58.2855338+00:00"
 }

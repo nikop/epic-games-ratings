@@ -4,8 +4,8 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 455,
+  "EOS_Progressed": 456,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1581,6 +1581,11 @@
       "Time": "2023-07-15T19:05:58.1965034+00:00",
       "NumProgressed": 455,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-16T02:43:01.55782+00:00",
+      "NumProgressed": 456,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1694,9 +1699,9 @@
       "ID": "objective_headquarters_5",
       "SetID": "bm61c2p",
       "Name": "Facility Online",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 155
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -1766,9 +1771,9 @@
       "ID": "objective_key_alliance_join_1",
       "SetID": "bm61c2p",
       "Name": "It\u0027s Good to have Allies",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 191
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -1798,9 +1803,9 @@
       "ID": "objective_key_gather_resources_from_tiles_3",
       "SetID": "bm61c2p",
       "Name": "Stocking Up",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 64
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -1895,14 +1900,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 455,
+      "Progressed": 456,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-16T00:06:16.2601891+00:00",
+  "LastChanged_Achievements": "2023-07-16T02:43:01.5578193+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:28.9258865+00:00",
-  "LastUpdate_Ratings": "2023-07-16T00:01:56.8651288+00:00",
-  "LastUpdate_Achievements": "2023-07-16T00:06:16.2602341+00:00"
+  "LastUpdate_Ratings": "2023-07-16T02:38:43.5243853+00:00",
+  "LastUpdate_Achievements": "2023-07-16T02:43:01.5579499+00:00"
 }

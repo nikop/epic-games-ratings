@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 55,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2954,
+  "EOS_Progressed": 2955,
   "EOS_Completed": 97,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 3.28,
   "EosHistory": [
@@ -3475,6 +3475,11 @@
       "Time": "2023-07-15T22:06:43.5702243+00:00",
       "NumProgressed": 2954,
       "NumCompleted": 97
+    },
+    {
+      "Time": "2023-07-16T02:43:32.6946749+00:00",
+      "NumProgressed": 2955,
+      "NumCompleted": 97
     }
   ],
   "TotalAchievements": 24,
@@ -3494,7 +3499,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1211
+      "UsersEstimate": 1212
     },
     {
       "ID": "11",
@@ -3502,7 +3507,7 @@
       "Name": "PERFECTLY POISED",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "12",
@@ -3526,7 +3531,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1211
+      "UsersEstimate": 1212
     },
     {
       "ID": "15",
@@ -3542,7 +3547,7 @@
       "Name": "RELEASE THE KRAKEN",
       "Percentage": 12,
       "XP": 45,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "17",
@@ -3590,7 +3595,7 @@
       "Name": "ACE DEFENDER",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "22",
@@ -3622,15 +3627,15 @@
       "Name": "FRIENDLY",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "4",
       "SetID": "9p3jgda",
       "Name": "AGGRESSIVE RACER",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 80,
-      "UsersEstimate": 916
+      "UsersEstimate": 886
     },
     {
       "ID": "5",
@@ -3677,13 +3682,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2954,
+      "Progressed": 2955,
       "Completed": 97
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-07-16T00:06:53.1686302+00:00",
+  "LastChanged_Achievements": "2023-07-16T02:43:32.6946743+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:54.868293+00:00",
-  "LastUpdate_Ratings": "2023-07-16T00:00:05.5009887+00:00",
-  "LastUpdate_Achievements": "2023-07-16T00:06:53.1686765+00:00"
+  "LastUpdate_Ratings": "2023-07-16T02:37:05.9215051+00:00",
+  "LastUpdate_Achievements": "2023-07-16T02:43:32.6947069+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Loop Hero",
   "ProductSlug": "loop-hero",
   "Ranking_Rating": 240,
-  "Ranking_Popularity": 205,
+  "Ranking_Popularity": 203,
   "Ranking_PopularitySum": 150,
-  "Ranking_EOS_Progress": 494,
+  "Ranking_EOS_Progress": 495,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 305,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-03-04T18:00:00+00:00",
     "PcReleaseDate": "2021-03-04T18:00:00+00:00",
@@ -2877,11 +2877,17 @@
       "Rating": 4.68,
       "NumberOfAwards": 3528,
       "NumberOfAwardsMax": 416
+    },
+    {
+      "Time": "2023-07-16T02:38:09.1888867+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 3531,
+      "NumberOfAwardsMax": 418
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3528,
-  "NumberOfAwardsMax": 416,
+  "NumberOfAwards": 3531,
+  "NumberOfAwardsMax": 418,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
@@ -2894,7 +2900,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 416
+      "Count": 418
     },
     {
       "Text": "This game is Relaxing",
@@ -2942,7 +2948,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 226
+      "Count": 227
     }
   ],
   "EOS_Progressed": 0,
@@ -2956,8 +2962,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:49.2794881+00:00",
-  "LastChanged": "2023-07-12T21:00:08.9961856+00:00",
+  "LastChanged": "2023-07-16T02:38:09.1888866+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:55.227163+00:00",
-  "LastUpdate_Ratings": "2023-07-16T00:01:16.8028121+00:00",
-  "LastUpdate_Achievements": "2023-07-16T00:07:27.7545101+00:00"
+  "LastUpdate_Ratings": "2023-07-16T02:38:09.1888871+00:00",
+  "LastUpdate_Achievements": "2023-07-16T02:44:02.3820453+00:00"
 }

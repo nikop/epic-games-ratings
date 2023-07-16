@@ -4,8 +4,8 @@
   "ProductSlug": "daydream-forgotten-sorrow-6025c9",
   "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
     "PcReleaseDate": "2023-06-14T14:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24,
+  "EOS_Progressed": 25,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -136,6 +136,11 @@
       "Time": "2023-07-13T15:04:43.8354843+00:00",
       "NumProgressed": 24,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-16T02:42:05.0685776+00:00",
+      "NumProgressed": 25,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -153,7 +158,7 @@
       "ID": "CH1_FIRST",
       "SetID": "6d348d1",
       "Name": "On a Journey!",
-      "Percentage": 75,
+      "Percentage": 72,
       "XP": 70,
       "UsersEstimate": 18
     },
@@ -169,7 +174,7 @@
       "ID": "CH1_TRAIN",
       "SetID": "6d348d1",
       "Name": "A Kid\u0027s Toy",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 70,
       "UsersEstimate": 3
     },
@@ -177,7 +182,7 @@
       "ID": "CH2_PLANE",
       "SetID": "6d348d1",
       "Name": "Winds of Change",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 70,
       "UsersEstimate": 4
     },
@@ -185,7 +190,7 @@
       "ID": "CH2_SPIDER",
       "SetID": "6d348d1",
       "Name": "A Light in the Darkness",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 70,
       "UsersEstimate": 3
     },
@@ -201,7 +206,7 @@
       "ID": "CH3_FLOWER",
       "SetID": "6d348d1",
       "Name": "The Flower",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 70,
       "UsersEstimate": 5
     },
@@ -258,14 +263,14 @@
     {
       "ID": "6d348d1",
       "IsBase": true,
-      "Progressed": 24,
+      "Progressed": 25,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T16:57:07.6621394+00:00",
   "FirstSeenAchievements": "2023-06-01T12:01:12.0964223+00:00",
-  "LastChanged_Achievements": "2023-07-16T00:05:10.6182135+00:00",
+  "LastChanged_Achievements": "2023-07-16T02:42:05.068577+00:00",
   "LastUpdate_AppInfo": "2023-07-13T15:57:18.3832956+00:00",
-  "LastUpdate_Ratings": "2023-07-15T23:57:16.3412796+00:00",
-  "LastUpdate_Achievements": "2023-07-16T00:05:10.6182345+00:00"
+  "LastUpdate_Ratings": "2023-07-16T02:34:34.3288095+00:00",
+  "LastUpdate_Achievements": "2023-07-16T02:42:05.068592+00:00"
 }

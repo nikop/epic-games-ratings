@@ -57,6 +57,7 @@ Rating: 4.87 (Ranked 24)
 | Fully Powered Up! | 0.10% | ~3 |
 | Now this is how you fight like a team! | 0.10% | ~3 |
 | My Ultimate Setlist | 0.10% | ~3 |
+| What a journey it was... | 0.10% | ~3 |
 | This was... not what I expected. | 0.10% | ~3 |
 | Have we met before? | 0.10% | ~3 |
 | I'm untouchable! | 0.10% | ~3 |
@@ -72,13 +73,12 @@ Rating: 4.87 (Ranked 24)
 | Didn't skip a beat! | 0.00% | ~0 |
 | I think that's enough health for now | 0.00% | ~0 |
 | I have to read ALL of these things? | 0.00% | ~0 |
-| What a journey it was... | 0.00% | ~0 |
 | I am a good person who likes to help | 0.00% | ~0 |
 | I'm trying to FOCUS HERE! | 0.00% | ~0 |
 | OK, I THINK I know what I'm doing now | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,449 (Ranked 146)  
-Completed: 5 (0.14%) (Ranked 176)  
+Progressed: 3,450 (Ranked 146)  
+Completed: 6 (0.17%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -163,6 +163,7 @@ Completed: 5 (0.14%) (Ranked 176)
 | 2023-07-13 | 3,441 | 5 |
 | 2023-07-14 | 3,446 | 5 |
 | 2023-07-15 | 3,449 | 5 |
+| 2023-07-16 | 3,450 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

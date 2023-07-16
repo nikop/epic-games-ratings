@@ -2,10 +2,10 @@
   "ID": "73c10e8ef40945b29b71e8168f6ba12a",
   "Name": "ChromaGun",
   "ProductSlug": "chromagun",
-  "Ranking_EOS_Progress": 494,
+  "Ranking_EOS_Progress": 495,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 305,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-11-03T16:00:00+00:00",
     "PcReleaseDate": "2016-02-16T12:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:30.5426171+00:00",
   "LastChanged": "2023-03-31T05:58:30.5426173+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:09.2316853+00:00",
-  "LastUpdate_Ratings": "2023-07-15T23:59:12.0324523+00:00",
-  "LastUpdate_Achievements": "2023-07-16T00:05:05.4199638+00:00"
+  "LastUpdate_Ratings": "2023-07-16T02:36:16.7853331+00:00",
+  "LastUpdate_Achievements": "2023-07-16T02:42:00.4608341+00:00"
 }

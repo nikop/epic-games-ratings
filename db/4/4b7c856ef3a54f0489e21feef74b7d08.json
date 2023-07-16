@@ -2,10 +2,10 @@
   "ID": "4b7c856ef3a54f0489e21feef74b7d08",
   "Name": "TV Head: Eight Pages",
   "ProductSlug": "tv-head-eight-pages-85b4f3",
-  "Ranking_EOS_Progress": 494,
+  "Ranking_EOS_Progress": 495,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 305,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-06-16T07:00:00+00:00",
     "PcReleaseDate": "2023-06-16T07:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-05T02:20:20.7506953+00:00",
   "LastUpdate_AppInfo": "2023-07-13T08:57:04.2699305+00:00",
-  "LastUpdate_Ratings": "2023-07-15T23:57:17.5207781+00:00",
-  "LastUpdate_Achievements": "2023-07-16T00:05:52.0980604+00:00"
+  "LastUpdate_Ratings": "2023-07-16T02:34:35.1747921+00:00",
+  "LastUpdate_Achievements": "2023-07-16T02:42:40.3601204+00:00"
 }

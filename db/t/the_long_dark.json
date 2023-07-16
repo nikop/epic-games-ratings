@@ -2,13 +2,13 @@
   "ID": "58dfcd1952ee48c1a1fa31c6ace5fe3d",
   "Name": "The Long Dark",
   "ProductSlug": "the-long-dark",
-  "Ranking_Rating": 144,
+  "Ranking_Rating": 143,
   "Ranking_Popularity": 154,
   "Ranking_PopularitySum": 133,
-  "Ranking_EOS_Progress": 494,
+  "Ranking_EOS_Progress": 495,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 305,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2020-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-12-19T16:00:00+00:00",
@@ -3722,10 +3722,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 4700,
       "NumberOfAwardsMax": 778
+    },
+    {
+      "Time": "2023-07-16T02:38:40.0057862+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 4701,
+      "NumberOfAwardsMax": 778
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4700,
+  "NumberOfAwards": 4701,
   "NumberOfAwardsMax": 778,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -3751,7 +3757,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 695
+      "Count": 696
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3789,8 +3795,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:46.2160701+00:00",
-  "LastChanged": "2023-07-15T21:00:41.2043283+00:00",
+  "LastChanged": "2023-07-16T02:38:40.005786+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:25.6360398+00:00",
-  "LastUpdate_Ratings": "2023-07-16T00:01:52.4245809+00:00",
-  "LastUpdate_Achievements": "2023-07-16T00:07:38.0207833+00:00"
+  "LastUpdate_Ratings": "2023-07-16T02:38:40.0057865+00:00",
+  "LastUpdate_Achievements": "2023-07-16T02:44:11.09078+00:00"
 }
