@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
     "PcReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -1226,9 +1226,9 @@
       "ID": "ACH_COLL_1",
       "SetID": "1j25agn",
       "Name": "Explorer",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 262
+      "UsersEstimate": 266
     },
     {
       "ID": "ACH_COLL_20",
@@ -1602,8 +1602,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-06-24T07:57:51.3010975+00:00",
-  "LastChanged_Achievements": "2023-07-16T02:42:16.3007352+00:00",
+  "LastChanged_Achievements": "2023-07-16T03:32:18.1142923+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:24.6369841+00:00",
-  "LastUpdate_Ratings": "2023-07-16T02:35:15.2693442+00:00",
-  "LastUpdate_Achievements": "2023-07-16T02:42:16.300802+00:00"
+  "LastUpdate_Ratings": "2023-07-16T03:25:53.2038761+00:00",
+  "LastUpdate_Achievements": "2023-07-16T03:32:18.1143655+00:00"
 }

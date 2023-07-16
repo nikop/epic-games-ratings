@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6749,
+  "EOS_Progressed": 6750,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -4658,6 +4658,11 @@
       "Time": "2023-07-16T02:41:11.8027181+00:00",
       "NumProgressed": 6749,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-07-16T03:31:23.7003813+00:00",
+      "NumProgressed": 6750,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 21,
@@ -4685,7 +4690,7 @@
       "Name": "Audiophile",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "BODY_AND_SOUL",
@@ -4701,7 +4706,7 @@
       "Name": "\u00C7a de Wizz!",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "CLAY_PIGEON",
@@ -4749,7 +4754,7 @@
       "Name": "Happy Camper",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "HISTORIAN",
@@ -4781,7 +4786,7 @@
       "Name": "Liberator",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "LIVE_WIRE",
@@ -4797,7 +4802,7 @@
       "Name": "Shredder",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "SNIP_SNIP",
@@ -4821,7 +4826,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "THING",
@@ -4829,14 +4834,14 @@
       "Name": "Thing",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     }
   ],
   "AchievementSets": [
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6749,
+      "Progressed": 6750,
       "Completed": 29
     }
   ],
@@ -4844,8 +4849,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-07-11T22:58:36.2658566+00:00",
-  "LastChanged_Achievements": "2023-07-16T02:41:11.8027174+00:00",
+  "LastChanged_Achievements": "2023-07-16T03:31:23.7003808+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:33.2869654+00:00",
-  "LastUpdate_Ratings": "2023-07-16T02:35:51.8720917+00:00",
-  "LastUpdate_Achievements": "2023-07-16T02:41:11.8027707+00:00"
+  "LastUpdate_Ratings": "2023-07-16T03:26:18.1168711+00:00",
+  "LastUpdate_Achievements": "2023-07-16T03:31:23.7004343+00:00"
 }

@@ -78,7 +78,7 @@ Rating: 4.87 (Ranked 24)
 | OK, I THINK I know what I'm doing now | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,450 (Ranked 146)  
-Completed: 6 (0.17%) (Ranked 168)  
+Completed: 6 (0.17%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

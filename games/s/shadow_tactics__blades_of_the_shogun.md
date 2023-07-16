@@ -6,10 +6,10 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~20,450 |
-| Thorough | 9.00% | ~16,732 |
-| A thief's beginning | 8.00% | ~14,873 |
-| Tanuki Time | 8.00% | ~14,873 |
+| Genin | 11.00% | ~20,451 |
+| Thorough | 9.00% | ~16,733 |
+| A thief's beginning | 8.00% | ~14,874 |
+| Tanuki Time | 8.00% | ~14,874 |
 | Disguised | 7.00% | ~13,014 |
 | Rescue Takuma | 7.00% | ~13,014 |
 | Rollin' | 7.00% | ~13,014 |
@@ -26,10 +26,10 @@ Number of Ratings: 495  (23.09.2022)
 | Okkoto | 4.00% | ~7,437 |
 | Prisoners | 4.00% | ~7,437 |
 | Too Early | 4.00% | ~7,437 |
-| Gear up | 3.00% | ~5,577 |
-| Noboru | 3.00% | ~5,577 |
-| Still Rollin' | 3.00% | ~5,577 |
-| Stoned | 3.00% | ~5,577 |
+| Gear up | 3.00% | ~5,578 |
+| Noboru | 3.00% | ~5,578 |
+| Still Rollin' | 3.00% | ~5,578 |
+| Stoned | 3.00% | ~5,578 |
 | Atheist Ox | 2.00% | ~3,718 |
 | It's raining men | 2.00% | ~3,718 |
 | Old Man | 2.00% | ~3,718 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~186 |
 | Release the Kraken | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 185,913 (Ranked 58)  
+Progressed: 185,919 (Ranked 58)  
 Completed: 58 (0.03%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,14 +138,14 @@ Completed: 58 (0.03%) (Ranked 208)
 | 2023-07-13 | 185,346 | 58 |
 | 2023-07-14 | 185,582 | 58 |
 | 2023-07-15 | 185,883 | 58 |
-| 2023-07-16 | 185,913 | 58 |
+| 2023-07-16 | 185,919 | 58 |
 ## Awards
-Max (Great for Beginners): 556  (Ranked 183)  
-Sum: 4,704 (Ranked 132)  
+Max (Great for Beginners): 557  (Ranked 183)  
+Sum: 4,705 (Ranked 132)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 556 |
+| This game is Great for Beginners | 557 |
 | This game has Diverse Characters | 525 |
 | This game is Extremely Fun | 518 |
 | This game has Amazing Storytelling | 501 |
@@ -298,3 +298,4 @@ Diff (max vs sum): 51
 | 2023-07-13 | 4.66 | - | 556 | 4,701 |
 | 2023-07-14 | 4.66 | - | 556 | 4,702 |
 | 2023-07-15 | 4.66 | - | 556 | 4,704 |
+| 2023-07-16 | 4.66 | - | 557 | 4,705 |

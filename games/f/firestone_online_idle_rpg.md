@@ -1,19 +1,19 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.06 (Ranked 900)  
+Rating: 4.08 (Ranked 896)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,534 |
+| Victor | 93.00% | ~1,535 |
 | World Map | 79.00% | ~1,304 |
-| Temple of Eternals | 56.00% | ~924 |
-| Prestigious | 53.00% | ~874 |
-| Fellowship Power | 41.00% | ~676 |
-| Guild Power | 25.00% | ~412 |
-| Prestigious x10 | 21.00% | ~346 |
+| Temple of Eternals | 56.00% | ~925 |
+| Prestigious | 53.00% | ~875 |
+| Fellowship Power | 41.00% | ~677 |
+| Guild Power | 25.00% | ~413 |
+| Prestigious x10 | 21.00% | ~347 |
 | The game is on | 19.00% | ~314 |
-| Exotic Merchant | 17.00% | ~280 |
+| Exotic Merchant | 17.00% | ~281 |
 | Dragon Clicker | 16.00% | ~264 |
 | Inspection | 16.00% | ~264 |
 | Miner Clicker | 16.00% | ~264 |
@@ -22,11 +22,11 @@ Rating: 4.06 (Ranked 900)
 | Enlightenment | 14.00% | ~231 |
 | Hero inspection | 14.00% | ~231 |
 | Lieutenant | 14.00% | ~231 |
-| Mysterious Rock | 13.00% | ~214 |
-| The Unstoppable | 13.00% | ~214 |
+| Mysterious Rock | 13.00% | ~215 |
+| The Unstoppable | 13.00% | ~215 |
+| Milestone collector | 12.00% | ~198 |
 | Natural Talent | 12.00% | ~198 |
 | Superior | 12.00% | ~198 |
-| Milestone collector | 11.00% | ~182 |
 | Scientist | 11.00% | ~182 |
 | Challenger | 10.00% | ~165 |
 | Doing My Part | 10.00% | ~165 |
@@ -34,11 +34,11 @@ Rating: 4.06 (Ranked 900)
 | Relic Of The Past | 10.00% | ~165 |
 | Scroll Master | 10.00% | ~165 |
 | The power of Awakening | 10.00% | ~165 |
-| Daily Quest Completionist | 9.00% | ~148 |
-| Four Leaf Clover | 9.00% | ~148 |
-| Frostfire Liberator | 9.00% | ~148 |
-| Mastery | 9.00% | ~148 |
-| Moving Up The Ladder | 9.00% | ~148 |
+| Daily Quest Completionist | 9.00% | ~149 |
+| Four Leaf Clover | 9.00% | ~149 |
+| Frostfire Liberator | 9.00% | ~149 |
+| Mastery | 9.00% | ~149 |
+| Moving Up The Ladder | 9.00% | ~149 |
 | Here We Go Again | 8.00% | ~132 |
 | The father of Dragons | 8.00% | ~132 |
 | Master Enchanter | 7.00% | ~116 |
@@ -49,11 +49,11 @@ Rating: 4.06 (Ranked 900)
 | Enchanting skill | 6.00% | ~99 |
 | How Do You Turn This On? | 6.00% | ~99 |
 | Weekly Quest Completionist | 6.00% | ~99 |
-| Ancient Knowledge | 5.00% | ~82 |
-| Blueprint Upgrades | 5.00% | ~82 |
-| Engineer Mastery | 5.00% | ~82 |
-| Lock And Load | 5.00% | ~82 |
-| Missions Dedication | 5.00% | ~82 |
+| Ancient Knowledge | 5.00% | ~83 |
+| Blueprint Upgrades | 5.00% | ~83 |
+| Engineer Mastery | 5.00% | ~83 |
+| Lock And Load | 5.00% | ~83 |
+| Missions Dedication | 5.00% | ~83 |
 | Background Story | 4.00% | ~66 |
 | Sailor | 4.00% | ~66 |
 | The Alchemist | 4.00% | ~66 |
@@ -62,7 +62,7 @@ Rating: 4.06 (Ranked 900)
 | Ebony Jungle Liberator | 3.00% | ~50 |
 | Legendary | 3.00% | ~50 |
 | What lies behind the bush | 2.00% | ~33 |
-| Mythic Power | 1.00% | ~16 |
+| Mythic Power | 1.00% | ~17 |
 | Gear Enchanting | 0.80% | ~13 |
 | Guardian Master | 0.80% | ~13 |
 | Training makes a Pro player | 0.80% | ~13 |
@@ -81,7 +81,7 @@ Rating: 4.06 (Ranked 900)
 | War Machines Army | 0.20% | ~3 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,650 (Ranked 169)  
+Progressed: 1,651 (Ranked 169)  
 Completed: 1 (0.06%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 1 (0.06%) (Ranked 197)
 | 2023-07-13 | 1,630 | 1 |
 | 2023-07-14 | 1,638 | 1 |
 | 2023-07-15 | 1,647 | 1 |
-| 2023-07-16 | 1,650 | 1 |
+| 2023-07-16 | 1,651 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -193,3 +193,4 @@ Completed: 1 (0.06%) (Ranked 197)
 | 2023-07-06 | 4.09 | 0 | 0 |
 | 2023-07-11 | 4.11 | 0 | 0 |
 | 2023-07-15 | 4.13 | 0 | 0 |
+| 2023-07-16 | 4.08 | 0 | 0 |

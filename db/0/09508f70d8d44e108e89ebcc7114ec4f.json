@@ -4,8 +4,8 @@
   "ProductSlug": "match-village-5f41dd",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 67,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-06-01T13:00:00+00:00",
     "PcReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 312,
+  "EOS_Progressed": 313,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.56,
   "EosHistory": [
@@ -881,6 +881,11 @@
       "Time": "2023-07-15T20:04:35.9858684+00:00",
       "NumProgressed": 312,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-16T03:32:17.4441317+00:00",
+      "NumProgressed": 313,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 24,
@@ -916,7 +921,7 @@
       "Name": "Brewery",
       "Percentage": 84,
       "XP": 30,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "church",
@@ -924,7 +929,7 @@
       "Name": "Church",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "circus",
@@ -940,7 +945,7 @@
       "Name": "Expedition",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "fish_trade",
@@ -996,7 +1001,7 @@
       "Name": "Match 3",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "match_6",
@@ -1004,7 +1009,7 @@
       "Name": "Match 6",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "match_9",
@@ -1028,7 +1033,7 @@
       "Name": "Sawmill",
       "Percentage": 92,
       "XP": 20,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "seaweed_farm",
@@ -1083,14 +1088,14 @@
     {
       "ID": "ap7g2g4",
       "IsBase": true,
-      "Progressed": 312,
+      "Progressed": 313,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-07-16T02:42:15.4385396+00:00",
+  "LastChanged_Achievements": "2023-07-16T03:32:17.4441312+00:00",
   "LastUpdate_AppInfo": "2023-07-13T15:57:18.6313282+00:00",
-  "LastUpdate_Ratings": "2023-07-16T02:34:47.634787+00:00",
-  "LastUpdate_Achievements": "2023-07-16T02:42:15.4385669+00:00"
+  "LastUpdate_Ratings": "2023-07-16T03:25:29.5679482+00:00",
+  "LastUpdate_Achievements": "2023-07-16T03:32:17.444161+00:00"
 }

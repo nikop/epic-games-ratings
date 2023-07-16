@@ -6,49 +6,49 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Resurgence | 9.00% | ~61,286 |
-| Healthy Obsession | 8.00% | ~54,476 |
-| Humanitarian | 8.00% | ~54,476 |
-| Preemptive Strike | 7.00% | ~47,667 |
-| Wounded Healer | 6.00% | ~40,857 |
-| Close Shave | 6.00% | ~40,857 |
-| With Scars to Show | 5.00% | ~34,048 |
-| Unforgettable Getaway | 4.00% | ~27,238 |
-| First to the Punch | 4.00% | ~27,238 |
-| Operation: Survival | 4.00% | ~27,238 |
-| Old West Oasis | 4.00% | ~27,238 |
-| Classy Act | 4.00% | ~27,238 |
-| Every Last Drop | 4.00% | ~27,238 |
-| Raccoon City Recruit | 4.00% | ~27,238 |
-| Flight to Freedom | 4.00% | ~27,238 |
-| A Fast Death | 4.00% | ~27,238 |
-| Chorus of Chaos | 4.00% | ~27,238 |
-| Ancestor's Rite | 3.00% | ~20,428 |
-| Shrine Apparatus | 3.00% | ~20,428 |
-| Cutting Out | 3.00% | ~20,428 |
-| Outrun Evil | 3.00% | ~20,428 |
-| Grim Pilgrimage | 3.00% | ~20,428 |
-| End of Days | 3.00% | ~20,428 |
-| Lifting The Fog | 3.00% | ~20,428 |
-| Heavy Burden | 2.00% | ~13,619 |
-| Devoted Gatekeeping | 2.00% | ~13,619 |
-| Broken Bodies | 2.00% | ~13,619 |
-| Selfless Survival | 2.00% | ~13,619 |
-| I See You | 2.00% | ~13,619 |
-| Power Moves | 2.00% | ~13,619 |
-| Insult and Injury | 2.00% | ~13,619 |
-| Punch Drunk | 2.00% | ~13,619 |
-| Prowler | 2.00% | ~13,619 |
-| Outrun the Overlap | 2.00% | ~13,619 |
-| High Speed Pursuit | 2.00% | ~13,619 |
-| Rebuilding The Borgo | 2.00% | ~13,619 |
-| Hack the Mainframe | 2.00% | ~13,619 |
-| Death of Ignorance | 1.00% | ~6,810 |
-| Triage | 1.00% | ~6,810 |
-| Deranged Pursuit | 0.90% | ~6,129 |
-| Denied! | 0.90% | ~6,129 |
-| Rescue Mission | 0.80% | ~5,448 |
-| From the Deep | 0.80% | ~5,448 |
+| Resurgence | 9.00% | ~61,296 |
+| Healthy Obsession | 8.00% | ~54,486 |
+| Humanitarian | 8.00% | ~54,486 |
+| Preemptive Strike | 7.00% | ~47,675 |
+| Wounded Healer | 6.00% | ~40,864 |
+| Close Shave | 6.00% | ~40,864 |
+| With Scars to Show | 5.00% | ~34,054 |
+| Unforgettable Getaway | 4.00% | ~27,243 |
+| First to the Punch | 4.00% | ~27,243 |
+| Operation: Survival | 4.00% | ~27,243 |
+| Old West Oasis | 4.00% | ~27,243 |
+| Classy Act | 4.00% | ~27,243 |
+| Every Last Drop | 4.00% | ~27,243 |
+| Raccoon City Recruit | 4.00% | ~27,243 |
+| Flight to Freedom | 4.00% | ~27,243 |
+| A Fast Death | 4.00% | ~27,243 |
+| Chorus of Chaos | 4.00% | ~27,243 |
+| Ancestor's Rite | 3.00% | ~20,432 |
+| Shrine Apparatus | 3.00% | ~20,432 |
+| Cutting Out | 3.00% | ~20,432 |
+| Outrun Evil | 3.00% | ~20,432 |
+| Grim Pilgrimage | 3.00% | ~20,432 |
+| End of Days | 3.00% | ~20,432 |
+| Lifting The Fog | 3.00% | ~20,432 |
+| Heavy Burden | 2.00% | ~13,621 |
+| Devoted Gatekeeping | 2.00% | ~13,621 |
+| Broken Bodies | 2.00% | ~13,621 |
+| Selfless Survival | 2.00% | ~13,621 |
+| I See You | 2.00% | ~13,621 |
+| Power Moves | 2.00% | ~13,621 |
+| Insult and Injury | 2.00% | ~13,621 |
+| Punch Drunk | 2.00% | ~13,621 |
+| Prowler | 2.00% | ~13,621 |
+| Outrun the Overlap | 2.00% | ~13,621 |
+| High Speed Pursuit | 2.00% | ~13,621 |
+| Rebuilding The Borgo | 2.00% | ~13,621 |
+| Hack the Mainframe | 2.00% | ~13,621 |
+| Death of Ignorance | 1.00% | ~6,811 |
+| Triage | 1.00% | ~6,811 |
+| Deranged Pursuit | 0.90% | ~6,130 |
+| Denied! | 0.90% | ~6,130 |
+| Rescue Mission | 0.80% | ~5,449 |
+| From the Deep | 0.80% | ~5,449 |
 | Dismantle | 0.70% | ~4,767 |
 | Left For Dead | 0.70% | ~4,767 |
 | Bodyguard | 0.70% | ~4,767 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~681 |
 | Adept Gabriel | 0.10% | ~681 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 680,950 (Ranked 21)  
+Progressed: 681,071 (Ranked 21)  
 Completed: 42 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 42 (0.01%) (Ranked 223)
 | 2023-07-13 | 673,457 | 42 |
 | 2023-07-14 | 676,886 | 42 |
 | 2023-07-15 | 680,440 | 42 |
-| 2023-07-16 | 680,950 | 42 |
+| 2023-07-16 | 681,071 | 42 |
 ## Awards
 Max (Diverse Characters): 29,960  (Ranked 15)  
 Sum: 237,564 (Ranked 12)  

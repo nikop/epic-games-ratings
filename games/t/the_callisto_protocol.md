@@ -8,25 +8,25 @@ Rating: 4.19 (Ranked 847)
 | Get a Grip | 3.00% | ~472 |
 | Paper Jams | 3.00% | ~472 |
 | Keep Fighting | 3.00% | ~110 |
-| You Need a Gun | 2.00% | ~314 |
-| Flesh Wound | 2.00% | ~314 |
-| I Do Belong Here | 2.00% | ~314 |
-| Two Heads Are Better Than One | 2.00% | ~314 |
-| Chew 'Em Up | 2.00% | ~314 |
-| Workplace Hazard | 2.00% | ~314 |
-| Float Like A Butterfly | 2.00% | ~314 |
-| Reforged | 2.00% | ~314 |
-| Without A Paddle | 2.00% | ~314 |
-| In the Pipe, Five by Five | 2.00% | ~314 |
-| What Lies Beneath | 2.00% | ~314 |
-| Crash Site | 2.00% | ~314 |
-| Full Circle | 2.00% | ~314 |
-| Power Up | 2.00% | ~314 |
+| You Need a Gun | 2.00% | ~315 |
+| Flesh Wound | 2.00% | ~315 |
+| I Do Belong Here | 2.00% | ~315 |
+| Two Heads Are Better Than One | 2.00% | ~315 |
+| Chew 'Em Up | 2.00% | ~315 |
+| Workplace Hazard | 2.00% | ~315 |
+| Float Like A Butterfly | 2.00% | ~315 |
+| Reforged | 2.00% | ~315 |
+| The Outer Way | 2.00% | ~315 |
+| Without A Paddle | 2.00% | ~315 |
+| In the Pipe, Five by Five | 2.00% | ~315 |
+| What Lies Beneath | 2.00% | ~315 |
+| Crash Site | 2.00% | ~315 |
+| Full Circle | 2.00% | ~315 |
+| Power Up | 2.00% | ~315 |
 | It's Time | 2.00% | ~73 |
 | Giving Back | 1.00% | ~157 |
 | Terminated | 1.00% | ~157 |
 | The Commonality | 1.00% | ~157 |
-| The Outer Way | 1.00% | ~157 |
 | If the SHU Fits... | 1.00% | ~157 |
 | Desperate Times | 1.00% | ~157 |
 | One Last Job | 1.00% | ~37 |
@@ -53,8 +53,8 @@ Rating: 4.19 (Ranked 847)
 | I am the Danger | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,725 (Ranked 109)  
-Completed: 66 (0.42%) (Ranked 134)  
+Progressed: 15,726 (Ranked 109)  
+Completed: 67 (0.43%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -139,6 +139,7 @@ Completed: 66 (0.42%) (Ranked 134)
 | 2023-07-13 | 15,707 | 66 |
 | 2023-07-14 | 15,715 | 66 |
 | 2023-07-15 | 15,725 | 66 |
+| 2023-07-16 | 15,726 | 67 |
 ## Awards
 Max (Amazing Storytelling): 69  (Ranked 373)  
 Sum: 388 (Ranked 315)  

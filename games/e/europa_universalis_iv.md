@@ -6,10 +6,10 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,318 |
-| That's a Grand Army | 8.00% | ~5,616 |
-| That is mine! | 8.00% | ~5,616 |
-| Victorious! | 8.00% | ~5,616 |
+| Until death do us apart | 9.00% | ~6,319 |
+| That's a Grand Army | 8.00% | ~5,617 |
+| That is mine! | 8.00% | ~5,617 |
+| Victorious! | 8.00% | ~5,617 |
 | Brothers in Arms | 6.00% | ~4,212 |
 | That's a Grand Navy | 6.00% | ~4,212 |
 | Seriously?! | 6.00% | ~4,212 |
@@ -85,6 +85,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Protected Market | 0.20% | ~140 |
 | AAA Credit | 0.20% | ~140 |
 | An early Reich | 0.20% | ~140 |
+| Basileus | 0.20% | ~140 |
 | Center of Attention | 0.20% | ~140 |
 | Fine Financials | 0.20% | ~140 |
 | A Fine Goosestep | 0.20% | ~140 |
@@ -127,7 +128,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Baltic Crusader | 0.10% | ~70 |
 | These Banners need a Saga | 0.10% | ~70 |
 | Barbarossa | 0.10% | ~70 |
-| Basileus | 0.10% | ~70 |
 | Basque in Glory | 0.10% | ~70 |
 | Bengal Tiger | 0.10% | ~70 |
 | Better than Napoleon | 0.10% | ~70 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 70,197 (Ranked 74)  
+Progressed: 70,207 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -448,7 +448,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-13 | 69,319 | 0 |
 | 2023-07-14 | 69,707 | 0 |
 | 2023-07-15 | 70,161 | 0 |
-| 2023-07-16 | 70,197 | 0 |
+| 2023-07-16 | 70,207 | 0 |
 ## Awards
 Max (Educational): 5,541  (Ranked 60)  
 Sum: 45,728 (Ranked 26)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 34,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -5891,9 +5891,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 467168,
+  "EOS_Progressed": 467169,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 788,
+  "EOS_NewPlayers": 787,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14821,6 +14821,11 @@
       "Time": "2023-07-16T02:41:27.5851114+00:00",
       "NumProgressed": 467168,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-07-16T03:31:37.78412+00:00",
+      "NumProgressed": 467169,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 98,
@@ -14832,7 +14837,7 @@
       "Name": "Best In The Business",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 37373
+      "UsersEstimate": 37374
     },
     {
       "ID": "achievement_10_manager_of_the_year_awards",
@@ -14856,7 +14861,7 @@
       "Name": "Unbeatable!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 172852
+      "UsersEstimate": 172853
     },
     {
       "ID": "achievement_10_seasons_at_one_club",
@@ -14944,7 +14949,7 @@
       "Name": "Team Performance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 140150
+      "UsersEstimate": 140151
     },
     {
       "ID": "achievement_5_players_in_team_of_the_year",
@@ -14952,7 +14957,7 @@
       "Name": "Fantastic Five",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 112120
+      "UsersEstimate": 112121
     },
     {
       "ID": "achievement_always_a_plan_b",
@@ -14984,7 +14989,7 @@
       "Name": "Thumping",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 172852
+      "UsersEstimate": 172853
     },
     {
       "ID": "achievement_buy_50_million_plus_player",
@@ -15016,7 +15021,7 @@
       "Name": "Clean Sheet",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 228912
+      "UsersEstimate": 228913
     },
     {
       "ID": "achievement_club_world_cup",
@@ -15072,7 +15077,7 @@
       "Name": "Full Faith",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 112120
+      "UsersEstimate": 112121
     },
     {
       "ID": "achievement_gain_bottom_to_top_promotion",
@@ -15096,7 +15101,7 @@
       "Name": "National Service",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 37373
+      "UsersEstimate": 37374
     },
     {
       "ID": "achievement_goal_of_the_month_award",
@@ -15176,7 +15181,7 @@
       "Name": "He\u0027s a Natural",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 140150
+      "UsersEstimate": 140151
     },
     {
       "ID": "achievement_impervious",
@@ -15216,7 +15221,7 @@
       "Name": "The Boss",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 112120
+      "UsersEstimate": 112121
     },
     {
       "ID": "achievement_most_goals_scored_in_league",
@@ -15416,7 +15421,7 @@
       "Name": "Armchair Expert",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 112120
+      "UsersEstimate": 112121
     },
     {
       "ID": "achievement_win_3_consecutive_league_titles",
@@ -15615,15 +15620,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 467168,
+      "Progressed": 467169,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-07-15T23:01:02.7910456+00:00",
-  "LastChanged_Achievements": "2023-07-16T02:41:27.5851107+00:00",
+  "LastChanged_Achievements": "2023-07-16T03:31:37.7841195+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:20.1052906+00:00",
-  "LastUpdate_Ratings": "2023-07-16T02:38:33.6784396+00:00",
-  "LastUpdate_Achievements": "2023-07-16T02:41:27.5853494+00:00"
+  "LastUpdate_Ratings": "2023-07-16T03:28:44.0618261+00:00",
+  "LastUpdate_Achievements": "2023-07-16T03:31:37.7843048+00:00"
 }

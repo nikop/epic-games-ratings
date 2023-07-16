@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -142,9 +142,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2908,
+  "EOS_Progressed": 2909,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2627,6 +2627,11 @@
       "Time": "2023-07-15T23:07:18.816319+00:00",
       "NumProgressed": 2908,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-16T03:34:29.1999469+00:00",
+      "NumProgressed": 2909,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2662,7 +2667,7 @@
       "Name": "Perfect Enhancements",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ACH_APC_RUN_OVER",
@@ -2686,7 +2691,7 @@
       "Name": "Omelette Du Fromage",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -2758,7 +2763,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 1890
+      "UsersEstimate": 1891
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -2790,7 +2795,7 @@
       "Name": "El Riesgo Siempre Vive",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "ACH_MAX_MEDIC",
@@ -2846,7 +2851,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1135
     },
     {
       "ID": "ACH_MISSION_04",
@@ -2902,7 +2907,7 @@
       "Name": "The Spire",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "ACH_MISSION_11",
@@ -2934,7 +2939,7 @@
       "Name": "Snatched Out",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 2123
+      "UsersEstimate": 2124
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -2942,7 +2947,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 2355
+      "UsersEstimate": 2356
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -2958,7 +2963,7 @@
       "Name": "People Person",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 1512
+      "UsersEstimate": 1513
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -2966,7 +2971,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1135
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -2990,14 +2995,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1541
+      "UsersEstimate": 1542
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 2908,
+      "Progressed": 2909,
       "Completed": 0
     }
   ],
@@ -3005,8 +3010,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-14T17:59:53.4622787+00:00",
-  "LastChanged_Achievements": "2023-07-16T02:44:33.5404328+00:00",
+  "LastChanged_Achievements": "2023-07-16T03:34:29.1999465+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:18.2957495+00:00",
-  "LastUpdate_Ratings": "2023-07-16T02:37:32.6217957+00:00",
-  "LastUpdate_Achievements": "2023-07-16T02:44:33.5405339+00:00"
+  "LastUpdate_Ratings": "2023-07-16T03:27:44.7167688+00:00",
+  "LastUpdate_Achievements": "2023-07-16T03:34:29.1999998+00:00"
 }
