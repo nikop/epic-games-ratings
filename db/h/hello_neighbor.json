@@ -2,13 +2,13 @@
   "ID": "helloneighbor",
   "Name": "Hello Neighbor",
   "ProductSlug": "hello-neighbor",
-  "Ranking_Rating": 492,
+  "Ranking_Rating": 480,
   "Ranking_Popularity": 253,
-  "Ranking_PopularitySum": 218,
+  "Ranking_PopularitySum": 217,
   "Ranking_EOS_Progress": 495,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2018-12-08T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.54,
+  "Rating": 4.55,
   "NumberOfRatings": 1166,
   "RatingHistory": [
     {
@@ -2383,10 +2383,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 1512,
       "NumberOfAwardsMax": 223
+    },
+    {
+      "Time": "2023-07-16T09:58:59.6736486+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 1513,
+      "NumberOfAwardsMax": 223
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1512,
+  "NumberOfAwards": 1513,
   "NumberOfAwardsMax": 223,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2448,7 +2454,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 222
+      "Count": 223
     }
   ],
   "EOS_Progressed": 0,
@@ -2462,8 +2468,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:23.0108388+00:00",
-  "LastChanged": "2023-07-15T09:59:46.8999655+00:00",
+  "LastChanged": "2023-07-16T09:58:59.6736484+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:18.8021234+00:00",
-  "LastUpdate_Ratings": "2023-07-16T08:59:25.1767702+00:00",
-  "LastUpdate_Achievements": "2023-07-16T09:02:35.7035459+00:00"
+  "LastUpdate_Ratings": "2023-07-16T09:58:59.6736489+00:00",
+  "LastUpdate_Achievements": "2023-07-16T10:01:40.6759616+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Void Bastards",
   "ProductSlug": "void-bastards",
   "Ranking_Rating": 390,
-  "Ranking_Popularity": 492,
-  "Ranking_PopularitySum": 439,
+  "Ranking_Popularity": 486,
+  "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 495,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-08-19T15:00:00+00:00",
     "PcReleaseDate": "2019-05-28T07:08:49+00:00",
@@ -632,11 +632,17 @@
       "Rating": 4.6,
       "NumberOfAwards": 63,
       "NumberOfAwardsMax": 21
+    },
+    {
+      "Time": "2023-07-16T09:59:28.4774856+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 64,
+      "NumberOfAwardsMax": 22
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 63,
-  "NumberOfAwardsMax": 21,
+  "NumberOfAwards": 64,
+  "NumberOfAwardsMax": 22,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
     {
@@ -655,7 +661,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 21
+      "Count": 22
     }
   ],
   "EOS_Progressed": 0,
@@ -669,8 +675,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:35.6625013+00:00",
-  "LastChanged": "2023-07-07T09:58:42.1881937+00:00",
+  "LastChanged": "2023-07-16T09:59:28.4774855+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:49.572454+00:00",
-  "LastUpdate_Ratings": "2023-07-16T09:00:00.3791274+00:00",
-  "LastUpdate_Achievements": "2023-07-16T09:03:49.5076241+00:00"
+  "LastUpdate_Ratings": "2023-07-16T09:59:28.4774859+00:00",
+  "LastUpdate_Achievements": "2023-07-16T10:03:45.5815215+00:00"
 }

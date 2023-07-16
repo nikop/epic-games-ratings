@@ -6,64 +6,64 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~223,245 |
-| Uncharted Territory | 89.00% | ~206,967 |
-| Getting A Glimpse | 73.00% | ~169,759 |
-| A Quick Escape | 65.00% | ~151,156 |
-| Explorer | 62.00% | ~144,179 |
-| Defeat The Dark | 61.00% | ~141,854 |
-| An Offering | 61.00% | ~141,854 |
-| Colorful Corpse | 58.00% | ~134,877 |
-| That Was Quick | 56.00% | ~130,226 |
-| A Donation | 56.00% | ~130,226 |
-| Goodbye, Frog Friend | 54.00% | ~125,575 |
-| Heavy Hitter | 53.00% | ~123,250 |
-| Heartless | 46.00% | ~106,972 |
-| Spine Breaker | 46.00% | ~106,972 |
-| Deflection | 45.00% | ~104,646 |
-| Sneaky | 43.00% | ~99,995 |
-| Delving Deeper | 42.00% | ~97,670 |
-| Ambitious Intent | 41.00% | ~95,344 |
-| C-C-Combo | 41.00% | ~95,344 |
-| Nothing To Lose | 40.00% | ~93,019 |
-| The Bestiary | 40.00% | ~93,019 |
-| What's Yours Is Mine | 38.00% | ~88,368 |
-| R.I.P | 36.00% | ~83,717 |
-| Shootout | 36.00% | ~83,717 |
-| I Am Overburdened | 35.00% | ~81,391 |
-| Cold Hearted | 34.00% | ~79,066 |
-| Dig Your Own Grave | 33.00% | ~76,741 |
-| Toxic | 33.00% | ~76,741 |
-| Who To Trust? | 32.00% | ~74,415 |
-| Flesh Wound | 29.00% | ~67,439 |
-| Walk It Off | 27.00% | ~62,788 |
-| Stone Touch | 27.00% | ~62,788 |
-| Acid Bath | 27.00% | ~62,788 |
-| New Perspectives | 27.00% | ~62,788 |
-| Shadow Walker | 27.00% | ~62,788 |
-| Shapeshifting | 27.00% | ~62,788 |
-| Consecutive Curses | 26.00% | ~60,462 |
-| Destroy Your Fears | 26.00% | ~60,462 |
-| Save Our Souls | 25.00% | ~58,137 |
-| To The Death! | 20.00% | ~46,509 |
-| Well Prepared | 20.00% | ~46,509 |
-| Just Chilling | 20.00% | ~46,509 |
-| Stop Hitting Yourself | 19.00% | ~44,184 |
-| All Consuming | 18.00% | ~41,858 |
-| Shadow Spreads | 17.00% | ~39,533 |
-| Don't Ignore Me! | 17.00% | ~39,533 |
-| Illuminate, Eliminate | 17.00% | ~39,533 |
+| First Steps | 96.00% | ~223,249 |
+| Uncharted Territory | 89.00% | ~206,970 |
+| Getting A Glimpse | 73.00% | ~169,762 |
+| A Quick Escape | 65.00% | ~151,158 |
+| Explorer | 62.00% | ~144,182 |
+| Defeat The Dark | 61.00% | ~141,856 |
+| An Offering | 61.00% | ~141,856 |
+| Colorful Corpse | 58.00% | ~134,880 |
+| That Was Quick | 56.00% | ~130,229 |
+| A Donation | 56.00% | ~130,229 |
+| Goodbye, Frog Friend | 54.00% | ~125,578 |
+| Heavy Hitter | 53.00% | ~123,252 |
+| Heartless | 46.00% | ~106,973 |
+| Spine Breaker | 46.00% | ~106,973 |
+| Deflection | 45.00% | ~104,648 |
+| Sneaky | 43.00% | ~99,997 |
+| Delving Deeper | 42.00% | ~97,671 |
+| Ambitious Intent | 41.00% | ~95,346 |
+| C-C-Combo | 41.00% | ~95,346 |
+| Nothing To Lose | 40.00% | ~93,020 |
+| The Bestiary | 40.00% | ~93,020 |
+| What's Yours Is Mine | 38.00% | ~88,369 |
+| R.I.P | 36.00% | ~83,718 |
+| Shootout | 36.00% | ~83,718 |
+| I Am Overburdened | 35.00% | ~81,393 |
+| Cold Hearted | 34.00% | ~79,067 |
+| Dig Your Own Grave | 33.00% | ~76,742 |
+| Toxic | 33.00% | ~76,742 |
+| Who To Trust? | 32.00% | ~74,416 |
+| Flesh Wound | 29.00% | ~67,440 |
+| Walk It Off | 27.00% | ~62,789 |
+| Stone Touch | 27.00% | ~62,789 |
+| Acid Bath | 27.00% | ~62,789 |
+| New Perspectives | 27.00% | ~62,789 |
+| Shadow Walker | 27.00% | ~62,789 |
+| Shapeshifting | 27.00% | ~62,789 |
+| Consecutive Curses | 26.00% | ~60,463 |
+| Destroy Your Fears | 26.00% | ~60,463 |
+| Save Our Souls | 25.00% | ~58,138 |
+| To The Death! | 20.00% | ~46,510 |
+| Well Prepared | 20.00% | ~46,510 |
+| Just Chilling | 20.00% | ~46,510 |
+| Stop Hitting Yourself | 19.00% | ~44,185 |
+| All Consuming | 18.00% | ~41,859 |
+| Shadow Spreads | 17.00% | ~39,534 |
+| Don't Ignore Me! | 17.00% | ~39,534 |
+| Illuminate, Eliminate | 17.00% | ~39,534 |
 | Max Damage! | 16.00% | ~37,208 |
 | Doing Time | 16.00% | ~37,208 |
-| Spreading Plague | 15.00% | ~34,882 |
+| Spreading Plague | 15.00% | ~34,883 |
 | The Long Run | 14.00% | ~32,557 |
-| A Rough Road | 13.00% | ~30,231 |
-| Chain Reaction | 13.00% | ~30,231 |
+| A Rough Road | 13.00% | ~30,232 |
+| Chain Reaction | 13.00% | ~30,232 |
 | Berzerker | 12.00% | ~27,906 |
 | Antivenom | 12.00% | ~27,906 |
 | Thank You, Friend | 10.00% | ~23,255 |
 | Barbecue | 10.00% | ~23,255 |
-| Snake Sneak | 9.00% | ~20,929 |
+| Snake Sneak | 9.00% | ~20,930 |
 | Challenge Increases | 8.00% | ~18,604 |
 | New Game+ | 8.00% | ~18,604 |
 | Clearing The Room | 8.00% | ~18,604 |
@@ -71,12 +71,12 @@ Number of Ratings: 15,086  (23.09.2022)
 | Fragile Mortality | 8.00% | ~18,604 |
 | Defuser | 8.00% | ~18,604 |
 | Precious | 8.00% | ~18,604 |
-| Friend of Vermin | 7.00% | ~16,278 |
-| Juggernaut | 7.00% | ~16,278 |
-| Gigantic | 7.00% | ~16,278 |
-| Path To Enlightenment | 7.00% | ~16,278 |
-| Fire Away! | 7.00% | ~16,278 |
-| Sentimental Value | 7.00% | ~16,278 |
+| Friend of Vermin | 7.00% | ~16,279 |
+| Juggernaut | 7.00% | ~16,279 |
+| Gigantic | 7.00% | ~16,279 |
+| Path To Enlightenment | 7.00% | ~16,279 |
+| Fire Away! | 7.00% | ~16,279 |
+| Sentimental Value | 7.00% | ~16,279 |
 | A Long Climb | 6.00% | ~13,953 |
 | Grave Digger | 6.00% | ~13,953 |
 | Soul Stash | 6.00% | ~13,953 |
@@ -92,29 +92,29 @@ Number of Ratings: 15,086  (23.09.2022)
 | Resourceful | 4.00% | ~9,302 |
 | Become The Nightmare | 4.00% | ~9,302 |
 | No Mercy | 4.00% | ~9,302 |
-| Quick Descent | 3.00% | ~6,976 |
-| A Week Attempt | 3.00% | ~6,976 |
-| Dead Revels | 3.00% | ~6,976 |
-| Powerful Potion | 3.00% | ~6,976 |
-| Here Comes The Airplane | 3.00% | ~6,976 |
-| Trail Of Death | 3.00% | ~6,976 |
-| The Boulder | 3.00% | ~6,976 |
-| Overthrown | 3.00% | ~6,976 |
-| Illuminate, Annihilate | 3.00% | ~6,976 |
-| Masochist | 3.00% | ~6,976 |
+| Quick Descent | 3.00% | ~6,977 |
+| A Week Attempt | 3.00% | ~6,977 |
+| Dead Revels | 3.00% | ~6,977 |
+| Powerful Potion | 3.00% | ~6,977 |
+| Here Comes The Airplane | 3.00% | ~6,977 |
+| Trail Of Death | 3.00% | ~6,977 |
+| The Boulder | 3.00% | ~6,977 |
+| Overthrown | 3.00% | ~6,977 |
+| Illuminate, Annihilate | 3.00% | ~6,977 |
+| Masochist | 3.00% | ~6,977 |
 | Poor Choices | 2.00% | ~4,651 |
 | Not What I Meant | 2.00% | ~4,651 |
 | A Rock And A Hard Place | 2.00% | ~4,651 |
 | Sprinter | 2.00% | ~4,651 |
 | Minimalist | 2.00% | ~4,651 |
 | Quick To Pick | 2.00% | ~4,651 |
-| Hanging On | 1.00% | ~2,325 |
-| For Science | 1.00% | ~2,325 |
-| Good Boys | 1.00% | ~2,325 |
-| The Tickler | 1.00% | ~2,325 |
-| Tunnel Vision | 1.00% | ~2,325 |
-| Martial Master | 1.00% | ~2,325 |
-| You Call That A Knife? | 1.00% | ~2,325 |
+| Hanging On | 1.00% | ~2,326 |
+| For Science | 1.00% | ~2,326 |
+| Good Boys | 1.00% | ~2,326 |
+| The Tickler | 1.00% | ~2,326 |
+| Tunnel Vision | 1.00% | ~2,326 |
+| Martial Master | 1.00% | ~2,326 |
+| You Call That A Knife? | 1.00% | ~2,326 |
 | Master of Strategy | 0.90% | ~2,093 |
 | Disposal | 0.80% | ~1,860 |
 | Blizzard | 0.80% | ~1,860 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Never Too Many Hats | 0.40% | ~930 |
 | Near Death Experience | 0.30% | ~698 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,547 (Ranked 47)  
+Progressed: 232,551 (Ranked 47)  
 Completed: 246 (0.11%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 246 (0.11%) (Ranked 180)
 | 2023-07-13 | 232,405 | 246 |
 | 2023-07-14 | 232,471 | 246 |
 | 2023-07-15 | 232,522 | 246 |
-| 2023-07-16 | 232,547 | 246 |
+| 2023-07-16 | 232,551 | 246 |
 ## Awards
 Max (Quickly Understood Controls): 1,484  (Ranked 120)  
 Sum: 11,486 (Ranked 75)  

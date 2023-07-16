@@ -2,7 +2,7 @@
   "ID": "9d2f484bbec64aa8ad234b3199dcaf1c",
   "Name": "Absolute Drift",
   "ProductSlug": "absolute-drift",
-  "Ranking_Rating": 691,
+  "Ranking_Rating": 692,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 6,
@@ -436,7 +436,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1529659,
+  "EOS_Progressed": 1529664,
   "EOS_Completed": 644,
   "EOS_NewPlayers": 1342,
   "EOS_NewCompleters": 1,
@@ -9821,6 +9821,11 @@
       "Time": "2023-07-16T09:06:28.7353635+00:00",
       "NumProgressed": 1529659,
       "NumCompleted": 644
+    },
+    {
+      "Time": "2023-07-16T10:05:44.4328412+00:00",
+      "NumProgressed": 1529664,
+      "NumCompleted": 644
     }
   ],
   "TotalAchievements": 20,
@@ -9880,7 +9885,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 137669
+      "UsersEstimate": 137670
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -9944,7 +9949,7 @@
       "Name": "Multiplier Master",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 137669
+      "UsersEstimate": 137670
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -9991,15 +9996,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1529659,
+      "Progressed": 1529664,
       "Completed": 644
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-07-03T17:01:00.6084184+00:00",
-  "LastChanged_Achievements": "2023-07-16T09:06:28.7353631+00:00",
+  "LastChanged_Achievements": "2023-07-16T10:05:44.4328408+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:05.475059+00:00",
-  "LastUpdate_Ratings": "2023-07-16T09:01:43.059255+00:00",
-  "LastUpdate_Achievements": "2023-07-16T09:06:28.7354281+00:00"
+  "LastUpdate_Ratings": "2023-07-16T10:00:51.9218396+00:00",
+  "LastUpdate_Achievements": "2023-07-16T10:05:44.4328939+00:00"
 }

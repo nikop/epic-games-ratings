@@ -1,7 +1,7 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.54 (Ranked 492)  
+Rating: 4.54 (Ranked 493)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -19,8 +19,8 @@ Rating: 4.54 (Ranked 492)
 | Vice City Mogul | 6.00% | ~539 |
 | Catch Me if You Can | 6.00% | ~539 |
 | Bloodstained Hands | 6.00% | ~539 |
-| Not my First Time | 5.00% | ~449 |
 | Grand Theft Auto | 5.00% | ~449 |
+| Not my First Time | 4.00% | ~359 |
 | Pie Guy | 4.00% | ~359 |
 | Running Rampant | 3.00% | ~269 |
 | Point A to Point B | 3.00% | ~269 |
@@ -40,7 +40,7 @@ Rating: 4.54 (Ranked 492)
 | Done it All | 0.80% | ~72 |
 | Kingpin | 0.50% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,977 (Ranked 120)  
+Progressed: 8,978 (Ranked 120)  
 Completed: 43 (0.48%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 43 (0.48%) (Ranked 129)
 | 2023-07-13 | 8,954 | 43 |
 | 2023-07-14 | 8,964 | 43 |
 | 2023-07-15 | 8,973 | 43 |
-| 2023-07-16 | 8,977 | 43 |
+| 2023-07-16 | 8,978 | 43 |
 ## Awards
 Max (Great Boss Battles): 61  (Ranked 387)  
 Sum: 61 (Ranked 440)  

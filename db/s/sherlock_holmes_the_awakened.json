@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 42,
   "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -1826,9 +1826,9 @@
       "ID": "MQ03_2",
       "SetID": "bbing49",
       "Name": "Lock, Stock, And Barrel",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 242
+      "UsersEstimate": 247
     },
     {
       "ID": "MQ03_3",
@@ -2003,8 +2003,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-06-25T15:57:48.8176349+00:00",
-  "LastChanged_Achievements": "2023-07-16T09:06:48.8238199+00:00",
+  "LastChanged_Achievements": "2023-07-16T10:06:11.1219983+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:08.2365804+00:00",
-  "LastUpdate_Ratings": "2023-07-16T08:57:52.4420582+00:00",
-  "LastUpdate_Achievements": "2023-07-16T09:06:48.8238484+00:00"
+  "LastUpdate_Ratings": "2023-07-16T09:57:36.1556159+00:00",
+  "LastUpdate_Achievements": "2023-07-16T10:06:11.1220265+00:00"
 }

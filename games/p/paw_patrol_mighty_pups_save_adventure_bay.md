@@ -25,11 +25,11 @@
 | Adventure Bay’s Citizen | 20.00% | ~3 |
 | Everything Under Control | 13.00% | ~2 |
 | Clear the Road | 13.00% | ~2 |
+| Don’t Miss Any | 13.00% | ~2 |
 | Mountain and Ice | 13.00% | ~2 |
 | King of the Mountain | 7.00% | ~1 |
 | A Great Explorer | 7.00% | ~1 |
 | Nothing Can Stop You | 7.00% | ~1 |
-| Don’t Miss Any | 7.00% | ~1 |
 | Air Ace | 0.00% | ~0 |
 | You Know Them All | 0.00% | ~0 |
 | The Collector | 0.00% | ~0 |

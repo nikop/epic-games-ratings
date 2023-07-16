@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 147,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 33535,
+  "EOS_Progressed": 33537,
   "EOS_Completed": 103,
-  "EOS_NewPlayers": 308,
+  "EOS_NewPlayers": 307,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -8043,6 +8043,11 @@
       "Time": "2023-07-16T09:05:01.487146+00:00",
       "NumProgressed": 33535,
       "NumCompleted": 103
+    },
+    {
+      "Time": "2023-07-16T10:04:40.1133525+00:00",
+      "NumProgressed": 33537,
+      "NumCompleted": 103
     }
   ],
   "TotalAchievements": 14,
@@ -8070,7 +8075,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 8719
+      "UsersEstimate": 8720
     },
     {
       "ID": "allItems",
@@ -8142,7 +8147,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 25822
+      "UsersEstimate": 25823
     },
     {
       "ID": "roots",
@@ -8165,15 +8170,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 33535,
+      "Progressed": 33537,
       "Completed": 103
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-06-14T02:10:18.2883541+00:00",
-  "LastChanged_Achievements": "2023-07-16T09:05:01.4871455+00:00",
+  "LastChanged_Achievements": "2023-07-16T10:04:40.1133518+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:17.7432934+00:00",
-  "LastUpdate_Ratings": "2023-07-16T09:01:55.131937+00:00",
-  "LastUpdate_Achievements": "2023-07-16T09:05:01.4871995+00:00"
+  "LastUpdate_Ratings": "2023-07-16T10:01:05.5486808+00:00",
+  "LastUpdate_Achievements": "2023-07-16T10:04:40.1133949+00:00"
 }

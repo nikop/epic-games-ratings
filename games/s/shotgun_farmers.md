@@ -7,10 +7,10 @@
 | Seeds of War | 73.00% | ~153 |
 | Aspairagus | 55.00% | ~87 |
 | Survivor | 53.00% | ~84 |
+| First Blood | 52.00% | ~109 |
 | Triple Kill | 52.00% | ~109 |
-| First Blood | 51.00% | ~107 |
+| No Asperascope | 47.00% | ~98 |
 | Cornivore | 47.00% | ~98 |
-| No Asperascope | 46.00% | ~96 |
 | I Believe I Can Fly | 45.00% | ~94 |
 | Early Survivor | 41.00% | ~65 |
 | No Diggity | 40.00% | ~64 |
@@ -31,7 +31,7 @@
 | Fresh Pancake | 10.00% | ~21 |
 | Getting Started | 10.00% | ~21 |
 | Quit Horsin' Around | 10.00% | ~21 |
-| Eggtraordinary | 9.00% | ~19 |
+| Eggtraordinary | 10.00% | ~21 |
 | Perfect | 9.00% | ~14 |
 | Expert Survivor | 9.00% | ~14 |
 | Bring Home The Bacon | 7.00% | ~15 |
@@ -43,12 +43,12 @@
 | I Have The High Ground | 3.00% | ~6 |
 | Heart Breaker | 3.00% | ~5 |
 | Easy Peasy | 2.00% | ~3 |
+| 15 Days | 1.00% | ~2 |
 | Honk Honk | 1.00% | ~2 |
 | Pro Pyromancer | 1.00% | ~2 |
 | Pro Shotgunner | 1.00% | ~2 |
 | King of the Crow | 1.00% | ~2 |
 | Tomassacred | 1.00% | ~2 |
-| 15 Days | 0.50% | ~1 |
 | Pro Carrocketeer | 0.50% | ~1 |
 | Pro Sniperagus | 0.50% | ~1 |
 | Unstoppable | 0.50% | ~1 |

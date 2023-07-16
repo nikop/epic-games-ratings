@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7228,
+  "EOS_Progressed": 7230,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 815,
+  "EOS_NewPlayers": 812,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3246,6 +3246,11 @@
       "Time": "2023-07-16T09:03:10.7105652+00:00",
       "NumProgressed": 7228,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-16T10:03:12.8591844+00:00",
+      "NumProgressed": 7230,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -3257,7 +3262,7 @@
       "Name": "Self Portrait",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "ACH_COLOR_AVERAGE_AT_LEAST_6_AFTER_25_GAMES",
@@ -3281,7 +3286,7 @@
       "Name": "Rainbow!",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_ONLY_SHAPES_4_PLAYERS",
@@ -3329,7 +3334,7 @@
       "Name": "You tried your best!",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3108
+      "UsersEstimate": 3109
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -3456,14 +3461,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 7228,
+      "Progressed": 7230,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-07-16T09:03:10.7105647+00:00",
+  "LastChanged_Achievements": "2023-07-16T10:03:12.8591841+00:00",
   "LastUpdate_AppInfo": "2023-07-14T18:57:14.8780974+00:00",
-  "LastUpdate_Ratings": "2023-07-16T08:57:13.2473317+00:00",
-  "LastUpdate_Achievements": "2023-07-16T09:03:10.7106018+00:00"
+  "LastUpdate_Ratings": "2023-07-16T09:57:06.9596196+00:00",
+  "LastUpdate_Achievements": "2023-07-16T10:03:12.8592109+00:00"
 }
