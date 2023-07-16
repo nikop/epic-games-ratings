@@ -167,7 +167,7 @@
 | [Assassin's Creed Chronicles: India](games/a/assassin's_creed_chronicles__india.md) | - | - | 0 | - |
 | [Assassin's Creed Chronicles: Russia](games/a/assassin's_creed_chronicles__russia.md) | 4.60 | 390 | 0 | 505 |
 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 133 | 25 | 475 |
-| [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 240 | 3,280 | 87 |
+| [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 240 | 3,283 | 87 |
 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 422 | 161 | 288 |
 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 540 | 95 | 338 |
 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.60 | 390 | 669 | 167 |
@@ -324,7 +324,7 @@
 | [Boom Blaster](games/b/boom_blaster.md) | - | - | 0 | - |
 | [Boomerang X](games/b/boomerang_x.md) | - | - | 0 | - |
 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 118 | 14,786 | 23 |
-| [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 217 | 112,952 | 8 |
+| [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 217 | 113,022 | 8 |
 | [Borderlands: The Handsome Collection](games/b/borderlands__the_handsome_collection.md) | - | - | - | - |
 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 552 | 406 | 208 |
 | [Bosorka](games/b/bosorka.md) | - | - | 0 | - |
@@ -458,7 +458,7 @@
 | [Commander Keen Dreams Definitive Edition](games/5/50f4d33e378d4203aeb869ad22f8964a.md) | - | - | 0 | - |
 | [Commandos 3 - HD Remaster](games/c/commandos_3_-_hd_remaster.md) | - | - | 0 | - |
 | [Company of Crime](games/c/company_of_crime.md) | - | - | 0 | - |
-| [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 492 | 1,324 | 127 |
+| [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 492 | 1,328 | 127 |
 | [Conan The Mighty Pig](games/c/conan_the_mighty_pig.md) | - | - | - | - |
 | [Conarium](games/c/conarium.md) | 3.93 | 928 | 0 | 505 |
 | [Conglomerate 451](games/c/conglomerate_451.md) | - | - | 0 | - |
@@ -568,7 +568,7 @@
 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 521 | 29,960 | 15 |
 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 24 | 272 | 241 |
 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 492 | 5,207 | 64 |
-| [Dead Space](games/d/dead_space.md) | 4.62 | 347 | 79 | 356 |
+| [Dead Space](games/d/dead_space.md) | 4.62 | 347 | 79 | 357 |
 | [Deadly Flight](games/d/deadly_flight.md) | - | - | - | - |
 | [Dealer's Life 2](games/f/f8764fc7177a4015ad68bcbf0f66297f.md) | - | - | - | - |
 | [Death Coming](games/d/death_coming.md) | 4.44 | 643 | 0 | 505 |
@@ -852,7 +852,7 @@
 | [Fireburst](games/f/fireburst.md) | - | - | 0 | - |
 | [Firegirl: Hack 'n Splash Rescue DX](games/f/firegirl__hack_'n_splash_rescue_dx.md) | - | - | 0 | - |
 | [Fires At Midnight](games/f/fires_at_midnight_1.md) | - | - | 0 | - |
-| [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.06 | 900 | 0 | 505 |
+| [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.08 | 896 | 0 | 505 |
 | [Firework](games/f/firework.md) | 4.89 | 13 | 0 | 505 |
 | [First Class Trouble](games/f/first_class_trouble.md) | 4.50 | 552 | 111 | 320 |
 | [First Dwarf](games/f/first_dwarf.md) | - | - | - | - |
@@ -962,7 +962,7 @@
 | [Goblins of Elderstone](games/g/goblins_of_elderstone.md) | - | - | 0 | - |
 | [God of War](games/g/god_of_war.md) | 4.88 | 19 | 4,153 | 76 |
 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 862 | 26 | 471 |
-| [Godfall Ultimate Edition](games/g/godfall.md) | 4.07 | 898 | 527 | 189 |
+| [Godfall Ultimate Edition](games/g/godfall.md) | 4.07 | 899 | 527 | 189 |
 | [Godlike Burger](games/g/godlike_burger.md) | 4.25 | 808 | 0 | 505 |
 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 4.57 | 440 | 0 | 505 |
 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 923 | 0 | 505 |
@@ -1279,7 +1279,7 @@
 | [Last Words](games/l/last_words.md) | - | - | - | - |
 | [Late Shift](games/l/late_shift.md) | - | - | 0 | - |
 | [lava Production](games/l/lava_production.md) | - | - | - | - |
-| [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 898 | 181 | 278 |
+| [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 899 | 181 | 278 |
 | [Layers of Fear](games/l/layers_of_fear.md) | - | - | 0 | - |
 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 838 | 0 | 505 |
 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.46 | 611 | 0 | 505 |
@@ -1997,7 +1997,7 @@
 | [Shadow Man Remastered](games/s/shadow_man_remastered.md) | - | - | 0 | - |
 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 298 | 28,678 | 16 |
 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 167 | 73 | 367 |
-| [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 272 | 556 | 183 |
+| [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 272 | 557 | 183 |
 | [Shadowhand](games/s/shadowhand.md) | - | - | 0 | - |
 | [Shadowman®: Darque Legacy](games/s/shadowman_-_darque_legacy.md) | - | - | - | - |
 | [Shadowrun Collection](games/s/shadowrun_collection.md) | - | - | - | - |
@@ -2014,8 +2014,8 @@
 | [shapez](games/s/shapez.md) | 4.71 | 183 | 209 | 264 |
 | [Shattered Steel](games/s/shattered_steel.md) | - | - | 0 | - |
 | [Shattered: Tale of the Forgotten King](games/s/shattered__tale_of_the_forgotten_king.md) | - | - | 0 | - |
-| [shaveta12 Production](games/s/shaveta12_production_1.md) | - | - | - | - |
 | [shaveta12 Production](games/s/shaveta12_production.md) | - | - | - | - |
+| [shaveta12 Production](games/s/shaveta12_production_1.md) | - | - | - | - |
 | [shaveta32internal Production](games/s/shaveta32internal_production.md) | - | - | - | - |
 | [Sheepo](games/s/sheepo.md) | - | - | 0 | - |
 | [Sheltered](games/s/sheltered.md) | 4.42 | 666 | 268 | 243 |
@@ -2307,7 +2307,7 @@
 | [Testament: The Order Of High-Human](games/3/3c69660cdc2d41aeac310fe3f864eb26.md) | - | - | 0 | - |
 | [Tetragon](games/t/tetragon.md) | - | - | 0 | - |
 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 28 | 42 | 416 |
-| [Tharsis](games/t/tharsis.md) | 4.06 | 900 | 0 | 505 |
+| [Tharsis](games/t/tharsis.md) | 4.06 | 901 | 0 | 505 |
 | [The Abbey](games/t/the_abbey.md) | - | - | - | - |
 | [The Alchemist of Ars Magna](games/4/4c57fbae5dc34c44b63b82037d03dc00.md) | - | - | 0 | - |
 | [The Alien Cube](games/t/the_alien_cube.md) | 4.15 | 871 | 0 | 505 |
@@ -2529,7 +2529,7 @@
 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 167 | 0 | 505 |
 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 260 | 0 | 505 |
 | [This Is the President](games/t/this_is_the_president.md) | - | - | 0 | - |
-| [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 157 | 79 | 356 |
+| [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 157 | 80 | 355 |
 | [Thomas' Tales](games/t/thomas'_tales.md) | - | - | - | - |
 | [Those Who Remain](games/t/those_who_remain.md) | - | - | 0 | - |
 | [Three Kingdoms The Last Warlord](games/t/three_kingdoms_the_last_warlord.md) | - | - | - | - |
@@ -2608,7 +2608,7 @@
 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.41 | 676 | 550 | 185 |
 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 479 | 311 | 230 |
 | [Train Valley](games/t/train_valley.md) | 4.47 | 601 | 0 | 505 |
-| [Train Valley 2](games/t/train_valley_2.md) | 4.06 | 900 | 73 | 367 |
+| [Train Valley 2](games/t/train_valley_2.md) | 4.06 | 901 | 73 | 367 |
 | [Train Valley World](games/f/f68e8934386448ed8b280c3eb0f8c5a4.md) | - | - | - | - |
 | [Train World](games/t/train_world.md) | - | - | - | - |
 | [Transistor](games/t/transistor.md) | 4.63 | 330 | 0 | 505 |

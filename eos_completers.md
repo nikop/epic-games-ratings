@@ -23,7 +23,7 @@
 | 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.07% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.46% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.51% |
 | 25 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.18% |
 | 26 | [Smelter](games/s/smelter.md) | 8.11% |
 | 27 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.69% |
@@ -41,7 +41,7 @@
 | 39 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.91% |
 | 40 | [JARS](games/j/jars.md) | 4.84% |
 | 41 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
-| 42 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.57% |
+| 42 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.56% |
 | 43 | [Without Escape](games/w/without_escape.md) | 4.55% |
 | 44 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.32% |
 | 45 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.87% |
@@ -133,8 +133,8 @@
 | 131 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.46% |
 | 131 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
 | 133 | [Tchia](games/t/tchia.md) | 0.43% |
-| 134 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.42% |
-| 134 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.42% |
+| 133 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.43% |
+| 135 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.42% |
 | 136 | [Ghostrunner](games/g/ghostrunner.md) | 0.41% |
 | 136 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
 | 138 | [Wildermyth](games/w/wildermyth.md) | 0.38% |
@@ -162,16 +162,16 @@
 | 159 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
 | 159 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.22% |
 | 162 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.21% |
-| 163 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.19% |
-| 163 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
-| 163 | [Going Medieval](games/g/going_medieval.md) | 0.19% |
-| 166 | [BLACKTAIL](games/b/blacktail.md) | 0.18% |
-| 166 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.18% |
-| 168 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.17% |
-| 168 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
-| 170 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
-| 170 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
-| 170 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.16% |
+| 163 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.20% |
+| 164 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.19% |
+| 164 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
+| 164 | [Going Medieval](games/g/going_medieval.md) | 0.19% |
+| 167 | [BLACKTAIL](games/b/blacktail.md) | 0.18% |
+| 167 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.18% |
+| 169 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.17% |
+| 169 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
+| 171 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
+| 171 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
 | 173 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.15% |
 | 173 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
 | 173 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.15% |

@@ -165,7 +165,7 @@
 | 157 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 0 | 505 |
 | 157 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.73 | 0 | 505 |
 | 157 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 0 | 505 |
-| 157 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 79 | 356 |
+| 157 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 80 | 355 |
 | 167 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.72 | 78 | 358 |
 | 167 | [Fez](games/f/fez.md) | 4.72 | 23 | 481 |
 | 167 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 471 | 196 |
@@ -216,7 +216,7 @@
 | 196 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.70 | 1,690 | 116 |
 | 196 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 0 | 505 |
 | 196 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.70 | 0 | 505 |
-| 217 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 112,952 | 8 |
+| 217 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 113,022 | 8 |
 | 217 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 505 |
 | 217 | [CARRION](games/c/carrion.md) | 4.69 | 0 | 505 |
 | 217 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 5,541 | 60 |
@@ -240,7 +240,7 @@
 | 217 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.69 | 0 | 505 |
 | 217 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 802 | 152 |
 | 240 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,334 | 86 |
-| 240 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 3,280 | 87 |
+| 240 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 3,283 | 87 |
 | 240 | [Bad North](games/b/bad_north.md) | 4.68 | 0 | 505 |
 | 240 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 69 | 373 |
 | 240 | [BLACKTAIL](games/b/blacktail.md) | 4.68 | 0 | 505 |
@@ -288,7 +288,7 @@
 | 272 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.66 | 50 | 398 |
 | 272 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 1,052 | 138 |
 | 272 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 1,894 | 110 |
-| 272 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 556 | 183 |
+| 272 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 557 | 183 |
 | 272 | [SOMA](games/s/soma.md) | 4.66 | 0 | 505 |
 | 272 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.66 | 32 | 448 |
 | 272 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 521 | 190 |
@@ -349,7 +349,7 @@
 | 347 | [ABZU](games/a/abzu.md) | 4.62 | 0 | 505 |
 | 347 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.62 | 0 | 505 |
 | 347 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 73,221 | 9 |
-| 347 | [Dead Space](games/d/dead_space.md) | 4.62 | 79 | 356 |
+| 347 | [Dead Space](games/d/dead_space.md) | 4.62 | 79 | 357 |
 | 347 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 279 | 238 |
 | 347 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 34 | 439 |
 | 347 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,386 | 124 |
@@ -493,7 +493,7 @@
 | 479 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,210 | 131 |
 | 492 | [Aimlabs](games/a/aimlabs.md) | 4.54 | 0 | 505 |
 | 492 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 0 | 505 |
-| 492 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,324 | 127 |
+| 492 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,328 | 127 |
 | 492 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 5,207 | 64 |
 | 492 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 442 |
 | 492 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,202 | 132 |
@@ -895,13 +895,13 @@
 | 891 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 0 | 505 |
 | 891 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.09 | 0 | 505 |
 | 891 | [Submerged](games/s/submerged.md) | 4.09 | 0 | 505 |
+| 896 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.08 | 0 | 505 |
 | 896 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 0 | 505 |
 | 896 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 0 | 505 |
-| 898 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.07 | 527 | 189 |
-| 898 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 181 | 278 |
-| 900 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.06 | 0 | 505 |
-| 900 | [Tharsis](games/t/tharsis.md) | 4.06 | 0 | 505 |
-| 900 | [Train Valley 2](games/t/train_valley_2.md) | 4.06 | 73 | 367 |
+| 899 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.07 | 527 | 189 |
+| 899 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 181 | 278 |
+| 901 | [Tharsis](games/t/tharsis.md) | 4.06 | 0 | 505 |
+| 901 | [Train Valley 2](games/t/train_valley_2.md) | 4.06 | 73 | 367 |
 | 903 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 5,036 | 66 |
 | 903 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 452 | 200 |
 | 905 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.04 | 0 | 505 |
