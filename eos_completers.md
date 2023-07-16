@@ -23,7 +23,7 @@
 | 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.26% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 23 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.77% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.60% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.59% |
 | 25 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
 | 26 | [Smelter](games/s/smelter.md) | 8.11% |
 | 27 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.69% |
@@ -31,7 +31,7 @@
 | 29 | [Time Loader](games/t/time_loader.md) | 7.14% |
 | 30 | [Scorn](games/s/scorn.md) | 7.06% |
 | 31 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.97% |
-| 32 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.82% |
+| 32 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.67% |
 | 33 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 34 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 35 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.69% |
@@ -90,7 +90,7 @@
 | 88 | [Night Book](games/n/night_book.md) | 1.45% |
 | 88 | [Poosh XL](games/p/poosh_xl.md) | 1.45% |
 | 90 | [A Musical Story](games/a/a_musical_story.md) | 1.43% |
-| 91 | [Late Shift](games/l/late_shift.md) | 1.34% |
+| 91 | [Late Shift](games/l/late_shift.md) | 1.33% |
 | 92 | [Five Dates](games/f/five_dates.md) | 1.27% |
 | 93 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.23% |
 | 94 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.20% |
