@@ -290,6 +290,7 @@
 | [Legendary Hoplite](games/a/ac45259a6001412d8e57aa5d5ad1811a.md) | 2099-01-01 | - |  | - | - |
 | [Legends of Bezogia](games/l/legends_of_bezogia.md) | 2099-01-01 | - |  | - | - |
 | [Lempo](games/l/lempo.md) | 2099-01-01 | - |  | - | - |
+| [Liberta Rise of Freedom](games/4/4a48a5997a5e45c887053d25a0a4e49d.md) | 2099-01-01 | - |  | - | - |
 | [Lightracer Spark](games/l/lightracer_spark.md) | 2099-01-01 | - |  | - | - |
 | [Lightyear Frontier](games/l/lightyear_frontier.md) | 2099-01-01 | - |  | - | - |
 | [Loop](games/l/loop.md) | 2099-01-01 | - |  | - | - |

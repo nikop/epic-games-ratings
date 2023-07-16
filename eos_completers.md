@@ -22,21 +22,21 @@
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.26% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 23 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.77% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.59% |
+| 23 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.70% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.58% |
 | 25 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
 | 26 | [Smelter](games/s/smelter.md) | 8.11% |
 | 27 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.69% |
 | 28 | [Ravenlok](games/r/ravenlok.md) | 7.44% |
 | 29 | [Time Loader](games/t/time_loader.md) | 7.14% |
 | 30 | [Scorn](games/s/scorn.md) | 7.06% |
-| 31 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.97% |
+| 31 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.96% |
 | 32 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.67% |
 | 33 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 34 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 35 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.69% |
 | 36 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
-| 37 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.05% |
+| 37 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.04% |
 | 38 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.00% |
 | 39 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.91% |
 | 40 | [JARS](games/j/jars.md) | 4.84% |
@@ -51,7 +51,7 @@
 | 49 | [Doodle God](games/d/doodle_god.md) | 3.56% |
 | 49 | [ZZT!](games/z/zzt!.md) | 3.56% |
 | 51 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.52% |
-| 52 | [Bunny Park](games/b/bunny_park.md) | 3.42% |
+| 52 | [Bunny Park](games/b/bunny_park.md) | 3.41% |
 | 53 | [Monster Harvest](games/m/monster_harvest.md) | 3.38% |
 | 54 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.33% |
 | 55 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.32% |
@@ -493,4 +493,4 @@
 | 236 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 236 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 236 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,907 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
+| 2,908 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
