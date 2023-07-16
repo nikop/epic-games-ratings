@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2826,
+  "EOS_Progressed": 2827,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3548,6 +3548,11 @@
       "Time": "2023-07-16T09:05:20.0871397+00:00",
       "NumProgressed": 2826,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-16T12:04:38.0707197+00:00",
+      "NumProgressed": 2827,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -3759,7 +3764,7 @@
       "Name": "Ready for a New World",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "ACH_BASE_35",
@@ -4014,13 +4019,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1008,
+      "Progressed": 1009,
       "Completed": 6
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2826,
+      "Progressed": 2827,
       "Completed": 0
     }
   ],
@@ -4028,8 +4033,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-07-08T02:22:11.1138638+00:00",
-  "LastChanged_Achievements": "2023-07-16T11:05:17.6754655+00:00",
+  "LastChanged_Achievements": "2023-07-16T12:04:38.0707185+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:23.6946025+00:00",
-  "LastUpdate_Ratings": "2023-07-16T10:59:13.0388214+00:00",
-  "LastUpdate_Achievements": "2023-07-16T11:05:17.6755273+00:00"
+  "LastUpdate_Ratings": "2023-07-16T11:58:49.4201733+00:00",
+  "LastUpdate_Achievements": "2023-07-16T12:04:38.070801+00:00"
 }

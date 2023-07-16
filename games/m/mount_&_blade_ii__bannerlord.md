@@ -6,27 +6,27 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 37.00% | ~20,665 |
-| Landlord | 31.00% | ~17,314 |
-| Bannerlord | 22.00% | ~12,287 |
-| Horde breaker | 22.00% | ~12,287 |
-| Lawmaker | 22.00% | ~12,287 |
-| Trained | 21.00% | ~11,729 |
-| The king is pleased | 17.00% | ~9,495 |
-| King Solomon | 16.00% | ~8,936 |
-| I can do it | 15.00% | ~8,378 |
-| Apple of my eye | 14.00% | ~7,819 |
-| God of the Arena | 12.00% | ~6,702 |
-| Against all odds | 11.00% | ~6,144 |
-| Swordbearer | 10.00% | ~5,585 |
-| Duelist | 9.00% | ~5,027 |
-| Dynasty | 9.00% | ~5,027 |
-| I spit on your grave | 9.00% | ~5,027 |
-| This Is Our Land | 9.00% | ~5,027 |
-| What have the Romans ever done for us? | 9.00% | ~5,027 |
-| Butterlord | 8.00% | ~4,468 |
+| Lawbringer | 37.00% | ~20,669 |
+| Landlord | 31.00% | ~17,317 |
+| Bannerlord | 22.00% | ~12,290 |
+| Horde breaker | 22.00% | ~12,290 |
+| Lawmaker | 22.00% | ~12,290 |
+| Trained | 21.00% | ~11,731 |
+| The king is pleased | 17.00% | ~9,497 |
+| King Solomon | 16.00% | ~8,938 |
+| I can do it | 15.00% | ~8,379 |
+| Apple of my eye | 14.00% | ~7,821 |
+| God of the Arena | 12.00% | ~6,703 |
+| Against all odds | 11.00% | ~6,145 |
+| Swordbearer | 10.00% | ~5,586 |
+| Duelist | 9.00% | ~5,028 |
+| Dynasty | 9.00% | ~5,028 |
+| I spit on your grave | 9.00% | ~5,028 |
+| This Is Our Land | 9.00% | ~5,028 |
+| What have the Romans ever done for us? | 9.00% | ~5,028 |
+| Butterlord | 8.00% | ~4,469 |
 | Mastery | 7.00% | ~3,910 |
-| Know your enemy | 6.00% | ~3,351 |
+| Know your enemy | 6.00% | ~3,352 |
 | Crowdfunded | 4.00% | ~2,234 |
 | Crush your enemies | 4.00% | ~2,234 |
 | My way | 4.00% | ~2,234 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,852 (Ranked 83)  
+Progressed: 55,862 (Ranked 83)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,15 +145,15 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-13 | 55,670 | 0 |
 | 2023-07-14 | 55,732 | 0 |
 | 2023-07-15 | 55,822 | 0 |
-| 2023-07-16 | 55,852 | 0 |
+| 2023-07-16 | 55,862 | 0 |
 ## Awards
 Max (Character Customization): 6,799  (Ranked 48)  
-Sum: 13,752 (Ranked 67)  
+Sum: 13,757 (Ranked 67)  
 Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 6,799 |
-| This game is Great for Beginners | 878 |
+| This game is Great for Beginners | 883 |
 | This game has Diverse Characters | 865 |
 | This game is Highly Recommended | 818 |
 | This game is Extremely Fun | 781 |
@@ -349,4 +349,4 @@ Diff (max vs sum): -19
 | 2023-07-13 | 4.74 | - | 6,787 | 13,723 |
 | 2023-07-14 | 4.74 | - | 6,787 | 13,726 |
 | 2023-07-15 | 4.74 | - | 6,791 | 13,740 |
-| 2023-07-16 | 4.74 | - | 6,799 | 13,752 |
+| 2023-07-16 | 4.74 | - | 6,799 | 13,757 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1008,9 +1008,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4106,
+  "EOS_Progressed": 4108,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -6128,6 +6128,11 @@
       "Time": "2023-07-16T11:05:55.8402275+00:00",
       "NumProgressed": 4106,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-16T12:05:06.4244708+00:00",
+      "NumProgressed": 4108,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -6147,7 +6152,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "ACH_DOUBLEESCALATION",
@@ -6155,7 +6160,7 @@
       "Name": "Double Trouble",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -6235,7 +6240,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1848
+      "UsersEstimate": 1849
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -6259,7 +6264,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -6267,7 +6272,7 @@
       "Name": "Firestarter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "ACH_EP_THEREFERENDUM",
@@ -6299,7 +6304,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3121
+      "UsersEstimate": 3122
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -6323,7 +6328,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -6331,7 +6336,7 @@
       "Name": "I Owe You Nothing",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "ACH_MYWAYS",
@@ -6395,7 +6400,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1971
+      "UsersEstimate": 1972
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -6411,7 +6416,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 1560
+      "UsersEstimate": 1561
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -6419,7 +6424,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -6443,7 +6448,7 @@
       "Name": "French Connection",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -6458,15 +6463,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4106,
+      "Progressed": 4108,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-09T22:00:42.3216597+00:00",
-  "LastChanged_Achievements": "2023-07-16T11:05:55.840227+00:00",
+  "LastChanged_Achievements": "2023-07-16T12:05:06.4244702+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:16.0436214+00:00",
-  "LastUpdate_Ratings": "2023-07-16T11:01:25.1917462+00:00",
-  "LastUpdate_Achievements": "2023-07-16T11:05:55.8402789+00:00"
+  "LastUpdate_Ratings": "2023-07-16T12:00:17.2922804+00:00",
+  "LastUpdate_Achievements": "2023-07-16T12:05:06.4245339+00:00"
 }

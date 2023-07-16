@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
     "PcReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -1053,9 +1053,9 @@
       "ID": "MYST_KNIFE",
       "SetID": "62d2oh4",
       "Name": "Mysterious Knife",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 45
     },
     {
       "ID": "OLD_FRIEND",
@@ -1166,8 +1166,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-07-13T11:57:42.3125835+00:00",
-  "LastChanged_Achievements": "2023-07-16T11:02:04.9628889+00:00",
+  "LastChanged_Achievements": "2023-07-16T12:00:46.4521577+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:11.0248033+00:00",
-  "LastUpdate_Ratings": "2023-07-16T10:57:41.8603305+00:00",
-  "LastUpdate_Achievements": "2023-07-16T11:02:04.9630907+00:00"
+  "LastUpdate_Ratings": "2023-07-16T11:57:40.2883105+00:00",
+  "LastUpdate_Achievements": "2023-07-16T12:00:46.4522543+00:00"
 }

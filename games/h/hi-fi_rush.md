@@ -5,7 +5,7 @@ Rating: 4.87 (Ranked 24)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| NOW we got a kickass hideout! | 2.00% | ~39 |
+| NOW we got a kickass hideout! | 2.00% | ~40 |
 | Start with a bang! | 1.00% | ~35 |
 | Cream of the Crop | 1.00% | ~35 |
 | This will cost you big time | 1.00% | ~35 |
@@ -34,8 +34,8 @@ Rating: 4.87 (Ranked 24)
 | Does that say weakpoint? | 0.80% | ~28 |
 | That's a lot of junk metal… | 0.70% | ~24 |
 | There's such a thing as TOO helpful | 0.70% | ~24 |
-| Beat-hit mania | 0.60% | ~21 |
 | Call me Turbo Chai | 0.60% | ~12 |
+| Beat-hit mania | 0.50% | ~17 |
 | Wanna hear my playlist? | 0.50% | ~17 |
 | Chip-tuned | 0.40% | ~14 |
 | Check out my moves! | 0.40% | ~14 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | I'm trying to FOCUS HERE! | 0.00% | ~0 |
 | OK, I THINK I know what I'm doing now | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,453 (Ranked 146)  
+Progressed: 3,455 (Ranked 146)  
 Completed: 6 (0.17%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 6 (0.17%) (Ranked 169)
 | 2023-07-13 | 3,441 | 5 |
 | 2023-07-14 | 3,446 | 5 |
 | 2023-07-15 | 3,449 | 5 |
-| 2023-07-16 | 3,453 | 6 |
+| 2023-07-16 | 3,455 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

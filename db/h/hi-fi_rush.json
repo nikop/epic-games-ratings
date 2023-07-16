@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3453,
+  "EOS_Progressed": 3455,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -4267,6 +4267,11 @@
       "Time": "2023-07-16T11:02:39.3465032+00:00",
       "NumProgressed": 3453,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-07-16T12:02:31.3466363+00:00",
+      "NumProgressed": 3455,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 71,
@@ -4460,9 +4465,9 @@
       "ID": "Ach024",
       "SetID": "12n4k20",
       "Name": "Beat-hit mania",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 17
     },
     {
       "ID": "Ach025",
@@ -4766,7 +4771,7 @@
       "Name": "NOW we got a kickass hideout!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "Ach063",
@@ -4845,13 +4850,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3453,
+      "Progressed": 3455,
       "Completed": 6
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 1974,
+      "Progressed": 1976,
       "Completed": 1928
     }
   ],
@@ -4859,8 +4864,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-16T11:02:39.3465026+00:00",
+  "LastChanged_Achievements": "2023-07-16T12:02:31.3466357+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:27.8055794+00:00",
-  "LastUpdate_Ratings": "2023-07-16T10:59:17.1865725+00:00",
-  "LastUpdate_Achievements": "2023-07-16T11:02:39.3465869+00:00"
+  "LastUpdate_Ratings": "2023-07-16T11:58:53.8754231+00:00",
+  "LastUpdate_Achievements": "2023-07-16T12:02:31.3467442+00:00"
 }

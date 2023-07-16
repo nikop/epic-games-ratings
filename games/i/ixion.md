@@ -9,7 +9,7 @@ Rating: 4.56 (Ranked 457)
 | Sputnik 2049 | 19.00% | ~537 |
 | Without Breaking Some Eggs... | 18.00% | ~509 |
 | Infinite Growth... | 18.00% | ~509 |
-| Ready for a New World | 13.00% | ~367 |
+| Ready for a New World | 13.00% | ~368 |
 | Space Society | 12.00% | ~339 |
 | A Thousand Strong | 12.00% | ~339 |
 | Permanent Redesigns | 11.00% | ~311 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 457)
 | This is Fine | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,826 (Ranked 155)  
+Progressed: 2,827 (Ranked 155)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-13 | 2,812 | 0 |
 | 2023-07-14 | 2,817 | 0 |
 | 2023-07-15 | 2,824 | 0 |
-| 2023-07-16 | 2,826 | 0 |
+| 2023-07-16 | 2,827 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1839,9 +1839,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43059,
+  "EOS_Progressed": 43060,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5059,6 +5059,11 @@
       "Time": "2023-07-16T08:04:18.3167539+00:00",
       "NumProgressed": 43059,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-07-16T12:03:28.6995761+00:00",
+      "NumProgressed": 43060,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -5070,7 +5075,7 @@
       "Name": "Groovy",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 26266
+      "UsersEstimate": 26267
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -5142,7 +5147,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 17654
+      "UsersEstimate": 17655
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -5294,7 +5299,7 @@
       "Name": "He did Nazi that coming",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 13348
+      "UsersEstimate": 13349
     },
     {
       "ID": "SE_COMPLETE_TERMINAL_ERROR",
@@ -5326,7 +5331,7 @@
       "Name": "All of this has happened before\u2026",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15501
+      "UsersEstimate": 15502
     },
     {
       "ID": "SE_DROP_PIANO_ON_A_ZOMBIE",
@@ -5334,7 +5339,7 @@
       "Name": "Kill of the week",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13348
+      "UsersEstimate": 13349
     },
     {
       "ID": "SE_ELECTROCUTE_X_ZOMBIES_WITH_ONE_SPECIAL_MELEE",
@@ -5382,7 +5387,7 @@
       "Name": "Come and get it! It\u0027s a running buffet!",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 16362
+      "UsersEstimate": 16363
     },
     {
       "ID": "SE_GET_X_HEADSHOT_STREAK",
@@ -5390,7 +5395,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15501
+      "UsersEstimate": 15502
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -5422,7 +5427,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 19807
+      "UsersEstimate": 19808
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -5446,7 +5451,7 @@
       "Name": "Zombie killin\u0027 machine",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15501
+      "UsersEstimate": 15502
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_ATTACKING_OTHER_PLAYERS",
@@ -5470,7 +5475,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 28419
+      "UsersEstimate": 28420
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -5526,7 +5531,7 @@
       "Name": "Blood splattered",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27988
+      "UsersEstimate": 27989
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -5590,22 +5595,22 @@
       "Name": "Every bullet counts",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15501
+      "UsersEstimate": 15502
     }
   ],
   "AchievementSets": [
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43059,
+      "Progressed": 43060,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-07-16T08:01:21.243146+00:00",
-  "LastChanged_Achievements": "2023-07-16T11:03:47.8409983+00:00",
+  "LastChanged_Achievements": "2023-07-16T12:03:28.6995751+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:54.9014317+00:00",
-  "LastUpdate_Ratings": "2023-07-16T11:00:54.6206585+00:00",
-  "LastUpdate_Achievements": "2023-07-16T11:03:47.8410637+00:00"
+  "LastUpdate_Ratings": "2023-07-16T11:59:58.0175394+00:00",
+  "LastUpdate_Achievements": "2023-07-16T12:03:28.6996546+00:00"
 }
