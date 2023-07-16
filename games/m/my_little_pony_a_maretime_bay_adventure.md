@@ -11,15 +11,15 @@
 | Amateur Detective | 65.00% | ~26 |
 | Glowing Up | 63.00% | ~25 |
 | Sheriff's Apprentice | 57.00% | ~23 |
-| Pro Herder | 55.00% | ~22 |
-| The Neigh-gotiator | 55.00% | ~22 |
-| Where Did The Magic Go? | 50.00% | ~20 |
-| Friendship Is Still Magic | 50.00% | ~20 |
-| Starscout | 38.00% | ~15 |
-| W.I.N.G.S. Cadet | 33.00% | ~13 |
+| Pro Herder | 57.00% | ~23 |
+| The Neigh-gotiator | 57.00% | ~23 |
+| Where Did The Magic Go? | 53.00% | ~21 |
+| Friendship Is Still Magic | 53.00% | ~21 |
+| Starscout | 40.00% | ~16 |
+| W.I.N.G.S. Cadet | 35.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 40 (Ranked 350)  
-Completed: 11 (27.50%) (Ranked 4)  
+Completed: 12 (30.00%) (Ranked 3)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -31,6 +31,7 @@ Completed: 11 (27.50%) (Ranked 4)
 | 2023-06-20 | 39 | 10 |
 | 2023-07-14 | 39 | 11 |
 | 2023-07-15 | 40 | 11 |
+| 2023-07-16 | 40 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

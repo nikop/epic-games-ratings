@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 155,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2498,9 +2498,9 @@
       "Count": 310
     }
   ],
-  "EOS_Progressed": 15847,
+  "EOS_Progressed": 15851,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -7273,6 +7273,11 @@
       "Time": "2023-07-16T13:15:54.8035412+00:00",
       "NumProgressed": 15847,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-07-16T15:03:18.4470136+00:00",
+      "NumProgressed": 15851,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 50,
@@ -7284,7 +7289,7 @@
       "Name": "Serving Ale",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "AllFood",
@@ -7356,7 +7361,7 @@
       "Name": "Refinery",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "Win5Years",
@@ -7372,7 +7377,7 @@
       "Name": "First Real Expedition",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "WinHard",
@@ -7380,7 +7385,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "WinImpossible",
@@ -7444,7 +7449,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "WinNearFishmen",
@@ -7452,7 +7457,7 @@
       "Name": "Fishmen Ritual Site",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "WinNearForbidden",
@@ -7460,7 +7465,7 @@
       "Name": "Forbidden Lands",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "WinNearHaunted",
@@ -7508,7 +7513,7 @@
       "Name": "Lost Colonies",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "WinNearStatue",
@@ -7524,7 +7529,7 @@
       "Name": "Forsaken Gods Temple",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "WinNearTorrent",
@@ -7548,7 +7553,7 @@
       "Name": "Coral Forest",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "WinOnCursed",
@@ -7572,7 +7577,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "WinPrestige10",
@@ -7668,7 +7673,7 @@
       "Name": "Defying the Crown",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "Year1Dangerous",
@@ -7676,22 +7681,22 @@
       "Name": "Into the Forest",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     }
   ],
   "AchievementSets": [
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 15847,
+      "Progressed": 15851,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-07-15T05:00:39.159135+00:00",
-  "LastChanged_Achievements": "2023-07-16T14:02:24.0979539+00:00",
+  "LastChanged_Achievements": "2023-07-16T15:03:18.4470133+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:06.1023937+00:00",
-  "LastUpdate_Ratings": "2023-07-16T14:00:18.8971879+00:00",
-  "LastUpdate_Achievements": "2023-07-16T14:02:24.0980802+00:00"
+  "LastUpdate_Ratings": "2023-07-16T15:00:58.4696373+00:00",
+  "LastUpdate_Achievements": "2023-07-16T15:03:18.4470657+00:00"
 }

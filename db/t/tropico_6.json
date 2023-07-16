@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1008,7 +1008,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4112,
+  "EOS_Progressed": 4113,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
@@ -6143,6 +6143,11 @@
       "Time": "2023-07-16T14:05:17.9613079+00:00",
       "NumProgressed": 4112,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-16T15:05:56.4915302+00:00",
+      "NumProgressed": 4113,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -6192,9 +6197,9 @@
       "ID": "ACH_EP_BALLGAME",
       "SetID": "1p8ab95",
       "Name": "Go Sovereigns!",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 452
+      "UsersEstimate": 494
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -6250,7 +6255,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1850
+      "UsersEstimate": 1851
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -6290,7 +6295,7 @@
       "Name": "Apocalypso",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_EP_TROPICOLAND",
@@ -6314,7 +6319,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3125
+      "UsersEstimate": 3126
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -6336,9 +6341,9 @@
       "ID": "ACH_MISSION_NOELECTION",
       "SetID": "1p8ab95",
       "Name": "We Don\u0027t Have Time For That",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 822
+      "UsersEstimate": 781
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -6473,15 +6478,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4112,
+      "Progressed": 4113,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-09T22:00:42.3216597+00:00",
-  "LastChanged_Achievements": "2023-07-16T14:05:17.961307+00:00",
+  "LastChanged_Achievements": "2023-07-16T15:05:56.4915297+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:16.0436214+00:00",
-  "LastUpdate_Ratings": "2023-07-16T14:00:30.334789+00:00",
-  "LastUpdate_Achievements": "2023-07-16T14:05:17.9614195+00:00"
+  "LastUpdate_Ratings": "2023-07-16T15:01:14.0746063+00:00",
+  "LastUpdate_Achievements": "2023-07-16T15:05:56.4915765+00:00"
 }

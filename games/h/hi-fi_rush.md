@@ -13,6 +13,7 @@ Rating: 4.87 (Ranked 24)
 | Headliner | 1.00% | ~35 |
 | Time to pay up! | 1.00% | ~35 |
 | Who's the boss now? | 1.00% | ~35 |
+| Well that was a rush! | 1.00% | ~35 |
 | Thanks for the free chip, Peppermint! | 1.00% | ~35 |
 | I play my own way! | 1.00% | ~35 |
 | Whoa! There's ANOTHER health bar!? | 1.00% | ~35 |
@@ -30,7 +31,6 @@ Rating: 4.87 (Ranked 24)
 | Who put gears in there? | 1.00% | ~35 |
 | Alright, that felt AWESOME! | 1.00% | ~35 |
 | You can pet the cat! | 1.00% | ~35 |
-| Well that was a rush! | 0.90% | ~31 |
 | Does that say weakpoint? | 0.80% | ~28 |
 | That's a lot of junk metal… | 0.70% | ~24 |
 | There's such a thing as TOO helpful | 0.70% | ~24 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | I'm trying to FOCUS HERE! | 0.00% | ~0 |
 | OK, I THINK I know what I'm doing now | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,455 (Ranked 146)  
+Progressed: 3,456 (Ranked 146)  
 Completed: 6 (0.17%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 6 (0.17%) (Ranked 169)
 | 2023-07-13 | 3,441 | 5 |
 | 2023-07-14 | 3,446 | 5 |
 | 2023-07-15 | 3,449 | 5 |
-| 2023-07-16 | 3,455 | 6 |
+| 2023-07-16 | 3,456 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 194,
   "Ranking_EOS_Progress": 495,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-11-15T17:00:00+00:00",
     "PcReleaseDate": "2022-10-17T15:00:00+00:00",
@@ -3954,10 +3954,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 2019,
       "NumberOfAwardsMax": 212
+    },
+    {
+      "Time": "2023-07-16T15:00:30.2368984+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 2024,
+      "NumberOfAwardsMax": 212
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2019,
+  "NumberOfAwards": 2024,
   "NumberOfAwardsMax": 212,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3983,7 +3989,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 187
+      "Count": 189
     },
     {
       "Text": "This game is Relaxing",
@@ -3995,13 +4001,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 156
+      "Count": 157
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 154
+      "Count": 156
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4046,8 +4052,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-07-16T13:12:33.6953914+00:00",
+  "LastChanged": "2023-07-16T15:00:30.236898+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:39.4744952+00:00",
-  "LastUpdate_Ratings": "2023-07-16T13:59:54.8087807+00:00",
-  "LastUpdate_Achievements": "2023-07-16T14:02:28.7859333+00:00"
+  "LastUpdate_Ratings": "2023-07-16T15:00:30.2368988+00:00",
+  "LastUpdate_Achievements": "2023-07-16T15:03:24.7093066+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 788,
+  "EOS_Progressed": 790,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2316,6 +2316,11 @@
       "Time": "2023-07-16T14:04:23.1361006+00:00",
       "NumProgressed": 788,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-16T15:04:46.1552155+00:00",
+      "NumProgressed": 790,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2423,7 +2428,7 @@
       "Name": "Collector 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "collector_2",
@@ -2495,7 +2500,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "elemental_stones_2",
@@ -2567,7 +2572,7 @@
       "Name": "Glitter of Gold 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "glitter_of_gold_2",
@@ -2854,14 +2859,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 788,
+      "Progressed": 790,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-07-16T14:04:23.1360999+00:00",
+  "LastChanged_Achievements": "2023-07-16T15:04:46.1552151+00:00",
   "LastUpdate_AppInfo": "2023-07-11T03:11:42.9317837+00:00",
-  "LastUpdate_Ratings": "2023-07-16T13:57:22.6435369+00:00",
-  "LastUpdate_Achievements": "2023-07-16T14:04:23.1362387+00:00"
+  "LastUpdate_Ratings": "2023-07-16T14:57:21.4690307+00:00",
+  "LastUpdate_Achievements": "2023-07-16T15:04:46.1552737+00:00"
 }

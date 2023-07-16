@@ -20,7 +20,7 @@ Number of Ratings: 706  (23.09.2022)
 | Studious Researcher | 50.00% | ~2,322 |
 | Beam Me Up | 49.00% | ~2,276 |
 | Adept Researcher | 44.00% | ~2,044 |
-| Retribution | 39.00% | ~1,812 |
+| Retribution | 40.00% | ~1,858 |
 | ...And Don’t Come Back! | 39.00% | ~1,812 |
 | Fit For A King | 38.00% | ~1,765 |
 | Luminary Researcher | 34.00% | ~1,579 |

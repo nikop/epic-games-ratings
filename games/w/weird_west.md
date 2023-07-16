@@ -27,9 +27,9 @@ Number of Ratings: 125  (23.09.2022)
 | Here Comes Santa Claus | 16.00% | ~271 |
 | Winds of War | 16.00% | ~271 |
 | Dog Days | 13.00% | ~220 |
+| Out on the Ebb Tide | 13.00% | ~220 |
 | Workers' Rights | 13.00% | ~220 |
 | Elusive Prey | 12.00% | ~203 |
-| Out on the Ebb Tide | 12.00% | ~203 |
 | Power Behind the Pulpit | 12.00% | ~203 |
 | Something Wicked This Way Comes… | 12.00% | ~203 |
 | There is Hope | 12.00% | ~203 |

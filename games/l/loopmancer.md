@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Black Cat's Warning | 105.00% | ~98 |
-| Break no Sweat | 99.00% | ~92 |
-| Every little bit counts | 99.00% | ~92 |
-| Growth | 88.00% | ~82 |
-| Targeting the Enemy | 70.00% | ~65 |
-| Unavoidable | 63.00% | ~59 |
-| Revenge | 62.00% | ~58 |
+| Black Cat's Warning | 107.00% | ~98 |
+| Break no Sweat | 100.00% | ~92 |
+| Every little bit counts | 100.00% | ~92 |
+| Growth | 89.00% | ~82 |
+| Targeting the Enemy | 71.00% | ~65 |
+| Unavoidable | 64.00% | ~59 |
+| Revenge | 63.00% | ~58 |
 | Reunion | 43.00% | ~40 |
-| Elimination | 34.00% | ~32 |
-| Fluke | 34.00% | ~32 |
-| Victor's Prejudice | 34.00% | ~32 |
-| Once Bitten, Twice Shy | 31.00% | ~29 |
-| Memento | 31.00% | ~29 |
+| Elimination | 35.00% | ~32 |
+| Fluke | 35.00% | ~32 |
+| Victor's Prejudice | 35.00% | ~32 |
+| Once Bitten, Twice Shy | 32.00% | ~29 |
+| Memento | 32.00% | ~29 |
 | Excellent Driving Skills | 30.00% | ~28 |
 | Fleet-footed | 28.00% | ~26 |
 | Defeat the AI | 27.00% | ~25 |
@@ -26,8 +26,8 @@
 | Best in Dragon City | 23.00% | ~21 |
 | Walking into a Trap | 23.00% | ~21 |
 | Disdain | 22.00% | ~20 |
-| Final Battle | 19.00% | ~18 |
-| Outsider's Profit | 19.00% | ~18 |
+| Final Battle | 20.00% | ~18 |
+| Outsider's Profit | 20.00% | ~18 |
 | Brain in a Vat | 17.00% | ~16 |
 | Reappearance | 16.00% | ~15 |
 | King of the Streets | 11.00% | ~10 |
@@ -62,7 +62,7 @@
 | Heavenly Music | 0.00% | ~0 |
 | Smooth-Sailing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93 (Ranked 303)  
+Progressed: 92 (Ranked 305)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,6 +89,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-06-27 | 95 | 0 |
 | 2023-06-30 | 94 | 0 |
 | 2023-07-04 | 93 | 0 |
+| 2023-07-16 | 92 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

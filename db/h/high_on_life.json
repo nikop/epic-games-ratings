@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -220,7 +220,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23011,
+  "EOS_Progressed": 23012,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
@@ -2210,6 +2210,11 @@
       "Time": "2023-07-16T12:05:54.9789648+00:00",
       "NumProgressed": 23011,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-16T15:07:02.6037069+00:00",
+      "NumProgressed": 23012,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 32,
@@ -2237,7 +2242,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 17718
+      "UsersEstimate": 17719
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -2261,7 +2266,7 @@
       "Name": "Creature Feature",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 6903
+      "UsersEstimate": 6904
     },
     {
       "ID": "ACH_GET_GUS",
@@ -2285,7 +2290,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 17718
+      "UsersEstimate": 17719
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -2293,7 +2298,7 @@
       "Name": "Lezduit!",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 4832
+      "UsersEstimate": 4833
     },
     {
       "ID": "ACH_GET_MAGBOOTS",
@@ -2325,7 +2330,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 19099
+      "UsersEstimate": 19100
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -2341,7 +2346,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 13116
+      "UsersEstimate": 13117
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -2349,7 +2354,7 @@
       "Name": "First Bounty Down",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 13576
+      "UsersEstimate": 13577
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -2373,7 +2378,7 @@
       "Name": "Hardest Battle In The Game",
       "Percentage": 22,
       "XP": 45,
-      "UsersEstimate": 5062
+      "UsersEstimate": 5063
     },
     {
       "ID": "ACH_KILL_KRUBIS",
@@ -2405,7 +2410,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 16798
+      "UsersEstimate": 16799
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -2461,7 +2466,7 @@
       "Name": "Carried Stan\u0027s Load To Completion",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 2991
+      "UsersEstimate": 2992
     },
     {
       "ID": "ACH_SUITO_SUICIDE",
@@ -2469,29 +2474,29 @@
       "Name": "Series Wrap on Suit-O",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 5062
+      "UsersEstimate": 5063
     }
   ],
   "AchievementSets": [
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 23011,
+      "Progressed": 23012,
       "Completed": 8
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 304,
-      "Completed": 304
+      "Progressed": 305,
+      "Completed": 305
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-07-12T23:58:40.6002161+00:00",
-  "LastChanged_Achievements": "2023-07-16T14:06:08.6200192+00:00",
+  "LastChanged_Achievements": "2023-07-16T15:07:02.6037063+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:35.4235565+00:00",
-  "LastUpdate_Ratings": "2023-07-16T13:58:20.7023744+00:00",
-  "LastUpdate_Achievements": "2023-07-16T14:06:08.6200845+00:00"
+  "LastUpdate_Ratings": "2023-07-16T14:58:34.4073822+00:00",
+  "LastUpdate_Achievements": "2023-07-16T15:07:02.6037349+00:00"
 }
