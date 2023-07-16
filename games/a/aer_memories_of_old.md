@@ -18,7 +18,7 @@ Number of Ratings: 170  (23.09.2022)
 | In the belly of the beast | 12.00% | ~1,845 |
 | Wings of Stone | 12.00% | ~1,845 |
 | Condor condo | 10.00% | ~1,537 |
-| Memorial | 9.00% | ~1,383 |
+| Memorial | 9.00% | ~1,384 |
 | An uninvited guest | 8.00% | ~1,230 |
 | Talk to all the spirit animals | 7.00% | ~1,076 |
 | Ripples on the surface | 6.00% | ~922 |
@@ -27,7 +27,7 @@ Number of Ratings: 170  (23.09.2022)
 | Written in stone | 6.00% | ~922 |
 | Hide and Seek | 5.00% | ~769 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,372 (Ranked 111)  
+Progressed: 15,373 (Ranked 111)  
 Completed: 323 (2.10%) (Ranked 75)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 323 (2.10%) (Ranked 75)
 | 2023-07-13 | 15,162 | 318 |
 | 2023-07-14 | 15,237 | 320 |
 | 2023-07-15 | 15,334 | 321 |
-| 2023-07-16 | 15,372 | 323 |
+| 2023-07-16 | 15,373 | 323 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

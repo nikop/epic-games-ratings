@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Once Upon a Time | 96.00% | ~1,005 |
-| Waff! | 94.00% | ~984 |
-| Into the Barn | 87.00% | ~911 |
-| A Prophecy | 85.00% | ~890 |
-| Sword, Shield, Fight! | 76.00% | ~796 |
-| A Grand Visit | 72.00% | ~754 |
+| Once Upon a Time | 96.00% | ~1,006 |
+| Waff! | 94.00% | ~985 |
+| Into the Barn | 87.00% | ~912 |
+| A Prophecy | 85.00% | ~891 |
+| Sword, Shield, Fight! | 75.00% | ~786 |
+| A Grand Visit | 72.00% | ~755 |
 | Fun Guy | 63.00% | ~660 |
-| Vibing | 62.00% | ~649 |
-| Tragic Brave | 54.00% | ~565 |
+| Vibing | 62.00% | ~650 |
+| Tragic Brave | 54.00% | ~566 |
 | Awakened Spirits | 51.00% | ~534 |
 | Little Shop | 50.00% | ~524 |
 | Surprise! | 46.00% | ~482 |
@@ -21,24 +21,24 @@
 | Piece of Cake | 42.00% | ~440 |
 | Gooey Delight! | 42.00% | ~440 |
 | Glimmer of Hope | 42.00% | ~440 |
-| Teacups for Toppy | 41.00% | ~429 |
+| Teacups for Toppy | 41.00% | ~430 |
 | Nightmare Fuel | 40.00% | ~419 |
 | Take Heart | 40.00% | ~419 |
 | The Guardian | 40.00% | ~419 |
 | Well Rested | 40.00% | ~419 |
-| Stronger! | 39.00% | ~408 |
+| Stronger! | 39.00% | ~409 |
 | Ancient Wisdom | 38.00% | ~398 |
 | Frog Facts! | 38.00% | ~398 |
 | All That Glistens | 38.00% | ~398 |
-| Spellbound | 37.00% | ~387 |
-| All Skilled Up! | 37.00% | ~387 |
-| It's Pointy! | 37.00% | ~387 |
+| Spellbound | 37.00% | ~388 |
+| All Skilled Up! | 37.00% | ~388 |
+| It's Pointy! | 37.00% | ~388 |
 | Extinct Again! | 36.00% | ~377 |
 | Bird of Prey | 36.00% | ~377 |
 | Stardust | 36.00% | ~377 |
-| Heartbreaker | 36.00% | ~377 |
-| Kidnapped! | 36.00% | ~377 |
-| Trick Question! | 35.00% | ~366 |
+| Heartbreaker | 35.00% | ~367 |
+| Kidnapped! | 35.00% | ~367 |
+| Trick Question! | 35.00% | ~367 |
 | Pull the Plug | 34.00% | ~356 |
 | Soul Slayer | 34.00% | ~356 |
 | The Downfall | 34.00% | ~356 |
@@ -55,8 +55,8 @@
 | Dance Master | 9.00% | ~94 |
 | Bombs Away! | 9.00% | ~94 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,047 (Ranked 187)  
-Completed: 78 (7.45%) (Ranked 28)  
+Progressed: 1,048 (Ranked 187)  
+Completed: 78 (7.44%) (Ranked 28)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -134,6 +134,7 @@ Completed: 78 (7.45%) (Ranked 28)
 | 2023-07-10 | 1,040 | 78 |
 | 2023-07-11 | 1,044 | 78 |
 | 2023-07-14 | 1,047 | 78 |
+| 2023-07-16 | 1,048 | 78 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

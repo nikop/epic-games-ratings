@@ -13,7 +13,7 @@
 | Cornivore | 47.00% | ~98 |
 | I Believe I Can Fly | 45.00% | ~94 |
 | Early Survivor | 41.00% | ~65 |
-| No Diggity | 40.00% | ~64 |
+| No Diggity | 41.00% | ~65 |
 | Amateur Survivor | 30.00% | ~48 |
 | 10K | 26.00% | ~54 |
 | 15K | 25.00% | ~52 |
@@ -22,15 +22,15 @@
 | Drinking Problem | 21.00% | ~44 |
 | Professional Survivor | 20.00% | ~32 |
 | Quick-Draw Pod | 16.00% | ~25 |
-| Pork Chop Express | 14.00% | ~29 |
-| Carrocketeer | 13.00% | ~27 |
+| Pork Chop Express | 15.00% | ~31 |
+| Carrocketeer | 14.00% | ~29 |
 | Skin Of Your Teeth | 12.00% | ~25 |
 | This Is My Boomstick | 12.00% | ~19 |
+| Quit Horsin' Around | 11.00% | ~23 |
 | Oh My Gourd | 11.00% | ~17 |
 | Summers Here | 11.00% | ~17 |
 | Fresh Pancake | 10.00% | ~21 |
 | Getting Started | 10.00% | ~21 |
-| Quit Horsin' Around | 10.00% | ~21 |
 | Eggtraordinary | 10.00% | ~21 |
 | Perfect | 9.00% | ~14 |
 | Expert Survivor | 9.00% | ~14 |

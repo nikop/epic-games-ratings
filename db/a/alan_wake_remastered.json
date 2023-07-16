@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57403,
+  "EOS_Progressed": 57404,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 321,
+  "EOS_NewPlayers": 318,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8087,6 +8087,11 @@
       "Time": "2023-07-16T10:03:22.1236907+00:00",
       "NumProgressed": 57403,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-07-16T11:02:35.1460084+00:00",
+      "NumProgressed": 57404,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 67,
@@ -8138,7 +8143,7 @@
       "Name": "Park Ranger",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 8610
+      "UsersEstimate": 8611
     },
     {
       "ID": "07",
@@ -8322,7 +8327,7 @@
       "Name": "Sound and Fury",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7462
+      "UsersEstimate": 7463
     },
     {
       "ID": "30",
@@ -8338,7 +8343,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 8036
+      "UsersEstimate": 8037
     },
     {
       "ID": "32",
@@ -8418,7 +8423,7 @@
       "Name": "Finders Keepers",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 8036
+      "UsersEstimate": 8037
     },
     {
       "ID": "42",
@@ -8434,7 +8439,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8610
+      "UsersEstimate": 8611
     },
     {
       "ID": "44",
@@ -8458,7 +8463,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 7462
+      "UsersEstimate": 7463
     },
     {
       "ID": "47",
@@ -8633,21 +8638,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57403,
+      "Progressed": 57404,
       "Completed": 58
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20871,
+      "Progressed": 20872,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-16T10:03:22.1236899+00:00",
+  "LastChanged_Achievements": "2023-07-16T11:02:35.1460078+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:10.5196415+00:00",
-  "LastUpdate_Ratings": "2023-07-16T09:58:07.5981729+00:00",
-  "LastUpdate_Achievements": "2023-07-16T10:03:22.1237741+00:00"
+  "LastUpdate_Ratings": "2023-07-16T10:58:12.0538249+00:00",
+  "LastUpdate_Achievements": "2023-07-16T11:02:35.146104+00:00"
 }

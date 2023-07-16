@@ -6,19 +6,19 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 79.00% | ~4,844 |
-| Worker Specialization | 78.00% | ~4,783 |
-| First Contact | 73.00% | ~4,476 |
-| Win a Battle | 67.00% | ~4,108 |
-| Anomaly Researcher | 63.00% | ~3,863 |
-| Unleash My Power | 62.00% | ~3,802 |
-| Own 30 Planets | 35.00% | ~2,146 |
+| Colonize a Planet | 79.00% | ~4,846 |
+| Worker Specialization | 78.00% | ~4,785 |
+| First Contact | 73.00% | ~4,478 |
+| Win a Battle | 67.00% | ~4,110 |
+| Anomaly Researcher | 63.00% | ~3,864 |
+| Unleash My Power | 62.00% | ~3,803 |
+| Own 30 Planets | 35.00% | ~2,147 |
 | Xenocide | 33.00% | ~2,024 |
-| Design a Civilization | 32.00% | ~1,962 |
-| Commodity Trader | 31.00% | ~1,901 |
-| Design a Ship | 29.00% | ~1,778 |
-| Commodity Seller | 26.00% | ~1,594 |
-| Prestige Victory! | 14.00% | ~858 |
+| Design a Civilization | 32.00% | ~1,963 |
+| Commodity Trader | 31.00% | ~1,902 |
+| Design a Ship | 29.00% | ~1,779 |
+| Commodity Seller | 26.00% | ~1,595 |
+| Prestige Victory! | 14.00% | ~859 |
 | Galactic War | 11.00% | ~675 |
 | Trading Partner | 9.00% | ~552 |
 | Fleet Victory | 9.00% | ~552 |
@@ -40,11 +40,11 @@ Number of Ratings: 429  (23.09.2022)
 | Win as Festron | 1.00% | ~61 |
 | Win as the Navigators | 0.90% | ~55 |
 | Win as Torians | 0.90% | ~55 |
-| Win as the Manti | 0.80% | ~49 |
 | Win as Xeloxi | 0.80% | ~49 |
 | Win as the Drath | 0.70% | ~43 |
 | Win as the Drengin | 0.70% | ~43 |
 | Win as the Krynn | 0.70% | ~43 |
+| Win as the Manti | 0.70% | ~43 |
 | Diplomatic Victory! | 0.70% | ~43 |
 | Win as the Iconians | 0.60% | ~37 |
 | Win as the Iridium | 0.60% | ~37 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,132 (Ranked 132)  
+Progressed: 6,134 (Ranked 132)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-13 | 6,120 | 0 |
 | 2023-07-14 | 6,123 | 0 |
 | 2023-07-15 | 6,131 | 0 |
-| 2023-07-16 | 6,132 | 0 |
+| 2023-07-16 | 6,134 | 0 |
 ## Awards
 Max (Diverse Characters): 92  (Ranked 344)  
 Sum: 666 (Ranked 277)  

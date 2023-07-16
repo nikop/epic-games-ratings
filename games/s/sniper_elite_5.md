@@ -39,11 +39,11 @@ Rating: 4.43 (Ranked 656)
 | Rigged to Blow | 0.80% | ~26 |
 | Tinkerer | 0.80% | ~26 |
 | The Long Game | 0.70% | ~23 |
+| Don't hold your breath | 0.70% | ~23 |
 | Herr Today, Gone Tomorrow | 0.70% | ~23 |
 | Shipbreaker | 0.70% | ~23 |
 | It'll Buff Right Out | 0.60% | ~20 |
 | Road Rage | 0.60% | ~20 |
-| Don't hold your breath | 0.60% | ~20 |
 | Sink or Swim | 0.60% | ~19 |
 | From Paris with Love | 0.50% | ~16 |
 | Burn after reading | 0.50% | ~16 |
@@ -77,7 +77,7 @@ Rating: 4.43 (Ranked 656)
 | Alpha | 0.10% | ~3 |
 | Das Familienjuwel | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,288 (Ranked 147)  
+Progressed: 3,289 (Ranked 147)  
 Completed: 9 (0.27%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 9 (0.27%) (Ranked 152)
 | 2023-07-13 | 3,269 | 9 |
 | 2023-07-14 | 3,277 | 9 |
 | 2023-07-15 | 3,287 | 9 |
-| 2023-07-16 | 3,288 | 9 |
+| 2023-07-16 | 3,289 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7108,10 +7108,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 45738,
       "NumberOfAwardsMax": 5546
+    },
+    {
+      "Time": "2023-07-16T10:57:48.7465093+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 45745,
+      "NumberOfAwardsMax": 5546
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45738,
+  "NumberOfAwards": 45745,
   "NumberOfAwardsMax": 5546,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -7161,7 +7167,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 5125
+      "Count": 5132
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -7182,9 +7188,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 70291,
+  "EOS_Progressed": 70313,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2855,
+  "EOS_NewPlayers": 2838,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16602,6 +16608,11 @@
       "Time": "2023-07-16T10:04:16.7778007+00:00",
       "NumProgressed": 70291,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-16T11:04:27.1200313+00:00",
+      "NumProgressed": 70313,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -16701,7 +16712,7 @@
       "Name": "Absolutely",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "achievement_abu_bakr_IIs_ambition",
@@ -17053,7 +17064,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 4217
+      "UsersEstimate": 4219
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -17133,7 +17144,7 @@
       "Name": "Cold War",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2812
+      "UsersEstimate": 2813
     },
     {
       "ID": "achievement_colonial_management",
@@ -17285,7 +17296,7 @@
       "Name": "Down Under",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "achievement_draculas_revenge",
@@ -17445,7 +17456,7 @@
       "Name": "For the Glory",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3515
+      "UsersEstimate": 3516
     },
     {
       "ID": "achievement_forever_golden",
@@ -17613,7 +17624,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 5623
+      "UsersEstimate": 5625
     },
     {
       "ID": "achievement_grand_coalition",
@@ -17621,7 +17632,7 @@
       "Name": "Grand Coalition",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "achievement_grand_duchy",
@@ -17637,7 +17648,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 4217
+      "UsersEstimate": 4219
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -17765,7 +17776,7 @@
       "Name": "In the Name of the Father",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "achievement_industrial_evolution",
@@ -18045,7 +18056,7 @@
       "Name": "Live Long and Prosper",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "achievement_luck_of_the_irish",
@@ -18581,7 +18592,7 @@
       "Name": "Ruina Imperii",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "achievement_sailor_mon",
@@ -18613,7 +18624,7 @@
       "Name": "Seriously?!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 4217
+      "UsersEstimate": 4219
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -18893,7 +18904,7 @@
       "Name": "That is mine!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 5623
+      "UsersEstimate": 5625
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -19197,7 +19208,7 @@
       "Name": "Trophy Hunter",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "achievement_true_catholic",
@@ -19205,7 +19216,7 @@
       "Name": "True Catholic",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2812
+      "UsersEstimate": 2813
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -19277,7 +19288,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 6326
+      "UsersEstimate": 6328
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -19309,7 +19320,7 @@
       "Name": "Victorious!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 5623
+      "UsersEstimate": 5625
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -19333,7 +19344,7 @@
       "Name": "Voting Streak",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "achievement_we_bled_for_this",
@@ -19444,21 +19455,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 70291,
+      "Progressed": 70313,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 70291,
+      "Progressed": 70313,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-07-16T08:58:04.0810551+00:00",
-  "LastChanged_Achievements": "2023-07-16T10:04:16.7778003+00:00",
+  "LastChanged": "2023-07-16T10:57:48.7465092+00:00",
+  "LastChanged_Achievements": "2023-07-16T11:04:27.1200308+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:17.9711886+00:00",
-  "LastUpdate_Ratings": "2023-07-16T09:57:44.714014+00:00",
-  "LastUpdate_Achievements": "2023-07-16T10:04:16.7788106+00:00"
+  "LastUpdate_Ratings": "2023-07-16T10:57:48.7465098+00:00",
+  "LastUpdate_Achievements": "2023-07-16T11:04:27.1210743+00:00"
 }

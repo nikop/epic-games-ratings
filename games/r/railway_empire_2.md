@@ -11,14 +11,14 @@ Rating: 4.49 (Ranked 577)
 | Departure | 72.00% | ~1,131 |
 | Way of Iron | 70.00% | ~1,100 |
 | Mystery Tour | 68.00% | ~1,068 |
-| We brake for nobody | 66.00% | ~1,037 |
+| We brake for nobody | 67.00% | ~1,053 |
 | Brainstorm | 65.00% | ~1,021 |
 | Travel Company | 65.00% | ~1,021 |
 | Mind the Gap | 64.00% | ~1,005 |
 | All around the World | 62.00% | ~974 |
 | Right through the middle | 56.00% | ~880 |
+| Poor Devil | 54.00% | ~848 |
 | Facility Manager | 53.00% | ~833 |
-| Poor Devil | 53.00% | ~833 |
 | Producer | 50.00% | ~786 |
 | Apprentice | 42.00% | ~660 |
 | Bridge Builder | 41.00% | ~644 |
@@ -31,8 +31,8 @@ Rating: 4.49 (Ranked 577)
 | All mine | 29.00% | ~456 |
 | Mole | 29.00% | ~456 |
 | Socializer | 29.00% | ~456 |
+| General Manager | 26.00% | ~408 |
 | Country Life | 26.00% | ~408 |
-| General Manager | 25.00% | ~393 |
 | Hostile Takeover | 25.00% | ~393 |
 | Seven at one stroke | 24.00% | ~377 |
 | Trailblazer | 20.00% | ~314 |

@@ -752,10 +752,16 @@
       "Rating": 4.37,
       "NumberOfAwards": 266,
       "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2023-07-16T10:59:50.2624004+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 267,
+      "NumberOfAwardsMax": 40
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 266,
+  "NumberOfAwards": 267,
   "NumberOfAwardsMax": 40,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -817,7 +823,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game has Challenging Combat",
@@ -844,8 +850,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-22T17:32:55.4881061+00:00",
   "FirstSeenRating": "2022-08-25T19:31:36.42786+00:00",
-  "LastChanged": "2023-07-14T13:14:31.9084707+00:00",
+  "LastChanged": "2023-07-16T10:59:50.2624003+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:54.7595095+00:00",
-  "LastUpdate_Ratings": "2023-07-16T09:59:34.1735468+00:00",
-  "LastUpdate_Achievements": "2023-07-16T10:05:09.9141982+00:00"
+  "LastUpdate_Ratings": "2023-07-16T10:59:50.2624007+00:00",
+  "LastUpdate_Achievements": "2023-07-16T11:05:36.5502003+00:00"
 }

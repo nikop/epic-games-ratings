@@ -19,11 +19,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | Demonic and Divine | 5.00% | ~517 |
 | Path of the Azata | 4.00% | ~414 |
 | Transformation | 4.00% | ~414 |
+| The Legacy | 4.00% | ~414 |
 | Great Upstart | 4.00% | ~414 |
 | Voice from Your Dreams | 4.00% | ~414 |
 | All Paths Open | 4.00% | ~414 |
 | Heart of the Fallen Land | 3.00% | ~310 |
-| The Legacy | 3.00% | ~310 |
 | Divide and Rule | 3.00% | ~310 |
 | Mythic Reinforcements | 3.00% | ~310 |
 | A Flame | 3.00% | ~310 |
