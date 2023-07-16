@@ -6,23 +6,23 @@ Number of Ratings: 743  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 69.00% | ~29,710 |
-| Say goodbye, creep! | 66.00% | ~28,418 |
+| Shoot it, man! Shoot it in the head! | 69.00% | ~29,711 |
+| Say goodbye, creep! | 66.00% | ~28,419 |
 | Blood splattered | 65.00% | ~27,988 |
-| Choo choo! | 62.00% | ~26,696 |
-| Groovy | 61.00% | ~26,265 |
-| Cleanup on aisle 4! | 57.00% | ~24,543 |
-| Gold | 50.00% | ~21,529 |
-| The boat can leave now...tell the crew | 49.00% | ~21,098 |
-| Stand back boy! | 47.00% | ~20,237 |
+| Choo choo! | 62.00% | ~26,697 |
+| Groovy | 61.00% | ~26,266 |
+| Cleanup on aisle 4! | 57.00% | ~24,544 |
+| Gold | 50.00% | ~21,530 |
+| The boat can leave now...tell the crew | 49.00% | ~21,099 |
+| Stand back boy! | 47.00% | ~20,238 |
 | Give me something to shoot! | 46.00% | ~19,807 |
 | Weird science | 44.00% | ~18,946 |
 | Chain reaction | 44.00% | ~18,946 |
-| What did you say, Blain? | 42.00% | ~18,084 |
+| What did you say, Blain? | 42.00% | ~18,085 |
 | Look mummy! A shark! | 41.00% | ~17,654 |
 | In the dark dark woods... | 39.00% | ~16,793 |
 | Come and get it! It's a running buffet! | 38.00% | ~16,362 |
-| Double tap | 37.00% | ~15,931 |
+| Double tap | 37.00% | ~15,932 |
 | All of this has happened before… | 36.00% | ~15,501 |
 | Cranial blowout! | 36.00% | ~15,501 |
 | Zombie killin' machine | 36.00% | ~15,501 |
@@ -32,14 +32,14 @@ Number of Ratings: 743  (23.09.2022)
 | You're all going to die down here | 32.00% | ~13,779 |
 | He did Nazi that coming | 31.00% | ~13,348 |
 | Kill of the week | 31.00% | ~13,348 |
-| I never liked them anyway | 30.00% | ~12,917 |
-| Is it over? | 28.00% | ~12,056 |
+| I never liked them anyway | 30.00% | ~12,918 |
+| Is it over? | 28.00% | ~12,057 |
 | Got your back | 27.00% | ~11,626 |
 | Gore soaked | 24.00% | ~10,334 |
 | Shock therapy | 22.00% | ~9,473 |
 | Leave the limbs you've lost | 22.00% | ~9,473 |
-| Everyone's a mad scientist, life is the lab | 18.00% | ~7,750 |
-| Take them down screaming | 18.00% | ~7,750 |
+| Everyone's a mad scientist, life is the lab | 18.00% | ~7,751 |
+| Take them down screaming | 18.00% | ~7,751 |
 | Bad Blood | 17.00% | ~7,320 |
 | Weapons expert | 17.00% | ~7,320 |
 | The bigger they are... | 15.00% | ~6,459 |
@@ -55,12 +55,12 @@ Number of Ratings: 743  (23.09.2022)
 | Gotcha, didn't I? | 7.00% | ~3,014 |
 | A gross gross | 7.00% | ~3,014 |
 | Hail to the king, baby! | 7.00% | ~3,014 |
-| Something wicked this way comes | 6.00% | ~2,583 |
-| Not today you won't | 6.00% | ~2,583 |
-| Take a little bit of Italy with you | 6.00% | ~2,583 |
-| Staring at Shadows | 6.00% | ~2,583 |
-| I told you we should have gone to the beach | 6.00% | ~2,583 |
-| Hoarder | 6.00% | ~2,583 |
+| Something wicked this way comes | 6.00% | ~2,584 |
+| Not today you won't | 6.00% | ~2,584 |
+| Take a little bit of Italy with you | 6.00% | ~2,584 |
+| Staring at Shadows | 6.00% | ~2,584 |
+| I told you we should have gone to the beach | 6.00% | ~2,584 |
+| Hoarder | 6.00% | ~2,584 |
 | Kali Ma | 5.00% | ~2,153 |
 | Have you tried turning it off and on again? | 5.00% | ~2,153 |
 | They're coming to get you Barbara | 4.00% | ~1,722 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~431 |
 | None more hard | 0.50% | ~215 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,058 (Ranked 89)  
+Progressed: 43,059 (Ranked 89)  
 Completed: 25 (0.06%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,10 +160,10 @@ Completed: 25 (0.06%) (Ranked 197)
 | 2023-07-13 | 43,038 | 25 |
 | 2023-07-14 | 43,046 | 25 |
 | 2023-07-15 | 43,056 | 25 |
-| 2023-07-16 | 43,058 | 25 |
+| 2023-07-16 | 43,059 | 25 |
 ## Awards
 Max (Great Boss Battles): 802  (Ranked 152)  
-Sum: 2,445 (Ranked 173)  
+Sum: 2,446 (Ranked 173)  
 Diff (max vs sum): -21  
 | Award | Count |
 | ----- | ----- |
@@ -175,7 +175,7 @@ Diff (max vs sum): -21
 | This game is Extremely Fun | 206 |
 | This game has Quickly Understood Controls | 200 |
 | This game is Relaxing | 184 |
-| This game has Amazing Characters | 179 |
+| This game has Amazing Characters | 180 |
 | This game has Obsessive Gameplay | 165 |
 | This game has Challenging Combat | 84 |
 | This game has a Creative Community | 40 |
@@ -333,4 +333,4 @@ Diff (max vs sum): -21
 | 2023-07-10 | 4.69 | - | 799 | 2,438 |
 | 2023-07-14 | 4.69 | - | 800 | 2,440 |
 | 2023-07-15 | 4.69 | - | 802 | 2,442 |
-| 2023-07-16 | 4.69 | - | 802 | 2,445 |
+| 2023-07-16 | 4.69 | - | 802 | 2,446 |

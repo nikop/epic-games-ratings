@@ -105,6 +105,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 17.00% | ~2,187 |
 | Beloved | 16.00% | ~2,059 |
 | Strong Difficulty | 16.00% | ~2,059 |
+| Gnosticism | 16.00% | ~2,059 |
 | Veneration | 16.00% | ~2,059 |
 | Kushite Cavalry | 16.00% | ~2,059 |
 | Bad Heir Day | 15.00% | ~1,930 |
@@ -115,7 +116,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Paganism | 15.00% | ~1,930 |
 | Industrial Progress | 15.00% | ~1,930 |
 | Enlightenment | 15.00% | ~1,930 |
-| Gnosticism | 15.00% | ~1,930 |
 | Revelation | 15.00% | ~1,930 |
 | Win a Single Player Game | 15.00% | ~1,930 |
 | Regicide | 14.00% | ~1,801 |

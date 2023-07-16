@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -187,7 +187,7 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 30165,
+  "EOS_Progressed": 30169,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 878,
   "EOS_NewCompleters": 0,
@@ -9512,6 +9512,11 @@
       "Time": "2023-07-16T07:04:52.4587054+00:00",
       "NumProgressed": 30165,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-07-16T08:04:37.8602431+00:00",
+      "NumProgressed": 30169,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -9531,7 +9536,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6033
+      "UsersEstimate": 6034
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -9715,7 +9720,7 @@
       "Name": "Vroll With It",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ACH_27_VROLL_QUICK_KILL",
@@ -9723,7 +9728,7 @@
       "Name": "Swift of Foot, Keen of Blade",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ACH_28_FINISHED_GAME_NO_MANA_USE",
@@ -9754,7 +9759,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 30165,
+      "Progressed": 30169,
       "Completed": 20
     }
   ],
@@ -9762,8 +9767,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-07-11T15:00:39.3575549+00:00",
-  "LastChanged_Achievements": "2023-07-16T07:04:52.4587049+00:00",
+  "LastChanged_Achievements": "2023-07-16T08:04:37.8602426+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:02.6964927+00:00",
-  "LastUpdate_Ratings": "2023-07-16T07:02:14.8274118+00:00",
-  "LastUpdate_Achievements": "2023-07-16T07:04:52.4588009+00:00"
+  "LastUpdate_Ratings": "2023-07-16T08:01:31.9829198+00:00",
+  "LastUpdate_Achievements": "2023-07-16T08:04:37.8603007+00:00"
 }

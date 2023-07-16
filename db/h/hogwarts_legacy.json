@@ -4966,10 +4966,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 39273,
       "NumberOfAwardsMax": 21005
+    },
+    {
+      "Time": "2023-07-16T07:58:08.7194014+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 39275,
+      "NumberOfAwardsMax": 21005
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 39273,
+  "NumberOfAwards": 39275,
   "NumberOfAwardsMax": 21005,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5013,7 +5019,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 877
+      "Count": 879
     },
     {
       "Text": "This game is Relaxing",
@@ -5046,9 +5052,9 @@
       "Count": 554
     }
   ],
-  "EOS_Progressed": 287660,
+  "EOS_Progressed": 287663,
   "EOS_Completed": 429,
-  "EOS_NewPlayers": 1565,
+  "EOS_NewPlayers": 1559,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -14341,6 +14347,11 @@
       "Time": "2023-07-16T07:05:02.318948+00:00",
       "NumProgressed": 287660,
       "NumCompleted": 429
+    },
+    {
+      "Time": "2023-07-16T08:04:46.2201575+00:00",
+      "NumProgressed": 287663,
+      "NumCompleted": 429
     }
   ],
   "TotalAchievements": 45,
@@ -14352,7 +14363,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34519
+      "UsersEstimate": 34520
     },
     {
       "ID": "PFA_10",
@@ -14472,7 +14483,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 25889
+      "UsersEstimate": 25890
     },
     {
       "ID": "PFA_24",
@@ -14520,7 +14531,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11506
+      "UsersEstimate": 11507
     },
     {
       "ID": "PFA_3",
@@ -14632,7 +14643,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11506
+      "UsersEstimate": 11507
     },
     {
       "ID": "PFA_42",
@@ -14696,7 +14707,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 25889
+      "UsersEstimate": 25890
     },
     {
       "ID": "PFA_9",
@@ -14711,16 +14722,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 287660,
+      "Progressed": 287663,
       "Completed": 429
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-07-16T02:35:11.1708737+00:00",
-  "LastChanged_Achievements": "2023-07-16T07:05:02.3189473+00:00",
+  "LastChanged": "2023-07-16T07:58:08.7194013+00:00",
+  "LastChanged_Achievements": "2023-07-16T08:04:46.2201568+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:19.3801839+00:00",
-  "LastUpdate_Ratings": "2023-07-16T06:58:03.3457053+00:00",
-  "LastUpdate_Achievements": "2023-07-16T07:05:02.3190654+00:00"
+  "LastUpdate_Ratings": "2023-07-16T07:58:08.7194019+00:00",
+  "LastUpdate_Achievements": "2023-07-16T08:04:46.2202276+00:00"
 }

@@ -15,6 +15,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Useless Allies | 0.20% | ~424 |
 | Mad Cow Disease | 0.20% | ~424 |
 | Exploring Port Nyanzaru | 0.20% | ~424 |
+| Running of the Saurs | 0.20% | ~424 |
 | The Contagious Curse | 0.20% | ~424 |
 | Escort to Waterdeep | 0.20% | ~424 |
 | Waterdeep Detours | 0.20% | ~424 |
@@ -129,7 +130,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | On The Job Learning | 0.10% | ~212 |
 | Strike! | 0.10% | ~178 |
 | Take Five | 0.10% | ~178 |
-| Running of the Saurs | 0.10% | ~212 |
 | Lost in the Goblin Halls | 0.10% | ~212 |
 | Batiri in the Goblin Halls | 0.10% | ~212 |
 | Temporal Rift in the Goblin Halls | 0.10% | ~178 |
@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212,150 (Ranked 52)  
+Progressed: 212,164 (Ranked 52)  
 Completed: 2,055 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -601,7 +601,7 @@ Completed: 2,055 (0.97%) (Ranked 102)
 | 2023-07-13 | 211,069 | 2,049 |
 | 2023-07-14 | 211,507 | 2,050 |
 | 2023-07-15 | 212,014 | 2,053 |
-| 2023-07-16 | 212,150 | 2,055 |
+| 2023-07-16 | 212,164 | 2,055 |
 ## Awards
 Max (Diverse Characters): 5,036  (Ranked 66)  
 Sum: 30,535 (Ranked 38)  

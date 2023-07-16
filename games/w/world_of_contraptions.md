@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Starting to take notes | 68.00% | ~88 |
-| The first of many | 57.00% | ~74 |
+| The first of many | 58.00% | ~75 |
 | Graduated in contraptions | 21.00% | ~27 |
 | First medium level | 9.00% | ~12 |
 | Easy group | 5.00% | ~6 |

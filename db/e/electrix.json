@@ -4,8 +4,8 @@
   "ProductSlug": "electrix-e656d6",
   "Ranking_EOS_Progress": 495,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-15T03:23:17.7627165+00:00",
-  "LastUpdate_Ratings": "2023-07-16T06:59:40.8039477+00:00",
-  "LastUpdate_Achievements": "2023-07-16T07:04:13.1556842+00:00"
+  "LastUpdate_Ratings": "2023-07-16T07:59:23.0431781+00:00",
+  "LastUpdate_Achievements": "2023-07-16T08:03:44.5636087+00:00"
 }

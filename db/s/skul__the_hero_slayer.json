@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -890,7 +890,7 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 7909,
+  "EOS_Progressed": 7910,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
@@ -3400,6 +3400,11 @@
       "Time": "2023-07-15T03:32:15.8953319+00:00",
       "NumProgressed": 7909,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-07-16T08:05:26.4535797+00:00",
+      "NumProgressed": 7910,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -3467,7 +3472,7 @@
       "Name": "Deadly Power",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "FirstHeroLastBattle",
@@ -3475,7 +3480,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 2056
+      "UsersEstimate": 2057
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -3491,7 +3496,7 @@
       "Name": "Go Home...",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2135
+      "UsersEstimate": 2136
     },
     {
       "ID": "HeroSlayer",
@@ -3571,7 +3576,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7355
+      "UsersEstimate": 7356
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -3579,7 +3584,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 3796
+      "UsersEstimate": 3797
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -3602,15 +3607,15 @@
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7909,
+      "Progressed": 7910,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-07-13T02:26:01.6153554+00:00",
-  "LastChanged_Achievements": "2023-07-16T07:05:49.1929102+00:00",
+  "LastChanged_Achievements": "2023-07-16T08:05:26.4535791+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:55.8883979+00:00",
-  "LastUpdate_Ratings": "2023-07-16T07:00:41.4252834+00:00",
-  "LastUpdate_Achievements": "2023-07-16T07:05:49.1929488+00:00"
+  "LastUpdate_Ratings": "2023-07-16T08:00:13.3009961+00:00",
+  "LastUpdate_Achievements": "2023-07-16T08:05:26.4536053+00:00"
 }

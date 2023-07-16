@@ -24,8 +24,8 @@ Number of Ratings: 209  (23.09.2022)
 | Magnet Repel | 88.00% | ~1,896 |
 | You feel middle classy | 87.00% | ~1,874 |
 | Boomeraxe | 87.00% | ~1,874 |
+| Iron Pickaxe | 87.00% | ~1,874 |
 | Banking District | 86.00% | ~1,852 |
-| Iron Pickaxe | 86.00% | ~1,852 |
 | Arrested | 85.00% | ~1,831 |
 | Zappy Gun | 85.00% | ~1,831 |
 | Got your own one now | 85.00% | ~1,831 |
@@ -39,7 +39,7 @@ Number of Ratings: 209  (23.09.2022)
 | Translocator | 80.00% | ~1,723 |
 | Inner Peace | 77.00% | ~1,659 |
 | Diamond Pickaxe | 77.00% | ~1,659 |
-| Killed them all | 76.00% | ~1,637 |
+| Killed them all | 77.00% | ~1,659 |
 | Trickle Down Economy | 76.00% | ~1,637 |
 | Win | 76.00% | ~1,637 |
 | Greenhouse | 72.00% | ~1,551 |
@@ -61,7 +61,7 @@ Number of Ratings: 209  (23.09.2022)
 | All the chests | 13.00% | ~280 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,154 (Ranked 162)  
-Completed: 259 (12.02%) (Ranked 17)  
+Completed: 259 (12.02%) (Ranked 16)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

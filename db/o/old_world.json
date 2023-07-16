@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1541,7 +1541,7 @@
   ],
   "EOS_Progressed": 12867,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9774,9 +9774,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_GNOSTICISM",
       "SetID": "7l38kb8",
       "Name": "Gnosticism",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1930
+      "UsersEstimate": 2059
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_LEGALISM",
@@ -10092,8 +10092,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-07-09T22:58:11.6246548+00:00",
-  "LastChanged_Achievements": "2023-07-16T07:05:45.9623833+00:00",
+  "LastChanged_Achievements": "2023-07-16T08:05:23.8957839+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:33.7515284+00:00",
-  "LastUpdate_Ratings": "2023-07-16T06:58:59.7984201+00:00",
-  "LastUpdate_Achievements": "2023-07-16T07:05:45.9635134+00:00"
+  "LastUpdate_Ratings": "2023-07-16T07:58:46.9505511+00:00",
+  "LastUpdate_Achievements": "2023-07-16T08:05:23.8964478+00:00"
 }

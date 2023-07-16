@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 112,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3128,9 +3128,9 @@
       "Count": 381
     }
   ],
-  "EOS_Progressed": 10341,
+  "EOS_Progressed": 10342,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8503,6 +8503,11 @@
       "Time": "2023-07-16T03:32:06.7161806+00:00",
       "NumProgressed": 10341,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-16T08:05:08.3323391+00:00",
+      "NumProgressed": 10342,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -8538,7 +8543,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -9441,21 +9446,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9123,
+      "Progressed": 9124,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10341,
+      "Progressed": 10342,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-15T20:59:00.2189312+00:00",
-  "LastChanged_Achievements": "2023-07-16T07:05:27.877184+00:00",
+  "LastChanged_Achievements": "2023-07-16T08:05:08.3323387+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:17.6267462+00:00",
-  "LastUpdate_Ratings": "2023-07-16T06:59:44.8201421+00:00",
-  "LastUpdate_Achievements": "2023-07-16T07:05:27.8774226+00:00"
+  "LastUpdate_Ratings": "2023-07-16T07:59:24.5548355+00:00",
+  "LastUpdate_Achievements": "2023-07-16T08:05:08.3324935+00:00"
 }
