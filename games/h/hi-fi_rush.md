@@ -6,32 +6,32 @@ Rating: 4.87 (Ranked 24)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | NOW we got a kickass hideout! | 2.00% | ~39 |
-| Start with a bang! | 1.00% | ~34 |
-| Cream of the Crop | 1.00% | ~34 |
-| This will cost you big time | 1.00% | ~34 |
-| The Negotiator | 1.00% | ~34 |
-| Headliner | 1.00% | ~34 |
-| Time to pay up! | 1.00% | ~34 |
-| Who's the boss now? | 1.00% | ~34 |
-| Thanks for the free chip, Peppermint! | 1.00% | ~34 |
-| I play my own way! | 1.00% | ~34 |
-| Whoa! There's ANOTHER health bar!? | 1.00% | ~34 |
-| I have to read these things? | 1.00% | ~34 |
-| Feeling the beat! | 1.00% | ~34 |
-| You got this, Peppermint? | 1.00% | ~34 |
-| You must like calling me in, Chai | 1.00% | ~34 |
-| Z-shielding's got nothing on us! | 1.00% | ~34 |
-| Out in a puff of smoke | 1.00% | ~34 |
-| Perfect Parry | 1.00% | ~34 |
-| Perfecter Parry-er! | 1.00% | ~34 |
-| Uh, they were broken when I got here | 1.00% | ~34 |
-| Kissing the sky! | 1.00% | ~34 |
-| I look cool. But I can look COOLER. | 1.00% | ~34 |
-| Who put gears in there? | 1.00% | ~34 |
-| Alright, that felt AWESOME! | 1.00% | ~34 |
-| You can pet the cat! | 1.00% | ~34 |
+| Start with a bang! | 1.00% | ~35 |
+| Cream of the Crop | 1.00% | ~35 |
+| This will cost you big time | 1.00% | ~35 |
+| The Negotiator | 1.00% | ~35 |
+| Headliner | 1.00% | ~35 |
+| Time to pay up! | 1.00% | ~35 |
+| Who's the boss now? | 1.00% | ~35 |
+| Thanks for the free chip, Peppermint! | 1.00% | ~35 |
+| I play my own way! | 1.00% | ~35 |
+| Whoa! There's ANOTHER health bar!? | 1.00% | ~35 |
+| I have to read these things? | 1.00% | ~35 |
+| Feeling the beat! | 1.00% | ~35 |
+| You got this, Peppermint? | 1.00% | ~35 |
+| You must like calling me in, Chai | 1.00% | ~35 |
+| Z-shielding's got nothing on us! | 1.00% | ~35 |
+| Out in a puff of smoke | 1.00% | ~35 |
+| Perfect Parry | 1.00% | ~35 |
+| Perfecter Parry-er! | 1.00% | ~35 |
+| Uh, they were broken when I got here | 1.00% | ~35 |
+| Kissing the sky! | 1.00% | ~35 |
+| I look cool. But I can look COOLER. | 1.00% | ~35 |
+| Who put gears in there? | 1.00% | ~35 |
+| Alright, that felt AWESOME! | 1.00% | ~35 |
+| You can pet the cat! | 1.00% | ~35 |
 | Well that was a rush! | 0.90% | ~31 |
-| Does that say weakpoint? | 0.70% | ~24 |
+| Does that say weakpoint? | 0.80% | ~28 |
 | That's a lot of junk metal… | 0.60% | ~21 |
 | There's such a thing as TOO helpful | 0.60% | ~21 |
 | Call me Turbo Chai | 0.60% | ~12 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | I'm trying to FOCUS HERE! | 0.00% | ~0 |
 | OK, I THINK I know what I'm doing now | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,450 (Ranked 146)  
+Progressed: 3,451 (Ranked 146)  
 Completed: 6 (0.17%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 6 (0.17%) (Ranked 169)
 | 2023-07-13 | 3,441 | 5 |
 | 2023-07-14 | 3,446 | 5 |
 | 2023-07-15 | 3,449 | 5 |
-| 2023-07-16 | 3,450 | 6 |
+| 2023-07-16 | 3,451 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

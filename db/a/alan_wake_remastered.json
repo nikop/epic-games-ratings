@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57390,
+  "EOS_Progressed": 57391,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 321,
+  "EOS_NewPlayers": 319,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8062,6 +8062,11 @@
       "Time": "2023-07-16T04:03:35.4265136+00:00",
       "NumProgressed": 57390,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-07-16T05:03:29.1321859+00:00",
+      "NumProgressed": 57391,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 67,
@@ -8113,7 +8118,7 @@
       "Name": "Park Ranger",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 8608
+      "UsersEstimate": 8609
     },
     {
       "ID": "07",
@@ -8321,7 +8326,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14921
+      "UsersEstimate": 14922
     },
     {
       "ID": "33",
@@ -8345,7 +8350,7 @@
       "Name": "Let There Be Light",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 15495
+      "UsersEstimate": 15496
     },
     {
       "ID": "36",
@@ -8409,7 +8414,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8608
+      "UsersEstimate": 8609
     },
     {
       "ID": "44",
@@ -8481,7 +8486,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1251
+      "UsersEstimate": 1252
     },
     {
       "ID": "53",
@@ -8608,21 +8613,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57390,
+      "Progressed": 57391,
       "Completed": 58
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20858,
+      "Progressed": 20859,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-16T04:03:35.4265132+00:00",
+  "LastChanged_Achievements": "2023-07-16T05:03:29.1321853+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:10.5196415+00:00",
-  "LastUpdate_Ratings": "2023-07-16T03:58:47.6811589+00:00",
-  "LastUpdate_Achievements": "2023-07-16T04:03:35.4266474+00:00"
+  "LastUpdate_Ratings": "2023-07-16T04:58:37.084674+00:00",
+  "LastUpdate_Achievements": "2023-07-16T05:03:29.1323317+00:00"
 }

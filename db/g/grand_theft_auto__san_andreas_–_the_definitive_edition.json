@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -568,9 +568,9 @@
       "Count": 218
     }
   ],
-  "EOS_Progressed": 11065,
+  "EOS_Progressed": 11066,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -6638,6 +6638,11 @@
       "Time": "2023-07-16T02:44:36.7409424+00:00",
       "NumProgressed": 11065,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-07-16T05:08:37.7666177+00:00",
+      "NumProgressed": 11066,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 35,
@@ -6705,7 +6710,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5532
+      "UsersEstimate": 5533
     },
     {
       "ID": "ACH09",
@@ -6753,7 +6758,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1106
+      "UsersEstimate": 1107
     },
     {
       "ID": "ACH15",
@@ -6769,7 +6774,7 @@
       "Name": "Smooth Moves",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1770
+      "UsersEstimate": 1771
     },
     {
       "ID": "ACH17",
@@ -6928,7 +6933,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11065,
+      "Progressed": 11066,
       "Completed": 30
     }
   ],
@@ -6936,8 +6941,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-15T10:02:24.2938104+00:00",
-  "LastChanged_Achievements": "2023-07-16T04:08:27.5386204+00:00",
+  "LastChanged_Achievements": "2023-07-16T05:08:37.766617+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:18.5169648+00:00",
-  "LastUpdate_Ratings": "2023-07-16T04:02:23.0496664+00:00",
-  "LastUpdate_Achievements": "2023-07-16T04:08:27.538692+00:00"
+  "LastUpdate_Ratings": "2023-07-16T05:02:12.3009163+00:00",
+  "LastUpdate_Achievements": "2023-07-16T05:08:37.7666943+00:00"
 }

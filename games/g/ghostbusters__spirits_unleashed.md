@@ -5,20 +5,20 @@ Rating: 4.49 (Ranked 577)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~20,852 |
-| Advancement | 73.00% | ~17,700 |
-| Meticulously Efficient | 64.00% | ~15,518 |
+| Stylish | 86.00% | ~20,853 |
+| Advancement | 73.00% | ~17,701 |
+| Meticulously Efficient | 64.00% | ~15,519 |
 | Discovery | 61.00% | ~14,791 |
-| Fully Upgraded | 54.00% | ~13,093 |
-| Swift Rift Removers | 54.00% | ~13,093 |
+| Fully Upgraded | 54.00% | ~13,094 |
+| Swift Rift Removers | 54.00% | ~13,094 |
 | I collect Spores, Molds, and Fungi | 51.00% | ~12,366 |
 | Cultured | 51.00% | ~12,366 |
 | Vaporous Expansion | 48.00% | ~11,639 |
 | Teamwork | 44.00% | ~10,669 |
-| There you are! | 43.00% | ~10,426 |
-| Clutch Capture | 41.00% | ~9,941 |
-| Back Off | 35.00% | ~8,486 |
-| Daily Dose | 35.00% | ~8,486 |
+| There you are! | 43.00% | ~10,427 |
+| Clutch Capture | 41.00% | ~9,942 |
+| Back Off | 35.00% | ~8,487 |
+| Daily Dose | 35.00% | ~8,487 |
 | Solo Capture | 32.00% | ~7,759 |
 | Welcome to the Crew | 32.00% | ~7,759 |
 | Ghostbuster In Training | 30.00% | ~7,274 |
@@ -30,13 +30,13 @@ Rating: 4.49 (Ranked 577)
 | Right back at ya | 26.00% | ~6,304 |
 | Stunner | 26.00% | ~6,304 |
 | Pesky Jerks | 25.00% | ~6,062 |
-| Animated | 24.00% | ~5,819 |
-| Skilled | 24.00% | ~5,819 |
+| Animated | 24.00% | ~5,820 |
+| Skilled | 24.00% | ~5,820 |
 | Collector | 23.00% | ~5,577 |
 | Ectoplasmic Entity | 23.00% | ~5,577 |
 | Rift Destroyer | 19.00% | ~4,607 |
-| Terrifying | 18.00% | ~4,364 |
-| Tobin's Prodigy | 18.00% | ~4,364 |
+| Terrifying | 18.00% | ~4,365 |
+| Tobin's Prodigy | 18.00% | ~4,365 |
 | Reckless | 17.00% | ~4,122 |
 | Diabolical | 16.00% | ~3,880 |
 | Escape Artist | 16.00% | ~3,880 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 577)
 | Mycophile | 1.00% | ~242 |
 | I don't need these | 0.90% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,247 (Ranked 98)  
+Progressed: 24,248 (Ranked 98)  
 Completed: 46 (0.19%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 46 (0.19%) (Ranked 164)
 | 2023-07-13 | 24,209 | 46 |
 | 2023-07-14 | 24,226 | 46 |
 | 2023-07-15 | 24,245 | 46 |
-| 2023-07-16 | 24,247 | 46 |
+| 2023-07-16 | 24,248 | 46 |
 ## Awards
 Max (Great for Quick Sessions): 243  (Ranked 249)  
 Sum: 2,164 (Ranked 189)  

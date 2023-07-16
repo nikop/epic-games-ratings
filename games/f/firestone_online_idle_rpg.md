@@ -5,19 +5,19 @@ Rating: 4.08 (Ranked 896)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,535 |
-| World Map | 79.00% | ~1,304 |
-| Temple of Eternals | 56.00% | ~925 |
-| Prestigious | 53.00% | ~875 |
-| Fellowship Power | 41.00% | ~677 |
+| Victor | 93.00% | ~1,537 |
+| World Map | 79.00% | ~1,306 |
+| Temple of Eternals | 56.00% | ~926 |
+| Prestigious | 53.00% | ~876 |
+| Fellowship Power | 41.00% | ~678 |
 | Guild Power | 25.00% | ~413 |
 | Prestigious x10 | 21.00% | ~347 |
 | The game is on | 19.00% | ~314 |
 | Exotic Merchant | 17.00% | ~281 |
 | Dragon Clicker | 16.00% | ~264 |
-| Inspection | 16.00% | ~264 |
 | Miner Clicker | 16.00% | ~264 |
 | Full Party | 15.00% | ~248 |
+| Inspection | 15.00% | ~248 |
 | Dragon Master | 14.00% | ~231 |
 | Enlightenment | 14.00% | ~231 |
 | Hero inspection | 14.00% | ~231 |
@@ -29,16 +29,16 @@ Rating: 4.08 (Ranked 896)
 | Superior | 12.00% | ~198 |
 | Scientist | 11.00% | ~182 |
 | Challenger | 10.00% | ~165 |
-| Doing My Part | 10.00% | ~165 |
 | Hunter | 10.00% | ~165 |
 | Relic Of The Past | 10.00% | ~165 |
-| Scroll Master | 10.00% | ~165 |
 | The power of Awakening | 10.00% | ~165 |
 | Daily Quest Completionist | 9.00% | ~149 |
+| Doing My Part | 9.00% | ~149 |
 | Four Leaf Clover | 9.00% | ~149 |
 | Frostfire Liberator | 9.00% | ~149 |
 | Mastery | 9.00% | ~149 |
 | Moving Up The Ladder | 9.00% | ~149 |
+| Scroll Master | 9.00% | ~149 |
 | Here We Go Again | 8.00% | ~132 |
 | The father of Dragons | 8.00% | ~132 |
 | Master Enchanter | 7.00% | ~116 |
@@ -81,7 +81,7 @@ Rating: 4.08 (Ranked 896)
 | War Machines Army | 0.20% | ~3 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,651 (Ranked 169)  
+Progressed: 1,653 (Ranked 169)  
 Completed: 1 (0.06%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 1 (0.06%) (Ranked 197)
 | 2023-07-13 | 1,630 | 1 |
 | 2023-07-14 | 1,638 | 1 |
 | 2023-07-15 | 1,647 | 1 |
-| 2023-07-16 | 1,651 | 1 |
+| 2023-07-16 | 1,653 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

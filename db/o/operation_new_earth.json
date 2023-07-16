@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 456,
+  "EOS_Progressed": 458,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
@@ -1586,6 +1586,11 @@
       "Time": "2023-07-16T02:43:01.55782+00:00",
       "NumProgressed": 456,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-16T05:06:28.8434997+00:00",
+      "NumProgressed": 458,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1595,9 +1600,9 @@
       "ID": "ach_defeat_aliens_250",
       "SetID": "bm61c2p",
       "Name": "Know The Enemy",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 18
+      "UsersEstimate": 14
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -1619,9 +1624,9 @@
       "ID": "ach_defeat_players_100",
       "SetID": "bm61c2p",
       "Name": "Player Betrayer",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 18
+      "UsersEstimate": 14
     },
     {
       "ID": "ach_gold_rewards_100",
@@ -1701,7 +1706,7 @@
       "Name": "Facility Online",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -1733,7 +1738,7 @@
       "Name": "Captain",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -1771,9 +1776,9 @@
       "ID": "objective_key_alliance_join_1",
       "SetID": "bm61c2p",
       "Name": "It\u0027s Good to have Allies",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 196
+      "UsersEstimate": 192
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -1781,15 +1786,15 @@
       "Name": "Covert Operative",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
       "SetID": "bm61c2p",
       "Name": "Getting Deployment",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 55
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -1845,7 +1850,7 @@
       "Name": "Factory Expansion",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -1853,7 +1858,7 @@
       "Name": "Defenses Online",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -1900,14 +1905,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 456,
+      "Progressed": 458,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-16T04:06:27.1227769+00:00",
+  "LastChanged_Achievements": "2023-07-16T05:06:28.8434991+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:28.9258865+00:00",
-  "LastUpdate_Ratings": "2023-07-16T04:02:37.9571923+00:00",
-  "LastUpdate_Achievements": "2023-07-16T04:06:27.1228628+00:00"
+  "LastUpdate_Ratings": "2023-07-16T05:02:30.7962755+00:00",
+  "LastUpdate_Achievements": "2023-07-16T05:06:28.8435396+00:00"
 }

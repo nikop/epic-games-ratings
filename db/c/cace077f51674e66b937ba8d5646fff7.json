@@ -371,17 +371,17 @@
       "ID": "ENEMY_18",
       "SetID": "50pdlpn",
       "Name": "Toru the Cursed Human",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ENEMY_19",
       "SetID": "50pdlpn",
       "Name": "Neil, Fizz-Bizz \u0026 Toru",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ENEMY_2",
@@ -395,73 +395,73 @@
       "ID": "ENEMY_20",
       "SetID": "50pdlpn",
       "Name": "Arnold the Young Lieutenant",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ENEMY_21",
       "SetID": "50pdlpn",
       "Name": "Boom Bang Dang the Master Exploder",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ENEMY_22",
       "SetID": "50pdlpn",
       "Name": "Mahone the Professional",
-      "Percentage": 13,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ENEMY_23",
       "SetID": "50pdlpn",
       "Name": "Arnold, Boom Bang Dang \u0026 Mahone",
-      "Percentage": 13,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ENEMY_24",
       "SetID": "50pdlpn",
       "Name": "Thoroboros the Simple Small God",
-      "Percentage": 13,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ENEMY_25",
       "SetID": "50pdlpn",
       "Name": "Albert the Wonderful Sea Creature",
-      "Percentage": 13,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ENEMY_26",
       "SetID": "50pdlpn",
       "Name": "Albert the Angry Sea Star",
-      "Percentage": 13,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ENEMY_27",
       "SetID": "50pdlpn",
       "Name": "Thoroboros, Albert \u0026 Albert",
-      "Percentage": 13,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ENEMY_28",
       "SetID": "50pdlpn",
       "Name": "Alfonso the Caterpillar Controller",
-      "Percentage": 13,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ENEMY_29",
@@ -826,8 +826,8 @@
   ],
   "FirstSeen": "2023-07-03T16:57:31.1356684+00:00",
   "FirstSeenAchievements": "2023-05-08T09:03:21.3999065+00:00",
-  "LastChanged_Achievements": "2023-07-16T04:06:35.001342+00:00",
+  "LastChanged_Achievements": "2023-07-16T05:06:36.9831563+00:00",
   "LastUpdate_AppInfo": "2023-07-10T13:56:59.3027723+00:00",
-  "LastUpdate_Ratings": "2023-07-16T03:58:06.8155288+00:00",
-  "LastUpdate_Achievements": "2023-07-16T04:06:35.0014408+00:00"
+  "LastUpdate_Ratings": "2023-07-16T04:57:54.0811166+00:00",
+  "LastUpdate_Achievements": "2023-07-16T05:06:36.9832473+00:00"
 }

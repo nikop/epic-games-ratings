@@ -6,21 +6,21 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~65,505 |
-| Into the Unknown | 10.00% | ~59,550 |
-| First Shot | 10.00% | ~59,550 |
-| Herzlich Wilkommen! | 9.00% | ~53,595 |
-| Good Night & Good Luck | 9.00% | ~53,595 |
-| Sancho Panza | 8.00% | ~47,640 |
-| Under Pressure | 7.00% | ~41,685 |
-| On the Trail of the Enemy | 7.00% | ~41,685 |
-| Flag Burning | 7.00% | ~41,685 |
-| Oh, So This Is How It Works! | 7.00% | ~41,685 |
-| Night Hunter | 7.00% | ~41,685 |
-| Light in the Darkness | 6.00% | ~35,730 |
-| Get Outta My House! | 6.00% | ~35,730 |
-| It Wasn't That Hard, Was It? | 6.00% | ~35,730 |
-| Being All Social | 6.00% | ~35,730 |
+| You Never Forget Your First... | 11.00% | ~65,506 |
+| Into the Unknown | 10.00% | ~59,551 |
+| First Shot | 10.00% | ~59,551 |
+| Herzlich Wilkommen! | 9.00% | ~53,596 |
+| Good Night & Good Luck | 9.00% | ~53,596 |
+| Sancho Panza | 8.00% | ~47,641 |
+| Under Pressure | 7.00% | ~41,686 |
+| On the Trail of the Enemy | 7.00% | ~41,686 |
+| Flag Burning | 7.00% | ~41,686 |
+| Oh, So This Is How It Works! | 7.00% | ~41,686 |
+| Night Hunter | 7.00% | ~41,686 |
+| Light in the Darkness | 6.00% | ~35,731 |
+| Get Outta My House! | 6.00% | ~35,731 |
+| It Wasn't That Hard, Was It? | 6.00% | ~35,731 |
+| Being All Social | 6.00% | ~35,731 |
 | Debris and Ashes | 5.00% | ~29,775 |
 | We Will Be Heard! | 5.00% | ~29,775 |
 | Known Associate | 5.00% | ~29,775 |
@@ -47,32 +47,32 @@ Number of Ratings: 7,305  (23.09.2022)
 | That's Teamwork! | 1.00% | ~5,955 |
 | Fit as a Fiddle | 1.00% | ~5,955 |
 | Ironheart | 1.00% | ~5,955 |
-| Nemesis | 1.00% | ~2,409 |
-| Enter the Hall | 1.00% | ~2,409 |
-| Find Anything Interesting? | 0.90% | ~5,359 |
-| Boot Licker | 0.90% | ~5,359 |
-| Who Wants To Be a... | 0.90% | ~5,359 |
+| Nemesis | 1.00% | ~2,410 |
+| Enter the Hall | 1.00% | ~2,410 |
+| Find Anything Interesting? | 0.90% | ~5,360 |
+| Boot Licker | 0.90% | ~5,360 |
+| Who Wants To Be a... | 0.90% | ~5,360 |
 | Night of Terrors | 0.80% | ~1,928 |
-| Revenants | 0.70% | ~4,168 |
-| Get the Point? | 0.70% | ~4,168 |
+| Revenants | 0.70% | ~4,169 |
+| Get the Point? | 0.70% | ~4,169 |
 | My Friend, Ciro | 0.70% | ~1,687 |
 | Skullcrusher | 0.70% | ~1,687 |
 | Tanning Salon | 0.60% | ~3,573 |
 | Lightning Reflexes | 0.40% | ~2,382 |
-| A Friend in Need... | 0.30% | ~1,786 |
-| Man On a Mission | 0.30% | ~1,786 |
+| A Friend in Need... | 0.30% | ~1,787 |
+| Man On a Mission | 0.30% | ~1,787 |
 | Ultramarathon | 0.20% | ~1,191 |
-| Don't Look Up | 0.10% | ~595 |
-| True Nightrunner | 0.10% | ~595 |
-| Bing Bang Boom! | 0.10% | ~595 |
-| Archivist | 0.10% | ~595 |
-| Audiophile | 0.10% | ~595 |
-| Street Art Aficionado | 0.10% | ~595 |
+| Don't Look Up | 0.10% | ~596 |
+| True Nightrunner | 0.10% | ~596 |
+| Bing Bang Boom! | 0.10% | ~596 |
+| Archivist | 0.10% | ~596 |
+| Audiophile | 0.10% | ~596 |
+| Street Art Aficionado | 0.10% | ~596 |
 | The Madman of Villedor | 0.10% | ~241 |
 | True Champion | 0.10% | ~241 |
 | Connoisseur | 0.10% | ~241 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 595,498 (Ranked 26)  
+Progressed: 595,509 (Ranked 26)  
 Completed: 59 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,10 +159,10 @@ Completed: 59 (0.01%) (Ranked 223)
 | 2023-07-13 | 594,068 | 59 |
 | 2023-07-14 | 594,738 | 59 |
 | 2023-07-15 | 595,394 | 59 |
-| 2023-07-16 | 595,498 | 59 |
+| 2023-07-16 | 595,509 | 59 |
 ## Awards
 Max (Character Customization): 8,412  (Ranked 39)  
-Sum: 19,876 (Ranked 55)  
+Sum: 19,878 (Ranked 55)  
 Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
@@ -172,7 +172,7 @@ Diff (max vs sum): -16
 | This game is Highly Recommended | 767 |
 | This game has Diverse Characters | 754 |
 | This game has Amazing Characters | 744 |
-| This game is Extremely Fun | 724 |
+| This game is Extremely Fun | 726 |
 | This game has Amazing Storytelling | 722 |
 | This game has Quickly Understood Controls | 707 |
 | This game is Relaxing | 674 |
@@ -366,4 +366,4 @@ Diff (max vs sum): -16
 | 2023-07-13 | 4.58 | - | 8,367 | 19,738 |
 | 2023-07-14 | 4.58 | - | 8,393 | 19,813 |
 | 2023-07-15 | 4.58 | - | 8,412 | 19,873 |
-| 2023-07-16 | 4.58 | - | 8,412 | 19,876 |
+| 2023-07-16 | 4.58 | - | 8,412 | 19,878 |

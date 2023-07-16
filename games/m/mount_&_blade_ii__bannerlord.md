@@ -6,19 +6,19 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 37.00% | ~20,658 |
-| Landlord | 31.00% | ~17,308 |
-| Bannerlord | 22.00% | ~12,283 |
-| Horde breaker | 22.00% | ~12,283 |
-| Lawmaker | 22.00% | ~12,283 |
+| Lawbringer | 37.00% | ~20,659 |
+| Landlord | 31.00% | ~17,309 |
+| Bannerlord | 22.00% | ~12,284 |
+| Horde breaker | 22.00% | ~12,284 |
+| Lawmaker | 22.00% | ~12,284 |
 | Trained | 21.00% | ~11,725 |
-| The king is pleased | 17.00% | ~9,491 |
-| King Solomon | 16.00% | ~8,933 |
+| The king is pleased | 17.00% | ~9,492 |
+| King Solomon | 16.00% | ~8,934 |
 | I can do it | 15.00% | ~8,375 |
-| Apple of my eye | 14.00% | ~7,816 |
+| Apple of my eye | 14.00% | ~7,817 |
 | God of the Arena | 12.00% | ~6,700 |
 | Against all odds | 11.00% | ~6,142 |
-| Swordbearer | 10.00% | ~5,583 |
+| Swordbearer | 10.00% | ~5,584 |
 | Duelist | 9.00% | ~5,025 |
 | Dynasty | 9.00% | ~5,025 |
 | I spit on your grave | 9.00% | ~5,025 |
@@ -41,8 +41,8 @@ Number of Ratings: 5,603  (23.09.2022)
 | Fat Cat | 0.60% | ~335 |
 | Catch | 0.50% | ~279 |
 | Slice 'n dice | 0.40% | ~223 |
-| Mounted Archery | 0.30% | ~167 |
-| Ride it like you stole it | 0.30% | ~167 |
+| Mounted Archery | 0.30% | ~168 |
+| Ride it like you stole it | 0.30% | ~168 |
 | Strike! | 0.20% | ~112 |
 | Best served cold | 0.10% | ~56 |
 | Butcher of Calradia | 0.10% | ~56 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,832 (Ranked 83)  
+Progressed: 55,835 (Ranked 83)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-13 | 55,670 | 0 |
 | 2023-07-14 | 55,732 | 0 |
 | 2023-07-15 | 55,822 | 0 |
-| 2023-07-16 | 55,832 | 0 |
+| 2023-07-16 | 55,835 | 0 |
 ## Awards
 Max (Character Customization): 6,791  (Ranked 48)  
 Sum: 13,740 (Ranked 67)  
