@@ -19,6 +19,7 @@
 | [Stillborn Slayer](games/s/stillborn_slayer.md) | 2023-07-20 | - |  | - | - |
 | [The Elder Scrolls® Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 2023-07-20 | - |  | - | - |
 | [Tri6 Infinite](games/9/9588d511dc28483dbadb1b8c1ec196e9.md) | 2023-07-20 | 24 (1,000 XP) | 2 | - | - |
+| [Kula](games/1/1a1f669b43f94c33b91f9db5ff063ba1.md) | 2023-07-20 | - |  | - | - |
 | [Sakura Bunny Girls](games/9/94c1c4aa628f404abe30a093cdb99bda.md) | 2023-07-23 | - |  | - | - |
 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 2023-07-24 | - |  | - | - |
 | [Mr. Run and Jump](games/4/499acd70c5dd4e7d9d6af210338e2ae6.md) | 2023-07-25 | - |  | - | - |

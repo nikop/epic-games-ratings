@@ -22,8 +22,8 @@
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.26% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 23 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.93% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.55% |
+| 23 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.77% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.60% |
 | 25 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
 | 26 | [Smelter](games/s/smelter.md) | 8.11% |
 | 27 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.69% |
@@ -67,7 +67,7 @@
 | 65 | [Lamentum](games/l/lamentum.md) | 2.67% |
 | 66 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
 | 67 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.56% |
-| 68 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.52% |
+| 68 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.53% |
 | 69 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 70 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
 | 71 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.35% |
@@ -493,4 +493,4 @@
 | 236 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 236 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 236 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,905 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
+| 2,906 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
