@@ -470,9 +470,9 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "8d3ci0",
       "Name": "High-rise",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 62
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -510,9 +510,9 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "8d3ci0",
       "Name": "Catch a flight",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -526,9 +526,9 @@
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "8d3ci0",
       "Name": "Private pool",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -565,8 +565,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-16T16:04:48.2717897+00:00",
+  "LastChanged_Achievements": "2023-07-16T17:04:49.5650398+00:00",
   "LastUpdate_AppInfo": "2023-07-15T11:57:13.4695515+00:00",
-  "LastUpdate_Ratings": "2023-07-16T15:57:08.1933592+00:00",
-  "LastUpdate_Achievements": "2023-07-16T16:04:48.2718066+00:00"
+  "LastUpdate_Ratings": "2023-07-16T16:57:02.6315405+00:00",
+  "LastUpdate_Achievements": "2023-07-16T17:04:49.5650578+00:00"
 }

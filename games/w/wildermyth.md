@@ -39,6 +39,7 @@ Number of Ratings: 45  (23.09.2022)
 | No Time for Clawmonsters | 4.00% | ~53 |
 | We Emerge Changed | 3.00% | ~40 |
 | Storied Past | 3.00% | ~40 |
+| Empty the Caves | 3.00% | ~40 |
 | Bonebreakers | 3.00% | ~40 |
 | No More Nightmares | 3.00% | ~40 |
 | Bears are Scary | 3.00% | ~40 |
@@ -48,7 +49,6 @@ Number of Ratings: 45  (23.09.2022)
 | Tempest | 3.00% | ~40 |
 | Lochias's Hunger | 3.00% | ~40 |
 | The Power of Friendship | 2.00% | ~26 |
-| Empty the Caves | 2.00% | ~26 |
 | Drauvenslayers | 2.00% | ~26 |
 | Back into the Sea | 2.00% | ~26 |
 | War-Ender | 2.00% | ~26 |

@@ -17,6 +17,7 @@ Rating: 4.19 (Ranked 847)
 | Float Like A Butterfly | 2.00% | ~315 |
 | Reforged | 2.00% | ~315 |
 | The Outer Way | 2.00% | ~315 |
+| If the SHU Fits... | 2.00% | ~315 |
 | Without A Paddle | 2.00% | ~315 |
 | In the Pipe, Five by Five | 2.00% | ~315 |
 | What Lies Beneath | 2.00% | ~315 |
@@ -27,7 +28,6 @@ Rating: 4.19 (Ranked 847)
 | Giving Back | 1.00% | ~157 |
 | Terminated | 1.00% | ~157 |
 | The Commonality | 1.00% | ~157 |
-| If the SHU Fits... | 1.00% | ~157 |
 | Desperate Times | 1.00% | ~157 |
 | One Last Job | 1.00% | ~37 |
 | In Striking Distance | 0.80% | ~126 |

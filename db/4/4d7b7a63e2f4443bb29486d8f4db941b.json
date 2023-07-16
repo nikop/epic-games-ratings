@@ -4,7 +4,7 @@
   "ProductSlug": "lysfanga-9608f2",
   "Ranking_EOS_Progress": 495,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewPlayers": 304,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -28,8 +28,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "bh57elp",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2023-07-16T17:04:11.7793699+00:00",
+  "LastChanged_Achievements": "2023-07-16T17:04:11.7793679+00:00",
   "LastUpdate_AppInfo": "2023-07-13T23:57:06.6211821+00:00",
-  "LastUpdate_Ratings": "2023-07-16T15:57:08.7368395+00:00",
-  "LastUpdate_Achievements": "2023-07-16T16:04:12.7866146+00:00"
+  "LastUpdate_Ratings": "2023-07-16T16:57:03.1620497+00:00",
+  "LastUpdate_Achievements": "2023-07-16T17:04:11.7793737+00:00"
 }

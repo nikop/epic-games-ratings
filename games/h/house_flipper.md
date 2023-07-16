@@ -6,14 +6,14 @@ Number of Ratings: 1,023  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First money | 94.00% | ~18,724 |
-| Strongman | 31.00% | ~6,175 |
+| First money | 94.00% | ~18,726 |
+| Strongman | 31.00% | ~6,176 |
 | Just Enough | 19.00% | ~3,785 |
 | Alpha Male | 19.00% | ~3,785 |
-| Pro-creative | 18.00% | ~3,585 |
+| Pro-creative | 18.00% | ~3,586 |
 | Worth Every Penny | 15.00% | ~2,988 |
-| Family man | 13.00% | ~2,589 |
-| Junior Estate Agent | 13.00% | ~2,589 |
+| Family man | 13.00% | ~2,590 |
+| Junior Estate Agent | 13.00% | ~2,590 |
 | Mystery | 10.00% | ~1,992 |
 | Artistic soul | 10.00% | ~1,992 |
 | Estate Agent | 5.00% | ~996 |
@@ -30,7 +30,7 @@ Number of Ratings: 1,023  (23.09.2022)
 | Nerd | 0.50% | ~100 |
 | Senior Estate Agent | 0.50% | ~100 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,919 (Ranked 102)  
+Progressed: 19,921 (Ranked 102)  
 Completed: 19 (0.10%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,19 +117,19 @@ Completed: 19 (0.10%) (Ranked 183)
 | 2023-07-13 | 19,890 | 19 |
 | 2023-07-14 | 19,905 | 19 |
 | 2023-07-15 | 19,911 | 19 |
-| 2023-07-16 | 19,919 | 19 |
+| 2023-07-16 | 19,921 | 19 |
 ## Awards
-Max (Great for Beginners): 303  (Ranked 232)  
-Sum: 2,185 (Ranked 188)  
-Diff (max vs sum): 44  
+Max (Great for Beginners): 304  (Ranked 231)  
+Sum: 2,187 (Ranked 188)  
+Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 303 |
+| This game is Great for Beginners | 304 |
 | This game is Educational | 236 |
 | This game is Extremely Fun | 224 |
 | This game is Relaxing | 224 |
 | This game has Quickly Understood Controls | 217 |
-| This game is Highly Recommended | 213 |
+| This game is Highly Recommended | 214 |
 | This game has Amazing Storytelling | 210 |
 | This game has a Creative Community | 210 |
 | This game has Amazing Characters | 189 |
@@ -267,3 +267,4 @@ Diff (max vs sum): 44
 | 2023-07-10 | 4.69 | - | 302 | 2,182 |
 | 2023-07-11 | 4.69 | - | 302 | 2,184 |
 | 2023-07-13 | 4.69 | - | 303 | 2,185 |
+| 2023-07-16 | 4.69 | - | 304 | 2,187 |

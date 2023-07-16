@@ -7,10 +7,10 @@ Number of Ratings: 266  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Venture Outward | 75.00% | ~2,288 |
-| Ready for Winter | 64.00% | ~1,952 |
+| Ready for Winter | 64.00% | ~1,953 |
 | Ready for Summer | 51.00% | ~1,556 |
 | Cordon Bleu | 44.00% | ~1,342 |
-| Tapped! | 37.00% | ~1,128 |
+| Tapped! | 37.00% | ~1,129 |
 | Eureka | 32.00% | ~976 |
 | Scourge Slayer | 26.00% | ~793 |
 | Science, Troglodyte! | 23.00% | ~702 |
@@ -22,7 +22,7 @@ Number of Ratings: 266  (23.09.2022)
 | The Power of Family | 16.00% | ~488 |
 | Strange amalgams | 12.00% | ~366 |
 | The Power of Faith | 12.00% | ~366 |
-| The Power of Freedom | 9.00% | ~274 |
+| The Power of Freedom | 9.00% | ~275 |
 | Ace Detective | 8.00% | ~244 |
 | Gift from the Ancestors | 8.00% | ~244 |
 | House of Cards | 8.00% | ~244 |
@@ -41,15 +41,15 @@ Number of Ratings: 266  (23.09.2022)
 | Perfect Defense | 2.00% | ~61 |
 | Power! To! The People! | 2.00% | ~61 |
 | Your actions define you | 2.00% | ~61 |
-| The blood is life | 1.00% | ~30 |
-| They'll Tell Stories About This | 1.00% | ~30 |
-| Vanquisher of nightmares | 1.00% | ~30 |
-| Through fire and flame. | 0.70% | ~21 |
+| The blood is life | 1.00% | ~31 |
+| They'll Tell Stories About This | 1.00% | ~31 |
+| Vanquisher of nightmares | 1.00% | ~31 |
+| Through fire and flame. | 0.80% | ~24 |
 | Legacy of a master hunter | 0.50% | ~15 |
 | Master of Aurai | 0.30% | ~9 |
 | The Absolute Pinnacle. | 0.30% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,050 (Ranked 150)  
+Progressed: 3,051 (Ranked 150)  
 Completed: 3 (0.10%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 3 (0.10%) (Ranked 183)
 | 2023-07-12 | 3,039 | 3 |
 | 2023-07-14 | 3,041 | 3 |
 | 2023-07-15 | 3,047 | 3 |
-| 2023-07-16 | 3,050 | 3 |
+| 2023-07-16 | 3,051 | 3 |
 ## Awards
 Max (Highly Recommended): 33  (Ranked 442)  
 Sum: 241 (Ranked 349)  

@@ -496,9 +496,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3050,
+  "EOS_Progressed": 3051,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3181,6 +3181,11 @@
       "Time": "2023-07-16T14:05:32.9107761+00:00",
       "NumProgressed": 3050,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-16T17:05:17.9279022+00:00",
+      "NumProgressed": 3051,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 42,
@@ -3384,7 +3389,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1952
+      "UsersEstimate": 1953
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -3416,7 +3421,7 @@
       "Name": "Tapped!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1128
+      "UsersEstimate": 1129
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -3432,7 +3437,7 @@
       "Name": "The blood is life",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ThePowerOfAmbition_45",
@@ -3464,7 +3469,7 @@
       "Name": "The Power of Freedom",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "TheStuffOfLegends",
@@ -3480,7 +3485,7 @@
       "Name": "They\u0027ll Tell Stories About This",
       "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ThisWasAMistake",
@@ -3494,9 +3499,9 @@
       "ID": "ThroughFireAndFlame",
       "SetID": "c4hee28",
       "Name": "Through fire and flame.",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "VanquisherOfNightmares_52",
@@ -3504,7 +3509,7 @@
       "Name": "Vanquisher of nightmares",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "VentureOutward_21",
@@ -3527,15 +3532,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3050,
+      "Progressed": 3051,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-07-11T02:15:21.6079736+00:00",
-  "LastChanged_Achievements": "2023-07-16T16:05:16.1164334+00:00",
+  "LastChanged_Achievements": "2023-07-16T17:05:17.9279017+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:26.5691499+00:00",
-  "LastUpdate_Ratings": "2023-07-16T15:58:06.0610005+00:00",
-  "LastUpdate_Achievements": "2023-07-16T16:05:16.1165478+00:00"
+  "LastUpdate_Ratings": "2023-07-16T16:57:58.6781194+00:00",
+  "LastUpdate_Achievements": "2023-07-16T17:05:17.9279558+00:00"
 }

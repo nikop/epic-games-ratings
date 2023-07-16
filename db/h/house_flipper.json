@@ -3,11 +3,11 @@
   "Name": "House Flipper",
   "ProductSlug": "house-flipper",
   "Ranking_Rating": 216,
-  "Ranking_Popularity": 232,
+  "Ranking_Popularity": 231,
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
@@ -1660,18 +1660,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 2185,
       "NumberOfAwardsMax": 303
+    },
+    {
+      "Time": "2023-07-16T16:59:36.4047459+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 2187,
+      "NumberOfAwardsMax": 304
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2185,
-  "NumberOfAwardsMax": 303,
+  "NumberOfAwards": 2187,
+  "NumberOfAwardsMax": 304,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 303
+      "Count": 304
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1683,7 +1689,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 213
+      "Count": 214
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1734,7 +1740,7 @@
       "Count": 210
     }
   ],
-  "EOS_Progressed": 19919,
+  "EOS_Progressed": 19921,
   "EOS_Completed": 19,
   "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
@@ -5849,6 +5855,11 @@
       "Time": "2023-07-16T16:06:12.261345+00:00",
       "NumProgressed": 19919,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-07-16T17:06:16.1067888+00:00",
+      "NumProgressed": 19921,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -5860,7 +5871,7 @@
       "Name": "Family man",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2589
+      "UsersEstimate": 2590
     },
     {
       "ID": "CarMechanic",
@@ -5908,7 +5919,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18724
+      "UsersEstimate": 18726
     },
     {
       "ID": "GameOver",
@@ -5948,7 +5959,7 @@
       "Name": "Junior Estate Agent",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2589
+      "UsersEstimate": 2590
     },
     {
       "ID": "KnockKnock",
@@ -6012,7 +6023,7 @@
       "Name": "Pro-creative",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3585
+      "UsersEstimate": 3586
     },
     {
       "ID": "Strongman",
@@ -6020,7 +6031,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6175
+      "UsersEstimate": 6176
     },
     {
       "ID": "VeronicaLiptson",
@@ -6043,15 +6054,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19919,
+      "Progressed": 19921,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
-  "LastChanged": "2023-07-13T18:00:01.2110728+00:00",
-  "LastChanged_Achievements": "2023-07-16T16:06:12.2613443+00:00",
+  "LastChanged": "2023-07-16T16:59:36.4047458+00:00",
+  "LastChanged_Achievements": "2023-07-16T17:06:16.1067884+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:29.4539579+00:00",
-  "LastUpdate_Ratings": "2023-07-16T15:59:42.4767254+00:00",
-  "LastUpdate_Achievements": "2023-07-16T16:06:12.2614094+00:00"
+  "LastUpdate_Ratings": "2023-07-16T16:59:36.4047464+00:00",
+  "LastUpdate_Achievements": "2023-07-16T17:06:16.1068337+00:00"
 }

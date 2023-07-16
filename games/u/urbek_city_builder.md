@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Small town | 64.00% | ~175 |
-| I like parks | 52.00% | ~142 |
+| Small town | 64.00% | ~176 |
+| I like parks | 52.00% | ~143 |
 | It is nice to share with friends in the city | 27.00% | ~74 |
-| Sport is good for you | 26.00% | ~71 |
+| Sport is good for you | 25.00% | ~69 |
 | The spiritual world... | 23.00% | ~63 |
-| The woodcutter | 22.00% | ~60 |
+| The woodcutter | 21.00% | ~58 |
 | I like books | 20.00% | ~55 |
 | I like my life | 19.00% | ~52 |
-| Soviet town | 18.00% | ~49 |
+| Soviet town | 18.00% | ~50 |
 | Clean energy | 16.00% | ~44 |
-| Bucolic city | 14.00% | ~38 |
+| Bucolic city | 14.00% | ~39 |
 | I love books! | 8.00% | ~22 |
 | King of fish | 8.00% | ~22 |
 | I love parks | 8.00% | ~22 |
@@ -25,11 +25,11 @@
 | Little Mayor | 3.00% | ~8 |
 | Rebel city | 3.00% | ~8 |
 | Sport is the best thing | 3.00% | ~8 |
-| Banking city | 2.00% | ~5 |
-| City crisis | 2.00% | ~5 |
-| Read! Everyone should read! | 2.00% | ~5 |
-| Oh, I love parks, listening to birds! | 2.00% | ~5 |
-| Temperate builder | 2.00% | ~5 |
+| Banking city | 2.00% | ~6 |
+| City crisis | 2.00% | ~6 |
+| Read! Everyone should read! | 2.00% | ~6 |
+| Oh, I love parks, listening to birds! | 2.00% | ~6 |
+| Temperate builder | 2.00% | ~6 |
 | Anarchist Utopia | 1.00% | ~3 |
 | Archipelago builder | 1.00% | ~3 |
 | Food provider master | 1.00% | ~3 |
@@ -84,7 +84,7 @@
 | Rainforest urban planner | 0.00% | ~0 |
 | Rainforest master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 274 (Ranked 251)  
+Progressed: 275 (Ranked 251)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,6 +152,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-13 | 272 | 0 |
 | 2023-07-14 | 273 | 0 |
 | 2023-07-15 | 274 | 0 |
+| 2023-07-16 | 275 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

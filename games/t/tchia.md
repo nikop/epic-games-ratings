@@ -6,7 +6,7 @@ Rating: 4.76 (Ranked 118)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | In a Pinch | 20.00% | ~1,351 |
-| Energy Saver | 16.00% | ~1,081 |
+| Energy Saver | 17.00% | ~1,148 |
 | The Journey Onwards | 13.00% | ~878 |
 | Body and Soul | 11.00% | ~743 |
 | Globe Trotter | 11.00% | ~743 |

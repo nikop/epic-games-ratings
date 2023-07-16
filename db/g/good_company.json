@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5137,
+  "EOS_Progressed": 5140,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2285,6 +2285,11 @@
       "Time": "2023-07-16T16:04:19.6501598+00:00",
       "NumProgressed": 5137,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-16T17:04:19.1347103+00:00",
+      "NumProgressed": 5140,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -2352,7 +2357,7 @@
       "Name": "Level: Charlie\u0027s Circuits",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1131
     },
     {
       "ID": "ach_campaign_progress10",
@@ -2408,7 +2413,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2568
+      "UsersEstimate": 2570
     },
     {
       "ID": "ach_campaign_progress6",
@@ -2416,7 +2421,7 @@
       "Name": "Level: Rising Markets",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "ach_campaign_progress7",
@@ -2552,7 +2557,7 @@
       "Name": "Extra Life: Wish Granted",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ach_campaign_special6",
@@ -2640,7 +2645,7 @@
       "Name": "High Five!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ach_frp_high_networth",
@@ -2656,7 +2661,7 @@
       "Name": "Modular Progress",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ach_frp_many_modules2",
@@ -2903,15 +2908,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5137,
+      "Progressed": 5140,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-07-16T16:04:19.6501592+00:00",
+  "LastChanged_Achievements": "2023-07-16T17:04:19.1347093+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:57.1405828+00:00",
-  "LastUpdate_Ratings": "2023-07-16T15:59:14.9209702+00:00",
-  "LastUpdate_Achievements": "2023-07-16T16:04:19.6502801+00:00"
+  "LastUpdate_Ratings": "2023-07-16T16:59:08.3953778+00:00",
+  "LastUpdate_Achievements": "2023-07-16T17:04:19.1348117+00:00"
 }

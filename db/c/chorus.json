@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 469,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -1580,9 +1580,9 @@
       "ID": "WinARace",
       "SetID": "a6c395p",
       "Name": "Relentless",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 495
+      "UsersEstimate": 506
     }
   ],
   "AchievementSets": [
@@ -1596,8 +1596,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-07-09T07:00:38.7677324+00:00",
-  "LastChanged_Achievements": "2023-07-16T16:03:39.5057401+00:00",
+  "LastChanged_Achievements": "2023-07-16T17:03:38.4982827+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:05.6306939+00:00",
-  "LastUpdate_Ratings": "2023-07-16T16:00:16.553955+00:00",
-  "LastUpdate_Achievements": "2023-07-16T16:03:39.505782+00:00"
+  "LastUpdate_Ratings": "2023-07-16T17:00:06.4398681+00:00",
+  "LastUpdate_Achievements": "2023-07-16T17:03:38.4983257+00:00"
 }

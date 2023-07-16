@@ -2,12 +2,12 @@
   "ID": "2a14cf8a83b149919a2399504e5686a6",
   "Name": "The Sims\u2122 4",
   "ProductSlug": "the-sims-4",
-  "Ranking_Rating": 347,
+  "Ranking_Rating": 363,
   "Ranking_Popularity": 193,
   "Ranking_PopularitySum": 152,
   "Ranking_EOS_Progress": 495,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewPlayers": 304,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-02-02T18:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.62,
+  "Rating": 4.61,
   "RatingHistory": [
     {
       "Time": "2023-02-05T14:56:53.5654686+00:00",
@@ -4124,6 +4124,12 @@
       "Rating": 4.62,
       "NumberOfAwards": 3172,
       "NumberOfAwardsMax": 503
+    },
+    {
+      "Time": "2023-07-16T16:57:44.8270013+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3172,
+      "NumberOfAwardsMax": 503
     }
   ],
   "ReviewsDisabled": false,
@@ -4210,8 +4216,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
-  "LastChanged": "2023-07-16T15:57:49.5692911+00:00",
+  "LastChanged": "2023-07-16T16:57:44.8270012+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:03.0017528+00:00",
-  "LastUpdate_Ratings": "2023-07-16T15:57:49.5692918+00:00",
-  "LastUpdate_Achievements": "2023-07-16T16:03:10.827415+00:00"
+  "LastUpdate_Ratings": "2023-07-16T16:57:44.8270021+00:00",
+  "LastUpdate_Achievements": "2023-07-16T17:02:39.2457821+00:00"
 }
