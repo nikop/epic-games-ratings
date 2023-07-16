@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1193,9 +1193,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 123260,
+  "EOS_Progressed": 123261,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 334,
+  "EOS_NewPlayers": 335,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -9613,6 +9613,11 @@
       "Time": "2023-07-16T22:01:36.207264+00:00",
       "NumProgressed": 123260,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-07-16T23:01:04.5797604+00:00",
+      "NumProgressed": 123261,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -9680,7 +9685,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 29582
+      "UsersEstimate": 29583
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -9840,7 +9845,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 17256
+      "UsersEstimate": 17257
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -9943,15 +9948,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 123260,
+      "Progressed": 123261,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-07-16T11:00:03.7223316+00:00",
-  "LastChanged_Achievements": "2023-07-16T22:01:36.2072635+00:00",
+  "LastChanged_Achievements": "2023-07-16T23:01:04.5797598+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:06.3105356+00:00",
-  "LastUpdate_Ratings": "2023-07-16T21:59:52.1438708+00:00",
-  "LastUpdate_Achievements": "2023-07-16T22:01:36.2073333+00:00"
+  "LastUpdate_Ratings": "2023-07-16T22:59:30.2788395+00:00",
+  "LastUpdate_Achievements": "2023-07-16T23:01:04.5798487+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1324,
+  "EOS_Progressed": 1325,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
@@ -1183,6 +1183,11 @@
       "Time": "2023-07-16T00:08:07.3273611+00:00",
       "NumProgressed": 1324,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-16T23:06:59.2328039+00:00",
+      "NumProgressed": 1325,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1218,7 +1223,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "13",
@@ -1258,7 +1263,7 @@
       "Name": "Balding bloot!",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1046
+      "UsersEstimate": 1047
     },
     {
       "ID": "18",
@@ -1330,7 +1335,7 @@
       "Name": "Heartstrings",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "27",
@@ -1386,7 +1391,7 @@
       "Name": "Head in the clouds",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "5",
@@ -1433,15 +1438,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1324,
+      "Progressed": 1325,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-07-16T22:07:28.2361483+00:00",
+  "LastChanged_Achievements": "2023-07-16T23:06:59.2328034+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:26.9281564+00:00",
-  "LastUpdate_Ratings": "2023-07-16T22:00:13.8949082+00:00",
-  "LastUpdate_Achievements": "2023-07-16T22:07:28.2361706+00:00"
+  "LastUpdate_Ratings": "2023-07-16T22:59:49.9942161+00:00",
+  "LastUpdate_Achievements": "2023-07-16T23:06:59.2328322+00:00"
 }

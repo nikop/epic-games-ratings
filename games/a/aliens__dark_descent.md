@@ -6,17 +6,17 @@ Rating: 4.43 (Ranked 655)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,373 |
-| Snatched Out | 73.00% | ~2,139 |
+| Snatched Out | 74.00% | ~2,168 |
 | Keep 'Em Coming | 72.00% | ~2,110 |
 | Cleaning Lethe, One Nest At A Time | 65.00% | ~1,904 |
 | Call Me Snake | 60.00% | ~1,758 |
 | Something Lurks Under The Hills | 58.00% | ~1,699 |
 | This Was No Papercut | 57.00% | ~1,670 |
+| People Person | 53.00% | ~1,553 |
 | The Shrink Hates Me | 53.00% | ~1,553 |
-| People Person | 52.00% | ~1,524 |
 | Use The Bumper, That's What It's For | 50.00% | ~1,465 |
 | First Steps Into Madness | 49.00% | ~1,436 |
-| Colonial Barrels | 47.00% | ~1,377 |
+| Colonial Barrels | 48.00% | ~1,406 |
 | Harper's Hell | 40.00% | ~1,172 |
 | Damn Dude, You Gotta Lose Some Weight! | 39.00% | ~1,143 |
 | Making a Stand | 38.00% | ~1,113 |
@@ -32,7 +32,7 @@ Rating: 4.43 (Ranked 655)
 | Stuff Of Nightmares | 19.00% | ~557 |
 | El Riesgo Siempre Vive | 18.00% | ~527 |
 | The Spire | 18.00% | ~527 |
-| One For Every Occasion | 15.00% | ~440 |
+| One For Every Occasion | 16.00% | ~469 |
 | Frontliner | 15.00% | ~440 |
 | Excavating The Truth | 15.00% | ~440 |
 | Bandage Lover | 14.00% | ~410 |

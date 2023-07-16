@@ -1,19 +1,19 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.61 (Ranked 363)  
+Rating: 4.61 (Ranked 364)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~20,779 |
-| Exploitative | 4.00% | ~16,624 |
-| Point Shooting | 4.00% | ~16,624 |
-| Wet Feet | 4.00% | ~16,624 |
-| High Speed Low Drag | 3.00% | ~12,468 |
-| Lucky | 3.00% | ~12,468 |
-| Stylin' | 3.00% | ~12,468 |
-| Turf War | 3.00% | ~12,468 |
+| Wallbanger | 5.00% | ~20,781 |
+| Exploitative | 4.00% | ~16,625 |
+| Point Shooting | 4.00% | ~16,625 |
+| Wet Feet | 4.00% | ~16,625 |
+| High Speed Low Drag | 3.00% | ~12,469 |
+| Lucky | 3.00% | ~12,469 |
+| Stylin' | 3.00% | ~12,469 |
+| Turf War | 3.00% | ~12,469 |
 | Banged | 2.00% | ~8,312 |
 | Checkpoint Victory | 2.00% | ~8,312 |
 | First Blood | 2.00% | ~8,312 |
@@ -23,9 +23,9 @@ Number of Ratings: 1,316  (23.09.2022)
 | Blindfire | 1.00% | ~4,156 |
 | Ruthless | 1.00% | ~4,156 |
 | Semper Paratus | 1.00% | ~4,156 |
-| Carrying | 0.90% | ~3,740 |
-| Efficient | 0.90% | ~3,740 |
-| Mount & Gun | 0.90% | ~3,740 |
+| Carrying | 0.90% | ~3,741 |
+| Efficient | 0.90% | ~3,741 |
+| Mount & Gun | 0.90% | ~3,741 |
 | Grounded | 0.80% | ~3,325 |
 | Personal | 0.80% | ~3,325 |
 | Play to Win | 0.80% | ~3,325 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~416 |
 | Road Hazard | 0.10% | ~416 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 415,589 (Ranked 39)  
+Progressed: 415,624 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 2 (0.00%) (Ranked 236)
 | 2023-07-13 | 413,457 | 2 |
 | 2023-07-14 | 414,109 | 2 |
 | 2023-07-15 | 414,865 | 2 |
-| 2023-07-16 | 415,589 | 2 |
+| 2023-07-16 | 415,624 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 364  (Ranked 219)  
 Sum: 2,807 (Ranked 169)  

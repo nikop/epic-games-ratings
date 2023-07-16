@@ -3,8 +3,8 @@
   "Name": "Placid Plastic Duck Simulator",
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 295,
-  "Ranking_EOS_Completed": 23,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_Completed": 24,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 115,
+  "EOS_Progressed": 116,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 8.7,
+  "EOS_Completed_Percentage": 8.62,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -426,6 +426,11 @@
       "Time": "2023-07-16T19:06:01.0638472+00:00",
       "NumProgressed": 115,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-16T23:05:13.9509789+00:00",
+      "NumProgressed": 116,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 16,
@@ -507,7 +512,7 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "8d3ci0",
       "Name": "Make a wish",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 30,
       "UsersEstimate": 41
     },
@@ -517,7 +522,7 @@
       "Name": "Catch a flight",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -531,7 +536,7 @@
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "8d3ci0",
       "Name": "Private pool",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 15,
       "UsersEstimate": 63
     },
@@ -564,14 +569,14 @@
     {
       "ID": "8d3ci0",
       "IsBase": true,
-      "Progressed": 115,
+      "Progressed": 116,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-16T22:05:32.3200667+00:00",
+  "LastChanged_Achievements": "2023-07-16T23:05:13.9509783+00:00",
   "LastUpdate_AppInfo": "2023-07-15T11:57:13.4695515+00:00",
-  "LastUpdate_Ratings": "2023-07-16T21:57:11.7638885+00:00",
-  "LastUpdate_Achievements": "2023-07-16T22:05:32.3200782+00:00"
+  "LastUpdate_Ratings": "2023-07-16T22:57:09.9339165+00:00",
+  "LastUpdate_Achievements": "2023-07-16T23:05:13.9509929+00:00"
 }

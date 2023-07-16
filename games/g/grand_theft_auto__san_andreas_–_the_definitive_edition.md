@@ -15,8 +15,8 @@ Rating: 4.56 (Ranked 457)
 | What happens in Las Venturas... | 14.00% | ~1,551 |
 | Horror of the Santa Maria | 10.00% | ~1,108 |
 | Liberty City State of Mind | 9.00% | ~997 |
+| Original Gangster | 8.00% | ~886 |
 | The End of the Line | 7.00% | ~775 |
-| Original Gangster | 7.00% | ~775 |
 | With Extra Dip | 6.00% | ~664 |
 | Saviour | 6.00% | ~664 |
 | They Can’t Stop All of Us | 4.00% | ~443 |

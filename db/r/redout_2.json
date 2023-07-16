@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1065,
+  "EOS_Progressed": 1066,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -610,6 +610,11 @@
       "Time": "2023-07-16T20:00:24.4901847+00:00",
       "NumProgressed": 1065,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-16T23:01:06.089717+00:00",
+      "NumProgressed": 1066,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -693,7 +698,7 @@
       "Name": "Ride in the rising sun",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "ALLTRACKSGENESIS",
@@ -757,7 +762,7 @@
       "Name": "Rookie No-No More",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "CAREERCLASSA",
@@ -853,7 +858,7 @@
       "Name": "Running at the speed of sound",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "FLYLONG",
@@ -1036,7 +1041,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1065,
+      "Progressed": 1066,
       "Completed": 0
     }
   ],
@@ -1044,8 +1049,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-07-16T22:01:37.9140837+00:00",
+  "LastChanged_Achievements": "2023-07-16T23:01:06.0897163+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:52.2995402+00:00",
-  "LastUpdate_Ratings": "2023-07-16T21:58:41.5648096+00:00",
-  "LastUpdate_Achievements": "2023-07-16T22:01:37.9141274+00:00"
+  "LastUpdate_Ratings": "2023-07-16T22:58:29.8058578+00:00",
+  "LastUpdate_Achievements": "2023-07-16T23:01:06.0897721+00:00"
 }

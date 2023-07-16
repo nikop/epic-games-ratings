@@ -1,32 +1,32 @@
 # Salt and Sanctuary
 [Store](https://store.epicgames.com/en-US/p/salt-and-sanctuary)  
 [View Rawdata](../../db/s/salt_and_sanctuary.json)  
-Rating: 4.61 (Ranked 363)  
+Rating: 4.61 (Ranked 364)  
 Number of Ratings: 3,114  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~438,107 |
-| The Three | 64.00% | ~337,818 |
-| The Banquet | 40.00% | ~211,136 |
-| Devara's Light | 30.00% | ~158,352 |
-| The Iron Ones | 18.00% | ~95,011 |
-| The Village | 16.00% | ~84,454 |
-| The Forest | 14.00% | ~73,898 |
-| Branded | 13.00% | ~68,619 |
-| The Imposter | 13.00% | ~68,619 |
-| The Keep | 13.00% | ~68,619 |
-| The Castle | 11.00% | ~58,062 |
+| Find Sanctuary | 83.00% | ~438,113 |
+| The Three | 64.00% | ~337,822 |
+| The Banquet | 40.00% | ~211,139 |
+| Devara's Light | 30.00% | ~158,354 |
+| The Iron Ones | 18.00% | ~95,012 |
+| The Village | 16.00% | ~84,456 |
+| The Forest | 14.00% | ~73,899 |
+| Branded | 13.00% | ~68,620 |
+| The Imposter | 13.00% | ~68,620 |
+| The Keep | 13.00% | ~68,620 |
+| The Castle | 11.00% | ~58,063 |
 | The Dome | 9.00% | ~47,506 |
 | The Red Hall | 9.00% | ~47,506 |
-| The Sacrifice | 8.00% | ~42,227 |
+| The Sacrifice | 8.00% | ~42,228 |
 | The Cave | 7.00% | ~36,949 |
 | The Stone Roots | 7.00% | ~36,949 |
 | The Ziggurat | 7.00% | ~36,949 |
-| Storied | 6.00% | ~31,670 |
-| The Construct | 6.00% | ~31,670 |
-| The Mire | 6.00% | ~31,670 |
-| The Ruins | 6.00% | ~31,670 |
+| Storied | 6.00% | ~31,671 |
+| The Construct | 6.00% | ~31,671 |
+| The Mire | 6.00% | ~31,671 |
+| The Ruins | 6.00% | ~31,671 |
 | The Alkymancery | 5.00% | ~26,392 |
 | The Lake | 5.00% | ~26,392 |
 | The Pitchwoods | 5.00% | ~26,392 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,557 |
 | Fading Fast | 1.00% | ~5,278 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 527,840 (Ranked 28)  
+Progressed: 527,847 (Ranked 28)  
 Completed: 1,480 (0.28%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,16 +131,16 @@ Completed: 1,480 (0.28%) (Ranked 151)
 | 2023-07-13 | 527,521 | 1,479 |
 | 2023-07-14 | 527,599 | 1,479 |
 | 2023-07-15 | 527,722 | 1,480 |
-| 2023-07-16 | 527,840 | 1,480 |
+| 2023-07-16 | 527,847 | 1,480 |
 ## Awards
 Max (Challenging Combat): 274  (Ranked 239)  
-Sum: 1,912 (Ranked 201)  
+Sum: 1,913 (Ranked 201)  
 Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |
 | This game has Challenging Combat | 274 |
 | This game has Quickly Understood Controls | 256 |
-| This game is Highly Recommended | 249 |
+| This game is Highly Recommended | 250 |
 | This game is Extremely Fun | 234 |
 | This game has Diverse Characters | 232 |
 | This game has Amazing Storytelling | 229 |
@@ -281,3 +281,4 @@ Diff (max vs sum): 38
 | 2023-07-05 | 4.61 | - | 274 | 1,909 |
 | 2023-07-11 | 4.61 | - | 274 | 1,911 |
 | 2023-07-15 | 4.61 | - | 274 | 1,912 |
+| 2023-07-16 | 4.61 | - | 274 | 1,913 |

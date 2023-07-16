@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37775,
+  "EOS_Progressed": 37777,
   "EOS_Completed": 190,
-  "EOS_NewPlayers": 680,
+  "EOS_NewPlayers": 676,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -8719,6 +8719,11 @@
       "Time": "2023-07-16T22:03:41.0818961+00:00",
       "NumProgressed": 37775,
       "NumCompleted": 190
+    },
+    {
+      "Time": "2023-07-16T23:03:31.7538903+00:00",
+      "NumProgressed": 37777,
+      "NumCompleted": 190
     }
   ],
   "TotalAchievements": 44,
@@ -8730,7 +8735,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 21532
+      "UsersEstimate": 21533
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -8738,7 +8743,7 @@
       "Name": "Lady",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 11710
+      "UsersEstimate": 11711
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -8850,7 +8855,7 @@
       "Name": "First Steps",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 30598
+      "UsersEstimate": 30599
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -8906,7 +8911,7 @@
       "Name": "Soul Reaver",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 8310
+      "UsersEstimate": 8311
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -8952,9 +8957,9 @@
       "ID": "ACHIEVEMENT_36",
       "SetID": "db84117",
       "Name": "Forge of Assassins",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 20776
+      "UsersEstimate": 21155
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -8962,7 +8967,7 @@
       "Name": "Engraved with Power",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 12088
+      "UsersEstimate": 12089
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -8970,7 +8975,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 23798
+      "UsersEstimate": 23800
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -8978,7 +8983,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 10199
+      "UsersEstimate": 10200
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -8994,7 +8999,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 22665
+      "UsersEstimate": 22666
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -9002,7 +9007,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 25309
+      "UsersEstimate": 25311
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -9034,7 +9039,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 16999
+      "UsersEstimate": 17000
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -9066,7 +9071,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 35131
+      "UsersEstimate": 35133
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -9074,14 +9079,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 19643
+      "UsersEstimate": 19644
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 37775,
+      "Progressed": 37777,
       "Completed": 190
     }
   ],
@@ -9089,8 +9094,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-06-11T14:58:10.4478603+00:00",
-  "LastChanged_Achievements": "2023-07-16T22:03:41.0818957+00:00",
+  "LastChanged_Achievements": "2023-07-16T23:03:31.7538899+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:14.384662+00:00",
-  "LastUpdate_Ratings": "2023-07-16T21:58:56.4847334+00:00",
-  "LastUpdate_Achievements": "2023-07-16T22:03:41.0819636+00:00"
+  "LastUpdate_Ratings": "2023-07-16T22:58:42.1606854+00:00",
+  "LastUpdate_Achievements": "2023-07-16T23:03:31.7540052+00:00"
 }

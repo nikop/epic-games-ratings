@@ -2,13 +2,13 @@
   "ID": "helloneighbor",
   "Name": "Hello Neighbor",
   "ProductSlug": "hello-neighbor",
-  "Ranking_Rating": 480,
+  "Ranking_Rating": 493,
   "Ranking_Popularity": 253,
   "Ranking_PopularitySum": 217,
   "Ranking_EOS_Progress": 495,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 306,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2018-12-08T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.55,
+  "Rating": 4.54,
   "NumberOfRatings": 1166,
   "RatingHistory": [
     {
@@ -2395,10 +2395,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 1514,
       "NumberOfAwardsMax": 223
+    },
+    {
+      "Time": "2023-07-16T22:58:47.7851131+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 1515,
+      "NumberOfAwardsMax": 223
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1514,
+  "NumberOfAwards": 1515,
   "NumberOfAwardsMax": 223,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2436,7 +2442,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 172
+      "Count": 173
     },
     {
       "Text": "This game has a Creative Community",
@@ -2474,8 +2480,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:23.0108388+00:00",
-  "LastChanged": "2023-07-16T13:58:44.4878021+00:00",
+  "LastChanged": "2023-07-16T22:58:47.7851129+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:18.8021234+00:00",
-  "LastUpdate_Ratings": "2023-07-16T21:59:03.0149659+00:00",
-  "LastUpdate_Achievements": "2023-07-16T22:01:34.6612265+00:00"
+  "LastUpdate_Ratings": "2023-07-16T22:58:47.7851136+00:00",
+  "LastUpdate_Achievements": "2023-07-16T23:01:02.9800062+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "e192c537dd6d47ce9a9b00b643c3cdb9",
   "Name": "The Medium",
   "ProductSlug": "the-medium",
-  "Ranking_Rating": 363,
+  "Ranking_Rating": 347,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 495,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 306,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2021-01-28T17:00:00+00:00",
     "PcReleaseDate": "2021-01-28T17:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.61,
+  "Rating": 4.62,
   "RatingHistory": [
     {
       "Time": "2022-10-24T23:02:37.2163942+00:00",
@@ -102,6 +102,12 @@
       "Rating": 4.61,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-07-16T23:00:27.3395746+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -120,8 +126,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:44.1996449+00:00",
   "FirstSeenRating": "2022-10-24T23:02:37.2163937+00:00",
-  "LastChanged": "2023-06-16T03:01:01.4356656+00:00",
+  "LastChanged": "2023-07-16T23:00:27.3395745+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:06.9851802+00:00",
-  "LastUpdate_Ratings": "2023-07-16T22:00:54.2790079+00:00",
-  "LastUpdate_Achievements": "2023-07-16T22:05:10.2198742+00:00"
+  "LastUpdate_Ratings": "2023-07-16T23:00:27.339575+00:00",
+  "LastUpdate_Achievements": "2023-07-16T23:04:54.094549+00:00"
 }

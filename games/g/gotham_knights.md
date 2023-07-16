@@ -5,7 +5,7 @@ Rating: 4.18 (Ranked 856)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 6.00% | ~4,026 |
+| First Step Into the Knight | 6.00% | ~4,027 |
 | To the Victor Go the Spoils | 4.00% | ~2,684 |
 | Har, Har, Har, Very Funny | 4.00% | ~2,684 |
 | Knighthood | 4.00% | ~2,684 |
@@ -29,6 +29,7 @@ Rating: 4.18 (Ranked 856)
 | Not On My Watch | 2.00% | ~1,342 |
 | Bulldozed | 2.00% | ~1,342 |
 | Shock Til They Drop | 2.00% | ~1,342 |
+| Drone You Out | 2.00% | ~1,342 |
 | Cooldown | 2.00% | ~1,342 |
 | Universal Health Scare | 2.00% | ~1,342 |
 | Voiceless | 2.00% | ~1,342 |
@@ -38,7 +39,6 @@ Rating: 4.18 (Ranked 856)
 | Fusion Expert | 1.00% | ~671 |
 | Out of Their League | 1.00% | ~671 |
 | Family Meeting | 1.00% | ~671 |
-| Drone You Out | 1.00% | ~671 |
 | Solid Alibi | 1.00% | ~671 |
 | Expert Crime Fighter | 0.90% | ~604 |
 | A Worthy Successor | 0.90% | ~604 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 856)
 | History Major | 0.10% | ~67 |
 | Confronting Your Demon | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,105 (Ranked 77)  
+Progressed: 67,109 (Ranked 77)  
 Completed: 102 (0.15%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,21 +154,21 @@ Completed: 102 (0.15%) (Ranked 173)
 | 2023-07-13 | 66,991 | 102 |
 | 2023-07-14 | 67,031 | 102 |
 | 2023-07-15 | 67,061 | 102 |
-| 2023-07-16 | 67,105 | 102 |
+| 2023-07-16 | 67,109 | 102 |
 ## Awards
-Max (Great Boss Battles): 2,447  (Ranked 101)  
-Sum: 4,051 (Ranked 138)  
+Max (Great Boss Battles): 2,450  (Ranked 101)  
+Sum: 4,056 (Ranked 138)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,447 |
+| This game has Great Boss Battles | 2,450 |
 | This game has Quickly Understood Controls | 207 |
 | This game is Relaxing | 207 |
 | This game is Extremely Fun | 207 |
 | This game has Amazing Characters | 200 |
 | This game has Diverse Characters | 199 |
+| This game is Great for Beginners | 196 |
 | This game is Highly Recommended | 196 |
-| This game is Great for Beginners | 194 |
 | This game has Amazing Storytelling | 194 |
 | This game is Great for Quick Sessions | 60 |
 ## Ratings History
@@ -319,3 +319,4 @@ Diff (max vs sum): -37
 | 2023-07-13 | 4.18 | 2,442 | 4,042 |
 | 2023-07-14 | 4.18 | 2,445 | 4,045 |
 | 2023-07-15 | 4.18 | 2,447 | 4,051 |
+| 2023-07-16 | 4.18 | 2,450 | 4,056 |

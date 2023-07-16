@@ -5,15 +5,15 @@ Rating: 4.08 (Ranked 896)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,545 |
-| World Map | 79.00% | ~1,312 |
-| Temple of Eternals | 56.00% | ~930 |
-| Prestigious | 53.00% | ~880 |
+| Victor | 93.00% | ~1,546 |
+| World Map | 79.00% | ~1,313 |
+| Temple of Eternals | 56.00% | ~931 |
+| Prestigious | 53.00% | ~881 |
 | Fellowship Power | 41.00% | ~681 |
-| Guild Power | 25.00% | ~415 |
+| Guild Power | 25.00% | ~416 |
 | Prestigious x10 | 21.00% | ~349 |
 | The game is on | 19.00% | ~316 |
-| Exotic Merchant | 17.00% | ~282 |
+| Exotic Merchant | 17.00% | ~283 |
 | Dragon Clicker | 16.00% | ~266 |
 | Miner Clicker | 16.00% | ~266 |
 | Full Party | 15.00% | ~249 |
@@ -33,12 +33,12 @@ Rating: 4.08 (Ranked 896)
 | Relic Of The Past | 10.00% | ~166 |
 | Scroll Master | 10.00% | ~166 |
 | The power of Awakening | 10.00% | ~166 |
-| Daily Quest Completionist | 9.00% | ~149 |
-| Doing My Part | 9.00% | ~149 |
-| Four Leaf Clover | 9.00% | ~149 |
-| Frostfire Liberator | 9.00% | ~149 |
-| Mastery | 9.00% | ~149 |
-| Moving Up The Ladder | 9.00% | ~149 |
+| Daily Quest Completionist | 9.00% | ~150 |
+| Doing My Part | 9.00% | ~150 |
+| Four Leaf Clover | 9.00% | ~150 |
+| Frostfire Liberator | 9.00% | ~150 |
+| Mastery | 9.00% | ~150 |
+| Moving Up The Ladder | 9.00% | ~150 |
 | The father of Dragons | 8.00% | ~133 |
 | Here We Go Again | 7.00% | ~116 |
 | Master Enchanter | 7.00% | ~116 |
@@ -81,7 +81,7 @@ Rating: 4.08 (Ranked 896)
 | War Machines Army | 0.20% | ~3 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,661 (Ranked 169)  
+Progressed: 1,662 (Ranked 169)  
 Completed: 1 (0.06%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 1 (0.06%) (Ranked 197)
 | 2023-07-13 | 1,630 | 1 |
 | 2023-07-14 | 1,638 | 1 |
 | 2023-07-15 | 1,647 | 1 |
-| 2023-07-16 | 1,661 | 1 |
+| 2023-07-16 | 1,662 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

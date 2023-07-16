@@ -4,8 +4,8 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2018-09-17T22:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 684,
+  "EOS_Progressed": 685,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -543,6 +543,11 @@
       "Time": "2023-07-16T14:05:34.4376689+00:00",
       "NumProgressed": 684,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-16T23:05:48.7427346+00:00",
+      "NumProgressed": 685,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -562,7 +567,7 @@
       "Name": "Across The Stars",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "Achievement_AirlockExit",
@@ -626,7 +631,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "Achievement_DustToDust",
@@ -698,7 +703,7 @@
       "Name": "Friendzone",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "Achievement_GiantLeap",
@@ -730,7 +735,7 @@
       "Name": "Hello World",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "Achievement_Improvinator",
@@ -786,7 +791,7 @@
       "Name": "Mutiny in making",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "Achievement_Muttnik",
@@ -842,7 +847,7 @@
       "Name": "Space Colonization",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "Achievement_SpaceEngineer",
@@ -850,7 +855,7 @@
       "Name": "Space Engineer",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "Achievement_SpaceExplorer",
@@ -890,7 +895,7 @@
       "Name": "Tinkerer",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "Achievement_Traitor",
@@ -905,7 +910,7 @@
     {
       "ID": "c01p6e5",
       "IsBase": true,
-      "Progressed": 684,
+      "Progressed": 685,
       "Completed": 1
     }
   ],
@@ -913,8 +918,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-07-16T22:06:10.8447187+00:00",
+  "LastChanged_Achievements": "2023-07-16T23:05:48.742734+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:50.6403792+00:00",
-  "LastUpdate_Ratings": "2023-07-16T21:56:55.2865631+00:00",
-  "LastUpdate_Achievements": "2023-07-16T22:06:10.8447489+00:00"
+  "LastUpdate_Ratings": "2023-07-16T22:56:54.2867376+00:00",
+  "LastUpdate_Achievements": "2023-07-16T23:05:48.7427725+00:00"
 }

@@ -8,6 +8,7 @@ Rating: 4.43 (Ranked 655)
 | Liberté | 3.00% | ~99 |
 | Lord of War | 3.00% | ~99 |
 | It's Starting to Crack | 3.00% | ~99 |
+| Change the Channel | 3.00% | ~99 |
 | Taking it back | 3.00% | ~99 |
 | Target America | 3.00% | ~99 |
 | The Kraken Sleeps | 3.00% | ~99 |
@@ -22,7 +23,6 @@ Rating: 4.43 (Ranked 655)
 | Der Geist | 2.00% | ~66 |
 | As Quiet as a Mouse | 2.00% | ~66 |
 | The Kraken Wakes | 2.00% | ~66 |
-| Change the Channel | 2.00% | ~66 |
 | Brains of the Operation | 2.00% | ~66 |
 | Opposing Force | 1.00% | ~33 |
 | Fields of Glory | 1.00% | ~33 |

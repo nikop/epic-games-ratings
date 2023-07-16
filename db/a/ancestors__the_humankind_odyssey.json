@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 495,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 306,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2019-08-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -613,10 +613,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 197,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2023-07-16T23:00:11.9916585+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 198,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 197,
+  "NumberOfAwards": 198,
   "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -648,7 +654,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game has Challenging Combat",
@@ -686,8 +692,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:27.180823+00:00",
-  "LastChanged": "2023-06-11T20:59:14.6758299+00:00",
+  "LastChanged": "2023-07-16T23:00:11.9916583+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:49.3171637+00:00",
-  "LastUpdate_Ratings": "2023-07-16T22:00:36.4227915+00:00",
-  "LastUpdate_Achievements": "2023-07-16T22:04:25.3276396+00:00"
+  "LastUpdate_Ratings": "2023-07-16T23:00:11.9916589+00:00",
+  "LastUpdate_Achievements": "2023-07-16T23:04:12.052121+00:00"
 }
