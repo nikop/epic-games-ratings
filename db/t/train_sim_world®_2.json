@@ -2,20 +2,20 @@
   "ID": "d8d8b399f3d14ac2b9b75870329a68dd",
   "Name": "Train Sim World\u00AE 2",
   "ProductSlug": "train-sim-world-2",
-  "Ranking_Rating": 676,
+  "Ranking_Rating": 691,
   "Ranking_Popularity": 185,
   "Ranking_PopularitySum": 136,
   "Ranking_EOS_Progress": 495,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 305,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.41,
+  "Rating": 4.4,
   "NumberOfRatings": 2541,
   "RatingHistory": [
     {
@@ -2546,10 +2546,16 @@
       "Rating": 4.41,
       "NumberOfAwards": 4223,
       "NumberOfAwardsMax": 550
+    },
+    {
+      "Time": "2023-07-16T18:58:00.7685719+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 4224,
+      "NumberOfAwardsMax": 550
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4223,
+  "NumberOfAwards": 4224,
   "NumberOfAwardsMax": 550,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2581,7 +2587,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 466
+      "Count": 467
     },
     {
       "Text": "This game is Relaxing",
@@ -2631,8 +2637,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:00.3136154+00:00",
-  "LastChanged": "2023-07-15T08:57:56.644036+00:00",
+  "LastChanged": "2023-07-16T18:58:00.7685718+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:07.2701581+00:00",
-  "LastUpdate_Ratings": "2023-07-16T17:57:36.7198309+00:00",
-  "LastUpdate_Achievements": "2023-07-16T18:04:23.133982+00:00"
+  "LastUpdate_Ratings": "2023-07-16T18:58:00.7685723+00:00",
+  "LastUpdate_Achievements": "2023-07-16T19:04:55.4597587+00:00"
 }

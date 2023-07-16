@@ -4,8 +4,8 @@
   "ProductSlug": "gigapocalypse-fdc53b",
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 305,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-03-22T16:00:00+00:00",
     "PcReleaseDate": "2021-11-20T17:00:00+00:00",
@@ -598,9 +598,9 @@
       "ID": "secret48",
       "SetID": "39f6ck8",
       "Name": "Annihilate",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "secret49",
@@ -695,8 +695,8 @@
   "FirstSeenRating": "2023-03-31T05:57:53.8583887+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:25.0690436+00:00",
   "LastChanged": "2023-03-31T05:57:53.8583888+00:00",
-  "LastChanged_Achievements": "2023-07-16T18:07:21.7441492+00:00",
+  "LastChanged_Achievements": "2023-07-16T19:08:08.1505977+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:57.5290057+00:00",
-  "LastUpdate_Ratings": "2023-07-16T18:00:37.3645434+00:00",
-  "LastUpdate_Achievements": "2023-07-16T18:07:21.7441897+00:00"
+  "LastUpdate_Ratings": "2023-07-16T19:01:17.2954702+00:00",
+  "LastUpdate_Achievements": "2023-07-16T19:08:08.1507082+00:00"
 }

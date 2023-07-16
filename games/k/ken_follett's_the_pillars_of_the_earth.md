@@ -1,29 +1,29 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.52 (Ranked 521)  
+Rating: 4.52 (Ranked 520)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tattletale | 41.00% | ~5,715 |
 | Man of politics | 35.00% | ~4,879 |
-| Friends of sorts | 34.00% | ~4,739 |
-| Yet another secret | 34.00% | ~4,739 |
+| Friends of sorts | 34.00% | ~4,740 |
+| Yet another secret | 34.00% | ~4,740 |
 | Let there be darkness | 33.00% | ~4,600 |
 | End of Book One | 31.00% | ~4,321 |
-| Wannabe knight | 24.00% | ~3,345 |
-| Garden of Eden | 24.00% | ~3,345 |
-| Full house | 24.00% | ~3,345 |
+| Wannabe knight | 24.00% | ~3,346 |
+| Garden of Eden | 24.00% | ~3,346 |
+| Full house | 24.00% | ~3,346 |
 | Help an old friend | 22.00% | ~3,067 |
 | Two of us | 20.00% | ~2,788 |
-| Negotiation skills | 19.00% | ~2,648 |
+| Negotiation skills | 19.00% | ~2,649 |
 | Workers' union | 18.00% | ~2,509 |
 | End of Book Two | 18.00% | ~2,509 |
 | Everything's in order | 17.00% | ~2,370 |
 | Jack was here! | 15.00% | ~2,091 |
-| Twist of Fate | 14.00% | ~1,951 |
-| Exterminator | 14.00% | ~1,951 |
+| Twist of Fate | 14.00% | ~1,952 |
+| Exterminator | 14.00% | ~1,952 |
 | Whodunnit | 13.00% | ~1,812 |
 | Good midwife | 11.00% | ~1,533 |
 | Friar Tuck | 11.00% | ~1,533 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~418 |
 | Boy of mystery | 2.00% | ~279 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,939 (Ranked 112)  
+Progressed: 13,940 (Ranked 112)  
 Completed: 105 (0.75%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 105 (0.75%) (Ranked 111)
 | 2023-07-13 | 13,880 | 105 |
 | 2023-07-14 | 13,898 | 105 |
 | 2023-07-15 | 13,923 | 105 |
-| 2023-07-16 | 13,939 | 105 |
+| 2023-07-16 | 13,940 | 105 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 293)  
 Sum: 188 (Ranked 366)  

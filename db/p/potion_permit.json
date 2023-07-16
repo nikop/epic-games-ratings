@@ -3,12 +3,12 @@
   "Name": "Potion Permit",
   "ProductSlug": "potion-permit",
   "Ranking_Rating": 939,
-  "Ranking_Popularity": 375,
-  "Ranking_PopularitySum": 432,
+  "Ranking_Popularity": 376,
+  "Ranking_PopularitySum": 433,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -346,9 +346,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 1465,
+  "EOS_Progressed": 1466,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -1476,6 +1476,11 @@
       "Time": "2023-07-16T17:02:25.5992092+00:00",
       "NumProgressed": 1465,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-16T19:03:26.6205043+00:00",
+      "NumProgressed": 1466,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 38,
@@ -1487,7 +1492,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1437
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -1495,7 +1500,7 @@
       "Name": "Great Doctor",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -1503,7 +1508,7 @@
       "Name": "Good Samaritan",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ACHIEVEMENTS_04",
@@ -1543,7 +1548,7 @@
       "Name": "The First Step",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1304
+      "UsersEstimate": 1305
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -1551,7 +1556,7 @@
       "Name": "Rookie Chemist",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -1575,7 +1580,7 @@
       "Name": "Amateur Chef",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "ACHIEVEMENTS_13",
@@ -1599,7 +1604,7 @@
       "Name": "Friendly",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "ACHIEVEMENTS_16",
@@ -1727,7 +1732,7 @@
       "Name": "Ablutomaniac",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ACHIEVEMENTS_32",
@@ -1790,7 +1795,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1465,
+      "Progressed": 1466,
       "Completed": 8
     }
   ],
@@ -1798,8 +1803,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-07-16T08:02:07.497774+00:00",
-  "LastChanged_Achievements": "2023-07-16T18:02:28.9186332+00:00",
+  "LastChanged_Achievements": "2023-07-16T19:03:26.6205037+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:30.3195043+00:00",
-  "LastUpdate_Ratings": "2023-07-16T18:01:10.6041947+00:00",
-  "LastUpdate_Achievements": "2023-07-16T18:02:28.9186616+00:00"
+  "LastUpdate_Ratings": "2023-07-16T19:01:52.4159456+00:00",
+  "LastUpdate_Achievements": "2023-07-16T19:03:26.6205419+00:00"
 }

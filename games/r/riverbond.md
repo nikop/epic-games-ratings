@@ -6,54 +6,54 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~365,645 |
-| Now You're Talking | 62.00% | ~323,857 |
-| Steel Yourself | 62.00% | ~323,857 |
-| Window Dressing | 50.00% | ~261,175 |
-| Trigger Happy | 46.00% | ~240,281 |
-| Riverborn | 45.00% | ~235,058 |
-| Starry Eyed | 34.00% | ~177,599 |
-| Poking Around | 34.00% | ~177,599 |
-| Talk of the Town | 24.00% | ~125,364 |
-| AAARR! | 23.00% | ~120,140 |
-| Hello Darkness | 23.00% | ~120,140 |
-| Wind At Our Backs | 22.00% | ~114,917 |
-| To the Beat | 20.00% | ~104,470 |
-| Sunny Shores | 17.00% | ~88,800 |
-| Sunday Best | 16.00% | ~83,576 |
-| To Victory! | 15.00% | ~78,352 |
-| Two of a Kind | 14.00% | ~73,129 |
-| Keep On Trucking | 13.00% | ~67,906 |
-| Going on an Adventure | 11.00% | ~57,458 |
-| Make Peace, Not War | 11.00% | ~57,458 |
-| Walking The Line | 10.00% | ~52,235 |
-| Not So Cute Anymore | 10.00% | ~52,235 |
-| Road Less Travelled | 9.00% | ~47,012 |
-| Lost and Found | 9.00% | ~47,012 |
-| Partner in Crime | 7.00% | ~36,564 |
-| Hard to Hear | 7.00% | ~36,564 |
-| Under the Radar | 7.00% | ~36,564 |
-| Moving On Up | 6.00% | ~31,341 |
-| Owl Knows Best | 6.00% | ~31,341 |
-| Mind the Moose | 6.00% | ~31,341 |
-| Dressed to Kill | 6.00% | ~31,341 |
-| Beast Mode | 6.00% | ~31,341 |
+| First Step | 70.00% | ~365,656 |
+| Now You're Talking | 62.00% | ~323,867 |
+| Steel Yourself | 62.00% | ~323,867 |
+| Window Dressing | 50.00% | ~261,183 |
+| Trigger Happy | 46.00% | ~240,288 |
+| Riverborn | 45.00% | ~235,065 |
+| Starry Eyed | 34.00% | ~177,604 |
+| Poking Around | 34.00% | ~177,604 |
+| Talk of the Town | 24.00% | ~125,368 |
+| AAARR! | 23.00% | ~120,144 |
+| Hello Darkness | 23.00% | ~120,144 |
+| Wind At Our Backs | 22.00% | ~114,921 |
+| To the Beat | 20.00% | ~104,473 |
+| Sunny Shores | 17.00% | ~88,802 |
+| Sunday Best | 16.00% | ~83,579 |
+| To Victory! | 15.00% | ~78,355 |
+| Two of a Kind | 14.00% | ~73,131 |
+| Keep On Trucking | 13.00% | ~67,908 |
+| Going on an Adventure | 11.00% | ~57,460 |
+| Make Peace, Not War | 11.00% | ~57,460 |
+| Walking The Line | 10.00% | ~52,237 |
+| Not So Cute Anymore | 10.00% | ~52,237 |
+| Road Less Travelled | 9.00% | ~47,013 |
+| Lost and Found | 9.00% | ~47,013 |
+| Partner in Crime | 7.00% | ~36,566 |
+| Hard to Hear | 7.00% | ~36,566 |
+| Under the Radar | 7.00% | ~36,566 |
+| Moving On Up | 6.00% | ~31,342 |
+| Owl Knows Best | 6.00% | ~31,342 |
+| Mind the Moose | 6.00% | ~31,342 |
+| Dressed to Kill | 6.00% | ~31,342 |
+| Beast Mode | 6.00% | ~31,342 |
 | Oh, Romeo! | 5.00% | ~26,118 |
 | Noble Intentions | 5.00% | ~26,118 |
 | Rising Star | 5.00% | ~26,118 |
 | Slime Slayer | 5.00% | ~26,118 |
-| Privacy, Please! | 4.00% | ~20,894 |
-| Silky Smooth | 4.00% | ~20,894 |
-| Hash It Over | 4.00% | ~20,894 |
-| Biting Tongue | 4.00% | ~20,894 |
-| What a Catch! | 4.00% | ~20,894 |
-| Hit the Spot | 4.00% | ~20,894 |
-| Talk the Talk | 3.00% | ~15,670 |
-| Skin in the Game | 3.00% | ~15,670 |
-| Caving In | 3.00% | ~15,670 |
-| Page Turner | 3.00% | ~15,670 |
-| Spinal Adjustment | 3.00% | ~15,670 |
-| The Knowledge | 3.00% | ~15,670 |
+| Privacy, Please! | 4.00% | ~20,895 |
+| Silky Smooth | 4.00% | ~20,895 |
+| Hash It Over | 4.00% | ~20,895 |
+| Biting Tongue | 4.00% | ~20,895 |
+| What a Catch! | 4.00% | ~20,895 |
+| Hit the Spot | 4.00% | ~20,895 |
+| Talk the Talk | 3.00% | ~15,671 |
+| Skin in the Game | 3.00% | ~15,671 |
+| Caving In | 3.00% | ~15,671 |
+| Page Turner | 3.00% | ~15,671 |
+| Spinal Adjustment | 3.00% | ~15,671 |
+| The Knowledge | 3.00% | ~15,671 |
 | Seek the Rainbow | 2.00% | ~10,447 |
 | Words of Truth | 2.00% | ~10,447 |
 | Star Power | 2.00% | ~10,447 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,567 |
 | Point Taken | 0.10% | ~522 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 522,350 (Ranked 29)  
+Progressed: 522,366 (Ranked 29)  
 Completed: 447 (0.09%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 447 (0.09%) (Ranked 188)
 | 2023-07-13 | 522,062 | 443 |
 | 2023-07-14 | 522,153 | 443 |
 | 2023-07-15 | 522,267 | 446 |
-| 2023-07-16 | 522,350 | 447 |
+| 2023-07-16 | 522,366 | 447 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

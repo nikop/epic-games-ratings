@@ -5,13 +5,13 @@ Rating: 3.82 (Ranked 939)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,436 |
-| The First Step | 89.00% | ~1,304 |
+| Welcome to Moonbury | 98.00% | ~1,437 |
+| The First Step | 89.00% | ~1,305 |
 | Moonbury Traveller | 64.00% | ~938 |
-| Rookie Chemist | 63.00% | ~923 |
-| Great Doctor | 51.00% | ~747 |
+| Rookie Chemist | 63.00% | ~924 |
+| Great Doctor | 51.00% | ~748 |
 | Dog Whisperer | 49.00% | ~718 |
-| Friendly | 48.00% | ~703 |
+| Friendly | 48.00% | ~704 |
 | The Capitalist | 44.00% | ~645 |
 | K.O.! | 43.00% | ~630 |
 | Intermediate Chemist | 40.00% | ~586 |
@@ -19,17 +19,17 @@ Rating: 3.82 (Ranked 939)
 | Lumber Specialist | 31.00% | ~454 |
 | Catch of the Day | 25.00% | ~366 |
 | Kind-hearted | 24.00% | ~352 |
-| Amateur Chef | 22.00% | ~322 |
+| Amateur Chef | 22.00% | ~323 |
 | Fishing Guru | 20.00% | ~293 |
 | Spark of Love | 17.00% | ~249 |
 | Community Helper | 17.00% | ~249 |
 | Expert Chemist | 14.00% | ~205 |
 | Stone Specialist | 14.00% | ~205 |
-| Ablutomaniac | 13.00% | ~190 |
+| Ablutomaniac | 13.00% | ~191 |
 | Line Cook | 12.00% | ~176 |
 | Sociable | 12.00% | ~176 |
 | Production Sorter | 12.00% | ~176 |
-| Good Samaritan | 10.00% | ~146 |
+| Good Samaritan | 10.00% | ~147 |
 | Acrobatic Adventurer | 9.00% | ~132 |
 | Animal Exterminator | 8.00% | ~117 |
 | Adolescent Love | 6.00% | ~88 |
@@ -44,7 +44,7 @@ Rating: 3.82 (Ranked 939)
 | Moonbury Navigator | 1.00% | ~15 |
 | Being a donut... | 0.70% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,465 (Ranked 172)  
+Progressed: 1,466 (Ranked 172)  
 Completed: 8 (0.55%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,10 +112,10 @@ Completed: 8 (0.55%) (Ranked 123)
 | 2023-07-12 | 1,461 | 8 |
 | 2023-07-13 | 1,462 | 8 |
 | 2023-07-15 | 1,464 | 8 |
-| 2023-07-16 | 1,465 | 8 |
+| 2023-07-16 | 1,466 | 8 |
 ## Awards
-Max (Character Customization): 68  (Ranked 375)  
-Sum: 68 (Ranked 432)  
+Max (Character Customization): 68  (Ranked 376)  
+Sum: 68 (Ranked 433)  
 Diff (max vs sum): -57  
 | Award | Count |
 | ----- | ----- |

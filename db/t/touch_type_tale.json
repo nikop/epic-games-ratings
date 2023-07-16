@@ -4,8 +4,8 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3062,
+  "EOS_Progressed": 3063,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -2474,6 +2474,11 @@
       "Time": "2023-07-15T16:08:49.6485141+00:00",
       "NumProgressed": 3062,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-16T19:03:50.6794671+00:00",
+      "NumProgressed": 3063,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 33,
@@ -2509,7 +2514,7 @@
       "Name": "Work It",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "bonus5",
@@ -2533,7 +2538,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2725
+      "UsersEstimate": 2726
     },
     {
       "ID": "campaign10",
@@ -2549,7 +2554,7 @@
       "Name": "Reinforcements",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "campaign12",
@@ -2605,15 +2610,15 @@
       "Name": "Sweet Revenge",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "campaign19",
       "SetID": "2h56gn1",
       "Name": "An Ally in Need",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 153
+      "UsersEstimate": 184
     },
     {
       "ID": "campaign2",
@@ -2621,7 +2626,7 @@
       "Name": "Flanked!",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2419
+      "UsersEstimate": 2420
     },
     {
       "ID": "campaign20",
@@ -2637,7 +2642,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1990
+      "UsersEstimate": 1991
     },
     {
       "ID": "campaign4",
@@ -2645,7 +2650,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 1439
+      "UsersEstimate": 1440
     },
     {
       "ID": "campaign5",
@@ -2669,7 +2674,7 @@
       "Name": "Maestro",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 857
+      "UsersEstimate": 858
     },
     {
       "ID": "campaign8",
@@ -2693,7 +2698,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1255
+      "UsersEstimate": 1256
     },
     {
       "ID": "scenario2",
@@ -2701,7 +2706,7 @@
       "Name": "Full Employment",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "scenario3",
@@ -2733,7 +2738,7 @@
       "Name": "Figure of Breach",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "scenario7",
@@ -2748,7 +2753,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3062,
+      "Progressed": 3063,
       "Completed": 10
     }
   ],
@@ -2756,8 +2761,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-07-16T18:03:21.6491537+00:00",
+  "LastChanged_Achievements": "2023-07-16T19:03:50.6794666+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:16.8344753+00:00",
-  "LastUpdate_Ratings": "2023-07-16T18:00:57.0823286+00:00",
-  "LastUpdate_Achievements": "2023-07-16T18:03:21.6491903+00:00"
+  "LastUpdate_Ratings": "2023-07-16T19:01:38.0561283+00:00",
+  "LastUpdate_Achievements": "2023-07-16T19:03:50.6795087+00:00"
 }

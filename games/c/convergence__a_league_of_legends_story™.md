@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 19.00% | ~144 |
+| The Mysterious Stranger | 16.00% | ~121 |
 | Rail Rat | 16.00% | ~121 |
-| The Mysterious Stranger | 15.00% | ~114 |
 | Make Up For Lost Time | 15.00% | ~114 |
 | The Steel Shadow | 14.00% | ~106 |
 | The Betrayer | 14.00% | ~106 |

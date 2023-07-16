@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 24,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1945,
+  "EOS_Progressed": 1946,
   "EOS_Completed": 167,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 8.59,
+  "EOS_Completed_Percentage": 8.58,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -3923,6 +3923,11 @@
       "Time": "2023-07-16T18:02:36.8298758+00:00",
       "NumProgressed": 1945,
       "NumCompleted": 167
+    },
+    {
+      "Time": "2023-07-16T19:03:35.1038854+00:00",
+      "NumProgressed": 1946,
+      "NumCompleted": 167
     }
   ],
   "TotalAchievements": 12,
@@ -3942,7 +3947,7 @@
       "Name": "Bernard",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "Building the Fox",
@@ -3950,7 +3955,7 @@
       "Name": "Building the Fox",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "Green Ticket Roundup",
@@ -3964,9 +3969,9 @@
       "ID": "Jacques a Dit",
       "SetID": "b40dflc",
       "Name": "Jacques a Dit",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 720
+      "UsersEstimate": 701
     },
     {
       "ID": "Jakob",
@@ -3982,7 +3987,7 @@
       "Name": "Jude",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "Le Juif et la France",
@@ -3998,7 +4003,7 @@
       "Name": "Little Helper",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -4029,7 +4034,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1945,
+      "Progressed": 1946,
       "Completed": 167
     }
   ],
@@ -4037,8 +4042,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-07-16T18:02:36.8298753+00:00",
+  "LastChanged_Achievements": "2023-07-16T19:03:35.1038847+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:31.7321074+00:00",
-  "LastUpdate_Ratings": "2023-07-16T18:00:09.9295051+00:00",
-  "LastUpdate_Achievements": "2023-07-16T18:02:36.8299007+00:00"
+  "LastUpdate_Ratings": "2023-07-16T19:00:47.7654925+00:00",
+  "LastUpdate_Achievements": "2023-07-16T19:03:35.1039214+00:00"
 }

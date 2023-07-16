@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1275,9 +1275,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 22500,
+  "EOS_Progressed": 22501,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -5405,6 +5405,11 @@
       "Time": "2023-07-16T18:07:21.6786587+00:00",
       "NumProgressed": 22500,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-07-16T19:08:07.8798909+00:00",
+      "NumProgressed": 22501,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -5432,7 +5437,7 @@
       "Name": "Black-shoppe",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "AllFriends",
@@ -5440,7 +5445,7 @@
       "Name": "Full House",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "AllRunes",
@@ -5456,7 +5461,7 @@
       "Name": "Erebus Purified",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "AllSkills",
@@ -5520,7 +5525,7 @@
       "Name": "For Greed",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "BossFinalDefeated",
@@ -5552,7 +5557,7 @@
       "Name": "For Penance",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "BossGardenDefeated",
@@ -5616,7 +5621,7 @@
       "Name": "It Was Just an Estimate",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "FifteenLivesEasy",
@@ -5640,7 +5645,7 @@
       "Name": "Good Practice",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Icarus",
@@ -5648,7 +5653,7 @@
       "Name": "Maybe Wax Doesn\u0027t Melt",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "NightmareKhidr",
@@ -5656,7 +5661,7 @@
       "Name": "A Glimpse of the Future",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "PetDragon",
@@ -5672,7 +5677,7 @@
       "Name": "Prequel to the Sequel",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "RogueMode",
@@ -5704,7 +5709,7 @@
       "Name": "Had to Do It",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "UnlockHighMastery",
@@ -5727,21 +5732,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 22500,
+      "Progressed": 22501,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 1430,
+      "Progressed": 1431,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-07-15T19:00:38.6035018+00:00",
-  "LastChanged_Achievements": "2023-07-16T18:07:21.6786582+00:00",
+  "LastChanged_Achievements": "2023-07-16T19:08:07.8798899+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:08.5902435+00:00",
-  "LastUpdate_Ratings": "2023-07-16T17:59:46.4680549+00:00",
-  "LastUpdate_Achievements": "2023-07-16T18:07:21.6787028+00:00"
+  "LastUpdate_Ratings": "2023-07-16T19:00:22.7267263+00:00",
+  "LastUpdate_Achievements": "2023-07-16T19:08:07.880022+00:00"
 }

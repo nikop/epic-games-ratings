@@ -6,7 +6,7 @@ Rating: 4.32 (Ranked 765)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Food Taster | 9.00% | ~5,025 |
-| Fall Fest | 7.00% | ~3,908 |
+| Fall Fest | 7.00% | ~3,909 |
 | Thrill Seeker | 6.00% | ~3,350 |
 | Flying Present Catcher | 5.00% | ~2,792 |
 | HFZ Goober | 5.00% | ~2,792 |
@@ -33,11 +33,11 @@ Rating: 4.32 (Ranked 765)
 | Ridiculously Generous | 0.40% | ~223 |
 | Harsh Love | 0.40% | ~223 |
 | Made It Through | 0.40% | ~223 |
-| Map Explorer | 0.30% | ~167 |
-| Nine Funkotronians | 0.30% | ~167 |
-| I'm A Total Saint | 0.30% | ~167 |
-| Struck By Love | 0.30% | ~167 |
-| The Worst Possible Luck | 0.30% | ~167 |
+| Map Explorer | 0.30% | ~168 |
+| Nine Funkotronians | 0.30% | ~168 |
+| I'm A Total Saint | 0.30% | ~168 |
+| Struck By Love | 0.30% | ~168 |
+| The Worst Possible Luck | 0.30% | ~168 |
 | Broken Present Risk Taker | 0.20% | ~112 |
 | Truly Evil | 0.20% | ~112 |
 | Achievement Achiever | 0.10% | ~56 |
@@ -55,7 +55,7 @@ Rating: 4.32 (Ranked 765)
 | Why Do I Keep Doing That? | 0.10% | ~56 |
 | Hey, You Did It! | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,833 (Ranked 84)  
+Progressed: 55,837 (Ranked 84)  
 Completed: 4 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 4 (0.01%) (Ranked 223)
 | 2023-07-13 | 55,768 | 4 |
 | 2023-07-14 | 55,789 | 4 |
 | 2023-07-15 | 55,812 | 4 |
-| 2023-07-16 | 55,833 | 4 |
+| 2023-07-16 | 55,837 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

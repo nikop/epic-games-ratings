@@ -8,17 +8,19 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Cursed Farmer | 0.30% | ~637 |
 | The Ring of Regeneration | 0.30% | ~637 |
+| Seeking Allies | 0.30% | ~637 |
 | The Mad Wizard | 0.30% | ~637 |
 | Pure Energy | 0.30% | ~637 |
 | The Crumbling Temple | 0.20% | ~425 |
-| Seeking Allies | 0.20% | ~425 |
 | Are Ya Chicken? | 0.20% | ~425 |
 | Useless Allies | 0.20% | ~425 |
 | Mad Cow Disease | 0.20% | ~425 |
 | Exploring Port Nyanzaru | 0.20% | ~425 |
+| A Tale of Two Cities | 0.20% | ~425 |
 | Running of the Saurs | 0.20% | ~425 |
 | The Contagious Curse | 0.20% | ~425 |
 | Escort to Waterdeep | 0.20% | ~425 |
+| Close Escort | 0.20% | ~425 |
 | Waterdeep Detours | 0.20% | ~425 |
 | Underdeep Cartography | 0.20% | ~425 |
 | Friendly Imps | 0.20% | ~425 |
@@ -88,7 +90,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Abyssal Situation | 0.10% | ~212 |
 | Dino Nightmare | 0.10% | ~212 |
 | A Familiar Friend | 0.10% | ~179 |
-| A Tale of Two Cities | 0.10% | ~212 |
 | A Tale of Two Fiends | 0.10% | ~212 |
 | A Tale of Two Champions | 0.10% | ~212 |
 | A Tale of Two Years | 0.10% | ~179 |
@@ -209,7 +210,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Enemy Summit | 0.10% | ~179 |
 | Mirage Arcane | 0.10% | ~179 |
 | Only Human | 0.10% | ~179 |
-| Close Escort | 0.10% | ~212 |
 | Constant Banditry | 0.10% | ~212 |
 | The Long Haul | 0.10% | ~212 |
 | Lost in the Deep | 0.10% | ~212 |
@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212,393 (Ranked 52)  
+Progressed: 212,414 (Ranked 52)  
 Completed: 2,055 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -601,7 +601,7 @@ Completed: 2,055 (0.97%) (Ranked 102)
 | 2023-07-13 | 211,069 | 2,049 |
 | 2023-07-14 | 211,507 | 2,050 |
 | 2023-07-15 | 212,014 | 2,053 |
-| 2023-07-16 | 212,393 | 2,055 |
+| 2023-07-16 | 212,414 | 2,055 |
 ## Awards
 Max (Diverse Characters): 5,036  (Ranked 66)  
 Sum: 30,545 (Ranked 38)  

@@ -31,7 +31,7 @@ Rating: 4.87 (Ranked 24)
 | Who put gears in there? | 1.00% | ~35 |
 | Alright, that felt AWESOME! | 1.00% | ~35 |
 | You can pet the cat! | 1.00% | ~35 |
-| Does that say weakpoint? | 0.80% | ~28 |
+| Does that say weakpoint? | 0.90% | ~31 |
 | That's a lot of junk metal… | 0.70% | ~24 |
 | There's such a thing as TOO helpful | 0.70% | ~24 |
 | Beat-hit mania | 0.60% | ~21 |
@@ -42,13 +42,13 @@ Rating: 4.87 (Ranked 24)
 | New bad guys? No problem! | 0.40% | ~8 |
 | I think I deserve some praise, here! | 0.30% | ~10 |
 | I think I found your calling, Macaron | 0.30% | ~10 |
+| First we parry, then we counter | 0.30% | ~10 |
 | I told you I'd be fine, Peppermint! | 0.30% | ~10 |
 | Choose your own adventure | 0.30% | ~6 |
 | This is a breeze! | 0.20% | ~7 |
 | OK, well THEY came after ME! | 0.20% | ~7 |
 | We're Jammin' | 0.20% | ~7 |
 | I'm not done with you yet | 0.20% | ~7 |
-| First we parry, then we counter | 0.20% | ~7 |
 | I hit things with a guitar really well. | 0.20% | ~7 |
 | It'll do, CNMN | 0.20% | ~4 |
 | Easy Listening | 0.10% | ~3 |

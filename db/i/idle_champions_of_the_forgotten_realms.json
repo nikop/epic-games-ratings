@@ -5014,9 +5014,9 @@
       "Count": 3303
     }
   ],
-  "EOS_Progressed": 212393,
+  "EOS_Progressed": 212414,
   "EOS_Completed": 2055,
-  "EOS_NewPlayers": 3137,
+  "EOS_NewPlayers": 3132,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -14319,6 +14319,11 @@
       "Time": "2023-07-16T18:06:18.9973072+00:00",
       "NumProgressed": 212393,
       "NumCompleted": 2055
+    },
+    {
+      "Time": "2023-07-16T19:07:00.6319524+00:00",
+      "NumProgressed": 212414,
+      "NumCompleted": 2055
     }
   ],
   "TotalAchievements": 507,
@@ -16120,9 +16125,9 @@
       "ID": "objective_completed_39",
       "SetID": "cc37lbc",
       "Name": "Seeking Allies",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 425
+      "UsersEstimate": 637
     },
     {
       "ID": "objective_completed_390",
@@ -16480,9 +16485,9 @@
       "ID": "objective_completed_540",
       "SetID": "cc37lbc",
       "Name": "A Tale of Two Cities",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 425
     },
     {
       "ID": "objective_completed_541",
@@ -17480,9 +17485,9 @@
       "ID": "objective_completed_70",
       "SetID": "cc37lbc",
       "Name": "Close Escort",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 425
     },
     {
       "ID": "objective_completed_71",
@@ -18385,21 +18390,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 178667,
+      "Progressed": 178688,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 212393,
+      "Progressed": 212414,
       "Completed": 2055
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-16T16:58:12.0129596+00:00",
-  "LastChanged_Achievements": "2023-07-16T18:06:18.9973065+00:00",
+  "LastChanged_Achievements": "2023-07-16T19:07:00.6319516+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:48.5227447+00:00",
-  "LastUpdate_Ratings": "2023-07-16T17:58:32.8459764+00:00",
-  "LastUpdate_Achievements": "2023-07-16T18:06:18.9996981+00:00"
+  "LastUpdate_Ratings": "2023-07-16T18:59:03.6922884+00:00",
+  "LastUpdate_Achievements": "2023-07-16T19:07:00.6372332+00:00"
 }

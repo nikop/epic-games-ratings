@@ -44,8 +44,8 @@
 | Octopostructure | 16.00% | ~25 |
 | Boss Hunter | 15.00% | ~24 |
 | Hawkman | 8.00% | ~13 |
+| Annihilate | 7.00% | ~11 |
 | Fashion Victim | 6.00% | ~9 |
-| Annihilate | 6.00% | ~9 |
 | See You Later | 5.00% | ~8 |
 | Godlike Skin | 5.00% | ~8 |
 | Feast Time | 5.00% | ~8 |

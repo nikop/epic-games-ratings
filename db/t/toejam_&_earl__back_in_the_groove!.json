@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 55833,
+  "EOS_Progressed": 55837,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5727,6 +5727,11 @@
       "Time": "2023-07-16T18:05:14.5536586+00:00",
       "NumProgressed": 55833,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-16T19:05:49.5994744+00:00",
+      "NumProgressed": 55837,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 49,
@@ -5794,7 +5799,7 @@
       "Name": "Map Explorer",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "FallFest",
@@ -5802,7 +5807,7 @@
       "Name": "Fall Fest",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 3908
+      "UsersEstimate": 3909
     },
     {
       "ID": "FlyingPresent",
@@ -5962,7 +5967,7 @@
       "Name": "Nine Funkotronians",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "OldSchool",
@@ -6018,7 +6023,7 @@
       "Name": "I\u0027m A Total Saint",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "SantasBag",
@@ -6042,7 +6047,7 @@
       "Name": "Struck By Love",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "Sunflower",
@@ -6066,7 +6071,7 @@
       "Name": "The Worst Possible Luck",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ThrillSeeker",
@@ -6129,7 +6134,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 55833,
+      "Progressed": 55837,
       "Completed": 4
     }
   ],
@@ -6137,8 +6142,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-07-16T18:05:14.5536578+00:00",
+  "LastChanged_Achievements": "2023-07-16T19:05:49.5994735+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:37.0395721+00:00",
-  "LastUpdate_Ratings": "2023-07-16T18:01:15.5477419+00:00",
-  "LastUpdate_Achievements": "2023-07-16T18:05:14.5537205+00:00"
+  "LastUpdate_Ratings": "2023-07-16T19:01:58.9754709+00:00",
+  "LastUpdate_Achievements": "2023-07-16T19:05:49.5995789+00:00"
 }

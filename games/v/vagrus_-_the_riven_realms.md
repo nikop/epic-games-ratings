@@ -37,6 +37,7 @@
 | Bounty Hunter | 2.00% | ~2 |
 | Deputized | 2.00% | ~2 |
 | Despised | 2.00% | ~2 |
+| Trailblazer | 2.00% | ~2 |
 | Delayed | 2.00% | ~2 |
 | Unseen Patterns | 2.00% | ~2 |
 | Making Contact | 0.90% | ~1 |
@@ -47,7 +48,6 @@
 | Conqueror | 0.90% | ~1 |
 | Business As Usual | 0.90% | ~1 |
 | Legacy of a Mercenary | 0.90% | ~1 |
-| Trailblazer | 0.90% | ~1 |
 | A Real Battle | 0.90% | ~1 |
 | Celebrity | 0.90% | ~1 |
 | Ruiner | 0.90% | ~1 |
@@ -104,7 +104,7 @@
 | Enterpreneur | 0.00% | ~0 |
 | Insectoid Propagator | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 114 (Ranked 295)  
+Progressed: 114 (Ranked 296)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |

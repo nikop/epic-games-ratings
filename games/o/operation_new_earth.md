@@ -13,10 +13,10 @@
 | Lieutenant | 14.00% | ~65 |
 | Stocking Up | 14.00% | ~65 |
 | On Target | 14.00% | ~65 |
-| Getting Deployment | 13.00% | ~60 |
+| Getting Deployment | 13.00% | ~61 |
 | Keeping Busy | 12.00% | ~56 |
 | Infantry Reporting | 12.00% | ~56 |
-| Fighting for Survival | 10.00% | ~46 |
+| Fighting for Survival | 10.00% | ~47 |
 | Silver Competitor | 9.00% | ~42 |
 | Captain | 8.00% | ~37 |
 | Factory Expansion | 8.00% | ~37 |
@@ -43,7 +43,7 @@
 | Platinum Achiever | 0.00% | ~0 |
 | Platinum Competitor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 465 (Ranked 218)  
+Progressed: 466 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,4 +81,4 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-13 | 426 | 0 |
 | 2023-07-14 | 437 | 0 |
 | 2023-07-15 | 455 | 0 |
-| 2023-07-16 | 465 | 0 |
+| 2023-07-16 | 466 | 0 |

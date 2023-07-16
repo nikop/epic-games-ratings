@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 114,
+  "EOS_Progressed": 115,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 8.77,
+  "EOS_Completed_Percentage": 8.7,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -421,6 +421,11 @@
       "Time": "2023-07-16T16:04:48.2717903+00:00",
       "NumProgressed": 114,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-16T19:06:01.0638472+00:00",
+      "NumProgressed": 115,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 16,
@@ -430,7 +435,7 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "8d3ci0",
       "Name": "Three is company",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 5,
       "UsersEstimate": 59
     },
@@ -448,7 +453,7 @@
       "Name": "Cruise ship",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -456,29 +461,29 @@
       "Name": "Ducks adrift",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
       "SetID": "8d3ci0",
       "Name": "That\u0027s all, ducks!",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 160,
-      "UsersEstimate": 21
+      "UsersEstimate": 20
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "8d3ci0",
       "Name": "High-rise",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 61
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
       "SetID": "8d3ci0",
       "Name": "Putting challenge",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 80,
       "UsersEstimate": 28
     },
@@ -510,9 +515,9 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "8d3ci0",
       "Name": "Catch a flight",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 34
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -542,7 +547,7 @@
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "8d3ci0",
       "Name": "On fire",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 60,
       "UsersEstimate": 28
     },
@@ -550,23 +555,23 @@
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "8d3ci0",
       "Name": "Watery help",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 21
+      "UsersEstimate": 20
     }
   ],
   "AchievementSets": [
     {
       "ID": "8d3ci0",
       "IsBase": true,
-      "Progressed": 114,
+      "Progressed": 115,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-16T18:05:25.2743491+00:00",
+  "LastChanged_Achievements": "2023-07-16T19:06:01.0638465+00:00",
   "LastUpdate_AppInfo": "2023-07-15T11:57:13.4695515+00:00",
-  "LastUpdate_Ratings": "2023-07-16T17:57:09.8319755+00:00",
-  "LastUpdate_Achievements": "2023-07-16T18:05:25.2743631+00:00"
+  "LastUpdate_Ratings": "2023-07-16T18:57:31.8741192+00:00",
+  "LastUpdate_Achievements": "2023-07-16T19:06:01.0638668+00:00"
 }

@@ -74,10 +74,10 @@ Rating: 4.08 (Ranked 896)
 | Pokerface | 0.40% | ~7 |
 | Beast War Machines | 0.30% | ~5 |
 | Enhanced War Machines | 0.30% | ~5 |
+| Ultimate War Machines | 0.30% | ~5 |
 | Angel Power | 0.20% | ~3 |
 | Conqueror | 0.20% | ~3 |
 | Silverwood liberator | 0.20% | ~3 |
-| Ultimate War Machines | 0.20% | ~3 |
 | War Machines Army | 0.20% | ~3 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)

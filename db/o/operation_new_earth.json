@@ -2,10 +2,10 @@
   "ID": "fa9a00f7f82846b4b820e6152b69aa55",
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
-  "Ranking_EOS_Progress": 218,
+  "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 465,
+  "EOS_Progressed": 466,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1616,6 +1616,11 @@
       "Time": "2023-07-16T17:05:03.0446406+00:00",
       "NumProgressed": 465,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-16T19:06:20.5363857+00:00",
+      "NumProgressed": 466,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1643,7 +1648,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ach_defeat_players_100",
@@ -1819,7 +1824,7 @@
       "Name": "Getting Deployment",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -1930,14 +1935,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 465,
+      "Progressed": 466,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-16T18:05:42.9977043+00:00",
+  "LastChanged_Achievements": "2023-07-16T19:06:20.5363849+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:28.9258865+00:00",
-  "LastUpdate_Ratings": "2023-07-16T18:01:09.8887821+00:00",
-  "LastUpdate_Achievements": "2023-07-16T18:05:42.9977371+00:00"
+  "LastUpdate_Ratings": "2023-07-16T19:01:51.6448987+00:00",
+  "LastUpdate_Achievements": "2023-07-16T19:06:20.5364331+00:00"
 }

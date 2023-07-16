@@ -15,7 +15,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | No Harm in Looking | 0.90% | ~203 |
 | King and Kin | 0.80% | ~180 |
 | Progenitor and Protégé | 0.80% | ~180 |
-| Prequel to the Sequel | 0.70% | ~157 |
+| Prequel to the Sequel | 0.70% | ~158 |
 | Truly Blessed | 0.40% | ~90 |
 | Pillow Investments | 0.40% | ~90 |
 | For Glory | 0.40% | ~90 |
@@ -31,22 +31,22 @@ Number of Ratings: 1,331  (23.09.2022)
 | Wasted Betrayal | 0.20% | ~45 |
 | Jack of all Trades | 0.20% | ~45 |
 | Color Coordination | 0.20% | ~45 |
-| Black-shoppe | 0.10% | ~22 |
-| Full House | 0.10% | ~22 |
-| Erebus Purified | 0.10% | ~22 |
-| For Greed | 0.10% | ~22 |
-| For Penance | 0.10% | ~22 |
-| It Was Just an Estimate | 0.10% | ~22 |
-| Good Practice | 0.10% | ~22 |
-| Maybe Wax Doesn't Melt | 0.10% | ~22 |
-| A Glimpse of the Future | 0.10% | ~22 |
-| Had to Do It | 0.10% | ~22 |
+| Black-shoppe | 0.10% | ~23 |
+| Full House | 0.10% | ~23 |
+| Erebus Purified | 0.10% | ~23 |
+| For Greed | 0.10% | ~23 |
+| For Penance | 0.10% | ~23 |
+| It Was Just an Estimate | 0.10% | ~23 |
+| Good Practice | 0.10% | ~23 |
+| Maybe Wax Doesn't Melt | 0.10% | ~23 |
+| A Glimpse of the Future | 0.10% | ~23 |
+| Had to Do It | 0.10% | ~23 |
 | Rogue's Legacy | 0.00% | ~0 |
 | Thanatophobia | 0.00% | ~0 |
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,500 (Ranked 101)  
+Progressed: 22,501 (Ranked 101)  
 Completed: 35 (0.16%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 35 (0.16%) (Ranked 171)
 | 2023-07-13 | 22,475 | 35 |
 | 2023-07-14 | 22,481 | 35 |
 | 2023-07-15 | 22,492 | 35 |
-| 2023-07-16 | 22,500 | 35 |
+| 2023-07-16 | 22,501 | 35 |
 ## Awards
 Max (Extremely Fun): 218  (Ranked 256)  
 Sum: 1,663 (Ranked 208)  
