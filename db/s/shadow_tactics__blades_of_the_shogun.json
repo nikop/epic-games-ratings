@@ -1321,9 +1321,9 @@
       "Count": 245
     }
   ],
-  "EOS_Progressed": 185883,
+  "EOS_Progressed": 185886,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 1750,
+  "EOS_NewPlayers": 1744,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -10711,6 +10711,11 @@
       "Time": "2023-07-15T23:07:22.5399216+00:00",
       "NumProgressed": 185883,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-07-16T00:08:08.4509741+00:00",
+      "NumProgressed": 185886,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 44,
@@ -10786,7 +10791,7 @@
       "Name": "Gear up",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 5576
+      "UsersEstimate": 5577
     },
     {
       "ID": "Genin",
@@ -10890,7 +10895,7 @@
       "Name": "Noboru",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 5576
+      "UsersEstimate": 5577
     },
     {
       "ID": "Okkoto",
@@ -10954,7 +10959,7 @@
       "Name": "Still Rollin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 5576
+      "UsersEstimate": 5577
     },
     {
       "ID": "Stoned",
@@ -10962,7 +10967,7 @@
       "Name": "Stoned",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 5576
+      "UsersEstimate": 5577
     },
     {
       "ID": "StonedOx",
@@ -11010,7 +11015,7 @@
       "Name": "Thorough",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 16729
+      "UsersEstimate": 16730
     },
     {
       "ID": "TimeParadox",
@@ -11073,15 +11078,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 185883,
+      "Progressed": 185886,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-07-15T14:01:23.226524+00:00",
-  "LastChanged_Achievements": "2023-07-15T23:07:22.5399212+00:00",
+  "LastChanged_Achievements": "2023-07-16T00:08:08.4509735+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:02.1147937+00:00",
-  "LastUpdate_Ratings": "2023-07-15T22:59:44.2133463+00:00",
-  "LastUpdate_Achievements": "2023-07-15T23:07:22.540006+00:00"
+  "LastUpdate_Ratings": "2023-07-16T00:00:12.6952932+00:00",
+  "LastUpdate_Achievements": "2023-07-16T00:08:08.4510845+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 75,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -374,11 +374,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15334,
-  "EOS_Completed": 321,
-  "EOS_NewPlayers": 598,
-  "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 2.09,
+  "EOS_Progressed": 15337,
+  "EOS_Completed": 322,
+  "EOS_NewPlayers": 599,
+  "EOS_NewCompleters": 12,
+  "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.7860479+00:00",
@@ -9409,6 +9409,11 @@
       "Time": "2023-07-15T23:04:13.7836044+00:00",
       "NumProgressed": 15334,
       "NumCompleted": 321
+    },
+    {
+      "Time": "2023-07-16T00:04:30.0970375+00:00",
+      "NumProgressed": 15337,
+      "NumCompleted": 322
     }
   ],
   "TotalAchievements": 20,
@@ -9460,7 +9465,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1533
+      "UsersEstimate": 1534
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -9484,7 +9489,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2300
+      "UsersEstimate": 2301
     },
     {
       "ID": "FOUND_ERIN",
@@ -9516,7 +9521,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1993
+      "UsersEstimate": 1994
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -9524,7 +9529,7 @@
       "Name": "Written in stone",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1073
+      "UsersEstimate": 1074
     },
     {
       "ID": "GAME_FINISHED",
@@ -9532,7 +9537,7 @@
       "Name": "Equilibrium",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1993
+      "UsersEstimate": 1994
     },
     {
       "ID": "INTRO_FINISHED",
@@ -9540,7 +9545,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 11654
+      "UsersEstimate": 11656
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -9564,7 +9569,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1073
+      "UsersEstimate": 1074
     },
     {
       "ID": "WEST_FINISHED",
@@ -9572,22 +9577,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 2913
+      "UsersEstimate": 2914
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 15334,
-      "Completed": 321
+      "Progressed": 15337,
+      "Completed": 322
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-07-15T23:04:13.7836039+00:00",
+  "LastChanged_Achievements": "2023-07-16T00:04:30.097037+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:08.6336222+00:00",
-  "LastUpdate_Ratings": "2023-07-15T23:00:50.4467349+00:00",
-  "LastUpdate_Achievements": "2023-07-15T23:04:13.7836563+00:00"
+  "LastUpdate_Ratings": "2023-07-16T00:01:31.9711117+00:00",
+  "LastUpdate_Achievements": "2023-07-16T00:04:30.0971089+00:00"
 }

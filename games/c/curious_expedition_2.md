@@ -12,7 +12,7 @@ Number of Ratings: 20  (23.09.2022)
 | Insomnia | 45.00% | ~144 |
 | From Whence we Came | 41.00% | ~131 |
 | Lost & Found & Lost Again | 40.00% | ~128 |
-| Fire and Flood | 37.00% | ~118 |
+| Fire and Flood | 38.00% | ~121 |
 | Spooky! | 35.00% | ~112 |
 | Shennong Herbalist | 33.00% | ~105 |
 | Treasure Hunt | 32.00% | ~102 |

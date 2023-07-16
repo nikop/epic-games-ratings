@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57378,
+  "EOS_Progressed": 57379,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 316,
+  "EOS_NewPlayers": 315,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8042,6 +8042,11 @@
       "Time": "2023-07-15T21:03:29.2117672+00:00",
       "NumProgressed": 57378,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-07-16T00:03:12.781859+00:00",
+      "NumProgressed": 57379,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 67,
@@ -8061,7 +8066,7 @@
       "Name": "Nordic Walking",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 12049
+      "UsersEstimate": 12050
     },
     {
       "ID": "03",
@@ -8069,7 +8074,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 12049
+      "UsersEstimate": 12050
     },
     {
       "ID": "04",
@@ -8173,7 +8178,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4016
+      "UsersEstimate": 4017
     },
     {
       "ID": "17",
@@ -8245,7 +8250,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4016
+      "UsersEstimate": 4017
     },
     {
       "ID": "26",
@@ -8301,7 +8306,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14918
+      "UsersEstimate": 14919
     },
     {
       "ID": "33",
@@ -8588,21 +8593,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57378,
+      "Progressed": 57379,
       "Completed": 58
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20846,
+      "Progressed": 20847,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-15T23:02:37.6786953+00:00",
+  "LastChanged_Achievements": "2023-07-16T00:03:12.7818585+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:10.5196415+00:00",
-  "LastUpdate_Ratings": "2023-07-15T22:58:13.495186+00:00",
-  "LastUpdate_Achievements": "2023-07-15T23:02:37.6787805+00:00"
+  "LastUpdate_Ratings": "2023-07-15T23:58:17.457939+00:00",
+  "LastUpdate_Achievements": "2023-07-16T00:03:12.7819752+00:00"
 }

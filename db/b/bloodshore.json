@@ -4,7 +4,7 @@
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 72,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
@@ -366,9 +366,9 @@
       "ID": "um_ok",
       "SetID": "84ad177",
       "Name": "Um, ok...",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 86
     },
     {
       "ID": "used_to_think_i_was_indecisive",
@@ -391,8 +391,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-07-15T23:07:19.9918932+00:00",
+  "LastChanged_Achievements": "2023-07-16T00:08:05.5515044+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:59.9543399+00:00",
-  "LastUpdate_Ratings": "2023-07-15T23:00:41.288436+00:00",
-  "LastUpdate_Achievements": "2023-07-15T23:07:19.9919036+00:00"
+  "LastUpdate_Ratings": "2023-07-16T00:01:23.7823325+00:00",
+  "LastUpdate_Achievements": "2023-07-16T00:08:05.5515187+00:00"
 }
