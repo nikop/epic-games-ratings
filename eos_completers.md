@@ -18,12 +18,12 @@
 | 16 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.06% |
 | 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.02% |
 | 18 | [Remains](games/r/remains.md) | 11.63% |
-| 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.17% |
+| 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.11% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.07% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.47% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.46% |
 | 25 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.18% |
 | 26 | [Smelter](games/s/smelter.md) | 8.11% |
 | 27 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.69% |
@@ -67,7 +67,7 @@
 | 65 | [Lamentum](games/l/lamentum.md) | 2.67% |
 | 66 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
 | 67 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.56% |
-| 68 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.54% |
+| 68 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.53% |
 | 69 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 70 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
 | 71 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.36% |
@@ -158,25 +158,25 @@
 | 155 | [Against the Storm](games/a/against_the_storm.md) | 0.25% |
 | 155 | [Despot's Game](games/d/despot's_game.md) | 0.25% |
 | 158 | [Filament](games/f/filament.md) | 0.24% |
-| 159 | [Blanc](games/b/blanc.md) | 0.23% |
-| 160 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
-| 160 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.22% |
+| 159 | [Blanc](games/b/blanc.md) | 0.22% |
+| 159 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
+| 159 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.22% |
 | 162 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.21% |
 | 163 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.19% |
 | 163 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
 | 163 | [Going Medieval](games/g/going_medieval.md) | 0.19% |
 | 166 | [BLACKTAIL](games/b/blacktail.md) | 0.18% |
 | 166 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.18% |
+| 168 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.17% |
 | 168 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
-| 169 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
-| 169 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
-| 169 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.16% |
-| 172 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.15% |
-| 172 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
-| 172 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.15% |
-| 172 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
-| 176 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.14% |
-| 176 | [Port Royale 4](games/p/port_royale_4.md) | 0.14% |
+| 170 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
+| 170 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
+| 170 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.16% |
+| 173 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.15% |
+| 173 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
+| 173 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.15% |
+| 173 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
+| 177 | [Port Royale 4](games/p/port_royale_4.md) | 0.14% |
 | 178 | [Isonzo](games/i/isonzo.md) | 0.13% |
 | 179 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 180 | [Fall Guys](games/f/fall_guys.md) | 0.11% |
@@ -395,6 +395,7 @@
 | 236 | [Planet Cube - Edge](games/p/planet_cube_-_edge.md) | 0.00% |
 | 236 | [Poi](games/p/poi.md) | 0.00% |
 | 236 | [Poker Club](games/p/poker_club.md) | 0.00% |
+| 236 | [Popcorn Rocket](games/4/4acbe0ba4b144020b1dee0d6dd607029.md) | 0.00% |
 | 236 | [Power Vacuum](games/8/80d6afef34fc4d3ea8a72c7820743fb8.md) | 0.00% |
 | 236 | [Prison Architect](games/p/prison_architect.md) | 0.00% |
 | 236 | [Project Highrise](games/p/project_highrise.md) | 0.00% |
@@ -492,4 +493,4 @@
 | 236 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 236 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 236 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,902 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
+| 2,903 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |

@@ -38,6 +38,7 @@
 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 2023-07-31 | - |  | - | - |
 | [Virus Infinite](games/0/0f0415b3318747949c6d444dc2edd27d.md) | 2023-07-31 | - |  | - | - |
 | [F1 Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 2023-07-31 | - |  | - | - |
+| [Mixing Ammos](games/2/23047faee0134ed3bb4c8d71857c567b.md) | 2023-08-04 | - |  | - | - |
 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 2023-08-08 | - |  | - | - |
 | [The Dragoness Command Of The Flame](games/8/8bf17fa0bd774f72bb06bd095830af2a.md) | 2023-08-09 | 37 (1,000 XP) | 1 | - | - |
 | [GO TO HELL or Die Trying](games/8/8dd803604799447fa19f637a05991e98.md) | 2023-08-15 | - |  | - | - |
@@ -104,7 +105,7 @@
 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 2023-10-13 | - |  | - | - |
 | [Backrooms Break](games/6/6246bf144dd3486fa681b773ddbe441a.md) | 2023-10-17 | - |  | - | - |
 | [Alan Wake 2](games/a/alan_wake_2.md) | 2023-10-17 | - |  | - | 0 |
-| [Popcorn Rocket](games/4/4acbe0ba4b144020b1dee0d6dd607029.md) | 2023-10-17 | 41 (1,000 XP) | 0 | - | - |
+| [Popcorn Rocket](games/4/4acbe0ba4b144020b1dee0d6dd607029.md) | 2023-10-17 | 41 (1,000 XP) | 1 | - | - |
 | [ENDLESS™ Dungeon](games/e/endless™_dungeon.md) | 2023-10-19 | - |  | - | - |
 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 2023-10-19 | - |  | - | - |
 | [Hero Survival](games/9/9247eb45e73d4cccbd0b27d783e243e7.md) | 2023-10-31 | - |  | - | - |
@@ -407,7 +408,7 @@
 | [Yakuza Empire](games/y/yakuza_empire.md) | 2099-01-02 | - |  | - | - |
 | [The Invincible](games/t/the_invincible.md) | 2099-01-28 | - |  | - | - |
 | [Broken Roads](games/b/broken_roads.md) | 2099-02-01 | - |  | - | - |
-| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2099-02-01 | 24 (1,000 XP) | 2,954 | - | - |
+| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2099-02-01 | 24 (1,000 XP) | 2,955 | - | - |
 | [Eville](games/e/eville.md) | 2099-02-01 | - |  | - | - |
 | [Gangs of Sherwood](games/g/gangs_of_sherwood.md) | 2099-02-01 | - |  | - | - |
 | [Hades II](games/h/hades_ii.md) | 2099-02-01 | - |  | - | - |
