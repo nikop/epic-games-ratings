@@ -9,20 +9,20 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Cursed Farmer | 0.30% | ~637 |
 | The Ring of Regeneration | 0.30% | ~637 |
 | The Mad Wizard | 0.30% | ~637 |
-| The Crumbling Temple | 0.20% | ~424 |
-| Seeking Allies | 0.20% | ~424 |
-| Are Ya Chicken? | 0.20% | ~424 |
-| Useless Allies | 0.20% | ~424 |
-| Mad Cow Disease | 0.20% | ~424 |
-| Exploring Port Nyanzaru | 0.20% | ~424 |
-| Running of the Saurs | 0.20% | ~424 |
-| The Contagious Curse | 0.20% | ~424 |
-| Escort to Waterdeep | 0.20% | ~424 |
-| Waterdeep Detours | 0.20% | ~424 |
-| Underdeep Cartography | 0.20% | ~424 |
-| Friendly Imps | 0.20% | ~424 |
-| Overdue Rendezvous | 0.20% | ~424 |
-| Pure Energy | 0.20% | ~424 |
+| The Crumbling Temple | 0.20% | ~425 |
+| Seeking Allies | 0.20% | ~425 |
+| Are Ya Chicken? | 0.20% | ~425 |
+| Useless Allies | 0.20% | ~425 |
+| Mad Cow Disease | 0.20% | ~425 |
+| Exploring Port Nyanzaru | 0.20% | ~425 |
+| Running of the Saurs | 0.20% | ~425 |
+| The Contagious Curse | 0.20% | ~425 |
+| Escort to Waterdeep | 0.20% | ~425 |
+| Waterdeep Detours | 0.20% | ~425 |
+| Underdeep Cartography | 0.20% | ~425 |
+| Friendly Imps | 0.20% | ~425 |
+| Overdue Rendezvous | 0.20% | ~425 |
+| Pure Energy | 0.20% | ~425 |
 | Intelligence Hunt | 0.10% | ~212 |
 | Seeds of Deceit | 0.10% | ~212 |
 | Visions of Strahd | 0.10% | ~212 |
@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212,246 (Ranked 52)  
+Progressed: 212,269 (Ranked 52)  
 Completed: 2,055 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -601,19 +601,19 @@ Completed: 2,055 (0.97%) (Ranked 102)
 | 2023-07-13 | 211,069 | 2,049 |
 | 2023-07-14 | 211,507 | 2,050 |
 | 2023-07-15 | 212,014 | 2,053 |
-| 2023-07-16 | 212,246 | 2,055 |
+| 2023-07-16 | 212,269 | 2,055 |
 ## Awards
 Max (Diverse Characters): 5,036  (Ranked 66)  
-Sum: 30,539 (Ranked 38)  
+Sum: 30,544 (Ranked 38)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,036 |
 | This game is Great for Beginners | 4,972 |
-| This game has Quickly Understood Controls | 4,662 |
+| This game has Quickly Understood Controls | 4,664 |
 | This game is Relaxing | 4,555 |
+| This game has Amazing Characters | 4,008 |
 | This game is Highly Recommended | 4,006 |
-| This game has Amazing Characters | 4,005 |
 | This game has Playful Visuals | 3,303 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -789,4 +789,4 @@ Diff (max vs sum): 28
 | 2023-07-13 | 4.05 | - | 5,029 | 30,497 |
 | 2023-07-14 | 4.05 | - | 5,033 | 30,510 |
 | 2023-07-15 | 4.05 | - | 5,036 | 30,535 |
-| 2023-07-16 | 4.05 | - | 5,036 | 30,539 |
+| 2023-07-16 | 4.05 | - | 5,036 | 30,544 |

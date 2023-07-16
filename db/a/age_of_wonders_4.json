@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -274,9 +274,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5004,
+  "EOS_Progressed": 5005,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5269,6 +5269,11 @@
       "Time": "2023-07-16T12:03:28.0931926+00:00",
       "NumProgressed": 5004,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-16T13:16:33.4970284+00:00",
+      "NumProgressed": 5005,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 50,
@@ -5470,9 +5475,9 @@
       "ID": "31",
       "SetID": "3aa2279",
       "Name": "Magical Synergy",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 200
     },
     {
       "ID": "32",
@@ -5679,13 +5684,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5004,
+      "Progressed": 5005,
       "Completed": 4760
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5004,
+      "Progressed": 5005,
       "Completed": 5
     }
   ],
@@ -5693,8 +5698,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-07-11T11:00:15.2595187+00:00",
-  "LastChanged_Achievements": "2023-07-16T12:03:28.093192+00:00",
+  "LastChanged_Achievements": "2023-07-16T13:16:33.497028+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:27.6381321+00:00",
-  "LastUpdate_Ratings": "2023-07-16T11:59:37.855703+00:00",
-  "LastUpdate_Achievements": "2023-07-16T12:03:28.0932639+00:00"
+  "LastUpdate_Ratings": "2023-07-16T13:12:20.5612076+00:00",
+  "LastUpdate_Achievements": "2023-07-16T13:16:33.4971033+00:00"
 }

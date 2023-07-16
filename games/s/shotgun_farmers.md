@@ -34,9 +34,9 @@
 | Eggtraordinary | 10.00% | ~21 |
 | Perfect | 9.00% | ~14 |
 | Expert Survivor | 9.00% | ~14 |
+| Quadsparagus | 8.00% | ~13 |
 | Bring Home The Bacon | 7.00% | ~15 |
-| Quadsparagus | 7.00% | ~11 |
-| Pyromaniac | 6.00% | ~10 |
+| Pyromaniac | 7.00% | ~11 |
 | Early Bird | 5.00% | ~10 |
 | Chick Magnet | 4.00% | ~8 |
 | Master Survivor | 4.00% | ~6 |

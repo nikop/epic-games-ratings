@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 142,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -988,9 +988,9 @@
       "ID": "Close",
       "SetID": "1e89b4i",
       "Name": "That Was Close!",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 60
     },
     {
       "ID": "Creator",
@@ -1283,8 +1283,8 @@
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-07-16T12:03:47.0051493+00:00",
+  "LastChanged_Achievements": "2023-07-16T13:16:55.6098353+00:00",
   "LastUpdate_AppInfo": "2023-07-11T08:57:01.7024715+00:00",
-  "LastUpdate_Ratings": "2023-07-16T11:57:15.3914144+00:00",
-  "LastUpdate_Achievements": "2023-07-16T12:03:47.005188+00:00"
+  "LastUpdate_Ratings": "2023-07-16T13:09:25.0347585+00:00",
+  "LastUpdate_Achievements": "2023-07-16T13:16:55.6098732+00:00"
 }

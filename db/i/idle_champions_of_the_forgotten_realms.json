@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 102,
   "Ranking_EOS_NewPlayers": 26,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4952,10 +4952,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 30539,
       "NumberOfAwardsMax": 5036
+    },
+    {
+      "Time": "2023-07-16T13:10:50.8320746+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30544,
+      "NumberOfAwardsMax": 5036
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30539,
+  "NumberOfAwards": 30544,
   "NumberOfAwardsMax": 5036,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4975,7 +4981,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4662
+      "Count": 4664
     },
     {
       "Text": "This game is Relaxing",
@@ -4993,7 +4999,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4005
+      "Count": 4008
     },
     {
       "Text": "This game has Playful Visuals",
@@ -5002,10 +5008,10 @@
       "Count": 3303
     }
   ],
-  "EOS_Progressed": 212246,
+  "EOS_Progressed": 212269,
   "EOS_Completed": 2055,
-  "EOS_NewPlayers": 3156,
-  "EOS_NewCompleters": 14,
+  "EOS_NewPlayers": 3153,
+  "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
     {
@@ -14277,6 +14283,11 @@
       "Time": "2023-07-16T12:05:31.739138+00:00",
       "NumProgressed": 212246,
       "NumCompleted": 2055
+    },
+    {
+      "Time": "2023-07-16T13:18:48.2862557+00:00",
+      "NumProgressed": 212269,
+      "NumCompleted": 2055
     }
   ],
   "TotalAchievements": 507,
@@ -15976,7 +15987,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "objective_completed_36",
@@ -16080,7 +16091,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "objective_completed_390",
@@ -16152,7 +16163,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "objective_completed_40",
@@ -16160,7 +16171,7 @@
       "Name": "Useless Allies",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "objective_completed_400",
@@ -16424,7 +16435,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "objective_completed_54",
@@ -16432,7 +16443,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "objective_completed_540",
@@ -16776,7 +16787,7 @@
       "Name": "Running of the Saurs",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "objective_completed_590",
@@ -16832,7 +16843,7 @@
       "Name": "The Contagious Curse",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "objective_completed_60",
@@ -17360,7 +17371,7 @@
       "Name": "Escort to Waterdeep",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "objective_completed_690",
@@ -17464,7 +17475,7 @@
       "Name": "Waterdeep Detours",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "objective_completed_75",
@@ -17496,7 +17507,7 @@
       "Name": "Underdeep Cartography",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "objective_completed_8",
@@ -17504,7 +17515,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "objective_completed_80",
@@ -17512,7 +17523,7 @@
       "Name": "Overdue Rendezvous",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "objective_completed_802",
@@ -18032,7 +18043,7 @@
       "Name": "Pure Energy",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "objective_completed_902",
@@ -18343,21 +18354,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 178520,
+      "Progressed": 178543,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 212246,
+      "Progressed": 212269,
       "Completed": 2055
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-07-16T10:58:44.7980827+00:00",
-  "LastChanged_Achievements": "2023-07-16T12:05:31.7391369+00:00",
+  "LastChanged": "2023-07-16T13:10:50.8320745+00:00",
+  "LastChanged_Achievements": "2023-07-16T13:18:48.2862552+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:48.5227447+00:00",
-  "LastUpdate_Ratings": "2023-07-16T11:58:30.0290312+00:00",
-  "LastUpdate_Achievements": "2023-07-16T12:05:31.741887+00:00"
+  "LastUpdate_Ratings": "2023-07-16T13:10:50.8320751+00:00",
+  "LastUpdate_Achievements": "2023-07-16T13:18:48.2892468+00:00"
 }

@@ -6,46 +6,46 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,331 |
-| That's a Grand Army | 8.00% | ~5,628 |
-| That is mine! | 8.00% | ~5,628 |
-| Victorious! | 8.00% | ~5,628 |
-| Brothers in Arms | 6.00% | ~4,221 |
-| That's a Grand Navy | 6.00% | ~4,221 |
-| Seriously?! | 6.00% | ~4,221 |
-| For the Glory | 5.00% | ~3,517 |
-| Cold War | 4.00% | ~2,814 |
-| True Catholic | 4.00% | ~2,814 |
-| Defender of the Faith | 3.00% | ~2,110 |
-| It's all about luck | 3.00% | ~2,110 |
-| It's all about the money | 3.00% | ~2,110 |
-| Respected | 3.00% | ~2,110 |
-| The Princess is in this Castle | 3.00% | ~2,110 |
-| Truly Divine Ruler | 3.00% | ~2,110 |
-| Agressive Expander | 2.00% | ~1,407 |
-| Blockader | 2.00% | ~1,407 |
-| Combined Arms | 2.00% | ~1,407 |
-| Double the Love | 2.00% | ~1,407 |
-| Gentle Persuasion | 2.00% | ~1,407 |
-| My armies are invincible! | 2.00% | ~1,407 |
-| Queen of Conquest | 2.00% | ~1,407 |
-| Royal Authority | 2.00% | ~1,407 |
-| Total Control | 2.00% | ~1,407 |
-| All That's Thine Shall Be Mine | 1.00% | ~703 |
-| Azur semé de lis or | 1.00% | ~703 |
-| Bright Spark | 1.00% | ~703 |
-| City of Cities | 1.00% | ~703 |
-| The Emperors new clothes | 1.00% | ~703 |
-| Factionalism | 1.00% | ~703 |
-| A Golden Empire | 1.00% | ~703 |
-| The Five Colonies | 1.00% | ~703 |
-| This navy can take it all | 1.00% | ~703 |
+| Until death do us apart | 9.00% | ~6,334 |
+| That's a Grand Army | 8.00% | ~5,630 |
+| That is mine! | 8.00% | ~5,630 |
+| Victorious! | 8.00% | ~5,630 |
+| Brothers in Arms | 6.00% | ~4,223 |
+| That's a Grand Navy | 6.00% | ~4,223 |
+| Seriously?! | 6.00% | ~4,223 |
+| For the Glory | 5.00% | ~3,519 |
+| Cold War | 4.00% | ~2,815 |
+| True Catholic | 4.00% | ~2,815 |
+| Defender of the Faith | 3.00% | ~2,111 |
+| It's all about luck | 3.00% | ~2,111 |
+| It's all about the money | 3.00% | ~2,111 |
+| Respected | 3.00% | ~2,111 |
+| The Princess is in this Castle | 3.00% | ~2,111 |
+| Truly Divine Ruler | 3.00% | ~2,111 |
+| Agressive Expander | 2.00% | ~1,408 |
+| Blockader | 2.00% | ~1,408 |
+| Combined Arms | 2.00% | ~1,408 |
+| Double the Love | 2.00% | ~1,408 |
+| Gentle Persuasion | 2.00% | ~1,408 |
+| My armies are invincible! | 2.00% | ~1,408 |
+| Queen of Conquest | 2.00% | ~1,408 |
+| Royal Authority | 2.00% | ~1,408 |
+| Total Control | 2.00% | ~1,408 |
+| All That's Thine Shall Be Mine | 1.00% | ~704 |
+| Azur semé de lis or | 1.00% | ~704 |
+| Bright Spark | 1.00% | ~704 |
+| City of Cities | 1.00% | ~704 |
+| The Emperors new clothes | 1.00% | ~704 |
+| Factionalism | 1.00% | ~704 |
+| A Golden Empire | 1.00% | ~704 |
+| The Five Colonies | 1.00% | ~704 |
+| This navy can take it all | 1.00% | ~704 |
 | Isn't this the way to India? | 0.90% | ~633 |
 | Market Control | 0.90% | ~633 |
 | Trustworthy | 0.90% | ~633 |
 | Down Under | 0.80% | ~563 |
-| Electable! | 0.70% | ~492 |
-| Populists in Government | 0.70% | ~492 |
+| Electable! | 0.70% | ~493 |
+| Populists in Government | 0.70% | ~493 |
 | All belongs to Mother Russia | 0.60% | ~422 |
 | At every continent | 0.60% | ~422 |
 | Early-Modern Warfare | 0.60% | ~422 |
@@ -60,17 +60,17 @@ Number of Ratings: 8,414  (23.09.2022)
 | Ruina Imperii | 0.50% | ~352 |
 | Trophy Hunter | 0.50% | ~352 |
 | Voting Streak | 0.50% | ~352 |
-| All Your Trade Are Belong to Us | 0.40% | ~281 |
-| Bleed Them Dry | 0.40% | ~281 |
-| Dude, Where's my Boat? | 0.40% | ~281 |
-| Four For Trade | 0.40% | ~281 |
-| Global Hegemony | 0.40% | ~281 |
-| Italian Ambition | 0.40% | ~281 |
-| Just a Little Patience | 0.40% | ~281 |
-| One Night in Paris | 0.40% | ~281 |
-| Tear Down This Wall | 0.40% | ~281 |
-| The Continuation of Diplomacy | 0.40% | ~281 |
-| Wonderful | 0.40% | ~281 |
+| All Your Trade Are Belong to Us | 0.40% | ~282 |
+| Bleed Them Dry | 0.40% | ~282 |
+| Dude, Where's my Boat? | 0.40% | ~282 |
+| Four For Trade | 0.40% | ~282 |
+| Global Hegemony | 0.40% | ~282 |
+| Italian Ambition | 0.40% | ~282 |
+| Just a Little Patience | 0.40% | ~282 |
+| One Night in Paris | 0.40% | ~282 |
+| Tear Down This Wall | 0.40% | ~282 |
+| The Continuation of Diplomacy | 0.40% | ~282 |
+| Wonderful | 0.40% | ~282 |
 | A Decent Reserve | 0.30% | ~211 |
 | A Pile of Gold | 0.30% | ~211 |
 | Grand Duchy | 0.30% | ~211 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 70,347 (Ranked 74)  
+Progressed: 70,377 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -448,7 +448,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-13 | 69,319 | 0 |
 | 2023-07-14 | 69,707 | 0 |
 | 2023-07-15 | 70,161 | 0 |
-| 2023-07-16 | 70,347 | 0 |
+| 2023-07-16 | 70,377 | 0 |
 ## Awards
 Max (Educational): 5,546  (Ranked 60)  
 Sum: 45,748 (Ranked 26)  

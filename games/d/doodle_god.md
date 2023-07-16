@@ -11,7 +11,7 @@
 | Similar to Similar | 68.00% | ~153 |
 | Creator of Humanity | 63.00% | ~142 |
 | Creator of Civilization | 38.00% | ~86 |
-| Creator of Technology | 23.00% | ~52 |
+| Creator of Technology | 24.00% | ~54 |
 | Honorable Santa | 23.00% | ~52 |
 | God of Fun | 17.00% | ~38 |
 | Doodle Bar | 17.00% | ~38 |

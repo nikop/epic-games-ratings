@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 398,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 21,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -269,11 +269,11 @@
       "Count": 122
     }
   ],
-  "EOS_Progressed": 300,
+  "EOS_Progressed": 302,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 10.33,
+  "EOS_Completed_Percentage": 10.26,
   "EosHistory": [
     {
       "Time": "2023-06-23T06:05:34.2509802+00:00",
@@ -1164,6 +1164,11 @@
       "Time": "2023-07-16T10:06:45.8296163+00:00",
       "NumProgressed": 300,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-07-16T13:19:43.7829788+00:00",
+      "NumProgressed": 302,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 35,
@@ -1175,7 +1180,7 @@
       "Name": "Welcome to Sonic the Hedgehog",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 285
+      "UsersEstimate": 287
     },
     {
       "ID": "ID_02_SONICCD_WATCH_OPENING",
@@ -1183,7 +1188,7 @@
       "Name": "Welcome to Sonic CD",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 231
+      "UsersEstimate": 233
     },
     {
       "ID": "ID_03_SONIC2_WATCH_OPENING",
@@ -1191,15 +1196,15 @@
       "Name": "Welcome to Sonic the Hedgehog 2",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 231
+      "UsersEstimate": 233
     },
     {
       "ID": "ID_04_SONIC3K_WATCH_OPENING",
       "SetID": "7o8nc5m",
       "Name": "Welcome to Sonic 3 \u0026 Knuckles",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 231
+      "UsersEstimate": 230
     },
     {
       "ID": "ID_05_SONIC1_DEFEAT_MOTORA",
@@ -1207,7 +1212,7 @@
       "Name": "Beware Moto Bugs!",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ID_06_SONIC1_BREATHING_COUNT",
@@ -1215,7 +1220,7 @@
       "Name": "Bubbly Breath",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ID_07_SONICCD_TIME_WARP",
@@ -1223,7 +1228,7 @@
       "Name": "Time Traveler",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "ID_08_SONICCD_WIN_METAL_SONIC",
@@ -1231,7 +1236,7 @@
       "Name": "Shut Down Metal Sonic",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ID_09_SONIC2_DEFEAT_STINGER",
@@ -1239,7 +1244,7 @@
       "Name": "Beware Stingers!",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ID_10_SONIC2_WIN_THE_JACKPOT",
@@ -1247,7 +1252,7 @@
       "Name": "Lucky Hedgehog",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ID_11_SONIC3K_DEFEAT_RHINOBOT",
@@ -1263,7 +1268,7 @@
       "Name": "Easy Peasy with Shields",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ID_13_RING_COLLECTOR",
@@ -1271,15 +1276,15 @@
       "Name": "Ring Collector",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ID_14_DEFEAT_ENEMY_BY_SPIN_DASH",
       "SetID": "7o8nc5m",
       "Name": "Gallant Spin Dash",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 202
     },
     {
       "ID": "ID_15_NOVICE_HERO",
@@ -1287,7 +1292,7 @@
       "Name": "Newbie Hero",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 252
+      "UsersEstimate": 254
     },
     {
       "ID": "ID_16_WATCH_AT_MUSEUM",
@@ -1295,7 +1300,7 @@
       "Name": "Museum Time",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ID_17_CLEAR_FIRST_MISSION",
@@ -1303,7 +1308,7 @@
       "Name": "Very First Mission Clear!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ID_18_KNUCKLES_GLIDING",
@@ -1311,15 +1316,15 @@
       "Name": "Knuckles the Echidna",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "ID_19_TAILS_FLYING",
       "SetID": "7o8nc5m",
       "Name": "Miles \u0022Tails\u0022 Prower",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 196
     },
     {
       "ID": "ID_20_CHALLENGE_BOSSRUSH",
@@ -1327,7 +1332,7 @@
       "Name": "Boss Rush Attempt",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ID_21_SONIC1_CLEAR_S_RANK_MISSION",
@@ -1367,7 +1372,7 @@
       "Name": "To the Mirror World",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ID_26_MOVIE_MANIA",
@@ -1375,7 +1380,7 @@
       "Name": "Movie Maniac",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ID_27_SOUND_MANIA",
@@ -1383,7 +1388,7 @@
       "Name": "Sound Savant",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ID_28_ART_MANIA",
@@ -1399,7 +1404,7 @@
       "Name": "Everyone\u0027s Hero",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ID_30_TRANSFORM_SUPER_SONIC",
@@ -1407,7 +1412,7 @@
       "Name": "Super Sonic",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ID_31_SONIC1_CLEAR_ALL_STAGE",
@@ -1415,7 +1420,7 @@
       "Name": "Cleared Sonic the Hedgehog",
       "Percentage": 57,
       "XP": 100,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ID_32_SONICCD_CLEAR_ALL_STAGE",
@@ -1423,15 +1428,15 @@
       "Name": "Cleared Sonic CD",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ID_33_SONIC2_CLEAR_ALL_STAGE",
       "SetID": "7o8nc5m",
       "Name": "Cleared Sonic the Hedgehog 2",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 135
+      "UsersEstimate": 139
     },
     {
       "ID": "ID_34_SONIC3K_CLEAR_ALL_STAGE",
@@ -1439,7 +1444,7 @@
       "Name": "Cleared Sonic the Hedgehog 3 \u0026 Knuckles",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ID_35_CLEAR_ALL_TITLE",
@@ -1447,22 +1452,22 @@
       "Name": "All Clear!",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     }
   ],
   "AchievementSets": [
     {
       "ID": "7o8nc5m",
       "IsBase": true,
-      "Progressed": 300,
+      "Progressed": 302,
       "Completed": 31
     }
   ],
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-07-11T16:58:27.9146656+00:00",
-  "LastChanged_Achievements": "2023-07-16T12:06:17.3260153+00:00",
+  "LastChanged_Achievements": "2023-07-16T13:19:43.7829786+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:22.3144227+00:00",
-  "LastUpdate_Ratings": "2023-07-16T11:58:11.6157247+00:00",
-  "LastUpdate_Achievements": "2023-07-16T12:06:17.3260541+00:00"
+  "LastUpdate_Ratings": "2023-07-16T13:10:28.744065+00:00",
+  "LastUpdate_Achievements": "2023-07-16T13:19:43.7830043+00:00"
 }

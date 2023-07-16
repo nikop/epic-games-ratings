@@ -7,11 +7,11 @@
 | Time Heals All Wounds | 18.00% | ~136 |
 | Rail Rat | 16.00% | ~121 |
 | The Mysterious Stranger | 15.00% | ~114 |
+| Make Up For Lost Time | 15.00% | ~114 |
 | The Steel Shadow | 14.00% | ~106 |
 | The Betrayer | 14.00% | ~106 |
 | The Man Who Shattered Time | 14.00% | ~106 |
 | The Loose Cannon | 14.00% | ~106 |
-| Make Up For Lost Time | 14.00% | ~106 |
 | Cartographer | 14.00% | ~106 |
 | Time Flies | 14.00% | ~106 |
 | The Harder They Fall | 14.00% | ~106 |
@@ -47,8 +47,8 @@
 | Factorywood Explorer | 6.00% | ~45 |
 | Golem Hunter | 5.00% | ~38 |
 | Clovemary for Remembering | 4.00% | ~30 |
+| Hexlock for Protection | 4.00% | ~30 |
 | Rungs Was Right | 4.00% | ~30 |
-| Hexlock for Protection | 3.00% | ~23 |
 | Wunderkind | 2.00% | ~15 |
 | Fitting In | 2.00% | ~15 |
 | Thinking Two Steps Ahead | 1.00% | ~8 |

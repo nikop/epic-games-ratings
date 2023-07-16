@@ -6,6 +6,7 @@ Rating: 4.62 (Ranked 347)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 4.00% | ~200 |
+| Magical Synergy | 4.00% | ~200 |
 | Tipping the Scales | 4.00% | ~200 |
 | There Can Only Be One! | 3.00% | ~150 |
 | Full Ascension | 3.00% | ~150 |
@@ -15,7 +16,6 @@ Rating: 4.62 (Ranked 347)
 | Bone Peddler | 3.00% | ~150 |
 | From Friends to Family | 3.00% | ~150 |
 | Stronger Together | 3.00% | ~150 |
-| Magical Synergy | 3.00% | ~150 |
 | My Final Form | 3.00% | ~150 |
 | Seat of Power | 3.00% | ~150 |
 | Impenetrable Fortress | 3.00% | ~150 |
@@ -56,7 +56,7 @@ Rating: 4.62 (Ranked 347)
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,004 (Ranked 136)  
+Progressed: 5,005 (Ranked 136)  
 Completed: 5 (0.10%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 5 (0.10%) (Ranked 183)
 | 2023-07-13 | 4,985 | 5 |
 | 2023-07-14 | 4,991 | 5 |
 | 2023-07-15 | 5,001 | 5 |
-| 2023-07-16 | 5,004 | 5 |
+| 2023-07-16 | 5,005 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

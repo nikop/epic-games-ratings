@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -2538,9 +2538,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 68979,
+  "EOS_Progressed": 68981,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 370,
+  "EOS_NewPlayers": 364,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -11613,6 +11613,11 @@
       "Time": "2023-07-16T12:04:43.8915654+00:00",
       "NumProgressed": 68979,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-07-16T13:17:51.8064987+00:00",
+      "NumProgressed": 68981,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 37,
@@ -11648,7 +11653,7 @@
       "Name": "Hidden Sonata",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8967
+      "UsersEstimate": 8968
     },
     {
       "ID": "ACH_0014",
@@ -11768,7 +11773,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 44836
+      "UsersEstimate": 44838
     },
     {
       "ID": "ACH_0210",
@@ -11776,7 +11781,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 51044
+      "UsersEstimate": 51046
     },
     {
       "ID": "ACH_0211",
@@ -11792,7 +11797,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 32420
+      "UsersEstimate": 32421
     },
     {
       "ID": "ACH_0300",
@@ -11840,7 +11845,7 @@
       "Name": "Case Closed",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 23453
+      "UsersEstimate": 23454
     },
     {
       "ID": "ACH_0420",
@@ -11848,7 +11853,7 @@
       "Name": "King of the Hill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 23453
+      "UsersEstimate": 23454
     },
     {
       "ID": "ACH_0430",
@@ -11896,7 +11901,7 @@
       "Name": "Dragonslayer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11726
+      "UsersEstimate": 11727
     },
     {
       "ID": "ACH_0460",
@@ -11919,7 +11924,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 68979,
+      "Progressed": 68981,
       "Completed": 36
     }
   ],
@@ -11927,8 +11932,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-07-16T09:01:38.4281731+00:00",
-  "LastChanged_Achievements": "2023-07-16T12:04:43.8915649+00:00",
+  "LastChanged_Achievements": "2023-07-16T13:17:51.8064983+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:02.3078188+00:00",
-  "LastUpdate_Ratings": "2023-07-16T12:00:04.5777836+00:00",
-  "LastUpdate_Achievements": "2023-07-16T12:04:43.8916516+00:00"
+  "LastUpdate_Ratings": "2023-07-16T13:12:58.1951942+00:00",
+  "LastUpdate_Achievements": "2023-07-16T13:17:51.8065799+00:00"
 }
