@@ -23,7 +23,7 @@
 | 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.07% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.48% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.47% |
 | 25 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.18% |
 | 26 | [Smelter](games/s/smelter.md) | 8.11% |
 | 27 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.69% |
@@ -57,7 +57,7 @@
 | 55 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.28% |
 | 56 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.08% |
 | 56 | [The Complex](games/t/the_complex.md) | 3.08% |
-| 58 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.03% |
+| 58 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.02% |
 | 59 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 59 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 61 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.86% |
@@ -74,7 +74,7 @@
 | 72 | [Bloodshore](games/b/bloodshore.md) | 2.27% |
 | 73 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.15% |
 | 74 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.13% |
-| 75 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.09% |
+| 75 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.10% |
 | 76 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.08% |
 | 77 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
 | 78 | [Frogun](games/f/frogun.md) | 1.91% |
