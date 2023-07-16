@@ -20,7 +20,7 @@
 | 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 16,983 | 20 |
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 135 | 300 |
 | 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,153 | 76 |
-| 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 159,247 | 6 |
+| 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 159,530 | 6 |
 | 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 10,634 | 35 |
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 486 |
 | 24 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 272 | 241 |
@@ -108,7 +108,7 @@
 | 99 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 923 | 147 |
 | 99 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 505 |
 | 108 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 3,658 | 81 |
-| 108 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 6,291 | 52 |
+| 108 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 6,305 | 52 |
 | 108 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 21,005 | 17 |
 | 108 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 0 | 505 |
 | 108 | [Sailing Era](games/s/sailing_era.md) | 4.77 | 0 | 505 |
@@ -292,7 +292,7 @@
 | 272 | [SOMA](games/s/soma.md) | 4.66 | 0 | 505 |
 | 272 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.66 | 32 | 448 |
 | 272 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 521 | 190 |
-| 272 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.66 | 82 | 354 |
+| 272 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.66 | 83 | 353 |
 | 272 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.66 | 0 | 505 |
 | 272 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,808 | 57 |
 | 272 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 460 | 198 |
@@ -369,7 +369,7 @@
 | 363 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 0 | 505 |
 | 363 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 377 | 215 |
 | 363 | [Darkwood](games/d/darkwood.md) | 4.61 | 322 | 227 |
-| 363 | [DOOM 3](games/d/doom_3.md) | 4.61 | 67 | 377 |
+| 363 | [DOOM 3](games/d/doom_3.md) | 4.61 | 67 | 378 |
 | 363 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 40,930 | 12 |
 | 363 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 364 | 219 |
 | 363 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,141 | 136 |
@@ -494,7 +494,7 @@
 | 492 | [Aimlabs](games/a/aimlabs.md) | 4.54 | 0 | 505 |
 | 492 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 0 | 505 |
 | 492 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,328 | 127 |
-| 492 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 5,207 | 64 |
+| 492 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 5,225 | 64 |
 | 492 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 442 |
 | 492 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,202 | 132 |
 | 492 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.54 | 61 | 387 |
@@ -550,7 +550,7 @@
 | 540 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.51 | 756 | 156 |
 | 540 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 63 | 383 |
 | 540 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.51 | 160 | 289 |
-| 540 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 133 | 303 |
+| 540 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 134 | 302 |
 | 552 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 406 | 209 |
 | 552 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 106 | 322 |
 | 552 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 214 | 262 |
@@ -732,7 +732,7 @@
 | 721 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 32 | 448 |
 | 731 | [Core](games/c/core.md) | 4.36 | 742 | 158 |
 | 731 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 171 | 284 |
-| 731 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,569 | 29 |
+| 731 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,573 | 29 |
 | 731 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 505 |
 | 731 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 475 |
 | 731 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.36 | 0 | 505 |
@@ -939,7 +939,7 @@
 | 937 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.84 | 0 | 505 |
 | 937 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.84 | 0 | 505 |
 | 939 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.82 | 0 | 505 |
-| 939 | [Potion Permit](games/p/potion_permit.md) | 3.82 | 67 | 377 |
+| 939 | [Potion Permit](games/p/potion_permit.md) | 3.82 | 68 | 375 |
 | 939 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.82 | 0 | 505 |
 | 942 | [Blood of Steel](games/b/blood_of_steel.md) | 3.81 | 0 | 505 |
 | 942 | [Poker Club](games/p/poker_club.md) | 3.81 | 28 | 462 |
