@@ -6,23 +6,23 @@
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 27.50% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 7 | [Volley Pals](games/v/volley_pals.md) | 22.62% |
+| 7 | [Volley Pals](games/v/volley_pals.md) | 22.35% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
 | 11 | [Island Cities](games/i/island_cities.md) | 18.64% |
 | 12 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 15.38% |
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
-| 14 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 13.79% |
+| 14 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 13.68% |
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.02% |
 | 17 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.98% |
 | 18 | [Remains](games/r/remains.md) | 11.63% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.11% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.33% |
+| 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.26% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 23 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.56% |
+| 23 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.55% |
 | 24 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
 | 25 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.18% |
 | 26 | [Smelter](games/s/smelter.md) | 8.11% |
@@ -54,9 +54,9 @@
 | 52 | [Bunny Park](games/b/bunny_park.md) | 3.42% |
 | 53 | [Monster Harvest](games/m/monster_harvest.md) | 3.38% |
 | 54 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.33% |
-| 55 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.28% |
+| 55 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.32% |
 | 56 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.08% |
-| 56 | [The Complex](games/t/the_complex.md) | 3.08% |
+| 57 | [The Complex](games/t/the_complex.md) | 3.07% |
 | 58 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.02% |
 | 59 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 59 | [MultiVersus](games/m/multiversus.md) | 2.93% |
@@ -67,7 +67,7 @@
 | 65 | [Lamentum](games/l/lamentum.md) | 2.67% |
 | 66 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
 | 67 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.56% |
-| 68 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.53% |
+| 68 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.52% |
 | 69 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 70 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
 | 71 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.35% |
