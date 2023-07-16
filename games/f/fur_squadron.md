@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | All systems go | 79.00% | ~37 |
-| Do a barrel roll! | 60.00% | ~28 |
-| Huh? What was that? | 47.00% | ~22 |
-| Whatever it is, fix it! | 30.00% | ~14 |
-| The opposite of good news | 26.00% | ~12 |
+| Do a barrel roll! | 62.00% | ~29 |
+| Huh? What was that? | 49.00% | ~23 |
+| Whatever it is, fix it! | 32.00% | ~15 |
+| The opposite of good news | 28.00% | ~13 |
 | Priceless company | 21.00% | ~10 |
 | My Emperor... I've failed you! | 19.00% | ~9 |
 | Enemy shield analyzed | 6.00% | ~3 |

@@ -5,34 +5,34 @@ Rating: 4.66 (Ranked 272)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 93.00% | ~4,349 |
-| All thumbs | 91.00% | ~4,255 |
-| I will survive! | 91.00% | ~4,255 |
-| Home, sweet home | 90.00% | ~4,208 |
-| Survivalist | 88.00% | ~4,115 |
-| One way ticket | 83.00% | ~3,881 |
-| Last man standing | 78.00% | ~3,647 |
-| Family guy | 76.00% | ~3,554 |
-| Out of the Bag | 73.00% | ~3,413 |
+| Prepper | 93.00% | ~4,350 |
+| All thumbs | 91.00% | ~4,256 |
+| I will survive! | 91.00% | ~4,256 |
+| Home, sweet home | 90.00% | ~4,209 |
+| Survivalist | 88.00% | ~4,116 |
+| One way ticket | 83.00% | ~3,882 |
+| Last man standing | 78.00% | ~3,648 |
+| Family guy | 76.00% | ~3,555 |
+| Out of the Bag | 73.00% | ~3,414 |
 | The Dark Side | 68.00% | ~3,180 |
-| Duck and cover! | 63.00% | ~2,946 |
-| Souper! | 62.00% | ~2,899 |
-| Pacifist | 57.00% | ~2,665 |
+| Duck and cover! | 63.00% | ~2,947 |
+| Souper! | 62.00% | ~2,900 |
+| Pacifist | 57.00% | ~2,666 |
 | 2-1-6 | 56.00% | ~2,619 |
 | A gift | 51.00% | ~2,385 |
-| Girl Power | 45.00% | ~2,104 |
+| Girl Power | 45.00% | ~2,105 |
 | What goes around... | 42.00% | ~1,964 |
-| Be Prepared | 36.00% | ~1,683 |
+| Be Prepared | 36.00% | ~1,684 |
 | Unbreakable | 35.00% | ~1,637 |
 | This is the end | 33.00% | ~1,543 |
-| Atomic drill | 32.00% | ~1,496 |
+| Atomic drill | 32.00% | ~1,497 |
 | Gotta get 'em all | 31.00% | ~1,450 |
 | Disco Roach | 26.00% | ~1,216 |
 | Dawkins Residence | 20.00% | ~935 |
 | Rescue time! | 17.00% | ~795 |
 | New order | 16.00% | ~748 |
 | New species | 16.00% | ~748 |
-| A New Hope | 15.00% | ~701 |
+| A New Hope | 15.00% | ~702 |
 | Enigma | 14.00% | ~655 |
 | Challenger | 12.00% | ~561 |
 | Men in Black | 12.00% | ~561 |
@@ -66,7 +66,7 @@ Rating: 4.66 (Ranked 272)
 | Miracle | 0.20% | ~9 |
 | Dead Hand | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,676 (Ranked 137)  
+Progressed: 4,677 (Ranked 137)  
 Completed: 1 (0.02%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 1 (0.02%) (Ranked 214)
 | 2023-07-13 | 4,638 | 1 |
 | 2023-07-14 | 4,651 | 1 |
 | 2023-07-15 | 4,662 | 1 |
-| 2023-07-16 | 4,676 | 1 |
+| 2023-07-16 | 4,677 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

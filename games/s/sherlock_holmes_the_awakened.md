@@ -5,28 +5,28 @@ Rating: 4.64 (Ranked 311)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| To Hell In A Handcart | 65.00% | ~343 |
+| To Hell In A Handcart | 65.00% | ~344 |
 | Read Between The Lines | 63.00% | ~333 |
-| High Profile | 58.00% | ~306 |
+| High Profile | 58.00% | ~307 |
 | Whispers In The Dark | 56.00% | ~296 |
-| Fond Memories | 54.00% | ~285 |
+| Fond Memories | 54.00% | ~286 |
+| A Method To His Madness | 53.00% | ~280 |
 | History Check | 52.00% | ~275 |
-| A Method To His Madness | 52.00% | ~275 |
-| Gaze Into The Abyss | 48.00% | ~253 |
-| The New World | 48.00% | ~253 |
-| Lock, Stock, And Barrel | 47.00% | ~248 |
-| Open Sesame | 47.00% | ~248 |
-| Sticky Fingers | 47.00% | ~248 |
-| Knives Out | 47.00% | ~248 |
+| The New World | 48.00% | ~254 |
+| Lock, Stock, And Barrel | 47.00% | ~249 |
+| Gaze Into The Abyss | 47.00% | ~249 |
+| Open Sesame | 47.00% | ~249 |
+| Sticky Fingers | 47.00% | ~249 |
+| Knives Out | 47.00% | ~249 |
 | Land, Ho! | 46.00% | ~243 |
 | Back In The Saddle | 45.00% | ~238 |
 | No Man Is An Island | 45.00% | ~238 |
-| At Wits' End | 44.00% | ~232 |
+| At Wits' End | 44.00% | ~233 |
 | Up In Flames | 42.00% | ~222 |
 | Fhtagn! | 42.00% | ~222 |
-| Bookworm | 41.00% | ~216 |
+| Bookworm | 41.00% | ~217 |
 | Going Once... | 38.00% | ~201 |
-| Let Me Be Frank | 37.00% | ~195 |
+| Let Me Be Frank | 37.00% | ~196 |
 | Brain Food | 35.00% | ~185 |
 | No Stone Unturned | 35.00% | ~185 |
 | Read It And Weep | 22.00% | ~116 |
@@ -34,8 +34,8 @@ Rating: 4.64 (Ranked 311)
 | Big Breakthrough | 14.00% | ~74 |
 | Reawakened | 5.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 528 (Ranked 211)  
-Completed: 24 (4.55%) (Ranked 42)  
+Progressed: 529 (Ranked 211)  
+Completed: 24 (4.54%) (Ranked 43)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -114,7 +114,7 @@ Completed: 24 (4.55%) (Ranked 42)
 | 2023-07-11 | 522 | 24 |
 | 2023-07-13 | 523 | 24 |
 | 2023-07-14 | 525 | 24 |
-| 2023-07-16 | 528 | 24 |
+| 2023-07-16 | 529 | 24 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

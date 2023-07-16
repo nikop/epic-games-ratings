@@ -4,7 +4,7 @@
   "ProductSlug": "fur-squadron-0042b8",
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-05-04T13:30:00+00:00",
@@ -319,33 +319,33 @@
       "ID": "COMPLETED_BLAZE_2",
       "SetID": "d91enl3",
       "Name": "Do a barrel roll!",
-      "Percentage": 60,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "COMPLETED_BLAZE_3",
       "SetID": "d91enl3",
       "Name": "Huh? What was that?",
-      "Percentage": 47,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "COMPLETED_BLAZE_4",
       "SetID": "d91enl3",
       "Name": "Whatever it is, fix it!",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "COMPLETED_BLAZE_5",
       "SetID": "d91enl3",
       "Name": "The opposite of good news",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "COMPLETED_BLAZE_6",
@@ -461,8 +461,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:50:54.8735108+00:00",
-  "LastChanged_Achievements": "2023-07-16T19:04:35.9042797+00:00",
+  "LastChanged_Achievements": "2023-07-16T20:03:50.8955197+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:21.5958223+00:00",
-  "LastUpdate_Ratings": "2023-07-16T19:00:38.7147024+00:00",
-  "LastUpdate_Achievements": "2023-07-16T19:04:35.9042999+00:00"
+  "LastUpdate_Ratings": "2023-07-16T19:59:16.6421444+00:00",
+  "LastUpdate_Achievements": "2023-07-16T20:03:50.8955348+00:00"
 }

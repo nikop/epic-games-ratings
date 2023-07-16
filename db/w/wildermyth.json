@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -151,9 +151,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1318,
+  "EOS_Progressed": 1319,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1126,6 +1126,11 @@
       "Time": "2023-07-16T10:05:01.3068344+00:00",
       "NumProgressed": 1318,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-16T20:04:42.5727756+00:00",
+      "NumProgressed": 1319,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 56,
@@ -1153,7 +1158,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -1201,7 +1206,7 @@
       "Name": "Gotta Ca... Must Collect All of Them",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
@@ -1297,7 +1302,7 @@
       "Name": "This Too Shall Pass",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -1345,7 +1350,7 @@
       "Name": "Chain Reaction",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "achievement_victoryAfterLosingThreeHeroesInBattle",
@@ -1584,15 +1589,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1318,
+      "Progressed": 1319,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-07-08T20:01:41.3411794+00:00",
-  "LastChanged_Achievements": "2023-07-16T19:05:47.7478773+00:00",
+  "LastChanged_Achievements": "2023-07-16T20:04:42.5727751+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:39.8918764+00:00",
-  "LastUpdate_Ratings": "2023-07-16T19:02:02.2698715+00:00",
-  "LastUpdate_Achievements": "2023-07-16T19:05:47.7479346+00:00"
+  "LastUpdate_Ratings": "2023-07-16T20:00:19.6586934+00:00",
+  "LastUpdate_Achievements": "2023-07-16T20:04:42.5728166+00:00"
 }

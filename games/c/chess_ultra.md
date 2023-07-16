@@ -1,7 +1,7 @@
 # Chess Ultra
 [Store](https://store.epicgames.com/en-US/p/chess-ultra-91bba3)  
 [View Rawdata](../../db/c/chess_ultra.json)  
-Rating: 4.26 (Ranked 803)  
+Rating: 4.27 (Ranked 797)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -178,3 +178,4 @@ Completed: 2 (0.00%) (Ranked 236)
 | 2023-07-09 | 4.26 | 0 | 0 |
 | 2023-07-12 | 4.27 | 0 | 0 |
 | 2023-07-15 | 4.26 | 0 | 0 |
+| 2023-07-16 | 4.27 | 0 | 0 |

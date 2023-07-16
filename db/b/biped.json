@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4211,
+  "EOS_Progressed": 4213,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 225,
+  "EOS_NewPlayers": 227,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6306,6 +6306,11 @@
       "Time": "2023-07-16T17:06:16.2777879+00:00",
       "NumProgressed": 4211,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-16T20:06:17.4422062+00:00",
+      "NumProgressed": 4213,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -6317,7 +6322,7 @@
       "Name": "First Step",
       "Percentage": 38,
       "XP": 45,
-      "UsersEstimate": 1600
+      "UsersEstimate": 1601
     },
     {
       "ID": "10",
@@ -6421,7 +6426,7 @@
       "Name": "Sunset Ridge",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "9",
@@ -6436,7 +6441,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 4211,
+      "Progressed": 4213,
       "Completed": 0
     }
   ],
@@ -6444,8 +6449,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-07-16T19:08:01.5625273+00:00",
+  "LastChanged_Achievements": "2023-07-16T20:06:17.4422054+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:39.4549072+00:00",
-  "LastUpdate_Ratings": "2023-07-16T18:58:57.7842741+00:00",
-  "LastUpdate_Achievements": "2023-07-16T19:08:01.5625785+00:00"
+  "LastUpdate_Ratings": "2023-07-16T19:58:06.0178779+00:00",
+  "LastUpdate_Achievements": "2023-07-16T20:06:17.4422445+00:00"
 }

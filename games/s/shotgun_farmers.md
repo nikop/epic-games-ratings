@@ -9,8 +9,8 @@
 | Survivor | 53.00% | ~84 |
 | First Blood | 52.00% | ~109 |
 | Triple Kill | 52.00% | ~109 |
+| Cornivore | 48.00% | ~100 |
 | No Asperascope | 47.00% | ~98 |
-| Cornivore | 47.00% | ~98 |
 | I Believe I Can Fly | 45.00% | ~94 |
 | Early Survivor | 41.00% | ~65 |
 | No Diggity | 41.00% | ~65 |
@@ -34,8 +34,8 @@
 | Eggtraordinary | 10.00% | ~21 |
 | Perfect | 9.00% | ~14 |
 | Expert Survivor | 9.00% | ~14 |
+| Bring Home The Bacon | 8.00% | ~17 |
 | Quadsparagus | 8.00% | ~13 |
-| Bring Home The Bacon | 7.00% | ~15 |
 | Pyromaniac | 7.00% | ~11 |
 | Early Bird | 5.00% | ~10 |
 | Chick Magnet | 4.00% | ~8 |

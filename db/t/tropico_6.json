@@ -1008,9 +1008,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4115,
+  "EOS_Progressed": 4117,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -6158,6 +6158,11 @@
       "Time": "2023-07-16T19:06:19.6714142+00:00",
       "NumProgressed": 4115,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-16T20:05:05.3460356+00:00",
+      "NumProgressed": 4117,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -6201,7 +6206,7 @@
       "Name": "Been there, Done That",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_EP_BALLGAME",
@@ -6225,7 +6230,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -6241,7 +6246,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -6265,7 +6270,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1852
+      "UsersEstimate": 1853
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -6329,7 +6334,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3127
+      "UsersEstimate": 3129
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -6377,7 +6382,7 @@
       "Name": "Narcissist",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_PROMISINGENDEAVORS",
@@ -6385,7 +6390,7 @@
       "Name": "Promising Endeavors",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_SUBLIMESUBLIMINALSUPREME",
@@ -6425,7 +6430,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1975
+      "UsersEstimate": 1976
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -6433,7 +6438,7 @@
       "Name": "The Time For Wonders",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_TRADEISMYTRAIT",
@@ -6488,15 +6493,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4115,
+      "Progressed": 4117,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-09T22:00:42.3216597+00:00",
-  "LastChanged_Achievements": "2023-07-16T19:06:19.6714135+00:00",
+  "LastChanged_Achievements": "2023-07-16T20:05:05.3460351+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:16.0436214+00:00",
-  "LastUpdate_Ratings": "2023-07-16T19:01:40.4211453+00:00",
-  "LastUpdate_Achievements": "2023-07-16T19:06:19.6714801+00:00"
+  "LastUpdate_Ratings": "2023-07-16T20:00:03.461525+00:00",
+  "LastUpdate_Achievements": "2023-07-16T20:05:05.3460825+00:00"
 }

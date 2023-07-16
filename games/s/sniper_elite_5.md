@@ -1,12 +1,13 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.43 (Ranked 656)  
+Rating: 4.43 (Ranked 655)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Liberté | 3.00% | ~99 |
 | Lord of War | 3.00% | ~99 |
+| It's Starting to Crack | 3.00% | ~99 |
 | Taking it back | 3.00% | ~99 |
 | Target America | 3.00% | ~99 |
 | The Kraken Sleeps | 3.00% | ~99 |
@@ -21,7 +22,6 @@ Rating: 4.43 (Ranked 656)
 | Der Geist | 2.00% | ~66 |
 | As Quiet as a Mouse | 2.00% | ~66 |
 | The Kraken Wakes | 2.00% | ~66 |
-| It's Starting to Crack | 2.00% | ~66 |
 | Change the Channel | 2.00% | ~66 |
 | Brains of the Operation | 2.00% | ~66 |
 | Opposing Force | 1.00% | ~33 |

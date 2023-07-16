@@ -4,21 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 71.00% | ~10 |
-| Tinkerer | 50.00% | ~7 |
-| Don't Cry Wolf | 29.00% | ~4 |
-| A new World ahead | 29.00% | ~4 |
-| Welcome to the Club | 21.00% | ~3 |
-| Can't touch this | 21.00% | ~3 |
-| Apprentice | 21.00% | ~3 |
-| Bringing guns to a sword fight | 14.00% | ~2 |
+| Self-Defence | 73.00% | ~11 |
+| Tinkerer | 47.00% | ~7 |
+| Don't Cry Wolf | 27.00% | ~4 |
+| A new World ahead | 27.00% | ~4 |
+| Can't touch this | 27.00% | ~4 |
+| Welcome to the Club | 20.00% | ~3 |
+| Apprentice | 20.00% | ~3 |
+| Bringing guns to a sword fight | 13.00% | ~2 |
+| Searing Heat | 13.00% | ~2 |
 | Mirror, Mirror on the Wall | 7.00% | ~1 |
 | Defeat Ingla | 7.00% | ~1 |
 | Defeat Tezuth | 7.00% | ~1 |
 | Defeat Uskol | 7.00% | ~1 |
 | Freezing Cold | 7.00% | ~1 |
-| Searing Heat | 7.00% | ~1 |
 | Through Dangers Untold | 7.00% | ~1 |
+| Nothing but the Truth | 7.00% | ~1 |
 | Finally! | 7.00% | ~1 |
 | The End | 7.00% | ~1 |
 | But what of the Acreans? | 7.00% | ~1 |
@@ -39,7 +40,6 @@
 | Knowledge is King | 0.00% | ~0 |
 | Witch | 0.00% | ~0 |
 | Wizard | 0.00% | ~0 |
-| Nothing but the Truth | 0.00% | ~0 |
 | Bookworm | 0.00% | ~0 |
 | Trailblazer | 0.00% | ~0 |
 | Wayseeker | 0.00% | ~0 |
@@ -51,7 +51,7 @@
 | Master of all Domains | 0.00% | ~0 |
 | Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14 (Ranked 387)  
+Progressed: 15 (Ranked 384)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,6 +66,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-10 | 12 | 0 |
 | 2023-07-12 | 13 | 0 |
 | 2023-07-13 | 14 | 0 |
+| 2023-07-16 | 15 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

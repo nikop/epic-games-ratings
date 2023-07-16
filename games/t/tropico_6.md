@@ -6,16 +6,16 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~3,127 |
-| Un-Lonely Island | 48.00% | ~1,975 |
-| The Beginning of a Servantship | 45.00% | ~1,852 |
+| Just One...More...Term... | 76.00% | ~3,129 |
+| Un-Lonely Island | 48.00% | ~1,976 |
+| The Beginning of a Servantship | 45.00% | ~1,853 |
 | Trade Is My Trait | 38.00% | ~1,564 |
 | Number 18 | 24.00% | ~988 |
 | We Don't Have Time For That | 19.00% | ~782 |
 | The Governator | 18.00% | ~741 |
 | The Legend of Langostino | 17.00% | ~700 |
-| Caribbean Comrade | 16.00% | ~658 |
-| The Dreamer of Dreams | 16.00% | ~658 |
+| Caribbean Comrade | 16.00% | ~659 |
+| The Dreamer of Dreams | 16.00% | ~659 |
 | Happy Ending? | 11.00% | ~453 |
 | Go Sovereigns! | 11.00% | ~453 |
 | For Science! | 11.00% | ~453 |
@@ -33,10 +33,10 @@ Number of Ratings: 398  (23.09.2022)
 | Viva Tropico! | 5.00% | ~206 |
 | Fairy Tale Come True | 5.00% | ~206 |
 | Apocalypso | 4.00% | ~165 |
-| Been there, Done That | 3.00% | ~123 |
-| Narcissist | 3.00% | ~123 |
-| Promising Endeavors | 3.00% | ~123 |
-| The Time For Wonders | 3.00% | ~123 |
+| Been there, Done That | 3.00% | ~124 |
+| Narcissist | 3.00% | ~124 |
+| Promising Endeavors | 3.00% | ~124 |
+| The Time For Wonders | 3.00% | ~124 |
 | Chain Gang | 2.00% | ~82 |
 | One Does Not Simply Stage A Coup | 2.00% | ~82 |
 | Sublime Subliminal Supreme | 2.00% | ~82 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~37 |
 | My Ways | 0.40% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,115 (Ranked 143)  
+Progressed: 4,117 (Ranked 143)  
 Completed: 1 (0.02%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 1 (0.02%) (Ranked 214)
 | 2023-07-13 | 4,071 | 1 |
 | 2023-07-14 | 4,081 | 1 |
 | 2023-07-15 | 4,101 | 1 |
-| 2023-07-16 | 4,115 | 1 |
+| 2023-07-16 | 4,117 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 94  (Ranked 341)  
 Sum: 667 (Ranked 276)  

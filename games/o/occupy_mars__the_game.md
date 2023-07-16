@@ -29,7 +29,7 @@ Rating: 3.93 (Ranked 928)
 | To infinity and beyond! | 2.00% | ~28 |
 | Explosive Miner | 1.00% | ~14 |
 | Rocket Jump | 1.00% | ~14 |
-| Caveman | 0.80% | ~11 |
+| Caveman | 0.90% | ~13 |
 | Thunderstruck | 0.80% | ~11 |
 | 5G Network | 0.60% | ~8 |
 | Planetary Defence | 0.60% | ~8 |

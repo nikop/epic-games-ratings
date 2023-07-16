@@ -1387,9 +1387,9 @@
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
       "SetID": "108h92c",
       "Name": "I ain\u2019t afraid of no Ghost",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 186
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_I_CAN_FIX_IT",
@@ -1468,8 +1468,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-27T22:57:40.9300302+00:00",
-  "LastChanged_Achievements": "2023-07-16T19:05:18.3687075+00:00",
+  "LastChanged_Achievements": "2023-07-16T20:04:21.3880369+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:23.9591324+00:00",
-  "LastUpdate_Ratings": "2023-07-16T18:58:17.5430843+00:00",
-  "LastUpdate_Achievements": "2023-07-16T19:05:18.3687331+00:00"
+  "LastUpdate_Ratings": "2023-07-16T19:57:39.3139919+00:00",
+  "LastUpdate_Achievements": "2023-07-16T20:04:21.3880568+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "0e9ae0e756524ed49a27435c9c3c3e1c",
   "Name": "Chess Ultra",
   "ProductSlug": "chess-ultra-91bba3",
-  "Ranking_Rating": 803,
+  "Ranking_Rating": 797,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 56,
@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.26,
+  "Rating": 4.27,
   "RatingHistory": [
     {
       "Time": "2023-03-28T10:57:23.5590256+00:00",
@@ -318,6 +318,12 @@
     {
       "Time": "2023-07-15T19:57:32.5213624+00:00",
       "Rating": 4.26,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-07-16T19:57:21.0415775+00:00",
+      "Rating": 4.27,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -10077,9 +10083,9 @@
   "FirstSeen": "2023-03-23T15:57:26.8098096+00:00",
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
-  "LastChanged": "2023-07-15T19:57:32.5213623+00:00",
+  "LastChanged": "2023-07-16T19:57:21.0415774+00:00",
   "LastChanged_Achievements": "2023-07-16T19:02:16.9198591+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:00.919389+00:00",
-  "LastUpdate_Ratings": "2023-07-16T18:57:50.4376776+00:00",
+  "LastUpdate_Ratings": "2023-07-16T19:57:21.0415782+00:00",
   "LastUpdate_Achievements": "2023-07-16T19:02:16.9199551+00:00"
 }

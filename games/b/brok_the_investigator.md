@@ -23,9 +23,9 @@
 | Tramp Saver | 13.00% | ~2 |
 | Hard To Wake Up | 13.00% | ~2 |
 | Chipmunk | 6.00% | ~1 |
+| Secret Locker | 6.00% | ~1 |
 | Bear Cop | 0.00% | ~0 |
 | Master of Mattresses | 0.00% | ~0 |
-| Secret Locker | 0.00% | ~0 |
 | Main Endings | 0.00% | ~0 |
 | Pacifist | 0.00% | ~0 |
 | Pushy, pushy | 0.00% | ~0 |

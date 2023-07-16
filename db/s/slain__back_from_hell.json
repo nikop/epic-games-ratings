@@ -187,9 +187,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 30260,
+  "EOS_Progressed": 30267,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 891,
+  "EOS_NewPlayers": 894,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -9572,6 +9572,11 @@
       "Time": "2023-07-16T19:04:37.7844798+00:00",
       "NumProgressed": 30260,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-07-16T20:03:52.3154283+00:00",
+      "NumProgressed": 30267,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -9581,9 +9586,9 @@
       "ID": "ACH_01_DIED_MANY_TIMES",
       "SetID": "443p4o4",
       "Name": "A Good Day To Die",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4539
+      "UsersEstimate": 4843
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -9591,7 +9596,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6052
+      "UsersEstimate": 6053
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -9727,7 +9732,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -9814,7 +9819,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 30260,
+      "Progressed": 30267,
       "Completed": 20
     }
   ],
@@ -9822,8 +9827,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-07-11T15:00:39.3575549+00:00",
-  "LastChanged_Achievements": "2023-07-16T19:04:37.7844791+00:00",
+  "LastChanged_Achievements": "2023-07-16T20:03:52.3154279+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:02.6964927+00:00",
-  "LastUpdate_Ratings": "2023-07-16T19:01:22.7451536+00:00",
-  "LastUpdate_Achievements": "2023-07-16T19:04:37.7845735+00:00"
+  "LastUpdate_Ratings": "2023-07-16T19:59:51.0597394+00:00",
+  "LastUpdate_Achievements": "2023-07-16T20:03:52.3154873+00:00"
 }
