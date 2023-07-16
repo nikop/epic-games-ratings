@@ -7,8 +7,8 @@ Rating: 4.56 (Ranked 457)
 | ---- | ---------- | ----- |
 | Wakey Wakey | 22.00% | ~622 |
 | Sputnik 2049 | 19.00% | ~537 |
-| Without Breaking Some Eggs... | 18.00% | ~508 |
-| Infinite Growth... | 18.00% | ~508 |
+| Without Breaking Some Eggs... | 18.00% | ~509 |
+| Infinite Growth... | 18.00% | ~509 |
 | Ready for a New World | 13.00% | ~367 |
 | Space Society | 12.00% | ~339 |
 | A Thousand Strong | 12.00% | ~339 |
@@ -35,12 +35,12 @@ Rating: 4.56 (Ranked 457)
 | ...  in a finite world | 3.00% | ~85 |
 | BRAWL! | 3.00% | ~85 |
 | What the Ruins Teach Us | 3.00% | ~85 |
-| Sustainable Energy | 2.00% | ~56 |
-| In Dolos We Trust | 2.00% | ~56 |
-| Delivery! | 2.00% | ~56 |
-| Pedal to the Metal | 2.00% | ~56 |
-| Help of the Forgotten Member | 2.00% | ~56 |
-| Pulsar Disciple | 2.00% | ~56 |
+| Sustainable Energy | 2.00% | ~57 |
+| In Dolos We Trust | 2.00% | ~57 |
+| Delivery! | 2.00% | ~57 |
+| Pedal to the Metal | 2.00% | ~57 |
+| Help of the Forgotten Member | 2.00% | ~57 |
+| Pulsar Disciple | 2.00% | ~57 |
 | Mutual Loyalty | 1.00% | ~28 |
 | Tiqqun Contender | 1.00% | ~28 |
 | Catastrophe Avoided | 1.00% | ~28 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 457)
 | This is Fine | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,825 (Ranked 155)  
+Progressed: 2,826 (Ranked 155)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-13 | 2,812 | 0 |
 | 2023-07-14 | 2,817 | 0 |
 | 2023-07-15 | 2,824 | 0 |
-| 2023-07-16 | 2,825 | 0 |
+| 2023-07-16 | 2,826 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,7 +6,7 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 20.00% | ~2,068 |
+| Devoured by Darkness | 20.00% | ~2,069 |
 | Burning City | 14.00% | ~1,448 |
 | A Spark | 14.00% | ~1,448 |
 | Mythic Choices | 12.00% | ~1,241 |
@@ -38,10 +38,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | Core of the Riddle | 2.00% | ~207 |
 | Your First Big Enemy | 2.00% | ~207 |
 | Truly Important Deed | 2.00% | ~207 |
-| Stay Underground | 2.00% | ~182 |
-| Hanged Man's Notes | 2.00% | ~182 |
-| Sarkoris Will Be Green | 2.00% | ~182 |
-| The Lady of the Forest | 2.00% | ~182 |
+| Stay Underground | 2.00% | ~183 |
+| Hanged Man's Notes | 2.00% | ~183 |
+| Sarkoris Will Be Green | 2.00% | ~183 |
+| The Lady of the Forest | 2.00% | ~183 |
 | Path of the Demon | 1.00% | ~103 |
 | Path of the Aeon | 1.00% | ~103 |
 | Abyssal Conspiracy | 1.00% | ~103 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,342 (Ranked 117)  
+Progressed: 10,344 (Ranked 117)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-13 | 10,297 | 0 |
 | 2023-07-14 | 10,312 | 0 |
 | 2023-07-15 | 10,338 | 0 |
-| 2023-07-16 | 10,342 | 0 |
+| 2023-07-16 | 10,344 | 0 |
 ## Awards
 Max (Character Customization): 1,679  (Ranked 117)  
 Sum: 6,816 (Ranked 112)  

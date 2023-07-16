@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -248,7 +248,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2825,
+  "EOS_Progressed": 2826,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
@@ -3543,6 +3543,11 @@
       "Time": "2023-07-16T07:05:53.9588497+00:00",
       "NumProgressed": 2825,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-16T09:05:20.0871397+00:00",
+      "NumProgressed": 2826,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -3554,7 +3559,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "ACH_BASE_10",
@@ -3618,7 +3623,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "ACH_BASE_19",
@@ -3650,7 +3655,7 @@
       "Name": "Sustainable Energy",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_BASE_23",
@@ -3698,7 +3703,7 @@
       "Name": "In Dolos We Trust",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_BASE_29",
@@ -3842,7 +3847,7 @@
       "Name": "Delivery!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_BASE_48",
@@ -3914,7 +3919,7 @@
       "Name": "Pedal to the Metal",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_BASE_58",
@@ -3970,7 +3975,7 @@
       "Name": "Help of the Forgotten Member",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_BASE_64",
@@ -4002,20 +4007,20 @@
       "Name": "Pulsar Disciple",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     }
   ],
   "AchievementSets": [
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1007,
+      "Progressed": 1008,
       "Completed": 6
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2825,
+      "Progressed": 2826,
       "Completed": 0
     }
   ],
@@ -4023,8 +4028,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-07-08T02:22:11.1138638+00:00",
-  "LastChanged_Achievements": "2023-07-16T08:05:30.5284791+00:00",
+  "LastChanged_Achievements": "2023-07-16T09:05:20.0871389+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:23.6946025+00:00",
-  "LastUpdate_Ratings": "2023-07-16T07:59:27.6395245+00:00",
-  "LastUpdate_Achievements": "2023-07-16T08:05:30.5285387+00:00"
+  "LastUpdate_Ratings": "2023-07-16T08:59:30.9598572+00:00",
+  "LastUpdate_Achievements": "2023-07-16T09:05:20.0879257+00:00"
 }

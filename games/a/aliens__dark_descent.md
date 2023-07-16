@@ -37,9 +37,9 @@ Rating: 4.43 (Ranked 656)
 | Bandage Lover | 14.00% | ~408 |
 | The Cable Guy | 14.00% | ~408 |
 | Excavating The Truth | 14.00% | ~408 |
-| Abysmal Horrors | 13.00% | ~379 |
+| Abysmal Horrors | 14.00% | ~408 |
 | Regicide | 10.00% | ~291 |
-| Heavy Steps | 9.00% | ~262 |
+| Heavy Steps | 10.00% | ~291 |
 | Flawless Victory | 8.00% | ~233 |
 | This Went Smoothly | 8.00% | ~233 |
 | Perfect Enhancements | 6.00% | ~175 |

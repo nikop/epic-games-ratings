@@ -1187,9 +1187,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 123219,
+  "EOS_Progressed": 123221,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 327,
+  "EOS_NewPlayers": 326,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -9547,6 +9547,11 @@
       "Time": "2023-07-16T08:03:22.6566402+00:00",
       "NumProgressed": 123219,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-07-16T09:03:24.8157544+00:00",
+      "NumProgressed": 123221,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -9590,7 +9595,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 22179
+      "UsersEstimate": 22180
     },
     {
       "ID": "ACH_COP_BAD",
@@ -9638,7 +9643,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 34501
+      "UsersEstimate": 34502
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -9686,7 +9691,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 16018
+      "UsersEstimate": 16019
     },
     {
       "ID": "ACH_COP_STAR",
@@ -9838,7 +9843,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 16018
+      "UsersEstimate": 16019
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -9877,15 +9882,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 123219,
+      "Progressed": 123221,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-07-14T02:26:11.120195+00:00",
-  "LastChanged_Achievements": "2023-07-16T08:03:22.6566397+00:00",
+  "LastChanged_Achievements": "2023-07-16T09:03:24.8157537+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:06.3105356+00:00",
-  "LastUpdate_Ratings": "2023-07-16T08:00:22.8699845+00:00",
-  "LastUpdate_Achievements": "2023-07-16T08:03:22.6567021+00:00"
+  "LastUpdate_Ratings": "2023-07-16T09:00:26.9761581+00:00",
+  "LastUpdate_Achievements": "2023-07-16T09:03:24.8158295+00:00"
 }

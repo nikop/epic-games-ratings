@@ -32,10 +32,10 @@ Rating: 4.43 (Ranked 656)
 | Precision Is Key | 1.00% | ~33 |
 | My Little Friend | 1.00% | ~33 |
 | Explosive Efficiency | 1.00% | ~33 |
+| Die Nussknacker Sweet! | 1.00% | ~33 |
 | Close Quarters | 1.00% | ~33 |
 | Snake in the Grass | 1.00% | ~33 |
 | Enemy at the Gates | 0.90% | ~30 |
-| Die Nussknacker Sweet! | 0.90% | ~30 |
 | Rigged to Blow | 0.80% | ~26 |
 | Tinkerer | 0.80% | ~26 |
 | The Long Game | 0.70% | ~23 |

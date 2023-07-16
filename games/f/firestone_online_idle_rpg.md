@@ -66,9 +66,9 @@ Rating: 4.08 (Ranked 896)
 | Gear Enchanting | 0.80% | ~13 |
 | Guardian Master | 0.80% | ~13 |
 | Training makes a Pro player | 0.80% | ~13 |
+| Transmute | 0.60% | ~10 |
 | Cauldron Liberator | 0.50% | ~8 |
 | Titan Power | 0.50% | ~8 |
-| Transmute | 0.50% | ~8 |
 | Tree of Life | 0.50% | ~8 |
 | Enchanting skill x5 | 0.40% | ~7 |
 | Pokerface | 0.40% | ~7 |

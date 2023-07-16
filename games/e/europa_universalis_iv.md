@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,323 |
-| That's a Grand Army | 8.00% | ~5,621 |
-| That is mine! | 8.00% | ~5,621 |
-| Victorious! | 8.00% | ~5,621 |
-| Brothers in Arms | 6.00% | ~4,215 |
-| That's a Grand Navy | 6.00% | ~4,215 |
-| Seriously?! | 6.00% | ~4,215 |
-| For the Glory | 5.00% | ~3,513 |
-| Cold War | 4.00% | ~2,810 |
-| True Catholic | 4.00% | ~2,810 |
+| Until death do us apart | 9.00% | ~6,325 |
+| That's a Grand Army | 8.00% | ~5,622 |
+| That is mine! | 8.00% | ~5,622 |
+| Victorious! | 8.00% | ~5,622 |
+| Brothers in Arms | 6.00% | ~4,216 |
+| That's a Grand Navy | 6.00% | ~4,216 |
+| Seriously?! | 6.00% | ~4,216 |
+| For the Glory | 5.00% | ~3,514 |
+| Cold War | 4.00% | ~2,811 |
+| True Catholic | 4.00% | ~2,811 |
 | Defender of the Faith | 3.00% | ~2,108 |
 | It's all about luck | 3.00% | ~2,108 |
 | It's all about the money | 3.00% | ~2,108 |
@@ -70,6 +70,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | One Night in Paris | 0.40% | ~281 |
 | Tear Down This Wall | 0.40% | ~281 |
 | The Continuation of Diplomacy | 0.40% | ~281 |
+| Traditional Player | 0.40% | ~281 |
 | Wonderful | 0.40% | ~281 |
 | A Decent Reserve | 0.30% | ~211 |
 | A Pile of Gold | 0.30% | ~211 |
@@ -79,7 +80,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Not so sad a state... | 0.30% | ~211 |
 | The Chrysanthemum Throne | 0.30% | ~211 |
 | Three Trivial Tributary Tribes | 0.30% | ~211 |
-| Traditional Player | 0.30% | ~211 |
 | Vasa or Wettin? | 0.30% | ~211 |
 | World Discoverer | 0.30% | ~211 |
 | A Protected Market | 0.20% | ~141 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 70,258 (Ranked 74)  
+Progressed: 70,273 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -448,14 +448,14 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-13 | 69,319 | 0 |
 | 2023-07-14 | 69,707 | 0 |
 | 2023-07-15 | 70,161 | 0 |
-| 2023-07-16 | 70,258 | 0 |
+| 2023-07-16 | 70,273 | 0 |
 ## Awards
-Max (Educational): 5,541  (Ranked 60)  
-Sum: 45,733 (Ranked 26)  
+Max (Educational): 5,546  (Ranked 60)  
+Sum: 45,738 (Ranked 26)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 5,541 |
+| This game is Educational | 5,546 |
 | This game is Highly Recommended | 5,307 |
 | This game has Challenging Combat | 5,268 |
 | This game is Extremely Fun | 5,260 |
@@ -648,4 +648,4 @@ Diff (max vs sum): 34
 | 2023-07-13 | 4.69 | - | 5,540 | 45,689 |
 | 2023-07-14 | 4.69 | - | 5,541 | 45,702 |
 | 2023-07-15 | 4.69 | - | 5,541 | 45,728 |
-| 2023-07-16 | 4.69 | - | 5,541 | 45,733 |
+| 2023-07-16 | 4.69 | - | 5,546 | 45,738 |

@@ -196,7 +196,7 @@
   "Tags": [],
   "EOS_Progressed": 1654,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4774,9 +4774,9 @@
       "ID": "transmute",
       "SetID": "3nl4bcg",
       "Name": "Transmute",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "treeoflife",
@@ -4847,8 +4847,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-07-16T03:26:23.9449732+00:00",
-  "LastChanged_Achievements": "2023-07-16T08:07:48.4969652+00:00",
+  "LastChanged_Achievements": "2023-07-16T09:07:55.6757176+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:38.4078532+00:00",
-  "LastUpdate_Ratings": "2023-07-16T07:58:51.742644+00:00",
-  "LastUpdate_Achievements": "2023-07-16T08:07:48.4970436+00:00"
+  "LastUpdate_Ratings": "2023-07-16T08:58:48.8331177+00:00",
+  "LastUpdate_Achievements": "2023-07-16T09:07:55.6758479+00:00"
 }

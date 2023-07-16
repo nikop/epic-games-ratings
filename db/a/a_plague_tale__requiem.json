@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 289,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 147,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -350,9 +350,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12038,
+  "EOS_Progressed": 12039,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -5215,6 +5215,11 @@
       "Time": "2023-07-15T21:06:57.8868961+00:00",
       "NumProgressed": 12038,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-07-16T09:07:55.2143944+00:00",
+      "NumProgressed": 12039,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 35,
@@ -5226,7 +5231,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 11075
+      "UsersEstimate": 11076
     },
     {
       "ID": "ACH_02",
@@ -5234,7 +5239,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 9510
+      "UsersEstimate": 9511
     },
     {
       "ID": "ACH_03",
@@ -5258,7 +5263,7 @@
       "Name": "In our Wake",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 8186
+      "UsersEstimate": 8187
     },
     {
       "ID": "ACH_06",
@@ -5266,7 +5271,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 7704
+      "UsersEstimate": 7705
     },
     {
       "ID": "ACH_07",
@@ -5306,7 +5311,7 @@
       "Name": "The Cradle of Centuries",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 5778
+      "UsersEstimate": 5779
     },
     {
       "ID": "ACH_12",
@@ -5314,7 +5319,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 5417
+      "UsersEstimate": 5418
     },
     {
       "ID": "ACH_13",
@@ -5434,7 +5439,7 @@
       "Name": "Night guard",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 5176
+      "UsersEstimate": 5177
     },
     {
       "ID": "ACH_28",
@@ -5442,7 +5447,7 @@
       "Name": "Alchemist",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 8186
+      "UsersEstimate": 8187
     },
     {
       "ID": "ACH_29",
@@ -5474,7 +5479,7 @@
       "Name": "Perfect shot",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 2648
+      "UsersEstimate": 2649
     },
     {
       "ID": "ACH_33",
@@ -5505,7 +5510,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 12038,
+      "Progressed": 12039,
       "Completed": 37
     }
   ],
@@ -5513,8 +5518,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-07-11T18:59:53.0039364+00:00",
-  "LastChanged_Achievements": "2023-07-16T08:07:47.9846629+00:00",
+  "LastChanged_Achievements": "2023-07-16T09:07:55.2143939+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:24.3188999+00:00",
-  "LastUpdate_Ratings": "2023-07-16T08:00:45.7306424+00:00",
-  "LastUpdate_Achievements": "2023-07-16T08:07:47.9847052+00:00"
+  "LastUpdate_Ratings": "2023-07-16T09:00:50.389228+00:00",
+  "LastUpdate_Achievements": "2023-07-16T09:07:55.2144442+00:00"
 }

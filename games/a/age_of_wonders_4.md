@@ -26,6 +26,7 @@ Rating: 4.62 (Ranked 347)
 | Valley of Wonders | 2.00% | ~100 |
 | Return of the Wizard King | 2.00% | ~100 |
 | Arch Mage | 2.00% | ~100 |
+| The Creator | 2.00% | ~100 |
 | Enchanted Archipelago | 2.00% | ~100 |
 | The Goddess of Nature | 2.00% | ~100 |
 | Digging for Treasure | 2.00% | ~100 |
@@ -36,7 +37,6 @@ Rating: 4.62 (Ranked 347)
 | The Magic That Empowers Me! | 1.00% | ~50 |
 | God Emperor | 1.00% | ~50 |
 | Lord of Chaos | 1.00% | ~50 |
-| The Creator | 1.00% | ~50 |
 | Eternal Lord | 1.00% | ~50 |
 | Crimson Caldera | 1.00% | ~50 |
 | The Eternal Court | 1.00% | ~50 |

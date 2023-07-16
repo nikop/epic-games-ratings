@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 188,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -5098,9 +5098,9 @@
       "Count": 3707
     }
   ],
-  "EOS_Progressed": 132629,
+  "EOS_Progressed": 132630,
   "EOS_Completed": 118,
-  "EOS_NewPlayers": 455,
+  "EOS_NewPlayers": 454,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -13868,6 +13868,11 @@
       "Time": "2023-07-16T08:03:41.1003375+00:00",
       "NumProgressed": 132629,
       "NumCompleted": 118
+    },
+    {
+      "Time": "2023-07-16T09:03:42.3832517+00:00",
+      "NumProgressed": 132630,
+      "NumCompleted": 118
     }
   ],
   "TotalAchievements": 112,
@@ -13879,7 +13884,7 @@
       "Name": "The Daily Grind",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 59683
+      "UsersEstimate": 59684
     },
     {
       "ID": "advlevel02",
@@ -13919,7 +13924,7 @@
       "Name": "Proud Paladin",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6631
+      "UsersEstimate": 6632
     },
     {
       "ID": "ascend01",
@@ -13935,7 +13940,7 @@
       "Name": "Above the Norm",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 15915
+      "UsersEstimate": 15916
     },
     {
       "ID": "ascend03",
@@ -13959,7 +13964,7 @@
       "Name": "One Easy Payment",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 79577
+      "UsersEstimate": 79578
     },
     {
       "ID": "bigsale02",
@@ -13991,7 +13996,7 @@
       "Name": "Research \u0026 Development",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 33157
+      "UsersEstimate": 33158
     },
     {
       "ID": "blueprint03",
@@ -14047,7 +14052,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 128650
+      "UsersEstimate": 128651
     },
     {
       "ID": "chest02",
@@ -14111,7 +14116,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 119366
+      "UsersEstimate": 119367
     },
     {
       "ID": "commonres02",
@@ -14183,7 +14188,7 @@
       "Name": "Where it Hurts",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 57030
+      "UsersEstimate": 57031
     },
     {
       "ID": "damage02",
@@ -14215,7 +14220,7 @@
       "Name": "Hidden Potential",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 15915
+      "UsersEstimate": 15916
     },
     {
       "ID": "enchant02",
@@ -14255,7 +14260,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 92840
+      "UsersEstimate": 92841
     },
     {
       "ID": "expansion02",
@@ -14351,7 +14356,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 114061
+      "UsersEstimate": 114062
     },
     {
       "ID": "gold02",
@@ -14383,7 +14388,7 @@
       "Name": "Mammonite",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 15915
+      "UsersEstimate": 15916
     },
     {
       "ID": "gold06",
@@ -14431,7 +14436,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 64988
+      "UsersEstimate": 64989
     },
     {
       "ID": "jackslot02",
@@ -14463,7 +14468,7 @@
       "Name": "Budding Merchant",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 87535
+      "UsersEstimate": 87536
     },
     {
       "ID": "level02",
@@ -14503,7 +14508,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 55704
+      "UsersEstimate": 55705
     },
     {
       "ID": "loot02",
@@ -14535,7 +14540,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 61009
+      "UsersEstimate": 61010
     },
     {
       "ID": "master02",
@@ -14559,7 +14564,7 @@
       "Name": "Precision Engineering",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6631
+      "UsersEstimate": 6632
     },
     {
       "ID": "master05",
@@ -14599,7 +14604,7 @@
       "Name": "Attrition Mission",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 15915
+      "UsersEstimate": 15916
     },
     {
       "ID": "quest03",
@@ -14655,7 +14660,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 98145
+      "UsersEstimate": 98146
     },
     {
       "ID": "sell02",
@@ -14695,7 +14700,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 127324
+      "UsersEstimate": 127325
     },
     {
       "ID": "twinenchant01",
@@ -14743,7 +14748,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 79577
+      "UsersEstimate": 79578
     },
     {
       "ID": "workers02",
@@ -14759,7 +14764,7 @@
       "Name": "Complete Monopoly",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 15915
+      "UsersEstimate": 15916
     },
     {
       "ID": "yami_a",
@@ -14774,15 +14779,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 132629,
+      "Progressed": 132630,
       "Completed": 118
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-07-15T22:59:00.5924195+00:00",
-  "LastChanged_Achievements": "2023-07-16T08:03:41.1003371+00:00",
+  "LastChanged_Achievements": "2023-07-16T09:03:42.3832513+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:16.2399426+00:00",
-  "LastUpdate_Ratings": "2023-07-16T07:59:21.9044602+00:00",
-  "LastUpdate_Achievements": "2023-07-16T08:03:41.1004935+00:00"
+  "LastUpdate_Ratings": "2023-07-16T08:59:19.4699303+00:00",
+  "LastUpdate_Achievements": "2023-07-16T09:03:42.3834361+00:00"
 }

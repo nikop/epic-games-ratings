@@ -29,8 +29,8 @@
 | Golem Chaser | 13.00% | ~99 |
 | Fast Learner | 13.00% | ~99 |
 | Check Your Pulse | 13.00% | ~99 |
+| Street Style | 12.00% | ~91 |
 | Right On Time | 11.00% | ~83 |
-| Street Style | 11.00% | ~83 |
 | Whiz Kid | 10.00% | ~76 |
 | Chaincrawler Explorer | 9.00% | ~68 |
 | Good Neighbor | 9.00% | ~68 |

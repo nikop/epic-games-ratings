@@ -1,13 +1,13 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.05 (Ranked 903)  
+Rating: 4.05 (Ranked 902)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 0.30% | ~636 |
-| The Mad Wizard | 0.30% | ~636 |
+| The Cursed Farmer | 0.30% | ~637 |
+| The Mad Wizard | 0.30% | ~637 |
 | The Ring of Regeneration | 0.20% | ~424 |
 | The Crumbling Temple | 0.20% | ~424 |
 | Seeking Allies | 0.20% | ~424 |
@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212,164 (Ranked 52)  
+Progressed: 212,179 (Ranked 52)  
 Completed: 2,055 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -601,7 +601,7 @@ Completed: 2,055 (0.97%) (Ranked 102)
 | 2023-07-13 | 211,069 | 2,049 |
 | 2023-07-14 | 211,507 | 2,050 |
 | 2023-07-15 | 212,014 | 2,053 |
-| 2023-07-16 | 212,164 | 2,055 |
+| 2023-07-16 | 212,179 | 2,055 |
 ## Awards
 Max (Diverse Characters): 5,036  (Ranked 66)  
 Sum: 30,535 (Ranked 38)  

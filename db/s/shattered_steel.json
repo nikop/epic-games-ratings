@@ -4,7 +4,7 @@
   "ProductSlug": "shattered-steel-b4dd87",
   "Ranking_EOS_Progress": 495,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-08-19T16:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:28.184278+00:00",
   "LastChanged": "2023-03-31T05:58:28.1842781+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:34.565146+00:00",
-  "LastUpdate_Ratings": "2023-07-16T07:58:47.5463309+00:00",
-  "LastUpdate_Achievements": "2023-07-16T08:04:25.1891348+00:00"
+  "LastUpdate_Ratings": "2023-07-16T08:58:45.5883118+00:00",
+  "LastUpdate_Achievements": "2023-07-16T09:04:15.5374796+00:00"
 }

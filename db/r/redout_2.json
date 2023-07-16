@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1063,
+  "EOS_Progressed": 1064,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -600,6 +600,11 @@
       "Time": "2023-07-15T19:03:02.2740683+00:00",
       "NumProgressed": 1063,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-16T09:02:31.5869237+00:00",
+      "NumProgressed": 1064,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -667,7 +672,7 @@
       "Name": "Walked like an Egyptian",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ALLTRACKSCLOUD",
@@ -931,7 +936,7 @@
       "Name": "It\u0027s like an haircut",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ONEPLATINUM",
@@ -947,7 +952,7 @@
       "Name": "Put it on a shelf",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "OVERTAKE100HUMANS",
@@ -1026,7 +1031,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1063,
+      "Progressed": 1064,
       "Completed": 0
     }
   ],
@@ -1034,8 +1039,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-07-16T08:02:28.6882356+00:00",
+  "LastChanged_Achievements": "2023-07-16T09:02:31.5869232+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:52.2995402+00:00",
-  "LastUpdate_Ratings": "2023-07-16T07:59:01.9915159+00:00",
-  "LastUpdate_Achievements": "2023-07-16T08:02:28.6882774+00:00"
+  "LastUpdate_Ratings": "2023-07-16T08:59:02.5872657+00:00",
+  "LastUpdate_Achievements": "2023-07-16T09:02:31.5869707+00:00"
 }

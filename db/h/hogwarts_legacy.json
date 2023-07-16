@@ -5052,9 +5052,9 @@
       "Count": 554
     }
   ],
-  "EOS_Progressed": 287663,
+  "EOS_Progressed": 287666,
   "EOS_Completed": 429,
-  "EOS_NewPlayers": 1559,
+  "EOS_NewPlayers": 1547,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -14352,6 +14352,11 @@
       "Time": "2023-07-16T08:04:46.2201575+00:00",
       "NumProgressed": 287663,
       "NumCompleted": 429
+    },
+    {
+      "Time": "2023-07-16T09:04:35.9661091+00:00",
+      "NumProgressed": 287666,
+      "NumCompleted": 429
     }
   ],
   "TotalAchievements": 45,
@@ -14587,7 +14592,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 20136
+      "UsersEstimate": 20137
     },
     {
       "ID": "PFA_36",
@@ -14667,7 +14672,7 @@
       "Name": "The Spell Master",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20136
+      "UsersEstimate": 20137
     },
     {
       "ID": "PFA_45",
@@ -14691,7 +14696,7 @@
       "Name": "First Class Student",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 28766
+      "UsersEstimate": 28767
     },
     {
       "ID": "PFA_7",
@@ -14699,7 +14704,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 28766
+      "UsersEstimate": 28767
     },
     {
       "ID": "PFA_8",
@@ -14715,14 +14720,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20136
+      "UsersEstimate": 20137
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 287663,
+      "Progressed": 287666,
       "Completed": 429
     }
   ],
@@ -14730,8 +14735,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-07-16T07:58:08.7194013+00:00",
-  "LastChanged_Achievements": "2023-07-16T08:04:46.2201568+00:00",
+  "LastChanged_Achievements": "2023-07-16T09:04:35.9661086+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:19.3801839+00:00",
-  "LastUpdate_Ratings": "2023-07-16T07:58:08.7194019+00:00",
-  "LastUpdate_Achievements": "2023-07-16T08:04:46.2202276+00:00"
+  "LastUpdate_Ratings": "2023-07-16T08:58:06.792698+00:00",
+  "LastUpdate_Achievements": "2023-07-16T09:04:35.966194+00:00"
 }
