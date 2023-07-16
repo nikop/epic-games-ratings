@@ -26,7 +26,7 @@
 | 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.63% |
 | 25 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
 | 26 | [Smelter](games/s/smelter.md) | 8.11% |
-| 27 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.69% |
+| 27 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.50% |
 | 28 | [Ravenlok](games/r/ravenlok.md) | 7.44% |
 | 29 | [Time Loader](games/t/time_loader.md) | 7.14% |
 | 30 | [Scorn](games/s/scorn.md) | 7.05% |
@@ -54,7 +54,7 @@
 | 52 | [Bunny Park](games/b/bunny_park.md) | 3.41% |
 | 53 | [Monster Harvest](games/m/monster_harvest.md) | 3.38% |
 | 54 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.33% |
-| 55 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.32% |
+| 55 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.31% |
 | 56 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.08% |
 | 57 | [The Complex](games/t/the_complex.md) | 3.07% |
 | 58 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.02% |
