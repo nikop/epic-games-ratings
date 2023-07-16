@@ -32,7 +32,7 @@ Number of Ratings: 209  (23.09.2022)
 | Mission Unlikely | 85.00% | ~1,832 |
 | Don't draw dicks pls | 84.00% | ~1,810 |
 | Ripped | 84.00% | ~1,810 |
-| Beat the big arena | 82.00% | ~1,767 |
+| Beat the big arena | 83.00% | ~1,789 |
 | Force Cube | 82.00% | ~1,767 |
 | Got Battery | 81.00% | ~1,746 |
 | Guard Distracted | 80.00% | ~1,724 |
@@ -44,7 +44,7 @@ Number of Ratings: 209  (23.09.2022)
 | Win | 76.00% | ~1,638 |
 | Greenhouse | 72.00% | ~1,552 |
 | Played with fire | 70.00% | ~1,508 |
-| You feel very sorry | 69.00% | ~1,487 |
+| You feel very sorry | 70.00% | ~1,508 |
 | No Match for you | 65.00% | ~1,401 |
 | Bouncy | 61.00% | ~1,315 |
 | Plumbster | 61.00% | ~1,315 |

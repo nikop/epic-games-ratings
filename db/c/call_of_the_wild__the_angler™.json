@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 387,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -586,9 +586,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4659,
+  "EOS_Progressed": 4660,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4531,6 +4531,11 @@
       "Time": "2023-07-16T17:02:13.0566511+00:00",
       "NumProgressed": 4659,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-16T18:02:12.4290373+00:00",
+      "NumProgressed": 4660,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -4542,7 +4547,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3541
+      "UsersEstimate": 3542
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -4558,7 +4563,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 3075
+      "UsersEstimate": 3076
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -4590,7 +4595,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1910
+      "UsersEstimate": 1911
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -4614,7 +4619,7 @@
       "Name": "License to Gill",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 1537
+      "UsersEstimate": 1538
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -4821,13 +4826,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 4659,
+      "Progressed": 4660,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 4031,
+      "Progressed": 4032,
       "Completed": 112
     }
   ],
@@ -4835,8 +4840,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-06-29T22:00:44.387661+00:00",
-  "LastChanged_Achievements": "2023-07-16T17:02:13.0566506+00:00",
+  "LastChanged_Achievements": "2023-07-16T18:02:12.4290367+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:50.1759655+00:00",
-  "LastUpdate_Ratings": "2023-07-16T16:59:52.9782269+00:00",
-  "LastUpdate_Achievements": "2023-07-16T17:02:13.056706+00:00"
+  "LastUpdate_Ratings": "2023-07-16T18:00:29.0952442+00:00",
+  "LastUpdate_Achievements": "2023-07-16T18:02:12.4290768+00:00"
 }

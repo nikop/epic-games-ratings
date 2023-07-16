@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -215,9 +215,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4182,
+  "EOS_Progressed": 4183,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -765,6 +765,11 @@
       "Time": "2023-07-14T02:30:09.001555+00:00",
       "NumProgressed": 4182,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-16T18:04:36.2811375+00:00",
+      "NumProgressed": 4183,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 101,
@@ -926,9 +931,9 @@
       "ID": "ACHIEVEMENT_FIRE1",
       "SetID": "9eacipp",
       "Name": "When there\u0027s fire...",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 33
     },
     {
       "ID": "ACHIEVEMENT_FIREPROTECTOR",
@@ -1054,9 +1059,9 @@
       "ID": "ACHIEVEMENT_PRESTIGE2",
       "SetID": "9eacipp",
       "Name": "An honorable Governor II",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 167
     },
     {
       "ID": "ACHIEVEMENT_PRESTIGE3",
@@ -1583,15 +1588,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4182,
+      "Progressed": 4183,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-07-16T17:04:10.1480071+00:00",
+  "LastChanged_Achievements": "2023-07-16T18:04:36.281137+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:37.2698223+00:00",
-  "LastUpdate_Ratings": "2023-07-16T16:58:05.327125+00:00",
-  "LastUpdate_Achievements": "2023-07-16T17:04:10.1481444+00:00"
+  "LastUpdate_Ratings": "2023-07-16T17:58:25.141604+00:00",
+  "LastUpdate_Achievements": "2023-07-16T18:04:36.2812434+00:00"
 }

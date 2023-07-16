@@ -3128,9 +3128,9 @@
       "Count": 381
     }
   ],
-  "EOS_Progressed": 10356,
+  "EOS_Progressed": 10358,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8533,6 +8533,11 @@
       "Time": "2023-07-16T16:04:14.9261213+00:00",
       "NumProgressed": 10356,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-16T18:04:41.4100518+00:00",
+      "NumProgressed": 10358,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -8544,7 +8549,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2071
+      "UsersEstimate": 2072
     },
     {
       "ID": "02_BurningCity",
@@ -8656,7 +8661,7 @@
       "Name": "Path of the Dragon",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "16_PathOfLegend",
@@ -8664,7 +8669,7 @@
       "Name": "Path of the Legend",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "17_Transformation",
@@ -8856,7 +8861,7 @@
       "Name": "Playful Mood",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "42_JustPathetic",
@@ -8912,7 +8917,7 @@
       "Name": "A Spark",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1553
+      "UsersEstimate": 1554
     },
     {
       "ID": "49_Flame",
@@ -8952,7 +8957,7 @@
       "Name": "Truly Profane Gift",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "54_DeathByColumn",
@@ -9471,21 +9476,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9138,
+      "Progressed": 9140,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10356,
+      "Progressed": 10358,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-15T20:59:00.2189312+00:00",
-  "LastChanged_Achievements": "2023-07-16T17:04:14.1123805+00:00",
+  "LastChanged_Achievements": "2023-07-16T18:04:41.4100513+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:17.6267462+00:00",
-  "LastUpdate_Ratings": "2023-07-16T16:58:30.3327214+00:00",
-  "LastUpdate_Achievements": "2023-07-16T17:04:14.1125881+00:00"
+  "LastUpdate_Ratings": "2023-07-16T17:58:56.2868145+00:00",
+  "LastUpdate_Achievements": "2023-07-16T18:04:41.4102231+00:00"
 }

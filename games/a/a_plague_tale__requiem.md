@@ -26,8 +26,8 @@ Rating: 4.73 (Ranked 157)
 | King Hugo | 24.00% | ~2,890 |
 | Mercy | 24.00% | ~2,890 |
 | Perfect shot | 22.00% | ~2,649 |
+| Perfect throw | 22.00% | ~2,649 |
 | Effective instruments | 21.00% | ~2,529 |
-| Perfect throw | 21.00% | ~2,529 |
 | Knights! | 20.00% | ~2,409 |
 | Handful of pockets | 13.00% | ~1,566 |
 | Not a toy anymore | 11.00% | ~1,325 |

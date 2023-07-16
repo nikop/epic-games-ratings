@@ -24,7 +24,7 @@ Rating: 4.52 (Ranked 521)
 | KGB Bunker | 0.80% | ~9 |
 | Sixth Sense | 0.80% | ~9 |
 | Rising Star | 0.70% | ~8 |
-| Baby Eater | 0.40% | ~5 |
+| Baby Eater | 0.50% | ~6 |
 | Sick Freak | 0.40% | ~5 |
 | Admiral | 0.30% | ~3 |
 | Bronzovka | 0.30% | ~3 |

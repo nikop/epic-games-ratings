@@ -20,9 +20,9 @@
 | Food Thief | 13.00% | ~2 |
 | Paw Music | 13.00% | ~2 |
 | Sugar Pills Lover | 13.00% | ~2 |
+| Tramp Saver | 13.00% | ~2 |
 | Hard To Wake Up | 13.00% | ~2 |
 | Chipmunk | 6.00% | ~1 |
-| Tramp Saver | 6.00% | ~1 |
 | Bear Cop | 0.00% | ~0 |
 | Master of Mattresses | 0.00% | ~0 |
 | Secret Locker | 0.00% | ~0 |

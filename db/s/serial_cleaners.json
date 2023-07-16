@@ -2,9 +2,9 @@
   "ID": "96f4ce259e1b4845848399fc29c718fe",
   "Name": "Serial Cleaners",
   "ProductSlug": "serial-cleaners",
-  "Ranking_EOS_Progress": 264,
+  "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 210,
+  "EOS_Progressed": 211,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.86,
+  "EOS_Completed_Percentage": 2.84,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:28.6580163+00:00",
@@ -321,6 +321,11 @@
       "Time": "2023-07-06T02:36:17.7723103+00:00",
       "NumProgressed": 210,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-07-16T18:04:04.2134872+00:00",
+      "NumProgressed": 211,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 24,
@@ -346,7 +351,7 @@
       "ID": "BOB_SLIDE",
       "SetID": "2lk004m",
       "Name": "Blood Capade",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 35,
       "UsersEstimate": 2
     },
@@ -354,9 +359,9 @@
       "ID": "CHAPTER1_COMPLETE",
       "SetID": "2lk004m",
       "Name": "Off to a Good Start",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 75,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "CHAPTER2_COMPLETE",
@@ -418,7 +423,7 @@
       "ID": "DLC01_ACHIEVEMENT01",
       "SetID": "5jieak",
       "Name": "Crazy SOB, You Did It",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 125,
       "UsersEstimate": 1
     },
@@ -466,7 +471,7 @@
       "ID": "LATI_SPRAY",
       "SetID": "2lk004m",
       "Name": "Bee Squat",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 35,
       "UsersEstimate": 2
     },
@@ -482,7 +487,7 @@
       "ID": "PERFECT_CLEANED_EVERY_MAP",
       "SetID": "2lk004m",
       "Name": "The Germophobes",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -516,20 +521,20 @@
       "Name": "Hackathon",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     }
   ],
   "AchievementSets": [
     {
       "ID": "5jieak",
       "IsBase": false,
-      "Progressed": 73,
+      "Progressed": 74,
       "Completed": 16
     },
     {
       "ID": "2lk004m",
       "IsBase": true,
-      "Progressed": 210,
+      "Progressed": 211,
       "Completed": 6
     }
   ],
@@ -537,8 +542,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-07-16T17:03:46.1746358+00:00",
+  "LastChanged_Achievements": "2023-07-16T18:04:04.2134866+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:10.641311+00:00",
-  "LastUpdate_Ratings": "2023-07-16T16:59:20.8953164+00:00",
-  "LastUpdate_Achievements": "2023-07-16T17:03:46.1746595+00:00"
+  "LastUpdate_Ratings": "2023-07-16T17:59:49.9464402+00:00",
+  "LastUpdate_Achievements": "2023-07-16T18:04:04.213503+00:00"
 }

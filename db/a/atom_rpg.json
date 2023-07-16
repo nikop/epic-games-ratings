@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 448,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -358,9 +358,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 1019,
+  "EOS_Progressed": 1020,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1633,6 +1633,11 @@
       "Time": "2023-07-16T16:02:12.7662713+00:00",
       "NumProgressed": 1019,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-16T18:02:10.9983069+00:00",
+      "NumProgressed": 1020,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1700,7 +1705,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     },
     {
       "ID": "EXPERT_1",
@@ -1732,7 +1737,7 @@
       "Name": "Grave Robber",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "HEAD_BURST_1",
@@ -1931,15 +1936,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1019,
+      "Progressed": 1020,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-11T18:59:46.5771351+00:00",
-  "LastChanged_Achievements": "2023-07-16T17:02:11.8600387+00:00",
+  "LastChanged_Achievements": "2023-07-16T18:02:10.9983063+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:11.8607725+00:00",
-  "LastUpdate_Ratings": "2023-07-16T17:00:11.9189109+00:00",
-  "LastUpdate_Achievements": "2023-07-16T17:02:11.8600759+00:00"
+  "LastUpdate_Ratings": "2023-07-16T18:00:51.6507363+00:00",
+  "LastUpdate_Achievements": "2023-07-16T18:02:10.9983338+00:00"
 }

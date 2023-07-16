@@ -2498,9 +2498,9 @@
       "Count": 310
     }
   ],
-  "EOS_Progressed": 15855,
+  "EOS_Progressed": 15858,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -7288,6 +7288,11 @@
       "Time": "2023-07-16T17:02:29.312709+00:00",
       "NumProgressed": 15855,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-07-16T18:02:33.8354363+00:00",
+      "NumProgressed": 15858,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 50,
@@ -7689,24 +7694,24 @@
       "ID": "Year1Dangerous",
       "SetID": "cfbk359",
       "Name": "Into the Forest",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 159
+      "UsersEstimate": 317
     }
   ],
   "AchievementSets": [
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 15855,
+      "Progressed": 15858,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-07-15T05:00:39.159135+00:00",
-  "LastChanged_Achievements": "2023-07-16T17:02:29.3127086+00:00",
+  "LastChanged_Achievements": "2023-07-16T18:02:33.8354356+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:06.1023937+00:00",
-  "LastUpdate_Ratings": "2023-07-16T17:00:05.7420881+00:00",
-  "LastUpdate_Achievements": "2023-07-16T17:02:29.3127823+00:00"
+  "LastUpdate_Ratings": "2023-07-16T18:00:44.9512661+00:00",
+  "LastUpdate_Achievements": "2023-07-16T18:02:33.8355985+00:00"
 }

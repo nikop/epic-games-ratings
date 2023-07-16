@@ -4,7 +4,7 @@
   "ProductSlug": "the-dragoness-command-of-the-flame-b3b544",
   "Ranking_EOS_Progress": 458,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-08-09T23:00:00+00:00",
@@ -341,8 +341,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-30T14:00:09.5243374+00:00",
-  "LastChanged_Achievements": "2023-07-16T17:00:37.2988045+00:00",
+  "LastChanged_Achievements": "2023-07-16T18:01:24.2878788+00:00",
   "LastUpdate_AppInfo": "2023-07-11T16:57:14.2062533+00:00",
-  "LastUpdate_Ratings": "2023-07-16T16:57:07.6422804+00:00",
-  "LastUpdate_Achievements": "2023-07-16T17:00:37.3006197+00:00"
+  "LastUpdate_Ratings": "2023-07-16T17:57:14.3026869+00:00",
+  "LastUpdate_Achievements": "2023-07-16T18:01:24.2879048+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 133,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6755,
+  "EOS_Progressed": 6756,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -4688,6 +4688,11 @@
       "Time": "2023-07-16T16:03:32.33596+00:00",
       "NumProgressed": 6755,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-07-16T18:03:44.8252694+00:00",
+      "NumProgressed": 6756,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 21,
@@ -4747,7 +4752,7 @@
       "Name": "Energy Saver",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1148
+      "UsersEstimate": 1149
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -4809,9 +4814,9 @@
       "ID": "LIBERATOR",
       "SetID": "3cck1g6",
       "Name": "Liberator",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 338
+      "UsersEstimate": 270
     },
     {
       "ID": "LIVE_WIRE",
@@ -4866,7 +4871,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6755,
+      "Progressed": 6756,
       "Completed": 29
     }
   ],
@@ -4874,8 +4879,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-07-11T22:58:36.2658566+00:00",
-  "LastChanged_Achievements": "2023-07-16T17:03:31.3505991+00:00",
+  "LastChanged_Achievements": "2023-07-16T18:03:44.8252686+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:33.2869654+00:00",
-  "LastUpdate_Ratings": "2023-07-16T16:58:02.6876592+00:00",
-  "LastUpdate_Achievements": "2023-07-16T17:03:31.3506416+00:00"
+  "LastUpdate_Ratings": "2023-07-16T17:58:21.9766463+00:00",
+  "LastUpdate_Achievements": "2023-07-16T18:03:44.8252983+00:00"
 }

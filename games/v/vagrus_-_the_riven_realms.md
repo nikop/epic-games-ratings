@@ -25,18 +25,18 @@
 | Quartermaster | 3.00% | ~3 |
 | Supercargo | 3.00% | ~3 |
 | Strategist | 3.00% | ~3 |
+| Potential Unlocked | 3.00% | ~3 |
 | Xevarian Gambit | 3.00% | ~3 |
 | The Voice of Hereafter | 3.00% | ~3 |
+| A Terrible Will | 3.00% | ~3 |
 | Spiritual Journey | 3.00% | ~3 |
 | Pilgrimage's End | 3.00% | ~3 |
 | Inquisitions of Discord | 3.00% | ~3 |
 | Merchant | 3.00% | ~3 |
 | Trouble at Fort Larius | 3.00% | ~3 |
 | Bounty Hunter | 2.00% | ~2 |
-| Potential Unlocked | 2.00% | ~2 |
 | Deputized | 2.00% | ~2 |
 | Despised | 2.00% | ~2 |
-| A Terrible Will | 2.00% | ~2 |
 | Delayed | 2.00% | ~2 |
 | Unseen Patterns | 2.00% | ~2 |
 | Making Contact | 0.90% | ~1 |

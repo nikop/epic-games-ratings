@@ -13,10 +13,10 @@
 | Avaricerite | 9.00% | ~14 |
 | Ball Galore | 8.00% | ~12 |
 | Easy Victory | 7.00% | ~11 |
+| Ball Collector | 5.00% | ~8 |
 | Legendary Destructor | 5.00% | ~8 |
 | You Are Actually Supposed To Use Those | 5.00% | ~8 |
 | Back From The Dead | 4.00% | ~6 |
-| Ball Collector | 4.00% | ~6 |
 | Ball Protector | 4.00% | ~6 |
 | Nomad | 4.00% | ~6 |
 | Ticking Clock | 4.00% | ~6 |

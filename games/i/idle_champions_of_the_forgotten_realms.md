@@ -9,6 +9,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Cursed Farmer | 0.30% | ~637 |
 | The Ring of Regeneration | 0.30% | ~637 |
 | The Mad Wizard | 0.30% | ~637 |
+| Pure Energy | 0.30% | ~637 |
 | The Crumbling Temple | 0.20% | ~425 |
 | Seeking Allies | 0.20% | ~425 |
 | Are Ya Chicken? | 0.20% | ~425 |
@@ -22,7 +23,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Underdeep Cartography | 0.20% | ~425 |
 | Friendly Imps | 0.20% | ~425 |
 | Overdue Rendezvous | 0.20% | ~425 |
-| Pure Energy | 0.20% | ~425 |
 | Intelligence Hunt | 0.10% | ~212 |
 | Seeds of Deceit | 0.10% | ~212 |
 | Visions of Strahd | 0.10% | ~212 |
@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212,369 (Ranked 52)  
+Progressed: 212,393 (Ranked 52)  
 Completed: 2,055 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -601,7 +601,7 @@ Completed: 2,055 (0.97%) (Ranked 102)
 | 2023-07-13 | 211,069 | 2,049 |
 | 2023-07-14 | 211,507 | 2,050 |
 | 2023-07-15 | 212,014 | 2,053 |
-| 2023-07-16 | 212,369 | 2,055 |
+| 2023-07-16 | 212,393 | 2,055 |
 ## Awards
 Max (Diverse Characters): 5,036  (Ranked 66)  
 Sum: 30,545 (Ranked 38)  

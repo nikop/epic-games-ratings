@@ -1815,9 +1815,9 @@
       "ID": "MQ02_4",
       "SetID": "bbing49",
       "Name": "Whispers In The Dark",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 40,
-      "UsersEstimate": 295
+      "UsersEstimate": 300
     },
     {
       "ID": "MQ03_1",
@@ -1855,9 +1855,9 @@
       "ID": "MQ03_5",
       "SetID": "bbing49",
       "Name": "A Method To His Madness",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 274
+      "UsersEstimate": 279
     },
     {
       "ID": "MQ04_1",
@@ -2008,8 +2008,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-06-25T15:57:48.8176349+00:00",
-  "LastChanged_Achievements": "2023-07-16T17:05:41.3887302+00:00",
+  "LastChanged_Achievements": "2023-07-16T18:06:32.0496035+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:08.2365804+00:00",
-  "LastUpdate_Ratings": "2023-07-16T16:57:24.6380355+00:00",
-  "LastUpdate_Achievements": "2023-07-16T17:05:41.3887615+00:00"
+  "LastUpdate_Ratings": "2023-07-16T17:57:35.5198113+00:00",
+  "LastUpdate_Achievements": "2023-07-16T18:06:32.0496493+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57426,
+  "EOS_Progressed": 57429,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 326,
+  "EOS_NewPlayers": 325,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8122,6 +8122,11 @@
       "Time": "2023-07-16T17:02:31.7939858+00:00",
       "NumProgressed": 57426,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-07-16T18:02:37.1539261+00:00",
+      "NumProgressed": 57429,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 67,
@@ -8133,7 +8138,7 @@
       "Name": "Follow the Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 19525
+      "UsersEstimate": 19526
     },
     {
       "ID": "02",
@@ -8141,7 +8146,7 @@
       "Name": "Nordic Walking",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 12059
+      "UsersEstimate": 12060
     },
     {
       "ID": "03",
@@ -8149,7 +8154,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 12059
+      "UsersEstimate": 12060
     },
     {
       "ID": "04",
@@ -8237,7 +8242,7 @@
       "Name": "Gatekeeper",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5168
+      "UsersEstimate": 5169
     },
     {
       "ID": "15",
@@ -8245,7 +8250,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5168
+      "UsersEstimate": 5169
     },
     {
       "ID": "16",
@@ -8357,7 +8362,7 @@
       "Name": "Sound and Fury",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7465
+      "UsersEstimate": 7466
     },
     {
       "ID": "30",
@@ -8365,7 +8370,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5168
+      "UsersEstimate": 5169
     },
     {
       "ID": "31",
@@ -8381,7 +8386,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14931
+      "UsersEstimate": 14932
     },
     {
       "ID": "33",
@@ -8397,7 +8402,7 @@
       "Name": "Energized!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5168
+      "UsersEstimate": 5169
     },
     {
       "ID": "35",
@@ -8405,7 +8410,7 @@
       "Name": "Let There Be Light",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 15505
+      "UsersEstimate": 15506
     },
     {
       "ID": "36",
@@ -8493,7 +8498,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 7465
+      "UsersEstimate": 7466
     },
     {
       "ID": "47",
@@ -8668,21 +8673,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57426,
+      "Progressed": 57429,
       "Completed": 58
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20894,
+      "Progressed": 20897,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-16T17:02:31.7939854+00:00",
+  "LastChanged_Achievements": "2023-07-16T18:02:37.1539255+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:10.5196415+00:00",
-  "LastUpdate_Ratings": "2023-07-16T16:57:48.814926+00:00",
-  "LastUpdate_Achievements": "2023-07-16T17:02:31.7941014+00:00"
+  "LastUpdate_Ratings": "2023-07-16T17:58:03.5857249+00:00",
+  "LastUpdate_Achievements": "2023-07-16T18:02:37.1540167+00:00"
 }

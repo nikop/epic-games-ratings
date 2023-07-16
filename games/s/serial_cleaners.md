@@ -7,30 +7,30 @@
 | Clean Conscience | 22.00% | ~46 |
 | So it goes | 21.00% | ~44 |
 | A New Broom Sweeps Clean | 11.00% | ~23 |
-| Off to a Good Start | 10.00% | ~21 |
 | Small-time Finder | 10.00% | ~21 |
+| Off to a Good Start | 9.00% | ~19 |
 | Business as usual | 8.00% | ~17 |
 | Pride and Joy | 6.00% | ~13 |
 | Eyes Yet To Open | 6.00% | ~13 |
 | Mr. Hygeni | 6.00% | ~13 |
-| Hackathon | 5.00% | ~10 |
+| Hackathon | 5.00% | ~11 |
 | Total Recall | 4.00% | ~8 |
 | The Wing and the Thigh | 4.00% | ~8 |
 | All the Stories | 3.00% | ~6 |
 | Something Rotten | 3.00% | ~6 |
 | Witness Protection | 3.00% | ~6 |
-| Blood Capade | 1.00% | ~2 |
-| Crazy SOB, You Did It | 1.00% | ~1 |
 | The Crush And Smash The Dino Four | 1.00% | ~1 |
 | … Women Inherit The Earth | 1.00% | ~1 |
-| Bee Squat | 1.00% | ~2 |
-| The Germophobes | 1.00% | ~2 |
+| Blood Capade | 0.90% | ~2 |
+| Crazy SOB, You Did It | 0.90% | ~1 |
+| Bee Squat | 0.90% | ~2 |
+| The Germophobes | 0.90% | ~2 |
 | Do-you-think-he-saurus | 0.50% | ~0 |
 | Cha Cha Real Smooth | 0.50% | ~0 |
 | That’s One Big Pile | 0.50% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210 (Ranked 264)  
-Completed: 6 (2.86%) (Ranked 61)  
+Progressed: 211 (Ranked 263)  
+Completed: 6 (2.84%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -65,6 +65,7 @@ Completed: 6 (2.86%) (Ranked 61)
 | 2023-07-04 | 209 | 5 |
 | 2023-07-05 | 209 | 6 |
 | 2023-07-06 | 210 | 6 |
+| 2023-07-16 | 211 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

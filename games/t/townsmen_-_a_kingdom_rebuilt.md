@@ -30,13 +30,13 @@ Number of Ratings: 37  (23.09.2022)
 | I like to build stuff... III | 4.00% | ~167 |
 | The King's new clothes I | 4.00% | ~167 |
 | Builder II | 4.00% | ~167 |
+| An honorable Governor II | 4.00% | ~167 |
 | Tax-man III | 4.00% | ~167 |
 | Conflicting parties | 4.00% | ~167 |
 | Another one bites the dust | 3.00% | ~125 |
 | I like to build stuff... IV | 3.00% | ~125 |
 | Experienced decorator | 3.00% | ~125 |
 | My precious... I | 3.00% | ~125 |
-| An honorable Governor II | 3.00% | ~125 |
 | Full-time job III | 3.00% | ~125 |
 | Tax-man IV | 3.00% | ~125 |
 | A time consuming game III | 3.00% | ~125 |
@@ -71,7 +71,7 @@ Number of Ratings: 37  (23.09.2022)
 | Tax-man V | 1.00% | ~42 |
 | A time consuming game V | 1.00% | ~42 |
 | I've been everywhere II | 0.90% | ~38 |
-| When there's fire... | 0.70% | ~29 |
+| When there's fire... | 0.80% | ~33 |
 | Last man standing | 0.70% | ~29 |
 | Ten-Hut! | 0.70% | ~29 |
 | I've been everywhere VI | 0.70% | ~29 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,182 (Ranked 142)  
+Progressed: 4,183 (Ranked 142)  
 Completed: 3 (0.07%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,6 +157,7 @@ Completed: 3 (0.07%) (Ranked 195)
 | 2023-07-10 | 4,180 | 3 |
 | 2023-07-13 | 4,181 | 3 |
 | 2023-07-14 | 4,182 | 3 |
+| 2023-07-16 | 4,183 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

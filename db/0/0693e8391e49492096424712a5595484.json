@@ -292,9 +292,9 @@
       "ID": "BearPistol",
       "SetID": "db30heh",
       "Name": "Ouch!",
-      "Percentage": 58,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "BearPoppiesBroth",
@@ -364,17 +364,17 @@
       "ID": "DevilPriest",
       "SetID": "db30heh",
       "Name": "Deal with the Devil",
-      "Percentage": 71,
+      "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "DevilRope",
       "SetID": "db30heh",
       "Name": "The Devil is My Friend",
-      "Percentage": 73,
+      "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "Drunkard",
@@ -468,9 +468,9 @@
       "ID": "PitSoul",
       "SetID": "db30heh",
       "Name": "Your Soul Is Mine",
-      "Percentage": 42,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "PriestBroom",
@@ -484,9 +484,9 @@
       "ID": "PriestPistol",
       "SetID": "db30heh",
       "Name": "Unexpected Hit",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "PriestPoppiesBroth",
@@ -516,9 +516,9 @@
       "ID": "Priestess",
       "SetID": "db30heh",
       "Name": "Blessed",
-      "Percentage": 60,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "PrincessThrone",
@@ -532,9 +532,9 @@
       "ID": "RogueChest",
       "SetID": "db30heh",
       "Name": "Treasure Chest",
-      "Percentage": 62,
+      "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "RogueEat",
@@ -596,9 +596,9 @@
       "ID": "SwordDiamond",
       "SetID": "db30heh",
       "Name": "Precious Barter",
-      "Percentage": 53,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "SwordMoneyBag",
@@ -627,8 +627,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-07-16T17:05:10.3872961+00:00",
+  "LastChanged_Achievements": "2023-07-16T18:05:52.1929252+00:00",
   "LastUpdate_AppInfo": "2023-07-11T13:57:04.2895706+00:00",
-  "LastUpdate_Ratings": "2023-07-16T16:57:02.3705976+00:00",
-  "LastUpdate_Achievements": "2023-07-16T17:05:10.3873379+00:00"
+  "LastUpdate_Ratings": "2023-07-16T17:57:09.3582983+00:00",
+  "LastUpdate_Achievements": "2023-07-16T18:05:52.1929565+00:00"
 }

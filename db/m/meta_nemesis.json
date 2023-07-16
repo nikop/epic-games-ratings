@@ -4,7 +4,7 @@
   "ProductSlug": "meta-nemesis-0b3428",
   "Ranking_EOS_Progress": 495,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-15T03:23:33.2285394+00:00",
-  "LastUpdate_Ratings": "2023-07-16T16:58:41.2487468+00:00",
-  "LastUpdate_Achievements": "2023-07-16T17:04:13.7191928+00:00"
+  "LastUpdate_Ratings": "2023-07-16T17:59:08.998575+00:00",
+  "LastUpdate_Achievements": "2023-07-16T18:04:40.8634234+00:00"
 }

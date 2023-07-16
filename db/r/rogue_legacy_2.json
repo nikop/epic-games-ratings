@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1275,9 +1275,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 22499,
+  "EOS_Progressed": 22500,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -5400,6 +5400,11 @@
       "Time": "2023-07-16T17:06:21.5409452+00:00",
       "NumProgressed": 22499,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-07-16T18:07:21.6786587+00:00",
+      "NumProgressed": 22500,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -5459,7 +5464,7 @@
       "Name": "Looks Familiar",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "BossBridgeAdvancedDefeated",
@@ -5467,7 +5472,7 @@
       "Name": "For Justice",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "BossBridgeDefeated",
@@ -5507,7 +5512,7 @@
       "Name": "Hands and Hammers",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "BossFinalAdvancedDefeated",
@@ -5587,7 +5592,7 @@
       "Name": "Suns and Soldiers",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "BoxerBoss",
@@ -5603,7 +5608,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "EndTimerFail",
@@ -5659,7 +5664,7 @@
       "Name": "Good Boy!",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "PrequelReveal",
@@ -5722,21 +5727,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 22499,
+      "Progressed": 22500,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 1429,
+      "Progressed": 1430,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-07-15T19:00:38.6035018+00:00",
-  "LastChanged_Achievements": "2023-07-16T17:06:21.5409443+00:00",
+  "LastChanged_Achievements": "2023-07-16T18:07:21.6786582+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:08.5902435+00:00",
-  "LastUpdate_Ratings": "2023-07-16T16:59:18.5801419+00:00",
-  "LastUpdate_Achievements": "2023-07-16T17:06:21.5410016+00:00"
+  "LastUpdate_Ratings": "2023-07-16T17:59:46.4680549+00:00",
+  "LastUpdate_Achievements": "2023-07-16T18:07:21.6787028+00:00"
 }
