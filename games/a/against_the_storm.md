@@ -12,7 +12,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | First Real Expedition | 3.00% | ~475 |
 | Overcoming Difficulty | 3.00% | ~475 |
 | Fertile Meadows | 3.00% | ~475 |
-| Lost Colonies | 3.00% | ~475 |
 | Coral Forest | 3.00% | ~475 |
 | The Scarlet Orchard | 3.00% | ~475 |
 | Homesick | 2.00% | ~317 |
@@ -28,6 +27,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Flooded Mines | 2.00% | ~317 |
 | Monastery of the Holy Flame | 2.00% | ~317 |
 | Royal Outpost | 2.00% | ~317 |
+| Lost Colonies | 2.00% | ~317 |
 | Statue of the Forefathers | 2.00% | ~317 |
 | Corrosive Torrent | 2.00% | ~317 |
 | Watchtower | 2.00% | ~317 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~16 |
 | Higher Needs | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,840 (Ranked 108)  
+Progressed: 15,841 (Ranked 108)  
 Completed: 40 (0.25%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 40 (0.25%) (Ranked 155)
 | 2023-07-13 | 15,801 | 40 |
 | 2023-07-14 | 15,816 | 40 |
 | 2023-07-15 | 15,838 | 40 |
-| 2023-07-16 | 15,840 | 40 |
+| 2023-07-16 | 15,841 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 418  (Ranked 203)  
 Sum: 3,068 (Ranked 157)  

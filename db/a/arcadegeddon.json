@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
@@ -751,9 +751,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 7644,
+  "EOS_Progressed": 7645,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5546,6 +5546,11 @@
       "Time": "2023-07-16T05:07:23.277283+00:00",
       "NumProgressed": 7644,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-16T06:07:39.9585034+00:00",
+      "NumProgressed": 7645,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -5557,7 +5562,7 @@
       "Name": "Adventure Time",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 6115
+      "UsersEstimate": 6116
     },
     {
       "ID": "ACH_BOOTY_BASHING",
@@ -5565,7 +5570,7 @@
       "Name": "Booty Bashing",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 3210
+      "UsersEstimate": 3211
     },
     {
       "ID": "ACH_BOSS_OF_BOSSES",
@@ -5589,7 +5594,7 @@
       "Name": "Coup d\u0027Etat",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 4510
+      "UsersEstimate": 4511
     },
     {
       "ID": "ACH_EVENT_HORIZON",
@@ -5637,7 +5642,7 @@
       "Name": "Grey Goo",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1452
+      "UsersEstimate": 1453
     },
     {
       "ID": "ACH_GROUND_CONTROL",
@@ -5653,7 +5658,7 @@
       "Name": "Guardian Angel",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 2293
+      "UsersEstimate": 2294
     },
     {
       "ID": "ACH_GUNPLAY_AND_COSPLAY",
@@ -5661,7 +5666,7 @@
       "Name": "Gunplay And Cosplay",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 4204
+      "UsersEstimate": 4205
     },
     {
       "ID": "ACH_HACKS_IN_STACKS",
@@ -5669,7 +5674,7 @@
       "Name": "Hacks In Stacks",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 4204
+      "UsersEstimate": 4205
     },
     {
       "ID": "ACH_HERE_COMES_A_NEW_CHALLENGER",
@@ -5701,7 +5706,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 7032
+      "UsersEstimate": 7033
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -5757,7 +5762,7 @@
       "Name": "Photogenic",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 6727
+      "UsersEstimate": 6728
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -5765,7 +5770,7 @@
       "Name": "Playing With Power",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 5962
+      "UsersEstimate": 5963
     },
     {
       "ID": "ACH_PLUG_IT_IN",
@@ -5773,7 +5778,7 @@
       "Name": "Plug It In",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 6497
+      "UsersEstimate": 6498
     },
     {
       "ID": "ACH_POPPIN_NOGGINS",
@@ -5861,7 +5866,7 @@
       "Name": "Surge Gauntlet Jockey",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 6574
+      "UsersEstimate": 6575
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_SCHOLAR",
@@ -5956,15 +5961,15 @@
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 7644,
+      "Progressed": 7645,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-07-12T07:58:18.4089531+00:00",
-  "LastChanged_Achievements": "2023-07-16T05:07:23.2772822+00:00",
+  "LastChanged_Achievements": "2023-07-16T06:07:39.9585024+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:16.4116247+00:00",
-  "LastUpdate_Ratings": "2023-07-16T04:59:37.7441497+00:00",
-  "LastUpdate_Achievements": "2023-07-16T05:07:23.2773715+00:00"
+  "LastUpdate_Ratings": "2023-07-16T06:00:04.0351533+00:00",
+  "LastUpdate_Achievements": "2023-07-16T06:07:39.9585889+00:00"
 }

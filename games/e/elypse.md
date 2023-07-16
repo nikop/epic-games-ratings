@@ -9,9 +9,9 @@
 | Pigeon | 82.00% | ~56 |
 | Baited | 71.00% | ~48 |
 | "Swoosh" | 60.00% | ~41 |
-| The light at the end of the tunnel | 57.00% | ~39 |
+| The light at the end of the tunnel | 59.00% | ~40 |
 | Splash! | 56.00% | ~38 |
-| Masochistic | 50.00% | ~34 |
+| Masochistic | 51.00% | ~35 |
 | Soft skin | 44.00% | ~30 |
 | Squid game | 37.00% | ~25 |
 | Sensitive soul | 32.00% | ~22 |

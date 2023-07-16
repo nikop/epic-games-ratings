@@ -5098,9 +5098,9 @@
       "Count": 3707
     }
   ],
-  "EOS_Progressed": 132621,
+  "EOS_Progressed": 132622,
   "EOS_Completed": 118,
-  "EOS_NewPlayers": 455,
+  "EOS_NewPlayers": 454,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -13853,6 +13853,11 @@
       "Time": "2023-07-16T05:03:53.6780244+00:00",
       "NumProgressed": 132621,
       "NumCompleted": 118
+    },
+    {
+      "Time": "2023-07-16T06:04:17.7574131+00:00",
+      "NumProgressed": 132622,
+      "NumCompleted": 118
     }
   ],
   "TotalAchievements": 112,
@@ -13864,7 +13869,7 @@
       "Name": "The Daily Grind",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 59679
+      "UsersEstimate": 59680
     },
     {
       "ID": "advlevel02",
@@ -13968,7 +13973,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 76920
+      "UsersEstimate": 76921
     },
     {
       "ID": "blueprint02",
@@ -13976,7 +13981,7 @@
       "Name": "Research \u0026 Development",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 33155
+      "UsersEstimate": 33156
     },
     {
       "ID": "blueprint03",
@@ -13992,7 +13997,7 @@
       "Name": "Vanity, Verily",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 34481
+      "UsersEstimate": 34482
     },
     {
       "ID": "boss01",
@@ -14000,7 +14005,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 58353
+      "UsersEstimate": 58354
     },
     {
       "ID": "boss02",
@@ -14024,7 +14029,7 @@
       "Name": "Fated Encounters",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 27850
+      "UsersEstimate": 27851
     },
     {
       "ID": "chest01",
@@ -14032,7 +14037,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 128642
+      "UsersEstimate": 128643
     },
     {
       "ID": "chest02",
@@ -14048,7 +14053,7 @@
       "Name": "Booty by the Boatload",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9283
+      "UsersEstimate": 9284
     },
     {
       "ID": "collection01",
@@ -14064,7 +14069,7 @@
       "Name": "Scrapbooker",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 21219
+      "UsersEstimate": 21220
     },
     {
       "ID": "collection03",
@@ -14096,7 +14101,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 119359
+      "UsersEstimate": 119360
     },
     {
       "ID": "commonres02",
@@ -14312,7 +14317,7 @@
       "Name": "A Legend is Born",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9283
+      "UsersEstimate": 9284
     },
     {
       "ID": "fuseuncommon",
@@ -14336,7 +14341,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 114054
+      "UsersEstimate": 114055
     },
     {
       "ID": "gold02",
@@ -14344,7 +14349,7 @@
       "Name": "Pretty Penny",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 75594
+      "UsersEstimate": 75595
     },
     {
       "ID": "gold03",
@@ -14360,7 +14365,7 @@
       "Name": "Royal Ransom",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 27850
+      "UsersEstimate": 27851
     },
     {
       "ID": "gold05",
@@ -14416,7 +14421,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 64984
+      "UsersEstimate": 64985
     },
     {
       "ID": "jackslot02",
@@ -14448,7 +14453,7 @@
       "Name": "Budding Merchant",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 87530
+      "UsersEstimate": 87531
     },
     {
       "ID": "level02",
@@ -14576,7 +14581,7 @@
       "Name": "Did we pack lunch?",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 46417
+      "UsersEstimate": 46418
     },
     {
       "ID": "quest02",
@@ -14616,7 +14621,7 @@
       "Name": "Treasure Trove",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9283
+      "UsersEstimate": 9284
     },
     {
       "ID": "rareres03",
@@ -14680,7 +14685,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 127316
+      "UsersEstimate": 127317
     },
     {
       "ID": "twinenchant01",
@@ -14688,7 +14693,7 @@
       "Name": "Magical Harmony",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 27850
+      "UsersEstimate": 27851
     },
     {
       "ID": "typeunlock01",
@@ -14759,15 +14764,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 132621,
+      "Progressed": 132622,
       "Completed": 118
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-07-15T22:59:00.5924195+00:00",
-  "LastChanged_Achievements": "2023-07-16T05:03:53.6780238+00:00",
+  "LastChanged_Achievements": "2023-07-16T06:04:17.7574123+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:16.2399426+00:00",
-  "LastUpdate_Ratings": "2023-07-16T04:59:38.0948604+00:00",
-  "LastUpdate_Achievements": "2023-07-16T05:03:53.6782713+00:00"
+  "LastUpdate_Ratings": "2023-07-16T06:00:04.6873646+00:00",
+  "LastUpdate_Achievements": "2023-07-16T06:04:17.7576244+00:00"
 }

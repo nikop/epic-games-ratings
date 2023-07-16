@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1275,
+  "EOS_Progressed": 1276,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 417,
   "EOS_NewCompleters": 5,
@@ -1721,6 +1721,11 @@
       "Time": "2023-07-16T05:05:48.4785078+00:00",
       "NumProgressed": 1275,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-07-16T06:06:13.8206+00:00",
+      "NumProgressed": 1276,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 16,
@@ -1764,7 +1769,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "ach_architecture_completed",
@@ -1780,7 +1785,7 @@
       "Name": "Architecture - unlocked",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "ach_bomb",
@@ -1788,7 +1793,7 @@
       "Name": "Cannoneer",
       "Percentage": 27,
       "XP": 65,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ach_color_splash",
@@ -1804,7 +1809,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "ach_food_completed",
@@ -1852,21 +1857,21 @@
       "Name": "Aeolus",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     }
   ],
   "AchievementSets": [
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 1275,
+      "Progressed": 1276,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-07-16T05:05:48.4785073+00:00",
+  "LastChanged_Achievements": "2023-07-16T06:06:13.8205994+00:00",
   "LastUpdate_AppInfo": "2023-07-14T09:57:10.1132461+00:00",
-  "LastUpdate_Ratings": "2023-07-16T04:57:32.0391247+00:00",
-  "LastUpdate_Achievements": "2023-07-16T05:05:48.4785437+00:00"
+  "LastUpdate_Ratings": "2023-07-16T05:57:56.3446977+00:00",
+  "LastUpdate_Achievements": "2023-07-16T06:06:13.8206274+00:00"
 }

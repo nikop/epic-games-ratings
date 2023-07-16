@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1653,
+  "EOS_Progressed": 1654,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4224,6 +4224,11 @@
       "Time": "2023-07-16T05:08:38.9369392+00:00",
       "NumProgressed": 1653,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-16T06:08:56.0863434+00:00",
+      "NumProgressed": 1654,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -4339,7 +4344,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "dragonmaster",
@@ -4347,7 +4352,7 @@
       "Name": "Dragon Master",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "dragonslayer",
@@ -4403,7 +4408,7 @@
       "Name": "Enlightenment",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "exoticmerchant",
@@ -4465,17 +4470,17 @@
       "ID": "guildpower",
       "SetID": "3nl4bcg",
       "Name": "Guild Power",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 413
+      "UsersEstimate": 397
     },
     {
       "ID": "herewegoagain",
       "SetID": "3nl4bcg",
       "Name": "Here We Go Again",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 116
     },
     {
       "ID": "heroinspection",
@@ -4483,7 +4488,7 @@
       "Name": "Hero inspection",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "howdoyouturnthison",
@@ -4531,7 +4536,7 @@
       "Name": "Lieutenant",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "lockandload",
@@ -4571,7 +4576,7 @@
       "Name": "Miner Clicker",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "missionsdedication",
@@ -4627,7 +4632,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "prestigiousx10",
@@ -4795,7 +4800,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1537
+      "UsersEstimate": 1538
     },
     {
       "ID": "warmachinesarmy",
@@ -4827,14 +4832,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1306
+      "UsersEstimate": 1307
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1653,
+      "Progressed": 1654,
       "Completed": 1
     }
   ],
@@ -4842,8 +4847,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-07-16T03:26:23.9449732+00:00",
-  "LastChanged_Achievements": "2023-07-16T05:08:38.9369382+00:00",
+  "LastChanged_Achievements": "2023-07-16T06:08:56.0863429+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:38.4078532+00:00",
-  "LastUpdate_Ratings": "2023-07-16T04:59:06.6494631+00:00",
-  "LastUpdate_Achievements": "2023-07-16T05:08:38.9370345+00:00"
+  "LastUpdate_Ratings": "2023-07-16T05:59:32.254745+00:00",
+  "LastUpdate_Achievements": "2023-07-16T06:08:56.0864453+00:00"
 }

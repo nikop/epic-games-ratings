@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -220,9 +220,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23009,
+  "EOS_Progressed": 23010,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -2200,6 +2200,11 @@
       "Time": "2023-07-16T02:44:03.6550439+00:00",
       "NumProgressed": 23009,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-16T06:08:17.7467323+00:00",
+      "NumProgressed": 23010,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 32,
@@ -2227,7 +2232,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 17717
+      "UsersEstimate": 17718
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -2275,7 +2280,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 17717
+      "UsersEstimate": 17718
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -2315,7 +2320,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 19097
+      "UsersEstimate": 19098
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -2331,7 +2336,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 13115
+      "UsersEstimate": 13116
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -2339,7 +2344,7 @@
       "Name": "First Bounty Down",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 13575
+      "UsersEstimate": 13576
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -2427,7 +2432,7 @@
       "Name": "Seeing All The Sights",
       "Percentage": 16,
       "XP": 45,
-      "UsersEstimate": 3681
+      "UsersEstimate": 3682
     },
     {
       "ID": "ACH_NIPULON_JOKE",
@@ -2466,22 +2471,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 23009,
+      "Progressed": 23010,
       "Completed": 8
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 302,
-      "Completed": 302
+      "Progressed": 303,
+      "Completed": 303
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-07-12T23:58:40.6002161+00:00",
-  "LastChanged_Achievements": "2023-07-16T05:07:50.9276884+00:00",
+  "LastChanged_Achievements": "2023-07-16T06:08:17.7467319+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:35.4235565+00:00",
-  "LastUpdate_Ratings": "2023-07-16T04:59:03.6501294+00:00",
-  "LastUpdate_Achievements": "2023-07-16T05:07:50.9277297+00:00"
+  "LastUpdate_Ratings": "2023-07-16T05:59:28.133443+00:00",
+  "LastUpdate_Achievements": "2023-07-16T06:08:17.7467689+00:00"
 }

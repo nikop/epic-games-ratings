@@ -11,7 +11,7 @@ Rating: 4.43 (Ranked 656)
 | Cleaning Lethe, One Nest At A Time | 65.00% | ~1,892 |
 | Call Me Snake | 60.00% | ~1,746 |
 | Something Lurks Under The Hills | 58.00% | ~1,688 |
-| This Was No Papercut | 56.00% | ~1,630 |
+| This Was No Papercut | 57.00% | ~1,659 |
 | The Shrink Hates Me | 53.00% | ~1,542 |
 | People Person | 52.00% | ~1,513 |
 | Use The Bumper, That's What It's For | 50.00% | ~1,455 |
@@ -22,7 +22,7 @@ Rating: 4.43 (Ranked 656)
 | Making a Stand | 38.00% | ~1,106 |
 | Where It All Begun | 33.00% | ~960 |
 | Recouped Investment | 33.00% | ~960 |
-| Omelette Du Fromage | 30.00% | ~873 |
+| Omelette Du Fromage | 31.00% | ~902 |
 | Living Nightmare | 26.00% | ~757 |
 | The More The Merrier | 26.00% | ~757 |
 | The Darwin Era Was Here | 22.00% | ~640 |

@@ -7,6 +7,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Cursed Farmer | 0.30% | ~636 |
+| The Mad Wizard | 0.30% | ~636 |
 | The Ring of Regeneration | 0.20% | ~424 |
 | The Crumbling Temple | 0.20% | ~424 |
 | Seeking Allies | 0.20% | ~424 |
@@ -16,7 +17,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 0.20% | ~424 |
 | The Contagious Curse | 0.20% | ~424 |
 | Escort to Waterdeep | 0.20% | ~424 |
-| The Mad Wizard | 0.20% | ~424 |
 | Waterdeep Detours | 0.20% | ~424 |
 | Underdeep Cartography | 0.20% | ~424 |
 | Friendly Imps | 0.20% | ~424 |
@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212,115 (Ranked 52)  
+Progressed: 212,134 (Ranked 52)  
 Completed: 2,054 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -601,7 +601,7 @@ Completed: 2,054 (0.97%) (Ranked 102)
 | 2023-07-13 | 211,069 | 2,049 |
 | 2023-07-14 | 211,507 | 2,050 |
 | 2023-07-15 | 212,014 | 2,053 |
-| 2023-07-16 | 212,115 | 2,054 |
+| 2023-07-16 | 212,134 | 2,054 |
 ## Awards
 Max (Diverse Characters): 5,036  (Ranked 66)  
 Sum: 30,535 (Ranked 38)  

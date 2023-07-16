@@ -4,7 +4,7 @@
   "ProductSlug": "elypse-b177a8",
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-05-17T15:00:00+00:00",
@@ -433,9 +433,9 @@
       "ID": "Ach_DeathXTime",
       "SetID": "4o5gjp0",
       "Name": "Masochistic",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "Ach_DiscoveryCatacombes",
@@ -449,9 +449,9 @@
       "ID": "Ach_DiscoveryCaverns",
       "SetID": "4o5gjp0",
       "Name": "The light at the end of the tunnel",
-      "Percentage": 57,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "Ach_DiscoveryCelestialIsland",
@@ -624,8 +624,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-07-16T05:04:13.6848592+00:00",
+  "LastChanged_Achievements": "2023-07-16T06:04:38.1716405+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:39.7150868+00:00",
-  "LastUpdate_Ratings": "2023-07-16T04:59:09.1847384+00:00",
-  "LastUpdate_Achievements": "2023-07-16T05:04:13.6848883+00:00"
+  "LastUpdate_Ratings": "2023-07-16T05:59:33.9925858+00:00",
+  "LastUpdate_Achievements": "2023-07-16T06:04:38.1716654+00:00"
 }

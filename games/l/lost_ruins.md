@@ -9,8 +9,8 @@
 | Bug Hunter | 26.00% | ~104 |
 | Boss Killer | 24.00% | ~96 |
 | The Fallen | 22.00% | ~88 |
-| Artifact Collector | 21.00% | ~84 |
-| Trap Master | 21.00% | ~84 |
+| Artifact Collector | 20.00% | ~80 |
+| Trap Master | 20.00% | ~80 |
 | Ghost Buster | 16.00% | ~64 |
 | Reincarnation | 16.00% | ~64 |
 | Iconoclasm | 15.00% | ~60 |
@@ -19,7 +19,7 @@
 | Orcs Must Die! | 13.00% | ~52 |
 | The End | 13.00% | ~52 |
 | Gladiator | 12.00% | ~48 |
-| Troubleshooter | 12.00% | ~48 |
+| Troubleshooter | 11.00% | ~44 |
 | Money Swag | 8.00% | ~32 |
 | Oops | 7.00% | ~28 |
 | Shield Crusher | 7.00% | ~28 |
@@ -31,21 +31,21 @@
 | Arrive Home | 3.00% | ~12 |
 | Holy Knight | 3.00% | ~12 |
 | Hoarder | 3.00% | ~12 |
-| Marksman | 3.00% | ~12 |
+| Marksman | 2.00% | ~8 |
 | Meat Lover | 2.00% | ~8 |
 | Sling of David | 2.00% | ~8 |
-| Sword Master | 2.00% | ~8 |
-| Witch | 2.00% | ~8 |
 | Assassin | 1.00% | ~4 |
 | Roughneck | 1.00% | ~4 |
 | Rune Master | 1.00% | ~4 |
+| Sword Master | 1.00% | ~4 |
 | Weapon Master | 1.00% | ~4 |
-| Art Collector | 0.30% | ~1 |
-| Cryomancer | 0.30% | ~1 |
-| Hardboiled | 0.30% | ~1 |
-| Necromancer | 0.30% | ~1 |
+| Witch | 1.00% | ~4 |
+| Art Collector | 0.20% | ~1 |
+| Cryomancer | 0.20% | ~1 |
+| Hardboiled | 0.20% | ~1 |
+| Necromancer | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 400 (Ranked 226)  
+Progressed: 401 (Ranked 226)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,6 +98,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-08 | 398 | 0 |
 | 2023-07-09 | 399 | 0 |
 | 2023-07-11 | 400 | 0 |
+| 2023-07-16 | 401 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

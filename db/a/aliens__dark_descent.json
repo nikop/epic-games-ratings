@@ -144,7 +144,7 @@
   "Tags": [],
   "EOS_Progressed": 2910,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2694,9 +2694,9 @@
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
       "SetID": "816efe",
       "Name": "Omelette Du Fromage",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 873
+      "UsersEstimate": 902
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -2958,9 +2958,9 @@
       "ID": "ACH_SAVE_MARINE_BLEEDING",
       "SetID": "816efe",
       "Name": "This Was No Papercut",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1630
+      "UsersEstimate": 1659
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -3015,8 +3015,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-14T17:59:53.4622787+00:00",
-  "LastChanged_Achievements": "2023-07-16T05:08:34.4066761+00:00",
+  "LastChanged_Achievements": "2023-07-16T06:08:51.6823175+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:18.2957495+00:00",
-  "LastUpdate_Ratings": "2023-07-16T05:00:58.4137984+00:00",
-  "LastUpdate_Achievements": "2023-07-16T05:08:34.4067362+00:00"
+  "LastUpdate_Ratings": "2023-07-16T06:01:26.1049029+00:00",
+  "LastUpdate_Achievements": "2023-07-16T06:08:51.6824654+00:00"
 }
