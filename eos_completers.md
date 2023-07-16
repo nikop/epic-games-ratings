@@ -16,11 +16,11 @@
 | 14 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 13.79% |
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.02% |
-| 17 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.01% |
+| 17 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.98% |
 | 18 | [Remains](games/r/remains.md) | 11.63% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.11% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.40% |
+| 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.33% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 23 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.56% |
 | 24 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
@@ -106,7 +106,7 @@
 | 104 | [Adios](games/a/adios.md) | 0.96% |
 | 105 | [Hades](games/h/hades.md) | 0.89% |
 | 106 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
-| 107 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
+| 107 | [Dungeons 3](games/d/dungeons_3.md) | 0.84% |
 | 108 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.78% |
 | 109 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
 | 109 | [Lemon Cake](games/l/lemon_cake.md) | 0.76% |
