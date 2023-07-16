@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 495,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2020-06-11T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -8529,10 +8529,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 240530,
       "NumberOfAwardsMax": 59013
+    },
+    {
+      "Time": "2023-07-16T06:59:51.8747629+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 240544,
+      "NumberOfAwardsMax": 59013
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 240530,
+  "NumberOfAwards": 240544,
   "NumberOfAwardsMax": 59013,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8558,7 +8564,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 20410
+      "Count": 20424
     },
     {
       "Text": "This game is Educational",
@@ -8620,8 +8626,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
-  "LastChanged": "2023-07-16T04:59:46.4467535+00:00",
+  "LastChanged": "2023-07-16T06:59:51.8747627+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:23.9652263+00:00",
-  "LastUpdate_Ratings": "2023-07-16T06:00:15.0125472+00:00",
-  "LastUpdate_Achievements": "2023-07-16T06:07:42.0640156+00:00"
+  "LastUpdate_Ratings": "2023-07-16T06:59:51.8747634+00:00",
+  "LastUpdate_Achievements": "2023-07-16T07:07:30.1039232+00:00"
 }

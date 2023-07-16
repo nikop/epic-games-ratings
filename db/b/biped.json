@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4200,
+  "EOS_Progressed": 4203,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 248,
+  "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6271,6 +6271,11 @@
       "Time": "2023-07-16T02:44:30.778539+00:00",
       "NumProgressed": 4200,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-16T07:08:35.2194836+00:00",
+      "NumProgressed": 4203,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -6282,7 +6287,7 @@
       "Name": "First Step",
       "Percentage": 38,
       "XP": 45,
-      "UsersEstimate": 1596
+      "UsersEstimate": 1597
     },
     {
       "ID": "10",
@@ -6338,15 +6343,15 @@
       "Name": "Dense Forest",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1344
+      "UsersEstimate": 1345
     },
     {
       "ID": "3",
       "SetID": "1dkhij4",
       "Name": "Cactus Vally",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 1008
+      "UsersEstimate": 967
     },
     {
       "ID": "4",
@@ -6384,9 +6389,9 @@
       "ID": "8",
       "SetID": "1dkhij4",
       "Name": "Sunset Ridge",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 168
+      "UsersEstimate": 126
     },
     {
       "ID": "9",
@@ -6401,7 +6406,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 4200,
+      "Progressed": 4203,
       "Completed": 0
     }
   ],
@@ -6409,8 +6414,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-07-16T06:08:48.3179134+00:00",
+  "LastChanged_Achievements": "2023-07-16T07:08:35.2194829+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:39.4549072+00:00",
-  "LastUpdate_Ratings": "2023-07-16T05:59:32.2497753+00:00",
-  "LastUpdate_Achievements": "2023-07-16T06:08:48.3179649+00:00"
+  "LastUpdate_Ratings": "2023-07-16T06:59:05.4550707+00:00",
+  "LastUpdate_Achievements": "2023-07-16T07:08:35.2195445+00:00"
 }

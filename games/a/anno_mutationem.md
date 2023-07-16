@@ -9,7 +9,7 @@ Rating: 4.56 (Ranked 457)
 | Don't judge a manhole by its cover | 60.00% | ~389 |
 | I just love stuff! | 42.00% | ~273 |
 | Keep 'em coming! | 42.00% | ~273 |
-| Big Spender | 38.00% | ~247 |
+| Big Spender | 39.00% | ~253 |
 | The things they print nowadays | 38.00% | ~247 |
 | That's gotta hurt | 36.00% | ~234 |
 | The Ann Flores Combo Experience | 26.00% | ~169 |

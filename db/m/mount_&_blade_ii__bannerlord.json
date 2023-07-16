@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -5619,7 +5619,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 55840,
+  "EOS_Progressed": 55842,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 496,
   "EOS_NewCompleters": 0,
@@ -14579,6 +14579,11 @@
       "Time": "2023-07-16T06:08:56.4234316+00:00",
       "NumProgressed": 55840,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-16T07:08:43.4297857+00:00",
+      "NumProgressed": 55842,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -14590,7 +14595,7 @@
       "Name": "Against all odds",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6142
+      "UsersEstimate": 6143
     },
     {
       "ID": "Apple of my eye",
@@ -14782,7 +14787,7 @@
       "Name": "King Solomon",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 8934
+      "UsersEstimate": 8935
     },
     {
       "ID": "Kingslayer",
@@ -14798,7 +14803,7 @@
       "Name": "Know your enemy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3350
+      "UsersEstimate": 3351
     },
     {
       "ID": "Lance-a-lot",
@@ -14814,7 +14819,7 @@
       "Name": "Landlord",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 17310
+      "UsersEstimate": 17311
     },
     {
       "ID": "Lawbringer",
@@ -14822,7 +14827,7 @@
       "Name": "Lawbringer",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 20661
+      "UsersEstimate": 20662
     },
     {
       "ID": "Lawmaker",
@@ -14966,7 +14971,7 @@
       "Name": "Trained",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 11726
+      "UsersEstimate": 11727
     },
     {
       "ID": "Undercover",
@@ -14997,15 +15002,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 55840,
+      "Progressed": 55842,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-07-15T20:00:13.8856457+00:00",
-  "LastChanged_Achievements": "2023-07-16T06:08:56.423431+00:00",
+  "LastChanged_Achievements": "2023-07-16T07:08:43.4297848+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:48.1005966+00:00",
-  "LastUpdate_Ratings": "2023-07-16T06:02:05.7076829+00:00",
-  "LastUpdate_Achievements": "2023-07-16T06:08:56.4235468+00:00"
+  "LastUpdate_Ratings": "2023-07-16T07:01:54.2395272+00:00",
+  "LastUpdate_Achievements": "2023-07-16T07:08:43.429894+00:00"
 }

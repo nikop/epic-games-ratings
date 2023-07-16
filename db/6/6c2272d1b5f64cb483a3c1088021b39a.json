@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -2721,9 +2721,9 @@
       "ID": "sophisticated_alchemist_2",
       "SetID": "53c1p3k",
       "Name": "Sophisticated Alchemist 2",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "sophisticated_alchemist_3",
@@ -2840,8 +2840,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-07-16T06:05:28.1017908+00:00",
+  "LastChanged_Achievements": "2023-07-16T07:05:19.3311251+00:00",
   "LastUpdate_AppInfo": "2023-07-11T03:11:42.9317837+00:00",
-  "LastUpdate_Ratings": "2023-07-16T05:57:55.5727701+00:00",
-  "LastUpdate_Achievements": "2023-07-16T06:05:28.1018667+00:00"
+  "LastUpdate_Ratings": "2023-07-16T06:57:20.1993889+00:00",
+  "LastUpdate_Achievements": "2023-07-16T07:05:19.3312057+00:00"
 }

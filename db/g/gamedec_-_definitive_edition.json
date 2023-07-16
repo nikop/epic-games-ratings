@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 49,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -366,9 +366,9 @@
       "Count": 74
     }
   ],
-  "EOS_Progressed": 237426,
+  "EOS_Progressed": 237434,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1119,
+  "EOS_NewPlayers": 1123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9731,6 +9731,11 @@
       "Time": "2023-07-16T06:05:03.1897546+00:00",
       "NumProgressed": 237426,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-07-16T07:04:54.8236805+00:00",
+      "NumProgressed": 237434,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -9742,7 +9747,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 64105
+      "UsersEstimate": 64107
     },
     {
       "ID": "ACH_AON",
@@ -9782,7 +9787,7 @@
       "Name": "Collector",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 26117
+      "UsersEstimate": 26118
     },
     {
       "ID": "ACH_ENJOY",
@@ -9806,7 +9811,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 28491
+      "UsersEstimate": 28492
     },
     {
       "ID": "ACH_HATTRICK",
@@ -9822,7 +9827,7 @@
       "Name": "Elementary!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 21368
+      "UsersEstimate": 21369
     },
     {
       "ID": "ACH_HIDEANDSEEK",
@@ -9886,7 +9891,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 66479
+      "UsersEstimate": 66482
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -9958,7 +9963,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 56982
+      "UsersEstimate": 56984
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -9974,7 +9979,7 @@
       "Name": "Good listener",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 11871
+      "UsersEstimate": 11872
     },
     {
       "ID": "ACH_LETSOTHERTHINKING",
@@ -10054,7 +10059,7 @@
       "Name": "Pumpkin Jack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 18994
+      "UsersEstimate": 18995
     },
     {
       "ID": "ACH_SCRATCH",
@@ -10062,7 +10067,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 59356
+      "UsersEstimate": 59358
     },
     {
       "ID": "ACH_SOREAD",
@@ -10110,7 +10115,7 @@
       "Name": "Trash compactor",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11871
+      "UsersEstimate": 11872
     },
     {
       "ID": "ACH_TROLLKING",
@@ -10126,7 +10131,7 @@
       "Name": "Valedictorian",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 11871
+      "UsersEstimate": 11872
     },
     {
       "ID": "ACH_WAKEUP",
@@ -10134,7 +10139,7 @@
       "Name": "Wake up!",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 18994
+      "UsersEstimate": 18995
     },
     {
       "ID": "ACH_WELLDESERVED",
@@ -10157,7 +10162,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 237426,
+      "Progressed": 237434,
       "Completed": 7
     }
   ],
@@ -10165,8 +10170,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-07-15T02:24:18.1654153+00:00",
-  "LastChanged_Achievements": "2023-07-16T06:05:03.189754+00:00",
+  "LastChanged_Achievements": "2023-07-16T07:04:54.8236798+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:33.5195564+00:00",
-  "LastUpdate_Ratings": "2023-07-16T05:59:23.1090011+00:00",
-  "LastUpdate_Achievements": "2023-07-16T06:05:03.1898669+00:00"
+  "LastUpdate_Ratings": "2023-07-16T06:58:59.4243148+00:00",
+  "LastUpdate_Achievements": "2023-07-16T07:04:54.8238046+00:00"
 }

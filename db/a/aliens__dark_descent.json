@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -142,9 +142,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2910,
+  "EOS_Progressed": 2911,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2637,6 +2637,11 @@
       "Time": "2023-07-16T05:08:34.4066766+00:00",
       "NumProgressed": 2910,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-16T07:08:38.5692447+00:00",
+      "NumProgressed": 2911,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2664,7 +2669,7 @@
       "Name": "One For Every Occasion",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "ACH_ALL_XENO_TECHS",
@@ -2680,7 +2685,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1456
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -2744,7 +2749,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 2095
+      "UsersEstimate": 2096
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -2760,7 +2765,7 @@
       "Name": "Call Me Snake",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1746
+      "UsersEstimate": 1747
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -2808,7 +2813,7 @@
       "Name": "Bandage Lover",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "ACH_MAX_RECON",
@@ -2816,7 +2821,7 @@
       "Name": "Frontliner",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "ACH_MAX_SERGEANT",
@@ -2832,7 +2837,7 @@
       "Name": "The Cable Guy",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "ACH_MISSION_01",
@@ -2872,7 +2877,7 @@
       "Name": "Where It All Begun",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "ACH_MISSION_06",
@@ -2920,7 +2925,7 @@
       "Name": "Excavating The Truth",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "ACH_MISSION_12",
@@ -2944,7 +2949,7 @@
       "Name": "Snatched Out",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 2124
+      "UsersEstimate": 2125
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -2952,7 +2957,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 2357
+      "UsersEstimate": 2358
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -2968,7 +2973,7 @@
       "Name": "People Person",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 1513
+      "UsersEstimate": 1514
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -2984,7 +2989,7 @@
       "Name": "Recouped Investment",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -3000,14 +3005,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1542
+      "UsersEstimate": 1543
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 2910,
+      "Progressed": 2911,
       "Completed": 0
     }
   ],
@@ -3015,8 +3020,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-14T17:59:53.4622787+00:00",
-  "LastChanged_Achievements": "2023-07-16T06:08:51.6823175+00:00",
+  "LastChanged_Achievements": "2023-07-16T07:08:38.5692441+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:18.2957495+00:00",
-  "LastUpdate_Ratings": "2023-07-16T06:01:26.1049029+00:00",
-  "LastUpdate_Achievements": "2023-07-16T06:08:51.6824654+00:00"
+  "LastUpdate_Ratings": "2023-07-16T07:01:12.6616202+00:00",
+  "LastUpdate_Achievements": "2023-07-16T07:08:38.5693092+00:00"
 }

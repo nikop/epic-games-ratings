@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 548,
+  "EOS_Progressed": 549,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1205,6 +1205,11 @@
       "Time": "2023-07-15T22:07:55.861676+00:00",
       "NumProgressed": 548,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-16T07:08:40.177471+00:00",
+      "NumProgressed": 549,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1238,9 +1243,9 @@
       "ID": "CompleteSmile",
       "SetID": "2aagp3d",
       "Name": "Dental maturity",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 104
     },
     {
       "ID": "DevilDetail",
@@ -1432,7 +1437,7 @@
       "Name": "Tooth fairy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "Toxic",
@@ -1471,7 +1476,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 548,
+      "Progressed": 549,
       "Completed": 1
     }
   ],
@@ -1479,8 +1484,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-07-16T06:08:53.2765493+00:00",
+  "LastChanged_Achievements": "2023-07-16T07:08:40.1774704+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:28.36471+00:00",
-  "LastUpdate_Ratings": "2023-07-16T05:59:18.5092179+00:00",
-  "LastUpdate_Achievements": "2023-07-16T06:08:53.2766185+00:00"
+  "LastUpdate_Ratings": "2023-07-16T06:58:52.4774805+00:00",
+  "LastUpdate_Achievements": "2023-07-16T07:08:40.1775071+00:00"
 }

@@ -12,6 +12,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | First Real Expedition | 3.00% | ~475 |
 | Overcoming Difficulty | 3.00% | ~475 |
 | Fertile Meadows | 3.00% | ~475 |
+| Lost Colonies | 3.00% | ~475 |
 | Coral Forest | 3.00% | ~475 |
 | The Scarlet Orchard | 3.00% | ~475 |
 | Homesick | 2.00% | ~317 |
@@ -27,7 +28,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Flooded Mines | 2.00% | ~317 |
 | Monastery of the Holy Flame | 2.00% | ~317 |
 | Royal Outpost | 2.00% | ~317 |
-| Lost Colonies | 2.00% | ~317 |
 | Statue of the Forefathers | 2.00% | ~317 |
 | Corrosive Torrent | 2.00% | ~317 |
 | Watchtower | 2.00% | ~317 |

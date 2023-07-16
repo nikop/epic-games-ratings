@@ -5,30 +5,30 @@ Rating: 4.77 (Ranked 108)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 12.00% | ~34,518 |
-| First Class Student | 10.00% | ~28,765 |
-| Troll with the Punches | 10.00% | ~28,765 |
+| The Sort Who Makes an Entrance | 12.00% | ~34,519 |
+| First Class Student | 10.00% | ~28,766 |
+| Troll with the Punches | 10.00% | ~28,766 |
 | A Keen Sense of Spell | 9.00% | ~25,889 |
 | That's a Keeper | 9.00% | ~25,889 |
-| Grappling with a Graphorn | 8.00% | ~23,012 |
-| The One Who Mastered Memories | 8.00% | ~23,012 |
-| The Hallowed Hero | 8.00% | ~23,012 |
-| The Hero of Hogwarts | 8.00% | ~23,012 |
-| The Defender of Dragons | 8.00% | ~23,012 |
-| Challenge Accepted | 8.00% | ~23,012 |
-| Loom for Improvement | 8.00% | ~23,012 |
-| A Talent for Spending | 8.00% | ~23,012 |
-| Coasting Along | 8.00% | ~23,012 |
+| Grappling with a Graphorn | 8.00% | ~23,013 |
+| The One Who Mastered Memories | 8.00% | ~23,013 |
+| The Hallowed Hero | 8.00% | ~23,013 |
+| The Hero of Hogwarts | 8.00% | ~23,013 |
+| The Defender of Dragons | 8.00% | ~23,013 |
+| Challenge Accepted | 8.00% | ~23,013 |
+| Loom for Improvement | 8.00% | ~23,013 |
+| A Talent for Spending | 8.00% | ~23,013 |
+| Coasting Along | 8.00% | ~23,013 |
 | Followed the Butterflies | 7.00% | ~20,136 |
 | The Spell Master | 7.00% | ~20,136 |
 | Rising From the Ashes | 7.00% | ~20,136 |
-| The Avenging Gazelle | 6.00% | ~17,259 |
-| Beast Friends | 6.00% | ~17,259 |
-| A Sallow Grave | 6.00% | ~17,259 |
-| Flight the Good Flight | 6.00% | ~17,259 |
+| The Avenging Gazelle | 6.00% | ~17,260 |
+| Beast Friends | 6.00% | ~17,260 |
+| A Sallow Grave | 6.00% | ~17,260 |
+| Flight the Good Flight | 6.00% | ~17,260 |
 | The Seeker of Knowledge | 5.00% | ~14,383 |
+| The Root of the Problem | 5.00% | ~14,383 |
 | Raising Expectations | 5.00% | ~14,383 |
-| The Root of the Problem | 4.00% | ~11,506 |
 | Third Time's a Charm | 4.00% | ~11,506 |
 | The Ends Petrify the Means | 4.00% | ~11,506 |
 | The Toast of the Town | 3.00% | ~8,630 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.50% | ~1,438 |
 | Collector's Edition | 0.20% | ~575 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 287,654 (Ranked 41)  
+Progressed: 287,660 (Ranked 41)  
 Completed: 429 (0.15%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 429 (0.15%) (Ranked 173)
 | 2023-07-13 | 287,362 | 425 |
 | 2023-07-14 | 287,497 | 426 |
 | 2023-07-15 | 287,613 | 428 |
-| 2023-07-16 | 287,654 | 429 |
+| 2023-07-16 | 287,660 | 429 |
 ## Awards
 Max (Character Customization): 21,005  (Ranked 17)  
 Sum: 39,273 (Ranked 30)  

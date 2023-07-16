@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -243,9 +243,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1835,
+  "EOS_Progressed": 1836,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -1563,6 +1563,11 @@
       "Time": "2023-07-15T11:02:29.4474028+00:00",
       "NumProgressed": 1835,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-16T07:03:46.0460824+00:00",
+      "NumProgressed": 1836,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -1582,7 +1587,7 @@
       "Name": "Jailbreak",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1211
+      "UsersEstimate": 1212
     },
     {
       "ID": "ACHV_03",
@@ -1598,7 +1603,7 @@
       "Name": "Overheated",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "ACHV_05",
@@ -1662,7 +1667,7 @@
       "Name": "Reverse Engineering",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ACHV_13",
@@ -1710,7 +1715,7 @@
       "Name": "True Survivor",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "ACHV_19",
@@ -1750,7 +1755,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "ACHV_24",
@@ -1774,7 +1779,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1468
+      "UsersEstimate": 1469
     },
     {
       "ID": "ACHV_27",
@@ -1782,7 +1787,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "ACHV_28",
@@ -1860,9 +1865,9 @@
       "ID": "ACHV_37",
       "SetID": "8p5mlmc",
       "Name": "Luminary",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 422
+      "UsersEstimate": 404
     },
     {
       "ID": "ACHV_38",
@@ -1878,7 +1883,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1413
+      "UsersEstimate": 1414
     },
     {
       "ID": "ACHV_40",
@@ -2029,7 +2034,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1835,
+      "Progressed": 1836,
       "Completed": 10
     }
   ],
@@ -2037,8 +2042,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-07-03T18:02:00.1101593+00:00",
-  "LastChanged_Achievements": "2023-07-16T06:03:54.4927722+00:00",
+  "LastChanged_Achievements": "2023-07-16T07:03:46.0460817+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:33.6967662+00:00",
-  "LastUpdate_Ratings": "2023-07-16T06:03:02.3511726+00:00",
-  "LastUpdate_Achievements": "2023-07-16T06:03:54.4928461+00:00"
+  "LastUpdate_Ratings": "2023-07-16T07:02:52.0197369+00:00",
+  "LastUpdate_Achievements": "2023-07-16T07:03:46.0461565+00:00"
 }

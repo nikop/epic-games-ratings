@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 13,
   "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
     "PcReleaseDate": "2022-07-14T11:30:00+00:00",
@@ -225,9 +225,9 @@
       "ID": "BADGE_BOSS_8_KILL",
       "SetID": "ak6pfjk",
       "Name": "Dwarven Countdown",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 49
     },
     {
       "ID": "BADGE_BRILLIANT_DAY",
@@ -594,8 +594,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-07-16T06:03:39.5512374+00:00",
+  "LastChanged_Achievements": "2023-07-16T07:03:31.2940579+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:31.1823722+00:00",
-  "LastUpdate_Ratings": "2023-07-16T06:00:22.1826877+00:00",
-  "LastUpdate_Achievements": "2023-07-16T06:03:39.5512793+00:00"
+  "LastUpdate_Ratings": "2023-07-16T07:00:01.1310628+00:00",
+  "LastUpdate_Achievements": "2023-07-16T07:03:31.2941173+00:00"
 }

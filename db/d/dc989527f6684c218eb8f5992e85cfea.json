@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7223,
+  "EOS_Progressed": 7226,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 816,
+  "EOS_NewPlayers": 815,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3231,6 +3231,11 @@
       "Time": "2023-07-16T06:03:39.7570051+00:00",
       "NumProgressed": 7223,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-16T07:03:31.5352167+00:00",
+      "NumProgressed": 7226,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -3314,7 +3319,7 @@
       "Name": "You tried your best!",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3106
+      "UsersEstimate": 3107
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -3330,7 +3335,7 @@
       "Name": "Facepalm",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1300
+      "UsersEstimate": 1301
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -3434,21 +3439,21 @@
       "Name": "First Sketch",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1300
+      "UsersEstimate": 1301
     }
   ],
   "AchievementSets": [
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 7223,
+      "Progressed": 7226,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-07-16T06:03:39.7570046+00:00",
+  "LastChanged_Achievements": "2023-07-16T07:03:31.5352161+00:00",
   "LastUpdate_AppInfo": "2023-07-14T18:57:14.8780974+00:00",
-  "LastUpdate_Ratings": "2023-07-16T05:57:41.0614132+00:00",
-  "LastUpdate_Achievements": "2023-07-16T06:03:39.7570494+00:00"
+  "LastUpdate_Ratings": "2023-07-16T06:57:06.8648782+00:00",
+  "LastUpdate_Achievements": "2023-07-16T07:03:31.5352604+00:00"
 }
