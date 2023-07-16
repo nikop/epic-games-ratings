@@ -48,8 +48,8 @@
 | 46 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.75% |
 | 47 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.65% |
 | 48 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
-| 49 | [ZZT!](games/z/zzt!.md) | 3.57% |
-| 50 | [Doodle God](games/d/doodle_god.md) | 3.56% |
+| 49 | [Doodle God](games/d/doodle_god.md) | 3.56% |
+| 49 | [ZZT!](games/z/zzt!.md) | 3.56% |
 | 51 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.52% |
 | 52 | [Bunny Park](games/b/bunny_park.md) | 3.42% |
 | 53 | [Monster Harvest](games/m/monster_harvest.md) | 3.38% |
@@ -60,7 +60,7 @@
 | 58 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.02% |
 | 59 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 59 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 61 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.86% |
+| 61 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.84% |
 | 62 | [Destiny 2](games/d/destiny_2.md) | 2.81% |
 | 63 | [The Bunker](games/t/the_bunker.md) | 2.73% |
 | 64 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
@@ -493,4 +493,4 @@
 | 236 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 236 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 236 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,906 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
+| 2,907 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
