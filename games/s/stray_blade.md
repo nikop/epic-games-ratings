@@ -22,6 +22,7 @@
 | Defeat Ingla | 7.00% | ~1 |
 | Defeat Tezuth | 7.00% | ~1 |
 | Defeat Uskol | 7.00% | ~1 |
+| Locked and Loaded | 7.00% | ~1 |
 | Nothing but the Truth | 7.00% | ~1 |
 | Finally! | 7.00% | ~1 |
 | The End | 7.00% | ~1 |
@@ -30,7 +31,6 @@
 | Craftsmen | 0.00% | ~0 |
 | Style over Stats | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |
-| Locked and Loaded | 0.00% | ~0 |
 | Explorer by Heart | 0.00% | ~0 |
 | Mountain Lover | 0.00% | ~0 |
 | Wasteland Connoisseur | 0.00% | ~0 |

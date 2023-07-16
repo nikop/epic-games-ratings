@@ -28,7 +28,7 @@ Number of Ratings: 53  (23.09.2022)
 | Pearly gates | 18.00% | ~132 |
 | My precious! | 17.00% | ~125 |
 | Conquistador | 14.00% | ~103 |
-| Panic buying | 11.00% | ~81 |
+| Panic buying | 12.00% | ~88 |
 | Just a scratch | 9.00% | ~66 |
 | Your vessel, my vessel | 9.00% | ~66 |
 | All mine! | 8.00% | ~59 |

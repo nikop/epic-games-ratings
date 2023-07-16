@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 549,
+  "EOS_Progressed": 550,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1210,6 +1210,11 @@
       "Time": "2023-07-16T07:08:40.177471+00:00",
       "NumProgressed": 549,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-16T22:07:27.2982552+00:00",
+      "NumProgressed": 550,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1229,7 +1234,7 @@
       "Name": "Bad apple",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ChaoticNeutral",
@@ -1261,7 +1266,7 @@
       "Name": "Loremaster",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Extremist",
@@ -1269,7 +1274,7 @@
       "Name": "Devoted",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "EyeSpy",
@@ -1277,7 +1282,7 @@
       "Name": "Sneak peek",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Favourite",
@@ -1293,7 +1298,7 @@
       "Name": "Fishing fanatic",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Goal",
@@ -1309,7 +1314,7 @@
       "Name": "Gold rush",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "GossipGirl",
@@ -1341,7 +1346,7 @@
       "Name": "Liar Liar",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "LittleHelper",
@@ -1365,7 +1370,7 @@
       "Name": "The cycle acknowledged",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "NoMoreWards",
@@ -1373,7 +1378,7 @@
       "Name": "Awards unwarded",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Queen",
@@ -1397,7 +1402,7 @@
       "Name": "Slavic squatter",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Specialist",
@@ -1413,7 +1418,7 @@
       "Name": "Uprooting",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "TheGuardian",
@@ -1421,7 +1426,7 @@
       "Name": "Baba Yaga",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ToadCharming",
@@ -1476,7 +1481,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 549,
+      "Progressed": 550,
       "Completed": 1
     }
   ],
@@ -1484,8 +1489,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-07-16T21:08:05.3513158+00:00",
+  "LastChanged_Achievements": "2023-07-16T22:07:27.2982547+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:28.36471+00:00",
-  "LastUpdate_Ratings": "2023-07-16T20:58:47.6213209+00:00",
-  "LastUpdate_Achievements": "2023-07-16T21:08:05.3513667+00:00"
+  "LastUpdate_Ratings": "2023-07-16T21:58:23.143373+00:00",
+  "LastUpdate_Achievements": "2023-07-16T22:07:27.2982789+00:00"
 }

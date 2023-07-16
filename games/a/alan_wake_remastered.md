@@ -6,26 +6,26 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 34.00% | ~19,529 |
+| Follow the Light | 34.00% | ~19,530 |
 | Let There Be Light | 27.00% | ~15,509 |
-| Float Like a Butterfly | 26.00% | ~14,934 |
-| Nordic Walking | 21.00% | ~12,062 |
-| Bright Falls' Finest | 21.00% | ~12,062 |
-| Under a Thin Layer of Skin | 18.00% | ~10,339 |
+| Float Like a Butterfly | 26.00% | ~14,935 |
+| Nordic Walking | 21.00% | ~12,063 |
+| Bright Falls' Finest | 21.00% | ~12,063 |
+| Under a Thin Layer of Skin | 18.00% | ~10,340 |
 | Park Ranger | 15.00% | ~8,616 |
 | Paging Mr. Wake | 15.00% | ~8,616 |
-| Back! Back, I Say! | 14.00% | ~8,041 |
-| Finders Keepers | 14.00% | ~8,041 |
+| Back! Back, I Say! | 14.00% | ~8,042 |
+| Finders Keepers | 14.00% | ~8,042 |
 | Sound and Fury | 13.00% | ~7,467 |
 | Damn Good Cup of Coffee | 13.00% | ~7,467 |
 | Wheels Within Wheels | 12.00% | ~6,893 |
 | They're Heeeeeere! | 12.00% | ~6,893 |
 | Missed by a Mile | 12.00% | ~6,893 |
-| Heavy Metal | 11.00% | ~6,318 |
-| Iron Horse | 11.00% | ~6,318 |
-| The Six-Gun Scribe | 11.00% | ~6,318 |
-| Collateral Carnage | 11.00% | ~6,318 |
-| Come One, Come All | 11.00% | ~6,318 |
+| Heavy Metal | 11.00% | ~6,319 |
+| Iron Horse | 11.00% | ~6,319 |
+| The Six-Gun Scribe | 11.00% | ~6,319 |
+| Collateral Carnage | 11.00% | ~6,319 |
+| Come One, Come All | 11.00% | ~6,319 |
 | Perchance to Dream | 10.00% | ~5,744 |
 | It's Not Just a Typewriter Brand | 10.00% | ~5,744 |
 | Thunder and Lightning | 10.00% | ~5,744 |
@@ -37,11 +37,11 @@ Number of Ratings: 524  (23.09.2022)
 | Right of Way | 8.00% | ~4,595 |
 | A Friend in Need | 8.00% | ~1,673 |
 | Tornado Wrangler | 7.00% | ~4,021 |
-| Departure | 6.00% | ~3,446 |
-| A Friend Indeed | 6.00% | ~1,254 |
+| Departure | 6.00% | ~3,447 |
+| A Friend Indeed | 6.00% | ~1,255 |
 | Drink 'Em Both Up | 5.00% | ~2,872 |
 | Hardboiled Writer | 5.00% | ~2,872 |
-| Ding! | 5.00% | ~1,045 |
+| Ding! | 5.00% | ~1,046 |
 | Boob Tube | 4.00% | ~2,298 |
 | Children of the Elder God | 4.00% | ~2,298 |
 | If It Flies, It Burns | 4.00% | ~2,298 |
@@ -65,16 +65,16 @@ Number of Ratings: 524  (23.09.2022)
 | Alan, Wake Up | 0.30% | ~172 |
 | Meet the Deadline | 0.30% | ~172 |
 | Picking Up After Yourself | 0.30% | ~172 |
+| Tick Tock | 0.30% | ~63 |
 | Gunless Wonder | 0.20% | ~115 |
 | Every Nook and Cranny | 0.20% | ~115 |
 | Bright Falls Aficionado | 0.20% | ~115 |
-| Tick Tock | 0.20% | ~42 |
 | Licensed Properties | 0.20% | ~42 |
 | Collector's Edition | 0.10% | ~57 |
 | Hypercaffeinated | 0.10% | ~57 |
 | No Punctuation | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,439 (Ranked 82)  
+Progressed: 57,442 (Ranked 82)  
 Completed: 58 (0.10%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 58 (0.10%) (Ranked 183)
 | 2023-07-13 | 57,298 | 57 |
 | 2023-07-14 | 57,331 | 57 |
 | 2023-07-15 | 57,378 | 58 |
-| 2023-07-16 | 57,439 | 58 |
+| 2023-07-16 | 57,442 | 58 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

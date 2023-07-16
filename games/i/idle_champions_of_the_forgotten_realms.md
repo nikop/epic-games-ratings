@@ -9,12 +9,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Cursed Farmer | 0.30% | ~637 |
 | The Ring of Regeneration | 0.30% | ~637 |
 | Seeking Allies | 0.30% | ~637 |
+| Mad Cow Disease | 0.30% | ~637 |
 | The Mad Wizard | 0.30% | ~637 |
 | Pure Energy | 0.30% | ~637 |
 | The Crumbling Temple | 0.20% | ~425 |
 | Are Ya Chicken? | 0.20% | ~425 |
 | Useless Allies | 0.20% | ~425 |
-| Mad Cow Disease | 0.20% | ~425 |
 | Exploring Port Nyanzaru | 0.20% | ~425 |
 | A Tale of Two Cities | 0.20% | ~425 |
 | Running of the Saurs | 0.20% | ~425 |
@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212,460 (Ranked 52)  
+Progressed: 212,484 (Ranked 52)  
 Completed: 2,055 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -601,7 +601,7 @@ Completed: 2,055 (0.97%) (Ranked 102)
 | 2023-07-13 | 211,069 | 2,049 |
 | 2023-07-14 | 211,507 | 2,050 |
 | 2023-07-15 | 212,014 | 2,053 |
-| 2023-07-16 | 212,460 | 2,055 |
+| 2023-07-16 | 212,484 | 2,055 |
 ## Awards
 Max (Diverse Characters): 5,036  (Ranked 66)  
 Sum: 30,550 (Ranked 38)  

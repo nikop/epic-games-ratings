@@ -18,8 +18,8 @@ Number of Ratings: 1,331  (23.09.2022)
 | Prequel to the Sequel | 0.70% | ~158 |
 | Truly Blessed | 0.40% | ~90 |
 | Pillow Investments | 0.40% | ~90 |
+| Looks Familiar | 0.40% | ~90 |
 | For Glory | 0.40% | ~90 |
-| Looks Familiar | 0.30% | ~68 |
 | For Justice | 0.30% | ~68 |
 | Good Boy! | 0.30% | ~68 |
 | For Wrath | 0.20% | ~45 |

@@ -1193,9 +1193,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 123259,
+  "EOS_Progressed": 123260,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 335,
+  "EOS_NewPlayers": 334,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -9608,6 +9608,11 @@
       "Time": "2023-07-16T21:02:19.6843946+00:00",
       "NumProgressed": 123259,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-07-16T22:01:36.207264+00:00",
+      "NumProgressed": 123260,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -9723,7 +9728,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 19721
+      "UsersEstimate": 19722
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -9763,7 +9768,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 13558
+      "UsersEstimate": 13559
     },
     {
       "ID": "ACH_CUNO",
@@ -9938,15 +9943,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 123259,
+      "Progressed": 123260,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-07-16T11:00:03.7223316+00:00",
-  "LastChanged_Achievements": "2023-07-16T21:02:19.6843937+00:00",
+  "LastChanged_Achievements": "2023-07-16T22:01:36.2072635+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:06.3105356+00:00",
-  "LastUpdate_Ratings": "2023-07-16T21:00:24.7879874+00:00",
-  "LastUpdate_Achievements": "2023-07-16T21:02:19.6845176+00:00"
+  "LastUpdate_Ratings": "2023-07-16T21:59:52.1438708+00:00",
+  "LastUpdate_Achievements": "2023-07-16T22:01:36.2073333+00:00"
 }

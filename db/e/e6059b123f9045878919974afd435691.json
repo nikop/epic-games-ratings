@@ -1519,9 +1519,9 @@
       "ID": "KLEECHER_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Bad Leecher, Bad Leecher!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 18
     },
     {
       "ID": "KLEECHER_ACHIEVEMENT_2",
@@ -1710,8 +1710,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-16T21:05:46.4692745+00:00",
+  "LastChanged_Achievements": "2023-07-16T22:05:18.469222+00:00",
   "LastUpdate_AppInfo": "2023-07-13T13:57:00.6642341+00:00",
-  "LastUpdate_Ratings": "2023-07-16T20:57:23.7308245+00:00",
-  "LastUpdate_Achievements": "2023-07-16T21:05:46.4693543+00:00"
+  "LastUpdate_Ratings": "2023-07-16T21:57:06.8691379+00:00",
+  "LastUpdate_Achievements": "2023-07-16T22:05:18.4692942+00:00"
 }

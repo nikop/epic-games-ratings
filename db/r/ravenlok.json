@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -3055,9 +3055,9 @@
       "ID": "8",
       "SetID": "d0g98p",
       "Name": "Tragic Brave",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 556
+      "UsersEstimate": 566
     },
     {
       "ID": "9",
@@ -3080,8 +3080,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-07-16T21:02:25.9771611+00:00",
+  "LastChanged_Achievements": "2023-07-16T22:02:11.8972778+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:20.3361796+00:00",
-  "LastUpdate_Ratings": "2023-07-16T20:58:11.7736492+00:00",
-  "LastUpdate_Achievements": "2023-07-16T21:02:25.9772158+00:00"
+  "LastUpdate_Ratings": "2023-07-16T21:57:50.8287416+00:00",
+  "LastUpdate_Achievements": "2023-07-16T22:02:11.8973278+00:00"
 }

@@ -40,8 +40,8 @@ Rating: 4.43 (Ranked 655)
 | Abysmal Horrors | 14.00% | ~410 |
 | Regicide | 10.00% | ~293 |
 | Heavy Steps | 10.00% | ~293 |
-| Flawless Victory | 8.00% | ~234 |
-| This Went Smoothly | 8.00% | ~234 |
+| Flawless Victory | 9.00% | ~264 |
+| This Went Smoothly | 9.00% | ~264 |
 | Perfect Enhancements | 6.00% | ~176 |
 | Hardened In The Heat Of Battle | 5.00% | ~146 |
 | The True Experience | 5.00% | ~146 |
