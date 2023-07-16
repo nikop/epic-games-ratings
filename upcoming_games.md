@@ -307,6 +307,7 @@
 | [Naheulbeuk's Dungeon Master](games/4/4885ae8497a54a0d95073db643c65ea0.md) | 2099-01-01 | - |  | - | - |
 | [Night Loops](games/n/night_loops.md) | 2099-01-01 | - |  | - | - |
 | [No More Room in Hell 2](games/n/no_more_room_in_hell_2.md) | 2099-01-01 | - |  | - | - |
+| [NoRoY](games/7/7495a63cbeb34c2c843e1c99880d860d.md) | 2099-01-01 | - |  | - | - |
 | [Outbreak Island](games/o/outbreak_island.md) | 2099-01-01 | - |  | - | - |
 | [PACK MY STUFF](games/d/d71669b3eabc4ca3869613ccaf16bdd8.md) | 2099-01-01 | - |  | - | - |
 | [Paperplanes](games/p/paperplanes.md) | 2099-01-01 | - |  | - | - |

@@ -3,7 +3,7 @@
 | 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.00% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.48% |
 | 3 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 30.00% |
-| 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 27.50% |
+| 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.00% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 7 | [Volley Pals](games/v/volley_pals.md) | 22.35% |
@@ -22,7 +22,7 @@
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.26% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 23 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 9.01% |
+| 23 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.93% |
 | 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.55% |
 | 25 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
 | 26 | [Smelter](games/s/smelter.md) | 8.11% |
@@ -43,7 +43,7 @@
 | 41 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
 | 42 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.55% |
 | 42 | [Without Escape](games/w/without_escape.md) | 4.55% |
-| 44 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.32% |
+| 44 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.29% |
 | 45 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.87% |
 | 46 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.75% |
 | 47 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.65% |
@@ -493,4 +493,4 @@
 | 236 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 236 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 236 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,904 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
+| 2,905 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
