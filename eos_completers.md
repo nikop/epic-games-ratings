@@ -95,7 +95,7 @@
 | 93 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.23% |
 | 94 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.20% |
 | 95 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.19% |
-| 96 | [Chorus](games/c/chorus.md) | 1.17% |
+| 96 | [Chorus](games/c/chorus.md) | 1.16% |
 | 97 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.14% |
 | 98 | [Trifox](games/t/trifox.md) | 1.11% |
 | 99 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.06% |
