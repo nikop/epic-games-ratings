@@ -6,71 +6,71 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Resurgence | 9.00% | ~61,712 |
-| Healthy Obsession | 8.00% | ~54,855 |
-| Preemptive Strike | 8.00% | ~54,855 |
-| Humanitarian | 8.00% | ~54,855 |
-| Close Shave | 7.00% | ~47,998 |
-| Wounded Healer | 6.00% | ~41,141 |
-| First to the Punch | 5.00% | ~34,284 |
-| With Scars to Show | 5.00% | ~34,284 |
-| Flight to Freedom | 5.00% | ~34,284 |
-| Unforgettable Getaway | 4.00% | ~27,427 |
-| Operation: Survival | 4.00% | ~27,427 |
-| Old West Oasis | 4.00% | ~27,427 |
-| Classy Act | 4.00% | ~27,427 |
-| Every Last Drop | 4.00% | ~27,427 |
-| Raccoon City Recruit | 4.00% | ~27,427 |
-| A Fast Death | 4.00% | ~27,427 |
-| Chorus of Chaos | 4.00% | ~27,427 |
-| Ancestor's Rite | 3.00% | ~20,571 |
-| Devoted Gatekeeping | 3.00% | ~20,571 |
-| Shrine Apparatus | 3.00% | ~20,571 |
-| Cutting Out | 3.00% | ~20,571 |
-| Outrun Evil | 3.00% | ~20,571 |
-| Grim Pilgrimage | 3.00% | ~20,571 |
-| End of Days | 3.00% | ~20,571 |
-| Outrun the Overlap | 3.00% | ~20,571 |
-| Lifting The Fog | 3.00% | ~20,571 |
-| Heavy Burden | 2.00% | ~13,714 |
-| Broken Bodies | 2.00% | ~13,714 |
-| Selfless Survival | 2.00% | ~13,714 |
-| I See You | 2.00% | ~13,714 |
-| Power Moves | 2.00% | ~13,714 |
-| Insult and Injury | 2.00% | ~13,714 |
-| Punch Drunk | 2.00% | ~13,714 |
-| Prowler | 2.00% | ~13,714 |
-| High Speed Pursuit | 2.00% | ~13,714 |
-| Rebuilding The Borgo | 2.00% | ~13,714 |
-| Hack the Mainframe | 2.00% | ~13,714 |
-| Death of Ignorance | 1.00% | ~6,857 |
-| Triage | 1.00% | ~6,857 |
-| Deranged Pursuit | 0.90% | ~6,171 |
-| Denied! | 0.90% | ~6,171 |
-| Left For Dead | 0.80% | ~5,485 |
-| Bodyguard | 0.80% | ~5,485 |
-| Rescue Mission | 0.80% | ~5,485 |
-| From the Deep | 0.80% | ~5,485 |
-| Dismantle | 0.70% | ~4,800 |
-| Speed Kills | 0.70% | ~4,800 |
-| One Thousand Cuts | 0.70% | ~4,800 |
-| Ghost in the Machine | 0.70% | ~4,800 |
-| Silent Approach | 0.50% | ~3,428 |
-| Bound and Downed | 0.50% | ~3,428 |
-| Multi-tasker | 0.50% | ~3,428 |
+| Resurgence | 9.00% | ~61,728 |
+| Healthy Obsession | 8.00% | ~54,869 |
+| Preemptive Strike | 8.00% | ~54,869 |
+| Humanitarian | 8.00% | ~54,869 |
+| Close Shave | 7.00% | ~48,011 |
+| Wounded Healer | 6.00% | ~41,152 |
+| First to the Punch | 5.00% | ~34,293 |
+| With Scars to Show | 5.00% | ~34,293 |
+| Flight to Freedom | 5.00% | ~34,293 |
+| Unforgettable Getaway | 4.00% | ~27,435 |
+| Operation: Survival | 4.00% | ~27,435 |
+| Old West Oasis | 4.00% | ~27,435 |
+| Classy Act | 4.00% | ~27,435 |
+| Every Last Drop | 4.00% | ~27,435 |
+| Raccoon City Recruit | 4.00% | ~27,435 |
+| A Fast Death | 4.00% | ~27,435 |
+| Chorus of Chaos | 4.00% | ~27,435 |
+| Ancestor's Rite | 3.00% | ~20,576 |
+| Devoted Gatekeeping | 3.00% | ~20,576 |
+| Shrine Apparatus | 3.00% | ~20,576 |
+| Cutting Out | 3.00% | ~20,576 |
+| Outrun Evil | 3.00% | ~20,576 |
+| Grim Pilgrimage | 3.00% | ~20,576 |
+| End of Days | 3.00% | ~20,576 |
+| Outrun the Overlap | 3.00% | ~20,576 |
+| Lifting The Fog | 3.00% | ~20,576 |
+| Heavy Burden | 2.00% | ~13,717 |
+| Broken Bodies | 2.00% | ~13,717 |
+| Selfless Survival | 2.00% | ~13,717 |
+| I See You | 2.00% | ~13,717 |
+| Power Moves | 2.00% | ~13,717 |
+| Insult and Injury | 2.00% | ~13,717 |
+| Punch Drunk | 2.00% | ~13,717 |
+| Prowler | 2.00% | ~13,717 |
+| High Speed Pursuit | 2.00% | ~13,717 |
+| Rebuilding The Borgo | 2.00% | ~13,717 |
+| Hack the Mainframe | 2.00% | ~13,717 |
+| Death of Ignorance | 1.00% | ~6,859 |
+| Triage | 1.00% | ~6,859 |
+| Deranged Pursuit | 0.90% | ~6,173 |
+| Denied! | 0.90% | ~6,173 |
+| Left For Dead | 0.80% | ~5,487 |
+| Bodyguard | 0.80% | ~5,487 |
+| Rescue Mission | 0.80% | ~5,487 |
+| From the Deep | 0.80% | ~5,487 |
+| Dismantle | 0.70% | ~4,801 |
+| Speed Kills | 0.70% | ~4,801 |
+| One Thousand Cuts | 0.70% | ~4,801 |
+| Ghost in the Machine | 0.70% | ~4,801 |
+| Silent Approach | 0.50% | ~3,429 |
+| Bound and Downed | 0.50% | ~3,429 |
+| Multi-tasker | 0.50% | ~3,429 |
 | Conniption | 0.40% | ~2,743 |
 | Terminal Illness | 0.40% | ~2,743 |
 | Tear Their Soul Apart | 0.40% | ~2,743 |
 | Viral Video | 0.40% | ~2,743 |
-| Totally Vulnerable | 0.30% | ~2,057 |
-| Biological Weaponry | 0.30% | ~2,057 |
-| Taking One For The Team | 0.20% | ~1,371 |
-| Adept Bill | 0.20% | ~1,371 |
-| Bloodbath | 0.20% | ~1,371 |
-| Cleansed in Agony | 0.20% | ~1,371 |
-| Fleet of Foot | 0.20% | ~1,371 |
-| Bump in the Night | 0.20% | ~1,371 |
-| Thrill of the Chase | 0.20% | ~1,371 |
+| Totally Vulnerable | 0.30% | ~2,058 |
+| Biological Weaponry | 0.30% | ~2,058 |
+| Taking One For The Team | 0.20% | ~1,372 |
+| Adept Bill | 0.20% | ~1,372 |
+| Bloodbath | 0.20% | ~1,372 |
+| Cleansed in Agony | 0.20% | ~1,372 |
+| Fleet of Foot | 0.20% | ~1,372 |
+| Bump in the Night | 0.20% | ~1,372 |
+| Thrill of the Chase | 0.20% | ~1,372 |
 | The Grand Sacrifice | 0.10% | ~686 |
 | A bite for the Entity | 0.10% | ~686 |
 | A feast for the Entity | 0.10% | ~686 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~686 |
 | Adept Gabriel | 0.10% | ~686 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 685,685 (Ranked 21)  
+Progressed: 685,865 (Ranked 21)  
 Completed: 42 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,17 +315,17 @@ Completed: 42 (0.01%) (Ranked 223)
 | 2023-07-14 | 676,886 | 42 |
 | 2023-07-15 | 680,440 | 42 |
 | 2023-07-16 | 684,236 | 42 |
-| 2023-07-17 | 685,685 | 42 |
+| 2023-07-17 | 685,865 | 42 |
 ## Awards
 Max (Diverse Characters): 30,030  (Ranked 15)  
-Sum: 237,852 (Ranked 12)  
+Sum: 237,885 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 30,030 |
 | This game has Competitive Players | 27,246 |
 | This game is Highly Recommended | 27,115 |
-| This game has Amazing Characters | 26,841 |
+| This game has Amazing Characters | 26,874 |
 | This game is Extremely Fun | 26,785 |
 | This game has Quickly Understood Controls | 26,570 |
 | This game has Challenging Combat | 26,041 |
@@ -510,4 +510,4 @@ Diff (max vs sum): 3
 | 2023-07-14 | 4.52 | - | 29,927 | 237,306 |
 | 2023-07-15 | 4.52 | - | 29,960 | 237,544 |
 | 2023-07-16 | 4.52 | - | 29,992 | 237,749 |
-| 2023-07-17 | 4.52 | - | 30,030 | 237,852 |
+| 2023-07-17 | 4.52 | - | 30,030 | 237,885 |

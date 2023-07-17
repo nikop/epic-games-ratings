@@ -276,9 +276,9 @@
       "ID": "BEYOND_TIME",
       "SetID": "50pdlpn",
       "Name": "Beyond Time",
-      "Percentage": 61,
+      "Percentage": 63,
       "XP": 40,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "BLIND_DATE",
@@ -316,17 +316,17 @@
       "ID": "ENEMY_0",
       "SetID": "50pdlpn",
       "Name": "Federic the Conscious Toy",
-      "Percentage": 90,
+      "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ENEMY_1",
       "SetID": "50pdlpn",
       "Name": "Norman the Useless Gyroscope",
-      "Percentage": 80,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ENEMY_10",
@@ -836,9 +836,9 @@
       "ID": "SERIAL_KISSER",
       "SetID": "50pdlpn",
       "Name": "Serial Kisser",
-      "Percentage": 82,
+      "Percentage": 84,
       "XP": 40,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     }
   ],
   "AchievementSets": [
@@ -851,8 +851,8 @@
   ],
   "FirstSeen": "2023-07-03T16:57:31.1356684+00:00",
   "FirstSeenAchievements": "2023-05-08T09:03:21.3999065+00:00",
-  "LastChanged_Achievements": "2023-07-17T12:05:27.4858966+00:00",
+  "LastChanged_Achievements": "2023-07-17T13:23:54.1089086+00:00",
   "LastUpdate_AppInfo": "2023-07-10T13:56:59.3027723+00:00",
-  "LastUpdate_Ratings": "2023-07-17T11:57:32.9018912+00:00",
-  "LastUpdate_Achievements": "2023-07-17T12:05:27.4859555+00:00"
+  "LastUpdate_Ratings": "2023-07-17T13:15:30.116796+00:00",
+  "LastUpdate_Achievements": "2023-07-17T13:23:54.1090081+00:00"
 }

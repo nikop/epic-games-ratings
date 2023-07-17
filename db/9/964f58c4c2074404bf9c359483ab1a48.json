@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 331,
   "Ranking_EOS_Progress": 10,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 13,
+  "Ranking_EOS_NewPlayers": 14,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-06-01T15:00:00+00:00",
@@ -708,9 +708,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 1228309,
+  "EOS_Progressed": 1228356,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8032,
+  "EOS_NewPlayers": 8004,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5913,6 +5913,11 @@
       "Time": "2023-07-17T12:04:53.7583579+00:00",
       "NumProgressed": 1228309,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-17T13:23:19.9601837+00:00",
+      "NumProgressed": 1228356,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -6036,7 +6041,7 @@
       "Name": "10 Kills as a Ghost!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 135114
+      "UsersEstimate": 135119
     },
     {
       "ID": "10_ghost_wins",
@@ -6044,7 +6049,7 @@
       "Name": "10 Ghost Wins!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 98265
+      "UsersEstimate": 98268
     },
     {
       "ID": "10_hero_prop_kills",
@@ -6060,7 +6065,7 @@
       "Name": "10 Kills as a Hunter!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 196529
+      "UsersEstimate": 196537
     },
     {
       "ID": "10_hunter_wins",
@@ -6068,7 +6073,7 @@
       "Name": "10 Hunter Wins!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 73699
+      "UsersEstimate": 73701
     },
     {
       "ID": "10_prop_headshots",
@@ -6076,7 +6081,7 @@
       "Name": "10 Headshots as A Prop!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 24566
+      "UsersEstimate": 24567
     },
     {
       "ID": "250_c4_kills",
@@ -6172,7 +6177,7 @@
       "Name": "250 Taunts!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 12283
+      "UsersEstimate": 12284
     },
     {
       "ID": "25_cosmetic_unlocks",
@@ -6188,7 +6193,7 @@
       "Name": "25 Taunts In One Game!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 49132
+      "UsersEstimate": 49134
     },
     {
       "ID": "50_riot_shield_kills",
@@ -6204,7 +6209,7 @@
       "Name": "Ace Master",
       "Percentage": 0.8,
       "XP": 90,
-      "UsersEstimate": 9826
+      "UsersEstimate": 9827
     },
     {
       "ID": "ace",
@@ -6212,7 +6217,7 @@
       "Name": "ACE!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 122831
+      "UsersEstimate": 122836
     },
     {
       "ID": "ghost_win",
@@ -6220,7 +6225,7 @@
       "Name": "Ghost Victory!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 736985
+      "UsersEstimate": 737014
     },
     {
       "ID": "hunter_win",
@@ -6228,7 +6233,7 @@
       "Name": "Hunter Victory!",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 675570
+      "UsersEstimate": 675596
     },
     {
       "ID": "master_of_loadouts",
@@ -6252,14 +6257,14 @@
       "Name": "Unlock Any Cosmetic",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 282511
+      "UsersEstimate": 282522
     }
   ],
   "AchievementSets": [
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1228309,
+      "Progressed": 1228356,
       "Completed": 0
     }
   ],
@@ -6267,8 +6272,8 @@
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
   "LastChanged": "2023-07-17T08:57:46.5327433+00:00",
-  "LastChanged_Achievements": "2023-07-17T12:04:53.7583571+00:00",
+  "LastChanged_Achievements": "2023-07-17T13:23:19.9601832+00:00",
   "LastUpdate_AppInfo": "2023-07-13T19:57:08.1567859+00:00",
-  "LastUpdate_Ratings": "2023-07-17T11:57:10.8193048+00:00",
-  "LastUpdate_Achievements": "2023-07-17T12:04:53.7584063+00:00"
+  "LastUpdate_Ratings": "2023-07-17T13:15:04.6266552+00:00",
+  "LastUpdate_Achievements": "2023-07-17T13:23:19.9602597+00:00"
 }

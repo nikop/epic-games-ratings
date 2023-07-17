@@ -3,7 +3,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 5.00% | ~1 |
+| Break Out | 16.00% | ~3 |
 | Flawless Victory | 5.00% | ~1 |
 | Find Allies | 0.00% | ~0 |
 | Powerful Allies | 0.00% | ~0 |
@@ -16,6 +16,7 @@
 | Forgemaster | 0.00% | ~0 |
 | Shardbearer | 0.00% | ~0 |
 | Adventurer | 0.00% | ~0 |
+| Airborne | 0.00% | ~0 |
 | Tributes of Caladrias | 0.00% | ~0 |
 | Essence Blow | 0.00% | ~0 |
 | Shatterer | 0.00% | ~0 |
@@ -36,7 +37,6 @@
 | Feeling Fancy | 0.00% | ~0 |
 | Summiter | 0.00% | ~0 |
 | The Mentor | -5.30% | ~-1 |
-| Airborne | -5.30% | ~-1 |
 | Alchemist | -5.30% | ~-1 |
 | A Queen's Tale | -5.30% | ~-1 |
 ## Popularity (Based on EOS Achievements)

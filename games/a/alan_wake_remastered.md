@@ -6,18 +6,18 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 34.00% | ~19,535 |
-| Let There Be Light | 27.00% | ~15,513 |
+| Follow the Light | 34.00% | ~19,536 |
+| Let There Be Light | 27.00% | ~15,514 |
 | Float Like a Butterfly | 26.00% | ~14,939 |
 | Nordic Walking | 21.00% | ~12,066 |
 | Bright Falls' Finest | 21.00% | ~12,066 |
-| Under a Thin Layer of Skin | 18.00% | ~10,342 |
+| Under a Thin Layer of Skin | 18.00% | ~10,343 |
 | Park Ranger | 15.00% | ~8,619 |
 | Paging Mr. Wake | 15.00% | ~8,619 |
 | Back! Back, I Say! | 14.00% | ~8,044 |
 | Finders Keepers | 14.00% | ~8,044 |
-| Sound and Fury | 13.00% | ~7,469 |
-| Damn Good Cup of Coffee | 13.00% | ~7,469 |
+| Sound and Fury | 13.00% | ~7,470 |
+| Damn Good Cup of Coffee | 13.00% | ~7,470 |
 | Wheels Within Wheels | 12.00% | ~6,895 |
 | They're Heeeeeere! | 12.00% | ~6,895 |
 | Missed by a Mile | 12.00% | ~6,895 |
@@ -37,7 +37,7 @@ Number of Ratings: 524  (23.09.2022)
 | Right of Way | 8.00% | ~4,597 |
 | A Friend in Need | 8.00% | ~1,674 |
 | Tornado Wrangler | 7.00% | ~4,022 |
-| Departure | 6.00% | ~3,447 |
+| Departure | 6.00% | ~3,448 |
 | A Friend Indeed | 6.00% | ~1,256 |
 | Drink 'Em Both Up | 5.00% | ~2,873 |
 | Hardboiled Writer | 5.00% | ~2,873 |
@@ -52,7 +52,7 @@ Number of Ratings: 524  (23.09.2022)
 | Taken Season | 2.00% | ~1,149 |
 | Carny | 2.00% | ~1,149 |
 | An Idyllic Small Town | 2.00% | ~1,149 |
-| Iron Will | 2.00% | ~418 |
+| Iron Will | 2.00% | ~419 |
 | Couch Potato | 1.00% | ~575 |
 | Go Gentle Into That Good Light | 1.00% | ~209 |
 | Words Will Never Harm You | 0.60% | ~126 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~57 |
 | No Punctuation | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,457 (Ranked 82)  
+Progressed: 57,459 (Ranked 82)  
 Completed: 58 (0.10%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 58 (0.10%) (Ranked 183)
 | 2023-07-14 | 57,331 | 57 |
 | 2023-07-15 | 57,378 | 58 |
 | 2023-07-16 | 57,444 | 58 |
-| 2023-07-17 | 57,457 | 58 |
+| 2023-07-17 | 57,459 | 58 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

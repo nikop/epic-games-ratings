@@ -21,6 +21,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Trollskull Manor | 0.20% | ~425 |
 | The Death Curse | 0.20% | ~425 |
 | Useless Allies | 0.20% | ~425 |
+| Premature Betrayal | 0.20% | ~425 |
 | Exploring Port Nyanzaru | 0.20% | ~425 |
 | A Tale of Two Cities | 0.20% | ~425 |
 | The Dead Three | 0.20% | ~425 |
@@ -73,7 +74,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Twilight Twist | 0.10% | ~179 |
 | Excavating History | 0.10% | ~213 |
 | Screams of the Dead | 0.10% | ~213 |
-| Premature Betrayal | 0.10% | ~213 |
 | Frantic Excavation | 0.10% | ~213 |
 | Birds of a Feather | 0.10% | ~179 |
 | Towering Expectations | 0.10% | ~213 |
@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212,667 (Ranked 53)  
+Progressed: 212,684 (Ranked 53)  
 Completed: 2,056 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -602,17 +602,17 @@ Completed: 2,056 (0.97%) (Ranked 102)
 | 2023-07-14 | 211,507 | 2,050 |
 | 2023-07-15 | 212,014 | 2,053 |
 | 2023-07-16 | 212,501 | 2,055 |
-| 2023-07-17 | 212,667 | 2,056 |
+| 2023-07-17 | 212,684 | 2,056 |
 ## Awards
 Max (Diverse Characters): 5,041  (Ranked 66)  
-Sum: 30,555 (Ranked 38)  
+Sum: 30,557 (Ranked 38)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,041 |
 | This game is Great for Beginners | 4,977 |
 | This game has Quickly Understood Controls | 4,664 |
-| This game is Relaxing | 4,555 |
+| This game is Relaxing | 4,557 |
 | This game has Amazing Characters | 4,008 |
 | This game is Highly Recommended | 4,007 |
 | This game has Playful Visuals | 3,303 |
@@ -791,4 +791,4 @@ Diff (max vs sum): 28
 | 2023-07-14 | 4.05 | - | 5,033 | 30,510 |
 | 2023-07-15 | 4.05 | - | 5,036 | 30,535 |
 | 2023-07-16 | 4.05 | - | 5,036 | 30,550 |
-| 2023-07-17 | 4.05 | - | 5,041 | 30,555 |
+| 2023-07-17 | 4.05 | - | 5,041 | 30,557 |

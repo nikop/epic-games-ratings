@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57457,
+  "EOS_Progressed": 57459,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 315,
+  "EOS_NewPlayers": 313,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8187,6 +8187,11 @@
       "Time": "2023-07-17T11:03:34.9887829+00:00",
       "NumProgressed": 57457,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-07-17T13:21:28.4949369+00:00",
+      "NumProgressed": 57459,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 67,
@@ -8198,7 +8203,7 @@
       "Name": "Follow the Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 19535
+      "UsersEstimate": 19536
     },
     {
       "ID": "02",
@@ -8230,7 +8235,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10342
+      "UsersEstimate": 10343
     },
     {
       "ID": "06",
@@ -8326,7 +8331,7 @@
       "Name": "Departure",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3447
+      "UsersEstimate": 3448
     },
     {
       "ID": "18",
@@ -8422,7 +8427,7 @@
       "Name": "Sound and Fury",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7469
+      "UsersEstimate": 7470
     },
     {
       "ID": "30",
@@ -8470,7 +8475,7 @@
       "Name": "Let There Be Light",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 15513
+      "UsersEstimate": 15514
     },
     {
       "ID": "36",
@@ -8558,7 +8563,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 7469
+      "UsersEstimate": 7470
     },
     {
       "ID": "47",
@@ -8694,7 +8699,7 @@
       "Name": "Iron Will",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "64",
@@ -8733,21 +8738,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57457,
+      "Progressed": 57459,
       "Completed": 58
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20925,
+      "Progressed": 20927,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-17T12:02:36.2805418+00:00",
+  "LastChanged_Achievements": "2023-07-17T13:21:28.4949365+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:10.5196415+00:00",
-  "LastUpdate_Ratings": "2023-07-17T11:58:01.6071046+00:00",
-  "LastUpdate_Achievements": "2023-07-17T12:02:36.2806266+00:00"
+  "LastUpdate_Ratings": "2023-07-17T13:16:01.5966888+00:00",
+  "LastUpdate_Achievements": "2023-07-17T13:21:28.4950694+00:00"
 }
