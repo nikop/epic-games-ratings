@@ -10,7 +10,7 @@
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
-| 11 | [Island Cities](games/i/island_cities.md) | 18.64% |
+| 11 | [Island Cities](games/i/island_cities.md) | 18.59% |
 | 12 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 15.38% |
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
 | 14 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 13.68% |
@@ -22,12 +22,12 @@
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.26% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 23 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.63% |
+| 23 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.68% |
 | 24 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.62% |
 | 25 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
 | 26 | [Smelter](games/s/smelter.md) | 8.11% |
-| 27 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.50% |
-| 28 | [Ravenlok](games/r/ravenlok.md) | 7.44% |
+| 27 | [Ravenlok](games/r/ravenlok.md) | 7.44% |
+| 28 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.32% |
 | 29 | [Time Loader](games/t/time_loader.md) | 7.14% |
 | 30 | [Scorn](games/s/scorn.md) | 7.05% |
 | 31 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.96% |
