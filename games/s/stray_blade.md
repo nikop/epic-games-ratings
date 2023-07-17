@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 73.00% | ~11 |
-| Tinkerer | 47.00% | ~7 |
-| Don't Cry Wolf | 27.00% | ~4 |
-| A new World ahead | 27.00% | ~4 |
-| Can't touch this | 27.00% | ~4 |
-| Welcome to the Club | 20.00% | ~3 |
-| Apprentice | 20.00% | ~3 |
+| Self-Defence | 75.00% | ~12 |
+| Tinkerer | 44.00% | ~7 |
+| Don't Cry Wolf | 25.00% | ~4 |
+| A new World ahead | 25.00% | ~4 |
+| Can't touch this | 25.00% | ~4 |
+| Freezing Cold | 19.00% | ~3 |
+| Welcome to the Club | 19.00% | ~3 |
+| Apprentice | 19.00% | ~3 |
 | Bringing guns to a sword fight | 13.00% | ~2 |
-| Freezing Cold | 13.00% | ~2 |
 | Searing Heat | 13.00% | ~2 |
 | Through Dangers Untold | 13.00% | ~2 |
 | The Golden Flash | 13.00% | ~2 |
 | The Power of the Mountains | 13.00% | ~2 |
 | Changing the World | 13.00% | ~2 |
-| Mirror, Mirror on the Wall | 7.00% | ~1 |
-| Defeat Ingla | 7.00% | ~1 |
-| Defeat Tezuth | 7.00% | ~1 |
-| Defeat Uskol | 7.00% | ~1 |
-| Locked and Loaded | 7.00% | ~1 |
-| Nothing but the Truth | 7.00% | ~1 |
-| Finally! | 7.00% | ~1 |
-| The End | 7.00% | ~1 |
-| But what of the Acreans? | 7.00% | ~1 |
+| Mirror, Mirror on the Wall | 6.00% | ~1 |
+| Defeat Ingla | 6.00% | ~1 |
+| Defeat Tezuth | 6.00% | ~1 |
+| Defeat Uskol | 6.00% | ~1 |
+| Locked and Loaded | 6.00% | ~1 |
+| Nothing but the Truth | 6.00% | ~1 |
+| Finally! | 6.00% | ~1 |
+| The End | 6.00% | ~1 |
+| But what of the Acreans? | 6.00% | ~1 |
 | Sponsor | 0.00% | ~0 |
 | Craftsmen | 0.00% | ~0 |
 | Style over Stats | 0.00% | ~0 |
@@ -51,7 +51,7 @@
 | Master of all Domains | 0.00% | ~0 |
 | Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15 (Ranked 384)  
+Progressed: 16 (Ranked 382)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,6 +67,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-12 | 13 | 0 |
 | 2023-07-13 | 14 | 0 |
 | 2023-07-16 | 15 | 0 |
+| 2023-07-17 | 16 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

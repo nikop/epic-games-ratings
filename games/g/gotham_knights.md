@@ -6,10 +6,10 @@ Rating: 4.18 (Ranked 856)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 6.00% | ~4,027 |
-| To the Victor Go the Spoils | 4.00% | ~2,684 |
-| Har, Har, Har, Very Funny | 4.00% | ~2,684 |
-| Knighthood | 4.00% | ~2,684 |
-| Loose Ends | 4.00% | ~2,684 |
+| To the Victor Go the Spoils | 4.00% | ~2,685 |
+| Har, Har, Har, Very Funny | 4.00% | ~2,685 |
+| Knighthood | 4.00% | ~2,685 |
+| Loose Ends | 4.00% | ~2,685 |
 | The Batman Family | 3.00% | ~2,013 |
 | Something in the Clay | 3.00% | ~2,013 |
 | The Show Mud Go On | 3.00% | ~2,013 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 856)
 | History Major | 0.10% | ~67 |
 | Confronting Your Demon | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,110 (Ranked 77)  
+Progressed: 67,115 (Ranked 77)  
 Completed: 102 (0.15%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,22 +155,22 @@ Completed: 102 (0.15%) (Ranked 173)
 | 2023-07-14 | 67,031 | 102 |
 | 2023-07-15 | 67,061 | 102 |
 | 2023-07-16 | 67,109 | 102 |
-| 2023-07-17 | 67,110 | 102 |
+| 2023-07-17 | 67,115 | 102 |
 ## Awards
 Max (Great Boss Battles): 2,450  (Ranked 101)  
-Sum: 4,057 (Ranked 138)  
+Sum: 4,059 (Ranked 138)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,450 |
+| This game has Quickly Understood Controls | 208 |
 | This game is Relaxing | 208 |
-| This game has Quickly Understood Controls | 207 |
 | This game is Extremely Fun | 207 |
 | This game has Amazing Characters | 200 |
 | This game has Diverse Characters | 199 |
 | This game is Great for Beginners | 196 |
 | This game is Highly Recommended | 196 |
-| This game has Amazing Storytelling | 194 |
+| This game has Amazing Storytelling | 195 |
 | This game is Great for Quick Sessions | 60 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -321,3 +321,4 @@ Diff (max vs sum): -37
 | 2023-07-14 | 4.18 | 2,445 | 4,045 |
 | 2023-07-15 | 4.18 | 2,447 | 4,051 |
 | 2023-07-16 | 4.18 | 2,450 | 4,057 |
+| 2023-07-17 | 4.18 | 2,450 | 4,059 |

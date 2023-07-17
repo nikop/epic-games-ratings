@@ -1,16 +1,16 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.77 (Ranked 108)  
+Rating: 4.77 (Ranked 109)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 12.00% | ~34,535 |
-| First Class Student | 10.00% | ~28,779 |
-| Troll with the Punches | 10.00% | ~28,779 |
-| A Keen Sense of Spell | 9.00% | ~25,901 |
-| A Talent for Spending | 9.00% | ~25,901 |
-| That's a Keeper | 9.00% | ~25,901 |
+| The Sort Who Makes an Entrance | 12.00% | ~34,537 |
+| First Class Student | 10.00% | ~28,781 |
+| Troll with the Punches | 10.00% | ~28,781 |
+| A Keen Sense of Spell | 9.00% | ~25,903 |
+| A Talent for Spending | 9.00% | ~25,903 |
+| That's a Keeper | 9.00% | ~25,903 |
 | Grappling with a Graphorn | 8.00% | ~23,024 |
 | The One Who Mastered Memories | 8.00% | ~23,024 |
 | The Hallowed Hero | 8.00% | ~23,024 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.50% | ~1,439 |
 | Collector's Edition | 0.20% | ~576 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 287,794 (Ranked 41)  
+Progressed: 287,806 (Ranked 41)  
 Completed: 429 (0.15%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,14 +139,14 @@ Completed: 429 (0.15%) (Ranked 173)
 | 2023-07-14 | 287,497 | 426 |
 | 2023-07-15 | 287,613 | 428 |
 | 2023-07-16 | 287,788 | 429 |
-| 2023-07-17 | 287,794 | 429 |
+| 2023-07-17 | 287,806 | 429 |
 ## Awards
-Max (Character Customization): 21,005  (Ranked 17)  
-Sum: 39,322 (Ranked 30)  
+Max (Character Customization): 21,042  (Ranked 17)  
+Sum: 39,359 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 21,005 |
+| This game has Inclusive Character Customization | 21,042 |
 | This game has Great Boss Battles | 10,082 |
 | This game is Great for Beginners | 914 |
 | This game is Extremely Fun | 892 |
@@ -276,3 +276,4 @@ Diff (max vs sum): -13
 | 2023-07-14 | 4.77 | 20,971 | 39,184 |
 | 2023-07-15 | 4.77 | 20,971 | 39,239 |
 | 2023-07-16 | 4.77 | 21,005 | 39,322 |
+| 2023-07-17 | 4.77 | 21,042 | 39,359 |

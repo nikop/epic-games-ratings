@@ -6,26 +6,26 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~66,527 |
-| Powergamer | 27.00% | ~64,151 |
-| Barely scratched the surface | 25.00% | ~59,400 |
-| Write that down | 24.00% | ~57,024 |
-| Guns, lots of guns | 12.00% | ~28,512 |
-| Collector | 11.00% | ~26,136 |
-| Elementary! | 9.00% | ~21,384 |
-| Pumpkin Jack | 8.00% | ~19,008 |
-| Wake up! | 8.00% | ~19,008 |
-| It's honest work | 7.00% | ~16,632 |
-| Griever | 7.00% | ~16,632 |
-| Me smart | 6.00% | ~14,256 |
-| Trash compactor | 6.00% | ~14,256 |
-| Good listener | 5.00% | ~11,880 |
-| Valedictorian | 5.00% | ~11,880 |
-| BOY! | 4.00% | ~9,504 |
-| Ka-ching! | 4.00% | ~9,504 |
-| So you like to read? | 4.00% | ~9,504 |
-| I like to sniff around | 3.00% | ~7,128 |
-| Mind reader | 3.00% | ~7,128 |
+| I will finish what you started | 28.00% | ~66,533 |
+| Powergamer | 27.00% | ~64,157 |
+| Barely scratched the surface | 25.00% | ~59,405 |
+| Write that down | 24.00% | ~57,029 |
+| Guns, lots of guns | 12.00% | ~28,514 |
+| Collector | 11.00% | ~26,138 |
+| Elementary! | 9.00% | ~21,386 |
+| Pumpkin Jack | 8.00% | ~19,010 |
+| Wake up! | 8.00% | ~19,010 |
+| It's honest work | 7.00% | ~16,633 |
+| Griever | 7.00% | ~16,633 |
+| Me smart | 6.00% | ~14,257 |
+| Trash compactor | 6.00% | ~14,257 |
+| Good listener | 5.00% | ~11,881 |
+| Valedictorian | 5.00% | ~11,881 |
+| BOY! | 4.00% | ~9,505 |
+| Ka-ching! | 4.00% | ~9,505 |
+| So you like to read? | 4.00% | ~9,505 |
+| I like to sniff around | 3.00% | ~7,129 |
+| Mind reader | 3.00% | ~7,129 |
 | Gentleman's classic | 2.00% | ~4,752 |
 | Hoarder | 2.00% | ~4,752 |
 | Is that a rift? | 2.00% | ~4,752 |
@@ -42,7 +42,7 @@ Number of Ratings: 33  (23.09.2022)
 | SysOp on duty | 1.00% | ~2,376 |
 | Take the blue pill | 1.00% | ~2,376 |
 | The power of three | 1.00% | ~2,376 |
-| A true blacksmith | 0.90% | ~2,138 |
+| A true blacksmith | 0.90% | ~2,139 |
 | Let's try another | 0.80% | ~1,901 |
 | Home run | 0.80% | ~1,901 |
 | I have the high ground | 0.70% | ~1,663 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~475 |
 | Memory 5 | 0.10% | ~238 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 237,598 (Ranked 45)  
+Progressed: 237,619 (Ranked 45)  
 Completed: 7 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 7 (0.00%) (Ranked 236)
 | 2023-07-14 | 237,186 | 7 |
 | 2023-07-15 | 237,379 | 7 |
 | 2023-07-16 | 237,590 | 7 |
-| 2023-07-17 | 237,598 | 7 |
+| 2023-07-17 | 237,619 | 7 |
 ## Awards
 Max (Character Customization): 74  (Ranked 364)  
 Sum: 74 (Ranked 426)  

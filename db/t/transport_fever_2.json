@@ -3,11 +3,11 @@
   "Name": "Transport Fever 2",
   "ProductSlug": "transport-fever-2",
   "Ranking_Rating": 216,
-  "Ranking_Popularity": 420,
+  "Ranking_Popularity": 421,
   "Ranking_PopularitySum": 340,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -2895,9 +2895,9 @@
       "ID": "achHq",
       "SetID": "dgl390n",
       "Name": "Settled down",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 690
+      "UsersEstimate": 704
     },
     {
       "ID": "achHq20",
@@ -2943,9 +2943,9 @@
       "ID": "achMassProduction",
       "SetID": "dgl390n",
       "Name": "Mass production",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 489
+      "UsersEstimate": 503
     },
     {
       "ID": "achMetropolis",
@@ -3095,8 +3095,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-07-15T20:00:09.728068+00:00",
-  "LastChanged_Achievements": "2023-07-17T00:03:11.0700083+00:00",
+  "LastChanged_Achievements": "2023-07-17T02:33:16.7447562+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:44.8284102+00:00",
-  "LastUpdate_Ratings": "2023-07-16T23:59:25.3274795+00:00",
-  "LastUpdate_Achievements": "2023-07-17T00:03:11.0700824+00:00"
+  "LastUpdate_Ratings": "2023-07-17T02:29:37.6979893+00:00",
+  "LastUpdate_Achievements": "2023-07-17T02:33:16.7448306+00:00"
 }

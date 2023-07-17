@@ -8,7 +8,7 @@
 | Little Helper | 32.00% | ~623 |
 | Nazis in Paris | 25.00% | ~487 |
 | Building the Fox | 21.00% | ~409 |
-| Green Ticket Roundup | 18.00% | ~350 |
+| Green Ticket Roundup | 18.00% | ~351 |
 | Arranging Boxes | 14.00% | ~273 |
 | Jakob | 13.00% | ~253 |
 | Le Juif et la France | 13.00% | ~253 |
@@ -17,7 +17,7 @@
 | Nuremberg Laws | 11.00% | ~214 |
 | May Their Memories be a Blessing | 9.00% | ~175 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,947 (Ranked 164)  
+Progressed: 1,948 (Ranked 164)  
 Completed: 169 (8.68%) (Ranked 23)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 169 (8.68%) (Ranked 23)
 | 2023-07-14 | 1,926 | 162 |
 | 2023-07-15 | 1,935 | 164 |
 | 2023-07-16 | 1,947 | 168 |
-| 2023-07-17 | 1,947 | 169 |
+| 2023-07-17 | 1,948 | 169 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

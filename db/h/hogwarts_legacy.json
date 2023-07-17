@@ -2,12 +2,12 @@
   "ID": "e97659b501af4e3981d5430dad170911",
   "Name": "Hogwarts Legacy",
   "ProductSlug": "hogwarts-legacy",
-  "Ranking_Rating": 108,
+  "Ranking_Rating": 109,
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 42,
+  "Ranking_EOS_NewPlayers": 43,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -5008,18 +5008,24 @@
       "Rating": 4.77,
       "NumberOfAwards": 39322,
       "NumberOfAwardsMax": 21005
+    },
+    {
+      "Time": "2023-07-17T02:27:13.5829569+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 39359,
+      "NumberOfAwardsMax": 21042
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 39322,
-  "NumberOfAwardsMax": 21005,
+  "NumberOfAwards": 39359,
+  "NumberOfAwardsMax": 21042,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 21005
+      "Count": 21042
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -5088,9 +5094,9 @@
       "Count": 560
     }
   ],
-  "EOS_Progressed": 287794,
+  "EOS_Progressed": 287806,
   "EOS_Completed": 429,
-  "EOS_NewPlayers": 1446,
+  "EOS_NewPlayers": 1420,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -14468,6 +14474,11 @@
       "Time": "2023-07-17T00:03:42.5401731+00:00",
       "NumProgressed": 287794,
       "NumCompleted": 429
+    },
+    {
+      "Time": "2023-07-17T02:33:55.4891239+00:00",
+      "NumProgressed": 287806,
+      "NumCompleted": 429
     }
   ],
   "TotalAchievements": 45,
@@ -14479,7 +14490,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34535
+      "UsersEstimate": 34537
     },
     {
       "ID": "PFA_10",
@@ -14599,7 +14610,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 25901
+      "UsersEstimate": 25903
     },
     {
       "ID": "PFA_24",
@@ -14663,7 +14674,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 25901
+      "UsersEstimate": 25903
     },
     {
       "ID": "PFA_31",
@@ -14807,7 +14818,7 @@
       "Name": "First Class Student",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 28779
+      "UsersEstimate": 28781
     },
     {
       "ID": "PFA_7",
@@ -14815,7 +14826,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 28779
+      "UsersEstimate": 28781
     },
     {
       "ID": "PFA_8",
@@ -14823,7 +14834,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 25901
+      "UsersEstimate": 25903
     },
     {
       "ID": "PFA_9",
@@ -14838,16 +14849,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 287794,
+      "Progressed": 287806,
       "Completed": 429
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-07-16T23:57:33.4214115+00:00",
-  "LastChanged_Achievements": "2023-07-17T00:03:42.5401725+00:00",
+  "LastChanged": "2023-07-17T02:27:13.5829568+00:00",
+  "LastChanged_Achievements": "2023-07-17T02:33:55.4891232+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:19.3801839+00:00",
-  "LastUpdate_Ratings": "2023-07-16T23:57:33.4214122+00:00",
-  "LastUpdate_Achievements": "2023-07-17T00:03:42.5402713+00:00"
+  "LastUpdate_Ratings": "2023-07-17T02:27:13.5829574+00:00",
+  "LastUpdate_Achievements": "2023-07-17T02:33:55.4892276+00:00"
 }

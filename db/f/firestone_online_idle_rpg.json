@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1662,
+  "EOS_Progressed": 1663,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4259,6 +4259,11 @@
       "Time": "2023-07-16T23:02:13.6790195+00:00",
       "NumProgressed": 1662,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-17T02:32:20.520392+00:00",
+      "NumProgressed": 1663,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -4302,7 +4307,7 @@
       "Name": "Background Story",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "beastwarmachines",
@@ -4388,9 +4393,9 @@
       "ID": "dragonslayer",
       "SetID": "3nl4bcg",
       "Name": "Dragon Slayer",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 100
     },
     {
       "ID": "ebonyjungleliberator",
@@ -4454,7 +4459,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "fourleafclover",
@@ -4598,7 +4603,7 @@
       "Name": "Milestone collector",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "minerclicker",
@@ -4646,7 +4651,7 @@
       "Name": "Natural Talent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "pokerface",
@@ -4686,7 +4691,7 @@
       "Name": "Sailor",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "scientist",
@@ -4718,7 +4723,7 @@
       "Name": "Superior",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "templeofeternals",
@@ -4830,7 +4835,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1546
+      "UsersEstimate": 1547
     },
     {
       "ID": "warmachinesarmy",
@@ -4862,14 +4867,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1313
+      "UsersEstimate": 1314
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1662,
+      "Progressed": 1663,
       "Completed": 1
     }
   ],
@@ -4877,8 +4882,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-07-16T03:26:23.9449732+00:00",
-  "LastChanged_Achievements": "2023-07-17T00:00:21.5321293+00:00",
+  "LastChanged_Achievements": "2023-07-17T02:32:20.5203907+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:38.4078532+00:00",
-  "LastUpdate_Ratings": "2023-07-16T23:58:03.527203+00:00",
-  "LastUpdate_Achievements": "2023-07-17T00:00:21.5322229+00:00"
+  "LastUpdate_Ratings": "2023-07-17T02:27:52.1932176+00:00",
+  "LastUpdate_Achievements": "2023-07-17T02:32:20.5204943+00:00"
 }

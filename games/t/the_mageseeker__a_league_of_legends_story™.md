@@ -5,20 +5,20 @@ Rating: 4.81 (Ranked 76)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 96.00% | ~2,344 |
-| No more cages! | 92.00% | ~2,247 |
-| Everfrost | 78.00% | ~1,905 |
-| Pentakill | 77.00% | ~1,880 |
-| Dark Forest | 77.00% | ~1,880 |
-| The use of petricite | 74.00% | ~1,807 |
+| For Demacia | 96.00% | ~2,345 |
+| No more cages! | 92.00% | ~2,248 |
+| Everfrost | 78.00% | ~1,906 |
+| Pentakill | 77.00% | ~1,881 |
+| Dark Forest | 77.00% | ~1,881 |
+| The use of petricite | 74.00% | ~1,808 |
 | You can pet the dog | 61.00% | ~1,490 |
 | Big Helmet Bro | 36.00% | ~879 |
 | Clarion Cove | 36.00% | ~879 |
 | Past trauma | 35.00% | ~855 |
 | Thornbarrow | 35.00% | ~855 |
-| Elemental master | 34.00% | ~830 |
-| Ternmoat Headquarters | 34.00% | ~830 |
-| Cypress Glen Headquarters | 32.00% | ~781 |
+| Elemental master | 34.00% | ~831 |
+| Ternmoat Headquarters | 34.00% | ~831 |
+| Cypress Glen Headquarters | 32.00% | ~782 |
 | Petricite Burst | 30.00% | ~733 |
 | Old friend | 29.00% | ~708 |
 | Hijack | 28.00% | ~684 |
@@ -30,8 +30,8 @@ Rating: 4.81 (Ranked 76)
 | Little light | 21.00% | ~513 |
 | Capelworth | 21.00% | ~513 |
 | Iffighain Headquarters | 21.00% | ~513 |
-| Glyndemere | 20.00% | ~488 |
-| Full equipped | 20.00% | ~488 |
+| Glyndemere | 20.00% | ~489 |
+| Full equipped | 20.00% | ~489 |
 | Whispers in the Woods II | 17.00% | ~415 |
 | Quickmoore Headquarters | 17.00% | ~415 |
 | No more holding back | 16.00% | ~391 |
@@ -59,7 +59,7 @@ Rating: 4.81 (Ranked 76)
 | Silverwing nest | 2.00% | ~49 |
 | The Unshackled | 0.80% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,442 (Ranked 158)  
+Progressed: 2,443 (Ranked 158)  
 Completed: 5 (0.20%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,6 +142,7 @@ Completed: 5 (0.20%) (Ranked 163)
 | 2023-07-14 | 2,437 | 4 |
 | 2023-07-15 | 2,440 | 4 |
 | 2023-07-16 | 2,442 | 5 |
+| 2023-07-17 | 2,443 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

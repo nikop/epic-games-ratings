@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -124,7 +124,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2442,
+  "EOS_Progressed": 2443,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 1,
@@ -3024,6 +3024,11 @@
       "Time": "2023-07-16T22:03:29.8300409+00:00",
       "NumProgressed": 2442,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-17T02:32:56.3113814+00:00",
+      "NumProgressed": 2443,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -3083,7 +3088,7 @@
       "Name": "Elemental master",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -3099,7 +3104,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2344
+      "UsersEstimate": 2345
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -3115,7 +3120,7 @@
       "Name": "Everfrost",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 1905
+      "UsersEstimate": 1906
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -3211,7 +3216,7 @@
       "Name": "Pentakill",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1880
+      "UsersEstimate": 1881
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -3219,7 +3224,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2247
+      "UsersEstimate": 2248
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -3251,7 +3256,7 @@
       "Name": "Dark Forest",
       "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 1880
+      "UsersEstimate": 1881
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -3291,7 +3296,7 @@
       "Name": "Glyndemere",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "STB_MISSION5B_COMPLETED",
@@ -3371,7 +3376,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -3379,7 +3384,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -3411,7 +3416,7 @@
       "Name": "The use of petricite",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 1807
+      "UsersEstimate": 1808
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -3427,7 +3432,7 @@
       "Name": "Full equipped",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "STB_UNLOCK_ALL_ULTIMATES",
@@ -3458,7 +3463,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2442,
+      "Progressed": 2443,
       "Completed": 5
     }
   ],
@@ -3466,8 +3471,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-07-07T20:57:43.6161991+00:00",
-  "LastChanged_Achievements": "2023-07-17T00:02:32.0155683+00:00",
+  "LastChanged_Achievements": "2023-07-17T02:32:56.3113808+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:03.2281626+00:00",
-  "LastUpdate_Ratings": "2023-07-16T23:57:40.9941126+00:00",
-  "LastUpdate_Achievements": "2023-07-17T00:02:32.0156255+00:00"
+  "LastUpdate_Ratings": "2023-07-17T02:27:24.571422+00:00",
+  "LastUpdate_Achievements": "2023-07-17T02:32:56.3114514+00:00"
 }

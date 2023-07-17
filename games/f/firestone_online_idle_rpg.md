@@ -5,11 +5,11 @@ Rating: 4.08 (Ranked 896)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,546 |
-| World Map | 79.00% | ~1,313 |
+| Victor | 93.00% | ~1,547 |
+| World Map | 79.00% | ~1,314 |
 | Temple of Eternals | 56.00% | ~931 |
 | Prestigious | 53.00% | ~881 |
-| Fellowship Power | 41.00% | ~681 |
+| Fellowship Power | 41.00% | ~682 |
 | Guild Power | 25.00% | ~416 |
 | Prestigious x10 | 21.00% | ~349 |
 | The game is on | 19.00% | ~316 |
@@ -24,9 +24,9 @@ Rating: 4.08 (Ranked 896)
 | Lieutenant | 14.00% | ~233 |
 | Mysterious Rock | 13.00% | ~216 |
 | The Unstoppable | 13.00% | ~216 |
-| Milestone collector | 12.00% | ~199 |
-| Natural Talent | 12.00% | ~199 |
-| Superior | 12.00% | ~199 |
+| Milestone collector | 12.00% | ~200 |
+| Natural Talent | 12.00% | ~200 |
+| Superior | 12.00% | ~200 |
 | Scientist | 11.00% | ~183 |
 | Challenger | 10.00% | ~166 |
 | Hunter | 10.00% | ~166 |
@@ -45,17 +45,17 @@ Rating: 4.08 (Ranked 896)
 | The Expeditioner | 7.00% | ~116 |
 | Trader | 7.00% | ~116 |
 | Crystal Mining | 6.00% | ~100 |
+| Dragon Slayer | 6.00% | ~100 |
 | Enchanting skill | 6.00% | ~100 |
 | How Do You Turn This On? | 6.00% | ~100 |
 | Weekly Quest Completionist | 6.00% | ~100 |
 | Ancient Knowledge | 5.00% | ~83 |
 | Blueprint Upgrades | 5.00% | ~83 |
-| Dragon Slayer | 5.00% | ~83 |
 | Engineer Mastery | 5.00% | ~83 |
 | Lock And Load | 5.00% | ~83 |
 | Missions Dedication | 5.00% | ~83 |
-| Background Story | 4.00% | ~66 |
-| Sailor | 4.00% | ~66 |
+| Background Story | 4.00% | ~67 |
+| Sailor | 4.00% | ~67 |
 | Active Member | 3.00% | ~50 |
 | Arena Challenger | 3.00% | ~50 |
 | Ebony Jungle Liberator | 3.00% | ~50 |
@@ -81,7 +81,7 @@ Rating: 4.08 (Ranked 896)
 | War Machines Army | 0.20% | ~3 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,662 (Ranked 169)  
+Progressed: 1,663 (Ranked 169)  
 Completed: 1 (0.06%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,6 +169,7 @@ Completed: 1 (0.06%) (Ranked 197)
 | 2023-07-14 | 1,638 | 1 |
 | 2023-07-15 | 1,647 | 1 |
 | 2023-07-16 | 1,662 | 1 |
+| 2023-07-17 | 1,663 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

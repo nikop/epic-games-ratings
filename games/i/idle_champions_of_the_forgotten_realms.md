@@ -10,7 +10,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Ring of Regeneration | 0.30% | ~638 |
 | Seeking Allies | 0.30% | ~638 |
 | Mad Cow Disease | 0.30% | ~638 |
+| The Contagious Curse | 0.30% | ~638 |
 | The Mad Wizard | 0.30% | ~638 |
+| Friendly Imps | 0.30% | ~638 |
 | Pure Energy | 0.30% | ~638 |
 | The Crumbling Temple | 0.20% | ~425 |
 | Are Ya Chicken? | 0.20% | ~425 |
@@ -18,7 +20,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 0.20% | ~425 |
 | A Tale of Two Cities | 0.20% | ~425 |
 | Running of the Saurs | 0.20% | ~425 |
-| The Contagious Curse | 0.20% | ~425 |
 | Escort to Waterdeep | 0.20% | ~425 |
 | Close Escort | 0.20% | ~425 |
 | Constant Banditry | 0.20% | ~425 |
@@ -26,8 +27,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lost in the Deep | 0.20% | ~425 |
 | Easily Distracted | 0.20% | ~425 |
 | Underdeep Cartography | 0.20% | ~425 |
-| Friendly Imps | 0.20% | ~425 |
 | Overdue Rendezvous | 0.20% | ~425 |
+| The Templar's Camp | 0.20% | ~425 |
 | Intelligence Hunt | 0.10% | ~213 |
 | Seeds of Deceit | 0.10% | ~213 |
 | Visions of Strahd | 0.10% | ~213 |
@@ -294,7 +295,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Netherese Necropolis | 0.10% | ~179 |
 | Ineffectual Intellectuals | 0.10% | ~179 |
 | The Archaeologist and the Sailor | 0.10% | ~179 |
-| The Templar's Camp | 0.10% | ~213 |
 | The Haunted Jungle | 0.10% | ~213 |
 | Poor Guidance | 0.10% | ~213 |
 | Overwhelming Force | 0.10% | ~213 |
@@ -514,8 +514,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212,512 (Ranked 53)  
-Completed: 2,055 (0.97%) (Ranked 102)  
+Progressed: 212,548 (Ranked 53)  
+Completed: 2,056 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -602,7 +602,7 @@ Completed: 2,055 (0.97%) (Ranked 102)
 | 2023-07-14 | 211,507 | 2,050 |
 | 2023-07-15 | 212,014 | 2,053 |
 | 2023-07-16 | 212,501 | 2,055 |
-| 2023-07-17 | 212,512 | 2,055 |
+| 2023-07-17 | 212,548 | 2,056 |
 ## Awards
 Max (Diverse Characters): 5,036  (Ranked 66)  
 Sum: 30,550 (Ranked 38)  

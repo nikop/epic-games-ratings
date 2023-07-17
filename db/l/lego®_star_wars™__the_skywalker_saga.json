@@ -2634,10 +2634,16 @@
       "Rating": 4.78,
       "NumberOfAwards": 6487,
       "NumberOfAwardsMax": 2354
+    },
+    {
+      "Time": "2023-07-17T02:30:30.739289+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6488,
+      "NumberOfAwardsMax": 2354
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6487,
+  "NumberOfAwards": 6488,
   "NumberOfAwardsMax": 2354,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2663,7 +2669,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 479
+      "Count": 480
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2714,9 +2720,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 49891,
+  "EOS_Progressed": 49892,
   "EOS_Completed": 209,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -8999,6 +9005,11 @@
       "Time": "2023-07-16T21:04:38.7130472+00:00",
       "NumProgressed": 49891,
       "NumCompleted": 209
+    },
+    {
+      "Time": "2023-07-17T02:33:48.7717932+00:00",
+      "NumProgressed": 49892,
+      "NumCompleted": 209
     }
   ],
   "TotalAchievements": 45,
@@ -9034,7 +9045,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 39414
+      "UsersEstimate": 39415
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -9138,7 +9149,7 @@
       "Name": "Revenge of the Sith",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 19956
+      "UsersEstimate": 19957
     },
     {
       "ID": "COMPLETE_EPISODE_4",
@@ -9258,7 +9269,7 @@
       "Name": "\u0027\u0027Get the crews to their fighters\u0027\u0027",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 8980
+      "UsersEstimate": 8981
     },
     {
       "ID": "EARN_10B_STUDS",
@@ -9274,7 +9285,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 48394
+      "UsersEstimate": 48395
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -9346,7 +9357,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 26442
+      "UsersEstimate": 26443
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -9369,15 +9380,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 49891,
+      "Progressed": 49892,
       "Completed": 209
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
-  "LastChanged": "2023-07-15T22:02:25.2924257+00:00",
-  "LastChanged_Achievements": "2023-07-17T00:03:36.9003789+00:00",
+  "LastChanged": "2023-07-17T02:30:30.7392888+00:00",
+  "LastChanged_Achievements": "2023-07-17T02:33:48.7717921+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:41.0824625+00:00",
-  "LastUpdate_Ratings": "2023-07-17T00:00:07.3156192+00:00",
-  "LastUpdate_Achievements": "2023-07-17T00:03:36.9004555+00:00"
+  "LastUpdate_Ratings": "2023-07-17T02:30:30.7392895+00:00",
+  "LastUpdate_Achievements": "2023-07-17T02:33:48.7718666+00:00"
 }

@@ -21,13 +21,13 @@ Number of Ratings: 177  (23.09.2022)
 | Inspector | 0.60% | ~34 |
 | Social Butterfly | 0.60% | ~34 |
 | Amy | 0.50% | ~29 |
+| It Smells Like Roses | 0.50% | ~14 |
+| Smooth Operator: Ashley | 0.50% | ~29 |
 | The Muse: Madison | 0.50% | ~29 |
 | The Magic Number | 0.50% | ~29 |
 | Amy: Scavenger Hunt | 0.40% | ~23 |
 | I'll Be Back | 0.40% | ~23 |
 | Casanova | 0.40% | ~23 |
-| It Smells Like Roses | 0.40% | ~11 |
-| Smooth Operator: Ashley | 0.40% | ~23 |
 | Stephanie | 0.40% | ~23 |
 | The Crush | 0.40% | ~23 |
 | Vickie | 0.40% | ~23 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | Sucker Punch | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,744 (Ranked 133)  
+Progressed: 5,745 (Ranked 133)  
 Completed: 3 (0.05%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,6 +163,7 @@ Completed: 3 (0.05%) (Ranked 201)
 | 2023-07-14 | 5,737 | 3 |
 | 2023-07-15 | 5,743 | 3 |
 | 2023-07-16 | 5,744 | 3 |
+| 2023-07-17 | 5,745 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -12,15 +12,15 @@ Rating: 4.37 (Ranked 722)
 | One step down | 27.00% | ~81 |
 | My dear Magda | 27.00% | ~81 |
 | Lord Clayton | 22.00% | ~66 |
-| The other side of the mirror | 15.00% | ~45 |
+| The other side of the mirror | 16.00% | ~48 |
 | Little Mary | 14.00% | ~42 |
 | There is freedom in awakening | 11.00% | ~33 |
 | Ritual | 9.00% | ~27 |
 | Cowardice | 9.00% | ~27 |
 | Bloodrush | 8.00% | ~24 |
 | True magic doesn't exist | 7.00% | ~21 |
+| The moth and the flame | 6.00% | ~18 |
 | Moon Cloudiness Sonata by Danloop | 6.00% | ~18 |
-| The moth and the flame | 5.00% | ~15 |
 | Redemption | 4.00% | ~12 |
 | Sacrifice | 3.00% | ~9 |
 | Lamentum | 3.00% | ~9 |

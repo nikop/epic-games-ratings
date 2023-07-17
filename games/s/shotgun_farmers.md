@@ -16,8 +16,8 @@
 | No Diggity | 41.00% | ~65 |
 | Amateur Survivor | 30.00% | ~48 |
 | 10K | 26.00% | ~54 |
+| Bouncemato | 26.00% | ~41 |
 | 15K | 25.00% | ~52 |
-| Bouncemato | 25.00% | ~40 |
 | Grave Digger | 22.00% | ~35 |
 | Drinking Problem | 21.00% | ~44 |
 | Professional Survivor | 20.00% | ~32 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209 (Ranked 265)  
+Progressed: 209 (Ranked 266)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |

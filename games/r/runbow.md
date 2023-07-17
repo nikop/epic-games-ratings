@@ -5,18 +5,18 @@ Rating: 4.46 (Ranked 611)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~130,744 |
-| My First Runbow | 50.00% | ~123,343 |
-| It's The Fall | 26.00% | ~64,138 |
-| Be Aggressive | 21.00% | ~51,804 |
-| The Stunner | 21.00% | ~51,804 |
-| Curator | 20.00% | ~49,337 |
-| Crowning Around | 18.00% | ~44,403 |
+| In The Zone | 53.00% | ~130,745 |
+| My First Runbow | 50.00% | ~123,344 |
+| It's The Fall | 26.00% | ~64,139 |
+| Be Aggressive | 21.00% | ~51,805 |
+| The Stunner | 21.00% | ~51,805 |
+| Curator | 20.00% | ~49,338 |
+| Crowning Around | 18.00% | ~44,404 |
 | Can You Dig It? | 17.00% | ~41,937 |
 | You Juan-A-Go? | 16.00% | ~39,470 |
 | Chan-tastic | 15.00% | ~37,003 |
 | Muddy Waters | 15.00% | ~37,003 |
-| Toasty! | 13.00% | ~32,069 |
+| Toasty! | 13.00% | ~32,070 |
 | Lazy Laser | 8.00% | ~19,735 |
 | Into The Drift | 7.00% | ~17,268 |
 | Ready? Fight! | 7.00% | ~17,268 |
@@ -30,8 +30,8 @@ Rating: 4.46 (Ranked 611)
 | Just A Bit | 1.00% | ~2,467 |
 | Tubular, Dude | 1.00% | ~2,467 |
 | What A Trip | 0.90% | ~2,220 |
-| Here We Go! | 0.80% | ~1,973 |
-| Please The King | 0.80% | ~1,973 |
+| Here We Go! | 0.80% | ~1,974 |
+| Please The King | 0.80% | ~1,974 |
 | Clear-Cut | 0.50% | ~1,233 |
 | Breaking Out | 0.40% | ~987 |
 | Disposable | 0.40% | ~987 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 611)
 | Talent Scout | 0.10% | ~247 |
 | True Completionist | 0.10% | ~247 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246,686 (Ranked 43)  
+Progressed: 246,689 (Ranked 43)  
 Completed: 3 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 3 (0.00%) (Ranked 236)
 | 2023-07-14 | 246,575 | 3 |
 | 2023-07-15 | 246,627 | 3 |
 | 2023-07-16 | 246,682 | 3 |
-| 2023-07-17 | 246,686 | 3 |
+| 2023-07-17 | 246,689 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
@@ -54,7 +54,7 @@
   "Tags": [],
   "EOS_Progressed": 394,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.52,
   "EosHistory": [
@@ -422,9 +422,9 @@
       "ID": "ACH_016",
       "SetID": "72imik0",
       "Name": "Curious and Beautiful",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH_017",
@@ -582,9 +582,9 @@
       "ID": "ACH_034",
       "SetID": "72imik0",
       "Name": "Comtesse Margaux de Vos",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 177
+      "UsersEstimate": 181
     },
     {
       "ID": "ACH_035",
@@ -743,8 +743,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-07-07T15:57:52.1284059+00:00",
-  "LastChanged_Achievements": "2023-07-17T00:02:16.2298583+00:00",
+  "LastChanged_Achievements": "2023-07-17T02:32:37.5188589+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:16.2609653+00:00",
-  "LastUpdate_Ratings": "2023-07-16T23:57:47.7055737+00:00",
-  "LastUpdate_Achievements": "2023-07-17T00:02:16.2298993+00:00"
+  "LastUpdate_Ratings": "2023-07-17T02:27:33.57341+00:00",
+  "LastUpdate_Achievements": "2023-07-17T02:32:37.5189267+00:00"
 }

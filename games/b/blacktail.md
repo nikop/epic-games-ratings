@@ -7,7 +7,7 @@ Rating: 4.68 (Ranked 240)
 | ---- | ---------- | ----- |
 | Tooth fairy | 26.00% | ~143 |
 | Dental maturity | 20.00% | ~110 |
-| Devil's in the details | 14.00% | ~77 |
+| Devil's in the details | 15.00% | ~82 |
 | Uprooting | 13.00% | ~72 |
 | Forbidden techniques | 12.00% | ~66 |
 | Devoted | 9.00% | ~50 |

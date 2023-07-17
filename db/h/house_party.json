@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
@@ -356,9 +356,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5744,
+  "EOS_Progressed": 5745,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3346,6 +3346,11 @@
       "Time": "2023-07-16T03:33:42.0807683+00:00",
       "NumProgressed": 5744,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-17T02:35:58.6300255+00:00",
+      "NumProgressed": 5745,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -3611,9 +3616,9 @@
       "ID": "ItSmellsLikeRoses",
       "SetID": "5f3a6d9",
       "Name": "It Smells Like Roses",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     },
     {
       "ID": "Katherine",
@@ -3715,9 +3720,9 @@
       "ID": "SO_Ashley",
       "SetID": "bmkn7o4",
       "Name": "Smooth Operator: Ashley",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 29
     },
     {
       "ID": "SO_Madison",
@@ -3908,21 +3913,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 2783,
+      "Progressed": 2784,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 5744,
+      "Progressed": 5745,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-03-31T05:57:11.1498515+00:00",
-  "LastChanged_Achievements": "2023-07-17T00:05:21.6376955+00:00",
+  "LastChanged_Achievements": "2023-07-17T02:35:58.630025+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:13.6474836+00:00",
-  "LastUpdate_Ratings": "2023-07-16T23:57:28.9550709+00:00",
-  "LastUpdate_Achievements": "2023-07-17T00:05:21.6377893+00:00"
+  "LastUpdate_Ratings": "2023-07-17T02:27:07.9246103+00:00",
+  "LastUpdate_Achievements": "2023-07-17T02:35:58.6301199+00:00"
 }

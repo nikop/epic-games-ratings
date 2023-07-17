@@ -21,7 +21,7 @@ Number of Ratings: 180  (23.09.2022)
 | Cadet | 53.00% | ~762 |
 | Transport master | 52.00% | ~747 |
 | Sculpturer | 50.00% | ~718 |
-| Settled down | 48.00% | ~690 |
+| Settled down | 49.00% | ~704 |
 | First electric train arrived | 47.00% | ~675 |
 | First ship arrived | 46.00% | ~661 |
 | Now what? | 46.00% | ~661 |
@@ -29,7 +29,7 @@ Number of Ratings: 180  (23.09.2022)
 | First aircraft arrived | 41.00% | ~589 |
 | Exemplary student | 41.00% | ~589 |
 | Transport shark | 40.00% | ~575 |
-| Mass production | 34.00% | ~489 |
+| Mass production | 35.00% | ~503 |
 | Aircraft entrepreneur | 33.00% | ~474 |
 | Crowd in a train | 31.00% | ~445 |
 | The future is now, old man | 31.00% | ~445 |
@@ -156,9 +156,9 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-16 | 1,436 | 0 |
 | 2023-07-17 | 1,437 | 0 |
 ## Awards
-Max (Highly Recommended): 40  (Ranked 420)  
+Max (Highly Recommended): 40  (Ranked 421)  
 Sum: 274 (Ranked 340)  
-Diff (max vs sum): 80  
+Diff (max vs sum): 81  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 40 |

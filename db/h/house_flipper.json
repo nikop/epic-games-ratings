@@ -1740,7 +1740,7 @@
       "Count": 210
     }
   ],
-  "EOS_Progressed": 19923,
+  "EOS_Progressed": 19924,
   "EOS_Completed": 19,
   "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
@@ -5870,6 +5870,11 @@
       "Time": "2023-07-16T19:08:01.542829+00:00",
       "NumProgressed": 19923,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-07-17T02:36:39.0669005+00:00",
+      "NumProgressed": 19924,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -5913,7 +5918,7 @@
       "Name": "Worth Every Penny",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2988
+      "UsersEstimate": 2989
     },
     {
       "ID": "EstateAgent",
@@ -5929,7 +5934,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18728
+      "UsersEstimate": 18729
     },
     {
       "ID": "GameOver",
@@ -5993,7 +5998,7 @@
       "Name": "Just Enough",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3785
+      "UsersEstimate": 3786
     },
     {
       "ID": "Negotiator",
@@ -6017,7 +6022,7 @@
       "Name": "Alpha Male",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3785
+      "UsersEstimate": 3786
     },
     {
       "ID": "SeniorEstateAgent",
@@ -6064,15 +6069,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19923,
+      "Progressed": 19924,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-07-16T16:59:36.4047458+00:00",
-  "LastChanged_Achievements": "2023-07-17T00:05:53.9138611+00:00",
+  "LastChanged_Achievements": "2023-07-17T02:36:39.0669+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:29.4539579+00:00",
-  "LastUpdate_Ratings": "2023-07-16T23:59:13.3000558+00:00",
-  "LastUpdate_Achievements": "2023-07-17T00:05:53.9139048+00:00"
+  "LastUpdate_Ratings": "2023-07-17T02:29:24.2758016+00:00",
+  "LastUpdate_Achievements": "2023-07-17T02:36:39.0669414+00:00"
 }

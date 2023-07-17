@@ -11,7 +11,7 @@ Rating: 4.58 (Ranked 422)
 | Swish | 56.00% | ~362 |
 | Clean up on Aisle 9 | 40.00% | ~258 |
 | Machine Maxed | 30.00% | ~194 |
-| Bug Fixer | 25.00% | ~162 |
+| Bug Fixer | 26.00% | ~168 |
 | Existential dread | 25.00% | ~162 |
 | Gerald of Riviera | 25.00% | ~162 |
 | Goal | 22.00% | ~142 |
@@ -46,8 +46,8 @@ Rating: 4.58 (Ranked 422)
 | Intergalactic, planetary, planetary... | 1.00% | ~6 |
 | Fresh Prince of Grindstone | 0.90% | ~6 |
 | True Capitalist | 0.90% | ~6 |
+| It's a horror game | 0.90% | ~6 |
 | Once upon a slime | 0.80% | ~5 |
-| It's a horror game | 0.80% | ~5 |
 | Smells like teen spirit | 0.80% | ~5 |
 | Got 9999 problem but a Zombie ain't one | 0.80% | ~5 |
 | Friends Reunited | 0.60% | ~4 |

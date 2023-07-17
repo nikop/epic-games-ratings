@@ -2032,9 +2032,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 34999,
+  "EOS_Progressed": 35001,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 598,
+  "EOS_NewPlayers": 597,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -11212,6 +11212,11 @@
       "Time": "2023-07-17T00:03:19.3869159+00:00",
       "NumProgressed": 34999,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-07-17T02:33:27.5812067+00:00",
+      "NumProgressed": 35001,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 75,
@@ -11255,7 +11260,7 @@
       "Name": "Cursed Creature",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 19949
+      "UsersEstimate": 19951
     },
     {
       "ID": "achievements_14",
@@ -11327,7 +11332,7 @@
       "Name": "Chainbreaker - I",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 20999
+      "UsersEstimate": 21001
     },
     {
       "ID": "achievements_24",
@@ -11335,7 +11340,7 @@
       "Name": "Chainbreaker - II",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 19249
+      "UsersEstimate": 19251
     },
     {
       "ID": "achievements_25",
@@ -11471,7 +11476,7 @@
       "Name": "Path of the Necromancer",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 23099
+      "UsersEstimate": 23101
     },
     {
       "ID": "achievements_40",
@@ -11527,7 +11532,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 29749
+      "UsersEstimate": 29751
     },
     {
       "ID": "achievements_47",
@@ -11559,7 +11564,7 @@
       "Name": "Necromancer\u0027s Apprentice",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 17849
+      "UsersEstimate": 17851
     },
     {
       "ID": "achievements_50",
@@ -11591,7 +11596,7 @@
       "Name": "Extraction",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 19949
+      "UsersEstimate": 19951
     },
     {
       "ID": "achievements_54",
@@ -11799,7 +11804,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 25549
+      "UsersEstimate": 25551
     },
     {
       "ID": "achievements_8",
@@ -11822,15 +11827,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 34999,
+      "Progressed": 35001,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-07-14T17:59:14.2814679+00:00",
-  "LastChanged_Achievements": "2023-07-17T00:03:19.3869154+00:00",
+  "LastChanged_Achievements": "2023-07-17T02:33:27.5812056+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:42.77874+00:00",
-  "LastUpdate_Ratings": "2023-07-16T23:58:38.5712055+00:00",
-  "LastUpdate_Achievements": "2023-07-17T00:03:19.3870608+00:00"
+  "LastUpdate_Ratings": "2023-07-17T02:28:35.4276757+00:00",
+  "LastUpdate_Achievements": "2023-07-17T02:33:27.5813537+00:00"
 }
