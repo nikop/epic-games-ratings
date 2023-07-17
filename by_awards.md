@@ -3,7 +3,7 @@
 | 1 | [Fortnite](games/f/fortnite.md) | 1,504,227 | 4.29 | 781 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 475,147 | 4.50 | 552 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 300,265 | 4.68 | 240 |
-| 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 199,286 | 4.68 | 240 |
+| 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 199,688 | 4.68 | 240 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 186,531 | 4.19 | 849 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 159,530 | 4.88 | 19 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 144,280 | 4.52 | 521 |
@@ -321,14 +321,14 @@
 | 319 | [Overcooked](games/o/overcooked.md) | 112 | 4.68 | 240 |
 | 320 | [First Class Trouble](games/f/first_class_trouble.md) | 111 | 4.50 | 552 |
 | 321 | [Faeria](games/f/faeria.md) | 108 | 4.45 | 624 |
-| 322 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 106 | 4.50 | 552 |
-| 322 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 106 | 4.46 | 611 |
-| 324 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 105 | 4.51 | 540 |
-| 325 | [Phantom Brigade](games/p/phantom_brigade.md) | 104 | 4.62 | 347 |
-| 326 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 103 | 3.91 | 932 |
-| 327 | [Just Die Already](games/j/just_die_already.md) | 102 | 4.52 | 521 |
-| 327 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 102 | 4.56 | 457 |
-| 327 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 102 | 4.36 | 730 |
+| 321 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 108 | 4.56 | 457 |
+| 323 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 106 | 4.50 | 552 |
+| 323 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 106 | 4.46 | 611 |
+| 325 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 105 | 4.51 | 540 |
+| 326 | [Phantom Brigade](games/p/phantom_brigade.md) | 104 | 4.62 | 347 |
+| 327 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 103 | 3.91 | 932 |
+| 327 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 103 | 4.36 | 730 |
+| 329 | [Just Die Already](games/j/just_die_already.md) | 102 | 4.52 | 521 |
 | 330 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 101 | 4.80 | 82 |
 | 331 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 99 | 4.50 | 552 |
 | 331 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 99 | 4.47 | 601 |

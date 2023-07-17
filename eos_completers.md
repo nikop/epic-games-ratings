@@ -25,7 +25,7 @@
 | 23 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 9.52% |
 | 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.68% |
 | 25 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
-| 26 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.47% |
+| 26 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.40% |
 | 27 | [Smelter](games/s/smelter.md) | 8.11% |
 | 28 | [Ravenlok](games/r/ravenlok.md) | 7.44% |
 | 29 | [Time Loader](games/t/time_loader.md) | 7.14% |
@@ -42,7 +42,7 @@
 | 40 | [JARS](games/j/jars.md) | 4.84% |
 | 41 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
 | 42 | [Without Escape](games/w/without_escape.md) | 4.55% |
-| 43 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.54% |
+| 43 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.53% |
 | 44 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.29% |
 | 45 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.87% |
 | 46 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.75% |

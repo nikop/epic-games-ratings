@@ -19,7 +19,7 @@
 | [The Legend of Heroes: Trails into Reverie](games/t/the_legend_of_heroes__trails_into_reverie.md) | 2023-07-07 | - |  | - | 0 |
 | [Play with Me - Escape Room](games/c/c3e57c64bb4a468f8261f4038f3e903e.md) | 2023-07-06 | - |  | - | 0 |
 | [HORSE CLUB Adventures 2 - Hazelwood Stories](games/f/f03926dee08f4c29b20d907c4cb5f9e4.md) | 2023-07-06 | 42 (1,000 XP) | 13 | - | - |
-| [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 2023-07-05 | 16 (1,000 XP) | 118 | - | 0 |
+| [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 2023-07-05 | 16 (1,000 XP) | 119 | - | 0 |
 | [Line's Guarder](games/0/0622018a4c334c81b78577a8aff76d52.md) | 2023-07-05 | - |  | - | 0 |
 | [Yomi 2](games/y/yomi_2.md) | 2023-07-05 | - |  | - | - |
 | [RedNeck Bowl Games](games/5/5a082af4cd244192bd5fefd7433b349a.md) | 2023-07-05 | - |  | - | - |
@@ -57,7 +57,7 @@
 | [The Riflemen](games/t/the_riflemen.md) | 2023-06-30 | - |  | - | - |
 | [Traffic Brains 2](games/f/f6a9fcbf437b48b59cf3d54a75c20932.md) | 2023-06-30 | - |  | - | - |
 | [FRONT MISSION 1st: Remake](games/e/e6c7d54c946f4d3da27a4a6d4a45202f.md) | 2023-06-29 | 28 (1,000 XP) | 3 | - | 0 |
-| [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 2023-06-29 | 16 (1,000 XP) | 1,324 | - | 0 |
+| [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 2023-06-29 | 16 (1,000 XP) | 1,325 | - | 0 |
 | [Frightence](games/0/00f00dd1769a46568868a5fdb61748d4.md) | 2023-06-29 | - |  | - | - |
 | [Striker Manager 3](games/2/2825f101eb8b48fc8676beed92553e35.md) | 2023-06-29 | - |  | - | 0 |
 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 2023-06-29 | - |  | 4.32 | 55 |
@@ -90,7 +90,7 @@
 | [Prince of Persia: Warrior Within Standard Edition](games/0/0e0f32d81c1b4ce98a0db2bc03f2312c.md) | 2023-06-22 | - |  | - | - |
 | [YouCanDomino](games/f/ffdc5ced10554d2ab6f7ab1b920573a4.md) | 2023-06-22 | - |  | - | - |
 | [Mars Colonization](games/2/2e32af4418934f70a72e6a64d4813806.md) | 2023-06-22 | - |  | - | 0 |
-| [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 2023-06-22 | 42 (1,000 XP) | 301 | - | 0 |
+| [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 2023-06-22 | 42 (1,000 XP) | 302 | - | 0 |
 | [Life Changer](games/f/f853934fb6874d8783701be12ba6b8b9.md) | 2023-06-22 | 20 (1,000 XP) | 0 | - | 0 |
 | [Active DBG Brave's Rage](games/7/767ef5b53bde471090219bbec4f9d78a.md) | 2023-06-22 | 42 (1,000 XP) | 0 | - | - |
 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 2023-06-22 | - |  | 4.57 | 0 |
