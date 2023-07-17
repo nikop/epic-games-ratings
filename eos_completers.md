@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.00% |
+| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.62% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.48% |
 | 3 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 30.00% |
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.00% |
@@ -23,12 +23,12 @@
 | 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.26% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 23 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.68% |
-| 24 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.62% |
-| 25 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
+| 24 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
+| 25 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.47% |
 | 26 | [Smelter](games/s/smelter.md) | 8.11% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 7.44% |
-| 28 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.32% |
-| 29 | [Time Loader](games/t/time_loader.md) | 7.14% |
+| 28 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.14% |
+| 28 | [Time Loader](games/t/time_loader.md) | 7.14% |
 | 30 | [Scorn](games/s/scorn.md) | 7.05% |
 | 31 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.96% |
 | 32 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.67% |
@@ -53,7 +53,7 @@
 | 51 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.52% |
 | 52 | [Bunny Park](games/b/bunny_park.md) | 3.41% |
 | 53 | [Monster Harvest](games/m/monster_harvest.md) | 3.38% |
-| 54 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.35% |
+| 54 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.34% |
 | 55 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.33% |
 | 56 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.08% |
 | 57 | [The Complex](games/t/the_complex.md) | 3.07% |
@@ -106,7 +106,7 @@
 | 104 | [Adios](games/a/adios.md) | 0.96% |
 | 105 | [Hades](games/h/hades.md) | 0.89% |
 | 106 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
-| 107 | [Dungeons 3](games/d/dungeons_3.md) | 0.84% |
+| 107 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
 | 108 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.78% |
 | 109 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
 | 109 | [Lemon Cake](games/l/lemon_cake.md) | 0.76% |
