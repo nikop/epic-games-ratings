@@ -6,34 +6,34 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~588,994 |
-| Right Back At Ya | 38.00% | ~329,143 |
-| The Lovers | 34.00% | ~294,497 |
-| Stanislavski's Method | 28.00% | ~242,527 |
-| The Wheel of Fortune | 26.00% | ~225,203 |
-| The Hermit | 24.00% | ~207,880 |
-| Christmas Tree Attack | 22.00% | ~190,557 |
-| True Soldier | 22.00% | ~190,557 |
-| The High Priestess | 21.00% | ~181,895 |
-| Legend of The Afterlife | 21.00% | ~181,895 |
-| Life of the Road | 20.00% | ~173,233 |
-| Full Body Conversion | 18.00% | ~155,910 |
-| The World | 17.00% | ~147,248 |
-| Bushido and Chill | 16.00% | ~138,587 |
-| Gun Fu | 15.00% | ~129,925 |
-| True Warrior | 15.00% | ~129,925 |
-| Judy vs Night City | 14.00% | ~121,263 |
-| To Protect and Serve | 13.00% | ~112,602 |
-| Master Crafter | 13.00% | ~112,602 |
-| I Am The Law | 13.00% | ~112,602 |
-| Two Heads, One Bullet | 11.00% | ~95,278 |
-| The Wandering Fool | 9.00% | ~77,955 |
-| The Quick and the Dead | 9.00% | ~77,955 |
-| Ten out of Ten | 8.00% | ~69,293 |
+| The Fool | 68.00% | ~589,001 |
+| Right Back At Ya | 38.00% | ~329,148 |
+| The Lovers | 34.00% | ~294,501 |
+| Stanislavski's Method | 28.00% | ~242,530 |
+| The Wheel of Fortune | 26.00% | ~225,206 |
+| The Hermit | 24.00% | ~207,883 |
+| Christmas Tree Attack | 22.00% | ~190,559 |
+| True Soldier | 22.00% | ~190,559 |
+| The High Priestess | 21.00% | ~181,897 |
+| Legend of The Afterlife | 21.00% | ~181,897 |
+| Life of the Road | 20.00% | ~173,236 |
+| Full Body Conversion | 18.00% | ~155,912 |
+| The World | 17.00% | ~147,250 |
+| Bushido and Chill | 16.00% | ~138,588 |
+| Gun Fu | 15.00% | ~129,927 |
+| True Warrior | 15.00% | ~129,927 |
+| Judy vs Night City | 14.00% | ~121,265 |
+| To Protect and Serve | 13.00% | ~112,603 |
+| Master Crafter | 13.00% | ~112,603 |
+| I Am The Law | 13.00% | ~112,603 |
+| Two Heads, One Bullet | 11.00% | ~95,280 |
+| The Wandering Fool | 9.00% | ~77,956 |
+| The Quick and the Dead | 9.00% | ~77,956 |
+| Ten out of Ten | 8.00% | ~69,294 |
 | Breathtaking | 7.00% | ~60,632 |
-| To Bad Decisions! | 6.00% | ~51,970 |
-| The Star | 6.00% | ~51,970 |
-| The Sun | 6.00% | ~51,970 |
+| To Bad Decisions! | 6.00% | ~51,971 |
+| The Star | 6.00% | ~51,971 |
+| The Sun | 6.00% | ~51,971 |
 | Must Be Rats | 4.00% | ~34,647 |
 | Temperance | 4.00% | ~34,647 |
 | City Lights | 3.00% | ~25,985 |
@@ -43,15 +43,15 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Jungle | 3.00% | ~25,985 |
 | V for Vendetta | 3.00% | ~25,985 |
 | It's Elementary | 3.00% | ~25,985 |
-| Autojock | 2.00% | ~17,323 |
-| Frequent Flyer | 2.00% | ~17,323 |
-| The Wasteland | 2.00% | ~17,323 |
-| Daemon In The Shell | 2.00% | ~17,323 |
-| The Devil | 2.00% | ~17,323 |
+| Autojock | 2.00% | ~17,324 |
+| Frequent Flyer | 2.00% | ~17,324 |
+| The Wasteland | 2.00% | ~17,324 |
+| Daemon In The Shell | 2.00% | ~17,324 |
+| The Devil | 2.00% | ~17,324 |
 | Gunslinger | 1.00% | ~8,662 |
 | Rough Landing | 0.50% | ~4,331 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 866,167 (Ranked 14)  
+Progressed: 866,178 (Ranked 14)  
 Completed: 1,878 (0.22%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,10 +139,10 @@ Completed: 1,878 (0.22%) (Ranked 159)
 | 2023-07-14 | 865,617 | 1,869 |
 | 2023-07-15 | 865,846 | 1,874 |
 | 2023-07-16 | 866,078 | 1,878 |
-| 2023-07-17 | 866,167 | 1,878 |
+| 2023-07-17 | 866,178 | 1,878 |
 ## Awards
 Max (Character Customization): 73,337  (Ranked 9)  
-Sum: 192,528 (Ranked 13)  
+Sum: 192,541 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -154,7 +154,7 @@ Diff (max vs sum): -4
 | This game is Extremely Fun | 8,354 |
 | This game is Highly Recommended | 8,313 |
 | This game is Relaxing | 8,288 |
-| This game has Quickly Understood Controls | 8,148 |
+| This game has Quickly Understood Controls | 8,161 |
 | This game has Amazing Characters | 8,123 |
 | This game has a Creative Community | 5,340 |
 | This game has Obsessive Gameplay | 3,165 |
@@ -339,4 +339,4 @@ Diff (max vs sum): -4
 | 2023-07-14 | 4.62 | - | 73,146 | 191,858 |
 | 2023-07-15 | 4.62 | - | 73,221 | 192,096 |
 | 2023-07-16 | 4.62 | - | 73,337 | 192,382 |
-| 2023-07-17 | 4.62 | - | 73,337 | 192,528 |
+| 2023-07-17 | 4.62 | - | 73,337 | 192,541 |

@@ -537,7 +537,7 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 217438,
+  "EOS_Progressed": 217442,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 605,
   "EOS_NewCompleters": 0,
@@ -9882,6 +9882,11 @@
       "Time": "2023-07-17T13:24:06.5336634+00:00",
       "NumProgressed": 217438,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-17T14:05:49.9956426+00:00",
+      "NumProgressed": 217442,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 34,
@@ -9893,7 +9898,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 41313
+      "UsersEstimate": 41314
     },
     {
       "ID": "ACH_BASE_10",
@@ -9933,7 +9938,7 @@
       "Name": "Power Ranger",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19569
+      "UsersEstimate": 19570
     },
     {
       "ID": "ACH_BASE_16",
@@ -9941,7 +9946,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19569
+      "UsersEstimate": 19570
     },
     {
       "ID": "ACH_BASE_17",
@@ -9949,7 +9954,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19569
+      "UsersEstimate": 19570
     },
     {
       "ID": "ACH_BASE_18",
@@ -9957,7 +9962,7 @@
       "Name": "Radium Ready",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19569
+      "UsersEstimate": 19570
     },
     {
       "ID": "ACH_BASE_19",
@@ -9973,7 +9978,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13046
+      "UsersEstimate": 13047
     },
     {
       "ID": "ACH_BASE_20",
@@ -10157,14 +10162,14 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19569
+      "UsersEstimate": 19570
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 217438,
+      "Progressed": 217442,
       "Completed": 4
     }
   ],
@@ -10172,8 +10177,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-07-16T20:59:34.3016289+00:00",
-  "LastChanged_Achievements": "2023-07-17T13:24:06.5336629+00:00",
+  "LastChanged_Achievements": "2023-07-17T14:05:49.9956419+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:23.6938503+00:00",
-  "LastUpdate_Ratings": "2023-07-17T13:16:56.6508742+00:00",
-  "LastUpdate_Achievements": "2023-07-17T13:24:06.533795+00:00"
+  "LastUpdate_Ratings": "2023-07-17T13:59:11.8317245+00:00",
+  "LastUpdate_Achievements": "2023-07-17T14:05:49.9957328+00:00"
 }

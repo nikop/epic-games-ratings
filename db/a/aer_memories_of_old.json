@@ -374,10 +374,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15482,
+  "EOS_Progressed": 15483,
   "EOS_Completed": 324,
-  "EOS_NewPlayers": 595,
-  "EOS_NewCompleters": 11,
+  "EOS_NewPlayers": 590,
+  "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
     {
@@ -9579,6 +9579,11 @@
       "Time": "2023-07-17T13:22:15.033644+00:00",
       "NumProgressed": 15482,
       "NumCompleted": 324
+    },
+    {
+      "Time": "2023-07-17T14:04:18.9691609+00:00",
+      "NumProgressed": 15483,
+      "NumCompleted": 324
     }
   ],
   "TotalAchievements": 20,
@@ -9606,7 +9611,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2167
+      "UsersEstimate": 2168
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -9710,7 +9715,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 11766
+      "UsersEstimate": 11767
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -9726,7 +9731,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2167
+      "UsersEstimate": 2168
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -9749,15 +9754,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 15482,
+      "Progressed": 15483,
       "Completed": 324
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-07-17T13:22:15.0336434+00:00",
+  "LastChanged_Achievements": "2023-07-17T14:04:18.9691604+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:08.6336222+00:00",
-  "LastUpdate_Ratings": "2023-07-17T13:18:46.7011287+00:00",
-  "LastUpdate_Achievements": "2023-07-17T13:22:15.0337397+00:00"
+  "LastUpdate_Ratings": "2023-07-17T14:00:45.6082316+00:00",
+  "LastUpdate_Achievements": "2023-07-17T14:04:18.9692334+00:00"
 }

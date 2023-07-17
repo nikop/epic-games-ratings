@@ -6,24 +6,24 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Play a Single Player Game | 84.00% | ~10,835 |
-| Settler | 81.00% | ~10,448 |
-| Explorer | 79.00% | ~10,190 |
-| Friendly Family | 75.00% | ~9,674 |
-| Intrepid | 69.00% | ~8,900 |
-| Able | 60.00% | ~7,739 |
-| Architect | 60.00% | ~7,739 |
-| Mason | 60.00% | ~7,739 |
-| Strong | 59.00% | ~7,610 |
-| Hanging Gardens | 58.00% | ~7,481 |
-| Noble | 57.00% | ~7,352 |
-| Oracle | 57.00% | ~7,352 |
-| Good | 55.00% | ~7,094 |
-| Judaism | 54.00% | ~6,965 |
-| Just | 53.00% | ~6,836 |
-| Keystone | 53.00% | ~6,836 |
-| Glorious | 51.00% | ~6,578 |
-| Trade Caravan | 51.00% | ~6,578 |
+| Play a Single Player Game | 84.00% | ~10,837 |
+| Settler | 81.00% | ~10,450 |
+| Explorer | 79.00% | ~10,192 |
+| Friendly Family | 75.00% | ~9,676 |
+| Intrepid | 69.00% | ~8,902 |
+| Able | 60.00% | ~7,741 |
+| Architect | 60.00% | ~7,741 |
+| Mason | 60.00% | ~7,741 |
+| Strong | 59.00% | ~7,612 |
+| Hanging Gardens | 58.00% | ~7,483 |
+| Noble | 57.00% | ~7,354 |
+| Oracle | 57.00% | ~7,354 |
+| Good | 55.00% | ~7,096 |
+| Judaism | 54.00% | ~6,967 |
+| Just | 53.00% | ~6,838 |
+| Keystone | 53.00% | ~6,838 |
+| Glorious | 51.00% | ~6,580 |
+| Trade Caravan | 51.00% | ~6,580 |
 | Naming Landmarks | 49.00% | ~6,321 |
 | Learned | 48.00% | ~6,192 |
 | Pioneer | 48.00% | ~6,192 |
@@ -226,13 +226,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Unfinished Business | 0.60% | ~77 |
 | Philip's Bronze Crown | 0.60% | ~77 |
 | Learn By Playing 2 - Just | 0.60% | ~77 |
-| Gold Victory (Carthage 3) | 0.50% | ~64 |
-| Rebuilder | 0.50% | ~64 |
-| Philip's Silver Crown | 0.50% | ~64 |
-| Mighty Bucephalus | 0.50% | ~64 |
-| Knot So Hard | 0.50% | ~64 |
-| A Tyresome Siege | 0.50% | ~64 |
-| No Characters | 0.50% | ~64 |
+| Gold Victory (Carthage 3) | 0.50% | ~65 |
+| Rebuilder | 0.50% | ~65 |
+| Philip's Silver Crown | 0.50% | ~65 |
+| Mighty Bucephalus | 0.50% | ~65 |
+| Knot So Hard | 0.50% | ~65 |
+| A Tyresome Siege | 0.50% | ~65 |
+| No Characters | 0.50% | ~65 |
 | Bronze Victory (Carthage 4) | 0.40% | ~52 |
 | Silver Victory (Carthage 4) | 0.40% | ~52 |
 | Avenger | 0.40% | ~52 |
@@ -292,7 +292,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.10% | ~13 |
 | Win a Play-By-Cloud Game | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,899 (Ranked 113)  
+Progressed: 12,901 (Ranked 113)  
 Completed: 5 (0.04%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -380,7 +380,7 @@ Completed: 5 (0.04%) (Ranked 206)
 | 2023-07-14 | 12,842 | 5 |
 | 2023-07-15 | 12,862 | 5 |
 | 2023-07-16 | 12,887 | 5 |
-| 2023-07-17 | 12,899 | 5 |
+| 2023-07-17 | 12,901 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 256)  
 Sum: 1,780 (Ranked 204)  

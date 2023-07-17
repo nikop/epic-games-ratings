@@ -278,9 +278,9 @@
       "Count": 185
     }
   ],
-  "EOS_Progressed": 425443,
+  "EOS_Progressed": 425453,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 1813,
+  "EOS_NewPlayers": 1811,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9793,6 +9793,11 @@
       "Time": "2023-07-17T13:21:29.3060393+00:00",
       "NumProgressed": 425443,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-07-17T14:03:32.1786828+00:00",
+      "NumProgressed": 425453,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 52,
@@ -9812,7 +9817,7 @@
       "Name": "100 KILLS",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 59562
+      "UsersEstimate": 59563
     },
     {
       "ID": "200_HEADSHOTS HEADSHOTS (0-200)",
@@ -9820,7 +9825,7 @@
       "Name": "200 HEADSHOTS",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 34035
+      "UsersEstimate": 34036
     },
     {
       "ID": "50_HEADSHOTS HEADSHOTS (0-50)",
@@ -9828,7 +9833,7 @@
       "Name": "50 HEADSHOTS",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 55308
+      "UsersEstimate": 55309
     },
     {
       "ID": "BIGUPS",
@@ -9868,7 +9873,7 @@
       "Name": "FINISHED CHAPTER 1",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 42544
+      "UsersEstimate": 42545
     },
     {
       "ID": "CHAPTER2",
@@ -9876,7 +9881,7 @@
       "Name": "FINISHED CHAPTER 2",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 29781
+      "UsersEstimate": 29782
     },
     {
       "ID": "CHAPTER3",
@@ -9900,7 +9905,7 @@
       "Name": "FINISH CHAPTER 5",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 21272
+      "UsersEstimate": 21273
     },
     {
       "ID": "CHAPTER6",
@@ -9932,7 +9937,7 @@
       "Name": "CATHARTIC ESCAPISM",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 21272
+      "UsersEstimate": 21273
     },
     {
       "ID": "FIREFIGHT10 LEVEL (0-10)",
@@ -10180,7 +10185,7 @@
       "Name": "SCIENCE AND INDUSTRY",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 42544
+      "UsersEstimate": 42545
     },
     {
       "ID": "SOUL",
@@ -10219,7 +10224,7 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 425443,
+      "Progressed": 425453,
       "Completed": 38
     }
   ],
@@ -10227,8 +10232,8 @@
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "LastChanged": "2023-07-04T08:00:18.0682194+00:00",
-  "LastChanged_Achievements": "2023-07-17T13:21:29.3060387+00:00",
+  "LastChanged_Achievements": "2023-07-17T14:03:32.1786818+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:28.1107898+00:00",
-  "LastUpdate_Ratings": "2023-07-17T13:18:02.7532261+00:00",
-  "LastUpdate_Achievements": "2023-07-17T13:21:29.3061507+00:00"
+  "LastUpdate_Ratings": "2023-07-17T14:00:10.1605188+00:00",
+  "LastUpdate_Achievements": "2023-07-17T14:03:32.1787832+00:00"
 }

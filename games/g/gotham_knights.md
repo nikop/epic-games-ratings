@@ -11,6 +11,7 @@ Rating: 4.18 (Ranked 856)
 | Knighthood | 4.00% | ~2,685 |
 | Loose Ends | 4.00% | ~2,685 |
 | The Batman Family | 3.00% | ~2,014 |
+| Protector of Gotham | 3.00% | ~2,014 |
 | Something in the Clay | 3.00% | ~2,014 |
 | The Show Mud Go On | 3.00% | ~2,014 |
 | Quartzer Life Crisis | 3.00% | ~2,014 |
@@ -24,7 +25,6 @@ Rating: 4.18 (Ranked 856)
 | From Inside Gotham's Walls | 3.00% | ~2,014 |
 | End of an Era | 2.00% | ~1,343 |
 | In Your Element | 2.00% | ~1,343 |
-| Protector of Gotham | 2.00% | ~1,343 |
 | Rock and a Hard Place | 2.00% | ~1,343 |
 | Not On My Watch | 2.00% | ~1,343 |
 | Bulldozed | 2.00% | ~1,343 |

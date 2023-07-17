@@ -152,9 +152,9 @@
       "ID": "CgkIxYDzrbcPEAIQCg",
       "SetID": "4egpam7",
       "Name": "Pest Control",
-      "Percentage": 89,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "CgkIxYDzrbcPEAIQCw",
@@ -192,9 +192,9 @@
       "ID": "CgkIxYDzrbcPEAIQDw",
       "SetID": "4egpam7",
       "Name": "Dear Diary",
-      "Percentage": 100,
+      "Percentage": 111,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "CgkIxYDzrbcPEAIQEA",
@@ -327,8 +327,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-07-17T13:23:11.0817383+00:00",
+  "LastChanged_Achievements": "2023-07-17T14:05:04.7377319+00:00",
   "LastUpdate_AppInfo": "2023-07-11T11:56:57.8750622+00:00",
-  "LastUpdate_Ratings": "2023-07-17T13:15:05.4321692+00:00",
-  "LastUpdate_Achievements": "2023-07-17T13:23:11.0817624+00:00"
+  "LastUpdate_Ratings": "2023-07-17T13:57:42.0041538+00:00",
+  "LastUpdate_Achievements": "2023-07-17T14:05:04.7377555+00:00"
 }

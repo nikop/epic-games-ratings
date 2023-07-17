@@ -142,9 +142,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2937,
+  "EOS_Progressed": 2938,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2717,6 +2717,11 @@
       "Time": "2023-07-17T13:25:16.3082764+00:00",
       "NumProgressed": 2937,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-17T14:06:46.4978968+00:00",
+      "NumProgressed": 2938,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2760,7 +2765,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 1468
+      "UsersEstimate": 1469
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -2776,7 +2781,7 @@
       "Name": "Omelette Du Fromage",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 910
+      "UsersEstimate": 911
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -2784,7 +2789,7 @@
       "Name": "Stuff Of Nightmares",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "ACH_FINISH_HARD",
@@ -2840,7 +2845,7 @@
       "Name": "Call Me Snake",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1762
+      "UsersEstimate": 1763
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -2848,7 +2853,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 1909
+      "UsersEstimate": 1910
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -2904,7 +2909,7 @@
       "Name": "Come on, You Wanna Live Forever?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "ACH_MAX_TECKER",
@@ -2918,9 +2923,9 @@
       "ID": "ACH_MISSION_01",
       "SetID": "816efe",
       "Name": "Something Lurks Under The Hills",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 1703
+      "UsersEstimate": 1733
     },
     {
       "ID": "ACH_MISSION_02",
@@ -2928,7 +2933,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 1439
+      "UsersEstimate": 1440
     },
     {
       "ID": "ACH_MISSION_03",
@@ -2984,7 +2989,7 @@
       "Name": "The Passenger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "ACH_MISSION_10",
@@ -3024,7 +3029,7 @@
       "Name": "Snatched Out",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2173
+      "UsersEstimate": 2174
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -3032,7 +3037,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 2379
+      "UsersEstimate": 2380
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -3040,7 +3045,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1674
+      "UsersEstimate": 1675
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -3087,7 +3092,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 2937,
+      "Progressed": 2938,
       "Completed": 0
     }
   ],
@@ -3095,8 +3100,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-14T17:59:53.4622787+00:00",
-  "LastChanged_Achievements": "2023-07-17T13:25:16.308276+00:00",
+  "LastChanged_Achievements": "2023-07-17T14:06:46.4978963+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:18.2957495+00:00",
-  "LastUpdate_Ratings": "2023-07-17T13:17:52.9986763+00:00",
-  "LastUpdate_Achievements": "2023-07-17T13:25:16.3083369+00:00"
+  "LastUpdate_Ratings": "2023-07-17T14:00:02.8787697+00:00",
+  "LastUpdate_Achievements": "2023-07-17T14:06:46.4979779+00:00"
 }

@@ -32,6 +32,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Long Haul | 0.20% | ~425 |
 | Lost in the Deep | 0.20% | ~425 |
 | Easily Distracted | 0.20% | ~425 |
+| Rude Welcome | 0.20% | ~425 |
 | Underdeep Cartography | 0.20% | ~425 |
 | Overdue Rendezvous | 0.20% | ~425 |
 | The Templar's Camp | 0.20% | ~425 |
@@ -215,7 +216,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Enemy Summit | 0.10% | ~179 |
 | Mirage Arcane | 0.10% | ~179 |
 | Only Human | 0.10% | ~179 |
-| Rude Welcome | 0.10% | ~213 |
 | Moose Tracks | 0.10% | ~179 |
 | An Awakened Axe | 0.10% | ~179 |
 | CONtagious Cold | 0.10% | ~179 |
@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212,684 (Ranked 53)  
+Progressed: 212,699 (Ranked 53)  
 Completed: 2,056 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -602,16 +602,16 @@ Completed: 2,056 (0.97%) (Ranked 102)
 | 2023-07-14 | 211,507 | 2,050 |
 | 2023-07-15 | 212,014 | 2,053 |
 | 2023-07-16 | 212,501 | 2,055 |
-| 2023-07-17 | 212,684 | 2,056 |
+| 2023-07-17 | 212,699 | 2,056 |
 ## Awards
 Max (Diverse Characters): 5,041  (Ranked 66)  
-Sum: 30,557 (Ranked 38)  
+Sum: 30,559 (Ranked 38)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,041 |
 | This game is Great for Beginners | 4,977 |
-| This game has Quickly Understood Controls | 4,664 |
+| This game has Quickly Understood Controls | 4,666 |
 | This game is Relaxing | 4,557 |
 | This game has Amazing Characters | 4,008 |
 | This game is Highly Recommended | 4,007 |
@@ -791,4 +791,4 @@ Diff (max vs sum): 28
 | 2023-07-14 | 4.05 | - | 5,033 | 30,510 |
 | 2023-07-15 | 4.05 | - | 5,036 | 30,535 |
 | 2023-07-16 | 4.05 | - | 5,036 | 30,550 |
-| 2023-07-17 | 4.05 | - | 5,041 | 30,557 |
+| 2023-07-17 | 4.05 | - | 5,041 | 30,559 |

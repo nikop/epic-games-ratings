@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 618,
+  "EOS_Progressed": 619,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1191,6 +1191,11 @@
       "Time": "2023-07-17T13:23:18.633999+00:00",
       "NumProgressed": 618,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-17T14:05:10.8633968+00:00",
+      "NumProgressed": 619,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1200,9 +1205,9 @@
       "ID": "AMMO_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "This Isn\u0027t The Last Box",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 346
+      "UsersEstimate": 340
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -1376,9 +1381,9 @@
       "ID": "COOP_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Way It Should Be",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 37
+      "UsersEstimate": 31
     },
     {
       "ID": "COOP_ACHIEVEMENT_2",
@@ -1458,7 +1463,7 @@
       "Name": "Free Like Birds",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "FREE_ACHIEVEMENT_3",
@@ -1729,14 +1734,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 618,
+      "Progressed": 619,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-17T13:23:18.6339985+00:00",
+  "LastChanged_Achievements": "2023-07-17T14:05:10.8633963+00:00",
   "LastUpdate_AppInfo": "2023-07-13T13:57:00.6642341+00:00",
-  "LastUpdate_Ratings": "2023-07-17T13:14:56.6192929+00:00",
-  "LastUpdate_Achievements": "2023-07-17T13:23:18.6340741+00:00"
+  "LastUpdate_Ratings": "2023-07-17T13:57:35.6566131+00:00",
+  "LastUpdate_Achievements": "2023-07-17T14:05:10.8634723+00:00"
 }

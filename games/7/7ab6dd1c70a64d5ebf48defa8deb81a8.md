@@ -4,21 +4,21 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Break Out | 16.00% | ~3 |
+| Find Allies | 5.00% | ~1 |
+| Trinity | 5.00% | ~1 |
+| Essence Blow | 5.00% | ~1 |
 | Flawless Victory | 5.00% | ~1 |
-| Find Allies | 0.00% | ~0 |
 | Powerful Allies | 0.00% | ~0 |
 | Calm before the Storm | 0.00% | ~0 |
 | To Battle | 0.00% | ~0 |
 | Godslayer | 0.00% | ~0 |
 | Clear Sight | 0.00% | ~0 |
 | A Taste of Wrath | 0.00% | ~0 |
-| Trinity | 0.00% | ~0 |
 | Forgemaster | 0.00% | ~0 |
 | Shardbearer | 0.00% | ~0 |
 | Adventurer | 0.00% | ~0 |
 | Airborne | 0.00% | ~0 |
 | Tributes of Caladrias | 0.00% | ~0 |
-| Essence Blow | 0.00% | ~0 |
 | Shatterer | 0.00% | ~0 |
 | Shatter Them All | 0.00% | ~0 |
 | Slayer | 0.00% | ~0 |

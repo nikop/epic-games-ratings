@@ -279,9 +279,9 @@
       "ID": "intro_dream",
       "SetID": "69co12a",
       "Name": "Such a strange dream\u2026",
-      "Percentage": 100,
+      "Percentage": 200,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "law_student",
@@ -573,8 +573,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-07-17T13:23:38.1984069+00:00",
+  "LastChanged_Achievements": "2023-07-17T14:05:27.349134+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:25.5299714+00:00",
-  "LastUpdate_Ratings": "2023-07-17T13:15:50.1540633+00:00",
-  "LastUpdate_Achievements": "2023-07-17T13:23:38.1984725+00:00"
+  "LastUpdate_Ratings": "2023-07-17T13:58:14.4198742+00:00",
+  "LastUpdate_Achievements": "2023-07-17T14:05:27.3491985+00:00"
 }
