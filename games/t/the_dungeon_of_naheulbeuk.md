@@ -6,30 +6,30 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 58.00% | ~109,615 |
-| Where's that freaking Dwarf? | 46.00% | ~86,936 |
-| GG EZ | 27.00% | ~51,028 |
-| Speedrun | 26.00% | ~49,138 |
-| Déjà vu | 21.00% | ~39,688 |
-| Sock! SOCK! | 16.00% | ~30,239 |
-| DM intervention | 13.00% | ~24,569 |
-| Fireproof Wizardess | 8.00% | ~15,119 |
-| A beer, two curses, three companions | 7.00% | ~13,229 |
-| Livin' in a dwarven paradise | 6.00% | ~11,340 |
-| Way of the Wimp | 6.00% | ~11,340 |
-| The plot thickens... At the tavern | 4.00% | ~7,560 |
-| The Woman in the High Castle | 3.00% | ~5,670 |
-| I am the night | 3.00% | ~5,670 |
-| Team Building Exercise | 3.00% | ~5,670 |
-| Shiny and Crôm | 2.00% | ~3,780 |
-| The demons' feast | 2.00% | ~3,780 |
-| The Great Library | 2.00% | ~3,780 |
-| Torture and Sensibility | 2.00% | ~3,780 |
-| Res Judicata | 2.00% | ~3,780 |
-| Dwarf Fortress | 2.00% | ~3,780 |
-| The Ranger of Chaos | 2.00% | ~3,780 |
-| Thieves' Guild Accreditation | 2.00% | ~3,780 |
-| Oh, when I'll be level 10... | 2.00% | ~3,780 |
+| Alt+F4 | 58.00% | ~109,642 |
+| Where's that freaking Dwarf? | 46.00% | ~86,957 |
+| GG EZ | 27.00% | ~51,040 |
+| Speedrun | 26.00% | ~49,150 |
+| Déjà vu | 21.00% | ~39,698 |
+| Sock! SOCK! | 16.00% | ~30,246 |
+| DM intervention | 13.00% | ~24,575 |
+| Fireproof Wizardess | 8.00% | ~15,123 |
+| A beer, two curses, three companions | 7.00% | ~13,233 |
+| Livin' in a dwarven paradise | 6.00% | ~11,342 |
+| Way of the Wimp | 6.00% | ~11,342 |
+| The plot thickens... At the tavern | 4.00% | ~7,562 |
+| The Woman in the High Castle | 3.00% | ~5,671 |
+| I am the night | 3.00% | ~5,671 |
+| Team Building Exercise | 3.00% | ~5,671 |
+| Shiny and Crôm | 2.00% | ~3,781 |
+| The demons' feast | 2.00% | ~3,781 |
+| The Great Library | 2.00% | ~3,781 |
+| Torture and Sensibility | 2.00% | ~3,781 |
+| Res Judicata | 2.00% | ~3,781 |
+| Dwarf Fortress | 2.00% | ~3,781 |
+| The Ranger of Chaos | 2.00% | ~3,781 |
+| Thieves' Guild Accreditation | 2.00% | ~3,781 |
+| Oh, when I'll be level 10... | 2.00% | ~3,781 |
 | Urik's Depths | 1.00% | ~1,890 |
 | Look but don't touch | 1.00% | ~1,890 |
 | The beards of change | 1.00% | ~1,890 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 188,992 (Ranked 58)  
+Progressed: 189,038 (Ranked 58)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-14 | 184,670 | 0 |
 | 2023-07-15 | 186,755 | 0 |
 | 2023-07-16 | 188,738 | 0 |
-| 2023-07-17 | 188,992 | 0 |
+| 2023-07-17 | 189,038 | 0 |
 ## Awards
 Max (Character Customization): 108  (Ranked 321)  
 Sum: 108 (Ranked 408)  

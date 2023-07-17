@@ -20,7 +20,7 @@ Rating: 4.39 (Ranked 703)
 | Firestarter | 42.00% | ~516 |
 | Sensei | 42.00% | ~516 |
 | The meaning of Kain | 40.00% | ~492 |
-| Technophobe | 38.00% | ~467 |
+| Technophobe | 39.00% | ~479 |
 | Recycler | 37.00% | ~455 |
 | Are you not entertained? | 33.00% | ~406 |
 | Jarhead | 33.00% | ~406 |
@@ -57,7 +57,7 @@ Rating: 4.39 (Ranked 703)
 | Shadow Boxin' | 0.80% | ~10 |
 | Goaaaaal! | 0.70% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,229 (Ranked 180)  
+Progressed: 1,229 (Ranked 181)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |

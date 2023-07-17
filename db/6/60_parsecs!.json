@@ -626,9 +626,9 @@
       "ID": "Achievement_Crafty",
       "SetID": "c01p6e5",
       "Name": "Crafty",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 309
+      "UsersEstimate": 316
     },
     {
       "ID": "Achievement_DontPanic",
@@ -923,8 +923,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-07-17T05:05:15.2221831+00:00",
+  "LastChanged_Achievements": "2023-07-17T06:05:18.9372369+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:50.6403792+00:00",
-  "LastUpdate_Ratings": "2023-07-17T04:56:55.3036657+00:00",
-  "LastUpdate_Achievements": "2023-07-17T05:05:15.2222127+00:00"
+  "LastUpdate_Ratings": "2023-07-17T05:56:59.3328493+00:00",
+  "LastUpdate_Achievements": "2023-07-17T06:05:18.9372939+00:00"
 }

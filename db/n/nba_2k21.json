@@ -5698,10 +5698,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 88715,
       "NumberOfAwardsMax": 11725
+    },
+    {
+      "Time": "2023-07-17T06:00:00.2858262+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 88716,
+      "NumberOfAwardsMax": 11725
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 88715,
+  "NumberOfAwards": 88716,
   "NumberOfAwardsMax": 11725,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -5715,7 +5721,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 10484
+      "Count": 10485
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5771,8 +5777,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:01.1099601+00:00",
-  "LastChanged": "2023-07-16T16:00:28.2927531+00:00",
+  "LastChanged": "2023-07-17T06:00:00.2858259+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:19.025975+00:00",
-  "LastUpdate_Ratings": "2023-07-17T05:00:01.0345911+00:00",
-  "LastUpdate_Achievements": "2023-07-17T05:00:20.5021932+00:00"
+  "LastUpdate_Ratings": "2023-07-17T06:00:00.2858266+00:00",
+  "LastUpdate_Achievements": "2023-07-17T06:00:21.5495664+00:00"
 }

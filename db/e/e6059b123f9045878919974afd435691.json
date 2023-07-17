@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 613,
+  "EOS_Progressed": 614,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1171,6 +1171,11 @@
       "Time": "2023-07-17T02:34:45.3929894+00:00",
       "NumProgressed": 613,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-17T06:04:41.1379478+00:00",
+      "NumProgressed": 614,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1182,7 +1187,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -1222,7 +1227,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -1230,7 +1235,7 @@
       "Name": "Goat Whisperer",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ATK_ACHIEVEMENT_3",
@@ -1310,7 +1315,7 @@
       "Name": "Where There\u0027s Smoke There\u0027s Fire",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "BURN_ACHIEVEMENT_3",
@@ -1486,7 +1491,7 @@
       "Name": "Call The Winchester",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "KILLR_ACHIEVEMENT_5",
@@ -1540,25 +1545,25 @@
       "ID": "LEECHER_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Don\u0027t Turn Your Back",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 135
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "1, 2, 3! Grandma!",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 43
     },
     {
       "ID": "MARY_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Hostage of the Elderly",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 129
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -1612,9 +1617,9 @@
       "ID": "OUT_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Last of Us",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 129
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -1709,14 +1714,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 613,
+      "Progressed": 614,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-17T05:04:36.4848112+00:00",
+  "LastChanged_Achievements": "2023-07-17T06:04:41.137947+00:00",
   "LastUpdate_AppInfo": "2023-07-13T13:57:00.6642341+00:00",
-  "LastUpdate_Ratings": "2023-07-17T04:57:03.4935021+00:00",
-  "LastUpdate_Achievements": "2023-07-17T05:04:36.484869+00:00"
+  "LastUpdate_Ratings": "2023-07-17T05:57:09.5390952+00:00",
+  "LastUpdate_Achievements": "2023-07-17T06:04:41.1380208+00:00"
 }

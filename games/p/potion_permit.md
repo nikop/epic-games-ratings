@@ -5,19 +5,19 @@ Rating: 3.82 (Ranked 939)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,437 |
-| The First Step | 89.00% | ~1,305 |
-| Moonbury Traveller | 64.00% | ~938 |
+| Welcome to Moonbury | 98.00% | ~1,438 |
+| The First Step | 89.00% | ~1,306 |
+| Moonbury Traveller | 64.00% | ~939 |
 | Rookie Chemist | 63.00% | ~924 |
-| Great Doctor | 52.00% | ~762 |
-| Dog Whisperer | 49.00% | ~718 |
+| Great Doctor | 52.00% | ~763 |
+| Dog Whisperer | 49.00% | ~719 |
 | Friendly | 48.00% | ~704 |
 | The Capitalist | 44.00% | ~645 |
-| K.O.! | 43.00% | ~630 |
-| Intermediate Chemist | 40.00% | ~586 |
-| Decorative Mind | 31.00% | ~454 |
-| Lumber Specialist | 31.00% | ~454 |
-| Catch of the Day | 25.00% | ~366 |
+| K.O.! | 43.00% | ~631 |
+| Intermediate Chemist | 40.00% | ~587 |
+| Decorative Mind | 31.00% | ~455 |
+| Lumber Specialist | 31.00% | ~455 |
+| Catch of the Day | 25.00% | ~367 |
 | Kind-hearted | 24.00% | ~352 |
 | Amateur Chef | 22.00% | ~323 |
 | Fishing Guru | 20.00% | ~293 |
@@ -44,7 +44,7 @@ Rating: 3.82 (Ranked 939)
 | Moonbury Navigator | 1.00% | ~15 |
 | Being a donut... | 0.70% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,466 (Ranked 172)  
+Progressed: 1,467 (Ranked 172)  
 Completed: 8 (0.55%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,6 +113,7 @@ Completed: 8 (0.55%) (Ranked 123)
 | 2023-07-13 | 1,462 | 8 |
 | 2023-07-15 | 1,464 | 8 |
 | 2023-07-16 | 1,466 | 8 |
+| 2023-07-17 | 1,467 | 8 |
 ## Awards
 Max (Character Customization): 68  (Ranked 376)  
 Sum: 68 (Ranked 433)  

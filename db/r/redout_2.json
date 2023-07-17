@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1066,
+  "EOS_Progressed": 1067,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -615,6 +615,11 @@
       "Time": "2023-07-16T23:01:06.089717+00:00",
       "NumProgressed": 1066,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-17T06:00:15.7453281+00:00",
+      "NumProgressed": 1067,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -778,7 +783,7 @@
       "Name": "Enter the Speed Gauntlet",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "CAREERCLASSMASTERS",
@@ -922,15 +927,15 @@
       "Name": "I just can\u0027t choose",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "ONELIVERY",
       "SetID": "3dh70f3",
       "Name": "Suit up",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 171
     },
     {
       "ID": "ONEMODULE",
@@ -1000,9 +1005,9 @@
       "ID": "WINBEAT",
       "SetID": "3dh70f3",
       "Name": "Beat you to it!",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "WINGRANDSLAM",
@@ -1041,7 +1046,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1066,
+      "Progressed": 1067,
       "Completed": 0
     }
   ],
@@ -1049,8 +1054,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-07-17T04:01:28.9121451+00:00",
+  "LastChanged_Achievements": "2023-07-17T06:00:15.7453056+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:52.2995402+00:00",
-  "LastUpdate_Ratings": "2023-07-17T04:58:12.3500549+00:00",
-  "LastUpdate_Achievements": "2023-07-17T04:01:28.912183+00:00"
+  "LastUpdate_Ratings": "2023-07-17T05:58:16.652315+00:00",
+  "LastUpdate_Achievements": "2023-07-17T06:00:15.7475194+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 37,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1229,
+  "EOS_Progressed": 1230,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 5.04,
   "EosHistory": [
@@ -1462,6 +1462,11 @@
       "Time": "2023-07-16T19:03:26.2379972+00:00",
       "NumProgressed": 1229,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-07-17T06:00:26.2242611+00:00",
+      "NumProgressed": 1230,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 11,
@@ -1473,7 +1478,7 @@
       "Name": "Cutepie",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "ACH_BloccatoInGhiacciaia",
@@ -1489,7 +1494,7 @@
       "Name": "Screwdriver",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "ACH_DialogoAspettoFisico",
@@ -1537,7 +1542,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -1560,15 +1565,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1229,
+      "Progressed": 1230,
       "Completed": 62
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "LastChanged_Achievements": "2023-07-17T05:00:25.2523014+00:00",
+  "LastChanged_Achievements": "2023-07-17T06:00:26.2242605+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:07.7115125+00:00",
-  "LastUpdate_Ratings": "2023-07-17T04:59:50.2603436+00:00",
-  "LastUpdate_Achievements": "2023-07-17T05:00:25.2523164+00:00"
+  "LastUpdate_Ratings": "2023-07-17T05:59:51.6382925+00:00",
+  "LastUpdate_Achievements": "2023-07-17T06:00:26.224279+00:00"
 }
