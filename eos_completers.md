@@ -30,7 +30,7 @@
 | 28 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.14% |
 | 28 | [Time Loader](games/t/time_loader.md) | 7.14% |
 | 30 | [Scorn](games/s/scorn.md) | 7.05% |
-| 31 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.96% |
+| 31 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.95% |
 | 32 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.67% |
 | 33 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 34 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -117,7 +117,7 @@
 | 113 | [Them and Us](games/t/them_and_us.md) | 0.66% |
 | 116 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
 | 116 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.63% |
-| 116 | [Train Valley](games/t/train_valley.md) | 0.63% |
+| 118 | [Train Valley](games/t/train_valley.md) | 0.62% |
 | 119 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.60% |
 | 120 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.59% |
 | 121 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.58% |
