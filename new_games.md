@@ -37,7 +37,7 @@
 | [POLYGOD](games/p/polygod.md) | 2023-07-01 | - |  | - | 0 |
 | [Everlasting Guilt](games/e/everlasting_guilt.md) | 2023-07-01 | - |  | - | - |
 | [Corrupt - Political Simulator](games/8/898948344c0c49218e067f34221acd08.md) | 2023-07-01 | - |  | - | 0 |
-| [Chased by Darkness](games/e/e6059b123f9045878919974afd435691.md) | 2023-07-01 | 66 (1,000 XP) | 618 | - | 0 |
+| [Chased by Darkness](games/e/e6059b123f9045878919974afd435691.md) | 2023-07-01 | 66 (1,000 XP) | 619 | - | 0 |
 | [Vaudeville](games/2/2b5e1a8f075848f29b2617c7dca5d01a.md) | 2023-06-30 | - |  | - | 0 |
 | [A Long Journey to an Uncertain End](games/b/be9da78f6f3449c8a2cdbb100853fc30.md) | 2023-06-30 | - |  | - | - |
 | [Sleengster](games/1/1573f526f4ae4d3b89c6aa09e0020c1b.md) | 2023-06-30 | - |  | - | - |
@@ -103,6 +103,6 @@
 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2023-06-20 | 6 (1,000 XP) | 42 | - | 0 |
 | [OverDrift Festival](games/6/607b4b770360431eae1b003047ac0d64.md) | 2023-06-20 | - |  | - | - |
 | [Crimsonland](games/0/04d22e276f144358875f1789bd49f135.md) | 2023-06-20 | 22 (1,000 XP) | 0 | - | - |
-| [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 2023-06-19 | 45 (1,000 XP) | 2,937 | 4.43 | 0 |
+| [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 2023-06-19 | 45 (1,000 XP) | 2,938 | 4.43 | 0 |
 | [The House of Da Vinci 2](games/4/4a0076f825604014b0540bb5d957d3bb.md) | 2023-06-19 | 24 (1,000 XP) | 11 | - | 0 |
 | [The House of Da Vinci 3](games/6/6bd33f792d3d4350ab80acb891597df8.md) | 2023-06-19 | 30 (1,000 XP) | 9 | - | 0 |
