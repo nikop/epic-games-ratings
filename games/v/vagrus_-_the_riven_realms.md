@@ -43,12 +43,14 @@
 | Making Contact | 0.90% | ~1 |
 | Loremaster | 0.90% | ~1 |
 | Adept | 0.90% | ~1 |
+| Talent Nurtured | 0.90% | ~1 |
 | Embellished | 0.90% | ~1 |
 | Huntress Unbound | 0.90% | ~1 |
 | Conqueror | 0.90% | ~1 |
 | Business As Usual | 0.90% | ~1 |
 | Legacy of a Mercenary | 0.90% | ~1 |
 | A Real Battle | 0.90% | ~1 |
+| The Darkness Within | 0.90% | ~1 |
 | Celebrity | 0.90% | ~1 |
 | Ruiner | 0.90% | ~1 |
 | Life... Finds a Way | 0.90% | ~1 |
@@ -65,7 +67,6 @@
 | Watcher | 0.00% | ~0 |
 | Executor | 0.00% | ~0 |
 | General | 0.00% | ~0 |
-| Talent Nurtured | 0.00% | ~0 |
 | Company of Heroes | 0.00% | ~0 |
 | Accomplished Explorer | 0.00% | ~0 |
 | Over the Horizon | 0.00% | ~0 |
@@ -91,7 +92,6 @@
 | Settler | 0.00% | ~0 |
 | Escort | 0.00% | ~0 |
 | Despoiler | 0.00% | ~0 |
-| The Darkness Within | 0.00% | ~0 |
 | Arcanite | 0.00% | ~0 |
 | What Lies Below | 0.00% | ~0 |
 | Rage Repressed | 0.00% | ~0 |

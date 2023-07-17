@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 45,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -2015,9 +2015,9 @@
       "ID": "ACH_MAD_SCIENTIST",
       "SetID": "4kfb9pd",
       "Name": "Mad Scientist",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 595
+      "UsersEstimate": 621
     },
     {
       "ID": "ACH_REUNION",
@@ -2064,8 +2064,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-07-02T20:01:16.6679969+00:00",
-  "LastChanged_Achievements": "2023-07-17T15:05:12.5436249+00:00",
+  "LastChanged_Achievements": "2023-07-17T16:05:12.0815373+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:22.2405235+00:00",
-  "LastUpdate_Ratings": "2023-07-17T15:01:40.1528289+00:00",
-  "LastUpdate_Achievements": "2023-07-17T15:05:12.5436442+00:00"
+  "LastUpdate_Ratings": "2023-07-17T16:00:55.4330588+00:00",
+  "LastUpdate_Achievements": "2023-07-17T16:05:12.0815589+00:00"
 }

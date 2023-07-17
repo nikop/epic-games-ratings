@@ -10,11 +10,11 @@ Number of Ratings: 177  (23.09.2022)
 | Smooth Operator: Madison | 3.00% | ~172 |
 | Caught in the Act | 2.00% | ~115 |
 | Katherine | 2.00% | ~115 |
+| If at First You Don't Succeed... | 2.00% | ~115 |
 | The Brahdyssey | 1.00% | ~57 |
 | Drunk and Disorderly: Stephanie | 1.00% | ~57 |
 | Life Found a Way | 1.00% | ~28 |
 | Relentless | 1.00% | ~57 |
-| If at First You Don't Succeed... | 1.00% | ~57 |
 | Drunk and Disorderly: Ashley | 0.70% | ~40 |
 | IRL Let's Player | 0.70% | ~40 |
 | Newcomer: Vickie | 0.70% | ~40 |

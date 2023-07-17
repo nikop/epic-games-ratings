@@ -5,16 +5,16 @@ Rating: 4.54 (Ranked 493)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 45.00% | ~4,042 |
+| Legal Counsel | 45.00% | ~4,043 |
 | Greasy Palms | 41.00% | ~3,683 |
 | South American Connection | 25.00% | ~2,246 |
 | Life of the Party | 19.00% | ~1,707 |
-| Tommy Two-Wheels | 15.00% | ~1,347 |
+| Tommy Two-Wheels | 15.00% | ~1,348 |
 | Big Heat from Little Havana | 14.00% | ~1,258 |
 | Chauffeur | 14.00% | ~1,258 |
 | Salutations My Little Friend | 10.00% | ~898 |
-| Iron-y | 9.00% | ~808 |
-| Gun for Hire | 9.00% | ~808 |
+| Iron-y | 9.00% | ~809 |
+| Gun for Hire | 9.00% | ~809 |
 | Mischief Managed | 8.00% | ~719 |
 | Vice City Mogul | 6.00% | ~539 |
 | Catch Me if You Can | 6.00% | ~539 |
@@ -22,25 +22,25 @@ Rating: 4.54 (Ranked 493)
 | Not my First Time | 5.00% | ~449 |
 | Grand Theft Auto | 5.00% | ~449 |
 | Pie Guy | 4.00% | ~359 |
-| Running Rampant | 3.00% | ~269 |
-| Point A to Point B | 3.00% | ~269 |
-| High Quality H2O | 3.00% | ~269 |
-| Bull in a China Shop | 3.00% | ~269 |
-| Somebody Call the Wambulance? | 3.00% | ~269 |
-| Just Like the Real Thing | 3.00% | ~269 |
-| Don't Need Roads | 3.00% | ~269 |
+| Running Rampant | 3.00% | ~270 |
+| Point A to Point B | 3.00% | ~270 |
+| High Quality H2O | 3.00% | ~270 |
+| Bull in a China Shop | 3.00% | ~270 |
+| Somebody Call the Wambulance? | 3.00% | ~270 |
+| Just Like the Real Thing | 3.00% | ~270 |
+| Don't Need Roads | 3.00% | ~270 |
 | One is Better Than Two | 2.00% | ~180 |
 | Take the Cannoli | 2.00% | ~180 |
+| Chopper’d Up | 2.00% | ~180 |
 | City Sleuth | 2.00% | ~180 |
 | Daredevil | 1.00% | ~90 |
-| Chopper’d Up | 1.00% | ~90 |
 | Born in the 80’s | 0.90% | ~81 |
 | Keepie-Uppy Okie Dokie | 0.90% | ~81 |
 | I'm Famous! | 0.90% | ~81 |
 | Done it All | 0.80% | ~72 |
 | Kingpin | 0.50% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,983 (Ranked 120)  
+Progressed: 8,984 (Ranked 120)  
 Completed: 43 (0.48%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 43 (0.48%) (Ranked 129)
 | 2023-07-14 | 8,964 | 43 |
 | 2023-07-15 | 8,973 | 43 |
 | 2023-07-16 | 8,981 | 43 |
-| 2023-07-17 | 8,983 | 43 |
+| 2023-07-17 | 8,984 | 43 |
 ## Awards
 Max (Great Boss Battles): 61  (Ranked 387)  
 Sum: 61 (Ranked 440)  

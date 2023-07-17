@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -3783,9 +3783,9 @@
       "ID": "Succeed",
       "SetID": "bmkn7o4",
       "Name": "If at First You Don\u0027t Succeed...",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 115
     },
     {
       "ID": "SuckerPunch",
@@ -3941,8 +3941,8 @@
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-03-31T05:57:11.1498515+00:00",
-  "LastChanged_Achievements": "2023-07-17T15:06:47.2402105+00:00",
+  "LastChanged_Achievements": "2023-07-17T16:06:15.057586+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:13.6474836+00:00",
-  "LastUpdate_Ratings": "2023-07-17T14:57:47.5775137+00:00",
-  "LastUpdate_Achievements": "2023-07-17T15:06:47.2402868+00:00"
+  "LastUpdate_Ratings": "2023-07-17T15:58:06.3660194+00:00",
+  "LastUpdate_Achievements": "2023-07-17T16:06:15.0576808+00:00"
 }

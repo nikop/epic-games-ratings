@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -187,9 +187,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 30346,
+  "EOS_Progressed": 30351,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 881,
+  "EOS_NewPlayers": 882,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -9667,6 +9667,11 @@
       "Time": "2023-07-17T15:04:10.0171352+00:00",
       "NumProgressed": 30346,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-07-17T16:04:25.5414119+00:00",
+      "NumProgressed": 30351,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -9678,7 +9683,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 4552
+      "UsersEstimate": 4553
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -9686,7 +9691,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6069
+      "UsersEstimate": 6070
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -9742,7 +9747,7 @@
       "Name": "Enjoy The Silence",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "ACH_11_WOLF_GUARD_CRUSHED",
@@ -9750,7 +9755,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1517
+      "UsersEstimate": 1518
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -9830,7 +9835,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1517
+      "UsersEstimate": 1518
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -9909,7 +9914,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 30346,
+      "Progressed": 30351,
       "Completed": 20
     }
   ],
@@ -9917,8 +9922,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-07-11T15:00:39.3575549+00:00",
-  "LastChanged_Achievements": "2023-07-17T15:04:10.0171346+00:00",
+  "LastChanged_Achievements": "2023-07-17T16:04:25.5414113+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:02.6964927+00:00",
-  "LastUpdate_Ratings": "2023-07-17T15:01:17.5356782+00:00",
-  "LastUpdate_Achievements": "2023-07-17T15:04:10.0171983+00:00"
+  "LastUpdate_Ratings": "2023-07-17T16:00:38.402286+00:00",
+  "LastUpdate_Achievements": "2023-07-17T16:04:25.5414895+00:00"
 }

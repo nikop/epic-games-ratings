@@ -5,34 +5,34 @@ Rating: 4.08 (Ranked 896)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,548 |
-| World Map | 79.00% | ~1,315 |
-| Temple of Eternals | 56.00% | ~932 |
-| Prestigious | 53.00% | ~882 |
+| Victor | 93.00% | ~1,549 |
+| World Map | 79.00% | ~1,316 |
+| Temple of Eternals | 56.00% | ~933 |
+| Prestigious | 53.00% | ~883 |
 | Fellowship Power | 41.00% | ~683 |
 | Guild Power | 25.00% | ~416 |
 | Prestigious x10 | 21.00% | ~350 |
-| The game is on | 19.00% | ~316 |
+| The game is on | 19.00% | ~317 |
 | Exotic Merchant | 17.00% | ~283 |
-| Dragon Clicker | 16.00% | ~266 |
-| Miner Clicker | 16.00% | ~266 |
+| Dragon Clicker | 16.00% | ~267 |
+| Miner Clicker | 16.00% | ~267 |
 | Full Party | 15.00% | ~250 |
 | Inspection | 15.00% | ~250 |
 | Dragon Master | 14.00% | ~233 |
 | Enlightenment | 14.00% | ~233 |
 | Hero inspection | 14.00% | ~233 |
 | Lieutenant | 14.00% | ~233 |
-| Mysterious Rock | 13.00% | ~216 |
-| The Unstoppable | 13.00% | ~216 |
+| Mysterious Rock | 13.00% | ~217 |
+| The Unstoppable | 13.00% | ~217 |
 | Milestone collector | 12.00% | ~200 |
 | Natural Talent | 12.00% | ~200 |
 | Superior | 12.00% | ~200 |
 | Scientist | 11.00% | ~183 |
-| Challenger | 10.00% | ~166 |
-| Hunter | 10.00% | ~166 |
-| Relic Of The Past | 10.00% | ~166 |
-| Scroll Master | 10.00% | ~166 |
-| The power of Awakening | 10.00% | ~166 |
+| Challenger | 10.00% | ~167 |
+| Hunter | 10.00% | ~167 |
+| Relic Of The Past | 10.00% | ~167 |
+| Scroll Master | 10.00% | ~167 |
+| The power of Awakening | 10.00% | ~167 |
 | Daily Quest Completionist | 9.00% | ~150 |
 | Doing My Part | 9.00% | ~150 |
 | Four Leaf Clover | 9.00% | ~150 |
@@ -81,7 +81,7 @@ Rating: 4.08 (Ranked 896)
 | War Machines Army | 0.20% | ~3 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,665 (Ranked 169)  
+Progressed: 1,666 (Ranked 169)  
 Completed: 1 (0.06%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 1 (0.06%) (Ranked 197)
 | 2023-07-14 | 1,638 | 1 |
 | 2023-07-15 | 1,647 | 1 |
 | 2023-07-16 | 1,662 | 1 |
-| 2023-07-17 | 1,665 | 1 |
+| 2023-07-17 | 1,666 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

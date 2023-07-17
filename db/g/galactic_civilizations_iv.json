@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -816,7 +816,7 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 6149,
+  "EOS_Progressed": 6150,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
@@ -4096,6 +4096,11 @@
       "Time": "2023-07-17T13:24:47.5876047+00:00",
       "NumProgressed": 6149,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-17T16:06:28.5698553+00:00",
+      "NumProgressed": 6150,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -4171,7 +4176,7 @@
       "Name": "Xenocide",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2029
+      "UsersEstimate": 2030
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -4219,7 +4224,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4489
+      "UsersEstimate": 4490
     },
     {
       "ID": "First_Ship_Designed",
@@ -4243,7 +4248,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4796
+      "UsersEstimate": 4797
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -4299,7 +4304,7 @@
       "Name": "Trading Partner",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "Level_5_Ship",
@@ -4427,7 +4432,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3812
+      "UsersEstimate": 3813
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -4451,7 +4456,7 @@
       "Name": "War with the Unknown",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "Win_As_Altarian",
@@ -4467,7 +4472,7 @@
       "Name": "Win as Arceans",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Win_As_Baratak",
@@ -4475,7 +4480,7 @@
       "Name": "Win as the Baratak",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Win_As_Drath",
@@ -4499,7 +4504,7 @@
       "Name": "Win as Festron",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Win_As_Iconian",
@@ -4563,7 +4568,7 @@
       "Name": "Win as Terrans",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "Win_As_Torian",
@@ -4603,7 +4608,7 @@
       "Name": "Fleet Victory",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "Win_Conquest",
@@ -4667,7 +4672,7 @@
       "Name": "Win Quickly",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "Win_Research",
@@ -4682,15 +4687,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6149,
+      "Progressed": 6150,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-07-12T23:57:59.1877062+00:00",
-  "LastChanged_Achievements": "2023-07-17T15:07:05.0176133+00:00",
+  "LastChanged_Achievements": "2023-07-17T16:06:28.5698547+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:23.5203079+00:00",
-  "LastUpdate_Ratings": "2023-07-17T14:57:56.3534611+00:00",
-  "LastUpdate_Achievements": "2023-07-17T15:07:05.0176851+00:00"
+  "LastUpdate_Ratings": "2023-07-17T15:58:12.7504045+00:00",
+  "LastUpdate_Achievements": "2023-07-17T16:06:28.5699599+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 7,
   "Ranking_EOS_Progress": 496,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2019-11-05T13:00:00+00:00",
     "PcReleaseDate": null,
@@ -9626,10 +9626,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 409763,
       "NumberOfAwardsMax": 159779
+    },
+    {
+      "Time": "2023-07-17T15:59:45.5482495+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 409787,
+      "NumberOfAwardsMax": 159779
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 409763,
+  "NumberOfAwards": 409787,
   "NumberOfAwardsMax": 159779,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -9661,7 +9667,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 15186
+      "Count": 15210
     },
     {
       "Text": "This game is Educational",
@@ -9729,8 +9735,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-07-17T15:00:06.7785257+00:00",
+  "LastChanged": "2023-07-17T15:59:45.5482492+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:03.509176+00:00",
-  "LastUpdate_Ratings": "2023-07-17T15:00:06.7785265+00:00",
-  "LastUpdate_Achievements": "2023-07-17T15:05:02.2126042+00:00"
+  "LastUpdate_Ratings": "2023-07-17T15:59:45.5482502+00:00",
+  "LastUpdate_Achievements": "2023-07-17T16:05:04.2399226+00:00"
 }

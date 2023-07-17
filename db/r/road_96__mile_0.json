@@ -4,8 +4,8 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 333,
+  "EOS_Progressed": 334,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -944,6 +944,11 @@
       "Time": "2023-07-16T14:02:13.7410617+00:00",
       "NumProgressed": 333,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-17T16:03:11.7531311+00:00",
+      "NumProgressed": 334,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -961,9 +966,9 @@
       "ID": "completeact2",
       "SetID": "40n95i5",
       "Name": "Conspiracy Theorist",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 80,
-      "UsersEstimate": 157
+      "UsersEstimate": 154
     },
     {
       "ID": "completeact3",
@@ -977,17 +982,17 @@
       "ID": "findalltapes",
       "SetID": "40n95i5",
       "Name": "Song Harvester",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 150,
-      "UsersEstimate": 7
+      "UsersEstimate": 3
     },
     {
       "ID": "scoremaxrankallrides",
       "SetID": "40n95i5",
       "Name": "Try Harder",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 200,
-      "UsersEstimate": 7
+      "UsersEstimate": 3
     },
     {
       "ID": "scoreminrankrb1",
@@ -1074,7 +1079,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 333,
+      "Progressed": 334,
       "Completed": 2
     }
   ],
@@ -1082,8 +1087,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-07-17T15:02:10.9184452+00:00",
+  "LastChanged_Achievements": "2023-07-17T16:03:11.7531305+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:44.4042174+00:00",
-  "LastUpdate_Ratings": "2023-07-17T14:59:39.2987518+00:00",
-  "LastUpdate_Achievements": "2023-07-17T15:02:10.9184577+00:00"
+  "LastUpdate_Ratings": "2023-07-17T15:59:28.7766727+00:00",
+  "LastUpdate_Achievements": "2023-07-17T16:03:11.7531572+00:00"
 }

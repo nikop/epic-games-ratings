@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -703,9 +703,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 31454,
+  "EOS_Progressed": 31455,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1023,
+  "EOS_NewPlayers": 1019,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10173,6 +10173,11 @@
       "Time": "2023-07-17T15:03:13.0905812+00:00",
       "NumProgressed": 31454,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-17T16:03:42.9076928+00:00",
+      "NumProgressed": 31455,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -10208,7 +10213,7 @@
       "Name": "Scout",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 3145
+      "UsersEstimate": 3146
     },
     {
       "ID": "distance500000",
@@ -10495,15 +10500,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 31454,
+      "Progressed": 31455,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-07-12T18:59:44.659144+00:00",
-  "LastChanged_Achievements": "2023-07-17T15:03:13.0905803+00:00",
+  "LastChanged_Achievements": "2023-07-17T16:03:42.9076923+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:14.8454564+00:00",
-  "LastUpdate_Ratings": "2023-07-17T15:00:21.8345909+00:00",
-  "LastUpdate_Achievements": "2023-07-17T15:03:13.0906501+00:00"
+  "LastUpdate_Ratings": "2023-07-17T15:59:58.7374758+00:00",
+  "LastUpdate_Achievements": "2023-07-17T16:03:42.9077717+00:00"
 }

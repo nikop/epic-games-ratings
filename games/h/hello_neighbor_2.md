@@ -15,9 +15,9 @@ Rating: 4.45 (Ranked 624)
 | Cat Person | 26.00% | ~673 |
 | Hidden Secrets | 25.00% | ~647 |
 | Climber | 24.00% | ~621 |
+| Mad Scientist | 24.00% | ~621 |
 | Reunion | 24.00% | ~621 |
 | Imprisonment | 23.00% | ~595 |
-| Mad Scientist | 23.00% | ~595 |
 | Dog Person | 20.00% | ~517 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,587 (Ranked 156)  

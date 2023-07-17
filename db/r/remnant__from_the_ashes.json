@@ -2,13 +2,13 @@
   "ID": "663e521f2a444199be58152fd93fa66e",
   "Name": "Remnant: From the Ashes",
   "ProductSlug": "remnant-from-the-ashes",
-  "Ranking_Rating": 366,
+  "Ranking_Rating": 365,
   "Ranking_Popularity": 37,
   "Ranking_PopularitySum": 61,
   "Ranking_EOS_Progress": 496,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -5062,10 +5062,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 14904,
       "NumberOfAwardsMax": 9473
+    },
+    {
+      "Time": "2023-07-17T15:59:07.1124349+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 14907,
+      "NumberOfAwardsMax": 9473
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14904,
+  "NumberOfAwards": 14907,
   "NumberOfAwardsMax": 9473,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5091,7 +5097,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 692
+      "Count": 693
     },
     {
       "Text": "This game has Challenging Combat",
@@ -5133,7 +5139,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 655
+      "Count": 657
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -5153,8 +5159,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:00.6523638+00:00",
-  "LastChanged": "2023-07-17T03:58:59.3734989+00:00",
+  "LastChanged": "2023-07-17T15:59:07.1124346+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:14.4144269+00:00",
-  "LastUpdate_Ratings": "2023-07-17T14:59:08.9424199+00:00",
-  "LastUpdate_Achievements": "2023-07-17T15:03:26.2215325+00:00"
+  "LastUpdate_Ratings": "2023-07-17T15:59:07.1124357+00:00",
+  "LastUpdate_Achievements": "2023-07-17T16:03:52.3527096+00:00"
 }

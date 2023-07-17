@@ -2,13 +2,13 @@
   "ID": "3622b6ddc5c849b1826085d5fe492eae",
   "Name": "Nioh: The Complete Edition",
   "ProductSlug": "nioh-the-complete-edition",
-  "Ranking_Rating": 440,
+  "Ranking_Rating": 456,
   "Ranking_Popularity": 44,
   "Ranking_PopularitySum": 57,
   "Ranking_EOS_Progress": 496,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2021-09-09T15:00:00+00:00",
     "PcReleaseDate": "2017-11-07T00:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.57,
+  "Rating": 4.56,
   "NumberOfRatings": 10807,
   "RatingHistory": [
     {
@@ -5606,6 +5606,12 @@
       "Rating": 4.57,
       "NumberOfAwards": 18309,
       "NumberOfAwardsMax": 7580
+    },
+    {
+      "Time": "2023-07-17T16:01:13.3397352+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 18309,
+      "NumberOfAwardsMax": 7580
     }
   ],
   "ReviewsDisabled": false,
@@ -5685,8 +5691,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:37.2904323+00:00",
-  "LastChanged": "2023-07-17T09:01:02.5726059+00:00",
+  "LastChanged": "2023-07-17T16:01:13.3397349+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:41.5493595+00:00",
-  "LastUpdate_Ratings": "2023-07-17T15:02:00.0820747+00:00",
-  "LastUpdate_Achievements": "2023-07-17T15:07:21.1194506+00:00"
+  "LastUpdate_Ratings": "2023-07-17T16:01:13.339736+00:00",
+  "LastUpdate_Achievements": "2023-07-17T16:06:40.372353+00:00"
 }
