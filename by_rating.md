@@ -20,7 +20,7 @@
 | 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 17,006 | 20 |
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 135 | 300 |
 | 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,157 | 76 |
-| 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 159,530 | 6 |
+| 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 159,779 | 6 |
 | 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 10,656 | 35 |
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 486 |
 | 24 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 272 | 241 |
@@ -307,7 +307,7 @@
 | 297 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 1,894 | 110 |
 | 297 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.65 | 51 | 395 |
 | 297 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 0 | 505 |
-| 297 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,679 | 16 |
+| 297 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,683 | 16 |
 | 297 | [Tavern Master](games/t/tavern_master.md) | 4.65 | 0 | 505 |
 | 297 | [Tennis Manager 2022](games/t/tennis_manager_2022.md) | 4.65 | 0 | 505 |
 | 297 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.65 | 21 | 493 |
@@ -523,7 +523,7 @@
 | 521 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.52 | 23 | 481 |
 | 521 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 756 | 156 |
 | 521 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 40 | 421 |
-| 521 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 29,992 | 15 |
+| 521 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 30,030 | 15 |
 | 521 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 21 | 493 |
 | 521 | [Fall Guys](games/f/fall_guys.md) | 4.52 | 144,280 | 7 |
 | 521 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 518 | 191 |
@@ -812,24 +812,24 @@
 | 808 | [Godlike Burger](games/g/godlike_burger.md) | 4.25 | 0 | 505 |
 | 808 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.25 | 0 | 505 |
 | 808 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 0 | 505 |
+| 808 | [Starsand](games/s/starsand.md) | 4.25 | 0 | 505 |
 | 808 | [The Surge 2](games/t/the_surge_2.md) | 4.25 | 0 | 505 |
 | 808 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 0 | 505 |
-| 815 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 505 |
-| 815 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 455 |
-| 815 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.24 | 22 | 486 |
-| 815 | [Flatout](games/f/flatout.md) | 4.24 | 0 | 505 |
-| 815 | [OVERPASS™](games/o/overpass™.md) | 4.24 | 0 | 505 |
-| 815 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 510 | 192 |
-| 815 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 45 | 409 |
-| 815 | [The Bridge](games/t/the_bridge.md) | 4.24 | 0 | 505 |
-| 815 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.24 | 0 | 505 |
-| 815 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 23 | 481 |
-| 825 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 | 505 |
-| 825 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.23 | 0 | 505 |
-| 825 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 142 |
-| 825 | [Rise of Industry](games/r/rise_of_industry.md) | 4.23 | 0 | 505 |
-| 825 | [Starsand](games/s/starsand.md) | 4.23 | 0 | 505 |
-| 825 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 0 | 505 |
+| 816 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 505 |
+| 816 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 455 |
+| 816 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.24 | 22 | 486 |
+| 816 | [Flatout](games/f/flatout.md) | 4.24 | 0 | 505 |
+| 816 | [OVERPASS™](games/o/overpass™.md) | 4.24 | 0 | 505 |
+| 816 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 510 | 192 |
+| 816 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 45 | 409 |
+| 816 | [The Bridge](games/t/the_bridge.md) | 4.24 | 0 | 505 |
+| 816 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.24 | 0 | 505 |
+| 816 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 23 | 481 |
+| 826 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 | 505 |
+| 826 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.23 | 0 | 505 |
+| 826 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 142 |
+| 826 | [Rise of Industry](games/r/rise_of_industry.md) | 4.23 | 0 | 505 |
+| 826 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 0 | 505 |
 | 831 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 176 | 281 |
 | 831 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.22 | 0 | 505 |
 | 831 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 203 | 267 |
