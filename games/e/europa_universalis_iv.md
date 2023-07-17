@@ -6,14 +6,14 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,387 |
-| That's a Grand Army | 8.00% | ~5,677 |
-| That is mine! | 8.00% | ~5,677 |
-| Victorious! | 8.00% | ~5,677 |
-| Brothers in Arms | 6.00% | ~4,258 |
-| That's a Grand Navy | 6.00% | ~4,258 |
-| Seriously?! | 6.00% | ~4,258 |
-| For the Glory | 5.00% | ~3,548 |
+| Until death do us apart | 9.00% | ~6,388 |
+| That's a Grand Army | 8.00% | ~5,678 |
+| That is mine! | 8.00% | ~5,678 |
+| Victorious! | 8.00% | ~5,678 |
+| Brothers in Arms | 6.00% | ~4,259 |
+| That's a Grand Navy | 6.00% | ~4,259 |
+| Seriously?! | 6.00% | ~4,259 |
+| For the Glory | 5.00% | ~3,549 |
 | Cold War | 4.00% | ~2,839 |
 | True Catholic | 4.00% | ~2,839 |
 | Defender of the Faith | 3.00% | ~2,129 |
@@ -22,15 +22,15 @@ Number of Ratings: 8,414  (23.09.2022)
 | Respected | 3.00% | ~2,129 |
 | The Princess is in this Castle | 3.00% | ~2,129 |
 | Truly Divine Ruler | 3.00% | ~2,129 |
-| Agressive Expander | 2.00% | ~1,419 |
-| Blockader | 2.00% | ~1,419 |
-| Combined Arms | 2.00% | ~1,419 |
-| Double the Love | 2.00% | ~1,419 |
-| Gentle Persuasion | 2.00% | ~1,419 |
-| My armies are invincible! | 2.00% | ~1,419 |
-| Queen of Conquest | 2.00% | ~1,419 |
-| Royal Authority | 2.00% | ~1,419 |
-| Total Control | 2.00% | ~1,419 |
+| Agressive Expander | 2.00% | ~1,420 |
+| Blockader | 2.00% | ~1,420 |
+| Combined Arms | 2.00% | ~1,420 |
+| Double the Love | 2.00% | ~1,420 |
+| Gentle Persuasion | 2.00% | ~1,420 |
+| My armies are invincible! | 2.00% | ~1,420 |
+| Queen of Conquest | 2.00% | ~1,420 |
+| Royal Authority | 2.00% | ~1,420 |
+| Total Control | 2.00% | ~1,420 |
 | All That's Thine Shall Be Mine | 1.00% | ~710 |
 | Azur semé de lis or | 1.00% | ~710 |
 | Bright Spark | 1.00% | ~710 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 70,967 (Ranked 74)  
+Progressed: 70,978 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -449,7 +449,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-14 | 69,707 | 0 |
 | 2023-07-15 | 70,161 | 0 |
 | 2023-07-16 | 70,611 | 0 |
-| 2023-07-17 | 70,967 | 0 |
+| 2023-07-17 | 70,978 | 0 |
 ## Awards
 Max (Educational): 5,556  (Ranked 60)  
 Sum: 45,790 (Ranked 26)  

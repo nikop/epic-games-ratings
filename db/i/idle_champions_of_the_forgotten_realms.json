@@ -5056,7 +5056,7 @@
       "Count": 3303
     }
   ],
-  "EOS_Progressed": 212831,
+  "EOS_Progressed": 212849,
   "EOS_Completed": 2057,
   "EOS_NewPlayers": 3004,
   "EOS_NewCompleters": 12,
@@ -14491,6 +14491,11 @@
       "Time": "2023-07-17T21:06:02.441076+00:00",
       "NumProgressed": 212831,
       "NumCompleted": 2057
+    },
+    {
+      "Time": "2023-07-17T22:05:51.9950355+00:00",
+      "NumProgressed": 212849,
+      "NumCompleted": 2057
     }
   ],
   "TotalAchievements": 507,
@@ -16182,7 +16187,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "objective_completed_35",
@@ -16190,7 +16195,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "objective_completed_36",
@@ -16294,7 +16299,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "objective_completed_390",
@@ -16366,7 +16371,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "objective_completed_40",
@@ -16638,7 +16643,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "objective_completed_54",
@@ -16860,9 +16865,9 @@
       "ID": "objective_completed_570",
       "SetID": "cc37lbc",
       "Name": "The Darkness Runs Deeper",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 426
     },
     {
       "ID": "objective_completed_571",
@@ -17046,7 +17051,7 @@
       "Name": "The Contagious Curse",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "objective_completed_60",
@@ -17574,7 +17579,7 @@
       "Name": "Escort to Waterdeep",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "objective_completed_690",
@@ -17678,7 +17683,7 @@
       "Name": "Waterdeep Detours",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "objective_completed_75",
@@ -17710,7 +17715,7 @@
       "Name": "Underdeep Cartography",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "objective_completed_8",
@@ -17718,7 +17723,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "objective_completed_80",
@@ -18246,7 +18251,7 @@
       "Name": "Pure Energy",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "objective_completed_902",
@@ -18557,21 +18562,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 179105,
+      "Progressed": 179123,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 212831,
+      "Progressed": 212849,
       "Completed": 2057
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-17T19:58:21.1664126+00:00",
-  "LastChanged_Achievements": "2023-07-17T21:06:02.4410755+00:00",
+  "LastChanged_Achievements": "2023-07-17T22:05:51.995035+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:48.5227447+00:00",
-  "LastUpdate_Ratings": "2023-07-17T20:58:41.2560989+00:00",
-  "LastUpdate_Achievements": "2023-07-17T21:06:02.4437645+00:00"
+  "LastUpdate_Ratings": "2023-07-17T21:58:19.386843+00:00",
+  "LastUpdate_Achievements": "2023-07-17T22:05:51.9974239+00:00"
 }

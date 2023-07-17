@@ -16,18 +16,18 @@ Number of Ratings: 9,492  (23.09.2022)
 | State of constant learning | 2.00% | ~14,217 |
 | Qi Gong: Breath | 2.00% | ~14,217 |
 | Lightning Hands | 2.00% | ~14,217 |
-| Lady Wing Chun | 1.00% | ~7,108 |
-| Furious Fists | 1.00% | ~7,108 |
-| Scareless | 1.00% | ~7,108 |
-| Kill Nil | 1.00% | ~7,108 |
-| Stuntmaster | 1.00% | ~7,108 |
-| Street Fighting | 1.00% | ~7,108 |
-| Qi Gong: Essence | 1.00% | ~7,108 |
-| Old Child | 1.00% | ~7,108 |
-| Kung-Fu Tussle | 1.00% | ~7,108 |
-| Path of the Prospect | 1.00% | ~7,108 |
-| Rumble in the Hangar | 1.00% | ~7,108 |
-| Take damage to save time | 1.00% | ~7,108 |
+| Lady Wing Chun | 1.00% | ~7,109 |
+| Furious Fists | 1.00% | ~7,109 |
+| Scareless | 1.00% | ~7,109 |
+| Kill Nil | 1.00% | ~7,109 |
+| Stuntmaster | 1.00% | ~7,109 |
+| Street Fighting | 1.00% | ~7,109 |
+| Qi Gong: Essence | 1.00% | ~7,109 |
+| Old Child | 1.00% | ~7,109 |
+| Kung-Fu Tussle | 1.00% | ~7,109 |
+| Path of the Prospect | 1.00% | ~7,109 |
+| Rumble in the Hangar | 1.00% | ~7,109 |
+| Take damage to save time | 1.00% | ~7,109 |
 | Bloody Sport | 1.00% | ~202 |
 | The best strikes are the ones we avoid | 1.00% | ~202 |
 | Dance of the Praying Mantis | 0.90% | ~6,398 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,422 |
 | Warriors from the Mountain | 0.10% | ~711 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 710,849 (Ranked 17)  
+Progressed: 710,851 (Ranked 17)  
 Completed: 12,822 (1.80%) (Ranked 80)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,15 +145,15 @@ Completed: 12,822 (1.80%) (Ranked 80)
 | 2023-07-14 | 710,744 | 12,816 |
 | 2023-07-15 | 710,780 | 12,819 |
 | 2023-07-16 | 710,824 | 12,819 |
-| 2023-07-17 | 710,849 | 12,822 |
+| 2023-07-17 | 710,851 | 12,822 |
 ## Awards
 Max (Great Boss Battles): 6,279  (Ranked 53)  
-Sum: 10,758 (Ranked 79)  
+Sum: 10,759 (Ranked 79)  
 Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,279 |
-| This game has Diverse Characters | 548 |
+| This game has Diverse Characters | 549 |
 | This game has Challenging Combat | 530 |
 | This game has Quickly Understood Controls | 526 |
 | This game is Extremely Fun | 518 |
@@ -348,4 +348,4 @@ Diff (max vs sum): -26
 | 2023-07-14 | 4.82 | - | 6,262 | 10,728 |
 | 2023-07-15 | 4.82 | - | 6,270 | 10,740 |
 | 2023-07-16 | 4.82 | - | 6,273 | 10,750 |
-| 2023-07-17 | 4.82 | - | 6,279 | 10,758 |
+| 2023-07-17 | 4.82 | - | 6,279 | 10,759 |

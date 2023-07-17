@@ -32,7 +32,7 @@
 | Getting Started | 10.00% | ~21 |
 | Quit Horsin' Around | 10.00% | ~21 |
 | Eggtraordinary | 10.00% | ~21 |
-| Perfect | 9.00% | ~14 |
+| Perfect | 10.00% | ~16 |
 | Expert Survivor | 9.00% | ~14 |
 | Bring Home The Bacon | 8.00% | ~17 |
 | Quadsparagus | 8.00% | ~13 |

@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1234,
+  "EOS_Progressed": 1235,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 5.02,
   "EosHistory": [
@@ -1482,6 +1482,11 @@
       "Time": "2023-07-17T20:02:14.2420766+00:00",
       "NumProgressed": 1234,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-07-17T22:02:10.9832793+00:00",
+      "NumProgressed": 1235,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 11,
@@ -1493,7 +1498,7 @@
       "Name": "Cutepie",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "ACH_BloccatoInGhiacciaia",
@@ -1501,7 +1506,7 @@
       "Name": "Freeze to death",
       "Percentage": 57,
       "XP": 100,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "ACH_Cacciavite",
@@ -1539,9 +1544,9 @@
       "ID": "ACH_FineGioco",
       "SetID": "7a9m7mj",
       "Name": "All together, again",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 432
+      "UsersEstimate": 420
     },
     {
       "ID": "ACH_PrendiTuttiOggetti",
@@ -1557,7 +1562,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 938
+      "UsersEstimate": 939
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -1580,15 +1585,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1234,
+      "Progressed": 1235,
       "Completed": 62
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "LastChanged_Achievements": "2023-07-17T21:02:17.6038455+00:00",
+  "LastChanged_Achievements": "2023-07-17T22:02:10.9832788+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:07.7115125+00:00",
-  "LastUpdate_Ratings": "2023-07-17T21:00:25.2363009+00:00",
-  "LastUpdate_Achievements": "2023-07-17T21:02:17.6038789+00:00"
+  "LastUpdate_Ratings": "2023-07-17T22:00:08.8581768+00:00",
+  "LastUpdate_Achievements": "2023-07-17T22:02:10.9832927+00:00"
 }

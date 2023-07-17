@@ -2486,9 +2486,9 @@
       "Count": 144
     }
   ],
-  "EOS_Progressed": 620815,
+  "EOS_Progressed": 620874,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 3325,
+  "EOS_NewPlayers": 3335,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11981,6 +11981,11 @@
       "Time": "2023-07-17T20:00:35.4354831+00:00",
       "NumProgressed": 620815,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-07-17T22:00:37.6039881+00:00",
+      "NumProgressed": 620874,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -11992,7 +11997,7 @@
       "Name": "Stroller",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 80706
+      "UsersEstimate": 80714
     },
     {
       "ID": "_01_01_DISTANCE_200_EASY",
@@ -12000,7 +12005,7 @@
       "Name": "Hiker",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 62082
+      "UsersEstimate": 62087
     },
     {
       "ID": "_01_02_DISTANCE_500_EASY",
@@ -12008,7 +12013,7 @@
       "Name": "Voyager",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 18624
+      "UsersEstimate": 18626
     },
     {
       "ID": "_01_03_DISTANCE_1000_EASY",
@@ -12016,7 +12021,7 @@
       "Name": "Wayfarer",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1862
+      "UsersEstimate": 1863
     },
     {
       "ID": "_01_04_DISTANCE_2000_EASY",
@@ -12032,7 +12037,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 99330
+      "UsersEstimate": 99340
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -12040,7 +12045,7 @@
       "Name": "Advanced Hiker",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 68290
+      "UsersEstimate": 68296
     },
     {
       "ID": "_01_07_DISTANCE_500_MEDIUM",
@@ -12048,7 +12053,7 @@
       "Name": "Advanced Voyager",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 18624
+      "UsersEstimate": 18626
     },
     {
       "ID": "_01_08_DISTANCE_1000_MEDIUM",
@@ -12056,7 +12061,7 @@
       "Name": "Advanced Wayfarer",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1862
+      "UsersEstimate": 1863
     },
     {
       "ID": "_01_09_DISTANCE_2000_MEDIUM",
@@ -12072,7 +12077,7 @@
       "Name": "Expert Stroller",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 18624
+      "UsersEstimate": 18626
     },
     {
       "ID": "_01_11_DISTANCE_200_HARD",
@@ -12080,7 +12085,7 @@
       "Name": "Expert Hiker",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 12416
+      "UsersEstimate": 12417
     },
     {
       "ID": "_01_12_DISTANCE_500_HARD",
@@ -12112,7 +12117,7 @@
       "Name": "Toy Train",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 74498
+      "UsersEstimate": 74505
     },
     {
       "ID": "_01_21_TRACKS_1000",
@@ -12120,7 +12125,7 @@
       "Name": "Orient Express",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 18624
+      "UsersEstimate": 18626
     },
     {
       "ID": "_01_22_TRACKS_2000",
@@ -12128,7 +12133,7 @@
       "Name": "Trans-Siberian Railway",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1862
+      "UsersEstimate": 1863
     },
     {
       "ID": "_01_23_TRACKS_4000",
@@ -12160,7 +12165,7 @@
       "Name": "Marathon",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 12416
+      "UsersEstimate": 12417
     },
     {
       "ID": "_02_00_DUCKY_DANGER",
@@ -12192,7 +12197,7 @@
       "Name": "Destructionist",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 12416
+      "UsersEstimate": 12417
     },
     {
       "ID": "_02_04_INDUSTRIALIST",
@@ -12240,7 +12245,7 @@
       "Name": "Incurious",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 93122
+      "UsersEstimate": 93131
     },
     {
       "ID": "_03_01_MOJAVE_COURIER",
@@ -12248,7 +12253,7 @@
       "Name": "Mojave Courier",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 31041
+      "UsersEstimate": 31044
     },
     {
       "ID": "_03_02_NANUK",
@@ -12264,7 +12269,7 @@
       "Name": "Satan\u0027s Minion",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1862
+      "UsersEstimate": 1863
     },
     {
       "ID": "_03_04_APPOLLO_13",
@@ -12304,7 +12309,7 @@
       "Name": "Lost",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6208
+      "UsersEstimate": 6209
     },
     {
       "ID": "_11_00_CLIMATE_CHANGE",
@@ -12312,7 +12317,7 @@
       "Name": "Climate Change",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 86914
+      "UsersEstimate": 86922
     },
     {
       "ID": "_11_00_FIRE_FIGHTER",
@@ -12360,7 +12365,7 @@
       "Name": "Snowman\u0027s Land",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1862
+      "UsersEstimate": 1863
     },
     {
       "ID": "_12_00_TOUGH_NUT",
@@ -12368,7 +12373,7 @@
       "Name": "Tough Nut!",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 1862
+      "UsersEstimate": 1863
     },
     {
       "ID": "_13_00_BLAST_FISHING",
@@ -12400,22 +12405,22 @@
       "Name": "Saved by Nausica\u00E4",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 18624
+      "UsersEstimate": 18626
     }
   ],
   "AchievementSets": [
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 620815,
+      "Progressed": 620874,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-07-17T19:57:44.3067788+00:00",
-  "LastChanged_Achievements": "2023-07-17T20:00:35.4354825+00:00",
+  "LastChanged_Achievements": "2023-07-17T22:00:37.6039877+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:18.9562448+00:00",
-  "LastUpdate_Ratings": "2023-07-17T20:58:04.4206344+00:00",
-  "LastUpdate_Achievements": "2023-07-17T20:00:35.4355974+00:00"
+  "LastUpdate_Ratings": "2023-07-17T21:57:40.4671161+00:00",
+  "LastUpdate_Achievements": "2023-07-17T22:00:37.6040773+00:00"
 }

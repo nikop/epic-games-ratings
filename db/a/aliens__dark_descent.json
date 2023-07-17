@@ -148,7 +148,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2944,
+  "EOS_Progressed": 2945,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
@@ -2748,6 +2748,11 @@
       "Time": "2023-07-17T21:06:38.0220708+00:00",
       "NumProgressed": 2944,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-17T22:06:27.4621791+00:00",
+      "NumProgressed": 2945,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2759,7 +2764,7 @@
       "Name": "Archivist",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_ALL_MARINES_ALIVE",
@@ -2799,7 +2804,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1413
+      "UsersEstimate": 1414
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -2815,7 +2820,7 @@
       "Name": "Stuff Of Nightmares",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "ACH_FINISH_HARD",
@@ -2871,7 +2876,7 @@
       "Name": "Call Me Snake",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1766
+      "UsersEstimate": 1767
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -2941,17 +2946,17 @@
       "ID": "ACH_MAX_TECKER",
       "SetID": "816efe",
       "Name": "The Cable Guy",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 412
+      "UsersEstimate": 442
     },
     {
       "ID": "ACH_MISSION_01",
       "SetID": "816efe",
       "Name": "Something Lurks Under The Hills",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 1708
+      "UsersEstimate": 1738
     },
     {
       "ID": "ACH_MISSION_02",
@@ -2991,7 +2996,7 @@
       "Name": "Living Nightmare",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "ACH_MISSION_07",
@@ -3071,7 +3076,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1678
+      "UsersEstimate": 1679
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -3079,7 +3084,7 @@
       "Name": "People Person",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 1560
+      "UsersEstimate": 1561
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -3111,14 +3116,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1560
+      "UsersEstimate": 1561
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 2944,
+      "Progressed": 2945,
       "Completed": 0
     }
   ],
@@ -3126,8 +3131,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-17T17:00:33.2796025+00:00",
-  "LastChanged_Achievements": "2023-07-17T21:06:38.0220703+00:00",
+  "LastChanged_Achievements": "2023-07-17T22:06:27.4621786+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:18.2957495+00:00",
-  "LastUpdate_Ratings": "2023-07-17T20:59:46.0693092+00:00",
-  "LastUpdate_Achievements": "2023-07-17T21:06:38.0221251+00:00"
+  "LastUpdate_Ratings": "2023-07-17T21:59:24.5488428+00:00",
+  "LastUpdate_Achievements": "2023-07-17T22:06:27.4622227+00:00"
 }

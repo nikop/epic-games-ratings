@@ -11,10 +11,10 @@ Number of Ratings: 177  (23.09.2022)
 | Caught in the Act | 2.00% | ~115 |
 | Katherine | 2.00% | ~115 |
 | If at First You Don't Succeed... | 2.00% | ~115 |
-| The Brahdyssey | 1.00% | ~57 |
-| Drunk and Disorderly: Stephanie | 1.00% | ~57 |
+| The Brahdyssey | 1.00% | ~58 |
+| Drunk and Disorderly: Stephanie | 1.00% | ~58 |
 | Life Found a Way | 1.00% | ~28 |
-| Relentless | 1.00% | ~57 |
+| Relentless | 1.00% | ~58 |
 | Drunk and Disorderly: Ashley | 0.70% | ~40 |
 | IRL Let's Player | 0.70% | ~40 |
 | Newcomer: Vickie | 0.70% | ~40 |
@@ -37,19 +37,19 @@ Number of Ratings: 177  (23.09.2022)
 | Rachael | 0.30% | ~17 |
 | Good Ol' Days | 0.30% | ~17 |
 | Te Amo Lety | 0.30% | ~17 |
-| Beyond the Call of Dude-y | 0.20% | ~11 |
-| The Bride | 0.20% | ~11 |
+| Beyond the Call of Dude-y | 0.20% | ~12 |
+| The Bride | 0.20% | ~12 |
 | Deck the Balls | 0.20% | ~6 |
-| Drunk and Disorderly: Madison | 0.20% | ~11 |
-| Do Not Burn | 0.20% | ~11 |
-| The Harder They Fall...Dood | 0.20% | ~11 |
-| Love Conquers All | 0.20% | ~11 |
-| Rule 34 | 0.20% | ~11 |
-| A Striking Resemblance | 0.20% | ~11 |
-| The Muse: Derek | 0.20% | ~11 |
-| Howz It Goin Dood | 0.20% | ~11 |
-| Derezzed | 0.20% | ~11 |
-| The Elder Brahs | 0.20% | ~11 |
+| Drunk and Disorderly: Madison | 0.20% | ~12 |
+| Do Not Burn | 0.20% | ~12 |
+| The Harder They Fall...Dood | 0.20% | ~12 |
+| Love Conquers All | 0.20% | ~12 |
+| Rule 34 | 0.20% | ~12 |
+| A Striking Resemblance | 0.20% | ~12 |
+| The Muse: Derek | 0.20% | ~12 |
+| Howz It Goin Dood | 0.20% | ~12 |
+| Derezzed | 0.20% | ~12 |
+| The Elder Brahs | 0.20% | ~12 |
 | Against All Odds | 0.10% | ~6 |
 | Casabrova | 0.10% | ~6 |
 | Congrats, A Celebrity Hates You | 0.10% | ~3 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | Sucker Punch | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,749 (Ranked 133)  
+Progressed: 5,750 (Ranked 133)  
 Completed: 3 (0.05%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 3 (0.05%) (Ranked 201)
 | 2023-07-14 | 5,737 | 3 |
 | 2023-07-15 | 5,743 | 3 |
 | 2023-07-16 | 5,744 | 3 |
-| 2023-07-17 | 5,749 | 3 |
+| 2023-07-17 | 5,750 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

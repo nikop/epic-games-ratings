@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
@@ -356,9 +356,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5749,
+  "EOS_Progressed": 5750,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3371,6 +3371,11 @@
       "Time": "2023-07-17T21:06:01.6776588+00:00",
       "NumProgressed": 5749,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-17T22:05:50.7471947+00:00",
+      "NumProgressed": 5750,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -3430,7 +3435,7 @@
       "Name": "Beyond the Call of Dude-y",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Brahdyssey",
@@ -3438,7 +3443,7 @@
       "Name": "The Brahdyssey",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "Bride",
@@ -3446,7 +3451,7 @@
       "Name": "The Bride",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Casabrova",
@@ -3510,7 +3515,7 @@
       "Name": "Drunk and Disorderly: Madison",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "DnD_Stephanie",
@@ -3518,7 +3523,7 @@
       "Name": "Drunk and Disorderly: Stephanie",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "DoNotBurn",
@@ -3526,7 +3531,7 @@
       "Name": "Do Not Burn",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "DojaDinoliciousDanceapalooza",
@@ -3582,7 +3587,7 @@
       "Name": "The Harder They Fall...Dood",
       "Percentage": 0.2,
       "XP": 75,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "HijinksAverted",
@@ -3654,7 +3659,7 @@
       "Name": "Love Conquers All",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "LifeFoundAWay",
@@ -3702,7 +3707,7 @@
       "Name": "Relentless",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "Penguinfucker",
@@ -3710,7 +3715,7 @@
       "Name": "Rule 34",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "PoopEnding",
@@ -3782,7 +3787,7 @@
       "Name": "A Striking Resemblance",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Succeed",
@@ -3806,7 +3811,7 @@
       "Name": "The Muse: Derek",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "TM_Frank",
@@ -3814,7 +3819,7 @@
       "Name": "Howz It Goin Dood",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "TM_Madison",
@@ -3886,7 +3891,7 @@
       "Name": "Derezzed",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "elderbrahs",
@@ -3894,7 +3899,7 @@
       "Name": "The Elder Brahs",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "geometry",
@@ -3933,21 +3938,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 2788,
+      "Progressed": 2789,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 5749,
+      "Progressed": 5750,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-03-31T05:57:11.1498515+00:00",
-  "LastChanged_Achievements": "2023-07-17T21:06:01.6776583+00:00",
+  "LastChanged_Achievements": "2023-07-17T22:05:50.7471939+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:13.6474836+00:00",
-  "LastUpdate_Ratings": "2023-07-17T20:57:57.9912846+00:00",
-  "LastUpdate_Achievements": "2023-07-17T21:06:01.6777505+00:00"
+  "LastUpdate_Ratings": "2023-07-17T21:57:35.0331002+00:00",
+  "LastUpdate_Achievements": "2023-07-17T22:05:50.7472735+00:00"
 }

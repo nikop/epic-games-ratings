@@ -1263,9 +1263,9 @@
       "ID": "ATK_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Goat Whisperer",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 68
     },
     {
       "ID": "ATK_ACHIEVEMENT_3",
@@ -1543,9 +1543,9 @@
       "ID": "KLACKEY_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "End the Infestation",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 44
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_3",
@@ -1583,9 +1583,9 @@
       "ID": "MARYH_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "1, 2, 3! Grandma!",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 50
     },
     {
       "ID": "MARY_ACHIEVEMENT_1",
@@ -1750,8 +1750,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-17T21:05:02.9416759+00:00",
+  "LastChanged_Achievements": "2023-07-17T22:04:51.5029363+00:00",
   "LastUpdate_AppInfo": "2023-07-13T13:57:00.6642341+00:00",
-  "LastUpdate_Ratings": "2023-07-17T20:57:29.9590455+00:00",
-  "LastUpdate_Achievements": "2023-07-17T21:05:02.9417565+00:00"
+  "LastUpdate_Ratings": "2023-07-17T21:57:02.5501908+00:00",
+  "LastUpdate_Achievements": "2023-07-17T22:04:51.5029958+00:00"
 }

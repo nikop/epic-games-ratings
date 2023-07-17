@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 210,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1292,9 +1292,9 @@
       "ID": "ach_perfect",
       "SetID": "bf10c8p",
       "Name": "Perfect",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "ach_prestige_2",
@@ -1499,8 +1499,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-07-17T21:05:06.8442413+00:00",
+  "LastChanged_Achievements": "2023-07-17T22:04:55.4376373+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:09.0796532+00:00",
-  "LastUpdate_Ratings": "2023-07-17T20:58:50.6513387+00:00",
-  "LastUpdate_Achievements": "2023-07-17T21:05:06.8443247+00:00"
+  "LastUpdate_Ratings": "2023-07-17T21:58:28.2260153+00:00",
+  "LastUpdate_Achievements": "2023-07-17T22:04:55.4377175+00:00"
 }

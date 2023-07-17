@@ -790,9 +790,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2518,
+  "EOS_Progressed": 2519,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3100,6 +3100,11 @@
       "Time": "2023-07-17T11:03:48.0841709+00:00",
       "NumProgressed": 2518,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-17T22:03:23.5323426+00:00",
+      "NumProgressed": 2519,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3239,7 +3244,7 @@
       "Name": "Good vibes",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ACH_HOARDER",
@@ -3255,7 +3260,7 @@
       "Name": "Keep the dream alive",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ACH_KEEPING-IT-CLASSY",
@@ -3463,7 +3468,7 @@
       "Name": "Upfront shredder",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ACH_WE-GET-IT-YOURE-GOOD",
@@ -3487,22 +3492,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1435
+      "UsersEstimate": 1436
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2518,
+      "Progressed": 2519,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-07-14T22:59:32.5296281+00:00",
-  "LastChanged_Achievements": "2023-07-17T21:03:38.8146352+00:00",
+  "LastChanged_Achievements": "2023-07-17T22:03:23.5323421+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:04.9340896+00:00",
-  "LastUpdate_Ratings": "2023-07-17T20:59:36.9071476+00:00",
-  "LastUpdate_Achievements": "2023-07-17T21:03:38.8146901+00:00"
+  "LastUpdate_Ratings": "2023-07-17T21:59:14.0194694+00:00",
+  "LastUpdate_Achievements": "2023-07-17T22:03:23.5323871+00:00"
 }

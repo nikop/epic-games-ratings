@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 475,
+  "EOS_Progressed": 476,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1656,6 +1656,11 @@
       "Time": "2023-07-17T18:04:53.3026794+00:00",
       "NumProgressed": 475,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-17T22:05:14.0859591+00:00",
+      "NumProgressed": 476,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1771,7 +1776,7 @@
       "Name": "Facility Online",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -1795,7 +1800,7 @@
       "Name": "Lieutenant",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -1843,7 +1848,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -1873,9 +1878,9 @@
       "ID": "objective_key_gather_resources_from_tiles_3",
       "SetID": "bm61c2p",
       "Name": "Stocking Up",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 67
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -1891,7 +1896,7 @@
       "Name": "On Target",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -1970,14 +1975,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 475,
+      "Progressed": 476,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-17T21:05:25.6387967+00:00",
+  "LastChanged_Achievements": "2023-07-17T22:05:14.0859586+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:28.9258865+00:00",
-  "LastUpdate_Ratings": "2023-07-17T21:00:42.6437721+00:00",
-  "LastUpdate_Achievements": "2023-07-17T21:05:25.6388361+00:00"
+  "LastUpdate_Ratings": "2023-07-17T22:00:27.4594538+00:00",
+  "LastUpdate_Achievements": "2023-07-17T22:05:14.0859902+00:00"
 }

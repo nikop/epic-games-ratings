@@ -8,17 +8,17 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Cursed Farmer | 0.40% | ~851 |
 | The Mad Wizard | 0.40% | ~851 |
-| The Ring of Regeneration | 0.30% | ~638 |
-| The Crumbling Temple | 0.30% | ~638 |
-| Seeking Allies | 0.30% | ~638 |
-| Are Ya Chicken? | 0.30% | ~638 |
-| Mad Cow Disease | 0.30% | ~638 |
-| The Contagious Curse | 0.30% | ~638 |
-| Escort to Waterdeep | 0.30% | ~638 |
-| Waterdeep Detours | 0.30% | ~638 |
-| Underdeep Cartography | 0.30% | ~638 |
-| Friendly Imps | 0.30% | ~638 |
-| Pure Energy | 0.30% | ~638 |
+| The Ring of Regeneration | 0.30% | ~639 |
+| The Crumbling Temple | 0.30% | ~639 |
+| Seeking Allies | 0.30% | ~639 |
+| Are Ya Chicken? | 0.30% | ~639 |
+| Mad Cow Disease | 0.30% | ~639 |
+| The Contagious Curse | 0.30% | ~639 |
+| Escort to Waterdeep | 0.30% | ~639 |
+| Waterdeep Detours | 0.30% | ~639 |
+| Underdeep Cartography | 0.30% | ~639 |
+| Friendly Imps | 0.30% | ~639 |
+| Pure Energy | 0.30% | ~639 |
 | Trollskull Manor | 0.20% | ~426 |
 | The Death Curse | 0.20% | ~426 |
 | Useless Allies | 0.20% | ~426 |
@@ -27,6 +27,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tale of Two Cities | 0.20% | ~426 |
 | The Dead Three | 0.20% | ~426 |
 | Flying Monkey Skulls of Doom | 0.20% | ~426 |
+| The Darkness Runs Deeper | 0.20% | ~426 |
 | Running of the Saurs | 0.20% | ~426 |
 | The Giant's Bane Tavern | 0.20% | ~358 |
 | Close Escort | 0.20% | ~426 |
@@ -124,7 +125,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | She's Harmless! | 0.10% | ~213 |
 | The Tallest of Kobolds | 0.10% | ~179 |
 | Patience is Key | 0.10% | ~213 |
-| The Darkness Runs Deeper | 0.10% | ~213 |
 | Troublesome Prisoner | 0.10% | ~213 |
 | Dark Doppelgangers | 0.10% | ~213 |
 | Faerûn's Most Wanted | 0.10% | ~179 |
@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212,831 (Ranked 53)  
+Progressed: 212,849 (Ranked 53)  
 Completed: 2,057 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -602,7 +602,7 @@ Completed: 2,057 (0.97%) (Ranked 102)
 | 2023-07-14 | 211,507 | 2,050 |
 | 2023-07-15 | 212,014 | 2,053 |
 | 2023-07-16 | 212,501 | 2,055 |
-| 2023-07-17 | 212,831 | 2,057 |
+| 2023-07-17 | 212,849 | 2,057 |
 ## Awards
 Max (Diverse Characters): 5,041  (Ranked 66)  
 Sum: 30,562 (Ranked 38)  

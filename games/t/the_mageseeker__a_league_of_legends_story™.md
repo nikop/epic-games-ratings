@@ -54,8 +54,8 @@ Rating: 4.81 (Ranked 76)
 | Do you trust me? | 9.00% | ~220 |
 | Chains master | 9.00% | ~220 |
 | You can pet the... horse | 9.00% | ~220 |
+| Spellcrafting | 9.00% | ~220 |
 | The great mage rebellion starts now | 8.00% | ~196 |
-| Spellcrafting | 8.00% | ~196 |
 | Silverwing nest | 2.00% | ~49 |
 | The Unshackled | 0.80% | ~20 |
 ## Popularity (Based on EOS Achievements)

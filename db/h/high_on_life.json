@@ -220,9 +220,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23018,
+  "EOS_Progressed": 23019,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -2240,6 +2240,11 @@
       "Time": "2023-07-17T18:05:41.4364785+00:00",
       "NumProgressed": 23018,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-17T22:06:04.0102102+00:00",
+      "NumProgressed": 23019,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 32,
@@ -2267,7 +2272,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 17724
+      "UsersEstimate": 17725
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -2291,7 +2296,7 @@
       "Name": "Creature Feature",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 6905
+      "UsersEstimate": 6906
     },
     {
       "ID": "ACH_GET_GUS",
@@ -2307,7 +2312,7 @@
       "Name": "Are You Packin\u0027?",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 5754
+      "UsersEstimate": 5755
     },
     {
       "ID": "ACH_GET_KNIFEY",
@@ -2315,7 +2320,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 17724
+      "UsersEstimate": 17725
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -2331,7 +2336,7 @@
       "Name": "RIP Davey Glutes",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5524
+      "UsersEstimate": 5525
     },
     {
       "ID": "ACH_GET_SWEEZY",
@@ -2339,7 +2344,7 @@
       "Name": "Sweezy Like Sunday Morning",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 5754
+      "UsersEstimate": 5755
     },
     {
       "ID": "ACH_GLOBO_STAR",
@@ -2355,7 +2360,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 19105
+      "UsersEstimate": 19106
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -2363,7 +2368,7 @@
       "Name": "Sequel-Bait",
       "Percentage": 8,
       "XP": 45,
-      "UsersEstimate": 1841
+      "UsersEstimate": 1842
     },
     {
       "ID": "ACH_JUGGLE_SKILLS",
@@ -2371,7 +2376,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 13120
+      "UsersEstimate": 13121
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -2387,7 +2392,7 @@
       "Name": "G3 Graduation",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 5754
+      "UsersEstimate": 5755
     },
     {
       "ID": "ACH_KILL_GARM",
@@ -2419,7 +2424,7 @@
       "Name": "Self-Actualization",
       "Percentage": 19,
       "XP": 45,
-      "UsersEstimate": 4373
+      "UsersEstimate": 4374
     },
     {
       "ID": "ACH_KILL_SKRENDELS",
@@ -2435,7 +2440,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 16803
+      "UsersEstimate": 16804
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -2506,22 +2511,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 23018,
+      "Progressed": 23019,
       "Completed": 8
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 311,
-      "Completed": 311
+      "Progressed": 312,
+      "Completed": 312
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-07-12T23:58:40.6002161+00:00",
-  "LastChanged_Achievements": "2023-07-17T21:06:14.6697278+00:00",
+  "LastChanged_Achievements": "2023-07-17T22:06:04.0102095+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:35.4235565+00:00",
-  "LastUpdate_Ratings": "2023-07-17T20:58:32.5279241+00:00",
-  "LastUpdate_Achievements": "2023-07-17T21:06:14.6697659+00:00"
+  "LastUpdate_Ratings": "2023-07-17T21:58:11.5902129+00:00",
+  "LastUpdate_Achievements": "2023-07-17T22:06:04.0102401+00:00"
 }

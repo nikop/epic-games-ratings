@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,7 +512,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57470,
+  "EOS_Progressed": 57473,
   "EOS_Completed": 58,
   "EOS_NewPlayers": 305,
   "EOS_NewCompleters": 1,
@@ -8222,6 +8222,11 @@
       "Time": "2023-07-17T21:03:26.4353033+00:00",
       "NumProgressed": 57470,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-07-17T22:03:11.0166066+00:00",
+      "NumProgressed": 57473,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 67,
@@ -8233,7 +8238,7 @@
       "Name": "Follow the Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 19540
+      "UsersEstimate": 19541
     },
     {
       "ID": "02",
@@ -8273,7 +8278,7 @@
       "Name": "Park Ranger",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 8620
+      "UsersEstimate": 8621
     },
     {
       "ID": "07",
@@ -8297,7 +8302,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6896
+      "UsersEstimate": 6897
     },
     {
       "ID": "10",
@@ -8337,7 +8342,7 @@
       "Name": "Gatekeeper",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5172
+      "UsersEstimate": 5173
     },
     {
       "ID": "15",
@@ -8345,7 +8350,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5172
+      "UsersEstimate": 5173
     },
     {
       "ID": "16",
@@ -8393,7 +8398,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6896
+      "UsersEstimate": 6897
     },
     {
       "ID": "22",
@@ -8465,7 +8470,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5172
+      "UsersEstimate": 5173
     },
     {
       "ID": "31",
@@ -8481,7 +8486,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14942
+      "UsersEstimate": 14943
     },
     {
       "ID": "33",
@@ -8489,7 +8494,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6896
+      "UsersEstimate": 6897
     },
     {
       "ID": "34",
@@ -8497,7 +8502,7 @@
       "Name": "Energized!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5172
+      "UsersEstimate": 5173
     },
     {
       "ID": "35",
@@ -8505,7 +8510,7 @@
       "Name": "Let There Be Light",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 15517
+      "UsersEstimate": 15518
     },
     {
       "ID": "36",
@@ -8569,7 +8574,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8620
+      "UsersEstimate": 8621
     },
     {
       "ID": "44",
@@ -8768,21 +8773,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57470,
+      "Progressed": 57473,
       "Completed": 58
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20938,
+      "Progressed": 20941,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-17T21:03:26.4353025+00:00",
+  "LastChanged_Achievements": "2023-07-17T22:03:11.0166062+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:10.5196415+00:00",
-  "LastUpdate_Ratings": "2023-07-17T20:58:16.8531575+00:00",
-  "LastUpdate_Achievements": "2023-07-17T21:03:26.4354015+00:00"
+  "LastUpdate_Ratings": "2023-07-17T21:57:54.2511992+00:00",
+  "LastUpdate_Achievements": "2023-07-17T22:03:11.0167033+00:00"
 }
