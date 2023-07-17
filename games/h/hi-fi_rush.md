@@ -7,6 +7,7 @@ Rating: 4.87 (Ranked 24)
 | ---- | ---------- | ----- |
 | Cream of the Crop | 2.00% | ~69 |
 | Headliner | 2.00% | ~69 |
+| Thanks for the free chip, Peppermint! | 2.00% | ~69 |
 | Who put gears in there? | 2.00% | ~69 |
 | NOW we got a kickass hideout! | 2.00% | ~40 |
 | Start with a bang! | 1.00% | ~35 |
@@ -15,7 +16,6 @@ Rating: 4.87 (Ranked 24)
 | Time to pay up! | 1.00% | ~35 |
 | Who's the boss now? | 1.00% | ~35 |
 | Well that was a rush! | 1.00% | ~35 |
-| Thanks for the free chip, Peppermint! | 1.00% | ~35 |
 | I play my own way! | 1.00% | ~35 |
 | Whoa! There's ANOTHER health bar!? | 1.00% | ~35 |
 | I have to read these things? | 1.00% | ~35 |

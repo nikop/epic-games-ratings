@@ -6,10 +6,10 @@
 | Break Out | 16.00% | ~3 |
 | Find Allies | 5.00% | ~1 |
 | Powerful Allies | 5.00% | ~1 |
+| Calm before the Storm | 5.00% | ~1 |
 | Trinity | 5.00% | ~1 |
 | Essence Blow | 5.00% | ~1 |
 | Flawless Victory | 5.00% | ~1 |
-| Calm before the Storm | 0.00% | ~0 |
 | To Battle | 0.00% | ~0 |
 | Godslayer | 0.00% | ~0 |
 | Clear Sight | 0.00% | ~0 |

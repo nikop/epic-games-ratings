@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57461,
+  "EOS_Progressed": 57464,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 307,
+  "EOS_NewPlayers": 310,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8197,6 +8197,11 @@
       "Time": "2023-07-17T16:03:45.5773937+00:00",
       "NumProgressed": 57461,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-07-17T17:03:43.2853592+00:00",
+      "NumProgressed": 57464,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 67,
@@ -8208,7 +8213,7 @@
       "Name": "Follow the Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 19537
+      "UsersEstimate": 19538
     },
     {
       "ID": "02",
@@ -8232,7 +8237,7 @@
       "Name": "Boob Tube",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2298
+      "UsersEstimate": 2299
     },
     {
       "ID": "05",
@@ -8240,7 +8245,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10343
+      "UsersEstimate": 10344
     },
     {
       "ID": "06",
@@ -8248,7 +8253,7 @@
       "Name": "Park Ranger",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 8619
+      "UsersEstimate": 8620
     },
     {
       "ID": "07",
@@ -8272,7 +8277,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6895
+      "UsersEstimate": 6896
     },
     {
       "ID": "10",
@@ -8288,7 +8293,7 @@
       "Name": "Children of the Elder God",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2298
+      "UsersEstimate": 2299
     },
     {
       "ID": "12",
@@ -8312,7 +8317,7 @@
       "Name": "Gatekeeper",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5171
+      "UsersEstimate": 5172
     },
     {
       "ID": "15",
@@ -8320,7 +8325,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5171
+      "UsersEstimate": 5172
     },
     {
       "ID": "16",
@@ -8360,7 +8365,7 @@
       "Name": "If It Flies, It Burns",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2298
+      "UsersEstimate": 2299
     },
     {
       "ID": "21",
@@ -8368,7 +8373,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6895
+      "UsersEstimate": 6896
     },
     {
       "ID": "22",
@@ -8440,7 +8445,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5171
+      "UsersEstimate": 5172
     },
     {
       "ID": "31",
@@ -8456,7 +8461,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14940
+      "UsersEstimate": 14941
     },
     {
       "ID": "33",
@@ -8464,7 +8469,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6895
+      "UsersEstimate": 6896
     },
     {
       "ID": "34",
@@ -8472,7 +8477,7 @@
       "Name": "Energized!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5171
+      "UsersEstimate": 5172
     },
     {
       "ID": "35",
@@ -8480,7 +8485,7 @@
       "Name": "Let There Be Light",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 15514
+      "UsersEstimate": 15515
     },
     {
       "ID": "36",
@@ -8544,7 +8549,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8619
+      "UsersEstimate": 8620
     },
     {
       "ID": "44",
@@ -8584,7 +8589,7 @@
       "Name": "KBF-FM",
       "Percentage": 4,
       "XP": 110,
-      "UsersEstimate": 2298
+      "UsersEstimate": 2299
     },
     {
       "ID": "49",
@@ -8608,7 +8613,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1674
+      "UsersEstimate": 1675
     },
     {
       "ID": "52",
@@ -8672,7 +8677,7 @@
       "Name": "Ding!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1046
+      "UsersEstimate": 1047
     },
     {
       "ID": "60",
@@ -8743,21 +8748,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57461,
+      "Progressed": 57464,
       "Completed": 58
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20929,
+      "Progressed": 20932,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-17T16:03:45.5773929+00:00",
+  "LastChanged_Achievements": "2023-07-17T17:03:43.2853587+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:10.5196415+00:00",
-  "LastUpdate_Ratings": "2023-07-17T15:58:26.0300617+00:00",
-  "LastUpdate_Achievements": "2023-07-17T16:03:45.57751+00:00"
+  "LastUpdate_Ratings": "2023-07-17T16:58:35.8391964+00:00",
+  "LastUpdate_Achievements": "2023-07-17T17:03:43.2854725+00:00"
 }

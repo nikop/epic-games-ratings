@@ -374,11 +374,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15487,
-  "EOS_Completed": 324,
-  "EOS_NewPlayers": 583,
-  "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 2.09,
+  "EOS_Progressed": 15489,
+  "EOS_Completed": 325,
+  "EOS_NewPlayers": 579,
+  "EOS_NewCompleters": 11,
+  "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.7860479+00:00",
@@ -9594,6 +9594,11 @@
       "Time": "2023-07-17T16:04:23.2052684+00:00",
       "NumProgressed": 15487,
       "NumCompleted": 324
+    },
+    {
+      "Time": "2023-07-17T17:04:38.2483645+00:00",
+      "NumProgressed": 15489,
+      "NumCompleted": 325
     }
   ],
   "TotalAchievements": 20,
@@ -9637,7 +9642,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1858
+      "UsersEstimate": 1859
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -9661,7 +9666,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1858
+      "UsersEstimate": 1859
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -9701,7 +9706,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2013
+      "UsersEstimate": 2014
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -9717,7 +9722,7 @@
       "Name": "Equilibrium",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2013
+      "UsersEstimate": 2014
     },
     {
       "ID": "INTRO_FINISHED",
@@ -9725,7 +9730,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 11770
+      "UsersEstimate": 11772
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -9733,7 +9738,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 4336
+      "UsersEstimate": 4337
     },
     {
       "ID": "NORTH_FINISHED",
@@ -9764,15 +9769,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 15487,
-      "Completed": 324
+      "Progressed": 15489,
+      "Completed": 325
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-07-17T16:04:23.2052678+00:00",
+  "LastChanged_Achievements": "2023-07-17T17:04:38.2483638+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:08.6336222+00:00",
-  "LastUpdate_Ratings": "2023-07-17T16:00:42.5792476+00:00",
-  "LastUpdate_Achievements": "2023-07-17T16:04:23.205338+00:00"
+  "LastUpdate_Ratings": "2023-07-17T17:01:30.0854021+00:00",
+  "LastUpdate_Achievements": "2023-07-17T17:04:38.2484333+00:00"
 }

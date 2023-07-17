@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
     "PcReleaseDate": "2023-04-20T13:00:00+00:00",
@@ -617,9 +617,9 @@
       "ID": "ACH_UNLOCK_ALL_CHARACTER",
       "SetID": "8h8m55b",
       "Name": "We are all friends",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_UNLOCK_ALL_DRINK",
@@ -696,8 +696,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-07-17T16:05:45.0116879+00:00",
+  "LastChanged_Achievements": "2023-07-17T17:06:26.4563705+00:00",
   "LastUpdate_AppInfo": "2023-07-11T05:57:06.0013645+00:00",
-  "LastUpdate_Ratings": "2023-07-17T15:57:43.9341552+00:00",
-  "LastUpdate_Achievements": "2023-07-17T16:05:45.0117403+00:00"
+  "LastUpdate_Ratings": "2023-07-17T16:57:44.6685428+00:00",
+  "LastUpdate_Achievements": "2023-07-17T17:06:26.4564116+00:00"
 }

@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 19.00% | ~144 |
-| The Mysterious Stranger | 16.00% | ~121 |
-| Rail Rat | 16.00% | ~121 |
+| The Mysterious Stranger | 16.00% | ~122 |
+| Rail Rat | 16.00% | ~122 |
 | Make Up For Lost Time | 15.00% | ~114 |
 | Immaculate Aim | 15.00% | ~114 |
 | The Steel Shadow | 14.00% | ~106 |
@@ -30,7 +30,7 @@
 | Fast Learner | 13.00% | ~99 |
 | Check Your Pulse | 13.00% | ~99 |
 | Street Style | 12.00% | ~91 |
-| Right On Time | 11.00% | ~83 |
+| Right On Time | 11.00% | ~84 |
 | Whiz Kid | 10.00% | ~76 |
 | Chaincrawler Explorer | 9.00% | ~68 |
 | Good Neighbor | 9.00% | ~68 |
@@ -53,12 +53,12 @@
 | Fitting In | 2.00% | ~15 |
 | Thinking Two Steps Ahead | 1.00% | ~8 |
 | No Time to Waste | 1.00% | ~8 |
-| Wildlife Protection | 0.70% | ~5 |
+| Wildlife Protection | 0.80% | ~6 |
 | A Lesson in Precision | 0.70% | ~5 |
 | Going to Live Forever | 0.50% | ~4 |
 | Raw Talent | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 759 (Ranked 198)  
+Progressed: 760 (Ranked 198)  
 Completed: 4 (0.53%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,4 +113,4 @@ Completed: 4 (0.53%) (Ranked 125)
 | 2023-07-11 | 751 | 4 |
 | 2023-07-14 | 754 | 4 |
 | 2023-07-15 | 758 | 4 |
-| 2023-07-17 | 759 | 4 |
+| 2023-07-17 | 760 | 4 |

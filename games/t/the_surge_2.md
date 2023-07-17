@@ -42,11 +42,11 @@ Rating: 4.25 (Ranked 808)
 | Denying Prophecy | 8.00% | ~147 |
 | Following In Their Footsteps | 8.00% | ~147 |
 | Reverse Engineering | 7.00% | ~129 |
+| Reborn | 6.00% | ~110 |
 | Remote Surgery | 6.00% | ~110 |
 | Turbo Booster | 6.00% | ~110 |
 | Juiced Up | 6.00% | ~110 |
 | Squid Pro Quo | 6.00% | ~110 |
-| Reborn | 5.00% | ~92 |
 | Counter-Sniper | 5.00% | ~92 |
 | Shrimp Cocktail | 5.00% | ~92 |
 | Hello Darkness My Old Friend | 4.00% | ~73 |
@@ -59,9 +59,9 @@ Rating: 4.25 (Ranked 808)
 | Three Birds With One Stone | 2.00% | ~37 |
 | Box Office Smash | 2.00% | ~37 |
 | Going Postal | 2.00% | ~37 |
+| The Easy Way Out | 2.00% | ~37 |
 | Loot, Pillage & Craft | 2.00% | ~37 |
 | Swiss Army Drone | 1.00% | ~18 |
-| The Easy Way Out | 1.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,837 (Ranked 165)  
 Completed: 10 (0.54%) (Ranked 124)  

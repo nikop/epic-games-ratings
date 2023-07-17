@@ -5044,9 +5044,9 @@
       "Count": 3303
     }
   ],
-  "EOS_Progressed": 212745,
+  "EOS_Progressed": 212762,
   "EOS_Completed": 2056,
-  "EOS_NewPlayers": 3050,
+  "EOS_NewPlayers": 3040,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -14454,6 +14454,11 @@
       "Time": "2023-07-17T16:06:13.2964043+00:00",
       "NumProgressed": 212745,
       "NumCompleted": 2056
+    },
+    {
+      "Time": "2023-07-17T17:07:00.8688794+00:00",
+      "NumProgressed": 212762,
+      "NumCompleted": 2056
     }
   ],
   "TotalAchievements": 507,
@@ -16073,7 +16078,7 @@
       "Name": "Trollskull Manor",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "objective_completed_279",
@@ -16161,7 +16166,7 @@
       "Name": "The Death Curse",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "objective_completed_37",
@@ -16337,7 +16342,7 @@
       "Name": "Useless Allies",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "objective_completed_400",
@@ -16409,7 +16414,7 @@
       "Name": "Premature Betrayal",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "objective_completed_410",
@@ -16609,7 +16614,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "objective_completed_540",
@@ -16617,7 +16622,7 @@
       "Name": "A Tale of Two Cities",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "objective_completed_541",
@@ -16649,7 +16654,7 @@
       "Name": "The Dead Three",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "objective_completed_546",
@@ -16681,7 +16686,7 @@
       "Name": "Flying Monkey Skulls of Doom",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "objective_completed_550",
@@ -16953,7 +16958,7 @@
       "Name": "Running of the Saurs",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "objective_completed_590",
@@ -17617,7 +17622,7 @@
       "Name": "Close Escort",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "objective_completed_71",
@@ -17625,7 +17630,7 @@
       "Name": "Constant Banditry",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "objective_completed_72",
@@ -17633,7 +17638,7 @@
       "Name": "The Long Haul",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "objective_completed_74",
@@ -17649,7 +17654,7 @@
       "Name": "Lost in the Deep",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "objective_completed_76",
@@ -17657,7 +17662,7 @@
       "Name": "Easily Distracted",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "objective_completed_77",
@@ -17665,7 +17670,7 @@
       "Name": "Rude Welcome",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "objective_completed_79",
@@ -17673,7 +17678,7 @@
       "Name": "Underdeep Cartography",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "objective_completed_8",
@@ -17689,7 +17694,7 @@
       "Name": "Overdue Rendezvous",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "objective_completed_802",
@@ -17753,7 +17758,7 @@
       "Name": "Durable Deep",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "objective_completed_810",
@@ -18337,7 +18342,7 @@
       "Name": "The Templar\u0027s Camp",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "objective_completed_95",
@@ -18367,9 +18372,9 @@
       "ID": "objective_completed_99",
       "SetID": "cc37lbc",
       "Name": "Rescue in the Jungle",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 426
     },
     {
       "ID": "objective_completed_1355",
@@ -18520,21 +18525,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 179019,
+      "Progressed": 179036,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 212745,
+      "Progressed": 212762,
       "Completed": 2056
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-17T15:58:52.7853681+00:00",
-  "LastChanged_Achievements": "2023-07-17T16:06:13.2964038+00:00",
+  "LastChanged_Achievements": "2023-07-17T17:07:00.8688782+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:48.5227447+00:00",
-  "LastUpdate_Ratings": "2023-07-17T15:58:52.7853691+00:00",
-  "LastUpdate_Achievements": "2023-07-17T16:06:13.2991365+00:00"
+  "LastUpdate_Ratings": "2023-07-17T16:59:10.513214+00:00",
+  "LastUpdate_Achievements": "2023-07-17T17:07:00.8718184+00:00"
 }

@@ -18,26 +18,27 @@ Number of Ratings: 9,041  (23.09.2022)
 | Waterdeep Detours | 0.30% | ~638 |
 | Friendly Imps | 0.30% | ~638 |
 | Pure Energy | 0.30% | ~638 |
-| Trollskull Manor | 0.20% | ~425 |
-| The Death Curse | 0.20% | ~425 |
-| Useless Allies | 0.20% | ~425 |
-| Premature Betrayal | 0.20% | ~425 |
-| Exploring Port Nyanzaru | 0.20% | ~425 |
-| A Tale of Two Cities | 0.20% | ~425 |
-| The Dead Three | 0.20% | ~425 |
-| Flying Monkey Skulls of Doom | 0.20% | ~425 |
-| Running of the Saurs | 0.20% | ~425 |
+| Trollskull Manor | 0.20% | ~426 |
+| The Death Curse | 0.20% | ~426 |
+| Useless Allies | 0.20% | ~426 |
+| Premature Betrayal | 0.20% | ~426 |
+| Exploring Port Nyanzaru | 0.20% | ~426 |
+| A Tale of Two Cities | 0.20% | ~426 |
+| The Dead Three | 0.20% | ~426 |
+| Flying Monkey Skulls of Doom | 0.20% | ~426 |
+| Running of the Saurs | 0.20% | ~426 |
 | The Giant's Bane Tavern | 0.20% | ~358 |
-| Close Escort | 0.20% | ~425 |
-| Constant Banditry | 0.20% | ~425 |
-| The Long Haul | 0.20% | ~425 |
-| Lost in the Deep | 0.20% | ~425 |
-| Easily Distracted | 0.20% | ~425 |
-| Rude Welcome | 0.20% | ~425 |
-| Underdeep Cartography | 0.20% | ~425 |
-| Overdue Rendezvous | 0.20% | ~425 |
-| Durable Deep | 0.20% | ~425 |
-| The Templar's Camp | 0.20% | ~425 |
+| Close Escort | 0.20% | ~426 |
+| Constant Banditry | 0.20% | ~426 |
+| The Long Haul | 0.20% | ~426 |
+| Lost in the Deep | 0.20% | ~426 |
+| Easily Distracted | 0.20% | ~426 |
+| Rude Welcome | 0.20% | ~426 |
+| Underdeep Cartography | 0.20% | ~426 |
+| Overdue Rendezvous | 0.20% | ~426 |
+| Durable Deep | 0.20% | ~426 |
+| The Templar's Camp | 0.20% | ~426 |
+| Rescue in the Jungle | 0.20% | ~426 |
 | Intelligence Hunt | 0.10% | ~213 |
 | Seeds of Deceit | 0.10% | ~213 |
 | Visions of Strahd | 0.10% | ~213 |
@@ -298,7 +299,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Haunted Jungle | 0.10% | ~213 |
 | Poor Guidance | 0.10% | ~213 |
 | Overwhelming Force | 0.10% | ~213 |
-| Rescue in the Jungle | 0.10% | ~213 |
 | A Brief Tour of the Realms | 0.00% | ~0 |
 | Maddening | 0.00% | ~0 |
 | Pros and CONs | 0.00% | ~0 |
@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212,745 (Ranked 53)  
+Progressed: 212,762 (Ranked 53)  
 Completed: 2,056 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -602,7 +602,7 @@ Completed: 2,056 (0.97%) (Ranked 102)
 | 2023-07-14 | 211,507 | 2,050 |
 | 2023-07-15 | 212,014 | 2,053 |
 | 2023-07-16 | 212,501 | 2,055 |
-| 2023-07-17 | 212,745 | 2,056 |
+| 2023-07-17 | 212,762 | 2,056 |
 ## Awards
 Max (Diverse Characters): 5,041  (Ranked 66)  
 Sum: 30,559 (Ranked 38)  

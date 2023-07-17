@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 189,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1488,9 +1488,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 24274,
+  "EOS_Progressed": 24275,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -8063,6 +8063,11 @@
       "Time": "2023-07-17T16:03:54.601294+00:00",
       "NumProgressed": 24274,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-07-17T17:03:54.4616296+00:00",
+      "NumProgressed": 24275,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 51,
@@ -8074,7 +8079,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 17720
+      "UsersEstimate": 17721
     },
     {
       "ID": "Animated",
@@ -8106,7 +8111,7 @@
       "Name": "Catostrophic Destroyer",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "Clutch_Capture",
@@ -8114,7 +8119,7 @@
       "Name": "Clutch Capture",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 9952
+      "UsersEstimate": 9953
     },
     {
       "ID": "Collect_Spores",
@@ -8162,7 +8167,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 14807
+      "UsersEstimate": 14808
     },
     {
       "ID": "Dont_Need_These",
@@ -8186,7 +8191,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 15535
+      "UsersEstimate": 15536
     },
     {
       "ID": "Escape_Artist",
@@ -8242,7 +8247,7 @@
       "Name": "Legions",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 6311
+      "UsersEstimate": 6312
     },
     {
       "ID": "Liability",
@@ -8250,7 +8255,7 @@
       "Name": "Liability",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 2427
+      "UsersEstimate": 2428
     },
     {
       "ID": "Line_Em_Up",
@@ -8258,7 +8263,7 @@
       "Name": "Line em\u0027 up",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "Little_Help",
@@ -8266,7 +8271,7 @@
       "Name": "Little Help Here",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "Master_Collector",
@@ -8290,7 +8295,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6068
+      "UsersEstimate": 6069
     },
     {
       "ID": "Reckless",
@@ -8322,7 +8327,7 @@
       "Name": "Right back at ya",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 6311
+      "UsersEstimate": 6312
     },
     {
       "ID": "Rivalry",
@@ -8330,7 +8335,7 @@
       "Name": "Rivalry",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2427
+      "UsersEstimate": 2428
     },
     {
       "ID": "Seasoned",
@@ -8370,7 +8375,7 @@
       "Name": "Stunner",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 6311
+      "UsersEstimate": 6312
     },
     {
       "ID": "Stylish",
@@ -8418,7 +8423,7 @@
       "Name": "Terrifying",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 4369
+      "UsersEstimate": 4370
     },
     {
       "ID": "Therapeutic",
@@ -8442,7 +8447,7 @@
       "Name": "Tobin\u0027s Prodigy",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4369
+      "UsersEstimate": 4370
     },
     {
       "ID": "Ultimate_Defense",
@@ -8450,7 +8455,7 @@
       "Name": "Ultimate Defense",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "Vaporous_Expansion",
@@ -8481,7 +8486,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 24274,
+      "Progressed": 24275,
       "Completed": 46
     }
   ],
@@ -8489,8 +8494,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-07-17T07:59:54.7405249+00:00",
-  "LastChanged_Achievements": "2023-07-17T16:03:54.6012932+00:00",
+  "LastChanged_Achievements": "2023-07-17T17:03:54.461629+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:59.3663354+00:00",
-  "LastUpdate_Ratings": "2023-07-17T15:59:43.9557645+00:00",
-  "LastUpdate_Achievements": "2023-07-17T16:03:54.6013809+00:00"
+  "LastUpdate_Ratings": "2023-07-17T17:00:14.662807+00:00",
+  "LastUpdate_Achievements": "2023-07-17T17:03:54.4617134+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -5593,10 +5593,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 13778,
       "NumberOfAwardsMax": 6809
+    },
+    {
+      "Time": "2023-07-17T17:01:07.8455023+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 13779,
+      "NumberOfAwardsMax": 6809
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13778,
+  "NumberOfAwards": 13779,
   "NumberOfAwardsMax": 6809,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5658,7 +5664,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 759
+      "Count": 760
     },
     {
       "Text": "This game has a Creative Community",
@@ -5673,9 +5679,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 55967,
+  "EOS_Progressed": 55970,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 501,
+  "EOS_NewPlayers": 503,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14793,6 +14799,11 @@
       "Time": "2023-07-17T16:06:54.6227409+00:00",
       "NumProgressed": 55967,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-17T17:07:49.3561965+00:00",
+      "NumProgressed": 55970,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -14804,7 +14815,7 @@
       "Name": "Against all odds",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6156
+      "UsersEstimate": 6157
     },
     {
       "ID": "Apple of my eye",
@@ -14812,7 +14823,7 @@
       "Name": "Apple of my eye",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 7835
+      "UsersEstimate": 7836
     },
     {
       "ID": "Bannerlord",
@@ -14844,7 +14855,7 @@
       "Name": "Butterlord",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 4477
+      "UsersEstimate": 4478
     },
     {
       "ID": "Catch",
@@ -14972,7 +14983,7 @@
       "Name": "I can do it",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8395
+      "UsersEstimate": 8396
     },
     {
       "ID": "I spit on your grave",
@@ -15028,7 +15039,7 @@
       "Name": "Landlord",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 17350
+      "UsersEstimate": 17351
     },
     {
       "ID": "Lawbringer",
@@ -15036,7 +15047,7 @@
       "Name": "Lawbringer",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 20708
+      "UsersEstimate": 20709
     },
     {
       "ID": "Lawmaker",
@@ -15156,7 +15167,7 @@
       "Name": "The king is pleased",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 9514
+      "UsersEstimate": 9515
     },
     {
       "ID": "This Is Our Land",
@@ -15180,7 +15191,7 @@
       "Name": "Trained",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 11753
+      "UsersEstimate": 11754
     },
     {
       "ID": "Undercover",
@@ -15211,15 +15222,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 55967,
+      "Progressed": 55970,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-07-17T16:00:25.4586042+00:00",
-  "LastChanged_Achievements": "2023-07-17T16:06:54.6227403+00:00",
+  "LastChanged": "2023-07-17T17:01:07.8455022+00:00",
+  "LastChanged_Achievements": "2023-07-17T17:07:49.3561958+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:48.1005966+00:00",
-  "LastUpdate_Ratings": "2023-07-17T16:00:25.4586053+00:00",
-  "LastUpdate_Achievements": "2023-07-17T16:06:54.6228472+00:00"
+  "LastUpdate_Ratings": "2023-07-17T17:01:07.8455029+00:00",
+  "LastUpdate_Achievements": "2023-07-17T17:07:49.3562953+00:00"
 }
