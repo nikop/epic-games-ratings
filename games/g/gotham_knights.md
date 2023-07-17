@@ -10,18 +10,18 @@ Rating: 4.18 (Ranked 856)
 | Har, Har, Har, Very Funny | 4.00% | ~2,685 |
 | Knighthood | 4.00% | ~2,685 |
 | Loose Ends | 4.00% | ~2,685 |
-| The Batman Family | 3.00% | ~2,013 |
-| Something in the Clay | 3.00% | ~2,013 |
-| The Show Mud Go On | 3.00% | ~2,013 |
-| Quartzer Life Crisis | 3.00% | ~2,013 |
-| Snow Problem | 3.00% | ~2,013 |
-| Get ReQ'd | 3.00% | ~2,013 |
-| Working Hard or Harley Working? | 3.00% | ~2,013 |
-| Unstoppable Force | 3.00% | ~2,013 |
-| Whispered Words | 3.00% | ~2,013 |
-| Lock and Key | 3.00% | ~2,013 |
-| Bad Apples in Every Orchard | 3.00% | ~2,013 |
-| From Inside Gotham's Walls | 3.00% | ~2,013 |
+| The Batman Family | 3.00% | ~2,014 |
+| Something in the Clay | 3.00% | ~2,014 |
+| The Show Mud Go On | 3.00% | ~2,014 |
+| Quartzer Life Crisis | 3.00% | ~2,014 |
+| Snow Problem | 3.00% | ~2,014 |
+| Get ReQ'd | 3.00% | ~2,014 |
+| Working Hard or Harley Working? | 3.00% | ~2,014 |
+| Unstoppable Force | 3.00% | ~2,014 |
+| Whispered Words | 3.00% | ~2,014 |
+| Lock and Key | 3.00% | ~2,014 |
+| Bad Apples in Every Orchard | 3.00% | ~2,014 |
+| From Inside Gotham's Walls | 3.00% | ~2,014 |
 | End of an Era | 2.00% | ~1,342 |
 | In Your Element | 2.00% | ~1,342 |
 | Protector of Gotham | 2.00% | ~1,342 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 856)
 | History Major | 0.10% | ~67 |
 | Confronting Your Demon | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,115 (Ranked 77)  
+Progressed: 67,118 (Ranked 77)  
 Completed: 102 (0.15%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 102 (0.15%) (Ranked 173)
 | 2023-07-14 | 67,031 | 102 |
 | 2023-07-15 | 67,061 | 102 |
 | 2023-07-16 | 67,109 | 102 |
-| 2023-07-17 | 67,115 | 102 |
+| 2023-07-17 | 67,118 | 102 |
 ## Awards
 Max (Great Boss Battles): 2,450  (Ranked 101)  
 Sum: 4,059 (Ranked 138)  

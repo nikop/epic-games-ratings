@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewPlayers": 85,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -2494,11 +2494,17 @@
       "Rating": 3.93,
       "NumberOfAwards": 1731,
       "NumberOfAwardsMax": 364
+    },
+    {
+      "Time": "2023-07-17T03:25:43.4510317+00:00",
+      "Rating": 3.93,
+      "NumberOfAwards": 1733,
+      "NumberOfAwardsMax": 366
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 1731,
-  "NumberOfAwardsMax": 364,
+  "NumberOfAwards": 1733,
+  "NumberOfAwardsMax": 366,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -2511,7 +2517,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 364
+      "Count": 366
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2550,9 +2556,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 69020,
+  "EOS_Progressed": 69021,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 369,
+  "EOS_NewPlayers": 367,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -11680,6 +11686,11 @@
       "Time": "2023-07-17T02:34:46.7474409+00:00",
       "NumProgressed": 69020,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-07-17T03:30:11.2718198+00:00",
+      "NumProgressed": 69021,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 37,
@@ -11835,7 +11846,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 44863
+      "UsersEstimate": 44864
     },
     {
       "ID": "ACH_0210",
@@ -11843,7 +11854,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 51075
+      "UsersEstimate": 51076
     },
     {
       "ID": "ACH_0211",
@@ -11859,7 +11870,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 32439
+      "UsersEstimate": 32440
     },
     {
       "ID": "ACH_0300",
@@ -11963,7 +11974,7 @@
       "Name": "Dragonslayer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11733
+      "UsersEstimate": 11734
     },
     {
       "ID": "ACH_0460",
@@ -11986,16 +11997,16 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 69020,
+      "Progressed": 69021,
       "Completed": 36
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-07-16T18:00:41.2716798+00:00",
-  "LastChanged_Achievements": "2023-07-17T02:34:46.7474393+00:00",
+  "LastChanged": "2023-07-17T03:25:43.4510315+00:00",
+  "LastChanged_Achievements": "2023-07-17T03:30:11.2718193+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:02.3078188+00:00",
-  "LastUpdate_Ratings": "2023-07-17T02:29:53.5776091+00:00",
-  "LastUpdate_Achievements": "2023-07-17T02:34:46.7475263+00:00"
+  "LastUpdate_Ratings": "2023-07-17T03:25:43.4510321+00:00",
+  "LastUpdate_Achievements": "2023-07-17T03:30:11.2719015+00:00"
 }

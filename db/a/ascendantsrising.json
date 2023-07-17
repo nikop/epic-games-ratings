@@ -4,7 +4,7 @@
   "ProductSlug": "ascendantsrising-a8a65a",
   "Ranking_EOS_Progress": 495,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-03-13T00:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:39.6080534+00:00",
   "LastChanged": "2023-03-31T05:58:39.6080535+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:09.5589019+00:00",
-  "LastUpdate_Ratings": "2023-07-17T02:29:59.9318452+00:00",
-  "LastUpdate_Achievements": "2023-07-17T02:36:25.714948+00:00"
+  "LastUpdate_Ratings": "2023-07-17T03:25:50.1292062+00:00",
+  "LastUpdate_Achievements": "2023-07-17T03:31:55.847073+00:00"
 }

@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~242 |
 | Connoisseur | 0.10% | ~242 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 596,097 (Ranked 26)  
+Progressed: 596,104 (Ranked 26)  
 Completed: 59 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 59 (0.01%) (Ranked 223)
 | 2023-07-14 | 594,738 | 59 |
 | 2023-07-15 | 595,394 | 59 |
 | 2023-07-16 | 596,038 | 59 |
-| 2023-07-17 | 596,097 | 59 |
+| 2023-07-17 | 596,104 | 59 |
 ## Awards
 Max (Character Customization): 8,428  (Ranked 39)  
 Sum: 19,944 (Ranked 55)  

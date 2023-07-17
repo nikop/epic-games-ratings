@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212,548 (Ranked 53)  
+Progressed: 212,558 (Ranked 53)  
 Completed: 2,056 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -602,7 +602,7 @@ Completed: 2,056 (0.97%) (Ranked 102)
 | 2023-07-14 | 211,507 | 2,050 |
 | 2023-07-15 | 212,014 | 2,053 |
 | 2023-07-16 | 212,501 | 2,055 |
-| 2023-07-17 | 212,548 | 2,056 |
+| 2023-07-17 | 212,558 | 2,056 |
 ## Awards
 Max (Diverse Characters): 5,036  (Ranked 66)  
 Sum: 30,550 (Ranked 38)  

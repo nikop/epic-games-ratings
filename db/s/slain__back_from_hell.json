@@ -187,7 +187,7 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 30303,
+  "EOS_Progressed": 30308,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 891,
   "EOS_NewCompleters": 0,
@@ -9602,6 +9602,11 @@
       "Time": "2023-07-17T02:33:47.6078874+00:00",
       "NumProgressed": 30303,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-07-17T03:29:13.1171341+00:00",
+      "NumProgressed": 30308,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -9613,7 +9618,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4848
+      "UsersEstimate": 4849
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -9621,7 +9626,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6061
+      "UsersEstimate": 6062
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -9795,9 +9800,9 @@
       "ID": "ACH_25_TALISMAN_COMPLETE",
       "SetID": "443p4o4",
       "Name": "That\u0027ll Come In Handy...",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 212
+      "UsersEstimate": 182
     },
     {
       "ID": "ACH_26_VROLL_NO_DAMAGE",
@@ -9844,7 +9849,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 30303,
+      "Progressed": 30308,
       "Completed": 20
     }
   ],
@@ -9852,8 +9857,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-07-11T15:00:39.3575549+00:00",
-  "LastChanged_Achievements": "2023-07-17T02:33:47.6078869+00:00",
+  "LastChanged_Achievements": "2023-07-17T03:29:13.1171335+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:02.6964927+00:00",
-  "LastUpdate_Ratings": "2023-07-17T02:29:54.5079469+00:00",
-  "LastUpdate_Achievements": "2023-07-17T02:33:47.6079651+00:00"
+  "LastUpdate_Ratings": "2023-07-17T03:25:44.5589825+00:00",
+  "LastUpdate_Achievements": "2023-07-17T03:29:13.1172079+00:00"
 }

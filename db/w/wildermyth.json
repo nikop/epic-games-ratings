@@ -151,9 +151,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1320,
+  "EOS_Progressed": 1321,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1136,6 +1136,11 @@
       "Time": "2023-07-17T02:34:46.157779+00:00",
       "NumProgressed": 1320,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-17T03:30:10.7724627+00:00",
+      "NumProgressed": 1321,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 56,
@@ -1179,7 +1184,7 @@
       "Name": "A Mythic Menagerie",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "achievement_beatAllStoryCampaigns",
@@ -1233,17 +1238,17 @@
       "ID": "achievement_fullTransformation",
       "SetID": "95dc8p",
       "Name": "Completing the Look",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 172
+      "UsersEstimate": 185
     },
     {
       "ID": "achievement_kill1000Cultists",
       "SetID": "95dc8p",
       "Name": "Empty the Caves",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_kill1000Drauven",
@@ -1323,7 +1328,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "achievement_mythwalker",
@@ -1451,7 +1456,7 @@
       "Name": "Core Failure",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "enduringWar_destroyEnduring",
@@ -1553,9 +1558,9 @@
       "ID": "theme_storm_kill3Enemies",
       "SetID": "95dc8p",
       "Name": "Tempest",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 26
     },
     {
       "ID": "theme_tree_knockback50Tiles",
@@ -1594,15 +1599,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1320,
+      "Progressed": 1321,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-07-08T20:01:41.3411794+00:00",
-  "LastChanged_Achievements": "2023-07-17T02:34:46.1577785+00:00",
+  "LastChanged_Achievements": "2023-07-17T03:30:10.7724622+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:39.8918764+00:00",
-  "LastUpdate_Ratings": "2023-07-17T02:30:29.4993955+00:00",
-  "LastUpdate_Achievements": "2023-07-17T02:34:46.1578398+00:00"
+  "LastUpdate_Ratings": "2023-07-17T03:26:17.108431+00:00",
+  "LastUpdate_Achievements": "2023-07-17T03:30:10.7725146+00:00"
 }

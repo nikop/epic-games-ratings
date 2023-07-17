@@ -6,7 +6,7 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cost of Heroism | 37.00% | ~488 |
+| The Cost of Heroism | 37.00% | ~489 |
 | Me and My Familiar | 35.00% | ~462 |
 | This Too Shall Pass | 29.00% | ~383 |
 | Passing Shadow | 28.00% | ~370 |
@@ -14,11 +14,11 @@ Number of Ratings: 45  (23.09.2022)
 | How Romantic! | 26.00% | ~343 |
 | Daybreak | 26.00% | ~343 |
 | Gotta Ca... Must Collect All of Them | 24.00% | ~317 |
-| Completing the Look | 13.00% | ~172 |
+| Completing the Look | 14.00% | ~185 |
 | Who's Counting? | 13.00% | ~172 |
 | War Endured | 13.00% | ~172 |
-| A Mythic Menagerie | 12.00% | ~158 |
-| Core Failure | 12.00% | ~158 |
+| A Mythic Menagerie | 12.00% | ~159 |
+| Core Failure | 12.00% | ~159 |
 | Pyrrhic Victory | 10.00% | ~132 |
 | Thematic Divergence | 9.00% | ~119 |
 | Echoes Die | 9.00% | ~119 |
@@ -39,22 +39,22 @@ Number of Ratings: 45  (23.09.2022)
 | No Time for Clawmonsters | 4.00% | ~53 |
 | We Emerge Changed | 3.00% | ~40 |
 | Storied Past | 3.00% | ~40 |
-| Empty the Caves | 3.00% | ~40 |
 | Bonebreakers | 3.00% | ~40 |
 | No More Nightmares | 3.00% | ~40 |
 | Bears are Scary | 3.00% | ~40 |
 | Some Say I'm Too Flashy | 3.00% | ~40 |
 | Into Mulch | 3.00% | ~40 |
 | Astrology | 3.00% | ~40 |
-| Tempest | 3.00% | ~40 |
 | Lochias's Hunger | 3.00% | ~40 |
 | The Power of Friendship | 2.00% | ~26 |
+| Empty the Caves | 2.00% | ~26 |
 | Drauvenslayers | 2.00% | ~26 |
 | Back into the Sea | 2.00% | ~26 |
 | War-Ender | 2.00% | ~26 |
 | Fight Like a Bird | 2.00% | ~26 |
 | Solid as the Hills | 2.00% | ~26 |
 | Symbiosis | 2.00% | ~26 |
+| Tempest | 2.00% | ~26 |
 | A Temperamental Shrub | 2.00% | ~26 |
 | A Lowly Crust of Beef | 1.00% | ~13 |
 | I'm Not Smiling | 1.00% | ~13 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | We Call That Mortificient! | 0.70% | ~9 |
 | Peacemaker | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,320 (Ranked 178)  
+Progressed: 1,321 (Ranked 178)  
 Completed: 5 (0.38%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 5 (0.38%) (Ranked 138)
 | 2023-07-14 | 1,313 | 5 |
 | 2023-07-15 | 1,317 | 5 |
 | 2023-07-16 | 1,319 | 5 |
-| 2023-07-17 | 1,320 | 5 |
+| 2023-07-17 | 1,321 | 5 |
 ## Awards
 Max (Character Customization): 28  (Ranked 462)  
 Sum: 28 (Ranked 474)  

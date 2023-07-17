@@ -1263,9 +1263,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 18713,
+  "EOS_Progressed": 18716,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 588,
+  "EOS_NewPlayers": 590,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -10473,6 +10473,11 @@
       "Time": "2023-07-17T02:32:28.9312701+00:00",
       "NumProgressed": 18713,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-07-17T03:26:46.3445506+00:00",
+      "NumProgressed": 18716,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 22,
@@ -10588,7 +10593,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3368
+      "UsersEstimate": 3369
     },
     {
       "ID": "1029",
@@ -10620,7 +10625,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 7485
+      "UsersEstimate": 7486
     },
     {
       "ID": "1033",
@@ -10659,15 +10664,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 18713,
+      "Progressed": 18716,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-07-14T00:01:13.0699193+00:00",
-  "LastChanged_Achievements": "2023-07-17T02:32:28.9312694+00:00",
+  "LastChanged_Achievements": "2023-07-17T03:26:46.34455+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:18.6685717+00:00",
-  "LastUpdate_Ratings": "2023-07-17T02:30:08.7195771+00:00",
-  "LastUpdate_Achievements": "2023-07-17T02:32:28.9313422+00:00"
+  "LastUpdate_Ratings": "2023-07-17T03:25:58.5119966+00:00",
+  "LastUpdate_Achievements": "2023-07-17T03:26:46.3446188+00:00"
 }

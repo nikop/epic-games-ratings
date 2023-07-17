@@ -2,12 +2,12 @@
   "ID": "c9d0a59bf89c45ceadc5960d6bc1ae4c",
   "Name": "Strange Horticulture",
   "ProductSlug": "strange-horticulture-360e80",
-  "Ranking_Rating": 157,
+  "Ranking_Rating": 158,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 495,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-01-21T14:00:00+00:00",
@@ -154,6 +154,6 @@
   "FirstSeen": "2022-07-22T20:19:11.8440363+00:00",
   "LastChanged": "2023-05-29T04:01:11.5985277+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:23.7411644+00:00",
-  "LastUpdate_Ratings": "2023-07-17T02:30:14.5602641+00:00",
-  "LastUpdate_Achievements": "2023-07-17T02:36:27.1485286+00:00"
+  "LastUpdate_Ratings": "2023-07-17T03:26:03.2467557+00:00",
+  "LastUpdate_Achievements": "2023-07-17T03:31:57.2991743+00:00"
 }

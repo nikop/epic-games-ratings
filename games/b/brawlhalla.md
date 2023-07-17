@@ -1,7 +1,7 @@
 # Brawlhalla
 [Store](https://store.epicgames.com/en-US/p/brawlhalla)  
 [View Rawdata](../../db/b/brawlhalla.json)  
-Rating: 4.60 (Ranked 389)  
+Rating: 4.60 (Ranked 390)  
 ## Awards
 Max (Great for Beginners): 212  (Ranked 264)  
 Sum: 2,026 (Ranked 194)  

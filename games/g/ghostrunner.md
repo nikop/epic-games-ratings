@@ -6,23 +6,23 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 77.00% | ~9,692 |
+| Longrunner | 77.00% | ~9,693 |
 | Sword Runner | 63.00% | ~7,930 |
 | Running out of breath | 55.00% | ~6,923 |
 | Wallrunner | 55.00% | ~6,923 |
 | Homerunner | 46.00% | ~5,790 |
 | Out of order | 46.00% | ~5,790 |
-| I call it luck | 45.00% | ~5,664 |
+| I call it luck | 45.00% | ~5,665 |
 | Where are my Keys? | 42.00% | ~5,287 |
 | Back to hell | 38.00% | ~4,783 |
 | Perfection | 33.00% | ~4,154 |
 | Why not both | 31.00% | ~3,902 |
 | Sword to a gunfight | 30.00% | ~3,776 |
-| Artificial selection | 29.00% | ~3,650 |
-| Upgrades not mandatory | 29.00% | ~3,650 |
-| Control freak | 28.00% | ~3,524 |
-| Running Wild | 28.00% | ~3,524 |
-| Finish line | 27.00% | ~3,398 |
+| Artificial selection | 29.00% | ~3,651 |
+| Upgrades not mandatory | 29.00% | ~3,651 |
+| Control freak | 28.00% | ~3,525 |
+| Running Wild | 28.00% | ~3,525 |
+| Finish line | 27.00% | ~3,399 |
 | Unstoppable force | 23.00% | ~2,895 |
 | Wave of mutilation | 22.00% | ~2,769 |
 | Can't Run Can't Hide | 18.00% | ~2,266 |
@@ -31,15 +31,15 @@ Number of Ratings: 1,047  (23.09.2022)
 | Improvise, adapt, overrun | 13.00% | ~1,636 |
 | Pre-empative strike | 13.00% | ~1,636 |
 | Strike | 13.00% | ~1,636 |
-| More than human | 12.00% | ~1,510 |
+| More than human | 12.00% | ~1,511 |
 | Triple A | 10.00% | ~1,259 |
 | Fine addition | 7.00% | ~881 |
 | One Of Those Days | 7.00% | ~881 |
 | Push it to the limit | 5.00% | ~629 |
 | Where He Stood | 5.00% | ~629 |
-| About Adam | 4.00% | ~503 |
-| Scrapped | 4.00% | ~503 |
-| Strafing Run | 4.00% | ~503 |
+| About Adam | 4.00% | ~504 |
+| Scrapped | 4.00% | ~504 |
+| Strafing Run | 4.00% | ~504 |
 | Just A Man | 3.00% | ~378 |
 | Hit me if you can | 2.00% | ~252 |
 | Junkrunner | 2.00% | ~252 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~50 |
 | Up Close And Personal | 0.40% | ~50 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,587 (Ranked 114)  
+Progressed: 12,588 (Ranked 114)  
 Completed: 51 (0.41%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 51 (0.41%) (Ranked 136)
 | 2023-07-14 | 12,410 | 51 |
 | 2023-07-15 | 12,492 | 51 |
 | 2023-07-16 | 12,582 | 51 |
-| 2023-07-17 | 12,587 | 51 |
+| 2023-07-17 | 12,588 | 51 |
 ## Awards
 Max (Great Boss Battles): 471  (Ranked 196)  
 Sum: 608 (Ranked 288)  

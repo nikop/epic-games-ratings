@@ -7,9 +7,8 @@
 | Time Heals All Wounds | 19.00% | ~144 |
 | The Mysterious Stranger | 16.00% | ~121 |
 | Rail Rat | 16.00% | ~121 |
-| The Steel Shadow | 15.00% | ~114 |
 | Make Up For Lost Time | 15.00% | ~114 |
-| Immaculate Aim | 15.00% | ~114 |
+| The Steel Shadow | 14.00% | ~106 |
 | The Betrayer | 14.00% | ~106 |
 | The Man Who Shattered Time | 14.00% | ~106 |
 | The Loose Cannon | 14.00% | ~106 |
@@ -20,6 +19,7 @@
 | Breaking Down Barriers | 14.00% | ~106 |
 | The Wicked Twins | 14.00% | ~106 |
 | The Prince in Heels | 14.00% | ~106 |
+| Immaculate Aim | 14.00% | ~106 |
 | Immaculate Aim | 14.00% | ~106 |
 | The Brass Boss | 14.00% | ~106 |
 | The Family Fortune | 14.00% | ~106 |
@@ -40,11 +40,11 @@
 | Theater Explorer | 8.00% | ~61 |
 | Fairgrounds Explorer | 7.00% | ~53 |
 | Ask Questions Later | 7.00% | ~53 |
-| Corin Goes Home | 6.00% | ~45 |
-| Sartorialist | 6.00% | ~45 |
-| Cultivair Explorer | 6.00% | ~45 |
-| Entresol Explorer | 6.00% | ~45 |
-| Factorywood Explorer | 6.00% | ~45 |
+| Corin Goes Home | 6.00% | ~46 |
+| Sartorialist | 6.00% | ~46 |
+| Cultivair Explorer | 6.00% | ~46 |
+| Entresol Explorer | 6.00% | ~46 |
+| Factorywood Explorer | 6.00% | ~46 |
 | Golem Hunter | 5.00% | ~38 |
 | Clovemary for Remembering | 4.00% | ~30 |
 | Hexlock for Protection | 4.00% | ~30 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.50% | ~4 |
 | Raw Talent | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 758 (Ranked 198)  
+Progressed: 759 (Ranked 198)  
 Completed: 4 (0.53%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,3 +113,4 @@ Completed: 4 (0.53%) (Ranked 125)
 | 2023-07-11 | 751 | 4 |
 | 2023-07-14 | 754 | 4 |
 | 2023-07-15 | 758 | 4 |
+| 2023-07-17 | 759 | 4 |
