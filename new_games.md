@@ -8,7 +8,7 @@
 | [Dynopunk](games/7/7c738a3f30bb44d79291fd03eca6a59d.md) | 2023-07-14 | - |  | - | 0 |
 | [field peas~Sayaendou~](games/3/3ce6af86146c4e46b97aff18292fb25b.md) | 2023-07-14 | - |  | - | - |
 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 2023-07-13 | 23 (1,000 XP) | 1 | - | - |
-| [Gravity Circuit](games/g/gravity_circuit.md) | 2023-07-13 | - |  | - | - |
+| [Gravity Circuit](games/g/gravity_circuit.md) | 2023-07-13 | - |  | - | 0 |
 | [Testament: The Order Of High-Human](games/3/3c69660cdc2d41aeac310fe3f864eb26.md) | 2023-07-13 | 41 (1,000 XP) | 0 | - | 0 |
 | [Beach Invasion 1944](games/b/beach_invasion_1944.md) | 2023-07-13 | 40 (1,000 XP) | 0 | - | 0 |
 | [The Zombie Smasher](games/d/dd115523a4e24061be581586b20645ef.md) | 2023-07-13 | - |  | - | 0 |
@@ -57,7 +57,7 @@
 | [The Last Case of Benedict Fox](games/t/the_last_case_of_benedict_fox.md) | 2023-06-30 | - |  | - | - |
 | [Traffic Brains 2](games/f/f6a9fcbf437b48b59cf3d54a75c20932.md) | 2023-06-30 | - |  | - | - |
 | [FRONT MISSION 1st: Remake](games/e/e6c7d54c946f4d3da27a4a6d4a45202f.md) | 2023-06-29 | 28 (1,000 XP) | 3 | - | 0 |
-| [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 2023-06-29 | 16 (1,000 XP) | 1,328 | - | 0 |
+| [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 2023-06-29 | 16 (1,000 XP) | 1,330 | - | 0 |
 | [Frightence](games/0/00f00dd1769a46568868a5fdb61748d4.md) | 2023-06-29 | - |  | - | - |
 | [Striker Manager 3](games/2/2825f101eb8b48fc8676beed92553e35.md) | 2023-06-29 | - |  | - | 0 |
 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 2023-06-29 | - |  | 4.33 | 55 |
@@ -103,6 +103,6 @@
 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2023-06-20 | 6 (1,000 XP) | 42 | - | 0 |
 | [OverDrift Festival](games/6/607b4b770360431eae1b003047ac0d64.md) | 2023-06-20 | - |  | - | - |
 | [Crimsonland](games/0/04d22e276f144358875f1789bd49f135.md) | 2023-06-20 | 22 (1,000 XP) | 0 | - | - |
-| [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 2023-06-19 | 45 (1,000 XP) | 2,935 | 4.43 | 0 |
+| [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 2023-06-19 | 45 (1,000 XP) | 2,936 | 4.43 | 0 |
 | [The House of Da Vinci 2](games/4/4a0076f825604014b0540bb5d957d3bb.md) | 2023-06-19 | 24 (1,000 XP) | 11 | - | 0 |
 | [The House of Da Vinci 3](games/6/6bd33f792d3d4350ab80acb891597df8.md) | 2023-06-19 | 30 (1,000 XP) | 8 | - | 0 |
