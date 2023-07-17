@@ -30,15 +30,15 @@
 | 28 | [Ravenlok](games/r/ravenlok.md) | 7.44% |
 | 29 | [Time Loader](games/t/time_loader.md) | 7.14% |
 | 30 | [Scorn](games/s/scorn.md) | 7.05% |
-| 31 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.95% |
+| 31 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.94% |
 | 32 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.67% |
 | 33 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 34 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 35 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.69% |
 | 36 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
 | 37 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.03% |
-| 38 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.00% |
-| 39 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.91% |
+| 38 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.91% |
+| 39 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.88% |
 | 40 | [JARS](games/j/jars.md) | 4.84% |
 | 41 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
 | 42 | [Without Escape](games/w/without_escape.md) | 4.55% |
@@ -184,15 +184,15 @@
 | 180 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.11% |
 | 183 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.10% |
 | 183 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
+| 183 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.10% |
 | 183 | [House Flipper](games/h/house_flipper.md) | 0.10% |
 | 183 | [Outward Definitive Edition](games/o/outward.md) | 0.10% |
 | 183 | [Supraland](games/s/supraland.md) | 0.10% |
-| 188 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
-| 188 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.09% |
-| 188 | [Partisans 1941](games/p/partisans_1941.md) | 0.09% |
-| 188 | [Riverbond](games/r/riverbond.md) | 0.09% |
-| 188 | [Shop Titans](games/s/shop_titans.md) | 0.09% |
-| 188 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
+| 189 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
+| 189 | [Partisans 1941](games/p/partisans_1941.md) | 0.09% |
+| 189 | [Riverbond](games/r/riverbond.md) | 0.09% |
+| 189 | [Shop Titans](games/s/shop_titans.md) | 0.09% |
+| 189 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
 | 194 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
 | 195 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
 | 195 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
@@ -400,6 +400,7 @@
 | 236 | [Prison Architect](games/p/prison_architect.md) | 0.00% |
 | 236 | [Project Highrise](games/p/project_highrise.md) | 0.00% |
 | 236 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 0.00% |
+| 236 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 0.00% |
 | 236 | [Puzzle Compound](games/d/dc0f95061f7746e3b4ad939bee60f1a3.md) | 0.00% |
 | 236 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.00% |
 | 236 | [Quest Hunter](games/b/b72f5f79f855471e9691ff22e4967656.md) | 0.00% |
