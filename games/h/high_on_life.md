@@ -5,13 +5,13 @@ Rating: 4.67 (Ranked 259)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~19,104 |
-| Mods Please Ban | 77.00% | ~17,723 |
-| Bring A Knife to a Gun Fight | 77.00% | ~17,723 |
-| Fallout Doesn't Let You Do This | 73.00% | ~16,802 |
-| First Bounty Down | 59.00% | ~13,580 |
+| Eye Scream, You Scream | 83.00% | ~19,105 |
+| Mods Please Ban | 77.00% | ~17,724 |
+| Bring A Knife to a Gun Fight | 77.00% | ~17,724 |
+| Fallout Doesn't Let You Do This | 73.00% | ~16,803 |
+| First Bounty Down | 59.00% | ~13,581 |
 | We're All Very Impressed, Trust Me | 57.00% | ~13,120 |
-| Luglox Genocide | 43.00% | ~9,897 |
+| Luglox Genocide | 43.00% | ~9,898 |
 | Playing Card To Get | 34.00% | ~7,826 |
 | Don't Knife The Hand That Feeds | 34.00% | ~7,826 |
 | Creature Feature | 30.00% | ~6,905 |
@@ -24,8 +24,8 @@ Rating: 4.67 (Ranked 259)
 | Hardest Battle In The Game | 22.00% | ~5,064 |
 | Series Wrap on Suit-O | 22.00% | ~5,064 |
 | Lezduit! | 21.00% | ~4,834 |
-| Who's The Boss? | 20.00% | ~4,603 |
-| Spent 15 Hours At The Alien Strip Club | 20.00% | ~4,603 |
+| Who's The Boss? | 20.00% | ~4,604 |
+| Spent 15 Hours At The Alien Strip Club | 20.00% | ~4,604 |
 | Self-Actualization | 19.00% | ~4,373 |
 | Legendary Bounty Hunter | 18.00% | ~4,143 |
 | Seeing All The Sights | 16.00% | ~3,683 |
@@ -38,7 +38,7 @@ Rating: 4.67 (Ranked 259)
 | Epic Legendary Prize | 1.00% | ~230 |
 | A Starfish Is Born | 1.00% | ~230 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,017 (Ranked 100)  
+Progressed: 23,018 (Ranked 100)  
 Completed: 8 (0.03%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 8 (0.03%) (Ranked 208)
 | 2023-07-14 | 23,003 | 8 |
 | 2023-07-15 | 23,008 | 8 |
 | 2023-07-16 | 23,012 | 8 |
-| 2023-07-17 | 23,017 | 8 |
+| 2023-07-17 | 23,018 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57464,
+  "EOS_Progressed": 57465,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 310,
+  "EOS_NewPlayers": 308,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8202,6 +8202,11 @@
       "Time": "2023-07-17T17:03:43.2853592+00:00",
       "NumProgressed": 57464,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-07-17T18:02:42.6093855+00:00",
+      "NumProgressed": 57465,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 67,
@@ -8221,7 +8226,7 @@
       "Name": "Nordic Walking",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 12067
+      "UsersEstimate": 12068
     },
     {
       "ID": "03",
@@ -8229,7 +8234,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 12067
+      "UsersEstimate": 12068
     },
     {
       "ID": "04",
@@ -8333,7 +8338,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4022
+      "UsersEstimate": 4023
     },
     {
       "ID": "17",
@@ -8485,7 +8490,7 @@
       "Name": "Let There Be Light",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 15515
+      "UsersEstimate": 15516
     },
     {
       "ID": "36",
@@ -8748,21 +8753,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57464,
+      "Progressed": 57465,
       "Completed": 58
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20932,
+      "Progressed": 20933,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-17T17:03:43.2853587+00:00",
+  "LastChanged_Achievements": "2023-07-17T18:02:42.6093851+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:10.5196415+00:00",
-  "LastUpdate_Ratings": "2023-07-17T16:58:35.8391964+00:00",
-  "LastUpdate_Achievements": "2023-07-17T17:03:43.2854725+00:00"
+  "LastUpdate_Ratings": "2023-07-17T17:57:48.6892222+00:00",
+  "LastUpdate_Achievements": "2023-07-17T18:02:42.609504+00:00"
 }

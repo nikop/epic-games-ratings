@@ -703,9 +703,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 31464,
+  "EOS_Progressed": 31469,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1025,
+  "EOS_NewPlayers": 1021,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10183,6 +10183,11 @@
       "Time": "2023-07-17T17:03:40.3574203+00:00",
       "NumProgressed": 31464,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-17T18:02:40.0655245+00:00",
+      "NumProgressed": 31469,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -10218,7 +10223,7 @@
       "Name": "Scout",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 3146
+      "UsersEstimate": 3147
     },
     {
       "ID": "distance500000",
@@ -10234,7 +10239,7 @@
       "Name": "Rookie",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 8181
+      "UsersEstimate": 8182
     },
     {
       "ID": "goals180",
@@ -10322,7 +10327,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 5034
+      "UsersEstimate": 5035
     },
     {
       "ID": "playerFelipe",
@@ -10346,7 +10351,7 @@
       "Name": "Unlock Maya",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2202
+      "UsersEstimate": 2203
     },
     {
       "ID": "playerPaz",
@@ -10402,7 +10407,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 8181
+      "UsersEstimate": 8182
     },
     {
       "ID": "sandboarder",
@@ -10418,7 +10423,7 @@
       "Name": "Sightseer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3461
+      "UsersEstimate": 3462
     },
     {
       "ID": "ultimate",
@@ -10466,7 +10471,7 @@
       "Name": "Enter Paz",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2517
+      "UsersEstimate": 2518
     },
     {
       "ID": "vandal",
@@ -10505,15 +10510,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 31464,
+      "Progressed": 31469,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-07-12T18:59:44.659144+00:00",
-  "LastChanged_Achievements": "2023-07-17T17:03:40.3574194+00:00",
+  "LastChanged_Achievements": "2023-07-17T18:02:40.065524+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:14.8454564+00:00",
-  "LastUpdate_Ratings": "2023-07-17T17:00:31.2510615+00:00",
-  "LastUpdate_Achievements": "2023-07-17T17:03:40.357509+00:00"
+  "LastUpdate_Ratings": "2023-07-17T17:59:14.5187727+00:00",
+  "LastUpdate_Achievements": "2023-07-17T18:02:40.0656118+00:00"
 }

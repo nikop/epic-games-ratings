@@ -7,6 +7,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Cursed Farmer | 0.40% | ~851 |
+| The Mad Wizard | 0.40% | ~851 |
 | The Ring of Regeneration | 0.30% | ~638 |
 | The Crumbling Temple | 0.30% | ~638 |
 | Seeking Allies | 0.30% | ~638 |
@@ -14,7 +15,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mad Cow Disease | 0.30% | ~638 |
 | The Contagious Curse | 0.30% | ~638 |
 | Escort to Waterdeep | 0.30% | ~638 |
-| The Mad Wizard | 0.30% | ~638 |
 | Waterdeep Detours | 0.30% | ~638 |
 | Friendly Imps | 0.30% | ~638 |
 | Pure Energy | 0.30% | ~638 |
@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212,762 (Ranked 53)  
+Progressed: 212,783 (Ranked 53)  
 Completed: 2,056 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -602,7 +602,7 @@ Completed: 2,056 (0.97%) (Ranked 102)
 | 2023-07-14 | 211,507 | 2,050 |
 | 2023-07-15 | 212,014 | 2,053 |
 | 2023-07-16 | 212,501 | 2,055 |
-| 2023-07-17 | 212,762 | 2,056 |
+| 2023-07-17 | 212,783 | 2,056 |
 ## Awards
 Max (Diverse Characters): 5,041  (Ranked 66)  
 Sum: 30,559 (Ranked 38)  

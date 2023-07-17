@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 102,
   "Ranking_EOS_NewPlayers": 27,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5044,10 +5044,10 @@
       "Count": 3303
     }
   ],
-  "EOS_Progressed": 212762,
+  "EOS_Progressed": 212783,
   "EOS_Completed": 2056,
   "EOS_NewPlayers": 3040,
-  "EOS_NewCompleters": 13,
+  "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
     {
@@ -14459,6 +14459,11 @@
       "Time": "2023-07-17T17:07:00.8688794+00:00",
       "NumProgressed": 212762,
       "NumCompleted": 2056
+    },
+    {
+      "Time": "2023-07-17T18:05:27.7324933+00:00",
+      "NumProgressed": 212783,
+      "NumCompleted": 2056
     }
   ],
   "TotalAchievements": 507,
@@ -17612,9 +17617,9 @@
       "ID": "objective_completed_7",
       "SetID": "cc37lbc",
       "Name": "The Mad Wizard",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 638
+      "UsersEstimate": 851
     },
     {
       "ID": "objective_completed_70",
@@ -18525,21 +18530,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 179036,
+      "Progressed": 179057,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 212762,
+      "Progressed": 212783,
       "Completed": 2056
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-17T15:58:52.7853681+00:00",
-  "LastChanged_Achievements": "2023-07-17T17:07:00.8688782+00:00",
+  "LastChanged_Achievements": "2023-07-17T18:05:27.7324929+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:48.5227447+00:00",
-  "LastUpdate_Ratings": "2023-07-17T16:59:10.513214+00:00",
-  "LastUpdate_Achievements": "2023-07-17T17:07:00.8718184+00:00"
+  "LastUpdate_Ratings": "2023-07-17T17:58:11.7762886+00:00",
+  "LastUpdate_Achievements": "2023-07-17T18:05:27.7351808+00:00"
 }

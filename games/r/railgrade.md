@@ -27,7 +27,7 @@ Rating: 4.54 (Ranked 493)
 | Perfectionist | 23.00% | ~4,435 |
 | Trains over Pipes | 23.00% | ~4,435 |
 | 8K is Enough for Everyone | 22.00% | ~4,242 |
-| Man of Steel | 16.00% | ~3,085 |
+| Man of Steel | 17.00% | ~3,278 |
 | Room Full of Trains | 12.00% | ~2,314 |
 | Investor | 10.00% | ~1,928 |
 | Multiverse | 7.00% | ~1,350 |

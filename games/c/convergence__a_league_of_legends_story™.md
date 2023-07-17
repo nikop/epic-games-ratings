@@ -8,6 +8,7 @@
 | The Mysterious Stranger | 16.00% | ~122 |
 | Rail Rat | 16.00% | ~122 |
 | Make Up For Lost Time | 15.00% | ~114 |
+| The Prince in Heels | 15.00% | ~114 |
 | Immaculate Aim | 15.00% | ~114 |
 | The Steel Shadow | 14.00% | ~106 |
 | The Betrayer | 14.00% | ~106 |
@@ -19,7 +20,6 @@
 | No, Thanks! | 14.00% | ~106 |
 | Breaking Down Barriers | 14.00% | ~106 |
 | The Wicked Twins | 14.00% | ~106 |
-| The Prince in Heels | 14.00% | ~106 |
 | Immaculate Aim | 14.00% | ~106 |
 | The Brass Boss | 14.00% | ~106 |
 | The Family Fortune | 14.00% | ~106 |
