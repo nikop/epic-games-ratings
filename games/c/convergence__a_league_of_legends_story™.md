@@ -38,11 +38,11 @@
 | Sump Explorer | 8.00% | ~61 |
 | Syron for Hope | 8.00% | ~61 |
 | Theater Explorer | 8.00% | ~61 |
+| Cultivair Explorer | 7.00% | ~53 |
 | Fairgrounds Explorer | 7.00% | ~53 |
 | Ask Questions Later | 7.00% | ~53 |
 | Corin Goes Home | 6.00% | ~46 |
 | Sartorialist | 6.00% | ~46 |
-| Cultivair Explorer | 6.00% | ~46 |
 | Entresol Explorer | 6.00% | ~46 |
 | Factorywood Explorer | 6.00% | ~46 |
 | Golem Hunter | 5.00% | ~38 |

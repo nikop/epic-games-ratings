@@ -350,9 +350,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12048,
+  "EOS_Progressed": 12049,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -5255,6 +5255,11 @@
       "Time": "2023-07-17T07:02:23.3861021+00:00",
       "NumProgressed": 12048,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-07-17T08:01:48.6674139+00:00",
+      "NumProgressed": 12049,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 35,
@@ -5266,7 +5271,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 11084
+      "UsersEstimate": 11085
     },
     {
       "ID": "ACH_02",
@@ -5274,7 +5279,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 9518
+      "UsersEstimate": 9519
     },
     {
       "ID": "ACH_03",
@@ -5282,7 +5287,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 8795
+      "UsersEstimate": 8796
     },
     {
       "ID": "ACH_04",
@@ -5306,7 +5311,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 7831
+      "UsersEstimate": 7832
     },
     {
       "ID": "ACH_07",
@@ -5330,7 +5335,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 6867
+      "UsersEstimate": 6868
     },
     {
       "ID": "ACH_10",
@@ -5346,7 +5351,7 @@
       "Name": "The Cradle of Centuries",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 5783
+      "UsersEstimate": 5784
     },
     {
       "ID": "ACH_12",
@@ -5442,7 +5447,7 @@
       "Name": "Improved crossbow",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 3132
+      "UsersEstimate": 3133
     },
     {
       "ID": "ACH_24",
@@ -5545,7 +5550,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 12048,
+      "Progressed": 12049,
       "Completed": 37
     }
   ],
@@ -5553,8 +5558,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-07-11T18:59:53.0039364+00:00",
-  "LastChanged_Achievements": "2023-07-17T07:02:23.3861016+00:00",
+  "LastChanged_Achievements": "2023-07-17T08:01:48.6674135+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:24.3188999+00:00",
-  "LastUpdate_Ratings": "2023-07-17T07:00:40.6553013+00:00",
-  "LastUpdate_Achievements": "2023-07-17T07:02:23.3861965+00:00"
+  "LastUpdate_Ratings": "2023-07-17T08:00:18.5636267+00:00",
+  "LastUpdate_Achievements": "2023-07-17T08:01:48.6674729+00:00"
 }

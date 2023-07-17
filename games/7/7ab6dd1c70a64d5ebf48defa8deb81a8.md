@@ -3,7 +3,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flawless Victory | 6.00% | ~1 |
+| Flawless Victory | 5.00% | ~1 |
 | Break Out | 0.00% | ~0 |
 | Find Allies | 0.00% | ~0 |
 | Calm before the Storm | 0.00% | ~0 |
@@ -34,13 +34,13 @@
 | The Collector | 0.00% | ~0 |
 | Feeling Fancy | 0.00% | ~0 |
 | Summiter | 0.00% | ~0 |
-| Powerful Allies | -5.60% | ~-1 |
-| The Mentor | -5.60% | ~-1 |
-| Airborne | -5.60% | ~-1 |
-| Alchemist | -5.60% | ~-1 |
-| A Queen's Tale | -5.60% | ~-1 |
+| Powerful Allies | -5.30% | ~-1 |
+| The Mentor | -5.30% | ~-1 |
+| Airborne | -5.30% | ~-1 |
+| Alchemist | -5.30% | ~-1 |
+| A Queen's Tale | -5.30% | ~-1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18 (Ranked 378)  
+Progressed: 19 (Ranked 376)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -52,3 +52,4 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-06 | 16 | 0 |
 | 2023-07-11 | 17 | 0 |
 | 2023-07-12 | 18 | 0 |
+| 2023-07-17 | 19 | 0 |

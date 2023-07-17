@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1949,
+  "EOS_Progressed": 1950,
   "EOS_Completed": 169,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 8.67,
   "EosHistory": [
@@ -3953,6 +3953,11 @@
       "Time": "2023-07-17T06:02:31.9707967+00:00",
       "NumProgressed": 1949,
       "NumCompleted": 169
+    },
+    {
+      "Time": "2023-07-17T08:03:40.0436243+00:00",
+      "NumProgressed": 1950,
+      "NumCompleted": 169
     }
   ],
   "TotalAchievements": 12,
@@ -3980,7 +3985,7 @@
       "Name": "Building the Fox",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "Green Ticket Roundup",
@@ -4004,7 +4009,7 @@
       "Name": "Jakob",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "Jude",
@@ -4020,7 +4025,7 @@
       "Name": "Le Juif et la France",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "Little Helper",
@@ -4036,7 +4041,7 @@
       "Name": "May Their Memories be a Blessing",
       "Percentage": 9,
       "XP": 200,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "Nazis in Paris",
@@ -4044,7 +4049,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "Nuremberg Laws",
@@ -4059,7 +4064,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1949,
+      "Progressed": 1950,
       "Completed": 169
     }
   ],
@@ -4067,8 +4072,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-07-17T07:03:30.6759521+00:00",
+  "LastChanged_Achievements": "2023-07-17T08:03:40.0436238+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:31.7321074+00:00",
-  "LastUpdate_Ratings": "2023-07-17T07:00:47.2054713+00:00",
-  "LastUpdate_Achievements": "2023-07-17T07:03:30.676007+00:00"
+  "LastUpdate_Ratings": "2023-07-17T08:00:23.8560725+00:00",
+  "LastUpdate_Achievements": "2023-07-17T08:03:40.0436635+00:00"
 }

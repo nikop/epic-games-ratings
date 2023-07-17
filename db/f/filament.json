@@ -225,9 +225,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 196550,
+  "EOS_Progressed": 196552,
   "EOS_Completed": 467,
-  "EOS_NewPlayers": 666,
+  "EOS_NewPlayers": 659,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -9500,6 +9500,11 @@
       "Time": "2023-07-17T06:02:17.6431061+00:00",
       "NumProgressed": 196550,
       "NumCompleted": 467
+    },
+    {
+      "Time": "2023-07-17T08:01:33.6161248+00:00",
+      "NumProgressed": 196552,
+      "NumCompleted": 467
     }
   ],
   "TotalAchievements": 29,
@@ -9535,7 +9540,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 184757
+      "UsersEstimate": 184759
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -9583,7 +9588,7 @@
       "Name": "Answers can be found amongst the stars",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5896
+      "UsersEstimate": 5897
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTED",
@@ -9679,7 +9684,7 @@
       "Name": "Bend to the will of the arrows.",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5896
+      "UsersEstimate": 5897
     },
     {
       "ID": "ACHIEVEMENT_SECRET",
@@ -9742,7 +9747,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 196550,
+      "Progressed": 196552,
       "Completed": 467
     }
   ],
@@ -9750,8 +9755,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-06-26T22:58:32.656469+00:00",
-  "LastChanged_Achievements": "2023-07-17T06:02:17.6431057+00:00",
+  "LastChanged_Achievements": "2023-07-17T08:01:33.6161237+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:47.6182594+00:00",
-  "LastUpdate_Ratings": "2023-07-17T06:59:55.8031972+00:00",
-  "LastUpdate_Achievements": "2023-07-17T06:02:17.6431816+00:00"
+  "LastUpdate_Ratings": "2023-07-17T07:59:41.6553109+00:00",
+  "LastUpdate_Achievements": "2023-07-17T08:01:33.6162775+00:00"
 }

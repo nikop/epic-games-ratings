@@ -7132,10 +7132,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 45757,
       "NumberOfAwardsMax": 5546
+    },
+    {
+      "Time": "2023-07-17T07:58:07.5211767+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 45763,
+      "NumberOfAwardsMax": 5546
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45757,
+  "NumberOfAwards": 45763,
   "NumberOfAwardsMax": 5546,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -7143,7 +7149,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 5307
+      "Count": 5313
     },
     {
       "Text": "This game has Challenging Combat",
@@ -7206,9 +7212,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 70684,
+  "EOS_Progressed": 70692,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2831,
+  "EOS_NewPlayers": 2830,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16726,6 +16732,11 @@
       "Time": "2023-07-17T07:04:52.89433+00:00",
       "NumProgressed": 70684,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-17T08:04:42.4722724+00:00",
+      "NumProgressed": 70692,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -17177,7 +17188,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 4241
+      "UsersEstimate": 4242
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -17257,7 +17268,7 @@
       "Name": "Cold War",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2827
+      "UsersEstimate": 2828
     },
     {
       "ID": "achievement_colonial_management",
@@ -17409,7 +17420,7 @@
       "Name": "Down Under",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "achievement_draculas_revenge",
@@ -17569,7 +17580,7 @@
       "Name": "For the Glory",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3534
+      "UsersEstimate": 3535
     },
     {
       "ID": "achievement_forever_golden",
@@ -17761,7 +17772,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 4241
+      "UsersEstimate": 4242
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -18737,7 +18748,7 @@
       "Name": "Seriously?!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 4241
+      "UsersEstimate": 4242
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -19329,7 +19340,7 @@
       "Name": "True Catholic",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2827
+      "UsersEstimate": 2828
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -19568,21 +19579,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 70684,
+      "Progressed": 70692,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 70684,
+      "Progressed": 70692,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-07-16T20:58:10.680784+00:00",
-  "LastChanged_Achievements": "2023-07-17T07:04:52.8943294+00:00",
+  "LastChanged": "2023-07-17T07:58:07.5211762+00:00",
+  "LastChanged_Achievements": "2023-07-17T08:04:42.4722715+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:17.9711886+00:00",
-  "LastUpdate_Ratings": "2023-07-17T06:58:06.0137455+00:00",
-  "LastUpdate_Achievements": "2023-07-17T07:04:52.8959634+00:00"
+  "LastUpdate_Ratings": "2023-07-17T07:58:07.5211772+00:00",
+  "LastUpdate_Achievements": "2023-07-17T08:04:42.4744794+00:00"
 }

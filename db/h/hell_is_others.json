@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 374,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewPlayers": 85,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -676,9 +676,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 253120,
+  "EOS_Progressed": 253121,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 365,
+  "EOS_NewPlayers": 362,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9556,6 +9556,11 @@
       "Time": "2023-07-17T07:06:40.4163721+00:00",
       "NumProgressed": 253120,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-17T08:06:16.7914761+00:00",
+      "NumProgressed": 253121,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 56,
@@ -9615,7 +9620,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78467
+      "UsersEstimate": 78468
     },
     {
       "ID": "BackHomeNTimes",
@@ -9855,7 +9860,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55686
+      "UsersEstimate": 55687
     },
     {
       "ID": "KillOthers2",
@@ -10014,7 +10019,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 253120,
+      "Progressed": 253121,
       "Completed": 2
     }
   ],
@@ -10022,8 +10027,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-07-16T20:00:06.4098158+00:00",
-  "LastChanged_Achievements": "2023-07-17T07:06:40.4163715+00:00",
+  "LastChanged_Achievements": "2023-07-17T08:06:16.7914756+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:21.1992978+00:00",
-  "LastUpdate_Ratings": "2023-07-17T07:01:46.1264816+00:00",
-  "LastUpdate_Achievements": "2023-07-17T07:06:40.4164817+00:00"
+  "LastUpdate_Ratings": "2023-07-17T08:01:12.6859027+00:00",
+  "LastUpdate_Achievements": "2023-07-17T08:06:16.7915879+00:00"
 }

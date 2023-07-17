@@ -6,27 +6,27 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 89.00% | ~621,834 |
-| Escaped Asphodel | 80.00% | ~558,952 |
-| Arms Collector | 71.00% | ~496,070 |
-| Friends in High Places | 68.00% | ~475,109 |
-| Escaped Elysium | 66.00% | ~461,135 |
+| Escaped Tartarus | 89.00% | ~621,835 |
+| Escaped Asphodel | 80.00% | ~558,953 |
+| Arms Collector | 71.00% | ~496,071 |
+| Friends in High Places | 68.00% | ~475,110 |
+| Escaped Elysium | 66.00% | ~461,136 |
 | Chthonic Colleagues | 63.00% | ~440,175 |
 | Is There No Escape? | 52.00% | ~363,319 |
-| Death Dealer | 45.00% | ~314,410 |
+| Death Dealer | 45.00% | ~314,411 |
 | Skelly Slayer | 42.00% | ~293,450 |
 | Well Stocked | 40.00% | ~279,476 |
-| Back to Work | 38.00% | ~265,502 |
-| Day-or-Night Trader | 37.00% | ~258,515 |
-| Blessed by the Gods | 37.00% | ~258,515 |
-| Urge to Sing | 36.00% | ~251,528 |
-| Blood Bound | 35.00% | ~244,541 |
+| Back to Work | 38.00% | ~265,503 |
+| Day-or-Night Trader | 37.00% | ~258,516 |
+| Blessed by the Gods | 37.00% | ~258,516 |
+| Urge to Sing | 36.00% | ~251,529 |
+| Blood Bound | 35.00% | ~244,542 |
 | Three-Headed Boy | 32.00% | ~223,581 |
 | River Denizens | 28.00% | ~195,633 |
 | Grown Close | 28.00% | ~195,633 |
-| Home Makeover | 27.00% | ~188,646 |
-| Had to Happen | 25.00% | ~174,672 |
-| The Family Secret | 25.00% | ~174,672 |
+| Home Makeover | 27.00% | ~188,647 |
+| Had to Happen | 25.00% | ~174,673 |
+| The Family Secret | 25.00% | ~174,673 |
 | Tools of the Architect | 23.00% | ~160,699 |
 | Master of Arms | 23.00% | ~160,699 |
 | To Charon's Credit | 22.00% | ~153,712 |
@@ -56,7 +56,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~27,948 |
 | Friends Forever | 4.00% | ~27,948 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 698,690 (Ranked 20)  
+Progressed: 698,691 (Ranked 20)  
 Completed: 6,238 (0.89%) (Ranked 105)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 6,238 (0.89%) (Ranked 105)
 | 2023-07-14 | 698,460 | 6,231 |
 | 2023-07-15 | 698,569 | 6,233 |
 | 2023-07-16 | 698,668 | 6,238 |
-| 2023-07-17 | 698,690 | 6,238 |
+| 2023-07-17 | 698,691 | 6,238 |
 ## Awards
 Max (Character Customization): 3,186  (Ranked 89)  
 Sum: 7,706 (Ranked 98)  

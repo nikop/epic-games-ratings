@@ -2,7 +2,7 @@
   "ID": "c7b771d17305491a9962d0c3de75fe8b",
   "Name": "Starsand",
   "ProductSlug": "starsand",
-  "Ranking_Rating": 825,
+  "Ranking_Rating": 808,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 495,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.23,
+  "Rating": 4.25,
   "NumberOfRatings": 29,
   "RatingHistory": [
     {
@@ -163,6 +163,12 @@
       "Rating": 4.23,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-07-17T08:01:18.7121264+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -181,8 +187,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:04.2435884+00:00",
   "FirstSeenRating": "2022-08-09T00:02:49.020419+00:00",
-  "LastChanged": "2023-07-01T04:00:12.0788669+00:00",
+  "LastChanged": "2023-07-17T08:01:18.7121263+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:28.408196+00:00",
-  "LastUpdate_Ratings": "2023-07-17T07:01:52.5469231+00:00",
-  "LastUpdate_Achievements": "2023-07-17T07:04:53.100891+00:00"
+  "LastUpdate_Ratings": "2023-07-17T08:01:18.7121273+00:00",
+  "LastUpdate_Achievements": "2023-07-17T08:04:42.2763259+00:00"
 }

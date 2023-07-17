@@ -5,10 +5,10 @@ Rating: 4.87 (Ranked 24)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Cream of the Crop | 2.00% | ~69 |
 | Who put gears in there? | 2.00% | ~69 |
 | NOW we got a kickass hideout! | 2.00% | ~40 |
 | Start with a bang! | 1.00% | ~35 |
-| Cream of the Crop | 1.00% | ~35 |
 | This will cost you big time | 1.00% | ~35 |
 | The Negotiator | 1.00% | ~35 |
 | Headliner | 1.00% | ~35 |
@@ -36,8 +36,8 @@ Rating: 4.87 (Ranked 24)
 | There's such a thing as TOO helpful | 0.70% | ~24 |
 | Beat-hit mania | 0.60% | ~21 |
 | Call me Turbo Chai | 0.60% | ~12 |
+| Chip-tuned | 0.50% | ~17 |
 | Wanna hear my playlist? | 0.50% | ~17 |
-| Chip-tuned | 0.40% | ~14 |
 | Check out my moves! | 0.40% | ~14 |
 | New bad guys? No problem! | 0.40% | ~8 |
 | I think I deserve some praise, here! | 0.30% | ~10 |

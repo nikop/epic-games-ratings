@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 482,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -325,9 +325,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1692,
+  "EOS_Progressed": 1693,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1320,6 +1320,11 @@
       "Time": "2023-07-16T19:05:00.8409305+00:00",
       "NumProgressed": 1692,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-17T08:04:49.8554287+00:00",
+      "NumProgressed": 1693,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -1371,7 +1376,7 @@
       "Name": "Do Not Pass Go\u2026",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_ELUSIVE_PREY",
@@ -1419,7 +1424,7 @@
       "Name": "Getting the Gang Back Together",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_GHOST_TOWN",
@@ -1483,7 +1488,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -1531,7 +1536,7 @@
       "Name": "Monster Hunter",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_MOONDRUNK",
@@ -1563,7 +1568,7 @@
       "Name": "Off the Trail",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -1627,7 +1632,7 @@
       "Name": "Self-Improvement",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1218
+      "UsersEstimate": 1219
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -1643,7 +1648,7 @@
       "Name": "That\u2019s All, Folks",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "ACH_THERE_IS_HOPE",
@@ -1707,7 +1712,7 @@
       "Name": "Unforgiven",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 1472
+      "UsersEstimate": 1473
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -1715,7 +1720,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -1754,15 +1759,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1692,
+      "Progressed": 1693,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-07-17T07:05:01.3359087+00:00",
+  "LastChanged_Achievements": "2023-07-17T08:04:49.8554282+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:20.4662233+00:00",
-  "LastUpdate_Ratings": "2023-07-17T06:59:27.693001+00:00",
-  "LastUpdate_Achievements": "2023-07-17T07:05:01.3359701+00:00"
+  "LastUpdate_Ratings": "2023-07-17T07:59:16.4019054+00:00",
+  "LastUpdate_Achievements": "2023-07-17T08:04:49.8555189+00:00"
 }

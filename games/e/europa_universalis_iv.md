@@ -10,12 +10,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | That's a Grand Army | 8.00% | ~5,655 |
 | That is mine! | 8.00% | ~5,655 |
 | Victorious! | 8.00% | ~5,655 |
-| Brothers in Arms | 6.00% | ~4,241 |
-| That's a Grand Navy | 6.00% | ~4,241 |
-| Seriously?! | 6.00% | ~4,241 |
-| For the Glory | 5.00% | ~3,534 |
-| Cold War | 4.00% | ~2,827 |
-| True Catholic | 4.00% | ~2,827 |
+| Brothers in Arms | 6.00% | ~4,242 |
+| That's a Grand Navy | 6.00% | ~4,242 |
+| Seriously?! | 6.00% | ~4,242 |
+| For the Glory | 5.00% | ~3,535 |
+| Cold War | 4.00% | ~2,828 |
+| True Catholic | 4.00% | ~2,828 |
 | Defender of the Faith | 3.00% | ~2,121 |
 | It's all about luck | 3.00% | ~2,121 |
 | It's all about the money | 3.00% | ~2,121 |
@@ -43,7 +43,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Isn't this the way to India? | 0.90% | ~636 |
 | Market Control | 0.90% | ~636 |
 | Trustworthy | 0.90% | ~636 |
-| Down Under | 0.80% | ~565 |
+| Down Under | 0.80% | ~566 |
 | Electable! | 0.70% | ~495 |
 | Populists in Government | 0.70% | ~495 |
 | All belongs to Mother Russia | 0.60% | ~424 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 70,684 (Ranked 74)  
+Progressed: 70,692 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -449,15 +449,15 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-14 | 69,707 | 0 |
 | 2023-07-15 | 70,161 | 0 |
 | 2023-07-16 | 70,611 | 0 |
-| 2023-07-17 | 70,684 | 0 |
+| 2023-07-17 | 70,692 | 0 |
 ## Awards
 Max (Educational): 5,546  (Ranked 60)  
-Sum: 45,757 (Ranked 26)  
+Sum: 45,763 (Ranked 26)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,546 |
-| This game is Highly Recommended | 5,307 |
+| This game is Highly Recommended | 5,313 |
 | This game has Challenging Combat | 5,272 |
 | This game is Extremely Fun | 5,260 |
 | This game has Diverse Characters | 5,221 |
@@ -650,3 +650,4 @@ Diff (max vs sum): 34
 | 2023-07-14 | 4.69 | - | 5,541 | 45,702 |
 | 2023-07-15 | 4.69 | - | 5,541 | 45,728 |
 | 2023-07-16 | 4.69 | - | 5,546 | 45,757 |
+| 2023-07-17 | 4.69 | - | 5,546 | 45,763 |

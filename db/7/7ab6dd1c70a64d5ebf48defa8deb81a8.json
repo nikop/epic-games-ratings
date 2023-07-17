@@ -1,9 +1,9 @@
 {
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": null,
-  "Ranking_EOS_Progress": 378,
+  "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": null,
@@ -14,9 +14,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 18,
+  "EOS_Progressed": 19,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -74,6 +74,11 @@
       "Time": "2023-07-12T15:03:08.315834+00:00",
       "NumProgressed": 18,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-17T08:03:37.1832899+00:00",
+      "NumProgressed": 19,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -99,7 +104,7 @@
       "ID": "ACH_03",
       "SetID": "efe2lj",
       "Name": "Powerful Allies",
-      "Percentage": -5.6,
+      "Percentage": -5.3,
       "XP": 15,
       "UsersEstimate": -1
     },
@@ -147,7 +152,7 @@
       "ID": "ACH_09",
       "SetID": "efe2lj",
       "Name": "The Mentor",
-      "Percentage": -5.6,
+      "Percentage": -5.3,
       "XP": 20,
       "UsersEstimate": -1
     },
@@ -187,7 +192,7 @@
       "ID": "ACH_14",
       "SetID": "efe2lj",
       "Name": "Airborne",
-      "Percentage": -5.6,
+      "Percentage": -5.3,
       "XP": 20,
       "UsersEstimate": -1
     },
@@ -235,7 +240,7 @@
       "ID": "ACH_20",
       "SetID": "efe2lj",
       "Name": "Flawless Victory",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -315,7 +320,7 @@
       "ID": "ACH_30",
       "SetID": "efe2lj",
       "Name": "Alchemist",
-      "Percentage": -5.6,
+      "Percentage": -5.3,
       "XP": 15,
       "UsersEstimate": -1
     },
@@ -355,7 +360,7 @@
       "ID": "ACH_36",
       "SetID": "efe2lj",
       "Name": "A Queen\u0027s Tale",
-      "Percentage": -5.6,
+      "Percentage": -5.3,
       "XP": 15,
       "UsersEstimate": -1
     },
@@ -372,12 +377,12 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 18,
+      "Progressed": 19,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-07-17T07:03:27.4131852+00:00",
-  "LastUpdate_Ratings": "2023-07-17T06:57:25.8191999+00:00",
-  "LastUpdate_Achievements": "2023-07-17T07:03:27.4132312+00:00"
+  "LastChanged_Achievements": "2023-07-17T08:03:37.1832893+00:00",
+  "LastUpdate_Ratings": "2023-07-17T07:57:32.9293158+00:00",
+  "LastUpdate_Achievements": "2023-07-17T08:03:37.1833172+00:00"
 }

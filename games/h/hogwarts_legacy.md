@@ -6,8 +6,8 @@ Rating: 4.77 (Ranked 109)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 12.00% | ~34,539 |
-| First Class Student | 10.00% | ~28,782 |
-| Troll with the Punches | 10.00% | ~28,782 |
+| First Class Student | 10.00% | ~28,783 |
+| Troll with the Punches | 10.00% | ~28,783 |
 | A Keen Sense of Spell | 9.00% | ~25,904 |
 | A Talent for Spending | 9.00% | ~25,904 |
 | That's a Keeper | 9.00% | ~25,904 |
@@ -22,10 +22,10 @@ Rating: 4.77 (Ranked 109)
 | Followed the Butterflies | 7.00% | ~20,148 |
 | The Spell Master | 7.00% | ~20,148 |
 | Rising From the Ashes | 7.00% | ~20,148 |
-| The Avenging Gazelle | 6.00% | ~17,269 |
-| Beast Friends | 6.00% | ~17,269 |
-| A Sallow Grave | 6.00% | ~17,269 |
-| Flight the Good Flight | 6.00% | ~17,269 |
+| The Avenging Gazelle | 6.00% | ~17,270 |
+| Beast Friends | 6.00% | ~17,270 |
+| A Sallow Grave | 6.00% | ~17,270 |
+| Flight the Good Flight | 6.00% | ~17,270 |
 | The Seeker of Knowledge | 5.00% | ~14,391 |
 | The Root of the Problem | 5.00% | ~14,391 |
 | Third Time's a Charm | 5.00% | ~14,391 |
@@ -37,11 +37,11 @@ Rating: 4.77 (Ranked 109)
 | The Intrepid Explorer | 3.00% | ~8,635 |
 | The Gryffindor in the Graveyard | 3.00% | ~8,635 |
 | The Wise Owl | 3.00% | ~8,635 |
-| The Good Samaritan | 2.00% | ~5,756 |
-| Put Down Roots | 2.00% | ~5,756 |
-| The Auror's Apprentice | 2.00% | ~5,756 |
-| Floo Around the World | 2.00% | ~5,756 |
-| Rise to the Challenges | 2.00% | ~5,756 |
+| The Good Samaritan | 2.00% | ~5,757 |
+| Put Down Roots | 2.00% | ~5,757 |
+| The Auror's Apprentice | 2.00% | ~5,757 |
+| Floo Around the World | 2.00% | ~5,757 |
+| Rise to the Challenges | 2.00% | ~5,757 |
 | Savvy Spender | 1.00% | ~2,878 |
 | Demiguise Dread | 1.00% | ~2,878 |
 | Finishing Touches | 1.00% | ~2,878 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.50% | ~1,439 |
 | Collector's Edition | 0.20% | ~576 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 287,824 (Ranked 41)  
+Progressed: 287,827 (Ranked 41)  
 Completed: 429 (0.15%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 429 (0.15%) (Ranked 173)
 | 2023-07-14 | 287,497 | 426 |
 | 2023-07-15 | 287,613 | 428 |
 | 2023-07-16 | 287,788 | 429 |
-| 2023-07-17 | 287,824 | 429 |
+| 2023-07-17 | 287,827 | 429 |
 ## Awards
 Max (Character Customization): 21,042  (Ranked 17)  
 Sum: 39,362 (Ranked 30)  

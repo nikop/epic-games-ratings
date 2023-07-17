@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 173,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -1839,9 +1839,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43066,
+  "EOS_Progressed": 43067,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5089,6 +5089,11 @@
       "Time": "2023-07-17T00:03:21.1503413+00:00",
       "NumProgressed": 43066,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-07-17T08:04:12.4966698+00:00",
+      "NumProgressed": 43067,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -5100,7 +5105,7 @@
       "Name": "Groovy",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 26270
+      "UsersEstimate": 26271
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -5156,7 +5161,7 @@
       "Name": "Is it over?",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 12058
+      "UsersEstimate": 12059
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_ON_HARD",
@@ -5292,7 +5297,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26701
+      "UsersEstimate": 26702
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -5308,7 +5313,7 @@
       "Name": "All roads lead to Rome",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 14642
+      "UsersEstimate": 14643
     },
     {
       "ID": "SE_COMPLETE_SARDINIA",
@@ -5324,7 +5329,7 @@
       "Name": "He did Nazi that coming",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 13350
+      "UsersEstimate": 13351
     },
     {
       "ID": "SE_COMPLETE_TERMINAL_ERROR",
@@ -5348,7 +5353,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21102
+      "UsersEstimate": 21103
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -5364,7 +5369,7 @@
       "Name": "Kill of the week",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13350
+      "UsersEstimate": 13351
     },
     {
       "ID": "SE_ELECTROCUTE_X_ZOMBIES_WITH_ONE_SPECIAL_MELEE",
@@ -5388,7 +5393,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 15934
+      "UsersEstimate": 15935
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -5404,7 +5409,7 @@
       "Name": "Gold",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 21533
+      "UsersEstimate": 21534
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -5452,7 +5457,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 19810
+      "UsersEstimate": 19811
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -5540,7 +5545,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 14642
+      "UsersEstimate": 14643
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -5556,7 +5561,7 @@
       "Name": "Blood splattered",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27993
+      "UsersEstimate": 27994
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -5627,15 +5632,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43066,
+      "Progressed": 43067,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-07-16T08:01:21.243146+00:00",
-  "LastChanged_Achievements": "2023-07-17T07:04:18.6600747+00:00",
+  "LastChanged_Achievements": "2023-07-17T08:04:12.4966693+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:54.9014317+00:00",
-  "LastUpdate_Ratings": "2023-07-17T07:01:13.1346767+00:00",
-  "LastUpdate_Achievements": "2023-07-17T07:04:18.6602147+00:00"
+  "LastUpdate_Ratings": "2023-07-17T08:00:45.844301+00:00",
+  "LastUpdate_Achievements": "2023-07-17T08:04:12.4967778+00:00"
 }

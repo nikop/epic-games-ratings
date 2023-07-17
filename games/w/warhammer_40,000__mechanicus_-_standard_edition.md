@@ -19,11 +19,11 @@ Rating: 4.43 (Ranked 655)
 | One with the Machine | 4.00% | ~8,697 |
 | Legio Cybernetica | 3.00% | ~6,523 |
 | Fleshy Disposal | 3.00% | ~6,523 |
-| Battle Servitor | 2.00% | ~4,348 |
-| Ding Dong Szaregon's Gone | 2.00% | ~4,348 |
-| Impatient destruction | 2.00% | ~4,348 |
-| Vivisected Vizier | 2.00% | ~4,348 |
-| Architect Abortion | 2.00% | ~4,348 |
+| Battle Servitor | 2.00% | ~4,349 |
+| Ding Dong Szaregon's Gone | 2.00% | ~4,349 |
+| Impatient destruction | 2.00% | ~4,349 |
+| Vivisected Vizier | 2.00% | ~4,349 |
+| Architect Abortion | 2.00% | ~4,349 |
 | Cohortus Maximus | 0.80% | ~1,739 |
 | Mother of Xenarites | 0.40% | ~870 |
 | False God | 0.30% | ~652 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 655)
 | Perma-live | 0.10% | ~217 |
 | Purge the Heretek | 0.10% | ~217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,425 (Ranked 52)  
+Progressed: 217,426 (Ranked 52)  
 Completed: 4 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 4 (0.00%) (Ranked 236)
 | 2023-07-14 | 217,194 | 4 |
 | 2023-07-15 | 217,300 | 4 |
 | 2023-07-16 | 217,406 | 4 |
-| 2023-07-17 | 217,425 | 4 |
+| 2023-07-17 | 217,426 | 4 |
 ## Awards
 Max (Highly Recommended): 280  (Ranked 237)  
 Sum: 2,121 (Ranked 191)  

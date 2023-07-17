@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -1723,9 +1723,9 @@
       "ID": "CultivairChests1",
       "SetID": "a9e499d",
       "Name": "Cultivair Explorer",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 53
     },
     {
       "ID": "EntresolChests1",
@@ -2074,8 +2074,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-17T07:02:34.6288855+00:00",
+  "LastChanged_Achievements": "2023-07-17T08:03:18.1553547+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:20.5747926+00:00",
-  "LastUpdate_Ratings": "2023-07-17T07:00:36.322887+00:00",
-  "LastUpdate_Achievements": "2023-07-17T07:02:34.6289804+00:00"
+  "LastUpdate_Ratings": "2023-07-17T08:00:14.7386043+00:00",
+  "LastUpdate_Achievements": "2023-07-17T08:03:18.1554182+00:00"
 }

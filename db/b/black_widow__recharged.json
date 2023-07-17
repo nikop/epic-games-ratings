@@ -146,9 +146,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16330,
+  "EOS_Progressed": 16332,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 204,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -7426,6 +7426,11 @@
       "Time": "2023-07-17T06:06:10.2053897+00:00",
       "NumProgressed": 16330,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-07-17T08:07:21.3278601+00:00",
+      "NumProgressed": 16332,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 14,
@@ -7437,7 +7442,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 12901
+      "UsersEstimate": 12902
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -7461,7 +7466,7 @@
       "Name": "Danger Ahead",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 4572
+      "UsersEstimate": 4573
     },
     {
       "ID": "ACH_DONT_BRING_ME_DOWN",
@@ -7493,7 +7498,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 8655
+      "UsersEstimate": 8656
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -7517,7 +7522,7 @@
       "Name": "Look at Me Now",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 4572
+      "UsersEstimate": 4573
     },
     {
       "ID": "ACH_THE_FALL",
@@ -7525,7 +7530,7 @@
       "Name": "The Fall",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 2939
+      "UsersEstimate": 2940
     },
     {
       "ID": "ACH_TIME_OF_OUR_LIFE",
@@ -7548,15 +7553,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 16330,
+      "Progressed": 16332,
       "Completed": 50
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-05-31T22:01:00.0124016+00:00",
-  "LastChanged_Achievements": "2023-07-17T07:07:55.609161+00:00",
+  "LastChanged_Achievements": "2023-07-17T08:07:21.3278597+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:24.7695295+00:00",
-  "LastUpdate_Ratings": "2023-07-17T07:01:49.212484+00:00",
-  "LastUpdate_Achievements": "2023-07-17T07:07:55.6092151+00:00"
+  "LastUpdate_Ratings": "2023-07-17T08:01:14.9552886+00:00",
+  "LastUpdate_Achievements": "2023-07-17T08:07:21.3279197+00:00"
 }
