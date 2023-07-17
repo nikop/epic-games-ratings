@@ -54,7 +54,7 @@
 | 52 | [Bunny Park](games/b/bunny_park.md) | 3.41% |
 | 53 | [Monster Harvest](games/m/monster_harvest.md) | 3.38% |
 | 54 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.34% |
-| 55 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.33% |
+| 55 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.23% |
 | 56 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.08% |
 | 57 | [The Complex](games/t/the_complex.md) | 3.07% |
 | 58 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.02% |
@@ -66,7 +66,7 @@
 | 64 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 65 | [Lamentum](games/l/lamentum.md) | 2.67% |
 | 66 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
-| 67 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.56% |
+| 67 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.55% |
 | 68 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.52% |
 | 69 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 70 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
