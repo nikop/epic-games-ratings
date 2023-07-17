@@ -278,9 +278,9 @@
       "Count": 185
     }
   ],
-  "EOS_Progressed": 425549,
+  "EOS_Progressed": 425554,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 1809,
+  "EOS_NewPlayers": 1804,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9838,6 +9838,11 @@
       "Time": "2023-07-17T22:03:11.151981+00:00",
       "NumProgressed": 425549,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-07-17T23:03:38.4171206+00:00",
+      "NumProgressed": 425554,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 52,
@@ -9857,7 +9862,7 @@
       "Name": "100 KILLS",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 59577
+      "UsersEstimate": 59578
     },
     {
       "ID": "200_HEADSHOTS HEADSHOTS (0-200)",
@@ -9873,7 +9878,7 @@
       "Name": "50 HEADSHOTS",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 55321
+      "UsersEstimate": 55322
     },
     {
       "ID": "BIGUPS",
@@ -9921,7 +9926,7 @@
       "Name": "FINISHED CHAPTER 2",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 29788
+      "UsersEstimate": 29789
     },
     {
       "ID": "CHAPTER3",
@@ -9945,7 +9950,7 @@
       "Name": "FINISH CHAPTER 5",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 21277
+      "UsersEstimate": 21278
     },
     {
       "ID": "CHAPTER6",
@@ -9977,7 +9982,7 @@
       "Name": "CATHARTIC ESCAPISM",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 21277
+      "UsersEstimate": 21278
     },
     {
       "ID": "FIREFIGHT10 LEVEL (0-10)",
@@ -10264,7 +10269,7 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 425549,
+      "Progressed": 425554,
       "Completed": 38
     }
   ],
@@ -10272,8 +10277,8 @@
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "LastChanged": "2023-07-04T08:00:18.0682194+00:00",
-  "LastChanged_Achievements": "2023-07-17T22:03:11.1519806+00:00",
+  "LastChanged_Achievements": "2023-07-17T23:03:38.4171201+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:28.1107898+00:00",
-  "LastUpdate_Ratings": "2023-07-17T21:59:34.5709565+00:00",
-  "LastUpdate_Achievements": "2023-07-17T22:03:11.1520631+00:00"
+  "LastUpdate_Ratings": "2023-07-17T23:00:51.2739946+00:00",
+  "LastUpdate_Achievements": "2023-07-17T23:03:38.4172213+00:00"
 }

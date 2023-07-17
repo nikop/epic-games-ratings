@@ -2497,9 +2497,9 @@
       "Count": 730
     }
   ],
-  "EOS_Progressed": 232655,
+  "EOS_Progressed": 232656,
   "EOS_Completed": 246,
-  "EOS_NewPlayers": 398,
+  "EOS_NewPlayers": 397,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11312,6 +11312,11 @@
       "Time": "2023-07-17T22:03:45.0038762+00:00",
       "NumProgressed": 232655,
       "NumCompleted": 246
+    },
+    {
+      "Time": "2023-07-17T23:04:35.3718326+00:00",
+      "NumProgressed": 232656,
+      "NumCompleted": 246
     }
   ],
   "TotalAchievements": 122,
@@ -11355,7 +11360,7 @@
       "Name": "First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 223349
+      "UsersEstimate": 223350
     },
     {
       "ID": "CURSE1HP",
@@ -11371,7 +11376,7 @@
       "Name": "Consecutive Curses",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 60490
+      "UsersEstimate": 60491
     },
     {
       "ID": "DAILY7",
@@ -11387,7 +11392,7 @@
       "Name": "Shadow Spreads",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 39551
+      "UsersEstimate": 39552
     },
     {
       "ID": "DARKENDINGMEDIUM",
@@ -11403,7 +11408,7 @@
       "Name": "Heavy Hitter",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 123307
+      "UsersEstimate": 123308
     },
     {
       "ID": "DEAL99DAMAGE",
@@ -11419,7 +11424,7 @@
       "Name": "Delving Deeper",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 97715
+      "UsersEstimate": 97716
     },
     {
       "ID": "DEPTH12HARD",
@@ -11443,7 +11448,7 @@
       "Name": "Getting A Glimpse",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 169838
+      "UsersEstimate": 169839
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -11595,7 +11600,7 @@
       "Name": "I Am Overburdened",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 81429
+      "UsersEstimate": 81430
     },
     {
       "ID": "FULLYPRESTIGESPOON",
@@ -11731,7 +11736,7 @@
       "Name": "Destroy Your Fears",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 60490
+      "UsersEstimate": 60491
     },
     {
       "ID": "KILL10000",
@@ -11779,7 +11784,7 @@
       "Name": "Don\u0027t Ignore Me!",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 39551
+      "UsersEstimate": 39552
     },
     {
       "ID": "KILLBOSSHARD",
@@ -11819,7 +11824,7 @@
       "Name": "Heartless",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 107021
+      "UsersEstimate": 107022
     },
     {
       "ID": "KILLPARANOIA",
@@ -11835,7 +11840,7 @@
       "Name": "Stop Hitting Yourself",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 44204
+      "UsersEstimate": 44205
     },
     {
       "ID": "KILLSAMSPAREOTHERS",
@@ -11851,7 +11856,7 @@
       "Name": "Spine Breaker",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 107021
+      "UsersEstimate": 107022
     },
     {
       "ID": "KILLSPITTER",
@@ -11875,7 +11880,7 @@
       "Name": "Illuminate, Eliminate",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 39551
+      "UsersEstimate": 39552
     },
     {
       "ID": "LIGHTENDINGHARD",
@@ -11979,7 +11984,7 @@
       "Name": "Stone Touch",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 65143
+      "UsersEstimate": 65144
     },
     {
       "ID": "PLAY10HOURS",
@@ -12067,7 +12072,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 207063
+      "UsersEstimate": 207064
     },
     {
       "ID": "SPECIALROOMS10",
@@ -12075,7 +12080,7 @@
       "Name": "Explorer",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 144246
+      "UsersEstimate": 144247
     },
     {
       "ID": "SPEEDRUN10",
@@ -12298,7 +12303,7 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 232655,
+      "Progressed": 232656,
       "Completed": 246
     }
   ],
@@ -12306,8 +12311,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-07-16T22:59:50.9386584+00:00",
-  "LastChanged_Achievements": "2023-07-17T22:03:45.0038758+00:00",
+  "LastChanged_Achievements": "2023-07-17T23:04:35.3718321+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:29.2883876+00:00",
-  "LastUpdate_Ratings": "2023-07-17T21:59:35.3386877+00:00",
-  "LastUpdate_Achievements": "2023-07-17T22:03:45.0040603+00:00"
+  "LastUpdate_Ratings": "2023-07-17T23:00:52.0733013+00:00",
+  "LastUpdate_Achievements": "2023-07-17T23:04:35.3720628+00:00"
 }

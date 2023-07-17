@@ -11,15 +11,15 @@ Rating: 4.64 (Ranked 313)
 | Tomorrow Never Dyes | 46.00% | ~3,398 |
 | Never Say Loser Again | 40.00% | ~2,955 |
 | For your Eyes only | 38.00% | ~2,807 |
-| From the Vault with Love | 37.00% | ~2,733 |
-| Tailor-Made | 37.00% | ~2,733 |
+| From the Vault with Love | 37.00% | ~2,734 |
+| Tailor-Made | 37.00% | ~2,734 |
 | Fully Decked Out | 34.00% | ~2,512 |
 | You Only Live Twice | 33.00% | ~2,438 |
-| A view to Win | 27.00% | ~1,994 |
+| A view to Win | 27.00% | ~1,995 |
+| Private Collection | 25.00% | ~1,847 |
 | Smells Like Trouble | 25.00% | ~1,847 |
 | Assistant Accountant | 24.00% | ~1,773 |
 | The Living Portrait | 24.00% | ~1,773 |
-| Private Collection | 24.00% | ~1,773 |
 | Killer Looks | 24.00% | ~1,773 |
 | Hostile Takeover | 24.00% | ~1,773 |
 | Keycards Royale | 23.00% | ~1,699 |
@@ -31,8 +31,8 @@ Rating: 4.64 (Ranked 313)
 | Social of Solace | 8.00% | ~591 |
 | Safe Withdrawal | 6.00% | ~443 |
 | Live and let lie | 5.00% | ~369 |
-| Call Me Maybe | 4.00% | ~295 |
-| PHD in VIP | 4.00% | ~295 |
+| Call Me Maybe | 4.00% | ~296 |
+| PHD in VIP | 4.00% | ~296 |
 | Branch Manager | 3.00% | ~222 |
 | The terminals are not enough | 2.00% | ~148 |
 | Lose Another Day | 2.00% | ~148 |
@@ -42,7 +42,7 @@ Rating: 4.64 (Ranked 313)
 | Extraction Confusion | 0.30% | ~22 |
 | Spyfall | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,387 (Ranked 126)  
+Progressed: 7,388 (Ranked 126)  
 Completed: 1 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 1 (0.01%) (Ranked 223)
 | 2023-07-14 | 7,336 | 1 |
 | 2023-07-15 | 7,358 | 1 |
 | 2023-07-16 | 7,370 | 1 |
-| 2023-07-17 | 7,387 | 1 |
+| 2023-07-17 | 7,388 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

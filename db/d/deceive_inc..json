@@ -172,9 +172,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7387,
+  "EOS_Progressed": 7388,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5907,6 +5907,11 @@
       "Time": "2023-07-17T21:02:16.625224+00:00",
       "NumProgressed": 7387,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-17T23:02:16.8435165+00:00",
+      "NumProgressed": 7388,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -5974,7 +5979,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 2733
+      "UsersEstimate": 2734
     },
     {
       "ID": "0009",
@@ -6078,7 +6083,7 @@
       "Name": "Call Me Maybe",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "0022",
@@ -6086,7 +6091,7 @@
       "Name": "PHD in VIP",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "0023",
@@ -6110,7 +6115,7 @@
       "Name": "Tailor-Made",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 2733
+      "UsersEstimate": 2734
     },
     {
       "ID": "0026",
@@ -6142,7 +6147,7 @@
       "Name": "A view to Win",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1994
+      "UsersEstimate": 1995
     },
     {
       "ID": "0030",
@@ -6156,9 +6161,9 @@
       "ID": "0031",
       "SetID": "2n2feee",
       "Name": "Private Collection",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1773
+      "UsersEstimate": 1847
     },
     {
       "ID": "0032",
@@ -6205,7 +6210,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 7387,
+      "Progressed": 7388,
       "Completed": 1
     }
   ],
@@ -6213,8 +6218,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-06-24T11:00:56.980815+00:00",
-  "LastChanged_Achievements": "2023-07-17T21:02:16.6252234+00:00",
+  "LastChanged_Achievements": "2023-07-17T23:02:16.8435155+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:40.2743278+00:00",
-  "LastUpdate_Ratings": "2023-07-17T21:59:46.3673339+00:00",
-  "LastUpdate_Achievements": "2023-07-17T21:02:16.6252896+00:00"
+  "LastUpdate_Ratings": "2023-07-17T23:01:06.4536213+00:00",
+  "LastUpdate_Achievements": "2023-07-17T23:02:16.8436716+00:00"
 }

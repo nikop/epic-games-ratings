@@ -48,12 +48,12 @@ Rating: 4.56 (Ranked 456)
 | Space Greenhouse | 1.00% | ~28 |
 | Tiqqun Unchained | 1.00% | ~28 |
 | Scientifically Accurate | 1.00% | ~28 |
-| You Had One Job... | 0.90% | ~25 |
-| Gregor Spinoza | 0.90% | ~25 |
+| You Had One Job... | 0.90% | ~26 |
+| Gregor Spinoza | 0.90% | ~26 |
 | Better Him Than Me | 0.70% | ~20 |
 | Remember the Dead | 0.60% | ~17 |
 | Work Harder | 0.40% | ~11 |
-| Soylent Green | 0.30% | ~8 |
+| Soylent Green | 0.30% | ~9 |
 | Crunch Culture | 0.20% | ~6 |
 | Suburban Perfection | 0.10% | ~3 |
 | A Junker's Dream | 0.10% | ~3 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 456)
 | This is Fine | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,833 (Ranked 155)  
+Progressed: 2,834 (Ranked 155)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-14 | 2,817 | 0 |
 | 2023-07-15 | 2,824 | 0 |
 | 2023-07-16 | 2,829 | 0 |
-| 2023-07-17 | 2,833 | 0 |
+| 2023-07-17 | 2,834 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,7 +2,7 @@
   "ID": "fa9a00f7f82846b4b820e6152b69aa55",
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
-  "Ranking_EOS_Progress": 216,
+  "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 75,
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 476,
+  "EOS_Progressed": 477,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1661,6 +1661,11 @@
       "Time": "2023-07-17T22:05:14.0859591+00:00",
       "NumProgressed": 476,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-17T23:06:25.3813835+00:00",
+      "NumProgressed": 477,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1838,9 +1843,9 @@
       "ID": "objective_key_alliance_help_2",
       "SetID": "bm61c2p",
       "Name": "Brothers in Arms",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 29
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -1926,9 +1931,9 @@
       "ID": "objective_multiple_turrets_2",
       "SetID": "bm61c2p",
       "Name": "Defenses Online",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -1975,14 +1980,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 476,
+      "Progressed": 477,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-17T22:05:14.0859586+00:00",
+  "LastChanged_Achievements": "2023-07-17T23:06:25.3813829+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:28.9258865+00:00",
-  "LastUpdate_Ratings": "2023-07-17T22:00:27.4594538+00:00",
-  "LastUpdate_Achievements": "2023-07-17T22:05:14.0859902+00:00"
+  "LastUpdate_Ratings": "2023-07-17T23:02:02.7495481+00:00",
+  "LastUpdate_Achievements": "2023-07-17T23:06:25.3814384+00:00"
 }

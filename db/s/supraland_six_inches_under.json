@@ -1711,9 +1711,9 @@
       "ID": "TownArena",
       "SetID": "5lok9mm",
       "Name": "Killed them all",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1639
+      "UsersEstimate": 1660
     },
     {
       "ID": "TransShotForce",
@@ -1759,8 +1759,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-05-31T02:21:41.8483735+00:00",
-  "LastChanged_Achievements": "2023-07-17T22:00:40.4762276+00:00",
+  "LastChanged_Achievements": "2023-07-17T23:02:23.868908+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:03.4656183+00:00",
-  "LastUpdate_Ratings": "2023-07-17T22:00:04.9870755+00:00",
-  "LastUpdate_Achievements": "2023-07-17T22:00:40.4762709+00:00"
+  "LastUpdate_Ratings": "2023-07-17T23:01:30.766984+00:00",
+  "LastUpdate_Achievements": "2023-07-17T23:02:23.8689645+00:00"
 }

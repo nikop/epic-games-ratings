@@ -6,8 +6,8 @@ Number of Ratings: 177  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Friend in Need... | 3.00% | ~172 |
-| Smooth Operator: Madison | 3.00% | ~172 |
+| A Friend in Need... | 3.00% | ~173 |
+| Smooth Operator: Madison | 3.00% | ~173 |
 | Caught in the Act | 2.00% | ~115 |
 | Katherine | 2.00% | ~115 |
 | If at First You Don't Succeed... | 2.00% | ~115 |
@@ -18,8 +18,8 @@ Number of Ratings: 177  (23.09.2022)
 | Drunk and Disorderly: Ashley | 0.70% | ~40 |
 | IRL Let's Player | 0.70% | ~40 |
 | Newcomer: Vickie | 0.70% | ~40 |
-| Inspector | 0.60% | ~34 |
-| Social Butterfly | 0.60% | ~34 |
+| Inspector | 0.60% | ~35 |
+| Social Butterfly | 0.60% | ~35 |
 | Amy | 0.50% | ~29 |
 | It Smells Like Roses | 0.50% | ~14 |
 | Smooth Operator: Ashley | 0.50% | ~29 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | Sucker Punch | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,750 (Ranked 133)  
+Progressed: 5,751 (Ranked 133)  
 Completed: 3 (0.05%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 3 (0.05%) (Ranked 201)
 | 2023-07-14 | 5,737 | 3 |
 | 2023-07-15 | 5,743 | 3 |
 | 2023-07-16 | 5,744 | 3 |
-| 2023-07-17 | 5,750 | 3 |
+| 2023-07-17 | 5,751 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

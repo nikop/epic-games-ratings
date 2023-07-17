@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3064,
+  "EOS_Progressed": 3065,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -2484,6 +2484,11 @@
       "Time": "2023-07-16T20:03:18.2033083+00:00",
       "NumProgressed": 3064,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-17T23:03:49.3174377+00:00",
+      "NumProgressed": 3065,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 33,
@@ -2503,7 +2508,7 @@
       "Name": "Sniped",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "bonus3",
@@ -2543,7 +2548,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2727
+      "UsersEstimate": 2728
     },
     {
       "ID": "campaign10",
@@ -2551,7 +2556,7 @@
       "Name": "Leave Them no Cake",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "campaign11",
@@ -2567,7 +2572,7 @@
       "Name": "Would be a Shame if Someone Would Waste Those Units",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "campaign13",
@@ -2655,7 +2660,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 1440
+      "UsersEstimate": 1441
     },
     {
       "ID": "campaign5",
@@ -2703,7 +2708,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     },
     {
       "ID": "scenario2",
@@ -2758,7 +2763,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3064,
+      "Progressed": 3065,
       "Completed": 10
     }
   ],
@@ -2766,8 +2771,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-07-17T22:03:19.0416496+00:00",
+  "LastChanged_Achievements": "2023-07-17T23:03:49.3174371+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:16.8344753+00:00",
-  "LastUpdate_Ratings": "2023-07-17T22:00:14.6537832+00:00",
-  "LastUpdate_Achievements": "2023-07-17T22:03:19.0416851+00:00"
+  "LastUpdate_Ratings": "2023-07-17T23:01:47.1204022+00:00",
+  "LastUpdate_Achievements": "2023-07-17T23:03:49.3174918+00:00"
 }
