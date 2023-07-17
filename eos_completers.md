@@ -10,7 +10,7 @@
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
-| 11 | [Island Cities](games/i/island_cities.md) | 18.59% |
+| 11 | [Island Cities](games/i/island_cities.md) | 18.54% |
 | 12 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 15.38% |
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
 | 14 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 13.68% |
@@ -25,7 +25,7 @@
 | 23 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 9.52% |
 | 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.67% |
 | 25 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
-| 26 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.33% |
+| 26 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.26% |
 | 27 | [Smelter](games/s/smelter.md) | 8.11% |
 | 28 | [Ravenlok](games/r/ravenlok.md) | 7.44% |
 | 29 | [Time Loader](games/t/time_loader.md) | 7.14% |
@@ -36,7 +36,7 @@
 | 34 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 35 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.69% |
 | 36 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
-| 37 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.04% |
+| 37 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.03% |
 | 38 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.00% |
 | 39 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.91% |
 | 40 | [JARS](games/j/jars.md) | 4.84% |
@@ -48,8 +48,8 @@
 | 46 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.75% |
 | 47 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.65% |
 | 48 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
-| 49 | [Doodle God](games/d/doodle_god.md) | 3.56% |
 | 49 | [ZZT!](games/z/zzt!.md) | 3.56% |
+| 50 | [Doodle God](games/d/doodle_god.md) | 3.54% |
 | 51 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.52% |
 | 52 | [Bunny Park](games/b/bunny_park.md) | 3.41% |
 | 53 | [Monster Harvest](games/m/monster_harvest.md) | 3.38% |
@@ -74,13 +74,13 @@
 | 72 | [Bloodshore](games/b/bloodshore.md) | 2.27% |
 | 73 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.15% |
 | 74 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.13% |
-| 75 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.10% |
+| 75 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.09% |
 | 76 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.08% |
 | 77 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
 | 78 | [Frogun](games/f/frogun.md) | 1.91% |
 | 79 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 80 | [Sifu](games/s/sifu.md) | 1.80% |
-| 81 | [Iron Danger](games/i/iron_danger.md) | 1.79% |
+| 81 | [Iron Danger](games/i/iron_danger.md) | 1.78% |
 | 82 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.75% |
 | 83 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.63% |
 | 84 | [Somerville](games/s/somerville.md) | 1.56% |
@@ -493,4 +493,4 @@
 | 236 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 236 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 236 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,909 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
+| 2,910 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |

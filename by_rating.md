@@ -94,7 +94,7 @@
 | 90 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 159 | 290 |
 | 90 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 505 |
 | 90 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.79 | 0 | 505 |
-| 90 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 717 | 161 |
+| 90 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 721 | 161 |
 | 90 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,924 | 56 |
 | 90 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 380 | 214 |
 | 90 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 119 | 313 |
@@ -108,7 +108,7 @@
 | 99 | [Sailing Era](games/s/sailing_era.md) | 4.78 | 0 | 505 |
 | 99 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 924 | 147 |
 | 99 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 505 |
-| 109 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 3,658 | 81 |
+| 109 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 3,667 | 81 |
 | 109 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 6,305 | 52 |
 | 109 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 21,042 | 17 |
 | 109 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 0 | 505 |
@@ -753,7 +753,7 @@
 | 750 | [Backbone](games/b/backbone.md) | 4.34 | 0 | 505 |
 | 750 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.34 | 0 | 505 |
 | 750 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 0 | 505 |
-| 750 | [Paladins](games/p/paladins.md) | 4.34 | 3,403 | 85 |
+| 750 | [Paladins](games/p/paladins.md) | 4.34 | 3,405 | 85 |
 | 750 | [Parkitect](games/p/parkitect.md) | 4.34 | 0 | 505 |
 | 750 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 246 | 247 |
 | 757 | [Ashen](games/a/ashen.md) | 4.33 | 0 | 505 |
@@ -926,10 +926,10 @@
 | 923 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.97 | 0 | 505 |
 | 925 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 409 |
 | 926 | [Ironcast](games/i/ironcast.md) | 3.94 | 0 | 505 |
+| 926 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 3.94 | 0 | 505 |
 | 926 | [Patron](games/p/patron.md) | 3.94 | 0 | 505 |
-| 928 | [Conarium](games/c/conarium.md) | 3.93 | 0 | 505 |
-| 928 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 366 | 219 |
-| 928 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 3.93 | 0 | 505 |
+| 929 | [Conarium](games/c/conarium.md) | 3.93 | 0 | 505 |
+| 929 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 366 | 219 |
 | 931 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 29 | 459 |
 | 932 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 23 | 481 |
 | 932 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 327 |
