@@ -23,7 +23,7 @@
 | 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.20% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 23 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 9.52% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.65% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.70% |
 | 25 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
 | 26 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.20% |
 | 27 | [Smelter](games/s/smelter.md) | 8.11% |
@@ -44,16 +44,16 @@
 | 42 | [Without Escape](games/w/without_escape.md) | 4.55% |
 | 43 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.53% |
 | 44 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.29% |
-| 45 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.87% |
+| 45 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.86% |
 | 46 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.75% |
 | 47 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.65% |
 | 48 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
-| 49 | [ZZT!](games/z/zzt!.md) | 3.56% |
+| 49 | [ZZT!](games/z/zzt!.md) | 3.55% |
 | 50 | [Doodle God](games/d/doodle_god.md) | 3.54% |
 | 51 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.52% |
 | 52 | [Bunny Park](games/b/bunny_park.md) | 3.41% |
+| 53 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.38% |
 | 53 | [Monster Harvest](games/m/monster_harvest.md) | 3.38% |
-| 54 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.34% |
 | 55 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.23% |
 | 56 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.08% |
 | 57 | [The Complex](games/t/the_complex.md) | 3.07% |
@@ -74,7 +74,7 @@
 | 72 | [Bloodshore](games/b/bloodshore.md) | 2.27% |
 | 73 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.15% |
 | 74 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.13% |
-| 75 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.09% |
+| 75 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.10% |
 | 76 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.08% |
 | 77 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
 | 78 | [Frogun](games/f/frogun.md) | 1.91% |
