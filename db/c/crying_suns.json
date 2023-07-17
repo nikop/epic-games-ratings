@@ -562,9 +562,9 @@
       "Count": 214
     }
   ],
-  "EOS_Progressed": 463165,
+  "EOS_Progressed": 463167,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 484,
+  "EOS_NewPlayers": 480,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9562,6 +9562,11 @@
       "Time": "2023-07-17T10:08:18.4282548+00:00",
       "NumProgressed": 463165,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-07-17T12:06:50.0363161+00:00",
+      "NumProgressed": 463167,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 79,
@@ -9589,7 +9594,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1389
+      "UsersEstimate": 1390
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -9597,7 +9602,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1389
+      "UsersEstimate": 1390
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -9693,7 +9698,7 @@
       "Name": "Mother",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1389
+      "UsersEstimate": 1390
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -10005,7 +10010,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1389
+      "UsersEstimate": 1390
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -10021,7 +10026,7 @@
       "Name": "Plan for the worst",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1389
+      "UsersEstimate": 1390
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -10085,7 +10090,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1389
+      "UsersEstimate": 1390
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -10204,21 +10209,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 7099,
+      "Progressed": 7101,
       "Completed": 2352
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 463165,
+      "Progressed": 463167,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-07-02T08:59:13.8125338+00:00",
-  "LastChanged_Achievements": "2023-07-17T11:06:39.5229152+00:00",
+  "LastChanged_Achievements": "2023-07-17T12:06:50.0363156+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:14.1891712+00:00",
-  "LastUpdate_Ratings": "2023-07-17T10:59:38.807462+00:00",
-  "LastUpdate_Achievements": "2023-07-17T11:06:39.5230605+00:00"
+  "LastUpdate_Ratings": "2023-07-17T11:59:49.5151392+00:00",
+  "LastUpdate_Achievements": "2023-07-17T12:06:50.0364273+00:00"
 }

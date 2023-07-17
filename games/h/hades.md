@@ -7,21 +7,21 @@ Number of Ratings: 6,336  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Escaped Tartarus | 89.00% | ~621,847 |
-| Escaped Asphodel | 80.00% | ~558,963 |
-| Arms Collector | 71.00% | ~496,080 |
+| Escaped Asphodel | 80.00% | ~558,964 |
+| Arms Collector | 71.00% | ~496,081 |
 | Friends in High Places | 68.00% | ~475,119 |
 | Escaped Elysium | 66.00% | ~461,145 |
 | Chthonic Colleagues | 63.00% | ~440,184 |
-| Is There No Escape? | 52.00% | ~363,326 |
+| Is There No Escape? | 52.00% | ~363,327 |
 | Death Dealer | 45.00% | ~314,417 |
 | Skelly Slayer | 42.00% | ~293,456 |
 | Well Stocked | 40.00% | ~279,482 |
 | Back to Work | 38.00% | ~265,508 |
-| Day-or-Night Trader | 37.00% | ~258,520 |
-| Blessed by the Gods | 37.00% | ~258,520 |
-| Urge to Sing | 36.00% | ~251,533 |
-| Blood Bound | 35.00% | ~244,546 |
-| Three-Headed Boy | 32.00% | ~223,585 |
+| Day-or-Night Trader | 37.00% | ~258,521 |
+| Blessed by the Gods | 37.00% | ~258,521 |
+| Urge to Sing | 36.00% | ~251,534 |
+| Blood Bound | 35.00% | ~244,547 |
+| Three-Headed Boy | 32.00% | ~223,586 |
 | River Denizens | 28.00% | ~195,637 |
 | Grown Close | 28.00% | ~195,637 |
 | Home Makeover | 27.00% | ~188,650 |
@@ -39,8 +39,8 @@ Number of Ratings: 6,336  (23.09.2022)
 | Musician and Muse | 14.00% | ~97,819 |
 | The Useless Trinket | 13.00% | ~90,832 |
 | Champion of Elysium | 13.00% | ~90,832 |
-| Slashed Benefits | 12.00% | ~83,844 |
-| Haste of Hermes | 11.00% | ~76,857 |
+| Slashed Benefits | 12.00% | ~83,845 |
+| Haste of Hermes | 11.00% | ~76,858 |
 | Bad Call | 10.00% | ~69,870 |
 | Nyx's Mirror | 10.00% | ~69,870 |
 | Night and Darkness | 10.00% | ~69,870 |
@@ -56,7 +56,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~27,948 |
 | Friends Forever | 4.00% | ~27,948 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 698,704 (Ranked 20)  
+Progressed: 698,705 (Ranked 20)  
 Completed: 6,239 (0.89%) (Ranked 105)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,10 +144,10 @@ Completed: 6,239 (0.89%) (Ranked 105)
 | 2023-07-14 | 698,460 | 6,231 |
 | 2023-07-15 | 698,569 | 6,233 |
 | 2023-07-16 | 698,668 | 6,238 |
-| 2023-07-17 | 698,704 | 6,239 |
+| 2023-07-17 | 698,705 | 6,239 |
 ## Awards
 Max (Character Customization): 3,186  (Ranked 89)  
-Sum: 7,706 (Ranked 98)  
+Sum: 7,707 (Ranked 98)  
 Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |
@@ -163,7 +163,7 @@ Diff (max vs sum): -9
 | This game has Quickly Understood Controls | 231 |
 | This game has Unique Visuals | 227 |
 | This game has Challenging Combat | 170 |
-| This game has a Creative Community | 158 |
+| This game has a Creative Community | 159 |
 | This game has Obsessive Gameplay | 144 |
 | This game is Educational | 51 |
 ## Ratings History
@@ -334,3 +334,4 @@ Diff (max vs sum): -9
 | 2023-07-13 | 4.92 | - | 3,180 | 7,698 |
 | 2023-07-15 | 4.92 | - | 3,184 | 7,703 |
 | 2023-07-16 | 4.92 | - | 3,186 | 7,706 |
+| 2023-07-17 | 4.92 | - | 3,186 | 7,707 |

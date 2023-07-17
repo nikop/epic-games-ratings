@@ -15,8 +15,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Contagious Curse | 0.30% | ~638 |
 | Escort to Waterdeep | 0.30% | ~638 |
 | The Mad Wizard | 0.30% | ~638 |
+| Waterdeep Detours | 0.30% | ~638 |
 | Friendly Imps | 0.30% | ~638 |
 | Pure Energy | 0.30% | ~638 |
+| Trollskull Manor | 0.20% | ~425 |
 | The Death Curse | 0.20% | ~425 |
 | Useless Allies | 0.20% | ~425 |
 | Exploring Port Nyanzaru | 0.20% | ~425 |
@@ -27,7 +29,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Close Escort | 0.20% | ~425 |
 | Constant Banditry | 0.20% | ~425 |
 | The Long Haul | 0.20% | ~425 |
-| Waterdeep Detours | 0.20% | ~425 |
 | Lost in the Deep | 0.20% | ~425 |
 | Easily Distracted | 0.20% | ~425 |
 | Underdeep Cartography | 0.20% | ~425 |
@@ -38,7 +39,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Visions of Strahd | 0.10% | ~213 |
 | Seeds of Corruption | 0.10% | ~213 |
 | The Strahd Squad | 0.10% | ~179 |
-| Trollskull Manor | 0.10% | ~213 |
 | The Gargoyle's Apprentice | 0.10% | ~213 |
 | House of Darkness | 0.10% | ~213 |
 | Home Not So Alone | 0.10% | ~179 |
@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212,649 (Ranked 53)  
+Progressed: 212,667 (Ranked 53)  
 Completed: 2,056 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -602,7 +602,7 @@ Completed: 2,056 (0.97%) (Ranked 102)
 | 2023-07-14 | 211,507 | 2,050 |
 | 2023-07-15 | 212,014 | 2,053 |
 | 2023-07-16 | 212,501 | 2,055 |
-| 2023-07-17 | 212,649 | 2,056 |
+| 2023-07-17 | 212,667 | 2,056 |
 ## Awards
 Max (Diverse Characters): 5,041  (Ranked 66)  
 Sum: 30,555 (Ranked 38)  

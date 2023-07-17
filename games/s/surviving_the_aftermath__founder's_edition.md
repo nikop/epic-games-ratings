@@ -20,9 +20,9 @@ Number of Ratings: 836  (23.09.2022)
 | The Long Haul | 33.00% | ~2,456 |
 | The Great Healer | 31.00% | ~2,307 |
 | Survivor | 31.00% | ~2,307 |
+| Legendary Explorer | 28.00% | ~2,084 |
 | Cleaner | 28.00% | ~2,084 |
 | Catastrofan | 28.00% | ~2,084 |
-| Legendary Explorer | 27.00% | ~2,010 |
 | Finders, Keepers | 26.00% | ~1,935 |
 | Top Notch | 25.00% | ~1,861 |
 | Ice Lakes | 23.00% | ~1,712 |

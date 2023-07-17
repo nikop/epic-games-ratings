@@ -667,9 +667,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 33620,
+  "EOS_Progressed": 33621,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 453,
+  "EOS_NewPlayers": 450,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9482,6 +9482,11 @@
       "Time": "2023-07-17T11:03:29.3163819+00:00",
       "NumProgressed": 33620,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-17T12:02:29.1605639+00:00",
+      "NumProgressed": 33621,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -9509,7 +9514,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 5715
+      "UsersEstimate": 5716
     },
     {
       "ID": "ach_antiquarian10",
@@ -9613,7 +9618,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 12103
+      "UsersEstimate": 12104
     },
     {
       "ID": "ach_die10",
@@ -9685,7 +9690,7 @@
       "Name": "Correspondent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4034
+      "UsersEstimate": 4035
     },
     {
       "ID": "ach_legacypupil",
@@ -9853,7 +9858,7 @@
       "Name": "Lose Your Mind",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4034
+      "UsersEstimate": 4035
     },
     {
       "ID": "ach_terror90",
@@ -9893,7 +9898,7 @@
       "Name": "Sound Mind?",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 4034
+      "UsersEstimate": 4035
     },
     {
       "ID": "ach_year1",
@@ -9924,15 +9929,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 33620,
+      "Progressed": 33621,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-06-27T03:23:10.0352371+00:00",
-  "LastChanged_Achievements": "2023-07-17T11:03:29.3163813+00:00",
+  "LastChanged_Achievements": "2023-07-17T12:02:29.1605633+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:41.8082473+00:00",
-  "LastUpdate_Ratings": "2023-07-17T10:59:59.3875473+00:00",
-  "LastUpdate_Achievements": "2023-07-17T11:03:29.3165153+00:00"
+  "LastUpdate_Ratings": "2023-07-17T12:00:17.8331958+00:00",
+  "LastUpdate_Achievements": "2023-07-17T12:02:29.1606388+00:00"
 }

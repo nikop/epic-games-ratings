@@ -172,9 +172,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7374,
+  "EOS_Progressed": 7375,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5872,6 +5872,11 @@
       "Time": "2023-07-17T10:02:33.1927732+00:00",
       "NumProgressed": 7374,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-17T12:01:19.7668777+00:00",
+      "NumProgressed": 7375,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -5883,7 +5888,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 4719
+      "UsersEstimate": 4720
     },
     {
       "ID": "0002",
@@ -5907,7 +5912,7 @@
       "Name": "Security Supervisor",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "0005",
@@ -5939,7 +5944,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 2728
+      "UsersEstimate": 2729
     },
     {
       "ID": "0009",
@@ -5971,7 +5976,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2433
+      "UsersEstimate": 2434
     },
     {
       "ID": "0013",
@@ -5987,7 +5992,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2507
+      "UsersEstimate": 2508
     },
     {
       "ID": "0015",
@@ -5995,7 +6000,7 @@
       "Name": "The terminals are not enough",
       "Percentage": 2,
       "XP": 115,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "0016",
@@ -6027,7 +6032,7 @@
       "Name": "Lose Another Day",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "0020",
@@ -6075,7 +6080,7 @@
       "Name": "Tailor-Made",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 2728
+      "UsersEstimate": 2729
     },
     {
       "ID": "0026",
@@ -6155,7 +6160,7 @@
       "Name": "Chairman of Deceive Inc.",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "0036",
@@ -6170,7 +6175,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 7374,
+      "Progressed": 7375,
       "Completed": 1
     }
   ],
@@ -6178,8 +6183,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-06-24T11:00:56.980815+00:00",
-  "LastChanged_Achievements": "2023-07-17T10:02:33.1927725+00:00",
+  "LastChanged_Achievements": "2023-07-17T12:01:19.7668766+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:40.2743278+00:00",
-  "LastUpdate_Ratings": "2023-07-17T10:59:58.4303442+00:00",
-  "LastUpdate_Achievements": "2023-07-17T10:02:33.19288+00:00"
+  "LastUpdate_Ratings": "2023-07-17T12:00:16.454816+00:00",
+  "LastUpdate_Achievements": "2023-07-17T12:01:19.7669358+00:00"
 }

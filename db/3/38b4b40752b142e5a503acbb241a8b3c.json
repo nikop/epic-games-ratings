@@ -27,8 +27,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "3dpl56m",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2023-07-17T12:05:29.3439322+00:00",
+  "LastChanged_Achievements": "2023-07-17T12:05:29.3439296+00:00",
   "LastUpdate_AppInfo": "2023-07-11T18:56:50.8000661+00:00",
-  "LastUpdate_Ratings": "2023-07-17T10:57:43.5145657+00:00",
-  "LastUpdate_Achievements": "2023-07-17T11:05:33.2798912+00:00"
+  "LastUpdate_Ratings": "2023-07-17T11:57:20.8717973+00:00",
+  "LastUpdate_Achievements": "2023-07-17T12:05:29.3439335+00:00"
 }

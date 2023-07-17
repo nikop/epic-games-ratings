@@ -7,8 +7,8 @@ Rating: 4.42 (Ranked 665)
 | ---- | ---------- | ----- |
 | Survivor | 31.00% | ~78,469 |
 | Predator I | 22.00% | ~55,688 |
-| Fixer I | 10.00% | ~25,312 |
-| A week in Century City | 10.00% | ~25,312 |
+| Fixer I | 10.00% | ~25,313 |
+| A week in Century City | 10.00% | ~25,313 |
 | The Wait | 7.00% | ~17,719 |
 | Green thumb I | 6.00% | ~15,188 |
 | Cleaning Company | 6.00% | ~15,188 |
@@ -19,14 +19,14 @@ Rating: 4.42 (Ranked 665)
 | Vandalism | 4.00% | ~10,125 |
 | Capitalist I | 4.00% | ~10,125 |
 | Adrenaline | 3.00% | ~7,594 |
-| By a hair | 2.00% | ~5,062 |
-| Fixer II | 2.00% | ~5,062 |
-| It took a while | 2.00% | ~5,062 |
-| Samurai | 2.00% | ~5,062 |
-| I Left You a Present | 2.00% | ~5,062 |
-| Predator II | 2.00% | ~5,062 |
-| Truffle Dog | 2.00% | ~5,062 |
-| A month in Century City | 2.00% | ~5,062 |
+| By a hair | 2.00% | ~5,063 |
+| Fixer II | 2.00% | ~5,063 |
+| It took a while | 2.00% | ~5,063 |
+| Samurai | 2.00% | ~5,063 |
+| I Left You a Present | 2.00% | ~5,063 |
+| Predator II | 2.00% | ~5,063 |
+| Truffle Dog | 2.00% | ~5,063 |
+| A month in Century City | 2.00% | ~5,063 |
 | The Strengthening | 1.00% | ~2,531 |
 | Saver II | 1.00% | ~2,531 |
 | It's the last one, I swear | 1.00% | ~2,531 |
@@ -41,9 +41,9 @@ Rating: 4.42 (Ranked 665)
 | The Gamble | 0.50% | ~1,266 |
 | The Descent | 0.50% | ~1,266 |
 | A major purchase | 0.50% | ~1,266 |
-| Expert Hunter | 0.40% | ~1,012 |
-| Fungi hunter | 0.40% | ~1,012 |
-| Predator III | 0.40% | ~1,012 |
+| Expert Hunter | 0.40% | ~1,013 |
+| Fungi hunter | 0.40% | ~1,013 |
+| Predator III | 0.40% | ~1,013 |
 | Arms dealer | 0.30% | ~759 |
 | Fixer III | 0.30% | ~759 |
 | AML questionnaire | 0.30% | ~759 |
@@ -62,7 +62,7 @@ Rating: 4.42 (Ranked 665)
 | Capitalist III | 0.10% | ~253 |
 | Hell Is You | 0.10% | ~253 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,125 (Ranked 42)  
+Progressed: 253,127 (Ranked 42)  
 Completed: 2 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 2 (0.00%) (Ranked 236)
 | 2023-07-14 | 252,973 | 2 |
 | 2023-07-15 | 253,044 | 2 |
 | 2023-07-16 | 253,110 | 2 |
-| 2023-07-17 | 253,125 | 2 |
+| 2023-07-17 | 253,127 | 2 |
 ## Awards
 Max (Unique Visuals): 32  (Ranked 448)  
 Sum: 179 (Ranked 374)  
