@@ -4,7 +4,7 @@
   "ProductSlug": "zzt",
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-03-31T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2927,
+  "EOS_Progressed": 2928,
   "EOS_Completed": 104,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.55,
   "EosHistory": [
@@ -3311,6 +3311,11 @@
       "Time": "2023-07-17T18:02:33.8021919+00:00",
       "NumProgressed": 2927,
       "NumCompleted": 104
+    },
+    {
+      "Time": "2023-07-17T19:03:21.8453646+00:00",
+      "NumProgressed": 2928,
+      "NumCompleted": 104
     }
   ],
   "TotalAchievements": 5,
@@ -3322,15 +3327,15 @@
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 2927
+      "UsersEstimate": 2928
     },
     {
       "ID": "2",
       "SetID": "dm385hd",
       "Name": "Traveler",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 176
+      "UsersEstimate": 146
     },
     {
       "ID": "3",
@@ -3361,7 +3366,7 @@
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 2927,
+      "Progressed": 2928,
       "Completed": 104
     }
   ],
@@ -3369,8 +3374,8 @@
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-07-17T18:02:33.8021911+00:00",
+  "LastChanged_Achievements": "2023-07-17T19:03:21.845364+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:11.1677444+00:00",
-  "LastUpdate_Ratings": "2023-07-17T17:58:20.9490401+00:00",
-  "LastUpdate_Achievements": "2023-07-17T18:02:33.8022204+00:00"
+  "LastUpdate_Ratings": "2023-07-17T18:58:48.0377094+00:00",
+  "LastUpdate_Achievements": "2023-07-17T19:03:21.8453915+00:00"
 }

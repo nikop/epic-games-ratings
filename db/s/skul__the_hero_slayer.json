@@ -4,11 +4,11 @@
   "ProductSlug": "skul-the-hero-slayer",
   "Ranking_Rating": 183,
   "Ranking_Popularity": 314,
-  "Ranking_PopularitySum": 260,
+  "Ranking_PopularitySum": 261,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -896,9 +896,9 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 7914,
+  "EOS_Progressed": 7915,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3426,6 +3426,11 @@
       "Time": "2023-07-17T12:04:41.2142667+00:00",
       "NumProgressed": 7914,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-07-17T19:04:50.0501633+00:00",
+      "NumProgressed": 7915,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -3597,7 +3602,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7360
+      "UsersEstimate": 7361
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -3621,22 +3626,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6648
+      "UsersEstimate": 6649
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7914,
+      "Progressed": 7915,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-07-16T13:11:50.188499+00:00",
-  "LastChanged_Achievements": "2023-07-17T18:04:21.5995808+00:00",
+  "LastChanged_Achievements": "2023-07-17T19:04:50.0501627+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:55.8883979+00:00",
-  "LastUpdate_Ratings": "2023-07-17T17:59:00.0495584+00:00",
-  "LastUpdate_Achievements": "2023-07-17T18:04:21.5996169+00:00"
+  "LastUpdate_Ratings": "2023-07-17T18:59:26.5043716+00:00",
+  "LastUpdate_Achievements": "2023-07-17T19:04:50.0501956+00:00"
 }

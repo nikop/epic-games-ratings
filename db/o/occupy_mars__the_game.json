@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -2914,9 +2914,9 @@
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
       "SetID": "l546gc",
       "Name": "DeDust",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 71
     },
     {
       "ID": "NEW_ACHIEVEMENT_DUMB_WAYS",
@@ -3147,8 +3147,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-07-17T08:58:14.4010535+00:00",
-  "LastChanged_Achievements": "2023-07-17T18:03:41.4380405+00:00",
+  "LastChanged_Achievements": "2023-07-17T19:04:09.5742122+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:18.762224+00:00",
-  "LastUpdate_Ratings": "2023-07-17T17:57:32.150988+00:00",
-  "LastUpdate_Achievements": "2023-07-17T18:03:41.4380969+00:00"
+  "LastUpdate_Ratings": "2023-07-17T18:57:56.6520155+00:00",
+  "LastUpdate_Achievements": "2023-07-17T19:04:09.5742689+00:00"
 }

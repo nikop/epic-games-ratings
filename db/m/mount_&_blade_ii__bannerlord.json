@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -5679,7 +5679,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 55972,
+  "EOS_Progressed": 55974,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 496,
   "EOS_NewCompleters": 0,
@@ -14809,6 +14809,11 @@
       "Time": "2023-07-17T18:06:07.3749835+00:00",
       "NumProgressed": 55972,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-17T19:06:35.3839791+00:00",
+      "NumProgressed": 55974,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -14900,7 +14905,7 @@
       "Name": "Duelist",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5037
+      "UsersEstimate": 5038
     },
     {
       "ID": "Dynasty",
@@ -14908,7 +14913,7 @@
       "Name": "Dynasty",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 5037
+      "UsersEstimate": 5038
     },
     {
       "ID": "Entrepreneur",
@@ -14996,7 +15001,7 @@
       "Name": "I spit on your grave",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5037
+      "UsersEstimate": 5038
     },
     {
       "ID": "Jack of All Trades",
@@ -15044,7 +15049,7 @@
       "Name": "Landlord",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 17351
+      "UsersEstimate": 17352
     },
     {
       "ID": "Lawbringer",
@@ -15172,7 +15177,7 @@
       "Name": "The king is pleased",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 9515
+      "UsersEstimate": 9516
     },
     {
       "ID": "This Is Our Land",
@@ -15180,7 +15185,7 @@
       "Name": "This Is Our Land",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5037
+      "UsersEstimate": 5038
     },
     {
       "ID": "This is Sparta",
@@ -15196,7 +15201,7 @@
       "Name": "Trained",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 11754
+      "UsersEstimate": 11755
     },
     {
       "ID": "Undercover",
@@ -15220,22 +15225,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5037
+      "UsersEstimate": 5038
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 55972,
+      "Progressed": 55974,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-07-17T17:01:07.8455022+00:00",
-  "LastChanged_Achievements": "2023-07-17T18:06:07.3749828+00:00",
+  "LastChanged_Achievements": "2023-07-17T19:06:35.3839785+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:48.1005966+00:00",
-  "LastUpdate_Ratings": "2023-07-17T17:59:38.9575303+00:00",
-  "LastUpdate_Achievements": "2023-07-17T18:06:07.3750715+00:00"
+  "LastUpdate_Ratings": "2023-07-17T19:00:07.3322344+00:00",
+  "LastUpdate_Achievements": "2023-07-17T19:06:35.384078+00:00"
 }

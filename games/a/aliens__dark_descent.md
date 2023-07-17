@@ -12,8 +12,8 @@ Rating: 4.42 (Ranked 663)
 | Call Me Snake | 60.00% | ~1,766 |
 | Something Lurks Under The Hills | 58.00% | ~1,707 |
 | This Was No Papercut | 57.00% | ~1,678 |
+| People Person | 53.00% | ~1,560 |
 | The Shrink Hates Me | 53.00% | ~1,560 |
-| People Person | 52.00% | ~1,530 |
 | Use The Bumper, That's What It's For | 50.00% | ~1,472 |
 | First Steps Into Madness | 49.00% | ~1,442 |
 | Colonial Barrels | 48.00% | ~1,413 |
@@ -27,9 +27,9 @@ Rating: 4.42 (Ranked 663)
 | Living Nightmare | 26.00% | ~765 |
 | The Darwin Era Was Here | 22.00% | ~647 |
 | Deep Into Insanity | 21.00% | ~618 |
+| Stuff Of Nightmares | 20.00% | ~589 |
 | Come on, You Wanna Live Forever? | 20.00% | ~589 |
 | The Passenger | 20.00% | ~589 |
-| Stuff Of Nightmares | 19.00% | ~559 |
 | El Riesgo Siempre Vive | 18.00% | ~530 |
 | The Spire | 18.00% | ~530 |
 | One For Every Occasion | 16.00% | ~471 |

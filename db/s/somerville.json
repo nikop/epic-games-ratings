@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 84,
   "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-11-15T00:00:00+00:00",
     "PcReleaseDate": "2022-11-15T00:00:00+00:00",
@@ -85,10 +85,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 1600,
-  "EOS_Completed": 25,
+  "EOS_Completed": 26,
   "EOS_NewPlayers": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.56,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 1.62,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:11.8533699+00:00",
@@ -404,6 +404,11 @@
       "Time": "2023-07-07T11:04:27.3983497+00:00",
       "NumProgressed": 1600,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-07-17T19:04:38.0346515+00:00",
+      "NumProgressed": 1600,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 11,
@@ -429,9 +434,9 @@
       "ID": "SomervilleFraternizingWithEnemy",
       "SetID": "3mk3nll",
       "Name": "First contact.",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 200,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "SomervilleHereBoy",
@@ -503,15 +508,15 @@
       "ID": "3mk3nll",
       "IsBase": true,
       "Progressed": 1600,
-      "Completed": 25
+      "Completed": 26
     }
   ],
   "FirstSeen": "2022-11-15T21:57:56.5143092+00:00",
   "FirstSeenRating": "2022-11-25T17:58:18.0029626+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.8533708+00:00",
   "LastChanged": "2023-03-31T05:58:16.104552+00:00",
-  "LastChanged_Achievements": "2023-07-17T18:04:10.3024596+00:00",
+  "LastChanged_Achievements": "2023-07-17T19:04:38.0346509+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:18.8549675+00:00",
-  "LastUpdate_Ratings": "2023-07-17T17:57:52.7893223+00:00",
-  "LastUpdate_Achievements": "2023-07-17T18:04:10.30247+00:00"
+  "LastUpdate_Ratings": "2023-07-17T18:58:16.0767561+00:00",
+  "LastUpdate_Achievements": "2023-07-17T19:04:38.0346627+00:00"
 }

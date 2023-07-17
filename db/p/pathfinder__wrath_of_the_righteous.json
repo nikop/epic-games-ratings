@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3140,7 +3140,7 @@
       "Count": 381
     }
   ],
-  "EOS_Progressed": 10374,
+  "EOS_Progressed": 10375,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
@@ -8615,6 +8615,11 @@
       "Time": "2023-07-17T17:05:23.4440114+00:00",
       "NumProgressed": 10374,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-17T19:04:35.934671+00:00",
+      "NumProgressed": 10375,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -8634,7 +8639,7 @@
       "Name": "Burning City",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1452
+      "UsersEstimate": 1453
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -8714,7 +8719,7 @@
       "Name": "Path of the Trickster",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "13_PathOfLich",
@@ -8722,7 +8727,7 @@
       "Name": "Path of the Lich",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "14_PathOfSwarm",
@@ -8826,7 +8831,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1038
     },
     {
       "ID": "28_GreatUpstart",
@@ -8850,7 +8855,7 @@
       "Name": "Heroic Victory",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "31_DivideAndRule",
@@ -8882,7 +8887,7 @@
       "Name": "Capitulation Is Now Moot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "35_AbyssalConspiracy",
@@ -8898,7 +8903,7 @@
       "Name": "Core of the Riddle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "37_FirstBigEnemy",
@@ -8906,7 +8911,7 @@
       "Name": "Your First Big Enemy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "38_PrelatesNemesis",
@@ -8914,7 +8919,7 @@
       "Name": "Prelate\u0027s Nemesis",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "39_Blight of Drezen",
@@ -9026,7 +9031,7 @@
       "Name": "Truly Important Deed",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "53_TrulyProfaneGift",
@@ -9553,21 +9558,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9156,
+      "Progressed": 9157,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10374,
+      "Progressed": 10375,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-17T15:59:09.4102886+00:00",
-  "LastChanged_Achievements": "2023-07-17T18:04:08.1312172+00:00",
+  "LastChanged_Achievements": "2023-07-17T19:04:35.9346705+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:17.6267462+00:00",
-  "LastUpdate_Ratings": "2023-07-17T17:58:27.6343278+00:00",
-  "LastUpdate_Achievements": "2023-07-17T18:04:08.1314016+00:00"
+  "LastUpdate_Ratings": "2023-07-17T18:58:53.2739807+00:00",
+  "LastUpdate_Achievements": "2023-07-17T19:04:35.9348768+00:00"
 }

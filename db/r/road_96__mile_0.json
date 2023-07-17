@@ -4,8 +4,8 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 251,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -966,9 +966,9 @@
       "ID": "completeact2",
       "SetID": "40n95i5",
       "Name": "Conspiracy Theorist",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 80,
-      "UsersEstimate": 154
+      "UsersEstimate": 157
     },
     {
       "ID": "completeact3",
@@ -1087,8 +1087,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-07-17T17:02:13.6156046+00:00",
+  "LastChanged_Achievements": "2023-07-17T19:00:49.5199211+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:44.4042174+00:00",
-  "LastUpdate_Ratings": "2023-07-17T17:58:46.2283891+00:00",
-  "LastUpdate_Achievements": "2023-07-17T17:02:13.6156343+00:00"
+  "LastUpdate_Ratings": "2023-07-17T18:59:14.7693449+00:00",
+  "LastUpdate_Achievements": "2023-07-17T19:00:49.5199503+00:00"
 }

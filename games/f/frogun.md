@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Historian | 94.00% | ~196 |
-| Treasure hunter | 90.00% | ~188 |
+| Treasure hunter | 91.00% | ~190 |
 | Survivalist | 82.00% | ~171 |
 | Challenge seeker | 78.00% | ~163 |
 | Coin collector | 73.00% | ~153 |

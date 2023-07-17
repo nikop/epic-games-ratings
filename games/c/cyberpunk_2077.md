@@ -6,43 +6,43 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~589,023 |
-| Right Back At Ya | 38.00% | ~329,160 |
-| The Lovers | 34.00% | ~294,511 |
-| Stanislavski's Method | 28.00% | ~242,539 |
-| The Wheel of Fortune | 26.00% | ~225,215 |
-| The Hermit | 24.00% | ~207,890 |
-| Christmas Tree Attack | 22.00% | ~190,566 |
-| True Soldier | 22.00% | ~190,566 |
-| The High Priestess | 21.00% | ~181,904 |
-| Legend of The Afterlife | 21.00% | ~181,904 |
-| Life of the Road | 20.00% | ~173,242 |
-| Full Body Conversion | 18.00% | ~155,918 |
-| The World | 17.00% | ~147,256 |
-| Bushido and Chill | 16.00% | ~138,594 |
-| Gun Fu | 15.00% | ~129,932 |
-| True Warrior | 15.00% | ~129,932 |
-| Judy vs Night City | 14.00% | ~121,269 |
-| To Protect and Serve | 13.00% | ~112,607 |
-| Master Crafter | 13.00% | ~112,607 |
-| I Am The Law | 13.00% | ~112,607 |
-| Two Heads, One Bullet | 11.00% | ~95,283 |
-| The Wandering Fool | 9.00% | ~77,959 |
-| The Quick and the Dead | 9.00% | ~77,959 |
-| Ten out of Ten | 8.00% | ~69,297 |
+| The Fool | 68.00% | ~589,030 |
+| Right Back At Ya | 38.00% | ~329,164 |
+| The Lovers | 34.00% | ~294,515 |
+| Stanislavski's Method | 28.00% | ~242,542 |
+| The Wheel of Fortune | 26.00% | ~225,217 |
+| The Hermit | 24.00% | ~207,893 |
+| Christmas Tree Attack | 22.00% | ~190,569 |
+| True Soldier | 22.00% | ~190,569 |
+| The High Priestess | 21.00% | ~181,906 |
+| Legend of The Afterlife | 21.00% | ~181,906 |
+| Life of the Road | 20.00% | ~173,244 |
+| Full Body Conversion | 18.00% | ~155,920 |
+| The World | 17.00% | ~147,258 |
+| Bushido and Chill | 16.00% | ~138,595 |
+| Gun Fu | 15.00% | ~129,933 |
+| True Warrior | 15.00% | ~129,933 |
+| Judy vs Night City | 14.00% | ~121,271 |
+| To Protect and Serve | 13.00% | ~112,609 |
+| Master Crafter | 13.00% | ~112,609 |
+| I Am The Law | 13.00% | ~112,609 |
+| Two Heads, One Bullet | 11.00% | ~95,284 |
+| The Wandering Fool | 9.00% | ~77,960 |
+| The Quick and the Dead | 9.00% | ~77,960 |
+| Ten out of Ten | 8.00% | ~69,298 |
 | Breathtaking | 7.00% | ~60,635 |
 | To Bad Decisions! | 6.00% | ~51,973 |
 | The Star | 6.00% | ~51,973 |
 | The Sun | 6.00% | ~51,973 |
-| Must Be Rats | 4.00% | ~34,648 |
-| Temperance | 4.00% | ~34,648 |
-| City Lights | 3.00% | ~25,986 |
-| Mean Streets | 3.00% | ~25,986 |
-| Little Tokyo | 3.00% | ~25,986 |
-| Greetings from Pacifica! | 3.00% | ~25,986 |
-| The Jungle | 3.00% | ~25,986 |
-| V for Vendetta | 3.00% | ~25,986 |
-| It's Elementary | 3.00% | ~25,986 |
+| Must Be Rats | 4.00% | ~34,649 |
+| Temperance | 4.00% | ~34,649 |
+| City Lights | 3.00% | ~25,987 |
+| Mean Streets | 3.00% | ~25,987 |
+| Little Tokyo | 3.00% | ~25,987 |
+| Greetings from Pacifica! | 3.00% | ~25,987 |
+| The Jungle | 3.00% | ~25,987 |
+| V for Vendetta | 3.00% | ~25,987 |
+| It's Elementary | 3.00% | ~25,987 |
 | Autojock | 2.00% | ~17,324 |
 | Frequent Flyer | 2.00% | ~17,324 |
 | The Wasteland | 2.00% | ~17,324 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,662 |
 | Rough Landing | 0.50% | ~4,331 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 866,210 (Ranked 14)  
+Progressed: 866,221 (Ranked 14)  
 Completed: 1,878 (0.22%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,10 +139,10 @@ Completed: 1,878 (0.22%) (Ranked 159)
 | 2023-07-14 | 865,617 | 1,869 |
 | 2023-07-15 | 865,846 | 1,874 |
 | 2023-07-16 | 866,078 | 1,878 |
-| 2023-07-17 | 866,210 | 1,878 |
+| 2023-07-17 | 866,221 | 1,878 |
 ## Awards
 Max (Character Customization): 73,337  (Ranked 9)  
-Sum: 192,563 (Ranked 13)  
+Sum: 192,579 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -150,7 +150,7 @@ Diff (max vs sum): -4
 | This game has Great Boss Battles | 47,188 |
 | This game has Diverse Characters | 8,526 |
 | This game is Great for Beginners | 8,472 |
-| This game has Amazing Storytelling | 8,453 |
+| This game has Amazing Storytelling | 8,469 |
 | This game is Extremely Fun | 8,354 |
 | This game is Highly Recommended | 8,313 |
 | This game is Relaxing | 8,288 |
@@ -339,4 +339,4 @@ Diff (max vs sum): -4
 | 2023-07-14 | 4.62 | - | 73,146 | 191,858 |
 | 2023-07-15 | 4.62 | - | 73,221 | 192,096 |
 | 2023-07-16 | 4.62 | - | 73,337 | 192,382 |
-| 2023-07-17 | 4.62 | - | 73,337 | 192,563 |
+| 2023-07-17 | 4.62 | - | 73,337 | 192,579 |

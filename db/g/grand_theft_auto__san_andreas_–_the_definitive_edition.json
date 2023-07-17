@@ -568,9 +568,9 @@
       "Count": 218
     }
   ],
-  "EOS_Progressed": 11080,
+  "EOS_Progressed": 11081,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6693,6 +6693,11 @@
       "Time": "2023-07-17T13:25:18.4480118+00:00",
       "NumProgressed": 11080,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-07-17T19:06:34.8923719+00:00",
+      "NumProgressed": 11081,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 35,
@@ -6704,7 +6709,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 8975
+      "UsersEstimate": 8976
     },
     {
       "ID": "ACH02",
@@ -6752,7 +6757,7 @@
       "Name": "The American Dream",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1994
+      "UsersEstimate": 1995
     },
     {
       "ID": "ACH08",
@@ -6800,7 +6805,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 1994
+      "UsersEstimate": 1995
     },
     {
       "ID": "ACH14",
@@ -6983,7 +6988,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11080,
+      "Progressed": 11081,
       "Completed": 31
     }
   ],
@@ -6991,8 +6996,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-15T10:02:24.2938104+00:00",
-  "LastChanged_Achievements": "2023-07-17T18:06:06.9227225+00:00",
+  "LastChanged_Achievements": "2023-07-17T19:06:34.8923714+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:18.5169648+00:00",
-  "LastUpdate_Ratings": "2023-07-17T18:00:01.4066425+00:00",
-  "LastUpdate_Achievements": "2023-07-17T18:06:06.9227868+00:00"
+  "LastUpdate_Ratings": "2023-07-17T19:00:31.0453605+00:00",
+  "LastUpdate_Achievements": "2023-07-17T19:06:34.8924356+00:00"
 }

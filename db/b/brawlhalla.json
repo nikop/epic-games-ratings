@@ -2,13 +2,13 @@
   "ID": "15e6680a0c164ee189fcc3eb10398fd6",
   "Name": "Brawlhalla",
   "ProductSlug": "brawlhalla",
-  "Ranking_Rating": 365,
+  "Ranking_Rating": 389,
   "Ranking_Popularity": 264,
   "Ranking_PopularitySum": 194,
   "Ranking_EOS_Progress": 496,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-11-15T17:00:00+00:00",
     "PcReleaseDate": "2022-10-17T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.61,
+  "Rating": 4.6,
   "RatingHistory": [
     {
       "Time": "2022-11-21T06:57:02.0735411+00:00",
@@ -3972,10 +3972,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 2032,
       "NumberOfAwardsMax": 212
+    },
+    {
+      "Time": "2023-07-17T19:00:00.2648762+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 2033,
+      "NumberOfAwardsMax": 212
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2032,
+  "NumberOfAwards": 2033,
   "NumberOfAwardsMax": 212,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4013,7 +4019,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 157
+      "Count": 158
     },
     {
       "Text": "This game has Challenging Combat",
@@ -4064,8 +4070,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-07-17T15:00:51.4461324+00:00",
+  "LastChanged": "2023-07-17T19:00:00.2648759+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:39.4744952+00:00",
-  "LastUpdate_Ratings": "2023-07-17T17:59:32.9742904+00:00",
-  "LastUpdate_Achievements": "2023-07-17T18:02:42.6790533+00:00"
+  "LastUpdate_Ratings": "2023-07-17T19:00:00.2648768+00:00",
+  "LastUpdate_Achievements": "2023-07-17T19:03:30.5919199+00:00"
 }

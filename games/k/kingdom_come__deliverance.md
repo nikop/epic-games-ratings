@@ -6,19 +6,19 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~245,814 |
+| Blacksmith's Son | 31.00% | ~245,815 |
 | Cavalier | 25.00% | ~198,238 |
-| Fatso | 23.00% | ~182,378 |
-| Awakening | 20.00% | ~158,590 |
-| Ranger | 20.00% | ~158,590 |
-| Scrooge | 20.00% | ~158,590 |
+| Fatso | 23.00% | ~182,379 |
+| Awakening | 20.00% | ~158,591 |
+| Ranger | 20.00% | ~158,591 |
+| Scrooge | 20.00% | ~158,591 |
 | Anorectic | 16.00% | ~126,872 |
-| Firestarter | 15.00% | ~118,942 |
+| Firestarter | 15.00% | ~118,943 |
 | Bookworm | 14.00% | ~111,013 |
 | Insomniac | 13.00% | ~103,084 |
 | Buddy | 12.00% | ~95,154 |
 | Thief | 12.00% | ~95,154 |
-| Sinner | 11.00% | ~87,224 |
+| Sinner | 11.00% | ~87,225 |
 | Convict | 10.00% | ~79,295 |
 | Traveller | 10.00% | ~79,295 |
 | Haggler | 9.00% | ~71,366 |
@@ -31,10 +31,10 @@ Number of Ratings: 9,133  (23.09.2022)
 | Bastard | 4.00% | ~31,718 |
 | Hunter | 4.00% | ~31,718 |
 | Plague Doctor | 4.00% | ~31,718 |
-| Bard | 3.00% | ~23,788 |
-| Conqueror | 3.00% | ~23,788 |
-| Ginger in a Pickle | 3.00% | ~23,788 |
-| Kingdom did not come | 3.00% | ~23,788 |
+| Bard | 3.00% | ~23,789 |
+| Conqueror | 3.00% | ~23,789 |
+| Ginger in a Pickle | 3.00% | ~23,789 |
+| Kingdom did not come | 3.00% | ~23,789 |
 | Completionist | 2.00% | ~15,859 |
 | Death by splinter | 2.00% | ~15,859 |
 | King Charming | 2.00% | ~15,859 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~793 |
 | Wingman | 0.10% | ~793 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 792,950 (Ranked 15)  
+Progressed: 792,953 (Ranked 15)  
 Completed: 44 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 44 (0.01%) (Ranked 223)
 | 2023-07-14 | 792,456 | 44 |
 | 2023-07-15 | 792,639 | 44 |
 | 2023-07-16 | 792,827 | 44 |
-| 2023-07-17 | 792,950 | 44 |
+| 2023-07-17 | 792,953 | 44 |
 ## Awards
 Max (Character Customization): 7,321  (Ranked 46)  
 Sum: 27,298 (Ranked 43)  

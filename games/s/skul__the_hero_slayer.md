@@ -6,8 +6,8 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~7,360 |
-| What should I buy? | 84.00% | ~6,648 |
+| The Legend Begins | 93.00% | ~7,361 |
+| What should I buy? | 84.00% | ~6,649 |
 | Focus! | 63.00% | ~4,986 |
 | Rescued Elder Ent | 63.00% | ~4,986 |
 | The End of the Gold Mane Knights | 48.00% | ~3,799 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 2.00% | ~158 |
 | Cold-Blooded | 0.80% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,914 (Ranked 121)  
+Progressed: 7,915 (Ranked 121)  
 Completed: 12 (0.15%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,11 +113,11 @@ Completed: 12 (0.15%) (Ranked 173)
 | 2023-07-14 | 7,906 | 12 |
 | 2023-07-15 | 7,909 | 12 |
 | 2023-07-16 | 7,913 | 12 |
-| 2023-07-17 | 7,914 | 12 |
+| 2023-07-17 | 7,915 | 12 |
 ## Awards
 Max (Diverse Characters): 117  (Ranked 314)  
-Sum: 769 (Ranked 260)  
-Diff (max vs sum): 54  
+Sum: 769 (Ranked 261)  
+Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 119 |

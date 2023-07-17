@@ -6,22 +6,22 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 16.00% | ~99,322 |
-| Incurious | 15.00% | ~93,115 |
-| Climate Change | 14.00% | ~86,907 |
-| Stroller | 13.00% | ~80,699 |
-| Toy Train | 12.00% | ~74,492 |
-| Advanced Hiker | 11.00% | ~68,284 |
-| Hiker | 10.00% | ~62,076 |
-| Mojave Courier | 5.00% | ~31,038 |
-| Voyager | 3.00% | ~18,623 |
-| Advanced Voyager | 3.00% | ~18,623 |
-| Expert Stroller | 3.00% | ~18,623 |
-| Orient Express | 3.00% | ~18,623 |
-| Saved by Nausicaä | 3.00% | ~18,623 |
-| Expert Hiker | 2.00% | ~12,415 |
-| Marathon | 2.00% | ~12,415 |
-| Destructionist | 2.00% | ~12,415 |
+| Advanced Stroller | 16.00% | ~99,326 |
+| Incurious | 15.00% | ~93,118 |
+| Climate Change | 14.00% | ~86,910 |
+| Stroller | 13.00% | ~80,703 |
+| Toy Train | 12.00% | ~74,495 |
+| Advanced Hiker | 11.00% | ~68,287 |
+| Hiker | 10.00% | ~62,079 |
+| Mojave Courier | 5.00% | ~31,039 |
+| Voyager | 3.00% | ~18,624 |
+| Advanced Voyager | 3.00% | ~18,624 |
+| Expert Stroller | 3.00% | ~18,624 |
+| Orient Express | 3.00% | ~18,624 |
+| Saved by Nausicaä | 3.00% | ~18,624 |
+| Expert Hiker | 2.00% | ~12,416 |
+| Marathon | 2.00% | ~12,416 |
+| Destructionist | 2.00% | ~12,416 |
 | Lost | 1.00% | ~6,208 |
 | Expert Voyager | 0.60% | ~3,725 |
 | Rocketman | 0.60% | ~3,725 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~621 |
 | 20 Miles under the Sea | 0.10% | ~621 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 620,765 (Ranked 24)  
+Progressed: 620,789 (Ranked 24)  
 Completed: 7 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,10 +147,10 @@ Completed: 7 (0.00%) (Ranked 236)
 | 2023-07-14 | 619,238 | 7 |
 | 2023-07-15 | 619,852 | 7 |
 | 2023-07-16 | 620,426 | 7 |
-| 2023-07-17 | 620,765 | 7 |
+| 2023-07-17 | 620,789 | 7 |
 ## Awards
 Max (Diverse Characters): 190  (Ranked 273)  
-Sum: 1,535 (Ranked 215)  
+Sum: 1,536 (Ranked 215)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -162,7 +162,7 @@ Diff (max vs sum): 58
 | This game has Amazing Characters | 163 |
 | This game is Highly Recommended | 155 |
 | This game has Playful Visuals | 152 |
-| This game has Amazing Storytelling | 143 |
+| This game has Amazing Storytelling | 144 |
 | This game has Obsessive Gameplay | 138 |
 | This game has Competitive Players | 37 |
 ## Ratings History
@@ -263,3 +263,4 @@ Diff (max vs sum): 58
 | 2023-07-04 | 4.64 | - | 190 | 1,533 |
 | 2023-07-06 | 4.64 | - | 190 | 1,534 |
 | 2023-07-10 | 4.64 | - | 190 | 1,535 |
+| 2023-07-17 | 4.64 | - | 190 | 1,536 |
