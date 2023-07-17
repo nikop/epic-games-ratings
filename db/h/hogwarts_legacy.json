@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 44,
+  "Ranking_EOS_NewPlayers": 45,
   "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -5044,10 +5044,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 39374,
       "NumberOfAwardsMax": 21042
+    },
+    {
+      "Time": "2023-07-17T20:58:03.6170955+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 39385,
+      "NumberOfAwardsMax": 21042
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 39374,
+  "NumberOfAwards": 39385,
   "NumberOfAwardsMax": 21042,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5061,7 +5067,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 10082
+      "Count": 10093
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -5124,9 +5130,9 @@
       "Count": 560
     }
   ],
-  "EOS_Progressed": 287884,
+  "EOS_Progressed": 287890,
   "EOS_Completed": 430,
-  "EOS_NewPlayers": 1313,
+  "EOS_NewPlayers": 1297,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -14599,6 +14605,11 @@
       "Time": "2023-07-17T20:04:01.6304101+00:00",
       "NumProgressed": 287884,
       "NumCompleted": 430
+    },
+    {
+      "Time": "2023-07-17T21:04:21.8754247+00:00",
+      "NumProgressed": 287890,
+      "NumCompleted": 430
     }
   ],
   "TotalAchievements": 45,
@@ -14610,7 +14621,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34546
+      "UsersEstimate": 34547
     },
     {
       "ID": "PFA_10",
@@ -14890,7 +14901,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11515
+      "UsersEstimate": 11516
     },
     {
       "ID": "PFA_42",
@@ -14938,7 +14949,7 @@
       "Name": "First Class Student",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 28788
+      "UsersEstimate": 28789
     },
     {
       "ID": "PFA_7",
@@ -14946,7 +14957,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 28788
+      "UsersEstimate": 28789
     },
     {
       "ID": "PFA_8",
@@ -14969,16 +14980,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 287884,
+      "Progressed": 287890,
       "Completed": 430
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-07-17T19:57:43.4053508+00:00",
-  "LastChanged_Achievements": "2023-07-17T20:04:01.6304088+00:00",
+  "LastChanged": "2023-07-17T20:58:03.6170952+00:00",
+  "LastChanged_Achievements": "2023-07-17T21:04:21.875424+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:19.3801839+00:00",
-  "LastUpdate_Ratings": "2023-07-17T19:57:43.4053517+00:00",
-  "LastUpdate_Achievements": "2023-07-17T20:04:01.6305357+00:00"
+  "LastUpdate_Ratings": "2023-07-17T20:58:03.6170959+00:00",
+  "LastUpdate_Achievements": "2023-07-17T21:04:21.8755092+00:00"
 }

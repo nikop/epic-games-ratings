@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 314,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -980,9 +980,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 15734,
+  "EOS_Progressed": 15735,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -5785,6 +5785,11 @@
       "Time": "2023-07-17T14:06:22.5258267+00:00",
       "NumProgressed": 15734,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-07-17T21:06:14.215226+00:00",
+      "NumProgressed": 15735,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 47,
@@ -5906,9 +5911,9 @@
       "ID": "GRP_MELEE_KILL",
       "SetID": "4hj6d86",
       "Name": "In Striking Distance",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 126
+      "UsersEstimate": 142
     },
     {
       "ID": "KILL_2HEAD",
@@ -6171,13 +6176,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15734,
+      "Progressed": 15735,
       "Completed": 67
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3660,
+      "Progressed": 3661,
       "Completed": 29
     }
   ],
@@ -6185,8 +6190,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-07-17T15:58:42.2554379+00:00",
-  "LastChanged_Achievements": "2023-07-17T20:05:56.5935517+00:00",
+  "LastChanged_Achievements": "2023-07-17T21:06:14.2152255+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:35.5915287+00:00",
-  "LastUpdate_Ratings": "2023-07-17T19:58:13.8456364+00:00",
-  "LastUpdate_Achievements": "2023-07-17T20:05:56.5936292+00:00"
+  "LastUpdate_Ratings": "2023-07-17T20:58:32.5633255+00:00",
+  "LastUpdate_Achievements": "2023-07-17T21:06:14.2152972+00:00"
 }

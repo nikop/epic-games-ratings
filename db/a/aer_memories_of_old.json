@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15502,
+  "EOS_Progressed": 15508,
   "EOS_Completed": 325,
-  "EOS_NewPlayers": 580,
+  "EOS_NewPlayers": 583,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -9614,6 +9614,11 @@
       "Time": "2023-07-17T20:03:52.4787725+00:00",
       "NumProgressed": 15502,
       "NumCompleted": 325
+    },
+    {
+      "Time": "2023-07-17T21:04:12.8117174+00:00",
+      "NumProgressed": 15508,
+      "NumCompleted": 325
     }
   ],
   "TotalAchievements": 20,
@@ -9625,7 +9630,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 2635
+      "UsersEstimate": 2636
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -9641,7 +9646,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2170
+      "UsersEstimate": 2171
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -9649,7 +9654,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1395
+      "UsersEstimate": 1396
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -9657,7 +9662,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1860
+      "UsersEstimate": 1861
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -9665,7 +9670,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1550
+      "UsersEstimate": 1551
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -9673,7 +9678,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1240
+      "UsersEstimate": 1241
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -9681,7 +9686,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1860
+      "UsersEstimate": 1861
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -9689,7 +9694,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2325
+      "UsersEstimate": 2326
     },
     {
       "ID": "FOUND_ERIN",
@@ -9721,7 +9726,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2015
+      "UsersEstimate": 2016
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -9737,7 +9742,7 @@
       "Name": "Equilibrium",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2015
+      "UsersEstimate": 2016
     },
     {
       "ID": "INTRO_FINISHED",
@@ -9745,7 +9750,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 11782
+      "UsersEstimate": 11786
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -9753,7 +9758,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 4341
+      "UsersEstimate": 4342
     },
     {
       "ID": "NORTH_FINISHED",
@@ -9761,7 +9766,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2170
+      "UsersEstimate": 2171
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -9769,7 +9774,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1086
     },
     {
       "ID": "WEST_FINISHED",
@@ -9777,22 +9782,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 2945
+      "UsersEstimate": 2947
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 15502,
+      "Progressed": 15508,
       "Completed": 325
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-07-17T20:03:52.478772+00:00",
+  "LastChanged_Achievements": "2023-07-17T21:04:12.8117169+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:08.6336222+00:00",
-  "LastUpdate_Ratings": "2023-07-17T20:00:06.1668475+00:00",
-  "LastUpdate_Achievements": "2023-07-17T20:03:52.4788583+00:00"
+  "LastUpdate_Ratings": "2023-07-17T21:00:25.7783954+00:00",
+  "LastUpdate_Achievements": "2023-07-17T21:04:12.8117809+00:00"
 }

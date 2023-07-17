@@ -8,7 +8,7 @@ Rating: 4.39 (Ranked 703)
 | First Blood | 93.00% | ~1,146 |
 | Ranidaphobia | 78.00% | ~961 |
 | Aspiring Editor | 75.00% | ~924 |
-| Gun for Hire | 70.00% | ~862 |
+| Gun for Hire | 71.00% | ~875 |
 | I am the law! | 64.00% | ~788 |
 | Lumberjack | 52.00% | ~641 |
 | Croaked | 48.00% | ~591 |
@@ -26,7 +26,7 @@ Rating: 4.39 (Ranked 703)
 | Jarhead | 33.00% | ~407 |
 | Ganglord | 32.00% | ~394 |
 | Infiltrator | 32.00% | ~394 |
-| Pushing Daisy | 30.00% | ~370 |
+| Pushing Daisy | 31.00% | ~382 |
 | Experienced | 29.00% | ~357 |
 | Hold The Line | 26.00% | ~320 |
 | Endgame | 25.00% | ~308 |

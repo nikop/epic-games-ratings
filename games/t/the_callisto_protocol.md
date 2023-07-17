@@ -30,7 +30,7 @@ Rating: 4.19 (Ranked 848)
 | The Commonality | 1.00% | ~157 |
 | Desperate Times | 1.00% | ~157 |
 | One Last Job | 1.00% | ~37 |
-| In Striking Distance | 0.80% | ~126 |
+| In Striking Distance | 0.90% | ~142 |
 | This Isn't About Escape | 0.60% | ~22 |
 | Armed to the Teeth | 0.50% | ~18 |
 | Information Overload | 0.50% | ~18 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 848)
 | I am the Danger | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,734 (Ranked 109)  
+Progressed: 15,735 (Ranked 109)  
 Completed: 67 (0.43%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 67 (0.43%) (Ranked 133)
 | 2023-07-14 | 15,715 | 66 |
 | 2023-07-15 | 15,725 | 66 |
 | 2023-07-16 | 15,732 | 67 |
-| 2023-07-17 | 15,734 | 67 |
+| 2023-07-17 | 15,735 | 67 |
 ## Awards
 Max (Amazing Storytelling): 70  (Ranked 374)  
 Sum: 390 (Ranked 314)  
