@@ -7206,9 +7206,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 70611,
+  "EOS_Progressed": 70618,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2829,
+  "EOS_NewPlayers": 2823,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16691,6 +16691,11 @@
       "Time": "2023-07-16T23:04:13.0590672+00:00",
       "NumProgressed": 70611,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-17T00:03:44.5764152+00:00",
+      "NumProgressed": 70618,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -17222,7 +17227,7 @@
       "Name": "Cold War",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2824
+      "UsersEstimate": 2825
     },
     {
       "ID": "achievement_colonial_management",
@@ -17318,7 +17323,7 @@
       "Name": "Defender of the Faith",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2118
+      "UsersEstimate": 2119
     },
     {
       "ID": "achievement_definitely_the_sultan_of_rum",
@@ -17894,7 +17899,7 @@
       "Name": "Isn\u0027t this the way to India?",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "achievement_italian_ambition",
@@ -17910,7 +17915,7 @@
       "Name": "It\u0027s all about luck",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2118
+      "UsersEstimate": 2119
     },
     {
       "ID": "achievement_its_all_about_the_money",
@@ -17918,7 +17923,7 @@
       "Name": "It\u0027s all about the money",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2118
+      "UsersEstimate": 2119
     },
     {
       "ID": "achievement_its_all_greek_to_me",
@@ -18198,7 +18203,7 @@
       "Name": "Market Control",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "achievement_marshy_march",
@@ -18638,7 +18643,7 @@
       "Name": "Respected",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2118
+      "UsersEstimate": 2119
     },
     {
       "ID": "achievement_rise_of_the_white_sheep",
@@ -19126,7 +19131,7 @@
       "Name": "The Princess is in this Castle",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2118
+      "UsersEstimate": 2119
     },
     {
       "ID": "achievement_the_re_reconquista",
@@ -19294,7 +19299,7 @@
       "Name": "True Catholic",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2824
+      "UsersEstimate": 2825
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -19310,7 +19315,7 @@
       "Name": "Truly Divine Ruler",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2118
+      "UsersEstimate": 2119
     },
     {
       "ID": "achievement_trustworthy",
@@ -19318,7 +19323,7 @@
       "Name": "Trustworthy",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "achievement_turkish_delight",
@@ -19366,7 +19371,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 6355
+      "UsersEstimate": 6356
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -19533,21 +19538,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 70611,
+      "Progressed": 70618,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 70611,
+      "Progressed": 70618,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-07-16T20:58:10.680784+00:00",
-  "LastChanged_Achievements": "2023-07-16T23:04:13.0590667+00:00",
+  "LastChanged_Achievements": "2023-07-17T00:03:44.5764146+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:17.9711886+00:00",
-  "LastUpdate_Ratings": "2023-07-16T22:57:43.0595291+00:00",
-  "LastUpdate_Achievements": "2023-07-16T23:04:13.0602441+00:00"
+  "LastUpdate_Ratings": "2023-07-16T23:57:32.0744284+00:00",
+  "LastUpdate_Achievements": "2023-07-17T00:03:44.5776379+00:00"
 }

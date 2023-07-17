@@ -6,21 +6,21 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 48.00% | ~1,695,758 |
-| Easy to forget | 46.00% | ~1,625,102 |
-| Back in the black | 39.00% | ~1,377,804 |
-| That's what I'm talking about | 28.00% | ~989,192 |
-| The Best of Both Worlds | 25.00% | ~883,208 |
-| Get your wings | 20.00% | ~706,566 |
-| Double trouble | 15.00% | ~529,924 |
-| Smashing it | 10.00% | ~353,283 |
-| But can it run Crysis? | 9.00% | ~317,955 |
-| My favourite feature... | 9.00% | ~317,955 |
-| From humble beginnings... | 7.00% | ~247,298 |
-| Customer satisfaction | 7.00% | ~247,298 |
-| Keeping things neat | 4.00% | ~141,313 |
-| Seems you're pretty good at this | 4.00% | ~141,313 |
-| Bending over backwards | 4.00% | ~141,313 |
+| You need to plug it in... | 48.00% | ~1,695,765 |
+| Easy to forget | 46.00% | ~1,625,108 |
+| Back in the black | 39.00% | ~1,377,809 |
+| That's what I'm talking about | 28.00% | ~989,196 |
+| The Best of Both Worlds | 25.00% | ~883,211 |
+| Get your wings | 20.00% | ~706,569 |
+| Double trouble | 15.00% | ~529,927 |
+| Smashing it | 10.00% | ~353,284 |
+| But can it run Crysis? | 9.00% | ~317,956 |
+| My favourite feature... | 9.00% | ~317,956 |
+| From humble beginnings... | 7.00% | ~247,299 |
+| Customer satisfaction | 7.00% | ~247,299 |
+| Keeping things neat | 4.00% | ~141,314 |
+| Seems you're pretty good at this | 4.00% | ~141,314 |
+| Bending over backwards | 4.00% | ~141,314 |
 | Triple threat | 3.00% | ~105,985 |
 | You rock at this! | 3.00% | ~105,985 |
 | Your music sucks | 3.00% | ~105,985 |
@@ -37,17 +37,17 @@ Number of Ratings: 12,155  (23.09.2022)
 | Building isn't cheap! | 1.00% | ~35,328 |
 | Majority Shareholder | 1.00% | ~35,328 |
 | Owner | 1.00% | ~35,328 |
-| Show off | 0.90% | ~31,795 |
+| Show off | 0.90% | ~31,796 |
 | Work ethic 101 | 0.70% | ~24,730 |
 | Building momentum | 0.60% | ~21,197 |
 | Lead by example | 0.50% | ~17,664 |
 | Treat yourself - RAM | 0.50% | ~17,664 |
-| So you're the reason why the prices are so high? | 0.30% | ~10,598 |
-| Mr big business | 0.30% | ~10,598 |
-| Mister Big | 0.30% | ~10,598 |
-| Getting your feet wet | 0.30% | ~10,598 |
-| Customer's ALWAYS right. | 0.30% | ~10,598 |
-| Treat yourself - CPU | 0.30% | ~10,598 |
+| So you're the reason why the prices are so high? | 0.30% | ~10,599 |
+| Mr big business | 0.30% | ~10,599 |
+| Mister Big | 0.30% | ~10,599 |
+| Getting your feet wet | 0.30% | ~10,599 |
+| Customer's ALWAYS right. | 0.30% | ~10,599 |
+| Treat yourself - CPU | 0.30% | ~10,599 |
 | 1920x1080 | 0.20% | ~7,066 |
 | Blow 'em away | 0.20% | ~7,066 |
 | Hasta La Vista, Baby. | 0.10% | ~3,533 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,533 |
 | Treat yourself - GPU | 0.10% | ~3,533 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,532,830 (Ranked 4)  
+Progressed: 3,532,844 (Ranked 4)  
 Completed: 29 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,6 +147,7 @@ Completed: 29 (0.00%) (Ranked 236)
 | 2023-07-14 | 3,531,846 | 28 |
 | 2023-07-15 | 3,532,364 | 29 |
 | 2023-07-16 | 3,532,830 | 29 |
+| 2023-07-17 | 3,532,844 | 29 |
 ## Awards
 Max (Great for Beginners): 1,052  (Ranked 138)  
 Sum: 7,882 (Ranked 97)  

@@ -5,24 +5,24 @@ Rating: 4.26 (Ranked 804)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~151,952 |
-| Copacetic Coordination | 16.00% | ~52,853 |
-| Fronting the Money | 14.00% | ~46,246 |
-| The Dawn of Automation | 14.00% | ~46,246 |
-| Extraordinary Logistics | 14.00% | ~46,246 |
-| Dirty Money | 13.00% | ~42,943 |
-| Family First | 13.00% | ~42,943 |
+| Corner Clout | 46.00% | ~151,955 |
+| Copacetic Coordination | 16.00% | ~52,854 |
+| Fronting the Money | 14.00% | ~46,247 |
+| The Dawn of Automation | 14.00% | ~46,247 |
+| Extraordinary Logistics | 14.00% | ~46,247 |
+| Dirty Money | 13.00% | ~42,944 |
+| Family First | 13.00% | ~42,944 |
 | Cleaning House | 12.00% | ~39,640 |
 | Room in the Back | 12.00% | ~39,640 |
-| Booze Baron | 11.00% | ~36,336 |
-| Beating the Heat | 10.00% | ~33,033 |
-| Friends on the Force | 10.00% | ~33,033 |
-| Neighborhood Watch | 10.00% | ~33,033 |
-| Core Corps | 8.00% | ~26,426 |
-| Sizeable Stash | 8.00% | ~26,426 |
-| Street Fighter | 7.00% | ~23,123 |
-| Friendly Gestures | 7.00% | ~23,123 |
-| People Person | 7.00% | ~23,123 |
+| Booze Baron | 11.00% | ~36,337 |
+| Beating the Heat | 10.00% | ~33,034 |
+| Friends on the Force | 10.00% | ~33,034 |
+| Neighborhood Watch | 10.00% | ~33,034 |
+| Core Corps | 8.00% | ~26,427 |
+| Sizeable Stash | 8.00% | ~26,427 |
+| Street Fighter | 7.00% | ~23,124 |
+| Friendly Gestures | 7.00% | ~23,124 |
+| People Person | 7.00% | ~23,124 |
 | Liquor Lord | 6.00% | ~19,820 |
 | Safety in Numbers | 6.00% | ~19,820 |
 | Show ‘em the Sugar | 6.00% | ~19,820 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 804)
 | High Pillow | 0.10% | ~330 |
 | Station Master | 0.10% | ~330 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 330,331 (Ranked 40)  
+Progressed: 330,337 (Ranked 40)  
 Completed: 5 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,6 +174,7 @@ Completed: 5 (0.00%) (Ranked 236)
 | 2023-07-14 | 329,730 | 5 |
 | 2023-07-15 | 330,022 | 5 |
 | 2023-07-16 | 330,331 | 5 |
+| 2023-07-17 | 330,337 | 5 |
 ## Awards
 Max (Highly Recommended): 27  (Ranked 466)  
 Sum: 120 (Ranked 400)  

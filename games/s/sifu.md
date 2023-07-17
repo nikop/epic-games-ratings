@@ -45,8 +45,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | The 36th Chamber of Kung-Fu | 0.50% | ~3,554 |
 | Sword Stained With Blood | 0.50% | ~3,554 |
 | Knowledge Greed | 0.40% | ~2,843 |
-| Martial Hub | 0.40% | ~80 |
-| Secure, Protect, Leave | 0.40% | ~80 |
+| Martial Hub | 0.40% | ~81 |
+| Secure, Protect, Leave | 0.40% | ~81 |
 | Drunken Fighter | 0.30% | ~2,132 |
 | Martial Artist | 0.30% | ~2,132 |
 | Healing Memory | 0.30% | ~2,132 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,422 |
 | Warriors from the Mountain | 0.10% | ~711 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 710,824 (Ranked 17)  
+Progressed: 710,825 (Ranked 17)  
 Completed: 12,819 (1.80%) (Ranked 80)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,6 +145,7 @@ Completed: 12,819 (1.80%) (Ranked 80)
 | 2023-07-14 | 710,744 | 12,816 |
 | 2023-07-15 | 710,780 | 12,819 |
 | 2023-07-16 | 710,824 | 12,819 |
+| 2023-07-17 | 710,825 | 12,819 |
 ## Awards
 Max (Great Boss Battles): 6,273  (Ranked 53)  
 Sum: 10,750 (Ranked 79)  

@@ -5,7 +5,7 @@
   "Ranking_Rating": 902,
   "Ranking_Popularity": 66,
   "Ranking_PopularitySum": 38,
-  "Ranking_EOS_Progress": 52,
+  "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 102,
   "Ranking_EOS_NewPlayers": 27,
   "Ranking_EOS_NewCompleters": 15,
@@ -5020,9 +5020,9 @@
       "Count": 3303
     }
   ],
-  "EOS_Progressed": 212501,
+  "EOS_Progressed": 212512,
   "EOS_Completed": 2055,
-  "EOS_NewPlayers": 3117,
+  "EOS_NewPlayers": 3112,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -14350,6 +14350,11 @@
       "Time": "2023-07-16T23:06:05.1087521+00:00",
       "NumProgressed": 212501,
       "NumCompleted": 2055
+    },
+    {
+      "Time": "2023-07-17T00:05:15.4373952+00:00",
+      "NumProgressed": 212512,
+      "NumCompleted": 2055
     }
   ],
   "TotalAchievements": 507,
@@ -17543,9 +17548,9 @@
       "ID": "objective_completed_75",
       "SetID": "cc37lbc",
       "Name": "Lost in the Deep",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 425
     },
     {
       "ID": "objective_completed_76",
@@ -18416,21 +18421,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 178775,
+      "Progressed": 178786,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 212501,
+      "Progressed": 212512,
       "Completed": 2055
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-16T20:59:03.4305379+00:00",
-  "LastChanged_Achievements": "2023-07-16T23:06:05.1087515+00:00",
+  "LastChanged_Achievements": "2023-07-17T00:05:15.4373946+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:48.5227447+00:00",
-  "LastUpdate_Ratings": "2023-07-16T22:58:26.8106694+00:00",
-  "LastUpdate_Achievements": "2023-07-16T23:06:05.1117609+00:00"
+  "LastUpdate_Ratings": "2023-07-16T23:58:07.1440692+00:00",
+  "LastUpdate_Achievements": "2023-07-17T00:05:15.4402707+00:00"
 }

@@ -36,8 +36,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Toxic | 33.00% | ~76,756 |
 | Who To Trust? | 32.00% | ~74,430 |
 | Flesh Wound | 29.00% | ~67,453 |
+| Stone Touch | 28.00% | ~65,127 |
 | Walk It Off | 27.00% | ~62,801 |
-| Stone Touch | 27.00% | ~62,801 |
 | Acid Bath | 27.00% | ~62,801 |
 | New Perspectives | 27.00% | ~62,801 |
 | Shadow Walker | 27.00% | ~62,801 |

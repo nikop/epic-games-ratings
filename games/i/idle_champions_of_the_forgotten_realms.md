@@ -23,6 +23,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Close Escort | 0.20% | ~425 |
 | Constant Banditry | 0.20% | ~425 |
 | Waterdeep Detours | 0.20% | ~425 |
+| Lost in the Deep | 0.20% | ~425 |
 | Easily Distracted | 0.20% | ~425 |
 | Underdeep Cartography | 0.20% | ~425 |
 | Friendly Imps | 0.20% | ~425 |
@@ -213,7 +214,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mirage Arcane | 0.10% | ~179 |
 | Only Human | 0.10% | ~179 |
 | The Long Haul | 0.10% | ~213 |
-| Lost in the Deep | 0.10% | ~213 |
 | Rude Welcome | 0.10% | ~213 |
 | Moose Tracks | 0.10% | ~179 |
 | An Awakened Axe | 0.10% | ~179 |
@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212,501 (Ranked 52)  
+Progressed: 212,512 (Ranked 53)  
 Completed: 2,055 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -602,6 +602,7 @@ Completed: 2,055 (0.97%) (Ranked 102)
 | 2023-07-14 | 211,507 | 2,050 |
 | 2023-07-15 | 212,014 | 2,053 |
 | 2023-07-16 | 212,501 | 2,055 |
+| 2023-07-17 | 212,512 | 2,055 |
 ## Awards
 Max (Diverse Characters): 5,036  (Ranked 66)  
 Sum: 30,550 (Ranked 38)  

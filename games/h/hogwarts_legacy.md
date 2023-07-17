@@ -11,25 +11,25 @@ Rating: 4.77 (Ranked 108)
 | A Keen Sense of Spell | 9.00% | ~25,901 |
 | A Talent for Spending | 9.00% | ~25,901 |
 | That's a Keeper | 9.00% | ~25,901 |
-| Grappling with a Graphorn | 8.00% | ~23,023 |
-| The One Who Mastered Memories | 8.00% | ~23,023 |
-| The Hallowed Hero | 8.00% | ~23,023 |
-| The Hero of Hogwarts | 8.00% | ~23,023 |
-| The Defender of Dragons | 8.00% | ~23,023 |
-| Challenge Accepted | 8.00% | ~23,023 |
-| Loom for Improvement | 8.00% | ~23,023 |
-| Coasting Along | 8.00% | ~23,023 |
-| Followed the Butterflies | 7.00% | ~20,145 |
-| The Spell Master | 7.00% | ~20,145 |
-| Rising From the Ashes | 7.00% | ~20,145 |
-| The Avenging Gazelle | 6.00% | ~17,267 |
-| Beast Friends | 6.00% | ~17,267 |
-| A Sallow Grave | 6.00% | ~17,267 |
-| Flight the Good Flight | 6.00% | ~17,267 |
-| The Seeker of Knowledge | 5.00% | ~14,389 |
-| The Root of the Problem | 5.00% | ~14,389 |
-| Third Time's a Charm | 5.00% | ~14,389 |
-| Raising Expectations | 5.00% | ~14,389 |
+| Grappling with a Graphorn | 8.00% | ~23,024 |
+| The One Who Mastered Memories | 8.00% | ~23,024 |
+| The Hallowed Hero | 8.00% | ~23,024 |
+| The Hero of Hogwarts | 8.00% | ~23,024 |
+| The Defender of Dragons | 8.00% | ~23,024 |
+| Challenge Accepted | 8.00% | ~23,024 |
+| Loom for Improvement | 8.00% | ~23,024 |
+| Coasting Along | 8.00% | ~23,024 |
+| Followed the Butterflies | 7.00% | ~20,146 |
+| The Spell Master | 7.00% | ~20,146 |
+| Rising From the Ashes | 7.00% | ~20,146 |
+| The Avenging Gazelle | 6.00% | ~17,268 |
+| Beast Friends | 6.00% | ~17,268 |
+| A Sallow Grave | 6.00% | ~17,268 |
+| Flight the Good Flight | 6.00% | ~17,268 |
+| The Seeker of Knowledge | 5.00% | ~14,390 |
+| The Root of the Problem | 5.00% | ~14,390 |
+| Third Time's a Charm | 5.00% | ~14,390 |
+| Raising Expectations | 5.00% | ~14,390 |
 | The Ends Petrify the Means | 4.00% | ~11,512 |
 | The Toast of the Town | 3.00% | ~8,634 |
 | Going Through the Potions | 3.00% | ~8,634 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.50% | ~1,439 |
 | Collector's Edition | 0.20% | ~576 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 287,788 (Ranked 41)  
+Progressed: 287,794 (Ranked 41)  
 Completed: 429 (0.15%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,9 +139,10 @@ Completed: 429 (0.15%) (Ranked 173)
 | 2023-07-14 | 287,497 | 426 |
 | 2023-07-15 | 287,613 | 428 |
 | 2023-07-16 | 287,788 | 429 |
+| 2023-07-17 | 287,794 | 429 |
 ## Awards
 Max (Character Customization): 21,005  (Ranked 17)  
-Sum: 39,320 (Ranked 30)  
+Sum: 39,322 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -155,7 +156,7 @@ Diff (max vs sum): -13
 | This game has Amazing Characters | 861 |
 | This game is Highly Recommended | 835 |
 | This game has Quickly Understood Controls | 792 |
-| This game has Beautiful Visuals | 736 |
+| This game has Beautiful Visuals | 738 |
 | This game has a Creative Community | 560 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -274,4 +275,4 @@ Diff (max vs sum): -13
 | 2023-07-13 | 4.77 | 20,943 | 39,111 |
 | 2023-07-14 | 4.77 | 20,971 | 39,184 |
 | 2023-07-15 | 4.77 | 20,971 | 39,239 |
-| 2023-07-16 | 4.77 | 21,005 | 39,320 |
+| 2023-07-16 | 4.77 | 21,005 | 39,322 |

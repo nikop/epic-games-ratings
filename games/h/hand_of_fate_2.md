@@ -6,28 +6,28 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~474,760 |
-| Apprentice | 58.00% | ~382,446 |
-| Close Shave | 25.00% | ~164,847 |
-| Mercenary | 23.00% | ~151,659 |
-| Ninja | 23.00% | ~151,659 |
-| Northern Scourge | 17.00% | ~112,096 |
-| Thief Bane | 14.00% | ~92,314 |
+| The Fool | 72.00% | ~474,764 |
+| Apprentice | 58.00% | ~382,449 |
+| Close Shave | 25.00% | ~164,849 |
+| Mercenary | 23.00% | ~151,661 |
+| Ninja | 23.00% | ~151,661 |
+| Northern Scourge | 17.00% | ~112,097 |
+| Thief Bane | 14.00% | ~92,315 |
 | Master of Arms | 12.00% | ~79,127 |
-| Gambler | 10.00% | ~65,939 |
-| Dice Master | 10.00% | ~65,939 |
-| Swordsman | 9.00% | ~59,345 |
-| Knight | 8.00% | ~52,751 |
-| Cure for Corruption | 8.00% | ~52,751 |
-| Focused | 8.00% | ~52,751 |
-| Flurry of Fury | 8.00% | ~52,751 |
-| Long Shot | 7.00% | ~46,157 |
-| Devil Dice | 7.00% | ~46,157 |
-| Broken Heart | 7.00% | ~46,157 |
-| Adventurer | 6.00% | ~39,563 |
-| Empire's Bane | 6.00% | ~39,563 |
-| Jack of all Trades | 5.00% | ~32,969 |
-| Smithy | 5.00% | ~32,969 |
+| Gambler | 10.00% | ~65,940 |
+| Dice Master | 10.00% | ~65,940 |
+| Swordsman | 9.00% | ~59,346 |
+| Knight | 8.00% | ~52,752 |
+| Cure for Corruption | 8.00% | ~52,752 |
+| Focused | 8.00% | ~52,752 |
+| Flurry of Fury | 8.00% | ~52,752 |
+| Long Shot | 7.00% | ~46,158 |
+| Devil Dice | 7.00% | ~46,158 |
+| Broken Heart | 7.00% | ~46,158 |
+| Adventurer | 6.00% | ~39,564 |
+| Empire's Bane | 6.00% | ~39,564 |
+| Jack of all Trades | 5.00% | ~32,970 |
+| Smithy | 5.00% | ~32,970 |
 | Leap of Faith | 3.00% | ~19,782 |
 | Combat Ready | 3.00% | ~19,782 |
 | Stuffed Potato | 3.00% | ~19,782 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~659 |
 | Blood Pact | 0.10% | ~659 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 659,389 (Ranked 22)  
+Progressed: 659,395 (Ranked 22)  
 Completed: 165 (0.03%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,6 +143,7 @@ Completed: 165 (0.03%) (Ranked 208)
 | 2023-07-14 | 659,288 | 165 |
 | 2023-07-15 | 659,342 | 165 |
 | 2023-07-16 | 659,389 | 165 |
+| 2023-07-17 | 659,395 | 165 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 435)  
 Sum: 180 (Ranked 373)  

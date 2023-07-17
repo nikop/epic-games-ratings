@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 466,
+  "EOS_Progressed": 467,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
@@ -1621,6 +1621,11 @@
       "Time": "2023-07-16T19:06:20.5363857+00:00",
       "NumProgressed": 466,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-17T00:04:46.5454404+00:00",
+      "NumProgressed": 467,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1744,7 +1749,7 @@
       "Name": "Corporal",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -1808,7 +1813,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -1830,9 +1835,9 @@
       "ID": "objective_key_drone_missions_completed_3",
       "SetID": "bm61c2p",
       "Name": "Seek \u0026 Destroy",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 5
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_3",
@@ -1886,9 +1891,9 @@
       "ID": "objective_multiple_turrets_2",
       "SetID": "bm61c2p",
       "Name": "Defenses Online",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 187
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -1902,9 +1907,9 @@
       "ID": "objective_research_unlock_ground_vehicle_tier_4",
       "SetID": "bm61c2p",
       "Name": "Titan Tanks",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 5
     },
     {
       "ID": "objective_research_unlock_heavy_infantry_tier_4",
@@ -1935,14 +1940,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 466,
+      "Progressed": 467,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-16T23:05:30.0819241+00:00",
+  "LastChanged_Achievements": "2023-07-17T00:04:46.5454397+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:28.9258865+00:00",
-  "LastUpdate_Ratings": "2023-07-16T23:00:48.4089441+00:00",
-  "LastUpdate_Achievements": "2023-07-16T23:05:30.0819629+00:00"
+  "LastUpdate_Ratings": "2023-07-16T23:59:58.9541307+00:00",
+  "LastUpdate_Achievements": "2023-07-17T00:04:46.5454777+00:00"
 }
