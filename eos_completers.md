@@ -22,7 +22,7 @@
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.20% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 23 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 9.52% |
+| 23 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 9.30% |
 | 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.69% |
 | 25 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
 | 26 | [Smelter](games/s/smelter.md) | 8.11% |
@@ -36,7 +36,7 @@
 | 34 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 35 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.66% |
 | 36 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
-| 37 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.03% |
+| 37 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.02% |
 | 38 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.88% |
 | 39 | [JARS](games/j/jars.md) | 4.84% |
 | 40 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.76% |
@@ -46,8 +46,8 @@
 | 44 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.29% |
 | 45 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.86% |
 | 46 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.75% |
-| 47 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.65% |
-| 48 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
+| 47 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
+| 48 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.62% |
 | 49 | [ZZT!](games/z/zzt!.md) | 3.55% |
 | 50 | [Doodle God](games/d/doodle_god.md) | 3.54% |
 | 51 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.52% |
@@ -106,7 +106,7 @@
 | 104 | [Adios](games/a/adios.md) | 0.96% |
 | 105 | [Hades](games/h/hades.md) | 0.89% |
 | 106 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
-| 107 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
+| 107 | [Dungeons 3](games/d/dungeons_3.md) | 0.84% |
 | 108 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.78% |
 | 109 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
 | 109 | [Lemon Cake](games/l/lemon_cake.md) | 0.76% |
