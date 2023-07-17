@@ -2,10 +2,10 @@
   "ID": "c5a7105b5a09460b9bc3bfb9c8e5e719",
   "Name": "MidEvil",
   "ProductSlug": "midevil-ceab3e",
-  "Ranking_EOS_Progress": 495,
+  "Ranking_EOS_Progress": 496,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
     "PcReleaseDate": "2023-09-30T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-12T03:57:12.8989928+00:00",
-  "LastUpdate_Ratings": "2023-07-17T08:57:53.7267762+00:00",
-  "LastUpdate_Achievements": "2023-07-17T09:05:20.9796037+00:00"
+  "LastUpdate_Ratings": "2023-07-17T09:57:40.7003194+00:00",
+  "LastUpdate_Achievements": "2023-07-17T10:05:51.5631875+00:00"
 }

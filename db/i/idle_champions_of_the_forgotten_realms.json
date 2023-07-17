@@ -5020,9 +5020,9 @@
       "Count": 3303
     }
   ],
-  "EOS_Progressed": 212622,
+  "EOS_Progressed": 212636,
   "EOS_Completed": 2056,
-  "EOS_NewPlayers": 3090,
+  "EOS_NewPlayers": 3095,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -14395,6 +14395,11 @@
       "Time": "2023-07-17T09:06:19.8069023+00:00",
       "NumProgressed": 212622,
       "NumCompleted": 2056
+    },
+    {
+      "Time": "2023-07-17T10:07:16.6933811+00:00",
+      "NumProgressed": 212636,
+      "NumCompleted": 2056
     }
   ],
   "TotalAchievements": 507,
@@ -16076,9 +16081,9 @@
       "ID": "objective_completed_3",
       "SetID": "cc37lbc",
       "Name": "The Cursed Farmer",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 638
+      "UsersEstimate": 851
     },
     {
       "ID": "objective_completed_34",
@@ -16588,9 +16593,9 @@
       "ID": "objective_completed_545",
       "SetID": "cc37lbc",
       "Name": "The Dead Three",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 425
     },
     {
       "ID": "objective_completed_546",
@@ -18461,21 +18466,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 178896,
+      "Progressed": 178910,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 212622,
+      "Progressed": 212636,
       "Completed": 2056
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-16T20:59:03.4305379+00:00",
-  "LastChanged_Achievements": "2023-07-17T09:06:19.8069018+00:00",
+  "LastChanged_Achievements": "2023-07-17T10:07:16.6933806+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:48.5227447+00:00",
-  "LastUpdate_Ratings": "2023-07-17T08:58:51.3587277+00:00",
-  "LastUpdate_Achievements": "2023-07-17T09:06:19.8094997+00:00"
+  "LastUpdate_Ratings": "2023-07-17T09:59:03.9920587+00:00",
+  "LastUpdate_Achievements": "2023-07-17T10:07:16.6988271+00:00"
 }

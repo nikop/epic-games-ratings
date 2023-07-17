@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 0.30% | ~638 |
+| The Cursed Farmer | 0.40% | ~851 |
 | The Ring of Regeneration | 0.30% | ~638 |
 | The Crumbling Temple | 0.30% | ~638 |
 | Seeking Allies | 0.30% | ~638 |
@@ -21,6 +21,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Useless Allies | 0.20% | ~425 |
 | Exploring Port Nyanzaru | 0.20% | ~425 |
 | A Tale of Two Cities | 0.20% | ~425 |
+| The Dead Three | 0.20% | ~425 |
 | Flying Monkey Skulls of Doom | 0.20% | ~425 |
 | Running of the Saurs | 0.20% | ~425 |
 | Close Escort | 0.20% | ~425 |
@@ -99,7 +100,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tale of Two Fiends | 0.10% | ~213 |
 | A Tale of Two Champions | 0.10% | ~213 |
 | A Tale of Two Years | 0.10% | ~179 |
-| The Dead Three | 0.10% | ~213 |
 | Slow and Steady | 0.10% | ~213 |
 | A Hero's Entourage | 0.10% | ~213 |
 | Sneak Attack | 0.10% | ~179 |
@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212,622 (Ranked 53)  
+Progressed: 212,636 (Ranked 53)  
 Completed: 2,056 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -602,7 +602,7 @@ Completed: 2,056 (0.97%) (Ranked 102)
 | 2023-07-14 | 211,507 | 2,050 |
 | 2023-07-15 | 212,014 | 2,053 |
 | 2023-07-16 | 212,501 | 2,055 |
-| 2023-07-17 | 212,622 | 2,056 |
+| 2023-07-17 | 212,636 | 2,056 |
 ## Awards
 Max (Diverse Characters): 5,036  (Ranked 66)  
 Sum: 30,550 (Ranked 38)  

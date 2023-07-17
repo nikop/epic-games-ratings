@@ -3,9 +3,9 @@
   "Name": "Jennifer Wilde Unlikely Revolutionaries",
   "ProductSlug": "jennifer-wilde-unlikely-revolutionaries-7eda5e",
   "Ranking_EOS_Progress": 351,
-  "Ranking_EOS_Completed": 38,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_Completed": 39,
+  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-06-09T11:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 40,
+  "EOS_Progressed": 41,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5,
+  "EOS_Completed_Percentage": 4.88,
   "EosHistory": [
     {
       "Time": "2023-05-23T11:00:16.5750246+00:00",
@@ -216,6 +216,11 @@
       "Time": "2023-07-14T13:20:18.7860074+00:00",
       "NumProgressed": 40,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-17T10:06:27.07161+00:00",
+      "NumProgressed": 41,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 10,
@@ -225,17 +230,17 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "1ejicho",
       "Name": "Clothes Hunter",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "1ejicho",
       "Name": "Con Artist",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -257,7 +262,7 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "1ejicho",
       "Name": "I Ain\u0027t Afraid of No Ghost",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 100,
       "UsersEstimate": 5
     },
@@ -265,7 +270,7 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "1ejicho",
       "Name": "Exorcist",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 100,
       "UsersEstimate": 7
     },
@@ -306,14 +311,14 @@
     {
       "ID": "1ejicho",
       "IsBase": true,
-      "Progressed": 40,
+      "Progressed": 41,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-06-11T16:59:26.254378+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:12.1227021+00:00",
-  "LastChanged_Achievements": "2023-07-17T09:05:46.2083827+00:00",
+  "LastChanged_Achievements": "2023-07-17T10:06:27.0716092+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:02.8881372+00:00",
-  "LastUpdate_Ratings": "2023-07-17T08:59:44.64228+00:00",
-  "LastUpdate_Achievements": "2023-07-17T09:05:46.2083937+00:00"
+  "LastUpdate_Ratings": "2023-07-17T10:00:18.43861+00:00",
+  "LastUpdate_Achievements": "2023-07-17T10:06:27.0716236+00:00"
 }

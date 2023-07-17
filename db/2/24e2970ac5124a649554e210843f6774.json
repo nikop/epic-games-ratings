@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-06-06T13:30:00+00:00",
     "PcReleaseDate": "2022-12-08T04:00:00+00:00",
@@ -295,9 +295,9 @@
       "ID": "defeat_level_9",
       "SetID": "7k8abkg",
       "Name": "Ep9: A Rift in the Rangers Part 1",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "weapon_grandmaster_accursedcoffin",
@@ -534,8 +534,8 @@
   ],
   "FirstSeen": "2023-07-03T08:57:11.4691999+00:00",
   "FirstSeenAchievements": "2023-06-06T14:01:35.6862615+00:00",
-  "LastChanged_Achievements": "2023-07-17T09:05:55.9201957+00:00",
+  "LastChanged_Achievements": "2023-07-17T10:06:41.4721717+00:00",
   "LastUpdate_AppInfo": "2023-07-11T16:57:13.9447987+00:00",
-  "LastUpdate_Ratings": "2023-07-17T08:57:45.7435189+00:00",
-  "LastUpdate_Achievements": "2023-07-17T09:05:55.9202466+00:00"
+  "LastUpdate_Ratings": "2023-07-17T09:57:28.564478+00:00",
+  "LastUpdate_Achievements": "2023-07-17T10:06:41.4722687+00:00"
 }

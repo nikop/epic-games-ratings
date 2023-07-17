@@ -2,10 +2,10 @@
   "ID": "a26ff1db5a6648c68a235f86013da7d7",
   "Name": "Damn Zombies",
   "ProductSlug": "zone-of-fear-b477e3",
-  "Ranking_EOS_Progress": 495,
+  "Ranking_EOS_Progress": 496,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-15T03:22:10.3064271+00:00",
-  "LastUpdate_Ratings": "2023-07-17T08:58:28.4953466+00:00",
-  "LastUpdate_Achievements": "2023-07-17T09:06:09.0848371+00:00"
+  "LastUpdate_Ratings": "2023-07-17T09:58:28.3611435+00:00",
+  "LastUpdate_Achievements": "2023-07-17T10:07:00.8287485+00:00"
 }

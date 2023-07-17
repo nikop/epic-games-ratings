@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -3704,9 +3704,9 @@
       "ID": "A39",
       "SetID": "9b7p7eo",
       "Name": "Bold and beautiful",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 174
+      "UsersEstimate": 190
     },
     {
       "ID": "A40",
@@ -3841,8 +3841,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-07-15T13:11:52.2660049+00:00",
-  "LastChanged_Achievements": "2023-07-17T09:01:08.5266097+00:00",
+  "LastChanged_Achievements": "2023-07-17T10:02:23.5032902+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:48.1822596+00:00",
-  "LastUpdate_Ratings": "2023-07-17T08:58:50.9598256+00:00",
-  "LastUpdate_Achievements": "2023-07-17T09:01:08.526688+00:00"
+  "LastUpdate_Ratings": "2023-07-17T09:59:03.3017321+00:00",
+  "LastUpdate_Achievements": "2023-07-17T10:02:23.5034167+00:00"
 }

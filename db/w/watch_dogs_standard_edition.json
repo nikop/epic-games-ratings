@@ -3,12 +3,12 @@
   "Name": "Watch Dogs Standard Edition",
   "ProductSlug": "watch-dogs",
   "Ranking_Rating": 457,
-  "Ranking_Popularity": 392,
-  "Ranking_PopularitySum": 318,
-  "Ranking_EOS_Progress": 495,
+  "Ranking_Popularity": 391,
+  "Ranking_PopularitySum": 317,
+  "Ranking_EOS_Progress": 496,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2020-03-19T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1438,11 +1438,17 @@
       "Rating": 4.56,
       "NumberOfAwards": 378,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2023-07-17T10:02:10.4517524+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 380,
+      "NumberOfAwardsMax": 56
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 378,
-  "NumberOfAwardsMax": 54,
+  "NumberOfAwards": 380,
+  "NumberOfAwardsMax": 56,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
     {
@@ -1467,7 +1473,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 54
+      "Count": 56
     },
     {
       "Text": "This game is Relaxing",
@@ -1529,8 +1535,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:01.9847852+00:00",
-  "LastChanged": "2023-07-16T02:38:53.7143973+00:00",
+  "LastChanged": "2023-07-17T10:02:10.4517522+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:38.6384986+00:00",
-  "LastUpdate_Ratings": "2023-07-17T09:01:00.9667876+00:00",
-  "LastUpdate_Achievements": "2023-07-17T09:05:50.0788739+00:00"
+  "LastUpdate_Ratings": "2023-07-17T10:02:10.4517528+00:00",
+  "LastUpdate_Achievements": "2023-07-17T10:06:32.8058057+00:00"
 }

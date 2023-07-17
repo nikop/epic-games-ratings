@@ -2,10 +2,10 @@
   "ID": "c60a8dddde654b79b9c538ef246ed8ee",
   "Name": "Cassiodora",
   "ProductSlug": "cassiodora-090292",
-  "Ranking_EOS_Progress": 495,
+  "Ranking_EOS_Progress": 496,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-12-15T16:00:00+00:00",
     "PcReleaseDate": "2022-12-15T16:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-15T03:57:52.6723599+00:00",
-  "LastUpdate_Ratings": "2023-07-17T09:00:22.7297489+00:00",
-  "LastUpdate_Achievements": "2023-07-17T09:03:30.6576122+00:00"
+  "LastUpdate_Ratings": "2023-07-17T10:01:15.8319094+00:00",
+  "LastUpdate_Achievements": "2023-07-17T10:03:21.7577328+00:00"
 }

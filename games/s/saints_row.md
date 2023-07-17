@@ -6,29 +6,29 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 36.00% | ~19,408 |
-| To The Nines | 33.00% | ~17,790 |
-| Optimized | 28.00% | ~15,095 |
-| Performance Review | 28.00% | ~15,095 |
-| Tune Up | 26.00% | ~14,017 |
-| Making a Name | 26.00% | ~14,017 |
-| Landlord | 25.00% | ~13,478 |
-| The Side Job | 24.00% | ~12,938 |
-| Wet Work | 24.00% | ~12,938 |
-| Wrecking Ball | 21.00% | ~11,321 |
-| Food for Thought | 21.00% | ~11,321 |
-| Finders Keepers | 19.00% | ~10,243 |
-| A Young Empire | 19.00% | ~10,243 |
-| Work Ethic | 18.00% | ~9,704 |
-| Picking Fights | 15.00% | ~8,086 |
-| Quality Time | 14.00% | ~7,547 |
-| Power Players | 14.00% | ~7,547 |
-| Showdown | 12.00% | ~6,469 |
-| Et tu? | 12.00% | ~6,469 |
-| Took It to The Limit | 12.00% | ~6,469 |
-| Kitted Out | 11.00% | ~5,930 |
-| Masters of Santo Ileso | 9.00% | ~4,852 |
-| Hijacked | 8.00% | ~4,313 |
+| First F#@!ing Day | 36.00% | ~19,411 |
+| To The Nines | 33.00% | ~17,794 |
+| Optimized | 28.00% | ~15,098 |
+| Performance Review | 28.00% | ~15,098 |
+| Tune Up | 26.00% | ~14,019 |
+| Making a Name | 26.00% | ~14,019 |
+| Landlord | 25.00% | ~13,480 |
+| The Side Job | 24.00% | ~12,941 |
+| Wet Work | 24.00% | ~12,941 |
+| Wrecking Ball | 21.00% | ~11,323 |
+| Food for Thought | 21.00% | ~11,323 |
+| Finders Keepers | 19.00% | ~10,245 |
+| A Young Empire | 19.00% | ~10,245 |
+| Work Ethic | 18.00% | ~9,706 |
+| Picking Fights | 15.00% | ~8,088 |
+| Quality Time | 14.00% | ~7,549 |
+| Power Players | 14.00% | ~7,549 |
+| Showdown | 12.00% | ~6,470 |
+| Et tu? | 12.00% | ~6,470 |
+| Took It to The Limit | 12.00% | ~6,470 |
+| Kitted Out | 11.00% | ~5,931 |
+| Masters of Santo Ileso | 9.00% | ~4,853 |
+| Hijacked | 8.00% | ~4,314 |
 | The Spins | 7.00% | ~3,774 |
 | The Mechanic | 7.00% | ~3,774 |
 | Closet Space | 6.00% | ~3,235 |
@@ -36,16 +36,16 @@ Number of Ratings: 22,103  (23.09.2022)
 | We could go home, or… | 5.00% | ~2,696 |
 | Challenge Accepted | 5.00% | ~2,696 |
 | A Golden Age | 5.00% | ~2,696 |
-| Face Off | 5.00% | ~1,277 |
-| The Professional | 4.00% | ~2,156 |
-| Chaos Tamer | 4.00% | ~2,156 |
-| Untouchable | 4.00% | ~2,156 |
-| Free Refills | 4.00% | ~2,156 |
-| Smooth Moves | 4.00% | ~2,156 |
+| Face Off | 5.00% | ~1,278 |
+| The Professional | 4.00% | ~2,157 |
+| Chaos Tamer | 4.00% | ~2,157 |
+| Untouchable | 4.00% | ~2,157 |
+| Free Refills | 4.00% | ~2,157 |
+| Smooth Moves | 4.00% | ~2,157 |
 | Hazardous Heist | 4.00% | ~1,022 |
-| Neighborly | 3.00% | ~1,617 |
-| Prankster | 3.00% | ~1,617 |
-| Tourist | 3.00% | ~1,617 |
+| Neighborly | 3.00% | ~1,618 |
+| Prankster | 3.00% | ~1,618 |
+| Tourist | 3.00% | ~1,618 |
 | Shopping Spree | 2.00% | ~1,078 |
 | Always Be Hustling | 2.00% | ~1,078 |
 | Bonus Round | 2.00% | ~1,078 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.10% | ~54 |
 | Fiesta Time | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,910 (Ranked 85)  
+Progressed: 53,920 (Ranked 85)  
 Completed: 28 (0.05%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,14 +148,14 @@ Completed: 28 (0.05%) (Ranked 201)
 | 2023-07-14 | 53,319 | 28 |
 | 2023-07-15 | 53,559 | 28 |
 | 2023-07-16 | 53,820 | 28 |
-| 2023-07-17 | 53,910 | 28 |
+| 2023-07-17 | 53,920 | 28 |
 ## Awards
-Max (Extremely Fun): 1,049  (Ranked 139)  
-Sum: 8,522 (Ranked 92)  
+Max (Extremely Fun): 1,050  (Ranked 139)  
+Sum: 8,523 (Ranked 92)  
 Diff (max vs sum): 47  
 | Award | Count |
 | ----- | ----- |
-| This game is Extremely Fun | 1,049 |
+| This game is Extremely Fun | 1,050 |
 | This game has Quickly Understood Controls | 1,021 |
 | This game is Highly Recommended | 989 |
 | This game has Diverse Characters | 984 |
@@ -295,4 +295,4 @@ Diff (max vs sum): 47
 | 2023-07-13 | 3.78 | - | 1,049 | 8,517 |
 | 2023-07-14 | 3.78 | - | 1,049 | 8,520 |
 | 2023-07-15 | 3.78 | - | 1,049 | 8,521 |
-| 2023-07-17 | 3.78 | - | 1,049 | 8,522 |
+| 2023-07-17 | 3.78 | - | 1,050 | 8,523 |

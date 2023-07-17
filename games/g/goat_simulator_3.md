@@ -5,17 +5,17 @@ Rating: 4.85 (Ranked 41)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~211,890 |
-| Private Club | 74.00% | ~172,306 |
-| Rogue Guild | 65.00% | ~151,350 |
-| I Watched the Intro | 57.00% | ~132,722 |
-| Covert Consortium | 55.00% | ~128,065 |
-| Goat Queen | 53.00% | ~123,408 |
-| Reach the Stratosphere | 50.00% | ~116,423 |
-| Synchronization Complete | 47.00% | ~109,438 |
-| Secret Society | 45.00% | ~104,781 |
-| Shadow Syndicate | 38.00% | ~88,481 |
-| What a Waste of Money | 33.00% | ~76,839 |
+| Forgotten Sorority | 91.00% | ~211,892 |
+| Private Club | 74.00% | ~172,308 |
+| Rogue Guild | 65.00% | ~151,351 |
+| I Watched the Intro | 57.00% | ~132,723 |
+| Covert Consortium | 55.00% | ~128,066 |
+| Goat Queen | 53.00% | ~123,409 |
+| Reach the Stratosphere | 50.00% | ~116,424 |
+| Synchronization Complete | 47.00% | ~109,439 |
+| Secret Society | 45.00% | ~104,782 |
+| Shadow Syndicate | 38.00% | ~88,482 |
+| What a Waste of Money | 33.00% | ~76,840 |
 | New Goat Order | 30.00% | ~69,854 |
 | Don't touch the servers | 28.00% | ~65,197 |
 | San Angora: Become Human | 26.00% | ~60,540 |
@@ -24,10 +24,10 @@ Rating: 4.85 (Ranked 41)
 | Welcome to Earth | 25.00% | ~58,212 |
 | Into the Matrix | 19.00% | ~44,241 |
 | Where is It? | 17.00% | ~39,584 |
-| Egg Simulator | 16.00% | ~37,255 |
+| Egg Simulator | 16.00% | ~37,256 |
 | Beauty, Mindfulness and Meditation | 15.00% | ~34,927 |
-| Black Market | 14.00% | ~32,598 |
-| 401(K.O.) | 14.00% | ~32,598 |
+| Black Market | 14.00% | ~32,599 |
+| 401(K.O.) | 14.00% | ~32,599 |
 | Car Cave | 12.00% | ~27,942 |
 | Club Mohair | 8.00% | ~18,628 |
 | A Center for Ants? | 8.00% | ~18,628 |
@@ -45,7 +45,7 @@ Rating: 4.85 (Ranked 41)
 | Move! That! Bus! | 0.60% | ~1,397 |
 | G.O.A.T | 0.30% | ~699 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,846 (Ranked 46)  
+Progressed: 232,848 (Ranked 46)  
 Completed: 773 (0.33%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 773 (0.33%) (Ranked 142)
 | 2023-07-14 | 232,454 | 770 |
 | 2023-07-15 | 232,623 | 770 |
 | 2023-07-16 | 232,817 | 773 |
-| 2023-07-17 | 232,846 | 773 |
+| 2023-07-17 | 232,848 | 773 |
 ## Awards
 Max (Great for Beginners): 367  (Ranked 218)  
 Sum: 3,047 (Ranked 159)  
