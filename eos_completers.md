@@ -23,10 +23,10 @@
 | 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.20% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 23 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 9.52% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.70% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.69% |
 | 25 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
-| 26 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.20% |
-| 27 | [Smelter](games/s/smelter.md) | 8.11% |
+| 26 | [Smelter](games/s/smelter.md) | 8.11% |
+| 27 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.06% |
 | 28 | [Ravenlok](games/r/ravenlok.md) | 7.44% |
 | 29 | [Time Loader](games/t/time_loader.md) | 7.14% |
 | 30 | [Scorn](games/s/scorn.md) | 7.05% |
@@ -94,7 +94,7 @@
 | 92 | [Five Dates](games/f/five_dates.md) | 1.26% |
 | 93 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.23% |
 | 94 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.20% |
-| 95 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.19% |
+| 95 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.18% |
 | 96 | [Chorus](games/c/chorus.md) | 1.16% |
 | 97 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.14% |
 | 98 | [Trifox](games/t/trifox.md) | 1.11% |
