@@ -19,6 +19,7 @@
 | The Power of the Mountains | 13.00% | ~2 |
 | Changing the World | 13.00% | ~2 |
 | Mirror, Mirror on the Wall | 6.00% | ~1 |
+| Sponsor | 6.00% | ~1 |
 | Defeat Ingla | 6.00% | ~1 |
 | Defeat Tezuth | 6.00% | ~1 |
 | Defeat Uskol | 6.00% | ~1 |
@@ -27,7 +28,6 @@
 | Finally! | 6.00% | ~1 |
 | The End | 6.00% | ~1 |
 | But what of the Acreans? | 6.00% | ~1 |
-| Sponsor | 0.00% | ~0 |
 | Craftsmen | 0.00% | ~0 |
 | Style over Stats | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |

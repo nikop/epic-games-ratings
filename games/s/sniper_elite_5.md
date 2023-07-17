@@ -6,6 +6,7 @@ Rating: 4.43 (Ranked 655)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Liberté | 3.00% | ~99 |
+| Confirming Suspicions | 3.00% | ~99 |
 | Lord of War | 3.00% | ~99 |
 | It's Starting to Crack | 3.00% | ~99 |
 | Change the Channel | 3.00% | ~99 |
@@ -18,7 +19,6 @@ Rating: 4.43 (Ranked 655)
 | Meeting Resistance | 2.00% | ~66 |
 | Gunslinger | 2.00% | ~66 |
 | Sharpshooter | 2.00% | ~66 |
-| Confirming Suspicions | 2.00% | ~66 |
 | Resourceful | 2.00% | ~66 |
 | Der Geist | 2.00% | ~66 |
 | As Quiet as a Mouse | 2.00% | ~66 |

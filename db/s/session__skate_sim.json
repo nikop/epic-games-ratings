@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -790,9 +790,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2517,
+  "EOS_Progressed": 2518,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3095,6 +3095,11 @@
       "Time": "2023-07-16T16:03:20.2757394+00:00",
       "NumProgressed": 2517,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-17T11:03:48.0841709+00:00",
+      "NumProgressed": 2518,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3248,9 +3253,9 @@
       "ID": "ACH_KEEP-THE-DREAM-ALIVE",
       "SetID": "72olkc5",
       "Name": "Keep the dream alive",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 227
+      "UsersEstimate": 201
     },
     {
       "ID": "ACH_KEEPING-IT-CLASSY",
@@ -3258,7 +3263,7 @@
       "Name": "Keeping it classy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -3474,7 +3479,7 @@
       "Name": "Welcome to the family",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -3489,15 +3494,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2517,
+      "Progressed": 2518,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-07-14T22:59:32.5296281+00:00",
-  "LastChanged_Achievements": "2023-07-17T10:03:58.7729769+00:00",
+  "LastChanged_Achievements": "2023-07-17T11:03:48.0841704+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:04.9340896+00:00",
-  "LastUpdate_Ratings": "2023-07-17T10:00:21.214566+00:00",
-  "LastUpdate_Achievements": "2023-07-17T10:03:58.7730324+00:00"
+  "LastUpdate_Ratings": "2023-07-17T10:59:31.9965181+00:00",
+  "LastUpdate_Achievements": "2023-07-17T11:03:48.0842266+00:00"
 }

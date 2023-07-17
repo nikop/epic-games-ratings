@@ -4329,9 +4329,9 @@
       "ID": "cauldronliberator",
       "SetID": "3nl4bcg",
       "Name": "Cauldron Liberator",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "challenger",
@@ -4497,9 +4497,9 @@
       "ID": "guardianmaster",
       "SetID": "3nl4bcg",
       "Name": "Guardian Master",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "guildpower",
@@ -4882,8 +4882,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-07-16T03:26:23.9449732+00:00",
-  "LastChanged_Achievements": "2023-07-17T10:03:11.6594997+00:00",
+  "LastChanged_Achievements": "2023-07-17T11:03:15.4934631+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:38.4078532+00:00",
-  "LastUpdate_Ratings": "2023-07-17T09:58:58.2662573+00:00",
-  "LastUpdate_Achievements": "2023-07-17T10:03:11.659633+00:00"
+  "LastUpdate_Ratings": "2023-07-17T10:58:33.5119242+00:00",
+  "LastUpdate_Achievements": "2023-07-17T11:03:15.4935702+00:00"
 }

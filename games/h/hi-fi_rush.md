@@ -32,7 +32,7 @@ Rating: 4.87 (Ranked 24)
 | Alright, that felt AWESOME! | 1.00% | ~35 |
 | You can pet the cat! | 1.00% | ~35 |
 | Does that say weakpoint? | 0.90% | ~31 |
-| That's a lot of junk metal… | 0.70% | ~24 |
+| That's a lot of junk metal… | 0.80% | ~28 |
 | There's such a thing as TOO helpful | 0.70% | ~24 |
 | Beat-hit mania | 0.60% | ~21 |
 | Call me Turbo Chai | 0.60% | ~12 |

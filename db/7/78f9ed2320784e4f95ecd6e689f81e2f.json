@@ -2,9 +2,9 @@
   "ID": "78f9ed2320784e4f95ecd6e689f81e2f",
   "Name": "GeoJelly",
   "ProductSlug": "geojelly-a44cfe",
-  "Ranking_EOS_Progress": 364,
+  "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 55,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-06-07T18:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 30,
+  "EOS_Progressed": 31,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.33,
+  "EOS_Completed_Percentage": 3.23,
   "EosHistory": [
     {
       "Time": "2023-05-09T08:01:56.5960176+00:00",
@@ -176,6 +176,11 @@
       "Time": "2023-07-03T15:03:09.1719715+00:00",
       "NumProgressed": 30,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-17T11:03:42.5331999+00:00",
+      "NumProgressed": 31,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 7,
@@ -225,7 +230,7 @@
       "ID": "COMPLETE_BASEMENT",
       "SetID": "dademeo",
       "Name": "Complete basement",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 145,
       "UsersEstimate": 2
     },
@@ -257,7 +262,7 @@
       "ID": "JUMPER_100",
       "SetID": "dademeo",
       "Name": "Jumper 100",
-      "Percentage": 90,
+      "Percentage": 87,
       "XP": 145,
       "UsersEstimate": 27
     },
@@ -265,7 +270,7 @@
       "ID": "JUMPER_1000",
       "SetID": "dademeo",
       "Name": "Jumper 1000",
-      "Percentage": 60,
+      "Percentage": 58,
       "XP": 145,
       "UsersEstimate": 18
     },
@@ -273,7 +278,7 @@
       "ID": "JUMPER_5000",
       "SetID": "dademeo",
       "Name": "Jumper 5000",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 145,
       "UsersEstimate": 2
     }
@@ -282,14 +287,14 @@
     {
       "ID": "dademeo",
       "IsBase": true,
-      "Progressed": 30,
+      "Progressed": 31,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-24T07:57:28.1262112+00:00",
   "FirstSeenAchievements": "2023-05-09T08:01:56.5974066+00:00",
-  "LastChanged_Achievements": "2023-07-17T10:03:50.963689+00:00",
+  "LastChanged_Achievements": "2023-07-17T11:03:42.5331993+00:00",
   "LastUpdate_AppInfo": "2023-07-11T13:57:04.6440072+00:00",
-  "LastUpdate_Ratings": "2023-07-17T09:57:49.7710055+00:00",
-  "LastUpdate_Achievements": "2023-07-17T10:03:50.963703+00:00"
+  "LastUpdate_Ratings": "2023-07-17T10:57:48.0954059+00:00",
+  "LastUpdate_Achievements": "2023-07-17T11:03:42.5332112+00:00"
 }

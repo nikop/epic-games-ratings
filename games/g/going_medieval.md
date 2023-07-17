@@ -6,14 +6,14 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 73.00% | ~3,401 |
-| Having A Field Day | 73.00% | ~3,401 |
-| Reap What You Sow | 70.00% | ~3,261 |
+| Get A Room | 73.00% | ~3,402 |
+| Having A Field Day | 73.00% | ~3,402 |
+| Reap What You Sow | 70.00% | ~3,262 |
 | The First Day | 67.00% | ~3,122 |
-| Green Thumb | 65.00% | ~3,028 |
+| Green Thumb | 65.00% | ~3,029 |
 | Novice Researcher | 64.00% | ~2,982 |
-| Putting Food on the Table | 60.00% | ~2,795 |
-| Onward | 55.00% | ~2,562 |
+| Putting Food on the Table | 60.00% | ~2,796 |
+| Onward | 55.00% | ~2,563 |
 | Home Cooked Meal | 54.00% | ~2,516 |
 | The First Week | 52.00% | ~2,423 |
 | Feast or Famine | 50.00% | ~2,330 |
@@ -22,7 +22,7 @@ Number of Ratings: 706  (23.09.2022)
 | Adept Researcher | 44.00% | ~2,050 |
 | Retribution | 40.00% | ~1,864 |
 | ...And Don’t Come Back! | 39.00% | ~1,817 |
-| Fit For A King | 38.00% | ~1,770 |
+| Fit For A King | 38.00% | ~1,771 |
 | Luminary Researcher | 34.00% | ~1,584 |
 | Heating Up | 28.00% | ~1,305 |
 | Winter Is Coming | 25.00% | ~1,165 |
@@ -32,13 +32,13 @@ Number of Ratings: 706  (23.09.2022)
 | All Year Round | 19.00% | ~885 |
 | Oh Deer! | 18.00% | ~839 |
 | Nothing Wasted | 12.00% | ~559 |
-| Don't Cry Wolf | 11.00% | ~512 |
+| Don't Cry Wolf | 11.00% | ~513 |
 | Deerly Departed | 8.00% | ~373 |
 | Where Wolf? | 5.00% | ~233 |
 | Food Chain | 2.00% | ~93 |
 | Wabbit Season | 0.60% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,659 (Ranked 139)  
+Progressed: 4,660 (Ranked 139)  
 Completed: 9 (0.19%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 9 (0.19%) (Ranked 164)
 | 2023-07-14 | 4,597 | 9 |
 | 2023-07-15 | 4,629 | 9 |
 | 2023-07-16 | 4,656 | 9 |
-| 2023-07-17 | 4,659 | 9 |
+| 2023-07-17 | 4,660 | 9 |
 ## Awards
 Max (Relaxing): 120  (Ranked 312)  
 Sum: 960 (Ranked 239)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -215,9 +215,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1755,
+  "EOS_Progressed": 1756,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -1950,6 +1950,11 @@
       "Time": "2023-07-16T15:04:36.5438057+00:00",
       "NumProgressed": 1755,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-17T11:04:27.0021441+00:00",
+      "NumProgressed": 1756,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -1993,7 +1998,7 @@
       "Name": "Return the Statues",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "CollectAllWeaponsAndGear",
@@ -2041,7 +2046,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1404
+      "UsersEstimate": 1405
     },
     {
       "ID": "CompleteHunterFaction",
@@ -2089,7 +2094,7 @@
       "Name": "Defeat Rattus Augustail",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "FixTheTravellersWagon",
@@ -2097,7 +2102,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "GetRangedWeapon",
@@ -2129,7 +2134,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "Kill25Mozi",
@@ -2137,7 +2142,7 @@
       "Name": "Defeat 25 Mozis",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "MeetTheMoles",
@@ -2153,7 +2158,7 @@
       "Name": "Discover the mystery of the Kings Chambers",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "RepairChef",
@@ -2200,22 +2205,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1755,
+      "Progressed": 1756,
       "Completed": 8
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 396,
-      "Completed": 396
+      "Progressed": 397,
+      "Completed": 397
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-07-14T04:59:19.2698314+00:00",
-  "LastChanged_Achievements": "2023-07-17T10:05:04.1597666+00:00",
+  "LastChanged_Achievements": "2023-07-17T11:04:27.0021436+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:12.5741028+00:00",
-  "LastUpdate_Ratings": "2023-07-17T09:59:21.1521474+00:00",
-  "LastUpdate_Achievements": "2023-07-17T10:05:04.1598032+00:00"
+  "LastUpdate_Ratings": "2023-07-17T10:58:52.633467+00:00",
+  "LastUpdate_Achievements": "2023-07-17T11:04:27.0021775+00:00"
 }
