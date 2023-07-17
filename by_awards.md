@@ -66,7 +66,7 @@
 | 64 | [Dead Island 2](games/d/dead_island_2.md) | 5,225 | 4.54 | 493 |
 | 65 | [Rogue Company](games/r/rogue_company.md) | 5,144 | 4.33 | 757 |
 | 66 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,036 | 4.05 | 902 |
-| 67 | [Cities: Skylines](games/c/cities__skylines.md) | 4,940 | 4.65 | 297 |
+| 67 | [Cities: Skylines](games/c/cities__skylines.md) | 4,945 | 4.65 | 297 |
 | 68 | [MultiVersus](games/m/multiversus.md) | 4,745 | 4.56 | 457 |
 | 69 | [Shop Titans](games/s/shop_titans.md) | 4,660 | 3.99 | 919 |
 | 70 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,545 | 4.70 | 196 |
@@ -113,8 +113,8 @@
 | 111 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 1,853 | 4.70 | 196 |
 | 112 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 1,848 | 4.90 | 8 |
 | 113 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 1,792 | 4.56 | 457 |
-| 114 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,756 | 4.63 | 331 |
-| 114 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 1,756 | 4.57 | 440 |
+| 114 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,758 | 4.63 | 331 |
+| 115 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 1,756 | 4.57 | 440 |
 | 116 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 1,693 | 4.70 | 196 |
 | 117 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 1,679 | 4.76 | 119 |
 | 118 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,660 | 4.51 | 540 |
@@ -213,8 +213,8 @@
 | 211 | [Slime Rancher](games/s/slime_rancher.md) | 396 | 4.82 | 65 |
 | 212 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 391 | 4.60 | 390 |
 | 213 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 382 | 4.70 | 196 |
-| 214 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 379 | 4.61 | 365 |
-| 214 | [Nuclear Throne](games/n/nuclear_throne.md) | 379 | 4.79 | 90 |
+| 214 | [Nuclear Throne](games/n/nuclear_throne.md) | 380 | 4.79 | 90 |
+| 215 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 379 | 4.61 | 365 |
 | 216 | [For The King](games/f/for_the_king.md) | 376 | 4.70 | 196 |
 | 217 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 372 | 3.99 | 919 |
 | 218 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 367 | 4.85 | 41 |

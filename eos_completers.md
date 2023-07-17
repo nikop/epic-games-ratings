@@ -20,15 +20,15 @@
 | 18 | [Remains](games/r/remains.md) | 11.63% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.11% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.26% |
+| 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.23% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 23 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.68% |
-| 24 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
-| 25 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.47% |
-| 26 | [Smelter](games/s/smelter.md) | 8.11% |
-| 27 | [Ravenlok](games/r/ravenlok.md) | 7.44% |
-| 28 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.14% |
-| 28 | [Time Loader](games/t/time_loader.md) | 7.14% |
+| 23 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 9.52% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.68% |
+| 25 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
+| 26 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.47% |
+| 27 | [Smelter](games/s/smelter.md) | 8.11% |
+| 28 | [Ravenlok](games/r/ravenlok.md) | 7.44% |
+| 29 | [Time Loader](games/t/time_loader.md) | 7.14% |
 | 30 | [Scorn](games/s/scorn.md) | 7.05% |
 | 31 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.95% |
 | 32 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.67% |

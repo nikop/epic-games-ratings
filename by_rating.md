@@ -96,7 +96,7 @@
 | 90 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.79 | 0 | 505 |
 | 90 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 717 | 161 |
 | 90 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,924 | 56 |
-| 90 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 379 | 214 |
+| 90 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 380 | 214 |
 | 90 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 119 | 313 |
 | 99 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 0 | 505 |
 | 99 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,485 | 36 |
@@ -297,7 +297,7 @@
 | 272 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 460 | 198 |
 | 272 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 0 | 505 |
 | 297 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 505 |
-| 297 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,940 | 67 |
+| 297 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,945 | 67 |
 | 297 | [F1® 23](games/f/f1®_23_standard_edition.md) | 4.65 | 0 | 505 |
 | 297 | [GigaBash](games/g/gigabash.md) | 4.65 | 0 | 505 |
 | 297 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 4.65 | 0 | 505 |
@@ -342,7 +342,7 @@
 | 331 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 184 | 276 |
 | 331 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 304 | 231 |
 | 331 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.63 | 73 | 369 |
-| 331 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,756 | 114 |
+| 331 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,758 | 114 |
 | 331 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.63 | 20 | 501 |
 | 331 | [Transistor](games/t/transistor.md) | 4.63 | 0 | 505 |
 | 331 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.63 | 0 | 505 |
@@ -369,7 +369,7 @@
 | 365 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.61 | 0 | 505 |
 | 365 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 4,363 | 73 |
 | 365 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 0 | 505 |
-| 365 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 379 | 214 |
+| 365 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 379 | 215 |
 | 365 | [Darkwood](games/d/darkwood.md) | 4.61 | 322 | 228 |
 | 365 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 41,005 | 12 |
 | 365 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 364 | 220 |
@@ -455,7 +455,7 @@
 | 440 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 3,513 | 82 |
 | 440 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.57 | 30 | 457 |
 | 440 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 18,951 | 19 |
-| 440 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,756 | 114 |
+| 440 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,756 | 115 |
 | 457 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.56 | 0 | 505 |
 | 457 | [Aztez](games/a/aztez.md) | 4.56 | 0 | 505 |
 | 457 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 50 | 398 |
