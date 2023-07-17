@@ -491,6 +491,7 @@
 | [Touch Type Tale](../games/t/touch_type_tale.md) | 33 | 1,000 |
 | [Tower Princess](../games/t/tower_princess.md) | 36 | 1,000 |
 | [Townsmen - A Kingdom Rebuilt](../games/t/townsmen_-_a_kingdom_rebuilt.md) | 101 | 1,000 |
+| [Trail Of Ayash](../games/5/538efd8138f94b088f2d9e3da178edd6.md) | 18 | 1,000 |
 | [Train Valley](../games/t/train_valley.md) | 39 | 1,000 |
 | [Train World](../games/t/train_world.md) | 50 | 1,000 |
 | [Transport Fever 2](../games/t/transport_fever_2.md) | 61 | 1,000 |

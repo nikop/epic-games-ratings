@@ -1,6 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 2023-07-17 | - |  | - | - |
+| [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 2023-07-17 | - |  | - | 0 |
 | [Reyna Darkness](games/f/f23600737cfe43d0a3c807c938c5e94b.md) | 2023-07-16 | 13 (1,000 XP) | 1 | - | - |
 | [Two Skateboards Driving Simulator](games/4/425a91afbd1743ff8dcd21794a39a8a1.md) | 2023-07-16 | - |  | - | - |
 | [Subwar 2050](games/6/6e94f7b986474bd89e9490a45d3606b3.md) | 2023-07-14 | - |  | - | - |
