@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 43,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -46,11 +46,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 529,
+  "EOS_Progressed": 530,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.54,
+  "EOS_Completed_Percentage": 4.53,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -1776,6 +1776,11 @@
       "Time": "2023-07-16T20:05:44.2966693+00:00",
       "NumProgressed": 529,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-07-17T05:05:37.4475779+00:00",
+      "NumProgressed": 530,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 28,
@@ -1785,9 +1790,9 @@
       "ID": "MQ01_1",
       "SetID": "bbing49",
       "Name": "Read Between The Lines",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 339
+      "UsersEstimate": 334
     },
     {
       "ID": "MQ01_2",
@@ -1801,9 +1806,9 @@
       "ID": "MQ02_1",
       "SetID": "bbing49",
       "Name": "High Profile",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 312
+      "UsersEstimate": 307
     },
     {
       "ID": "MQ02_2",
@@ -1825,9 +1830,9 @@
       "ID": "MQ02_4",
       "SetID": "bbing49",
       "Name": "Whispers In The Dark",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 302
+      "UsersEstimate": 297
     },
     {
       "ID": "MQ03_1",
@@ -1851,7 +1856,7 @@
       "Name": "History Check",
       "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "MQ03_4",
@@ -1867,7 +1872,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "MQ04_1",
@@ -1931,7 +1936,7 @@
       "Name": "Brain Food",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "MQ06_2",
@@ -1947,7 +1952,7 @@
       "Name": "Land, Ho!",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "MQ06_4",
@@ -1963,7 +1968,7 @@
       "Name": "Read It And Weep",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "MQ07_2",
@@ -1979,7 +1984,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "MQ08_2",
@@ -1987,7 +1992,7 @@
       "Name": "Up In Flames",
       "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "MQ08_3",
@@ -1995,7 +2000,7 @@
       "Name": "Fhtagn!",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "PLTN",
@@ -2010,7 +2015,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 529,
+      "Progressed": 530,
       "Completed": 24
     }
   ],
@@ -2018,8 +2023,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-06-25T15:57:48.8176349+00:00",
-  "LastChanged_Achievements": "2023-07-17T04:06:20.9524252+00:00",
+  "LastChanged_Achievements": "2023-07-17T05:05:37.4475775+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:08.2365804+00:00",
-  "LastUpdate_Ratings": "2023-07-17T03:57:49.0195397+00:00",
-  "LastUpdate_Achievements": "2023-07-17T04:06:20.9524498+00:00"
+  "LastUpdate_Ratings": "2023-07-17T04:57:27.0940013+00:00",
+  "LastUpdate_Achievements": "2023-07-17T05:05:37.4476012+00:00"
 }

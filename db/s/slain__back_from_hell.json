@@ -187,9 +187,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 30310,
+  "EOS_Progressed": 30314,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 890,
+  "EOS_NewPlayers": 889,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -9612,6 +9612,11 @@
       "Time": "2023-07-17T04:04:10.2519796+00:00",
       "NumProgressed": 30310,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-07-17T05:03:46.7589764+00:00",
+      "NumProgressed": 30314,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -9631,7 +9636,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6062
+      "UsersEstimate": 6063
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -9647,7 +9652,7 @@
       "Name": "Thorn in My Herbicide",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_06_BLOODTOWER_NO_PIT_DEATH",
@@ -9655,7 +9660,7 @@
       "Name": "Sure Footed As A Goat",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_07_BLOODTOWER_NO_HOUND_DAMAGE",
@@ -9671,7 +9676,7 @@
       "Name": "Backdoor Man",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_09_HIGHLANDS_NO_FLAME_KILLS",
@@ -9767,7 +9772,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1212
+      "UsersEstimate": 1213
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -9791,7 +9796,7 @@
       "Name": "Schadenfreude",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_24_HEAD_BANGED_TO_ALL_BOSSES",
@@ -9854,7 +9859,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 30310,
+      "Progressed": 30314,
       "Completed": 20
     }
   ],
@@ -9862,8 +9867,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-07-11T15:00:39.3575549+00:00",
-  "LastChanged_Achievements": "2023-07-17T04:04:10.2519791+00:00",
+  "LastChanged_Achievements": "2023-07-17T05:03:46.7589761+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:02.6964927+00:00",
-  "LastUpdate_Ratings": "2023-07-17T04:00:40.1216849+00:00",
-  "LastUpdate_Achievements": "2023-07-17T04:04:10.252038+00:00"
+  "LastUpdate_Ratings": "2023-07-17T04:59:46.8235517+00:00",
+  "LastUpdate_Achievements": "2023-07-17T05:03:46.7590358+00:00"
 }

@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15456,
+  "EOS_Progressed": 15459,
   "EOS_Completed": 324,
-  "EOS_NewPlayers": 596,
+  "EOS_NewPlayers": 595,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -9539,6 +9539,11 @@
       "Time": "2023-07-17T04:03:57.2154974+00:00",
       "NumProgressed": 15456,
       "NumCompleted": 324
+    },
+    {
+      "Time": "2023-07-17T05:03:44.5864741+00:00",
+      "NumProgressed": 15459,
+      "NumCompleted": 324
     }
   ],
   "TotalAchievements": 20,
@@ -9558,7 +9563,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "EAST_FINISHED",
@@ -9598,7 +9603,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1236
+      "UsersEstimate": 1237
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -9614,7 +9619,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2318
+      "UsersEstimate": 2319
     },
     {
       "ID": "FOUND_ERIN",
@@ -9630,7 +9635,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "FOUND_MAMBA",
@@ -9638,7 +9643,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -9646,7 +9651,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2009
+      "UsersEstimate": 2010
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -9654,7 +9659,7 @@
       "Name": "Written in stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "GAME_FINISHED",
@@ -9662,7 +9667,7 @@
       "Name": "Equilibrium",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2009
+      "UsersEstimate": 2010
     },
     {
       "ID": "INTRO_FINISHED",
@@ -9670,7 +9675,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 11747
+      "UsersEstimate": 11749
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -9678,7 +9683,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 4328
+      "UsersEstimate": 4329
     },
     {
       "ID": "NORTH_FINISHED",
@@ -9709,15 +9714,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 15456,
+      "Progressed": 15459,
       "Completed": 324
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-07-17T04:03:57.2154969+00:00",
+  "LastChanged_Achievements": "2023-07-17T05:03:44.5864737+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:08.6336222+00:00",
-  "LastUpdate_Ratings": "2023-07-17T04:00:45.3547459+00:00",
-  "LastUpdate_Achievements": "2023-07-17T04:03:57.2155504+00:00"
+  "LastUpdate_Ratings": "2023-07-17T04:59:50.9942406+00:00",
+  "LastUpdate_Achievements": "2023-07-17T05:03:44.5865263+00:00"
 }

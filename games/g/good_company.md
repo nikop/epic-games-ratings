@@ -55,11 +55,11 @@ Number of Ratings: 75  (23.09.2022)
 | A Happy Taskforce: Interior Designer | 0.40% | ~21 |
 | Rockstar | 0.40% | ~21 |
 | Champion | 0.30% | ~15 |
+| Trophy Hoarder | 0.30% | ~15 |
 | The Machinery: Goal Orientated | 0.30% | ~15 |
 | The Machinery: Energy Saver | 0.30% | ~15 |
 | Super Rich | 0.30% | ~15 |
 | Fully Packed | 0.30% | ~15 |
-| Trophy Hoarder | 0.20% | ~10 |
 | Happy Hour | 0.20% | ~10 |
 | Achiever | 0.20% | ~10 |
 | Grand Master | 0.10% | ~5 |

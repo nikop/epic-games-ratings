@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 468,
+  "EOS_Progressed": 469,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
@@ -1631,6 +1631,11 @@
       "Time": "2023-07-17T04:05:37.0655488+00:00",
       "NumProgressed": 468,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-17T05:04:59.8293533+00:00",
+      "NumProgressed": 469,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1778,7 +1783,7 @@
       "Name": "Captain",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -1818,7 +1823,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -1890,15 +1895,15 @@
       "Name": "Factory Expansion",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "objective_multiple_turrets_2",
       "SetID": "bm61c2p",
       "Name": "Defenses Online",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 192
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -1945,14 +1950,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 468,
+      "Progressed": 469,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-17T04:05:37.065548+00:00",
+  "LastChanged_Achievements": "2023-07-17T05:04:59.8293529+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:28.9258865+00:00",
-  "LastUpdate_Ratings": "2023-07-17T04:01:03.8010065+00:00",
-  "LastUpdate_Achievements": "2023-07-17T04:05:37.0655791+00:00"
+  "LastUpdate_Ratings": "2023-07-17T05:00:08.4242167+00:00",
+  "LastUpdate_Achievements": "2023-07-17T05:04:59.8293855+00:00"
 }

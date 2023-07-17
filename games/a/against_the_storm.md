@@ -15,6 +15,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Lost Colonies | 3.00% | ~476 |
 | Coral Forest | 3.00% | ~476 |
 | The Scarlet Orchard | 3.00% | ~476 |
+| Serving Ale | 2.00% | ~317 |
 | Homesick | 2.00% | ~317 |
 | Against All Odds | 2.00% | ~317 |
 | Ruined Armory | 2.00% | ~317 |
@@ -36,7 +37,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Like a Machine | 2.00% | ~317 |
 | Trade Baron | 2.00% | ~317 |
 | Into the Forest | 2.00% | ~317 |
-| Serving Ale | 1.00% | ~159 |
 | Refinery | 1.00% | ~159 |
 | Fishmen Ritual Site | 1.00% | ~159 |
 | Forbidden Lands | 1.00% | ~159 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~16 |
 | Higher Needs | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,864 (Ranked 108)  
+Progressed: 15,865 (Ranked 108)  
 Completed: 40 (0.25%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 40 (0.25%) (Ranked 155)
 | 2023-07-14 | 15,816 | 40 |
 | 2023-07-15 | 15,838 | 40 |
 | 2023-07-16 | 15,863 | 40 |
-| 2023-07-17 | 15,864 | 40 |
+| 2023-07-17 | 15,865 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 418  (Ranked 203)  
 Sum: 3,069 (Ranked 157)  

@@ -78,9 +78,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 66349,
+  "EOS_Progressed": 66350,
   "EOS_Completed": 639,
-  "EOS_NewPlayers": 968,
+  "EOS_NewPlayers": 965,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.96,
   "EosHistory": [
@@ -9568,6 +9568,11 @@
       "Time": "2023-07-17T04:07:00.9171658+00:00",
       "NumProgressed": 66349,
       "NumCompleted": 639
+    },
+    {
+      "Time": "2023-07-17T05:06:10.0335328+00:00",
+      "NumProgressed": 66350,
+      "NumCompleted": 639
     }
   ],
   "TotalAchievements": 25,
@@ -9635,7 +9640,7 @@
       "Name": "Cut Call",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3317
+      "UsersEstimate": 3318
     },
     {
       "ID": "Fair\u0027sFair",
@@ -9667,7 +9672,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 5971
+      "UsersEstimate": 5972
     },
     {
       "ID": "Magnetic Miracles",
@@ -9731,7 +9736,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 8625
+      "UsersEstimate": 8626
     },
     {
       "ID": "Sniper",
@@ -9778,7 +9783,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 66349,
+      "Progressed": 66350,
       "Completed": 639
     }
   ],
@@ -9786,8 +9791,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-07-12T22:00:34.5799915+00:00",
-  "LastChanged_Achievements": "2023-07-17T04:07:00.9171654+00:00",
+  "LastChanged_Achievements": "2023-07-17T05:06:10.0335325+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:36.9043448+00:00",
-  "LastUpdate_Ratings": "2023-07-17T04:01:08.1864391+00:00",
-  "LastUpdate_Achievements": "2023-07-17T04:07:00.9172213+00:00"
+  "LastUpdate_Ratings": "2023-07-17T05:00:11.9882996+00:00",
+  "LastUpdate_Achievements": "2023-07-17T05:06:10.0335889+00:00"
 }
