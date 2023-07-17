@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 334,
+  "EOS_Progressed": 335,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -949,6 +949,11 @@
       "Time": "2023-07-17T16:03:11.7531311+00:00",
       "NumProgressed": 334,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-17T20:00:33.6864474+00:00",
+      "NumProgressed": 335,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -960,7 +965,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 54,
       "XP": 60,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "completeact2",
@@ -976,7 +981,7 @@
       "Name": "On the Road",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "findalltapes",
@@ -1024,7 +1029,7 @@
       "Name": "Partners in Crime",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "scoreminrankrh1",
@@ -1079,7 +1084,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 334,
+      "Progressed": 335,
       "Completed": 2
     }
   ],
@@ -1087,8 +1092,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-07-17T19:00:49.5199211+00:00",
+  "LastChanged_Achievements": "2023-07-17T20:00:33.6864468+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:44.4042174+00:00",
-  "LastUpdate_Ratings": "2023-07-17T18:59:14.7693449+00:00",
-  "LastUpdate_Achievements": "2023-07-17T19:00:49.5199503+00:00"
+  "LastUpdate_Ratings": "2023-07-17T19:58:54.4761832+00:00",
+  "LastUpdate_Achievements": "2023-07-17T20:00:33.68647+00:00"
 }

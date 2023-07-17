@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 901)  
+Rating: 4.05 (Ranked 902)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -16,6 +16,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Contagious Curse | 0.30% | ~638 |
 | Escort to Waterdeep | 0.30% | ~638 |
 | Waterdeep Detours | 0.30% | ~638 |
+| Underdeep Cartography | 0.30% | ~638 |
 | Friendly Imps | 0.30% | ~638 |
 | Pure Energy | 0.30% | ~638 |
 | Trollskull Manor | 0.20% | ~426 |
@@ -34,7 +35,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lost in the Deep | 0.20% | ~426 |
 | Easily Distracted | 0.20% | ~426 |
 | Rude Welcome | 0.20% | ~426 |
-| Underdeep Cartography | 0.20% | ~426 |
 | Overdue Rendezvous | 0.20% | ~426 |
 | Durable Deep | 0.20% | ~426 |
 | The Templar's Camp | 0.20% | ~426 |
@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212,805 (Ranked 53)  
+Progressed: 212,822 (Ranked 53)  
 Completed: 2,057 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -602,7 +602,7 @@ Completed: 2,057 (0.97%) (Ranked 102)
 | 2023-07-14 | 211,507 | 2,050 |
 | 2023-07-15 | 212,014 | 2,053 |
 | 2023-07-16 | 212,501 | 2,055 |
-| 2023-07-17 | 212,805 | 2,057 |
+| 2023-07-17 | 212,822 | 2,057 |
 ## Awards
 Max (Diverse Characters): 5,041  (Ranked 66)  
 Sum: 30,562 (Ranked 38)  

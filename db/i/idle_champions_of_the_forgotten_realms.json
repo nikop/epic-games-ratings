@@ -2,7 +2,7 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 901,
+  "Ranking_Rating": 902,
   "Ranking_Popularity": 66,
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 53,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.06,
+  "Rating": 4.05,
   "NumberOfRatings": 9041,
   "RatingHistory": [
     {
@@ -5000,6 +5000,12 @@
       "Rating": 4.06,
       "NumberOfAwards": 30562,
       "NumberOfAwardsMax": 5041
+    },
+    {
+      "Time": "2023-07-17T19:58:21.1664127+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30562,
+      "NumberOfAwardsMax": 5041
     }
   ],
   "ReviewsDisabled": false,
@@ -5050,9 +5056,9 @@
       "Count": 3303
     }
   ],
-  "EOS_Progressed": 212805,
+  "EOS_Progressed": 212822,
   "EOS_Completed": 2057,
-  "EOS_NewPlayers": 3038,
+  "EOS_NewPlayers": 3028,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -14475,6 +14481,11 @@
       "Time": "2023-07-17T19:05:57.4674482+00:00",
       "NumProgressed": 212805,
       "NumCompleted": 2057
+    },
+    {
+      "Time": "2023-07-17T20:05:43.8142667+00:00",
+      "NumProgressed": 212822,
+      "NumCompleted": 2057
     }
   ],
   "TotalAchievements": 507,
@@ -17692,9 +17703,9 @@
       "ID": "objective_completed_79",
       "SetID": "cc37lbc",
       "Name": "Underdeep Cartography",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 426
+      "UsersEstimate": 638
     },
     {
       "ID": "objective_completed_8",
@@ -18541,21 +18552,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 179079,
+      "Progressed": 179096,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 212805,
+      "Progressed": 212822,
       "Completed": 2057
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-07-17T18:58:38.637529+00:00",
-  "LastChanged_Achievements": "2023-07-17T19:05:57.4674474+00:00",
+  "LastChanged": "2023-07-17T19:58:21.1664126+00:00",
+  "LastChanged_Achievements": "2023-07-17T20:05:43.8142662+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:48.5227447+00:00",
-  "LastUpdate_Ratings": "2023-07-17T18:58:38.6375299+00:00",
-  "LastUpdate_Achievements": "2023-07-17T19:05:57.470101+00:00"
+  "LastUpdate_Ratings": "2023-07-17T19:58:21.1664133+00:00",
+  "LastUpdate_Achievements": "2023-07-17T20:05:43.8169054+00:00"
 }

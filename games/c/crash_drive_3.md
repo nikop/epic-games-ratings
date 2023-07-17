@@ -5,17 +5,17 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Brace for impact! | 32.00% | ~111 |
-| Baby's First Car | 31.00% | ~107 |
-| Pushover | 31.00% | ~107 |
+| Baby's First Car | 31.00% | ~108 |
+| Pushover | 31.00% | ~108 |
 | Amateur Mechanic | 30.00% | ~104 |
 | A Forest Walk | 30.00% | ~104 |
 | C-C-C-Combo! | 28.00% | ~97 |
 | Multiply that! | 28.00% | ~97 |
-| Fore! | 25.00% | ~86 |
-| The Collector | 25.00% | ~86 |
-| Insurance fraud | 25.00% | ~86 |
-| The Wild West | 25.00% | ~86 |
-| Snow Fun! | 25.00% | ~86 |
+| Fore! | 25.00% | ~87 |
+| Insurance fraud | 25.00% | ~87 |
+| The Wild West | 25.00% | ~87 |
+| Snow Fun! | 25.00% | ~87 |
+| The Collector | 24.00% | ~83 |
 | Bag of Tricks | 24.00% | ~83 |
 | I see the light! | 24.00% | ~83 |
 | In the Bag! | 24.00% | ~83 |
@@ -24,8 +24,8 @@
 | To and Fro | 23.00% | ~80 |
 | Take that Frosty! | 23.00% | ~80 |
 | Goodbye cruel world | 23.00% | ~80 |
-| Beach Party! | 23.00% | ~80 |
 | Disoriented | 22.00% | ~76 |
+| Beach Party! | 22.00% | ~76 |
 | Car-Tapult | 21.00% | ~73 |
 | Anger Issues | 21.00% | ~73 |
 | Your Highness | 21.00% | ~73 |
@@ -37,7 +37,7 @@
 | Assert Dominance | 18.00% | ~62 |
 | Speed of light | 18.00% | ~62 |
 | Out of this League | 15.00% | ~52 |
-| Special Forces | 14.00% | ~48 |
+| Special Forces | 14.00% | ~49 |
 | Toot Toot! | 13.00% | ~45 |
 | Blasting away! | 13.00% | ~45 |
 | High Roller | 12.00% | ~42 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 1.00% | ~3 |
 | Crashed and Driven | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 346 (Ranked 234)  
+Progressed: 347 (Ranked 234)  
 Completed: 2 (0.58%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,6 +103,7 @@ Completed: 2 (0.58%) (Ranked 121)
 | 2023-07-12 | 344 | 2 |
 | 2023-07-14 | 345 | 2 |
 | 2023-07-16 | 346 | 2 |
+| 2023-07-17 | 347 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

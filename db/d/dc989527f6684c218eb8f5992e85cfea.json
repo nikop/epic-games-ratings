@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7402,
+  "EOS_Progressed": 7408,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 825,
+  "EOS_NewPlayers": 824,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3411,6 +3411,11 @@
       "Time": "2023-07-17T19:03:21.5550968+00:00",
       "NumProgressed": 7402,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-17T20:02:34.8959702+00:00",
+      "NumProgressed": 7408,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -3422,7 +3427,7 @@
       "Name": "Self Portrait",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "ACH_COLOR_AVERAGE_AT_LEAST_6_AFTER_25_GAMES",
@@ -3494,7 +3499,7 @@
       "Name": "You tried your best!",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3183
+      "UsersEstimate": 3185
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -3510,7 +3515,7 @@
       "Name": "Facepalm",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1332
+      "UsersEstimate": 1333
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -3588,9 +3593,9 @@
       "ID": "ACH_WIN_A_GAME",
       "SetID": "5ck0pmd",
       "Name": "Art Intern",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1406
+      "UsersEstimate": 1482
     },
     {
       "ID": "ACH_WIN_A_GAME_GUESS_IT",
@@ -3614,21 +3619,21 @@
       "Name": "First Sketch",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1332
+      "UsersEstimate": 1333
     }
   ],
   "AchievementSets": [
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 7402,
+      "Progressed": 7408,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-07-17T19:03:21.5550962+00:00",
+  "LastChanged_Achievements": "2023-07-17T20:02:34.8959697+00:00",
   "LastUpdate_AppInfo": "2023-07-14T18:57:14.8780974+00:00",
-  "LastUpdate_Ratings": "2023-07-17T18:57:25.814135+00:00",
-  "LastUpdate_Achievements": "2023-07-17T19:03:21.5551578+00:00"
+  "LastUpdate_Ratings": "2023-07-17T19:57:07.2873501+00:00",
+  "LastUpdate_Achievements": "2023-07-17T20:02:34.8960139+00:00"
 }

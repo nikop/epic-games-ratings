@@ -1,21 +1,21 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.49 (Ranked 576)  
+Rating: 4.49 (Ranked 575)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~20,878 |
-| Advancement | 73.00% | ~17,722 |
-| Meticulously Efficient | 64.00% | ~15,537 |
-| Discovery | 61.00% | ~14,809 |
+| Stylish | 86.00% | ~20,879 |
+| Advancement | 73.00% | ~17,723 |
+| Meticulously Efficient | 64.00% | ~15,538 |
+| Discovery | 61.00% | ~14,810 |
 | Fully Upgraded | 54.00% | ~13,110 |
 | Swift Rift Removers | 54.00% | ~13,110 |
-| I collect Spores, Molds, and Fungi | 51.00% | ~12,381 |
-| Cultured | 51.00% | ~12,381 |
+| I collect Spores, Molds, and Fungi | 51.00% | ~12,382 |
+| Cultured | 51.00% | ~12,382 |
 | Vaporous Expansion | 48.00% | ~11,653 |
 | Teamwork | 44.00% | ~10,682 |
-| There you are! | 43.00% | ~10,439 |
+| There you are! | 43.00% | ~10,440 |
 | Clutch Capture | 41.00% | ~9,954 |
 | Back Off | 35.00% | ~8,497 |
 | Daily Dose | 35.00% | ~8,497 |
@@ -29,9 +29,9 @@ Rating: 4.49 (Ranked 576)
 | Legions | 26.00% | ~6,312 |
 | Right back at ya | 26.00% | ~6,312 |
 | Stunner | 26.00% | ~6,312 |
-| Pesky Jerks | 25.00% | ~6,069 |
-| Animated | 24.00% | ~5,826 |
-| Skilled | 24.00% | ~5,826 |
+| Pesky Jerks | 25.00% | ~6,070 |
+| Animated | 24.00% | ~5,827 |
+| Skilled | 24.00% | ~5,827 |
 | Collector | 23.00% | ~5,584 |
 | Ectoplasmic Entity | 23.00% | ~5,584 |
 | Rift Destroyer | 19.00% | ~4,613 |
@@ -55,9 +55,9 @@ Rating: 4.49 (Ranked 576)
 | Little Help Here | 2.00% | ~486 |
 | Ultimate Defense | 2.00% | ~486 |
 | Mycophile | 1.00% | ~243 |
-| I don't need these | 0.90% | ~218 |
+| I don't need these | 0.90% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,277 (Ranked 98)  
+Progressed: 24,278 (Ranked 98)  
 Completed: 46 (0.19%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 46 (0.19%) (Ranked 165)
 | 2023-07-14 | 24,226 | 46 |
 | 2023-07-15 | 24,245 | 46 |
 | 2023-07-16 | 24,264 | 46 |
-| 2023-07-17 | 24,277 | 46 |
+| 2023-07-17 | 24,278 | 46 |
 ## Awards
 Max (Great for Quick Sessions): 243  (Ranked 249)  
 Sum: 2,170 (Ranked 189)  

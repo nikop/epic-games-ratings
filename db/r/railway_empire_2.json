@@ -2,7 +2,7 @@
   "ID": "2d2e05ea844c42dc80ef341d89542b16",
   "Name": "Railway Empire 2",
   "ProductSlug": "railway-empire-2-46840c",
-  "Ranking_Rating": 576,
+  "Ranking_Rating": 575,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 171,
@@ -130,7 +130,7 @@
   "Tags": [],
   "EOS_Progressed": 1594,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3451,9 +3451,9 @@
       "ID": "A03",
       "SetID": "9b7p7eo",
       "Name": "Resistance is futile",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 239
+      "UsersEstimate": 255
     },
     {
       "ID": "A04",
@@ -3771,9 +3771,9 @@
       "ID": "A43",
       "SetID": "9b7p7eo",
       "Name": "Mole",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 446
+      "UsersEstimate": 462
     },
     {
       "ID": "A44",
@@ -3876,8 +3876,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-07-15T13:11:52.2660049+00:00",
-  "LastChanged_Achievements": "2023-07-17T19:00:50.9313999+00:00",
+  "LastChanged_Achievements": "2023-07-17T20:00:35.1759982+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:48.1822596+00:00",
-  "LastUpdate_Ratings": "2023-07-17T18:58:37.1169489+00:00",
-  "LastUpdate_Achievements": "2023-07-17T19:00:50.9314775+00:00"
+  "LastUpdate_Ratings": "2023-07-17T19:58:19.7076261+00:00",
+  "LastUpdate_Achievements": "2023-07-17T20:00:35.1760757+00:00"
 }

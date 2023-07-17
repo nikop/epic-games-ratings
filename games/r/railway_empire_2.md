@@ -1,7 +1,7 @@
 # Railway Empire 2
 [Store](https://store.epicgames.com/en-US/p/railway-empire-2-46840c)  
 [View Rawdata](../../db/r/railway_empire_2.json)  
-Rating: 4.49 (Ranked 576)  
+Rating: 4.49 (Ranked 575)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -29,8 +29,8 @@ Rating: 4.49 (Ranked 576)
 | Full Steam ahead | 32.00% | ~510 |
 | Financial Shark | 30.00% | ~478 |
 | All mine | 29.00% | ~462 |
+| Mole | 29.00% | ~462 |
 | Socializer | 29.00% | ~462 |
-| Mole | 28.00% | ~446 |
 | Country Life | 26.00% | ~414 |
 | General Manager | 25.00% | ~398 |
 | Hostile Takeover | 25.00% | ~398 |
@@ -40,8 +40,8 @@ Rating: 4.49 (Ranked 576)
 | Traffic Junction | 19.00% | ~303 |
 | Traffic Jam | 18.00% | ~287 |
 | Networker | 17.00% | ~271 |
+| Resistance is futile | 16.00% | ~255 |
 | Assimilated | 16.00% | ~255 |
-| Resistance is futile | 15.00% | ~239 |
 | Locusts | 15.00% | ~239 |
 | Max Power | 13.00% | ~207 |
 | Settler | 13.00% | ~207 |

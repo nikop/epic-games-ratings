@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 33609,
+  "EOS_Progressed": 33611,
   "EOS_Completed": 103,
-  "EOS_NewPlayers": 311,
+  "EOS_NewPlayers": 308,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -8178,6 +8178,11 @@
       "Time": "2023-07-17T19:04:36.4227477+00:00",
       "NumProgressed": 33609,
       "NumCompleted": 103
+    },
+    {
+      "Time": "2023-07-17T20:04:21.7829047+00:00",
+      "NumProgressed": 33611,
+      "NumCompleted": 103
     }
   ],
   "TotalAchievements": 14,
@@ -8189,7 +8194,7 @@
       "Name": "100 Stars",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1680
+      "UsersEstimate": 1681
     },
     {
       "ID": "150stars",
@@ -8205,7 +8210,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 8738
+      "UsersEstimate": 8739
     },
     {
       "ID": "allItems",
@@ -8269,7 +8274,7 @@
       "Name": "Hare Today",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 8402
+      "UsersEstimate": 8403
     },
     {
       "ID": "firstItem",
@@ -8277,7 +8282,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 25879
+      "UsersEstimate": 25880
     },
     {
       "ID": "roots",
@@ -8300,15 +8305,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 33609,
+      "Progressed": 33611,
       "Completed": 103
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-06-14T02:10:18.2883541+00:00",
-  "LastChanged_Achievements": "2023-07-17T19:04:36.422747+00:00",
+  "LastChanged_Achievements": "2023-07-17T20:04:21.7829042+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:17.7432934+00:00",
-  "LastUpdate_Ratings": "2023-07-17T19:00:29.386648+00:00",
-  "LastUpdate_Achievements": "2023-07-17T19:04:36.422799+00:00"
+  "LastUpdate_Ratings": "2023-07-17T20:00:12.9167166+00:00",
+  "LastUpdate_Achievements": "2023-07-17T20:04:21.782973+00:00"
 }

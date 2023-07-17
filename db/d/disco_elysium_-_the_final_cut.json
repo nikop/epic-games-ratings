@@ -1199,7 +1199,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 123292,
+  "EOS_Progressed": 123298,
   "EOS_Completed": 27,
   "EOS_NewPlayers": 331,
   "EOS_NewCompleters": 0,
@@ -9689,6 +9689,11 @@
       "Time": "2023-07-17T18:02:22.5847428+00:00",
       "NumProgressed": 123292,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-07-17T20:00:32.029746+00:00",
+      "NumProgressed": 123298,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -9732,7 +9737,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 22193
+      "UsersEstimate": 22194
     },
     {
       "ID": "ACH_COP_BAD",
@@ -9748,7 +9753,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 9863
+      "UsersEstimate": 9864
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -9756,7 +9761,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 29590
+      "UsersEstimate": 29592
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -9764,7 +9769,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 9863
+      "UsersEstimate": 9864
     },
     {
       "ID": "ACH_COP_DORK",
@@ -9780,7 +9785,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 34522
+      "UsersEstimate": 34523
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -9804,7 +9809,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 19727
+      "UsersEstimate": 19728
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -9812,7 +9817,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 24658
+      "UsersEstimate": 24660
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -9828,7 +9833,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 16028
+      "UsersEstimate": 16029
     },
     {
       "ID": "ACH_COP_STAR",
@@ -9836,7 +9841,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 18494
+      "UsersEstimate": 18495
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -9844,7 +9849,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 13562
+      "UsersEstimate": 13563
     },
     {
       "ID": "ACH_CUNO",
@@ -9860,7 +9865,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 11096
+      "UsersEstimate": 11097
     },
     {
       "ID": "ACH_GLUTEN",
@@ -9916,7 +9921,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 17261
+      "UsersEstimate": 17262
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -9980,7 +9985,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 16028
+      "UsersEstimate": 16029
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -10019,15 +10024,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 123292,
+      "Progressed": 123298,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-07-17T10:59:33.2487558+00:00",
-  "LastChanged_Achievements": "2023-07-17T18:02:22.584742+00:00",
+  "LastChanged_Achievements": "2023-07-17T20:00:32.0297452+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:06.3105356+00:00",
-  "LastUpdate_Ratings": "2023-07-17T18:59:35.2988643+00:00",
-  "LastUpdate_Achievements": "2023-07-17T18:02:22.5848304+00:00"
+  "LastUpdate_Ratings": "2023-07-17T19:59:15.4272465+00:00",
+  "LastUpdate_Achievements": "2023-07-17T20:00:32.0298369+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 576,
+  "Ranking_Rating": 575,
   "Ranking_Popularity": 249,
   "Ranking_PopularitySum": 189,
   "Ranking_EOS_Progress": 98,
@@ -1488,9 +1488,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 24277,
+  "EOS_Progressed": 24278,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -8078,6 +8078,11 @@
       "Time": "2023-07-17T19:03:39.433128+00:00",
       "NumProgressed": 24277,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-07-17T20:03:23.4219686+00:00",
+      "NumProgressed": 24278,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 51,
@@ -8089,7 +8094,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 17722
+      "UsersEstimate": 17723
     },
     {
       "ID": "Animated",
@@ -8097,7 +8102,7 @@
       "Name": "Animated",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 5826
+      "UsersEstimate": 5827
     },
     {
       "ID": "Back_Off",
@@ -8137,7 +8142,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 12381
+      "UsersEstimate": 12382
     },
     {
       "ID": "Collector",
@@ -8153,7 +8158,7 @@
       "Name": "Cultured",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 12381
+      "UsersEstimate": 12382
     },
     {
       "ID": "Daily_Dose",
@@ -8177,7 +8182,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 14809
+      "UsersEstimate": 14810
     },
     {
       "ID": "Dont_Need_These",
@@ -8185,7 +8190,7 @@
       "Name": "I don\u0027t need these",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "Ectoplasmic_Entity",
@@ -8201,7 +8206,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 15537
+      "UsersEstimate": 15538
     },
     {
       "ID": "Escape_Artist",
@@ -8305,7 +8310,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6069
+      "UsersEstimate": 6070
     },
     {
       "ID": "Reckless",
@@ -8369,7 +8374,7 @@
       "Name": "Skilled",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5826
+      "UsersEstimate": 5827
     },
     {
       "ID": "Solo_Capture",
@@ -8393,7 +8398,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 20878
+      "UsersEstimate": 20879
     },
     {
       "ID": "Summoner",
@@ -8449,7 +8454,7 @@
       "Name": "There you are!",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 10439
+      "UsersEstimate": 10440
     },
     {
       "ID": "Tobins_Prodigy",
@@ -8496,7 +8501,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 24277,
+      "Progressed": 24278,
       "Completed": 46
     }
   ],
@@ -8504,8 +8509,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-07-17T07:59:54.7405249+00:00",
-  "LastChanged_Achievements": "2023-07-17T19:03:39.4331274+00:00",
+  "LastChanged_Achievements": "2023-07-17T20:03:23.4219677+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:59.3663354+00:00",
-  "LastUpdate_Ratings": "2023-07-17T18:59:29.0925064+00:00",
-  "LastUpdate_Achievements": "2023-07-17T19:03:39.4332113+00:00"
+  "LastUpdate_Ratings": "2023-07-17T19:59:11.2793421+00:00",
+  "LastUpdate_Achievements": "2023-07-17T20:03:23.4220737+00:00"
 }

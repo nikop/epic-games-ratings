@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 24,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -4040,9 +4040,9 @@
       "ID": "Jude",
       "SetID": "b40dflc",
       "Name": "Jude",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 235
+      "UsersEstimate": 254
     },
     {
       "ID": "Le Juif et la France",
@@ -4097,8 +4097,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-07-17T19:03:29.2435874+00:00",
+  "LastChanged_Achievements": "2023-07-17T20:03:13.0401069+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:31.7321074+00:00",
-  "LastUpdate_Ratings": "2023-07-17T18:59:53.9026278+00:00",
-  "LastUpdate_Achievements": "2023-07-17T19:03:29.2436288+00:00"
+  "LastUpdate_Ratings": "2023-07-17T19:59:34.0685678+00:00",
+  "LastUpdate_Achievements": "2023-07-17T20:03:13.040152+00:00"
 }

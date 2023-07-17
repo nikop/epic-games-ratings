@@ -18,6 +18,7 @@ Rating: 4.62 (Ranked 347)
 | Stronger Together | 3.00% | ~150 |
 | My Final Form | 3.00% | ~150 |
 | Seat of Power | 3.00% | ~150 |
+| Fiery Friend | 3.00% | ~150 |
 | Impenetrable Fortress | 3.00% | ~150 |
 | Intimidation Tactics | 3.00% | ~150 |
 | Here be Dragons | 3.00% | ~150 |
@@ -32,7 +33,6 @@ Rating: 4.62 (Ranked 347)
 | Digging for Treasure | 2.00% | ~100 |
 | Preparation Is Everything | 2.00% | ~100 |
 | In a Liege of Your Own | 2.00% | ~100 |
-| Fiery Friend | 2.00% | ~100 |
 | Against the Odds | 2.00% | ~100 |
 | The Magic That Empowers Me! | 1.00% | ~50 |
 | God Emperor | 1.00% | ~50 |
