@@ -6,17 +6,17 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~65,578 |
-| Into the Unknown | 10.00% | ~59,616 |
-| First Shot | 10.00% | ~59,616 |
-| Herzlich Wilkommen! | 9.00% | ~53,654 |
-| Good Night & Good Luck | 9.00% | ~53,654 |
-| Sancho Panza | 8.00% | ~47,693 |
-| Under Pressure | 7.00% | ~41,731 |
-| On the Trail of the Enemy | 7.00% | ~41,731 |
-| Flag Burning | 7.00% | ~41,731 |
-| Oh, So This Is How It Works! | 7.00% | ~41,731 |
-| Night Hunter | 7.00% | ~41,731 |
+| You Never Forget Your First... | 11.00% | ~65,579 |
+| Into the Unknown | 10.00% | ~59,617 |
+| First Shot | 10.00% | ~59,617 |
+| Herzlich Wilkommen! | 9.00% | ~53,655 |
+| Good Night & Good Luck | 9.00% | ~53,655 |
+| Sancho Panza | 8.00% | ~47,694 |
+| Under Pressure | 7.00% | ~41,732 |
+| On the Trail of the Enemy | 7.00% | ~41,732 |
+| Flag Burning | 7.00% | ~41,732 |
+| Oh, So This Is How It Works! | 7.00% | ~41,732 |
+| Night Hunter | 7.00% | ~41,732 |
 | Light in the Darkness | 6.00% | ~35,770 |
 | Get Outta My House! | 6.00% | ~35,770 |
 | It Wasn't That Hard, Was It? | 6.00% | ~35,770 |
@@ -28,12 +28,12 @@ Number of Ratings: 7,305  (23.09.2022)
 | Tunnel Entrance | 5.00% | ~29,808 |
 | After the Fall | 5.00% | ~29,808 |
 | Can't Touch This! | 5.00% | ~29,808 |
-| Going Down | 4.00% | ~23,846 |
-| Family First | 4.00% | ~23,846 |
-| Your World, Your Rules | 4.00% | ~23,846 |
-| Death From Afar | 4.00% | ~23,846 |
-| Terminal Headache | 4.00% | ~23,846 |
-| Slowpoke! | 4.00% | ~23,846 |
+| Going Down | 4.00% | ~23,847 |
+| Family First | 4.00% | ~23,847 |
+| Your World, Your Rules | 4.00% | ~23,847 |
+| Death From Afar | 4.00% | ~23,847 |
+| Terminal Headache | 4.00% | ~23,847 |
+| Slowpoke! | 4.00% | ~23,847 |
 | Tickets, Please! | 3.00% | ~17,885 |
 | You're Going Down! | 3.00% | ~17,885 |
 | Municipal Services | 2.00% | ~11,923 |
@@ -49,9 +49,9 @@ Number of Ratings: 7,305  (23.09.2022)
 | Ironheart | 1.00% | ~5,962 |
 | Nemesis | 1.00% | ~2,416 |
 | Enter the Hall | 1.00% | ~2,416 |
-| Find Anything Interesting? | 0.90% | ~5,365 |
-| Boot Licker | 0.90% | ~5,365 |
-| Who Wants To Be a... | 0.90% | ~5,365 |
+| Find Anything Interesting? | 0.90% | ~5,366 |
+| Boot Licker | 0.90% | ~5,366 |
+| Who Wants To Be a... | 0.90% | ~5,366 |
 | Night of Terrors | 0.80% | ~1,933 |
 | Revenants | 0.70% | ~4,173 |
 | Get the Point? | 0.70% | ~4,173 |
@@ -59,8 +59,8 @@ Number of Ratings: 7,305  (23.09.2022)
 | Skullcrusher | 0.70% | ~1,691 |
 | Tanning Salon | 0.60% | ~3,577 |
 | Lightning Reflexes | 0.40% | ~2,385 |
-| A Friend in Need... | 0.30% | ~1,788 |
-| Man On a Mission | 0.30% | ~1,788 |
+| A Friend in Need... | 0.30% | ~1,789 |
+| Man On a Mission | 0.30% | ~1,789 |
 | Ultramarathon | 0.20% | ~1,192 |
 | Don't Look Up | 0.10% | ~596 |
 | True Nightrunner | 0.10% | ~596 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~242 |
 | Connoisseur | 0.10% | ~242 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 596,160 (Ranked 26)  
+Progressed: 596,170 (Ranked 26)  
 Completed: 60 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 60 (0.01%) (Ranked 223)
 | 2023-07-14 | 594,738 | 59 |
 | 2023-07-15 | 595,394 | 59 |
 | 2023-07-16 | 596,038 | 59 |
-| 2023-07-17 | 596,160 | 60 |
+| 2023-07-17 | 596,170 | 60 |
 ## Awards
 Max (Character Customization): 8,428  (Ranked 39)  
 Sum: 19,944 (Ranked 55)  

@@ -12,7 +12,7 @@ Number of Ratings: 281  (23.09.2022)
 | Can you smell what the Rod is Hooking | 50.00% | ~2,334 |
 | Scaling up | 50.00% | ~2,334 |
 | Ready to Rod and Roll | 42.00% | ~1,961 |
-| More Fish in the Sea | 41.00% | ~1,914 |
+| More Fish in the Sea | 42.00% | ~1,961 |
 | License to Gill | 33.00% | ~1,541 |
 | Fish Out of Water | 32.00% | ~1,494 |
 | Things that go Splash in the Night | 27.00% | ~1,261 |

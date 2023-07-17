@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 43,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -5106,9 +5106,9 @@
       "Count": 560
     }
   ],
-  "EOS_Progressed": 287827,
+  "EOS_Progressed": 287831,
   "EOS_Completed": 429,
-  "EOS_NewPlayers": 1391,
+  "EOS_NewPlayers": 1392,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -14521,6 +14521,11 @@
       "Time": "2023-07-17T08:04:37.8293384+00:00",
       "NumProgressed": 287827,
       "NumCompleted": 429
+    },
+    {
+      "Time": "2023-07-17T09:04:41.4996111+00:00",
+      "NumProgressed": 287831,
+      "NumCompleted": 429
     }
   ],
   "TotalAchievements": 45,
@@ -14532,7 +14537,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34539
+      "UsersEstimate": 34540
     },
     {
       "ID": "PFA_10",
@@ -14572,7 +14577,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 5,
       "XP": 70,
-      "UsersEstimate": 14391
+      "UsersEstimate": 14392
     },
     {
       "ID": "PFA_15",
@@ -14652,7 +14657,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 25904
+      "UsersEstimate": 25905
     },
     {
       "ID": "PFA_24",
@@ -14668,7 +14673,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14391
+      "UsersEstimate": 14392
     },
     {
       "ID": "PFA_26",
@@ -14700,7 +14705,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14391
+      "UsersEstimate": 14392
     },
     {
       "ID": "PFA_3",
@@ -14716,7 +14721,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 25904
+      "UsersEstimate": 25905
     },
     {
       "ID": "PFA_31",
@@ -14820,7 +14825,7 @@
       "Name": "Raising Expectations",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 14391
+      "UsersEstimate": 14392
     },
     {
       "ID": "PFA_43",
@@ -14876,7 +14881,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 25904
+      "UsersEstimate": 25905
     },
     {
       "ID": "PFA_9",
@@ -14891,7 +14896,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 287827,
+      "Progressed": 287831,
       "Completed": 429
     }
   ],
@@ -14899,8 +14904,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-07-17T03:58:00.363066+00:00",
-  "LastChanged_Achievements": "2023-07-17T08:04:37.8293379+00:00",
+  "LastChanged_Achievements": "2023-07-17T09:04:41.4996105+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:19.3801839+00:00",
-  "LastUpdate_Ratings": "2023-07-17T07:58:09.3488544+00:00",
-  "LastUpdate_Achievements": "2023-07-17T08:04:37.8294327+00:00"
+  "LastUpdate_Ratings": "2023-07-17T08:58:16.3613825+00:00",
+  "LastUpdate_Achievements": "2023-07-17T09:04:41.4997121+00:00"
 }

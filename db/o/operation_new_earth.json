@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 470,
+  "EOS_Progressed": 471,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
@@ -1641,6 +1641,11 @@
       "Time": "2023-07-17T08:05:57.470535+00:00",
       "NumProgressed": 470,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-17T09:05:48.1140222+00:00",
+      "NumProgressed": 471,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1732,7 +1737,7 @@
       "Name": "Keeping Busy",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "objective_headquarters_15",
@@ -1756,7 +1761,7 @@
       "Name": "Facility Online",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -1828,7 +1833,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -1892,7 +1897,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -1955,14 +1960,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 470,
+      "Progressed": 471,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-17T08:05:57.4705345+00:00",
+  "LastChanged_Achievements": "2023-07-17T09:05:48.1140216+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:28.9258865+00:00",
-  "LastUpdate_Ratings": "2023-07-17T08:01:19.512936+00:00",
-  "LastUpdate_Achievements": "2023-07-17T08:05:57.4706005+00:00"
+  "LastUpdate_Ratings": "2023-07-17T09:00:54.4919593+00:00",
+  "LastUpdate_Achievements": "2023-07-17T09:05:48.1140622+00:00"
 }

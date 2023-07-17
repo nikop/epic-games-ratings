@@ -9,7 +9,7 @@ Rating: 4.48 (Ranked 588)
 | Increasing your Power Level | 27.00% | ~288 |
 | Enter the Speed Gauntlet | 25.00% | ~267 |
 | I just can't choose | 25.00% | ~267 |
-| A Cheese Grater to the Face | 20.00% | ~213 |
+| A Cheese Grater to the Face | 20.00% | ~214 |
 | It's like an haircut | 18.00% | ~192 |
 | Put it on a shelf | 18.00% | ~192 |
 | Ride in the rising sun | 16.00% | ~171 |
@@ -58,7 +58,7 @@ Rating: 4.48 (Ranked 588)
 | I, need, more, shelves! | 0.50% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,067 (Ranked 186)  
+Progressed: 1,068 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-11 | 1,056 | 0 |
 | 2023-07-15 | 1,063 | 0 |
 | 2023-07-16 | 1,066 | 0 |
-| 2023-07-17 | 1,067 | 0 |
+| 2023-07-17 | 1,068 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

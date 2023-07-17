@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1067,
+  "EOS_Progressed": 1068,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -620,6 +620,11 @@
       "Time": "2023-07-17T06:00:15.7453281+00:00",
       "NumProgressed": 1067,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-17T09:01:07.8452084+00:00",
+      "NumProgressed": 1068,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -983,7 +988,7 @@
       "Name": "A Cheese Grater to the Face",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "TENPLATINUM",
@@ -1046,7 +1051,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1067,
+      "Progressed": 1068,
       "Completed": 0
     }
   ],
@@ -1054,8 +1059,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-07-17T08:01:37.2733406+00:00",
+  "LastChanged_Achievements": "2023-07-17T09:01:07.8452077+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:52.2995402+00:00",
-  "LastUpdate_Ratings": "2023-07-17T07:58:56.7531805+00:00",
-  "LastUpdate_Achievements": "2023-07-17T08:01:37.2733929+00:00"
+  "LastUpdate_Ratings": "2023-07-17T08:58:53.4459917+00:00",
+  "LastUpdate_Achievements": "2023-07-17T09:01:07.8452657+00:00"
 }

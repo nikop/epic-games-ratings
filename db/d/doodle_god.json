@@ -3,8 +3,8 @@
   "Name": "Doodle God",
   "ProductSlug": "doodle-god-f6a7b6",
   "Ranking_EOS_Progress": 260,
-  "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_Completed": 50,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-03-10T17:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 225,
+  "EOS_Progressed": 226,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.56,
+  "EOS_Completed_Percentage": 3.54,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:26.6583072+00:00",
@@ -196,6 +196,11 @@
       "Time": "2023-07-08T11:06:52.3039603+00:00",
       "NumProgressed": 225,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-17T09:03:17.5104735+00:00",
+      "NumProgressed": 226,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 22,
@@ -207,7 +212,7 @@
       "Name": "Good Start",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "605742",
@@ -223,7 +228,7 @@
       "Name": "Creator of Life",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "605762",
@@ -245,9 +250,9 @@
       "ID": "605782",
       "SetID": "4lpaifm",
       "Name": "Creator of Technology",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 54
+      "UsersEstimate": 52
     },
     {
       "ID": "605792",
@@ -319,7 +324,7 @@
       "Name": "Practice Makes Perfect",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "605892",
@@ -327,7 +332,7 @@
       "Name": "Similar to Similar",
       "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "605912",
@@ -382,7 +387,7 @@
     {
       "ID": "4lpaifm",
       "IsBase": true,
-      "Progressed": 225,
+      "Progressed": 226,
       "Completed": 8
     }
   ],
@@ -390,8 +395,8 @@
   "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
   "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
-  "LastChanged_Achievements": "2023-07-17T08:01:49.1802085+00:00",
+  "LastChanged_Achievements": "2023-07-17T09:03:17.5104727+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:25.4233762+00:00",
-  "LastUpdate_Ratings": "2023-07-17T08:00:19.8531138+00:00",
-  "LastUpdate_Achievements": "2023-07-17T08:01:49.1802433+00:00"
+  "LastUpdate_Ratings": "2023-07-17T09:00:03.0181186+00:00",
+  "LastUpdate_Achievements": "2023-07-17T09:03:17.5104915+00:00"
 }

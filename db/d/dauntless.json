@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 23,
   "Ranking_EOS_Progress": 495,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2020-03-19T13:51:00+00:00",
@@ -6714,10 +6714,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 51946,
       "NumberOfAwardsMax": 20791
+    },
+    {
+      "Time": "2023-07-17T08:59:44.9052828+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 51963,
+      "NumberOfAwardsMax": 20791
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 51946,
+  "NumberOfAwards": 51963,
   "NumberOfAwardsMax": 20791,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6731,7 +6737,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 13956
+      "Count": 13969
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -6755,7 +6761,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 2802
+      "Count": 2804
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6767,7 +6773,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 3248
+      "Count": 3250
     },
     {
       "Text": "This game has Amazing Characters",
@@ -6799,8 +6805,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:00.3029746+00:00",
-  "LastChanged": "2023-07-17T07:00:16.577638+00:00",
+  "LastChanged": "2023-07-17T08:59:44.9052826+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:03.0031384+00:00",
-  "LastUpdate_Ratings": "2023-07-17T07:59:57.355581+00:00",
-  "LastUpdate_Achievements": "2023-07-17T08:05:52.7901058+00:00"
+  "LastUpdate_Ratings": "2023-07-17T08:59:44.9052835+00:00",
+  "LastUpdate_Achievements": "2023-07-17T09:05:44.1931435+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 11,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 382,
+  "EOS_Progressed": 383,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 18.59,
+  "EOS_Completed_Percentage": 18.54,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -1818,6 +1818,11 @@
       "Time": "2023-07-17T00:00:29.3235969+00:00",
       "NumProgressed": 382,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2023-07-17T09:03:31.1260745+00:00",
+      "NumProgressed": 383,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 22,
@@ -1829,7 +1834,7 @@
       "Name": "Welcome!",
       "Percentage": 98,
       "XP": 35,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "LEVEL_002",
@@ -1845,7 +1850,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "LEVEL_004",
@@ -1861,7 +1866,7 @@
       "Name": "Bridges to come and go",
       "Percentage": 49,
       "XP": 35,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "LEVEL_006",
@@ -1869,7 +1874,7 @@
       "Name": "Found an oasis",
       "Percentage": 43,
       "XP": 35,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "LEVEL_007",
@@ -1899,9 +1904,9 @@
       "ID": "LEVEL_010",
       "SetID": "3khpmem",
       "Name": "Easy and steady climb",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 111
+      "UsersEstimate": 107
     },
     {
       "ID": "LEVEL_011",
@@ -1909,7 +1914,7 @@
       "Name": "At the heart of the city",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "LEVEL_012",
@@ -1923,9 +1928,9 @@
       "ID": "LEVEL_013",
       "SetID": "3khpmem",
       "Name": "Elevated ring",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 92
+      "UsersEstimate": 88
     },
     {
       "ID": "LEVEL_014",
@@ -1949,7 +1954,7 @@
       "Name": "The beach is right there",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "LEVEL_017",
@@ -1957,7 +1962,7 @@
       "Name": "Commuting",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "LEVEL_018",
@@ -2004,7 +2009,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 382,
+      "Progressed": 383,
       "Completed": 71
     }
   ],
@@ -2012,8 +2017,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-07-17T08:03:26.3988419+00:00",
+  "LastChanged_Achievements": "2023-07-17T09:03:31.1260739+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:43.4679377+00:00",
-  "LastUpdate_Ratings": "2023-07-17T07:58:51.2083347+00:00",
-  "LastUpdate_Achievements": "2023-07-17T08:03:26.3988732+00:00"
+  "LastUpdate_Ratings": "2023-07-17T08:58:48.4792955+00:00",
+  "LastUpdate_Achievements": "2023-07-17T09:03:31.1261041+00:00"
 }

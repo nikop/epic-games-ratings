@@ -27,10 +27,10 @@
 | Skin Of Your Teeth | 12.00% | ~25 |
 | Oh My Gourd | 12.00% | ~19 |
 | This Is My Boomstick | 12.00% | ~19 |
+| Getting Started | 11.00% | ~23 |
 | Quit Horsin' Around | 11.00% | ~23 |
 | Summers Here | 11.00% | ~17 |
 | Fresh Pancake | 10.00% | ~21 |
-| Getting Started | 10.00% | ~21 |
 | Eggtraordinary | 10.00% | ~21 |
 | Perfect | 9.00% | ~14 |
 | Expert Survivor | 9.00% | ~14 |

@@ -2,7 +2,7 @@
   "ID": "af0ea01162704696bebf8633a52a7a6d",
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
-  "Ranking_Rating": 928,
+  "Ranking_Rating": 929,
   "Ranking_Popularity": 219,
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 75,
@@ -2556,9 +2556,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 69026,
+  "EOS_Progressed": 69027,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 364,
+  "EOS_NewPlayers": 362,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -11706,6 +11706,11 @@
       "Time": "2023-07-17T08:05:30.0483554+00:00",
       "NumProgressed": 69026,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-07-17T09:05:25.2272914+00:00",
+      "NumProgressed": 69027,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 37,
@@ -11717,7 +11722,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 34513
+      "UsersEstimate": 34514
     },
     {
       "ID": "ACH_0011",
@@ -11733,7 +11738,7 @@
       "Name": "Roid Ranger",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 14495
+      "UsersEstimate": 14496
     },
     {
       "ID": "ACH_0013",
@@ -11741,7 +11746,7 @@
       "Name": "Hidden Sonata",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8973
+      "UsersEstimate": 8974
     },
     {
       "ID": "ACH_0014",
@@ -11861,7 +11866,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 44867
+      "UsersEstimate": 44868
     },
     {
       "ID": "ACH_0210",
@@ -11869,7 +11874,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 51079
+      "UsersEstimate": 51080
     },
     {
       "ID": "ACH_0211",
@@ -11885,7 +11890,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 32442
+      "UsersEstimate": 32443
     },
     {
       "ID": "ACH_0300",
@@ -11989,7 +11994,7 @@
       "Name": "Dragonslayer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11734
+      "UsersEstimate": 11735
     },
     {
       "ID": "ACH_0460",
@@ -12012,7 +12017,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 69026,
+      "Progressed": 69027,
       "Completed": 36
     }
   ],
@@ -12020,8 +12025,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-07-17T03:25:43.4510315+00:00",
-  "LastChanged_Achievements": "2023-07-17T08:05:30.0483549+00:00",
+  "LastChanged_Achievements": "2023-07-17T09:05:25.2272907+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:02.3078188+00:00",
-  "LastUpdate_Ratings": "2023-07-17T08:00:53.9078891+00:00",
-  "LastUpdate_Achievements": "2023-07-17T08:05:30.0484603+00:00"
+  "LastUpdate_Ratings": "2023-07-17T09:00:30.5613454+00:00",
+  "LastUpdate_Achievements": "2023-07-17T09:05:25.2273765+00:00"
 }

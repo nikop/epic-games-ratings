@@ -1214,9 +1214,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 426806,
+  "EOS_Progressed": 426807,
   "EOS_Completed": 517,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -7479,6 +7479,11 @@
       "Time": "2023-07-17T06:00:22.7404682+00:00",
       "NumProgressed": 426806,
       "NumCompleted": 517
+    },
+    {
+      "Time": "2023-07-17T09:03:14.5293418+00:00",
+      "NumProgressed": 426807,
+      "NumCompleted": 517
     }
   ],
   "TotalAchievements": 41,
@@ -7498,7 +7503,7 @@
       "Name": "Harness Your Power",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 162186
+      "UsersEstimate": 162187
     },
     {
       "ID": "ACH_ABILITY_BOW",
@@ -7658,7 +7663,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 405466
+      "UsersEstimate": 405467
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -7674,7 +7679,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 307300
+      "UsersEstimate": 307301
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -7682,7 +7687,7 @@
       "Name": "The Open Range",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 157918
+      "UsersEstimate": 157919
     },
     {
       "ID": "ACH_LOCATION_FOREST",
@@ -7690,7 +7695,7 @@
       "Name": "Into the Woods",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 294496
+      "UsersEstimate": 294497
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -7706,7 +7711,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 341445
+      "UsersEstimate": 341446
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -7722,7 +7727,7 @@
       "Name": "Zen Master",
       "Percentage": 8,
       "XP": 60,
-      "UsersEstimate": 34144
+      "UsersEstimate": 34145
     },
     {
       "ID": "ACH_PHOTO_MODE",
@@ -7770,7 +7775,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 239011
+      "UsersEstimate": 239012
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -7817,15 +7822,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 426806,
+      "Progressed": 426807,
       "Completed": 517
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-07-15T21:59:21.0545401+00:00",
-  "LastChanged_Achievements": "2023-07-17T08:01:45.6459149+00:00",
+  "LastChanged_Achievements": "2023-07-17T09:03:14.5293412+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:09.9244154+00:00",
-  "LastUpdate_Ratings": "2023-07-17T07:59:07.1816154+00:00",
-  "LastUpdate_Achievements": "2023-07-17T08:01:45.6460274+00:00"
+  "LastUpdate_Ratings": "2023-07-17T08:59:01.1550686+00:00",
+  "LastUpdate_Achievements": "2023-07-17T09:03:14.5294446+00:00"
 }

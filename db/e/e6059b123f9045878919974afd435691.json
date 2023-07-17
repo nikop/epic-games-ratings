@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 615,
+  "EOS_Progressed": 616,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
@@ -1181,6 +1181,11 @@
       "Time": "2023-07-17T08:05:28.9493609+00:00",
       "NumProgressed": 615,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-17T09:05:24.2963985+00:00",
+      "NumProgressed": 616,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1192,7 +1197,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -1264,7 +1269,7 @@
       "Name": "Capraphobia",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -1312,7 +1317,7 @@
       "Name": "Burnt Smell",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
@@ -1470,9 +1475,9 @@
       "ID": "KILLR_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Breaking Twigs",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 277
+      "UsersEstimate": 271
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -1488,7 +1493,7 @@
       "Name": "Decakill!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -1518,9 +1523,9 @@
       "ID": "KLACKEY_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "End the Infestation",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 37
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_3",
@@ -1552,7 +1557,7 @@
       "Name": "Don\u0027t Turn Your Back",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -1584,7 +1589,7 @@
       "Name": "Night Snack",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -1719,14 +1724,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 615,
+      "Progressed": 616,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-17T08:05:28.9493604+00:00",
+  "LastChanged_Achievements": "2023-07-17T09:05:24.2963971+00:00",
   "LastUpdate_AppInfo": "2023-07-13T13:57:00.6642341+00:00",
-  "LastUpdate_Ratings": "2023-07-17T07:57:29.7595903+00:00",
-  "LastUpdate_Achievements": "2023-07-17T08:05:28.9494348+00:00"
+  "LastUpdate_Ratings": "2023-07-17T08:57:40.7385002+00:00",
+  "LastUpdate_Achievements": "2023-07-17T09:05:24.2964728+00:00"
 }

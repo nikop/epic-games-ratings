@@ -4,7 +4,7 @@
   "ProductSlug": "flat-heroes-fec628",
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -294,9 +294,9 @@
       "ID": "DashDashDash",
       "SetID": "d9ekhim",
       "Name": "Be water, my friend",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 214
     },
     {
       "ID": "DashLevitationDashAttack",
@@ -566,9 +566,9 @@
       "ID": "World3Boss",
       "SetID": "d9ekhim",
       "Name": "The King of Flat",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 158
     },
     {
       "ID": "World4Boss",
@@ -631,8 +631,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-07-17T08:05:36.01877+00:00",
+  "LastChanged_Achievements": "2023-07-17T09:05:30.1774823+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:07.5133582+00:00",
-  "LastUpdate_Ratings": "2023-07-17T07:57:59.1566884+00:00",
-  "LastUpdate_Achievements": "2023-07-17T08:05:36.018837+00:00"
+  "LastUpdate_Ratings": "2023-07-17T08:58:04.8193061+00:00",
+  "LastUpdate_Achievements": "2023-07-17T09:05:30.177518+00:00"
 }

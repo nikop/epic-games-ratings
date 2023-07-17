@@ -6,10 +6,10 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,362 |
-| That's a Grand Army | 8.00% | ~5,655 |
-| That is mine! | 8.00% | ~5,655 |
-| Victorious! | 8.00% | ~5,655 |
+| Until death do us apart | 9.00% | ~6,363 |
+| That's a Grand Army | 8.00% | ~5,656 |
+| That is mine! | 8.00% | ~5,656 |
+| Victorious! | 8.00% | ~5,656 |
 | Brothers in Arms | 6.00% | ~4,242 |
 | That's a Grand Navy | 6.00% | ~4,242 |
 | Seriously?! | 6.00% | ~4,242 |
@@ -53,13 +53,13 @@ Number of Ratings: 8,414  (23.09.2022)
 | The pen is mightier than the sword | 0.60% | ~424 |
 | This is My Faith | 0.60% | ~424 |
 | Time Bandit | 0.60% | ~424 |
-| Absolutely | 0.50% | ~353 |
-| Grand Coalition | 0.50% | ~353 |
-| In the Name of the Father | 0.50% | ~353 |
-| Live Long and Prosper | 0.50% | ~353 |
-| Ruina Imperii | 0.50% | ~353 |
-| Trophy Hunter | 0.50% | ~353 |
-| Voting Streak | 0.50% | ~353 |
+| Absolutely | 0.50% | ~354 |
+| Grand Coalition | 0.50% | ~354 |
+| In the Name of the Father | 0.50% | ~354 |
+| Live Long and Prosper | 0.50% | ~354 |
+| Ruina Imperii | 0.50% | ~354 |
+| Trophy Hunter | 0.50% | ~354 |
+| Voting Streak | 0.50% | ~354 |
 | All Your Trade Are Belong to Us | 0.40% | ~283 |
 | Bleed Them Dry | 0.40% | ~283 |
 | Dude, Where's my Boat? | 0.40% | ~283 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 70,692 (Ranked 74)  
+Progressed: 70,703 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -449,7 +449,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-14 | 69,707 | 0 |
 | 2023-07-15 | 70,161 | 0 |
 | 2023-07-16 | 70,611 | 0 |
-| 2023-07-17 | 70,692 | 0 |
+| 2023-07-17 | 70,703 | 0 |
 ## Awards
 Max (Educational): 5,546  (Ranked 60)  
 Sum: 45,763 (Ranked 26)  

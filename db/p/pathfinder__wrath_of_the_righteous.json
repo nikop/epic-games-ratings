@@ -3128,9 +3128,9 @@
       "Count": 381
     }
   ],
-  "EOS_Progressed": 10368,
+  "EOS_Progressed": 10369,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8573,6 +8573,11 @@
       "Time": "2023-07-17T05:04:13.3208749+00:00",
       "NumProgressed": 10368,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-17T09:05:00.9255765+00:00",
+      "NumProgressed": 10369,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -8600,7 +8605,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "04_FithCrusade",
@@ -9006,9 +9011,9 @@
       "ID": "55_NextDoorPlay",
       "SetID": "989of5o",
       "Name": "Next-Door Play",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 311
+      "UsersEstimate": 415
     },
     {
       "ID": "56_GetToad",
@@ -9504,28 +9509,28 @@
       "Name": "Beware Still Water",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     }
   ],
   "AchievementSets": [
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9150,
+      "Progressed": 9151,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10368,
+      "Progressed": 10369,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-15T20:59:00.2189312+00:00",
-  "LastChanged_Achievements": "2023-07-17T08:05:01.6949678+00:00",
+  "LastChanged_Achievements": "2023-07-17T09:05:00.9255759+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:17.6267462+00:00",
-  "LastUpdate_Ratings": "2023-07-17T07:59:15.2820609+00:00",
-  "LastUpdate_Achievements": "2023-07-17T08:05:01.6952183+00:00"
+  "LastUpdate_Ratings": "2023-07-17T08:59:08.5793715+00:00",
+  "LastUpdate_Achievements": "2023-07-17T09:05:00.9257689+00:00"
 }

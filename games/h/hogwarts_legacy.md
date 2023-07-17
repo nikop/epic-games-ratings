@@ -5,12 +5,12 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 12.00% | ~34,539 |
+| The Sort Who Makes an Entrance | 12.00% | ~34,540 |
 | First Class Student | 10.00% | ~28,783 |
 | Troll with the Punches | 10.00% | ~28,783 |
-| A Keen Sense of Spell | 9.00% | ~25,904 |
-| A Talent for Spending | 9.00% | ~25,904 |
-| That's a Keeper | 9.00% | ~25,904 |
+| A Keen Sense of Spell | 9.00% | ~25,905 |
+| A Talent for Spending | 9.00% | ~25,905 |
+| That's a Keeper | 9.00% | ~25,905 |
 | Grappling with a Graphorn | 8.00% | ~23,026 |
 | The One Who Mastered Memories | 8.00% | ~23,026 |
 | The Hallowed Hero | 8.00% | ~23,026 |
@@ -26,10 +26,10 @@ Rating: 4.77 (Ranked 109)
 | Beast Friends | 6.00% | ~17,270 |
 | A Sallow Grave | 6.00% | ~17,270 |
 | Flight the Good Flight | 6.00% | ~17,270 |
-| The Seeker of Knowledge | 5.00% | ~14,391 |
-| The Root of the Problem | 5.00% | ~14,391 |
-| Third Time's a Charm | 5.00% | ~14,391 |
-| Raising Expectations | 5.00% | ~14,391 |
+| The Seeker of Knowledge | 5.00% | ~14,392 |
+| The Root of the Problem | 5.00% | ~14,392 |
+| Third Time's a Charm | 5.00% | ~14,392 |
+| Raising Expectations | 5.00% | ~14,392 |
 | The Ends Petrify the Means | 4.00% | ~11,513 |
 | The Toast of the Town | 3.00% | ~8,635 |
 | Going Through the Potions | 3.00% | ~8,635 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.50% | ~1,439 |
 | Collector's Edition | 0.20% | ~576 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 287,827 (Ranked 41)  
+Progressed: 287,831 (Ranked 41)  
 Completed: 429 (0.15%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 429 (0.15%) (Ranked 173)
 | 2023-07-14 | 287,497 | 426 |
 | 2023-07-15 | 287,613 | 428 |
 | 2023-07-16 | 287,788 | 429 |
-| 2023-07-17 | 287,827 | 429 |
+| 2023-07-17 | 287,831 | 429 |
 ## Awards
 Max (Character Customization): 21,042  (Ranked 17)  
 Sum: 39,362 (Ranked 30)  

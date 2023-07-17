@@ -318,9 +318,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 62284,
+  "EOS_Progressed": 62287,
   "EOS_Completed": 312,
-  "EOS_NewPlayers": 831,
+  "EOS_NewPlayers": 832,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -9628,6 +9628,11 @@
       "Time": "2023-07-17T08:03:27.402528+00:00",
       "NumProgressed": 62284,
       "NumCompleted": 312
+    },
+    {
+      "Time": "2023-07-17T09:03:32.0188075+00:00",
+      "NumProgressed": 62287,
+      "NumCompleted": 312
     }
   ],
   "TotalAchievements": 24,
@@ -9655,7 +9660,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 42353
+      "UsersEstimate": 42355
     },
     {
       "ID": "BEST_FRIENDS",
@@ -9663,7 +9668,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 13702
+      "UsersEstimate": 13703
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -9671,7 +9676,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 16194
+      "UsersEstimate": 16195
     },
     {
       "ID": "ERADICATE",
@@ -9695,7 +9700,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 18062
+      "UsersEstimate": 18063
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -9711,7 +9716,7 @@
       "Name": "GARDEN OF LIGHT",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 11211
+      "UsersEstimate": 11212
     },
     {
       "ID": "INFUSED_WITH_LIGHT",
@@ -9719,7 +9724,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 33011
+      "UsersEstimate": 33012
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -9791,7 +9796,7 @@
       "Name": "SPIRIT DASH",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 6851
+      "UsersEstimate": 6852
     },
     {
       "ID": "SPIRIT_FORM",
@@ -9799,7 +9804,7 @@
       "Name": "SPIRIT FORM",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 9965
+      "UsersEstimate": 9966
     },
     {
       "ID": "UPROOTING_DARKNESS",
@@ -9830,7 +9835,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 62284,
+      "Progressed": 62287,
       "Completed": 312
     }
   ],
@@ -9838,8 +9843,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-06-20T12:00:48.5369511+00:00",
-  "LastChanged_Achievements": "2023-07-17T08:03:27.4025276+00:00",
+  "LastChanged_Achievements": "2023-07-17T09:03:32.0188069+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:26.2537534+00:00",
-  "LastUpdate_Ratings": "2023-07-17T08:00:19.3651492+00:00",
-  "LastUpdate_Achievements": "2023-07-17T08:03:27.4026187+00:00"
+  "LastUpdate_Ratings": "2023-07-17T09:00:02.4942285+00:00",
+  "LastUpdate_Achievements": "2023-07-17T09:03:32.0188831+00:00"
 }

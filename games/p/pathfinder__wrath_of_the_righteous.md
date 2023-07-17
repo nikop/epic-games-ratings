@@ -11,7 +11,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Burning City | 14.00% | ~1,452 |
 | Mythic Choices | 12.00% | ~1,244 |
 | Defender's Heart | 12.00% | ~1,244 |
-| Banner over the Citadel | 11.00% | ~1,140 |
+| Banner over the Citadel | 11.00% | ~1,141 |
 | Queen's Gratitude | 10.00% | ~1,037 |
 | Fifth Crusade | 6.00% | ~622 |
 | Embrace of the Abyss | 5.00% | ~518 |
@@ -23,14 +23,14 @@ Number of Ratings: 1,354  (23.09.2022)
 | Great Upstart | 4.00% | ~415 |
 | Voice from Your Dreams | 4.00% | ~415 |
 | All Paths Open | 4.00% | ~415 |
+| Next-Door Play | 4.00% | ~415 |
 | Heart of the Fallen Land | 3.00% | ~311 |
 | Divide and Rule | 3.00% | ~311 |
 | Mythic Reinforcements | 3.00% | ~311 |
 | A Flame | 3.00% | ~311 |
 | Hey, I Know You! | 3.00% | ~311 |
-| Next-Door Play | 3.00% | ~311 |
 | Get the Toad | 3.00% | ~311 |
-| Beware Still Water | 3.00% | ~274 |
+| Beware Still Water | 3.00% | ~275 |
 | Path of the Trickster | 2.00% | ~207 |
 | Path of the Lich | 2.00% | ~207 |
 | Heroic Victory | 2.00% | ~207 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,368 (Ranked 117)  
+Progressed: 10,369 (Ranked 117)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-14 | 10,312 | 0 |
 | 2023-07-15 | 10,338 | 0 |
 | 2023-07-16 | 10,363 | 0 |
-| 2023-07-17 | 10,368 | 0 |
+| 2023-07-17 | 10,369 | 0 |
 ## Awards
 Max (Character Customization): 1,679  (Ranked 117)  
 Sum: 6,816 (Ranked 112)  

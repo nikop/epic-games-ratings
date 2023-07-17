@@ -3,9 +3,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Break Out | 5.00% | ~1 |
 | Flawless Victory | 5.00% | ~1 |
-| Break Out | 0.00% | ~0 |
 | Find Allies | 0.00% | ~0 |
+| Powerful Allies | 0.00% | ~0 |
 | Calm before the Storm | 0.00% | ~0 |
 | To Battle | 0.00% | ~0 |
 | Godslayer | 0.00% | ~0 |
@@ -34,7 +35,6 @@
 | The Collector | 0.00% | ~0 |
 | Feeling Fancy | 0.00% | ~0 |
 | Summiter | 0.00% | ~0 |
-| Powerful Allies | -5.30% | ~-1 |
 | The Mentor | -5.30% | ~-1 |
 | Airborne | -5.30% | ~-1 |
 | Alchemist | -5.30% | ~-1 |
