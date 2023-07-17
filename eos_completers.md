@@ -23,7 +23,7 @@
 | 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.20% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 23 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 9.30% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.69% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.68% |
 | 25 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
 | 26 | [Smelter](games/s/smelter.md) | 8.11% |
 | 27 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.06% |
@@ -74,7 +74,7 @@
 | 72 | [Bloodshore](games/b/bloodshore.md) | 2.27% |
 | 73 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.15% |
 | 74 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.13% |
-| 75 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.10% |
+| 75 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.09% |
 | 76 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.08% |
 | 77 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
 | 78 | [Frogun](games/f/frogun.md) | 1.91% |
@@ -125,7 +125,7 @@
 | 123 | [Potion Permit](games/p/potion_permit.md) | 0.55% |
 | 124 | [The Surge 2](games/t/the_surge_2.md) | 0.54% |
 | 125 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.53% |
-| 126 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.52% |
+| 126 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.51% |
 | 127 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
 | 127 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
 | 129 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.48% |
@@ -142,10 +142,10 @@
 | 140 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.36% |
 | 141 | [Scrapnaut](games/s/scrapnaut.md) | 0.34% |
 | 142 | [Dead Island 2](games/d/dead_island_2.md) | 0.33% |
-| 142 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.33% |
 | 142 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.33% |
 | 142 | [The Surge](games/t/the_surge.md) | 0.33% |
 | 142 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.33% |
+| 146 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.32% |
 | 147 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.31% |
 | 147 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
 | 147 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
@@ -181,13 +181,13 @@
 | 179 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 180 | [Fall Guys](games/f/fall_guys.md) | 0.11% |
 | 180 | [Ring of Pain](games/r/ring_of_pain.md) | 0.11% |
-| 180 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.11% |
-| 183 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.10% |
-| 183 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
-| 183 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.10% |
-| 183 | [House Flipper](games/h/house_flipper.md) | 0.10% |
-| 183 | [Outward Definitive Edition](games/o/outward.md) | 0.10% |
-| 183 | [Supraland](games/s/supraland.md) | 0.10% |
+| 182 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.10% |
+| 182 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
+| 182 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.10% |
+| 182 | [House Flipper](games/h/house_flipper.md) | 0.10% |
+| 182 | [Outward Definitive Edition](games/o/outward.md) | 0.10% |
+| 182 | [Supraland](games/s/supraland.md) | 0.10% |
+| 182 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.10% |
 | 189 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 189 | [Partisans 1941](games/p/partisans_1941.md) | 0.09% |
 | 189 | [Riverbond](games/r/riverbond.md) | 0.09% |
