@@ -25,7 +25,7 @@
 | 23 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 9.52% |
 | 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.65% |
 | 25 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
-| 26 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.26% |
+| 26 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.20% |
 | 27 | [Smelter](games/s/smelter.md) | 8.11% |
 | 28 | [Ravenlok](games/r/ravenlok.md) | 7.44% |
 | 29 | [Time Loader](games/t/time_loader.md) | 7.14% |
@@ -34,11 +34,11 @@
 | 32 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.67% |
 | 33 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 34 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 35 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.69% |
+| 35 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.66% |
 | 36 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
 | 37 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.03% |
-| 38 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.91% |
-| 39 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.88% |
+| 38 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.88% |
+| 38 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.88% |
 | 40 | [JARS](games/j/jars.md) | 4.84% |
 | 41 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
 | 42 | [Without Escape](games/w/without_escape.md) | 4.55% |
@@ -70,7 +70,7 @@
 | 68 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.51% |
 | 69 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 70 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
-| 71 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.35% |
+| 71 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.34% |
 | 72 | [Bloodshore](games/b/bloodshore.md) | 2.27% |
 | 73 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.15% |
 | 74 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.13% |
@@ -494,4 +494,4 @@
 | 236 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 236 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 236 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,910 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
+| 2,911 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |

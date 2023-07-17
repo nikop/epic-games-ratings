@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [My Summer Adventure: Memories of Another Life](games/0/02bd18d5942c422db72bcff5b641b0e7.md) | 2023-07-17 | - |  | - | - |
 | [Insomnis](games/i/insomnis.md) | 2023-07-17 | 27 (1,000 XP) | 1 | - | - |
 | [Xenonauts 2](games/x/xenonauts_2.md) | 2023-07-18 | - |  | - | - |
 | [Outliver: Tribulation](games/1/13e30807efce43ea9e04ac1c45668d8e.md) | 2023-07-18 | 21 (1,000 XP) | 1 | - | - |
@@ -20,6 +19,7 @@
 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2023-07-20 | 66 (1,000 XP) | 3 | - | - |
 | [Tri6 Infinite](games/9/9588d511dc28483dbadb1b8c1ec196e9.md) | 2023-07-20 | 24 (1,000 XP) | 2 | - | - |
 | [Kula](games/1/1a1f669b43f94c33b91f9db5ff063ba1.md) | 2023-07-20 | - |  | - | - |
+| [ACL Pro Cornhole](games/9/91bf18cde18b4357807b5c3e964b7e56.md) | 2023-07-21 | - |  | - | - |
 | [Sakura Bunny Girls](games/9/94c1c4aa628f404abe30a093cdb99bda.md) | 2023-07-23 | - |  | - | - |
 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 2023-07-24 | - |  | - | - |
 | [Mr. Run and Jump](games/4/499acd70c5dd4e7d9d6af210338e2ae6.md) | 2023-07-25 | - |  | - | - |
