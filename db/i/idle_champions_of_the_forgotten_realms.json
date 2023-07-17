@@ -5038,9 +5038,9 @@
       "Count": 3303
     }
   ],
-  "EOS_Progressed": 212699,
+  "EOS_Progressed": 212725,
   "EOS_Completed": 2056,
-  "EOS_NewPlayers": 3058,
+  "EOS_NewPlayers": 3061,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -14438,6 +14438,11 @@
       "Time": "2023-07-17T14:06:07.7610764+00:00",
       "NumProgressed": 212699,
       "NumCompleted": 2056
+    },
+    {
+      "Time": "2023-07-17T15:06:44.1532907+00:00",
+      "NumProgressed": 212725,
+      "NumCompleted": 2056
     }
   ],
   "TotalAchievements": 507,
@@ -17527,9 +17532,9 @@
       "ID": "objective_completed_690",
       "SetID": "415jc5c",
       "Name": "The Giant\u0027s Bane Tavern",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 179
+      "UsersEstimate": 358
     },
     {
       "ID": "objective_completed_691",
@@ -17735,9 +17740,9 @@
       "ID": "objective_completed_81",
       "SetID": "cc37lbc",
       "Name": "Durable Deep",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 425
     },
     {
       "ID": "objective_completed_810",
@@ -18504,21 +18509,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 178973,
+      "Progressed": 178999,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 212699,
+      "Progressed": 212725,
       "Completed": 2056
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-17T13:58:50.7744655+00:00",
-  "LastChanged_Achievements": "2023-07-17T14:06:07.7610755+00:00",
+  "LastChanged_Achievements": "2023-07-17T15:06:44.15329+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:48.5227447+00:00",
-  "LastUpdate_Ratings": "2023-07-17T13:58:50.7744667+00:00",
-  "LastUpdate_Achievements": "2023-07-17T14:06:07.7636343+00:00"
+  "LastUpdate_Ratings": "2023-07-17T14:58:46.8315226+00:00",
+  "LastUpdate_Achievements": "2023-07-17T15:06:44.1555595+00:00"
 }

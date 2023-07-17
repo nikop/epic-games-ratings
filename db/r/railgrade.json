@@ -468,9 +468,9 @@
       "Count": 46
     }
   ],
-  "EOS_Progressed": 19281,
+  "EOS_Progressed": 19282,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -4223,6 +4223,11 @@
       "Time": "2023-07-17T14:06:45.7094164+00:00",
       "NumProgressed": 19281,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-07-17T15:07:36.537737+00:00",
+      "NumProgressed": 19282,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 37,
@@ -4266,7 +4271,7 @@
       "Name": "Builder",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 16003
+      "UsersEstimate": 16004
     },
     {
       "ID": "ach.060.goingdistance",
@@ -4306,7 +4311,7 @@
       "Name": "Indecisive",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5591
+      "UsersEstimate": 5592
     },
     {
       "ID": "ach.110.multiverse",
@@ -4330,7 +4335,7 @@
       "Name": "Minimalist",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 17353
+      "UsersEstimate": 17354
     },
     {
       "ID": "ach.140.legacy",
@@ -4338,7 +4343,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 98,
       "XP": 60,
-      "UsersEstimate": 18895
+      "UsersEstimate": 18896
     },
     {
       "ID": "ach.150.pocket",
@@ -4426,7 +4431,7 @@
       "Name": "Before the Downfall",
       "Percentage": 93,
       "XP": 60,
-      "UsersEstimate": 17931
+      "UsersEstimate": 17932
     },
     {
       "ID": "ach.260.investor",
@@ -4490,7 +4495,7 @@
       "Name": "Money like Water",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 17546
+      "UsersEstimate": 17547
     },
     {
       "ID": "ach.340.steel",
@@ -4529,7 +4534,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 19281,
+      "Progressed": 19282,
       "Completed": 32
     }
   ],
@@ -4537,8 +4542,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-07-07T14:59:15.8790573+00:00",
-  "LastChanged_Achievements": "2023-07-17T14:06:45.7094158+00:00",
+  "LastChanged_Achievements": "2023-07-17T15:07:36.5377365+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:21.1172265+00:00",
-  "LastUpdate_Ratings": "2023-07-17T14:00:04.7361844+00:00",
-  "LastUpdate_Achievements": "2023-07-17T14:06:45.7094784+00:00"
+  "LastUpdate_Ratings": "2023-07-17T15:00:28.3514158+00:00",
+  "LastUpdate_Achievements": "2023-07-17T15:07:36.537784+00:00"
 }

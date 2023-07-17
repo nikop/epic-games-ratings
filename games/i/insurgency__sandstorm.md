@@ -1,37 +1,37 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.61 (Ranked 365)  
+Rating: 4.61 (Ranked 366)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~20,796 |
-| Exploitative | 4.00% | ~16,637 |
-| Point Shooting | 4.00% | ~16,637 |
-| Wet Feet | 4.00% | ~16,637 |
-| High Speed Low Drag | 3.00% | ~12,477 |
-| Lucky | 3.00% | ~12,477 |
-| Stylin' | 3.00% | ~12,477 |
-| Turf War | 3.00% | ~12,477 |
-| Banged | 2.00% | ~8,318 |
-| Checkpoint Victory | 2.00% | ~8,318 |
-| First Blood | 2.00% | ~8,318 |
-| Flaccid Paralysis | 2.00% | ~8,318 |
-| Push Victory | 2.00% | ~8,318 |
-| Self-destructive | 2.00% | ~8,318 |
+| Wallbanger | 5.00% | ~20,797 |
+| Exploitative | 4.00% | ~16,638 |
+| Point Shooting | 4.00% | ~16,638 |
+| Wet Feet | 4.00% | ~16,638 |
+| High Speed Low Drag | 3.00% | ~12,478 |
+| Lucky | 3.00% | ~12,478 |
+| Stylin' | 3.00% | ~12,478 |
+| Turf War | 3.00% | ~12,478 |
+| Banged | 2.00% | ~8,319 |
+| Checkpoint Victory | 2.00% | ~8,319 |
+| First Blood | 2.00% | ~8,319 |
+| Flaccid Paralysis | 2.00% | ~8,319 |
+| Push Victory | 2.00% | ~8,319 |
+| Self-destructive | 2.00% | ~8,319 |
 | Blindfire | 1.00% | ~4,159 |
 | Ruthless | 1.00% | ~4,159 |
 | Semper Paratus | 1.00% | ~4,159 |
 | Carrying | 0.90% | ~3,743 |
 | Efficient | 0.90% | ~3,743 |
 | Mount & Gun | 0.90% | ~3,743 |
-| Grounded | 0.80% | ~3,327 |
-| Personal | 0.80% | ~3,327 |
-| Play to Win | 0.80% | ~3,327 |
-| #1 | 0.70% | ~2,911 |
-| Special Delivery | 0.70% | ~2,911 |
-| Firefight Victory | 0.60% | ~2,495 |
+| Grounded | 0.80% | ~3,328 |
+| Personal | 0.80% | ~3,328 |
+| Play to Win | 0.80% | ~3,328 |
+| #1 | 0.70% | ~2,912 |
+| Special Delivery | 0.70% | ~2,912 |
+| Firefight Victory | 0.60% | ~2,496 |
 | Cinematic | 0.50% | ~2,080 |
 | Thanks Station! | 0.40% | ~1,664 |
 | Knock Knock | 0.30% | ~1,248 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~416 |
 | Road Hazard | 0.10% | ~416 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 415,915 (Ranked 39)  
+Progressed: 415,943 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 2 (0.00%) (Ranked 236)
 | 2023-07-14 | 414,109 | 2 |
 | 2023-07-15 | 414,865 | 2 |
 | 2023-07-16 | 415,624 | 2 |
-| 2023-07-17 | 415,915 | 2 |
+| 2023-07-17 | 415,943 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 364  (Ranked 220)  
 Sum: 2,807 (Ranked 169)  

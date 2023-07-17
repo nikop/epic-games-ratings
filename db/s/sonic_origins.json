@@ -1212,9 +1212,9 @@
       "ID": "ID_04_SONIC3K_WATCH_OPENING",
       "SetID": "7o8nc5m",
       "Name": "Welcome to Sonic 3 \u0026 Knuckles",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 231
+      "UsersEstimate": 234
     },
     {
       "ID": "ID_05_SONIC1_DEFEAT_MOTORA",
@@ -1476,8 +1476,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-07-11T16:58:27.9146656+00:00",
-  "LastChanged_Achievements": "2023-07-17T14:06:45.6163284+00:00",
+  "LastChanged_Achievements": "2023-07-17T15:07:36.4839245+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:22.3144227+00:00",
-  "LastUpdate_Ratings": "2023-07-17T13:58:33.5537043+00:00",
-  "LastUpdate_Achievements": "2023-07-17T14:06:45.6163599+00:00"
+  "LastUpdate_Ratings": "2023-07-17T14:58:23.9137118+00:00",
+  "LastUpdate_Achievements": "2023-07-17T15:07:36.4839511+00:00"
 }

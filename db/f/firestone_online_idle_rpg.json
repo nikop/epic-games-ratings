@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1664,
+  "EOS_Progressed": 1665,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4269,6 +4269,11 @@
       "Time": "2023-07-17T13:20:33.5501515+00:00",
       "NumProgressed": 1664,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-17T15:02:02.8126109+00:00",
+      "NumProgressed": 1665,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -4464,7 +4469,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "fourleafclover",
@@ -4520,7 +4525,7 @@
       "Name": "Here We Go Again",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "heroinspection",
@@ -4592,7 +4597,7 @@
       "Name": "Master Enchanter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "mastery",
@@ -4680,7 +4685,7 @@
       "Name": "Prestigious x10",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "relicofthepast",
@@ -4752,7 +4757,7 @@
       "Name": "The Expeditioner",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "thefatherofdragons",
@@ -4800,7 +4805,7 @@
       "Name": "Trader",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "trainingmakesaproplayer",
@@ -4879,7 +4884,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1664,
+      "Progressed": 1665,
       "Completed": 1
     }
   ],
@@ -4887,8 +4892,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-07-16T03:26:23.9449732+00:00",
-  "LastChanged_Achievements": "2023-07-17T13:20:33.550151+00:00",
+  "LastChanged_Achievements": "2023-07-17T15:02:02.8126096+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:38.4078532+00:00",
-  "LastUpdate_Ratings": "2023-07-17T13:58:46.2648974+00:00",
-  "LastUpdate_Achievements": "2023-07-17T13:20:33.5502794+00:00"
+  "LastUpdate_Ratings": "2023-07-17T14:58:40.3718333+00:00",
+  "LastUpdate_Achievements": "2023-07-17T15:02:02.8127126+00:00"
 }

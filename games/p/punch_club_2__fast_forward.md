@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Such a strange dream… | 200.00% | ~2 |
-| Your first fight | 100.00% | ~1 |
+| Such a strange dream… | 133.00% | ~4 |
+| Your first fight | 67.00% | ~2 |
 | Mom got better | 0.00% | ~0 |
 | Deal with life | 0.00% | ~0 |
 | Now you are worthy | 0.00% | ~0 |
@@ -71,9 +71,9 @@
 | Employee of the month | 0.00% | ~0 |
 | Employee of the year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 458)  
+Progressed: 3 (Ranked 432)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-07-17 | 1 | 0 |
+| 2023-07-17 | 3 | 0 |

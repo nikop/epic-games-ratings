@@ -2,12 +2,12 @@
   "ID": "15e6680a0c164ee189fcc3eb10398fd6",
   "Name": "Brawlhalla",
   "ProductSlug": "brawlhalla",
-  "Ranking_Rating": 390,
+  "Ranking_Rating": 366,
   "Ranking_Popularity": 264,
   "Ranking_PopularitySum": 194,
   "Ranking_EOS_Progress": 496,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-11-15T17:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.61,
   "RatingHistory": [
     {
       "Time": "2022-11-21T06:57:02.0735411+00:00",
@@ -3966,10 +3966,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 2026,
       "NumberOfAwardsMax": 212
+    },
+    {
+      "Time": "2023-07-17T15:00:51.4461326+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 2032,
+      "NumberOfAwardsMax": 212
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2026,
+  "NumberOfAwards": 2032,
   "NumberOfAwardsMax": 212,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4001,7 +4007,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 179
+      "Count": 183
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4025,7 +4031,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 156
+      "Count": 158
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4058,8 +4064,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-07-16T19:59:31.472824+00:00",
+  "LastChanged": "2023-07-17T15:00:51.4461324+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:39.4744952+00:00",
-  "LastUpdate_Ratings": "2023-07-17T14:00:20.6172607+00:00",
-  "LastUpdate_Achievements": "2023-07-17T14:03:31.7586215+00:00"
+  "LastUpdate_Ratings": "2023-07-17T15:00:51.4461332+00:00",
+  "LastUpdate_Achievements": "2023-07-17T15:03:16.5865816+00:00"
 }

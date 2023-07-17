@@ -104,9 +104,9 @@
       "ID": "ACH_03",
       "SetID": "efe2lj",
       "Name": "Powerful Allies",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_04",
@@ -382,7 +382,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-07-17T14:03:28.1073845+00:00",
-  "LastUpdate_Ratings": "2023-07-17T13:57:38.4578084+00:00",
-  "LastUpdate_Achievements": "2023-07-17T14:03:28.1074104+00:00"
+  "LastChanged_Achievements": "2023-07-17T15:03:11.7200339+00:00",
+  "LastUpdate_Ratings": "2023-07-17T14:57:11.80184+00:00",
+  "LastUpdate_Achievements": "2023-07-17T15:03:11.7200557+00:00"
 }

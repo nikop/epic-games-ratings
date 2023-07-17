@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13954,
+  "EOS_Progressed": 13955,
   "EOS_Completed": 105,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -6254,6 +6254,11 @@
       "Time": "2023-07-17T14:01:21.3294515+00:00",
       "NumProgressed": 13954,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2023-07-17T15:02:18.8364757+00:00",
+      "NumProgressed": 13955,
+      "NumCompleted": 105
     }
   ],
   "TotalAchievements": 41,
@@ -6305,7 +6310,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4744
+      "UsersEstimate": 4745
     },
     {
       "ID": "tpote_achievement_15",
@@ -6353,7 +6358,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4744
+      "UsersEstimate": 4745
     },
     {
       "ID": "tpote_achievement_20",
@@ -6449,7 +6454,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1395
+      "UsersEstimate": 1396
     },
     {
       "ID": "tpote_achievement_31",
@@ -6529,7 +6534,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 5721
+      "UsersEstimate": 5722
     },
     {
       "ID": "tpote_achievement_40",
@@ -6592,15 +6597,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13954,
+      "Progressed": 13955,
       "Completed": 105
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-17T14:01:21.3294504+00:00",
+  "LastChanged_Achievements": "2023-07-17T15:02:18.8364752+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:01.688698+00:00",
-  "LastUpdate_Ratings": "2023-07-17T14:00:40.118014+00:00",
-  "LastUpdate_Achievements": "2023-07-17T14:01:21.3295218+00:00"
+  "LastUpdate_Ratings": "2023-07-17T15:01:16.0839756+00:00",
+  "LastUpdate_Achievements": "2023-07-17T15:02:18.8365409+00:00"
 }

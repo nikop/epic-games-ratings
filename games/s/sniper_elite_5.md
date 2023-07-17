@@ -19,6 +19,7 @@ Rating: 4.43 (Ranked 655)
 | Meeting Resistance | 2.00% | ~66 |
 | Gunslinger | 2.00% | ~66 |
 | Sharpshooter | 2.00% | ~66 |
+| Explosive Efficiency | 2.00% | ~66 |
 | Resourceful | 2.00% | ~66 |
 | Der Geist | 2.00% | ~66 |
 | As Quiet as a Mouse | 2.00% | ~66 |
@@ -31,13 +32,12 @@ Rating: 4.43 (Ranked 655)
 | Set Europe Ablaze | 1.00% | ~33 |
 | Precision Is Key | 1.00% | ~33 |
 | My Little Friend | 1.00% | ~33 |
-| Explosive Efficiency | 1.00% | ~33 |
 | Die Nussknacker Sweet! | 1.00% | ~33 |
 | Close Quarters | 1.00% | ~33 |
 | Snake in the Grass | 1.00% | ~33 |
 | Enemy at the Gates | 0.90% | ~30 |
+| Rigged to Blow | 0.90% | ~30 |
 | The Long Game | 0.80% | ~26 |
-| Rigged to Blow | 0.80% | ~26 |
 | Tinkerer | 0.80% | ~26 |
 | Don't hold your breath | 0.70% | ~23 |
 | Herr Today, Gone Tomorrow | 0.70% | ~23 |

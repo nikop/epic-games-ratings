@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 100.00% | ~10 |
-| Rascal | 90.00% | ~9 |
-| The Preacher's fate | 90.00% | ~9 |
-| Champollion | 90.00% | ~9 |
-| Scholar | 90.00% | ~9 |
-| Welcome to the Tower | 90.00% | ~9 |
-| The great escape | 90.00% | ~9 |
-| A new dawn | 90.00% | ~9 |
-| The darkness | 90.00% | ~9 |
-| One last step | 90.00% | ~9 |
-| Cable guy | 80.00% | ~8 |
-| A good beginning | 80.00% | ~8 |
-| True G4M3R | 80.00% | ~8 |
-| I did it | 70.00% | ~7 |
-| Fashion victim | 70.00% | ~7 |
-| Feels like springtime | 60.00% | ~6 |
-| In this together | 50.00% | ~5 |
-| Peace walker | 40.00% | ~4 |
-| Half the way | 40.00% | ~4 |
-| Open door | 40.00% | ~4 |
-| Free at last | 30.00% | ~3 |
-| A great audience | 30.00% | ~3 |
-| For its own good | 30.00% | ~3 |
-| A Link to the Past | 30.00% | ~3 |
-| Alchemists Express | 30.00% | ~3 |
+| That's the spirit | 91.00% | ~10 |
+| Rascal | 82.00% | ~9 |
+| The Preacher's fate | 82.00% | ~9 |
+| Champollion | 82.00% | ~9 |
+| Scholar | 82.00% | ~9 |
+| Welcome to the Tower | 82.00% | ~9 |
+| The great escape | 82.00% | ~9 |
+| A new dawn | 82.00% | ~9 |
+| The darkness | 82.00% | ~9 |
+| One last step | 82.00% | ~9 |
+| Cable guy | 73.00% | ~8 |
+| A good beginning | 73.00% | ~8 |
+| True G4M3R | 73.00% | ~8 |
+| I did it | 64.00% | ~7 |
+| Fashion victim | 64.00% | ~7 |
+| Feels like springtime | 55.00% | ~6 |
+| In this together | 45.00% | ~5 |
+| Peace walker | 36.00% | ~4 |
+| Half the way | 36.00% | ~4 |
+| Open door | 36.00% | ~4 |
+| Free at last | 27.00% | ~3 |
+| A great audience | 27.00% | ~3 |
+| For its own good | 27.00% | ~3 |
+| A Link to the Past | 27.00% | ~3 |
+| Alchemists Express | 27.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10 (Ranked 404)  
-Completed: 3 (30.00%) (Ranked 3)  
+Progressed: 11 (Ranked 399)  
+Completed: 3 (27.27%) (Ranked 4)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -46,3 +46,4 @@ Completed: 3 (30.00%) (Ranked 3)
 | 2023-06-26 | 9 | 2 |
 | 2023-06-27 | 10 | 2 |
 | 2023-06-28 | 10 | 3 |
+| 2023-07-17 | 11 | 3 |

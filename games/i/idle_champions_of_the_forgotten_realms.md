@@ -27,6 +27,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dead Three | 0.20% | ~425 |
 | Flying Monkey Skulls of Doom | 0.20% | ~425 |
 | Running of the Saurs | 0.20% | ~425 |
+| The Giant's Bane Tavern | 0.20% | ~358 |
 | Close Escort | 0.20% | ~425 |
 | Constant Banditry | 0.20% | ~425 |
 | The Long Haul | 0.20% | ~425 |
@@ -35,6 +36,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rude Welcome | 0.20% | ~425 |
 | Underdeep Cartography | 0.20% | ~425 |
 | Overdue Rendezvous | 0.20% | ~425 |
+| Durable Deep | 0.20% | ~425 |
 | The Templar's Camp | 0.20% | ~425 |
 | Intelligence Hunt | 0.10% | ~213 |
 | Seeds of Deceit | 0.10% | ~213 |
@@ -208,7 +210,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Prison of Velkynvelve | 0.10% | ~179 |
 | Prisoners of Lolth | 0.10% | ~179 |
 | Prisoners of Unknown Choices | 0.10% | ~179 |
-| The Giant's Bane Tavern | 0.10% | ~179 |
 | Rime Bandits | 0.10% | ~179 |
 | Giant-Size Adventure | 0.10% | ~179 |
 | Power of Three | 0.10% | ~179 |
@@ -223,7 +224,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Civilization | 0.10% | ~179 |
 | Trench Coat Run | 0.10% | ~179 |
 | The Taunting Lord | 0.10% | ~179 |
-| Durable Deep | 0.10% | ~213 |
 | Lone Wolf Party | 0.10% | ~179 |
 | The Sibriex | 0.10% | ~179 |
 | The Archduke's Blessing | 0.10% | ~179 |
@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212,699 (Ranked 53)  
+Progressed: 212,725 (Ranked 53)  
 Completed: 2,056 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -602,7 +602,7 @@ Completed: 2,056 (0.97%) (Ranked 102)
 | 2023-07-14 | 211,507 | 2,050 |
 | 2023-07-15 | 212,014 | 2,053 |
 | 2023-07-16 | 212,501 | 2,055 |
-| 2023-07-17 | 212,699 | 2,056 |
+| 2023-07-17 | 212,725 | 2,056 |
 ## Awards
 Max (Diverse Characters): 5,041  (Ranked 66)  
 Sum: 30,559 (Ranked 38)  

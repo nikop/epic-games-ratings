@@ -2,7 +2,7 @@
   "ID": "79d9bff700bb46a790b21e8c73b34899",
   "Name": "Salt and Sanctuary",
   "ProductSlug": "salt-and-sanctuary",
-  "Ranking_Rating": 365,
+  "Ranking_Rating": 366,
   "Ranking_Popularity": 239,
   "Ranking_PopularitySum": 201,
   "Ranking_EOS_Progress": 28,
@@ -2379,9 +2379,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 527893,
+  "EOS_Progressed": 527895,
   "EOS_Completed": 1480,
-  "EOS_NewPlayers": 690,
+  "EOS_NewPlayers": 681,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -11734,6 +11734,11 @@
       "Time": "2023-07-17T14:03:36.5340716+00:00",
       "NumProgressed": 527893,
       "NumCompleted": 1480
+    },
+    {
+      "Time": "2023-07-17T15:03:23.0980797+00:00",
+      "NumProgressed": 527895,
+      "NumCompleted": 1480
     }
   ],
   "TotalAchievements": 37,
@@ -11801,7 +11806,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 438151
+      "UsersEstimate": 438153
     },
     {
       "ID": "HONED",
@@ -11857,7 +11862,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 211157
+      "UsersEstimate": 211158
     },
     {
       "ID": "THE_CASTLE",
@@ -11897,7 +11902,7 @@
       "Name": "The Dome",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 47510
+      "UsersEstimate": 47511
     },
     {
       "ID": "THE_FOREST",
@@ -11969,7 +11974,7 @@
       "Name": "The Red Hall",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 47510
+      "UsersEstimate": 47511
     },
     {
       "ID": "THE_RUINS",
@@ -11985,7 +11990,7 @@
       "Name": "The Sacrifice",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 42231
+      "UsersEstimate": 42232
     },
     {
       "ID": "THE_STONE_ROOTS",
@@ -12001,7 +12006,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 337852
+      "UsersEstimate": 337853
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -12040,15 +12045,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 527893,
+      "Progressed": 527895,
       "Completed": 1480
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-07-16T22:59:45.7469754+00:00",
-  "LastChanged_Achievements": "2023-07-17T14:03:36.5340709+00:00",
+  "LastChanged_Achievements": "2023-07-17T15:03:23.098079+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:23.4888878+00:00",
-  "LastUpdate_Ratings": "2023-07-17T14:00:06.3630795+00:00",
-  "LastUpdate_Achievements": "2023-07-17T14:03:36.5341592+00:00"
+  "LastUpdate_Ratings": "2023-07-17T15:00:30.7126493+00:00",
+  "LastUpdate_Achievements": "2023-07-17T15:03:23.0981451+00:00"
 }

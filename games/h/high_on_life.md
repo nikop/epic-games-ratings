@@ -5,30 +5,30 @@ Rating: 4.67 (Ranked 259)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~19,102 |
+| Eye Scream, You Scream | 83.00% | ~19,103 |
 | Mods Please Ban | 77.00% | ~17,722 |
 | Bring A Knife to a Gun Fight | 77.00% | ~17,722 |
-| Fallout Doesn't Let You Do This | 73.00% | ~16,801 |
+| Fallout Doesn't Let You Do This | 73.00% | ~16,802 |
 | First Bounty Down | 59.00% | ~13,579 |
 | We're All Very Impressed, Trust Me | 57.00% | ~13,119 |
-| Luglox Genocide | 43.00% | ~9,896 |
+| Luglox Genocide | 43.00% | ~9,897 |
 | Playing Card To Get | 34.00% | ~7,825 |
 | Don't Knife The Hand That Feeds | 34.00% | ~7,825 |
-| Creature Feature | 30.00% | ~6,904 |
+| Creature Feature | 30.00% | ~6,905 |
 | Satisfied Gus-tomer | 28.00% | ~6,444 |
 | Cold-Blooded Driller | 28.00% | ~6,444 |
 | Are You Packin'? | 25.00% | ~5,754 |
 | Sweezy Like Sunday Morning | 25.00% | ~5,754 |
 | G3 Graduation | 25.00% | ~5,754 |
 | RIP Davey Glutes | 24.00% | ~5,524 |
-| Hardest Battle In The Game | 22.00% | ~5,063 |
-| Series Wrap on Suit-O | 22.00% | ~5,063 |
+| Hardest Battle In The Game | 22.00% | ~5,064 |
+| Series Wrap on Suit-O | 22.00% | ~5,064 |
 | Lezduit! | 21.00% | ~4,833 |
 | Who's The Boss? | 20.00% | ~4,603 |
 | Spent 15 Hours At The Alien Strip Club | 20.00% | ~4,603 |
 | Self-Actualization | 19.00% | ~4,373 |
 | Legendary Bounty Hunter | 18.00% | ~4,143 |
-| Seeing All The Sights | 16.00% | ~3,682 |
+| Seeing All The Sights | 16.00% | ~3,683 |
 | Carried Stan's Load To Completion | 13.00% | ~2,992 |
 | We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,762 |
 | Eatin' Good in the Neighborhood | 9.00% | ~2,071 |
@@ -38,7 +38,7 @@ Rating: 4.67 (Ranked 259)
 | Epic Legendary Prize | 1.00% | ~230 |
 | A Starfish Is Born | 1.00% | ~230 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,015 (Ranked 100)  
+Progressed: 23,016 (Ranked 100)  
 Completed: 8 (0.03%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 8 (0.03%) (Ranked 208)
 | 2023-07-14 | 23,003 | 8 |
 | 2023-07-15 | 23,008 | 8 |
 | 2023-07-16 | 23,012 | 8 |
-| 2023-07-17 | 23,015 | 8 |
+| 2023-07-17 | 23,016 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

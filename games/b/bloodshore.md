@@ -11,8 +11,8 @@
 | A leader, you are not | 35.00% | ~62 |
 | Comedy Killer | 34.00% | ~60 |
 | This won't end well... | 34.00% | ~60 |
+| Bromance | 32.00% | ~56 |
 | Mission Complete | 32.00% | ~56 |
-| Bromance | 31.00% | ~55 |
 | Good job, nerd | 31.00% | ~55 |
 | Lootaphilia | 24.00% | ~42 |
 | Maybe you should give it another go | 10.00% | ~18 |
