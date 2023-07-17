@@ -5020,10 +5020,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 39361,
       "NumberOfAwardsMax": 21042
+    },
+    {
+      "Time": "2023-07-17T03:58:00.3630661+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 39362,
+      "NumberOfAwardsMax": 21042
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 39361,
+  "NumberOfAwards": 39362,
   "NumberOfAwardsMax": 21042,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5073,7 +5079,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 884
+      "Count": 885
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5100,9 +5106,9 @@
       "Count": 560
     }
   ],
-  "EOS_Progressed": 287811,
+  "EOS_Progressed": 287814,
   "EOS_Completed": 429,
-  "EOS_NewPlayers": 1411,
+  "EOS_NewPlayers": 1409,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -14490,6 +14496,11 @@
       "Time": "2023-07-17T03:29:20.6959794+00:00",
       "NumProgressed": 287811,
       "NumCompleted": 429
+    },
+    {
+      "Time": "2023-07-17T04:04:18.0424573+00:00",
+      "NumProgressed": 287814,
+      "NumCompleted": 429
     }
   ],
   "TotalAchievements": 45,
@@ -14501,7 +14512,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34537
+      "UsersEstimate": 34538
     },
     {
       "ID": "PFA_10",
@@ -14741,7 +14752,7 @@
       "Name": "Merlin\u0027s Beard!",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 2302
+      "UsersEstimate": 2303
     },
     {
       "ID": "PFA_38",
@@ -14781,7 +14792,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11512
+      "UsersEstimate": 11513
     },
     {
       "ID": "PFA_42",
@@ -14860,16 +14871,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 287811,
+      "Progressed": 287814,
       "Completed": 429
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-07-17T03:23:02.0630723+00:00",
-  "LastChanged_Achievements": "2023-07-17T03:29:20.6959788+00:00",
+  "LastChanged": "2023-07-17T03:58:00.363066+00:00",
+  "LastChanged_Achievements": "2023-07-17T04:04:18.0424569+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:19.3801839+00:00",
-  "LastUpdate_Ratings": "2023-07-17T03:23:02.063073+00:00",
-  "LastUpdate_Achievements": "2023-07-17T03:29:20.6960887+00:00"
+  "LastUpdate_Ratings": "2023-07-17T03:58:00.3630665+00:00",
+  "LastUpdate_Achievements": "2023-07-17T04:04:18.0425337+00:00"
 }

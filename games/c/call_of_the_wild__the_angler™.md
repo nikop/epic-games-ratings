@@ -6,11 +6,11 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 76.00% | ~3,546 |
+| Fish Just Got Reel | 76.00% | ~3,547 |
 | Hey Good Hookin | 66.00% | ~3,080 |
 | I'm on a Boat! | 57.00% | ~2,660 |
-| Can you smell what the Rod is Hooking | 50.00% | ~2,333 |
-| Scaling up | 50.00% | ~2,333 |
+| Can you smell what the Rod is Hooking | 50.00% | ~2,334 |
+| Scaling up | 50.00% | ~2,334 |
 | Ready to Rod and Roll | 42.00% | ~1,960 |
 | More Fish in the Sea | 41.00% | ~1,913 |
 | License to Gill | 33.00% | ~1,540 |
@@ -31,18 +31,18 @@ Number of Ratings: 281  (23.09.2022)
 | Rod and Troll | 2.00% | ~81 |
 | Taylor Made | 1.00% | ~47 |
 | Head for Heights | 0.60% | ~28 |
-| Lake Me up Before You Go Go | 0.50% | ~23 |
-| Fish upon a Star | 0.50% | ~20 |
+| Lake Me up Before You Go Go | 0.40% | ~19 |
+| Fish upon a Star | 0.40% | ~16 |
 | Cache and Carry | 0.30% | ~12 |
 | Golden Ridge Ranger | 0.20% | ~9 |
-| Buckaroo | 0.20% | ~9 |
 | Trollsporet Tale Teller | 0.20% | ~8 |
 | Lost and Flounder | 0.10% | ~5 |
+| Buckaroo | 0.10% | ~5 |
 | Norway Jose | 0.10% | ~4 |
 | No Fin left to give | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,666 (Ranked 138)  
+Progressed: 4,667 (Ranked 138)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-14 | 4,650 | 0 |
 | 2023-07-15 | 4,655 | 0 |
 | 2023-07-16 | 4,661 | 0 |
-| 2023-07-17 | 4,666 | 0 |
+| 2023-07-17 | 4,667 | 0 |
 ## Awards
 Max (Relaxing): 32  (Ranked 448)  
 Sum: 158 (Ranked 387)  

@@ -48,7 +48,7 @@ Rating: 4.62 (Ranked 347)
 | I've Got Everything I Need Right Here | 0.70% | ~35 |
 | Manufactured War | 0.50% | ~25 |
 | Snap Out of It! | 0.40% | ~20 |
-| Betrayal Most Foul | 0.20% | ~10 |
+| Betrayal Most Foul | 0.30% | ~15 |
 | I Want to Break Free | 0.10% | ~5 |
 | Master of Evilness | 0.10% | ~5 |
 | The Grey Wizard | 0.10% | ~5 |

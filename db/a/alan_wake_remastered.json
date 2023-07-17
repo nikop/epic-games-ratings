@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57451,
+  "EOS_Progressed": 57453,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 317,
+  "EOS_NewPlayers": 318,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8162,6 +8162,11 @@
       "Time": "2023-07-17T02:32:45.9448827+00:00",
       "NumProgressed": 57451,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-07-17T04:02:39.33882+00:00",
+      "NumProgressed": 57453,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 67,
@@ -8173,7 +8178,7 @@
       "Name": "Follow the Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 19533
+      "UsersEstimate": 19534
     },
     {
       "ID": "02",
@@ -8205,7 +8210,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10341
+      "UsersEstimate": 10342
     },
     {
       "ID": "06",
@@ -8421,7 +8426,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14937
+      "UsersEstimate": 14938
     },
     {
       "ID": "33",
@@ -8708,21 +8713,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57451,
+      "Progressed": 57453,
       "Completed": 58
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20919,
+      "Progressed": 20921,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-17T03:28:22.6730656+00:00",
+  "LastChanged_Achievements": "2023-07-17T04:02:39.3388194+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:10.5196415+00:00",
-  "LastUpdate_Ratings": "2023-07-17T03:23:18.2887052+00:00",
-  "LastUpdate_Achievements": "2023-07-17T03:28:22.6731784+00:00"
+  "LastUpdate_Ratings": "2023-07-17T03:58:16.3457778+00:00",
+  "LastUpdate_Achievements": "2023-07-17T04:02:39.3389047+00:00"
 }

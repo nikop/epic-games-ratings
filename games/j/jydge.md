@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | The Dawn of Jydgement | 38.00% | ~5 |
 | Mission Mastered | 38.00% | ~5 |
+| The Jydgement Day | 15.00% | ~2 |
 | Savior | 15.00% | ~2 |
-| The Jydgement Day | 8.00% | ~1 |
 | The Dusk Falls | 8.00% | ~1 |
 | Cyberware | 8.00% | ~1 |
 | Crime Reaper | 8.00% | ~1 |

@@ -23,7 +23,7 @@ Rating: 4.81 (Ranked 76)
 | Old friend | 29.00% | ~708 |
 | Hijack | 28.00% | ~684 |
 | Devineur | 28.00% | ~684 |
-| Whispers in the Woods I | 26.00% | ~635 |
+| Whispers in the Woods I | 27.00% | ~660 |
 | Ancient power | 24.00% | ~586 |
 | I chose my shackles | 23.00% | ~562 |
 | Sacred Woods | 22.00% | ~537 |

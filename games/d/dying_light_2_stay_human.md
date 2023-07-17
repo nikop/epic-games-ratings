@@ -6,12 +6,12 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~65,571 |
-| Into the Unknown | 10.00% | ~59,610 |
-| First Shot | 10.00% | ~59,610 |
-| Herzlich Wilkommen! | 9.00% | ~53,649 |
-| Good Night & Good Luck | 9.00% | ~53,649 |
-| Sancho Panza | 8.00% | ~47,688 |
+| You Never Forget Your First... | 11.00% | ~65,572 |
+| Into the Unknown | 10.00% | ~59,611 |
+| First Shot | 10.00% | ~59,611 |
+| Herzlich Wilkommen! | 9.00% | ~53,650 |
+| Good Night & Good Luck | 9.00% | ~53,650 |
+| Sancho Panza | 8.00% | ~47,689 |
 | Under Pressure | 7.00% | ~41,727 |
 | On the Trail of the Enemy | 7.00% | ~41,727 |
 | Flag Burning | 7.00% | ~41,727 |
@@ -47,8 +47,8 @@ Number of Ratings: 7,305  (23.09.2022)
 | That's Teamwork! | 1.00% | ~5,961 |
 | Fit as a Fiddle | 1.00% | ~5,961 |
 | Ironheart | 1.00% | ~5,961 |
-| Nemesis | 1.00% | ~2,415 |
-| Enter the Hall | 1.00% | ~2,415 |
+| Nemesis | 1.00% | ~2,416 |
+| Enter the Hall | 1.00% | ~2,416 |
 | Find Anything Interesting? | 0.90% | ~5,365 |
 | Boot Licker | 0.90% | ~5,365 |
 | Who Wants To Be a... | 0.90% | ~5,365 |
@@ -72,8 +72,8 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~242 |
 | Connoisseur | 0.10% | ~242 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 596,104 (Ranked 26)  
-Completed: 59 (0.01%) (Ranked 223)  
+Progressed: 596,107 (Ranked 26)  
+Completed: 60 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -160,7 +160,7 @@ Completed: 59 (0.01%) (Ranked 223)
 | 2023-07-14 | 594,738 | 59 |
 | 2023-07-15 | 595,394 | 59 |
 | 2023-07-16 | 596,038 | 59 |
-| 2023-07-17 | 596,104 | 59 |
+| 2023-07-17 | 596,107 | 60 |
 ## Awards
 Max (Character Customization): 8,428  (Ranked 39)  
 Sum: 19,944 (Ranked 55)  

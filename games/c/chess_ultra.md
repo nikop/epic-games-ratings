@@ -5,25 +5,25 @@ Rating: 4.27 (Ranked 797)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 69.00% | ~133,007 |
-| Doubled Pawn | 55.00% | ~106,020 |
-| Check | 54.00% | ~104,093 |
-| Absolute pin | 46.00% | ~88,671 |
-| Promotion | 30.00% | ~57,829 |
-| Checkmate | 29.00% | ~55,902 |
-| O-O | 23.00% | ~44,336 |
-| Spanish Bishop | 20.00% | ~38,553 |
-| Queen Sacrifice | 19.00% | ~36,625 |
-| Stalemate | 17.00% | ~32,770 |
-| O-O-O | 13.00% | ~25,059 |
-| Octopus | 13.00% | ~25,059 |
-| Stranger Danger | 12.00% | ~23,132 |
-| En Passant | 8.00% | ~15,421 |
-| Double Check | 7.00% | ~13,493 |
+| Chop Wood | 69.00% | ~133,013 |
+| Doubled Pawn | 55.00% | ~106,025 |
+| Check | 54.00% | ~104,097 |
+| Absolute pin | 46.00% | ~88,675 |
+| Promotion | 30.00% | ~57,832 |
+| Checkmate | 29.00% | ~55,904 |
+| O-O | 23.00% | ~44,338 |
+| Spanish Bishop | 20.00% | ~38,554 |
+| Queen Sacrifice | 19.00% | ~36,627 |
+| Stalemate | 17.00% | ~32,771 |
+| O-O-O | 13.00% | ~25,060 |
+| Octopus | 13.00% | ~25,060 |
+| Stranger Danger | 12.00% | ~23,133 |
+| En Passant | 8.00% | ~15,422 |
+| Double Check | 7.00% | ~13,494 |
 | Piece Collector | 6.00% | ~11,566 |
-| ELO | 5.00% | ~9,638 |
-| Family Fork | 5.00% | ~9,638 |
-| Friendly Fire | 5.00% | ~9,638 |
+| ELO | 5.00% | ~9,639 |
+| Family Fork | 5.00% | ~9,639 |
+| Friendly Fire | 5.00% | ~9,639 |
 | Underpromote | 4.00% | ~7,711 |
 | ELO ELO | 3.00% | ~5,783 |
 | Blind Pigs | 2.00% | ~3,855 |
@@ -44,7 +44,7 @@ Rating: 4.27 (Ranked 797)
 | Tournament Master | 0.10% | ~193 |
 | Tournament Pro | 0.10% | ~193 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 192,764 (Ranked 56)  
+Progressed: 192,772 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 2 (0.00%) (Ranked 236)
 | 2023-07-14 | 192,073 | 2 |
 | 2023-07-15 | 192,392 | 2 |
 | 2023-07-16 | 192,715 | 2 |
-| 2023-07-17 | 192,764 | 2 |
+| 2023-07-17 | 192,772 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

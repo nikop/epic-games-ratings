@@ -36,9 +36,9 @@ Rating: 4.43 (Ranked 655)
 | Close Quarters | 1.00% | ~33 |
 | Snake in the Grass | 1.00% | ~33 |
 | Enemy at the Gates | 0.90% | ~30 |
+| The Long Game | 0.80% | ~26 |
 | Rigged to Blow | 0.80% | ~26 |
 | Tinkerer | 0.80% | ~26 |
-| The Long Game | 0.70% | ~23 |
 | Don't hold your breath | 0.70% | ~23 |
 | Herr Today, Gone Tomorrow | 0.70% | ~23 |
 | Shipbreaker | 0.70% | ~23 |

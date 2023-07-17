@@ -5643,7 +5643,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 55921,
+  "EOS_Progressed": 55922,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 492,
   "EOS_NewCompleters": 0,
@@ -14698,6 +14698,11 @@
       "Time": "2023-07-17T03:32:15.1391025+00:00",
       "NumProgressed": 55921,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-17T04:07:07.5303737+00:00",
+      "NumProgressed": 55922,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -14901,7 +14906,7 @@
       "Name": "King Solomon",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 8947
+      "UsersEstimate": 8948
     },
     {
       "ID": "Kingslayer",
@@ -14965,7 +14970,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 3914
+      "UsersEstimate": 3915
     },
     {
       "ID": "Minor Clan",
@@ -15085,7 +15090,7 @@
       "Name": "Trained",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 11743
+      "UsersEstimate": 11744
     },
     {
       "ID": "Undercover",
@@ -15116,15 +15121,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 55921,
+      "Progressed": 55922,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-07-16T15:59:57.5399877+00:00",
-  "LastChanged_Achievements": "2023-07-17T03:32:15.1391019+00:00",
+  "LastChanged_Achievements": "2023-07-17T04:07:07.5303732+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:48.1005966+00:00",
-  "LastUpdate_Ratings": "2023-07-17T03:25:31.1483229+00:00",
-  "LastUpdate_Achievements": "2023-07-17T03:32:15.139197+00:00"
+  "LastUpdate_Ratings": "2023-07-17T04:00:26.1651471+00:00",
+  "LastUpdate_Achievements": "2023-07-17T04:07:07.5304499+00:00"
 }
