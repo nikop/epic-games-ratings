@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57454,
+  "EOS_Progressed": 57455,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 317,
+  "EOS_NewPlayers": 318,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8172,6 +8172,11 @@
       "Time": "2023-07-17T05:02:34.3932146+00:00",
       "NumProgressed": 57454,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-07-17T07:03:31.6339875+00:00",
+      "NumProgressed": 57455,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 67,
@@ -8183,7 +8188,7 @@
       "Name": "Follow the Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 19534
+      "UsersEstimate": 19535
     },
     {
       "ID": "02",
@@ -8191,7 +8196,7 @@
       "Name": "Nordic Walking",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 12065
+      "UsersEstimate": 12066
     },
     {
       "ID": "03",
@@ -8199,7 +8204,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 12065
+      "UsersEstimate": 12066
     },
     {
       "ID": "04",
@@ -8247,7 +8252,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6894
+      "UsersEstimate": 6895
     },
     {
       "ID": "10",
@@ -8271,7 +8276,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5745
+      "UsersEstimate": 5746
     },
     {
       "ID": "13",
@@ -8343,7 +8348,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6894
+      "UsersEstimate": 6895
     },
     {
       "ID": "22",
@@ -8367,7 +8372,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5745
+      "UsersEstimate": 5746
     },
     {
       "ID": "25",
@@ -8383,7 +8388,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5745
+      "UsersEstimate": 5746
     },
     {
       "ID": "27",
@@ -8439,7 +8444,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6894
+      "UsersEstimate": 6895
     },
     {
       "ID": "34",
@@ -8718,21 +8723,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57454,
+      "Progressed": 57455,
       "Completed": 58
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20922,
+      "Progressed": 20923,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-17T06:02:32.6186479+00:00",
+  "LastChanged_Achievements": "2023-07-17T07:03:31.633987+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:10.5196415+00:00",
-  "LastUpdate_Ratings": "2023-07-17T05:57:53.1792119+00:00",
-  "LastUpdate_Achievements": "2023-07-17T06:02:32.6187626+00:00"
+  "LastUpdate_Ratings": "2023-07-17T06:58:27.9384036+00:00",
+  "LastUpdate_Achievements": "2023-07-17T07:03:31.6341844+00:00"
 }

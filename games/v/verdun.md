@@ -6,13 +6,13 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~39,730 |
-| Worth it | 63.00% | ~32,507 |
-| Eagle Eye | 55.00% | ~28,379 |
-| Corpseman I | 40.00% | ~20,639 |
-| Blast fishing | 37.00% | ~19,091 |
-| Not alone | 32.00% | ~16,511 |
-| Headhunter I | 26.00% | ~13,415 |
+| Setting an example | 77.00% | ~39,733 |
+| Worth it | 63.00% | ~32,509 |
+| Eagle Eye | 55.00% | ~28,381 |
+| Corpseman I | 40.00% | ~20,640 |
+| Blast fishing | 37.00% | ~19,092 |
+| Not alone | 32.00% | ~16,512 |
+| Headhunter I | 26.00% | ~13,416 |
 | Manual Labour I | 25.00% | ~12,900 |
 | Developers, Developers, Developers | 24.00% | ~12,384 |
 | Basic Training | 24.00% | ~12,384 |
@@ -34,10 +34,10 @@ Number of Ratings: 1,999  (23.09.2022)
 | War is better with friends I | 4.00% | ~2,064 |
 | Let them, come to us | 4.00% | ~2,064 |
 | Corpseman II | 4.00% | ~2,064 |
-| Manual Labour II | 4.00% | ~2,064 |
 | Offense is the best defence | 3.00% | ~1,548 |
 | There is no I in team | 3.00% | ~1,548 |
 | Veteran | 3.00% | ~1,548 |
+| Manual Labour II | 3.00% | ~1,548 |
 | In My Defens God Me Defend | 3.00% | ~1,548 |
 | Silver x100 | 3.00% | ~1,548 |
 | Impavidum Ferient Bella! | 3.00% | ~1,548 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~52 |
 | Blood Brother | 0.10% | ~52 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,598 (Ranked 86)  
+Progressed: 51,601 (Ranked 86)  
 Completed: 4 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 4 (0.01%) (Ranked 223)
 | 2023-07-14 | 51,289 | 4 |
 | 2023-07-15 | 51,436 | 4 |
 | 2023-07-16 | 51,571 | 4 |
-| 2023-07-17 | 51,598 | 4 |
+| 2023-07-17 | 51,601 | 4 |
 ## Awards
 Max (Highly Recommended): 95  (Ranked 338)  
 Sum: 757 (Ranked 262)  

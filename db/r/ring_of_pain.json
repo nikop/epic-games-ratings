@@ -2497,9 +2497,9 @@
       "Count": 730
     }
   ],
-  "EOS_Progressed": 232611,
+  "EOS_Progressed": 232612,
   "EOS_Completed": 246,
-  "EOS_NewPlayers": 393,
+  "EOS_NewPlayers": 391,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11232,6 +11232,11 @@
       "Time": "2023-07-17T06:03:35.9620482+00:00",
       "NumProgressed": 232611,
       "NumCompleted": 246
+    },
+    {
+      "Time": "2023-07-17T07:04:29.1044493+00:00",
+      "NumProgressed": 232612,
+      "NumCompleted": 246
     }
   ],
   "TotalAchievements": 122,
@@ -11275,7 +11280,7 @@
       "Name": "First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 223307
+      "UsersEstimate": 223308
     },
     {
       "ID": "CURSE1HP",
@@ -11283,7 +11288,7 @@
       "Name": "Nothing To Lose",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 93044
+      "UsersEstimate": 93045
     },
     {
       "ID": "CURSEDPOTIONS",
@@ -11355,7 +11360,7 @@
       "Name": "A Rough Road",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 30239
+      "UsersEstimate": 30240
     },
     {
       "ID": "DEPTH6",
@@ -11363,7 +11368,7 @@
       "Name": "Getting A Glimpse",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 169806
+      "UsersEstimate": 169807
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -11419,7 +11424,7 @@
       "Name": "That Was Quick",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 130262
+      "UsersEstimate": 130263
     },
     {
       "ID": "DIERAINBOWSOCKS",
@@ -11427,7 +11432,7 @@
       "Name": "Colorful Corpse",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 134914
+      "UsersEstimate": 134915
     },
     {
       "ID": "DIETOGRAVESTONE",
@@ -11675,7 +11680,7 @@
       "Name": "The Bestiary",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 93044
+      "UsersEstimate": 93045
     },
     {
       "ID": "KILLABOMINATIONHIGHDEF",
@@ -11739,7 +11744,7 @@
       "Name": "Heartless",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 107001
+      "UsersEstimate": 107002
     },
     {
       "ID": "KILLPARANOIA",
@@ -11747,7 +11752,7 @@
       "Name": "What\u0027s Yours Is Mine",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 88392
+      "UsersEstimate": 88393
     },
     {
       "ID": "KILLREFLECT10",
@@ -11771,7 +11776,7 @@
       "Name": "Spine Breaker",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 107001
+      "UsersEstimate": 107002
     },
     {
       "ID": "KILLSPITTER",
@@ -11827,7 +11832,7 @@
       "Name": "A Donation",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 130262
+      "UsersEstimate": 130263
     },
     {
       "ID": "MULTEXPLOSIONS",
@@ -11835,7 +11840,7 @@
       "Name": "Chain Reaction",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 30239
+      "UsersEstimate": 30240
     },
     {
       "ID": "MULTIKILL30",
@@ -11851,7 +11856,7 @@
       "Name": "Master of Strategy",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2093
+      "UsersEstimate": 2094
     },
     {
       "ID": "NOMERCY",
@@ -11891,15 +11896,15 @@
       "Name": "A Quick Escape",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 151197
+      "UsersEstimate": 151198
     },
     {
       "ID": "PETRIFY50",
       "SetID": "5l8oe0h",
       "Name": "Stone Touch",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 62805
+      "UsersEstimate": 65131
     },
     {
       "ID": "PLAY10HOURS",
@@ -11987,7 +11992,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 207024
+      "UsersEstimate": 207025
     },
     {
       "ID": "SPECIALROOMS10",
@@ -12218,7 +12223,7 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 232611,
+      "Progressed": 232612,
       "Completed": 246
     }
   ],
@@ -12226,8 +12231,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-07-16T22:59:50.9386584+00:00",
-  "LastChanged_Achievements": "2023-07-17T06:03:35.9620477+00:00",
+  "LastChanged_Achievements": "2023-07-17T07:04:29.1044487+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:29.2883876+00:00",
-  "LastUpdate_Ratings": "2023-07-17T05:59:23.5246399+00:00",
-  "LastUpdate_Achievements": "2023-07-17T06:03:35.9622803+00:00"
+  "LastUpdate_Ratings": "2023-07-17T07:00:45.4864807+00:00",
+  "LastUpdate_Achievements": "2023-07-17T07:04:29.1047692+00:00"
 }

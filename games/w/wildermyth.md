@@ -7,12 +7,12 @@ Number of Ratings: 45  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Cost of Heroism | 37.00% | ~489 |
-| Me and My Familiar | 35.00% | ~462 |
-| This Too Shall Pass | 29.00% | ~383 |
+| Me and My Familiar | 35.00% | ~463 |
+| This Too Shall Pass | 30.00% | ~397 |
 | Passing Shadow | 28.00% | ~370 |
 | Cutthroat Competitors | 28.00% | ~370 |
-| How Romantic! | 26.00% | ~343 |
-| Daybreak | 26.00% | ~343 |
+| How Romantic! | 26.00% | ~344 |
+| Daybreak | 26.00% | ~344 |
 | Gotta Ca... Must Collect All of Them | 24.00% | ~317 |
 | Completing the Look | 14.00% | ~185 |
 | Who's Counting? | 13.00% | ~172 |
@@ -23,11 +23,11 @@ Number of Ratings: 45  (23.09.2022)
 | Thematic Divergence | 9.00% | ~119 |
 | Echoes Die | 9.00% | ~119 |
 | Chain Reaction | 8.00% | ~106 |
-| Let Me Get My Chisel | 7.00% | ~92 |
-| Plague Doctor | 7.00% | ~92 |
-| Everfading | 7.00% | ~92 |
-| Another Tale to Tell | 7.00% | ~92 |
-| A Story of Heroes | 7.00% | ~92 |
+| Let Me Get My Chisel | 7.00% | ~93 |
+| Plague Doctor | 7.00% | ~93 |
+| Everfading | 7.00% | ~93 |
+| Another Tale to Tell | 7.00% | ~93 |
+| A Story of Heroes | 7.00% | ~93 |
 | Legends Never Die | 5.00% | ~66 |
 | In Soil, In Smoke | 5.00% | ~66 |
 | Wingknight's Prowess | 5.00% | ~66 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | We Call That Mortificient! | 0.70% | ~9 |
 | Peacemaker | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,321 (Ranked 178)  
+Progressed: 1,322 (Ranked 178)  
 Completed: 5 (0.38%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 5 (0.38%) (Ranked 138)
 | 2023-07-14 | 1,313 | 5 |
 | 2023-07-15 | 1,317 | 5 |
 | 2023-07-16 | 1,319 | 5 |
-| 2023-07-17 | 1,321 | 5 |
+| 2023-07-17 | 1,322 | 5 |
 ## Awards
 Max (Character Customization): 28  (Ranked 462)  
 Sum: 28 (Ranked 474)  

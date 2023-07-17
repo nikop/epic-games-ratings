@@ -5020,9 +5020,9 @@
       "Count": 3303
     }
   ],
-  "EOS_Progressed": 212588,
+  "EOS_Progressed": 212598,
   "EOS_Completed": 2056,
-  "EOS_NewPlayers": 3100,
+  "EOS_NewPlayers": 3093,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -14380,6 +14380,11 @@
       "Time": "2023-07-17T06:05:33.7193671+00:00",
       "NumProgressed": 212588,
       "NumCompleted": 2056
+    },
+    {
+      "Time": "2023-07-17T07:07:02.1537752+00:00",
+      "NumProgressed": 212598,
+      "NumCompleted": 2056
     }
   ],
   "TotalAchievements": 507,
@@ -16085,9 +16090,9 @@
       "ID": "objective_completed_36",
       "SetID": "cc37lbc",
       "Name": "The Death Curse",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 425
     },
     {
       "ID": "objective_completed_37",
@@ -17461,9 +17466,9 @@
       "ID": "objective_completed_69",
       "SetID": "cc37lbc",
       "Name": "Escort to Waterdeep",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 425
+      "UsersEstimate": 638
     },
     {
       "ID": "objective_completed_690",
@@ -18446,21 +18451,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 178862,
+      "Progressed": 178872,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 212588,
+      "Progressed": 212598,
       "Completed": 2056
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-16T20:59:03.4305379+00:00",
-  "LastChanged_Achievements": "2023-07-17T06:05:33.7193667+00:00",
+  "LastChanged_Achievements": "2023-07-17T07:07:02.1537746+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:48.5227447+00:00",
-  "LastUpdate_Ratings": "2023-07-17T05:58:14.4174837+00:00",
-  "LastUpdate_Achievements": "2023-07-17T06:05:33.7221067+00:00"
+  "LastUpdate_Ratings": "2023-07-17T06:59:01.5569581+00:00",
+  "LastUpdate_Achievements": "2023-07-17T07:07:02.1573029+00:00"
 }

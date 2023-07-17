@@ -984,9 +984,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12593,
+  "EOS_Progressed": 12594,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 527,
+  "EOS_NewPlayers": 524,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -10209,6 +10209,11 @@
       "Time": "2023-07-17T06:00:28.2661301+00:00",
       "NumProgressed": 12593,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-07-17T07:02:27.9092195+00:00",
+      "NumProgressed": 12594,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 45,
@@ -10244,7 +10249,7 @@
       "Name": "Back to hell",
       "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 4785
+      "UsersEstimate": 4786
     },
     {
       "ID": "CantRunCantHide",
@@ -10444,7 +10449,7 @@
       "Name": "Running out of breath",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 6926
+      "UsersEstimate": 6927
     },
     {
       "ID": "RunningWild",
@@ -10516,7 +10521,7 @@
       "Name": "Unstoppable force",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 2896
+      "UsersEstimate": 2897
     },
     {
       "ID": "UpCloseAndPersonal",
@@ -10540,7 +10545,7 @@
       "Name": "Wallrunner",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 6926
+      "UsersEstimate": 6927
     },
     {
       "ID": "WaveOfMutilation",
@@ -10548,7 +10553,7 @@
       "Name": "Wave of mutilation",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 2770
+      "UsersEstimate": 2771
     },
     {
       "ID": "WhereAreMyKeys",
@@ -10579,21 +10584,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 12593,
+      "Progressed": 12594,
       "Completed": 28
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 12593,
+      "Progressed": 12594,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-07-13T04:58:08.9161071+00:00",
-  "LastChanged_Achievements": "2023-07-17T06:00:28.2661295+00:00",
+  "LastChanged_Achievements": "2023-07-17T07:02:27.9092187+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:46.7330035+00:00",
-  "LastUpdate_Ratings": "2023-07-17T05:58:13.2709689+00:00",
-  "LastUpdate_Achievements": "2023-07-17T06:00:28.2662311+00:00"
+  "LastUpdate_Ratings": "2023-07-17T06:58:59.7524307+00:00",
+  "LastUpdate_Achievements": "2023-07-17T07:02:27.9093797+00:00"
 }

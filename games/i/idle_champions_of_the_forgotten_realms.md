@@ -12,15 +12,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | Are Ya Chicken? | 0.30% | ~638 |
 | Mad Cow Disease | 0.30% | ~638 |
 | The Contagious Curse | 0.30% | ~638 |
+| Escort to Waterdeep | 0.30% | ~638 |
 | The Mad Wizard | 0.30% | ~638 |
 | Friendly Imps | 0.30% | ~638 |
 | Pure Energy | 0.30% | ~638 |
 | The Crumbling Temple | 0.20% | ~425 |
+| The Death Curse | 0.20% | ~425 |
 | Useless Allies | 0.20% | ~425 |
 | Exploring Port Nyanzaru | 0.20% | ~425 |
 | A Tale of Two Cities | 0.20% | ~425 |
 | Running of the Saurs | 0.20% | ~425 |
-| Escort to Waterdeep | 0.20% | ~425 |
 | Close Escort | 0.20% | ~425 |
 | Constant Banditry | 0.20% | ~425 |
 | Waterdeep Detours | 0.20% | ~425 |
@@ -42,7 +43,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Trepidatious Trio | 0.10% | ~213 |
 | Our Time To Shine | 0.10% | ~213 |
 | Review by the Blackstaff | 0.10% | ~179 |
-| The Death Curse | 0.10% | ~213 |
 | Treasure Hunters | 0.10% | ~213 |
 | The Guardian of Orolunga | 0.10% | ~213 |
 | Think Your Way Out Of It | 0.10% | ~213 |
@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212,588 (Ranked 53)  
+Progressed: 212,598 (Ranked 53)  
 Completed: 2,056 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -602,7 +602,7 @@ Completed: 2,056 (0.97%) (Ranked 102)
 | 2023-07-14 | 211,507 | 2,050 |
 | 2023-07-15 | 212,014 | 2,053 |
 | 2023-07-16 | 212,501 | 2,055 |
-| 2023-07-17 | 212,588 | 2,056 |
+| 2023-07-17 | 212,598 | 2,056 |
 ## Awards
 Max (Diverse Characters): 5,036  (Ranked 66)  
 Sum: 30,550 (Ranked 38)  

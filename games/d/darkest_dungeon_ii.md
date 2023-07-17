@@ -6,50 +6,50 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~102,971 |
-| Don't Make Me Turn This Coach Around | 70.00% | ~77,505 |
-| A Clear Conscience | 69.00% | ~76,398 |
-| Unleash Hell | 68.00% | ~75,291 |
-| Unfulfilled Desires | 68.00% | ~75,291 |
-| Funny Guy | 67.00% | ~74,184 |
-| Unshackled | 67.00% | ~74,184 |
-| Long Live the King | 66.00% | ~73,077 |
-| Resurrection | 62.00% | ~68,648 |
-| Wyrdly Reconstructed | 62.00% | ~68,648 |
-| Boxcar Kid | 60.00% | ~66,433 |
-| To Grandmother's House | 60.00% | ~66,433 |
-| Rush Hour | 59.00% | ~65,326 |
-| Serenity Now! | 52.00% | ~57,575 |
-| Hope Rekindled | 50.00% | ~55,361 |
-| Ramble On | 48.00% | ~53,147 |
-| Nope | 47.00% | ~52,039 |
-| This Looks Familiar | 38.00% | ~42,074 |
-| Hot Air | 36.00% | ~39,860 |
+| A Place to Lay Your Head | 93.00% | ~102,973 |
+| Don't Make Me Turn This Coach Around | 70.00% | ~77,507 |
+| A Clear Conscience | 69.00% | ~76,400 |
+| Unleash Hell | 68.00% | ~75,292 |
+| Unfulfilled Desires | 68.00% | ~75,292 |
+| Funny Guy | 67.00% | ~74,185 |
+| Unshackled | 67.00% | ~74,185 |
+| Long Live the King | 66.00% | ~73,078 |
+| Resurrection | 62.00% | ~68,649 |
+| Wyrdly Reconstructed | 62.00% | ~68,649 |
+| Boxcar Kid | 60.00% | ~66,434 |
+| To Grandmother's House | 60.00% | ~66,434 |
+| Rush Hour | 59.00% | ~65,327 |
+| Serenity Now! | 52.00% | ~57,576 |
+| Hope Rekindled | 50.00% | ~55,362 |
+| Ramble On | 48.00% | ~53,148 |
+| Nope | 47.00% | ~52,040 |
+| This Looks Familiar | 38.00% | ~42,075 |
+| Hot Air | 36.00% | ~39,861 |
 | Now Stay Dead | 35.00% | ~38,753 |
 | Merry Time | 35.00% | ~38,753 |
 | Harvest Festival | 35.00% | ~38,753 |
-| Creep and Sleep | 32.00% | ~35,431 |
+| Creep and Sleep | 32.00% | ~35,432 |
 | Overdue Notice | 31.00% | ~34,324 |
 | Banishment | 30.00% | ~33,217 |
 | Whale | 30.00% | ~33,217 |
-| FNG | 28.00% | ~31,002 |
-| Predator | 23.00% | ~25,466 |
-| Reverse Banditry | 23.00% | ~25,466 |
-| Autodidact | 23.00% | ~25,466 |
+| FNG | 28.00% | ~31,003 |
+| Predator | 23.00% | ~25,467 |
+| Reverse Banditry | 23.00% | ~25,467 |
+| Autodidact | 23.00% | ~25,467 |
 | Meat and Greet | 22.00% | ~24,359 |
 | Spelunker | 21.00% | ~23,252 |
 | Road Trip | 21.00% | ~23,252 |
-| Eyes Up | 20.00% | ~22,144 |
-| It Rings a Bell | 19.00% | ~21,037 |
+| Eyes Up | 20.00% | ~22,145 |
+| It Rings a Bell | 19.00% | ~21,038 |
 | Escape from the Black Hole | 17.00% | ~18,823 |
 | It Happens | 17.00% | ~18,823 |
-| This Belongs in a Museum | 15.00% | ~16,608 |
-| Dissector | 15.00% | ~16,608 |
-| Handled | 15.00% | ~16,608 |
+| This Belongs in a Museum | 15.00% | ~16,609 |
+| Dissector | 15.00% | ~16,609 |
+| Handled | 15.00% | ~16,609 |
 | Catch and Decease | 13.00% | ~14,394 |
 | Not Today! | 12.00% | ~13,287 |
 | Deprogramming | 12.00% | ~13,287 |
-| Shrine of Reflection | 11.00% | ~12,179 |
+| Shrine of Reflection | 11.00% | ~12,180 |
 | When You Want Something Done Right | 10.00% | ~11,072 |
 | Body of Work | 9.00% | ~9,965 |
 | Utopia | 8.00% | ~8,858 |
@@ -62,7 +62,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Life Well Lived | 1.00% | ~1,107 |
 | Pub Crawl | 1.00% | ~1,107 |
 | Eidetic | 1.00% | ~1,107 |
-| Grand Slam | 0.90% | ~996 |
+| Grand Slam | 0.90% | ~997 |
 | Bacon Bits | 0.80% | ~886 |
 | Circle of Life | 0.60% | ~664 |
 | Tears in the Rain | 0.50% | ~554 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Gravestone Left Unturned | 0.10% | ~111 |
 | 20,000 Leagues Above the Sea | 0.10% | ~111 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 110,722 (Ranked 66)  
+Progressed: 110,724 (Ranked 66)  
 Completed: 1 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 1 (0.00%) (Ranked 236)
 | 2023-07-14 | 110,309 | 1 |
 | 2023-07-15 | 110,490 | 1 |
 | 2023-07-16 | 110,681 | 1 |
-| 2023-07-17 | 110,722 | 1 |
+| 2023-07-17 | 110,724 | 1 |
 ## Awards
 Max (Character Customization): 7,276  (Ranked 47)  
 Sum: 18,827 (Ranked 56)  

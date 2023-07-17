@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 29,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 27,
+  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 522417,
+  "EOS_Progressed": 522419,
   "EOS_Completed": 447,
-  "EOS_NewPlayers": 634,
+  "EOS_NewPlayers": 635,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -9530,6 +9530,11 @@
       "Time": "2023-07-17T06:02:30.2421922+00:00",
       "NumProgressed": 522417,
       "NumCompleted": 447
+    },
+    {
+      "Time": "2023-07-17T07:03:28.2387992+00:00",
+      "NumProgressed": 522419,
+      "NumCompleted": 447
     }
   ],
   "TotalAchievements": 57,
@@ -9549,7 +9554,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 235088
+      "UsersEstimate": 235089
     },
     {
       "ID": "11",
@@ -9557,7 +9562,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 365692
+      "UsersEstimate": 365693
     },
     {
       "ID": "12",
@@ -9621,7 +9626,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 323899
+      "UsersEstimate": 323900
     },
     {
       "ID": "2",
@@ -9637,7 +9642,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 125380
+      "UsersEstimate": 125381
     },
     {
       "ID": "21",
@@ -9765,7 +9770,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 261208
+      "UsersEstimate": 261210
     },
     {
       "ID": "36",
@@ -9869,7 +9874,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 323899
+      "UsersEstimate": 323900
     },
     {
       "ID": "48",
@@ -9877,7 +9882,7 @@
       "Name": "To the Beat",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 104483
+      "UsersEstimate": 104484
     },
     {
       "ID": "49",
@@ -9901,7 +9906,7 @@
       "Name": "Two of a Kind",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 73138
+      "UsersEstimate": 73139
     },
     {
       "ID": "51",
@@ -9917,7 +9922,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 240312
+      "UsersEstimate": 240313
     },
     {
       "ID": "53",
@@ -9996,15 +10001,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 522417,
+      "Progressed": 522419,
       "Completed": 447
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-07-17T06:02:30.2421916+00:00",
+  "LastChanged_Achievements": "2023-07-17T07:03:28.2387986+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:17.3888766+00:00",
-  "LastUpdate_Ratings": "2023-07-17T05:57:36.9323033+00:00",
-  "LastUpdate_Achievements": "2023-07-17T06:02:30.2423+00:00"
+  "LastUpdate_Ratings": "2023-07-17T06:58:04.4549262+00:00",
+  "LastUpdate_Achievements": "2023-07-17T07:03:28.2389852+00:00"
 }

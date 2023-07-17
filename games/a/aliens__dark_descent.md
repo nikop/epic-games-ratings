@@ -6,7 +6,7 @@ Rating: 4.43 (Ranked 655)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,377 |
-| Snatched Out | 73.00% | ~2,143 |
+| Snatched Out | 74.00% | ~2,172 |
 | Keep 'Em Coming | 72.00% | ~2,113 |
 | Cleaning Lethe, One Nest At A Time | 65.00% | ~1,908 |
 | Call Me Snake | 60.00% | ~1,761 |
@@ -38,7 +38,7 @@ Rating: 4.43 (Ranked 655)
 | Bandage Lover | 14.00% | ~411 |
 | The Cable Guy | 14.00% | ~411 |
 | Abysmal Horrors | 14.00% | ~411 |
-| Regicide | 10.00% | ~294 |
+| Regicide | 11.00% | ~323 |
 | Heavy Steps | 10.00% | ~294 |
 | Flawless Victory | 9.00% | ~264 |
 | This Went Smoothly | 9.00% | ~264 |

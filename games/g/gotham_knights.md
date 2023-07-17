@@ -22,20 +22,20 @@ Rating: 4.18 (Ranked 856)
 | Lock and Key | 3.00% | ~2,014 |
 | Bad Apples in Every Orchard | 3.00% | ~2,014 |
 | From Inside Gotham's Walls | 3.00% | ~2,014 |
-| End of an Era | 2.00% | ~1,342 |
-| In Your Element | 2.00% | ~1,342 |
-| Protector of Gotham | 2.00% | ~1,342 |
-| Rock and a Hard Place | 2.00% | ~1,342 |
-| Not On My Watch | 2.00% | ~1,342 |
-| Bulldozed | 2.00% | ~1,342 |
-| Shock Til They Drop | 2.00% | ~1,342 |
-| Drone You Out | 2.00% | ~1,342 |
-| Cooldown | 2.00% | ~1,342 |
-| Universal Health Scare | 2.00% | ~1,342 |
-| Voiceless | 2.00% | ~1,342 |
-| Seeking Asylum | 2.00% | ~1,342 |
-| Gotham Knight | 2.00% | ~1,342 |
-| Gotham City Confidential | 2.00% | ~1,342 |
+| End of an Era | 2.00% | ~1,343 |
+| In Your Element | 2.00% | ~1,343 |
+| Protector of Gotham | 2.00% | ~1,343 |
+| Rock and a Hard Place | 2.00% | ~1,343 |
+| Not On My Watch | 2.00% | ~1,343 |
+| Bulldozed | 2.00% | ~1,343 |
+| Shock Til They Drop | 2.00% | ~1,343 |
+| Drone You Out | 2.00% | ~1,343 |
+| Cooldown | 2.00% | ~1,343 |
+| Universal Health Scare | 2.00% | ~1,343 |
+| Voiceless | 2.00% | ~1,343 |
+| Seeking Asylum | 2.00% | ~1,343 |
+| Gotham Knight | 2.00% | ~1,343 |
+| Gotham City Confidential | 2.00% | ~1,343 |
 | Fusion Expert | 1.00% | ~671 |
 | Out of Their League | 1.00% | ~671 |
 | Family Meeting | 1.00% | ~671 |
@@ -45,7 +45,7 @@ Rating: 4.18 (Ranked 856)
 | Dressed to Impress | 0.80% | ~537 |
 | A Momentum Occasion | 0.60% | ~403 |
 | Bat Out of Hell | 0.50% | ~336 |
-| He'd Be So Proud of You | 0.40% | ~268 |
+| He'd Be So Proud of You | 0.40% | ~269 |
 | Hammer and Icicle | 0.30% | ~112 |
 | Renewable Enemy Source | 0.30% | ~112 |
 | Crime Is a Terrible Thing to Waste | 0.30% | ~112 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 856)
 | History Major | 0.10% | ~67 |
 | Confronting Your Demon | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,125 (Ranked 77)  
+Progressed: 67,126 (Ranked 77)  
 Completed: 102 (0.15%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 102 (0.15%) (Ranked 173)
 | 2023-07-14 | 67,031 | 102 |
 | 2023-07-15 | 67,061 | 102 |
 | 2023-07-16 | 67,109 | 102 |
-| 2023-07-17 | 67,125 | 102 |
+| 2023-07-17 | 67,126 | 102 |
 ## Awards
 Max (Great Boss Battles): 2,450  (Ranked 101)  
 Sum: 4,059 (Ranked 138)  

@@ -6,11 +6,11 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 41.00% | ~5,719 |
+| Tattletale | 41.00% | ~5,720 |
 | Man of politics | 35.00% | ~4,882 |
 | Friends of sorts | 34.00% | ~4,743 |
 | Yet another secret | 34.00% | ~4,743 |
-| Let there be darkness | 33.00% | ~4,603 |
+| Let there be darkness | 33.00% | ~4,604 |
 | End of Book One | 31.00% | ~4,324 |
 | Wannabe knight | 24.00% | ~3,348 |
 | Garden of Eden | 24.00% | ~3,348 |
@@ -20,27 +20,27 @@ Number of Ratings: 368  (23.09.2022)
 | Negotiation skills | 19.00% | ~2,650 |
 | Workers' union | 18.00% | ~2,511 |
 | End of Book Two | 18.00% | ~2,511 |
-| Everything's in order | 17.00% | ~2,371 |
+| Everything's in order | 17.00% | ~2,372 |
 | Jack was here! | 15.00% | ~2,092 |
 | Twist of Fate | 14.00% | ~1,953 |
 | Exterminator | 14.00% | ~1,953 |
-| Whodunnit | 13.00% | ~1,813 |
+| Whodunnit | 13.00% | ~1,814 |
 | Good midwife | 11.00% | ~1,534 |
 | Friar Tuck | 11.00% | ~1,534 |
 | First profit | 11.00% | ~1,534 |
 | Team player | 10.00% | ~1,395 |
-| Skilled merchant | 9.00% | ~1,255 |
-| Nothing but make-believe | 9.00% | ~1,255 |
-| Brother Marcus | 9.00% | ~1,255 |
-| The oath | 9.00% | ~1,255 |
-| The truth revealed | 9.00% | ~1,255 |
-| The End. | 9.00% | ~1,255 |
+| Skilled merchant | 9.00% | ~1,256 |
+| Nothing but make-believe | 9.00% | ~1,256 |
+| Brother Marcus | 9.00% | ~1,256 |
+| The oath | 9.00% | ~1,256 |
+| The truth revealed | 9.00% | ~1,256 |
+| The End. | 9.00% | ~1,256 |
 | A cry for help | 8.00% | ~1,116 |
-| Silentium est aureum | 7.00% | ~976 |
+| Silentium est aureum | 7.00% | ~977 |
 | Rebel without a cause | 6.00% | ~837 |
-| Staring contest champion | 5.00% | ~697 |
-| Lone wolf | 5.00% | ~697 |
-| Vox Populi | 5.00% | ~697 |
+| Staring contest champion | 5.00% | ~698 |
+| Lone wolf | 5.00% | ~698 |
+| Vox Populi | 5.00% | ~698 |
 | Revenge | 4.00% | ~558 |
 | Self-defense | 4.00% | ~558 |
 | Countess Aliena | 4.00% | ~558 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~418 |
 | Boy of mystery | 2.00% | ~279 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,949 (Ranked 112)  
+Progressed: 13,950 (Ranked 112)  
 Completed: 105 (0.75%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 105 (0.75%) (Ranked 111)
 | 2023-07-14 | 13,898 | 105 |
 | 2023-07-15 | 13,923 | 105 |
 | 2023-07-16 | 13,941 | 105 |
-| 2023-07-17 | 13,949 | 105 |
+| 2023-07-17 | 13,950 | 105 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 293)  
 Sum: 188 (Ranked 366)  

@@ -25,9 +25,155 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-07-17T07:03:55.7961691+00:00",
+  "TotalAchievements": 18,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "15lvl",
+      "SetID": "2jfh9oo",
+      "Name": "Ekaadiz",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Antidotum",
+      "SetID": "2jfh9oo",
+      "Name": "Antidotum",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Arena",
+      "SetID": "2jfh9oo",
+      "Name": "Arena",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Burnt",
+      "SetID": "2jfh9oo",
+      "Name": "End",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Chef",
+      "SetID": "2jfh9oo",
+      "Name": "Chief",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Completion",
+      "SetID": "2jfh9oo",
+      "Name": "Completion",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Effects",
+      "SetID": "2jfh9oo",
+      "Name": "Effects",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Egg",
+      "SetID": "2jfh9oo",
+      "Name": "Eaggle\u0027s Egg",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Finish",
+      "SetID": "2jfh9oo",
+      "Name": "End",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Friend",
+      "SetID": "2jfh9oo",
+      "Name": "Weird Friend",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "House",
+      "SetID": "2jfh9oo",
+      "Name": "House",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Investigation",
+      "SetID": "2jfh9oo",
+      "Name": "Investigation",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Mainland",
+      "SetID": "2jfh9oo",
+      "Name": "Mainland",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Niiwana",
+      "SetID": "2jfh9oo",
+      "Name": "Nirvana",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PeacfulPipe",
+      "SetID": "2jfh9oo",
+      "Name": "Peacful Pipe",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Sheep",
+      "SetID": "2jfh9oo",
+      "Name": "Sheep\u0027s friend",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Steal",
+      "SetID": "2jfh9oo",
+      "Name": "Don\u0027t Steal!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Totems",
+      "SetID": "2jfh9oo",
+      "Name": "Totems",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "2jfh9oo",
@@ -37,8 +183,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-27T21:01:01.0024576+00:00",
-  "LastChanged_Achievements": "2023-07-17T06:03:19.9564274+00:00",
+  "LastChanged_Achievements": "2023-07-17T07:03:55.7961672+00:00",
   "LastUpdate_AppInfo": "2023-07-11T22:56:56.7235986+00:00",
-  "LastUpdate_Ratings": "2023-07-17T05:57:09.1797736+00:00",
-  "LastUpdate_Achievements": "2023-07-17T06:03:19.9564306+00:00"
+  "LastUpdate_Ratings": "2023-07-17T06:57:21.1236345+00:00",
+  "LastUpdate_Achievements": "2023-07-17T07:03:55.796183+00:00"
 }

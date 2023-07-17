@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -151,9 +151,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1321,
+  "EOS_Progressed": 1322,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1141,6 +1141,11 @@
       "Time": "2023-07-17T03:30:10.7724627+00:00",
       "NumProgressed": 1321,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-17T07:05:46.8265618+00:00",
+      "NumProgressed": 1322,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 56,
@@ -1168,7 +1173,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -1200,7 +1205,7 @@
       "Name": "Let Me Get My Chisel",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "achievement_beatGameOnWalkingLunch",
@@ -1304,15 +1309,15 @@
       "Name": "Plague Doctor",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "achievement_loseBattle",
       "SetID": "95dc8p",
       "Name": "This Too Shall Pass",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 383
+      "UsersEstimate": 397
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -1320,7 +1325,7 @@
       "Name": "How Romantic!",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "achievement_maimedHero",
@@ -1384,7 +1389,7 @@
       "Name": "Everfading",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "completedStory_enduringWar",
@@ -1400,7 +1405,7 @@
       "Name": "Another Tale to Tell",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "completedStory_monarchs",
@@ -1416,7 +1421,7 @@
       "Name": "A Story of Heroes",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "completedStory_ulstryx",
@@ -1424,7 +1429,7 @@
       "Name": "Daybreak",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "completedStory_vultureLord",
@@ -1599,15 +1604,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1321,
+      "Progressed": 1322,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-07-08T20:01:41.3411794+00:00",
-  "LastChanged_Achievements": "2023-07-17T06:04:41.6639591+00:00",
+  "LastChanged_Achievements": "2023-07-17T07:05:46.8265612+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:39.8918764+00:00",
-  "LastUpdate_Ratings": "2023-07-17T06:00:13.7927886+00:00",
-  "LastUpdate_Achievements": "2023-07-17T06:04:41.6640179+00:00"
+  "LastUpdate_Ratings": "2023-07-17T07:02:04.277517+00:00",
+  "LastUpdate_Achievements": "2023-07-17T07:05:46.8266266+00:00"
 }

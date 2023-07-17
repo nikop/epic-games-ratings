@@ -2066,9 +2066,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67125,
+  "EOS_Progressed": 67126,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 318,
+  "EOS_NewPlayers": 317,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10031,6 +10031,11 @@
       "Time": "2023-07-17T06:03:57.0562791+00:00",
       "NumProgressed": 67125,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-07-17T07:04:58.2597471+00:00",
+      "NumProgressed": 67126,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 61,
@@ -10122,7 +10127,7 @@
       "Name": "End of an Era",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1342
+      "UsersEstimate": 1343
     },
     {
       "ID": "APPLY_STATUS",
@@ -10130,7 +10135,7 @@
       "Name": "In Your Element",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1342
+      "UsersEstimate": 1343
     },
     {
       "ID": "CHALLENGES_1",
@@ -10138,7 +10143,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1342
+      "UsersEstimate": 1343
     },
     {
       "ID": "CLAYFACE_1",
@@ -10162,7 +10167,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1342
+      "UsersEstimate": 1343
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -10202,7 +10207,7 @@
       "Name": "Not On My Watch",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 1342
+      "UsersEstimate": 1343
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -10218,7 +10223,7 @@
       "Name": "Bulldozed",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1342
+      "UsersEstimate": 1343
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -10250,7 +10255,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1342
+      "UsersEstimate": 1343
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -10258,7 +10263,7 @@
       "Name": "Drone You Out",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1342
+      "UsersEstimate": 1343
     },
     {
       "ID": "FREEZE_1",
@@ -10290,7 +10295,7 @@
       "Name": "Cooldown",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1342
+      "UsersEstimate": 1343
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -10370,7 +10375,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1342
+      "UsersEstimate": 1343
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -10394,7 +10399,7 @@
       "Name": "He\u0027d Be So Proud of You",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "HERO_PROGRESSION_3",
@@ -10474,7 +10479,7 @@
       "Name": "Voiceless",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1342
+      "UsersEstimate": 1343
     },
     {
       "ID": "MYSTERY_07",
@@ -10482,7 +10487,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1342
+      "UsersEstimate": 1343
     },
     {
       "ID": "MYSTERY_08",
@@ -10490,7 +10495,7 @@
       "Name": "Gotham Knight",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1342
+      "UsersEstimate": 1343
     },
     {
       "ID": "SECRET_CACHE",
@@ -10498,7 +10503,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1342
+      "UsersEstimate": 1343
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -10529,13 +10534,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67125,
+      "Progressed": 67126,
       "Completed": 102
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 37405,
+      "Progressed": 37406,
       "Completed": 2652
     }
   ],
@@ -10543,8 +10548,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-07-17T02:29:42.9664787+00:00",
-  "LastChanged_Achievements": "2023-07-17T06:03:57.0562785+00:00",
+  "LastChanged_Achievements": "2023-07-17T07:04:58.2597464+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:49.4668745+00:00",
-  "LastUpdate_Ratings": "2023-07-17T05:59:39.2734839+00:00",
-  "LastUpdate_Achievements": "2023-07-17T06:03:57.0563856+00:00"
+  "LastUpdate_Ratings": "2023-07-17T07:01:08.7696112+00:00",
+  "LastUpdate_Achievements": "2023-07-17T07:04:58.259931+00:00"
 }
