@@ -68,8 +68,8 @@
 | 66 | [Lamentum](games/l/lamentum.md) | 2.67% |
 | 67 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
 | 68 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.53% |
-| 69 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.50% |
-| 69 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 69 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.51% |
+| 70 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 71 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
 | 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.33% |
 | 73 | [Bloodshore](games/b/bloodshore.md) | 2.27% |
