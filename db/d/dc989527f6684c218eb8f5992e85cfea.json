@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7453,
+  "EOS_Progressed": 7456,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 819,
+  "EOS_NewPlayers": 821,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3466,6 +3466,11 @@
       "Time": "2023-07-18T07:02:29.5085652+00:00",
       "NumProgressed": 7453,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-18T08:02:35.4374663+00:00",
+      "NumProgressed": 7456,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -3477,7 +3482,7 @@
       "Name": "Self Portrait",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 894
+      "UsersEstimate": 895
     },
     {
       "ID": "ACH_COLOR_AVERAGE_AT_LEAST_6_AFTER_25_GAMES",
@@ -3549,7 +3554,7 @@
       "Name": "You tried your best!",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3205
+      "UsersEstimate": 3206
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -3676,14 +3681,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 7453,
+      "Progressed": 7456,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-07-18T07:02:29.5085646+00:00",
+  "LastChanged_Achievements": "2023-07-18T08:02:35.4374658+00:00",
   "LastUpdate_AppInfo": "2023-07-14T18:57:14.8780974+00:00",
-  "LastUpdate_Ratings": "2023-07-18T06:57:14.2383137+00:00",
-  "LastUpdate_Achievements": "2023-07-18T07:02:29.5085972+00:00"
+  "LastUpdate_Ratings": "2023-07-18T07:57:09.4150279+00:00",
+  "LastUpdate_Achievements": "2023-07-18T08:02:35.4375081+00:00"
 }

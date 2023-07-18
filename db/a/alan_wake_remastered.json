@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57487,
+  "EOS_Progressed": 57488,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 298,
+  "EOS_NewPlayers": 296,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8262,6 +8262,11 @@
       "Time": "2023-07-18T06:03:28.4261902+00:00",
       "NumProgressed": 57487,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-07-18T08:03:11.5460893+00:00",
+      "NumProgressed": 57488,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 67,
@@ -8297,7 +8302,7 @@
       "Name": "Boob Tube",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2299
+      "UsersEstimate": 2300
     },
     {
       "ID": "05",
@@ -8337,7 +8342,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6898
+      "UsersEstimate": 6899
     },
     {
       "ID": "10",
@@ -8353,7 +8358,7 @@
       "Name": "Children of the Elder God",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2299
+      "UsersEstimate": 2300
     },
     {
       "ID": "12",
@@ -8425,7 +8430,7 @@
       "Name": "If It Flies, It Burns",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2299
+      "UsersEstimate": 2300
     },
     {
       "ID": "21",
@@ -8433,7 +8438,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6898
+      "UsersEstimate": 6899
     },
     {
       "ID": "22",
@@ -8441,7 +8446,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6898
+      "UsersEstimate": 6899
     },
     {
       "ID": "23",
@@ -8529,7 +8534,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6898
+      "UsersEstimate": 6899
     },
     {
       "ID": "34",
@@ -8545,7 +8550,7 @@
       "Name": "Let There Be Light",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 15521
+      "UsersEstimate": 15522
     },
     {
       "ID": "36",
@@ -8649,7 +8654,7 @@
       "Name": "KBF-FM",
       "Percentage": 4,
       "XP": 110,
-      "UsersEstimate": 2299
+      "UsersEstimate": 2300
     },
     {
       "ID": "49",
@@ -8808,21 +8813,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57487,
+      "Progressed": 57488,
       "Completed": 58
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20955,
+      "Progressed": 20956,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-18T07:02:37.8215066+00:00",
+  "LastChanged_Achievements": "2023-07-18T08:03:11.5460888+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:10.5196415+00:00",
-  "LastUpdate_Ratings": "2023-07-18T06:58:15.6306818+00:00",
-  "LastUpdate_Achievements": "2023-07-18T07:02:37.8216131+00:00"
+  "LastUpdate_Ratings": "2023-07-18T07:58:04.5382744+00:00",
+  "LastUpdate_Achievements": "2023-07-18T08:03:11.5462161+00:00"
 }

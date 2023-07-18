@@ -1494,9 +1494,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 24285,
+  "EOS_Progressed": 24286,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -8109,6 +8109,11 @@
       "Time": "2023-07-18T05:03:20.3814948+00:00",
       "NumProgressed": 24285,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-07-18T08:03:20.5477187+00:00",
+      "NumProgressed": 24286,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 51,
@@ -8120,7 +8125,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 17728
+      "UsersEstimate": 17729
     },
     {
       "ID": "Animated",
@@ -8128,7 +8133,7 @@
       "Name": "Animated",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 5828
+      "UsersEstimate": 5829
     },
     {
       "ID": "Back_Off",
@@ -8168,7 +8173,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 12385
+      "UsersEstimate": 12386
     },
     {
       "ID": "Collector",
@@ -8184,7 +8189,7 @@
       "Name": "Cultured",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 12385
+      "UsersEstimate": 12386
     },
     {
       "ID": "Daily_Dose",
@@ -8232,7 +8237,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 15542
+      "UsersEstimate": 15543
     },
     {
       "ID": "Escape_Artist",
@@ -8296,7 +8301,7 @@
       "Name": "Liability",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 2428
+      "UsersEstimate": 2429
     },
     {
       "ID": "Line_Em_Up",
@@ -8336,7 +8341,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6071
+      "UsersEstimate": 6072
     },
     {
       "ID": "Reckless",
@@ -8344,7 +8349,7 @@
       "Name": "Reckless",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 4128
+      "UsersEstimate": 4129
     },
     {
       "ID": "Rift_Destroyer",
@@ -8376,7 +8381,7 @@
       "Name": "Rivalry",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2428
+      "UsersEstimate": 2429
     },
     {
       "ID": "Seasoned",
@@ -8400,7 +8405,7 @@
       "Name": "Skilled",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5828
+      "UsersEstimate": 5829
     },
     {
       "ID": "Solo_Capture",
@@ -8408,7 +8413,7 @@
       "Name": "Solo Capture",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 7771
+      "UsersEstimate": 7772
     },
     {
       "ID": "Stunner",
@@ -8424,7 +8429,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 20885
+      "UsersEstimate": 20886
     },
     {
       "ID": "Summoner",
@@ -8456,7 +8461,7 @@
       "Name": "Teamwork",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 10685
+      "UsersEstimate": 10686
     },
     {
       "ID": "Terrifying",
@@ -8512,7 +8517,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 7771
+      "UsersEstimate": 7772
     },
     {
       "ID": "Whoopsie",
@@ -8527,7 +8532,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 24285,
+      "Progressed": 24286,
       "Completed": 46
     }
   ],
@@ -8535,8 +8540,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-07-17T23:00:17.4641957+00:00",
-  "LastChanged_Achievements": "2023-07-18T07:03:19.0272266+00:00",
+  "LastChanged_Achievements": "2023-07-18T08:03:20.5477184+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:59.3663354+00:00",
-  "LastUpdate_Ratings": "2023-07-18T06:59:52.1551812+00:00",
-  "LastUpdate_Achievements": "2023-07-18T07:03:19.0272909+00:00"
+  "LastUpdate_Ratings": "2023-07-18T07:59:26.3830713+00:00",
+  "LastUpdate_Achievements": "2023-07-18T08:03:20.5478147+00:00"
 }

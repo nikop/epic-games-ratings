@@ -2,7 +2,7 @@
   "ID": "f3720f53cccb4a20841a392a8ea0457f",
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
-  "Ranking_Rating": 611,
+  "Ranking_Rating": 610,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 111,
@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15527,
+  "EOS_Progressed": 15528,
   "EOS_Completed": 326,
-  "EOS_NewPlayers": 575,
+  "EOS_NewPlayers": 570,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -9654,6 +9654,11 @@
       "Time": "2023-07-18T07:03:51.3858078+00:00",
       "NumProgressed": 15527,
       "NumCompleted": 326
+    },
+    {
+      "Time": "2023-07-18T08:03:46.9377408+00:00",
+      "NumProgressed": 15528,
+      "NumCompleted": 326
     }
   ],
   "TotalAchievements": 20,
@@ -9689,7 +9694,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1397
+      "UsersEstimate": 1398
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -9824,15 +9829,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 15527,
+      "Progressed": 15528,
       "Completed": 326
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-07-18T07:03:51.3858074+00:00",
+  "LastChanged_Achievements": "2023-07-18T08:03:46.9377402+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:08.6336222+00:00",
-  "LastUpdate_Ratings": "2023-07-18T07:01:02.6121484+00:00",
-  "LastUpdate_Achievements": "2023-07-18T07:03:51.3858617+00:00"
+  "LastUpdate_Ratings": "2023-07-18T08:00:27.1530289+00:00",
+  "LastUpdate_Achievements": "2023-07-18T08:03:46.937822+00:00"
 }

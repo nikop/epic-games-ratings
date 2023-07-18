@@ -40,10 +40,10 @@ Number of Ratings: 801  (23.09.2022)
 | Rescue Ranger | 8.00% | ~614 |
 | Ticket Titan | 7.00% | ~537 |
 | Surge Gauntlet Scholar | 6.00% | ~461 |
+| Master of Arms | 5.00% | ~384 |
 | No Chill | 5.00% | ~384 |
 | Stop Hitting Yourself | 5.00% | ~384 |
 | Ground Control | 4.00% | ~307 |
-| Master of Arms | 4.00% | ~307 |
 | Start Your Collection | 4.00% | ~307 |
 | Team Player | 4.00% | ~307 |
 | Treasure Hunting | 4.00% | ~307 |

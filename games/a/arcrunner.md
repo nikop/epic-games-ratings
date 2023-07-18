@@ -11,7 +11,7 @@
 | The City | 13.00% | ~93 |
 | Nanonic I | 13.00% | ~93 |
 | Terminated II | 12.00% | ~86 |
-| Challenge Mastered | 10.00% | ~72 |
+| Challenge Mastered | 11.00% | ~79 |
 | Terminated III | 10.00% | ~72 |
 | Nanonic II | 8.00% | ~57 |
 | Supply Run | 7.00% | ~50 |

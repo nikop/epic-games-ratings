@@ -1,7 +1,7 @@
 # AER Memories of Old
 [Store](https://store.epicgames.com/en-US/p/aer-memories-of-old)  
 [View Rawdata](../../db/a/aer_memories_of_old.json)  
-Rating: 4.46 (Ranked 611)  
+Rating: 4.46 (Ranked 610)  
 Number of Ratings: 170  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -18,7 +18,7 @@ Number of Ratings: 170  (23.09.2022)
 | In the belly of the beast | 12.00% | ~1,863 |
 | Wings of Stone | 12.00% | ~1,863 |
 | Condor condo | 10.00% | ~1,553 |
-| Memorial | 9.00% | ~1,397 |
+| Memorial | 9.00% | ~1,398 |
 | An uninvited guest | 8.00% | ~1,242 |
 | Talk to all the spirit animals | 7.00% | ~1,087 |
 | Ripples on the surface | 6.00% | ~932 |
@@ -27,7 +27,7 @@ Number of Ratings: 170  (23.09.2022)
 | Written in stone | 6.00% | ~932 |
 | Hide and Seek | 5.00% | ~776 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,527 (Ranked 111)  
+Progressed: 15,528 (Ranked 111)  
 Completed: 326 (2.10%) (Ranked 75)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 326 (2.10%) (Ranked 75)
 | 2023-07-15 | 15,334 | 321 |
 | 2023-07-16 | 15,436 | 324 |
 | 2023-07-17 | 15,514 | 325 |
-| 2023-07-18 | 15,527 | 326 |
+| 2023-07-18 | 15,528 | 326 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

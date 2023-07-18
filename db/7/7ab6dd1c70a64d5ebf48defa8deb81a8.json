@@ -200,9 +200,9 @@
       "ID": "ACH_15",
       "SetID": "efe2lj",
       "Name": "Tributes of Caladrias",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_16",
@@ -382,7 +382,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-07-18T07:02:34.8763192+00:00",
-  "LastUpdate_Ratings": "2023-07-18T06:57:17.8548147+00:00",
-  "LastUpdate_Achievements": "2023-07-18T07:02:34.8763499+00:00"
+  "LastChanged_Achievements": "2023-07-18T08:02:39.2209417+00:00",
+  "LastUpdate_Ratings": "2023-07-18T07:57:12.8501675+00:00",
+  "LastUpdate_Achievements": "2023-07-18T08:02:39.2209718+00:00"
 }

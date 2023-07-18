@@ -5951,9 +5951,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 467376,
+  "EOS_Progressed": 467377,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 723,
+  "EOS_NewPlayers": 721,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15106,6 +15106,11 @@
       "Time": "2023-07-18T07:03:55.132352+00:00",
       "NumProgressed": 467376,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-07-18T08:03:50.1661909+00:00",
+      "NumProgressed": 467377,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 98,
@@ -15261,7 +15266,7 @@
       "Name": "Beating Expectations",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70106
+      "UsersEstimate": 70107
     },
     {
       "ID": "achievement_big_win",
@@ -15301,7 +15306,7 @@
       "Name": "Clean Sheet",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 229014
+      "UsersEstimate": 229015
     },
     {
       "ID": "achievement_club_world_cup",
@@ -15317,7 +15322,7 @@
       "Name": "Do The Double",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 88801
+      "UsersEstimate": 88802
     },
     {
       "ID": "achievement_dont_concede_a_goal_for_10_consecutive_matches",
@@ -15349,7 +15354,7 @@
       "Name": "I\u0027m The Boss!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 191624
+      "UsersEstimate": 191625
     },
     {
       "ID": "achievement_full_board_confidence",
@@ -15405,7 +15410,7 @@
       "Name": "Attack!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 130865
+      "UsersEstimate": 130866
     },
     {
       "ID": "achievement_goal_scored_in_30_consecutive_matches",
@@ -15413,7 +15418,7 @@
       "Name": "Irresistible Force",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 88801
+      "UsersEstimate": 88802
     },
     {
       "ID": "achievement_golden_boot_award",
@@ -15437,7 +15442,7 @@
       "Name": "Hat-trick",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 191624
+      "UsersEstimate": 191625
     },
     {
       "ID": "achievement_head_to_head",
@@ -15485,7 +15490,7 @@
       "Name": "Iron Curtain",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 107496
+      "UsersEstimate": 107497
     },
     {
       "ID": "achievement_manager_of_the_month",
@@ -15533,7 +15538,7 @@
       "Name": "Overachiever!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70106
+      "UsersEstimate": 70107
     },
     {
       "ID": "achievement_perfect_dressing_room_atmosphere",
@@ -15549,7 +15554,7 @@
       "Name": "Total Support",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 149560
+      "UsersEstimate": 149561
     },
     {
       "ID": "achievement_perfect_match_cohesion",
@@ -15557,7 +15562,7 @@
       "Name": "Excellent Match Cohesion",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 88801
+      "UsersEstimate": 88802
     },
     {
       "ID": "achievement_pick_feeder",
@@ -15621,7 +15626,7 @@
       "Name": "Record Signing",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 149560
+      "UsersEstimate": 149561
     },
     {
       "ID": "achievement_rushed_signing",
@@ -15629,7 +15634,7 @@
       "Name": "Rushed signing",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 70106
+      "UsersEstimate": 70107
     },
     {
       "ID": "achievement_score_a_goal_in_10_consecutive_matches",
@@ -15733,7 +15738,7 @@
       "Name": "Window Shopping",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 70106
+      "UsersEstimate": 70107
     },
     {
       "ID": "achievement_won_20_cup_competitions",
@@ -15900,15 +15905,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 467376,
+      "Progressed": 467377,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-07-17T23:01:52.2684142+00:00",
-  "LastChanged_Achievements": "2023-07-18T07:03:55.1323511+00:00",
+  "LastChanged_Achievements": "2023-07-18T08:03:50.1661905+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:20.1052906+00:00",
-  "LastUpdate_Ratings": "2023-07-18T07:01:12.9438679+00:00",
-  "LastUpdate_Achievements": "2023-07-18T07:03:55.1324855+00:00"
+  "LastUpdate_Ratings": "2023-07-18T08:00:37.774315+00:00",
+  "LastUpdate_Achievements": "2023-07-18T08:03:50.1663725+00:00"
 }

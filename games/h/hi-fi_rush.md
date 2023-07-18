@@ -7,13 +7,13 @@ Rating: 4.87 (Ranked 24)
 | ---- | ---------- | ----- |
 | Cream of the Crop | 2.00% | ~69 |
 | Headliner | 2.00% | ~69 |
+| Time to pay up! | 2.00% | ~69 |
 | Thanks for the free chip, Peppermint! | 2.00% | ~69 |
 | Who put gears in there? | 2.00% | ~69 |
 | NOW we got a kickass hideout! | 2.00% | ~40 |
 | Start with a bang! | 1.00% | ~35 |
 | This will cost you big time | 1.00% | ~35 |
 | The Negotiator | 1.00% | ~35 |
-| Time to pay up! | 1.00% | ~35 |
 | Who's the boss now? | 1.00% | ~35 |
 | Well that was a rush! | 1.00% | ~35 |
 | I play my own way! | 1.00% | ~35 |

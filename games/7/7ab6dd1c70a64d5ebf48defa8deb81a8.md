@@ -8,6 +8,7 @@
 | Powerful Allies | 5.00% | ~1 |
 | Calm before the Storm | 5.00% | ~1 |
 | Trinity | 5.00% | ~1 |
+| Tributes of Caladrias | 5.00% | ~1 |
 | Essence Blow | 5.00% | ~1 |
 | Flawless Victory | 5.00% | ~1 |
 | Fashion Victim | 5.00% | ~1 |
@@ -20,7 +21,6 @@
 | Shardbearer | 0.00% | ~0 |
 | Adventurer | 0.00% | ~0 |
 | Airborne | 0.00% | ~0 |
-| Tributes of Caladrias | 0.00% | ~0 |
 | Shatterer | 0.00% | ~0 |
 | Shatter Them All | 0.00% | ~0 |
 | Slayer | 0.00% | ~0 |

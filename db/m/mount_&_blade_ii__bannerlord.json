@@ -5679,9 +5679,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 56007,
+  "EOS_Progressed": 56011,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 506,
+  "EOS_NewPlayers": 508,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14864,6 +14864,11 @@
       "Time": "2023-07-18T07:07:20.1016543+00:00",
       "NumProgressed": 56007,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-18T08:06:24.2951817+00:00",
+      "NumProgressed": 56011,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -14883,7 +14888,7 @@
       "Name": "Apple of my eye",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 7841
+      "UsersEstimate": 7842
     },
     {
       "ID": "Bannerlord",
@@ -15043,7 +15048,7 @@
       "Name": "I can do it",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8401
+      "UsersEstimate": 8402
     },
     {
       "ID": "I spit on your grave",
@@ -15067,7 +15072,7 @@
       "Name": "King Solomon",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 8961
+      "UsersEstimate": 8962
     },
     {
       "ID": "Kingslayer",
@@ -15083,7 +15088,7 @@
       "Name": "Know your enemy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3360
+      "UsersEstimate": 3361
     },
     {
       "ID": "Lance-a-lot",
@@ -15099,7 +15104,7 @@
       "Name": "Landlord",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 17362
+      "UsersEstimate": 17363
     },
     {
       "ID": "Lawbringer",
@@ -15107,7 +15112,7 @@
       "Name": "Lawbringer",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 20723
+      "UsersEstimate": 20724
     },
     {
       "ID": "Lawmaker",
@@ -15131,7 +15136,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 3920
+      "UsersEstimate": 3921
     },
     {
       "ID": "Minor Clan",
@@ -15227,7 +15232,7 @@
       "Name": "The king is pleased",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 9521
+      "UsersEstimate": 9522
     },
     {
       "ID": "This Is Our Land",
@@ -15251,7 +15256,7 @@
       "Name": "Trained",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 11761
+      "UsersEstimate": 11762
     },
     {
       "ID": "Undercover",
@@ -15282,15 +15287,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 56007,
+      "Progressed": 56011,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-07-17T17:01:07.8455022+00:00",
-  "LastChanged_Achievements": "2023-07-18T07:07:20.1016534+00:00",
+  "LastChanged_Achievements": "2023-07-18T08:06:24.2951808+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:48.1005966+00:00",
-  "LastUpdate_Ratings": "2023-07-18T07:00:41.652246+00:00",
-  "LastUpdate_Achievements": "2023-07-18T07:07:20.1017266+00:00"
+  "LastUpdate_Ratings": "2023-07-18T08:00:08.9283018+00:00",
+  "LastUpdate_Achievements": "2023-07-18T08:06:24.2953047+00:00"
 }
