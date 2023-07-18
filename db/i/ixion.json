@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2836,
+  "EOS_Progressed": 2837,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3598,6 +3598,11 @@
       "Time": "2023-07-18T02:35:16.2377735+00:00",
       "NumProgressed": 2836,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-18T03:23:14.448347+00:00",
+      "NumProgressed": 2837,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -3609,15 +3614,15 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "ACH_BASE_10",
       "SetID": "92iocjf",
       "Name": "Man\u0027s Best Friend",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 142
     },
     {
       "ID": "ACH_BASE_11",
@@ -3673,7 +3678,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "ACH_BASE_19",
@@ -4064,13 +4069,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1018,
+      "Progressed": 1019,
       "Completed": 6
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2836,
+      "Progressed": 2837,
       "Completed": 0
     }
   ],
@@ -4078,8 +4083,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-07-08T02:22:11.1138638+00:00",
-  "LastChanged_Achievements": "2023-07-18T02:35:16.2377728+00:00",
+  "LastChanged_Achievements": "2023-07-18T03:23:14.4483465+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:23.6946025+00:00",
-  "LastUpdate_Ratings": "2023-07-18T02:29:09.5216725+00:00",
-  "LastUpdate_Achievements": "2023-07-18T02:35:16.2378524+00:00"
+  "LastUpdate_Ratings": "2023-07-18T03:17:10.2214778+00:00",
+  "LastUpdate_Achievements": "2023-07-18T03:23:14.4484345+00:00"
 }

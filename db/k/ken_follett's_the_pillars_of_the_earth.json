@@ -489,7 +489,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13970,
+  "EOS_Progressed": 13971,
   "EOS_Completed": 105,
   "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
@@ -6289,6 +6289,11 @@
       "Time": "2023-07-18T02:32:01.6507887+00:00",
       "NumProgressed": 13970,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2023-07-18T03:19:05.3040491+00:00",
+      "NumProgressed": 13971,
+      "NumCompleted": 105
     }
   ],
   "TotalAchievements": 41,
@@ -6324,7 +6329,7 @@
       "Name": "Staring contest champion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "tpote_achievement_13",
@@ -6332,7 +6337,7 @@
       "Name": "Lone wolf",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "tpote_achievement_14",
@@ -6540,7 +6545,7 @@
       "Name": "Vox Populi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "tpote_achievement_38",
@@ -6612,7 +6617,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3073
+      "UsersEstimate": 3074
     },
     {
       "ID": "tpote_achievement_9",
@@ -6627,15 +6632,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13970,
+      "Progressed": 13971,
       "Completed": 105
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-18T02:32:01.650788+00:00",
+  "LastChanged_Achievements": "2023-07-18T03:19:05.3040487+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:01.688698+00:00",
-  "LastUpdate_Ratings": "2023-07-18T02:31:07.2985603+00:00",
-  "LastUpdate_Achievements": "2023-07-18T02:32:01.650878+00:00"
+  "LastUpdate_Ratings": "2023-07-18T03:18:29.2006006+00:00",
+  "LastUpdate_Achievements": "2023-07-18T03:19:05.3041293+00:00"
 }

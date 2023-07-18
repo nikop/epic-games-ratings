@@ -158,9 +158,9 @@
       "ID": "CH1_FIRST",
       "SetID": "6d348d1",
       "Name": "On a Journey!",
-      "Percentage": 76,
+      "Percentage": 80,
       "XP": 70,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "CH1_MOTHER",
@@ -269,8 +269,8 @@
   ],
   "FirstSeen": "2023-06-15T16:57:07.6621394+00:00",
   "FirstSeenAchievements": "2023-06-01T12:01:12.0964223+00:00",
-  "LastChanged_Achievements": "2023-07-18T02:34:52.009359+00:00",
+  "LastChanged_Achievements": "2023-07-18T03:22:57.6767491+00:00",
   "LastUpdate_AppInfo": "2023-07-13T15:57:18.3832956+00:00",
-  "LastUpdate_Ratings": "2023-07-18T02:26:52.9725304+00:00",
-  "LastUpdate_Achievements": "2023-07-18T02:34:52.0093741+00:00"
+  "LastUpdate_Ratings": "2023-07-18T03:15:48.1571704+00:00",
+  "LastUpdate_Achievements": "2023-07-18T03:22:57.6767596+00:00"
 }

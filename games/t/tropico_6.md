@@ -6,25 +6,25 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~3,140 |
-| Un-Lonely Island | 48.00% | ~1,983 |
-| The Beginning of a Servantship | 45.00% | ~1,859 |
-| Trade Is My Trait | 37.00% | ~1,528 |
-| Number 18 | 24.00% | ~991 |
+| Just One...More...Term... | 76.00% | ~3,141 |
+| Un-Lonely Island | 48.00% | ~1,984 |
+| The Beginning of a Servantship | 45.00% | ~1,860 |
+| Trade Is My Trait | 37.00% | ~1,529 |
+| Number 18 | 24.00% | ~992 |
 | We Don't Have Time For That | 19.00% | ~785 |
 | The Governator | 18.00% | ~744 |
-| The Legend of Langostino | 17.00% | ~702 |
+| The Legend of Langostino | 17.00% | ~703 |
 | Caribbean Comrade | 16.00% | ~661 |
 | The Dreamer of Dreams | 16.00% | ~661 |
-| Happy Ending? | 11.00% | ~454 |
-| Go Sovereigns! | 11.00% | ~454 |
-| For Science! | 11.00% | ~454 |
+| Happy Ending? | 11.00% | ~455 |
+| Go Sovereigns! | 11.00% | ~455 |
+| For Science! | 11.00% | ~455 |
 | Of Seals And Men | 10.00% | ~413 |
 | Shackadelic | 10.00% | ~413 |
-| Double Trouble | 8.00% | ~330 |
-| Firestarter | 8.00% | ~330 |
-| Make Tropico Great Again! | 8.00% | ~330 |
-| French Connection | 8.00% | ~330 |
+| Double Trouble | 8.00% | ~331 |
+| Firestarter | 8.00% | ~331 |
+| Make Tropico Great Again! | 8.00% | ~331 |
+| French Connection | 8.00% | ~331 |
 | Don't Panic! | 7.00% | ~289 |
 | I Owe You Nothing | 7.00% | ~289 |
 | Computer Says "No" | 6.00% | ~248 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~37 |
 | My Ways | 0.40% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,131 (Ranked 143)  
+Progressed: 4,133 (Ranked 143)  
 Completed: 1 (0.02%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 1 (0.02%) (Ranked 214)
 | 2023-07-15 | 4,101 | 1 |
 | 2023-07-16 | 4,117 | 1 |
 | 2023-07-17 | 4,129 | 1 |
-| 2023-07-18 | 4,131 | 1 |
+| 2023-07-18 | 4,133 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 94  (Ranked 341)  
 Sum: 667 (Ranked 276)  

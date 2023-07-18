@@ -749,9 +749,9 @@
       "ID": "Vanilla_Garrik",
       "SetID": "27kik8p",
       "Name": "Business As Usual",
-      "Percentage": 0.9,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Vanilla_GearCollection",
@@ -1158,8 +1158,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-07-18T02:33:56.7263346+00:00",
+  "LastChanged_Achievements": "2023-07-18T03:22:19.6308402+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:42.2363139+00:00",
-  "LastUpdate_Ratings": "2023-07-18T02:29:29.4065582+00:00",
-  "LastUpdate_Achievements": "2023-07-18T02:33:56.7264793+00:00"
+  "LastUpdate_Ratings": "2023-07-18T03:17:21.7640322+00:00",
+  "LastUpdate_Achievements": "2023-07-18T03:22:19.6309549+00:00"
 }

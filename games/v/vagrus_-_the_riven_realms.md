@@ -37,6 +37,7 @@
 | Bounty Hunter | 2.00% | ~2 |
 | Deputized | 2.00% | ~2 |
 | Despised | 2.00% | ~2 |
+| Business As Usual | 2.00% | ~2 |
 | Trailblazer | 2.00% | ~2 |
 | Delayed | 2.00% | ~2 |
 | Unseen Patterns | 2.00% | ~2 |
@@ -47,7 +48,6 @@
 | Embellished | 0.90% | ~1 |
 | Huntress Unbound | 0.90% | ~1 |
 | Conqueror | 0.90% | ~1 |
-| Business As Usual | 0.90% | ~1 |
 | Legacy of a Mercenary | 0.90% | ~1 |
 | A Real Battle | 0.90% | ~1 |
 | The Darkness Within | 0.90% | ~1 |

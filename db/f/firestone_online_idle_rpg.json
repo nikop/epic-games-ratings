@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1671,
+  "EOS_Progressed": 1672,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4299,6 +4299,11 @@
       "Time": "2023-07-17T22:00:39.8182656+00:00",
       "NumProgressed": 1671,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-18T03:19:08.033299+00:00",
+      "NumProgressed": 1672,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -4414,7 +4419,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "dragonmaster",
@@ -4494,7 +4499,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "fourleafclover",
@@ -4646,7 +4651,7 @@
       "Name": "Miner Clicker",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "missionsdedication",
@@ -4798,7 +4803,7 @@
       "Name": "The game is on",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "thepowerofawakening",
@@ -4870,7 +4875,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1554
+      "UsersEstimate": 1555
     },
     {
       "ID": "warmachinesarmy",
@@ -4902,14 +4907,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1321
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1671,
+      "Progressed": 1672,
       "Completed": 1
     }
   ],
@@ -4917,8 +4922,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-07-16T03:26:23.9449732+00:00",
-  "LastChanged_Achievements": "2023-07-18T02:32:05.5308316+00:00",
+  "LastChanged_Achievements": "2023-07-18T03:19:08.0332986+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:38.4078532+00:00",
-  "LastUpdate_Ratings": "2023-07-18T02:28:30.7920978+00:00",
-  "LastUpdate_Achievements": "2023-07-18T02:32:05.5309431+00:00"
+  "LastUpdate_Ratings": "2023-07-18T03:16:45.7789429+00:00",
+  "LastUpdate_Achievements": "2023-07-18T03:19:08.0334141+00:00"
 }

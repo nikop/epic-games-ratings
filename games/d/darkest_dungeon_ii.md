@@ -6,30 +6,30 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~103,087 |
-| Don't Make Me Turn This Coach Around | 70.00% | ~77,592 |
+| A Place to Lay Your Head | 93.00% | ~103,088 |
+| Don't Make Me Turn This Coach Around | 70.00% | ~77,593 |
 | A Clear Conscience | 69.00% | ~76,484 |
-| Unleash Hell | 68.00% | ~75,375 |
-| Unfulfilled Desires | 68.00% | ~75,375 |
+| Unleash Hell | 68.00% | ~75,376 |
+| Unfulfilled Desires | 68.00% | ~75,376 |
 | Funny Guy | 67.00% | ~74,267 |
 | Unshackled | 67.00% | ~74,267 |
-| Long Live the King | 66.00% | ~73,158 |
+| Long Live the King | 66.00% | ~73,159 |
 | Resurrection | 62.00% | ~68,725 |
 | Wyrdly Reconstructed | 62.00% | ~68,725 |
 | Boxcar Kid | 60.00% | ~66,508 |
 | To Grandmother's House | 60.00% | ~66,508 |
-| Rush Hour | 59.00% | ~65,399 |
+| Rush Hour | 59.00% | ~65,400 |
 | Serenity Now! | 52.00% | ~57,640 |
-| Hope Rekindled | 50.00% | ~55,423 |
-| Ramble On | 48.00% | ~53,206 |
+| Hope Rekindled | 50.00% | ~55,424 |
+| Ramble On | 48.00% | ~53,207 |
 | Nope | 47.00% | ~52,098 |
-| This Looks Familiar | 38.00% | ~42,121 |
+| This Looks Familiar | 38.00% | ~42,122 |
 | Hot Air | 36.00% | ~39,905 |
 | Now Stay Dead | 35.00% | ~38,796 |
 | Merry Time | 35.00% | ~38,796 |
 | Harvest Festival | 35.00% | ~38,796 |
 | Creep and Sleep | 32.00% | ~35,471 |
-| Overdue Notice | 31.00% | ~34,362 |
+| Overdue Notice | 31.00% | ~34,363 |
 | Banishment | 30.00% | ~33,254 |
 | Whale | 30.00% | ~33,254 |
 | FNG | 28.00% | ~31,037 |
@@ -46,7 +46,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | This Belongs in a Museum | 15.00% | ~16,627 |
 | Dissector | 15.00% | ~16,627 |
 | Handled | 15.00% | ~16,627 |
-| Catch and Decease | 14.00% | ~15,518 |
+| Catch and Decease | 14.00% | ~15,519 |
 | Not Today! | 12.00% | ~13,302 |
 | Deprogramming | 12.00% | ~13,302 |
 | Shrine of Reflection | 11.00% | ~12,193 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Gravestone Left Unturned | 0.10% | ~111 |
 | 20,000 Leagues Above the Sea | 0.10% | ~111 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 110,846 (Ranked 66)  
+Progressed: 110,847 (Ranked 66)  
 Completed: 1 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 1 (0.00%) (Ranked 236)
 | 2023-07-15 | 110,490 | 1 |
 | 2023-07-16 | 110,681 | 1 |
 | 2023-07-17 | 110,809 | 1 |
-| 2023-07-18 | 110,846 | 1 |
+| 2023-07-18 | 110,847 | 1 |
 ## Awards
 Max (Character Customization): 7,281  (Ranked 47)  
 Sum: 18,838 (Ranked 56)  

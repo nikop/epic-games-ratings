@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57480,
+  "EOS_Progressed": 57481,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 298,
+  "EOS_NewPlayers": 296,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8242,6 +8242,11 @@
       "Time": "2023-07-18T02:33:19.5492732+00:00",
       "NumProgressed": 57480,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-07-18T03:21:44.1630512+00:00",
+      "NumProgressed": 57481,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 67,
@@ -8253,7 +8258,7 @@
       "Name": "Follow the Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 19543
+      "UsersEstimate": 19544
     },
     {
       "ID": "02",
@@ -8285,7 +8290,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10346
+      "UsersEstimate": 10347
     },
     {
       "ID": "06",
@@ -8477,7 +8482,7 @@
       "Name": "Sound and Fury",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7472
+      "UsersEstimate": 7473
     },
     {
       "ID": "30",
@@ -8613,7 +8618,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 7472
+      "UsersEstimate": 7473
     },
     {
       "ID": "47",
@@ -8788,21 +8793,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57480,
+      "Progressed": 57481,
       "Completed": 58
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20948,
+      "Progressed": 20949,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-18T02:33:19.5492725+00:00",
+  "LastChanged_Achievements": "2023-07-18T03:21:44.1630507+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:10.5196415+00:00",
-  "LastUpdate_Ratings": "2023-07-18T02:28:01.3574401+00:00",
-  "LastUpdate_Achievements": "2023-07-18T02:33:19.5494081+00:00"
+  "LastUpdate_Ratings": "2023-07-18T03:16:27.7893515+00:00",
+  "LastUpdate_Achievements": "2023-07-18T03:21:44.1631682+00:00"
 }

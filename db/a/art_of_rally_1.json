@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10179,
+  "EOS_Progressed": 10180,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1196,6 +1196,11 @@
       "Time": "2023-07-17T05:03:49.1358452+00:00",
       "NumProgressed": 10179,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-18T03:22:34.7932978+00:00",
+      "NumProgressed": 10180,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1367,7 +1372,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7838
+      "UsersEstimate": 7839
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -1399,7 +1404,7 @@
       "Name": "where is the stage?",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1222
     },
     {
       "ID": "ACH_FUJIN_ODO",
@@ -1415,7 +1420,7 @@
       "Name": "brail",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 5802
+      "UsersEstimate": 5803
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -1431,7 +1436,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9772
+      "UsersEstimate": 9773
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1447,7 +1452,7 @@
       "Name": "medium attack",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 6107
+      "UsersEstimate": 6108
     },
     {
       "ID": "ACH_NIGHT",
@@ -1495,7 +1500,7 @@
       "Name": "good drivers have dead flies on the side windows",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 4173
+      "UsersEstimate": 4174
     },
     {
       "ID": "ACH_SNOW",
@@ -1543,22 +1548,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7329
+      "UsersEstimate": 7330
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10179,
+      "Progressed": 10180,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-07-18T02:34:18.5349362+00:00",
+  "LastChanged_Achievements": "2023-07-18T03:22:34.793297+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:16.3262234+00:00",
-  "LastUpdate_Ratings": "2023-07-18T02:27:30.8827223+00:00",
-  "LastUpdate_Achievements": "2023-07-18T02:34:18.5349816+00:00"
+  "LastUpdate_Ratings": "2023-07-18T03:16:11.201697+00:00",
+  "LastUpdate_Achievements": "2023-07-18T03:22:34.793341+00:00"
 }

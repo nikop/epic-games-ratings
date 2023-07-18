@@ -5951,9 +5951,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 467370,
+  "EOS_Progressed": 467371,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 727,
+  "EOS_NewPlayers": 725,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15081,6 +15081,11 @@
       "Time": "2023-07-18T02:34:15.4254025+00:00",
       "NumProgressed": 467370,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-07-18T03:22:32.7400664+00:00",
+      "NumProgressed": 467371,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 98,
@@ -15188,7 +15193,7 @@
       "Name": "Parked The Bus",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 135537
+      "UsersEstimate": 135538
     },
     {
       "ID": "achievement_5_manager_of_the_year_awards",
@@ -15276,7 +15281,7 @@
       "Name": "Clean Sheet",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 229011
+      "UsersEstimate": 229012
     },
     {
       "ID": "achievement_club_world_cup",
@@ -15364,7 +15369,7 @@
       "Name": "What A Goal!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 102821
+      "UsersEstimate": 102822
     },
     {
       "ID": "achievement_goal_of_the_season",
@@ -15404,7 +15409,7 @@
       "Name": "Shrewd Spender",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 135537
+      "UsersEstimate": 135538
     },
     {
       "ID": "achievement_hattrick",
@@ -15468,7 +15473,7 @@
       "Name": "Top Of The Class",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 102821
+      "UsersEstimate": 102822
     },
     {
       "ID": "achievement_manager_of_the_year",
@@ -15484,7 +15489,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 116842
+      "UsersEstimate": 116843
     },
     {
       "ID": "achievement_mr_delegator",
@@ -15500,7 +15505,7 @@
       "Name": "Going Places",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23368
+      "UsersEstimate": 23369
     },
     {
       "ID": "achievement_over_achiever",
@@ -15524,7 +15529,7 @@
       "Name": "Total Support",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 149558
+      "UsersEstimate": 149559
     },
     {
       "ID": "achievement_perfect_match_cohesion",
@@ -15540,7 +15545,7 @@
       "Name": "We Trust You",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23368
+      "UsersEstimate": 23369
     },
     {
       "ID": "achievement_play_ai_team_in_fantasy_draft",
@@ -15564,7 +15569,7 @@
       "Name": "Star Man",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 135537
+      "UsersEstimate": 135538
     },
     {
       "ID": "achievement_player_in_world_cup_best_xi",
@@ -15596,7 +15601,7 @@
       "Name": "Record Signing",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 149558
+      "UsersEstimate": 149559
     },
     {
       "ID": "achievement_rushed_signing",
@@ -15644,7 +15649,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 233685
+      "UsersEstimate": 233686
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -15652,7 +15657,7 @@
       "Name": "Goal Machine",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 102821
+      "UsersEstimate": 102822
     },
     {
       "ID": "achievement_unbeaten_host_in_fantasy_draft",
@@ -15724,7 +15729,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 233685
+      "UsersEstimate": 233686
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -15732,7 +15737,7 @@
       "Name": "Cup Glory!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 102821
+      "UsersEstimate": 102822
     },
     {
       "ID": "achievement_won_international_championship",
@@ -15780,7 +15785,7 @@
       "Name": "Money, Money, Money",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 56084
+      "UsersEstimate": 56085
     },
     {
       "ID": "career_earnings_over_1_million",
@@ -15875,15 +15880,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 467370,
+      "Progressed": 467371,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-07-17T23:01:52.2684142+00:00",
-  "LastChanged_Achievements": "2023-07-18T02:34:15.4254018+00:00",
+  "LastChanged_Achievements": "2023-07-18T03:22:32.7400659+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:20.1052906+00:00",
-  "LastUpdate_Ratings": "2023-07-18T02:31:32.0699783+00:00",
-  "LastUpdate_Achievements": "2023-07-18T02:34:15.4256173+00:00"
+  "LastUpdate_Ratings": "2023-07-18T03:18:44.5168676+00:00",
+  "LastUpdate_Achievements": "2023-07-18T03:22:32.7402488+00:00"
 }
