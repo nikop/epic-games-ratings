@@ -26,7 +26,7 @@
 | 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.67% |
 | 25 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
 | 26 | [Smelter](games/s/smelter.md) | 8.11% |
-| 27 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.00% |
+| 27 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.94% |
 | 28 | [Ravenlok](games/r/ravenlok.md) | 7.43% |
 | 29 | [Time Loader](games/t/time_loader.md) | 7.14% |
 | 30 | [Scorn](games/s/scorn.md) | 7.04% |
@@ -141,11 +141,11 @@
 | 139 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 140 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.36% |
 | 141 | [Scrapnaut](games/s/scrapnaut.md) | 0.34% |
-| 142 | [Dead Island 2](games/d/dead_island_2.md) | 0.33% |
 | 142 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.33% |
 | 142 | [The Surge](games/t/the_surge.md) | 0.33% |
 | 142 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.33% |
-| 146 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.32% |
+| 145 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
+| 145 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.32% |
 | 147 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.31% |
 | 147 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
 | 147 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
