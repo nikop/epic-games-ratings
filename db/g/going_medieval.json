@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 239,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1142,9 +1142,9 @@
       "Count": 65
     }
   ],
-  "EOS_Progressed": 4679,
+  "EOS_Progressed": 4680,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -5542,6 +5542,11 @@
       "Time": "2023-07-18T13:17:50.3872159+00:00",
       "NumProgressed": 4679,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-18T14:04:27.3529205+00:00",
+      "NumProgressed": 4680,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 31,
@@ -5577,7 +5582,7 @@
       "Name": "Nothing Wasted",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "HARVEST_CROPS_200",
@@ -5585,7 +5590,7 @@
       "Name": "Green Thumb",
       "Percentage": 65,
       "XP": 50,
-      "UsersEstimate": 3041
+      "UsersEstimate": 3042
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -5601,7 +5606,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 3275
+      "UsersEstimate": 3276
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -5697,7 +5702,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 2807
+      "UsersEstimate": 2808
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -5713,7 +5718,7 @@
       "Name": "The First Day",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 3135
+      "UsersEstimate": 3136
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -5737,7 +5742,7 @@
       "Name": "Winter Is Here",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     },
     {
       "ID": "SURVIVE_FIRST_YEAR",
@@ -5753,7 +5758,7 @@
       "Name": "The First Week",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 2433
+      "UsersEstimate": 2434
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -5785,7 +5790,7 @@
       "Name": "Onward",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 2573
+      "UsersEstimate": 2574
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -5800,15 +5805,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 4679,
+      "Progressed": 4680,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-07-18T10:01:19.727829+00:00",
-  "LastChanged_Achievements": "2023-07-18T13:17:50.3872152+00:00",
+  "LastChanged_Achievements": "2023-07-18T14:04:27.3529196+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:56.6430325+00:00",
-  "LastUpdate_Ratings": "2023-07-18T13:15:18.0756414+00:00",
-  "LastUpdate_Achievements": "2023-07-18T13:17:50.387275+00:00"
+  "LastUpdate_Ratings": "2023-07-18T14:01:50.2649942+00:00",
+  "LastUpdate_Achievements": "2023-07-18T14:04:27.3529721+00:00"
 }

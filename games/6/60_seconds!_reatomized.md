@@ -5,20 +5,20 @@ Rating: 4.66 (Ranked 272)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 93.00% | ~4,360 |
-| All thumbs | 91.00% | ~4,266 |
-| I will survive! | 91.00% | ~4,266 |
-| Home, sweet home | 90.00% | ~4,219 |
-| Survivalist | 88.00% | ~4,125 |
-| One way ticket | 83.00% | ~3,891 |
+| Prepper | 93.00% | ~4,361 |
+| All thumbs | 91.00% | ~4,267 |
+| I will survive! | 91.00% | ~4,267 |
+| Home, sweet home | 90.00% | ~4,220 |
+| Survivalist | 88.00% | ~4,126 |
+| One way ticket | 83.00% | ~3,892 |
 | Last man standing | 78.00% | ~3,657 |
-| Family guy | 76.00% | ~3,563 |
-| Out of the Bag | 73.00% | ~3,422 |
-| The Dark Side | 68.00% | ~3,188 |
-| Duck and cover! | 64.00% | ~3,000 |
+| Family guy | 76.00% | ~3,564 |
+| Out of the Bag | 73.00% | ~3,423 |
+| The Dark Side | 68.00% | ~3,189 |
+| Duck and cover! | 64.00% | ~3,001 |
 | Souper! | 62.00% | ~2,907 |
-| Pacifist | 57.00% | ~2,672 |
-| 2-1-6 | 56.00% | ~2,625 |
+| Pacifist | 57.00% | ~2,673 |
+| 2-1-6 | 56.00% | ~2,626 |
 | A gift | 51.00% | ~2,391 |
 | Girl Power | 45.00% | ~2,110 |
 | What goes around... | 42.00% | ~1,969 |
@@ -26,7 +26,7 @@ Rating: 4.66 (Ranked 272)
 | Unbreakable | 35.00% | ~1,641 |
 | This is the end | 33.00% | ~1,547 |
 | Atomic drill | 32.00% | ~1,500 |
-| Gotta get 'em all | 31.00% | ~1,453 |
+| Gotta get 'em all | 31.00% | ~1,454 |
 | Disco Roach | 26.00% | ~1,219 |
 | Dawkins Residence | 20.00% | ~938 |
 | Rescue time! | 17.00% | ~797 |
@@ -66,7 +66,7 @@ Rating: 4.66 (Ranked 272)
 | Miracle | 0.20% | ~9 |
 | Dead Hand | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,688 (Ranked 137)  
+Progressed: 4,689 (Ranked 137)  
 Completed: 1 (0.02%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 1 (0.02%) (Ranked 214)
 | 2023-07-15 | 4,662 | 1 |
 | 2023-07-16 | 4,678 | 1 |
 | 2023-07-17 | 4,685 | 1 |
-| 2023-07-18 | 4,688 | 1 |
+| 2023-07-18 | 4,689 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

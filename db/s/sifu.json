@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 18,
   "Ranking_EOS_Completed": 80,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -5208,10 +5208,10 @@
       "Count": 366
     }
   ],
-  "EOS_Progressed": 710868,
-  "EOS_Completed": 12824,
+  "EOS_Progressed": 710871,
+  "EOS_Completed": 12825,
   "EOS_NewPlayers": 203,
-  "EOS_NewCompleters": 14,
+  "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
     {
@@ -13513,6 +13513,11 @@
       "Time": "2023-07-18T13:21:55.0009486+00:00",
       "NumProgressed": 710868,
       "NumCompleted": 12824
+    },
+    {
+      "Time": "2023-07-18T14:08:33.1743396+00:00",
+      "NumProgressed": 710871,
+      "NumCompleted": 12825
     }
   ],
   "TotalAchievements": 50,
@@ -13868,7 +13873,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1009
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -13923,21 +13928,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 20169,
-      "Completed": 10414
+      "Progressed": 20172,
+      "Completed": 10416
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 710868,
-      "Completed": 12824
+      "Progressed": 710871,
+      "Completed": 12825
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-18T07:59:23.593865+00:00",
-  "LastChanged_Achievements": "2023-07-18T13:21:55.0009481+00:00",
+  "LastChanged_Achievements": "2023-07-18T14:08:33.1743389+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:57.8822848+00:00",
-  "LastUpdate_Ratings": "2023-07-18T13:14:09.6863841+00:00",
-  "LastUpdate_Achievements": "2023-07-18T13:21:55.0010443+00:00"
+  "LastUpdate_Ratings": "2023-07-18T14:00:37.8527236+00:00",
+  "LastUpdate_Achievements": "2023-07-18T14:08:33.1744311+00:00"
 }

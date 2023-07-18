@@ -4,7 +4,7 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 715,
+  "EOS_Progressed": 716,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1523,6 +1523,11 @@
       "Time": "2023-07-18T07:03:27.7413984+00:00",
       "NumProgressed": 715,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-18T14:04:25.9142137+00:00",
+      "NumProgressed": 716,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 29,
@@ -1550,7 +1555,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ACHV_CHALLENGEMASTERED",
@@ -1765,13 +1770,13 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 715,
+      "Progressed": 716,
       "Completed": 0
     },
     {
       "ID": "cd9kng8",
       "IsBase": false,
-      "Progressed": 141,
+      "Progressed": 142,
       "Completed": 3
     }
   ],
@@ -1779,8 +1784,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-07-18T13:17:49.0119481+00:00",
+  "LastChanged_Achievements": "2023-07-18T14:04:25.914213+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:38.9845004+00:00",
-  "LastUpdate_Ratings": "2023-07-18T13:14:59.1655431+00:00",
-  "LastUpdate_Achievements": "2023-07-18T13:17:49.0119831+00:00"
+  "LastUpdate_Ratings": "2023-07-18T14:01:29.748605+00:00",
+  "LastUpdate_Achievements": "2023-07-18T14:04:25.9142521+00:00"
 }

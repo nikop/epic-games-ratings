@@ -4,7 +4,7 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 46,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1146,
+  "EOS_Progressed": 1147,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.75,
   "EosHistory": [
@@ -1861,6 +1861,11 @@
       "Time": "2023-07-15T11:07:24.4779704+00:00",
       "NumProgressed": 1146,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-18T14:08:23.6928317+00:00",
+      "NumProgressed": 1147,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 16,
@@ -1888,7 +1893,7 @@
       "Name": "Dream Listener",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ACH_EMOTIONALBAGGAGEHANDLER",
@@ -1928,7 +1933,7 @@
       "Name": "Home Leaver",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -1936,7 +1941,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -1960,7 +1965,7 @@
       "Name": "Outside World Seer",
       "Percentage": 64,
       "XP": 40,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -1992,14 +1997,14 @@
       "Name": "Tour de Tieng",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1146,
+      "Progressed": 1147,
       "Completed": 43
     }
   ],
@@ -2007,8 +2012,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-07-18T13:21:45.7479632+00:00",
+  "LastChanged_Achievements": "2023-07-18T14:08:23.6928309+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:29.9798094+00:00",
-  "LastUpdate_Ratings": "2023-07-18T13:13:35.2264689+00:00",
-  "LastUpdate_Achievements": "2023-07-18T13:21:45.7479872+00:00"
+  "LastUpdate_Ratings": "2023-07-18T14:00:02.9288994+00:00",
+  "LastUpdate_Achievements": "2023-07-18T14:08:23.6928607+00:00"
 }

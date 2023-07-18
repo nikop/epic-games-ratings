@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1376,
+  "EOS_Progressed": 1377,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 368,
+  "EOS_NewPlayers": 367,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -1921,6 +1921,11 @@
       "Time": "2023-07-18T13:19:29.3670851+00:00",
       "NumProgressed": 1376,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-07-18T14:06:04.987261+00:00",
+      "NumProgressed": 1377,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 16,
@@ -1964,7 +1969,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "ach_architecture_completed",
@@ -1996,15 +2001,15 @@
       "Name": "Color flood",
       "Percentage": 32,
       "XP": 65,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "ach_first_picture",
       "SetID": "3h4khpo",
       "Name": "Coloring Rookie",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 1128
+      "UsersEstimate": 1115
     },
     {
       "ID": "ach_food_completed",
@@ -2028,7 +2033,7 @@
       "Name": "Game opened",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 1004
+      "UsersEstimate": 1005
     },
     {
       "ID": "ach_magic_wand",
@@ -2059,14 +2064,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 1376,
+      "Progressed": 1377,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-07-18T13:19:29.3670844+00:00",
+  "LastChanged_Achievements": "2023-07-18T14:06:04.98726+00:00",
   "LastUpdate_AppInfo": "2023-07-14T09:57:10.1132461+00:00",
-  "LastUpdate_Ratings": "2023-07-18T13:11:24.0390185+00:00",
-  "LastUpdate_Achievements": "2023-07-18T13:19:29.3671087+00:00"
+  "LastUpdate_Ratings": "2023-07-18T13:57:45.3949188+00:00",
+  "LastUpdate_Achievements": "2023-07-18T14:06:04.987287+00:00"
 }

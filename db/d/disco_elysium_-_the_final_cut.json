@@ -1199,9 +1199,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 123331,
+  "EOS_Progressed": 123332,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 338,
+  "EOS_NewPlayers": 337,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -9759,6 +9759,11 @@
       "Time": "2023-07-18T13:16:23.558123+00:00",
       "NumProgressed": 123331,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-07-18T14:02:59.8835781+00:00",
+      "NumProgressed": 123332,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -9818,7 +9823,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 9866
+      "UsersEstimate": 9867
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -9826,7 +9831,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 29599
+      "UsersEstimate": 29600
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -9834,7 +9839,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 9866
+      "UsersEstimate": 9867
     },
     {
       "ID": "ACH_COP_DORK",
@@ -9914,7 +9919,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 13566
+      "UsersEstimate": 13567
     },
     {
       "ID": "ACH_CUNO",
@@ -10089,15 +10094,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 123331,
+      "Progressed": 123332,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-07-17T10:59:33.2487558+00:00",
-  "LastChanged_Achievements": "2023-07-18T13:16:23.5581218+00:00",
+  "LastChanged_Achievements": "2023-07-18T14:02:59.8835773+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:06.3105356+00:00",
-  "LastUpdate_Ratings": "2023-07-18T13:14:19.3254799+00:00",
-  "LastUpdate_Achievements": "2023-07-18T13:16:23.558231+00:00"
+  "LastUpdate_Ratings": "2023-07-18T14:00:52.0607579+00:00",
+  "LastUpdate_Achievements": "2023-07-18T14:02:59.8837192+00:00"
 }
