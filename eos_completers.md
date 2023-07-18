@@ -20,7 +20,7 @@
 | 18 | [Remains](games/r/remains.md) | 11.63% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.11% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.20% |
+| 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.16% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 23 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 9.30% |
 | 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.68% |
@@ -29,7 +29,7 @@
 | 27 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.06% |
 | 28 | [Ravenlok](games/r/ravenlok.md) | 7.44% |
 | 29 | [Time Loader](games/t/time_loader.md) | 7.14% |
-| 30 | [Scorn](games/s/scorn.md) | 7.05% |
+| 30 | [Scorn](games/s/scorn.md) | 7.04% |
 | 31 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.99% |
 | 32 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.67% |
 | 33 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
@@ -70,7 +70,7 @@
 | 68 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.50% |
 | 68 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 70 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
-| 71 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.34% |
+| 71 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.33% |
 | 72 | [Bloodshore](games/b/bloodshore.md) | 2.27% |
 | 73 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.15% |
 | 74 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.13% |
