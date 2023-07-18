@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 367,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13978,
+  "EOS_Progressed": 13981,
   "EOS_Completed": 105,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -6319,6 +6319,11 @@
       "Time": "2023-07-18T12:01:55.9356967+00:00",
       "NumProgressed": 13978,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2023-07-18T13:16:32.4106334+00:00",
+      "NumProgressed": 13981,
+      "NumCompleted": 105
     }
   ],
   "TotalAchievements": 41,
@@ -6370,7 +6375,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4753
+      "UsersEstimate": 4754
     },
     {
       "ID": "tpote_achievement_15",
@@ -6394,7 +6399,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2376
+      "UsersEstimate": 2377
     },
     {
       "ID": "tpote_achievement_18",
@@ -6418,7 +6423,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4753
+      "UsersEstimate": 4754
     },
     {
       "ID": "tpote_achievement_20",
@@ -6434,7 +6439,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 4333
+      "UsersEstimate": 4334
     },
     {
       "ID": "tpote_achievement_22",
@@ -6482,7 +6487,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2516
+      "UsersEstimate": 2517
     },
     {
       "ID": "tpote_achievement_28",
@@ -6490,7 +6495,7 @@
       "Name": "Whodunnit",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1817
+      "UsersEstimate": 1818
     },
     {
       "ID": "tpote_achievement_29",
@@ -6506,7 +6511,7 @@
       "Name": "Let there be darkness",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4613
+      "UsersEstimate": 4614
     },
     {
       "ID": "tpote_achievement_30",
@@ -6522,7 +6527,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2516
+      "UsersEstimate": 2517
     },
     {
       "ID": "tpote_achievement_32",
@@ -6594,7 +6599,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 5731
+      "UsersEstimate": 5732
     },
     {
       "ID": "tpote_achievement_40",
@@ -6634,7 +6639,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 978
+      "UsersEstimate": 979
     },
     {
       "ID": "tpote_achievement_8",
@@ -6642,7 +6647,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3075
+      "UsersEstimate": 3076
     },
     {
       "ID": "tpote_achievement_9",
@@ -6650,22 +6655,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4892
+      "UsersEstimate": 4893
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13978,
+      "Progressed": 13981,
       "Completed": 105
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-18T12:01:55.935696+00:00",
+  "LastChanged_Achievements": "2023-07-18T13:16:32.4106328+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:01.688698+00:00",
-  "LastUpdate_Ratings": "2023-07-18T12:00:57.1849455+00:00",
-  "LastUpdate_Achievements": "2023-07-18T12:01:55.9360444+00:00"
+  "LastUpdate_Ratings": "2023-07-18T13:15:25.1619601+00:00",
+  "LastUpdate_Achievements": "2023-07-18T13:16:32.4107024+00:00"
 }

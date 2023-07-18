@@ -4,7 +4,7 @@
   "ProductSlug": "absolute-tactics-ca91e4",
   "Ranking_EOS_Progress": 424,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-09-15T16:00:00+00:00",
@@ -83,9 +83,9 @@
       "ID": "AT_ACHIEVEMENT_NAME_0003",
       "SetID": "9jb1eoe",
       "Name": "Eye for an Eye",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "AT_ACHIEVEMENT_NAME_0004",
@@ -244,8 +244,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.3491897+00:00",
   "FirstSeenAchievements": "2023-06-19T22:05:39.5621964+00:00",
   "LastChanged": "2023-03-31T05:57:50.3491898+00:00",
-  "LastChanged_Achievements": "2023-07-18T12:06:44.7785631+00:00",
+  "LastChanged_Achievements": "2023-07-18T13:21:38.8548032+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:09.0698267+00:00",
-  "LastUpdate_Ratings": "2023-07-18T12:01:06.303692+00:00",
-  "LastUpdate_Achievements": "2023-07-18T12:06:44.7785881+00:00"
+  "LastUpdate_Ratings": "2023-07-18T13:15:33.8717603+00:00",
+  "LastUpdate_Achievements": "2023-07-18T13:21:38.8548174+00:00"
 }

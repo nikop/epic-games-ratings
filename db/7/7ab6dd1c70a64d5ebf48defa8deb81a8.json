@@ -3,7 +3,7 @@
   "Name": null,
   "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": null,
@@ -144,9 +144,9 @@
       "ID": "ACH_08",
       "SetID": "efe2lj",
       "Name": "A Taste of Wrath",
-      "Percentage": 0,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_09",
@@ -200,17 +200,17 @@
       "ID": "ACH_15",
       "SetID": "efe2lj",
       "Name": "Tributes of Caladrias",
-      "Percentage": 5,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_16",
       "SetID": "efe2lj",
       "Name": "Essence Blow",
-      "Percentage": 5,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_17",
@@ -288,9 +288,9 @@
       "ID": "ACH_26",
       "SetID": "efe2lj",
       "Name": "Scholar",
-      "Percentage": 0,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_27",
@@ -304,9 +304,9 @@
       "ID": "ACH_28",
       "SetID": "efe2lj",
       "Name": "I Found It",
-      "Percentage": 11,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_29",
@@ -328,9 +328,9 @@
       "ID": "ACH_31",
       "SetID": "efe2lj",
       "Name": "Stone Collection",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_33",
@@ -344,9 +344,9 @@
       "ID": "ACH_34",
       "SetID": "efe2lj",
       "Name": "The Collector",
-      "Percentage": 0,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_35",
@@ -382,7 +382,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-07-18T12:03:13.2718409+00:00",
-  "LastUpdate_Ratings": "2023-07-18T11:57:18.4924693+00:00",
-  "LastUpdate_Achievements": "2023-07-18T12:03:13.2718687+00:00"
+  "LastChanged_Achievements": "2023-07-18T13:17:24.0348041+00:00",
+  "LastUpdate_Ratings": "2023-07-18T13:11:13.3073019+00:00",
+  "LastUpdate_Achievements": "2023-07-18T13:17:24.0348381+00:00"
 }

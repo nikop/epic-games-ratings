@@ -4,7 +4,7 @@
   "ProductSlug": "endwar",
   "Ranking_EOS_Progress": 497,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 314,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-02-02T16:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:42.4687223+00:00",
   "LastChanged": "2023-03-31T05:58:42.4687224+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:33.6216992+00:00",
-  "LastUpdate_Ratings": "2023-07-18T12:00:25.6064052+00:00",
-  "LastUpdate_Achievements": "2023-07-18T12:06:27.9829066+00:00"
+  "LastUpdate_Ratings": "2023-07-18T13:14:52.8677544+00:00",
+  "LastUpdate_Achievements": "2023-07-18T13:21:19.0620174+00:00"
 }

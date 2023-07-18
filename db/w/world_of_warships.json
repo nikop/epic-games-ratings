@@ -4,10 +4,10 @@
   "ProductSlug": "world-of-warships",
   "Ranking_Rating": 664,
   "Ranking_Popularity": 133,
-  "Ranking_PopularitySum": 80,
+  "Ranking_PopularitySum": 79,
   "Ranking_EOS_Progress": 497,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 314,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-03-18T13:00:00+00:00",
@@ -6739,6 +6739,6 @@
   "FirstSeen": "2022-07-22T20:17:02.7521927+00:00",
   "LastChanged": "2023-07-18T11:59:40.2654698+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:53.621837+00:00",
-  "LastUpdate_Ratings": "2023-07-18T11:59:40.2654708+00:00",
-  "LastUpdate_Achievements": "2023-07-18T12:04:56.9006538+00:00"
+  "LastUpdate_Ratings": "2023-07-18T13:14:01.687763+00:00",
+  "LastUpdate_Achievements": "2023-07-18T13:19:34.0856833+00:00"
 }

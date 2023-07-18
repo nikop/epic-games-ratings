@@ -5,45 +5,45 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It's Good to have Allies | 42.00% | ~205 |
-| Defenses Online | 40.00% | ~195 |
+| Defenses Online | 40.00% | ~196 |
 | Facility Online | 34.00% | ~166 |
 | Corporal | 25.00% | ~122 |
-| Covert Operative | 19.00% | ~93 |
+| Covert Operative | 20.00% | ~98 |
 | Sergeant | 18.00% | ~88 |
 | Lieutenant | 15.00% | ~73 |
 | Stocking Up | 14.00% | ~68 |
 | On Target | 14.00% | ~68 |
-| Getting Deployment | 13.00% | ~63 |
+| Getting Deployment | 13.00% | ~64 |
 | Keeping Busy | 12.00% | ~59 |
 | Infantry Reporting | 12.00% | ~59 |
 | Fighting for Survival | 10.00% | ~49 |
 | Silver Competitor | 9.00% | ~44 |
-| Captain | 8.00% | ~39 |
+| Captain | 9.00% | ~44 |
 | Factory Expansion | 8.00% | ~39 |
 | Exterminator | 7.00% | ~34 |
-| Brothers in Arms | 6.00% | ~29 |
+| Brothers in Arms | 7.00% | ~34 |
+| Know The Enemy | 4.00% | ~20 |
 | Player Betrayer | 4.00% | ~20 |
 | Silver Achiever | 4.00% | ~20 |
 | Moving On Up | 4.00% | ~20 |
-| Know The Enemy | 3.00% | ~15 |
 | Gold Achiever | 3.00% | ~15 |
 | Advanced Warfare | 3.00% | ~15 |
 | Major | 3.00% | ~15 |
+| Battle Ready | 3.00% | ~15 |
+| Control the Skies | 3.00% | ~15 |
 | Colonel | 2.00% | ~10 |
 | General | 2.00% | ~10 |
+| Seek & Destroy | 2.00% | ~10 |
 | Resourceful | 2.00% | ~10 |
-| Battle Ready | 2.00% | ~10 |
-| Control the Skies | 2.00% | ~10 |
-| Seek & Destroy | 1.00% | ~5 |
-| Titan Tanks | 1.00% | ~5 |
+| Titan Tanks | 2.00% | ~10 |
 | Shock Troops | 1.00% | ~5 |
 | Jet Troops | 1.00% | ~5 |
-| Advanced Interceptors | 0.60% | ~3 |
+| Advanced Interceptors | 0.80% | ~4 |
 | Gold Competitor | 0.00% | ~0 |
 | Platinum Achiever | 0.00% | ~0 |
 | Platinum Competitor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 488 (Ranked 215)  
+Progressed: 489 (Ranked 215)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,4 +83,4 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-15 | 455 | 0 |
 | 2023-07-16 | 466 | 0 |
 | 2023-07-17 | 477 | 0 |
-| 2023-07-18 | 488 | 0 |
+| 2023-07-18 | 489 | 0 |

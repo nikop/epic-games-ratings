@@ -5,24 +5,24 @@ Rating: 4.81 (Ranked 76)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 96.00% | ~2,346 |
-| No more cages! | 92.00% | ~2,248 |
-| Everfrost | 78.00% | ~1,906 |
-| Pentakill | 77.00% | ~1,882 |
-| Dark Forest | 77.00% | ~1,882 |
+| For Demacia | 96.00% | ~2,347 |
+| No more cages! | 92.00% | ~2,249 |
+| Everfrost | 78.00% | ~1,907 |
+| Pentakill | 77.00% | ~1,883 |
+| Dark Forest | 77.00% | ~1,883 |
 | The use of petricite | 74.00% | ~1,809 |
 | You can pet the dog | 61.00% | ~1,491 |
 | Big Helmet Bro | 36.00% | ~880 |
 | Clarion Cove | 36.00% | ~880 |
-| Past trauma | 35.00% | ~855 |
-| Thornbarrow | 35.00% | ~855 |
+| Past trauma | 35.00% | ~856 |
+| Thornbarrow | 35.00% | ~856 |
 | Elemental master | 34.00% | ~831 |
 | Ternmoat Headquarters | 34.00% | ~831 |
 | Cypress Glen Headquarters | 32.00% | ~782 |
-| Petricite Burst | 30.00% | ~733 |
+| Petricite Burst | 30.00% | ~734 |
 | Old friend | 29.00% | ~709 |
-| Hijack | 28.00% | ~684 |
-| Devineur | 28.00% | ~684 |
+| Hijack | 28.00% | ~685 |
+| Devineur | 28.00% | ~685 |
 | Whispers in the Woods I | 27.00% | ~660 |
 | I chose my shackles | 24.00% | ~587 |
 | Ancient power | 24.00% | ~587 |
@@ -32,8 +32,8 @@ Rating: 4.81 (Ranked 76)
 | Iffighain Headquarters | 21.00% | ~513 |
 | Glyndemere | 20.00% | ~489 |
 | Full equipped | 20.00% | ~489 |
-| Whispers in the Woods II | 17.00% | ~415 |
-| Quickmoore Headquarters | 17.00% | ~415 |
+| Whispers in the Woods II | 17.00% | ~416 |
+| Quickmoore Headquarters | 17.00% | ~416 |
 | No more holding back | 16.00% | ~391 |
 | Terbisia | 16.00% | ~391 |
 | Whispers in the Woods III | 15.00% | ~367 |
@@ -59,7 +59,7 @@ Rating: 4.81 (Ranked 76)
 | Silverwing nest | 2.00% | ~49 |
 | The Unshackled | 0.80% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,444 (Ranked 158)  
+Progressed: 2,445 (Ranked 158)  
 Completed: 5 (0.20%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,6 +143,7 @@ Completed: 5 (0.20%) (Ranked 164)
 | 2023-07-15 | 2,440 | 4 |
 | 2023-07-16 | 2,442 | 5 |
 | 2023-07-17 | 2,444 | 5 |
+| 2023-07-18 | 2,445 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

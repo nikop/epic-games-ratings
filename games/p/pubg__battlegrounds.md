@@ -5,27 +5,27 @@ Rating: 3.98 (Ranked 921)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blood on My Hands | 78.00% | ~356,134 |
-| Health Junkie | 45.00% | ~205,462 |
-| You Complete Me | 42.00% | ~191,764 |
-| Guardian Angel | 39.00% | ~178,067 |
-| Devil Inside Me | 30.00% | ~136,975 |
-| Fantastic Four | 22.00% | ~100,448 |
-| Killing Spree | 21.00% | ~95,882 |
-| Marksman Novice | 19.00% | ~86,751 |
-| First Blood | 13.00% | ~59,356 |
-| Top 10 | 13.00% | ~59,356 |
-| Now You See Me, Now You Don't | 12.00% | ~54,790 |
-| Marksman Expert | 9.00% | ~41,092 |
+| Blood on My Hands | 78.00% | ~356,141 |
+| Health Junkie | 45.00% | ~205,466 |
+| You Complete Me | 42.00% | ~191,768 |
+| Guardian Angel | 39.00% | ~178,070 |
+| Devil Inside Me | 30.00% | ~136,977 |
+| Fantastic Four | 22.00% | ~100,450 |
+| Killing Spree | 21.00% | ~95,884 |
+| Marksman Novice | 19.00% | ~86,752 |
+| First Blood | 13.00% | ~59,357 |
+| Top 10 | 13.00% | ~59,357 |
+| Now You See Me, Now You Don't | 12.00% | ~54,791 |
+| Marksman Expert | 9.00% | ~41,093 |
 | CQB Novice | 8.00% | ~36,527 |
 | Collateral Damage | 7.00% | ~31,961 |
 | Airborne | 6.00% | ~27,395 |
 | Pacifist | 6.00% | ~27,395 |
-| Last Survivor | 4.00% | ~18,263 |
-| Marksman Master | 4.00% | ~18,263 |
-| Trigonometry Novice | 4.00% | ~18,263 |
-| First Come, First Served | 4.00% | ~18,263 |
-| Dynamic Duo | 4.00% | ~18,263 |
+| Last Survivor | 4.00% | ~18,264 |
+| Marksman Master | 4.00% | ~18,264 |
+| Trigonometry Novice | 4.00% | ~18,264 |
+| First Come, First Served | 4.00% | ~18,264 |
+| Dynamic Duo | 4.00% | ~18,264 |
 | Winner Winner Chicken Dinner! | 2.00% | ~9,132 |
 | Okay, Now I'm Ready | 2.00% | ~9,132 |
 | Agent 48 | 2.00% | ~9,132 |
@@ -43,7 +43,7 @@ Rating: 3.98 (Ranked 921)
 | Nade King Expert | 0.10% | ~457 |
 | Shoot the Knee | 0.10% | ~457 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 456,582 (Ranked 36)  
+Progressed: 456,591 (Ranked 36)  
 Completed: 10 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,18 +132,18 @@ Completed: 10 (0.00%) (Ranked 236)
 | 2023-07-15 | 451,836 | 10 |
 | 2023-07-16 | 453,861 | 10 |
 | 2023-07-17 | 455,575 | 10 |
-| 2023-07-18 | 456,582 | 10 |
+| 2023-07-18 | 456,591 | 10 |
 ## Awards
-Max (Competitive Players): 2,712  (Ranked 93)  
-Sum: 11,237 (Ranked 77)  
-Diff (max vs sum): 16  
+Max (Competitive Players): 2,734  (Ranked 93)  
+Sum: 8,789 (Ranked 90)  
+Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
-| This game has Competitive Players | 2,712 |
+| This game has Competitive Players | 2,734 |
 | This game has Quickly Understood Controls | 2,480 |
 | This game has Challenging Combat | 2,352 |
 | This game is Highly Recommended | 2,156 |
-| This game has a Competitive Community | 1,537 |
+| This game has a Competitive Community | 1,547 |
 | This game is Extremely Fun | 122 |
 | This game has Diverse Characters | 76 |
 | This game is Relaxing | 57 |
@@ -291,4 +291,4 @@ Diff (max vs sum): 16
 | 2023-07-15 | 3.98 | 2,677 | 11,100 |
 | 2023-07-16 | 3.98 | 2,692 | 11,167 |
 | 2023-07-17 | 3.98 | 2,712 | 11,232 |
-| 2023-07-18 | 3.98 | 2,712 | 11,237 |
+| 2023-07-18 | 3.98 | 2,734 | 11,237 |

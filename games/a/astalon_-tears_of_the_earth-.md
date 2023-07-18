@@ -35,7 +35,7 @@
 | No match for me! | 4.00% | ~2 |
 | True Titan | 4.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55 (Ranked 333)  
+Progressed: 55 (Ranked 334)  
 Completed: 2 (3.64%) (Ranked 47)  
 ## EOS Players History
 | Date | Progressed | Completed |

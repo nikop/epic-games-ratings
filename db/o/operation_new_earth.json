@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 488,
+  "EOS_Progressed": 489,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1696,6 +1696,11 @@
       "Time": "2023-07-18T10:06:17.698895+00:00",
       "NumProgressed": 488,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-18T13:20:09.9896571+00:00",
+      "NumProgressed": 489,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1705,9 +1710,9 @@
       "ID": "ach_defeat_aliens_250",
       "SetID": "bm61c2p",
       "Name": "Know The Enemy",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 15
+      "UsersEstimate": 20
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -1841,9 +1846,9 @@
       "ID": "objective_hero_level_up_4",
       "SetID": "bm61c2p",
       "Name": "Captain",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 44
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -1873,9 +1878,9 @@
       "ID": "objective_key_alliance_help_2",
       "SetID": "bm61c2p",
       "Name": "Brothers in Arms",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 34
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -1889,9 +1894,9 @@
       "ID": "objective_key_contest_tiles_3",
       "SetID": "bm61c2p",
       "Name": "Covert Operative",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 98
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -1899,15 +1904,15 @@
       "Name": "Getting Deployment",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
       "SetID": "bm61c2p",
       "Name": "Seek \u0026 Destroy",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 10
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_3",
@@ -1937,9 +1942,9 @@
       "ID": "objective_key_objectives_completed_4",
       "SetID": "bm61c2p",
       "Name": "Battle Ready",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 15
     },
     {
       "ID": "objective_multiple_barracks_1",
@@ -1963,23 +1968,23 @@
       "Name": "Defenses Online",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
       "SetID": "bm61c2p",
       "Name": "Advanced Interceptors",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "objective_research_unlock_ground_vehicle_tier_4",
       "SetID": "bm61c2p",
       "Name": "Titan Tanks",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 10
     },
     {
       "ID": "objective_research_unlock_heavy_infantry_tier_4",
@@ -2001,23 +2006,23 @@
       "ID": "objective_upgrade_dropships_2",
       "SetID": "bm61c2p",
       "Name": "Control the Skies",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 15
     }
   ],
   "AchievementSets": [
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 488,
+      "Progressed": 489,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-18T12:05:28.2935129+00:00",
+  "LastChanged_Achievements": "2023-07-18T13:20:09.9896565+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:28.9258865+00:00",
-  "LastUpdate_Ratings": "2023-07-18T12:01:25.5871977+00:00",
-  "LastUpdate_Achievements": "2023-07-18T12:05:28.2935588+00:00"
+  "LastUpdate_Ratings": "2023-07-18T13:15:56.2800984+00:00",
+  "LastUpdate_Achievements": "2023-07-18T13:20:09.9896963+00:00"
 }

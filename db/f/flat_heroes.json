@@ -4,7 +4,7 @@
   "ProductSlug": "flat-heroes-fec628",
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 329,
+  "EOS_Progressed": 330,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -261,6 +261,11 @@
       "Time": "2023-07-16T18:05:19.2637028+00:00",
       "NumProgressed": 329,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-18T13:19:46.8619226+00:00",
+      "NumProgressed": 330,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -288,7 +293,7 @@
       "Name": "Fireball",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "DashDashDash",
@@ -560,7 +565,7 @@
       "Name": "Snake Eyes",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "World3Boss",
@@ -576,7 +581,7 @@
       "Name": "Hit That Ball",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "World5Boss",
@@ -590,9 +595,9 @@
       "ID": "World6Boss",
       "SetID": "d9ekhim",
       "Name": "Tornado Chaser",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 50
     },
     {
       "ID": "World7Boss",
@@ -606,9 +611,9 @@
       "ID": "World8Boss",
       "SetID": "d9ekhim",
       "Name": "The Colossus",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 26
     },
     {
       "ID": "World9Boss",
@@ -623,7 +628,7 @@
     {
       "ID": "d9ekhim",
       "IsBase": true,
-      "Progressed": 329,
+      "Progressed": 330,
       "Completed": 0
     }
   ],
@@ -631,8 +636,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-07-18T12:05:08.1150018+00:00",
+  "LastChanged_Achievements": "2023-07-18T13:19:46.861922+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:07.5133582+00:00",
-  "LastUpdate_Ratings": "2023-07-18T11:57:45.7446211+00:00",
-  "LastUpdate_Achievements": "2023-07-18T12:05:08.1150462+00:00"
+  "LastUpdate_Ratings": "2023-07-18T13:11:47.0604819+00:00",
+  "LastUpdate_Achievements": "2023-07-18T13:19:46.8619568+00:00"
 }

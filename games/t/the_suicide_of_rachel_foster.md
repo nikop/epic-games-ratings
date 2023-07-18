@@ -15,7 +15,7 @@ Number of Ratings: 71  (23.09.2022)
 | Ghost Hunters | 41.00% | ~507 |
 | Alone | 40.00% | ~494 |
 | Pack Rat | 40.00% | ~494 |
-| All together, again | 34.00% | ~420 |
+| All together, again | 35.00% | ~433 |
 | Spicy | 6.00% | ~74 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,236 (Ranked 180)  

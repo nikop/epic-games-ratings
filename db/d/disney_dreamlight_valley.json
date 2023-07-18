@@ -2706,10 +2706,10 @@
       "Count": 485
     }
   ],
-  "EOS_Progressed": 6809,
+  "EOS_Progressed": 6810,
   "EOS_Completed": 171,
   "EOS_NewPlayers": 390,
-  "EOS_NewCompleters": 7,
+  "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 2.51,
   "EosHistory": [
     {
@@ -6356,6 +6356,11 @@
       "Time": "2023-07-18T12:01:54.8839201+00:00",
       "NumProgressed": 6809,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-07-18T13:16:31.2018194+00:00",
+      "NumProgressed": 6810,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 15,
@@ -6407,7 +6412,7 @@
       "Name": "Constructor",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 3813
+      "UsersEstimate": 3814
     },
     {
       "ID": "Duty_Bound",
@@ -6439,7 +6444,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 75,
       "XP": 75,
-      "UsersEstimate": 5107
+      "UsersEstimate": 5108
     },
     {
       "ID": "Miner",
@@ -6455,7 +6460,7 @@
       "Name": "Photographer",
       "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 4902
+      "UsersEstimate": 4903
     },
     {
       "ID": "Renovator",
@@ -6479,14 +6484,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 68,
       "XP": 100,
-      "UsersEstimate": 4630
+      "UsersEstimate": 4631
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 6809,
+      "Progressed": 6810,
       "Completed": 171
     }
   ],
@@ -6494,8 +6499,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-07-18T02:28:35.3667308+00:00",
-  "LastChanged_Achievements": "2023-07-18T12:01:54.8839194+00:00",
+  "LastChanged_Achievements": "2023-07-18T13:16:31.2018185+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:44.2209872+00:00",
-  "LastUpdate_Ratings": "2023-07-18T11:58:42.7861392+00:00",
-  "LastUpdate_Achievements": "2023-07-18T12:01:54.8839605+00:00"
+  "LastUpdate_Ratings": "2023-07-18T13:12:56.1766587+00:00",
+  "LastUpdate_Achievements": "2023-07-18T13:16:31.2020954+00:00"
 }
