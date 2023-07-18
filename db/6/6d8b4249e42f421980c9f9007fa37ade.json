@@ -580,9 +580,9 @@
       "ID": "Epic_KillElite_500",
       "SetID": "ba1m2fc",
       "Name": "Mousetrap",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Epic_Kill_1000000",
@@ -668,9 +668,9 @@
       "ID": "Epic_RustySickle_1",
       "SetID": "ba1m2fc",
       "Name": "Life Harvest",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Epic_ShellBreaking_1",
@@ -771,8 +771,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-07-18T16:06:20.2349216+00:00",
+  "LastChanged_Achievements": "2023-07-18T17:05:35.9270746+00:00",
   "LastUpdate_AppInfo": "2023-07-13T05:57:07.9382356+00:00",
-  "LastUpdate_Ratings": "2023-07-18T15:57:26.2793877+00:00",
-  "LastUpdate_Achievements": "2023-07-18T16:06:20.2349653+00:00"
+  "LastUpdate_Ratings": "2023-07-18T16:57:27.3500154+00:00",
+  "LastUpdate_Achievements": "2023-07-18T17:05:35.9271363+00:00"
 }

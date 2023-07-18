@@ -2,12 +2,12 @@
   "ID": "fe2b8b6b2b934557a719d104c25623e7",
   "Name": "Lumberjack\u0027s Dynasty",
   "ProductSlug": "lumberjacks-dynasty",
-  "Ranking_Rating": 891,
+  "Ranking_Rating": 892,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 497,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-04-29T10:00:00+00:00",
@@ -265,6 +265,6 @@
   "FirstSeen": "2022-07-22T20:25:56.3417334+00:00",
   "LastChanged": "2023-04-27T21:59:00.1393081+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:17.0807789+00:00",
-  "LastUpdate_Ratings": "2023-07-18T16:01:03.4312129+00:00",
-  "LastUpdate_Achievements": "2023-07-18T16:07:40.9830066+00:00"
+  "LastUpdate_Ratings": "2023-07-18T17:00:22.9793711+00:00",
+  "LastUpdate_Achievements": "2023-07-18T17:06:43.1919347+00:00"
 }

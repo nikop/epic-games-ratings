@@ -12,12 +12,12 @@ Number of Ratings: 524  (23.09.2022)
 | Nordic Walking | 21.00% | ~12,076 |
 | Bright Falls' Finest | 21.00% | ~12,076 |
 | Under a Thin Layer of Skin | 18.00% | ~10,351 |
-| Park Ranger | 15.00% | ~8,625 |
-| Paging Mr. Wake | 15.00% | ~8,625 |
-| Back! Back, I Say! | 14.00% | ~8,050 |
-| Finders Keepers | 14.00% | ~8,050 |
-| Sound and Fury | 13.00% | ~7,475 |
-| Damn Good Cup of Coffee | 13.00% | ~7,475 |
+| Park Ranger | 15.00% | ~8,626 |
+| Paging Mr. Wake | 15.00% | ~8,626 |
+| Back! Back, I Say! | 14.00% | ~8,051 |
+| Finders Keepers | 14.00% | ~8,051 |
+| Sound and Fury | 13.00% | ~7,476 |
+| Damn Good Cup of Coffee | 13.00% | ~7,476 |
 | Wheels Within Wheels | 12.00% | ~6,900 |
 | They're Heeeeeere! | 12.00% | ~6,900 |
 | The Six-Gun Scribe | 12.00% | ~6,900 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~58 |
 | No Punctuation | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,503 (Ranked 82)  
+Progressed: 57,504 (Ranked 82)  
 Completed: 58 (0.10%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 58 (0.10%) (Ranked 182)
 | 2023-07-15 | 57,378 | 58 |
 | 2023-07-16 | 57,444 | 58 |
 | 2023-07-17 | 57,477 | 58 |
-| 2023-07-18 | 57,503 | 58 |
+| 2023-07-18 | 57,504 | 58 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 466,
+  "EOS_Progressed": 467,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -965,6 +965,11 @@
       "Time": "2023-07-15T20:06:29.366352+00:00",
       "NumProgressed": 466,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-18T17:07:27.240078+00:00",
+      "NumProgressed": 467,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1006,9 +1011,9 @@
       "ID": "Chapter10",
       "SetID": "70l3651",
       "Name": "The Friend",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 33
     },
     {
       "ID": "Chapter2",
@@ -1016,7 +1021,7 @@
       "Name": "The Maggot",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "Chapter3",
@@ -1062,9 +1067,9 @@
       "ID": "Chapter8",
       "SetID": "70l3651",
       "Name": "Her Eyes",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 47
     },
     {
       "ID": "Chapter9",
@@ -1152,7 +1157,7 @@
       "Name": "Memories",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "Murderer",
@@ -1198,9 +1203,9 @@
       "ID": "SIlly",
       "SetID": "70l3651",
       "Name": "So Silly!",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 19
     },
     {
       "ID": "Scout",
@@ -1230,9 +1235,9 @@
       "ID": "StealFood",
       "SetID": "70l3651",
       "Name": "Ss ss ss...",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 5
     },
     {
       "ID": "Tasty",
@@ -1256,21 +1261,21 @@
       "Name": "Welcome to Mordor!",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 466,
+      "Progressed": 467,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-07-18T16:08:22.2320157+00:00",
+  "LastChanged_Achievements": "2023-07-18T17:07:27.2400777+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:16.9740017+00:00",
-  "LastUpdate_Ratings": "2023-07-18T15:58:34.131346+00:00",
-  "LastUpdate_Achievements": "2023-07-18T16:08:22.2320525+00:00"
+  "LastUpdate_Ratings": "2023-07-18T16:58:21.3171522+00:00",
+  "LastUpdate_Achievements": "2023-07-18T17:07:27.2401099+00:00"
 }

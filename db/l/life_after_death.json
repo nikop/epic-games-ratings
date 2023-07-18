@@ -2,9 +2,9 @@
   "ID": "97be0dec5b1d4577b7647d3d96d79a94",
   "Name": "Life After Death",
   "ProductSlug": "life-after-death-b4e964",
-  "Ranking_EOS_Progress": 390,
+  "Ranking_EOS_Progress": 388,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-04-28T14:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 13,
+  "EOS_Progressed": 14,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -79,6 +79,11 @@
       "Time": "2023-07-18T00:05:51.2117867+00:00",
       "NumProgressed": 13,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-18T17:06:10.7677853+00:00",
+      "NumProgressed": 14,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 60,
@@ -88,7 +93,7 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "c98563l",
       "Name": "The Game is Starting!",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -96,7 +101,7 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "c98563l",
       "Name": "First steps!!",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -152,7 +157,7 @@
       "ID": "NEW_ACHIEVEMENT_1_16",
       "SetID": "c98563l",
       "Name": "I can do it more!!!",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -176,7 +181,7 @@
       "ID": "NEW_ACHIEVEMENT_1_19",
       "SetID": "c98563l",
       "Name": "This is a a good day!!!!",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -184,7 +189,7 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "c98563l",
       "Name": "Keep going!!!",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -272,7 +277,7 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "c98563l",
       "Name": "There is always a first time!!!",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -304,7 +309,7 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "c98563l",
       "Name": "Sometimes is better think twice!!!!",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -440,7 +445,7 @@
       "ID": "NEW_ACHIEVEMENT_2_2",
       "SetID": "c98563l",
       "Name": "I will not wait for tomorrow is now!!!",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -569,13 +574,13 @@
     {
       "ID": "c98563l",
       "IsBase": true,
-      "Progressed": 13,
+      "Progressed": 14,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-28T14:03:50.6091132+00:00",
-  "LastChanged_Achievements": "2023-07-18T16:07:02.3911486+00:00",
+  "LastChanged_Achievements": "2023-07-18T17:06:10.767784+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:26.9056518+00:00",
-  "LastUpdate_Ratings": "2023-07-18T16:01:16.0158727+00:00",
-  "LastUpdate_Achievements": "2023-07-18T16:07:02.39121+00:00"
+  "LastUpdate_Ratings": "2023-07-18T17:00:31.5277133+00:00",
+  "LastUpdate_Achievements": "2023-07-18T17:06:10.7678477+00:00"
 }

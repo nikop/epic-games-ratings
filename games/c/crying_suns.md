@@ -16,13 +16,13 @@ Number of Ratings: 1,003  (23.09.2022)
 | Jeef Skagg | 0.30% | ~1,390 |
 | Plan for the worst | 0.30% | ~1,390 |
 | Excelsior Rule | 0.30% | ~1,390 |
-| Knightmare Frames | 0.20% | ~926 |
-| May His passing cleanse the world | 0.20% | ~926 |
-| Chapter II: Fallible Flesh | 0.20% | ~926 |
-| Chapter III: The Man Who Sold the World | 0.20% | ~926 |
-| Tetsuo | 0.20% | ~926 |
-| Pope Zenon | 0.20% | ~926 |
-| Things persisted in not being what they seemed | 0.20% | ~926 |
+| Knightmare Frames | 0.20% | ~927 |
+| May His passing cleanse the world | 0.20% | ~927 |
+| Chapter II: Fallible Flesh | 0.20% | ~927 |
+| Chapter III: The Man Who Sold the World | 0.20% | ~927 |
+| Tetsuo | 0.20% | ~927 |
+| Pope Zenon | 0.20% | ~927 |
+| Things persisted in not being what they seemed | 0.20% | ~927 |
 | Hand of the Emperor | 0.20% | ~14 |
 | Chapter IV: Through the Looking Glass | 0.10% | ~463 |
 | Chapter V: Memories of None | 0.10% | ~463 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~7 |
 | Kronos Rule | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 463,248 (Ranked 35)  
+Progressed: 463,251 (Ranked 35)  
 Completed: 16 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 16 (0.00%) (Ranked 236)
 | 2023-07-15 | 463,071 | 16 |
 | 2023-07-16 | 463,142 | 16 |
 | 2023-07-17 | 463,200 | 16 |
-| 2023-07-18 | 463,248 | 16 |
+| 2023-07-18 | 463,251 | 16 |
 ## Awards
 Max (Character Customization): 214  (Ranked 262)  
 Sum: 214 (Ranked 357)  

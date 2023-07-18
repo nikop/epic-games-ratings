@@ -1119,9 +1119,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 7478,
+  "EOS_Progressed": 7479,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 197,
+  "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8384,6 +8384,11 @@
       "Time": "2023-07-18T16:06:31.6341457+00:00",
       "NumProgressed": 7478,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-18T17:05:44.4588233+00:00",
+      "NumProgressed": 7479,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -8403,7 +8408,7 @@
       "Name": "Friendly",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1196
+      "UsersEstimate": 1197
     },
     {
       "ID": "11",
@@ -8427,7 +8432,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3963
+      "UsersEstimate": 3964
     },
     {
       "ID": "14",
@@ -8475,7 +8480,7 @@
       "Name": "Healer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3963
+      "UsersEstimate": 3964
     },
     {
       "ID": "2",
@@ -8483,7 +8488,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2617
+      "UsersEstimate": 2618
     },
     {
       "ID": "20",
@@ -8507,7 +8512,7 @@
       "Name": "First Step",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 5309
+      "UsersEstimate": 5310
     },
     {
       "ID": "23",
@@ -8555,7 +8560,7 @@
       "Name": "Merchant",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 1570
+      "UsersEstimate": 1571
     },
     {
       "ID": "29",
@@ -8603,7 +8608,7 @@
       "Name": "Around the World",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1196
+      "UsersEstimate": 1197
     },
     {
       "ID": "34",
@@ -8643,7 +8648,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 3290
+      "UsersEstimate": 3291
     },
     {
       "ID": "39",
@@ -8675,7 +8680,7 @@
       "Name": "New Eden",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "42",
@@ -8715,7 +8720,7 @@
       "Name": "Finders, Keepers",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1944
+      "UsersEstimate": 1945
     },
     {
       "ID": "47",
@@ -8819,7 +8824,7 @@
       "Name": "Tailored to fit",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "59",
@@ -8866,15 +8871,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 7478,
+      "Progressed": 7479,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-07-16T19:01:16.5125596+00:00",
-  "LastChanged_Achievements": "2023-07-18T16:06:31.6341453+00:00",
+  "LastChanged_Achievements": "2023-07-18T17:05:44.4588227+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:57.9913837+00:00",
-  "LastUpdate_Ratings": "2023-07-18T16:01:54.9097418+00:00",
-  "LastUpdate_Achievements": "2023-07-18T16:06:31.6342475+00:00"
+  "LastUpdate_Ratings": "2023-07-18T17:01:05.079054+00:00",
+  "LastUpdate_Achievements": "2023-07-18T17:05:44.4589259+00:00"
 }

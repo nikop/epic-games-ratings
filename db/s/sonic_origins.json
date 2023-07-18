@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 398,
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 21,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -271,7 +271,7 @@
   ],
   "EOS_Progressed": 307,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 10.1,
   "EosHistory": [
@@ -1371,9 +1371,9 @@
       "ID": "ID_22_SONICCD_CLEAR_S_RANK_MISSION",
       "SetID": "7o8nc5m",
       "Name": "Sonic CD Mission Master",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 58
     },
     {
       "ID": "ID_23_SONIC2_CLEAR_S_RANK_MISSION",
@@ -1491,8 +1491,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-07-11T16:58:27.9146656+00:00",
-  "LastChanged_Achievements": "2023-07-18T16:08:19.6781424+00:00",
+  "LastChanged_Achievements": "2023-07-18T17:07:25.2805123+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:22.3144227+00:00",
-  "LastUpdate_Ratings": "2023-07-18T15:58:37.1312913+00:00",
-  "LastUpdate_Achievements": "2023-07-18T16:08:19.6781777+00:00"
+  "LastUpdate_Ratings": "2023-07-18T16:58:23.7813372+00:00",
+  "LastUpdate_Achievements": "2023-07-18T17:07:25.2805435+00:00"
 }

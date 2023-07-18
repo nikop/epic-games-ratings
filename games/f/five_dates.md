@@ -12,7 +12,7 @@
 | We Go Again | 31.00% | ~148 |
 | Not Alone | 29.00% | ~138 |
 | In Contempt of Duvet | 28.00% | ~134 |
-| Booty Call | 26.00% | ~124 |
+| Booty Call | 27.00% | ~129 |
 | Planting the Seed | 21.00% | ~100 |
 | Light Sleepers | 17.00% | ~81 |
 | Smooth Criminal | 8.00% | ~38 |

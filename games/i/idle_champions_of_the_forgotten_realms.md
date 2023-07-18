@@ -14,6 +14,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Are Ya Chicken? | 0.30% | ~639 |
 | Mad Cow Disease | 0.30% | ~639 |
 | Exploring Port Nyanzaru | 0.30% | ~639 |
+| Running of the Saurs | 0.30% | ~639 |
 | The Contagious Curse | 0.30% | ~639 |
 | Escort to Waterdeep | 0.30% | ~639 |
 | Waterdeep Detours | 0.30% | ~639 |
@@ -30,7 +31,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dead Three | 0.20% | ~426 |
 | Flying Monkey Skulls of Doom | 0.20% | ~426 |
 | The Darkness Runs Deeper | 0.20% | ~426 |
-| Running of the Saurs | 0.20% | ~426 |
 | The Giant's Bane Tavern | 0.20% | ~359 |
 | The Everlasting Rime | 0.20% | ~359 |
 | Close Escort | 0.20% | ~426 |
@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213,087 (Ranked 53)  
+Progressed: 213,108 (Ranked 53)  
 Completed: 2,058 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -603,7 +603,7 @@ Completed: 2,058 (0.97%) (Ranked 102)
 | 2023-07-15 | 212,014 | 2,053 |
 | 2023-07-16 | 212,501 | 2,055 |
 | 2023-07-17 | 212,861 | 2,057 |
-| 2023-07-18 | 213,087 | 2,058 |
+| 2023-07-18 | 213,108 | 2,058 |
 ## Awards
 Max (Diverse Characters): 5,041  (Ranked 66)  
 Sum: 30,567 (Ranked 38)  

@@ -1545,9 +1545,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 12929,
+  "EOS_Progressed": 12930,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8000,6 +8000,11 @@
       "Time": "2023-07-18T16:05:59.7267194+00:00",
       "NumProgressed": 12929,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-18T17:05:19.5412674+00:00",
+      "NumProgressed": 12930,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 285,
@@ -8067,7 +8072,7 @@
       "Name": "Bad Heir Day",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1939
+      "UsersEstimate": 1940
     },
     {
       "ID": "ACHIEVEMENT_ASSASSINATED_HEIR",
@@ -8339,7 +8344,7 @@
       "Name": "Able",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 7757
+      "UsersEstimate": 7758
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AMBITIOUS",
@@ -8363,7 +8368,7 @@
       "Name": "Architect",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 7757
+      "UsersEstimate": 7758
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AVENGER",
@@ -8387,7 +8392,7 @@
       "Name": "Drillmaster",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 4137
+      "UsersEstimate": 4138
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_BRILLIANT",
@@ -8403,7 +8408,7 @@
       "Name": "Capable",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1939
+      "UsersEstimate": 1940
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_CONQUEROR",
@@ -8435,7 +8440,7 @@
       "Name": "Enlightened",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 5430
+      "UsersEstimate": 5431
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_EXPLORER",
@@ -8443,7 +8448,7 @@
       "Name": "Explorer",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 10214
+      "UsersEstimate": 10215
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -8467,7 +8472,7 @@
       "Name": "Good",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 7111
+      "UsersEstimate": 7112
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GREAT",
@@ -8475,7 +8480,7 @@
       "Name": "Great",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 5042
+      "UsersEstimate": 5043
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_HOLY",
@@ -8499,7 +8504,7 @@
       "Name": "Intrepid",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 8921
+      "UsersEstimate": 8922
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
@@ -8507,7 +8512,7 @@
       "Name": "Invincible",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1939
+      "UsersEstimate": 1940
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_JUST",
@@ -8515,7 +8520,7 @@
       "Name": "Just",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 6852
+      "UsersEstimate": 6853
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_KEYSTONE",
@@ -8523,7 +8528,7 @@
       "Name": "Keystone",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 6852
+      "UsersEstimate": 6853
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_LEARNED",
@@ -8563,7 +8568,7 @@
       "Name": "Mason",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 7757
+      "UsersEstimate": 7758
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MIGHTY",
@@ -8595,7 +8600,7 @@
       "Name": "Peacemaker",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1551
+      "UsersEstimate": 1552
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_PIONEER",
@@ -8635,7 +8640,7 @@
       "Name": "Settler",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 10472
+      "UsersEstimate": 10473
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -8643,7 +8648,7 @@
       "Name": "Strong",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 7628
+      "UsersEstimate": 7629
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
@@ -8691,7 +8696,7 @@
       "Name": "Wise",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 3749
+      "UsersEstimate": 3750
     },
     {
       "ID": "ACHIEVEMENT_COUNCIL_OF_MADNESS",
@@ -8779,7 +8784,7 @@
       "Name": "Just Difficulty",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 3749
+      "UsersEstimate": 3750
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_MAGNIFICENT",
@@ -8867,7 +8872,7 @@
       "Name": "Hunters",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1939
+      "UsersEstimate": 1940
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_LANDOWNERS",
@@ -8883,7 +8888,7 @@
       "Name": "Patrons",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 2844
+      "UsersEstimate": 2845
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_RIDERS",
@@ -8923,7 +8928,7 @@
       "Name": "Friendly Family",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 9697
+      "UsersEstimate": 9698
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
@@ -9339,7 +9344,7 @@
       "Name": "Apadana",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 4525
+      "UsersEstimate": 4526
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_CIRCUS_MAXIMUS",
@@ -9419,7 +9424,7 @@
       "Name": "Ishtar Gate",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 5559
+      "UsersEstimate": 5560
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_LIGHTHOUSE",
@@ -9427,7 +9432,7 @@
       "Name": "Lighthouse",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 5042
+      "UsersEstimate": 5043
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_MAUSOLEUM",
@@ -9451,7 +9456,7 @@
       "Name": "Necropolis",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 4654
+      "UsersEstimate": 4655
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_ORACLE",
@@ -9531,7 +9536,7 @@
       "Name": "Learn to Play 1",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 4137
+      "UsersEstimate": 4138
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_2",
@@ -9635,7 +9640,7 @@
       "Name": "Egypt",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1551
+      "UsersEstimate": 1552
     },
     {
       "ID": "ACHIEVEMENT_NATION_GREECE",
@@ -9683,7 +9688,7 @@
       "Name": "One True Faith",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1551
+      "UsersEstimate": 1552
     },
     {
       "ID": "ACHIEVEMENT_PANTHEON_OF_GODS",
@@ -9763,7 +9768,7 @@
       "Name": "Play a Single Player Game",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 10860
+      "UsersEstimate": 10861
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -9803,7 +9808,7 @@
       "Name": "Manichaeism",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 4525
+      "UsersEstimate": 4526
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ASSYRIA",
@@ -9819,7 +9824,7 @@
       "Name": "Babylonian Paganism",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 5559
+      "UsersEstimate": 5560
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_CARTHAGE",
@@ -9835,7 +9840,7 @@
       "Name": "Egyptian Paganism",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 4525
+      "UsersEstimate": 4526
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_GREECE",
@@ -9931,7 +9936,7 @@
       "Name": "Naming Landmarks",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 6335
+      "UsersEstimate": 6336
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_LEADERS",
@@ -9955,7 +9960,7 @@
       "Name": "Industrial Progress",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1939
+      "UsersEstimate": 1940
     },
     {
       "ID": "ACHIEVEMENT_TECH_MILITARY_PRESTIGE",
@@ -9979,7 +9984,7 @@
       "Name": "Enlightenment",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1939
+      "UsersEstimate": 1940
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_GNOSTICISM",
@@ -9987,7 +9992,7 @@
       "Name": "Gnosticism",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1939
+      "UsersEstimate": 1940
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_LEGALISM",
@@ -10003,7 +10008,7 @@
       "Name": "Mythology",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 3749
+      "UsersEstimate": 3750
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_REDEMPTION",
@@ -10019,7 +10024,7 @@
       "Name": "Revelation",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1939
+      "UsersEstimate": 1940
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_VENERATION",
@@ -10051,7 +10056,7 @@
       "Name": "Cataphract Archer",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1551
+      "UsersEstimate": 1552
     },
     {
       "ID": "ACHIEVEMENT_UNIT_CIMMERIAN_ARCHER",
@@ -10283,28 +10288,28 @@
       "Name": "Win a Single Player Game",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1939
+      "UsersEstimate": 1940
     }
   ],
   "AchievementSets": [
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 12929,
+      "Progressed": 12930,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 12929,
+      "Progressed": 12930,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-07-17T20:58:31.1604324+00:00",
-  "LastChanged_Achievements": "2023-07-18T16:05:59.7267189+00:00",
+  "LastChanged_Achievements": "2023-07-18T17:05:19.5412672+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:33.7515284+00:00",
-  "LastUpdate_Ratings": "2023-07-18T15:58:50.4699142+00:00",
-  "LastUpdate_Achievements": "2023-07-18T16:05:59.7276834+00:00"
+  "LastUpdate_Ratings": "2023-07-18T16:58:36.3203502+00:00",
+  "LastUpdate_Achievements": "2023-07-18T17:05:19.5421542+00:00"
 }

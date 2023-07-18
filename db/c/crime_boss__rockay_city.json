@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewPlayers": 85,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -2568,9 +2568,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 69090,
+  "EOS_Progressed": 69091,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 354,
+  "EOS_NewPlayers": 351,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -11848,6 +11848,11 @@
       "Time": "2023-07-18T16:06:06.4898224+00:00",
       "NumProgressed": 69090,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-07-18T17:05:24.4949578+00:00",
+      "NumProgressed": 69091,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 37,
@@ -11859,7 +11864,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 34545
+      "UsersEstimate": 34546
     },
     {
       "ID": "ACH_0011",
@@ -11899,7 +11904,7 @@
       "Name": "Legend Looter",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3454
+      "UsersEstimate": 3455
     },
     {
       "ID": "ACH_0016",
@@ -11931,7 +11936,7 @@
       "Name": "Savvy Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3454
+      "UsersEstimate": 3455
     },
     {
       "ID": "ACH_0040",
@@ -12003,7 +12008,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 44908
+      "UsersEstimate": 44909
     },
     {
       "ID": "ACH_0210",
@@ -12027,7 +12032,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 32472
+      "UsersEstimate": 32473
     },
     {
       "ID": "ACH_0300",
@@ -12123,7 +12128,7 @@
       "Name": "Raider\u2019s Ruin",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 11054
+      "UsersEstimate": 11055
     },
     {
       "ID": "ACH_0452",
@@ -12154,7 +12159,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 69090,
+      "Progressed": 69091,
       "Completed": 36
     }
   ],
@@ -12162,8 +12167,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-07-18T04:00:08.8134827+00:00",
-  "LastChanged_Achievements": "2023-07-18T16:06:06.4898219+00:00",
+  "LastChanged_Achievements": "2023-07-18T17:05:24.4949564+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:02.3078188+00:00",
-  "LastUpdate_Ratings": "2023-07-18T16:02:02.6540753+00:00",
-  "LastUpdate_Achievements": "2023-07-18T16:06:06.4899143+00:00"
+  "LastUpdate_Ratings": "2023-07-18T17:01:12.4204481+00:00",
+  "LastUpdate_Achievements": "2023-07-18T17:05:24.495037+00:00"
 }

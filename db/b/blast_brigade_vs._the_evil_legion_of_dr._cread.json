@@ -4,7 +4,7 @@
   "ProductSlug": "blast-brigade",
   "Ranking_EOS_Progress": 497,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-04-15T22:00:00+00:00",
@@ -38,6 +38,6 @@
   "FirstSeenRating": "2023-03-31T05:58:19.0899678+00:00",
   "LastChanged": "2023-03-31T05:58:19.0899679+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:33.1607848+00:00",
-  "LastUpdate_Ratings": "2023-07-18T15:56:56.8764065+00:00",
-  "LastUpdate_Achievements": "2023-07-18T16:04:49.5360913+00:00"
+  "LastUpdate_Ratings": "2023-07-18T16:56:57.3154826+00:00",
+  "LastUpdate_Achievements": "2023-07-18T17:04:20.7096846+00:00"
 }

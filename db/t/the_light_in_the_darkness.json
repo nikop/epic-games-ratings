@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 24,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1960,
+  "EOS_Progressed": 1961,
   "EOS_Completed": 170,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 8.67,
   "EosHistory": [
@@ -4003,6 +4003,11 @@
       "Time": "2023-07-18T11:03:13.6113599+00:00",
       "NumProgressed": 1960,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-07-18T17:03:30.1596064+00:00",
+      "NumProgressed": 1961,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 12,
@@ -4014,7 +4019,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "Bernard",
@@ -4044,9 +4049,9 @@
       "ID": "Jacques a Dit",
       "SetID": "b40dflc",
       "Name": "Jacques a Dit",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 706
+      "UsersEstimate": 726
     },
     {
       "ID": "Jakob",
@@ -4060,9 +4065,9 @@
       "ID": "Jude",
       "SetID": "b40dflc",
       "Name": "Jude",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 255
+      "UsersEstimate": 235
     },
     {
       "ID": "Le Juif et la France",
@@ -4078,7 +4083,7 @@
       "Name": "Little Helper",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -4109,7 +4114,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1960,
+      "Progressed": 1961,
       "Completed": 170
     }
   ],
@@ -4117,8 +4122,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-07-18T16:04:01.0872344+00:00",
+  "LastChanged_Achievements": "2023-07-18T17:03:30.1596057+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:31.7321074+00:00",
-  "LastUpdate_Ratings": "2023-07-18T16:01:21.1640486+00:00",
-  "LastUpdate_Achievements": "2023-07-18T16:04:01.0872691+00:00"
+  "LastUpdate_Ratings": "2023-07-18T17:00:35.169445+00:00",
+  "LastUpdate_Achievements": "2023-07-18T17:03:30.1596419+00:00"
 }

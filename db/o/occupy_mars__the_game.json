@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -190,9 +190,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1414,
+  "EOS_Progressed": 1415,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2750,6 +2750,11 @@
       "Time": "2023-07-18T09:05:02.3328084+00:00",
       "NumProgressed": 1414,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-18T17:04:26.6121416+00:00",
+      "NumProgressed": 1415,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2833,7 +2838,7 @@
       "Name": "The Collector",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
@@ -2881,7 +2886,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -3144,7 +3149,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1414,
+      "Progressed": 1415,
       "Completed": 0
     }
   ],
@@ -3152,8 +3157,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-07-17T08:58:14.4010535+00:00",
-  "LastChanged_Achievements": "2023-07-18T16:04:56.8515365+00:00",
+  "LastChanged_Achievements": "2023-07-18T17:04:26.6121411+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:18.762224+00:00",
-  "LastUpdate_Ratings": "2023-07-18T15:58:01.5615859+00:00",
-  "LastUpdate_Achievements": "2023-07-18T16:04:56.8515966+00:00"
+  "LastUpdate_Ratings": "2023-07-18T16:57:55.157914+00:00",
+  "LastUpdate_Achievements": "2023-07-18T17:04:26.612198+00:00"
 }

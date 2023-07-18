@@ -537,9 +537,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 217548,
+  "EOS_Progressed": 217552,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 616,
+  "EOS_NewPlayers": 617,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10012,6 +10012,11 @@
       "Time": "2023-07-18T16:07:00.5990351+00:00",
       "NumProgressed": 217548,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-18T17:06:09.2716354+00:00",
+      "NumProgressed": 217552,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 34,
@@ -10023,7 +10028,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 41334
+      "UsersEstimate": 41335
     },
     {
       "ID": "ACH_BASE_10",
@@ -10031,7 +10036,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 54387
+      "UsersEstimate": 54388
     },
     {
       "ID": "ACH_BASE_11",
@@ -10063,7 +10068,7 @@
       "Name": "Power Ranger",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19579
+      "UsersEstimate": 19580
     },
     {
       "ID": "ACH_BASE_16",
@@ -10071,7 +10076,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19579
+      "UsersEstimate": 19580
     },
     {
       "ID": "ACH_BASE_17",
@@ -10079,7 +10084,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19579
+      "UsersEstimate": 19580
     },
     {
       "ID": "ACH_BASE_18",
@@ -10087,7 +10092,7 @@
       "Name": "Radium Ready",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19579
+      "UsersEstimate": 19580
     },
     {
       "ID": "ACH_BASE_19",
@@ -10111,7 +10116,7 @@
       "Name": "Legio Cybernetica",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 6526
+      "UsersEstimate": 6527
     },
     {
       "ID": "ACH_BASE_21",
@@ -10247,7 +10252,7 @@
       "Name": "Fleshy Disposal",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 6526
+      "UsersEstimate": 6527
     },
     {
       "ID": "ACH_BASE_5",
@@ -10287,14 +10292,14 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19579
+      "UsersEstimate": 19580
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 217548,
+      "Progressed": 217552,
       "Completed": 4
     }
   ],
@@ -10302,8 +10307,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-07-16T20:59:34.3016289+00:00",
-  "LastChanged_Achievements": "2023-07-18T16:07:00.5990347+00:00",
+  "LastChanged_Achievements": "2023-07-18T17:06:09.2716348+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:23.6938503+00:00",
-  "LastUpdate_Ratings": "2023-07-18T15:59:40.8047901+00:00",
-  "LastUpdate_Achievements": "2023-07-18T16:07:00.5991207+00:00"
+  "LastUpdate_Ratings": "2023-07-18T16:59:18.1130283+00:00",
+  "LastUpdate_Achievements": "2023-07-18T17:06:09.2717233+00:00"
 }
