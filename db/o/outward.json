@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -496,9 +496,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3053,
+  "EOS_Progressed": 3054,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3196,6 +3196,11 @@
       "Time": "2023-07-18T02:36:17.2833849+00:00",
       "NumProgressed": 3053,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-18T16:07:00.3519496+00:00",
+      "NumProgressed": 3054,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 42,
@@ -3207,7 +3212,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "AceDetective_9",
@@ -3231,7 +3236,7 @@
       "Name": "Apex Predator",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "BloodAndJustice_50",
@@ -3247,7 +3252,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1343
+      "UsersEstimate": 1344
     },
     {
       "ID": "CrowdPleaser",
@@ -3391,7 +3396,7 @@
       "Name": "Ready for Summer",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1557
+      "UsersEstimate": 1558
     },
     {
       "ID": "ReadyforWinter_42",
@@ -3399,7 +3404,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1954
+      "UsersEstimate": 1955
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -3471,7 +3476,7 @@
       "Name": "The Power of Family",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -3542,15 +3547,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3053,
+      "Progressed": 3054,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-07-11T02:15:21.6079736+00:00",
-  "LastChanged_Achievements": "2023-07-18T15:06:40.5888502+00:00",
+  "LastChanged_Achievements": "2023-07-18T16:07:00.3519491+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:26.5691499+00:00",
-  "LastUpdate_Ratings": "2023-07-18T14:58:47.2641822+00:00",
-  "LastUpdate_Achievements": "2023-07-18T15:06:40.5889164+00:00"
+  "LastUpdate_Ratings": "2023-07-18T15:58:44.8804116+00:00",
+  "LastUpdate_Achievements": "2023-07-18T16:07:00.3520033+00:00"
 }

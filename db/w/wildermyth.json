@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -151,9 +151,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1322,
+  "EOS_Progressed": 1323,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1146,6 +1146,11 @@
       "Time": "2023-07-17T07:05:46.8265618+00:00",
       "NumProgressed": 1322,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-18T16:06:04.8966884+00:00",
+      "NumProgressed": 1323,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 56,
@@ -1221,7 +1226,7 @@
       "Name": "Gotta Ca... Must Collect All of Them",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
@@ -1315,9 +1320,9 @@
       "ID": "achievement_loseBattle",
       "SetID": "95dc8p",
       "Name": "This Too Shall Pass",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 397
+      "UsersEstimate": 384
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -1333,7 +1338,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "achievement_mythwalker",
@@ -1604,15 +1609,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1322,
+      "Progressed": 1323,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-07-08T20:01:41.3411794+00:00",
-  "LastChanged_Achievements": "2023-07-18T15:05:45.6144296+00:00",
+  "LastChanged_Achievements": "2023-07-18T16:06:04.896687+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:39.8918764+00:00",
-  "LastUpdate_Ratings": "2023-07-18T15:02:26.3186718+00:00",
-  "LastUpdate_Achievements": "2023-07-18T15:05:45.6145091+00:00"
+  "LastUpdate_Ratings": "2023-07-18T16:02:52.5524481+00:00",
+  "LastUpdate_Achievements": "2023-07-18T16:06:04.896745+00:00"
 }

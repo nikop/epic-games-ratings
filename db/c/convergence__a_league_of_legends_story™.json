@@ -1765,9 +1765,9 @@
       "ID": "FairgroundsChests1",
       "SetID": "a9e499d",
       "Name": "Fairgrounds Explorer",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 61
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -2084,8 +2084,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-18T15:03:18.061689+00:00",
+  "LastChanged_Achievements": "2023-07-18T16:03:45.4733614+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:20.5747926+00:00",
-  "LastUpdate_Ratings": "2023-07-18T15:00:54.9310472+00:00",
-  "LastUpdate_Achievements": "2023-07-18T15:03:18.0617475+00:00"
+  "LastUpdate_Ratings": "2023-07-18T16:01:06.9387771+00:00",
+  "LastUpdate_Achievements": "2023-07-18T16:03:45.4734127+00:00"
 }

@@ -14,8 +14,8 @@ Rating: 4.64 (Ranked 312)
 | History Check | 52.00% | ~276 |
 | Gaze Into The Abyss | 48.00% | ~254 |
 | The New World | 48.00% | ~254 |
+| Open Sesame | 48.00% | ~254 |
 | Lock, Stock, And Barrel | 47.00% | ~249 |
-| Open Sesame | 47.00% | ~249 |
 | Sticky Fingers | 47.00% | ~249 |
 | Knives Out | 47.00% | ~249 |
 | Back In The Saddle | 46.00% | ~244 |
@@ -27,7 +27,7 @@ Rating: 4.64 (Ranked 312)
 | Bookworm | 41.00% | ~217 |
 | Going Once... | 38.00% | ~201 |
 | Let Me Be Frank | 37.00% | ~196 |
-| Brain Food | 35.00% | ~186 |
+| Brain Food | 36.00% | ~191 |
 | No Stone Unturned | 35.00% | ~186 |
 | Read It And Weep | 22.00% | ~117 |
 | Curiosity Killed The Cat | 21.00% | ~111 |

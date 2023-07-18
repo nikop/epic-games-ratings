@@ -47,17 +47,17 @@
       "ID": "ANCIENT_ARTIFACT",
       "SetID": "e4de54",
       "Name": "Ancient artifact",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ANCIENT_TREASURE",
       "SetID": "e4de54",
       "Name": "Ancient treasure",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ANDREAS_AND_THE_CHAMBER_OF_SECRETS",
@@ -215,9 +215,9 @@
       "ID": "GREEK_LANGUAGE_LOVER",
       "SetID": "e4de54",
       "Name": "Greek language lover",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "HEBE",
@@ -247,17 +247,17 @@
       "ID": "KNOWLEDGE_IS_POWER",
       "SetID": "e4de54",
       "Name": "Knowledge is power",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "LABYRINTH_EXPLORER",
       "SetID": "e4de54",
       "Name": "Labyrinth explorer",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MAIN_MENU",
@@ -319,9 +319,9 @@
       "ID": "RED_HERRING",
       "SetID": "e4de54",
       "Name": "Red herring",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SELF_CONFIDENCE",
@@ -343,25 +343,25 @@
       "ID": "STEALTH_MASTER",
       "SetID": "e4de54",
       "Name": "Stealth master",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "TAMER",
       "SetID": "e4de54",
       "Name": "Tamer",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "THE_CUP_OF_HEBE",
       "SetID": "e4de54",
       "Name": "The cup of Hebe",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -373,8 +373,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-14T20:01:12.8113065+00:00",
-  "LastChanged_Achievements": "2023-07-18T15:03:33.0476841+00:00",
+  "LastChanged_Achievements": "2023-07-18T16:04:00.0312723+00:00",
   "LastUpdate_AppInfo": "2023-07-14T19:57:12.1529978+00:00",
-  "LastUpdate_Ratings": "2023-07-18T14:57:06.7862777+00:00",
-  "LastUpdate_Achievements": "2023-07-18T15:03:33.047713+00:00"
+  "LastUpdate_Ratings": "2023-07-18T15:57:01.3389832+00:00",
+  "LastUpdate_Achievements": "2023-07-18T16:04:00.031302+00:00"
 }

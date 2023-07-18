@@ -1,19 +1,19 @@
 # LEGO® Star Wars™: The Skywalker Saga
 [Store](https://store.epicgames.com/en-US/p/lego-star-wars-the-skywalker-saga)  
 [View Rawdata](../../db/l/lego®_star_wars™__the_skywalker_saga.json)  
-Rating: 4.78 (Ranked 99)  
+Rating: 4.78 (Ranked 100)  
 Number of Ratings: 2,536  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~48,402 |
-| ''I don't like you either!'' | 79.00% | ~39,420 |
-| ''You think you're some kind of Jedi?'' | 72.00% | ~35,927 |
-| ''Impressive, most impressive'' | 71.00% | ~35,428 |
-| The Phantom Menace | 59.00% | ~29,440 |
-| ''Aggressive Negotiations'' | 58.00% | ~28,941 |
-| ''I can fly anything'' | 57.00% | ~28,442 |
-| ''And who gave you permission...?'' | 53.00% | ~26,446 |
+| ''You guys got yourself a ship!'' | 97.00% | ~48,403 |
+| ''I don't like you either!'' | 79.00% | ~39,421 |
+| ''You think you're some kind of Jedi?'' | 72.00% | ~35,928 |
+| ''Impressive, most impressive'' | 71.00% | ~35,429 |
+| The Phantom Menace | 59.00% | ~29,441 |
+| ''Aggressive Negotiations'' | 58.00% | ~28,942 |
+| ''I can fly anything'' | 57.00% | ~28,443 |
+| ''And who gave you permission...?'' | 53.00% | ~26,447 |
 | A New Hope | 48.00% | ~23,952 |
 | Attack of the Clones | 46.00% | ~22,954 |
 | Revenge of the Sith | 40.00% | ~19,960 |
@@ -52,8 +52,8 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''No more training, do you require'' | 1.00% | ~499 |
 | ''I've never seen a real one!'' | 0.90% | ~449 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,899 (Ranked 87)  
-Completed: 209 (0.42%) (Ranked 135)  
+Progressed: 49,900 (Ranked 87)  
+Completed: 210 (0.42%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -141,7 +141,7 @@ Completed: 209 (0.42%) (Ranked 135)
 | 2023-07-15 | 49,885 | 208 |
 | 2023-07-16 | 49,891 | 209 |
 | 2023-07-17 | 49,896 | 209 |
-| 2023-07-18 | 49,899 | 209 |
+| 2023-07-18 | 49,900 | 210 |
 ## Awards
 Max (Great Boss Battles): 2,356  (Ranked 103)  
 Sum: 6,490 (Ranked 116)  

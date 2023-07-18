@@ -2998,9 +2998,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 456602,
+  "EOS_Progressed": 456608,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 11646,
+  "EOS_NewPlayers": 11555,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12683,6 +12683,11 @@
       "Time": "2023-07-18T15:08:13.998693+00:00",
       "NumProgressed": 456602,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-18T16:08:22.9450738+00:00",
+      "NumProgressed": 456608,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 37,
@@ -12710,7 +12715,7 @@
       "Name": "Marksman Expert",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 41094
+      "UsersEstimate": 41095
     },
     {
       "ID": "12",
@@ -12718,7 +12723,7 @@
       "Name": "Marksman Novice",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 86754
+      "UsersEstimate": 86756
     },
     {
       "ID": "13",
@@ -12758,7 +12763,7 @@
       "Name": "Collateral Damage",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 31962
+      "UsersEstimate": 31963
     },
     {
       "ID": "18",
@@ -12766,7 +12771,7 @@
       "Name": "Devil Inside Me",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 136981
+      "UsersEstimate": 136982
     },
     {
       "ID": "19",
@@ -12774,7 +12779,7 @@
       "Name": "Blood on My Hands",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 356150
+      "UsersEstimate": 356154
     },
     {
       "ID": "2",
@@ -12798,7 +12803,7 @@
       "Name": "Killing Spree",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 95886
+      "UsersEstimate": 95888
     },
     {
       "ID": "22",
@@ -12822,7 +12827,7 @@
       "Name": "First Blood",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 59358
+      "UsersEstimate": 59359
     },
     {
       "ID": "25",
@@ -12854,7 +12859,7 @@
       "Name": "Now You See Me, Now You Don\u0027t",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 54792
+      "UsersEstimate": 54793
     },
     {
       "ID": "29",
@@ -12886,7 +12891,7 @@
       "Name": "Guardian Angel",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 178075
+      "UsersEstimate": 178077
     },
     {
       "ID": "32",
@@ -12918,7 +12923,7 @@
       "Name": "You Complete Me",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 191773
+      "UsersEstimate": 191775
     },
     {
       "ID": "36",
@@ -12934,7 +12939,7 @@
       "Name": "Health Junkie",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 205471
+      "UsersEstimate": 205474
     },
     {
       "ID": "4",
@@ -12942,7 +12947,7 @@
       "Name": "Fantastic Four",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 100452
+      "UsersEstimate": 100454
     },
     {
       "ID": "5",
@@ -12950,7 +12955,7 @@
       "Name": "Top 10",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 59358
+      "UsersEstimate": 59359
     },
     {
       "ID": "6",
@@ -12982,14 +12987,14 @@
       "Name": "CQB Novice",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 36528
+      "UsersEstimate": 36529
     }
   ],
   "AchievementSets": [
     {
       "ID": "7ko8h8f",
       "IsBase": true,
-      "Progressed": 456602,
+      "Progressed": 456608,
       "Completed": 10
     }
   ],
@@ -12997,8 +13002,8 @@
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00",
   "LastChanged": "2023-07-18T13:13:37.993396+00:00",
-  "LastChanged_Achievements": "2023-07-18T15:08:13.9986927+00:00",
+  "LastChanged_Achievements": "2023-07-18T16:08:22.9450734+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:31.3776571+00:00",
-  "LastUpdate_Ratings": "2023-07-18T14:59:50.8252692+00:00",
-  "LastUpdate_Achievements": "2023-07-18T15:08:13.9988042+00:00"
+  "LastUpdate_Ratings": "2023-07-18T15:59:51.2658564+00:00",
+  "LastUpdate_Achievements": "2023-07-18T16:08:22.9451648+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 687,
+  "EOS_Progressed": 688,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -558,6 +558,11 @@
       "Time": "2023-07-18T13:20:31.6144482+00:00",
       "NumProgressed": 687,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-18T16:07:00.6773576+00:00",
+      "NumProgressed": 688,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -593,7 +598,7 @@
       "Name": "All Seats Taken",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "Achievement_AxelInSpace",
@@ -641,7 +646,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "Achievement_DustToDust",
@@ -665,7 +670,7 @@
       "Name": "Extreme Makeover",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Achievement_FeelsLikeHome",
@@ -713,7 +718,7 @@
       "Name": "Friendzone",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "Achievement_GiantLeap",
@@ -729,7 +734,7 @@
       "Name": "Gold Medalist",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "Achievement_HandsFull",
@@ -745,7 +750,7 @@
       "Name": "Hello World",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "Achievement_Improvinator",
@@ -753,7 +758,7 @@
       "Name": "The Improvinator",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Achievement_IntergalacticBreakup",
@@ -889,7 +894,7 @@
       "Name": "Stay Cool",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "Achievement_ThatsNoMoon",
@@ -920,7 +925,7 @@
     {
       "ID": "c01p6e5",
       "IsBase": true,
-      "Progressed": 687,
+      "Progressed": 688,
       "Completed": 1
     }
   ],
@@ -928,8 +933,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-07-18T15:06:41.0241128+00:00",
+  "LastChanged_Achievements": "2023-07-18T16:07:00.6773563+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:50.6403792+00:00",
-  "LastUpdate_Ratings": "2023-07-18T14:57:01.7447239+00:00",
-  "LastUpdate_Achievements": "2023-07-18T15:06:41.0241534+00:00"
+  "LastUpdate_Ratings": "2023-07-18T15:56:56.308225+00:00",
+  "LastUpdate_Achievements": "2023-07-18T16:07:00.677398+00:00"
 }

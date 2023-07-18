@@ -48,13 +48,13 @@
 | Pro Pyromancer | 1.00% | ~2 |
 | Pro Shotgunner | 1.00% | ~2 |
 | King of the Crow | 1.00% | ~2 |
+| Death From Above | 1.00% | ~2 |
 | Tomassacred | 1.00% | ~2 |
 | Pro Carrocketeer | 0.50% | ~1 |
 | Pro Sniperagus | 0.50% | ~1 |
 | Unstoppable | 0.50% | ~1 |
 | Berry Loved | 0.50% | ~1 |
 | Carrocket From Above | 0.50% | ~1 |
-| Death From Above | 0.50% | ~1 |
 | Heal Me Peas | 0.50% | ~1 |
 | 30 Days | 0.00% | ~0 |
 | Darkside Survivor | 0.00% | ~0 |

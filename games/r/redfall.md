@@ -52,10 +52,10 @@ Rating: 3.52 (Ranked 951)
 | Dexterity Save | 2.00% | ~34 |
 | Monster Hunters Club | 1.00% | ~17 |
 | Friendgineering | 1.00% | ~17 |
+| Sisterhood | 1.00% | ~17 |
 | What Lies Below | 1.00% | ~17 |
 | So Anyway I Started Blasting | 1.00% | ~17 |
 | Friends 'Til The End | 1.00% | ~17 |
-| Sisterhood | 0.90% | ~16 |
 | Ask Not For Whom The Horns Blow | 0.90% | ~16 |
 | Good Samaritan | 0.90% | ~16 |
 | Someplace to Be | 0.50% | ~9 |

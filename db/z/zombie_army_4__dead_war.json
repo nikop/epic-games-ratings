@@ -1845,9 +1845,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43081,
+  "EOS_Progressed": 43082,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5155,6 +5155,11 @@
       "Time": "2023-07-18T10:04:20.066182+00:00",
       "NumProgressed": 43081,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-07-18T16:04:37.8245605+00:00",
+      "NumProgressed": 43082,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -5166,7 +5171,7 @@
       "Name": "Groovy",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 26279
+      "UsersEstimate": 26280
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -5238,7 +5243,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 17663
+      "UsersEstimate": 17664
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -5358,7 +5363,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26710
+      "UsersEstimate": 26711
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -5422,7 +5427,7 @@
       "Name": "All of this has happened before\u2026",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15509
+      "UsersEstimate": 15510
     },
     {
       "ID": "SE_DROP_PIANO_ON_A_ZOMBIE",
@@ -5470,7 +5475,7 @@
       "Name": "Gold",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 21540
+      "UsersEstimate": 21541
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -5486,7 +5491,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15509
+      "UsersEstimate": 15510
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -5494,7 +5499,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 29726
+      "UsersEstimate": 29727
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -5510,7 +5515,7 @@
       "Name": "I never liked them anyway",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 12924
+      "UsersEstimate": 12925
     },
     {
       "ID": "SE_KILL_SNIPER_MID_AIR",
@@ -5518,7 +5523,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 19817
+      "UsersEstimate": 19818
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -5526,7 +5531,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 24556
+      "UsersEstimate": 24557
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -5534,7 +5539,7 @@
       "Name": "Stand back boy!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 20248
+      "UsersEstimate": 20249
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -5542,7 +5547,7 @@
       "Name": "Zombie killin\u0027 machine",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15509
+      "UsersEstimate": 15510
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_ATTACKING_OTHER_PLAYERS",
@@ -5566,7 +5571,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 28433
+      "UsersEstimate": 28434
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -5574,7 +5579,7 @@
       "Name": "I can do anything I want. I got guns",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 3446
+      "UsersEstimate": 3447
     },
     {
       "ID": "SE_MASTER_A_WEAPON",
@@ -5598,7 +5603,7 @@
       "Name": "Send me an angel",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3446
+      "UsersEstimate": 3447
     },
     {
       "ID": "SE_PERFORM_X_TAKEDOWNS",
@@ -5630,7 +5635,7 @@
       "Name": "Gore soaked",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 10339
+      "UsersEstimate": 10340
     },
     {
       "ID": "SE_REACH_WAVE_X",
@@ -5686,22 +5691,22 @@
       "Name": "Every bullet counts",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15509
+      "UsersEstimate": 15510
     }
   ],
   "AchievementSets": [
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43081,
+      "Progressed": 43082,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-07-17T15:01:08.5861106+00:00",
-  "LastChanged_Achievements": "2023-07-18T15:04:20.0295453+00:00",
+  "LastChanged_Achievements": "2023-07-18T16:04:37.8245599+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:54.9014317+00:00",
-  "LastUpdate_Ratings": "2023-07-18T15:01:35.4193047+00:00",
-  "LastUpdate_Achievements": "2023-07-18T15:04:20.0296194+00:00"
+  "LastUpdate_Ratings": "2023-07-18T16:01:54.3289377+00:00",
+  "LastUpdate_Achievements": "2023-07-18T16:04:37.8246442+00:00"
 }

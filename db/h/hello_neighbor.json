@@ -2,9 +2,9 @@
   "ID": "helloneighbor",
   "Name": "Hello Neighbor",
   "ProductSlug": "hello-neighbor",
-  "Ranking_Rating": 492,
+  "Ranking_Rating": 481,
   "Ranking_Popularity": 253,
-  "Ranking_PopularitySum": 217,
+  "Ranking_PopularitySum": 216,
   "Ranking_EOS_Progress": 497,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 314,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.54,
+  "Rating": 4.55,
   "NumberOfRatings": 1166,
   "RatingHistory": [
     {
@@ -2413,12 +2413,18 @@
       "Rating": 4.54,
       "NumberOfAwards": 1519,
       "NumberOfAwardsMax": 224
+    },
+    {
+      "Time": "2023-07-18T15:59:36.9746248+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 1523,
+      "NumberOfAwardsMax": 225
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1519,
-  "NumberOfAwardsMax": 224,
-  "MaxAwardTitle": "Relaxing",
+  "NumberOfAwards": 1523,
+  "NumberOfAwardsMax": 225,
+  "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2466,7 +2472,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 180
+      "Count": 182
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2478,7 +2484,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 223
+      "Count": 225
     }
   ],
   "EOS_Progressed": 0,
@@ -2492,8 +2498,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:23.0108388+00:00",
-  "LastChanged": "2023-07-18T04:58:25.988082+00:00",
+  "LastChanged": "2023-07-18T15:59:36.9746247+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:18.8021234+00:00",
-  "LastUpdate_Ratings": "2023-07-18T14:59:35.4612295+00:00",
-  "LastUpdate_Achievements": "2023-07-18T15:02:39.320853+00:00"
+  "LastUpdate_Ratings": "2023-07-18T15:59:36.9746252+00:00",
+  "LastUpdate_Achievements": "2023-07-18T16:03:05.5439111+00:00"
 }

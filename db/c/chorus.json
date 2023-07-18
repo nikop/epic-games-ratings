@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 469,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 95,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -280,9 +280,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 1033,
+  "EOS_Progressed": 1034,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.16,
   "EosHistory": [
@@ -1240,6 +1240,11 @@
       "Time": "2023-07-17T14:04:12.5423449+00:00",
       "NumProgressed": 1033,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-07-18T16:04:45.184298+00:00",
+      "NumProgressed": 1034,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 43,
@@ -1251,7 +1256,7 @@
       "Name": "Demigod",
       "Percentage": 76,
       "XP": 150,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "DieInPermadeath",
@@ -1267,7 +1272,7 @@
       "Name": "Voices from the Past",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "Finish5SideMissions",
@@ -1275,7 +1280,7 @@
       "Name": "Helping Hand",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 692
+      "UsersEstimate": 693
     },
     {
       "ID": "FinishAllSideMissions",
@@ -1291,7 +1296,7 @@
       "Name": "Controlled Demolition",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "Kill3InOneDrift",
@@ -1307,7 +1312,7 @@
       "Name": "Born to Drift",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "KillWithALargeShip",
@@ -1315,7 +1320,7 @@
       "Name": "The Great Destroyer",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "MasteryOfCombat",
@@ -1387,7 +1392,7 @@
       "Name": "Time to Spear",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "MissionEnclaveWarPreparation",
@@ -1411,7 +1416,7 @@
       "Name": "The Nameless Dread",
       "Percentage": 34,
       "XP": 75,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "MissionHeartOfTheFaceless",
@@ -1435,7 +1440,7 @@
       "Name": "Safe Home",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 692
+      "UsersEstimate": 693
     },
     {
       "ID": "MissionMasterAndDisciple",
@@ -1451,7 +1456,7 @@
       "Name": "Old Days Born Anew",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "MissionPhoenixRediscovery",
@@ -1475,7 +1480,7 @@
       "Name": "Another Life",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "MissionShipyard",
@@ -1491,7 +1496,7 @@
       "Name": "The Path Forward",
       "Percentage": 46,
       "XP": 70,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "MissionTemple",
@@ -1515,7 +1520,7 @@
       "Name": "Origin",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "Overcharge",
@@ -1547,7 +1552,7 @@
       "Name": "Huntress",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "RiteOfTheStar",
@@ -1563,7 +1568,7 @@
       "Name": "It Was An Accident",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "UseRepairDrones",
@@ -1579,7 +1584,7 @@
       "Name": "Space Traveler",
       "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "WinARace",
@@ -1587,22 +1592,22 @@
       "Name": "Relentless",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     }
   ],
   "AchievementSets": [
     {
       "ID": "a6c395p",
       "IsBase": true,
-      "Progressed": 1033,
+      "Progressed": 1034,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-07-09T07:00:38.7677324+00:00",
-  "LastChanged_Achievements": "2023-07-18T15:04:27.1839319+00:00",
+  "LastChanged_Achievements": "2023-07-18T16:04:45.1842973+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:05.6306939+00:00",
-  "LastUpdate_Ratings": "2023-07-18T15:01:47.367396+00:00",
-  "LastUpdate_Achievements": "2023-07-18T15:04:27.1839723+00:00"
+  "LastUpdate_Ratings": "2023-07-18T16:02:08.7380708+00:00",
+  "LastUpdate_Achievements": "2023-07-18T16:04:45.1843485+00:00"
 }
