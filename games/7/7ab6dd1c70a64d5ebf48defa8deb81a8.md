@@ -4,24 +4,25 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Break Out | 21.00% | ~4 |
+| Fashion Victim | 16.00% | ~3 |
 | Calm before the Storm | 11.00% | ~2 |
-| Fashion Victim | 11.00% | ~2 |
+| Trinity | 11.00% | ~2 |
 | Find Allies | 5.00% | ~1 |
 | Powerful Allies | 5.00% | ~1 |
-| Trinity | 5.00% | ~1 |
+| To Battle | 5.00% | ~1 |
+| Godslayer | 5.00% | ~1 |
 | Shardbearer | 5.00% | ~1 |
+| Adventurer | 5.00% | ~1 |
 | Tributes of Caladrias | 5.00% | ~1 |
 | Essence Blow | 5.00% | ~1 |
 | Flawless Victory | 5.00% | ~1 |
 | Geared Up | 5.00% | ~1 |
 | I Found It | 5.00% | ~1 |
-| To Battle | 0.00% | ~0 |
-| Godslayer | 0.00% | ~0 |
+| Miner | 5.00% | ~1 |
 | Clear Sight | 0.00% | ~0 |
 | A Taste of Wrath | 0.00% | ~0 |
 | The Mentor | 0.00% | ~0 |
 | Forgemaster | 0.00% | ~0 |
-| Adventurer | 0.00% | ~0 |
 | Airborne | 0.00% | ~0 |
 | Shatterer | 0.00% | ~0 |
 | Shatter Them All | 0.00% | ~0 |
@@ -33,7 +34,6 @@
 | False God | 0.00% | ~0 |
 | All That Gold | 0.00% | ~0 |
 | Stone Collection | 0.00% | ~0 |
-| Miner | 0.00% | ~0 |
 | The Collector | 0.00% | ~0 |
 | Feeling Fancy | 0.00% | ~0 |
 | A Queen's Tale | 0.00% | ~0 |

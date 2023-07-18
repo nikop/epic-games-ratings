@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 75,
-  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15530,
+  "EOS_Progressed": 15532,
   "EOS_Completed": 326,
-  "EOS_NewPlayers": 572,
+  "EOS_NewPlayers": 570,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -9664,6 +9664,11 @@
       "Time": "2023-07-18T09:04:58.8745626+00:00",
       "NumProgressed": 15530,
       "NumCompleted": 326
+    },
+    {
+      "Time": "2023-07-18T10:04:33.3003486+00:00",
+      "NumProgressed": 15532,
+      "NumCompleted": 326
     }
   ],
   "TotalAchievements": 20,
@@ -9723,7 +9728,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1242
+      "UsersEstimate": 1243
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -9747,7 +9752,7 @@
       "Name": "Hide and Seek",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -9795,7 +9800,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 11803
+      "UsersEstimate": 11804
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -9803,7 +9808,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 4348
+      "UsersEstimate": 4349
     },
     {
       "ID": "NORTH_FINISHED",
@@ -9834,15 +9839,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 15530,
+      "Progressed": 15532,
       "Completed": 326
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-07-18T09:04:58.874562+00:00",
+  "LastChanged_Achievements": "2023-07-18T10:04:33.3003482+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:08.6336222+00:00",
-  "LastUpdate_Ratings": "2023-07-18T09:02:17.3537218+00:00",
-  "LastUpdate_Achievements": "2023-07-18T09:04:58.8746344+00:00"
+  "LastUpdate_Ratings": "2023-07-18T10:01:34.8724609+00:00",
+  "LastUpdate_Achievements": "2023-07-18T10:04:33.3003988+00:00"
 }

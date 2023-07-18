@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 522498,
+  "EOS_Progressed": 522500,
   "EOS_Completed": 447,
-  "EOS_NewPlayers": 637,
+  "EOS_NewPlayers": 638,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -9650,6 +9650,11 @@
       "Time": "2023-07-18T08:02:39.4170297+00:00",
       "NumProgressed": 522498,
       "NumCompleted": 447
+    },
+    {
+      "Time": "2023-07-18T10:03:37.5964902+00:00",
+      "NumProgressed": 522500,
+      "NumCompleted": 447
     }
   ],
   "TotalAchievements": 57,
@@ -9669,7 +9674,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 235124
+      "UsersEstimate": 235125
     },
     {
       "ID": "11",
@@ -9677,7 +9682,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 365749
+      "UsersEstimate": 365750
     },
     {
       "ID": "12",
@@ -9741,7 +9746,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 323949
+      "UsersEstimate": 323950
     },
     {
       "ID": "2",
@@ -9885,7 +9890,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 261249
+      "UsersEstimate": 261250
     },
     {
       "ID": "36",
@@ -9917,7 +9922,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 177649
+      "UsersEstimate": 177650
     },
     {
       "ID": "4",
@@ -9949,7 +9954,7 @@
       "Name": "Written in the Stars",
       "Percentage": 0.9,
       "XP": 35,
-      "UsersEstimate": 4702
+      "UsersEstimate": 4703
     },
     {
       "ID": "43",
@@ -9989,7 +9994,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 323949
+      "UsersEstimate": 323950
     },
     {
       "ID": "48",
@@ -10005,7 +10010,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 177649
+      "UsersEstimate": 177650
     },
     {
       "ID": "5",
@@ -10037,7 +10042,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 240349
+      "UsersEstimate": 240350
     },
     {
       "ID": "53",
@@ -10109,22 +10114,22 @@
       "Name": "Boss of All Bosses",
       "Percentage": 0.3,
       "XP": 80,
-      "UsersEstimate": 1567
+      "UsersEstimate": 1568
     }
   ],
   "AchievementSets": [
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 522498,
+      "Progressed": 522500,
       "Completed": 447
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-07-18T09:04:05.9839641+00:00",
+  "LastChanged_Achievements": "2023-07-18T10:03:37.5964897+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:17.3888766+00:00",
-  "LastUpdate_Ratings": "2023-07-18T08:58:10.2600494+00:00",
-  "LastUpdate_Achievements": "2023-07-18T09:04:05.9840959+00:00"
+  "LastUpdate_Ratings": "2023-07-18T09:58:03.4667187+00:00",
+  "LastUpdate_Achievements": "2023-07-18T10:03:37.5965721+00:00"
 }

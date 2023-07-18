@@ -5,27 +5,27 @@ Rating: 3.98 (Ranked 921)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blood on My Hands | 78.00% | ~356,109 |
-| Health Junkie | 45.00% | ~205,448 |
-| You Complete Me | 42.00% | ~191,751 |
-| Guardian Angel | 39.00% | ~178,054 |
-| Devil Inside Me | 30.00% | ~136,965 |
-| Fantastic Four | 22.00% | ~100,441 |
-| Killing Spree | 21.00% | ~95,876 |
-| Marksman Novice | 19.00% | ~86,744 |
-| First Blood | 13.00% | ~59,352 |
-| Top 10 | 13.00% | ~59,352 |
-| Now You See Me, Now You Don't | 12.00% | ~54,786 |
-| Marksman Expert | 9.00% | ~41,090 |
-| CQB Novice | 8.00% | ~36,524 |
-| Collateral Damage | 7.00% | ~31,959 |
-| Airborne | 6.00% | ~27,393 |
-| Pacifist | 6.00% | ~27,393 |
-| Last Survivor | 4.00% | ~18,262 |
-| Marksman Master | 4.00% | ~18,262 |
-| Trigonometry Novice | 4.00% | ~18,262 |
-| First Come, First Served | 4.00% | ~18,262 |
-| Dynamic Duo | 4.00% | ~18,262 |
+| Blood on My Hands | 78.00% | ~356,125 |
+| Health Junkie | 45.00% | ~205,457 |
+| You Complete Me | 42.00% | ~191,760 |
+| Guardian Angel | 39.00% | ~178,063 |
+| Devil Inside Me | 30.00% | ~136,971 |
+| Fantastic Four | 22.00% | ~100,446 |
+| Killing Spree | 21.00% | ~95,880 |
+| Marksman Novice | 19.00% | ~86,748 |
+| First Blood | 13.00% | ~59,354 |
+| Top 10 | 13.00% | ~59,354 |
+| Now You See Me, Now You Don't | 12.00% | ~54,789 |
+| Marksman Expert | 9.00% | ~41,091 |
+| CQB Novice | 8.00% | ~36,526 |
+| Collateral Damage | 7.00% | ~31,960 |
+| Airborne | 6.00% | ~27,394 |
+| Pacifist | 6.00% | ~27,394 |
+| Last Survivor | 4.00% | ~18,263 |
+| Marksman Master | 4.00% | ~18,263 |
+| Trigonometry Novice | 4.00% | ~18,263 |
+| First Come, First Served | 4.00% | ~18,263 |
+| Dynamic Duo | 4.00% | ~18,263 |
 | Winner Winner Chicken Dinner! | 2.00% | ~9,131 |
 | Okay, Now I'm Ready | 2.00% | ~9,131 |
 | Agent 48 | 2.00% | ~9,131 |
@@ -35,7 +35,7 @@ Rating: 3.98 (Ranked 921)
 | Fury Road | 1.00% | ~4,566 |
 | Ghost | 1.00% | ~4,566 |
 | Cruising with the Enemy | 1.00% | ~4,566 |
-| Nade King Novice | 0.80% | ~3,652 |
+| Nade King Novice | 0.80% | ~3,653 |
 | Master Assassin | 0.70% | ~3,196 |
 | CQB Master | 0.30% | ~1,370 |
 | The First Rule Is… | 0.20% | ~913 |
@@ -43,7 +43,7 @@ Rating: 3.98 (Ranked 921)
 | Nade King Expert | 0.10% | ~457 |
 | Shoot the Knee | 0.10% | ~457 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 456,550 (Ranked 36)  
+Progressed: 456,571 (Ranked 36)  
 Completed: 10 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,16 +132,16 @@ Completed: 10 (0.00%) (Ranked 236)
 | 2023-07-15 | 451,836 | 10 |
 | 2023-07-16 | 453,861 | 10 |
 | 2023-07-17 | 455,575 | 10 |
-| 2023-07-18 | 456,550 | 10 |
+| 2023-07-18 | 456,571 | 10 |
 ## Awards
 Max (Competitive Players): 2,712  (Ranked 93)  
-Sum: 11,232 (Ranked 77)  
+Sum: 11,237 (Ranked 77)  
 Diff (max vs sum): 16  
 | Award | Count |
 | ----- | ----- |
 | This game has Competitive Players | 2,712 |
 | This game has Quickly Understood Controls | 2,480 |
-| This game has Challenging Combat | 2,347 |
+| This game has Challenging Combat | 2,352 |
 | This game is Highly Recommended | 2,156 |
 | This game has a Competitive Community | 1,537 |
 | This game is Extremely Fun | 122 |
@@ -291,3 +291,4 @@ Diff (max vs sum): 16
 | 2023-07-15 | 3.98 | 2,677 | 11,100 |
 | 2023-07-16 | 3.98 | 2,692 | 11,167 |
 | 2023-07-17 | 3.98 | 2,712 | 11,232 |
+| 2023-07-18 | 3.98 | 2,712 | 11,237 |

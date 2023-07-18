@@ -2038,9 +2038,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 35092,
+  "EOS_Progressed": 35093,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 598,
+  "EOS_NewPlayers": 596,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -11363,6 +11363,11 @@
       "Time": "2023-07-18T08:03:33.5432035+00:00",
       "NumProgressed": 35092,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-07-18T10:04:17.1552238+00:00",
+      "NumProgressed": 35093,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 75,
@@ -11374,7 +11379,7 @@
       "Name": "That Was Easy!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 7018
+      "UsersEstimate": 7019
     },
     {
       "ID": "achievements_10",
@@ -11406,7 +11411,7 @@
       "Name": "Cursed Creature",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 20002
+      "UsersEstimate": 20003
     },
     {
       "ID": "achievements_14",
@@ -11422,7 +11427,7 @@
       "Name": "Keeper of Keys",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 16493
+      "UsersEstimate": 16494
     },
     {
       "ID": "achievements_17",
@@ -11430,7 +11435,7 @@
       "Name": "Mad Genius",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 12282
+      "UsersEstimate": 12283
     },
     {
       "ID": "achievements_19",
@@ -11478,7 +11483,7 @@
       "Name": "Chainbreaker - I",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 21055
+      "UsersEstimate": 21056
     },
     {
       "ID": "achievements_24",
@@ -11526,7 +11531,7 @@
       "Name": "Bane of Mercenaries - I",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 11580
+      "UsersEstimate": 11581
     },
     {
       "ID": "achievements_3",
@@ -11558,7 +11563,7 @@
       "Name": "Cannon Fodder - I",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 11931
+      "UsersEstimate": 11932
     },
     {
       "ID": "achievements_33",
@@ -11630,7 +11635,7 @@
       "Name": "Silent Waters",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 7018
+      "UsersEstimate": 7019
     },
     {
       "ID": "achievements_41",
@@ -11678,7 +11683,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 29828
+      "UsersEstimate": 29829
     },
     {
       "ID": "achievements_47",
@@ -11742,7 +11747,7 @@
       "Name": "Extraction",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 20002
+      "UsersEstimate": 20003
     },
     {
       "ID": "achievements_54",
@@ -11758,7 +11763,7 @@
       "Name": "Calcination",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 7018
+      "UsersEstimate": 7019
     },
     {
       "ID": "achievements_56",
@@ -11798,7 +11803,7 @@
       "Name": "Soul of Lies",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 11931
+      "UsersEstimate": 11932
     },
     {
       "ID": "achievements_61",
@@ -11806,7 +11811,7 @@
       "Name": "Head of Order",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 7018
+      "UsersEstimate": 7019
     },
     {
       "ID": "achievements_62",
@@ -11854,7 +11859,7 @@
       "Name": "Nightmare of the Humanity - III",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 2456
+      "UsersEstimate": 2457
     },
     {
       "ID": "achievements_68",
@@ -11950,7 +11955,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 25617
+      "UsersEstimate": 25618
     },
     {
       "ID": "achievements_8",
@@ -11973,15 +11978,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 35092,
+      "Progressed": 35093,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-07-17T22:59:53.286995+00:00",
-  "LastChanged_Achievements": "2023-07-18T09:04:39.9102426+00:00",
+  "LastChanged_Achievements": "2023-07-18T10:04:17.1552231+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:42.77874+00:00",
-  "LastUpdate_Ratings": "2023-07-18T09:00:14.3052839+00:00",
-  "LastUpdate_Achievements": "2023-07-18T09:04:39.9104319+00:00"
+  "LastUpdate_Ratings": "2023-07-18T09:59:52.6934711+00:00",
+  "LastUpdate_Achievements": "2023-07-18T10:04:17.1553442+00:00"
 }

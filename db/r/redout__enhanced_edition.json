@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 227477,
+  "EOS_Progressed": 227478,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 562,
+  "EOS_NewPlayers": 561,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -9493,6 +9493,11 @@
       "Time": "2023-07-18T08:02:31.224301+00:00",
       "NumProgressed": 227477,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-07-18T10:03:28.1598799+00:00",
+      "NumProgressed": 227478,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 34,
@@ -9536,7 +9541,7 @@
       "Name": "CHALLENGER",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 25022
+      "UsersEstimate": 25023
     },
     {
       "ID": "CHALLENGETHEWORLD",
@@ -9592,7 +9597,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 45495
+      "UsersEstimate": 45496
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -9640,7 +9645,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 75067
+      "UsersEstimate": 75068
     },
     {
       "ID": "NOBUNAGA",
@@ -9775,15 +9780,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 227477,
+      "Progressed": 227478,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-07-18T09:03:55.2348588+00:00",
+  "LastChanged_Achievements": "2023-07-18T10:03:28.1598796+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:06.3319573+00:00",
-  "LastUpdate_Ratings": "2023-07-18T08:59:29.3870344+00:00",
-  "LastUpdate_Achievements": "2023-07-18T09:03:55.2349608+00:00"
+  "LastUpdate_Ratings": "2023-07-18T09:59:09.9262933+00:00",
+  "LastUpdate_Achievements": "2023-07-18T10:03:28.1599436+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "3bb63a39c60c4459a5a526eb6a4b08b5",
   "Name": "Fly Corp",
   "ProductSlug": "fly-corp-398021",
-  "Ranking_EOS_Progress": 245,
+  "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 309,
+  "EOS_Progressed": 310,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -976,6 +976,11 @@
       "Time": "2023-07-18T00:04:07.7606005+00:00",
       "NumProgressed": 309,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-18T10:04:40.8744574+00:00",
+      "NumProgressed": 310,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -995,23 +1000,23 @@
       "Name": "Active Pause",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "BasicControls",
       "SetID": "1e89b4i",
       "Name": "Basic Controls",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 192
     },
     {
       "ID": "BigPlane",
       "SetID": "1e89b4i",
       "Name": "Expensive Plane",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 108
     },
     {
       "ID": "BudgetFlight",
@@ -1027,7 +1032,7 @@
       "Name": "Calculated",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "Close",
@@ -1155,7 +1160,7 @@
       "Name": "Long Distances",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ManagementMaster",
@@ -1177,9 +1182,9 @@
       "ID": "Millionaire",
       "SetID": "1e89b4i",
       "Name": "Millionaire",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 16
     },
     {
       "ID": "NewRecord",
@@ -1267,7 +1272,7 @@
       "Name": "Restructuring",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Reviewer",
@@ -1322,14 +1327,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 309,
+      "Progressed": 310,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-07-18T09:05:07.4619255+00:00",
+  "LastChanged_Achievements": "2023-07-18T10:04:40.874457+00:00",
   "LastUpdate_AppInfo": "2023-07-18T08:57:06.2338611+00:00",
-  "LastUpdate_Ratings": "2023-07-18T08:57:27.3572422+00:00",
-  "LastUpdate_Achievements": "2023-07-18T09:05:07.4619665+00:00"
+  "LastUpdate_Ratings": "2023-07-18T09:57:24.3389769+00:00",
+  "LastUpdate_Achievements": "2023-07-18T10:04:40.8744912+00:00"
 }

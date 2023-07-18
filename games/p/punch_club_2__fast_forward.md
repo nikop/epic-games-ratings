@@ -5,7 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Such a strange dream… | 133.00% | ~4 |
-| Your first fight | 67.00% | ~2 |
+| Your first fight | 100.00% | ~3 |
+| Good Person Chip | 33.00% | ~1 |
 | Mom got better | 0.00% | ~0 |
 | Deal with life | 0.00% | ~0 |
 | Now you are worthy | 0.00% | ~0 |
@@ -31,7 +32,6 @@
 | Silver’s past | 0.00% | ~0 |
 | Better cooking at home | 0.00% | ~0 |
 | Old movies enjoyer | 0.00% | ~0 |
-| Good Person Chip | 0.00% | ~0 |
 | Not little hacker | 0.00% | ~0 |
 | Little hacker | 0.00% | ~0 |
 | Handyman | 0.00% | ~0 |

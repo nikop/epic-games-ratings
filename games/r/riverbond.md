@@ -6,14 +6,14 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~365,749 |
-| Now You're Talking | 62.00% | ~323,949 |
-| Steel Yourself | 62.00% | ~323,949 |
-| Window Dressing | 50.00% | ~261,249 |
-| Trigger Happy | 46.00% | ~240,349 |
-| Riverborn | 45.00% | ~235,124 |
-| Starry Eyed | 34.00% | ~177,649 |
-| Poking Around | 34.00% | ~177,649 |
+| First Step | 70.00% | ~365,750 |
+| Now You're Talking | 62.00% | ~323,950 |
+| Steel Yourself | 62.00% | ~323,950 |
+| Window Dressing | 50.00% | ~261,250 |
+| Trigger Happy | 46.00% | ~240,350 |
+| Riverborn | 45.00% | ~235,125 |
+| Starry Eyed | 34.00% | ~177,650 |
+| Poking Around | 34.00% | ~177,650 |
 | Talk of the Town | 24.00% | ~125,400 |
 | AAARR! | 23.00% | ~120,175 |
 | Hello Darkness | 23.00% | ~120,175 |
@@ -60,11 +60,11 @@ Number of Ratings: 617  (23.09.2022)
 | Justice Served | 2.00% | ~10,450 |
 | Don't Care | 1.00% | ~5,225 |
 | Don’t Get Crabby | 1.00% | ~5,225 |
-| Written in the Stars | 0.90% | ~4,702 |
-| Boss of All Bosses | 0.30% | ~1,567 |
+| Written in the Stars | 0.90% | ~4,703 |
+| Boss of All Bosses | 0.30% | ~1,568 |
 | Point Taken | 0.10% | ~522 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 522,498 (Ranked 29)  
+Progressed: 522,500 (Ranked 29)  
 Completed: 447 (0.09%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 447 (0.09%) (Ranked 189)
 | 2023-07-15 | 522,267 | 446 |
 | 2023-07-16 | 522,392 | 447 |
 | 2023-07-17 | 522,474 | 447 |
-| 2023-07-18 | 522,498 | 447 |
+| 2023-07-18 | 522,500 | 447 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

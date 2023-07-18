@@ -6,64 +6,64 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Resurgence | 9.00% | ~61,992 |
-| Healthy Obsession | 8.00% | ~55,104 |
-| Preemptive Strike | 8.00% | ~55,104 |
-| Humanitarian | 8.00% | ~55,104 |
-| Close Shave | 7.00% | ~48,216 |
-| Wounded Healer | 6.00% | ~41,328 |
-| First to the Punch | 5.00% | ~34,440 |
-| With Scars to Show | 5.00% | ~34,440 |
-| Flight to Freedom | 5.00% | ~34,440 |
-| Unforgettable Getaway | 4.00% | ~27,552 |
-| Cutting Out | 4.00% | ~27,552 |
-| Operation: Survival | 4.00% | ~27,552 |
-| Old West Oasis | 4.00% | ~27,552 |
-| Classy Act | 4.00% | ~27,552 |
-| Every Last Drop | 4.00% | ~27,552 |
-| Raccoon City Recruit | 4.00% | ~27,552 |
-| A Fast Death | 4.00% | ~27,552 |
-| Lifting The Fog | 4.00% | ~27,552 |
-| Chorus of Chaos | 4.00% | ~27,552 |
-| Ancestor's Rite | 3.00% | ~20,664 |
-| Devoted Gatekeeping | 3.00% | ~20,664 |
-| Shrine Apparatus | 3.00% | ~20,664 |
-| Outrun Evil | 3.00% | ~20,664 |
-| Grim Pilgrimage | 3.00% | ~20,664 |
-| End of Days | 3.00% | ~20,664 |
-| Outrun the Overlap | 3.00% | ~20,664 |
-| Heavy Burden | 2.00% | ~13,776 |
-| Broken Bodies | 2.00% | ~13,776 |
-| Selfless Survival | 2.00% | ~13,776 |
-| I See You | 2.00% | ~13,776 |
-| Power Moves | 2.00% | ~13,776 |
-| Insult and Injury | 2.00% | ~13,776 |
-| Punch Drunk | 2.00% | ~13,776 |
-| Prowler | 2.00% | ~13,776 |
-| High Speed Pursuit | 2.00% | ~13,776 |
-| Rebuilding The Borgo | 2.00% | ~13,776 |
-| Hack the Mainframe | 2.00% | ~13,776 |
-| Deranged Pursuit | 1.00% | ~6,888 |
-| Denied! | 1.00% | ~6,888 |
-| Death of Ignorance | 1.00% | ~6,888 |
-| Triage | 1.00% | ~6,888 |
-| Dismantle | 0.80% | ~5,510 |
-| Left For Dead | 0.80% | ~5,510 |
-| Bodyguard | 0.80% | ~5,510 |
-| Rescue Mission | 0.80% | ~5,510 |
-| Ghost in the Machine | 0.80% | ~5,510 |
-| From the Deep | 0.80% | ~5,510 |
+| Resurgence | 9.00% | ~62,000 |
+| Healthy Obsession | 8.00% | ~55,111 |
+| Preemptive Strike | 8.00% | ~55,111 |
+| Humanitarian | 8.00% | ~55,111 |
+| Close Shave | 7.00% | ~48,222 |
+| Wounded Healer | 6.00% | ~41,333 |
+| First to the Punch | 5.00% | ~34,444 |
+| With Scars to Show | 5.00% | ~34,444 |
+| Flight to Freedom | 5.00% | ~34,444 |
+| Unforgettable Getaway | 4.00% | ~27,556 |
+| Cutting Out | 4.00% | ~27,556 |
+| Operation: Survival | 4.00% | ~27,556 |
+| Old West Oasis | 4.00% | ~27,556 |
+| Classy Act | 4.00% | ~27,556 |
+| Every Last Drop | 4.00% | ~27,556 |
+| Raccoon City Recruit | 4.00% | ~27,556 |
+| A Fast Death | 4.00% | ~27,556 |
+| Lifting The Fog | 4.00% | ~27,556 |
+| Chorus of Chaos | 4.00% | ~27,556 |
+| Ancestor's Rite | 3.00% | ~20,667 |
+| Devoted Gatekeeping | 3.00% | ~20,667 |
+| Shrine Apparatus | 3.00% | ~20,667 |
+| Outrun Evil | 3.00% | ~20,667 |
+| Grim Pilgrimage | 3.00% | ~20,667 |
+| End of Days | 3.00% | ~20,667 |
+| Outrun the Overlap | 3.00% | ~20,667 |
+| Heavy Burden | 2.00% | ~13,778 |
+| Broken Bodies | 2.00% | ~13,778 |
+| Selfless Survival | 2.00% | ~13,778 |
+| I See You | 2.00% | ~13,778 |
+| Power Moves | 2.00% | ~13,778 |
+| Insult and Injury | 2.00% | ~13,778 |
+| Punch Drunk | 2.00% | ~13,778 |
+| Prowler | 2.00% | ~13,778 |
+| High Speed Pursuit | 2.00% | ~13,778 |
+| Rebuilding The Borgo | 2.00% | ~13,778 |
+| Hack the Mainframe | 2.00% | ~13,778 |
+| Deranged Pursuit | 1.00% | ~6,889 |
+| Denied! | 1.00% | ~6,889 |
+| Death of Ignorance | 1.00% | ~6,889 |
+| Triage | 1.00% | ~6,889 |
+| Dismantle | 0.80% | ~5,511 |
+| Left For Dead | 0.80% | ~5,511 |
+| Bodyguard | 0.80% | ~5,511 |
+| Rescue Mission | 0.80% | ~5,511 |
+| Ghost in the Machine | 0.80% | ~5,511 |
+| From the Deep | 0.80% | ~5,511 |
 | Speed Kills | 0.70% | ~4,822 |
 | One Thousand Cuts | 0.70% | ~4,822 |
 | Silent Approach | 0.50% | ~3,444 |
 | Bound and Downed | 0.50% | ~3,444 |
 | Multi-tasker | 0.50% | ~3,444 |
-| Conniption | 0.40% | ~2,755 |
-| Terminal Illness | 0.40% | ~2,755 |
-| Tear Their Soul Apart | 0.40% | ~2,755 |
-| Viral Video | 0.40% | ~2,755 |
-| Totally Vulnerable | 0.30% | ~2,066 |
-| Biological Weaponry | 0.30% | ~2,066 |
+| Conniption | 0.40% | ~2,756 |
+| Terminal Illness | 0.40% | ~2,756 |
+| Tear Their Soul Apart | 0.40% | ~2,756 |
+| Viral Video | 0.40% | ~2,756 |
+| Totally Vulnerable | 0.30% | ~2,067 |
+| Biological Weaponry | 0.30% | ~2,067 |
 | Taking One For The Team | 0.20% | ~1,378 |
 | Adept Bill | 0.20% | ~1,378 |
 | Bloodbath | 0.20% | ~1,378 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~689 |
 | Adept Gabriel | 0.10% | ~689 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 688,797 (Ranked 21)  
+Progressed: 688,888 (Ranked 21)  
 Completed: 42 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,10 +316,10 @@ Completed: 42 (0.01%) (Ranked 223)
 | 2023-07-15 | 680,440 | 42 |
 | 2023-07-16 | 684,236 | 42 |
 | 2023-07-17 | 687,583 | 42 |
-| 2023-07-18 | 688,797 | 42 |
+| 2023-07-18 | 688,888 | 42 |
 ## Awards
 Max (Diverse Characters): 30,060  (Ranked 15)  
-Sum: 238,018 (Ranked 12)  
+Sum: 238,040 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -331,7 +331,7 @@ Diff (max vs sum): 3
 | This game has Quickly Understood Controls | 26,585 |
 | This game has Challenging Combat | 26,057 |
 | This game has Amazing Storytelling | 24,517 |
-| This game has a Competitive Community | 22,725 |
+| This game has a Competitive Community | 22,747 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
 ## Ratings History
@@ -512,4 +512,4 @@ Diff (max vs sum): 3
 | 2023-07-15 | 4.52 | - | 29,960 | 237,544 |
 | 2023-07-16 | 4.52 | - | 29,992 | 237,749 |
 | 2023-07-17 | 4.52 | - | 30,030 | 237,925 |
-| 2023-07-18 | 4.52 | - | 30,060 | 238,018 |
+| 2023-07-18 | 4.52 | - | 30,060 | 238,040 |
