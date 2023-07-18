@@ -113,6 +113,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Capable | 15.00% | ~1,937 |
 | Invincible | 15.00% | ~1,937 |
 | Hunters | 15.00% | ~1,937 |
+| Hittite Paganism | 15.00% | ~1,937 |
 | Industrial Progress | 15.00% | ~1,937 |
 | Enlightenment | 15.00% | ~1,937 |
 | Revelation | 15.00% | ~1,937 |
@@ -122,7 +123,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Church of the Holy Sepulchre | 14.00% | ~1,808 |
 | Babylonia | 14.00% | ~1,808 |
 | Carthage | 14.00% | ~1,808 |
-| Hittite Paganism | 14.00% | ~1,808 |
 | Turreted Elephant | 14.00% | ~1,808 |
 | Clerics | 13.00% | ~1,679 |
 | Rome | 13.00% | ~1,679 |

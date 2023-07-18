@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2835,
+  "EOS_Progressed": 2836,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3593,6 +3593,11 @@
       "Time": "2023-07-18T00:04:56.3944156+00:00",
       "NumProgressed": 2835,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-18T02:35:16.2377735+00:00",
+      "NumProgressed": 2836,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -3610,9 +3615,9 @@
       "ID": "ACH_BASE_10",
       "SetID": "92iocjf",
       "Name": "Man\u0027s Best Friend",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 170
     },
     {
       "ID": "ACH_BASE_11",
@@ -3740,7 +3745,7 @@
       "Name": "A Hunk of Junk",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_BASE_28",
@@ -4059,13 +4064,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1017,
+      "Progressed": 1018,
       "Completed": 6
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2835,
+      "Progressed": 2836,
       "Completed": 0
     }
   ],
@@ -4073,8 +4078,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-07-08T02:22:11.1138638+00:00",
-  "LastChanged_Achievements": "2023-07-18T00:04:56.3944148+00:00",
+  "LastChanged_Achievements": "2023-07-18T02:35:16.2377728+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:23.6946025+00:00",
-  "LastUpdate_Ratings": "2023-07-17T23:58:59.7636429+00:00",
-  "LastUpdate_Achievements": "2023-07-18T00:04:56.3944841+00:00"
+  "LastUpdate_Ratings": "2023-07-18T02:29:09.5216725+00:00",
+  "LastUpdate_Achievements": "2023-07-18T02:35:16.2378524+00:00"
 }

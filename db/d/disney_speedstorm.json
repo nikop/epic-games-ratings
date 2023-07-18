@@ -4,8 +4,8 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 27,
+  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -15,7 +15,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2960,
+  "EOS_Progressed": 2961,
   "EOS_Completed": 100,
   "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 5,
@@ -3510,6 +3510,11 @@
       "Time": "2023-07-17T17:06:47.9174948+00:00",
       "NumProgressed": 2960,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-07-18T02:36:31.1797227+00:00",
+      "NumProgressed": 2961,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 24,
@@ -3521,7 +3526,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "10",
@@ -3593,7 +3598,7 @@
       "Name": "ACE BRAWLER",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "19",
@@ -3712,13 +3717,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2960,
+      "Progressed": 2961,
       "Completed": 100
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-07-18T00:06:01.3121794+00:00",
+  "LastChanged_Achievements": "2023-07-18T02:36:31.1797218+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:54.868293+00:00",
-  "LastUpdate_Ratings": "2023-07-17T23:59:32.7786212+00:00",
-  "LastUpdate_Achievements": "2023-07-18T00:06:01.3122088+00:00"
+  "LastUpdate_Ratings": "2023-07-18T02:29:48.2380535+00:00",
+  "LastUpdate_Achievements": "2023-07-18T02:36:31.179779+00:00"
 }

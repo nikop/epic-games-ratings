@@ -4,7 +4,7 @@
   "ProductSlug": "spingun-843f78",
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-06-02T04:00:00+00:00",
@@ -19,7 +19,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 115,
+  "EOS_Progressed": 116,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
@@ -524,6 +524,11 @@
       "Time": "2023-07-16T22:04:56.1681012+00:00",
       "NumProgressed": 115,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-18T02:34:58.4175624+00:00",
+      "NumProgressed": 116,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -589,9 +594,9 @@
       "ID": "ach_customized",
       "SetID": "5a4225j",
       "Name": "Customize Ship",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 58
+      "UsersEstimate": 57
     },
     {
       "ID": "ach_endless_120",
@@ -607,7 +612,7 @@
       "Name": "Endless 30 Seconds",
       "Percentage": 74,
       "XP": 35,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ach_endless_60",
@@ -615,7 +620,7 @@
       "Name": "Endless 60 Seconds",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ach_endless_c_60",
@@ -742,13 +747,13 @@
     {
       "ID": "5a4225j",
       "IsBase": true,
-      "Progressed": 115,
+      "Progressed": 116,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-06-02T21:05:45.273905+00:00",
-  "LastChanged_Achievements": "2023-07-18T00:04:40.9799578+00:00",
+  "LastChanged_Achievements": "2023-07-18T02:34:58.4175615+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:21:59.5520738+00:00",
-  "LastUpdate_Ratings": "2023-07-17T23:57:21.1093874+00:00",
-  "LastUpdate_Achievements": "2023-07-18T00:04:40.9799756+00:00"
+  "LastUpdate_Ratings": "2023-07-18T02:27:01.9120083+00:00",
+  "LastUpdate_Achievements": "2023-07-18T02:34:58.4175859+00:00"
 }

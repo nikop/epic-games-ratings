@@ -957,9 +957,9 @@
       "ID": "FAITH_1",
       "SetID": "44dlcg0",
       "Name": "The spiritual world...",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 66
     },
     {
       "ID": "FAITH_2",
@@ -1093,9 +1093,9 @@
       "ID": "MADERA_0",
       "SetID": "44dlcg0",
       "Name": "The woodcutter",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "MILLS",
@@ -1357,9 +1357,9 @@
       "ID": "WELFARE_1",
       "SetID": "44dlcg0",
       "Name": "Soviet town",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     },
     {
       "ID": "WELFARE_2",
@@ -1382,8 +1382,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-07-18T00:07:03.2544528+00:00",
+  "LastChanged_Achievements": "2023-07-18T02:37:42.5314338+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:52.813456+00:00",
-  "LastUpdate_Ratings": "2023-07-17T23:59:27.159901+00:00",
-  "LastUpdate_Achievements": "2023-07-18T00:07:03.2545235+00:00"
+  "LastUpdate_Ratings": "2023-07-18T02:29:42.4599987+00:00",
+  "LastUpdate_Achievements": "2023-07-18T02:37:42.5315409+00:00"
 }

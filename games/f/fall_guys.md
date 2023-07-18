@@ -1,48 +1,48 @@
 # Fall Guys
 [Store](https://store.epicgames.com/en-US/p/fall-guys)  
 [View Rawdata](../../db/f/fall_guys.json)  
-Rating: 4.52 (Ranked 520)  
+Rating: 4.52 (Ranked 521)  
 Number of Ratings: 1,046,587  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One small trip | 10.00% | ~3,418,577 |
-| Snowflake | 9.00% | ~3,076,719 |
-| Fall Throttle | 8.00% | ~2,734,862 |
-| Big Bully | 7.00% | ~2,393,004 |
-| Face First | 7.00% | ~2,393,004 |
-| One to Watch | 6.00% | ~2,051,146 |
-| Style Points | 6.00% | ~2,051,146 |
-| Troublemaker | 6.00% | ~2,051,146 |
-| Flawless Victory | 5.00% | ~1,709,289 |
-| Fall Bae | 5.00% | ~1,709,289 |
-| Ahead of the Pack | 5.00% | ~1,709,289 |
-| Stumble Chums | 5.00% | ~1,709,289 |
-| Victory! | 5.00% | ~1,709,289 |
-| Bargain Bucket | 4.00% | ~1,367,431 |
-| Household Name | 3.00% | ~1,025,573 |
-| Catwalk Model | 2.00% | ~683,715 |
-| Down to the Wire | 2.00% | ~683,715 |
-| Star of the Show | 2.00% | ~683,715 |
-| Head Turner | 2.00% | ~683,715 |
-| One giant leap | 2.00% | ~683,715 |
-| Quite Dashing | 2.00% | ~683,715 |
-| Squad Goals | 2.00% | ~683,715 |
-| Low Baller | 1.00% | ~341,858 |
-| Big Air | 1.00% | ~341,858 |
-| Mad Trendy | 1.00% | ~341,858 |
-| Shopping Spree | 1.00% | ~341,858 |
-| Top Tier | 1.00% | ~341,858 |
-| Veteran Status | 0.60% | ~205,115 |
-| Show Off | 0.60% | ~205,115 |
-| Track Star | 0.40% | ~136,743 |
-| Golden Guy | 0.40% | ~136,743 |
-| Big Tease | 0.30% | ~102,557 |
-| Fall Guy Fashionista | 0.20% | ~68,372 |
-| Infallible | 0.20% | ~68,372 |
+| One small trip | 10.00% | ~3,418,796 |
+| Snowflake | 9.00% | ~3,076,916 |
+| Fall Throttle | 8.00% | ~2,735,037 |
+| Big Bully | 7.00% | ~2,393,157 |
+| Face First | 7.00% | ~2,393,157 |
+| One to Watch | 6.00% | ~2,051,278 |
+| Style Points | 6.00% | ~2,051,278 |
+| Troublemaker | 6.00% | ~2,051,278 |
+| Flawless Victory | 5.00% | ~1,709,398 |
+| Fall Bae | 5.00% | ~1,709,398 |
+| Ahead of the Pack | 5.00% | ~1,709,398 |
+| Stumble Chums | 5.00% | ~1,709,398 |
+| Victory! | 5.00% | ~1,709,398 |
+| Bargain Bucket | 4.00% | ~1,367,518 |
+| Household Name | 3.00% | ~1,025,639 |
+| Catwalk Model | 2.00% | ~683,759 |
+| Down to the Wire | 2.00% | ~683,759 |
+| Star of the Show | 2.00% | ~683,759 |
+| Head Turner | 2.00% | ~683,759 |
+| One giant leap | 2.00% | ~683,759 |
+| Quite Dashing | 2.00% | ~683,759 |
+| Squad Goals | 2.00% | ~683,759 |
+| Low Baller | 1.00% | ~341,880 |
+| Big Air | 1.00% | ~341,880 |
+| Mad Trendy | 1.00% | ~341,880 |
+| Shopping Spree | 1.00% | ~341,880 |
+| Top Tier | 1.00% | ~341,880 |
+| Veteran Status | 0.60% | ~205,128 |
+| Show Off | 0.60% | ~205,128 |
+| Track Star | 0.40% | ~136,752 |
+| Golden Guy | 0.40% | ~136,752 |
+| Big Tease | 0.30% | ~102,564 |
+| Fall Guy Fashionista | 0.20% | ~68,376 |
+| Infallible | 0.20% | ~68,376 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,185,772 (Ranked 1)  
-Completed: 37,125 (0.11%) (Ranked 180)  
+Progressed: 34,187,959 (Ranked 1)  
+Completed: 37,138 (0.11%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -130,10 +130,10 @@ Completed: 37,125 (0.11%) (Ranked 180)
 | 2023-07-15 | 34,138,597 | 36,962 |
 | 2023-07-16 | 34,163,442 | 37,038 |
 | 2023-07-17 | 34,184,979 | 37,124 |
-| 2023-07-18 | 34,185,772 | 37,125 |
+| 2023-07-18 | 34,187,959 | 37,138 |
 ## Awards
 Max (Great for Beginners): 144,346  (Ranked 7)  
-Sum: 1,336,663 (Ranked 5)  
+Sum: 1,336,741 (Ranked 5)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -142,8 +142,8 @@ Diff (max vs sum): 2
 | This game has Competitive Players | 130,431 |
 | This game has Quickly Understood Controls | 130,234 |
 | This game is Great for Quick Sessions | 127,452 |
-| This game has Diverse Characters | 124,305 |
-| This game is Extremely Fun | 119,175 |
+| This game has Diverse Characters | 124,347 |
+| This game is Extremely Fun | 119,211 |
 | This game is Highly Recommended | 112,793 |
 | This game has Amazing Characters | 109,736 |
 | This game has Amazing Storytelling | 104,523 |
@@ -325,3 +325,4 @@ Diff (max vs sum): 2
 | 2023-07-15 | 4.52 | - | 144,217 | 1,335,771 |
 | 2023-07-16 | 4.52 | - | 144,280 | 1,336,186 |
 | 2023-07-17 | 4.52 | - | 144,346 | 1,336,663 |
+| 2023-07-18 | 4.52 | - | 144,346 | 1,336,741 |

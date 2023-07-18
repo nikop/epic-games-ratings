@@ -8,6 +8,7 @@ Rating: 4.43 (Ranked 655)
 | Liberté | 3.00% | ~99 |
 | Confirming Suspicions | 3.00% | ~99 |
 | Lord of War | 3.00% | ~99 |
+| The Kraken Wakes | 3.00% | ~99 |
 | It's Starting to Crack | 3.00% | ~99 |
 | Change the Channel | 3.00% | ~99 |
 | Taking it back | 3.00% | ~99 |
@@ -23,7 +24,6 @@ Rating: 4.43 (Ranked 655)
 | Resourceful | 2.00% | ~66 |
 | Der Geist | 2.00% | ~66 |
 | As Quiet as a Mouse | 2.00% | ~66 |
-| The Kraken Wakes | 2.00% | ~66 |
 | Brains of the Operation | 2.00% | ~66 |
 | Opposing Force | 1.00% | ~33 |
 | Fields of Glory | 1.00% | ~33 |
@@ -77,7 +77,7 @@ Rating: 4.43 (Ranked 655)
 | Alpha | 0.10% | ~3 |
 | Das Familienjuwel | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,295 (Ranked 147)  
+Progressed: 3,296 (Ranked 147)  
 Completed: 9 (0.27%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 9 (0.27%) (Ranked 153)
 | 2023-07-15 | 3,287 | 9 |
 | 2023-07-16 | 3,290 | 9 |
 | 2023-07-17 | 3,294 | 9 |
-| 2023-07-18 | 3,295 | 9 |
+| 2023-07-18 | 3,296 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -15,28 +15,28 @@ Number of Ratings: 1,845  (23.09.2022)
 | Lost Colonies | 3.00% | ~476 |
 | Coral Forest | 3.00% | ~476 |
 | The Scarlet Orchard | 3.00% | ~476 |
-| Serving Ale | 2.00% | ~317 |
-| Homesick | 2.00% | ~317 |
-| Against All Odds | 2.00% | ~317 |
-| Ruined Armory | 2.00% | ~317 |
-| Bandit Camp | 2.00% | ~317 |
-| Barren Lands | 2.00% | ~317 |
-| Ancient Battleground | 2.00% | ~317 |
-| Sparkdew Crystals | 2.00% | ~317 |
-| Dangerous Lands | 2.00% | ~317 |
-| Haunted Forest | 2.00% | ~317 |
-| Levitating Monument | 2.00% | ~317 |
-| Flooded Mines | 2.00% | ~317 |
-| Monastery of the Holy Flame | 2.00% | ~317 |
-| Royal Outpost | 2.00% | ~317 |
-| Statue of the Forefathers | 2.00% | ~317 |
-| Corrosive Torrent | 2.00% | ~317 |
-| Watchtower | 2.00% | ~317 |
-| Cursed Lands | 2.00% | ~317 |
-| A Real Challenge | 2.00% | ~317 |
-| Like a Machine | 2.00% | ~317 |
-| Trade Baron | 2.00% | ~317 |
-| Into the Forest | 2.00% | ~317 |
+| Serving Ale | 2.00% | ~318 |
+| Homesick | 2.00% | ~318 |
+| Against All Odds | 2.00% | ~318 |
+| Ruined Armory | 2.00% | ~318 |
+| Bandit Camp | 2.00% | ~318 |
+| Barren Lands | 2.00% | ~318 |
+| Ancient Battleground | 2.00% | ~318 |
+| Sparkdew Crystals | 2.00% | ~318 |
+| Dangerous Lands | 2.00% | ~318 |
+| Haunted Forest | 2.00% | ~318 |
+| Levitating Monument | 2.00% | ~318 |
+| Flooded Mines | 2.00% | ~318 |
+| Monastery of the Holy Flame | 2.00% | ~318 |
+| Royal Outpost | 2.00% | ~318 |
+| Statue of the Forefathers | 2.00% | ~318 |
+| Corrosive Torrent | 2.00% | ~318 |
+| Watchtower | 2.00% | ~318 |
+| Cursed Lands | 2.00% | ~318 |
+| A Real Challenge | 2.00% | ~318 |
+| Like a Machine | 2.00% | ~318 |
+| Trade Baron | 2.00% | ~318 |
+| Into the Forest | 2.00% | ~318 |
 | Refinery | 1.00% | ~159 |
 | Fishmen Ritual Site | 1.00% | ~159 |
 | Forbidden Lands | 1.00% | ~159 |
@@ -49,15 +49,15 @@ Number of Ratings: 1,845  (23.09.2022)
 | Feeding The People | 0.60% | ~95 |
 | Human Utopia | 0.50% | ~79 |
 | Lizard Utopia | 0.50% | ~79 |
-| Beaver Utopia | 0.40% | ~63 |
-| The Queen's Chosen | 0.40% | ~63 |
+| Beaver Utopia | 0.40% | ~64 |
+| The Queen's Chosen | 0.40% | ~64 |
 | Harpy Utopia | 0.30% | ~48 |
 | Treasure | 0.20% | ~32 |
 | Ruins | 0.20% | ~32 |
 | Paradise | 0.10% | ~16 |
 | Higher Needs | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,873 (Ranked 107)  
+Progressed: 15,875 (Ranked 107)  
 Completed: 40 (0.25%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,6 +146,7 @@ Completed: 40 (0.25%) (Ranked 155)
 | 2023-07-15 | 15,838 | 40 |
 | 2023-07-16 | 15,863 | 40 |
 | 2023-07-17 | 15,873 | 40 |
+| 2023-07-18 | 15,875 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 418  (Ranked 203)  
 Sum: 3,069 (Ranked 157)  

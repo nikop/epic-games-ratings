@@ -8,11 +8,11 @@
 | I like parks | 52.00% | ~143 |
 | It is nice to share with friends in the city | 27.00% | ~74 |
 | Sport is good for you | 25.00% | ~69 |
-| The spiritual world... | 23.00% | ~63 |
-| The woodcutter | 21.00% | ~58 |
+| The spiritual world... | 24.00% | ~66 |
+| The woodcutter | 22.00% | ~60 |
 | I like books | 20.00% | ~55 |
 | I like my life | 19.00% | ~52 |
-| Soviet town | 18.00% | ~50 |
+| Soviet town | 19.00% | ~52 |
 | Clean energy | 17.00% | ~47 |
 | Bucolic city | 14.00% | ~39 |
 | I love books! | 8.00% | ~22 |

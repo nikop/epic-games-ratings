@@ -410,9 +410,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3295,
+  "EOS_Progressed": 3296,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -5130,6 +5130,11 @@
       "Time": "2023-07-18T00:03:43.1561556+00:00",
       "NumProgressed": 3295,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-18T02:33:51.8441932+00:00",
+      "NumProgressed": 3296,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -5387,9 +5392,9 @@
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
       "SetID": "bm6el81",
       "Name": "The Kraken Wakes",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 99
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -5708,13 +5713,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3246,
+      "Progressed": 3247,
       "Completed": 13
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3295,
+      "Progressed": 3296,
       "Completed": 9
     }
   ],
@@ -5722,8 +5727,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-16T03:57:21.2043629+00:00",
-  "LastChanged_Achievements": "2023-07-18T00:03:43.1561551+00:00",
+  "LastChanged_Achievements": "2023-07-18T02:33:51.8441926+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:52.6032381+00:00",
-  "LastUpdate_Ratings": "2023-07-17T23:57:00.7565525+00:00",
-  "LastUpdate_Achievements": "2023-07-18T00:03:43.1562392+00:00"
+  "LastUpdate_Ratings": "2023-07-18T02:26:36.7268854+00:00",
+  "LastUpdate_Achievements": "2023-07-18T02:33:51.8442929+00:00"
 }

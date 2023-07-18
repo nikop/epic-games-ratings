@@ -4,7 +4,7 @@
   "ProductSlug": "aeon-must-die",
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 2912,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-10-27T21:59:00+00:00",
@@ -28,7 +28,7 @@
   "Tags": [],
   "EOS_Progressed": 3520,
   "EOS_Completed": -28,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": -0.8,
   "EosHistory": [
@@ -639,8 +639,8 @@
   "FirstSeenRating": "2023-03-31T05:57:47.6282552+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:12.6590754+00:00",
   "LastChanged": "2023-03-31T05:57:47.6282553+00:00",
-  "LastChanged_Achievements": "2023-07-18T00:07:01.4717253+00:00",
+  "LastChanged_Achievements": "2023-07-18T02:37:40.4659433+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:13.4085818+00:00",
-  "LastUpdate_Ratings": "2023-07-17T23:57:41.6843699+00:00",
-  "LastUpdate_Achievements": "2023-07-18T00:07:01.471746+00:00"
+  "LastUpdate_Ratings": "2023-07-18T02:27:28.7490237+00:00",
+  "LastUpdate_Achievements": "2023-07-18T02:37:40.4659944+00:00"
 }

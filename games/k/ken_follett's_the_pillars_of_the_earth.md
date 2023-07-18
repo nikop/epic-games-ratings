@@ -1,33 +1,33 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.52 (Ranked 520)  
+Rating: 4.52 (Ranked 521)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 41.00% | ~5,726 |
-| Man of politics | 35.00% | ~4,888 |
-| Friends of sorts | 34.00% | ~4,749 |
-| Yet another secret | 34.00% | ~4,749 |
-| Let there be darkness | 33.00% | ~4,609 |
-| End of Book One | 31.00% | ~4,330 |
-| Wannabe knight | 24.00% | ~3,352 |
-| Garden of Eden | 24.00% | ~3,352 |
-| Full house | 24.00% | ~3,352 |
+| Tattletale | 41.00% | ~5,728 |
+| Man of politics | 35.00% | ~4,890 |
+| Friends of sorts | 34.00% | ~4,750 |
+| Yet another secret | 34.00% | ~4,750 |
+| Let there be darkness | 33.00% | ~4,610 |
+| End of Book One | 31.00% | ~4,331 |
+| Wannabe knight | 24.00% | ~3,353 |
+| Garden of Eden | 24.00% | ~3,353 |
+| Full house | 24.00% | ~3,353 |
 | Help an old friend | 22.00% | ~3,073 |
-| Two of us | 20.00% | ~2,793 |
+| Two of us | 20.00% | ~2,794 |
 | Negotiation skills | 19.00% | ~2,654 |
-| Workers' union | 18.00% | ~2,514 |
-| End of Book Two | 18.00% | ~2,514 |
-| Everything's in order | 17.00% | ~2,374 |
-| Jack was here! | 15.00% | ~2,095 |
-| Twist of Fate | 14.00% | ~1,955 |
-| Exterminator | 14.00% | ~1,955 |
+| Workers' union | 18.00% | ~2,515 |
+| End of Book Two | 18.00% | ~2,515 |
+| Everything's in order | 17.00% | ~2,375 |
+| Jack was here! | 15.00% | ~2,096 |
+| Twist of Fate | 14.00% | ~1,956 |
+| Exterminator | 14.00% | ~1,956 |
 | Whodunnit | 13.00% | ~1,816 |
-| Good midwife | 11.00% | ~1,536 |
-| Friar Tuck | 11.00% | ~1,536 |
-| First profit | 11.00% | ~1,536 |
+| Good midwife | 11.00% | ~1,537 |
+| Friar Tuck | 11.00% | ~1,537 |
+| First profit | 11.00% | ~1,537 |
 | Team player | 10.00% | ~1,397 |
 | Skilled merchant | 9.00% | ~1,257 |
 | Nothing but make-believe | 9.00% | ~1,257 |
@@ -35,7 +35,7 @@ Number of Ratings: 368  (23.09.2022)
 | The oath | 9.00% | ~1,257 |
 | The truth revealed | 9.00% | ~1,257 |
 | The End. | 9.00% | ~1,257 |
-| A cry for help | 8.00% | ~1,117 |
+| A cry for help | 8.00% | ~1,118 |
 | Silentium est aureum | 7.00% | ~978 |
 | Rebel without a cause | 6.00% | ~838 |
 | Staring contest champion | 5.00% | ~698 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~419 |
 | Boy of mystery | 2.00% | ~279 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,967 (Ranked 112)  
+Progressed: 13,970 (Ranked 112)  
 Completed: 105 (0.75%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 105 (0.75%) (Ranked 111)
 | 2023-07-15 | 13,923 | 105 |
 | 2023-07-16 | 13,941 | 105 |
 | 2023-07-17 | 13,965 | 105 |
-| 2023-07-18 | 13,967 | 105 |
+| 2023-07-18 | 13,970 | 105 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 293)  
 Sum: 188 (Ranked 366)  

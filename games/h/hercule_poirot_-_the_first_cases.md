@@ -19,36 +19,36 @@ Rating: 4.35 (Ranked 740)
 | The Altercation | 51.00% | ~202 |
 | Truth from Within | 49.00% | ~194 |
 | The Major | 48.00% | ~190 |
-| Comtesse Margaux de Vos | 45.00% | ~178 |
-| Curious and Beautiful | 44.00% | ~174 |
+| Comtesse Margaux de Vos | 46.00% | ~182 |
+| Curious and Beautiful | 45.00% | ~178 |
 | Jacqueline “Jackie” Conrad | 44.00% | ~174 |
 | The Interrogations | 44.00% | ~174 |
 | Well-acquainted | 42.00% | ~166 |
-| Zakariya Demir | 41.00% | ~162 |
+| Zakariya Demir | 42.00% | ~166 |
 | Well-read | 39.00% | ~154 |
 | Cassandra Van den Bosch | 38.00% | ~150 |
 | The Secret | 37.00% | ~147 |
 | Gedeon Demir | 35.00% | ~139 |
 | Rehana Piette | 34.00% | ~135 |
 | Instinct is Marvellous | 33.00% | ~131 |
-| Ernesto da Silva | 32.00% | ~127 |
+| Ernesto da Silva | 33.00% | ~131 |
 | Inge Frank | 31.00% | ~123 |
+| Hugo Beckers | 30.00% | ~119 |
 | The Search | 30.00% | ~119 |
-| Hugo Beckers | 29.00% | ~115 |
 | The Family | 27.00% | ~107 |
 | Well-travelled | 26.00% | ~103 |
 | Thinking of Everything | 26.00% | ~103 |
-| Exquisite Artwork | 25.00% | ~99 |
-| Viscount Edwin Van den Bosch | 25.00% | ~99 |
-| Archibald Sterling | 24.00% | ~95 |
+| Exquisite Artwork | 26.00% | ~103 |
+| Viscount Edwin Van den Bosch | 26.00% | ~103 |
+| Archibald Sterling | 25.00% | ~99 |
 | Well-prepared | 21.00% | ~83 |
-| The Truth | 20.00% | ~79 |
-| Sunken Secrets | 18.00% | ~71 |
+| The Truth | 21.00% | ~83 |
+| Sunken Secrets | 19.00% | ~75 |
 | What Else Did I Miss? | 18.00% | ~71 |
 | I Like an Audience | 18.00% | ~71 |
 | The Denouement | 17.00% | ~67 |
 | Probably the Greatest Detective in the World | 13.00% | ~51 |
-| Take a Break | 11.00% | ~44 |
+| Take a Break | 12.00% | ~48 |
 | Room with a View | 8.00% | ~32 |
 | Work-life Balance | 3.00% | ~12 |
 ## Popularity (Based on EOS Achievements)

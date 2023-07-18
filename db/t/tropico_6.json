@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 276,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1008,7 +1008,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4130,
+  "EOS_Progressed": 4131,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
@@ -6213,6 +6213,11 @@
       "Time": "2023-07-18T00:05:30.9975572+00:00",
       "NumProgressed": 4130,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-18T02:35:56.3529694+00:00",
+      "NumProgressed": 4131,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -6272,7 +6277,7 @@
       "Name": "Viva Tropico!",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ACH_EP_BETTERREDTHANDEAD",
@@ -6320,7 +6325,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1858
+      "UsersEstimate": 1859
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -6376,7 +6381,7 @@
       "Name": "The Governator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -6384,7 +6389,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3139
+      "UsersEstimate": 3140
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -6480,7 +6485,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1982
+      "UsersEstimate": 1983
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -6520,7 +6525,7 @@
       "Name": "Fairy Tale Come True",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ACH_WONDER_FRENCHCONNECTION",
@@ -6543,15 +6548,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4130,
+      "Progressed": 4131,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-09T22:00:42.3216597+00:00",
-  "LastChanged_Achievements": "2023-07-18T00:05:30.9975566+00:00",
+  "LastChanged_Achievements": "2023-07-18T02:35:56.3529684+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:16.0436214+00:00",
-  "LastUpdate_Ratings": "2023-07-18T00:01:01.1753637+00:00",
-  "LastUpdate_Achievements": "2023-07-18T00:05:30.9976054+00:00"
+  "LastUpdate_Ratings": "2023-07-18T02:31:30.1653312+00:00",
+  "LastUpdate_Achievements": "2023-07-18T02:35:56.3530455+00:00"
 }

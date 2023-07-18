@@ -6,25 +6,25 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~595 |
+| Cabin boy | 81.00% | ~596 |
 | My little farm | 65.00% | ~478 |
-| Every beginning is difficult | 62.00% | ~456 |
+| Every beginning is difficult | 63.00% | ~464 |
 | 3, 2, 1, mine | 56.00% | ~412 |
 | Gofer | 56.00% | ~412 |
 | Seafarer | 54.00% | ~397 |
 | O Captain! My Captain! | 54.00% | ~397 |
-| Greed for gold | 44.00% | ~323 |
+| Greed for gold | 43.00% | ~316 |
 | Intangible | 42.00% | ~309 |
 | I'm out of here for a while | 42.00% | ~309 |
-| In a mint condition | 38.00% | ~279 |
+| In a mint condition | 38.00% | ~280 |
 | Licence to Kill | 36.00% | ~265 |
-| Pirates! | 35.00% | ~257 |
+| Pirates! | 35.00% | ~258 |
 | Megalomania | 29.00% | ~213 |
 | Collectionitis | 28.00% | ~206 |
-| Christening | 27.00% | ~198 |
+| Christening | 26.00% | ~191 |
 | Groundskeeper | 26.00% | ~191 |
 | Wholesale | 22.00% | ~162 |
-| Walk the plank | 21.00% | ~154 |
+| Walk the plank | 21.00% | ~155 |
 | Pearly gates | 18.00% | ~132 |
 | My precious! | 17.00% | ~125 |
 | Conquistador | 14.00% | ~103 |
@@ -34,7 +34,7 @@ Number of Ratings: 53  (23.09.2022)
 | All mine! | 8.00% | ~59 |
 | Paths of Glory | 8.00% | ~59 |
 | Panel of experts | 8.00% | ~59 |
-| Maker | 7.00% | ~51 |
+| Maker | 7.00% | ~52 |
 | Conglomerate | 6.00% | ~44 |
 | Buccaneer | 5.00% | ~37 |
 | Flying Dutchman | 5.00% | ~37 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Fleet Admiral | 0.50% | ~4 |
 | Davy Jones' locker | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 735 (Ranked 200)  
+Progressed: 736 (Ranked 200)  
 Completed: 1 (0.14%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,6 +136,7 @@ Completed: 1 (0.14%) (Ranked 177)
 | 2023-07-14 | 732 | 1 |
 | 2023-07-15 | 733 | 1 |
 | 2023-07-17 | 735 | 1 |
+| 2023-07-18 | 736 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

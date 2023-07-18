@@ -45,11 +45,11 @@ Number of Ratings: 2,536  (23.09.2022)
 | Trailing Sectors | 2.00% | ~998 |
 | The Arkanis Sector | 2.00% | ~998 |
 | ''Power! Unlimited power!'' | 2.00% | ~998 |
+| ''You needn't worry about your reward'' | 2.00% | ~998 |
 | ''Now I am the Master'' | 2.00% | ~998 |
 | ''A little short for a Stormtrooper...'' | 1.00% | ~499 |
 | ''Jedi Business'' | 1.00% | ~499 |
 | ''No more training, do you require'' | 1.00% | ~499 |
-| ''You needn't worry about your reward'' | 1.00% | ~499 |
 | ''I've never seen a real one!'' | 0.90% | ~449 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 49,897 (Ranked 87)  

@@ -8,13 +8,13 @@ Number of Ratings: 177  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Friend in Need... | 3.00% | ~173 |
 | Smooth Operator: Madison | 3.00% | ~173 |
+| The Brahdyssey | 2.00% | ~115 |
 | Caught in the Act | 2.00% | ~115 |
 | Katherine | 2.00% | ~115 |
+| Relentless | 2.00% | ~115 |
 | If at First You Don't Succeed... | 2.00% | ~115 |
-| The Brahdyssey | 1.00% | ~58 |
 | Drunk and Disorderly: Stephanie | 1.00% | ~58 |
 | Life Found a Way | 1.00% | ~28 |
-| Relentless | 1.00% | ~58 |
 | Drunk and Disorderly: Ashley | 0.70% | ~40 |
 | IRL Let's Player | 0.70% | ~40 |
 | Newcomer: Vickie | 0.70% | ~40 |
@@ -33,6 +33,7 @@ Number of Ratings: 177  (23.09.2022)
 | Vickie | 0.40% | ~23 |
 | Ashley | 0.30% | ~17 |
 | Benedict Brahrnold | 0.30% | ~17 |
+| Love Conquers All | 0.30% | ~17 |
 | Now It's a Party! | 0.30% | ~17 |
 | Rachael | 0.30% | ~17 |
 | Good Ol' Days | 0.30% | ~17 |
@@ -43,7 +44,6 @@ Number of Ratings: 177  (23.09.2022)
 | Drunk and Disorderly: Madison | 0.20% | ~12 |
 | Do Not Burn | 0.20% | ~12 |
 | The Harder They Fall...Dood | 0.20% | ~12 |
-| Love Conquers All | 0.20% | ~12 |
 | Rule 34 | 0.20% | ~12 |
 | A Striking Resemblance | 0.20% | ~12 |
 | The Muse: Derek | 0.20% | ~12 |

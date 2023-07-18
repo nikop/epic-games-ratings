@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 102,
-  "Ranking_EOS_NewPlayers": 29,
+  "Ranking_EOS_NewPlayers": 30,
   "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5056,9 +5056,9 @@
       "Count": 3303
     }
   ],
-  "EOS_Progressed": 212869,
+  "EOS_Progressed": 212903,
   "EOS_Completed": 2057,
-  "EOS_NewPlayers": 2981,
+  "EOS_NewPlayers": 2975,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -14506,6 +14506,11 @@
       "Time": "2023-07-18T00:06:17.4530625+00:00",
       "NumProgressed": 212869,
       "NumCompleted": 2057
+    },
+    {
+      "Time": "2023-07-18T02:36:50.4672774+00:00",
+      "NumProgressed": 212903,
+      "NumCompleted": 2057
     }
   ],
   "TotalAchievements": 507,
@@ -16189,7 +16194,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "objective_completed_34",
@@ -17661,7 +17666,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "objective_completed_70",
@@ -17739,9 +17744,9 @@
       "ID": "objective_completed_80",
       "SetID": "cc37lbc",
       "Name": "Overdue Rendezvous",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 426
+      "UsersEstimate": 639
     },
     {
       "ID": "objective_completed_802",
@@ -18572,21 +18577,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 179143,
+      "Progressed": 179177,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 212869,
+      "Progressed": 212903,
       "Completed": 2057
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-17T19:58:21.1664126+00:00",
-  "LastChanged_Achievements": "2023-07-18T00:06:17.453062+00:00",
+  "LastChanged_Achievements": "2023-07-18T02:36:50.4672767+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:48.5227447+00:00",
-  "LastUpdate_Ratings": "2023-07-17T23:58:34.2455102+00:00",
-  "LastUpdate_Achievements": "2023-07-18T00:06:17.4553982+00:00"
+  "LastUpdate_Ratings": "2023-07-18T02:28:39.5382008+00:00",
+  "LastUpdate_Achievements": "2023-07-18T02:36:50.4706136+00:00"
 }

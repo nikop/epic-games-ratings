@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 11,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -1968,9 +1968,9 @@
       "ID": "LEVEL_018",
       "SetID": "3khpmem",
       "Name": "Le jardin magnifique",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 77
     },
     {
       "ID": "LEVEL_019",
@@ -2017,8 +2017,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-07-18T00:02:32.4567224+00:00",
+  "LastChanged_Achievements": "2023-07-18T02:32:43.9709064+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:43.4679377+00:00",
-  "LastUpdate_Ratings": "2023-07-17T23:58:29.7808731+00:00",
-  "LastUpdate_Achievements": "2023-07-18T00:02:32.4567425+00:00"
+  "LastUpdate_Ratings": "2023-07-18T02:28:33.4681246+00:00",
+  "LastUpdate_Achievements": "2023-07-18T02:32:43.9709361+00:00"
 }

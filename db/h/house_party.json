@@ -358,7 +358,7 @@
   "Tags": [],
   "EOS_Progressed": 5751,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3446,9 +3446,9 @@
       "ID": "Brahdyssey",
       "SetID": "bmkn7o4",
       "Name": "The Brahdyssey",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 115
     },
     {
       "ID": "Bride",
@@ -3662,9 +3662,9 @@
       "ID": "LCA",
       "SetID": "bmkn7o4",
       "Name": "Love Conquers All",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 17
     },
     {
       "ID": "LifeFoundAWay",
@@ -3710,9 +3710,9 @@
       "ID": "Pat_Relentless",
       "SetID": "bmkn7o4",
       "Name": "Relentless",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 115
     },
     {
       "ID": "Penguinfucker",
@@ -3956,8 +3956,8 @@
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-03-31T05:57:11.1498515+00:00",
-  "LastChanged_Achievements": "2023-07-18T00:06:15.2494625+00:00",
+  "LastChanged_Achievements": "2023-07-18T02:36:47.5107393+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:13.6474836+00:00",
-  "LastUpdate_Ratings": "2023-07-17T23:57:41.5275322+00:00",
-  "LastUpdate_Achievements": "2023-07-18T00:06:15.2495336+00:00"
+  "LastUpdate_Ratings": "2023-07-18T02:27:28.5660334+00:00",
+  "LastUpdate_Achievements": "2023-07-18T02:36:47.5108386+00:00"
 }

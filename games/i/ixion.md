@@ -20,8 +20,8 @@ Rating: 4.56 (Ranked 457)
 | Hope Seeker | 9.00% | ~255 |
 | Exceeding Capacity | 8.00% | ~227 |
 | Breaking Protocol | 8.00% | ~227 |
-| A Hunk of Junk | 7.00% | ~198 |
-| Man's Best Friend | 5.00% | ~142 |
+| A Hunk of Junk | 7.00% | ~199 |
+| Man's Best Friend | 6.00% | ~170 |
 | Sightseeing | 5.00% | ~142 |
 | Power Outage | 5.00% | ~142 |
 | Convenient Transport | 5.00% | ~142 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 457)
 | This is Fine | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,835 (Ranked 155)  
+Progressed: 2,836 (Ranked 155)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-15 | 2,824 | 0 |
 | 2023-07-16 | 2,829 | 0 |
 | 2023-07-17 | 2,834 | 0 |
-| 2023-07-18 | 2,835 | 0 |
+| 2023-07-18 | 2,836 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

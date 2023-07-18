@@ -6,8 +6,8 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 0.40% | ~851 |
-| The Mad Wizard | 0.40% | ~851 |
+| The Cursed Farmer | 0.40% | ~852 |
+| The Mad Wizard | 0.40% | ~852 |
 | The Ring of Regeneration | 0.30% | ~639 |
 | The Crumbling Temple | 0.30% | ~639 |
 | Seeking Allies | 0.30% | ~639 |
@@ -19,6 +19,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Waterdeep Detours | 0.30% | ~639 |
 | Underdeep Cartography | 0.30% | ~639 |
 | Friendly Imps | 0.30% | ~639 |
+| Overdue Rendezvous | 0.30% | ~639 |
 | Pure Energy | 0.30% | ~639 |
 | Trollskull Manor | 0.20% | ~426 |
 | The Death Curse | 0.20% | ~426 |
@@ -36,7 +37,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lost in the Deep | 0.20% | ~426 |
 | Easily Distracted | 0.20% | ~426 |
 | Rude Welcome | 0.20% | ~426 |
-| Overdue Rendezvous | 0.20% | ~426 |
 | Durable Deep | 0.20% | ~426 |
 | The Templar's Camp | 0.20% | ~426 |
 | Rescue in the Jungle | 0.20% | ~426 |
@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212,869 (Ranked 53)  
+Progressed: 212,903 (Ranked 53)  
 Completed: 2,057 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -603,7 +603,7 @@ Completed: 2,057 (0.97%) (Ranked 102)
 | 2023-07-15 | 212,014 | 2,053 |
 | 2023-07-16 | 212,501 | 2,055 |
 | 2023-07-17 | 212,861 | 2,057 |
-| 2023-07-18 | 212,869 | 2,057 |
+| 2023-07-18 | 212,903 | 2,057 |
 ## Awards
 Max (Diverse Characters): 5,041  (Ranked 66)  
 Sum: 30,562 (Ranked 38)  
