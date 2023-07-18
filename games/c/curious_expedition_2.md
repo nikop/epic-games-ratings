@@ -6,7 +6,7 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 60.00% | ~191 |
+| The Adventure Begins | 61.00% | ~195 |
 | Cartographer | 54.00% | ~172 |
 | A Strange Artefact | 50.00% | ~160 |
 | Insomnia | 45.00% | ~144 |
@@ -23,7 +23,7 @@ Number of Ratings: 20  (23.09.2022)
 | Traveller | 24.00% | ~77 |
 | Uncertain Loyalties | 24.00% | ~77 |
 | Nahua Seeker | 23.00% | ~73 |
-| Roll to Save | 21.00% | ~67 |
+| Roll to Save | 22.00% | ~70 |
 | Red Flag Pirate | 19.00% | ~61 |
 | Veteran Explorer | 19.00% | ~61 |
 | Iron Man | 17.00% | ~54 |
@@ -31,10 +31,10 @@ Number of Ratings: 20  (23.09.2022)
 | Shortening of the Way | 15.00% | ~48 |
 | A Gentle Beast | 15.00% | ~48 |
 | Practical Palaeontology | 15.00% | ~48 |
+| The New Director | 14.00% | ~45 |
+| Adventurer | 14.00% | ~45 |
 | Dapper | 14.00% | ~45 |
-| The New Director | 13.00% | ~41 |
 | The Director is Dead | 13.00% | ~41 |
-| Adventurer | 13.00% | ~41 |
 | Discovery | 13.00% | ~41 |
 | Plays Well With Others | 13.00% | ~41 |
 | And Here Is Your Statue | 12.00% | ~38 |

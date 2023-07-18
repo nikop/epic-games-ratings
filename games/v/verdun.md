@@ -1,33 +1,33 @@
 # Verdun
 [Store](https://store.epicgames.com/en-US/p/verdun)  
 [View Rawdata](../../db/v/verdun.json)  
-Rating: 4.52 (Ranked 519)  
+Rating: 4.52 (Ranked 520)  
 Number of Ratings: 1,999  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~39,908 |
-| Worth it | 63.00% | ~32,652 |
-| Eagle Eye | 55.00% | ~28,505 |
-| Corpseman I | 40.00% | ~20,731 |
-| Blast fishing | 37.00% | ~19,176 |
-| Not alone | 32.00% | ~16,585 |
-| Headhunter I | 26.00% | ~13,475 |
-| Manual Labour I | 25.00% | ~12,957 |
-| Developers, Developers, Developers | 24.00% | ~12,439 |
-| Basic Training | 24.00% | ~12,439 |
+| Setting an example | 77.00% | ~39,911 |
+| Worth it | 63.00% | ~32,655 |
+| Eagle Eye | 55.00% | ~28,508 |
+| Corpseman I | 40.00% | ~20,733 |
+| Blast fishing | 37.00% | ~19,178 |
+| Not alone | 32.00% | ~16,587 |
+| Headhunter I | 26.00% | ~13,477 |
+| Manual Labour I | 25.00% | ~12,958 |
+| Developers, Developers, Developers | 24.00% | ~12,440 |
+| Basic Training | 24.00% | ~12,440 |
 | Furchtlos und Treu | 13.00% | ~6,738 |
-| Gott Mit Uns | 12.00% | ~6,219 |
+| Gott Mit Uns | 12.00% | ~6,220 |
 | This We'll Defend! | 9.00% | ~4,665 |
 | Anker wirf! | 9.00% | ~4,665 |
 | Providentiea Memor | 9.00% | ~4,665 |
 | For King and Country | 9.00% | ~4,665 |
-| Battle hardened | 8.00% | ~4,146 |
+| Battle hardened | 8.00% | ~4,147 |
 | Semper Fidelis! | 7.00% | ~3,628 |
 | Honneur et Patrie | 7.00% | ~3,628 |
-| In Treue Fest | 5.00% | ~2,591 |
-| Voor De Koning | 5.00% | ~2,591 |
-| Extreme Headhunter | 5.00% | ~2,591 |
+| In Treue Fest | 5.00% | ~2,592 |
+| Voor De Koning | 5.00% | ~2,592 |
+| Extreme Headhunter | 5.00% | ~2,592 |
 | Advance Australia | 4.00% | ~2,073 |
 | We Stand on Guard | 4.00% | ~2,073 |
 | Sidi Brahim | 4.00% | ~2,073 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~52 |
 | Blood Brother | 0.10% | ~52 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,828 (Ranked 86)  
+Progressed: 51,833 (Ranked 86)  
 Completed: 4 (0.01%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 4 (0.01%) (Ranked 224)
 | 2023-07-15 | 51,436 | 4 |
 | 2023-07-16 | 51,571 | 4 |
 | 2023-07-17 | 51,706 | 4 |
-| 2023-07-18 | 51,828 | 4 |
+| 2023-07-18 | 51,833 | 4 |
 ## Awards
 Max (Highly Recommended): 95  (Ranked 338)  
 Sum: 757 (Ranked 262)  

@@ -4,8 +4,8 @@
   "ProductSlug": "outliver-tribulations-679884",
   "Ranking_EOS_Progress": 441,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-07-18T15:00:00+00:00",
     "PcReleaseDate": "2023-07-18T15:00:00+00:00",
@@ -68,9 +68,9 @@
       "ID": "ACH_DEFEAT_OMOTOKE",
       "SetID": "7m06add",
       "Name": "Omotoke",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_DEFEAT_SANGODELE",
@@ -218,8 +218,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-01T13:14:13.8674761+00:00",
-  "LastChanged_Achievements": "2023-07-18T22:02:36.0594248+00:00",
+  "LastChanged_Achievements": "2023-07-18T23:03:33.7700931+00:00",
   "LastUpdate_AppInfo": "2023-07-14T13:57:07.8499913+00:00",
-  "LastUpdate_Ratings": "2023-07-18T21:57:17.4378411+00:00",
-  "LastUpdate_Achievements": "2023-07-18T22:02:36.0594636+00:00"
+  "LastUpdate_Ratings": "2023-07-18T22:57:16.8015655+00:00",
+  "LastUpdate_Achievements": "2023-07-18T23:03:33.7701079+00:00"
 }

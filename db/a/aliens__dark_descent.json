@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -148,9 +148,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2959,
+  "EOS_Progressed": 2960,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2818,6 +2818,11 @@
       "Time": "2023-07-18T21:07:43.3665089+00:00",
       "NumProgressed": 2959,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-18T23:08:55.2819455+00:00",
+      "NumProgressed": 2960,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2845,7 +2850,7 @@
       "Name": "One For Every Occasion",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "ACH_ALL_XENO_TECHS",
@@ -2869,7 +2874,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1420
+      "UsersEstimate": 1421
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -2877,7 +2882,7 @@
       "Name": "Omelette Du Fromage",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -2925,7 +2930,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2160
+      "UsersEstimate": 2161
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -2933,7 +2938,7 @@
       "Name": "Regicide",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "ACH_KILL_UNDETECTED",
@@ -2941,7 +2946,7 @@
       "Name": "Call Me Snake",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1775
+      "UsersEstimate": 1776
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -2949,7 +2954,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 1953
+      "UsersEstimate": 1954
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -3005,7 +3010,7 @@
       "Name": "Come on, You Wanna Live Forever?",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "ACH_MAX_TECKER",
@@ -3077,7 +3082,7 @@
       "Name": "Deep Into Insanity",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "ACH_MISSION_09",
@@ -3085,7 +3090,7 @@
       "Name": "The Passenger",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "ACH_MISSION_10",
@@ -3133,7 +3138,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 2397
+      "UsersEstimate": 2398
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -3149,7 +3154,7 @@
       "Name": "People Person",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 1568
+      "UsersEstimate": 1569
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -3188,7 +3193,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 2959,
+      "Progressed": 2960,
       "Completed": 0
     }
   ],
@@ -3196,8 +3201,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-17T17:00:33.2796025+00:00",
-  "LastChanged_Achievements": "2023-07-18T22:08:01.7034403+00:00",
+  "LastChanged_Achievements": "2023-07-18T23:08:55.2819449+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:18.2957495+00:00",
-  "LastUpdate_Ratings": "2023-07-18T22:00:47.2087865+00:00",
-  "LastUpdate_Achievements": "2023-07-18T22:08:01.7034924+00:00"
+  "LastUpdate_Ratings": "2023-07-18T23:01:23.9346173+00:00",
+  "LastUpdate_Achievements": "2023-07-18T23:08:55.2820338+00:00"
 }

@@ -24,13 +24,13 @@ Number of Ratings: 177  (23.09.2022)
 | It Smells Like Roses | 0.50% | ~14 |
 | Smooth Operator: Ashley | 0.50% | ~29 |
 | The Muse: Madison | 0.50% | ~29 |
+| The Crush | 0.50% | ~29 |
 | The Magic Number | 0.50% | ~29 |
+| Vickie | 0.50% | ~29 |
 | Amy: Scavenger Hunt | 0.40% | ~23 |
 | I'll Be Back | 0.40% | ~23 |
 | Casanova | 0.40% | ~23 |
 | Stephanie | 0.40% | ~23 |
-| The Crush | 0.40% | ~23 |
-| Vickie | 0.40% | ~23 |
 | Ashley | 0.30% | ~17 |
 | Benedict Brahrnold | 0.30% | ~17 |
 | Love Conquers All | 0.30% | ~17 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | Sucker Punch | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,754 (Ranked 133)  
+Progressed: 5,755 (Ranked 133)  
 Completed: 3 (0.05%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 3 (0.05%) (Ranked 202)
 | 2023-07-15 | 5,743 | 3 |
 | 2023-07-16 | 5,744 | 3 |
 | 2023-07-17 | 5,751 | 3 |
-| 2023-07-18 | 5,754 | 3 |
+| 2023-07-18 | 5,755 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

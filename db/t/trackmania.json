@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 47,
   "Ranking_EOS_Progress": 497,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2020-07-01T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -7749,10 +7749,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 25315,
       "NumberOfAwardsMax": 2988
+    },
+    {
+      "Time": "2023-07-18T22:59:38.9650447+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 25319,
+      "NumberOfAwardsMax": 2988
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 25315,
+  "NumberOfAwards": 25319,
   "NumberOfAwardsMax": 2988,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -7808,7 +7814,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 2068
+      "Count": 2072
     },
     {
       "Text": "This game has Challenging Combat",
@@ -7840,8 +7846,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2023-07-18T20:59:02.4707146+00:00",
+  "LastChanged": "2023-07-18T22:59:38.9650441+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:05.4275151+00:00",
-  "LastUpdate_Ratings": "2023-07-18T21:59:13.3667787+00:00",
-  "LastUpdate_Achievements": "2023-07-18T22:05:57.3595865+00:00"
+  "LastUpdate_Ratings": "2023-07-18T22:59:38.9650457+00:00",
+  "LastUpdate_Achievements": "2023-07-18T23:06:41.9642868+00:00"
 }

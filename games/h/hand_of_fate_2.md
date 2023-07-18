@@ -6,9 +6,9 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~474,839 |
-| Apprentice | 58.00% | ~382,509 |
-| Close Shave | 25.00% | ~164,875 |
+| The Fool | 72.00% | ~474,841 |
+| Apprentice | 58.00% | ~382,511 |
+| Close Shave | 25.00% | ~164,876 |
 | Mercenary | 23.00% | ~151,685 |
 | Ninja | 23.00% | ~151,685 |
 | Northern Scourge | 17.00% | ~112,115 |
@@ -39,23 +39,23 @@ Number of Ratings: 780  (23.09.2022)
 | Cursed Soul | 1.00% | ~6,595 |
 | Champion | 1.00% | ~6,595 |
 | Final Death | 1.00% | ~6,595 |
-| Thomas' Bane | 0.90% | ~5,935 |
+| Thomas' Bane | 0.90% | ~5,936 |
 | Ally | 0.80% | ~5,276 |
-| Gamester | 0.70% | ~4,616 |
+| Gamester | 0.70% | ~4,617 |
 | Hero | 0.60% | ~3,957 |
 | Rebel | 0.60% | ~3,957 |
-| Dungeon Master | 0.50% | ~3,297 |
+| Dungeon Master | 0.50% | ~3,298 |
 | Pilgrim | 0.40% | ~2,638 |
 | Smiths Honour | 0.40% | ~2,638 |
-| Peaceful Coast | 0.30% | ~1,978 |
+| Peaceful Coast | 0.30% | ~1,979 |
 | Money Bags | 0.20% | ~1,319 |
-| Grifter | 0.10% | ~659 |
-| Unburdened | 0.10% | ~659 |
-| Karma | 0.10% | ~659 |
-| Miracle | 0.10% | ~659 |
-| Blood Pact | 0.10% | ~659 |
+| Grifter | 0.10% | ~660 |
+| Unburdened | 0.10% | ~660 |
+| Karma | 0.10% | ~660 |
+| Miracle | 0.10% | ~660 |
+| Blood Pact | 0.10% | ~660 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 659,499 (Ranked 22)  
+Progressed: 659,502 (Ranked 22)  
 Completed: 166 (0.03%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 166 (0.03%) (Ranked 210)
 | 2023-07-15 | 659,342 | 165 |
 | 2023-07-16 | 659,389 | 165 |
 | 2023-07-17 | 659,448 | 165 |
-| 2023-07-18 | 659,499 | 166 |
+| 2023-07-18 | 659,502 | 166 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 435)  
 Sum: 180 (Ranked 373)  

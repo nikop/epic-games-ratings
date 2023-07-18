@@ -23,7 +23,7 @@ Number of Ratings: 22  (23.09.2022)
 | Bar Brawler | 14.00% | ~63 |
 | Flawless Presentation | 14.00% | ~63 |
 | One More Thing... | 13.00% | ~59 |
-| King of District 2 | 12.00% | ~54 |
+| King of District 2 | 13.00% | ~59 |
 | Time Travel! | 11.00% | ~50 |
 | Marketing Manager | 10.00% | ~45 |
 | Circus Versus Circus | 8.00% | ~36 |

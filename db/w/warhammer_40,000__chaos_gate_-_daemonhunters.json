@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -606,9 +606,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2974,
+  "EOS_Progressed": 2975,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2266,6 +2266,11 @@
       "Time": "2023-07-18T16:03:59.0825737+00:00",
       "NumProgressed": 2974,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-18T23:04:28.8837278+00:00",
+      "NumProgressed": 2975,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2293,7 +2298,7 @@
       "Name": "Look Over There!",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 981
+      "UsersEstimate": 982
     },
     {
       "ID": "BloodAndIron",
@@ -2341,7 +2346,7 @@
       "Name": "Patron of Deimos",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "Dominus",
@@ -2389,7 +2394,7 @@
       "Name": "Fleetmaster",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ForTheMachineGod",
@@ -2477,7 +2482,7 @@
       "Name": "Exterminator",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "Kills_FriendlyFire",
@@ -2501,7 +2506,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 981
+      "UsersEstimate": 982
     },
     {
       "ID": "Kills_Streak",
@@ -2517,7 +2522,7 @@
       "Name": "Hands-On Research",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "KoramarCompleted",
@@ -2555,9 +2560,9 @@
       "ID": "MasterCraftLevel3_Ranged",
       "SetID": "3jha1np",
       "Name": "Gunmaster",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 327
+      "UsersEstimate": 357
     },
     {
       "ID": "MasterOfTheForge",
@@ -2661,7 +2666,7 @@
       "Name": "Only in Death",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "Preservationist",
@@ -2669,7 +2674,7 @@
       "Name": "Preservationist",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ReaperDefeated_Dolorus",
@@ -2677,7 +2682,7 @@
       "Name": "Engine Kill",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ReaperDefeated_Mortus",
@@ -2709,7 +2714,7 @@
       "Name": "Death Comes For All",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "SacristaCompleted",
@@ -2748,21 +2753,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2974,
+      "Progressed": 2975,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2974,
+      "Progressed": 2975,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-13T14:59:29.0223898+00:00",
-  "LastChanged_Achievements": "2023-07-18T22:03:43.3497171+00:00",
+  "LastChanged_Achievements": "2023-07-18T23:04:28.8837273+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:36.8896867+00:00",
-  "LastUpdate_Ratings": "2023-07-18T21:59:54.0805485+00:00",
-  "LastUpdate_Achievements": "2023-07-18T22:03:43.3497837+00:00"
+  "LastUpdate_Ratings": "2023-07-18T23:00:21.5325751+00:00",
+  "LastUpdate_Achievements": "2023-07-18T23:04:28.8837911+00:00"
 }

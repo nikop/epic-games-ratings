@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 113,
   "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1407,9 +1407,9 @@
       "ID": "5",
       "SetID": "n50no0",
       "Name": "An eye for an eye",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 80
     },
     {
       "ID": "6",
@@ -1455,8 +1455,8 @@
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-07-18T22:08:03.0604787+00:00",
+  "LastChanged_Achievements": "2023-07-18T23:08:56.7001838+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:26.9281564+00:00",
-  "LastUpdate_Ratings": "2023-07-18T22:00:55.7394749+00:00",
-  "LastUpdate_Achievements": "2023-07-18T22:08:03.0605065+00:00"
+  "LastUpdate_Ratings": "2023-07-18T23:01:35.0238634+00:00",
+  "LastUpdate_Achievements": "2023-07-18T23:08:56.70021+00:00"
 }

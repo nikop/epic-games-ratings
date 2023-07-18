@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1014,7 +1014,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4136,
+  "EOS_Progressed": 4137,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
@@ -6239,6 +6239,11 @@
       "Time": "2023-07-18T18:05:07.4891677+00:00",
       "NumProgressed": 4136,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-18T23:07:04.1521606+00:00",
+      "NumProgressed": 4137,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -6346,7 +6351,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1861
+      "UsersEstimate": 1862
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -6402,7 +6407,7 @@
       "Name": "The Governator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -6410,7 +6415,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3143
+      "UsersEstimate": 3144
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -6506,7 +6511,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1985
+      "UsersEstimate": 1986
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -6522,7 +6527,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1530
+      "UsersEstimate": 1531
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -6569,15 +6574,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4136,
+      "Progressed": 4137,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-18T14:02:20.1549528+00:00",
-  "LastChanged_Achievements": "2023-07-18T22:06:26.3986112+00:00",
+  "LastChanged_Achievements": "2023-07-18T23:07:04.1521601+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:16.0436214+00:00",
-  "LastUpdate_Ratings": "2023-07-18T22:01:58.2912534+00:00",
-  "LastUpdate_Achievements": "2023-07-18T22:06:26.3986738+00:00"
+  "LastUpdate_Ratings": "2023-07-18T23:02:48.7300162+00:00",
+  "LastUpdate_Achievements": "2023-07-18T23:07:04.1522485+00:00"
 }

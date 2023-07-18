@@ -7,7 +7,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Lawbringer | 37.00% | ~20,743 |
-| Landlord | 31.00% | ~17,379 |
+| Landlord | 31.00% | ~17,380 |
 | Bannerlord | 22.00% | ~12,334 |
 | Horde breaker | 22.00% | ~12,334 |
 | Lawmaker | 22.00% | ~12,334 |
@@ -16,7 +16,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | King Solomon | 16.00% | ~8,970 |
 | I can do it | 15.00% | ~8,409 |
 | Apple of my eye | 14.00% | ~7,849 |
-| God of the Arena | 12.00% | ~6,727 |
+| God of the Arena | 12.00% | ~6,728 |
 | Against all odds | 11.00% | ~6,167 |
 | Swordbearer | 10.00% | ~5,606 |
 | Duelist | 9.00% | ~5,046 |
@@ -27,17 +27,17 @@ Number of Ratings: 5,603  (23.09.2022)
 | Butterlord | 8.00% | ~4,485 |
 | Mastery | 7.00% | ~3,924 |
 | Know your enemy | 6.00% | ~3,364 |
-| Crowdfunded | 4.00% | ~2,242 |
-| Crush your enemies | 4.00% | ~2,242 |
-| My way | 4.00% | ~2,242 |
-| Veni vidi vici | 4.00% | ~2,242 |
+| Crowdfunded | 4.00% | ~2,243 |
+| Crush your enemies | 4.00% | ~2,243 |
+| My way | 4.00% | ~2,243 |
+| Veni vidi vici | 4.00% | ~2,243 |
 | Freedom! | 3.00% | ~1,682 |
 | Real Estate | 3.00% | ~1,682 |
 | Long live the Empire! | 2.00% | ~1,121 |
 | Entrepreneur | 1.00% | ~561 |
 | Supreme Emperor | 1.00% | ~561 |
-| Crackshot | 0.80% | ~448 |
-| Undercover | 0.80% | ~448 |
+| Crackshot | 0.80% | ~449 |
+| Undercover | 0.80% | ~449 |
 | Fat Cat | 0.60% | ~336 |
 | Catch | 0.50% | ~280 |
 | Slice 'n dice | 0.40% | ~224 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,062 (Ranked 83)  
+Progressed: 56,063 (Ranked 83)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-15 | 55,822 | 0 |
 | 2023-07-16 | 55,912 | 0 |
 | 2023-07-17 | 55,989 | 0 |
-| 2023-07-18 | 56,062 | 0 |
+| 2023-07-18 | 56,063 | 0 |
 ## Awards
 Max (Character Customization): 6,813  (Ranked 48)  
 Sum: 13,787 (Ranked 67)  

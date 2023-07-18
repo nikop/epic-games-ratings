@@ -1,7 +1,7 @@
 # LEGO® 2K Drive
 [Store](https://store.epicgames.com/en-US/p/lego-2k-drive)  
 [View Rawdata](../../db/l/lego®_2k_drive.json)  
-Rating: 4.62 (Ranked 346)  
+Rating: 4.63 (Ranked 331)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -18,3 +18,4 @@ Rating: 4.62 (Ranked 346)
 | 2023-07-06 | 4.66 | 0 | 0 |
 | 2023-07-12 | 4.60 | 0 | 0 |
 | 2023-07-15 | 4.62 | 0 | 0 |
+| 2023-07-18 | 4.63 | 0 | 0 |

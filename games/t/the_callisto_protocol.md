@@ -13,6 +13,7 @@ Rating: 4.19 (Ranked 847)
 | I Do Belong Here | 2.00% | ~315 |
 | Two Heads Are Better Than One | 2.00% | ~315 |
 | Chew 'Em Up | 2.00% | ~315 |
+| Terminated | 2.00% | ~315 |
 | Workplace Hazard | 2.00% | ~315 |
 | Float Like A Butterfly | 2.00% | ~315 |
 | Reforged | 2.00% | ~315 |
@@ -26,7 +27,6 @@ Rating: 4.19 (Ranked 847)
 | Power Up | 2.00% | ~315 |
 | It's Time | 2.00% | ~73 |
 | Giving Back | 1.00% | ~157 |
-| Terminated | 1.00% | ~157 |
 | The Commonality | 1.00% | ~157 |
 | Desperate Times | 1.00% | ~157 |
 | One Last Job | 1.00% | ~37 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 277,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -816,9 +816,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 6156,
+  "EOS_Progressed": 6157,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4131,6 +4131,11 @@
       "Time": "2023-07-18T18:05:55.5125778+00:00",
       "NumProgressed": 6156,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-18T23:08:23.5119344+00:00",
+      "NumProgressed": 6157,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -4174,7 +4179,7 @@
       "Name": "Commodity Trader",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1908
+      "UsersEstimate": 1909
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -4182,7 +4187,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 3878
+      "UsersEstimate": 3879
     },
     {
       "ID": "Control_All_Relics",
@@ -4206,7 +4211,7 @@
       "Name": "Xenocide",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2031
+      "UsersEstimate": 2032
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -4246,7 +4251,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 4863
+      "UsersEstimate": 4864
     },
     {
       "ID": "First_Race_Met",
@@ -4254,7 +4259,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4494
+      "UsersEstimate": 4495
     },
     {
       "ID": "First_Ship_Designed",
@@ -4262,7 +4267,7 @@
       "Name": "Design a Ship",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1785
+      "UsersEstimate": 1786
     },
     {
       "ID": "First_Stream_Travel",
@@ -4717,15 +4722,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6156,
+      "Progressed": 6157,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-07-12T23:57:59.1877062+00:00",
-  "LastChanged_Achievements": "2023-07-18T22:07:34.7449139+00:00",
+  "LastChanged_Achievements": "2023-07-18T23:08:23.5119337+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:23.5203079+00:00",
-  "LastUpdate_Ratings": "2023-07-18T21:58:09.0457962+00:00",
-  "LastUpdate_Achievements": "2023-07-18T22:07:34.745006+00:00"
+  "LastUpdate_Ratings": "2023-07-18T22:58:22.2967517+00:00",
+  "LastUpdate_Achievements": "2023-07-18T23:08:23.5120318+00:00"
 }

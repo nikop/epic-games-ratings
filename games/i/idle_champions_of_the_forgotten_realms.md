@@ -28,6 +28,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Contagious Curse | 0.10% | ~213 |
 | Dinosaur Racing | 0.10% | ~213 |
 | Elturel Has Fallen | 0.10% | ~213 |
+| Earthquake! | 0.10% | ~179 |
 | Resolve Amongst Chaos | 0.10% | ~213 |
 | All You Know Is Wrong | 0.10% | ~213 |
 | Market Fluctuations | 0.10% | ~213 |
@@ -45,17 +46,24 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Owlbear of an Undertaking | 0.10% | ~179 |
 | Déjà Vu | 0.10% | ~179 |
 | Wait, What? | 0.10% | ~179 |
+| Ireena von Zarovich | 0.10% | ~179 |
 | Déjà Vu All Over Again | 0.10% | ~179 |
 | Into The Fire | 0.10% | ~179 |
 | The Devil Arrives | 0.10% | ~179 |
 | Hearts Aflame | 0.10% | ~179 |
 | Dreamscape | 0.10% | ~179 |
+| Dream Gauntlet | 0.10% | ~179 |
+| Zombie Dreams | 0.10% | ~179 |
 | Look Out! | 0.10% | ~179 |
+| The Path of Redcaps | 0.10% | ~179 |
+| The Path of Trials | 0.10% | ~179 |
 | Bad Odds in Avernus | 0.10% | ~179 |
+| Zapper Overload | 0.10% | ~179 |
 | Best Friend Search Squad! | 0.10% | ~179 |
 | An Even Worse Time in Avernus | 0.10% | ~179 |
 | Alterdeep | 0.10% | ~179 |
 | Elder Rune Attack | 0.10% | ~179 |
+| The Gargoyle | 0.10% | ~179 |
 | Ulkoria's Escape from Alterdeep | 0.10% | ~179 |
 | The Wandering Emporium | 0.10% | ~179 |
 | Tiamat's Army | 0.10% | ~179 |
@@ -77,6 +85,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Giant-Size Adventure | 0.10% | ~179 |
 | Power of Three | 0.10% | ~179 |
 | The Everlasting Rime | 0.10% | ~179 |
+| Enemy Summit | 0.10% | ~179 |
+| Mirage Arcane | 0.10% | ~179 |
 | The Mad Wizard | 0.10% | ~213 |
 | Close Escort | 0.10% | ~213 |
 | Constant Banditry | 0.10% | ~213 |
@@ -88,27 +98,37 @@ Number of Ratings: 9,041  (23.09.2022)
 | Underdeep Cartography | 0.10% | ~213 |
 | Friendly Imps | 0.10% | ~213 |
 | Overdue Rendezvous | 0.10% | ~213 |
+| Moose Tracks | 0.10% | ~179 |
 | An Awakened Axe | 0.10% | ~179 |
+| Civilization | 0.10% | ~179 |
+| Trench Coat Run | 0.10% | ~179 |
 | Durable Deep | 0.10% | ~213 |
 | Lone Wolf Party | 0.10% | ~179 |
 | The Sibriex | 0.10% | ~179 |
 | The Archduke's Blessing | 0.10% | ~179 |
 | A Neutral Party | 0.10% | ~179 |
 | Wrecked Flying Fortress | 0.10% | ~179 |
+| Relentless Peril | 0.10% | ~179 |
 | Expert Opinion | 0.10% | ~213 |
+| Dwarven Rumors | 0.10% | ~179 |
 | Mimic Perception | 0.10% | ~179 |
 | Frozen in Fear | 0.10% | ~179 |
 | It's Cold Out There Today | 0.10% | ~179 |
 | Sunblight | 0.10% | ~179 |
+| Fortress Assault | 0.10% | ~179 |
 | The Bleeding Citadel | 0.10% | ~179 |
+| Don't Pick at the Scab | 0.10% | ~179 |
 | Idyllglen | 0.10% | ~179 |
 | The Madness of Yeenoghu | 0.10% | ~179 |
 | Reya Reborn | 0.10% | ~179 |
 | The Radiant Nightmare | 0.10% | ~179 |
+| Tough Acting | 0.10% | ~179 |
+| Witty Riposting | 0.10% | ~179 |
 | Waiting on Sunrise | 0.10% | ~179 |
 | Deekin's Mission | 0.10% | ~179 |
 | Fire and Ice | 0.10% | ~179 |
 | Frozen Vengeance | 0.10% | ~179 |
+| Mimic Vengeance | 0.10% | ~179 |
 | REALLY Frozen Vengeance | 0.10% | ~179 |
 | The Battle of High Hall Tower | 0.10% | ~179 |
 | Might Makes Right | 0.10% | ~179 |
@@ -437,50 +457,30 @@ Number of Ratings: 9,041  (23.09.2022)
 | Faerûn's Most Wanted | 0.00% | ~0 |
 | Vault of Pixies | 0.00% | ~0 |
 | Everything is Awful | 0.00% | ~0 |
-| Earthquake! | 0.00% | ~0 |
 | Hailstorm! | 0.00% | ~0 |
 | Shadow Stalkers | 0.00% | ~0 |
 | Avernus Frozen Over | 0.00% | ~0 |
 | Thrice More Into The Breach | 0.00% | ~0 |
-| Ireena von Zarovich | 0.00% | ~0 |
 | A Difficult Descent | 0.00% | ~0 |
-| Dream Gauntlet | 0.00% | ~0 |
-| Zombie Dreams | 0.00% | ~0 |
 | The Path of Dreams | 0.00% | ~0 |
-| The Path of Redcaps | 0.00% | ~0 |
-| The Path of Trials | 0.00% | ~0 |
 | The Lost Hollyphant | 0.00% | ~0 |
-| Zapper Overload | 0.00% | ~0 |
-| The Gargoyle | 0.00% | ~0 |
 | Madcap Adventures Redux | 0.00% | ~0 |
 | When the Going Gets Tough | 0.00% | ~0 |
 | Show of Strength | 0.00% | ~0 |
 | Prisoners of Lolth | 0.00% | ~0 |
-| Enemy Summit | 0.00% | ~0 |
-| Mirage Arcane | 0.00% | ~0 |
 | Only Human | 0.00% | ~0 |
-| Moose Tracks | 0.00% | ~0 |
 | CONtagious Cold | 0.00% | ~0 |
 | Ten in Ten-Towns | 0.00% | ~0 |
-| Civilization | 0.00% | ~0 |
-| Trench Coat Run | 0.00% | ~0 |
 | The Taunting Lord | 0.00% | ~0 |
-| Relentless Peril | 0.00% | ~0 |
 | Rickety Rubble | 0.00% | ~0 |
-| Dwarven Rumors | 0.00% | ~0 |
-| Fortress Assault | 0.00% | ~0 |
 | Hats off to you! | 0.00% | ~0 |
 | It's Cold Out There Every Day | 0.00% | ~0 |
-| Don't Pick at the Scab | 0.00% | ~0 |
 | Going To Eleven | 0.00% | ~0 |
 | Quick Thinking | 0.00% | ~0 |
-| Tough Acting | 0.00% | ~0 |
-| Witty Riposting | 0.00% | ~0 |
 | Frontline Fighters | 0.00% | ~0 |
 | A Chilling Encounter | 0.00% | ~0 |
 | How Far Away is Thay | 0.00% | ~0 |
 | Dive Bomb | 0.00% | ~0 |
-| Mimic Vengeance | 0.00% | ~0 |
 | The Stunning Tower Battle | 0.00% | ~0 |
 | Demons Here, Demons There | 0.00% | ~0 |
 | Stragglers | 0.00% | ~0 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.00% | ~0 |
 | Animated Giff | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213,199 (Ranked 53)  
+Progressed: 213,209 (Ranked 53)  
 Completed: 2,058 (0.97%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -608,7 +608,7 @@ Completed: 2,058 (0.97%) (Ranked 103)
 | 2023-07-15 | 212,014 | 2,053 |
 | 2023-07-16 | 212,501 | 2,055 |
 | 2023-07-17 | 212,861 | 2,057 |
-| 2023-07-18 | 213,199 | 2,058 |
+| 2023-07-18 | 213,209 | 2,058 |
 ## Awards
 Max (Diverse Characters): 5,041  (Ranked 66)  
 Sum: 30,573 (Ranked 38)  

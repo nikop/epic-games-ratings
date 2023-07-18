@@ -26,9 +26,9 @@ Number of Ratings: 38  (23.09.2022)
 | Unstoppable | 10.00% | ~133 |
 | Ain't no mountain high enough | 9.00% | ~119 |
 | Self-sustainability | 8.00% | ~106 |
+| An eye for an eye | 6.00% | ~80 |
 | Can't get wetter... | 5.00% | ~66 |
 | Spring cleaning | 5.00% | ~66 |
-| An eye for an eye | 5.00% | ~66 |
 | Second thoughts | 4.00% | ~53 |
 | Mooning the moon | 4.00% | ~53 |
 | Strip-a-bobble | 4.00% | ~53 |
