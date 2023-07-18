@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 73,
+  "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 227474,
+  "EOS_Progressed": 227475,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 564,
+  "EOS_NewPlayers": 563,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -9483,6 +9483,11 @@
       "Time": "2023-07-18T06:03:18.9718873+00:00",
       "NumProgressed": 227474,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-07-18T07:02:26.0494262+00:00",
+      "NumProgressed": 227475,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 34,
@@ -9630,7 +9635,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 75066
+      "UsersEstimate": 75067
     },
     {
       "ID": "NOBUNAGA",
@@ -9678,7 +9683,7 @@
       "Name": "PRO",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4549
+      "UsersEstimate": 4550
     },
     {
       "ID": "QAREEN",
@@ -9694,7 +9699,7 @@
       "Name": "RESPWND",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 4549
+      "UsersEstimate": 4550
     },
     {
       "ID": "SHINYSHINYGOLD",
@@ -9702,7 +9707,7 @@
       "Name": "SHINY SHINY GOLD",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4549
+      "UsersEstimate": 4550
     },
     {
       "ID": "SHOWOFF",
@@ -9758,22 +9763,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 93264
+      "UsersEstimate": 93265
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 227474,
+      "Progressed": 227475,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-07-18T06:03:18.9718865+00:00",
+  "LastChanged_Achievements": "2023-07-18T07:02:26.0494257+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:06.3319573+00:00",
-  "LastUpdate_Ratings": "2023-07-18T05:58:35.5328666+00:00",
-  "LastUpdate_Achievements": "2023-07-18T06:03:18.9719756+00:00"
+  "LastUpdate_Ratings": "2023-07-18T06:58:53.1919959+00:00",
+  "LastUpdate_Achievements": "2023-07-18T07:02:26.0494865+00:00"
 }

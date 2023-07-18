@@ -78,10 +78,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 66476,
-  "EOS_Completed": 639,
+  "EOS_Progressed": 66480,
+  "EOS_Completed": 640,
   "EOS_NewPlayers": 953,
-  "EOS_NewCompleters": 19,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.96,
   "EosHistory": [
     {
@@ -9688,6 +9688,11 @@
       "Time": "2023-07-18T06:06:24.1849165+00:00",
       "NumProgressed": 66476,
       "NumCompleted": 639
+    },
+    {
+      "Time": "2023-07-18T07:07:13.9728887+00:00",
+      "NumProgressed": 66480,
+      "NumCompleted": 640
     }
   ],
   "TotalAchievements": 25,
@@ -9731,7 +9736,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 14625
+      "UsersEstimate": 14626
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -9771,7 +9776,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 13295
+      "UsersEstimate": 13296
     },
     {
       "ID": "Hearty",
@@ -9803,7 +9808,7 @@
       "Name": "Master, Commander",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 13295
+      "UsersEstimate": 13296
     },
     {
       "ID": "Meaty",
@@ -9819,7 +9824,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12630
+      "UsersEstimate": 12631
     },
     {
       "ID": "Nice Try",
@@ -9827,7 +9832,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10636
+      "UsersEstimate": 10637
     },
     {
       "ID": "Nothing Left to Say",
@@ -9859,7 +9864,7 @@
       "Name": "Sniper",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4653
+      "UsersEstimate": 4654
     },
     {
       "ID": "Spicy",
@@ -9898,16 +9903,16 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 66476,
-      "Completed": 639
+      "Progressed": 66480,
+      "Completed": 640
     }
   ],
   "FirstSeen": "2022-07-22T20:27:11.1683553+00:00",
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-07-12T22:00:34.5799915+00:00",
-  "LastChanged_Achievements": "2023-07-18T06:06:24.184916+00:00",
+  "LastChanged_Achievements": "2023-07-18T07:07:13.9728881+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:36.9043448+00:00",
-  "LastUpdate_Ratings": "2023-07-18T06:00:39.0567481+00:00",
-  "LastUpdate_Achievements": "2023-07-18T06:06:24.18501+00:00"
+  "LastUpdate_Ratings": "2023-07-18T07:01:26.7084366+00:00",
+  "LastUpdate_Achievements": "2023-07-18T07:07:13.9729435+00:00"
 }

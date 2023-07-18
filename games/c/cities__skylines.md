@@ -6,32 +6,32 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~649,744 |
-| Green Energy | 60.00% | ~549,079 |
-| Foggy Weather | 59.00% | ~539,928 |
-| Singing In The- | 59.00% | ~539,928 |
-| Unpopular Mayor | 41.00% | ~375,204 |
-| Power at Your Fingertips | 33.00% | ~301,994 |
-| City Planner | 23.00% | ~210,480 |
-| Rolling in Dough | 20.00% | ~183,026 |
-| Does My Bum Look Big In This? | 17.00% | ~155,572 |
-| Climbing the Social Ladder | 16.00% | ~146,421 |
-| Safe City | 14.00% | ~128,118 |
-| Quay-King | 11.00% | ~100,665 |
-| Lawmaker | 10.00% | ~91,513 |
-| With Canals You Can! | 10.00% | ~91,513 |
-| Nomen Est Omen | 7.00% | ~64,059 |
-| Well Informed | 6.00% | ~54,908 |
-| Fire Watch | 5.00% | ~45,757 |
-| Greenest City | 4.00% | ~36,605 |
-| Heavenly City | 3.00% | ~27,454 |
-| Reporting! | 3.00% | ~27,454 |
-| SIMulated City | 3.00% | ~27,454 |
-| The Safest Town | 3.00% | ~27,454 |
-| Professional Dumper | 2.00% | ~18,303 |
-| City in Motion | 1.00% | ~9,151 |
-| Earthloving City | 1.00% | ~9,151 |
-| Metropolis | 1.00% | ~9,151 |
+| Pioneer | 71.00% | ~649,774 |
+| Green Energy | 60.00% | ~549,105 |
+| Foggy Weather | 59.00% | ~539,953 |
+| Singing In The- | 59.00% | ~539,953 |
+| Unpopular Mayor | 41.00% | ~375,222 |
+| Power at Your Fingertips | 33.00% | ~302,008 |
+| City Planner | 23.00% | ~210,490 |
+| Rolling in Dough | 20.00% | ~183,035 |
+| Does My Bum Look Big In This? | 17.00% | ~155,580 |
+| Climbing the Social Ladder | 16.00% | ~146,428 |
+| Safe City | 14.00% | ~128,125 |
+| Quay-King | 11.00% | ~100,669 |
+| Lawmaker | 10.00% | ~91,518 |
+| With Canals You Can! | 10.00% | ~91,518 |
+| Nomen Est Omen | 7.00% | ~64,062 |
+| Well Informed | 6.00% | ~54,910 |
+| Fire Watch | 5.00% | ~45,759 |
+| Greenest City | 4.00% | ~36,607 |
+| Heavenly City | 3.00% | ~27,455 |
+| Reporting! | 3.00% | ~27,455 |
+| SIMulated City | 3.00% | ~27,455 |
+| The Safest Town | 3.00% | ~27,455 |
+| Professional Dumper | 2.00% | ~18,304 |
+| City in Motion | 1.00% | ~9,152 |
+| Earthloving City | 1.00% | ~9,152 |
+| Metropolis | 1.00% | ~9,152 |
 | Higher Education | 0.80% | ~7,321 |
 | Beam Me Up | 0.70% | ~6,406 |
 | Full Capacity | 0.60% | ~5,491 |
@@ -51,14 +51,14 @@ Number of Ratings: 25,248  (23.09.2022)
 | Happy Town | 0.40% | ~3,661 |
 | I Want It All | 0.40% | ~3,661 |
 | Just Tolling | 0.40% | ~3,661 |
-| A Huge Hadron | 0.30% | ~2,745 |
-| Airport Architect | 0.30% | ~2,745 |
-| Are They Naked In There? | 0.30% | ~2,745 |
-| Friendly Teaching | 0.30% | ~2,745 |
-| Here's A Tram | 0.30% | ~2,745 |
-| Run, Bambi! | 0.30% | ~2,745 |
-| Short Fuse | 0.30% | ~2,745 |
-| We need snorkels! | 0.30% | ~2,745 |
+| A Huge Hadron | 0.30% | ~2,746 |
+| Airport Architect | 0.30% | ~2,746 |
+| Are They Naked In There? | 0.30% | ~2,746 |
+| Friendly Teaching | 0.30% | ~2,746 |
+| Here's A Tram | 0.30% | ~2,746 |
+| Run, Bambi! | 0.30% | ~2,746 |
+| Short Fuse | 0.30% | ~2,746 |
+| We need snorkels! | 0.30% | ~2,746 |
 | City in Motion 2 | 0.20% | ~1,830 |
 | Eternal City | 0.20% | ~1,830 |
 | It's Wintertime! | 0.20% | ~1,830 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~915 |
 | Z00 | 0.10% | ~915 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 915,132 (Ranked 13)  
+Progressed: 915,175 (Ranked 13)  
 Completed: 9 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,15 +215,15 @@ Completed: 9 (0.00%) (Ranked 236)
 | 2023-07-15 | 909,490 | 9 |
 | 2023-07-16 | 912,285 | 9 |
 | 2023-07-17 | 914,717 | 9 |
-| 2023-07-18 | 915,132 | 9 |
+| 2023-07-18 | 915,175 | 9 |
 ## Awards
-Max (Great for Beginners): 4,951  (Ranked 67)  
-Sum: 37,607 (Ranked 33)  
+Max (Relaxing): 4,954  (Ranked 67)  
+Sum: 37,616 (Ranked 33)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
+| This game is Relaxing | 4,954 |
 | This game is Great for Beginners | 4,951 |
-| This game is Relaxing | 4,945 |
 | This game has Quickly Understood Controls | 4,640 |
 | This game is Educational | 4,624 |
 | This game is Extremely Fun | 4,330 |
@@ -408,4 +408,4 @@ Diff (max vs sum): 34
 | 2023-07-15 | 4.65 | - | 4,940 | 37,513 |
 | 2023-07-16 | 4.65 | - | 4,940 | 37,551 |
 | 2023-07-17 | 4.65 | - | 4,945 | 37,601 |
-| 2023-07-18 | 4.65 | - | 4,951 | 37,607 |
+| 2023-07-18 | 4.65 | - | 4,954 | 37,616 |

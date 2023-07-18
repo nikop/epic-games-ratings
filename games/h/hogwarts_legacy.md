@@ -8,9 +8,9 @@ Rating: 4.77 (Ranked 109)
 | The Sort Who Makes an Entrance | 12.00% | ~34,550 |
 | First Class Student | 10.00% | ~28,792 |
 | Troll with the Punches | 10.00% | ~28,792 |
-| A Keen Sense of Spell | 9.00% | ~25,912 |
-| A Talent for Spending | 9.00% | ~25,912 |
-| That's a Keeper | 9.00% | ~25,912 |
+| A Keen Sense of Spell | 9.00% | ~25,913 |
+| A Talent for Spending | 9.00% | ~25,913 |
+| That's a Keeper | 9.00% | ~25,913 |
 | Grappling with a Graphorn | 8.00% | ~23,033 |
 | The One Who Mastered Memories | 8.00% | ~23,033 |
 | The Hallowed Hero | 8.00% | ~23,033 |
@@ -31,12 +31,12 @@ Rating: 4.77 (Ranked 109)
 | Third Time's a Charm | 5.00% | ~14,396 |
 | Raising Expectations | 5.00% | ~14,396 |
 | The Ends Petrify the Means | 4.00% | ~11,517 |
-| The Toast of the Town | 3.00% | ~8,637 |
-| Going Through the Potions | 3.00% | ~8,637 |
-| Room with a View | 3.00% | ~8,637 |
-| The Intrepid Explorer | 3.00% | ~8,637 |
-| The Gryffindor in the Graveyard | 3.00% | ~8,637 |
-| The Wise Owl | 3.00% | ~8,637 |
+| The Toast of the Town | 3.00% | ~8,638 |
+| Going Through the Potions | 3.00% | ~8,638 |
+| Room with a View | 3.00% | ~8,638 |
+| The Intrepid Explorer | 3.00% | ~8,638 |
+| The Gryffindor in the Graveyard | 3.00% | ~8,638 |
+| The Wise Owl | 3.00% | ~8,638 |
 | The Good Samaritan | 2.00% | ~5,758 |
 | Put Down Roots | 2.00% | ~5,758 |
 | The Auror's Apprentice | 2.00% | ~5,758 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.50% | ~1,440 |
 | Collector's Edition | 0.20% | ~576 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 287,915 (Ranked 41)  
+Progressed: 287,917 (Ranked 41)  
 Completed: 430 (0.15%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 430 (0.15%) (Ranked 173)
 | 2023-07-15 | 287,613 | 428 |
 | 2023-07-16 | 287,788 | 429 |
 | 2023-07-17 | 287,899 | 430 |
-| 2023-07-18 | 287,915 | 430 |
+| 2023-07-18 | 287,917 | 430 |
 ## Awards
 Max (Character Customization): 21,074  (Ranked 17)  
 Sum: 39,422 (Ranked 30)  

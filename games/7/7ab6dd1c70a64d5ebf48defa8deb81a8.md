@@ -10,10 +10,12 @@
 | Trinity | 5.00% | ~1 |
 | Essence Blow | 5.00% | ~1 |
 | Flawless Victory | 5.00% | ~1 |
+| Fashion Victim | 5.00% | ~1 |
 | To Battle | 0.00% | ~0 |
 | Godslayer | 0.00% | ~0 |
 | Clear Sight | 0.00% | ~0 |
 | A Taste of Wrath | 0.00% | ~0 |
+| The Mentor | 0.00% | ~0 |
 | Forgemaster | 0.00% | ~0 |
 | Shardbearer | 0.00% | ~0 |
 | Adventurer | 0.00% | ~0 |
@@ -26,7 +28,6 @@
 | Fine Feathers Make Fine Birds | 0.00% | ~0 |
 | Geared Up | 0.00% | ~0 |
 | All There Is | 0.00% | ~0 |
-| Fashion Victim | 0.00% | ~0 |
 | Scholar | 0.00% | ~0 |
 | False God | 0.00% | ~0 |
 | I Found It | 0.00% | ~0 |
@@ -36,7 +37,6 @@
 | The Collector | 0.00% | ~0 |
 | Feeling Fancy | 0.00% | ~0 |
 | Summiter | 0.00% | ~0 |
-| The Mentor | -5.30% | ~-1 |
 | Alchemist | -5.30% | ~-1 |
 | A Queen's Tale | -5.30% | ~-1 |
 ## Popularity (Based on EOS Achievements)

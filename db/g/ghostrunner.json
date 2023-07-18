@@ -984,9 +984,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12662,
+  "EOS_Progressed": 12663,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 521,
+  "EOS_NewPlayers": 519,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -10304,6 +10304,11 @@
       "Time": "2023-07-18T06:00:46.1234229+00:00",
       "NumProgressed": 12662,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-07-18T07:01:37.5170953+00:00",
+      "NumProgressed": 12663,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 45,
@@ -10323,7 +10328,7 @@
       "Name": "About Adam",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "ArtificialSelection",
@@ -10451,7 +10456,7 @@
       "Name": "Longrunner",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 9750
+      "UsersEstimate": 9751
     },
     {
       "ID": "MoreThanHuman",
@@ -10459,7 +10464,7 @@
       "Name": "More than human",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1519
+      "UsersEstimate": 1520
     },
     {
       "ID": "Neuromancer",
@@ -10467,7 +10472,7 @@
       "Name": "Control freak",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 3545
+      "UsersEstimate": 3546
     },
     {
       "ID": "ObedientMachine",
@@ -10507,7 +10512,7 @@
       "Name": "Perfection",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 4178
+      "UsersEstimate": 4179
     },
     {
       "ID": "PreempativeStrike",
@@ -10539,7 +10544,7 @@
       "Name": "Running out of breath",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 6964
+      "UsersEstimate": 6965
     },
     {
       "ID": "RunningWild",
@@ -10547,7 +10552,7 @@
       "Name": "Running Wild",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 3545
+      "UsersEstimate": 3546
     },
     {
       "ID": "Scrapped",
@@ -10555,7 +10560,7 @@
       "Name": "Scrapped",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "SticksAndStones",
@@ -10571,7 +10576,7 @@
       "Name": "Strafing Run",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "Strike",
@@ -10587,7 +10592,7 @@
       "Name": "Sword Runner",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 7977
+      "UsersEstimate": 7978
     },
     {
       "ID": "SwordToAGunfight",
@@ -10635,7 +10640,7 @@
       "Name": "Wallrunner",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 6964
+      "UsersEstimate": 6965
     },
     {
       "ID": "WaveOfMutilation",
@@ -10667,28 +10672,28 @@
       "Name": "Why not both",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 3925
+      "UsersEstimate": 3926
     }
   ],
   "AchievementSets": [
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 12662,
+      "Progressed": 12663,
       "Completed": 28
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 12662,
+      "Progressed": 12663,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-07-13T04:58:08.9161071+00:00",
-  "LastChanged_Achievements": "2023-07-18T06:00:46.1234213+00:00",
+  "LastChanged_Achievements": "2023-07-18T07:01:37.5170943+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:46.7330035+00:00",
-  "LastUpdate_Ratings": "2023-07-18T05:58:26.2812981+00:00",
-  "LastUpdate_Achievements": "2023-07-18T06:00:46.1235899+00:00"
+  "LastUpdate_Ratings": "2023-07-18T06:58:41.6478301+00:00",
+  "LastUpdate_Achievements": "2023-07-18T07:01:37.5172146+00:00"
 }

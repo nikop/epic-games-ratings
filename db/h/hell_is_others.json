@@ -682,9 +682,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 253165,
+  "EOS_Progressed": 253169,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 352,
+  "EOS_NewPlayers": 356,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9667,6 +9667,11 @@
       "Time": "2023-07-18T06:05:32.2758308+00:00",
       "NumProgressed": 253165,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-18T07:05:59.1555172+00:00",
+      "NumProgressed": 253169,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 56,
@@ -9726,7 +9731,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78481
+      "UsersEstimate": 78482
     },
     {
       "ID": "BackHomeNTimes",
@@ -9766,7 +9771,7 @@
       "Name": "Arms dealer",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "CompleteBestiary",
@@ -9782,7 +9787,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25316
+      "UsersEstimate": 25317
     },
     {
       "ID": "CreditLevel2",
@@ -9798,7 +9803,7 @@
       "Name": "Fixer III",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "CreedsInBank1",
@@ -9966,7 +9971,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55696
+      "UsersEstimate": 55697
     },
     {
       "ID": "KillOthers2",
@@ -10070,7 +10075,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25316
+      "UsersEstimate": 25317
     },
     {
       "ID": "ReachNDays2",
@@ -10094,7 +10099,7 @@
       "Name": "AML questionnaire",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "TakeHomeNHearts",
@@ -10102,7 +10107,7 @@
       "Name": "Heartbreaker",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "UnlockAllAchievements",
@@ -10125,7 +10130,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 253165,
+      "Progressed": 253169,
       "Completed": 2
     }
   ],
@@ -10133,8 +10138,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-07-17T11:00:31.8814943+00:00",
-  "LastChanged_Achievements": "2023-07-18T06:05:32.2758303+00:00",
+  "LastChanged_Achievements": "2023-07-18T07:05:59.1555166+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:21.1992978+00:00",
-  "LastUpdate_Ratings": "2023-07-18T06:00:30.857028+00:00",
-  "LastUpdate_Achievements": "2023-07-18T06:05:32.275937+00:00"
+  "LastUpdate_Ratings": "2023-07-18T07:01:14.861371+00:00",
+  "LastUpdate_Achievements": "2023-07-18T07:05:59.1556109+00:00"
 }

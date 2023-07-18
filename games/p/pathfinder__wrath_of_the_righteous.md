@@ -31,6 +31,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Hey, I Know You! | 3.00% | ~311 |
 | Get the Toad | 3.00% | ~311 |
 | Beware Still Water | 3.00% | ~275 |
+| Path of the Aeon | 2.00% | ~208 |
 | Path of the Trickster | 2.00% | ~208 |
 | Path of the Lich | 2.00% | ~208 |
 | Heroic Victory | 2.00% | ~208 |
@@ -43,7 +44,6 @@ Number of Ratings: 1,354  (23.09.2022)
 | Sarkoris Will Be Green | 2.00% | ~183 |
 | The Lady of the Forest | 2.00% | ~183 |
 | Path of the Demon | 1.00% | ~104 |
-| Path of the Aeon | 1.00% | ~104 |
 | Abyssal Conspiracy | 1.00% | ~104 |
 | This Wall Won't Fall | 1.00% | ~92 |
 | Not the Last Sarkorian | 1.00% | ~92 |

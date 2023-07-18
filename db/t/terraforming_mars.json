@@ -2488,9 +2488,9 @@
       "Count": 235
     }
   ],
-  "EOS_Progressed": 67647,
+  "EOS_Progressed": 67648,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 1070,
+  "EOS_NewPlayers": 1066,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11963,6 +11963,11 @@
       "Time": "2023-07-18T06:04:41.6404683+00:00",
       "NumProgressed": 67647,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2023-07-18T07:04:46.8677979+00:00",
+      "NumProgressed": 67648,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 30,
@@ -11998,7 +12003,7 @@
       "Name": "New Home",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 16235
+      "UsersEstimate": 16236
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -12046,7 +12051,7 @@
       "Name": "Project Manager",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 13529
+      "UsersEstimate": 13530
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -12094,7 +12099,7 @@
       "Name": "Curiosity",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 13529
+      "UsersEstimate": 13530
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -12118,7 +12123,7 @@
       "Name": "Collector",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 13529
+      "UsersEstimate": 13530
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -12150,7 +12155,7 @@
       "Name": "Final touch",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 25029
+      "UsersEstimate": 25030
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -12198,7 +12203,7 @@
       "Name": "Master",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 13529
+      "UsersEstimate": 13530
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -12213,15 +12218,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 67647,
+      "Progressed": 67648,
       "Completed": 71
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-07-17T21:58:26.1586334+00:00",
-  "LastChanged_Achievements": "2023-07-18T06:04:41.6404676+00:00",
+  "LastChanged_Achievements": "2023-07-18T07:04:46.8677977+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:07.5827149+00:00",
-  "LastUpdate_Ratings": "2023-07-18T05:58:36.7455193+00:00",
-  "LastUpdate_Achievements": "2023-07-18T06:04:41.6405558+00:00"
+  "LastUpdate_Ratings": "2023-07-18T06:58:58.3294918+00:00",
+  "LastUpdate_Achievements": "2023-07-18T07:04:46.8678545+00:00"
 }

@@ -5679,9 +5679,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 56004,
+  "EOS_Progressed": 56007,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 503,
+  "EOS_NewPlayers": 506,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14859,6 +14859,11 @@
       "Time": "2023-07-18T06:06:29.5745923+00:00",
       "NumProgressed": 56004,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-18T07:07:20.1016543+00:00",
+      "NumProgressed": 56007,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -14870,7 +14875,7 @@
       "Name": "Against all odds",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6160
+      "UsersEstimate": 6161
     },
     {
       "ID": "Apple of my eye",
@@ -14886,7 +14891,7 @@
       "Name": "Bannerlord",
       "Percentage": 22,
       "XP": 65,
-      "UsersEstimate": 12321
+      "UsersEstimate": 12322
     },
     {
       "ID": "Best served cold",
@@ -14910,7 +14915,7 @@
       "Name": "Butterlord",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 4480
+      "UsersEstimate": 4481
     },
     {
       "ID": "Catch",
@@ -14950,7 +14955,7 @@
       "Name": "Duelist",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5040
+      "UsersEstimate": 5041
     },
     {
       "ID": "Dynasty",
@@ -14958,7 +14963,7 @@
       "Name": "Dynasty",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 5040
+      "UsersEstimate": 5041
     },
     {
       "ID": "Entrepreneur",
@@ -14998,7 +15003,7 @@
       "Name": "God of the Arena",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 6720
+      "UsersEstimate": 6721
     },
     {
       "ID": "Great Granny",
@@ -15030,7 +15035,7 @@
       "Name": "Horde breaker",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 12321
+      "UsersEstimate": 12322
     },
     {
       "ID": "I can do it",
@@ -15046,7 +15051,7 @@
       "Name": "I spit on your grave",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5040
+      "UsersEstimate": 5041
     },
     {
       "ID": "Jack of All Trades",
@@ -15094,7 +15099,7 @@
       "Name": "Landlord",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 17361
+      "UsersEstimate": 17362
     },
     {
       "ID": "Lawbringer",
@@ -15102,7 +15107,7 @@
       "Name": "Lawbringer",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 20721
+      "UsersEstimate": 20723
     },
     {
       "ID": "Lawmaker",
@@ -15110,7 +15115,7 @@
       "Name": "Lawmaker",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 12321
+      "UsersEstimate": 12322
     },
     {
       "ID": "Long live the Empire",
@@ -15214,7 +15219,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 5600
+      "UsersEstimate": 5601
     },
     {
       "ID": "The king is pleased",
@@ -15230,7 +15235,7 @@
       "Name": "This Is Our Land",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5040
+      "UsersEstimate": 5041
     },
     {
       "ID": "This is Sparta",
@@ -15270,22 +15275,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5040
+      "UsersEstimate": 5041
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 56004,
+      "Progressed": 56007,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-07-17T17:01:07.8455022+00:00",
-  "LastChanged_Achievements": "2023-07-18T06:06:29.5745916+00:00",
+  "LastChanged_Achievements": "2023-07-18T07:07:20.1016534+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:48.1005966+00:00",
-  "LastUpdate_Ratings": "2023-07-18T05:59:59.5071432+00:00",
-  "LastUpdate_Achievements": "2023-07-18T06:06:29.5746966+00:00"
+  "LastUpdate_Ratings": "2023-07-18T07:00:41.652246+00:00",
+  "LastUpdate_Achievements": "2023-07-18T07:07:20.1017266+00:00"
 }

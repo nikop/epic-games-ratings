@@ -13,10 +13,10 @@ Rating: 4.56 (Ranked 457)
 | Space Society | 12.00% | ~340 |
 | A Thousand Strong | 12.00% | ~340 |
 | Permanent Redesigns | 11.00% | ~312 |
+| The Ship of Theseus | 10.00% | ~284 |
 | Guy de Borderlands | 9.00% | ~255 |
 | Fully Recycled | 9.00% | ~255 |
 | Ain't Nobody Got Time for That | 9.00% | ~255 |
-| The Ship of Theseus | 9.00% | ~255 |
 | Hope Seeker | 9.00% | ~255 |
 | Exceeding Capacity | 8.00% | ~227 |
 | Breaking Protocol | 8.00% | ~227 |
