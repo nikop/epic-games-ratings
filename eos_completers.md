@@ -27,7 +27,7 @@
 | 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.66% |
 | 26 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
 | 27 | [Smelter](games/s/smelter.md) | 8.11% |
-| 28 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.87% |
+| 28 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.81% |
 | 29 | [Ravenlok](games/r/ravenlok.md) | 7.43% |
 | 30 | [Time Loader](games/t/time_loader.md) | 7.14% |
 | 31 | [Scorn](games/s/scorn.md) | 7.04% |
@@ -119,8 +119,8 @@
 | 117 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
 | 117 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.63% |
 | 119 | [Train Valley](games/t/train_valley.md) | 0.62% |
-| 120 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.60% |
-| 121 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.59% |
+| 120 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.59% |
+| 120 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.59% |
 | 122 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.58% |
 | 123 | [Grindstone](games/g/grindstone.md) | 0.56% |
 | 124 | [Potion Permit](games/p/potion_permit.md) | 0.54% |

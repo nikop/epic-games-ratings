@@ -5,7 +5,7 @@
 | [Europa Universalis IV](../games/e/europa_universalis_iv.md) | 354 | 5,175 |
 | [Old World](../games/o/old_world.md) | 285 | 2,940 |
 | [Cities: Skylines](../games/c/cities__skylines.md) | 119 | 2,580 |
-| [Idle Champions of the Forgotten Realms](../games/i/idle_champions_of_the_forgotten_realms.md) | 507 | 2,535 |
+| [Idle Champions of the Forgotten Realms](../games/i/idle_champions_of_the_forgotten_realms.md) | 512 | 2,560 |
 | [The Callisto Protocol](../games/t/the_callisto_protocol.md) | 47 | 1,750 |
 | [Sniper Elite 5](../games/s/sniper_elite_5.md) | 71 | 1,705 |
 | [Fallout: New Vegas](../games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 75 | 1,655 |
