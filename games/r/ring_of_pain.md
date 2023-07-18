@@ -6,42 +6,42 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~223,361 |
+| First Steps | 96.00% | ~223,362 |
 | Uncharted Territory | 89.00% | ~207,075 |
 | Getting A Glimpse | 73.00% | ~169,848 |
-| A Quick Escape | 65.00% | ~151,234 |
-| Explorer | 62.00% | ~144,254 |
-| Defeat The Dark | 61.00% | ~141,927 |
-| An Offering | 61.00% | ~141,927 |
-| Colorful Corpse | 58.00% | ~134,947 |
-| That Was Quick | 56.00% | ~130,294 |
-| A Donation | 56.00% | ~130,294 |
+| A Quick Escape | 65.00% | ~151,235 |
+| Explorer | 62.00% | ~144,255 |
+| Defeat The Dark | 61.00% | ~141,928 |
+| An Offering | 61.00% | ~141,928 |
+| Colorful Corpse | 58.00% | ~134,948 |
+| That Was Quick | 56.00% | ~130,295 |
+| A Donation | 56.00% | ~130,295 |
 | Goodbye, Frog Friend | 54.00% | ~125,641 |
-| Heavy Hitter | 53.00% | ~123,314 |
-| Heartless | 46.00% | ~107,027 |
-| Spine Breaker | 46.00% | ~107,027 |
+| Heavy Hitter | 53.00% | ~123,315 |
+| Heartless | 46.00% | ~107,028 |
+| Spine Breaker | 46.00% | ~107,028 |
 | Deflection | 45.00% | ~104,701 |
-| Sneaky | 43.00% | ~100,047 |
+| Sneaky | 43.00% | ~100,048 |
 | Delving Deeper | 42.00% | ~97,721 |
 | Ambitious Intent | 41.00% | ~95,394 |
 | C-C-Combo | 41.00% | ~95,394 |
-| Nothing To Lose | 40.00% | ~93,067 |
-| The Bestiary | 40.00% | ~93,067 |
+| Nothing To Lose | 40.00% | ~93,068 |
+| The Bestiary | 40.00% | ~93,068 |
 | What's Yours Is Mine | 38.00% | ~88,414 |
-| R.I.P | 36.00% | ~83,760 |
-| Shootout | 36.00% | ~83,760 |
+| R.I.P | 36.00% | ~83,761 |
+| Shootout | 36.00% | ~83,761 |
 | I Am Overburdened | 35.00% | ~81,434 |
 | Cold Hearted | 34.00% | ~79,107 |
-| Dig Your Own Grave | 33.00% | ~76,780 |
-| Toxic | 33.00% | ~76,780 |
+| Dig Your Own Grave | 33.00% | ~76,781 |
+| Toxic | 33.00% | ~76,781 |
 | Who To Trust? | 32.00% | ~74,454 |
 | Flesh Wound | 29.00% | ~67,474 |
 | Stone Touch | 28.00% | ~65,147 |
-| Walk It Off | 27.00% | ~62,820 |
-| Acid Bath | 27.00% | ~62,820 |
-| New Perspectives | 27.00% | ~62,820 |
-| Shadow Walker | 27.00% | ~62,820 |
-| Shapeshifting | 27.00% | ~62,820 |
+| Walk It Off | 27.00% | ~62,821 |
+| Acid Bath | 27.00% | ~62,821 |
+| New Perspectives | 27.00% | ~62,821 |
+| Shadow Walker | 27.00% | ~62,821 |
+| Shapeshifting | 27.00% | ~62,821 |
 | Consecutive Curses | 26.00% | ~60,494 |
 | Destroy Your Fears | 26.00% | ~60,494 |
 | Save Our Souls | 25.00% | ~58,167 |
@@ -64,13 +64,13 @@ Number of Ratings: 15,086  (23.09.2022)
 | Thank You, Friend | 10.00% | ~23,267 |
 | Barbecue | 10.00% | ~23,267 |
 | Snake Sneak | 9.00% | ~20,940 |
-| Challenge Increases | 8.00% | ~18,613 |
-| New Game+ | 8.00% | ~18,613 |
-| Clearing The Room | 8.00% | ~18,613 |
-| Decisions, Decisions | 8.00% | ~18,613 |
-| Fragile Mortality | 8.00% | ~18,613 |
-| Defuser | 8.00% | ~18,613 |
-| Precious | 8.00% | ~18,613 |
+| Challenge Increases | 8.00% | ~18,614 |
+| New Game+ | 8.00% | ~18,614 |
+| Clearing The Room | 8.00% | ~18,614 |
+| Decisions, Decisions | 8.00% | ~18,614 |
+| Fragile Mortality | 8.00% | ~18,614 |
+| Defuser | 8.00% | ~18,614 |
+| Precious | 8.00% | ~18,614 |
 | Friend of Vermin | 7.00% | ~16,287 |
 | Juggernaut | 7.00% | ~16,287 |
 | Gigantic | 7.00% | ~16,287 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Never Too Many Hats | 0.40% | ~931 |
 | Near Death Experience | 0.30% | ~698 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,668 (Ranked 48)  
+Progressed: 232,669 (Ranked 48)  
 Completed: 246 (0.11%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,10 +218,10 @@ Completed: 246 (0.11%) (Ranked 180)
 | 2023-07-15 | 232,522 | 246 |
 | 2023-07-16 | 232,595 | 246 |
 | 2023-07-17 | 232,656 | 246 |
-| 2023-07-18 | 232,668 | 246 |
+| 2023-07-18 | 232,669 | 246 |
 ## Awards
 Max (Quickly Understood Controls): 1,484  (Ranked 120)  
-Sum: 11,489 (Ranked 75)  
+Sum: 11,490 (Ranked 75)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
@@ -229,7 +229,7 @@ Diff (max vs sum): 45
 | This game is Great for Beginners | 1,480 |
 | This game is Relaxing | 1,416 |
 | This game has Challenging Combat | 1,404 |
-| This game is Extremely Fun | 1,393 |
+| This game is Extremely Fun | 1,394 |
 | This game is Highly Recommended | 1,354 |
 | This game has Amazing Storytelling | 1,303 |
 | This game has Amazing Characters | 1,209 |
@@ -358,3 +358,4 @@ Diff (max vs sum): 45
 | 2023-07-14 | 4.58 | - | 1,484 | 11,485 |
 | 2023-07-15 | 4.58 | - | 1,484 | 11,486 |
 | 2023-07-16 | 4.58 | - | 1,484 | 11,489 |
+| 2023-07-18 | 4.58 | - | 1,484 | 11,490 |

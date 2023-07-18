@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2254,
+  "EOS_Progressed": 2255,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1718,6 +1718,11 @@
       "Time": "2023-07-18T03:22:29.2277176+00:00",
       "NumProgressed": 2254,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-18T04:03:48.5906913+00:00",
+      "NumProgressed": 2255,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 13,
@@ -1753,7 +1758,7 @@
       "Name": "Helping the little ones",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "MOVE_ON",
@@ -1801,7 +1806,7 @@
       "Name": "Stronger together",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "THE_END",
@@ -1832,7 +1837,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2254,
+      "Progressed": 2255,
       "Completed": 5
     }
   ],
@@ -1840,8 +1845,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-07-18T03:22:29.2277172+00:00",
+  "LastChanged_Achievements": "2023-07-18T04:03:48.5906909+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:12.10718+00:00",
-  "LastUpdate_Ratings": "2023-07-18T03:17:47.8513265+00:00",
-  "LastUpdate_Achievements": "2023-07-18T03:22:29.2277378+00:00"
+  "LastUpdate_Ratings": "2023-07-18T03:59:27.5385819+00:00",
+  "LastUpdate_Achievements": "2023-07-18T04:03:48.5907045+00:00"
 }

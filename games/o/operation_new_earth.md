@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Good to have Allies | 43.00% | ~206 |
-| Defenses Online | 40.00% | ~192 |
-| Facility Online | 35.00% | ~168 |
-| Corporal | 25.00% | ~120 |
-| Covert Operative | 20.00% | ~96 |
-| Sergeant | 18.00% | ~86 |
-| Lieutenant | 14.00% | ~67 |
-| Stocking Up | 14.00% | ~67 |
-| On Target | 14.00% | ~67 |
-| Getting Deployment | 13.00% | ~62 |
+| It's Good to have Allies | 43.00% | ~208 |
+| Defenses Online | 40.00% | ~193 |
+| Facility Online | 35.00% | ~169 |
+| Corporal | 25.00% | ~121 |
+| Covert Operative | 20.00% | ~97 |
+| Sergeant | 18.00% | ~87 |
+| Lieutenant | 14.00% | ~68 |
+| Stocking Up | 14.00% | ~68 |
+| On Target | 14.00% | ~68 |
+| Getting Deployment | 13.00% | ~63 |
 | Keeping Busy | 12.00% | ~58 |
 | Infantry Reporting | 12.00% | ~58 |
 | Fighting for Survival | 10.00% | ~48 |
 | Silver Competitor | 9.00% | ~43 |
-| Captain | 9.00% | ~43 |
-| Factory Expansion | 8.00% | ~38 |
+| Captain | 8.00% | ~39 |
+| Factory Expansion | 8.00% | ~39 |
 | Exterminator | 7.00% | ~34 |
 | Brothers in Arms | 6.00% | ~29 |
 | Know The Enemy | 4.00% | ~19 |
@@ -29,11 +29,11 @@
 | Gold Achiever | 3.00% | ~14 |
 | Advanced Warfare | 3.00% | ~14 |
 | Major | 3.00% | ~14 |
-| Battle Ready | 3.00% | ~14 |
-| Control the Skies | 3.00% | ~14 |
 | Colonel | 2.00% | ~10 |
 | General | 2.00% | ~10 |
 | Resourceful | 2.00% | ~10 |
+| Battle Ready | 2.00% | ~10 |
+| Control the Skies | 2.00% | ~10 |
 | Seek & Destroy | 1.00% | ~5 |
 | Titan Tanks | 1.00% | ~5 |
 | Shock Troops | 1.00% | ~5 |
@@ -43,7 +43,7 @@
 | Platinum Achiever | 0.00% | ~0 |
 | Platinum Competitor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 480 (Ranked 215)  
+Progressed: 483 (Ranked 215)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,4 +83,4 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-15 | 455 | 0 |
 | 2023-07-16 | 466 | 0 |
 | 2023-07-17 | 477 | 0 |
-| 2023-07-18 | 480 | 0 |
+| 2023-07-18 | 483 | 0 |

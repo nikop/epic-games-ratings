@@ -5908,10 +5908,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 27306,
       "NumberOfAwardsMax": 7324
+    },
+    {
+      "Time": "2023-07-18T03:58:41.5746298+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 27307,
+      "NumberOfAwardsMax": 7324
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27306,
+  "NumberOfAwards": 27307,
   "NumberOfAwardsMax": 7324,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5979,7 +5985,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1497
+      "Count": 1498
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -5994,9 +6000,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 792992,
+  "EOS_Progressed": 792993,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 1055,
+  "EOS_NewPlayers": 1053,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15529,6 +15535,11 @@
       "Time": "2023-07-18T03:21:16.1616661+00:00",
       "NumProgressed": 792992,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-07-18T04:00:55.6266577+00:00",
+      "NumProgressed": 792993,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -15572,7 +15583,7 @@
       "Name": "Awakening",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 158598
+      "UsersEstimate": 158599
     },
     {
       "ID": "BadGirl",
@@ -15940,7 +15951,7 @@
       "Name": "McLovin",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 55509
+      "UsersEstimate": 55510
     },
     {
       "ID": "MercenarysHonor",
@@ -16020,7 +16031,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 158598
+      "UsersEstimate": 158599
     },
     {
       "ID": "RevenantOfLedechko",
@@ -16044,7 +16055,7 @@
       "Name": "Runt",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 55509
+      "UsersEstimate": 55510
     },
     {
       "ID": "Saviour",
@@ -16060,7 +16071,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 158598
+      "UsersEstimate": 158599
     },
     {
       "ID": "SerialKiller",
@@ -16195,15 +16206,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 792992,
+      "Progressed": 792993,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-07-17T20:58:57.3310534+00:00",
-  "LastChanged_Achievements": "2023-07-18T03:21:16.1616653+00:00",
+  "LastChanged": "2023-07-18T03:58:41.5746296+00:00",
+  "LastChanged_Achievements": "2023-07-18T04:00:55.6266573+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:17.5597924+00:00",
-  "LastUpdate_Ratings": "2023-07-18T03:17:05.9698425+00:00",
-  "LastUpdate_Achievements": "2023-07-18T03:21:16.1618139+00:00"
+  "LastUpdate_Ratings": "2023-07-18T03:58:41.5746302+00:00",
+  "LastUpdate_Achievements": "2023-07-18T04:00:55.6267697+00:00"
 }

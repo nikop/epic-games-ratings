@@ -22,6 +22,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overdue Rendezvous | 0.30% | ~639 |
 | Pure Energy | 0.30% | ~639 |
 | Trollskull Manor | 0.20% | ~426 |
+| Attack on the Manor | 0.20% | ~426 |
 | The Death Curse | 0.20% | ~426 |
 | Useless Allies | 0.20% | ~426 |
 | Premature Betrayal | 0.20% | ~426 |
@@ -48,7 +49,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Gargoyle's Apprentice | 0.10% | ~213 |
 | House of Darkness | 0.10% | ~213 |
 | Home Not So Alone | 0.10% | ~179 |
-| Attack on the Manor | 0.10% | ~213 |
 | The Trepidatious Trio | 0.10% | ~213 |
 | Our Time To Shine | 0.10% | ~213 |
 | Review by the Blackstaff | 0.10% | ~179 |
@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212,910 (Ranked 53)  
+Progressed: 212,918 (Ranked 53)  
 Completed: 2,057 (0.97%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -603,7 +603,7 @@ Completed: 2,057 (0.97%) (Ranked 103)
 | 2023-07-15 | 212,014 | 2,053 |
 | 2023-07-16 | 212,501 | 2,055 |
 | 2023-07-17 | 212,861 | 2,057 |
-| 2023-07-18 | 212,910 | 2,057 |
+| 2023-07-18 | 212,918 | 2,057 |
 ## Awards
 Max (Diverse Characters): 5,041  (Ranked 66)  
 Sum: 30,562 (Ranked 38)  

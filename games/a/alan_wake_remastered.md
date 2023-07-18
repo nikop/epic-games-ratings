@@ -20,10 +20,10 @@ Number of Ratings: 524  (23.09.2022)
 | Damn Good Cup of Coffee | 13.00% | ~7,473 |
 | Wheels Within Wheels | 12.00% | ~6,898 |
 | They're Heeeeeere! | 12.00% | ~6,898 |
+| The Six-Gun Scribe | 12.00% | ~6,898 |
 | Missed by a Mile | 12.00% | ~6,898 |
 | Heavy Metal | 11.00% | ~6,323 |
 | Iron Horse | 11.00% | ~6,323 |
-| The Six-Gun Scribe | 11.00% | ~6,323 |
 | Collateral Carnage | 11.00% | ~6,323 |
 | Come One, Come All | 11.00% | ~6,323 |
 | Perchance to Dream | 10.00% | ~5,748 |
@@ -33,15 +33,15 @@ Number of Ratings: 524  (23.09.2022)
 | The Lady of the Light | 9.00% | ~5,173 |
 | Two For the Price of One | 9.00% | ~5,173 |
 | Energized! | 9.00% | ~5,173 |
-| What Light Through Yonder Window | 8.00% | ~4,598 |
-| Right of Way | 8.00% | ~4,598 |
+| What Light Through Yonder Window | 8.00% | ~4,599 |
+| Right of Way | 8.00% | ~4,599 |
 | A Friend in Need | 8.00% | ~1,676 |
 | Tornado Wrangler | 7.00% | ~4,024 |
 | Departure | 6.00% | ~3,449 |
 | A Friend Indeed | 6.00% | ~1,257 |
 | Drink 'Em Both Up | 5.00% | ~2,874 |
 | Hardboiled Writer | 5.00% | ~2,874 |
-| Ding! | 5.00% | ~1,047 |
+| Ding! | 5.00% | ~1,048 |
 | Boob Tube | 4.00% | ~2,299 |
 | Children of the Elder God | 4.00% | ~2,299 |
 | If It Flies, It Burns | 4.00% | ~2,299 |
@@ -54,7 +54,7 @@ Number of Ratings: 524  (23.09.2022)
 | An Idyllic Small Town | 2.00% | ~1,150 |
 | Iron Will | 2.00% | ~419 |
 | Couch Potato | 1.00% | ~575 |
-| Go Gentle Into That Good Light | 1.00% | ~209 |
+| Go Gentle Into That Good Light | 1.00% | ~210 |
 | Words Will Never Harm You | 0.60% | ~126 |
 | Cardboard Companions | 0.60% | ~126 |
 | Fast and Furious | 0.50% | ~105 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~57 |
 | No Punctuation | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,481 (Ranked 82)  
+Progressed: 57,482 (Ranked 82)  
 Completed: 58 (0.10%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 58 (0.10%) (Ranked 182)
 | 2023-07-15 | 57,378 | 58 |
 | 2023-07-16 | 57,444 | 58 |
 | 2023-07-17 | 57,477 | 58 |
-| 2023-07-18 | 57,481 | 58 |
+| 2023-07-18 | 57,482 | 58 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

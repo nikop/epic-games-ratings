@@ -7225,9 +7225,9 @@
       "Count": 589
     }
   ],
-  "EOS_Progressed": 596626,
+  "EOS_Progressed": 596635,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 4371,
+  "EOS_NewPlayers": 4362,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16845,6 +16845,11 @@
       "Time": "2023-07-18T03:22:37.9814631+00:00",
       "NumProgressed": 596626,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-07-18T04:03:57.6199893+00:00",
+      "NumProgressed": 596635,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 65,
@@ -16856,7 +16861,7 @@
       "Name": "Into the Unknown",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 59663
+      "UsersEstimate": 59664
     },
     {
       "ID": "achievement_02",
@@ -16864,7 +16869,7 @@
       "Name": "First Shot",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 59663
+      "UsersEstimate": 59664
     },
     {
       "ID": "achievement_03",
@@ -16872,7 +16877,7 @@
       "Name": "Herzlich Wilkommen!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 53696
+      "UsersEstimate": 53697
     },
     {
       "ID": "achievement_04",
@@ -16912,7 +16917,7 @@
       "Name": "Debris and Ashes",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 29831
+      "UsersEstimate": 29832
     },
     {
       "ID": "achievement_09",
@@ -16920,7 +16925,7 @@
       "Name": "We Will Be Heard!",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 29831
+      "UsersEstimate": 29832
     },
     {
       "ID": "achievement_10",
@@ -16928,7 +16933,7 @@
       "Name": "Known Associate",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 29831
+      "UsersEstimate": 29832
     },
     {
       "ID": "achievement_11",
@@ -16936,7 +16941,7 @@
       "Name": "Brush with Death",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 29831
+      "UsersEstimate": 29832
     },
     {
       "ID": "achievement_12",
@@ -16976,7 +16981,7 @@
       "Name": "Tunnel Entrance",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 29831
+      "UsersEstimate": 29832
     },
     {
       "ID": "achievement_17",
@@ -16992,7 +16997,7 @@
       "Name": "Sancho Panza",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 47730
+      "UsersEstimate": 47731
     },
     {
       "ID": "achievement_19",
@@ -17064,7 +17069,7 @@
       "Name": "You Never Forget Your First...",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 65629
+      "UsersEstimate": 65630
     },
     {
       "ID": "achievement_28",
@@ -17136,7 +17141,7 @@
       "Name": "After the Fall",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 29831
+      "UsersEstimate": 29832
     },
     {
       "ID": "achievement_37",
@@ -17144,7 +17149,7 @@
       "Name": "Good Night \u0026 Good Luck",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 53696
+      "UsersEstimate": 53697
     },
     {
       "ID": "achievement_38",
@@ -17152,7 +17157,7 @@
       "Name": "Can\u0027t Touch This!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 29831
+      "UsersEstimate": 29832
     },
     {
       "ID": "achievement_39",
@@ -17336,7 +17341,7 @@
       "Name": "My Friend, Ciro",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     },
     {
       "ID": "achievement_62",
@@ -17344,7 +17349,7 @@
       "Name": "Skullcrusher",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     },
     {
       "ID": "achievement_63",
@@ -17375,21 +17380,21 @@
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 596626,
+      "Progressed": 596635,
       "Completed": 60
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 242070,
+      "Progressed": 242079,
       "Completed": 1420
     }
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
   "LastChanged": "2023-07-18T03:18:28.370465+00:00",
-  "LastChanged_Achievements": "2023-07-18T03:22:37.9814627+00:00",
+  "LastChanged_Achievements": "2023-07-18T04:03:57.6199889+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:59.4492342+00:00",
-  "LastUpdate_Ratings": "2023-07-18T03:18:28.3704658+00:00",
-  "LastUpdate_Achievements": "2023-07-18T03:22:37.9815788+00:00"
+  "LastUpdate_Ratings": "2023-07-18T04:00:07.0325469+00:00",
+  "LastUpdate_Achievements": "2023-07-18T04:03:57.6200881+00:00"
 }

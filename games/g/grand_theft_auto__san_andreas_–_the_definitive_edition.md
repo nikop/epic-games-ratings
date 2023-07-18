@@ -5,24 +5,24 @@ Rating: 4.56 (Ranked 457)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~8,977 |
+| Getting Started | 81.00% | ~8,978 |
 | Pay 'n' Spray | 50.00% | ~5,542 |
 | All Dressed Up for San Fierro | 25.00% | ~2,771 |
 | The American Dream | 19.00% | ~2,106 |
 | School's Out | 18.00% | ~1,995 |
 | Smooth Moves | 16.00% | ~1,773 |
-| Today Was a Good Day | 15.00% | ~1,662 |
+| Today Was a Good Day | 15.00% | ~1,663 |
 | What happens in Las Venturas... | 14.00% | ~1,552 |
 | Horror of the Santa Maria | 10.00% | ~1,108 |
-| Liberty City State of Mind | 9.00% | ~997 |
+| Liberty City State of Mind | 9.00% | ~998 |
 | Original Gangster | 8.00% | ~887 |
 | The End of the Line | 7.00% | ~776 |
 | With Extra Dip | 6.00% | ~665 |
 | Saviour | 6.00% | ~665 |
 | They Can’t Stop All of Us | 4.00% | ~443 |
 | Rescue a Kitten Too? | 4.00% | ~443 |
-| Bike or Biker | 3.00% | ~332 |
-| What are the Odds | 3.00% | ~332 |
+| Bike or Biker | 3.00% | ~333 |
+| What are the Odds | 3.00% | ~333 |
 | I’ll Have Two Number 9s | 2.00% | ~222 |
 | Who Needs Directions? | 2.00% | ~222 |
 | What the City Needs | 2.00% | ~222 |
@@ -37,11 +37,11 @@ Rating: 4.56 (Ranked 457)
 | Assassin | 1.00% | ~111 |
 | Chick Magnet | 1.00% | ~111 |
 | Not a Player | 0.70% | ~78 |
-| Remastered | 0.60% | ~66 |
+| Remastered | 0.60% | ~67 |
 | ...Here we go again | 0.40% | ~44 |
 | I Ain't No Buster | 0.30% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,083 (Ranked 116)  
+Progressed: 11,084 (Ranked 116)  
 Completed: 31 (0.28%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,6 +130,7 @@ Completed: 31 (0.28%) (Ranked 151)
 | 2023-07-15 | 11,064 | 30 |
 | 2023-07-16 | 11,075 | 31 |
 | 2023-07-17 | 11,083 | 31 |
+| 2023-07-18 | 11,084 | 31 |
 ## Awards
 Max (Great Boss Battles): 218  (Ranked 256)  
 Sum: 218 (Ranked 354)  

@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 480,
+  "EOS_Progressed": 483,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1671,6 +1671,11 @@
       "Time": "2023-07-18T02:35:56.0003662+00:00",
       "NumProgressed": 480,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-18T04:05:13.6242536+00:00",
+      "NumProgressed": 483,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1786,7 +1791,7 @@
       "Name": "Facility Online",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -1794,7 +1799,7 @@
       "Name": "Corporal",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -1802,7 +1807,7 @@
       "Name": "Sergeant",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -1810,15 +1815,15 @@
       "Name": "Lieutenant",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_hero_level_up_4",
       "SetID": "bm61c2p",
       "Name": "Captain",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 39
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -1858,7 +1863,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 206
+      "UsersEstimate": 208
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -1866,7 +1871,7 @@
       "Name": "Covert Operative",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -1874,7 +1879,7 @@
       "Name": "Getting Deployment",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -1890,7 +1895,7 @@
       "Name": "Stocking Up",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -1906,15 +1911,15 @@
       "Name": "On Target",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_key_objectives_completed_4",
       "SetID": "bm61c2p",
       "Name": "Battle Ready",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 10
     },
     {
       "ID": "objective_multiple_barracks_1",
@@ -1930,7 +1935,7 @@
       "Name": "Factory Expansion",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -1938,7 +1943,7 @@
       "Name": "Defenses Online",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -1976,23 +1981,23 @@
       "ID": "objective_upgrade_dropships_2",
       "SetID": "bm61c2p",
       "Name": "Control the Skies",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 10
     }
   ],
   "AchievementSets": [
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 480,
+      "Progressed": 483,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-18T03:23:41.6089179+00:00",
+  "LastChanged_Achievements": "2023-07-18T04:05:13.6242532+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:28.9258865+00:00",
-  "LastUpdate_Ratings": "2023-07-18T03:18:51.4742195+00:00",
-  "LastUpdate_Achievements": "2023-07-18T03:23:41.608957+00:00"
+  "LastUpdate_Ratings": "2023-07-18T04:00:31.68221+00:00",
+  "LastUpdate_Achievements": "2023-07-18T04:05:13.6242822+00:00"
 }

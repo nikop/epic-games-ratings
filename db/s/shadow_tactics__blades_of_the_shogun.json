@@ -1345,9 +1345,9 @@
       "Count": 245
     }
   ],
-  "EOS_Progressed": 186512,
+  "EOS_Progressed": 186514,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 1798,
+  "EOS_NewPlayers": 1796,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -10980,6 +10980,11 @@
       "Time": "2023-07-18T03:24:54.3005756+00:00",
       "NumProgressed": 186512,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-07-18T04:06:28.1421021+00:00",
+      "NumProgressed": 186514,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 44,
@@ -11063,7 +11068,7 @@
       "Name": "Genin",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 20516
+      "UsersEstimate": 20517
     },
     {
       "ID": "HappyLittleAccidents",
@@ -11071,7 +11076,7 @@
       "Name": "Happy little accidents",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7460
+      "UsersEstimate": 7461
     },
     {
       "ID": "HappyPlanning",
@@ -11167,7 +11172,7 @@
       "Name": "Okkoto",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 7460
+      "UsersEstimate": 7461
     },
     {
       "ID": "OldMan",
@@ -11191,7 +11196,7 @@
       "Name": "Prisoners",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7460
+      "UsersEstimate": 7461
     },
     {
       "ID": "ReleaseTheKraken",
@@ -11303,7 +11308,7 @@
       "Name": "Too Early",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7460
+      "UsersEstimate": 7461
     },
     {
       "ID": "Warzone",
@@ -11342,15 +11347,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 186512,
+      "Progressed": 186514,
       "Completed": 59
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-07-17T10:59:29.4177007+00:00",
-  "LastChanged_Achievements": "2023-07-18T03:24:54.300575+00:00",
+  "LastChanged_Achievements": "2023-07-18T04:06:28.1421016+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:02.1147937+00:00",
-  "LastUpdate_Ratings": "2023-07-18T03:17:40.1068615+00:00",
-  "LastUpdate_Achievements": "2023-07-18T03:24:54.3006687+00:00"
+  "LastUpdate_Ratings": "2023-07-18T03:59:18.2458805+00:00",
+  "LastUpdate_Achievements": "2023-07-18T04:06:28.1421727+00:00"
 }

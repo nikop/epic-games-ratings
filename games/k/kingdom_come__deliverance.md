@@ -9,9 +9,9 @@ Number of Ratings: 9,133  (23.09.2022)
 | Blacksmith's Son | 31.00% | ~245,828 |
 | Cavalier | 25.00% | ~198,248 |
 | Fatso | 23.00% | ~182,388 |
-| Awakening | 20.00% | ~158,598 |
-| Ranger | 20.00% | ~158,598 |
-| Scrooge | 20.00% | ~158,598 |
+| Awakening | 20.00% | ~158,599 |
+| Ranger | 20.00% | ~158,599 |
+| Scrooge | 20.00% | ~158,599 |
 | Anorectic | 16.00% | ~126,879 |
 | Firestarter | 15.00% | ~118,949 |
 | Bookworm | 14.00% | ~111,019 |
@@ -22,8 +22,8 @@ Number of Ratings: 9,133  (23.09.2022)
 | Convict | 10.00% | ~79,299 |
 | Traveller | 10.00% | ~79,299 |
 | Haggler | 9.00% | ~71,369 |
-| McLovin | 7.00% | ~55,509 |
-| Runt | 7.00% | ~55,509 |
+| McLovin | 7.00% | ~55,510 |
+| Runt | 7.00% | ~55,510 |
 | Casanova | 6.00% | ~47,580 |
 | Bad Trip | 5.00% | ~39,650 |
 | Monk | 5.00% | ~39,650 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~793 |
 | Wingman | 0.10% | ~793 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 792,992 (Ranked 15)  
+Progressed: 792,993 (Ranked 15)  
 Completed: 44 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,10 +178,10 @@ Completed: 44 (0.01%) (Ranked 223)
 | 2023-07-15 | 792,639 | 44 |
 | 2023-07-16 | 792,827 | 44 |
 | 2023-07-17 | 792,975 | 44 |
-| 2023-07-18 | 792,992 | 44 |
+| 2023-07-18 | 792,993 | 44 |
 ## Awards
 Max (Character Customization): 7,324  (Ranked 46)  
-Sum: 27,306 (Ranked 43)  
+Sum: 27,307 (Ranked 43)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -195,7 +195,7 @@ Diff (max vs sum): 3
 | This game has Amazing Characters | 1,619 |
 | This game has Realistic Visuals | 1,607 |
 | This game is Educational | 1,559 |
-| This game is Relaxing | 1,497 |
+| This game is Relaxing | 1,498 |
 | This game has Obsessive Gameplay | 1,048 |
 | This game has a Creative Community | 664 |
 ## Ratings History
@@ -374,3 +374,4 @@ Diff (max vs sum): 3
 | 2023-07-15 | 4.71 | - | 7,317 | 27,281 |
 | 2023-07-16 | 4.71 | - | 7,321 | 27,292 |
 | 2023-07-17 | 4.71 | - | 7,324 | 27,306 |
+| 2023-07-18 | 4.71 | - | 7,324 | 27,307 |

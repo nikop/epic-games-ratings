@@ -1,7 +1,7 @@
 # Good Company
 [Store](https://store.epicgames.com/en-US/p/good-company)  
 [View Rawdata](../../db/g/good_company.json)  
-Rating: 4.44 (Ranked 643)  
+Rating: 4.44 (Ranked 644)  
 Number of Ratings: 75  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -46,10 +46,10 @@ Number of Ratings: 75  (23.09.2022)
 | Bet On Bots: Safety First | 0.80% | ~41 |
 | Tycoon | 0.80% | ~41 |
 | Merry-Go-Around: Self-Made | 0.70% | ~36 |
+| Level: Eye In The Sky | 0.60% | ~31 |
 | Bet On Bots: Inspector's Favorite | 0.60% | ~31 |
 | Trendsetter | 0.60% | ~31 |
 | Level: Heating-Up | 0.50% | ~26 |
-| Level: Eye In The Sky | 0.50% | ~26 |
 | CEO | 0.50% | ~26 |
 | Campaign: Man vs. Machine | 0.40% | ~21 |
 | A Happy Taskforce: Interior Designer | 0.40% | ~21 |
