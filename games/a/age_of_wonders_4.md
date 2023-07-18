@@ -5,12 +5,12 @@ Rating: 4.62 (Ranked 346)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Tipping the Scales | 5.00% | ~250 |
 | Realm Estate | 4.00% | ~200 |
 | A Wonderful Discovery | 4.00% | ~200 |
 | Secret Technique | 4.00% | ~200 |
 | Walls Cannot Stop Us | 4.00% | ~200 |
 | Magical Synergy | 4.00% | ~200 |
-| Tipping the Scales | 4.00% | ~200 |
 | There Can Only Be One! | 3.00% | ~150 |
 | Full Ascension | 3.00% | ~150 |
 | Bone Peddler | 3.00% | ~150 |
@@ -34,6 +34,7 @@ Rating: 4.62 (Ranked 346)
 | Preparation Is Everything | 2.00% | ~100 |
 | In a Liege of Your Own | 2.00% | ~100 |
 | Against the Odds | 2.00% | ~100 |
+| Duality | 2.00% | ~100 |
 | The Magic That Empowers Me! | 1.00% | ~50 |
 | God Emperor | 1.00% | ~50 |
 | Lord of Chaos | 1.00% | ~50 |
@@ -41,7 +42,6 @@ Rating: 4.62 (Ranked 346)
 | Crimson Caldera | 1.00% | ~50 |
 | The Eternal Court | 1.00% | ~50 |
 | Jack of All Tomes | 1.00% | ~50 |
-| Duality | 1.00% | ~50 |
 | Grexolis | 0.90% | ~45 |
 | One for All, All for One | 0.90% | ~45 |
 | Pruning for Progress | 0.80% | ~40 |

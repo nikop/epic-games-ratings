@@ -6,7 +6,7 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~20,535 |
+| Genin | 11.00% | ~20,536 |
 | Thorough | 9.00% | ~16,802 |
 | A thief's beginning | 8.00% | ~14,935 |
 | Tanuki Time | 8.00% | ~14,935 |
@@ -22,10 +22,10 @@ Number of Ratings: 495  (23.09.2022)
 | Happy Planning | 5.00% | ~9,334 |
 | Mugen Unchained | 5.00% | ~9,334 |
 | Warzone | 5.00% | ~9,334 |
-| Happy little accidents | 4.00% | ~7,467 |
-| Okkoto | 4.00% | ~7,467 |
-| Prisoners | 4.00% | ~7,467 |
-| Too Early | 4.00% | ~7,467 |
+| Happy little accidents | 4.00% | ~7,468 |
+| Okkoto | 4.00% | ~7,468 |
+| Prisoners | 4.00% | ~7,468 |
+| Too Early | 4.00% | ~7,468 |
 | Gear up | 3.00% | ~5,601 |
 | Noboru | 3.00% | ~5,601 |
 | Still Rollin' | 3.00% | ~5,601 |
@@ -39,7 +39,7 @@ Number of Ratings: 495  (23.09.2022)
 | No Gimmicks | 1.00% | ~1,867 |
 | The End | 1.00% | ~1,867 |
 | Undeserved Honor | 0.90% | ~1,680 |
-| When Cut Across the Neck | 0.80% | ~1,493 |
+| When Cut Across the Neck | 0.80% | ~1,494 |
 | High Five the Moon | 0.70% | ~1,307 |
 | The Cave | 0.70% | ~1,307 |
 | Time Paradox | 0.50% | ~933 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~187 |
 | Release the Kraken | 0.10% | ~187 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 186,686 (Ranked 59)  
+Progressed: 186,689 (Ranked 59)  
 Completed: 59 (0.03%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 59 (0.03%) (Ranked 210)
 | 2023-07-15 | 185,883 | 58 |
 | 2023-07-16 | 186,233 | 58 |
 | 2023-07-17 | 186,473 | 59 |
-| 2023-07-18 | 186,686 | 59 |
+| 2023-07-18 | 186,689 | 59 |
 ## Awards
 Max (Great for Beginners): 559  (Ranked 182)  
 Sum: 4,710 (Ranked 132)  

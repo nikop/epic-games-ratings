@@ -60,7 +60,7 @@ Number of Ratings: 45  (23.09.2022)
 | I'm Not Smiling | 1.00% | ~13 |
 | Thwack! | 1.00% | ~13 |
 | Overwhelming Monstrosity | 0.80% | ~11 |
-| We Call That Mortificient! | 0.70% | ~9 |
+| We Call That Mortificient! | 0.80% | ~11 |
 | Peacemaker | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,323 (Ranked 178)  

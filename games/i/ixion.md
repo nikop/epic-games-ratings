@@ -1,7 +1,7 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.56 (Ranked 458)  
+Rating: 4.56 (Ranked 457)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -22,8 +22,8 @@ Rating: 4.56 (Ranked 458)
 | Exceeding Capacity | 8.00% | ~227 |
 | Breaking Protocol | 8.00% | ~227 |
 | Man's Best Friend | 6.00% | ~170 |
+| Power Outage | 6.00% | ~170 |
 | Sightseeing | 5.00% | ~142 |
-| Power Outage | 5.00% | ~142 |
 | Convenient Transport | 5.00% | ~142 |
 | Please Make it Stop! | 5.00% | ~142 |
 | Access Granted | 4.00% | ~114 |

@@ -16,11 +16,11 @@
 | No Diggity | 40.00% | ~65 |
 | Amateur Survivor | 30.00% | ~49 |
 | 10K | 26.00% | ~55 |
-| Bouncemato | 25.00% | ~41 |
-| 15K | 24.00% | ~51 |
+| Bouncemato | 26.00% | ~42 |
+| 15K | 25.00% | ~53 |
 | Grave Digger | 22.00% | ~36 |
 | Drinking Problem | 21.00% | ~45 |
-| Professional Survivor | 19.00% | ~31 |
+| Professional Survivor | 20.00% | ~33 |
 | Quick-Draw Pod | 16.00% | ~26 |
 | Pork Chop Express | 15.00% | ~32 |
 | Carrocketeer | 14.00% | ~30 |

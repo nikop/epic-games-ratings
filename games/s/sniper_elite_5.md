@@ -67,17 +67,17 @@ Rating: 4.41 (Ranked 675)
 | Master-at-arms | 0.20% | ~7 |
 | Sight Beyond Sights | 0.20% | ~7 |
 | Can't Outrun A Bullet | 0.20% | ~7 |
-| Führerious Repetition | 0.20% | ~6 |
-| Reich To The Point | 0.20% | ~6 |
-| Covert Elimination | 0.20% | ~6 |
-| Operation Overlord | 0.20% | ~6 |
-| Stroll in the Woods | 0.20% | ~6 |
-| Going Overboard | 0.20% | ~6 |
+| Führerious Repetition | 0.20% | ~7 |
+| Reich To The Point | 0.20% | ~7 |
+| Covert Elimination | 0.20% | ~7 |
+| Operation Overlord | 0.20% | ~7 |
+| Stroll in the Woods | 0.20% | ~7 |
+| Going Overboard | 0.20% | ~7 |
 | From Führer Away | 0.10% | ~3 |
 | Alpha | 0.10% | ~3 |
 | Das Familienjuwel | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,299 (Ranked 147)  
+Progressed: 3,300 (Ranked 147)  
 Completed: 9 (0.27%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 9 (0.27%) (Ranked 154)
 | 2023-07-15 | 3,287 | 9 |
 | 2023-07-16 | 3,290 | 9 |
 | 2023-07-17 | 3,294 | 9 |
-| 2023-07-18 | 3,299 | 9 |
+| 2023-07-18 | 3,300 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

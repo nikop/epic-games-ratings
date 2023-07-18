@@ -1,46 +1,46 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.57 (Ranked 440)  
+Rating: 4.56 (Ranked 457)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 58.00% | ~110,862 |
-| Where's that freaking Dwarf? | 46.00% | ~87,925 |
-| GG EZ | 27.00% | ~51,608 |
-| Speedrun | 26.00% | ~49,697 |
-| Déjà vu | 21.00% | ~40,140 |
-| Sock! SOCK! | 16.00% | ~30,583 |
-| DM intervention | 13.00% | ~24,848 |
-| Fireproof Wizardess | 9.00% | ~17,203 |
-| A beer, two curses, three companions | 7.00% | ~13,380 |
-| Livin' in a dwarven paradise | 6.00% | ~11,469 |
-| Way of the Wimp | 6.00% | ~11,469 |
-| The plot thickens... At the tavern | 5.00% | ~9,557 |
-| The Woman in the High Castle | 4.00% | ~7,646 |
-| I am the night | 3.00% | ~5,734 |
-| Team Building Exercise | 3.00% | ~5,734 |
-| Shiny and Crôm | 2.00% | ~3,823 |
-| The demons' feast | 2.00% | ~3,823 |
-| The Great Library | 2.00% | ~3,823 |
-| Torture and Sensibility | 2.00% | ~3,823 |
-| Res Judicata | 2.00% | ~3,823 |
-| Dwarf Fortress | 2.00% | ~3,823 |
-| The Ranger of Chaos | 2.00% | ~3,823 |
-| Thieves' Guild Accreditation | 2.00% | ~3,823 |
-| Oh, when I'll be level 10... | 2.00% | ~3,823 |
-| Urik's Depths | 1.00% | ~1,911 |
-| Look but don't touch | 1.00% | ~1,911 |
-| The beards of change | 1.00% | ~1,911 |
-| Gargantua | 1.00% | ~1,911 |
-| In Navalu's footsteps | 1.00% | ~1,911 |
-| Lust and Debauchery | 1.00% | ~1,911 |
-| Material Girl | 1.00% | ~1,911 |
-| The Statuette of Gladeulfeurah | 0.90% | ~1,720 |
-| A tale of adventurers not quite like the others... | 0.90% | ~1,720 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.90% | ~1,720 |
-| It's been a hard day's night | 0.80% | ~1,529 |
+| Alt+F4 | 58.00% | ~110,903 |
+| Where's that freaking Dwarf? | 46.00% | ~87,958 |
+| GG EZ | 27.00% | ~51,627 |
+| Speedrun | 26.00% | ~49,715 |
+| Déjà vu | 21.00% | ~40,155 |
+| Sock! SOCK! | 16.00% | ~30,594 |
+| DM intervention | 13.00% | ~24,858 |
+| Fireproof Wizardess | 9.00% | ~17,209 |
+| A beer, two curses, three companions | 7.00% | ~13,385 |
+| Livin' in a dwarven paradise | 6.00% | ~11,473 |
+| Way of the Wimp | 6.00% | ~11,473 |
+| The plot thickens... At the tavern | 5.00% | ~9,561 |
+| The Woman in the High Castle | 4.00% | ~7,648 |
+| I am the night | 3.00% | ~5,736 |
+| Team Building Exercise | 3.00% | ~5,736 |
+| Shiny and Crôm | 2.00% | ~3,824 |
+| The demons' feast | 2.00% | ~3,824 |
+| The Great Library | 2.00% | ~3,824 |
+| Torture and Sensibility | 2.00% | ~3,824 |
+| Res Judicata | 2.00% | ~3,824 |
+| Dwarf Fortress | 2.00% | ~3,824 |
+| The Ranger of Chaos | 2.00% | ~3,824 |
+| Thieves' Guild Accreditation | 2.00% | ~3,824 |
+| Oh, when I'll be level 10... | 2.00% | ~3,824 |
+| Urik's Depths | 1.00% | ~1,912 |
+| Look but don't touch | 1.00% | ~1,912 |
+| The beards of change | 1.00% | ~1,912 |
+| Gargantua | 1.00% | ~1,912 |
+| In Navalu's footsteps | 1.00% | ~1,912 |
+| Lust and Debauchery | 1.00% | ~1,912 |
+| Material Girl | 1.00% | ~1,912 |
+| The Statuette of Gladeulfeurah | 0.90% | ~1,721 |
+| A tale of adventurers not quite like the others... | 0.90% | ~1,721 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.90% | ~1,721 |
+| It's been a hard day's night | 0.80% | ~1,530 |
 | The Dungeon Master | 0.70% | ~1,338 |
 | The Famous Dungeon of Naheulbeuk | 0.70% | ~1,338 |
 | Dead for good | 0.70% | ~1,338 |
@@ -50,8 +50,8 @@ Number of Ratings: 118  (23.09.2022)
 | The number of the counting shalt be 7 | 0.50% | ~956 |
 | An old poacher makes the best gamekeeper | 0.50% | ~956 |
 | Friendly fire | 0.40% | ~765 |
-| Holistic Adventuring Party | 0.30% | ~573 |
-| Scholar of the Lands of Fangh | 0.30% | ~573 |
+| Holistic Adventuring Party | 0.30% | ~574 |
+| Scholar of the Lands of Fangh | 0.30% | ~574 |
 | The Blood Countess | 0.20% | ~382 |
 | Insult to injury | 0.20% | ~382 |
 | We come in peace | 0.20% | ~382 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 191,142 (Ranked 58)  
+Progressed: 191,212 (Ranked 58)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-15 | 186,755 | 0 |
 | 2023-07-16 | 188,738 | 0 |
 | 2023-07-17 | 190,078 | 0 |
-| 2023-07-18 | 191,142 | 0 |
+| 2023-07-18 | 191,212 | 0 |
 ## Awards
 Max (Character Customization): 115  (Ranked 316)  
 Sum: 115 (Ranked 402)  

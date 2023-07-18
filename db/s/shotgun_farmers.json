@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -947,9 +947,9 @@
       "ID": "ach_fifteen_thousand_points",
       "SetID": "cmg602e",
       "Name": "15K",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "ach_first_first_blood",
@@ -1283,9 +1283,9 @@
       "ID": "ach_hit_player_with_bounce_grenade",
       "SetID": "bf10c8p",
       "Name": "Bouncemato",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ach_kill_pistol_with_pistol",
@@ -1387,9 +1387,9 @@
       "ID": "ach_waves_30",
       "SetID": "bf10c8p",
       "Name": "Professional Survivor",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 33
     },
     {
       "ID": "ach_waves_40",
@@ -1514,8 +1514,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-07-18T20:04:52.6630021+00:00",
+  "LastChanged_Achievements": "2023-07-18T21:05:45.9863302+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:09.0796532+00:00",
-  "LastUpdate_Ratings": "2023-07-18T19:58:48.8660029+00:00",
-  "LastUpdate_Achievements": "2023-07-18T20:04:52.6630848+00:00"
+  "LastUpdate_Ratings": "2023-07-18T20:59:09.761301+00:00",
+  "LastUpdate_Achievements": "2023-07-18T21:05:45.9863928+00:00"
 }

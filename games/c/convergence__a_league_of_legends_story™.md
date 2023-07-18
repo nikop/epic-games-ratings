@@ -29,7 +29,7 @@
 | Honest Mistake | 13.00% | ~99 |
 | Golem Chaser | 13.00% | ~99 |
 | Check Your Pulse | 13.00% | ~99 |
-| Street Style | 12.00% | ~91 |
+| Street Style | 12.00% | ~92 |
 | Right On Time | 11.00% | ~84 |
 | Whiz Kid | 10.00% | ~76 |
 | Chaincrawler Explorer | 9.00% | ~69 |
@@ -46,9 +46,9 @@
 | Sartorialist | 6.00% | ~46 |
 | Entresol Explorer | 6.00% | ~46 |
 | Golem Hunter | 5.00% | ~38 |
-| Clovemary for Remembering | 4.00% | ~30 |
-| Hexlock for Protection | 4.00% | ~30 |
-| Rungs Was Right | 4.00% | ~30 |
+| Clovemary for Remembering | 4.00% | ~31 |
+| Hexlock for Protection | 4.00% | ~31 |
+| Rungs Was Right | 4.00% | ~31 |
 | Wunderkind | 2.00% | ~15 |
 | Fitting In | 2.00% | ~15 |
 | Thinking Two Steps Ahead | 1.00% | ~8 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.50% | ~4 |
 | Raw Talent | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 762 (Ranked 198)  
+Progressed: 763 (Ranked 198)  
 Completed: 4 (0.52%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,4 +114,4 @@ Completed: 4 (0.52%) (Ranked 126)
 | 2023-07-14 | 754 | 4 |
 | 2023-07-15 | 758 | 4 |
 | 2023-07-17 | 760 | 4 |
-| 2023-07-18 | 762 | 4 |
+| 2023-07-18 | 763 | 4 |

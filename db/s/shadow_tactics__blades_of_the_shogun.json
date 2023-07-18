@@ -1345,9 +1345,9 @@
       "Count": 245
     }
   ],
-  "EOS_Progressed": 186686,
+  "EOS_Progressed": 186689,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 1803,
+  "EOS_NewPlayers": 1802,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -11065,6 +11065,11 @@
       "Time": "2023-07-18T20:06:22.5094556+00:00",
       "NumProgressed": 186686,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-07-18T21:07:45.3100474+00:00",
+      "NumProgressed": 186689,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 44,
@@ -11148,7 +11153,7 @@
       "Name": "Genin",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 20535
+      "UsersEstimate": 20536
     },
     {
       "ID": "HappyLittleAccidents",
@@ -11156,7 +11161,7 @@
       "Name": "Happy little accidents",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7467
+      "UsersEstimate": 7468
     },
     {
       "ID": "HappyPlanning",
@@ -11252,7 +11257,7 @@
       "Name": "Okkoto",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 7467
+      "UsersEstimate": 7468
     },
     {
       "ID": "OldMan",
@@ -11276,7 +11281,7 @@
       "Name": "Prisoners",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7467
+      "UsersEstimate": 7468
     },
     {
       "ID": "ReleaseTheKraken",
@@ -11388,7 +11393,7 @@
       "Name": "Too Early",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7467
+      "UsersEstimate": 7468
     },
     {
       "ID": "Warzone",
@@ -11404,7 +11409,7 @@
       "Name": "When Cut Across the Neck",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 1493
+      "UsersEstimate": 1494
     },
     {
       "ID": "WinnerWinner",
@@ -11427,15 +11432,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 186686,
+      "Progressed": 186689,
       "Completed": 59
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-07-17T10:59:29.4177007+00:00",
-  "LastChanged_Achievements": "2023-07-18T20:06:22.5094551+00:00",
+  "LastChanged_Achievements": "2023-07-18T21:07:45.3100467+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:02.1147937+00:00",
-  "LastUpdate_Ratings": "2023-07-18T19:59:31.6570709+00:00",
-  "LastUpdate_Achievements": "2023-07-18T20:06:22.5095495+00:00"
+  "LastUpdate_Ratings": "2023-07-18T21:00:03.7383989+00:00",
+  "LastUpdate_Achievements": "2023-07-18T21:07:45.3101187+00:00"
 }

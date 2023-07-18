@@ -5,9 +5,9 @@ Rating: 4.10 (Ranked 887)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,558 |
-| World Map | 79.00% | ~1,323 |
-| Temple of Eternals | 56.00% | ~938 |
+| Victor | 93.00% | ~1,559 |
+| World Map | 79.00% | ~1,324 |
+| Temple of Eternals | 56.00% | ~939 |
 | Prestigious | 53.00% | ~888 |
 | Fellowship Power | 41.00% | ~687 |
 | Guild Power | 25.00% | ~419 |
@@ -39,17 +39,17 @@ Rating: 4.10 (Ranked 887)
 | Mastery | 9.00% | ~151 |
 | Moving Up The Ladder | 9.00% | ~151 |
 | Scroll Master | 9.00% | ~151 |
+| Here We Go Again | 8.00% | ~134 |
 | The father of Dragons | 8.00% | ~134 |
-| Here We Go Again | 7.00% | ~117 |
 | Master Enchanter | 7.00% | ~117 |
 | The Expeditioner | 7.00% | ~117 |
 | Trader | 7.00% | ~117 |
-| Crystal Mining | 6.00% | ~100 |
-| Dragon Slayer | 6.00% | ~100 |
-| Enchanting skill | 6.00% | ~100 |
-| Engineer Mastery | 6.00% | ~100 |
-| How Do You Turn This On? | 6.00% | ~100 |
-| Weekly Quest Completionist | 6.00% | ~100 |
+| Crystal Mining | 6.00% | ~101 |
+| Dragon Slayer | 6.00% | ~101 |
+| Enchanting skill | 6.00% | ~101 |
+| Engineer Mastery | 6.00% | ~101 |
+| How Do You Turn This On? | 6.00% | ~101 |
+| Weekly Quest Completionist | 6.00% | ~101 |
 | Ancient Knowledge | 5.00% | ~84 |
 | Blueprint Upgrades | 5.00% | ~84 |
 | Lock And Load | 5.00% | ~84 |
@@ -81,7 +81,7 @@ Rating: 4.10 (Ranked 887)
 | War Machines Army | 0.20% | ~3 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,675 (Ranked 169)  
+Progressed: 1,676 (Ranked 169)  
 Completed: 1 (0.06%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 1 (0.06%) (Ranked 199)
 | 2023-07-15 | 1,647 | 1 |
 | 2023-07-16 | 1,662 | 1 |
 | 2023-07-17 | 1,671 | 1 |
-| 2023-07-18 | 1,675 | 1 |
+| 2023-07-18 | 1,676 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -298,9 +298,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 39009,
+  "EOS_Progressed": 39011,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5433,6 +5433,11 @@
       "Time": "2023-07-18T18:03:43.8039126+00:00",
       "NumProgressed": 39009,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-18T21:04:29.1763578+00:00",
+      "NumProgressed": 39011,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -5604,7 +5609,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1950
+      "UsersEstimate": 1951
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -5660,7 +5665,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1950
+      "UsersEstimate": 1951
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -5867,22 +5872,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 39009,
+      "Progressed": 39011,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 3846,
-      "Completed": 3846
+      "Progressed": 3848,
+      "Completed": 3848
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-07-17T09:59:32.6578153+00:00",
-  "LastChanged_Achievements": "2023-07-18T20:03:40.2947161+00:00",
+  "LastChanged_Achievements": "2023-07-18T21:04:29.176357+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:23.0816772+00:00",
-  "LastUpdate_Ratings": "2023-07-18T19:58:58.515614+00:00",
-  "LastUpdate_Achievements": "2023-07-18T20:03:40.2947921+00:00"
+  "LastUpdate_Ratings": "2023-07-18T20:59:21.6908712+00:00",
+  "LastUpdate_Achievements": "2023-07-18T21:04:29.176417+00:00"
 }

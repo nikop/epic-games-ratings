@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 154,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -416,7 +416,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3299,
+  "EOS_Progressed": 3300,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
@@ -5156,6 +5156,11 @@
       "Time": "2023-07-18T15:04:16.1855891+00:00",
       "NumProgressed": 3299,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-18T21:04:21.9905078+00:00",
+      "NumProgressed": 3300,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -5591,7 +5596,7 @@
       "Name": "F\u00FChrerious Repetition",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "REWARD_DLC01_02_REICH_TO_THE_POINT",
@@ -5599,7 +5604,7 @@
       "Name": "Reich To The Point",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "REWARD_DLC01_03_FROM_FUHRER_AWAY",
@@ -5615,7 +5620,7 @@
       "Name": "Covert Elimination",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "REWARD_DLC01_05_ALPHA",
@@ -5679,7 +5684,7 @@
       "Name": "Operation Overlord",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "REWARD_DLC03_01_IF_YOU_GO_DOWN_TO_THE_WOODS_TODAY",
@@ -5703,7 +5708,7 @@
       "Name": "Stroll in the Woods",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "REWARD_DLC04_01_SHIPBREAKER",
@@ -5727,20 +5732,20 @@
       "Name": "Going Overboard",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3250,
+      "Progressed": 3251,
       "Completed": 13
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3299,
+      "Progressed": 3300,
       "Completed": 9
     }
   ],
@@ -5748,8 +5753,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-18T17:56:54.2663242+00:00",
-  "LastChanged_Achievements": "2023-07-18T20:03:34.7169259+00:00",
+  "LastChanged_Achievements": "2023-07-18T21:04:21.9905074+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:52.6032381+00:00",
-  "LastUpdate_Ratings": "2023-07-18T19:57:10.1955844+00:00",
-  "LastUpdate_Achievements": "2023-07-18T20:03:34.7170236+00:00"
+  "LastUpdate_Ratings": "2023-07-18T20:56:59.7622542+00:00",
+  "LastUpdate_Achievements": "2023-07-18T21:04:21.9905853+00:00"
 }

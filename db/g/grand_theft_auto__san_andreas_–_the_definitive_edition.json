@@ -2,7 +2,7 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 458,
+  "Ranking_Rating": 457,
   "Ranking_Popularity": 254,
   "Ranking_PopularitySum": 351,
   "Ranking_EOS_Progress": 116,
@@ -574,9 +574,9 @@
       "Count": 221
     }
   ],
-  "EOS_Progressed": 11091,
+  "EOS_Progressed": 11093,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6749,6 +6749,11 @@
       "Time": "2023-07-18T20:06:22.2832824+00:00",
       "NumProgressed": 11091,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-07-18T21:07:44.8810793+00:00",
+      "NumProgressed": 11093,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 35,
@@ -6760,7 +6765,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 8984
+      "UsersEstimate": 8985
     },
     {
       "ID": "ACH02",
@@ -6768,7 +6773,7 @@
       "Name": "With Extra Dip",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "ACH03",
@@ -6776,7 +6781,7 @@
       "Name": "The End of the Line",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "ACH04",
@@ -6808,7 +6813,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2107
+      "UsersEstimate": 2108
     },
     {
       "ID": "ACH08",
@@ -6856,7 +6861,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 1996
+      "UsersEstimate": 1997
     },
     {
       "ID": "ACH14",
@@ -6896,7 +6901,7 @@
       "Name": "Saviour",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "ACH19",
@@ -7039,7 +7044,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11091,
+      "Progressed": 11093,
       "Completed": 31
     }
   ],
@@ -7047,8 +7052,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-18T19:00:25.889542+00:00",
-  "LastChanged_Achievements": "2023-07-18T20:06:22.2832819+00:00",
+  "LastChanged_Achievements": "2023-07-18T21:07:44.8810791+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:18.5169648+00:00",
-  "LastUpdate_Ratings": "2023-07-18T20:00:37.0958679+00:00",
-  "LastUpdate_Achievements": "2023-07-18T20:06:22.2833446+00:00"
+  "LastUpdate_Ratings": "2023-07-18T21:01:30.9195271+00:00",
+  "LastUpdate_Achievements": "2023-07-18T21:07:44.8811254+00:00"
 }

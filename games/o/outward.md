@@ -17,9 +17,9 @@ Number of Ratings: 266  (23.09.2022)
 | Exceptional Skill | 22.00% | ~672 |
 | Home Sweet Home | 22.00% | ~672 |
 | Encyclopedic! | 20.00% | ~611 |
+| The Power of Family | 17.00% | ~519 |
 | A Fortress Toppled! | 16.00% | ~489 |
 | Apex Predator | 16.00% | ~489 |
-| The Power of Family | 16.00% | ~489 |
 | Strange amalgams | 12.00% | ~366 |
 | The Power of Faith | 12.00% | ~366 |
 | The Power of Freedom | 9.00% | ~275 |
