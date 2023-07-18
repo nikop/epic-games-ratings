@@ -6,19 +6,19 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 79.00% | ~4,861 |
-| Worker Specialization | 78.00% | ~4,799 |
+| Colonize a Planet | 79.00% | ~4,862 |
+| Worker Specialization | 78.00% | ~4,800 |
 | First Contact | 73.00% | ~4,492 |
 | Win a Battle | 67.00% | ~4,123 |
-| Anomaly Researcher | 63.00% | ~3,876 |
+| Anomaly Researcher | 63.00% | ~3,877 |
 | Unleash My Power | 62.00% | ~3,815 |
 | Own 30 Planets | 35.00% | ~2,154 |
-| Xenocide | 33.00% | ~2,030 |
+| Xenocide | 33.00% | ~2,031 |
 | Design a Civilization | 32.00% | ~1,969 |
-| Commodity Trader | 31.00% | ~1,907 |
-| Design a Ship | 29.00% | ~1,784 |
+| Commodity Trader | 31.00% | ~1,908 |
+| Design a Ship | 29.00% | ~1,785 |
 | Commodity Seller | 26.00% | ~1,600 |
-| Prestige Victory! | 14.00% | ~861 |
+| Prestige Victory! | 14.00% | ~862 |
 | Galactic War | 11.00% | ~677 |
 | Trading Partner | 9.00% | ~554 |
 | Fleet Victory | 9.00% | ~554 |
@@ -45,10 +45,10 @@ Number of Ratings: 429  (23.09.2022)
 | Win as the Drengin | 0.70% | ~43 |
 | Win as the Krynn | 0.70% | ~43 |
 | Win as the Manti | 0.70% | ~43 |
-| Diplomatic Victory! | 0.70% | ~43 |
 | Win as the Iconians | 0.60% | ~37 |
 | Win as the Iridium | 0.60% | ~37 |
 | Win as the Onyx | 0.60% | ~37 |
+| Diplomatic Victory! | 0.60% | ~37 |
 | Relic Hoarder | 0.30% | ~18 |
 | Iconia Reclaimed! | 0.30% | ~18 |
 | Discover a Nebula | 0.20% | ~12 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,153 (Ranked 132)  
+Progressed: 6,154 (Ranked 132)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-15 | 6,131 | 0 |
 | 2023-07-16 | 6,142 | 0 |
 | 2023-07-17 | 6,150 | 0 |
-| 2023-07-18 | 6,153 | 0 |
+| 2023-07-18 | 6,154 | 0 |
 ## Awards
 Max (Diverse Characters): 92  (Ranked 344)  
 Sum: 666 (Ranked 277)  

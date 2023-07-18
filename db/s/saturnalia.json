@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 64561,
+  "EOS_Progressed": 64568,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -5365,6 +5365,11 @@
       "Time": "2023-07-18T14:06:18.1871575+00:00",
       "NumProgressed": 64561,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-07-18T15:05:50.3110794+00:00",
+      "NumProgressed": 64568,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 20,
@@ -5392,7 +5397,7 @@
       "Name": "Bless me Father...",
       "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "ACH_CLAUDIAMISSION",
@@ -5512,7 +5517,7 @@
       "Name": "Out of Shape",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2582
+      "UsersEstimate": 2583
     },
     {
       "ID": "ACH_TECLAMISSION",
@@ -5535,7 +5540,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 64561,
+      "Progressed": 64568,
       "Completed": 13
     }
   ],
@@ -5543,8 +5548,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-05-14T20:57:12.1011944+00:00",
-  "LastChanged_Achievements": "2023-07-18T14:06:18.1871569+00:00",
+  "LastChanged_Achievements": "2023-07-18T15:05:50.3110786+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:25.9966818+00:00",
-  "LastUpdate_Ratings": "2023-07-18T13:58:35.4069892+00:00",
-  "LastUpdate_Achievements": "2023-07-18T14:06:18.1872115+00:00"
+  "LastUpdate_Ratings": "2023-07-18T14:58:15.44134+00:00",
+  "LastUpdate_Achievements": "2023-07-18T15:05:50.3111451+00:00"
 }

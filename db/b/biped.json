@@ -4,7 +4,7 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4223,
+  "EOS_Progressed": 4224,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6351,6 +6351,11 @@
       "Time": "2023-07-18T12:06:52.0032725+00:00",
       "NumProgressed": 4223,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-18T15:08:07.865728+00:00",
+      "NumProgressed": 4224,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -6418,7 +6423,7 @@
       "Name": "Dense Forest",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1351
+      "UsersEstimate": 1352
     },
     {
       "ID": "3",
@@ -6426,7 +6431,7 @@
       "Name": "Cactus Vally",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 971
+      "UsersEstimate": 972
     },
     {
       "ID": "4",
@@ -6481,7 +6486,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 4223,
+      "Progressed": 4224,
       "Completed": 0
     }
   ],
@@ -6489,8 +6494,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-07-18T14:08:25.4441281+00:00",
+  "LastChanged_Achievements": "2023-07-18T15:08:07.8657271+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:39.4549072+00:00",
-  "LastUpdate_Ratings": "2023-07-18T13:59:17.6785131+00:00",
-  "LastUpdate_Achievements": "2023-07-18T14:08:25.4441944+00:00"
+  "LastUpdate_Ratings": "2023-07-18T14:58:58.8908104+00:00",
+  "LastUpdate_Achievements": "2023-07-18T15:08:07.8657997+00:00"
 }

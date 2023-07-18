@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 550,
+  "EOS_Progressed": 551,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1215,6 +1215,11 @@
       "Time": "2023-07-16T22:07:27.2982552+00:00",
       "NumProgressed": 550,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-18T15:08:13.0020552+00:00",
+      "NumProgressed": 551,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1258,7 +1263,7 @@
       "Name": "Devil\u0027s in the details",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "Devoted",
@@ -1306,7 +1311,7 @@
       "Name": "Goal!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "GoldRush",
@@ -1362,7 +1367,7 @@
       "Name": "Both sides",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "MuhsroomTruth",
@@ -1410,7 +1415,7 @@
       "Name": "Specialist",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "SpringCleaning",
@@ -1474,14 +1479,14 @@
       "Name": "Witch\u0027s cookbook",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     }
   ],
   "AchievementSets": [
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 550,
+      "Progressed": 551,
       "Completed": 1
     }
   ],
@@ -1489,8 +1494,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-07-18T14:08:30.6961538+00:00",
+  "LastChanged_Achievements": "2023-07-18T15:08:13.0020545+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:28.36471+00:00",
-  "LastUpdate_Ratings": "2023-07-18T13:59:06.3991629+00:00",
-  "LastUpdate_Achievements": "2023-07-18T14:08:30.6962259+00:00"
+  "LastUpdate_Ratings": "2023-07-18T14:58:48.6740289+00:00",
+  "LastUpdate_Achievements": "2023-07-18T15:08:13.0021021+00:00"
 }

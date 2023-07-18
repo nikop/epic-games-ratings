@@ -2661,9 +2661,9 @@
       "ID": "THERE_CAN_BE_ONLY_ONE",
       "SetID": "9a4jnji",
       "Name": "There Can Be Only One!",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 296
+      "UsersEstimate": 308
     },
     {
       "ID": "THE_MEANING_OF_KAIN",
@@ -2702,8 +2702,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-07-10T17:58:57.5580271+00:00",
-  "LastChanged_Achievements": "2023-07-18T14:04:17.7413631+00:00",
+  "LastChanged_Achievements": "2023-07-18T15:03:50.0124761+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:06.764878+00:00",
-  "LastUpdate_Ratings": "2023-07-18T13:59:38.0914638+00:00",
-  "LastUpdate_Achievements": "2023-07-18T14:04:17.7414292+00:00"
+  "LastUpdate_Ratings": "2023-07-18T14:59:16.9096695+00:00",
+  "LastUpdate_Achievements": "2023-07-18T15:03:50.0125512+00:00"
 }

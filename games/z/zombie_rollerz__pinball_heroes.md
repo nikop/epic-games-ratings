@@ -55,6 +55,7 @@
 | Tongs | 3.00% | ~4 |
 | Concluded | 3.00% | ~4 |
 | Platinum | 3.00% | ~4 |
+| Gunpowder | 3.00% | ~4 |
 | Really Bad Luck | 2.00% | ~2 |
 | Chorus | 2.00% | ~2 |
 | TNT | 2.00% | ~2 |
@@ -62,7 +63,6 @@
 | Nuclear Bomb | 2.00% | ~2 |
 | Divinity | 2.00% | ~2 |
 | Hammer | 2.00% | ~2 |
-| Gunpowder | 2.00% | ~2 |
 | Blaze | 0.80% | ~1 |
 | Topaz | 0.80% | ~1 |
 | Immortality | 0.80% | ~1 |

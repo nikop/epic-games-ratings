@@ -5,7 +5,7 @@ Rating: 4.18 (Ranked 856)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 6.00% | ~4,029 |
+| First Step Into the Knight | 6.00% | ~4,030 |
 | To the Victor Go the Spoils | 4.00% | ~2,686 |
 | Har, Har, Har, Very Funny | 4.00% | ~2,686 |
 | Knighthood | 4.00% | ~2,686 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 856)
 | History Major | 0.10% | ~67 |
 | Confronting Your Demon | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,158 (Ranked 77)  
+Progressed: 67,162 (Ranked 77)  
 Completed: 102 (0.15%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 102 (0.15%) (Ranked 173)
 | 2023-07-15 | 67,061 | 102 |
 | 2023-07-16 | 67,109 | 102 |
 | 2023-07-17 | 67,148 | 102 |
-| 2023-07-18 | 67,158 | 102 |
+| 2023-07-18 | 67,162 | 102 |
 ## Awards
 Max (Great Boss Battles): 2,451  (Ranked 101)  
 Sum: 4,062 (Ranked 138)  

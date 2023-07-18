@@ -562,9 +562,9 @@
       "Count": 214
     }
   ],
-  "EOS_Progressed": 463237,
+  "EOS_Progressed": 463243,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 484,
+  "EOS_NewPlayers": 486,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9677,6 +9677,11 @@
       "Time": "2023-07-18T13:16:34.2457089+00:00",
       "NumProgressed": 463237,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-07-18T15:02:54.1323122+00:00",
+      "NumProgressed": 463243,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 79,
@@ -9870,9 +9875,9 @@
       "ID": "achievement_story_second_awakening",
       "SetID": "8cokdon",
       "Name": "Second Coming",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1853
+      "UsersEstimate": 2316
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -10319,21 +10324,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 7171,
+      "Progressed": 7177,
       "Completed": 2353
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 463237,
+      "Progressed": 463243,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-07-02T08:59:13.8125338+00:00",
-  "LastChanged_Achievements": "2023-07-18T14:03:11.7145288+00:00",
+  "LastChanged_Achievements": "2023-07-18T15:02:54.1323115+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:14.1891712+00:00",
-  "LastUpdate_Ratings": "2023-07-18T14:00:59.8592087+00:00",
-  "LastUpdate_Achievements": "2023-07-18T14:03:11.7146995+00:00"
+  "LastUpdate_Ratings": "2023-07-18T15:00:46.3134798+00:00",
+  "LastUpdate_Achievements": "2023-07-18T15:02:54.1324479+00:00"
 }

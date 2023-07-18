@@ -14,9 +14,9 @@ Rating: 4.45 (Ranked 624)
 | Ancient Curse | 28.00% | ~725 |
 | Cat Person | 26.00% | ~673 |
 | Hidden Secrets | 25.00% | ~647 |
+| Reunion | 25.00% | ~647 |
 | Climber | 24.00% | ~621 |
 | Mad Scientist | 24.00% | ~621 |
-| Reunion | 24.00% | ~621 |
 | Imprisonment | 23.00% | ~595 |
 | Dog Person | 20.00% | ~518 |
 ## Popularity (Based on EOS Achievements)

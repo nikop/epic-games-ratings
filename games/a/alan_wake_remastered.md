@@ -6,9 +6,9 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 34.00% | ~19,550 |
-| Let There Be Light | 28.00% | ~16,100 |
-| Float Like a Butterfly | 26.00% | ~14,950 |
+| Follow the Light | 34.00% | ~19,551 |
+| Let There Be Light | 28.00% | ~16,101 |
+| Float Like a Butterfly | 26.00% | ~14,951 |
 | Nordic Walking | 21.00% | ~12,075 |
 | Bright Falls' Finest | 21.00% | ~12,075 |
 | Under a Thin Layer of Skin | 18.00% | ~10,350 |
@@ -35,7 +35,7 @@ Number of Ratings: 524  (23.09.2022)
 | Energized! | 9.00% | ~5,175 |
 | What Light Through Yonder Window | 8.00% | ~4,600 |
 | Right of Way | 8.00% | ~4,600 |
-| A Friend in Need | 8.00% | ~1,677 |
+| A Friend in Need | 8.00% | ~1,678 |
 | Tornado Wrangler | 7.00% | ~4,025 |
 | Departure | 6.00% | ~3,450 |
 | A Friend Indeed | 6.00% | ~1,258 |
@@ -62,19 +62,19 @@ Number of Ratings: 524  (23.09.2022)
 | License Revoked | 0.40% | ~84 |
 | Whirlwind | 0.40% | ~84 |
 | Creative Space | 0.40% | ~84 |
-| Alan, Wake Up | 0.30% | ~172 |
-| Meet the Deadline | 0.30% | ~172 |
-| Picking Up After Yourself | 0.30% | ~172 |
+| Alan, Wake Up | 0.30% | ~173 |
+| Meet the Deadline | 0.30% | ~173 |
+| Picking Up After Yourself | 0.30% | ~173 |
 | Tick Tock | 0.30% | ~63 |
 | Gunless Wonder | 0.20% | ~115 |
 | Every Nook and Cranny | 0.20% | ~115 |
 | Bright Falls Aficionado | 0.20% | ~115 |
 | Licensed Properties | 0.20% | ~42 |
-| Collector's Edition | 0.10% | ~57 |
-| Hypercaffeinated | 0.10% | ~57 |
+| Collector's Edition | 0.10% | ~58 |
+| Hypercaffeinated | 0.10% | ~58 |
 | No Punctuation | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,499 (Ranked 82)  
+Progressed: 57,502 (Ranked 82)  
 Completed: 58 (0.10%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 58 (0.10%) (Ranked 182)
 | 2023-07-15 | 57,378 | 58 |
 | 2023-07-16 | 57,444 | 58 |
 | 2023-07-17 | 57,477 | 58 |
-| 2023-07-18 | 57,499 | 58 |
+| 2023-07-18 | 57,502 | 58 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

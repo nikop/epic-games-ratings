@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2084,9 +2084,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67158,
+  "EOS_Progressed": 67162,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 292,
+  "EOS_NewPlayers": 295,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10139,6 +10139,11 @@
       "Time": "2023-07-18T14:05:26.331057+00:00",
       "NumProgressed": 67158,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-07-18T15:04:58.1744051+00:00",
+      "NumProgressed": 67162,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 61,
@@ -10494,7 +10499,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4029
+      "UsersEstimate": 4030
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -10637,13 +10642,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67158,
+      "Progressed": 67162,
       "Completed": 102
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 37438,
+      "Progressed": 37442,
       "Completed": 2652
     }
   ],
@@ -10651,8 +10656,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-07-18T13:15:11.3207978+00:00",
-  "LastChanged_Achievements": "2023-07-18T14:05:26.3310564+00:00",
+  "LastChanged_Achievements": "2023-07-18T15:04:58.1744043+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:49.4668745+00:00",
-  "LastUpdate_Ratings": "2023-07-18T14:01:44.3710333+00:00",
-  "LastUpdate_Achievements": "2023-07-18T14:05:26.331162+00:00"
+  "LastUpdate_Ratings": "2023-07-18T15:01:28.139219+00:00",
+  "LastUpdate_Achievements": "2023-07-18T15:04:58.1745483+00:00"
 }

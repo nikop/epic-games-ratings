@@ -26,7 +26,7 @@ Rating: 4.25 (Ranked 808)
 | PATTY-KILLER | 8.00% | ~29 |
 | EXPERIMENTALIST | 7.00% | ~26 |
 | SCATTERBRAIN | 7.00% | ~26 |
-| TASTE UNTASTY | 4.00% | ~15 |
+| TASTE UNTASTY | 5.00% | ~18 |
 | HIGH TECHNOLOGIES | 3.00% | ~11 |
 | CORRUPTIONIST | 2.00% | ~7 |
 | I'VE SEEN SOME… | 2.00% | ~7 |

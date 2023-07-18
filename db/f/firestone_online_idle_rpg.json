@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1673,
+  "EOS_Progressed": 1674,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4309,6 +4309,11 @@
       "Time": "2023-07-18T12:01:42.4680745+00:00",
       "NumProgressed": 1673,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-18T15:02:36.8227531+00:00",
+      "NumProgressed": 1674,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -4496,7 +4501,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "fellowshippower",
@@ -4550,9 +4555,9 @@
       "ID": "guildpower",
       "SetID": "3nl4bcg",
       "Name": "Guild Power",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 418
+      "UsersEstimate": 402
     },
     {
       "ID": "herewegoagain",
@@ -4680,7 +4685,7 @@
       "Name": "Mysterious Rock",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "mythicpower",
@@ -4720,7 +4725,7 @@
       "Name": "Prestigious x10",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "relicofthepast",
@@ -4750,9 +4755,9 @@
       "ID": "scrollmaster",
       "SetID": "3nl4bcg",
       "Name": "Scroll Master",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 167
+      "UsersEstimate": 151
     },
     {
       "ID": "silverwoodliberator",
@@ -4824,7 +4829,7 @@
       "Name": "The Unstoppable",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "titanpower",
@@ -4880,7 +4885,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1556
+      "UsersEstimate": 1557
     },
     {
       "ID": "warmachinesarmy",
@@ -4919,7 +4924,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1673,
+      "Progressed": 1674,
       "Completed": 1
     }
   ],
@@ -4927,8 +4932,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-07-16T03:26:23.9449732+00:00",
-  "LastChanged_Achievements": "2023-07-18T14:02:52.9090886+00:00",
+  "LastChanged_Achievements": "2023-07-18T15:02:36.8227525+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:38.4078532+00:00",
-  "LastUpdate_Ratings": "2023-07-18T13:59:17.3084528+00:00",
-  "LastUpdate_Achievements": "2023-07-18T14:02:52.9092081+00:00"
+  "LastUpdate_Ratings": "2023-07-18T14:58:58.5397257+00:00",
+  "LastUpdate_Achievements": "2023-07-18T15:02:36.8228949+00:00"
 }

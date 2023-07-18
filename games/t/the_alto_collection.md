@@ -6,19 +6,19 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 26.00% | ~8,209 |
-| Finding Your Footing | 26.00% | ~8,209 |
-| Nomad | 18.00% | ~5,683 |
-| Picking Up Speed | 16.00% | ~5,052 |
-| Welcome Maya | 15.00% | ~4,736 |
-| Sightseer | 11.00% | ~3,473 |
-| Scout | 10.00% | ~3,157 |
+| Rookie | 26.00% | ~8,211 |
+| Finding Your Footing | 26.00% | ~8,211 |
+| Nomad | 18.00% | ~5,684 |
+| Picking Up Speed | 16.00% | ~5,053 |
+| Welcome Maya | 15.00% | ~4,737 |
+| Sightseer | 11.00% | ~3,474 |
+| Scout | 10.00% | ~3,158 |
 | Amateur | 9.00% | ~2,842 |
 | Wanderer | 9.00% | ~2,842 |
 | Enter Paz | 8.00% | ~2,526 |
-| Unlock Maya | 7.00% | ~2,210 |
-| Aviator | 6.00% | ~1,894 |
-| One With The Board | 6.00% | ~1,894 |
+| Unlock Maya | 7.00% | ~2,211 |
+| Aviator | 6.00% | ~1,895 |
+| One With The Board | 6.00% | ~1,895 |
 | My Little Friend | 5.00% | ~1,579 |
 | Voyager | 5.00% | ~1,579 |
 | Sandboarder | 4.00% | ~1,263 |
@@ -27,9 +27,9 @@ Number of Ratings: 332  (23.09.2022)
 | Traveler | 3.00% | ~947 |
 | Journeyer | 3.00% | ~947 |
 | Unlock Paz | 3.00% | ~947 |
-| Pro | 2.00% | ~631 |
-| Human Flight | 2.00% | ~631 |
-| Here Comes Felipe | 2.00% | ~631 |
+| Pro | 2.00% | ~632 |
+| Human Flight | 2.00% | ~632 |
+| Here Comes Felipe | 2.00% | ~632 |
 | Explorer | 1.00% | ~316 |
 | Hoist the Mainsail | 1.00% | ~316 |
 | Unlock Izel | 1.00% | ~316 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~32 |
 | Windswept | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,574 (Ranked 95)  
+Progressed: 31,580 (Ranked 95)  
 Completed: 5 (0.02%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,10 +135,10 @@ Completed: 5 (0.02%) (Ranked 214)
 | 2023-07-15 | 31,208 | 5 |
 | 2023-07-16 | 31,363 | 5 |
 | 2023-07-17 | 31,503 | 5 |
-| 2023-07-18 | 31,574 | 5 |
+| 2023-07-18 | 31,580 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 45  (Ranked 409)  
-Sum: 351 (Ranked 322)  
+Sum: 352 (Ranked 322)  
 Diff (max vs sum): 87  
 | Award | Count |
 | ----- | ----- |
@@ -149,7 +149,7 @@ Diff (max vs sum): 87
 | This game has Quickly Understood Controls | 37 |
 | This game is Relaxing | 35 |
 | This game is Extremely Fun | 34 |
-| This game has Diverse Characters | 27 |
+| This game has Diverse Characters | 28 |
 | This game has Amazing Storytelling | 27 |
 | This game has Amazing Characters | 25 |
 ## Ratings History
@@ -247,3 +247,4 @@ Diff (max vs sum): 87
 | 2023-06-25 | 4.70 | - | 45 | 349 |
 | 2023-06-28 | 4.70 | - | 45 | 350 |
 | 2023-07-12 | 4.70 | - | 45 | 351 |
+| 2023-07-18 | 4.70 | - | 45 | 352 |

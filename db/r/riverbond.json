@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 522526,
+  "EOS_Progressed": 522528,
   "EOS_Completed": 447,
-  "EOS_NewPlayers": 648,
+  "EOS_NewPlayers": 647,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -9675,6 +9675,11 @@
       "Time": "2023-07-18T14:03:50.6623954+00:00",
       "NumProgressed": 522526,
       "NumCompleted": 447
+    },
+    {
+      "Time": "2023-07-18T15:03:33.0550766+00:00",
+      "NumProgressed": 522528,
+      "NumCompleted": 447
     }
   ],
   "TotalAchievements": 57,
@@ -9694,7 +9699,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 235137
+      "UsersEstimate": 235138
     },
     {
       "ID": "11",
@@ -9702,7 +9707,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 365768
+      "UsersEstimate": 365770
     },
     {
       "ID": "12",
@@ -9718,7 +9723,7 @@
       "Name": "Keep On Trucking",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 67928
+      "UsersEstimate": 67929
     },
     {
       "ID": "14",
@@ -9742,7 +9747,7 @@
       "Name": "Road Less Travelled",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 47027
+      "UsersEstimate": 47028
     },
     {
       "ID": "17",
@@ -9766,7 +9771,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 323966
+      "UsersEstimate": 323967
     },
     {
       "ID": "2",
@@ -9782,7 +9787,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 125406
+      "UsersEstimate": 125407
     },
     {
       "ID": "21",
@@ -9798,7 +9803,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 47027
+      "UsersEstimate": 47028
     },
     {
       "ID": "23",
@@ -9910,7 +9915,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 261263
+      "UsersEstimate": 261264
     },
     {
       "ID": "36",
@@ -9942,7 +9947,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 177659
+      "UsersEstimate": 177660
     },
     {
       "ID": "4",
@@ -9982,7 +9987,7 @@
       "Name": "Sunny Shores",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 88829
+      "UsersEstimate": 88830
     },
     {
       "ID": "44",
@@ -10014,7 +10019,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 323966
+      "UsersEstimate": 323967
     },
     {
       "ID": "48",
@@ -10022,7 +10027,7 @@
       "Name": "To the Beat",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 104505
+      "UsersEstimate": 104506
     },
     {
       "ID": "49",
@@ -10030,7 +10035,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 177659
+      "UsersEstimate": 177660
     },
     {
       "ID": "5",
@@ -10062,7 +10067,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 240362
+      "UsersEstimate": 240363
     },
     {
       "ID": "53",
@@ -10141,15 +10146,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 522526,
+      "Progressed": 522528,
       "Completed": 447
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-07-18T14:03:50.6623946+00:00",
+  "LastChanged_Achievements": "2023-07-18T15:03:33.0550762+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:17.3888766+00:00",
-  "LastUpdate_Ratings": "2023-07-18T13:58:26.3010961+00:00",
-  "LastUpdate_Achievements": "2023-07-18T14:03:50.6625268+00:00"
+  "LastUpdate_Ratings": "2023-07-18T14:58:07.2184106+00:00",
+  "LastUpdate_Achievements": "2023-07-18T15:03:33.0552173+00:00"
 }

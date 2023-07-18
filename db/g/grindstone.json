@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -210,9 +210,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5135,
+  "EOS_Progressed": 5136,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -670,6 +670,11 @@
       "Time": "2023-07-16T16:04:31.9959428+00:00",
       "NumProgressed": 5135,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-07-18T15:05:37.3079908+00:00",
+      "NumProgressed": 5136,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 49,
@@ -705,7 +710,7 @@
       "Name": "Bone Collector",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1797
+      "UsersEstimate": 1798
     },
     {
       "ID": "ACHIEVE_50_CROWNS",
@@ -721,7 +726,7 @@
       "Name": "Ghost Facers!",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "ACHIEVE_50_GOLD",
@@ -753,7 +758,7 @@
       "Name": "Fe-Festival",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1797
+      "UsersEstimate": 1798
     },
     {
       "ID": "ACHIEVE_50_MAGMA",
@@ -785,7 +790,7 @@
       "Name": "Timber!",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 3081
+      "UsersEstimate": 3082
     },
     {
       "ID": "ACHIEVE_ATE_FOOD_3",
@@ -809,7 +814,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5032
+      "UsersEstimate": 5033
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -825,7 +830,7 @@
       "Name": "Top of the Food Chain",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1643
+      "UsersEstimate": 1644
     },
     {
       "ID": "ACHIEVE_DODGE",
@@ -857,7 +862,7 @@
       "Name": "Fortunate Soul",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2516
+      "UsersEstimate": 2517
     },
     {
       "ID": "ACHIEVE_GREED_GRIND_WIN",
@@ -865,7 +870,7 @@
       "Name": "Don\u0027t Get Too Greedy",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "ACHIEVE_JERK_ATTACK_JERK",
@@ -889,7 +894,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4005
+      "UsersEstimate": 4006
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -897,7 +902,7 @@
       "Name": "If It Bleeds, You Can Kill It",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_20",
@@ -969,7 +974,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5032
+      "UsersEstimate": 5033
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -1057,7 +1062,7 @@
       "Name": "Pardon my Slob",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1643
+      "UsersEstimate": 1644
     },
     {
       "ID": "ACHIEVE_WOKE_UP_INN",
@@ -1065,22 +1070,22 @@
       "Name": "There is No Escape",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3646
+      "UsersEstimate": 3647
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5135,
+      "Progressed": 5136,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-07-18T14:06:05.505905+00:00",
+  "LastChanged_Achievements": "2023-07-18T15:05:37.3079897+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:07.7004436+00:00",
-  "LastUpdate_Ratings": "2023-07-18T14:02:02.5195967+00:00",
-  "LastUpdate_Achievements": "2023-07-18T14:06:05.5059499+00:00"
+  "LastUpdate_Ratings": "2023-07-18T15:01:46.7102058+00:00",
+  "LastUpdate_Achievements": "2023-07-18T15:05:37.3080524+00:00"
 }

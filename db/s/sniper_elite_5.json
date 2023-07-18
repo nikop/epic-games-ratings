@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -410,9 +410,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3298,
+  "EOS_Progressed": 3299,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -5145,6 +5145,11 @@
       "Time": "2023-07-18T14:04:34.2108342+00:00",
       "NumProgressed": 3298,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-18T15:04:16.1855891+00:00",
+      "NumProgressed": 3299,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -5708,7 +5713,7 @@
       "Name": "Sink or Swim",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "REWARD_DLC04_03_GOING_OVERBOARD",
@@ -5723,13 +5728,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3249,
+      "Progressed": 3250,
       "Completed": 13
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3298,
+      "Progressed": 3299,
       "Completed": 9
     }
   ],
@@ -5737,8 +5742,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-16T03:57:21.2043629+00:00",
-  "LastChanged_Achievements": "2023-07-18T14:04:34.2108335+00:00",
+  "LastChanged_Achievements": "2023-07-18T15:04:16.1855883+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:52.6032381+00:00",
-  "LastUpdate_Ratings": "2023-07-18T13:57:23.9163134+00:00",
-  "LastUpdate_Achievements": "2023-07-18T14:04:34.2109786+00:00"
+  "LastUpdate_Ratings": "2023-07-18T14:57:05.5722265+00:00",
+  "LastUpdate_Achievements": "2023-07-18T15:04:16.1857232+00:00"
 }

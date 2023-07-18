@@ -32,6 +32,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Darkness Runs Deeper | 0.20% | ~426 |
 | Running of the Saurs | 0.20% | ~426 |
 | The Giant's Bane Tavern | 0.20% | ~359 |
+| The Everlasting Rime | 0.20% | ~359 |
 | Close Escort | 0.20% | ~426 |
 | Constant Banditry | 0.20% | ~426 |
 | The Long Haul | 0.20% | ~426 |
@@ -39,6 +40,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Easily Distracted | 0.20% | ~426 |
 | Rude Welcome | 0.20% | ~426 |
 | Durable Deep | 0.20% | ~426 |
+| Expert Opinion | 0.20% | ~426 |
 | The Templar's Camp | 0.20% | ~426 |
 | Rescue in the Jungle | 0.20% | ~426 |
 | Intelligence Hunt | 0.10% | ~213 |
@@ -214,7 +216,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rime Bandits | 0.10% | ~179 |
 | Giant-Size Adventure | 0.10% | ~179 |
 | Power of Three | 0.10% | ~179 |
-| The Everlasting Rime | 0.10% | ~179 |
 | Enemy Summit | 0.10% | ~179 |
 | Mirage Arcane | 0.10% | ~179 |
 | Only Human | 0.10% | ~179 |
@@ -232,7 +233,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wrecked Flying Fortress | 0.10% | ~179 |
 | Relentless Peril | 0.10% | ~179 |
 | Rickety Rubble | 0.10% | ~179 |
-| Expert Opinion | 0.10% | ~213 |
 | Dwarven Rumors | 0.10% | ~179 |
 | Mimic Perception | 0.10% | ~179 |
 | Frozen in Fear | 0.10% | ~179 |
@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213,052 (Ranked 53)  
+Progressed: 213,072 (Ranked 53)  
 Completed: 2,058 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -603,7 +603,7 @@ Completed: 2,058 (0.97%) (Ranked 102)
 | 2023-07-15 | 212,014 | 2,053 |
 | 2023-07-16 | 212,501 | 2,055 |
 | 2023-07-17 | 212,861 | 2,057 |
-| 2023-07-18 | 213,052 | 2,058 |
+| 2023-07-18 | 213,072 | 2,058 |
 ## Awards
 Max (Diverse Characters): 5,041  (Ranked 66)  
 Sum: 30,565 (Ranked 38)  

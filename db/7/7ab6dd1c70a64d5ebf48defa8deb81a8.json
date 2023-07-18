@@ -3,7 +3,7 @@
   "Name": null,
   "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": null,
@@ -96,17 +96,17 @@
       "ID": "ACH_02",
       "SetID": "efe2lj",
       "Name": "Find Allies",
-      "Percentage": 11,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_03",
       "SetID": "efe2lj",
       "Name": "Powerful Allies",
-      "Percentage": 11,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_04",
@@ -184,9 +184,9 @@
       "ID": "ACH_13",
       "SetID": "efe2lj",
       "Name": "Adventurer",
-      "Percentage": 11,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_14",
@@ -248,9 +248,9 @@
       "ID": "ACH_21",
       "SetID": "efe2lj",
       "Name": "Big Bazar",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_22",
@@ -312,9 +312,9 @@
       "ID": "ACH_29",
       "SetID": "efe2lj",
       "Name": "All That Gold",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_30",
@@ -352,9 +352,9 @@
       "ID": "ACH_35",
       "SetID": "efe2lj",
       "Name": "Feeling Fancy",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_36",
@@ -382,7 +382,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-07-18T14:03:50.9407005+00:00",
-  "LastUpdate_Ratings": "2023-07-18T13:57:36.8474169+00:00",
-  "LastUpdate_Achievements": "2023-07-18T14:03:50.9407323+00:00"
+  "LastChanged_Achievements": "2023-07-18T15:03:33.5461882+00:00",
+  "LastUpdate_Ratings": "2023-07-18T14:57:18.4395308+00:00",
+  "LastUpdate_Achievements": "2023-07-18T15:03:33.5462144+00:00"
 }

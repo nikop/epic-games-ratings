@@ -5,6 +5,7 @@ Rating: 4.87 (Ranked 24)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Start with a bang! | 2.00% | ~69 |
 | Cream of the Crop | 2.00% | ~69 |
 | Headliner | 2.00% | ~69 |
 | Time to pay up! | 2.00% | ~69 |
@@ -14,7 +15,6 @@ Rating: 4.87 (Ranked 24)
 | Uh, they were broken when I got here | 2.00% | ~69 |
 | Who put gears in there? | 2.00% | ~69 |
 | NOW we got a kickass hideout! | 2.00% | ~40 |
-| Start with a bang! | 1.00% | ~35 |
 | This will cost you big time | 1.00% | ~35 |
 | The Negotiator | 1.00% | ~35 |
 | Well that was a rush! | 1.00% | ~35 |

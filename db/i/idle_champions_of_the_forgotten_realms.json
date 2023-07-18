@@ -5062,9 +5062,9 @@
       "Count": 3303
     }
   ],
-  "EOS_Progressed": 213052,
+  "EOS_Progressed": 213072,
   "EOS_Completed": 2058,
-  "EOS_NewPlayers": 2946,
+  "EOS_NewPlayers": 2939,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -14577,6 +14577,11 @@
       "Time": "2023-07-18T14:07:47.0443592+00:00",
       "NumProgressed": 213052,
       "NumCompleted": 2058
+    },
+    {
+      "Time": "2023-07-18T15:07:30.4108765+00:00",
+      "NumProgressed": 213072,
+      "NumCompleted": 2058
     }
   ],
   "TotalAchievements": 507,
@@ -17698,9 +17703,9 @@
       "ID": "objective_completed_695",
       "SetID": "415jc5c",
       "Name": "The Everlasting Rime",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 179
+      "UsersEstimate": 359
     },
     {
       "ID": "objective_completed_696",
@@ -17938,9 +17943,9 @@
       "ID": "objective_completed_82",
       "SetID": "cc37lbc",
       "Name": "Expert Opinion",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 426
     },
     {
       "ID": "objective_completed_827",
@@ -18643,21 +18648,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 179326,
+      "Progressed": 179346,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 213052,
+      "Progressed": 213072,
       "Completed": 2058
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-18T10:58:19.7660335+00:00",
-  "LastChanged_Achievements": "2023-07-18T14:07:47.0443583+00:00",
+  "LastChanged_Achievements": "2023-07-18T15:07:30.4108759+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:48.5227447+00:00",
-  "LastUpdate_Ratings": "2023-07-18T13:59:26.5514817+00:00",
-  "LastUpdate_Achievements": "2023-07-18T14:07:47.0471143+00:00"
+  "LastUpdate_Ratings": "2023-07-18T14:59:07.158771+00:00",
+  "LastUpdate_Achievements": "2023-07-18T15:07:30.4149003+00:00"
 }

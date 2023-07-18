@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -862,9 +862,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 659476,
+  "EOS_Progressed": 659478,
   "EOS_Completed": 166,
-  "EOS_NewPlayers": 325,
+  "EOS_NewPlayers": 326,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -9222,6 +9222,11 @@
       "Time": "2023-07-18T14:04:17.2261833+00:00",
       "NumProgressed": 659476,
       "NumCompleted": 166
+    },
+    {
+      "Time": "2023-07-18T15:03:49.9755183+00:00",
+      "NumProgressed": 659478,
+      "NumCompleted": 166
     }
   ],
   "TotalAchievements": 48,
@@ -9233,7 +9238,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 474823
+      "UsersEstimate": 474824
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -9241,7 +9246,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 382496
+      "UsersEstimate": 382497
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -9249,7 +9254,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 151679
+      "UsersEstimate": 151680
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -9369,7 +9374,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 151679
+      "UsersEstimate": 151680
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -9497,7 +9502,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 164869
+      "UsersEstimate": 164870
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -9616,15 +9621,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 659476,
+      "Progressed": 659478,
       "Completed": 166
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-07-06T22:58:14.2890682+00:00",
-  "LastChanged_Achievements": "2023-07-18T14:04:17.2261823+00:00",
+  "LastChanged_Achievements": "2023-07-18T15:03:49.9755177+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:05.0393547+00:00",
-  "LastUpdate_Ratings": "2023-07-18T13:58:42.9471825+00:00",
-  "LastUpdate_Achievements": "2023-07-18T14:04:17.2263144+00:00"
+  "LastUpdate_Ratings": "2023-07-18T14:58:24.1042311+00:00",
+  "LastUpdate_Achievements": "2023-07-18T15:03:49.9756373+00:00"
 }

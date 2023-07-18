@@ -5,16 +5,16 @@
 | ---- | ---------- | ----- |
 | Break Out | 26.00% | ~5 |
 | Trinity | 21.00% | ~4 |
+| Find Allies | 16.00% | ~3 |
+| Powerful Allies | 16.00% | ~3 |
 | Calm before the Storm | 16.00% | ~3 |
+| Adventurer | 16.00% | ~3 |
 | Tributes of Caladrias | 16.00% | ~3 |
 | Essence Blow | 16.00% | ~3 |
 | Geared Up | 16.00% | ~3 |
 | Fashion Victim | 16.00% | ~3 |
 | I Found It | 16.00% | ~3 |
-| Find Allies | 11.00% | ~2 |
-| Powerful Allies | 11.00% | ~2 |
 | A Taste of Wrath | 11.00% | ~2 |
-| Adventurer | 11.00% | ~2 |
 | Scholar | 11.00% | ~2 |
 | Stone Collection | 11.00% | ~2 |
 | The Collector | 11.00% | ~2 |
@@ -26,17 +26,17 @@
 | Shatterer | 5.00% | ~1 |
 | Slayer | 5.00% | ~1 |
 | Flawless Victory | 5.00% | ~1 |
+| Big Bazar | 5.00% | ~1 |
 | Fine Feathers Make Fine Birds | 5.00% | ~1 |
 | False God | 5.00% | ~1 |
+| All That Gold | 5.00% | ~1 |
 | Miner | 5.00% | ~1 |
+| Feeling Fancy | 5.00% | ~1 |
 | Summiter | 5.00% | ~1 |
 | The Mentor | 0.00% | ~0 |
 | Airborne | 0.00% | ~0 |
 | Shatter Them All | 0.00% | ~0 |
-| Big Bazar | 0.00% | ~0 |
 | All There Is | 0.00% | ~0 |
-| All That Gold | 0.00% | ~0 |
-| Feeling Fancy | 0.00% | ~0 |
 | A Queen's Tale | 0.00% | ~0 |
 | Alchemist | -5.30% | ~-1 |
 ## Popularity (Based on EOS Achievements)

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 56,
+  "Ranking_EOS_NewPlayers": 55,
   "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
@@ -443,7 +443,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 79097,
+  "EOS_Progressed": 79101,
   "EOS_Completed": 373,
   "EOS_NewPlayers": 871,
   "EOS_NewCompleters": 2,
@@ -9918,6 +9918,11 @@
       "Time": "2023-07-18T14:05:46.1938816+00:00",
       "NumProgressed": 79097,
       "NumCompleted": 373
+    },
+    {
+      "Time": "2023-07-18T15:05:17.7774926+00:00",
+      "NumProgressed": 79101,
+      "NumCompleted": 373
     }
   ],
   "TotalAchievements": 10,
@@ -9969,7 +9974,7 @@
       "Name": "Collected all drawings",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "DrawingsDLC",
@@ -9993,7 +9998,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 27684
+      "UsersEstimate": 27685
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -10008,15 +10013,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 79097,
+      "Progressed": 79101,
       "Completed": 373
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-03-31T05:57:32.2303432+00:00",
-  "LastChanged_Achievements": "2023-07-18T14:05:46.1938809+00:00",
+  "LastChanged_Achievements": "2023-07-18T15:05:17.7774917+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:30.7064844+00:00",
-  "LastUpdate_Ratings": "2023-07-18T14:02:34.1887778+00:00",
-  "LastUpdate_Achievements": "2023-07-18T14:05:46.1939852+00:00"
+  "LastUpdate_Ratings": "2023-07-18T15:02:17.0801721+00:00",
+  "LastUpdate_Achievements": "2023-07-18T15:05:17.7775944+00:00"
 }
