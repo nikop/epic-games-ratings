@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -2353,9 +2353,9 @@
       "ID": "ExperiencedKnight",
       "SetID": "3jha1np",
       "Name": "Honoured Battle-Brother",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 357
+      "UsersEstimate": 386
     },
     {
       "ID": "ExtractorSkullUses",
@@ -2751,8 +2751,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-13T14:59:29.0223898+00:00",
-  "LastChanged_Achievements": "2023-07-17T23:03:30.7743711+00:00",
+  "LastChanged_Achievements": "2023-07-18T00:02:39.8670275+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:36.8896867+00:00",
-  "LastUpdate_Ratings": "2023-07-17T22:59:48.3554512+00:00",
-  "LastUpdate_Achievements": "2023-07-17T23:03:30.7744425+00:00"
+  "LastUpdate_Ratings": "2023-07-17T23:59:12.7968913+00:00",
+  "LastUpdate_Achievements": "2023-07-18T00:02:39.8670773+00:00"
 }

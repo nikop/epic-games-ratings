@@ -4054,9 +4054,9 @@
       "Count": 646
     }
   ],
-  "EOS_Progressed": 3533228,
+  "EOS_Progressed": 3533242,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 3004,
+  "EOS_NewPlayers": 3000,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13679,6 +13679,11 @@
       "Time": "2023-07-17T23:08:10.4882021+00:00",
       "NumProgressed": 3533228,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-07-18T00:07:01.6775225+00:00",
+      "NumProgressed": 3533242,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 52,
@@ -13698,7 +13703,7 @@
       "Name": "The Best of Both Worlds",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 883307
+      "UsersEstimate": 883310
     },
     {
       "ID": "BRICK",
@@ -13730,7 +13735,7 @@
       "Name": "Double trouble",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 529984
+      "UsersEstimate": 529986
     },
     {
       "ID": "BUILD_2",
@@ -13746,7 +13751,7 @@
       "Name": "Keeping things neat",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 141329
+      "UsersEstimate": 141330
     },
     {
       "ID": "CASH_1",
@@ -13754,7 +13759,7 @@
       "Name": "Back in the black",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1377959
+      "UsersEstimate": 1377964
     },
     {
       "ID": "CASH_2",
@@ -13762,7 +13767,7 @@
       "Name": "Seems you\u0027re pretty good at this",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 141329
+      "UsersEstimate": 141330
     },
     {
       "ID": "CASH_3",
@@ -13786,7 +13791,7 @@
       "Name": "But can it run Crysis?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 317991
+      "UsersEstimate": 317992
     },
     {
       "ID": "DATE",
@@ -13818,7 +13823,7 @@
       "Name": "Get your wings",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 706646
+      "UsersEstimate": 706648
     },
     {
       "ID": "HBPC_TIME",
@@ -13850,7 +13855,7 @@
       "Name": "That\u0027s what I\u0027m talking about",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 989304
+      "UsersEstimate": 989308
     },
     {
       "ID": "JOBS_2",
@@ -13858,7 +13863,7 @@
       "Name": "Smashing it",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 353323
+      "UsersEstimate": 353324
     },
     {
       "ID": "JOBS_3",
@@ -13890,7 +13895,7 @@
       "Name": "From humble beginnings...",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 247326
+      "UsersEstimate": 247327
     },
     {
       "ID": "LEVEL_2",
@@ -13930,7 +13935,7 @@
       "Name": "You need to plug it in...",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 1695949
+      "UsersEstimate": 1695956
     },
     {
       "ID": "NO_PASTE",
@@ -13938,7 +13943,7 @@
       "Name": "Easy to forget",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1625285
+      "UsersEstimate": 1625291
     },
     {
       "ID": "OPC_BM_1",
@@ -13994,7 +13999,7 @@
       "Name": "My favourite feature...",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 317991
+      "UsersEstimate": 317992
     },
     {
       "ID": "PLAY_MUSIC",
@@ -14050,7 +14055,7 @@
       "Name": "Customer satisfaction",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 247326
+      "UsersEstimate": 247327
     },
     {
       "ID": "STARS_2",
@@ -14058,7 +14063,7 @@
       "Name": "Bending over backwards",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 141329
+      "UsersEstimate": 141330
     },
     {
       "ID": "STARS_3",
@@ -14105,15 +14110,15 @@
     {
       "ID": "m0injl",
       "IsBase": true,
-      "Progressed": 3533228,
+      "Progressed": 3533242,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:21:06.3204437+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:31.9861995+00:00",
   "LastChanged": "2023-07-17T19:59:29.7902958+00:00",
-  "LastChanged_Achievements": "2023-07-17T23:08:10.4882015+00:00",
+  "LastChanged_Achievements": "2023-07-18T00:07:01.677522+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:24.3844946+00:00",
-  "LastUpdate_Ratings": "2023-07-17T23:00:48.086375+00:00",
-  "LastUpdate_Achievements": "2023-07-17T23:08:10.4883243+00:00"
+  "LastUpdate_Ratings": "2023-07-18T00:00:04.9323606+00:00",
+  "LastUpdate_Achievements": "2023-07-18T00:07:01.6776012+00:00"
 }

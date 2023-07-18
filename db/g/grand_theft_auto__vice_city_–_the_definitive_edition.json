@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 129,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -526,9 +526,9 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 8985,
+  "EOS_Progressed": 8986,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -6386,6 +6386,11 @@
       "Time": "2023-07-17T18:03:24.9555783+00:00",
       "NumProgressed": 8985,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-18T00:03:42.8485991+00:00",
+      "NumProgressed": 8986,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -6477,7 +6482,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 898
+      "UsersEstimate": 899
     },
     {
       "ID": "ACH12",
@@ -6557,7 +6562,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4043
+      "UsersEstimate": 4044
     },
     {
       "ID": "ACH22",
@@ -6668,7 +6673,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8985,
+      "Progressed": 8986,
       "Completed": 43
     }
   ],
@@ -6676,8 +6681,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-12T19:59:24.8621469+00:00",
-  "LastChanged_Achievements": "2023-07-17T23:04:19.7372846+00:00",
+  "LastChanged_Achievements": "2023-07-18T00:03:42.8485985+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:03.5723456+00:00",
-  "LastUpdate_Ratings": "2023-07-17T22:59:14.6648101+00:00",
-  "LastUpdate_Achievements": "2023-07-17T23:04:19.7373609+00:00"
+  "LastUpdate_Ratings": "2023-07-17T23:58:43.717302+00:00",
+  "LastUpdate_Achievements": "2023-07-18T00:03:42.8486477+00:00"
 }

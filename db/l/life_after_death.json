@@ -2,10 +2,10 @@
   "ID": "97be0dec5b1d4577b7647d3d96d79a94",
   "Name": "Life After Death",
   "ProductSlug": "life-after-death-b4e964",
-  "Ranking_EOS_Progress": 394,
+  "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-04-28T14:00:00+00:00",
     "PcReleaseDate": "2022-09-17T11:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 12,
+  "EOS_Progressed": 13,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -74,6 +74,11 @@
       "Time": "2023-07-17T02:35:33.7188201+00:00",
       "NumProgressed": 12,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-18T00:05:51.2117867+00:00",
+      "NumProgressed": 13,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 60,
@@ -83,7 +88,7 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "c98563l",
       "Name": "The Game is Starting!",
-      "Percentage": 25,
+      "Percentage": 23,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -91,7 +96,7 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "c98563l",
       "Name": "First steps!!",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -179,7 +184,7 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "c98563l",
       "Name": "Keep going!!!",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -564,13 +569,13 @@
     {
       "ID": "c98563l",
       "IsBase": true,
-      "Progressed": 12,
+      "Progressed": 13,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-28T14:03:50.6091132+00:00",
-  "LastChanged_Achievements": "2023-07-17T23:06:49.0983033+00:00",
+  "LastChanged_Achievements": "2023-07-18T00:05:51.2117862+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:26.9056518+00:00",
-  "LastUpdate_Ratings": "2023-07-17T23:00:50.0182793+00:00",
-  "LastUpdate_Achievements": "2023-07-17T23:06:49.0983678+00:00"
+  "LastUpdate_Ratings": "2023-07-18T00:00:07.1855695+00:00",
+  "LastUpdate_Achievements": "2023-07-18T00:05:51.2118333+00:00"
 }

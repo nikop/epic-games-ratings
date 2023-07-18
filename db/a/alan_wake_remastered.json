@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57477,
+  "EOS_Progressed": 57479,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 306,
+  "EOS_NewPlayers": 303,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8232,6 +8232,11 @@
       "Time": "2023-07-17T23:03:38.3744329+00:00",
       "NumProgressed": 57477,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-07-18T00:03:16.191065+00:00",
+      "NumProgressed": 57479,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 67,
@@ -8243,7 +8248,7 @@
       "Name": "Follow the Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 19542
+      "UsersEstimate": 19543
     },
     {
       "ID": "02",
@@ -8251,7 +8256,7 @@
       "Name": "Nordic Walking",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 12070
+      "UsersEstimate": 12071
     },
     {
       "ID": "03",
@@ -8259,7 +8264,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 12070
+      "UsersEstimate": 12071
     },
     {
       "ID": "04",
@@ -8291,7 +8296,7 @@
       "Name": "Heavy Metal",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6322
+      "UsersEstimate": 6323
     },
     {
       "ID": "08",
@@ -8299,7 +8304,7 @@
       "Name": "Iron Horse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6322
+      "UsersEstimate": 6323
     },
     {
       "ID": "09",
@@ -8363,7 +8368,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4023
+      "UsersEstimate": 4024
     },
     {
       "ID": "17",
@@ -8411,7 +8416,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6322
+      "UsersEstimate": 6323
     },
     {
       "ID": "23",
@@ -8451,7 +8456,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6322
+      "UsersEstimate": 6323
     },
     {
       "ID": "28",
@@ -8459,7 +8464,7 @@
       "Name": "Come One, Come All",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6322
+      "UsersEstimate": 6323
     },
     {
       "ID": "29",
@@ -8491,7 +8496,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14944
+      "UsersEstimate": 14945
     },
     {
       "ID": "33",
@@ -8778,21 +8783,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57477,
+      "Progressed": 57479,
       "Completed": 58
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20945,
+      "Progressed": 20947,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-17T23:03:38.3744323+00:00",
+  "LastChanged_Achievements": "2023-07-18T00:03:16.1910644+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:10.5196415+00:00",
-  "LastUpdate_Ratings": "2023-07-17T22:58:28.0503292+00:00",
-  "LastUpdate_Achievements": "2023-07-17T23:03:38.3745752+00:00"
+  "LastUpdate_Ratings": "2023-07-17T23:58:05.6606656+00:00",
+  "LastUpdate_Achievements": "2023-07-18T00:03:16.1911533+00:00"
 }

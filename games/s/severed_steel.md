@@ -5,20 +5,20 @@ Rating: 4.68 (Ranked 240)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 14.00% | ~59,578 |
-| 50 HEADSHOTS | 13.00% | ~55,322 |
-| FINISHED CHAPTER 1 | 10.00% | ~42,555 |
-| SCIENCE AND INDUSTRY | 10.00% | ~42,555 |
-| 200 HEADSHOTS | 8.00% | ~34,044 |
+| 100 KILLS | 14.00% | ~59,579 |
+| 50 HEADSHOTS | 13.00% | ~55,323 |
+| FINISHED CHAPTER 1 | 10.00% | ~42,556 |
+| SCIENCE AND INDUSTRY | 10.00% | ~42,556 |
+| 200 HEADSHOTS | 8.00% | ~34,045 |
 | FINISHED CHAPTER 2 | 7.00% | ~29,789 |
-| FINISHED CHAPTER 3 | 6.00% | ~25,533 |
-| FINISHED CHAPTER 4 | 6.00% | ~25,533 |
+| FINISHED CHAPTER 3 | 6.00% | ~25,534 |
+| FINISHED CHAPTER 4 | 6.00% | ~25,534 |
 | FINISH CHAPTER 5 | 5.00% | ~21,278 |
 | CATHARTIC ESCAPISM | 5.00% | ~21,278 |
-| 1000 KILLS | 4.00% | ~17,022 |
-| FINISH CHAPTER 6 | 4.00% | ~17,022 |
+| 1000 KILLS | 4.00% | ~17,023 |
+| FINISH CHAPTER 6 | 4.00% | ~17,023 |
 | FIREFIGHT LEVEL 10 | 2.00% | ~8,511 |
-| FIREFIGHT LEVEL 20 | 0.80% | ~3,404 |
+| FIREFIGHT LEVEL 20 | 0.80% | ~3,405 |
 | FIRST BLOOD | 0.70% | ~2,979 |
 | PACEMAKER | 0.50% | ~2,128 |
 | TIME PARADOX | 0.50% | ~2,128 |
@@ -58,7 +58,7 @@ Rating: 4.68 (Ranked 240)
 | THE GAMBLER | 0.10% | ~426 |
 | WARRIOR IN A GARDEN | 0.10% | ~426 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 425,554 (Ranked 38)  
+Progressed: 425,564 (Ranked 38)  
 Completed: 38 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,6 +147,7 @@ Completed: 38 (0.01%) (Ranked 223)
 | 2023-07-15 | 425,018 | 38 |
 | 2023-07-16 | 425,309 | 38 |
 | 2023-07-17 | 425,554 | 38 |
+| 2023-07-18 | 425,564 | 38 |
 ## Awards
 Max (Great Boss Battles): 185  (Ranked 275)  
 Sum: 185 (Ranked 369)  

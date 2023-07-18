@@ -1,26 +1,26 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.56 (Ranked 456)  
+Rating: 4.56 (Ranked 457)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 58.00% | ~110,245 |
-| Where's that freaking Dwarf? | 46.00% | ~87,436 |
-| GG EZ | 27.00% | ~51,321 |
-| Speedrun | 26.00% | ~49,420 |
-| Déjà vu | 21.00% | ~39,916 |
-| Sock! SOCK! | 16.00% | ~30,412 |
-| DM intervention | 13.00% | ~24,710 |
-| Fireproof Wizardess | 9.00% | ~17,107 |
-| A beer, two curses, three companions | 7.00% | ~13,305 |
-| Livin' in a dwarven paradise | 6.00% | ~11,405 |
-| Way of the Wimp | 6.00% | ~11,405 |
-| The plot thickens... At the tavern | 5.00% | ~9,504 |
-| The Woman in the High Castle | 3.00% | ~5,702 |
-| I am the night | 3.00% | ~5,702 |
-| Team Building Exercise | 3.00% | ~5,702 |
+| Alt+F4 | 58.00% | ~110,267 |
+| Where's that freaking Dwarf? | 46.00% | ~87,453 |
+| GG EZ | 27.00% | ~51,331 |
+| Speedrun | 26.00% | ~49,430 |
+| Déjà vu | 21.00% | ~39,924 |
+| Sock! SOCK! | 16.00% | ~30,419 |
+| DM intervention | 13.00% | ~24,715 |
+| Fireproof Wizardess | 9.00% | ~17,110 |
+| A beer, two curses, three companions | 7.00% | ~13,308 |
+| Livin' in a dwarven paradise | 6.00% | ~11,407 |
+| Way of the Wimp | 6.00% | ~11,407 |
+| The plot thickens... At the tavern | 5.00% | ~9,506 |
+| The Woman in the High Castle | 3.00% | ~5,703 |
+| I am the night | 3.00% | ~5,703 |
+| Team Building Exercise | 3.00% | ~5,703 |
 | Shiny and Crôm | 2.00% | ~3,802 |
 | The demons' feast | 2.00% | ~3,802 |
 | The Great Library | 2.00% | ~3,802 |
@@ -44,11 +44,11 @@ Number of Ratings: 118  (23.09.2022)
 | Law and Order | 0.70% | ~1,331 |
 | It's been a hard day's night | 0.70% | ~1,331 |
 | Lëgal Legend | 0.70% | ~1,331 |
-| The Dungeon Master | 0.60% | ~1,140 |
-| The Famous Dungeon of Naheulbeuk | 0.60% | ~1,140 |
-| I'd rather... Just... Sing! | 0.50% | ~950 |
-| The number of the counting shalt be 7 | 0.50% | ~950 |
-| An old poacher makes the best gamekeeper | 0.50% | ~950 |
+| The Dungeon Master | 0.60% | ~1,141 |
+| The Famous Dungeon of Naheulbeuk | 0.60% | ~1,141 |
+| I'd rather... Just... Sing! | 0.50% | ~951 |
+| The number of the counting shalt be 7 | 0.50% | ~951 |
+| An old poacher makes the best gamekeeper | 0.50% | ~951 |
 | Holistic Adventuring Party | 0.30% | ~570 |
 | Scholar of the Lands of Fangh | 0.30% | ~570 |
 | Friendly fire | 0.30% | ~570 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 190,078 (Ranked 58)  
+Progressed: 190,116 (Ranked 58)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,6 +143,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-15 | 186,755 | 0 |
 | 2023-07-16 | 188,738 | 0 |
 | 2023-07-17 | 190,078 | 0 |
+| 2023-07-18 | 190,116 | 0 |
 ## Awards
 Max (Character Customization): 108  (Ranked 321)  
 Sum: 108 (Ranked 408)  

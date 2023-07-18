@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Screwdriver | 64.00% | ~72 |
-| Springs | 60.00% | ~67 |
+| Springs | 61.00% | ~68 |
 | Soap | 41.00% | ~46 |
 | Wrench | 33.00% | ~37 |
 | Act 1 | 33.00% | ~37 |

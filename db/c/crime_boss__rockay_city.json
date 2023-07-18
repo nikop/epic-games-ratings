@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -2562,9 +2562,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 69061,
+  "EOS_Progressed": 69062,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 358,
+  "EOS_NewPlayers": 355,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -11772,6 +11772,11 @@
       "Time": "2023-07-17T23:05:53.8002317+00:00",
       "NumProgressed": 69061,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-07-18T00:05:03.7799736+00:00",
+      "NumProgressed": 69062,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 37,
@@ -11783,7 +11788,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 34530
+      "UsersEstimate": 34531
     },
     {
       "ID": "ACH_0011",
@@ -11815,7 +11820,7 @@
       "Name": "Track Star",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 6215
+      "UsersEstimate": 6216
     },
     {
       "ID": "ACH_0015",
@@ -11935,7 +11940,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 51105
+      "UsersEstimate": 51106
     },
     {
       "ID": "ACH_0211",
@@ -12015,7 +12020,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 24171
+      "UsersEstimate": 24172
     },
     {
       "ID": "ACH_0431",
@@ -12023,7 +12028,7 @@
       "Name": "Classy Joint",
       "Percentage": 9,
       "XP": 55,
-      "UsersEstimate": 6215
+      "UsersEstimate": 6216
     },
     {
       "ID": "ACH_0440",
@@ -12055,7 +12060,7 @@
       "Name": "Dragonslayer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11740
+      "UsersEstimate": 11741
     },
     {
       "ID": "ACH_0460",
@@ -12078,7 +12083,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 69061,
+      "Progressed": 69062,
       "Completed": 36
     }
   ],
@@ -12086,8 +12091,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-07-17T23:01:30.35649+00:00",
-  "LastChanged_Achievements": "2023-07-17T23:05:53.8002311+00:00",
+  "LastChanged_Achievements": "2023-07-18T00:05:03.7799731+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:02.3078188+00:00",
-  "LastUpdate_Ratings": "2023-07-17T23:01:30.3564907+00:00",
-  "LastUpdate_Achievements": "2023-07-17T23:05:53.8003386+00:00"
+  "LastUpdate_Ratings": "2023-07-18T00:00:43.9658203+00:00",
+  "LastUpdate_Achievements": "2023-07-18T00:05:03.7800423+00:00"
 }

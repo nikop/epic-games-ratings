@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 112,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3140,9 +3140,9 @@
       "Count": 381
     }
   ],
-  "EOS_Progressed": 10375,
+  "EOS_Progressed": 10376,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8620,6 +8620,11 @@
       "Time": "2023-07-17T19:04:35.934671+00:00",
       "NumProgressed": 10375,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-18T00:04:35.5923304+00:00",
+      "NumProgressed": 10376,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -8655,7 +8660,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -9558,21 +9563,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9157,
+      "Progressed": 9158,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10375,
+      "Progressed": 10376,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-17T15:59:09.4102886+00:00",
-  "LastChanged_Achievements": "2023-07-17T23:05:20.8288354+00:00",
+  "LastChanged_Achievements": "2023-07-18T00:04:35.5923298+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:17.6267462+00:00",
-  "LastUpdate_Ratings": "2023-07-17T22:59:27.9260208+00:00",
-  "LastUpdate_Achievements": "2023-07-17T23:05:20.8290398+00:00"
+  "LastUpdate_Ratings": "2023-07-17T23:58:55.7721943+00:00",
+  "LastUpdate_Achievements": "2023-07-18T00:04:35.5924851+00:00"
 }

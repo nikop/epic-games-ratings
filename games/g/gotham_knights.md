@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 856)
 | History Major | 0.10% | ~67 |
 | Confronting Your Demon | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,148 (Ranked 77)  
+Progressed: 67,149 (Ranked 77)  
 Completed: 102 (0.15%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,13 +156,14 @@ Completed: 102 (0.15%) (Ranked 173)
 | 2023-07-15 | 67,061 | 102 |
 | 2023-07-16 | 67,109 | 102 |
 | 2023-07-17 | 67,148 | 102 |
+| 2023-07-18 | 67,149 | 102 |
 ## Awards
-Max (Great Boss Battles): 2,450  (Ranked 101)  
-Sum: 4,060 (Ranked 138)  
+Max (Great Boss Battles): 2,451  (Ranked 101)  
+Sum: 4,061 (Ranked 138)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,450 |
+| This game has Great Boss Battles | 2,451 |
 | This game has Quickly Understood Controls | 208 |
 | This game is Relaxing | 208 |
 | This game is Extremely Fun | 207 |
@@ -322,3 +323,4 @@ Diff (max vs sum): -37
 | 2023-07-15 | 4.18 | 2,447 | 4,051 |
 | 2023-07-16 | 4.18 | 2,450 | 4,057 |
 | 2023-07-17 | 4.18 | 2,450 | 4,060 |
+| 2023-07-18 | 4.18 | 2,451 | 4,061 |
