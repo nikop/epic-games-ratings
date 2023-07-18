@@ -26,8 +26,8 @@
 | 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.68% |
 | 25 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
 | 26 | [Smelter](games/s/smelter.md) | 8.11% |
-| 27 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.06% |
-| 28 | [Ravenlok](games/r/ravenlok.md) | 7.44% |
+| 27 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.00% |
+| 28 | [Ravenlok](games/r/ravenlok.md) | 7.43% |
 | 29 | [Time Loader](games/t/time_loader.md) | 7.14% |
 | 30 | [Scorn](games/s/scorn.md) | 7.04% |
 | 31 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.99% |
@@ -163,9 +163,9 @@
 | 159 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.22% |
 | 162 | [Going Medieval](games/g/going_medieval.md) | 0.21% |
 | 162 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.21% |
+| 164 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
 | 164 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.20% |
-| 165 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.19% |
-| 165 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
+| 166 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
 | 167 | [BLACKTAIL](games/b/blacktail.md) | 0.18% |
 | 167 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.18% |
 | 169 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.17% |
