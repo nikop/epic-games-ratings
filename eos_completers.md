@@ -16,7 +16,7 @@
 | 14 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 13.56% |
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.50% |
 | 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.01% |
-| 17 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.98% |
+| 17 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.96% |
 | 18 | [Remains](games/r/remains.md) | 11.36% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.11% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -122,8 +122,8 @@
 | 120 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.59% |
 | 121 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.58% |
 | 122 | [Grindstone](games/g/grindstone.md) | 0.56% |
-| 123 | [Potion Permit](games/p/potion_permit.md) | 0.55% |
-| 124 | [The Surge 2](games/t/the_surge_2.md) | 0.54% |
+| 123 | [Potion Permit](games/p/potion_permit.md) | 0.54% |
+| 123 | [The Surge 2](games/t/the_surge_2.md) | 0.54% |
 | 125 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.53% |
 | 126 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.51% |
 | 127 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
@@ -140,10 +140,10 @@
 | 138 | [Wildermyth](games/w/wildermyth.md) | 0.38% |
 | 139 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 140 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.36% |
-| 141 | [Scrapnaut](games/s/scrapnaut.md) | 0.34% |
-| 142 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.33% |
-| 142 | [The Surge](games/t/the_surge.md) | 0.33% |
-| 142 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.33% |
+| 141 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.33% |
+| 141 | [Scrapnaut](games/s/scrapnaut.md) | 0.33% |
+| 141 | [The Surge](games/t/the_surge.md) | 0.33% |
+| 141 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.33% |
 | 145 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
 | 145 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.32% |
 | 147 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.31% |
