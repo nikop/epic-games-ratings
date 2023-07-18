@@ -14,7 +14,7 @@
 | 12 | [Island Cities](games/i/island_cities.md) | 18.54% |
 | 13 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 15.38% |
 | 14 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
-| 15 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 13.56% |
+| 15 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 13.45% |
 | 16 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.50% |
 | 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.01% |
 | 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.96% |
@@ -32,7 +32,7 @@
 | 30 | [Time Loader](games/t/time_loader.md) | 7.14% |
 | 31 | [Scorn](games/s/scorn.md) | 7.04% |
 | 32 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.97% |
-| 33 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.67% |
+| 33 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.52% |
 | 34 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 35 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 36 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.66% |
@@ -53,8 +53,8 @@
 | 51 | [Doodle God](games/d/doodle_god.md) | 3.54% |
 | 52 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.52% |
 | 53 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
-| 54 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.38% |
 | 54 | [Monster Harvest](games/m/monster_harvest.md) | 3.38% |
+| 55 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.37% |
 | 56 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.23% |
 | 57 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.08% |
 | 58 | [The Complex](games/t/the_complex.md) | 3.07% |
@@ -495,4 +495,4 @@
 | 237 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 237 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 237 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,915 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
+| 2,917 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
