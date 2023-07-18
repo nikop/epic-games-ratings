@@ -35,8 +35,8 @@ Number of Ratings: 801  (23.09.2022)
 | To Be Continued | 13.00% | ~998 |
 | Seasoned Adventurer | 12.00% | ~921 |
 | 1.21 Gigawatts | 11.00% | ~844 |
+| Get In The Ring! | 10.00% | ~768 |
 | This Is My Boomstick! | 10.00% | ~768 |
-| Get In The Ring! | 9.00% | ~691 |
 | Rescue Ranger | 8.00% | ~614 |
 | Ticket Titan | 7.00% | ~537 |
 | Surge Gauntlet Scholar | 6.00% | ~461 |

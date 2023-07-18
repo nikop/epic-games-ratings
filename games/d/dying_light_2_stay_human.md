@@ -6,21 +6,21 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~65,630 |
-| Into the Unknown | 10.00% | ~59,664 |
-| First Shot | 10.00% | ~59,664 |
+| You Never Forget Your First... | 11.00% | ~65,631 |
+| Into the Unknown | 10.00% | ~59,665 |
+| First Shot | 10.00% | ~59,665 |
 | Herzlich Wilkommen! | 9.00% | ~53,698 |
 | Good Night & Good Luck | 9.00% | ~53,698 |
-| Sancho Panza | 8.00% | ~47,731 |
+| Sancho Panza | 8.00% | ~47,732 |
 | Under Pressure | 7.00% | ~41,765 |
 | On the Trail of the Enemy | 7.00% | ~41,765 |
 | Flag Burning | 7.00% | ~41,765 |
 | Oh, So This Is How It Works! | 7.00% | ~41,765 |
 | Night Hunter | 7.00% | ~41,765 |
-| Light in the Darkness | 6.00% | ~35,798 |
-| Get Outta My House! | 6.00% | ~35,798 |
-| It Wasn't That Hard, Was It? | 6.00% | ~35,798 |
-| Being All Social | 6.00% | ~35,798 |
+| Light in the Darkness | 6.00% | ~35,799 |
+| Get Outta My House! | 6.00% | ~35,799 |
+| It Wasn't That Hard, Was It? | 6.00% | ~35,799 |
+| Being All Social | 6.00% | ~35,799 |
 | Debris and Ashes | 5.00% | ~29,832 |
 | We Will Be Heard! | 5.00% | ~29,832 |
 | Known Associate | 5.00% | ~29,832 |
@@ -53,8 +53,8 @@ Number of Ratings: 7,305  (23.09.2022)
 | Boot Licker | 0.90% | ~5,370 |
 | Who Wants To Be a... | 0.90% | ~5,370 |
 | Night of Terrors | 0.80% | ~1,937 |
-| Revenants | 0.70% | ~4,176 |
-| Get the Point? | 0.70% | ~4,176 |
+| Revenants | 0.70% | ~4,177 |
+| Get the Point? | 0.70% | ~4,177 |
 | My Friend, Ciro | 0.70% | ~1,695 |
 | Skullcrusher | 0.70% | ~1,695 |
 | Tanning Salon | 0.60% | ~3,580 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~242 |
 | Connoisseur | 0.10% | ~242 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 596,640 (Ranked 26)  
+Progressed: 596,648 (Ranked 26)  
 Completed: 60 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 60 (0.01%) (Ranked 223)
 | 2023-07-15 | 595,394 | 59 |
 | 2023-07-16 | 596,038 | 59 |
 | 2023-07-17 | 596,555 | 60 |
-| 2023-07-18 | 596,640 | 60 |
+| 2023-07-18 | 596,648 | 60 |
 ## Awards
 Max (Character Customization): 8,440  (Ranked 39)  
 Sum: 19,984 (Ranked 55)  

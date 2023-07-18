@@ -7225,9 +7225,9 @@
       "Count": 589
     }
   ],
-  "EOS_Progressed": 596640,
+  "EOS_Progressed": 596648,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 4341,
+  "EOS_NewPlayers": 4340,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16855,6 +16855,11 @@
       "Time": "2023-07-18T05:03:55.288581+00:00",
       "NumProgressed": 596640,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-07-18T06:04:11.9956788+00:00",
+      "NumProgressed": 596648,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 65,
@@ -16866,7 +16871,7 @@
       "Name": "Into the Unknown",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 59664
+      "UsersEstimate": 59665
     },
     {
       "ID": "achievement_02",
@@ -16874,7 +16879,7 @@
       "Name": "First Shot",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 59664
+      "UsersEstimate": 59665
     },
     {
       "ID": "achievement_03",
@@ -16906,7 +16911,7 @@
       "Name": "Light in the Darkness",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 35798
+      "UsersEstimate": 35799
     },
     {
       "ID": "achievement_07",
@@ -16914,7 +16919,7 @@
       "Name": "Get Outta My House!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 35798
+      "UsersEstimate": 35799
     },
     {
       "ID": "achievement_08",
@@ -17002,7 +17007,7 @@
       "Name": "Sancho Panza",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 47731
+      "UsersEstimate": 47732
     },
     {
       "ID": "achievement_19",
@@ -17042,7 +17047,7 @@
       "Name": "It Wasn\u0027t That Hard, Was It?",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 35798
+      "UsersEstimate": 35799
     },
     {
       "ID": "achievement_24",
@@ -17050,7 +17055,7 @@
       "Name": "Revenants",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 4176
+      "UsersEstimate": 4177
     },
     {
       "ID": "achievement_25",
@@ -17074,7 +17079,7 @@
       "Name": "You Never Forget Your First...",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 65630
+      "UsersEstimate": 65631
     },
     {
       "ID": "achievement_28",
@@ -17210,7 +17215,7 @@
       "Name": "Being All Social",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 35798
+      "UsersEstimate": 35799
     },
     {
       "ID": "achievement_45",
@@ -17274,7 +17279,7 @@
       "Name": "Get the Point?",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 4176
+      "UsersEstimate": 4177
     },
     {
       "ID": "achievement_53",
@@ -17385,21 +17390,21 @@
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 596640,
+      "Progressed": 596648,
       "Completed": 60
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 242084,
+      "Progressed": 242092,
       "Completed": 1420
     }
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
   "LastChanged": "2023-07-18T03:18:28.370465+00:00",
-  "LastChanged_Achievements": "2023-07-18T05:03:55.2885805+00:00",
+  "LastChanged_Achievements": "2023-07-18T06:04:11.9956781+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:59.4492342+00:00",
-  "LastUpdate_Ratings": "2023-07-18T04:59:50.4773266+00:00",
-  "LastUpdate_Achievements": "2023-07-18T05:03:55.2886754+00:00"
+  "LastUpdate_Ratings": "2023-07-18T06:00:12.7227519+00:00",
+  "LastUpdate_Achievements": "2023-07-18T06:04:11.9958189+00:00"
 }

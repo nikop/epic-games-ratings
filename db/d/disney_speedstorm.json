@@ -15,7 +15,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2961,
+  "EOS_Progressed": 2962,
   "EOS_Completed": 100,
   "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 5,
@@ -3515,6 +3515,11 @@
       "Time": "2023-07-18T02:36:31.1797227+00:00",
       "NumProgressed": 2961,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-07-18T06:05:40.7409985+00:00",
+      "NumProgressed": 2962,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 24,
@@ -3540,9 +3545,9 @@
       "ID": "11",
       "SetID": "9p3jgda",
       "Name": "PERFECTLY POISED",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 326
+      "UsersEstimate": 296
     },
     {
       "ID": "12",
@@ -3614,7 +3619,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "20",
@@ -3678,7 +3683,7 @@
       "Name": "ROOKIE",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1569
+      "UsersEstimate": 1570
     },
     {
       "ID": "6",
@@ -3717,13 +3722,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2961,
+      "Progressed": 2962,
       "Completed": 100
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-07-18T05:05:24.6914178+00:00",
+  "LastChanged_Achievements": "2023-07-18T06:05:40.7409978+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:54.868293+00:00",
-  "LastUpdate_Ratings": "2023-07-18T04:58:54.380425+00:00",
-  "LastUpdate_Achievements": "2023-07-18T05:05:24.6914459+00:00"
+  "LastUpdate_Ratings": "2023-07-18T05:59:15.380961+00:00",
+  "LastUpdate_Achievements": "2023-07-18T06:05:40.74104+00:00"
 }

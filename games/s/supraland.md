@@ -6,17 +6,17 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~710,013 |
-| The Blues | 85.00% | ~609,607 |
-| Fast | 66.00% | ~473,342 |
+| Out of bed | 99.00% | ~710,014 |
+| The Blues | 85.00% | ~609,608 |
+| Fast | 66.00% | ~473,343 |
 | Healthbar | 55.00% | ~394,452 |
-| Force Cube | 53.00% | ~380,108 |
+| Force Cube | 53.00% | ~380,109 |
 | Double Jump | 48.00% | ~344,249 |
 | Regeneration | 47.00% | ~337,077 |
 | Climb the hill | 42.00% | ~301,218 |
 | Triple Jump | 42.00% | ~301,218 |
-| Through the fire pipe | 38.00% | ~272,530 |
-| MacGuffin | 38.00% | ~272,530 |
+| Through the fire pipe | 38.00% | ~272,531 |
+| MacGuffin | 38.00% | ~272,531 |
 | Just once | 36.00% | ~258,187 |
 | Armor | 30.00% | ~215,156 |
 | True holy spirit | 27.00% | ~193,640 |
@@ -27,8 +27,8 @@ Number of Ratings: 25,175  (23.09.2022)
 | Freed from prison | 21.00% | ~150,609 |
 | Stomp | 21.00% | ~150,609 |
 | Double Health | 18.00% | ~129,093 |
-| Buckle | 17.00% | ~121,921 |
-| Green Keycard | 17.00% | ~121,921 |
+| Buckle | 17.00% | ~121,922 |
+| Green Keycard | 17.00% | ~121,922 |
 | Rattle Hag | 15.00% | ~107,578 |
 | All Shells | 14.00% | ~100,406 |
 | Beam | 14.00% | ~100,406 |
@@ -44,12 +44,12 @@ Number of Ratings: 25,175  (23.09.2022)
 | Got the gun back | 11.00% | ~78,890 |
 | Infiltrated | 11.00% | ~78,890 |
 | Robbed | 11.00% | ~78,890 |
-| Fire Flies | 10.00% | ~71,718 |
-| Cave Flies | 10.00% | ~71,718 |
-| Gold Scam | 10.00% | ~71,718 |
-| Gold Scam Uncovered | 10.00% | ~71,718 |
-| Translocator | 10.00% | ~71,718 |
-| Yellow Shot Button | 10.00% | ~71,718 |
+| Fire Flies | 10.00% | ~71,719 |
+| Cave Flies | 10.00% | ~71,719 |
+| Gold Scam | 10.00% | ~71,719 |
+| Gold Scam Uncovered | 10.00% | ~71,719 |
+| Translocator | 10.00% | ~71,719 |
+| Yellow Shot Button | 10.00% | ~71,719 |
 | Moon Door | 9.00% | ~64,547 |
 | Momentum | 9.00% | ~64,547 |
 | Panic Lights | 9.00% | ~64,547 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~717 |
 | DLC: Top of the world | 0.10% | ~717 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,185 (Ranked 16)  
+Progressed: 717,186 (Ranked 16)  
 Completed: 711 (0.10%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 711 (0.10%) (Ranked 182)
 | 2023-07-15 | 716,826 | 709 |
 | 2023-07-16 | 717,022 | 709 |
 | 2023-07-17 | 717,155 | 711 |
-| 2023-07-18 | 717,185 | 711 |
+| 2023-07-18 | 717,186 | 711 |
 ## Awards
 Max (Challenging Puzzles): 7,645  (Ranked 43)  
 Sum: 9,960 (Ranked 81)  

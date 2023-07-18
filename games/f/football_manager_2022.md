@@ -6,29 +6,29 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| He's Signed! | 50.00% | ~233,687 |
-| First Victory | 50.00% | ~233,687 |
-| Clean Sheet | 49.00% | ~229,013 |
+| He's Signed! | 50.00% | ~233,688 |
+| First Victory | 50.00% | ~233,688 |
+| Clean Sheet | 49.00% | ~229,014 |
 | He's Sold! | 47.00% | ~219,666 |
-| I'm The Boss! | 41.00% | ~191,623 |
-| Hat-trick | 41.00% | ~191,623 |
+| I'm The Boss! | 41.00% | ~191,624 |
+| Hat-trick | 41.00% | ~191,624 |
 | Scoring Streak | 38.00% | ~177,602 |
-| Unbeatable! | 37.00% | ~172,928 |
-| Thumping | 37.00% | ~172,928 |
+| Unbeatable! | 37.00% | ~172,929 |
+| Thumping | 37.00% | ~172,929 |
 | Superb Dressing Room Atmosphere | 35.00% | ~163,581 |
 | Total Support | 32.00% | ~149,560 |
 | Record Signing | 32.00% | ~149,560 |
 | Millionaire's Club | 31.00% | ~144,886 |
 | Team Performance | 30.00% | ~140,212 |
 | He's a Natural | 30.00% | ~140,212 |
-| Parked The Bus | 29.00% | ~135,538 |
-| Shrewd Spender | 29.00% | ~135,538 |
-| Star Man | 29.00% | ~135,538 |
+| Parked The Bus | 29.00% | ~135,539 |
+| Shrewd Spender | 29.00% | ~135,539 |
+| Star Man | 29.00% | ~135,539 |
 | Attack! | 28.00% | ~130,865 |
-| You're On Fire | 26.00% | ~121,517 |
-| On A Roll | 26.00% | ~121,517 |
-| Tremendous Trio | 26.00% | ~121,517 |
-| Record Sale | 26.00% | ~121,517 |
+| You're On Fire | 26.00% | ~121,518 |
+| On A Roll | 26.00% | ~121,518 |
+| Tremendous Trio | 26.00% | ~121,518 |
+| Record Sale | 26.00% | ~121,518 |
 | Unstoppable Force | 25.00% | ~116,844 |
 | Fantastic Five | 24.00% | ~112,170 |
 | Full Faith | 24.00% | ~112,170 |
@@ -50,13 +50,13 @@ Number of Ratings: 19,160  (23.09.2022)
 | Overachiever! | 15.00% | ~70,106 |
 | Rushed signing | 15.00% | ~70,106 |
 | Window Shopping | 15.00% | ~70,106 |
-| Eyes and Ears | 14.00% | ~65,432 |
+| Eyes and Ears | 14.00% | ~65,433 |
 | Comeback King! | 13.00% | ~60,759 |
 | You're Up! | 13.00% | ~60,759 |
 | Money, Money, Money | 12.00% | ~56,085 |
-| Superb Strike | 10.00% | ~46,737 |
-| Invincible! | 10.00% | ~46,737 |
-| Best In The World | 10.00% | ~46,737 |
+| Superb Strike | 10.00% | ~46,738 |
+| Invincible! | 10.00% | ~46,738 |
+| Best In The World | 10.00% | ~46,738 |
 | Best In Europe | 9.00% | ~42,064 |
 | Headhunted | 9.00% | ~42,064 |
 | International Superstar | 9.00% | ~42,064 |
@@ -74,12 +74,12 @@ Number of Ratings: 19,160  (23.09.2022)
 | Golden Boot | 3.00% | ~14,021 |
 | Trophy Hoarder | 3.00% | ~14,021 |
 | Freedom Of The Country | 3.00% | ~14,021 |
-| Part Of The Furniture | 2.00% | ~9,347 |
-| Childhood Dream | 2.00% | ~9,347 |
-| Invitational | 2.00% | ~9,347 |
-| Mr Delegator | 2.00% | ~9,347 |
-| Scout's Honour | 2.00% | ~9,347 |
-| On Top Of The World | 2.00% | ~9,347 |
+| Part Of The Furniture | 2.00% | ~9,348 |
+| Childhood Dream | 2.00% | ~9,348 |
+| Invitational | 2.00% | ~9,348 |
+| Mr Delegator | 2.00% | ~9,348 |
+| Scout's Honour | 2.00% | ~9,348 |
+| On Top Of The World | 2.00% | ~9,348 |
 | Icon | 1.00% | ~4,674 |
 | There Is Always Plan B | 1.00% | ~4,674 |
 | Living the Dream | 1.00% | ~4,674 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~467 |
 | Shoestring Budget | 0.10% | ~467 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 467,374 (Ranked 34)  
+Progressed: 467,375 (Ranked 34)  
 Completed: 19 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 19 (0.00%) (Ranked 236)
 | 2023-07-15 | 467,154 | 19 |
 | 2023-07-16 | 467,255 | 19 |
 | 2023-07-17 | 467,361 | 19 |
-| 2023-07-18 | 467,374 | 19 |
+| 2023-07-18 | 467,375 | 19 |
 ## Awards
 Max (Relaxing): 6,365  (Ranked 51)  
 Sum: 50,127 (Ranked 24)  
