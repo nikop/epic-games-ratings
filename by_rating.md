@@ -17,7 +17,7 @@
 | 13 | [Firework](games/f/firework.md) | 4.89 | 0 | 505 |
 | 13 | [RimWorld](games/r/rimworld.md) | 4.89 | 419 | 202 |
 | 13 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.89 | 0 | 505 |
-| 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 17,006 | 20 |
+| 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 17,034 | 20 |
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 135 | 300 |
 | 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,157 | 76 |
 | 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 159,779 | 6 |
@@ -624,6 +624,7 @@
 | 611 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 505 |
 | 611 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 284 | 236 |
 | 624 | [Chorus](games/c/chorus.md) | 4.45 | 32 | 448 |
+| 624 | [Death Coming](games/d/death_coming.md) | 4.45 | 0 | 505 |
 | 624 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 236 | 250 |
 | 624 | [Faeria](games/f/faeria.md) | 4.45 | 108 | 321 |
 | 624 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 772 | 155 |
@@ -642,18 +643,17 @@
 | 624 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.45 | 0 | 505 |
 | 624 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.45 | 0 | 505 |
 | 624 | [Weird West: Definitive Edition](games/w/weird_west.md) | 4.45 | 24 | 477 |
-| 643 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 0 | 505 |
-| 643 | [Death Coming](games/d/death_coming.md) | 4.44 | 0 | 505 |
-| 643 | [ELEX](games/e/elex.md) | 4.44 | 24 | 477 |
-| 643 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 505 |
-| 643 | [Good Company](games/g/good_company.md) | 4.44 | 0 | 505 |
-| 643 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.44 | 0 | 505 |
-| 643 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 563 | 179 |
-| 643 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 505 |
-| 643 | [The Captain](games/t/the_captain.md) | 4.44 | 97 | 335 |
-| 643 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 0 | 505 |
-| 643 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 388 |
-| 643 | [WRC Generations](games/w/wrc_generations.md) | 4.44 | 0 | 505 |
+| 644 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 0 | 505 |
+| 644 | [ELEX](games/e/elex.md) | 4.44 | 24 | 477 |
+| 644 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 505 |
+| 644 | [Good Company](games/g/good_company.md) | 4.44 | 0 | 505 |
+| 644 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.44 | 0 | 505 |
+| 644 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 563 | 179 |
+| 644 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 505 |
+| 644 | [The Captain](games/t/the_captain.md) | 4.44 | 97 | 335 |
+| 644 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 0 | 505 |
+| 644 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 388 |
+| 644 | [WRC Generations](games/w/wrc_generations.md) | 4.44 | 0 | 505 |
 | 655 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 204 | 267 |
 | 655 | [Predecessor](games/p/predecessor.md) | 4.43 | 134 | 302 |
 | 655 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 66 | 379 |
