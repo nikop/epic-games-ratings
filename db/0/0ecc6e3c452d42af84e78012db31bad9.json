@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1371,
+  "EOS_Progressed": 1372,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 374,
+  "EOS_NewPlayers": 372,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -1906,6 +1906,11 @@
       "Time": "2023-07-18T05:04:31.7158163+00:00",
       "NumProgressed": 1371,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-07-18T09:06:01.8570361+00:00",
+      "NumProgressed": 1372,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 16,
@@ -1949,7 +1954,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1029
     },
     {
       "ID": "ach_architecture_completed",
@@ -2013,7 +2018,7 @@
       "Name": "Game opened",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 1001
+      "UsersEstimate": 1002
     },
     {
       "ID": "ach_magic_wand",
@@ -2044,14 +2049,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 1371,
+      "Progressed": 1372,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-07-18T08:04:31.3881204+00:00",
+  "LastChanged_Achievements": "2023-07-18T09:06:01.8570353+00:00",
   "LastUpdate_AppInfo": "2023-07-14T09:57:10.1132461+00:00",
-  "LastUpdate_Ratings": "2023-07-18T07:57:19.0216156+00:00",
-  "LastUpdate_Achievements": "2023-07-18T08:04:31.3881468+00:00"
+  "LastUpdate_Ratings": "2023-07-18T08:57:34.0429644+00:00",
+  "LastUpdate_Achievements": "2023-07-18T09:06:01.8570773+00:00"
 }

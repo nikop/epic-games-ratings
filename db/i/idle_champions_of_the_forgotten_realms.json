@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 29,
+  "Ranking_EOS_NewPlayers": 30,
   "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -5056,9 +5056,9 @@
       "Count": 3303
     }
   ],
-  "EOS_Progressed": 212968,
+  "EOS_Progressed": 212978,
   "EOS_Completed": 2058,
-  "EOS_NewPlayers": 2979,
+  "EOS_NewPlayers": 2965,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -14541,6 +14541,11 @@
       "Time": "2023-07-18T08:05:51.0410187+00:00",
       "NumProgressed": 212968,
       "NumCompleted": 2058
+    },
+    {
+      "Time": "2023-07-18T09:07:51.7807302+00:00",
+      "NumProgressed": 212978,
+      "NumCompleted": 2058
     }
   ],
   "TotalAchievements": 507,
@@ -16230,9 +16235,9 @@
       "ID": "objective_completed_34",
       "SetID": "cc37lbc",
       "Name": "The Ring of Regeneration",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 639
+      "UsersEstimate": 852
     },
     {
       "ID": "objective_completed_35",
@@ -17632,7 +17637,7 @@
       "Name": "The Giant\u0027s Bane Tavern",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "objective_completed_691",
@@ -18607,21 +18612,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 179242,
+      "Progressed": 179252,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 212968,
+      "Progressed": 212978,
       "Completed": 2058
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-17T19:58:21.1664126+00:00",
-  "LastChanged_Achievements": "2023-07-18T08:05:51.0410183+00:00",
+  "LastChanged_Achievements": "2023-07-18T09:07:51.7807297+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:48.5227447+00:00",
-  "LastUpdate_Ratings": "2023-07-18T07:58:31.1587498+00:00",
-  "LastUpdate_Achievements": "2023-07-18T08:05:51.0439539+00:00"
+  "LastUpdate_Ratings": "2023-07-18T08:59:18.6497062+00:00",
+  "LastUpdate_Achievements": "2023-07-18T09:07:51.784405+00:00"
 }

@@ -7,8 +7,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Cursed Farmer | 0.40% | ~852 |
+| The Ring of Regeneration | 0.40% | ~852 |
 | The Mad Wizard | 0.40% | ~852 |
-| The Ring of Regeneration | 0.30% | ~639 |
 | The Crumbling Temple | 0.30% | ~639 |
 | Seeking Allies | 0.30% | ~639 |
 | Are Ya Chicken? | 0.30% | ~639 |
@@ -31,7 +31,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flying Monkey Skulls of Doom | 0.20% | ~426 |
 | The Darkness Runs Deeper | 0.20% | ~426 |
 | Running of the Saurs | 0.20% | ~426 |
-| The Giant's Bane Tavern | 0.20% | ~358 |
+| The Giant's Bane Tavern | 0.20% | ~359 |
 | Close Escort | 0.20% | ~426 |
 | Constant Banditry | 0.20% | ~426 |
 | The Long Haul | 0.20% | ~426 |
@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212,968 (Ranked 53)  
+Progressed: 212,978 (Ranked 53)  
 Completed: 2,058 (0.97%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -603,7 +603,7 @@ Completed: 2,058 (0.97%) (Ranked 103)
 | 2023-07-15 | 212,014 | 2,053 |
 | 2023-07-16 | 212,501 | 2,055 |
 | 2023-07-17 | 212,861 | 2,057 |
-| 2023-07-18 | 212,968 | 2,058 |
+| 2023-07-18 | 212,978 | 2,058 |
 ## Awards
 Max (Diverse Characters): 5,041  (Ranked 66)  
 Sum: 30,562 (Ranked 38)  

@@ -2,7 +2,7 @@
   "ID": "0a4fc789eb0143c29296de79df5387ab",
   "Name": "Crying Suns",
   "ProductSlug": "crying-suns",
-  "Ranking_Rating": 552,
+  "Ranking_Rating": 551,
   "Ranking_Popularity": 262,
   "Ranking_PopularitySum": 357,
   "Ranking_EOS_Progress": 35,
@@ -562,9 +562,9 @@
       "Count": 214
     }
   ],
-  "EOS_Progressed": 463225,
+  "EOS_Progressed": 463228,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 482,
+  "EOS_NewPlayers": 483,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9652,6 +9652,11 @@
       "Time": "2023-07-18T08:01:08.5988383+00:00",
       "NumProgressed": 463225,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-07-18T09:03:24.7856758+00:00",
+      "NumProgressed": 463228,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 79,
@@ -10294,21 +10299,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 7159,
+      "Progressed": 7162,
       "Completed": 2353
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 463225,
+      "Progressed": 463228,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-07-02T08:59:13.8125338+00:00",
-  "LastChanged_Achievements": "2023-07-18T08:01:08.5988379+00:00",
+  "LastChanged_Achievements": "2023-07-18T09:03:24.7856748+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:14.1891712+00:00",
-  "LastUpdate_Ratings": "2023-07-18T07:59:39.7031845+00:00",
-  "LastUpdate_Achievements": "2023-07-18T08:01:08.5989955+00:00"
+  "LastUpdate_Ratings": "2023-07-18T09:01:04.6452404+00:00",
+  "LastUpdate_Achievements": "2023-07-18T09:03:24.7858248+00:00"
 }

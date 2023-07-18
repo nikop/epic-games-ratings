@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 625,
+  "EOS_Progressed": 627,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1216,6 +1216,11 @@
       "Time": "2023-07-18T04:04:51.5183977+00:00",
       "NumProgressed": 625,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-18T09:06:11.0771406+00:00",
+      "NumProgressed": 627,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1227,7 +1232,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -1235,7 +1240,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -1243,7 +1248,7 @@
       "Name": "FULLCLIP",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "AMMO_ACHIEVEMENT_4",
@@ -1267,7 +1272,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -1299,7 +1304,7 @@
       "Name": "Capraphobia",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -1371,7 +1376,7 @@
       "Name": "Completing The Duty",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "BURN_ACHIEVEMENT_5",
@@ -1395,7 +1400,7 @@
       "Name": "01000011 01000010 01000100",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "COOP_ACHIEVEMENT_1",
@@ -1467,7 +1472,7 @@
       "Name": "Where Is Houdini?",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "FREE_ACHIEVEMENT_1",
@@ -1475,7 +1480,7 @@
       "Name": "I\u0027ll Save You!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "FREE_ACHIEVEMENT_2",
@@ -1507,7 +1512,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -1515,7 +1520,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -1563,7 +1568,7 @@
       "Name": "50 Shades of Lackeys",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "KLEECHER_ACHIEVEMENT_1",
@@ -1603,7 +1608,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -1611,7 +1616,7 @@
       "Name": "10 Hugs from Grandma",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "MEAT_ACHIEVEMENT_1",
@@ -1659,7 +1664,7 @@
       "Name": "The Last of Us",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -1667,7 +1672,7 @@
       "Name": "Beep Beep Boop",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_1",
@@ -1675,7 +1680,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -1707,7 +1712,7 @@
       "Name": "Let the Medical Exams Begin",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "SING_ACHIEVEMENT_1",
@@ -1747,21 +1752,21 @@
       "Name": "Do You Accept The Challenge?",
       "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     }
   ],
   "AchievementSets": [
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 625,
+      "Progressed": 627,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-18T08:04:37.9588164+00:00",
+  "LastChanged_Achievements": "2023-07-18T09:06:11.0771401+00:00",
   "LastUpdate_AppInfo": "2023-07-13T13:57:00.6642341+00:00",
-  "LastUpdate_Ratings": "2023-07-18T07:57:09.9819981+00:00",
-  "LastUpdate_Achievements": "2023-07-18T08:04:37.9588915+00:00"
+  "LastUpdate_Ratings": "2023-07-18T08:57:20.21413+00:00",
+  "LastUpdate_Achievements": "2023-07-18T09:06:11.0772178+00:00"
 }

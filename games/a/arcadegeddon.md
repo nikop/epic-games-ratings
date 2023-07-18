@@ -6,19 +6,19 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 92.00% | ~7,062 |
-| Photogenic | 88.00% | ~6,755 |
-| Surge Gauntlet Jockey | 86.00% | ~6,601 |
+| Let's Get This Party Started | 92.00% | ~7,063 |
+| Photogenic | 88.00% | ~6,756 |
+| Surge Gauntlet Jockey | 86.00% | ~6,602 |
 | Plug It In | 85.00% | ~6,525 |
-| Adventure Time | 80.00% | ~6,141 |
-| Playing With Power | 78.00% | ~5,987 |
+| Adventure Time | 80.00% | ~6,142 |
+| Playing With Power | 78.00% | ~5,988 |
 | Coup d'Etat | 59.00% | ~4,529 |
-| You're Fired | 58.00% | ~4,452 |
+| You're Fired | 58.00% | ~4,453 |
 | Get Furious | 56.00% | ~4,299 |
 | Gunplay And Cosplay | 55.00% | ~4,222 |
 | Hacks In Stacks | 55.00% | ~4,222 |
-| Meching Enemies | 49.00% | ~3,761 |
-| Ticket Toddler | 45.00% | ~3,454 |
+| Meching Enemies | 49.00% | ~3,762 |
+| Ticket Toddler | 45.00% | ~3,455 |
 | Booty Bashing | 42.00% | ~3,224 |
 | Field Medic | 38.00% | ~2,917 |
 | Here Comes a New Challenger | 38.00% | ~2,917 |
@@ -28,8 +28,8 @@ Number of Ratings: 801  (23.09.2022)
 | Guardian Angel | 30.00% | ~2,303 |
 | Poppin Noggins | 25.00% | ~1,919 |
 | Clips and Crits | 21.00% | ~1,612 |
-| Grey Goo | 19.00% | ~1,458 |
-| Boss of Bosses | 15.00% | ~1,151 |
+| Grey Goo | 19.00% | ~1,459 |
+| Boss of Bosses | 15.00% | ~1,152 |
 | The Final Blow | 14.00% | ~1,075 |
 | Light My Fire | 13.00% | ~998 |
 | To Be Continued | 13.00% | ~998 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~31 |
 | Pyrotechnical | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,676 (Ranked 122)  
+Progressed: 7,677 (Ranked 122)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-15 | 7,641 | 0 |
 | 2023-07-16 | 7,659 | 0 |
 | 2023-07-17 | 7,669 | 0 |
-| 2023-07-18 | 7,676 | 0 |
+| 2023-07-18 | 7,677 | 0 |
 ## Awards
 Max (Great for Beginners): 62  (Ranked 385)  
 Sum: 451 (Ranked 303)  

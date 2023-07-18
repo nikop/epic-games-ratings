@@ -1134,9 +1134,9 @@
       "ID": "06",
       "SetID": "73ikgfc",
       "Name": "First Blood",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 666
+      "UsersEstimate": 677
     },
     {
       "ID": "07",
@@ -1287,8 +1287,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-06-30T20:00:05.692321+00:00",
-  "LastChanged_Achievements": "2023-07-18T08:06:21.6588824+00:00",
+  "LastChanged_Achievements": "2023-07-18T09:08:45.6909219+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:41.6468883+00:00",
-  "LastUpdate_Ratings": "2023-07-18T08:00:04.1003228+00:00",
-  "LastUpdate_Achievements": "2023-07-18T08:06:21.6589038+00:00"
+  "LastUpdate_Ratings": "2023-07-18T09:01:40.8323454+00:00",
+  "LastUpdate_Achievements": "2023-07-18T09:08:45.6909453+00:00"
 }

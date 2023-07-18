@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 19.00% | ~144 |
+| Time Heals All Wounds | 19.00% | ~145 |
 | The Mysterious Stranger | 16.00% | ~122 |
 | Rail Rat | 16.00% | ~122 |
 | Make Up For Lost Time | 15.00% | ~114 |
 | The Prince in Heels | 15.00% | ~114 |
 | Immaculate Aim | 15.00% | ~114 |
-| The Steel Shadow | 14.00% | ~106 |
-| The Betrayer | 14.00% | ~106 |
-| The Man Who Shattered Time | 14.00% | ~106 |
-| The Loose Cannon | 14.00% | ~106 |
-| Cartographer | 14.00% | ~106 |
-| Time Flies | 14.00% | ~106 |
-| The Harder They Fall | 14.00% | ~106 |
-| No, Thanks! | 14.00% | ~106 |
-| Breaking Down Barriers | 14.00% | ~106 |
-| The Wicked Twins | 14.00% | ~106 |
-| Immaculate Aim | 14.00% | ~106 |
-| The Brass Boss | 14.00% | ~106 |
-| The Family Fortune | 14.00% | ~106 |
+| The Steel Shadow | 14.00% | ~107 |
+| The Betrayer | 14.00% | ~107 |
+| The Man Who Shattered Time | 14.00% | ~107 |
+| The Loose Cannon | 14.00% | ~107 |
+| Cartographer | 14.00% | ~107 |
+| Time Flies | 14.00% | ~107 |
+| The Harder They Fall | 14.00% | ~107 |
+| No, Thanks! | 14.00% | ~107 |
+| Breaking Down Barriers | 14.00% | ~107 |
+| The Wicked Twins | 14.00% | ~107 |
+| Immaculate Aim | 14.00% | ~107 |
+| The Brass Boss | 14.00% | ~107 |
+| The Family Fortune | 14.00% | ~107 |
 | Treasure Trove | 13.00% | ~99 |
 | Like Clockwork | 13.00% | ~99 |
 | Honest Mistake | 13.00% | ~99 |
@@ -36,12 +36,12 @@
 | Good Neighbor | 9.00% | ~68 |
 | Family Memories | 8.00% | ~61 |
 | Sump Explorer | 8.00% | ~61 |
-| Syron for Hope | 8.00% | ~61 |
 | Theater Explorer | 8.00% | ~61 |
-| Ask Questions Later | 8.00% | ~61 |
 | Cultivair Explorer | 7.00% | ~53 |
 | Factorywood Explorer | 7.00% | ~53 |
 | Fairgrounds Explorer | 7.00% | ~53 |
+| Syron for Hope | 7.00% | ~53 |
+| Ask Questions Later | 7.00% | ~53 |
 | Corin Goes Home | 6.00% | ~46 |
 | Sartorialist | 6.00% | ~46 |
 | Entresol Explorer | 6.00% | ~46 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.50% | ~4 |
 | Raw Talent | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 760 (Ranked 198)  
+Progressed: 761 (Ranked 198)  
 Completed: 4 (0.53%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,3 +114,4 @@ Completed: 4 (0.53%) (Ranked 125)
 | 2023-07-14 | 754 | 4 |
 | 2023-07-15 | 758 | 4 |
 | 2023-07-17 | 760 | 4 |
+| 2023-07-18 | 761 | 4 |

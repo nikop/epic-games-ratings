@@ -5,18 +5,18 @@ Rating: 4.68 (Ranked 240)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 14.00% | ~59,588 |
-| 50 HEADSHOTS | 13.00% | ~55,332 |
-| FINISHED CHAPTER 1 | 10.00% | ~42,563 |
-| SCIENCE AND INDUSTRY | 10.00% | ~42,563 |
-| 200 HEADSHOTS | 8.00% | ~34,050 |
-| FINISHED CHAPTER 2 | 7.00% | ~29,794 |
+| 100 KILLS | 14.00% | ~59,590 |
+| 50 HEADSHOTS | 13.00% | ~55,333 |
+| FINISHED CHAPTER 1 | 10.00% | ~42,564 |
+| SCIENCE AND INDUSTRY | 10.00% | ~42,564 |
+| 200 HEADSHOTS | 8.00% | ~34,051 |
+| FINISHED CHAPTER 2 | 7.00% | ~29,795 |
 | FINISHED CHAPTER 3 | 6.00% | ~25,538 |
 | FINISHED CHAPTER 4 | 6.00% | ~25,538 |
-| FINISH CHAPTER 5 | 5.00% | ~21,281 |
-| CATHARTIC ESCAPISM | 5.00% | ~21,281 |
-| 1000 KILLS | 4.00% | ~17,025 |
-| FINISH CHAPTER 6 | 4.00% | ~17,025 |
+| FINISH CHAPTER 5 | 5.00% | ~21,282 |
+| CATHARTIC ESCAPISM | 5.00% | ~21,282 |
+| 1000 KILLS | 4.00% | ~17,026 |
+| FINISH CHAPTER 6 | 4.00% | ~17,026 |
 | FIREFIGHT LEVEL 10 | 2.00% | ~8,513 |
 | FIREFIGHT LEVEL 20 | 0.80% | ~3,405 |
 | FIRST BLOOD | 0.70% | ~2,979 |
@@ -58,7 +58,7 @@ Rating: 4.68 (Ranked 240)
 | THE GAMBLER | 0.10% | ~426 |
 | WARRIOR IN A GARDEN | 0.10% | ~426 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 425,629 (Ranked 38)  
+Progressed: 425,640 (Ranked 38)  
 Completed: 38 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,14 +147,14 @@ Completed: 38 (0.01%) (Ranked 223)
 | 2023-07-15 | 425,018 | 38 |
 | 2023-07-16 | 425,309 | 38 |
 | 2023-07-17 | 425,554 | 38 |
-| 2023-07-18 | 425,629 | 38 |
+| 2023-07-18 | 425,640 | 38 |
 ## Awards
-Max (Great Boss Battles): 185  (Ranked 275)  
-Sum: 185 (Ranked 369)  
+Max (Great Boss Battles): 186  (Ranked 275)  
+Sum: 186 (Ranked 369)  
 Diff (max vs sum): -94  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 185 |
+| This game has Great Boss Battles | 186 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -202,3 +202,4 @@ Diff (max vs sum): -94
 | 2023-06-26 | 4.68 | 183 | 183 |
 | 2023-07-01 | 4.68 | 184 | 184 |
 | 2023-07-04 | 4.68 | 185 | 185 |
+| 2023-07-18 | 4.68 | 186 | 186 |
