@@ -2,10 +2,10 @@
   "ID": "aa6017f7f84b4343972ca3473eb377b0",
   "Name": "Goldilock One - BOSS Arena",
   "ProductSlug": "goldilock-one-boss-arena-93b84e",
-  "Ranking_EOS_Progress": 496,
+  "Ranking_EOS_Progress": 497,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-15T03:22:09.0662482+00:00",
-  "LastUpdate_Ratings": "2023-07-18T09:58:22.5088556+00:00",
-  "LastUpdate_Achievements": "2023-07-18T10:06:57.705493+00:00"
+  "LastUpdate_Ratings": "2023-07-18T10:57:54.2075154+00:00",
+  "LastUpdate_Achievements": "2023-07-18T11:05:32.8553325+00:00"
 }

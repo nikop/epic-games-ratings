@@ -2,10 +2,10 @@
   "ID": "2ce0c35647314c49b649dfd6cd6d921c",
   "Name": "Valfaris Mecha Therion",
   "ProductSlug": "valfaris-mecha-therion-e1182d",
-  "Ranking_EOS_Progress": 496,
+  "Ranking_EOS_Progress": 497,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-03-31T00:00:00+00:00",
     "PcReleaseDate": "2023-03-31T00:00:00+00:00",
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-15T02:22:12.0000961+00:00",
-  "LastUpdate_Ratings": "2023-07-18T09:57:59.9934415+00:00",
-  "LastUpdate_Achievements": "2023-07-18T10:06:03.4991432+00:00"
+  "LastUpdate_Ratings": "2023-07-18T10:57:33.6565927+00:00",
+  "LastUpdate_Achievements": "2023-07-18T11:04:50.7736841+00:00"
 }

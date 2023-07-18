@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -366,9 +366,9 @@
       "Count": 74
     }
   ],
-  "EOS_Progressed": 237801,
+  "EOS_Progressed": 237802,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1143,
+  "EOS_NewPlayers": 1140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9981,6 +9981,11 @@
       "Time": "2023-07-18T10:04:39.1737416+00:00",
       "NumProgressed": 237801,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-07-18T11:03:54.776476+00:00",
+      "NumProgressed": 237802,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -9992,7 +9997,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 64206
+      "UsersEstimate": 64207
     },
     {
       "ID": "ACH_AON",
@@ -10136,7 +10141,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 66584
+      "UsersEstimate": 66585
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -10407,7 +10412,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 237801,
+      "Progressed": 237802,
       "Completed": 7
     }
   ],
@@ -10415,8 +10420,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-07-15T02:24:18.1654153+00:00",
-  "LastChanged_Achievements": "2023-07-18T10:04:39.173741+00:00",
+  "LastChanged_Achievements": "2023-07-18T11:03:54.7764755+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:33.5195564+00:00",
-  "LastUpdate_Ratings": "2023-07-18T09:58:46.3132561+00:00",
-  "LastUpdate_Achievements": "2023-07-18T10:04:39.1738298+00:00"
+  "LastUpdate_Ratings": "2023-07-18T10:58:09.5440822+00:00",
+  "LastUpdate_Achievements": "2023-07-18T11:03:54.7765855+00:00"
 }

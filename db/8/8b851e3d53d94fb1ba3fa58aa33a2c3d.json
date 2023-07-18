@@ -2,10 +2,10 @@
   "ID": "8b851e3d53d94fb1ba3fa58aa33a2c3d",
   "Name": "Palladium: Adventure in Greece",
   "ProductSlug": "palladium-adventure-in-greece-f1ee1b",
-  "Ranking_EOS_Progress": 496,
+  "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
     "PcReleaseDate": "2021-06-04T19:00:00+00:00",
@@ -19,12 +19,18 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2023-07-18T11:03:12.9192606+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
   "AchievementsAdded": "2023-07-14T20:01:12.8113067+00:00",
   "TotalAchievements": 41,
   "TotalAchievementsXP": 1000,
@@ -65,25 +71,25 @@
       "ID": "ANXIETY",
       "SetID": "e4de54",
       "Name": "Anxiety",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "APATE",
       "SetID": "e4de54",
       "Name": "Apate",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "APHRODITE",
       "SetID": "e4de54",
       "Name": "Aphrodite",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "APOLLO",
@@ -97,25 +103,25 @@
       "ID": "ARES",
       "SetID": "e4de54",
       "Name": "Ares",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ARTEMIS",
       "SetID": "e4de54",
       "Name": "Artemis",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ATTENTIVENESS",
       "SetID": "e4de54",
       "Name": "Attentiveness",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "A_STRANGE_SPRING",
@@ -153,17 +159,17 @@
       "ID": "CAREFULNESS",
       "SetID": "e4de54",
       "Name": "Carefulness",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "COBWEB",
       "SetID": "e4de54",
       "Name": "Cobweb",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DANGEROUS_MEDUSA",
@@ -177,9 +183,9 @@
       "ID": "ERIS",
       "SetID": "e4de54",
       "Name": "Eris",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "FEEBLE_MINDEDNESS_AND_COURAGE",
@@ -233,9 +239,9 @@
       "ID": "HERMES",
       "SetID": "e4de54",
       "Name": "Hermes",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "KNOWLEDGE_IS_POWER",
@@ -257,9 +263,9 @@
       "ID": "MAIN_MENU",
       "SetID": "e4de54",
       "Name": "Main menu",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MEDUSA_GAZE",
@@ -305,9 +311,9 @@
       "ID": "RAT_TERROR",
       "SetID": "e4de54",
       "Name": "Rat terror",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "RED_HERRING",
@@ -362,13 +368,13 @@
     {
       "ID": "e4de54",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-14T20:01:12.8113065+00:00",
-  "LastChanged_Achievements": "2023-07-18T10:03:37.3331857+00:00",
+  "LastChanged_Achievements": "2023-07-18T11:03:12.9192601+00:00",
   "LastUpdate_AppInfo": "2023-07-14T19:57:12.1529978+00:00",
-  "LastUpdate_Ratings": "2023-07-18T09:57:11.4839508+00:00",
-  "LastUpdate_Achievements": "2023-07-18T10:03:37.3332093+00:00"
+  "LastUpdate_Ratings": "2023-07-18T10:57:00.5016562+00:00",
+  "LastUpdate_Achievements": "2023-07-18T11:03:12.919292+00:00"
 }

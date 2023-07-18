@@ -13,8 +13,8 @@
 | Need a Consult | 35.00% | ~81 |
 | It's Technical | 35.00% | ~81 |
 | Upgrade Unlock | 34.00% | ~79 |
+| Proper Walls | 32.00% | ~74 |
 | Delegate Maintenance | 32.00% | ~74 |
-| Proper Walls | 31.00% | ~72 |
 | Destination Destiny | 29.00% | ~67 |
 | Happy Tenants | 26.00% | ~60 |
 | Your Prestige is Rising | 24.00% | ~55 |
@@ -52,6 +52,7 @@
 | Maximum Reuse | 8.00% | ~18 |
 | Pipe Up | 8.00% | ~18 |
 | Careful Constructor | 7.00% | ~16 |
+| Water Features | 7.00% | ~16 |
 | Sky High Stature | 7.00% | ~16 |
 | Profound Proceeds | 7.00% | ~16 |
 | It's a Gas | 7.00% | ~16 |
@@ -59,7 +60,6 @@
 | Penthouse in the Sky | 6.00% | ~14 |
 | Baron of Business | 6.00% | ~14 |
 | I'm Busy Ruling | 6.00% | ~14 |
-| Water Features | 6.00% | ~14 |
 | Tuned In | 6.00% | ~14 |
 | Office Bigwigs | 5.00% | ~12 |
 | Golden Opportunity | 5.00% | ~12 |

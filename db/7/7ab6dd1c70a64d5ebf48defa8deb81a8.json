@@ -4,7 +4,7 @@
   "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -88,25 +88,25 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break Out",
-      "Percentage": 21,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_02",
       "SetID": "efe2lj",
       "Name": "Find Allies",
-      "Percentage": 5,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_03",
       "SetID": "efe2lj",
       "Name": "Powerful Allies",
-      "Percentage": 5,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_04",
@@ -160,9 +160,9 @@
       "ID": "ACH_10",
       "SetID": "efe2lj",
       "Name": "Trinity",
-      "Percentage": 11,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_11",
@@ -264,9 +264,9 @@
       "ID": "ACH_23",
       "SetID": "efe2lj",
       "Name": "Geared Up",
-      "Percentage": 5,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_24",
@@ -304,9 +304,9 @@
       "ID": "ACH_28",
       "SetID": "efe2lj",
       "Name": "I Found It",
-      "Percentage": 5,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_29",
@@ -382,7 +382,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-07-18T10:03:37.5991297+00:00",
-  "LastUpdate_Ratings": "2023-07-18T09:57:22.5095218+00:00",
-  "LastUpdate_Achievements": "2023-07-18T10:03:37.5991501+00:00"
+  "LastChanged_Achievements": "2023-07-18T11:03:13.1510926+00:00",
+  "LastUpdate_Ratings": "2023-07-18T10:57:07.6945591+00:00",
+  "LastUpdate_Achievements": "2023-07-18T11:03:13.1511168+00:00"
 }

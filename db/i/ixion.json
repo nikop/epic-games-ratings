@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -3716,9 +3716,9 @@
       "ID": "ACH_BASE_23",
       "SetID": "92iocjf",
       "Name": "Space Society",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 369
     },
     {
       "ID": "ACH_BASE_24",
@@ -4083,8 +4083,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-07-08T02:22:11.1138638+00:00",
-  "LastChanged_Achievements": "2023-07-18T10:05:43.2500937+00:00",
+  "LastChanged_Achievements": "2023-07-18T11:04:34.4058071+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:23.6946025+00:00",
-  "LastUpdate_Ratings": "2023-07-18T09:59:31.4352738+00:00",
-  "LastUpdate_Achievements": "2023-07-18T10:05:43.2501542+00:00"
+  "LastUpdate_Ratings": "2023-07-18T10:58:39.931443+00:00",
+  "LastUpdate_Achievements": "2023-07-18T11:04:34.4058879+00:00"
 }

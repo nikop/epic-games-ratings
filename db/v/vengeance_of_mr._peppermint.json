@@ -2,10 +2,10 @@
   "ID": "bca0e729759947afaafee84401933a4d",
   "Name": "Vengeance of Mr. Peppermint",
   "ProductSlug": "vengeance-of-mr-peppermint-8953c5",
-  "Ranking_EOS_Progress": 496,
+  "Ranking_EOS_Progress": 497,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-15T02:22:03.7384314+00:00",
-  "LastUpdate_Ratings": "2023-07-18T09:57:51.4153266+00:00",
-  "LastUpdate_Achievements": "2023-07-18T10:06:39.6789921+00:00"
+  "LastUpdate_Ratings": "2023-07-18T10:57:28.0733821+00:00",
+  "LastUpdate_Achievements": "2023-07-18T11:05:18.4143541+00:00"
 }

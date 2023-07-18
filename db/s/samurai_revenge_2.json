@@ -2,10 +2,10 @@
   "ID": "ea0c9355576c4ae5b0ae9fe2e1cfaf83",
   "Name": "Samurai Revenge 2",
   "ProductSlug": "samurai-revenge-2-2973ff",
-  "Ranking_EOS_Progress": 496,
+  "Ranking_EOS_Progress": 497,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-03-24T14:00:00+00:00",
     "PcReleaseDate": "2023-03-24T14:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-15T03:58:09.3922736+00:00",
-  "LastUpdate_Ratings": "2023-07-18T10:01:36.0751535+00:00",
-  "LastUpdate_Achievements": "2023-07-18T10:03:28.9260836+00:00"
+  "LastUpdate_Ratings": "2023-07-18T11:00:12.9641759+00:00",
+  "LastUpdate_Achievements": "2023-07-18T11:02:36.3078502+00:00"
 }

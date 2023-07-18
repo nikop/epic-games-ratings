@@ -5,6 +5,7 @@ Rating: 4.62 (Ranked 346)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Realm Estate | 4.00% | ~200 |
 | A Wonderful Discovery | 4.00% | ~200 |
 | Secret Technique | 4.00% | ~200 |
 | Walls Cannot Stop Us | 4.00% | ~200 |
@@ -12,7 +13,6 @@ Rating: 4.62 (Ranked 346)
 | Tipping the Scales | 4.00% | ~200 |
 | There Can Only Be One! | 3.00% | ~150 |
 | Full Ascension | 3.00% | ~150 |
-| Realm Estate | 3.00% | ~150 |
 | Bone Peddler | 3.00% | ~150 |
 | From Friends to Family | 3.00% | ~150 |
 | Stronger Together | 3.00% | ~150 |

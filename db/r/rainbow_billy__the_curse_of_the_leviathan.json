@@ -2,10 +2,10 @@
   "ID": "642646defada420d83658f57953aeda5",
   "Name": "Rainbow Billy: The Curse of the Leviathan",
   "ProductSlug": "rainbow-billy-the-curse-of-the-leviathan",
-  "Ranking_EOS_Progress": 496,
+  "Ranking_EOS_Progress": 497,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-02-08T16:00:00+00:00",
     "PcReleaseDate": "2022-02-08T16:00:00+00:00",
@@ -38,6 +38,6 @@
   "FirstSeenRating": "2023-03-31T05:58:35.9289489+00:00",
   "LastChanged": "2023-03-31T05:58:35.928949+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:22.1185596+00:00",
-  "LastUpdate_Ratings": "2023-07-18T09:58:39.417444+00:00",
-  "LastUpdate_Achievements": "2023-07-18T10:05:56.1283559+00:00"
+  "LastUpdate_Ratings": "2023-07-18T10:58:03.9026704+00:00",
+  "LastUpdate_Achievements": "2023-07-18T11:04:44.839284+00:00"
 }

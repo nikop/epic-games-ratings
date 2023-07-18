@@ -36,11 +36,11 @@
 | Good Neighbor | 9.00% | ~68 |
 | Family Memories | 8.00% | ~61 |
 | Sump Explorer | 8.00% | ~61 |
+| Syron for Hope | 8.00% | ~61 |
 | Theater Explorer | 8.00% | ~61 |
 | Cultivair Explorer | 7.00% | ~53 |
 | Factorywood Explorer | 7.00% | ~53 |
 | Fairgrounds Explorer | 7.00% | ~53 |
-| Syron for Hope | 7.00% | ~53 |
 | Ask Questions Later | 7.00% | ~53 |
 | Corin Goes Home | 6.00% | ~46 |
 | Sartorialist | 6.00% | ~46 |

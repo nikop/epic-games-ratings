@@ -3,12 +3,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 21.00% | ~4 |
+| Break Out | 26.00% | ~5 |
+| Trinity | 16.00% | ~3 |
 | Fashion Victim | 16.00% | ~3 |
+| Find Allies | 11.00% | ~2 |
+| Powerful Allies | 11.00% | ~2 |
 | Calm before the Storm | 11.00% | ~2 |
-| Trinity | 11.00% | ~2 |
-| Find Allies | 5.00% | ~1 |
-| Powerful Allies | 5.00% | ~1 |
+| Geared Up | 11.00% | ~2 |
+| I Found It | 11.00% | ~2 |
 | To Battle | 5.00% | ~1 |
 | Godslayer | 5.00% | ~1 |
 | Shardbearer | 5.00% | ~1 |
@@ -16,8 +18,6 @@
 | Tributes of Caladrias | 5.00% | ~1 |
 | Essence Blow | 5.00% | ~1 |
 | Flawless Victory | 5.00% | ~1 |
-| Geared Up | 5.00% | ~1 |
-| I Found It | 5.00% | ~1 |
 | Miner | 5.00% | ~1 |
 | Clear Sight | 0.00% | ~0 |
 | A Taste of Wrath | 0.00% | ~0 |

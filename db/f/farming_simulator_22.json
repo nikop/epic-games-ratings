@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -6843,9 +6843,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 45649,
+  "EOS_Progressed": 45650,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 346,
+  "EOS_NewPlayers": 347,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14558,6 +14558,11 @@
       "Time": "2023-07-18T07:03:30.2157314+00:00",
       "NumProgressed": 45649,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-18T11:03:32.2432087+00:00",
+      "NumProgressed": 45650,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 43,
@@ -14569,7 +14574,7 @@
       "Name": "Clucky Streak",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 6847
+      "UsersEstimate": 6848
     },
     {
       "ID": "BreedCows",
@@ -14577,7 +14582,7 @@
       "Name": "Cowherd",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 3195
+      "UsersEstimate": 3196
     },
     {
       "ID": "BreedPigs",
@@ -14649,7 +14654,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 29215
+      "UsersEstimate": 29216
     },
     {
       "ID": "CutTree",
@@ -14705,7 +14710,7 @@
       "Name": "Plant get enough",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 27389
+      "UsersEstimate": 27390
     },
     {
       "ID": "Harvested",
@@ -14713,7 +14718,7 @@
       "Name": "Large-scale supplier",
       "Percentage": 15,
       "XP": 55,
-      "UsersEstimate": 6847
+      "UsersEstimate": 6848
     },
     {
       "ID": "HarvestedFirst",
@@ -14721,7 +14726,7 @@
       "Name": "Own use",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 34237
+      "UsersEstimate": 34238
     },
     {
       "ID": "HorseJumps",
@@ -14825,7 +14830,7 @@
       "Name": "This is just my weekend vehicle",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 26476
+      "UsersEstimate": 26477
     },
     {
       "ID": "PetDog",
@@ -14841,7 +14846,7 @@
       "Name": "It\u0027s just the beginning",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 26476
+      "UsersEstimate": 26477
     },
     {
       "ID": "Sow",
@@ -14849,7 +14854,7 @@
       "Name": "It\u0027s sow easy",
       "Percentage": 11,
       "XP": 55,
-      "UsersEstimate": 5021
+      "UsersEstimate": 5022
     },
     {
       "ID": "SowFirst",
@@ -14857,7 +14862,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 28759
+      "UsersEstimate": 28760
     },
     {
       "ID": "Stones",
@@ -14873,7 +14878,7 @@
       "Name": "Field Trip",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 19629
+      "UsersEstimate": 19630
     },
     {
       "ID": "TruckDriving",
@@ -14912,15 +14917,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 45649,
+      "Progressed": 45650,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-07-17T21:00:03.4829435+00:00",
-  "LastChanged_Achievements": "2023-07-18T10:04:12.0130696+00:00",
+  "LastChanged_Achievements": "2023-07-18T11:03:32.2432082+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:40.9029546+00:00",
-  "LastUpdate_Ratings": "2023-07-18T10:01:01.4301473+00:00",
-  "LastUpdate_Achievements": "2023-07-18T10:04:12.0131327+00:00"
+  "LastUpdate_Ratings": "2023-07-18T10:59:46.7719623+00:00",
+  "LastUpdate_Achievements": "2023-07-18T11:03:32.2432944+00:00"
 }

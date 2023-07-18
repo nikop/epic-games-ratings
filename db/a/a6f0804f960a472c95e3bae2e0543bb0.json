@@ -2,10 +2,10 @@
   "ID": "a6f0804f960a472c95e3bae2e0543bb0",
   "Name": "Astronite",
   "ProductSlug": "astronite-edc4d8",
-  "Ranking_EOS_Progress": 496,
+  "Ranking_EOS_Progress": 497,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-26T13:00:00+00:00",
     "PcReleaseDate": "2022-11-30T07:00:00+00:00",
@@ -241,8 +241,8 @@
   ],
   "FirstSeen": "2023-06-06T19:57:22.3891472+00:00",
   "FirstSeenAchievements": "2023-05-22T11:00:44.686172+00:00",
-  "LastChanged_Achievements": "2023-07-18T10:06:12.6549262+00:00",
+  "LastChanged_Achievements": "2023-07-18T11:04:57.7530083+00:00",
   "LastUpdate_AppInfo": "2023-07-17T13:57:23.7601334+00:00",
-  "LastUpdate_Ratings": "2023-07-18T09:57:39.0850607+00:00",
-  "LastUpdate_Achievements": "2023-07-18T10:06:12.6549407+00:00"
+  "LastUpdate_Ratings": "2023-07-18T10:57:18.7085466+00:00",
+  "LastUpdate_Achievements": "2023-07-18T11:04:57.753027+00:00"
 }

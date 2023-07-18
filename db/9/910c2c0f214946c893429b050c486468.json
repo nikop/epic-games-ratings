@@ -2,10 +2,10 @@
   "ID": "910c2c0f214946c893429b050c486468",
   "Name": "The Silent City Chapter 1",
   "ProductSlug": "the-silent-city-chapter-1-94a47d",
-  "Ranking_EOS_Progress": 496,
+  "Ranking_EOS_Progress": 497,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-06-23T18:00:00+00:00",
     "PcReleaseDate": "2023-06-23T18:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-14T09:57:10.3936592+00:00",
-  "LastUpdate_Ratings": "2023-07-18T09:57:34.4054791+00:00",
-  "LastUpdate_Achievements": "2023-07-18T10:04:55.6667976+00:00"
+  "LastUpdate_Ratings": "2023-07-18T10:57:15.1738338+00:00",
+  "LastUpdate_Achievements": "2023-07-18T11:04:08.5857325+00:00"
 }

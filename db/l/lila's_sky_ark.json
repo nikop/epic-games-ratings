@@ -2,10 +2,10 @@
   "ID": "c599541282c740da90c313ce23e60ece",
   "Name": "Lila\u0027s Sky Ark",
   "ProductSlug": "lilas-sky-ark-610f75",
-  "Ranking_EOS_Progress": 496,
+  "Ranking_EOS_Progress": 497,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-04-21T16:00:00+00:00",
     "PcReleaseDate": "2022-04-21T16:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:23.165731+00:00",
   "LastChanged": "2023-03-31T05:58:23.1657311+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:11.8714613+00:00",
-  "LastUpdate_Ratings": "2023-07-18T10:01:38.6823557+00:00",
-  "LastUpdate_Achievements": "2023-07-18T10:04:59.7723013+00:00"
+  "LastUpdate_Ratings": "2023-07-18T11:00:14.9260531+00:00",
+  "LastUpdate_Achievements": "2023-07-18T11:04:11.8008982+00:00"
 }

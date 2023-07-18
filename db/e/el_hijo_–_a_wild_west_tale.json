@@ -2,10 +2,10 @@
   "ID": "04aeed70a9804ec7b8f86aac70809ef4",
   "Name": "El Hijo \u2013 A Wild West Tale",
   "ProductSlug": "el-hijo-6b63c5",
-  "Ranking_EOS_Progress": 496,
+  "Ranking_EOS_Progress": 497,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-03-11T14:00:00+00:00",
     "PcReleaseDate": "2020-12-03T00:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:06.8078366+00:00",
   "LastChanged": "2023-03-31T05:57:06.8078367+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:55.332365+00:00",
-  "LastUpdate_Ratings": "2023-07-18T10:00:10.8534081+00:00",
-  "LastUpdate_Achievements": "2023-07-18T10:07:07.2715898+00:00"
+  "LastUpdate_Ratings": "2023-07-18T10:59:07.5495092+00:00",
+  "LastUpdate_Achievements": "2023-07-18T11:05:40.3379877+00:00"
 }

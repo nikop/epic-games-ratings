@@ -3,12 +3,12 @@
   "Name": "Into the Breach",
   "ProductSlug": "into-the-breach",
   "Ranking_Rating": 49,
-  "Ranking_Popularity": 207,
+  "Ranking_Popularity": 206,
   "Ranking_PopularitySum": 141,
-  "Ranking_EOS_Progress": 496,
+  "Ranking_EOS_Progress": 497,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2019-12-19T16:00:00+00:00",
     "PcReleaseDate": "2018-02-27T16:00:00+00:00",
@@ -2995,12 +2995,18 @@
       "Rating": 4.84,
       "NumberOfAwards": 3922,
       "NumberOfAwardsMax": 410
+    },
+    {
+      "Time": "2023-07-18T10:59:40.6903318+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 3924,
+      "NumberOfAwardsMax": 412
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3922,
-  "NumberOfAwardsMax": 410,
-  "MaxAwardTitle": "Extremely Fun",
+  "NumberOfAwards": 3924,
+  "NumberOfAwardsMax": 412,
+  "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
@@ -3036,7 +3042,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 410
+      "Count": 412
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3092,8 +3098,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:50.8479509+00:00",
-  "LastChanged": "2023-07-18T02:30:31.2795098+00:00",
+  "LastChanged": "2023-07-18T10:59:40.6903317+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:31.6636687+00:00",
-  "LastUpdate_Ratings": "2023-07-18T10:00:54.0927628+00:00",
-  "LastUpdate_Achievements": "2023-07-18T10:04:46.9296575+00:00"
+  "LastUpdate_Ratings": "2023-07-18T10:59:40.6903326+00:00",
+  "LastUpdate_Achievements": "2023-07-18T11:04:01.4549643+00:00"
 }
