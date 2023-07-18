@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -8461,9 +8461,9 @@
       "ID": "15",
       "SetID": "8idi9ml",
       "Name": "Legendary Explorer",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2020
+      "UsersEstimate": 2095
     },
     {
       "ID": "16",
@@ -8893,8 +8893,8 @@
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-07-16T19:01:16.5125596+00:00",
-  "LastChanged_Achievements": "2023-07-18T21:06:02.4082758+00:00",
+  "LastChanged_Achievements": "2023-07-18T22:06:19.5706328+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:57.9913837+00:00",
-  "LastUpdate_Ratings": "2023-07-18T21:01:04.2922785+00:00",
-  "LastUpdate_Achievements": "2023-07-18T21:06:02.4083521+00:00"
+  "LastUpdate_Ratings": "2023-07-18T22:01:30.5096137+00:00",
+  "LastUpdate_Achievements": "2023-07-18T22:06:19.5707211+00:00"
 }

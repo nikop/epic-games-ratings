@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 360,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-06-30T02:00:00+00:00",
     "PcReleaseDate": "2022-08-25T02:30:00+00:00",
@@ -215,9 +215,9 @@
       "ID": "ach_05_northStation",
       "SetID": "16n29hg",
       "Name": "Dominate North Station",
-      "Percentage": 12,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_06_spikeDeath",
@@ -415,9 +415,9 @@
       "ID": "ach_31_skin1",
       "SetID": "16n29hg",
       "Name": "Cheapo",
-      "Percentage": 24,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ach_32_bringCatHome",
@@ -503,9 +503,9 @@
       "ID": "ach_42_inherit",
       "SetID": "16n29hg",
       "Name": "Picking up the Mantle",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_43_badend",
@@ -622,8 +622,8 @@
   ],
   "FirstSeen": "2023-06-30T05:57:16.6793848+00:00",
   "FirstSeenAchievements": "2023-06-20T07:03:35.8699826+00:00",
-  "LastChanged_Achievements": "2023-07-18T21:04:53.3295463+00:00",
+  "LastChanged_Achievements": "2023-07-18T22:04:51.9427315+00:00",
   "LastUpdate_AppInfo": "2023-07-12T06:56:56.5760237+00:00",
-  "LastUpdate_Ratings": "2023-07-18T20:57:22.1961742+00:00",
-  "LastUpdate_Achievements": "2023-07-18T21:04:53.3295916+00:00"
+  "LastUpdate_Ratings": "2023-07-18T21:57:33.2687014+00:00",
+  "LastUpdate_Achievements": "2023-07-18T22:04:51.9427824+00:00"
 }

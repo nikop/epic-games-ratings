@@ -45,9 +45,9 @@ Rating: 4.41 (Ranked 675)
 | It'll Buff Right Out | 0.60% | ~20 |
 | Road Rage | 0.60% | ~20 |
 | Sink or Swim | 0.60% | ~20 |
-| From Paris with Love | 0.50% | ~16 |
-| Burn after reading | 0.50% | ~16 |
-| Souvenir hunter | 0.50% | ~16 |
+| From Paris with Love | 0.50% | ~17 |
+| Burn after reading | 0.50% | ~17 |
+| Souvenir hunter | 0.50% | ~17 |
 | Operation Foxley | 0.50% | ~16 |
 | Siegebreaker | 0.50% | ~16 |
 | Ghost of Falaise | 0.50% | ~16 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 675)
 | Alpha | 0.10% | ~3 |
 | Das Familienjuwel | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,300 (Ranked 147)  
+Progressed: 3,301 (Ranked 147)  
 Completed: 9 (0.27%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 9 (0.27%) (Ranked 154)
 | 2023-07-15 | 3,287 | 9 |
 | 2023-07-16 | 3,290 | 9 |
 | 2023-07-17 | 3,294 | 9 |
-| 2023-07-18 | 3,300 | 9 |
+| 2023-07-18 | 3,301 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

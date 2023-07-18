@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 13,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-12-06T05:00:00+00:00",
     "PcReleaseDate": "2022-12-06T05:00:00+00:00",
@@ -3004,9 +3004,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 456624,
+  "EOS_Progressed": 456625,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 11181,
+  "EOS_NewPlayers": 11128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12719,6 +12719,11 @@
       "Time": "2023-07-18T21:07:44.6284526+00:00",
       "NumProgressed": 456624,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-18T22:08:02.9862841+00:00",
+      "NumProgressed": 456625,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 37,
@@ -12802,7 +12807,7 @@
       "Name": "Devil Inside Me",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 136987
+      "UsersEstimate": 136988
     },
     {
       "ID": "19",
@@ -12810,7 +12815,7 @@
       "Name": "Blood on My Hands",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 356167
+      "UsersEstimate": 356168
     },
     {
       "ID": "2",
@@ -12898,7 +12903,7 @@
       "Name": "Airborne",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 27397
+      "UsersEstimate": 27398
     },
     {
       "ID": "3",
@@ -12922,7 +12927,7 @@
       "Name": "Guardian Angel",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 178083
+      "UsersEstimate": 178084
     },
     {
       "ID": "32",
@@ -12978,7 +12983,7 @@
       "Name": "Fantastic Four",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 100457
+      "UsersEstimate": 100458
     },
     {
       "ID": "5",
@@ -12994,7 +12999,7 @@
       "Name": "Pacifist",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 27397
+      "UsersEstimate": 27398
     },
     {
       "ID": "7",
@@ -13025,7 +13030,7 @@
     {
       "ID": "7ko8h8f",
       "IsBase": true,
-      "Progressed": 456624,
+      "Progressed": 456625,
       "Completed": 10
     }
   ],
@@ -13033,8 +13038,8 @@
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00",
   "LastChanged": "2023-07-18T19:59:04.5253025+00:00",
-  "LastChanged_Achievements": "2023-07-18T21:07:44.6284522+00:00",
+  "LastChanged_Achievements": "2023-07-18T22:08:02.9862833+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:31.3776571+00:00",
-  "LastUpdate_Ratings": "2023-07-18T20:59:32.2927944+00:00",
-  "LastUpdate_Achievements": "2023-07-18T21:07:44.6285195+00:00"
+  "LastUpdate_Ratings": "2023-07-18T21:59:46.9407106+00:00",
+  "LastUpdate_Achievements": "2023-07-18T22:08:02.9863708+00:00"
 }

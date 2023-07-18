@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
     "PcReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -210,9 +210,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5137,
+  "EOS_Progressed": 5138,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -680,6 +680,11 @@
       "Time": "2023-07-18T20:04:42.0531301+00:00",
       "NumProgressed": 5137,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-07-18T22:05:40.5790525+00:00",
+      "NumProgressed": 5138,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 49,
@@ -795,7 +800,7 @@
       "Name": "Timber!",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 3082
+      "UsersEstimate": 3083
     },
     {
       "ID": "ACHIEVE_ATE_FOOD_3",
@@ -819,7 +824,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5034
+      "UsersEstimate": 5035
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -827,7 +832,7 @@
       "Name": "Fun, Flirty, and Thirty",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 3185
+      "UsersEstimate": 3186
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -867,7 +872,7 @@
       "Name": "Fortunate Soul",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2517
+      "UsersEstimate": 2518
     },
     {
       "ID": "ACHIEVE_GREED_GRIND_WIN",
@@ -891,7 +896,7 @@
       "Name": "The Poison You Just Drank",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_1000",
@@ -899,7 +904,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4007
+      "UsersEstimate": 4008
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -915,7 +920,7 @@
       "Name": "Killed 20 Jerks",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 2774
+      "UsersEstimate": 2775
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_200",
@@ -931,7 +936,7 @@
       "Name": "Royal Flush",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3185
+      "UsersEstimate": 3186
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_50",
@@ -971,7 +976,7 @@
       "Name": "Eternal Frenemies",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ACHIEVE_LVL_1_COMPLETE",
@@ -979,7 +984,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5034
+      "UsersEstimate": 5035
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -987,7 +992,7 @@
       "Name": "Humerus Achievement",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1592
+      "UsersEstimate": 1593
     },
     {
       "ID": "ACHIEVE_LVL_60_COMPLETE",
@@ -1075,22 +1080,22 @@
       "Name": "There is No Escape",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3647
+      "UsersEstimate": 3648
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5137,
+      "Progressed": 5138,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-07-18T21:05:32.8320548+00:00",
+  "LastChanged_Achievements": "2023-07-18T22:05:40.579052+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:07.7004436+00:00",
-  "LastUpdate_Ratings": "2023-07-18T21:01:16.7347769+00:00",
-  "LastUpdate_Achievements": "2023-07-18T21:05:32.8320885+00:00"
+  "LastUpdate_Ratings": "2023-07-18T22:01:44.1330874+00:00",
+  "LastUpdate_Achievements": "2023-07-18T22:05:40.579096+00:00"
 }

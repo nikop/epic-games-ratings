@@ -2,10 +2,10 @@
   "ID": "0fbfafdbe4fd40039351bcb6f48b3ca8",
   "Name": "We Are OFK",
   "ProductSlug": "pop-love-panic-the-ofk-story",
-  "Ranking_EOS_Progress": 459,
+  "Ranking_EOS_Progress": 460,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-08-18T13:00:00+00:00",
     "PcReleaseDate": "2022-08-18T13:00:00+00:00",
@@ -276,8 +276,8 @@
   "FirstSeenRating": "2023-03-31T05:57:27.7904661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8514747+00:00",
   "LastChanged": "2023-03-31T05:57:27.7904662+00:00",
-  "LastChanged_Achievements": "2023-07-18T21:03:45.8096632+00:00",
+  "LastChanged_Achievements": "2023-07-18T22:03:46.3237999+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:52.1254215+00:00",
-  "LastUpdate_Ratings": "2023-07-18T20:56:58.5831739+00:00",
-  "LastUpdate_Achievements": "2023-07-18T21:03:45.8096785+00:00"
+  "LastUpdate_Ratings": "2023-07-18T21:57:08.1333016+00:00",
+  "LastUpdate_Achievements": "2023-07-18T22:03:46.3238189+00:00"
 }

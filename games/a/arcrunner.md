@@ -19,7 +19,7 @@
 | Nanonic III | 6.00% | ~43 |
 | The Bigger They Are | 5.00% | ~36 |
 | Cybernetic | 5.00% | ~36 |
-| Fully Modded | 4.00% | ~29 |
+| Fully Modded | 5.00% | ~36 |
 | Rookie | 4.00% | ~29 |
 | Up Close And Personal | 4.00% | ~29 |
 | Eden Heights | 3.00% | ~21 |

@@ -6,17 +6,17 @@ Number of Ratings: 63  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quinceañera Time | 98.00% | ~5,034 |
-| The Journey Begins | 98.00% | ~5,034 |
-| Slaughterhouse 5 (200 times) | 78.00% | ~4,007 |
-| There is No Escape | 71.00% | ~3,647 |
-| Fun, Flirty, and Thirty | 62.00% | ~3,185 |
-| Royal Flush | 62.00% | ~3,185 |
-| Timber! | 60.00% | ~3,082 |
+| Quinceañera Time | 98.00% | ~5,035 |
+| The Journey Begins | 98.00% | ~5,035 |
+| Slaughterhouse 5 (200 times) | 78.00% | ~4,008 |
+| There is No Escape | 71.00% | ~3,648 |
+| Fun, Flirty, and Thirty | 62.00% | ~3,186 |
+| Royal Flush | 62.00% | ~3,186 |
+| Timber! | 60.00% | ~3,083 |
 | Survive the Bombsequences | 59.00% | ~3,031 |
-| Killed 20 Jerks | 54.00% | ~2,774 |
+| Killed 20 Jerks | 54.00% | ~2,775 |
 | Death Defied | 53.00% | ~2,723 |
-| Fortunate Soul | 49.00% | ~2,517 |
+| Fortunate Soul | 49.00% | ~2,518 |
 | Jerk-Slayer | 43.00% | ~2,209 |
 | Employee of the Month | 37.00% | ~1,901 |
 | I Believe I Can Fly | 37.00% | ~1,901 |
@@ -24,7 +24,7 @@ Number of Ratings: 63  (23.09.2022)
 | Fe-Festival | 35.00% | ~1,798 |
 | Top of the Food Chain | 32.00% | ~1,644 |
 | Pardon my Slob | 32.00% | ~1,644 |
-| Humerus Achievement | 31.00% | ~1,592 |
+| Humerus Achievement | 31.00% | ~1,593 |
 | Ghost Facers! | 27.00% | ~1,387 |
 | If It Bleeds, You Can Kill It | 21.00% | ~1,079 |
 | Royal Flush, Again | 19.00% | ~976 |
@@ -46,8 +46,8 @@ Number of Ratings: 63  (23.09.2022)
 | Don't Get Too Greedy | 7.00% | ~360 |
 | You're In a Cult, Call Your Dad | 6.00% | ~308 |
 | Survived The Slaughter | 5.00% | ~257 |
-| The Poison You Just Drank | 4.00% | ~205 |
-| Eternal Frenemies | 4.00% | ~205 |
+| The Poison You Just Drank | 4.00% | ~206 |
+| Eternal Frenemies | 4.00% | ~206 |
 | The Fellowship | 3.00% | ~154 |
 | Are We Good Guys Or Bad Guys? | 1.00% | ~51 |
 | OK Boomer | 0.90% | ~46 |
@@ -56,7 +56,7 @@ Number of Ratings: 63  (23.09.2022)
 | Backdraft | 0.60% | ~31 |
 | Completionist | 0.60% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,137 (Ranked 135)  
+Progressed: 5,138 (Ranked 135)  
 Completed: 29 (0.56%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 29 (0.56%) (Ranked 123)
 | 2023-07-08 | 5,132 | 29 |
 | 2023-07-13 | 5,134 | 29 |
 | 2023-07-16 | 5,135 | 29 |
-| 2023-07-18 | 5,137 | 29 |
+| 2023-07-18 | 5,138 | 29 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
