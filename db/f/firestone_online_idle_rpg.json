@@ -4486,9 +4486,9 @@
       "ID": "engineermastery",
       "SetID": "3nl4bcg",
       "Name": "Engineer Mastery",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 100
     },
     {
       "ID": "enhancedwarmachines",
@@ -4943,8 +4943,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-07-18T16:58:41.2064019+00:00",
-  "LastChanged_Achievements": "2023-07-18T18:00:42.7096776+00:00",
+  "LastChanged_Achievements": "2023-07-18T19:00:50.0681909+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:38.4078532+00:00",
-  "LastUpdate_Ratings": "2023-07-18T17:58:09.1817812+00:00",
-  "LastUpdate_Achievements": "2023-07-18T18:00:42.7097975+00:00"
+  "LastUpdate_Ratings": "2023-07-18T18:58:24.0165066+00:00",
+  "LastUpdate_Achievements": "2023-07-18T19:00:50.068305+00:00"
 }

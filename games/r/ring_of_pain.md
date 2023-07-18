@@ -6,18 +6,18 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~223,394 |
-| Uncharted Territory | 89.00% | ~207,105 |
-| Getting A Glimpse | 73.00% | ~169,872 |
-| A Quick Escape | 65.00% | ~151,256 |
-| Explorer | 62.00% | ~144,275 |
-| Defeat The Dark | 61.00% | ~141,948 |
-| An Offering | 61.00% | ~141,948 |
-| Colorful Corpse | 58.00% | ~134,967 |
-| That Was Quick | 56.00% | ~130,313 |
-| A Donation | 56.00% | ~130,313 |
-| Goodbye, Frog Friend | 54.00% | ~125,659 |
-| Heavy Hitter | 53.00% | ~123,332 |
+| First Steps | 96.00% | ~223,395 |
+| Uncharted Territory | 89.00% | ~207,106 |
+| Getting A Glimpse | 73.00% | ~169,873 |
+| A Quick Escape | 65.00% | ~151,257 |
+| Explorer | 62.00% | ~144,276 |
+| Defeat The Dark | 61.00% | ~141,949 |
+| An Offering | 61.00% | ~141,949 |
+| Colorful Corpse | 58.00% | ~134,968 |
+| That Was Quick | 56.00% | ~130,314 |
+| A Donation | 56.00% | ~130,314 |
+| Goodbye, Frog Friend | 54.00% | ~125,660 |
+| Heavy Hitter | 53.00% | ~123,333 |
 | Heartless | 46.00% | ~107,043 |
 | Spine Breaker | 46.00% | ~107,043 |
 | Deflection | 45.00% | ~104,716 |
@@ -45,14 +45,14 @@ Number of Ratings: 15,086  (23.09.2022)
 | Consecutive Curses | 26.00% | ~60,503 |
 | Destroy Your Fears | 26.00% | ~60,503 |
 | Save Our Souls | 25.00% | ~58,176 |
-| To The Death! | 20.00% | ~46,540 |
-| Well Prepared | 20.00% | ~46,540 |
-| Just Chilling | 20.00% | ~46,540 |
-| Stop Hitting Yourself | 19.00% | ~44,213 |
-| All Consuming | 18.00% | ~41,886 |
-| Shadow Spreads | 17.00% | ~39,559 |
-| Don't Ignore Me! | 17.00% | ~39,559 |
-| Illuminate, Eliminate | 17.00% | ~39,559 |
+| To The Death! | 20.00% | ~46,541 |
+| Well Prepared | 20.00% | ~46,541 |
+| Just Chilling | 20.00% | ~46,541 |
+| Stop Hitting Yourself | 19.00% | ~44,214 |
+| All Consuming | 18.00% | ~41,887 |
+| Shadow Spreads | 17.00% | ~39,560 |
+| Don't Ignore Me! | 17.00% | ~39,560 |
+| Illuminate, Eliminate | 17.00% | ~39,560 |
 | Max Damage! | 16.00% | ~37,232 |
 | Doing Time | 16.00% | ~37,232 |
 | Spreading Plague | 15.00% | ~34,905 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Never Too Many Hats | 0.40% | ~931 |
 | Near Death Experience | 0.30% | ~698 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,702 (Ranked 48)  
+Progressed: 232,703 (Ranked 48)  
 Completed: 246 (0.11%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 246 (0.11%) (Ranked 181)
 | 2023-07-15 | 232,522 | 246 |
 | 2023-07-16 | 232,595 | 246 |
 | 2023-07-17 | 232,656 | 246 |
-| 2023-07-18 | 232,702 | 246 |
+| 2023-07-18 | 232,703 | 246 |
 ## Awards
 Max (Quickly Understood Controls): 1,484  (Ranked 120)  
 Sum: 11,491 (Ranked 75)  

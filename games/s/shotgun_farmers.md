@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 73.00% | ~154 |
-| Aspairagus | 56.00% | ~90 |
-| First Blood | 53.00% | ~112 |
-| Triple Kill | 53.00% | ~112 |
-| Survivor | 52.00% | ~84 |
-| Cornivore | 49.00% | ~103 |
-| No Asperascope | 48.00% | ~101 |
+| Seeds of War | 73.00% | ~155 |
+| Aspairagus | 56.00% | ~91 |
+| Survivor | 53.00% | ~86 |
+| First Blood | 52.00% | ~110 |
+| Triple Kill | 52.00% | ~110 |
+| Cornivore | 49.00% | ~104 |
+| No Asperascope | 48.00% | ~102 |
 | I Believe I Can Fly | 45.00% | ~95 |
+| Early Survivor | 41.00% | ~66 |
 | No Diggity | 41.00% | ~66 |
-| Early Survivor | 40.00% | ~64 |
 | Amateur Survivor | 29.00% | ~47 |
 | 10K | 26.00% | ~55 |
-| Bouncemato | 26.00% | ~42 |
 | 15K | 25.00% | ~53 |
-| Grave Digger | 22.00% | ~35 |
+| Bouncemato | 25.00% | ~40 |
+| Grave Digger | 22.00% | ~36 |
 | Drinking Problem | 20.00% | ~42 |
 | Professional Survivor | 19.00% | ~31 |
 | Pork Chop Express | 16.00% | ~34 |
@@ -32,9 +32,9 @@
 | Quit Horsin' Around | 10.00% | ~21 |
 | Eggtraordinary | 10.00% | ~21 |
 | Fresh Pancake | 9.00% | ~19 |
-| Perfect | 9.00% | ~14 |
-| Expert Survivor | 9.00% | ~14 |
+| Perfect | 9.00% | ~15 |
 | Bring Home The Bacon | 8.00% | ~17 |
+| Expert Survivor | 8.00% | ~13 |
 | Quadsparagus | 8.00% | ~13 |
 | Pyromaniac | 7.00% | ~11 |
 | Early Bird | 5.00% | ~11 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211 (Ranked 264)  
+Progressed: 212 (Ranked 263)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-15 | 208 | 0 |
 | 2023-07-16 | 209 | 0 |
 | 2023-07-17 | 210 | 0 |
-| 2023-07-18 | 211 | 0 |
+| 2023-07-18 | 212 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

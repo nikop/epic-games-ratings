@@ -39,7 +39,7 @@ Rating: 4.41 (Ranked 675)
 | Rigged to Blow | 0.90% | ~30 |
 | The Long Game | 0.80% | ~26 |
 | Tinkerer | 0.80% | ~26 |
-| Don't hold your breath | 0.70% | ~23 |
+| Don't hold your breath | 0.80% | ~26 |
 | Herr Today, Gone Tomorrow | 0.70% | ~23 |
 | Shipbreaker | 0.70% | ~23 |
 | It'll Buff Right Out | 0.60% | ~20 |

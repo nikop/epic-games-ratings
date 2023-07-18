@@ -5018,10 +5018,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 30567,
       "NumberOfAwardsMax": 5041
+    },
+    {
+      "Time": "2023-07-18T18:58:29.2588867+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30568,
+      "NumberOfAwardsMax": 5041
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30567,
+  "NumberOfAwards": 30568,
   "NumberOfAwardsMax": 5041,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5065,12 +5071,12 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3303
+      "Count": 3304
     }
   ],
-  "EOS_Progressed": 213125,
+  "EOS_Progressed": 213144,
   "EOS_Completed": 2058,
-  "EOS_NewPlayers": 2927,
+  "EOS_NewPlayers": 2929,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -14603,6 +14609,11 @@
       "Time": "2023-07-18T18:05:50.396171+00:00",
       "NumProgressed": 213125,
       "NumCompleted": 2058
+    },
+    {
+      "Time": "2023-07-18T19:05:48.7247424+00:00",
+      "NumProgressed": 213144,
+      "NumCompleted": 2058
     }
   ],
   "TotalAchievements": 507,
@@ -16286,7 +16297,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 852
+      "UsersEstimate": 853
     },
     {
       "ID": "objective_completed_34",
@@ -16294,7 +16305,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 852
+      "UsersEstimate": 853
     },
     {
       "ID": "objective_completed_35",
@@ -16460,9 +16471,9 @@
       "ID": "objective_completed_398",
       "SetID": "cc37lbc",
       "Name": "Nimble Escape",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 426
     },
     {
       "ID": "objective_completed_399",
@@ -17004,9 +17015,9 @@
       "ID": "objective_completed_575",
       "SetID": "cc37lbc",
       "Name": "Difficult Terrain",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 426
     },
     {
       "ID": "objective_completed_576",
@@ -17758,7 +17769,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 852
+      "UsersEstimate": 853
     },
     {
       "ID": "objective_completed_70",
@@ -18669,21 +18680,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 179399,
+      "Progressed": 179418,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 213125,
+      "Progressed": 213144,
       "Completed": 2058
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-07-18T15:59:05.9506414+00:00",
-  "LastChanged_Achievements": "2023-07-18T18:05:50.3961706+00:00",
+  "LastChanged": "2023-07-18T18:58:29.2588865+00:00",
+  "LastChanged_Achievements": "2023-07-18T19:05:48.7247415+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:48.5227447+00:00",
-  "LastUpdate_Ratings": "2023-07-18T17:58:16.4139477+00:00",
-  "LastUpdate_Achievements": "2023-07-18T18:05:50.3988936+00:00"
+  "LastUpdate_Ratings": "2023-07-18T18:58:29.2588871+00:00",
+  "LastUpdate_Achievements": "2023-07-18T19:05:48.7273123+00:00"
 }

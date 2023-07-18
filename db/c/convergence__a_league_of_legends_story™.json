@@ -2050,9 +2050,9 @@
       "ID": "WatcherFought",
       "SetID": "a9e499d",
       "Name": "Ask Questions Later",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 61
     },
     {
       "ID": "WatcherSpared",
@@ -2089,8 +2089,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-18T18:02:32.6706567+00:00",
+  "LastChanged_Achievements": "2023-07-18T19:02:17.565305+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:20.5747926+00:00",
-  "LastUpdate_Ratings": "2023-07-18T17:59:26.3948066+00:00",
-  "LastUpdate_Achievements": "2023-07-18T18:02:32.670837+00:00"
+  "LastUpdate_Ratings": "2023-07-18T18:59:35.507109+00:00",
+  "LastUpdate_Achievements": "2023-07-18T19:02:17.5653618+00:00"
 }

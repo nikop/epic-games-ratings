@@ -20,7 +20,7 @@
 | Doll | 38.00% | ~67 |
 | Mysterious paintings | 36.00% | ~64 |
 | Cat | 33.00% | ~58 |
-| Depths of the well | 25.00% | ~44 |
+| Depths of the well | 26.00% | ~46 |
 | Children | 24.00% | ~42 |
 | Huge Snail | 16.00% | ~28 |
 | Flower of hope | 15.00% | ~27 |

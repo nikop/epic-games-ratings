@@ -6,19 +6,19 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 97.00% | ~128,816 |
-| Titan's First Steps | 96.00% | ~127,488 |
-| Basic in Bulk | 90.00% | ~119,520 |
-| Tinkle of Coins | 86.00% | ~114,208 |
-| Disintermediation | 75.00% | ~99,600 |
-| Capitalism Ho! | 74.00% | ~98,272 |
-| It's Free Real Estate | 69.00% | ~91,632 |
-| Budding Merchant | 66.00% | ~87,648 |
-| Another Satisfied Customer | 61.00% | ~81,008 |
-| One Easy Payment | 60.00% | ~79,680 |
-| Own the Means of Production | 60.00% | ~79,680 |
-| Some Assembly Required | 58.00% | ~77,024 |
-| Pretty Penny | 57.00% | ~75,696 |
+| Sponsored by Argon | 97.00% | ~128,817 |
+| Titan's First Steps | 96.00% | ~127,489 |
+| Basic in Bulk | 90.00% | ~119,521 |
+| Tinkle of Coins | 86.00% | ~114,209 |
+| Disintermediation | 75.00% | ~99,601 |
+| Capitalism Ho! | 74.00% | ~98,273 |
+| It's Free Real Estate | 69.00% | ~91,633 |
+| Budding Merchant | 66.00% | ~87,649 |
+| Another Satisfied Customer | 61.00% | ~81,009 |
+| One Easy Payment | 60.00% | ~79,681 |
+| Own the Means of Production | 60.00% | ~79,681 |
+| Some Assembly Required | 58.00% | ~77,025 |
+| Pretty Penny | 57.00% | ~75,697 |
 | One-Armed Bandit | 49.00% | ~65,072 |
 | Through Repetition, Perfection | 46.00% | ~61,088 |
 | The Daily Grind | 45.00% | ~59,760 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.60% | ~797 |
 | Capitalist Camaraderie | 0.20% | ~266 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,800 (Ranked 61)  
+Progressed: 132,801 (Ranked 61)  
 Completed: 119 (0.09%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 119 (0.09%) (Ranked 190)
 | 2023-07-15 | 132,605 | 118 |
 | 2023-07-16 | 132,673 | 118 |
 | 2023-07-17 | 132,751 | 119 |
-| 2023-07-18 | 132,800 | 119 |
+| 2023-07-18 | 132,801 | 119 |
 ## Awards
 Max (Great for Beginners): 4,664  (Ranked 69)  
 Sum: 26,936 (Ranked 46)  

@@ -12,14 +12,14 @@ Rating: 4.42 (Ranked 663)
 | Call Me Snake | 60.00% | ~1,774 |
 | Something Lurks Under The Hills | 59.00% | ~1,745 |
 | This Was No Papercut | 57.00% | ~1,685 |
+| The Shrink Hates Me | 54.00% | ~1,597 |
 | People Person | 53.00% | ~1,567 |
-| The Shrink Hates Me | 53.00% | ~1,567 |
 | Use The Bumper, That's What It's For | 50.00% | ~1,478 |
 | First Steps Into Madness | 50.00% | ~1,478 |
 | Colonial Barrels | 48.00% | ~1,419 |
 | Harper's Hell | 40.00% | ~1,183 |
 | Damn Dude, You Gotta Lose Some Weight! | 40.00% | ~1,183 |
-| Making a Stand | 38.00% | ~1,124 |
+| Making a Stand | 39.00% | ~1,153 |
 | Recouped Investment | 35.00% | ~1,035 |
 | Where It All Begun | 34.00% | ~1,005 |
 | Omelette Du Fromage | 31.00% | ~917 |

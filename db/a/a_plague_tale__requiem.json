@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 289,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -350,9 +350,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12060,
+  "EOS_Progressed": 12061,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -5315,6 +5315,11 @@
       "Time": "2023-07-18T17:02:24.0732185+00:00",
       "NumProgressed": 12060,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-07-18T19:00:59.2144228+00:00",
+      "NumProgressed": 12061,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 35,
@@ -5326,7 +5331,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 11095
+      "UsersEstimate": 11096
     },
     {
       "ID": "ACH_02",
@@ -5334,7 +5339,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 9527
+      "UsersEstimate": 9528
     },
     {
       "ID": "ACH_03",
@@ -5342,7 +5347,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 8924
+      "UsersEstimate": 8925
     },
     {
       "ID": "ACH_04",
@@ -5350,7 +5355,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 8442
+      "UsersEstimate": 8443
     },
     {
       "ID": "ACH_05",
@@ -5366,7 +5371,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 7839
+      "UsersEstimate": 7840
     },
     {
       "ID": "ACH_07",
@@ -5374,7 +5379,7 @@
       "Name": "Felons",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 7477
+      "UsersEstimate": 7478
     },
     {
       "ID": "ACH_08",
@@ -5382,7 +5387,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 7236
+      "UsersEstimate": 7237
     },
     {
       "ID": "ACH_09",
@@ -5390,7 +5395,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 6874
+      "UsersEstimate": 6875
     },
     {
       "ID": "ACH_10",
@@ -5398,7 +5403,7 @@
       "Name": "Bloodline",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 6271
+      "UsersEstimate": 6272
     },
     {
       "ID": "ACH_11",
@@ -5422,7 +5427,7 @@
       "Name": "Nothing Left",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 4703
+      "UsersEstimate": 4704
     },
     {
       "ID": "ACH_14",
@@ -5430,7 +5435,7 @@
       "Name": "Healing our Wounds",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 4462
+      "UsersEstimate": 4463
     },
     {
       "ID": "ACH_15",
@@ -5446,7 +5451,7 @@
       "Name": "King Hugo",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 2894
+      "UsersEstimate": 2895
     },
     {
       "ID": "ACH_17",
@@ -5598,14 +5603,14 @@
       "Name": "Mercy",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 2894
+      "UsersEstimate": 2895
     }
   ],
   "AchievementSets": [
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 12060,
+      "Progressed": 12061,
       "Completed": 37
     }
   ],
@@ -5613,8 +5618,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-07-11T18:59:53.0039364+00:00",
-  "LastChanged_Achievements": "2023-07-18T18:02:13.0524053+00:00",
+  "LastChanged_Achievements": "2023-07-18T19:00:59.214422+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:24.3188999+00:00",
-  "LastUpdate_Ratings": "2023-07-18T17:59:30.0521827+00:00",
-  "LastUpdate_Achievements": "2023-07-18T18:02:13.0524611+00:00"
+  "LastUpdate_Ratings": "2023-07-18T18:59:38.6641855+00:00",
+  "LastUpdate_Achievements": "2023-07-18T19:00:59.2144834+00:00"
 }

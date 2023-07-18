@@ -6,31 +6,31 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,414 |
-| That's a Grand Army | 8.00% | ~5,701 |
-| That is mine! | 8.00% | ~5,701 |
-| Victorious! | 8.00% | ~5,701 |
-| Brothers in Arms | 6.00% | ~4,276 |
-| That's a Grand Navy | 6.00% | ~4,276 |
-| Seriously?! | 6.00% | ~4,276 |
-| For the Glory | 5.00% | ~3,563 |
-| Cold War | 4.00% | ~2,851 |
-| True Catholic | 4.00% | ~2,851 |
-| Defender of the Faith | 3.00% | ~2,138 |
-| It's all about luck | 3.00% | ~2,138 |
-| It's all about the money | 3.00% | ~2,138 |
-| Respected | 3.00% | ~2,138 |
-| The Princess is in this Castle | 3.00% | ~2,138 |
-| Truly Divine Ruler | 3.00% | ~2,138 |
-| Agressive Expander | 2.00% | ~1,425 |
-| Blockader | 2.00% | ~1,425 |
-| Combined Arms | 2.00% | ~1,425 |
-| Double the Love | 2.00% | ~1,425 |
-| Gentle Persuasion | 2.00% | ~1,425 |
-| My armies are invincible! | 2.00% | ~1,425 |
-| Queen of Conquest | 2.00% | ~1,425 |
-| Royal Authority | 2.00% | ~1,425 |
-| Total Control | 2.00% | ~1,425 |
+| Until death do us apart | 9.00% | ~6,416 |
+| That's a Grand Army | 8.00% | ~5,703 |
+| That is mine! | 8.00% | ~5,703 |
+| Victorious! | 8.00% | ~5,703 |
+| Brothers in Arms | 6.00% | ~4,277 |
+| That's a Grand Navy | 6.00% | ~4,277 |
+| Seriously?! | 6.00% | ~4,277 |
+| For the Glory | 5.00% | ~3,564 |
+| Cold War | 4.00% | ~2,852 |
+| True Catholic | 4.00% | ~2,852 |
+| Defender of the Faith | 3.00% | ~2,139 |
+| It's all about luck | 3.00% | ~2,139 |
+| It's all about the money | 3.00% | ~2,139 |
+| Respected | 3.00% | ~2,139 |
+| The Princess is in this Castle | 3.00% | ~2,139 |
+| Truly Divine Ruler | 3.00% | ~2,139 |
+| Agressive Expander | 2.00% | ~1,426 |
+| Blockader | 2.00% | ~1,426 |
+| Combined Arms | 2.00% | ~1,426 |
+| Double the Love | 2.00% | ~1,426 |
+| Gentle Persuasion | 2.00% | ~1,426 |
+| My armies are invincible! | 2.00% | ~1,426 |
+| Queen of Conquest | 2.00% | ~1,426 |
+| Royal Authority | 2.00% | ~1,426 |
+| Total Control | 2.00% | ~1,426 |
 | All That's Thine Shall Be Mine | 1.00% | ~713 |
 | Azur semé de lis or | 1.00% | ~713 |
 | Bright Spark | 1.00% | ~713 |
@@ -40,9 +40,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Golden Empire | 1.00% | ~713 |
 | The Five Colonies | 1.00% | ~713 |
 | This navy can take it all | 1.00% | ~713 |
-| Isn't this the way to India? | 0.90% | ~641 |
-| Market Control | 0.90% | ~641 |
-| Trustworthy | 0.90% | ~641 |
+| Isn't this the way to India? | 0.90% | ~642 |
+| Market Control | 0.90% | ~642 |
+| Trustworthy | 0.90% | ~642 |
 | Down Under | 0.80% | ~570 |
 | Electable! | 0.70% | ~499 |
 | Populists in Government | 0.70% | ~499 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71,263 (Ranked 74)  
+Progressed: 71,289 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -450,7 +450,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-15 | 70,161 | 0 |
 | 2023-07-16 | 70,611 | 0 |
 | 2023-07-17 | 70,990 | 0 |
-| 2023-07-18 | 71,263 | 0 |
+| 2023-07-18 | 71,289 | 0 |
 ## Awards
 Max (Educational): 5,562  (Ranked 60)  
 Sum: 45,819 (Ranked 26)  

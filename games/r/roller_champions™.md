@@ -1,17 +1,17 @@
 # Roller Champions™
 [Store](https://store.epicgames.com/en-US/p/roller-champions)  
 [View Rawdata](../../db/r/roller_champions™.json)  
-Rating: 4.34 (Ranked 750)  
+Rating: 4.34 (Ranked 749)  
 Number of Ratings: 5,693  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 246  (Ranked 247)  
-Sum: 2,121 (Ranked 191)  
+Sum: 2,122 (Ranked 191)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 246 |
 | This game is Great for Quick Sessions | 233 |
-| This game has Diverse Characters | 223 |
+| This game has Diverse Characters | 224 |
 | This game is Highly Recommended | 220 |
 | This game is Extremely Fun | 218 |
 | This game has Amazing Storytelling | 211 |
@@ -162,4 +162,4 @@ Diff (max vs sum): 56
 | 2023-07-15 | 4.34 | - | 246 | 2,118 |
 | 2023-07-16 | 4.34 | - | 246 | 2,119 |
 | 2023-07-17 | 4.34 | - | 246 | 2,120 |
-| 2023-07-18 | 4.34 | - | 246 | 2,121 |
+| 2023-07-18 | 4.34 | - | 246 | 2,122 |

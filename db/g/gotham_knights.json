@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 174,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2084,9 +2084,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67165,
+  "EOS_Progressed": 67167,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 294,
+  "EOS_NewPlayers": 292,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10154,6 +10154,11 @@
       "Time": "2023-07-18T18:04:08.6043105+00:00",
       "NumProgressed": 67165,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-07-18T19:03:59.7475554+00:00",
+      "NumProgressed": 67167,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 61,
@@ -10237,7 +10242,7 @@
       "Name": "Practice Makes Perfect",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ALL_VILLAIN",
@@ -10317,7 +10322,7 @@
       "Name": "Expert Crime Fighter",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -10549,7 +10554,7 @@
       "Name": "A Worthy Successor",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "MYSTERY_01",
@@ -10652,13 +10657,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67165,
+      "Progressed": 67167,
       "Completed": 102
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 37445,
+      "Progressed": 37447,
       "Completed": 2652
     }
   ],
@@ -10666,8 +10671,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-07-18T13:15:11.3207978+00:00",
-  "LastChanged_Achievements": "2023-07-18T18:04:08.6043101+00:00",
+  "LastChanged_Achievements": "2023-07-18T19:03:59.7475545+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:49.4668745+00:00",
-  "LastUpdate_Ratings": "2023-07-18T17:59:52.3106894+00:00",
-  "LastUpdate_Achievements": "2023-07-18T18:04:08.6044173+00:00"
+  "LastUpdate_Ratings": "2023-07-18T19:00:00.9693313+00:00",
+  "LastUpdate_Achievements": "2023-07-18T19:03:59.7476705+00:00"
 }

@@ -6,9 +6,9 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 0.40% | ~852 |
-| The Ring of Regeneration | 0.40% | ~852 |
-| The Mad Wizard | 0.40% | ~852 |
+| The Cursed Farmer | 0.40% | ~853 |
+| The Ring of Regeneration | 0.40% | ~853 |
+| The Mad Wizard | 0.40% | ~853 |
 | The Crumbling Temple | 0.30% | ~639 |
 | Seeking Allies | 0.30% | ~639 |
 | Are Ya Chicken? | 0.30% | ~639 |
@@ -25,12 +25,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Trollskull Manor | 0.20% | ~426 |
 | Attack on the Manor | 0.20% | ~426 |
 | The Death Curse | 0.20% | ~426 |
+| Nimble Escape | 0.20% | ~426 |
 | Useless Allies | 0.20% | ~426 |
 | Premature Betrayal | 0.20% | ~426 |
 | A Tale of Two Cities | 0.20% | ~426 |
 | The Dead Three | 0.20% | ~426 |
 | Flying Monkey Skulls of Doom | 0.20% | ~426 |
 | The Darkness Runs Deeper | 0.20% | ~426 |
+| Difficult Terrain | 0.20% | ~426 |
 | The Giant's Bane Tavern | 0.20% | ~359 |
 | The Everlasting Rime | 0.20% | ~359 |
 | Close Escort | 0.20% | ~426 |
@@ -71,7 +73,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Diversity Day-Trip | 0.10% | ~213 |
 | Late Game | 0.10% | ~213 |
 | Shadowfell Stalwarts | 0.10% | ~179 |
-| Nimble Escape | 0.10% | ~213 |
 | Nimblest Escape | 0.10% | ~213 |
 | Stumbling Escape | 0.10% | ~213 |
 | Distracted Escape | 0.10% | ~179 |
@@ -130,7 +131,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Troublesome Prisoner | 0.10% | ~213 |
 | Dark Doppelgangers | 0.10% | ~213 |
 | Faerûn's Most Wanted | 0.10% | ~179 |
-| Difficult Terrain | 0.10% | ~213 |
 | Cold & Wet | 0.10% | ~213 |
 | Madcap Adventures | 0.10% | ~213 |
 | Faerûn's Most Neglected | 0.10% | ~179 |
@@ -514,7 +514,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rock and Roll | 0.00% | ~0 |
 | Electric Mayhem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213,125 (Ranked 53)  
+Progressed: 213,144 (Ranked 53)  
 Completed: 2,058 (0.97%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -603,10 +603,10 @@ Completed: 2,058 (0.97%) (Ranked 103)
 | 2023-07-15 | 212,014 | 2,053 |
 | 2023-07-16 | 212,501 | 2,055 |
 | 2023-07-17 | 212,861 | 2,057 |
-| 2023-07-18 | 213,125 | 2,058 |
+| 2023-07-18 | 213,144 | 2,058 |
 ## Awards
 Max (Diverse Characters): 5,041  (Ranked 66)  
-Sum: 30,567 (Ranked 38)  
+Sum: 30,568 (Ranked 38)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -616,7 +616,7 @@ Diff (max vs sum): 28
 | This game is Relaxing | 4,559 |
 | This game is Highly Recommended | 4,010 |
 | This game has Amazing Characters | 4,008 |
-| This game has Playful Visuals | 3,303 |
+| This game has Playful Visuals | 3,304 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -793,4 +793,4 @@ Diff (max vs sum): 28
 | 2023-07-15 | 4.05 | - | 5,036 | 30,535 |
 | 2023-07-16 | 4.05 | - | 5,036 | 30,550 |
 | 2023-07-17 | 4.06 | - | 5,041 | 30,562 |
-| 2023-07-18 | 4.06 | - | 5,041 | 30,567 |
+| 2023-07-18 | 4.06 | - | 5,041 | 30,568 |

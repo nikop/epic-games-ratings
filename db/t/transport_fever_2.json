@@ -516,9 +516,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 1439,
+  "EOS_Progressed": 1440,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2606,6 +2606,11 @@
       "Time": "2023-07-18T09:04:29.2479383+00:00",
       "NumProgressed": 1439,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-18T19:03:23.6879811+00:00",
+      "NumProgressed": 1440,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 61,
@@ -2615,9 +2620,9 @@
       "ID": "achAccumulate100M",
       "SetID": "dgl390n",
       "Name": "Transport shark",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 590
+      "UsersEstimate": 576
     },
     {
       "ID": "achAccumulate100MHard",
@@ -2641,7 +2646,7 @@
       "Name": "Transport tycoon",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "achAccumulate1BHard",
@@ -2657,7 +2662,7 @@
       "Name": "Transport millionaire",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 791
+      "UsersEstimate": 792
     },
     {
       "ID": "achAircraftEarnings",
@@ -2721,7 +2726,7 @@
       "Name": "First train station",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     },
     {
       "ID": "achCannotGetEnough",
@@ -2785,7 +2790,7 @@
       "Name": "First line",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1108
+      "UsersEstimate": 1109
     },
     {
       "ID": "achCrowdInATrain",
@@ -2849,7 +2854,7 @@
       "Name": "First electric train arrived",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "achFirstIndustryUpgrade",
@@ -2857,7 +2862,7 @@
       "Name": "First industry upgraded",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "achFirstPassengerTransported",
@@ -2865,7 +2870,7 @@
       "Name": "First passenger on board",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "achFirstPassengerWaiting",
@@ -2873,7 +2878,7 @@
       "Name": "First passenger waiting",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "achFirstShipArrived",
@@ -2889,7 +2894,7 @@
       "Name": "First steam train arrived",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "achGlacierExpress",
@@ -2913,7 +2918,7 @@
       "Name": "Settled down",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "achHq20",
@@ -3025,7 +3030,7 @@
       "Name": "The king of the sea",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "achSmellOfSuccess",
@@ -3041,7 +3046,7 @@
       "Name": "Cargo hub",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "achTopSpeed120",
@@ -3104,15 +3109,15 @@
     {
       "ID": "dgl390n",
       "IsBase": true,
-      "Progressed": 1439,
+      "Progressed": 1440,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-07-17T12:00:20.6310476+00:00",
-  "LastChanged_Achievements": "2023-07-18T18:03:30.7864457+00:00",
+  "LastChanged_Achievements": "2023-07-18T19:03:23.6879802+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:44.8284102+00:00",
-  "LastUpdate_Ratings": "2023-07-18T17:59:47.4143315+00:00",
-  "LastUpdate_Achievements": "2023-07-18T18:03:30.7865159+00:00"
+  "LastUpdate_Ratings": "2023-07-18T18:59:56.7144446+00:00",
+  "LastUpdate_Achievements": "2023-07-18T19:03:23.6880632+00:00"
 }

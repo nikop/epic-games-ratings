@@ -47,11 +47,11 @@ Rating: 4.10 (Ranked 887)
 | Crystal Mining | 6.00% | ~100 |
 | Dragon Slayer | 6.00% | ~100 |
 | Enchanting skill | 6.00% | ~100 |
+| Engineer Mastery | 6.00% | ~100 |
 | How Do You Turn This On? | 6.00% | ~100 |
 | Weekly Quest Completionist | 6.00% | ~100 |
 | Ancient Knowledge | 5.00% | ~84 |
 | Blueprint Upgrades | 5.00% | ~84 |
-| Engineer Mastery | 5.00% | ~84 |
 | Lock And Load | 5.00% | ~84 |
 | Missions Dedication | 5.00% | ~84 |
 | Background Story | 4.00% | ~67 |

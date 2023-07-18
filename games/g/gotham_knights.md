@@ -40,8 +40,8 @@ Rating: 4.18 (Ranked 856)
 | Out of Their League | 1.00% | ~672 |
 | Family Meeting | 1.00% | ~672 |
 | Solid Alibi | 1.00% | ~672 |
-| Expert Crime Fighter | 0.90% | ~604 |
-| A Worthy Successor | 0.90% | ~604 |
+| Expert Crime Fighter | 0.90% | ~605 |
+| A Worthy Successor | 0.90% | ~605 |
 | Dressed to Impress | 0.80% | ~537 |
 | A Momentum Occasion | 0.60% | ~403 |
 | Bat Out of Hell | 0.50% | ~336 |
@@ -49,7 +49,7 @@ Rating: 4.18 (Ranked 856)
 | Hammer and Icicle | 0.30% | ~112 |
 | Renewable Enemy Source | 0.30% | ~112 |
 | Crime Is a Terrible Thing to Waste | 0.30% | ~112 |
-| Practice Makes Perfect | 0.30% | ~201 |
+| Practice Makes Perfect | 0.30% | ~202 |
 | Element of Surprise | 0.20% | ~75 |
 | It's Nice to Be Wanted | 0.20% | ~75 |
 | The Cold, the Bad and the Ugly | 0.20% | ~75 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 856)
 | History Major | 0.10% | ~67 |
 | Confronting Your Demon | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,165 (Ranked 77)  
+Progressed: 67,167 (Ranked 77)  
 Completed: 102 (0.15%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 102 (0.15%) (Ranked 174)
 | 2023-07-15 | 67,061 | 102 |
 | 2023-07-16 | 67,109 | 102 |
 | 2023-07-17 | 67,148 | 102 |
-| 2023-07-18 | 67,165 | 102 |
+| 2023-07-18 | 67,167 | 102 |
 ## Awards
 Max (Great Boss Battles): 2,451  (Ranked 101)  
 Sum: 4,062 (Ranked 138)  

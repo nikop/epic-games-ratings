@@ -4,7 +4,7 @@
   "ProductSlug": "hush-hush-5c1fa0",
   "Ranking_EOS_Progress": 432,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-07-27T17:00:00+00:00",
@@ -97,9 +97,9 @@
       "ID": "ACHIEVEMENT_Cassie_Date5_Secret",
       "SetID": "70j9o42",
       "Name": "When The Moon Hits Your Eye",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_Cassie_Death2_Failed",
@@ -121,17 +121,17 @@
       "ID": "ACHIEVEMENT_Dorian_Spare_You",
       "SetID": "70j9o42",
       "Name": "Chill Villain",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_EasyMode",
       "SetID": "70j9o42",
       "Name": "Easy Peezy Lemon Squeezy",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_Elle_Date5_Secret",
@@ -153,9 +153,9 @@
       "ID": "ACHIEVEMENT_Elle_StandUp",
       "SetID": "70j9o42",
       "Name": "Admirab-Elle",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_Game_Ended",
@@ -185,17 +185,17 @@
       "ID": "ACHIEVEMENT_Iro_BestEnding",
       "SetID": "70j9o42",
       "Name": "Pain Killer",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_Iro_Date5_Secret",
       "SetID": "70j9o42",
       "Name": "Slippery When Wet",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_Iro_Death3_Failed",
@@ -233,9 +233,9 @@
       "ID": "ACHIEVEMENT_Mio_Date5_Secret",
       "SetID": "70j9o42",
       "Name": "A Winner Is You",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_Mio_Death3_Failed",
@@ -297,9 +297,9 @@
       "ID": "ACHIEVEMENT_Qpernikiss_Ending",
       "SetID": "70j9o42",
       "Name": "Wreathed In Light",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_Quill_Date5_Secret",
@@ -367,8 +367,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-12T17:04:29.8033729+00:00",
-  "LastChanged_Achievements": "2023-07-18T18:02:19.3567503+00:00",
+  "LastChanged_Achievements": "2023-07-18T19:01:05.0231878+00:00",
   "LastUpdate_AppInfo": "2023-07-18T06:57:00.3363267+00:00",
-  "LastUpdate_Ratings": "2023-07-18T17:57:07.3775167+00:00",
-  "LastUpdate_Achievements": "2023-07-18T18:02:19.3567814+00:00"
+  "LastUpdate_Ratings": "2023-07-18T18:57:15.0305933+00:00",
+  "LastUpdate_Achievements": "2023-07-18T19:01:05.0232144+00:00"
 }

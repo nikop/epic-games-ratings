@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -5556,9 +5556,9 @@
       "ID": "38",
       "SetID": "3aa2279",
       "Name": "Manufactured War",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 30
     },
     {
       "ID": "39",
@@ -5723,8 +5723,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-07-11T11:00:15.2595187+00:00",
-  "LastChanged_Achievements": "2023-07-18T18:03:39.3146902+00:00",
+  "LastChanged_Achievements": "2023-07-18T19:03:31.4775743+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:27.6381321+00:00",
-  "LastUpdate_Ratings": "2023-07-18T17:59:31.9399915+00:00",
-  "LastUpdate_Achievements": "2023-07-18T18:03:39.3147677+00:00"
+  "LastUpdate_Ratings": "2023-07-18T18:59:40.2534167+00:00",
+  "LastUpdate_Achievements": "2023-07-18T19:03:31.4776588+00:00"
 }
