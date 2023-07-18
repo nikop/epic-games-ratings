@@ -20,7 +20,7 @@
 | 18 | [Remains](games/r/remains.md) | 11.36% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.11% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.13% |
+| 21 | [Sonic Origins](games/s/sonic_origins.md) | 10.10% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 23 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 9.30% |
 | 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.67% |
@@ -36,7 +36,7 @@
 | 34 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 35 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.66% |
 | 36 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
-| 37 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.02% |
+| 37 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.01% |
 | 38 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.88% |
 | 39 | [JARS](games/j/jars.md) | 4.84% |
 | 40 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.76% |

@@ -1,7 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Outliver: Tribulation](games/1/13e30807efce43ea9e04ac1c45668d8e.md) | 2023-07-18 | 21 (1,000 XP) | 1 | - | - |
-| [REMEDIUM Sentinels](games/r/remedium_sentinels.md) | 2023-07-18 | - |  | - | 0 |
 | [Murder Is Game Over - Streaming Death](games/m/murder_is_game_over_-_streaming_death.md) | 2023-07-18 | - |  | - | - |
 | [Oirbo](games/e/e1963d929f33401d91ebc2f564ebe094.md) | 2023-07-19 | - |  | - | - |
 | [Cramped Room of Death](games/c/cramped_room_of_death.md) | 2023-07-19 | - |  | - | - |
@@ -22,6 +20,7 @@
 | [Sakura Bunny Girls](games/9/94c1c4aa628f404abe30a093cdb99bda.md) | 2023-07-23 | - |  | - | - |
 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 2023-07-24 | - |  | - | - |
 | [Mr. Run and Jump](games/4/499acd70c5dd4e7d9d6af210338e2ae6.md) | 2023-07-25 | - |  | - | - |
+| [Full Moon Rush](games/f/full_moon_rush.md) | 2023-07-25 | - |  | - | - |
 | [Remnant II](games/r/remnant_2.md) | 2023-07-25 | - |  | - | - |
 | [Bloxs](games/b/bloxs.md) | 2023-07-26 | - |  | - | - |
 | [Monster Boy and the Cursed Kingdom](games/2/2573986ce0c3433facd6b5a3fec5d950.md) | 2023-07-26 | - |  | - | - |
@@ -32,7 +31,6 @@
 | [Hush Hush](games/5/56faf2396f304e6886e66c492ee22a0e.md) | 2023-07-27 | 39 (1,000 XP) | 3 | - | - |
 | [Mega City Police](games/m/mega_city_police.md) | 2023-07-28 | - |  | - | - |
 | [Secret Agent 001](games/3/3376364c2a914c1fbde839f5cf8824f6.md) | 2023-07-29 | - |  | - | - |
-| [Full Moon Rush](games/f/full_moon_rush.md) | 2023-07-31 | - |  | - | - |
 | [Hombre](games/1/12351c3d2ae8457684e4dbfb93c04a5c.md) | 2023-07-31 | - |  | - | - |
 | [Probo Rush](games/p/probo_rush.md) | 2023-07-31 | - |  | - | - |
 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 2023-07-31 | - |  | - | - |
