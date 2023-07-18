@@ -148,7 +148,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2947,
+  "EOS_Progressed": 2948,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
@@ -2763,6 +2763,11 @@
       "Time": "2023-07-18T00:07:00.2185887+00:00",
       "NumProgressed": 2947,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-18T05:06:12.2812286+00:00",
+      "NumProgressed": 2948,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2772,9 +2777,9 @@
       "ID": "ACH_ALL_DATAPAD",
       "SetID": "816efe",
       "Name": "Archivist",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_ALL_MARINES_ALIVE",
@@ -2870,7 +2875,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 2122
+      "UsersEstimate": 2123
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -2886,7 +2891,7 @@
       "Name": "Call Me Snake",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1768
+      "UsersEstimate": 1769
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -2926,7 +2931,7 @@
       "Name": "El Riesgo Siempre Vive",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "ACH_MAX_MEDIC",
@@ -2974,7 +2979,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 1444
+      "UsersEstimate": 1445
     },
     {
       "ID": "ACH_MISSION_03",
@@ -3038,7 +3043,7 @@
       "Name": "The Spire",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "ACH_MISSION_11",
@@ -3070,7 +3075,7 @@
       "Name": "Snatched Out",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2181
+      "UsersEstimate": 2182
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -3078,7 +3083,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 2387
+      "UsersEstimate": 2388
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -3133,7 +3138,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 2947,
+      "Progressed": 2948,
       "Completed": 0
     }
   ],
@@ -3141,8 +3146,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-17T17:00:33.2796025+00:00",
-  "LastChanged_Achievements": "2023-07-18T04:06:26.0464035+00:00",
+  "LastChanged_Achievements": "2023-07-18T05:06:12.2812281+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:18.2957495+00:00",
-  "LastUpdate_Ratings": "2023-07-18T03:59:32.8930646+00:00",
-  "LastUpdate_Achievements": "2023-07-18T04:06:26.046442+00:00"
+  "LastUpdate_Ratings": "2023-07-18T04:59:15.1900563+00:00",
+  "LastUpdate_Achievements": "2023-07-18T05:06:12.281269+00:00"
 }

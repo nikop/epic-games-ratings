@@ -7225,9 +7225,9 @@
       "Count": 589
     }
   ],
-  "EOS_Progressed": 596635,
+  "EOS_Progressed": 596640,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 4362,
+  "EOS_NewPlayers": 4341,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16850,6 +16850,11 @@
       "Time": "2023-07-18T04:03:57.6199893+00:00",
       "NumProgressed": 596635,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-07-18T05:03:55.288581+00:00",
+      "NumProgressed": 596640,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 65,
@@ -16877,7 +16882,7 @@
       "Name": "Herzlich Wilkommen!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 53697
+      "UsersEstimate": 53698
     },
     {
       "ID": "achievement_04",
@@ -16885,7 +16890,7 @@
       "Name": "Under Pressure",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 41764
+      "UsersEstimate": 41765
     },
     {
       "ID": "achievement_05",
@@ -16893,7 +16898,7 @@
       "Name": "On the Trail of the Enemy",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 41764
+      "UsersEstimate": 41765
     },
     {
       "ID": "achievement_06",
@@ -16949,7 +16954,7 @@
       "Name": "Going Down",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 23865
+      "UsersEstimate": 23866
     },
     {
       "ID": "achievement_13",
@@ -16957,7 +16962,7 @@
       "Name": "Family First",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 23865
+      "UsersEstimate": 23866
     },
     {
       "ID": "achievement_14",
@@ -16965,7 +16970,7 @@
       "Name": "Your World, Your Rules",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 23865
+      "UsersEstimate": 23866
     },
     {
       "ID": "achievement_15",
@@ -17053,7 +17058,7 @@
       "Name": "Flag Burning",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 41764
+      "UsersEstimate": 41765
     },
     {
       "ID": "achievement_26",
@@ -17077,7 +17082,7 @@
       "Name": "Oh, So This Is How It Works!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 41764
+      "UsersEstimate": 41765
     },
     {
       "ID": "achievement_29",
@@ -17149,7 +17154,7 @@
       "Name": "Good Night \u0026 Good Luck",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 53697
+      "UsersEstimate": 53698
     },
     {
       "ID": "achievement_38",
@@ -17165,7 +17170,7 @@
       "Name": "Night Hunter",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 41764
+      "UsersEstimate": 41765
     },
     {
       "ID": "achievement_40",
@@ -17173,7 +17178,7 @@
       "Name": "Death From Afar",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 23865
+      "UsersEstimate": 23866
     },
     {
       "ID": "achievement_41",
@@ -17189,7 +17194,7 @@
       "Name": "Terminal Headache",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 23865
+      "UsersEstimate": 23866
     },
     {
       "ID": "achievement_43",
@@ -17197,7 +17202,7 @@
       "Name": "Slowpoke!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 23865
+      "UsersEstimate": 23866
     },
     {
       "ID": "achievement_44",
@@ -17380,21 +17385,21 @@
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 596635,
+      "Progressed": 596640,
       "Completed": 60
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 242079,
+      "Progressed": 242084,
       "Completed": 1420
     }
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
   "LastChanged": "2023-07-18T03:18:28.370465+00:00",
-  "LastChanged_Achievements": "2023-07-18T04:03:57.6199889+00:00",
+  "LastChanged_Achievements": "2023-07-18T05:03:55.2885805+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:59.4492342+00:00",
-  "LastUpdate_Ratings": "2023-07-18T04:00:07.0325469+00:00",
-  "LastUpdate_Achievements": "2023-07-18T04:03:57.6200881+00:00"
+  "LastUpdate_Ratings": "2023-07-18T04:59:50.4773266+00:00",
+  "LastUpdate_Achievements": "2023-07-18T05:03:55.2886754+00:00"
 }

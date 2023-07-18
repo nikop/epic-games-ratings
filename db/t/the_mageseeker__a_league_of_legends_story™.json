@@ -3307,9 +3307,9 @@
       "ID": "STB_MISSION5B_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Capelworth",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 513
+      "UsersEstimate": 538
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -3476,8 +3476,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-07-07T20:57:43.6161991+00:00",
-  "LastChanged_Achievements": "2023-07-18T03:21:21.7331535+00:00",
+  "LastChanged_Achievements": "2023-07-18T05:00:26.797094+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:03.2281626+00:00",
-  "LastUpdate_Ratings": "2023-07-18T03:57:56.8156014+00:00",
-  "LastUpdate_Achievements": "2023-07-18T03:21:21.7332181+00:00"
+  "LastUpdate_Ratings": "2023-07-18T04:57:39.1099703+00:00",
+  "LastUpdate_Achievements": "2023-07-18T05:00:26.7991218+00:00"
 }

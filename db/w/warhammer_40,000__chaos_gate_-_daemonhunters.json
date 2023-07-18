@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -606,9 +606,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2972,
+  "EOS_Progressed": 2973,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2256,6 +2256,11 @@
       "Time": "2023-07-17T05:02:28.1991134+00:00",
       "NumProgressed": 2972,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-18T05:02:46.7174326+00:00",
+      "NumProgressed": 2973,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2483,7 +2488,7 @@
       "Name": "Opportunist",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "Kills_Knockback",
@@ -2515,7 +2520,7 @@
       "Name": "An Ill Omen",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -2595,7 +2600,7 @@
       "Name": "Efficient Killer",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "MissionVictory_NoDamage",
@@ -2627,7 +2632,7 @@
       "Name": "Just a Scratch",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "NexusCompleted",
@@ -2738,21 +2743,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2972,
+      "Progressed": 2973,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2972,
+      "Progressed": 2973,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-13T14:59:29.0223898+00:00",
-  "LastChanged_Achievements": "2023-07-18T04:02:28.630849+00:00",
+  "LastChanged_Achievements": "2023-07-18T05:02:46.7174322+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:36.8896867+00:00",
-  "LastUpdate_Ratings": "2023-07-18T03:58:55.7820897+00:00",
-  "LastUpdate_Achievements": "2023-07-18T04:02:28.6309048+00:00"
+  "LastUpdate_Ratings": "2023-07-18T04:58:37.5968254+00:00",
+  "LastUpdate_Achievements": "2023-07-18T05:02:46.7174811+00:00"
 }

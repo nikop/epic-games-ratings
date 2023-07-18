@@ -5,17 +5,17 @@ Rating: 4.42 (Ranked 663)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,387 |
-| Snatched Out | 74.00% | ~2,181 |
-| Keep 'Em Coming | 72.00% | ~2,122 |
+| This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,388 |
+| Snatched Out | 74.00% | ~2,182 |
+| Keep 'Em Coming | 72.00% | ~2,123 |
 | Cleaning Lethe, One Nest At A Time | 65.00% | ~1,916 |
-| Call Me Snake | 60.00% | ~1,768 |
+| Call Me Snake | 60.00% | ~1,769 |
 | Something Lurks Under The Hills | 59.00% | ~1,739 |
 | This Was No Papercut | 57.00% | ~1,680 |
 | People Person | 53.00% | ~1,562 |
 | The Shrink Hates Me | 53.00% | ~1,562 |
 | Use The Bumper, That's What It's For | 50.00% | ~1,474 |
-| First Steps Into Madness | 49.00% | ~1,444 |
+| First Steps Into Madness | 49.00% | ~1,445 |
 | Colonial Barrels | 48.00% | ~1,415 |
 | Harper's Hell | 40.00% | ~1,179 |
 | Damn Dude, You Gotta Lose Some Weight! | 40.00% | ~1,179 |
@@ -30,8 +30,8 @@ Rating: 4.42 (Ranked 663)
 | Deep Into Insanity | 21.00% | ~619 |
 | The Passenger | 21.00% | ~619 |
 | Stuff Of Nightmares | 19.00% | ~560 |
-| El Riesgo Siempre Vive | 18.00% | ~530 |
-| The Spire | 18.00% | ~530 |
+| El Riesgo Siempre Vive | 18.00% | ~531 |
+| The Spire | 18.00% | ~531 |
 | One For Every Occasion | 16.00% | ~472 |
 | Frontliner | 15.00% | ~442 |
 | The Cable Guy | 15.00% | ~442 |
@@ -45,13 +45,13 @@ Rating: 4.42 (Ranked 663)
 | Perfect Enhancements | 7.00% | ~206 |
 | Hardened In The Heat Of Battle | 5.00% | ~147 |
 | The True Experience | 5.00% | ~147 |
-| Archivist | 1.00% | ~29 |
 | Fair And Square | 1.00% | ~29 |
+| Archivist | 0.90% | ~27 |
 | Chalk It Up To Experience | 0.50% | ~15 |
 | Perfect Organism | 0.40% | ~12 |
 | This Ain't No Picnic | 0.30% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,947 (Ranked 153)  
+Progressed: 2,948 (Ranked 153)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-15 | 2,908 | 0 |
 | 2023-07-16 | 2,930 | 0 |
 | 2023-07-17 | 2,946 | 0 |
-| 2023-07-18 | 2,947 | 0 |
+| 2023-07-18 | 2,948 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

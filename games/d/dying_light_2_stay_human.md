@@ -9,14 +9,14 @@ Number of Ratings: 7,305  (23.09.2022)
 | You Never Forget Your First... | 11.00% | ~65,630 |
 | Into the Unknown | 10.00% | ~59,664 |
 | First Shot | 10.00% | ~59,664 |
-| Herzlich Wilkommen! | 9.00% | ~53,697 |
-| Good Night & Good Luck | 9.00% | ~53,697 |
+| Herzlich Wilkommen! | 9.00% | ~53,698 |
+| Good Night & Good Luck | 9.00% | ~53,698 |
 | Sancho Panza | 8.00% | ~47,731 |
-| Under Pressure | 7.00% | ~41,764 |
-| On the Trail of the Enemy | 7.00% | ~41,764 |
-| Flag Burning | 7.00% | ~41,764 |
-| Oh, So This Is How It Works! | 7.00% | ~41,764 |
-| Night Hunter | 7.00% | ~41,764 |
+| Under Pressure | 7.00% | ~41,765 |
+| On the Trail of the Enemy | 7.00% | ~41,765 |
+| Flag Burning | 7.00% | ~41,765 |
+| Oh, So This Is How It Works! | 7.00% | ~41,765 |
+| Night Hunter | 7.00% | ~41,765 |
 | Light in the Darkness | 6.00% | ~35,798 |
 | Get Outta My House! | 6.00% | ~35,798 |
 | It Wasn't That Hard, Was It? | 6.00% | ~35,798 |
@@ -28,12 +28,12 @@ Number of Ratings: 7,305  (23.09.2022)
 | Tunnel Entrance | 5.00% | ~29,832 |
 | After the Fall | 5.00% | ~29,832 |
 | Can't Touch This! | 5.00% | ~29,832 |
-| Going Down | 4.00% | ~23,865 |
-| Family First | 4.00% | ~23,865 |
-| Your World, Your Rules | 4.00% | ~23,865 |
-| Death From Afar | 4.00% | ~23,865 |
-| Terminal Headache | 4.00% | ~23,865 |
-| Slowpoke! | 4.00% | ~23,865 |
+| Going Down | 4.00% | ~23,866 |
+| Family First | 4.00% | ~23,866 |
+| Your World, Your Rules | 4.00% | ~23,866 |
+| Death From Afar | 4.00% | ~23,866 |
+| Terminal Headache | 4.00% | ~23,866 |
+| Slowpoke! | 4.00% | ~23,866 |
 | Tickets, Please! | 3.00% | ~17,899 |
 | You're Going Down! | 3.00% | ~17,899 |
 | Municipal Services | 2.00% | ~11,933 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~242 |
 | Connoisseur | 0.10% | ~242 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 596,635 (Ranked 26)  
+Progressed: 596,640 (Ranked 26)  
 Completed: 60 (0.01%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 60 (0.01%) (Ranked 223)
 | 2023-07-15 | 595,394 | 59 |
 | 2023-07-16 | 596,038 | 59 |
 | 2023-07-17 | 596,555 | 60 |
-| 2023-07-18 | 596,635 | 60 |
+| 2023-07-18 | 596,640 | 60 |
 ## Awards
 Max (Character Customization): 8,440  (Ranked 39)  
 Sum: 19,984 (Ranked 55)  
