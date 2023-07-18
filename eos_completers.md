@@ -51,7 +51,7 @@
 | 49 | [ZZT!](games/z/zzt!.md) | 3.55% |
 | 50 | [Doodle God](games/d/doodle_god.md) | 3.54% |
 | 51 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.52% |
-| 52 | [Bunny Park](games/b/bunny_park.md) | 3.41% |
+| 52 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
 | 53 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.38% |
 | 53 | [Monster Harvest](games/m/monster_harvest.md) | 3.38% |
 | 55 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.23% |
@@ -66,9 +66,9 @@
 | 64 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 65 | [Lamentum](games/l/lamentum.md) | 2.67% |
 | 66 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
-| 67 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.55% |
-| 68 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.51% |
-| 69 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 67 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.54% |
+| 68 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.50% |
+| 68 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 70 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
 | 71 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.34% |
 | 72 | [Bloodshore](games/b/bloodshore.md) | 2.27% |
@@ -106,7 +106,7 @@
 | 104 | [Adios](games/a/adios.md) | 0.96% |
 | 105 | [Hades](games/h/hades.md) | 0.89% |
 | 106 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
-| 107 | [Dungeons 3](games/d/dungeons_3.md) | 0.84% |
+| 107 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
 | 108 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.78% |
 | 109 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
 | 109 | [Lemon Cake](games/l/lemon_cake.md) | 0.76% |
