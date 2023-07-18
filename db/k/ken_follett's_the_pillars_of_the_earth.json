@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13977,
+  "EOS_Progressed": 13978,
   "EOS_Completed": 105,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -6314,6 +6314,11 @@
       "Time": "2023-07-18T10:02:28.8210246+00:00",
       "NumProgressed": 13977,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2023-07-18T12:01:55.9356967+00:00",
+      "NumProgressed": 13978,
+      "NumCompleted": 105
     }
   ],
   "TotalAchievements": 41,
@@ -6325,7 +6330,7 @@
       "Name": "Good midwife",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1537
+      "UsersEstimate": 1538
     },
     {
       "ID": "tpote_achievement_10",
@@ -6341,7 +6346,7 @@
       "Name": "Wannabe knight",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3354
+      "UsersEstimate": 3355
     },
     {
       "ID": "tpote_achievement_12",
@@ -6365,7 +6370,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4752
+      "UsersEstimate": 4753
     },
     {
       "ID": "tpote_achievement_15",
@@ -6397,7 +6402,7 @@
       "Name": "Friar Tuck",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 1537
+      "UsersEstimate": 1538
     },
     {
       "ID": "tpote_achievement_19",
@@ -6413,7 +6418,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4752
+      "UsersEstimate": 4753
     },
     {
       "ID": "tpote_achievement_20",
@@ -6437,7 +6442,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2795
+      "UsersEstimate": 2796
     },
     {
       "ID": "tpote_achievement_23",
@@ -6453,7 +6458,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1537
+      "UsersEstimate": 1538
     },
     {
       "ID": "tpote_achievement_25",
@@ -6501,7 +6506,7 @@
       "Name": "Let there be darkness",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4612
+      "UsersEstimate": 4613
     },
     {
       "ID": "tpote_achievement_30",
@@ -6613,7 +6618,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3354
+      "UsersEstimate": 3355
     },
     {
       "ID": "tpote_achievement_6",
@@ -6621,7 +6626,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3354
+      "UsersEstimate": 3355
     },
     {
       "ID": "tpote_achievement_7",
@@ -6652,15 +6657,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13977,
+      "Progressed": 13978,
       "Completed": 105
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-18T11:02:12.4042916+00:00",
+  "LastChanged_Achievements": "2023-07-18T12:01:55.935696+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:01.688698+00:00",
-  "LastUpdate_Ratings": "2023-07-18T11:00:07.0914157+00:00",
-  "LastUpdate_Achievements": "2023-07-18T11:02:12.4043604+00:00"
+  "LastUpdate_Ratings": "2023-07-18T12:00:57.1849455+00:00",
+  "LastUpdate_Achievements": "2023-07-18T12:01:55.9360444+00:00"
 }

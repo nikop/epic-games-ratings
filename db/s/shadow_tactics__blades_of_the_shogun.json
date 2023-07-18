@@ -1345,9 +1345,9 @@
       "Count": 245
     }
   ],
-  "EOS_Progressed": 186583,
+  "EOS_Progressed": 186587,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 1806,
+  "EOS_NewPlayers": 1799,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -11020,6 +11020,11 @@
       "Time": "2023-07-18T11:06:15.0274997+00:00",
       "NumProgressed": 186583,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-07-18T12:06:58.679179+00:00",
+      "NumProgressed": 186587,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 44,
@@ -11095,7 +11100,7 @@
       "Name": "Gear up",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 5597
+      "UsersEstimate": 5598
     },
     {
       "ID": "Genin",
@@ -11103,7 +11108,7 @@
       "Name": "Genin",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 20524
+      "UsersEstimate": 20525
     },
     {
       "ID": "HappyLittleAccidents",
@@ -11199,7 +11204,7 @@
       "Name": "Noboru",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 5597
+      "UsersEstimate": 5598
     },
     {
       "ID": "Okkoto",
@@ -11263,7 +11268,7 @@
       "Name": "Still Rollin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 5597
+      "UsersEstimate": 5598
     },
     {
       "ID": "Stoned",
@@ -11271,7 +11276,7 @@
       "Name": "Stoned",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 5597
+      "UsersEstimate": 5598
     },
     {
       "ID": "StonedOx",
@@ -11319,7 +11324,7 @@
       "Name": "Thorough",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 16792
+      "UsersEstimate": 16793
     },
     {
       "ID": "TimeParadox",
@@ -11382,15 +11387,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 186583,
+      "Progressed": 186587,
       "Completed": 59
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-07-17T10:59:29.4177007+00:00",
-  "LastChanged_Achievements": "2023-07-18T11:06:15.0274992+00:00",
+  "LastChanged_Achievements": "2023-07-18T12:06:58.6791783+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:02.1147937+00:00",
-  "LastUpdate_Ratings": "2023-07-18T10:59:15.5785455+00:00",
-  "LastUpdate_Achievements": "2023-07-18T11:06:15.0275892+00:00"
+  "LastUpdate_Ratings": "2023-07-18T11:59:52.6639394+00:00",
+  "LastUpdate_Achievements": "2023-07-18T12:06:58.6793438+00:00"
 }

@@ -291,9 +291,9 @@
       "ID": "ACH_25_BALLOON_GAME",
       "SetID": "9loam6m",
       "Name": "Balloon game",
-      "Percentage": 23,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_26_BALLOON_PARTY",
@@ -371,9 +371,9 @@
       "ID": "ACH_35_RIDING_LESSON",
       "SetID": "9loam6m",
       "Name": "Riding lesson",
-      "Percentage": 23,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_36_LIFE_IN_COUNTRYSIDE",
@@ -395,9 +395,9 @@
       "ID": "ACH_38_WELL_HIDDEN",
       "SetID": "9loam6m",
       "Name": "Well hidden!",
-      "Percentage": 23,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_39_TENS_AT_THE_LAKE",
@@ -441,8 +441,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2023-07-18T11:03:49.1251601+00:00",
+  "LastChanged_Achievements": "2023-07-18T12:03:57.7327992+00:00",
   "LastUpdate_AppInfo": "2023-07-12T11:57:01.6328579+00:00",
-  "LastUpdate_Ratings": "2023-07-18T10:57:04.3731205+00:00",
-  "LastUpdate_Achievements": "2023-07-18T11:03:49.1251946+00:00"
+  "LastUpdate_Ratings": "2023-07-18T11:57:12.256657+00:00",
+  "LastUpdate_Achievements": "2023-07-18T12:03:57.7328338+00:00"
 }

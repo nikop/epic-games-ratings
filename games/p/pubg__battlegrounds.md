@@ -5,22 +5,22 @@ Rating: 3.98 (Ranked 921)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blood on My Hands | 78.00% | ~356,128 |
-| Health Junkie | 45.00% | ~205,459 |
-| You Complete Me | 42.00% | ~191,762 |
-| Guardian Angel | 39.00% | ~178,064 |
-| Devil Inside Me | 30.00% | ~136,972 |
-| Fantastic Four | 22.00% | ~100,446 |
-| Killing Spree | 21.00% | ~95,881 |
-| Marksman Novice | 19.00% | ~86,749 |
-| First Blood | 13.00% | ~59,355 |
-| Top 10 | 13.00% | ~59,355 |
-| Now You See Me, Now You Don't | 12.00% | ~54,789 |
+| Blood on My Hands | 78.00% | ~356,134 |
+| Health Junkie | 45.00% | ~205,462 |
+| You Complete Me | 42.00% | ~191,764 |
+| Guardian Angel | 39.00% | ~178,067 |
+| Devil Inside Me | 30.00% | ~136,975 |
+| Fantastic Four | 22.00% | ~100,448 |
+| Killing Spree | 21.00% | ~95,882 |
+| Marksman Novice | 19.00% | ~86,751 |
+| First Blood | 13.00% | ~59,356 |
+| Top 10 | 13.00% | ~59,356 |
+| Now You See Me, Now You Don't | 12.00% | ~54,790 |
 | Marksman Expert | 9.00% | ~41,092 |
-| CQB Novice | 8.00% | ~36,526 |
-| Collateral Damage | 7.00% | ~31,960 |
-| Airborne | 6.00% | ~27,394 |
-| Pacifist | 6.00% | ~27,394 |
+| CQB Novice | 8.00% | ~36,527 |
+| Collateral Damage | 7.00% | ~31,961 |
+| Airborne | 6.00% | ~27,395 |
+| Pacifist | 6.00% | ~27,395 |
 | Last Survivor | 4.00% | ~18,263 |
 | Marksman Master | 4.00% | ~18,263 |
 | Trigonometry Novice | 4.00% | ~18,263 |
@@ -43,7 +43,7 @@ Rating: 3.98 (Ranked 921)
 | Nade King Expert | 0.10% | ~457 |
 | Shoot the Knee | 0.10% | ~457 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 456,575 (Ranked 36)  
+Progressed: 456,582 (Ranked 36)  
 Completed: 10 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 10 (0.00%) (Ranked 236)
 | 2023-07-15 | 451,836 | 10 |
 | 2023-07-16 | 453,861 | 10 |
 | 2023-07-17 | 455,575 | 10 |
-| 2023-07-18 | 456,575 | 10 |
+| 2023-07-18 | 456,582 | 10 |
 ## Awards
 Max (Competitive Players): 2,712  (Ranked 93)  
 Sum: 11,237 (Ranked 77)  

@@ -6,7 +6,7 @@ Number of Ratings: 28  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 75.00% | ~241 |
+| Getting started | 76.00% | ~244 |
 | Close call! | 74.00% | ~238 |
 | Builder | 56.00% | ~180 |
 | Pangs of conscience | 51.00% | ~164 |
@@ -21,7 +21,7 @@ Number of Ratings: 28  (23.09.2022)
 | Let's roll! | 28.00% | ~90 |
 | Non Stop! | 27.00% | ~87 |
 | Ouroboros | 26.00% | ~83 |
-| Madness! | 25.00% | ~80 |
+| Madness! | 26.00% | ~83 |
 | Foreman | 23.00% | ~74 |
 | Missed it! | 22.00% | ~71 |
 | Russia | 20.00% | ~64 |

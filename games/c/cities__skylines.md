@@ -6,36 +6,36 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~650,026 |
-| Green Energy | 60.00% | ~549,318 |
-| Foggy Weather | 59.00% | ~540,163 |
-| Singing In The- | 59.00% | ~540,163 |
-| Unpopular Mayor | 41.00% | ~375,367 |
-| Power at Your Fingertips | 33.00% | ~302,125 |
-| City Planner | 23.00% | ~210,572 |
-| Rolling in Dough | 20.00% | ~183,106 |
-| Does My Bum Look Big In This? | 17.00% | ~155,640 |
-| Climbing the Social Ladder | 16.00% | ~146,485 |
-| Safe City | 14.00% | ~128,174 |
-| Quay-King | 11.00% | ~100,708 |
-| Lawmaker | 10.00% | ~91,553 |
-| With Canals You Can! | 10.00% | ~91,553 |
-| Nomen Est Omen | 7.00% | ~64,087 |
-| Well Informed | 6.00% | ~54,932 |
-| Fire Watch | 5.00% | ~45,776 |
-| Greenest City | 4.00% | ~36,621 |
-| Heavenly City | 3.00% | ~27,466 |
-| Reporting! | 3.00% | ~27,466 |
-| SIMulated City | 3.00% | ~27,466 |
-| The Safest Town | 3.00% | ~27,466 |
-| Professional Dumper | 2.00% | ~18,311 |
-| City in Motion | 1.00% | ~9,155 |
-| Earthloving City | 1.00% | ~9,155 |
-| Metropolis | 1.00% | ~9,155 |
-| Higher Education | 0.80% | ~7,324 |
-| Beam Me Up | 0.70% | ~6,409 |
-| Full Capacity | 0.60% | ~5,493 |
-| Terraformer | 0.60% | ~5,493 |
+| Pioneer | 71.00% | ~650,119 |
+| Green Energy | 60.00% | ~549,396 |
+| Foggy Weather | 59.00% | ~540,239 |
+| Singing In The- | 59.00% | ~540,239 |
+| Unpopular Mayor | 41.00% | ~375,421 |
+| Power at Your Fingertips | 33.00% | ~302,168 |
+| City Planner | 23.00% | ~210,602 |
+| Rolling in Dough | 20.00% | ~183,132 |
+| Does My Bum Look Big In This? | 17.00% | ~155,662 |
+| Climbing the Social Ladder | 16.00% | ~146,506 |
+| Safe City | 14.00% | ~128,192 |
+| Quay-King | 11.00% | ~100,723 |
+| Lawmaker | 10.00% | ~91,566 |
+| With Canals You Can! | 10.00% | ~91,566 |
+| Nomen Est Omen | 7.00% | ~64,096 |
+| Well Informed | 6.00% | ~54,940 |
+| Fire Watch | 5.00% | ~45,783 |
+| Greenest City | 4.00% | ~36,626 |
+| Heavenly City | 3.00% | ~27,470 |
+| Reporting! | 3.00% | ~27,470 |
+| SIMulated City | 3.00% | ~27,470 |
+| The Safest Town | 3.00% | ~27,470 |
+| Professional Dumper | 2.00% | ~18,313 |
+| City in Motion | 1.00% | ~9,157 |
+| Earthloving City | 1.00% | ~9,157 |
+| Metropolis | 1.00% | ~9,157 |
+| Higher Education | 0.80% | ~7,325 |
+| Beam Me Up | 0.70% | ~6,410 |
+| Full Capacity | 0.60% | ~5,494 |
+| Terraformer | 0.60% | ~5,494 |
 | Decorator | 0.50% | ~4,578 |
 | Drop the Base | 0.50% | ~4,578 |
 | It's heading right for us! | 0.50% | ~4,578 |
@@ -45,12 +45,12 @@ Number of Ratings: 25,248  (23.09.2022)
 | The Waters of Our Lives | 0.50% | ~4,578 |
 | Thunder and Lightning | 0.50% | ~4,578 |
 | Twist and shout | 0.50% | ~4,578 |
-| Airfield Expertise | 0.40% | ~3,662 |
-| Airlifter | 0.40% | ~3,662 |
-| Get Your Snowshoes Ready! | 0.40% | ~3,662 |
-| Happy Town | 0.40% | ~3,662 |
-| I Want It All | 0.40% | ~3,662 |
-| Just Tolling | 0.40% | ~3,662 |
+| Airfield Expertise | 0.40% | ~3,663 |
+| Airlifter | 0.40% | ~3,663 |
+| Get Your Snowshoes Ready! | 0.40% | ~3,663 |
+| Happy Town | 0.40% | ~3,663 |
+| I Want It All | 0.40% | ~3,663 |
+| Just Tolling | 0.40% | ~3,663 |
 | A Huge Hadron | 0.30% | ~2,747 |
 | Airport Architect | 0.30% | ~2,747 |
 | Are They Naked In There? | 0.30% | ~2,747 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~916 |
 | Z00 | 0.10% | ~916 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 915,530 (Ranked 13)  
+Progressed: 915,660 (Ranked 13)  
 Completed: 9 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,10 +215,10 @@ Completed: 9 (0.00%) (Ranked 236)
 | 2023-07-15 | 909,490 | 9 |
 | 2023-07-16 | 912,285 | 9 |
 | 2023-07-17 | 914,717 | 9 |
-| 2023-07-18 | 915,530 | 9 |
+| 2023-07-18 | 915,660 | 9 |
 ## Awards
 Max (Relaxing): 4,954  (Ranked 67)  
-Sum: 37,630 (Ranked 33)  
+Sum: 37,632 (Ranked 33)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
@@ -228,7 +228,7 @@ Diff (max vs sum): 34
 | This game is Educational | 4,624 |
 | This game is Extremely Fun | 4,330 |
 | This game is Highly Recommended | 4,185 |
-| This game has Amazing Storytelling | 3,539 |
+| This game has Amazing Storytelling | 3,541 |
 | This game has a Creative Community | 3,386 |
 | This game has Amazing Characters | 3,018 |
 | This game has Obsessive Gameplay | 2,497 |
@@ -408,4 +408,4 @@ Diff (max vs sum): 34
 | 2023-07-15 | 4.65 | - | 4,940 | 37,513 |
 | 2023-07-16 | 4.65 | - | 4,940 | 37,551 |
 | 2023-07-17 | 4.65 | - | 4,945 | 37,601 |
-| 2023-07-18 | 4.65 | - | 4,954 | 37,630 |
+| 2023-07-18 | 4.65 | - | 4,954 | 37,632 |

@@ -4,11 +4,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Break Out | 26.00% | ~5 |
+| Calm before the Storm | 16.00% | ~3 |
 | Trinity | 16.00% | ~3 |
 | Fashion Victim | 16.00% | ~3 |
 | Find Allies | 11.00% | ~2 |
 | Powerful Allies | 11.00% | ~2 |
-| Calm before the Storm | 11.00% | ~2 |
 | Geared Up | 11.00% | ~2 |
 | I Found It | 11.00% | ~2 |
 | To Battle | 5.00% | ~1 |
@@ -18,7 +18,9 @@
 | Tributes of Caladrias | 5.00% | ~1 |
 | Essence Blow | 5.00% | ~1 |
 | Flawless Victory | 5.00% | ~1 |
+| Fine Feathers Make Fine Birds | 5.00% | ~1 |
 | Miner | 5.00% | ~1 |
+| Summiter | 5.00% | ~1 |
 | Clear Sight | 0.00% | ~0 |
 | A Taste of Wrath | 0.00% | ~0 |
 | The Mentor | 0.00% | ~0 |
@@ -28,7 +30,6 @@
 | Shatter Them All | 0.00% | ~0 |
 | Slayer | 0.00% | ~0 |
 | Big Bazar | 0.00% | ~0 |
-| Fine Feathers Make Fine Birds | 0.00% | ~0 |
 | All There Is | 0.00% | ~0 |
 | Scholar | 0.00% | ~0 |
 | False God | 0.00% | ~0 |
@@ -37,7 +38,6 @@
 | The Collector | 0.00% | ~0 |
 | Feeling Fancy | 0.00% | ~0 |
 | A Queen's Tale | 0.00% | ~0 |
-| Summiter | 0.00% | ~0 |
 | Alchemist | -5.30% | ~-1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 19 (Ranked 376)  

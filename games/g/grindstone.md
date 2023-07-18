@@ -47,8 +47,8 @@ Number of Ratings: 63  (23.09.2022)
 | You're In a Cult, Call Your Dad | 6.00% | ~308 |
 | Survived The Slaughter | 5.00% | ~257 |
 | The Poison You Just Drank | 4.00% | ~205 |
+| Eternal Frenemies | 4.00% | ~205 |
 | The Fellowship | 3.00% | ~154 |
-| Eternal Frenemies | 3.00% | ~154 |
 | Are We Good Guys Or Bad Guys? | 1.00% | ~51 |
 | OK Boomer | 0.90% | ~46 |
 | Biohazard | 0.80% | ~41 |

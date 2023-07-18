@@ -586,9 +586,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4680,
+  "EOS_Progressed": 4681,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4606,6 +4606,11 @@
       "Time": "2023-07-18T03:21:17.4995407+00:00",
       "NumProgressed": 4680,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-18T12:02:09.3075878+00:00",
+      "NumProgressed": 4681,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -4617,7 +4622,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3557
+      "UsersEstimate": 3558
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -4689,7 +4694,7 @@
       "Name": "License to Gill",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 1544
+      "UsersEstimate": 1545
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -4777,7 +4782,7 @@
       "Name": "I\u0027m Hooked!",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -4785,7 +4790,7 @@
       "Name": "Diamond in the Rough",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "ACHIEVEMENT_023",
@@ -4896,13 +4901,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 4680,
+      "Progressed": 4681,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 4052,
+      "Progressed": 4053,
       "Completed": 112
     }
   ],
@@ -4910,8 +4915,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-06-29T22:00:44.387661+00:00",
-  "LastChanged_Achievements": "2023-07-18T11:02:23.6208978+00:00",
+  "LastChanged_Achievements": "2023-07-18T12:02:09.3075873+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:50.1759655+00:00",
-  "LastUpdate_Ratings": "2023-07-18T10:59:55.3174202+00:00",
-  "LastUpdate_Achievements": "2023-07-18T11:02:23.6209535+00:00"
+  "LastUpdate_Ratings": "2023-07-18T12:00:45.7816109+00:00",
+  "LastUpdate_Achievements": "2023-07-18T12:02:09.3076442+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "537156dc975644649b905ec6e958506e",
   "Name": "Late Shift",
   "ProductSlug": "late-shift-8b0634",
-  "Ranking_EOS_Progress": 222,
+  "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 450,
+  "EOS_Progressed": 451,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.33,
   "EosHistory": [
@@ -607,6 +607,11 @@
       "Time": "2023-07-16T17:04:03.0528107+00:00",
       "NumProgressed": 450,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-07-18T12:04:17.4528445+00:00",
+      "NumProgressed": 451,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 20,
@@ -618,7 +623,7 @@
       "Name": "Cause and Effect",
       "Percentage": 96,
       "XP": 25,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "CHOICES_MATTER",
@@ -626,7 +631,7 @@
       "Name": "Choices Matter",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ENDING_1",
@@ -642,7 +647,7 @@
       "Name": "The Lion\u0027s Den",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ENDING_3",
@@ -682,7 +687,7 @@
       "Name": "The Frenzy",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "EVEN_TEMPERED",
@@ -690,7 +695,7 @@
       "Name": "Even Tempered",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -698,23 +703,23 @@
       "Name": "Expert Storyteller",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "FAIR_SHARE",
       "SetID": "8eejhlh",
       "Name": "Fair Share",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 324
+      "UsersEstimate": 320
     },
     {
       "ID": "GOOD_KARMA",
       "SetID": "8eejhlh",
       "Name": "Good Karma",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 144
+      "UsersEstimate": 140
     },
     {
       "ID": "INTERROGATION",
@@ -746,7 +751,7 @@
       "Name": "Protector",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "SABOTAGE",
@@ -754,7 +759,7 @@
       "Name": "Sabotage",
       "Percentage": 13,
       "XP": 75,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "SHILL_BIDDER",
@@ -777,7 +782,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 450,
+      "Progressed": 451,
       "Completed": 6
     }
   ],
@@ -785,8 +790,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-07-18T11:04:05.1819292+00:00",
+  "LastChanged_Achievements": "2023-07-18T12:04:17.4528434+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:20.2473875+00:00",
-  "LastUpdate_Ratings": "2023-07-18T10:58:01.5296248+00:00",
-  "LastUpdate_Achievements": "2023-07-18T11:04:05.1819481+00:00"
+  "LastUpdate_Ratings": "2023-07-18T11:58:20.1997467+00:00",
+  "LastUpdate_Achievements": "2023-07-18T12:04:17.4528703+00:00"
 }

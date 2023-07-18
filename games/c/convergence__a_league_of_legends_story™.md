@@ -7,10 +7,10 @@
 | Time Heals All Wounds | 19.00% | ~145 |
 | The Mysterious Stranger | 16.00% | ~122 |
 | Rail Rat | 16.00% | ~122 |
+| The Steel Shadow | 15.00% | ~114 |
 | Make Up For Lost Time | 15.00% | ~114 |
 | The Prince in Heels | 15.00% | ~114 |
 | Immaculate Aim | 15.00% | ~114 |
-| The Steel Shadow | 14.00% | ~107 |
 | The Betrayer | 14.00% | ~107 |
 | The Man Who Shattered Time | 14.00% | ~107 |
 | The Loose Cannon | 14.00% | ~107 |
