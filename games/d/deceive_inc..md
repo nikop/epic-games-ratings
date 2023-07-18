@@ -22,9 +22,9 @@ Rating: 4.64 (Ranked 312)
 | Private Collection | 24.00% | ~1,776 |
 | Killer Looks | 24.00% | ~1,776 |
 | Hostile Takeover | 24.00% | ~1,776 |
+| Keycards Royale | 23.00% | ~1,702 |
 | Dr. No Kill | 23.00% | ~1,702 |
 | My Motto, My Creed | 23.00% | ~1,702 |
-| Keycards Royale | 22.00% | ~1,628 |
 | In It to Win It | 21.00% | ~1,554 |
 | Security Supervisor | 10.00% | ~740 |
 | License to Thrill | 9.00% | ~666 |
@@ -43,7 +43,7 @@ Rating: 4.64 (Ranked 312)
 | Spyfall | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 7,401 (Ranked 126)  
-Completed: 1 (0.01%) (Ranked 223)  
+Completed: 1 (0.01%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -9,6 +9,7 @@
 | Rail Rat | 16.00% | ~122 |
 | The Steel Shadow | 15.00% | ~114 |
 | Make Up For Lost Time | 15.00% | ~114 |
+| Breaking Down Barriers | 15.00% | ~114 |
 | The Prince in Heels | 15.00% | ~114 |
 | Immaculate Aim | 15.00% | ~114 |
 | The Betrayer | 14.00% | ~107 |
@@ -18,8 +19,8 @@
 | Time Flies | 14.00% | ~107 |
 | The Harder They Fall | 14.00% | ~107 |
 | No, Thanks! | 14.00% | ~107 |
-| Breaking Down Barriers | 14.00% | ~107 |
 | The Wicked Twins | 14.00% | ~107 |
+| Fast Learner | 14.00% | ~107 |
 | Immaculate Aim | 14.00% | ~107 |
 | The Brass Boss | 14.00% | ~107 |
 | The Family Fortune | 14.00% | ~107 |
@@ -27,13 +28,12 @@
 | Like Clockwork | 13.00% | ~99 |
 | Honest Mistake | 13.00% | ~99 |
 | Golem Chaser | 13.00% | ~99 |
-| Fast Learner | 13.00% | ~99 |
 | Check Your Pulse | 13.00% | ~99 |
 | Street Style | 12.00% | ~91 |
 | Right On Time | 11.00% | ~84 |
 | Whiz Kid | 10.00% | ~76 |
-| Chaincrawler Explorer | 9.00% | ~68 |
-| Good Neighbor | 9.00% | ~68 |
+| Chaincrawler Explorer | 9.00% | ~69 |
+| Good Neighbor | 9.00% | ~69 |
 | Family Memories | 8.00% | ~61 |
 | Fairgrounds Explorer | 8.00% | ~61 |
 | Sump Explorer | 8.00% | ~61 |
@@ -58,8 +58,8 @@
 | Going to Live Forever | 0.50% | ~4 |
 | Raw Talent | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 761 (Ranked 198)  
-Completed: 4 (0.53%) (Ranked 125)  
+Progressed: 762 (Ranked 198)  
+Completed: 4 (0.52%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -114,4 +114,4 @@ Completed: 4 (0.53%) (Ranked 125)
 | 2023-07-14 | 754 | 4 |
 | 2023-07-15 | 758 | 4 |
 | 2023-07-17 | 760 | 4 |
-| 2023-07-18 | 761 | 4 |
+| 2023-07-18 | 762 | 4 |

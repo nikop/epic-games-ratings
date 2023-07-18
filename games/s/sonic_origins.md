@@ -6,12 +6,12 @@ Number of Ratings: 154  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Sonic the Hedgehog | 94.00% | ~289 |
+| Welcome to Sonic the Hedgehog | 95.00% | ~292 |
 | Newbie Hero | 84.00% | ~258 |
 | Welcome to Sonic CD | 77.00% | ~236 |
 | Welcome to Sonic the Hedgehog 2 | 77.00% | ~236 |
 | Welcome to Sonic 3 & Knuckles | 77.00% | ~236 |
-| Ring Collector | 73.00% | ~224 |
+| Ring Collector | 74.00% | ~227 |
 | Time Traveler | 71.00% | ~218 |
 | Knuckles the Echidna | 68.00% | ~209 |
 | Everyone's Hero | 68.00% | ~209 |
@@ -34,16 +34,16 @@ Number of Ratings: 154  (23.09.2022)
 | All Clear! | 35.00% | ~107 |
 | To the Mirror World | 34.00% | ~104 |
 | Sound Savant | 26.00% | ~80 |
-| Movie Maniac | 24.00% | ~74 |
+| Movie Maniac | 25.00% | ~77 |
 | Sonic the Hedgehog Mission Master | 21.00% | ~64 |
+| Art Appreciator | 21.00% | ~64 |
 | Beware Rhinobots! | 20.00% | ~61 |
-| Art Appreciator | 20.00% | ~61 |
 | Sonic CD Mission Master | 19.00% | ~58 |
-| S3 & K Mission Master | 17.00% | ~52 |
+| S3 & K Mission Master | 18.00% | ~55 |
 | Sonic the Hedgehog 2 Mission Master | 15.00% | ~46 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 307 (Ranked 246)  
-Completed: 31 (10.10%) (Ranked 21)  
+Completed: 31 (10.10%) (Ranked 22)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

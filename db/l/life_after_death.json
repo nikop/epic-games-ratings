@@ -3,9 +3,9 @@
   "Name": "Life After Death",
   "ProductSlug": "life-after-death-b4e964",
   "Ranking_EOS_Progress": 388,
-  "Ranking_EOS_Completed": 236,
+  "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-04-28T14:00:00+00:00",
     "PcReleaseDate": "2022-09-17T11:00:00+00:00",
@@ -579,8 +579,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-28T14:03:50.6091132+00:00",
-  "LastChanged_Achievements": "2023-07-18T17:06:10.767784+00:00",
+  "LastChanged_Achievements": "2023-07-18T18:05:23.3160423+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:26.9056518+00:00",
-  "LastUpdate_Ratings": "2023-07-18T17:00:31.5277133+00:00",
-  "LastUpdate_Achievements": "2023-07-18T17:06:10.7678477+00:00"
+  "LastUpdate_Ratings": "2023-07-18T17:59:32.07763+00:00",
+  "LastUpdate_Achievements": "2023-07-18T18:05:23.3160998+00:00"
 }

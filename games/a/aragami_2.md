@@ -6,13 +6,13 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~35,259 |
+| Awakening | 93.00% | ~35,260 |
 | First Steps | 81.00% | ~30,710 |
 | Control the Shadows | 67.00% | ~25,402 |
-| Tools of the Trade | 63.00% | ~23,885 |
+| Tools of the Trade | 63.00% | ~23,886 |
 | Apprentice | 60.00% | ~22,748 |
-| Secret Seeker | 57.00% | ~21,610 |
-| Forge of Assassins | 56.00% | ~21,231 |
+| Secret Seeker | 57.00% | ~21,611 |
+| Forge of Assassins | 56.00% | ~21,232 |
 | Revenant | 52.00% | ~19,715 |
 | I don’t Care! | 45.00% | ~17,061 |
 | Bird of Prey | 37.00% | ~14,028 |
@@ -23,14 +23,14 @@ Number of Ratings: 88  (23.09.2022)
 | Soul Reaver | 22.00% | ~8,341 |
 | Embers | 21.00% | ~7,962 |
 | Wall Lizard | 20.00% | ~7,583 |
-| Clinging to Life | 18.00% | ~6,824 |
+| Clinging to Life | 18.00% | ~6,825 |
 | Burning | 17.00% | ~6,445 |
 | Look Behind You | 16.00% | ~6,066 |
 | Sleeping on the Job | 16.00% | ~6,066 |
 | Family | 14.00% | ~5,308 |
 | War Engines | 14.00% | ~5,308 |
 | Signature Move | 14.00% | ~5,308 |
-| Ruse | 11.00% | ~4,170 |
+| Ruse | 11.00% | ~4,171 |
 | Master Ninja | 10.00% | ~3,791 |
 | Hatching | 9.00% | ~3,412 |
 | Bonds | 9.00% | ~3,412 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Hot Potato | 1.00% | ~379 |
 | Anger Management | 1.00% | ~379 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37,913 (Ranked 91)  
+Progressed: 37,914 (Ranked 91)  
 Completed: 190 (0.50%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 190 (0.50%) (Ranked 127)
 | 2023-07-15 | 37,690 | 191 |
 | 2023-07-16 | 37,777 | 190 |
 | 2023-07-17 | 37,856 | 190 |
-| 2023-07-18 | 37,913 | 190 |
+| 2023-07-18 | 37,914 | 190 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

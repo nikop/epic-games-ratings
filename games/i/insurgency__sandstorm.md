@@ -6,20 +6,20 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~20,826 |
-| Exploitative | 4.00% | ~16,661 |
-| Point Shooting | 4.00% | ~16,661 |
-| Wet Feet | 4.00% | ~16,661 |
-| High Speed Low Drag | 3.00% | ~12,495 |
-| Lucky | 3.00% | ~12,495 |
-| Stylin' | 3.00% | ~12,495 |
-| Turf War | 3.00% | ~12,495 |
-| Banged | 2.00% | ~8,330 |
-| Checkpoint Victory | 2.00% | ~8,330 |
-| First Blood | 2.00% | ~8,330 |
-| Flaccid Paralysis | 2.00% | ~8,330 |
-| Push Victory | 2.00% | ~8,330 |
-| Self-destructive | 2.00% | ~8,330 |
+| Wallbanger | 5.00% | ~20,827 |
+| Exploitative | 4.00% | ~16,662 |
+| Point Shooting | 4.00% | ~16,662 |
+| Wet Feet | 4.00% | ~16,662 |
+| High Speed Low Drag | 3.00% | ~12,496 |
+| Lucky | 3.00% | ~12,496 |
+| Stylin' | 3.00% | ~12,496 |
+| Turf War | 3.00% | ~12,496 |
+| Banged | 2.00% | ~8,331 |
+| Checkpoint Victory | 2.00% | ~8,331 |
+| First Blood | 2.00% | ~8,331 |
+| Flaccid Paralysis | 2.00% | ~8,331 |
+| Push Victory | 2.00% | ~8,331 |
+| Self-destructive | 2.00% | ~8,331 |
 | Blindfire | 1.00% | ~4,165 |
 | Ruthless | 1.00% | ~4,165 |
 | Semper Paratus | 1.00% | ~4,165 |
@@ -42,8 +42,8 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~417 |
 | Road Hazard | 0.10% | ~417 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 416,516 (Ranked 39)  
-Completed: 2 (0.00%) (Ranked 236)  
+Progressed: 416,543 (Ranked 39)  
+Completed: 2 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -131,21 +131,21 @@ Completed: 2 (0.00%) (Ranked 236)
 | 2023-07-15 | 414,865 | 2 |
 | 2023-07-16 | 415,624 | 2 |
 | 2023-07-17 | 416,187 | 2 |
-| 2023-07-18 | 416,516 | 2 |
+| 2023-07-18 | 416,543 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 364  (Ranked 220)  
-Sum: 2,808 (Ranked 169)  
+Sum: 2,812 (Ranked 169)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 364 |
-| This game has Challenging Combat | 339 |
+| This game has Challenging Combat | 341 |
 | This game is Extremely Fun | 335 |
 | This game has Competitive Players | 326 |
-| This game has Realistic Visuals | 301 |
+| This game has Realistic Visuals | 302 |
 | This game has Amazing Storytelling | 299 |
 | This game is Highly Recommended | 298 |
-| This game has Amazing Characters | 292 |
+| This game has Amazing Characters | 293 |
 | This game has a Competitive Community | 254 |
 | This game has Obsessive Gameplay | 156 |
 | This game has Diverse Characters | 103 |
@@ -332,4 +332,4 @@ Diff (max vs sum): 51
 | 2023-07-14 | 4.61 | - | 364 | 2,798 |
 | 2023-07-15 | 4.61 | - | 364 | 2,803 |
 | 2023-07-16 | 4.61 | - | 364 | 2,807 |
-| 2023-07-18 | 4.61 | - | 364 | 2,808 |
+| 2023-07-18 | 4.61 | - | 364 | 2,812 |

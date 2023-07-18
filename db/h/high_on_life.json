@@ -6,9 +6,9 @@
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 100,
-  "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_Completed": 207,
+  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -220,11 +220,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23023,
-  "EOS_Completed": 8,
-  "EOS_NewPlayers": 37,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.03,
+  "EOS_Progressed": 23024,
+  "EOS_Completed": 9,
+  "EOS_NewPlayers": 38,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:17.1765271+00:00",
@@ -2265,6 +2265,11 @@
       "Time": "2023-07-18T17:06:49.0852212+00:00",
       "NumProgressed": 23023,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-18T18:05:54.9872263+00:00",
+      "NumProgressed": 23024,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 32,
@@ -2324,7 +2329,7 @@
       "Name": "Satisfied Gus-tomer",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6446
+      "UsersEstimate": 6447
     },
     {
       "ID": "ACH_GET_JETPACK",
@@ -2380,7 +2385,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 19109
+      "UsersEstimate": 19110
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -2396,7 +2401,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 13123
+      "UsersEstimate": 13124
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -2436,7 +2441,7 @@
       "Name": "Cold-Blooded Driller",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6446
+      "UsersEstimate": 6447
     },
     {
       "ID": "ACH_KILL_NIPULON",
@@ -2444,7 +2449,7 @@
       "Name": "Self-Actualization",
       "Percentage": 19,
       "XP": 45,
-      "UsersEstimate": 4374
+      "UsersEstimate": 4375
     },
     {
       "ID": "ACH_KILL_SKRENDELS",
@@ -2460,7 +2465,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 16807
+      "UsersEstimate": 16808
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -2531,22 +2536,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 23023,
-      "Completed": 8
+      "Progressed": 23024,
+      "Completed": 9
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 316,
-      "Completed": 316
+      "Progressed": 317,
+      "Completed": 317
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-07-12T23:58:40.6002161+00:00",
-  "LastChanged_Achievements": "2023-07-18T17:06:49.0852207+00:00",
+  "LastChanged_Achievements": "2023-07-18T18:05:54.9872259+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:35.4235565+00:00",
-  "LastUpdate_Ratings": "2023-07-18T16:58:37.7230564+00:00",
-  "LastUpdate_Achievements": "2023-07-18T17:06:49.0852643+00:00"
+  "LastUpdate_Ratings": "2023-07-18T17:58:06.6663164+00:00",
+  "LastUpdate_Achievements": "2023-07-18T18:05:54.9872714+00:00"
 }

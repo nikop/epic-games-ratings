@@ -6,9 +6,9 @@
   "Ranking_Popularity": 308,
   "Ranking_PopularitySum": 398,
   "Ranking_EOS_Progress": 246,
-  "Ranking_EOS_Completed": 21,
-  "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_Completed": 22,
+  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
     "PcReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -1203,9 +1203,9 @@
       "ID": "ID_01_SONIC1_WATCH_OPENING",
       "SetID": "7o8nc5m",
       "Name": "Welcome to Sonic the Hedgehog",
-      "Percentage": 94,
+      "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 289
+      "UsersEstimate": 292
     },
     {
       "ID": "ID_02_SONICCD_WATCH_OPENING",
@@ -1299,9 +1299,9 @@
       "ID": "ID_13_RING_COLLECTOR",
       "SetID": "7o8nc5m",
       "Name": "Ring Collector",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 227
     },
     {
       "ID": "ID_14_DEFEAT_ENEMY_BY_SPIN_DASH",
@@ -1387,9 +1387,9 @@
       "ID": "ID_24_SONIC3K_CLEAR_S_RANK_MISSION",
       "SetID": "7o8nc5m",
       "Name": "S3 \u0026 K Mission Master",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 55
     },
     {
       "ID": "ID_25_PLAY_MIRRORING",
@@ -1403,9 +1403,9 @@
       "ID": "ID_26_MOVIE_MANIA",
       "SetID": "7o8nc5m",
       "Name": "Movie Maniac",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 74
+      "UsersEstimate": 77
     },
     {
       "ID": "ID_27_SOUND_MANIA",
@@ -1419,9 +1419,9 @@
       "ID": "ID_28_ART_MANIA",
       "SetID": "7o8nc5m",
       "Name": "Art Appreciator",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 61
+      "UsersEstimate": 64
     },
     {
       "ID": "ID_29_HERO_FOR_ALL",
@@ -1491,8 +1491,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-07-11T16:58:27.9146656+00:00",
-  "LastChanged_Achievements": "2023-07-18T17:07:25.2805123+00:00",
+  "LastChanged_Achievements": "2023-07-18T18:06:18.1234111+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:22.3144227+00:00",
-  "LastUpdate_Ratings": "2023-07-18T16:58:23.7813372+00:00",
-  "LastUpdate_Achievements": "2023-07-18T17:07:25.2805435+00:00"
+  "LastUpdate_Ratings": "2023-07-18T17:57:57.4767563+00:00",
+  "LastUpdate_Achievements": "2023-07-18T18:06:18.1234427+00:00"
 }

@@ -8,6 +8,7 @@ Rating: 4.87 (Ranked 24)
 | Start with a bang! | 2.00% | ~69 |
 | Cream of the Crop | 2.00% | ~69 |
 | This will cost you big time | 2.00% | ~69 |
+| The Negotiator | 2.00% | ~69 |
 | Headliner | 2.00% | ~69 |
 | Time to pay up! | 2.00% | ~69 |
 | Who's the boss now? | 2.00% | ~69 |
@@ -17,7 +18,6 @@ Rating: 4.87 (Ranked 24)
 | Kissing the sky! | 2.00% | ~69 |
 | Who put gears in there? | 2.00% | ~69 |
 | NOW we got a kickass hideout! | 2.00% | ~40 |
-| The Negotiator | 1.00% | ~35 |
 | Well that was a rush! | 1.00% | ~35 |
 | I play my own way! | 1.00% | ~35 |
 | Whoa! There's ANOTHER health bar!? | 1.00% | ~35 |
@@ -78,7 +78,7 @@ Rating: 4.87 (Ranked 24)
 | OK, I THINK I know what I'm doing now | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,459 (Ranked 146)  
-Completed: 6 (0.17%) (Ranked 169)  
+Completed: 6 (0.17%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

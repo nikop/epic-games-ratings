@@ -1,7 +1,7 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.43 (Ranked 655)  
+Rating: 4.41 (Ranked 675)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -78,7 +78,7 @@ Rating: 4.43 (Ranked 655)
 | Das Familienjuwel | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,299 (Ranked 147)  
-Completed: 9 (0.27%) (Ranked 153)  
+Completed: 9 (0.27%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -229,3 +229,4 @@ Completed: 9 (0.27%) (Ranked 153)
 | 2023-07-12 | 4.43 | 0 | 0 |
 | 2023-07-13 | 4.44 | 0 | 0 |
 | 2023-07-16 | 4.43 | 0 | 0 |
+| 2023-07-18 | 4.41 | 0 | 0 |

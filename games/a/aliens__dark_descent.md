@@ -1,7 +1,7 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.42 (Ranked 664)  
+Rating: 4.42 (Ranked 663)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -23,8 +23,8 @@ Rating: 4.42 (Ranked 664)
 | Recouped Investment | 35.00% | ~1,035 |
 | Where It All Begun | 34.00% | ~1,005 |
 | Omelette Du Fromage | 31.00% | ~917 |
+| Living Nightmare | 27.00% | ~798 |
 | The More The Merrier | 27.00% | ~798 |
-| Living Nightmare | 26.00% | ~769 |
 | The Darwin Era Was Here | 23.00% | ~680 |
 | Come on, You Wanna Live Forever? | 21.00% | ~621 |
 | Deep Into Insanity | 21.00% | ~621 |
@@ -52,7 +52,7 @@ Rating: 4.42 (Ranked 664)
 | This Ain't No Picnic | 0.30% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,957 (Ranked 153)  
-Completed: 0 (0.00%) (Ranked 236)  
+Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -27,7 +27,7 @@ Number of Ratings: 101  (23.09.2022)
 | Sense Of Style | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 441 (Ranked 223)  
-Completed: 2 (0.45%) (Ranked 132)  
+Completed: 2 (0.45%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

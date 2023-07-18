@@ -5,11 +5,11 @@ Rating: 4.56 (Ranked 457)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tell me your story | 76.00% | ~493 |
-| Don't judge a manhole by its cover | 60.00% | ~389 |
+| Tell me your story | 76.00% | ~494 |
+| Don't judge a manhole by its cover | 60.00% | ~390 |
 | I just love stuff! | 42.00% | ~273 |
 | Keep 'em coming! | 42.00% | ~273 |
-| Big Spender | 39.00% | ~253 |
+| Big Spender | 38.00% | ~247 |
 | The things they print nowadays | 38.00% | ~247 |
 | That's gotta hurt | 36.00% | ~234 |
 | The Ann Flores Combo Experience | 26.00% | ~169 |
@@ -18,7 +18,7 @@ Rating: 4.56 (Ranked 457)
 | Fire in the hole! | 20.00% | ~130 |
 | The Warlord | 20.00% | ~130 |
 | You are the One | 20.00% | ~130 |
-| Omnipotence | 19.00% | ~123 |
+| Omnipotence | 19.00% | ~124 |
 | Deadly Kombationem | 18.00% | ~117 |
 | The truth is out there | 16.00% | ~104 |
 | Annakin Skyscroller | 14.00% | ~91 |
@@ -27,23 +27,23 @@ Rating: 4.56 (Ranked 457)
 | 1+1>2 | 8.00% | ~52 |
 | This can't be right… | 8.00% | ~52 |
 | Welcome home, 06 | 8.00% | ~52 |
-| Clarity of Mind | 7.00% | ~45 |
-| I'm walking here! | 7.00% | ~45 |
-| So Fresh and So clean clean | 7.00% | ~45 |
-| Supreme Bartender Ann | 7.00% | ~45 |
+| Clarity of Mind | 7.00% | ~46 |
+| I'm walking here! | 7.00% | ~46 |
+| So Fresh and So clean clean | 7.00% | ~46 |
+| Supreme Bartender Ann | 7.00% | ~46 |
 | I feel secure, contained & protected | 6.00% | ~39 |
 | Science, it works! | 6.00% | ~39 |
 | The Traveler | 6.00% | ~39 |
 | Woman on a (side) mission | 5.00% | ~32 |
-| Ann ULTRA | 3.00% | ~19 |
-| Lady Luck is a cool cat | 3.00% | ~19 |
+| Ann ULTRA | 3.00% | ~20 |
+| Lady Luck is a cool cat | 3.00% | ~20 |
 | SERENITY NOW | 2.00% | ~13 |
 | I just got real good | 2.00% | ~13 |
 | Love me like I love my posters | 0.80% | ~5 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 649 (Ranked 206)  
-Completed: 0 (0.00%) (Ranked 236)  
+Progressed: 650 (Ranked 206)  
+Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -91,6 +91,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-10 | 647 | 0 |
 | 2023-07-12 | 648 | 0 |
 | 2023-07-14 | 649 | 0 |
+| 2023-07-18 | 650 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -31,10 +31,10 @@ Rating: 3.52 (Ranked 951)
 | Starve the Beast | 8.00% | ~138 |
 | From the Shadows | 7.00% | ~121 |
 | Bell-ringer | 5.00% | ~86 |
+| Silence Is Golden | 5.00% | ~86 |
 | Revelations | 4.00% | ~69 |
 | Contingency Plans | 4.00% | ~69 |
 | Sic Transit Umbra | 4.00% | ~69 |
-| Silence Is Golden | 4.00% | ~69 |
 | Good Morning | 4.00% | ~69 |
 | Check, Please! | 4.00% | ~69 |
 | Right This Way | 4.00% | ~69 |
@@ -73,7 +73,7 @@ Rating: 3.52 (Ranked 951)
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,724 (Ranked 167)  
-Completed: 0 (0.00%) (Ranked 236)  
+Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

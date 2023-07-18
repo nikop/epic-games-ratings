@@ -6,9 +6,9 @@
   "Ranking_Popularity": 182,
   "Ranking_PopularitySum": 132,
   "Ranking_EOS_Progress": 59,
-  "Ranking_EOS_Completed": 208,
+  "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 37,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -1345,9 +1345,9 @@
       "Count": 245
     }
   ],
-  "EOS_Progressed": 186660,
+  "EOS_Progressed": 186667,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 1806,
+  "EOS_NewPlayers": 1804,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -11050,6 +11050,11 @@
       "Time": "2023-07-18T17:07:28.4489155+00:00",
       "NumProgressed": 186660,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-07-18T18:06:20.8872235+00:00",
+      "NumProgressed": 186667,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 44,
@@ -11101,7 +11106,7 @@
       "Name": "Disguised",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 13066
+      "UsersEstimate": 13067
     },
     {
       "ID": "FiveShadows",
@@ -11141,7 +11146,7 @@
       "Name": "Happy little accidents",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7466
+      "UsersEstimate": 7467
     },
     {
       "ID": "HappyPlanning",
@@ -11237,7 +11242,7 @@
       "Name": "Okkoto",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 7466
+      "UsersEstimate": 7467
     },
     {
       "ID": "OldMan",
@@ -11261,7 +11266,7 @@
       "Name": "Prisoners",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7466
+      "UsersEstimate": 7467
     },
     {
       "ID": "ReleaseTheKraken",
@@ -11277,7 +11282,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 13066
+      "UsersEstimate": 13067
     },
     {
       "ID": "Rollin",
@@ -11285,7 +11290,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 13066
+      "UsersEstimate": 13067
     },
     {
       "ID": "StillRollin",
@@ -11349,7 +11354,7 @@
       "Name": "Thorough",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 16799
+      "UsersEstimate": 16800
     },
     {
       "ID": "TimeParadox",
@@ -11373,7 +11378,7 @@
       "Name": "Too Early",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7466
+      "UsersEstimate": 7467
     },
     {
       "ID": "Warzone",
@@ -11412,15 +11417,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 186660,
+      "Progressed": 186667,
       "Completed": 59
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-07-17T10:59:29.4177007+00:00",
-  "LastChanged_Achievements": "2023-07-18T17:07:28.448915+00:00",
+  "LastChanged_Achievements": "2023-07-18T18:06:20.8872229+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:02.1147937+00:00",
-  "LastUpdate_Ratings": "2023-07-18T17:00:01.1715851+00:00",
-  "LastUpdate_Achievements": "2023-07-18T17:07:28.4490163+00:00"
+  "LastUpdate_Ratings": "2023-07-18T17:59:10.2447313+00:00",
+  "LastUpdate_Achievements": "2023-07-18T18:06:20.8873176+00:00"
 }

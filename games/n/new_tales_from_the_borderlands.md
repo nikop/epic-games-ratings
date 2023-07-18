@@ -12,7 +12,7 @@ Rating: 4.09 (Ranked 892)
 | You're Not Naked | 29.00% | ~1,007 |
 | Tale in the Toilet | 29.00% | ~1,007 |
 | From Zeroes... | 28.00% | ~972 |
-| Don't Get Cocky | 26.00% | ~903 |
+| Don't Get Cocky | 27.00% | ~937 |
 | Shard Snatchers | 24.00% | ~833 |
 | You Rich Now! | 22.00% | ~764 |
 | Our Lucky Winner | 20.00% | ~694 |
@@ -33,7 +33,7 @@ Rating: 4.09 (Ranked 892)
 | You Played This Before? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,472 (Ranked 145)  
-Completed: 0 (0.00%) (Ranked 236)  
+Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
