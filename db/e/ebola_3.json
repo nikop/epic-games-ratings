@@ -2,9 +2,9 @@
   "ID": "929e7d2e310b44a0a2af387a803a8ec1",
   "Name": "EBOLA 3",
   "ProductSlug": "ebola-3-2c79e9",
-  "Ranking_EOS_Progress": 266,
+  "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 210,
+  "EOS_Progressed": 211,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -878,6 +878,11 @@
       "Time": "2023-07-17T02:33:41.9211142+00:00",
       "NumProgressed": 210,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-18T20:03:46.5335322+00:00",
+      "NumProgressed": 211,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -897,7 +902,7 @@
       "Name": "Alice \u2714",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achAntivirus",
@@ -905,7 +910,7 @@
       "Name": "Antivirus \u2714",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achBag",
@@ -913,7 +918,7 @@
       "Name": "Inventory \u2714",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "achBett",
@@ -921,7 +926,7 @@
       "Name": "Betty \u2714",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achBrain",
@@ -929,7 +934,7 @@
       "Name": "Brain \u2714",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achCar",
@@ -953,7 +958,7 @@
       "Name": "Chest \u2714",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "achCity",
@@ -1007,7 +1012,7 @@
       "ID": "achCrow",
       "SetID": "72gjli4",
       "Name": "Exterminate pests \u2714",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1057,13 +1062,13 @@
       "Name": "Food \u2714",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achGameHard",
       "SetID": "72gjli4",
       "Name": "Hardcore \u2714",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 70,
       "UsersEstimate": 2
     },
@@ -1209,7 +1214,7 @@
       "Name": "All secrets revealed \u2714",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achSeif",
@@ -1231,7 +1236,7 @@
       "ID": "achSpped",
       "SetID": "72gjli4",
       "Name": "Speedrun \u2714",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 70,
       "UsersEstimate": 2
     },
@@ -1241,7 +1246,7 @@
       "Name": "Mutation \u2714",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "achVip",
@@ -1288,7 +1293,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 210,
+      "Progressed": 211,
       "Completed": 0
     }
   ],
@@ -1296,8 +1301,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-07-18T19:03:41.9546852+00:00",
+  "LastChanged_Achievements": "2023-07-18T20:03:46.5335318+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:18.3568705+00:00",
-  "LastUpdate_Ratings": "2023-07-18T19:00:26.9507956+00:00",
-  "LastUpdate_Achievements": "2023-07-18T19:03:41.954736+00:00"
+  "LastUpdate_Ratings": "2023-07-18T20:00:38.5646518+00:00",
+  "LastUpdate_Achievements": "2023-07-18T20:03:46.5335797+00:00"
 }

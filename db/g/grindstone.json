@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -210,9 +210,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5136,
+  "EOS_Progressed": 5137,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -675,6 +675,11 @@
       "Time": "2023-07-18T15:05:37.3079908+00:00",
       "NumProgressed": 5136,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-07-18T20:04:42.0531301+00:00",
+      "NumProgressed": 5137,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 49,
@@ -686,7 +691,7 @@
       "Name": "Employee of the Month",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 1900
+      "UsersEstimate": 1901
     },
     {
       "ID": "ACHIEVE_3_OFFSHOOTS_COMPLETE",
@@ -702,7 +707,7 @@
       "Name": "I Believe I Can Fly",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1900
+      "UsersEstimate": 1901
     },
     {
       "ID": "ACHIEVE_50_BONES",
@@ -718,7 +723,7 @@
       "Name": "Trying To Get Into That 1%, Huh?",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "ACHIEVE_50_ECTOPLASM",
@@ -734,7 +739,7 @@
       "Name": "Goldrush Glory Days",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "ACHIEVE_50_GUTS",
@@ -742,7 +747,7 @@
       "Name": "Jerk-Slayer",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2208
+      "UsersEstimate": 2209
     },
     {
       "ID": "ACHIEVE_50_ICE",
@@ -750,7 +755,7 @@
       "Name": "Best Party Guest",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "ACHIEVE_50_IRON",
@@ -814,7 +819,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5033
+      "UsersEstimate": 5034
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -822,7 +827,7 @@
       "Name": "Fun, Flirty, and Thirty",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 3184
+      "UsersEstimate": 3185
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -838,7 +843,7 @@
       "Name": "Can\u0027t Touch This",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "ACHIEVE_FELLOWSHIP",
@@ -894,7 +899,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4006
+      "UsersEstimate": 4007
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -910,7 +915,7 @@
       "Name": "Killed 20 Jerks",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 2773
+      "UsersEstimate": 2774
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_200",
@@ -926,7 +931,7 @@
       "Name": "Royal Flush",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3184
+      "UsersEstimate": 3185
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_50",
@@ -958,7 +963,7 @@
       "Name": "Survive the Bombsequences",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3030
+      "UsersEstimate": 3031
     },
     {
       "ID": "ACHIEVE_LVL_180_COMPLETE",
@@ -974,7 +979,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5033
+      "UsersEstimate": 5034
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -990,7 +995,7 @@
       "Name": "Shrub it Off",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "ACHIEVE_LVL_90_COMPLETE",
@@ -1030,7 +1035,7 @@
       "Name": "Death Defied",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2722
+      "UsersEstimate": 2723
     },
     {
       "ID": "ACHIEVE_PLATINUM",
@@ -1077,15 +1082,15 @@
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5136,
+      "Progressed": 5137,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-07-18T19:04:36.9946113+00:00",
+  "LastChanged_Achievements": "2023-07-18T20:04:42.0531296+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:07.7004436+00:00",
-  "LastUpdate_Ratings": "2023-07-18T19:00:15.977877+00:00",
-  "LastUpdate_Achievements": "2023-07-18T19:04:36.9946535+00:00"
+  "LastUpdate_Ratings": "2023-07-18T20:00:27.1616405+00:00",
+  "LastUpdate_Achievements": "2023-07-18T20:04:42.0531719+00:00"
 }

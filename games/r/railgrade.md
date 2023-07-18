@@ -5,23 +5,23 @@ Rating: 4.54 (Ranked 493)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~18,905 |
-| Before the Downfall | 93.00% | ~17,941 |
-| Money like Water | 91.00% | ~17,555 |
-| Minimalist | 90.00% | ~17,362 |
+| Trevithick's Legacy | 98.00% | ~18,906 |
+| Before the Downfall | 93.00% | ~17,942 |
+| Money like Water | 91.00% | ~17,556 |
+| Minimalist | 90.00% | ~17,363 |
 | Builder | 83.00% | ~16,012 |
 | Eraser | 70.00% | ~13,504 |
-| Pocket of Trains | 65.00% | ~12,539 |
+| Pocket of Trains | 65.00% | ~12,540 |
 | Inspector | 59.00% | ~11,382 |
-| Going the Distance | 54.00% | ~10,417 |
-| Oil Baron | 42.00% | ~8,102 |
-| Loads-a-Money | 42.00% | ~8,102 |
-| Helper of the People | 39.00% | ~7,523 |
+| Going the Distance | 54.00% | ~10,418 |
+| Oil Baron | 42.00% | ~8,103 |
+| Loads-a-Money | 42.00% | ~8,103 |
+| Helper of the People | 39.00% | ~7,524 |
 | Simplification | 34.00% | ~6,559 |
 | Box of Trains | 33.00% | ~6,366 |
 | Let There be Light | 32.00% | ~6,173 |
-| Hot Water | 31.00% | ~5,980 |
-| Indecisive | 29.00% | ~5,594 |
+| Hot Water | 31.00% | ~5,981 |
+| Indecisive | 29.00% | ~5,595 |
 | The scenic route | 27.00% | ~5,209 |
 | Industrialist | 25.00% | ~4,823 |
 | Perfectionist | 23.00% | ~4,437 |
@@ -43,7 +43,7 @@ Rating: 4.54 (Ranked 493)
 | Overdeer | 0.50% | ~96 |
 | Cloud Services | 0.20% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,291 (Ranked 104)  
+Progressed: 19,292 (Ranked 104)  
 Completed: 32 (0.17%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 32 (0.17%) (Ranked 170)
 | 2023-07-15 | 19,274 | 32 |
 | 2023-07-16 | 19,280 | 32 |
 | 2023-07-17 | 19,286 | 32 |
-| 2023-07-18 | 19,291 | 32 |
+| 2023-07-18 | 19,292 | 32 |
 ## Awards
 Max (Quickly Understood Controls): 87  (Ranked 349)  
 Sum: 655 (Ranked 281)  

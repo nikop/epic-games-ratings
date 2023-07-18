@@ -6,23 +6,23 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~12,138 |
-| Sweet Sorrow | 18.00% | ~6,069 |
-| Rules the Waves | 17.00% | ~5,732 |
-| Thou, All-Shaking Thunder | 15.00% | ~5,058 |
+| Sink Beneath the Waves | 36.00% | ~12,141 |
+| Sweet Sorrow | 18.00% | ~6,070 |
+| Rules the Waves | 17.00% | ~5,733 |
+| Thou, All-Shaking Thunder | 15.00% | ~5,059 |
 | Rival | 14.00% | ~4,721 |
-| Correspondent | 12.00% | ~4,046 |
-| Lose Your Mind | 12.00% | ~4,046 |
-| Sound Mind? | 12.00% | ~4,046 |
-| Salt's Curse | 11.00% | ~3,709 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~3,709 |
-| The Fall of the House | 11.00% | ~3,709 |
-| Shipmate | 11.00% | ~3,709 |
-| One Year at Zee | 8.00% | ~2,697 |
-| Pupil | 7.00% | ~2,360 |
-| Salvager | 7.00% | ~2,360 |
-| Open Your Ears | 7.00% | ~2,360 |
-| The Ascent of Man | 7.00% | ~2,360 |
+| Correspondent | 12.00% | ~4,047 |
+| Lose Your Mind | 12.00% | ~4,047 |
+| Sound Mind? | 12.00% | ~4,047 |
+| Salt's Curse | 11.00% | ~3,710 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~3,710 |
+| The Fall of the House | 11.00% | ~3,710 |
+| Shipmate | 11.00% | ~3,710 |
+| One Year at Zee | 8.00% | ~2,698 |
+| Pupil | 7.00% | ~2,361 |
+| Salvager | 7.00% | ~2,361 |
+| Open Your Ears | 7.00% | ~2,361 |
+| The Ascent of Man | 7.00% | ~2,361 |
 | Zee Fever | 5.00% | ~1,686 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,349 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,349 |
@@ -43,11 +43,11 @@ Number of Ratings: 401  (23.09.2022)
 | Rosewater sailor | 1.00% | ~337 |
 | Under the zee | 1.00% | ~337 |
 | A current under zee | 1.00% | ~337 |
-| A zee-change | 0.90% | ~303 |
-| Never Stop Sinking... | 0.90% | ~303 |
-| Leviathan | 0.90% | ~303 |
-| No regrets | 0.90% | ~303 |
-| Depth charge | 0.90% | ~303 |
+| A zee-change | 0.90% | ~304 |
+| Never Stop Sinking... | 0.90% | ~304 |
+| Leviathan | 0.90% | ~304 |
+| No regrets | 0.90% | ~304 |
+| Depth charge | 0.90% | ~304 |
 | What lies beneath | 0.80% | ~270 |
 | Stone's Curse | 0.70% | ~236 |
 | Five Years at Zee | 0.50% | ~169 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~34 |
 | Ten Years at Zee | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,718 (Ranked 93)  
+Progressed: 33,724 (Ranked 93)  
 Completed: 3 (0.01%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 3 (0.01%) (Ranked 224)
 | 2023-07-15 | 33,522 | 3 |
 | 2023-07-16 | 33,598 | 3 |
 | 2023-07-17 | 33,663 | 3 |
-| 2023-07-18 | 33,718 | 3 |
+| 2023-07-18 | 33,724 | 3 |
 ## Awards
 Max (Character Customization): 209  (Ranked 265)  
 Sum: 279 (Ranked 339)  

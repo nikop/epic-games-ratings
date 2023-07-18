@@ -5,20 +5,20 @@ Rating: 3.98 (Ranked 921)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blood on My Hands | 78.00% | ~356,164 |
-| Health Junkie | 45.00% | ~205,479 |
-| You Complete Me | 42.00% | ~191,780 |
-| Guardian Angel | 39.00% | ~178,082 |
-| Devil Inside Me | 30.00% | ~136,986 |
-| Fantastic Four | 22.00% | ~100,456 |
-| Killing Spree | 21.00% | ~95,890 |
+| Blood on My Hands | 78.00% | ~356,165 |
+| Health Junkie | 45.00% | ~205,480 |
+| You Complete Me | 42.00% | ~191,781 |
+| Guardian Angel | 39.00% | ~178,083 |
+| Devil Inside Me | 30.00% | ~136,987 |
+| Fantastic Four | 22.00% | ~100,457 |
+| Killing Spree | 21.00% | ~95,891 |
 | Marksman Novice | 19.00% | ~86,758 |
 | First Blood | 13.00% | ~59,361 |
 | Top 10 | 13.00% | ~59,361 |
-| Now You See Me, Now You Don't | 12.00% | ~54,794 |
+| Now You See Me, Now You Don't | 12.00% | ~54,795 |
 | Marksman Expert | 9.00% | ~41,096 |
 | CQB Novice | 8.00% | ~36,530 |
-| Collateral Damage | 7.00% | ~31,963 |
+| Collateral Damage | 7.00% | ~31,964 |
 | Airborne | 6.00% | ~27,397 |
 | Pacifist | 6.00% | ~27,397 |
 | Last Survivor | 4.00% | ~18,265 |
@@ -43,7 +43,7 @@ Rating: 3.98 (Ranked 921)
 | Nade King Expert | 0.10% | ~457 |
 | Shoot the Knee | 0.10% | ~457 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 456,620 (Ranked 36)  
+Progressed: 456,622 (Ranked 36)  
 Completed: 10 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,17 +132,17 @@ Completed: 10 (0.00%) (Ranked 237)
 | 2023-07-15 | 451,836 | 10 |
 | 2023-07-16 | 453,861 | 10 |
 | 2023-07-17 | 455,575 | 10 |
-| 2023-07-18 | 456,620 | 10 |
+| 2023-07-18 | 456,622 | 10 |
 ## Awards
 Max (Competitive Players): 2,734  (Ranked 93)  
-Sum: 8,789 (Ranked 90)  
+Sum: 8,826 (Ranked 90)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
 | This game has Competitive Players | 2,734 |
 | This game has Quickly Understood Controls | 2,480 |
 | This game has Challenging Combat | 2,352 |
-| This game is Highly Recommended | 2,156 |
+| This game is Highly Recommended | 2,193 |
 | This game has a Competitive Community | 1,547 |
 | This game is Extremely Fun | 122 |
 | This game has Diverse Characters | 76 |

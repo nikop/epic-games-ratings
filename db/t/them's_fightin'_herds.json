@@ -208,9 +208,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 226404,
+  "EOS_Progressed": 226408,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 440,
+  "EOS_NewPlayers": 441,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9483,6 +9483,11 @@
       "Time": "2023-07-18T19:04:26.9085386+00:00",
       "NumProgressed": 226404,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-18T20:04:32.0700012+00:00",
+      "NumProgressed": 226408,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -9558,7 +9563,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 81505
+      "UsersEstimate": 81507
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -9638,7 +9643,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 76977
+      "UsersEstimate": 76979
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -9654,7 +9659,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 49809
+      "UsersEstimate": 49810
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -9717,7 +9722,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 226404,
+      "Progressed": 226408,
       "Completed": 3
     }
   ],
@@ -9725,8 +9730,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-07-04T22:59:46.8695793+00:00",
-  "LastChanged_Achievements": "2023-07-18T19:04:26.9085379+00:00",
+  "LastChanged_Achievements": "2023-07-18T20:04:32.0700007+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:49.1676235+00:00",
-  "LastUpdate_Ratings": "2023-07-18T19:00:00.0918664+00:00",
-  "LastUpdate_Achievements": "2023-07-18T19:04:26.9086115+00:00"
+  "LastUpdate_Ratings": "2023-07-18T20:00:13.4569051+00:00",
+  "LastUpdate_Achievements": "2023-07-18T20:04:32.0700781+00:00"
 }

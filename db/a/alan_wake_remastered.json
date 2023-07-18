@@ -512,7 +512,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57508,
+  "EOS_Progressed": 57510,
   "EOS_Completed": 58,
   "EOS_NewPlayers": 298,
   "EOS_NewCompleters": 1,
@@ -8302,6 +8302,11 @@
       "Time": "2023-07-18T18:03:15.4777734+00:00",
       "NumProgressed": 57508,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-07-18T20:03:14.5959971+00:00",
+      "NumProgressed": 57510,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 67,
@@ -8345,7 +8350,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10351
+      "UsersEstimate": 10352
     },
     {
       "ID": "06",
@@ -8409,7 +8414,7 @@
       "Name": "Drink \u0027Em Both Up",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2875
+      "UsersEstimate": 2876
     },
     {
       "ID": "14",
@@ -8441,7 +8446,7 @@
       "Name": "Departure",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3450
+      "UsersEstimate": 3451
     },
     {
       "ID": "18",
@@ -8449,7 +8454,7 @@
       "Name": "Hardboiled Writer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2875
+      "UsersEstimate": 2876
     },
     {
       "ID": "19",
@@ -8561,7 +8566,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14952
+      "UsersEstimate": 14953
     },
     {
       "ID": "33",
@@ -8585,7 +8590,7 @@
       "Name": "Let There Be Light",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 16102
+      "UsersEstimate": 16103
     },
     {
       "ID": "36",
@@ -8848,21 +8853,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57508,
+      "Progressed": 57510,
       "Completed": 58
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20976,
+      "Progressed": 20978,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-18T19:02:29.6167959+00:00",
+  "LastChanged_Achievements": "2023-07-18T20:03:14.5959963+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:10.5196415+00:00",
-  "LastUpdate_Ratings": "2023-07-18T18:58:04.8404524+00:00",
-  "LastUpdate_Achievements": "2023-07-18T19:02:29.6169476+00:00"
+  "LastUpdate_Ratings": "2023-07-18T19:58:09.676078+00:00",
+  "LastUpdate_Achievements": "2023-07-18T20:03:14.5961085+00:00"
 }

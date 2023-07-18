@@ -1,7 +1,7 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.56 (Ranked 457)  
+Rating: 4.56 (Ranked 458)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -18,9 +18,9 @@ Rating: 4.56 (Ranked 457)
 | Guy de Borderlands | 9.00% | ~256 |
 | Fully Recycled | 9.00% | ~256 |
 | Hope Seeker | 9.00% | ~256 |
+| A Hunk of Junk | 8.00% | ~227 |
 | Exceeding Capacity | 8.00% | ~227 |
 | Breaking Protocol | 8.00% | ~227 |
-| A Hunk of Junk | 7.00% | ~199 |
 | Man's Best Friend | 6.00% | ~170 |
 | Sightseeing | 5.00% | ~142 |
 | Power Outage | 5.00% | ~142 |

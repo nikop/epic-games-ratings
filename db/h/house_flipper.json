@@ -1746,9 +1746,9 @@
       "Count": 210
     }
   ],
-  "EOS_Progressed": 19935,
+  "EOS_Progressed": 19936,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5931,6 +5931,11 @@
       "Time": "2023-07-18T18:06:15.1756703+00:00",
       "NumProgressed": 19935,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-07-18T20:06:17.4559656+00:00",
+      "NumProgressed": 19936,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -5948,9 +5953,9 @@
       "ID": "CarMechanic",
       "SetID": "d0jo315",
       "Name": "Car Mechanic",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 140
+      "UsersEstimate": 159
     },
     {
       "ID": "ChangChoi",
@@ -5990,7 +5995,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18739
+      "UsersEstimate": 18740
     },
     {
       "ID": "GameOver",
@@ -6125,15 +6130,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19935,
+      "Progressed": 19936,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-07-17T23:00:51.8857829+00:00",
-  "LastChanged_Achievements": "2023-07-18T19:06:12.037579+00:00",
+  "LastChanged_Achievements": "2023-07-18T20:06:17.4559647+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:29.4539579+00:00",
-  "LastUpdate_Ratings": "2023-07-18T18:59:41.9640241+00:00",
-  "LastUpdate_Achievements": "2023-07-18T19:06:12.0376214+00:00"
+  "LastUpdate_Ratings": "2023-07-18T19:59:56.910879+00:00",
+  "LastUpdate_Achievements": "2023-07-18T20:06:17.4560076+00:00"
 }

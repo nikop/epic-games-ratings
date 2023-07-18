@@ -1,35 +1,35 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.56 (Ranked 457)  
+Rating: 4.57 (Ranked 440)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 58.00% | ~110,816 |
-| Where's that freaking Dwarf? | 46.00% | ~87,889 |
-| GG EZ | 27.00% | ~51,587 |
-| Speedrun | 26.00% | ~49,676 |
-| Déjà vu | 21.00% | ~40,123 |
-| Sock! SOCK! | 16.00% | ~30,570 |
-| DM intervention | 13.00% | ~24,838 |
-| Fireproof Wizardess | 9.00% | ~17,196 |
-| A beer, two curses, three companions | 7.00% | ~13,374 |
-| Livin' in a dwarven paradise | 6.00% | ~11,464 |
-| Way of the Wimp | 6.00% | ~11,464 |
-| The plot thickens... At the tavern | 5.00% | ~9,553 |
-| The Woman in the High Castle | 4.00% | ~7,642 |
-| I am the night | 3.00% | ~5,732 |
-| Team Building Exercise | 3.00% | ~5,732 |
-| Shiny and Crôm | 2.00% | ~3,821 |
-| The demons' feast | 2.00% | ~3,821 |
-| The Great Library | 2.00% | ~3,821 |
-| Torture and Sensibility | 2.00% | ~3,821 |
-| Res Judicata | 2.00% | ~3,821 |
-| Dwarf Fortress | 2.00% | ~3,821 |
-| The Ranger of Chaos | 2.00% | ~3,821 |
-| Thieves' Guild Accreditation | 2.00% | ~3,821 |
-| Oh, when I'll be level 10... | 2.00% | ~3,821 |
+| Alt+F4 | 58.00% | ~110,862 |
+| Where's that freaking Dwarf? | 46.00% | ~87,925 |
+| GG EZ | 27.00% | ~51,608 |
+| Speedrun | 26.00% | ~49,697 |
+| Déjà vu | 21.00% | ~40,140 |
+| Sock! SOCK! | 16.00% | ~30,583 |
+| DM intervention | 13.00% | ~24,848 |
+| Fireproof Wizardess | 9.00% | ~17,203 |
+| A beer, two curses, three companions | 7.00% | ~13,380 |
+| Livin' in a dwarven paradise | 6.00% | ~11,469 |
+| Way of the Wimp | 6.00% | ~11,469 |
+| The plot thickens... At the tavern | 5.00% | ~9,557 |
+| The Woman in the High Castle | 4.00% | ~7,646 |
+| I am the night | 3.00% | ~5,734 |
+| Team Building Exercise | 3.00% | ~5,734 |
+| Shiny and Crôm | 2.00% | ~3,823 |
+| The demons' feast | 2.00% | ~3,823 |
+| The Great Library | 2.00% | ~3,823 |
+| Torture and Sensibility | 2.00% | ~3,823 |
+| Res Judicata | 2.00% | ~3,823 |
+| Dwarf Fortress | 2.00% | ~3,823 |
+| The Ranger of Chaos | 2.00% | ~3,823 |
+| Thieves' Guild Accreditation | 2.00% | ~3,823 |
+| Oh, when I'll be level 10... | 2.00% | ~3,823 |
 | Urik's Depths | 1.00% | ~1,911 |
 | Look but don't touch | 1.00% | ~1,911 |
 | The beards of change | 1.00% | ~1,911 |
@@ -40,16 +40,16 @@ Number of Ratings: 118  (23.09.2022)
 | The Statuette of Gladeulfeurah | 0.90% | ~1,720 |
 | A tale of adventurers not quite like the others... | 0.90% | ~1,720 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.90% | ~1,720 |
-| It's been a hard day's night | 0.80% | ~1,528 |
-| The Dungeon Master | 0.70% | ~1,337 |
-| The Famous Dungeon of Naheulbeuk | 0.70% | ~1,337 |
-| Dead for good | 0.70% | ~1,337 |
-| Law and Order | 0.70% | ~1,337 |
-| Lëgal Legend | 0.70% | ~1,337 |
-| I'd rather... Just... Sing! | 0.50% | ~955 |
-| The number of the counting shalt be 7 | 0.50% | ~955 |
-| An old poacher makes the best gamekeeper | 0.50% | ~955 |
-| Friendly fire | 0.40% | ~764 |
+| It's been a hard day's night | 0.80% | ~1,529 |
+| The Dungeon Master | 0.70% | ~1,338 |
+| The Famous Dungeon of Naheulbeuk | 0.70% | ~1,338 |
+| Dead for good | 0.70% | ~1,338 |
+| Law and Order | 0.70% | ~1,338 |
+| Lëgal Legend | 0.70% | ~1,338 |
+| I'd rather... Just... Sing! | 0.50% | ~956 |
+| The number of the counting shalt be 7 | 0.50% | ~956 |
+| An old poacher makes the best gamekeeper | 0.50% | ~956 |
+| Friendly fire | 0.40% | ~765 |
 | Holistic Adventuring Party | 0.30% | ~573 |
 | Scholar of the Lands of Fangh | 0.30% | ~573 |
 | The Blood Countess | 0.20% | ~382 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 191,062 (Ranked 58)  
+Progressed: 191,142 (Ranked 58)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,14 +143,14 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-15 | 186,755 | 0 |
 | 2023-07-16 | 188,738 | 0 |
 | 2023-07-17 | 190,078 | 0 |
-| 2023-07-18 | 191,062 | 0 |
+| 2023-07-18 | 191,142 | 0 |
 ## Awards
-Max (Character Customization): 108  (Ranked 321)  
-Sum: 108 (Ranked 408)  
-Diff (max vs sum): -87  
+Max (Character Customization): 115  (Ranked 316)  
+Sum: 115 (Ranked 402)  
+Diff (max vs sum): -86  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 108 |
+| This game has Inclusive Character Customization | 115 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -239,3 +239,4 @@ Diff (max vs sum): -87
 | 2023-07-14 | 4.55 | - | 98 | 98 |
 | 2023-07-15 | 4.56 | - | 102 | 102 |
 | 2023-07-17 | 4.56 | - | 108 | 108 |
+| 2023-07-18 | 4.57 | - | 115 | 115 |

@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Fright ✔ | 56.00% | ~118 |
-| Chest ✔ | 54.00% | ~113 |
-| Inventory ✔ | 52.00% | ~109 |
+| Chest ✔ | 54.00% | ~114 |
+| Inventory ✔ | 52.00% | ~110 |
 | Police officers ✔ | 26.00% | ~55 |
-| Mutation ✔ | 24.00% | ~50 |
+| Mutation ✔ | 24.00% | ~51 |
 | Doberman ✔ | 13.00% | ~27 |
 | Chess ✔ | 9.00% | ~19 |
 | Weapon ✔ | 9.00% | ~19 |
@@ -20,12 +20,12 @@
 | Hospital ✔ | 6.00% | ~13 |
 | Fraternal help ✔ | 6.00% | ~13 |
 | King of survival ✔ | 6.00% | ~13 |
-| Alice ✔ | 5.00% | ~10 |
-| Antivirus ✔ | 5.00% | ~10 |
-| Betty ✔ | 5.00% | ~10 |
-| Brain ✔ | 5.00% | ~10 |
-| Food ✔ | 5.00% | ~10 |
-| All secrets revealed ✔ | 5.00% | ~10 |
+| Alice ✔ | 5.00% | ~11 |
+| Antivirus ✔ | 5.00% | ~11 |
+| Betty ✔ | 5.00% | ~11 |
+| Brain ✔ | 5.00% | ~11 |
+| Food ✔ | 5.00% | ~11 |
+| All secrets revealed ✔ | 5.00% | ~11 |
 | Boss 1 ✔ | 4.00% | ~8 |
 | Eva ✔ | 4.00% | ~8 |
 | Group Alpha ✔ | 4.00% | ~8 |
@@ -48,14 +48,14 @@
 | Rank B+ ✔ | 2.00% | ~4 |
 | Seeker Three ✔ | 1.00% | ~2 |
 | Crocodile Escape ✔ | 1.00% | ~2 |
-| Exterminate pests ✔ | 1.00% | ~2 |
-| Hardcore ✔ | 1.00% | ~2 |
-| Speedrun ✔ | 1.00% | ~2 |
 | VIP ✔ | 1.00% | ~2 |
+| Exterminate pests ✔ | 0.90% | ~2 |
+| Hardcore ✔ | 0.90% | ~2 |
+| Speedrun ✔ | 0.90% | ~2 |
 | Seeker Two ✔ | 0.50% | ~1 |
 | Rank A+ ✔ | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210 (Ranked 266)  
+Progressed: 211 (Ranked 265)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,6 +107,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-09 | 207 | 0 |
 | 2023-07-10 | 209 | 0 |
 | 2023-07-17 | 210 | 0 |
+| 2023-07-18 | 211 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

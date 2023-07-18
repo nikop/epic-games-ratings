@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 486,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -207,9 +207,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 1137,
+  "EOS_Progressed": 1138,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -907,6 +907,11 @@
       "Time": "2023-07-17T00:00:25.8672717+00:00",
       "NumProgressed": 1137,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-18T20:02:33.4750963+00:00",
+      "NumProgressed": 1138,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -934,7 +939,7 @@
       "Name": "Atomic Soda",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ATOM_QUIT",
@@ -1046,7 +1051,7 @@
       "Name": "Lot 49",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "LUCKY_GOOSE",
@@ -1070,7 +1075,7 @@
       "Name": "Mysterious Knife",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "OLD_FRIEND",
@@ -1118,7 +1123,7 @@
       "Name": "Shadow over Trudograd",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "SICK_FREAK",
@@ -1150,7 +1155,7 @@
       "Name": "Viva La Revolution",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "WALKING_FORTRESS",
@@ -1158,7 +1163,7 @@
       "Name": "Walking Fortress",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "WELCOME_TO_TRUDOGRAD",
@@ -1166,14 +1171,14 @@
       "Name": "Fresh Prince of Trudograd",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     }
   ],
   "AchievementSets": [
     {
       "ID": "62d2oh4",
       "IsBase": true,
-      "Progressed": 1137,
+      "Progressed": 1138,
       "Completed": 0
     }
   ],
@@ -1181,8 +1186,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-07-13T11:57:42.3125835+00:00",
-  "LastChanged_Achievements": "2023-07-18T19:02:18.8474372+00:00",
+  "LastChanged_Achievements": "2023-07-18T20:02:33.4750956+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:11.0248033+00:00",
-  "LastUpdate_Ratings": "2023-07-18T18:57:42.0744882+00:00",
-  "LastUpdate_Achievements": "2023-07-18T19:02:18.847467+00:00"
+  "LastUpdate_Ratings": "2023-07-18T19:57:44.2599238+00:00",
+  "LastUpdate_Achievements": "2023-07-18T20:02:33.4751236+00:00"
 }

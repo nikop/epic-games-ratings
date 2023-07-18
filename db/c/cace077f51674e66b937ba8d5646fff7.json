@@ -4,7 +4,7 @@
   "ProductSlug": "mokoko-x-e2b09d",
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-05-26T18:00:00+00:00",
@@ -306,9 +306,9 @@
       "ID": "BEYOND_TIME",
       "SetID": "50pdlpn",
       "Name": "Beyond Time",
-      "Percentage": 63,
+      "Percentage": 65,
       "XP": 40,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "BLIND_DATE",
@@ -322,9 +322,9 @@
       "ID": "BLITZKRIEG",
       "SetID": "50pdlpn",
       "Name": "Blitzkrieg",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "COMPLEX_MOVE",
@@ -338,9 +338,9 @@
       "ID": "CONQUEROR",
       "SetID": "50pdlpn",
       "Name": "Conqueror",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ENEMY_0",
@@ -354,9 +354,9 @@
       "ID": "ENEMY_1",
       "SetID": "50pdlpn",
       "Name": "Norman the Useless Gyroscope",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ENEMY_10",
@@ -881,8 +881,8 @@
   ],
   "FirstSeen": "2023-07-03T16:57:31.1356684+00:00",
   "FirstSeenAchievements": "2023-05-08T09:03:21.3999065+00:00",
-  "LastChanged_Achievements": "2023-07-18T19:05:11.4962227+00:00",
+  "LastChanged_Achievements": "2023-07-18T20:05:17.4809032+00:00",
   "LastUpdate_AppInfo": "2023-07-17T13:57:23.9145964+00:00",
-  "LastUpdate_Ratings": "2023-07-18T18:57:36.674187+00:00",
-  "LastUpdate_Achievements": "2023-07-18T19:05:11.4963008+00:00"
+  "LastUpdate_Ratings": "2023-07-18T19:57:38.0207923+00:00",
+  "LastUpdate_Achievements": "2023-07-18T20:05:17.4809803+00:00"
 }

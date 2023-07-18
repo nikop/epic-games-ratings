@@ -4,7 +4,7 @@
   "ProductSlug": "quest-hunter-96b20d",
   "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
@@ -205,9 +205,9 @@
       "ID": "interactBerry10",
       "SetID": "ci65fo0",
       "Name": "Gourmand",
-      "Percentage": 63,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "interactChest10",
@@ -253,9 +253,9 @@
       "ID": "killGoldSkeleton1",
       "SetID": "ci65fo0",
       "Name": "The First Golden Skeleton",
-      "Percentage": 63,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "killGoldSkeleton10",
@@ -405,9 +405,9 @@
       "ID": "locDungeon1",
       "SetID": "ci65fo0",
       "Name": "The first dungeon",
-      "Percentage": 68,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "locDungeon2",
@@ -429,17 +429,17 @@
       "ID": "locGraveyard",
       "SetID": "ci65fo0",
       "Name": "Graveyard",
-      "Percentage": 68,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "locSmith",
       "SetID": "ci65fo0",
       "Name": "The second friend",
-      "Percentage": 68,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "locWorker",
@@ -730,8 +730,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-07-18T19:03:14.4276943+00:00",
+  "LastChanged_Achievements": "2023-07-18T20:03:18.864392+00:00",
   "LastUpdate_AppInfo": "2023-07-12T09:57:08.3298108+00:00",
-  "LastUpdate_Ratings": "2023-07-18T18:57:12.6761973+00:00",
-  "LastUpdate_Achievements": "2023-07-18T19:03:14.4277735+00:00"
+  "LastUpdate_Ratings": "2023-07-18T19:57:18.5507723+00:00",
+  "LastUpdate_Achievements": "2023-07-18T20:03:18.8644705+00:00"
 }
