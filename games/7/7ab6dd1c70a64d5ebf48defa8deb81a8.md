@@ -9,33 +9,33 @@
 | A Taste of Wrath | 20.00% | ~4 |
 | Trinity | 20.00% | ~4 |
 | Tributes of Caladrias | 20.00% | ~4 |
+| Essence Blow | 20.00% | ~4 |
 | Flawless Victory | 20.00% | ~4 |
+| Geared Up | 20.00% | ~4 |
 | Fashion Victim | 20.00% | ~4 |
 | I Found It | 20.00% | ~4 |
 | Find Allies | 15.00% | ~3 |
+| Clear Sight | 15.00% | ~3 |
+| The Mentor | 15.00% | ~3 |
 | Adventurer | 15.00% | ~3 |
 | Airborne | 15.00% | ~3 |
-| Essence Blow | 15.00% | ~3 |
 | Shatterer | 15.00% | ~3 |
-| Geared Up | 15.00% | ~3 |
+| Big Bazar | 15.00% | ~3 |
+| Fine Feathers Make Fine Birds | 15.00% | ~3 |
 | Scholar | 15.00% | ~3 |
+| False God | 15.00% | ~3 |
 | Miner | 15.00% | ~3 |
 | The Collector | 15.00% | ~3 |
 | To Battle | 10.00% | ~2 |
 | Godslayer | 10.00% | ~2 |
-| Clear Sight | 10.00% | ~2 |
-| The Mentor | 10.00% | ~2 |
 | Shardbearer | 10.00% | ~2 |
-| Big Bazar | 10.00% | ~2 |
+| Slayer | 10.00% | ~2 |
 | Alchemist | 10.00% | ~2 |
 | Stone Collection | 10.00% | ~2 |
 | A Queen's Tale | 10.00% | ~2 |
 | Summiter | 10.00% | ~2 |
 | Forgemaster | 5.00% | ~1 |
-| Slayer | 5.00% | ~1 |
-| Fine Feathers Make Fine Birds | 5.00% | ~1 |
 | All There Is | 5.00% | ~1 |
-| False God | 5.00% | ~1 |
 | All That Gold | 5.00% | ~1 |
 | Feeling Fancy | 5.00% | ~1 |
 | Shatter Them All | 0.00% | ~0 |

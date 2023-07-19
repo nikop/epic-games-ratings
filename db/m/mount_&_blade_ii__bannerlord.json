@@ -5647,10 +5647,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 13793,
       "NumberOfAwardsMax": 6813
+    },
+    {
+      "Time": "2023-07-19T11:01:21.1600911+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 13795,
+      "NumberOfAwardsMax": 6813
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13793,
+  "NumberOfAwards": 13795,
   "NumberOfAwardsMax": 6813,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5712,7 +5718,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 760
+      "Count": 762
     },
     {
       "Text": "This game has a Creative Community",
@@ -5727,9 +5733,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 56079,
+  "EOS_Progressed": 56080,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 514,
+  "EOS_NewPlayers": 512,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15032,6 +15038,11 @@
       "Time": "2023-07-19T10:07:29.6461452+00:00",
       "NumProgressed": 56079,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-19T11:08:16.721538+00:00",
+      "NumProgressed": 56080,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -15059,7 +15070,7 @@
       "Name": "Bannerlord",
       "Percentage": 22,
       "XP": 65,
-      "UsersEstimate": 12337
+      "UsersEstimate": 12338
     },
     {
       "ID": "Best served cold",
@@ -15171,7 +15182,7 @@
       "Name": "God of the Arena",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 6729
+      "UsersEstimate": 6730
     },
     {
       "ID": "Great Granny",
@@ -15203,7 +15214,7 @@
       "Name": "Horde breaker",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 12337
+      "UsersEstimate": 12338
     },
     {
       "ID": "I can do it",
@@ -15267,7 +15278,7 @@
       "Name": "Landlord",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 17384
+      "UsersEstimate": 17385
     },
     {
       "ID": "Lawbringer",
@@ -15275,7 +15286,7 @@
       "Name": "Lawbringer",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 20749
+      "UsersEstimate": 20750
     },
     {
       "ID": "Lawmaker",
@@ -15283,7 +15294,7 @@
       "Name": "Lawmaker",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 12337
+      "UsersEstimate": 12338
     },
     {
       "ID": "Long live the Empire",
@@ -15395,7 +15406,7 @@
       "Name": "The king is pleased",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 9533
+      "UsersEstimate": 9534
     },
     {
       "ID": "This Is Our Land",
@@ -15450,15 +15461,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 56079,
+      "Progressed": 56080,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-07-19T10:00:46.7525302+00:00",
-  "LastChanged_Achievements": "2023-07-19T10:07:29.6461441+00:00",
+  "LastChanged": "2023-07-19T11:01:21.1600908+00:00",
+  "LastChanged_Achievements": "2023-07-19T11:08:16.7215376+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:48.1005966+00:00",
-  "LastUpdate_Ratings": "2023-07-19T10:00:46.7525309+00:00",
-  "LastUpdate_Achievements": "2023-07-19T10:07:29.6462239+00:00"
+  "LastUpdate_Ratings": "2023-07-19T11:01:21.1600917+00:00",
+  "LastUpdate_Achievements": "2023-07-19T11:08:16.7216347+00:00"
 }

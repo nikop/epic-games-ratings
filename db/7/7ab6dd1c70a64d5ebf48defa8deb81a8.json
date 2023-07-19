@@ -3,7 +3,7 @@
   "Name": null,
   "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 38,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": null,
@@ -146,9 +146,9 @@
       "ID": "ACH_07",
       "SetID": "efe2lj",
       "Name": "Clear Sight",
-      "Percentage": 10,
+      "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_08",
@@ -162,9 +162,9 @@
       "ID": "ACH_09",
       "SetID": "efe2lj",
       "Name": "The Mentor",
-      "Percentage": 10,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_10",
@@ -218,9 +218,9 @@
       "ID": "ACH_16",
       "SetID": "efe2lj",
       "Name": "Essence Blow",
-      "Percentage": 15,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_17",
@@ -242,9 +242,9 @@
       "ID": "ACH_19",
       "SetID": "efe2lj",
       "Name": "Slayer",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_20",
@@ -258,25 +258,25 @@
       "ID": "ACH_21",
       "SetID": "efe2lj",
       "Name": "Big Bazar",
-      "Percentage": 10,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_22",
       "SetID": "efe2lj",
       "Name": "Fine Feathers Make Fine Birds",
-      "Percentage": 5,
+      "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_23",
       "SetID": "efe2lj",
       "Name": "Geared Up",
-      "Percentage": 15,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_24",
@@ -306,9 +306,9 @@
       "ID": "ACH_27",
       "SetID": "efe2lj",
       "Name": "False God",
-      "Percentage": 5,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_28",
@@ -392,7 +392,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-07-19T10:03:48.6157563+00:00",
-  "LastUpdate_Ratings": "2023-07-19T09:57:32.7050839+00:00",
-  "LastUpdate_Achievements": "2023-07-19T10:03:48.6157764+00:00"
+  "LastChanged_Achievements": "2023-07-19T11:03:52.3028248+00:00",
+  "LastUpdate_Ratings": "2023-07-19T10:57:31.3346462+00:00",
+  "LastUpdate_Achievements": "2023-07-19T11:03:52.3028575+00:00"
 }

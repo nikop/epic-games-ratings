@@ -6,23 +6,23 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~34,273 |
-| I read Shakespeare and stuff | 64.00% | ~29,246 |
-| Just a sprinkle | 63.00% | ~28,789 |
-| I'm stumped | 61.00% | ~27,875 |
-| Plant get enough | 60.00% | ~27,418 |
-| This is just my weekend vehicle | 58.00% | ~26,504 |
-| It's just the beginning | 58.00% | ~26,504 |
-| Hard work pays off | 53.00% | ~24,219 |
-| It's never too late to farm | 48.00% | ~21,935 |
-| All out of Land | 44.00% | ~20,107 |
-| Field Trip | 43.00% | ~19,650 |
-| I like to switch it up | 40.00% | ~18,279 |
-| Help me to help you | 38.00% | ~17,365 |
-| Ultimutt Pawesomeness | 28.00% | ~12,795 |
-| Van Gogh | 26.00% | ~11,881 |
-| You wood not believe it | 21.00% | ~9,596 |
-| Vehicle fleet | 21.00% | ~9,596 |
+| Own use | 75.00% | ~34,274 |
+| I read Shakespeare and stuff | 64.00% | ~29,247 |
+| Just a sprinkle | 63.00% | ~28,790 |
+| I'm stumped | 61.00% | ~27,876 |
+| Plant get enough | 60.00% | ~27,419 |
+| This is just my weekend vehicle | 58.00% | ~26,505 |
+| It's just the beginning | 58.00% | ~26,505 |
+| Hard work pays off | 53.00% | ~24,220 |
+| It's never too late to farm | 48.00% | ~21,936 |
+| All out of Land | 44.00% | ~20,108 |
+| Field Trip | 43.00% | ~19,651 |
+| I like to switch it up | 40.00% | ~18,280 |
+| Help me to help you | 38.00% | ~17,366 |
+| Ultimutt Pawesomeness | 28.00% | ~12,796 |
+| Van Gogh | 26.00% | ~11,882 |
+| You wood not believe it | 21.00% | ~9,597 |
+| Vehicle fleet | 21.00% | ~9,597 |
 | The plot thickens | 16.00% | ~7,312 |
 | Well-Oiled Machine | 16.00% | ~7,312 |
 | Long haul | 16.00% | ~7,312 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~183 |
 | Raisin the stakes | 0.30% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,697 (Ranked 88)  
+Progressed: 45,699 (Ranked 88)  
 Completed: 5 (0.01%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,16 +140,16 @@ Completed: 5 (0.01%) (Ranked 225)
 | 2023-07-16 | 45,573 | 5 |
 | 2023-07-17 | 45,638 | 5 |
 | 2023-07-18 | 45,686 | 5 |
-| 2023-07-19 | 45,697 | 5 |
+| 2023-07-19 | 45,699 | 5 |
 ## Awards
 Max (Great for Beginners): 4,548  (Ranked 70)  
-Sum: 38,208 (Ranked 31)  
+Sum: 38,212 (Ranked 31)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,548 |
 | This game is Relaxing | 4,027 |
-| This game is Educational | 3,990 |
+| This game is Educational | 3,994 |
 | This game has Quickly Understood Controls | 3,943 |
 | This game has Diverse Characters | 3,843 |
 | This game is Extremely Fun | 3,828 |
@@ -345,4 +345,4 @@ Diff (max vs sum): 39
 | 2023-07-16 | 4.70 | - | 4,544 | 38,166 |
 | 2023-07-17 | 4.69 | - | 4,544 | 38,186 |
 | 2023-07-18 | 4.69 | - | 4,548 | 38,205 |
-| 2023-07-19 | 4.69 | - | 4,548 | 38,208 |
+| 2023-07-19 | 4.69 | - | 4,548 | 38,212 |

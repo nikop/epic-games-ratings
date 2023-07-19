@@ -59,7 +59,7 @@ Number of Ratings: 45  (23.09.2022)
 | A Lowly Crust of Beef | 1.00% | ~13 |
 | I'm Not Smiling | 1.00% | ~13 |
 | Thwack! | 1.00% | ~13 |
-| Overwhelming Monstrosity | 0.80% | ~11 |
+| Overwhelming Monstrosity | 0.90% | ~12 |
 | We Call That Mortificient! | 0.80% | ~11 |
 | Peacemaker | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
