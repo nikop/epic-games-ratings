@@ -56,14 +56,14 @@
 | 49 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 261 | 244 |
 | 49 | [Rayman Origins](games/r/rayman_origins.md) | 4.84 | 24 | 477 |
 | 49 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.84 | 234 | 251 |
+| 49 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.84 | 0 | 505 |
 | 49 | [TUNIC](games/t/tunic.md) | 4.84 | 34 | 439 |
-| 58 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 0 | 505 |
-| 58 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.83 | 0 | 505 |
-| 58 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.83 | 0 | 505 |
-| 58 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.83 | 39 | 425 |
-| 58 | [The Last Campfire](games/t/the_last_campfire.md) | 4.83 | 0 | 505 |
-| 58 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 87 | 349 |
-| 58 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.83 | 0 | 505 |
+| 59 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 0 | 505 |
+| 59 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.83 | 0 | 505 |
+| 59 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.83 | 0 | 505 |
+| 59 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.83 | 39 | 425 |
+| 59 | [The Last Campfire](games/t/the_last_campfire.md) | 4.83 | 0 | 505 |
+| 59 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 87 | 349 |
 | 65 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 505 |
 | 65 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,460 | 122 |
 | 65 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,645 | 58 |
@@ -144,7 +144,7 @@
 | 133 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 0 | 505 |
 | 143 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 505 |
 | 143 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 626 | 172 |
-| 143 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 796 | 153 |
+| 143 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 797 | 153 |
 | 143 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 642 | 170 |
 | 143 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,813 | 48 |
 | 143 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.74 | 0 | 505 |
@@ -211,7 +211,7 @@
 | 196 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 45 | 409 |
 | 196 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 0 | 505 |
 | 196 | [The Witness](games/t/the_witness.md) | 4.70 | 177 | 280 |
-| 196 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,420 | 72 |
+| 196 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,421 | 72 |
 | 196 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.70 | 1,695 | 116 |
 | 196 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 0 | 505 |
 | 196 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.70 | 0 | 505 |
@@ -294,7 +294,7 @@
 | 272 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 525 | 190 |
 | 272 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.66 | 86 | 351 |
 | 272 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.66 | 0 | 505 |
-| 272 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,810 | 57 |
+| 272 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,813 | 57 |
 | 272 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 460 | 198 |
 | 272 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 0 | 505 |
 | 298 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 505 |
@@ -471,7 +471,7 @@
 | 457 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.56 | 0 | 505 |
 | 457 | [Minit](games/m/minit.md) | 4.56 | 0 | 505 |
 | 457 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,745 | 68 |
-| 457 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.56 | 7,585 | 44 |
+| 457 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.56 | 7,590 | 44 |
 | 457 | [Observation](games/o/observation.md) | 4.56 | 0 | 505 |
 | 457 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.56 | 896 | 149 |
 | 457 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,792 | 113 |

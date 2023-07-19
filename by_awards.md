@@ -43,7 +43,7 @@
 | 41 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 7,743 | 4.89 | 13 |
 | 42 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,700 | 4.85 | 41 |
 | 43 | [Supraland](games/s/supraland.md) | 7,647 | 4.61 | 365 |
-| 44 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,585 | 4.56 | 457 |
+| 44 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,590 | 4.56 | 457 |
 | 45 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 7,579 | 4.48 | 588 |
 | 46 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,324 | 4.71 | 183 |
 | 47 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 7,281 | 4.68 | 240 |
@@ -56,7 +56,7 @@
 | 54 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,228 | 4.58 | 423 |
 | 55 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,955 | 4.64 | 312 |
 | 56 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,930 | 4.79 | 90 |
-| 57 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,810 | 4.66 | 272 |
+| 57 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,813 | 4.66 | 272 |
 | 58 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,645 | 4.82 | 65 |
 | 59 | [Prey](games/p/prey.md) | 5,612 | 4.62 | 347 |
 | 60 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,562 | 4.69 | 216 |
@@ -71,7 +71,7 @@
 | 69 | [Shop Titans](games/s/shop_titans.md) | 4,664 | 3.99 | 919 |
 | 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,548 | 4.69 | 216 |
 | 71 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,546 | 4.70 | 196 |
-| 72 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,420 | 4.70 | 196 |
+| 72 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,421 | 4.70 | 196 |
 | 73 | [Chivalry 2](games/c/chivalry_2.md) | 4,371 | 4.61 | 365 |
 | 74 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4,294 | 4.76 | 119 |
 | 75 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,171 | 4.56 | 457 |
@@ -152,7 +152,7 @@
 | 150 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 863 | 4.45 | 624 |
 | 151 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 807 | 4.56 | 457 |
 | 152 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 804 | 4.69 | 216 |
-| 153 | [Frostpunk](games/f/frostpunk.md) | 796 | 4.74 | 143 |
+| 153 | [Frostpunk](games/f/frostpunk.md) | 797 | 4.74 | 143 |
 | 154 | [The Long Dark](games/t/the_long_dark.md) | 779 | 4.74 | 143 |
 | 155 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 774 | 4.45 | 624 |
 | 156 | [Auto Chess](games/a/auto_chess.md) | 756 | 4.52 | 520 |
@@ -349,7 +349,7 @@
 | 347 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 88 | 4.68 | 240 |
 | 347 | [Train Valley 2](games/t/train_valley_2.md) | 88 | 4.03 | 911 |
 | 349 | [RAILGRADE](games/r/railgrade.md) | 87 | 4.54 | 493 |
-| 349 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 87 | 4.83 | 58 |
+| 349 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 87 | 4.83 | 59 |
 | 351 | [Armored Warfare](games/a/armored_warfare.md) | 86 | 4.12 | 885 |
 | 351 | [The Outlast Trials](games/t/the_outlast_trials.md) | 86 | 4.66 | 272 |
 | 353 | [Cave Story+](games/c/cave_story+.md) | 85 | 4.76 | 119 |
@@ -425,7 +425,7 @@
 | 422 | [Transport Fever 2](games/t/transport_fever_2.md) | 40 | 4.69 | 216 |
 | 422 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 40 | 4.37 | 722 |
 | 425 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 39 | 4.72 | 167 |
-| 425 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 39 | 4.83 | 58 |
+| 425 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 39 | 4.83 | 59 |
 | 427 | [Bugsnax](games/b/bugsnax.md) | 38 | 4.86 | 29 |
 | 427 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 38 | 4.47 | 601 |
 | 429 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 37 | 4.60 | 390 |
