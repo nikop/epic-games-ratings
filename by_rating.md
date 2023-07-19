@@ -143,7 +143,7 @@
 | 133 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.75 | 0 | 505 |
 | 133 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 0 | 505 |
 | 143 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 505 |
-| 143 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 625 | 173 |
+| 143 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 626 | 172 |
 | 143 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 796 | 153 |
 | 143 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 642 | 170 |
 | 143 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,813 | 48 |
@@ -276,7 +276,7 @@
 | 272 | [Coromon](games/c/coromon.md) | 4.66 | 41 | 419 |
 | 272 | [Crashlands](games/c/crashlands.md) | 4.66 | 191 | 272 |
 | 272 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 167 | 285 |
-| 272 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,290 | 130 |
+| 272 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,291 | 130 |
 | 272 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 332 | 225 |
 | 272 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.66 | 46 | 406 |
 | 272 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 0 | 505 |
@@ -397,7 +397,7 @@
 | 390 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 218 | 257 |
 | 390 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 74 | 364 |
 | 390 | [DOOM 3](games/d/doom_3.md) | 4.60 | 67 | 378 |
-| 390 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,499 | 27 |
+| 390 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,505 | 27 |
 | 390 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 120 | 312 |
 | 390 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 58 | 389 |
 | 390 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.60 | 37 | 429 |
@@ -509,7 +509,7 @@
 | 493 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 503 | 194 |
 | 508 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 505 |
 | 508 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 505 |
-| 508 | [Dauntless](games/d/dauntless.md) | 4.53 | 20,816 | 18 |
+| 508 | [Dauntless](games/d/dauntless.md) | 4.53 | 20,842 | 18 |
 | 508 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.53 | 34 | 439 |
 | 508 | [Everything](games/e/everything.md) | 4.53 | 0 | 505 |
 | 508 | [GRIME](games/g/grime.md) | 4.53 | 0 | 505 |
@@ -634,7 +634,7 @@
 | 624 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 505 |
 | 624 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 863 | 150 |
 | 624 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 51 | 396 |
-| 624 | [SMITE](games/s/smite.md) | 4.45 | 4,035 | 78 |
+| 624 | [SMITE](games/s/smite.md) | 4.45 | 4,041 | 78 |
 | 624 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.45 | 0 | 505 |
 | 624 | [STG Football](games/s/stg_football.md) | 4.45 | 41 | 419 |
 | 624 | [The Surge](games/t/the_surge.md) | 4.45 | 27 | 466 |
