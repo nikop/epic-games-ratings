@@ -4,8 +4,8 @@
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 45.45% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.55% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.00% |
-| 5 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 27.27% |
-| 6 | [Overloop](games/o/overloop.md) | 25.00% |
+| 5 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 25.00% |
+| 5 | [Overloop](games/o/overloop.md) | 25.00% |
 | 7 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 22.09% |
 | 9 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
@@ -24,7 +24,7 @@
 | 22 | [Sonic Origins](games/s/sonic_origins.md) | 10.03% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 24 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 9.30% |
-| 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.65% |
+| 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.70% |
 | 26 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
 | 27 | [Smelter](games/s/smelter.md) | 8.11% |
 | 28 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.69% |
