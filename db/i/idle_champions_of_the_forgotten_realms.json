@@ -5042,10 +5042,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 30575,
       "NumberOfAwardsMax": 5043
+    },
+    {
+      "Time": "2023-07-19T04:13:41.2451572+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30580,
+      "NumberOfAwardsMax": 5043
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30575,
+  "NumberOfAwards": 30580,
   "NumberOfAwardsMax": 5043,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5083,7 +5089,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4008
+      "Count": 4013
     },
     {
       "Text": "This game has Playful Visuals",
@@ -5092,9 +5098,9 @@
       "Count": 3304
     }
   ],
-  "EOS_Progressed": 213250,
+  "EOS_Progressed": 213262,
   "EOS_Completed": 2058,
-  "EOS_NewPlayers": 2913,
+  "EOS_NewPlayers": 2917,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -14662,6 +14668,11 @@
       "Time": "2023-07-19T03:24:27.5153061+00:00",
       "NumProgressed": 213250,
       "NumCompleted": 2058
+    },
+    {
+      "Time": "2023-07-19T04:21:11.9508661+00:00",
+      "NumProgressed": 213262,
+      "NumCompleted": 2058
     }
   ],
   "TotalAchievements": 512,
@@ -18359,9 +18370,9 @@
       "ID": "objective_completed_889",
       "SetID": "415jc5c",
       "Name": "Shady Sidekicks - Part 1",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 180
     },
     {
       "ID": "objective_completed_892",
@@ -18768,21 +18779,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 179524,
+      "Progressed": 179536,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 213250,
+      "Progressed": 213262,
       "Completed": 2058
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-07-19T03:16:45.3475826+00:00",
-  "LastChanged_Achievements": "2023-07-19T03:24:27.5153056+00:00",
+  "LastChanged": "2023-07-19T04:13:41.2451571+00:00",
+  "LastChanged_Achievements": "2023-07-19T04:21:11.9508656+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:48.5227447+00:00",
-  "LastUpdate_Ratings": "2023-07-19T03:16:45.3475833+00:00",
-  "LastUpdate_Achievements": "2023-07-19T03:24:27.5176962+00:00"
+  "LastUpdate_Ratings": "2023-07-19T04:13:41.2451577+00:00",
+  "LastUpdate_Achievements": "2023-07-19T04:21:11.9532002+00:00"
 }

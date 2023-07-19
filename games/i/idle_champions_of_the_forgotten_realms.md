@@ -159,6 +159,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Volo's Guide to Kuo-toa | 0.10% | ~180 |
 | Ending the Rime - Part 1 | 0.10% | ~180 |
 | Ambitious Speakers - Part 1 | 0.10% | ~180 |
+| Shady Sidekicks - Part 1 | 0.10% | ~180 |
 | Ending the Rime - Part 2 | 0.10% | ~180 |
 | Ambitious Speakers - Part 2 | 0.10% | ~180 |
 | Shady Sidekicks - Part 2 | 0.10% | ~180 |
@@ -494,7 +495,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Frontline Fighters | 0.00% | ~0 |
 | A Chilling Encounter | 0.00% | ~0 |
 | How Far Away is Thay | 0.00% | ~0 |
-| Shady Sidekicks - Part 1 | 0.00% | ~0 |
 | The Court of Storms | 0.00% | ~0 |
 | Coasting to the Finish | 0.00% | ~0 |
 | Beware the Jabberwock | 0.00% | ~0 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.00% | ~0 |
 | Animated Giff | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213,250 (Ranked 53)  
+Progressed: 213,262 (Ranked 53)  
 Completed: 2,058 (0.97%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -609,10 +609,10 @@ Completed: 2,058 (0.97%) (Ranked 103)
 | 2023-07-16 | 212,501 | 2,055 |
 | 2023-07-17 | 212,861 | 2,057 |
 | 2023-07-18 | 213,209 | 2,058 |
-| 2023-07-19 | 213,250 | 2,058 |
+| 2023-07-19 | 213,262 | 2,058 |
 ## Awards
 Max (Diverse Characters): 5,043  (Ranked 66)  
-Sum: 30,575 (Ranked 38)  
+Sum: 30,580 (Ranked 38)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -620,8 +620,8 @@ Diff (max vs sum): 28
 | This game is Great for Beginners | 4,980 |
 | This game has Quickly Understood Controls | 4,670 |
 | This game is Relaxing | 4,559 |
+| This game has Amazing Characters | 4,013 |
 | This game is Highly Recommended | 4,011 |
-| This game has Amazing Characters | 4,008 |
 | This game has Playful Visuals | 3,304 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -800,4 +800,4 @@ Diff (max vs sum): 28
 | 2023-07-16 | 4.05 | - | 5,036 | 30,550 |
 | 2023-07-17 | 4.06 | - | 5,041 | 30,562 |
 | 2023-07-18 | 4.06 | - | 5,041 | 30,573 |
-| 2023-07-19 | 4.05 | - | 5,043 | 30,575 |
+| 2023-07-19 | 4.05 | - | 5,043 | 30,580 |

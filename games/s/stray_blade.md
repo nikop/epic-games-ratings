@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 75.00% | ~12 |
-| Tinkerer | 44.00% | ~7 |
-| Can't touch this | 31.00% | ~5 |
-| Don't Cry Wolf | 25.00% | ~4 |
-| A new World ahead | 25.00% | ~4 |
-| Freezing Cold | 19.00% | ~3 |
-| Welcome to the Club | 19.00% | ~3 |
-| Apprentice | 19.00% | ~3 |
-| Bringing guns to a sword fight | 13.00% | ~2 |
-| Searing Heat | 13.00% | ~2 |
-| Through Dangers Untold | 13.00% | ~2 |
-| The Golden Flash | 13.00% | ~2 |
-| The Power of the Mountains | 13.00% | ~2 |
-| Changing the World | 13.00% | ~2 |
+| Self-Defence | 71.00% | ~12 |
+| Tinkerer | 41.00% | ~7 |
+| Can't touch this | 29.00% | ~5 |
+| Don't Cry Wolf | 24.00% | ~4 |
+| A new World ahead | 24.00% | ~4 |
+| Freezing Cold | 18.00% | ~3 |
+| Welcome to the Club | 18.00% | ~3 |
+| Apprentice | 18.00% | ~3 |
+| Bringing guns to a sword fight | 12.00% | ~2 |
+| Searing Heat | 12.00% | ~2 |
+| Through Dangers Untold | 12.00% | ~2 |
+| The Golden Flash | 12.00% | ~2 |
+| The Power of the Mountains | 12.00% | ~2 |
+| Changing the World | 12.00% | ~2 |
 | Mirror, Mirror on the Wall | 6.00% | ~1 |
 | Sponsor | 6.00% | ~1 |
 | Defeat Ingla | 6.00% | ~1 |
@@ -51,7 +51,7 @@
 | Master of all Domains | 0.00% | ~0 |
 | Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16 (Ranked 382)  
+Progressed: 17 (Ranked 381)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,6 +68,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-13 | 14 | 0 |
 | 2023-07-16 | 15 | 0 |
 | 2023-07-17 | 16 | 0 |
+| 2023-07-19 | 17 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

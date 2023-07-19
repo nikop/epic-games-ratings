@@ -1345,9 +1345,9 @@
       "Count": 245
     }
   ],
-  "EOS_Progressed": 186732,
+  "EOS_Progressed": 186737,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 1806,
+  "EOS_NewPlayers": 1802,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -11090,6 +11090,11 @@
       "Time": "2023-07-19T03:24:54.9413854+00:00",
       "NumProgressed": 186732,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-07-19T04:21:38.0284282+00:00",
+      "NumProgressed": 186737,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 44,
@@ -11141,7 +11146,7 @@
       "Name": "Disguised",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 13071
+      "UsersEstimate": 13072
     },
     {
       "ID": "FiveShadows",
@@ -11317,7 +11322,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 13071
+      "UsersEstimate": 13072
     },
     {
       "ID": "Rollin",
@@ -11325,7 +11330,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 13071
+      "UsersEstimate": 13072
     },
     {
       "ID": "StillRollin",
@@ -11452,15 +11457,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 186732,
+      "Progressed": 186737,
       "Completed": 59
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-07-17T10:59:29.4177007+00:00",
-  "LastChanged_Achievements": "2023-07-19T03:24:54.9413846+00:00",
+  "LastChanged_Achievements": "2023-07-19T04:21:38.0284277+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:02.1147937+00:00",
-  "LastUpdate_Ratings": "2023-07-19T03:17:37.2693447+00:00",
-  "LastUpdate_Achievements": "2023-07-19T03:24:54.941459+00:00"
+  "LastUpdate_Ratings": "2023-07-19T04:14:29.7166335+00:00",
+  "LastUpdate_Achievements": "2023-07-19T04:21:38.0284977+00:00"
 }

@@ -11,6 +11,7 @@ Rating: 4.62 (Ranked 347)
 | Secret Technique | 4.00% | ~200 |
 | Walls Cannot Stop Us | 4.00% | ~200 |
 | Magical Synergy | 4.00% | ~200 |
+| Mighty Hoard | 4.00% | ~200 |
 | There Can Only Be One! | 3.00% | ~150 |
 | Full Ascension | 3.00% | ~150 |
 | Bone Peddler | 3.00% | ~150 |
@@ -23,7 +24,6 @@ Rating: 4.62 (Ranked 347)
 | Intimidation Tactics | 3.00% | ~150 |
 | Here be Dragons | 3.00% | ~150 |
 | Blood of the Dragon | 3.00% | ~150 |
-| Mighty Hoard | 3.00% | ~150 |
 | Valley of Wonders | 2.00% | ~100 |
 | Return of the Wizard King | 2.00% | ~100 |
 | Arch Mage | 2.00% | ~100 |

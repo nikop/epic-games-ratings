@@ -4509,9 +4509,9 @@
       "ID": "Ach027",
       "SetID": "12n4k20",
       "Name": "Z-shielding\u0027s got nothing on us!",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 69
     },
     {
       "ID": "Ach028",
@@ -4884,8 +4884,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-19T03:21:28.7576693+00:00",
+  "LastChanged_Achievements": "2023-07-19T04:17:26.8465146+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:27.8055794+00:00",
-  "LastUpdate_Ratings": "2023-07-19T03:17:07.8431121+00:00",
-  "LastUpdate_Achievements": "2023-07-19T03:21:28.7577457+00:00"
+  "LastUpdate_Ratings": "2023-07-19T04:14:02.6755354+00:00",
+  "LastUpdate_Achievements": "2023-07-19T04:17:26.8465947+00:00"
 }

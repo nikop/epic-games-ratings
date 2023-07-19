@@ -31,6 +31,7 @@ Rating: 4.10 (Ranked 887)
 | Challenger | 10.00% | ~168 |
 | Hunter | 10.00% | ~168 |
 | Relic Of The Past | 10.00% | ~168 |
+| Scroll Master | 10.00% | ~168 |
 | The power of Awakening | 10.00% | ~168 |
 | Daily Quest Completionist | 9.00% | ~151 |
 | Doing My Part | 9.00% | ~151 |
@@ -38,7 +39,6 @@ Rating: 4.10 (Ranked 887)
 | Frostfire Liberator | 9.00% | ~151 |
 | Mastery | 9.00% | ~151 |
 | Moving Up The Ladder | 9.00% | ~151 |
-| Scroll Master | 9.00% | ~151 |
 | Here We Go Again | 8.00% | ~134 |
 | The father of Dragons | 8.00% | ~134 |
 | Master Enchanter | 7.00% | ~117 |

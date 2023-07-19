@@ -2574,9 +2574,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 69105,
+  "EOS_Progressed": 69106,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 350,
+  "EOS_NewPlayers": 347,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -11894,6 +11894,11 @@
       "Time": "2023-07-19T03:23:19.0775728+00:00",
       "NumProgressed": 69105,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-07-19T04:20:03.5739787+00:00",
+      "NumProgressed": 69106,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 37,
@@ -11905,7 +11910,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 34552
+      "UsersEstimate": 34553
     },
     {
       "ID": "ACH_0011",
@@ -11913,7 +11918,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 20040
+      "UsersEstimate": 20041
     },
     {
       "ID": "ACH_0012",
@@ -11937,7 +11942,7 @@
       "Name": "Track Star",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 6219
+      "UsersEstimate": 6220
     },
     {
       "ID": "ACH_0015",
@@ -12001,7 +12006,7 @@
       "Name": "Freebooter",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6910
+      "UsersEstimate": 6911
     },
     {
       "ID": "ACH_0061",
@@ -12049,7 +12054,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 44918
+      "UsersEstimate": 44919
     },
     {
       "ID": "ACH_0210",
@@ -12073,7 +12078,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 32479
+      "UsersEstimate": 32480
     },
     {
       "ID": "ACH_0300",
@@ -12145,7 +12150,7 @@
       "Name": "Classy Joint",
       "Percentage": 9,
       "XP": 55,
-      "UsersEstimate": 6219
+      "UsersEstimate": 6220
     },
     {
       "ID": "ACH_0440",
@@ -12200,7 +12205,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 69105,
+      "Progressed": 69106,
       "Completed": 36
     }
   ],
@@ -12208,8 +12213,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-07-18T22:01:37.0977179+00:00",
-  "LastChanged_Achievements": "2023-07-19T03:23:19.0775723+00:00",
+  "LastChanged_Achievements": "2023-07-19T04:20:03.5739782+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:02.3078188+00:00",
-  "LastUpdate_Ratings": "2023-07-19T03:18:21.1561095+00:00",
-  "LastUpdate_Achievements": "2023-07-19T03:23:19.0776403+00:00"
+  "LastUpdate_Ratings": "2023-07-19T04:15:17.3082958+00:00",
+  "LastUpdate_Achievements": "2023-07-19T04:20:03.5740425+00:00"
 }

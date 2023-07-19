@@ -7,13 +7,13 @@ Number of Ratings: 524  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Follow the Light | 34.00% | ~19,558 |
-| Let There Be Light | 28.00% | ~16,106 |
+| Let There Be Light | 28.00% | ~16,107 |
 | Float Like a Butterfly | 26.00% | ~14,956 |
 | Nordic Walking | 21.00% | ~12,080 |
 | Bright Falls' Finest | 21.00% | ~12,080 |
 | Under a Thin Layer of Skin | 18.00% | ~10,354 |
-| Park Ranger | 15.00% | ~8,628 |
-| Paging Mr. Wake | 15.00% | ~8,628 |
+| Park Ranger | 15.00% | ~8,629 |
+| Paging Mr. Wake | 15.00% | ~8,629 |
 | Back! Back, I Say! | 14.00% | ~8,053 |
 | Finders Keepers | 14.00% | ~8,053 |
 | Sound and Fury | 13.00% | ~7,478 |
@@ -38,7 +38,7 @@ Number of Ratings: 524  (23.09.2022)
 | A Friend in Need | 8.00% | ~1,679 |
 | Tornado Wrangler | 7.00% | ~4,027 |
 | Departure | 6.00% | ~3,451 |
-| A Friend Indeed | 6.00% | ~1,259 |
+| A Friend Indeed | 6.00% | ~1,260 |
 | Drink 'Em Both Up | 5.00% | ~2,876 |
 | Hardboiled Writer | 5.00% | ~2,876 |
 | Ding! | 5.00% | ~1,050 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~58 |
 | No Punctuation | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,523 (Ranked 82)  
+Progressed: 57,524 (Ranked 82)  
 Completed: 58 (0.10%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 58 (0.10%) (Ranked 183)
 | 2023-07-16 | 57,444 | 58 |
 | 2023-07-17 | 57,477 | 58 |
 | 2023-07-18 | 57,515 | 58 |
-| 2023-07-19 | 57,523 | 58 |
+| 2023-07-19 | 57,524 | 58 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

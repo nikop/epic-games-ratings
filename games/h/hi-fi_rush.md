@@ -13,6 +13,7 @@ Rating: 4.87 (Ranked 24)
 | Time to pay up! | 2.00% | ~69 |
 | Who's the boss now? | 2.00% | ~69 |
 | Thanks for the free chip, Peppermint! | 2.00% | ~69 |
+| Z-shielding's got nothing on us! | 2.00% | ~69 |
 | Out in a puff of smoke | 2.00% | ~69 |
 | Uh, they were broken when I got here | 2.00% | ~69 |
 | Kissing the sky! | 2.00% | ~69 |
@@ -25,7 +26,6 @@ Rating: 4.87 (Ranked 24)
 | Feeling the beat! | 1.00% | ~35 |
 | You got this, Peppermint? | 1.00% | ~35 |
 | You must like calling me in, Chai | 1.00% | ~35 |
-| Z-shielding's got nothing on us! | 1.00% | ~35 |
 | Perfect Parry | 1.00% | ~35 |
 | Perfecter Parry-er! | 1.00% | ~35 |
 | I look cool. But I can look COOLER. | 1.00% | ~35 |

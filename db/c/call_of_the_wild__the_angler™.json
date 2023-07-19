@@ -586,9 +586,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4688,
+  "EOS_Progressed": 4689,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4636,6 +4636,11 @@
       "Time": "2023-07-19T03:21:33.0838742+00:00",
       "NumProgressed": 4688,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-19T04:18:10.2489821+00:00",
+      "NumProgressed": 4689,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -4647,7 +4652,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3563
+      "UsersEstimate": 3564
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -4663,7 +4668,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 3094
+      "UsersEstimate": 3095
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -4687,7 +4692,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 2672
+      "UsersEstimate": 2673
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -4813,9 +4818,9 @@
       "ID": "ACHIEVEMENT_022",
       "SetID": "1a05lfd",
       "Name": "Diamond in the Rough",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 609
+      "UsersEstimate": 563
     },
     {
       "ID": "ACHIEVEMENT_023",
@@ -4926,13 +4931,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 4688,
+      "Progressed": 4689,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 4060,
+      "Progressed": 4061,
       "Completed": 112
     }
   ],
@@ -4940,8 +4945,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-06-29T22:00:44.387661+00:00",
-  "LastChanged_Achievements": "2023-07-19T03:21:33.0838739+00:00",
+  "LastChanged_Achievements": "2023-07-19T04:18:10.2489815+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:50.1759655+00:00",
-  "LastUpdate_Ratings": "2023-07-19T03:18:11.2847028+00:00",
-  "LastUpdate_Achievements": "2023-07-19T03:21:33.0839221+00:00"
+  "LastUpdate_Ratings": "2023-07-19T04:15:08.4219723+00:00",
+  "LastUpdate_Achievements": "2023-07-19T04:18:10.2490222+00:00"
 }
