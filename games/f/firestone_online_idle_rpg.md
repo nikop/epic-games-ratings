@@ -5,19 +5,19 @@ Rating: 4.10 (Ranked 887)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,559 |
-| World Map | 79.00% | ~1,324 |
+| Victor | 93.00% | ~1,560 |
+| World Map | 79.00% | ~1,325 |
 | Temple of Eternals | 56.00% | ~939 |
-| Prestigious | 53.00% | ~888 |
-| Fellowship Power | 41.00% | ~687 |
+| Prestigious | 53.00% | ~889 |
+| Fellowship Power | 41.00% | ~688 |
 | Guild Power | 25.00% | ~419 |
 | Prestigious x10 | 21.00% | ~352 |
 | The game is on | 20.00% | ~335 |
 | Exotic Merchant | 17.00% | ~285 |
 | Dragon Clicker | 16.00% | ~268 |
 | Miner Clicker | 16.00% | ~268 |
-| Full Party | 15.00% | ~251 |
-| Inspection | 15.00% | ~251 |
+| Full Party | 15.00% | ~252 |
+| Inspection | 15.00% | ~252 |
 | Dragon Master | 14.00% | ~235 |
 | Enlightenment | 14.00% | ~235 |
 | Hero inspection | 14.00% | ~235 |
@@ -66,8 +66,8 @@ Rating: 4.10 (Ranked 887)
 | Mythic Power | 1.00% | ~17 |
 | Gear Enchanting | 0.80% | ~13 |
 | Training makes a Pro player | 0.80% | ~13 |
+| Cauldron Liberator | 0.70% | ~12 |
 | Transmute | 0.70% | ~12 |
-| Cauldron Liberator | 0.60% | ~10 |
 | Titan Power | 0.50% | ~8 |
 | Tree of Life | 0.50% | ~8 |
 | Enchanting skill x5 | 0.40% | ~7 |
@@ -81,7 +81,7 @@ Rating: 4.10 (Ranked 887)
 | War Machines Army | 0.20% | ~3 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,676 (Ranked 169)  
+Progressed: 1,677 (Ranked 169)  
 Completed: 1 (0.06%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,6 +171,7 @@ Completed: 1 (0.06%) (Ranked 199)
 | 2023-07-16 | 1,662 | 1 |
 | 2023-07-17 | 1,671 | 1 |
 | 2023-07-18 | 1,676 | 1 |
+| 2023-07-19 | 1,677 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

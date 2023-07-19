@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| So it goes | 22.00% | ~46 |
 | Clean Conscience | 22.00% | ~46 |
-| So it goes | 21.00% | ~44 |
 | A New Broom Sweeps Clean | 11.00% | ~23 |
 | Small-time Finder | 10.00% | ~21 |
 | Off to a Good Start | 9.00% | ~19 |

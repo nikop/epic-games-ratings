@@ -37,6 +37,7 @@ Rating: 4.56 (Ranked 457)
 | What the Ruins Teach Us | 3.00% | ~85 |
 | Sustainable Energy | 2.00% | ~57 |
 | In Dolos We Trust | 2.00% | ~57 |
+| Space Greenhouse | 2.00% | ~57 |
 | Delivery! | 2.00% | ~57 |
 | Pedal to the Metal | 2.00% | ~57 |
 | Help of the Forgotten Member | 2.00% | ~57 |
@@ -45,7 +46,6 @@ Rating: 4.56 (Ranked 457)
 | Tiqqun Contender | 1.00% | ~28 |
 | Catastrophe Avoided | 1.00% | ~28 |
 | Praise the Hull! | 1.00% | ~28 |
-| Space Greenhouse | 1.00% | ~28 |
 | Tiqqun Unchained | 1.00% | ~28 |
 | Scientifically Accurate | 1.00% | ~28 |
 | You Had One Job... | 0.90% | ~26 |

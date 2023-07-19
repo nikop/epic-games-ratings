@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -537,9 +537,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 217584,
+  "EOS_Progressed": 217598,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 627,
+  "EOS_NewPlayers": 632,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10052,6 +10052,11 @@
       "Time": "2023-07-19T00:05:27.1553648+00:00",
       "NumProgressed": 217584,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-19T03:23:56.3773506+00:00",
+      "NumProgressed": 217598,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 34,
@@ -10063,7 +10068,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 41341
+      "UsersEstimate": 41344
     },
     {
       "ID": "ACH_BASE_10",
@@ -10071,7 +10076,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 54396
+      "UsersEstimate": 54400
     },
     {
       "ID": "ACH_BASE_11",
@@ -10087,7 +10092,7 @@
       "Name": "Competent Cohort",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8703
+      "UsersEstimate": 8704
     },
     {
       "ID": "ACH_BASE_13",
@@ -10103,7 +10108,7 @@
       "Name": "Power Ranger",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19583
+      "UsersEstimate": 19584
     },
     {
       "ID": "ACH_BASE_16",
@@ -10111,7 +10116,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19583
+      "UsersEstimate": 19584
     },
     {
       "ID": "ACH_BASE_17",
@@ -10119,7 +10124,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19583
+      "UsersEstimate": 19584
     },
     {
       "ID": "ACH_BASE_18",
@@ -10127,7 +10132,7 @@
       "Name": "Radium Ready",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19583
+      "UsersEstimate": 19584
     },
     {
       "ID": "ACH_BASE_19",
@@ -10143,7 +10148,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13055
+      "UsersEstimate": 13056
     },
     {
       "ID": "ACH_BASE_20",
@@ -10231,7 +10236,7 @@
       "Name": "Celestial Cartography Catastrophe",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8703
+      "UsersEstimate": 8704
     },
     {
       "ID": "ACH_BASE_30",
@@ -10311,7 +10316,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 26110
+      "UsersEstimate": 26112
     },
     {
       "ID": "ACH_BASE_8",
@@ -10319,7 +10324,7 @@
       "Name": "One with the Machine",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8703
+      "UsersEstimate": 8704
     },
     {
       "ID": "ACH_BASE_9",
@@ -10327,14 +10332,14 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19583
+      "UsersEstimate": 19584
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 217584,
+      "Progressed": 217598,
       "Completed": 4
     }
   ],
@@ -10342,8 +10347,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-07-16T20:59:34.3016289+00:00",
-  "LastChanged_Achievements": "2023-07-19T00:05:27.1553637+00:00",
+  "LastChanged_Achievements": "2023-07-19T03:23:56.3773502+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:23.6938503+00:00",
-  "LastUpdate_Ratings": "2023-07-18T23:58:52.2424175+00:00",
-  "LastUpdate_Achievements": "2023-07-19T00:05:27.1555212+00:00"
+  "LastUpdate_Ratings": "2023-07-19T03:17:04.8653527+00:00",
+  "LastUpdate_Achievements": "2023-07-19T03:23:56.3774219+00:00"
 }

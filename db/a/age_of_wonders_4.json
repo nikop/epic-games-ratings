@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -274,9 +274,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5010,
+  "EOS_Progressed": 5011,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5299,6 +5299,11 @@
       "Time": "2023-07-18T06:03:51.4969941+00:00",
       "NumProgressed": 5010,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-19T03:22:16.092214+00:00",
+      "NumProgressed": 5011,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 50,
@@ -5670,7 +5675,7 @@
       "Name": "Tipping the Scales",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "47",
@@ -5709,13 +5714,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5010,
+      "Progressed": 5011,
       "Completed": 4760
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5010,
+      "Progressed": 5011,
       "Completed": 5
     }
   ],
@@ -5723,8 +5728,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-07-11T11:00:15.2595187+00:00",
-  "LastChanged_Achievements": "2023-07-19T00:03:38.5065179+00:00",
+  "LastChanged_Achievements": "2023-07-19T03:22:16.0922136+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:27.6381321+00:00",
-  "LastUpdate_Ratings": "2023-07-18T23:59:53.3794635+00:00",
-  "LastUpdate_Achievements": "2023-07-19T00:03:38.5066544+00:00"
+  "LastUpdate_Ratings": "2023-07-19T03:17:54.9366341+00:00",
+  "LastUpdate_Achievements": "2023-07-19T03:22:16.0922771+00:00"
 }

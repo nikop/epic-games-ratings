@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1071,
+  "EOS_Progressed": 1072,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -640,6 +640,11 @@
       "Time": "2023-07-18T13:16:26.2211533+00:00",
       "NumProgressed": 1071,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-19T03:21:20.3723281+00:00",
+      "NumProgressed": 1072,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -955,7 +960,7 @@
       "Name": "Suit up",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ONEMODULE",
@@ -1027,7 +1032,7 @@
       "Name": "Beat you to it!",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "WINGRANDSLAM",
@@ -1066,7 +1071,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1071,
+      "Progressed": 1072,
       "Completed": 0
     }
   ],
@@ -1074,8 +1079,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-07-19T00:02:16.3769679+00:00",
+  "LastChanged_Achievements": "2023-07-19T03:21:20.3723276+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:52.2995402+00:00",
-  "LastUpdate_Ratings": "2023-07-18T23:58:27.5179571+00:00",
-  "LastUpdate_Achievements": "2023-07-19T00:02:16.3770521+00:00"
+  "LastUpdate_Ratings": "2023-07-19T03:16:46.5139003+00:00",
+  "LastUpdate_Achievements": "2023-07-19T03:21:20.3723687+00:00"
 }

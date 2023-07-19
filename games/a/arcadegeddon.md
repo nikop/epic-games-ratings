@@ -6,44 +6,44 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 92.00% | ~7,078 |
-| Photogenic | 88.00% | ~6,771 |
-| Surge Gauntlet Jockey | 86.00% | ~6,617 |
-| Plug It In | 85.00% | ~6,540 |
-| Adventure Time | 80.00% | ~6,155 |
-| Playing With Power | 78.00% | ~6,001 |
-| Coup d'Etat | 59.00% | ~4,539 |
-| You're Fired | 58.00% | ~4,463 |
-| Get Furious | 56.00% | ~4,309 |
-| Gunplay And Cosplay | 55.00% | ~4,232 |
-| Hacks In Stacks | 55.00% | ~4,232 |
-| Meching Enemies | 49.00% | ~3,770 |
-| Ticket Toddler | 45.00% | ~3,462 |
-| Booty Bashing | 42.00% | ~3,231 |
-| Field Medic | 38.00% | ~2,924 |
-| Here Comes a New Challenger | 38.00% | ~2,924 |
-| Rapid Response | 33.00% | ~2,539 |
-| Surge Ahead | 31.00% | ~2,385 |
-| The Full Monty | 31.00% | ~2,385 |
-| Guardian Angel | 30.00% | ~2,308 |
+| Let's Get This Party Started | 92.00% | ~7,082 |
+| Photogenic | 88.00% | ~6,774 |
+| Surge Gauntlet Jockey | 86.00% | ~6,620 |
+| Plug It In | 85.00% | ~6,543 |
+| Adventure Time | 80.00% | ~6,158 |
+| Playing With Power | 78.00% | ~6,004 |
+| Coup d'Etat | 59.00% | ~4,542 |
+| You're Fired | 58.00% | ~4,465 |
+| Get Furious | 56.00% | ~4,311 |
+| Gunplay And Cosplay | 55.00% | ~4,234 |
+| Hacks In Stacks | 55.00% | ~4,234 |
+| Meching Enemies | 49.00% | ~3,772 |
+| Ticket Toddler | 45.00% | ~3,464 |
+| Booty Bashing | 42.00% | ~3,233 |
+| Field Medic | 38.00% | ~2,925 |
+| Here Comes a New Challenger | 38.00% | ~2,925 |
+| Rapid Response | 33.00% | ~2,540 |
+| Surge Ahead | 31.00% | ~2,386 |
+| The Full Monty | 31.00% | ~2,386 |
+| Guardian Angel | 30.00% | ~2,309 |
 | Poppin Noggins | 25.00% | ~1,924 |
-| Clips and Crits | 21.00% | ~1,616 |
-| Grey Goo | 19.00% | ~1,462 |
-| Boss of Bosses | 15.00% | ~1,154 |
-| The Final Blow | 14.00% | ~1,077 |
-| Light My Fire | 13.00% | ~1,000 |
-| To Be Continued | 13.00% | ~1,000 |
-| Seasoned Adventurer | 12.00% | ~923 |
-| 1.21 Gigawatts | 11.00% | ~846 |
-| Get In The Ring! | 10.00% | ~769 |
-| This Is My Boomstick! | 10.00% | ~769 |
+| Clips and Crits | 21.00% | ~1,617 |
+| Grey Goo | 19.00% | ~1,463 |
+| Boss of Bosses | 15.00% | ~1,155 |
+| The Final Blow | 14.00% | ~1,078 |
+| Light My Fire | 13.00% | ~1,001 |
+| To Be Continued | 13.00% | ~1,001 |
+| Seasoned Adventurer | 12.00% | ~924 |
+| 1.21 Gigawatts | 11.00% | ~847 |
+| This Is My Boomstick! | 10.00% | ~770 |
+| Get In The Ring! | 9.00% | ~693 |
 | Rescue Ranger | 7.00% | ~539 |
 | Ticket Titan | 7.00% | ~539 |
 | Surge Gauntlet Scholar | 6.00% | ~462 |
+| Master of Arms | 5.00% | ~385 |
 | No Chill | 5.00% | ~385 |
 | Stop Hitting Yourself | 5.00% | ~385 |
 | Ground Control | 4.00% | ~308 |
-| Master of Arms | 4.00% | ~308 |
 | Start Your Collection | 4.00% | ~308 |
 | Team Player | 4.00% | ~308 |
 | Treasure Hunting | 4.00% | ~308 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~31 |
 | Pyrotechnical | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,694 (Ranked 122)  
+Progressed: 7,698 (Ranked 122)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,14 +147,14 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-16 | 7,659 | 0 |
 | 2023-07-17 | 7,669 | 0 |
 | 2023-07-18 | 7,693 | 0 |
-| 2023-07-19 | 7,694 | 0 |
+| 2023-07-19 | 7,698 | 0 |
 ## Awards
-Max (Great for Beginners): 62  (Ranked 385)  
-Sum: 451 (Ranked 303)  
-Diff (max vs sum): 82  
+Max (Great for Beginners): 63  (Ranked 383)  
+Sum: 453 (Ranked 303)  
+Diff (max vs sum): 80  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 62 |
+| This game is Great for Beginners | 63 |
 | This game is Relaxing | 62 |
 | This game has Quickly Understood Controls | 60 |
 | This game has Amazing Characters | 58 |
@@ -162,7 +162,7 @@ Diff (max vs sum): 82
 | This game has Diverse Characters | 58 |
 | This game has Obsessive Gameplay | 51 |
 | This game has Playful Visuals | 50 |
-| This game has Amazing Storytelling | 48 |
+| This game has Amazing Storytelling | 49 |
 | This game is Highly Recommended | 45 |
 | This game has a Creative Community | 38 |
 ## Ratings History
@@ -244,3 +244,4 @@ Diff (max vs sum): 82
 | 2023-07-01 | 4.49 | - | 62 | 487 |
 | 2023-07-02 | 4.49 | - | 62 | 488 |
 | 2023-07-12 | 4.49 | - | 62 | 451 |
+| 2023-07-19 | 4.49 | - | 63 | 453 |

@@ -4,8 +4,8 @@
   "ProductSlug": "the-entropy-centre-40bccd",
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2022-11-03T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 223,
+  "EOS_Progressed": 224,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -708,6 +708,11 @@
       "Time": "2023-07-15T12:10:16.7333154+00:00",
       "NumProgressed": 223,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-19T03:24:51.4980525+00:00",
+      "NumProgressed": 224,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -719,7 +724,7 @@
       "Name": "Wake Up",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_ACT10",
@@ -781,9 +786,9 @@
       "ID": "ACH_ACT2",
       "SetID": "2310cb1",
       "Name": "Time Gates",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 145
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_ACT3",
@@ -791,7 +796,7 @@
       "Name": "Command Centre",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH_ACT4",
@@ -807,7 +812,7 @@
       "Name": "Extendable Bridges",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACH_ACT6",
@@ -911,7 +916,7 @@
       "Name": "It\u0027s Rewind Time",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_SUMMERLOVE",
@@ -934,7 +939,7 @@
     {
       "ID": "2310cb1",
       "IsBase": true,
-      "Progressed": 223,
+      "Progressed": 224,
       "Completed": 0
     }
   ],
@@ -942,8 +947,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-07-19T00:06:30.7733904+00:00",
+  "LastChanged_Achievements": "2023-07-19T03:24:51.4980519+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:23.9864201+00:00",
-  "LastUpdate_Ratings": "2023-07-18T23:57:47.1569276+00:00",
-  "LastUpdate_Achievements": "2023-07-19T00:06:30.7734188+00:00"
+  "LastUpdate_Ratings": "2023-07-19T03:16:11.3423365+00:00",
+  "LastUpdate_Achievements": "2023-07-19T03:24:51.4980703+00:00"
 }

@@ -12,7 +12,7 @@ Rating: 4.48 (Ranked 588)
 | A Cheese Grater to the Face | 20.00% | ~214 |
 | It's like an haircut | 18.00% | ~193 |
 | Put it on a shelf | 18.00% | ~193 |
-| Suit up | 16.00% | ~171 |
+| Suit up | 16.00% | ~172 |
 | Walked like an Egyptian | 15.00% | ~161 |
 | Ride in the rising sun | 15.00% | ~161 |
 | Rookie No-No More | 13.00% | ~139 |
@@ -54,11 +54,11 @@ Rating: 4.48 (Ranked 588)
 | Better than half the studio... | 1.00% | ~11 |
 | Grandslam | 1.00% | ~11 |
 | Redout Grandmaster | 0.90% | ~10 |
-| Beat you to it! | 0.70% | ~7 |
+| Beat you to it! | 0.70% | ~8 |
 | I, need, more, shelves! | 0.50% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,071 (Ranked 186)  
+Progressed: 1,072 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,6 +117,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-16 | 1,066 | 0 |
 | 2023-07-17 | 1,069 | 0 |
 | 2023-07-18 | 1,071 | 0 |
+| 2023-07-19 | 1,072 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

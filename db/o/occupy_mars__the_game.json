@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -192,7 +192,7 @@
   "Tags": [],
   "EOS_Progressed": 1416,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2921,9 +2921,9 @@
       "ID": "NEW_ACHIEVEMENT_DETECTIVE",
       "SetID": "l546gc",
       "Name": "Detective",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 255
+      "UsersEstimate": 269
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -3162,8 +3162,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-07-17T08:58:14.4010535+00:00",
-  "LastChanged_Achievements": "2023-07-19T00:03:52.325025+00:00",
+  "LastChanged_Achievements": "2023-07-19T03:22:30.2045371+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:18.762224+00:00",
-  "LastUpdate_Ratings": "2023-07-18T23:57:43.6262608+00:00",
-  "LastUpdate_Achievements": "2023-07-19T00:03:52.3251228+00:00"
+  "LastUpdate_Ratings": "2023-07-19T03:16:07.3676314+00:00",
+  "LastUpdate_Achievements": "2023-07-19T03:22:30.2045798+00:00"
 }

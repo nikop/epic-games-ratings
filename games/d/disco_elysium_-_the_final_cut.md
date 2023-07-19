@@ -11,25 +11,25 @@ Number of Ratings: 1,611  (23.09.2022)
 | The World's Most Laughable Centrist | 20.00% | ~24,670 |
 | Il Coppo Del'Arte! | 18.00% | ~22,203 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,736 |
-| Hyperstellar Law Official | 15.00% | ~18,502 |
+| Hyperstellar Law Official | 15.00% | ~18,503 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~17,269 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~16,035 |
-| Gurdi-Ball Is Lit | 13.00% | ~16,035 |
-| Truly Rabid *Traditionalist* | 11.00% | ~13,568 |
-| The Figurines Won't Win Her Back | 9.00% | ~11,101 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~16,036 |
+| Gurdi-Ball Is Lit | 13.00% | ~16,036 |
+| Truly Rabid *Traditionalist* | 11.00% | ~13,569 |
+| The Figurines Won't Win Her Back | 9.00% | ~11,102 |
 | Unbelievably Boring **** | 8.00% | ~9,868 |
 | Enemy Of The Physical Realm | 8.00% | ~9,868 |
 | Hardie's Heroes | 6.00% | ~7,401 |
 | The Lawbringer | 4.00% | ~4,934 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~4,934 |
-| The Opener Of The Eighth Seal | 3.00% | ~3,700 |
-| Bother Kim After Hours | 3.00% | ~3,700 |
+| The Opener Of The Eighth Seal | 3.00% | ~3,701 |
+| Bother Kim After Hours | 3.00% | ~3,701 |
 | Baddest Of the Bad Cops | 2.00% | ~2,467 |
 | Expert Advanced Remote Viewer | 2.00% | ~2,467 |
 | Recruit Detective Kuuno de Ruyter | 2.00% | ~2,467 |
 | Wheel of Pleasure and Light | 2.00% | ~2,467 |
-| Massive Torque Dork | 1.00% | ~1,233 |
-| Avowed Inframaterialist | 1.00% | ~1,233 |
+| Massive Torque Dork | 1.00% | ~1,234 |
+| Avowed Inframaterialist | 1.00% | ~1,234 |
 | Real Musor | 0.90% | ~1,110 |
 | Baddest Brow in Town | 0.80% | ~987 |
 | Committee of la Responsabilité | 0.80% | ~987 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~123 |
 | What body? | 0.10% | ~123 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 123,349 (Ranked 63)  
+Progressed: 123,351 (Ranked 63)  
 Completed: 27 (0.02%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 27 (0.02%) (Ranked 215)
 | 2023-07-16 | 123,261 | 27 |
 | 2023-07-17 | 123,301 | 27 |
 | 2023-07-18 | 123,348 | 27 |
-| 2023-07-19 | 123,349 | 27 |
+| 2023-07-19 | 123,351 | 27 |
 ## Awards
 Max (Character Customization): 705  (Ranked 162)  
 Sum: 1,067 (Ranked 233)  

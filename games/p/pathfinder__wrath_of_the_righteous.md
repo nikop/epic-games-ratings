@@ -6,14 +6,14 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 20.00% | ~2,078 |
+| Devoured by Darkness | 20.00% | ~2,079 |
 | A Spark | 15.00% | ~1,559 |
 | Burning City | 14.00% | ~1,455 |
 | Mythic Choices | 12.00% | ~1,247 |
 | Defender's Heart | 12.00% | ~1,247 |
 | Banner over the Citadel | 11.00% | ~1,143 |
 | Queen's Gratitude | 10.00% | ~1,039 |
-| Fifth Crusade | 6.00% | ~623 |
+| Fifth Crusade | 6.00% | ~624 |
 | Embrace of the Abyss | 5.00% | ~520 |
 | Path of the Angel | 5.00% | ~520 |
 | Demonic and Divine | 5.00% | ~520 |
@@ -39,10 +39,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | Core of the Riddle | 2.00% | ~208 |
 | Your First Big Enemy | 2.00% | ~208 |
 | Truly Important Deed | 2.00% | ~208 |
-| Stay Underground | 2.00% | ~183 |
-| Hanged Man's Notes | 2.00% | ~183 |
-| Sarkoris Will Be Green | 2.00% | ~183 |
-| The Lady of the Forest | 2.00% | ~183 |
+| Stay Underground | 2.00% | ~184 |
+| Hanged Man's Notes | 2.00% | ~184 |
+| Sarkoris Will Be Green | 2.00% | ~184 |
+| The Lady of the Forest | 2.00% | ~184 |
 | Path of the Demon | 1.00% | ~104 |
 | Abyssal Conspiracy | 1.00% | ~104 |
 | This Wall Won't Fall | 1.00% | ~92 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,391 (Ranked 117)  
+Progressed: 10,393 (Ranked 117)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-16 | 10,363 | 0 |
 | 2023-07-17 | 10,375 | 0 |
 | 2023-07-18 | 10,390 | 0 |
-| 2023-07-19 | 10,391 | 0 |
+| 2023-07-19 | 10,393 | 0 |
 ## Awards
 Max (Character Customization): 1,682  (Ranked 117)  
 Sum: 6,821 (Ranked 113)  

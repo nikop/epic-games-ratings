@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 261,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -896,9 +896,9 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 7916,
+  "EOS_Progressed": 7917,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3436,6 +3436,11 @@
       "Time": "2023-07-18T17:05:12.8563098+00:00",
       "NumProgressed": 7916,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-07-19T03:23:09.4351097+00:00",
+      "NumProgressed": 7917,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -3471,7 +3476,7 @@
       "Name": "Focus!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 4987
+      "UsersEstimate": 4988
     },
     {
       "ID": "DemonCastleRestoration",
@@ -3495,7 +3500,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 3166
+      "UsersEstimate": 3167
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -3519,7 +3524,7 @@
       "Name": "The God of Battle",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "GoHome",
@@ -3527,7 +3532,7 @@
       "Name": "Go Home...",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2137
+      "UsersEstimate": 2138
     },
     {
       "ID": "HeroSlayer",
@@ -3535,7 +3540,7 @@
       "Name": "The Hero Killer",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 2216
+      "UsersEstimate": 2217
     },
     {
       "ID": "LeoniasFall",
@@ -3559,7 +3564,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 3166
+      "UsersEstimate": 3167
     },
     {
       "ID": "RookieWelcome",
@@ -3575,7 +3580,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 4987
+      "UsersEstimate": 4988
     },
     {
       "ID": "SavedElderEnt_2",
@@ -3583,7 +3588,7 @@
       "Name": "Quick Movements",
       "Percentage": 34,
       "XP": 90,
-      "UsersEstimate": 2691
+      "UsersEstimate": 2692
     },
     {
       "ID": "SkeletonKing",
@@ -3599,7 +3604,7 @@
       "Name": "Inventory Management",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2691
+      "UsersEstimate": 2692
     },
     {
       "ID": "TheLegendBegins",
@@ -3607,7 +3612,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7362
+      "UsersEstimate": 7363
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -3623,7 +3628,7 @@
       "Name": "Master of Speed",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "WhattoBuy",
@@ -3631,22 +3636,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6649
+      "UsersEstimate": 6650
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7916,
+      "Progressed": 7917,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-07-16T13:11:50.188499+00:00",
-  "LastChanged_Achievements": "2023-07-19T00:04:41.1864966+00:00",
+  "LastChanged_Achievements": "2023-07-19T03:23:09.4351093+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:55.8883979+00:00",
-  "LastUpdate_Ratings": "2023-07-18T23:59:24.2180354+00:00",
-  "LastUpdate_Achievements": "2023-07-19T00:04:41.1865478+00:00"
+  "LastUpdate_Ratings": "2023-07-19T03:17:34.0956617+00:00",
+  "LastUpdate_Achievements": "2023-07-19T03:23:09.4351355+00:00"
 }
