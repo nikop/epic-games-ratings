@@ -103,7 +103,7 @@
 | 101 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.06% |
 | 101 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.06% |
 | 103 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.03% |
-| 104 | [Sable](games/s/sable.md) | 0.98% |
+| 104 | [Sable](games/s/sable.md) | 0.97% |
 | 105 | [Adios](games/a/adios.md) | 0.96% |
 | 105 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.96% |
 | 107 | [Hades](games/h/hades.md) | 0.89% |
