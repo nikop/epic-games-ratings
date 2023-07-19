@@ -37,8 +37,8 @@
 | 35 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 36 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.66% |
 | 37 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
-| 38 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 5.26% |
-| 39 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.00% |
+| 38 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 5.00% |
+| 38 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.00% |
 | 40 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.88% |
 | 41 | [JARS](games/j/jars.md) | 4.84% |
 | 42 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.76% |
