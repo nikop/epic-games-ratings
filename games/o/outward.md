@@ -17,9 +17,9 @@ Number of Ratings: 266  (23.09.2022)
 | Science, Troglodyte! | 23.00% | ~703 |
 | Home Sweet Home | 22.00% | ~673 |
 | Encyclopedic! | 20.00% | ~611 |
+| The Power of Family | 17.00% | ~520 |
 | A Fortress Toppled! | 16.00% | ~489 |
 | Apex Predator | 16.00% | ~489 |
-| The Power of Family | 16.00% | ~489 |
 | Strange amalgams | 12.00% | ~367 |
 | The Power of Faith | 12.00% | ~367 |
 | The Power of Freedom | 9.00% | ~275 |

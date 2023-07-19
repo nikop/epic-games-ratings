@@ -9039,18 +9039,24 @@
       "Rating": 4.62,
       "NumberOfAwards": 193148,
       "NumberOfAwardsMax": 73529
+    },
+    {
+      "Time": "2023-07-19T21:58:25.4906676+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 193226,
+      "NumberOfAwardsMax": 73607
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 193148,
-  "NumberOfAwardsMax": 73529,
+  "NumberOfAwards": 193226,
+  "NumberOfAwardsMax": 73607,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 73529
+      "Count": 73607
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -9119,9 +9125,9 @@
       "Count": 5364
     }
   ],
-  "EOS_Progressed": 866585,
+  "EOS_Progressed": 866588,
   "EOS_Completed": 1885,
-  "EOS_NewPlayers": 1327,
+  "EOS_NewPlayers": 1325,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -18899,6 +18905,11 @@
       "Time": "2023-07-19T21:03:12.0791395+00:00",
       "NumProgressed": 866585,
       "NumCompleted": 1885
+    },
+    {
+      "Time": "2023-07-19T22:03:31.3272422+00:00",
+      "NumProgressed": 866588,
+      "NumCompleted": 1885
     }
   ],
   "TotalAchievements": 44,
@@ -18934,7 +18945,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 155985
+      "UsersEstimate": 155986
     },
     {
       "ID": "Denied",
@@ -18942,7 +18953,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 329302
+      "UsersEstimate": 329303
     },
     {
       "ID": "FollowingTheRiver",
@@ -19046,7 +19057,7 @@
       "Name": "Must Be Rats",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 34663
+      "UsersEstimate": 34664
     },
     {
       "ID": "NeverFadeAway",
@@ -19078,7 +19089,7 @@
       "Name": "Life of the Road",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 173317
+      "UsersEstimate": 173318
     },
     {
       "ID": "Roleplayer",
@@ -19086,7 +19097,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 242644
+      "UsersEstimate": 242645
     },
     {
       "ID": "Specialist",
@@ -19102,7 +19113,7 @@
       "Name": "Temperance",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 34663
+      "UsersEstimate": 34664
     },
     {
       "ID": "ThatIsSoHardForTheKnees",
@@ -19126,7 +19137,7 @@
       "Name": "The Fool",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 589278
+      "UsersEstimate": 589280
     },
     {
       "ID": "TheHermit",
@@ -19134,7 +19145,7 @@
       "Name": "The Hermit",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 207980
+      "UsersEstimate": 207981
     },
     {
       "ID": "TheHightPriestess",
@@ -19150,7 +19161,7 @@
       "Name": "The Lovers",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 294639
+      "UsersEstimate": 294640
     },
     {
       "ID": "TheStar",
@@ -19174,7 +19185,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 225312
+      "UsersEstimate": 225313
     },
     {
       "ID": "TheWorld",
@@ -19182,7 +19193,7 @@
       "Name": "The World",
       "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 147319
+      "UsersEstimate": 147320
     },
     {
       "ID": "ThisIsPacifica",
@@ -19222,7 +19233,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 95324
+      "UsersEstimate": 95325
     },
     {
       "ID": "UnderPressure",
@@ -19261,15 +19272,15 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 866585,
+      "Progressed": 866588,
       "Completed": 1885
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-07-19T20:57:58.2835682+00:00",
-  "LastChanged_Achievements": "2023-07-19T21:03:12.0791391+00:00",
+  "LastChanged": "2023-07-19T21:58:25.4906674+00:00",
+  "LastChanged_Achievements": "2023-07-19T22:03:31.3272417+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:20.7146493+00:00",
-  "LastUpdate_Ratings": "2023-07-19T20:57:58.2835688+00:00",
-  "LastUpdate_Achievements": "2023-07-19T21:03:12.0792128+00:00"
+  "LastUpdate_Ratings": "2023-07-19T21:58:25.4906682+00:00",
+  "LastUpdate_Achievements": "2023-07-19T22:03:31.3273639+00:00"
 }

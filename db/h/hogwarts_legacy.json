@@ -5214,9 +5214,9 @@
       "Count": 560
     }
   ],
-  "EOS_Progressed": 288050,
+  "EOS_Progressed": 288052,
   "EOS_Completed": 431,
-  "EOS_NewPlayers": 965,
+  "EOS_NewPlayers": 952,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -14894,6 +14894,11 @@
       "Time": "2023-07-19T21:04:04.013325+00:00",
       "NumProgressed": 288050,
       "NumCompleted": 431
+    },
+    {
+      "Time": "2023-07-19T22:04:32.7276008+00:00",
+      "NumProgressed": 288052,
+      "NumCompleted": 431
     }
   ],
   "TotalAchievements": 45,
@@ -14945,7 +14950,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 5,
       "XP": 70,
-      "UsersEstimate": 14402
+      "UsersEstimate": 14403
     },
     {
       "ID": "PFA_15",
@@ -15025,7 +15030,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 25924
+      "UsersEstimate": 25925
     },
     {
       "ID": "PFA_24",
@@ -15041,7 +15046,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14402
+      "UsersEstimate": 14403
     },
     {
       "ID": "PFA_26",
@@ -15073,7 +15078,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14402
+      "UsersEstimate": 14403
     },
     {
       "ID": "PFA_3",
@@ -15089,7 +15094,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 25924
+      "UsersEstimate": 25925
     },
     {
       "ID": "PFA_31",
@@ -15097,7 +15102,7 @@
       "Name": "Savvy Spender",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2880
+      "UsersEstimate": 2881
     },
     {
       "ID": "PFA_32",
@@ -15177,7 +15182,7 @@
       "Name": "Demiguise Dread",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 2880
+      "UsersEstimate": 2881
     },
     {
       "ID": "PFA_41",
@@ -15193,7 +15198,7 @@
       "Name": "Raising Expectations",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 14402
+      "UsersEstimate": 14403
     },
     {
       "ID": "PFA_43",
@@ -15201,7 +15206,7 @@
       "Name": "Finishing Touches",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2880
+      "UsersEstimate": 2881
     },
     {
       "ID": "PFA_44",
@@ -15217,7 +15222,7 @@
       "Name": "A Forte for Achievement",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 2880
+      "UsersEstimate": 2881
     },
     {
       "ID": "PFA_5",
@@ -15249,7 +15254,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 25924
+      "UsersEstimate": 25925
     },
     {
       "ID": "PFA_9",
@@ -15264,7 +15269,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 288050,
+      "Progressed": 288052,
       "Completed": 431
     }
   ],
@@ -15272,8 +15277,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-07-19T20:57:35.0842448+00:00",
-  "LastChanged_Achievements": "2023-07-19T21:04:04.0133246+00:00",
+  "LastChanged_Achievements": "2023-07-19T22:04:32.7276003+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:19.3801839+00:00",
-  "LastUpdate_Ratings": "2023-07-19T20:57:35.0842453+00:00",
-  "LastUpdate_Achievements": "2023-07-19T21:04:04.0133975+00:00"
+  "LastUpdate_Ratings": "2023-07-19T21:57:57.8728053+00:00",
+  "LastUpdate_Achievements": "2023-07-19T22:04:32.7277075+00:00"
 }

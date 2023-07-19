@@ -154,9 +154,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2968,
+  "EOS_Progressed": 2969,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2859,6 +2859,11 @@
       "Time": "2023-07-19T20:01:31.9092509+00:00",
       "NumProgressed": 2968,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-19T22:01:24.9634039+00:00",
+      "NumProgressed": 2969,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2974,7 +2979,7 @@
       "Name": "Regicide",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "ACH_KILL_UNDETECTED",
@@ -2982,7 +2987,7 @@
       "Name": "Call Me Snake",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1810
+      "UsersEstimate": 1811
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -2990,7 +2995,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 1959
+      "UsersEstimate": 1960
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -3062,7 +3067,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 1751
+      "UsersEstimate": 1752
     },
     {
       "ID": "ACH_MISSION_02",
@@ -3102,7 +3107,7 @@
       "Name": "Living Nightmare",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "ACH_MISSION_07",
@@ -3166,7 +3171,7 @@
       "Name": "Snatched Out",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2196
+      "UsersEstimate": 2197
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -3174,7 +3179,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 2404
+      "UsersEstimate": 2405
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -3190,7 +3195,7 @@
       "Name": "People Person",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 1573
+      "UsersEstimate": 1574
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -3198,7 +3203,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1187
+      "UsersEstimate": 1188
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -3214,7 +3219,7 @@
       "Name": "The More The Merrier",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "ACH_USE_REDEMPTION",
@@ -3229,7 +3234,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 2968,
+      "Progressed": 2969,
       "Completed": 0
     }
   ],
@@ -3237,8 +3242,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-19T03:17:48.8751348+00:00",
-  "LastChanged_Achievements": "2023-07-19T21:00:20.7523268+00:00",
+  "LastChanged_Achievements": "2023-07-19T22:01:24.9634035+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:18.2957495+00:00",
-  "LastUpdate_Ratings": "2023-07-19T20:59:11.6620076+00:00",
-  "LastUpdate_Achievements": "2023-07-19T21:00:20.7523702+00:00"
+  "LastUpdate_Ratings": "2023-07-19T21:59:57.9236782+00:00",
+  "LastUpdate_Achievements": "2023-07-19T22:01:24.9634631+00:00"
 }

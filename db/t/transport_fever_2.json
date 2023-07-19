@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 341,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -522,9 +522,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 1447,
+  "EOS_Progressed": 1448,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2652,6 +2652,11 @@
       "Time": "2023-07-19T13:13:46.0502014+00:00",
       "NumProgressed": 1447,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-19T22:03:58.6005231+00:00",
+      "NumProgressed": 1448,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 61,
@@ -2687,7 +2692,7 @@
       "Name": "Transport tycoon",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "achAccumulate1BHard",
@@ -2741,9 +2746,9 @@
       "ID": "achBackToTheFuture",
       "SetID": "dgl390n",
       "Name": "Back to the future",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 116
     },
     {
       "ID": "achBridgeLength",
@@ -2759,7 +2764,7 @@
       "Name": "First bus stop",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "achBuildTrainStation",
@@ -2767,7 +2772,7 @@
       "Name": "First train station",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "achCannotGetEnough",
@@ -2799,7 +2804,7 @@
       "Name": "Old timer",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "achCompleteCampaignB",
@@ -2821,9 +2826,9 @@
       "ID": "achCompleteFirstMission",
       "SetID": "dgl390n",
       "Name": "Cadet",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 767
+      "UsersEstimate": 753
     },
     {
       "ID": "achCreateLine",
@@ -2831,7 +2836,7 @@
       "Name": "First line",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1115
     },
     {
       "ID": "achCrowdInATrain",
@@ -2863,7 +2868,7 @@
       "Name": "First aircraft arrived",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "achFirstBusArrived",
@@ -2871,7 +2876,7 @@
       "Name": "First bus arrived",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 955
+      "UsersEstimate": 956
     },
     {
       "ID": "achFirstCargoTransported",
@@ -2879,7 +2884,7 @@
       "Name": "First cargo item on board",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "achFirstCargoWaiting",
@@ -2887,7 +2892,7 @@
       "Name": "First cargo item waiting",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "achFirstElectricTrainArrived",
@@ -2895,7 +2900,7 @@
       "Name": "First electric train arrived",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "achFirstIndustryUpgrade",
@@ -2903,7 +2908,7 @@
       "Name": "First industry upgraded",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "achFirstPassengerTransported",
@@ -2911,7 +2916,7 @@
       "Name": "First passenger on board",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "achFirstPassengerWaiting",
@@ -2919,7 +2924,7 @@
       "Name": "First passenger waiting",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "achFirstShipArrived",
@@ -2935,7 +2940,7 @@
       "Name": "First steam train arrived",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "achGlacierExpress",
@@ -2959,7 +2964,7 @@
       "Name": "Settled down",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "achHq20",
@@ -3007,7 +3012,7 @@
       "Name": "Mass production",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "achMetropolis",
@@ -3023,7 +3028,7 @@
       "Name": "Exemplary student",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "achMuseumLine",
@@ -3087,7 +3092,7 @@
       "Name": "Cargo hub",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "achTopSpeed120",
@@ -3095,7 +3100,7 @@
       "Name": "High speed",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "achTopSpeed300",
@@ -3150,15 +3155,15 @@
     {
       "ID": "dgl390n",
       "IsBase": true,
-      "Progressed": 1447,
+      "Progressed": 1448,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-07-19T12:00:26.9930354+00:00",
-  "LastChanged_Achievements": "2023-07-19T21:03:35.1009309+00:00",
+  "LastChanged_Achievements": "2023-07-19T22:03:58.6005226+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:44.8284102+00:00",
-  "LastUpdate_Ratings": "2023-07-19T20:59:31.5993684+00:00",
-  "LastUpdate_Achievements": "2023-07-19T21:03:35.1009858+00:00"
+  "LastUpdate_Ratings": "2023-07-19T22:00:22.8553245+00:00",
+  "LastUpdate_Achievements": "2023-07-19T22:03:58.6006082+00:00"
 }

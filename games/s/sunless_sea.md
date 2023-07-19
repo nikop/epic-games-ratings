@@ -8,7 +8,7 @@ Number of Ratings: 401  (23.09.2022)
 | ---- | ---------- | ----- |
 | Sink Beneath the Waves | 36.00% | ~12,163 |
 | Sweet Sorrow | 18.00% | ~6,081 |
-| Rules the Waves | 17.00% | ~5,743 |
+| Rules the Waves | 17.00% | ~5,744 |
 | Thou, All-Shaking Thunder | 15.00% | ~5,068 |
 | Rival | 14.00% | ~4,730 |
 | Correspondent | 12.00% | ~4,054 |
@@ -49,7 +49,7 @@ Number of Ratings: 401  (23.09.2022)
 | No regrets | 0.90% | ~304 |
 | Depth charge | 0.90% | ~304 |
 | What lies beneath | 0.80% | ~270 |
-| Stone's Curse | 0.70% | ~236 |
+| Stone's Curse | 0.70% | ~237 |
 | Five Years at Zee | 0.50% | ~169 |
 | The Lady's Parlour | 0.20% | ~68 |
 | A Past Wreathed in Shadows | 0.20% | ~68 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~34 |
 | Ten Years at Zee | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,785 (Ranked 93)  
+Progressed: 33,786 (Ranked 93)  
 Completed: 3 (0.01%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 3 (0.01%) (Ranked 225)
 | 2023-07-16 | 33,598 | 3 |
 | 2023-07-17 | 33,663 | 3 |
 | 2023-07-18 | 33,736 | 3 |
-| 2023-07-19 | 33,785 | 3 |
+| 2023-07-19 | 33,786 | 3 |
 ## Awards
 Max (Character Customization): 209  (Ranked 266)  
 Sum: 279 (Ranked 339)  

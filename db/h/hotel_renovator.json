@@ -86,11 +86,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 859,
+  "EOS_Progressed": 860,
   "EOS_Completed": 15,
   "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.75,
+  "EOS_Completed_Percentage": 1.74,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:47.1560439+00:00",
@@ -936,6 +936,11 @@
       "Time": "2023-07-16T15:04:56.1993037+00:00",
       "NumProgressed": 859,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-07-19T22:04:53.9766662+00:00",
+      "NumProgressed": 860,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 27,
@@ -955,7 +960,7 @@
       "Name": "King of hospitality",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_CHICKEN_ENCOUNTERED",
@@ -963,7 +968,7 @@
       "Name": "Soulmate?",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "ACH_DICE_WIN",
@@ -971,7 +976,7 @@
       "Name": "Roll with it",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -1027,7 +1032,7 @@
       "Name": "Aesop\u0027s fable",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "ACH_GRANDPA_BOY_SUIT",
@@ -1051,7 +1056,7 @@
       "Name": "And so it begins",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -1075,7 +1080,7 @@
       "Name": "Island boy",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ACH_POWER_OUTRAGE_FIXED",
@@ -1099,7 +1104,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "ACH_STAR_2",
@@ -1107,7 +1112,7 @@
       "Name": "Moving up",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "ACH_STAR_3",
@@ -1145,9 +1150,9 @@
       "ID": "ACH_TIP_EARNED",
       "SetID": "7k95e4n",
       "Name": "Excellent service",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 421
+      "UsersEstimate": 413
     },
     {
       "ID": "ACH_WALLET_RETURNED",
@@ -1155,14 +1160,14 @@
       "Name": "I think you dropped this",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     }
   ],
   "AchievementSets": [
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 859,
+      "Progressed": 860,
       "Completed": 15
     }
   ],
@@ -1170,8 +1175,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-07-05T18:57:43.3386981+00:00",
-  "LastChanged_Achievements": "2023-07-19T21:04:21.5010719+00:00",
+  "LastChanged_Achievements": "2023-07-19T22:04:53.9766657+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:03.5384726+00:00",
-  "LastUpdate_Ratings": "2023-07-19T20:57:23.9348671+00:00",
-  "LastUpdate_Achievements": "2023-07-19T21:04:21.50109+00:00"
+  "LastUpdate_Ratings": "2023-07-19T21:57:43.4336181+00:00",
+  "LastUpdate_Achievements": "2023-07-19T22:04:53.976702+00:00"
 }

@@ -258,9 +258,9 @@
       "ID": "no_one_is_safe",
       "SetID": "a3kkelb",
       "Name": "No One Is Safe",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 137
     },
     {
       "ID": "off_his_meds",
@@ -282,9 +282,9 @@
       "ID": "pearce",
       "SetID": "a3kkelb",
       "Name": "Pearce",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "personal_life",
@@ -298,9 +298,9 @@
       "ID": "save_dad",
       "SetID": "a3kkelb",
       "Name": "Save Dad",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "shady_truth",
@@ -314,9 +314,9 @@
       "ID": "unhelpful",
       "SetID": "a3kkelb",
       "Name": "Unhelpful",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "use_your_connections",
@@ -347,8 +347,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-07-19T21:02:15.7097977+00:00",
+  "LastChanged_Achievements": "2023-07-19T22:02:20.5607176+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:20.5366451+00:00",
-  "LastUpdate_Ratings": "2023-07-19T20:57:34.4450131+00:00",
-  "LastUpdate_Achievements": "2023-07-19T21:02:15.709826+00:00"
+  "LastUpdate_Ratings": "2023-07-19T21:57:57.050605+00:00",
+  "LastUpdate_Achievements": "2023-07-19T22:02:20.5607332+00:00"
 }

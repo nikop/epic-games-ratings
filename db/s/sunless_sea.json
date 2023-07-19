@@ -667,9 +667,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 33785,
+  "EOS_Progressed": 33786,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 466,
+  "EOS_NewPlayers": 464,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9722,6 +9722,11 @@
       "Time": "2023-07-19T21:02:11.5163054+00:00",
       "NumProgressed": 33785,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-19T22:02:15.4654619+00:00",
+      "NumProgressed": 33786,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -9749,7 +9754,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 5743
+      "UsersEstimate": 5744
     },
     {
       "ID": "ach_antiquarian10",
@@ -9805,7 +9810,7 @@
       "Name": "Stone\u0027s Curse",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "ach_cursestorm",
@@ -10164,15 +10169,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 33785,
+      "Progressed": 33786,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-06-27T03:23:10.0352371+00:00",
-  "LastChanged_Achievements": "2023-07-19T21:02:11.5163049+00:00",
+  "LastChanged_Achievements": "2023-07-19T22:02:15.4654614+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:41.8082473+00:00",
-  "LastUpdate_Ratings": "2023-07-19T20:59:30.6099948+00:00",
-  "LastUpdate_Achievements": "2023-07-19T21:02:11.5163901+00:00"
+  "LastUpdate_Ratings": "2023-07-19T22:00:21.5801056+00:00",
+  "LastUpdate_Achievements": "2023-07-19T22:02:15.4656088+00:00"
 }

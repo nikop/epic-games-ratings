@@ -365,9 +365,9 @@
       "ID": "1",
       "SetID": "39djiaj",
       "Name": "First Win",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "10",
@@ -421,9 +421,9 @@
       "ID": "16",
       "SetID": "39djiaj",
       "Name": "Kick It",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "17",
@@ -453,9 +453,9 @@
       "ID": "2",
       "SetID": "39djiaj",
       "Name": "Homer",
-      "Percentage": 71,
+      "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "20",
@@ -509,9 +509,9 @@
       "ID": "26",
       "SetID": "39djiaj",
       "Name": "Living Room Secret Spot",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "27",
@@ -637,17 +637,17 @@
       "ID": "41",
       "SetID": "39djiaj",
       "Name": "Bathroom Secret Spot",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "5",
       "SetID": "39djiaj",
       "Name": "Angry Dad",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "6",
@@ -692,8 +692,8 @@
   ],
   "FirstSeen": "2023-05-27T21:59:02.7354993+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:07.9162458+00:00",
-  "LastChanged_Achievements": "2023-07-19T21:02:17.8278559+00:00",
+  "LastChanged_Achievements": "2023-07-19T22:02:23.0683573+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:10.1804133+00:00",
-  "LastUpdate_Ratings": "2023-07-19T20:59:07.0888117+00:00",
-  "LastUpdate_Achievements": "2023-07-19T21:02:17.8278824+00:00"
+  "LastUpdate_Ratings": "2023-07-19T21:59:51.8031235+00:00",
+  "LastUpdate_Achievements": "2023-07-19T22:02:23.0683941+00:00"
 }

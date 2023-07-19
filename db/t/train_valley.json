@@ -398,9 +398,9 @@
       "ID": "03_philatelist",
       "SetID": "chb1m60",
       "Name": "Philatelist",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 91
     },
     {
       "ID": "04_tycoon",
@@ -478,9 +478,9 @@
       "ID": "13_bunkrupt",
       "SetID": "chb1m60",
       "Name": "It\u0027s no coincidence.",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 104
+      "UsersEstimate": 107
     },
     {
       "ID": "14_woodcutter",
@@ -510,9 +510,9 @@
       "ID": "17_builder",
       "SetID": "chb1m60",
       "Name": "Builder",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 179
+      "UsersEstimate": 182
     },
     {
       "ID": "18_foreman",
@@ -646,9 +646,9 @@
       "ID": "34_needtothink",
       "SetID": "chb1m60",
       "Name": "Need to think",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 133
+      "UsersEstimate": 136
     },
     {
       "ID": "35_achtung",
@@ -702,8 +702,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-03-31T05:57:32.453108+00:00",
-  "LastChanged_Achievements": "2023-07-19T21:03:19.1964034+00:00",
+  "LastChanged_Achievements": "2023-07-19T22:03:39.4722397+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:08.5245199+00:00",
-  "LastUpdate_Ratings": "2023-07-19T20:57:45.0872876+00:00",
-  "LastUpdate_Achievements": "2023-07-19T21:03:19.1964281+00:00"
+  "LastUpdate_Ratings": "2023-07-19T21:58:10.1123927+00:00",
+  "LastUpdate_Achievements": "2023-07-19T22:03:39.4722738+00:00"
 }

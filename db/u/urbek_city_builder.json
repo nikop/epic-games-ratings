@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 276,
+  "EOS_Progressed": 277,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -737,6 +737,11 @@
       "Time": "2023-07-18T07:07:20.6818181+00:00",
       "NumProgressed": 276,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-19T22:07:16.9693109+00:00",
+      "NumProgressed": 277,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -1020,7 +1025,7 @@
       "Name": "I like my life",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "FELIZ_2",
@@ -1074,9 +1079,9 @@
       "ID": "GREEN_AREAS_1",
       "SetID": "44dlcg0",
       "Name": "I like parks",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 144
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -1130,9 +1135,9 @@
       "ID": "NIGHT_LIFE_1",
       "SetID": "44dlcg0",
       "Name": "It is nice to share with friends in the city",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 75
     },
     {
       "ID": "NIGHT_LIFE_2",
@@ -1178,9 +1183,9 @@
       "ID": "POPULATION_1",
       "SetID": "44dlcg0",
       "Name": "Small town",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 180
     },
     {
       "ID": "POPULATION_2",
@@ -1266,9 +1271,9 @@
       "ID": "SPORTS_1",
       "SetID": "44dlcg0",
       "Name": "Sport is good for you",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 72
     },
     {
       "ID": "SPORTS_2",
@@ -1362,9 +1367,9 @@
       "ID": "WELFARE_1",
       "SetID": "44dlcg0",
       "Name": "Soviet town",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 53
     },
     {
       "ID": "WELFARE_2",
@@ -1379,7 +1384,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 276,
+      "Progressed": 277,
       "Completed": 0
     }
   ],
@@ -1387,8 +1392,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-07-19T21:06:20.5278772+00:00",
+  "LastChanged_Achievements": "2023-07-19T22:07:16.9693105+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:52.813456+00:00",
-  "LastUpdate_Ratings": "2023-07-19T20:58:49.1897768+00:00",
-  "LastUpdate_Achievements": "2023-07-19T21:06:20.5279513+00:00"
+  "LastUpdate_Ratings": "2023-07-19T21:59:30.2161049+00:00",
+  "LastUpdate_Achievements": "2023-07-19T22:07:16.969409+00:00"
 }
