@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -151,9 +151,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1323,
+  "EOS_Progressed": 1324,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1151,6 +1151,11 @@
       "Time": "2023-07-18T16:06:04.8966884+00:00",
       "NumProgressed": 1323,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-19T06:05:18.8768472+00:00",
+      "NumProgressed": 1324,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 56,
@@ -1232,9 +1237,9 @@
       "ID": "achievement_endTurnInGrayplane5Times",
       "SetID": "95dc8p",
       "Name": "Passing Shadow",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 370
+      "UsersEstimate": 384
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -1354,7 +1359,7 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -1609,15 +1614,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1323,
+      "Progressed": 1324,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-07-08T20:01:41.3411794+00:00",
-  "LastChanged_Achievements": "2023-07-19T05:04:42.5546432+00:00",
+  "LastChanged_Achievements": "2023-07-19T06:05:18.8768466+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:39.8918764+00:00",
-  "LastUpdate_Ratings": "2023-07-19T05:00:16.4412779+00:00",
-  "LastUpdate_Achievements": "2023-07-19T05:04:42.554692+00:00"
+  "LastUpdate_Ratings": "2023-07-19T06:01:20.2730309+00:00",
+  "LastUpdate_Achievements": "2023-07-19T06:05:18.8768889+00:00"
 }

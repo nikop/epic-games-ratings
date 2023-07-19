@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -382,9 +382,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6997,
+  "EOS_Progressed": 6998,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -5672,6 +5672,11 @@
       "Time": "2023-07-18T11:04:34.9910994+00:00",
       "NumProgressed": 6997,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-07-19T06:05:13.0590966+00:00",
+      "NumProgressed": 6998,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 29,
@@ -5723,7 +5728,7 @@
       "Name": "Street Sweeper",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1259
+      "UsersEstimate": 1260
     },
     {
       "ID": "ACH07",
@@ -5787,7 +5792,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1189
+      "UsersEstimate": 1190
     },
     {
       "ID": "ACH15",
@@ -5803,7 +5808,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1749
+      "UsersEstimate": 1750
     },
     {
       "ID": "ACH17",
@@ -5914,7 +5919,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6997,
+      "Progressed": 6998,
       "Completed": 41
     }
   ],
@@ -5922,8 +5927,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-07-14T20:58:27.169757+00:00",
-  "LastChanged_Achievements": "2023-07-19T05:04:37.6605568+00:00",
+  "LastChanged_Achievements": "2023-07-19T06:05:13.0590959+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:27.5857336+00:00",
-  "LastUpdate_Ratings": "2023-07-19T04:57:57.6378969+00:00",
-  "LastUpdate_Achievements": "2023-07-19T05:04:37.6605979+00:00"
+  "LastUpdate_Ratings": "2023-07-19T05:58:23.2334638+00:00",
+  "LastUpdate_Achievements": "2023-07-19T06:05:13.0591343+00:00"
 }

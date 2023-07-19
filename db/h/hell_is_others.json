@@ -688,9 +688,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 253221,
+  "EOS_Progressed": 253224,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 366,
+  "EOS_NewPlayers": 367,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9768,6 +9768,11 @@
       "Time": "2023-07-19T05:05:20.7510868+00:00",
       "NumProgressed": 253221,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-19T06:06:07.0103427+00:00",
+      "NumProgressed": 253224,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 56,
@@ -9779,7 +9784,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17725
+      "UsersEstimate": 17726
     },
     {
       "ID": "Act2",
@@ -10226,7 +10231,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 253221,
+      "Progressed": 253224,
       "Completed": 2
     }
   ],
@@ -10234,8 +10239,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-07-18T11:00:23.3340515+00:00",
-  "LastChanged_Achievements": "2023-07-19T05:05:20.7510863+00:00",
+  "LastChanged_Achievements": "2023-07-19T06:06:07.0103421+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:21.1992978+00:00",
-  "LastUpdate_Ratings": "2023-07-19T05:00:05.6640397+00:00",
-  "LastUpdate_Achievements": "2023-07-19T05:05:20.7511674+00:00"
+  "LastUpdate_Ratings": "2023-07-19T06:01:05.6889748+00:00",
+  "LastUpdate_Achievements": "2023-07-19T06:06:07.0104198+00:00"
 }

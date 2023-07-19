@@ -1612,9 +1612,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 241871,
+  "EOS_Progressed": 241877,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2354,
+  "EOS_NewPlayers": 2349,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11337,6 +11337,11 @@
       "Time": "2023-07-19T05:04:28.752816+00:00",
       "NumProgressed": 241871,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-19T06:05:01.9861585+00:00",
+      "NumProgressed": 241877,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -11516,7 +11521,7 @@
       "Name": "Full Loot Madness",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4837
+      "UsersEstimate": 4838
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -11572,7 +11577,7 @@
       "Name": "Ball Launched",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 198334
+      "UsersEstimate": 198339
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -11580,22 +11585,22 @@
       "Name": "I know the Rules",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 94330
+      "UsersEstimate": 94332
     }
   ],
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 241871,
+      "Progressed": 241877,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2023-07-14T17:59:29.0857732+00:00",
-  "LastChanged_Achievements": "2023-07-19T05:04:28.7528151+00:00",
+  "LastChanged_Achievements": "2023-07-19T06:05:01.986158+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:57.2909463+00:00",
-  "LastUpdate_Ratings": "2023-07-19T04:58:58.1504635+00:00",
-  "LastUpdate_Achievements": "2023-07-19T05:04:28.7528796+00:00"
+  "LastUpdate_Ratings": "2023-07-19T05:59:40.7350397+00:00",
+  "LastUpdate_Achievements": "2023-07-19T06:05:01.9862158+00:00"
 }

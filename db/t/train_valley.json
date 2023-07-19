@@ -93,7 +93,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 322,
+  "EOS_Progressed": 323,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
@@ -358,6 +358,11 @@
       "Time": "2023-07-18T19:03:10.3383927+00:00",
       "NumProgressed": 322,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-19T06:03:36.7786343+00:00",
+      "NumProgressed": 323,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -377,7 +382,7 @@
       "Name": "Collector",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "03_philatelist",
@@ -399,9 +404,9 @@
       "ID": "05_pangs",
       "SetID": "chb1m60",
       "Name": "Pangs of conscience",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 162
     },
     {
       "ID": "06_living",
@@ -409,7 +414,7 @@
       "Name": "Living it large!",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "07_europe",
@@ -433,7 +438,7 @@
       "Name": "Russia",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "10_japan",
@@ -465,7 +470,7 @@
       "Name": "It\u0027s no coincidence.",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "14_woodcutter",
@@ -497,7 +502,7 @@
       "Name": "Builder",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "18_foreman",
@@ -513,7 +518,7 @@
       "Name": "Just in time!",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "20_sabotage",
@@ -543,9 +548,9 @@
       "ID": "23_closecall",
       "SetID": "chb1m60",
       "Name": "Close call!",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 239
     },
     {
       "ID": "24_mega",
@@ -680,15 +685,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 322,
+      "Progressed": 323,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-03-31T05:57:32.453108+00:00",
-  "LastChanged_Achievements": "2023-07-19T05:03:19.0514434+00:00",
+  "LastChanged_Achievements": "2023-07-19T06:03:36.7786337+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:08.5245199+00:00",
-  "LastUpdate_Ratings": "2023-07-19T04:57:45.964266+00:00",
-  "LastUpdate_Achievements": "2023-07-19T05:03:19.0514683+00:00"
+  "LastUpdate_Ratings": "2023-07-19T05:58:07.0745215+00:00",
+  "LastUpdate_Achievements": "2023-07-19T06:03:36.7786581+00:00"
 }

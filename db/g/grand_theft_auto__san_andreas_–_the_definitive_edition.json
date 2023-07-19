@@ -574,9 +574,9 @@
       "Count": 221
     }
   ],
-  "EOS_Progressed": 11096,
+  "EOS_Progressed": 11097,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6769,6 +6769,11 @@
       "Time": "2023-07-19T04:21:37.800655+00:00",
       "NumProgressed": 11096,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-07-19T06:07:18.3822907+00:00",
+      "NumProgressed": 11097,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 35,
@@ -6780,7 +6785,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 8988
+      "UsersEstimate": 8989
     },
     {
       "ID": "ACH02",
@@ -6900,7 +6905,7 @@
       "Name": "Smooth Moves",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1775
+      "UsersEstimate": 1776
     },
     {
       "ID": "ACH17",
@@ -6948,7 +6953,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1553
+      "UsersEstimate": 1554
     },
     {
       "ID": "ACH23",
@@ -7004,7 +7009,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 1664
+      "UsersEstimate": 1665
     },
     {
       "ID": "ACH30",
@@ -7059,7 +7064,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 11096,
+      "Progressed": 11097,
       "Completed": 31
     }
   ],
@@ -7067,8 +7072,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-18T19:00:25.889542+00:00",
-  "LastChanged_Achievements": "2023-07-19T05:06:17.4272589+00:00",
+  "LastChanged_Achievements": "2023-07-19T06:07:18.3822903+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:18.5169648+00:00",
-  "LastUpdate_Ratings": "2023-07-19T05:00:01.8725029+00:00",
-  "LastUpdate_Achievements": "2023-07-19T05:06:17.4273088+00:00"
+  "LastUpdate_Ratings": "2023-07-19T06:01:01.5530138+00:00",
+  "LastUpdate_Achievements": "2023-07-19T06:07:18.3823508+00:00"
 }

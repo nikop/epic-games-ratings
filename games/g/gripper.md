@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Deal with Shock | 54.00% | ~25 |
-| Skinner | 50.00% | ~23 |
+| Deal with Shock | 53.00% | ~25 |
+| Skinner | 49.00% | ~23 |
 | Deal with Anger | 28.00% | ~13 |
 | Robolimb Ripper | 17.00% | ~8 |
 | Deal with Depression | 17.00% | ~8 |
 | Total Shock | 11.00% | ~5 |
-| No Shock Race | 7.00% | ~3 |
-| Deal with Acceptance | 7.00% | ~3 |
-| Zero to Hero | 7.00% | ~3 |
+| No Shock Race | 6.00% | ~3 |
+| Deal with Acceptance | 6.00% | ~3 |
+| Zero to Hero | 6.00% | ~3 |
 | Bronze Tunnel Collector | 4.00% | ~2 |
 | Max Health | 4.00% | ~2 |
 | Total Anger | 4.00% | ~2 |
@@ -40,7 +40,7 @@
 | Catastrophe | 0.00% | ~0 |
 | Flawless Tunnel Runner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46 (Ranked 346)  
+Progressed: 47 (Ranked 344)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,6 +63,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-06-09 | 44 | 0 |
 | 2023-06-12 | 45 | 0 |
 | 2023-06-21 | 46 | 0 |
+| 2023-07-19 | 47 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

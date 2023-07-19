@@ -5,31 +5,31 @@ Rating: 4.43 (Ranked 655)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,399 |
-| Snatched Out | 74.00% | ~2,192 |
-| Keep 'Em Coming | 73.00% | ~2,162 |
-| Cleaning Lethe, One Nest At A Time | 66.00% | ~1,955 |
-| Call Me Snake | 60.00% | ~1,777 |
+| This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,400 |
+| Snatched Out | 74.00% | ~2,193 |
+| Keep 'Em Coming | 72.00% | ~2,133 |
+| Cleaning Lethe, One Nest At A Time | 66.00% | ~1,956 |
+| Call Me Snake | 60.00% | ~1,778 |
 | Something Lurks Under The Hills | 59.00% | ~1,748 |
-| This Was No Papercut | 57.00% | ~1,688 |
-| The Shrink Hates Me | 54.00% | ~1,599 |
+| This Was No Papercut | 57.00% | ~1,689 |
 | People Person | 53.00% | ~1,570 |
-| Use The Bumper, That's What It's For | 50.00% | ~1,481 |
-| First Steps Into Madness | 50.00% | ~1,481 |
+| The Shrink Hates Me | 53.00% | ~1,570 |
+| Use The Bumper, That's What It's For | 50.00% | ~1,482 |
+| First Steps Into Madness | 50.00% | ~1,482 |
 | Colonial Barrels | 48.00% | ~1,422 |
 | Harper's Hell | 40.00% | ~1,185 |
 | Damn Dude, You Gotta Lose Some Weight! | 40.00% | ~1,185 |
-| Making a Stand | 39.00% | ~1,155 |
+| Making a Stand | 39.00% | ~1,156 |
 | Recouped Investment | 35.00% | ~1,037 |
 | Where It All Begun | 34.00% | ~1,007 |
-| Omelette Du Fromage | 31.00% | ~918 |
+| Omelette Du Fromage | 31.00% | ~919 |
 | Living Nightmare | 27.00% | ~800 |
 | The More The Merrier | 27.00% | ~800 |
 | The Darwin Era Was Here | 23.00% | ~681 |
 | Come on, You Wanna Live Forever? | 21.00% | ~622 |
 | Deep Into Insanity | 21.00% | ~622 |
 | The Passenger | 21.00% | ~622 |
-| Stuff Of Nightmares | 20.00% | ~592 |
+| Stuff Of Nightmares | 20.00% | ~593 |
 | El Riesgo Siempre Vive | 19.00% | ~563 |
 | The Spire | 18.00% | ~533 |
 | One For Every Occasion | 16.00% | ~474 |
@@ -45,13 +45,13 @@ Rating: 4.43 (Ranked 655)
 | Perfect Enhancements | 7.00% | ~207 |
 | Hardened In The Heat Of Battle | 5.00% | ~148 |
 | The True Experience | 5.00% | ~148 |
+| Archivist | 1.00% | ~30 |
 | Fair And Square | 1.00% | ~30 |
-| Archivist | 0.90% | ~27 |
 | Chalk It Up To Experience | 0.60% | ~18 |
 | Perfect Organism | 0.50% | ~15 |
 | This Ain't No Picnic | 0.30% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,962 (Ranked 153)  
+Progressed: 2,963 (Ranked 153)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-16 | 2,930 | 0 |
 | 2023-07-17 | 2,946 | 0 |
 | 2023-07-18 | 2,960 | 0 |
-| 2023-07-19 | 2,962 | 0 |
+| 2023-07-19 | 2,963 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

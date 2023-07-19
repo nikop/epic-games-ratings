@@ -6,30 +6,30 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 58.00% | ~111,069 |
-| Where's that freaking Dwarf? | 46.00% | ~88,089 |
-| GG EZ | 27.00% | ~51,704 |
-| Speedrun | 26.00% | ~49,789 |
-| Déjà vu | 21.00% | ~40,215 |
-| Sock! SOCK! | 16.00% | ~30,640 |
-| DM intervention | 13.00% | ~24,895 |
-| Fireproof Wizardess | 9.00% | ~17,235 |
-| A beer, two curses, three companions | 7.00% | ~13,405 |
-| Livin' in a dwarven paradise | 6.00% | ~11,490 |
-| Way of the Wimp | 6.00% | ~11,490 |
-| The plot thickens... At the tavern | 5.00% | ~9,575 |
-| The Woman in the High Castle | 4.00% | ~7,660 |
-| I am the night | 3.00% | ~5,745 |
-| Team Building Exercise | 3.00% | ~5,745 |
-| Shiny and Crôm | 2.00% | ~3,830 |
-| The demons' feast | 2.00% | ~3,830 |
-| The Great Library | 2.00% | ~3,830 |
-| Torture and Sensibility | 2.00% | ~3,830 |
-| Res Judicata | 2.00% | ~3,830 |
-| Dwarf Fortress | 2.00% | ~3,830 |
-| The Ranger of Chaos | 2.00% | ~3,830 |
-| Thieves' Guild Accreditation | 2.00% | ~3,830 |
-| Oh, when I'll be level 10... | 2.00% | ~3,830 |
+| Alt+F4 | 58.00% | ~111,089 |
+| Where's that freaking Dwarf? | 46.00% | ~88,105 |
+| GG EZ | 27.00% | ~51,714 |
+| Speedrun | 26.00% | ~49,798 |
+| Déjà vu | 21.00% | ~40,222 |
+| Sock! SOCK! | 16.00% | ~30,645 |
+| DM intervention | 13.00% | ~24,899 |
+| Fireproof Wizardess | 9.00% | ~17,238 |
+| A beer, two curses, three companions | 7.00% | ~13,407 |
+| Livin' in a dwarven paradise | 6.00% | ~11,492 |
+| Way of the Wimp | 6.00% | ~11,492 |
+| The plot thickens... At the tavern | 5.00% | ~9,577 |
+| The Woman in the High Castle | 4.00% | ~7,661 |
+| I am the night | 3.00% | ~5,746 |
+| Team Building Exercise | 3.00% | ~5,746 |
+| Shiny and Crôm | 2.00% | ~3,831 |
+| The demons' feast | 2.00% | ~3,831 |
+| The Great Library | 2.00% | ~3,831 |
+| Torture and Sensibility | 2.00% | ~3,831 |
+| Res Judicata | 2.00% | ~3,831 |
+| Dwarf Fortress | 2.00% | ~3,831 |
+| The Ranger of Chaos | 2.00% | ~3,831 |
+| Thieves' Guild Accreditation | 2.00% | ~3,831 |
+| Oh, when I'll be level 10... | 2.00% | ~3,831 |
 | Urik's Depths | 1.00% | ~1,915 |
 | Look but don't touch | 1.00% | ~1,915 |
 | The beards of change | 1.00% | ~1,915 |
@@ -37,65 +37,65 @@ Number of Ratings: 118  (23.09.2022)
 | In Navalu's footsteps | 1.00% | ~1,915 |
 | Lust and Debauchery | 1.00% | ~1,915 |
 | Material Girl | 1.00% | ~1,915 |
-| The Statuette of Gladeulfeurah | 0.90% | ~1,723 |
-| A tale of adventurers not quite like the others... | 0.90% | ~1,723 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.90% | ~1,723 |
+| The Statuette of Gladeulfeurah | 0.90% | ~1,724 |
+| A tale of adventurers not quite like the others... | 0.90% | ~1,724 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.90% | ~1,724 |
 | It's been a hard day's night | 0.80% | ~1,532 |
-| The Dungeon Master | 0.70% | ~1,340 |
-| The Famous Dungeon of Naheulbeuk | 0.70% | ~1,340 |
-| Dead for good | 0.70% | ~1,340 |
-| Law and Order | 0.70% | ~1,340 |
-| Lëgal Legend | 0.70% | ~1,340 |
-| I'd rather... Just... Sing! | 0.50% | ~957 |
-| The number of the counting shalt be 7 | 0.50% | ~957 |
-| An old poacher makes the best gamekeeper | 0.50% | ~957 |
+| The Dungeon Master | 0.70% | ~1,341 |
+| The Famous Dungeon of Naheulbeuk | 0.70% | ~1,341 |
+| Dead for good | 0.70% | ~1,341 |
+| Law and Order | 0.70% | ~1,341 |
+| Lëgal Legend | 0.70% | ~1,341 |
+| I'd rather... Just... Sing! | 0.50% | ~958 |
+| The number of the counting shalt be 7 | 0.50% | ~958 |
+| An old poacher makes the best gamekeeper | 0.50% | ~958 |
 | Friendly fire | 0.40% | ~766 |
-| Holistic Adventuring Party | 0.30% | ~574 |
-| Scholar of the Lands of Fangh | 0.30% | ~574 |
+| Holistic Adventuring Party | 0.30% | ~575 |
+| Scholar of the Lands of Fangh | 0.30% | ~575 |
 | The Blood Countess | 0.20% | ~383 |
 | Insult to injury | 0.20% | ~383 |
 | We come in peace | 0.20% | ~383 |
-| Cursed die | 0.10% | ~191 |
-| Necrophilia | 0.10% | ~191 |
-| He’s alive! Aliiiive! | 0.10% | ~191 |
-| Restless night | 0.10% | ~191 |
-| King of the Arena | 0.10% | ~191 |
-| Finally free | 0.10% | ~191 |
-| Hoarding | 0.10% | ~191 |
-| Staff cut | 0.10% | ~191 |
-| Legendary brew | 0.10% | ~191 |
-| Elite Adventurers | 0.10% | ~191 |
-| Take your time back in time | 0.10% | ~191 |
-| Egghead | 0.10% | ~191 |
-| Free customer service | 0.10% | ~191 |
-| Imposture and Trowels | 0.10% | ~191 |
-| Deep changes | 0.10% | ~191 |
-| A broken clock… | 0.10% | ~191 |
-| Cute Dungeon | 0.10% | ~191 |
-| Mystical Dungeon | 0.10% | ~191 |
-| Gloomy Dungeon | 0.10% | ~191 |
-| Power struggle | 0.10% | ~191 |
-| Hit snooze | 0.10% | ~191 |
-| Living legends of the Lands of Fangh | 0.10% | ~191 |
-| Kudos from your DM | 0.10% | ~191 |
-| Minmaxer | 0.10% | ~191 |
-| Iron Golems Tamer | 0.10% | ~191 |
-| And they lived happily ever after... | 0.10% | ~191 |
-| Star-crossed lovers | 0.10% | ~191 |
-| Pyrrhic victory | 0.10% | ~191 |
-| 100% satisfaction guarantee | 0.10% | ~191 |
-| Death is for wimps | 0.10% | ~191 |
-| Super-Ultra-Lydian | 0.10% | ~191 |
-| Lord of the Drunks | 0.10% | ~191 |
-| Inception | 0.10% | ~191 |
-| Demisemiquaver | 0.10% | ~191 |
-| Dumb and dumber | 0.10% | ~191 |
-| Dwarf Candy | 0.10% | ~191 |
+| Cursed die | 0.10% | ~192 |
+| Necrophilia | 0.10% | ~192 |
+| He’s alive! Aliiiive! | 0.10% | ~192 |
+| Restless night | 0.10% | ~192 |
+| King of the Arena | 0.10% | ~192 |
+| Finally free | 0.10% | ~192 |
+| Hoarding | 0.10% | ~192 |
+| Staff cut | 0.10% | ~192 |
+| Legendary brew | 0.10% | ~192 |
+| Elite Adventurers | 0.10% | ~192 |
+| Take your time back in time | 0.10% | ~192 |
+| Egghead | 0.10% | ~192 |
+| Free customer service | 0.10% | ~192 |
+| Imposture and Trowels | 0.10% | ~192 |
+| Deep changes | 0.10% | ~192 |
+| A broken clock… | 0.10% | ~192 |
+| Cute Dungeon | 0.10% | ~192 |
+| Mystical Dungeon | 0.10% | ~192 |
+| Gloomy Dungeon | 0.10% | ~192 |
+| Power struggle | 0.10% | ~192 |
+| Hit snooze | 0.10% | ~192 |
+| Living legends of the Lands of Fangh | 0.10% | ~192 |
+| Kudos from your DM | 0.10% | ~192 |
+| Minmaxer | 0.10% | ~192 |
+| Iron Golems Tamer | 0.10% | ~192 |
+| And they lived happily ever after... | 0.10% | ~192 |
+| Star-crossed lovers | 0.10% | ~192 |
+| Pyrrhic victory | 0.10% | ~192 |
+| 100% satisfaction guarantee | 0.10% | ~192 |
+| Death is for wimps | 0.10% | ~192 |
+| Super-Ultra-Lydian | 0.10% | ~192 |
+| Lord of the Drunks | 0.10% | ~192 |
+| Inception | 0.10% | ~192 |
+| Demisemiquaver | 0.10% | ~192 |
+| Dumb and dumber | 0.10% | ~192 |
+| Dwarf Candy | 0.10% | ~192 |
 | Sleep schedule mastery | 0.00% | ~0 |
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 191,498 (Ranked 58)  
+Progressed: 191,532 (Ranked 58)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-16 | 188,738 | 0 |
 | 2023-07-17 | 190,078 | 0 |
 | 2023-07-18 | 191,296 | 0 |
-| 2023-07-19 | 191,498 | 0 |
+| 2023-07-19 | 191,532 | 0 |
 ## Awards
 Max (Character Customization): 115  (Ranked 316)  
 Sum: 115 (Ranked 402)  
