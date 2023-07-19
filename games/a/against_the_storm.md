@@ -30,6 +30,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Monastery of the Holy Flame | 2.00% | ~318 |
 | Royal Outpost | 2.00% | ~318 |
 | Statue of the Forefathers | 2.00% | ~318 |
+| Forsaken Gods Temple | 2.00% | ~318 |
 | Corrosive Torrent | 2.00% | ~318 |
 | Watchtower | 2.00% | ~318 |
 | Cursed Lands | 2.00% | ~318 |
@@ -40,7 +41,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Refinery | 1.00% | ~159 |
 | Fishmen Ritual Site | 1.00% | ~159 |
 | Forbidden Lands | 1.00% | ~159 |
-| Forsaken Gods Temple | 1.00% | ~159 |
 | Defying the Crown | 1.00% | ~159 |
 | Efficient Explorer | 0.80% | ~127 |
 | Prestigious Expedition | 0.70% | ~111 |

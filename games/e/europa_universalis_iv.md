@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,452 |
-| That's a Grand Army | 8.00% | ~5,735 |
-| That is mine! | 8.00% | ~5,735 |
-| Victorious! | 8.00% | ~5,735 |
-| Brothers in Arms | 6.00% | ~4,301 |
-| That's a Grand Navy | 6.00% | ~4,301 |
-| Seriously?! | 6.00% | ~4,301 |
-| For the Glory | 5.00% | ~3,584 |
-| Cold War | 4.00% | ~2,867 |
-| True Catholic | 4.00% | ~2,867 |
+| Until death do us apart | 9.00% | ~6,454 |
+| That's a Grand Army | 8.00% | ~5,737 |
+| That is mine! | 8.00% | ~5,737 |
+| Victorious! | 8.00% | ~5,737 |
+| Brothers in Arms | 6.00% | ~4,303 |
+| That's a Grand Navy | 6.00% | ~4,303 |
+| Seriously?! | 6.00% | ~4,303 |
+| For the Glory | 5.00% | ~3,585 |
+| Cold War | 4.00% | ~2,868 |
+| True Catholic | 4.00% | ~2,868 |
 | Defender of the Faith | 3.00% | ~2,151 |
 | It's all about luck | 3.00% | ~2,151 |
 | It's all about the money | 3.00% | ~2,151 |
@@ -43,7 +43,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Isn't this the way to India? | 0.90% | ~645 |
 | Market Control | 0.90% | ~645 |
 | Trustworthy | 0.90% | ~645 |
-| Down Under | 0.80% | ~573 |
+| Down Under | 0.80% | ~574 |
 | Electable! | 0.70% | ~502 |
 | Populists in Government | 0.70% | ~502 |
 | All belongs to Mother Russia | 0.60% | ~430 |
@@ -53,13 +53,13 @@ Number of Ratings: 8,414  (23.09.2022)
 | The pen is mightier than the sword | 0.60% | ~430 |
 | This is My Faith | 0.60% | ~430 |
 | Time Bandit | 0.60% | ~430 |
-| Absolutely | 0.50% | ~358 |
-| Grand Coalition | 0.50% | ~358 |
-| In the Name of the Father | 0.50% | ~358 |
-| Live Long and Prosper | 0.50% | ~358 |
-| Ruina Imperii | 0.50% | ~358 |
-| Trophy Hunter | 0.50% | ~358 |
-| Voting Streak | 0.50% | ~358 |
+| Absolutely | 0.50% | ~359 |
+| Grand Coalition | 0.50% | ~359 |
+| In the Name of the Father | 0.50% | ~359 |
+| Live Long and Prosper | 0.50% | ~359 |
+| Ruina Imperii | 0.50% | ~359 |
+| Trophy Hunter | 0.50% | ~359 |
+| Voting Streak | 0.50% | ~359 |
 | All Your Trade Are Belong to Us | 0.40% | ~287 |
 | Bleed Them Dry | 0.40% | ~287 |
 | Dude, Where's my Boat? | 0.40% | ~287 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71,685 (Ranked 74)  
+Progressed: 71,709 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -451,7 +451,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-16 | 70,611 | 0 |
 | 2023-07-17 | 70,990 | 0 |
 | 2023-07-18 | 71,380 | 0 |
-| 2023-07-19 | 71,685 | 0 |
+| 2023-07-19 | 71,709 | 0 |
 ## Awards
 Max (Educational): 5,565  (Ranked 60)  
 Sum: 45,845 (Ranked 26)  

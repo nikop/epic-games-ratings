@@ -13,7 +13,7 @@ Rating: 4.10 (Ranked 887)
 | Guild Power | 25.00% | ~420 |
 | Prestigious x10 | 21.00% | ~353 |
 | The game is on | 20.00% | ~336 |
-| Exotic Merchant | 17.00% | ~286 |
+| Exotic Merchant | 18.00% | ~302 |
 | Dragon Clicker | 16.00% | ~269 |
 | Miner Clicker | 16.00% | ~269 |
 | Full Party | 15.00% | ~252 |
@@ -29,12 +29,12 @@ Rating: 4.10 (Ranked 887)
 | Superior | 12.00% | ~202 |
 | Scientist | 11.00% | ~185 |
 | Challenger | 10.00% | ~168 |
+| Doing My Part | 10.00% | ~168 |
 | Hunter | 10.00% | ~168 |
 | Relic Of The Past | 10.00% | ~168 |
 | Scroll Master | 10.00% | ~168 |
 | The power of Awakening | 10.00% | ~168 |
 | Daily Quest Completionist | 9.00% | ~151 |
-| Doing My Part | 9.00% | ~151 |
 | Four Leaf Clover | 9.00% | ~151 |
 | Frostfire Liberator | 9.00% | ~151 |
 | Mastery | 9.00% | ~151 |

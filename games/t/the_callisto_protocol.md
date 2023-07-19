@@ -8,6 +8,7 @@ Rating: 4.19 (Ranked 847)
 | Get a Grip | 4.00% | ~630 |
 | Paper Jams | 3.00% | ~472 |
 | Keep Fighting | 3.00% | ~110 |
+| Giving Back | 2.00% | ~315 |
 | You Need a Gun | 2.00% | ~315 |
 | Flesh Wound | 2.00% | ~315 |
 | I Do Belong Here | 2.00% | ~315 |
@@ -26,7 +27,6 @@ Rating: 4.19 (Ranked 847)
 | Full Circle | 2.00% | ~315 |
 | Power Up | 2.00% | ~315 |
 | It's Time | 2.00% | ~73 |
-| Giving Back | 1.00% | ~157 |
 | The Commonality | 1.00% | ~157 |
 | Desperate Times | 1.00% | ~157 |
 | One Last Job | 1.00% | ~37 |

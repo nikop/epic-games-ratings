@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 137,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -2732,9 +2732,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 49913,
+  "EOS_Progressed": 49914,
   "EOS_Completed": 210,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -9112,6 +9112,11 @@
       "Time": "2023-07-19T17:04:29.0991154+00:00",
       "NumProgressed": 49913,
       "NumCompleted": 210
+    },
+    {
+      "Time": "2023-07-19T21:03:59.1087656+00:00",
+      "NumProgressed": 49914,
+      "NumCompleted": 210
     }
   ],
   "TotalAchievements": 45,
@@ -9147,7 +9152,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 39431
+      "UsersEstimate": 39432
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -9251,7 +9256,7 @@
       "Name": "Revenge of the Sith",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 19965
+      "UsersEstimate": 19966
     },
     {
       "ID": "COMPLETE_EPISODE_4",
@@ -9259,7 +9264,7 @@
       "Name": "A New Hope",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 23958
+      "UsersEstimate": 23959
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -9283,7 +9288,7 @@
       "Name": "The Force Awakens",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 12977
+      "UsersEstimate": 12978
     },
     {
       "ID": "COMPLETE_EPISODE_8",
@@ -9315,7 +9320,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 28450
+      "UsersEstimate": 28451
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -9347,7 +9352,7 @@
       "Name": "\u0027\u0027It\u0027s true... all of it\u0027\u0027",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 9483
+      "UsersEstimate": 9484
     },
     {
       "ID": "CREATE_25_REBEL_DISGUISES",
@@ -9371,7 +9376,7 @@
       "Name": "\u0027\u0027Get the crews to their fighters\u0027\u0027",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 8984
+      "UsersEstimate": 8985
     },
     {
       "ID": "EARN_10B_STUDS",
@@ -9387,7 +9392,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 48416
+      "UsersEstimate": 48417
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -9427,7 +9432,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 35438
+      "UsersEstimate": 35439
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -9475,22 +9480,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 35937
+      "UsersEstimate": 35938
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 49913,
+      "Progressed": 49914,
       "Completed": 210
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-07-19T12:01:21.0570221+00:00",
-  "LastChanged_Achievements": "2023-07-19T20:04:19.1194616+00:00",
+  "LastChanged_Achievements": "2023-07-19T21:03:59.1087652+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:41.0824625+00:00",
-  "LastUpdate_Ratings": "2023-07-19T20:01:24.5031516+00:00",
-  "LastUpdate_Achievements": "2023-07-19T20:04:19.11955+00:00"
+  "LastUpdate_Ratings": "2023-07-19T21:00:13.9308315+00:00",
+  "LastUpdate_Achievements": "2023-07-19T21:03:59.1088219+00:00"
 }

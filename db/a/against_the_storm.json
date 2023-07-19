@@ -7734,9 +7734,9 @@
       "ID": "WinNearTemple",
       "SetID": "cfbk359",
       "Name": "Forsaken Gods Temple",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 318
     },
     {
       "ID": "WinNearTorrent",
@@ -7902,8 +7902,8 @@
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-07-19T03:18:24.7543531+00:00",
-  "LastChanged_Achievements": "2023-07-19T20:03:29.9525376+00:00",
+  "LastChanged_Achievements": "2023-07-19T21:03:18.1313029+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:06.1023937+00:00",
-  "LastUpdate_Ratings": "2023-07-19T20:00:51.4212182+00:00",
-  "LastUpdate_Achievements": "2023-07-19T20:03:29.9526195+00:00"
+  "LastUpdate_Ratings": "2023-07-19T20:59:47.3886402+00:00",
+  "LastUpdate_Achievements": "2023-07-19T21:03:18.1313593+00:00"
 }

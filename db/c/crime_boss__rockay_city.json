@@ -3,7 +3,7 @@
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 929,
-  "Ranking_Popularity": 219,
+  "Ranking_Popularity": 218,
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 203,
@@ -2524,11 +2524,17 @@
       "Rating": 3.93,
       "NumberOfAwards": 1740,
       "NumberOfAwardsMax": 366
+    },
+    {
+      "Time": "2023-07-19T20:59:43.9472321+00:00",
+      "Rating": 3.93,
+      "NumberOfAwards": 1742,
+      "NumberOfAwardsMax": 368
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 1740,
-  "NumberOfAwardsMax": 366,
+  "NumberOfAwards": 1742,
+  "NumberOfAwardsMax": 368,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -2541,7 +2547,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 366
+      "Count": 368
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2580,7 +2586,7 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 69145,
+  "EOS_Progressed": 69146,
   "EOS_Completed": 36,
   "EOS_NewPlayers": 357,
   "EOS_NewCompleters": 0,
@@ -11965,6 +11971,11 @@
       "Time": "2023-07-19T20:05:16.0153313+00:00",
       "NumProgressed": 69145,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-07-19T21:04:44.3273183+00:00",
+      "NumProgressed": 69146,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 37,
@@ -11976,7 +11987,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 34572
+      "UsersEstimate": 34573
     },
     {
       "ID": "ACH_0011",
@@ -11992,7 +12003,7 @@
       "Name": "Roid Ranger",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 14520
+      "UsersEstimate": 14521
     },
     {
       "ID": "ACH_0013",
@@ -12072,7 +12083,7 @@
       "Name": "Freebooter",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6914
+      "UsersEstimate": 6915
     },
     {
       "ID": "ACH_0061",
@@ -12120,7 +12131,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 44944
+      "UsersEstimate": 44945
     },
     {
       "ID": "ACH_0210",
@@ -12128,7 +12139,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 51167
+      "UsersEstimate": 51168
     },
     {
       "ID": "ACH_0211",
@@ -12144,7 +12155,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 32498
+      "UsersEstimate": 32499
     },
     {
       "ID": "ACH_0300",
@@ -12192,7 +12203,7 @@
       "Name": "Case Closed",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 23509
+      "UsersEstimate": 23510
     },
     {
       "ID": "ACH_0420",
@@ -12200,7 +12211,7 @@
       "Name": "King of the Hill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 23509
+      "UsersEstimate": 23510
     },
     {
       "ID": "ACH_0430",
@@ -12271,16 +12282,16 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 69145,
+      "Progressed": 69146,
       "Completed": 36
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-07-19T16:00:16.9047315+00:00",
-  "LastChanged_Achievements": "2023-07-19T20:05:16.0153307+00:00",
+  "LastChanged": "2023-07-19T20:59:43.9472319+00:00",
+  "LastChanged_Achievements": "2023-07-19T21:04:44.3273179+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:02.3078188+00:00",
-  "LastUpdate_Ratings": "2023-07-19T20:00:46.8869332+00:00",
-  "LastUpdate_Achievements": "2023-07-19T20:05:16.0154491+00:00"
+  "LastUpdate_Ratings": "2023-07-19T20:59:43.9472324+00:00",
+  "LastUpdate_Achievements": "2023-07-19T21:04:44.3273838+00:00"
 }

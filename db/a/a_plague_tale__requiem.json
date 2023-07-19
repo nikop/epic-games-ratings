@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 289,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -350,9 +350,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12067,
+  "EOS_Progressed": 12068,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -5350,6 +5350,11 @@
       "Time": "2023-07-19T17:03:16.85904+00:00",
       "NumProgressed": 12067,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-07-19T21:02:16.5519852+00:00",
+      "NumProgressed": 12068,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 35,
@@ -5361,7 +5366,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 11102
+      "UsersEstimate": 11103
     },
     {
       "ID": "ACH_02",
@@ -5369,7 +5374,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 9533
+      "UsersEstimate": 9534
     },
     {
       "ID": "ACH_03",
@@ -5385,7 +5390,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 8447
+      "UsersEstimate": 8448
     },
     {
       "ID": "ACH_05",
@@ -5417,7 +5422,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 7240
+      "UsersEstimate": 7241
     },
     {
       "ID": "ACH_09",
@@ -5425,7 +5430,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 6878
+      "UsersEstimate": 6879
     },
     {
       "ID": "ACH_10",
@@ -5441,7 +5446,7 @@
       "Name": "The Cradle of Centuries",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 5792
+      "UsersEstimate": 5793
     },
     {
       "ID": "ACH_12",
@@ -5457,7 +5462,7 @@
       "Name": "Nothing Left",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 4706
+      "UsersEstimate": 4707
     },
     {
       "ID": "ACH_14",
@@ -5489,7 +5494,7 @@
       "Name": "Knights!",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 2413
+      "UsersEstimate": 2414
     },
     {
       "ID": "ACH_18",
@@ -5537,7 +5542,7 @@
       "Name": "Improved crossbow",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 3137
+      "UsersEstimate": 3138
     },
     {
       "ID": "ACH_24",
@@ -5640,7 +5645,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 12067,
+      "Progressed": 12068,
       "Completed": 37
     }
   ],
@@ -5648,8 +5653,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-07-11T18:59:53.0039364+00:00",
-  "LastChanged_Achievements": "2023-07-19T20:02:12.1104025+00:00",
+  "LastChanged_Achievements": "2023-07-19T21:02:16.5519849+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:24.3188999+00:00",
-  "LastUpdate_Ratings": "2023-07-19T20:00:09.95186+00:00",
-  "LastUpdate_Achievements": "2023-07-19T20:02:12.1104673+00:00"
+  "LastUpdate_Ratings": "2023-07-19T20:59:16.4037028+00:00",
+  "LastUpdate_Achievements": "2023-07-19T21:02:16.5520274+00:00"
 }

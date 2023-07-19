@@ -5128,10 +5128,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 39493,
       "NumberOfAwardsMax": 21101
+    },
+    {
+      "Time": "2023-07-19T20:57:35.0842449+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 39508,
+      "NumberOfAwardsMax": 21101
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 39493,
+  "NumberOfAwards": 39508,
   "NumberOfAwardsMax": 21101,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5145,7 +5151,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 10108
+      "Count": 10123
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -5208,9 +5214,9 @@
       "Count": 560
     }
   ],
-  "EOS_Progressed": 288048,
+  "EOS_Progressed": 288050,
   "EOS_Completed": 431,
-  "EOS_NewPlayers": 979,
+  "EOS_NewPlayers": 965,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -14883,6 +14889,11 @@
       "Time": "2023-07-19T20:04:25.2219915+00:00",
       "NumProgressed": 288048,
       "NumCompleted": 431
+    },
+    {
+      "Time": "2023-07-19T21:04:04.013325+00:00",
+      "NumProgressed": 288050,
+      "NumCompleted": 431
     }
   ],
   "TotalAchievements": 45,
@@ -14982,7 +14993,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8641
+      "UsersEstimate": 8642
     },
     {
       "ID": "PFA_20",
@@ -15046,7 +15057,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8641
+      "UsersEstimate": 8642
     },
     {
       "ID": "PFA_28",
@@ -15094,7 +15105,7 @@
       "Name": "Room with a View",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8641
+      "UsersEstimate": 8642
     },
     {
       "ID": "PFA_33",
@@ -15118,7 +15129,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 20163
+      "UsersEstimate": 20164
     },
     {
       "ID": "PFA_36",
@@ -15142,7 +15153,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 8641
+      "UsersEstimate": 8642
     },
     {
       "ID": "PFA_39",
@@ -15158,7 +15169,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8641
+      "UsersEstimate": 8642
     },
     {
       "ID": "PFA_40",
@@ -15198,7 +15209,7 @@
       "Name": "The Spell Master",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20163
+      "UsersEstimate": 20164
     },
     {
       "ID": "PFA_45",
@@ -15214,7 +15225,7 @@
       "Name": "The Wise Owl",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8641
+      "UsersEstimate": 8642
     },
     {
       "ID": "PFA_6",
@@ -15246,23 +15257,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20163
+      "UsersEstimate": 20164
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 288048,
+      "Progressed": 288050,
       "Completed": 431
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-07-19T16:57:58.248494+00:00",
-  "LastChanged_Achievements": "2023-07-19T20:04:25.2219909+00:00",
+  "LastChanged": "2023-07-19T20:57:35.0842448+00:00",
+  "LastChanged_Achievements": "2023-07-19T21:04:04.0133246+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:19.3801839+00:00",
-  "LastUpdate_Ratings": "2023-07-19T19:57:56.0772375+00:00",
-  "LastUpdate_Achievements": "2023-07-19T20:04:25.2221142+00:00"
+  "LastUpdate_Ratings": "2023-07-19T20:57:35.0842453+00:00",
+  "LastUpdate_Achievements": "2023-07-19T21:04:04.0133975+00:00"
 }

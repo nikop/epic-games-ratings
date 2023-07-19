@@ -6,25 +6,25 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~48,416 |
-| ''I don't like you either!'' | 79.00% | ~39,431 |
-| ''You think you're some kind of Jedi?'' | 72.00% | ~35,937 |
-| ''Impressive, most impressive'' | 71.00% | ~35,438 |
+| ''You guys got yourself a ship!'' | 97.00% | ~48,417 |
+| ''I don't like you either!'' | 79.00% | ~39,432 |
+| ''You think you're some kind of Jedi?'' | 72.00% | ~35,938 |
+| ''Impressive, most impressive'' | 71.00% | ~35,439 |
 | The Phantom Menace | 59.00% | ~29,449 |
 | ''Aggressive Negotiations'' | 58.00% | ~28,950 |
-| ''I can fly anything'' | 57.00% | ~28,450 |
+| ''I can fly anything'' | 57.00% | ~28,451 |
 | ''And who gave you permission...?'' | 53.00% | ~26,454 |
-| A New Hope | 48.00% | ~23,958 |
+| A New Hope | 48.00% | ~23,959 |
 | Attack of the Clones | 46.00% | ~22,960 |
-| Revenge of the Sith | 40.00% | ~19,965 |
+| Revenge of the Sith | 40.00% | ~19,966 |
 | The Empire Strikes Back | 37.00% | ~18,468 |
 | ''A fine addition to my collection'' | 37.00% | ~18,468 |
 | Return of the Jedi | 32.00% | ~15,972 |
-| The Force Awakens | 26.00% | ~12,977 |
+| The Force Awakens | 26.00% | ~12,978 |
 | The Last Jedi | 23.00% | ~11,480 |
 | The Rise of Skywalker | 20.00% | ~9,983 |
-| ''It's true... all of it'' | 19.00% | ~9,483 |
-| ''Get the crews to their fighters'' | 18.00% | ~8,984 |
+| ''It's true... all of it'' | 19.00% | ~9,484 |
+| ''Get the crews to their fighters'' | 18.00% | ~8,985 |
 | ''Raw, untamed power'' | 8.00% | ~3,993 |
 | Rishi Maze | 4.00% | ~1,997 |
 | ''Only one business in the Galaxy...'' | 4.00% | ~1,997 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''No more training, do you require'' | 1.00% | ~499 |
 | ''I've never seen a real one!'' | 0.90% | ~449 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,913 (Ranked 87)  
+Progressed: 49,914 (Ranked 87)  
 Completed: 210 (0.42%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 210 (0.42%) (Ranked 137)
 | 2023-07-16 | 49,891 | 209 |
 | 2023-07-17 | 49,896 | 209 |
 | 2023-07-18 | 49,905 | 210 |
-| 2023-07-19 | 49,913 | 210 |
+| 2023-07-19 | 49,914 | 210 |
 ## Awards
 Max (Great Boss Battles): 2,357  (Ranked 103)  
 Sum: 6,492 (Ranked 117)  

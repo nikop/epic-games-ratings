@@ -14,8 +14,8 @@ Number of Ratings: 524  (23.09.2022)
 | Under a Thin Layer of Skin | 18.00% | ~10,358 |
 | Park Ranger | 15.00% | ~8,632 |
 | Paging Mr. Wake | 15.00% | ~8,632 |
-| Back! Back, I Say! | 14.00% | ~8,056 |
-| Finders Keepers | 14.00% | ~8,056 |
+| Back! Back, I Say! | 14.00% | ~8,057 |
+| Finders Keepers | 14.00% | ~8,057 |
 | Sound and Fury | 13.00% | ~7,481 |
 | Damn Good Cup of Coffee | 13.00% | ~7,481 |
 | Wheels Within Wheels | 12.00% | ~6,906 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~58 |
 | No Punctuation | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,546 (Ranked 82)  
+Progressed: 57,547 (Ranked 82)  
 Completed: 58 (0.10%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 58 (0.10%) (Ranked 184)
 | 2023-07-16 | 57,444 | 58 |
 | 2023-07-17 | 57,477 | 58 |
 | 2023-07-18 | 57,515 | 58 |
-| 2023-07-19 | 57,546 | 58 |
+| 2023-07-19 | 57,547 | 58 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

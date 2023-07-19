@@ -5878,9 +5878,9 @@
       "ID": "BACKSTAB_BLIND",
       "SetID": "4hj6d86",
       "Name": "Giving Back",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 315
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -6253,8 +6253,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-07-19T17:58:24.8919456+00:00",
-  "LastChanged_Achievements": "2023-07-19T20:06:43.5972869+00:00",
+  "LastChanged_Achievements": "2023-07-19T21:05:56.8578054+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:35.5915287+00:00",
-  "LastUpdate_Ratings": "2023-07-19T19:58:35.5298103+00:00",
-  "LastUpdate_Achievements": "2023-07-19T20:06:43.5973832+00:00"
+  "LastUpdate_Ratings": "2023-07-19T20:58:04.4567943+00:00",
+  "LastUpdate_Achievements": "2023-07-19T21:05:56.8578596+00:00"
 }

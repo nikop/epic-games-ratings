@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57546,
+  "EOS_Progressed": 57547,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 293,
+  "EOS_NewPlayers": 288,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8387,6 +8387,11 @@
       "Time": "2023-07-19T20:03:31.8634295+00:00",
       "NumProgressed": 57546,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-07-19T21:03:19.7245688+00:00",
+      "NumProgressed": 57547,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 67,
@@ -8638,7 +8643,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 8056
+      "UsersEstimate": 8057
     },
     {
       "ID": "32",
@@ -8718,7 +8723,7 @@
       "Name": "Finders Keepers",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 8056
+      "UsersEstimate": 8057
     },
     {
       "ID": "42",
@@ -8933,21 +8938,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57546,
+      "Progressed": 57547,
       "Completed": 58
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 21014,
+      "Progressed": 21015,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-19T20:03:31.8634289+00:00",
+  "LastChanged_Achievements": "2023-07-19T21:03:19.7245683+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:10.5196415+00:00",
-  "LastUpdate_Ratings": "2023-07-19T19:58:14.1524001+00:00",
-  "LastUpdate_Achievements": "2023-07-19T20:03:31.8635807+00:00"
+  "LastUpdate_Ratings": "2023-07-19T20:57:49.0346211+00:00",
+  "LastUpdate_Achievements": "2023-07-19T21:03:19.7246578+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3158,9 +3158,9 @@
       "Count": 381
     }
   ],
-  "EOS_Progressed": 10403,
+  "EOS_Progressed": 10405,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8738,6 +8738,11 @@
       "Time": "2023-07-19T20:04:49.6757677+00:00",
       "NumProgressed": 10403,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-19T21:04:23.4296224+00:00",
+      "NumProgressed": 10405,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -8757,7 +8762,7 @@
       "Name": "Burning City",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1456
+      "UsersEstimate": 1457
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -8765,7 +8770,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1145
     },
     {
       "ID": "04_FithCrusade",
@@ -8795,9 +8800,9 @@
       "ID": "07_FinalThreshold",
       "SetID": "989of5o",
       "Name": "The Final Threshold",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 94
+      "UsersEstimate": 104
     },
     {
       "ID": "08_PathOfAngel",
@@ -8885,7 +8890,7 @@
       "Name": "Mythic Choices",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     },
     {
       "ID": "19_EqualToAroden",
@@ -8997,7 +9002,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -9117,7 +9122,7 @@
       "Name": "A Spark",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1560
+      "UsersEstimate": 1561
     },
     {
       "ID": "49_Flame",
@@ -9676,21 +9681,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9185,
+      "Progressed": 9187,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10403,
+      "Progressed": 10405,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-19T17:58:49.3075601+00:00",
-  "LastChanged_Achievements": "2023-07-19T20:04:49.675767+00:00",
+  "LastChanged_Achievements": "2023-07-19T21:04:23.429622+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:17.6267462+00:00",
-  "LastUpdate_Ratings": "2023-07-19T19:59:03.611822+00:00",
-  "LastUpdate_Achievements": "2023-07-19T20:04:49.6759953+00:00"
+  "LastUpdate_Ratings": "2023-07-19T20:58:25.8267614+00:00",
+  "LastUpdate_Achievements": "2023-07-19T21:04:23.4297799+00:00"
 }

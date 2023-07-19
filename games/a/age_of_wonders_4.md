@@ -25,6 +25,7 @@ Rating: 4.63 (Ranked 331)
 | Here be Dragons | 3.00% | ~150 |
 | Blood of the Dragon | 3.00% | ~150 |
 | Valley of Wonders | 2.00% | ~100 |
+| The Magic That Empowers Me! | 2.00% | ~100 |
 | Return of the Wizard King | 2.00% | ~100 |
 | God Emperor | 2.00% | ~100 |
 | Lord of Chaos | 2.00% | ~100 |
@@ -37,7 +38,6 @@ Rating: 4.63 (Ranked 331)
 | In a Liege of Your Own | 2.00% | ~100 |
 | Against the Odds | 2.00% | ~100 |
 | Duality | 2.00% | ~100 |
-| The Magic That Empowers Me! | 1.00% | ~50 |
 | Eternal Lord | 1.00% | ~50 |
 | Crimson Caldera | 1.00% | ~50 |
 | The Eternal Court | 1.00% | ~50 |
