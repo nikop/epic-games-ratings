@@ -2,7 +2,7 @@
   "ID": "2e92a78949e2474aa89271b8b893f3b0",
   "Name": "Alan Wake Remastered",
   "ProductSlug": "alan-wake-remastered",
-  "Ranking_Rating": 481,
+  "Ranking_Rating": 482,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 82,
@@ -512,7 +512,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57538,
+  "EOS_Progressed": 57539,
   "EOS_Completed": 58,
   "EOS_NewPlayers": 294,
   "EOS_NewCompleters": 1,
@@ -8367,6 +8367,11 @@
       "Time": "2023-07-19T16:03:39.2589789+00:00",
       "NumProgressed": 57538,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-07-19T17:03:50.6102556+00:00",
+      "NumProgressed": 57539,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 67,
@@ -8482,7 +8487,7 @@
       "Name": "Gatekeeper",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5178
+      "UsersEstimate": 5179
     },
     {
       "ID": "15",
@@ -8490,7 +8495,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5178
+      "UsersEstimate": 5179
     },
     {
       "ID": "16",
@@ -8610,7 +8615,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5178
+      "UsersEstimate": 5179
     },
     {
       "ID": "31",
@@ -8642,7 +8647,7 @@
       "Name": "Energized!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5178
+      "UsersEstimate": 5179
     },
     {
       "ID": "35",
@@ -8778,7 +8783,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1680
+      "UsersEstimate": 1681
     },
     {
       "ID": "52",
@@ -8913,21 +8918,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57538,
+      "Progressed": 57539,
       "Completed": 58
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 21006,
+      "Progressed": 21007,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-19T16:03:39.2589785+00:00",
+  "LastChanged_Achievements": "2023-07-19T17:03:50.6102549+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:10.5196415+00:00",
-  "LastUpdate_Ratings": "2023-07-19T15:58:06.1966423+00:00",
-  "LastUpdate_Achievements": "2023-07-19T16:03:39.2590817+00:00"
+  "LastUpdate_Ratings": "2023-07-19T16:58:12.2666388+00:00",
+  "LastUpdate_Achievements": "2023-07-19T17:03:50.6103742+00:00"
 }

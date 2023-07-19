@@ -4,7 +4,7 @@
   "ProductSlug": "the-elder-scrolls-online",
   "Ranking_EOS_Progress": 498,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-13T15:57:18.5565921+00:00",
-  "LastUpdate_Ratings": "2023-07-19T15:59:59.7740303+00:00",
-  "LastUpdate_Achievements": "2023-07-19T16:05:40.0885401+00:00"
+  "LastUpdate_Ratings": "2023-07-19T17:00:09.7913026+00:00",
+  "LastUpdate_Achievements": "2023-07-19T17:05:52.1337294+00:00"
 }

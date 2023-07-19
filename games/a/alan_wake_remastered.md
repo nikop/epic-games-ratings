@@ -1,7 +1,7 @@
 # Alan Wake Remastered
 [Store](https://store.epicgames.com/en-US/p/alan-wake-remastered)  
 [View Rawdata](../../db/a/alan_wake_remastered.json)  
-Rating: 4.55 (Ranked 481)  
+Rating: 4.55 (Ranked 482)  
 Number of Ratings: 524  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -29,13 +29,13 @@ Number of Ratings: 524  (23.09.2022)
 | Perchance to Dream | 10.00% | ~5,754 |
 | It's Not Just a Typewriter Brand | 10.00% | ~5,754 |
 | Thunder and Lightning | 10.00% | ~5,754 |
-| Gatekeeper | 9.00% | ~5,178 |
-| The Lady of the Light | 9.00% | ~5,178 |
-| Two For the Price of One | 9.00% | ~5,178 |
-| Energized! | 9.00% | ~5,178 |
+| Gatekeeper | 9.00% | ~5,179 |
+| The Lady of the Light | 9.00% | ~5,179 |
+| Two For the Price of One | 9.00% | ~5,179 |
+| Energized! | 9.00% | ~5,179 |
 | What Light Through Yonder Window | 8.00% | ~4,603 |
 | Right of Way | 8.00% | ~4,603 |
-| A Friend in Need | 8.00% | ~1,680 |
+| A Friend in Need | 8.00% | ~1,681 |
 | Tornado Wrangler | 7.00% | ~4,028 |
 | Departure | 6.00% | ~3,452 |
 | A Friend Indeed | 6.00% | ~1,260 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~58 |
 | No Punctuation | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,538 (Ranked 82)  
+Progressed: 57,539 (Ranked 82)  
 Completed: 58 (0.10%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 58 (0.10%) (Ranked 184)
 | 2023-07-16 | 57,444 | 58 |
 | 2023-07-17 | 57,477 | 58 |
 | 2023-07-18 | 57,515 | 58 |
-| 2023-07-19 | 57,538 | 58 |
+| 2023-07-19 | 57,539 | 58 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

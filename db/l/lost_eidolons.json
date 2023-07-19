@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -170,9 +170,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1042,
+  "EOS_Progressed": 1043,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1090,6 +1090,11 @@
       "Time": "2023-07-18T21:07:42.7432529+00:00",
       "NumProgressed": 1042,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-19T17:06:49.4531842+00:00",
+      "NumProgressed": 1043,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -1141,7 +1146,7 @@
       "Name": "First Blood",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "07",
@@ -1149,7 +1154,7 @@
       "Name": "Monster Hunter",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "08",
@@ -1229,7 +1234,7 @@
       "Name": "Ready to Learn",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "18",
@@ -1237,7 +1242,7 @@
       "Name": "Earning Trust",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "19",
@@ -1253,7 +1258,7 @@
       "Name": "Digging Deep",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "21",
@@ -1284,7 +1289,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1042,
+      "Progressed": 1043,
       "Completed": 0
     }
   ],
@@ -1292,8 +1297,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-06-30T20:00:05.692321+00:00",
-  "LastChanged_Achievements": "2023-07-19T16:06:34.9378936+00:00",
+  "LastChanged_Achievements": "2023-07-19T17:06:49.4531836+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:41.6468883+00:00",
-  "LastUpdate_Ratings": "2023-07-19T15:59:58.6663928+00:00",
-  "LastUpdate_Achievements": "2023-07-19T16:06:34.9379098+00:00"
+  "LastUpdate_Ratings": "2023-07-19T17:00:08.6559956+00:00",
+  "LastUpdate_Achievements": "2023-07-19T17:06:49.4532059+00:00"
 }

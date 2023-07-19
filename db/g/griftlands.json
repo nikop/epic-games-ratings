@@ -2,12 +2,12 @@
   "ID": "phlox",
   "Name": "Griftlands",
   "ProductSlug": "griftlands",
-  "Ranking_Rating": 90,
+  "Ranking_Rating": 82,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 498,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2019-07-11T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.79,
+  "Rating": 4.8,
   "NumberOfRatings": 151,
   "RatingHistory": [
     {
@@ -274,6 +274,12 @@
       "Rating": 4.79,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-07-19T16:59:21.7749937+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -291,8 +297,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:37.4181634+00:00",
-  "LastChanged": "2023-05-10T22:59:29.044002+00:00",
+  "LastChanged": "2023-07-19T16:59:21.7749935+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:52.0127788+00:00",
-  "LastUpdate_Ratings": "2023-07-19T15:59:10.6194204+00:00",
-  "LastUpdate_Achievements": "2023-07-19T16:03:19.8955607+00:00"
+  "LastUpdate_Ratings": "2023-07-19T16:59:21.7749943+00:00",
+  "LastUpdate_Achievements": "2023-07-19T17:03:30.427536+00:00"
 }

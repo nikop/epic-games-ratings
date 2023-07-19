@@ -1,7 +1,7 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.10 (Ranked 888)  
+Rating: 4.10 (Ranked 887)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,7 +10,7 @@ Rating: 4.10 (Ranked 888)
 | Temple of Eternals | 56.00% | ~940 |
 | Prestigious | 53.00% | ~890 |
 | Fellowship Power | 41.00% | ~688 |
-| Guild Power | 24.00% | ~403 |
+| Guild Power | 25.00% | ~420 |
 | Prestigious x10 | 21.00% | ~353 |
 | The game is on | 20.00% | ~336 |
 | Exotic Merchant | 17.00% | ~285 |

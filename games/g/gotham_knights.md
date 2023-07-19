@@ -50,11 +50,11 @@ Rating: 4.18 (Ranked 856)
 | Renewable Enemy Source | 0.30% | ~112 |
 | Crime Is a Terrible Thing to Waste | 0.30% | ~112 |
 | Practice Makes Perfect | 0.30% | ~202 |
+| The Man-Bat Family | 0.30% | ~202 |
 | Element of Surprise | 0.20% | ~75 |
 | It's Nice to Be Wanted | 0.20% | ~75 |
 | The Cold, the Bad and the Ugly | 0.20% | ~75 |
 | Talonted | 0.20% | ~134 |
-| The Man-Bat Family | 0.20% | ~134 |
 | Icebreaker | 0.20% | ~75 |
 | Batarang Collector | 0.20% | ~134 |
 | Claiming the Mural High Ground | 0.20% | ~134 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 856)
 | History Major | 0.10% | ~67 |
 | Confronting Your Demon | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,195 (Ranked 77)  
+Progressed: 67,196 (Ranked 77)  
 Completed: 102 (0.15%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,7 +157,7 @@ Completed: 102 (0.15%) (Ranked 175)
 | 2023-07-16 | 67,109 | 102 |
 | 2023-07-17 | 67,148 | 102 |
 | 2023-07-18 | 67,170 | 102 |
-| 2023-07-19 | 67,195 | 102 |
+| 2023-07-19 | 67,196 | 102 |
 ## Awards
 Max (Great Boss Battles): 2,452  (Ranked 101)  
 Sum: 4,067 (Ranked 138)  

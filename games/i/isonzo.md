@@ -1,21 +1,21 @@
 # Isonzo
 [Store](https://store.epicgames.com/en-US/p/isonzo)  
 [View Rawdata](../../db/i/isonzo.json)  
-Rating: 4.56 (Ranked 458)  
+Rating: 4.56 (Ranked 459)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Peak Performance | 55.00% | ~3,504 |
 | Tutti Eroi! | 55.00% | ~3,504 |
-| You Shall Not Pass | 53.00% | ~3,376 |
+| You Shall Not Pass | 53.00% | ~3,377 |
 | Avanti Savoia! | 47.00% | ~2,994 |
 | Mamma Mia! | 37.00% | ~2,357 |
-| Conrad von Hotzensocks | 36.00% | ~2,293 |
+| Conrad von Hotzensocks | 36.00% | ~2,294 |
 | Gabriele D'Annunzio | 33.00% | ~2,102 |
-| Silver Lining | 29.00% | ~1,847 |
+| Silver Lining | 29.00% | ~1,848 |
 | Aurelio Baruzzi | 23.00% | ~1,465 |
-| Veni Vidi Vici | 22.00% | ~1,401 |
+| Veni Vidi Vici | 22.00% | ~1,402 |
 | Decimation | 21.00% | ~1,338 |
 | Donatello | 21.00% | ~1,338 |
 | Insubordination | 20.00% | ~1,274 |
@@ -27,8 +27,8 @@ Number of Ratings: 98  (23.09.2022)
 | Thus With A Kiss | 14.00% | ~892 |
 | Uomo Universale | 14.00% | ~892 |
 | Shaken, Not Stirred | 13.00% | ~828 |
-| Die Bosniaken Kommen! | 12.00% | ~764 |
-| Machiavelli | 12.00% | ~764 |
+| Die Bosniaken Kommen! | 12.00% | ~765 |
+| Machiavelli | 12.00% | ~765 |
 | Dante's Inferno | 11.00% | ~701 |
 | The Devil's Paintbrush | 11.00% | ~701 |
 | I Have the High Ground | 10.00% | ~637 |
@@ -38,7 +38,7 @@ Number of Ratings: 98  (23.09.2022)
 | 12th Bottle of the Isonzo | 6.00% | ~382 |
 | Cercatore d'Oro | 6.00% | ~382 |
 | The Enlightment | 6.00% | ~382 |
-| Generalissimo | 5.00% | ~318 |
+| Generalissimo | 5.00% | ~319 |
 | "O La Vittoria, O Tutti Accoppati" | 4.00% | ~255 |
 | Ponte of No Return | 3.00% | ~191 |
 | Seeing Red | 3.00% | ~191 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~25 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,370 (Ranked 131)  
+Progressed: 6,371 (Ranked 131)  
 Completed: 8 (0.13%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,6 +137,7 @@ Completed: 8 (0.13%) (Ranked 180)
 | 2023-07-15 | 6,368 | 8 |
 | 2023-07-17 | 6,369 | 8 |
 | 2023-07-18 | 6,370 | 8 |
+| 2023-07-19 | 6,371 | 8 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 435)  
 Sum: 257 (Ranked 347)  

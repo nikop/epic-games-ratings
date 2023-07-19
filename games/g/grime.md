@@ -6,41 +6,41 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Imprint | 89.00% | ~102,578 |
-| Taste | 83.00% | ~95,662 |
-| The Hunt | 65.00% | ~74,916 |
-| Ravenous | 62.00% | ~71,459 |
-| Weeper | 41.00% | ~47,255 |
-| Devourer | 20.00% | ~23,051 |
-| Harmless | 17.00% | ~19,594 |
-| Silenced Whispers | 17.00% | ~19,594 |
-| Yank | 13.00% | ~14,983 |
-| Sharpened Vessel | 13.00% | ~14,983 |
-| Scion | 9.00% | ~10,336 |
-| Jawcrab | 9.00% | ~10,373 |
-| Jawstag | 9.00% | ~10,373 |
-| Feast | 9.00% | ~10,373 |
-| Watcher | 8.00% | ~9,220 |
-| Shapely | 6.00% | ~6,915 |
-| Glare | 6.00% | ~6,890 |
-| Predator | 5.00% | ~5,763 |
-| Assimilation | 4.00% | ~4,610 |
-| Host | 4.00% | ~4,594 |
-| Hunt Down | 3.00% | ~3,458 |
-| Artisan | 3.00% | ~3,458 |
-| Hush | 3.00% | ~3,458 |
-| Celebration | 3.00% | ~3,458 |
-| Breathsmith | 3.00% | ~3,458 |
-| Breath | 2.00% | ~2,305 |
-| Inevitable | 2.00% | ~2,305 |
-| All-Seeing | 2.00% | ~2,305 |
-| Unwrap the Gift | 2.00% | ~2,305 |
-| Passage | 2.00% | ~2,305 |
-| Dream | 2.00% | ~2,297 |
-| Proportions | 2.00% | ~2,305 |
+| Imprint | 89.00% | ~102,636 |
+| Taste | 83.00% | ~95,716 |
+| The Hunt | 65.00% | ~74,959 |
+| Ravenous | 62.00% | ~71,499 |
+| Weeper | 41.00% | ~47,282 |
+| Devourer | 20.00% | ~23,064 |
+| Harmless | 17.00% | ~19,605 |
+| Silenced Whispers | 17.00% | ~19,605 |
+| Yank | 13.00% | ~14,992 |
+| Sharpened Vessel | 13.00% | ~14,992 |
+| Scion | 9.00% | ~10,341 |
+| Jawcrab | 9.00% | ~10,379 |
+| Jawstag | 9.00% | ~10,379 |
+| Feast | 9.00% | ~10,379 |
+| Watcher | 8.00% | ~9,226 |
+| Shapely | 6.00% | ~6,919 |
+| Glare | 6.00% | ~6,894 |
+| Predator | 5.00% | ~5,766 |
+| Assimilation | 4.00% | ~4,613 |
+| Host | 4.00% | ~4,596 |
+| Hunt Down | 3.00% | ~3,460 |
+| Artisan | 3.00% | ~3,460 |
+| Hush | 3.00% | ~3,460 |
+| Celebration | 3.00% | ~3,460 |
+| Breathsmith | 3.00% | ~3,460 |
+| Breath | 2.00% | ~2,306 |
+| Inevitable | 2.00% | ~2,306 |
+| All-Seeing | 2.00% | ~2,306 |
+| Unwrap the Gift | 2.00% | ~2,306 |
+| Passage | 2.00% | ~2,306 |
+| Dream | 2.00% | ~2,298 |
+| Proportions | 2.00% | ~2,306 |
 | Bloodhunter | 1.00% | ~1,153 |
 | Kinship | 1.00% | ~1,153 |
-| Listen | 1.00% | ~1,148 |
+| Listen | 1.00% | ~1,149 |
 | Zygote | 0.90% | ~1,034 |
 | Kin | 0.90% | ~1,034 |
 | Weakness | 0.70% | ~807 |
@@ -49,7 +49,7 @@ Number of Ratings: 46  (23.09.2022)
 | Instruments | 0.30% | ~346 |
 | Spiral Heart | 0.10% | ~115 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 115,256 (Ranked 65)  
+Progressed: 115,321 (Ranked 65)  
 Completed: 1 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 1 (0.00%) (Ranked 238)
 | 2023-07-16 | 110,217 | 1 |
 | 2023-07-17 | 112,387 | 1 |
 | 2023-07-18 | 114,181 | 1 |
-| 2023-07-19 | 115,256 | 1 |
+| 2023-07-19 | 115,321 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -345,9 +345,9 @@
       "ID": "BeggarWomanHut",
       "SetID": "db30heh",
       "Name": "Home Sweet Home",
-      "Percentage": 72,
+      "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "BroomAmanita",
@@ -417,9 +417,9 @@
       "ID": "FerrymanBird",
       "SetID": "db30heh",
       "Name": "Happy Reunion",
-      "Percentage": 72,
+      "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "HastrmanAcorn",
@@ -632,8 +632,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-07-19T16:05:34.5099729+00:00",
+  "LastChanged_Achievements": "2023-07-19T17:05:46.7676735+00:00",
   "LastUpdate_AppInfo": "2023-07-18T13:57:17.4502058+00:00",
-  "LastUpdate_Ratings": "2023-07-19T15:57:18.1517288+00:00",
-  "LastUpdate_Achievements": "2023-07-19T16:05:34.5100028+00:00"
+  "LastUpdate_Ratings": "2023-07-19T16:57:26.1304833+00:00",
+  "LastUpdate_Achievements": "2023-07-19T17:05:46.7677131+00:00"
 }

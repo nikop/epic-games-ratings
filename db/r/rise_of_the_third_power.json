@@ -297,9 +297,9 @@
       "ID": "Specialist",
       "SetID": "4nce15l",
       "Name": "Specialist",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 60,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Teamwork",
@@ -322,8 +322,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.3919584+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00",
   "LastChanged": "2023-03-31T05:58:42.3919585+00:00",
-  "LastChanged_Achievements": "2023-07-19T16:06:32.5451971+00:00",
+  "LastChanged_Achievements": "2023-07-19T17:06:47.0309646+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:54.6383092+00:00",
-  "LastUpdate_Ratings": "2023-07-19T15:59:17.2347537+00:00",
-  "LastUpdate_Achievements": "2023-07-19T16:06:32.5452081+00:00"
+  "LastUpdate_Ratings": "2023-07-19T16:59:29.5768043+00:00",
+  "LastUpdate_Achievements": "2023-07-19T17:06:47.0309803+00:00"
 }

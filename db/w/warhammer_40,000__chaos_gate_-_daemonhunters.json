@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 304,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -606,9 +606,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2978,
+  "EOS_Progressed": 2979,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2286,6 +2286,11 @@
       "Time": "2023-07-19T13:13:27.8507727+00:00",
       "NumProgressed": 2978,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-19T17:03:47.4756482+00:00",
+      "NumProgressed": 2979,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2457,7 +2462,7 @@
       "Name": "Hold Your Ground",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "Kills_Auto",
@@ -2489,7 +2494,7 @@
       "Name": "Executioner",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1162
     },
     {
       "ID": "Kills_Exterminator",
@@ -2529,7 +2534,7 @@
       "Name": "Purging Spree",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "Kills_Vakir",
@@ -2768,21 +2773,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2978,
+      "Progressed": 2979,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2978,
+      "Progressed": 2979,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-13T14:59:29.0223898+00:00",
-  "LastChanged_Achievements": "2023-07-19T16:03:36.302606+00:00",
+  "LastChanged_Achievements": "2023-07-19T17:03:47.4756476+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:36.8896867+00:00",
-  "LastUpdate_Ratings": "2023-07-19T15:58:59.7852306+00:00",
-  "LastUpdate_Achievements": "2023-07-19T16:03:36.302655+00:00"
+  "LastUpdate_Ratings": "2023-07-19T16:59:09.7845715+00:00",
+  "LastUpdate_Achievements": "2023-07-19T17:03:47.475714+00:00"
 }

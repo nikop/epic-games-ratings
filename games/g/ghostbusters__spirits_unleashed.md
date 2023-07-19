@@ -5,14 +5,14 @@ Rating: 4.49 (Ranked 575)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~20,912 |
+| Stylish | 86.00% | ~20,913 |
 | Advancement | 73.00% | ~17,751 |
-| Meticulously Efficient | 64.00% | ~15,562 |
+| Meticulously Efficient | 64.00% | ~15,563 |
 | Discovery | 61.00% | ~14,833 |
 | Fully Upgraded | 54.00% | ~13,131 |
 | Swift Rift Removers | 54.00% | ~13,131 |
-| I collect Spores, Molds, and Fungi | 51.00% | ~12,401 |
-| Cultured | 51.00% | ~12,401 |
+| I collect Spores, Molds, and Fungi | 51.00% | ~12,402 |
+| Cultured | 51.00% | ~12,402 |
 | Vaporous Expansion | 48.00% | ~11,672 |
 | Teamwork | 44.00% | ~10,699 |
 | There you are! | 43.00% | ~10,456 |
@@ -23,8 +23,8 @@ Rating: 4.49 (Ranked 575)
 | Welcome to the Crew | 32.00% | ~7,781 |
 | Ghostbuster In Training | 30.00% | ~7,295 |
 | Icing on the Cake | 30.00% | ~7,295 |
-| Side Hustle | 27.00% | ~6,565 |
-| Summoner | 27.00% | ~6,565 |
+| Side Hustle | 27.00% | ~6,566 |
+| Summoner | 27.00% | ~6,566 |
 | We have the best insurance | 26.00% | ~6,322 |
 | Legions | 26.00% | ~6,322 |
 | Right back at ya | 26.00% | ~6,322 |
@@ -44,12 +44,12 @@ Rating: 4.49 (Ranked 575)
 | Whoopsie | 12.00% | ~2,918 |
 | Liability | 10.00% | ~2,432 |
 | Rivalry | 10.00% | ~2,432 |
-| Fragile Panes | 9.00% | ~2,188 |
-| Surprise! | 9.00% | ~2,188 |
+| Fragile Panes | 9.00% | ~2,189 |
+| Surprise! | 9.00% | ~2,189 |
 | Master Collector | 7.00% | ~1,702 |
 | Rift Seeker | 7.00% | ~1,702 |
 | Therapeutic | 7.00% | ~1,702 |
-| Ghost Expert | 3.00% | ~729 |
+| Ghost Expert | 3.00% | ~730 |
 | Catostrophic Destroyer | 2.00% | ~486 |
 | Line em' up | 2.00% | ~486 |
 | Little Help Here | 2.00% | ~486 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 575)
 | Mycophile | 1.00% | ~243 |
 | I don't need these | 0.90% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,316 (Ranked 99)  
+Progressed: 24,317 (Ranked 99)  
 Completed: 46 (0.19%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 46 (0.19%) (Ranked 168)
 | 2023-07-16 | 24,264 | 46 |
 | 2023-07-17 | 24,281 | 46 |
 | 2023-07-18 | 24,306 | 46 |
-| 2023-07-19 | 24,316 | 46 |
+| 2023-07-19 | 24,317 | 46 |
 ## Awards
 Max (Great for Quick Sessions): 243  (Ranked 249)  
 Sum: 2,172 (Ranked 189)  

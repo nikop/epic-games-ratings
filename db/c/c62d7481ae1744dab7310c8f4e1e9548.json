@@ -166,9 +166,9 @@
       "ID": "Kudla",
       "SetID": "ag48e8e",
       "Name": "Knife",
-      "Percentage": 60,
+      "Percentage": 70,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Kvitky",
@@ -302,9 +302,9 @@
       "ID": "Xicht",
       "SetID": "ag48e8e",
       "Name": "Rockheads",
-      "Percentage": 30,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Zelvak",
@@ -333,8 +333,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-07-19T16:00:49.8670772+00:00",
+  "LastChanged_Achievements": "2023-07-19T17:01:01.7765832+00:00",
   "LastUpdate_AppInfo": "2023-07-14T13:57:07.7032953+00:00",
-  "LastUpdate_Ratings": "2023-07-19T15:57:11.389244+00:00",
-  "LastUpdate_Achievements": "2023-07-19T16:00:49.8671182+00:00"
+  "LastUpdate_Ratings": "2023-07-19T16:57:18.1775442+00:00",
+  "LastUpdate_Achievements": "2023-07-19T17:01:01.7766162+00:00"
 }

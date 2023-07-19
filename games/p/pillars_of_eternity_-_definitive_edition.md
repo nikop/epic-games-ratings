@@ -6,12 +6,12 @@ Number of Ratings: 2,847  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Kickstarter Backer | 82.00% | ~889 |
-| Completed Act I | 30.00% | ~325 |
+| Kickstarter Backer | 81.00% | ~879 |
+| Completed Act I | 30.00% | ~326 |
 | 5 Upgrades in Stronghold | 26.00% | ~282 |
 | First 5 Levels of Od Nua | 24.00% | ~260 |
-| Make an Adventurer | 23.00% | ~249 |
-| Completed Act II | 16.00% | ~173 |
+| Make an Adventurer | 23.00% | ~250 |
+| Completed Act II | 16.00% | ~174 |
 | Enchanter | 15.00% | ~163 |
 | Disposition | 15.00% | ~163 |
 | Middle 5 Levels of Od Nua | 15.00% | ~163 |
@@ -55,7 +55,7 @@ Number of Ratings: 2,847  (23.09.2022)
 | Frozen Crown | 0.50% | ~5 |
 | The Ultimate | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,084 (Ranked 185)  
+Progressed: 1,085 (Ranked 185)  
 Completed: 4 (0.37%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,6 +70,7 @@ Completed: 4 (0.37%) (Ranked 141)
 | 2023-06-13 | 1,082 | 4 |
 | 2023-06-27 | 1,083 | 4 |
 | 2023-07-14 | 1,084 | 4 |
+| 2023-07-19 | 1,085 | 4 |
 ## Awards
 Max (Character Customization): 1,895  (Ranked 110)  
 Sum: 4,650 (Ranked 134)  

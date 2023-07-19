@@ -2,7 +2,7 @@
   "ID": "bda8d2133655435982b9118972792328",
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
-  "Ranking_Rating": 888,
+  "Ranking_Rating": 887,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 169,
@@ -4586,9 +4586,9 @@
       "ID": "guildpower",
       "SetID": "3nl4bcg",
       "Name": "Guild Power",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 403
+      "UsersEstimate": 420
     },
     {
       "ID": "herewegoagain",
@@ -4963,8 +4963,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-07-18T16:58:41.2064019+00:00",
-  "LastChanged_Achievements": "2023-07-19T16:00:55.6374011+00:00",
+  "LastChanged_Achievements": "2023-07-19T17:01:07.4891733+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:38.4078532+00:00",
-  "LastUpdate_Ratings": "2023-07-19T15:58:24.7507674+00:00",
-  "LastUpdate_Achievements": "2023-07-19T16:00:55.6374836+00:00"
+  "LastUpdate_Ratings": "2023-07-19T16:58:30.7242601+00:00",
+  "LastUpdate_Achievements": "2023-07-19T17:01:07.4892857+00:00"
 }
