@@ -15,7 +15,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2965,
+  "EOS_Progressed": 2966,
   "EOS_Completed": 100,
   "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 4,
@@ -3535,6 +3535,11 @@
       "Time": "2023-07-18T22:06:55.0107404+00:00",
       "NumProgressed": 2965,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-07-19T10:06:31.3154812+00:00",
+      "NumProgressed": 2966,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 24,
@@ -3546,7 +3551,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "10",
@@ -3560,9 +3565,9 @@
       "ID": "11",
       "SetID": "9p3jgda",
       "Name": "PERFECTLY POISED",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 296
+      "UsersEstimate": 326
     },
     {
       "ID": "12",
@@ -3570,7 +3575,7 @@
       "Name": "TRAINING HARD",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "13",
@@ -3626,7 +3631,7 @@
       "Name": "DEFEAT OUR CHAMPION",
       "Percentage": 13,
       "XP": 85,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "2",
@@ -3634,7 +3639,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "20",
@@ -3650,7 +3655,7 @@
       "Name": "ACE DEFENDER",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "22",
@@ -3698,7 +3703,7 @@
       "Name": "ROOKIE",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1571
+      "UsersEstimate": 1572
     },
     {
       "ID": "6",
@@ -3706,7 +3711,7 @@
       "Name": "PRO",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 978
+      "UsersEstimate": 979
     },
     {
       "ID": "7",
@@ -3730,20 +3735,20 @@
       "Name": "LEGENDARY HERO",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     }
   ],
   "AchievementSets": [
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2965,
+      "Progressed": 2966,
       "Completed": 100
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-07-19T09:05:38.1697534+00:00",
+  "LastChanged_Achievements": "2023-07-19T10:06:31.3154806+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:54.868293+00:00",
-  "LastUpdate_Ratings": "2023-07-19T08:59:14.0294705+00:00",
-  "LastUpdate_Achievements": "2023-07-19T09:05:38.1697938+00:00"
+  "LastUpdate_Ratings": "2023-07-19T09:59:51.9976424+00:00",
+  "LastUpdate_Achievements": "2023-07-19T10:06:31.3155109+00:00"
 }

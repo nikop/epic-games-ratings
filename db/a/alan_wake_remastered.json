@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57530,
+  "EOS_Progressed": 57531,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 294,
+  "EOS_NewPlayers": 295,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8347,6 +8347,11 @@
       "Time": "2023-07-19T08:03:24.2792862+00:00",
       "NumProgressed": 57530,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-07-19T10:03:51.6259157+00:00",
+      "NumProgressed": 57531,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 67,
@@ -8358,7 +8363,7 @@
       "Name": "Follow the Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 19560
+      "UsersEstimate": 19561
     },
     {
       "ID": "02",
@@ -8366,7 +8371,7 @@
       "Name": "Nordic Walking",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 12081
+      "UsersEstimate": 12082
     },
     {
       "ID": "03",
@@ -8374,7 +8379,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 12081
+      "UsersEstimate": 12082
     },
     {
       "ID": "04",
@@ -8390,7 +8395,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10355
+      "UsersEstimate": 10356
     },
     {
       "ID": "06",
@@ -8454,7 +8459,7 @@
       "Name": "Drink \u0027Em Both Up",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2876
+      "UsersEstimate": 2877
     },
     {
       "ID": "14",
@@ -8494,7 +8499,7 @@
       "Name": "Hardboiled Writer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2876
+      "UsersEstimate": 2877
     },
     {
       "ID": "19",
@@ -8630,7 +8635,7 @@
       "Name": "Let There Be Light",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 16108
+      "UsersEstimate": 16109
     },
     {
       "ID": "36",
@@ -8893,21 +8898,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57530,
+      "Progressed": 57531,
       "Completed": 58
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20998,
+      "Progressed": 20999,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-19T09:03:30.7375158+00:00",
+  "LastChanged_Achievements": "2023-07-19T10:03:51.6259153+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:10.5196415+00:00",
-  "LastUpdate_Ratings": "2023-07-19T08:58:07.4021946+00:00",
-  "LastUpdate_Achievements": "2023-07-19T09:03:30.7376303+00:00"
+  "LastUpdate_Ratings": "2023-07-19T09:58:29.4928418+00:00",
+  "LastUpdate_Achievements": "2023-07-19T10:03:51.6260049+00:00"
 }

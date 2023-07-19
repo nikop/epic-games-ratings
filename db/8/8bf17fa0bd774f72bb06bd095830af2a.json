@@ -2,9 +2,9 @@
   "ID": "8bf17fa0bd774f72bb06bd095830af2a",
   "Name": "The Dragoness Command Of The Flame",
   "ProductSlug": "the-dragoness-command-of-the-flame-b3b544",
-  "Ranking_EOS_Progress": 461,
+  "Ranking_EOS_Progress": 443,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-08-09T23:00:00+00:00",
@@ -19,15 +19,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-07-05T15:04:29.9449086+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-19T10:01:40.770416+00:00",
+      "NumProgressed": 2,
       "NumCompleted": 0
     }
   ],
@@ -55,7 +60,7 @@
       "ID": "SteamAchievement_KillFireMonsters",
       "SetID": "b8gj0ip",
       "Name": "Crushing the rebelion: Zildarya",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -319,7 +324,7 @@
       "ID": "SteamAchievment_FirstVisitCapitalCity",
       "SetID": "b8gj0ip",
       "Name": "The Dawn",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -336,13 +341,13 @@
     {
       "ID": "b8gj0ip",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-30T14:00:09.5243374+00:00",
-  "LastChanged_Achievements": "2023-07-19T08:02:33.3858237+00:00",
+  "LastChanged_Achievements": "2023-07-19T10:01:40.7704155+00:00",
   "LastUpdate_AppInfo": "2023-07-18T17:56:50.9417283+00:00",
-  "LastUpdate_Ratings": "2023-07-19T08:57:28.9415017+00:00",
-  "LastUpdate_Achievements": "2023-07-19T08:02:33.3858486+00:00"
+  "LastUpdate_Ratings": "2023-07-19T09:57:36.912902+00:00",
+  "LastUpdate_Achievements": "2023-07-19T10:01:40.770442+00:00"
 }

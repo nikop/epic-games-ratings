@@ -6,24 +6,24 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 77.00% | ~9,800 |
-| Sword Runner | 63.00% | ~8,018 |
-| Running out of breath | 55.00% | ~7,000 |
-| Wallrunner | 55.00% | ~7,000 |
-| Homerunner | 46.00% | ~5,854 |
-| Out of order | 46.00% | ~5,854 |
-| I call it luck | 45.00% | ~5,727 |
-| Where are my Keys? | 42.00% | ~5,345 |
-| Back to hell | 38.00% | ~4,836 |
-| Perfection | 33.00% | ~4,200 |
-| Why not both | 31.00% | ~3,945 |
-| Sword to a gunfight | 30.00% | ~3,818 |
+| Longrunner | 77.00% | ~9,801 |
+| Sword Runner | 63.00% | ~8,019 |
+| Running out of breath | 55.00% | ~7,001 |
+| Wallrunner | 55.00% | ~7,001 |
+| Homerunner | 46.00% | ~5,855 |
+| Out of order | 46.00% | ~5,855 |
+| I call it luck | 45.00% | ~5,728 |
+| Where are my Keys? | 42.00% | ~5,346 |
+| Back to hell | 38.00% | ~4,837 |
+| Perfection | 33.00% | ~4,201 |
+| Why not both | 31.00% | ~3,946 |
+| Sword to a gunfight | 30.00% | ~3,819 |
 | Artificial selection | 29.00% | ~3,691 |
 | Upgrades not mandatory | 29.00% | ~3,691 |
 | Control freak | 28.00% | ~3,564 |
 | Running Wild | 28.00% | ~3,564 |
-| Finish line | 27.00% | ~3,436 |
-| Unstoppable force | 23.00% | ~2,927 |
+| Finish line | 27.00% | ~3,437 |
+| Unstoppable force | 23.00% | ~2,928 |
 | Wave of mutilation | 22.00% | ~2,800 |
 | Can't Run Can't Hide | 18.00% | ~2,291 |
 | R is for Running | 17.00% | ~2,164 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~51 |
 | Up Close And Personal | 0.40% | ~51 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,727 (Ranked 114)  
+Progressed: 12,729 (Ranked 114)  
 Completed: 51 (0.40%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 51 (0.40%) (Ranked 139)
 | 2023-07-16 | 12,582 | 51 |
 | 2023-07-17 | 12,644 | 51 |
 | 2023-07-18 | 12,708 | 51 |
-| 2023-07-19 | 12,727 | 51 |
+| 2023-07-19 | 12,729 | 51 |
 ## Awards
 Max (Great Boss Battles): 471  (Ranked 196)  
 Sum: 608 (Ranked 288)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -93,9 +93,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 323,
+  "EOS_Progressed": 324,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -363,6 +363,11 @@
       "Time": "2023-07-19T06:03:36.7786343+00:00",
       "NumProgressed": 323,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-19T10:03:51.1329028+00:00",
+      "NumProgressed": 324,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -372,9 +377,9 @@
       "ID": "01_gettingstarted",
       "SetID": "chb1m60",
       "Name": "Getting started",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 243
     },
     {
       "ID": "02_collector",
@@ -388,9 +393,9 @@
       "ID": "03_philatelist",
       "SetID": "chb1m60",
       "Name": "Philatelist",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 87
     },
     {
       "ID": "04_tycoon",
@@ -422,7 +427,7 @@
       "Name": "Europe",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "08_america",
@@ -436,9 +441,9 @@
       "ID": "09_russia",
       "SetID": "chb1m60",
       "Name": "Russia",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 65
+      "UsersEstimate": 62
     },
     {
       "ID": "10_japan",
@@ -462,15 +467,15 @@
       "Name": "Let\u0027s roll!",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "13_bunkrupt",
       "SetID": "chb1m60",
       "Name": "It\u0027s no coincidence.",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 104
     },
     {
       "ID": "14_woodcutter",
@@ -510,7 +515,7 @@
       "Name": "Foreman",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "19_justintime",
@@ -526,7 +531,7 @@
       "Name": "Sabotage",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "21_missed",
@@ -548,9 +553,9 @@
       "ID": "23_closecall",
       "SetID": "chb1m60",
       "Name": "Close call!",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 240
     },
     {
       "ID": "24_mega",
@@ -606,7 +611,7 @@
       "Name": "Completely nuts!",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "31_chancellor",
@@ -638,7 +643,7 @@
       "Name": "Need to think",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "35_achtung",
@@ -685,15 +690,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 323,
+      "Progressed": 324,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-03-31T05:57:32.453108+00:00",
-  "LastChanged_Achievements": "2023-07-19T09:03:30.4425173+00:00",
+  "LastChanged_Achievements": "2023-07-19T10:03:51.1329022+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:08.5245199+00:00",
-  "LastUpdate_Ratings": "2023-07-19T08:58:03.6267176+00:00",
-  "LastUpdate_Achievements": "2023-07-19T09:03:30.4425462+00:00"
+  "LastUpdate_Ratings": "2023-07-19T09:58:23.7895489+00:00",
+  "LastUpdate_Achievements": "2023-07-19T10:03:51.1329282+00:00"
 }

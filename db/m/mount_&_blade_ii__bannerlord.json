@@ -5641,10 +5641,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 13792,
       "NumberOfAwardsMax": 6813
+    },
+    {
+      "Time": "2023-07-19T10:00:46.7525304+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 13793,
+      "NumberOfAwardsMax": 6813
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13792,
+  "NumberOfAwards": 13793,
   "NumberOfAwardsMax": 6813,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5682,7 +5688,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 780
+      "Count": 781
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5721,9 +5727,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 56076,
+  "EOS_Progressed": 56079,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 511,
+  "EOS_NewPlayers": 514,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15021,6 +15027,11 @@
       "Time": "2023-07-19T09:06:25.5247368+00:00",
       "NumProgressed": 56076,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-19T10:07:29.6461452+00:00",
+      "NumProgressed": 56079,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -15032,7 +15043,7 @@
       "Name": "Against all odds",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6168
+      "UsersEstimate": 6169
     },
     {
       "ID": "Apple of my eye",
@@ -15200,7 +15211,7 @@
       "Name": "I can do it",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8411
+      "UsersEstimate": 8412
     },
     {
       "ID": "I spit on your grave",
@@ -15224,7 +15235,7 @@
       "Name": "King Solomon",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 8972
+      "UsersEstimate": 8973
     },
     {
       "ID": "Kingslayer",
@@ -15264,7 +15275,7 @@
       "Name": "Lawbringer",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 20748
+      "UsersEstimate": 20749
     },
     {
       "ID": "Lawmaker",
@@ -15288,7 +15299,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 3925
+      "UsersEstimate": 3926
     },
     {
       "ID": "Minor Clan",
@@ -15408,7 +15419,7 @@
       "Name": "Trained",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 11776
+      "UsersEstimate": 11777
     },
     {
       "ID": "Undercover",
@@ -15439,15 +15450,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 56076,
+      "Progressed": 56079,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-07-19T03:18:10.6925288+00:00",
-  "LastChanged_Achievements": "2023-07-19T09:06:25.5247362+00:00",
+  "LastChanged": "2023-07-19T10:00:46.7525302+00:00",
+  "LastChanged_Achievements": "2023-07-19T10:07:29.6461441+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:48.1005966+00:00",
-  "LastUpdate_Ratings": "2023-07-19T08:59:55.2187604+00:00",
-  "LastUpdate_Achievements": "2023-07-19T09:06:25.5248356+00:00"
+  "LastUpdate_Ratings": "2023-07-19T10:00:46.7525309+00:00",
+  "LastUpdate_Achievements": "2023-07-19T10:07:29.6462239+00:00"
 }
