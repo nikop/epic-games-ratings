@@ -5659,10 +5659,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 13802,
       "NumberOfAwardsMax": 6820
+    },
+    {
+      "Time": "2023-07-19T22:59:39.0254416+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 13804,
+      "NumberOfAwardsMax": 6820
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13802,
+  "NumberOfAwards": 13804,
   "NumberOfAwardsMax": 6820,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5712,7 +5718,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 757
+      "Count": 759
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5739,7 +5745,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 56129,
+  "EOS_Progressed": 56130,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 521,
   "EOS_NewCompleters": 0,
@@ -15104,6 +15110,11 @@
       "Time": "2023-07-19T22:07:16.46793+00:00",
       "NumProgressed": 56129,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-19T23:06:13.6171462+00:00",
+      "NumProgressed": 56130,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -15131,7 +15142,7 @@
       "Name": "Bannerlord",
       "Percentage": 22,
       "XP": 65,
-      "UsersEstimate": 12348
+      "UsersEstimate": 12349
     },
     {
       "ID": "Best served cold",
@@ -15243,7 +15254,7 @@
       "Name": "God of the Arena",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 6735
+      "UsersEstimate": 6736
     },
     {
       "ID": "Great Granny",
@@ -15275,7 +15286,7 @@
       "Name": "Horde breaker",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 12348
+      "UsersEstimate": 12349
     },
     {
       "ID": "I can do it",
@@ -15283,7 +15294,7 @@
       "Name": "I can do it",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8419
+      "UsersEstimate": 8420
     },
     {
       "ID": "I spit on your grave",
@@ -15355,7 +15366,7 @@
       "Name": "Lawmaker",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 12348
+      "UsersEstimate": 12349
     },
     {
       "ID": "Long live the Empire",
@@ -15522,15 +15533,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 56129,
+      "Progressed": 56130,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-07-19T22:00:26.8436935+00:00",
-  "LastChanged_Achievements": "2023-07-19T22:07:16.4679294+00:00",
+  "LastChanged": "2023-07-19T22:59:39.0254415+00:00",
+  "LastChanged_Achievements": "2023-07-19T23:06:13.6171458+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:48.1005966+00:00",
-  "LastUpdate_Ratings": "2023-07-19T22:00:26.8436942+00:00",
-  "LastUpdate_Achievements": "2023-07-19T22:07:16.4680437+00:00"
+  "LastUpdate_Ratings": "2023-07-19T22:59:39.0254423+00:00",
+  "LastUpdate_Achievements": "2023-07-19T23:06:13.617226+00:00"
 }

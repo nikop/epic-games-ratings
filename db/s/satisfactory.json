@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 14,
   "Ranking_EOS_Progress": 498,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2019-03-19T14:00:00+00:00",
@@ -7916,10 +7916,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 89622,
       "NumberOfAwardsMax": 10706
+    },
+    {
+      "Time": "2023-07-19T22:59:38.8978298+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 89643,
+      "NumberOfAwardsMax": 10706
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 89622,
+  "NumberOfAwards": 89643,
   "NumberOfAwardsMax": 10706,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7939,7 +7945,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 9850
+      "Count": 9863
     },
     {
       "Text": "This game is Highly Recommended",
@@ -7969,7 +7975,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 8907
+      "Count": 8915
     },
     {
       "Text": "This game has a Creative Community",
@@ -8001,8 +8007,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:11.7040586+00:00",
-  "LastChanged": "2023-07-19T20:59:34.4373429+00:00",
+  "LastChanged": "2023-07-19T22:59:38.8978296+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:48.4887765+00:00",
-  "LastUpdate_Ratings": "2023-07-19T22:00:26.6014635+00:00",
-  "LastUpdate_Achievements": "2023-07-19T22:04:56.5632143+00:00"
+  "LastUpdate_Ratings": "2023-07-19T22:59:38.8978302+00:00",
+  "LastUpdate_Achievements": "2023-07-19T23:04:22.2594284+00:00"
 }

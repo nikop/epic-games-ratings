@@ -6,13 +6,13 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,455 |
+| Until death do us apart | 9.00% | ~6,456 |
 | That's a Grand Army | 8.00% | ~5,738 |
 | That is mine! | 8.00% | ~5,738 |
 | Victorious! | 8.00% | ~5,738 |
-| Brothers in Arms | 6.00% | ~4,303 |
-| That's a Grand Navy | 6.00% | ~4,303 |
-| Seriously?! | 6.00% | ~4,303 |
+| Brothers in Arms | 6.00% | ~4,304 |
+| That's a Grand Navy | 6.00% | ~4,304 |
+| Seriously?! | 6.00% | ~4,304 |
 | For the Glory | 5.00% | ~3,586 |
 | Cold War | 4.00% | ~2,869 |
 | True Catholic | 4.00% | ~2,869 |
@@ -22,15 +22,15 @@ Number of Ratings: 8,414  (23.09.2022)
 | Respected | 3.00% | ~2,152 |
 | The Princess is in this Castle | 3.00% | ~2,152 |
 | Truly Divine Ruler | 3.00% | ~2,152 |
-| Agressive Expander | 2.00% | ~1,434 |
-| Blockader | 2.00% | ~1,434 |
-| Combined Arms | 2.00% | ~1,434 |
-| Double the Love | 2.00% | ~1,434 |
-| Gentle Persuasion | 2.00% | ~1,434 |
-| My armies are invincible! | 2.00% | ~1,434 |
-| Queen of Conquest | 2.00% | ~1,434 |
-| Royal Authority | 2.00% | ~1,434 |
-| Total Control | 2.00% | ~1,434 |
+| Agressive Expander | 2.00% | ~1,435 |
+| Blockader | 2.00% | ~1,435 |
+| Combined Arms | 2.00% | ~1,435 |
+| Double the Love | 2.00% | ~1,435 |
+| Gentle Persuasion | 2.00% | ~1,435 |
+| My armies are invincible! | 2.00% | ~1,435 |
+| Queen of Conquest | 2.00% | ~1,435 |
+| Royal Authority | 2.00% | ~1,435 |
+| Total Control | 2.00% | ~1,435 |
 | All That's Thine Shall Be Mine | 1.00% | ~717 |
 | Azur semé de lis or | 1.00% | ~717 |
 | Bright Spark | 1.00% | ~717 |
@@ -40,9 +40,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Golden Empire | 1.00% | ~717 |
 | The Five Colonies | 1.00% | ~717 |
 | This navy can take it all | 1.00% | ~717 |
-| Isn't this the way to India? | 0.90% | ~645 |
-| Market Control | 0.90% | ~645 |
-| Trustworthy | 0.90% | ~645 |
+| Isn't this the way to India? | 0.90% | ~646 |
+| Market Control | 0.90% | ~646 |
+| Trustworthy | 0.90% | ~646 |
 | Down Under | 0.80% | ~574 |
 | Electable! | 0.70% | ~502 |
 | Populists in Government | 0.70% | ~502 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71,722 (Ranked 74)  
+Progressed: 71,730 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -451,7 +451,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-16 | 70,611 | 0 |
 | 2023-07-17 | 70,990 | 0 |
 | 2023-07-18 | 71,380 | 0 |
-| 2023-07-19 | 71,722 | 0 |
+| 2023-07-19 | 71,730 | 0 |
 ## Awards
 Max (Educational): 5,565  (Ranked 60)  
 Sum: 45,845 (Ranked 26)  

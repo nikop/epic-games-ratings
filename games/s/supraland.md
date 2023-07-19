@@ -1,37 +1,37 @@
 # Supraland
 [Store](https://store.epicgames.com/en-US/p/supraland)  
 [View Rawdata](../../db/s/supraland.json)  
-Rating: 4.61 (Ranked 366)  
+Rating: 4.61 (Ranked 365)  
 Number of Ratings: 25,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~710,299 |
-| The Blues | 85.00% | ~609,853 |
-| Fast | 66.00% | ~473,533 |
-| Healthbar | 55.00% | ~394,611 |
-| Force Cube | 53.00% | ~380,261 |
+| Out of bed | 99.00% | ~710,301 |
+| The Blues | 85.00% | ~609,855 |
+| Fast | 66.00% | ~473,534 |
+| Healthbar | 55.00% | ~394,612 |
+| Force Cube | 53.00% | ~380,262 |
 | Double Jump | 48.00% | ~344,388 |
-| Regeneration | 47.00% | ~337,213 |
-| Climb the hill | 42.00% | ~301,339 |
-| Triple Jump | 42.00% | ~301,339 |
-| Through the fire pipe | 38.00% | ~272,640 |
-| MacGuffin | 38.00% | ~272,640 |
+| Regeneration | 47.00% | ~337,214 |
+| Climb the hill | 42.00% | ~301,340 |
+| Triple Jump | 42.00% | ~301,340 |
+| Through the fire pipe | 38.00% | ~272,641 |
+| MacGuffin | 38.00% | ~272,641 |
 | Just once | 36.00% | ~258,291 |
-| Armor | 30.00% | ~215,242 |
-| True holy spirit | 27.00% | ~193,718 |
-| That's how electronics work obviously | 26.00% | ~186,543 |
-| Force Cube Catapult | 25.00% | ~179,368 |
+| Armor | 30.00% | ~215,243 |
+| True holy spirit | 27.00% | ~193,719 |
+| That's how electronics work obviously | 26.00% | ~186,544 |
+| Force Cube Catapult | 25.00% | ~179,369 |
 | Holy Sword | 23.00% | ~165,019 |
-| Telefrag | 22.00% | ~157,844 |
+| Telefrag | 22.00% | ~157,845 |
 | Freed from prison | 21.00% | ~150,670 |
 | Stomp | 21.00% | ~150,670 |
-| Double Health | 18.00% | ~129,145 |
+| Double Health | 18.00% | ~129,146 |
 | Buckle | 17.00% | ~121,971 |
 | Green Keycard | 17.00% | ~121,971 |
 | Rattle Hag | 15.00% | ~107,621 |
-| All Shells | 14.00% | ~100,446 |
-| Beam | 14.00% | ~100,446 |
+| All Shells | 14.00% | ~100,447 |
+| Beam | 14.00% | ~100,447 |
 | Health Drink | 13.00% | ~93,272 |
 | 9 | 13.00% | ~93,272 |
 | Purple Cube | 13.00% | ~93,272 |
@@ -44,25 +44,25 @@ Number of Ratings: 25,175  (23.09.2022)
 | Got the gun back | 11.00% | ~78,922 |
 | Infiltrated | 11.00% | ~78,922 |
 | Robbed | 11.00% | ~78,922 |
-| Fire Flies | 10.00% | ~71,747 |
-| Cave Flies | 10.00% | ~71,747 |
-| Gold Scam | 10.00% | ~71,747 |
-| Gold Scam Uncovered | 10.00% | ~71,747 |
-| Translocator | 10.00% | ~71,747 |
-| Yellow Shot Button | 10.00% | ~71,747 |
+| Fire Flies | 10.00% | ~71,748 |
+| Cave Flies | 10.00% | ~71,748 |
+| Gold Scam | 10.00% | ~71,748 |
+| Gold Scam Uncovered | 10.00% | ~71,748 |
+| Translocator | 10.00% | ~71,748 |
+| Yellow Shot Button | 10.00% | ~71,748 |
 | Moon Door | 9.00% | ~64,573 |
 | Momentum | 9.00% | ~64,573 |
 | Panic Lights | 9.00% | ~64,573 |
 | Through the tiny pipe | 9.00% | ~64,573 |
 | Win! | 8.00% | ~57,398 |
 | The real real teleported man | 7.00% | ~50,223 |
-| Well deserved | 6.00% | ~43,048 |
+| Well deserved | 6.00% | ~43,049 |
 | Happiness | 3.00% | ~21,524 |
 | Super Sword | 3.00% | ~21,524 |
-| All Chests | 2.00% | ~14,349 |
-| Poor ancestors | 2.00% | ~14,349 |
-| Shelf filled | 2.00% | ~14,349 |
-| Invisible Wall | 2.00% | ~14,349 |
+| All Chests | 2.00% | ~14,350 |
+| Poor ancestors | 2.00% | ~14,350 |
+| Shelf filled | 2.00% | ~14,350 |
+| Invisible Wall | 2.00% | ~14,350 |
 | Groupies | 1.00% | ~7,175 |
 | Jesus Christ Suprastar | 1.00% | ~7,175 |
 | Redstone Pickaxe | 1.00% | ~7,175 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~717 |
 | DLC: Top of the world | 0.10% | ~717 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,474 (Ranked 16)  
+Progressed: 717,476 (Ranked 16)  
 Completed: 712 (0.10%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 712 (0.10%) (Ranked 184)
 | 2023-07-16 | 717,022 | 709 |
 | 2023-07-17 | 717,155 | 711 |
 | 2023-07-18 | 717,309 | 711 |
-| 2023-07-19 | 717,474 | 712 |
+| 2023-07-19 | 717,476 | 712 |
 ## Awards
 Max (Challenging Puzzles): 7,647  (Ranked 43)  
 Sum: 9,962 (Ranked 80)  

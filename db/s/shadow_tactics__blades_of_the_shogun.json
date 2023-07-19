@@ -1345,9 +1345,9 @@
       "Count": 245
     }
   ],
-  "EOS_Progressed": 186925,
+  "EOS_Progressed": 186929,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 1803,
+  "EOS_NewPlayers": 1798,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -11185,6 +11185,11 @@
       "Time": "2023-07-19T22:07:16.1771993+00:00",
       "NumProgressed": 186925,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-07-19T23:06:13.3358754+00:00",
+      "NumProgressed": 186929,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 44,
@@ -11204,7 +11209,7 @@
       "Name": "Atheist Ox",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3738
+      "UsersEstimate": 3739
     },
     {
       "ID": "ChickenDinner",
@@ -11282,9 +11287,9 @@
       "ID": "HappyPlanning",
       "SetID": "ak6bfk8",
       "Name": "Happy Planning",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 11216
+      "UsersEstimate": 9346
     },
     {
       "ID": "HighFiveTheMoon",
@@ -11292,7 +11297,7 @@
       "Name": "High Five the Moon",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1308
+      "UsersEstimate": 1309
     },
     {
       "ID": "IceIceYuki",
@@ -11308,7 +11313,7 @@
       "Name": "It\u0027s raining men",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3738
+      "UsersEstimate": 3739
     },
     {
       "ID": "Jonin",
@@ -11380,7 +11385,7 @@
       "Name": "Old Man",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3738
+      "UsersEstimate": 3739
     },
     {
       "ID": "PraiseTheShogun",
@@ -11460,7 +11465,7 @@
       "Name": "The Cave",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1308
+      "UsersEstimate": 1309
     },
     {
       "ID": "TheEnd",
@@ -11476,7 +11481,7 @@
       "Name": "The Old Way",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3738
+      "UsersEstimate": 3739
     },
     {
       "ID": "Thorough",
@@ -11484,7 +11489,7 @@
       "Name": "Thorough",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 16823
+      "UsersEstimate": 16824
     },
     {
       "ID": "TimeParadox",
@@ -11532,7 +11537,7 @@
       "Name": "Winner Winner",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3738
+      "UsersEstimate": 3739
     },
     {
       "ID": "Yabu",
@@ -11547,15 +11552,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 186925,
+      "Progressed": 186929,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-07-17T10:59:29.4177007+00:00",
-  "LastChanged_Achievements": "2023-07-19T22:07:16.1771989+00:00",
+  "LastChanged_Achievements": "2023-07-19T23:06:13.3358746+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:02.1147937+00:00",
-  "LastUpdate_Ratings": "2023-07-19T21:59:42.8018549+00:00",
-  "LastUpdate_Achievements": "2023-07-19T22:07:16.1773083+00:00"
+  "LastUpdate_Ratings": "2023-07-19T22:59:04.4009715+00:00",
+  "LastUpdate_Achievements": "2023-07-19T23:06:13.3359461+00:00"
 }

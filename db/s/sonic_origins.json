@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 22,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
     "PcReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -1229,9 +1229,9 @@
       "ID": "ID_03_SONIC2_WATCH_OPENING",
       "SetID": "7o8nc5m",
       "Name": "Welcome to Sonic the Hedgehog 2",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 235
+      "UsersEstimate": 238
     },
     {
       "ID": "ID_04_SONIC3K_WATCH_OPENING",
@@ -1277,9 +1277,9 @@
       "ID": "ID_09_SONIC2_DEFEAT_STINGER",
       "SetID": "7o8nc5m",
       "Name": "Beware Stingers!",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 151
     },
     {
       "ID": "ID_10_SONIC2_WIN_THE_JACKPOT",
@@ -1501,8 +1501,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-07-11T16:58:27.9146656+00:00",
-  "LastChanged_Achievements": "2023-07-19T22:01:23.84077+00:00",
+  "LastChanged_Achievements": "2023-07-19T23:00:26.9499304+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:22.3144227+00:00",
-  "LastUpdate_Ratings": "2023-07-19T21:58:20.484183+00:00",
-  "LastUpdate_Achievements": "2023-07-19T22:01:23.8408128+00:00"
+  "LastUpdate_Ratings": "2023-07-19T22:57:59.9344232+00:00",
+  "LastUpdate_Achievements": "2023-07-19T23:00:26.9499586+00:00"
 }

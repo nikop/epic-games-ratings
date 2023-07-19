@@ -13858,9 +13858,9 @@
       "ID": "28_Takedown_Trophy",
       "SetID": "adcm20g",
       "Name": "The 36th Chamber of Kung-Fu",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 3554
+      "UsersEstimate": 4265
     },
     {
       "ID": "29_FocusAttack_Trophy",
@@ -14044,7 +14044,7 @@
       "ID": "14c2oii",
       "IsBase": false,
       "Progressed": 20198,
-      "Completed": 10423
+      "Completed": 10424
     },
     {
       "ID": "adcm20g",
@@ -14056,8 +14056,8 @@
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-19T19:59:42.8563725+00:00",
-  "LastChanged_Achievements": "2023-07-19T22:07:17.1001377+00:00",
+  "LastChanged_Achievements": "2023-07-19T23:06:14.0866364+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:57.8822848+00:00",
-  "LastUpdate_Ratings": "2023-07-19T21:59:38.7814387+00:00",
-  "LastUpdate_Achievements": "2023-07-19T22:07:17.1002656+00:00"
+  "LastUpdate_Ratings": "2023-07-19T22:59:01.0528979+00:00",
+  "LastUpdate_Achievements": "2023-07-19T23:06:14.0867079+00:00"
 }

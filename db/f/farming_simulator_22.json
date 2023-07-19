@@ -6915,9 +6915,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 45720,
+  "EOS_Progressed": 45721,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 353,
+  "EOS_NewPlayers": 354,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14775,6 +14775,11 @@
       "Time": "2023-07-19T22:04:00.1816076+00:00",
       "NumProgressed": 45720,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-19T23:03:37.4345977+00:00",
+      "NumProgressed": 45721,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 43,
@@ -14882,7 +14887,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 27889
+      "UsersEstimate": 27890
     },
     {
       "ID": "DeliveryGrapes",
@@ -14922,7 +14927,7 @@
       "Name": "Plant get enough",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 27432
+      "UsersEstimate": 27433
     },
     {
       "ID": "Harvested",
@@ -14938,7 +14943,7 @@
       "Name": "Own use",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 34290
+      "UsersEstimate": 34291
     },
     {
       "ID": "HorseJumps",
@@ -15082,7 +15087,7 @@
       "Name": "Rock on",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5486
+      "UsersEstimate": 5487
     },
     {
       "ID": "TractorDriving",
@@ -15129,15 +15134,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 45720,
+      "Progressed": 45721,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-07-19T22:00:18.7130291+00:00",
-  "LastChanged_Achievements": "2023-07-19T22:04:00.1816072+00:00",
+  "LastChanged_Achievements": "2023-07-19T23:03:37.4345972+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:40.9029546+00:00",
-  "LastUpdate_Ratings": "2023-07-19T22:00:18.71303+00:00",
-  "LastUpdate_Achievements": "2023-07-19T22:04:00.1817122+00:00"
+  "LastUpdate_Ratings": "2023-07-19T22:59:32.5972694+00:00",
+  "LastUpdate_Achievements": "2023-07-19T23:03:37.4346634+00:00"
 }

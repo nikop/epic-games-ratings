@@ -526,9 +526,9 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 9006,
+  "EOS_Progressed": 9007,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -6466,6 +6466,11 @@
       "Time": "2023-07-19T18:04:12.134563+00:00",
       "NumProgressed": 9006,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-19T23:03:40.693543+00:00",
+      "NumProgressed": 9007,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -6581,7 +6586,7 @@
       "Name": "Greasy Palms",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3692
+      "UsersEstimate": 3693
     },
     {
       "ID": "ACH15",
@@ -6709,7 +6714,7 @@
       "Name": "Mischief Managed",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "ACH31",
@@ -6748,7 +6753,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9006,
+      "Progressed": 9007,
       "Completed": 43
     }
   ],
@@ -6756,8 +6761,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-12T19:59:24.8621469+00:00",
-  "LastChanged_Achievements": "2023-07-19T22:04:04.1457184+00:00",
+  "LastChanged_Achievements": "2023-07-19T23:03:40.6935425+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:03.5723456+00:00",
-  "LastUpdate_Ratings": "2023-07-19T21:58:48.0700833+00:00",
-  "LastUpdate_Achievements": "2023-07-19T22:04:04.1457877+00:00"
+  "LastUpdate_Ratings": "2023-07-19T22:58:21.745427+00:00",
+  "LastUpdate_Achievements": "2023-07-19T23:03:40.6935876+00:00"
 }

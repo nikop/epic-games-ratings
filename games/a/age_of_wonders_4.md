@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.63 (Ranked 331)  
+Rating: 4.63 (Ranked 330)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -11,6 +11,7 @@ Rating: 4.63 (Ranked 331)
 | A Wonderful Discovery | 4.00% | ~201 |
 | Walls Cannot Stop Us | 4.00% | ~201 |
 | Magical Synergy | 4.00% | ~201 |
+| Blood of the Dragon | 4.00% | ~201 |
 | Mighty Hoard | 4.00% | ~201 |
 | There Can Only Be One! | 3.00% | ~150 |
 | Full Ascension | 3.00% | ~150 |
@@ -20,10 +21,10 @@ Rating: 4.63 (Ranked 331)
 | My Final Form | 3.00% | ~150 |
 | Seat of Power | 3.00% | ~150 |
 | Fiery Friend | 3.00% | ~150 |
+| Against the Odds | 3.00% | ~150 |
 | Impenetrable Fortress | 3.00% | ~150 |
 | Intimidation Tactics | 3.00% | ~150 |
 | Here be Dragons | 3.00% | ~150 |
-| Blood of the Dragon | 3.00% | ~150 |
 | Valley of Wonders | 2.00% | ~100 |
 | The Magic That Empowers Me! | 2.00% | ~100 |
 | Return of the Wizard King | 2.00% | ~100 |
@@ -36,7 +37,6 @@ Rating: 4.63 (Ranked 331)
 | Digging for Treasure | 2.00% | ~100 |
 | Preparation Is Everything | 2.00% | ~100 |
 | In a Liege of Your Own | 2.00% | ~100 |
-| Against the Odds | 2.00% | ~100 |
 | Duality | 2.00% | ~100 |
 | Eternal Lord | 1.00% | ~50 |
 | Crimson Caldera | 1.00% | ~50 |

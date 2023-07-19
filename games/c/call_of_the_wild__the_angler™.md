@@ -19,8 +19,8 @@ Number of Ratings: 281  (23.09.2022)
 | Goldfish? | 27.00% | ~1,267 |
 | Going for Gold | 24.00% | ~1,127 |
 | I'm Hooked! | 18.00% | ~845 |
+| Diamond in the Rough | 13.00% | ~610 |
 | More than a Tourist | 12.00% | ~563 |
-| Diamond in the Rough | 12.00% | ~563 |
 | Hook, Line and Sinker | 8.00% | ~376 |
 | Marathon | 8.00% | ~376 |
 | Big Fish Small Pond | 6.00% | ~282 |

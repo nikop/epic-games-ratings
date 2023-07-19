@@ -41,8 +41,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Source of Flying Daggers | 0.60% | ~4,265 |
 | Iron Money | 0.60% | ~4,265 |
 | Legendary Talismans of Wuxing | 0.60% | ~4,265 |
+| The 36th Chamber of Kung-Fu | 0.60% | ~4,265 |
 | Prodigal Child | 0.50% | ~3,554 |
-| The 36th Chamber of Kung-Fu | 0.50% | ~3,554 |
 | Sword Stained With Blood | 0.50% | ~3,554 |
 | Knowledge Greed | 0.40% | ~2,844 |
 | Martial Hub | 0.40% | ~81 |
