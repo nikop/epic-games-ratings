@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -220,9 +220,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23028,
+  "EOS_Progressed": 23029,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2285,6 +2285,11 @@
       "Time": "2023-07-19T14:07:05.3527619+00:00",
       "NumProgressed": 23028,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-19T20:06:43.2386362+00:00",
+      "NumProgressed": 23029,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 32,
@@ -2336,7 +2341,7 @@
       "Name": "Creature Feature",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 6908
+      "UsersEstimate": 6909
     },
     {
       "ID": "ACH_GET_GUS",
@@ -2374,9 +2379,9 @@
       "ID": "ACH_GET_MAGBOOTS",
       "SetID": "cdkbb11",
       "Name": "RIP Davey Glutes",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5757
+      "UsersEstimate": 5527
     },
     {
       "ID": "ACH_GET_SWEEZY",
@@ -2400,7 +2405,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 19113
+      "UsersEstimate": 19114
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -2416,7 +2421,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 13126
+      "UsersEstimate": 13127
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -2464,7 +2469,7 @@
       "Name": "Self-Actualization",
       "Percentage": 19,
       "XP": 45,
-      "UsersEstimate": 4375
+      "UsersEstimate": 4376
     },
     {
       "ID": "ACH_KILL_SKRENDELS",
@@ -2480,7 +2485,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 16810
+      "UsersEstimate": 16811
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -2512,7 +2517,7 @@
       "Name": "Seeing All The Sights",
       "Percentage": 16,
       "XP": 45,
-      "UsersEstimate": 3684
+      "UsersEstimate": 3685
     },
     {
       "ID": "ACH_NIPULON_JOKE",
@@ -2551,22 +2556,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 23028,
+      "Progressed": 23029,
       "Completed": 9
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 321,
-      "Completed": 321
+      "Progressed": 322,
+      "Completed": 322
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-07-12T23:58:40.6002161+00:00",
-  "LastChanged_Achievements": "2023-07-19T19:06:03.2382627+00:00",
+  "LastChanged_Achievements": "2023-07-19T20:06:43.2386356+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:35.4235565+00:00",
-  "LastUpdate_Ratings": "2023-07-19T18:58:21.3725681+00:00",
-  "LastUpdate_Achievements": "2023-07-19T19:06:03.2382916+00:00"
+  "LastUpdate_Ratings": "2023-07-19T19:58:33.5495738+00:00",
+  "LastUpdate_Achievements": "2023-07-19T20:06:43.2386785+00:00"
 }

@@ -2,20 +2,20 @@
   "ID": "4ec958d5e4b6429aadbc116cee0b6ea0",
   "Name": "Dead Space",
   "ProductSlug": "dead-space",
-  "Ranking_Rating": 365,
+  "Ranking_Rating": 348,
   "Ranking_Popularity": 358,
   "Ranking_PopularitySum": 421,
   "Ranking_EOS_Progress": 498,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.61,
+  "Rating": 4.62,
   "RatingHistory": [
     {
       "Time": "2023-01-31T17:57:54.7682729+00:00",
@@ -474,6 +474,12 @@
       "Rating": 4.61,
       "NumberOfAwards": 79,
       "NumberOfAwardsMax": 79
+    },
+    {
+      "Time": "2023-07-19T20:01:23.6432163+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 79,
+      "NumberOfAwardsMax": 79
     }
   ],
   "ReviewsDisabled": false,
@@ -508,9 +514,9 @@
   "FirstSeen": "2023-01-27T17:57:20.5533157+00:00",
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
-  "LastChanged": "2023-07-19T04:15:46.8722545+00:00",
-  "LastChanged_Achievements": "2023-07-19T19:06:17.7353794+00:00",
+  "LastChanged": "2023-07-19T20:01:23.6432161+00:00",
+  "LastChanged_Achievements": "2023-07-19T20:07:01.1469501+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:39.5844694+00:00",
-  "LastUpdate_Ratings": "2023-07-19T19:00:41.4375235+00:00",
-  "LastUpdate_Achievements": "2023-07-19T19:06:17.7353817+00:00"
+  "LastUpdate_Ratings": "2023-07-19T20:01:23.6432168+00:00",
+  "LastUpdate_Achievements": "2023-07-19T20:07:01.1469543+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 10,
   "Ranking_EOS_Progress": 498,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2020-05-21T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -8066,10 +8066,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 284469,
       "NumberOfAwardsMax": 34682
+    },
+    {
+      "Time": "2023-07-19T19:58:40.3905966+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 284567,
+      "NumberOfAwardsMax": 34682
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 284469,
+  "NumberOfAwards": 284567,
   "NumberOfAwardsMax": 34682,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -8083,7 +8089,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 29967
+      "Count": 30016
     },
     {
       "Text": "This game is Educational",
@@ -8113,7 +8119,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 30374
+      "Count": 30402
     },
     {
       "Text": "This game has Competitive Players",
@@ -8131,7 +8137,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 24908
+      "Count": 24929
     },
     {
       "Text": "This game has a Creative Community",
@@ -8151,8 +8157,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:50.156423+00:00",
-  "LastChanged": "2023-07-19T18:58:27.7103561+00:00",
+  "LastChanged": "2023-07-19T19:58:40.3905965+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:40.8980782+00:00",
-  "LastUpdate_Ratings": "2023-07-19T18:58:27.7103566+00:00",
-  "LastUpdate_Achievements": "2023-07-19T19:04:43.1952931+00:00"
+  "LastUpdate_Ratings": "2023-07-19T19:58:40.3905972+00:00",
+  "LastUpdate_Achievements": "2023-07-19T20:05:03.915476+00:00"
 }

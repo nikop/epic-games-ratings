@@ -31,12 +31,12 @@ Rating: 4.41 (Ranked 674)
 | Just a Flesh Wound | 1.00% | ~33 |
 | Skirmisher | 1.00% | ~33 |
 | Precision Is Key | 1.00% | ~33 |
+| Rigged to Blow | 1.00% | ~33 |
 | My Little Friend | 1.00% | ~33 |
 | Die Nussknacker Sweet! | 1.00% | ~33 |
 | Close Quarters | 1.00% | ~33 |
 | Snake in the Grass | 1.00% | ~33 |
 | Enemy at the Gates | 0.90% | ~30 |
-| Rigged to Blow | 0.90% | ~30 |
 | The Long Game | 0.80% | ~26 |
 | Tinkerer | 0.80% | ~26 |
 | Don't hold your breath | 0.80% | ~26 |

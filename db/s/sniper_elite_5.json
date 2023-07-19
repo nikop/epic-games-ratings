@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 155,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -5384,9 +5384,9 @@
       "ID": "REWARD_32_RIGGED_BLOW",
       "SetID": "bm6el81",
       "Name": "Rigged to Blow",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 33
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -5783,8 +5783,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-18T17:56:54.2663242+00:00",
-  "LastChanged_Achievements": "2023-07-19T19:03:49.8164193+00:00",
+  "LastChanged_Achievements": "2023-07-19T20:03:57.9499347+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:52.6032381+00:00",
-  "LastUpdate_Ratings": "2023-07-19T18:57:02.6417405+00:00",
-  "LastUpdate_Achievements": "2023-07-19T19:03:49.8164959+00:00"
+  "LastUpdate_Ratings": "2023-07-19T19:57:07.0200987+00:00",
+  "LastUpdate_Achievements": "2023-07-19T20:03:57.9500682+00:00"
 }

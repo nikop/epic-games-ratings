@@ -6,14 +6,14 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~3,153 |
+| Just One...More...Term... | 76.00% | ~3,154 |
 | Un-Lonely Island | 48.00% | ~1,992 |
-| The Beginning of a Servantship | 45.00% | ~1,867 |
+| The Beginning of a Servantship | 45.00% | ~1,868 |
 | Trade Is My Trait | 38.00% | ~1,577 |
-| Number 18 | 25.00% | ~1,037 |
+| Number 18 | 25.00% | ~1,038 |
 | We Don't Have Time For That | 19.00% | ~788 |
 | The Governator | 18.00% | ~747 |
-| The Legend of Langostino | 17.00% | ~705 |
+| The Legend of Langostino | 17.00% | ~706 |
 | Caribbean Comrade | 16.00% | ~664 |
 | The Dreamer of Dreams | 16.00% | ~664 |
 | Go Sovereigns! | 12.00% | ~498 |
@@ -30,8 +30,8 @@ Number of Ratings: 398  (23.09.2022)
 | Computer Says "No" | 6.00% | ~249 |
 | Beware The Betman | 6.00% | ~249 |
 | Watch The World Burn | 6.00% | ~249 |
-| Viva Tropico! | 5.00% | ~207 |
-| Fairy Tale Come True | 5.00% | ~207 |
+| Viva Tropico! | 5.00% | ~208 |
+| Fairy Tale Come True | 5.00% | ~208 |
 | Apocalypso | 4.00% | ~166 |
 | Been there, Done That | 3.00% | ~124 |
 | Narcissist | 3.00% | ~124 |
@@ -43,11 +43,11 @@ Number of Ratings: 398  (23.09.2022)
 | Teamplayer | 2.00% | ~83 |
 | Terraformer | 2.00% | ~83 |
 | Curse of the Mummy | 2.00% | ~83 |
-| From Knight to Little Duck | 1.00% | ~41 |
+| From Knight to Little Duck | 1.00% | ~42 |
 | Survivor | 0.90% | ~37 |
 | My Ways | 0.40% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,149 (Ranked 143)  
+Progressed: 4,150 (Ranked 143)  
 Completed: 1 (0.02%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 1 (0.02%) (Ranked 216)
 | 2023-07-16 | 4,117 | 1 |
 | 2023-07-17 | 4,129 | 1 |
 | 2023-07-18 | 4,137 | 1 |
-| 2023-07-19 | 4,149 | 1 |
+| 2023-07-19 | 4,150 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 95  (Ranked 339)  
 Sum: 668 (Ranked 276)  

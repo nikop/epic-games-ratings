@@ -4,8 +4,8 @@
   "ProductSlug": "stalker-2-heart-of-chornobyl",
   "Ranking_EOS_Progress": 498,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2099-12-08T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-15T03:22:53.571087+00:00",
-  "LastUpdate_Ratings": "2023-07-19T18:58:35.2549814+00:00",
-  "LastUpdate_Achievements": "2023-07-19T19:05:32.1619649+00:00"
+  "LastUpdate_Ratings": "2023-07-19T19:58:48.0553257+00:00",
+  "LastUpdate_Achievements": "2023-07-19T20:06:04.4804738+00:00"
 }

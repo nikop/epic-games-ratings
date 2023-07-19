@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 8,
   "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-19T01:00:00+00:00",
     "PcReleaseDate": "2023-05-19T01:00:00+00:00",
@@ -501,9 +501,9 @@
       "ID": "LEVEL_6",
       "SetID": "1fnbp5h",
       "Name": "Mecha Wars",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "LEVEL_7",
@@ -539,8 +539,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-02T15:59:43.451096+00:00",
-  "LastChanged_Achievements": "2023-07-19T19:04:20.5570681+00:00",
+  "LastChanged_Achievements": "2023-07-19T20:04:36.2238514+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:08.4228159+00:00",
-  "LastUpdate_Ratings": "2023-07-19T18:57:40.0474837+00:00",
-  "LastUpdate_Achievements": "2023-07-19T19:04:20.5570777+00:00"
+  "LastUpdate_Ratings": "2023-07-19T19:57:45.772175+00:00",
+  "LastUpdate_Achievements": "2023-07-19T20:04:36.223865+00:00"
 }

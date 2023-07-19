@@ -5,28 +5,28 @@ Rating: 4.26 (Ranked 804)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~152,259 |
-| Copacetic Coordination | 16.00% | ~52,960 |
-| Fronting the Money | 14.00% | ~46,340 |
-| The Dawn of Automation | 14.00% | ~46,340 |
-| Extraordinary Logistics | 14.00% | ~46,340 |
-| Dirty Money | 13.00% | ~43,030 |
-| Family First | 13.00% | ~43,030 |
-| Cleaning House | 12.00% | ~39,720 |
-| Room in the Back | 12.00% | ~39,720 |
-| Booze Baron | 11.00% | ~36,410 |
-| Beating the Heat | 10.00% | ~33,100 |
-| Friends on the Force | 10.00% | ~33,100 |
-| Neighborhood Watch | 10.00% | ~33,100 |
-| Core Corps | 8.00% | ~26,480 |
-| Sizeable Stash | 8.00% | ~26,480 |
-| Street Fighter | 7.00% | ~23,170 |
-| Friendly Gestures | 7.00% | ~23,170 |
-| People Person | 7.00% | ~23,170 |
-| Liquor Lord | 6.00% | ~19,860 |
-| Safety in Numbers | 6.00% | ~19,860 |
-| Show ‘em the Sugar | 6.00% | ~19,860 |
-| Killing Them Softly | 6.00% | ~19,860 |
+| Corner Clout | 46.00% | ~152,265 |
+| Copacetic Coordination | 16.00% | ~52,962 |
+| Fronting the Money | 14.00% | ~46,341 |
+| The Dawn of Automation | 14.00% | ~46,341 |
+| Extraordinary Logistics | 14.00% | ~46,341 |
+| Dirty Money | 13.00% | ~43,031 |
+| Family First | 13.00% | ~43,031 |
+| Cleaning House | 12.00% | ~39,721 |
+| Room in the Back | 12.00% | ~39,721 |
+| Booze Baron | 11.00% | ~36,411 |
+| Beating the Heat | 10.00% | ~33,101 |
+| Friends on the Force | 10.00% | ~33,101 |
+| Neighborhood Watch | 10.00% | ~33,101 |
+| Core Corps | 8.00% | ~26,481 |
+| Sizeable Stash | 8.00% | ~26,481 |
+| Street Fighter | 7.00% | ~23,171 |
+| Friendly Gestures | 7.00% | ~23,171 |
+| People Person | 7.00% | ~23,171 |
+| Liquor Lord | 6.00% | ~19,861 |
+| Safety in Numbers | 6.00% | ~19,861 |
+| Show ‘em the Sugar | 6.00% | ~19,861 |
+| Killing Them Softly | 6.00% | ~19,861 |
 | Street Knowledge | 5.00% | ~16,550 |
 | Oh Captain | 5.00% | ~16,550 |
 | Branching Out | 5.00% | ~16,550 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 804)
 | High Pillow | 0.10% | ~331 |
 | Station Master | 0.10% | ~331 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 330,998 (Ranked 40)  
+Progressed: 331,010 (Ranked 40)  
 Completed: 5 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 5 (0.00%) (Ranked 238)
 | 2023-07-16 | 330,331 | 5 |
 | 2023-07-17 | 330,557 | 5 |
 | 2023-07-18 | 330,785 | 5 |
-| 2023-07-19 | 330,998 | 5 |
+| 2023-07-19 | 331,010 | 5 |
 ## Awards
 Max (Highly Recommended): 27  (Ranked 466)  
 Sum: 120 (Ranked 400)  

@@ -10,13 +10,13 @@
 | Lightbulbs Collector | 77.00% | ~56 |
 | Energy Collector | 74.00% | ~54 |
 | East Street Energy | 52.00% | ~38 |
+| Energy Expert | 44.00% | ~32 |
 | Lightbulbs Expert | 44.00% | ~32 |
-| Energy Expert | 42.00% | ~31 |
-| That's one way to travel | 42.00% | ~31 |
+| That's one way to travel | 44.00% | ~32 |
 | The Old Man and the Café | 40.00% | ~29 |
-| South Town Energy | 32.00% | ~23 |
+| South Town Energy | 33.00% | ~24 |
 | Photogenic | 30.00% | ~22 |
-| The Girl and the Homework | 27.00% | ~20 |
+| The Girl and the Homework | 29.00% | ~21 |
 | OK, I heard you!! | 27.00% | ~20 |
 | North Town Energy | 26.00% | ~19 |
 | Lightbulb Detective | 23.00% | ~17 |

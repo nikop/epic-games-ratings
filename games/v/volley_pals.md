@@ -10,7 +10,7 @@
 | Haunted Mansion | 49.00% | ~42 |
 | Science Laboratory | 41.00% | ~35 |
 | Ball Disposal Facility | 34.00% | ~29 |
-| Mecha Wars | 31.00% | ~27 |
+| Mecha Wars | 33.00% | ~28 |
 | Sewer | 30.00% | ~26 |
 | Arcade | 28.00% | ~24 |
 | Custom Court | 24.00% | ~21 |

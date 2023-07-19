@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 277,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -816,7 +816,7 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 6161,
+  "EOS_Progressed": 6162,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
@@ -4151,6 +4151,11 @@
       "Time": "2023-07-19T19:06:04.5800463+00:00",
       "NumProgressed": 6161,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-19T20:06:44.9398776+00:00",
+      "NumProgressed": 6162,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -4202,7 +4207,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 3881
+      "UsersEstimate": 3882
     },
     {
       "ID": "Control_All_Relics",
@@ -4266,7 +4271,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 4867
+      "UsersEstimate": 4868
     },
     {
       "ID": "First_Race_Met",
@@ -4354,7 +4359,7 @@
       "Name": "Trading Partner",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "Level_5_Ship",
@@ -4378,7 +4383,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2156
+      "UsersEstimate": 2157
     },
     {
       "ID": "Play_1000_Hours",
@@ -4650,7 +4655,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 4128
+      "UsersEstimate": 4129
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -4658,7 +4663,7 @@
       "Name": "Fleet Victory",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "Win_Conquest",
@@ -4737,15 +4742,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6161,
+      "Progressed": 6162,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-07-12T23:57:59.1877062+00:00",
-  "LastChanged_Achievements": "2023-07-19T19:06:04.5800459+00:00",
+  "LastChanged_Achievements": "2023-07-19T20:06:44.9398768+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:23.5203079+00:00",
-  "LastUpdate_Ratings": "2023-07-19T18:57:50.1871827+00:00",
-  "LastUpdate_Achievements": "2023-07-19T19:06:04.5801201+00:00"
+  "LastUpdate_Ratings": "2023-07-19T19:57:57.728903+00:00",
+  "LastUpdate_Achievements": "2023-07-19T20:06:44.9399788+00:00"
 }

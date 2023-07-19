@@ -1964,10 +1964,16 @@
       "Rating": 4.37,
       "NumberOfAwards": 4150,
       "NumberOfAwardsMax": 2143
+    },
+    {
+      "Time": "2023-07-19T19:59:25.934243+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 4151,
+      "NumberOfAwardsMax": 2143
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4150,
+  "NumberOfAwards": 4151,
   "NumberOfAwardsMax": 2143,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1981,7 +1987,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 227
+      "Count": 228
     },
     {
       "Text": "This game has Challenging Combat",
@@ -2038,9 +2044,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 35241,
+  "EOS_Progressed": 35244,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 641,
+  "EOS_NewPlayers": 639,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -11523,6 +11529,11 @@
       "Time": "2023-07-19T19:03:49.8754155+00:00",
       "NumProgressed": 35241,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-07-19T20:03:58.1410937+00:00",
+      "NumProgressed": 35244,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 75,
@@ -11534,7 +11545,7 @@
       "Name": "That Was Easy!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 7048
+      "UsersEstimate": 7049
     },
     {
       "ID": "achievements_10",
@@ -11542,7 +11553,7 @@
       "Name": "Unholy Bones",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 8458
+      "UsersEstimate": 8459
     },
     {
       "ID": "achievements_11",
@@ -11550,7 +11561,7 @@
       "Name": "Blood Madness",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 4581
+      "UsersEstimate": 4582
     },
     {
       "ID": "achievements_12",
@@ -11558,7 +11569,7 @@
       "Name": "Blood Elemental",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 8458
+      "UsersEstimate": 8459
     },
     {
       "ID": "achievements_13",
@@ -11566,7 +11577,7 @@
       "Name": "Cursed Creature",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 20087
+      "UsersEstimate": 20089
     },
     {
       "ID": "achievements_14",
@@ -11582,7 +11593,7 @@
       "Name": "Keeper of Keys",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 16563
+      "UsersEstimate": 16565
     },
     {
       "ID": "achievements_17",
@@ -11590,7 +11601,7 @@
       "Name": "Mad Genius",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 12334
+      "UsersEstimate": 12335
     },
     {
       "ID": "achievements_19",
@@ -11598,7 +11609,7 @@
       "Name": "Bane of Monsters",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 9867
+      "UsersEstimate": 9868
     },
     {
       "ID": "achievements_2",
@@ -11614,7 +11625,7 @@
       "Name": "Lord of Fire",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 8105
+      "UsersEstimate": 8106
     },
     {
       "ID": "achievements_21",
@@ -11630,7 +11641,7 @@
       "Name": "First Sacrifice",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 4581
+      "UsersEstimate": 4582
     },
     {
       "ID": "achievements_23",
@@ -11638,7 +11649,7 @@
       "Name": "Chainbreaker - I",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 21145
+      "UsersEstimate": 21146
     },
     {
       "ID": "achievements_24",
@@ -11646,7 +11657,7 @@
       "Name": "Chainbreaker - II",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 19383
+      "UsersEstimate": 19384
     },
     {
       "ID": "achievements_25",
@@ -11654,7 +11665,7 @@
       "Name": "Chainbreaker - III",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 9867
+      "UsersEstimate": 9868
     },
     {
       "ID": "achievements_26",
@@ -11662,7 +11673,7 @@
       "Name": "Mountain King - I",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 14801
+      "UsersEstimate": 14802
     },
     {
       "ID": "achievements_27",
@@ -11670,7 +11681,7 @@
       "Name": "Mountain King - II",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 13744
+      "UsersEstimate": 13745
     },
     {
       "ID": "achievements_28",
@@ -11678,7 +11689,7 @@
       "Name": "Mountain King - III",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 5286
+      "UsersEstimate": 5287
     },
     {
       "ID": "achievements_29",
@@ -11686,7 +11697,7 @@
       "Name": "Bane of Mercenaries - I",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 11630
+      "UsersEstimate": 11631
     },
     {
       "ID": "achievements_3",
@@ -11702,7 +11713,7 @@
       "Name": "Bane of Mercenaries - II",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 10925
+      "UsersEstimate": 10926
     },
     {
       "ID": "achievements_31",
@@ -11718,7 +11729,7 @@
       "Name": "Cannon Fodder - I",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 11982
+      "UsersEstimate": 11983
     },
     {
       "ID": "achievements_33",
@@ -11726,7 +11737,7 @@
       "Name": "Cannon Fodder - II",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 10220
+      "UsersEstimate": 10221
     },
     {
       "ID": "achievements_34",
@@ -11734,7 +11745,7 @@
       "Name": "Cannon Fodder - III",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 7753
+      "UsersEstimate": 7754
     },
     {
       "ID": "achievements_35",
@@ -11742,7 +11753,7 @@
       "Name": "Means of Recovery",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2114
+      "UsersEstimate": 2115
     },
     {
       "ID": "achievements_36",
@@ -11782,7 +11793,7 @@
       "Name": "Path of the Necromancer",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 23259
+      "UsersEstimate": 23261
     },
     {
       "ID": "achievements_40",
@@ -11790,7 +11801,7 @@
       "Name": "Silent Waters",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 7048
+      "UsersEstimate": 7049
     },
     {
       "ID": "achievements_41",
@@ -11798,7 +11809,7 @@
       "Name": "Spiritual Attraction",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 7753
+      "UsersEstimate": 7754
     },
     {
       "ID": "achievements_42",
@@ -11814,7 +11825,7 @@
       "Name": "Uncommon Warrior",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 8105
+      "UsersEstimate": 8106
     },
     {
       "ID": "achievements_44",
@@ -11822,7 +11833,7 @@
       "Name": "Rare Warrior",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 5286
+      "UsersEstimate": 5287
     },
     {
       "ID": "achievements_45",
@@ -11838,7 +11849,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 29955
+      "UsersEstimate": 29957
     },
     {
       "ID": "achievements_47",
@@ -11846,7 +11857,7 @@
       "Name": "Master of Alchemy",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4581
+      "UsersEstimate": 4582
     },
     {
       "ID": "achievements_48",
@@ -11854,7 +11865,7 @@
       "Name": "Master of Magic",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 2114
+      "UsersEstimate": 2115
     },
     {
       "ID": "achievements_49",
@@ -11862,7 +11873,7 @@
       "Name": "Master of Rage",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2819
+      "UsersEstimate": 2820
     },
     {
       "ID": "achievements_5",
@@ -11870,7 +11881,7 @@
       "Name": "Necromancer\u0027s Apprentice",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 17973
+      "UsersEstimate": 17974
     },
     {
       "ID": "achievements_50",
@@ -11886,7 +11897,7 @@
       "Name": "Prepared Necromancer",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 14449
+      "UsersEstimate": 14450
     },
     {
       "ID": "achievements_52",
@@ -11894,7 +11905,7 @@
       "Name": "Transmutation",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 14801
+      "UsersEstimate": 14802
     },
     {
       "ID": "achievements_53",
@@ -11902,7 +11913,7 @@
       "Name": "Extraction",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 20087
+      "UsersEstimate": 20089
     },
     {
       "ID": "achievements_54",
@@ -11910,7 +11921,7 @@
       "Name": "Distillation",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 15154
+      "UsersEstimate": 15155
     },
     {
       "ID": "achievements_55",
@@ -11918,7 +11929,7 @@
       "Name": "Calcination",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 7048
+      "UsersEstimate": 7049
     },
     {
       "ID": "achievements_56",
@@ -11942,7 +11953,7 @@
       "Name": "Icy Incursion",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2819
+      "UsersEstimate": 2820
     },
     {
       "ID": "achievements_59",
@@ -11950,7 +11961,7 @@
       "Name": "Arachnophobia",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2819
+      "UsersEstimate": 2820
     },
     {
       "ID": "achievements_6",
@@ -11958,7 +11969,7 @@
       "Name": "Soul of Lies",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 11982
+      "UsersEstimate": 11983
     },
     {
       "ID": "achievements_61",
@@ -11966,7 +11977,7 @@
       "Name": "Head of Order",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 7048
+      "UsersEstimate": 7049
     },
     {
       "ID": "achievements_62",
@@ -11974,7 +11985,7 @@
       "Name": "Revealed Secrets - I",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 9515
+      "UsersEstimate": 9516
     },
     {
       "ID": "achievements_63",
@@ -11990,7 +12001,7 @@
       "Name": "Revealed Secrets - III",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 2819
+      "UsersEstimate": 2820
     },
     {
       "ID": "achievements_65",
@@ -11998,7 +12009,7 @@
       "Name": "Nightmare of the Humanity - I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 7753
+      "UsersEstimate": 7754
     },
     {
       "ID": "achievements_66",
@@ -12006,7 +12017,7 @@
       "Name": "Nightmare of the Humanity - II",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 7753
+      "UsersEstimate": 7754
     },
     {
       "ID": "achievements_67",
@@ -12038,7 +12049,7 @@
       "Name": "Blind Rage",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 13392
+      "UsersEstimate": 13393
     },
     {
       "ID": "achievements_70",
@@ -12110,7 +12121,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 25726
+      "UsersEstimate": 25728
     },
     {
       "ID": "achievements_8",
@@ -12118,7 +12129,7 @@
       "Name": "Shadow Between Worlds",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 10572
+      "UsersEstimate": 10573
     },
     {
       "ID": "achievements_9",
@@ -12133,15 +12144,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 35241,
+      "Progressed": 35244,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
-  "LastChanged": "2023-07-17T22:59:53.286995+00:00",
-  "LastChanged_Achievements": "2023-07-19T19:03:49.8754153+00:00",
+  "LastChanged": "2023-07-19T19:59:25.9342428+00:00",
+  "LastChanged_Achievements": "2023-07-19T20:03:58.1410927+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:42.77874+00:00",
-  "LastUpdate_Ratings": "2023-07-19T18:59:06.2955109+00:00",
-  "LastUpdate_Achievements": "2023-07-19T19:03:49.8755264+00:00"
+  "LastUpdate_Ratings": "2023-07-19T19:59:25.9342436+00:00",
+  "LastUpdate_Achievements": "2023-07-19T20:03:58.1412749+00:00"
 }

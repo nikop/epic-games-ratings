@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 139,
   "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -984,7 +984,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12760,
+  "EOS_Progressed": 12761,
   "EOS_Completed": 51,
   "EOS_NewPlayers": 506,
   "EOS_NewCompleters": 0,
@@ -10469,6 +10469,11 @@
       "Time": "2023-07-19T19:02:17.5751227+00:00",
       "NumProgressed": 12760,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-07-19T20:01:44.0006136+00:00",
+      "NumProgressed": 12761,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 45,
@@ -10496,7 +10501,7 @@
       "Name": "Artificial selection",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 3700
+      "UsersEstimate": 3701
     },
     {
       "ID": "BackToHell",
@@ -10616,7 +10621,7 @@
       "Name": "Longrunner",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 9825
+      "UsersEstimate": 9826
     },
     {
       "ID": "MoreThanHuman",
@@ -10704,7 +10709,7 @@
       "Name": "Running out of breath",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 7018
+      "UsersEstimate": 7019
     },
     {
       "ID": "RunningWild",
@@ -10792,7 +10797,7 @@
       "Name": "Upgrades not mandatory",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 3700
+      "UsersEstimate": 3701
     },
     {
       "ID": "Wallrunner",
@@ -10800,7 +10805,7 @@
       "Name": "Wallrunner",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 7018
+      "UsersEstimate": 7019
     },
     {
       "ID": "WaveOfMutilation",
@@ -10816,7 +10821,7 @@
       "Name": "Where are my Keys?",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 5359
+      "UsersEstimate": 5360
     },
     {
       "ID": "WhereHeStood",
@@ -10839,21 +10844,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 12760,
+      "Progressed": 12761,
       "Completed": 29
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 12760,
+      "Progressed": 12761,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-07-13T04:58:08.9161071+00:00",
-  "LastChanged_Achievements": "2023-07-19T19:02:17.5751224+00:00",
+  "LastChanged_Achievements": "2023-07-19T20:01:44.0006126+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:46.7330035+00:00",
-  "LastUpdate_Ratings": "2023-07-19T18:58:27.6147939+00:00",
-  "LastUpdate_Achievements": "2023-07-19T19:02:17.5751936+00:00"
+  "LastUpdate_Ratings": "2023-07-19T19:58:40.2550109+00:00",
+  "LastUpdate_Achievements": "2023-07-19T20:01:44.0007305+00:00"
 }
