@@ -13,10 +13,10 @@ Number of Ratings: 209  (23.09.2022)
 | High Jump | 96.00% | ~2,071 |
 | Knee bending | 96.00% | ~2,071 |
 | Pickaxe | 94.00% | ~2,028 |
+| Cage Town | 94.00% | ~2,028 |
 | Entered Cage Town | 93.00% | ~2,006 |
 | Stone Pickaxe | 93.00% | ~2,006 |
 | Revenge | 93.00% | ~2,006 |
-| Cage Town | 93.00% | ~2,006 |
 | Surprise | 93.00% | ~2,006 |
 | Force Beam | 92.00% | ~1,984 |
 | Industrial Area | 90.00% | ~1,941 |
@@ -46,7 +46,7 @@ Number of Ratings: 209  (23.09.2022)
 | Played with fire | 70.00% | ~1,510 |
 | You feel very sorry | 69.00% | ~1,488 |
 | No Match for you | 66.00% | ~1,424 |
-| Bouncy | 61.00% | ~1,316 |
+| Bouncy | 62.00% | ~1,337 |
 | Plumbster | 61.00% | ~1,316 |
 | Faster | 60.00% | ~1,294 |
 | Much Magic | 57.00% | ~1,229 |
@@ -56,7 +56,7 @@ Number of Ratings: 209  (23.09.2022)
 | You're unsure if you broke the game or not | 42.00% | ~906 |
 | But wait... ...There's more... | 39.00% | ~841 |
 | So much force | 34.00% | ~733 |
-| You feel fully engaged | 23.00% | ~496 |
+| You feel fully engaged | 24.00% | ~518 |
 | Too hot | 19.00% | ~410 |
 | All the chests | 13.00% | ~280 |
 ## Popularity (Based on EOS Achievements)

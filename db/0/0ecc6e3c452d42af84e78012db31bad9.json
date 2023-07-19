@@ -2,7 +2,7 @@
   "ID": "0ecc6e3c452d42af84e78012db31bad9",
   "Name": "Pixel Art Coloring Book",
   "ProductSlug": "pixel-art-coloring-book-a485ef",
-  "Ranking_EOS_Progress": 175,
+  "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 130,
   "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 31,
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1415,
+  "EOS_Progressed": 1417,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 347,
+  "EOS_NewPlayers": 349,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -2011,6 +2011,11 @@
       "Time": "2023-07-19T13:14:49.3392645+00:00",
       "NumProgressed": 1415,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-07-19T14:05:21.5842709+00:00",
+      "NumProgressed": 1417,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 16,
@@ -2030,7 +2035,7 @@
       "Name": "Artist",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ach_10_medium_pictures",
@@ -2054,7 +2059,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 1075
+      "UsersEstimate": 1077
     },
     {
       "ID": "ach_architecture_completed",
@@ -2078,7 +2083,7 @@
       "Name": "Cannoneer",
       "Percentage": 27,
       "XP": 65,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "ach_color_splash",
@@ -2094,7 +2099,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 82,
       "XP": 25,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1162
     },
     {
       "ID": "ach_food_completed",
@@ -2110,7 +2115,7 @@
       "Name": "Food - unlocked",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "ach_game_opened",
@@ -2118,7 +2123,7 @@
       "Name": "Game opened",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "ach_magic_wand",
@@ -2126,7 +2131,7 @@
       "Name": "Magic time",
       "Percentage": 29,
       "XP": 65,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "ach_no_boosters",
@@ -2134,7 +2139,7 @@
       "Name": "Master",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "ach_tornado",
@@ -2142,21 +2147,21 @@
       "Name": "Aeolus",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     }
   ],
   "AchievementSets": [
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 1415,
+      "Progressed": 1417,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-07-19T13:14:49.3392639+00:00",
+  "LastChanged_Achievements": "2023-07-19T14:05:21.5842704+00:00",
   "LastUpdate_AppInfo": "2023-07-14T09:57:10.1132461+00:00",
-  "LastUpdate_Ratings": "2023-07-19T13:07:28.3768189+00:00",
-  "LastUpdate_Achievements": "2023-07-19T13:14:49.3392894+00:00"
+  "LastUpdate_Ratings": "2023-07-19T13:57:15.5543075+00:00",
+  "LastUpdate_Achievements": "2023-07-19T14:05:21.5842888+00:00"
 }

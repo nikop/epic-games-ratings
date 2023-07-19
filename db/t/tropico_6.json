@@ -1014,9 +1014,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4142,
+  "EOS_Progressed": 4144,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -6264,6 +6264,11 @@
       "Time": "2023-07-19T13:15:20.0268044+00:00",
       "NumProgressed": 4142,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-19T14:06:02.6460537+00:00",
+      "NumProgressed": 4144,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -6291,7 +6296,7 @@
       "Name": "Double Trouble",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -6313,9 +6318,9 @@
       "ID": "ACH_EP_BALLGAME",
       "SetID": "1p8ab95",
       "Name": "Go Sovereigns!",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 456
+      "UsersEstimate": 497
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -6371,7 +6376,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1864
+      "UsersEstimate": 1865
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -6403,7 +6408,7 @@
       "Name": "Firestarter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "ACH_EP_THEREFERENDUM",
@@ -6435,7 +6440,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3148
+      "UsersEstimate": 3149
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -6531,7 +6536,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1988
+      "UsersEstimate": 1989
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -6547,7 +6552,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 1574
+      "UsersEstimate": 1575
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -6555,7 +6560,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -6579,7 +6584,7 @@
       "Name": "French Connection",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -6594,15 +6599,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4142,
+      "Progressed": 4144,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-18T14:02:20.1549528+00:00",
-  "LastChanged_Achievements": "2023-07-19T13:15:20.0268039+00:00",
+  "LastChanged_Achievements": "2023-07-19T14:06:02.6460533+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:16.0436214+00:00",
-  "LastUpdate_Ratings": "2023-07-19T13:10:31.6680407+00:00",
-  "LastUpdate_Achievements": "2023-07-19T13:15:20.0268697+00:00"
+  "LastUpdate_Ratings": "2023-07-19T14:01:14.4619224+00:00",
+  "LastUpdate_Achievements": "2023-07-19T14:06:02.6461029+00:00"
 }

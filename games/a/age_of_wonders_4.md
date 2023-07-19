@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.62 (Ranked 347)  
+Rating: 4.63 (Ranked 331)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -26,6 +26,7 @@ Rating: 4.62 (Ranked 347)
 | Blood of the Dragon | 3.00% | ~150 |
 | Valley of Wonders | 2.00% | ~100 |
 | Return of the Wizard King | 2.00% | ~100 |
+| Lord of Chaos | 2.00% | ~100 |
 | Arch Mage | 2.00% | ~100 |
 | The Creator | 2.00% | ~100 |
 | Enchanted Archipelago | 2.00% | ~100 |
@@ -37,7 +38,6 @@ Rating: 4.62 (Ranked 347)
 | Duality | 2.00% | ~100 |
 | The Magic That Empowers Me! | 1.00% | ~50 |
 | God Emperor | 1.00% | ~50 |
-| Lord of Chaos | 1.00% | ~50 |
 | Eternal Lord | 1.00% | ~50 |
 | Crimson Caldera | 1.00% | ~50 |
 | The Eternal Court | 1.00% | ~50 |
@@ -172,3 +172,4 @@ Completed: 5 (0.10%) (Ranked 184)
 | 2023-07-02 | 4.60 | 0 | 0 |
 | 2023-07-04 | 4.61 | 0 | 0 |
 | 2023-07-11 | 4.62 | 0 | 0 |
+| 2023-07-19 | 4.63 | 0 | 0 |

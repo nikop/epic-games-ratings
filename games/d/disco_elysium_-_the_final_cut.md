@@ -6,15 +6,15 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~34,542 |
-| Biggest Communism Builder | 24.00% | ~29,607 |
-| The World's Most Laughable Centrist | 20.00% | ~24,673 |
+| Goodest Of The Good Cops | 28.00% | ~34,543 |
+| Biggest Communism Builder | 24.00% | ~29,608 |
+| The World's Most Laughable Centrist | 20.00% | ~24,674 |
 | Il Coppo Del'Arte! | 18.00% | ~22,206 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,738 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,739 |
 | Hyperstellar Law Official | 15.00% | ~18,505 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~17,271 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~16,037 |
-| Gurdi-Ball Is Lit | 13.00% | ~16,037 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~17,272 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~16,038 |
+| Gurdi-Ball Is Lit | 13.00% | ~16,038 |
 | Truly Rabid *Traditionalist* | 11.00% | ~13,570 |
 | The Figurines Won't Win Her Back | 9.00% | ~11,103 |
 | Unbelievably Boring **** | 8.00% | ~9,869 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~123 |
 | What body? | 0.10% | ~123 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 123,364 (Ranked 63)  
+Progressed: 123,368 (Ranked 63)  
 Completed: 27 (0.02%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,14 +137,14 @@ Completed: 27 (0.02%) (Ranked 216)
 | 2023-07-16 | 123,261 | 27 |
 | 2023-07-17 | 123,301 | 27 |
 | 2023-07-18 | 123,348 | 27 |
-| 2023-07-19 | 123,364 | 27 |
+| 2023-07-19 | 123,368 | 27 |
 ## Awards
-Max (Character Customization): 705  (Ranked 162)  
-Sum: 1,067 (Ranked 233)  
+Max (Character Customization): 707  (Ranked 162)  
+Sum: 1,069 (Ranked 233)  
 Diff (max vs sum): -71  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 705 |
+| This game has Inclusive Character Customization | 707 |
 | This game has Amazing Storytelling | 47 |
 | This game is Educational | 44 |
 | This game is Highly Recommended | 42 |
@@ -272,3 +272,4 @@ Diff (max vs sum): -71
 | 2023-07-14 | 4.86 | - | 703 | 1,064 |
 | 2023-07-16 | 4.86 | - | 705 | 1,066 |
 | 2023-07-17 | 4.86 | - | 705 | 1,067 |
+| 2023-07-19 | 4.86 | - | 707 | 1,069 |

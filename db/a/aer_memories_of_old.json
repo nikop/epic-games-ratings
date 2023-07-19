@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15634,
+  "EOS_Progressed": 15636,
   "EOS_Completed": 328,
-  "EOS_NewPlayers": 589,
+  "EOS_NewPlayers": 587,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -9784,6 +9784,11 @@
       "Time": "2023-07-19T13:14:05.0628602+00:00",
       "NumProgressed": 15634,
       "NumCompleted": 328
+    },
+    {
+      "Time": "2023-07-19T14:04:23.0494719+00:00",
+      "NumProgressed": 15636,
+      "NumCompleted": 328
     }
   ],
   "TotalAchievements": 20,
@@ -9835,7 +9840,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1563
+      "UsersEstimate": 1564
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -9891,7 +9896,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2032
+      "UsersEstimate": 2033
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -9915,7 +9920,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 11882
+      "UsersEstimate": 11883
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -9939,7 +9944,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1095
     },
     {
       "ID": "WEST_FINISHED",
@@ -9947,22 +9952,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 2970
+      "UsersEstimate": 2971
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 15634,
+      "Progressed": 15636,
       "Completed": 328
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-07-19T13:14:05.0628598+00:00",
+  "LastChanged_Achievements": "2023-07-19T14:04:23.0494714+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:08.6336222+00:00",
-  "LastUpdate_Ratings": "2023-07-19T13:10:24.3565581+00:00",
-  "LastUpdate_Achievements": "2023-07-19T13:14:05.06293+00:00"
+  "LastUpdate_Ratings": "2023-07-19T14:01:05.8022963+00:00",
+  "LastUpdate_Achievements": "2023-07-19T14:04:23.0495256+00:00"
 }

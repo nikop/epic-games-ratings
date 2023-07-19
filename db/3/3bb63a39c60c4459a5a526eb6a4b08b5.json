@@ -2,7 +2,7 @@
   "ID": "3bb63a39c60c4459a5a526eb6a4b08b5",
   "Name": "Fly Corp",
   "ProductSlug": "fly-corp-398021",
-  "Ranking_EOS_Progress": 243,
+  "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 147,
   "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 78,
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 315,
+  "EOS_Progressed": 316,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
@@ -1006,6 +1006,11 @@
       "Time": "2023-07-19T13:14:11.951524+00:00",
       "NumProgressed": 315,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-19T14:04:32.2799606+00:00",
+      "NumProgressed": 316,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -1015,9 +1020,9 @@
       "ID": "ABigLuck",
       "SetID": "1e89b4i",
       "Name": "Great Luck",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 28
     },
     {
       "ID": "ActivePause",
@@ -1031,9 +1036,9 @@
       "ID": "BasicControls",
       "SetID": "1e89b4i",
       "Name": "Basic Controls",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 196
     },
     {
       "ID": "BigPlane",
@@ -1041,7 +1046,7 @@
       "Name": "Expensive Plane",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "BudgetFlight",
@@ -1217,7 +1222,7 @@
       "Name": "New Record",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "NoTimeForModernization",
@@ -1271,7 +1276,7 @@
       "ID": "Reaction",
       "SetID": "1e89b4i",
       "Name": "Fast Response",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -1297,7 +1302,7 @@
       "Name": "Restructuring",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "Reviewer",
@@ -1345,21 +1350,21 @@
       "Name": "Transport Hub",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 315,
+      "Progressed": 316,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-07-19T13:14:11.9515235+00:00",
+  "LastChanged_Achievements": "2023-07-19T14:04:32.2799601+00:00",
   "LastUpdate_AppInfo": "2023-07-18T08:57:06.2338611+00:00",
-  "LastUpdate_Ratings": "2023-07-19T13:07:24.674504+00:00",
-  "LastUpdate_Achievements": "2023-07-19T13:14:11.9515642+00:00"
+  "LastUpdate_Ratings": "2023-07-19T13:57:10.2447083+00:00",
+  "LastUpdate_Achievements": "2023-07-19T14:04:32.2799956+00:00"
 }

@@ -6,18 +6,18 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~245,885 |
-| Cavalier | 25.00% | ~198,295 |
-| Fatso | 23.00% | ~182,431 |
+| Blacksmith's Son | 31.00% | ~245,886 |
+| Cavalier | 25.00% | ~198,296 |
+| Fatso | 23.00% | ~182,432 |
 | Awakening | 20.00% | ~158,636 |
 | Ranger | 20.00% | ~158,636 |
 | Scrooge | 20.00% | ~158,636 |
 | Anorectic | 16.00% | ~126,909 |
 | Firestarter | 15.00% | ~118,977 |
 | Bookworm | 14.00% | ~111,045 |
-| Insomniac | 13.00% | ~103,113 |
-| Buddy | 12.00% | ~95,181 |
-| Thief | 12.00% | ~95,181 |
+| Insomniac | 13.00% | ~103,114 |
+| Buddy | 12.00% | ~95,182 |
+| Thief | 12.00% | ~95,182 |
 | Sinner | 11.00% | ~87,250 |
 | Convict | 10.00% | ~79,318 |
 | Traveller | 10.00% | ~79,318 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~793 |
 | Wingman | 0.10% | ~793 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 793,179 (Ranked 15)  
+Progressed: 793,182 (Ranked 15)  
 Completed: 44 (0.01%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,10 +179,10 @@ Completed: 44 (0.01%) (Ranked 225)
 | 2023-07-16 | 792,827 | 44 |
 | 2023-07-17 | 792,975 | 44 |
 | 2023-07-18 | 793,118 | 44 |
-| 2023-07-19 | 793,179 | 44 |
+| 2023-07-19 | 793,182 | 44 |
 ## Awards
 Max (Character Customization): 7,324  (Ranked 46)  
-Sum: 27,315 (Ranked 44)  
+Sum: 27,318 (Ranked 44)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -191,12 +191,12 @@ Diff (max vs sum): 2
 | This game has Challenging Combat | 1,714 |
 | This game has Amazing Storytelling | 1,674 |
 | This game has Diverse Characters | 1,650 |
-| This game is Extremely Fun | 1,644 |
+| This game is Extremely Fun | 1,645 |
 | This game is Highly Recommended | 1,635 |
 | This game has Amazing Characters | 1,619 |
-| This game has Realistic Visuals | 1,607 |
+| This game has Realistic Visuals | 1,608 |
 | This game is Educational | 1,561 |
-| This game is Relaxing | 1,498 |
+| This game is Relaxing | 1,499 |
 | This game has Obsessive Gameplay | 1,048 |
 | This game has a Creative Community | 664 |
 ## Ratings History
@@ -376,4 +376,4 @@ Diff (max vs sum): 2
 | 2023-07-16 | 4.71 | - | 7,321 | 27,292 |
 | 2023-07-17 | 4.71 | - | 7,324 | 27,306 |
 | 2023-07-18 | 4.71 | - | 7,324 | 27,313 |
-| 2023-07-19 | 4.71 | - | 7,324 | 27,315 |
+| 2023-07-19 | 4.71 | - | 7,324 | 27,318 |

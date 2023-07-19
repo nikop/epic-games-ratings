@@ -3,16 +3,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 25.00% | ~5 |
+| Break Out | 30.00% | ~6 |
+| Calm before the Storm | 25.00% | ~5 |
 | Flawless Victory | 25.00% | ~5 |
 | Powerful Allies | 20.00% | ~4 |
-| Calm before the Storm | 20.00% | ~4 |
 | A Taste of Wrath | 20.00% | ~4 |
 | The Mentor | 20.00% | ~4 |
 | Trinity | 20.00% | ~4 |
 | Adventurer | 20.00% | ~4 |
 | Tributes of Caladrias | 20.00% | ~4 |
 | Essence Blow | 20.00% | ~4 |
+| Fine Feathers Make Fine Birds | 20.00% | ~4 |
 | Geared Up | 20.00% | ~4 |
 | Fashion Victim | 20.00% | ~4 |
 | I Found It | 20.00% | ~4 |
@@ -23,19 +24,18 @@
 | Airborne | 15.00% | ~3 |
 | Shatterer | 15.00% | ~3 |
 | Big Bazar | 15.00% | ~3 |
-| Fine Feathers Make Fine Birds | 15.00% | ~3 |
 | Scholar | 15.00% | ~3 |
 | False God | 15.00% | ~3 |
 | Alchemist | 15.00% | ~3 |
 | The Collector | 15.00% | ~3 |
+| Summiter | 15.00% | ~3 |
 | To Battle | 10.00% | ~2 |
 | Godslayer | 10.00% | ~2 |
 | Slayer | 10.00% | ~2 |
+| All There Is | 10.00% | ~2 |
 | Stone Collection | 10.00% | ~2 |
 | A Queen's Tale | 10.00% | ~2 |
-| Summiter | 10.00% | ~2 |
 | Forgemaster | 5.00% | ~1 |
-| All There Is | 5.00% | ~1 |
 | All That Gold | 5.00% | ~1 |
 | Feeling Fancy | 5.00% | ~1 |
 | Shatter Them All | 0.00% | ~0 |

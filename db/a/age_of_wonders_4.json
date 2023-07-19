@@ -2,12 +2,12 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 347,
+  "Ranking_Rating": 331,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.62,
+  "Rating": 4.63,
   "RatingHistory": [
     {
       "Time": "2023-05-02T18:59:30.6410122+00:00",
@@ -266,6 +266,12 @@
     {
       "Time": "2023-07-11T11:00:15.2595191+00:00",
       "Rating": 4.62,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-07-19T14:00:18.5966836+00:00",
+      "Rating": 4.63,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -5382,9 +5388,9 @@
       "ID": "17",
       "SetID": "3aa2279",
       "Name": "Lord of Chaos",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 100
     },
     {
       "ID": "18",
@@ -5732,9 +5738,9 @@
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
-  "LastChanged": "2023-07-11T11:00:15.2595187+00:00",
-  "LastChanged_Achievements": "2023-07-19T13:13:53.4538557+00:00",
+  "LastChanged": "2023-07-19T14:00:18.5966835+00:00",
+  "LastChanged_Achievements": "2023-07-19T14:04:07.8861423+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:27.6381321+00:00",
-  "LastUpdate_Ratings": "2023-07-19T13:09:48.4483286+00:00",
-  "LastUpdate_Achievements": "2023-07-19T13:13:53.4539329+00:00"
+  "LastUpdate_Ratings": "2023-07-19T14:00:18.596684+00:00",
+  "LastUpdate_Achievements": "2023-07-19T14:04:07.8862016+00:00"
 }

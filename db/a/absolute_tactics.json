@@ -99,9 +99,9 @@
       "ID": "AT_ACHIEVEMENT_NAME_0005",
       "SetID": "9jb1eoe",
       "Name": "Glorious Loot",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "AT_ACHIEVEMENT_NAME_0006",
@@ -244,8 +244,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.3491897+00:00",
   "FirstSeenAchievements": "2023-06-19T22:05:39.5621964+00:00",
   "LastChanged": "2023-03-31T05:57:50.3491898+00:00",
-  "LastChanged_Achievements": "2023-07-19T13:16:20.6373582+00:00",
+  "LastChanged_Achievements": "2023-07-19T14:07:25.1460331+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:09.0698267+00:00",
-  "LastUpdate_Ratings": "2023-07-19T13:10:25.3130068+00:00",
-  "LastUpdate_Achievements": "2023-07-19T13:16:20.6373754+00:00"
+  "LastUpdate_Ratings": "2023-07-19T14:01:07.2704968+00:00",
+  "LastUpdate_Achievements": "2023-07-19T14:07:25.1460459+00:00"
 }
