@@ -83,7 +83,7 @@
 | 81 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 82 | [Sifu](games/s/sifu.md) | 1.80% |
 | 83 | [Iron Danger](games/i/iron_danger.md) | 1.78% |
-| 84 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.75% |
+| 84 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.74% |
 | 85 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.63% |
 | 86 | [Somerville](games/s/somerville.md) | 1.62% |
 | 87 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.52% |
@@ -137,8 +137,8 @@
 | 135 | [Tchia](games/t/tchia.md) | 0.43% |
 | 135 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.43% |
 | 137 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.42% |
+| 138 | [Ghostrunner](games/g/ghostrunner.md) | 0.41% |
 | 138 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
-| 139 | [Ghostrunner](games/g/ghostrunner.md) | 0.40% |
 | 140 | [Wildermyth](games/w/wildermyth.md) | 0.38% |
 | 141 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 142 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.36% |
