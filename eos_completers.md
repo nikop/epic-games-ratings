@@ -69,14 +69,14 @@
 | 67 | [Lamentum](games/l/lamentum.md) | 2.67% |
 | 68 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
 | 69 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.62% |
+| 70 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.53% |
 | 70 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.53% |
-| 71 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.52% |
 | 72 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 73 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
 | 74 | [Bloodshore](games/b/bloodshore.md) | 2.27% |
 | 75 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.15% |
 | 76 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.13% |
-| 77 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.09% |
+| 77 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.10% |
 | 78 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.08% |
 | 79 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
 | 80 | [Frogun](games/f/frogun.md) | 1.91% |
@@ -97,7 +97,7 @@
 | 95 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.23% |
 | 96 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.20% |
 | 97 | [Chorus](games/c/chorus.md) | 1.16% |
-| 97 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.16% |
+| 98 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.15% |
 | 99 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.14% |
 | 100 | [Trifox](games/t/trifox.md) | 1.11% |
 | 101 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.06% |
@@ -163,10 +163,10 @@
 | 161 | [Blanc](games/b/blanc.md) | 0.22% |
 | 161 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
 | 161 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.22% |
+| 164 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.21% |
 | 164 | [Going Medieval](games/g/going_medieval.md) | 0.21% |
 | 164 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.21% |
-| 166 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
-| 166 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.20% |
+| 167 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.20% |
 | 168 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
 | 169 | [BLACKTAIL](games/b/blacktail.md) | 0.18% |
 | 169 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.18% |
