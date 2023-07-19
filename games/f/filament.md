@@ -5,14 +5,14 @@ Rating: 4.32 (Ranked 765)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Boarded! | 94.00% | ~184,945 |
+| Boarded! | 94.00% | ~184,948 |
 | Snooper. | 10.00% | ~19,675 |
 | You have to start somewhere, right? | 7.00% | ~13,773 |
 | So you're saying I don't touch these ones? | 6.00% | ~11,805 |
 | Corrupted. | 5.00% | ~9,838 |
 | Good things come in pairs... Coloured Pairs. | 5.00% | ~9,838 |
-| Answers can be found amongst the stars | 3.00% | ~5,902 |
-| Bend to the will of the arrows. | 3.00% | ~5,902 |
+| Answers can be found amongst the stars | 3.00% | ~5,903 |
+| Bend to the will of the arrows. | 3.00% | ~5,903 |
 | You've been through a lot. | 2.00% | ~3,935 |
 | People's feelings on these ones are very... Binary... | 2.00% | ~3,935 |
 | I hope your remember your colour theory. | 2.00% | ~3,935 |
@@ -29,13 +29,13 @@ Rating: 4.32 (Ranked 765)
 | Cockpit | 0.70% | ~1,377 |
 | Names to faces. | 0.70% | ~1,377 |
 | Witness it. | 0.70% | ~1,377 |
-| A full deck. | 0.60% | ~1,180 |
-| 14237b6509eafd8c | 0.60% | ~1,180 |
+| A full deck. | 0.60% | ~1,181 |
+| 14237b6509eafd8c | 0.60% | ~1,181 |
 | No Anchor too great. | 0.50% | ~984 |
 | Snooper + | 0.40% | ~787 |
 | Corrupted + | 0.30% | ~590 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 196,750 (Ranked 55)  
+Progressed: 196,753 (Ranked 55)  
 Completed: 468 (0.24%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 468 (0.24%) (Ranked 160)
 | 2023-07-16 | 196,527 | 467 |
 | 2023-07-17 | 196,609 | 467 |
 | 2023-07-18 | 196,694 | 468 |
-| 2023-07-19 | 196,750 | 468 |
+| 2023-07-19 | 196,753 | 468 |
 ## Awards
 Max (Challenging Puzzles): 558  (Ranked 183)  
 Sum: 672 (Ranked 275)  

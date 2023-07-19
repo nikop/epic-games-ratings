@@ -6,16 +6,16 @@ Number of Ratings: 425  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Everybody Gets One | 97.00% | ~27,101 |
-| Gone Home | 93.00% | ~25,983 |
-| Wonderfalls | 87.00% | ~24,307 |
-| Got to Catch a Few | 77.00% | ~21,513 |
-| Double Trapper | 75.00% | ~20,954 |
-| I'm Stuffed | 69.00% | ~19,278 |
+| Everybody Gets One | 97.00% | ~27,102 |
+| Gone Home | 93.00% | ~25,984 |
+| Wonderfalls | 87.00% | ~24,308 |
+| Got to Catch a Few | 77.00% | ~21,514 |
+| Double Trapper | 75.00% | ~20,955 |
+| I'm Stuffed | 69.00% | ~19,279 |
 | Got to Catch a Lot | 66.00% | ~18,440 |
 | Talkin' 'Bout Bugsnax | 61.00% | ~17,043 |
-| In the Arms of the Gramble | 59.00% | ~16,484 |
-| Know Thy Neighbor | 59.00% | ~16,484 |
+| In the Arms of the Gramble | 59.00% | ~16,485 |
+| Know Thy Neighbor | 59.00% | ~16,485 |
 | Launch Party | 56.00% | ~15,646 |
 | Perf Dirt | 56.00% | ~15,646 |
 | Vacation's End | 53.00% | ~14,808 |
@@ -27,17 +27,17 @@ Number of Ratings: 425  (23.09.2022)
 | Combo Meal | 38.00% | ~10,617 |
 | Midnight Snak | 36.00% | ~10,058 |
 | Candid Cryptid | 35.00% | ~9,779 |
-| Got to Catch Them All | 32.00% | ~8,940 |
+| Got to Catch Them All | 32.00% | ~8,941 |
 | Deep Impact | 23.00% | ~6,426 |
 | Grab Bag | 23.00% | ~6,426 |
 | Feeding Frenzy | 18.00% | ~5,029 |
 | Clothesline | 17.00% | ~4,750 |
 | Say Cheese! | 15.00% | ~4,191 |
-| Sundae Best | 14.00% | ~3,911 |
+| Sundae Best | 14.00% | ~3,912 |
 | Live Laugh Hut | 8.00% | ~2,235 |
 | Dapper Capper | 6.00% | ~1,676 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,939 (Ranked 97)  
+Progressed: 27,940 (Ranked 97)  
 Completed: 1,314 (4.70%) (Ranked 43)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 1,314 (4.70%) (Ranked 43)
 | 2023-07-16 | 27,925 | 1,312 |
 | 2023-07-17 | 27,935 | 1,313 |
 | 2023-07-18 | 27,938 | 1,313 |
-| 2023-07-19 | 27,939 | 1,314 |
+| 2023-07-19 | 27,940 | 1,314 |
 ## Awards
 Max (Amazing Storytelling): 38  (Ranked 427)  
 Sum: 323 (Ranked 331)  

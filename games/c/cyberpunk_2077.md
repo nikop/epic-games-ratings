@@ -6,36 +6,36 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~589,259 |
-| Right Back At Ya | 38.00% | ~329,292 |
-| The Lovers | 34.00% | ~294,629 |
-| Stanislavski's Method | 28.00% | ~242,636 |
-| The Wheel of Fortune | 26.00% | ~225,305 |
-| The Hermit | 24.00% | ~207,974 |
-| Christmas Tree Attack | 22.00% | ~190,643 |
-| True Soldier | 22.00% | ~190,643 |
-| The High Priestess | 21.00% | ~181,977 |
-| Legend of The Afterlife | 21.00% | ~181,977 |
-| Life of the Road | 20.00% | ~173,311 |
-| Full Body Conversion | 18.00% | ~155,980 |
-| The World | 17.00% | ~147,315 |
-| Bushido and Chill | 16.00% | ~138,649 |
-| Gun Fu | 15.00% | ~129,984 |
-| True Warrior | 15.00% | ~129,984 |
-| I Am The Law | 14.00% | ~121,318 |
-| Judy vs Night City | 14.00% | ~121,318 |
-| To Protect and Serve | 13.00% | ~112,652 |
-| Master Crafter | 13.00% | ~112,652 |
-| Two Heads, One Bullet | 11.00% | ~95,321 |
-| The Wandering Fool | 9.00% | ~77,990 |
-| The Quick and the Dead | 9.00% | ~77,990 |
+| The Fool | 68.00% | ~589,264 |
+| Right Back At Ya | 38.00% | ~329,295 |
+| The Lovers | 34.00% | ~294,632 |
+| Stanislavski's Method | 28.00% | ~242,638 |
+| The Wheel of Fortune | 26.00% | ~225,307 |
+| The Hermit | 24.00% | ~207,976 |
+| Christmas Tree Attack | 22.00% | ~190,644 |
+| True Soldier | 22.00% | ~190,644 |
+| The High Priestess | 21.00% | ~181,979 |
+| Legend of The Afterlife | 21.00% | ~181,979 |
+| Life of the Road | 20.00% | ~173,313 |
+| Full Body Conversion | 18.00% | ~155,982 |
+| The World | 17.00% | ~147,316 |
+| Bushido and Chill | 16.00% | ~138,650 |
+| Gun Fu | 15.00% | ~129,985 |
+| True Warrior | 15.00% | ~129,985 |
+| I Am The Law | 14.00% | ~121,319 |
+| Judy vs Night City | 14.00% | ~121,319 |
+| To Protect and Serve | 13.00% | ~112,653 |
+| Master Crafter | 13.00% | ~112,653 |
+| Two Heads, One Bullet | 11.00% | ~95,322 |
+| The Wandering Fool | 9.00% | ~77,991 |
+| The Quick and the Dead | 9.00% | ~77,991 |
 | Ten out of Ten | 8.00% | ~69,325 |
-| Breathtaking | 7.00% | ~60,659 |
-| To Bad Decisions! | 6.00% | ~51,993 |
-| The Star | 6.00% | ~51,993 |
-| The Sun | 6.00% | ~51,993 |
-| Must Be Rats | 4.00% | ~34,662 |
-| Temperance | 4.00% | ~34,662 |
+| Breathtaking | 7.00% | ~60,660 |
+| To Bad Decisions! | 6.00% | ~51,994 |
+| The Star | 6.00% | ~51,994 |
+| The Sun | 6.00% | ~51,994 |
+| Must Be Rats | 4.00% | ~34,663 |
+| Temperance | 4.00% | ~34,663 |
 | City Lights | 3.00% | ~25,997 |
 | Mean Streets | 3.00% | ~25,997 |
 | Little Tokyo | 3.00% | ~25,997 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,666 |
 | Rough Landing | 0.50% | ~4,333 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 866,557 (Ranked 14)  
+Progressed: 866,565 (Ranked 14)  
 Completed: 1,883 (0.22%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,24 +141,24 @@ Completed: 1,883 (0.22%) (Ranked 161)
 | 2023-07-16 | 866,078 | 1,878 |
 | 2023-07-17 | 866,256 | 1,878 |
 | 2023-07-18 | 866,435 | 1,883 |
-| 2023-07-19 | 866,557 | 1,883 |
+| 2023-07-19 | 866,565 | 1,883 |
 ## Awards
 Max (Character Customization): 73,529  (Ranked 9)  
-Sum: 193,106 (Ranked 13)  
+Sum: 193,133 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 73,529 |
 | This game has Great Boss Battles | 47,324 |
-| This game has Diverse Characters | 8,539 |
+| This game has Diverse Characters | 8,551 |
 | This game is Great for Beginners | 8,503 |
 | This game has Amazing Storytelling | 8,481 |
 | This game is Extremely Fun | 8,378 |
 | This game is Highly Recommended | 8,348 |
 | This game is Relaxing | 8,309 |
-| This game has Quickly Understood Controls | 8,181 |
+| This game has Quickly Understood Controls | 8,191 |
 | This game has Amazing Characters | 8,155 |
-| This game has a Creative Community | 5,359 |
+| This game has a Creative Community | 5,364 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -343,4 +343,4 @@ Diff (max vs sum): -4
 | 2023-07-16 | 4.62 | - | 73,337 | 192,382 |
 | 2023-07-17 | 4.62 | - | 73,434 | 192,689 |
 | 2023-07-18 | 4.62 | - | 73,529 | 192,990 |
-| 2023-07-19 | 4.62 | - | 73,529 | 193,106 |
+| 2023-07-19 | 4.62 | - | 73,529 | 193,133 |

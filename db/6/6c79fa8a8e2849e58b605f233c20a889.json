@@ -4,8 +4,8 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2061,
+  "EOS_Progressed": 2063,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3871,6 +3871,11 @@
       "Time": "2023-07-19T17:03:44.1807336+00:00",
       "NumProgressed": 2061,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-19T18:03:45.4443508+00:00",
+      "NumProgressed": 2063,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -3898,7 +3903,7 @@
       "Name": "Bot Destroyer",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "CLUMSY",
@@ -3914,7 +3919,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -3962,7 +3967,7 @@
       "Name": "Novice",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 804
+      "UsersEstimate": 805
     },
     {
       "ID": "GLOVE_SLAP",
@@ -3986,7 +3991,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1237
+      "UsersEstimate": 1238
     },
     {
       "ID": "GUARD_MAKER",
@@ -3994,7 +3999,7 @@
       "Name": "Guard Maker",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ISOLATION_MASTER",
@@ -4057,14 +4062,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2061,
+      "Progressed": 2063,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-07-19T17:03:44.1807329+00:00",
+  "LastChanged_Achievements": "2023-07-19T18:03:45.4443503+00:00",
   "LastUpdate_AppInfo": "2023-07-18T18:56:59.446909+00:00",
-  "LastUpdate_Ratings": "2023-07-19T16:57:43.2281602+00:00",
-  "LastUpdate_Achievements": "2023-07-19T17:03:44.1807852+00:00"
+  "LastUpdate_Ratings": "2023-07-19T17:57:34.3479927+00:00",
+  "LastUpdate_Achievements": "2023-07-19T18:03:45.4443802+00:00"
 }

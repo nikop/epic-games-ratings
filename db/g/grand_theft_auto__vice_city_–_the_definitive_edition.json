@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 131,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -526,9 +526,9 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 9005,
+  "EOS_Progressed": 9006,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -6461,6 +6461,11 @@
       "Time": "2023-07-19T17:04:10.6019356+00:00",
       "NumProgressed": 9005,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-19T18:04:12.134563+00:00",
+      "NumProgressed": 9006,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -6488,7 +6493,7 @@
       "Name": "Iron-y",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "ACH04",
@@ -6552,7 +6557,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 900
+      "UsersEstimate": 901
     },
     {
       "ID": "ACH12",
@@ -6600,7 +6605,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "ACH18",
@@ -6632,7 +6637,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4052
+      "UsersEstimate": 4053
     },
     {
       "ID": "ACH22",
@@ -6648,7 +6653,7 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2251
+      "UsersEstimate": 2252
     },
     {
       "ID": "ACH24",
@@ -6743,7 +6748,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9005,
+      "Progressed": 9006,
       "Completed": 43
     }
   ],
@@ -6751,8 +6756,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-12T19:59:24.8621469+00:00",
-  "LastChanged_Achievements": "2023-07-19T17:04:10.601935+00:00",
+  "LastChanged_Achievements": "2023-07-19T18:04:12.1345625+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:03.5723456+00:00",
-  "LastUpdate_Ratings": "2023-07-19T16:58:43.8527035+00:00",
-  "LastUpdate_Achievements": "2023-07-19T17:04:10.6019975+00:00"
+  "LastUpdate_Ratings": "2023-07-19T17:58:37.870709+00:00",
+  "LastUpdate_Achievements": "2023-07-19T18:04:12.1346077+00:00"
 }

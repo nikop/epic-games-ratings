@@ -43,7 +43,7 @@
 | Platinum Achiever | 0.00% | ~0 |
 | Platinum Competitor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 509 (Ranked 214)  
+Progressed: 510 (Ranked 214)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,4 +84,4 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-16 | 466 | 0 |
 | 2023-07-17 | 477 | 0 |
 | 2023-07-18 | 495 | 0 |
-| 2023-07-19 | 509 | 0 |
+| 2023-07-19 | 510 | 0 |

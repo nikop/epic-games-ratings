@@ -28,7 +28,7 @@ Rating: 4.39 (Ranked 703)
 | Infiltrator | 32.00% | ~394 |
 | Pushing Daisy | 31.00% | ~382 |
 | Experienced | 29.00% | ~357 |
-| Hold The Line | 26.00% | ~320 |
+| Hold The Line | 27.00% | ~333 |
 | Endgame | 25.00% | ~308 |
 | Savior | 25.00% | ~308 |
 | There Can Be Only One! | 25.00% | ~308 |

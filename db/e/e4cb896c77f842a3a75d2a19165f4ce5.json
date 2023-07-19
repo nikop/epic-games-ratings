@@ -3,9 +3,9 @@
   "Name": "Dolmenjord - Viking Islands",
   "ProductSlug": "dolmenjord-viking-islands-965b06",
   "Ranking_EOS_Progress": 235,
-  "Ranking_EOS_Completed": 73,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_Completed": 69,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T03:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 344,
-  "EOS_Completed": 8,
+  "EOS_Completed": 9,
   "EOS_NewPlayers": 7,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.33,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 2.62,
   "EosHistory": [
     {
       "Time": "2023-06-02T12:03:22.0888781+00:00",
@@ -876,6 +876,11 @@
       "Time": "2023-07-18T05:04:45.3020845+00:00",
       "NumProgressed": 344,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-19T18:05:25.0310406+00:00",
+      "NumProgressed": 344,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 11,
@@ -965,9 +970,9 @@
       "ID": "LEVEL_060",
       "SetID": "7jk5g4e",
       "Name": "A great viking explorer!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     }
   ],
   "AchievementSets": [
@@ -975,13 +980,13 @@
       "ID": "7jk5g4e",
       "IsBase": true,
       "Progressed": 344,
-      "Completed": 8
+      "Completed": 9
     }
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-07-19T17:05:22.8157707+00:00",
+  "LastChanged_Achievements": "2023-07-19T18:05:25.03104+00:00",
   "LastUpdate_AppInfo": "2023-07-17T16:57:20.7091706+00:00",
-  "LastUpdate_Ratings": "2023-07-19T16:57:32.1246747+00:00",
-  "LastUpdate_Achievements": "2023-07-19T17:05:22.8157865+00:00"
+  "LastUpdate_Ratings": "2023-07-19T17:57:24.1469975+00:00",
+  "LastUpdate_Achievements": "2023-07-19T18:05:25.0310518+00:00"
 }

@@ -1,24 +1,24 @@
 # Railway Empire 2
 [Store](https://store.epicgames.com/en-US/p/railway-empire-2-46840c)  
 [View Rawdata](../../db/r/railway_empire_2.json)  
-Rating: 4.49 (Ranked 575)  
+Rating: 4.49 (Ranked 574)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 74.00% | ~1,193 |
+| Country Bumpkin | 74.00% | ~1,194 |
 | A new Journey | 73.00% | ~1,177 |
 | From X to Y | 72.00% | ~1,161 |
 | Departure | 72.00% | ~1,161 |
-| Way of Iron | 70.00% | ~1,128 |
-| Mystery Tour | 68.00% | ~1,096 |
-| We brake for nobody | 67.00% | ~1,080 |
+| Way of Iron | 70.00% | ~1,129 |
+| Mystery Tour | 68.00% | ~1,097 |
+| We brake for nobody | 67.00% | ~1,081 |
 | Brainstorm | 65.00% | ~1,048 |
 | Travel Company | 65.00% | ~1,048 |
 | Mind the Gap | 64.00% | ~1,032 |
-| All around the World | 62.00% | ~999 |
+| All around the World | 62.00% | ~1,000 |
 | Right through the middle | 56.00% | ~903 |
-| Facility Manager | 53.00% | ~854 |
-| Poor Devil | 53.00% | ~854 |
+| Poor Devil | 54.00% | ~871 |
+| Facility Manager | 53.00% | ~855 |
 | Producer | 50.00% | ~806 |
 | Apprentice | 42.00% | ~677 |
 | Bridge Builder | 41.00% | ~661 |
@@ -26,17 +26,17 @@ Rating: 4.49 (Ranked 575)
 | Going once, going twice, sold | 34.00% | ~548 |
 | Stoker | 33.00% | ~532 |
 | Bull and bear | 33.00% | ~532 |
-| Full Steam ahead | 31.00% | ~500 |
+| Full Steam ahead | 32.00% | ~516 |
 | Financial Shark | 30.00% | ~484 |
-| Socializer | 29.00% | ~467 |
-| All mine | 28.00% | ~451 |
-| Mole | 28.00% | ~451 |
+| All mine | 29.00% | ~468 |
+| Socializer | 29.00% | ~468 |
+| Mole | 28.00% | ~452 |
 | Country Life | 26.00% | ~419 |
 | General Manager | 25.00% | ~403 |
 | Hostile Takeover | 25.00% | ~403 |
 | Seven at one stroke | 23.00% | ~371 |
-| Trailblazer | 20.00% | ~322 |
-| Breaking Ground | 20.00% | ~322 |
+| Trailblazer | 20.00% | ~323 |
+| Breaking Ground | 20.00% | ~323 |
 | Traffic Junction | 19.00% | ~306 |
 | Traffic Jam | 18.00% | ~290 |
 | Networker | 18.00% | ~290 |
@@ -45,7 +45,7 @@ Rating: 4.49 (Ranked 575)
 | Locusts | 15.00% | ~242 |
 | Max Power | 13.00% | ~210 |
 | Settler | 13.00% | ~210 |
-| Go West | 12.00% | ~193 |
+| Go West | 12.00% | ~194 |
 | Bold and beautiful | 11.00% | ~177 |
 | A new Hope | 9.00% | ~145 |
 | Tycoon | 9.00% | ~145 |
@@ -53,7 +53,7 @@ Rating: 4.49 (Ranked 575)
 | Track to the Future | 7.00% | ~113 |
 | Conductor | 5.00% | ~81 |
 | Call of Duty | 5.00% | ~81 |
-| Let off some steam | 4.00% | ~64 |
+| Let off some steam | 4.00% | ~65 |
 | Engineer | 3.00% | ~48 |
 | Accurate | 2.00% | ~32 |
 | Together we stand | 0.50% | ~8 |
@@ -61,7 +61,7 @@ Rating: 4.49 (Ranked 575)
 | United States | 0.40% | ~6 |
 | Three Cheers for Progress | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,612 (Ranked 170)  
+Progressed: 1,613 (Ranked 170)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-16 | 1,581 | 0 |
 | 2023-07-17 | 1,595 | 0 |
 | 2023-07-18 | 1,605 | 0 |
-| 2023-07-19 | 1,612 | 0 |
+| 2023-07-19 | 1,613 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
