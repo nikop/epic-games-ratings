@@ -2,7 +2,7 @@
   "ID": "ae373893881044d2bf26d6f8363a120e",
   "Name": "Supraland",
   "ProductSlug": "supraland",
-  "Ranking_Rating": 364,
+  "Ranking_Rating": 365,
   "Ranking_Popularity": 43,
   "Ranking_PopularitySum": 80,
   "Ranking_EOS_Progress": 16,
@@ -2692,9 +2692,9 @@
       "Count": 188
     }
   ],
-  "EOS_Progressed": 717337,
+  "EOS_Progressed": 717338,
   "EOS_Completed": 711,
-  "EOS_NewPlayers": 1137,
+  "EOS_NewPlayers": 1133,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -12322,6 +12322,11 @@
       "Time": "2023-07-19T04:20:33.7707564+00:00",
       "NumProgressed": 717337,
       "NumCompleted": 711
+    },
+    {
+      "Time": "2023-07-19T05:05:13.67083+00:00",
+      "NumProgressed": 717338,
+      "NumCompleted": 711
     }
   ],
   "TotalAchievements": 98,
@@ -12693,7 +12698,7 @@
       "Name": "Healthbar",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 394535
+      "UsersEstimate": 394536
     },
     {
       "ID": "Healthregen",
@@ -12701,7 +12706,7 @@
       "Name": "Regeneration",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 337148
+      "UsersEstimate": 337149
     },
     {
       "ID": "HelpedAStar",
@@ -12709,7 +12714,7 @@
       "Name": "Helped a star",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 86080
+      "UsersEstimate": 86081
     },
     {
       "ID": "HillClimb",
@@ -12773,7 +12778,7 @@
       "Name": "Just once",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 258241
+      "UsersEstimate": 258242
     },
     {
       "ID": "MacGuffin",
@@ -12845,7 +12850,7 @@
       "Name": "Out of bed",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 710164
+      "UsersEstimate": 710165
     },
     {
       "ID": "PanicLights",
@@ -12965,7 +12970,7 @@
       "Name": "Fast",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 473442
+      "UsersEstimate": 473443
     },
     {
       "ID": "Strong",
@@ -12973,7 +12978,7 @@
       "Name": "Strong",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 86080
+      "UsersEstimate": 86081
     },
     {
       "ID": "SuperSword",
@@ -13005,7 +13010,7 @@
       "Name": "The Blues",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 609736
+      "UsersEstimate": 609737
     },
     {
       "ID": "ThroughPipe",
@@ -13116,15 +13121,15 @@
     {
       "ID": "3m49pn8",
       "IsBase": true,
-      "Progressed": 717337,
+      "Progressed": 717338,
       "Completed": 711
     }
   ],
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1459144+00:00",
   "LastChanged": "2023-07-18T15:59:05.3484089+00:00",
-  "LastChanged_Achievements": "2023-07-19T04:20:33.7707558+00:00",
+  "LastChanged_Achievements": "2023-07-19T05:05:13.6708295+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:51.1156967+00:00",
-  "LastUpdate_Ratings": "2023-07-19T04:13:40.7379478+00:00",
-  "LastUpdate_Achievements": "2023-07-19T04:20:33.770914+00:00"
+  "LastUpdate_Ratings": "2023-07-19T04:58:12.3547249+00:00",
+  "LastUpdate_Achievements": "2023-07-19T05:05:13.6709744+00:00"
 }

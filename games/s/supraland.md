@@ -1,23 +1,23 @@
 # Supraland
 [Store](https://store.epicgames.com/en-US/p/supraland)  
 [View Rawdata](../../db/s/supraland.json)  
-Rating: 4.61 (Ranked 364)  
+Rating: 4.61 (Ranked 365)  
 Number of Ratings: 25,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~710,164 |
-| The Blues | 85.00% | ~609,736 |
-| Fast | 66.00% | ~473,442 |
-| Healthbar | 55.00% | ~394,535 |
+| Out of bed | 99.00% | ~710,165 |
+| The Blues | 85.00% | ~609,737 |
+| Fast | 66.00% | ~473,443 |
+| Healthbar | 55.00% | ~394,536 |
 | Force Cube | 53.00% | ~380,189 |
 | Double Jump | 48.00% | ~344,322 |
-| Regeneration | 47.00% | ~337,148 |
+| Regeneration | 47.00% | ~337,149 |
 | Climb the hill | 42.00% | ~301,282 |
 | Triple Jump | 42.00% | ~301,282 |
 | Through the fire pipe | 38.00% | ~272,588 |
 | MacGuffin | 38.00% | ~272,588 |
-| Just once | 36.00% | ~258,241 |
+| Just once | 36.00% | ~258,242 |
 | Armor | 30.00% | ~215,201 |
 | True holy spirit | 27.00% | ~193,681 |
 | That's how electronics work obviously | 26.00% | ~186,508 |
@@ -36,8 +36,8 @@ Number of Ratings: 25,175  (23.09.2022)
 | 9 | 13.00% | ~93,254 |
 | Purple Cube | 13.00% | ~93,254 |
 | Supraball Noob | 13.00% | ~93,254 |
-| Helped a star | 12.00% | ~86,080 |
-| Strong | 12.00% | ~86,080 |
+| Helped a star | 12.00% | ~86,081 |
+| Strong | 12.00% | ~86,081 |
 | Blue King's lair | 11.00% | ~78,907 |
 | Payback | 11.00% | ~78,907 |
 | Got the coins back | 11.00% | ~78,907 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~717 |
 | DLC: Top of the world | 0.10% | ~717 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,337 (Ranked 16)  
+Progressed: 717,338 (Ranked 16)  
 Completed: 711 (0.10%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 711 (0.10%) (Ranked 183)
 | 2023-07-16 | 717,022 | 709 |
 | 2023-07-17 | 717,155 | 711 |
 | 2023-07-18 | 717,309 | 711 |
-| 2023-07-19 | 717,337 | 711 |
+| 2023-07-19 | 717,338 | 711 |
 ## Awards
 Max (Challenging Puzzles): 7,647  (Ranked 43)  
 Sum: 9,962 (Ranked 80)  

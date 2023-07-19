@@ -6,22 +6,22 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,427 |
-| That's a Grand Army | 8.00% | ~5,713 |
-| That is mine! | 8.00% | ~5,713 |
-| Victorious! | 8.00% | ~5,713 |
+| Until death do us apart | 9.00% | ~6,428 |
+| That's a Grand Army | 8.00% | ~5,714 |
+| That is mine! | 8.00% | ~5,714 |
+| Victorious! | 8.00% | ~5,714 |
 | Brothers in Arms | 6.00% | ~4,285 |
 | That's a Grand Navy | 6.00% | ~4,285 |
 | Seriously?! | 6.00% | ~4,285 |
 | For the Glory | 5.00% | ~3,571 |
 | Cold War | 4.00% | ~2,857 |
 | True Catholic | 4.00% | ~2,857 |
-| Defender of the Faith | 3.00% | ~2,142 |
-| It's all about luck | 3.00% | ~2,142 |
-| It's all about the money | 3.00% | ~2,142 |
-| Respected | 3.00% | ~2,142 |
-| The Princess is in this Castle | 3.00% | ~2,142 |
-| Truly Divine Ruler | 3.00% | ~2,142 |
+| Defender of the Faith | 3.00% | ~2,143 |
+| It's all about luck | 3.00% | ~2,143 |
+| It's all about the money | 3.00% | ~2,143 |
+| Respected | 3.00% | ~2,143 |
+| The Princess is in this Castle | 3.00% | ~2,143 |
+| Truly Divine Ruler | 3.00% | ~2,143 |
 | Agressive Expander | 2.00% | ~1,428 |
 | Blockader | 2.00% | ~1,428 |
 | Combined Arms | 2.00% | ~1,428 |
@@ -46,13 +46,13 @@ Number of Ratings: 8,414  (23.09.2022)
 | Down Under | 0.80% | ~571 |
 | Electable! | 0.70% | ~500 |
 | Populists in Government | 0.70% | ~500 |
-| All belongs to Mother Russia | 0.60% | ~428 |
-| At every continent | 0.60% | ~428 |
-| Early-Modern Warfare | 0.60% | ~428 |
-| One Family to Rule them All | 0.60% | ~428 |
-| The pen is mightier than the sword | 0.60% | ~428 |
-| This is My Faith | 0.60% | ~428 |
-| Time Bandit | 0.60% | ~428 |
+| All belongs to Mother Russia | 0.60% | ~429 |
+| At every continent | 0.60% | ~429 |
+| Early-Modern Warfare | 0.60% | ~429 |
+| One Family to Rule them All | 0.60% | ~429 |
+| The pen is mightier than the sword | 0.60% | ~429 |
+| This is My Faith | 0.60% | ~429 |
+| Time Bandit | 0.60% | ~429 |
 | Absolutely | 0.50% | ~357 |
 | Grand Coalition | 0.50% | ~357 |
 | In the Name of the Father | 0.50% | ~357 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71,416 (Ranked 74)  
+Progressed: 71,421 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -451,7 +451,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-16 | 70,611 | 0 |
 | 2023-07-17 | 70,990 | 0 |
 | 2023-07-18 | 71,380 | 0 |
-| 2023-07-19 | 71,416 | 0 |
+| 2023-07-19 | 71,421 | 0 |
 ## Awards
 Max (Educational): 5,562  (Ranked 60)  
 Sum: 45,823 (Ranked 26)  

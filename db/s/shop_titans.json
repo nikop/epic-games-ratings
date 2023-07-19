@@ -5158,7 +5158,7 @@
       "Count": 3710
     }
   ],
-  "EOS_Progressed": 132826,
+  "EOS_Progressed": 132827,
   "EOS_Completed": 120,
   "EOS_NewPlayers": 478,
   "EOS_NewCompleters": 3,
@@ -14238,6 +14238,11 @@
       "Time": "2023-07-19T04:18:43.4532931+00:00",
       "NumProgressed": 132826,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-07-19T05:03:31.8655152+00:00",
+      "NumProgressed": 132827,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 112,
@@ -14297,7 +14302,7 @@
       "Name": "Ascended",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 37191
+      "UsersEstimate": 37192
     },
     {
       "ID": "ascend02",
@@ -14353,7 +14358,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 77039
+      "UsersEstimate": 77040
     },
     {
       "ID": "blueprint02",
@@ -14361,7 +14366,7 @@
       "Name": "Research \u0026 Development",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 33206
+      "UsersEstimate": 33207
     },
     {
       "ID": "blueprint03",
@@ -14385,7 +14390,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 58443
+      "UsersEstimate": 58444
     },
     {
       "ID": "boss02",
@@ -14409,7 +14414,7 @@
       "Name": "Fated Encounters",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 27893
+      "UsersEstimate": 27894
     },
     {
       "ID": "chest01",
@@ -14417,7 +14422,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 128841
+      "UsersEstimate": 128842
     },
     {
       "ID": "chest02",
@@ -14481,7 +14486,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 119543
+      "UsersEstimate": 119544
     },
     {
       "ID": "commonres02",
@@ -14553,7 +14558,7 @@
       "Name": "Where it Hurts",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 57115
+      "UsersEstimate": 57116
     },
     {
       "ID": "damage02",
@@ -14625,7 +14630,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 91650
+      "UsersEstimate": 91651
     },
     {
       "ID": "expansion02",
@@ -14713,7 +14718,7 @@
       "Name": "Gem Expert",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 37191
+      "UsersEstimate": 37192
     },
     {
       "ID": "gold01",
@@ -14721,7 +14726,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 114230
+      "UsersEstimate": 114231
     },
     {
       "ID": "gold02",
@@ -14745,7 +14750,7 @@
       "Name": "Royal Ransom",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 27893
+      "UsersEstimate": 27894
     },
     {
       "ID": "gold05",
@@ -14777,7 +14782,7 @@
       "Name": "Fat Cat Tag Team",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 17267
+      "UsersEstimate": 17268
     },
     {
       "ID": "help03",
@@ -14833,7 +14838,7 @@
       "Name": "Budding Merchant",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 87665
+      "UsersEstimate": 87666
     },
     {
       "ID": "level02",
@@ -15025,7 +15030,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 98291
+      "UsersEstimate": 98292
     },
     {
       "ID": "sell02",
@@ -15065,7 +15070,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 127513
+      "UsersEstimate": 127514
     },
     {
       "ID": "twinenchant01",
@@ -15073,7 +15078,7 @@
       "Name": "Magical Harmony",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 27893
+      "UsersEstimate": 27894
     },
     {
       "ID": "typeunlock01",
@@ -15089,7 +15094,7 @@
       "Name": "Special Ingredient",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 22580
+      "UsersEstimate": 22581
     },
     {
       "ID": "uncommonres02",
@@ -15144,15 +15149,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 132826,
+      "Progressed": 132827,
       "Completed": 120
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-07-18T19:58:52.7367575+00:00",
-  "LastChanged_Achievements": "2023-07-19T04:18:43.4532926+00:00",
+  "LastChanged_Achievements": "2023-07-19T05:03:31.8655146+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:16.2399426+00:00",
-  "LastUpdate_Ratings": "2023-07-19T04:13:54.1660389+00:00",
-  "LastUpdate_Achievements": "2023-07-19T04:18:43.4534552+00:00"
+  "LastUpdate_Ratings": "2023-07-19T04:58:25.611611+00:00",
+  "LastUpdate_Achievements": "2023-07-19T05:03:31.8656792+00:00"
 }

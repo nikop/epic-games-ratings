@@ -14,9 +14,9 @@ Number of Ratings: 170  (23.09.2022)
 | Knowledge for Power | 14.00% | ~2,185 |
 | Mausoleum of Ice | 14.00% | ~2,185 |
 | Gaze into the abyss | 13.00% | ~2,029 |
+| Equilibrium | 13.00% | ~2,029 |
 | In the belly of the beast | 12.00% | ~1,872 |
 | Wings of Stone | 12.00% | ~1,872 |
-| Equilibrium | 12.00% | ~1,872 |
 | Condor condo | 10.00% | ~1,560 |
 | Memorial | 9.00% | ~1,404 |
 | An uninvited guest | 8.00% | ~1,248 |

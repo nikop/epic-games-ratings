@@ -5,22 +5,22 @@ Rating: 4.40 (Ranked 693)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~722,176 |
-| The ABCs | 43.00% | ~633,746 |
-| Home Run | 41.00% | ~604,269 |
-| Keeps Coming Off | 41.00% | ~604,269 |
-| Guts | 20.00% | ~294,766 |
-| Meat Grinder | 19.00% | ~280,027 |
-| Burning Man | 16.00% | ~235,812 |
-| Lived to Tell the Tale | 12.00% | ~176,859 |
-| Highlander | 10.00% | ~147,383 |
-| Unstoppable | 10.00% | ~147,383 |
-| Just a Scratch | 9.00% | ~132,645 |
-| Tough Nut to Crack | 6.00% | ~88,430 |
-| Yoink | 6.00% | ~88,430 |
-| Long List of Names | 4.00% | ~58,953 |
-| Pyromaniac | 4.00% | ~58,953 |
-| The Queen of Weapons | 4.00% | ~58,953 |
+| Justice from the Grave | 49.00% | ~722,185 |
+| The ABCs | 43.00% | ~633,754 |
+| Home Run | 41.00% | ~604,277 |
+| Keeps Coming Off | 41.00% | ~604,277 |
+| Guts | 20.00% | ~294,769 |
+| Meat Grinder | 19.00% | ~280,031 |
+| Burning Man | 16.00% | ~235,815 |
+| Lived to Tell the Tale | 12.00% | ~176,862 |
+| Highlander | 10.00% | ~147,385 |
+| Unstoppable | 10.00% | ~147,385 |
+| Just a Scratch | 9.00% | ~132,646 |
+| Tough Nut to Crack | 6.00% | ~88,431 |
+| Yoink | 6.00% | ~88,431 |
+| Long List of Names | 4.00% | ~58,954 |
+| Pyromaniac | 4.00% | ~58,954 |
+| The Queen of Weapons | 4.00% | ~58,954 |
 | This isn’t Sparta | 3.00% | ~44,215 |
 | Crybaby | 2.00% | ~29,477 |
 | Eagle Eye | 2.00% | ~29,477 |
@@ -37,14 +37,14 @@ Rating: 4.40 (Ranked 693)
 | Virtuoso | 0.60% | ~8,843 |
 | Friend Indeed | 0.50% | ~7,369 |
 | Whack-A-Mole | 0.40% | ~5,895 |
-| Vlad the Impaler | 0.30% | ~4,421 |
+| Vlad the Impaler | 0.30% | ~4,422 |
 | Clobbered | 0.10% | ~1,474 |
 | Ended Rightly | 0.10% | ~1,474 |
 | Living Sculpture | 0.10% | ~1,474 |
 | That’s No Ordinary Cold | 0.10% | ~1,474 |
 | Stairway to Hell | 0.10% | ~1,474 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,473,828 (Ranked 8)  
+Progressed: 1,473,846 (Ranked 8)  
 Completed: 45 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 45 (0.00%) (Ranked 237)
 | 2023-07-16 | 1,471,640 | 45 |
 | 2023-07-17 | 1,472,660 | 45 |
 | 2023-07-18 | 1,473,681 | 45 |
-| 2023-07-19 | 1,473,828 | 45 |
+| 2023-07-19 | 1,473,846 | 45 |
 ## Awards
 Max (Diverse Characters): 414  (Ranked 206)  
 Sum: 2,385 (Ranked 176)  

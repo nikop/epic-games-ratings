@@ -8,6 +8,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | Troublesome Prisoner | 0.10% | ~213 |
 | Dark Doppelgangers | 0.10% | ~213 |
+| Faerûn's Most Wanted | 0.10% | ~180 |
 | Difficult Terrain | 0.10% | ~213 |
 | Cold & Wet | 0.10% | ~213 |
 | Madcap Adventures | 0.10% | ~213 |
@@ -123,6 +124,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Neutral Party | 0.10% | ~180 |
 | Wrecked Flying Fortress | 0.10% | ~180 |
 | Relentless Peril | 0.10% | ~180 |
+| Rickety Rubble | 0.10% | ~180 |
 | Expert Opinion | 0.10% | ~213 |
 | Dwarven Rumors | 0.10% | ~180 |
 | Mimic Perception | 0.10% | ~180 |
@@ -130,6 +132,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | It's Cold Out There Today | 0.10% | ~180 |
 | Sunblight | 0.10% | ~180 |
 | Fortress Assault | 0.10% | ~180 |
+| Hats off to you! | 0.10% | ~180 |
 | The Bleeding Citadel | 0.10% | ~180 |
 | Don't Pick at the Scab | 0.10% | ~180 |
 | Idyllglen | 0.10% | ~180 |
@@ -140,6 +143,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tough Acting | 0.10% | ~180 |
 | Witty Riposting | 0.10% | ~180 |
 | Waiting on Sunrise | 0.10% | ~180 |
+| Frontline Fighters | 0.10% | ~180 |
+| A Chilling Encounter | 0.10% | ~180 |
 | Deekin's Mission | 0.10% | ~180 |
 | Dive Bomb | 0.10% | ~180 |
 | Fire and Ice | 0.10% | ~180 |
@@ -483,17 +488,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Tallest of Kobolds | 0.00% | ~0 |
 | Patience is Key | 0.00% | ~0 |
 | The Darkness Runs Deeper | 0.00% | ~0 |
-| Faerûn's Most Wanted | 0.00% | ~0 |
 | Hailstorm! | 0.00% | ~0 |
 | Avernus Frozen Over | 0.00% | ~0 |
 | When the Going Gets Tough | 0.00% | ~0 |
 | Show of Strength | 0.00% | ~0 |
-| Rickety Rubble | 0.00% | ~0 |
-| Hats off to you! | 0.00% | ~0 |
 | It's Cold Out There Every Day | 0.00% | ~0 |
 | Going To Eleven | 0.00% | ~0 |
-| Frontline Fighters | 0.00% | ~0 |
-| A Chilling Encounter | 0.00% | ~0 |
 | How Far Away is Thay | 0.00% | ~0 |
 | The Court of Storms | 0.00% | ~0 |
 | Coasting to the Finish | 0.00% | ~0 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.00% | ~0 |
 | Animated Giff | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213,262 (Ranked 53)  
-Completed: 2,058 (0.97%) (Ranked 103)  
+Progressed: 213,272 (Ranked 53)  
+Completed: 2,058 (0.96%) (Ranked 104)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -609,7 +609,7 @@ Completed: 2,058 (0.97%) (Ranked 103)
 | 2023-07-16 | 212,501 | 2,055 |
 | 2023-07-17 | 212,861 | 2,057 |
 | 2023-07-18 | 213,209 | 2,058 |
-| 2023-07-19 | 213,262 | 2,058 |
+| 2023-07-19 | 213,272 | 2,058 |
 ## Awards
 Max (Diverse Characters): 5,043  (Ranked 66)  
 Sum: 30,580 (Ranked 38)  
