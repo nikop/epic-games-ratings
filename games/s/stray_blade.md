@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 71.00% | ~12 |
-| Tinkerer | 41.00% | ~7 |
+| Self-Defence | 76.00% | ~13 |
+| Tinkerer | 47.00% | ~8 |
 | Can't touch this | 29.00% | ~5 |
+| Welcome to the Club | 24.00% | ~4 |
 | Don't Cry Wolf | 24.00% | ~4 |
 | A new World ahead | 24.00% | ~4 |
 | Freezing Cold | 18.00% | ~3 |
-| Welcome to the Club | 18.00% | ~3 |
 | Apprentice | 18.00% | ~3 |
 | Bringing guns to a sword fight | 12.00% | ~2 |
 | Searing Heat | 12.00% | ~2 |

@@ -10,13 +10,13 @@
 | Hello World | 74.00% | ~511 |
 | Space Engineer | 63.00% | ~435 |
 | Tinkerer | 63.00% | ~435 |
-| Dust to Dust | 57.00% | ~393 |
+| Dust to Dust | 58.00% | ~400 |
 | Across The Stars | 47.00% | ~324 |
 | Crafty | 46.00% | ~317 |
 | All Seats Taken | 37.00% | ~255 |
 | For Science! | 32.00% | ~221 |
 | Meet the Petersons | 31.00% | ~214 |
-| Stay Cool | 28.00% | ~193 |
+| Stay Cool | 29.00% | ~200 |
 | KIA | 26.00% | ~179 |
 | Mutiny in making | 23.00% | ~159 |
 | Et tu, Astrocitizen? | 19.00% | ~131 |

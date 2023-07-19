@@ -3,10 +3,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 30.00% | ~6 |
+| Break Out | 40.00% | ~8 |
 | Calm before the Storm | 25.00% | ~5 |
 | Flawless Victory | 25.00% | ~5 |
 | Powerful Allies | 20.00% | ~4 |
+| Clear Sight | 20.00% | ~4 |
 | A Taste of Wrath | 20.00% | ~4 |
 | The Mentor | 20.00% | ~4 |
 | Trinity | 20.00% | ~4 |
@@ -16,28 +17,27 @@
 | Fine Feathers Make Fine Birds | 20.00% | ~4 |
 | Geared Up | 20.00% | ~4 |
 | Fashion Victim | 20.00% | ~4 |
+| False God | 20.00% | ~4 |
 | I Found It | 20.00% | ~4 |
 | Miner | 20.00% | ~4 |
 | Find Allies | 15.00% | ~3 |
-| Clear Sight | 15.00% | ~3 |
+| To Battle | 15.00% | ~3 |
 | Shardbearer | 15.00% | ~3 |
 | Airborne | 15.00% | ~3 |
 | Shatterer | 15.00% | ~3 |
+| Slayer | 15.00% | ~3 |
 | Big Bazar | 15.00% | ~3 |
 | Scholar | 15.00% | ~3 |
-| False God | 15.00% | ~3 |
 | Alchemist | 15.00% | ~3 |
+| Stone Collection | 15.00% | ~3 |
 | The Collector | 15.00% | ~3 |
+| A Queen's Tale | 15.00% | ~3 |
 | Summiter | 15.00% | ~3 |
-| To Battle | 10.00% | ~2 |
 | Godslayer | 10.00% | ~2 |
-| Slayer | 10.00% | ~2 |
+| Forgemaster | 10.00% | ~2 |
 | All There Is | 10.00% | ~2 |
-| Stone Collection | 10.00% | ~2 |
-| A Queen's Tale | 10.00% | ~2 |
-| Forgemaster | 5.00% | ~1 |
-| All That Gold | 5.00% | ~1 |
-| Feeling Fancy | 5.00% | ~1 |
+| All That Gold | 10.00% | ~2 |
+| Feeling Fancy | 10.00% | ~2 |
 | Shatter Them All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 20 (Ranked 375)  

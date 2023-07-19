@@ -70,10 +70,10 @@ Rating: 4.10 (Ranked 888)
 | Transmute | 0.70% | ~12 |
 | Titan Power | 0.50% | ~8 |
 | Tree of Life | 0.50% | ~8 |
+| Beast War Machines | 0.40% | ~7 |
 | Enchanting skill x5 | 0.40% | ~7 |
 | Enhanced War Machines | 0.40% | ~7 |
 | Pokerface | 0.40% | ~7 |
-| Beast War Machines | 0.30% | ~5 |
 | Ultimate War Machines | 0.30% | ~5 |
 | Angel Power | 0.20% | ~3 |
 | Conqueror | 0.20% | ~3 |

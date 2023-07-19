@@ -4,7 +4,7 @@
   "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 38,
   "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -98,9 +98,9 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break Out",
-      "Percentage": 30,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_02",
@@ -130,9 +130,9 @@
       "ID": "ACH_05",
       "SetID": "efe2lj",
       "Name": "To Battle",
-      "Percentage": 10,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_06",
@@ -146,9 +146,9 @@
       "ID": "ACH_07",
       "SetID": "efe2lj",
       "Name": "Clear Sight",
-      "Percentage": 15,
+      "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_08",
@@ -178,9 +178,9 @@
       "ID": "ACH_11",
       "SetID": "efe2lj",
       "Name": "Forgemaster",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_12",
@@ -242,9 +242,9 @@
       "ID": "ACH_19",
       "SetID": "efe2lj",
       "Name": "Slayer",
-      "Percentage": 10,
+      "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_20",
@@ -306,9 +306,9 @@
       "ID": "ACH_27",
       "SetID": "efe2lj",
       "Name": "False God",
-      "Percentage": 15,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_28",
@@ -322,9 +322,9 @@
       "ID": "ACH_29",
       "SetID": "efe2lj",
       "Name": "All That Gold",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_30",
@@ -338,9 +338,9 @@
       "ID": "ACH_31",
       "SetID": "efe2lj",
       "Name": "Stone Collection",
-      "Percentage": 10,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_33",
@@ -362,17 +362,17 @@
       "ID": "ACH_35",
       "SetID": "efe2lj",
       "Name": "Feeling Fancy",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_36",
       "SetID": "efe2lj",
       "Name": "A Queen\u0027s Tale",
-      "Percentage": 10,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_38",
@@ -392,7 +392,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-07-19T14:03:35.3818479+00:00",
-  "LastUpdate_Ratings": "2023-07-19T13:57:09.378069+00:00",
-  "LastUpdate_Achievements": "2023-07-19T14:03:35.3818704+00:00"
+  "LastChanged_Achievements": "2023-07-19T15:03:18.751508+00:00",
+  "LastUpdate_Ratings": "2023-07-19T14:57:05.2387617+00:00",
+  "LastUpdate_Achievements": "2023-07-19T15:03:18.7515361+00:00"
 }

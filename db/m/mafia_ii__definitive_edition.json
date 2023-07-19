@@ -2,13 +2,13 @@
   "ID": "107bd7324f39429ca4e7e9e44765d8cf",
   "Name": "Mafia II: Definitive Edition",
   "ProductSlug": "mafia-ii-definitive-edition",
-  "Ranking_Rating": 663,
+  "Ranking_Rating": 674,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 498,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2020-09-24T23:00:00+00:00",
     "PcReleaseDate": "2020-09-24T23:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "SA,KW,BH,YE,OM,AE"
     }
   },
-  "Rating": 4.42,
+  "Rating": 4.41,
   "NumberOfRatings": 1020,
   "RatingHistory": [
     {
@@ -694,6 +694,12 @@
       "Rating": 4.42,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-07-19T14:58:07.3255997+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -718,8 +724,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:51.6879744+00:00",
-  "LastChanged": "2023-07-14T23:58:43.1296068+00:00",
+  "LastChanged": "2023-07-19T14:58:07.3255996+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:34.6349137+00:00",
-  "LastUpdate_Ratings": "2023-07-19T13:58:30.9411666+00:00",
-  "LastUpdate_Achievements": "2023-07-19T14:01:41.4986459+00:00"
+  "LastUpdate_Ratings": "2023-07-19T14:58:07.3256002+00:00",
+  "LastUpdate_Achievements": "2023-07-19T15:00:32.4007899+00:00"
 }

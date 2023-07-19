@@ -3,12 +3,12 @@
   "Name": "Honkai: Star Rail",
   "ProductSlug": "honkai-star-rail",
   "Ranking_Rating": 158,
-  "Ranking_Popularity": 84,
-  "Ranking_PopularitySum": 121,
+  "Ranking_Popularity": 80,
+  "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 498,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-04-26T00:30:00+00:00",
     "PcReleaseDate": "2023-04-26T00:30:00+00:00",
@@ -1222,18 +1222,24 @@
       "Rating": 4.73,
       "NumberOfAwards": 5982,
       "NumberOfAwardsMax": 3483
+    },
+    {
+      "Time": "2023-07-19T15:00:22.0569166+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 6213,
+      "NumberOfAwardsMax": 3693
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5982,
-  "NumberOfAwardsMax": 3483,
+  "NumberOfAwards": 6213,
+  "NumberOfAwardsMax": 3693,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 3483
+      "Count": 3693
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1281,7 +1287,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 241
+      "Count": 262
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1314,8 +1320,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-26T04:02:27.1386143+00:00",
   "FirstSeenRating": "2023-04-26T04:02:27.1386204+00:00",
-  "LastChanged": "2023-07-19T14:01:31.2145263+00:00",
+  "LastChanged": "2023-07-19T15:00:22.0569165+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:36.1833892+00:00",
-  "LastUpdate_Ratings": "2023-07-19T14:01:31.2145267+00:00",
-  "LastUpdate_Achievements": "2023-07-19T14:05:42.6499519+00:00"
+  "LastUpdate_Ratings": "2023-07-19T15:00:22.056917+00:00",
+  "LastUpdate_Achievements": "2023-07-19T15:04:54.2383373+00:00"
 }

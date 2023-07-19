@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -190,9 +190,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1416,
+  "EOS_Progressed": 1417,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2760,6 +2760,11 @@
       "Time": "2023-07-18T21:04:41.3158497+00:00",
       "NumProgressed": 1416,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-19T15:03:57.0813358+00:00",
+      "NumProgressed": 1417,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2849,9 +2854,9 @@
       "ID": "ACHIEVEMENT_ZERO_WASTE",
       "SetID": "l546gc",
       "Name": "Zero Waste",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 425
+      "UsersEstimate": 411
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -2859,7 +2864,7 @@
       "Name": "5G Network",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "NEW_ACHIEVEMENT_ALIENS",
@@ -2915,15 +2920,15 @@
       "Name": "Planetary Defence",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "NEW_ACHIEVEMENT_DETECTIVE",
       "SetID": "l546gc",
       "Name": "Detective",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 269
+      "UsersEstimate": 255
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -2947,7 +2952,7 @@
       "Name": "Electrician",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -2971,7 +2976,7 @@
       "Name": "Get your hands dirty",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "NEW_ACHIEVEMENT_GOOD_MARTIAN",
@@ -2995,7 +3000,7 @@
       "Name": "Houston we have a problem",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -3051,7 +3056,7 @@
       "Name": "One does not simply...",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "NEW_ACHIEVEMENT_PARTY_TIME",
@@ -3067,7 +3072,7 @@
       "Name": "Plumber",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "NEW_ACHIEVEMENT_ROADSTER",
@@ -3129,9 +3134,9 @@
       "ID": "NEW_ACHIEVEMENT_THE_BUILDER",
       "SetID": "l546gc",
       "Name": "Bob The Builder",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 425
+      "UsersEstimate": 411
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -3154,7 +3159,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1416,
+      "Progressed": 1417,
       "Completed": 0
     }
   ],
@@ -3162,8 +3167,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-07-17T08:58:14.4010535+00:00",
-  "LastChanged_Achievements": "2023-07-19T14:04:26.7276686+00:00",
+  "LastChanged_Achievements": "2023-07-19T15:03:57.0813351+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:18.762224+00:00",
-  "LastUpdate_Ratings": "2023-07-19T13:57:48.2000015+00:00",
-  "LastUpdate_Achievements": "2023-07-19T14:04:26.7277171+00:00"
+  "LastUpdate_Ratings": "2023-07-19T14:57:34.6702112+00:00",
+  "LastUpdate_Achievements": "2023-07-19T15:03:57.0813911+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57532,
+  "EOS_Progressed": 57535,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 291,
+  "EOS_NewPlayers": 294,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8357,6 +8357,11 @@
       "Time": "2023-07-19T12:03:26.7416821+00:00",
       "NumProgressed": 57532,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-07-19T15:03:21.1739297+00:00",
+      "NumProgressed": 57535,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 67,
@@ -8368,7 +8373,7 @@
       "Name": "Follow the Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 19561
+      "UsersEstimate": 19562
     },
     {
       "ID": "02",
@@ -8456,7 +8461,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5753
+      "UsersEstimate": 5754
     },
     {
       "ID": "13",
@@ -8552,7 +8557,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5753
+      "UsersEstimate": 5754
     },
     {
       "ID": "25",
@@ -8568,7 +8573,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5753
+      "UsersEstimate": 5754
     },
     {
       "ID": "27",
@@ -8592,7 +8597,7 @@
       "Name": "Sound and Fury",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7479
+      "UsersEstimate": 7480
     },
     {
       "ID": "30",
@@ -8608,7 +8613,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 8054
+      "UsersEstimate": 8055
     },
     {
       "ID": "32",
@@ -8616,7 +8621,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14958
+      "UsersEstimate": 14959
     },
     {
       "ID": "33",
@@ -8640,7 +8645,7 @@
       "Name": "Let There Be Light",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 16109
+      "UsersEstimate": 16110
     },
     {
       "ID": "36",
@@ -8688,7 +8693,7 @@
       "Name": "Finders Keepers",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 8054
+      "UsersEstimate": 8055
     },
     {
       "ID": "42",
@@ -8728,7 +8733,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 7479
+      "UsersEstimate": 7480
     },
     {
       "ID": "47",
@@ -8903,21 +8908,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57532,
+      "Progressed": 57535,
       "Completed": 58
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 21000,
+      "Progressed": 21003,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-19T14:03:39.5750486+00:00",
+  "LastChanged_Achievements": "2023-07-19T15:03:21.1739292+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:10.5196415+00:00",
-  "LastUpdate_Ratings": "2023-07-19T13:58:10.8721369+00:00",
-  "LastUpdate_Achievements": "2023-07-19T14:03:39.5751452+00:00"
+  "LastUpdate_Ratings": "2023-07-19T14:57:51.8261319+00:00",
+  "LastUpdate_Achievements": "2023-07-19T15:03:21.1740438+00:00"
 }

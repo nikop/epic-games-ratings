@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 149,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -146,9 +146,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16392,
+  "EOS_Progressed": 16393,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 205,
+  "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -7601,6 +7601,11 @@
       "Time": "2023-07-19T13:16:25.004816+00:00",
       "NumProgressed": 16392,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-07-19T15:06:15.2236455+00:00",
+      "NumProgressed": 16393,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 14,
@@ -7644,7 +7649,7 @@
       "Name": "Don\u0027t Bring Me Down",
       "Percentage": 19,
       "XP": 90,
-      "UsersEstimate": 3114
+      "UsersEstimate": 3115
     },
     {
       "ID": "ACH_EVEYONE_IS_BORN_TO_DIE",
@@ -7723,15 +7728,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 16392,
+      "Progressed": 16393,
       "Completed": 50
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-05-31T22:01:00.0124016+00:00",
-  "LastChanged_Achievements": "2023-07-19T14:07:30.8474018+00:00",
+  "LastChanged_Achievements": "2023-07-19T15:06:15.2236451+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:24.7695295+00:00",
-  "LastUpdate_Ratings": "2023-07-19T14:01:22.9324319+00:00",
-  "LastUpdate_Achievements": "2023-07-19T14:07:30.8474431+00:00"
+  "LastUpdate_Ratings": "2023-07-19T15:00:16.773248+00:00",
+  "LastUpdate_Achievements": "2023-07-19T15:06:15.2237094+00:00"
 }

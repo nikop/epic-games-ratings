@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2019-12-04T00:00:00+00:00",
@@ -106,9 +106,9 @@
       "ID": "CgkInO_K3eIdEAIQBQ",
       "SetID": "6bj96in",
       "Name": "SAILOR\u0027S GIFT",
-      "Percentage": 82,
+      "Percentage": 91,
       "XP": 40,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "CgkInO_K3eIdEAIQBg",
@@ -178,9 +178,9 @@
       "ID": "CgkInO_K3eIdEAIQDg",
       "SetID": "6bj96in",
       "Name": "CHRONOSPY",
-      "Percentage": 82,
+      "Percentage": 91,
       "XP": 40,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "CgkInO_K3eIdEAIQDw",
@@ -289,8 +289,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-07-19T14:03:49.841814+00:00",
+  "LastChanged_Achievements": "2023-07-19T15:03:29.3708534+00:00",
   "LastUpdate_AppInfo": "2023-07-19T13:07:08.2891153+00:00",
-  "LastUpdate_Ratings": "2023-07-19T13:57:04.3362417+00:00",
-  "LastUpdate_Achievements": "2023-07-19T14:03:49.8418287+00:00"
+  "LastUpdate_Ratings": "2023-07-19T14:57:01.6818187+00:00",
+  "LastUpdate_Achievements": "2023-07-19T15:03:29.3708708+00:00"
 }

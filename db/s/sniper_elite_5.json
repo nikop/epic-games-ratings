@@ -2,13 +2,13 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 675,
+  "Ranking_Rating": 674,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -416,9 +416,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3302,
+  "EOS_Progressed": 3303,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -5171,6 +5171,11 @@
       "Time": "2023-07-19T03:22:14.8349121+00:00",
       "NumProgressed": 3302,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-19T15:03:42.2254952+00:00",
+      "NumProgressed": 3303,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -5749,13 +5754,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3253,
+      "Progressed": 3254,
       "Completed": 13
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3302,
+      "Progressed": 3303,
       "Completed": 9
     }
   ],
@@ -5763,8 +5768,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-18T17:56:54.2663242+00:00",
-  "LastChanged_Achievements": "2023-07-19T14:04:06.7646519+00:00",
+  "LastChanged_Achievements": "2023-07-19T15:03:42.2254948+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:52.6032381+00:00",
-  "LastUpdate_Ratings": "2023-07-19T13:56:55.9445404+00:00",
-  "LastUpdate_Achievements": "2023-07-19T14:04:06.7647328+00:00"
+  "LastUpdate_Ratings": "2023-07-19T14:56:55.6138204+00:00",
+  "LastUpdate_Achievements": "2023-07-19T15:03:42.2255924+00:00"
 }

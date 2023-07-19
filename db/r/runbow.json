@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 246808,
+  "EOS_Progressed": 246809,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 359,
+  "EOS_NewPlayers": 360,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8784,6 +8784,11 @@
       "Time": "2023-07-19T14:07:36.5175183+00:00",
       "NumProgressed": 246808,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-19T15:06:19.8467794+00:00",
+      "NumProgressed": 246809,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -8795,7 +8800,7 @@
       "Name": "Just A Phaze",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14808
+      "UsersEstimate": 14809
     },
     {
       "ID": "aWinnerIsYou",
@@ -8843,7 +8848,7 @@
       "Name": "Butt Butt",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14808
+      "UsersEstimate": 14809
     },
     {
       "ID": "canYouDigIt",
@@ -8851,7 +8856,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 41957
+      "UsersEstimate": 41958
     },
     {
       "ID": "cantBeKeptDown",
@@ -8891,7 +8896,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 44425
+      "UsersEstimate": 44426
     },
     {
       "ID": "curator",
@@ -8971,7 +8976,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 130808
+      "UsersEstimate": 130809
     },
     {
       "ID": "indegestible",
@@ -9162,7 +9167,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 246808,
+      "Progressed": 246809,
       "Completed": 3
     }
   ],
@@ -9170,8 +9175,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-07-19T14:07:36.5175179+00:00",
+  "LastChanged_Achievements": "2023-07-19T15:06:19.8467789+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:08.7299608+00:00",
-  "LastUpdate_Ratings": "2023-07-19T13:59:59.9709912+00:00",
-  "LastUpdate_Achievements": "2023-07-19T14:07:36.5175883+00:00"
+  "LastUpdate_Ratings": "2023-07-19T14:59:14.9171637+00:00",
+  "LastUpdate_Achievements": "2023-07-19T15:06:19.8468669+00:00"
 }
