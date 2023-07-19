@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Oirbo](games/e/e1963d929f33401d91ebc2f564ebe094.md) | 2023-07-19 | - |  | - | - |
 | [Cramped Room of Death](games/c/cramped_room_of_death.md) | 2023-07-19 | - |  | - | - |
 | [Train World](games/t/train_world.md) | 2023-07-19 | 50 (1,000 XP) | 1 | - | - |
 | [Run A Cafe](games/7/752a74d471e54cb79d4bf96d7e6b9cde.md) | 2023-07-20 | - |  | - | - |

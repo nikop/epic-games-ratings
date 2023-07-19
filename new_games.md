@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Oirbo](games/e/e1963d929f33401d91ebc2f564ebe094.md) | 2023-07-19 | - |  | - | - |
 | [Murder Is Game Over - Streaming Death](games/m/murder_is_game_over_-_streaming_death.md) | 2023-07-18 | - |  | - | - |
 | [Outliver: Tribulation](games/1/13e30807efce43ea9e04ac1c45668d8e.md) | 2023-07-18 | 21 (1,000 XP) | 4 | - | - |
 | [REMEDIUM Sentinels](games/r/remedium_sentinels.md) | 2023-07-18 | - |  | - | 0 |
@@ -65,7 +66,7 @@
 | [The Last Case of Benedict Fox](games/t/the_last_case_of_benedict_fox.md) | 2023-06-30 | - |  | - | - |
 | [Traffic Brains 2](games/f/f6a9fcbf437b48b59cf3d54a75c20932.md) | 2023-06-30 | - |  | - | - |
 | [FRONT MISSION 1st: Remake](games/e/e6c7d54c946f4d3da27a4a6d4a45202f.md) | 2023-06-29 | 28 (1,000 XP) | 3 | - | 0 |
-| [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 2023-06-29 | 16 (1,000 XP) | 1,417 | - | 0 |
+| [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 2023-06-29 | 16 (1,000 XP) | 1,421 | - | 0 |
 | [Frightence](games/0/00f00dd1769a46568868a5fdb61748d4.md) | 2023-06-29 | - |  | - | - |
 | [Striker Manager 3](games/2/2825f101eb8b48fc8676beed92553e35.md) | 2023-06-29 | - |  | - | 0 |
 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 2023-06-29 | - |  | 4.33 | 55 |
