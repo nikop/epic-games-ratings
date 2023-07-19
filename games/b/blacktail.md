@@ -39,7 +39,7 @@ Rating: 4.68 (Ranked 240)
 | Apex predator | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 555 (Ranked 210)  
-Completed: 1 (0.18%) (Ranked 168)  
+Completed: 1 (0.18%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

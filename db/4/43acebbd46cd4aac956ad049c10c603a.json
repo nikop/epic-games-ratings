@@ -2,10 +2,10 @@
   "ID": "43acebbd46cd4aac956ad049c10c603a",
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
-  "Ranking_EOS_Progress": 497,
-  "Ranking_EOS_Completed": 237,
+  "Ranking_EOS_Progress": 498,
+  "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-12T23:56:59.5084199+00:00",
-  "LastUpdate_Ratings": "2023-07-19T06:57:42.1291028+00:00",
-  "LastUpdate_Achievements": "2023-07-19T07:03:42.5134932+00:00"
+  "LastUpdate_Ratings": "2023-07-19T07:57:17.4105363+00:00",
+  "LastUpdate_Achievements": "2023-07-19T08:03:24.4169192+00:00"
 }

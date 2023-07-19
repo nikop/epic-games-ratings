@@ -54,7 +54,7 @@ Rating: 4.19 (Ranked 847)
 | Big Game Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15,741 (Ranked 109)  
-Completed: 67 (0.43%) (Ranked 134)  
+Completed: 67 (0.43%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

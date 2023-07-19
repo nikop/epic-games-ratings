@@ -7,15 +7,15 @@ Number of Ratings: 8,414  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Until death do us apart | 9.00% | ~6,429 |
-| That's a Grand Army | 8.00% | ~5,714 |
-| That is mine! | 8.00% | ~5,714 |
-| Victorious! | 8.00% | ~5,714 |
+| That's a Grand Army | 8.00% | ~5,715 |
+| That is mine! | 8.00% | ~5,715 |
+| Victorious! | 8.00% | ~5,715 |
 | Brothers in Arms | 6.00% | ~4,286 |
 | That's a Grand Navy | 6.00% | ~4,286 |
 | Seriously?! | 6.00% | ~4,286 |
 | For the Glory | 5.00% | ~3,572 |
-| Cold War | 4.00% | ~2,857 |
-| True Catholic | 4.00% | ~2,857 |
+| Cold War | 4.00% | ~2,858 |
+| True Catholic | 4.00% | ~2,858 |
 | Defender of the Faith | 3.00% | ~2,143 |
 | It's all about luck | 3.00% | ~2,143 |
 | It's all about the money | 3.00% | ~2,143 |
@@ -43,7 +43,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Isn't this the way to India? | 0.90% | ~643 |
 | Market Control | 0.90% | ~643 |
 | Trustworthy | 0.90% | ~643 |
-| Down Under | 0.80% | ~571 |
+| Down Under | 0.80% | ~572 |
 | Electable! | 0.70% | ~500 |
 | Populists in Government | 0.70% | ~500 |
 | All belongs to Mother Russia | 0.60% | ~429 |
@@ -361,8 +361,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71,430 (Ranked 74)  
-Completed: 0 (0.00%) (Ranked 237)  
+Progressed: 71,438 (Ranked 74)  
+Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -451,7 +451,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-16 | 70,611 | 0 |
 | 2023-07-17 | 70,990 | 0 |
 | 2023-07-18 | 71,380 | 0 |
-| 2023-07-19 | 71,430 | 0 |
+| 2023-07-19 | 71,438 | 0 |
 ## Awards
 Max (Educational): 5,562  (Ranked 60)  
 Sum: 45,823 (Ranked 26)  

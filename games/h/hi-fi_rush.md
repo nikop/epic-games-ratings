@@ -32,9 +32,9 @@ Rating: 4.87 (Ranked 24)
 | Alright, that felt AWESOME! | 1.00% | ~35 |
 | You can pet the cat! | 1.00% | ~35 |
 | Does that say weakpoint? | 0.90% | ~31 |
+| Beat-hit mania | 0.80% | ~28 |
 | That's a lot of junk metal… | 0.80% | ~28 |
 | There's such a thing as TOO helpful | 0.80% | ~28 |
-| Beat-hit mania | 0.70% | ~24 |
 | Call me Turbo Chai | 0.60% | ~12 |
 | Chip-tuned | 0.50% | ~17 |
 | Wanna hear my playlist? | 0.50% | ~17 |
@@ -78,7 +78,7 @@ Rating: 4.87 (Ranked 24)
 | OK, I THINK I know what I'm doing now | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,459 (Ranked 146)  
-Completed: 6 (0.17%) (Ranked 170)  
+Completed: 6 (0.17%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 66,
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 53,
-  "Ranking_EOS_Completed": 104,
+  "Ranking_EOS_Completed": 105,
   "Ranking_EOS_NewPlayers": 30,
   "Ranking_EOS_NewCompleters": 16,
   "Store": {
@@ -5098,9 +5098,9 @@
       "Count": 3304
     }
   ],
-  "EOS_Progressed": 213283,
+  "EOS_Progressed": 213294,
   "EOS_Completed": 2058,
-  "EOS_NewPlayers": 2900,
+  "EOS_NewPlayers": 2895,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.96,
   "EosHistory": [
@@ -14688,6 +14688,11 @@
       "Time": "2023-07-19T07:06:56.3811928+00:00",
       "NumProgressed": 213283,
       "NumCompleted": 2058
+    },
+    {
+      "Time": "2023-07-19T08:05:58.9260795+00:00",
+      "NumProgressed": 213294,
+      "NumCompleted": 2058
     }
   ],
   "TotalAchievements": 512,
@@ -17313,9 +17318,9 @@
       "ID": "objective_completed_608",
       "SetID": "415jc5c",
       "Name": "Avernus Frozen Over",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 180
     },
     {
       "ID": "objective_completed_61",
@@ -17657,9 +17662,9 @@
       "ID": "objective_completed_666",
       "SetID": "415jc5c",
       "Name": "Show of Strength",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 180
     },
     {
       "ID": "objective_completed_667",
@@ -18137,9 +18142,9 @@
       "ID": "objective_completed_839",
       "SetID": "415jc5c",
       "Name": "Going To Eleven",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 180
     },
     {
       "ID": "objective_completed_842",
@@ -18225,9 +18230,9 @@
       "ID": "objective_completed_855",
       "SetID": "415jc5c",
       "Name": "How Far Away is Thay",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 180
     },
     {
       "ID": "objective_completed_857",
@@ -18794,21 +18799,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 179557,
+      "Progressed": 179568,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 213283,
+      "Progressed": 213294,
       "Completed": 2058
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-19T04:13:41.2451571+00:00",
-  "LastChanged_Achievements": "2023-07-19T07:06:56.3811917+00:00",
+  "LastChanged_Achievements": "2023-07-19T08:05:58.926079+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:48.5227447+00:00",
-  "LastUpdate_Ratings": "2023-07-19T06:58:53.9040756+00:00",
-  "LastUpdate_Achievements": "2023-07-19T07:06:56.3838444+00:00"
+  "LastUpdate_Ratings": "2023-07-19T07:58:15.8110857+00:00",
+  "LastUpdate_Achievements": "2023-07-19T08:05:58.9284155+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 278,
   "Ranking_PopularitySum": 237,
   "Ranking_EOS_Progress": 23,
-  "Ranking_EOS_Completed": 237,
+  "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 27,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-07-28T15:00:00+00:00",
     "PcReleaseDate": "2022-07-28T15:00:00+00:00",
@@ -2065,9 +2065,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 643504,
+  "EOS_Progressed": 643515,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 3004,
+  "EOS_NewPlayers": 3010,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11755,6 +11755,11 @@
       "Time": "2023-07-19T07:03:44.0449581+00:00",
       "NumProgressed": 643504,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-07-19T08:03:25.7093797+00:00",
+      "NumProgressed": 643515,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 54,
@@ -11766,7 +11771,7 @@
       "Name": "The dream begins",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 521238
+      "UsersEstimate": 521247
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -11846,7 +11851,7 @@
       "Name": "Where there\u0027s muck there\u0027s brass",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 25740
+      "UsersEstimate": 25741
     },
     {
       "ID": "COMPLETE_ONE_CONTRACT",
@@ -11854,7 +11859,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 231661
+      "UsersEstimate": 231665
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -12006,7 +12011,7 @@
       "Name": "The first of many",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 205921
+      "UsersEstimate": 205925
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -12038,7 +12043,7 @@
       "Name": "Teamwork makes the dream work",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 38610
+      "UsersEstimate": 38611
     },
     {
       "ID": "NO_FINE_CONTRACT",
@@ -12070,7 +12075,7 @@
       "Name": "Lawn in the U.S.A.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 96526
+      "UsersEstimate": 96527
     },
     {
       "ID": "PART_EX_LESS_EXPENSIVE",
@@ -12086,7 +12091,7 @@
       "Name": "Bigger and better",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 25740
+      "UsersEstimate": 25741
     },
     {
       "ID": "PICK_UP_250_OBJECTS",
@@ -12126,7 +12131,7 @@
       "Name": "Credible",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 45045
+      "UsersEstimate": 45046
     },
     {
       "ID": "RP_DISTINGUISHED",
@@ -12166,7 +12171,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 115831
+      "UsersEstimate": 115833
     },
     {
       "ID": "RP_TRUSTED",
@@ -12182,7 +12187,7 @@
       "Name": "Blade Runner",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 57915
+      "UsersEstimate": 57916
     },
     {
       "ID": "UPGRADE_COMPANY_HQ",
@@ -12190,22 +12195,22 @@
       "Name": "Aggressive expansion",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 25740
+      "UsersEstimate": 25741
     }
   ],
   "AchievementSets": [
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 643504,
+      "Progressed": 643515,
       "Completed": 15
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-07-07T07:58:31.6520155+00:00",
-  "LastChanged_Achievements": "2023-07-19T07:03:44.0449576+00:00",
+  "LastChanged_Achievements": "2023-07-19T08:03:25.7093793+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:30.8267084+00:00",
-  "LastUpdate_Ratings": "2023-07-19T06:58:41.2556092+00:00",
-  "LastUpdate_Achievements": "2023-07-19T07:03:44.0450602+00:00"
+  "LastUpdate_Ratings": "2023-07-19T07:58:05.6933753+00:00",
+  "LastUpdate_Achievements": "2023-07-19T08:03:25.7094614+00:00"
 }

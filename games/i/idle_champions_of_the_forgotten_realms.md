@@ -36,6 +36,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Resolve Amongst Chaos | 0.10% | ~213 |
 | All You Know Is Wrong | 0.10% | ~213 |
 | Shadow Stalkers | 0.10% | ~180 |
+| Avernus Frozen Over | 0.10% | ~180 |
 | Market Fluctuations | 0.10% | ~213 |
 | Once More Into The Breach | 0.10% | ~213 |
 | Twice More Into The Breach | 0.10% | ~213 |
@@ -78,6 +79,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Madcap Adventures Redux | 0.10% | ~180 |
 | When the Going Gets Tough | 0.10% | ~180 |
 | Tiamat's Army | 0.10% | ~180 |
+| Show of Strength | 0.10% | ~180 |
 | Fight Dragons with Dragons | 0.10% | ~180 |
 | Questlines | 0.10% | ~180 |
 | Raggadragga's Crew | 0.10% | ~180 |
@@ -136,6 +138,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hats off to you! | 0.10% | ~180 |
 | The Bleeding Citadel | 0.10% | ~180 |
 | Don't Pick at the Scab | 0.10% | ~180 |
+| Going To Eleven | 0.10% | ~180 |
 | Idyllglen | 0.10% | ~180 |
 | The Madness of Yeenoghu | 0.10% | ~180 |
 | Reya Reborn | 0.10% | ~180 |
@@ -146,6 +149,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Waiting on Sunrise | 0.10% | ~180 |
 | Frontline Fighters | 0.10% | ~180 |
 | A Chilling Encounter | 0.10% | ~180 |
+| How Far Away is Thay | 0.10% | ~180 |
 | Deekin's Mission | 0.10% | ~180 |
 | Dive Bomb | 0.10% | ~180 |
 | Fire and Ice | 0.10% | ~180 |
@@ -490,11 +494,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Patience is Key | 0.00% | ~0 |
 | The Darkness Runs Deeper | 0.00% | ~0 |
 | Hailstorm! | 0.00% | ~0 |
-| Avernus Frozen Over | 0.00% | ~0 |
-| Show of Strength | 0.00% | ~0 |
 | It's Cold Out There Every Day | 0.00% | ~0 |
-| Going To Eleven | 0.00% | ~0 |
-| How Far Away is Thay | 0.00% | ~0 |
 | The Court of Storms | 0.00% | ~0 |
 | Coasting to the Finish | 0.00% | ~0 |
 | Beware the Jabberwock | 0.00% | ~0 |
@@ -519,8 +519,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.00% | ~0 |
 | Animated Giff | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213,283 (Ranked 53)  
-Completed: 2,058 (0.96%) (Ranked 104)  
+Progressed: 213,294 (Ranked 53)  
+Completed: 2,058 (0.96%) (Ranked 105)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -609,7 +609,7 @@ Completed: 2,058 (0.96%) (Ranked 104)
 | 2023-07-16 | 212,501 | 2,055 |
 | 2023-07-17 | 212,861 | 2,057 |
 | 2023-07-18 | 213,209 | 2,058 |
-| 2023-07-19 | 213,283 | 2,058 |
+| 2023-07-19 | 213,294 | 2,058 |
 ## Awards
 Max (Diverse Characters): 5,043  (Ranked 66)  
 Sum: 30,580 (Ranked 38)  

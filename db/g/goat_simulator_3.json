@@ -6,7 +6,7 @@
   "Ranking_Popularity": 218,
   "Ranking_PopularitySum": 158,
   "Ranking_EOS_Progress": 47,
-  "Ranking_EOS_Completed": 142,
+  "Ranking_EOS_Completed": 143,
   "Ranking_EOS_NewPlayers": 52,
   "Ranking_EOS_NewCompleters": 17,
   "Store": {
@@ -2590,9 +2590,9 @@
       "Count": 256
     }
   ],
-  "EOS_Progressed": 233110,
+  "EOS_Progressed": 233111,
   "EOS_Completed": 777,
-  "EOS_NewPlayers": 1036,
+  "EOS_NewPlayers": 1034,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -12085,6 +12085,11 @@
       "Time": "2023-07-19T07:03:49.9206414+00:00",
       "NumProgressed": 233110,
       "NumCompleted": 777
+    },
+    {
+      "Time": "2023-07-19T08:03:30.6358436+00:00",
+      "NumProgressed": 233111,
+      "NumCompleted": 777
     }
   ],
   "TotalAchievements": 39,
@@ -12160,7 +12165,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 212130
+      "UsersEstimate": 212131
     },
     {
       "ID": "AchievementClownID",
@@ -12208,7 +12213,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 76926
+      "UsersEstimate": 76927
     },
     {
       "ID": "AchievementGoatID",
@@ -12224,7 +12229,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 123548
+      "UsersEstimate": 123549
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -12240,7 +12245,7 @@
       "Name": "Beauty, Mindfulness and Meditation",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 34966
+      "UsersEstimate": 34967
     },
     {
       "ID": "AchievementInstinctID",
@@ -12272,7 +12277,7 @@
       "Name": "Black Market",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 32635
+      "UsersEstimate": 32636
     },
     {
       "ID": "AchievementMascotPoopID",
@@ -12328,7 +12333,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 172501
+      "UsersEstimate": 172502
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -12344,7 +12349,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 116555
+      "UsersEstimate": 116556
     },
     {
       "ID": "AchievementStreakingID",
@@ -12360,7 +12365,7 @@
       "Name": "401(K.O.)",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 32635
+      "UsersEstimate": 32636
     },
     {
       "ID": "AchievementThroneID",
@@ -12407,7 +12412,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 233110,
+      "Progressed": 233111,
       "Completed": 777
     }
   ],
@@ -12415,8 +12420,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-07-18T14:02:33.2935292+00:00",
-  "LastChanged_Achievements": "2023-07-19T07:03:49.920641+00:00",
+  "LastChanged_Achievements": "2023-07-19T08:03:30.6358431+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:29.9073229+00:00",
-  "LastUpdate_Ratings": "2023-07-19T07:01:19.9177417+00:00",
-  "LastUpdate_Achievements": "2023-07-19T07:03:49.9207218+00:00"
+  "LastUpdate_Ratings": "2023-07-19T08:00:13.1278929+00:00",
+  "LastUpdate_Achievements": "2023-07-19T08:03:30.6359127+00:00"
 }

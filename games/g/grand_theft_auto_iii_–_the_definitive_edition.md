@@ -15,8 +15,8 @@ Rating: 4.16 (Ranked 865)
 | Offshore Delivery | 13.00% | ~910 |
 | Dirty Money | 12.00% | ~840 |
 | By a Mile | 10.00% | ~700 |
+| Not So Fast | 10.00% | ~700 |
 | Right-hand Man | 10.00% | ~700 |
-| Not So Fast | 9.00% | ~630 |
 | A Gift from the King | 7.00% | ~490 |
 | Full Artillery | 4.00% | ~280 |
 | Mob Boss | 2.00% | ~140 |
@@ -36,7 +36,7 @@ Rating: 4.16 (Ranked 865)
 | King of Liberty City | 0.60% | ~42 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6,998 (Ranked 127)  
-Completed: 41 (0.59%) (Ranked 120)  
+Completed: 41 (0.59%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

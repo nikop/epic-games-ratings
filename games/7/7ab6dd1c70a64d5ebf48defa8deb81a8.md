@@ -4,6 +4,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Break Out | 26.00% | ~5 |
+| A Taste of Wrath | 21.00% | ~4 |
 | Trinity | 21.00% | ~4 |
 | Find Allies | 16.00% | ~3 |
 | Powerful Allies | 16.00% | ~3 |
@@ -16,32 +17,31 @@
 | I Found It | 16.00% | ~3 |
 | To Battle | 11.00% | ~2 |
 | Godslayer | 11.00% | ~2 |
-| A Taste of Wrath | 11.00% | ~2 |
+| Shatterer | 11.00% | ~2 |
 | Scholar | 11.00% | ~2 |
 | Stone Collection | 11.00% | ~2 |
+| Miner | 11.00% | ~2 |
 | The Collector | 11.00% | ~2 |
 | Clear Sight | 5.00% | ~1 |
 | Forgemaster | 5.00% | ~1 |
 | Shardbearer | 5.00% | ~1 |
-| Shatterer | 5.00% | ~1 |
+| Airborne | 5.00% | ~1 |
 | Slayer | 5.00% | ~1 |
 | Flawless Victory | 5.00% | ~1 |
 | Big Bazar | 5.00% | ~1 |
 | Fine Feathers Make Fine Birds | 5.00% | ~1 |
+| All There Is | 5.00% | ~1 |
 | False God | 5.00% | ~1 |
 | All That Gold | 5.00% | ~1 |
-| Miner | 5.00% | ~1 |
+| Alchemist | 5.00% | ~1 |
 | Feeling Fancy | 5.00% | ~1 |
 | Summiter | 5.00% | ~1 |
 | The Mentor | 0.00% | ~0 |
-| Airborne | 0.00% | ~0 |
 | Shatter Them All | 0.00% | ~0 |
-| All There Is | 0.00% | ~0 |
-| Alchemist | 0.00% | ~0 |
 | A Queen's Tale | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 19 (Ranked 376)  
-Completed: 0 (0.00%) (Ranked 237)  
+Completed: 1 (5.26%) (Ranked 38)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -53,3 +53,4 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-11 | 17 | 0 |
 | 2023-07-12 | 18 | 0 |
 | 2023-07-17 | 19 | 0 |
+| 2023-07-19 | 19 | 1 |

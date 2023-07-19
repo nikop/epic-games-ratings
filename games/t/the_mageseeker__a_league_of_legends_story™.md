@@ -60,7 +60,7 @@ Rating: 4.81 (Ranked 77)
 | The Unshackled | 0.80% | ~20 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,445 (Ranked 158)  
-Completed: 5 (0.20%) (Ranked 165)  
+Completed: 5 (0.20%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
