@@ -50,8 +50,8 @@
 | 48 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.75% |
 | 49 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
 | 50 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.62% |
-| 51 | [ZZT!](games/z/zzt!.md) | 3.55% |
-| 52 | [Doodle God](games/d/doodle_god.md) | 3.54% |
+| 51 | [Doodle God](games/d/doodle_god.md) | 3.54% |
+| 51 | [ZZT!](games/z/zzt!.md) | 3.54% |
 | 53 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.52% |
 | 54 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
 | 54 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.40% |
@@ -68,11 +68,11 @@
 | 66 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 67 | [Lamentum](games/l/lamentum.md) | 2.67% |
 | 68 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
-| 69 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.53% |
-| 70 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.52% |
-| 71 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 72 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
-| 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.33% |
+| 69 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.62% |
+| 70 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.53% |
+| 71 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.52% |
+| 72 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 73 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
 | 74 | [Bloodshore](games/b/bloodshore.md) | 2.27% |
 | 75 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.15% |
 | 76 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.13% |
