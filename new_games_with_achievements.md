@@ -1,6 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Outliver: Tribulation](games/1/13e30807efce43ea9e04ac1c45668d8e.md) | 2023-07-18 | 21 (1,000 XP) | 3 | - | - |
+| [Outliver: Tribulation](games/1/13e30807efce43ea9e04ac1c45668d8e.md) | 2023-07-18 | 21 (1,000 XP) | 4 | - | - |
 | [Insomnis](games/i/insomnis.md) | 2023-07-17 | 27 (1,000 XP) | 1 | - | - |
 | [Reyna Darkness](games/f/f23600737cfe43d0a3c807c938c5e94b.md) | 2023-07-16 | 13 (1,000 XP) | 1 | - | 0 |
 | [Sylvio And The Mountains Giants](games/e/eeeac1c46be840b1a8977237cbeb6b09.md) | 2023-07-14 | 10 (1,000 XP) | 0 | - | - |
