@@ -65,6 +65,7 @@
 | 58 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 87 | 349 |
 | 58 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.83 | 0 | 505 |
 | 65 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 505 |
+| 65 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,460 | 122 |
 | 65 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,645 | 58 |
 | 65 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 505 |
 | 65 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 505 |
@@ -75,12 +76,11 @@
 | 65 | [Sifu](games/s/sifu.md) | 4.82 | 6,282 | 53 |
 | 65 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 396 | 211 |
 | 65 | [Star Atlas](games/s/star_atlas.md) | 4.82 | 22 | 486 |
-| 76 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 418 | 204 |
-| 76 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 1,460 | 122 |
-| 76 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.81 | 219 | 256 |
-| 76 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.81 | 0 | 505 |
-| 76 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 28 | 462 |
-| 76 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 0 | 505 |
+| 77 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 418 | 204 |
+| 77 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.81 | 219 | 256 |
+| 77 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.81 | 0 | 505 |
+| 77 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 28 | 462 |
+| 77 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 0 | 505 |
 | 82 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,365 | 51 |
 | 82 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.80 | 45 | 409 |
 | 82 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,431 | 102 |
@@ -110,7 +110,7 @@
 | 100 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 505 |
 | 109 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 3,675 | 80 |
 | 109 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 6,348 | 52 |
-| 109 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 21,074 | 17 |
+| 109 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 21,101 | 17 |
 | 109 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 0 | 505 |
 | 109 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 0 | 505 |
 | 109 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 146 | 294 |
@@ -944,9 +944,9 @@
 | 942 | [Blood of Steel](games/b/blood_of_steel.md) | 3.81 | 0 | 505 |
 | 943 | [Poker Club](games/p/poker_club.md) | 3.80 | 28 | 462 |
 | 944 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,050 | 139 |
-| 945 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 0 | 505 |
-| 945 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.77 | 66 | 379 |
-| 945 | [To The Rescue](games/t/to_the_rescue.md) | 3.77 | 0 | 505 |
+| 944 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 0 | 505 |
+| 946 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.77 | 66 | 379 |
+| 946 | [To The Rescue](games/t/to_the_rescue.md) | 3.77 | 0 | 505 |
 | 948 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.76 | 0 | 505 |
 | 949 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.72 | 0 | 505 |
 | 950 | [Chainmonsters](games/c/chainmonsters.md) | 3.68 | 0 | 505 |

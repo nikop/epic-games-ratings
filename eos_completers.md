@@ -31,7 +31,7 @@
 | 29 | [Ravenlok](games/r/ravenlok.md) | 7.43% |
 | 30 | [Time Loader](games/t/time_loader.md) | 7.14% |
 | 31 | [Scorn](games/s/scorn.md) | 7.04% |
-| 32 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.96% |
+| 32 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.95% |
 | 33 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.52% |
 | 34 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 35 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -68,8 +68,8 @@
 | 66 | [Lamentum](games/l/lamentum.md) | 2.67% |
 | 67 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
 | 68 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.53% |
-| 69 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.51% |
-| 70 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 69 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.50% |
+| 69 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 71 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
 | 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.33% |
 | 73 | [Bloodshore](games/b/bloodshore.md) | 2.27% |
@@ -495,4 +495,4 @@
 | 237 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 237 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 237 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,917 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
+| 2,918 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |

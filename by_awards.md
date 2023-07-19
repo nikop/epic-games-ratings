@@ -16,7 +16,7 @@
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 34,634 | 4.74 | 143 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 30,060 | 4.52 | 520 |
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,687 | 4.65 | 298 |
-| 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 21,074 | 4.77 | 109 |
+| 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 21,101 | 4.77 | 109 |
 | 18 | [Dauntless](games/d/dauntless.md) | 20,842 | 4.53 | 508 |
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 18,969 | 4.57 | 440 |
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 17,034 | 4.89 | 13 |
@@ -121,7 +121,7 @@
 | 119 | [Celeste](games/c/celeste.md) | 1,525 | 4.92 | 4 |
 | 120 | [Ring of Pain](games/r/ring_of_pain.md) | 1,484 | 4.58 | 423 |
 | 121 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,468 | 4.79 | 90 |
-| 122 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,460 | 4.81 | 76 |
+| 122 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,460 | 4.82 | 65 |
 | 123 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,413 | 4.87 | 24 |
 | 124 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,392 | 4.62 | 347 |
 | 125 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,351 | 4.79 | 90 |
@@ -203,7 +203,7 @@
 | 201 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 424 | 4.40 | 693 |
 | 202 | [Dishonored 2](games/d/dishonored_2.md) | 419 | 4.79 | 90 |
 | 202 | [RimWorld](games/r/rimworld.md) | 419 | 4.89 | 13 |
-| 204 | [Against the Storm](games/a/against_the_storm.md) | 418 | 4.81 | 76 |
+| 204 | [Against the Storm](games/a/against_the_storm.md) | 418 | 4.81 | 77 |
 | 204 | [Loop Hero](games/l/loop_hero.md) | 418 | 4.68 | 240 |
 | 206 | [MORDHAU](games/m/mordhau.md) | 414 | 4.40 | 693 |
 | 207 | [Into the Breach](games/i/into_the_breach.md) | 412 | 4.84 | 49 |
@@ -255,7 +255,7 @@
 | 253 | [Hello Neighbor](games/h/hello_neighbor.md) | 225 | 4.55 | 481 |
 | 254 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 221 | 4.56 | 457 |
 | 255 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 220 | 4.59 | 413 |
-| 256 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 219 | 4.81 | 76 |
+| 256 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 219 | 4.81 | 77 |
 | 257 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 218 | 4.60 | 390 |
 | 257 | [Old World](games/o/old_world.md) | 218 | 4.65 | 298 |
 | 257 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 218 | 4.85 | 41 |
@@ -380,7 +380,7 @@
 | 378 | [DOOM 3](games/d/doom_3.md) | 67 | 4.60 | 390 |
 | 379 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 66 | 4.43 | 655 |
 | 379 | [Symphony of War](games/s/symphony_of_war.md) | 66 | 4.64 | 312 |
-| 379 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 66 | 3.77 | 945 |
+| 379 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 66 | 3.77 | 946 |
 | 382 | [Ticket to Ride](games/t/ticket_to_ride.md) | 65 | 4.62 | 347 |
 | 383 | [Arcadegeddon](games/a/arcadegeddon.md) | 63 | 4.49 | 575 |
 | 383 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 63 | 4.42 | 664 |
@@ -462,7 +462,7 @@
 | 459 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 29 | 4.45 | 624 |
 | 459 | [Speed Brawl](games/s/speed_brawl.md) | 29 | 4.32 | 765 |
 | 462 | [Poker Club](games/p/poker_club.md) | 28 | 3.80 | 943 |
-| 462 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 28 | 4.81 | 76 |
+| 462 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 28 | 4.81 | 77 |
 | 462 | [Wildermyth](games/w/wildermyth.md) | 28 | 4.77 | 109 |
 | 462 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 28 | 4.52 | 520 |
 | 466 | [Automachef](games/a/automachef.md) | 27 | 4.34 | 749 |
