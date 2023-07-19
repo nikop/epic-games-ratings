@@ -6297,9 +6297,9 @@
       "Count": 901
     }
   ],
-  "EOS_Progressed": 111014,
+  "EOS_Progressed": 111015,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1126,
+  "EOS_NewPlayers": 1123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14507,6 +14507,11 @@
       "Time": "2023-07-19T06:07:18.8778019+00:00",
       "NumProgressed": 111014,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-19T07:07:26.6772828+00:00",
+      "NumProgressed": 111015,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 65,
@@ -14526,7 +14531,7 @@
       "Name": "Serenity Now!",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 57727
+      "UsersEstimate": 57728
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -14566,7 +14571,7 @@
       "Name": "Funny Guy",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 74379
+      "UsersEstimate": 74380
     },
     {
       "ID": "altar_of_hope_unlock_hero_leper",
@@ -14574,7 +14579,7 @@
       "Name": "Long Live the King",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 73269
+      "UsersEstimate": 73270
     },
     {
       "ID": "altar_of_hope_unlock_hero_occultist",
@@ -14590,7 +14595,7 @@
       "Name": "Boxcar Kid",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 66608
+      "UsersEstimate": 66609
     },
     {
       "ID": "altar_of_hope_unlock_hero_vestal",
@@ -14614,7 +14619,7 @@
       "Name": "This Looks Familiar",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 42185
+      "UsersEstimate": 42186
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -14622,7 +14627,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 55507
+      "UsersEstimate": 55508
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -14678,7 +14683,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 35524
+      "UsersEstimate": 35525
     },
     {
       "ID": "combat_kill_fanatics",
@@ -14742,7 +14747,7 @@
       "Name": "Overdue Notice",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 34414
+      "UsersEstimate": 34415
     },
     {
       "ID": "combat_kill_pillagers",
@@ -14758,7 +14763,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 18872
+      "UsersEstimate": 18873
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -14790,7 +14795,7 @@
       "Name": "It Happens",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 18872
+      "UsersEstimate": 18873
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -14814,7 +14819,7 @@
       "Name": "Rush Hour",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 65498
+      "UsersEstimate": 65499
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -14838,7 +14843,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 66608
+      "UsersEstimate": 66609
     },
     {
       "ID": "driving_distance_easy",
@@ -14910,7 +14915,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 103243
+      "UsersEstimate": 103244
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -14918,7 +14923,7 @@
       "Name": "When You Want Something Done Right",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 11101
+      "UsersEstimate": 11102
     },
     {
       "ID": "inn_replacement_hero_add",
@@ -14974,7 +14979,7 @@
       "Name": "Unshackled",
       "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 74379
+      "UsersEstimate": 74380
     },
     {
       "ID": "run_victory_act02",
@@ -15037,15 +15042,15 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 111014,
+      "Progressed": 111015,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-07-19T03:18:20.6988558+00:00",
-  "LastChanged_Achievements": "2023-07-19T06:07:18.8778013+00:00",
+  "LastChanged_Achievements": "2023-07-19T07:07:26.677282+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:01.9311457+00:00",
-  "LastUpdate_Ratings": "2023-07-19T06:00:44.7741928+00:00",
-  "LastUpdate_Achievements": "2023-07-19T06:07:18.8778831+00:00"
+  "LastUpdate_Ratings": "2023-07-19T07:00:50.8474253+00:00",
+  "LastUpdate_Achievements": "2023-07-19T07:07:26.6773821+00:00"
 }

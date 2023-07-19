@@ -5,24 +5,24 @@ Rating: 4.40 (Ranked 693)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 78.00% | ~81,726 |
-| 74 miles East of Otaheité | 55.00% | ~57,627 |
-| Interesting... | 41.00% | ~42,959 |
-| The Everhart Expedition | 39.00% | ~40,863 |
-| Seaside Serenade | 30.00% | ~31,433 |
-| The Vanishing of the Lady Shannon | 29.00% | ~30,385 |
+| A Family Heirloom | 78.00% | ~81,728 |
+| 74 miles East of Otaheité | 55.00% | ~57,629 |
+| Interesting... | 41.00% | ~42,960 |
+| The Everhart Expedition | 39.00% | ~40,864 |
+| Seaside Serenade | 30.00% | ~31,434 |
+| The Vanishing of the Lady Shannon | 29.00% | ~30,386 |
 | Halfway there | 28.00% | ~29,338 |
 | A brigantine, a brig and a barque | 28.00% | ~29,338 |
-| Weekend at Walakea's | 27.00% | ~28,290 |
-| 506 East Hampden Avenue | 27.00% | ~28,290 |
-| Quite a Show | 26.00% | ~27,242 |
-| Dark Water Ride | 24.00% | ~25,146 |
+| Weekend at Walakea's | 27.00% | ~28,291 |
+| 506 East Hampden Avenue | 27.00% | ~28,291 |
+| Quite a Show | 26.00% | ~27,243 |
+| Dark Water Ride | 24.00% | ~25,147 |
 | Sunken | 23.00% | ~24,099 |
 | Deep Cut | 23.00% | ~24,099 |
-| FHALGOF'N' | 22.00% | ~23,051 |
-| Marsh Cannery | 20.00% | ~20,955 |
-| Greetings from Y'ha-nthlei! | 17.00% | ~17,812 |
-| The only thing I have now | 16.00% | ~16,764 |
+| FHALGOF'N' | 22.00% | ~23,052 |
+| Marsh Cannery | 20.00% | ~20,956 |
+| Greetings from Y'ha-nthlei! | 17.00% | ~17,813 |
+| The only thing I have now | 16.00% | ~16,765 |
 | Not Another Boring Slideshow! | 15.00% | ~15,717 |
 | Naacalvision | 15.00% | ~15,717 |
 | I'll make a note of that... | 9.00% | ~9,430 |
@@ -40,7 +40,7 @@ Rating: 4.40 (Ranked 693)
 | Gently down the stream... | 1.00% | ~1,048 |
 | Meta-reference | 1.00% | ~1,048 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 104,777 (Ranked 68)  
+Progressed: 104,780 (Ranked 68)  
 Completed: 819 (0.78%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 819 (0.78%) (Ranked 109)
 | 2023-07-16 | 104,174 | 812 |
 | 2023-07-17 | 104,487 | 815 |
 | 2023-07-18 | 104,730 | 818 |
-| 2023-07-19 | 104,777 | 819 |
+| 2023-07-19 | 104,780 | 819 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

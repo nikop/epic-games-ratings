@@ -6,7 +6,7 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 34.00% | ~19,559 |
+| Follow the Light | 34.00% | ~19,560 |
 | Let There Be Light | 28.00% | ~16,108 |
 | Float Like a Butterfly | 26.00% | ~14,957 |
 | Nordic Walking | 21.00% | ~12,081 |
@@ -29,10 +29,10 @@ Number of Ratings: 524  (23.09.2022)
 | Perchance to Dream | 10.00% | ~5,753 |
 | It's Not Just a Typewriter Brand | 10.00% | ~5,753 |
 | Thunder and Lightning | 10.00% | ~5,753 |
-| Gatekeeper | 9.00% | ~5,177 |
-| The Lady of the Light | 9.00% | ~5,177 |
-| Two For the Price of One | 9.00% | ~5,177 |
-| Energized! | 9.00% | ~5,177 |
+| Gatekeeper | 9.00% | ~5,178 |
+| The Lady of the Light | 9.00% | ~5,178 |
+| Two For the Price of One | 9.00% | ~5,178 |
+| Energized! | 9.00% | ~5,178 |
 | What Light Through Yonder Window | 8.00% | ~4,602 |
 | Right of Way | 8.00% | ~4,602 |
 | A Friend in Need | 8.00% | ~1,680 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~58 |
 | No Punctuation | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,527 (Ranked 82)  
+Progressed: 57,528 (Ranked 82)  
 Completed: 58 (0.10%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 58 (0.10%) (Ranked 183)
 | 2023-07-16 | 57,444 | 58 |
 | 2023-07-17 | 57,477 | 58 |
 | 2023-07-18 | 57,515 | 58 |
-| 2023-07-19 | 57,527 | 58 |
+| 2023-07-19 | 57,528 | 58 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

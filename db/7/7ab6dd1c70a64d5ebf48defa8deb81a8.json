@@ -120,17 +120,17 @@
       "ID": "ACH_05",
       "SetID": "efe2lj",
       "Name": "To Battle",
-      "Percentage": 5,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_06",
       "SetID": "efe2lj",
       "Name": "Godslayer",
-      "Percentage": 5,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_07",
@@ -320,9 +320,9 @@
       "ID": "ACH_30",
       "SetID": "efe2lj",
       "Name": "Alchemist",
-      "Percentage": -5.3,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_31",
@@ -382,7 +382,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-07-19T06:03:33.9423569+00:00",
-  "LastUpdate_Ratings": "2023-07-19T05:57:18.7332327+00:00",
-  "LastUpdate_Achievements": "2023-07-19T06:03:33.942384+00:00"
+  "LastChanged_Achievements": "2023-07-19T07:03:39.331514+00:00",
+  "LastUpdate_Ratings": "2023-07-19T06:57:31.6663084+00:00",
+  "LastUpdate_Achievements": "2023-07-19T07:03:39.3315426+00:00"
 }

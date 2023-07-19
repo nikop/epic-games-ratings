@@ -128,9 +128,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1605,
+  "EOS_Progressed": 1606,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3458,6 +3458,11 @@
       "Time": "2023-07-18T23:03:51.7363814+00:00",
       "NumProgressed": 1605,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-19T07:02:29.8357686+00:00",
+      "NumProgressed": 1606,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -3469,7 +3474,7 @@
       "Name": "Apprentice",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "A01",
@@ -3509,7 +3514,7 @@
       "Name": "A new Hope",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "A06",
@@ -3613,7 +3618,7 @@
       "Name": "General Manager",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "A19",
@@ -3621,7 +3626,7 @@
       "Name": "Tycoon",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "A20",
@@ -3637,7 +3642,7 @@
       "Name": "Country Life",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "A22",
@@ -3645,7 +3650,7 @@
       "Name": "Brainstorm",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1044
     },
     {
       "ID": "A23",
@@ -3693,7 +3698,7 @@
       "Name": "We brake for nobody",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1075
+      "UsersEstimate": 1076
     },
     {
       "ID": "A29",
@@ -3709,7 +3714,7 @@
       "Name": "All mine",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "A31",
@@ -3717,7 +3722,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "A32",
@@ -3741,7 +3746,7 @@
       "Name": "Producer",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "A35",
@@ -3765,7 +3770,7 @@
       "Name": "All around the World",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "A38",
@@ -3789,7 +3794,7 @@
       "Name": "Mind the Gap",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "A41",
@@ -3813,7 +3818,7 @@
       "Name": "Mole",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "A44",
@@ -3837,7 +3842,7 @@
       "Name": "Mystery Tour",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "A47",
@@ -3845,7 +3850,7 @@
       "Name": "Travel Company",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1044
     },
     {
       "ID": "A48",
@@ -3885,7 +3890,7 @@
       "Name": "Socializer",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "A53",
@@ -3908,7 +3913,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 1605,
+      "Progressed": 1606,
       "Completed": 0
     }
   ],
@@ -3916,8 +3921,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-07-15T13:11:52.2660049+00:00",
-  "LastChanged_Achievements": "2023-07-19T06:02:33.0553023+00:00",
+  "LastChanged_Achievements": "2023-07-19T07:02:29.8357677+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:48.1822596+00:00",
-  "LastUpdate_Ratings": "2023-07-19T05:58:38.4243362+00:00",
-  "LastUpdate_Achievements": "2023-07-19T06:02:33.0553631+00:00"
+  "LastUpdate_Ratings": "2023-07-19T06:58:52.1139949+00:00",
+  "LastUpdate_Achievements": "2023-07-19T07:02:29.8358388+00:00"
 }

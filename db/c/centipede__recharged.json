@@ -296,7 +296,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15555,
+  "EOS_Progressed": 15556,
   "EOS_Completed": 98,
   "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 2,
@@ -7186,6 +7186,11 @@
       "Time": "2023-07-19T03:22:37.8795235+00:00",
       "NumProgressed": 15555,
       "NumCompleted": 98
+    },
+    {
+      "Time": "2023-07-19T07:04:43.3433915+00:00",
+      "NumProgressed": 15556,
+      "NumCompleted": 98
     }
   ],
   "TotalAchievements": 16,
@@ -7205,7 +7210,7 @@
       "Name": "Burning For You",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 4355
+      "UsersEstimate": 4356
     },
     {
       "ID": "Deadline",
@@ -7269,7 +7274,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 6533
+      "UsersEstimate": 6534
     },
     {
       "ID": "Mirrors",
@@ -7293,7 +7298,7 @@
       "Name": "Shooting Shark",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 7933
+      "UsersEstimate": 7934
     },
     {
       "ID": "Sole_Survivor",
@@ -7301,7 +7306,7 @@
       "Name": "Sole Survivor",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 5755
+      "UsersEstimate": 5756
     },
     {
       "ID": "Still_Burning",
@@ -7324,15 +7329,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 15555,
+      "Progressed": 15556,
       "Completed": 98
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-05-26T21:58:51.5297179+00:00",
-  "LastChanged_Achievements": "2023-07-19T06:04:29.5959787+00:00",
+  "LastChanged_Achievements": "2023-07-19T07:04:43.343391+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:59.2106647+00:00",
-  "LastUpdate_Ratings": "2023-07-19T05:59:42.7090036+00:00",
-  "LastUpdate_Achievements": "2023-07-19T06:04:29.5960235+00:00"
+  "LastUpdate_Ratings": "2023-07-19T06:59:50.6700714+00:00",
+  "LastUpdate_Achievements": "2023-07-19T07:04:43.3434468+00:00"
 }

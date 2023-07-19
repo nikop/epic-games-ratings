@@ -5,40 +5,40 @@ Rating: 4.75 (Ranked 133)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 77.00% | ~60,890 |
-| The Player Whisperer | 76.00% | ~60,099 |
-| One of Us, One of Us! | 73.00% | ~57,727 |
-| Clean Sheet | 68.00% | ~53,773 |
-| First Victory | 68.00% | ~53,773 |
-| #DoneDeal | 67.00% | ~52,982 |
+| Motivational Speaker | 77.00% | ~60,891 |
+| The Player Whisperer | 76.00% | ~60,100 |
+| One of Us, One of Us! | 73.00% | ~57,728 |
+| Clean Sheet | 68.00% | ~53,774 |
+| First Victory | 68.00% | ~53,774 |
+| #DoneDeal | 67.00% | ~52,983 |
 | Off the Books | 65.00% | ~51,401 |
 | Super-Sub | 65.00% | ~51,401 |
 | Hat-trick | 60.00% | ~47,447 |
-| Planned Signing | 58.00% | ~45,865 |
-| "I Would Love It If We Beat Them" | 57.00% | ~45,074 |
-| Thumping | 53.00% | ~41,911 |
-| Scoring Streak | 53.00% | ~41,911 |
+| Planned Signing | 58.00% | ~45,866 |
+| "I Would Love It If We Beat Them" | 57.00% | ~45,075 |
+| Thumping | 53.00% | ~41,912 |
+| Scoring Streak | 53.00% | ~41,912 |
 | Wheeler Dealer | 52.00% | ~41,121 |
 | People Pleaser | 51.00% | ~40,330 |
-| Unbeatable! | 50.00% | ~39,539 |
-| One Of Our Own | 48.00% | ~37,957 |
-| They're a Natural | 44.00% | ~34,794 |
-| Record Signing | 44.00% | ~34,794 |
+| Unbeatable! | 50.00% | ~39,540 |
+| One Of Our Own | 48.00% | ~37,958 |
+| They're a Natural | 44.00% | ~34,795 |
+| Record Signing | 44.00% | ~34,795 |
 | Team Performance | 43.00% | ~34,004 |
 | The Only Stat That Matters | 43.00% | ~34,004 |
-| Full Faith | 40.00% | ~31,631 |
-| Star Player | 40.00% | ~31,631 |
-| Squad Goals | 40.00% | ~31,631 |
-| Parked The Bus | 39.00% | ~30,840 |
-| The People's Champion | 39.00% | ~30,840 |
+| Full Faith | 40.00% | ~31,632 |
+| Star Player | 40.00% | ~31,632 |
+| Squad Goals | 40.00% | ~31,632 |
+| Parked The Bus | 39.00% | ~30,841 |
+| The People's Champion | 39.00% | ~30,841 |
 | Beating Expectations | 38.00% | ~30,050 |
 | Goal Rush | 38.00% | ~30,050 |
 | What A Goal! | 36.00% | ~28,468 |
 | Flavour Of The Month | 36.00% | ~28,468 |
-| Tremendous Trio | 35.00% | ~27,677 |
-| Unstoppable Force | 35.00% | ~27,677 |
-| Record Sale | 35.00% | ~27,677 |
-| Shots For Days | 35.00% | ~27,677 |
+| Tremendous Trio | 35.00% | ~27,678 |
+| Unstoppable Force | 35.00% | ~27,678 |
+| Record Sale | 35.00% | ~27,678 |
+| Shots For Days | 35.00% | ~27,678 |
 | You're on Fire | 34.00% | ~26,887 |
 | The Special One | 33.00% | ~26,096 |
 | On a Roll | 32.00% | ~25,305 |
@@ -48,9 +48,9 @@ Rating: 4.75 (Ranked 133)
 | Immovable Object | 28.00% | ~22,142 |
 | Cup Glory! | 28.00% | ~22,142 |
 | Cash to Burn | 27.00% | ~21,351 |
-| Irresistible Force | 26.00% | ~20,560 |
+| Irresistible Force | 26.00% | ~20,561 |
 | Do The Double | 23.00% | ~18,188 |
-| A Game of Two Halves | 21.00% | ~16,606 |
+| A Game of Two Halves | 21.00% | ~16,607 |
 | Top Form | 19.00% | ~15,025 |
 | You're Up! | 19.00% | ~15,025 |
 | First Goal Network | 18.00% | ~14,234 |
@@ -70,7 +70,7 @@ Rating: 4.75 (Ranked 133)
 | Domination | 10.00% | ~7,908 |
 | You Can Buy Happiness | 9.00% | ~7,117 |
 | Invitational | 8.00% | ~6,326 |
-| World Renowned | 7.00% | ~5,535 |
+| World Renowned | 7.00% | ~5,536 |
 | Legend | 6.00% | ~4,745 |
 | World Beaters | 6.00% | ~4,745 |
 | Parked The Tank | 6.00% | ~4,745 |
@@ -106,7 +106,7 @@ Rating: 4.75 (Ranked 133)
 | Versus Anyone | 0.10% | ~79 |
 | 200 Club | 0.10% | ~79 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79,078 (Ranked 72)  
+Progressed: 79,079 (Ranked 72)  
 Completed: 22 (0.03%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 22 (0.03%) (Ranked 211)
 | 2023-07-16 | 78,760 | 22 |
 | 2023-07-17 | 78,932 | 22 |
 | 2023-07-18 | 79,061 | 22 |
-| 2023-07-19 | 79,078 | 22 |
+| 2023-07-19 | 79,079 | 22 |
 ## Awards
 Max (Diverse Characters): 543  (Ranked 187)  
 Sum: 3,990 (Ranked 139)  

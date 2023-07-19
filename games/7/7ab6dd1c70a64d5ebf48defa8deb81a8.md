@@ -14,12 +14,12 @@
 | Geared Up | 16.00% | ~3 |
 | Fashion Victim | 16.00% | ~3 |
 | I Found It | 16.00% | ~3 |
+| To Battle | 11.00% | ~2 |
+| Godslayer | 11.00% | ~2 |
 | A Taste of Wrath | 11.00% | ~2 |
 | Scholar | 11.00% | ~2 |
 | Stone Collection | 11.00% | ~2 |
 | The Collector | 11.00% | ~2 |
-| To Battle | 5.00% | ~1 |
-| Godslayer | 5.00% | ~1 |
 | Clear Sight | 5.00% | ~1 |
 | Forgemaster | 5.00% | ~1 |
 | Shardbearer | 5.00% | ~1 |
@@ -37,8 +37,8 @@
 | Airborne | 0.00% | ~0 |
 | Shatter Them All | 0.00% | ~0 |
 | All There Is | 0.00% | ~0 |
+| Alchemist | 0.00% | ~0 |
 | A Queen's Tale | 0.00% | ~0 |
-| Alchemist | -5.30% | ~-1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 19 (Ranked 376)  
 Completed: 0 (0.00%) (Ranked 237)  

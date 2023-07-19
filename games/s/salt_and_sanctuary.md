@@ -6,20 +6,20 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~438,275 |
-| The Three | 64.00% | ~337,947 |
-| The Banquet | 40.00% | ~211,217 |
-| Devara's Light | 30.00% | ~158,413 |
+| Find Sanctuary | 83.00% | ~438,278 |
+| The Three | 64.00% | ~337,949 |
+| The Banquet | 40.00% | ~211,218 |
+| Devara's Light | 30.00% | ~158,414 |
 | The Iron Ones | 18.00% | ~95,048 |
 | The Village | 16.00% | ~84,487 |
 | The Forest | 14.00% | ~73,926 |
-| Branded | 13.00% | ~68,645 |
-| The Imposter | 13.00% | ~68,645 |
-| The Keep | 13.00% | ~68,645 |
+| Branded | 13.00% | ~68,646 |
+| The Imposter | 13.00% | ~68,646 |
+| The Keep | 13.00% | ~68,646 |
 | The Castle | 11.00% | ~58,085 |
 | The Dome | 9.00% | ~47,524 |
 | The Red Hall | 9.00% | ~47,524 |
-| The Sacrifice | 8.00% | ~42,243 |
+| The Sacrifice | 8.00% | ~42,244 |
 | The Cave | 7.00% | ~36,963 |
 | The Mire | 7.00% | ~36,963 |
 | The Stone Roots | 7.00% | ~36,963 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,561 |
 | Fading Fast | 1.00% | ~5,280 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 528,042 (Ranked 28)  
+Progressed: 528,046 (Ranked 28)  
 Completed: 1,482 (0.28%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,16 +134,16 @@ Completed: 1,482 (0.28%) (Ranked 152)
 | 2023-07-16 | 527,847 | 1,480 |
 | 2023-07-17 | 527,933 | 1,481 |
 | 2023-07-18 | 528,021 | 1,482 |
-| 2023-07-19 | 528,042 | 1,482 |
+| 2023-07-19 | 528,046 | 1,482 |
 ## Awards
 Max (Challenging Combat): 274  (Ranked 239)  
-Sum: 1,915 (Ranked 200)  
+Sum: 1,916 (Ranked 200)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
 | This game has Challenging Combat | 274 |
 | This game has Quickly Understood Controls | 256 |
-| This game is Highly Recommended | 250 |
+| This game is Highly Recommended | 251 |
 | This game is Extremely Fun | 235 |
 | This game has Diverse Characters | 232 |
 | This game has Amazing Storytelling | 229 |
@@ -286,3 +286,4 @@ Diff (max vs sum): 39
 | 2023-07-15 | 4.61 | - | 274 | 1,912 |
 | 2023-07-16 | 4.61 | - | 274 | 1,913 |
 | 2023-07-18 | 4.61 | - | 274 | 1,915 |
+| 2023-07-19 | 4.61 | - | 274 | 1,916 |

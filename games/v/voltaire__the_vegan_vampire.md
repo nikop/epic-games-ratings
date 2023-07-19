@@ -11,8 +11,8 @@
 | Graduated | 35.00% | ~36 |
 | Night Shift | 24.00% | ~25 |
 | It's about the journey | 13.00% | ~14 |
+| Shine bright | 11.00% | ~11 |
 | C'who? | 10.00% | ~10 |
-| Shine bright | 10.00% | ~10 |
 | There be sand in me shorts | 9.00% | ~9 |
 | It gets everywhere | 8.00% | ~8 |
 | Make it rain | 7.00% | ~7 |

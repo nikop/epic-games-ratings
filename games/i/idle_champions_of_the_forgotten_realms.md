@@ -76,6 +76,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ulkoria's Escape from Alterdeep | 0.10% | ~180 |
 | The Wandering Emporium | 0.10% | ~180 |
 | Madcap Adventures Redux | 0.10% | ~180 |
+| When the Going Gets Tough | 0.10% | ~180 |
 | Tiamat's Army | 0.10% | ~180 |
 | Fight Dragons with Dragons | 0.10% | ~180 |
 | Questlines | 0.10% | ~180 |
@@ -490,7 +491,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Darkness Runs Deeper | 0.00% | ~0 |
 | Hailstorm! | 0.00% | ~0 |
 | Avernus Frozen Over | 0.00% | ~0 |
-| When the Going Gets Tough | 0.00% | ~0 |
 | Show of Strength | 0.00% | ~0 |
 | It's Cold Out There Every Day | 0.00% | ~0 |
 | Going To Eleven | 0.00% | ~0 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.00% | ~0 |
 | Animated Giff | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213,278 (Ranked 53)  
+Progressed: 213,283 (Ranked 53)  
 Completed: 2,058 (0.96%) (Ranked 104)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -609,7 +609,7 @@ Completed: 2,058 (0.96%) (Ranked 104)
 | 2023-07-16 | 212,501 | 2,055 |
 | 2023-07-17 | 212,861 | 2,057 |
 | 2023-07-18 | 213,209 | 2,058 |
-| 2023-07-19 | 213,278 | 2,058 |
+| 2023-07-19 | 213,283 | 2,058 |
 ## Awards
 Max (Diverse Characters): 5,043  (Ranked 66)  
 Sum: 30,580 (Ranked 38)  

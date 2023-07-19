@@ -372,9 +372,9 @@
       "ID": "01_gettingstarted",
       "SetID": "chb1m60",
       "Name": "Getting started",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 245
     },
     {
       "ID": "02_collector",
@@ -548,9 +548,9 @@
       "ID": "23_closecall",
       "SetID": "chb1m60",
       "Name": "Close call!",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 239
+      "UsersEstimate": 242
     },
     {
       "ID": "24_mega",
@@ -692,8 +692,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-03-31T05:57:32.453108+00:00",
-  "LastChanged_Achievements": "2023-07-19T06:03:36.7786337+00:00",
+  "LastChanged_Achievements": "2023-07-19T07:03:41.988373+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:08.5245199+00:00",
-  "LastUpdate_Ratings": "2023-07-19T05:58:07.0745215+00:00",
-  "LastUpdate_Achievements": "2023-07-19T06:03:36.7786581+00:00"
+  "LastUpdate_Ratings": "2023-07-19T06:58:22.3926826+00:00",
+  "LastUpdate_Achievements": "2023-07-19T07:03:41.9884027+00:00"
 }

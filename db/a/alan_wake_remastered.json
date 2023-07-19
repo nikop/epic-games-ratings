@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57527,
+  "EOS_Progressed": 57528,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 295,
+  "EOS_NewPlayers": 294,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8337,6 +8337,11 @@
       "Time": "2023-07-19T06:03:36.8697934+00:00",
       "NumProgressed": 57527,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-07-19T07:03:42.2205053+00:00",
+      "NumProgressed": 57528,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 67,
@@ -8348,7 +8353,7 @@
       "Name": "Follow the Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 19559
+      "UsersEstimate": 19560
     },
     {
       "ID": "02",
@@ -8452,7 +8457,7 @@
       "Name": "Gatekeeper",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5177
+      "UsersEstimate": 5178
     },
     {
       "ID": "15",
@@ -8460,7 +8465,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5177
+      "UsersEstimate": 5178
     },
     {
       "ID": "16",
@@ -8580,7 +8585,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5177
+      "UsersEstimate": 5178
     },
     {
       "ID": "31",
@@ -8612,7 +8617,7 @@
       "Name": "Energized!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5177
+      "UsersEstimate": 5178
     },
     {
       "ID": "35",
@@ -8883,21 +8888,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57527,
+      "Progressed": 57528,
       "Completed": 58
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20995,
+      "Progressed": 20996,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-19T06:03:36.8697929+00:00",
+  "LastChanged_Achievements": "2023-07-19T07:03:42.2205049+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:10.5196415+00:00",
-  "LastUpdate_Ratings": "2023-07-19T05:58:12.2466794+00:00",
-  "LastUpdate_Achievements": "2023-07-19T06:03:36.869878+00:00"
+  "LastUpdate_Ratings": "2023-07-19T06:58:26.6401797+00:00",
+  "LastUpdate_Achievements": "2023-07-19T07:03:42.2206233+00:00"
 }

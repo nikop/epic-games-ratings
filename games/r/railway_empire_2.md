@@ -10,17 +10,17 @@ Rating: 4.49 (Ranked 575)
 | From X to Y | 72.00% | ~1,156 |
 | Departure | 72.00% | ~1,156 |
 | Way of Iron | 70.00% | ~1,124 |
-| Mystery Tour | 68.00% | ~1,091 |
-| We brake for nobody | 67.00% | ~1,075 |
-| Brainstorm | 65.00% | ~1,043 |
-| Travel Company | 65.00% | ~1,043 |
-| Mind the Gap | 64.00% | ~1,027 |
-| All around the World | 62.00% | ~995 |
+| Mystery Tour | 68.00% | ~1,092 |
+| We brake for nobody | 67.00% | ~1,076 |
+| Brainstorm | 65.00% | ~1,044 |
+| Travel Company | 65.00% | ~1,044 |
+| Mind the Gap | 64.00% | ~1,028 |
+| All around the World | 62.00% | ~996 |
 | Right through the middle | 56.00% | ~899 |
 | Facility Manager | 53.00% | ~851 |
 | Poor Devil | 53.00% | ~851 |
-| Producer | 50.00% | ~802 |
-| Apprentice | 42.00% | ~674 |
+| Producer | 50.00% | ~803 |
+| Apprentice | 42.00% | ~675 |
 | Bridge Builder | 41.00% | ~658 |
 | Access granted | 34.00% | ~546 |
 | Going once, going twice, sold | 34.00% | ~546 |
@@ -28,12 +28,12 @@ Rating: 4.49 (Ranked 575)
 | Bull and bear | 33.00% | ~530 |
 | Full Steam ahead | 32.00% | ~514 |
 | Financial Shark | 30.00% | ~482 |
-| All mine | 29.00% | ~465 |
-| Socializer | 29.00% | ~465 |
-| Mole | 28.00% | ~449 |
-| Country Life | 26.00% | ~417 |
-| General Manager | 25.00% | ~401 |
-| Hostile Takeover | 25.00% | ~401 |
+| All mine | 29.00% | ~466 |
+| Socializer | 29.00% | ~466 |
+| Mole | 28.00% | ~450 |
+| Country Life | 26.00% | ~418 |
+| General Manager | 25.00% | ~402 |
+| Hostile Takeover | 25.00% | ~402 |
 | Seven at one stroke | 23.00% | ~369 |
 | Trailblazer | 20.00% | ~321 |
 | Breaking Ground | 20.00% | ~321 |
@@ -47,8 +47,8 @@ Rating: 4.49 (Ranked 575)
 | Settler | 13.00% | ~209 |
 | Go West | 12.00% | ~193 |
 | Bold and beautiful | 11.00% | ~177 |
-| A new Hope | 10.00% | ~160 |
-| Tycoon | 9.00% | ~144 |
+| A new Hope | 10.00% | ~161 |
+| Tycoon | 9.00% | ~145 |
 | Unstoppable | 7.00% | ~112 |
 | Track to the Future | 7.00% | ~112 |
 | Conductor | 5.00% | ~80 |
@@ -61,7 +61,7 @@ Rating: 4.49 (Ranked 575)
 | United States | 0.40% | ~6 |
 | Three Cheers for Progress | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,605 (Ranked 170)  
+Progressed: 1,606 (Ranked 170)  
 Completed: 0 (0.00%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,6 +127,7 @@ Completed: 0 (0.00%) (Ranked 237)
 | 2023-07-16 | 1,581 | 0 |
 | 2023-07-17 | 1,595 | 0 |
 | 2023-07-18 | 1,605 | 0 |
+| 2023-07-19 | 1,606 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

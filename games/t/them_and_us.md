@@ -23,8 +23,8 @@
 | Trapped | 9.00% | ~14 |
 | What A Mansion | 8.00% | ~12 |
 | Modern Player | 7.00% | ~11 |
-| Researcher | 6.00% | ~9 |
-| I Am The Gate Keeper! | 6.00% | ~9 |
+| Researcher | 7.00% | ~11 |
+| I Am The Gate Keeper! | 7.00% | ~11 |
 | This Mansion Is Clean | 4.00% | ~6 |
 | Armed To The Teeth | 3.00% | ~5 |
 | Run and Gun | 3.00% | ~5 |
