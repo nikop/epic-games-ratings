@@ -7,7 +7,7 @@
 | 5 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 27.27% |
 | 6 | [Overloop](games/o/overloop.md) | 25.00% |
 | 7 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 8 | [Volley Pals](games/v/volley_pals.md) | 22.35% |
+| 8 | [Volley Pals](games/v/volley_pals.md) | 22.09% |
 | 9 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 10 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
@@ -27,7 +27,7 @@
 | 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.66% |
 | 26 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
 | 27 | [Smelter](games/s/smelter.md) | 8.11% |
-| 28 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.75% |
+| 28 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.69% |
 | 29 | [Ravenlok](games/r/ravenlok.md) | 7.43% |
 | 30 | [Time Loader](games/t/time_loader.md) | 7.14% |
 | 31 | [Scorn](games/s/scorn.md) | 7.04% |
@@ -37,7 +37,7 @@
 | 35 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 36 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.66% |
 | 37 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
-| 38 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.01% |
+| 38 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.00% |
 | 39 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.88% |
 | 40 | [JARS](games/j/jars.md) | 4.84% |
 | 41 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.76% |
@@ -121,7 +121,7 @@
 | 119 | [Train Valley](games/t/train_valley.md) | 0.62% |
 | 120 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.59% |
 | 120 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.59% |
-| 122 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.58% |
+| 122 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.57% |
 | 123 | [Grindstone](games/g/grindstone.md) | 0.56% |
 | 124 | [Potion Permit](games/p/potion_permit.md) | 0.54% |
 | 124 | [The Surge 2](games/t/the_surge_2.md) | 0.54% |
@@ -208,12 +208,12 @@
 | 202 | [Saints Row](games/s/saints_row.md) | 0.05% |
 | 207 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
 | 207 | [High On Life](games/h/high_on_life.md) | 0.04% |
+| 207 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.04% |
 | 207 | [Old World](games/o/old_world.md) | 0.04% |
-| 210 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.03% |
-| 210 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
-| 210 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.03% |
-| 210 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.03% |
-| 210 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.03% |
+| 211 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.03% |
+| 211 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
+| 211 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.03% |
+| 211 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.03% |
 | 215 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
 | 215 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
 | 215 | [Good Company](games/g/good_company.md) | 0.02% |
