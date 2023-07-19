@@ -4,9 +4,9 @@
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 476,806 | 4.50 | 552 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 300,370 | 4.68 | 239 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 200,502 | 4.68 | 239 |
-| 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 187,008 | 4.19 | 847 |
+| 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 187,242 | 4.19 | 847 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 160,253 | 4.88 | 19 |
-| 7 | [Fall Guys](games/f/fall_guys.md) | 144,405 | 4.52 | 520 |
+| 7 | [Fall Guys](games/f/fall_guys.md) | 144,469 | 4.52 | 520 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 113,176 | 4.69 | 216 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 73,529 | 4.62 | 347 |
 | 10 | [VALORANT](games/v/valorant.md) | 61,207 | 4.53 | 508 |
@@ -63,7 +63,7 @@
 | 61 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,525 | 4.85 | 41 |
 | 62 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,489 | 4.75 | 133 |
 | 63 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 5,464 | 4.57 | 440 |
-| 64 | [Dead Island 2](games/d/dead_island_2.md) | 5,266 | 4.54 | 493 |
+| 64 | [Dead Island 2](games/d/dead_island_2.md) | 5,283 | 4.54 | 493 |
 | 65 | [Rogue Company](games/r/rogue_company.md) | 5,154 | 4.33 | 757 |
 | 66 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,043 | 4.05 | 904 |
 | 67 | [Cities: Skylines](games/c/cities__skylines.md) | 4,954 | 4.65 | 298 |
@@ -92,7 +92,7 @@
 | 90 | [Hades](games/h/hades.md) | 3,190 | 4.92 | 4 |
 | 91 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,170 | 4.57 | 440 |
 | 92 | [Trackmania](games/t/trackmania.md) | 2,993 | 4.67 | 259 |
-| 93 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 2,734 | 3.97 | 922 |
+| 93 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 2,789 | 3.97 | 922 |
 | 94 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2,652 | 4.68 | 239 |
 | 95 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,567 | 4.50 | 552 |
 | 96 | [Among Us](games/a/among_us.md) | 2,547 | 4.57 | 440 |
@@ -164,8 +164,8 @@
 | 162 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 705 | 4.86 | 29 |
 | 163 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 702 | 4.58 | 423 |
 | 164 | [Neverwinter](games/n/neverwinter.md) | 700 | 4.29 | 781 |
-| 165 | [Neon Abyss](games/n/neon_abyss.md) | 676 | 4.68 | 239 |
-| 166 | [Subnautica](games/s/subnautica.md) | 675 | 4.85 | 41 |
+| 165 | [Subnautica](games/s/subnautica.md) | 677 | 4.85 | 41 |
+| 166 | [Neon Abyss](games/n/neon_abyss.md) | 676 | 4.68 | 239 |
 | 167 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 671 | 4.60 | 390 |
 | 168 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 660 | 4.67 | 259 |
 | 169 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 653 | 4.61 | 365 |
@@ -246,8 +246,8 @@
 | 244 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 261 | 4.84 | 49 |
 | 245 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 252 | 4.58 | 423 |
 | 246 | [Crysis Remastered](games/c/crysis_remastered.md) | 248 | 4.41 | 675 |
-| 247 | [MudRunner](games/m/mudrunner.md) | 246 | 4.61 | 365 |
-| 247 | [Roller Champions™](games/r/roller_champions™.md) | 246 | 4.34 | 749 |
+| 247 | [Roller Champions™](games/r/roller_champions™.md) | 247 | 4.34 | 749 |
+| 248 | [MudRunner](games/m/mudrunner.md) | 246 | 4.61 | 365 |
 | 249 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 243 | 4.49 | 574 |
 | 250 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 236 | 4.45 | 624 |
 | 251 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 234 | 4.84 | 49 |
@@ -263,9 +263,9 @@
 | 260 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 217 | 4.60 | 390 |
 | 262 | [Brawlhalla](games/b/brawlhalla.md) | 216 | 4.61 | 365 |
 | 263 | [Crying Suns](games/c/crying_suns.md) | 214 | 4.50 | 552 |
+| 263 | [shapez](games/s/shapez.md) | 214 | 4.71 | 183 |
 | 263 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 214 | 4.59 | 413 |
-| 265 | [shapez](games/s/shapez.md) | 209 | 4.71 | 183 |
-| 265 | [Sunless Sea](games/s/sunless_sea.md) | 209 | 4.58 | 423 |
+| 266 | [Sunless Sea](games/s/sunless_sea.md) | 209 | 4.58 | 423 |
 | 267 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 204 | 4.43 | 655 |
 | 268 | [Stranded Deep](games/s/stranded_deep.md) | 203 | 4.22 | 831 |
 | 269 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 202 | 4.35 | 740 |
