@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57515,
+  "EOS_Progressed": 57517,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 295,
+  "EOS_NewPlayers": 296,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8317,6 +8317,11 @@
       "Time": "2023-07-18T23:04:33.1498196+00:00",
       "NumProgressed": 57515,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-07-19T00:03:17.2758886+00:00",
+      "NumProgressed": 57517,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 67,
@@ -8328,7 +8333,7 @@
       "Name": "Follow the Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 19555
+      "UsersEstimate": 19556
     },
     {
       "ID": "02",
@@ -8336,7 +8341,7 @@
       "Name": "Nordic Walking",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 12078
+      "UsersEstimate": 12079
     },
     {
       "ID": "03",
@@ -8344,7 +8349,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 12078
+      "UsersEstimate": 12079
     },
     {
       "ID": "04",
@@ -8368,7 +8373,7 @@
       "Name": "Park Ranger",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 8627
+      "UsersEstimate": 8628
     },
     {
       "ID": "07",
@@ -8432,7 +8437,7 @@
       "Name": "Gatekeeper",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5176
+      "UsersEstimate": 5177
     },
     {
       "ID": "15",
@@ -8440,7 +8445,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5176
+      "UsersEstimate": 5177
     },
     {
       "ID": "16",
@@ -8560,7 +8565,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5176
+      "UsersEstimate": 5177
     },
     {
       "ID": "31",
@@ -8592,7 +8597,7 @@
       "Name": "Energized!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5176
+      "UsersEstimate": 5177
     },
     {
       "ID": "35",
@@ -8600,7 +8605,7 @@
       "Name": "Let There Be Light",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 16104
+      "UsersEstimate": 16105
     },
     {
       "ID": "36",
@@ -8664,7 +8669,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8627
+      "UsersEstimate": 8628
     },
     {
       "ID": "44",
@@ -8800,7 +8805,7 @@
       "Name": "Kill Your Darlings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "61",
@@ -8856,28 +8861,28 @@
       "Name": "Heartbreaker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     }
   ],
   "AchievementSets": [
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57515,
+      "Progressed": 57517,
       "Completed": 58
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20983,
+      "Progressed": 20985,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-18T23:04:33.1498188+00:00",
+  "LastChanged_Achievements": "2023-07-19T00:03:17.2758878+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:10.5196415+00:00",
-  "LastUpdate_Ratings": "2023-07-18T22:58:46.1915214+00:00",
-  "LastUpdate_Achievements": "2023-07-18T23:04:33.1499534+00:00"
+  "LastUpdate_Ratings": "2023-07-18T23:58:01.3744156+00:00",
+  "LastUpdate_Achievements": "2023-07-19T00:03:17.2760378+00:00"
 }

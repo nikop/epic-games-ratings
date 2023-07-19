@@ -3004,9 +3004,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 456627,
+  "EOS_Progressed": 456630,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 11088,
+  "EOS_NewPlayers": 11040,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12729,6 +12729,11 @@
       "Time": "2023-07-18T23:08:56.6399906+00:00",
       "NumProgressed": 456627,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-19T00:06:33.477916+00:00",
+      "NumProgressed": 456630,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 37,
@@ -12756,7 +12761,7 @@
       "Name": "Marksman Expert",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 41096
+      "UsersEstimate": 41097
     },
     {
       "ID": "12",
@@ -12764,7 +12769,7 @@
       "Name": "Marksman Novice",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 86759
+      "UsersEstimate": 86760
     },
     {
       "ID": "13",
@@ -12812,7 +12817,7 @@
       "Name": "Devil Inside Me",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 136988
+      "UsersEstimate": 136989
     },
     {
       "ID": "19",
@@ -12820,7 +12825,7 @@
       "Name": "Blood on My Hands",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 356169
+      "UsersEstimate": 356171
     },
     {
       "ID": "2",
@@ -12900,7 +12905,7 @@
       "Name": "Now You See Me, Now You Don\u0027t",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 54795
+      "UsersEstimate": 54796
     },
     {
       "ID": "29",
@@ -12932,7 +12937,7 @@
       "Name": "Guardian Angel",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 178085
+      "UsersEstimate": 178086
     },
     {
       "ID": "32",
@@ -12964,7 +12969,7 @@
       "Name": "You Complete Me",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 191783
+      "UsersEstimate": 191785
     },
     {
       "ID": "36",
@@ -12980,7 +12985,7 @@
       "Name": "Health Junkie",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 205482
+      "UsersEstimate": 205484
     },
     {
       "ID": "4",
@@ -12988,7 +12993,7 @@
       "Name": "Fantastic Four",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 100458
+      "UsersEstimate": 100459
     },
     {
       "ID": "5",
@@ -13035,7 +13040,7 @@
     {
       "ID": "7ko8h8f",
       "IsBase": true,
-      "Progressed": 456627,
+      "Progressed": 456630,
       "Completed": 10
     }
   ],
@@ -13043,8 +13048,8 @@
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00",
   "LastChanged": "2023-07-18T19:59:04.5253025+00:00",
-  "LastChanged_Achievements": "2023-07-18T23:08:56.63999+00:00",
+  "LastChanged_Achievements": "2023-07-19T00:06:33.4779153+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:31.3776571+00:00",
-  "LastUpdate_Ratings": "2023-07-18T23:00:13.7697143+00:00",
-  "LastUpdate_Achievements": "2023-07-18T23:08:56.6401366+00:00"
+  "LastUpdate_Ratings": "2023-07-18T23:58:58.603768+00:00",
+  "LastUpdate_Achievements": "2023-07-19T00:06:33.4780335+00:00"
 }

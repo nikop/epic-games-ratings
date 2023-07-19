@@ -4,7 +4,7 @@
   "ProductSlug": "coryphaeus-championships-216f4a",
   "Ranking_EOS_Progress": 497,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-02T14:01:03.0189024+00:00",
-  "LastChanged_Achievements": "2023-07-18T23:06:07.2339685+00:00",
+  "LastChanged_Achievements": "2023-07-19T00:04:33.3554871+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:07.7156888+00:00",
-  "LastUpdate_Ratings": "2023-07-18T22:58:02.5164922+00:00",
-  "LastUpdate_Achievements": "2023-07-18T23:06:07.2339719+00:00"
+  "LastUpdate_Ratings": "2023-07-18T23:57:35.1209929+00:00",
+  "LastUpdate_Achievements": "2023-07-19T00:04:33.3554907+00:00"
 }

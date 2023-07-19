@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 48,
+  "Ranking_EOS_NewPlayers": 49,
   "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -5092,10 +5092,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 39446,
       "NumberOfAwardsMax": 21074
+    },
+    {
+      "Time": "2023-07-18T23:57:45.426645+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 39451,
+      "NumberOfAwardsMax": 21074
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 39446,
+  "NumberOfAwards": 39451,
   "NumberOfAwardsMax": 21074,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5139,7 +5145,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 883
+      "Count": 886
     },
     {
       "Text": "This game is Relaxing",
@@ -5151,7 +5157,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 836
+      "Count": 838
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5172,9 +5178,9 @@
       "Count": 560
     }
   ],
-  "EOS_Progressed": 287982,
+  "EOS_Progressed": 287985,
   "EOS_Completed": 430,
-  "EOS_NewPlayers": 1131,
+  "EOS_NewPlayers": 1121,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -14757,6 +14763,11 @@
       "Time": "2023-07-18T23:05:33.2404367+00:00",
       "NumProgressed": 287982,
       "NumCompleted": 430
+    },
+    {
+      "Time": "2023-07-19T00:03:59.3792028+00:00",
+      "NumProgressed": 287985,
+      "NumCompleted": 430
     }
   ],
   "TotalAchievements": 45,
@@ -14856,7 +14867,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8639
+      "UsersEstimate": 8640
     },
     {
       "ID": "PFA_20",
@@ -14888,7 +14899,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 25918
+      "UsersEstimate": 25919
     },
     {
       "ID": "PFA_24",
@@ -14920,7 +14931,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8639
+      "UsersEstimate": 8640
     },
     {
       "ID": "PFA_28",
@@ -14952,7 +14963,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 25918
+      "UsersEstimate": 25919
     },
     {
       "ID": "PFA_31",
@@ -14968,7 +14979,7 @@
       "Name": "Room with a View",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8639
+      "UsersEstimate": 8640
     },
     {
       "ID": "PFA_33",
@@ -15016,7 +15027,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 8639
+      "UsersEstimate": 8640
     },
     {
       "ID": "PFA_39",
@@ -15032,7 +15043,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8639
+      "UsersEstimate": 8640
     },
     {
       "ID": "PFA_40",
@@ -15088,7 +15099,7 @@
       "Name": "The Wise Owl",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8639
+      "UsersEstimate": 8640
     },
     {
       "ID": "PFA_6",
@@ -15112,7 +15123,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 25918
+      "UsersEstimate": 25919
     },
     {
       "ID": "PFA_9",
@@ -15127,16 +15138,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 287982,
+      "Progressed": 287985,
       "Completed": 430
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-07-18T20:58:03.6993333+00:00",
-  "LastChanged_Achievements": "2023-07-18T23:05:33.2404362+00:00",
+  "LastChanged": "2023-07-18T23:57:45.4266448+00:00",
+  "LastChanged_Achievements": "2023-07-19T00:03:59.3792022+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:19.3801839+00:00",
-  "LastUpdate_Ratings": "2023-07-18T22:58:19.8809707+00:00",
-  "LastUpdate_Achievements": "2023-07-18T23:05:33.2405605+00:00"
+  "LastUpdate_Ratings": "2023-07-18T23:57:45.4266456+00:00",
+  "LastUpdate_Achievements": "2023-07-19T00:03:59.379395+00:00"
 }

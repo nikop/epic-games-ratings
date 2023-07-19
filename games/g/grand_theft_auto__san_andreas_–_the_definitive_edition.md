@@ -36,7 +36,7 @@ Rating: 4.56 (Ranked 457)
 | Lucky Spinner | 1.00% | ~111 |
 | Assassin | 1.00% | ~111 |
 | Chick Magnet | 1.00% | ~111 |
-| Not a Player | 0.70% | ~78 |
+| Not a Player | 0.80% | ~89 |
 | Remastered | 0.60% | ~67 |
 | ...Here we go again | 0.40% | ~44 |
 | I Ain't No Buster | 0.30% | ~33 |

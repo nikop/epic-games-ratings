@@ -4,7 +4,7 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 128,
+  "EOS_Progressed": 129,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 7.81,
+  "EOS_Completed_Percentage": 7.75,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -481,6 +481,11 @@
       "Time": "2023-07-18T21:05:52.106421+00:00",
       "NumProgressed": 128,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-19T00:04:59.3587214+00:00",
+      "NumProgressed": 129,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 16,
@@ -500,7 +505,7 @@
       "Name": "Duck invasion",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -524,7 +529,7 @@
       "Name": "That\u0027s all, ducks!",
       "Percentage": 16,
       "XP": 160,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
@@ -556,7 +561,7 @@
       "Name": "Family pond",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -586,9 +591,9 @@
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "8d3ci0",
       "Name": "Private pool",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 68
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -596,7 +601,7 @@
       "Name": "Abducktion",
       "Percentage": 19,
       "XP": 95,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -604,7 +609,7 @@
       "Name": "On fire",
       "Percentage": 23,
       "XP": 60,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -612,21 +617,21 @@
       "Name": "Watery help",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     }
   ],
   "AchievementSets": [
     {
       "ID": "8d3ci0",
       "IsBase": true,
-      "Progressed": 128,
+      "Progressed": 129,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-18T23:06:44.4062053+00:00",
+  "LastChanged_Achievements": "2023-07-19T00:04:59.3587209+00:00",
   "LastUpdate_AppInfo": "2023-07-15T11:57:13.4695515+00:00",
-  "LastUpdate_Ratings": "2023-07-18T22:57:25.3676203+00:00",
-  "LastUpdate_Achievements": "2023-07-18T23:06:44.4062226+00:00"
+  "LastUpdate_Ratings": "2023-07-18T23:57:13.1784885+00:00",
+  "LastUpdate_Achievements": "2023-07-19T00:04:59.3587389+00:00"
 }

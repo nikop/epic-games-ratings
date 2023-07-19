@@ -208,9 +208,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 226412,
+  "EOS_Progressed": 226414,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 438,
+  "EOS_NewPlayers": 437,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9498,6 +9498,11 @@
       "Time": "2023-07-18T22:05:28.6002015+00:00",
       "NumProgressed": 226412,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-19T00:04:33.7874934+00:00",
+      "NumProgressed": 226414,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -9573,7 +9578,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 81508
+      "UsersEstimate": 81509
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -9653,7 +9658,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 76980
+      "UsersEstimate": 76981
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -9709,7 +9714,7 @@
       "Name": "Makin\u0027 Bacon",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 9056
+      "UsersEstimate": 9057
     },
     {
       "ID": "WIN_1_ONLINE_MATCH",
@@ -9732,7 +9737,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 226412,
+      "Progressed": 226414,
       "Completed": 3
     }
   ],
@@ -9740,8 +9745,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-07-04T22:59:46.8695793+00:00",
-  "LastChanged_Achievements": "2023-07-18T23:06:07.90735+00:00",
+  "LastChanged_Achievements": "2023-07-19T00:04:33.7874928+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:49.1676235+00:00",
-  "LastUpdate_Ratings": "2023-07-18T23:02:09.0927913+00:00",
-  "LastUpdate_Achievements": "2023-07-18T23:06:07.9074406+00:00"
+  "LastUpdate_Ratings": "2023-07-19T00:00:16.2461385+00:00",
+  "LastUpdate_Achievements": "2023-07-19T00:04:33.7876367+00:00"
 }

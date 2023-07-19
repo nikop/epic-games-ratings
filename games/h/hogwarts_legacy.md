@@ -8,9 +8,9 @@ Rating: 4.77 (Ranked 109)
 | The Sort Who Makes an Entrance | 12.00% | ~34,558 |
 | First Class Student | 10.00% | ~28,798 |
 | Troll with the Punches | 10.00% | ~28,798 |
-| A Keen Sense of Spell | 9.00% | ~25,918 |
-| A Talent for Spending | 9.00% | ~25,918 |
-| That's a Keeper | 9.00% | ~25,918 |
+| A Keen Sense of Spell | 9.00% | ~25,919 |
+| A Talent for Spending | 9.00% | ~25,919 |
+| That's a Keeper | 9.00% | ~25,919 |
 | Grappling with a Graphorn | 8.00% | ~23,039 |
 | The One Who Mastered Memories | 8.00% | ~23,039 |
 | The Hallowed Hero | 8.00% | ~23,039 |
@@ -31,12 +31,12 @@ Rating: 4.77 (Ranked 109)
 | Third Time's a Charm | 5.00% | ~14,399 |
 | Raising Expectations | 5.00% | ~14,399 |
 | The Ends Petrify the Means | 4.00% | ~11,519 |
-| The Toast of the Town | 3.00% | ~8,639 |
-| Going Through the Potions | 3.00% | ~8,639 |
-| Room with a View | 3.00% | ~8,639 |
-| The Intrepid Explorer | 3.00% | ~8,639 |
-| The Gryffindor in the Graveyard | 3.00% | ~8,639 |
-| The Wise Owl | 3.00% | ~8,639 |
+| The Toast of the Town | 3.00% | ~8,640 |
+| Going Through the Potions | 3.00% | ~8,640 |
+| Room with a View | 3.00% | ~8,640 |
+| The Intrepid Explorer | 3.00% | ~8,640 |
+| The Gryffindor in the Graveyard | 3.00% | ~8,640 |
+| The Wise Owl | 3.00% | ~8,640 |
 | The Good Samaritan | 2.00% | ~5,760 |
 | Put Down Roots | 2.00% | ~5,760 |
 | The Auror's Apprentice | 2.00% | ~5,760 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.50% | ~1,440 |
 | Collector's Edition | 0.20% | ~576 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 287,982 (Ranked 41)  
+Progressed: 287,985 (Ranked 41)  
 Completed: 430 (0.15%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,9 +141,10 @@ Completed: 430 (0.15%) (Ranked 174)
 | 2023-07-16 | 287,788 | 429 |
 | 2023-07-17 | 287,899 | 430 |
 | 2023-07-18 | 287,982 | 430 |
+| 2023-07-19 | 287,985 | 430 |
 ## Awards
 Max (Character Customization): 21,074  (Ranked 17)  
-Sum: 39,446 (Ranked 30)  
+Sum: 39,451 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -152,10 +153,10 @@ Diff (max vs sum): -13
 | This game is Great for Beginners | 924 |
 | This game is Extremely Fun | 894 |
 | This game is Relaxing | 887 |
-| This game has Diverse Characters | 883 |
+| This game has Diverse Characters | 886 |
 | This game has Amazing Storytelling | 883 |
 | This game has Amazing Characters | 862 |
-| This game is Highly Recommended | 836 |
+| This game is Highly Recommended | 838 |
 | This game has Quickly Understood Controls | 795 |
 | This game has Beautiful Visuals | 740 |
 | This game has a Creative Community | 560 |
@@ -278,4 +279,4 @@ Diff (max vs sum): -13
 | 2023-07-15 | 4.77 | 20,971 | 39,239 |
 | 2023-07-16 | 4.77 | 21,005 | 39,322 |
 | 2023-07-17 | 4.77 | 21,042 | 39,387 |
-| 2023-07-18 | 4.77 | 21,074 | 39,446 |
+| 2023-07-18 | 4.77 | 21,074 | 39,451 |

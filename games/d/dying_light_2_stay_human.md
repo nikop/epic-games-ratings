@@ -6,21 +6,21 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~65,676 |
-| Into the Unknown | 10.00% | ~59,705 |
-| First Shot | 10.00% | ~59,705 |
-| Herzlich Wilkommen! | 9.00% | ~53,735 |
-| Good Night & Good Luck | 9.00% | ~53,735 |
-| Sancho Panza | 8.00% | ~47,764 |
+| You Never Forget Your First... | 11.00% | ~65,677 |
+| Into the Unknown | 10.00% | ~59,706 |
+| First Shot | 10.00% | ~59,706 |
+| Herzlich Wilkommen! | 9.00% | ~53,736 |
+| Good Night & Good Luck | 9.00% | ~53,736 |
+| Sancho Panza | 8.00% | ~47,765 |
 | Under Pressure | 7.00% | ~41,794 |
 | On the Trail of the Enemy | 7.00% | ~41,794 |
 | Flag Burning | 7.00% | ~41,794 |
 | Oh, So This Is How It Works! | 7.00% | ~41,794 |
 | Night Hunter | 7.00% | ~41,794 |
-| Light in the Darkness | 6.00% | ~35,823 |
-| Get Outta My House! | 6.00% | ~35,823 |
-| It Wasn't That Hard, Was It? | 6.00% | ~35,823 |
-| Being All Social | 6.00% | ~35,823 |
+| Light in the Darkness | 6.00% | ~35,824 |
+| Get Outta My House! | 6.00% | ~35,824 |
+| It Wasn't That Hard, Was It? | 6.00% | ~35,824 |
+| Being All Social | 6.00% | ~35,824 |
 | Debris and Ashes | 5.00% | ~29,853 |
 | We Will Be Heard! | 5.00% | ~29,853 |
 | Known Associate | 5.00% | ~29,853 |
@@ -28,12 +28,12 @@ Number of Ratings: 7,305  (23.09.2022)
 | Tunnel Entrance | 5.00% | ~29,853 |
 | After the Fall | 5.00% | ~29,853 |
 | Can't Touch This! | 5.00% | ~29,853 |
-| Going Down | 4.00% | ~23,882 |
-| Family First | 4.00% | ~23,882 |
-| Your World, Your Rules | 4.00% | ~23,882 |
-| Death From Afar | 4.00% | ~23,882 |
-| Terminal Headache | 4.00% | ~23,882 |
-| Slowpoke! | 4.00% | ~23,882 |
+| Going Down | 4.00% | ~23,883 |
+| Family First | 4.00% | ~23,883 |
+| Your World, Your Rules | 4.00% | ~23,883 |
+| Death From Afar | 4.00% | ~23,883 |
+| Terminal Headache | 4.00% | ~23,883 |
+| Slowpoke! | 4.00% | ~23,883 |
 | Tickets, Please! | 3.00% | ~17,912 |
 | You're Going Down! | 3.00% | ~17,912 |
 | Municipal Services | 2.00% | ~11,941 |
@@ -49,14 +49,14 @@ Number of Ratings: 7,305  (23.09.2022)
 | Ironheart | 1.00% | ~5,971 |
 | Nemesis | 1.00% | ~2,425 |
 | Enter the Hall | 1.00% | ~2,425 |
-| Find Anything Interesting? | 0.90% | ~5,373 |
-| Boot Licker | 0.90% | ~5,373 |
-| Who Wants To Be a... | 0.90% | ~5,373 |
+| Find Anything Interesting? | 0.90% | ~5,374 |
+| Boot Licker | 0.90% | ~5,374 |
+| Who Wants To Be a... | 0.90% | ~5,374 |
 | Night of Terrors | 0.80% | ~1,940 |
 | Revenants | 0.70% | ~4,179 |
 | Get the Point? | 0.70% | ~4,179 |
-| My Friend, Ciro | 0.70% | ~1,697 |
-| Skullcrusher | 0.70% | ~1,697 |
+| My Friend, Ciro | 0.70% | ~1,698 |
+| Skullcrusher | 0.70% | ~1,698 |
 | Tanning Salon | 0.60% | ~3,582 |
 | Lightning Reflexes | 0.40% | ~2,388 |
 | A Friend in Need... | 0.30% | ~1,791 |
@@ -68,11 +68,11 @@ Number of Ratings: 7,305  (23.09.2022)
 | Archivist | 0.10% | ~597 |
 | Audiophile | 0.10% | ~597 |
 | Street Art Aficionado | 0.10% | ~597 |
-| The Madman of Villedor | 0.10% | ~242 |
-| True Champion | 0.10% | ~242 |
-| Connoisseur | 0.10% | ~242 |
+| The Madman of Villedor | 0.10% | ~243 |
+| True Champion | 0.10% | ~243 |
+| Connoisseur | 0.10% | ~243 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 597,054 (Ranked 25)  
+Progressed: 597,064 (Ranked 25)  
 Completed: 60 (0.01%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,6 +162,7 @@ Completed: 60 (0.01%) (Ranked 224)
 | 2023-07-16 | 596,038 | 59 |
 | 2023-07-17 | 596,555 | 60 |
 | 2023-07-18 | 597,054 | 60 |
+| 2023-07-19 | 597,064 | 60 |
 ## Awards
 Max (Character Customization): 8,449  (Ranked 39)  
 Sum: 20,007 (Ranked 55)  

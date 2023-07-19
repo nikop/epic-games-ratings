@@ -5086,9 +5086,9 @@
       "Count": 3304
     }
   ],
-  "EOS_Progressed": 213209,
+  "EOS_Progressed": 213216,
   "EOS_Completed": 2058,
-  "EOS_NewPlayers": 2926,
+  "EOS_NewPlayers": 2916,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -14646,6 +14646,11 @@
       "Time": "2023-07-18T23:08:18.3446835+00:00",
       "NumProgressed": 213209,
       "NumCompleted": 2058
+    },
+    {
+      "Time": "2023-07-19T00:05:57.2456933+00:00",
+      "NumProgressed": 213216,
+      "NumCompleted": 2058
     }
   ],
   "TotalAchievements": 512,
@@ -17023,9 +17028,9 @@
       "ID": "objective_completed_571",
       "SetID": "cc37lbc",
       "Name": "Troublesome Prisoner",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 213
     },
     {
       "ID": "objective_completed_572",
@@ -17087,9 +17092,9 @@
       "ID": "objective_completed_581",
       "SetID": "cc37lbc",
       "Name": "Vault of Pixies",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 213
     },
     {
       "ID": "objective_completed_582",
@@ -17487,9 +17492,9 @@
       "ID": "objective_completed_640",
       "SetID": "415jc5c",
       "Name": "The Path of Dreams",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 179
     },
     {
       "ID": "objective_completed_641",
@@ -17591,9 +17596,9 @@
       "ID": "objective_completed_661",
       "SetID": "415jc5c",
       "Name": "Madcap Adventures Redux",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 179
     },
     {
       "ID": "objective_completed_662",
@@ -17791,9 +17796,9 @@
       "ID": "objective_completed_698",
       "SetID": "415jc5c",
       "Name": "Only Human",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 179
     },
     {
       "ID": "objective_completed_7",
@@ -17935,9 +17940,9 @@
       "ID": "objective_completed_809",
       "SetID": "415jc5c",
       "Name": "The Taunting Lord",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 179
     },
     {
       "ID": "objective_completed_81",
@@ -18199,9 +18204,9 @@
       "ID": "objective_completed_858",
       "SetID": "415jc5c",
       "Name": "Dive Bomb",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 179
     },
     {
       "ID": "objective_completed_859",
@@ -18255,9 +18260,9 @@
       "ID": "objective_completed_869",
       "SetID": "415jc5c",
       "Name": "The Stunning Tower Battle",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 179
     },
     {
       "ID": "objective_completed_872",
@@ -18383,9 +18388,9 @@
       "ID": "objective_completed_898",
       "SetID": "415jc5c",
       "Name": "Mysteries Unlocked",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 179
     },
     {
       "ID": "objective_completed_899",
@@ -18519,9 +18524,9 @@
       "ID": "objective_completed_935",
       "SetID": "415jc5c",
       "Name": "The Archaeologist and the Sailor",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 179
     },
     {
       "ID": "objective_completed_94",
@@ -18535,17 +18540,17 @@
       "ID": "objective_completed_95",
       "SetID": "cc37lbc",
       "Name": "The Haunted Jungle",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 213
     },
     {
       "ID": "objective_completed_96",
       "SetID": "cc37lbc",
       "Name": "Poor Guidance",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 213
     },
     {
       "ID": "objective_completed_97",
@@ -18752,21 +18757,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 179483,
+      "Progressed": 179490,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 213209,
+      "Progressed": 213216,
       "Completed": 2058
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-18T20:58:54.039387+00:00",
-  "LastChanged_Achievements": "2023-07-18T23:08:18.3446829+00:00",
+  "LastChanged_Achievements": "2023-07-19T00:05:57.2456928+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:48.5227447+00:00",
-  "LastUpdate_Ratings": "2023-07-18T22:59:27.7521436+00:00",
-  "LastUpdate_Achievements": "2023-07-18T23:08:18.3475188+00:00"
+  "LastUpdate_Ratings": "2023-07-18T23:58:25.8129982+00:00",
+  "LastUpdate_Achievements": "2023-07-19T00:05:57.2512235+00:00"
 }

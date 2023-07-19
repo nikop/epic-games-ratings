@@ -284,9 +284,9 @@
       "Count": 186
     }
   ],
-  "EOS_Progressed": 425806,
+  "EOS_Progressed": 425812,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 1781,
+  "EOS_NewPlayers": 1782,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9964,6 +9964,11 @@
       "Time": "2023-07-18T23:04:32.1389293+00:00",
       "NumProgressed": 425806,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-07-19T00:03:16.5816378+00:00",
+      "NumProgressed": 425812,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 52,
@@ -9983,7 +9988,7 @@
       "Name": "100 KILLS",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 59613
+      "UsersEstimate": 59614
     },
     {
       "ID": "200_HEADSHOTS HEADSHOTS (0-200)",
@@ -9991,7 +9996,7 @@
       "Name": "200 HEADSHOTS",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 34064
+      "UsersEstimate": 34065
     },
     {
       "ID": "50_HEADSHOTS HEADSHOTS (0-50)",
@@ -9999,7 +10004,7 @@
       "Name": "50 HEADSHOTS",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 55355
+      "UsersEstimate": 55356
     },
     {
       "ID": "BIGUPS",
@@ -10047,7 +10052,7 @@
       "Name": "FINISHED CHAPTER 2",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 29806
+      "UsersEstimate": 29807
     },
     {
       "ID": "CHAPTER3",
@@ -10055,7 +10060,7 @@
       "Name": "FINISHED CHAPTER 3",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 25548
+      "UsersEstimate": 25549
     },
     {
       "ID": "CHAPTER4",
@@ -10063,7 +10068,7 @@
       "Name": "FINISHED CHAPTER 4",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 25548
+      "UsersEstimate": 25549
     },
     {
       "ID": "CHAPTER5",
@@ -10071,7 +10076,7 @@
       "Name": "FINISH CHAPTER 5",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 21290
+      "UsersEstimate": 21291
     },
     {
       "ID": "CHAPTER6",
@@ -10103,7 +10108,7 @@
       "Name": "CATHARTIC ESCAPISM",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 21290
+      "UsersEstimate": 21291
     },
     {
       "ID": "FIREFIGHT10 LEVEL (0-10)",
@@ -10390,7 +10395,7 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 425806,
+      "Progressed": 425812,
       "Completed": 38
     }
   ],
@@ -10398,8 +10403,8 @@
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "LastChanged": "2023-07-18T09:01:23.8167316+00:00",
-  "LastChanged_Achievements": "2023-07-18T23:04:32.1389288+00:00",
+  "LastChanged_Achievements": "2023-07-19T00:03:16.5816373+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:28.1107898+00:00",
-  "LastUpdate_Ratings": "2023-07-18T23:01:36.491153+00:00",
-  "LastUpdate_Achievements": "2023-07-18T23:04:32.1390482+00:00"
+  "LastUpdate_Ratings": "2023-07-18T23:59:54.9822091+00:00",
+  "LastUpdate_Achievements": "2023-07-19T00:03:16.5817567+00:00"
 }

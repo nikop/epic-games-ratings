@@ -6,12 +6,14 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Troublesome Prisoner | 0.10% | ~213 |
 | Dark Doppelgangers | 0.10% | ~213 |
 | Difficult Terrain | 0.10% | ~213 |
 | Cold & Wet | 0.10% | ~213 |
 | Madcap Adventures | 0.10% | ~213 |
 | Faerûn's Most Neglected | 0.10% | ~179 |
 | Vault of Dragons | 0.10% | ~213 |
+| Vault of Pixies | 0.10% | ~213 |
 | Vault of Poison | 0.10% | ~213 |
 | Vault of Cuteness | 0.10% | ~179 |
 | Champions of Waterdeep | 0.10% | ~213 |
@@ -55,6 +57,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dream Gauntlet | 0.10% | ~179 |
 | Zombie Dreams | 0.10% | ~179 |
 | Look Out! | 0.10% | ~179 |
+| The Path of Dreams | 0.10% | ~179 |
 | The Path of Redcaps | 0.10% | ~179 |
 | The Path of Trials | 0.10% | ~179 |
 | Bad Odds in Avernus | 0.10% | ~179 |
@@ -66,6 +69,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Gargoyle | 0.10% | ~179 |
 | Ulkoria's Escape from Alterdeep | 0.10% | ~179 |
 | The Wandering Emporium | 0.10% | ~179 |
+| Madcap Adventures Redux | 0.10% | ~179 |
 | Tiamat's Army | 0.10% | ~179 |
 | Fight Dragons with Dragons | 0.10% | ~179 |
 | Questlines | 0.10% | ~179 |
@@ -87,6 +91,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Everlasting Rime | 0.10% | ~179 |
 | Enemy Summit | 0.10% | ~179 |
 | Mirage Arcane | 0.10% | ~179 |
+| Only Human | 0.10% | ~179 |
 | The Mad Wizard | 0.10% | ~213 |
 | Close Escort | 0.10% | ~213 |
 | Constant Banditry | 0.10% | ~213 |
@@ -102,6 +107,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Awakened Axe | 0.10% | ~179 |
 | Civilization | 0.10% | ~179 |
 | Trench Coat Run | 0.10% | ~179 |
+| The Taunting Lord | 0.10% | ~179 |
 | Durable Deep | 0.10% | ~213 |
 | Lone Wolf Party | 0.10% | ~179 |
 | The Sibriex | 0.10% | ~179 |
@@ -126,12 +132,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Witty Riposting | 0.10% | ~179 |
 | Waiting on Sunrise | 0.10% | ~179 |
 | Deekin's Mission | 0.10% | ~179 |
+| Dive Bomb | 0.10% | ~179 |
 | Fire and Ice | 0.10% | ~179 |
 | Frozen Vengeance | 0.10% | ~179 |
 | Mimic Vengeance | 0.10% | ~179 |
 | REALLY Frozen Vengeance | 0.10% | ~179 |
 | The Battle of High Hall Tower | 0.10% | ~179 |
 | Might Makes Right | 0.10% | ~179 |
+| The Stunning Tower Battle | 0.10% | ~179 |
 | Elturel's Last Stand | 0.10% | ~179 |
 | Gargauth's Betrayal | 0.10% | ~179 |
 | Lost in the Underdark | 0.10% | ~179 |
@@ -143,6 +151,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ambitious Speakers - Part 2 | 0.10% | ~179 |
 | Shady Sidekicks - Part 2 | 0.10% | ~179 |
 | Reghed Glacier Mysteries | 0.10% | ~179 |
+| Mysteries Unlocked | 0.10% | ~179 |
 | Male Pattern Boldness | 0.10% | ~179 |
 | Pure Energy | 0.10% | ~213 |
 | Tekeli-li's Hunt | 0.10% | ~179 |
@@ -154,7 +163,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Icewind Dale Reunion | 0.10% | ~179 |
 | The Netherese Necropolis | 0.10% | ~179 |
 | Ineffectual Intellectuals | 0.10% | ~179 |
+| The Archaeologist and the Sailor | 0.10% | ~179 |
 | The Templar's Camp | 0.10% | ~213 |
+| The Haunted Jungle | 0.10% | ~213 |
+| Poor Guidance | 0.10% | ~213 |
 | Overwhelming Force | 0.10% | ~213 |
 | Rescue in the Jungle | 0.10% | ~213 |
 | A Brief Tour of the Realms | 0.00% | ~0 |
@@ -453,25 +465,19 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Tallest of Kobolds | 0.00% | ~0 |
 | Patience is Key | 0.00% | ~0 |
 | The Darkness Runs Deeper | 0.00% | ~0 |
-| Troublesome Prisoner | 0.00% | ~0 |
 | Faerûn's Most Wanted | 0.00% | ~0 |
-| Vault of Pixies | 0.00% | ~0 |
 | Everything is Awful | 0.00% | ~0 |
 | Hailstorm! | 0.00% | ~0 |
 | Shadow Stalkers | 0.00% | ~0 |
 | Avernus Frozen Over | 0.00% | ~0 |
 | Thrice More Into The Breach | 0.00% | ~0 |
 | A Difficult Descent | 0.00% | ~0 |
-| The Path of Dreams | 0.00% | ~0 |
 | The Lost Hollyphant | 0.00% | ~0 |
-| Madcap Adventures Redux | 0.00% | ~0 |
 | When the Going Gets Tough | 0.00% | ~0 |
 | Show of Strength | 0.00% | ~0 |
 | Prisoners of Lolth | 0.00% | ~0 |
-| Only Human | 0.00% | ~0 |
 | CONtagious Cold | 0.00% | ~0 |
 | Ten in Ten-Towns | 0.00% | ~0 |
-| The Taunting Lord | 0.00% | ~0 |
 | Rickety Rubble | 0.00% | ~0 |
 | Hats off to you! | 0.00% | ~0 |
 | It's Cold Out There Every Day | 0.00% | ~0 |
@@ -480,21 +486,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | Frontline Fighters | 0.00% | ~0 |
 | A Chilling Encounter | 0.00% | ~0 |
 | How Far Away is Thay | 0.00% | ~0 |
-| Dive Bomb | 0.00% | ~0 |
-| The Stunning Tower Battle | 0.00% | ~0 |
 | Demons Here, Demons There | 0.00% | ~0 |
 | Stragglers | 0.00% | ~0 |
 | Volo's Guide to Kuo-toa | 0.00% | ~0 |
 | Shady Sidekicks - Part 1 | 0.00% | ~0 |
-| Mysteries Unlocked | 0.00% | ~0 |
 | Working for the Weak End | 0.00% | ~0 |
 | Fungal Excitation | 0.00% | ~0 |
 | Crimson Perception | 0.00% | ~0 |
 | Watchful Eyes | 0.00% | ~0 |
 | Maroon Madness | 0.00% | ~0 |
-| The Archaeologist and the Sailor | 0.00% | ~0 |
-| The Haunted Jungle | 0.00% | ~0 |
-| Poor Guidance | 0.00% | ~0 |
 | The Court of Storms | 0.00% | ~0 |
 | Coasting to the Finish | 0.00% | ~0 |
 | Beware the Jabberwock | 0.00% | ~0 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.00% | ~0 |
 | Animated Giff | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213,209 (Ranked 53)  
+Progressed: 213,216 (Ranked 53)  
 Completed: 2,058 (0.97%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -609,6 +609,7 @@ Completed: 2,058 (0.97%) (Ranked 103)
 | 2023-07-16 | 212,501 | 2,055 |
 | 2023-07-17 | 212,861 | 2,057 |
 | 2023-07-18 | 213,209 | 2,058 |
+| 2023-07-19 | 213,216 | 2,058 |
 ## Awards
 Max (Diverse Characters): 5,041  (Ranked 66)  
 Sum: 30,573 (Ranked 38)  

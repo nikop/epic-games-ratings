@@ -6,24 +6,24 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~438,257 |
-| The Three | 64.00% | ~337,933 |
-| The Banquet | 40.00% | ~211,208 |
-| Devara's Light | 30.00% | ~158,406 |
+| Find Sanctuary | 83.00% | ~438,259 |
+| The Three | 64.00% | ~337,935 |
+| The Banquet | 40.00% | ~211,209 |
+| Devara's Light | 30.00% | ~158,407 |
 | The Iron Ones | 18.00% | ~95,044 |
-| The Village | 16.00% | ~84,483 |
+| The Village | 16.00% | ~84,484 |
 | The Forest | 14.00% | ~73,923 |
 | Branded | 13.00% | ~68,643 |
 | The Imposter | 13.00% | ~68,643 |
 | The Keep | 13.00% | ~68,643 |
-| The Castle | 11.00% | ~58,082 |
+| The Castle | 11.00% | ~58,083 |
 | The Dome | 9.00% | ~47,522 |
 | The Red Hall | 9.00% | ~47,522 |
 | The Sacrifice | 8.00% | ~42,242 |
-| The Cave | 7.00% | ~36,961 |
-| The Mire | 7.00% | ~36,961 |
-| The Stone Roots | 7.00% | ~36,961 |
-| The Ziggurat | 7.00% | ~36,961 |
+| The Cave | 7.00% | ~36,962 |
+| The Mire | 7.00% | ~36,962 |
+| The Stone Roots | 7.00% | ~36,962 |
+| The Ziggurat | 7.00% | ~36,962 |
 | Storied | 6.00% | ~31,681 |
 | The Construct | 6.00% | ~31,681 |
 | The Ruins | 6.00% | ~31,681 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,560 |
 | Fading Fast | 1.00% | ~5,280 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 528,021 (Ranked 28)  
+Progressed: 528,023 (Ranked 28)  
 Completed: 1,482 (0.28%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,16 +134,17 @@ Completed: 1,482 (0.28%) (Ranked 152)
 | 2023-07-16 | 527,847 | 1,480 |
 | 2023-07-17 | 527,933 | 1,481 |
 | 2023-07-18 | 528,021 | 1,482 |
+| 2023-07-19 | 528,023 | 1,482 |
 ## Awards
 Max (Challenging Combat): 274  (Ranked 239)  
-Sum: 1,914 (Ranked 201)  
-Diff (max vs sum): 38  
+Sum: 1,915 (Ranked 200)  
+Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
 | This game has Challenging Combat | 274 |
 | This game has Quickly Understood Controls | 256 |
 | This game is Highly Recommended | 250 |
-| This game is Extremely Fun | 234 |
+| This game is Extremely Fun | 235 |
 | This game has Diverse Characters | 232 |
 | This game has Amazing Storytelling | 229 |
 | This game has Amazing Characters | 223 |
@@ -284,4 +285,4 @@ Diff (max vs sum): 38
 | 2023-07-11 | 4.61 | - | 274 | 1,911 |
 | 2023-07-15 | 4.61 | - | 274 | 1,912 |
 | 2023-07-16 | 4.61 | - | 274 | 1,913 |
-| 2023-07-18 | 4.61 | - | 274 | 1,914 |
+| 2023-07-18 | 4.61 | - | 274 | 1,915 |
