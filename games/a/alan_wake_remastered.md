@@ -22,10 +22,10 @@ Number of Ratings: 524  (23.09.2022)
 | They're Heeeeeere! | 12.00% | ~6,904 |
 | The Six-Gun Scribe | 12.00% | ~6,904 |
 | Missed by a Mile | 12.00% | ~6,904 |
-| Heavy Metal | 11.00% | ~6,328 |
-| Iron Horse | 11.00% | ~6,328 |
-| Collateral Carnage | 11.00% | ~6,328 |
-| Come One, Come All | 11.00% | ~6,328 |
+| Heavy Metal | 11.00% | ~6,329 |
+| Iron Horse | 11.00% | ~6,329 |
+| Collateral Carnage | 11.00% | ~6,329 |
+| Come One, Come All | 11.00% | ~6,329 |
 | Perchance to Dream | 10.00% | ~5,753 |
 | It's Not Just a Typewriter Brand | 10.00% | ~5,753 |
 | Thunder and Lightning | 10.00% | ~5,753 |
@@ -33,8 +33,8 @@ Number of Ratings: 524  (23.09.2022)
 | The Lady of the Light | 9.00% | ~5,178 |
 | Two For the Price of One | 9.00% | ~5,178 |
 | Energized! | 9.00% | ~5,178 |
-| What Light Through Yonder Window | 8.00% | ~4,602 |
-| Right of Way | 8.00% | ~4,602 |
+| What Light Through Yonder Window | 8.00% | ~4,603 |
+| Right of Way | 8.00% | ~4,603 |
 | A Friend in Need | 8.00% | ~1,680 |
 | Tornado Wrangler | 7.00% | ~4,027 |
 | Departure | 6.00% | ~3,452 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~58 |
 | No Punctuation | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,531 (Ranked 82)  
+Progressed: 57,532 (Ranked 82)  
 Completed: 58 (0.10%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 58 (0.10%) (Ranked 184)
 | 2023-07-16 | 57,444 | 58 |
 | 2023-07-17 | 57,477 | 58 |
 | 2023-07-18 | 57,515 | 58 |
-| 2023-07-19 | 57,531 | 58 |
+| 2023-07-19 | 57,532 | 58 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

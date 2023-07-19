@@ -4,7 +4,7 @@
   "ProductSlug": "salt-and-sacrifice",
   "Ranking_Rating": 772,
   "Ranking_Popularity": 145,
-  "Ranking_PopularitySum": 201,
+  "Ranking_PopularitySum": 200,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 81,
   "Ranking_EOS_NewPlayers": 106,
@@ -1454,18 +1454,24 @@
       "Rating": 4.31,
       "NumberOfAwards": 1915,
       "NumberOfAwardsMax": 956
+    },
+    {
+      "Time": "2023-07-19T11:58:49.1293073+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 1917,
+      "NumberOfAwardsMax": 958
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1915,
-  "NumberOfAwardsMax": 956,
+  "NumberOfAwards": 1917,
+  "NumberOfAwardsMax": 958,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 956
+      "Count": 958
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -1530,7 +1536,7 @@
   ],
   "EOS_Progressed": 65344,
   "EOS_Completed": 1203,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.84,
   "EosHistory": [
@@ -7478,9 +7484,9 @@
   ],
   "FirstSeen": "2022-07-22T20:23:45.0965926+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:04.986715+00:00",
-  "LastChanged": "2023-07-18T16:59:00.1388148+00:00",
-  "LastChanged_Achievements": "2023-07-19T11:07:48.5294958+00:00",
+  "LastChanged": "2023-07-19T11:58:49.1293071+00:00",
+  "LastChanged_Achievements": "2023-07-19T12:06:40.846527+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:06.9706512+00:00",
-  "LastUpdate_Ratings": "2023-07-19T10:59:21.9278569+00:00",
-  "LastUpdate_Achievements": "2023-07-19T11:07:48.5295824+00:00"
+  "LastUpdate_Ratings": "2023-07-19T11:58:49.1293076+00:00",
+  "LastUpdate_Achievements": "2023-07-19T12:06:40.8465894+00:00"
 }

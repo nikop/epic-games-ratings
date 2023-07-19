@@ -5,30 +5,30 @@ Rating: 4.85 (Ranked 41)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~212,138 |
-| Private Club | 74.00% | ~172,508 |
-| Rogue Guild | 65.00% | ~151,527 |
-| I Watched the Intro | 57.00% | ~132,878 |
-| Covert Consortium | 55.00% | ~128,215 |
-| Goat Queen | 53.00% | ~123,553 |
+| Forgotten Sorority | 91.00% | ~212,140 |
+| Private Club | 74.00% | ~172,510 |
+| Rogue Guild | 65.00% | ~151,529 |
+| I Watched the Intro | 57.00% | ~132,879 |
+| Covert Consortium | 55.00% | ~128,217 |
+| Goat Queen | 53.00% | ~123,554 |
 | Reach the Stratosphere | 50.00% | ~116,560 |
-| Synchronization Complete | 47.00% | ~109,566 |
+| Synchronization Complete | 47.00% | ~109,567 |
 | Secret Society | 45.00% | ~104,904 |
-| Shadow Syndicate | 38.00% | ~88,585 |
-| What a Waste of Money | 33.00% | ~76,929 |
+| Shadow Syndicate | 38.00% | ~88,586 |
+| What a Waste of Money | 33.00% | ~76,930 |
 | New Goat Order | 30.00% | ~69,936 |
-| Don't touch the servers | 28.00% | ~65,273 |
+| Don't touch the servers | 28.00% | ~65,274 |
 | San Angora: Become Human | 26.00% | ~60,611 |
 | Raider of the Lost Parking Garage | 26.00% | ~60,611 |
 | Real Buoy | 26.00% | ~60,611 |
 | Welcome to Earth | 25.00% | ~58,280 |
 | Into the Matrix | 19.00% | ~44,293 |
-| Where is It? | 17.00% | ~39,630 |
+| Where is It? | 17.00% | ~39,631 |
 | Egg Simulator | 16.00% | ~37,299 |
 | Beauty, Mindfulness and Meditation | 15.00% | ~34,968 |
 | Black Market | 14.00% | ~32,637 |
 | 401(K.O.) | 14.00% | ~32,637 |
-| Car Cave | 12.00% | ~27,974 |
+| Car Cave | 12.00% | ~27,975 |
 | Club Mohair | 8.00% | ~18,650 |
 | A Center for Ants? | 8.00% | ~18,650 |
 | French Fika | 7.00% | ~16,318 |
@@ -45,7 +45,7 @@ Rating: 4.85 (Ranked 41)
 | Move! That! Bus! | 0.60% | ~1,399 |
 | G.O.A.T | 0.30% | ~699 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,119 (Ranked 47)  
+Progressed: 233,121 (Ranked 47)  
 Completed: 777 (0.33%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 777 (0.33%) (Ranked 143)
 | 2023-07-16 | 232,817 | 773 |
 | 2023-07-17 | 232,951 | 776 |
 | 2023-07-18 | 233,075 | 777 |
-| 2023-07-19 | 233,119 | 777 |
+| 2023-07-19 | 233,121 | 777 |
 ## Awards
 Max (Great for Beginners): 368  (Ranked 218)  
 Sum: 3,055 (Ranked 158)  

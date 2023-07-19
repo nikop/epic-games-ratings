@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -313,7 +313,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6818,
+  "EOS_Progressed": 6819,
   "EOS_Completed": 52,
   "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
@@ -2763,6 +2763,11 @@
       "Time": "2023-07-19T10:01:58.778177+00:00",
       "NumProgressed": 6818,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-07-19T12:02:14.9633362+00:00",
+      "NumProgressed": 6819,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 27,
@@ -2790,7 +2795,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2795
+      "UsersEstimate": 2796
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -2830,7 +2835,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1704
+      "UsersEstimate": 1705
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -2838,7 +2843,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1704
+      "UsersEstimate": 1705
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -2910,7 +2915,7 @@
       "Name": "Seekers Found",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2795
+      "UsersEstimate": 2796
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -2918,7 +2923,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2795
+      "UsersEstimate": 2796
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -2926,7 +2931,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3818
+      "UsersEstimate": 3819
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -2974,7 +2979,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2727
+      "UsersEstimate": 2728
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -2982,22 +2987,22 @@
       "Name": "Worthy of the Title",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1296
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6818,
+      "Progressed": 6819,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-07-19T11:02:47.9147366+00:00",
+  "LastChanged_Achievements": "2023-07-19T12:02:14.9633353+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:22.4116679+00:00",
-  "LastUpdate_Ratings": "2023-07-19T10:58:14.8052159+00:00",
-  "LastUpdate_Achievements": "2023-07-19T11:02:47.9147723+00:00"
+  "LastUpdate_Ratings": "2023-07-19T11:57:55.3830262+00:00",
+  "LastUpdate_Achievements": "2023-07-19T12:02:14.9633627+00:00"
 }

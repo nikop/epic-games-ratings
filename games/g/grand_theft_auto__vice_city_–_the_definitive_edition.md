@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 493)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 45.00% | ~4,050 |
-| Greasy Palms | 41.00% | ~3,690 |
+| Legal Counsel | 45.00% | ~4,051 |
+| Greasy Palms | 41.00% | ~3,691 |
 | South American Connection | 25.00% | ~2,250 |
 | Life of the Party | 19.00% | ~1,710 |
 | Tommy Two-Wheels | 15.00% | ~1,350 |
@@ -31,16 +31,16 @@ Rating: 4.54 (Ranked 493)
 | Don't Need Roads | 3.00% | ~270 |
 | One is Better Than Two | 2.00% | ~180 |
 | Take the Cannoli | 2.00% | ~180 |
-| Chopper’d Up | 2.00% | ~180 |
 | City Sleuth | 2.00% | ~180 |
 | Daredevil | 1.00% | ~90 |
+| Chopper’d Up | 1.00% | ~90 |
 | Born in the 80’s | 0.90% | ~81 |
 | Keepie-Uppy Okie Dokie | 0.90% | ~81 |
 | I'm Famous! | 0.90% | ~81 |
 | Done it All | 0.80% | ~72 |
 | Kingpin | 0.50% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,000 (Ranked 120)  
+Progressed: 9,002 (Ranked 120)  
 Completed: 43 (0.48%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 43 (0.48%) (Ranked 131)
 | 2023-07-16 | 8,981 | 43 |
 | 2023-07-17 | 8,985 | 43 |
 | 2023-07-18 | 8,995 | 43 |
-| 2023-07-19 | 9,000 | 43 |
+| 2023-07-19 | 9,002 | 43 |
 ## Awards
 Max (Great Boss Battles): 61  (Ranked 387)  
 Sum: 61 (Ranked 441)  

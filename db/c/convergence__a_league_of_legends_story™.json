@@ -2071,9 +2071,9 @@
       "ID": "Zarkon1Defeated",
       "SetID": "a9e499d",
       "Name": "The Brass Boss",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 107
+      "UsersEstimate": 114
     },
     {
       "ID": "Zarkon2Defeated",
@@ -2094,8 +2094,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-19T11:03:38.9263465+00:00",
+  "LastChanged_Achievements": "2023-07-19T12:03:11.5188761+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:20.5747926+00:00",
-  "LastUpdate_Ratings": "2023-07-19T11:00:49.0504506+00:00",
-  "LastUpdate_Achievements": "2023-07-19T11:03:38.9264006+00:00"
+  "LastUpdate_Ratings": "2023-07-19T12:00:03.0903315+00:00",
+  "LastUpdate_Achievements": "2023-07-19T12:03:11.5189183+00:00"
 }

@@ -526,7 +526,7 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 9000,
+  "EOS_Progressed": 9002,
   "EOS_Completed": 43,
   "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
@@ -6446,6 +6446,11 @@
       "Time": "2023-07-19T07:04:14.9380479+00:00",
       "NumProgressed": 9000,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-19T12:03:49.6423003+00:00",
+      "NumProgressed": 9002,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -6561,7 +6566,7 @@
       "Name": "Greasy Palms",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3690
+      "UsersEstimate": 3691
     },
     {
       "ID": "ACH15",
@@ -6617,7 +6622,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4050
+      "UsersEstimate": 4051
     },
     {
       "ID": "ACH22",
@@ -6695,9 +6700,9 @@
       "ID": "ACH31",
       "SetID": "9llo822",
       "Name": "Chopper\u2019d Up",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 55,
-      "UsersEstimate": 180
+      "UsersEstimate": 90
     },
     {
       "ID": "ACH32",
@@ -6728,7 +6733,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9000,
+      "Progressed": 9002,
       "Completed": 43
     }
   ],
@@ -6736,8 +6741,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-12T19:59:24.8621469+00:00",
-  "LastChanged_Achievements": "2023-07-19T11:04:32.074419+00:00",
+  "LastChanged_Achievements": "2023-07-19T12:03:49.6422998+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:03.5723456+00:00",
-  "LastUpdate_Ratings": "2023-07-19T10:59:18.5853844+00:00",
-  "LastUpdate_Achievements": "2023-07-19T11:04:32.0744997+00:00"
+  "LastUpdate_Ratings": "2023-07-19T11:58:47.413131+00:00",
+  "LastUpdate_Achievements": "2023-07-19T12:03:49.6423439+00:00"
 }

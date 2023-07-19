@@ -22,13 +22,13 @@ Rating: 4.56 (Ranked 457)
 | No man left behind! | 29.00% | ~106 |
 | Photo Friend | 26.00% | ~95 |
 | Brainfreeze | 22.00% | ~81 |
+| And everything comes full circle. | 20.00% | ~73 |
 | Masseltov | 19.00% | ~70 |
-| And everything comes full circle. | 19.00% | ~70 |
 | Quickdraw | 15.00% | ~55 |
 | Thuna...? | 15.00% | ~55 |
 | Monstrous Harassment | 14.00% | ~51 |
+| Heading the inverter | 14.00% | ~51 |
 | Blast from the Past | 14.00% | ~51 |
-| Heading the inverter | 13.00% | ~48 |
 | Play it again, Ronny | 11.00% | ~40 |
 | Goat Team | 10.00% | ~37 |
 | Paradox! | 10.00% | ~37 |

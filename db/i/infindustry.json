@@ -4,7 +4,7 @@
   "ProductSlug": "infindustry-cccc40",
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-05-11T23:00:00+00:00",
@@ -423,8 +423,8 @@
   ],
   "FirstSeen": "2023-05-14T11:57:16.2628162+00:00",
   "FirstSeenAchievements": "2023-04-26T07:04:01.8730756+00:00",
-  "LastChanged_Achievements": "2023-07-19T11:04:12.4329151+00:00",
+  "LastChanged_Achievements": "2023-07-19T12:03:32.1094912+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:06.2176007+00:00",
-  "LastUpdate_Ratings": "2023-07-19T10:57:58.9337625+00:00",
-  "LastUpdate_Achievements": "2023-07-19T11:04:12.432927+00:00"
+  "LastUpdate_Ratings": "2023-07-19T11:57:40.6254238+00:00",
+  "LastUpdate_Achievements": "2023-07-19T12:03:32.1095001+00:00"
 }

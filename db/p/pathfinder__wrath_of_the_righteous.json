@@ -3072,18 +3072,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 6821,
       "NumberOfAwardsMax": 1682
+    },
+    {
+      "Time": "2023-07-19T11:58:59.7216512+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6823,
+      "NumberOfAwardsMax": 1684
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6821,
-  "NumberOfAwardsMax": 1682,
+  "NumberOfAwards": 6823,
+  "NumberOfAwardsMax": 1684,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1682
+      "Count": 1684
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3146,9 +3152,9 @@
       "Count": 381
     }
   ],
-  "EOS_Progressed": 10394,
+  "EOS_Progressed": 10397,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8701,6 +8707,11 @@
       "Time": "2023-07-19T08:04:26.989324+00:00",
       "NumProgressed": 10394,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-19T12:04:41.7577779+00:00",
+      "NumProgressed": 10397,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -8720,7 +8731,7 @@
       "Name": "Burning City",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1456
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -8728,7 +8739,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1144
     },
     {
       "ID": "04_FithCrusade",
@@ -8848,7 +8859,7 @@
       "Name": "Mythic Choices",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "19_EqualToAroden",
@@ -8912,7 +8923,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1039
+      "UsersEstimate": 1040
     },
     {
       "ID": "28_GreatUpstart",
@@ -8960,7 +8971,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -9080,7 +9091,7 @@
       "Name": "A Spark",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1559
+      "UsersEstimate": 1560
     },
     {
       "ID": "49_Flame",
@@ -9639,21 +9650,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9176,
+      "Progressed": 9179,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10394,
+      "Progressed": 10397,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-07-18T13:13:22.9061542+00:00",
-  "LastChanged_Achievements": "2023-07-19T11:05:31.7057364+00:00",
+  "LastChanged": "2023-07-19T11:58:59.7216511+00:00",
+  "LastChanged_Achievements": "2023-07-19T12:04:41.7577773+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:17.6267462+00:00",
-  "LastUpdate_Ratings": "2023-07-19T10:59:32.838504+00:00",
-  "LastUpdate_Achievements": "2023-07-19T11:05:31.7059776+00:00"
+  "LastUpdate_Ratings": "2023-07-19T11:58:59.7216517+00:00",
+  "LastUpdate_Achievements": "2023-07-19T12:04:41.7579269+00:00"
 }

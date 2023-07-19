@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 57531,
+  "EOS_Progressed": 57532,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 294,
+  "EOS_NewPlayers": 293,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8352,6 +8352,11 @@
       "Time": "2023-07-19T10:03:51.6259157+00:00",
       "NumProgressed": 57531,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-07-19T12:03:26.7416821+00:00",
+      "NumProgressed": 57532,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 67,
@@ -8411,7 +8416,7 @@
       "Name": "Heavy Metal",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6328
+      "UsersEstimate": 6329
     },
     {
       "ID": "08",
@@ -8419,7 +8424,7 @@
       "Name": "Iron Horse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6328
+      "UsersEstimate": 6329
     },
     {
       "ID": "09",
@@ -8555,7 +8560,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4602
+      "UsersEstimate": 4603
     },
     {
       "ID": "26",
@@ -8571,7 +8576,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6328
+      "UsersEstimate": 6329
     },
     {
       "ID": "28",
@@ -8579,7 +8584,7 @@
       "Name": "Come One, Come All",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6328
+      "UsersEstimate": 6329
     },
     {
       "ID": "29",
@@ -8675,7 +8680,7 @@
       "Name": "Right of Way",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4602
+      "UsersEstimate": 4603
     },
     {
       "ID": "41",
@@ -8898,21 +8903,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 57531,
+      "Progressed": 57532,
       "Completed": 58
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20999,
+      "Progressed": 21000,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-19T11:03:55.8189036+00:00",
+  "LastChanged_Achievements": "2023-07-19T12:03:26.7416815+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:10.5196415+00:00",
-  "LastUpdate_Ratings": "2023-07-19T10:58:34.8268955+00:00",
-  "LastUpdate_Achievements": "2023-07-19T11:03:55.8190473+00:00"
+  "LastUpdate_Ratings": "2023-07-19T11:58:12.0121006+00:00",
+  "LastUpdate_Achievements": "2023-07-19T12:03:26.7417656+00:00"
 }

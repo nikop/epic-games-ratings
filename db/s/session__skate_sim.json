@@ -2,12 +2,12 @@
   "ID": "e29e6ef093fd468db40b6fb505de6fa8",
   "Name": "Session: Skate Sim",
   "ProductSlug": "session-skate-sim",
-  "Ranking_Rating": 240,
+  "Ranking_Rating": 239,
   "Ranking_Popularity": 398,
   "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -796,9 +796,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2521,
+  "EOS_Progressed": 2522,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3121,6 +3121,11 @@
       "Time": "2023-07-18T04:03:25.5859254+00:00",
       "NumProgressed": 2521,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-19T12:01:39.7355612+00:00",
+      "NumProgressed": 2522,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3284,7 +3289,7 @@
       "Name": "Keeping it classy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -3412,7 +3417,7 @@
       "Name": "That pinch!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH_THAT-WAS-WHEELIE-FUN",
@@ -3508,22 +3513,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1437
+      "UsersEstimate": 1438
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2521,
+      "Progressed": 2522,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-07-18T02:30:00.4800428+00:00",
-  "LastChanged_Achievements": "2023-07-19T11:02:41.9066827+00:00",
+  "LastChanged_Achievements": "2023-07-19T12:01:39.7355605+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:04.9340896+00:00",
-  "LastUpdate_Ratings": "2023-07-19T11:00:29.5271423+00:00",
-  "LastUpdate_Achievements": "2023-07-19T11:02:41.9067366+00:00"
+  "LastUpdate_Ratings": "2023-07-19T11:59:47.399245+00:00",
+  "LastUpdate_Achievements": "2023-07-19T12:01:39.7356004+00:00"
 }

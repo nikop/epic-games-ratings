@@ -1,5 +1,5 @@
 # Evalina The Sorceress
-[Store](https://store.epicgames.com/en-US/p/mai-in-the-mysterious-castle-a9a60a)  
+[Store](https://store.epicgames.com/en-US/p/evalinathe-sorceress-a9a60a)  
 [View Rawdata](../../db/c/c1adccb6ce8344ebac8cb4e3c81f01ef.json)  
 ## Achievements
 | Name | Percentage | Users |
