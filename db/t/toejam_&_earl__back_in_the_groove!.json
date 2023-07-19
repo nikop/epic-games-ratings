@@ -217,7 +217,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 55872,
+  "EOS_Progressed": 55873,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
@@ -5857,6 +5857,11 @@
       "Time": "2023-07-19T06:05:21.2460132+00:00",
       "NumProgressed": 55872,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-19T13:14:58.3196205+00:00",
+      "NumProgressed": 55873,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 49,
@@ -5956,7 +5961,7 @@
       "Name": "Food Taster",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 5028
+      "UsersEstimate": 5029
     },
     {
       "ID": "FoolMeTwice",
@@ -6259,7 +6264,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 55872,
+      "Progressed": 55873,
       "Completed": 4
     }
   ],
@@ -6267,8 +6272,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-07-19T12:05:10.3953346+00:00",
+  "LastChanged_Achievements": "2023-07-19T13:14:58.3196197+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:37.0395721+00:00",
-  "LastUpdate_Ratings": "2023-07-19T12:01:16.366905+00:00",
-  "LastUpdate_Achievements": "2023-07-19T12:05:10.39539+00:00"
+  "LastUpdate_Ratings": "2023-07-19T13:10:45.3707179+00:00",
+  "LastUpdate_Achievements": "2023-07-19T13:14:58.3196988+00:00"
 }

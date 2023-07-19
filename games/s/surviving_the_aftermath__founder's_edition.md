@@ -6,25 +6,25 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 71.00% | ~5,318 |
-| Leader | 61.00% | ~4,569 |
-| Explorer | 53.00% | ~3,970 |
-| Healer | 53.00% | ~3,970 |
+| First Step | 71.00% | ~5,319 |
+| Leader | 61.00% | ~4,570 |
+| Explorer | 53.00% | ~3,971 |
+| Healer | 53.00% | ~3,971 |
 | Aspiring Inventor | 44.00% | ~3,296 |
-| Adventurer | 41.00% | ~3,071 |
-| Famous Healer | 38.00% | ~2,846 |
+| Adventurer | 41.00% | ~3,072 |
+| Famous Healer | 38.00% | ~2,847 |
 | Local Leader | 35.00% | ~2,622 |
 | Famous Explorer | 34.00% | ~2,547 |
 | New Opportunities | 34.00% | ~2,547 |
 | Energized | 33.00% | ~2,472 |
 | The Long Haul | 33.00% | ~2,472 |
-| The Great Healer | 31.00% | ~2,322 |
-| Survivor | 31.00% | ~2,322 |
-| Legendary Explorer | 28.00% | ~2,097 |
-| Cleaner | 28.00% | ~2,097 |
-| Catastrofan | 28.00% | ~2,097 |
-| Finders, Keepers | 26.00% | ~1,947 |
-| Top Notch | 25.00% | ~1,872 |
+| The Great Healer | 31.00% | ~2,323 |
+| Survivor | 31.00% | ~2,323 |
+| Legendary Explorer | 28.00% | ~2,098 |
+| Cleaner | 28.00% | ~2,098 |
+| Catastrofan | 28.00% | ~2,098 |
+| Finders, Keepers | 26.00% | ~1,948 |
+| Top Notch | 25.00% | ~1,873 |
 | Ice Lakes | 23.00% | ~1,723 |
 | Mentor | 23.00% | ~1,723 |
 | Great Leader | 22.00% | ~1,648 |
@@ -32,10 +32,10 @@ Number of Ratings: 836  (23.09.2022)
 | Merchant | 21.00% | ~1,573 |
 | Rocket Surgeon | 20.00% | ~1,498 |
 | War Never Changes | 19.00% | ~1,423 |
-| Big Game Hunter | 17.00% | ~1,273 |
-| Spreading Influence | 17.00% | ~1,273 |
-| Friendly | 16.00% | ~1,198 |
-| Around the World | 16.00% | ~1,198 |
+| Big Game Hunter | 17.00% | ~1,274 |
+| Spreading Influence | 17.00% | ~1,274 |
+| Friendly | 16.00% | ~1,199 |
+| Around the World | 16.00% | ~1,199 |
 | Bookworm | 15.00% | ~1,124 |
 | Famous Adventurer | 14.00% | ~1,049 |
 | Prepared for Anything | 13.00% | ~974 |
@@ -46,9 +46,9 @@ Number of Ratings: 836  (23.09.2022)
 | Bread and Circuses | 8.00% | ~599 |
 | New Eden | 7.00% | ~524 |
 | Tailored to fit | 7.00% | ~524 |
-| Really Friendly | 6.00% | ~449 |
-| Amped Up | 6.00% | ~449 |
-| Look, no Hands! | 5.00% | ~374 |
+| Really Friendly | 6.00% | ~450 |
+| Amped Up | 6.00% | ~450 |
+| Look, no Hands! | 5.00% | ~375 |
 | Luxurious Living | 4.00% | ~300 |
 | Mogul | 3.00% | ~225 |
 | Ranch Hand | 3.00% | ~225 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~15 |
 | Customized calamities | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,490 (Ranked 124)  
+Progressed: 7,492 (Ranked 124)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-16 | 7,431 | 0 |
 | 2023-07-17 | 7,463 | 0 |
 | 2023-07-18 | 7,484 | 0 |
-| 2023-07-19 | 7,490 | 0 |
+| 2023-07-19 | 7,492 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 331)  
 Sum: 678 (Ranked 273)  

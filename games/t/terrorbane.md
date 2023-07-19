@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First contact | 100.00% | ~40 |
-| System shocked | 60.00% | ~24 |
-| Exposé | 55.00% | ~22 |
-| Blade of prophecy | 45.00% | ~18 |
-| Normal end | 45.00% | ~18 |
-| C Rank Bug-catcher | 43.00% | ~17 |
-| Armed robbery | 35.00% | ~14 |
-| Never learn | 33.00% | ~13 |
-| B Rank Bug-catcher | 28.00% | ~11 |
-| Errorbane | 18.00% | ~7 |
-| Secret Admirer | 18.00% | ~7 |
-| Bugged, not stupid | 13.00% | ~5 |
-| Hackerman | 13.00% | ~5 |
+| First contact | 100.00% | ~41 |
+| System shocked | 61.00% | ~25 |
+| Exposé | 56.00% | ~23 |
+| Blade of prophecy | 44.00% | ~18 |
+| Normal end | 44.00% | ~18 |
+| C Rank Bug-catcher | 41.00% | ~17 |
+| Armed robbery | 34.00% | ~14 |
+| Never learn | 32.00% | ~13 |
+| B Rank Bug-catcher | 27.00% | ~11 |
+| Errorbane | 17.00% | ~7 |
+| Secret Admirer | 17.00% | ~7 |
+| Bugged, not stupid | 12.00% | ~5 |
+| Hackerman | 12.00% | ~5 |
 | A Rank Bug-catcher | 10.00% | ~4 |
 | S Rank Bug-catcher | 10.00% | ~4 |
 | Thanks for Playing | 10.00% | ~4 |
 | Deepest lore | 10.00% | ~4 |
-| Thanks for Buying | 3.00% | ~1 |
-| Brute forcing | 3.00% | ~1 |
-| Pool party | 3.00% | ~1 |
+| Thanks for Buying | 2.00% | ~1 |
+| Brute forcing | 2.00% | ~1 |
+| Pool party | 2.00% | ~1 |
 | You never know! | 0.00% | ~0 |
 | Higher on the street | 0.00% | ~0 |
 | Dance machine | 0.00% | ~0 |
 | Arcade master | 0.00% | ~0 |
 | Real completionist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40 (Ranked 352)  
+Progressed: 41 (Ranked 352)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -43,6 +43,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-06-06 | 38 | 0 |
 | 2023-06-09 | 39 | 0 |
 | 2023-06-11 | 40 | 0 |
+| 2023-07-19 | 41 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

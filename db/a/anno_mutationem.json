@@ -435,9 +435,9 @@
       "ID": "Big_Spender",
       "SetID": "gl7plp",
       "Name": "Big Spender",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 247
+      "UsersEstimate": 254
     },
     {
       "ID": "Clarity_of_Mind",
@@ -507,9 +507,9 @@
       "ID": "I_think_its_broke",
       "SetID": "gl7plp",
       "Name": "I think it\u0027s broke",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 169
     },
     {
       "ID": "In the smacker...I think",
@@ -708,8 +708,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-07-10T11:57:54.3747562+00:00",
-  "LastChanged_Achievements": "2023-07-19T12:04:55.2184767+00:00",
+  "LastChanged_Achievements": "2023-07-19T13:14:45.8332137+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:01.3967258+00:00",
-  "LastUpdate_Ratings": "2023-07-19T11:58:04.3269289+00:00",
-  "LastUpdate_Achievements": "2023-07-19T12:04:55.2184991+00:00"
+  "LastUpdate_Ratings": "2023-07-19T13:08:03.9497764+00:00",
+  "LastUpdate_Achievements": "2023-07-19T13:14:45.8332438+00:00"
 }

@@ -7,25 +7,25 @@ Number of Ratings: 34  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Explorer | 63.00% | ~265 |
-| Cowardice | 56.00% | ~235 |
-| NO LIFE IS WORTH SAVING... | 49.00% | ~206 |
-| Eat Lead! | 46.00% | ~193 |
-| Prospector | 42.00% | ~176 |
-| The Breaking Point | 42.00% | ~176 |
-| Here Comes the Boom | 42.00% | ~176 |
-| Treasure Hunter | 39.00% | ~164 |
+| Cowardice | 56.00% | ~236 |
+| NO LIFE IS WORTH SAVING... | 48.00% | ~202 |
+| Eat Lead! | 46.00% | ~194 |
+| Prospector | 42.00% | ~177 |
+| The Breaking Point | 42.00% | ~177 |
+| Here Comes the Boom | 42.00% | ~177 |
+| Treasure Hunter | 38.00% | ~160 |
 | Sniper Wolf | 38.00% | ~160 |
-| The Motivation | 37.00% | ~155 |
+| The Motivation | 37.00% | ~156 |
 | Heroism | 35.00% | ~147 |
 | Missing in Action | 34.00% | ~143 |
 | Collectibles of Chapter I | 33.00% | ~139 |
-| King of Knives | 31.00% | ~130 |
+| King of Knives | 31.00% | ~131 |
 | Consequences | 30.00% | ~126 |
 | Opportunities | 29.00% | ~122 |
-| The Horror | 27.00% | ~113 |
+| The Horror | 27.00% | ~114 |
 | The Difference | 24.00% | ~101 |
 | Vengeance | 23.00% | ~97 |
-| Collectibles of Chapter II | 22.00% | ~92 |
+| Collectibles of Chapter II | 22.00% | ~93 |
 | It's Just an Accident | 21.00% | ~88 |
 | Broken Hopes | 20.00% | ~84 |
 | Bullseye! | 20.00% | ~84 |
@@ -33,8 +33,8 @@ Number of Ratings: 34  (23.09.2022)
 | Food Massacre | 18.00% | ~76 |
 | Atonement | 16.00% | ~67 |
 | Collectibles of Chapter IV | 15.00% | ~63 |
-| Helping Hand | 15.00% | ~63 |
 | Collectibles of Chapter III | 14.00% | ~59 |
+| Helping Hand | 14.00% | ~59 |
 | Without a Second Thought | 14.00% | ~59 |
 | Collectibles of Chapter V | 10.00% | ~42 |
 | Such is War! | 8.00% | ~34 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 420 (Ranked 224)  
+Progressed: 421 (Ranked 224)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,6 +142,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-16 | 417 | 0 |
 | 2023-07-17 | 419 | 0 |
 | 2023-07-18 | 420 | 0 |
+| 2023-07-19 | 421 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

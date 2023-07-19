@@ -14,13 +14,13 @@ Number of Ratings: 7,683  (23.09.2022)
 | This is just my weekend vehicle | 58.00% | ~26,507 |
 | It's just the beginning | 58.00% | ~26,507 |
 | Hard work pays off | 53.00% | ~24,222 |
-| It's never too late to farm | 48.00% | ~21,936 |
-| All out of Land | 44.00% | ~20,108 |
-| Field Trip | 43.00% | ~19,651 |
-| I like to switch it up | 40.00% | ~18,280 |
-| Help me to help you | 38.00% | ~17,366 |
-| Ultimutt Pawesomeness | 28.00% | ~12,796 |
-| Van Gogh | 26.00% | ~11,882 |
+| It's never too late to farm | 48.00% | ~21,937 |
+| All out of Land | 44.00% | ~20,109 |
+| Field Trip | 43.00% | ~19,652 |
+| I like to switch it up | 40.00% | ~18,281 |
+| Help me to help you | 38.00% | ~17,367 |
+| Ultimutt Pawesomeness | 28.00% | ~12,797 |
+| Van Gogh | 26.00% | ~11,883 |
 | You wood not believe it | 21.00% | ~9,597 |
 | Vehicle fleet | 21.00% | ~9,597 |
 | The plot thickens | 16.00% | ~7,312 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~183 |
 | Raisin the stakes | 0.30% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,701 (Ranked 88)  
+Progressed: 45,702 (Ranked 88)  
 Completed: 5 (0.01%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,10 +140,10 @@ Completed: 5 (0.01%) (Ranked 225)
 | 2023-07-16 | 45,573 | 5 |
 | 2023-07-17 | 45,638 | 5 |
 | 2023-07-18 | 45,686 | 5 |
-| 2023-07-19 | 45,701 | 5 |
+| 2023-07-19 | 45,702 | 5 |
 ## Awards
 Max (Great for Beginners): 4,548  (Ranked 70)  
-Sum: 38,212 (Ranked 31)  
+Sum: 38,214 (Ranked 31)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
@@ -155,7 +155,7 @@ Diff (max vs sum): 39
 | This game is Extremely Fun | 3,828 |
 | This game is Highly Recommended | 3,822 |
 | This game has Amazing Storytelling | 3,713 |
-| This game has Amazing Characters | 3,328 |
+| This game has Amazing Characters | 3,330 |
 | This game has a Creative Community | 3,166 |
 | This game has Obsessive Gameplay | 2,386 |
 | This game has Easy Combat | 1,816 |
@@ -345,4 +345,4 @@ Diff (max vs sum): 39
 | 2023-07-16 | 4.70 | - | 4,544 | 38,166 |
 | 2023-07-17 | 4.69 | - | 4,544 | 38,186 |
 | 2023-07-18 | 4.69 | - | 4,548 | 38,205 |
-| 2023-07-19 | 4.69 | - | 4,548 | 38,212 |
+| 2023-07-19 | 4.69 | - | 4,548 | 38,214 |

@@ -13,6 +13,7 @@ Rating: 4.87 (Ranked 24)
 | Time to pay up! | 2.00% | ~69 |
 | Who's the boss now? | 2.00% | ~69 |
 | Thanks for the free chip, Peppermint! | 2.00% | ~69 |
+| Whoa! There's ANOTHER health bar!? | 2.00% | ~69 |
 | Z-shielding's got nothing on us! | 2.00% | ~69 |
 | Out in a puff of smoke | 2.00% | ~69 |
 | Uh, they were broken when I got here | 2.00% | ~69 |
@@ -21,7 +22,6 @@ Rating: 4.87 (Ranked 24)
 | NOW we got a kickass hideout! | 2.00% | ~40 |
 | Well that was a rush! | 1.00% | ~35 |
 | I play my own way! | 1.00% | ~35 |
-| Whoa! There's ANOTHER health bar!? | 1.00% | ~35 |
 | I have to read these things? | 1.00% | ~35 |
 | Feeling the beat! | 1.00% | ~35 |
 | You got this, Peppermint? | 1.00% | ~35 |

@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 147,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 314,
+  "EOS_Progressed": 315,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -1001,6 +1001,11 @@
       "Time": "2023-07-19T10:04:40.2356121+00:00",
       "NumProgressed": 314,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-19T13:14:11.951524+00:00",
+      "NumProgressed": 315,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -1012,23 +1017,23 @@
       "Name": "Great Luck",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ActivePause",
       "SetID": "1e89b4i",
       "Name": "Active Pause",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "BasicControls",
       "SetID": "1e89b4i",
       "Name": "Basic Controls",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 198
     },
     {
       "ID": "BigPlane",
@@ -1052,7 +1057,7 @@
       "Name": "Calculated",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "Close",
@@ -1148,7 +1153,7 @@
       "Name": "Large Airport",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "LargeTerritories",
@@ -1162,9 +1167,9 @@
       "ID": "LegendaryTransporter",
       "SetID": "1e89b4i",
       "Name": "Legendary transporter",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 32
     },
     {
       "ID": "LinearNetwork",
@@ -1228,15 +1233,15 @@
       "Name": "No Way Back",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "NotPlanned",
       "SetID": "1e89b4i",
       "Name": "This Wasn\u0027t Part of the Plan...",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 60
     },
     {
       "ID": "Ownway",
@@ -1347,14 +1352,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 314,
+      "Progressed": 315,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-07-19T12:04:14.42277+00:00",
+  "LastChanged_Achievements": "2023-07-19T13:14:11.9515235+00:00",
   "LastUpdate_AppInfo": "2023-07-18T08:57:06.2338611+00:00",
-  "LastUpdate_Ratings": "2023-07-19T11:57:16.0901494+00:00",
-  "LastUpdate_Achievements": "2023-07-19T12:04:14.4228058+00:00"
+  "LastUpdate_Ratings": "2023-07-19T13:07:24.674504+00:00",
+  "LastUpdate_Achievements": "2023-07-19T13:14:11.9515642+00:00"
 }

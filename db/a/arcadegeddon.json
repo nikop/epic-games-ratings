@@ -757,7 +757,7 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 7707,
+  "EOS_Progressed": 7708,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
@@ -5742,6 +5742,11 @@
       "Time": "2023-07-19T10:06:39.0971471+00:00",
       "NumProgressed": 7707,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-19T13:15:49.7985165+00:00",
+      "NumProgressed": 7708,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -5777,7 +5782,7 @@
       "Name": "Clips and Crits",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1618
+      "UsersEstimate": 1619
     },
     {
       "ID": "ACH_COUP_DETAT",
@@ -5785,7 +5790,7 @@
       "Name": "Coup d\u0027Etat",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 4547
+      "UsersEstimate": 4548
     },
     {
       "ID": "ACH_EVENT_HORIZON",
@@ -5833,7 +5838,7 @@
       "Name": "Grey Goo",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1464
+      "UsersEstimate": 1465
     },
     {
       "ID": "ACH_GROUND_CONTROL",
@@ -5897,7 +5902,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 7090
+      "UsersEstimate": 7091
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -5921,7 +5926,7 @@
       "Name": "Meching Enemies",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 3776
+      "UsersEstimate": 3777
     },
     {
       "ID": "ACH_NATURE_IS_LIT",
@@ -5953,7 +5958,7 @@
       "Name": "Photogenic",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 6782
+      "UsersEstimate": 6783
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -5961,7 +5966,7 @@
       "Name": "Playing With Power",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 6011
+      "UsersEstimate": 6012
     },
     {
       "ID": "ACH_PLUG_IT_IN",
@@ -5969,7 +5974,7 @@
       "Name": "Plug It In",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 6551
+      "UsersEstimate": 6552
     },
     {
       "ID": "ACH_POPPIN_NOGGINS",
@@ -5993,7 +5998,7 @@
       "Name": "Rapid Response",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2543
+      "UsersEstimate": 2544
     },
     {
       "ID": "ACH_RESCUE_RANGER",
@@ -6001,7 +6006,7 @@
       "Name": "Rescue Ranger",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "ACH_SEASONED_ADVENTURER",
@@ -6057,7 +6062,7 @@
       "Name": "Surge Gauntlet Jockey",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 6628
+      "UsersEstimate": 6629
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_SCHOLAR",
@@ -6113,7 +6118,7 @@
       "Name": "Ticket Titan",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "ACH_TICKET_TODDLER",
@@ -6121,7 +6126,7 @@
       "Name": "Ticket Toddler",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 3468
+      "UsersEstimate": 3469
     },
     {
       "ID": "ACH_TO_BE_CONTINUED",
@@ -6145,22 +6150,22 @@
       "Name": "You\u0027re Fired",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 4470
+      "UsersEstimate": 4471
     }
   ],
   "AchievementSets": [
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 7707,
+      "Progressed": 7708,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-07-19T03:16:58.8103399+00:00",
-  "LastChanged_Achievements": "2023-07-19T12:06:13.7541079+00:00",
+  "LastChanged_Achievements": "2023-07-19T13:15:49.798516+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:16.4116247+00:00",
-  "LastUpdate_Ratings": "2023-07-19T11:58:56.9250183+00:00",
-  "LastUpdate_Achievements": "2023-07-19T12:06:13.7541697+00:00"
+  "LastUpdate_Ratings": "2023-07-19T13:08:47.7356296+00:00",
+  "LastUpdate_Achievements": "2023-07-19T13:15:49.7985948+00:00"
 }

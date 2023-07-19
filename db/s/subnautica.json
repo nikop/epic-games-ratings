@@ -3,11 +3,11 @@
   "Name": "Subnautica",
   "ProductSlug": "subnautica",
   "Ranking_Rating": 41,
-  "Ranking_Popularity": 166,
+  "Ranking_Popularity": 165,
   "Ranking_PopularitySum": 125,
   "Ranking_EOS_Progress": 498,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2018-01-23T14:00:00+00:00",
@@ -4054,18 +4054,24 @@
       "Rating": 4.85,
       "NumberOfAwards": 5409,
       "NumberOfAwardsMax": 675
+    },
+    {
+      "Time": "2023-07-19T13:09:27.7730015+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 5411,
+      "NumberOfAwardsMax": 677
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5409,
-  "NumberOfAwardsMax": 675,
+  "NumberOfAwards": 5411,
+  "NumberOfAwardsMax": 677,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 675
+      "Count": 677
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4139,8 +4145,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:19.8641148+00:00",
-  "LastChanged": "2023-07-18T18:59:22.4798622+00:00",
+  "LastChanged": "2023-07-19T13:09:27.7730013+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:04.275729+00:00",
-  "LastUpdate_Ratings": "2023-07-19T11:59:45.5862572+00:00",
-  "LastUpdate_Achievements": "2023-07-19T12:06:21.4094504+00:00"
+  "LastUpdate_Ratings": "2023-07-19T13:09:27.773002+00:00",
+  "LastUpdate_Achievements": "2023-07-19T13:15:55.9983332+00:00"
 }

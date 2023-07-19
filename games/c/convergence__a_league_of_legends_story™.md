@@ -29,8 +29,8 @@
 | Honest Mistake | 13.00% | ~99 |
 | Golem Chaser | 13.00% | ~99 |
 | Check Your Pulse | 13.00% | ~99 |
+| Right On Time | 12.00% | ~92 |
 | Street Style | 12.00% | ~92 |
-| Right On Time | 11.00% | ~84 |
 | Whiz Kid | 10.00% | ~76 |
 | Chaincrawler Explorer | 9.00% | ~69 |
 | Good Neighbor | 9.00% | ~69 |

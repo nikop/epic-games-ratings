@@ -34,11 +34,11 @@
 | The Ooze | 17.00% | ~20 |
 | Turquoise | 16.00% | ~19 |
 | The Assistant | 15.00% | ~18 |
+| The Steampunk | 15.00% | ~18 |
 | Ember | 15.00% | ~18 |
-| The Steampunk | 14.00% | ~17 |
 | Verse | 13.00% | ~16 |
 | The Droid | 12.00% | ~14 |
-| Iron | 11.00% | ~13 |
+| Iron | 12.00% | ~14 |
 | The Bomber | 9.00% | ~11 |
 | The Astronaut | 8.00% | ~10 |
 | Tested | 8.00% | ~10 |

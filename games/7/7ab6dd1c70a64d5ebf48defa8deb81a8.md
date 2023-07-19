@@ -4,33 +4,33 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Break Out | 25.00% | ~5 |
+| Flawless Victory | 25.00% | ~5 |
 | Powerful Allies | 20.00% | ~4 |
 | Calm before the Storm | 20.00% | ~4 |
 | A Taste of Wrath | 20.00% | ~4 |
+| The Mentor | 20.00% | ~4 |
 | Trinity | 20.00% | ~4 |
+| Adventurer | 20.00% | ~4 |
 | Tributes of Caladrias | 20.00% | ~4 |
 | Essence Blow | 20.00% | ~4 |
-| Flawless Victory | 20.00% | ~4 |
 | Geared Up | 20.00% | ~4 |
 | Fashion Victim | 20.00% | ~4 |
 | I Found It | 20.00% | ~4 |
+| Miner | 20.00% | ~4 |
 | Find Allies | 15.00% | ~3 |
 | Clear Sight | 15.00% | ~3 |
-| The Mentor | 15.00% | ~3 |
-| Adventurer | 15.00% | ~3 |
+| Shardbearer | 15.00% | ~3 |
 | Airborne | 15.00% | ~3 |
 | Shatterer | 15.00% | ~3 |
 | Big Bazar | 15.00% | ~3 |
 | Fine Feathers Make Fine Birds | 15.00% | ~3 |
 | Scholar | 15.00% | ~3 |
 | False God | 15.00% | ~3 |
-| Miner | 15.00% | ~3 |
+| Alchemist | 15.00% | ~3 |
 | The Collector | 15.00% | ~3 |
 | To Battle | 10.00% | ~2 |
 | Godslayer | 10.00% | ~2 |
-| Shardbearer | 10.00% | ~2 |
 | Slayer | 10.00% | ~2 |
-| Alchemist | 10.00% | ~2 |
 | Stone Collection | 10.00% | ~2 |
 | A Queen's Tale | 10.00% | ~2 |
 | Summiter | 10.00% | ~2 |

@@ -4,7 +4,7 @@
   "ProductSlug": "a-heros-rest-67f117",
   "Ranking_EOS_Progress": 498,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-10-12T07:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:29.9621063+00:00",
   "LastChanged": "2023-03-31T05:57:29.9621064+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:31.8925568+00:00",
-  "LastUpdate_Ratings": "2023-07-19T12:00:15.662456+00:00",
-  "LastUpdate_Achievements": "2023-07-19T12:04:02.0523378+00:00"
+  "LastUpdate_Ratings": "2023-07-19T13:09:55.1292992+00:00",
+  "LastUpdate_Achievements": "2023-07-19T13:14:01.5482712+00:00"
 }

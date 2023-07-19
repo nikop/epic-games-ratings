@@ -3,11 +3,11 @@
   "Name": "shapez",
   "ProductSlug": "shapez-0929c9",
   "Ranking_Rating": 183,
-  "Ranking_Popularity": 265,
-  "Ranking_PopularitySum": 359,
+  "Ranking_Popularity": 263,
+  "Ranking_PopularitySum": 357,
   "Ranking_EOS_Progress": 498,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-10-31T12:00:00+00:00",
@@ -385,18 +385,24 @@
       "Rating": 4.71,
       "NumberOfAwards": 209,
       "NumberOfAwardsMax": 209
+    },
+    {
+      "Time": "2023-07-19T13:08:05.849224+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 214,
+      "NumberOfAwardsMax": 214
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 209,
-  "NumberOfAwardsMax": 209,
+  "NumberOfAwards": 214,
+  "NumberOfAwardsMax": 214,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 209
+      "Count": 214
     }
   ],
   "EOS_Progressed": 0,
@@ -411,8 +417,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-01T20:01:20.018196+00:00",
   "FirstSeenRating": "2022-11-10T15:57:35.7088081+00:00",
-  "LastChanged": "2023-07-15T19:58:06.941732+00:00",
+  "LastChanged": "2023-07-19T13:08:05.8492239+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:08.418864+00:00",
-  "LastUpdate_Ratings": "2023-07-19T11:58:06.713263+00:00",
-  "LastUpdate_Achievements": "2023-07-19T12:04:34.1965375+00:00"
+  "LastUpdate_Ratings": "2023-07-19T13:08:05.8492244+00:00",
+  "LastUpdate_Achievements": "2023-07-19T13:14:28.0457754+00:00"
 }

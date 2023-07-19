@@ -136,6 +136,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Sunblight | 0.10% | ~180 |
 | Fortress Assault | 0.10% | ~180 |
 | Hats off to you! | 0.10% | ~180 |
+| It's Cold Out There Every Day | 0.10% | ~180 |
 | The Bleeding Citadel | 0.10% | ~180 |
 | Don't Pick at the Scab | 0.10% | ~180 |
 | Going To Eleven | 0.10% | ~180 |
@@ -494,7 +495,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Patience is Key | 0.00% | ~0 |
 | The Darkness Runs Deeper | 0.00% | ~0 |
 | Hailstorm! | 0.00% | ~0 |
-| It's Cold Out There Every Day | 0.00% | ~0 |
 | The Court of Storms | 0.00% | ~0 |
 | Coasting to the Finish | 0.00% | ~0 |
 | Beware the Jabberwock | 0.00% | ~0 |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.00% | ~0 |
 | Animated Giff | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213,340 (Ranked 53)  
+Progressed: 213,358 (Ranked 53)  
 Completed: 2,058 (0.96%) (Ranked 105)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -609,7 +609,7 @@ Completed: 2,058 (0.96%) (Ranked 105)
 | 2023-07-16 | 212,501 | 2,055 |
 | 2023-07-17 | 212,861 | 2,057 |
 | 2023-07-18 | 213,209 | 2,058 |
-| 2023-07-19 | 213,340 | 2,058 |
+| 2023-07-19 | 213,358 | 2,058 |
 ## Awards
 Max (Diverse Characters): 5,043  (Ranked 66)  
 Sum: 30,580 (Ranked 38)  
