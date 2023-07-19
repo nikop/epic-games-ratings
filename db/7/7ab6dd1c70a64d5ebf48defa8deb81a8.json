@@ -3,7 +3,7 @@
   "Name": null,
   "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 38,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": null,
@@ -109,9 +109,9 @@
       "ID": "ACH_03",
       "SetID": "efe2lj",
       "Name": "Powerful Allies",
-      "Percentage": 16,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_04",
@@ -141,9 +141,9 @@
       "ID": "ACH_07",
       "SetID": "efe2lj",
       "Name": "Clear Sight",
-      "Percentage": 5,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_08",
@@ -157,9 +157,9 @@
       "ID": "ACH_09",
       "SetID": "efe2lj",
       "Name": "The Mentor",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_10",
@@ -181,9 +181,9 @@
       "ID": "ACH_12",
       "SetID": "efe2lj",
       "Name": "Shardbearer",
-      "Percentage": 5,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_13",
@@ -197,9 +197,9 @@
       "ID": "ACH_14",
       "SetID": "efe2lj",
       "Name": "Airborne",
-      "Percentage": 5,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_15",
@@ -245,9 +245,9 @@
       "ID": "ACH_20",
       "SetID": "efe2lj",
       "Name": "Flawless Victory",
-      "Percentage": 5,
+      "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_21",
@@ -285,17 +285,17 @@
       "ID": "ACH_25",
       "SetID": "efe2lj",
       "Name": "Fashion Victim",
-      "Percentage": 16,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_26",
       "SetID": "efe2lj",
       "Name": "Scholar",
-      "Percentage": 11,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_27",
@@ -325,9 +325,9 @@
       "ID": "ACH_30",
       "SetID": "efe2lj",
       "Name": "Alchemist",
-      "Percentage": 5,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_31",
@@ -349,9 +349,9 @@
       "ID": "ACH_34",
       "SetID": "efe2lj",
       "Name": "The Collector",
-      "Percentage": 11,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_35",
@@ -365,9 +365,9 @@
       "ID": "ACH_36",
       "SetID": "efe2lj",
       "Name": "A Queen\u0027s Tale",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_38",
@@ -387,7 +387,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-07-19T08:03:21.8861543+00:00",
-  "LastUpdate_Ratings": "2023-07-19T07:57:09.1066472+00:00",
-  "LastUpdate_Achievements": "2023-07-19T08:03:21.8861752+00:00"
+  "LastChanged_Achievements": "2023-07-19T09:03:28.3539508+00:00",
+  "LastUpdate_Ratings": "2023-07-19T08:57:24.7200252+00:00",
+  "LastUpdate_Achievements": "2023-07-19T09:03:28.3539815+00:00"
 }

@@ -54,7 +54,9 @@ Rating: 4.87 (Ranked 24)
 | Easy Listening | 0.10% | ~3 |
 | Problem solved... wait, what? | 0.10% | ~3 |
 | I can't see this ever being a problem again | 0.10% | ~3 |
+| I think that's enough health for now | 0.10% | ~3 |
 | Fully Powered Up! | 0.10% | ~3 |
+| I have to read ALL of these things? | 0.10% | ~3 |
 | Now this is how you fight like a team! | 0.10% | ~3 |
 | My Ultimate Setlist | 0.10% | ~3 |
 | What a journey it was... | 0.10% | ~3 |
@@ -71,8 +73,6 @@ Rating: 4.87 (Ranked 24)
 | Low budget finish | 0.10% | ~2 |
 | And the crowd goes wild! | 0.00% | ~0 |
 | Didn't skip a beat! | 0.00% | ~0 |
-| I think that's enough health for now | 0.00% | ~0 |
-| I have to read ALL of these things? | 0.00% | ~0 |
 | I am a good person who likes to help | 0.00% | ~0 |
 | I'm trying to FOCUS HERE! | 0.00% | ~0 |
 | OK, I THINK I know what I'm doing now | 0.00% | ~0 |

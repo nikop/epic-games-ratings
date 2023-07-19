@@ -32,7 +32,7 @@ Number of Ratings: 98  (23.09.2022)
 | Dante's Inferno | 11.00% | ~701 |
 | The Devil's Paintbrush | 11.00% | ~701 |
 | I Have the High Ground | 10.00% | ~637 |
-| Millenial | 9.00% | ~573 |
+| Millenial | 10.00% | ~637 |
 | The Show Must Go On | 9.00% | ~573 |
 | Tosca | 8.00% | ~510 |
 | 12th Bottle of the Isonzo | 6.00% | ~382 |

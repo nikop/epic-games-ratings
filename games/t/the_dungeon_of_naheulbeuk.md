@@ -6,21 +6,21 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 58.00% | ~111,121 |
-| Where's that freaking Dwarf? | 46.00% | ~88,130 |
-| GG EZ | 27.00% | ~51,729 |
-| Speedrun | 26.00% | ~49,813 |
-| Déjà vu | 21.00% | ~40,233 |
-| Sock! SOCK! | 16.00% | ~30,654 |
-| DM intervention | 13.00% | ~24,906 |
-| Fireproof Wizardess | 9.00% | ~17,243 |
-| A beer, two curses, three companions | 7.00% | ~13,411 |
-| Livin' in a dwarven paradise | 6.00% | ~11,495 |
-| Way of the Wimp | 6.00% | ~11,495 |
-| The plot thickens... At the tavern | 5.00% | ~9,579 |
-| The Woman in the High Castle | 4.00% | ~7,664 |
-| I am the night | 3.00% | ~5,748 |
-| Team Building Exercise | 3.00% | ~5,748 |
+| Alt+F4 | 58.00% | ~111,140 |
+| Where's that freaking Dwarf? | 46.00% | ~88,145 |
+| GG EZ | 27.00% | ~51,737 |
+| Speedrun | 26.00% | ~49,821 |
+| Déjà vu | 21.00% | ~40,240 |
+| Sock! SOCK! | 16.00% | ~30,659 |
+| DM intervention | 13.00% | ~24,911 |
+| Fireproof Wizardess | 9.00% | ~17,246 |
+| A beer, two curses, three companions | 7.00% | ~13,413 |
+| Livin' in a dwarven paradise | 6.00% | ~11,497 |
+| Way of the Wimp | 6.00% | ~11,497 |
+| The plot thickens... At the tavern | 5.00% | ~9,581 |
+| The Woman in the High Castle | 4.00% | ~7,665 |
+| I am the night | 3.00% | ~5,749 |
+| Team Building Exercise | 3.00% | ~5,749 |
 | Shiny and Crôm | 2.00% | ~3,832 |
 | The demons' feast | 2.00% | ~3,832 |
 | The Great Library | 2.00% | ~3,832 |
@@ -37,9 +37,9 @@ Number of Ratings: 118  (23.09.2022)
 | In Navalu's footsteps | 1.00% | ~1,916 |
 | Lust and Debauchery | 1.00% | ~1,916 |
 | Material Girl | 1.00% | ~1,916 |
-| The Statuette of Gladeulfeurah | 0.90% | ~1,724 |
-| A tale of adventurers not quite like the others... | 0.90% | ~1,724 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.90% | ~1,724 |
+| The Statuette of Gladeulfeurah | 0.90% | ~1,725 |
+| A tale of adventurers not quite like the others... | 0.90% | ~1,725 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.90% | ~1,725 |
 | It's been a hard day's night | 0.80% | ~1,533 |
 | The Dungeon Master | 0.70% | ~1,341 |
 | The Famous Dungeon of Naheulbeuk | 0.70% | ~1,341 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 191,588 (Ranked 58)  
+Progressed: 191,620 (Ranked 58)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-16 | 188,738 | 0 |
 | 2023-07-17 | 190,078 | 0 |
 | 2023-07-18 | 191,296 | 0 |
-| 2023-07-19 | 191,588 | 0 |
+| 2023-07-19 | 191,620 | 0 |
 ## Awards
 Max (Character Customization): 115  (Ranked 316)  
 Sum: 115 (Ranked 402)  

@@ -3492,9 +3492,9 @@
       "ID": "ACH_BALL_TRIP",
       "SetID": "2m0copd",
       "Name": "Clothesline",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 4470
+      "UsersEstimate": 4749
     },
     {
       "ID": "ACH_BOSSES",
@@ -3716,8 +3716,8 @@
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
   "LastChanged": "2023-07-11T17:00:49.6653428+00:00",
-  "LastChanged_Achievements": "2023-07-19T08:05:20.1731821+00:00",
+  "LastChanged_Achievements": "2023-07-19T09:05:23.4384752+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:53.5695898+00:00",
-  "LastUpdate_Ratings": "2023-07-19T07:59:45.3659285+00:00",
-  "LastUpdate_Achievements": "2023-07-19T08:05:20.1732112+00:00"
+  "LastUpdate_Ratings": "2023-07-19T09:00:00.8119178+00:00",
+  "LastUpdate_Achievements": "2023-07-19T09:05:23.4385123+00:00"
 }

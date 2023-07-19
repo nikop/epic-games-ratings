@@ -78,9 +78,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 66609,
+  "EOS_Progressed": 66612,
   "EOS_Completed": 642,
-  "EOS_NewPlayers": 973,
+  "EOS_NewPlayers": 972,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.96,
   "EosHistory": [
@@ -9808,6 +9808,11 @@
       "Time": "2023-07-19T08:06:17.9019135+00:00",
       "NumProgressed": 66609,
       "NumCompleted": 642
+    },
+    {
+      "Time": "2023-07-19T09:06:20.0584974+00:00",
+      "NumProgressed": 66612,
+      "NumCompleted": 642
     }
   ],
   "TotalAchievements": 25,
@@ -9851,7 +9856,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 14654
+      "UsersEstimate": 14655
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -9875,7 +9880,7 @@
       "Name": "Cut Call",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3330
+      "UsersEstimate": 3331
     },
     {
       "ID": "Fair\u0027sFair",
@@ -9947,7 +9952,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10657
+      "UsersEstimate": 10658
     },
     {
       "ID": "Nothing Left to Say",
@@ -9971,7 +9976,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 8659
+      "UsersEstimate": 8660
     },
     {
       "ID": "Sniper",
@@ -10018,7 +10023,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 66609,
+      "Progressed": 66612,
       "Completed": 642
     }
   ],
@@ -10026,8 +10031,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-07-12T22:00:34.5799915+00:00",
-  "LastChanged_Achievements": "2023-07-19T08:06:17.9019125+00:00",
+  "LastChanged_Achievements": "2023-07-19T09:06:20.0584968+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:36.9043448+00:00",
-  "LastUpdate_Ratings": "2023-07-19T08:00:15.9604077+00:00",
-  "LastUpdate_Achievements": "2023-07-19T08:06:17.9019744+00:00"
+  "LastUpdate_Ratings": "2023-07-19T09:00:32.6412285+00:00",
+  "LastUpdate_Achievements": "2023-07-19T09:06:20.0585764+00:00"
 }

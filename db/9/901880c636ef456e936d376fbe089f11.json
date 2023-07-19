@@ -334,17 +334,17 @@
       "ID": "ACH_BREW_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "First Brew",
-      "Percentage": 90,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_BREW_LATTEART_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "It\u0027s a masterpiece!",
-      "Percentage": 78,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_CAT_SHELTER",
@@ -701,8 +701,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-07-19T08:05:17.6116118+00:00",
+  "LastChanged_Achievements": "2023-07-19T09:05:20.6883117+00:00",
   "LastUpdate_AppInfo": "2023-07-18T06:57:00.6515942+00:00",
-  "LastUpdate_Ratings": "2023-07-19T07:57:12.9932179+00:00",
-  "LastUpdate_Achievements": "2023-07-19T08:05:17.6116533+00:00"
+  "LastUpdate_Ratings": "2023-07-19T08:57:28.8207067+00:00",
+  "LastUpdate_Achievements": "2023-07-19T09:05:20.6883563+00:00"
 }

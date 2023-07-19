@@ -7,10 +7,10 @@ Number of Ratings: 5,603  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Lawbringer | 37.00% | ~20,748 |
-| Landlord | 31.00% | ~17,383 |
-| Bannerlord | 22.00% | ~12,336 |
-| Horde breaker | 22.00% | ~12,336 |
-| Lawmaker | 22.00% | ~12,336 |
+| Landlord | 31.00% | ~17,384 |
+| Bannerlord | 22.00% | ~12,337 |
+| Horde breaker | 22.00% | ~12,337 |
+| Lawmaker | 22.00% | ~12,337 |
 | Trained | 21.00% | ~11,776 |
 | The king is pleased | 17.00% | ~9,533 |
 | King Solomon | 16.00% | ~8,972 |
@@ -26,7 +26,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | What have the Romans ever done for us? | 9.00% | ~5,047 |
 | Butterlord | 8.00% | ~4,486 |
 | Mastery | 7.00% | ~3,925 |
-| Know your enemy | 6.00% | ~3,364 |
+| Know your enemy | 6.00% | ~3,365 |
 | Crowdfunded | 4.00% | ~2,243 |
 | Crush your enemies | 4.00% | ~2,243 |
 | My way | 4.00% | ~2,243 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,075 (Ranked 83)  
+Progressed: 56,076 (Ranked 83)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-16 | 55,912 | 0 |
 | 2023-07-17 | 55,989 | 0 |
 | 2023-07-18 | 56,063 | 0 |
-| 2023-07-19 | 56,075 | 0 |
+| 2023-07-19 | 56,076 | 0 |
 ## Awards
 Max (Character Customization): 6,813  (Ranked 48)  
 Sum: 13,792 (Ranked 67)  

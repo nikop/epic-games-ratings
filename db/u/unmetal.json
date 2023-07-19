@@ -2,12 +2,12 @@
   "ID": "dfc4917a747748a0a25835f7152a30b4",
   "Name": "UnMetal",
   "ProductSlug": "unmetal",
-  "Ranking_Rating": 551,
+  "Ranking_Rating": 539,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 498,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewPlayers": 312,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2021-09-28T17:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.5,
+  "Rating": 4.51,
   "NumberOfRatings": 35,
   "RatingHistory": [
     {
@@ -156,6 +156,12 @@
       "Rating": 4.5,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-07-19T09:00:35.4636592+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -173,8 +179,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:47.3382201+00:00",
-  "LastChanged": "2023-07-18T09:02:55.9290436+00:00",
+  "LastChanged": "2023-07-19T09:00:35.4636591+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:38.4659875+00:00",
-  "LastUpdate_Ratings": "2023-07-19T08:00:19.2351442+00:00",
-  "LastUpdate_Achievements": "2023-07-19T08:02:29.7559686+00:00"
+  "LastUpdate_Ratings": "2023-07-19T09:00:35.4636596+00:00",
+  "LastUpdate_Achievements": "2023-07-19T09:02:26.2662797+00:00"
 }
