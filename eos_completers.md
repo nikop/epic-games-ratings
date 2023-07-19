@@ -21,10 +21,10 @@
 | 19 | [Remains](games/r/remains.md) | 11.36% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.11% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 22 | [Sonic Origins](games/s/sonic_origins.md) | 10.06% |
+| 22 | [Sonic Origins](games/s/sonic_origins.md) | 10.03% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 24 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 9.30% |
-| 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.66% |
+| 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.65% |
 | 26 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
 | 27 | [Smelter](games/s/smelter.md) | 8.11% |
 | 28 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.69% |
@@ -69,7 +69,7 @@
 | 67 | [Lamentum](games/l/lamentum.md) | 2.67% |
 | 68 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
 | 69 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.53% |
-| 70 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.51% |
+| 70 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.52% |
 | 71 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 72 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
 | 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.33% |
