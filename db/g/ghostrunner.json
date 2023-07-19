@@ -984,9 +984,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12749,
+  "EOS_Progressed": 12750,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 510,
+  "EOS_NewPlayers": 509,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -10449,6 +10449,11 @@
       "Time": "2023-07-19T15:00:36.054501+00:00",
       "NumProgressed": 12749,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-07-19T16:00:56.8122655+00:00",
+      "NumProgressed": 12750,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 45,
@@ -10516,7 +10521,7 @@
       "Name": "Fine addition",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 892
+      "UsersEstimate": 893
     },
     {
       "ID": "FinishLine",
@@ -10556,7 +10561,7 @@
       "Name": "I call it luck",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 5737
+      "UsersEstimate": 5738
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -10564,7 +10569,7 @@
       "Name": "Improvise, adapt, overrun",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1657
+      "UsersEstimate": 1658
     },
     {
       "ID": "Junkrunner",
@@ -10596,7 +10601,7 @@
       "Name": "Longrunner",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 9817
+      "UsersEstimate": 9818
     },
     {
       "ID": "MoreThanHuman",
@@ -10636,7 +10641,7 @@
       "Name": "One Of Those Days",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 892
+      "UsersEstimate": 893
     },
     {
       "ID": "OutOfOrder",
@@ -10652,7 +10657,7 @@
       "Name": "Perfection",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 4207
+      "UsersEstimate": 4208
     },
     {
       "ID": "PreempativeStrike",
@@ -10660,7 +10665,7 @@
       "Name": "Pre-empative strike",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1657
+      "UsersEstimate": 1658
     },
     {
       "ID": "PushItToTheLimit",
@@ -10668,7 +10673,7 @@
       "Name": "Push it to the limit",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "RIsForRunning",
@@ -10676,7 +10681,7 @@
       "Name": "R is for Running",
       "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 2167
+      "UsersEstimate": 2168
     },
     {
       "ID": "RunningOutOfBreath",
@@ -10684,7 +10689,7 @@
       "Name": "Running out of breath",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 7012
+      "UsersEstimate": 7013
     },
     {
       "ID": "RunningWild",
@@ -10724,7 +10729,7 @@
       "Name": "Strike",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1657
+      "UsersEstimate": 1658
     },
     {
       "ID": "SwordRunner",
@@ -10780,7 +10785,7 @@
       "Name": "Wallrunner",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 7012
+      "UsersEstimate": 7013
     },
     {
       "ID": "WaveOfMutilation",
@@ -10804,7 +10809,7 @@
       "Name": "Where He Stood",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "WhyNotBoth",
@@ -10819,21 +10824,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 12749,
+      "Progressed": 12750,
       "Completed": 29
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 12749,
+      "Progressed": 12750,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-07-13T04:58:08.9161071+00:00",
-  "LastChanged_Achievements": "2023-07-19T15:00:36.0545005+00:00",
+  "LastChanged_Achievements": "2023-07-19T16:00:56.8122646+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:46.7330035+00:00",
-  "LastUpdate_Ratings": "2023-07-19T14:58:12.5952676+00:00",
-  "LastUpdate_Achievements": "2023-07-19T15:00:36.0545995+00:00"
+  "LastUpdate_Ratings": "2023-07-19T15:58:28.1133559+00:00",
+  "LastUpdate_Achievements": "2023-07-19T16:00:56.8123413+00:00"
 }

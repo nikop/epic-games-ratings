@@ -23,6 +23,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Tetsuo | 0.20% | ~927 |
 | Pope Zenon | 0.20% | ~927 |
 | Things persisted in not being what they seemed | 0.20% | ~927 |
+| Soldiers of Fortune | 0.20% | ~14 |
 | Hand of the Emperor | 0.20% | ~14 |
 | Chapter IV: Through the Looking Glass | 0.10% | ~463 |
 | Chapter V: Memories of None | 0.10% | ~463 |
@@ -76,7 +77,6 @@ Number of Ratings: 1,003  (23.09.2022)
 | The Ghost | 0.10% | ~7 |
 | The Extractor | 0.10% | ~7 |
 | The Executioner | 0.10% | ~7 |
-| Soldiers of Fortune | 0.10% | ~7 |
 | Savior | 0.10% | ~7 |
 | The God of War | 0.10% | ~7 |
 | Horus Mastery | 0.10% | ~7 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~7 |
 | Kronos Rule | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 463,303 (Ranked 35)  
+Progressed: 463,305 (Ranked 35)  
 Completed: 16 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,11 +176,11 @@ Completed: 16 (0.00%) (Ranked 238)
 | 2023-07-16 | 463,142 | 16 |
 | 2023-07-17 | 463,200 | 16 |
 | 2023-07-18 | 463,269 | 16 |
-| 2023-07-19 | 463,303 | 16 |
+| 2023-07-19 | 463,305 | 16 |
 ## Awards
 Max (Character Customization): 214  (Ranked 263)  
-Sum: 214 (Ranked 357)  
-Diff (max vs sum): -94  
+Sum: 214 (Ranked 358)  
+Diff (max vs sum): -95  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 214 |

@@ -2,7 +2,7 @@
   "ID": "000ac10599a14d4dbe6ce5b817040fdd",
   "Name": "NeuroNet: Mendax Proxy",
   "ProductSlug": "neuronet-mendax-proxy",
-  "Ranking_EOS_Progress": 377,
+  "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 77,
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19,
+  "EOS_Progressed": 20,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -124,6 +124,11 @@
       "Time": "2023-06-08T00:07:01.4993632+00:00",
       "NumProgressed": 19,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-19T16:04:55.3006613+00:00",
+      "NumProgressed": 20,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -133,7 +138,7 @@
       "ID": "ALITTLE_ECCENTRIC",
       "SetID": "2d85n75",
       "Name": "A Little Eccentric",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -141,7 +146,7 @@
       "ID": "ALPHA01",
       "SetID": "2d85n75",
       "Name": "Hello World",
-      "Percentage": 63,
+      "Percentage": 60,
       "XP": 5,
       "UsersEstimate": 12
     },
@@ -149,7 +154,7 @@
       "ID": "AN_ACQUIRED_TASTE",
       "SetID": "2d85n75",
       "Name": "An Acquired Taste",
-      "Percentage": 37,
+      "Percentage": 35,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -157,7 +162,7 @@
       "ID": "AREAL_HEADACHE",
       "SetID": "2d85n75",
       "Name": "A Real Headache",
-      "Percentage": 32,
+      "Percentage": 30,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -165,7 +170,7 @@
       "ID": "ATOTAL_RIOT",
       "SetID": "2d85n75",
       "Name": "A Total Riot",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -173,7 +178,7 @@
       "ID": "AURORA04",
       "SetID": "2d85n75",
       "Name": "A Light in the Dark",
-      "Percentage": 42,
+      "Percentage": 40,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -181,7 +186,7 @@
       "ID": "AURORA_COMPLETE",
       "SetID": "2d85n75",
       "Name": "The Guardian",
-      "Percentage": 42,
+      "Percentage": 40,
       "XP": 25,
       "UsersEstimate": 8
     },
@@ -189,7 +194,7 @@
       "ID": "BETA03",
       "SetID": "2d85n75",
       "Name": "I Think, Therefore I Am",
-      "Percentage": 63,
+      "Percentage": 60,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -197,7 +202,7 @@
       "ID": "BLOOD_BEGETS_BLOOD",
       "SetID": "2d85n75",
       "Name": "Blood Begets Blood",
-      "Percentage": 32,
+      "Percentage": 30,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -205,7 +210,7 @@
       "ID": "BUSYBODY",
       "SetID": "2d85n75",
       "Name": "Busybody",
-      "Percentage": 42,
+      "Percentage": 40,
       "XP": 25,
       "UsersEstimate": 8
     },
@@ -229,7 +234,7 @@
       "ID": "ELEMAI05",
       "SetID": "2d85n75",
       "Name": "Endgame",
-      "Percentage": 42,
+      "Percentage": 40,
       "XP": 100,
       "UsersEstimate": 8
     },
@@ -237,7 +242,7 @@
       "ID": "EVERYONE_NEEDS_ABREAK",
       "SetID": "2d85n75",
       "Name": "Everyone Needs a Break",
-      "Percentage": 32,
+      "Percentage": 30,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -245,7 +250,7 @@
       "ID": "FIRST_DAY",
       "SetID": "2d85n75",
       "Name": "First Day of the Rest of Your Life",
-      "Percentage": 68,
+      "Percentage": 65,
       "XP": 10,
       "UsersEstimate": 13
     },
@@ -253,7 +258,7 @@
       "ID": "FORTRAN_COMPLETE",
       "SetID": "2d85n75",
       "Name": "The Philosopher",
-      "Percentage": 42,
+      "Percentage": 40,
       "XP": 25,
       "UsersEstimate": 8
     },
@@ -261,7 +266,7 @@
       "ID": "FULL_COVERAGE",
       "SetID": "2d85n75",
       "Name": "Full Coverage",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -269,7 +274,7 @@
       "ID": "JOB_CREATOR",
       "SetID": "2d85n75",
       "Name": "Job Creator",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -285,7 +290,7 @@
       "ID": "KNOCK_KNOCK",
       "SetID": "2d85n75",
       "Name": "Knock Knock",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -293,7 +298,7 @@
       "ID": "LEAVE_IT_TO_THE_PROFESSIONALS",
       "SetID": "2d85n75",
       "Name": "Leave It to the Professionals",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -301,7 +306,7 @@
       "ID": "MIND_CORE01",
       "SetID": "2d85n75",
       "Name": "The Real Beginning",
-      "Percentage": 63,
+      "Percentage": 60,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -309,7 +314,7 @@
       "ID": "OBLIGATORY_FRAUDULENT_BAKING",
       "SetID": "2d85n75",
       "Name": "Obligatory Fraudulent Baking",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -317,7 +322,7 @@
       "ID": "OVERSEER",
       "SetID": "2d85n75",
       "Name": "Overseer",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -325,7 +330,7 @@
       "ID": "PAPA_RU_COMPLETE",
       "SetID": "2d85n75",
       "Name": "The Partner",
-      "Percentage": 42,
+      "Percentage": 40,
       "XP": 25,
       "UsersEstimate": 8
     },
@@ -333,7 +338,7 @@
       "ID": "PATRIZIA_COMPLETE",
       "SetID": "2d85n75",
       "Name": "The Mentor",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -341,7 +346,7 @@
       "ID": "QUIDNUNC",
       "SetID": "2d85n75",
       "Name": "Quidnunc",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -349,7 +354,7 @@
       "ID": "RING_OF_FIRE",
       "SetID": "2d85n75",
       "Name": "Ring of Fire",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -357,7 +362,7 @@
       "ID": "RIVER_COMPLETE",
       "SetID": "2d85n75",
       "Name": "The Provocateur",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -365,7 +370,7 @@
       "ID": "SHOOK_UP",
       "SetID": "2d85n75",
       "Name": "Shook Up",
-      "Percentage": 53,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -373,7 +378,7 @@
       "ID": "SOCIAL_BUTTERFLY",
       "SetID": "2d85n75",
       "Name": "Social Butterfly",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -381,7 +386,7 @@
       "ID": "TALINGREY07",
       "SetID": "2d85n75",
       "Name": "Socially Acceptable Insanity",
-      "Percentage": 42,
+      "Percentage": 40,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -389,7 +394,7 @@
       "ID": "TALINGREY_COMPLETE",
       "SetID": "2d85n75",
       "Name": "The Companion",
-      "Percentage": 42,
+      "Percentage": 40,
       "XP": 25,
       "UsersEstimate": 8
     },
@@ -397,7 +402,7 @@
       "ID": "TASK_MASTER",
       "SetID": "2d85n75",
       "Name": "Task Master",
-      "Percentage": 42,
+      "Percentage": 40,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -405,7 +410,7 @@
       "ID": "TASTES_LIKE_REGRET",
       "SetID": "2d85n75",
       "Name": "Tastes Like Regret",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -413,7 +418,7 @@
       "ID": "THAT_ONE_DOESNT_COUNT",
       "SetID": "2d85n75",
       "Name": "That One Doesn\u0027t Count",
-      "Percentage": 32,
+      "Percentage": 30,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -421,7 +426,7 @@
       "ID": "THEY_FLOCK_TO_HIM",
       "SetID": "2d85n75",
       "Name": "They Flock to Him",
-      "Percentage": 32,
+      "Percentage": 30,
       "XP": 25,
       "UsersEstimate": 6
     },
@@ -437,7 +442,7 @@
       "ID": "THE_BIRDS_AND_THE_BEES",
       "SetID": "2d85n75",
       "Name": "The Birds and the Bees",
-      "Percentage": 53,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -445,7 +450,7 @@
       "ID": "THE_SPICE_OF_LIFE",
       "SetID": "2d85n75",
       "Name": "The Spice of Life",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -461,7 +466,7 @@
       "ID": "THOMPSON_COMPLETE",
       "SetID": "2d85n75",
       "Name": "The Counsellor",
-      "Percentage": 42,
+      "Percentage": 40,
       "XP": 25,
       "UsersEstimate": 8
     },
@@ -477,7 +482,7 @@
       "ID": "VACCINATED",
       "SetID": "2d85n75",
       "Name": "Vaccinated",
-      "Percentage": 53,
+      "Percentage": 50,
       "XP": 25,
       "UsersEstimate": 10
     },
@@ -485,7 +490,7 @@
       "ID": "WARNING_FRAGILE",
       "SetID": "2d85n75",
       "Name": "Warning: Fragile",
-      "Percentage": 42,
+      "Percentage": 40,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -501,7 +506,7 @@
       "ID": "WILFUL_IGNORANCE",
       "SetID": "2d85n75",
       "Name": "Wilful Ignorance",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -509,7 +514,7 @@
       "ID": "ZONK",
       "SetID": "2d85n75",
       "Name": "Zonk!",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 4
     }
@@ -518,7 +523,7 @@
     {
       "ID": "2d85n75",
       "IsBase": true,
-      "Progressed": 19,
+      "Progressed": 20,
       "Completed": 0
     }
   ],
@@ -526,8 +531,8 @@
   "FirstSeenRating": "2023-05-04T20:59:38.4702697+00:00",
   "FirstSeenAchievements": "2023-04-26T14:07:41.5246515+00:00",
   "LastChanged": "2023-05-04T20:59:38.4702697+00:00",
-  "LastChanged_Achievements": "2023-07-19T15:04:37.3717292+00:00",
+  "LastChanged_Achievements": "2023-07-19T16:04:55.3006607+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:43.0138546+00:00",
-  "LastUpdate_Ratings": "2023-07-19T14:59:47.4231341+00:00",
-  "LastUpdate_Achievements": "2023-07-19T15:04:37.3717683+00:00"
+  "LastUpdate_Ratings": "2023-07-19T16:00:05.1654271+00:00",
+  "LastUpdate_Achievements": "2023-07-19T16:04:55.3006962+00:00"
 }

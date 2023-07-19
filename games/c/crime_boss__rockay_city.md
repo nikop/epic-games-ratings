@@ -5,14 +5,14 @@ Rating: 3.93 (Ranked 929)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~51,155 |
+| Downed but Not Outed | 74.00% | ~51,156 |
 | First One’s Free | 65.00% | ~44,934 |
-| Neophyte Ninja | 50.00% | ~34,564 |
+| Neophyte Ninja | 50.00% | ~34,565 |
 | Too Old for This | 47.00% | ~32,491 |
-| Fancy Pants | 35.00% | ~24,195 |
+| Fancy Pants | 35.00% | ~24,196 |
 | Case Closed | 34.00% | ~23,504 |
 | King of the Hill | 34.00% | ~23,504 |
-| Underworld Initiate | 29.00% | ~20,047 |
+| Underworld Initiate | 29.00% | ~20,048 |
 | Roid Ranger | 21.00% | ~14,517 |
 | True Player | 19.00% | ~13,135 |
 | Off the Rocks | 19.00% | ~13,135 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 929)
 | Geek Out | 0.50% | ~346 |
 | Full House | 0.20% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69,129 (Ranked 75)  
+Progressed: 69,130 (Ranked 75)  
 Completed: 36 (0.05%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,16 +133,16 @@ Completed: 36 (0.05%) (Ranked 203)
 | 2023-07-16 | 69,011 | 36 |
 | 2023-07-17 | 69,061 | 36 |
 | 2023-07-18 | 69,100 | 36 |
-| 2023-07-19 | 69,129 | 36 |
+| 2023-07-19 | 69,130 | 36 |
 ## Awards
 Max (Diverse Characters): 366  (Ranked 219)  
-Sum: 1,737 (Ranked 206)  
+Sum: 1,740 (Ranked 206)  
 Diff (max vs sum): 13  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 366 |
 | This game is Highly Recommended | 354 |
-| This game has Quickly Understood Controls | 349 |
+| This game has Quickly Understood Controls | 352 |
 | This game has Challenging Combat | 338 |
 | This game has Amazing Characters | 330 |
 | This game is Great for Quick Sessions | 70 |
@@ -261,3 +261,4 @@ Diff (max vs sum): 13
 | 2023-07-16 | 3.93 | 364 | 1,731 |
 | 2023-07-17 | 3.93 | 366 | 1,734 |
 | 2023-07-18 | 3.93 | 366 | 1,737 |
+| 2023-07-19 | 3.93 | 366 | 1,740 |

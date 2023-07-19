@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Good to have Allies | 41.00% | ~207 |
-| Defenses Online | 39.00% | ~197 |
+| It's Good to have Allies | 41.00% | ~208 |
+| Defenses Online | 39.00% | ~198 |
 | Facility Online | 33.00% | ~167 |
-| Corporal | 25.00% | ~126 |
+| Corporal | 24.00% | ~122 |
 | Covert Operative | 19.00% | ~96 |
 | Sergeant | 18.00% | ~91 |
 | Lieutenant | 14.00% | ~71 |
@@ -18,8 +18,8 @@
 | Infantry Reporting | 12.00% | ~61 |
 | Fighting for Survival | 10.00% | ~51 |
 | Silver Competitor | 9.00% | ~46 |
-| Captain | 8.00% | ~40 |
-| Factory Expansion | 8.00% | ~40 |
+| Captain | 8.00% | ~41 |
+| Factory Expansion | 8.00% | ~41 |
 | Exterminator | 7.00% | ~35 |
 | Brothers in Arms | 6.00% | ~30 |
 | Know The Enemy | 4.00% | ~20 |
@@ -43,7 +43,7 @@
 | Platinum Achiever | 0.00% | ~0 |
 | Platinum Competitor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 506 (Ranked 214)  
+Progressed: 507 (Ranked 214)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,4 +84,4 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-16 | 466 | 0 |
 | 2023-07-17 | 477 | 0 |
 | 2023-07-18 | 495 | 0 |
-| 2023-07-19 | 506 | 0 |
+| 2023-07-19 | 507 | 0 |

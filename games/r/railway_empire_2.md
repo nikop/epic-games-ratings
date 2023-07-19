@@ -1,33 +1,33 @@
 # Railway Empire 2
 [Store](https://store.epicgames.com/en-US/p/railway-empire-2-46840c)  
 [View Rawdata](../../db/r/railway_empire_2.json)  
-Rating: 4.49 (Ranked 574)  
+Rating: 4.49 (Ranked 575)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 74.00% | ~1,192 |
-| A new Journey | 73.00% | ~1,176 |
-| From X to Y | 72.00% | ~1,160 |
-| Departure | 72.00% | ~1,160 |
+| Country Bumpkin | 74.00% | ~1,193 |
+| A new Journey | 73.00% | ~1,177 |
+| From X to Y | 72.00% | ~1,161 |
+| Departure | 72.00% | ~1,161 |
 | Way of Iron | 70.00% | ~1,128 |
-| Mystery Tour | 68.00% | ~1,095 |
-| We brake for nobody | 67.00% | ~1,079 |
-| Brainstorm | 65.00% | ~1,047 |
-| Travel Company | 65.00% | ~1,047 |
-| Mind the Gap | 64.00% | ~1,031 |
-| All around the World | 61.00% | ~983 |
-| Right through the middle | 56.00% | ~902 |
+| Mystery Tour | 68.00% | ~1,096 |
+| We brake for nobody | 67.00% | ~1,080 |
+| Brainstorm | 65.00% | ~1,048 |
+| Travel Company | 65.00% | ~1,048 |
+| Mind the Gap | 64.00% | ~1,032 |
+| All around the World | 62.00% | ~999 |
+| Right through the middle | 56.00% | ~903 |
 | Facility Manager | 53.00% | ~854 |
 | Poor Devil | 53.00% | ~854 |
-| Producer | 49.00% | ~789 |
+| Producer | 50.00% | ~806 |
 | Apprentice | 42.00% | ~677 |
 | Bridge Builder | 41.00% | ~661 |
 | Access granted | 34.00% | ~548 |
 | Going once, going twice, sold | 34.00% | ~548 |
 | Stoker | 33.00% | ~532 |
 | Bull and bear | 33.00% | ~532 |
-| Full Steam ahead | 31.00% | ~499 |
-| Financial Shark | 30.00% | ~483 |
+| Full Steam ahead | 31.00% | ~500 |
+| Financial Shark | 30.00% | ~484 |
 | Socializer | 29.00% | ~467 |
 | All mine | 28.00% | ~451 |
 | Mole | 28.00% | ~451 |
@@ -39,12 +39,12 @@ Rating: 4.49 (Ranked 574)
 | Breaking Ground | 20.00% | ~322 |
 | Traffic Junction | 19.00% | ~306 |
 | Traffic Jam | 18.00% | ~290 |
-| Networker | 17.00% | ~274 |
+| Networker | 18.00% | ~290 |
 | Resistance is futile | 16.00% | ~258 |
 | Assimilated | 16.00% | ~258 |
 | Locusts | 15.00% | ~242 |
-| Max Power | 13.00% | ~209 |
-| Settler | 13.00% | ~209 |
+| Max Power | 13.00% | ~210 |
+| Settler | 13.00% | ~210 |
 | Go West | 12.00% | ~193 |
 | Bold and beautiful | 11.00% | ~177 |
 | A new Hope | 9.00% | ~145 |
@@ -61,7 +61,7 @@ Rating: 4.49 (Ranked 574)
 | United States | 0.40% | ~6 |
 | Three Cheers for Progress | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,611 (Ranked 170)  
+Progressed: 1,612 (Ranked 170)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-16 | 1,581 | 0 |
 | 2023-07-17 | 1,595 | 0 |
 | 2023-07-18 | 1,605 | 0 |
-| 2023-07-19 | 1,611 | 0 |
+| 2023-07-19 | 1,612 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

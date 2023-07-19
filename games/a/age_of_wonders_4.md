@@ -7,11 +7,11 @@ Rating: 4.63 (Ranked 331)
 | ---- | ---------- | ----- |
 | Secret Technique | 5.00% | ~251 |
 | Tipping the Scales | 5.00% | ~251 |
-| Realm Estate | 4.00% | ~200 |
-| A Wonderful Discovery | 4.00% | ~200 |
-| Walls Cannot Stop Us | 4.00% | ~200 |
-| Magical Synergy | 4.00% | ~200 |
-| Mighty Hoard | 4.00% | ~200 |
+| Realm Estate | 4.00% | ~201 |
+| A Wonderful Discovery | 4.00% | ~201 |
+| Walls Cannot Stop Us | 4.00% | ~201 |
+| Magical Synergy | 4.00% | ~201 |
+| Mighty Hoard | 4.00% | ~201 |
 | There Can Only Be One! | 3.00% | ~150 |
 | Full Ascension | 3.00% | ~150 |
 | Bone Peddler | 3.00% | ~150 |
@@ -56,7 +56,7 @@ Rating: 4.63 (Ranked 331)
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,012 (Ranked 136)  
+Progressed: 5,014 (Ranked 136)  
 Completed: 5 (0.10%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 5 (0.10%) (Ranked 184)
 | 2023-07-16 | 5,005 | 5 |
 | 2023-07-17 | 5,009 | 5 |
 | 2023-07-18 | 5,010 | 5 |
-| 2023-07-19 | 5,012 | 5 |
+| 2023-07-19 | 5,014 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

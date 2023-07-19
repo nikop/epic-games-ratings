@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Black Cat's Warning | 105.00% | ~98 |
-| Break no Sweat | 100.00% | ~93 |
-| Every little bit counts | 100.00% | ~93 |
-| Growth | 88.00% | ~82 |
-| Targeting the Enemy | 70.00% | ~65 |
+| Black Cat's Warning | 104.00% | ~98 |
+| Break no Sweat | 99.00% | ~93 |
+| Every little bit counts | 99.00% | ~93 |
+| Growth | 87.00% | ~82 |
+| Targeting the Enemy | 69.00% | ~65 |
 | Unavoidable | 63.00% | ~59 |
 | Revenge | 62.00% | ~58 |
 | Reunion | 43.00% | ~40 |
 | Elimination | 34.00% | ~32 |
 | Fluke | 34.00% | ~32 |
 | Victor's Prejudice | 34.00% | ~32 |
+| Excellent Driving Skills | 31.00% | ~29 |
 | Once Bitten, Twice Shy | 31.00% | ~29 |
 | Memento | 31.00% | ~29 |
-| Excellent Driving Skills | 30.00% | ~28 |
 | Fleet-footed | 28.00% | ~26 |
 | Defeat the AI | 27.00% | ~25 |
 | Invincible | 27.00% | ~25 |
 | Unsalvageable | 26.00% | ~24 |
-| Neutralize | 24.00% | ~22 |
-| Best in Dragon City | 23.00% | ~21 |
-| Walking into a Trap | 23.00% | ~21 |
-| Disdain | 22.00% | ~20 |
+| Neutralize | 23.00% | ~22 |
+| Best in Dragon City | 22.00% | ~21 |
+| Walking into a Trap | 22.00% | ~21 |
+| Disdain | 21.00% | ~20 |
 | Final Battle | 19.00% | ~18 |
 | Outsider's Profit | 19.00% | ~18 |
 | Brain in a Vat | 17.00% | ~16 |
@@ -34,9 +34,9 @@
 | Survival Expert | 11.00% | ~10 |
 | Calamity | 10.00% | ~9 |
 | Rest in peace | 9.00% | ~8 |
-| Still A Chance | 8.00% | ~7 |
-| Achieving Excellence | 8.00% | ~7 |
-| Fashionista | 8.00% | ~7 |
+| Still A Chance | 7.00% | ~7 |
+| Achieving Excellence | 7.00% | ~7 |
+| Fashionista | 7.00% | ~7 |
 | Intel Expert | 5.00% | ~5 |
 | Unexpected Crisis | 4.00% | ~4 |
 | Limbo | 4.00% | ~4 |
@@ -62,7 +62,7 @@
 | Heavenly Music | 0.00% | ~0 |
 | Smooth-Sailing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93 (Ranked 305)  
+Progressed: 94 (Ranked 302)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,6 +91,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-04 | 93 | 0 |
 | 2023-07-16 | 92 | 0 |
 | 2023-07-18 | 93 | 0 |
+| 2023-07-19 | 94 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

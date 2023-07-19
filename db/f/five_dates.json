@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 477,
+  "EOS_Progressed": 478,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
@@ -737,6 +737,11 @@
       "Time": "2023-07-17T11:05:45.6519753+00:00",
       "NumProgressed": 477,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-07-19T16:05:46.0726943+00:00",
+      "NumProgressed": 478,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 15,
@@ -748,7 +753,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "booty_call",
@@ -772,7 +777,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "hold_my_beer",
@@ -780,7 +785,7 @@
       "Name": "Hold my Beer",
       "Percentage": 65,
       "XP": 25,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -812,7 +817,7 @@
       "Name": "Not Alone",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "nueva_beginnings",
@@ -867,7 +872,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 477,
+      "Progressed": 478,
       "Completed": 6
     }
   ],
@@ -875,8 +880,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-07-19T15:05:28.2722184+00:00",
+  "LastChanged_Achievements": "2023-07-19T16:05:46.0726936+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:47.7956673+00:00",
-  "LastUpdate_Ratings": "2023-07-19T14:58:16.616475+00:00",
-  "LastUpdate_Achievements": "2023-07-19T15:05:28.2722547+00:00"
+  "LastUpdate_Ratings": "2023-07-19T15:58:33.1772516+00:00",
+  "LastUpdate_Achievements": "2023-07-19T16:05:46.0727068+00:00"
 }

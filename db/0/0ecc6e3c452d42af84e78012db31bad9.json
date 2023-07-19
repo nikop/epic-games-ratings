@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 130,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
     "PcReleaseDate": "2021-04-01T07:00:00+00:00",
@@ -2118,9 +2118,9 @@
       "ID": "ach_food_unlocked",
       "SetID": "3h4khpo",
       "Name": "Food - unlocked",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 483
+      "UsersEstimate": 497
     },
     {
       "ID": "ach_game_opened",
@@ -2165,8 +2165,8 @@
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-07-19T15:04:38.3615118+00:00",
+  "LastChanged_Achievements": "2023-07-19T16:04:56.4974954+00:00",
   "LastUpdate_AppInfo": "2023-07-14T09:57:10.1132461+00:00",
-  "LastUpdate_Ratings": "2023-07-19T14:57:09.6696668+00:00",
-  "LastUpdate_Achievements": "2023-07-19T15:04:38.3615354+00:00"
+  "LastUpdate_Ratings": "2023-07-19T15:57:22.8871151+00:00",
+  "LastUpdate_Achievements": "2023-07-19T16:04:56.4975128+00:00"
 }

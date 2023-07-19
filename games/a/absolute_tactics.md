@@ -14,9 +14,9 @@
 | Eye for an Eye | 20.00% | ~1 |
 | Glorious Loot | 20.00% | ~1 |
 | The Soul of Mercy | 20.00% | ~1 |
+| Victorious | 20.00% | ~1 |
 | Bloody Vengeance | 0.00% | ~0 |
 | Good Fortune | 0.00% | ~0 |
-| Victorious | 0.00% | ~0 |
 | Heroes of Neu Selea | 0.00% | ~0 |
 | Eternal Darkness | 0.00% | ~0 |
 | Real Ultimate Power | 0.00% | ~0 |

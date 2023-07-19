@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1072,
+  "EOS_Progressed": 1073,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -645,6 +645,11 @@
       "Time": "2023-07-19T03:21:20.3723281+00:00",
       "NumProgressed": 1072,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-19T16:03:14.620221+00:00",
+      "NumProgressed": 1073,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -760,7 +765,7 @@
       "Name": "To the core",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ALLTRACKSTOKYO",
@@ -784,7 +789,7 @@
       "Name": "Rookie No More",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "CAREERADVANCED",
@@ -880,7 +885,7 @@
       "Name": "Blurred photofinish",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "FINISHSOUND",
@@ -968,7 +973,7 @@
       "Name": "Increasing your Power Level",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "ONEPAINT",
@@ -1008,7 +1013,7 @@
       "Name": "A Cheese Grater to the Face",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "TENPLATINUM",
@@ -1071,7 +1076,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1072,
+      "Progressed": 1073,
       "Completed": 0
     }
   ],
@@ -1079,8 +1084,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-07-19T15:02:25.9778949+00:00",
+  "LastChanged_Achievements": "2023-07-19T16:03:14.6202202+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:52.2995402+00:00",
-  "LastUpdate_Ratings": "2023-07-19T14:58:15.8896487+00:00",
-  "LastUpdate_Achievements": "2023-07-19T15:02:25.9779418+00:00"
+  "LastUpdate_Ratings": "2023-07-19T15:58:32.466824+00:00",
+  "LastUpdate_Achievements": "2023-07-19T16:03:14.6202626+00:00"
 }
