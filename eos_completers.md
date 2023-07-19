@@ -23,7 +23,7 @@
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 22 | [Sonic Origins](games/s/sonic_origins.md) | 10.03% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 24 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 9.30% |
+| 24 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 9.09% |
 | 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.70% |
 | 26 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
 | 27 | [Smelter](games/s/smelter.md) | 8.11% |
@@ -31,7 +31,7 @@
 | 29 | [Ravenlok](games/r/ravenlok.md) | 7.43% |
 | 30 | [Time Loader](games/t/time_loader.md) | 7.14% |
 | 31 | [Scorn](games/s/scorn.md) | 7.04% |
-| 32 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.95% |
+| 32 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.94% |
 | 33 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.52% |
 | 34 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 35 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -76,7 +76,7 @@
 | 74 | [Bloodshore](games/b/bloodshore.md) | 2.27% |
 | 75 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.15% |
 | 76 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.13% |
-| 77 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.10% |
+| 77 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.09% |
 | 78 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.08% |
 | 79 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
 | 80 | [Frogun](games/f/frogun.md) | 1.91% |
@@ -89,8 +89,8 @@
 | 87 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.52% |
 | 88 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
 | 89 | [Ten Dates](games/t/ten_dates.md) | 1.49% |
-| 90 | [Night Book](games/n/night_book.md) | 1.45% |
 | 90 | [Poosh XL](games/p/poosh_xl.md) | 1.45% |
+| 91 | [Night Book](games/n/night_book.md) | 1.44% |
 | 92 | [A Musical Story](games/a/a_musical_story.md) | 1.41% |
 | 93 | [Late Shift](games/l/late_shift.md) | 1.33% |
 | 94 | [Five Dates](games/f/five_dates.md) | 1.26% |
