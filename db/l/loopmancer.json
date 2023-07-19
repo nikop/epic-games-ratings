@@ -4,7 +4,7 @@
   "ProductSlug": "loopmancer",
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-07-27T03:58:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 94,
+  "EOS_Progressed": 95,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -254,6 +254,11 @@
       "Time": "2023-07-19T16:06:11.0019601+00:00",
       "NumProgressed": 94,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-19T19:06:01.6458767+00:00",
+      "NumProgressed": 95,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -265,7 +270,7 @@
       "Name": "Break no Sweat",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_AVOID_PLAZA_ATTACK",
@@ -281,15 +286,15 @@
       "Name": "Black Cat\u0027s Warning",
       "Percentage": 104,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH_DEFEAT_OGATA",
       "SetID": "6d82akp",
       "Name": "Best in Dragon City",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_DEFEAT_SBY_TIANWU_TPSN",
@@ -311,7 +316,7 @@
       "ID": "ACH_DEFEAT_TIANWU_TPSN",
       "SetID": "6d82akp",
       "Name": "Defeat the AI",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
       "UsersEstimate": 25
     },
@@ -359,7 +364,7 @@
       "ID": "ACH_ENDING_MILLIONS_PEOPLE",
       "SetID": "6d82akp",
       "Name": "Calamity",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 50,
       "UsersEstimate": 9
     },
@@ -431,7 +436,7 @@
       "ID": "ACH_GET_STORY_TRUTH",
       "SetID": "6d82akp",
       "Name": "Targeting the Enemy",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 5,
       "UsersEstimate": 65
     },
@@ -463,7 +468,7 @@
       "ID": "ACH_KILL_MANY_SICKGUY",
       "SetID": "6d82akp",
       "Name": "Rest in peace",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
       "UsersEstimate": 8
     },
@@ -537,13 +542,13 @@
       "Name": "Unavoidable",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ACH_SAVE_LISBETH_TIMEOUT",
       "SetID": "6d82akp",
       "Name": "Unsalvageable",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
       "UsersEstimate": 24
     },
@@ -551,7 +556,7 @@
       "ID": "ACH_SAVE_LIZBETH",
       "SetID": "6d82akp",
       "Name": "Fleet-footed",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 26
     },
@@ -559,7 +564,7 @@
       "ID": "ACH_SAVE_LIZBETH_WIFE",
       "SetID": "6d82akp",
       "Name": "Invincible",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
       "UsersEstimate": 25
     },
@@ -567,7 +572,7 @@
       "ID": "ACH_SAVE_WIFE",
       "SetID": "6d82akp",
       "Name": "Reunion",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 20,
       "UsersEstimate": 40
     },
@@ -663,7 +668,7 @@
       "ID": "ACH_UNLOCK_CHARGE_ACTOR",
       "SetID": "6d82akp",
       "Name": "Every little bit counts",
-      "Percentage": 99,
+      "Percentage": 98,
       "XP": 5,
       "UsersEstimate": 93
     },
@@ -679,7 +684,7 @@
       "ID": "ACH_UNLOCK_SKILL",
       "SetID": "6d82akp",
       "Name": "Growth",
-      "Percentage": 87,
+      "Percentage": 86,
       "XP": 5,
       "UsersEstimate": 82
     },
@@ -687,7 +692,7 @@
       "ID": "ACH_UNPLUG_EBRAIN",
       "SetID": "6d82akp",
       "Name": "Revenge",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 10,
       "UsersEstimate": 58
     },
@@ -720,7 +725,7 @@
     {
       "ID": "6d82akp",
       "IsBase": true,
-      "Progressed": 94,
+      "Progressed": 95,
       "Completed": 0
     }
   ],
@@ -728,8 +733,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.2220083+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.6600084+00:00",
   "LastChanged": "2023-03-31T05:58:38.2220085+00:00",
-  "LastChanged_Achievements": "2023-07-19T18:06:26.0961728+00:00",
+  "LastChanged_Achievements": "2023-07-19T19:06:01.6458762+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:45.3910399+00:00",
-  "LastUpdate_Ratings": "2023-07-19T18:00:09.5610116+00:00",
-  "LastUpdate_Achievements": "2023-07-19T18:06:26.0962118+00:00"
+  "LastUpdate_Ratings": "2023-07-19T18:59:58.3409298+00:00",
+  "LastUpdate_Achievements": "2023-07-19T19:06:01.645916+00:00"
 }

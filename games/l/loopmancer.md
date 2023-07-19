@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Black Cat's Warning | 104.00% | ~98 |
-| Break no Sweat | 99.00% | ~93 |
-| Every little bit counts | 99.00% | ~93 |
-| Growth | 87.00% | ~82 |
-| Targeting the Enemy | 69.00% | ~65 |
-| Unavoidable | 63.00% | ~59 |
-| Revenge | 62.00% | ~58 |
-| Reunion | 43.00% | ~40 |
+| Black Cat's Warning | 104.00% | ~99 |
+| Break no Sweat | 99.00% | ~94 |
+| Every little bit counts | 98.00% | ~93 |
+| Growth | 86.00% | ~82 |
+| Targeting the Enemy | 68.00% | ~65 |
+| Unavoidable | 63.00% | ~60 |
+| Revenge | 61.00% | ~58 |
+| Reunion | 42.00% | ~40 |
 | Elimination | 34.00% | ~32 |
 | Fluke | 34.00% | ~32 |
 | Victor's Prejudice | 34.00% | ~32 |
 | Excellent Driving Skills | 31.00% | ~29 |
 | Once Bitten, Twice Shy | 31.00% | ~29 |
 | Memento | 31.00% | ~29 |
-| Fleet-footed | 28.00% | ~26 |
-| Defeat the AI | 27.00% | ~25 |
-| Invincible | 27.00% | ~25 |
-| Unsalvageable | 26.00% | ~24 |
+| Fleet-footed | 27.00% | ~26 |
+| Defeat the AI | 26.00% | ~25 |
+| Invincible | 26.00% | ~25 |
+| Unsalvageable | 25.00% | ~24 |
+| Best in Dragon City | 23.00% | ~22 |
 | Neutralize | 23.00% | ~22 |
-| Best in Dragon City | 22.00% | ~21 |
 | Walking into a Trap | 22.00% | ~21 |
 | Disdain | 21.00% | ~20 |
 | Final Battle | 19.00% | ~18 |
@@ -32,8 +32,8 @@
 | Reappearance | 16.00% | ~15 |
 | King of the Streets | 11.00% | ~10 |
 | Survival Expert | 11.00% | ~10 |
-| Calamity | 10.00% | ~9 |
-| Rest in peace | 9.00% | ~8 |
+| Calamity | 9.00% | ~9 |
+| Rest in peace | 8.00% | ~8 |
 | Still A Chance | 7.00% | ~7 |
 | Achieving Excellence | 7.00% | ~7 |
 | Fashionista | 7.00% | ~7 |
@@ -62,7 +62,7 @@
 | Heavenly Music | 0.00% | ~0 |
 | Smooth-Sailing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 94 (Ranked 302)  
+Progressed: 95 (Ranked 302)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-04 | 93 | 0 |
 | 2023-07-16 | 92 | 0 |
 | 2023-07-18 | 93 | 0 |
-| 2023-07-19 | 94 | 0 |
+| 2023-07-19 | 95 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

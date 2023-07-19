@@ -4,8 +4,8 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 25,
-  "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1965,
-  "EOS_Completed": 170,
-  "EOS_NewPlayers": 57,
-  "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 8.65,
+  "EOS_Progressed": 1966,
+  "EOS_Completed": 171,
+  "EOS_NewPlayers": 55,
+  "EOS_NewCompleters": 10,
+  "EOS_Completed_Percentage": 8.7,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -4023,6 +4023,11 @@
       "Time": "2023-07-19T17:03:47.6463244+00:00",
       "NumProgressed": 1965,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-07-19T19:03:24.4475542+00:00",
+      "NumProgressed": 1966,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 12,
@@ -4074,7 +4079,7 @@
       "Name": "Jakob",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "Jude",
@@ -4082,7 +4087,7 @@
       "Name": "Jude",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "Le Juif et la France",
@@ -4090,7 +4095,7 @@
       "Name": "Le Juif et la France",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "Little Helper",
@@ -4114,7 +4119,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "Nuremberg Laws",
@@ -4129,16 +4134,16 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1965,
-      "Completed": 170
+      "Progressed": 1966,
+      "Completed": 171
     }
   ],
   "FirstSeen": "2023-02-19T22:57:55.1416262+00:00",
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-07-19T18:03:48.7433253+00:00",
+  "LastChanged_Achievements": "2023-07-19T19:03:24.4475539+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:31.7321074+00:00",
-  "LastUpdate_Ratings": "2023-07-19T17:59:54.4968857+00:00",
-  "LastUpdate_Achievements": "2023-07-19T18:03:48.7433508+00:00"
+  "LastUpdate_Ratings": "2023-07-19T18:59:46.4605479+00:00",
+  "LastUpdate_Achievements": "2023-07-19T19:03:24.4475798+00:00"
 }

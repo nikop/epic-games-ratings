@@ -500,9 +500,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "8d3ci0",
       "Name": "Three is company",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -540,9 +540,9 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "8d3ci0",
       "Name": "High-rise",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -588,17 +588,17 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "8d3ci0",
       "Name": "Way to the shore",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "8d3ci0",
       "Name": "Private pool",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -635,8 +635,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-19T18:05:27.228623+00:00",
+  "LastChanged_Achievements": "2023-07-19T19:05:02.2895933+00:00",
   "LastUpdate_AppInfo": "2023-07-15T11:57:13.4695515+00:00",
-  "LastUpdate_Ratings": "2023-07-19T17:57:18.9193336+00:00",
-  "LastUpdate_Achievements": "2023-07-19T18:05:27.2286361+00:00"
+  "LastUpdate_Ratings": "2023-07-19T18:57:16.2998525+00:00",
+  "LastUpdate_Achievements": "2023-07-19T19:05:02.289604+00:00"
 }

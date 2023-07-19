@@ -6,12 +6,12 @@
 | ---- | ---------- | ----- |
 | Cause and Effect | 96.00% | ~433 |
 | Fair Share | 71.00% | ~320 |
-| Even Tempered | 56.00% | ~253 |
+| Even Tempered | 57.00% | ~257 |
 | Star-Crossed Lovers | 47.00% | ~212 |
 | The Delivery | 44.00% | ~198 |
 | Shill Bidder | 44.00% | ~198 |
 | The Frenzy | 33.00% | ~149 |
-| Good Karma | 31.00% | ~140 |
+| Good Karma | 32.00% | ~144 |
 | Office Clerk | 31.00% | ~140 |
 | Protector | 29.00% | ~131 |
 | The Bribe | 27.00% | ~122 |

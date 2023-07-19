@@ -18,7 +18,7 @@
 | 10K | 26.00% | ~56 |
 | Bouncemato | 26.00% | ~43 |
 | 15K | 24.00% | ~52 |
-| Grave Digger | 22.00% | ~37 |
+| Grave Digger | 23.00% | ~38 |
 | Drinking Problem | 20.00% | ~43 |
 | Professional Survivor | 19.00% | ~32 |
 | Pork Chop Express | 16.00% | ~35 |
@@ -29,9 +29,9 @@
 | This Is My Boomstick | 12.00% | ~20 |
 | Getting Started | 11.00% | ~24 |
 | Summers Here | 11.00% | ~18 |
+| Fresh Pancake | 10.00% | ~22 |
 | Quit Horsin' Around | 10.00% | ~22 |
 | Eggtraordinary | 10.00% | ~22 |
-| Fresh Pancake | 9.00% | ~20 |
 | Perfect | 9.00% | ~15 |
 | Bring Home The Bacon | 8.00% | ~17 |
 | Expert Survivor | 8.00% | ~13 |

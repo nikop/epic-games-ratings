@@ -3532,9 +3532,9 @@
       "ID": "A05",
       "SetID": "9b7p7eo",
       "Name": "A new Hope",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 161
     },
     {
       "ID": "A06",
@@ -3941,8 +3941,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-07-15T13:11:52.2660049+00:00",
-  "LastChanged_Achievements": "2023-07-19T18:03:29.1715703+00:00",
+  "LastChanged_Achievements": "2023-07-19T19:02:35.3590292+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:48.1822596+00:00",
-  "LastUpdate_Ratings": "2023-07-19T17:58:29.5209645+00:00",
-  "LastUpdate_Achievements": "2023-07-19T18:03:29.171621+00:00"
+  "LastUpdate_Ratings": "2023-07-19T18:58:28.2846394+00:00",
+  "LastUpdate_Achievements": "2023-07-19T19:02:35.3590799+00:00"
 }

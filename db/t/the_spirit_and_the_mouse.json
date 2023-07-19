@@ -197,17 +197,17 @@
       "ID": "lightbulbs50",
       "SetID": "bbgli2k",
       "Name": "Lightbulbs Expert",
-      "Percentage": 42,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "neighenergy.east",
       "SetID": "bbgli2k",
       "Name": "East Street Energy",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "neighenergy.north",
@@ -390,8 +390,8 @@
   "FirstSeenRating": "2023-03-31T05:58:29.0586638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.5925841+00:00",
   "LastChanged": "2023-03-31T05:58:29.0586639+00:00",
-  "LastChanged_Achievements": "2023-07-19T18:08:11.3282927+00:00",
+  "LastChanged_Achievements": "2023-07-19T19:06:26.1609893+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:01.8234661+00:00",
-  "LastUpdate_Ratings": "2023-07-19T17:57:34.8665076+00:00",
-  "LastUpdate_Achievements": "2023-07-19T18:08:11.3283201+00:00"
+  "LastUpdate_Ratings": "2023-07-19T18:57:33.1011398+00:00",
+  "LastUpdate_Achievements": "2023-07-19T19:06:26.1610128+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2969,
+  "EOS_Progressed": 2970,
   "EOS_Completed": 101,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 3.4,
   "EosHistory": [
@@ -3560,6 +3560,11 @@
       "Time": "2023-07-19T18:06:04.826948+00:00",
       "NumProgressed": 2969,
       "NumCompleted": 101
+    },
+    {
+      "Time": "2023-07-19T19:05:40.288719+00:00",
+      "NumProgressed": 2970,
+      "NumCompleted": 101
     }
   ],
   "TotalAchievements": 24,
@@ -3579,7 +3584,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1217
+      "UsersEstimate": 1218
     },
     {
       "ID": "11",
@@ -3611,7 +3616,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1217
+      "UsersEstimate": 1218
     },
     {
       "ID": "15",
@@ -3667,7 +3672,7 @@
       "Name": "PROTECTED",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "21",
@@ -3691,7 +3696,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "24",
@@ -3699,7 +3704,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "3",
@@ -3715,7 +3720,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "5",
@@ -3739,7 +3744,7 @@
       "Name": "MASTER",
       "Percentage": 15,
       "XP": 65,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "8",
@@ -3762,13 +3767,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2969,
+      "Progressed": 2970,
       "Completed": 101
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-07-19T18:06:04.8269473+00:00",
+  "LastChanged_Achievements": "2023-07-19T19:05:40.2887185+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:54.868293+00:00",
-  "LastUpdate_Ratings": "2023-07-19T17:59:23.8748102+00:00",
-  "LastUpdate_Achievements": "2023-07-19T18:06:04.8269759+00:00"
+  "LastUpdate_Ratings": "2023-07-19T18:59:16.0663083+00:00",
+  "LastUpdate_Achievements": "2023-07-19T19:05:40.2887489+00:00"
 }

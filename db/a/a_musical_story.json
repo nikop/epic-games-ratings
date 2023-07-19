@@ -270,9 +270,9 @@
       "ID": "L15_FINISH",
       "SetID": "6finf64",
       "Name": "Bad Trip",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "L15_PERFECT",
@@ -302,9 +302,9 @@
       "ID": "L16_FINISH",
       "SetID": "6finf64",
       "Name": "Chase the Crow",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "L16_PERFECT",
@@ -591,8 +591,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.0267676+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.5327196+00:00",
   "LastChanged": "2023-03-31T05:57:21.0267677+00:00",
-  "LastChanged_Achievements": "2023-07-19T18:06:15.5813836+00:00",
+  "LastChanged_Achievements": "2023-07-19T19:05:50.9562127+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:01.355176+00:00",
-  "LastUpdate_Ratings": "2023-07-19T17:58:36.2166228+00:00",
-  "LastUpdate_Achievements": "2023-07-19T18:06:15.581421+00:00"
+  "LastUpdate_Ratings": "2023-07-19T18:58:35.7491011+00:00",
+  "LastUpdate_Achievements": "2023-07-19T19:05:50.9562653+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "13e30807efce43ea9e04ac1c45668d8e",
   "Name": "Outliver: Tribulation",
   "ProductSlug": "outliver-tribulations-679884",
-  "Ranking_EOS_Progress": 425,
+  "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-07-18T15:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 5,
+  "EOS_Progressed": 6,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -49,6 +49,11 @@
       "Time": "2023-07-19T18:03:12.5403458+00:00",
       "NumProgressed": 5,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-19T19:02:18.5956348+00:00",
+      "NumProgressed": 6,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-02T06:02:07.3967379+00:00",
@@ -67,7 +72,7 @@
       "ID": "ACH_DEFEAT_AKINOLU",
       "SetID": "7m06add",
       "Name": "Akinolu",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -75,7 +80,7 @@
       "ID": "ACH_DEFEAT_KUKUTEKO",
       "SetID": "7m06add",
       "Name": "Kukuteko",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -83,7 +88,7 @@
       "ID": "ACH_DEFEAT_OMOTOKE",
       "SetID": "7m06add",
       "Name": "Omotoke",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -91,7 +96,7 @@
       "ID": "ACH_DEFEAT_SANGODELE",
       "SetID": "7m06add",
       "Name": "Sangodele",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -123,7 +128,7 @@
       "ID": "ACH_FINISH_GAME",
       "SetID": "7m06add",
       "Name": "The Imbued One",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -131,7 +136,7 @@
       "ID": "ACH_FINISH_GAME_NO_DEATH",
       "SetID": "7m06add",
       "Name": "Ain\u0027t Got Time To Die",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -203,7 +208,7 @@
       "ID": "ACH_MAX_SPIRIT_ESSENCE",
       "SetID": "7m06add",
       "Name": "Spirit Essence",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -211,7 +216,7 @@
       "ID": "ACH_SPEEDRUN_GAME",
       "SetID": "7m06add",
       "Name": "The Impatient One",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -219,22 +224,22 @@
       "ID": "ACH_WELCOME_TO_ROT",
       "SetID": "7m06add",
       "Name": "The Realm Of Tribulations",
-      "Percentage": 80,
+      "Percentage": 83,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
     {
       "ID": "7m06add",
       "IsBase": true,
-      "Progressed": 5,
+      "Progressed": 6,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-01T13:14:13.8674761+00:00",
-  "LastChanged_Achievements": "2023-07-19T18:03:12.5403455+00:00",
+  "LastChanged_Achievements": "2023-07-19T19:02:18.5956343+00:00",
   "LastUpdate_AppInfo": "2023-07-14T13:57:07.8499913+00:00",
-  "LastUpdate_Ratings": "2023-07-19T17:57:14.707472+00:00",
-  "LastUpdate_Achievements": "2023-07-19T18:03:12.5403582+00:00"
+  "LastUpdate_Ratings": "2023-07-19T18:57:10.4814177+00:00",
+  "LastUpdate_Achievements": "2023-07-19T19:02:18.5956458+00:00"
 }

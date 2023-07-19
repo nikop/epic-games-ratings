@@ -1458,9 +1458,9 @@
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
       "SetID": "6kcl14p",
       "Name": "Das Ist Endg\u00FCltig!",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 59
+      "UsersEstimate": 62
     },
     {
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
@@ -1483,8 +1483,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-07-19T18:05:45.7386954+00:00",
+  "LastChanged_Achievements": "2023-07-19T19:05:21.1939219+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:28.7848156+00:00",
-  "LastUpdate_Ratings": "2023-07-19T17:58:56.5013698+00:00",
-  "LastUpdate_Achievements": "2023-07-19T18:05:45.7387098+00:00"
+  "LastUpdate_Ratings": "2023-07-19T18:58:54.2720626+00:00",
+  "LastUpdate_Achievements": "2023-07-19T19:05:21.1939357+00:00"
 }

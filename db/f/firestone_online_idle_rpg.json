@@ -200,9 +200,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1679,
+  "EOS_Progressed": 1680,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4345,6 +4345,11 @@
       "Time": "2023-07-19T11:02:24.2710786+00:00",
       "NumProgressed": 1679,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-19T19:00:45.2272556+00:00",
+      "NumProgressed": 1680,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -4532,7 +4537,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "fellowshippower",
@@ -4540,7 +4545,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "fourleafclover",
@@ -4684,7 +4689,7 @@
       "Name": "Milestone collector",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "minerclicker",
@@ -4732,7 +4737,7 @@
       "Name": "Natural Talent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "pokerface",
@@ -4804,7 +4809,7 @@
       "Name": "Superior",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "templeofeternals",
@@ -4812,7 +4817,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "thealchemist",
@@ -4916,7 +4921,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1561
+      "UsersEstimate": 1562
     },
     {
       "ID": "warmachinesarmy",
@@ -4948,14 +4953,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1326
+      "UsersEstimate": 1327
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1679,
+      "Progressed": 1680,
       "Completed": 1
     }
   ],
@@ -4963,8 +4968,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-07-18T16:58:41.2064019+00:00",
-  "LastChanged_Achievements": "2023-07-19T17:01:07.4891733+00:00",
+  "LastChanged_Achievements": "2023-07-19T19:00:45.2272548+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:38.4078532+00:00",
-  "LastUpdate_Ratings": "2023-07-19T17:58:25.9725138+00:00",
-  "LastUpdate_Achievements": "2023-07-19T17:01:07.4892857+00:00"
+  "LastUpdate_Ratings": "2023-07-19T18:58:24.9848786+00:00",
+  "LastUpdate_Achievements": "2023-07-19T19:00:45.2273375+00:00"
 }

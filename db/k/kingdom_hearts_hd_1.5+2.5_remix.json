@@ -4,7 +4,7 @@
   "ProductSlug": "kingdom-hearts-hd-1-5-2-5-remix",
   "Ranking_Rating": 65,
   "Ranking_Popularity": 97,
-  "Ranking_PopularitySum": 111,
+  "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 498,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 310,
@@ -4938,10 +4938,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 6841,
       "NumberOfAwardsMax": 2539
+    },
+    {
+      "Time": "2023-07-19T18:59:37.3912698+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 6843,
+      "NumberOfAwardsMax": 2539
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6841,
+  "NumberOfAwards": 6843,
   "NumberOfAwardsMax": 2539,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4997,7 +5003,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 539
+      "Count": 541
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5029,8 +5035,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:56.8065488+00:00",
-  "LastChanged": "2023-07-19T14:00:09.9678799+00:00",
+  "LastChanged": "2023-07-19T18:59:37.3912697+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:19.3970499+00:00",
-  "LastUpdate_Ratings": "2023-07-19T17:59:46.2570235+00:00",
-  "LastUpdate_Achievements": "2023-07-19T18:04:37.7885028+00:00"
+  "LastUpdate_Ratings": "2023-07-19T18:59:37.3912702+00:00",
+  "LastUpdate_Achievements": "2023-07-19T19:04:13.2608795+00:00"
 }

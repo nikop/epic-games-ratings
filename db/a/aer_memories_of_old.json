@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15652,
+  "EOS_Progressed": 15654,
   "EOS_Completed": 328,
-  "EOS_NewPlayers": 588,
+  "EOS_NewPlayers": 586,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -9809,6 +9809,11 @@
       "Time": "2023-07-19T18:04:25.6261956+00:00",
       "NumProgressed": 15652,
       "NumCompleted": 328
+    },
+    {
+      "Time": "2023-07-19T19:04:01.7506197+00:00",
+      "NumProgressed": 15654,
+      "NumCompleted": 328
     }
   ],
   "TotalAchievements": 20,
@@ -9836,7 +9841,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2191
+      "UsersEstimate": 2192
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -9940,7 +9945,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 11896
+      "UsersEstimate": 11897
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -9956,7 +9961,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2191
+      "UsersEstimate": 2192
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -9979,15 +9984,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 15652,
+      "Progressed": 15654,
       "Completed": 328
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-07-19T18:04:25.6261951+00:00",
+  "LastChanged_Achievements": "2023-07-19T19:04:01.7506193+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:08.6336222+00:00",
-  "LastUpdate_Ratings": "2023-07-19T18:00:35.7976238+00:00",
-  "LastUpdate_Achievements": "2023-07-19T18:04:25.6262496+00:00"
+  "LastUpdate_Ratings": "2023-07-19T19:00:19.1494576+00:00",
+  "LastUpdate_Achievements": "2023-07-19T19:04:01.7506728+00:00"
 }

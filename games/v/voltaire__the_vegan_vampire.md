@@ -31,10 +31,10 @@
 | Yeehaw! | 1.00% | ~1 |
 | Yeetus Deletus | 1.00% | ~1 |
 | Best in the field | 1.00% | ~1 |
+| V is for Vegan | 1.00% | ~1 |
 | Fauna Connoisseur | 0.00% | ~0 |
 | Daddy Issues | 0.00% | ~0 |
 | Free Spirit | 0.00% | ~0 |
-| V is for Vegan | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 104 (Ranked 300)  
 Completed: 0 (0.00%) (Ranked 238)  

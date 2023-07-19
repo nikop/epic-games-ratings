@@ -2682,9 +2682,9 @@
       "ID": "campaign7",
       "SetID": "2h56gn1",
       "Name": "Maestro",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 858
+      "UsersEstimate": 889
     },
     {
       "ID": "campaign8",
@@ -2771,8 +2771,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-07-19T18:03:58.6785674+00:00",
+  "LastChanged_Achievements": "2023-07-19T19:03:34.2880744+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:16.8344753+00:00",
-  "LastUpdate_Ratings": "2023-07-19T18:00:40.4221358+00:00",
-  "LastUpdate_Achievements": "2023-07-19T18:03:58.6785972+00:00"
+  "LastUpdate_Ratings": "2023-07-19T19:00:23.707489+00:00",
+  "LastUpdate_Achievements": "2023-07-19T19:03:34.2881048+00:00"
 }

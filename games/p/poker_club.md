@@ -5,29 +5,29 @@ Rating: 3.80 (Ranked 943)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~382,927 |
-| Handy | 40.00% | ~201,540 |
-| Cold Caller | 38.00% | ~191,463 |
-| A Bit On The Side | 26.00% | ~131,001 |
-| Backdoor | 24.00% | ~120,924 |
-| Rank Amateur | 21.00% | ~105,809 |
-| Three Way | 18.00% | ~90,693 |
-| Deadly Assassin | 15.00% | ~75,578 |
-| Gutshot | 13.00% | ~65,501 |
-| Risk It For A Biscuit | 13.00% | ~65,501 |
-| Showoff | 13.00% | ~65,501 |
-| W.H.I.P. | 11.00% | ~55,424 |
-| Bet Bet Bet | 9.00% | ~45,347 |
-| Blindman's Bluff | 8.00% | ~40,308 |
-| Poker Joker | 8.00% | ~40,308 |
-| Dog Eat Dog | 7.00% | ~35,270 |
-| Never Give Up | 7.00% | ~35,270 |
-| Quack Quack | 7.00% | ~35,270 |
-| The Bigger They Are | 7.00% | ~35,270 |
-| Total Knock Out | 7.00% | ~35,270 |
-| Give Your Regards To Broadway | 6.00% | ~30,231 |
-| Check Yourself | 4.00% | ~20,154 |
-| Moneymaker | 4.00% | ~20,154 |
+| Pro Creation | 76.00% | ~382,938 |
+| Handy | 40.00% | ~201,546 |
+| Cold Caller | 38.00% | ~191,469 |
+| A Bit On The Side | 26.00% | ~131,005 |
+| Backdoor | 24.00% | ~120,928 |
+| Rank Amateur | 21.00% | ~105,812 |
+| Three Way | 18.00% | ~90,696 |
+| Deadly Assassin | 15.00% | ~75,580 |
+| Gutshot | 13.00% | ~65,503 |
+| Risk It For A Biscuit | 13.00% | ~65,503 |
+| Showoff | 13.00% | ~65,503 |
+| W.H.I.P. | 11.00% | ~55,425 |
+| Bet Bet Bet | 9.00% | ~45,348 |
+| Blindman's Bluff | 8.00% | ~40,309 |
+| Poker Joker | 8.00% | ~40,309 |
+| Dog Eat Dog | 7.00% | ~35,271 |
+| Never Give Up | 7.00% | ~35,271 |
+| Quack Quack | 7.00% | ~35,271 |
+| The Bigger They Are | 7.00% | ~35,271 |
+| Total Knock Out | 7.00% | ~35,271 |
+| Give Your Regards To Broadway | 6.00% | ~30,232 |
+| Check Yourself | 4.00% | ~20,155 |
+| Moneymaker | 4.00% | ~20,155 |
 | In The Gang | 3.00% | ~15,116 |
 | On The Button | 3.00% | ~15,116 |
 | Before You Wreck Yourself | 2.00% | ~10,077 |
@@ -51,7 +51,7 @@ Rating: 3.80 (Ranked 943)
 | Rounder | 0.10% | ~504 |
 | Top Dog | 0.10% | ~504 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 503,851 (Ranked 31)  
+Progressed: 503,866 (Ranked 31)  
 Completed: 1 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 1 (0.00%) (Ranked 238)
 | 2023-07-16 | 502,689 | 1 |
 | 2023-07-17 | 503,116 | 1 |
 | 2023-07-18 | 503,553 | 1 |
-| 2023-07-19 | 503,851 | 1 |
+| 2023-07-19 | 503,866 | 1 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 462)  
 Sum: 28 (Ranked 474)  

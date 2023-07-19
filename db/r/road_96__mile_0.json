@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 338,
+  "EOS_Progressed": 339,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -969,6 +969,11 @@
       "Time": "2023-07-19T17:01:04.1731896+00:00",
       "NumProgressed": 338,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-19T19:02:15.1645766+00:00",
+      "NumProgressed": 339,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -978,9 +983,9 @@
       "ID": "completeact1",
       "SetID": "40n95i5",
       "Name": "BBFF (Best Brigade Friend Forever)",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 183
+      "UsersEstimate": 180
     },
     {
       "ID": "completeact2",
@@ -988,7 +993,7 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 46,
       "XP": 80,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "completeact3",
@@ -996,7 +1001,7 @@
       "Name": "On the Road",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "findalltapes",
@@ -1028,7 +1033,7 @@
       "Name": "Freedom",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "scoreminrankrf1",
@@ -1036,7 +1041,7 @@
       "Name": "86\u0027s Nightmare",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "scoreminrankrf2",
@@ -1060,15 +1065,15 @@
       "Name": "This is Not Heavy Metal!",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "scoreminrankrp2",
       "SetID": "40n95i5",
       "Name": "Attack on Tyran",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 24
+      "UsersEstimate": 20
     },
     {
       "ID": "scoreminrankrp3",
@@ -1076,7 +1081,7 @@
       "Name": "The Eye of the Storm",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "scoreminrankrv1",
@@ -1099,7 +1104,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 338,
+      "Progressed": 339,
       "Completed": 2
     }
   ],
@@ -1107,8 +1112,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-07-19T18:01:07.8532089+00:00",
+  "LastChanged_Achievements": "2023-07-19T19:02:15.1645762+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:44.4042174+00:00",
-  "LastUpdate_Ratings": "2023-07-19T17:59:13.2140651+00:00",
-  "LastUpdate_Achievements": "2023-07-19T18:01:07.8532252+00:00"
+  "LastUpdate_Ratings": "2023-07-19T18:59:06.9224465+00:00",
+  "LastUpdate_Achievements": "2023-07-19T19:02:15.1645902+00:00"
 }

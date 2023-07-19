@@ -6682,12 +6682,18 @@
       "Rating": 4.42,
       "NumberOfAwards": 10666,
       "NumberOfAwardsMax": 1201
+    },
+    {
+      "Time": "2023-07-19T18:59:13.748729+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 10675,
+      "NumberOfAwardsMax": 1204
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10666,
-  "NumberOfAwardsMax": 1201,
-  "MaxAwardTitle": "Relaxing",
+  "NumberOfAwards": 10675,
+  "NumberOfAwardsMax": 1204,
+  "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game has Challenging Combat",
@@ -6711,7 +6717,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1195
+      "Count": 1204
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -6761,8 +6767,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:02.7521927+00:00",
-  "LastChanged": "2023-07-19T16:59:23.9084159+00:00",
+  "LastChanged": "2023-07-19T18:59:13.7487289+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:53.621837+00:00",
-  "LastUpdate_Ratings": "2023-07-19T17:59:21.511675+00:00",
-  "LastUpdate_Achievements": "2023-07-19T18:05:13.395073+00:00"
+  "LastUpdate_Ratings": "2023-07-19T18:59:13.7487294+00:00",
+  "LastUpdate_Achievements": "2023-07-19T19:04:48.5289417+00:00"
 }
