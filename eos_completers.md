@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 45.45% |
-| 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 43.01% |
+| 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.55% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.00% |
 | 5 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 27.27% |
 | 6 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -69,7 +69,7 @@
 | 67 | [Lamentum](games/l/lamentum.md) | 2.67% |
 | 68 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
 | 69 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.53% |
-| 70 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.52% |
+| 70 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.51% |
 | 71 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 72 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
 | 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.33% |
@@ -174,11 +174,11 @@
 | 171 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
 | 173 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 173 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
-| 175 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.15% |
 | 175 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
 | 175 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.15% |
 | 175 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
-| 179 | [Port Royale 4](games/p/port_royale_4.md) | 0.14% |
+| 178 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.14% |
+| 178 | [Port Royale 4](games/p/port_royale_4.md) | 0.14% |
 | 180 | [Isonzo](games/i/isonzo.md) | 0.13% |
 | 181 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 182 | [Fall Guys](games/f/fall_guys.md) | 0.11% |
@@ -209,12 +209,12 @@
 | 203 | [Saints Row](games/s/saints_row.md) | 0.05% |
 | 208 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
 | 208 | [High On Life](games/h/high_on_life.md) | 0.04% |
-| 208 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.04% |
 | 208 | [Old World](games/o/old_world.md) | 0.04% |
-| 212 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.03% |
-| 212 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
-| 212 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.03% |
-| 212 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.03% |
+| 211 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.03% |
+| 211 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
+| 211 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.03% |
+| 211 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.03% |
+| 211 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.03% |
 | 216 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
 | 216 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
 | 216 | [Good Company](games/g/good_company.md) | 0.02% |
