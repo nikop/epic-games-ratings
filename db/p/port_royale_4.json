@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 738,
+  "EOS_Progressed": 739,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1340,6 +1340,11 @@
       "Time": "2023-07-20T06:04:44.7362739+00:00",
       "NumProgressed": 738,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-20T12:04:37.6846934+00:00",
+      "NumProgressed": 739,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -1351,7 +1356,7 @@
       "Name": "Cabin boy",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "ACH001",
@@ -1447,7 +1452,7 @@
       "Name": "3, 2, 1, mine",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "ACH013",
@@ -1455,7 +1460,7 @@
       "Name": "In a mint condition",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "ACH014",
@@ -1503,7 +1508,7 @@
       "Name": "Just a scratch",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ACH020",
@@ -1535,7 +1540,7 @@
       "Name": "Gofer",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "ACH024",
@@ -1551,7 +1556,7 @@
       "Name": "My precious!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACH026",
@@ -1607,7 +1612,7 @@
       "Name": "Pirates!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ACH033",
@@ -1695,7 +1700,7 @@
       "Name": "Your vessel, my vessel",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ACH044",
@@ -1703,7 +1708,7 @@
       "Name": "Greed for gold",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "ACH045",
@@ -1743,22 +1748,22 @@
       "Name": "Wholesale",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     }
   ],
   "AchievementSets": [
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 738,
+      "Progressed": 739,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-07-20T11:05:25.1144997+00:00",
+  "LastChanged_Achievements": "2023-07-20T12:04:37.6846929+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:20.5627408+00:00",
-  "LastUpdate_Ratings": "2023-07-20T10:59:20.4982479+00:00",
-  "LastUpdate_Achievements": "2023-07-20T11:05:25.1145467+00:00"
+  "LastUpdate_Ratings": "2023-07-20T11:58:42.8138029+00:00",
+  "LastUpdate_Achievements": "2023-07-20T12:04:37.6847414+00:00"
 }

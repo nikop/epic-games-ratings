@@ -1,24 +1,24 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.49 (Ranked 574)  
+Rating: 4.49 (Ranked 575)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~20,926 |
-| Advancement | 73.00% | ~17,763 |
-| Meticulously Efficient | 64.00% | ~15,573 |
-| Discovery | 61.00% | ~14,843 |
+| Stylish | 86.00% | ~20,927 |
+| Advancement | 73.00% | ~17,764 |
+| Meticulously Efficient | 64.00% | ~15,574 |
+| Discovery | 61.00% | ~14,844 |
 | Fully Upgraded | 54.00% | ~13,140 |
 | Swift Rift Removers | 54.00% | ~13,140 |
 | I collect Spores, Molds, and Fungi | 51.00% | ~12,410 |
 | Cultured | 51.00% | ~12,410 |
 | Vaporous Expansion | 48.00% | ~11,680 |
 | Teamwork | 44.00% | ~10,707 |
-| There you are! | 43.00% | ~10,463 |
+| There you are! | 43.00% | ~10,464 |
 | Clutch Capture | 41.00% | ~9,977 |
 | Back Off | 35.00% | ~8,517 |
-| Daily Dose | 34.00% | ~8,273 |
+| Daily Dose | 34.00% | ~8,274 |
 | Solo Capture | 32.00% | ~7,787 |
 | Welcome to the Crew | 32.00% | ~7,787 |
 | Ghostbuster In Training | 30.00% | ~7,300 |
@@ -29,7 +29,7 @@ Rating: 4.49 (Ranked 574)
 | Legions | 26.00% | ~6,327 |
 | Right back at ya | 26.00% | ~6,327 |
 | Stunner | 26.00% | ~6,327 |
-| Pesky Jerks | 25.00% | ~6,083 |
+| Pesky Jerks | 25.00% | ~6,084 |
 | Animated | 24.00% | ~5,840 |
 | Skilled | 24.00% | ~5,840 |
 | Collector | 23.00% | ~5,597 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 574)
 | Mycophile | 1.00% | ~243 |
 | I don't need these | 0.90% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,333 (Ranked 99)  
+Progressed: 24,334 (Ranked 99)  
 Completed: 46 (0.19%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 46 (0.19%) (Ranked 168)
 | 2023-07-17 | 24,281 | 46 |
 | 2023-07-18 | 24,306 | 46 |
 | 2023-07-19 | 24,324 | 46 |
-| 2023-07-20 | 24,333 | 46 |
+| 2023-07-20 | 24,334 | 46 |
 ## Awards
 Max (Great for Quick Sessions): 243  (Ranked 249)  
 Sum: 2,173 (Ranked 189)  

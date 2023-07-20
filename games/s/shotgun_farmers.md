@@ -15,11 +15,11 @@
 | Early Survivor | 41.00% | ~69 |
 | No Diggity | 41.00% | ~69 |
 | Amateur Survivor | 30.00% | ~50 |
-| 10K | 26.00% | ~57 |
+| 10K | 27.00% | ~59 |
 | Bouncemato | 26.00% | ~44 |
-| 15K | 24.00% | ~52 |
+| 15K | 25.00% | ~54 |
 | Grave Digger | 22.00% | ~37 |
-| Drinking Problem | 20.00% | ~44 |
+| Drinking Problem | 21.00% | ~46 |
 | Professional Survivor | 20.00% | ~34 |
 | Pork Chop Express | 16.00% | ~35 |
 | Quick-Draw Pod | 16.00% | ~27 |
@@ -33,8 +33,8 @@
 | Quit Horsin' Around | 10.00% | ~22 |
 | Eggtraordinary | 10.00% | ~22 |
 | Perfect | 9.00% | ~15 |
+| Expert Survivor | 9.00% | ~15 |
 | Bring Home The Bacon | 8.00% | ~17 |
-| Expert Survivor | 8.00% | ~13 |
 | Quadsparagus | 8.00% | ~13 |
 | Pyromaniac | 6.00% | ~10 |
 | Early Bird | 5.00% | ~11 |

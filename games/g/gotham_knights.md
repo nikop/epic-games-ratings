@@ -46,9 +46,9 @@ Rating: 4.18 (Ranked 856)
 | A Momentum Occasion | 0.60% | ~403 |
 | Bat Out of Hell | 0.50% | ~336 |
 | He'd Be So Proud of You | 0.40% | ~269 |
-| Hammer and Icicle | 0.30% | ~112 |
-| Renewable Enemy Source | 0.30% | ~112 |
-| Crime Is a Terrible Thing to Waste | 0.30% | ~112 |
+| Hammer and Icicle | 0.30% | ~113 |
+| Renewable Enemy Source | 0.30% | ~113 |
+| Crime Is a Terrible Thing to Waste | 0.30% | ~113 |
 | Practice Makes Perfect | 0.30% | ~202 |
 | The Man-Bat Family | 0.30% | ~202 |
 | Element of Surprise | 0.20% | ~75 |
@@ -59,15 +59,15 @@ Rating: 4.18 (Ranked 856)
 | Batarang Collector | 0.20% | ~134 |
 | Claiming the Mural High Ground | 0.20% | ~134 |
 | A Sophisticated Mallet | 0.20% | ~75 |
-| Gotham's Greatest Depths | 0.10% | ~37 |
-| Showdown Sovereign | 0.10% | ~37 |
-| That's Showbiz, Clayby | 0.10% | ~37 |
-| Don't Mecha Big Deal About It | 0.10% | ~37 |
+| Gotham's Greatest Depths | 0.10% | ~38 |
+| Showdown Sovereign | 0.10% | ~38 |
+| That's Showbiz, Clayby | 0.10% | ~38 |
+| Don't Mecha Big Deal About It | 0.10% | ~38 |
 | Read Owl About It | 0.10% | ~67 |
 | History Major | 0.10% | ~67 |
-| Confronting Your Demon | 0.10% | ~37 |
+| Confronting Your Demon | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,219 (Ranked 77)  
+Progressed: 67,221 (Ranked 77)  
 Completed: 102 (0.15%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 102 (0.15%) (Ranked 175)
 | 2023-07-17 | 67,148 | 102 |
 | 2023-07-18 | 67,170 | 102 |
 | 2023-07-19 | 67,208 | 102 |
-| 2023-07-20 | 67,219 | 102 |
+| 2023-07-20 | 67,221 | 102 |
 ## Awards
 Max (Great Boss Battles): 2,454  (Ranked 101)  
 Sum: 4,071 (Ranked 138)  

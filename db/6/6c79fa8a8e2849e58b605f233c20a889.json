@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2068,
+  "EOS_Progressed": 2069,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3896,6 +3896,11 @@
       "Time": "2023-07-20T11:03:39.2981663+00:00",
       "NumProgressed": 2068,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-20T12:03:28.7326027+00:00",
+      "NumProgressed": 2069,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -3915,7 +3920,7 @@
       "Name": "Puppetmaster",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "BOT_DESTROYER",
@@ -3939,7 +3944,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -4082,14 +4087,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2068,
+      "Progressed": 2069,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-07-20T11:03:39.2981659+00:00",
+  "LastChanged_Achievements": "2023-07-20T12:03:28.7326021+00:00",
   "LastUpdate_AppInfo": "2023-07-18T18:56:59.446909+00:00",
-  "LastUpdate_Ratings": "2023-07-20T10:57:37.6291955+00:00",
-  "LastUpdate_Achievements": "2023-07-20T11:03:39.2982057+00:00"
+  "LastUpdate_Ratings": "2023-07-20T11:57:33.9492392+00:00",
+  "LastUpdate_Achievements": "2023-07-20T12:03:28.7326364+00:00"
 }

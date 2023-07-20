@@ -2120,9 +2120,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67219,
+  "EOS_Progressed": 67221,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 264,
+  "EOS_NewPlayers": 266,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10335,6 +10335,11 @@
       "Time": "2023-07-20T11:05:08.5066481+00:00",
       "NumProgressed": 67219,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-07-20T12:04:25.619266+00:00",
+      "NumProgressed": 67221,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 61,
@@ -10346,7 +10351,7 @@
       "Name": "Hammer and Icicle",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "AC1_HA_BREAK_BUFFS",
@@ -10370,7 +10375,7 @@
       "Name": "Renewable Enemy Source",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "AC1_HA_RESERVOIR",
@@ -10378,7 +10383,7 @@
       "Name": "Crime Is a Terrible Thing to Waste",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "AC1_HA_STARLABS",
@@ -10402,7 +10407,7 @@
       "Name": "Gotham\u0027s Greatest Depths",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ALL_SHOWDOWN",
@@ -10410,7 +10415,7 @@
       "Name": "Showdown Sovereign",
       "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ALL_TRAINING_ROOMS",
@@ -10474,7 +10479,7 @@
       "Name": "That\u0027s Showbiz, Clayby",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "CRAFTING_LEGENDARY_SET",
@@ -10610,7 +10615,7 @@
       "Name": "Don\u0027t Mecha Big Deal About It",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "GOTHAM_BATARANGS",
@@ -10818,7 +10823,7 @@
       "Name": "Confronting Your Demon",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "TIME_TRIALS_1",
@@ -10833,13 +10838,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67219,
+      "Progressed": 67221,
       "Completed": 102
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 37499,
+      "Progressed": 37501,
       "Completed": 2652
     }
   ],
@@ -10847,8 +10852,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-07-20T10:00:27.4978463+00:00",
-  "LastChanged_Achievements": "2023-07-20T11:05:08.5066477+00:00",
+  "LastChanged_Achievements": "2023-07-20T12:04:25.6192654+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:49.4668745+00:00",
-  "LastUpdate_Ratings": "2023-07-20T11:01:02.2859822+00:00",
-  "LastUpdate_Achievements": "2023-07-20T11:05:08.5067563+00:00"
+  "LastUpdate_Ratings": "2023-07-20T12:00:00.054728+00:00",
+  "LastUpdate_Achievements": "2023-07-20T12:04:25.6193717+00:00"
 }

@@ -21,7 +21,7 @@ Number of Ratings: 706  (23.09.2022)
 | Studious Researcher | 50.00% | ~2,357 |
 | Adept Researcher | 44.00% | ~2,074 |
 | Retribution | 40.00% | ~1,886 |
-| ...And Don’t Come Back! | 39.00% | ~1,838 |
+| ...And Don’t Come Back! | 40.00% | ~1,886 |
 | Fit For A King | 38.00% | ~1,791 |
 | Luminary Researcher | 34.00% | ~1,603 |
 | Heating Up | 28.00% | ~1,320 |
@@ -29,8 +29,8 @@ Number of Ratings: 706  (23.09.2022)
 | Winter Is Here | 22.00% | ~1,037 |
 | Disassembled | 19.00% | ~896 |
 | A Party Now | 19.00% | ~896 |
+| Oh Deer! | 19.00% | ~896 |
 | All Year Round | 19.00% | ~896 |
-| Oh Deer! | 18.00% | ~849 |
 | Nothing Wasted | 12.00% | ~566 |
 | Don't Cry Wolf | 11.00% | ~519 |
 | Deerly Departed | 8.00% | ~377 |

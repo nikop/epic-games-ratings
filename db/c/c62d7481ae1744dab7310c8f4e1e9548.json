@@ -110,17 +110,17 @@
       "ID": "Dusici",
       "SetID": "ag48e8e",
       "Name": "Young Spirits",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Fletny",
       "SetID": "ag48e8e",
       "Name": "Four Flutes",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Houby",
@@ -142,9 +142,9 @@
       "ID": "Kamzik",
       "SetID": "ag48e8e",
       "Name": "Chamois",
-      "Percentage": 50,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Kour",
@@ -230,17 +230,17 @@
       "ID": "Prstenec",
       "SetID": "ag48e8e",
       "Name": "Cosmic Ring",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Rybka",
       "SetID": "ag48e8e",
       "Name": "Goldfish",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Sova",
@@ -294,9 +294,9 @@
       "ID": "Truhlice",
       "SetID": "ag48e8e",
       "Name": "Shem Is Home",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 60,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Xicht",
@@ -333,8 +333,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-07-20T11:02:34.1777161+00:00",
+  "LastChanged_Achievements": "2023-07-20T12:02:24.4419413+00:00",
   "LastUpdate_AppInfo": "2023-07-14T13:57:07.7032953+00:00",
-  "LastUpdate_Ratings": "2023-07-20T10:57:03.0176941+00:00",
-  "LastUpdate_Achievements": "2023-07-20T11:02:34.1777402+00:00"
+  "LastUpdate_Ratings": "2023-07-20T11:57:10.9709746+00:00",
+  "LastUpdate_Achievements": "2023-07-20T12:02:24.441965+00:00"
 }

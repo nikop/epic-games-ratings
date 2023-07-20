@@ -2,12 +2,12 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 574,
+  "Ranking_Rating": 575,
   "Ranking_Popularity": 249,
   "Ranking_PopularitySum": 189,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1500,7 +1500,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 24333,
+  "EOS_Progressed": 24334,
   "EOS_Completed": 46,
   "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
@@ -8250,6 +8250,11 @@
       "Time": "2023-07-20T11:03:58.2947162+00:00",
       "NumProgressed": 24333,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-07-20T12:03:42.8645093+00:00",
+      "NumProgressed": 24334,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 51,
@@ -8261,7 +8266,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 17763
+      "UsersEstimate": 17764
     },
     {
       "ID": "Animated",
@@ -8333,7 +8338,7 @@
       "Name": "Daily Dose",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 8273
+      "UsersEstimate": 8274
     },
     {
       "ID": "Diabolical",
@@ -8349,7 +8354,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 14843
+      "UsersEstimate": 14844
     },
     {
       "ID": "Dont_Need_These",
@@ -8373,7 +8378,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 15573
+      "UsersEstimate": 15574
     },
     {
       "ID": "Escape_Artist",
@@ -8477,7 +8482,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6083
+      "UsersEstimate": 6084
     },
     {
       "ID": "Reckless",
@@ -8565,7 +8570,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 20926
+      "UsersEstimate": 20927
     },
     {
       "ID": "Summoner",
@@ -8621,7 +8626,7 @@
       "Name": "There you are!",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 10463
+      "UsersEstimate": 10464
     },
     {
       "ID": "Tobins_Prodigy",
@@ -8668,7 +8673,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 24333,
+      "Progressed": 24334,
       "Completed": 46
     }
   ],
@@ -8676,8 +8681,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-07-20T02:01:52.9258524+00:00",
-  "LastChanged_Achievements": "2023-07-20T11:03:58.2947155+00:00",
+  "LastChanged_Achievements": "2023-07-20T12:03:42.8645088+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:59.3663354+00:00",
-  "LastUpdate_Ratings": "2023-07-20T11:00:05.4341845+00:00",
-  "LastUpdate_Achievements": "2023-07-20T11:03:58.2948829+00:00"
+  "LastUpdate_Ratings": "2023-07-20T11:59:17.4245719+00:00",
+  "LastUpdate_Achievements": "2023-07-20T12:03:42.8645908+00:00"
 }

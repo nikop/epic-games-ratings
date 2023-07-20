@@ -106,9 +106,9 @@
       "ID": "ACH_02",
       "SetID": "efe2lj",
       "Name": "Find Allies",
-      "Percentage": 15,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_03",
@@ -154,9 +154,9 @@
       "ID": "ACH_08",
       "SetID": "efe2lj",
       "Name": "A Taste of Wrath",
-      "Percentage": 20,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_09",
@@ -218,9 +218,9 @@
       "ID": "ACH_16",
       "SetID": "efe2lj",
       "Name": "Essence Blow",
-      "Percentage": 20,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_17",
@@ -392,7 +392,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-07-20T11:03:45.2927691+00:00",
-  "LastUpdate_Ratings": "2023-07-20T10:57:13.7243947+00:00",
-  "LastUpdate_Achievements": "2023-07-20T11:03:45.2928234+00:00"
+  "LastChanged_Achievements": "2023-07-20T12:03:33.21115+00:00",
+  "LastUpdate_Ratings": "2023-07-20T11:57:18.4954905+00:00",
+  "LastUpdate_Achievements": "2023-07-20T12:03:33.2111785+00:00"
 }

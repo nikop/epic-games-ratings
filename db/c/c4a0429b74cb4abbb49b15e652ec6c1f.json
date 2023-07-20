@@ -2,7 +2,7 @@
   "ID": "c4a0429b74cb4abbb49b15e652ec6c1f",
   "Name": "Deverse World",
   "ProductSlug": "deverse-world-3ccb84",
-  "Ranking_EOS_Progress": 365,
+  "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 77,
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 30,
+  "EOS_Progressed": 32,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -111,6 +111,11 @@
       "Time": "2023-07-20T11:05:16.304044+00:00",
       "NumProgressed": 30,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-20T12:04:31.6091349+00:00",
+      "NumProgressed": 32,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-19T08:04:21.5092334+00:00",
@@ -121,7 +126,7 @@
       "ID": "best_pianist",
       "SetID": "5fi1i42",
       "Name": "Best pianist in the metaverse",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -129,7 +134,7 @@
       "ID": "bitcoin_collector",
       "SetID": "5fi1i42",
       "Name": "Bitcoin Collector",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -137,9 +142,9 @@
       "ID": "build_your_world",
       "SetID": "5fi1i42",
       "Name": "Construct your world",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 60,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "goblin_slayed",
@@ -177,7 +182,7 @@
       "ID": "pianist",
       "SetID": "5fi1i42",
       "Name": "Pianist",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -185,7 +190,7 @@
       "ID": "platformer_player",
       "SetID": "5fi1i42",
       "Name": "Platformer Master",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -193,7 +198,7 @@
       "ID": "play_worlds",
       "SetID": "5fi1i42",
       "Name": "Play worlds from foes",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -201,9 +206,9 @@
       "ID": "publish_your_first_world",
       "SetID": "5fi1i42",
       "Name": "First world published",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 120,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "seconds_played",
@@ -225,7 +230,7 @@
       "ID": "super_creator",
       "SetID": "5fi1i42",
       "Name": "Super Creator",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 160,
       "UsersEstimate": 3
     },
@@ -233,7 +238,7 @@
       "ID": "tireless_explorer",
       "SetID": "5fi1i42",
       "Name": "Tireless Explorer",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 30,
       "UsersEstimate": 8
     },
@@ -249,7 +254,7 @@
       "ID": "virtual_self",
       "SetID": "5fi1i42",
       "Name": "Your virtual self",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -257,7 +262,7 @@
       "ID": "visit_cleric",
       "SetID": "5fi1i42",
       "Name": "Visit Cleric",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -265,7 +270,7 @@
       "ID": "waifu_kata",
       "SetID": "5fi1i42",
       "Name": "Waifu Kata",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
       "UsersEstimate": 3
     }
@@ -274,14 +279,14 @@
     {
       "ID": "5fi1i42",
       "IsBase": true,
-      "Progressed": 30,
+      "Progressed": 32,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-12T15:57:01.7070767+00:00",
   "FirstSeenAchievements": "2023-07-18T16:05:27.8243884+00:00",
-  "LastChanged_Achievements": "2023-07-20T11:05:16.3040433+00:00",
+  "LastChanged_Achievements": "2023-07-20T12:04:31.6091343+00:00",
   "LastUpdate_AppInfo": "2023-07-20T06:56:58.841257+00:00",
-  "LastUpdate_Ratings": "2023-07-20T10:57:14.1233331+00:00",
-  "LastUpdate_Achievements": "2023-07-20T11:05:16.3040576+00:00"
+  "LastUpdate_Ratings": "2023-07-20T11:57:18.7375609+00:00",
+  "LastUpdate_Achievements": "2023-07-20T12:04:31.6091488+00:00"
 }

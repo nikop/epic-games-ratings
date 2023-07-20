@@ -984,9 +984,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12787,
+  "EOS_Progressed": 12788,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 494,
+  "EOS_NewPlayers": 491,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -10534,6 +10534,11 @@
       "Time": "2023-07-20T11:02:23.6102493+00:00",
       "NumProgressed": 12787,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-07-20T12:02:16.6932424+00:00",
+      "NumProgressed": 12788,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 45,
@@ -10553,7 +10558,7 @@
       "Name": "About Adam",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "ArtificialSelection",
@@ -10561,7 +10566,7 @@
       "Name": "Artificial selection",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 3708
+      "UsersEstimate": 3709
     },
     {
       "ID": "BackToHell",
@@ -10609,7 +10614,7 @@
       "Name": "Finish line",
       "Percentage": 27,
       "XP": 60,
-      "UsersEstimate": 3452
+      "UsersEstimate": 3453
     },
     {
       "ID": "GRProjectComplete",
@@ -10641,7 +10646,7 @@
       "Name": "I call it luck",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 5754
+      "UsersEstimate": 5755
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -10681,7 +10686,7 @@
       "Name": "Longrunner",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 9846
+      "UsersEstimate": 9847
     },
     {
       "ID": "MoreThanHuman",
@@ -10689,7 +10694,7 @@
       "Name": "More than human",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1534
+      "UsersEstimate": 1535
     },
     {
       "ID": "Neuromancer",
@@ -10697,7 +10702,7 @@
       "Name": "Control freak",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 3580
+      "UsersEstimate": 3581
     },
     {
       "ID": "ObedientMachine",
@@ -10777,7 +10782,7 @@
       "Name": "Running Wild",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 3580
+      "UsersEstimate": 3581
     },
     {
       "ID": "Scrapped",
@@ -10785,7 +10790,7 @@
       "Name": "Scrapped",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "SticksAndStones",
@@ -10801,7 +10806,7 @@
       "Name": "Strafing Run",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "Strike",
@@ -10857,7 +10862,7 @@
       "Name": "Upgrades not mandatory",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 3708
+      "UsersEstimate": 3709
     },
     {
       "ID": "Wallrunner",
@@ -10904,21 +10909,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 12787,
+      "Progressed": 12788,
       "Completed": 29
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 12787,
+      "Progressed": 12788,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-07-13T04:58:08.9161071+00:00",
-  "LastChanged_Achievements": "2023-07-20T11:02:23.6102487+00:00",
+  "LastChanged_Achievements": "2023-07-20T12:02:16.6932419+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:46.7330035+00:00",
-  "LastUpdate_Ratings": "2023-07-20T10:58:49.0746987+00:00",
-  "LastUpdate_Achievements": "2023-07-20T11:02:23.6103488+00:00"
+  "LastUpdate_Ratings": "2023-07-20T11:58:22.9569524+00:00",
+  "LastUpdate_Achievements": "2023-07-20T12:02:16.6933225+00:00"
 }

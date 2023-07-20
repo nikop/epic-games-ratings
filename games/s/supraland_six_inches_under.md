@@ -44,7 +44,7 @@ Number of Ratings: 209  (23.09.2022)
 | Win | 76.00% | ~1,639 |
 | Greenhouse | 72.00% | ~1,553 |
 | Played with fire | 70.00% | ~1,510 |
-| You feel very sorry | 69.00% | ~1,488 |
+| You feel very sorry | 70.00% | ~1,510 |
 | No Match for you | 66.00% | ~1,424 |
 | Bouncy | 62.00% | ~1,337 |
 | Plumbster | 61.00% | ~1,316 |

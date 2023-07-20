@@ -6,31 +6,31 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~598 |
+| Cabin boy | 81.00% | ~599 |
 | My little farm | 65.00% | ~480 |
 | Every beginning is difficult | 62.00% | ~458 |
-| 3, 2, 1, mine | 56.00% | ~413 |
-| Gofer | 56.00% | ~413 |
+| 3, 2, 1, mine | 56.00% | ~414 |
+| Gofer | 56.00% | ~414 |
 | Seafarer | 54.00% | ~399 |
 | O Captain! My Captain! | 54.00% | ~399 |
-| Greed for gold | 43.00% | ~317 |
+| Greed for gold | 43.00% | ~318 |
 | Intangible | 42.00% | ~310 |
 | I'm out of here for a while | 42.00% | ~310 |
-| In a mint condition | 38.00% | ~280 |
+| In a mint condition | 38.00% | ~281 |
 | Licence to Kill | 36.00% | ~266 |
-| Pirates! | 35.00% | ~258 |
+| Pirates! | 35.00% | ~259 |
 | Megalomania | 29.00% | ~214 |
 | Collectionitis | 28.00% | ~207 |
 | Christening | 26.00% | ~192 |
 | Groundskeeper | 26.00% | ~192 |
-| Wholesale | 22.00% | ~162 |
+| Wholesale | 22.00% | ~163 |
 | Walk the plank | 21.00% | ~155 |
 | Pearly gates | 18.00% | ~133 |
-| My precious! | 17.00% | ~125 |
+| My precious! | 17.00% | ~126 |
 | Conquistador | 14.00% | ~103 |
 | Panic buying | 12.00% | ~89 |
-| Just a scratch | 9.00% | ~66 |
-| Your vessel, my vessel | 9.00% | ~66 |
+| Just a scratch | 9.00% | ~67 |
+| Your vessel, my vessel | 9.00% | ~67 |
 | All mine! | 8.00% | ~59 |
 | Paths of Glory | 8.00% | ~59 |
 | Panel of experts | 8.00% | ~59 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Fleet Admiral | 0.50% | ~4 |
 | Davy Jones' locker | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 738 (Ranked 200)  
+Progressed: 739 (Ranked 200)  
 Completed: 1 (0.14%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 1 (0.14%) (Ranked 178)
 | 2023-07-17 | 735 | 1 |
 | 2023-07-18 | 736 | 1 |
 | 2023-07-19 | 737 | 1 |
-| 2023-07-20 | 738 | 1 |
+| 2023-07-20 | 739 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
