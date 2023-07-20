@@ -5745,9 +5745,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 56136,
+  "EOS_Progressed": 56138,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 520,
+  "EOS_NewPlayers": 521,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15130,6 +15130,11 @@
       "Time": "2023-07-20T04:07:20.7016857+00:00",
       "NumProgressed": 56136,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-20T05:06:57.3537382+00:00",
+      "NumProgressed": 56138,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -15197,7 +15202,7 @@
       "Name": "Crowdfunded",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2245
+      "UsersEstimate": 2246
     },
     {
       "ID": "Crackshot",
@@ -15213,7 +15218,7 @@
       "Name": "Crush your enemies",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2245
+      "UsersEstimate": 2246
     },
     {
       "ID": "Duelist",
@@ -15269,7 +15274,7 @@
       "Name": "God of the Arena",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 6736
+      "UsersEstimate": 6737
     },
     {
       "ID": "Great Granny",
@@ -15309,7 +15314,7 @@
       "Name": "I can do it",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8420
+      "UsersEstimate": 8421
     },
     {
       "ID": "I spit on your grave",
@@ -15365,7 +15370,7 @@
       "Name": "Landlord",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 17402
+      "UsersEstimate": 17403
     },
     {
       "ID": "Lawbringer",
@@ -15373,7 +15378,7 @@
       "Name": "Lawbringer",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 20770
+      "UsersEstimate": 20771
     },
     {
       "ID": "Lawmaker",
@@ -15421,7 +15426,7 @@
       "Name": "My way",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2245
+      "UsersEstimate": 2246
     },
     {
       "ID": "Real Estate",
@@ -15533,7 +15538,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2245
+      "UsersEstimate": 2246
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -15548,15 +15553,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 56136,
+      "Progressed": 56138,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-07-19T22:59:39.0254415+00:00",
-  "LastChanged_Achievements": "2023-07-20T04:07:20.7016852+00:00",
+  "LastChanged_Achievements": "2023-07-20T05:06:57.3537376+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:48.1005966+00:00",
-  "LastUpdate_Ratings": "2023-07-20T04:00:27.9930942+00:00",
-  "LastUpdate_Achievements": "2023-07-20T04:07:20.7017598+00:00"
+  "LastUpdate_Ratings": "2023-07-20T05:00:15.2887095+00:00",
+  "LastUpdate_Achievements": "2023-07-20T05:06:57.3539209+00:00"
 }

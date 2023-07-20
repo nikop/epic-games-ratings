@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -78,9 +78,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 648,
+  "EOS_Progressed": 649,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -448,6 +448,11 @@
       "Time": "2023-07-19T03:21:23.6774999+00:00",
       "NumProgressed": 648,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-20T05:02:13.8823406+00:00",
+      "NumProgressed": 649,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 54,
@@ -507,7 +512,7 @@
       "Name": "Fetch Quest Complete",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "AhoyTrophy",
@@ -603,7 +608,7 @@
       "Name": "Pushing a pull door",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "Ext4Trophy",
@@ -635,7 +640,7 @@
       "Name": "Machine Maxed",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "GoldGuyTrophy",
@@ -739,7 +744,7 @@
       "Name": "I can\u0027t wait!",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "MaxPriceTrophy",
@@ -859,7 +864,7 @@
       "Name": "Clean up on Aisle 9",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "WhiteWolfTrophy",
@@ -890,7 +895,7 @@
     {
       "ID": "32aeje8",
       "IsBase": true,
-      "Progressed": 648,
+      "Progressed": 649,
       "Completed": 0
     }
   ],
@@ -898,8 +903,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-06-02T03:58:32.0065116+00:00",
-  "LastChanged_Achievements": "2023-07-20T04:01:36.2594365+00:00",
+  "LastChanged_Achievements": "2023-07-20T05:02:13.8823399+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:02.3273394+00:00",
-  "LastUpdate_Ratings": "2023-07-20T03:58:49.9862837+00:00",
-  "LastUpdate_Achievements": "2023-07-20T04:01:36.2594757+00:00"
+  "LastUpdate_Ratings": "2023-07-20T04:58:38.1530661+00:00",
+  "LastUpdate_Achievements": "2023-07-20T05:02:13.8824253+00:00"
 }

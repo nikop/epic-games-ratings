@@ -9137,7 +9137,7 @@
       "Count": 5364
     }
   ],
-  "EOS_Progressed": 866626,
+  "EOS_Progressed": 866628,
   "EOS_Completed": 1885,
   "EOS_NewPlayers": 1331,
   "EOS_NewCompleters": 24,
@@ -18947,6 +18947,11 @@
       "Time": "2023-07-20T04:03:42.2079747+00:00",
       "NumProgressed": 866626,
       "NumCompleted": 1885
+    },
+    {
+      "Time": "2023-07-20T05:02:47.3815158+00:00",
+      "NumProgressed": 866628,
+      "NumCompleted": 1885
     }
   ],
   "TotalAchievements": 44,
@@ -18990,7 +18995,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 329318
+      "UsersEstimate": 329319
     },
     {
       "ID": "FollowingTheRiver",
@@ -18998,7 +19003,7 @@
       "Name": "To Protect and Serve",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 112661
+      "UsersEstimate": 112662
     },
     {
       "ID": "Fortuneteller",
@@ -19006,7 +19011,7 @@
       "Name": "The Wandering Fool",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 77996
+      "UsersEstimate": 77997
     },
     {
       "ID": "Gearhead",
@@ -19046,7 +19051,7 @@
       "Name": "Master Crafter",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 112661
+      "UsersEstimate": 112662
     },
     {
       "ID": "IAmMaxTac",
@@ -19086,7 +19091,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 77996
+      "UsersEstimate": 77997
     },
     {
       "ID": "MustBeTheRats",
@@ -19126,7 +19131,7 @@
       "Name": "Life of the Road",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 173325
+      "UsersEstimate": 173326
     },
     {
       "ID": "Roleplayer",
@@ -19134,7 +19139,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 242655
+      "UsersEstimate": 242656
     },
     {
       "ID": "Specialist",
@@ -19174,7 +19179,7 @@
       "Name": "The Fool",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 589306
+      "UsersEstimate": 589307
     },
     {
       "ID": "TheHermit",
@@ -19182,7 +19187,7 @@
       "Name": "The Hermit",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 207990
+      "UsersEstimate": 207991
     },
     {
       "ID": "TheHightPriestess",
@@ -19190,7 +19195,7 @@
       "Name": "The High Priestess",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 181991
+      "UsersEstimate": 181992
     },
     {
       "ID": "TheLovers",
@@ -19198,7 +19203,7 @@
       "Name": "The Lovers",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 294653
+      "UsersEstimate": 294654
     },
     {
       "ID": "TheStar",
@@ -19230,7 +19235,7 @@
       "Name": "The World",
       "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 147326
+      "UsersEstimate": 147327
     },
     {
       "ID": "ThisIsPacifica",
@@ -19302,22 +19307,22 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 181991
+      "UsersEstimate": 181992
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 866626,
+      "Progressed": 866628,
       "Completed": 1885
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-07-20T02:58:47.6280366+00:00",
-  "LastChanged_Achievements": "2023-07-20T04:03:42.2079743+00:00",
+  "LastChanged_Achievements": "2023-07-20T05:02:47.3815149+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:20.7146493+00:00",
-  "LastUpdate_Ratings": "2023-07-20T03:58:28.9028695+00:00",
-  "LastUpdate_Achievements": "2023-07-20T04:03:42.2080453+00:00"
+  "LastUpdate_Ratings": "2023-07-20T04:58:17.0056467+00:00",
+  "LastUpdate_Achievements": "2023-07-20T05:02:47.3816933+00:00"
 }

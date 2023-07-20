@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 331,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 43,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2020-11-12T14:00:00+00:00",
@@ -689,9 +689,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 27943,
+  "EOS_Progressed": 27944,
   "EOS_Completed": 1314,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 4.7,
   "EosHistory": [
@@ -3484,6 +3484,11 @@
       "Time": "2023-07-20T04:06:07.5657344+00:00",
       "NumProgressed": 27943,
       "NumCompleted": 1314
+    },
+    {
+      "Time": "2023-07-20T05:05:43.0734923+00:00",
+      "NumProgressed": 27944,
+      "NumCompleted": 1314
     }
   ],
   "TotalAchievements": 30,
@@ -3495,7 +3500,7 @@
       "Name": "Survivor",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 12574
+      "UsersEstimate": 12575
     },
     {
       "ID": "ACH_ALL_TRANSFORM",
@@ -3511,7 +3516,7 @@
       "Name": "Film Buff",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 10618
+      "UsersEstimate": 10619
     },
     {
       "ID": "ACH_BALL_TRIP",
@@ -3551,7 +3556,7 @@
       "Name": "Got to Catch a Lot",
       "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 18442
+      "UsersEstimate": 18443
     },
     {
       "ID": "ACH_CATCH_QUARTER",
@@ -3559,7 +3564,7 @@
       "Name": "Got to Catch a Few",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 21516
+      "UsersEstimate": 21517
     },
     {
       "ID": "ACH_CHEESE_SCAN",
@@ -3567,7 +3572,7 @@
       "Name": "Say Cheese!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 4191
+      "UsersEstimate": 4192
     },
     {
       "ID": "ACH_COMBO_MEAL",
@@ -3575,7 +3580,7 @@
       "Name": "Combo Meal",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 10618
+      "UsersEstimate": 10619
     },
     {
       "ID": "ACH_DONATE",
@@ -3583,7 +3588,7 @@
       "Name": "In the Arms of the Gramble",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 16486
+      "UsersEstimate": 16487
     },
     {
       "ID": "ACH_FIRST_BUGSNAK",
@@ -3591,7 +3596,7 @@
       "Name": "Everybody Gets One",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 27105
+      "UsersEstimate": 27106
     },
     {
       "ID": "ACH_FULL_TRANSFORM",
@@ -3623,7 +3628,7 @@
       "Name": "Live Laugh Hut",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 2235
+      "UsersEstimate": 2236
     },
     {
       "ID": "ACH_INTERVIEW",
@@ -3631,7 +3636,7 @@
       "Name": "Talkin\u0027 \u0027Bout Bugsnax",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 17045
+      "UsersEstimate": 17046
     },
     {
       "ID": "ACH_LAUNCH",
@@ -3639,7 +3644,7 @@
       "Name": "Launch Party",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 15648
+      "UsersEstimate": 15649
     },
     {
       "ID": "ACH_MAIN_STORY",
@@ -3655,7 +3660,7 @@
       "Name": "That Reminds Me of a Puzzle",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 12015
+      "UsersEstimate": 12016
     },
     {
       "ID": "ACH_RETURN_ALL",
@@ -3663,7 +3668,7 @@
       "Name": "Know Thy Neighbor",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 16486
+      "UsersEstimate": 16487
     },
     {
       "ID": "ACH_SIDE_QUEST",
@@ -3671,7 +3676,7 @@
       "Name": "Sidetracked",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 11177
+      "UsersEstimate": 11178
     },
     {
       "ID": "ACH_SNAKPODS",
@@ -3687,7 +3692,7 @@
       "Name": "Gone Home",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 25987
+      "UsersEstimate": 25988
     },
     {
       "ID": "ACH_STEAL_DIARY",
@@ -3695,7 +3700,7 @@
       "Name": "Perf Dirt",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 15648
+      "UsersEstimate": 15649
     },
     {
       "ID": "ACH_SUNDAE",
@@ -3711,7 +3716,7 @@
       "Name": "Midnight Snak",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 10059
+      "UsersEstimate": 10060
     },
     {
       "ID": "ACH_TRAP_TWO",
@@ -3719,7 +3724,7 @@
       "Name": "Double Trapper",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 20957
+      "UsersEstimate": 20958
     },
     {
       "ID": "ACH_WATERFALL",
@@ -3727,22 +3732,22 @@
       "Name": "Wonderfalls",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 24310
+      "UsersEstimate": 24311
     }
   ],
   "AchievementSets": [
     {
       "ID": "2m0copd",
       "IsBase": true,
-      "Progressed": 27943,
+      "Progressed": 27944,
       "Completed": 1314
     }
   ],
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
   "LastChanged": "2023-07-11T17:00:49.6653428+00:00",
-  "LastChanged_Achievements": "2023-07-20T04:06:07.5657336+00:00",
+  "LastChanged_Achievements": "2023-07-20T05:05:43.0734914+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:53.5695898+00:00",
-  "LastUpdate_Ratings": "2023-07-20T04:00:33.1123116+00:00",
-  "LastUpdate_Achievements": "2023-07-20T04:06:07.5657601+00:00"
+  "LastUpdate_Ratings": "2023-07-20T05:00:20.1537716+00:00",
+  "LastUpdate_Achievements": "2023-07-20T05:05:43.0735601+00:00"
 }

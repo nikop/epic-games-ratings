@@ -4,7 +4,7 @@
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 60,
+  "EOS_Progressed": 61,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -319,6 +319,11 @@
       "Time": "2023-07-19T14:02:15.9761453+00:00",
       "NumProgressed": 60,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-20T05:02:20.1779973+00:00",
+      "NumProgressed": 61,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -330,7 +335,7 @@
       "Name": "Travel Streamer",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -344,7 +349,7 @@
       "ID": "ACHIEVEMENT_11",
       "SetID": "7pimpda",
       "Name": "Guardian",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
       "UsersEstimate": 24
     },
@@ -352,7 +357,7 @@
       "ID": "ACHIEVEMENT_12",
       "SetID": "7pimpda",
       "Name": "Nosebleeder",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
       "UsersEstimate": 25
     },
@@ -360,7 +365,7 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "7pimpda",
       "Name": "Flying Kobold Killer",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
       "UsersEstimate": 21
     },
@@ -368,7 +373,7 @@
       "ID": "ACHIEVEMENT_14",
       "SetID": "7pimpda",
       "Name": "Youth Magnet",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 20,
       "UsersEstimate": 22
     },
@@ -376,7 +381,7 @@
       "ID": "ACHIEVEMENT_15",
       "SetID": "7pimpda",
       "Name": "Furious Scorpion Killer",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 20,
       "UsersEstimate": 21
     },
@@ -418,13 +423,13 @@
       "Name": "Training Simulation",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHIEVEMENT_20",
       "SetID": "7pimpda",
       "Name": "Cave Master",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
       "UsersEstimate": 16
     },
@@ -440,7 +445,7 @@
       "ID": "ACHIEVEMENT_22",
       "SetID": "7pimpda",
       "Name": "Beginner Cook",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 20,
       "UsersEstimate": 32
     },
@@ -456,7 +461,7 @@
       "ID": "ACHIEVEMENT_24",
       "SetID": "7pimpda",
       "Name": "Arms Mechanic",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 20,
       "UsersEstimate": 36
     },
@@ -464,7 +469,7 @@
       "ID": "ACHIEVEMENT_25",
       "SetID": "7pimpda",
       "Name": "Beginner Artificer",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 25,
       "UsersEstimate": 34
     },
@@ -472,7 +477,7 @@
       "ID": "ACHIEVEMENT_26",
       "SetID": "7pimpda",
       "Name": "Master Artificer",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 30,
       "UsersEstimate": 19
     },
@@ -480,7 +485,7 @@
       "ID": "ACHIEVEMENT_27",
       "SetID": "7pimpda",
       "Name": "Fashion Connoisseur",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 30,
       "UsersEstimate": 41
     },
@@ -488,7 +493,7 @@
       "ID": "ACHIEVEMENT_28",
       "SetID": "7pimpda",
       "Name": "Trader",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 30,
       "UsersEstimate": 24
     },
@@ -496,7 +501,7 @@
       "ID": "ACHIEVEMENT_3",
       "SetID": "7pimpda",
       "Name": "Kuku Bird Hunter",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 30,
       "UsersEstimate": 44
     },
@@ -584,7 +589,7 @@
       "ID": "ACHIEVEMENT_4",
       "SetID": "7pimpda",
       "Name": "Storm Traveller",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 30,
       "UsersEstimate": 41
     },
@@ -600,7 +605,7 @@
       "ID": "ACHIEVEMENT_41",
       "SetID": "7pimpda",
       "Name": "Berserker Slayer",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -616,7 +621,7 @@
       "ID": "ACHIEVEMENT_43",
       "SetID": "7pimpda",
       "Name": "Warden Slayer",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -648,7 +653,7 @@
       "ID": "ACHIEVEMENT_5",
       "SetID": "7pimpda",
       "Name": "Wolf King Killer",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 30,
       "UsersEstimate": 42
     },
@@ -656,7 +661,7 @@
       "ID": "ACHIEVEMENT_6",
       "SetID": "7pimpda",
       "Name": "Flower Thief",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 30,
       "UsersEstimate": 35
     },
@@ -664,7 +669,7 @@
       "ID": "ACHIEVEMENT_7",
       "SetID": "7pimpda",
       "Name": "Apostle of Flame",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 30,
       "UsersEstimate": 34
     },
@@ -689,7 +694,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 60,
+      "Progressed": 61,
       "Completed": 0
     }
   ],
@@ -697,8 +702,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-07-20T04:03:14.017558+00:00",
+  "LastChanged_Achievements": "2023-07-20T05:02:20.1779966+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:43.610481+00:00",
-  "LastUpdate_Ratings": "2023-07-20T04:00:23.2828336+00:00",
-  "LastUpdate_Achievements": "2023-07-20T04:03:14.0175912+00:00"
+  "LastUpdate_Ratings": "2023-07-20T05:00:10.4264543+00:00",
+  "LastUpdate_Achievements": "2023-07-20T05:02:20.1780669+00:00"
 }

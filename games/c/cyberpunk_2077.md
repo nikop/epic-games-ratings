@@ -6,29 +6,29 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~589,306 |
-| Right Back At Ya | 38.00% | ~329,318 |
-| The Lovers | 34.00% | ~294,653 |
-| Stanislavski's Method | 28.00% | ~242,655 |
+| The Fool | 68.00% | ~589,307 |
+| Right Back At Ya | 38.00% | ~329,319 |
+| The Lovers | 34.00% | ~294,654 |
+| Stanislavski's Method | 28.00% | ~242,656 |
 | The Wheel of Fortune | 26.00% | ~225,323 |
-| The Hermit | 24.00% | ~207,990 |
+| The Hermit | 24.00% | ~207,991 |
 | Christmas Tree Attack | 22.00% | ~190,658 |
 | True Soldier | 22.00% | ~190,658 |
-| The High Priestess | 21.00% | ~181,991 |
-| Legend of The Afterlife | 21.00% | ~181,991 |
-| Life of the Road | 20.00% | ~173,325 |
+| The High Priestess | 21.00% | ~181,992 |
+| Legend of The Afterlife | 21.00% | ~181,992 |
+| Life of the Road | 20.00% | ~173,326 |
 | Full Body Conversion | 18.00% | ~155,993 |
-| The World | 17.00% | ~147,326 |
+| The World | 17.00% | ~147,327 |
 | Bushido and Chill | 16.00% | ~138,660 |
 | Gun Fu | 15.00% | ~129,994 |
 | True Warrior | 15.00% | ~129,994 |
 | I Am The Law | 14.00% | ~121,328 |
 | Judy vs Night City | 14.00% | ~121,328 |
-| To Protect and Serve | 13.00% | ~112,661 |
-| Master Crafter | 13.00% | ~112,661 |
+| To Protect and Serve | 13.00% | ~112,662 |
+| Master Crafter | 13.00% | ~112,662 |
 | Two Heads, One Bullet | 11.00% | ~95,329 |
-| The Wandering Fool | 9.00% | ~77,996 |
-| The Quick and the Dead | 9.00% | ~77,996 |
+| The Wandering Fool | 9.00% | ~77,997 |
+| The Quick and the Dead | 9.00% | ~77,997 |
 | Ten out of Ten | 8.00% | ~69,330 |
 | Breathtaking | 7.00% | ~60,664 |
 | To Bad Decisions! | 6.00% | ~51,998 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,666 |
 | Rough Landing | 0.50% | ~4,333 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 866,626 (Ranked 14)  
+Progressed: 866,628 (Ranked 14)  
 Completed: 1,885 (0.22%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 1,885 (0.22%) (Ranked 161)
 | 2023-07-17 | 866,256 | 1,878 |
 | 2023-07-18 | 866,435 | 1,883 |
 | 2023-07-19 | 866,596 | 1,885 |
-| 2023-07-20 | 866,626 | 1,885 |
+| 2023-07-20 | 866,628 | 1,885 |
 ## Awards
 Max (Character Customization): 73,607  (Ranked 9)  
 Sum: 193,259 (Ranked 13)  
