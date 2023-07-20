@@ -31,7 +31,7 @@
 | 29 | [Ravenlok](games/r/ravenlok.md) | 7.43% |
 | 30 | [Time Loader](games/t/time_loader.md) | 7.14% |
 | 31 | [Scorn](games/s/scorn.md) | 7.04% |
-| 32 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.93% |
+| 32 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.92% |
 | 33 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.52% |
 | 34 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 35 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -136,9 +136,9 @@
 | 134 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.45% |
 | 135 | [Tchia](games/t/tchia.md) | 0.43% |
 | 135 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.43% |
-| 137 | [Ghostrunner](games/g/ghostrunner.md) | 0.42% |
 | 137 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.42% |
-| 139 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
+| 138 | [Ghostrunner](games/g/ghostrunner.md) | 0.41% |
+| 138 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
 | 140 | [Wildermyth](games/w/wildermyth.md) | 0.38% |
 | 141 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 142 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.36% |
