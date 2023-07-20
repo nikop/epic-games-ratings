@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 441,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -526,9 +526,9 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 9009,
+  "EOS_Progressed": 9010,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -6481,6 +6481,11 @@
       "Time": "2023-07-20T06:03:43.8836812+00:00",
       "NumProgressed": 9009,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-20T07:04:19.4380082+00:00",
+      "NumProgressed": 9010,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -6692,7 +6697,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1351
+      "UsersEstimate": 1352
     },
     {
       "ID": "ACH27",
@@ -6763,7 +6768,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9009,
+      "Progressed": 9010,
       "Completed": 43
     }
   ],
@@ -6771,8 +6776,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-12T19:59:24.8621469+00:00",
-  "LastChanged_Achievements": "2023-07-20T06:03:43.8836806+00:00",
+  "LastChanged_Achievements": "2023-07-20T07:04:19.4380076+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:03.5723456+00:00",
-  "LastUpdate_Ratings": "2023-07-20T05:58:41.7469206+00:00",
-  "LastUpdate_Achievements": "2023-07-20T06:03:43.8837254+00:00"
+  "LastUpdate_Ratings": "2023-07-20T06:59:01.1637212+00:00",
+  "LastUpdate_Achievements": "2023-07-20T07:04:19.4380707+00:00"
 }

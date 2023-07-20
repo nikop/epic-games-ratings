@@ -7285,9 +7285,9 @@
       "Count": 589
     }
   ],
-  "EOS_Progressed": 597684,
+  "EOS_Progressed": 597690,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 4096,
+  "EOS_NewPlayers": 4082,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17145,6 +17145,11 @@
       "Time": "2023-07-20T06:04:20.2248047+00:00",
       "NumProgressed": 597684,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-07-20T07:04:49.2099701+00:00",
+      "NumProgressed": 597690,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 65,
@@ -17156,7 +17161,7 @@
       "Name": "Into the Unknown",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 59768
+      "UsersEstimate": 59769
     },
     {
       "ID": "achievement_02",
@@ -17164,7 +17169,7 @@
       "Name": "First Shot",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 59768
+      "UsersEstimate": 59769
     },
     {
       "ID": "achievement_03",
@@ -17244,7 +17249,7 @@
       "Name": "Going Down",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 23907
+      "UsersEstimate": 23908
     },
     {
       "ID": "achievement_13",
@@ -17252,7 +17257,7 @@
       "Name": "Family First",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 23907
+      "UsersEstimate": 23908
     },
     {
       "ID": "achievement_14",
@@ -17260,7 +17265,7 @@
       "Name": "Your World, Your Rules",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 23907
+      "UsersEstimate": 23908
     },
     {
       "ID": "achievement_15",
@@ -17364,7 +17369,7 @@
       "Name": "You Never Forget Your First...",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 65745
+      "UsersEstimate": 65746
     },
     {
       "ID": "achievement_28",
@@ -17468,7 +17473,7 @@
       "Name": "Death From Afar",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 23907
+      "UsersEstimate": 23908
     },
     {
       "ID": "achievement_41",
@@ -17484,7 +17489,7 @@
       "Name": "Terminal Headache",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 23907
+      "UsersEstimate": 23908
     },
     {
       "ID": "achievement_43",
@@ -17492,7 +17497,7 @@
       "Name": "Slowpoke!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 23907
+      "UsersEstimate": 23908
     },
     {
       "ID": "achievement_44",
@@ -17675,21 +17680,21 @@
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 597684,
+      "Progressed": 597690,
       "Completed": 60
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 243128,
+      "Progressed": 243134,
       "Completed": 1421
     }
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
   "LastChanged": "2023-07-20T02:03:01.6542805+00:00",
-  "LastChanged_Achievements": "2023-07-20T06:04:20.2248044+00:00",
+  "LastChanged_Achievements": "2023-07-20T07:04:49.2099691+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:59.4492342+00:00",
-  "LastUpdate_Ratings": "2023-07-20T06:00:36.6272175+00:00",
-  "LastUpdate_Achievements": "2023-07-20T06:04:20.2249022+00:00"
+  "LastUpdate_Ratings": "2023-07-20T07:01:10.5374941+00:00",
+  "LastUpdate_Achievements": "2023-07-20T07:04:49.2101474+00:00"
 }

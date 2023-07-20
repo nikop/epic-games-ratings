@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6775,
+  "EOS_Progressed": 6776,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -4779,6 +4779,11 @@
       "Time": "2023-07-20T03:04:33.0259697+00:00",
       "NumProgressed": 6775,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-07-20T07:04:17.5604337+00:00",
+      "NumProgressed": 6776,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 21,
@@ -4830,15 +4835,15 @@
       "Name": "Clay Pigeon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "ENERGY_SAVER",
       "SetID": "3cck1g6",
       "Name": "Energy Saver",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 1152
+      "UsersEstimate": 1084
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -4878,7 +4883,7 @@
       "Name": "Historian",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "ICONOCLAST",
@@ -4886,7 +4891,7 @@
       "Name": "Iconoclast",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "IN_A_PINCH",
@@ -4934,7 +4939,7 @@
       "Name": "Soul-Canon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "THE_JOURNEY_ONWARDS",
@@ -4957,7 +4962,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6775,
+      "Progressed": 6776,
       "Completed": 29
     }
   ],
@@ -4965,8 +4970,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-07-16T23:57:58.4349982+00:00",
-  "LastChanged_Achievements": "2023-07-20T06:03:42.8818919+00:00",
+  "LastChanged_Achievements": "2023-07-20T07:04:17.5604327+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:33.2869654+00:00",
-  "LastUpdate_Ratings": "2023-07-20T05:58:22.9531676+00:00",
-  "LastUpdate_Achievements": "2023-07-20T06:03:42.8819243+00:00"
+  "LastUpdate_Ratings": "2023-07-20T06:58:39.0399382+00:00",
+  "LastUpdate_Achievements": "2023-07-20T07:04:17.5605062+00:00"
 }

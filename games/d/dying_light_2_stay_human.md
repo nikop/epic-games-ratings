@@ -6,9 +6,9 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~65,745 |
-| Into the Unknown | 10.00% | ~59,768 |
-| First Shot | 10.00% | ~59,768 |
+| You Never Forget Your First... | 11.00% | ~65,746 |
+| Into the Unknown | 10.00% | ~59,769 |
+| First Shot | 10.00% | ~59,769 |
 | Herzlich Wilkommen! | 9.00% | ~53,792 |
 | Good Night & Good Luck | 9.00% | ~53,792 |
 | Sancho Panza | 8.00% | ~47,815 |
@@ -28,12 +28,12 @@ Number of Ratings: 7,305  (23.09.2022)
 | Tunnel Entrance | 5.00% | ~29,884 |
 | After the Fall | 5.00% | ~29,884 |
 | Can't Touch This! | 5.00% | ~29,884 |
-| Going Down | 4.00% | ~23,907 |
-| Family First | 4.00% | ~23,907 |
-| Your World, Your Rules | 4.00% | ~23,907 |
-| Death From Afar | 4.00% | ~23,907 |
-| Terminal Headache | 4.00% | ~23,907 |
-| Slowpoke! | 4.00% | ~23,907 |
+| Going Down | 4.00% | ~23,908 |
+| Family First | 4.00% | ~23,908 |
+| Your World, Your Rules | 4.00% | ~23,908 |
+| Death From Afar | 4.00% | ~23,908 |
+| Terminal Headache | 4.00% | ~23,908 |
+| Slowpoke! | 4.00% | ~23,908 |
 | Tickets, Please! | 3.00% | ~17,931 |
 | You're Going Down! | 3.00% | ~17,931 |
 | Municipal Services | 2.00% | ~11,954 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~243 |
 | Connoisseur | 0.10% | ~243 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 597,684 (Ranked 26)  
+Progressed: 597,690 (Ranked 26)  
 Completed: 60 (0.01%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 60 (0.01%) (Ranked 225)
 | 2023-07-17 | 596,555 | 60 |
 | 2023-07-18 | 597,054 | 60 |
 | 2023-07-19 | 597,572 | 60 |
-| 2023-07-20 | 597,684 | 60 |
+| 2023-07-20 | 597,690 | 60 |
 ## Awards
 Max (Character Customization): 8,460  (Ranked 39)  
 Sum: 20,051 (Ranked 55)  

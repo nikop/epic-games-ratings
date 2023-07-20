@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -3238,9 +3238,9 @@
       "ID": "ACH_GDAY-MATE",
       "SetID": "72olkc5",
       "Name": "G\u0027Day Mate!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 152
     },
     {
       "ID": "ACH_GLOBETROTTER",
@@ -3542,8 +3542,8 @@
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-07-18T02:30:00.4800428+00:00",
-  "LastChanged_Achievements": "2023-07-20T06:02:16.6752591+00:00",
+  "LastChanged_Achievements": "2023-07-20T07:03:14.0722905+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:04.9340896+00:00",
-  "LastUpdate_Ratings": "2023-07-20T05:59:38.9168318+00:00",
-  "LastUpdate_Achievements": "2023-07-20T06:02:16.6753018+00:00"
+  "LastUpdate_Ratings": "2023-07-20T07:00:09.4796023+00:00",
+  "LastUpdate_Achievements": "2023-07-20T07:03:14.0723789+00:00"
 }

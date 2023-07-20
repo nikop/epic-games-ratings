@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3158,9 +3158,9 @@
       "Count": 381
     }
   ],
-  "EOS_Progressed": 10410,
+  "EOS_Progressed": 10411,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8763,6 +8763,11 @@
       "Time": "2023-07-20T06:04:45.2672505+00:00",
       "NumProgressed": 10410,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-20T07:05:18.4110208+00:00",
+      "NumProgressed": 10411,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -8782,7 +8787,7 @@
       "Name": "Burning City",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -8806,7 +8811,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -8830,7 +8835,7 @@
       "Name": "Path of the Angel",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "09_PathOfDemon",
@@ -9166,7 +9171,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -9701,21 +9706,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9192,
+      "Progressed": 9193,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10410,
+      "Progressed": 10411,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-19T17:58:49.3075601+00:00",
-  "LastChanged_Achievements": "2023-07-20T06:04:45.2672499+00:00",
+  "LastChanged_Achievements": "2023-07-20T07:05:18.4110199+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:17.6267462+00:00",
-  "LastUpdate_Ratings": "2023-07-20T05:58:53.337489+00:00",
-  "LastUpdate_Achievements": "2023-07-20T06:04:45.2674109+00:00"
+  "LastUpdate_Ratings": "2023-07-20T06:59:16.2610727+00:00",
+  "LastUpdate_Achievements": "2023-07-20T07:05:18.4112025+00:00"
 }

@@ -21,12 +21,12 @@ Number of Ratings: 111  (23.09.2022)
 | Bottom ply killer | 6.00% | ~152 |
 | Fashionista | 6.00% | ~152 |
 | Finally he zips it | 6.00% | ~152 |
+| G'Day Mate! | 6.00% | ~152 |
 | Sup widdit big dog! | 6.00% | ~152 |
 | That pinch! | 6.00% | ~152 |
 | Tight lipslides | 6.00% | ~152 |
 | Commence the Hijinx! | 5.00% | ~126 |
 | Fulfilled the dream | 5.00% | ~126 |
-| G'Day Mate! | 5.00% | ~126 |
 | Globetrotter | 5.00% | ~126 |
 | Laid back | 5.00% | ~126 |
 | NAHELL! | 5.00% | ~126 |

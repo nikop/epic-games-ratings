@@ -6,19 +6,19 @@ Rating: 4.77 (Ranked 109)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 12.00% | ~34,568 |
-| First Class Student | 11.00% | ~31,687 |
+| First Class Student | 11.00% | ~31,688 |
 | Troll with the Punches | 10.00% | ~28,807 |
 | A Keen Sense of Spell | 9.00% | ~25,926 |
 | A Talent for Spending | 9.00% | ~25,926 |
 | That's a Keeper | 9.00% | ~25,926 |
-| Grappling with a Graphorn | 8.00% | ~23,045 |
-| The One Who Mastered Memories | 8.00% | ~23,045 |
-| The Hallowed Hero | 8.00% | ~23,045 |
-| The Hero of Hogwarts | 8.00% | ~23,045 |
-| The Defender of Dragons | 8.00% | ~23,045 |
-| Challenge Accepted | 8.00% | ~23,045 |
-| Loom for Improvement | 8.00% | ~23,045 |
-| Coasting Along | 8.00% | ~23,045 |
+| Grappling with a Graphorn | 8.00% | ~23,046 |
+| The One Who Mastered Memories | 8.00% | ~23,046 |
+| The Hallowed Hero | 8.00% | ~23,046 |
+| The Hero of Hogwarts | 8.00% | ~23,046 |
+| The Defender of Dragons | 8.00% | ~23,046 |
+| Challenge Accepted | 8.00% | ~23,046 |
+| Loom for Improvement | 8.00% | ~23,046 |
+| Coasting Along | 8.00% | ~23,046 |
 | Followed the Butterflies | 7.00% | ~20,165 |
 | The Spell Master | 7.00% | ~20,165 |
 | Rising From the Ashes | 7.00% | ~20,165 |
@@ -26,10 +26,10 @@ Rating: 4.77 (Ranked 109)
 | Beast Friends | 6.00% | ~17,284 |
 | A Sallow Grave | 6.00% | ~17,284 |
 | Flight the Good Flight | 6.00% | ~17,284 |
-| The Seeker of Knowledge | 5.00% | ~14,403 |
-| The Root of the Problem | 5.00% | ~14,403 |
-| Third Time's a Charm | 5.00% | ~14,403 |
-| Raising Expectations | 5.00% | ~14,403 |
+| The Seeker of Knowledge | 5.00% | ~14,404 |
+| The Root of the Problem | 5.00% | ~14,404 |
+| Third Time's a Charm | 5.00% | ~14,404 |
+| Raising Expectations | 5.00% | ~14,404 |
 | The Ends Petrify the Means | 4.00% | ~11,523 |
 | The Toast of the Town | 3.00% | ~8,642 |
 | Going Through the Potions | 3.00% | ~8,642 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.50% | ~1,440 |
 | Collector's Edition | 0.20% | ~576 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288,068 (Ranked 42)  
+Progressed: 288,070 (Ranked 42)  
 Completed: 431 (0.15%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 431 (0.15%) (Ranked 175)
 | 2023-07-17 | 287,899 | 430 |
 | 2023-07-18 | 287,982 | 430 |
 | 2023-07-19 | 288,055 | 431 |
-| 2023-07-20 | 288,068 | 431 |
+| 2023-07-20 | 288,070 | 431 |
 ## Awards
 Max (Character Customization): 21,120  (Ranked 17)  
 Sum: 39,537 (Ranked 30)  

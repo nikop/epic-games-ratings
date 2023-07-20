@@ -21,7 +21,7 @@ Number of Ratings: 706  (23.09.2022)
 | Studious Researcher | 50.00% | ~2,356 |
 | Adept Researcher | 44.00% | ~2,074 |
 | Retribution | 40.00% | ~1,885 |
-| ...And Don’t Come Back! | 39.00% | ~1,838 |
+| ...And Don’t Come Back! | 40.00% | ~1,885 |
 | Fit For A King | 38.00% | ~1,791 |
 | Luminary Researcher | 34.00% | ~1,602 |
 | Heating Up | 28.00% | ~1,320 |
