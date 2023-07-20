@@ -1,8 +1,8 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 50.00% |
-| 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 43.48% |
-| 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.55% |
+| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 43.48% |
+| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.55% |
+| 3 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 33.33% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.00% |
 | 5 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 25.00% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -34,11 +34,11 @@
 | 32 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.91% |
 | 33 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 34 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 35 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.88% |
+| 35 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.77% |
 | 36 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.66% |
 | 37 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
 | 38 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 5.00% |
-| 39 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.99% |
+| 39 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.98% |
 | 40 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.88% |
 | 41 | [JARS](games/j/jars.md) | 4.84% |
 | 42 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.76% |
@@ -163,10 +163,10 @@
 | 161 | [Blanc](games/b/blanc.md) | 0.22% |
 | 161 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
 | 161 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.22% |
-| 164 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.21% |
 | 164 | [Going Medieval](games/g/going_medieval.md) | 0.21% |
 | 164 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.21% |
-| 167 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.20% |
+| 166 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
+| 166 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.20% |
 | 168 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
 | 169 | [BLACKTAIL](games/b/blacktail.md) | 0.18% |
 | 169 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.18% |
