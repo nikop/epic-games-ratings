@@ -147,7 +147,7 @@
 | 145 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 958 | 4.31 | 772 |
 | 146 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 929 | 4.69 | 216 |
 | 147 | [Sonic Mania](games/s/sonic_mania.md) | 924 | 4.78 | 100 |
-| 148 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 897 | 4.75 | 133 |
+| 148 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 899 | 4.75 | 133 |
 | 149 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 896 | 4.56 | 459 |
 | 150 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 863 | 4.45 | 624 |
 | 151 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 808 | 4.56 | 459 |

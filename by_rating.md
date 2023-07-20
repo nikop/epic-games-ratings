@@ -135,7 +135,7 @@
 | 133 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 25 | 475 |
 | 133 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 5,494 | 63 |
 | 133 | [Diabotical](games/d/diabotical.md) | 4.75 | 271 | 242 |
-| 133 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 897 | 148 |
+| 133 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 899 | 148 |
 | 133 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 543 | 187 |
 | 133 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.75 | 0 | 505 |
 | 133 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 115 | 317 |
