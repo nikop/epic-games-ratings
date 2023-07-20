@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 15,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 124,
+  "EOS_Progressed": 125,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 12.9,
+  "EOS_Completed_Percentage": 12.8,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -626,6 +626,11 @@
       "Time": "2023-07-20T20:05:43.4785718+00:00",
       "NumProgressed": 124,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-07-20T22:05:26.6511412+00:00",
+      "NumProgressed": 125,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 6,
@@ -651,7 +656,7 @@
       "ID": "CgkIgaGB2J0LEAIQAg",
       "SetID": "4ocea6d",
       "Name": "Viola Organista",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 165,
       "UsersEstimate": 58
     },
@@ -667,9 +672,9 @@
       "ID": "CgkIgaGB2J0LEAIQBA",
       "SetID": "4ocea6d",
       "Name": "Revolving Bridge",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 165,
-      "UsersEstimate": 38
+      "UsersEstimate": 40
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBQ",
@@ -684,14 +689,14 @@
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 124,
+      "Progressed": 125,
       "Completed": 16
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-07-20T21:07:43.6029744+00:00",
+  "LastChanged_Achievements": "2023-07-20T22:05:26.6511407+00:00",
   "LastUpdate_AppInfo": "2023-07-20T13:57:08.6371589+00:00",
-  "LastUpdate_Ratings": "2023-07-20T20:59:08.3446933+00:00",
-  "LastUpdate_Achievements": "2023-07-20T21:07:43.6029898+00:00"
+  "LastUpdate_Ratings": "2023-07-20T21:57:11.1098463+00:00",
+  "LastUpdate_Achievements": "2023-07-20T22:05:26.6511498+00:00"
 }

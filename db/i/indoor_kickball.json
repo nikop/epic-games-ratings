@@ -4,7 +4,7 @@
   "ProductSlug": "indoor-kickball-843529",
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-26T19:00:00+00:00",
@@ -477,9 +477,9 @@
       "ID": "22",
       "SetID": "39djiaj",
       "Name": "Classroom Secret Spot",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "23",
@@ -692,8 +692,8 @@
   ],
   "FirstSeen": "2023-05-27T21:59:02.7354993+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:07.9162458+00:00",
-  "LastChanged_Achievements": "2023-07-20T21:05:21.7935533+00:00",
+  "LastChanged_Achievements": "2023-07-20T22:03:17.4125563+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:10.1804133+00:00",
-  "LastUpdate_Ratings": "2023-07-20T21:02:19.1877754+00:00",
-  "LastUpdate_Achievements": "2023-07-20T21:05:21.7935866+00:00"
+  "LastUpdate_Ratings": "2023-07-20T22:00:03.3342006+00:00",
+  "LastUpdate_Achievements": "2023-07-20T22:03:17.4125844+00:00"
 }

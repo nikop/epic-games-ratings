@@ -5,36 +5,36 @@ Rating: 4.40 (Ranked 691)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~723,021 |
-| The ABCs | 43.00% | ~634,488 |
-| Home Run | 41.00% | ~604,977 |
-| Keeps Coming Off | 41.00% | ~604,977 |
-| Guts | 20.00% | ~295,111 |
-| Meat Grinder | 19.00% | ~280,355 |
-| Burning Man | 16.00% | ~236,088 |
-| Lived to Tell the Tale | 12.00% | ~177,066 |
-| Highlander | 10.00% | ~147,555 |
-| Unstoppable | 10.00% | ~147,555 |
-| Just a Scratch | 9.00% | ~132,800 |
-| Tough Nut to Crack | 6.00% | ~88,533 |
-| Yoink | 6.00% | ~88,533 |
-| Long List of Names | 4.00% | ~59,022 |
-| Pyromaniac | 4.00% | ~59,022 |
-| The Queen of Weapons | 4.00% | ~59,022 |
-| This isn’t Sparta | 3.00% | ~44,267 |
-| Crybaby | 2.00% | ~29,511 |
-| Eagle Eye | 2.00% | ~29,511 |
-| I Know Kung Fu | 2.00% | ~29,511 |
-| Poacher | 2.00% | ~29,511 |
-| Put That Away | 2.00% | ~29,511 |
-| You’re Welcome | 2.00% | ~29,511 |
+| Justice from the Grave | 49.00% | ~723,044 |
+| The ABCs | 43.00% | ~634,508 |
+| Home Run | 41.00% | ~604,996 |
+| Keeps Coming Off | 41.00% | ~604,996 |
+| Guts | 20.00% | ~295,120 |
+| Meat Grinder | 19.00% | ~280,364 |
+| Burning Man | 16.00% | ~236,096 |
+| Lived to Tell the Tale | 12.00% | ~177,072 |
+| Highlander | 10.00% | ~147,560 |
+| Unstoppable | 10.00% | ~147,560 |
+| Just a Scratch | 9.00% | ~132,804 |
+| Tough Nut to Crack | 6.00% | ~88,536 |
+| Yoink | 6.00% | ~88,536 |
+| Long List of Names | 4.00% | ~59,024 |
+| Pyromaniac | 4.00% | ~59,024 |
+| The Queen of Weapons | 4.00% | ~59,024 |
+| This isn’t Sparta | 3.00% | ~44,268 |
+| Crybaby | 2.00% | ~29,512 |
+| Eagle Eye | 2.00% | ~29,512 |
+| I Know Kung Fu | 2.00% | ~29,512 |
+| Poacher | 2.00% | ~29,512 |
+| Put That Away | 2.00% | ~29,512 |
+| You’re Welcome | 2.00% | ~29,512 |
 | Chambermaid | 1.00% | ~14,756 |
 | Coming Through | 1.00% | ~14,756 |
-| Training Accident | 0.80% | ~11,804 |
+| Training Accident | 0.80% | ~11,805 |
 | Boxer | 0.70% | ~10,329 |
 | Flyswatter | 0.70% | ~10,329 |
-| Rock’n’Roll | 0.60% | ~8,853 |
-| Virtuoso | 0.60% | ~8,853 |
+| Rock’n’Roll | 0.60% | ~8,854 |
+| Virtuoso | 0.60% | ~8,854 |
 | Friend Indeed | 0.50% | ~7,378 |
 | Whack-A-Mole | 0.40% | ~5,902 |
 | Vlad the Impaler | 0.30% | ~4,427 |
@@ -44,7 +44,7 @@ Rating: 4.40 (Ranked 691)
 | That’s No Ordinary Cold | 0.10% | ~1,476 |
 | Stairway to Hell | 0.10% | ~1,476 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,475,553 (Ranked 8)  
+Progressed: 1,475,601 (Ranked 8)  
 Completed: 45 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 45 (0.00%) (Ranked 238)
 | 2023-07-17 | 1,472,660 | 45 |
 | 2023-07-18 | 1,473,681 | 45 |
 | 2023-07-19 | 1,474,683 | 45 |
-| 2023-07-20 | 1,475,553 | 45 |
+| 2023-07-20 | 1,475,601 | 45 |
 ## Awards
 Max (Diverse Characters): 423  (Ranked 202)  
 Sum: 2,415 (Ranked 176)  

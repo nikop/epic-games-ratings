@@ -15,7 +15,6 @@ Rating: 4.87 (Ranked 24)
 | Thanks for the free chip, Peppermint! | 2.00% | ~69 |
 | Whoa! There's ANOTHER health bar!? | 2.00% | ~69 |
 | Feeling the beat! | 2.00% | ~69 |
-| You must like calling me in, Chai | 2.00% | ~69 |
 | Z-shielding's got nothing on us! | 2.00% | ~69 |
 | Out in a puff of smoke | 2.00% | ~69 |
 | Perfect Parry | 2.00% | ~69 |
@@ -23,14 +22,15 @@ Rating: 4.87 (Ranked 24)
 | Kissing the sky! | 2.00% | ~69 |
 | Who put gears in there? | 2.00% | ~69 |
 | Alright, that felt AWESOME! | 2.00% | ~69 |
+| You can pet the cat! | 2.00% | ~69 |
 | NOW we got a kickass hideout! | 2.00% | ~40 |
 | Well that was a rush! | 1.00% | ~35 |
 | I play my own way! | 1.00% | ~35 |
 | I have to read these things? | 1.00% | ~35 |
 | You got this, Peppermint? | 1.00% | ~35 |
+| You must like calling me in, Chai | 1.00% | ~35 |
 | Perfecter Parry-er! | 1.00% | ~35 |
 | I look cool. But I can look COOLER. | 1.00% | ~35 |
-| You can pet the cat! | 1.00% | ~35 |
 | Does that say weakpoint? | 1.00% | ~35 |
 | That's a lot of junk metal… | 0.90% | ~31 |
 | There's such a thing as TOO helpful | 0.90% | ~31 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | I'm trying to FOCUS HERE! | 0.00% | ~0 |
 | OK, I THINK I know what I'm doing now | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,466 (Ranked 146)  
+Progressed: 3,467 (Ranked 146)  
 Completed: 6 (0.17%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 6 (0.17%) (Ranked 171)
 | 2023-07-16 | 3,458 | 6 |
 | 2023-07-17 | 3,459 | 6 |
 | 2023-07-19 | 3,460 | 6 |
-| 2023-07-20 | 3,466 | 6 |
+| 2023-07-20 | 3,467 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

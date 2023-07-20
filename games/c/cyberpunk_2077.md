@@ -6,53 +6,53 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~589,387 |
-| Right Back At Ya | 38.00% | ~329,363 |
-| The Lovers | 34.00% | ~294,693 |
-| Stanislavski's Method | 28.00% | ~242,689 |
-| The Wheel of Fortune | 26.00% | ~225,354 |
-| The Hermit | 24.00% | ~208,019 |
-| Christmas Tree Attack | 22.00% | ~190,684 |
-| True Soldier | 22.00% | ~190,684 |
-| The High Priestess | 21.00% | ~182,016 |
-| Legend of The Afterlife | 21.00% | ~182,016 |
-| Life of the Road | 20.00% | ~173,349 |
-| Full Body Conversion | 18.00% | ~156,014 |
-| The World | 17.00% | ~147,347 |
-| Bushido and Chill | 16.00% | ~138,679 |
-| Gun Fu | 15.00% | ~130,012 |
-| True Warrior | 15.00% | ~130,012 |
-| I Am The Law | 14.00% | ~121,344 |
-| Judy vs Night City | 14.00% | ~121,344 |
-| To Protect and Serve | 13.00% | ~112,677 |
-| Master Crafter | 13.00% | ~112,677 |
-| Two Heads, One Bullet | 11.00% | ~95,342 |
-| The Wandering Fool | 9.00% | ~78,007 |
-| The Quick and the Dead | 9.00% | ~78,007 |
+| The Fool | 68.00% | ~589,391 |
+| Right Back At Ya | 38.00% | ~329,365 |
+| The Lovers | 34.00% | ~294,695 |
+| Stanislavski's Method | 28.00% | ~242,690 |
+| The Wheel of Fortune | 26.00% | ~225,355 |
+| The Hermit | 24.00% | ~208,020 |
+| Christmas Tree Attack | 22.00% | ~190,685 |
+| True Soldier | 22.00% | ~190,685 |
+| The High Priestess | 21.00% | ~182,018 |
+| Legend of The Afterlife | 21.00% | ~182,018 |
+| Life of the Road | 20.00% | ~173,350 |
+| Full Body Conversion | 18.00% | ~156,015 |
+| The World | 17.00% | ~147,348 |
+| Bushido and Chill | 16.00% | ~138,680 |
+| Gun Fu | 15.00% | ~130,013 |
+| True Warrior | 15.00% | ~130,013 |
+| I Am The Law | 14.00% | ~121,345 |
+| Judy vs Night City | 14.00% | ~121,345 |
+| To Protect and Serve | 13.00% | ~112,678 |
+| Master Crafter | 13.00% | ~112,678 |
+| Two Heads, One Bullet | 11.00% | ~95,343 |
+| The Wandering Fool | 9.00% | ~78,008 |
+| The Quick and the Dead | 9.00% | ~78,008 |
 | Ten out of Ten | 8.00% | ~69,340 |
-| Breathtaking | 7.00% | ~60,672 |
+| Breathtaking | 7.00% | ~60,673 |
 | To Bad Decisions! | 6.00% | ~52,005 |
 | The Star | 6.00% | ~52,005 |
 | The Sun | 6.00% | ~52,005 |
 | Must Be Rats | 4.00% | ~34,670 |
 | Temperance | 4.00% | ~34,670 |
-| City Lights | 3.00% | ~26,002 |
-| Mean Streets | 3.00% | ~26,002 |
-| Little Tokyo | 3.00% | ~26,002 |
-| Greetings from Pacifica! | 3.00% | ~26,002 |
-| The Jungle | 3.00% | ~26,002 |
-| V for Vendetta | 3.00% | ~26,002 |
-| It's Elementary | 3.00% | ~26,002 |
+| City Lights | 3.00% | ~26,003 |
+| Mean Streets | 3.00% | ~26,003 |
+| Little Tokyo | 3.00% | ~26,003 |
+| Greetings from Pacifica! | 3.00% | ~26,003 |
+| The Jungle | 3.00% | ~26,003 |
+| V for Vendetta | 3.00% | ~26,003 |
+| It's Elementary | 3.00% | ~26,003 |
 | Autojock | 2.00% | ~17,335 |
 | Frequent Flyer | 2.00% | ~17,335 |
 | The Wasteland | 2.00% | ~17,335 |
 | Daemon In The Shell | 2.00% | ~17,335 |
 | The Devil | 2.00% | ~17,335 |
-| Gunslinger | 1.00% | ~8,667 |
+| Gunslinger | 1.00% | ~8,668 |
 | Rough Landing | 0.50% | ~4,334 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 866,745 (Ranked 14)  
-Completed: 1,887 (0.22%) (Ranked 161)  
+Progressed: 866,751 (Ranked 14)  
+Completed: 1,888 (0.22%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -142,14 +142,14 @@ Completed: 1,887 (0.22%) (Ranked 161)
 | 2023-07-17 | 866,256 | 1,878 |
 | 2023-07-18 | 866,435 | 1,883 |
 | 2023-07-19 | 866,596 | 1,885 |
-| 2023-07-20 | 866,745 | 1,887 |
+| 2023-07-20 | 866,751 | 1,888 |
 ## Awards
-Max (Character Customization): 73,607  (Ranked 9)  
-Sum: 193,385 (Ranked 13)  
+Max (Character Customization): 73,685  (Ranked 9)  
+Sum: 193,476 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 73,607 |
+| This game has Inclusive Character Customization | 73,685 |
 | This game has Great Boss Battles | 47,384 |
 | This game has Diverse Characters | 8,561 |
 | This game is Great for Beginners | 8,520 |
@@ -158,7 +158,7 @@ Diff (max vs sum): -4
 | This game is Highly Recommended | 8,360 |
 | This game is Relaxing | 8,322 |
 | This game has Quickly Understood Controls | 8,197 |
-| This game has Amazing Characters | 8,170 |
+| This game has Amazing Characters | 8,183 |
 | This game has a Creative Community | 5,372 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -345,4 +345,4 @@ Diff (max vs sum): -4
 | 2023-07-17 | 4.62 | - | 73,434 | 192,689 |
 | 2023-07-18 | 4.62 | - | 73,529 | 192,990 |
 | 2023-07-19 | 4.62 | - | 73,607 | 193,226 |
-| 2023-07-20 | 4.62 | - | 73,607 | 193,385 |
+| 2023-07-20 | 4.62 | - | 73,685 | 193,476 |

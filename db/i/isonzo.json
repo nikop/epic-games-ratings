@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 347,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -706,9 +706,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6375,
+  "EOS_Progressed": 6376,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3376,6 +3376,11 @@
       "Time": "2023-07-20T21:07:49.9471517+00:00",
       "NumProgressed": 6375,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-20T22:05:32.5869032+00:00",
+      "NumProgressed": 6376,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -3387,7 +3392,7 @@
       "Name": "12th Bottle of the Isonzo",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "ISONZO_ACH_AURELIO_BARUZZI",
@@ -3403,7 +3408,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 2996
+      "UsersEstimate": 2997
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -3419,7 +3424,7 @@
       "Name": "Cercatore d\u0027Oro",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "ISONZO_ACH_COMPAGNIA_DELLA_MORTE",
@@ -3579,7 +3584,7 @@
       "Name": "Peak Performance",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3506
+      "UsersEstimate": 3507
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -3667,7 +3672,7 @@
       "Name": "The Enlightment",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "ISONZO_ACH_THE_ITALIAN_JOB",
@@ -3715,7 +3720,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3506
+      "UsersEstimate": 3507
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -3731,7 +3736,7 @@
       "Name": "Veni Vidi Vici",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1402
+      "UsersEstimate": 1403
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -3746,7 +3751,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6375,
+      "Progressed": 6376,
       "Completed": 8
     }
   ],
@@ -3754,8 +3759,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-07-16T15:57:43.9096857+00:00",
-  "LastChanged_Achievements": "2023-07-20T21:07:49.9471509+00:00",
+  "LastChanged_Achievements": "2023-07-20T22:05:32.5869028+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:26.8768515+00:00",
-  "LastUpdate_Ratings": "2023-07-20T20:59:58.560363+00:00",
-  "LastUpdate_Achievements": "2023-07-20T21:07:49.9472129+00:00"
+  "LastUpdate_Ratings": "2023-07-20T21:57:57.426855+00:00",
+  "LastUpdate_Achievements": "2023-07-20T22:05:32.5869449+00:00"
 }

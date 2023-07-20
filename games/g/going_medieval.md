@@ -13,8 +13,8 @@ Number of Ratings: 706  (23.09.2022)
 | Green Thumb | 65.00% | ~3,069 |
 | Novice Researcher | 64.00% | ~3,022 |
 | Putting Food on the Table | 60.00% | ~2,833 |
+| Home Cooked Meal | 55.00% | ~2,597 |
 | Onward | 55.00% | ~2,597 |
-| Home Cooked Meal | 54.00% | ~2,550 |
 | The First Week | 53.00% | ~2,503 |
 | Beam Me Up | 50.00% | ~2,361 |
 | Feast or Famine | 50.00% | ~2,361 |
@@ -23,7 +23,7 @@ Number of Ratings: 706  (23.09.2022)
 | Retribution | 40.00% | ~1,889 |
 | ...And Don’t Come Back! | 40.00% | ~1,889 |
 | Fit For A King | 38.00% | ~1,794 |
-| Luminary Researcher | 33.00% | ~1,558 |
+| Luminary Researcher | 34.00% | ~1,605 |
 | Heating Up | 28.00% | ~1,322 |
 | Winter Is Coming | 25.00% | ~1,180 |
 | Winter Is Here | 22.00% | ~1,039 |

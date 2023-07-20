@@ -17,9 +17,9 @@
 | Veteran Sniper | 20.00% | ~16 |
 | The Neuro-connector | 20.00% | ~16 |
 | Flatline | 20.00% | ~16 |
+| Full and Final Settlement | 17.00% | ~14 |
 | Unstoppable | 17.00% | ~14 |
-| Full and Final Settlement | 16.00% | ~13 |
-| One Click Away | 16.00% | ~13 |
+| One Click Away | 17.00% | ~14 |
 | Cyborg | 12.00% | ~10 |
 | Brain-hacker | 10.00% | ~8 |
 | Lifter | 9.00% | ~7 |

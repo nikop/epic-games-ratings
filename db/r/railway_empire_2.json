@@ -3939,9 +3939,9 @@
       "ID": "A54",
       "SetID": "9b7p7eo",
       "Name": "Together we stand",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     }
   ],
   "AchievementSets": [
@@ -3956,8 +3956,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-07-15T13:11:52.2660049+00:00",
-  "LastChanged_Achievements": "2023-07-20T21:05:30.8671053+00:00",
+  "LastChanged_Achievements": "2023-07-20T22:03:25.6775278+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:48.1822596+00:00",
-  "LastUpdate_Ratings": "2023-07-20T21:00:48.4714516+00:00",
-  "LastUpdate_Achievements": "2023-07-20T21:05:30.8672404+00:00"
+  "LastUpdate_Ratings": "2023-07-20T21:58:43.5471217+00:00",
+  "LastUpdate_Achievements": "2023-07-20T22:03:25.6775817+00:00"
 }

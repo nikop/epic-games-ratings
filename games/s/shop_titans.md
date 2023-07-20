@@ -6,37 +6,37 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 97.00% | ~128,936 |
-| Titan's First Steps | 96.00% | ~127,607 |
+| Sponsored by Argon | 97.00% | ~128,937 |
+| Titan's First Steps | 96.00% | ~127,608 |
 | Basic in Bulk | 90.00% | ~119,632 |
-| Tinkle of Coins | 86.00% | ~114,315 |
-| Disintermediation | 75.00% | ~99,693 |
+| Tinkle of Coins | 86.00% | ~114,316 |
+| Disintermediation | 75.00% | ~99,694 |
 | Capitalism Ho! | 74.00% | ~98,364 |
 | It's Free Real Estate | 69.00% | ~91,718 |
 | Budding Merchant | 66.00% | ~87,730 |
 | Another Satisfied Customer | 61.00% | ~81,084 |
-| One Easy Payment | 60.00% | ~79,754 |
-| Own the Means of Production | 60.00% | ~79,754 |
+| One Easy Payment | 60.00% | ~79,755 |
+| Own the Means of Production | 60.00% | ~79,755 |
 | Some Assembly Required | 58.00% | ~77,096 |
 | Pretty Penny | 57.00% | ~75,767 |
 | One-Armed Bandit | 49.00% | ~65,133 |
-| Through Repetition, Perfection | 46.00% | ~61,145 |
+| Through Repetition, Perfection | 46.00% | ~61,146 |
 | The Daily Grind | 45.00% | ~59,816 |
 | Bounty Hunters | 44.00% | ~58,487 |
-| Where it Hurts | 43.00% | ~57,157 |
+| Where it Hurts | 43.00% | ~57,158 |
 | Dungeon Imports | 42.00% | ~55,828 |
 | Flooding the Market | 41.00% | ~54,499 |
-| Demand for Supplies | 38.00% | ~50,511 |
+| Demand for Supplies | 38.00% | ~50,512 |
 | Gild-Gotten Goods | 37.00% | ~49,182 |
-| Did we pack lunch? | 35.00% | ~46,523 |
+| Did we pack lunch? | 35.00% | ~46,524 |
 | Arcane Industries | 34.00% | ~45,194 |
-| Accomplished Merchant | 31.00% | ~41,206 |
+| Accomplished Merchant | 31.00% | ~41,207 |
 | Ascended | 28.00% | ~37,219 |
 | Gem Expert | 28.00% | ~37,219 |
-| On the Path to Greatness | 27.00% | ~35,889 |
-| Blank Page Syndrome | 27.00% | ~35,889 |
-| Efficient Floor Space | 27.00% | ~35,889 |
-| Helping Hand | 27.00% | ~35,889 |
+| On the Path to Greatness | 27.00% | ~35,890 |
+| Blank Page Syndrome | 27.00% | ~35,890 |
+| Efficient Floor Space | 27.00% | ~35,890 |
+| Helping Hand | 27.00% | ~35,890 |
 | Vanity, Verily | 26.00% | ~34,560 |
 | Research & Development | 25.00% | ~33,231 |
 | Power of Love | 24.00% | ~31,902 |
@@ -55,10 +55,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Expansion in Session | 15.00% | ~19,939 |
 | Seasoned Journeyman | 15.00% | ~19,939 |
 | Black Friday Special | 15.00% | ~19,939 |
-| Big Game Hunting | 14.00% | ~18,609 |
-| Locally Sourced | 14.00% | ~18,609 |
-| Flying off the Shelves | 14.00% | ~18,609 |
-| Laden with Loot | 14.00% | ~18,609 |
+| Big Game Hunting | 14.00% | ~18,610 |
+| Locally Sourced | 14.00% | ~18,610 |
+| Flying off the Shelves | 14.00% | ~18,610 |
+| Laden with Loot | 14.00% | ~18,610 |
 | Fat Cat Tag Team | 13.00% | ~17,280 |
 | Above the Norm | 12.00% | ~15,951 |
 | Hidden Potential | 12.00% | ~15,951 |
@@ -81,10 +81,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Booty by the Boatload | 7.00% | ~9,305 |
 | A Legend is Born | 7.00% | ~9,305 |
 | Treasure Trove | 7.00% | ~9,305 |
-| Thirst for Knowledge | 6.00% | ~7,975 |
-| Archivist | 6.00% | ~7,975 |
-| Bountiful Harvest | 6.00% | ~7,975 |
-| All Accounted For | 6.00% | ~7,975 |
+| Thirst for Knowledge | 6.00% | ~7,976 |
+| Archivist | 6.00% | ~7,976 |
+| Bountiful Harvest | 6.00% | ~7,976 |
+| All Accounted For | 6.00% | ~7,976 |
 | Proud Paladin | 5.00% | ~6,646 |
 | Precision Engineering | 5.00% | ~6,646 |
 | Constellated | 4.00% | ~5,317 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.60% | ~798 |
 | Capitalist Camaraderie | 0.20% | ~266 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,924 (Ranked 61)  
+Progressed: 132,925 (Ranked 61)  
 Completed: 121 (0.09%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,14 +210,14 @@ Completed: 121 (0.09%) (Ranked 191)
 | 2023-07-17 | 132,751 | 119 |
 | 2023-07-18 | 132,815 | 119 |
 | 2023-07-19 | 132,870 | 121 |
-| 2023-07-20 | 132,924 | 121 |
+| 2023-07-20 | 132,925 | 121 |
 ## Awards
-Max (Great for Beginners): 4,665  (Ranked 69)  
-Sum: 26,947 (Ranked 46)  
+Max (Great for Beginners): 4,668  (Ranked 69)  
+Sum: 26,950 (Ranked 46)  
 Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,665 |
+| This game is Great for Beginners | 4,668 |
 | This game is Relaxing | 3,983 |
 | This game has Quickly Understood Controls | 3,972 |
 | This game has Diverse Characters | 3,828 |
@@ -405,4 +405,4 @@ Diff (max vs sum): 23
 | 2023-07-17 | 3.99 | - | 4,663 | 26,932 |
 | 2023-07-18 | 3.99 | - | 4,664 | 26,941 |
 | 2023-07-19 | 3.99 | - | 4,665 | 26,942 |
-| 2023-07-20 | 3.99 | - | 4,665 | 26,947 |
+| 2023-07-20 | 3.99 | - | 4,668 | 26,950 |

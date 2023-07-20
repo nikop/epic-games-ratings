@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2973,
+  "EOS_Progressed": 2974,
   "EOS_Completed": 101,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 3.4,
   "EosHistory": [
@@ -3580,6 +3580,11 @@
       "Time": "2023-07-20T16:06:48.5178879+00:00",
       "NumProgressed": 2973,
       "NumCompleted": 101
+    },
+    {
+      "Time": "2023-07-20T22:06:43.5008482+00:00",
+      "NumProgressed": 2974,
+      "NumCompleted": 101
     }
   ],
   "TotalAchievements": 24,
@@ -3615,7 +3620,7 @@
       "Name": "TRAINING HARD",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "13",
@@ -3671,7 +3676,7 @@
       "Name": "DEFEAT OUR CHAMPION",
       "Percentage": 13,
       "XP": 85,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "2",
@@ -3695,7 +3700,7 @@
       "Name": "ACE DEFENDER",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "22",
@@ -3733,9 +3738,9 @@
       "ID": "4",
       "SetID": "9p3jgda",
       "Name": "AGGRESSIVE RACER",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 80,
-      "UsersEstimate": 922
+      "UsersEstimate": 892
     },
     {
       "ID": "5",
@@ -3775,20 +3780,20 @@
       "Name": "LEGENDARY HERO",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     }
   ],
   "AchievementSets": [
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2973,
+      "Progressed": 2974,
       "Completed": 101
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-07-20T21:09:07.4257936+00:00",
+  "LastChanged_Achievements": "2023-07-20T22:06:43.5008477+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:54.868293+00:00",
-  "LastUpdate_Ratings": "2023-07-20T21:01:57.9969493+00:00",
-  "LastUpdate_Achievements": "2023-07-20T21:09:07.4258339+00:00"
+  "LastUpdate_Ratings": "2023-07-20T21:59:44.1453892+00:00",
+  "LastUpdate_Achievements": "2023-07-20T22:06:43.5008782+00:00"
 }

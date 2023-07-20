@@ -3,7 +3,7 @@
   "Name": "Placid Plastic Duck Simulator",
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 290,
-  "Ranking_EOS_Completed": 28,
+  "Ranking_EOS_Completed": 29,
   "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 47,
   "Store": {
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 134,
+  "EOS_Progressed": 135,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 7.46,
+  "EOS_Completed_Percentage": 7.41,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -506,6 +506,11 @@
       "Time": "2023-07-20T18:05:42.3175622+00:00",
       "NumProgressed": 134,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-20T22:05:52.4092427+00:00",
+      "NumProgressed": 135,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 16,
@@ -517,7 +522,7 @@
       "Name": "Three is company",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -531,17 +536,17 @@
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "8d3ci0",
       "Name": "Cruise ship",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 40
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "8d3ci0",
       "Name": "Ducks adrift",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 46
+      "UsersEstimate": 45
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -549,7 +554,7 @@
       "Name": "That\u0027s all, ducks!",
       "Percentage": 16,
       "XP": 160,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
@@ -557,7 +562,7 @@
       "Name": "High-rise",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -573,7 +578,7 @@
       "Name": "Floatpiercer",
       "Percentage": 10,
       "XP": 150,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -589,7 +594,7 @@
       "Name": "Make a wish",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -613,7 +618,7 @@
       "Name": "Private pool",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -644,14 +649,14 @@
     {
       "ID": "8d3ci0",
       "IsBase": true,
-      "Progressed": 134,
+      "Progressed": 135,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-20T21:08:11.436647+00:00",
+  "LastChanged_Achievements": "2023-07-20T22:05:52.4092423+00:00",
   "LastUpdate_AppInfo": "2023-07-15T11:57:13.4695515+00:00",
-  "LastUpdate_Ratings": "2023-07-20T20:59:08.2941525+00:00",
-  "LastUpdate_Achievements": "2023-07-20T21:08:11.4366635+00:00"
+  "LastUpdate_Ratings": "2023-07-20T21:57:11.1161835+00:00",
+  "LastUpdate_Achievements": "2023-07-20T22:05:52.409254+00:00"
 }

@@ -59,7 +59,7 @@
 | Hearty Meteor | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 159 (Ranked 283)  
-Completed: 1 (0.63%) (Ranked 119)  
+Completed: 1 (0.63%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

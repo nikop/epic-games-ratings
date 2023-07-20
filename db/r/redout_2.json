@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1073,
+  "EOS_Progressed": 1074,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -650,6 +650,11 @@
       "Time": "2023-07-19T16:03:14.620221+00:00",
       "NumProgressed": 1073,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-20T22:01:44.5906845+00:00",
+      "NumProgressed": 1074,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -797,7 +802,7 @@
       "Name": "Rookie No-No More",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "CAREERCLASSA",
@@ -893,7 +898,7 @@
       "Name": "Running at the speed of sound",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "FLYLONG",
@@ -1076,7 +1081,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1073,
+      "Progressed": 1074,
       "Completed": 0
     }
   ],
@@ -1084,8 +1089,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-07-20T21:04:15.315579+00:00",
+  "LastChanged_Achievements": "2023-07-20T22:01:44.590684+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:52.2995402+00:00",
-  "LastUpdate_Ratings": "2023-07-20T21:00:52.1374339+00:00",
-  "LastUpdate_Achievements": "2023-07-20T21:04:15.3156239+00:00"
+  "LastUpdate_Ratings": "2023-07-20T21:58:46.4021095+00:00",
+  "LastUpdate_Achievements": "2023-07-20T22:01:44.5907276+00:00"
 }

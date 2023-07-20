@@ -4,7 +4,7 @@
   "ProductSlug": "tabletop-playground-9623f1",
   "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-06-15T19:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 28,
+  "EOS_Progressed": 29,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -161,6 +161,11 @@
       "Time": "2023-07-20T18:05:21.2058095+00:00",
       "NumProgressed": 28,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-20T22:05:29.8518716+00:00",
+      "NumProgressed": 29,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 5,
@@ -186,7 +191,7 @@
       "ID": "FourPlayers",
       "SetID": "9ajogia",
       "Name": "Socialite",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -194,7 +199,7 @@
       "ID": "NotPermitted",
       "SetID": "9ajogia",
       "Name": "Caged",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -202,7 +207,7 @@
       "ID": "WithFriend",
       "SetID": "9ajogia",
       "Name": "Friendship",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 200,
       "UsersEstimate": 1
     }
@@ -211,14 +216,14 @@
     {
       "ID": "9ajogia",
       "IsBase": true,
-      "Progressed": 28,
+      "Progressed": 29,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T04:57:23.9027898+00:00",
   "FirstSeenAchievements": "2023-05-18T13:05:33.6610739+00:00",
-  "LastChanged_Achievements": "2023-07-20T21:07:47.1034455+00:00",
+  "LastChanged_Achievements": "2023-07-20T22:05:29.8518712+00:00",
   "LastUpdate_AppInfo": "2023-07-20T17:57:05.9461786+00:00",
-  "LastUpdate_Ratings": "2023-07-20T20:59:29.0383163+00:00",
-  "LastUpdate_Achievements": "2023-07-20T21:07:47.1034538+00:00"
+  "LastUpdate_Ratings": "2023-07-20T21:57:30.8863614+00:00",
+  "LastUpdate_Achievements": "2023-07-20T22:05:29.8518776+00:00"
 }
