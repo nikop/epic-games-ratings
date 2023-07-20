@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 33710,
+  "EOS_Progressed": 33713,
   "EOS_Completed": 103,
-  "EOS_NewPlayers": 323,
+  "EOS_NewPlayers": 324,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -8388,6 +8388,11 @@
       "Time": "2023-07-20T02:07:05.8951945+00:00",
       "NumProgressed": 33710,
       "NumCompleted": 103
+    },
+    {
+      "Time": "2023-07-20T03:05:26.4044152+00:00",
+      "NumProgressed": 33713,
+      "NumCompleted": 103
     }
   ],
   "TotalAchievements": 14,
@@ -8471,7 +8476,7 @@
       "Name": "Hummed of Mystery",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1349
     },
     {
       "ID": "firstBunny",
@@ -8487,7 +8492,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 25957
+      "UsersEstimate": 25959
     },
     {
       "ID": "roots",
@@ -8510,15 +8515,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 33710,
+      "Progressed": 33713,
       "Completed": 103
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-06-14T02:10:18.2883541+00:00",
-  "LastChanged_Achievements": "2023-07-20T02:07:05.8951938+00:00",
+  "LastChanged_Achievements": "2023-07-20T03:05:26.4044144+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:17.7432934+00:00",
-  "LastUpdate_Ratings": "2023-07-20T02:03:20.2938017+00:00",
-  "LastUpdate_Achievements": "2023-07-20T02:07:05.8953036+00:00"
+  "LastUpdate_Ratings": "2023-07-20T03:01:33.9789323+00:00",
+  "LastUpdate_Achievements": "2023-07-20T03:05:26.4045492+00:00"
 }

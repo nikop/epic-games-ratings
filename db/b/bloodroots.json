@@ -4,7 +4,7 @@
   "ProductSlug": "bloodroots",
   "Ranking_EOS_Progress": 498,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2020-02-28T16:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:46.8090789+00:00",
   "LastChanged": "2023-03-31T05:57:46.809079+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:20.0052778+00:00",
-  "LastUpdate_Ratings": "2023-07-20T02:03:24.3029908+00:00",
-  "LastUpdate_Achievements": "2023-07-20T02:09:33.1360099+00:00"
+  "LastUpdate_Ratings": "2023-07-20T03:01:37.2175965+00:00",
+  "LastUpdate_Achievements": "2023-07-20T03:07:42.4159344+00:00"
 }

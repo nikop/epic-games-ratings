@@ -6,49 +6,49 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~103,356 |
-| Don't Make Me Turn This Coach Around | 70.00% | ~77,795 |
-| A Clear Conscience | 69.00% | ~76,684 |
-| Unleash Hell | 68.00% | ~75,572 |
-| Unfulfilled Desires | 68.00% | ~75,572 |
-| Funny Guy | 67.00% | ~74,461 |
-| Unshackled | 67.00% | ~74,461 |
-| Long Live the King | 66.00% | ~73,350 |
-| Resurrection | 62.00% | ~68,904 |
-| Wyrdly Reconstructed | 62.00% | ~68,904 |
-| Boxcar Kid | 60.00% | ~66,682 |
-| To Grandmother's House | 60.00% | ~66,682 |
-| Rush Hour | 59.00% | ~65,570 |
-| Serenity Now! | 52.00% | ~57,791 |
-| Hope Rekindled | 50.00% | ~55,568 |
-| Ramble On | 48.00% | ~53,345 |
-| Nope | 47.00% | ~52,234 |
+| A Place to Lay Your Head | 93.00% | ~103,358 |
+| Don't Make Me Turn This Coach Around | 70.00% | ~77,797 |
+| A Clear Conscience | 69.00% | ~76,685 |
+| Unleash Hell | 68.00% | ~75,574 |
+| Unfulfilled Desires | 68.00% | ~75,574 |
+| Funny Guy | 67.00% | ~74,462 |
+| Unshackled | 67.00% | ~74,462 |
+| Long Live the King | 66.00% | ~73,351 |
+| Resurrection | 62.00% | ~68,906 |
+| Wyrdly Reconstructed | 62.00% | ~68,906 |
+| Boxcar Kid | 60.00% | ~66,683 |
+| To Grandmother's House | 60.00% | ~66,683 |
+| Rush Hour | 59.00% | ~65,571 |
+| Serenity Now! | 52.00% | ~57,792 |
+| Hope Rekindled | 50.00% | ~55,569 |
+| Ramble On | 48.00% | ~53,346 |
+| Nope | 47.00% | ~52,235 |
 | This Looks Familiar | 38.00% | ~42,232 |
-| Now Stay Dead | 36.00% | ~40,009 |
-| Hot Air | 36.00% | ~40,009 |
+| Now Stay Dead | 36.00% | ~40,010 |
+| Hot Air | 36.00% | ~40,010 |
 | Merry Time | 35.00% | ~38,898 |
 | Harvest Festival | 35.00% | ~38,898 |
 | Creep and Sleep | 32.00% | ~35,564 |
-| Overdue Notice | 31.00% | ~34,452 |
+| Overdue Notice | 31.00% | ~34,453 |
 | Banishment | 30.00% | ~33,341 |
 | Whale | 30.00% | ~33,341 |
-| FNG | 28.00% | ~31,118 |
-| Predator | 23.00% | ~25,561 |
-| Reverse Banditry | 23.00% | ~25,561 |
-| Autodidact | 23.00% | ~25,561 |
+| FNG | 28.00% | ~31,119 |
+| Predator | 23.00% | ~25,562 |
+| Reverse Banditry | 23.00% | ~25,562 |
+| Autodidact | 23.00% | ~25,562 |
 | Meat and Greet | 22.00% | ~24,450 |
 | Spelunker | 21.00% | ~23,339 |
 | Road Trip | 21.00% | ~23,339 |
-| Eyes Up | 20.00% | ~22,227 |
+| Eyes Up | 20.00% | ~22,228 |
 | It Rings a Bell | 19.00% | ~21,116 |
 | Escape from the Black Hole | 17.00% | ~18,893 |
 | It Happens | 17.00% | ~18,893 |
-| This Belongs in a Museum | 15.00% | ~16,670 |
-| Dissector | 15.00% | ~16,670 |
-| Handled | 15.00% | ~16,670 |
+| This Belongs in a Museum | 15.00% | ~16,671 |
+| Dissector | 15.00% | ~16,671 |
+| Handled | 15.00% | ~16,671 |
 | Catch and Decease | 14.00% | ~15,559 |
-| Not Today! | 12.00% | ~13,336 |
-| Deprogramming | 12.00% | ~13,336 |
+| Not Today! | 12.00% | ~13,337 |
+| Deprogramming | 12.00% | ~13,337 |
 | Shrine of Reflection | 11.00% | ~12,225 |
 | When You Want Something Done Right | 10.00% | ~11,114 |
 | Body of Work | 9.00% | ~10,002 |
@@ -56,7 +56,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hat Trick | 6.00% | ~6,668 |
 | Ichthyophobic | 5.00% | ~5,557 |
 | No More Mouths to Feed | 5.00% | ~5,557 |
-| The World As It Was | 4.00% | ~4,445 |
+| The World As It Was | 4.00% | ~4,446 |
 | Triage | 3.00% | ~3,334 |
 | Clearing the Ledger | 2.00% | ~2,223 |
 | A Life Well Lived | 1.00% | ~1,111 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Gravestone Left Unturned | 0.10% | ~111 |
 | 20,000 Leagues Above the Sea | 0.10% | ~111 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 111,136 (Ranked 66)  
+Progressed: 111,138 (Ranked 66)  
 Completed: 1 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 1 (0.00%) (Ranked 238)
 | 2023-07-17 | 110,809 | 1 |
 | 2023-07-18 | 110,984 | 1 |
 | 2023-07-19 | 111,122 | 1 |
-| 2023-07-20 | 111,136 | 1 |
+| 2023-07-20 | 111,138 | 1 |
 ## Awards
 Max (Character Customization): 7,285  (Ranked 47)  
 Sum: 18,849 (Ranked 56)  

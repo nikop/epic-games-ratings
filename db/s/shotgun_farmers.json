@@ -975,17 +975,17 @@
       "ID": "ach_first_first_blood",
       "SetID": "cmg602e",
       "Name": "First Blood",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 116
     },
     {
       "ID": "ach_first_harvest",
       "SetID": "cmg602e",
       "Name": "Seeds of War",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 161
     },
     {
       "ID": "ach_first_rocket_jump",
@@ -1534,8 +1534,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-07-20T02:07:45.7075077+00:00",
+  "LastChanged_Achievements": "2023-07-20T03:06:03.5874823+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:09.0796532+00:00",
-  "LastUpdate_Ratings": "2023-07-20T02:00:53.8782878+00:00",
-  "LastUpdate_Achievements": "2023-07-20T02:07:45.7076507+00:00"
+  "LastUpdate_Ratings": "2023-07-20T02:59:19.4859486+00:00",
+  "LastUpdate_Achievements": "2023-07-20T03:06:03.5875454+00:00"
 }

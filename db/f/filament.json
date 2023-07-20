@@ -225,9 +225,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 196788,
+  "EOS_Progressed": 196791,
   "EOS_Completed": 468,
-  "EOS_NewPlayers": 657,
+  "EOS_NewPlayers": 654,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -9800,6 +9800,11 @@
       "Time": "2023-07-20T02:04:11.0036519+00:00",
       "NumProgressed": 196788,
       "NumCompleted": 468
+    },
+    {
+      "Time": "2023-07-20T03:02:12.4959919+00:00",
+      "NumProgressed": 196791,
+      "NumCompleted": 468
     }
   ],
   "TotalAchievements": 29,
@@ -9835,7 +9840,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 184981
+      "UsersEstimate": 184984
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -9891,7 +9896,7 @@
       "Name": "Corrupted.",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 9839
+      "UsersEstimate": 9840
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTEDCOMPLETE",
@@ -9971,7 +9976,7 @@
       "Name": "Good things come in pairs... Coloured Pairs.",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 9839
+      "UsersEstimate": 9840
     },
     {
       "ID": "ACHIEVEMENT_REQUISITE",
@@ -10042,7 +10047,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 196788,
+      "Progressed": 196791,
       "Completed": 468
     }
   ],
@@ -10050,8 +10055,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-06-26T22:58:32.656469+00:00",
-  "LastChanged_Achievements": "2023-07-20T02:04:11.0036514+00:00",
+  "LastChanged_Achievements": "2023-07-20T03:02:12.4959914+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:47.6182594+00:00",
-  "LastUpdate_Ratings": "2023-07-20T02:01:37.7705535+00:00",
-  "LastUpdate_Achievements": "2023-07-20T02:04:11.0040856+00:00"
+  "LastUpdate_Ratings": "2023-07-20T03:00:00.7152372+00:00",
+  "LastUpdate_Achievements": "2023-07-20T03:02:12.4960495+00:00"
 }

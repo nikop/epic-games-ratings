@@ -14,7 +14,7 @@ Number of Ratings: 25  (23.09.2022)
 | The Love Martyr | 87.00% | ~513 |
 | Frugal | 85.00% | ~502 |
 | Dilligent | 83.00% | ~490 |
-| I... I did it? | 80.00% | ~472 |
+| I... I did it? | 81.00% | ~478 |
 | Adored | 76.00% | ~448 |
 | The Hobbyist | 65.00% | ~384 |
 | A Forked Tongue | 55.00% | ~324 |

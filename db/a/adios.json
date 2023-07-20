@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 105,
   "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 9,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -78,10 +78,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 66713,
+  "EOS_Progressed": 66714,
   "EOS_Completed": 643,
-  "EOS_NewPlayers": 978,
-  "EOS_NewCompleters": 19,
+  "EOS_NewPlayers": 972,
+  "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.96,
   "EosHistory": [
     {
@@ -9893,6 +9893,11 @@
       "Time": "2023-07-20T02:09:47.0149657+00:00",
       "NumProgressed": 66713,
       "NumCompleted": 643
+    },
+    {
+      "Time": "2023-07-20T03:07:55.7199803+00:00",
+      "NumProgressed": 66714,
+      "NumCompleted": 643
     }
   ],
   "TotalAchievements": 25,
@@ -9920,7 +9925,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 12008
+      "UsersEstimate": 12009
     },
     {
       "ID": "Audiophile",
@@ -9944,7 +9949,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 12008
+      "UsersEstimate": 12009
     },
     {
       "ID": "Butcher",
@@ -10024,7 +10029,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12675
+      "UsersEstimate": 12676
     },
     {
       "ID": "Nice Try",
@@ -10103,7 +10108,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 66713,
+      "Progressed": 66714,
       "Completed": 643
     }
   ],
@@ -10111,8 +10116,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-07-12T22:00:34.5799915+00:00",
-  "LastChanged_Achievements": "2023-07-20T02:09:47.014965+00:00",
+  "LastChanged_Achievements": "2023-07-20T03:07:55.7199799+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:36.9043448+00:00",
-  "LastUpdate_Ratings": "2023-07-20T02:03:38.5291876+00:00",
-  "LastUpdate_Achievements": "2023-07-20T02:09:47.0151075+00:00"
+  "LastUpdate_Ratings": "2023-07-20T03:01:50.3936472+00:00",
+  "LastUpdate_Achievements": "2023-07-20T03:07:55.7200363+00:00"
 }
