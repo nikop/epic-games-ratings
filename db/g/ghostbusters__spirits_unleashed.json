@@ -1414,10 +1414,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 2172,
       "NumberOfAwardsMax": 243
+    },
+    {
+      "Time": "2023-07-20T02:01:52.9258526+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 2173,
+      "NumberOfAwardsMax": 243
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2172,
+  "NumberOfAwards": 2173,
   "NumberOfAwardsMax": 243,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1479,7 +1485,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 209
+      "Count": 210
     },
     {
       "Text": "This game has Competitive Players",
@@ -1494,9 +1500,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 24327,
+  "EOS_Progressed": 24328,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -8219,6 +8225,11 @@
       "Time": "2023-07-20T00:03:28.5559554+00:00",
       "NumProgressed": 24327,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-07-20T02:05:51.7321725+00:00",
+      "NumProgressed": 24328,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 51,
@@ -8238,7 +8249,7 @@
       "Name": "Animated",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 5838
+      "UsersEstimate": 5839
     },
     {
       "ID": "Back_Off",
@@ -8246,7 +8257,7 @@
       "Name": "Back Off",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 8514
+      "UsersEstimate": 8515
     },
     {
       "ID": "Best_Insurance",
@@ -8302,7 +8313,7 @@
       "Name": "Daily Dose",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 8271
+      "UsersEstimate": 8272
     },
     {
       "ID": "Diabolical",
@@ -8318,7 +8329,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 14839
+      "UsersEstimate": 14840
     },
     {
       "ID": "Dont_Need_These",
@@ -8342,7 +8353,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 15569
+      "UsersEstimate": 15570
     },
     {
       "ID": "Escape_Artist",
@@ -8358,7 +8369,7 @@
       "Name": "Fragile Panes",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2189
+      "UsersEstimate": 2190
     },
     {
       "ID": "Fully_Upgraded",
@@ -8502,7 +8513,7 @@
       "Name": "Side Hustle",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6568
+      "UsersEstimate": 6569
     },
     {
       "ID": "Skilled",
@@ -8510,7 +8521,7 @@
       "Name": "Skilled",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5838
+      "UsersEstimate": 5839
     },
     {
       "ID": "Solo_Capture",
@@ -8534,7 +8545,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 20921
+      "UsersEstimate": 20922
     },
     {
       "ID": "Summoner",
@@ -8542,7 +8553,7 @@
       "Name": "Summoner",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6568
+      "UsersEstimate": 6569
     },
     {
       "ID": "Surprise",
@@ -8550,7 +8561,7 @@
       "Name": "Surprise!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2189
+      "UsersEstimate": 2190
     },
     {
       "ID": "Swift_Removers",
@@ -8637,16 +8648,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 24327,
+      "Progressed": 24328,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-07-17T23:00:17.4641957+00:00",
-  "LastChanged_Achievements": "2023-07-20T00:03:28.5559543+00:00",
+  "LastChanged": "2023-07-20T02:01:52.9258524+00:00",
+  "LastChanged_Achievements": "2023-07-20T02:05:51.7321718+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:59.3663354+00:00",
-  "LastUpdate_Ratings": "2023-07-19T23:58:53.748818+00:00",
-  "LastUpdate_Achievements": "2023-07-20T00:03:28.5560562+00:00"
+  "LastUpdate_Ratings": "2023-07-20T02:01:52.9258533+00:00",
+  "LastUpdate_Achievements": "2023-07-20T02:05:51.7323267+00:00"
 }

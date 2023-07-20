@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -200,9 +200,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1680,
+  "EOS_Progressed": 1681,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4350,6 +4350,11 @@
       "Time": "2023-07-19T19:00:45.2272556+00:00",
       "NumProgressed": 1680,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-20T02:04:13.2967257+00:00",
+      "NumProgressed": 1681,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -4535,9 +4540,9 @@
       "ID": "exoticmerchant",
       "SetID": "3nl4bcg",
       "Name": "Exotic Merchant",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 302
+      "UsersEstimate": 286
     },
     {
       "ID": "fellowshippower",
@@ -4599,9 +4604,9 @@
       "ID": "herewegoagain",
       "SetID": "3nl4bcg",
       "Name": "Here We Go Again",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 118
     },
     {
       "ID": "heroinspection",
@@ -4671,9 +4676,9 @@
       "ID": "masterenchanter",
       "SetID": "3nl4bcg",
       "Name": "Master Enchanter",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 134
+      "UsersEstimate": 118
     },
     {
       "ID": "mastery",
@@ -4719,9 +4724,9 @@
       "ID": "mysteriousrock",
       "SetID": "3nl4bcg",
       "Name": "Mysterious Rock",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 218
+      "UsersEstimate": 202
     },
     {
       "ID": "mythicpower",
@@ -4753,7 +4758,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 890
+      "UsersEstimate": 891
     },
     {
       "ID": "prestigiousx10",
@@ -4865,7 +4870,7 @@
       "Name": "The Unstoppable",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "titanpower",
@@ -4921,7 +4926,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1562
+      "UsersEstimate": 1563
     },
     {
       "ID": "warmachinesarmy",
@@ -4953,14 +4958,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1328
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1680,
+      "Progressed": 1681,
       "Completed": 1
     }
   ],
@@ -4968,8 +4973,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-07-18T16:58:41.2064019+00:00",
-  "LastChanged_Achievements": "2023-07-20T00:00:19.0605573+00:00",
+  "LastChanged_Achievements": "2023-07-20T02:04:13.2967253+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:38.4078532+00:00",
-  "LastUpdate_Ratings": "2023-07-19T23:57:59.9656124+00:00",
-  "LastUpdate_Achievements": "2023-07-20T00:00:19.0607275+00:00"
+  "LastUpdate_Ratings": "2023-07-20T02:00:33.872733+00:00",
+  "LastUpdate_Achievements": "2023-07-20T02:04:13.2968787+00:00"
 }

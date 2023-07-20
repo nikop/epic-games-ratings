@@ -40,7 +40,7 @@
 | Feeling Fancy | 10.00% | ~2 |
 | Shatter Them All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20 (Ranked 375)  
+Progressed: 20 (Ranked 376)  
 Completed: 1 (5.00%) (Ranked 38)  
 ## EOS Players History
 | Date | Progressed | Completed |

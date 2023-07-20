@@ -223,9 +223,9 @@
       "ID": "A_Extinguish_25_Fires",
       "SetID": "56632p4",
       "Name": "Master Firefighter",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "A_Fix_10_Systems",
@@ -295,9 +295,9 @@
       "ID": "A_Mine_25_Asteroid",
       "SetID": "56632p4",
       "Name": "Master Miner",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "A_Pancake_Day",
@@ -360,8 +360,8 @@
   "FirstSeenRating": "2023-03-31T05:58:44.0451512+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:41.2389416+00:00",
   "LastChanged": "2023-03-31T05:58:44.0451513+00:00",
-  "LastChanged_Achievements": "2023-07-20T00:03:47.5037042+00:00",
+  "LastChanged_Achievements": "2023-07-20T02:06:18.3249314+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:51.836775+00:00",
-  "LastUpdate_Ratings": "2023-07-19T23:58:44.7589537+00:00",
-  "LastUpdate_Achievements": "2023-07-20T00:03:47.5037219+00:00"
+  "LastUpdate_Ratings": "2023-07-20T02:01:39.2751528+00:00",
+  "LastUpdate_Achievements": "2023-07-20T02:06:18.32496+00:00"
 }

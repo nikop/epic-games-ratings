@@ -2,7 +2,7 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 663,
+  "Ranking_Rating": 662,
   "Ranking_Popularity": 448,
   "Ranking_PopularitySum": 374,
   "Ranking_EOS_Progress": 43,
@@ -694,9 +694,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 253259,
+  "EOS_Progressed": 253262,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 367,
+  "EOS_NewPlayers": 365,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9859,6 +9859,11 @@
       "Time": "2023-07-20T00:05:21.3307755+00:00",
       "NumProgressed": 253259,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-20T02:08:34.6881425+00:00",
+      "NumProgressed": 253262,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 56,
@@ -9918,7 +9923,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78510
+      "UsersEstimate": 78511
     },
     {
       "ID": "BackHomeNTimes",
@@ -10158,7 +10163,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55717
+      "UsersEstimate": 55718
     },
     {
       "ID": "KillOthers2",
@@ -10317,7 +10322,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 253259,
+      "Progressed": 253262,
       "Completed": 2
     }
   ],
@@ -10325,8 +10330,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-07-19T11:02:01.5133863+00:00",
-  "LastChanged_Achievements": "2023-07-20T00:05:21.3307749+00:00",
+  "LastChanged_Achievements": "2023-07-20T02:08:34.6881418+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:21.1992978+00:00",
-  "LastUpdate_Ratings": "2023-07-19T23:59:55.9951386+00:00",
-  "LastUpdate_Achievements": "2023-07-20T00:05:21.3308815+00:00"
+  "LastUpdate_Ratings": "2023-07-20T02:03:26.9066957+00:00",
+  "LastUpdate_Achievements": "2023-07-20T02:08:34.6883395+00:00"
 }

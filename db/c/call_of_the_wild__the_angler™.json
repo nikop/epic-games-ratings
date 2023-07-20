@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 387,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -588,7 +588,7 @@
   ],
   "EOS_Progressed": 4695,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4840,9 +4840,9 @@
       "ID": "ACHIEVEMENT_021",
       "SetID": "1a05lfd",
       "Name": "I\u0027m Hooked!",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 845
+      "UsersEstimate": 892
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -4975,8 +4975,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-06-29T22:00:44.387661+00:00",
-  "LastChanged_Achievements": "2023-07-20T00:02:35.642241+00:00",
+  "LastChanged_Achievements": "2023-07-20T02:05:18.9529589+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:50.1759655+00:00",
-  "LastUpdate_Ratings": "2023-07-19T23:59:31.4510722+00:00",
-  "LastUpdate_Achievements": "2023-07-20T00:02:35.6422959+00:00"
+  "LastUpdate_Ratings": "2023-07-20T02:02:48.363112+00:00",
+  "LastUpdate_Achievements": "2023-07-20T02:05:18.9530534+00:00"
 }

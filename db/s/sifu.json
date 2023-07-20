@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 78,
   "Ranking_EOS_Progress": 18,
   "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -5158,18 +5158,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 10770,
       "NumberOfAwardsMax": 6282
+    },
+    {
+      "Time": "2023-07-20T02:01:49.2706788+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10776,
+      "NumberOfAwardsMax": 6288
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10770,
-  "NumberOfAwardsMax": 6282,
+  "NumberOfAwards": 10776,
+  "NumberOfAwardsMax": 6288,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6282
+      "Count": 6288
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5238,9 +5244,9 @@
       "Count": 367
     }
   ],
-  "EOS_Progressed": 710898,
+  "EOS_Progressed": 710901,
   "EOS_Completed": 12825,
-  "EOS_NewPlayers": 195,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -13638,6 +13644,11 @@
       "Time": "2023-07-20T00:06:14.1729037+00:00",
       "NumProgressed": 710898,
       "NumCompleted": 12825
+    },
+    {
+      "Time": "2023-07-20T02:09:52.4334471+00:00",
+      "NumProgressed": 710901,
+      "NumCompleted": 12825
     }
   ],
   "TotalAchievements": 50,
@@ -13745,7 +13756,7 @@
       "Name": "Prodigal Child",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3554
+      "UsersEstimate": 3555
     },
     {
       "ID": "14_DeathlessBoss_Trophy",
@@ -13905,7 +13916,7 @@
       "Name": "Sword Stained With Blood",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3554
+      "UsersEstimate": 3555
     },
     {
       "ID": "34_TimedTakedown",
@@ -14048,21 +14059,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 20199,
+      "Progressed": 20202,
       "Completed": 10424
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 710898,
+      "Progressed": 710901,
       "Completed": 12825
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-07-19T19:59:42.8563725+00:00",
-  "LastChanged_Achievements": "2023-07-20T00:06:14.1729031+00:00",
+  "LastChanged": "2023-07-20T02:01:49.2706785+00:00",
+  "LastChanged_Achievements": "2023-07-20T02:09:52.4334464+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:57.8822848+00:00",
-  "LastUpdate_Ratings": "2023-07-19T23:58:51.3699558+00:00",
-  "LastUpdate_Achievements": "2023-07-20T00:06:14.173003+00:00"
+  "LastUpdate_Ratings": "2023-07-20T02:01:49.2706798+00:00",
+  "LastUpdate_Achievements": "2023-07-20T02:09:52.4336184+00:00"
 }

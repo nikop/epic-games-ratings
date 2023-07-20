@@ -5,15 +5,15 @@ Rating: 4.10 (Ranked 887)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,562 |
-| World Map | 79.00% | ~1,327 |
+| Victor | 93.00% | ~1,563 |
+| World Map | 79.00% | ~1,328 |
 | Temple of Eternals | 56.00% | ~941 |
-| Prestigious | 53.00% | ~890 |
+| Prestigious | 53.00% | ~891 |
 | Fellowship Power | 41.00% | ~689 |
 | Guild Power | 25.00% | ~420 |
 | Prestigious x10 | 21.00% | ~353 |
 | The game is on | 20.00% | ~336 |
-| Exotic Merchant | 18.00% | ~302 |
+| Exotic Merchant | 17.00% | ~286 |
 | Dragon Clicker | 16.00% | ~269 |
 | Miner Clicker | 16.00% | ~269 |
 | Full Party | 15.00% | ~252 |
@@ -22,9 +22,9 @@ Rating: 4.10 (Ranked 887)
 | Enlightenment | 14.00% | ~235 |
 | Hero inspection | 14.00% | ~235 |
 | Lieutenant | 14.00% | ~235 |
-| Mysterious Rock | 13.00% | ~218 |
-| The Unstoppable | 13.00% | ~218 |
+| The Unstoppable | 13.00% | ~219 |
 | Milestone collector | 12.00% | ~202 |
+| Mysterious Rock | 12.00% | ~202 |
 | Natural Talent | 12.00% | ~202 |
 | Superior | 12.00% | ~202 |
 | Scientist | 11.00% | ~185 |
@@ -39,9 +39,9 @@ Rating: 4.10 (Ranked 887)
 | Frostfire Liberator | 9.00% | ~151 |
 | Mastery | 9.00% | ~151 |
 | Moving Up The Ladder | 9.00% | ~151 |
-| Here We Go Again | 8.00% | ~134 |
-| Master Enchanter | 8.00% | ~134 |
 | The father of Dragons | 8.00% | ~134 |
+| Here We Go Again | 7.00% | ~118 |
+| Master Enchanter | 7.00% | ~118 |
 | The Expeditioner | 7.00% | ~118 |
 | Trader | 7.00% | ~118 |
 | Crystal Mining | 6.00% | ~101 |
@@ -81,7 +81,7 @@ Rating: 4.10 (Ranked 887)
 | War Machines Army | 0.20% | ~3 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,680 (Ranked 169)  
+Progressed: 1,681 (Ranked 169)  
 Completed: 1 (0.06%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,6 +172,7 @@ Completed: 1 (0.06%) (Ranked 200)
 | 2023-07-17 | 1,671 | 1 |
 | 2023-07-18 | 1,676 | 1 |
 | 2023-07-19 | 1,680 | 1 |
+| 2023-07-20 | 1,681 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

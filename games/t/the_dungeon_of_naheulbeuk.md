@@ -1,46 +1,46 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.57 (Ranked 440)  
+Rating: 4.57 (Ranked 439)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 58.00% | ~111,590 |
-| Where's that freaking Dwarf? | 46.00% | ~88,502 |
-| GG EZ | 28.00% | ~53,871 |
-| Speedrun | 26.00% | ~50,023 |
-| Déjà vu | 21.00% | ~40,403 |
-| Sock! SOCK! | 16.00% | ~30,783 |
-| DM intervention | 13.00% | ~25,011 |
-| Fireproof Wizardess | 9.00% | ~17,316 |
-| Livin' in a dwarven paradise | 7.00% | ~13,468 |
-| A beer, two curses, three companions | 7.00% | ~13,468 |
-| Way of the Wimp | 6.00% | ~11,544 |
-| The plot thickens... At the tavern | 5.00% | ~9,620 |
-| The Woman in the High Castle | 4.00% | ~7,696 |
-| I am the night | 3.00% | ~5,772 |
-| Team Building Exercise | 3.00% | ~5,772 |
-| Shiny and Crôm | 2.00% | ~3,848 |
-| The demons' feast | 2.00% | ~3,848 |
-| The Great Library | 2.00% | ~3,848 |
-| Torture and Sensibility | 2.00% | ~3,848 |
-| Res Judicata | 2.00% | ~3,848 |
-| Dwarf Fortress | 2.00% | ~3,848 |
-| The Ranger of Chaos | 2.00% | ~3,848 |
-| Thieves' Guild Accreditation | 2.00% | ~3,848 |
-| Oh, when I'll be level 10... | 2.00% | ~3,848 |
-| Urik's Depths | 1.00% | ~1,924 |
-| The Statuette of Gladeulfeurah | 1.00% | ~1,924 |
-| A tale of adventurers not quite like the others... | 1.00% | ~1,924 |
-| Look but don't touch | 1.00% | ~1,924 |
-| The beards of change | 1.00% | ~1,924 |
-| Gargantua | 1.00% | ~1,924 |
-| In Navalu's footsteps | 1.00% | ~1,924 |
-| Lust and Debauchery | 1.00% | ~1,924 |
-| Material Girl | 1.00% | ~1,924 |
+| Alt+F4 | 58.00% | ~111,630 |
+| Where's that freaking Dwarf? | 46.00% | ~88,534 |
+| GG EZ | 28.00% | ~53,890 |
+| Speedrun | 26.00% | ~50,041 |
+| Déjà vu | 21.00% | ~40,418 |
+| Sock! SOCK! | 16.00% | ~30,795 |
+| DM intervention | 13.00% | ~25,021 |
+| Fireproof Wizardess | 9.00% | ~17,322 |
+| Livin' in a dwarven paradise | 7.00% | ~13,473 |
+| A beer, two curses, three companions | 7.00% | ~13,473 |
+| Way of the Wimp | 6.00% | ~11,548 |
+| The plot thickens... At the tavern | 5.00% | ~9,623 |
+| The Woman in the High Castle | 4.00% | ~7,699 |
+| I am the night | 3.00% | ~5,774 |
+| Team Building Exercise | 3.00% | ~5,774 |
+| Shiny and Crôm | 2.00% | ~3,849 |
+| The demons' feast | 2.00% | ~3,849 |
+| The Great Library | 2.00% | ~3,849 |
+| Torture and Sensibility | 2.00% | ~3,849 |
+| Res Judicata | 2.00% | ~3,849 |
+| Dwarf Fortress | 2.00% | ~3,849 |
+| The Ranger of Chaos | 2.00% | ~3,849 |
+| Thieves' Guild Accreditation | 2.00% | ~3,849 |
+| Oh, when I'll be level 10... | 2.00% | ~3,849 |
+| Urik's Depths | 1.00% | ~1,925 |
+| The Statuette of Gladeulfeurah | 1.00% | ~1,925 |
+| A tale of adventurers not quite like the others... | 1.00% | ~1,925 |
+| Look but don't touch | 1.00% | ~1,925 |
+| The beards of change | 1.00% | ~1,925 |
+| Gargantua | 1.00% | ~1,925 |
+| In Navalu's footsteps | 1.00% | ~1,925 |
+| Lust and Debauchery | 1.00% | ~1,925 |
+| Material Girl | 1.00% | ~1,925 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.90% | ~1,732 |
-| It's been a hard day's night | 0.80% | ~1,539 |
+| It's been a hard day's night | 0.80% | ~1,540 |
 | The Dungeon Master | 0.70% | ~1,347 |
 | The Famous Dungeon of Naheulbeuk | 0.70% | ~1,347 |
 | Dead for good | 0.70% | ~1,347 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 192,396 (Ranked 58)  
+Progressed: 192,466 (Ranked 58)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-17 | 190,078 | 0 |
 | 2023-07-18 | 191,296 | 0 |
 | 2023-07-19 | 192,371 | 0 |
-| 2023-07-20 | 192,396 | 0 |
+| 2023-07-20 | 192,466 | 0 |
 ## Awards
 Max (Character Customization): 118  (Ranked 314)  
 Sum: 118 (Ranked 402)  

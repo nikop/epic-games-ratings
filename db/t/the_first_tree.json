@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 33709,
+  "EOS_Progressed": 33710,
   "EOS_Completed": 103,
-  "EOS_NewPlayers": 324,
+  "EOS_NewPlayers": 323,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -8383,6 +8383,11 @@
       "Time": "2023-07-20T00:04:21.0256176+00:00",
       "NumProgressed": 33709,
       "NumCompleted": 103
+    },
+    {
+      "Time": "2023-07-20T02:07:05.8951945+00:00",
+      "NumProgressed": 33710,
+      "NumCompleted": 103
     }
   ],
   "TotalAchievements": 14,
@@ -8394,7 +8399,7 @@
       "Name": "100 Stars",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1685
+      "UsersEstimate": 1686
     },
     {
       "ID": "150stars",
@@ -8410,7 +8415,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 8764
+      "UsersEstimate": 8765
     },
     {
       "ID": "allItems",
@@ -8474,7 +8479,7 @@
       "Name": "Hare Today",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 8427
+      "UsersEstimate": 8428
     },
     {
       "ID": "firstItem",
@@ -8482,7 +8487,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 25956
+      "UsersEstimate": 25957
     },
     {
       "ID": "roots",
@@ -8505,15 +8510,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 33709,
+      "Progressed": 33710,
       "Completed": 103
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-06-14T02:10:18.2883541+00:00",
-  "LastChanged_Achievements": "2023-07-20T00:04:21.0256168+00:00",
+  "LastChanged_Achievements": "2023-07-20T02:07:05.8951938+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:17.7432934+00:00",
-  "LastUpdate_Ratings": "2023-07-19T23:59:51.7256574+00:00",
-  "LastUpdate_Achievements": "2023-07-20T00:04:21.0256795+00:00"
+  "LastUpdate_Ratings": "2023-07-20T02:03:20.2938017+00:00",
+  "LastUpdate_Achievements": "2023-07-20T02:07:05.8953036+00:00"
 }

@@ -8,24 +8,24 @@ Number of Ratings: 706  (23.09.2022)
 | ---- | ---------- | ----- |
 | Get A Room | 73.00% | ~3,438 |
 | Having A Field Day | 73.00% | ~3,438 |
-| Reap What You Sow | 70.00% | ~3,296 |
-| The First Day | 67.00% | ~3,155 |
-| Green Thumb | 65.00% | ~3,061 |
+| Reap What You Sow | 70.00% | ~3,297 |
+| The First Day | 67.00% | ~3,156 |
+| Green Thumb | 65.00% | ~3,062 |
 | Novice Researcher | 64.00% | ~3,014 |
-| Putting Food on the Table | 60.00% | ~2,825 |
+| Putting Food on the Table | 60.00% | ~2,826 |
 | Onward | 55.00% | ~2,590 |
 | Home Cooked Meal | 54.00% | ~2,543 |
 | The First Week | 53.00% | ~2,496 |
-| Beam Me Up | 50.00% | ~2,354 |
-| Feast or Famine | 50.00% | ~2,354 |
-| Studious Researcher | 50.00% | ~2,354 |
+| Beam Me Up | 50.00% | ~2,355 |
+| Feast or Famine | 50.00% | ~2,355 |
+| Studious Researcher | 50.00% | ~2,355 |
 | Adept Researcher | 44.00% | ~2,072 |
 | Retribution | 40.00% | ~1,884 |
 | ...And Don’t Come Back! | 39.00% | ~1,837 |
-| Fit For A King | 38.00% | ~1,789 |
+| Fit For A King | 38.00% | ~1,790 |
 | Luminary Researcher | 34.00% | ~1,601 |
 | Heating Up | 28.00% | ~1,319 |
-| Winter Is Coming | 25.00% | ~1,177 |
+| Winter Is Coming | 25.00% | ~1,178 |
 | Winter Is Here | 22.00% | ~1,036 |
 | Disassembled | 19.00% | ~895 |
 | A Party Now | 19.00% | ~895 |
@@ -34,11 +34,11 @@ Number of Ratings: 706  (23.09.2022)
 | Nothing Wasted | 12.00% | ~565 |
 | Don't Cry Wolf | 11.00% | ~518 |
 | Deerly Departed | 8.00% | ~377 |
-| Where Wolf? | 5.00% | ~235 |
+| Where Wolf? | 5.00% | ~236 |
 | Food Chain | 2.00% | ~94 |
 | Wabbit Season | 0.60% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,709 (Ranked 138)  
+Progressed: 4,710 (Ranked 138)  
 Completed: 10 (0.21%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 10 (0.21%) (Ranked 164)
 | 2023-07-17 | 4,672 | 10 |
 | 2023-07-18 | 4,691 | 10 |
 | 2023-07-19 | 4,707 | 10 |
-| 2023-07-20 | 4,709 | 10 |
+| 2023-07-20 | 4,710 | 10 |
 ## Awards
 Max (Relaxing): 120  (Ranked 312)  
 Sum: 961 (Ranked 239)  
