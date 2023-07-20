@@ -17,7 +17,7 @@
 | 13 | [Firework](games/f/firework.md) | 4.89 | 0 | 505 |
 | 13 | [RimWorld](games/r/rimworld.md) | 4.89 | 419 | 203 |
 | 13 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.89 | 0 | 505 |
-| 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 17,053 | 20 |
+| 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 17,081 | 20 |
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 135 | 302 |
 | 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,160 | 76 |
 | 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 160,502 | 6 |
@@ -212,14 +212,14 @@
 | 196 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 0 | 505 |
 | 196 | [The Witness](games/t/the_witness.md) | 4.70 | 178 | 280 |
 | 196 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,421 | 72 |
-| 196 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.70 | 1,695 | 116 |
+| 196 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.70 | 1,698 | 116 |
 | 196 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 0 | 505 |
 | 196 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.70 | 0 | 505 |
 | 216 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 113,219 | 8 |
 | 216 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 505 |
 | 216 | [CARRION](games/c/carrion.md) | 4.69 | 0 | 505 |
 | 216 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 5,565 | 60 |
-| 216 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.69 | 4,548 | 70 |
+| 216 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.69 | 4,557 | 70 |
 | 216 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.69 | 0 | 505 |
 | 216 | [House Flipper](games/h/house_flipper.md) | 4.69 | 304 | 231 |
 | 216 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.69 | 0 | 505 |
@@ -560,7 +560,7 @@
 | 552 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 35,801 | 13 |
 | 552 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.50 | 0 | 505 |
 | 552 | [First Class Trouble](games/f/first_class_trouble.md) | 4.50 | 111 | 321 |
-| 552 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,567 | 95 |
+| 552 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,571 | 95 |
 | 552 | [Horace](games/h/horace.md) | 4.50 | 0 | 505 |
 | 552 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 0 | 505 |
 | 552 | [Knockout City™](games/k/knockout_city™.md) | 4.50 | 0 | 505 |
@@ -703,6 +703,7 @@
 | 692 | [The Lion's Song](games/t/the_lion's_song.md) | 4.40 | 0 | 505 |
 | 692 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.40 | 0 | 505 |
 | 703 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 0 | 505 |
+| 703 | [Beyond Blue](games/b/beyond_blue.md) | 4.39 | 0 | 505 |
 | 703 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 505 |
 | 703 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 4.39 | 0 | 505 |
 | 703 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,726 | 32 |
@@ -710,17 +711,16 @@
 | 703 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 0 | 505 |
 | 703 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 328 | 226 |
 | 703 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.39 | 98 | 333 |
-| 711 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 505 |
-| 711 | [Beyond Blue](games/b/beyond_blue.md) | 4.38 | 0 | 505 |
-| 711 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 0 | 505 |
-| 711 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 0 | 505 |
-| 711 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 564 | 179 |
-| 711 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 164 | 287 |
-| 711 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 165 | 286 |
-| 711 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.38 | 72 | 372 |
-| 711 | [Tacoma](games/t/tacoma.md) | 4.38 | 0 | 505 |
-| 711 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 505 |
-| 711 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.38 | 0 | 505 |
+| 712 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 505 |
+| 712 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 0 | 505 |
+| 712 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 0 | 505 |
+| 712 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 564 | 179 |
+| 712 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 164 | 287 |
+| 712 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 165 | 286 |
+| 712 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.38 | 72 | 372 |
+| 712 | [Tacoma](games/t/tacoma.md) | 4.38 | 0 | 505 |
+| 712 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 505 |
+| 712 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.38 | 0 | 505 |
 | 722 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 505 |
 | 722 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,143 | 108 |
 | 722 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.37 | 0 | 505 |
@@ -857,7 +857,7 @@
 | 848 | [Windbound](games/w/windbound.md) | 4.19 | 0 | 505 |
 | 856 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 0 | 505 |
 | 856 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 92 | 345 |
-| 856 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,452 | 101 |
+| 856 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,454 | 101 |
 | 856 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 338 |
 | 856 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 0 | 505 |
 | 856 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 0 | 505 |
