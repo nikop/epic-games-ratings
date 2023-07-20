@@ -4,10 +4,10 @@
   "ProductSlug": "frostpunk",
   "Ranking_Rating": 143,
   "Ranking_Popularity": 153,
-  "Ranking_PopularitySum": 114,
+  "Ranking_PopularitySum": 115,
   "Ranking_EOS_Progress": 500,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2021-06-03T15:00:00+00:00",
@@ -4272,10 +4272,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 6668,
       "NumberOfAwardsMax": 797
+    },
+    {
+      "Time": "2023-07-20T15:58:27.1317619+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 6669,
+      "NumberOfAwardsMax": 797
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6668,
+  "NumberOfAwards": 6669,
   "NumberOfAwardsMax": 797,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -4343,7 +4349,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 638
+      "Count": 639
     }
   ],
   "EOS_Progressed": 0,
@@ -4365,9 +4371,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:37.412546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.239094+00:00",
-  "LastChanged": "2023-07-20T09:58:12.0911897+00:00",
-  "LastChanged_Achievements": "2023-07-20T15:03:40.1534316+00:00",
+  "LastChanged": "2023-07-20T15:58:27.1317617+00:00",
+  "LastChanged_Achievements": "2023-07-20T16:04:00.1507362+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:13.6863388+00:00",
-  "LastUpdate_Ratings": "2023-07-20T14:57:55.2384264+00:00",
-  "LastUpdate_Achievements": "2023-07-20T15:03:40.1534343+00:00"
+  "LastUpdate_Ratings": "2023-07-20T15:58:27.1317625+00:00",
+  "LastUpdate_Achievements": "2023-07-20T16:04:00.1507391+00:00"
 }

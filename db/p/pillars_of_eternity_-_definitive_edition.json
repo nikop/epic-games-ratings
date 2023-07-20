@@ -2,7 +2,7 @@
   "ID": "25e53de2e4ab4da8aa589d881273a11c",
   "Name": "Pillars of Eternity - Definitive Edition",
   "ProductSlug": "pillars-of-eternity",
-  "Ranking_Rating": 272,
+  "Ranking_Rating": 297,
   "Ranking_Popularity": 110,
   "Ranking_PopularitySum": 134,
   "Ranking_EOS_Progress": 185,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.66,
+  "Rating": 4.65,
   "NumberOfRatings": 2847,
   "RatingHistory": [
     {
@@ -2638,6 +2638,12 @@
       "Rating": 4.66,
       "NumberOfAwards": 4650,
       "NumberOfAwardsMax": 1895
+    },
+    {
+      "Time": "2023-07-20T15:58:19.6104951+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 4650,
+      "NumberOfAwardsMax": 1895
     }
   ],
   "ReviewsDisabled": false,
@@ -3177,9 +3183,9 @@
   ],
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.7524763+00:00",
-  "LastChanged": "2023-07-19T13:58:03.87094+00:00",
-  "LastChanged_Achievements": "2023-07-20T15:02:23.2019559+00:00",
+  "LastChanged": "2023-07-20T15:58:19.610495+00:00",
+  "LastChanged_Achievements": "2023-07-20T16:02:30.9678957+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:05.2845118+00:00",
-  "LastUpdate_Ratings": "2023-07-20T14:57:49.5309334+00:00",
-  "LastUpdate_Achievements": "2023-07-20T15:02:23.2019942+00:00"
+  "LastUpdate_Ratings": "2023-07-20T15:58:19.6104957+00:00",
+  "LastUpdate_Achievements": "2023-07-20T16:02:30.9679405+00:00"
 }

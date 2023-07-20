@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 528,
+  "EOS_Progressed": 529,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1821,6 +1821,11 @@
       "Time": "2023-07-20T15:05:23.3849929+00:00",
       "NumProgressed": 528,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-20T16:06:13.7147463+00:00",
+      "NumProgressed": 529,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1936,7 +1941,7 @@
       "Name": "Facility Online",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -2008,7 +2013,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -2016,7 +2021,7 @@
       "Name": "Covert Operative",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -2135,14 +2140,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 528,
+      "Progressed": 529,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-20T15:05:23.384992+00:00",
+  "LastChanged_Achievements": "2023-07-20T16:06:13.7147458+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:28.9258865+00:00",
-  "LastUpdate_Ratings": "2023-07-20T15:00:31.7509258+00:00",
-  "LastUpdate_Achievements": "2023-07-20T15:05:23.3850242+00:00"
+  "LastUpdate_Ratings": "2023-07-20T16:01:51.4348876+00:00",
+  "LastUpdate_Achievements": "2023-07-20T16:06:13.7147871+00:00"
 }

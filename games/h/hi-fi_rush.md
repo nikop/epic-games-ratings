@@ -35,8 +35,8 @@ Rating: 4.87 (Ranked 24)
 | That's a lot of junk metal… | 0.90% | ~31 |
 | Beat-hit mania | 0.80% | ~28 |
 | There's such a thing as TOO helpful | 0.80% | ~28 |
+| Chip-tuned | 0.60% | ~21 |
 | Call me Turbo Chai | 0.60% | ~12 |
-| Chip-tuned | 0.50% | ~17 |
 | Wanna hear my playlist? | 0.50% | ~17 |
 | Check out my moves! | 0.40% | ~14 |
 | New bad guys? No problem! | 0.40% | ~8 |

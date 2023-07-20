@@ -21,6 +21,7 @@
 | From Beyond | 0.30% | ~1 |
 | Ocean Wings | 0.30% | ~1 |
 | Crimebusters of the Sea | 0.30% | ~1 |
+| You Can Pet The Dog | 0.30% | ~1 |
 | The Whole Journey | 0.00% | ~0 |
 | Restored to Prosperity | 0.00% | ~0 |
 | Fishing Season | 0.00% | ~0 |
@@ -38,7 +39,6 @@
 | Expedition | 0.00% | ~0 |
 | Conservationist | 0.00% | ~0 |
 | Uh... Thanks. I Think. | 0.00% | ~0 |
-| You Can Pet The Dog | 0.00% | ~0 |
 | Get-it-off-get-it-off! | 0.00% | ~0 |
 | A Tonne of Fun | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

@@ -4,7 +4,7 @@
   "ProductSlug": "moonglow-bay",
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2021-11-11T17:00:00+00:00",
@@ -318,9 +318,9 @@
       "ID": "ACH_32_DOG",
       "SetID": "cieb1c3",
       "Name": "You Can Pet The Dog",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_33_TACKLE",
@@ -375,8 +375,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.9355782+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:22.8517258+00:00",
   "LastChanged": "2023-03-31T05:57:52.9355783+00:00",
-  "LastChanged_Achievements": "2023-07-20T15:05:32.1041724+00:00",
+  "LastChanged_Achievements": "2023-07-20T16:06:25.4263634+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:28.6851108+00:00",
-  "LastUpdate_Ratings": "2023-07-20T14:59:36.2060663+00:00",
-  "LastUpdate_Achievements": "2023-07-20T15:05:32.104195+00:00"
+  "LastUpdate_Ratings": "2023-07-20T16:00:41.4482914+00:00",
+  "LastUpdate_Achievements": "2023-07-20T16:06:25.4263933+00:00"
 }

@@ -1,27 +1,27 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.52 (Ranked 951)  
+Rating: 3.51 (Ranked 951)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 77.00% | ~1,327 |
+| I Like My Stakes Rare! | 77.00% | ~1,328 |
 | Ne Plus Ultra | 61.00% | ~1,052 |
-| Home Is Where the Heart Is | 60.00% | ~1,034 |
-| Wounded Whispers | 60.00% | ~1,034 |
-| Blood Will Have Blood | 51.00% | ~879 |
-| ICU | 46.00% | ~793 |
+| Home Is Where the Heart Is | 60.00% | ~1,035 |
+| Wounded Whispers | 60.00% | ~1,035 |
+| Blood Will Have Blood | 51.00% | ~880 |
+| ICU | 46.00% | ~794 |
 | Catch and Release | 45.00% | ~776 |
 | Peek-a-boo | 44.00% | ~759 |
-| Sucks To Be You | 43.00% | ~741 |
-| Welcome to the Neighborhood | 38.00% | ~655 |
+| Sucks To Be You | 43.00% | ~742 |
+| Welcome to the Neighborhood | 38.00% | ~656 |
 | Fly Fisher | 36.00% | ~621 |
-| Throw The First Stone | 35.00% | ~603 |
+| Throw The First Stone | 35.00% | ~604 |
 | Enter of Your Own Free Will | 34.00% | ~586 |
 | Heart Attack | 33.00% | ~569 |
-| Skin of Their Teeth | 31.00% | ~534 |
+| Skin of Their Teeth | 31.00% | ~535 |
 | Grounded | 25.00% | ~431 |
-| Bad Wiring | 22.00% | ~379 |
+| Bad Wiring | 22.00% | ~380 |
 | I Spit On Your Grave | 19.00% | ~328 |
 | Neighborhood Revitalization | 16.00% | ~276 |
 | Radio Silence | 16.00% | ~276 |
@@ -72,7 +72,7 @@ Rating: 3.52 (Ranked 951)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,724 (Ranked 167)  
+Progressed: 1,725 (Ranked 167)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,6 +141,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-14 | 1,721 | 0 |
 | 2023-07-15 | 1,722 | 0 |
 | 2023-07-17 | 1,724 | 0 |
+| 2023-07-20 | 1,725 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -170,3 +171,4 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-07 | 3.55 | 0 | 0 |
 | 2023-07-11 | 3.54 | 0 | 0 |
 | 2023-07-16 | 3.52 | 0 | 0 |
+| 2023-07-20 | 3.51 | 0 | 0 |

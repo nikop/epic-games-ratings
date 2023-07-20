@@ -7,8 +7,8 @@ Number of Ratings: 125  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Unforgiven | 87.00% | ~1,476 |
-| Self-Improvement | 72.00% | ~1,221 |
-| Perky | 66.00% | ~1,119 |
+| Self-Improvement | 72.00% | ~1,222 |
+| Perky | 66.00% | ~1,120 |
 | Let’s Ride | 60.00% | ~1,018 |
 | Welcome to the Weird West | 57.00% | ~967 |
 | Dead or Alive | 56.00% | ~950 |
@@ -22,14 +22,14 @@ Number of Ratings: 125  (23.09.2022)
 | Scholar | 25.00% | ~424 |
 | The Great Escape | 23.00% | ~390 |
 | That’s All, Folks | 19.00% | ~322 |
-| Fallen Star | 16.00% | ~271 |
-| For Balance | 16.00% | ~271 |
-| Here Comes Santa Claus | 16.00% | ~271 |
-| Winds of War | 16.00% | ~271 |
-| Dog Days | 13.00% | ~220 |
-| Out on the Ebb Tide | 13.00% | ~220 |
-| Workers' Rights | 13.00% | ~220 |
+| Fallen Star | 16.00% | ~272 |
+| For Balance | 16.00% | ~272 |
+| Here Comes Santa Claus | 16.00% | ~272 |
+| Winds of War | 16.00% | ~272 |
+| Dog Days | 13.00% | ~221 |
+| Workers' Rights | 13.00% | ~221 |
 | Elusive Prey | 12.00% | ~204 |
+| Out on the Ebb Tide | 12.00% | ~204 |
 | Power Behind the Pulpit | 12.00% | ~204 |
 | Something Wicked This Way Comes… | 12.00% | ~204 |
 | There is Hope | 12.00% | ~204 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.40% | ~7 |
 | Winter Has Come | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,696 (Ranked 168)  
+Progressed: 1,697 (Ranked 168)  
 Completed: 3 (0.18%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,6 +137,7 @@ Completed: 3 (0.18%) (Ranked 169)
 | 2023-07-16 | 1,692 | 3 |
 | 2023-07-17 | 1,693 | 3 |
 | 2023-07-18 | 1,696 | 3 |
+| 2023-07-20 | 1,697 | 3 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 477)  
 Sum: 24 (Ranked 482)  

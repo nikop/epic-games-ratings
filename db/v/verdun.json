@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 262,
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 56,
+  "Ranking_EOS_NewPlayers": 55,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
@@ -1628,9 +1628,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 52020,
+  "EOS_Progressed": 52027,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 896,
+  "EOS_NewPlayers": 898,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -11303,6 +11303,11 @@
       "Time": "2023-07-20T15:04:19.2855642+00:00",
       "NumProgressed": 52020,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-20T16:04:49.7411011+00:00",
+      "NumProgressed": 52027,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -11314,7 +11319,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 28611
+      "UsersEstimate": 28615
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -11378,7 +11383,7 @@
       "Name": "Bronze x100",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1040
+      "UsersEstimate": 1041
     },
     {
       "ID": "VERDUN_ACH_CANADIANS",
@@ -11434,7 +11439,7 @@
       "Name": "Developers, Developers, Developers",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 12485
+      "UsersEstimate": 12486
     },
     {
       "ID": "VERDUN_ACH_DOUGHBOYS",
@@ -11506,7 +11511,7 @@
       "Name": "Shoot, Cover, Reload, Repeat",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1040
+      "UsersEstimate": 1041
     },
     {
       "ID": "VERDUN_ACH_GOLD10_KILLSTREAK",
@@ -11546,7 +11551,7 @@
       "Name": "Headhunter I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 13525
+      "UsersEstimate": 13527
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -11570,7 +11575,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 16646
+      "UsersEstimate": 16649
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -11578,7 +11583,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 20808
+      "UsersEstimate": 20811
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -11602,7 +11607,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 32773
+      "UsersEstimate": 32777
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -11610,7 +11615,7 @@
       "Name": "Gott Mit Uns",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6242
+      "UsersEstimate": 6243
     },
     {
       "ID": "VERDUN_ACH_LEVEL100",
@@ -11626,7 +11631,7 @@
       "Name": "Basic Training",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 12485
+      "UsersEstimate": 12486
     },
     {
       "ID": "VERDUN_ACH_LEVEL50",
@@ -11650,7 +11655,7 @@
       "Name": "Semper Fidelis!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3641
+      "UsersEstimate": 3642
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS1",
@@ -11658,7 +11663,7 @@
       "Name": "Manual Labour I",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 13005
+      "UsersEstimate": 13007
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS2",
@@ -11682,7 +11687,7 @@
       "Name": "Setting an example",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 40055
+      "UsersEstimate": 40061
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -11698,7 +11703,7 @@
       "Name": "Honneur et Patrie",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3641
+      "UsersEstimate": 3642
     },
     {
       "ID": "VERDUN_ACH_SAMEFRIEND1",
@@ -11730,7 +11735,7 @@
       "Name": "Furchtlos und Treu",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6763
+      "UsersEstimate": 6764
     },
     {
       "ID": "VERDUN_ACH_SCOTTISH",
@@ -11778,22 +11783,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 19247
+      "UsersEstimate": 19250
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 52020,
+      "Progressed": 52027,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-07-16T18:59:24.8793822+00:00",
-  "LastChanged_Achievements": "2023-07-20T15:04:19.2855634+00:00",
+  "LastChanged_Achievements": "2023-07-20T16:04:49.7411002+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:13.5889648+00:00",
-  "LastUpdate_Ratings": "2023-07-20T14:58:35.2266111+00:00",
-  "LastUpdate_Achievements": "2023-07-20T15:04:19.2856501+00:00"
+  "LastUpdate_Ratings": "2023-07-20T15:59:21.6706236+00:00",
+  "LastUpdate_Achievements": "2023-07-20T16:04:49.7413888+00:00"
 }

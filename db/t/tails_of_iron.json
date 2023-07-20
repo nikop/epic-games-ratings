@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -221,9 +221,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1757,
+  "EOS_Progressed": 1758,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -1966,6 +1966,11 @@
       "Time": "2023-07-19T09:04:16.6888425+00:00",
       "NumProgressed": 1757,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-20T16:04:52.3830049+00:00",
+      "NumProgressed": 1758,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -1977,7 +1982,7 @@
       "Name": "Become King",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "Collect20Gold",
@@ -2001,7 +2006,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1020
     },
     {
       "ID": "CollectAllStatues",
@@ -2041,7 +2046,7 @@
       "Name": "Complete the Chefs Book",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "CompleteElderFaction",
@@ -2049,7 +2054,7 @@
       "Name": "Complete Elder Faction",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "CompleteGuardFaction",
@@ -2081,7 +2086,7 @@
       "Name": "Defeat Avor Warden of the Northern Wastes",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "DefeatMoziQueen",
@@ -2113,7 +2118,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "GetRangedWeapon",
@@ -2145,7 +2150,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1090
     },
     {
       "ID": "Kill25Mozi",
@@ -2153,7 +2158,7 @@
       "Name": "Defeat 25 Mozis",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "MeetTheMoles",
@@ -2216,22 +2221,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1757,
+      "Progressed": 1758,
       "Completed": 8
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 398,
-      "Completed": 398
+      "Progressed": 399,
+      "Completed": 399
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-07-20T05:58:48.396253+00:00",
-  "LastChanged_Achievements": "2023-07-20T15:04:21.2259105+00:00",
+  "LastChanged_Achievements": "2023-07-20T16:04:52.3830045+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:12.5741028+00:00",
-  "LastUpdate_Ratings": "2023-07-20T14:58:31.8327045+00:00",
-  "LastUpdate_Achievements": "2023-07-20T15:04:21.2259364+00:00"
+  "LastUpdate_Ratings": "2023-07-20T15:59:17.6379728+00:00",
+  "LastUpdate_Achievements": "2023-07-20T16:04:52.3830397+00:00"
 }

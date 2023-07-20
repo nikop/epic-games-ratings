@@ -11,11 +11,11 @@ Rating: 4.64 (Ranked 311)
 | Tomorrow Never Dyes | 46.00% | ~3,410 |
 | Never Say Loser Again | 40.00% | ~2,965 |
 | For your Eyes only | 38.00% | ~2,817 |
-| From the Vault with Love | 37.00% | ~2,742 |
-| Tailor-Made | 37.00% | ~2,742 |
+| From the Vault with Love | 37.00% | ~2,743 |
+| Tailor-Made | 37.00% | ~2,743 |
 | Fully Decked Out | 34.00% | ~2,520 |
 | You Only Live Twice | 33.00% | ~2,446 |
-| A view to Win | 27.00% | ~2,001 |
+| A view to Win | 27.00% | ~2,002 |
 | Smells Like Trouble | 25.00% | ~1,853 |
 | Assistant Accountant | 24.00% | ~1,779 |
 | The Living Portrait | 24.00% | ~1,779 |
@@ -31,8 +31,8 @@ Rating: 4.64 (Ranked 311)
 | Social of Solace | 8.00% | ~593 |
 | Safe Withdrawal | 6.00% | ~445 |
 | Live and let lie | 5.00% | ~371 |
-| Call Me Maybe | 4.00% | ~296 |
-| PHD in VIP | 4.00% | ~296 |
+| Call Me Maybe | 4.00% | ~297 |
+| PHD in VIP | 4.00% | ~297 |
 | Branch Manager | 3.00% | ~222 |
 | The terminals are not enough | 2.00% | ~148 |
 | Lose Another Day | 2.00% | ~148 |
@@ -42,7 +42,7 @@ Rating: 4.64 (Ranked 311)
 | Extraction Confusion | 0.30% | ~22 |
 | Spyfall | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,412 (Ranked 126)  
+Progressed: 7,413 (Ranked 126)  
 Completed: 1 (0.01%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 1 (0.01%) (Ranked 226)
 | 2023-07-17 | 7,388 | 1 |
 | 2023-07-18 | 7,402 | 1 |
 | 2023-07-19 | 7,411 | 1 |
-| 2023-07-20 | 7,412 | 1 |
+| 2023-07-20 | 7,413 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

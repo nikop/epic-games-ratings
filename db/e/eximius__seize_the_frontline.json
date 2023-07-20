@@ -282,9 +282,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 192517,
+  "EOS_Progressed": 192524,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 556,
+  "EOS_NewPlayers": 560,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9977,6 +9977,11 @@
       "Time": "2023-07-20T15:06:31.5291732+00:00",
       "NumProgressed": 192517,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-20T16:07:44.6401376+00:00",
+      "NumProgressed": 192524,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -9988,7 +9993,7 @@
       "Name": "Battlesuit Victory",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 15401
+      "UsersEstimate": 15402
     },
     {
       "ID": "ACH_COMPLETE_TUTORIAL",
@@ -9996,7 +10001,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 136687
+      "UsersEstimate": 136692
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -10020,7 +10025,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 34653
+      "UsersEstimate": 34654
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -10115,7 +10120,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 192517,
+      "Progressed": 192524,
       "Completed": 4
     }
   ],
@@ -10123,8 +10128,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-07-15T20:00:05.0110096+00:00",
-  "LastChanged_Achievements": "2023-07-20T15:06:31.5291727+00:00",
+  "LastChanged_Achievements": "2023-07-20T16:07:44.6401364+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:40.5489565+00:00",
-  "LastUpdate_Ratings": "2023-07-20T14:59:45.8078904+00:00",
-  "LastUpdate_Achievements": "2023-07-20T15:06:31.5292273+00:00"
+  "LastUpdate_Ratings": "2023-07-20T16:00:53.5200492+00:00",
+  "LastUpdate_Achievements": "2023-07-20T16:07:44.6403153+00:00"
 }
