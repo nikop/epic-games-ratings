@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 517,
+  "EOS_Progressed": 518,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1781,6 +1781,11 @@
       "Time": "2023-07-20T03:06:26.2400614+00:00",
       "NumProgressed": 517,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-20T04:05:55.8667361+00:00",
+      "NumProgressed": 518,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1920,7 +1925,7 @@
       "Name": "Lieutenant",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -2000,7 +2005,7 @@
       "Name": "Stocking Up",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -2016,7 +2021,7 @@
       "Name": "On Target",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -2048,7 +2053,7 @@
       "Name": "Defenses Online",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -2095,14 +2100,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 517,
+      "Progressed": 518,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-20T03:06:26.240061+00:00",
+  "LastChanged_Achievements": "2023-07-20T04:05:55.8667353+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:28.9258865+00:00",
-  "LastUpdate_Ratings": "2023-07-20T03:01:48.0733588+00:00",
-  "LastUpdate_Achievements": "2023-07-20T03:06:26.2400953+00:00"
+  "LastUpdate_Ratings": "2023-07-20T04:01:07.8054373+00:00",
+  "LastUpdate_Achievements": "2023-07-20T04:05:55.8667656+00:00"
 }

@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 64625,
+  "EOS_Progressed": 64627,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -5495,6 +5495,11 @@
       "Time": "2023-07-20T02:07:42.7798514+00:00",
       "NumProgressed": 64625,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-07-20T04:05:33.2629646+00:00",
+      "NumProgressed": 64627,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 20,
@@ -5506,7 +5511,7 @@
       "Name": "Denial",
       "Percentage": 2,
       "XP": 105,
-      "UsersEstimate": 1292
+      "UsersEstimate": 1293
     },
     {
       "ID": "ACH_BONFIRES",
@@ -5594,7 +5599,7 @@
       "Name": "Acceptance",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1292
+      "UsersEstimate": 1293
     },
     {
       "ID": "ACH_PHONECAPTURE",
@@ -5602,7 +5607,7 @@
       "Name": "Are you still there?",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ACH_PHONEGATHER",
@@ -5650,7 +5655,7 @@
       "Name": "Bargaining",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1292
+      "UsersEstimate": 1293
     },
     {
       "ID": "ACH_TOOLS",
@@ -5665,7 +5670,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 64625,
+      "Progressed": 64627,
       "Completed": 13
     }
   ],
@@ -5673,8 +5678,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-05-14T20:57:12.1011944+00:00",
-  "LastChanged_Achievements": "2023-07-20T03:06:00.7120693+00:00",
+  "LastChanged_Achievements": "2023-07-20T04:05:33.2629639+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:25.9966818+00:00",
-  "LastUpdate_Ratings": "2023-07-20T02:58:20.8402768+00:00",
-  "LastUpdate_Achievements": "2023-07-20T03:06:00.7121039+00:00"
+  "LastUpdate_Ratings": "2023-07-20T03:58:05.9849948+00:00",
+  "LastUpdate_Achievements": "2023-07-20T04:05:33.2630004+00:00"
 }

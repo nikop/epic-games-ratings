@@ -9,8 +9,8 @@
 | Haute cuisine | 45.00% | ~42 |
 | I didn't do it! | 40.00% | ~38 |
 | Keep away from children | 36.00% | ~34 |
+| Artistic fool | 35.00% | ~33 |
 | Demolition expert | 35.00% | ~33 |
-| Artistic fool | 34.00% | ~32 |
 | Wooooooow! | 34.00% | ~32 |
 | Chapter II | 31.00% | ~29 |
 | Let the boot talk | 29.00% | ~27 |

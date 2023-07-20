@@ -5220,9 +5220,9 @@
       "Count": 560
     }
   ],
-  "EOS_Progressed": 288062,
+  "EOS_Progressed": 288063,
   "EOS_Completed": 431,
-  "EOS_NewPlayers": 921,
+  "EOS_NewPlayers": 915,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -14925,6 +14925,11 @@
       "Time": "2023-07-20T03:05:04.3320981+00:00",
       "NumProgressed": 288062,
       "NumCompleted": 431
+    },
+    {
+      "Time": "2023-07-20T04:04:41.6244546+00:00",
+      "NumProgressed": 288063,
+      "NumCompleted": 431
     }
   ],
   "TotalAchievements": 45,
@@ -14936,7 +14941,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34567
+      "UsersEstimate": 34568
     },
     {
       "ID": "PFA_10",
@@ -15176,7 +15181,7 @@
       "Name": "Merlin\u0027s Beard!",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 2304
+      "UsersEstimate": 2305
     },
     {
       "ID": "PFA_38",
@@ -15216,7 +15221,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11522
+      "UsersEstimate": 11523
     },
     {
       "ID": "PFA_42",
@@ -15295,7 +15300,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 288062,
+      "Progressed": 288063,
       "Completed": 431
     }
   ],
@@ -15303,8 +15308,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-07-20T02:58:14.9685824+00:00",
-  "LastChanged_Achievements": "2023-07-20T03:05:04.3320974+00:00",
+  "LastChanged_Achievements": "2023-07-20T04:04:41.6244538+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:19.3801839+00:00",
-  "LastUpdate_Ratings": "2023-07-20T02:58:14.9685835+00:00",
-  "LastUpdate_Achievements": "2023-07-20T03:05:04.3321698+00:00"
+  "LastUpdate_Ratings": "2023-07-20T03:58:01.7806421+00:00",
+  "LastUpdate_Achievements": "2023-07-20T04:04:41.624533+00:00"
 }

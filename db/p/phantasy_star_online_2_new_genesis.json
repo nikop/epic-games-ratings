@@ -4,7 +4,7 @@
   "ProductSlug": "phantasy-star-online-2",
   "Ranking_Rating": 459,
   "Ranking_Popularity": 149,
-  "Ranking_PopularitySum": 142,
+  "Ranking_PopularitySum": 141,
   "Ranking_EOS_Progress": 498,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 307,
@@ -3003,10 +3003,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 3923,
       "NumberOfAwardsMax": 896
+    },
+    {
+      "Time": "2023-07-20T03:58:59.885657+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 3924,
+      "NumberOfAwardsMax": 896
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3923,
+  "NumberOfAwards": 3924,
   "NumberOfAwardsMax": 896,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3032,7 +3038,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 256
+      "Count": 257
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3094,8 +3100,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:27.1466753+00:00",
-  "LastChanged": "2023-07-20T02:01:00.3635082+00:00",
+  "LastChanged": "2023-07-20T03:58:59.8856568+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:12.579237+00:00",
-  "LastUpdate_Ratings": "2023-07-20T02:59:26.663913+00:00",
-  "LastUpdate_Achievements": "2023-07-20T03:03:33.0544787+00:00"
+  "LastUpdate_Ratings": "2023-07-20T03:58:59.8856573+00:00",
+  "LastUpdate_Achievements": "2023-07-20T04:03:37.2998099+00:00"
 }

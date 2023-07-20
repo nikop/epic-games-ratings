@@ -4,7 +4,7 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 94,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
@@ -885,8 +885,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-07-20T03:06:53.0808462+00:00",
+  "LastChanged_Achievements": "2023-07-20T04:06:20.4535305+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:47.7956673+00:00",
-  "LastUpdate_Ratings": "2023-07-20T02:59:07.722154+00:00",
-  "LastUpdate_Achievements": "2023-07-20T03:06:53.0808603+00:00"
+  "LastUpdate_Ratings": "2023-07-20T03:58:45.821858+00:00",
+  "LastUpdate_Achievements": "2023-07-20T04:06:20.4535435+00:00"
 }

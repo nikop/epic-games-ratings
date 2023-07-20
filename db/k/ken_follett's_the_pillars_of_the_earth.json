@@ -489,7 +489,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14005,
+  "EOS_Progressed": 14006,
   "EOS_Completed": 105,
   "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
@@ -6409,6 +6409,11 @@
       "Time": "2023-07-20T02:05:11.8866899+00:00",
       "NumProgressed": 14005,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2023-07-20T04:03:25.3608308+00:00",
+      "NumProgressed": 14006,
+      "NumCompleted": 105
     }
   ],
   "TotalAchievements": 41,
@@ -6588,7 +6593,7 @@
       "Name": "Skilled merchant",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "tpote_achievement_3",
@@ -6604,7 +6609,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1400
+      "UsersEstimate": 1401
     },
     {
       "ID": "tpote_achievement_31",
@@ -6628,7 +6633,7 @@
       "Name": "Nothing but make-believe",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "tpote_achievement_34",
@@ -6652,7 +6657,7 @@
       "Name": "Brother Marcus",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "tpote_achievement_37",
@@ -6676,7 +6681,7 @@
       "Name": "The oath",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "tpote_achievement_4",
@@ -6692,7 +6697,7 @@
       "Name": "The truth revealed",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "tpote_achievement_41",
@@ -6700,7 +6705,7 @@
       "Name": "The End.",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "tpote_achievement_5",
@@ -6747,15 +6752,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14005,
+      "Progressed": 14006,
       "Completed": 105
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-20T03:03:20.3169745+00:00",
+  "LastChanged_Achievements": "2023-07-20T04:03:25.3608303+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:01.688698+00:00",
-  "LastUpdate_Ratings": "2023-07-20T03:01:18.3164685+00:00",
-  "LastUpdate_Achievements": "2023-07-20T03:03:20.3170267+00:00"
+  "LastUpdate_Ratings": "2023-07-20T04:00:40.3627879+00:00",
+  "LastUpdate_Achievements": "2023-07-20T04:03:25.3608842+00:00"
 }

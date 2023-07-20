@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4243,
+  "EOS_Progressed": 4245,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6411,6 +6411,11 @@
       "Time": "2023-07-20T03:07:55.9431915+00:00",
       "NumProgressed": 4243,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-20T04:07:16.6651216+00:00",
+      "NumProgressed": 4245,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -6422,7 +6427,7 @@
       "Name": "First Step",
       "Percentage": 38,
       "XP": 45,
-      "UsersEstimate": 1612
+      "UsersEstimate": 1613
     },
     {
       "ID": "10",
@@ -6492,9 +6497,9 @@
       "ID": "4",
       "SetID": "1dkhij4",
       "Name": "Rainy Ruins",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 594
+      "UsersEstimate": 552
     },
     {
       "ID": "5",
@@ -6510,7 +6515,7 @@
       "Name": "High Treetops",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "7",
@@ -6541,7 +6546,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 4243,
+      "Progressed": 4245,
       "Completed": 0
     }
   ],
@@ -6549,8 +6554,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-07-20T03:07:55.9431912+00:00",
+  "LastChanged_Achievements": "2023-07-20T04:07:16.6651208+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:39.4549072+00:00",
-  "LastUpdate_Ratings": "2023-07-20T02:58:58.2170283+00:00",
-  "LastUpdate_Achievements": "2023-07-20T03:07:55.9432267+00:00"
+  "LastUpdate_Ratings": "2023-07-20T03:58:37.7954391+00:00",
+  "LastUpdate_Achievements": "2023-07-20T04:07:16.6651575+00:00"
 }

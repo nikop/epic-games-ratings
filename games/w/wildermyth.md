@@ -15,8 +15,8 @@ Number of Ratings: 45  (23.09.2022)
 | Daybreak | 26.00% | ~344 |
 | Gotta Ca... Must Collect All of Them | 24.00% | ~318 |
 | Completing the Look | 14.00% | ~186 |
+| War Endured | 14.00% | ~186 |
 | Who's Counting? | 13.00% | ~172 |
-| War Endured | 13.00% | ~172 |
 | Core Failure | 13.00% | ~172 |
 | A Mythic Menagerie | 12.00% | ~159 |
 | Pyrrhic Victory | 10.00% | ~132 |

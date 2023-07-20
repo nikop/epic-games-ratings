@@ -33,8 +33,8 @@ Rating: 4.25 (Ranked 808)
 | Risk Tolerant | 13.00% | ~239 |
 | Sorry, Didn't See You There | 13.00% | ~239 |
 | What A Catchy Song | 13.00% | ~239 |
+| Corrupted Beauty | 12.00% | ~220 |
 | Marked For Success | 12.00% | ~220 |
-| Corrupted Beauty | 11.00% | ~202 |
 | Stimulating The Local Economy | 10.00% | ~184 |
 | Triplets | 10.00% | ~184 |
 | Defense in Depth | 9.00% | ~165 |

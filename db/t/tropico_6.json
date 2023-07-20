@@ -1014,9 +1014,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 4154,
+  "EOS_Progressed": 4155,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -6309,6 +6309,11 @@
       "Time": "2023-07-20T02:08:13.1156951+00:00",
       "NumProgressed": 4154,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-20T04:05:58.206357+00:00",
+      "NumProgressed": 4155,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -6360,7 +6365,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -6400,7 +6405,7 @@
       "Name": "Of Seals And Men",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACH_EP_ONEPERCENTERS",
@@ -6416,7 +6421,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1869
+      "UsersEstimate": 1870
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -6432,7 +6437,7 @@
       "Name": "Shackadelic",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACH_EP_SPEAKEASY",
@@ -6440,7 +6445,7 @@
       "Name": "Number 18",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1038
+      "UsersEstimate": 1039
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -6480,7 +6485,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3157
+      "UsersEstimate": 3158
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -6590,9 +6595,9 @@
       "ID": "ACH_TRADEISMYTRAIT",
       "SetID": "1p8ab95",
       "Name": "Trade Is My Trait",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1579
+      "UsersEstimate": 1537
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -6639,15 +6644,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 4154,
+      "Progressed": 4155,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-18T14:02:20.1549528+00:00",
-  "LastChanged_Achievements": "2023-07-20T03:06:28.6300757+00:00",
+  "LastChanged_Achievements": "2023-07-20T04:05:58.2063566+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:16.0436214+00:00",
-  "LastUpdate_Ratings": "2023-07-20T03:01:34.9261482+00:00",
-  "LastUpdate_Achievements": "2023-07-20T03:06:28.6301351+00:00"
+  "LastUpdate_Ratings": "2023-07-20T04:00:56.1999262+00:00",
+  "LastUpdate_Achievements": "2023-07-20T04:05:58.206408+00:00"
 }

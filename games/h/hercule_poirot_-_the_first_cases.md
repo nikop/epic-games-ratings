@@ -29,7 +29,7 @@ Rating: 4.35 (Ranked 739)
 | Cassandra Van den Bosch | 38.00% | ~150 |
 | The Secret | 37.00% | ~147 |
 | Gedeon Demir | 35.00% | ~139 |
-| Rehana Piette | 34.00% | ~135 |
+| Rehana Piette | 35.00% | ~139 |
 | Instinct is Marvellous | 33.00% | ~131 |
 | Ernesto da Silva | 33.00% | ~131 |
 | Inge Frank | 31.00% | ~123 |

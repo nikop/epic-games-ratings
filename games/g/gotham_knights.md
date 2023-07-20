@@ -6,10 +6,10 @@ Rating: 4.18 (Ranked 856)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 6.00% | ~4,033 |
-| To the Victor Go the Spoils | 4.00% | ~2,688 |
-| Har, Har, Har, Very Funny | 4.00% | ~2,688 |
-| Knighthood | 4.00% | ~2,688 |
-| Loose Ends | 4.00% | ~2,688 |
+| To the Victor Go the Spoils | 4.00% | ~2,689 |
+| Har, Har, Har, Very Funny | 4.00% | ~2,689 |
+| Knighthood | 4.00% | ~2,689 |
+| Loose Ends | 4.00% | ~2,689 |
 | The Batman Family | 3.00% | ~2,016 |
 | Protector of Gotham | 3.00% | ~2,016 |
 | Something in the Clay | 3.00% | ~2,016 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 856)
 | History Major | 0.10% | ~67 |
 | Confronting Your Demon | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,212 (Ranked 77)  
+Progressed: 67,213 (Ranked 77)  
 Completed: 102 (0.15%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 102 (0.15%) (Ranked 175)
 | 2023-07-17 | 67,148 | 102 |
 | 2023-07-18 | 67,170 | 102 |
 | 2023-07-19 | 67,208 | 102 |
-| 2023-07-20 | 67,212 | 102 |
+| 2023-07-20 | 67,213 | 102 |
 ## Awards
 Max (Great Boss Battles): 2,452  (Ranked 101)  
 Sum: 4,069 (Ranked 138)  

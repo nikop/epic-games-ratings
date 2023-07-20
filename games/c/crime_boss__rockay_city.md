@@ -5,21 +5,21 @@ Rating: 3.93 (Ranked 929)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~51,171 |
+| Downed but Not Outed | 74.00% | ~51,172 |
 | First One’s Free | 65.00% | ~44,948 |
-| Neophyte Ninja | 50.00% | ~34,575 |
-| Too Old for This | 47.00% | ~32,500 |
-| Fancy Pants | 35.00% | ~24,202 |
+| Neophyte Ninja | 50.00% | ~34,576 |
+| Too Old for This | 47.00% | ~32,501 |
+| Fancy Pants | 35.00% | ~24,203 |
 | Case Closed | 34.00% | ~23,511 |
 | King of the Hill | 34.00% | ~23,511 |
 | Underworld Initiate | 29.00% | ~20,054 |
 | Roid Ranger | 21.00% | ~14,522 |
-| True Player | 19.00% | ~13,138 |
-| Off the Rocks | 19.00% | ~13,138 |
+| True Player | 19.00% | ~13,139 |
+| Off the Rocks | 19.00% | ~13,139 |
 | Dragonslayer | 17.00% | ~11,756 |
 | Raider’s Ruin | 16.00% | ~11,064 |
 | Hidden Sonata | 13.00% | ~8,990 |
-| Rockay Rex | 11.00% | ~7,606 |
+| Rockay Rex | 11.00% | ~7,607 |
 | Freebooter | 10.00% | ~6,915 |
 | Track Star | 9.00% | ~6,224 |
 | Classy Joint | 9.00% | ~6,224 |
@@ -33,8 +33,8 @@ Rating: 3.93 (Ranked 929)
 | Olympus Ascended | 4.00% | ~2,766 |
 | Cracked the Jack | 4.00% | ~2,766 |
 | Red Star | 4.00% | ~2,766 |
-| Privateer | 3.00% | ~2,074 |
-| Groundhog Days | 3.00% | ~2,074 |
+| Privateer | 3.00% | ~2,075 |
+| Groundhog Days | 3.00% | ~2,075 |
 | Rockay Raider | 2.00% | ~1,383 |
 | Moneybags | 2.00% | ~1,383 |
 | Impossible Dreamer | 2.00% | ~1,383 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 929)
 | Geek Out | 0.50% | ~346 |
 | Full House | 0.20% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69,150 (Ranked 75)  
+Progressed: 69,151 (Ranked 75)  
 Completed: 36 (0.05%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 36 (0.05%) (Ranked 203)
 | 2023-07-17 | 69,061 | 36 |
 | 2023-07-18 | 69,100 | 36 |
 | 2023-07-19 | 69,147 | 36 |
-| 2023-07-20 | 69,150 | 36 |
+| 2023-07-20 | 69,151 | 36 |
 ## Awards
 Max (Diverse Characters): 368  (Ranked 219)  
 Sum: 1,742 (Ranked 206)  
