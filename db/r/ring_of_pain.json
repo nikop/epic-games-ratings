@@ -2515,9 +2515,9 @@
       "Count": 730
     }
   ],
-  "EOS_Progressed": 232799,
+  "EOS_Progressed": 232800,
   "EOS_Completed": 249,
-  "EOS_NewPlayers": 421,
+  "EOS_NewPlayers": 420,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11595,6 +11595,11 @@
       "Time": "2023-07-20T12:04:09.9516987+00:00",
       "NumProgressed": 232799,
       "NumCompleted": 249
+    },
+    {
+      "Time": "2023-07-20T13:14:35.5140792+00:00",
+      "NumProgressed": 232800,
+      "NumCompleted": 249
     }
   ],
   "TotalAchievements": 122,
@@ -11638,7 +11643,7 @@
       "Name": "First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 223487
+      "UsersEstimate": 223488
     },
     {
       "ID": "CURSE1HP",
@@ -11686,7 +11691,7 @@
       "Name": "Heavy Hitter",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 123383
+      "UsersEstimate": 123384
     },
     {
       "ID": "DEAL99DAMAGE",
@@ -11726,7 +11731,7 @@
       "Name": "Getting A Glimpse",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 169943
+      "UsersEstimate": 169944
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -11782,7 +11787,7 @@
       "Name": "That Was Quick",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 130367
+      "UsersEstimate": 130368
     },
     {
       "ID": "DIERAINBOWSOCKS",
@@ -11790,7 +11795,7 @@
       "Name": "Colorful Corpse",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 135023
+      "UsersEstimate": 135024
     },
     {
       "ID": "DIETOGRAVESTONE",
@@ -12006,7 +12011,7 @@
       "Name": "Defeat The Dark",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 142007
+      "UsersEstimate": 142008
     },
     {
       "ID": "KILL1000",
@@ -12094,7 +12099,7 @@
       "Name": "Goodbye, Frog Friend",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 125711
+      "UsersEstimate": 125712
     },
     {
       "ID": "KILLNICEDOG",
@@ -12190,7 +12195,7 @@
       "Name": "A Donation",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 130367
+      "UsersEstimate": 130368
     },
     {
       "ID": "MULTEXPLOSIONS",
@@ -12254,7 +12259,7 @@
       "Name": "A Quick Escape",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 151319
+      "UsersEstimate": 151320
     },
     {
       "ID": "PETRIFY50",
@@ -12350,7 +12355,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 207191
+      "UsersEstimate": 207192
     },
     {
       "ID": "SPECIALROOMS10",
@@ -12358,7 +12363,7 @@
       "Name": "Explorer",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 144335
+      "UsersEstimate": 144336
     },
     {
       "ID": "SPEEDRUN10",
@@ -12422,7 +12427,7 @@
       "Name": "An Offering",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 142007
+      "UsersEstimate": 142008
     },
     {
       "ID": "VISIT35DUNGEONS",
@@ -12581,7 +12586,7 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 232799,
+      "Progressed": 232800,
       "Completed": 249
     }
   ],
@@ -12589,8 +12594,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-07-20T08:00:53.8614138+00:00",
-  "LastChanged_Achievements": "2023-07-20T12:04:09.9516982+00:00",
+  "LastChanged_Achievements": "2023-07-20T13:14:35.5140786+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:29.2883876+00:00",
-  "LastUpdate_Ratings": "2023-07-20T11:59:42.08359+00:00",
-  "LastUpdate_Achievements": "2023-07-20T12:04:09.9519252+00:00"
+  "LastUpdate_Ratings": "2023-07-20T13:10:21.1595597+00:00",
+  "LastUpdate_Achievements": "2023-07-20T13:14:35.5143228+00:00"
 }

@@ -53,7 +53,7 @@
 | Fitting In | 2.00% | ~15 |
 | Thinking Two Steps Ahead | 1.00% | ~8 |
 | No Time to Waste | 1.00% | ~8 |
-| Wildlife Protection | 0.80% | ~6 |
+| Wildlife Protection | 0.90% | ~7 |
 | A Lesson in Precision | 0.80% | ~6 |
 | Going to Live Forever | 0.50% | ~4 |
 | Raw Talent | 0.50% | ~4 |

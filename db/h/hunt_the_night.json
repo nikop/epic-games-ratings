@@ -4,7 +4,7 @@
   "ProductSlug": "hunt-the-night-3f1eb5",
   "Ranking_EOS_Progress": 383,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-04-12T22:00:00+00:00",
@@ -232,8 +232,8 @@
   "FirstSeenRating": "2023-04-14T09:57:55.2658892+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:14.1963225+00:00",
   "LastChanged": "2023-04-14T09:57:55.2658892+00:00",
-  "LastChanged_Achievements": "2023-07-20T11:02:13.3379589+00:00",
+  "LastChanged_Achievements": "2023-07-20T13:11:17.895352+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:51.2089957+00:00",
-  "LastUpdate_Ratings": "2023-07-20T11:59:02.9797794+00:00",
-  "LastUpdate_Achievements": "2023-07-20T11:02:13.3379785+00:00"
+  "LastUpdate_Ratings": "2023-07-20T13:09:51.5201598+00:00",
+  "LastUpdate_Achievements": "2023-07-20T13:11:17.8953708+00:00"
 }

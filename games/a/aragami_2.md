@@ -12,7 +12,7 @@ Number of Ratings: 88  (23.09.2022)
 | Tools of the Trade | 63.00% | ~24,011 |
 | Apprentice | 60.00% | ~22,868 |
 | Secret Seeker | 57.00% | ~21,724 |
-| Forge of Assassins | 55.00% | ~20,962 |
+| Forge of Assassins | 56.00% | ~21,343 |
 | Revenant | 52.00% | ~19,819 |
 | I don’t Care! | 45.00% | ~17,151 |
 | Bird of Prey | 37.00% | ~14,102 |
@@ -41,9 +41,9 @@ Number of Ratings: 88  (23.09.2022)
 | Pilgrimage | 7.00% | ~2,668 |
 | The Lookout | 5.00% | ~1,906 |
 | The Spirit of Vengeance | 5.00% | ~1,906 |
+| Hollow | 5.00% | ~1,906 |
 | Left Behind | 4.00% | ~1,525 |
 | Secrets of the Earth | 4.00% | ~1,525 |
-| Hollow | 4.00% | ~1,525 |
 | The Lion’s Den | 3.00% | ~1,143 |
 | Heart of Fire | 3.00% | ~1,143 |
 | Forest Spirits | 3.00% | ~1,143 |

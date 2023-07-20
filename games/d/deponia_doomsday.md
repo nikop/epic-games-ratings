@@ -18,8 +18,8 @@ Rating: 4.56 (Ranked 458)
 | Scaffolding Expert | 37.00% | ~136 |
 | Elysian Minigame-Master | 37.00% | ~136 |
 | Sole Music | 36.00% | ~132 |
+| No man left behind! | 30.00% | ~110 |
 | Portals come in packs | 30.00% | ~110 |
-| No man left behind! | 29.00% | ~106 |
 | Photo Friend | 26.00% | ~95 |
 | Brainfreeze | 22.00% | ~81 |
 | And everything comes full circle. | 20.00% | ~73 |

@@ -5250,9 +5250,9 @@
       "Count": 367
     }
   ],
-  "EOS_Progressed": 710911,
+  "EOS_Progressed": 710914,
   "EOS_Completed": 12825,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 202,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -13695,6 +13695,11 @@
       "Time": "2023-07-20T11:08:10.4733036+00:00",
       "NumProgressed": 710911,
       "NumCompleted": 12825
+    },
+    {
+      "Time": "2023-07-20T13:16:56.6912964+00:00",
+      "NumProgressed": 710914,
+      "NumCompleted": 12825
     }
   ],
   "TotalAchievements": 50,
@@ -14042,7 +14047,7 @@
       "Name": "Project Arena",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -14074,7 +14079,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -14098,28 +14103,28 @@
       "Name": "A Touch of Acumen",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     }
   ],
   "AchievementSets": [
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 20212,
+      "Progressed": 20215,
       "Completed": 10427
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 710911,
+      "Progressed": 710914,
       "Completed": 12825
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-20T11:59:13.129738+00:00",
-  "LastChanged_Achievements": "2023-07-20T12:06:34.7418709+00:00",
+  "LastChanged_Achievements": "2023-07-20T13:16:56.6912943+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:57.8822848+00:00",
-  "LastUpdate_Ratings": "2023-07-20T11:59:13.1297387+00:00",
-  "LastUpdate_Achievements": "2023-07-20T12:06:34.7419609+00:00"
+  "LastUpdate_Ratings": "2023-07-20T13:09:58.1222869+00:00",
+  "LastUpdate_Achievements": "2023-07-20T13:16:56.6913897+00:00"
 }

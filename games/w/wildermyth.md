@@ -30,11 +30,11 @@ Number of Ratings: 45  (23.09.2022)
 | A Story of Heroes | 7.00% | ~93 |
 | Legends Never Die | 5.00% | ~66 |
 | In Soil, In Smoke | 5.00% | ~66 |
+| A Hunger, Sated | 5.00% | ~66 |
 | Wingknight's Prowess | 5.00% | ~66 |
 | All My Birds, Safely Home | 5.00% | ~66 |
 | Turncoat | 5.00% | ~66 |
 | Worldwalker | 4.00% | ~53 |
-| A Hunger, Sated | 4.00% | ~53 |
 | Grillmaster | 4.00% | ~53 |
 | No Time for Clawmonsters | 4.00% | ~53 |
 | We Emerge Changed | 3.00% | ~40 |

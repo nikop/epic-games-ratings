@@ -6,8 +6,8 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 20.00% | ~2,083 |
-| A Spark | 15.00% | ~1,562 |
+| Devoured by Darkness | 21.00% | ~2,188 |
+| A Spark | 15.00% | ~1,563 |
 | Burning City | 14.00% | ~1,458 |
 | Mythic Choices | 12.00% | ~1,250 |
 | Defender's Heart | 12.00% | ~1,250 |
@@ -24,12 +24,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Voice from Your Dreams | 4.00% | ~417 |
 | All Paths Open | 4.00% | ~417 |
 | Next-Door Play | 4.00% | ~417 |
-| Heart of the Fallen Land | 3.00% | ~312 |
-| Divide and Rule | 3.00% | ~312 |
-| Mythic Reinforcements | 3.00% | ~312 |
-| A Flame | 3.00% | ~312 |
-| Hey, I Know You! | 3.00% | ~312 |
-| Get the Toad | 3.00% | ~312 |
+| Heart of the Fallen Land | 3.00% | ~313 |
+| Divide and Rule | 3.00% | ~313 |
+| Mythic Reinforcements | 3.00% | ~313 |
+| A Flame | 3.00% | ~313 |
+| Hey, I Know You! | 3.00% | ~313 |
+| Get the Toad | 3.00% | ~313 |
 | Beware Still Water | 3.00% | ~276 |
 | Path of the Aeon | 2.00% | ~208 |
 | Path of the Trickster | 2.00% | ~208 |
@@ -54,7 +54,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Legend | 0.70% | ~73 |
 | Playful Mood | 0.70% | ~73 |
 | Truly Profane Gift | 0.70% | ~73 |
-| Dreadful Dragon | 0.60% | ~62 |
+| Dreadful Dragon | 0.60% | ~63 |
 | Masterful Charge | 0.50% | ~52 |
 | Prelate's Nemesis | 0.40% | ~42 |
 | Just Pathetic | 0.30% | ~31 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,415 (Ranked 117)  
+Progressed: 10,417 (Ranked 117)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-17 | 10,375 | 0 |
 | 2023-07-18 | 10,390 | 0 |
 | 2023-07-19 | 10,406 | 0 |
-| 2023-07-20 | 10,415 | 0 |
+| 2023-07-20 | 10,417 | 0 |
 ## Awards
 Max (Character Customization): 1,684  (Ranked 117)  
 Sum: 6,825 (Ranked 113)  

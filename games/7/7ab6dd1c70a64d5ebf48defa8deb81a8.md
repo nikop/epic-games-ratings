@@ -4,20 +4,21 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Break Out | 50.00% | ~10 |
+| Trinity | 40.00% | ~8 |
 | Calm before the Storm | 30.00% | ~6 |
-| A Taste of Wrath | 25.00% | ~5 |
-| Trinity | 25.00% | ~5 |
+| A Taste of Wrath | 30.00% | ~6 |
+| To Battle | 25.00% | ~5 |
+| Godslayer | 25.00% | ~5 |
+| Adventurer | 25.00% | ~5 |
 | Essence Blow | 25.00% | ~5 |
 | Flawless Victory | 25.00% | ~5 |
 | I Found It | 25.00% | ~5 |
 | Find Allies | 20.00% | ~4 |
 | Powerful Allies | 20.00% | ~4 |
-| To Battle | 20.00% | ~4 |
-| Godslayer | 20.00% | ~4 |
 | Clear Sight | 20.00% | ~4 |
 | The Mentor | 20.00% | ~4 |
-| Adventurer | 20.00% | ~4 |
 | Tributes of Caladrias | 20.00% | ~4 |
+| Big Bazar | 20.00% | ~4 |
 | Fine Feathers Make Fine Birds | 20.00% | ~4 |
 | Geared Up | 20.00% | ~4 |
 | Fashion Victim | 20.00% | ~4 |
@@ -27,7 +28,6 @@
 | Airborne | 15.00% | ~3 |
 | Shatterer | 15.00% | ~3 |
 | Slayer | 15.00% | ~3 |
-| Big Bazar | 15.00% | ~3 |
 | All There Is | 15.00% | ~3 |
 | Scholar | 15.00% | ~3 |
 | Alchemist | 15.00% | ~3 |
