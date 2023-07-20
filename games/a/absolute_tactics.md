@@ -10,10 +10,10 @@
 | Big Money | 40.00% | ~2 |
 | The Blood of Mercy | 40.00% | ~2 |
 | The Heart of Mercy | 40.00% | ~2 |
+| The Soul of Mercy | 40.00% | ~2 |
 | It's a Party | 40.00% | ~2 |
 | Eye for an Eye | 20.00% | ~1 |
 | Glorious Loot | 20.00% | ~1 |
-| The Soul of Mercy | 20.00% | ~1 |
 | Victorious | 20.00% | ~1 |
 | Bloody Vengeance | 0.00% | ~0 |
 | Good Fortune | 0.00% | ~0 |

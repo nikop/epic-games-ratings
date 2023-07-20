@@ -612,9 +612,9 @@
       "ID": "Epic_NinjaSword_1",
       "SetID": "ba1m2fc",
       "Name": "Knife Out",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Epic_Parasitic_1",
@@ -636,9 +636,9 @@
       "ID": "Epic_PickProps_50",
       "SetID": "ba1m2fc",
       "Name": "Deus Ex Machina",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Epic_Purgatory_1",
@@ -771,8 +771,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-07-20T13:15:35.7988638+00:00",
+  "LastChanged_Achievements": "2023-07-20T14:04:55.0783387+00:00",
   "LastUpdate_AppInfo": "2023-07-20T06:56:59.0488518+00:00",
-  "LastUpdate_Ratings": "2023-07-20T13:08:14.8790242+00:00",
-  "LastUpdate_Achievements": "2023-07-20T13:15:35.7989111+00:00"
+  "LastUpdate_Ratings": "2023-07-20T13:57:27.0186853+00:00",
+  "LastUpdate_Achievements": "2023-07-20T14:04:55.0784209+00:00"
 }

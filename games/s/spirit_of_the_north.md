@@ -6,32 +6,32 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 68.00% | ~42,624 |
-| INFUSED WITH LIGHT | 53.00% | ~33,221 |
-| FOXIN' AROUND | 29.00% | ~18,178 |
-| FETCH | 27.00% | ~16,924 |
-| BLOOMS OF LIGHT | 26.00% | ~16,297 |
-| BEST FRIENDS | 22.00% | ~13,790 |
-| AWAKEN | 21.00% | ~13,163 |
-| SPIRIT BARK | 21.00% | ~13,163 |
-| ERADICATE | 20.00% | ~12,536 |
-| GARDEN OF LIGHT | 18.00% | ~11,283 |
-| SPIRIT FORM | 16.00% | ~10,029 |
-| UPROOTING DARKNESS | 15.00% | ~9,402 |
-| WRITTEN IN STONE | 15.00% | ~9,402 |
-| WEIGHTLESS | 12.00% | ~7,522 |
-| SPIRIT DASH | 11.00% | ~6,895 |
-| OLD COMPANION | 9.00% | ~5,641 |
-| PLAGUE DOCTOR | 8.00% | ~5,015 |
-| SPIRITED AWAY | 8.00% | ~5,015 |
-| MATCH MAKER | 7.00% | ~4,388 |
-| NORTHERN LIGHTS | 7.00% | ~4,388 |
-| FOX? OR FLYING SQUIRREL? | 4.00% | ~2,507 |
-| ANCIENT HISTORY | 3.00% | ~1,880 |
+| A GUARDIAN FORGOTTEN | 68.00% | ~42,633 |
+| INFUSED WITH LIGHT | 53.00% | ~33,229 |
+| FOXIN' AROUND | 29.00% | ~18,182 |
+| FETCH | 27.00% | ~16,928 |
+| BLOOMS OF LIGHT | 26.00% | ~16,301 |
+| BEST FRIENDS | 22.00% | ~13,793 |
+| AWAKEN | 21.00% | ~13,166 |
+| SPIRIT BARK | 21.00% | ~13,166 |
+| ERADICATE | 20.00% | ~12,539 |
+| GARDEN OF LIGHT | 18.00% | ~11,285 |
+| SPIRIT FORM | 16.00% | ~10,031 |
+| UPROOTING DARKNESS | 15.00% | ~9,404 |
+| WRITTEN IN STONE | 15.00% | ~9,404 |
+| WEIGHTLESS | 12.00% | ~7,524 |
+| SPIRIT DASH | 11.00% | ~6,897 |
+| OLD COMPANION | 9.00% | ~5,643 |
+| PLAGUE DOCTOR | 8.00% | ~5,016 |
+| SPIRITED AWAY | 8.00% | ~5,016 |
+| MATCH MAKER | 7.00% | ~4,389 |
+| NORTHERN LIGHTS | 7.00% | ~4,389 |
+| FOX? OR FLYING SQUIRREL? | 4.00% | ~2,508 |
+| ANCIENT HISTORY | 3.00% | ~1,881 |
 | NONE FORGOTTEN | 2.00% | ~1,254 |
 | KINDRED SPIRITS | 0.60% | ~376 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,682 (Ranked 81)  
+Progressed: 62,696 (Ranked 81)  
 Completed: 315 (0.50%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 315 (0.50%) (Ranked 128)
 | 2023-07-17 | 62,395 | 313 |
 | 2023-07-18 | 62,507 | 314 |
 | 2023-07-19 | 62,644 | 315 |
-| 2023-07-20 | 62,682 | 315 |
+| 2023-07-20 | 62,696 | 315 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 475)  
 Sum: 113 (Ranked 408)  

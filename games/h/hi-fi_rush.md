@@ -14,22 +14,22 @@ Rating: 4.87 (Ranked 24)
 | Who's the boss now? | 2.00% | ~69 |
 | Thanks for the free chip, Peppermint! | 2.00% | ~69 |
 | Whoa! There's ANOTHER health bar!? | 2.00% | ~69 |
+| Feeling the beat! | 2.00% | ~69 |
 | You must like calling me in, Chai | 2.00% | ~69 |
 | Z-shielding's got nothing on us! | 2.00% | ~69 |
 | Out in a puff of smoke | 2.00% | ~69 |
+| Perfect Parry | 2.00% | ~69 |
 | Uh, they were broken when I got here | 2.00% | ~69 |
 | Kissing the sky! | 2.00% | ~69 |
 | Who put gears in there? | 2.00% | ~69 |
+| Alright, that felt AWESOME! | 2.00% | ~69 |
 | NOW we got a kickass hideout! | 2.00% | ~40 |
 | Well that was a rush! | 1.00% | ~35 |
 | I play my own way! | 1.00% | ~35 |
 | I have to read these things? | 1.00% | ~35 |
-| Feeling the beat! | 1.00% | ~35 |
 | You got this, Peppermint? | 1.00% | ~35 |
-| Perfect Parry | 1.00% | ~35 |
 | Perfecter Parry-er! | 1.00% | ~35 |
 | I look cool. But I can look COOLER. | 1.00% | ~35 |
-| Alright, that felt AWESOME! | 1.00% | ~35 |
 | You can pet the cat! | 1.00% | ~35 |
 | Does that say weakpoint? | 1.00% | ~35 |
 | That's a lot of junk metal… | 0.90% | ~31 |

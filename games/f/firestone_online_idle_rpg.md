@@ -64,7 +64,7 @@ Rating: 4.10 (Ranked 887)
 | What lies behind the bush | 3.00% | ~50 |
 | Guardian Master | 1.00% | ~17 |
 | Mythic Power | 1.00% | ~17 |
-| Gear Enchanting | 0.80% | ~13 |
+| Gear Enchanting | 0.90% | ~15 |
 | Training makes a Pro player | 0.80% | ~13 |
 | Cauldron Liberator | 0.70% | ~12 |
 | Transmute | 0.70% | ~12 |

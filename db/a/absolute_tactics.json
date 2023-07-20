@@ -147,9 +147,9 @@
       "ID": "AT_ACHIEVEMENT_NAME_0011",
       "SetID": "9jb1eoe",
       "Name": "The Soul of Mercy",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 90,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "AT_ACHIEVEMENT_NAME_0012",
@@ -244,8 +244,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.3491897+00:00",
   "FirstSeenAchievements": "2023-06-19T22:05:39.5621964+00:00",
   "LastChanged": "2023-03-31T05:57:50.3491898+00:00",
-  "LastChanged_Achievements": "2023-07-20T13:16:48.0100497+00:00",
+  "LastChanged_Achievements": "2023-07-20T14:06:12.0767942+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:09.0698267+00:00",
-  "LastUpdate_Ratings": "2023-07-20T13:10:52.948713+00:00",
-  "LastUpdate_Achievements": "2023-07-20T13:16:48.0100641+00:00"
+  "LastUpdate_Ratings": "2023-07-20T14:00:15.6450212+00:00",
+  "LastUpdate_Achievements": "2023-07-20T14:06:12.0768146+00:00"
 }

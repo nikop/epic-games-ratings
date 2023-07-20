@@ -2,7 +2,7 @@
   "ID": "c473457eec2f4d31bd98bfc76551443b",
   "Name": "Alchemist Adventure",
   "ProductSlug": "alchemist-adventure-fa9fca",
-  "Ranking_EOS_Progress": 498,
+  "Ranking_EOS_Progress": 499,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 77,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:16.2383502+00:00",
   "LastChanged": "2023-03-31T05:58:16.2383502+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:18.5851522+00:00",
-  "LastUpdate_Ratings": "2023-07-20T13:08:54.1648081+00:00",
-  "LastUpdate_Achievements": "2023-07-20T13:15:22.7954092+00:00"
+  "LastUpdate_Ratings": "2023-07-20T13:58:07.8944184+00:00",
+  "LastUpdate_Achievements": "2023-07-20T14:04:41.6767808+00:00"
 }

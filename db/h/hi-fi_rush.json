@@ -4492,9 +4492,9 @@
       "ID": "Ach023",
       "SetID": "12n4k20",
       "Name": "Feeling the beat!",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 69
     },
     {
       "ID": "Ach024",
@@ -4556,9 +4556,9 @@
       "ID": "Ach031",
       "SetID": "12n4k20",
       "Name": "Perfect Parry",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 69
     },
     {
       "ID": "Ach032",
@@ -4692,9 +4692,9 @@
       "ID": "Ach048",
       "SetID": "12n4k20",
       "Name": "Alright, that felt AWESOME!",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 69
     },
     {
       "ID": "Ach049",
@@ -4899,8 +4899,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-20T13:13:28.4772888+00:00",
+  "LastChanged_Achievements": "2023-07-20T14:02:38.1366558+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:27.8055794+00:00",
-  "LastUpdate_Ratings": "2023-07-20T13:09:34.2210422+00:00",
-  "LastUpdate_Achievements": "2023-07-20T13:13:28.4773922+00:00"
+  "LastUpdate_Ratings": "2023-07-20T13:58:47.9052021+00:00",
+  "LastUpdate_Achievements": "2023-07-20T14:02:38.1368389+00:00"
 }

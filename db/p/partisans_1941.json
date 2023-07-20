@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1108,
+  "EOS_Progressed": 1109,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1460,6 +1460,11 @@
       "Time": "2023-07-17T15:07:39.3947302+00:00",
       "NumProgressed": 1108,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-20T14:02:11.3692115+00:00",
+      "NumProgressed": 1109,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1599,7 +1604,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "High_noon",
@@ -1607,7 +1612,7 @@
       "Name": "Payback Time",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "How",
@@ -1663,7 +1668,7 @@
       "Name": "Mosquito bite",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "Scout",
@@ -1710,15 +1715,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1108,
+      "Progressed": 1109,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-07-20T13:11:29.2559178+00:00",
+  "LastChanged_Achievements": "2023-07-20T14:02:11.3692109+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:08.2445796+00:00",
-  "LastUpdate_Ratings": "2023-07-20T13:10:05.1366846+00:00",
-  "LastUpdate_Achievements": "2023-07-20T13:11:29.255947+00:00"
+  "LastUpdate_Ratings": "2023-07-20T13:59:23.5116627+00:00",
+  "LastUpdate_Achievements": "2023-07-20T14:02:11.3692431+00:00"
 }

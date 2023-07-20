@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1452,
+  "EOS_Progressed": 1453,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 324,
+  "EOS_NewPlayers": 322,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -2101,6 +2101,11 @@
       "Time": "2023-07-20T13:15:17.7744541+00:00",
       "NumProgressed": 1452,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-07-20T14:04:36.968261+00:00",
+      "NumProgressed": 1453,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 16,
@@ -2144,7 +2149,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1090
     },
     {
       "ID": "ach_architecture_completed",
@@ -2208,7 +2213,7 @@
       "Name": "Game opened",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 1060
+      "UsersEstimate": 1061
     },
     {
       "ID": "ach_magic_wand",
@@ -2224,7 +2229,7 @@
       "Name": "Master",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "ach_tornado",
@@ -2239,14 +2244,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 1452,
+      "Progressed": 1453,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-07-20T13:15:17.7744536+00:00",
+  "LastChanged_Achievements": "2023-07-20T14:04:36.9682602+00:00",
   "LastUpdate_AppInfo": "2023-07-14T09:57:10.1132461+00:00",
-  "LastUpdate_Ratings": "2023-07-20T13:08:13.935282+00:00",
-  "LastUpdate_Achievements": "2023-07-20T13:15:17.7744785+00:00"
+  "LastUpdate_Ratings": "2023-07-20T13:57:26.051863+00:00",
+  "LastUpdate_Achievements": "2023-07-20T14:04:36.9682945+00:00"
 }

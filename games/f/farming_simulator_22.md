@@ -6,16 +6,16 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~34,304 |
-| I read Shakespeare and stuff | 64.00% | ~29,273 |
+| Own use | 76.00% | ~34,762 |
+| I read Shakespeare and stuff | 64.00% | ~29,274 |
 | Just a sprinkle | 63.00% | ~28,816 |
 | I'm stumped | 61.00% | ~27,901 |
-| Plant get enough | 60.00% | ~27,443 |
+| Plant get enough | 60.00% | ~27,444 |
 | This is just my weekend vehicle | 58.00% | ~26,529 |
 | It's just the beginning | 58.00% | ~26,529 |
 | Hard work pays off | 53.00% | ~24,242 |
 | It's never too late to farm | 48.00% | ~21,955 |
-| All out of Land | 44.00% | ~20,125 |
+| All out of Land | 44.00% | ~20,126 |
 | Field Trip | 43.00% | ~19,668 |
 | I like to switch it up | 40.00% | ~18,296 |
 | Help me to help you | 38.00% | ~17,381 |
@@ -28,7 +28,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | Long haul | 16.00% | ~7,318 |
 | Clucky Streak | 15.00% | ~6,861 |
 | Large-scale supplier | 15.00% | ~6,861 |
-| That's a wrap | 14.00% | ~6,403 |
+| That's a wrap | 14.00% | ~6,404 |
 | Fix me up | 13.00% | ~5,946 |
 | Rock on | 12.00% | ~5,489 |
 | Highly cultivated | 11.00% | ~5,031 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~183 |
 | Raisin the stakes | 0.30% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,739 (Ranked 88)  
+Progressed: 45,740 (Ranked 88)  
 Completed: 5 (0.01%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,16 +141,16 @@ Completed: 5 (0.01%) (Ranked 226)
 | 2023-07-17 | 45,638 | 5 |
 | 2023-07-18 | 45,686 | 5 |
 | 2023-07-19 | 45,721 | 5 |
-| 2023-07-20 | 45,739 | 5 |
+| 2023-07-20 | 45,740 | 5 |
 ## Awards
 Max (Great for Beginners): 4,557  (Ranked 70)  
-Sum: 38,243 (Ranked 31)  
+Sum: 38,247 (Ranked 31)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,557 |
 | This game is Relaxing | 4,027 |
-| This game is Educational | 3,994 |
+| This game is Educational | 3,998 |
 | This game has Quickly Understood Controls | 3,947 |
 | This game has Diverse Characters | 3,848 |
 | This game is Extremely Fun | 3,832 |
@@ -347,4 +347,4 @@ Diff (max vs sum): 39
 | 2023-07-17 | 4.69 | - | 4,544 | 38,186 |
 | 2023-07-18 | 4.69 | - | 4,548 | 38,205 |
 | 2023-07-19 | 4.69 | - | 4,548 | 38,230 |
-| 2023-07-20 | 4.69 | - | 4,557 | 38,243 |
+| 2023-07-20 | 4.69 | - | 4,557 | 38,247 |
