@@ -2,10 +2,10 @@
   "ID": "425a91afbd1743ff8dcd21794a39a8a1",
   "Name": "Two Skateboards Driving Simulator",
   "ProductSlug": "two-skateboards-driving-simulator-c0ea1f",
-  "Ranking_EOS_Progress": 499,
+  "Ranking_EOS_Progress": 500,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 306,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-07-16T07:00:00+00:00",
     "PcReleaseDate": "2022-12-08T08:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-18T20:56:54.9988048+00:00",
-  "LastUpdate_Ratings": "2023-07-20T13:57:12.7199536+00:00",
-  "LastUpdate_Achievements": "2023-07-20T14:02:24.8841884+00:00"
+  "LastUpdate_Ratings": "2023-07-20T14:56:59.7739574+00:00",
+  "LastUpdate_Achievements": "2023-07-20T15:02:32.3574992+00:00"
 }

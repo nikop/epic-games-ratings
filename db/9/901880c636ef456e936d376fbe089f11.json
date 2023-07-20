@@ -2,10 +2,10 @@
   "ID": "901880c636ef456e936d376fbe089f11",
   "Name": "Coffee Talk Episode 2 - Hibiscus and Butterfly",
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
-  "Ranking_EOS_Progress": 340,
+  "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
     "PcReleaseDate": "2023-04-20T13:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 50,
+  "EOS_Progressed": 51,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -266,6 +266,11 @@
       "Time": "2023-07-19T19:05:22.5476616+00:00",
       "NumProgressed": 50,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-20T15:05:30.8559689+00:00",
+      "NumProgressed": 51,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 53,
@@ -331,7 +336,7 @@
       "ID": "ACH_BLOODISH_RED",
       "SetID": "8h8m55b",
       "Name": "Blood(ish) Red",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 5,
       "UsersEstimate": 15
     },
@@ -341,7 +346,7 @@
       "Name": "First Brew",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_BREW_LATTEART_FIRST_TIME",
@@ -349,7 +354,7 @@
       "Name": "It\u0027s a masterpiece!",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_CAT_SHELTER",
@@ -387,7 +392,7 @@
       "ID": "ACH_FAILED_MESSENGER",
       "SetID": "8h8m55b",
       "Name": "Failed Messenger",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 5,
       "UsersEstimate": 20
     },
@@ -443,7 +448,7 @@
       "ID": "ACH_GOOD_REVIEW",
       "SetID": "8h8m55b",
       "Name": "Good Review",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 5,
       "UsersEstimate": 16
     },
@@ -517,7 +522,7 @@
       "Name": "Welcome to Coffee Talk",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_NOTHING_TO_SHOW",
@@ -539,9 +544,9 @@
       "ID": "ACH_OVERFLOWING_WARMTH",
       "SetID": "8h8m55b",
       "Name": "\u201COverflowing Warmth: CBAW\u201D",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_REMEMBRANCE",
@@ -603,9 +608,9 @@
       "ID": "ACH_TRASH_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Let me start over",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_TRUE_FAN",
@@ -627,7 +632,7 @@
       "ID": "ACH_UNLOCK_ALL_CHARACTER",
       "SetID": "8h8m55b",
       "Name": "We are all friends",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 17
     },
@@ -691,23 +696,23 @@
       "ID": "ACH_WRONG_BREW_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Is this it?",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     }
   ],
   "AchievementSets": [
     {
       "ID": "8h8m55b",
       "IsBase": true,
-      "Progressed": 50,
+      "Progressed": 51,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-07-20T14:05:13.7488234+00:00",
+  "LastChanged_Achievements": "2023-07-20T15:05:30.8559684+00:00",
   "LastUpdate_AppInfo": "2023-07-18T06:57:00.6515942+00:00",
-  "LastUpdate_Ratings": "2023-07-20T13:57:24.8190629+00:00",
-  "LastUpdate_Achievements": "2023-07-20T14:05:13.7489048+00:00"
+  "LastUpdate_Ratings": "2023-07-20T14:57:12.9787972+00:00",
+  "LastUpdate_Achievements": "2023-07-20T15:05:30.8560039+00:00"
 }

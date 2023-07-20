@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -280,7 +280,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5020,
+  "EOS_Progressed": 5021,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
@@ -5345,6 +5345,11 @@
       "Time": "2023-07-20T13:14:22.3303025+00:00",
       "NumProgressed": 5020,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-20T15:03:51.6907887+00:00",
+      "NumProgressed": 5021,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 50,
@@ -5514,9 +5519,9 @@
       "ID": "28",
       "SetID": "3aa2279",
       "Name": "From Friends to Family",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 201
     },
     {
       "ID": "29",
@@ -5570,9 +5575,9 @@
       "ID": "34",
       "SetID": "3aa2279",
       "Name": "In a Liege of Your Own",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 151
     },
     {
       "ID": "35",
@@ -5755,13 +5760,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5020,
+      "Progressed": 5021,
       "Completed": 4760
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5020,
+      "Progressed": 5021,
       "Completed": 5
     }
   ],
@@ -5769,8 +5774,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-07-19T14:00:18.5966835+00:00",
-  "LastChanged_Achievements": "2023-07-20T14:03:41.5445014+00:00",
+  "LastChanged_Achievements": "2023-07-20T15:03:51.690788+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:27.6381321+00:00",
-  "LastUpdate_Ratings": "2023-07-20T13:59:39.0082469+00:00",
-  "LastUpdate_Achievements": "2023-07-20T14:03:41.5445963+00:00"
+  "LastUpdate_Ratings": "2023-07-20T14:59:32.6714398+00:00",
+  "LastUpdate_Achievements": "2023-07-20T15:03:51.6908464+00:00"
 }

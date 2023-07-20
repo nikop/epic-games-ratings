@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -202,7 +202,7 @@
   "Tags": [],
   "EOS_Progressed": 1681,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4636,9 +4636,9 @@
       "ID": "inspection",
       "SetID": "3nl4bcg",
       "Name": "Inspection",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 269
     },
     {
       "ID": "jewelenchanting",
@@ -4973,8 +4973,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-07-18T16:58:41.2064019+00:00",
-  "LastChanged_Achievements": "2023-07-20T14:00:47.9540402+00:00",
+  "LastChanged_Achievements": "2023-07-20T15:02:13.9646428+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:38.4078532+00:00",
-  "LastUpdate_Ratings": "2023-07-20T13:58:21.0898569+00:00",
-  "LastUpdate_Achievements": "2023-07-20T14:00:47.9542789+00:00"
+  "LastUpdate_Ratings": "2023-07-20T14:58:14.3864897+00:00",
+  "LastUpdate_Achievements": "2023-07-20T15:02:13.9647218+00:00"
 }

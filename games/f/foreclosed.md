@@ -8,21 +8,21 @@
 | Silent Overload | 65.00% | ~53 |
 | Symbiotic Weapon | 60.00% | ~49 |
 | A.I. Training | 54.00% | ~44 |
-| Sniper | 41.00% | ~33 |
+| Sniper | 42.00% | ~34 |
 | The Red Herring | 37.00% | ~30 |
 | Telekinesis | 32.00% | ~26 |
 | Sapper | 25.00% | ~20 |
 | Tough Decision | 23.00% | ~19 |
+| Mind Over Matter | 21.00% | ~17 |
 | Veteran Sniper | 20.00% | ~16 |
+| The Neuro-connector | 20.00% | ~16 |
 | Flatline | 20.00% | ~16 |
-| Mind Over Matter | 20.00% | ~16 |
-| The Neuro-connector | 19.00% | ~15 |
+| Unstoppable | 17.00% | ~14 |
 | Full and Final Settlement | 16.00% | ~13 |
-| Unstoppable | 16.00% | ~13 |
 | One Click Away | 16.00% | ~13 |
 | Cyborg | 12.00% | ~10 |
 | Brain-hacker | 10.00% | ~8 |
-| Lifter | 7.00% | ~6 |
+| Lifter | 9.00% | ~7 |
 | Gravity Bender | 7.00% | ~6 |
 | Hunter | 4.00% | ~3 |
 | Zero Gravity | 4.00% | ~3 |

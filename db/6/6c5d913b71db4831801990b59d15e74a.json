@@ -2,10 +2,10 @@
   "ID": "6c5d913b71db4831801990b59d15e74a",
   "Name": "Tenebris Pictura",
   "ProductSlug": "tenebris-pictura-76ffdf",
-  "Ranking_EOS_Progress": 499,
+  "Ranking_EOS_Progress": 500,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 306,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-08-31T07:00:00+00:00",
     "PcReleaseDate": "2023-08-31T07:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-18T08:57:05.8306165+00:00",
-  "LastUpdate_Ratings": "2023-07-20T13:57:10.3232294+00:00",
-  "LastUpdate_Achievements": "2023-07-20T14:02:11.3325849+00:00"
+  "LastUpdate_Ratings": "2023-07-20T14:56:57.313898+00:00",
+  "LastUpdate_Achievements": "2023-07-20T15:02:16.8951861+00:00"
 }

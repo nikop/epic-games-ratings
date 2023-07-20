@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -951,7 +951,7 @@
       "ID": "ach_daily_challenge_15",
       "SetID": "cmg602e",
       "Name": "15 Days",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -1327,9 +1327,9 @@
       "ID": "ach_perfect",
       "SetID": "bf10c8p",
       "Name": "Perfect",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "ach_prestige_2",
@@ -1534,8 +1534,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-07-20T14:04:49.9343667+00:00",
+  "LastChanged_Achievements": "2023-07-20T15:05:05.7573638+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:09.0796532+00:00",
-  "LastUpdate_Ratings": "2023-07-20T13:58:34.7764407+00:00",
-  "LastUpdate_Achievements": "2023-07-20T14:04:49.9344606+00:00"
+  "LastUpdate_Ratings": "2023-07-20T14:58:29.6176638+00:00",
+  "LastUpdate_Achievements": "2023-07-20T15:05:05.7574287+00:00"
 }

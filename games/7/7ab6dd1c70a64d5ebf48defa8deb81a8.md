@@ -5,6 +5,7 @@
 | ---- | ---------- | ----- |
 | Break Out | 50.00% | ~10 |
 | Trinity | 40.00% | ~8 |
+| Find Allies | 30.00% | ~6 |
 | Calm before the Storm | 30.00% | ~6 |
 | A Taste of Wrath | 30.00% | ~6 |
 | To Battle | 25.00% | ~5 |
@@ -13,7 +14,6 @@
 | Essence Blow | 25.00% | ~5 |
 | Flawless Victory | 25.00% | ~5 |
 | I Found It | 25.00% | ~5 |
-| Find Allies | 20.00% | ~4 |
 | Powerful Allies | 20.00% | ~4 |
 | Clear Sight | 20.00% | ~4 |
 | The Mentor | 20.00% | ~4 |

@@ -5,10 +5,10 @@
   "Ranking_Rating": 458,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
-  "Ranking_EOS_Progress": 233,
+  "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 306,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-03-01T17:00:00+00:00",
@@ -65,9 +65,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 367,
+  "EOS_Progressed": 368,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.63,
   "EosHistory": [
@@ -140,6 +140,11 @@
       "Time": "2023-07-14T22:06:10.70411+00:00",
       "NumProgressed": 367,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-07-20T15:05:18.0366472+00:00",
+      "NumProgressed": 368,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 36,
@@ -151,7 +156,7 @@
       "Name": "Huzza, he\u0027s back.",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "dep4_achievement_10",
@@ -189,9 +194,9 @@
       "ID": "dep4_achievement_14",
       "SetID": "5d32b60",
       "Name": "Shall we play a game?",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 180
+      "UsersEstimate": 177
     },
     {
       "ID": "dep4_achievement_15",
@@ -223,7 +228,7 @@
       "Name": "Chunky",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "dep4_achievement_19",
@@ -239,7 +244,7 @@
       "Name": "And again, and again, and...",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "dep4_achievement_20",
@@ -255,7 +260,7 @@
       "Name": "Photo Friend",
       "Percentage": 26,
       "XP": 80,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "dep4_achievement_22",
@@ -287,7 +292,7 @@
       "Name": "Monstrous Harassment",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "dep4_achievement_26",
@@ -327,7 +332,7 @@
       "Name": "Burn, Elysium, burn!",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "dep4_achievement_30",
@@ -359,7 +364,7 @@
       "Name": "Heading the inverter",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "dep4_achievement_34",
@@ -383,7 +388,7 @@
       "Name": "Blast from the Past",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "dep4_achievement_4",
@@ -399,7 +404,7 @@
       "Name": "Boat of love, boat of love",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "dep4_achievement_6",
@@ -423,7 +428,7 @@
       "Name": "And everything comes full circle.",
       "Percentage": 20,
       "XP": 60,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "dep4_achievement_9",
@@ -438,7 +443,7 @@
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 367,
+      "Progressed": 368,
       "Completed": 6
     }
   ],
@@ -446,8 +451,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-04-17T16:58:11.036869+00:00",
-  "LastChanged_Achievements": "2023-07-20T14:05:01.3406119+00:00",
+  "LastChanged_Achievements": "2023-07-20T15:05:18.0366467+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:18.0325455+00:00",
-  "LastUpdate_Ratings": "2023-07-20T14:00:22.867393+00:00",
-  "LastUpdate_Achievements": "2023-07-20T14:05:01.3406415+00:00"
+  "LastUpdate_Ratings": "2023-07-20T15:00:21.2642407+00:00",
+  "LastUpdate_Achievements": "2023-07-20T15:05:18.0366909+00:00"
 }

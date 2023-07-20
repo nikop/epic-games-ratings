@@ -49,9 +49,9 @@
 | Green Energy | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 462)  
+Progressed: 5 (Ranked 427)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-07-20 | 1 | 0 |
+| 2023-07-20 | 5 | 0 |

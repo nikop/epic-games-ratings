@@ -10,11 +10,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Marshlands | 4.00% | ~637 |
 | Taking Action | 4.00% | ~637 |
 | No Deaths | 4.00% | ~637 |
-| Overcoming Difficulty | 3.00% | ~477 |
-| Fertile Meadows | 3.00% | ~477 |
-| Lost Colonies | 3.00% | ~477 |
-| Coral Forest | 3.00% | ~477 |
-| The Scarlet Orchard | 3.00% | ~477 |
+| Overcoming Difficulty | 3.00% | ~478 |
+| Fertile Meadows | 3.00% | ~478 |
+| Lost Colonies | 3.00% | ~478 |
+| Coral Forest | 3.00% | ~478 |
+| The Scarlet Orchard | 3.00% | ~478 |
 | Serving Ale | 2.00% | ~318 |
 | Homesick | 2.00% | ~318 |
 | Against All Odds | 2.00% | ~318 |
@@ -46,7 +46,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Prestigious Expedition | 0.70% | ~111 |
 | Blood Flower Farmer | 0.70% | ~111 |
 | Victory through Prosperity | 0.70% | ~111 |
-| Feeding The People | 0.60% | ~95 |
+| Feeding The People | 0.60% | ~96 |
 | Human Utopia | 0.50% | ~80 |
 | Lizard Utopia | 0.50% | ~80 |
 | Beaver Utopia | 0.40% | ~64 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~16 |
 | Higher Needs | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,915 (Ranked 107)  
+Progressed: 15,918 (Ranked 107)  
 Completed: 40 (0.25%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 40 (0.25%) (Ranked 157)
 | 2023-07-17 | 15,873 | 40 |
 | 2023-07-18 | 15,891 | 40 |
 | 2023-07-19 | 15,905 | 40 |
-| 2023-07-20 | 15,915 | 40 |
+| 2023-07-20 | 15,918 | 40 |
 ## Awards
 Max (Quickly Understood Controls): 418  (Ranked 205)  
 Sum: 3,070 (Ranked 157)  

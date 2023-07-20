@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 113,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 14013,
+  "EOS_Progressed": 14014,
   "EOS_Completed": 105,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -6449,6 +6449,11 @@
       "Time": "2023-07-20T14:02:31.7247014+00:00",
       "NumProgressed": 14013,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2023-07-20T15:02:39.7753365+00:00",
+      "NumProgressed": 14014,
+      "NumCompleted": 105
     }
   ],
   "TotalAchievements": 41,
@@ -6460,7 +6465,7 @@
       "Name": "Good midwife",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1541
+      "UsersEstimate": 1542
     },
     {
       "ID": "tpote_achievement_10",
@@ -6500,7 +6505,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4764
+      "UsersEstimate": 4765
     },
     {
       "ID": "tpote_achievement_15",
@@ -6532,7 +6537,7 @@
       "Name": "Friar Tuck",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 1541
+      "UsersEstimate": 1542
     },
     {
       "ID": "tpote_achievement_19",
@@ -6540,7 +6545,7 @@
       "Name": "Negotiation skills",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2662
+      "UsersEstimate": 2663
     },
     {
       "ID": "tpote_achievement_2",
@@ -6548,7 +6553,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4764
+      "UsersEstimate": 4765
     },
     {
       "ID": "tpote_achievement_20",
@@ -6588,7 +6593,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1541
+      "UsersEstimate": 1542
     },
     {
       "ID": "tpote_achievement_25",
@@ -6612,7 +6617,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2522
+      "UsersEstimate": 2523
     },
     {
       "ID": "tpote_achievement_28",
@@ -6636,7 +6641,7 @@
       "Name": "Let there be darkness",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4624
+      "UsersEstimate": 4625
     },
     {
       "ID": "tpote_achievement_30",
@@ -6652,7 +6657,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2522
+      "UsersEstimate": 2523
     },
     {
       "ID": "tpote_achievement_32",
@@ -6724,7 +6729,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 5745
+      "UsersEstimate": 5746
     },
     {
       "ID": "tpote_achievement_40",
@@ -6787,15 +6792,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 14013,
+      "Progressed": 14014,
       "Completed": 105
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-20T14:02:31.7247006+00:00",
+  "LastChanged_Achievements": "2023-07-20T15:02:39.7753359+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:01.688698+00:00",
-  "LastUpdate_Ratings": "2023-07-20T14:00:08.3016731+00:00",
-  "LastUpdate_Achievements": "2023-07-20T14:02:31.7248107+00:00"
+  "LastUpdate_Ratings": "2023-07-20T15:00:06.1637696+00:00",
+  "LastUpdate_Achievements": "2023-07-20T15:02:39.7753906+00:00"
 }

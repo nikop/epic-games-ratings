@@ -32,7 +32,7 @@
 | Fresh Pancake | 10.00% | ~22 |
 | Quit Horsin' Around | 10.00% | ~22 |
 | Eggtraordinary | 10.00% | ~22 |
-| Perfect | 9.00% | ~15 |
+| Perfect | 10.00% | ~17 |
 | Expert Survivor | 9.00% | ~15 |
 | Bring Home The Bacon | 8.00% | ~17 |
 | Quadsparagus | 8.00% | ~13 |
@@ -43,9 +43,9 @@
 | I Have The High Ground | 3.00% | ~7 |
 | Heart Breaker | 3.00% | ~5 |
 | Easy Peasy | 2.00% | ~3 |
+| 15 Days | 1.00% | ~2 |
 | Honk Honk | 1.00% | ~2 |
 | Pro Shotgunner | 1.00% | ~2 |
-| 15 Days | 0.90% | ~2 |
 | Pro Pyromancer | 0.90% | ~2 |
 | King of the Crow | 0.90% | ~2 |
 | Death From Above | 0.90% | ~2 |

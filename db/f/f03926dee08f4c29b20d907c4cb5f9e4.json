@@ -2,10 +2,10 @@
   "ID": "f03926dee08f4c29b20d907c4cb5f9e4",
   "Name": "HORSE CLUB Adventures 2 - Hazelwood Stories",
   "ProductSlug": "horse-club-adventures-2-hazelwood-stories-b257d3",
-  "Ranking_EOS_Progress": 392,
+  "Ranking_EOS_Progress": 393,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-07-06T10:00:00+00:00",
     "PcReleaseDate": "2022-10-27T11:00:00+00:00",
@@ -441,8 +441,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2023-07-20T14:03:53.4110515+00:00",
+  "LastChanged_Achievements": "2023-07-20T15:04:04.7158215+00:00",
   "LastUpdate_AppInfo": "2023-07-19T13:07:08.1328888+00:00",
-  "LastUpdate_Ratings": "2023-07-20T13:57:16.6943229+00:00",
-  "LastUpdate_Achievements": "2023-07-20T14:03:53.4111339+00:00"
+  "LastUpdate_Ratings": "2023-07-20T14:57:04.123775+00:00",
+  "LastUpdate_Achievements": "2023-07-20T15:04:04.7158521+00:00"
 }

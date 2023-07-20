@@ -2,10 +2,10 @@
   "ID": "4374bc821f524407b18a891da624ef3f",
   "Name": "A Tale of Paper: Refolded",
   "ProductSlug": "a-tale-of-paper-refolded-edition-39dd94",
-  "Ranking_EOS_Progress": 443,
+  "Ranking_EOS_Progress": 445,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 306,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-08-19T16:00:00+00:00",
     "PcReleaseDate": "2022-08-19T16:00:00+00:00",
@@ -287,8 +287,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.3457185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.9904198+00:00",
   "LastChanged": "2023-03-31T05:57:38.3457186+00:00",
-  "LastChanged_Achievements": "2023-07-20T14:03:15.7153463+00:00",
+  "LastChanged_Achievements": "2023-07-20T15:03:23.8495538+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:26.693812+00:00",
-  "LastUpdate_Ratings": "2023-07-20T14:00:28.3735631+00:00",
-  "LastUpdate_Achievements": "2023-07-20T14:03:15.7153934+00:00"
+  "LastUpdate_Ratings": "2023-07-20T15:00:27.699286+00:00",
+  "LastUpdate_Achievements": "2023-07-20T15:03:23.8495695+00:00"
 }

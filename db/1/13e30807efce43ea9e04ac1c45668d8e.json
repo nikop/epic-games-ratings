@@ -2,10 +2,10 @@
   "ID": "13e30807efce43ea9e04ac1c45668d8e",
   "Name": "Outliver: Tribulation",
   "ProductSlug": "outliver-tribulations-679884",
-  "Ranking_EOS_Progress": 418,
+  "Ranking_EOS_Progress": 419,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-07-18T15:00:00+00:00",
     "PcReleaseDate": "2023-07-18T15:00:00+00:00",
@@ -238,8 +238,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-01T13:14:13.8674761+00:00",
-  "LastChanged_Achievements": "2023-07-20T14:00:49.5886697+00:00",
+  "LastChanged_Achievements": "2023-07-20T15:02:15.7955037+00:00",
   "LastUpdate_AppInfo": "2023-07-14T13:57:07.8499913+00:00",
-  "LastUpdate_Ratings": "2023-07-20T13:57:17.6362731+00:00",
-  "LastUpdate_Achievements": "2023-07-20T14:00:49.5886943+00:00"
+  "LastUpdate_Ratings": "2023-07-20T14:57:04.8697713+00:00",
+  "LastUpdate_Achievements": "2023-07-20T15:02:15.795516+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_NewPlayers": 65,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38116,
+  "EOS_Progressed": 38117,
   "EOS_Completed": 190,
-  "EOS_NewPlayers": 667,
+  "EOS_NewPlayers": 661,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -9094,6 +9094,11 @@
       "Time": "2023-07-20T14:03:32.6678549+00:00",
       "NumProgressed": 38116,
       "NumCompleted": 190
+    },
+    {
+      "Time": "2023-07-20T15:03:42.6099792+00:00",
+      "NumProgressed": 38117,
+      "NumCompleted": 190
     }
   ],
   "TotalAchievements": 44,
@@ -9105,7 +9110,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 21726
+      "UsersEstimate": 21727
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -9121,7 +9126,7 @@
       "Name": "Embers",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 8004
+      "UsersEstimate": 8005
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -9153,7 +9158,7 @@
       "Name": "Hatching",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3430
+      "UsersEstimate": 3431
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -9161,7 +9166,7 @@
       "Name": "Bonds",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 3430
+      "UsersEstimate": 3431
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -9209,7 +9214,7 @@
       "Name": "The Lion\u2019s Den",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1144
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -9217,7 +9222,7 @@
       "Name": "Heart of Fire",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1144
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -9225,7 +9230,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 30493
+      "UsersEstimate": 30494
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -9249,7 +9254,7 @@
       "Name": "Get Over Here",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3430
+      "UsersEstimate": 3431
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -9273,7 +9278,7 @@
       "Name": "The Hidden Village",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 3430
+      "UsersEstimate": 3431
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -9329,7 +9334,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 21345
+      "UsersEstimate": 21346
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -9345,7 +9350,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 24013
+      "UsersEstimate": 24014
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -9353,7 +9358,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 10291
+      "UsersEstimate": 10292
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -9409,7 +9414,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 17152
+      "UsersEstimate": 17153
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -9433,7 +9438,7 @@
       "Name": "Forest Spirits",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1144
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -9441,7 +9446,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 35448
+      "UsersEstimate": 35449
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -9449,14 +9454,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 19820
+      "UsersEstimate": 19821
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 38116,
+      "Progressed": 38117,
       "Completed": 190
     }
   ],
@@ -9464,8 +9469,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-06-11T14:58:10.4478603+00:00",
-  "LastChanged_Achievements": "2023-07-20T14:03:32.6678542+00:00",
+  "LastChanged_Achievements": "2023-07-20T15:03:42.6099787+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:14.384662+00:00",
-  "LastUpdate_Ratings": "2023-07-20T13:58:36.9595414+00:00",
-  "LastUpdate_Achievements": "2023-07-20T14:03:32.6680193+00:00"
+  "LastUpdate_Ratings": "2023-07-20T14:58:31.9640348+00:00",
+  "LastUpdate_Achievements": "2023-07-20T15:03:42.6100492+00:00"
 }

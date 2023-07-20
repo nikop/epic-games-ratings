@@ -2,13 +2,13 @@
   "ID": "e4ef0c8c500a41eaa57c53d32410595d",
   "Name": "Citizen Sleeper",
   "ProductSlug": "citizen-sleeper-944858",
-  "Ranking_Rating": 59,
+  "Ranking_Rating": 58,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
-  "Ranking_EOS_Progress": 499,
+  "Ranking_EOS_Progress": 500,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 306,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2022-05-05T15:00:00+00:00",
@@ -169,6 +169,6 @@
   "FirstSeen": "2022-07-22T20:29:38.6644605+00:00",
   "LastChanged": "2023-06-03T14:57:32.2853804+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:20.0135438+00:00",
-  "LastUpdate_Ratings": "2023-07-20T13:57:54.2719877+00:00",
-  "LastUpdate_Achievements": "2023-07-20T14:03:47.7449115+00:00"
+  "LastUpdate_Ratings": "2023-07-20T14:57:42.7563023+00:00",
+  "LastUpdate_Achievements": "2023-07-20T15:03:57.0610802+00:00"
 }

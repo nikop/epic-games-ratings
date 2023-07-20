@@ -7,18 +7,18 @@ Number of Ratings: 5,603  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Lawbringer | 37.00% | ~20,777 |
-| Landlord | 31.00% | ~17,407 |
+| Landlord | 31.00% | ~17,408 |
 | Bannerlord | 22.00% | ~12,354 |
 | Horde breaker | 22.00% | ~12,354 |
 | Lawmaker | 22.00% | ~12,354 |
-| Trained | 21.00% | ~11,792 |
+| Trained | 21.00% | ~11,793 |
 | The king is pleased | 17.00% | ~9,546 |
-| King Solomon | 16.00% | ~8,984 |
+| King Solomon | 16.00% | ~8,985 |
 | I can do it | 15.00% | ~8,423 |
-| Apple of my eye | 14.00% | ~7,861 |
-| God of the Arena | 12.00% | ~6,738 |
+| Apple of my eye | 14.00% | ~7,862 |
+| God of the Arena | 12.00% | ~6,739 |
 | Against all odds | 11.00% | ~6,177 |
-| Swordbearer | 10.00% | ~5,615 |
+| Swordbearer | 10.00% | ~5,616 |
 | Duelist | 9.00% | ~5,054 |
 | Dynasty | 9.00% | ~5,054 |
 | I spit on your grave | 9.00% | ~5,054 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,153 (Ranked 83)  
+Progressed: 56,155 (Ranked 83)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,10 +149,10 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-17 | 55,989 | 0 |
 | 2023-07-18 | 56,063 | 0 |
 | 2023-07-19 | 56,130 | 0 |
-| 2023-07-20 | 56,153 | 0 |
+| 2023-07-20 | 56,155 | 0 |
 ## Awards
 Max (Character Customization): 6,820  (Ranked 48)  
-Sum: 13,806 (Ranked 67)  
+Sum: 13,807 (Ranked 67)  
 Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |
@@ -160,7 +160,7 @@ Diff (max vs sum): -19
 | This game is Great for Beginners | 889 |
 | This game has Diverse Characters | 865 |
 | This game is Highly Recommended | 823 |
-| This game is Extremely Fun | 782 |
+| This game is Extremely Fun | 783 |
 | This game has Amazing Storytelling | 781 |
 | This game is Relaxing | 762 |
 | This game has Quickly Understood Controls | 759 |
@@ -357,4 +357,4 @@ Diff (max vs sum): -19
 | 2023-07-17 | 4.74 | - | 6,809 | 13,779 |
 | 2023-07-18 | 4.74 | - | 6,813 | 13,787 |
 | 2023-07-19 | 4.74 | - | 6,820 | 13,804 |
-| 2023-07-20 | 4.74 | - | 6,820 | 13,806 |
+| 2023-07-20 | 4.74 | - | 6,820 | 13,807 |

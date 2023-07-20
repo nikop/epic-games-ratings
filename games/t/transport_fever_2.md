@@ -19,7 +19,7 @@ Number of Ratings: 180  (23.09.2022)
 | Transport millionaire | 55.00% | ~796 |
 | Cargo hub | 54.00% | ~782 |
 | Transport master | 53.00% | ~767 |
-| Cadet | 52.00% | ~753 |
+| Cadet | 53.00% | ~767 |
 | Sculpturer | 50.00% | ~724 |
 | Settled down | 49.00% | ~710 |
 | First electric train arrived | 47.00% | ~681 |

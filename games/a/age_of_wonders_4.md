@@ -10,16 +10,17 @@ Rating: 4.63 (Ranked 330)
 | Realm Estate | 4.00% | ~201 |
 | A Wonderful Discovery | 4.00% | ~201 |
 | Walls Cannot Stop Us | 4.00% | ~201 |
+| From Friends to Family | 4.00% | ~201 |
 | Magical Synergy | 4.00% | ~201 |
 | Blood of the Dragon | 4.00% | ~201 |
 | Mighty Hoard | 4.00% | ~201 |
 | There Can Only Be One! | 3.00% | ~151 |
 | Full Ascension | 3.00% | ~151 |
 | Bone Peddler | 3.00% | ~151 |
-| From Friends to Family | 3.00% | ~151 |
 | Stronger Together | 3.00% | ~151 |
 | My Final Form | 3.00% | ~151 |
 | Seat of Power | 3.00% | ~151 |
+| In a Liege of Your Own | 3.00% | ~151 |
 | Fiery Friend | 3.00% | ~151 |
 | Against the Odds | 3.00% | ~151 |
 | Impenetrable Fortress | 3.00% | ~151 |
@@ -36,7 +37,6 @@ Rating: 4.63 (Ranked 330)
 | The Goddess of Nature | 2.00% | ~100 |
 | Digging for Treasure | 2.00% | ~100 |
 | Preparation Is Everything | 2.00% | ~100 |
-| In a Liege of Your Own | 2.00% | ~100 |
 | Duality | 2.00% | ~100 |
 | Eternal Lord | 1.00% | ~50 |
 | Crimson Caldera | 1.00% | ~50 |
@@ -56,7 +56,7 @@ Rating: 4.63 (Ranked 330)
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,020 (Ranked 136)  
+Progressed: 5,021 (Ranked 136)  
 Completed: 5 (0.10%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 5 (0.10%) (Ranked 185)
 | 2023-07-17 | 5,009 | 5 |
 | 2023-07-18 | 5,010 | 5 |
 | 2023-07-19 | 5,014 | 5 |
-| 2023-07-20 | 5,020 | 5 |
+| 2023-07-20 | 5,021 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

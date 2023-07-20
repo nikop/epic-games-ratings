@@ -32,10 +32,10 @@ Rating: 4.64 (Ranked 311)
 | Read It And Weep | 22.00% | ~117 |
 | Curiosity Killed The Cat | 21.00% | ~111 |
 | Big Breakthrough | 14.00% | ~74 |
-| Reawakened | 5.00% | ~26 |
+| Reawakened | 6.00% | ~32 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 530 (Ranked 211)  
-Completed: 24 (4.53%) (Ranked 45)  
+Completed: 25 (4.72%) (Ranked 43)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -116,6 +116,7 @@ Completed: 24 (4.53%) (Ranked 45)
 | 2023-07-14 | 525 | 24 |
 | 2023-07-16 | 529 | 24 |
 | 2023-07-17 | 530 | 24 |
+| 2023-07-20 | 530 | 25 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

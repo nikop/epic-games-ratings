@@ -2,10 +2,10 @@
   "ID": "0f4a57443f904107818acfc2068704f9",
   "Name": "Warhammer Age of Sigmar: Realms of Ruin",
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
-  "Ranking_EOS_Progress": 499,
+  "Ranking_EOS_Progress": 500,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 306,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-13T21:57:12.0771896+00:00",
-  "LastUpdate_Ratings": "2023-07-20T13:57:29.6691962+00:00",
-  "LastUpdate_Achievements": "2023-07-20T14:02:29.4539405+00:00"
+  "LastUpdate_Ratings": "2023-07-20T14:57:18.6307319+00:00",
+  "LastUpdate_Achievements": "2023-07-20T15:02:36.932333+00:00"
 }

@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dash Crash | 71.00% | ~234 |
+| Dash Crash | 72.00% | ~238 |
 | Be water, my friend | 65.00% | ~214 |
 | Snake Eyes | 60.00% | ~198 |
 | Fireball | 52.00% | ~172 |
@@ -16,7 +16,7 @@
 | Bomberman | 11.00% | ~36 |
 | Bubble Party | 9.00% | ~30 |
 | The Colossus | 8.00% | ~26 |
-| Floor is Lava | 6.00% | ~20 |
+| Floor is Lava | 7.00% | ~23 |
 | Pim Pam Pum | 6.00% | ~20 |
 | Black Belt | 5.00% | ~16 |
 | Ambush | 5.00% | ~16 |

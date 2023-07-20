@@ -6,28 +6,28 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 41.00% | ~5,745 |
+| Tattletale | 41.00% | ~5,746 |
 | Man of politics | 35.00% | ~4,905 |
-| Friends of sorts | 34.00% | ~4,764 |
-| Yet another secret | 34.00% | ~4,764 |
-| Let there be darkness | 33.00% | ~4,624 |
+| Friends of sorts | 34.00% | ~4,765 |
+| Yet another secret | 34.00% | ~4,765 |
+| Let there be darkness | 33.00% | ~4,625 |
 | End of Book One | 31.00% | ~4,344 |
 | Wannabe knight | 24.00% | ~3,363 |
 | Garden of Eden | 24.00% | ~3,363 |
 | Full house | 24.00% | ~3,363 |
 | Help an old friend | 22.00% | ~3,083 |
 | Two of us | 20.00% | ~2,803 |
-| Negotiation skills | 19.00% | ~2,662 |
-| Workers' union | 18.00% | ~2,522 |
-| End of Book Two | 18.00% | ~2,522 |
+| Negotiation skills | 19.00% | ~2,663 |
+| Workers' union | 18.00% | ~2,523 |
+| End of Book Two | 18.00% | ~2,523 |
 | Everything's in order | 17.00% | ~2,382 |
 | Jack was here! | 15.00% | ~2,102 |
 | Twist of Fate | 14.00% | ~1,962 |
 | Exterminator | 14.00% | ~1,962 |
 | Whodunnit | 13.00% | ~1,822 |
-| Good midwife | 11.00% | ~1,541 |
-| Friar Tuck | 11.00% | ~1,541 |
-| First profit | 11.00% | ~1,541 |
+| Good midwife | 11.00% | ~1,542 |
+| Friar Tuck | 11.00% | ~1,542 |
+| First profit | 11.00% | ~1,542 |
 | Team player | 10.00% | ~1,401 |
 | Skilled merchant | 9.00% | ~1,261 |
 | Nothing but make-believe | 9.00% | ~1,261 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~420 |
 | Boy of mystery | 2.00% | ~280 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,013 (Ranked 112)  
+Progressed: 14,014 (Ranked 112)  
 Completed: 105 (0.75%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 105 (0.75%) (Ranked 113)
 | 2023-07-17 | 13,965 | 105 |
 | 2023-07-18 | 13,991 | 105 |
 | 2023-07-19 | 14,004 | 105 |
-| 2023-07-20 | 14,013 | 105 |
+| 2023-07-20 | 14,014 | 105 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 293)  
 Sum: 188 (Ranked 367)  

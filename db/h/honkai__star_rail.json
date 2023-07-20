@@ -4,11 +4,11 @@
   "ProductSlug": "honkai-star-rail",
   "Ranking_Rating": 157,
   "Ranking_Popularity": 80,
-  "Ranking_PopularitySum": 118,
-  "Ranking_EOS_Progress": 499,
+  "Ranking_PopularitySum": 115,
+  "Ranking_EOS_Progress": 500,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 306,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-04-26T00:30:00+00:00",
     "PcReleaseDate": "2023-04-26T00:30:00+00:00",
@@ -1270,18 +1270,24 @@
       "Rating": 4.73,
       "NumberOfAwards": 6226,
       "NumberOfAwardsMax": 3693
+    },
+    {
+      "Time": "2023-07-20T15:00:34.6884594+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 6637,
+      "NumberOfAwardsMax": 3851
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6226,
-  "NumberOfAwardsMax": 3693,
+  "NumberOfAwards": 6637,
+  "NumberOfAwardsMax": 3851,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 3693
+      "Count": 3851
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1311,7 +1317,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 83
+      "Count": 253
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1362,8 +1368,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-26T04:02:27.1386143+00:00",
   "FirstSeenRating": "2023-04-26T04:02:27.1386204+00:00",
-  "LastChanged": "2023-07-20T06:01:08.2965134+00:00",
+  "LastChanged": "2023-07-20T15:00:34.6884592+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:36.1833892+00:00",
-  "LastUpdate_Ratings": "2023-07-20T14:00:32.2570987+00:00",
-  "LastUpdate_Achievements": "2023-07-20T14:04:52.7854927+00:00"
+  "LastUpdate_Ratings": "2023-07-20T15:00:34.6884597+00:00",
+  "LastUpdate_Achievements": "2023-07-20T15:05:08.7263043+00:00"
 }

@@ -14,9 +14,9 @@
 | Mr. Porter | 47.00% | ~7 |
 | Paw patrol member | 47.00% | ~7 |
 | Robot Out of Control | 47.00% | ~7 |
+| Training Day | 40.00% | ~6 |
+| The Fastest | 40.00% | ~6 |
 | Animal Sighting | 40.00% | ~6 |
-| Training Day | 33.00% | ~5 |
-| The Fastest | 33.00% | ~5 |
 | You Have Been Everywhere | 33.00% | ~5 |
 | Break Time | 27.00% | ~4 |
 | Master of the Rope | 27.00% | ~4 |
@@ -35,7 +35,7 @@
 | The Collector | 0.00% | ~0 |
 | Pup Treat Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15 (Ranked 386)  
+Progressed: 15 (Ranked 387)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
