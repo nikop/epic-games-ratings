@@ -49,14 +49,14 @@ Rating: 4.63 (Ranked 330)
 | Manufactured War | 0.60% | ~30 |
 | Snap Out of It! | 0.40% | ~20 |
 | Betrayal Most Foul | 0.30% | ~15 |
-| I Want to Break Free | 0.10% | ~5 |
+| I Want to Break Free | 0.20% | ~10 |
 | Master of Evilness | 0.10% | ~5 |
 | The Grey Wizard | 0.10% | ~5 |
 | Returning Circle | 0.10% | ~5 |
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,017 (Ranked 136)  
+Progressed: 5,018 (Ranked 136)  
 Completed: 5 (0.10%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 5 (0.10%) (Ranked 185)
 | 2023-07-17 | 5,009 | 5 |
 | 2023-07-18 | 5,010 | 5 |
 | 2023-07-19 | 5,014 | 5 |
-| 2023-07-20 | 5,017 | 5 |
+| 2023-07-20 | 5,018 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

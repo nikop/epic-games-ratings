@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4249,
+  "EOS_Progressed": 4250,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6431,6 +6431,11 @@
       "Time": "2023-07-20T09:07:03.9019915+00:00",
       "NumProgressed": 4249,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-20T11:08:05.1620766+00:00",
+      "NumProgressed": 4250,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -6506,7 +6511,7 @@
       "Name": "Cactus Vally",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "4",
@@ -6546,7 +6551,7 @@
       "Name": "Sunset Ridge",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "9",
@@ -6554,14 +6559,14 @@
       "Name": "Speed\u00A0walkers",
       "Percentage": 7,
       "XP": 65,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     }
   ],
   "AchievementSets": [
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 4249,
+      "Progressed": 4250,
       "Completed": 0
     }
   ],
@@ -6569,8 +6574,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-07-20T10:07:20.5735083+00:00",
+  "LastChanged_Achievements": "2023-07-20T11:08:05.1620759+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:39.4549072+00:00",
-  "LastUpdate_Ratings": "2023-07-20T09:58:32.6749314+00:00",
-  "LastUpdate_Achievements": "2023-07-20T10:07:20.5735566+00:00"
+  "LastUpdate_Ratings": "2023-07-20T10:58:45.0691259+00:00",
+  "LastUpdate_Achievements": "2023-07-20T11:08:05.162129+00:00"
 }

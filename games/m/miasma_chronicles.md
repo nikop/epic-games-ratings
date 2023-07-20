@@ -21,7 +21,7 @@ Rating: 4.39 (Ranked 703)
 | Sensei | 42.00% | ~517 |
 | The meaning of Kain | 40.00% | ~493 |
 | Technophobe | 39.00% | ~480 |
-| Recycler | 37.00% | ~456 |
+| Recycler | 38.00% | ~468 |
 | Are you not entertained? | 33.00% | ~407 |
 | Ganglord | 33.00% | ~407 |
 | Jarhead | 33.00% | ~407 |

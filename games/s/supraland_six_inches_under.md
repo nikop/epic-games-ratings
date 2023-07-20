@@ -24,12 +24,12 @@ Number of Ratings: 209  (23.09.2022)
 | Magnet Repel | 88.00% | ~1,898 |
 | You feel middle classy | 87.00% | ~1,877 |
 | Boomeraxe | 87.00% | ~1,877 |
+| Iron Pickaxe | 87.00% | ~1,877 |
 | Banking District | 86.00% | ~1,855 |
-| Iron Pickaxe | 86.00% | ~1,855 |
+| Mission Unlikely | 86.00% | ~1,855 |
 | Arrested | 85.00% | ~1,833 |
 | Zappy Gun | 85.00% | ~1,833 |
 | Got your own one now | 85.00% | ~1,833 |
-| Mission Unlikely | 85.00% | ~1,833 |
 | Don't draw dicks pls | 84.00% | ~1,812 |
 | Ripped | 84.00% | ~1,812 |
 | Beat the big arena | 83.00% | ~1,790 |

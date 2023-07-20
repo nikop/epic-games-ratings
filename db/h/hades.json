@@ -3781,9 +3781,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 698936,
+  "EOS_Progressed": 698937,
   "EOS_Completed": 6244,
-  "EOS_NewPlayers": 641,
+  "EOS_NewPlayers": 635,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.89,
   "EosHistory": [
@@ -13361,6 +13361,11 @@
       "Time": "2023-07-20T10:02:19.0618273+00:00",
       "NumProgressed": 698936,
       "NumCompleted": 6244
+    },
+    {
+      "Time": "2023-07-20T11:02:30.5503428+00:00",
+      "NumProgressed": 698937,
+      "NumCompleted": 6244
     }
   ],
   "TotalAchievements": 49,
@@ -13380,7 +13385,7 @@
       "Name": "War-God\u0027s Bloodlust",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 104840
+      "UsersEstimate": 104841
     },
     {
       "ID": "AchBeatCharon",
@@ -13436,7 +13441,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 559149
+      "UsersEstimate": 559150
     },
     {
       "ID": "AchClearElysium",
@@ -13460,7 +13465,7 @@
       "Name": "Hold the Onions",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 125808
+      "UsersEstimate": 125809
     },
     {
       "ID": "AchClearRun4thAspect",
@@ -13476,7 +13481,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 622053
+      "UsersEstimate": 622054
     },
     {
       "ID": "AchCrushedThanatos",
@@ -13484,7 +13489,7 @@
       "Name": "Death Dealer",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 314521
+      "UsersEstimate": 314522
     },
     {
       "ID": "AchEliteAttributeKills",
@@ -13540,7 +13545,7 @@
       "Name": "Friends in High Places",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 475276
+      "UsersEstimate": 475277
     },
     {
       "ID": "AchGreaterCallSpurned",
@@ -13564,7 +13569,7 @@
       "Name": "Day-or-Night Trader",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 258606
+      "UsersEstimate": 258607
     },
     {
       "ID": "AchManyCosmetics",
@@ -13660,7 +13665,7 @@
       "Name": "Blessed by the Gods",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 258606
+      "UsersEstimate": 258607
     },
     {
       "ID": "AchPickedManyHammers",
@@ -13668,7 +13673,7 @@
       "Name": "Tools of the Architect",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 160755
+      "UsersEstimate": 160756
     },
     {
       "ID": "AchPurgedLegendBoon",
@@ -13724,7 +13729,7 @@
       "Name": "Skelly Slayer",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 293553
+      "UsersEstimate": 293554
     },
     {
       "ID": "AchUnlockedAllWeapons",
@@ -13740,7 +13745,7 @@
       "Name": "Master of Arms",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 160755
+      "UsersEstimate": 160756
     },
     {
       "ID": "AchWellShopItems",
@@ -13748,7 +13753,7 @@
       "Name": "Well Stocked",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 279574
+      "UsersEstimate": 279575
     },
     {
       "ID": "ActUnlockedAllAspects",
@@ -13763,15 +13768,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 698936,
+      "Progressed": 698937,
       "Completed": 6244
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2023-07-19T15:58:10.4431741+00:00",
-  "LastChanged_Achievements": "2023-07-20T10:02:19.0618269+00:00",
+  "LastChanged_Achievements": "2023-07-20T11:02:30.5503424+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:16.4009112+00:00",
-  "LastUpdate_Ratings": "2023-07-20T09:58:16.3877533+00:00",
-  "LastUpdate_Achievements": "2023-07-20T10:02:19.0619272+00:00"
+  "LastUpdate_Ratings": "2023-07-20T10:58:24.7842384+00:00",
+  "LastUpdate_Achievements": "2023-07-20T11:02:30.5504439+00:00"
 }
