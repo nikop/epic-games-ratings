@@ -8,7 +8,7 @@
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 160,502 | 4.88 | 19 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 144,539 | 4.52 | 519 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 113,219 | 4.69 | 216 |
-| 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 73,607 | 4.62 | 347 |
+| 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 73,685 | 4.62 | 347 |
 | 10 | [VALORANT](games/v/valorant.md) | 61,451 | 4.53 | 508 |
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 59,182 | 4.58 | 424 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 41,288 | 4.61 | 365 |
@@ -45,9 +45,9 @@
 | 43 | [Supraland](games/s/supraland.md) | 7,647 | 4.61 | 365 |
 | 44 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,592 | 4.56 | 458 |
 | 45 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 7,585 | 4.48 | 587 |
-| 46 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,330 | 4.71 | 183 |
+| 46 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,335 | 4.71 | 183 |
 | 47 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 7,287 | 4.68 | 239 |
-| 48 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,820 | 4.74 | 143 |
+| 48 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,826 | 4.74 | 143 |
 | 49 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,709 | 4.71 | 183 |
 | 50 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 662 |
 | 51 | [DEATH STRANDING](games/d/death_stranding.md) | 6,373 | 4.77 | 109 |
@@ -68,7 +68,7 @@
 | 66 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,048 | 4.05 | 904 |
 | 67 | [Cities: Skylines](games/c/cities__skylines.md) | 4,968 | 4.65 | 297 |
 | 68 | [MultiVersus](games/m/multiversus.md) | 4,745 | 4.56 | 458 |
-| 69 | [Shop Titans](games/s/shop_titans.md) | 4,665 | 3.99 | 919 |
+| 69 | [Shop Titans](games/s/shop_titans.md) | 4,668 | 3.99 | 919 |
 | 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,557 | 4.69 | 216 |
 | 71 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,546 | 4.70 | 197 |
 | 72 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,425 | 4.70 | 197 |
@@ -82,7 +82,7 @@
 | 80 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 3,851 | 4.73 | 157 |
 | 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 3,685 | 4.77 | 109 |
 | 82 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,674 | 4.29 | 781 |
-| 83 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,539 | 4.57 | 440 |
+| 83 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,550 | 4.57 | 440 |
 | 84 | [Gloomhaven](games/g/gloomhaven.md) | 3,491 | 4.47 | 600 |
 | 85 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,449 | 4.46 | 609 |
 | 86 | [Paladins](games/p/paladins.md) | 3,413 | 4.34 | 749 |
@@ -123,14 +123,14 @@
 | 121 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,468 | 4.79 | 91 |
 | 122 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,463 | 4.81 | 76 |
 | 123 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,413 | 4.87 | 24 |
-| 124 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,393 | 4.62 | 347 |
+| 124 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,395 | 4.62 | 347 |
 | 125 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,353 | 4.79 | 91 |
-| 126 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,341 | 4.52 | 519 |
+| 126 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,344 | 4.52 | 519 |
 | 127 | [Conan Exiles](games/c/conan_exiles.md) | 1,335 | 4.54 | 494 |
 | 128 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,325 | 4.86 | 29 |
 | 129 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,307 | 4.70 | 197 |
 | 130 | [DOOM 64](games/d/doom_64.md) | 1,291 | 4.66 | 272 |
-| 131 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,216 | 4.54 | 494 |
+| 131 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,219 | 4.54 | 494 |
 | 132 | [XCOM® 2](games/x/xcom®_2.md) | 1,214 | 4.55 | 482 |
 | 133 | [World of Warships](games/w/world_of_warships.md) | 1,212 | 4.42 | 662 |
 | 134 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,180 | 4.69 | 216 |
@@ -312,8 +312,8 @@
 | 309 | [Sonic Origins](games/s/sonic_origins.md) | 122 | 4.58 | 424 |
 | 311 | [Aven Colony](games/a/aven_colony.md) | 121 | 4.20 | 838 |
 | 311 | [Going Medieval](games/g/going_medieval.md) | 121 | 4.60 | 391 |
-| 313 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 119 | 4.79 | 91 |
-| 314 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 118 | 4.57 | 440 |
+| 313 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 120 | 4.57 | 440 |
+| 314 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 119 | 4.79 | 91 |
 | 315 | [BIOMUTANT](games/b/biomutant.md) | 117 | 4.33 | 757 |
 | 315 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 117 | 4.71 | 183 |
 | 317 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 115 | 4.75 | 133 |

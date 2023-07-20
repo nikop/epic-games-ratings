@@ -98,7 +98,7 @@
 | 91 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 1,353 | 125 |
 | 91 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,930 | 56 |
 | 91 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 380 | 215 |
-| 91 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 119 | 313 |
+| 91 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 119 | 314 |
 | 100 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 0 | 505 |
 | 100 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,512 | 36 |
 | 100 | [Journey](games/j/journey.md) | 4.78 | 0 | 505 |
@@ -146,7 +146,7 @@
 | 143 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 626 | 172 |
 | 143 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 797 | 153 |
 | 143 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 643 | 170 |
-| 143 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,820 | 48 |
+| 143 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,826 | 48 |
 | 143 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.74 | 0 | 505 |
 | 143 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 34,719 | 14 |
 | 143 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 0 | 505 |
@@ -188,7 +188,7 @@
 | 183 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 0 | 505 |
 | 183 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,709 | 49 |
 | 183 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 435 |
-| 183 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,330 | 46 |
+| 183 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,335 | 46 |
 | 183 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.71 | 0 | 505 |
 | 183 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.71 | 0 | 505 |
 | 183 | [Northgard](games/n/northgard.md) | 4.71 | 30 | 457 |
@@ -347,10 +347,10 @@
 | 330 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.63 | 20 | 502 |
 | 330 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.63 | 0 | 505 |
 | 347 | [ABZU](games/a/abzu.md) | 4.62 | 0 | 505 |
-| 347 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 73,607 | 9 |
+| 347 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 73,685 | 9 |
 | 347 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 279 | 238 |
 | 347 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 34 | 439 |
-| 347 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,393 | 124 |
+| 347 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,395 | 124 |
 | 347 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 549 | 186 |
 | 347 | [Limbo](games/l/limbo.md) | 4.62 | 0 | 505 |
 | 347 | [NORCO](games/n/norco.md) | 4.62 | 0 | 505 |
@@ -449,10 +449,10 @@
 | 440 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 37 | 429 |
 | 440 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,172 | 91 |
 | 440 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.57 | 5,582 | 60 |
-| 440 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.57 | 118 | 314 |
+| 440 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.57 | 120 | 313 |
 | 440 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 505 |
 | 440 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.57 | 27 | 466 |
-| 440 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 3,539 | 83 |
+| 440 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 3,550 | 83 |
 | 440 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.57 | 30 | 457 |
 | 440 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 18,979 | 19 |
 | 440 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,756 | 115 |
@@ -497,7 +497,7 @@
 | 494 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,335 | 127 |
 | 494 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 5,297 | 64 |
 | 494 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 443 |
-| 494 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,216 | 131 |
+| 494 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,219 | 131 |
 | 494 | [GRIME](games/g/grime.md) | 4.54 | 0 | 505 |
 | 494 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.54 | 0 | 505 |
 | 494 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 71 | 374 |
@@ -527,7 +527,7 @@
 | 519 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 102 | 330 |
 | 519 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 148 | 293 |
 | 519 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 122 | 309 |
-| 519 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 1,341 | 126 |
+| 519 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 1,344 | 126 |
 | 519 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 0 | 505 |
 | 519 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 289 | 235 |
 | 519 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 0 | 505 |
@@ -919,7 +919,7 @@
 | 917 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.00 | 0 | 505 |
 | 917 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 0 | 505 |
 | 919 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 372 | 217 |
-| 919 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,665 | 69 |
+| 919 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,668 | 69 |
 | 921 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 505 |
 | 922 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 0 | 505 |
 | 922 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.97 | 0 | 505 |
@@ -952,4 +952,4 @@
 | 950 | [Chainmonsters](games/c/chainmonsters.md) | 3.68 | 0 | 505 |
 | 951 | [Redfall](games/r/redfall.md) | 3.51 | 0 | 505 |
 | 952 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.49 | 0 | 505 |
-| 953 | [Adios](games/a/adios.md) | 3.41 | 0 | 505 |
+| 953 | [Adios](games/a/adios.md) | 3.43 | 0 | 505 |
