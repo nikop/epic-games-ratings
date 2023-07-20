@@ -3,7 +3,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 45.00% | ~9 |
+| Break Out | 50.00% | ~10 |
 | Calm before the Storm | 30.00% | ~6 |
 | Trinity | 25.00% | ~5 |
 | Flawless Victory | 25.00% | ~5 |

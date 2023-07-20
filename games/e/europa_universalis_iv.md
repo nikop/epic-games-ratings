@@ -6,31 +6,31 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~6,464 |
-| That's a Grand Army | 8.00% | ~5,746 |
-| That is mine! | 8.00% | ~5,746 |
-| Victorious! | 8.00% | ~5,746 |
-| Brothers in Arms | 6.00% | ~4,309 |
-| That's a Grand Navy | 6.00% | ~4,309 |
-| Seriously?! | 6.00% | ~4,309 |
-| For the Glory | 5.00% | ~3,591 |
-| Cold War | 4.00% | ~2,873 |
-| True Catholic | 4.00% | ~2,873 |
+| Until death do us apart | 9.00% | ~6,466 |
+| That's a Grand Army | 8.00% | ~5,747 |
+| That is mine! | 8.00% | ~5,747 |
+| Victorious! | 8.00% | ~5,747 |
+| Brothers in Arms | 6.00% | ~4,311 |
+| That's a Grand Navy | 6.00% | ~4,311 |
+| Seriously?! | 6.00% | ~4,311 |
+| For the Glory | 5.00% | ~3,592 |
+| Cold War | 4.00% | ~2,874 |
+| True Catholic | 4.00% | ~2,874 |
 | Defender of the Faith | 3.00% | ~2,155 |
 | It's all about luck | 3.00% | ~2,155 |
 | It's all about the money | 3.00% | ~2,155 |
 | Respected | 3.00% | ~2,155 |
 | The Princess is in this Castle | 3.00% | ~2,155 |
 | Truly Divine Ruler | 3.00% | ~2,155 |
-| Agressive Expander | 2.00% | ~1,436 |
-| Blockader | 2.00% | ~1,436 |
-| Combined Arms | 2.00% | ~1,436 |
-| Double the Love | 2.00% | ~1,436 |
-| Gentle Persuasion | 2.00% | ~1,436 |
-| My armies are invincible! | 2.00% | ~1,436 |
-| Queen of Conquest | 2.00% | ~1,436 |
-| Royal Authority | 2.00% | ~1,436 |
-| Total Control | 2.00% | ~1,436 |
+| Agressive Expander | 2.00% | ~1,437 |
+| Blockader | 2.00% | ~1,437 |
+| Combined Arms | 2.00% | ~1,437 |
+| Double the Love | 2.00% | ~1,437 |
+| Gentle Persuasion | 2.00% | ~1,437 |
+| My armies are invincible! | 2.00% | ~1,437 |
+| Queen of Conquest | 2.00% | ~1,437 |
+| Royal Authority | 2.00% | ~1,437 |
+| Total Control | 2.00% | ~1,437 |
 | All That's Thine Shall Be Mine | 1.00% | ~718 |
 | Azur semé de lis or | 1.00% | ~718 |
 | Bright Spark | 1.00% | ~718 |
@@ -40,9 +40,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Golden Empire | 1.00% | ~718 |
 | The Five Colonies | 1.00% | ~718 |
 | This navy can take it all | 1.00% | ~718 |
-| Isn't this the way to India? | 0.90% | ~646 |
-| Market Control | 0.90% | ~646 |
-| Trustworthy | 0.90% | ~646 |
+| Isn't this the way to India? | 0.90% | ~647 |
+| Market Control | 0.90% | ~647 |
+| Trustworthy | 0.90% | ~647 |
 | Down Under | 0.80% | ~575 |
 | Electable! | 0.70% | ~503 |
 | Populists in Government | 0.70% | ~503 |
@@ -71,17 +71,17 @@ Number of Ratings: 8,414  (23.09.2022)
 | Tear Down This Wall | 0.40% | ~287 |
 | The Continuation of Diplomacy | 0.40% | ~287 |
 | Wonderful | 0.40% | ~287 |
-| A Decent Reserve | 0.30% | ~215 |
-| A Pile of Gold | 0.30% | ~215 |
-| Grand Duchy | 0.30% | ~215 |
-| Multiculturalism | 0.30% | ~215 |
-| No Pirates in my Caribbean | 0.30% | ~215 |
-| Not so sad a state... | 0.30% | ~215 |
-| The Chrysanthemum Throne | 0.30% | ~215 |
-| Three Trivial Tributary Tribes | 0.30% | ~215 |
-| Traditional Player | 0.30% | ~215 |
-| Vasa or Wettin? | 0.30% | ~215 |
-| World Discoverer | 0.30% | ~215 |
+| A Decent Reserve | 0.30% | ~216 |
+| A Pile of Gold | 0.30% | ~216 |
+| Grand Duchy | 0.30% | ~216 |
+| Multiculturalism | 0.30% | ~216 |
+| No Pirates in my Caribbean | 0.30% | ~216 |
+| Not so sad a state... | 0.30% | ~216 |
+| The Chrysanthemum Throne | 0.30% | ~216 |
+| Three Trivial Tributary Tribes | 0.30% | ~216 |
+| Traditional Player | 0.30% | ~216 |
+| Vasa or Wettin? | 0.30% | ~216 |
+| World Discoverer | 0.30% | ~216 |
 | A Protected Market | 0.20% | ~144 |
 | AAA Credit | 0.20% | ~144 |
 | An early Reich | 0.20% | ~144 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71,823 (Ranked 74)  
+Progressed: 71,842 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -452,7 +452,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-17 | 70,990 | 0 |
 | 2023-07-18 | 71,380 | 0 |
 | 2023-07-19 | 71,730 | 0 |
-| 2023-07-20 | 71,823 | 0 |
+| 2023-07-20 | 71,842 | 0 |
 ## Awards
 Max (Educational): 5,565  (Ranked 60)  
 Sum: 45,855 (Ranked 26)  

@@ -6,20 +6,20 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cost of Heroism | 37.00% | ~490 |
+| The Cost of Heroism | 37.00% | ~491 |
 | Me and My Familiar | 35.00% | ~464 |
 | This Too Shall Pass | 30.00% | ~398 |
-| Passing Shadow | 29.00% | ~384 |
+| Passing Shadow | 29.00% | ~385 |
 | Cutthroat Competitors | 28.00% | ~371 |
-| How Romantic! | 26.00% | ~344 |
-| Daybreak | 26.00% | ~344 |
+| How Romantic! | 26.00% | ~345 |
+| Daybreak | 26.00% | ~345 |
 | Gotta Ca... Must Collect All of Them | 24.00% | ~318 |
 | Completing the Look | 14.00% | ~186 |
-| War Endured | 14.00% | ~186 |
 | Who's Counting? | 13.00% | ~172 |
+| War Endured | 13.00% | ~172 |
 | Core Failure | 13.00% | ~172 |
 | A Mythic Menagerie | 12.00% | ~159 |
-| Pyrrhic Victory | 10.00% | ~132 |
+| Pyrrhic Victory | 10.00% | ~133 |
 | Thematic Divergence | 9.00% | ~119 |
 | Echoes Die | 9.00% | ~119 |
 | Chain Reaction | 8.00% | ~106 |
@@ -46,16 +46,16 @@ Number of Ratings: 45  (23.09.2022)
 | Into Mulch | 3.00% | ~40 |
 | Astrology | 3.00% | ~40 |
 | Lochias's Hunger | 3.00% | ~40 |
-| The Power of Friendship | 2.00% | ~26 |
-| Empty the Caves | 2.00% | ~26 |
-| Drauvenslayers | 2.00% | ~26 |
-| Back into the Sea | 2.00% | ~26 |
-| War-Ender | 2.00% | ~26 |
-| Fight Like a Bird | 2.00% | ~26 |
-| Solid as the Hills | 2.00% | ~26 |
-| Symbiosis | 2.00% | ~26 |
-| Tempest | 2.00% | ~26 |
-| A Temperamental Shrub | 2.00% | ~26 |
+| The Power of Friendship | 2.00% | ~27 |
+| Empty the Caves | 2.00% | ~27 |
+| Drauvenslayers | 2.00% | ~27 |
+| Back into the Sea | 2.00% | ~27 |
+| War-Ender | 2.00% | ~27 |
+| Fight Like a Bird | 2.00% | ~27 |
+| Solid as the Hills | 2.00% | ~27 |
+| Symbiosis | 2.00% | ~27 |
+| Tempest | 2.00% | ~27 |
+| A Temperamental Shrub | 2.00% | ~27 |
 | A Lowly Crust of Beef | 1.00% | ~13 |
 | I'm Not Smiling | 1.00% | ~13 |
 | Thwack! | 1.00% | ~13 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | We Call That Mortificient! | 0.80% | ~11 |
 | Peacemaker | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,325 (Ranked 178)  
+Progressed: 1,326 (Ranked 178)  
 Completed: 5 (0.38%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 5 (0.38%) (Ranked 140)
 | 2023-07-17 | 1,322 | 5 |
 | 2023-07-18 | 1,323 | 5 |
 | 2023-07-19 | 1,324 | 5 |
-| 2023-07-20 | 1,325 | 5 |
+| 2023-07-20 | 1,326 | 5 |
 ## Awards
 Max (Character Customization): 28  (Ranked 462)  
 Sum: 28 (Ranked 474)  

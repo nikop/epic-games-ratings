@@ -1383,9 +1383,9 @@
       "ID": "ach_waves_1",
       "SetID": "bf10c8p",
       "Name": "Survivor",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ach_waves_10",
@@ -1534,8 +1534,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-07-20T09:05:20.958542+00:00",
+  "LastChanged_Achievements": "2023-07-20T10:05:37.391003+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:09.0796532+00:00",
-  "LastUpdate_Ratings": "2023-07-20T08:58:53.3635929+00:00",
-  "LastUpdate_Achievements": "2023-07-20T09:05:20.95863+00:00"
+  "LastUpdate_Ratings": "2023-07-20T09:58:49.9517999+00:00",
+  "LastUpdate_Achievements": "2023-07-20T10:05:37.3910874+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -1259,9 +1259,9 @@
       "ID": "NotPlanned",
       "SetID": "1e89b4i",
       "Name": "This Wasn\u0027t Part of the Plan...",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 64
     },
     {
       "ID": "Ownway",
@@ -1378,8 +1378,8 @@
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-07-20T09:04:22.5356313+00:00",
+  "LastChanged_Achievements": "2023-07-20T10:04:38.1029131+00:00",
   "LastUpdate_AppInfo": "2023-07-18T08:57:06.2338611+00:00",
-  "LastUpdate_Ratings": "2023-07-20T08:57:20.9331384+00:00",
-  "LastUpdate_Achievements": "2023-07-20T09:04:22.5356725+00:00"
+  "LastUpdate_Ratings": "2023-07-20T09:57:19.7011622+00:00",
+  "LastUpdate_Achievements": "2023-07-20T10:04:38.1029504+00:00"
 }

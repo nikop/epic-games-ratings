@@ -6,97 +6,97 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 69.00% | ~207,064 |
-| Full garage | 56.00% | ~168,052 |
-| To the eyeballs! | 47.00% | ~141,044 |
-| Individual delivery | 42.00% | ~126,039 |
-| Non-Stop | 41.00% | ~123,038 |
-| Juggler | 32.00% | ~96,030 |
-| Forgot something | 30.00% | ~90,028 |
-| Close call! | 26.00% | ~78,024 |
-| Get out my way | 23.00% | ~69,021 |
-| Common cause | 21.00% | ~63,020 |
-| Critical care | 21.00% | ~63,020 |
-| Upgrade complete | 19.00% | ~57,018 |
-| Mega-railroad | 18.00% | ~54,017 |
-| Just in time! | 13.00% | ~39,012 |
-| Builder | 12.00% | ~36,011 |
-| Long Haul | 12.00% | ~35,932 |
-| Steam Age | 11.00% | ~33,010 |
-| Multilevel road | 10.00% | ~30,009 |
-| Need to think | 10.00% | ~30,009 |
-| The Tortoise | 10.00% | ~30,009 |
-| Bridgemania | 9.00% | ~27,008 |
-| Beginner | 6.00% | ~18,006 |
-| Relocation | 6.00% | ~18,006 |
-| Without a lunch break | 6.00% | ~18,006 |
-| One way | 5.00% | ~15,005 |
-| At the last moment! | 4.00% | ~12,004 |
-| Highlander | 4.00% | ~12,004 |
-| Industrial Age | 4.00% | ~12,004 |
-| Prick of conscience | 4.00% | ~12,004 |
-| Just One More Valley | 4.00% | ~11,977 |
-| Missed it! | 3.00% | ~9,003 |
-| Jewelry accuracy | 2.00% | ~6,002 |
-| Overseer | 2.00% | ~6,002 |
-| Squander | 1.00% | ~3,001 |
-| Stargazer | 1.00% | ~3,001 |
-| The Hare | 1.00% | ~3,001 |
-| Electrical Age | 0.80% | ~2,401 |
-| Large construction | 0.80% | ~2,401 |
-| Bridge builder | 0.60% | ~1,801 |
-| Sabotage | 0.60% | ~1,801 |
-| Engineer | 0.40% | ~1,200 |
-| Living it large | 0.40% | ~1,200 |
-| Woodcutter | 0.40% | ~1,200 |
-| Will work | 0.30% | ~900 |
-| Astronomer | 0.20% | ~600 |
-| Globalisation Age | 0.20% | ~600 |
-| Lucky vandal | 0.20% | ~600 |
-| Ouroboros | 0.20% | ~600 |
-| Vandal | 0.20% | ~600 |
-| Test Batch | 0.20% | ~599 |
-| Achiever | 0.10% | ~300 |
-| Alchemist | 0.10% | ~300 |
-| Arcturus | 0.10% | ~299 |
-| Astrochemist | 0.10% | ~299 |
-| Astrophysicist | 0.10% | ~300 |
-| Atomic Age | 0.10% | ~299 |
-| BBQ | 0.10% | ~300 |
-| Digital Age | 0.10% | ~299 |
-| Environmental activist | 0.10% | ~300 |
-| Forgotten | 0.10% | ~300 |
-| Gemologist | 0.10% | ~299 |
-| Information Age | 0.10% | ~299 |
-| Innovator | 0.10% | ~300 |
-| It's no coincidence | 0.10% | ~300 |
-| Jeweller | 0.10% | ~299 |
-| Metro builder | 0.10% | ~300 |
-| Miner | 0.10% | ~299 |
-| Miscalculation | 0.10% | ~300 |
-| Pink Ruby | 0.10% | ~299 |
-| Railroad tycoon | 0.10% | ~300 |
-| Space Age | 0.10% | ~300 |
-| Star Sapphire | 0.10% | ~299 |
-| The Hare with an espresso | 0.10% | ~300 |
-| Tourism Age | 0.10% | ~300 |
-| Trapiche Emerald | 0.10% | ~299 |
-| Urbanization Age | 0.10% | ~300 |
-| Vostok | 0.10% | ~299 |
-| Voyager | 0.10% | ~300 |
-| Across The Infinite | 0.10% | ~299 |
-| Knowing The Ropes | 0.10% | ~299 |
-| Maiden Voyage | 0.10% | ~299 |
-| Mass Production | 0.10% | ~299 |
-| Occupied! | 0.10% | ~299 |
-| Open Sesame! | 0.10% | ~299 |
-| Please Come Back Later | 0.10% | ~299 |
-| Running A Tight Ship | 0.10% | ~299 |
-| The Explorer | 0.10% | ~299 |
-| Whoooosh! | 0.10% | ~299 |
-| World Zapper | 0.10% | ~299 |
+| Dealmaker | 69.00% | ~207,718 |
+| Full garage | 56.00% | ~168,582 |
+| To the eyeballs! | 47.00% | ~141,489 |
+| Individual delivery | 42.00% | ~126,437 |
+| Non-Stop | 41.00% | ~123,426 |
+| Juggler | 32.00% | ~96,333 |
+| Forgot something | 30.00% | ~90,312 |
+| Close call! | 26.00% | ~78,270 |
+| Get out my way | 23.00% | ~69,239 |
+| Common cause | 21.00% | ~63,218 |
+| Critical care | 21.00% | ~63,218 |
+| Upgrade complete | 19.00% | ~57,198 |
+| Mega-railroad | 18.00% | ~54,187 |
+| Just in time! | 13.00% | ~39,135 |
+| Builder | 12.00% | ~36,125 |
+| Long Haul | 12.00% | ~36,046 |
+| Steam Age | 11.00% | ~33,114 |
+| Multilevel road | 10.00% | ~30,104 |
+| Need to think | 10.00% | ~30,104 |
+| The Tortoise | 10.00% | ~30,104 |
+| Bridgemania | 9.00% | ~27,094 |
+| Without a lunch break | 7.00% | ~21,073 |
+| Beginner | 6.00% | ~18,062 |
+| Relocation | 6.00% | ~18,062 |
+| One way | 5.00% | ~15,052 |
+| At the last moment! | 4.00% | ~12,042 |
+| Highlander | 4.00% | ~12,042 |
+| Industrial Age | 4.00% | ~12,042 |
+| Prick of conscience | 4.00% | ~12,042 |
+| Just One More Valley | 4.00% | ~12,015 |
+| Missed it! | 3.00% | ~9,031 |
+| Jewelry accuracy | 2.00% | ~6,021 |
+| Overseer | 2.00% | ~6,021 |
+| Squander | 1.00% | ~3,010 |
+| Stargazer | 1.00% | ~3,010 |
+| The Hare | 1.00% | ~3,010 |
+| Electrical Age | 0.80% | ~2,408 |
+| Large construction | 0.80% | ~2,408 |
+| Bridge builder | 0.60% | ~1,806 |
+| Sabotage | 0.60% | ~1,806 |
+| Engineer | 0.40% | ~1,204 |
+| Living it large | 0.40% | ~1,204 |
+| Woodcutter | 0.40% | ~1,204 |
+| Will work | 0.30% | ~903 |
+| Astronomer | 0.20% | ~602 |
+| Globalisation Age | 0.20% | ~602 |
+| Lucky vandal | 0.20% | ~602 |
+| Ouroboros | 0.20% | ~602 |
+| Vandal | 0.20% | ~602 |
+| Test Batch | 0.20% | ~601 |
+| Achiever | 0.10% | ~301 |
+| Alchemist | 0.10% | ~301 |
+| Arcturus | 0.10% | ~300 |
+| Astrochemist | 0.10% | ~300 |
+| Astrophysicist | 0.10% | ~301 |
+| Atomic Age | 0.10% | ~300 |
+| BBQ | 0.10% | ~301 |
+| Digital Age | 0.10% | ~300 |
+| Environmental activist | 0.10% | ~301 |
+| Forgotten | 0.10% | ~301 |
+| Gemologist | 0.10% | ~300 |
+| Information Age | 0.10% | ~300 |
+| Innovator | 0.10% | ~301 |
+| It's no coincidence | 0.10% | ~301 |
+| Jeweller | 0.10% | ~300 |
+| Metro builder | 0.10% | ~301 |
+| Miner | 0.10% | ~300 |
+| Miscalculation | 0.10% | ~301 |
+| Pink Ruby | 0.10% | ~300 |
+| Railroad tycoon | 0.10% | ~301 |
+| Space Age | 0.10% | ~301 |
+| Star Sapphire | 0.10% | ~300 |
+| The Hare with an espresso | 0.10% | ~301 |
+| Tourism Age | 0.10% | ~301 |
+| Trapiche Emerald | 0.10% | ~300 |
+| Urbanization Age | 0.10% | ~301 |
+| Vostok | 0.10% | ~300 |
+| Voyager | 0.10% | ~301 |
+| Across The Infinite | 0.10% | ~300 |
+| Knowing The Ropes | 0.10% | ~300 |
+| Maiden Voyage | 0.10% | ~300 |
+| Mass Production | 0.10% | ~300 |
+| Occupied! | 0.10% | ~300 |
+| Open Sesame! | 0.10% | ~300 |
+| Please Come Back Later | 0.10% | ~300 |
+| Running A Tight Ship | 0.10% | ~300 |
+| The Explorer | 0.10% | ~300 |
+| Whoooosh! | 0.10% | ~300 |
+| World Zapper | 0.10% | ~300 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 300,093 (Ranked 41)  
+Progressed: 301,040 (Ranked 41)  
 Completed: 4 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 4 (0.00%) (Ranked 238)
 | 2023-07-17 | 243,757 | 3 |
 | 2023-07-18 | 270,391 | 4 |
 | 2023-07-19 | 293,291 | 4 |
-| 2023-07-20 | 300,093 | 4 |
+| 2023-07-20 | 301,040 | 4 |
 ## Awards
 Max (Challenging Puzzles): 97  (Ranked 335)  
 Sum: 117 (Ranked 403)  
