@@ -29,16 +29,16 @@
 | 27 | [Smelter](games/s/smelter.md) | 8.11% |
 | 28 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.46% |
 | 29 | [Ravenlok](games/r/ravenlok.md) | 7.43% |
-| 30 | [Time Loader](games/t/time_loader.md) | 7.14% |
+| 30 | [Time Loader](games/t/time_loader.md) | 7.08% |
 | 31 | [Scorn](games/s/scorn.md) | 7.03% |
-| 32 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.92% |
+| 32 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.91% |
 | 33 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
-| 34 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.38% |
-| 35 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
+| 34 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
+| 34 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.25% |
 | 36 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.66% |
 | 37 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
 | 38 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 5.00% |
-| 38 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.00% |
+| 39 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.99% |
 | 40 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.88% |
 | 41 | [JARS](games/j/jars.md) | 4.84% |
 | 42 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.76% |
@@ -120,8 +120,8 @@
 | 118 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.64% |
 | 119 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.63% |
 | 120 | [Train Valley](games/t/train_valley.md) | 0.61% |
-| 121 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.59% |
 | 121 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.59% |
+| 122 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.58% |
 | 123 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.57% |
 | 124 | [Grindstone](games/g/grindstone.md) | 0.56% |
 | 125 | [Potion Permit](games/p/potion_permit.md) | 0.54% |
