@@ -6,22 +6,22 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~35,475 |
-| First Steps | 80.00% | ~30,516 |
-| Control the Shadows | 67.00% | ~25,557 |
-| Tools of the Trade | 63.00% | ~24,031 |
-| Apprentice | 60.00% | ~22,887 |
+| Awakening | 93.00% | ~35,476 |
+| First Steps | 80.00% | ~30,517 |
+| Control the Shadows | 67.00% | ~25,558 |
+| Tools of the Trade | 63.00% | ~24,032 |
+| Apprentice | 60.00% | ~22,888 |
 | Secret Seeker | 57.00% | ~21,743 |
 | Forge of Assassins | 55.00% | ~20,980 |
-| Revenant | 52.00% | ~19,835 |
-| I don’t Care! | 45.00% | ~17,165 |
+| Revenant | 52.00% | ~19,836 |
+| I don’t Care! | 45.00% | ~17,166 |
 | Bird of Prey | 37.00% | ~14,114 |
-| Engraved with Power | 32.00% | ~12,206 |
+| Engraved with Power | 32.00% | ~12,207 |
 | Lady | 31.00% | ~11,825 |
 | Fashionable Assassin | 27.00% | ~10,299 |
 | Apex Predator | 24.00% | ~9,155 |
 | Soul Reaver | 22.00% | ~8,392 |
-| Embers | 21.00% | ~8,010 |
+| Embers | 21.00% | ~8,011 |
 | Wall Lizard | 20.00% | ~7,629 |
 | Clinging to Life | 18.00% | ~6,866 |
 | Burning | 17.00% | ~6,485 |
@@ -31,7 +31,7 @@ Number of Ratings: 88  (23.09.2022)
 | War Engines | 14.00% | ~5,340 |
 | Signature Move | 14.00% | ~5,340 |
 | Ruse | 11.00% | ~4,196 |
-| Master Ninja | 10.00% | ~3,814 |
+| Master Ninja | 10.00% | ~3,815 |
 | Hatching | 9.00% | ~3,433 |
 | Bonds | 9.00% | ~3,433 |
 | Get Over Here | 9.00% | ~3,433 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Hot Potato | 1.00% | ~381 |
 | Anger Management | 1.00% | ~381 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,145 (Ranked 91)  
+Progressed: 38,146 (Ranked 91)  
 Completed: 193 (0.51%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 193 (0.51%) (Ranked 128)
 | 2023-07-17 | 37,856 | 190 |
 | 2023-07-18 | 37,957 | 190 |
 | 2023-07-19 | 38,054 | 190 |
-| 2023-07-20 | 38,145 | 193 |
+| 2023-07-20 | 38,146 | 193 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

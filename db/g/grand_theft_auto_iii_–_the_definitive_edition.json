@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -382,9 +382,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7011,
+  "EOS_Progressed": 7012,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -5732,6 +5732,11 @@
       "Time": "2023-07-20T21:07:50.7033787+00:00",
       "NumProgressed": 7011,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-07-20T23:05:16.0049129+00:00",
+      "NumProgressed": 7012,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 29,
@@ -5743,7 +5748,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5819
+      "UsersEstimate": 5820
     },
     {
       "ID": "ACH02",
@@ -5871,7 +5876,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "ACH18",
@@ -5974,7 +5979,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7011,
+      "Progressed": 7012,
       "Completed": 41
     }
   ],
@@ -5982,8 +5987,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-07-14T20:58:27.169757+00:00",
-  "LastChanged_Achievements": "2023-07-20T22:05:33.2137949+00:00",
+  "LastChanged_Achievements": "2023-07-20T23:05:16.0049123+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:27.5857336+00:00",
-  "LastUpdate_Ratings": "2023-07-20T21:58:23.4177657+00:00",
-  "LastUpdate_Achievements": "2023-07-20T22:05:33.2138357+00:00"
+  "LastUpdate_Ratings": "2023-07-20T22:58:23.0597225+00:00",
+  "LastUpdate_Achievements": "2023-07-20T23:05:16.0049723+00:00"
 }

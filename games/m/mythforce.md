@@ -6,36 +6,36 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That'll Leave a Mark | 25.00% | ~8 |
-| Debuff Dogpile | 22.00% | ~7 |
-| Faceroll the Bones | 22.00% | ~7 |
-| Hit 'Em Where It Hurts | 22.00% | ~7 |
-| First Strike | 19.00% | ~6 |
-| Flawless Victory | 19.00% | ~6 |
-| Spending Spree | 19.00% | ~6 |
-| Ten Steps from the Grave | 19.00% | ~6 |
-| Cold-Blooded Critters | 16.00% | ~5 |
-| Everything Must Go! | 16.00% | ~5 |
-| Mushroom Madness! | 16.00% | ~5 |
-| Perk Shard Punch Card | 16.00% | ~5 |
-| Deadication | 13.00% | ~4 |
-| Horder Better Faster Stronger | 13.00% | ~4 |
-| The Fourth Gate | 9.00% | ~3 |
-| The Harder They Fall | 9.00% | ~3 |
-| On this Episode! | 9.00% | ~3 |
-| Next Time on MythForce... | 6.00% | ~2 |
-| Season Finale | 6.00% | ~2 |
+| That'll Leave a Mark | 26.00% | ~9 |
+| Debuff Dogpile | 24.00% | ~8 |
+| Faceroll the Bones | 24.00% | ~8 |
+| Hit 'Em Where It Hurts | 24.00% | ~8 |
+| First Strike | 21.00% | ~7 |
+| Flawless Victory | 21.00% | ~7 |
+| Spending Spree | 21.00% | ~7 |
+| Ten Steps from the Grave | 21.00% | ~7 |
+| Cold-Blooded Critters | 18.00% | ~6 |
+| Everything Must Go! | 18.00% | ~6 |
+| Mushroom Madness! | 18.00% | ~6 |
+| Perk Shard Punch Card | 18.00% | ~6 |
+| Deadication | 15.00% | ~5 |
+| Horder Better Faster Stronger | 15.00% | ~5 |
+| The Fourth Gate | 12.00% | ~4 |
+| The Harder They Fall | 12.00% | ~4 |
+| On this Episode! | 12.00% | ~4 |
+| Next Time on MythForce... | 9.00% | ~3 |
+| Season Finale | 9.00% | ~3 |
 | We've Got a Kaiju on the Field | 3.00% | ~1 |
 | Deadalus and Loving It | 0.00% | ~0 |
 | Death Becomes You | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32 (Ranked 364)  
+Progressed: 34 (Ranked 361)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-07-20 | 32 | 0 |
+| 2023-07-20 | 34 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 448)  
 Sum: 225 (Ranked 350)  

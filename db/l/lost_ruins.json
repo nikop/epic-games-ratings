@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 401,
+  "EOS_Progressed": 402,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -606,6 +606,11 @@
       "Time": "2023-07-16T06:04:22.5167178+00:00",
       "NumProgressed": 401,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-20T23:02:29.5708607+00:00",
+      "NumProgressed": 402,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -657,7 +662,7 @@
       "Name": "Bug Hunter",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "Cryomancer",
@@ -697,7 +702,7 @@
       "Name": "Goblin Tales",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "Hardboiled",
@@ -737,7 +742,7 @@
       "Name": "Inquisitor",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "Librarian",
@@ -936,7 +941,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 401,
+      "Progressed": 402,
       "Completed": 0
     }
   ],
@@ -944,8 +949,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-07-20T22:03:13.274801+00:00",
+  "LastChanged_Achievements": "2023-07-20T23:02:29.5708601+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:34.615198+00:00",
-  "LastUpdate_Ratings": "2023-07-20T22:00:27.0502671+00:00",
-  "LastUpdate_Achievements": "2023-07-20T22:03:13.2748297+00:00"
+  "LastUpdate_Ratings": "2023-07-20T23:00:18.2344887+00:00",
+  "LastUpdate_Achievements": "2023-07-20T23:02:29.5708983+00:00"
 }

@@ -34,7 +34,7 @@ Number of Ratings: 98  (23.09.2022)
 | I Have the High Ground | 10.00% | ~638 |
 | Millenial | 10.00% | ~638 |
 | The Show Must Go On | 9.00% | ~574 |
-| Tosca | 8.00% | ~510 |
+| Tosca | 9.00% | ~574 |
 | 12th Bottle of the Isonzo | 6.00% | ~383 |
 | Cercatore d'Oro | 6.00% | ~383 |
 | The Enlightment | 6.00% | ~383 |

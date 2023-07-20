@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 175,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -5256,10 +5256,10 @@
       "Count": 560
     }
   ],
-  "EOS_Progressed": 288131,
+  "EOS_Progressed": 288136,
   "EOS_Completed": 431,
-  "EOS_NewPlayers": 775,
-  "EOS_NewCompleters": 7,
+  "EOS_NewPlayers": 774,
+  "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
     {
@@ -15051,6 +15051,11 @@
       "Time": "2023-07-20T22:04:46.9731321+00:00",
       "NumProgressed": 288131,
       "NumCompleted": 431
+    },
+    {
+      "Time": "2023-07-20T23:04:30.5580928+00:00",
+      "NumProgressed": 288136,
+      "NumCompleted": 431
     }
   ],
   "TotalAchievements": 45,
@@ -15070,7 +15075,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23050
+      "UsersEstimate": 23051
     },
     {
       "ID": "PFA_11",
@@ -15078,7 +15083,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 23050
+      "UsersEstimate": 23051
     },
     {
       "ID": "PFA_12",
@@ -15086,7 +15091,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 23050
+      "UsersEstimate": 23051
     },
     {
       "ID": "PFA_13",
@@ -15094,7 +15099,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 23050
+      "UsersEstimate": 23051
     },
     {
       "ID": "PFA_14",
@@ -15166,7 +15171,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23050
+      "UsersEstimate": 23051
     },
     {
       "ID": "PFA_22",
@@ -15190,7 +15195,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23050
+      "UsersEstimate": 23051
     },
     {
       "ID": "PFA_25",
@@ -15286,7 +15291,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 20169
+      "UsersEstimate": 20170
     },
     {
       "ID": "PFA_36",
@@ -15318,7 +15323,7 @@
       "Name": "Coasting Along",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23050
+      "UsersEstimate": 23051
     },
     {
       "ID": "PFA_4",
@@ -15366,7 +15371,7 @@
       "Name": "The Spell Master",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20169
+      "UsersEstimate": 20170
     },
     {
       "ID": "PFA_45",
@@ -15390,7 +15395,7 @@
       "Name": "First Class Student",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 31694
+      "UsersEstimate": 31695
     },
     {
       "ID": "PFA_7",
@@ -15398,7 +15403,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 28813
+      "UsersEstimate": 28814
     },
     {
       "ID": "PFA_8",
@@ -15414,14 +15419,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20169
+      "UsersEstimate": 20170
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 288131,
+      "Progressed": 288136,
       "Completed": 431
     }
   ],
@@ -15429,8 +15434,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-07-20T21:57:51.5533377+00:00",
-  "LastChanged_Achievements": "2023-07-20T22:04:46.9731317+00:00",
+  "LastChanged_Achievements": "2023-07-20T23:04:30.5580917+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:19.3801839+00:00",
-  "LastUpdate_Ratings": "2023-07-20T21:57:51.5533382+00:00",
-  "LastUpdate_Achievements": "2023-07-20T22:04:46.9732069+00:00"
+  "LastUpdate_Ratings": "2023-07-20T22:57:51.7762725+00:00",
+  "LastUpdate_Achievements": "2023-07-20T23:04:30.5581924+00:00"
 }

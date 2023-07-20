@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 84,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -86,11 +86,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 864,
+  "EOS_Progressed": 865,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.74,
+  "EOS_Completed_Percentage": 1.73,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:47.1560439+00:00",
@@ -951,6 +951,11 @@
       "Time": "2023-07-20T20:05:23.7955317+00:00",
       "NumProgressed": 864,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-07-20T23:04:51.98627+00:00",
+      "NumProgressed": 865,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 27,
@@ -1002,7 +1007,7 @@
       "Name": "Fine, I\u0027ll do it myself",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "ACH_ELIZA_PHOTO",
@@ -1010,7 +1015,7 @@
       "Name": "Love is in the air",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "ACH_ENGAGEMENT_RING",
@@ -1058,7 +1063,7 @@
       "Name": "No pressure",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -1066,7 +1071,7 @@
       "Name": "And so it begins",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -1074,7 +1079,7 @@
       "Name": "Hotel sleuthing",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ACH_NEWSPAPER_ARTICLE",
@@ -1082,7 +1087,7 @@
       "Name": "Big fortune",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "ACH_POSTCARD",
@@ -1112,9 +1117,9 @@
       "ID": "ACH_STAR_1",
       "SetID": "7k95e4n",
       "Name": "Good start",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 657
+      "UsersEstimate": 649
     },
     {
       "ID": "ACH_STAR_2",
@@ -1122,7 +1127,7 @@
       "Name": "Moving up",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "ACH_STAR_3",
@@ -1138,7 +1143,7 @@
       "Name": "Nearly there",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ACH_STAR_5",
@@ -1170,14 +1175,14 @@
       "Name": "I think you dropped this",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     }
   ],
   "AchievementSets": [
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 864,
+      "Progressed": 865,
       "Completed": 15
     }
   ],
@@ -1185,8 +1190,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-07-05T18:57:43.3386981+00:00",
-  "LastChanged_Achievements": "2023-07-20T22:05:09.0784668+00:00",
+  "LastChanged_Achievements": "2023-07-20T23:04:51.9862688+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:03.5384726+00:00",
-  "LastUpdate_Ratings": "2023-07-20T21:57:35.9215251+00:00",
-  "LastUpdate_Achievements": "2023-07-20T22:05:09.0784857+00:00"
+  "LastUpdate_Ratings": "2023-07-20T22:57:36.1919836+00:00",
+  "LastUpdate_Achievements": "2023-07-20T23:04:51.9863049+00:00"
 }

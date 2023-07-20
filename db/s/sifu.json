@@ -5176,10 +5176,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 10778,
       "NumberOfAwardsMax": 6288
+    },
+    {
+      "Time": "2023-07-20T22:59:39.1489579+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10781,
+      "NumberOfAwardsMax": 6288
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10778,
+  "NumberOfAwards": 10781,
   "NumberOfAwardsMax": 6288,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5247,7 +5253,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 503
+      "Count": 506
     },
     {
       "Text": "This game has a Creative Community",
@@ -5256,9 +5262,9 @@
       "Count": 367
     }
   ],
-  "EOS_Progressed": 710942,
+  "EOS_Progressed": 710945,
   "EOS_Completed": 12827,
-  "EOS_NewPlayers": 220,
+  "EOS_NewPlayers": 222,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -13751,6 +13757,11 @@
       "Time": "2023-07-20T22:07:48.0026559+00:00",
       "NumProgressed": 710942,
       "NumCompleted": 12827
+    },
+    {
+      "Time": "2023-07-20T23:07:21.7172162+00:00",
+      "NumProgressed": 710945,
+      "NumCompleted": 12827
     }
   ],
   "TotalAchievements": 50,
@@ -13922,7 +13933,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6398
+      "UsersEstimate": 6399
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -13994,7 +14005,7 @@
       "Name": "I know Kung-Fu",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6398
+      "UsersEstimate": 6399
     },
     {
       "ID": "31_ComboHigh",
@@ -14161,21 +14172,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 20243,
+      "Progressed": 20246,
       "Completed": 10428
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 710942,
+      "Progressed": 710945,
       "Completed": 12827
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-07-20T17:59:39.2000981+00:00",
-  "LastChanged_Achievements": "2023-07-20T22:07:48.0026555+00:00",
+  "LastChanged": "2023-07-20T22:59:39.1489577+00:00",
+  "LastChanged_Achievements": "2023-07-20T23:07:21.7172156+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:57.8822848+00:00",
-  "LastUpdate_Ratings": "2023-07-20T21:59:48.2351151+00:00",
-  "LastUpdate_Achievements": "2023-07-20T22:07:48.0027291+00:00"
+  "LastUpdate_Ratings": "2023-07-20T22:59:39.1489584+00:00",
+  "LastUpdate_Achievements": "2023-07-20T23:07:21.7173009+00:00"
 }

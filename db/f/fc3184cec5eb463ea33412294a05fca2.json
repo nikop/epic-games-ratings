@@ -544,9 +544,9 @@
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "8d3ci0",
       "Name": "Ducks adrift",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -655,8 +655,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-20T22:05:52.4092423+00:00",
+  "LastChanged_Achievements": "2023-07-20T23:05:33.8419522+00:00",
   "LastUpdate_AppInfo": "2023-07-15T11:57:13.4695515+00:00",
-  "LastUpdate_Ratings": "2023-07-20T21:57:11.1161835+00:00",
-  "LastUpdate_Achievements": "2023-07-20T22:05:52.409254+00:00"
+  "LastUpdate_Ratings": "2023-07-20T22:57:14.4439851+00:00",
+  "LastUpdate_Achievements": "2023-07-20T23:05:33.8419689+00:00"
 }

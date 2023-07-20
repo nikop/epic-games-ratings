@@ -6,38 +6,38 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~20,586 |
-| Thorough | 9.00% | ~16,843 |
-| A thief's beginning | 8.00% | ~14,972 |
-| Tanuki Time | 8.00% | ~14,972 |
-| Disguised | 7.00% | ~13,100 |
-| Rescue Takuma | 7.00% | ~13,100 |
-| Rollin' | 7.00% | ~13,100 |
-| Chunin | 6.00% | ~11,229 |
-| Happy Planning | 6.00% | ~11,229 |
-| Ice Ice Yuki | 6.00% | ~11,229 |
-| Jonin | 6.00% | ~11,229 |
-| Stoned Ox | 6.00% | ~11,229 |
-| Yabu | 6.00% | ~11,229 |
-| Flying Rocks | 5.00% | ~9,357 |
-| Mugen Unchained | 5.00% | ~9,357 |
-| Warzone | 5.00% | ~9,357 |
+| Genin | 11.00% | ~20,588 |
+| Thorough | 9.00% | ~16,844 |
+| A thief's beginning | 8.00% | ~14,973 |
+| Tanuki Time | 8.00% | ~14,973 |
+| Disguised | 7.00% | ~13,101 |
+| Rescue Takuma | 7.00% | ~13,101 |
+| Rollin' | 7.00% | ~13,101 |
+| Chunin | 6.00% | ~11,230 |
+| Happy Planning | 6.00% | ~11,230 |
+| Ice Ice Yuki | 6.00% | ~11,230 |
+| Jonin | 6.00% | ~11,230 |
+| Stoned Ox | 6.00% | ~11,230 |
+| Yabu | 6.00% | ~11,230 |
+| Flying Rocks | 5.00% | ~9,358 |
+| Mugen Unchained | 5.00% | ~9,358 |
+| Warzone | 5.00% | ~9,358 |
 | Happy little accidents | 4.00% | ~7,486 |
 | Okkoto | 4.00% | ~7,486 |
 | Prisoners | 4.00% | ~7,486 |
 | Too Early | 4.00% | ~7,486 |
-| Gear up | 3.00% | ~5,614 |
-| Noboru | 3.00% | ~5,614 |
-| Still Rollin' | 3.00% | ~5,614 |
-| Stoned | 3.00% | ~5,614 |
+| Gear up | 3.00% | ~5,615 |
+| Noboru | 3.00% | ~5,615 |
+| Still Rollin' | 3.00% | ~5,615 |
+| Stoned | 3.00% | ~5,615 |
 | Atheist Ox | 2.00% | ~3,743 |
 | It's raining men | 2.00% | ~3,743 |
 | Old Man | 2.00% | ~3,743 |
 | The Old Way | 2.00% | ~3,743 |
 | Winner Winner | 2.00% | ~3,743 |
-| Meticulous | 1.00% | ~1,871 |
-| No Gimmicks | 1.00% | ~1,871 |
-| The End | 1.00% | ~1,871 |
+| Meticulous | 1.00% | ~1,872 |
+| No Gimmicks | 1.00% | ~1,872 |
+| The End | 1.00% | ~1,872 |
 | Undeserved Honor | 0.90% | ~1,684 |
 | When Cut Across the Neck | 0.80% | ~1,497 |
 | High Five the Moon | 0.70% | ~1,310 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~187 |
 | Release the Kraken | 0.10% | ~187 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 187,148 (Ranked 59)  
+Progressed: 187,160 (Ranked 59)  
 Completed: 61 (0.03%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 61 (0.03%) (Ranked 213)
 | 2023-07-17 | 186,473 | 59 |
 | 2023-07-18 | 186,701 | 59 |
 | 2023-07-19 | 186,929 | 60 |
-| 2023-07-20 | 187,148 | 61 |
+| 2023-07-20 | 187,160 | 61 |
 ## Awards
 Max (Great for Beginners): 559  (Ranked 182)  
 Sum: 4,710 (Ranked 133)  

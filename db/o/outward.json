@@ -496,9 +496,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3066,
+  "EOS_Progressed": 3067,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3246,6 +3246,11 @@
       "Time": "2023-07-20T22:06:31.7480263+00:00",
       "NumProgressed": 3066,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-20T23:06:11.7894953+00:00",
+      "NumProgressed": 3067,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 42,
@@ -3449,7 +3454,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1962
+      "UsersEstimate": 1963
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -3481,7 +3486,7 @@
       "Name": "Tapped!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1135
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -3519,9 +3524,9 @@
       "ID": "ThePowerofFamily_2",
       "SetID": "c4hee28",
       "Name": "The Power of Family",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 521
+      "UsersEstimate": 491
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -3559,9 +3564,9 @@
       "ID": "ThroughFireAndFlame",
       "SetID": "c4hee28",
       "Name": "Through fire and flame.",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 21
     },
     {
       "ID": "VanquisherOfNightmares_52",
@@ -3592,15 +3597,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3066,
+      "Progressed": 3067,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-07-11T02:15:21.6079736+00:00",
-  "LastChanged_Achievements": "2023-07-20T22:06:31.7480258+00:00",
+  "LastChanged_Achievements": "2023-07-20T23:06:11.7894937+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:26.5691499+00:00",
-  "LastUpdate_Ratings": "2023-07-20T21:58:23.5716866+00:00",
-  "LastUpdate_Achievements": "2023-07-20T22:06:31.7480643+00:00"
+  "LastUpdate_Ratings": "2023-07-20T22:58:23.1199934+00:00",
+  "LastUpdate_Achievements": "2023-07-20T23:06:11.7895422+00:00"
 }

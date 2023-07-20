@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 232,
   "Ranking_EOS_Progress": 501,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-05-14T00:00:00+00:00",
@@ -1390,10 +1390,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 1111,
       "NumberOfAwardsMax": 146
+    },
+    {
+      "Time": "2023-07-20T23:01:01.8083925+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 1112,
+      "NumberOfAwardsMax": 146
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1111,
+  "NumberOfAwards": 1112,
   "NumberOfAwardsMax": 146,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1437,7 +1443,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 129
+      "Count": 130
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1469,8 +1475,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:53.9147295+00:00",
-  "LastChanged": "2023-07-20T22:01:12.470285+00:00",
+  "LastChanged": "2023-07-20T23:01:01.8083923+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:18.040312+00:00",
-  "LastUpdate_Ratings": "2023-07-20T22:01:12.4702855+00:00",
-  "LastUpdate_Achievements": "2023-07-20T22:03:59.2630021+00:00"
+  "LastUpdate_Ratings": "2023-07-20T23:01:01.8083928+00:00",
+  "LastUpdate_Achievements": "2023-07-20T23:03:45.0496399+00:00"
 }

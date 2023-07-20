@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -796,9 +796,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2532,
+  "EOS_Progressed": 2533,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3171,6 +3171,11 @@
       "Time": "2023-07-20T21:05:22.3405469+00:00",
       "NumProgressed": 2532,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-20T23:02:33.9944879+00:00",
+      "NumProgressed": 2533,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3334,7 +3339,7 @@
       "Name": "Keeping it classy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -3550,7 +3555,7 @@
       "Name": "Welcome to the family",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -3558,22 +3563,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1443
+      "UsersEstimate": 1444
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2532,
+      "Progressed": 2533,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-07-18T02:30:00.4800428+00:00",
-  "LastChanged_Achievements": "2023-07-20T22:03:17.9881101+00:00",
+  "LastChanged_Achievements": "2023-07-20T23:02:33.9944873+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:04.9340896+00:00",
-  "LastUpdate_Ratings": "2023-07-20T21:59:55.9247089+00:00",
-  "LastUpdate_Achievements": "2023-07-20T22:03:17.9881559+00:00"
+  "LastUpdate_Ratings": "2023-07-20T22:59:47.8160662+00:00",
+  "LastUpdate_Achievements": "2023-07-20T23:02:33.9945395+00:00"
 }

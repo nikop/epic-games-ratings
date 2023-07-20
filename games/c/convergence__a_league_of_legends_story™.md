@@ -40,8 +40,8 @@
 | Syron for Hope | 8.00% | ~61 |
 | Theater Explorer | 8.00% | ~61 |
 | Ask Questions Later | 8.00% | ~61 |
-| Cultivair Explorer | 7.00% | ~53 |
-| Factorywood Explorer | 7.00% | ~53 |
+| Cultivair Explorer | 7.00% | ~54 |
+| Factorywood Explorer | 7.00% | ~54 |
 | Corin Goes Home | 6.00% | ~46 |
 | Sartorialist | 6.00% | ~46 |
 | Entresol Explorer | 6.00% | ~46 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.50% | ~4 |
 | Raw Talent | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 764 (Ranked 198)  
+Progressed: 765 (Ranked 198)  
 Completed: 4 (0.52%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,4 +115,4 @@ Completed: 4 (0.52%) (Ranked 127)
 | 2023-07-15 | 758 | 4 |
 | 2023-07-17 | 760 | 4 |
 | 2023-07-18 | 763 | 4 |
-| 2023-07-20 | 764 | 4 |
+| 2023-07-20 | 765 | 4 |

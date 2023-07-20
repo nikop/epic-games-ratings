@@ -5,27 +5,29 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Such a strange dream… | 106.00% | ~19 |
-| Your first fight | 89.00% | ~16 |
-| Good Person Chip | 78.00% | ~14 |
-| First winning | 67.00% | ~12 |
-| Your first job | 67.00% | ~12 |
-| Neurotrainer – power gainer! | 61.00% | ~11 |
-| Old movies enjoyer | 56.00% | ~10 |
-| Fitness professional | 50.00% | ~9 |
-| First defeat | 50.00% | ~9 |
-| Depressed visitor | 50.00% | ~9 |
-| Intriguing candies | 44.00% | ~8 |
+| Your first fight | 100.00% | ~18 |
+| Good Person Chip | 89.00% | ~16 |
+| First winning | 78.00% | ~14 |
+| Your first job | 78.00% | ~14 |
+| Old movies enjoyer | 72.00% | ~13 |
+| First defeat | 67.00% | ~12 |
+| Neurotrainer – power gainer! | 67.00% | ~12 |
+| Fitness professional | 61.00% | ~11 |
+| Depressed visitor | 61.00% | ~11 |
+| Intriguing candies | 56.00% | ~10 |
+| Employee of the week | 56.00% | ~10 |
+| Run K, run! | 50.00% | ~9 |
+| Your own amateur gym | 39.00% | ~7 |
 | Hello, world! | 39.00% | ~7 |
-| Employee of the week | 39.00% | ~7 |
-| Run K, run! | 33.00% | ~6 |
-| Your own amateur gym | 28.00% | ~5 |
+| Fighting is cool | 28.00% | ~5 |
 | No bullying more | 28.00% | ~5 |
-| Fighting is cool | 17.00% | ~3 |
+| Employee of the month | 22.00% | ~4 |
 | Little hacker | 17.00% | ~3 |
+| Pal of your father? | 17.00% | ~3 |
+| Spirit of the past | 17.00% | ~3 |
+| Workout professional | 11.00% | ~2 |
+| Law student | 11.00% | ~2 |
 | Your own way | 11.00% | ~2 |
-| Employee of the month | 11.00% | ~2 |
-| Pal of your father? | 6.00% | ~1 |
-| Spirit of the past | 6.00% | ~1 |
 | Mom got better | 0.00% | ~0 |
 | Deal with life | 0.00% | ~0 |
 | Now you are worthy | 0.00% | ~0 |
@@ -33,7 +35,6 @@
 | Problems of cyborgs | 0.00% | ~0 |
 | Trap disarmed | 0.00% | ~0 |
 | Another world | 0.00% | ~0 |
-| Workout professional | 0.00% | ~0 |
 | GYM professional | 0.00% | ~0 |
 | The lonesome road | 0.00% | ~0 |
 | Legal courier | 0.00% | ~0 |
@@ -46,7 +47,6 @@
 | Better cooking at home | 0.00% | ~0 |
 | Not little hacker | 0.00% | ~0 |
 | Handyman | 0.00% | ~0 |
-| Law student | 0.00% | ~0 |
 | Champion – starter pack | 0.00% | ~0 |
 | Champion – no way back | 0.00% | ~0 |
 | Absolute Champion! | 0.00% | ~0 |

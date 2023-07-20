@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -172,9 +172,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7415,
+  "EOS_Progressed": 7416,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6002,6 +6002,11 @@
       "Time": "2023-07-20T22:01:44.8671438+00:00",
       "NumProgressed": 7415,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-20T23:01:33.8440336+00:00",
+      "NumProgressed": 7416,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -6077,7 +6082,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 3559
+      "UsersEstimate": 3560
     },
     {
       "ID": "0010",
@@ -6109,7 +6114,7 @@
       "Name": "Keycards Royale",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1705
+      "UsersEstimate": 1706
     },
     {
       "ID": "0014",
@@ -6165,7 +6170,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 23,
       "XP": 115,
-      "UsersEstimate": 1705
+      "UsersEstimate": 1706
     },
     {
       "ID": "0021",
@@ -6221,7 +6226,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1705
+      "UsersEstimate": 1706
     },
     {
       "ID": "0028",
@@ -6229,7 +6234,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 3559
+      "UsersEstimate": 3560
     },
     {
       "ID": "0029",
@@ -6300,7 +6305,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 7415,
+      "Progressed": 7416,
       "Completed": 1
     }
   ],
@@ -6308,8 +6313,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-06-24T11:00:56.980815+00:00",
-  "LastChanged_Achievements": "2023-07-20T22:01:44.8671433+00:00",
+  "LastChanged_Achievements": "2023-07-20T23:01:33.8440329+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:40.2743278+00:00",
-  "LastUpdate_Ratings": "2023-07-20T22:00:33.6777769+00:00",
-  "LastUpdate_Achievements": "2023-07-20T22:01:44.8672077+00:00"
+  "LastUpdate_Ratings": "2023-07-20T23:00:24.4664409+00:00",
+  "LastUpdate_Achievements": "2023-07-20T23:01:33.8441658+00:00"
 }

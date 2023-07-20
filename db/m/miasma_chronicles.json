@@ -2348,9 +2348,9 @@
       "ID": "CHAIN_KILLER",
       "SetID": "9a4jnji",
       "Name": "Chain Killer",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 285
     },
     {
       "ID": "CHAIN_REACTION",
@@ -2717,8 +2717,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-07-10T17:58:57.5580271+00:00",
-  "LastChanged_Achievements": "2023-07-20T22:04:00.5368125+00:00",
+  "LastChanged_Achievements": "2023-07-20T23:03:46.3066192+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:06.764878+00:00",
-  "LastUpdate_Ratings": "2023-07-20T21:58:53.3825641+00:00",
-  "LastUpdate_Achievements": "2023-07-20T22:04:00.5368565+00:00"
+  "LastUpdate_Ratings": "2023-07-20T22:58:47.9001486+00:00",
+  "LastUpdate_Achievements": "2023-07-20T23:03:46.3066699+00:00"
 }

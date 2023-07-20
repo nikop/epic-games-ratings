@@ -5,7 +5,7 @@ Rating: 4.27 (Ranked 797)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| We made it | 34.00% | ~314 |
+| We made it | 35.00% | ~324 |
 | Manipulating Fate | 8.00% | ~74 |
 | The City | 8.00% | ~74 |
 | Full house | 5.00% | ~46 |
@@ -21,8 +21,8 @@ Rating: 4.27 (Ranked 797)
 | Just Chilling | 3.00% | ~28 |
 | Incredible Strength | 3.00% | ~28 |
 | Prophecy Fulfilled | 3.00% | ~28 |
-| The Greedy Ones | 2.00% | ~18 |
-| The Unruly Ones | 2.00% | ~18 |
+| The Greedy Ones | 2.00% | ~19 |
+| The Unruly Ones | 2.00% | ~19 |
 | The First King | 1.00% | ~9 |
 | The great fire | 1.00% | ~9 |
 | The Council | 1.00% | ~9 |
@@ -51,7 +51,7 @@ Rating: 4.27 (Ranked 797)
 | Fate is against us | 0.00% | ~0 |
 | Despite everything | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 925 (Ranked 193)  
+Progressed: 927 (Ranked 193)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-16 | 921 | 0 |
 | 2023-07-17 | 922 | 0 |
 | 2023-07-19 | 923 | 0 |
-| 2023-07-20 | 925 | 0 |
+| 2023-07-20 | 927 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
