@@ -235,6 +235,7 @@
 | [High On Life](../games/h/high_on_life.md) | 32 | 1,000 |
 | [HITMAN World of Assassination](../games/h/hitman_3.md) | 47 | 1,000 |
 | [Hogwarts Legacy](../games/h/hogwarts_legacy.md) | 45 | 1,000 |
+| [Homeworld Remastered Collection](../games/4/4311a0ee99724086b1a4f261b827d038.md) | 34 | 1,000 |
 | [HordeCore](../games/h/hordecore.md) | 28 | 1,000 |
 | [Horizon Chase Turbo](../games/h/horizon_chase_turbo.md) | 37 | 1,000 |
 | [HORSE CLUB Adventures](../games/3/3003b961602b4ecfa8dd7dd16a3646bc.md) | 27 | 1,000 |

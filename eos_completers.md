@@ -42,9 +42,9 @@
 | 40 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.88% |
 | 41 | [JARS](games/j/jars.md) | 4.84% |
 | 42 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.76% |
-| 43 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
-| 44 | [Without Escape](games/w/without_escape.md) | 4.55% |
-| 45 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.53% |
+| 43 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.72% |
+| 44 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
+| 45 | [Without Escape](games/w/without_escape.md) | 4.55% |
 | 46 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.29% |
 | 47 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.85% |
 | 48 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.75% |
@@ -335,6 +335,7 @@
 | 238 | [Hazel Sky](games/h/hazel_sky.md) | 0.00% |
 | 238 | [Heim](games/h/heim.md) | 0.00% |
 | 238 | [Hell is Others](games/h/hell_is_others.md) | 0.00% |
+| 238 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 0.00% |
 | 238 | [HORSE CLUB Adventures](games/3/3003b961602b4ecfa8dd7dd16a3646bc.md) | 0.00% |
 | 238 | [HORSE CLUB Adventures 2 - Hazelwood Stories](games/f/f03926dee08f4c29b20d907c4cb5f9e4.md) | 0.00% |
 | 238 | [House In The Hollow](games/h/house_in_the_hollow.md) | 0.00% |
@@ -497,4 +498,4 @@
 | 238 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 238 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 238 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,921 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
+| 2,922 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
