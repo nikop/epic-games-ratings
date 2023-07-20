@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Run A Cafe](games/7/752a74d471e54cb79d4bf96d7e6b9cde.md) | 2023-07-20 | - |  | - | - |
 | [Revive and Prosper - Prologue](games/3/3410b859eee74de3afd6cb098661fd5e.md) | 2023-07-20 | - |  | - | - |
 | [Dimension Drive](games/d/d76f74c986a7462e95442dd6dd211357.md) | 2023-07-20 | - |  | - | - |
 | [Lost Wing](games/c/c3900988383a48b4959c3292a8a555eb.md) | 2023-07-20 | - |  | - | - |
