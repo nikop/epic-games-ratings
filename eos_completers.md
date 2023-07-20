@@ -103,9 +103,9 @@
 | 101 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.06% |
 | 101 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.06% |
 | 103 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.03% |
+| 104 | [Adios](games/a/adios.md) | 0.97% |
 | 104 | [Sable](games/s/sable.md) | 0.97% |
-| 105 | [Adios](games/a/adios.md) | 0.96% |
-| 105 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.96% |
+| 106 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.96% |
 | 107 | [Hades](games/h/hades.md) | 0.89% |
 | 108 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
 | 109 | [Dungeons 3](games/d/dungeons_3.md) | 0.84% |
@@ -382,6 +382,7 @@
 | 238 | [NOOB - The Factionless](games/n/noob_-_the_factionless.md) | 0.00% |
 | 238 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 0.00% |
 | 238 | [One Hand Clapping](games/o/one_hand_clapping.md) | 0.00% |
+| 238 | [One Military Camp](games/o/one_military_camp.md) | 0.00% |
 | 238 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.00% |
 | 238 | [Operation New Earth](games/o/operation_new_earth.md) | 0.00% |
 | 238 | [Outcore - Desktop Adventure](games/o/outcore_-_desktop_adventure.md) | 0.00% |
