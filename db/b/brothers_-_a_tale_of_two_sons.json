@@ -2,7 +2,7 @@
   "ID": "615659ff36244d258ef6c6a827e32c5d",
   "Name": "Brothers - A Tale of Two Sons",
   "ProductSlug": "brothers-a-tale-of-two-sons",
-  "Ranking_Rating": 601,
+  "Ranking_Rating": 609,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 498,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.47,
+  "Rating": 4.46,
   "NumberOfRatings": 687,
   "RatingHistory": [
     {
@@ -418,6 +418,12 @@
       "Rating": 4.47,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-07-19T23:58:29.0981727+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -435,8 +441,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:20.1977225+00:00",
-  "LastChanged": "2023-03-31T05:58:07.5537425+00:00",
+  "LastChanged": "2023-07-19T23:58:29.0981725+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:27.9465039+00:00",
-  "LastUpdate_Ratings": "2023-07-19T22:58:39.1923409+00:00",
+  "LastUpdate_Ratings": "2023-07-19T23:58:29.0981744+00:00",
   "LastUpdate_Achievements": "2023-07-19T23:02:29.3532595+00:00"
 }

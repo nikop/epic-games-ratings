@@ -208,9 +208,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 226470,
+  "EOS_Progressed": 226473,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 446,
+  "EOS_NewPlayers": 447,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9598,6 +9598,11 @@
       "Time": "2023-07-19T23:04:26.6745803+00:00",
       "NumProgressed": 226470,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-20T00:04:27.773664+00:00",
+      "NumProgressed": 226473,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -9673,7 +9678,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 81529
+      "UsersEstimate": 81530
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -9753,7 +9758,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 77000
+      "UsersEstimate": 77001
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -9769,7 +9774,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 49823
+      "UsersEstimate": 49824
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -9832,7 +9837,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 226470,
+      "Progressed": 226473,
       "Completed": 3
     }
   ],
@@ -9840,8 +9845,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-07-04T22:59:46.8695793+00:00",
-  "LastChanged_Achievements": "2023-07-19T23:04:26.6745799+00:00",
+  "LastChanged_Achievements": "2023-07-20T00:04:27.7736636+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:49.1676235+00:00",
-  "LastUpdate_Ratings": "2023-07-19T22:59:39.7385995+00:00",
-  "LastUpdate_Achievements": "2023-07-19T23:04:26.6746379+00:00"
+  "LastUpdate_Ratings": "2023-07-19T23:59:31.5682682+00:00",
+  "LastUpdate_Achievements": "2023-07-20T00:04:27.7737398+00:00"
 }

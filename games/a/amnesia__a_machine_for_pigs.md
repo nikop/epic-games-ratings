@@ -1,7 +1,7 @@
 # Amnesia: A Machine for Pigs
 [Store](https://store.epicgames.com/en-US/p/amnesia-a-machine-for-pigs)  
 [View Rawdata](../../db/a/amnesia__a_machine_for_pigs.json)  
-Rating: 4.04 (Ranked 906)  
+Rating: 4.05 (Ranked 904)  
 Number of Ratings: 197  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -84,3 +84,4 @@ Number of Ratings: 197  (23.09.2022)
 | 2022-12-04 | 4.03 | - | - | - |
 | 2022-12-05 | 4.04 | - | - | - |
 | 2023-03-31 | 4.04 | - | 0 | 0 |
+| 2023-07-19 | 4.05 | - | 0 | 0 |

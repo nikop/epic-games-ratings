@@ -2,9 +2,9 @@
   "ID": "8b8d2e16c20b4300ae0dc66db4d630ba",
   "Name": "Stray Blade",
   "ProductSlug": "stray-blade",
-  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18,
+  "EOS_Progressed": 19,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -106,6 +106,11 @@
       "Time": "2023-07-19T23:04:35.5344587+00:00",
       "NumProgressed": 18,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-20T00:04:36.6557448+00:00",
+      "NumProgressed": 19,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -115,7 +120,7 @@
       "ID": "ACH_ACTIVATE_ALL_INGLA_MIRRORS",
       "SetID": "7i20me3",
       "Name": "Mirror, Mirror on the Wall",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -123,7 +128,7 @@
       "ID": "ACH_BOJI_SKILLTREE_PROGRESSION_100",
       "SetID": "7i20me3",
       "Name": "Sponsor",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -155,7 +160,7 @@
       "ID": "ACH_CRAFT_FIRST_WEAPON",
       "SetID": "7i20me3",
       "Name": "Tinkerer",
-      "Percentage": 44,
+      "Percentage": 42,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -163,7 +168,7 @@
       "ID": "ACH_DEFEAT_BOSS_INGLA",
       "SetID": "7i20me3",
       "Name": "Defeat Ingla",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -171,7 +176,7 @@
       "ID": "ACH_DEFEAT_BOSS_TEZUTH",
       "SetID": "7i20me3",
       "Name": "Defeat Tezuth",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -179,7 +184,7 @@
       "ID": "ACH_DEFEAT_BOSS_USKOL",
       "SetID": "7i20me3",
       "Name": "Defeat Uskol",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -195,7 +200,7 @@
       "ID": "ACH_DEFEAT_FIRST_ENEMY",
       "SetID": "7i20me3",
       "Name": "Self-Defence",
-      "Percentage": 78,
+      "Percentage": 74,
       "XP": 10,
       "UsersEstimate": 14
     },
@@ -203,7 +208,7 @@
       "ID": "ACH_ENTER_REGION_BEAR",
       "SetID": "7i20me3",
       "Name": "Freezing Cold",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -227,7 +232,7 @@
       "ID": "ACH_EQUIP_MAX_RUNES_AT_ONCE",
       "SetID": "7i20me3",
       "Name": "Locked and Loaded",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -307,7 +312,7 @@
       "ID": "ACH_FIND_ALL_STORY_MURALS",
       "SetID": "7i20me3",
       "Name": "Nothing but the Truth",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -355,7 +360,7 @@
       "ID": "ACH_FIND_FLUX_BATTERY",
       "SetID": "7i20me3",
       "Name": "Finally!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -363,7 +368,7 @@
       "ID": "ACH_FIND_WOODEN_CLUB",
       "SetID": "7i20me3",
       "Name": "Welcome to the Club",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -371,7 +376,7 @@
       "ID": "ACH_FINISH_GAME",
       "SetID": "7i20me3",
       "Name": "The End",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -379,7 +384,7 @@
       "ID": "ACH_MEET_BOJI",
       "SetID": "7i20me3",
       "Name": "Don\u0027t Cry Wolf",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -387,7 +392,7 @@
       "ID": "ACH_OPEN_TEMPLE_GATE",
       "SetID": "7i20me3",
       "Name": "A new World ahead",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -395,7 +400,7 @@
       "ID": "ACH_PERFORM_MANY_PARRIES",
       "SetID": "7i20me3",
       "Name": "Can\u0027t touch this",
-      "Percentage": 28,
+      "Percentage": 26,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -411,7 +416,7 @@
       "ID": "ACH_REVEAL_ACREANS_TRUTH",
       "SetID": "7i20me3",
       "Name": "But what of the Acreans?",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -435,7 +440,7 @@
       "ID": "ACH_SKILLTREE_PROGRESSION_10",
       "SetID": "7i20me3",
       "Name": "Apprentice",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -484,22 +489,22 @@
     {
       "ID": "7i20me3",
       "IsBase": true,
-      "Progressed": 18,
+      "Progressed": 19,
       "Completed": 0
     },
     {
       "ID": "doc1i1",
       "IsBase": false,
-      "Progressed": 16,
-      "Completed": 16
+      "Progressed": 17,
+      "Completed": 17
     }
   ],
   "FirstSeen": "2023-04-20T22:59:51.7384582+00:00",
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-07-19T23:04:35.5344581+00:00",
+  "LastChanged_Achievements": "2023-07-20T00:04:36.6557437+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:21.3346126+00:00",
-  "LastUpdate_Ratings": "2023-07-19T22:58:00.747247+00:00",
-  "LastUpdate_Achievements": "2023-07-19T23:04:35.534486+00:00"
+  "LastUpdate_Ratings": "2023-07-19T23:57:48.8799762+00:00",
+  "LastUpdate_Achievements": "2023-07-20T00:04:36.6557817+00:00"
 }

@@ -27,6 +27,7 @@ Rating: 4.41 (Ranked 674)
 | As Quiet as a Mouse | 2.00% | ~66 |
 | Brains of the Operation | 2.00% | ~66 |
 | Opposing Force | 1.00% | ~33 |
+| Enemy at the Gates | 1.00% | ~33 |
 | Fields of Glory | 1.00% | ~33 |
 | Just a Flesh Wound | 1.00% | ~33 |
 | Skirmisher | 1.00% | ~33 |
@@ -36,7 +37,6 @@ Rating: 4.41 (Ranked 674)
 | Die Nussknacker Sweet! | 1.00% | ~33 |
 | Close Quarters | 1.00% | ~33 |
 | Snake in the Grass | 1.00% | ~33 |
-| Enemy at the Gates | 0.90% | ~30 |
 | The Long Game | 0.80% | ~26 |
 | Tinkerer | 0.80% | ~26 |
 | Don't hold your breath | 0.80% | ~26 |
