@@ -30,7 +30,7 @@
 | 28 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.58% |
 | 29 | [Ravenlok](games/r/ravenlok.md) | 7.43% |
 | 30 | [Time Loader](games/t/time_loader.md) | 7.14% |
-| 31 | [Scorn](games/s/scorn.md) | 7.04% |
+| 31 | [Scorn](games/s/scorn.md) | 7.03% |
 | 32 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.92% |
 | 33 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.52% |
 | 34 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
@@ -117,8 +117,8 @@
 | 115 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.66% |
 | 115 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.66% |
 | 115 | [Them and Us](games/t/them_and_us.md) | 0.66% |
-| 118 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
-| 118 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.63% |
+| 118 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.64% |
+| 119 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.63% |
 | 120 | [Train Valley](games/t/train_valley.md) | 0.61% |
 | 121 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.59% |
 | 121 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.59% |
@@ -218,25 +218,25 @@
 | 213 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.03% |
 | 217 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
 | 217 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
+| 217 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 0.02% |
 | 217 | [Good Company](games/g/good_company.md) | 0.02% |
 | 217 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.02% |
 | 217 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
 | 217 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
 | 217 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
 | 217 | [The Alto Collection](games/t/the_alto_collection.md) | 0.02% |
-| 225 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
-| 225 | [Deceive Inc.](games/d/deceive_inc..md) | 0.01% |
-| 225 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
-| 225 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 0.01% |
-| 225 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 0.01% |
-| 225 | [Forspoken](games/f/forspoken.md) | 0.01% |
-| 225 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 0.01% |
-| 225 | [Rocket League®](games/r/rocket_league®.md) | 0.01% |
-| 225 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 0.01% |
-| 225 | [Severed Steel](games/s/severed_steel.md) | 0.01% |
-| 225 | [Sunless Sea](games/s/sunless_sea.md) | 0.01% |
-| 225 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 0.01% |
-| 225 | [Verdun](games/v/verdun.md) | 0.01% |
+| 226 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
+| 226 | [Deceive Inc.](games/d/deceive_inc..md) | 0.01% |
+| 226 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
+| 226 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 0.01% |
+| 226 | [Forspoken](games/f/forspoken.md) | 0.01% |
+| 226 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 0.01% |
+| 226 | [Rocket League®](games/r/rocket_league®.md) | 0.01% |
+| 226 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 0.01% |
+| 226 | [Severed Steel](games/s/severed_steel.md) | 0.01% |
+| 226 | [Sunless Sea](games/s/sunless_sea.md) | 0.01% |
+| 226 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 0.01% |
+| 226 | [Verdun](games/v/verdun.md) | 0.01% |
 | 238 | ['n Verlore Verstand](games/'/'n_verlore_verstand.md) | 0.00% |
 | 238 | [12 orbits](games/1/12_orbits.md) | 0.00% |
 | 238 | [A Tale of Paper: Refolded](games/a/a_tale_of_paper__refolded.md) | 0.00% |
