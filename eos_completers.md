@@ -21,10 +21,10 @@
 | 19 | [Remains](games/r/remains.md) | 11.36% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.11% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 22 | [Sonic Origins](games/s/sonic_origins.md) | 10.03% |
-| 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
+| 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
+| 22 | [Sonic Origins](games/s/sonic_origins.md) | 10.00% |
 | 24 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 9.09% |
-| 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.70% |
+| 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.69% |
 | 26 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
 | 27 | [Smelter](games/s/smelter.md) | 8.11% |
 | 28 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.69% |
@@ -69,8 +69,8 @@
 | 67 | [Lamentum](games/l/lamentum.md) | 2.67% |
 | 68 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
 | 69 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.62% |
-| 70 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.53% |
 | 70 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.53% |
+| 71 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.52% |
 | 72 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 73 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
 | 74 | [Bloodshore](games/b/bloodshore.md) | 2.27% |
@@ -96,8 +96,8 @@
 | 94 | [Five Dates](games/f/five_dates.md) | 1.25% |
 | 95 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.23% |
 | 96 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.20% |
-| 97 | [Chorus](games/c/chorus.md) | 1.16% |
-| 98 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.15% |
+| 97 | [Chorus](games/c/chorus.md) | 1.15% |
+| 97 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.15% |
 | 99 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.14% |
 | 100 | [Trifox](games/t/trifox.md) | 1.11% |
 | 101 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.06% |
@@ -182,14 +182,14 @@
 | 180 | [Isonzo](games/i/isonzo.md) | 0.13% |
 | 181 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 182 | [Fall Guys](games/f/fall_guys.md) | 0.11% |
+| 182 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.11% |
 | 182 | [Ring of Pain](games/r/ring_of_pain.md) | 0.11% |
-| 184 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.10% |
-| 184 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
-| 184 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.10% |
-| 184 | [House Flipper](games/h/house_flipper.md) | 0.10% |
-| 184 | [Outward Definitive Edition](games/o/outward.md) | 0.10% |
-| 184 | [Supraland](games/s/supraland.md) | 0.10% |
-| 184 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.10% |
+| 185 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.10% |
+| 185 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
+| 185 | [House Flipper](games/h/house_flipper.md) | 0.10% |
+| 185 | [Outward Definitive Edition](games/o/outward.md) | 0.10% |
+| 185 | [Supraland](games/s/supraland.md) | 0.10% |
+| 185 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.10% |
 | 191 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 191 | [Partisans 1941](games/p/partisans_1941.md) | 0.09% |
 | 191 | [Riverbond](games/r/riverbond.md) | 0.09% |
