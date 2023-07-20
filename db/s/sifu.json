@@ -5256,9 +5256,9 @@
       "Count": 367
     }
   ],
-  "EOS_Progressed": 710928,
+  "EOS_Progressed": 710932,
   "EOS_Completed": 12827,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 211,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -13736,6 +13736,11 @@
       "Time": "2023-07-20T19:07:32.0550451+00:00",
       "NumProgressed": 710928,
       "NumCompleted": 12827
+    },
+    {
+      "Time": "2023-07-20T20:08:15.923785+00:00",
+      "NumProgressed": 710932,
+      "NumCompleted": 12827
     }
   ],
   "TotalAchievements": 50,
@@ -13795,7 +13800,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 4976
+      "UsersEstimate": 4977
     },
     {
       "ID": "08_Wude_H2",
@@ -13803,7 +13808,7 @@
       "Name": "Tiger on Fire",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 4976
+      "UsersEstimate": 4977
     },
     {
       "ID": "09_Wude_H3",
@@ -13859,7 +13864,7 @@
       "Name": "Detective Story",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 4976
+      "UsersEstimate": 4977
     },
     {
       "ID": "16_Detective_H2",
@@ -13937,9 +13942,9 @@
       "ID": "25_ShrineMind",
       "SetID": "adcm20g",
       "Name": "Qi Gong: Mind",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6398
+      "UsersEstimate": 7109
     },
     {
       "ID": "26_ShrineSpirit",
@@ -14091,7 +14096,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -14146,21 +14151,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 20229,
+      "Progressed": 20233,
       "Completed": 10428
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 710928,
+      "Progressed": 710932,
       "Completed": 12827
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-20T17:59:39.2000981+00:00",
-  "LastChanged_Achievements": "2023-07-20T19:07:32.0550447+00:00",
+  "LastChanged_Achievements": "2023-07-20T20:08:15.9237842+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:57.8822848+00:00",
-  "LastUpdate_Ratings": "2023-07-20T18:59:50.2624474+00:00",
-  "LastUpdate_Achievements": "2023-07-20T19:07:32.0551165+00:00"
+  "LastUpdate_Ratings": "2023-07-20T20:00:06.8130484+00:00",
+  "LastUpdate_Achievements": "2023-07-20T20:08:15.9238707+00:00"
 }

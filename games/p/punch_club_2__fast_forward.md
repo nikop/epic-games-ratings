@@ -4,21 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Such a strange dream… | 109.00% | ~12 |
-| Your first fight | 91.00% | ~10 |
-| Good Person Chip | 73.00% | ~8 |
-| Your first job | 64.00% | ~7 |
-| First defeat | 55.00% | ~6 |
-| First winning | 55.00% | ~6 |
-| Old movies enjoyer | 55.00% | ~6 |
-| Neurotrainer – power gainer! | 55.00% | ~6 |
-| Depressed visitor | 36.00% | ~4 |
-| Fitness professional | 27.00% | ~3 |
-| Run K, run! | 27.00% | ~3 |
-| Intriguing candies | 27.00% | ~3 |
-| Employee of the week | 27.00% | ~3 |
-| Your own amateur gym | 9.00% | ~1 |
-| Hello, world! | 9.00% | ~1 |
+| Such a strange dream… | 108.00% | ~14 |
+| Your first fight | 100.00% | ~13 |
+| Good Person Chip | 85.00% | ~11 |
+| Your first job | 69.00% | ~9 |
+| First winning | 62.00% | ~8 |
+| First defeat | 54.00% | ~7 |
+| Old movies enjoyer | 54.00% | ~7 |
+| Neurotrainer – power gainer! | 54.00% | ~7 |
+| Fitness professional | 46.00% | ~6 |
+| Depressed visitor | 46.00% | ~6 |
+| Intriguing candies | 38.00% | ~5 |
+| Your own amateur gym | 23.00% | ~3 |
+| Run K, run! | 23.00% | ~3 |
+| Hello, world! | 23.00% | ~3 |
+| Employee of the week | 23.00% | ~3 |
+| No bullying more | 8.00% | ~1 |
 | Mom got better | 0.00% | ~0 |
 | Deal with life | 0.00% | ~0 |
 | Now you are worthy | 0.00% | ~0 |
@@ -41,7 +42,6 @@
 | Not little hacker | 0.00% | ~0 |
 | Little hacker | 0.00% | ~0 |
 | Handyman | 0.00% | ~0 |
-| No bullying more | 0.00% | ~0 |
 | Law student | 0.00% | ~0 |
 | Champion – starter pack | 0.00% | ~0 |
 | Champion – no way back | 0.00% | ~0 |
@@ -71,10 +71,10 @@
 | Employee of the month | 0.00% | ~0 |
 | Employee of the year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11 (Ranked 404)  
+Progressed: 13 (Ranked 396)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-07-17 | 3 | 0 |
-| 2023-07-20 | 11 | 0 |
+| 2023-07-20 | 13 | 0 |

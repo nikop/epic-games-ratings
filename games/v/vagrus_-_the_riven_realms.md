@@ -15,10 +15,10 @@
 | Fight Another Day | 6.00% | ~7 |
 | Conciliator | 5.00% | ~6 |
 | Scholar | 5.00% | ~6 |
+| Taskmaster | 5.00% | ~6 |
 | Courier | 4.00% | ~5 |
 | Acquaintance | 4.00% | ~5 |
 | Tail-wind | 4.00% | ~5 |
-| Taskmaster | 4.00% | ~5 |
 | Quartermaster | 3.00% | ~3 |
 | Supercargo | 3.00% | ~3 |
 | Strategist | 3.00% | ~3 |

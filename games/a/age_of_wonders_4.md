@@ -35,10 +35,10 @@ Rating: 4.63 (Ranked 330)
 | The Creator | 2.00% | ~100 |
 | Enchanted Archipelago | 2.00% | ~100 |
 | The Goddess of Nature | 2.00% | ~100 |
+| Eternal Lord | 2.00% | ~100 |
 | Digging for Treasure | 2.00% | ~100 |
 | Preparation Is Everything | 2.00% | ~100 |
 | Duality | 2.00% | ~100 |
-| Eternal Lord | 1.00% | ~50 |
 | Crimson Caldera | 1.00% | ~50 |
 | The Eternal Court | 1.00% | ~50 |
 | Jack of All Tomes | 1.00% | ~50 |

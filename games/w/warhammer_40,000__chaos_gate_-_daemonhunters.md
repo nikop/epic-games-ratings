@@ -6,9 +6,9 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 39.00% | ~1,163 |
-| Look Over There! | 33.00% | ~984 |
-| Watch Where You Step... | 33.00% | ~984 |
+| Executioner | 39.00% | ~1,164 |
+| Look Over There! | 34.00% | ~1,015 |
+| Watch Where You Step... | 33.00% | ~985 |
 | Not So Fast... | 32.00% | ~955 |
 | An Ill Omen | 31.00% | ~925 |
 | Purging Spree | 25.00% | ~746 |
@@ -21,18 +21,18 @@ Number of Ratings: 371  (23.09.2022)
 | Nemesis Master | 12.00% | ~358 |
 | Gunmaster | 12.00% | ~358 |
 | A Foul Creche | 12.00% | ~358 |
-| Opportunist | 9.00% | ~268 |
-| Efficient Killer | 9.00% | ~268 |
-| Just a Scratch | 9.00% | ~268 |
+| Opportunist | 9.00% | ~269 |
+| Efficient Killer | 9.00% | ~269 |
+| Just a Scratch | 9.00% | ~269 |
 | Hold Your Ground | 7.00% | ~209 |
 | A Gift Spurned | 5.00% | ~149 |
 | Daemonkeeper | 4.00% | ~119 |
 | Corruption Cleanser | 4.00% | ~119 |
 | Mind Like a Fortress | 4.00% | ~119 |
 | Long Distance Call | 4.00% | ~119 |
-| Harvest No More | 3.00% | ~89 |
-| Junk Banishment | 3.00% | ~89 |
-| Tactical Flexibility | 3.00% | ~89 |
+| Harvest No More | 3.00% | ~90 |
+| Junk Banishment | 3.00% | ~90 |
+| Tactical Flexibility | 3.00% | ~90 |
 | Patron of Deimos | 2.00% | ~60 |
 | Fleetmaster | 2.00% | ~60 |
 | Exterminator | 2.00% | ~60 |
@@ -66,7 +66,7 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,983 (Ranked 151)  
+Progressed: 2,984 (Ranked 151)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-17 | 2,972 | 0 |
 | 2023-07-18 | 2,975 | 0 |
 | 2023-07-19 | 2,979 | 0 |
-| 2023-07-20 | 2,983 | 0 |
+| 2023-07-20 | 2,984 | 0 |
 ## Awards
 Max (Character Customization): 214  (Ranked 263)  
 Sum: 451 (Ranked 304)  

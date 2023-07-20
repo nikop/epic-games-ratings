@@ -3,8 +3,8 @@
   "Name": "Astalon -Tears of the Earth-",
   "ProductSlug": "astalon-tears-of-the-earth-1b2279",
   "Ranking_EOS_Progress": 334,
-  "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_Completed": 50,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-04-01T00:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 55,
+  "EOS_Progressed": 56,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.64,
+  "EOS_Completed_Percentage": 3.57,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:01.3708206+00:00",
@@ -51,6 +51,11 @@
       "Time": "2023-06-17T02:09:17.8699402+00:00",
       "NumProgressed": 55,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-20T20:07:12.3506378+00:00",
+      "NumProgressed": 56,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -68,7 +73,7 @@
       "ID": "Beat_Game",
       "SetID": "4f0g260",
       "Name": "Vanquisher!",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 30,
       "UsersEstimate": 17
     },
@@ -148,7 +153,7 @@
       "ID": "Collect_10000_Orbs",
       "SetID": "4f0g260",
       "Name": "Orb Gatherer",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
       "UsersEstimate": 18
     },
@@ -156,7 +161,7 @@
       "ID": "Collect_50000_Orbs",
       "SetID": "4f0g260",
       "Name": "Orb Collector",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
       "UsersEstimate": 17
     },
@@ -172,7 +177,7 @@
       "ID": "Complete_Bestiary_20",
       "SetID": "4f0g260",
       "Name": "Beast Quest",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
       "UsersEstimate": 19
     },
@@ -180,7 +185,7 @@
       "ID": "Complete_Bestiary_50",
       "SetID": "4f0g260",
       "Name": "Beast Hunter",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
       "UsersEstimate": 18
     },
@@ -196,7 +201,7 @@
       "ID": "Defeat_1000_Enemies",
       "SetID": "4f0g260",
       "Name": "Monster Hunt",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
       "UsersEstimate": 19
     },
@@ -204,7 +209,7 @@
       "ID": "Defeat_5000_Enemies",
       "SetID": "4f0g260",
       "Name": "Slay the Monster!",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 8
     },
@@ -220,7 +225,7 @@
       "ID": "Defeat_Medusa",
       "SetID": "4f0g260",
       "Name": "Snakehead!",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
       "UsersEstimate": 17
     },
@@ -228,7 +233,7 @@
       "ID": "Defeat_Solaria",
       "SetID": "4f0g260",
       "Name": "Unmasked!",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
       "UsersEstimate": 17
     },
@@ -236,7 +241,7 @@
       "ID": "Defeat_Tauros",
       "SetID": "4f0g260",
       "Name": "Horn prize!",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 15,
       "UsersEstimate": 26
     },
@@ -244,7 +249,7 @@
       "ID": "Defeat_Volantis",
       "SetID": "4f0g260",
       "Name": "Space worm!",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
       "UsersEstimate": 18
     },
@@ -292,7 +297,7 @@
       "ID": "Unlock_Zeek",
       "SetID": "4f0g260",
       "Name": "Loot, loot!",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 30,
       "UsersEstimate": 17
     }
@@ -301,7 +306,7 @@
     {
       "ID": "4f0g260",
       "IsBase": true,
-      "Progressed": 55,
+      "Progressed": 56,
       "Completed": 2
     }
   ],
@@ -309,8 +314,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6585967+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.3708214+00:00",
   "LastChanged": "2023-03-31T05:57:06.6585968+00:00",
-  "LastChanged_Achievements": "2023-07-20T19:06:37.9706694+00:00",
+  "LastChanged_Achievements": "2023-07-20T20:07:12.3506373+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:13.177753+00:00",
-  "LastUpdate_Ratings": "2023-07-20T18:59:01.7534648+00:00",
-  "LastUpdate_Achievements": "2023-07-20T19:06:37.9706853+00:00"
+  "LastUpdate_Ratings": "2023-07-20T19:59:15.8907383+00:00",
+  "LastUpdate_Achievements": "2023-07-20T20:07:12.35066+00:00"
 }

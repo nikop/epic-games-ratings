@@ -6,23 +6,23 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 75.00% | ~2,295 |
-| Ready for Winter | 64.00% | ~1,958 |
-| Ready for Summer | 51.00% | ~1,561 |
-| Cordon Bleu | 44.00% | ~1,346 |
-| Tapped! | 37.00% | ~1,132 |
-| Eureka | 32.00% | ~979 |
-| Scourge Slayer | 26.00% | ~796 |
-| Science, Troglodyte! | 23.00% | ~704 |
-| Exceptional Skill | 22.00% | ~673 |
-| Home Sweet Home | 22.00% | ~673 |
-| Encyclopedic! | 20.00% | ~612 |
-| The Power of Family | 17.00% | ~520 |
+| Venture Outward | 75.00% | ~2,298 |
+| Ready for Winter | 64.00% | ~1,961 |
+| Ready for Summer | 51.00% | ~1,563 |
+| Cordon Bleu | 44.00% | ~1,348 |
+| Tapped! | 37.00% | ~1,134 |
+| Eureka | 32.00% | ~980 |
+| Scourge Slayer | 26.00% | ~797 |
+| Science, Troglodyte! | 23.00% | ~705 |
+| Exceptional Skill | 22.00% | ~674 |
+| Home Sweet Home | 22.00% | ~674 |
+| Encyclopedic! | 20.00% | ~613 |
+| The Power of Family | 17.00% | ~521 |
 | A Fortress Toppled! | 16.00% | ~490 |
 | Apex Predator | 16.00% | ~490 |
-| Strange amalgams | 12.00% | ~367 |
-| The Power of Faith | 12.00% | ~367 |
-| The Power of Freedom | 9.00% | ~275 |
+| Strange amalgams | 12.00% | ~368 |
+| The Power of Faith | 12.00% | ~368 |
+| The Power of Freedom | 9.00% | ~276 |
 | Ace Detective | 8.00% | ~245 |
 | Gift from the Ancestors | 8.00% | ~245 |
 | House of Cards | 8.00% | ~245 |
@@ -32,9 +32,9 @@ Number of Ratings: 266  (23.09.2022)
 | The stuff of legends. | 7.00% | ~214 |
 | Blood and justice | 6.00% | ~184 |
 | Hold my Mead and Watch This | 6.00% | ~184 |
-| Ancestor's Pride | 4.00% | ~122 |
-| For All Aurai | 4.00% | ~122 |
-| Memory of a legend | 4.00% | ~122 |
+| Ancestor's Pride | 4.00% | ~123 |
+| For All Aurai | 4.00% | ~123 |
+| Memory of a legend | 4.00% | ~123 |
 | Light of Levant | 3.00% | ~92 |
 | This was a mistake... | 3.00% | ~92 |
 | Crowd Pleaser. | 2.00% | ~61 |
@@ -44,12 +44,12 @@ Number of Ratings: 266  (23.09.2022)
 | The blood is life | 1.00% | ~31 |
 | They'll Tell Stories About This | 1.00% | ~31 |
 | Vanquisher of nightmares | 1.00% | ~31 |
-| Through fire and flame. | 0.80% | ~24 |
+| Through fire and flame. | 0.80% | ~25 |
 | Legacy of a master hunter | 0.50% | ~15 |
 | Master of Aurai | 0.30% | ~9 |
 | The Absolute Pinnacle. | 0.30% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,060 (Ranked 150)  
+Progressed: 3,064 (Ranked 150)  
 Completed: 3 (0.10%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 3 (0.10%) (Ranked 185)
 | 2023-07-17 | 3,052 | 3 |
 | 2023-07-18 | 3,054 | 3 |
 | 2023-07-19 | 3,057 | 3 |
-| 2023-07-20 | 3,060 | 3 |
+| 2023-07-20 | 3,064 | 3 |
 ## Awards
 Max (Highly Recommended): 33  (Ranked 443)  
 Sum: 241 (Ranked 349)  

@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 5.00% | ~1,011 |
+| Diligence as a goal | 5.00% | ~1,012 |
 | Project Arena | 4.00% | ~809 |
 | The Old Grandmaster | 2.00% | ~14,219 |
 | The Assault | 2.00% | ~14,219 |
@@ -22,6 +22,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kill Nil | 1.00% | ~7,109 |
 | Stuntmaster | 1.00% | ~7,109 |
 | Street Fighting | 1.00% | ~7,109 |
+| Qi Gong: Mind | 1.00% | ~7,109 |
 | Qi Gong: Essence | 1.00% | ~7,109 |
 | Old Child | 1.00% | ~7,109 |
 | Kung-Fu Tussle | 1.00% | ~7,109 |
@@ -31,11 +32,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bloody Sport | 1.00% | ~202 |
 | The best strikes are the ones we avoid | 1.00% | ~202 |
 | Dance of the Praying Mantis | 0.90% | ~6,398 |
-| Qi Gong: Mind | 0.90% | ~6,398 |
 | I know Kung-Fu | 0.90% | ~6,398 |
-| Muk Yan Master | 0.70% | ~4,976 |
-| Tiger on Fire | 0.70% | ~4,976 |
-| Detective Story | 0.70% | ~4,976 |
+| Muk Yan Master | 0.70% | ~4,977 |
+| Tiger on Fire | 0.70% | ~4,977 |
+| Detective Story | 0.70% | ~4,977 |
 | Deadly Venom | 0.70% | ~142 |
 | A Touch of Acumen | 0.70% | ~142 |
 | Source of Flying Daggers | 0.60% | ~4,266 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,422 |
 | Warriors from the Mountain | 0.10% | ~711 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 710,928 (Ranked 18)  
+Progressed: 710,932 (Ranked 18)  
 Completed: 12,827 (1.80%) (Ranked 82)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 12,827 (1.80%) (Ranked 82)
 | 2023-07-17 | 710,851 | 12,822 |
 | 2023-07-18 | 710,882 | 12,825 |
 | 2023-07-19 | 710,897 | 12,825 |
-| 2023-07-20 | 710,928 | 12,827 |
+| 2023-07-20 | 710,932 | 12,827 |
 ## Awards
 Max (Great Boss Battles): 6,288  (Ranked 53)  
 Sum: 10,778 (Ranked 78)  

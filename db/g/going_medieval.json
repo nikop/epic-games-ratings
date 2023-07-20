@@ -3,11 +3,11 @@
   "Name": "Going Medieval",
   "ProductSlug": "going-medieval",
   "Ranking_Rating": 391,
-  "Ranking_Popularity": 312,
-  "Ranking_PopularitySum": 239,
+  "Ranking_Popularity": 311,
+  "Ranking_PopularitySum": 238,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1062,18 +1062,24 @@
       "Rating": 4.6,
       "NumberOfAwards": 961,
       "NumberOfAwardsMax": 120
+    },
+    {
+      "Time": "2023-07-20T20:01:14.5225522+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 962,
+      "NumberOfAwardsMax": 121
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 961,
-  "NumberOfAwardsMax": 120,
+  "NumberOfAwards": 962,
+  "NumberOfAwardsMax": 121,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 120
+      "Count": 121
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1144,7 +1150,7 @@
   ],
   "EOS_Progressed": 4721,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -5941,9 +5947,9 @@
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
-  "LastChanged": "2023-07-18T10:01:19.727829+00:00",
-  "LastChanged_Achievements": "2023-07-20T18:04:04.9012524+00:00",
+  "LastChanged": "2023-07-20T20:01:14.5225521+00:00",
+  "LastChanged_Achievements": "2023-07-20T20:02:08.1813919+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:56.6430325+00:00",
-  "LastUpdate_Ratings": "2023-07-20T19:00:49.5164217+00:00",
-  "LastUpdate_Achievements": "2023-07-20T18:04:04.9013202+00:00"
+  "LastUpdate_Ratings": "2023-07-20T20:01:14.5225528+00:00",
+  "LastUpdate_Achievements": "2023-07-20T20:02:08.1814544+00:00"
 }

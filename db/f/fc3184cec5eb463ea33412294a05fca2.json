@@ -4,7 +4,7 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -515,9 +515,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "8d3ci0",
       "Name": "Three is company",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -539,9 +539,9 @@
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "8d3ci0",
       "Name": "Ducks adrift",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -650,8 +650,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-20T19:05:46.9653823+00:00",
+  "LastChanged_Achievements": "2023-07-20T20:06:11.8197069+00:00",
   "LastUpdate_AppInfo": "2023-07-15T11:57:13.4695515+00:00",
-  "LastUpdate_Ratings": "2023-07-20T18:57:21.0879267+00:00",
-  "LastUpdate_Achievements": "2023-07-20T19:05:46.965394+00:00"
+  "LastUpdate_Ratings": "2023-07-20T19:57:19.8527121+00:00",
+  "LastUpdate_Achievements": "2023-07-20T20:06:11.8197218+00:00"
 }

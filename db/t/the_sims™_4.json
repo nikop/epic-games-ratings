@@ -2,12 +2,12 @@
   "ID": "2a14cf8a83b149919a2399504e5686a6",
   "Name": "The Sims\u2122 4",
   "ProductSlug": "the-sims-4",
-  "Ranking_Rating": 347,
+  "Ranking_Rating": 364,
   "Ranking_Popularity": 188,
   "Ranking_PopularitySum": 151,
   "Ranking_EOS_Progress": 501,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-02-02T18:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.62,
+  "Rating": 4.61,
   "RatingHistory": [
     {
       "Time": "2023-02-05T14:56:53.5654686+00:00",
@@ -4328,10 +4328,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 3391,
       "NumberOfAwardsMax": 545
+    },
+    {
+      "Time": "2023-07-20T19:58:16.1194792+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3401,
+      "NumberOfAwardsMax": 545
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3391,
+  "NumberOfAwards": 3401,
   "NumberOfAwardsMax": 545,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4357,7 +4363,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 308
+      "Count": 314
     },
     {
       "Text": "This game is Educational",
@@ -4399,7 +4405,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 226
+      "Count": 230
     }
   ],
   "EOS_Progressed": 0,
@@ -4414,8 +4420,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
-  "LastChanged": "2023-07-20T14:57:47.98378+00:00",
+  "LastChanged": "2023-07-20T19:58:16.1194788+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:03.0017528+00:00",
-  "LastUpdate_Ratings": "2023-07-20T18:58:11.0739289+00:00",
-  "LastUpdate_Achievements": "2023-07-20T19:02:26.1395763+00:00"
+  "LastUpdate_Ratings": "2023-07-20T19:58:16.1194797+00:00",
+  "LastUpdate_Achievements": "2023-07-20T20:02:34.8949936+00:00"
 }

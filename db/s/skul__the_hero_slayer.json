@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 261,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -896,9 +896,9 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 7920,
+  "EOS_Progressed": 7921,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3456,6 +3456,11 @@
       "Time": "2023-07-20T17:05:43.1038429+00:00",
       "NumProgressed": 7920,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-07-20T20:05:44.2664363+00:00",
+      "NumProgressed": 7921,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -3507,7 +3512,7 @@
       "Name": "The Dwarven Chandelier",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "FakeGoddessGone",
@@ -3547,7 +3552,7 @@
       "Name": "Go Home...",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2138
+      "UsersEstimate": 2139
     },
     {
       "ID": "HeroSlayer",
@@ -3627,7 +3632,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7366
+      "UsersEstimate": 7367
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -3651,22 +3656,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6653
+      "UsersEstimate": 6654
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7920,
+      "Progressed": 7921,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-07-16T13:11:50.188499+00:00",
-  "LastChanged_Achievements": "2023-07-20T19:05:23.9755867+00:00",
+  "LastChanged_Achievements": "2023-07-20T20:05:44.2664358+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:55.8883979+00:00",
-  "LastUpdate_Ratings": "2023-07-20T18:59:53.3202728+00:00",
-  "LastUpdate_Achievements": "2023-07-20T19:05:23.9756095+00:00"
+  "LastUpdate_Ratings": "2023-07-20T20:00:09.1251761+00:00",
+  "LastUpdate_Achievements": "2023-07-20T20:05:44.2664733+00:00"
 }
