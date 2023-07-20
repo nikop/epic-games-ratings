@@ -5,23 +5,23 @@ Rating: 4.75 (Ranked 133)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 77.00% | ~60,991 |
-| The Player Whisperer | 76.00% | ~60,199 |
+| Motivational Speaker | 77.00% | ~60,992 |
+| The Player Whisperer | 76.00% | ~60,200 |
 | One of Us, One of Us! | 73.00% | ~57,823 |
-| Clean Sheet | 68.00% | ~53,862 |
-| First Victory | 68.00% | ~53,862 |
-| #DoneDeal | 67.00% | ~53,070 |
+| Clean Sheet | 68.00% | ~53,863 |
+| First Victory | 68.00% | ~53,863 |
+| #DoneDeal | 67.00% | ~53,071 |
 | Off the Books | 65.00% | ~51,486 |
 | Super-Sub | 65.00% | ~51,486 |
-| Hat-trick | 60.00% | ~47,525 |
-| "I Would Love It If We Beat Them" | 58.00% | ~45,941 |
-| Planned Signing | 58.00% | ~45,941 |
+| Hat-trick | 60.00% | ~47,526 |
+| "I Would Love It If We Beat Them" | 58.00% | ~45,942 |
+| Planned Signing | 58.00% | ~45,942 |
 | Thumping | 53.00% | ~41,981 |
 | Scoring Streak | 53.00% | ~41,981 |
 | Wheeler Dealer | 52.00% | ~41,189 |
 | People Pleaser | 51.00% | ~40,397 |
-| Unbeatable! | 50.00% | ~39,604 |
-| One Of Our Own | 48.00% | ~38,020 |
+| Unbeatable! | 50.00% | ~39,605 |
+| One Of Our Own | 48.00% | ~38,021 |
 | They're a Natural | 44.00% | ~34,852 |
 | Record Signing | 44.00% | ~34,852 |
 | Team Performance | 43.00% | ~34,060 |
@@ -31,14 +31,14 @@ Rating: 4.75 (Ranked 133)
 | Squad Goals | 40.00% | ~31,684 |
 | Parked The Bus | 39.00% | ~30,892 |
 | The People's Champion | 39.00% | ~30,892 |
-| Beating Expectations | 38.00% | ~30,099 |
-| Goal Rush | 38.00% | ~30,099 |
-| What A Goal! | 36.00% | ~28,515 |
-| Flavour Of The Month | 36.00% | ~28,515 |
-| Tremendous Trio | 35.00% | ~27,723 |
-| Unstoppable Force | 35.00% | ~27,723 |
-| Record Sale | 35.00% | ~27,723 |
-| Shots For Days | 35.00% | ~27,723 |
+| Beating Expectations | 38.00% | ~30,100 |
+| Goal Rush | 38.00% | ~30,100 |
+| What A Goal! | 36.00% | ~28,516 |
+| Flavour Of The Month | 36.00% | ~28,516 |
+| Tremendous Trio | 35.00% | ~27,724 |
+| Unstoppable Force | 35.00% | ~27,724 |
+| Record Sale | 35.00% | ~27,724 |
+| Shots For Days | 35.00% | ~27,724 |
 | You're on Fire | 34.00% | ~26,931 |
 | Splashing the Cash | 33.00% | ~26,139 |
 | The Special One | 33.00% | ~26,139 |
@@ -47,8 +47,8 @@ Rating: 4.75 (Ranked 133)
 | Goal Machine | 31.00% | ~24,555 |
 | Immovable Object | 28.00% | ~22,179 |
 | Cup Glory! | 28.00% | ~22,179 |
-| Cash to Burn | 27.00% | ~21,386 |
-| Irresistible Force | 26.00% | ~20,594 |
+| Cash to Burn | 27.00% | ~21,387 |
+| Irresistible Force | 26.00% | ~20,595 |
 | Do The Double | 23.00% | ~18,218 |
 | A Game of Two Halves | 21.00% | ~16,634 |
 | Top Form | 19.00% | ~15,050 |
@@ -58,7 +58,7 @@ Rating: 4.75 (Ranked 133)
 | Clean Sheet Network | 17.00% | ~13,466 |
 | First Win Network | 17.00% | ~13,466 |
 | Window Shopping | 17.00% | ~13,466 |
-| Tête-à-tête | 15.00% | ~11,881 |
+| Tête-à-tête | 15.00% | ~11,882 |
 | Superb Strike | 14.00% | ~11,089 |
 | Best in the World | 14.00% | ~11,089 |
 | National Service | 12.00% | ~9,505 |
@@ -106,8 +106,8 @@ Rating: 4.75 (Ranked 133)
 | Versus Anyone | 0.10% | ~79 |
 | 200 Club | 0.10% | ~79 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79,209 (Ranked 71)  
-Completed: 22 (0.03%) (Ranked 211)  
+Progressed: 79,210 (Ranked 71)  
+Completed: 22 (0.03%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -197,15 +197,15 @@ Completed: 22 (0.03%) (Ranked 211)
 | 2023-07-17 | 78,932 | 22 |
 | 2023-07-18 | 79,061 | 22 |
 | 2023-07-19 | 79,187 | 22 |
-| 2023-07-20 | 79,209 | 22 |
+| 2023-07-20 | 79,210 | 22 |
 ## Awards
 Max (Diverse Characters): 543  (Ranked 187)  
-Sum: 4,003 (Ranked 139)  
+Sum: 4,006 (Ranked 139)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 543 |
-| This game is Highly Recommended | 492 |
+| This game is Highly Recommended | 495 |
 | This game is Extremely Fun | 480 |
 | This game is Educational | 464 |
 | This game is Relaxing | 451 |
@@ -361,3 +361,4 @@ Diff (max vs sum): 48
 | 2023-07-17 | 4.75 | 541 | 3,972 |
 | 2023-07-18 | 4.75 | 543 | 3,988 |
 | 2023-07-19 | 4.75 | 543 | 4,003 |
+| 2023-07-20 | 4.75 | 543 | 4,006 |

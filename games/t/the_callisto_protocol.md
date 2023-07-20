@@ -35,9 +35,9 @@ Rating: 4.19 (Ranked 848)
 | Armed to the Teeth | 0.50% | ~18 |
 | Information Overload | 0.50% | ~18 |
 | Grim Reaper | 0.40% | ~63 |
+| Quick Pick | 0.40% | ~15 |
 | Parole Denied | 0.30% | ~11 |
 | Big Spender | 0.30% | ~11 |
-| Quick Pick | 0.30% | ~11 |
 | Mugshot | 0.20% | ~31 |
 | Instigator | 0.20% | ~7 |
 | It's over, Jacob! | 0.10% | ~16 |

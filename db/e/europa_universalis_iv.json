@@ -7296,9 +7296,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 71785,
+  "EOS_Progressed": 71790,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2811,
+  "EOS_NewPlayers": 2808,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17146,6 +17146,11 @@
       "Time": "2023-07-20T05:04:36.1488861+00:00",
       "NumProgressed": 71785,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-20T06:04:41.8092363+00:00",
+      "NumProgressed": 71790,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -17677,7 +17682,7 @@
       "Name": "Cold War",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2871
+      "UsersEstimate": 2872
     },
     {
       "ID": "achievement_colonial_management",
@@ -17869,7 +17874,7 @@
       "Name": "Electable!",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "achievement_emperor_of_hindustan",
@@ -17989,7 +17994,7 @@
       "Name": "For the Glory",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3589
+      "UsersEstimate": 3590
     },
     {
       "ID": "achievement_forever_golden",
@@ -18965,7 +18970,7 @@
       "Name": "Populists in Government",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "achievement_prester_john",
@@ -19749,7 +19754,7 @@
       "Name": "True Catholic",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2871
+      "UsersEstimate": 2872
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -19988,21 +19993,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 71785,
+      "Progressed": 71790,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 71785,
+      "Progressed": 71790,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-07-19T23:57:28.8889586+00:00",
-  "LastChanged_Achievements": "2023-07-20T05:04:36.1488855+00:00",
+  "LastChanged_Achievements": "2023-07-20T06:04:41.8092359+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:17.9711886+00:00",
-  "LastUpdate_Ratings": "2023-07-20T04:57:46.9598977+00:00",
-  "LastUpdate_Achievements": "2023-07-20T05:04:36.1502042+00:00"
+  "LastUpdate_Ratings": "2023-07-20T05:57:49.3208582+00:00",
+  "LastUpdate_Achievements": "2023-07-20T06:04:41.8103047+00:00"
 }

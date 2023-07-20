@@ -2,12 +2,12 @@
   "ID": "03fd634dc7f24662ac5545277b89a826",
   "Name": "The Uncertain: Light at the End",
   "ProductSlug": "the-uncertain-light-at-the-end",
-  "Ranking_Rating": 939,
+  "Ranking_Rating": 938,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 101,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -685,8 +685,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-07-20T05:04:29.8439192+00:00",
+  "LastChanged_Achievements": "2023-07-20T06:04:35.1974028+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:34.9258326+00:00",
-  "LastUpdate_Ratings": "2023-07-20T04:57:00.1139899+00:00",
-  "LastUpdate_Achievements": "2023-07-20T05:04:29.843959+00:00"
+  "LastUpdate_Ratings": "2023-07-20T05:57:01.6620465+00:00",
+  "LastUpdate_Achievements": "2023-07-20T06:04:35.1974341+00:00"
 }

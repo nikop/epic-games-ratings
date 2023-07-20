@@ -160,9 +160,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2972,
+  "EOS_Progressed": 2973,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2880,6 +2880,11 @@
       "Time": "2023-07-20T05:01:07.7827987+00:00",
       "NumProgressed": 2972,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-20T06:01:22.3462433+00:00",
+      "NumProgressed": 2973,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2899,7 +2904,7 @@
       "Name": "Flawless Victory",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "ACH_ALL_WEAPONS",
@@ -2939,7 +2944,7 @@
       "Name": "Omelette Du Fromage",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -2947,7 +2952,7 @@
       "Name": "Stuff Of Nightmares",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "ACH_FINISH_HARD",
@@ -2971,7 +2976,7 @@
       "Name": "This Went Smoothly",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "ACH_FINISH_NIGHTMARE",
@@ -3003,7 +3008,7 @@
       "Name": "Call Me Snake",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1813
+      "UsersEstimate": 1814
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -3083,7 +3088,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 1753
+      "UsersEstimate": 1754
     },
     {
       "ID": "ACH_MISSION_02",
@@ -3115,7 +3120,7 @@
       "Name": "Where It All Begun",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 1040
+      "UsersEstimate": 1041
     },
     {
       "ID": "ACH_MISSION_06",
@@ -3123,7 +3128,7 @@
       "Name": "Living Nightmare",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "ACH_MISSION_07",
@@ -3187,7 +3192,7 @@
       "Name": "Snatched Out",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2199
+      "UsersEstimate": 2200
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -3195,7 +3200,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 2407
+      "UsersEstimate": 2408
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -3203,7 +3208,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -3211,7 +3216,7 @@
       "Name": "People Person",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 1575
+      "UsersEstimate": 1576
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -3227,7 +3232,7 @@
       "Name": "Recouped Investment",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 1040
+      "UsersEstimate": 1041
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -3235,7 +3240,7 @@
       "Name": "The More The Merrier",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "ACH_USE_REDEMPTION",
@@ -3250,7 +3255,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 2972,
+      "Progressed": 2973,
       "Completed": 0
     }
   ],
@@ -3258,8 +3263,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-20T02:02:12.6421273+00:00",
-  "LastChanged_Achievements": "2023-07-20T05:01:07.7827957+00:00",
+  "LastChanged_Achievements": "2023-07-20T06:01:22.346243+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:18.2957495+00:00",
-  "LastUpdate_Ratings": "2023-07-20T04:59:46.7754763+00:00",
-  "LastUpdate_Achievements": "2023-07-20T05:01:07.7829061+00:00"
+  "LastUpdate_Ratings": "2023-07-20T05:59:52.0164989+00:00",
+  "LastUpdate_Achievements": "2023-07-20T06:01:22.3462818+00:00"
 }

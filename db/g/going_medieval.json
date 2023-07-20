@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 239,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1142,9 +1142,9 @@
       "Count": 65
     }
   ],
-  "EOS_Progressed": 4712,
+  "EOS_Progressed": 4713,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -5642,6 +5642,11 @@
       "Time": "2023-07-20T05:03:32.7509649+00:00",
       "NumProgressed": 4712,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-20T06:03:37.5354302+00:00",
+      "NumProgressed": 4713,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 31,
@@ -5677,7 +5682,7 @@
       "Name": "Nothing Wasted",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "HARVEST_CROPS_200",
@@ -5701,7 +5706,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 3298
+      "UsersEstimate": 3299
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -5773,7 +5778,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 2544
+      "UsersEstimate": 2545
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -5797,7 +5802,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 2827
+      "UsersEstimate": 2828
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -5813,7 +5818,7 @@
       "Name": "The First Day",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 3157
+      "UsersEstimate": 3158
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -5829,7 +5834,7 @@
       "Name": "Heating Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1319
+      "UsersEstimate": 1320
     },
     {
       "ID": "SURVIVE_FIRST_WINTER",
@@ -5853,7 +5858,7 @@
       "Name": "The First Week",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 2497
+      "UsersEstimate": 2498
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -5869,7 +5874,7 @@
       "Name": "Adept Researcher",
       "Percentage": 44,
       "XP": 75,
-      "UsersEstimate": 2073
+      "UsersEstimate": 2074
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -5900,15 +5905,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 4712,
+      "Progressed": 4713,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-07-18T10:01:19.727829+00:00",
-  "LastChanged_Achievements": "2023-07-20T05:03:32.7509639+00:00",
+  "LastChanged_Achievements": "2023-07-20T06:03:37.5354299+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:56.6430325+00:00",
-  "LastUpdate_Ratings": "2023-07-20T05:00:22.1544592+00:00",
-  "LastUpdate_Achievements": "2023-07-20T05:03:32.7510599+00:00"
+  "LastUpdate_Ratings": "2023-07-20T06:00:32.2011204+00:00",
+  "LastUpdate_Achievements": "2023-07-20T06:03:37.5354707+00:00"
 }

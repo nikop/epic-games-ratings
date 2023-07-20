@@ -39,7 +39,7 @@ Rating: 4.67 (Ranked 259)
 | A Starfish Is Born | 1.00% | ~230 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 23,031 (Ranked 100)  
-Completed: 9 (0.04%) (Ranked 208)  
+Completed: 9 (0.04%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

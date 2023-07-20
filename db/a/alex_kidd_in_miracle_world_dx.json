@@ -4,7 +4,7 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -302,8 +302,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-07-20T05:06:53.0583238+00:00",
+  "LastChanged_Achievements": "2023-07-20T06:06:59.9437561+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:51.0652019+00:00",
-  "LastUpdate_Ratings": "2023-07-20T04:58:32.8040683+00:00",
-  "LastUpdate_Achievements": "2023-07-20T05:06:53.0583427+00:00"
+  "LastUpdate_Ratings": "2023-07-20T05:58:35.0843777+00:00",
+  "LastUpdate_Achievements": "2023-07-20T06:06:59.9437657+00:00"
 }

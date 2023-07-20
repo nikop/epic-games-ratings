@@ -2,7 +2,7 @@
   "ID": "c4a0429b74cb4abbb49b15e652ec6c1f",
   "Name": "Deverse World",
   "ProductSlug": "deverse-world-3ccb84",
-  "Ranking_EOS_Progress": 369,
+  "Ranking_EOS_Progress": 367,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 77,
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 26,
+  "EOS_Progressed": 27,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -96,6 +96,11 @@
       "Time": "2023-07-20T05:04:31.6069207+00:00",
       "NumProgressed": 26,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-20T06:04:37.0279896+00:00",
+      "NumProgressed": 27,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-19T08:04:21.5092334+00:00",
@@ -106,7 +111,7 @@
       "ID": "best_pianist",
       "SetID": "5fi1i42",
       "Name": "Best pianist in the metaverse",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -114,7 +119,7 @@
       "ID": "bitcoin_collector",
       "SetID": "5fi1i42",
       "Name": "Bitcoin Collector",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -138,7 +143,7 @@
       "ID": "hidden_basement",
       "SetID": "5fi1i42",
       "Name": "Hidden Basement",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -162,7 +167,7 @@
       "ID": "pianist",
       "SetID": "5fi1i42",
       "Name": "Pianist",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -210,7 +215,7 @@
       "ID": "super_creator",
       "SetID": "5fi1i42",
       "Name": "Super Creator",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 160,
       "UsersEstimate": 3
     },
@@ -218,7 +223,7 @@
       "ID": "tireless_explorer",
       "SetID": "5fi1i42",
       "Name": "Tireless Explorer",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 30,
       "UsersEstimate": 7
     },
@@ -234,7 +239,7 @@
       "ID": "virtual_self",
       "SetID": "5fi1i42",
       "Name": "Your virtual self",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -250,7 +255,7 @@
       "ID": "waifu_kata",
       "SetID": "5fi1i42",
       "Name": "Waifu Kata",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
       "UsersEstimate": 2
     }
@@ -259,14 +264,14 @@
     {
       "ID": "5fi1i42",
       "IsBase": true,
-      "Progressed": 26,
+      "Progressed": 27,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-12T15:57:01.7070767+00:00",
   "FirstSeenAchievements": "2023-07-18T16:05:27.8243884+00:00",
-  "LastChanged_Achievements": "2023-07-20T05:04:31.6069199+00:00",
+  "LastChanged_Achievements": "2023-07-20T06:04:37.0279891+00:00",
   "LastUpdate_AppInfo": "2023-07-13T05:57:07.3242054+00:00",
-  "LastUpdate_Ratings": "2023-07-20T04:57:13.0739727+00:00",
-  "LastUpdate_Achievements": "2023-07-20T05:04:31.6069411+00:00"
+  "LastUpdate_Ratings": "2023-07-20T05:57:14.5756954+00:00",
+  "LastUpdate_Achievements": "2023-07-20T06:04:37.0280002+00:00"
 }

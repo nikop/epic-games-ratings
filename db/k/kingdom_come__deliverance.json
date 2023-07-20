@@ -6042,9 +6042,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 793278,
+  "EOS_Progressed": 793280,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 1068,
+  "EOS_NewPlayers": 1065,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15802,6 +15802,11 @@
       "Time": "2023-07-20T05:02:37.9334631+00:00",
       "NumProgressed": 793278,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-07-20T06:02:32.6447494+00:00",
+      "NumProgressed": 793280,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -15837,7 +15842,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 126924
+      "UsersEstimate": 126925
     },
     {
       "ID": "Awakening",
@@ -15893,7 +15898,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 245916
+      "UsersEstimate": 245917
     },
     {
       "ID": "Bookworm",
@@ -15909,7 +15914,7 @@
       "Name": "Buddy",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 95193
+      "UsersEstimate": 95194
     },
     {
       "ID": "Casanova",
@@ -16213,7 +16218,7 @@
       "Name": "McLovin",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 55529
+      "UsersEstimate": 55530
     },
     {
       "ID": "MercenarysHonor",
@@ -16317,7 +16322,7 @@
       "Name": "Runt",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 55529
+      "UsersEstimate": 55530
     },
     {
       "ID": "Saviour",
@@ -16389,7 +16394,7 @@
       "Name": "Thief",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 95193
+      "UsersEstimate": 95194
     },
     {
       "ID": "TisButAScratch",
@@ -16468,15 +16473,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 793278,
+      "Progressed": 793280,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-07-20T02:01:01.6669641+00:00",
-  "LastChanged_Achievements": "2023-07-20T05:02:37.9334624+00:00",
+  "LastChanged_Achievements": "2023-07-20T06:02:32.644749+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:17.5597924+00:00",
-  "LastUpdate_Ratings": "2023-07-20T04:58:49.0379212+00:00",
-  "LastUpdate_Achievements": "2023-07-20T05:02:37.9337366+00:00"
+  "LastUpdate_Ratings": "2023-07-20T05:58:51.7152882+00:00",
+  "LastUpdate_Achievements": "2023-07-20T06:02:32.6448661+00:00"
 }

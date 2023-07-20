@@ -5146,18 +5146,24 @@
       "Rating": 4.77,
       "NumberOfAwards": 39513,
       "NumberOfAwardsMax": 21101
+    },
+    {
+      "Time": "2023-07-20T05:57:51.4883764+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 39537,
+      "NumberOfAwardsMax": 21120
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 39513,
-  "NumberOfAwardsMax": 21101,
+  "NumberOfAwards": 39537,
+  "NumberOfAwardsMax": 21120,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 21101
+      "Count": 21120
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -5217,7 +5223,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 795
+      "Count": 800
     },
     {
       "Text": "This game has a Creative Community",
@@ -5226,9 +5232,9 @@
       "Count": 560
     }
   ],
-  "EOS_Progressed": 288065,
+  "EOS_Progressed": 288068,
   "EOS_Completed": 431,
-  "EOS_NewPlayers": 905,
+  "EOS_NewPlayers": 899,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -14941,6 +14947,11 @@
       "Time": "2023-07-20T05:04:16.7215673+00:00",
       "NumProgressed": 288065,
       "NumCompleted": 431
+    },
+    {
+      "Time": "2023-07-20T06:04:21.8550816+00:00",
+      "NumProgressed": 288068,
+      "NumCompleted": 431
     }
   ],
   "TotalAchievements": 45,
@@ -15288,7 +15299,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 28806
+      "UsersEstimate": 28807
     },
     {
       "ID": "PFA_8",
@@ -15311,16 +15322,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 288065,
+      "Progressed": 288068,
       "Completed": 431
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-07-20T04:57:48.7105602+00:00",
-  "LastChanged_Achievements": "2023-07-20T05:04:16.7215664+00:00",
+  "LastChanged": "2023-07-20T05:57:51.4883763+00:00",
+  "LastChanged_Achievements": "2023-07-20T06:04:21.8550813+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:19.3801839+00:00",
-  "LastUpdate_Ratings": "2023-07-20T04:57:48.7105613+00:00",
-  "LastUpdate_Achievements": "2023-07-20T05:04:16.7217486+00:00"
+  "LastUpdate_Ratings": "2023-07-20T05:57:51.4883768+00:00",
+  "LastUpdate_Achievements": "2023-07-20T06:04:21.8551538+00:00"
 }

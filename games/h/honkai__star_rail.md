@@ -4,7 +4,7 @@
 Rating: 4.73 (Ranked 157)  
 ## Awards
 Max (Character Customization): 3,693  (Ranked 80)  
-Sum: 6,441 (Ranked 118)  
+Sum: 6,226 (Ranked 118)  
 Diff (max vs sum): -38  
 | Award | Count |
 | ----- | ----- |

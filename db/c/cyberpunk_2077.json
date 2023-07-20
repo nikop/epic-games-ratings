@@ -9137,9 +9137,9 @@
       "Count": 5364
     }
   ],
-  "EOS_Progressed": 866628,
+  "EOS_Progressed": 866629,
   "EOS_Completed": 1885,
-  "EOS_NewPlayers": 1331,
+  "EOS_NewPlayers": 1330,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -18952,6 +18952,11 @@
       "Time": "2023-07-20T05:02:47.3815158+00:00",
       "NumProgressed": 866628,
       "NumCompleted": 1885
+    },
+    {
+      "Time": "2023-07-20T06:03:12.0611385+00:00",
+      "NumProgressed": 866629,
+      "NumCompleted": 1885
     }
   ],
   "TotalAchievements": 44,
@@ -18979,7 +18984,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 138660
+      "UsersEstimate": 138661
     },
     {
       "ID": "Cyberjunkie",
@@ -19179,7 +19184,7 @@
       "Name": "The Fool",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 589307
+      "UsersEstimate": 589308
     },
     {
       "ID": "TheHermit",
@@ -19227,7 +19232,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 225323
+      "UsersEstimate": 225324
     },
     {
       "ID": "TheWorld",
@@ -19314,15 +19319,15 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 866628,
+      "Progressed": 866629,
       "Completed": 1885
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-07-20T02:58:47.6280366+00:00",
-  "LastChanged_Achievements": "2023-07-20T05:02:47.3815149+00:00",
+  "LastChanged_Achievements": "2023-07-20T06:03:12.0611381+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:20.7146493+00:00",
-  "LastUpdate_Ratings": "2023-07-20T04:58:17.0056467+00:00",
-  "LastUpdate_Achievements": "2023-07-20T05:02:47.3816933+00:00"
+  "LastUpdate_Ratings": "2023-07-20T05:58:19.328789+00:00",
+  "LastUpdate_Achievements": "2023-07-20T06:03:12.0612093+00:00"
 }

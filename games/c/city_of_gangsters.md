@@ -5,11 +5,11 @@ Rating: 4.26 (Ranked 804)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~152,298 |
+| Corner Clout | 46.00% | ~152,299 |
 | Copacetic Coordination | 16.00% | ~52,973 |
-| Fronting the Money | 14.00% | ~46,351 |
-| The Dawn of Automation | 14.00% | ~46,351 |
-| Extraordinary Logistics | 14.00% | ~46,351 |
+| Fronting the Money | 14.00% | ~46,352 |
+| The Dawn of Automation | 14.00% | ~46,352 |
+| Extraordinary Logistics | 14.00% | ~46,352 |
 | Dirty Money | 13.00% | ~43,041 |
 | Family First | 13.00% | ~43,041 |
 | Cleaning House | 12.00% | ~39,730 |
@@ -41,13 +41,13 @@ Rating: 4.26 (Ranked 804)
 | An Affront to the Enemy | 4.00% | ~13,243 |
 | Friends from Back Home | 4.00% | ~13,243 |
 | Half Century Mark | 4.00% | ~13,243 |
-| Corner Opportunities | 3.00% | ~9,932 |
-| 2122 North Clark Street | 3.00% | ~9,932 |
-| Copious Cabbage | 3.00% | ~9,932 |
-| Sockdolager | 3.00% | ~9,932 |
-| Still Stalwart | 3.00% | ~9,932 |
-| Bees Knees Bootlegger | 3.00% | ~9,932 |
-| Tighten the Screws | 3.00% | ~9,932 |
+| Corner Opportunities | 3.00% | ~9,933 |
+| 2122 North Clark Street | 3.00% | ~9,933 |
+| Copious Cabbage | 3.00% | ~9,933 |
+| Sockdolager | 3.00% | ~9,933 |
+| Still Stalwart | 3.00% | ~9,933 |
+| Bees Knees Bootlegger | 3.00% | ~9,933 |
+| Tighten the Screws | 3.00% | ~9,933 |
 | One of Us | 2.00% | ~6,622 |
 | Baker’s Dozen | 2.00% | ~6,622 |
 | Dropping the Dime | 2.00% | ~6,622 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 804)
 | High Pillow | 0.10% | ~331 |
 | Station Master | 0.10% | ~331 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 331,082 (Ranked 40)  
+Progressed: 331,084 (Ranked 40)  
 Completed: 5 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 5 (0.00%) (Ranked 238)
 | 2023-07-17 | 330,557 | 5 |
 | 2023-07-18 | 330,785 | 5 |
 | 2023-07-19 | 331,044 | 5 |
-| 2023-07-20 | 331,082 | 5 |
+| 2023-07-20 | 331,084 | 5 |
 ## Awards
 Max (Highly Recommended): 27  (Ranked 466)  
 Sum: 120 (Ranked 400)  

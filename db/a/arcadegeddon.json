@@ -757,7 +757,7 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 7747,
+  "EOS_Progressed": 7748,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
@@ -5812,6 +5812,11 @@
       "Time": "2023-07-20T04:06:33.8994147+00:00",
       "NumProgressed": 7747,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-20T06:06:16.0618015+00:00",
+      "NumProgressed": 7748,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -5887,7 +5892,7 @@
       "Name": "Get Furious",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 4338
+      "UsersEstimate": 4339
     },
     {
       "ID": "ACH_GET_IN_THE_RING",
@@ -5967,7 +5972,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 7127
+      "UsersEstimate": 7128
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -5991,7 +5996,7 @@
       "Name": "Meching Enemies",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 3796
+      "UsersEstimate": 3797
     },
     {
       "ID": "ACH_NATURE_IS_LIT",
@@ -6023,7 +6028,7 @@
       "Name": "Photogenic",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 6817
+      "UsersEstimate": 6818
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -6039,7 +6044,7 @@
       "Name": "Plug It In",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 6585
+      "UsersEstimate": 6586
     },
     {
       "ID": "ACH_POPPIN_NOGGINS",
@@ -6125,9 +6130,9 @@
       "ID": "ACH_SURGE_GAUNTLET_JOCKEY",
       "SetID": "97mcd7i",
       "Name": "Surge Gauntlet Jockey",
-      "Percentage": 86,
+      "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 6662
+      "UsersEstimate": 6586
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_SCHOLAR",
@@ -6191,7 +6196,7 @@
       "Name": "Ticket Toddler",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 3486
+      "UsersEstimate": 3487
     },
     {
       "ID": "ACH_TO_BE_CONTINUED",
@@ -6215,22 +6220,22 @@
       "Name": "You\u0027re Fired",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 4493
+      "UsersEstimate": 4494
     }
   ],
   "AchievementSets": [
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 7747,
+      "Progressed": 7748,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-07-19T03:16:58.8103399+00:00",
-  "LastChanged_Achievements": "2023-07-20T05:06:09.7233532+00:00",
+  "LastChanged_Achievements": "2023-07-20T06:06:16.0618008+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:16.4116247+00:00",
-  "LastUpdate_Ratings": "2023-07-20T04:58:48.0765759+00:00",
-  "LastUpdate_Achievements": "2023-07-20T05:06:09.7234837+00:00"
+  "LastUpdate_Ratings": "2023-07-20T05:58:50.8786274+00:00",
+  "LastUpdate_Achievements": "2023-07-20T06:06:16.0618573+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3158,9 +3158,9 @@
       "Count": 381
     }
   ],
-  "EOS_Progressed": 10408,
+  "EOS_Progressed": 10410,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8758,6 +8758,11 @@
       "Time": "2023-07-20T05:04:39.6372344+00:00",
       "NumProgressed": 10408,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-20T06:04:45.2672505+00:00",
+      "NumProgressed": 10410,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -8793,7 +8798,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -9137,7 +9142,7 @@
       "Name": "A Spark",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1561
+      "UsersEstimate": 1562
     },
     {
       "ID": "49_Flame",
@@ -9696,21 +9701,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9190,
+      "Progressed": 9192,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10408,
+      "Progressed": 10410,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-19T17:58:49.3075601+00:00",
-  "LastChanged_Achievements": "2023-07-20T05:04:39.6372337+00:00",
+  "LastChanged_Achievements": "2023-07-20T06:04:45.2672499+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:17.6267462+00:00",
-  "LastUpdate_Ratings": "2023-07-20T04:58:50.4820761+00:00",
-  "LastUpdate_Achievements": "2023-07-20T05:04:39.6375943+00:00"
+  "LastUpdate_Ratings": "2023-07-20T05:58:53.337489+00:00",
+  "LastUpdate_Achievements": "2023-07-20T06:04:45.2674109+00:00"
 }

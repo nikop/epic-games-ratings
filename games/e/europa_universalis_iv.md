@@ -13,9 +13,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | Brothers in Arms | 6.00% | ~4,307 |
 | That's a Grand Navy | 6.00% | ~4,307 |
 | Seriously?! | 6.00% | ~4,307 |
-| For the Glory | 5.00% | ~3,589 |
-| Cold War | 4.00% | ~2,871 |
-| True Catholic | 4.00% | ~2,871 |
+| For the Glory | 5.00% | ~3,590 |
+| Cold War | 4.00% | ~2,872 |
+| True Catholic | 4.00% | ~2,872 |
 | Defender of the Faith | 3.00% | ~2,154 |
 | It's all about luck | 3.00% | ~2,154 |
 | It's all about the money | 3.00% | ~2,154 |
@@ -44,8 +44,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Market Control | 0.90% | ~646 |
 | Trustworthy | 0.90% | ~646 |
 | Down Under | 0.80% | ~574 |
-| Electable! | 0.70% | ~502 |
-| Populists in Government | 0.70% | ~502 |
+| Electable! | 0.70% | ~503 |
+| Populists in Government | 0.70% | ~503 |
 | All belongs to Mother Russia | 0.60% | ~431 |
 | At every continent | 0.60% | ~431 |
 | Early-Modern Warfare | 0.60% | ~431 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71,785 (Ranked 74)  
+Progressed: 71,790 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -452,7 +452,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-17 | 70,990 | 0 |
 | 2023-07-18 | 71,380 | 0 |
 | 2023-07-19 | 71,730 | 0 |
-| 2023-07-20 | 71,785 | 0 |
+| 2023-07-20 | 71,790 | 0 |
 ## Awards
 Max (Educational): 5,565  (Ranked 60)  
 Sum: 45,850 (Ranked 26)  

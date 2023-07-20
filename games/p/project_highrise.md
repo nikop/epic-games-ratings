@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 58.00% | ~134 |
-| Starting Skyward | 52.00% | ~120 |
+| In the Black | 58.00% | ~135 |
+| Starting Skyward | 51.00% | ~118 |
 | Grime is Not Good | 45.00% | ~104 |
-| Campaign Launch | 40.00% | ~92 |
-| Floor Galore | 39.00% | ~90 |
+| Campaign Launch | 40.00% | ~93 |
+| Floor Galore | 38.00% | ~88 |
 | Dinner Dash | 38.00% | ~88 |
 | Need a Consult | 35.00% | ~81 |
 | It's Technical | 35.00% | ~81 |
 | Upgrade Unlock | 34.00% | ~79 |
-| Proper Walls | 32.00% | ~74 |
 | Delegate Maintenance | 32.00% | ~74 |
-| Destination Destiny | 29.00% | ~67 |
+| Proper Walls | 31.00% | ~72 |
+| Destination Destiny | 28.00% | ~65 |
 | Happy Tenants | 26.00% | ~60 |
-| Your Prestige is Rising | 24.00% | ~55 |
-| Potent Potables | 24.00% | ~55 |
-| Retail Revenue | 24.00% | ~55 |
-| Smooth Service | 24.00% | ~55 |
-| Leveled Up Shops | 23.00% | ~53 |
+| Your Prestige is Rising | 24.00% | ~56 |
+| Potent Potables | 24.00% | ~56 |
+| Retail Revenue | 24.00% | ~56 |
+| Smooth Service | 24.00% | ~56 |
 | Lux Living | 22.00% | ~51 |
 | People Mover | 22.00% | ~51 |
+| Leveled Up Shops | 22.00% | ~51 |
 | Emporium Empire | 21.00% | ~49 |
 | Get Electrified | 21.00% | ~49 |
 | Don't Feel a Loan | 20.00% | ~46 |
@@ -41,16 +41,16 @@
 | Smooth Operator | 13.00% | ~30 |
 | Swimming in Surplus | 13.00% | ~30 |
 | 28 Days Later | 12.00% | ~28 |
-| Master of Puppets | 11.00% | ~25 |
-| Plaza Plan | 10.00% | ~23 |
-| Refined Palates | 10.00% | ~23 |
-| Phoning It In | 10.00% | ~23 |
+| Master of Puppets | 11.00% | ~26 |
 | First 100 Days | 9.00% | ~21 |
 | Aestheticly Pleased | 9.00% | ~21 |
+| Plaza Plan | 9.00% | ~21 |
+| Refined Palates | 9.00% | ~21 |
 | Revenue Royalty | 9.00% | ~21 |
-| Meet Me at HQ | 8.00% | ~18 |
-| Maximum Reuse | 8.00% | ~18 |
-| Pipe Up | 8.00% | ~18 |
+| Phoning It In | 9.00% | ~21 |
+| Meet Me at HQ | 8.00% | ~19 |
+| Maximum Reuse | 8.00% | ~19 |
+| Pipe Up | 8.00% | ~19 |
 | Careful Constructor | 7.00% | ~16 |
 | Water Features | 7.00% | ~16 |
 | Sky High Stature | 7.00% | ~16 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231 (Ranked 259)  
+Progressed: 232 (Ranked 259)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,6 +143,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-06-28 | 229 | 0 |
 | 2023-07-06 | 230 | 0 |
 | 2023-07-16 | 231 | 0 |
+| 2023-07-20 | 232 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
