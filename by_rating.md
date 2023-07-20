@@ -275,7 +275,7 @@
 | 272 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 75 | 363 |
 | 272 | [Coromon](games/c/coromon.md) | 4.66 | 41 | 419 |
 | 272 | [Crashlands](games/c/crashlands.md) | 4.66 | 191 | 272 |
-| 272 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 167 | 285 |
+| 272 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 168 | 285 |
 | 272 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,291 | 130 |
 | 272 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 332 | 225 |
 | 272 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.66 | 46 | 406 |
@@ -383,7 +383,7 @@
 | 365 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,532 | 98 |
 | 365 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 654 | 169 |
 | 365 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 457 | 199 |
-| 365 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,496 | 37 |
+| 365 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,505 | 37 |
 | 365 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,069 | 137 |
 | 365 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 274 | 239 |
 | 365 | [Supraland](games/s/supraland.md) | 4.61 | 7,647 | 43 |
@@ -572,7 +572,7 @@
 | 552 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.50 | 0 | 505 |
 | 552 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 0 | 505 |
 | 552 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 731 | 160 |
-| 552 | [Rocket League®](games/r/rocket_league®.md) | 4.50 | 477,581 | 2 |
+| 552 | [Rocket League®](games/r/rocket_league®.md) | 4.50 | 478,399 | 2 |
 | 552 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.50 | 0 | 505 |
 | 552 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 35 | 435 |
 | 576 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 63 | 383 |
@@ -870,13 +870,13 @@
 | 865 | [Family Man](games/f/family_man.md) | 4.16 | 0 | 505 |
 | 865 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.16 | 0 | 505 |
 | 865 | [Space Punks](games/s/space_punks.md) | 4.16 | 174 | 282 |
-| 871 | [Chernobylite](games/c/chernobylite.md) | 4.15 | 0 | 505 |
-| 871 | [Pine](games/p/pine.md) | 4.15 | 0 | 505 |
-| 871 | [Relicta](games/r/relicta.md) | 4.15 | 199 | 271 |
-| 871 | [The Alien Cube](games/t/the_alien_cube.md) | 4.15 | 0 | 505 |
-| 871 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.15 | 124 | 307 |
-| 871 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 0 | 505 |
-| 871 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.15 | 0 | 505 |
+| 865 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.16 | 124 | 307 |
+| 872 | [Chernobylite](games/c/chernobylite.md) | 4.15 | 0 | 505 |
+| 872 | [Pine](games/p/pine.md) | 4.15 | 0 | 505 |
+| 872 | [Relicta](games/r/relicta.md) | 4.15 | 199 | 271 |
+| 872 | [The Alien Cube](games/t/the_alien_cube.md) | 4.15 | 0 | 505 |
+| 872 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 0 | 505 |
+| 872 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.15 | 0 | 505 |
 | 878 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.14 | 32 | 448 |
 | 878 | [Forspoken](games/f/forspoken.md) | 4.14 | 21 | 493 |
 | 878 | [Men of War](games/m/men_of_war.md) | 4.14 | 0 | 505 |

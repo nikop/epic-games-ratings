@@ -1,7 +1,7 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 1,513,025 | 4.29 | 781 |
-| 2 | [Rocket League®](games/r/rocket_league®.md) | 477,581 | 4.50 | 552 |
+| 2 | [Rocket League®](games/r/rocket_league®.md) | 478,399 | 4.50 | 552 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 300,439 | 4.68 | 239 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 200,917 | 4.68 | 239 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 187,487 | 4.19 | 848 |
@@ -36,7 +36,7 @@
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 10,881 | 4.45 | 624 |
 | 35 | [Satisfactory](games/s/satisfactory.md) | 10,722 | 4.88 | 19 |
 | 36 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,512 | 4.78 | 100 |
-| 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,496 | 4.61 | 365 |
+| 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,505 | 4.61 | 365 |
 | 38 | [SnowRunner](games/s/snowrunner.md) | 9,343 | 4.76 | 119 |
 | 39 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 8,477 | 4.58 | 424 |
 | 40 | [Control](games/c/control.md) | 8,402 | 4.60 | 391 |
@@ -270,7 +270,7 @@
 | 268 | [Stranded Deep](games/s/stranded_deep.md) | 203 | 4.22 | 831 |
 | 269 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 202 | 4.35 | 738 |
 | 270 | [HITMAN](games/h/hitman.md) | 201 | 4.64 | 311 |
-| 271 | [Relicta](games/r/relicta.md) | 199 | 4.15 | 871 |
+| 271 | [Relicta](games/r/relicta.md) | 199 | 4.15 | 872 |
 | 272 | [Crashlands](games/c/crashlands.md) | 191 | 4.66 | 272 |
 | 273 | [Unrailed!](games/u/unrailed!.md) | 190 | 4.64 | 311 |
 | 274 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 187 | 4.51 | 539 |
@@ -284,7 +284,7 @@
 | 282 | [Space Punks](games/s/space_punks.md) | 174 | 4.16 | 865 |
 | 283 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 173 | 4.28 | 791 |
 | 284 | [Cris Tales](games/c/cris_tales.md) | 171 | 4.36 | 731 |
-| 285 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 167 | 4.66 | 272 |
+| 285 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 168 | 4.66 | 272 |
 | 286 | [Mothergunship](games/m/mothergunship.md) | 165 | 4.38 | 711 |
 | 287 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 164 | 4.38 | 711 |
 | 288 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 162 | 4.58 | 424 |
@@ -306,7 +306,7 @@
 | 304 | [Alien: Isolation](games/a/alien__isolation.md) | 130 | 4.61 | 365 |
 | 304 | [Timberborn](games/t/timberborn.md) | 130 | 4.72 | 168 |
 | 306 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 125 | 4.29 | 781 |
-| 307 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 124 | 4.15 | 871 |
+| 307 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 124 | 4.16 | 865 |
 | 308 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 123 | 4.20 | 838 |
 | 309 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 122 | 4.52 | 519 |
 | 309 | [Sonic Origins](games/s/sonic_origins.md) | 122 | 4.58 | 424 |

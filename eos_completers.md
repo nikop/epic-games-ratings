@@ -12,12 +12,12 @@
 | 10 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
 | 12 | [Island Cities](games/i/island_cities.md) | 18.49% |
-| 13 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 15.38% |
+| 13 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 14.29% |
 | 14 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
-| 15 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 12.80% |
+| 15 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 12.70% |
 | 16 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.50% |
 | 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.01% |
-| 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.78% |
+| 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.75% |
 | 19 | [Remains](games/r/remains.md) | 11.36% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.11% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -35,14 +35,14 @@
 | 33 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 34 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 35 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.66% |
-| 35 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.66% |
-| 37 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
+| 36 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
+| 37 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.45% |
 | 38 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 5.00% |
 | 39 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.98% |
 | 40 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.88% |
 | 41 | [JARS](games/j/jars.md) | 4.84% |
 | 42 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.76% |
-| 43 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.72% |
+| 43 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.71% |
 | 44 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
 | 45 | [Without Escape](games/w/without_escape.md) | 4.55% |
 | 46 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.29% |
@@ -83,7 +83,7 @@
 | 81 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 82 | [Sifu](games/s/sifu.md) | 1.80% |
 | 83 | [Iron Danger](games/i/iron_danger.md) | 1.78% |
-| 84 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.74% |
+| 84 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.73% |
 | 85 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.63% |
 | 86 | [Somerville](games/s/somerville.md) | 1.62% |
 | 87 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.52% |
@@ -130,8 +130,8 @@
 | 128 | [Aragami 2](games/a/aragami_2.md) | 0.51% |
 | 129 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
 | 130 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.48% |
-| 130 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.48% |
-| 132 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
+| 131 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
+| 131 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.47% |
 | 133 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.45% |
 | 133 | [Tails of Iron](games/t/tails_of_iron.md) | 0.45% |
 | 135 | [Tchia](games/t/tchia.md) | 0.43% |
@@ -197,11 +197,11 @@
 | 191 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
 | 196 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
 | 197 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.07% |
-| 197 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
 | 197 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
-| 200 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.06% |
-| 200 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
-| 200 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
+| 199 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.06% |
+| 199 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
+| 199 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.06% |
+| 199 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
 | 203 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
 | 203 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
 | 203 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.05% |
@@ -499,4 +499,4 @@
 | 238 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 238 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 238 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,922 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
+| 2,923 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |

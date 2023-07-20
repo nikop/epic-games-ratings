@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Kula](games/1/1a1f669b43f94c33b91f9db5ff063ba1.md) | 2023-07-20 | - |  | - | - |
 | [ACL Pro Cornhole](games/9/91bf18cde18b4357807b5c3e964b7e56.md) | 2023-07-21 | - |  | - | - |
 | [Sakura Bunny Girls](games/9/94c1c4aa628f404abe30a093cdb99bda.md) | 2023-07-23 | - |  | - | - |
 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 2023-07-24 | - |  | - | - |
@@ -39,6 +38,7 @@
 | [Butchers Don't Surf!](games/b/butchers_don't_surf!.md) | 2023-08-31 | - |  | - | - |
 | [Delicious Dungeon](games/c/cda7202896cf47ae9f4abfbfe542a937.md) | 2023-08-31 | - |  | - | - |
 | [Interceptor](games/i/interceptor.md) | 2023-08-31 | - |  | - | - |
+| [SPRAWL](games/6/646aa9a788d44357b46de3f75335d3d3.md) | 2023-08-31 | - |  | - | - |
 | [Tenebris Pictura](games/6/6c5d913b71db4831801990b59d15e74a.md) | 2023-08-31 | - |  | - | - |
 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 2023-09-05 | 25 (1,000 XP) | 12 | - | - |
 | [The Many Pieces of Mr. Coo](games/t/the_many_pieces_of_mr._coo.md) | 2023-09-06 | - |  | - | - |
