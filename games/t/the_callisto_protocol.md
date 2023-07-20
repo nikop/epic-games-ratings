@@ -26,7 +26,7 @@ Rating: 4.19 (Ranked 848)
 | Crash Site | 2.00% | ~315 |
 | Full Circle | 2.00% | ~315 |
 | Power Up | 2.00% | ~315 |
-| It's Time | 2.00% | ~73 |
+| It's Time | 2.00% | ~74 |
 | The Commonality | 1.00% | ~157 |
 | Desperate Times | 1.00% | ~157 |
 | One Last Job | 1.00% | ~37 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 848)
 | I am the Danger | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,748 (Ranked 109)  
+Progressed: 15,749 (Ranked 109)  
 Completed: 67 (0.43%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 67 (0.43%) (Ranked 135)
 | 2023-07-17 | 15,735 | 67 |
 | 2023-07-18 | 15,741 | 67 |
 | 2023-07-19 | 15,745 | 67 |
-| 2023-07-20 | 15,748 | 67 |
+| 2023-07-20 | 15,749 | 67 |
 ## Awards
 Max (Amazing Storytelling): 72  (Ranked 372)  
 Sum: 396 (Ranked 314)  

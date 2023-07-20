@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -5763,9 +5763,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 56162,
+  "EOS_Progressed": 56167,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 509,
+  "EOS_NewPlayers": 514,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15203,6 +15203,11 @@
       "Time": "2023-07-20T17:07:49.5859413+00:00",
       "NumProgressed": 56162,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-20T18:07:29.1145092+00:00",
+      "NumProgressed": 56167,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -15230,7 +15235,7 @@
       "Name": "Bannerlord",
       "Percentage": 22,
       "XP": 65,
-      "UsersEstimate": 12356
+      "UsersEstimate": 12357
     },
     {
       "ID": "Best served cold",
@@ -15270,7 +15275,7 @@
       "Name": "Crowdfunded",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2246
+      "UsersEstimate": 2247
     },
     {
       "ID": "Crackshot",
@@ -15286,7 +15291,7 @@
       "Name": "Crush your enemies",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2246
+      "UsersEstimate": 2247
     },
     {
       "ID": "Duelist",
@@ -15342,7 +15347,7 @@
       "Name": "God of the Arena",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 6739
+      "UsersEstimate": 6740
     },
     {
       "ID": "Great Granny",
@@ -15374,7 +15379,7 @@
       "Name": "Horde breaker",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 12356
+      "UsersEstimate": 12357
     },
     {
       "ID": "I can do it",
@@ -15382,7 +15387,7 @@
       "Name": "I can do it",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8424
+      "UsersEstimate": 8425
     },
     {
       "ID": "I spit on your grave",
@@ -15406,7 +15411,7 @@
       "Name": "King Solomon",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 8986
+      "UsersEstimate": 8987
     },
     {
       "ID": "Kingslayer",
@@ -15438,7 +15443,7 @@
       "Name": "Landlord",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 17410
+      "UsersEstimate": 17412
     },
     {
       "ID": "Lawbringer",
@@ -15446,7 +15451,7 @@
       "Name": "Lawbringer",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 20780
+      "UsersEstimate": 20782
     },
     {
       "ID": "Lawmaker",
@@ -15454,7 +15459,7 @@
       "Name": "Lawmaker",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 12356
+      "UsersEstimate": 12357
     },
     {
       "ID": "Long live the Empire",
@@ -15470,7 +15475,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 3931
+      "UsersEstimate": 3932
     },
     {
       "ID": "Minor Clan",
@@ -15486,7 +15491,7 @@
       "Name": "Mounted Archery",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "My way",
@@ -15494,7 +15499,7 @@
       "Name": "My way",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2246
+      "UsersEstimate": 2247
     },
     {
       "ID": "Real Estate",
@@ -15510,7 +15515,7 @@
       "Name": "Ride it like you stole it",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "Roadkill",
@@ -15558,7 +15563,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 5616
+      "UsersEstimate": 5617
     },
     {
       "ID": "The king is pleased",
@@ -15590,7 +15595,7 @@
       "Name": "Trained",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 11794
+      "UsersEstimate": 11795
     },
     {
       "ID": "Undercover",
@@ -15606,7 +15611,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2246
+      "UsersEstimate": 2247
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -15621,15 +15626,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 56162,
+      "Progressed": 56167,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-07-20T16:01:02.9365351+00:00",
-  "LastChanged_Achievements": "2023-07-20T17:07:49.5859408+00:00",
+  "LastChanged_Achievements": "2023-07-20T18:07:29.1145089+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:48.1005966+00:00",
-  "LastUpdate_Ratings": "2023-07-20T17:00:39.9755382+00:00",
-  "LastUpdate_Achievements": "2023-07-20T17:07:49.5860622+00:00"
+  "LastUpdate_Ratings": "2023-07-20T18:00:28.0345436+00:00",
+  "LastUpdate_Achievements": "2023-07-20T18:07:29.1146076+00:00"
 }

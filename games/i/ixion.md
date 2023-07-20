@@ -5,9 +5,9 @@ Rating: 4.56 (Ranked 458)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 22.00% | ~625 |
-| Infinite Growth... | 19.00% | ~540 |
-| Sputnik 2049 | 19.00% | ~540 |
+| Wakey Wakey | 22.00% | ~626 |
+| Infinite Growth... | 19.00% | ~541 |
+| Sputnik 2049 | 19.00% | ~541 |
 | Without Breaking Some Eggs... | 18.00% | ~512 |
 | Space Society | 13.00% | ~370 |
 | A Thousand Strong | 13.00% | ~370 |
@@ -18,9 +18,9 @@ Rating: 4.56 (Ranked 458)
 | The Ship of Theseus | 10.00% | ~284 |
 | Guy de Borderlands | 9.00% | ~256 |
 | Hope Seeker | 9.00% | ~256 |
-| A Hunk of Junk | 8.00% | ~227 |
-| Exceeding Capacity | 8.00% | ~227 |
-| Breaking Protocol | 8.00% | ~227 |
+| A Hunk of Junk | 8.00% | ~228 |
+| Exceeding Capacity | 8.00% | ~228 |
+| Breaking Protocol | 8.00% | ~228 |
 | Man's Best Friend | 6.00% | ~171 |
 | Power Outage | 6.00% | ~171 |
 | Please Make it Stop! | 6.00% | ~171 |
@@ -33,9 +33,9 @@ Rating: 4.56 (Ranked 458)
 | Oats | 3.00% | ~85 |
 | What They Hide From Us | 3.00% | ~85 |
 | ...  in a finite world | 3.00% | ~85 |
+| Sustainable Energy | 3.00% | ~85 |
 | BRAWL! | 3.00% | ~85 |
 | What the Ruins Teach Us | 3.00% | ~85 |
-| Sustainable Energy | 2.00% | ~57 |
 | In Dolos We Trust | 2.00% | ~57 |
 | Space Greenhouse | 2.00% | ~57 |
 | Delivery! | 2.00% | ~57 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 458)
 | This is Fine | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,843 (Ranked 155)  
+Progressed: 2,845 (Ranked 155)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-17 | 2,834 | 0 |
 | 2023-07-18 | 2,839 | 0 |
 | 2023-07-19 | 2,842 | 0 |
-| 2023-07-20 | 2,843 | 0 |
+| 2023-07-20 | 2,845 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

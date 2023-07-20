@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -606,9 +606,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2981,
+  "EOS_Progressed": 2983,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2301,6 +2301,11 @@
       "Time": "2023-07-20T07:03:48.8683788+00:00",
       "NumProgressed": 2981,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-20T18:03:44.2077038+00:00",
+      "NumProgressed": 2983,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2326,9 +2331,9 @@
       "ID": "AutoDisrupted",
       "SetID": "3jha1np",
       "Name": "Look Over There!",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1014
+      "UsersEstimate": 984
     },
     {
       "ID": "BloodAndIron",
@@ -2480,7 +2485,7 @@
       "Name": "Not So Fast...",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 954
+      "UsersEstimate": 955
     },
     {
       "ID": "Kills_Bleed",
@@ -2488,7 +2493,7 @@
       "Name": "Blood for the Blood God!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -2544,7 +2549,7 @@
       "Name": "Purging Spree",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "Kills_Vakir",
@@ -2560,7 +2565,7 @@
       "Name": "An Ill Omen",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -2606,9 +2611,9 @@
       "ID": "MissionVictory_Apothecaries",
       "SetID": "3jha1np",
       "Name": "Field Apothecarion",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "MissionVictory_Duo",
@@ -2662,9 +2667,9 @@
       "ID": "MissionVictory_Purgators",
       "SetID": "3jha1np",
       "Name": "Firing Squad",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "MissionVictory_WoundedKnights",
@@ -2783,21 +2788,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2981,
+      "Progressed": 2983,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2981,
+      "Progressed": 2983,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-13T14:59:29.0223898+00:00",
-  "LastChanged_Achievements": "2023-07-20T17:04:09.2239163+00:00",
+  "LastChanged_Achievements": "2023-07-20T18:03:44.2077032+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:36.8896867+00:00",
-  "LastUpdate_Ratings": "2023-07-20T16:59:32.1613804+00:00",
-  "LastUpdate_Achievements": "2023-07-20T17:04:09.2240018+00:00"
+  "LastUpdate_Ratings": "2023-07-20T17:59:19.4369931+00:00",
+  "LastUpdate_Achievements": "2023-07-20T18:03:44.2077621+00:00"
 }

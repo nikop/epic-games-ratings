@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2843,
+  "EOS_Progressed": 2845,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3633,6 +3633,11 @@
       "Time": "2023-07-20T02:07:30.8693747+00:00",
       "NumProgressed": 2843,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-20T18:05:23.9882563+00:00",
+      "NumProgressed": 2845,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -3708,7 +3713,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "ACH_BASE_19",
@@ -3732,15 +3737,15 @@
       "Name": "Wakey Wakey",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "ACH_BASE_22",
       "SetID": "92iocjf",
       "Name": "Sustainable Energy",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 57
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_BASE_23",
@@ -3756,7 +3761,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "ACH_BASE_25",
@@ -3780,7 +3785,7 @@
       "Name": "A Hunk of Junk",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ACH_BASE_28",
@@ -3812,7 +3817,7 @@
       "Name": "Exceeding Capacity",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ACH_BASE_31",
@@ -3852,7 +3857,7 @@
       "Name": "Breaking Protocol",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ACH_BASE_36",
@@ -4099,13 +4104,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1025,
+      "Progressed": 1027,
       "Completed": 6
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2843,
+      "Progressed": 2845,
       "Completed": 0
     }
   ],
@@ -4113,8 +4118,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-07-08T02:22:11.1138638+00:00",
-  "LastChanged_Achievements": "2023-07-20T17:05:48.2282556+00:00",
+  "LastChanged_Achievements": "2023-07-20T18:05:23.9882558+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:23.6946025+00:00",
-  "LastUpdate_Ratings": "2023-07-20T16:59:19.6378593+00:00",
-  "LastUpdate_Achievements": "2023-07-20T17:05:48.2283438+00:00"
+  "LastUpdate_Ratings": "2023-07-20T17:59:08.6680818+00:00",
+  "LastUpdate_Achievements": "2023-07-20T18:05:23.9883291+00:00"
 }

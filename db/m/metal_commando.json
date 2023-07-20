@@ -2,10 +2,10 @@
   "ID": "1cf043d8c6dd44d0b3554b2209fda2e7",
   "Name": "Metal Commando",
   "ProductSlug": "metal-commando-ebd5e2",
-  "Ranking_EOS_Progress": 500,
+  "Ranking_EOS_Progress": 501,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-04-30T00:00:00+00:00",
     "PcReleaseDate": "2020-11-18T14:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-15T03:23:47.833607+00:00",
-  "LastUpdate_Ratings": "2023-07-20T16:59:42.6765835+00:00",
-  "LastUpdate_Achievements": "2023-07-20T17:04:44.7451494+00:00"
+  "LastUpdate_Ratings": "2023-07-20T17:59:29.7114884+00:00",
+  "LastUpdate_Achievements": "2023-07-20T18:04:20.1407032+00:00"
 }

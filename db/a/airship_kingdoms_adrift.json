@@ -2,10 +2,10 @@
   "ID": "030b8c8affd342dcb3bd37eecfd2c143",
   "Name": "Airship Kingdoms Adrift",
   "ProductSlug": "airship-kingdoms-adrift-cc8448",
-  "Ranking_EOS_Progress": 500,
+  "Ranking_EOS_Progress": 501,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-15T03:22:05.9966884+00:00",
-  "LastUpdate_Ratings": "2023-07-20T16:58:25.4650529+00:00",
-  "LastUpdate_Achievements": "2023-07-20T17:04:39.4065807+00:00"
+  "LastUpdate_Ratings": "2023-07-20T17:58:13.3384188+00:00",
+  "LastUpdate_Achievements": "2023-07-20T18:04:14.6232302+00:00"
 }

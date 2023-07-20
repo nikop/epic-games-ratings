@@ -2,10 +2,10 @@
   "ID": "fa573a9a7e334244b6a1d9be6a6aa1a7",
   "Name": "Snowtopia - Ski Resort Builder",
   "ProductSlug": "snowtopia-ski-resort-builder-5f941b",
-  "Ranking_EOS_Progress": 500,
+  "Ranking_EOS_Progress": 501,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
     "PcReleaseDate": "2022-12-14T16:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:57:22.3526628+00:00",
   "LastChanged": "2023-03-31T05:57:22.3526629+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:44.6561318+00:00",
-  "LastUpdate_Ratings": "2023-07-20T17:00:34.8111197+00:00",
-  "LastUpdate_Achievements": "2023-07-20T17:06:39.848562+00:00"
+  "LastUpdate_Ratings": "2023-07-20T18:00:23.6962238+00:00",
+  "LastUpdate_Achievements": "2023-07-20T18:06:17.3077954+00:00"
 }

@@ -1,7 +1,7 @@
 # Banners of Ruin
 [Store](https://store.epicgames.com/en-US/p/banners-of-ruin)  
 [View Rawdata](../../db/b/banners_of_ruin.json)  
-Rating: 4.42 (Ranked 662)  
+Rating: 4.35 (Ranked 738)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -20,3 +20,4 @@ Rating: 4.42 (Ranked 662)
 | 2022-11-15 | 4.41 | - | - |
 | 2023-03-31 | 4.41 | 0 | 0 |
 | 2023-05-29 | 4.42 | 0 | 0 |
+| 2023-07-20 | 4.35 | 0 | 0 |

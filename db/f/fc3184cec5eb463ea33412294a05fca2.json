@@ -4,8 +4,8 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
     "PcReleaseDate": "2022-07-06T08:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 133,
+  "EOS_Progressed": 134,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 7.52,
+  "EOS_Completed_Percentage": 7.46,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -501,6 +501,11 @@
       "Time": "2023-07-20T17:06:05.7967455+00:00",
       "NumProgressed": 133,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-20T18:05:42.3175622+00:00",
+      "NumProgressed": 134,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 16,
@@ -510,7 +515,7 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "8d3ci0",
       "Name": "Three is company",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 5,
       "UsersEstimate": 66
     },
@@ -528,7 +533,7 @@
       "Name": "Cruise ship",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -566,9 +571,9 @@
       "ID": "NEW_ACHIEVEMENT_1_15",
       "SetID": "8d3ci0",
       "Name": "Floatpiercer",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 150,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -592,7 +597,7 @@
       "Name": "Catch a flight",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -639,14 +644,14 @@
     {
       "ID": "8d3ci0",
       "IsBase": true,
-      "Progressed": 133,
+      "Progressed": 134,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-20T17:06:05.7967447+00:00",
+  "LastChanged_Achievements": "2023-07-20T18:05:42.3175618+00:00",
   "LastUpdate_AppInfo": "2023-07-15T11:57:13.4695515+00:00",
-  "LastUpdate_Ratings": "2023-07-20T16:57:32.3939876+00:00",
-  "LastUpdate_Achievements": "2023-07-20T17:06:05.7967629+00:00"
+  "LastUpdate_Ratings": "2023-07-20T17:57:21.6499258+00:00",
+  "LastUpdate_Achievements": "2023-07-20T18:05:42.3175751+00:00"
 }

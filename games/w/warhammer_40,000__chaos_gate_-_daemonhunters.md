@@ -7,12 +7,12 @@ Number of Ratings: 371  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Executioner | 39.00% | ~1,163 |
-| Look Over There! | 34.00% | ~1,014 |
+| Look Over There! | 33.00% | ~984 |
 | Watch Where You Step... | 33.00% | ~984 |
-| Not So Fast... | 32.00% | ~954 |
-| An Ill Omen | 31.00% | ~924 |
-| Purging Spree | 25.00% | ~745 |
-| Blood for the Blood God! | 19.00% | ~566 |
+| Not So Fast... | 32.00% | ~955 |
+| An Ill Omen | 31.00% | ~925 |
+| Purging Spree | 25.00% | ~746 |
+| Blood for the Blood God! | 19.00% | ~567 |
 | Surgical Excision | 17.00% | ~507 |
 | Friendly Fire | 17.00% | ~507 |
 | Bloodless | 17.00% | ~507 |
@@ -52,21 +52,21 @@ Number of Ratings: 371  (23.09.2022)
 | Strategic Command | 0.40% | ~12 |
 | Blood and Iron | 0.30% | ~9 |
 | Brothers in Arms | 0.30% | ~9 |
+| Firing Squad | 0.30% | ~9 |
 | Crisis Management | 0.20% | ~6 |
 | Grand Master | 0.20% | ~6 |
+| Field Apothecarion | 0.20% | ~6 |
 | Phalanx | 0.20% | ~6 |
-| Firing Squad | 0.20% | ~6 |
 | Arsenal of Destruction | 0.10% | ~3 |
 | Dominus | 0.10% | ~3 |
 | Drone Army | 0.10% | ~3 |
 | Mass Extinction | 0.10% | ~3 |
 | Master of the Forge | 0.10% | ~3 |
-| Field Apothecarion | 0.10% | ~3 |
 | Not a Mote of Corruption | 0.10% | ~3 |
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,981 (Ranked 151)  
+Progressed: 2,983 (Ranked 151)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-17 | 2,972 | 0 |
 | 2023-07-18 | 2,975 | 0 |
 | 2023-07-19 | 2,979 | 0 |
-| 2023-07-20 | 2,981 | 0 |
+| 2023-07-20 | 2,983 | 0 |
 ## Awards
 Max (Character Customization): 214  (Ranked 263)  
 Sum: 451 (Ranked 304)  

@@ -3,6 +3,39 @@
 [View Rawdata](../../db/m/mythforce.json)  
 Rating: 4.49 (Ranked 576)  
 Number of Ratings: 285  (23.09.2022)  
+## Achievements
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Everything Must Go! | 33.00% | ~1 |
+| First Strike | 33.00% | ~1 |
+| Flawless Victory | 33.00% | ~1 |
+| The Fourth Gate | 33.00% | ~1 |
+| Mushroom Madness! | 33.00% | ~1 |
+| On this Episode! | 33.00% | ~1 |
+| Spending Spree | 33.00% | ~1 |
+| That'll Leave a Mark | 33.00% | ~1 |
+| Cold-Blooded Critters | 0.00% | ~0 |
+| Deadalus and Loving It | 0.00% | ~0 |
+| Deadication | 0.00% | ~0 |
+| Death Becomes You | 0.00% | ~0 |
+| Debuff Dogpile | 0.00% | ~0 |
+| Faceroll the Bones | 0.00% | ~0 |
+| The Harder They Fall | 0.00% | ~0 |
+| Hit 'Em Where It Hurts | 0.00% | ~0 |
+| Horder Better Faster Stronger | 0.00% | ~0 |
+| We've Got a Kaiju on the Field | 0.00% | ~0 |
+| Next Time on MythForce... | 0.00% | ~0 |
+| Perk Shard Punch Card | 0.00% | ~0 |
+| Season Finale | 0.00% | ~0 |
+| Ten Steps from the Grave | 0.00% | ~0 |
+| Vexed Her | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 3 (Ranked 437)  
+Completed: 0 (0.00%) (Ranked 238)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-07-20 | 3 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 448)  
 Sum: 225 (Ranked 350)  

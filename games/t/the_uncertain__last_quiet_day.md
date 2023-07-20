@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I can do a thing or two | 60.00% | ~298 |
-| Buckle up | 59.00% | ~293 |
-| Quick charge | 59.00% | ~293 |
-| Now you know | 53.00% | ~263 |
-| Hands up! | 52.00% | ~258 |
-| Short circuit | 52.00% | ~258 |
+| I can do a thing or two | 60.00% | ~299 |
+| Buckle up | 59.00% | ~294 |
+| Quick charge | 59.00% | ~294 |
+| Now you know | 53.00% | ~264 |
+| Hands up! | 52.00% | ~259 |
+| Short circuit | 52.00% | ~259 |
 | Curious | 41.00% | ~204 |
 | Everybody lies | 35.00% | ~174 |
-| Trick or Treat? | 23.00% | ~114 |
-| There is another way | 23.00% | ~114 |
-| Sysadmin | 21.00% | ~104 |
-| Annoying | 20.00% | ~99 |
-| Every little helps | 20.00% | ~99 |
-| Hacker | 20.00% | ~99 |
-| He is just a child | 20.00% | ~99 |
-| The Walking Robot Among Us | 20.00% | ~99 |
-| Uncertain | 18.00% | ~89 |
-| Ace | 17.00% | ~84 |
-| Concrete painting | 17.00% | ~84 |
-| Goody | 17.00% | ~84 |
-| Please oh pleeease! | 17.00% | ~84 |
+| Trick or Treat? | 23.00% | ~115 |
+| There is another way | 23.00% | ~115 |
+| Sysadmin | 21.00% | ~105 |
+| Annoying | 20.00% | ~100 |
+| Hacker | 20.00% | ~100 |
+| He is just a child | 20.00% | ~100 |
+| The Walking Robot Among Us | 20.00% | ~100 |
+| Every little helps | 19.00% | ~95 |
+| Uncertain | 18.00% | ~90 |
+| Ace | 17.00% | ~85 |
+| Concrete painting | 17.00% | ~85 |
+| Goody | 17.00% | ~85 |
+| Please oh pleeease! | 17.00% | ~85 |
 | Hipster | 16.00% | ~80 |
 | Not what it seems | 16.00% | ~80 |
 | Found it! | 15.00% | ~75 |
@@ -37,8 +37,8 @@
 | Lucky dog | 4.00% | ~20 |
 | Silent | 4.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 497 (Ranked 215)  
-Completed: 15 (3.02%) (Ranked 60)  
+Progressed: 498 (Ranked 215)  
+Completed: 15 (3.01%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -97,6 +97,7 @@ Completed: 15 (3.02%) (Ranked 60)
 | 2023-07-15 | 495 | 15 |
 | 2023-07-16 | 496 | 15 |
 | 2023-07-19 | 497 | 15 |
+| 2023-07-20 | 498 | 15 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

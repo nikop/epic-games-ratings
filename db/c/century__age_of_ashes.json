@@ -4,11 +4,11 @@
   "ProductSlug": "century-age-of-ashes",
   "Ranking_Rating": 662,
   "Ranking_Popularity": 383,
-  "Ranking_PopularitySum": 291,
-  "Ranking_EOS_Progress": 500,
+  "Ranking_PopularitySum": 290,
+  "Ranking_EOS_Progress": 501,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-02-23T16:00:00+00:00",
     "PcReleaseDate": "2021-12-02T16:00:00+00:00",
@@ -1309,10 +1309,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 606,
       "NumberOfAwardsMax": 63
+    },
+    {
+      "Time": "2023-07-20T17:58:13.6440299+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 607,
+      "NumberOfAwardsMax": 63
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 606,
+  "NumberOfAwards": 607,
   "NumberOfAwardsMax": 63,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -1326,7 +1332,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 51
+      "Count": 52
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1394,8 +1400,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:28.564577+00:00",
-  "LastChanged": "2023-07-18T23:57:59.7367446+00:00",
+  "LastChanged": "2023-07-20T17:58:13.6440297+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:09.5018195+00:00",
-  "LastUpdate_Ratings": "2023-07-20T16:58:26.104384+00:00",
-  "LastUpdate_Achievements": "2023-07-20T17:05:41.417509+00:00"
+  "LastUpdate_Ratings": "2023-07-20T17:58:13.6440303+00:00",
+  "LastUpdate_Achievements": "2023-07-20T18:05:17.0822605+00:00"
 }

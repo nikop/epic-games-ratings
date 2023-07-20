@@ -4,8 +4,8 @@
   "ProductSlug": "aeon-must-die",
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 2922,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-10-27T21:59:00+00:00",
     "PcReleaseDate": "2021-10-27T21:59:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3521,
+  "EOS_Progressed": 3522,
   "EOS_Completed": -28,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": -0.8,
   "EosHistory": [
@@ -346,6 +346,11 @@
       "Time": "2023-07-18T19:06:16.3177739+00:00",
       "NumProgressed": 3521,
       "NumCompleted": -28
+    },
+    {
+      "Time": "2023-07-20T18:07:27.7862345+00:00",
+      "NumProgressed": 3522,
+      "NumCompleted": -28
     }
   ],
   "TotalAchievements": 35,
@@ -365,7 +370,7 @@
       "Name": "Purpose Lost",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "11",
@@ -445,7 +450,7 @@
       "Name": "A Scarlet Mark",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "20",
@@ -493,7 +498,7 @@
       "Name": "Like Swatting Flies",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "26",
@@ -636,7 +641,7 @@
     {
       "ID": "5cfan5f",
       "IsBase": true,
-      "Progressed": 3521,
+      "Progressed": 3522,
       "Completed": -28
     }
   ],
@@ -644,8 +649,8 @@
   "FirstSeenRating": "2023-03-31T05:57:47.6282552+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:12.6590754+00:00",
   "LastChanged": "2023-03-31T05:57:47.6282553+00:00",
-  "LastChanged_Achievements": "2023-07-20T17:07:48.5401482+00:00",
+  "LastChanged_Achievements": "2023-07-20T18:07:27.7862342+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:13.4085818+00:00",
-  "LastUpdate_Ratings": "2023-07-20T16:58:03.0165272+00:00",
-  "LastUpdate_Achievements": "2023-07-20T17:07:48.540189+00:00"
+  "LastUpdate_Ratings": "2023-07-20T17:57:50.8668397+00:00",
+  "LastUpdate_Achievements": "2023-07-20T18:07:27.7862607+00:00"
 }

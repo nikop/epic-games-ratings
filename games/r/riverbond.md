@@ -6,42 +6,42 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~365,907 |
-| Now You're Talking | 62.00% | ~324,089 |
-| Steel Yourself | 62.00% | ~324,089 |
-| Window Dressing | 50.00% | ~261,362 |
-| Trigger Happy | 46.00% | ~240,453 |
-| Riverborn | 45.00% | ~235,226 |
-| Starry Eyed | 34.00% | ~177,726 |
-| Poking Around | 34.00% | ~177,726 |
-| Talk of the Town | 24.00% | ~125,454 |
-| AAARR! | 23.00% | ~120,227 |
-| Hello Darkness | 23.00% | ~120,227 |
-| Wind At Our Backs | 22.00% | ~114,999 |
-| To the Beat | 20.00% | ~104,545 |
-| Sunny Shores | 17.00% | ~88,863 |
-| Sunday Best | 16.00% | ~83,636 |
-| To Victory! | 15.00% | ~78,409 |
-| Two of a Kind | 14.00% | ~73,181 |
-| Keep On Trucking | 13.00% | ~67,954 |
-| Going on an Adventure | 11.00% | ~57,500 |
-| Make Peace, Not War | 11.00% | ~57,500 |
-| Walking The Line | 10.00% | ~52,272 |
-| Not So Cute Anymore | 10.00% | ~52,272 |
-| Road Less Travelled | 9.00% | ~47,045 |
-| Lost and Found | 9.00% | ~47,045 |
+| First Step | 70.00% | ~365,912 |
+| Now You're Talking | 62.00% | ~324,094 |
+| Steel Yourself | 62.00% | ~324,094 |
+| Window Dressing | 50.00% | ~261,366 |
+| Trigger Happy | 46.00% | ~240,457 |
+| Riverborn | 45.00% | ~235,229 |
+| Starry Eyed | 34.00% | ~177,729 |
+| Poking Around | 34.00% | ~177,729 |
+| Talk of the Town | 24.00% | ~125,456 |
+| AAARR! | 23.00% | ~120,228 |
+| Hello Darkness | 23.00% | ~120,228 |
+| Wind At Our Backs | 22.00% | ~115,001 |
+| To the Beat | 20.00% | ~104,546 |
+| Sunny Shores | 17.00% | ~88,864 |
+| Sunday Best | 16.00% | ~83,637 |
+| To Victory! | 15.00% | ~78,410 |
+| Two of a Kind | 14.00% | ~73,182 |
+| Keep On Trucking | 13.00% | ~67,955 |
+| Going on an Adventure | 11.00% | ~57,501 |
+| Make Peace, Not War | 11.00% | ~57,501 |
+| Walking The Line | 10.00% | ~52,273 |
+| Not So Cute Anymore | 10.00% | ~52,273 |
+| Road Less Travelled | 9.00% | ~47,046 |
+| Lost and Found | 9.00% | ~47,046 |
 | Partner in Crime | 7.00% | ~36,591 |
 | Hard to Hear | 7.00% | ~36,591 |
 | Under the Radar | 7.00% | ~36,591 |
-| Moving On Up | 6.00% | ~31,363 |
-| Owl Knows Best | 6.00% | ~31,363 |
-| Mind the Moose | 6.00% | ~31,363 |
-| Dressed to Kill | 6.00% | ~31,363 |
-| Beast Mode | 6.00% | ~31,363 |
-| Oh, Romeo! | 5.00% | ~26,136 |
-| Noble Intentions | 5.00% | ~26,136 |
-| Rising Star | 5.00% | ~26,136 |
-| Slime Slayer | 5.00% | ~26,136 |
+| Moving On Up | 6.00% | ~31,364 |
+| Owl Knows Best | 6.00% | ~31,364 |
+| Mind the Moose | 6.00% | ~31,364 |
+| Dressed to Kill | 6.00% | ~31,364 |
+| Beast Mode | 6.00% | ~31,364 |
+| Oh, Romeo! | 5.00% | ~26,137 |
+| Noble Intentions | 5.00% | ~26,137 |
+| Rising Star | 5.00% | ~26,137 |
+| Slime Slayer | 5.00% | ~26,137 |
 | Privacy, Please! | 4.00% | ~20,909 |
 | Silky Smooth | 4.00% | ~20,909 |
 | Hash It Over | 4.00% | ~20,909 |
@@ -54,17 +54,17 @@ Number of Ratings: 617  (23.09.2022)
 | Page Turner | 3.00% | ~15,682 |
 | Spinal Adjustment | 3.00% | ~15,682 |
 | The Knowledge | 3.00% | ~15,682 |
-| Seek the Rainbow | 2.00% | ~10,454 |
-| Words of Truth | 2.00% | ~10,454 |
-| Star Power | 2.00% | ~10,454 |
-| Justice Served | 2.00% | ~10,454 |
+| Seek the Rainbow | 2.00% | ~10,455 |
+| Words of Truth | 2.00% | ~10,455 |
+| Star Power | 2.00% | ~10,455 |
+| Justice Served | 2.00% | ~10,455 |
 | Don't Care | 1.00% | ~5,227 |
 | Don’t Get Crabby | 1.00% | ~5,227 |
 | Written in the Stars | 0.90% | ~4,705 |
 | Boss of All Bosses | 0.30% | ~1,568 |
 | Point Taken | 0.10% | ~523 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 522,724 (Ranked 29)  
+Progressed: 522,732 (Ranked 29)  
 Completed: 450 (0.09%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 450 (0.09%) (Ranked 191)
 | 2023-07-17 | 522,474 | 447 |
 | 2023-07-18 | 522,571 | 448 |
 | 2023-07-19 | 522,662 | 449 |
-| 2023-07-20 | 522,724 | 450 |
+| 2023-07-20 | 522,732 | 450 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -7,24 +7,24 @@ Number of Ratings: 836  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 71.00% | ~5,343 |
-| Leader | 61.00% | ~4,590 |
-| Explorer | 53.00% | ~3,988 |
-| Healer | 53.00% | ~3,988 |
+| Leader | 61.00% | ~4,591 |
+| Explorer | 53.00% | ~3,989 |
+| Healer | 53.00% | ~3,989 |
 | Aspiring Inventor | 44.00% | ~3,311 |
-| Adventurer | 41.00% | ~3,085 |
+| Adventurer | 42.00% | ~3,161 |
 | Famous Healer | 38.00% | ~2,860 |
 | Local Leader | 35.00% | ~2,634 |
-| Famous Explorer | 34.00% | ~2,558 |
-| New Opportunities | 34.00% | ~2,558 |
-| Energized | 33.00% | ~2,483 |
-| The Long Haul | 33.00% | ~2,483 |
+| Famous Explorer | 34.00% | ~2,559 |
+| New Opportunities | 34.00% | ~2,559 |
+| Energized | 33.00% | ~2,484 |
+| The Long Haul | 33.00% | ~2,484 |
+| Survivor | 32.00% | ~2,408 |
 | The Great Healer | 31.00% | ~2,333 |
-| Survivor | 31.00% | ~2,333 |
 | Legendary Explorer | 28.00% | ~2,107 |
 | Cleaner | 28.00% | ~2,107 |
 | Catastrofan | 28.00% | ~2,107 |
-| Finders, Keepers | 26.00% | ~1,956 |
-| Top Notch | 25.00% | ~1,881 |
+| Finders, Keepers | 26.00% | ~1,957 |
+| Top Notch | 25.00% | ~1,882 |
 | Ice Lakes | 23.00% | ~1,731 |
 | Mentor | 23.00% | ~1,731 |
 | Great Leader | 22.00% | ~1,656 |
@@ -37,10 +37,10 @@ Number of Ratings: 836  (23.09.2022)
 | Friendly | 16.00% | ~1,204 |
 | Around the World | 16.00% | ~1,204 |
 | Bookworm | 15.00% | ~1,129 |
-| Famous Adventurer | 14.00% | ~1,054 |
+| Famous Adventurer | 13.00% | ~978 |
 | Prepared for Anything | 13.00% | ~978 |
 | Big Catastrofan | 12.00% | ~903 |
-| It's a Finnish Thing | 10.00% | ~752 |
+| It's a Finnish Thing | 10.00% | ~753 |
 | Sky Burial | 9.00% | ~677 |
 | Trader | 8.00% | ~602 |
 | Bread and Circuses | 8.00% | ~602 |
@@ -52,9 +52,9 @@ Number of Ratings: 836  (23.09.2022)
 | Luxurious Living | 4.00% | ~301 |
 | Mogul | 3.00% | ~226 |
 | Ranch Hand | 3.00% | ~226 |
-| Diplomat | 2.00% | ~150 |
-| Doomsday is canceled | 2.00% | ~150 |
-| Biggest Catastrofan | 2.00% | ~150 |
+| Diplomat | 2.00% | ~151 |
+| Doomsday is canceled | 2.00% | ~151 |
+| Biggest Catastrofan | 2.00% | ~151 |
 | The Friendliest | 1.00% | ~75 |
 | Legendary Adventurer | 1.00% | ~75 |
 | Slimy yet Satisfying | 1.00% | ~75 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~15 |
 | Customized calamities | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,525 (Ranked 124)  
+Progressed: 7,526 (Ranked 124)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,11 +157,11 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-17 | 7,463 | 0 |
 | 2023-07-18 | 7,484 | 0 |
 | 2023-07-19 | 7,512 | 0 |
-| 2023-07-20 | 7,525 | 0 |
+| 2023-07-20 | 7,526 | 0 |
 ## Awards
-Max (Extremely Fun): 99  (Ranked 331)  
+Max (Extremely Fun): 99  (Ranked 332)  
 Sum: 678 (Ranked 273)  
-Diff (max vs sum): 58  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 99 |

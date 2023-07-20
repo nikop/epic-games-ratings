@@ -2,10 +2,10 @@
   "ID": "342e32c0b4c74b909ff99a6aa8f1f075",
   "Name": "Brick Breaker Premium 2",
   "ProductSlug": "brick-breaker-premium-2-bede72",
-  "Ranking_EOS_Progress": 500,
+  "Ranking_EOS_Progress": 501,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-06-02T22:00:00+00:00",
     "PcReleaseDate": "2020-11-11T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-17T20:57:18.2939057+00:00",
-  "LastUpdate_Ratings": "2023-07-20T16:57:45.6164067+00:00",
-  "LastUpdate_Achievements": "2023-07-20T17:03:57.5690528+00:00"
+  "LastUpdate_Ratings": "2023-07-20T17:57:33.1267013+00:00",
+  "LastUpdate_Achievements": "2023-07-20T18:03:32.3340841+00:00"
 }

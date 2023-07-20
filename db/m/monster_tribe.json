@@ -2,10 +2,10 @@
   "ID": "64407f7371fd485b94152ca5c7e587a5",
   "Name": "Monster Tribe",
   "ProductSlug": "monster-tribe-3ca102",
-  "Ranking_EOS_Progress": 500,
+  "Ranking_EOS_Progress": 501,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-01T14:30:00+00:00",
     "PcReleaseDate": "2023-05-01T14:30:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-15T03:57:54.3956119+00:00",
-  "LastUpdate_Ratings": "2023-07-20T17:00:45.8126108+00:00",
-  "LastUpdate_Achievements": "2023-07-20T17:04:08.5057912+00:00"
+  "LastUpdate_Ratings": "2023-07-20T18:00:33.6926257+00:00",
+  "LastUpdate_Achievements": "2023-07-20T18:03:43.4549261+00:00"
 }
