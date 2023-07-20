@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3472,
+  "EOS_Progressed": 3474,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -733,6 +733,11 @@
       "Time": "2023-07-17T16:03:40.5903527+00:00",
       "NumProgressed": 3472,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-20T17:04:06.6655323+00:00",
+      "NumProgressed": 3474,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -776,7 +781,7 @@
       "Name": "Totally Intentional",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 1528
+      "UsersEstimate": 1529
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -792,7 +797,7 @@
       "Name": "From Zeroes...",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "FINISH_EPISODE_2",
@@ -800,7 +805,7 @@
       "Name": "Shard Snatchers",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "FINISH_EPISODE_3",
@@ -808,7 +813,7 @@
       "Name": "Our Lucky Winner",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "FINISH_EPISODE_4",
@@ -856,7 +861,7 @@
       "Name": "We\u0027re In",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1111
+      "UsersEstimate": 1112
     },
     {
       "ID": "HOTWIRE_FIRST_OBJECT",
@@ -864,7 +869,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 1701
+      "UsersEstimate": 1702
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -872,7 +877,7 @@
       "Name": "You Poor Now!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "NAILED_PERFECT_SEXY_DANCE",
@@ -880,7 +885,7 @@
       "Name": "You Got the Goods, Kid",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "PERF_EVRY_BCKGRD_CHECK",
@@ -888,7 +893,7 @@
       "Name": "Super Trusting Friend!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "SUMMON_SEXY_INTERNS",
@@ -928,7 +933,7 @@
       "Name": "Don\u0027t Get Cocky",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 937
+      "UsersEstimate": 938
     },
     {
       "ID": "WIN_VAULTLANDER_BATTLE_CLAPTRAP",
@@ -944,14 +949,14 @@
       "Name": "Mas, Por Favor",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     }
   ],
   "AchievementSets": [
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3472,
+      "Progressed": 3474,
       "Completed": 0
     }
   ],
@@ -959,8 +964,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-07-20T16:03:42.8176266+00:00",
+  "LastChanged_Achievements": "2023-07-20T17:04:06.6655319+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:23.0199972+00:00",
-  "LastUpdate_Ratings": "2023-07-20T16:00:35.0093718+00:00",
-  "LastUpdate_Achievements": "2023-07-20T16:03:42.8176487+00:00"
+  "LastUpdate_Ratings": "2023-07-20T17:00:15.9240625+00:00",
+  "LastUpdate_Achievements": "2023-07-20T17:04:06.6655595+00:00"
 }

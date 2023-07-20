@@ -54,7 +54,7 @@ Number of Ratings: 1,919  (23.09.2022)
 | A Tale of Origins and Endings | 2.00% | ~1,583 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 79,145 (Ranked 72)  
-Completed: 2,155 (2.72%) (Ranked 66)  
+Completed: 2,156 (2.72%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -144,10 +144,10 @@ Completed: 2,155 (2.72%) (Ranked 66)
 | 2023-07-17 | 79,121 | 2,153 |
 | 2023-07-18 | 79,134 | 2,153 |
 | 2023-07-19 | 79,139 | 2,154 |
-| 2023-07-20 | 79,145 | 2,155 |
+| 2023-07-20 | 79,145 | 2,156 |
 ## Awards
 Max (Great Boss Battles): 756  (Ranked 156)  
-Sum: 1,558 (Ranked 213)  
+Sum: 1,559 (Ranked 213)  
 Diff (max vs sum): -57  
 | Award | Count |
 | ----- | ----- |
@@ -158,7 +158,7 @@ Diff (max vs sum): -57
 | This game has Diverse Characters | 106 |
 | This game has Amazing Storytelling | 104 |
 | This game has Quickly Understood Controls | 103 |
-| This game has Challenging Combat | 92 |
+| This game has Challenging Combat | 93 |
 | This game has Amazing Characters | 89 |
 | This game has Unique Visuals | 83 |
 | This game has a Creative Community | 58 |
@@ -257,3 +257,4 @@ Diff (max vs sum): -57
 | 2023-06-30 | 4.51 | - | 1,024 | 2,581 |
 | 2023-07-09 | 4.51 | - | 755 | 1,557 |
 | 2023-07-11 | 4.51 | - | 756 | 1,558 |
+| 2023-07-20 | 4.51 | - | 756 | 1,559 |

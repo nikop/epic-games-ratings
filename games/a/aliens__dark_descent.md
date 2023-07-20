@@ -6,8 +6,8 @@ Rating: 4.42 (Ranked 662)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,413 |
+| Snatched Out | 74.00% | ~2,204 |
 | Keep 'Em Coming | 73.00% | ~2,175 |
-| Snatched Out | 73.00% | ~2,175 |
 | Cleaning Lethe, One Nest At A Time | 66.00% | ~1,966 |
 | Call Me Snake | 61.00% | ~1,817 |
 | Something Lurks Under The Hills | 59.00% | ~1,758 |
@@ -23,8 +23,8 @@ Rating: 4.42 (Ranked 662)
 | Where It All Begun | 35.00% | ~1,043 |
 | Recouped Investment | 35.00% | ~1,043 |
 | Omelette Du Fromage | 31.00% | ~923 |
+| The More The Merrier | 28.00% | ~834 |
 | Living Nightmare | 27.00% | ~804 |
-| The More The Merrier | 27.00% | ~804 |
 | The Darwin Era Was Here | 23.00% | ~685 |
 | Deep Into Insanity | 22.00% | ~655 |
 | Come on, You Wanna Live Forever? | 21.00% | ~626 |

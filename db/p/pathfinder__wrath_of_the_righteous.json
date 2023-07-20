@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3090,18 +3090,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 6825,
       "NumberOfAwardsMax": 1684
+    },
+    {
+      "Time": "2023-07-20T16:59:14.0426728+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6826,
+      "NumberOfAwardsMax": 1685
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6825,
-  "NumberOfAwardsMax": 1684,
+  "NumberOfAwards": 6826,
+  "NumberOfAwardsMax": 1685,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1684
+      "Count": 1685
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3164,7 +3170,7 @@
       "Count": 381
     }
   ],
-  "EOS_Progressed": 10419,
+  "EOS_Progressed": 10421,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
@@ -8799,6 +8805,11 @@
       "Time": "2023-07-20T16:05:14.8198494+00:00",
       "NumProgressed": 10419,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-20T17:05:30.4755917+00:00",
+      "NumProgressed": 10421,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -8928,9 +8939,9 @@
       "ID": "16_PathOfLegend",
       "SetID": "989of5o",
       "Name": "Path of the Legend",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 83
     },
     {
       "ID": "17_Transformation",
@@ -8946,7 +8957,7 @@
       "Name": "Mythic Choices",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1250
+      "UsersEstimate": 1251
     },
     {
       "ID": "19_EqualToAroden",
@@ -9058,7 +9069,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1250
+      "UsersEstimate": 1251
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -9737,21 +9748,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9201,
+      "Progressed": 9203,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10419,
+      "Progressed": 10421,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-07-20T09:58:58.8201165+00:00",
-  "LastChanged_Achievements": "2023-07-20T16:05:14.819849+00:00",
+  "LastChanged": "2023-07-20T16:59:14.0426726+00:00",
+  "LastChanged_Achievements": "2023-07-20T17:05:30.4755912+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:17.6267462+00:00",
-  "LastUpdate_Ratings": "2023-07-20T15:59:23.5043659+00:00",
-  "LastUpdate_Achievements": "2023-07-20T16:05:14.8200504+00:00"
+  "LastUpdate_Ratings": "2023-07-20T16:59:14.0426732+00:00",
+  "LastUpdate_Achievements": "2023-07-20T17:05:30.4757909+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1109,
+  "EOS_Progressed": 1110,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1465,6 +1465,11 @@
       "Time": "2023-07-20T14:02:11.3692115+00:00",
       "NumProgressed": 1109,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-20T17:03:22.1373702+00:00",
+      "NumProgressed": 1110,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1524,7 +1529,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "Defense_Common",
@@ -1628,7 +1633,7 @@
       "Name": "Spice It Up",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "KillAllM2",
@@ -1636,7 +1641,7 @@
       "Name": "No Witness",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Kultprosvet",
@@ -1715,15 +1720,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1109,
+      "Progressed": 1110,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-07-20T16:02:22.9346138+00:00",
+  "LastChanged_Achievements": "2023-07-20T17:03:22.1373696+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:08.2445796+00:00",
-  "LastUpdate_Ratings": "2023-07-20T16:00:17.2647076+00:00",
-  "LastUpdate_Achievements": "2023-07-20T16:02:22.9346432+00:00"
+  "LastUpdate_Ratings": "2023-07-20T17:00:02.0560035+00:00",
+  "LastUpdate_Achievements": "2023-07-20T17:03:22.137404+00:00"
 }

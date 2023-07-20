@@ -162,7 +162,7 @@
   "Tags": [],
   "EOS_Progressed": 2979,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3210,9 +3210,9 @@
       "ID": "ACH_PREVENT_ABDUCTED",
       "SetID": "816efe",
       "Name": "Snatched Out",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2175
+      "UsersEstimate": 2204
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -3258,9 +3258,9 @@
       "ID": "ACH_UNLOCK_APC",
       "SetID": "816efe",
       "Name": "The More The Merrier",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 804
+      "UsersEstimate": 834
     },
     {
       "ID": "ACH_USE_REDEMPTION",
@@ -3283,8 +3283,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-20T02:02:12.6421273+00:00",
-  "LastChanged_Achievements": "2023-07-20T16:02:22.5504738+00:00",
+  "LastChanged_Achievements": "2023-07-20T17:03:21.8995241+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:18.2957495+00:00",
-  "LastUpdate_Ratings": "2023-07-20T16:00:30.860394+00:00",
-  "LastUpdate_Achievements": "2023-07-20T16:02:22.5505301+00:00"
+  "LastUpdate_Ratings": "2023-07-20T17:00:12.3773473+00:00",
+  "LastUpdate_Achievements": "2023-07-20T17:03:21.899601+00:00"
 }

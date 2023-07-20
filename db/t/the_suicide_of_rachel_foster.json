@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 38,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1239,
+  "EOS_Progressed": 1240,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 5,
   "EosHistory": [
@@ -1507,6 +1507,11 @@
       "Time": "2023-07-19T03:21:15.197387+00:00",
       "NumProgressed": 1239,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-07-20T17:03:33.5199256+00:00",
+      "NumProgressed": 1240,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 11,
@@ -1518,7 +1523,7 @@
       "Name": "Cutepie",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "ACH_BloccatoInGhiacciaia",
@@ -1526,7 +1531,7 @@
       "Name": "Freeze to death",
       "Percentage": 57,
       "XP": 100,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "ACH_Cacciavite",
@@ -1550,7 +1555,7 @@
       "Name": "Is she really dead?",
       "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "ACH_FineEV9",
@@ -1605,15 +1610,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1239,
+      "Progressed": 1240,
       "Completed": 62
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "LastChanged_Achievements": "2023-07-20T16:02:35.4074969+00:00",
+  "LastChanged_Achievements": "2023-07-20T17:03:33.519925+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:07.7115125+00:00",
-  "LastUpdate_Ratings": "2023-07-20T16:01:26.439036+00:00",
-  "LastUpdate_Achievements": "2023-07-20T16:02:35.407569+00:00"
+  "LastUpdate_Ratings": "2023-07-20T17:00:58.7873724+00:00",
+  "LastUpdate_Achievements": "2023-07-20T17:03:33.5199414+00:00"
 }

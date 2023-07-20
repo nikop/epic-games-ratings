@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 277,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -816,9 +816,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 6166,
+  "EOS_Progressed": 6167,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4176,6 +4176,11 @@
       "Time": "2023-07-20T12:06:12.5402195+00:00",
       "NumProgressed": 6166,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-20T17:07:23.2354083+00:00",
+      "NumProgressed": 6167,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -4219,7 +4224,7 @@
       "Name": "Commodity Trader",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1911
+      "UsersEstimate": 1912
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -4235,7 +4240,7 @@
       "Name": "Relic Hoarder",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Destroy_8_Pirate_Bases",
@@ -4291,7 +4296,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 4871
+      "UsersEstimate": 4872
     },
     {
       "ID": "First_Race_Met",
@@ -4299,7 +4304,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4501
+      "UsersEstimate": 4502
     },
     {
       "ID": "First_Ship_Designed",
@@ -4323,7 +4328,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4809
+      "UsersEstimate": 4810
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -4499,7 +4504,7 @@
       "Name": "Iconia Reclaimed!",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Use_Artifact_Power",
@@ -4507,7 +4512,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3823
+      "UsersEstimate": 3824
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -4627,7 +4632,7 @@
       "Name": "Win as the Navigators",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Win_As_Onyx",
@@ -4651,7 +4656,7 @@
       "Name": "Win as Torians",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Win_As_Xeloxi",
@@ -4675,7 +4680,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 4131
+      "UsersEstimate": 4132
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -4762,15 +4767,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6166,
+      "Progressed": 6167,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-07-12T23:57:59.1877062+00:00",
-  "LastChanged_Achievements": "2023-07-20T16:07:22.8914138+00:00",
+  "LastChanged_Achievements": "2023-07-20T17:07:23.2354079+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:23.5203079+00:00",
-  "LastUpdate_Ratings": "2023-07-20T15:58:08.4676053+00:00",
-  "LastUpdate_Achievements": "2023-07-20T16:07:22.8915073+00:00"
+  "LastUpdate_Ratings": "2023-07-20T16:58:10.7060973+00:00",
+  "LastUpdate_Achievements": "2023-07-20T17:07:23.2355119+00:00"
 }

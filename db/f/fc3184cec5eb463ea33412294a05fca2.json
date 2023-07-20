@@ -4,8 +4,8 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
     "PcReleaseDate": "2022-07-06T08:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 132,
+  "EOS_Progressed": 133,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 7.58,
+  "EOS_Completed_Percentage": 7.52,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -496,6 +496,11 @@
       "Time": "2023-07-20T11:06:07.9133242+00:00",
       "NumProgressed": 132,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-20T17:06:05.7967455+00:00",
+      "NumProgressed": 133,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 16,
@@ -515,7 +520,7 @@
       "Name": "Duck invasion",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -545,9 +550,9 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "8d3ci0",
       "Name": "High-rise",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 72
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -569,17 +574,17 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "8d3ci0",
       "Name": "Family pond",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 35
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "8d3ci0",
       "Name": "Make a wish",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 48
+      "UsersEstimate": 47
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -601,9 +606,9 @@
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "8d3ci0",
       "Name": "Private pool",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 72
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -627,21 +632,21 @@
       "Name": "Watery help",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     }
   ],
   "AchievementSets": [
     {
       "ID": "8d3ci0",
       "IsBase": true,
-      "Progressed": 132,
+      "Progressed": 133,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-20T16:05:55.6288558+00:00",
+  "LastChanged_Achievements": "2023-07-20T17:06:05.7967447+00:00",
   "LastUpdate_AppInfo": "2023-07-15T11:57:13.4695515+00:00",
-  "LastUpdate_Ratings": "2023-07-20T15:57:25.1755802+00:00",
-  "LastUpdate_Achievements": "2023-07-20T16:05:55.6288703+00:00"
+  "LastUpdate_Ratings": "2023-07-20T16:57:32.3939876+00:00",
+  "LastUpdate_Achievements": "2023-07-20T17:06:05.7967629+00:00"
 }

@@ -4,6 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| The 4 Pillars | 11.00% | ~1 |
+| First Step | 11.00% | ~1 |
 | Jantine: the Misfortunes of Evil | 0.00% | ~0 |
 | Tear Down the Wall! | 0.00% | ~0 |
 | Economist | 0.00% | ~0 |
@@ -24,7 +26,6 @@
 | Overpopulation | 0.00% | ~0 |
 | Property Bro | 0.00% | ~0 |
 | Human Resources | 0.00% | ~0 |
-| The 4 Pillars | 0.00% | ~0 |
 | War Veteran | 0.00% | ~0 |
 | Training Camp | 0.00% | ~0 |
 | Reconquest | 0.00% | ~0 |
@@ -38,7 +39,6 @@
 | Medicine Tycoon | 0.00% | ~0 |
 | Ammo Tycoon | 0.00% | ~0 |
 | Conveyor Belt Madness | 0.00% | ~0 |
-| First Step | 0.00% | ~0 |
 | Great Producer | 0.00% | ~0 |
 | First Victory | 0.00% | ~0 |
 | Sandbox Expert | 0.00% | ~0 |
@@ -49,9 +49,9 @@
 | Green Energy | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8 (Ranked 414)  
+Progressed: 9 (Ranked 412)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-07-20 | 8 | 0 |
+| 2023-07-20 | 9 | 0 |

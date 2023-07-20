@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7680,
+  "EOS_Progressed": 7682,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 806,
+  "EOS_NewPlayers": 796,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3711,6 +3711,11 @@
       "Time": "2023-07-20T16:02:05.2751318+00:00",
       "NumProgressed": 7680,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-20T17:01:36.7529148+00:00",
+      "NumProgressed": 7682,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -3794,7 +3799,7 @@
       "Name": "You tried your best!",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3302
+      "UsersEstimate": 3303
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -3810,7 +3815,7 @@
       "Name": "Facepalm",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1382
+      "UsersEstimate": 1383
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -3848,9 +3853,9 @@
       "ID": "ACH_WIN_10_GAMES_SCRIBBLE_IT",
       "SetID": "5ck0pmd",
       "Name": "Scribble Routinier",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_WIN_25_GAMES",
@@ -3914,21 +3919,21 @@
       "Name": "First Sketch",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1382
+      "UsersEstimate": 1383
     }
   ],
   "AchievementSets": [
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 7680,
+      "Progressed": 7682,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-07-20T16:02:05.2751312+00:00",
+  "LastChanged_Achievements": "2023-07-20T17:01:36.7529141+00:00",
   "LastUpdate_AppInfo": "2023-07-14T18:57:14.8780974+00:00",
-  "LastUpdate_Ratings": "2023-07-20T15:57:19.4391485+00:00",
-  "LastUpdate_Achievements": "2023-07-20T16:02:05.2751801+00:00"
+  "LastUpdate_Ratings": "2023-07-20T16:57:24.4917482+00:00",
+  "LastUpdate_Achievements": "2023-07-20T17:01:36.7529723+00:00"
 }

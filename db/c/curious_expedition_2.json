@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -55,9 +55,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 319,
+  "EOS_Progressed": 320,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -215,6 +215,11 @@
       "Time": "2023-07-08T00:03:38.9591134+00:00",
       "NumProgressed": 319,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-20T17:05:22.5486027+00:00",
+      "NumProgressed": 320,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -282,7 +287,7 @@
       "Name": "The Director is Dead",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ach-ascension-inspector-return",
@@ -402,7 +407,7 @@
       "Name": "Cartographer",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ach-discover-locations-high",
@@ -410,7 +415,7 @@
       "Name": "Discovery",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ach-drinkingContest",
@@ -426,7 +431,7 @@
       "Name": "Fire and Flood",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ach-find-treasure",
@@ -482,7 +487,7 @@
       "Name": "Plays Well With Others",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ach-kill-animal-groups",
@@ -514,7 +519,7 @@
       "Name": "Shennong Herbalist",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ach-maxClubLevel-american",
@@ -552,9 +557,9 @@
       "ID": "ach-meetGhost",
       "SetID": "17ih7ma",
       "Name": "Spooky!",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 115
     },
     {
       "ID": "ach-noEquipment",
@@ -578,7 +583,7 @@
       "Name": "Nahua Seeker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ach-paleMask-cure",
@@ -705,7 +710,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 319,
+      "Progressed": 320,
       "Completed": 1
     }
   ],
@@ -713,8 +718,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-06-15T11:00:18.1212208+00:00",
-  "LastChanged_Achievements": "2023-07-20T16:05:06.022011+00:00",
+  "LastChanged_Achievements": "2023-07-20T17:05:22.5486021+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:53.0230449+00:00",
-  "LastUpdate_Ratings": "2023-07-20T15:57:12.1208355+00:00",
-  "LastUpdate_Achievements": "2023-07-20T16:05:06.0220668+00:00"
+  "LastUpdate_Ratings": "2023-07-20T16:57:18.398499+00:00",
+  "LastUpdate_Achievements": "2023-07-20T17:05:22.5486593+00:00"
 }

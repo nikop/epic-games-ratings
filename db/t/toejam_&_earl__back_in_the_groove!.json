@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 55890,
+  "EOS_Progressed": 55891,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5922,6 +5922,11 @@
       "Time": "2023-07-20T12:05:01.467853+00:00",
       "NumProgressed": 55890,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-20T17:05:57.2671324+00:00",
+      "NumProgressed": 55891,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 49,
@@ -6005,7 +6010,7 @@
       "Name": "Flying Present Catcher",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2794
+      "UsersEstimate": 2795
     },
     {
       "ID": "FlyingPresentMaster",
@@ -6077,7 +6082,7 @@
       "Name": "HFZ Goober",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2794
+      "UsersEstimate": 2795
     },
     {
       "ID": "HarshLove",
@@ -6324,7 +6329,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 55890,
+      "Progressed": 55891,
       "Completed": 4
     }
   ],
@@ -6332,8 +6337,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-07-20T16:05:45.7135535+00:00",
+  "LastChanged_Achievements": "2023-07-20T17:05:57.2671319+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:37.0395721+00:00",
-  "LastUpdate_Ratings": "2023-07-20T16:01:55.5402052+00:00",
-  "LastUpdate_Achievements": "2023-07-20T16:05:45.7136831+00:00"
+  "LastUpdate_Ratings": "2023-07-20T17:01:28.6527736+00:00",
+  "LastUpdate_Achievements": "2023-07-20T17:05:57.2672247+00:00"
 }

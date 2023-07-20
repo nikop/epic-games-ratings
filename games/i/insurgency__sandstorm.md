@@ -6,29 +6,29 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~20,871 |
-| Exploitative | 4.00% | ~16,697 |
-| Point Shooting | 4.00% | ~16,697 |
-| Wet Feet | 4.00% | ~16,697 |
+| Wallbanger | 5.00% | ~20,872 |
+| Exploitative | 4.00% | ~16,698 |
+| Point Shooting | 4.00% | ~16,698 |
+| Wet Feet | 4.00% | ~16,698 |
 | High Speed Low Drag | 3.00% | ~12,523 |
 | Lucky | 3.00% | ~12,523 |
 | Stylin' | 3.00% | ~12,523 |
 | Turf War | 3.00% | ~12,523 |
-| Banged | 2.00% | ~8,348 |
-| Checkpoint Victory | 2.00% | ~8,348 |
-| First Blood | 2.00% | ~8,348 |
-| Flaccid Paralysis | 2.00% | ~8,348 |
-| Push Victory | 2.00% | ~8,348 |
-| Self-destructive | 2.00% | ~8,348 |
+| Banged | 2.00% | ~8,349 |
+| Checkpoint Victory | 2.00% | ~8,349 |
+| First Blood | 2.00% | ~8,349 |
+| Flaccid Paralysis | 2.00% | ~8,349 |
+| Push Victory | 2.00% | ~8,349 |
+| Self-destructive | 2.00% | ~8,349 |
 | Blindfire | 1.00% | ~4,174 |
 | Ruthless | 1.00% | ~4,174 |
 | Semper Paratus | 1.00% | ~4,174 |
 | Carrying | 0.90% | ~3,757 |
 | Efficient | 0.90% | ~3,757 |
 | Mount & Gun | 0.90% | ~3,757 |
-| Grounded | 0.80% | ~3,339 |
-| Personal | 0.80% | ~3,339 |
-| Play to Win | 0.80% | ~3,339 |
+| Grounded | 0.80% | ~3,340 |
+| Personal | 0.80% | ~3,340 |
+| Play to Win | 0.80% | ~3,340 |
 | #1 | 0.70% | ~2,922 |
 | Special Delivery | 0.70% | ~2,922 |
 | Firefight Victory | 0.60% | ~2,505 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~417 |
 | Road Hazard | 0.10% | ~417 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 417,421 (Ranked 39)  
+Progressed: 417,447 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 2 (0.00%) (Ranked 238)
 | 2023-07-17 | 416,187 | 2 |
 | 2023-07-18 | 416,664 | 2 |
 | 2023-07-19 | 417,117 | 2 |
-| 2023-07-20 | 417,421 | 2 |
+| 2023-07-20 | 417,447 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 364  (Ranked 220)  
 Sum: 2,814 (Ranked 169)  

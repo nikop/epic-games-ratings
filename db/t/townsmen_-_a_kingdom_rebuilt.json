@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -215,9 +215,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4185,
+  "EOS_Progressed": 4186,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -780,6 +780,11 @@
       "Time": "2023-07-20T16:05:13.2390263+00:00",
       "NumProgressed": 4185,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-20T17:05:29.1903212+00:00",
+      "NumProgressed": 4186,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 101,
@@ -1269,9 +1274,9 @@
       "ID": "ACHIEVEMENT_SCENARIO_FARMLAND",
       "SetID": "9eacipp",
       "Name": "Little place in the country",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 21
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_FESTIVITIES",
@@ -1439,7 +1444,7 @@
       "Name": "Tax-man I",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "ACHIEVEMENT_TAXES2",
@@ -1543,7 +1548,7 @@
       "Name": "A new beginning",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION02",
@@ -1598,15 +1603,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4185,
+      "Progressed": 4186,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-07-20T16:05:13.2390258+00:00",
+  "LastChanged_Achievements": "2023-07-20T17:05:29.1903207+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:37.2698223+00:00",
-  "LastUpdate_Ratings": "2023-07-20T15:58:48.4020523+00:00",
-  "LastUpdate_Achievements": "2023-07-20T16:05:13.2391591+00:00"
+  "LastUpdate_Ratings": "2023-07-20T16:58:45.9689309+00:00",
+  "LastUpdate_Achievements": "2023-07-20T17:05:29.1904582+00:00"
 }

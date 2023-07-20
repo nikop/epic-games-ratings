@@ -9,8 +9,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Devoured by Darkness | 21.00% | ~2,188 |
 | A Spark | 15.00% | ~1,563 |
 | Burning City | 14.00% | ~1,459 |
-| Mythic Choices | 12.00% | ~1,250 |
-| Defender's Heart | 12.00% | ~1,250 |
+| Mythic Choices | 12.00% | ~1,251 |
+| Defender's Heart | 12.00% | ~1,251 |
 | Banner over the Citadel | 11.00% | ~1,146 |
 | Queen's Gratitude | 10.00% | ~1,042 |
 | Fifth Crusade | 6.00% | ~625 |
@@ -49,9 +49,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | This Wall Won't Fall | 1.00% | ~92 |
 | Not the Last Sarkorian | 1.00% | ~92 |
 | Strategic Victory | 0.90% | ~94 |
+| Path of the Legend | 0.80% | ~83 |
 | End of Eternal Guard | 0.80% | ~83 |
 | Path of the Dragon | 0.70% | ~73 |
-| Path of the Legend | 0.70% | ~73 |
 | Playful Mood | 0.70% | ~73 |
 | Truly Profane Gift | 0.70% | ~73 |
 | Dreadful Dragon | 0.60% | ~63 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,419 (Ranked 117)  
+Progressed: 10,421 (Ranked 117)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,14 +214,14 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-17 | 10,375 | 0 |
 | 2023-07-18 | 10,390 | 0 |
 | 2023-07-19 | 10,406 | 0 |
-| 2023-07-20 | 10,419 | 0 |
+| 2023-07-20 | 10,421 | 0 |
 ## Awards
-Max (Character Customization): 1,684  (Ranked 117)  
-Sum: 6,825 (Ranked 113)  
+Max (Character Customization): 1,685  (Ranked 117)  
+Sum: 6,826 (Ranked 113)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 1,684 |
+| This game has Inclusive Character Customization | 1,685 |
 | This game is Extremely Fun | 642 |
 | This game is Highly Recommended | 624 |
 | This game has Amazing Characters | 622 |
@@ -405,4 +405,4 @@ Diff (max vs sum): 4
 | 2023-07-17 | 4.76 | - | 1,682 | 6,820 |
 | 2023-07-18 | 4.76 | - | 1,682 | 6,821 |
 | 2023-07-19 | 4.76 | - | 1,684 | 6,824 |
-| 2023-07-20 | 4.76 | - | 1,684 | 6,825 |
+| 2023-07-20 | 4.76 | - | 1,685 | 6,826 |
