@@ -63,7 +63,7 @@
 | 61 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 61 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 63 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.84% |
-| 64 | [Destiny 2](games/d/destiny_2.md) | 2.81% |
+| 64 | [Destiny 2](games/d/destiny_2.md) | 2.80% |
 | 65 | [The Bunker](games/t/the_bunker.md) | 2.73% |
 | 66 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 67 | [Lamentum](games/l/lamentum.md) | 2.67% |
@@ -147,11 +147,11 @@
 | 143 | [The Surge](games/t/the_surge.md) | 0.33% |
 | 143 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.33% |
 | 147 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
-| 147 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.32% |
-| 149 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.31% |
-| 149 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
-| 149 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
-| 149 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 148 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.31% |
+| 148 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
+| 148 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
+| 148 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.31% |
+| 148 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 153 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.28% |
 | 153 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
 | 155 | [Godlike Burger](games/g/godlike_burger.md) | 0.27% |
