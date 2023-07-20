@@ -27,7 +27,7 @@
 | 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.68% |
 | 26 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
 | 27 | [Smelter](games/s/smelter.md) | 8.11% |
-| 28 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.69% |
+| 28 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.58% |
 | 29 | [Ravenlok](games/r/ravenlok.md) | 7.43% |
 | 30 | [Time Loader](games/t/time_loader.md) | 7.14% |
 | 31 | [Scorn](games/s/scorn.md) | 7.04% |
@@ -46,7 +46,7 @@
 | 44 | [Without Escape](games/w/without_escape.md) | 4.55% |
 | 45 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.53% |
 | 46 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.29% |
-| 47 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.86% |
+| 47 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.85% |
 | 48 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.75% |
 | 49 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
 | 50 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.62% |
@@ -75,7 +75,7 @@
 | 73 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
 | 74 | [Bloodshore](games/b/bloodshore.md) | 2.27% |
 | 75 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.15% |
-| 76 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.13% |
+| 76 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.11% |
 | 77 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.10% |
 | 78 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.08% |
 | 79 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
@@ -136,9 +136,9 @@
 | 134 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.45% |
 | 135 | [Tchia](games/t/tchia.md) | 0.43% |
 | 135 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.43% |
+| 137 | [Ghostrunner](games/g/ghostrunner.md) | 0.42% |
 | 137 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.42% |
-| 138 | [Ghostrunner](games/g/ghostrunner.md) | 0.41% |
-| 138 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
+| 139 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.41% |
 | 140 | [Wildermyth](games/w/wildermyth.md) | 0.38% |
 | 141 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 142 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.36% |
