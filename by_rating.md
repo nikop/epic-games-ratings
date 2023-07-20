@@ -110,7 +110,7 @@
 | 100 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 505 |
 | 109 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 3,678 | 81 |
 | 109 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 6,358 | 52 |
-| 109 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 21,101 | 17 |
+| 109 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 21,120 | 17 |
 | 109 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 0 | 505 |
 | 109 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 0 | 505 |
 | 109 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 146 | 294 |
@@ -506,38 +506,38 @@
 | 493 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 87 | 349 |
 | 493 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 93 | 344 |
 | 493 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 505 |
-| 493 | [Tails of Iron](games/t/tails_of_iron.md) | 4.54 | 0 | 505 |
 | 493 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 505 | 194 |
-| 509 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 505 |
-| 509 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 505 |
-| 509 | [Dauntless](games/d/dauntless.md) | 4.53 | 20,858 | 18 |
-| 509 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.53 | 34 | 439 |
-| 509 | [Everything](games/e/everything.md) | 4.53 | 0 | 505 |
-| 509 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 0 | 505 |
-| 509 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.53 | 33 | 443 |
-| 509 | [RUINER](games/r/ruiner.md) | 4.53 | 23 | 481 |
-| 509 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.53 | 0 | 505 |
-| 509 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 505 |
-| 509 | [VALORANT](games/v/valorant.md) | 4.53 | 61,314 | 10 |
-| 520 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.52 | 23 | 481 |
-| 520 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 756 | 156 |
-| 520 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 30,093 | 15 |
-| 520 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 21 | 493 |
-| 520 | [Fall Guys](games/f/fall_guys.md) | 4.52 | 144,469 | 7 |
-| 520 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 518 | 192 |
-| 520 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 102 | 329 |
-| 520 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 148 | 293 |
-| 520 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 122 | 309 |
-| 520 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 1,341 | 126 |
-| 520 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 0 | 505 |
-| 520 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 289 | 235 |
-| 520 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 0 | 505 |
-| 520 | [Sable](games/s/sable.md) | 4.52 | 20 | 502 |
-| 520 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.52 | 0 | 505 |
-| 520 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.52 | 0 | 505 |
-| 520 | [Verdun](games/v/verdun.md) | 4.52 | 95 | 339 |
-| 520 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.52 | 28 | 462 |
-| 520 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 0 | 505 |
+| 508 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 505 |
+| 508 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 505 |
+| 508 | [Dauntless](games/d/dauntless.md) | 4.53 | 20,858 | 18 |
+| 508 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.53 | 34 | 439 |
+| 508 | [Everything](games/e/everything.md) | 4.53 | 0 | 505 |
+| 508 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 0 | 505 |
+| 508 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.53 | 33 | 443 |
+| 508 | [RUINER](games/r/ruiner.md) | 4.53 | 23 | 481 |
+| 508 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.53 | 0 | 505 |
+| 508 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 505 |
+| 508 | [VALORANT](games/v/valorant.md) | 4.53 | 61,314 | 10 |
+| 519 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.52 | 23 | 481 |
+| 519 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 756 | 156 |
+| 519 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 30,093 | 15 |
+| 519 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 21 | 493 |
+| 519 | [Fall Guys](games/f/fall_guys.md) | 4.52 | 144,469 | 7 |
+| 519 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 518 | 192 |
+| 519 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 102 | 329 |
+| 519 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 148 | 293 |
+| 519 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 122 | 309 |
+| 519 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 1,341 | 126 |
+| 519 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 0 | 505 |
+| 519 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 289 | 235 |
+| 519 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 0 | 505 |
+| 519 | [Sable](games/s/sable.md) | 4.52 | 20 | 502 |
+| 519 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.52 | 0 | 505 |
+| 519 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.52 | 0 | 505 |
+| 519 | [Tails of Iron](games/t/tails_of_iron.md) | 4.52 | 0 | 505 |
+| 519 | [Verdun](games/v/verdun.md) | 4.52 | 95 | 339 |
+| 519 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.52 | 28 | 462 |
+| 519 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 0 | 505 |
 | 539 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 1,663 | 118 |
 | 539 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 95 | 339 |
 | 539 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,103 | 77 |
@@ -936,11 +936,11 @@
 | 932 | [Warface](games/w/warface.md) | 3.91 | 404 | 210 |
 | 935 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 505 |
 | 936 | [Stygian: Reign of the Old Ones](games/s/stygian__reign_of_the_old_ones.md) | 3.85 | 0 | 505 |
-| 937 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.84 | 0 | 505 |
 | 937 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.84 | 0 | 505 |
-| 939 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.82 | 0 | 505 |
-| 939 | [Potion Permit](games/p/potion_permit.md) | 3.82 | 68 | 376 |
-| 939 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.82 | 0 | 505 |
+| 938 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.82 | 0 | 505 |
+| 938 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.82 | 0 | 505 |
+| 938 | [Potion Permit](games/p/potion_permit.md) | 3.82 | 68 | 376 |
+| 938 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.82 | 0 | 505 |
 | 942 | [Blood of Steel](games/b/blood_of_steel.md) | 3.81 | 0 | 505 |
 | 943 | [Poker Club](games/p/poker_club.md) | 3.80 | 28 | 462 |
 | 944 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,050 | 139 |
