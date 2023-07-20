@@ -39,9 +39,9 @@ Rating: 4.10 (Ranked 887)
 | Frostfire Liberator | 9.00% | ~151 |
 | Mastery | 9.00% | ~151 |
 | Moving Up The Ladder | 9.00% | ~151 |
+| Master Enchanter | 8.00% | ~134 |
 | The father of Dragons | 8.00% | ~134 |
 | Here We Go Again | 7.00% | ~118 |
-| Master Enchanter | 7.00% | ~118 |
 | The Expeditioner | 7.00% | ~118 |
 | Trader | 7.00% | ~118 |
 | Crystal Mining | 6.00% | ~101 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 55,
+  "Ranking_EOS_NewPlayers": 57,
   "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -5232,9 +5232,9 @@
       "Count": 560
     }
   ],
-  "EOS_Progressed": 288070,
+  "EOS_Progressed": 288073,
   "EOS_Completed": 431,
-  "EOS_NewPlayers": 896,
+  "EOS_NewPlayers": 892,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -14957,6 +14957,11 @@
       "Time": "2023-07-20T07:04:51.1059472+00:00",
       "NumProgressed": 288070,
       "NumCompleted": 431
+    },
+    {
+      "Time": "2023-07-20T08:05:02.1917024+00:00",
+      "NumProgressed": 288073,
+      "NumCompleted": 431
     }
   ],
   "TotalAchievements": 45,
@@ -14968,7 +14973,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 34568
+      "UsersEstimate": 34569
     },
     {
       "ID": "PFA_10",
@@ -15088,7 +15093,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 25926
+      "UsersEstimate": 25927
     },
     {
       "ID": "PFA_24",
@@ -15152,7 +15157,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 25926
+      "UsersEstimate": 25927
     },
     {
       "ID": "PFA_31",
@@ -15176,7 +15181,7 @@
       "Name": "Spilled Milk",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2016
+      "UsersEstimate": 2017
     },
     {
       "ID": "PFA_34",
@@ -15312,7 +15317,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 25926
+      "UsersEstimate": 25927
     },
     {
       "ID": "PFA_9",
@@ -15327,7 +15332,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 288070,
+      "Progressed": 288073,
       "Completed": 431
     }
   ],
@@ -15335,8 +15340,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-07-20T05:57:51.4883763+00:00",
-  "LastChanged_Achievements": "2023-07-20T07:04:51.1059466+00:00",
+  "LastChanged_Achievements": "2023-07-20T08:05:02.1917017+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:19.3801839+00:00",
-  "LastUpdate_Ratings": "2023-07-20T06:58:01.9083826+00:00",
-  "LastUpdate_Achievements": "2023-07-20T07:04:51.1060476+00:00"
+  "LastUpdate_Ratings": "2023-07-20T07:58:18.5159932+00:00",
+  "LastUpdate_Achievements": "2023-07-20T08:05:02.1918235+00:00"
 }

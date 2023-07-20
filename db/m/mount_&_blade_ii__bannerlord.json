@@ -5665,10 +5665,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 13804,
       "NumberOfAwardsMax": 6820
+    },
+    {
+      "Time": "2023-07-20T08:01:15.4923475+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 13806,
+      "NumberOfAwardsMax": 6820
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13804,
+  "NumberOfAwards": 13806,
   "NumberOfAwardsMax": 6820,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5682,7 +5688,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 821
+      "Count": 823
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5745,9 +5751,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 56139,
+  "EOS_Progressed": 56141,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 518,
+  "EOS_NewPlayers": 519,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15140,6 +15146,11 @@
       "Time": "2023-07-20T06:07:03.7583428+00:00",
       "NumProgressed": 56139,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-20T08:08:09.7857524+00:00",
+      "NumProgressed": 56141,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -15151,7 +15162,7 @@
       "Name": "Against all odds",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6175
+      "UsersEstimate": 6176
     },
     {
       "ID": "Apple of my eye",
@@ -15159,7 +15170,7 @@
       "Name": "Apple of my eye",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 7859
+      "UsersEstimate": 7860
     },
     {
       "ID": "Bannerlord",
@@ -15343,7 +15354,7 @@
       "Name": "King Solomon",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 8982
+      "UsersEstimate": 8983
     },
     {
       "ID": "Kingslayer",
@@ -15375,7 +15386,7 @@
       "Name": "Landlord",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 17403
+      "UsersEstimate": 17404
     },
     {
       "ID": "Lawbringer",
@@ -15383,7 +15394,7 @@
       "Name": "Lawbringer",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 20771
+      "UsersEstimate": 20772
     },
     {
       "ID": "Lawmaker",
@@ -15527,7 +15538,7 @@
       "Name": "Trained",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 11789
+      "UsersEstimate": 11790
     },
     {
       "ID": "Undercover",
@@ -15558,15 +15569,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 56139,
+      "Progressed": 56141,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-07-19T22:59:39.0254415+00:00",
-  "LastChanged_Achievements": "2023-07-20T07:07:58.5979358+00:00",
+  "LastChanged": "2023-07-20T08:01:15.4923472+00:00",
+  "LastChanged_Achievements": "2023-07-20T08:08:09.7857516+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:48.1005966+00:00",
-  "LastUpdate_Ratings": "2023-07-20T07:00:56.8262154+00:00",
-  "LastUpdate_Achievements": "2023-07-20T07:07:58.5980614+00:00"
+  "LastUpdate_Ratings": "2023-07-20T08:01:15.492348+00:00",
+  "LastUpdate_Achievements": "2023-07-20T08:08:09.7859844+00:00"
 }

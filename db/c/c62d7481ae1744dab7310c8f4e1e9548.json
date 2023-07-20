@@ -86,17 +86,17 @@
       "ID": "Cervotoc",
       "SetID": "ag48e8e",
       "Name": "Woodworm",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Cikady",
       "SetID": "ag48e8e",
       "Name": "Cicadas",
-      "Percentage": 30,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Destilat",
@@ -134,9 +134,9 @@
       "ID": "Jing",
       "SetID": "ag48e8e",
       "Name": "Jing Jang",
-      "Percentage": 40,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Kamzik",
@@ -150,9 +150,9 @@
       "ID": "Kour",
       "SetID": "ag48e8e",
       "Name": "Spiral Smoke",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "KrabiPyramida",
@@ -206,9 +206,9 @@
       "ID": "Netopyrek",
       "SetID": "ag48e8e",
       "Name": "Liana Bats",
-      "Percentage": 30,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Pejsek",
@@ -254,9 +254,9 @@
       "ID": "SpiciPapouch",
       "SetID": "ag48e8e",
       "Name": "Sleeping Parrot",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Sputnik2",
@@ -333,8 +333,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-07-20T07:02:26.318682+00:00",
+  "LastChanged_Achievements": "2023-07-20T08:02:46.5683983+00:00",
   "LastUpdate_AppInfo": "2023-07-14T13:57:07.7032953+00:00",
-  "LastUpdate_Ratings": "2023-07-20T06:57:08.246987+00:00",
-  "LastUpdate_Achievements": "2023-07-20T07:02:26.3187229+00:00"
+  "LastUpdate_Ratings": "2023-07-20T07:57:22.7669503+00:00",
+  "LastUpdate_Achievements": "2023-07-20T08:02:46.5684231+00:00"
 }

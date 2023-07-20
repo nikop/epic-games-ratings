@@ -3,7 +3,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 40.00% | ~8 |
+| Break Out | 45.00% | ~9 |
 | Calm before the Storm | 30.00% | ~6 |
 | Flawless Victory | 25.00% | ~5 |
 | Powerful Allies | 20.00% | ~4 |

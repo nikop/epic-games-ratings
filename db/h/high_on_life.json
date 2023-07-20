@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -220,9 +220,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23031,
+  "EOS_Progressed": 23032,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -2295,6 +2295,11 @@
       "Time": "2023-07-19T21:05:56.4788083+00:00",
       "NumProgressed": 23031,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-20T08:07:36.9943595+00:00",
+      "NumProgressed": 23032,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 32,
@@ -2322,7 +2327,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 17734
+      "UsersEstimate": 17735
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -2330,7 +2335,7 @@
       "Name": "Luglox Genocide",
       "Percentage": 43,
       "XP": 60,
-      "UsersEstimate": 9903
+      "UsersEstimate": 9904
     },
     {
       "ID": "ACH_APPLEBEES_BILL",
@@ -2346,7 +2351,7 @@
       "Name": "Creature Feature",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 6909
+      "UsersEstimate": 6910
     },
     {
       "ID": "ACH_GET_GUS",
@@ -2370,7 +2375,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 17734
+      "UsersEstimate": 17735
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -2386,7 +2391,7 @@
       "Name": "RIP Davey Glutes",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5527
+      "UsersEstimate": 5528
     },
     {
       "ID": "ACH_GET_SWEEZY",
@@ -2410,7 +2415,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 19116
+      "UsersEstimate": 19117
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -2418,7 +2423,7 @@
       "Name": "Sequel-Bait",
       "Percentage": 8,
       "XP": 45,
-      "UsersEstimate": 1842
+      "UsersEstimate": 1843
     },
     {
       "ID": "ACH_JUGGLE_SKILLS",
@@ -2434,7 +2439,7 @@
       "Name": "First Bounty Down",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 13588
+      "UsersEstimate": 13589
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -2561,22 +2566,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 23031,
+      "Progressed": 23032,
       "Completed": 9
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 324,
-      "Completed": 324
+      "Progressed": 325,
+      "Completed": 325
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-07-12T23:58:40.6002161+00:00",
-  "LastChanged_Achievements": "2023-07-20T07:07:26.5133433+00:00",
+  "LastChanged_Achievements": "2023-07-20T08:07:36.9943589+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:35.4235565+00:00",
-  "LastUpdate_Ratings": "2023-07-20T06:58:41.2878895+00:00",
-  "LastUpdate_Achievements": "2023-07-20T07:07:26.5133865+00:00"
+  "LastUpdate_Ratings": "2023-07-20T07:58:57.9671213+00:00",
+  "LastUpdate_Achievements": "2023-07-20T08:07:36.9944249+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "pixel-art-coloring-book-a485ef",
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1443,
+  "EOS_Progressed": 1444,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 326,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 0.49,
+  "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
     {
       "Time": "2023-06-26T07:03:57.4473035+00:00",
@@ -2076,6 +2076,11 @@
       "Time": "2023-07-20T06:05:01.8613068+00:00",
       "NumProgressed": 1443,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-07-20T08:05:48.3783484+00:00",
+      "NumProgressed": 1444,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 16,
@@ -2133,17 +2138,17 @@
       "ID": "ach_architecture_unlocked",
       "SetID": "3h4khpo",
       "Name": "Architecture - unlocked",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 447
+      "UsersEstimate": 462
     },
     {
       "ID": "ach_bomb",
       "SetID": "3h4khpo",
       "Name": "Cannoneer",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 65,
-      "UsersEstimate": 404
+      "UsersEstimate": 390
     },
     {
       "ID": "ach_color_splash",
@@ -2159,7 +2164,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 82,
       "XP": 25,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1184
     },
     {
       "ID": "ach_food_completed",
@@ -2183,7 +2188,7 @@
       "Name": "Game opened",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 1053
+      "UsersEstimate": 1054
     },
     {
       "ID": "ach_magic_wand",
@@ -2191,7 +2196,7 @@
       "Name": "Magic time",
       "Percentage": 29,
       "XP": 65,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "ach_no_boosters",
@@ -2214,14 +2219,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 1443,
+      "Progressed": 1444,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-07-20T07:05:37.8152244+00:00",
+  "LastChanged_Achievements": "2023-07-20T08:05:48.3783477+00:00",
   "LastUpdate_AppInfo": "2023-07-14T09:57:10.1132461+00:00",
-  "LastUpdate_Ratings": "2023-07-20T06:57:24.7289574+00:00",
-  "LastUpdate_Achievements": "2023-07-20T07:05:37.8152516+00:00"
+  "LastUpdate_Ratings": "2023-07-20T07:57:41.4444967+00:00",
+  "LastUpdate_Achievements": "2023-07-20T08:05:48.3783867+00:00"
 }

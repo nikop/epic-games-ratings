@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -382,9 +382,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7003,
+  "EOS_Progressed": 7004,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -5702,6 +5702,11 @@
       "Time": "2023-07-20T04:05:24.3247097+00:00",
       "NumProgressed": 7003,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-07-20T08:05:51.4965154+00:00",
+      "NumProgressed": 7004,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 29,
@@ -5713,7 +5718,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5812
+      "UsersEstimate": 5813
     },
     {
       "ID": "ACH02",
@@ -5841,7 +5846,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 910
+      "UsersEstimate": 911
     },
     {
       "ID": "ACH18",
@@ -5944,7 +5949,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7003,
+      "Progressed": 7004,
       "Completed": 41
     }
   ],
@@ -5952,8 +5957,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-07-14T20:58:27.169757+00:00",
-  "LastChanged_Achievements": "2023-07-20T07:05:41.0204993+00:00",
+  "LastChanged_Achievements": "2023-07-20T08:05:51.4965148+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:27.5857336+00:00",
-  "LastUpdate_Ratings": "2023-07-20T06:58:34.251064+00:00",
-  "LastUpdate_Achievements": "2023-07-20T07:05:41.0205667+00:00"
+  "LastUpdate_Ratings": "2023-07-20T07:58:50.8337252+00:00",
+  "LastUpdate_Achievements": "2023-07-20T08:05:51.4965878+00:00"
 }
