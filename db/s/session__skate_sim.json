@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -796,9 +796,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2529,
+  "EOS_Progressed": 2530,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3156,6 +3156,11 @@
       "Time": "2023-07-20T17:03:41.9288716+00:00",
       "NumProgressed": 2529,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-20T19:03:12.4510541+00:00",
+      "NumProgressed": 2530,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3271,7 +3276,7 @@
       "Name": "Go with the Flow",
       "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "ACH_GOAT-STATUS",
@@ -3309,9 +3314,9 @@
       "ID": "ACH_KEEP-THE-DREAM-ALIVE",
       "SetID": "72olkc5",
       "Name": "Keep the dream alive",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 228
+      "UsersEstimate": 202
     },
     {
       "ID": "ACH_KEEPING-IT-CLASSY",
@@ -3550,15 +3555,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2529,
+      "Progressed": 2530,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-07-18T02:30:00.4800428+00:00",
-  "LastChanged_Achievements": "2023-07-20T18:03:16.1054588+00:00",
+  "LastChanged_Achievements": "2023-07-20T19:03:12.4510538+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:04.9340896+00:00",
-  "LastUpdate_Ratings": "2023-07-20T17:59:48.5904691+00:00",
-  "LastUpdate_Achievements": "2023-07-20T18:03:16.1055092+00:00"
+  "LastUpdate_Ratings": "2023-07-20T18:59:58.7545379+00:00",
+  "LastUpdate_Achievements": "2023-07-20T19:03:12.4510944+00:00"
 }

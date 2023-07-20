@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 67,
-  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewPlayers": 314,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
@@ -334,17 +334,17 @@
       "ID": "achievement_09",
       "SetID": "7881h0d",
       "Name": "Grau Hill",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 226
+      "UsersEstimate": 229
     },
     {
       "ID": "achievement_10",
       "SetID": "7881h0d",
       "Name": "The creature",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 238
+      "UsersEstimate": 241
     },
     {
       "ID": "achievement_11",
@@ -423,8 +423,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-03-31T05:57:59.5947046+00:00",
-  "LastChanged_Achievements": "2023-07-20T18:06:52.8733875+00:00",
+  "LastChanged_Achievements": "2023-07-20T19:06:55.6255603+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:17.5804753+00:00",
-  "LastUpdate_Ratings": "2023-07-20T17:58:21.1219246+00:00",
-  "LastUpdate_Achievements": "2023-07-20T18:06:52.8734038+00:00"
+  "LastUpdate_Ratings": "2023-07-20T18:58:23.822511+00:00",
+  "LastUpdate_Achievements": "2023-07-20T19:06:55.6255723+00:00"
 }

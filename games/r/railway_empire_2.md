@@ -15,7 +15,7 @@ Rating: 4.49 (Ranked 576)
 | Brainstorm | 65.00% | ~1,053 |
 | Travel Company | 65.00% | ~1,053 |
 | Mind the Gap | 64.00% | ~1,037 |
-| All around the World | 61.00% | ~988 |
+| All around the World | 62.00% | ~1,004 |
 | Right through the middle | 57.00% | ~923 |
 | Poor Devil | 54.00% | ~875 |
 | Facility Manager | 53.00% | ~859 |
@@ -34,7 +34,7 @@ Rating: 4.49 (Ranked 576)
 | Country Life | 26.00% | ~421 |
 | General Manager | 25.00% | ~405 |
 | Hostile Takeover | 25.00% | ~405 |
-| Seven at one stroke | 23.00% | ~373 |
+| Seven at one stroke | 24.00% | ~389 |
 | Trailblazer | 20.00% | ~324 |
 | Breaking Ground | 20.00% | ~324 |
 | Traffic Junction | 19.00% | ~308 |

@@ -4,7 +4,7 @@
   "ProductSlug": "time-loader",
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 30,
-  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-11-03T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 112,
+  "EOS_Progressed": 113,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.14,
+  "EOS_Completed_Percentage": 7.08,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:23.4088376+00:00",
@@ -126,6 +126,11 @@
       "Time": "2023-07-15T16:13:20.6250402+00:00",
       "NumProgressed": 112,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-20T19:02:13.3371594+00:00",
+      "NumProgressed": 113,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 29,
@@ -151,15 +156,15 @@
       "ID": "03_Cassette",
       "SetID": "681m9fa",
       "Name": "Cassette",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 23
     },
     {
       "ID": "04_Mug",
       "SetID": "681m9fa",
       "Name": "Mug",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 25,
       "UsersEstimate": 32
     },
@@ -199,9 +204,9 @@
       "ID": "09_Ticket",
       "SetID": "681m9fa",
       "Name": "Ticket",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 14
     },
     {
       "ID": "10_Flyer",
@@ -255,7 +260,7 @@
       "ID": "16_Springs",
       "SetID": "681m9fa",
       "Name": "Springs",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 15,
       "UsersEstimate": 68
     },
@@ -271,7 +276,7 @@
       "ID": "18_SolderingIron",
       "SetID": "681m9fa",
       "Name": "Soldering iron",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
       "UsersEstimate": 32
     },
@@ -319,9 +324,9 @@
       "ID": "24_HereWeGoAgain",
       "SetID": "681m9fa",
       "Name": "Here we go again",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 21
     },
     {
       "ID": "25_LeaveMeAlone",
@@ -359,16 +364,16 @@
       "ID": "29_Act3",
       "SetID": "681m9fa",
       "Name": "Act 3",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 24
+      "UsersEstimate": 23
     }
   ],
   "AchievementSets": [
     {
       "ID": "681m9fa",
       "IsBase": true,
-      "Progressed": 112,
+      "Progressed": 113,
       "Completed": 8
     }
   ],
@@ -376,8 +381,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.0272628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.4088384+00:00",
   "LastChanged": "2023-03-31T05:58:23.0272628+00:00",
-  "LastChanged_Achievements": "2023-07-20T18:01:24.7625567+00:00",
+  "LastChanged_Achievements": "2023-07-20T19:02:13.3371589+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:25.950315+00:00",
-  "LastUpdate_Ratings": "2023-07-20T17:58:26.2573463+00:00",
-  "LastUpdate_Achievements": "2023-07-20T18:01:24.7625853+00:00"
+  "LastUpdate_Ratings": "2023-07-20T18:58:29.0255888+00:00",
+  "LastUpdate_Achievements": "2023-07-20T19:02:13.3371759+00:00"
 }

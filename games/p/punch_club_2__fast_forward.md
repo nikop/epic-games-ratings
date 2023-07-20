@@ -4,15 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Such a strange dream… | 113.00% | ~9 |
-| Your first fight | 100.00% | ~8 |
-| Good Person Chip | 63.00% | ~5 |
-| Your first job | 38.00% | ~3 |
-| Neurotrainer – power gainer! | 38.00% | ~3 |
-| First defeat | 25.00% | ~2 |
-| First winning | 25.00% | ~2 |
-| Old movies enjoyer | 25.00% | ~2 |
-| Depressed visitor | 25.00% | ~2 |
+| Such a strange dream… | 109.00% | ~12 |
+| Your first fight | 91.00% | ~10 |
+| Good Person Chip | 73.00% | ~8 |
+| Your first job | 64.00% | ~7 |
+| First defeat | 55.00% | ~6 |
+| First winning | 55.00% | ~6 |
+| Old movies enjoyer | 55.00% | ~6 |
+| Neurotrainer – power gainer! | 55.00% | ~6 |
+| Depressed visitor | 36.00% | ~4 |
+| Fitness professional | 27.00% | ~3 |
+| Run K, run! | 27.00% | ~3 |
+| Intriguing candies | 27.00% | ~3 |
+| Employee of the week | 27.00% | ~3 |
+| Your own amateur gym | 9.00% | ~1 |
+| Hello, world! | 9.00% | ~1 |
 | Mom got better | 0.00% | ~0 |
 | Deal with life | 0.00% | ~0 |
 | Now you are worthy | 0.00% | ~0 |
@@ -22,8 +28,6 @@
 | Another world | 0.00% | ~0 |
 | Workout professional | 0.00% | ~0 |
 | GYM professional | 0.00% | ~0 |
-| Fitness professional | 0.00% | ~0 |
-| Your own amateur gym | 0.00% | ~0 |
 | The lonesome road | 0.00% | ~0 |
 | Legal courier | 0.00% | ~0 |
 | Fighting is cool | 0.00% | ~0 |
@@ -47,7 +51,6 @@
 | It's good to be alive | 0.00% | ~0 |
 | Mysterious voice | 0.00% | ~0 |
 | Extreme neuropower! | 0.00% | ~0 |
-| Run K, run! | 0.00% | ~0 |
 | Own four walls | 0.00% | ~0 |
 | The only right decision | 0.00% | ~0 |
 | Poisoned fighter | 0.00% | ~0 |
@@ -60,21 +63,18 @@
 | Anyone can resist | 0.00% | ~0 |
 | The heart of the Resistance | 0.00% | ~0 |
 | Seashell hunter | 0.00% | ~0 |
-| Intriguing candies | 0.00% | ~0 |
-| Hello, world! | 0.00% | ~0 |
 | Escaped from a big trouble | 0.00% | ~0 |
 | Guiding on the right path | 0.00% | ~0 |
 | Responsible approach | 0.00% | ~0 |
 | Undercover robot | 0.00% | ~0 |
 | Your own way | 0.00% | ~0 |
-| Employee of the week | 0.00% | ~0 |
 | Employee of the month | 0.00% | ~0 |
 | Employee of the year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8 (Ranked 415)  
+Progressed: 11 (Ranked 404)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-07-17 | 3 | 0 |
-| 2023-07-20 | 8 | 0 |
+| 2023-07-20 | 11 | 0 |

@@ -4,7 +4,7 @@
   "ProductSlug": "unspottable",
   "Ranking_EOS_Progress": 501,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewPlayers": 314,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-12-14T19:00:00+00:00",
@@ -47,8 +47,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.2382786+00:00",
   "FirstSeenAchievements": "2023-07-03T15:05:05.5856649+00:00",
   "LastChanged": "2023-03-31T05:58:41.2382787+00:00",
-  "LastChanged_Achievements": "2023-07-20T18:06:23.5301024+00:00",
+  "LastChanged_Achievements": "2023-07-20T19:06:27.3682057+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:03.7890781+00:00",
-  "LastUpdate_Ratings": "2023-07-20T17:58:08.7961589+00:00",
-  "LastUpdate_Achievements": "2023-07-20T18:06:23.5301045+00:00"
+  "LastUpdate_Ratings": "2023-07-20T18:58:11.8904218+00:00",
+  "LastUpdate_Achievements": "2023-07-20T19:06:27.3682084+00:00"
 }

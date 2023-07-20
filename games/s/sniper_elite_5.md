@@ -6,6 +6,7 @@ Rating: 4.40 (Ranked 691)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Liberté | 3.00% | ~99 |
+| Sharpshooter | 3.00% | ~99 |
 | Confirming Suspicions | 3.00% | ~99 |
 | Lord of War | 3.00% | ~99 |
 | Resourceful | 3.00% | ~99 |
@@ -20,7 +21,7 @@ Rating: 4.40 (Ranked 691)
 | Organ Grinder | 2.00% | ~66 |
 | Meeting Resistance | 2.00% | ~66 |
 | Gunslinger | 2.00% | ~66 |
-| Sharpshooter | 2.00% | ~66 |
+| Skirmisher | 2.00% | ~66 |
 | Set Europe Ablaze | 2.00% | ~66 |
 | Explosive Efficiency | 2.00% | ~66 |
 | Der Geist | 2.00% | ~66 |
@@ -31,13 +32,12 @@ Rating: 4.40 (Ranked 691)
 | Enemy at the Gates | 1.00% | ~33 |
 | Fields of Glory | 1.00% | ~33 |
 | Just a Flesh Wound | 1.00% | ~33 |
-| Skirmisher | 1.00% | ~33 |
 | Precision Is Key | 1.00% | ~33 |
 | Rigged to Blow | 1.00% | ~33 |
 | My Little Friend | 1.00% | ~33 |
 | Die Nussknacker Sweet! | 1.00% | ~33 |
 | Snake in the Grass | 1.00% | ~33 |
-| The Long Game | 0.80% | ~26 |
+| The Long Game | 0.90% | ~30 |
 | Tinkerer | 0.80% | ~26 |
 | Don't hold your breath | 0.80% | ~26 |
 | Herr Today, Gone Tomorrow | 0.70% | ~23 |

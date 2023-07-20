@@ -42,8 +42,8 @@ Rating: 4.63 (Ranked 330)
 | Crimson Caldera | 1.00% | ~50 |
 | The Eternal Court | 1.00% | ~50 |
 | Jack of All Tomes | 1.00% | ~50 |
-| Grexolis | 0.90% | ~45 |
-| One for All, All for One | 0.90% | ~45 |
+| Grexolis | 1.00% | ~50 |
+| One for All, All for One | 1.00% | ~50 |
 | Pruning for Progress | 0.80% | ~40 |
 | I've Got Everything I Need Right Here | 0.70% | ~35 |
 | Manufactured War | 0.60% | ~30 |

@@ -3611,9 +3611,9 @@
       "ID": "A13",
       "SetID": "9b7p7eo",
       "Name": "Seven at one stroke",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 373
+      "UsersEstimate": 389
     },
     {
       "ID": "A14",
@@ -3803,9 +3803,9 @@
       "ID": "A37",
       "SetID": "9b7p7eo",
       "Name": "All around the World",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 988
+      "UsersEstimate": 1004
     },
     {
       "ID": "A38",
@@ -3956,8 +3956,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-07-15T13:11:52.2660049+00:00",
-  "LastChanged_Achievements": "2023-07-20T18:03:23.7891551+00:00",
+  "LastChanged_Achievements": "2023-07-20T19:03:19.7217336+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:48.1822596+00:00",
-  "LastUpdate_Ratings": "2023-07-20T17:58:42.0591012+00:00",
-  "LastUpdate_Achievements": "2023-07-20T18:03:23.7892292+00:00"
+  "LastUpdate_Ratings": "2023-07-20T18:58:46.6670487+00:00",
+  "LastUpdate_Achievements": "2023-07-20T19:03:19.7217905+00:00"
 }

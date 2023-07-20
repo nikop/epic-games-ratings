@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 347,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -706,9 +706,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6372,
+  "EOS_Progressed": 6373,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3366,6 +3366,11 @@
       "Time": "2023-07-20T16:05:35.1525429+00:00",
       "NumProgressed": 6372,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-20T19:05:28.7081287+00:00",
+      "NumProgressed": 6373,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -3505,7 +3510,7 @@
       "Name": "Insubordination",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
@@ -3623,9 +3628,9 @@
       "ID": "ISONZO_ACH_SILVER_LINING",
       "SetID": "akchbl3",
       "Name": "Silver Lining",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 1912
+      "UsersEstimate": 1848
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -3665,7 +3670,7 @@
       "Name": "The Italian Job",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "ISONZO_ACH_THE_LION_OF_THE_ISONZO",
@@ -3681,7 +3686,7 @@
       "Name": "The Show Must Go On",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "ISONZO_ACH_THUS_WITH_A_KISS",
@@ -3729,14 +3734,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3377
+      "UsersEstimate": 3378
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6372,
+      "Progressed": 6373,
       "Completed": 8
     }
   ],
@@ -3744,8 +3749,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-07-16T15:57:43.9096857+00:00",
-  "LastChanged_Achievements": "2023-07-20T18:05:23.3305482+00:00",
+  "LastChanged_Achievements": "2023-07-20T19:05:28.7081283+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:26.8768515+00:00",
-  "LastUpdate_Ratings": "2023-07-20T17:58:03.3487307+00:00",
-  "LastUpdate_Achievements": "2023-07-20T18:05:23.3306164+00:00"
+  "LastUpdate_Ratings": "2023-07-20T18:58:06.4804023+00:00",
+  "LastUpdate_Achievements": "2023-07-20T19:05:28.7081693+00:00"
 }

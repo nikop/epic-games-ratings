@@ -6,14 +6,14 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Everything Must Go! | 33.00% | ~1 |
-| First Strike | 33.00% | ~1 |
-| Flawless Victory | 33.00% | ~1 |
-| The Fourth Gate | 33.00% | ~1 |
-| Mushroom Madness! | 33.00% | ~1 |
-| On this Episode! | 33.00% | ~1 |
-| Spending Spree | 33.00% | ~1 |
-| That'll Leave a Mark | 33.00% | ~1 |
+| Everything Must Go! | 9.00% | ~1 |
+| First Strike | 9.00% | ~1 |
+| Flawless Victory | 9.00% | ~1 |
+| The Fourth Gate | 9.00% | ~1 |
+| Mushroom Madness! | 9.00% | ~1 |
+| On this Episode! | 9.00% | ~1 |
+| Spending Spree | 9.00% | ~1 |
+| That'll Leave a Mark | 9.00% | ~1 |
 | Cold-Blooded Critters | 0.00% | ~0 |
 | Deadalus and Loving It | 0.00% | ~0 |
 | Deadication | 0.00% | ~0 |
@@ -30,12 +30,12 @@ Number of Ratings: 285  (23.09.2022)
 | Ten Steps from the Grave | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3 (Ranked 437)  
+Progressed: 11 (Ranked 404)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-07-20 | 3 | 0 |
+| 2023-07-20 | 11 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 448)  
 Sum: 225 (Ranked 350)  

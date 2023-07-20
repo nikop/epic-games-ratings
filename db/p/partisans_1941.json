@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,7 +295,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1110,
+  "EOS_Progressed": 1111,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
@@ -1470,6 +1470,11 @@
       "Time": "2023-07-20T17:03:22.1373702+00:00",
       "NumProgressed": 1110,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-20T19:02:23.3791579+00:00",
+      "NumProgressed": 1111,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1561,7 +1566,7 @@
       "Name": "E1M1",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "Everyone_is_here",
@@ -1569,7 +1574,7 @@
       "Name": "The Gang\u0027s All Here",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "Experienced_strategist",
@@ -1593,7 +1598,7 @@
       "Name": "Grenadier",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "Hard_Serpent",
@@ -1697,7 +1702,7 @@
       "Name": "War Never Changes",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "We_were_not_here",
@@ -1720,15 +1725,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1110,
+      "Progressed": 1111,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-07-20T18:02:15.8446632+00:00",
+  "LastChanged_Achievements": "2023-07-20T19:02:23.3791575+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:08.2445796+00:00",
-  "LastUpdate_Ratings": "2023-07-20T17:59:50.52341+00:00",
-  "LastUpdate_Achievements": "2023-07-20T18:02:15.8446914+00:00"
+  "LastUpdate_Ratings": "2023-07-20T19:00:01.0407217+00:00",
+  "LastUpdate_Achievements": "2023-07-20T19:02:23.3791782+00:00"
 }

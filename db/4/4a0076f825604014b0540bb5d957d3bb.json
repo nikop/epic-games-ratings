@@ -2,9 +2,9 @@
   "ID": "4a0076f825604014b0540bb5d957d3bb",
   "Name": "The House of Da Vinci 2",
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
-  "Ranking_EOS_Progress": 393,
+  "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13,
+  "EOS_Progressed": 14,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -91,6 +91,11 @@
       "Time": "2023-07-20T16:03:57.3549349+00:00",
       "NumProgressed": 13,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-20T19:03:51.5738976+00:00",
+      "NumProgressed": 14,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -100,15 +105,15 @@
       "ID": "CgkInO_K3eIdEAIQAw",
       "SetID": "6bj96in",
       "Name": "GREAT ESCAPE",
-      "Percentage": 108,
+      "Percentage": 107,
       "XP": 40,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "CgkInO_K3eIdEAIQBA",
       "SetID": "6bj96in",
       "Name": "TRAINING DAY",
-      "Percentage": 92,
+      "Percentage": 86,
       "XP": 40,
       "UsersEstimate": 12
     },
@@ -116,7 +121,7 @@
       "ID": "CgkInO_K3eIdEAIQBQ",
       "SetID": "6bj96in",
       "Name": "SAILOR\u0027S GIFT",
-      "Percentage": 92,
+      "Percentage": 86,
       "XP": 40,
       "UsersEstimate": 12
     },
@@ -124,15 +129,15 @@
       "ID": "CgkInO_K3eIdEAIQBg",
       "SetID": "6bj96in",
       "Name": "BACK TO THE FUTURE",
-      "Percentage": 46,
+      "Percentage": 50,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "CgkInO_K3eIdEAIQBw",
       "SetID": "6bj96in",
       "Name": "SCRIPTORIUM SNEAK",
-      "Percentage": 46,
+      "Percentage": 43,
       "XP": 40,
       "UsersEstimate": 6
     },
@@ -140,7 +145,7 @@
       "ID": "CgkInO_K3eIdEAIQCA",
       "SetID": "6bj96in",
       "Name": "GIFTED LIBRARIAN",
-      "Percentage": 46,
+      "Percentage": 43,
       "XP": 40,
       "UsersEstimate": 6
     },
@@ -148,23 +153,23 @@
       "ID": "CgkInO_K3eIdEAIQCQ",
       "SetID": "6bj96in",
       "Name": "NOVICE CRAFTSMAN",
-      "Percentage": 115,
+      "Percentage": 114,
       "XP": 40,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "CgkInO_K3eIdEAIQCg",
       "SetID": "6bj96in",
       "Name": "ADVANCED CRAFTSMAN",
-      "Percentage": 54,
+      "Percentage": 57,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "CgkInO_K3eIdEAIQCw",
       "SetID": "6bj96in",
       "Name": "MASTER CRAFTSMAN",
-      "Percentage": 46,
+      "Percentage": 43,
       "XP": 40,
       "UsersEstimate": 6
     },
@@ -172,15 +177,15 @@
       "ID": "CgkInO_K3eIdEAIQDA",
       "SetID": "6bj96in",
       "Name": "BRIDGES OF THE PAST",
-      "Percentage": 108,
+      "Percentage": 107,
       "XP": 40,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "CgkInO_K3eIdEAIQDQ",
       "SetID": "6bj96in",
       "Name": "TEMPORAL ARCHITECT",
-      "Percentage": 92,
+      "Percentage": 86,
       "XP": 40,
       "UsersEstimate": 12
     },
@@ -188,7 +193,7 @@
       "ID": "CgkInO_K3eIdEAIQDg",
       "SetID": "6bj96in",
       "Name": "CHRONOSPY",
-      "Percentage": 92,
+      "Percentage": 86,
       "XP": 40,
       "UsersEstimate": 12
     },
@@ -196,7 +201,7 @@
       "ID": "CgkInO_K3eIdEAIQDw",
       "SetID": "6bj96in",
       "Name": "TIME THIEF",
-      "Percentage": 46,
+      "Percentage": 43,
       "XP": 40,
       "UsersEstimate": 6
     },
@@ -204,7 +209,7 @@
       "ID": "CgkInO_K3eIdEAIQEA",
       "SetID": "6bj96in",
       "Name": "EAGLE EYED",
-      "Percentage": 92,
+      "Percentage": 86,
       "XP": 40,
       "UsersEstimate": 12
     },
@@ -212,7 +217,7 @@
       "ID": "CgkInO_K3eIdEAIQEQ",
       "SetID": "6bj96in",
       "Name": "ACTIVE READER",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -220,7 +225,7 @@
       "ID": "CgkInO_K3eIdEAIQEg",
       "SetID": "6bj96in",
       "Name": "HOARDER",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -228,7 +233,7 @@
       "ID": "CgkInO_K3eIdEAIQEw",
       "SetID": "6bj96in",
       "Name": "ATTENTIVE SCRIBE",
-      "Percentage": 31,
+      "Percentage": 29,
       "XP": 40,
       "UsersEstimate": 4
     },
@@ -236,7 +241,7 @@
       "ID": "CgkInO_K3eIdEAIQFA",
       "SetID": "6bj96in",
       "Name": "WALKER",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -244,7 +249,7 @@
       "ID": "CgkInO_K3eIdEAIQFQ",
       "SetID": "6bj96in",
       "Name": "RUNNER",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -252,7 +257,7 @@
       "ID": "CgkInO_K3eIdEAIQFg",
       "SetID": "6bj96in",
       "Name": "SPRINTER",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -260,7 +265,7 @@
       "ID": "CgkInO_K3eIdEAIQFw",
       "SetID": "6bj96in",
       "Name": "INTUITIVE ENGINEER",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -268,7 +273,7 @@
       "ID": "CgkInO_K3eIdEAIQGA",
       "SetID": "6bj96in",
       "Name": "BLIND FAITH",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -276,7 +281,7 @@
       "ID": "CgkInO_K3eIdEAIQGQ",
       "SetID": "6bj96in",
       "Name": "BLINDED BY THE LIGHT",
-      "Percentage": 38,
+      "Percentage": 36,
       "XP": 40,
       "UsersEstimate": 5
     },
@@ -284,7 +289,7 @@
       "ID": "CgkInO_K3eIdEAIQGg",
       "SetID": "6bj96in",
       "Name": "GENIUS LOCI",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 40,
       "UsersEstimate": 1
     }
@@ -293,14 +298,14 @@
     {
       "ID": "6bj96in",
       "IsBase": true,
-      "Progressed": 13,
+      "Progressed": 14,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-07-20T18:03:56.3743914+00:00",
+  "LastChanged_Achievements": "2023-07-20T19:03:51.5738974+00:00",
   "LastUpdate_AppInfo": "2023-07-19T13:07:08.2891153+00:00",
-  "LastUpdate_Ratings": "2023-07-20T17:57:16.9050588+00:00",
-  "LastUpdate_Achievements": "2023-07-20T18:03:56.3744279+00:00"
+  "LastUpdate_Ratings": "2023-07-20T18:57:16.2912671+00:00",
+  "LastUpdate_Achievements": "2023-07-20T19:03:51.5739102+00:00"
 }
