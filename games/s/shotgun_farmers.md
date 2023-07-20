@@ -25,9 +25,9 @@
 | Quick-Draw Pod | 16.00% | ~27 |
 | Carrocketeer | 13.00% | ~28 |
 | Skin Of Your Teeth | 12.00% | ~26 |
+| Oh My Gourd | 12.00% | ~20 |
 | This Is My Boomstick | 12.00% | ~20 |
 | Getting Started | 11.00% | ~24 |
-| Oh My Gourd | 11.00% | ~18 |
 | Summers Here | 11.00% | ~18 |
 | Fresh Pancake | 10.00% | ~22 |
 | Quit Horsin' Around | 10.00% | ~22 |

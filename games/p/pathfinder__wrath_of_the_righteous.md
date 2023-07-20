@@ -6,24 +6,24 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 20.00% | ~2,082 |
+| Devoured by Darkness | 20.00% | ~2,083 |
 | A Spark | 15.00% | ~1,562 |
 | Burning City | 14.00% | ~1,458 |
-| Mythic Choices | 12.00% | ~1,249 |
-| Defender's Heart | 12.00% | ~1,249 |
+| Mythic Choices | 12.00% | ~1,250 |
+| Defender's Heart | 12.00% | ~1,250 |
 | Banner over the Citadel | 11.00% | ~1,145 |
 | Queen's Gratitude | 10.00% | ~1,041 |
 | Fifth Crusade | 6.00% | ~625 |
 | Embrace of the Abyss | 5.00% | ~521 |
 | Path of the Angel | 5.00% | ~521 |
 | Demonic and Divine | 5.00% | ~521 |
-| Path of the Azata | 4.00% | ~416 |
-| Transformation | 4.00% | ~416 |
-| The Legacy | 4.00% | ~416 |
-| Great Upstart | 4.00% | ~416 |
-| Voice from Your Dreams | 4.00% | ~416 |
-| All Paths Open | 4.00% | ~416 |
-| Next-Door Play | 4.00% | ~416 |
+| Path of the Azata | 4.00% | ~417 |
+| Transformation | 4.00% | ~417 |
+| The Legacy | 4.00% | ~417 |
+| Great Upstart | 4.00% | ~417 |
+| Voice from Your Dreams | 4.00% | ~417 |
+| All Paths Open | 4.00% | ~417 |
+| Next-Door Play | 4.00% | ~417 |
 | Heart of the Fallen Land | 3.00% | ~312 |
 | Divide and Rule | 3.00% | ~312 |
 | Mythic Reinforcements | 3.00% | ~312 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,411 (Ranked 117)  
+Progressed: 10,413 (Ranked 117)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-17 | 10,375 | 0 |
 | 2023-07-18 | 10,390 | 0 |
 | 2023-07-19 | 10,406 | 0 |
-| 2023-07-20 | 10,411 | 0 |
+| 2023-07-20 | 10,413 | 0 |
 ## Awards
 Max (Character Customization): 1,684  (Ranked 117)  
 Sum: 6,824 (Ranked 113)  

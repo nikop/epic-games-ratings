@@ -12,7 +12,7 @@ Rating: 4.39 (Ranked 703)
 | I am the law! | 64.00% | ~788 |
 | Lumberjack | 53.00% | ~653 |
 | Croaked | 48.00% | ~591 |
-| Limp Richard | 47.00% | ~579 |
+| Limp Richard | 48.00% | ~591 |
 | Exorcist | 47.00% | ~579 |
 | From Darkness to Light | 47.00% | ~579 |
 | Editor Adept | 46.00% | ~567 |
@@ -39,7 +39,7 @@ Rating: 4.39 (Ranked 703)
 | Chaos Theory | 15.00% | ~185 |
 | Dr Jones | 15.00% | ~185 |
 | Ruthless | 14.00% | ~172 |
-| Silent but Violent | 13.00% | ~160 |
+| Silent but Violent | 14.00% | ~172 |
 | Side Order | 10.00% | ~123 |
 | Chain Reaction | 9.00% | ~111 |
 | Bot Whisperer | 8.00% | ~99 |

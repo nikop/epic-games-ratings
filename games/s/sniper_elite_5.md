@@ -25,6 +25,7 @@ Rating: 4.40 (Ranked 692)
 | Explosive Efficiency | 2.00% | ~66 |
 | Der Geist | 2.00% | ~66 |
 | As Quiet as a Mouse | 2.00% | ~66 |
+| Close Quarters | 2.00% | ~66 |
 | Brains of the Operation | 2.00% | ~66 |
 | Opposing Force | 1.00% | ~33 |
 | Enemy at the Gates | 1.00% | ~33 |
@@ -35,7 +36,6 @@ Rating: 4.40 (Ranked 692)
 | Rigged to Blow | 1.00% | ~33 |
 | My Little Friend | 1.00% | ~33 |
 | Die Nussknacker Sweet! | 1.00% | ~33 |
-| Close Quarters | 1.00% | ~33 |
 | Snake in the Grass | 1.00% | ~33 |
 | The Long Game | 0.80% | ~26 |
 | Tinkerer | 0.80% | ~26 |

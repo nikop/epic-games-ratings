@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | I'm trying to FOCUS HERE! | 0.00% | ~0 |
 | OK, I THINK I know what I'm doing now | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,461 (Ranked 146)  
+Progressed: 3,462 (Ranked 146)  
 Completed: 6 (0.17%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 6 (0.17%) (Ranked 171)
 | 2023-07-16 | 3,458 | 6 |
 | 2023-07-17 | 3,459 | 6 |
 | 2023-07-19 | 3,460 | 6 |
-| 2023-07-20 | 3,461 | 6 |
+| 2023-07-20 | 3,462 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

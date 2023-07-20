@@ -182,9 +182,9 @@
       "ID": "MluviciPapouch",
       "SetID": "ag48e8e",
       "Name": "Mimicking Parrot",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Myska",
@@ -262,17 +262,17 @@
       "ID": "Sputnik2",
       "SetID": "ag48e8e",
       "Name": "Sputnik",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Stonozka",
       "SetID": "ag48e8e",
       "Name": "Centipede",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Strom",
@@ -286,9 +286,9 @@
       "ID": "Termit",
       "SetID": "ag48e8e",
       "Name": "Saint Termite",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Truhlice",
@@ -318,9 +318,9 @@
       "ID": "ZpivajiciHouba",
       "SetID": "ag48e8e",
       "Name": "Dancing Fungus",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
@@ -333,8 +333,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-07-20T08:02:46.5683983+00:00",
+  "LastChanged_Achievements": "2023-07-20T09:02:15.7831079+00:00",
   "LastUpdate_AppInfo": "2023-07-14T13:57:07.7032953+00:00",
-  "LastUpdate_Ratings": "2023-07-20T07:57:22.7669503+00:00",
-  "LastUpdate_Achievements": "2023-07-20T08:02:46.5684231+00:00"
+  "LastUpdate_Ratings": "2023-07-20T08:57:11.7185401+00:00",
+  "LastUpdate_Achievements": "2023-07-20T09:02:15.7831462+00:00"
 }

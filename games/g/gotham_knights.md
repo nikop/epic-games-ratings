@@ -50,11 +50,11 @@ Rating: 4.18 (Ranked 856)
 | Renewable Enemy Source | 0.30% | ~112 |
 | Crime Is a Terrible Thing to Waste | 0.30% | ~112 |
 | Practice Makes Perfect | 0.30% | ~202 |
+| The Man-Bat Family | 0.30% | ~202 |
 | Element of Surprise | 0.20% | ~75 |
 | It's Nice to Be Wanted | 0.20% | ~75 |
 | The Cold, the Bad and the Ugly | 0.20% | ~75 |
 | Talonted | 0.20% | ~134 |
-| The Man-Bat Family | 0.20% | ~134 |
 | Icebreaker | 0.20% | ~75 |
 | Batarang Collector | 0.20% | ~134 |
 | Claiming the Mural High Ground | 0.20% | ~134 |

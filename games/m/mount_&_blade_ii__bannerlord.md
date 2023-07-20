@@ -6,7 +6,7 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 37.00% | ~20,772 |
+| Lawbringer | 37.00% | ~20,773 |
 | Landlord | 31.00% | ~17,404 |
 | Bannerlord | 22.00% | ~12,351 |
 | Horde breaker | 22.00% | ~12,351 |
@@ -26,7 +26,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | What have the Romans ever done for us? | 9.00% | ~5,053 |
 | Butterlord | 8.00% | ~4,491 |
 | Mastery | 7.00% | ~3,930 |
-| Know your enemy | 6.00% | ~3,368 |
+| Know your enemy | 6.00% | ~3,369 |
 | Crowdfunded | 4.00% | ~2,246 |
 | Crush your enemies | 4.00% | ~2,246 |
 | My way | 4.00% | ~2,246 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,141 (Ranked 83)  
+Progressed: 56,142 (Ranked 83)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-17 | 55,989 | 0 |
 | 2023-07-18 | 56,063 | 0 |
 | 2023-07-19 | 56,130 | 0 |
-| 2023-07-20 | 56,141 | 0 |
+| 2023-07-20 | 56,142 | 0 |
 ## Awards
 Max (Character Customization): 6,820  (Ranked 48)  
 Sum: 13,806 (Ranked 67)  

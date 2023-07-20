@@ -5,14 +5,15 @@
 | ---- | ---------- | ----- |
 | Break Out | 45.00% | ~9 |
 | Calm before the Storm | 30.00% | ~6 |
+| Trinity | 25.00% | ~5 |
 | Flawless Victory | 25.00% | ~5 |
+| I Found It | 25.00% | ~5 |
 | Powerful Allies | 20.00% | ~4 |
 | To Battle | 20.00% | ~4 |
 | Godslayer | 20.00% | ~4 |
 | Clear Sight | 20.00% | ~4 |
 | A Taste of Wrath | 20.00% | ~4 |
 | The Mentor | 20.00% | ~4 |
-| Trinity | 20.00% | ~4 |
 | Adventurer | 20.00% | ~4 |
 | Tributes of Caladrias | 20.00% | ~4 |
 | Essence Blow | 20.00% | ~4 |
@@ -20,7 +21,6 @@
 | Geared Up | 20.00% | ~4 |
 | Fashion Victim | 20.00% | ~4 |
 | False God | 20.00% | ~4 |
-| I Found It | 20.00% | ~4 |
 | Miner | 20.00% | ~4 |
 | Find Allies | 15.00% | ~3 |
 | Shardbearer | 15.00% | ~3 |

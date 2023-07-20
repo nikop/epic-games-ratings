@@ -2116,7 +2116,7 @@
   ],
   "EOS_Progressed": 67215,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 267,
+  "EOS_NewPlayers": 266,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10520,9 +10520,9 @@
       "ID": "DEFEAT_LOS_2",
       "SetID": "4eo5ebm",
       "Name": "The Man-Bat Family",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 202
     },
     {
       "ID": "DEFEAT_OC_1",
@@ -10831,8 +10831,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-07-19T18:00:18.41365+00:00",
-  "LastChanged_Achievements": "2023-07-20T08:05:12.1978532+00:00",
+  "LastChanged_Achievements": "2023-07-20T09:04:35.4259457+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:49.4668745+00:00",
-  "LastUpdate_Ratings": "2023-07-20T08:01:19.1855035+00:00",
-  "LastUpdate_Achievements": "2023-07-20T08:05:12.1979642+00:00"
+  "LastUpdate_Ratings": "2023-07-20T09:00:30.1261925+00:00",
+  "LastUpdate_Achievements": "2023-07-20T09:04:35.4261408+00:00"
 }

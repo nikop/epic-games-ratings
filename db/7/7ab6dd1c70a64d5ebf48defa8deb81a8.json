@@ -4,7 +4,7 @@
   "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 38,
   "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -170,9 +170,9 @@
       "ID": "ACH_10",
       "SetID": "efe2lj",
       "Name": "Trinity",
-      "Percentage": 20,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_11",
@@ -314,9 +314,9 @@
       "ID": "ACH_28",
       "SetID": "efe2lj",
       "Name": "I Found It",
-      "Percentage": 20,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_29",
@@ -392,7 +392,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-07-20T08:03:39.6744216+00:00",
-  "LastUpdate_Ratings": "2023-07-20T07:57:33.9438439+00:00",
-  "LastUpdate_Achievements": "2023-07-20T08:03:39.6744583+00:00"
+  "LastChanged_Achievements": "2023-07-20T09:03:32.2372037+00:00",
+  "LastUpdate_Ratings": "2023-07-20T08:57:19.9702225+00:00",
+  "LastUpdate_Achievements": "2023-07-20T09:03:32.2372498+00:00"
 }

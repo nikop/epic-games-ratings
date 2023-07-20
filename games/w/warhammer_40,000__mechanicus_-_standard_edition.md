@@ -5,18 +5,18 @@ Rating: 4.43 (Ranked 655)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 25.00% | ~54,422 |
+| No aid from the Omnissiah | 25.00% | ~54,423 |
 | This is only the beginning | 19.00% | ~41,361 |
-| Knowledge is power | 12.00% | ~26,122 |
+| Knowledge is power | 12.00% | ~26,123 |
 | Power Ranger | 9.00% | ~19,592 |
 | Galvanic Rifle | 9.00% | ~19,592 |
 | Taser Goad | 9.00% | ~19,592 |
 | Radium Ready | 9.00% | ~19,592 |
 | Half a cog | 9.00% | ~19,592 |
 | Watch them crumble | 6.00% | ~13,061 |
-| Competent Cohort | 4.00% | ~8,707 |
-| Celestial Cartography Catastrophe | 4.00% | ~8,707 |
-| One with the Machine | 4.00% | ~8,707 |
+| Competent Cohort | 4.00% | ~8,708 |
+| Celestial Cartography Catastrophe | 4.00% | ~8,708 |
+| One with the Machine | 4.00% | ~8,708 |
 | Legio Cybernetica | 3.00% | ~6,531 |
 | Fleshy Disposal | 3.00% | ~6,531 |
 | Battle Servitor | 2.00% | ~4,354 |
@@ -24,7 +24,7 @@ Rating: 4.43 (Ranked 655)
 | Impatient destruction | 2.00% | ~4,354 |
 | Vivisected Vizier | 2.00% | ~4,354 |
 | Architect Abortion | 2.00% | ~4,354 |
-| Cohortus Maximus | 0.80% | ~1,741 |
+| Cohortus Maximus | 0.80% | ~1,742 |
 | Mother of Xenarites | 0.40% | ~871 |
 | False God | 0.30% | ~653 |
 | Hard | 0.20% | ~435 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 655)
 | Perma-live | 0.10% | ~218 |
 | Purge the Heretek | 0.10% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,687 (Ranked 52)  
+Progressed: 217,691 (Ranked 52)  
 Completed: 4 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 4 (0.00%) (Ranked 238)
 | 2023-07-17 | 217,485 | 4 |
 | 2023-07-18 | 217,579 | 4 |
 | 2023-07-19 | 217,673 | 4 |
-| 2023-07-20 | 217,687 | 4 |
+| 2023-07-20 | 217,691 | 4 |
 ## Awards
 Max (Highly Recommended): 280  (Ranked 237)  
 Sum: 2,121 (Ranked 191)  
