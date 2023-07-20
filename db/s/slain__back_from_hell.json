@@ -187,9 +187,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 30748,
+  "EOS_Progressed": 30755,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 893,
+  "EOS_NewPlayers": 896,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -10027,6 +10027,11 @@
       "Time": "2023-07-20T20:04:46.929521+00:00",
       "NumProgressed": 30748,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-07-20T21:06:47.0381784+00:00",
+      "NumProgressed": 30755,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -10038,7 +10043,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4920
+      "UsersEstimate": 4921
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -10046,7 +10051,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6150
+      "UsersEstimate": 6151
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -10054,7 +10059,7 @@
       "Name": "Start As You Mean To Go On",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "ACH_05_DEFEATED_THORN_BEAST",
@@ -10094,7 +10099,7 @@
       "Name": "Flame Retardant",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_10_DEFEATED_BANSHEE_QUEEN",
@@ -10102,7 +10107,7 @@
       "Name": "Enjoy The Silence",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "ACH_11_WOLF_GUARD_CRUSHED",
@@ -10110,7 +10115,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1537
+      "UsersEstimate": 1538
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -10190,7 +10195,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1537
+      "UsersEstimate": 1538
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -10262,14 +10267,14 @@
       "Name": "Death or Glory",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     }
   ],
   "AchievementSets": [
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 30748,
+      "Progressed": 30755,
       "Completed": 20
     }
   ],
@@ -10277,8 +10282,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-07-11T15:00:39.3575549+00:00",
-  "LastChanged_Achievements": "2023-07-20T20:04:46.9295206+00:00",
+  "LastChanged_Achievements": "2023-07-20T21:06:47.0381779+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:02.6964927+00:00",
-  "LastUpdate_Ratings": "2023-07-20T20:01:22.0230713+00:00",
-  "LastUpdate_Achievements": "2023-07-20T20:04:46.9296495+00:00"
+  "LastUpdate_Ratings": "2023-07-20T21:03:21.3146494+00:00",
+  "LastUpdate_Achievements": "2023-07-20T21:06:47.0382986+00:00"
 }

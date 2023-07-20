@@ -4,7 +4,7 @@
   "ProductSlug": "scribble-it-c61a6f",
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewPlayers": 61,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7698,
+  "EOS_Progressed": 7702,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 788,
+  "EOS_NewPlayers": 775,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3726,6 +3726,11 @@
       "Time": "2023-07-20T20:02:06.857798+00:00",
       "NumProgressed": 7698,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-20T21:04:06.3176458+00:00",
+      "NumProgressed": 7702,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -3777,7 +3782,7 @@
       "Name": "Dal\u00ED",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_WITHIN_20_SECONDS_4_PLAYERS",
@@ -3809,7 +3814,7 @@
       "Name": "You tried your best!",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3310
+      "UsersEstimate": 3312
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -3936,14 +3941,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 7698,
+      "Progressed": 7702,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-07-20T20:02:06.8577606+00:00",
+  "LastChanged_Achievements": "2023-07-20T21:04:06.3176228+00:00",
   "LastUpdate_AppInfo": "2023-07-14T18:57:14.8780974+00:00",
-  "LastUpdate_Ratings": "2023-07-20T19:57:13.5709949+00:00",
-  "LastUpdate_Achievements": "2023-07-20T20:02:06.8608587+00:00"
+  "LastUpdate_Ratings": "2023-07-20T20:59:01.91876+00:00",
+  "LastUpdate_Achievements": "2023-07-20T21:04:06.3201886+00:00"
 }

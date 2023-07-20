@@ -22,8 +22,8 @@
 | Lightbulb Detective | 23.00% | ~17 |
 | Unlimited Power!! | 22.00% | ~16 |
 | The Quiche and the Hair Dryer | 22.00% | ~16 |
-| Cartographer | 21.00% | ~15 |
-| South Square Lightbulbs | 18.00% | ~13 |
+| Cartographer | 22.00% | ~16 |
+| South Square Lightbulbs | 19.00% | ~14 |
 | The Ghost and the Lamps | 15.00% | ~11 |
 | The Woman and the Pizzeria | 15.00% | ~11 |
 | West Residence Lightbulbs | 14.00% | ~10 |

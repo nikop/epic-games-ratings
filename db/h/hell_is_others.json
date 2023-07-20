@@ -694,9 +694,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 253304,
+  "EOS_Progressed": 253306,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 376,
+  "EOS_NewPlayers": 375,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9944,6 +9944,11 @@
       "Time": "2023-07-20T20:06:56.7402027+00:00",
       "NumProgressed": 253304,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-20T21:08:56.1949317+00:00",
+      "NumProgressed": 253306,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 56,
@@ -10003,7 +10008,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78524
+      "UsersEstimate": 78525
     },
     {
       "ID": "BackHomeNTimes",
@@ -10059,7 +10064,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25330
+      "UsersEstimate": 25331
     },
     {
       "ID": "CreditLevel2",
@@ -10347,7 +10352,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25330
+      "UsersEstimate": 25331
     },
     {
       "ID": "ReachNDays2",
@@ -10402,7 +10407,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 253304,
+      "Progressed": 253306,
       "Completed": 2
     }
   ],
@@ -10410,8 +10415,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-07-19T11:02:01.5133863+00:00",
-  "LastChanged_Achievements": "2023-07-20T20:06:56.7402022+00:00",
+  "LastChanged_Achievements": "2023-07-20T21:08:56.194931+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:21.1992978+00:00",
-  "LastUpdate_Ratings": "2023-07-20T20:01:45.5801455+00:00",
-  "LastUpdate_Achievements": "2023-07-20T20:06:56.7403275+00:00"
+  "LastUpdate_Ratings": "2023-07-20T21:03:43.6191472+00:00",
+  "LastUpdate_Achievements": "2023-07-20T21:08:56.195062+00:00"
 }

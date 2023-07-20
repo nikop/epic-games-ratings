@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -74,7 +74,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 451,
+  "EOS_Progressed": 452,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -379,6 +379,11 @@
       "Time": "2023-07-05T20:07:22.094995+00:00",
       "NumProgressed": 451,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-20T21:06:25.1123101+00:00",
+      "NumProgressed": 452,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -390,7 +395,7 @@
       "Name": "Grand Opening",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -438,7 +443,7 @@
       "Name": "Circus Electrique Proudly Presents...",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -468,9 +473,9 @@
       "ID": "ACHIEVEMENT_11",
       "SetID": "631ndc2",
       "Name": "Lucky Day",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 59
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -710,7 +715,7 @@
       "Name": "Self Defense",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -789,7 +794,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 451,
+      "Progressed": 452,
       "Completed": 1
     }
   ],
@@ -797,8 +802,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-07-20T20:04:25.5058016+00:00",
+  "LastChanged_Achievements": "2023-07-20T21:06:25.1123094+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:56.3073635+00:00",
-  "LastUpdate_Ratings": "2023-07-20T20:00:00.8026053+00:00",
-  "LastUpdate_Achievements": "2023-07-20T20:04:25.5058535+00:00"
+  "LastUpdate_Ratings": "2023-07-20T21:01:55.82603+00:00",
+  "LastUpdate_Achievements": "2023-07-20T21:06:25.1123571+00:00"
 }

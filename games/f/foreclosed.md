@@ -23,7 +23,7 @@
 | Cyborg | 12.00% | ~10 |
 | Brain-hacker | 10.00% | ~8 |
 | Lifter | 9.00% | ~7 |
-| Gravity Bender | 7.00% | ~6 |
+| Gravity Bender | 9.00% | ~7 |
 | Hunter | 4.00% | ~3 |
 | Zero Gravity | 4.00% | ~3 |
 | No Place to Hide | 2.00% | ~2 |

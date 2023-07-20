@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The 4 Pillars | 13.00% | ~2 |
-| First Step | 13.00% | ~2 |
+| The 4 Pillars | 20.00% | ~3 |
+| First Step | 20.00% | ~3 |
 | Jantine: the Misfortunes of Evil | 0.00% | ~0 |
 | Tear Down the Wall! | 0.00% | ~0 |
 | Economist | 0.00% | ~0 |

@@ -796,9 +796,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2531,
+  "EOS_Progressed": 2532,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3166,6 +3166,11 @@
       "Time": "2023-07-20T20:03:22.6510666+00:00",
       "NumProgressed": 2531,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-20T21:05:22.3405469+00:00",
+      "NumProgressed": 2532,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3305,7 +3310,7 @@
       "Name": "Good vibes",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ACH_HOARDER",
@@ -3321,7 +3326,7 @@
       "Name": "Keep the dream alive",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ACH_KEEPING-IT-CLASSY",
@@ -3529,7 +3534,7 @@
       "Name": "Upfront shredder",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ACH_WE-GET-IT-YOURE-GOOD",
@@ -3560,15 +3565,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2531,
+      "Progressed": 2532,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-07-18T02:30:00.4800428+00:00",
-  "LastChanged_Achievements": "2023-07-20T20:03:22.651066+00:00",
+  "LastChanged_Achievements": "2023-07-20T21:05:22.3405462+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:04.9340896+00:00",
-  "LastUpdate_Ratings": "2023-07-20T20:00:14.9604262+00:00",
-  "LastUpdate_Achievements": "2023-07-20T20:03:22.6511694+00:00"
+  "LastUpdate_Ratings": "2023-07-20T21:02:10.7735033+00:00",
+  "LastUpdate_Achievements": "2023-07-20T21:05:22.3406021+00:00"
 }

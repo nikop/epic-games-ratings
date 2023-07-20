@@ -16,10 +16,10 @@ Rating: 4.56 (Ranked 458)
 | Metal Age | 0.60% | ~117 |
 | Hang time | 0.50% | ~98 |
 | Mastermind | 0.50% | ~98 |
-| Something Wicked | 0.30% | ~58 |
+| Something Wicked | 0.30% | ~59 |
 | The Key | 0.20% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,500 (Ranked 103)  
+Progressed: 19,501 (Ranked 103)  
 Completed: 18 (0.09%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 18 (0.09%) (Ranked 191)
 | 2023-07-17 | 19,488 | 18 |
 | 2023-07-18 | 19,490 | 18 |
 | 2023-07-19 | 19,492 | 18 |
-| 2023-07-20 | 19,500 | 18 |
+| 2023-07-20 | 19,501 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

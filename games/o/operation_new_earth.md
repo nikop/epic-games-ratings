@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Good to have Allies | 40.00% | ~213 |
-| Defenses Online | 38.00% | ~202 |
-| Facility Online | 33.00% | ~176 |
-| Corporal | 24.00% | ~128 |
-| Covert Operative | 19.00% | ~101 |
-| Sergeant | 17.00% | ~90 |
-| Lieutenant | 14.00% | ~74 |
-| Stocking Up | 14.00% | ~74 |
-| On Target | 14.00% | ~74 |
-| Getting Deployment | 13.00% | ~69 |
+| It's Good to have Allies | 40.00% | ~214 |
+| Defenses Online | 38.00% | ~204 |
+| Facility Online | 32.00% | ~172 |
+| Corporal | 24.00% | ~129 |
+| Covert Operative | 18.00% | ~96 |
+| Sergeant | 17.00% | ~91 |
+| Lieutenant | 14.00% | ~75 |
+| Stocking Up | 14.00% | ~75 |
+| On Target | 14.00% | ~75 |
+| Getting Deployment | 13.00% | ~70 |
 | Keeping Busy | 12.00% | ~64 |
 | Infantry Reporting | 11.00% | ~59 |
-| Fighting for Survival | 10.00% | ~53 |
+| Fighting for Survival | 10.00% | ~54 |
 | Silver Competitor | 9.00% | ~48 |
 | Captain | 8.00% | ~43 |
 | Factory Expansion | 8.00% | ~43 |
-| Exterminator | 7.00% | ~37 |
+| Exterminator | 7.00% | ~38 |
 | Brothers in Arms | 6.00% | ~32 |
 | Know The Enemy | 4.00% | ~21 |
 | Player Betrayer | 4.00% | ~21 |
@@ -30,20 +30,20 @@
 | Advanced Warfare | 3.00% | ~16 |
 | Major | 3.00% | ~16 |
 | Colonel | 2.00% | ~11 |
-| General | 2.00% | ~11 |
-| Seek & Destroy | 2.00% | ~11 |
 | Resourceful | 2.00% | ~11 |
 | Battle Ready | 2.00% | ~11 |
-| Titan Tanks | 2.00% | ~11 |
 | Control the Skies | 2.00% | ~11 |
+| General | 1.00% | ~5 |
+| Seek & Destroy | 1.00% | ~5 |
+| Titan Tanks | 1.00% | ~5 |
 | Shock Troops | 1.00% | ~5 |
 | Jet Troops | 0.90% | ~5 |
-| Advanced Interceptors | 0.80% | ~4 |
+| Advanced Interceptors | 0.70% | ~4 |
 | Gold Competitor | 0.00% | ~0 |
 | Platinum Achiever | 0.00% | ~0 |
 | Platinum Competitor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 532 (Ranked 211)  
+Progressed: 536 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,4 +85,4 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-17 | 477 | 0 |
 | 2023-07-18 | 495 | 0 |
 | 2023-07-19 | 513 | 0 |
-| 2023-07-20 | 532 | 0 |
+| 2023-07-20 | 536 | 0 |

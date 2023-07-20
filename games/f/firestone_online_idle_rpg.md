@@ -10,7 +10,7 @@ Rating: 4.10 (Ranked 888)
 | Temple of Eternals | 56.00% | ~942 |
 | Prestigious | 53.00% | ~891 |
 | Fellowship Power | 41.00% | ~690 |
-| Guild Power | 24.00% | ~404 |
+| Guild Power | 25.00% | ~420 |
 | Prestigious x10 | 21.00% | ~353 |
 | The game is on | 20.00% | ~336 |
 | Exotic Merchant | 17.00% | ~286 |
@@ -22,10 +22,10 @@ Rating: 4.10 (Ranked 888)
 | Enlightenment | 14.00% | ~235 |
 | Hero inspection | 14.00% | ~235 |
 | Lieutenant | 14.00% | ~235 |
+| Natural Talent | 13.00% | ~219 |
 | The Unstoppable | 13.00% | ~219 |
 | Milestone collector | 12.00% | ~202 |
 | Mysterious Rock | 12.00% | ~202 |
-| Natural Talent | 12.00% | ~202 |
 | Superior | 12.00% | ~202 |
 | Scientist | 11.00% | ~185 |
 | Challenger | 10.00% | ~168 |
@@ -62,9 +62,9 @@ Rating: 4.10 (Ranked 888)
 | Legendary | 3.00% | ~50 |
 | The Alchemist | 3.00% | ~50 |
 | What lies behind the bush | 3.00% | ~50 |
+| Gear Enchanting | 1.00% | ~17 |
 | Guardian Master | 1.00% | ~17 |
 | Mythic Power | 1.00% | ~17 |
-| Gear Enchanting | 0.90% | ~15 |
 | Training makes a Pro player | 0.80% | ~13 |
 | Cauldron Liberator | 0.70% | ~12 |
 | Transmute | 0.70% | ~12 |

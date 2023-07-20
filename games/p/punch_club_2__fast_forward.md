@@ -4,22 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Such a strange dream… | 108.00% | ~14 |
-| Your first fight | 100.00% | ~13 |
-| Good Person Chip | 85.00% | ~11 |
-| Your first job | 69.00% | ~9 |
-| First winning | 62.00% | ~8 |
-| First defeat | 54.00% | ~7 |
-| Old movies enjoyer | 54.00% | ~7 |
-| Neurotrainer – power gainer! | 54.00% | ~7 |
-| Fitness professional | 46.00% | ~6 |
-| Depressed visitor | 46.00% | ~6 |
-| Intriguing candies | 38.00% | ~5 |
-| Your own amateur gym | 23.00% | ~3 |
-| Run K, run! | 23.00% | ~3 |
-| Hello, world! | 23.00% | ~3 |
-| Employee of the week | 23.00% | ~3 |
-| No bullying more | 8.00% | ~1 |
+| Such a strange dream… | 107.00% | ~15 |
+| Your first fight | 100.00% | ~14 |
+| Good Person Chip | 79.00% | ~11 |
+| Your first job | 71.00% | ~10 |
+| Fitness professional | 64.00% | ~9 |
+| First defeat | 64.00% | ~9 |
+| First winning | 64.00% | ~9 |
+| Neurotrainer – power gainer! | 64.00% | ~9 |
+| Old movies enjoyer | 57.00% | ~8 |
+| Depressed visitor | 57.00% | ~8 |
+| Intriguing candies | 50.00% | ~7 |
+| Employee of the week | 50.00% | ~7 |
+| Your own amateur gym | 36.00% | ~5 |
+| Run K, run! | 36.00% | ~5 |
+| Hello, world! | 36.00% | ~5 |
+| No bullying more | 21.00% | ~3 |
+| Fighting is cool | 14.00% | ~2 |
+| Little hacker | 7.00% | ~1 |
+| Employee of the month | 7.00% | ~1 |
 | Mom got better | 0.00% | ~0 |
 | Deal with life | 0.00% | ~0 |
 | Now you are worthy | 0.00% | ~0 |
@@ -31,7 +34,6 @@
 | GYM professional | 0.00% | ~0 |
 | The lonesome road | 0.00% | ~0 |
 | Legal courier | 0.00% | ~0 |
-| Fighting is cool | 0.00% | ~0 |
 | Fight for life | 0.00% | ~0 |
 | Fight is life | 0.00% | ~0 |
 | Keep nature safe | 0.00% | ~0 |
@@ -40,7 +42,6 @@
 | Silver’s past | 0.00% | ~0 |
 | Better cooking at home | 0.00% | ~0 |
 | Not little hacker | 0.00% | ~0 |
-| Little hacker | 0.00% | ~0 |
 | Handyman | 0.00% | ~0 |
 | Law student | 0.00% | ~0 |
 | Champion – starter pack | 0.00% | ~0 |
@@ -68,13 +69,12 @@
 | Responsible approach | 0.00% | ~0 |
 | Undercover robot | 0.00% | ~0 |
 | Your own way | 0.00% | ~0 |
-| Employee of the month | 0.00% | ~0 |
 | Employee of the year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13 (Ranked 396)  
+Progressed: 14 (Ranked 393)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-07-17 | 3 | 0 |
-| 2023-07-20 | 13 | 0 |
+| 2023-07-20 | 14 | 0 |

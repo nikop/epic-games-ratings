@@ -38,8 +38,8 @@ Rating: 4.40 (Ranked 691)
 | Die Nussknacker Sweet! | 1.00% | ~33 |
 | Snake in the Grass | 1.00% | ~33 |
 | The Long Game | 0.90% | ~30 |
-| Tinkerer | 0.80% | ~26 |
-| Don't hold your breath | 0.80% | ~26 |
+| Tinkerer | 0.80% | ~27 |
+| Don't hold your breath | 0.80% | ~27 |
 | Herr Today, Gone Tomorrow | 0.70% | ~23 |
 | Shipbreaker | 0.70% | ~23 |
 | It'll Buff Right Out | 0.60% | ~20 |
@@ -77,7 +77,7 @@ Rating: 4.40 (Ranked 691)
 | Alpha | 0.10% | ~3 |
 | Das Familienjuwel | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,312 (Ranked 147)  
+Progressed: 3,313 (Ranked 147)  
 Completed: 9 (0.27%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 9 (0.27%) (Ranked 155)
 | 2023-07-17 | 3,294 | 9 |
 | 2023-07-18 | 3,301 | 9 |
 | 2023-07-19 | 3,307 | 9 |
-| 2023-07-20 | 3,312 | 9 |
+| 2023-07-20 | 3,313 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

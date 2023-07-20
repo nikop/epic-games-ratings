@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -3170,9 +3170,9 @@
       "ID": "ACH_MISSION_09",
       "SetID": "816efe",
       "Name": "The Passenger",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 626
+      "UsersEstimate": 655
     },
     {
       "ID": "ACH_MISSION_10",
@@ -3283,8 +3283,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-20T02:02:12.6421273+00:00",
-  "LastChanged_Achievements": "2023-07-20T20:02:31.1578663+00:00",
+  "LastChanged_Achievements": "2023-07-20T21:04:31.0801918+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:18.2957495+00:00",
-  "LastUpdate_Ratings": "2023-07-20T20:00:30.9050697+00:00",
-  "LastUpdate_Achievements": "2023-07-20T20:02:31.1579185+00:00"
+  "LastUpdate_Ratings": "2023-07-20T21:02:27.4132977+00:00",
+  "LastUpdate_Achievements": "2023-07-20T21:04:31.0803052+00:00"
 }

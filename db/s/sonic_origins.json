@@ -1299,9 +1299,9 @@
       "ID": "ID_08_SONICCD_WIN_METAL_SONIC",
       "SetID": "7o8nc5m",
       "Name": "Shut Down Metal Sonic",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 155
     },
     {
       "ID": "ID_09_SONIC2_DEFEAT_STINGER",
@@ -1531,8 +1531,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-07-11T16:58:27.9146656+00:00",
-  "LastChanged_Achievements": "2023-07-20T20:03:13.5634308+00:00",
+  "LastChanged_Achievements": "2023-07-20T21:05:13.1529443+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:22.3144227+00:00",
-  "LastUpdate_Ratings": "2023-07-20T19:58:32.2552997+00:00",
-  "LastUpdate_Achievements": "2023-07-20T20:03:13.5634647+00:00"
+  "LastUpdate_Ratings": "2023-07-20T21:00:22.6166618+00:00",
+  "LastUpdate_Achievements": "2023-07-20T21:05:13.1529704+00:00"
 }

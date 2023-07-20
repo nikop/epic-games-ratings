@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -4585,9 +4585,9 @@
       "ID": "gearenchanting",
       "SetID": "3nl4bcg",
       "Name": "Gear Enchanting",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "guardianmaster",
@@ -4601,9 +4601,9 @@
       "ID": "guildpower",
       "SetID": "3nl4bcg",
       "Name": "Guild Power",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 404
+      "UsersEstimate": 420
     },
     {
       "ID": "herewegoagain",
@@ -4745,9 +4745,9 @@
       "ID": "naturaltalent",
       "SetID": "3nl4bcg",
       "Name": "Natural Talent",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 219
     },
     {
       "ID": "pokerface",
@@ -4978,8 +4978,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-07-18T16:58:41.2064019+00:00",
-  "LastChanged_Achievements": "2023-07-20T20:02:28.0244827+00:00",
+  "LastChanged_Achievements": "2023-07-20T21:04:28.2071422+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:38.4078532+00:00",
-  "LastUpdate_Ratings": "2023-07-20T19:58:49.3177093+00:00",
-  "LastUpdate_Achievements": "2023-07-20T20:02:28.024578+00:00"
+  "LastUpdate_Ratings": "2023-07-20T21:00:40.7920377+00:00",
+  "LastUpdate_Achievements": "2023-07-20T21:04:28.2072689+00:00"
 }

@@ -1,41 +1,41 @@
 # Supraland
 [Store](https://store.epicgames.com/en-US/p/supraland)  
 [View Rawdata](../../db/s/supraland.json)  
-Rating: 4.61 (Ranked 364)  
+Rating: 4.61 (Ranked 365)  
 Number of Ratings: 25,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~710,421 |
-| The Blues | 85.00% | ~609,957 |
-| Fast | 66.00% | ~473,614 |
-| Healthbar | 55.00% | ~394,678 |
-| Force Cube | 53.00% | ~380,326 |
-| Double Jump | 48.00% | ~344,447 |
-| Regeneration | 47.00% | ~337,271 |
-| Climb the hill | 42.00% | ~301,391 |
-| Triple Jump | 42.00% | ~301,391 |
-| Through the fire pipe | 38.00% | ~272,687 |
-| MacGuffin | 38.00% | ~272,687 |
-| Just once | 36.00% | ~258,335 |
-| Armor | 30.00% | ~215,279 |
-| True holy spirit | 27.00% | ~193,751 |
-| That's how electronics work obviously | 26.00% | ~186,575 |
-| Force Cube Catapult | 25.00% | ~179,399 |
-| Holy Sword | 23.00% | ~165,047 |
-| Telefrag | 22.00% | ~157,871 |
-| Freed from prison | 21.00% | ~150,695 |
-| Stomp | 21.00% | ~150,695 |
-| Double Health | 18.00% | ~129,167 |
-| Buckle | 17.00% | ~121,991 |
-| Green Keycard | 17.00% | ~121,991 |
-| Rattle Hag | 15.00% | ~107,640 |
-| All Shells | 14.00% | ~100,464 |
-| Beam | 14.00% | ~100,464 |
-| Health Drink | 13.00% | ~93,288 |
-| 9 | 13.00% | ~93,288 |
-| Purple Cube | 13.00% | ~93,288 |
-| Supraball Noob | 13.00% | ~93,288 |
+| Out of bed | 99.00% | ~710,428 |
+| The Blues | 85.00% | ~609,963 |
+| Fast | 66.00% | ~473,619 |
+| Healthbar | 55.00% | ~394,682 |
+| Force Cube | 53.00% | ~380,330 |
+| Double Jump | 48.00% | ~344,450 |
+| Regeneration | 47.00% | ~337,274 |
+| Climb the hill | 42.00% | ~301,394 |
+| Triple Jump | 42.00% | ~301,394 |
+| Through the fire pipe | 38.00% | ~272,690 |
+| MacGuffin | 38.00% | ~272,690 |
+| Just once | 36.00% | ~258,337 |
+| Armor | 30.00% | ~215,281 |
+| True holy spirit | 27.00% | ~193,753 |
+| That's how electronics work obviously | 26.00% | ~186,577 |
+| Force Cube Catapult | 25.00% | ~179,401 |
+| Holy Sword | 23.00% | ~165,049 |
+| Telefrag | 22.00% | ~157,873 |
+| Freed from prison | 21.00% | ~150,697 |
+| Stomp | 21.00% | ~150,697 |
+| Double Health | 18.00% | ~129,169 |
+| Buckle | 17.00% | ~121,993 |
+| Green Keycard | 17.00% | ~121,993 |
+| Rattle Hag | 15.00% | ~107,641 |
+| All Shells | 14.00% | ~100,465 |
+| Beam | 14.00% | ~100,465 |
+| Health Drink | 13.00% | ~93,289 |
+| 9 | 13.00% | ~93,289 |
+| Purple Cube | 13.00% | ~93,289 |
+| Supraball Noob | 13.00% | ~93,289 |
 | Helped a star | 12.00% | ~86,112 |
 | Strong | 12.00% | ~86,112 |
 | Blue King's lair | 11.00% | ~78,936 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~718 |
 | DLC: Top of the world | 0.10% | ~718 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,597 (Ranked 16)  
+Progressed: 717,604 (Ranked 16)  
 Completed: 712 (0.10%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 712 (0.10%) (Ranked 185)
 | 2023-07-17 | 717,155 | 711 |
 | 2023-07-18 | 717,309 | 711 |
 | 2023-07-19 | 717,476 | 712 |
-| 2023-07-20 | 717,597 | 712 |
+| 2023-07-20 | 717,604 | 712 |
 ## Awards
 Max (Challenging Puzzles): 7,647  (Ranked 43)  
 Sum: 9,962 (Ranked 80)  

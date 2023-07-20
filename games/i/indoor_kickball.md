@@ -17,7 +17,7 @@
 | True Story! | 44.00% | ~34 |
 | Bedroom Secret Spot | 38.00% | ~29 |
 | Kick It | 32.00% | ~25 |
-| Spooky | 27.00% | ~21 |
+| Spooky | 29.00% | ~22 |
 | Grand Slam! | 26.00% | ~20 |
 | Classroom Secret Spot | 25.00% | ~19 |
 | Have Mercy | 25.00% | ~19 |
@@ -27,7 +27,7 @@
 | At least everyone still had fun | 21.00% | ~16 |
 | Living Room Secret Spot | 18.00% | ~14 |
 | Hi Hungry, I'm Dad | 16.00% | ~12 |
-| Angry Mom | 12.00% | ~9 |
+| Angry Mom | 13.00% | ~10 |
 | Just how we drew it up | 12.00% | ~9 |
 | Interference | 9.00% | ~7 |
 | Kitchen Secret Spot | 5.00% | ~4 |

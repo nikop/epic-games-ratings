@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 18,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -1653,17 +1653,17 @@
       "ID": "LEVEL_007",
       "SetID": "212bg48",
       "Name": "Animals in the farm",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 190
     },
     {
       "ID": "LEVEL_008",
       "SetID": "212bg48",
       "Name": "Let\u0027s go to the market",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 175
     },
     {
       "ID": "LEVEL_009",
@@ -1709,9 +1709,9 @@
       "ID": "LEVEL_014",
       "SetID": "212bg48",
       "Name": "Cross-country",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 103
     },
     {
       "ID": "LEVEL_015",
@@ -1852,8 +1852,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-07-20T20:07:16.2651543+00:00",
+  "LastChanged_Achievements": "2023-07-20T21:09:15.4513672+00:00",
   "LastUpdate_AppInfo": "2023-07-17T16:57:20.834877+00:00",
-  "LastUpdate_Ratings": "2023-07-20T19:57:37.2086976+00:00",
-  "LastUpdate_Achievements": "2023-07-20T20:07:16.2651891+00:00"
+  "LastUpdate_Ratings": "2023-07-20T20:59:26.3661469+00:00",
+  "LastUpdate_Achievements": "2023-07-20T21:09:15.4514365+00:00"
 }

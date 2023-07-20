@@ -1,19 +1,19 @@
 # Prison Architect
 [Store](https://store.epicgames.com/en-US/p/prison-architect)  
 [View Rawdata](../../db/p/prison_architect.json)  
-Rating: 4.61 (Ranked 364)  
+Rating: 4.61 (Ranked 365)  
 Number of Ratings: 4,491  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 26.00% | ~39,724 |
-| Get Busy Living | 16.00% | ~24,446 |
-| Samuel Norton | 9.00% | ~13,751 |
-| Spare The Rod | 5.00% | ~7,639 |
-| I May Have Found A Way Out Of Here | 4.00% | ~6,111 |
-| Don't Put Me In The Dark | 3.00% | ~4,584 |
-| Wait and Hope | 3.00% | ~4,584 |
-| Iron Bars | 3.00% | ~4,584 |
+| Stone Walls | 26.00% | ~39,734 |
+| Get Busy Living | 16.00% | ~24,452 |
+| Samuel Norton | 9.00% | ~13,754 |
+| Spare The Rod | 5.00% | ~7,641 |
+| I May Have Found A Way Out Of Here | 4.00% | ~6,113 |
+| Don't Put Me In The Dark | 3.00% | ~4,585 |
+| Wait and Hope | 3.00% | ~4,585 |
+| Iron Bars | 3.00% | ~4,585 |
 | Throw The Book At Them | 2.00% | ~3,056 |
 | D.B. Cooper | 1.00% | ~1,528 |
 | Reformation | 0.60% | ~917 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~153 |
 | ... It's What You Can Prove | 0.10% | ~153 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152,786 (Ranked 60)  
+Progressed: 152,822 (Ranked 60)  
 Completed: 5 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,10 +114,10 @@ Completed: 5 (0.00%) (Ranked 238)
 | 2023-07-17 | 151,285 | 5 |
 | 2023-07-18 | 151,855 | 5 |
 | 2023-07-19 | 152,365 | 5 |
-| 2023-07-20 | 152,786 | 5 |
+| 2023-07-20 | 152,822 | 5 |
 ## Awards
 Max (Extremely Fun): 457  (Ranked 199)  
-Sum: 3,574 (Ranked 149)  
+Sum: 3,576 (Ranked 149)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
@@ -126,7 +126,7 @@ Diff (max vs sum): 50
 | This game is Highly Recommended | 438 |
 | This game has Quickly Understood Controls | 421 |
 | This game is Relaxing | 406 |
-| This game has Diverse Characters | 385 |
+| This game has Diverse Characters | 387 |
 | This game has Amazing Storytelling | 380 |
 | This game has Amazing Characters | 362 |
 | This game has a Creative Community | 280 |
@@ -314,4 +314,4 @@ Diff (max vs sum): 50
 | 2023-07-16 | 4.61 | - | 457 | 3,559 |
 | 2023-07-18 | 4.61 | - | 457 | 3,568 |
 | 2023-07-19 | 4.61 | - | 457 | 3,570 |
-| 2023-07-20 | 4.61 | - | 457 | 3,574 |
+| 2023-07-20 | 4.61 | - | 457 | 3,576 |
