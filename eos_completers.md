@@ -8,10 +8,10 @@
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 7 | [Volley Pals](games/v/volley_pals.md) | 23.26% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
-| 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
-| 10 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 20.00% |
-| 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
-| 12 | [Island Cities](games/i/island_cities.md) | 18.02% |
+| 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.51% |
+| 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
+| 11 | [Island Cities](games/i/island_cities.md) | 18.02% |
+| 12 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 16.67% |
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
 | 14 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.50% |
 | 14 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 12.50% |
@@ -21,10 +21,10 @@
 | 19 | [Remains](games/r/remains.md) | 11.11% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.06% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 22 | [Sonic Origins](games/s/sonic_origins.md) | 10.25% |
+| 22 | [Sonic Origins](games/s/sonic_origins.md) | 10.56% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
 | 24 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.70% |
-| 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.68% |
+| 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.67% |
 | 26 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
 | 27 | [Smelter](games/s/smelter.md) | 8.11% |
 | 28 | [Ravenlok](games/r/ravenlok.md) | 7.43% |
@@ -44,9 +44,9 @@
 | 42 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
 | 43 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.68% |
 | 44 | [Without Escape](games/w/without_escape.md) | 4.55% |
-| 45 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.30% |
-| 46 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.29% |
-| 47 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.84% |
+| 45 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.29% |
+| 46 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.21% |
+| 47 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.83% |
 | 48 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.75% |
 | 49 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.60% |
 | 50 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.57% |
@@ -82,7 +82,7 @@
 | 80 | [Frogun](games/f/frogun.md) | 1.91% |
 | 81 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 82 | [Sifu](games/s/sifu.md) | 1.80% |
-| 83 | [Iron Danger](games/i/iron_danger.md) | 1.78% |
+| 83 | [Iron Danger](games/i/iron_danger.md) | 1.77% |
 | 84 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.73% |
 | 85 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.63% |
 | 86 | [Somerville](games/s/somerville.md) | 1.62% |
@@ -150,8 +150,8 @@
 | 148 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.31% |
 | 148 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
 | 148 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
-| 148 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.31% |
-| 152 | [The First Tree](games/t/the_first_tree.md) | 0.30% |
+| 151 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.30% |
+| 151 | [The First Tree](games/t/the_first_tree.md) | 0.30% |
 | 153 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.28% |
 | 153 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
 | 155 | [Godlike Burger](games/g/godlike_burger.md) | 0.27% |
