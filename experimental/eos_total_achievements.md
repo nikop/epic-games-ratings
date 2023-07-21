@@ -3,7 +3,7 @@
 | [PAYDAY 2](../games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 1,328 | 15,000 |
 | [Idle Champions of the Forgotten Realms](../games/i/idle_champions_of_the_forgotten_realms.md) | 512 | 2,560 |
 | [Europa Universalis IV](../games/e/europa_universalis_iv.md) | 354 | 5,175 |
-| [Old World](../games/o/old_world.md) | 285 | 2,940 |
+| [Old World](../games/o/old_world.md) | 296 | 3,040 |
 | [Dead by Daylight](../games/d/dead_by_daylight.md) | 220 | 5,265 |
 | [Three Kingdoms The Last Warlord](../games/t/three_kingdoms_the_last_warlord.md) | 192 | 1,000 |
 | [GPRO - Classic racing manager](../games/g/gpro_-_classic_racing_manager.md) | 162 | 1,000 |

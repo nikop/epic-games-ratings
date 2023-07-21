@@ -135,7 +135,7 @@
 | 133 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 25 | 475 |
 | 133 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 5,503 | 63 |
 | 133 | [Diabotical](games/d/diabotical.md) | 4.75 | 271 | 242 |
-| 133 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 899 | 148 |
+| 133 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 903 | 148 |
 | 133 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 546 | 187 |
 | 133 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.75 | 0 | 505 |
 | 133 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 115 | 317 |
@@ -758,7 +758,7 @@
 | 749 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 247 | 247 |
 | 757 | [Ashen](games/a/ashen.md) | 4.33 | 0 | 505 |
 | 757 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 117 | 315 |
-| 757 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.33 | 55 | 392 |
+| 757 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.33 | 56 | 391 |
 | 757 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.33 | 0 | 505 |
 | 757 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 505 |
 | 757 | [Rogue Company](games/r/rogue_company.md) | 4.33 | 5,170 | 65 |
@@ -857,13 +857,13 @@
 | 847 | [Windbound](games/w/windbound.md) | 4.19 | 0 | 505 |
 | 856 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 0 | 505 |
 | 856 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 92 | 345 |
+| 856 | [Gone Home](games/g/gone_home.md) | 4.18 | 0 | 505 |
 | 856 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,454 | 101 |
 | 856 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 338 |
 | 856 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 0 | 505 |
 | 856 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 0 | 505 |
-| 862 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 26 | 472 |
-| 862 | [Gone Home](games/g/gone_home.md) | 4.17 | 0 | 505 |
-| 862 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.17 | 0 | 505 |
+| 863 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 26 | 472 |
+| 863 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.17 | 0 | 505 |
 | 865 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 0 | 505 |
 | 865 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 608 | 175 |
 | 865 | [Dead Age 2](games/d/dead_age_2.md) | 4.16 | 0 | 505 |
@@ -937,11 +937,11 @@
 | 935 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 505 |
 | 936 | [Stygian: Reign of the Old Ones](games/s/stygian__reign_of_the_old_ones.md) | 3.85 | 0 | 505 |
 | 937 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.84 | 0 | 505 |
+| 938 | [Blood of Steel](games/b/blood_of_steel.md) | 3.82 | 0 | 505 |
 | 938 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.82 | 0 | 505 |
 | 938 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.82 | 0 | 505 |
 | 938 | [Potion Permit](games/p/potion_permit.md) | 3.82 | 68 | 377 |
 | 938 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.82 | 0 | 505 |
-| 942 | [Blood of Steel](games/b/blood_of_steel.md) | 3.81 | 0 | 505 |
 | 943 | [Poker Club](games/p/poker_club.md) | 3.80 | 29 | 459 |
 | 944 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,050 | 139 |
 | 944 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.78 | 0 | 505 |
