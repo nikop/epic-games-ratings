@@ -3,8 +3,8 @@
   "Name": "Endling - Extinction is Forever",
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 220,
-  "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_Completed": 116,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 458,
+  "EOS_Progressed": 459,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.66,
+  "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:20.8598224+00:00",
@@ -496,6 +496,11 @@
       "Time": "2023-07-19T23:02:20.9007855+00:00",
       "NumProgressed": 458,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-21T04:02:10.8679013+00:00",
+      "NumProgressed": 459,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -571,7 +576,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "TROP009",
@@ -603,7 +608,7 @@
       "Name": "Never Give Up",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "TROP013",
@@ -691,7 +696,7 @@
       "Name": "Detox diet",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "TROP024",
@@ -699,7 +704,7 @@
       "Name": "You Can Pet The Fox",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "TROP025",
@@ -730,7 +735,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 458,
+      "Progressed": 459,
       "Completed": 3
     }
   ],
@@ -738,8 +743,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-07-21T03:01:47.1364114+00:00",
+  "LastChanged_Achievements": "2023-07-21T04:02:10.8679008+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:50.0357533+00:00",
-  "LastUpdate_Ratings": "2023-07-21T02:59:53.7469474+00:00",
-  "LastUpdate_Achievements": "2023-07-21T03:01:47.1364566+00:00"
+  "LastUpdate_Ratings": "2023-07-21T03:59:52.2362945+00:00",
+  "LastUpdate_Achievements": "2023-07-21T04:02:10.8679213+00:00"
 }

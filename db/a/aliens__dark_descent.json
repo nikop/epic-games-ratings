@@ -3060,9 +3060,9 @@
       "ID": "ACH_MARINE_PROSTHESIS",
       "SetID": "816efe",
       "Name": "Chalk It Up To Experience",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_MAX_ALL_CLASSES",
@@ -3293,8 +3293,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-20T02:02:12.6421273+00:00",
-  "LastChanged_Achievements": "2023-07-21T03:02:10.0111765+00:00",
+  "LastChanged_Achievements": "2023-07-21T04:03:14.3056093+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:18.2957495+00:00",
-  "LastUpdate_Ratings": "2023-07-21T03:00:25.7995052+00:00",
-  "LastUpdate_Achievements": "2023-07-21T03:02:10.0112673+00:00"
+  "LastUpdate_Ratings": "2023-07-21T04:00:25.8569536+00:00",
+  "LastUpdate_Achievements": "2023-07-21T04:03:14.3056525+00:00"
 }

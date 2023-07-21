@@ -3781,7 +3781,7 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 699009,
+  "EOS_Progressed": 699010,
   "EOS_Completed": 6244,
   "EOS_NewPlayers": 632,
   "EOS_NewCompleters": 13,
@@ -13436,6 +13436,11 @@
       "Time": "2023-07-21T03:02:01.0124479+00:00",
       "NumProgressed": 699009,
       "NumCompleted": 6244
+    },
+    {
+      "Time": "2023-07-21T04:02:25.1873679+00:00",
+      "NumProgressed": 699010,
+      "NumCompleted": 6244
     }
   ],
   "TotalAchievements": 49,
@@ -13447,7 +13452,7 @@
       "Name": "Back to Work",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 265623
+      "UsersEstimate": 265624
     },
     {
       "ID": "AchAresKills",
@@ -13455,7 +13460,7 @@
       "Name": "War-God\u0027s Bloodlust",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 104851
+      "UsersEstimate": 104852
     },
     {
       "ID": "AchBeatCharon",
@@ -13511,7 +13516,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 559207
+      "UsersEstimate": 559208
     },
     {
       "ID": "AchClearElysium",
@@ -13519,7 +13524,7 @@
       "Name": "Escaped Elysium",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 461346
+      "UsersEstimate": 461347
     },
     {
       "ID": "AchClearElysiumEM",
@@ -13551,7 +13556,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 622118
+      "UsersEstimate": 622119
     },
     {
       "ID": "AchCrushedThanatos",
@@ -13615,7 +13620,7 @@
       "Name": "Friends in High Places",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 475326
+      "UsersEstimate": 475327
     },
     {
       "ID": "AchGreaterCallSpurned",
@@ -13639,7 +13644,7 @@
       "Name": "Day-or-Night Trader",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 258633
+      "UsersEstimate": 258634
     },
     {
       "ID": "AchManyCosmetics",
@@ -13647,7 +13652,7 @@
       "Name": "Home Makeover",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 188732
+      "UsersEstimate": 188733
     },
     {
       "ID": "AchManyQuests",
@@ -13719,7 +13724,7 @@
       "Name": "Urge to Sing",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 251643
+      "UsersEstimate": 251644
     },
     {
       "ID": "AchPactUpgradesClears",
@@ -13735,7 +13740,7 @@
       "Name": "Blessed by the Gods",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 258633
+      "UsersEstimate": 258634
     },
     {
       "ID": "AchPickedManyHammers",
@@ -13807,7 +13812,7 @@
       "Name": "Arms Collector",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 496296
+      "UsersEstimate": 496297
     },
     {
       "ID": "AchWeaponClears",
@@ -13838,15 +13843,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 699009,
+      "Progressed": 699010,
       "Completed": 6244
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2023-07-19T15:58:10.4431741+00:00",
-  "LastChanged_Achievements": "2023-07-21T03:02:01.0124471+00:00",
+  "LastChanged_Achievements": "2023-07-21T04:02:25.1873674+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:16.4009112+00:00",
-  "LastUpdate_Ratings": "2023-07-21T02:58:38.8974551+00:00",
-  "LastUpdate_Achievements": "2023-07-21T03:02:01.0126246+00:00"
+  "LastUpdate_Ratings": "2023-07-21T03:58:35.6337181+00:00",
+  "LastUpdate_Achievements": "2023-07-21T04:02:25.1874524+00:00"
 }

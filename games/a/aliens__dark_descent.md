@@ -47,7 +47,7 @@ Rating: 4.42 (Ranked 662)
 | Hardened In The Heat Of Battle | 5.00% | ~149 |
 | Archivist | 1.00% | ~30 |
 | Fair And Square | 1.00% | ~30 |
-| Chalk It Up To Experience | 0.60% | ~18 |
+| Chalk It Up To Experience | 0.70% | ~21 |
 | Perfect Organism | 0.50% | ~15 |
 | This Ain't No Picnic | 0.30% | ~9 |
 ## Popularity (Based on EOS Achievements)

@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 633,
+  "EOS_Progressed": 634,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
@@ -1241,6 +1241,11 @@
       "Time": "2023-07-21T02:10:03.4260258+00:00",
       "NumProgressed": 633,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T04:06:01.4537806+00:00",
+      "NumProgressed": 634,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1252,7 +1257,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -1324,7 +1329,7 @@
       "Name": "Capraphobia",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -1540,7 +1545,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -1779,14 +1784,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 633,
+      "Progressed": 634,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-21T03:05:51.9138357+00:00",
+  "LastChanged_Achievements": "2023-07-21T04:06:01.4537802+00:00",
   "LastUpdate_AppInfo": "2023-07-20T13:57:08.5105647+00:00",
-  "LastUpdate_Ratings": "2023-07-21T02:57:32.5751385+00:00",
-  "LastUpdate_Achievements": "2023-07-21T03:05:51.9139653+00:00"
+  "LastUpdate_Ratings": "2023-07-21T03:57:22.9197861+00:00",
+  "LastUpdate_Achievements": "2023-07-21T04:06:01.4538367+00:00"
 }

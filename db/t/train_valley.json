@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -93,9 +93,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 331,
+  "EOS_Progressed": 332,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -403,6 +403,11 @@
       "Time": "2023-07-21T00:03:50.8045699+00:00",
       "NumProgressed": 331,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-21T04:04:10.9525189+00:00",
+      "NumProgressed": 332,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -414,15 +419,15 @@
       "Name": "Getting started",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "02_collector",
       "SetID": "chb1m60",
       "Name": "Collector",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 139
     },
     {
       "ID": "03_philatelist",
@@ -430,7 +435,7 @@
       "Name": "Philatelist",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "04_tycoon",
@@ -438,7 +443,7 @@
       "Name": "Tycoon",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "05_pangs",
@@ -468,9 +473,9 @@
       "ID": "08_america",
       "SetID": "chb1m60",
       "Name": "America",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 56
     },
     {
       "ID": "09_russia",
@@ -502,7 +507,7 @@
       "Name": "Let\u0027s roll!",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "13_bunkrupt",
@@ -542,7 +547,7 @@
       "Name": "Builder",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "18_foreman",
@@ -590,7 +595,7 @@
       "Name": "Close call!",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "24_mega",
@@ -630,7 +635,7 @@
       "Name": "Non Stop!",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "29_madness",
@@ -646,7 +651,7 @@
       "Name": "Completely nuts!",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "31_chancellor",
@@ -725,15 +730,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 331,
+      "Progressed": 332,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-03-31T05:57:32.453108+00:00",
-  "LastChanged_Achievements": "2023-07-21T03:03:45.3672644+00:00",
+  "LastChanged_Achievements": "2023-07-21T04:04:10.9525184+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:08.5245199+00:00",
-  "LastUpdate_Ratings": "2023-07-21T02:58:30.0298251+00:00",
-  "LastUpdate_Achievements": "2023-07-21T03:03:45.3673097+00:00"
+  "LastUpdate_Ratings": "2023-07-21T03:58:23.9173298+00:00",
+  "LastUpdate_Achievements": "2023-07-21T04:04:10.9525427+00:00"
 }

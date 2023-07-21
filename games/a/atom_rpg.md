@@ -6,8 +6,8 @@ Number of Ratings: 54  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 99.00% | ~1,016 |
-| Wanderer | 36.00% | ~369 |
+| Atom Agent | 99.00% | ~1,017 |
+| Wanderer | 36.00% | ~370 |
 | One HIT wonder | 35.00% | ~359 |
 | One shot, one kill | 29.00% | ~298 |
 | Traveler | 26.00% | ~267 |
@@ -19,9 +19,9 @@ Number of Ratings: 54  (23.09.2022)
 | Kraina Grzybow | 10.00% | ~103 |
 | Love Guru | 10.00% | ~103 |
 | Savant | 10.00% | ~103 |
-| Bustin' nuts | 8.00% | ~82 |
 | Not-so-private Eye | 8.00% | ~82 |
 | Superhuman | 8.00% | ~82 |
+| Bustin' nuts | 7.00% | ~72 |
 | The Vitinsky Rifle | 7.00% | ~72 |
 | Protection racket | 5.00% | ~51 |
 | Sacrifice | 5.00% | ~51 |
@@ -43,7 +43,7 @@ Number of Ratings: 54  (23.09.2022)
 | No Name, No Slogan | 0.00% | ~0 |
 | Pacifist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,026 (Ranked 191)  
+Progressed: 1,027 (Ranked 191)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-17 | 1,022 | 0 |
 | 2023-07-18 | 1,023 | 0 |
 | 2023-07-20 | 1,025 | 0 |
-| 2023-07-21 | 1,026 | 0 |
+| 2023-07-21 | 1,027 | 0 |
 ## Awards
 Max (Character Customization): 49  (Ranked 403)  
 Sum: 49 (Ranked 448)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 164,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -5931,9 +5931,9 @@
       "ID": "UNLOCK_RESEARCH_25",
       "SetID": "5349c2e",
       "Name": "Luminary Researcher",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 1560
+      "UsersEstimate": 1608
     },
     {
       "ID": "UNLOCK_RESEARCH_3",
@@ -5963,8 +5963,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-07-20T20:01:14.5225521+00:00",
-  "LastChanged_Achievements": "2023-07-21T03:01:51.2133228+00:00",
+  "LastChanged_Achievements": "2023-07-21T04:02:15.10301+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:56.6430325+00:00",
-  "LastUpdate_Ratings": "2023-07-21T03:01:03.4647351+00:00",
-  "LastUpdate_Achievements": "2023-07-21T03:01:51.2134143+00:00"
+  "LastUpdate_Ratings": "2023-07-21T04:01:09.9588422+00:00",
+  "LastUpdate_Achievements": "2023-07-21T04:02:15.1030533+00:00"
 }

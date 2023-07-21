@@ -6095,9 +6095,9 @@
       "ID": "0009",
       "SetID": "2n2feee",
       "Name": "Mainframe Hacker",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 3489
+      "UsersEstimate": 3564
     },
     {
       "ID": "0010",
@@ -6328,8 +6328,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-06-24T11:00:56.980815+00:00",
-  "LastChanged_Achievements": "2023-07-21T03:01:57.9988927+00:00",
+  "LastChanged_Achievements": "2023-07-21T04:02:21.9788949+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:40.2743278+00:00",
-  "LastUpdate_Ratings": "2023-07-21T03:00:46.9607498+00:00",
-  "LastUpdate_Achievements": "2023-07-21T03:01:57.9990008+00:00"
+  "LastUpdate_Ratings": "2023-07-21T04:00:53.5376502+00:00",
+  "LastUpdate_Achievements": "2023-07-21T04:02:21.978949+00:00"
 }

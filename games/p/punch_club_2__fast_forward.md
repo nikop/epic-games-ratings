@@ -7,27 +7,27 @@
 | Such a strange dream… | 100.00% | ~20 |
 | Your first fight | 95.00% | ~19 |
 | Good Person Chip | 85.00% | ~17 |
+| First winning | 80.00% | ~16 |
 | Your first job | 80.00% | ~16 |
-| First winning | 75.00% | ~15 |
+| First defeat | 70.00% | ~14 |
+| Old movies enjoyer | 70.00% | ~14 |
 | Neurotrainer – power gainer! | 70.00% | ~14 |
-| Old movies enjoyer | 65.00% | ~13 |
+| Fitness professional | 65.00% | ~13 |
 | Depressed visitor | 65.00% | ~13 |
-| First defeat | 60.00% | ~12 |
-| Run K, run! | 60.00% | ~12 |
-| Fitness professional | 55.00% | ~11 |
-| Employee of the week | 55.00% | ~11 |
+| Run K, run! | 65.00% | ~13 |
+| Employee of the week | 60.00% | ~12 |
+| Your own amateur gym | 55.00% | ~11 |
 | Intriguing candies | 50.00% | ~10 |
 | Hello, world! | 50.00% | ~10 |
-| Your own amateur gym | 45.00% | ~9 |
+| Fighting is cool | 45.00% | ~9 |
 | No bullying more | 45.00% | ~9 |
-| Fighting is cool | 40.00% | ~8 |
 | Little hacker | 30.00% | ~6 |
 | Employee of the month | 30.00% | ~6 |
 | Pal of your father? | 25.00% | ~5 |
 | Spirit of the past | 25.00% | ~5 |
 | Your own way | 25.00% | ~5 |
+| Workout professional | 20.00% | ~4 |
 | Law student | 20.00% | ~4 |
-| Workout professional | 15.00% | ~3 |
 | Handyman | 10.00% | ~2 |
 | It's good to be alive | 10.00% | ~2 |
 | Employee of the year | 10.00% | ~2 |

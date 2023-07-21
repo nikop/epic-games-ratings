@@ -376,9 +376,9 @@
       "ID": "FirstBlood",
       "SetID": "7g1kpc8",
       "Name": "First Blood",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "FirstBoss",
@@ -487,8 +487,8 @@
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-07-21T03:05:44.6343532+00:00",
+  "LastChanged_Achievements": "2023-07-21T04:05:54.0582581+00:00",
   "LastUpdate_AppInfo": "2023-07-17T08:57:31.0747008+00:00",
-  "LastUpdate_Ratings": "2023-07-21T02:57:55.5538234+00:00",
-  "LastUpdate_Achievements": "2023-07-21T03:05:44.634374+00:00"
+  "LastUpdate_Ratings": "2023-07-21T03:57:47.5566389+00:00",
+  "LastUpdate_Achievements": "2023-07-21T04:05:54.0582715+00:00"
 }

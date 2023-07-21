@@ -606,9 +606,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2987,
+  "EOS_Progressed": 2988,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2326,6 +2326,11 @@
       "Time": "2023-07-21T02:07:57.4152236+00:00",
       "NumProgressed": 2987,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T04:03:57.9045723+00:00",
+      "NumProgressed": 2988,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2489,7 +2494,7 @@
       "Name": "Daemonkeeper",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "KadexDefeated_Nexus",
@@ -2521,7 +2526,7 @@
       "Name": "Corruption Cleanser",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "Kills_Executioner",
@@ -2593,7 +2598,7 @@
       "Name": "Mind Like a Fortress",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "MasterCraftLevel3_Armour",
@@ -2601,7 +2606,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "MasterCraftLevel3_Melee",
@@ -2609,7 +2614,7 @@
       "Name": "Nemesis Master",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "MasterCraftLevel3_Ranged",
@@ -2617,7 +2622,7 @@
       "Name": "Gunmaster",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "MasterOfTheForge",
@@ -2705,7 +2710,7 @@
       "Name": "A Foul Creche",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "NotAMoteOfCorruption",
@@ -2777,7 +2782,7 @@
       "Name": "Long Distance Call",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "SkilledKnight",
@@ -2808,21 +2813,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2987,
+      "Progressed": 2988,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2987,
+      "Progressed": 2988,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-13T14:59:29.0223898+00:00",
-  "LastChanged_Achievements": "2023-07-21T03:03:42.3999432+00:00",
+  "LastChanged_Achievements": "2023-07-21T04:03:57.9045719+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:36.8896867+00:00",
-  "LastUpdate_Ratings": "2023-07-21T02:59:43.0240857+00:00",
-  "LastUpdate_Achievements": "2023-07-21T03:03:42.4000784+00:00"
+  "LastUpdate_Ratings": "2023-07-21T03:59:41.5862464+00:00",
+  "LastUpdate_Achievements": "2023-07-21T04:03:57.9046234+00:00"
 }

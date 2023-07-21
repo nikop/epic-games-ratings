@@ -10,8 +10,8 @@
 | To the Rec Center! | 49.00% | ~117 |
 | Green Sheen | 45.00% | ~108 |
 | Blue Goo | 31.00% | ~74 |
+| Furniture in the Forest! | 21.00% | ~50 |
 | Let's Get Fishy! | 21.00% | ~50 |
-| Furniture in the Forest! | 20.00% | ~48 |
 | Save the Slimes! | 12.00% | ~29 |
 | So long, Slime Co! | 4.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
