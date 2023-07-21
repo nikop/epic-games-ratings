@@ -487,6 +487,7 @@
 | [BloodRayne: Terminal Cut](../games/b/bloodrayne__terminal_cut.md) | 13 | 1,000 |
 | [ELEGIES Aya](../games/e/elegies_aya.md) | 13 | 1,000 |
 | [Forklift Extreme - Deluxe Edition](../games/f/forklift_extreme_-_deluxe_edition.md) | 13 | 1,000 |
+| [Lifespace Traveler](../games/7/77631a5827eb4a8ea16cf1ded0b24131.md) | 13 | 1,000 |
 | [MY LITTLE PONY A Maretime Bay Adventure](../games/m/my_little_pony_a_maretime_bay_adventure.md) | 13 | 1,000 |
 | [Panic Porcupine](../games/p/panic_porcupine.md) | 13 | 1,000 |
 | [Reyna Darkness](../games/f/f23600737cfe43d0a3c807c938c5e94b.md) | 13 | 1,000 |
