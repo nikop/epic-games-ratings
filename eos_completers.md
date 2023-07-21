@@ -11,19 +11,19 @@
 | 9 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 10 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
-| 12 | [Island Cities](games/i/island_cities.md) | 18.49% |
-| 13 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 14.29% |
-| 14 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
-| 15 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 12.70% |
+| 12 | [Island Cities](games/i/island_cities.md) | 18.44% |
+| 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
+| 14 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 13.33% |
+| 15 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 12.60% |
 | 16 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.50% |
 | 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.01% |
-| 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.71% |
+| 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.64% |
 | 19 | [Remains](games/r/remains.md) | 11.36% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.11% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 22 | [Sonic Origins](games/s/sonic_origins.md) | 10.44% |
+| 22 | [Sonic Origins](games/s/sonic_origins.md) | 10.38% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 24 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 9.09% |
+| 24 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.89% |
 | 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.65% |
 | 26 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.54% |
 | 27 | [Smelter](games/s/smelter.md) | 8.11% |
@@ -36,8 +36,8 @@
 | 34 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 35 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.66% |
 | 36 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
-| 37 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.26% |
-| 38 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 5.00% |
+| 37 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 5.00% |
+| 37 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.00% |
 | 39 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.98% |
 | 40 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.88% |
 | 41 | [JARS](games/j/jars.md) | 4.84% |
@@ -53,8 +53,8 @@
 | 51 | [Doodle God](games/d/doodle_god.md) | 3.54% |
 | 52 | [ZZT!](games/z/zzt!.md) | 3.53% |
 | 53 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.52% |
-| 54 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
-| 54 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.40% |
+| 54 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.43% |
+| 55 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
 | 56 | [Monster Harvest](games/m/monster_harvest.md) | 3.35% |
 | 57 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.23% |
 | 58 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.08% |
@@ -116,7 +116,7 @@
 | 114 | [Haven](games/h/haven.md) | 0.68% |
 | 115 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.66% |
 | 115 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.66% |
-| 115 | [Them and Us](games/t/them_and_us.md) | 0.66% |
+| 117 | [Them and Us](games/t/them_and_us.md) | 0.65% |
 | 118 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
 | 118 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.63% |
 | 120 | [Train Valley](games/t/train_valley.md) | 0.60% |
