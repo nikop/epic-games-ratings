@@ -4,7 +4,7 @@
   "ProductSlug": "one-military-camp-8db1f6",
   "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 28,
+  "EOS_Progressed": 29,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -115,6 +115,11 @@
     {
       "Time": "2023-07-21T15:03:52.7419849+00:00",
       "NumProgressed": 28,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T16:03:59.3882778+00:00",
+      "NumProgressed": 29,
       "NumCompleted": 0
     }
   ],
@@ -286,7 +291,7 @@
       "ID": "ACHIEVEMENT_ID_27",
       "SetID": "c504de6",
       "Name": "The 4 Pillars",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
       "UsersEstimate": 7
     },
@@ -382,7 +387,7 @@
       "ID": "ACHIEVEMENT_ID_38",
       "SetID": "c504de6",
       "Name": "Ammo Tycoon",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -398,9 +403,9 @@
       "ID": "ACHIEVEMENT_ID_4",
       "SetID": "c504de6",
       "Name": "First Step",
-      "Percentage": 25,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_ID_40",
@@ -479,14 +484,14 @@
     {
       "ID": "c504de6",
       "IsBase": true,
-      "Progressed": 28,
+      "Progressed": 29,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-07-21T15:03:52.7419842+00:00",
+  "LastChanged_Achievements": "2023-07-21T16:03:59.3882774+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:44.2003935+00:00",
-  "LastUpdate_Ratings": "2023-07-21T14:59:41.3564748+00:00",
-  "LastUpdate_Achievements": "2023-07-21T15:03:52.7420236+00:00"
+  "LastUpdate_Ratings": "2023-07-21T15:59:39.3276665+00:00",
+  "LastUpdate_Achievements": "2023-07-21T16:03:59.3883138+00:00"
 }

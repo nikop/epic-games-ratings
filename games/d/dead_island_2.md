@@ -1,57 +1,57 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 494)  
+Rating: 4.54 (Ranked 495)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 88.00% | ~533,395 |
-| Break A Leg | 84.00% | ~509,150 |
-| Hazardous Materials | 77.00% | ~466,721 |
-| Personal Assistant Personally Assisted | 73.00% | ~442,476 |
-| Coup de Grâce | 72.00% | ~436,414 |
-| Git Gutte! | 71.00% | ~430,353 |
-| Apex Predator | 67.00% | ~406,108 |
-| Friends Like These | 65.00% | ~393,985 |
-| Bookworm | 60.00% | ~363,679 |
-| Dr. Reed, I Presume? | 58.00% | ~351,556 |
-| Stacking the Deck | 57.00% | ~345,495 |
-| This is My Weapon | 55.00% | ~333,372 |
-| I Got a Zombie Army and You Can't Harm Me | 54.00% | ~327,311 |
-| Welcome To Hell-A | 51.00% | ~309,127 |
-| But Doctor, I am Butcho | 48.00% | ~290,943 |
-| Can't Handle the Truth | 44.00% | ~266,698 |
-| Anger Management | 43.00% | ~260,636 |
-| Perks of the Job | 43.00% | ~260,636 |
-| Like Riding a Bike | 42.00% | ~254,575 |
-| Making Your Mark | 41.00% | ~248,514 |
-| A Patton Emerges | 41.00% | ~248,514 |
-| Zombologist | 40.00% | ~242,452 |
-| Slayer Squad | 39.00% | ~236,391 |
-| Ooh, Shiny! | 39.00% | ~236,391 |
-| Our True Nature | 39.00% | ~236,391 |
-| Humanity Distilled | 37.00% | ~224,268 |
-| I Am the Resurrection | 32.00% | ~193,962 |
-| Down with the Sickness | 27.00% | ~163,655 |
-| Rising Star | 27.00% | ~163,655 |
-| Jumbo Keyring | 26.00% | ~157,594 |
-| Go, Bobcats! | 26.00% | ~157,594 |
-| Smorgasbord | 19.00% | ~115,165 |
-| Internet Famous | 18.00% | ~109,104 |
-| Make it So | 15.00% | ~90,920 |
-| Max Headroom | 14.00% | ~84,858 |
-| On Safari | 13.00% | ~78,797 |
-| Not Even My Final Form | 13.00% | ~78,797 |
-| Gore Horse | 12.00% | ~72,736 |
-| LA Influential | 11.00% | ~66,674 |
-| Sharpest Tool in the Box | 10.00% | ~60,613 |
-| Sole Survivor | 9.00% | ~54,552 |
-| Variety is the Spice of Death | 8.00% | ~48,490 |
-| Survival Skills | 5.00% | ~30,307 |
-| Donk! | 4.00% | ~24,245 |
-| Zombicidal Maniac | 1.00% | ~6,061 |
+| Hotel California | 88.00% | ~533,625 |
+| Break A Leg | 84.00% | ~509,369 |
+| Hazardous Materials | 77.00% | ~466,922 |
+| Personal Assistant Personally Assisted | 73.00% | ~442,666 |
+| Coup de Grâce | 72.00% | ~436,602 |
+| Git Gutte! | 71.00% | ~430,538 |
+| Apex Predator | 67.00% | ~406,283 |
+| Friends Like These | 65.00% | ~394,155 |
+| Bookworm | 60.00% | ~363,835 |
+| Dr. Reed, I Presume? | 58.00% | ~351,707 |
+| Stacking the Deck | 57.00% | ~345,643 |
+| This is My Weapon | 55.00% | ~333,516 |
+| I Got a Zombie Army and You Can't Harm Me | 54.00% | ~327,452 |
+| Welcome To Hell-A | 51.00% | ~309,260 |
+| But Doctor, I am Butcho | 48.00% | ~291,068 |
+| Can't Handle the Truth | 44.00% | ~266,812 |
+| Anger Management | 43.00% | ~260,749 |
+| Perks of the Job | 43.00% | ~260,749 |
+| Like Riding a Bike | 42.00% | ~254,685 |
+| Making Your Mark | 41.00% | ~248,621 |
+| A Patton Emerges | 41.00% | ~248,621 |
+| Zombologist | 40.00% | ~242,557 |
+| Slayer Squad | 39.00% | ~236,493 |
+| Ooh, Shiny! | 39.00% | ~236,493 |
+| Our True Nature | 39.00% | ~236,493 |
+| Humanity Distilled | 37.00% | ~224,365 |
+| I Am the Resurrection | 32.00% | ~194,045 |
+| Down with the Sickness | 27.00% | ~163,726 |
+| Rising Star | 27.00% | ~163,726 |
+| Jumbo Keyring | 26.00% | ~157,662 |
+| Go, Bobcats! | 26.00% | ~157,662 |
+| Smorgasbord | 19.00% | ~115,214 |
+| Internet Famous | 18.00% | ~109,151 |
+| Make it So | 15.00% | ~90,959 |
+| Max Headroom | 14.00% | ~84,895 |
+| On Safari | 13.00% | ~78,831 |
+| Not Even My Final Form | 13.00% | ~78,831 |
+| Gore Horse | 12.00% | ~72,767 |
+| LA Influential | 11.00% | ~66,703 |
+| Sharpest Tool in the Box | 10.00% | ~60,639 |
+| Sole Survivor | 9.00% | ~54,575 |
+| Variety is the Spice of Death | 8.00% | ~48,511 |
+| Survival Skills | 5.00% | ~30,320 |
+| Donk! | 4.00% | ~24,256 |
+| Zombicidal Maniac | 1.00% | ~6,064 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 606,131 (Ranked 25)  
+Progressed: 606,392 (Ranked 25)  
 Completed: 1,919 (0.32%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,15 +143,15 @@ Completed: 1,919 (0.32%) (Ranked 147)
 | 2023-07-18 | 594,329 | 1,920 |
 | 2023-07-19 | 599,606 | 1,922 |
 | 2023-07-20 | 603,850 | 1,923 |
-| 2023-07-21 | 606,131 | 1,924 |
+| 2023-07-21 | 606,392 | 1,924 |
 ## Awards
-Max (Great Boss Battles): 5,297  (Ranked 64)  
-Sum: 7,780 (Ranked 98)  
+Max (Great Boss Battles): 5,310  (Ranked 64)  
+Sum: 7,795 (Ranked 98)  
 Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 5,297 |
-| This game is Great for Beginners | 356 |
+| This game has Great Boss Battles | 5,310 |
+| This game is Great for Beginners | 358 |
 | This game has Quickly Understood Controls | 346 |
 | This game has Diverse Characters | 335 |
 | This game is Relaxing | 318 |
@@ -253,4 +253,4 @@ Diff (max vs sum): -34
 | 2023-07-18 | 4.54 | 5,266 | 7,723 |
 | 2023-07-19 | 4.54 | 5,283 | 7,748 |
 | 2023-07-20 | 4.54 | 5,297 | 7,775 |
-| 2023-07-21 | 4.54 | 5,297 | 7,780 |
+| 2023-07-21 | 4.54 | 5,310 | 7,795 |

@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The 4 Pillars | 25.00% | ~7 |
-| First Step | 25.00% | ~7 |
-| Ammo Tycoon | 4.00% | ~1 |
+| First Step | 28.00% | ~8 |
+| The 4 Pillars | 24.00% | ~7 |
+| Ammo Tycoon | 3.00% | ~1 |
 | Jantine: the Misfortunes of Evil | 0.00% | ~0 |
 | Tear Down the Wall! | 0.00% | ~0 |
 | Economist | 0.00% | ~0 |
@@ -49,10 +49,10 @@
 | Green Energy | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28 (Ranked 370)  
+Progressed: 29 (Ranked 370)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-07-20 | 17 | 0 |
-| 2023-07-21 | 28 | 0 |
+| 2023-07-21 | 29 | 0 |

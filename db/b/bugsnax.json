@@ -6,8 +6,8 @@
   "Ranking_Popularity": 427,
   "Ranking_PopularitySum": 331,
   "Ranking_EOS_Progress": 97,
-  "Ranking_EOS_Completed": 43,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_Completed": 42,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2020-11-12T14:00:00+00:00",
@@ -689,9 +689,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 27950,
+  "EOS_Progressed": 27951,
   "EOS_Completed": 1314,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 4.7,
   "EosHistory": [
@@ -3519,6 +3519,11 @@
       "Time": "2023-07-21T14:06:35.5724944+00:00",
       "NumProgressed": 27950,
       "NumCompleted": 1314
+    },
+    {
+      "Time": "2023-07-21T16:06:23.4561267+00:00",
+      "NumProgressed": 27951,
+      "NumCompleted": 1314
     }
   ],
   "TotalAchievements": 30,
@@ -3570,7 +3575,7 @@
       "Name": "Deep Impact",
       "Percentage": 23,
       "XP": 70,
-      "UsersEstimate": 6428
+      "UsersEstimate": 6429
     },
     {
       "ID": "ACH_CATCH_ALL",
@@ -3586,7 +3591,7 @@
       "Name": "Got to Catch a Lot",
       "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 18447
+      "UsersEstimate": 18448
     },
     {
       "ID": "ACH_CATCH_QUARTER",
@@ -3602,7 +3607,7 @@
       "Name": "Say Cheese!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 4192
+      "UsersEstimate": 4193
     },
     {
       "ID": "ACH_COMBO_MEAL",
@@ -3618,7 +3623,7 @@
       "Name": "In the Arms of the Gramble",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 16490
+      "UsersEstimate": 16491
     },
     {
       "ID": "ACH_FIRST_BUGSNAK",
@@ -3642,7 +3647,7 @@
       "Name": "Candid Cryptid",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 9782
+      "UsersEstimate": 9783
     },
     {
       "ID": "ACH_HATS",
@@ -3674,7 +3679,7 @@
       "Name": "Launch Party",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 15652
+      "UsersEstimate": 15653
     },
     {
       "ID": "ACH_MAIN_STORY",
@@ -3690,7 +3695,7 @@
       "Name": "That Reminds Me of a Puzzle",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 12018
+      "UsersEstimate": 12019
     },
     {
       "ID": "ACH_RETURN_ALL",
@@ -3698,7 +3703,7 @@
       "Name": "Know Thy Neighbor",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 16490
+      "UsersEstimate": 16491
     },
     {
       "ID": "ACH_SIDE_QUEST",
@@ -3714,7 +3719,7 @@
       "Name": "Grab Bag",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 6428
+      "UsersEstimate": 6429
     },
     {
       "ID": "ACH_SNAXBURG",
@@ -3730,7 +3735,7 @@
       "Name": "Perf Dirt",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 15652
+      "UsersEstimate": 15653
     },
     {
       "ID": "ACH_SUNDAE",
@@ -3754,7 +3759,7 @@
       "Name": "Double Trapper",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 20962
+      "UsersEstimate": 20963
     },
     {
       "ID": "ACH_WATERFALL",
@@ -3762,22 +3767,22 @@
       "Name": "Wonderfalls",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 24316
+      "UsersEstimate": 24317
     }
   ],
   "AchievementSets": [
     {
       "ID": "2m0copd",
       "IsBase": true,
-      "Progressed": 27950,
+      "Progressed": 27951,
       "Completed": 1314
     }
   ],
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
   "LastChanged": "2023-07-11T17:00:49.6653428+00:00",
-  "LastChanged_Achievements": "2023-07-21T15:06:26.4955387+00:00",
+  "LastChanged_Achievements": "2023-07-21T16:06:23.4561262+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:53.5695898+00:00",
-  "LastUpdate_Ratings": "2023-07-21T15:00:52.2412183+00:00",
-  "LastUpdate_Achievements": "2023-07-21T15:06:26.495583+00:00"
+  "LastUpdate_Ratings": "2023-07-21T16:00:52.853808+00:00",
+  "LastUpdate_Achievements": "2023-07-21T16:06:23.4561729+00:00"
 }

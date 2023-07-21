@@ -1,89 +1,89 @@
 # Train Valley 2
 [Store](https://store.epicgames.com/en-US/p/train-valley-2-3606da)  
 [View Rawdata](../../db/t/train_valley_2.json)  
-Rating: 4.16 (Ranked 866)  
+Rating: 4.18 (Ranked 857)  
 Number of Ratings: 87  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 69.00% | ~218,178 |
-| Full garage | 57.00% | ~180,234 |
-| To the eyeballs! | 48.00% | ~151,776 |
-| Individual delivery | 43.00% | ~135,966 |
-| Non-Stop | 42.00% | ~132,804 |
-| Juggler | 32.00% | ~101,184 |
-| Forgot something | 31.00% | ~98,022 |
-| Close call! | 27.00% | ~85,374 |
-| Get out my way | 24.00% | ~75,888 |
-| Common cause | 22.00% | ~69,564 |
-| Critical care | 22.00% | ~69,564 |
-| Mega-railroad | 19.00% | ~60,078 |
-| Upgrade complete | 19.00% | ~60,078 |
-| Just in time! | 14.00% | ~44,268 |
-| Builder | 13.00% | ~41,106 |
-| Steam Age | 12.00% | ~37,944 |
-| Long Haul | 12.00% | ~37,865 |
-| Bridgemania | 10.00% | ~31,620 |
-| Multilevel road | 10.00% | ~31,620 |
-| Need to think | 10.00% | ~31,620 |
-| The Tortoise | 10.00% | ~31,620 |
-| Beginner | 7.00% | ~22,134 |
-| Relocation | 7.00% | ~22,134 |
-| Without a lunch break | 7.00% | ~22,134 |
-| One way | 5.00% | ~15,810 |
-| Prick of conscience | 5.00% | ~15,810 |
-| Just One More Valley | 5.00% | ~15,777 |
-| At the last moment! | 4.00% | ~12,648 |
-| Highlander | 4.00% | ~12,648 |
-| Industrial Age | 4.00% | ~12,648 |
-| Missed it! | 4.00% | ~12,648 |
-| Jewelry accuracy | 2.00% | ~6,324 |
-| Overseer | 2.00% | ~6,324 |
-| Electrical Age | 1.00% | ~3,162 |
-| Large construction | 1.00% | ~3,162 |
-| Squander | 1.00% | ~3,162 |
-| Stargazer | 1.00% | ~3,162 |
-| The Hare | 1.00% | ~3,162 |
-| Bridge builder | 0.80% | ~2,530 |
-| Sabotage | 0.70% | ~2,213 |
-| Engineer | 0.60% | ~1,897 |
-| Living it large | 0.50% | ~1,581 |
-| Woodcutter | 0.50% | ~1,581 |
-| Will work | 0.40% | ~1,265 |
-| Test Batch | 0.40% | ~1,262 |
-| Astronomer | 0.30% | ~949 |
-| Vandal | 0.30% | ~949 |
-| Globalisation Age | 0.20% | ~632 |
-| Innovator | 0.20% | ~632 |
-| Lucky vandal | 0.20% | ~632 |
-| Ouroboros | 0.20% | ~632 |
-| Achiever | 0.10% | ~316 |
-| Alchemist | 0.10% | ~316 |
+| Dealmaker | 69.00% | ~218,468 |
+| Full garage | 57.00% | ~180,473 |
+| To the eyeballs! | 48.00% | ~151,978 |
+| Individual delivery | 43.00% | ~136,147 |
+| Non-Stop | 42.00% | ~132,980 |
+| Juggler | 33.00% | ~104,485 |
+| Forgot something | 31.00% | ~98,152 |
+| Close call! | 27.00% | ~85,487 |
+| Get out my way | 24.00% | ~75,989 |
+| Common cause | 22.00% | ~69,656 |
+| Critical care | 22.00% | ~69,656 |
+| Mega-railroad | 19.00% | ~60,158 |
+| Upgrade complete | 19.00% | ~60,158 |
+| Just in time! | 14.00% | ~44,327 |
+| Builder | 13.00% | ~41,161 |
+| Steam Age | 12.00% | ~37,994 |
+| Long Haul | 12.00% | ~37,915 |
+| Bridgemania | 10.00% | ~31,662 |
+| Multilevel road | 10.00% | ~31,662 |
+| Need to think | 10.00% | ~31,662 |
+| The Tortoise | 10.00% | ~31,662 |
+| Beginner | 7.00% | ~22,163 |
+| Relocation | 7.00% | ~22,163 |
+| Without a lunch break | 7.00% | ~22,163 |
+| One way | 5.00% | ~15,831 |
+| Prick of conscience | 5.00% | ~15,831 |
+| Just One More Valley | 5.00% | ~15,798 |
+| At the last moment! | 4.00% | ~12,665 |
+| Highlander | 4.00% | ~12,665 |
+| Industrial Age | 4.00% | ~12,665 |
+| Missed it! | 4.00% | ~12,665 |
+| Jewelry accuracy | 2.00% | ~6,332 |
+| Overseer | 2.00% | ~6,332 |
+| Electrical Age | 1.00% | ~3,166 |
+| Large construction | 1.00% | ~3,166 |
+| Squander | 1.00% | ~3,166 |
+| Stargazer | 1.00% | ~3,166 |
+| The Hare | 1.00% | ~3,166 |
+| Bridge builder | 0.90% | ~2,850 |
+| Sabotage | 0.70% | ~2,216 |
+| Engineer | 0.60% | ~1,900 |
+| Living it large | 0.50% | ~1,583 |
+| Woodcutter | 0.50% | ~1,583 |
+| Will work | 0.40% | ~1,266 |
+| Test Batch | 0.40% | ~1,264 |
+| Astronomer | 0.30% | ~950 |
+| Vandal | 0.30% | ~950 |
+| Globalisation Age | 0.20% | ~633 |
+| Innovator | 0.20% | ~633 |
+| Lucky vandal | 0.20% | ~633 |
+| Ouroboros | 0.20% | ~633 |
+| Achiever | 0.10% | ~317 |
+| Alchemist | 0.10% | ~317 |
 | Arcturus | 0.10% | ~316 |
 | Astrochemist | 0.10% | ~316 |
-| Astrophysicist | 0.10% | ~316 |
+| Astrophysicist | 0.10% | ~317 |
 | Atomic Age | 0.10% | ~316 |
-| BBQ | 0.10% | ~316 |
+| BBQ | 0.10% | ~317 |
 | Digital Age | 0.10% | ~316 |
-| Environmental activist | 0.10% | ~316 |
-| Forgotten | 0.10% | ~316 |
+| Environmental activist | 0.10% | ~317 |
+| Forgotten | 0.10% | ~317 |
 | Gemologist | 0.10% | ~316 |
 | Information Age | 0.10% | ~316 |
-| It's no coincidence | 0.10% | ~316 |
+| It's no coincidence | 0.10% | ~317 |
 | Jeweller | 0.10% | ~316 |
-| Metro builder | 0.10% | ~316 |
+| Metro builder | 0.10% | ~317 |
 | Miner | 0.10% | ~316 |
-| Miscalculation | 0.10% | ~316 |
+| Miscalculation | 0.10% | ~317 |
 | Pink Ruby | 0.10% | ~316 |
-| Railroad tycoon | 0.10% | ~316 |
-| Space Age | 0.10% | ~316 |
+| Railroad tycoon | 0.10% | ~317 |
+| Space Age | 0.10% | ~317 |
 | Star Sapphire | 0.10% | ~316 |
-| The Hare with an espresso | 0.10% | ~316 |
-| Tourism Age | 0.10% | ~316 |
+| The Hare with an espresso | 0.10% | ~317 |
+| Tourism Age | 0.10% | ~317 |
 | Trapiche Emerald | 0.10% | ~316 |
-| Urbanization Age | 0.10% | ~316 |
+| Urbanization Age | 0.10% | ~317 |
 | Vostok | 0.10% | ~316 |
-| Voyager | 0.10% | ~316 |
+| Voyager | 0.10% | ~317 |
 | Across The Infinite | 0.10% | ~316 |
 | Knowing The Ropes | 0.10% | ~316 |
 | Maiden Voyage | 0.10% | ~316 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~316 |
 | World Zapper | 0.10% | ~316 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 316,200 (Ranked 41)  
+Progressed: 316,620 (Ranked 41)  
 Completed: 4 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 4 (0.00%) (Ranked 238)
 | 2023-07-18 | 270,391 | 4 |
 | 2023-07-19 | 293,291 | 4 |
 | 2023-07-20 | 311,070 | 4 |
-| 2023-07-21 | 316,200 | 4 |
+| 2023-07-21 | 316,620 | 4 |
 ## Awards
 Max (Challenging Puzzles): 105  (Ranked 325)  
 Sum: 146 (Ranked 391)  
@@ -222,4 +222,4 @@ Diff (max vs sum): -66
 | 2023-07-18 | 4.03 | - | 88 | 108 |
 | 2023-07-19 | 4.06 | - | 97 | 117 |
 | 2023-07-20 | 4.13 | - | 105 | 125 |
-| 2023-07-21 | 4.16 | - | 105 | 146 |
+| 2023-07-21 | 4.18 | - | 105 | 146 |

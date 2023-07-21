@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 189,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1500,9 +1500,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 24352,
+  "EOS_Progressed": 24353,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -8305,6 +8305,11 @@
       "Time": "2023-07-21T12:03:46.5054357+00:00",
       "NumProgressed": 24352,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-07-21T16:04:10.6482583+00:00",
+      "NumProgressed": 24353,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 51,
@@ -8316,7 +8321,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 17777
+      "UsersEstimate": 17778
     },
     {
       "ID": "Animated",
@@ -8324,7 +8329,7 @@
       "Name": "Animated",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 5844
+      "UsersEstimate": 5845
     },
     {
       "ID": "Back_Off",
@@ -8332,7 +8337,7 @@
       "Name": "Back Off",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 8523
+      "UsersEstimate": 8524
     },
     {
       "ID": "Best_Insurance",
@@ -8356,7 +8361,7 @@
       "Name": "Clutch Capture",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 9984
+      "UsersEstimate": 9985
     },
     {
       "ID": "Collect_Spores",
@@ -8428,7 +8433,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 15585
+      "UsersEstimate": 15586
     },
     {
       "ID": "Escape_Artist",
@@ -8452,7 +8457,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 13150
+      "UsersEstimate": 13151
     },
     {
       "ID": "GB_In_Training",
@@ -8596,7 +8601,7 @@
       "Name": "Skilled",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5844
+      "UsersEstimate": 5845
     },
     {
       "ID": "Solo_Capture",
@@ -8620,7 +8625,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 20943
+      "UsersEstimate": 20944
     },
     {
       "ID": "Summoner",
@@ -8644,7 +8649,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 13150
+      "UsersEstimate": 13151
     },
     {
       "ID": "Teamwork",
@@ -8660,7 +8665,7 @@
       "Name": "Terrifying",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 4383
+      "UsersEstimate": 4384
     },
     {
       "ID": "Therapeutic",
@@ -8676,7 +8681,7 @@
       "Name": "There you are!",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 10471
+      "UsersEstimate": 10472
     },
     {
       "ID": "Tobins_Prodigy",
@@ -8684,7 +8689,7 @@
       "Name": "Tobin\u0027s Prodigy",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4383
+      "UsersEstimate": 4384
     },
     {
       "ID": "Ultimate_Defense",
@@ -8723,7 +8728,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 24352,
+      "Progressed": 24353,
       "Completed": 46
     }
   ],
@@ -8731,8 +8736,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-07-20T02:01:52.9258524+00:00",
-  "LastChanged_Achievements": "2023-07-21T15:04:13.2647564+00:00",
+  "LastChanged_Achievements": "2023-07-21T16:04:10.6482578+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:59.3663354+00:00",
-  "LastUpdate_Ratings": "2023-07-21T14:59:58.4913168+00:00",
-  "LastUpdate_Achievements": "2023-07-21T15:04:13.2648567+00:00"
+  "LastUpdate_Ratings": "2023-07-21T15:59:56.5414153+00:00",
+  "LastUpdate_Achievements": "2023-07-21T16:04:10.6483376+00:00"
 }

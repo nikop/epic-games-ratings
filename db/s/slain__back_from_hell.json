@@ -6,7 +6,7 @@
   "Ranking_Popularity": 306,
   "Ranking_PopularitySum": 398,
   "Ranking_EOS_Progress": 96,
-  "Ranking_EOS_Completed": 199,
+  "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 55,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
@@ -187,9 +187,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 30844,
+  "EOS_Progressed": 30850,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 909,
+  "EOS_NewPlayers": 913,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -10112,6 +10112,11 @@
       "Time": "2023-07-21T15:04:43.0573307+00:00",
       "NumProgressed": 30844,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-07-21T16:04:40.4875175+00:00",
+      "NumProgressed": 30850,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -10123,7 +10128,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4935
+      "UsersEstimate": 4936
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -10131,7 +10136,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6169
+      "UsersEstimate": 6170
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -10354,7 +10359,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 30844,
+      "Progressed": 30850,
       "Completed": 20
     }
   ],
@@ -10362,8 +10367,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-07-11T15:00:39.3575549+00:00",
-  "LastChanged_Achievements": "2023-07-21T15:04:43.0573302+00:00",
+  "LastChanged_Achievements": "2023-07-21T16:04:40.487517+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:02.6964927+00:00",
-  "LastUpdate_Ratings": "2023-07-21T15:00:59.9170624+00:00",
-  "LastUpdate_Achievements": "2023-07-21T15:04:43.0574073+00:00"
+  "LastUpdate_Ratings": "2023-07-21T16:01:00.6813856+00:00",
+  "LastUpdate_Achievements": "2023-07-21T16:04:40.4876152+00:00"
 }

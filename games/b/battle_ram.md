@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| START | 89.00% | ~72 |
-| Ram Corporal | 83.00% | ~67 |
-| Ram Sergeant | 62.00% | ~50 |
-| Ram Staff Sergeant | 60.00% | ~49 |
+| START | 90.00% | ~73 |
+| Ram Corporal | 84.00% | ~68 |
+| Ram Sergeant | 63.00% | ~51 |
+| Ram Staff Sergeant | 62.00% | ~50 |
 | Ram First Sergeant | 54.00% | ~44 |
 | Senior Sergeant Baran | 54.00% | ~44 |
 | Sergeant Major Baran | 44.00% | ~36 |

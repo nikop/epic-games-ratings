@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1076,
+  "EOS_Progressed": 1077,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -660,6 +660,11 @@
       "Time": "2023-07-21T11:02:15.8175399+00:00",
       "NumProgressed": 1076,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T16:03:12.5924644+00:00",
+      "NumProgressed": 1077,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -727,7 +732,7 @@
       "Name": "Walked like an Egyptian",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ALLTRACKSCLOUD",
@@ -743,7 +748,7 @@
       "Name": "Ride in the rising sun",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ALLTRACKSGENESIS",
@@ -1086,7 +1091,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1076,
+      "Progressed": 1077,
       "Completed": 0
     }
   ],
@@ -1094,8 +1099,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-07-21T15:02:25.6416705+00:00",
+  "LastChanged_Achievements": "2023-07-21T16:03:12.5924639+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:52.2995402+00:00",
-  "LastUpdate_Ratings": "2023-07-21T14:58:58.0844738+00:00",
-  "LastUpdate_Achievements": "2023-07-21T15:02:25.6417205+00:00"
+  "LastUpdate_Ratings": "2023-07-21T15:58:58.3567008+00:00",
+  "LastUpdate_Achievements": "2023-07-21T16:03:12.5925116+00:00"
 }

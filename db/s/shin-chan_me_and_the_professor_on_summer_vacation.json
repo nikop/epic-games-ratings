@@ -2,9 +2,9 @@
   "ID": "d8a4cd05d72d437aa3f3091bae2add52",
   "Name": "Shin-chan Me and the Professor on Summer Vacation",
   "ProductSlug": "shinchan-me-and-the-professor-on-summer-vacation-bb7bad",
-  "Ranking_EOS_Progress": 372,
+  "Ranking_EOS_Progress": 371,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 326,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-02-15T15:00:00+00:00",
@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 27,
+  "EOS_Progressed": 28,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -63,6 +63,11 @@
       "Time": "2023-07-02T13:16:48.9091324+00:00",
       "NumProgressed": 27,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T16:03:43.2432703+00:00",
+      "NumProgressed": 28,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -80,7 +85,7 @@
       "ID": "Trophy_02",
       "SetID": "cf5h6dl",
       "Name": "Seven Days of Endless Adventure",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
       "UsersEstimate": 7
     },
@@ -88,7 +93,7 @@
       "ID": "Trophy_03",
       "SetID": "cf5h6dl",
       "Name": "Seven Days of Endless Adventure - D\u00E9j\u00E0 Vu",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -152,7 +157,7 @@
       "ID": "Trophy_11",
       "SetID": "cf5h6dl",
       "Name": "Cabbage in the Baggage",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 5,
       "UsersEstimate": 9
     },
@@ -160,7 +165,7 @@
       "ID": "Trophy_12",
       "SetID": "cf5h6dl",
       "Name": "Just Hoverin\u0027 Along",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -216,7 +221,7 @@
       "ID": "Trophy_19",
       "SetID": "cf5h6dl",
       "Name": "Masu-ter Angler",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -248,7 +253,7 @@
       "ID": "Trophy_23",
       "SetID": "cf5h6dl",
       "Name": "It\u0027s Alive!",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -288,7 +293,7 @@
       "ID": "Trophy_28",
       "SetID": "cf5h6dl",
       "Name": "Greengrocer",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 50,
       "UsersEstimate": 8
     },
@@ -328,7 +333,7 @@
       "ID": "Trophy_33",
       "SetID": "cf5h6dl",
       "Name": "Handyman Extraordinaire",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -344,7 +349,7 @@
       "ID": "Trophy_35",
       "SetID": "cf5h6dl",
       "Name": "Go-Getter",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -408,7 +413,7 @@
       "ID": "Trophy_43",
       "SetID": "cf5h6dl",
       "Name": "River Cleaner",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -441,7 +446,7 @@
     {
       "ID": "cf5h6dl",
       "IsBase": true,
-      "Progressed": 27,
+      "Progressed": 28,
       "Completed": 0
     }
   ],
@@ -449,8 +454,8 @@
   "FirstSeenRating": "2023-04-14T13:04:33.1915334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:56.3452226+00:00",
   "LastChanged": "2023-04-14T13:04:33.1915334+00:00",
-  "LastChanged_Achievements": "2023-07-21T15:03:36.8133917+00:00",
+  "LastChanged_Achievements": "2023-07-21T16:03:43.2432697+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:18.8171206+00:00",
-  "LastUpdate_Ratings": "2023-07-21T15:01:17.2724192+00:00",
-  "LastUpdate_Achievements": "2023-07-21T15:03:36.8134358+00:00"
+  "LastUpdate_Ratings": "2023-07-21T16:01:16.7185724+00:00",
+  "LastUpdate_Achievements": "2023-07-21T16:03:43.2433101+00:00"
 }

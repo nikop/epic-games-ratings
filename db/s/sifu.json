@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 18,
   "Ranking_EOS_Completed": 82,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -5268,10 +5268,10 @@
       "Count": 367
     }
   ],
-  "EOS_Progressed": 711027,
+  "EOS_Progressed": 711036,
   "EOS_Completed": 12829,
-  "EOS_NewPlayers": 288,
-  "EOS_NewCompleters": 14,
+  "EOS_NewPlayers": 297,
+  "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
     {
@@ -13843,6 +13843,11 @@
       "Time": "2023-07-21T15:07:41.2586295+00:00",
       "NumProgressed": 711027,
       "NumCompleted": 12829
+    },
+    {
+      "Time": "2023-07-21T16:07:38.2232045+00:00",
+      "NumProgressed": 711036,
+      "NumCompleted": 12829
     }
   ],
   "TotalAchievements": 50,
@@ -14198,7 +14203,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1017
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -14253,21 +14258,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 20328,
+      "Progressed": 20337,
       "Completed": 10430
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 711027,
+      "Progressed": 711036,
       "Completed": 12829
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-21T09:59:51.7053265+00:00",
-  "LastChanged_Achievements": "2023-07-21T15:07:41.258629+00:00",
+  "LastChanged_Achievements": "2023-07-21T16:07:38.2232039+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:57.8822848+00:00",
-  "LastUpdate_Ratings": "2023-07-21T14:59:54.9565905+00:00",
-  "LastUpdate_Achievements": "2023-07-21T15:07:41.2587362+00:00"
+  "LastUpdate_Ratings": "2023-07-21T15:59:53.2746507+00:00",
+  "LastUpdate_Achievements": "2023-07-21T16:07:38.2233122+00:00"
 }

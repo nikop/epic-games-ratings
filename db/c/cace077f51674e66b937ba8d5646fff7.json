@@ -2,9 +2,9 @@
   "ID": "cace077f51674e66b937ba8d5646fff7",
   "Name": "Mokoko X",
   "ProductSlug": "mokoko-x-e2b09d",
-  "Ranking_EOS_Progress": 331,
+  "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-05-26T18:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 64,
+  "EOS_Progressed": 65,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -316,6 +316,11 @@
       "Time": "2023-07-21T15:06:23.5675855+00:00",
       "NumProgressed": 64,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T16:06:20.0354708+00:00",
+      "NumProgressed": 65,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 73,
@@ -341,7 +346,7 @@
       "ID": "BEYOND_TIME",
       "SetID": "50pdlpn",
       "Name": "Beyond Time",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 40,
       "UsersEstimate": 43
     },
@@ -349,7 +354,7 @@
       "ID": "BLIND_DATE",
       "SetID": "50pdlpn",
       "Name": "Blind Date",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 40,
       "UsersEstimate": 8
     },
@@ -357,15 +362,15 @@
       "ID": "BLITZKRIEG",
       "SetID": "50pdlpn",
       "Name": "Blitzkrieg",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "COMPLEX_MOVE",
       "SetID": "50pdlpn",
       "Name": "Complex Move",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 40,
       "UsersEstimate": 36
     },
@@ -373,9 +378,9 @@
       "ID": "CONQUEROR",
       "SetID": "50pdlpn",
       "Name": "Conqueror",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ENEMY_0",
@@ -383,13 +388,13 @@
       "Name": "Federic the Conscious Toy",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ENEMY_1",
       "SetID": "50pdlpn",
       "Name": "Norman the Useless Gyroscope",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 10,
       "UsersEstimate": 54
     },
@@ -397,7 +402,7 @@
       "ID": "ENEMY_10",
       "SetID": "50pdlpn",
       "Name": "Captain Smithers the Anchor",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
       "UsersEstimate": 21
     },
@@ -413,7 +418,7 @@
       "ID": "ENEMY_12",
       "SetID": "50pdlpn",
       "Name": "Captain Joseph the Living Bullet Hell",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
       "UsersEstimate": 19
     },
@@ -421,7 +426,7 @@
       "ID": "ENEMY_13",
       "SetID": "50pdlpn",
       "Name": "Ali Baba the Piece of Crap",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
       "UsersEstimate": 17
     },
@@ -429,7 +434,7 @@
       "ID": "ENEMY_14",
       "SetID": "50pdlpn",
       "Name": "Pillows the Hobby Plane Armada Colonel",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
       "UsersEstimate": 17
     },
@@ -477,7 +482,7 @@
       "ID": "ENEMY_2",
       "SetID": "50pdlpn",
       "Name": "Vanunu the Heartless but not Soulless Emperor",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 10,
       "UsersEstimate": 52
     },
@@ -501,7 +506,7 @@
       "ID": "ENEMY_22",
       "SetID": "50pdlpn",
       "Name": "Mahone the Professional",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -509,7 +514,7 @@
       "ID": "ENEMY_23",
       "SetID": "50pdlpn",
       "Name": "Arnold, Boom Bang Dang \u0026 Mahone",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -517,7 +522,7 @@
       "ID": "ENEMY_24",
       "SetID": "50pdlpn",
       "Name": "Thoroboros the Simple Small God",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -525,7 +530,7 @@
       "ID": "ENEMY_25",
       "SetID": "50pdlpn",
       "Name": "Albert the Wonderful Sea Creature",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -533,7 +538,7 @@
       "ID": "ENEMY_26",
       "SetID": "50pdlpn",
       "Name": "Albert the Angry Sea Star",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -541,7 +546,7 @@
       "ID": "ENEMY_27",
       "SetID": "50pdlpn",
       "Name": "Thoroboros, Albert \u0026 Albert",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -549,7 +554,7 @@
       "ID": "ENEMY_28",
       "SetID": "50pdlpn",
       "Name": "Alfonso the Caterpillar Controller",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -557,7 +562,7 @@
       "ID": "ENEMY_29",
       "SetID": "50pdlpn",
       "Name": "Chu Chao the Machinist",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -567,7 +572,7 @@
       "Name": "Federic, Norman \u0026 Vanunu",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ENEMY_30",
@@ -591,7 +596,7 @@
       "Name": "Khalil the Grim Ant",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ENEMY_5",
@@ -599,15 +604,15 @@
       "Name": "Scorpon-pink.png the PNG File",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ENEMY_6",
       "SetID": "50pdlpn",
       "Name": "Mr. Fyodorov the Imaginary Spider",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ENEMY_7",
@@ -629,7 +634,7 @@
       "ID": "ENEMY_9",
       "SetID": "50pdlpn",
       "Name": "Lizardman God the Ramu",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
       "UsersEstimate": 21
     },
@@ -903,21 +908,21 @@
       "Name": "Serial Kisser",
       "Percentage": 88,
       "XP": 40,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     }
   ],
   "AchievementSets": [
     {
       "ID": "50pdlpn",
       "IsBase": true,
-      "Progressed": 64,
+      "Progressed": 65,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-03T16:57:31.1356684+00:00",
   "FirstSeenAchievements": "2023-05-08T09:03:21.3999065+00:00",
-  "LastChanged_Achievements": "2023-07-21T15:06:23.5675848+00:00",
+  "LastChanged_Achievements": "2023-07-21T16:06:20.0354704+00:00",
   "LastUpdate_AppInfo": "2023-07-17T13:57:23.9145964+00:00",
-  "LastUpdate_Ratings": "2023-07-21T14:57:55.4099596+00:00",
-  "LastUpdate_Achievements": "2023-07-21T15:06:23.5676631+00:00"
+  "LastUpdate_Ratings": "2023-07-21T15:57:57.1102831+00:00",
+  "LastUpdate_Achievements": "2023-07-21T16:06:20.0355476+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "remnant-2",
   "Ranking_EOS_Progress": 504,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 326,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-07-25T23:00:00+00:00",
@@ -21,9 +21,411 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
+  "TotalAchievements": 50,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "Craft_Weapon_Mod_A",
+      "SetID": "bkp3b1a",
+      "Name": "Expanding Horizons",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Craft_Weapon_Mod_B",
+      "SetID": "bkp3b1a",
+      "Name": "Crafty",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Defeat_Abberations_A",
+      "SetID": "bkp3b1a",
+      "Name": "Am I Seeing This?",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Defeat_Abberations_B",
+      "SetID": "bkp3b1a",
+      "Name": "Ghost in the Machine",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Defeat_Boss_No_Damage",
+      "SetID": "bkp3b1a",
+      "Name": "Only Human",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Defeat_Corrupted_Ravager",
+      "SetID": "bkp3b1a",
+      "Name": "Chaos",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Defeat_Cube",
+      "SetID": "bkp3b1a",
+      "Name": "Gleaming the Cube",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Defeat_Faelin_Faerin",
+      "SetID": "bkp3b1a",
+      "Name": "Traitor",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Defeat_Final_Boss",
+      "SetID": "bkp3b1a",
+      "Name": "Forever is a Long Time Coming",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Defeat_Guardian",
+      "SetID": "bkp3b1a",
+      "Name": "Power Surge",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Defeat_Mantis",
+      "SetID": "bkp3b1a",
+      "Name": "The Killing Jar",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Defeat_Many_Faces",
+      "SetID": "bkp3b1a",
+      "Name": "The God Gambit",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Defeat_Nightweaver",
+      "SetID": "bkp3b1a",
+      "Name": "Dark Designs",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Defeat_Special_Enemies",
+      "SetID": "bkp3b1a",
+      "Name": "Not So Special Now",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Defeat_Tal_Ratha",
+      "SetID": "bkp3b1a",
+      "Name": "Madman\u0027s Paradise",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Defeat_World_Boss",
+      "SetID": "bkp3b1a",
+      "Name": "Quest for Survival",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Discover_Blood_Moon_Room",
+      "SetID": "bkp3b1a",
+      "Name": "Red Room",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Discover_Letos_Lab",
+      "SetID": "bkp3b1a",
+      "Name": "The Agenda",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Meet_Custodian",
+      "SetID": "bkp3b1a",
+      "Name": "Not a Janitor",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Meet_Flautist",
+      "SetID": "bkp3b1a",
+      "Name": "Familiar Face",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Meet_Meidra",
+      "SetID": "bkp3b1a",
+      "Name": "Equal Measures",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Meet_Mudtooth",
+      "SetID": "bkp3b1a",
+      "Name": "Tall Tales",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Meet_Nimue",
+      "SetID": "bkp3b1a",
+      "Name": "Blue Goddess",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Obtain_Archetype",
+      "SetID": "bkp3b1a",
+      "Name": "First of Many",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Obtain_Archetype_Dual",
+      "SetID": "bkp3b1a",
+      "Name": "Duality",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Obtain_Archetype_Level",
+      "SetID": "bkp3b1a",
+      "Name": "Top Performer",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Obtain_Archetype_Secret",
+      "SetID": "bkp3b1a",
+      "Name": "Shhh...It\u0027s a Secret",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Obtain_Blood_Moon_Item",
+      "SetID": "bkp3b1a",
+      "Name": "Bad Moon Rising",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Obtain_Boss_Alt_Reward",
+      "SetID": "bkp3b1a",
+      "Name": "Was This Supposed To Happen?",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Obtain_Boss_Weapon",
+      "SetID": "bkp3b1a",
+      "Name": "Boss\u0027n Up",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Obtain_Guns_A",
+      "SetID": "bkp3b1a",
+      "Name": "Strapped",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Obtain_Guns_B",
+      "SetID": "bkp3b1a",
+      "Name": "The Trigger",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Obtain_Melee_Weapons_A",
+      "SetID": "bkp3b1a",
+      "Name": "Edgelord",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Obtain_Melee_Weapons_B",
+      "SetID": "bkp3b1a",
+      "Name": "Cutting Edge",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Obtain_Nightweaver_Item",
+      "SetID": "bkp3b1a",
+      "Name": "The Web",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Obtain_Relics",
+      "SetID": "bkp3b1a",
+      "Name": "The Collector",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Obtain_Scrap_A",
+      "SetID": "bkp3b1a",
+      "Name": "Scrap Collector",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Obtain_Scrap_B",
+      "SetID": "bkp3b1a",
+      "Name": "Scrap Hoarder",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Obtain_Traits_A",
+      "SetID": "bkp3b1a",
+      "Name": "Not Your Average Trait",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Obtain_Traits_B",
+      "SetID": "bkp3b1a",
+      "Name": "All These Traits\uFFFD",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Obtain_Traits_C",
+      "SetID": "bkp3b1a",
+      "Name": "Proving Grounds",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Obtain_Water_Harp_Item",
+      "SetID": "bkp3b1a",
+      "Name": "Carnage in C-Minor",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Upgrade_Boss_Weapon_A",
+      "SetID": "bkp3b1a",
+      "Name": "The Ultimate Weapon",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Upgrade_Boss_Weapon_B",
+      "SetID": "bkp3b1a",
+      "Name": "Almost There",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Upgrade_Relic",
+      "SetID": "bkp3b1a",
+      "Name": "Make Some Room",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Upgrade_Standard_Weapon_A",
+      "SetID": "bkp3b1a",
+      "Name": "Good, But Could Be Better!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Upgrade_Standard_Weapon_B",
+      "SetID": "bkp3b1a",
+      "Name": "No One Should Have All That Power",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Upgrade_Traits_A",
+      "SetID": "bkp3b1a",
+      "Name": "Trait Chaser",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Upgrade_Traits_B",
+      "SetID": "bkp3b1a",
+      "Name": "Maxed Out!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Upgrade_Weapon_Mutator",
+      "SetID": "bkp3b1a",
+      "Name": "Transmutate",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "bkp3b1a",
@@ -33,8 +435,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged_Achievements": "2023-07-21T15:05:27.4635138+00:00",
+  "LastChanged_Achievements": "2023-07-21T16:05:22.6408033+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:12.3062506+00:00",
-  "LastUpdate_Ratings": "2023-07-21T15:01:10.0436073+00:00",
-  "LastUpdate_Achievements": "2023-07-21T15:05:27.4635182+00:00"
+  "LastUpdate_Ratings": "2023-07-21T16:01:10.9927319+00:00",
+  "LastUpdate_Achievements": "2023-07-21T16:05:22.640848+00:00"
 }

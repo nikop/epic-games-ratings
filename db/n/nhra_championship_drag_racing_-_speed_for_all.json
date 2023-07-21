@@ -4,7 +4,7 @@
   "ProductSlug": "nhra-championship-drag-racing-speed-for-all-690d95",
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-01-03T20:29:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 727,
+  "EOS_Progressed": 728,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -348,6 +348,11 @@
       "Time": "2023-07-21T13:10:27.1049676+00:00",
       "NumProgressed": 727,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T16:03:28.8437569+00:00",
+      "NumProgressed": 728,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 33,
@@ -359,7 +364,7 @@
       "Name": "Graduated",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "11",
@@ -455,7 +460,7 @@
       "Name": "Participation trophy",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "22",
@@ -533,9 +538,9 @@
       "ID": "30",
       "SetID": "4n5bj21",
       "Name": "Ready to Mingle",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 36
     },
     {
       "ID": "31",
@@ -605,9 +610,9 @@
       "ID": "8",
       "SetID": "4n5bj21",
       "Name": "I didn\u0027t know you where there!",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 218
     },
     {
       "ID": "9",
@@ -615,14 +620,14 @@
       "Name": "Oops, My bad",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n5bj21",
       "IsBase": true,
-      "Progressed": 727,
+      "Progressed": 728,
       "Completed": 0
     }
   ],
@@ -630,8 +635,8 @@
   "FirstSeenRating": "2023-03-31T05:56:56.4017079+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:42.4655927+00:00",
   "LastChanged": "2023-03-31T05:56:56.401708+00:00",
-  "LastChanged_Achievements": "2023-07-21T15:03:22.4267977+00:00",
+  "LastChanged_Achievements": "2023-07-21T16:03:28.8437567+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:13.9714644+00:00",
-  "LastUpdate_Ratings": "2023-07-21T14:59:11.9413841+00:00",
-  "LastUpdate_Achievements": "2023-07-21T15:03:22.4268399+00:00"
+  "LastUpdate_Ratings": "2023-07-21T15:59:11.630023+00:00",
+  "LastUpdate_Achievements": "2023-07-21T16:03:28.8437946+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 12,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 392,
+  "EOS_Progressed": 393,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 18.11,
+  "EOS_Completed_Percentage": 18.07,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -1868,6 +1868,11 @@
       "Time": "2023-07-21T14:03:13.3766015+00:00",
       "NumProgressed": 392,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2023-07-21T16:01:54.7703571+00:00",
+      "NumProgressed": 393,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 22,
@@ -1879,7 +1884,7 @@
       "Name": "Welcome!",
       "Percentage": 97,
       "XP": 35,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "LEVEL_002",
@@ -1887,7 +1892,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "LEVEL_003",
@@ -1909,9 +1914,9 @@
       "ID": "LEVEL_005",
       "SetID": "3khpmem",
       "Name": "Bridges to come and go",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 192
+      "UsersEstimate": 196
     },
     {
       "ID": "LEVEL_006",
@@ -1919,7 +1924,7 @@
       "Name": "Found an oasis",
       "Percentage": 44,
       "XP": 35,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "LEVEL_007",
@@ -1935,7 +1940,7 @@
       "Name": "Passion for sports",
       "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "LEVEL_009",
@@ -1949,17 +1954,17 @@
       "ID": "LEVEL_010",
       "SetID": "3khpmem",
       "Name": "Easy and steady climb",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 114
+      "UsersEstimate": 110
     },
     {
       "ID": "LEVEL_011",
       "SetID": "3khpmem",
       "Name": "At the heart of the city",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 102
+      "UsersEstimate": 98
     },
     {
       "ID": "LEVEL_012",
@@ -1999,7 +2004,7 @@
       "Name": "The beach is right there",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "LEVEL_017",
@@ -2007,7 +2012,7 @@
       "Name": "Commuting",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "LEVEL_018",
@@ -2015,7 +2020,7 @@
       "Name": "Le jardin magnifique",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "LEVEL_019",
@@ -2023,7 +2028,7 @@
       "Name": "Aiming for a living and human city",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "LEVEL_020",
@@ -2054,7 +2059,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 392,
+      "Progressed": 393,
       "Completed": 71
     }
   ],
@@ -2062,8 +2067,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-07-21T15:02:17.4317104+00:00",
+  "LastChanged_Achievements": "2023-07-21T16:01:54.7703566+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:43.4679377+00:00",
-  "LastUpdate_Ratings": "2023-07-21T14:58:50.8867395+00:00",
-  "LastUpdate_Achievements": "2023-07-21T15:02:17.431741+00:00"
+  "LastUpdate_Ratings": "2023-07-21T15:58:51.6553026+00:00",
+  "LastUpdate_Achievements": "2023-07-21T16:01:54.7703917+00:00"
 }

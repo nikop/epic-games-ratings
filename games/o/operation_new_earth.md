@@ -4,46 +4,46 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Good to have Allies | 39.00% | ~214 |
-| Defenses Online | 37.00% | ~203 |
+| It's Good to have Allies | 39.00% | ~215 |
+| Defenses Online | 37.00% | ~204 |
 | Facility Online | 32.00% | ~176 |
-| Corporal | 23.00% | ~126 |
+| Corporal | 23.00% | ~127 |
 | Covert Operative | 18.00% | ~99 |
-| Sergeant | 17.00% | ~93 |
+| Sergeant | 17.00% | ~94 |
 | Lieutenant | 14.00% | ~77 |
-| Stocking Up | 13.00% | ~71 |
-| On Target | 13.00% | ~71 |
+| Stocking Up | 13.00% | ~72 |
+| On Target | 13.00% | ~72 |
 | Getting Deployment | 12.00% | ~66 |
-| Keeping Busy | 11.00% | ~60 |
-| Infantry Reporting | 11.00% | ~60 |
-| Fighting for Survival | 9.00% | ~49 |
-| Silver Competitor | 9.00% | ~49 |
+| Keeping Busy | 11.00% | ~61 |
+| Infantry Reporting | 11.00% | ~61 |
+| Fighting for Survival | 9.00% | ~50 |
+| Silver Competitor | 9.00% | ~50 |
 | Captain | 8.00% | ~44 |
 | Factory Expansion | 8.00% | ~44 |
-| Exterminator | 7.00% | ~38 |
+| Exterminator | 7.00% | ~39 |
 | Brothers in Arms | 6.00% | ~33 |
 | Know The Enemy | 4.00% | ~22 |
 | Player Betrayer | 4.00% | ~22 |
 | Silver Achiever | 4.00% | ~22 |
 | Moving On Up | 4.00% | ~22 |
-| Gold Achiever | 3.00% | ~16 |
-| Advanced Warfare | 3.00% | ~16 |
-| Major | 3.00% | ~16 |
+| Gold Achiever | 3.00% | ~17 |
+| Advanced Warfare | 3.00% | ~17 |
+| Major | 3.00% | ~17 |
 | Colonel | 2.00% | ~11 |
 | Resourceful | 2.00% | ~11 |
 | Battle Ready | 2.00% | ~11 |
 | Control the Skies | 2.00% | ~11 |
-| General | 1.00% | ~5 |
-| Seek & Destroy | 1.00% | ~5 |
-| Titan Tanks | 1.00% | ~5 |
-| Shock Troops | 1.00% | ~5 |
+| General | 1.00% | ~6 |
+| Seek & Destroy | 1.00% | ~6 |
+| Titan Tanks | 1.00% | ~6 |
+| Shock Troops | 1.00% | ~6 |
 | Jet Troops | 0.90% | ~5 |
 | Advanced Interceptors | 0.70% | ~4 |
 | Gold Competitor | 0.00% | ~0 |
 | Platinum Achiever | 0.00% | ~0 |
 | Platinum Competitor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 549 (Ranked 211)  
+Progressed: 551 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,4 +86,4 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-18 | 495 | 0 |
 | 2023-07-19 | 513 | 0 |
 | 2023-07-20 | 538 | 0 |
-| 2023-07-21 | 549 | 0 |
+| 2023-07-21 | 551 | 0 |

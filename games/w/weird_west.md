@@ -7,13 +7,13 @@ Number of Ratings: 125  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Unforgiven | 88.00% | ~1,500 |
-| Self-Improvement | 72.00% | ~1,227 |
+| Self-Improvement | 72.00% | ~1,228 |
 | Perky | 65.00% | ~1,108 |
-| Let’s Ride | 60.00% | ~1,022 |
-| Welcome to the Weird West | 57.00% | ~971 |
-| Dead or Alive | 56.00% | ~954 |
-| Full House | 37.00% | ~630 |
-| Off the Trail | 34.00% | ~579 |
+| Let’s Ride | 60.00% | ~1,023 |
+| Welcome to the Weird West | 57.00% | ~972 |
+| Dead or Alive | 55.00% | ~938 |
+| Full House | 37.00% | ~631 |
+| Off the Trail | 34.00% | ~580 |
 | Justice Served | 29.00% | ~494 |
 | Chain Reaction | 27.00% | ~460 |
 | Through Their Eyes | 26.00% | ~443 |
@@ -28,12 +28,12 @@ Number of Ratings: 125  (23.09.2022)
 | Winds of War | 16.00% | ~273 |
 | Dog Days | 13.00% | ~222 |
 | Workers' Rights | 13.00% | ~222 |
-| Elusive Prey | 12.00% | ~204 |
-| Out on the Ebb Tide | 12.00% | ~204 |
-| Power Behind the Pulpit | 12.00% | ~204 |
-| Something Wicked This Way Comes… | 12.00% | ~204 |
-| There is Hope | 12.00% | ~204 |
-| Turning the Tables | 12.00% | ~204 |
+| Elusive Prey | 12.00% | ~205 |
+| Out on the Ebb Tide | 12.00% | ~205 |
+| Power Behind the Pulpit | 12.00% | ~205 |
+| Something Wicked This Way Comes… | 12.00% | ~205 |
+| There is Hope | 12.00% | ~205 |
+| Turning the Tables | 12.00% | ~205 |
 | The Philosopher’s Stone | 10.00% | ~170 |
 | Loyalty to the Pack | 9.00% | ~153 |
 | Eternity Can Wait | 9.00% | ~153 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.40% | ~7 |
 | Winter Has Come | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,704 (Ranked 168)  
+Progressed: 1,705 (Ranked 168)  
 Completed: 3 (0.18%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 3 (0.18%) (Ranked 169)
 | 2023-07-17 | 1,693 | 3 |
 | 2023-07-18 | 1,696 | 3 |
 | 2023-07-20 | 1,699 | 3 |
-| 2023-07-21 | 1,704 | 3 |
+| 2023-07-21 | 1,705 | 3 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 477)  
 Sum: 24 (Ranked 482)  

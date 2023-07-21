@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3479,
+  "EOS_Progressed": 3480,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -763,6 +763,11 @@
       "Time": "2023-07-21T15:03:48.6853674+00:00",
       "NumProgressed": 3479,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T16:03:55.3685104+00:00",
+      "NumProgressed": 3480,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -814,7 +819,7 @@
       "Name": "Each Sold Separately",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1287
+      "UsersEstimate": 1288
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -878,7 +883,7 @@
       "Name": "You Rich Now!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "HACK_YOUR_FIRST_OBJECT",
@@ -886,7 +891,7 @@
       "Name": "We\u0027re In",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1114
     },
     {
       "ID": "HOTWIRE_FIRST_OBJECT",
@@ -958,7 +963,7 @@
       "Name": "Don\u0027t Get Cocky",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     },
     {
       "ID": "WIN_VAULTLANDER_BATTLE_CLAPTRAP",
@@ -974,14 +979,14 @@
       "Name": "Mas, Por Favor",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     }
   ],
   "AchievementSets": [
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3479,
+      "Progressed": 3480,
       "Completed": 0
     }
   ],
@@ -989,8 +994,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-07-21T15:03:48.6853669+00:00",
+  "LastChanged_Achievements": "2023-07-21T16:03:55.36851+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:23.0199972+00:00",
-  "LastUpdate_Ratings": "2023-07-21T15:00:18.3830451+00:00",
-  "LastUpdate_Achievements": "2023-07-21T15:03:48.6853935+00:00"
+  "LastUpdate_Ratings": "2023-07-21T16:00:21.7142143+00:00",
+  "LastUpdate_Achievements": "2023-07-21T16:03:55.3685334+00:00"
 }

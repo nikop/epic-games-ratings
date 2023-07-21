@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 259,
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewPlayers": 70,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1263,7 +1263,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 19079,
+  "EOS_Progressed": 19081,
   "EOS_Completed": 39,
   "EOS_NewPlayers": 624,
   "EOS_NewCompleters": 3,
@@ -10933,6 +10933,11 @@
       "Time": "2023-07-21T15:02:15.4376944+00:00",
       "NumProgressed": 19079,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-07-21T16:01:52.6583056+00:00",
+      "NumProgressed": 19081,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 22,
@@ -11048,7 +11053,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3434
+      "UsersEstimate": 3435
     },
     {
       "ID": "1029",
@@ -11104,7 +11109,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2480
+      "UsersEstimate": 2481
     },
     {
       "ID": "1036",
@@ -11119,15 +11124,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 19079,
+      "Progressed": 19081,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-07-14T00:01:13.0699193+00:00",
-  "LastChanged_Achievements": "2023-07-21T15:02:15.4376938+00:00",
+  "LastChanged_Achievements": "2023-07-21T16:01:52.6583051+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:18.6685717+00:00",
-  "LastUpdate_Ratings": "2023-07-21T15:01:15.2469717+00:00",
-  "LastUpdate_Achievements": "2023-07-21T15:02:15.4377998+00:00"
+  "LastUpdate_Ratings": "2023-07-21T16:01:15.8227353+00:00",
+  "LastUpdate_Achievements": "2023-07-21T16:01:52.6583965+00:00"
 }

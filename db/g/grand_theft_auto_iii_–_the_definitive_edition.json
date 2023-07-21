@@ -2,12 +2,12 @@
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
-  "Ranking_Rating": 866,
+  "Ranking_Rating": 867,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -382,9 +382,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7026,
+  "EOS_Progressed": 7027,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -5787,6 +5787,11 @@
       "Time": "2023-07-21T15:05:40.1366472+00:00",
       "NumProgressed": 7026,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-07-21T16:05:35.5233411+00:00",
+      "NumProgressed": 7027,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 29,
@@ -5870,7 +5875,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 1967
+      "UsersEstimate": 1968
     },
     {
       "ID": "ACH11",
@@ -5902,7 +5907,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1194
+      "UsersEstimate": 1195
     },
     {
       "ID": "ACH15",
@@ -5918,7 +5923,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1756
+      "UsersEstimate": 1757
     },
     {
       "ID": "ACH17",
@@ -5926,7 +5931,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 913
+      "UsersEstimate": 914
     },
     {
       "ID": "ACH18",
@@ -6029,7 +6034,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7026,
+      "Progressed": 7027,
       "Completed": 41
     }
   ],
@@ -6037,8 +6042,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-07-14T20:58:27.169757+00:00",
-  "LastChanged_Achievements": "2023-07-21T15:05:40.1366466+00:00",
+  "LastChanged_Achievements": "2023-07-21T16:05:35.5233406+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:27.5857336+00:00",
-  "LastUpdate_Ratings": "2023-07-21T14:58:38.562923+00:00",
-  "LastUpdate_Achievements": "2023-07-21T15:05:40.1367076+00:00"
+  "LastUpdate_Ratings": "2023-07-21T15:58:37.3971465+00:00",
+  "LastUpdate_Achievements": "2023-07-21T16:05:35.523403+00:00"
 }

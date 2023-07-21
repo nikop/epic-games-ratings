@@ -365,9 +365,9 @@
       "ID": "ach_1",
       "SetID": "392n4e7",
       "Name": "START",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 45,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ach_10",
@@ -453,9 +453,9 @@
       "ID": "ach_2",
       "SetID": "392n4e7",
       "Name": "Ram Corporal",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 30,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ach_20",
@@ -485,17 +485,17 @@
       "ID": "ach_3",
       "SetID": "392n4e7",
       "Name": "Ram Sergeant",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ach_4",
       "SetID": "392n4e7",
       "Name": "Ram Staff Sergeant",
-      "Percentage": 60,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ach_5",
@@ -548,8 +548,8 @@
   ],
   "FirstSeen": "2023-06-10T14:58:14.6297429+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:08.6528344+00:00",
-  "LastChanged_Achievements": "2023-07-21T15:07:35.5035283+00:00",
+  "LastChanged_Achievements": "2023-07-21T16:07:32.1154707+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:42.611651+00:00",
-  "LastUpdate_Ratings": "2023-07-21T14:58:50.4284507+00:00",
-  "LastUpdate_Achievements": "2023-07-21T15:07:35.5035514+00:00"
+  "LastUpdate_Ratings": "2023-07-21T15:58:51.2571173+00:00",
+  "LastUpdate_Achievements": "2023-07-21T16:07:32.1154913+00:00"
 }

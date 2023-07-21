@@ -1557,9 +1557,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 12985,
+  "EOS_Progressed": 12987,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8217,6 +8217,11 @@
       "Time": "2023-07-21T15:05:54.4644644+00:00",
       "NumProgressed": 12985,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-21T16:05:50.1823907+00:00",
+      "NumProgressed": 12987,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -8674,9 +8679,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_GLORIOUS",
       "SetID": "7l38kb8",
       "Name": "Glorious",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GOOD",
@@ -8690,9 +8695,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_GREAT",
       "SetID": "7l38kb8",
       "Name": "Great",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_HOLY",
@@ -8770,17 +8775,17 @@
       "ID": "ACHIEVEMENT_COGNOMEN_MAGNIFICENT",
       "SetID": "7l38kb8",
       "Name": "Magnificent",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MASON",
       "SetID": "9201eeb",
       "Name": "Mason",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MIGHTY",
@@ -8866,9 +8871,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
       "SetID": "9201eeb",
       "Name": "Subjugator",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_VALIANT",
@@ -8922,9 +8927,9 @@
       "ID": "ACHIEVEMENT_CULTURE_DEVELOPING",
       "SetID": "9201eeb",
       "Name": "Developing Cities",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_CULTURE_LEGENDARY",
@@ -8938,9 +8943,9 @@
       "ID": "ACHIEVEMENT_CULTURE_STRONG",
       "SetID": "9201eeb",
       "Name": "Strong Cities",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_DAMASCUS_VIA_RECTA_SOUK",
@@ -9090,9 +9095,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_LANDOWNERS",
       "SetID": "7l38kb8",
       "Name": "Landowners",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_PATRONS",
@@ -9122,9 +9127,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_STATESMEN",
       "SetID": "7l38kb8",
       "Name": "Statesmen",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_TRADERS",
@@ -9146,9 +9151,9 @@
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
       "SetID": "9201eeb",
       "Name": "Furious Family",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_FERTILE_CRESCENT",
@@ -9570,9 +9575,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_COLOSSUS",
       "SetID": "9201eeb",
       "Name": "Colossus",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_GREAT_ZIGGURAT",
@@ -9922,9 +9927,9 @@
       "ID": "ACHIEVEMENT_PLAY_1V1",
       "SetID": "9201eeb",
       "Name": "Play a 1-v-1 Game",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_PLAY_FFA",
@@ -9962,9 +9967,9 @@
       "ID": "ACHIEVEMENT_PLAY_NETWORK",
       "SetID": "9201eeb",
       "Name": "Play a Network Game",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_PLAY_PLAYBYCLOUD",
@@ -10018,9 +10023,9 @@
       "ID": "ACHIEVEMENT_RELIGION_MANICHAEISM",
       "SetID": "7l38kb8",
       "Name": "Manichaeism",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ASSYRIA",
@@ -10146,9 +10151,9 @@
       "ID": "ACHIEVEMENT_STAT_TEN_LANDMARKS_NAME",
       "SetID": "9201eeb",
       "Name": "Naming Landmarks",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_LEADERS",
@@ -10306,9 +10311,9 @@
       "ID": "ACHIEVEMENT_UNIT_PHALANGITE",
       "SetID": "9201eeb",
       "Name": "Phalangite",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_UNIT_SIEGE_TOWER",
@@ -10362,9 +10367,9 @@
       "ID": "ACHIEVEMENT_VICTORY_DOUBLE",
       "SetID": "7l38kb8",
       "Name": "Double Victory",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_NO_CHARACTERS",
@@ -10538,9 +10543,9 @@
       "ID": "ACHIEVEMENT_SACRED_PROFANE_GREAT_MAGE",
       "SetID": "9201eeb",
       "Name": "The Great Mage",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_MYTHICAL_BEAST",
@@ -10595,21 +10600,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 12985,
+      "Progressed": 12987,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 12985,
+      "Progressed": 12987,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-07-21T11:58:13.3817641+00:00",
-  "LastChanged_Achievements": "2023-07-21T15:05:54.4644639+00:00",
+  "LastChanged_Achievements": "2023-07-21T16:05:50.18239+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:33.7515284+00:00",
-  "LastUpdate_Ratings": "2023-07-21T14:58:42.7206257+00:00",
-  "LastUpdate_Achievements": "2023-07-21T15:05:54.4654135+00:00"
+  "LastUpdate_Ratings": "2023-07-21T15:58:42.1987044+00:00",
+  "LastUpdate_Achievements": "2023-07-21T16:05:50.1836362+00:00"
 }

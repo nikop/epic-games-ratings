@@ -5194,10 +5194,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 39595,
       "NumberOfAwardsMax": 21154
+    },
+    {
+      "Time": "2023-07-21T15:58:09.7474147+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 39598,
+      "NumberOfAwardsMax": 21154
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 39595,
+  "NumberOfAwards": 39598,
   "NumberOfAwardsMax": 21154,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5235,7 +5241,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 903
+      "Count": 906
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5274,9 +5280,9 @@
       "Count": 560
     }
   ],
-  "EOS_Progressed": 288183,
+  "EOS_Progressed": 288186,
   "EOS_Completed": 432,
-  "EOS_NewPlayers": 740,
+  "EOS_NewPlayers": 737,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -15139,6 +15145,11 @@
       "Time": "2023-07-21T14:05:03.6695725+00:00",
       "NumProgressed": 288183,
       "NumCompleted": 432
+    },
+    {
+      "Time": "2023-07-21T16:04:51.6317679+00:00",
+      "NumProgressed": 288186,
+      "NumCompleted": 432
     }
   ],
   "TotalAchievements": 45,
@@ -15206,7 +15217,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 25936
+      "UsersEstimate": 25937
     },
     {
       "ID": "PFA_17",
@@ -15238,7 +15249,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8645
+      "UsersEstimate": 8646
     },
     {
       "ID": "PFA_20",
@@ -15270,7 +15281,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 25936
+      "UsersEstimate": 25937
     },
     {
       "ID": "PFA_24",
@@ -15302,7 +15313,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8645
+      "UsersEstimate": 8646
     },
     {
       "ID": "PFA_28",
@@ -15334,7 +15345,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 25936
+      "UsersEstimate": 25937
     },
     {
       "ID": "PFA_31",
@@ -15350,7 +15361,7 @@
       "Name": "Room with a View",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8645
+      "UsersEstimate": 8646
     },
     {
       "ID": "PFA_33",
@@ -15398,7 +15409,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 8645
+      "UsersEstimate": 8646
     },
     {
       "ID": "PFA_39",
@@ -15414,7 +15425,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8645
+      "UsersEstimate": 8646
     },
     {
       "ID": "PFA_40",
@@ -15470,7 +15481,7 @@
       "Name": "The Wise Owl",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8645
+      "UsersEstimate": 8646
     },
     {
       "ID": "PFA_6",
@@ -15486,7 +15497,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 28818
+      "UsersEstimate": 28819
     },
     {
       "ID": "PFA_8",
@@ -15494,7 +15505,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 25936
+      "UsersEstimate": 25937
     },
     {
       "ID": "PFA_9",
@@ -15509,16 +15520,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 288183,
+      "Progressed": 288186,
       "Completed": 432
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-07-21T13:58:07.4194075+00:00",
-  "LastChanged_Achievements": "2023-07-21T15:04:53.9884802+00:00",
+  "LastChanged": "2023-07-21T15:58:09.7474142+00:00",
+  "LastChanged_Achievements": "2023-07-21T16:04:51.6317674+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:19.3801839+00:00",
-  "LastUpdate_Ratings": "2023-07-21T14:58:09.5526571+00:00",
-  "LastUpdate_Achievements": "2023-07-21T15:04:53.9885681+00:00"
+  "LastUpdate_Ratings": "2023-07-21T15:58:09.7474155+00:00",
+  "LastUpdate_Achievements": "2023-07-21T16:04:51.6318608+00:00"
 }
