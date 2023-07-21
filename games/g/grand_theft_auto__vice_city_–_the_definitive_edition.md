@@ -31,9 +31,9 @@ Rating: 4.55 (Ranked 482)
 | Don't Need Roads | 3.00% | ~272 |
 | One is Better Than Two | 2.00% | ~181 |
 | Take the Cannoli | 2.00% | ~181 |
+| Chopper’d Up | 2.00% | ~181 |
 | City Sleuth | 2.00% | ~181 |
 | Daredevil | 1.00% | ~90 |
-| Chopper’d Up | 1.00% | ~90 |
 | Born in the 80’s | 0.90% | ~81 |
 | Keepie-Uppy Okie Dokie | 0.90% | ~81 |
 | I'm Famous! | 0.90% | ~81 |

@@ -8,9 +8,9 @@
 | The Purpose Of Betrayal | 20.00% | ~705 |
 | Rightfully Yours | 17.00% | ~599 |
 | Like Swatting Flies | 16.00% | ~564 |
-| Moment Of Perfection | 10.00% | ~352 |
-| Even While Weakened | 10.00% | ~352 |
-| Balance Incarnate | 10.00% | ~352 |
+| Moment Of Perfection | 10.00% | ~353 |
+| Even While Weakened | 10.00% | ~353 |
+| Balance Incarnate | 10.00% | ~353 |
 | Purpose Lost | 7.00% | ~247 |
 | A Scarlet Mark | 7.00% | ~247 |
 | Hot Potato | 5.00% | ~176 |
@@ -18,12 +18,12 @@
 | Nothing To Lose | 4.00% | ~141 |
 | Dreams Of Perfection | 3.00% | ~106 |
 | Untouchable Legend | 3.00% | ~106 |
-| Loyal Companion | 2.00% | ~70 |
-| Atta Boy! | 2.00% | ~70 |
-| Not Afraid Of The Dark | 2.00% | ~70 |
-| Emperor's Education | 2.00% | ~70 |
-| Slam The Brakes! | 2.00% | ~70 |
-| Ashes Of Belief | 2.00% | ~70 |
+| Loyal Companion | 2.00% | ~71 |
+| Atta Boy! | 2.00% | ~71 |
+| Not Afraid Of The Dark | 2.00% | ~71 |
+| Emperor's Education | 2.00% | ~71 |
+| Slam The Brakes! | 2.00% | ~71 |
+| Ashes Of Belief | 2.00% | ~71 |
 | Buried Memories | 1.00% | ~35 |
 | Anything For The Throne | 0.90% | ~32 |
 | One Track Mind | 0.80% | ~28 |
@@ -40,7 +40,7 @@
 | Full Might Of The Armada | 0.10% | ~4 |
 | The Many Fates Of The Many | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,525 (Ranked 144)  
+Progressed: 3,526 (Ranked 144)  
 Completed: -28 (-0.79%) (Ranked 2,932)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: -28 (-0.79%) (Ranked 2,932)
 | 2023-07-14 | 3,520 | -28 |
 | 2023-07-18 | 3,521 | -28 |
 | 2023-07-20 | 3,522 | -28 |
-| 2023-07-21 | 3,525 | -28 |
+| 2023-07-21 | 3,526 | -28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

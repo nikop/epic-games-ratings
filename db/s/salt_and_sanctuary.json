@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 201,
   "Ranking_EOS_Progress": 28,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 63,
+  "Ranking_EOS_NewPlayers": 64,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
@@ -2397,9 +2397,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 528269,
+  "EOS_Progressed": 528270,
   "EOS_Completed": 1484,
-  "EOS_NewPlayers": 677,
+  "EOS_NewPlayers": 675,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -12207,6 +12207,11 @@
       "Time": "2023-07-21T21:02:31.6848478+00:00",
       "NumProgressed": 528269,
       "NumCompleted": 1484
+    },
+    {
+      "Time": "2023-07-21T22:02:38.410797+00:00",
+      "NumProgressed": 528270,
+      "NumCompleted": 1484
     }
   ],
   "TotalAchievements": 37,
@@ -12274,7 +12279,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 438463
+      "UsersEstimate": 438464
     },
     {
       "ID": "HONED",
@@ -12322,7 +12327,7 @@
       "Name": "The Alkymancery",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 26413
+      "UsersEstimate": 26414
     },
     {
       "ID": "THE_BANQUET",
@@ -12394,7 +12399,7 @@
       "Name": "The Iron Ones",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 95088
+      "UsersEstimate": 95089
     },
     {
       "ID": "THE_KEEP",
@@ -12410,7 +12415,7 @@
       "Name": "The Lake",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 26413
+      "UsersEstimate": 26414
     },
     {
       "ID": "THE_MIRE",
@@ -12434,7 +12439,7 @@
       "Name": "The Pitchwoods",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 26413
+      "UsersEstimate": 26414
     },
     {
       "ID": "THE_RED_HALL",
@@ -12474,7 +12479,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 338092
+      "UsersEstimate": 338093
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -12513,15 +12518,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 528269,
+      "Progressed": 528270,
       "Completed": 1484
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-07-19T07:00:14.8583746+00:00",
-  "LastChanged_Achievements": "2023-07-21T21:02:31.6848426+00:00",
+  "LastChanged_Achievements": "2023-07-21T22:02:38.4107964+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:23.4888878+00:00",
-  "LastUpdate_Ratings": "2023-07-21T21:00:49.2771779+00:00",
-  "LastUpdate_Achievements": "2023-07-21T21:02:31.6849443+00:00"
+  "LastUpdate_Ratings": "2023-07-21T22:00:54.5021587+00:00",
+  "LastUpdate_Achievements": "2023-07-21T22:02:38.4109081+00:00"
 }

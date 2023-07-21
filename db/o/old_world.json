@@ -1559,7 +1559,7 @@
   ],
   "EOS_Progressed": 12995,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8406,49 +8406,49 @@
       "ID": "ACHIEVEMENT_CARTHAGE_1_BRONZE",
       "SetID": "9201eeb",
       "Name": "Bronze Victory (Carthage 1)",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_1_EPIC",
       "SetID": "9201eeb",
       "Name": "Epic Victory (Carthage 1)",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_1_GOLD",
       "SetID": "9201eeb",
       "Name": "Gold Victory (Carthage 1)",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_1_SILVER",
       "SetID": "9201eeb",
       "Name": "Silver Victory (Carthage 1)",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_2",
       "SetID": "9201eeb",
       "Name": "Carthage - Riches and Influence",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_2_BRONZE",
       "SetID": "9201eeb",
       "Name": "Bronze Victory (Carthage 2)",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_2_EPIC",
@@ -9070,9 +9070,9 @@
       "ID": "ACHIEVEMENT_EVENTLEVEL_HIGH",
       "SetID": "9201eeb",
       "Name": "Event Level High",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_ARTISANS",
@@ -10628,8 +10628,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-07-21T11:58:13.3817641+00:00",
-  "LastChanged_Achievements": "2023-07-21T21:06:06.7856649+00:00",
+  "LastChanged_Achievements": "2023-07-21T22:06:29.8653091+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:33.7515284+00:00",
-  "LastUpdate_Ratings": "2023-07-21T20:58:49.6653287+00:00",
-  "LastUpdate_Achievements": "2023-07-21T21:06:06.7863903+00:00"
+  "LastUpdate_Ratings": "2023-07-21T21:58:55.2599699+00:00",
+  "LastUpdate_Achievements": "2023-07-21T22:06:29.86639+00:00"
 }

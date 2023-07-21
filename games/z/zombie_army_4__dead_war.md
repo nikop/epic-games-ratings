@@ -6,22 +6,22 @@ Number of Ratings: 743  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 69.00% | ~29,740 |
-| Say goodbye, creep! | 66.00% | ~28,447 |
-| Blood splattered | 65.00% | ~28,016 |
-| Choo choo! | 62.00% | ~26,723 |
-| Groovy | 61.00% | ~26,292 |
-| Cleanup on aisle 4! | 57.00% | ~24,568 |
-| Gold | 50.00% | ~21,551 |
-| The boat can leave now...tell the crew | 49.00% | ~21,120 |
-| Stand back boy! | 47.00% | ~20,258 |
-| Give me something to shoot! | 46.00% | ~19,827 |
-| Weird science | 44.00% | ~18,965 |
-| Chain reaction | 44.00% | ~18,965 |
-| What did you say, Blain? | 42.00% | ~18,103 |
-| Look mummy! A shark! | 41.00% | ~17,672 |
-| In the dark dark woods... | 39.00% | ~16,810 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,379 |
+| Shoot it, man! Shoot it in the head! | 69.00% | ~29,742 |
+| Say goodbye, creep! | 66.00% | ~28,449 |
+| Blood splattered | 65.00% | ~28,018 |
+| Choo choo! | 62.00% | ~26,724 |
+| Groovy | 61.00% | ~26,293 |
+| Cleanup on aisle 4! | 57.00% | ~24,569 |
+| Gold | 50.00% | ~21,552 |
+| The boat can leave now...tell the crew | 49.00% | ~21,121 |
+| Stand back boy! | 47.00% | ~20,259 |
+| Give me something to shoot! | 46.00% | ~19,828 |
+| Weird science | 44.00% | ~18,966 |
+| Chain reaction | 44.00% | ~18,966 |
+| What did you say, Blain? | 42.00% | ~18,104 |
+| Look mummy! A shark! | 41.00% | ~17,673 |
+| In the dark dark woods... | 39.00% | ~16,811 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,380 |
 | Double tap | 37.00% | ~15,948 |
 | All of this has happened before… | 36.00% | ~15,517 |
 | Cranial blowout! | 36.00% | ~15,517 |
@@ -35,16 +35,16 @@ Number of Ratings: 743  (23.09.2022)
 | I never liked them anyway | 30.00% | ~12,931 |
 | Is it over? | 28.00% | ~12,069 |
 | Got your back | 27.00% | ~11,638 |
-| Gore soaked | 24.00% | ~10,344 |
-| Shock therapy | 22.00% | ~9,482 |
-| Leave the limbs you've lost | 22.00% | ~9,482 |
-| Everyone's a mad scientist, life is the lab | 18.00% | ~7,758 |
-| Take them down screaming | 18.00% | ~7,758 |
-| Bad Blood | 17.00% | ~7,327 |
-| Weapons expert | 17.00% | ~7,327 |
-| The bigger they are... | 15.00% | ~6,465 |
-| I'm going deeper underground | 14.00% | ~6,034 |
-| Well equipped | 13.00% | ~5,603 |
+| Gore soaked | 24.00% | ~10,345 |
+| Shock therapy | 22.00% | ~9,483 |
+| Leave the limbs you've lost | 22.00% | ~9,483 |
+| Everyone's a mad scientist, life is the lab | 18.00% | ~7,759 |
+| Take them down screaming | 18.00% | ~7,759 |
+| Bad Blood | 17.00% | ~7,328 |
+| Weapons expert | 17.00% | ~7,328 |
+| The bigger they are... | 15.00% | ~6,466 |
+| I'm going deeper underground | 14.00% | ~6,035 |
+| Well equipped | 13.00% | ~5,604 |
 | Into the deep | 12.00% | ~5,172 |
 | Damnedbusters | 9.00% | ~3,879 |
 | I can do anything I want. I got guns | 8.00% | ~3,448 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~431 |
 | None more hard | 0.50% | ~216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,102 (Ranked 89)  
+Progressed: 43,104 (Ranked 89)  
 Completed: 25 (0.06%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 25 (0.06%) (Ranked 198)
 | 2023-07-18 | 43,088 | 25 |
 | 2023-07-19 | 43,092 | 25 |
 | 2023-07-20 | 43,098 | 25 |
-| 2023-07-21 | 43,102 | 25 |
+| 2023-07-21 | 43,104 | 25 |
 ## Awards
 Max (Great Boss Battles): 804  (Ranked 152)  
 Sum: 2,448 (Ranked 173)  

@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 57.00% | ~135 |
+| In the Black | 57.00% | ~136 |
 | Starting Skyward | 51.00% | ~121 |
-| Grime is Not Good | 44.00% | ~104 |
-| Campaign Launch | 39.00% | ~92 |
+| Grime is Not Good | 44.00% | ~105 |
+| Campaign Launch | 39.00% | ~93 |
 | Floor Galore | 38.00% | ~90 |
 | Dinner Dash | 37.00% | ~88 |
-| Need a Consult | 35.00% | ~83 |
+| Need a Consult | 34.00% | ~81 |
 | It's Technical | 34.00% | ~81 |
-| Upgrade Unlock | 33.00% | ~78 |
+| Upgrade Unlock | 33.00% | ~79 |
 | Delegate Maintenance | 32.00% | ~76 |
-| Proper Walls | 31.00% | ~73 |
-| Destination Destiny | 28.00% | ~66 |
-| Happy Tenants | 25.00% | ~59 |
+| Proper Walls | 31.00% | ~74 |
+| Destination Destiny | 28.00% | ~67 |
+| Happy Tenants | 25.00% | ~60 |
 | Your Prestige is Rising | 24.00% | ~57 |
 | Smooth Service | 24.00% | ~57 |
 | Potent Potables | 23.00% | ~55 |
 | Retail Revenue | 23.00% | ~55 |
-| Lux Living | 22.00% | ~52 |
 | Leveled Up Shops | 22.00% | ~52 |
+| Lux Living | 21.00% | ~50 |
 | People Mover | 21.00% | ~50 |
-| Don't Feel a Loan | 20.00% | ~47 |
-| Emporium Empire | 20.00% | ~47 |
-| Get Electrified | 20.00% | ~47 |
+| Don't Feel a Loan | 20.00% | ~48 |
+| Emporium Empire | 20.00% | ~48 |
+| Get Electrified | 20.00% | ~48 |
 | Artfully Done | 19.00% | ~45 |
 | Rehab Expert | 19.00% | ~45 |
 | Tasty Profits | 19.00% | ~45 |
-| We Don't Need No Education | 18.00% | ~43 |
+| We Don't Need No Education | 19.00% | ~45 |
 | Under One Roof | 16.00% | ~38 |
 | Established Fame | 16.00% | ~38 |
 | Cashflow Chief | 16.00% | ~38 |
@@ -40,7 +40,7 @@
 | Thrilled Tenants | 14.00% | ~33 |
 | Smooth Operator | 13.00% | ~31 |
 | Swimming in Surplus | 13.00% | ~31 |
-| 28 Days Later | 12.00% | ~28 |
+| 28 Days Later | 12.00% | ~29 |
 | Master of Puppets | 11.00% | ~26 |
 | Plaza Plan | 9.00% | ~21 |
 | Refined Palates | 9.00% | ~21 |
@@ -63,8 +63,8 @@
 | Penthouse in the Sky | 5.00% | ~12 |
 | Office Bigwigs | 5.00% | ~12 |
 | Golden Opportunity | 5.00% | ~12 |
-| Three of a Kind | 4.00% | ~9 |
-| Sandbagger | 4.00% | ~9 |
+| Three of a Kind | 4.00% | ~10 |
+| Sandbagger | 4.00% | ~10 |
 | Decorator's Touch | 3.00% | ~7 |
 | Apartment Awareness | 3.00% | ~7 |
 | Loft Life | 3.00% | ~7 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 237 (Ranked 257)  
+Progressed: 238 (Ranked 257)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-06 | 230 | 0 |
 | 2023-07-16 | 231 | 0 |
 | 2023-07-20 | 232 | 0 |
-| 2023-07-21 | 237 | 0 |
+| 2023-07-21 | 238 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

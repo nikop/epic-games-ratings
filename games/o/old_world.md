@@ -15,6 +15,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate in Babylon | 0.10% | ~13 |
 | Blade of the Monkey | 0.10% | ~13 |
 | Carthage - Ox Hide | 0.10% | ~13 |
+| Bronze Victory (Carthage 1) | 0.10% | ~13 |
+| Epic Victory (Carthage 1) | 0.10% | ~13 |
+| Gold Victory (Carthage 1) | 0.10% | ~13 |
+| Silver Victory (Carthage 1) | 0.10% | ~13 |
+| Carthage - Riches and Influence | 0.10% | ~13 |
+| Bronze Victory (Carthage 2) | 0.10% | ~13 |
 | Cleopatra's Love | 0.10% | ~13 |
 | Able | 0.10% | ~13 |
 | Ambitious | 0.10% | ~13 |
@@ -62,6 +68,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just Difficulty | 0.10% | ~13 |
 | Noble Difficulty | 0.10% | ~13 |
 | Strong Difficulty | 0.10% | ~13 |
+| Event Level High | 0.10% | ~13 |
 | Artisans | 0.10% | ~13 |
 | Champions | 0.10% | ~13 |
 | Clerics | 0.10% | ~13 |
@@ -175,12 +182,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Battle of Opis | 0.00% | ~0 |
 | Before the Mongol Horde | 0.00% | ~0 |
 | Hagia Sophia in Byzantion | 0.00% | ~0 |
-| Bronze Victory (Carthage 1) | 0.00% | ~0 |
-| Epic Victory (Carthage 1) | 0.00% | ~0 |
-| Gold Victory (Carthage 1) | 0.00% | ~0 |
-| Silver Victory (Carthage 1) | 0.00% | ~0 |
-| Carthage - Riches and Influence | 0.00% | ~0 |
-| Bronze Victory (Carthage 2) | 0.00% | ~0 |
 | Epic Victory (Carthage 2) | 0.00% | ~0 |
 | Gold Victory (Carthage 2) | 0.00% | ~0 |
 | Silver Victory (Carthage 2) | 0.00% | ~0 |
@@ -211,7 +212,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Elephant in Elephantine | 0.00% | ~0 |
 | Ethnic Diversity | 0.00% | ~0 |
 | Et tu Brutus? | 0.00% | ~0 |
-| Event Level High | 0.00% | ~0 |
 | Battle of the Fertile Crescent | 0.00% | ~0 |
 | The Eternal Treaty | 0.00% | ~0 |
 | Five Routs | 0.00% | ~0 |

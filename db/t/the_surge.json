@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -343,9 +343,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 4496,
+  "EOS_Progressed": 4497,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1703,6 +1703,11 @@
       "Time": "2023-07-21T21:04:14.8518479+00:00",
       "NumProgressed": 4496,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-07-21T22:04:34.7775682+00:00",
+      "NumProgressed": 4497,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 67,
@@ -1728,9 +1733,9 @@
       "ID": "ID_ACHIEV_03",
       "SetID": "98bke8c",
       "Name": "Big Sister",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 719
+      "UsersEstimate": 675
     },
     {
       "ID": "ID_ACHIEV_04",
@@ -1770,7 +1775,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4226
+      "UsersEstimate": 4227
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -1778,7 +1783,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3462
+      "UsersEstimate": 3463
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -1802,7 +1807,7 @@
       "Name": "Gear Up",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "ID_ACHIEV_13",
@@ -1898,7 +1903,7 @@
       "Name": "Core Power",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "ID_ACHIEV_25",
@@ -1930,7 +1935,7 @@
       "Name": "First Day on the Job",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3462
+      "UsersEstimate": 3463
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -2066,7 +2071,7 @@
       "Name": "SENTINEL",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "ID_ACHIEV_47",
@@ -2249,15 +2254,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4496,
+      "Progressed": 4497,
       "Completed": 15
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-07-15T15:00:43.484172+00:00",
-  "LastChanged_Achievements": "2023-07-21T21:04:14.8518471+00:00",
+  "LastChanged_Achievements": "2023-07-21T22:04:34.7775673+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:38.9910145+00:00",
-  "LastUpdate_Ratings": "2023-07-21T20:59:00.5067579+00:00",
-  "LastUpdate_Achievements": "2023-07-21T21:04:14.8519074+00:00"
+  "LastUpdate_Ratings": "2023-07-21T21:59:03.8473893+00:00",
+  "LastUpdate_Achievements": "2023-07-21T22:04:34.7777477+00:00"
 }

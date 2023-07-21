@@ -2,9 +2,9 @@
   "ID": "aac5ef68f6ce4c20aea4c3e722873070",
   "Name": "A Musical Story",
   "ProductSlug": "a-musical-story-973128",
-  "Ranking_EOS_Progress": 326,
+  "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 93,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-03-04T18:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 73,
+  "EOS_Progressed": 74,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.37,
+  "EOS_Completed_Percentage": 1.35,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:26.5327185+00:00",
@@ -151,6 +151,11 @@
       "Time": "2023-07-21T12:06:00.4305599+00:00",
       "NumProgressed": 73,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-21T22:07:43.6797045+00:00",
+      "NumProgressed": 74,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 54,
@@ -170,7 +175,7 @@
       "Name": "ECG",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "L0_PERFECT",
@@ -184,7 +189,7 @@
       "ID": "L10_5_FINISH",
       "SetID": "6finf64",
       "Name": "Fuel",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
       "UsersEstimate": 21
     },
@@ -200,9 +205,9 @@
       "ID": "L10_FINISH",
       "SetID": "6finf64",
       "Name": "A Bigger Band",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "L10_PERFECT",
@@ -328,7 +333,7 @@
       "ID": "L17_FINISH",
       "SetID": "6finf64",
       "Name": "Love",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -344,7 +349,7 @@
       "ID": "L18_FINISH",
       "SetID": "6finf64",
       "Name": "Here we go again!",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -378,15 +383,15 @@
       "Name": "Daily Life",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "L1_5_PERFECT",
       "SetID": "6finf64",
       "Name": "Big City Music",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "L1_FINISH",
@@ -394,7 +399,7 @@
       "Name": "Rehearsal",
       "Percentage": 95,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "L1_PERFECT",
@@ -442,15 +447,15 @@
       "Name": "Assembly Line Work",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "L2_PERFECT",
       "SetID": "6finf64",
       "Name": "Sound of Noise",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "L3_FINISH",
@@ -458,13 +463,13 @@
       "Name": "Solitude",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "L3_PERFECT",
       "SetID": "6finf64",
       "Name": "TV Dreams",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 20,
       "UsersEstimate": 18
     },
@@ -472,9 +477,9 @@
       "ID": "L4_FINISH",
       "SetID": "6finf64",
       "Name": "Pinewood, Here we come!",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "L4_PERFECT",
@@ -488,9 +493,9 @@
       "ID": "L5_FINISH",
       "SetID": "6finf64",
       "Name": "The Van",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "L5_PERFECT",
@@ -504,7 +509,7 @@
       "ID": "L6_FINISH",
       "SetID": "6finf64",
       "Name": "Road-Trip",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 10,
       "UsersEstimate": 46
     },
@@ -520,7 +525,7 @@
       "ID": "L7_5_FINISH",
       "SetID": "6finf64",
       "Name": "Briget\u0027s",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 10,
       "UsersEstimate": 38
     },
@@ -536,7 +541,7 @@
       "ID": "L7_FINISH",
       "SetID": "6finf64",
       "Name": "A Musical Pause",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 10,
       "UsersEstimate": 45
     },
@@ -552,9 +557,9 @@
       "ID": "L8_FINISH",
       "SetID": "6finf64",
       "Name": "Love at First Sight",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "L8_PERFECT",
@@ -568,9 +573,9 @@
       "ID": "L9_FINISH",
       "SetID": "6finf64",
       "Name": "First Kiss",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "L9_PERFECT",
@@ -593,7 +598,7 @@
     {
       "ID": "6finf64",
       "IsBase": true,
-      "Progressed": 73,
+      "Progressed": 74,
       "Completed": 1
     }
   ],
@@ -601,8 +606,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.0267676+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.5327196+00:00",
   "LastChanged": "2023-03-31T05:57:21.0267677+00:00",
-  "LastChanged_Achievements": "2023-07-21T21:07:18.2299262+00:00",
+  "LastChanged_Achievements": "2023-07-21T22:07:43.679704+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:01.355176+00:00",
-  "LastUpdate_Ratings": "2023-07-21T20:59:12.8480259+00:00",
-  "LastUpdate_Achievements": "2023-07-21T21:07:18.2299641+00:00"
+  "LastUpdate_Ratings": "2023-07-21T21:59:16.2763151+00:00",
+  "LastUpdate_Achievements": "2023-07-21T22:07:43.679763+00:00"
 }

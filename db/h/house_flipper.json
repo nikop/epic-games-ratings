@@ -6,7 +6,7 @@
   "Ranking_Popularity": 231,
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 102,
-  "Ranking_EOS_Completed": 186,
+  "Ranking_EOS_Completed": 190,
   "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
@@ -1672,10 +1672,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 2188,
       "NumberOfAwardsMax": 304
+    },
+    {
+      "Time": "2023-07-21T22:01:01.5150159+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 2189,
+      "NumberOfAwardsMax": 304
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2188,
+  "NumberOfAwards": 2189,
   "NumberOfAwardsMax": 304,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1719,7 +1725,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 210
+      "Count": 211
     },
     {
       "Text": "This game is Educational",
@@ -1746,11 +1752,11 @@
       "Count": 210
     }
   ],
-  "EOS_Progressed": 20000,
+  "EOS_Progressed": 20002,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.1,
+  "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:55.5141961+00:00",
@@ -6091,6 +6097,11 @@
       "Time": "2023-07-21T21:08:01.1856513+00:00",
       "NumProgressed": 20000,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-07-21T22:08:28.1084721+00:00",
+      "NumProgressed": 20002,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -6108,9 +6119,9 @@
       "ID": "CarMechanic",
       "SetID": "d0jo315",
       "Name": "Car Mechanic",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 160
+      "UsersEstimate": 140
     },
     {
       "ID": "ChangChoi",
@@ -6150,7 +6161,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18800
+      "UsersEstimate": 18802
     },
     {
       "ID": "GameOver",
@@ -6262,7 +6273,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6200
+      "UsersEstimate": 6201
     },
     {
       "ID": "VeronicaLiptson",
@@ -6285,15 +6296,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 20000,
+      "Progressed": 20002,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
-  "LastChanged": "2023-07-17T23:00:51.8857829+00:00",
-  "LastChanged_Achievements": "2023-07-21T21:08:01.1856508+00:00",
+  "LastChanged": "2023-07-21T22:01:01.5150157+00:00",
+  "LastChanged_Achievements": "2023-07-21T22:08:28.1084715+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:29.4539579+00:00",
-  "LastUpdate_Ratings": "2023-07-21T21:00:56.3593217+00:00",
-  "LastUpdate_Achievements": "2023-07-21T21:08:01.1856822+00:00"
+  "LastUpdate_Ratings": "2023-07-21T22:01:01.5150173+00:00",
+  "LastUpdate_Achievements": "2023-07-21T22:08:28.1085175+00:00"
 }

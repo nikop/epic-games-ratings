@@ -5,9 +5,9 @@
   "Ranking_Rating": 940,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
-  "Ranking_EOS_Progress": 218,
+  "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 101,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 297,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 472,
+  "EOS_Progressed": 473,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.06,
   "EosHistory": [
@@ -435,6 +435,11 @@
       "Time": "2023-07-15T14:05:36.8088816+00:00",
       "NumProgressed": 472,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-21T22:05:34.472046+00:00",
+      "NumProgressed": 473,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -468,9 +473,9 @@
       "ID": "Caring_Soul",
       "SetID": "ek310c",
       "Name": "Bosom Buddies",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 142
     },
     {
       "ID": "Doors_Closing",
@@ -548,9 +553,9 @@
       "ID": "Illustrator",
       "SetID": "ek310c",
       "Name": "F is for Feline",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 57
     },
     {
       "ID": "Investigative",
@@ -566,7 +571,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "Leisurely_Strol",
@@ -662,7 +667,7 @@
       "Name": "Beat the Heat",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "Unforeseen_Consequences",
@@ -677,7 +682,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 472,
+      "Progressed": 473,
       "Completed": 5
     }
   ],
@@ -685,8 +690,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-07-21T21:05:12.9589426+00:00",
+  "LastChanged_Achievements": "2023-07-21T22:05:34.4720452+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:34.9258326+00:00",
-  "LastUpdate_Ratings": "2023-07-21T20:57:07.596415+00:00",
-  "LastUpdate_Achievements": "2023-07-21T21:05:12.9589603+00:00"
+  "LastUpdate_Ratings": "2023-07-21T21:57:09.1468652+00:00",
+  "LastUpdate_Achievements": "2023-07-21T22:05:34.4720775+00:00"
 }

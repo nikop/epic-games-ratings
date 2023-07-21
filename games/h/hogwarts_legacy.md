@@ -26,10 +26,10 @@ Rating: 4.77 (Ranked 109)
 | Beast Friends | 6.00% | ~17,293 |
 | A Sallow Grave | 6.00% | ~17,293 |
 | Flight the Good Flight | 6.00% | ~17,293 |
-| The Seeker of Knowledge | 5.00% | ~14,410 |
-| The Root of the Problem | 5.00% | ~14,410 |
-| Third Time's a Charm | 5.00% | ~14,410 |
-| Raising Expectations | 5.00% | ~14,410 |
+| The Seeker of Knowledge | 5.00% | ~14,411 |
+| The Root of the Problem | 5.00% | ~14,411 |
+| Third Time's a Charm | 5.00% | ~14,411 |
+| Raising Expectations | 5.00% | ~14,411 |
 | The Ends Petrify the Means | 4.00% | ~11,528 |
 | The Toast of the Town | 3.00% | ~8,646 |
 | Going Through the Potions | 3.00% | ~8,646 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.50% | ~1,441 |
 | Collector's Edition | 0.20% | ~576 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288,209 (Ranked 42)  
+Progressed: 288,212 (Ranked 42)  
 Completed: 433 (0.15%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,15 +143,15 @@ Completed: 433 (0.15%) (Ranked 175)
 | 2023-07-18 | 287,982 | 430 |
 | 2023-07-19 | 288,055 | 431 |
 | 2023-07-20 | 288,136 | 431 |
-| 2023-07-21 | 288,209 | 433 |
+| 2023-07-21 | 288,212 | 433 |
 ## Awards
 Max (Character Customization): 21,154  (Ranked 17)  
-Sum: 39,601 (Ranked 30)  
+Sum: 39,625 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 21,154 |
-| This game has Great Boss Battles | 10,136 |
+| This game has Great Boss Battles | 10,159 |
 | This game is Great for Beginners | 929 |
 | This game is Extremely Fun | 906 |
 | This game is Relaxing | 891 |
@@ -161,7 +161,7 @@ Diff (max vs sum): -13
 | This game is Highly Recommended | 841 |
 | This game has Quickly Understood Controls | 800 |
 | This game has Beautiful Visuals | 744 |
-| This game has a Creative Community | 560 |
+| This game has a Creative Community | 561 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -284,4 +284,4 @@ Diff (max vs sum): -13
 | 2023-07-18 | 4.77 | 21,074 | 39,451 |
 | 2023-07-19 | 4.77 | 21,101 | 39,508 |
 | 2023-07-20 | 4.77 | 21,120 | 39,559 |
-| 2023-07-21 | 4.77 | 21,154 | 39,601 |
+| 2023-07-21 | 4.77 | 21,154 | 39,625 |

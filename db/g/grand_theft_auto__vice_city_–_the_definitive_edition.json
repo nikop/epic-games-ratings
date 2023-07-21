@@ -534,7 +534,7 @@
   ],
   "EOS_Progressed": 9050,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -6861,9 +6861,9 @@
       "ID": "ACH31",
       "SetID": "9llo822",
       "Name": "Chopper\u2019d Up",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 90
+      "UsersEstimate": 181
     },
     {
       "ID": "ACH32",
@@ -6902,8 +6902,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-20T21:00:57.6369425+00:00",
-  "LastChanged_Achievements": "2023-07-21T21:04:26.3036943+00:00",
+  "LastChanged_Achievements": "2023-07-21T22:04:46.5002414+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:03.5723456+00:00",
-  "LastUpdate_Ratings": "2023-07-21T20:59:15.2641829+00:00",
-  "LastUpdate_Achievements": "2023-07-21T21:04:26.3037505+00:00"
+  "LastUpdate_Ratings": "2023-07-21T21:59:19.4696527+00:00",
+  "LastUpdate_Achievements": "2023-07-21T22:04:46.500305+00:00"
 }

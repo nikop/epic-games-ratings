@@ -6,7 +6,7 @@
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 184,
-  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_Completed": 190,
   "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1127,
+  "EOS_Progressed": 1128,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1525,6 +1525,11 @@
       "Time": "2023-07-21T20:03:23.2729553+00:00",
       "NumProgressed": 1127,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-21T22:03:26.0584908+00:00",
+      "NumProgressed": 1128,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1616,7 +1621,7 @@
       "Name": "E1M1",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "Everyone_is_here",
@@ -1640,7 +1645,7 @@
       "Name": "Game Over",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "Grenadier",
@@ -1752,7 +1757,7 @@
       "Name": "War Never Changes",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "We_were_not_here",
@@ -1775,15 +1780,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1127,
+      "Progressed": 1128,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-07-21T21:03:18.3456654+00:00",
+  "LastChanged_Achievements": "2023-07-21T22:03:26.0584899+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:08.2445796+00:00",
-  "LastUpdate_Ratings": "2023-07-21T21:00:30.52351+00:00",
-  "LastUpdate_Achievements": "2023-07-21T21:03:18.3456858+00:00"
+  "LastUpdate_Ratings": "2023-07-21T22:00:37.5289261+00:00",
+  "LastUpdate_Achievements": "2023-07-21T22:03:26.0585424+00:00"
 }

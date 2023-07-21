@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -243,9 +243,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1850,
+  "EOS_Progressed": 1852,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -1623,6 +1623,11 @@
       "Time": "2023-07-21T20:03:34.3845955+00:00",
       "NumProgressed": 1850,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-21T22:03:41.7900062+00:00",
+      "NumProgressed": 1852,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -1642,7 +1647,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1202
+      "UsersEstimate": 1204
     },
     {
       "ID": "ACHV_03",
@@ -1658,7 +1663,7 @@
       "Name": "Overheated",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "ACHV_05",
@@ -1666,7 +1671,7 @@
       "Name": "Studied The Blade",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "ACHV_06",
@@ -1698,7 +1703,7 @@
       "Name": "Bad Dog",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "ACHV_10",
@@ -1770,7 +1775,7 @@
       "Name": "True Survivor",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ACHV_19",
@@ -1778,7 +1783,7 @@
       "Name": "Defense in Depth",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACHV_20",
@@ -1810,7 +1815,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "ACHV_24",
@@ -1826,7 +1831,7 @@
       "Name": "Full Arsenal",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "ACHV_26",
@@ -1834,7 +1839,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1480
+      "UsersEstimate": 1482
     },
     {
       "ID": "ACHV_27",
@@ -1842,7 +1847,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "ACHV_28",
@@ -1866,7 +1871,7 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "ACHV_31",
@@ -1874,7 +1879,7 @@
       "Name": "Where It All Began",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "ACHV_32",
@@ -1890,7 +1895,7 @@
       "Name": "Swiss Army Drone",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHV_34",
@@ -1930,7 +1935,7 @@
       "Name": "Risk Tolerant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "ACHV_39",
@@ -1938,7 +1943,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1424
+      "UsersEstimate": 1426
     },
     {
       "ID": "ACHV_40",
@@ -1954,7 +1959,7 @@
       "Name": "Suited and Booted",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "ACHV_42",
@@ -1970,7 +1975,7 @@
       "Name": "What A Catchy Song",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "ACHV_44",
@@ -1978,7 +1983,7 @@
       "Name": "Counter-Sniper",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ACHV_45",
@@ -2026,7 +2031,7 @@
       "Name": "Shrimp Cocktail",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ACHV_51",
@@ -2089,7 +2094,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1850,
+      "Progressed": 1852,
       "Completed": 10
     }
   ],
@@ -2097,8 +2102,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-07-03T18:02:00.1101593+00:00",
-  "LastChanged_Achievements": "2023-07-21T21:03:33.6270577+00:00",
+  "LastChanged_Achievements": "2023-07-21T22:03:41.7900053+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:33.6967662+00:00",
-  "LastUpdate_Ratings": "2023-07-21T20:57:04.2556082+00:00",
-  "LastUpdate_Achievements": "2023-07-21T21:03:33.6271064+00:00"
+  "LastUpdate_Ratings": "2023-07-21T21:57:06.2008588+00:00",
+  "LastUpdate_Achievements": "2023-07-21T22:03:41.7901117+00:00"
 }

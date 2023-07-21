@@ -7,120 +7,120 @@ Number of Ratings: 12,664  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Daily Grind | 0.10% | ~133 |
+| On the Path to Greatness | 0.10% | ~133 |
+| A Notch Above the Rest | 0.10% | ~133 |
 | Cream of the Crop | 0.10% | ~133 |
+| Top of the World | 0.10% | ~133 |
+| Proud Paladin | 0.10% | ~133 |
 | Ascended | 0.10% | ~133 |
+| Above the Norm | 0.10% | ~133 |
 | Constellated | 0.10% | ~133 |
+| A Ronin Reborn | 0.10% | ~133 |
 | One Easy Payment | 0.10% | ~133 |
+| Tax not Included | 0.10% | ~133 |
 | The King's Caprice | 0.10% | ~133 |
 | Some Assembly Required | 0.10% | ~133 |
+| Research & Development | 0.10% | ~133 |
+| Thirst for Knowledge | 0.10% | ~133 |
 | Vanity, Verily | 0.10% | ~133 |
 | Bounty Hunters | 0.10% | ~133 |
 | Big Game Hunting | 0.10% | ~133 |
+| Bane of Legends | 0.10% | ~133 |
+| Fated Encounters | 0.10% | ~133 |
 | Sponsored by Argon | 0.10% | ~133 |
+| For the Hoard! | 0.10% | ~133 |
 | Booty by the Boatload | 0.10% | ~133 |
 | Blank Page Syndrome | 0.10% | ~133 |
+| Scrapbooker | 0.10% | ~133 |
+| Archivist | 0.10% | ~133 |
 | The Free Encyclopedia | 0.10% | ~133 |
 | Basic in Bulk | 0.10% | ~133 |
 | Demand for Supplies | 0.10% | ~133 |
+| Locally Sourced | 0.10% | ~133 |
 | Fillin' the Bin | 0.10% | ~133 |
 | Disintermediation | 0.10% | ~133 |
 | Flooding the Market | 0.10% | ~133 |
+| Flying off the Shelves | 0.10% | ~133 |
+| Industrial Evolution | 0.10% | ~133 |
 | Where it Hurts | 0.10% | ~133 |
+| This Power Level...! | 0.10% | ~133 |
+| Omae wa Mou Shindeiru | 0.10% | ~133 |
+| Master of Transmutation | 0.10% | ~133 |
+| Hidden Potential | 0.10% | ~133 |
 | Another Satisfied Customer | 0.10% | ~133 |
+| Power of Love | 0.10% | ~133 |
+| Supercharged | 0.10% | ~133 |
 | It's Free Real Estate | 0.10% | ~133 |
+| Expansion in Session | 0.10% | ~133 |
+| Thank You Tom Nook | 0.10% | ~133 |
+| Ritualist | 0.10% | ~133 |
+| Efficient Floor Space | 0.10% | ~133 |
+| Cranked up to 11 | 0.10% | ~133 |
+| Fit for a King | 0.10% | ~133 |
+| By Your Powers Combined... | 0.10% | ~133 |
 | Flawless Fusion | 0.10% | ~133 |
+| A Legend is Born | 0.10% | ~133 |
+| Trash to Treasure | 0.10% | ~133 |
 | Gem Expert | 0.10% | ~133 |
 | Tinkle of Coins | 0.10% | ~133 |
 | Pretty Penny | 0.10% | ~133 |
 | Gild-Gotten Goods | 0.10% | ~133 |
+| Royal Ransom | 0.10% | ~133 |
+| Mammonite | 0.10% | ~133 |
+| Wealth Beyond Measure | 0.10% | ~133 |
 | Helping Hand | 0.10% | ~133 |
+| Fat Cat Tag Team | 0.10% | ~133 |
+| Necromancer Queen | 0.10% | ~133 |
 | One-Armed Bandit | 0.10% | ~133 |
 | Jackpot! | 0.10% | ~133 |
 | JACKPOT!!! | 0.10% | ~133 |
 | Item of Renown | 0.10% | ~133 |
 | Budding Merchant | 0.10% | ~133 |
 | Accomplished Merchant | 0.10% | ~133 |
+| Master Merchant | 0.10% | ~133 |
+| Miracle Alchemist | 0.10% | ~133 |
 | Dungeon Imports | 0.10% | ~133 |
+| Laden with Loot | 0.10% | ~133 |
 | Bountiful Harvest | 0.10% | ~133 |
 | Through Repetition, Perfection | 0.10% | ~133 |
 | Natural 20 | 0.10% | ~133 |
 | Seasoned Journeyman | 0.10% | ~133 |
+| Precision Engineering | 0.10% | ~133 |
+| The Greatest Grind | 0.10% | ~133 |
+| All or Nothing! | 0.10% | ~133 |
+| Scourge of the Seas | 0.10% | ~133 |
+| Did we pack lunch? | 0.10% | ~133 |
 | Attrition Mission | 0.10% | ~133 |
+| Eternal Crusade | 0.10% | ~133 |
+| Glittering Collection | 0.10% | ~133 |
+| Treasure Trove | 0.10% | ~133 |
 | Moment of Respite | 0.10% | ~133 |
 | Capitalism Ho! | 0.10% | ~133 |
+| Black Friday Special | 0.10% | ~133 |
+| King's Shadow | 0.10% | ~133 |
+| Master Recycler | 0.10% | ~133 |
 | Titan's First Steps | 0.10% | ~133 |
+| Magical Harmony | 0.10% | ~133 |
+| All Accounted For | 0.10% | ~133 |
 | Special Ingredient | 0.10% | ~133 |
+| Exotic Commodities | 0.10% | ~133 |
+| Economy of Scarce | 0.10% | ~133 |
 | Own the Means of Production | 0.10% | ~133 |
 | Arcane Industries | 0.10% | ~133 |
 | Complete Monopoly | 0.10% | ~133 |
 | King's Blade | 0.10% | ~133 |
-| On the Path to Greatness | 0.00% | ~0 |
-| A Notch Above the Rest | 0.00% | ~0 |
-| Top of the World | 0.00% | ~0 |
-| Proud Paladin | 0.00% | ~0 |
-| Above the Norm | 0.00% | ~0 |
-| A Ronin Reborn | 0.00% | ~0 |
-| Tax not Included | 0.00% | ~0 |
-| Research & Development | 0.00% | ~0 |
-| Thirst for Knowledge | 0.00% | ~0 |
-| Bane of Legends | 0.00% | ~0 |
-| Fated Encounters | 0.00% | ~0 |
-| For the Hoard! | 0.00% | ~0 |
-| Scrapbooker | 0.00% | ~0 |
-| Archivist | 0.00% | ~0 |
 | Ultimate Collector | 0.00% | ~0 |
-| Locally Sourced | 0.00% | ~0 |
-| Flying off the Shelves | 0.00% | ~0 |
-| Industrial Evolution | 0.00% | ~0 |
 | Oligarch Monarch | 0.00% | ~0 |
-| This Power Level...! | 0.00% | ~0 |
-| Omae wa Mou Shindeiru | 0.00% | ~0 |
-| Master of Transmutation | 0.00% | ~0 |
-| Hidden Potential | 0.00% | ~0 |
 | Unleashed Potential | 0.00% | ~0 |
-| Power of Love | 0.00% | ~0 |
-| Supercharged | 0.00% | ~0 |
-| Expansion in Session | 0.00% | ~0 |
-| Thank You Tom Nook | 0.00% | ~0 |
-| Ritualist | 0.00% | ~0 |
-| Efficient Floor Space | 0.00% | ~0 |
-| Cranked up to 11 | 0.00% | ~0 |
-| Fit for a King | 0.00% | ~0 |
-| By Your Powers Combined... | 0.00% | ~0 |
-| A Legend is Born | 0.00% | ~0 |
-| Trash to Treasure | 0.00% | ~0 |
-| Royal Ransom | 0.00% | ~0 |
-| Mammonite | 0.00% | ~0 |
-| Wealth Beyond Measure | 0.00% | ~0 |
-| Fat Cat Tag Team | 0.00% | ~0 |
 | Capitalist Camaraderie | 0.00% | ~0 |
-| Necromancer Queen | 0.00% | ~0 |
-| Master Merchant | 0.00% | ~0 |
 | Merchant Extraordinaire | 0.00% | ~0 |
-| Miracle Alchemist | 0.00% | ~0 |
-| Laden with Loot | 0.00% | ~0 |
 | Anything not Nailed Down | 0.00% | ~0 |
-| Precision Engineering | 0.00% | ~0 |
-| The Greatest Grind | 0.00% | ~0 |
-| All or Nothing! | 0.00% | ~0 |
-| Scourge of the Seas | 0.00% | ~0 |
-| Did we pack lunch? | 0.00% | ~0 |
-| Eternal Crusade | 0.00% | ~0 |
 | To Hell and Back | 0.00% | ~0 |
-| Glittering Collection | 0.00% | ~0 |
-| Treasure Trove | 0.00% | ~0 |
 | Marvels from the World Over | 0.00% | ~0 |
-| Black Friday Special | 0.00% | ~0 |
 | Cash Only Please | 0.00% | ~0 |
-| King's Shadow | 0.00% | ~0 |
-| Master Recycler | 0.00% | ~0 |
-| Magical Harmony | 0.00% | ~0 |
-| All Accounted For | 0.00% | ~0 |
-| Exotic Commodities | 0.00% | ~0 |
-| Economy of Scarce | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,977 (Ranked 61)  
-Completed: 122 (0.09%) (Ranked 191)  
+Progressed: 132,983 (Ranked 61)  
+Completed: 122 (0.09%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -211,7 +211,7 @@ Completed: 122 (0.09%) (Ranked 191)
 | 2023-07-18 | 132,815 | 119 |
 | 2023-07-19 | 132,870 | 121 |
 | 2023-07-20 | 132,926 | 122 |
-| 2023-07-21 | 132,977 | 122 |
+| 2023-07-21 | 132,983 | 122 |
 ## Awards
 Max (Great for Beginners): 4,668  (Ranked 69)  
 Sum: 26,955 (Ranked 46)  

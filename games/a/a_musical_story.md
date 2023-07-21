@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ECG | 96.00% | ~70 |
-| Rehearsal | 95.00% | ~69 |
-| Daily Life | 92.00% | ~67 |
-| Assembly Line Work | 88.00% | ~64 |
-| Solitude | 82.00% | ~60 |
-| Pinewood, Here we come! | 75.00% | ~55 |
-| The Van | 68.00% | ~50 |
-| Road-Trip | 63.00% | ~46 |
-| A Musical Pause | 62.00% | ~45 |
-| Briget's | 52.00% | ~38 |
-| Sound of Noise | 48.00% | ~35 |
-| Big City Music | 45.00% | ~33 |
-| Love at First Sight | 42.00% | ~31 |
-| First Kiss | 37.00% | ~27 |
-| A Bigger Band | 34.00% | ~25 |
+| ECG | 96.00% | ~71 |
+| Rehearsal | 95.00% | ~70 |
+| Daily Life | 92.00% | ~68 |
+| Assembly Line Work | 88.00% | ~65 |
+| Solitude | 82.00% | ~61 |
+| Pinewood, Here we come! | 76.00% | ~56 |
+| The Van | 69.00% | ~51 |
+| Road-Trip | 62.00% | ~46 |
+| A Musical Pause | 61.00% | ~45 |
+| Briget's | 51.00% | ~38 |
+| Sound of Noise | 49.00% | ~36 |
+| Big City Music | 46.00% | ~34 |
+| Love at First Sight | 43.00% | ~32 |
+| First Kiss | 38.00% | ~28 |
+| A Bigger Band | 35.00% | ~26 |
 | Symbiosis | 34.00% | ~25 |
-| Fuel | 29.00% | ~21 |
+| Fuel | 28.00% | ~21 |
 | Alone Together | 27.00% | ~20 |
 | Threatening Nature | 26.00% | ~19 |
-| TV Dreams | 25.00% | ~18 |
+| TV Dreams | 24.00% | ~18 |
 | Flat Tire | 23.00% | ~17 |
 | The Clash | 19.00% | ~14 |
 | Dreamers | 19.00% | ~14 |
@@ -34,8 +34,8 @@
 | The Mountains, The Valleys | 12.00% | ~9 |
 | Bad Trip | 11.00% | ~8 |
 | The Awakening | 11.00% | ~8 |
-| Love | 10.00% | ~7 |
-| Here we go again! | 10.00% | ~7 |
+| Love | 9.00% | ~7 |
+| Here we go again! | 9.00% | ~7 |
 | Chase the Crow | 8.00% | ~6 |
 | Flight of the Bumblebee | 7.00% | ~5 |
 | On the Road Again | 5.00% | ~4 |
@@ -59,8 +59,8 @@
 | Pinewood | 1.00% | ~1 |
 | Love is All | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73 (Ranked 326)  
-Completed: 1 (1.37%) (Ranked 93)  
+Progressed: 74 (Ranked 325)  
+Completed: 1 (1.35%) (Ranked 93)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -81,7 +81,7 @@ Completed: 1 (1.37%) (Ranked 93)
 | 2023-06-21 | 69 | 1 |
 | 2023-06-28 | 70 | 1 |
 | 2023-07-19 | 71 | 1 |
-| 2023-07-21 | 73 | 1 |
+| 2023-07-21 | 74 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

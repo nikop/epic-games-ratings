@@ -5,20 +5,20 @@ Rating: 4.43 (Ranked 655)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 25.00% | ~54,461 |
-| This is only the beginning | 19.00% | ~41,391 |
-| Knowledge is power | 12.00% | ~26,141 |
-| Power Ranger | 9.00% | ~19,606 |
-| Galvanic Rifle | 9.00% | ~19,606 |
-| Taser Goad | 9.00% | ~19,606 |
-| Radium Ready | 9.00% | ~19,606 |
-| Half a cog | 9.00% | ~19,606 |
+| No aid from the Omnissiah | 25.00% | ~54,463 |
+| This is only the beginning | 19.00% | ~41,392 |
+| Knowledge is power | 12.00% | ~26,142 |
+| Power Ranger | 9.00% | ~19,607 |
+| Galvanic Rifle | 9.00% | ~19,607 |
+| Taser Goad | 9.00% | ~19,607 |
+| Radium Ready | 9.00% | ~19,607 |
+| Half a cog | 9.00% | ~19,607 |
 | Watch them crumble | 6.00% | ~13,071 |
 | Competent Cohort | 4.00% | ~8,714 |
 | Celestial Cartography Catastrophe | 4.00% | ~8,714 |
 | One with the Machine | 4.00% | ~8,714 |
-| Legio Cybernetica | 3.00% | ~6,535 |
-| Fleshy Disposal | 3.00% | ~6,535 |
+| Legio Cybernetica | 3.00% | ~6,536 |
+| Fleshy Disposal | 3.00% | ~6,536 |
 | Battle Servitor | 2.00% | ~4,357 |
 | Ding Dong Szaregon's Gone | 2.00% | ~4,357 |
 | Impatient destruction | 2.00% | ~4,357 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 655)
 | Perma-live | 0.10% | ~218 |
 | Purge the Heretek | 0.10% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,845 (Ranked 52)  
+Progressed: 217,851 (Ranked 52)  
 Completed: 4 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,10 +132,10 @@ Completed: 4 (0.00%) (Ranked 238)
 | 2023-07-18 | 217,579 | 4 |
 | 2023-07-19 | 217,673 | 4 |
 | 2023-07-20 | 217,756 | 4 |
-| 2023-07-21 | 217,845 | 4 |
+| 2023-07-21 | 217,851 | 4 |
 ## Awards
 Max (Highly Recommended): 280  (Ranked 237)  
-Sum: 2,121 (Ranked 191)  
+Sum: 2,122 (Ranked 191)  
 Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
@@ -144,7 +144,7 @@ Diff (max vs sum): 46
 | This game is Extremely Fun | 270 |
 | This game has Amazing Characters | 259 |
 | This game has Diverse Characters | 257 |
-| This game has Amazing Storytelling | 243 |
+| This game has Amazing Storytelling | 244 |
 | This game is Relaxing | 236 |
 | This game has Unique Visuals | 207 |
 | This game has a Creative Community | 97 |
@@ -198,3 +198,4 @@ Diff (max vs sum): 46
 | 2023-07-07 | 4.43 | 280 | 2,119 |
 | 2023-07-13 | 4.43 | 280 | 2,120 |
 | 2023-07-16 | 4.43 | 280 | 2,121 |
+| 2023-07-21 | 4.43 | 280 | 2,122 |

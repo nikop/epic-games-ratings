@@ -796,9 +796,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2551,
+  "EOS_Progressed": 2553,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3231,6 +3231,11 @@
       "Time": "2023-07-21T21:03:31.4341802+00:00",
       "NumProgressed": 2551,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T22:03:39.5259278+00:00",
+      "NumProgressed": 2553,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3394,7 +3399,7 @@
       "Name": "Keeping it classy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -3546,7 +3551,7 @@
       "Name": "The finer things in life",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -3610,7 +3615,7 @@
       "Name": "Welcome to the family",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -3618,22 +3623,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1454
+      "UsersEstimate": 1455
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2551,
+      "Progressed": 2553,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-07-18T02:30:00.4800428+00:00",
-  "LastChanged_Achievements": "2023-07-21T21:03:31.4341797+00:00",
+  "LastChanged_Achievements": "2023-07-21T22:03:39.5259272+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:04.9340896+00:00",
-  "LastUpdate_Ratings": "2023-07-21T21:00:27.0867935+00:00",
-  "LastUpdate_Achievements": "2023-07-21T21:03:31.434225+00:00"
+  "LastUpdate_Ratings": "2023-07-21T22:00:33.7761812+00:00",
+  "LastUpdate_Achievements": "2023-07-21T22:03:39.5260126+00:00"
 }

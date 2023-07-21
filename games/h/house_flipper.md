@@ -6,8 +6,8 @@ Number of Ratings: 1,023  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First money | 94.00% | ~18,800 |
-| Strongman | 31.00% | ~6,200 |
+| First money | 94.00% | ~18,802 |
+| Strongman | 31.00% | ~6,201 |
 | Just Enough | 19.00% | ~3,800 |
 | Alpha Male | 19.00% | ~3,800 |
 | Pro-creative | 18.00% | ~3,600 |
@@ -22,16 +22,16 @@ Number of Ratings: 1,023  (23.09.2022)
 | I'm Belieber | 2.00% | ~400 |
 | You do it wrong | 1.00% | ~200 |
 | Knock, knock | 0.90% | ~180 |
-| Car Mechanic | 0.80% | ~160 |
 | Game Over | 0.80% | ~160 |
 | Wall Street Shark | 0.80% | ~160 |
 | Negotiator | 0.80% | ~160 |
+| Car Mechanic | 0.70% | ~140 |
 | Do it ASAP | 0.60% | ~120 |
 | Nerd | 0.50% | ~100 |
 | Senior Estate Agent | 0.50% | ~100 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,000 (Ranked 102)  
-Completed: 19 (0.10%) (Ranked 186)  
+Progressed: 20,002 (Ranked 102)  
+Completed: 19 (0.09%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -122,10 +122,10 @@ Completed: 19 (0.10%) (Ranked 186)
 | 2023-07-18 | 19,936 | 19 |
 | 2023-07-19 | 19,939 | 19 |
 | 2023-07-20 | 19,958 | 19 |
-| 2023-07-21 | 20,000 | 19 |
+| 2023-07-21 | 20,002 | 19 |
 ## Awards
 Max (Great for Beginners): 304  (Ranked 231)  
-Sum: 2,188 (Ranked 188)  
+Sum: 2,189 (Ranked 188)  
 Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
@@ -135,7 +135,7 @@ Diff (max vs sum): 43
 | This game is Extremely Fun | 224 |
 | This game has Quickly Understood Controls | 217 |
 | This game is Highly Recommended | 214 |
-| This game has Amazing Storytelling | 210 |
+| This game has Amazing Storytelling | 211 |
 | This game has a Creative Community | 210 |
 | This game has Amazing Characters | 189 |
 | This game has Obsessive Gameplay | 173 |
@@ -274,3 +274,4 @@ Diff (max vs sum): 43
 | 2023-07-13 | 4.69 | - | 303 | 2,185 |
 | 2023-07-16 | 4.69 | - | 304 | 2,187 |
 | 2023-07-17 | 4.69 | - | 304 | 2,188 |
+| 2023-07-21 | 4.69 | - | 304 | 2,189 |

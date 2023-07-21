@@ -4,7 +4,7 @@
   "ProductSlug": "one-more-dungeon-2-532228",
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
@@ -419,9 +419,9 @@
       "ID": "FirstBoss",
       "SetID": "7g1kpc8",
       "Name": "Scull",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "FirstStep",
@@ -522,8 +522,8 @@
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-07-21T21:05:50.6948579+00:00",
+  "LastChanged_Achievements": "2023-07-21T22:06:13.2079832+00:00",
   "LastUpdate_AppInfo": "2023-07-17T08:57:31.0747008+00:00",
-  "LastUpdate_Ratings": "2023-07-21T20:57:43.339362+00:00",
-  "LastUpdate_Achievements": "2023-07-21T21:05:50.694871+00:00"
+  "LastUpdate_Ratings": "2023-07-21T21:57:46.6435758+00:00",
+  "LastUpdate_Achievements": "2023-07-21T22:06:13.2080188+00:00"
 }

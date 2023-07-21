@@ -3,8 +3,8 @@
   "Name": "The House of Da Vinci",
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 288,
-  "Ranking_EOS_Completed": 18,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_Completed": 20,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 144,
+  "EOS_Progressed": 145,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 11.11,
+  "EOS_Completed_Percentage": 11.03,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -701,6 +701,11 @@
       "Time": "2023-07-21T21:05:41.135242+00:00",
       "NumProgressed": 144,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-07-21T22:06:03.4046836+00:00",
+      "NumProgressed": 145,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 6,
@@ -720,15 +725,15 @@
       "Name": "File-cutter",
       "Percentage": 59,
       "XP": 165,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAg",
       "SetID": "4ocea6d",
       "Name": "Viola Organista",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 165,
-      "UsersEstimate": 60
+      "UsersEstimate": 59
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAw",
@@ -736,15 +741,15 @@
       "Name": "Scythed Chariot",
       "Percentage": 28,
       "XP": 165,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBA",
       "SetID": "4ocea6d",
       "Name": "Revolving Bridge",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 165,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBQ",
@@ -752,21 +757,21 @@
       "Name": "Flying Machine",
       "Percentage": 30,
       "XP": 165,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     }
   ],
   "AchievementSets": [
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 144,
+      "Progressed": 145,
       "Completed": 16
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-07-21T21:05:41.1352415+00:00",
+  "LastChanged_Achievements": "2023-07-21T22:06:03.4046829+00:00",
   "LastUpdate_AppInfo": "2023-07-20T13:57:08.6371589+00:00",
-  "LastUpdate_Ratings": "2023-07-21T20:57:23.8438172+00:00",
-  "LastUpdate_Achievements": "2023-07-21T21:05:41.1352503+00:00"
+  "LastUpdate_Ratings": "2023-07-21T21:57:25.4637347+00:00",
+  "LastUpdate_Achievements": "2023-07-21T22:06:03.4046965+00:00"
 }
