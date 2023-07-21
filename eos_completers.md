@@ -11,7 +11,7 @@
 | 9 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 10 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 19.05% |
-| 12 | [Island Cities](games/i/island_cities.md) | 18.44% |
+| 12 | [Island Cities](games/i/island_cities.md) | 18.39% |
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
 | 14 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 13.33% |
 | 15 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 12.60% |
@@ -37,10 +37,10 @@
 | 35 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.66% |
 | 36 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
 | 37 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 5.00% |
-| 37 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.00% |
-| 39 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.98% |
-| 40 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.88% |
-| 41 | [JARS](games/j/jars.md) | 4.84% |
+| 38 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.98% |
+| 39 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.88% |
+| 40 | [JARS](games/j/jars.md) | 4.84% |
+| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.84% |
 | 42 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.76% |
 | 43 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.71% |
 | 44 | [Bugsnax](games/b/bugsnax.md) | 4.70% |
@@ -53,7 +53,7 @@
 | 51 | [Doodle God](games/d/doodle_god.md) | 3.54% |
 | 52 | [ZZT!](games/z/zzt!.md) | 3.53% |
 | 53 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.52% |
-| 54 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.43% |
+| 54 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.46% |
 | 55 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
 | 56 | [Monster Harvest](games/m/monster_harvest.md) | 3.35% |
 | 57 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.23% |
@@ -66,7 +66,7 @@
 | 64 | [Destiny 2](games/d/destiny_2.md) | 2.80% |
 | 65 | [The Bunker](games/t/the_bunker.md) | 2.73% |
 | 66 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
-| 67 | [Lamentum](games/l/lamentum.md) | 2.66% |
+| 67 | [Lamentum](games/l/lamentum.md) | 2.65% |
 | 68 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
 | 69 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.62% |
 | 70 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.53% |
@@ -75,7 +75,7 @@
 | 73 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
 | 74 | [Bloodshore](games/b/bloodshore.md) | 2.27% |
 | 75 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.15% |
-| 76 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.10% |
+| 76 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.09% |
 | 77 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.08% |
 | 78 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.07% |
 | 79 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.92% |
@@ -465,6 +465,7 @@
 | 238 | [The Dragoness Command Of The Flame](games/8/8bf17fa0bd774f72bb06bd095830af2a.md) | 0.00% |
 | 238 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 0.00% |
 | 238 | [The Entropy Centre](games/t/the_entropy_centre.md) | 0.00% |
+| 238 | [The Future Project](games/1/1846202a6db1495189ceefd84672b545.md) | 0.00% |
 | 238 | [The Galactic Junkers](games/t/the_galactic_junkers.md) | 0.00% |
 | 238 | [The Gardener and the Wild Vines](games/t/the_gardener_and_the_wild_vines.md) | 0.00% |
 | 238 | [The Great War: Western Front™](games/t/the_great_war__western_front™.md) | 0.00% |
