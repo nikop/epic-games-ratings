@@ -100,7 +100,7 @@
 | 91 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 380 | 215 |
 | 91 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 119 | 314 |
 | 100 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 0 | 505 |
-| 100 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,512 | 36 |
+| 100 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,516 | 36 |
 | 100 | [Journey](games/j/journey.md) | 4.78 | 0 | 505 |
 | 100 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 735 | 159 |
 | 100 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,361 | 103 |
@@ -247,7 +247,7 @@
 | 239 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,882 | 79 |
 | 239 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 2,719 | 94 |
 | 239 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 300,502 | 3 |
-| 239 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 200,917 | 4 |
+| 239 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 201,324 | 4 |
 | 239 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 419 | 205 |
 | 239 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 560 | 181 |
 | 239 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 678 | 165 |
@@ -293,7 +293,7 @@
 | 272 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 528 | 191 |
 | 272 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.66 | 87 | 349 |
 | 272 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.66 | 0 | 505 |
-| 272 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,813 | 57 |
+| 272 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,815 | 57 |
 | 272 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 460 | 198 |
 | 272 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 0 | 505 |
 | 297 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 505 |
@@ -436,27 +436,27 @@
 | 424 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 211 | 266 |
 | 424 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.58 | 0 | 505 |
 | 424 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 52 | 393 |
+| 424 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.58 | 27 | 466 |
 | 424 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,233 | 54 |
 | 424 | [Travellers Rest](games/t/travellers_rest.md) | 4.58 | 0 | 505 |
 | 424 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,425 | 25 |
-| 440 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 0 | 505 |
-| 440 | [Among Us](games/a/among_us.md) | 4.57 | 2,552 | 96 |
-| 440 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.57 | 46 | 406 |
-| 440 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.57 | 27 | 466 |
-| 440 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 0 | 505 |
-| 440 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 4.57 | 0 | 505 |
-| 440 | [Hob](games/h/hob.md) | 4.57 | 0 | 505 |
-| 440 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 37 | 429 |
-| 440 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,172 | 91 |
-| 440 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.57 | 5,582 | 60 |
-| 440 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.57 | 120 | 313 |
-| 440 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 505 |
-| 440 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.57 | 27 | 466 |
-| 440 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 3,550 | 83 |
-| 440 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.57 | 30 | 457 |
-| 440 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 18,979 | 19 |
-| 440 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,756 | 115 |
-| 440 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.57 | 56 | 391 |
+| 441 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 0 | 505 |
+| 441 | [Among Us](games/a/among_us.md) | 4.57 | 2,552 | 96 |
+| 441 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.57 | 46 | 406 |
+| 441 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.57 | 27 | 466 |
+| 441 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 0 | 505 |
+| 441 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 4.57 | 0 | 505 |
+| 441 | [Hob](games/h/hob.md) | 4.57 | 0 | 505 |
+| 441 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 37 | 429 |
+| 441 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,175 | 91 |
+| 441 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.57 | 5,582 | 60 |
+| 441 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.57 | 120 | 313 |
+| 441 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 505 |
+| 441 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 3,550 | 83 |
+| 441 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.57 | 30 | 457 |
+| 441 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 18,979 | 19 |
+| 441 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,756 | 115 |
+| 441 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.57 | 56 | 391 |
 | 458 | [Aimlabs](games/a/aimlabs.md) | 4.56 | 0 | 505 |
 | 458 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.56 | 0 | 505 |
 | 458 | [Aztez](games/a/aztez.md) | 4.56 | 0 | 505 |
@@ -509,7 +509,7 @@
 | 494 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 506 | 194 |
 | 508 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 505 |
 | 508 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 505 |
-| 508 | [Dauntless](games/d/dauntless.md) | 4.53 | 20,858 | 18 |
+| 508 | [Dauntless](games/d/dauntless.md) | 4.53 | 20,875 | 18 |
 | 508 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.53 | 34 | 439 |
 | 508 | [Everything](games/e/everything.md) | 4.53 | 0 | 505 |
 | 508 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 0 | 505 |
