@@ -15,9 +15,9 @@
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.20% |
 | 14 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.50% |
 | 14 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 12.50% |
-| 16 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 12.21% |
+| 16 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 12.12% |
 | 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.01% |
-| 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.55% |
+| 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.53% |
 | 19 | [Remains](games/r/remains.md) | 11.36% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.11% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -28,7 +28,7 @@
 | 26 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.53% |
 | 27 | [Smelter](games/s/smelter.md) | 8.11% |
 | 28 | [Ravenlok](games/r/ravenlok.md) | 7.43% |
-| 29 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.35% |
+| 29 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.30% |
 | 30 | [Time Loader](games/t/time_loader.md) | 7.08% |
 | 31 | [Scorn](games/s/scorn.md) | 7.02% |
 | 32 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.90% |
@@ -55,7 +55,7 @@
 | 53 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.52% |
 | 54 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.46% |
 | 55 | [Bunny Park](games/b/bunny_park.md) | 3.40% |
-| 56 | [Monster Harvest](games/m/monster_harvest.md) | 3.35% |
+| 56 | [Monster Harvest](games/m/monster_harvest.md) | 3.33% |
 | 57 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.23% |
 | 58 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.08% |
 | 59 | [The Complex](games/t/the_complex.md) | 3.07% |
@@ -70,8 +70,8 @@
 | 68 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
 | 69 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.62% |
 | 70 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.53% |
-| 71 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.50% |
 | 71 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 72 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.49% |
 | 73 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
 | 74 | [Bloodshore](games/b/bloodshore.md) | 2.27% |
 | 75 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.15% |
@@ -178,8 +178,8 @@
 | 175 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.15% |
 | 175 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
 | 178 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.14% |
-| 178 | [Port Royale 4](games/p/port_royale_4.md) | 0.14% |
-| 180 | [Isonzo](games/i/isonzo.md) | 0.13% |
+| 179 | [Isonzo](games/i/isonzo.md) | 0.13% |
+| 179 | [Port Royale 4](games/p/port_royale_4.md) | 0.13% |
 | 181 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 182 | [Fall Guys](games/f/fall_guys.md) | 0.11% |
 | 182 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.11% |
@@ -500,4 +500,4 @@
 | 238 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 238 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
 | 238 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 2,923 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 2,924 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |

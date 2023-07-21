@@ -1,7 +1,7 @@
 # Stats
-Games: 2,804  
+Games: 2,805  
 Games with rating: 953  
-Games without rating: 1,851  
+Games without rating: 1,852  
 Average rating: 4.51  
 ## Ratings 
 | Rating | Number of Games |
