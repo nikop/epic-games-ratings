@@ -4,7 +4,7 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 254,
+  "EOS_Progressed": 255,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.18,
   "EosHistory": [
@@ -171,6 +171,11 @@
       "Time": "2023-07-21T16:07:33.4375513+00:00",
       "NumProgressed": 254,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-21T19:07:37.3518494+00:00",
+      "NumProgressed": 255,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 16,
@@ -180,9 +185,9 @@
       "ID": "ALL_COLLECTIBLES",
       "SetID": "7im05fi",
       "Name": "Collector",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 120,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ALL_NPC",
@@ -204,9 +209,9 @@
       "ID": "BEAT_REMAKE_MODE",
       "SetID": "7im05fi",
       "Name": "Radaxian Protector",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "CHOKKINA_DEFEATED",
@@ -222,15 +227,15 @@
       "Name": "Prisoner",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "GOOSEKA_DEFEATED",
       "SetID": "7im05fi",
       "Name": "First Commander",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 48
+      "UsersEstimate": 46
     },
     {
       "ID": "GRIZZLY_DEFEATED",
@@ -246,15 +251,15 @@
       "Name": "Janken The Great",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "LEVEL_04",
       "SetID": "7im05fi",
       "Name": "Adventurer",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 46
     },
     {
       "ID": "LEVEL_06_NO_SHOT",
@@ -262,7 +267,7 @@
       "Name": "Pacifist",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "NO_PURCHASES",
@@ -278,7 +283,7 @@
       "Name": "Wild Ox",
       "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "PARPLIN_DEFEATED",
@@ -302,14 +307,14 @@
       "Name": "Magic Ball",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     }
   ],
   "AchievementSets": [
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 254,
+      "Progressed": 255,
       "Completed": 3
     }
   ],
@@ -317,8 +322,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-07-21T18:08:14.1664858+00:00",
+  "LastChanged_Achievements": "2023-07-21T19:07:37.3518492+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:51.0652019+00:00",
-  "LastUpdate_Ratings": "2023-07-21T17:59:13.2817412+00:00",
-  "LastUpdate_Achievements": "2023-07-21T18:08:14.1665026+00:00"
+  "LastUpdate_Ratings": "2023-07-21T18:59:07.1971111+00:00",
+  "LastUpdate_Achievements": "2023-07-21T19:07:37.3518609+00:00"
 }

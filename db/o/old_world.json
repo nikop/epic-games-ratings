@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 204,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1557,9 +1557,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 12988,
+  "EOS_Progressed": 12992,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8227,6 +8227,11 @@
       "Time": "2023-07-21T17:06:07.7764257+00:00",
       "NumProgressed": 12988,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-21T19:05:54.7681081+00:00",
+      "NumProgressed": 12992,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -8316,9 +8321,9 @@
       "ID": "ACHIEVEMENT_BABYLON_HANGING_GARDENS",
       "SetID": "9201eeb",
       "Name": "Hanging Gardens in Babylon",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_BABYLON_ISHTAR_GATE",
@@ -8620,9 +8625,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_BRILLIANT",
       "SetID": "9201eeb",
       "Name": "Brilliant",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_CAPABLE",
@@ -8900,9 +8905,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_WARRIOR",
       "SetID": "9201eeb",
       "Name": "Warrior",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_WHITE_DEATH",
@@ -9084,9 +9089,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_CLERICS",
       "SetID": "7l38kb8",
       "Name": "Clerics",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_HUNTERS",
@@ -9556,17 +9561,17 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_ACROPOLIS",
       "SetID": "9201eeb",
       "Name": "Acropolis",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_APADANA",
       "SetID": "9201eeb",
       "Name": "Apadana",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_CIRCUS_MAXIMUS",
@@ -9612,9 +9617,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY",
       "SetID": "9201eeb",
       "Name": "Church of the Holy Sepulchre",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_JUDAISM",
@@ -9788,9 +9793,9 @@
       "ID": "ACHIEVEMENT_LEARNTOPLAY_5",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 5",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_MACEDONIAN_WARS",
@@ -9860,9 +9865,9 @@
       "ID": "ACHIEVEMENT_NATION_EGYPT",
       "SetID": "7l38kb8",
       "Name": "Egypt",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_NATION_GREECE",
@@ -9916,9 +9921,9 @@
       "ID": "ACHIEVEMENT_PANTHEON_OF_GODS",
       "SetID": "9201eeb",
       "Name": "Pantheon of Gods",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_PERSEPOLIS_APADANA",
@@ -10052,9 +10057,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_CARTHAGE",
       "SetID": "7l38kb8",
       "Name": "Carthaginian Paganism",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_EGYPT",
@@ -10140,9 +10145,9 @@
       "ID": "ACHIEVEMENT_STAT_SEVEN_WONDERS",
       "SetID": "9201eeb",
       "Name": "Building Wonders",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_CITIES_CAPTURED",
@@ -10516,9 +10521,9 @@
       "ID": "ACHIEVEMENT_SACRED_PROFANE_CLERGY_COURT",
       "SetID": "9201eeb",
       "Name": "The Clergy",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 52
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_DEPOSE_TRIBE",
@@ -10548,9 +10553,9 @@
       "ID": "ACHIEVEMENT_SACRED_PROFANE_GREAT_MAGE",
       "SetID": "9201eeb",
       "Name": "The Great Mage",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_MYTHICAL_BEAST",
@@ -10572,9 +10577,9 @@
       "ID": "ACHIEVEMENT_SACRED_PROFANE_POET_LEADER",
       "SetID": "9201eeb",
       "Name": "Poetic Leader",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_ST_PAUL",
@@ -10605,21 +10610,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 12988,
+      "Progressed": 12992,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 12988,
+      "Progressed": 12992,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-07-21T11:58:13.3817641+00:00",
-  "LastChanged_Achievements": "2023-07-21T18:06:13.652311+00:00",
+  "LastChanged_Achievements": "2023-07-21T19:05:54.7681074+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:33.7515284+00:00",
-  "LastUpdate_Ratings": "2023-07-21T17:58:56.896086+00:00",
-  "LastUpdate_Achievements": "2023-07-21T18:06:13.6533312+00:00"
+  "LastUpdate_Ratings": "2023-07-21T18:58:54.0030519+00:00",
+  "LastUpdate_Achievements": "2023-07-21T19:05:54.7689397+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 18,
   "Ranking_EOS_Completed": 82,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -5268,9 +5268,9 @@
       "Count": 367
     }
   ],
-  "EOS_Progressed": 711044,
+  "EOS_Progressed": 711049,
   "EOS_Completed": 12829,
-  "EOS_NewPlayers": 304,
+  "EOS_NewPlayers": 309,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -13858,6 +13858,11 @@
       "Time": "2023-07-21T18:08:19.3850148+00:00",
       "NumProgressed": 711044,
       "NumCompleted": 12829
+    },
+    {
+      "Time": "2023-07-21T19:07:42.1654655+00:00",
+      "NumProgressed": 711049,
+      "NumCompleted": 12829
     }
   ],
   "TotalAchievements": 50,
@@ -14213,7 +14218,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1018
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -14221,7 +14226,7 @@
       "Name": "Bloody Sport",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -14253,7 +14258,7 @@
       "Name": "The best strikes are the ones we avoid",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "50_Arena_GoldTimePerf",
@@ -14268,21 +14273,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 20345,
+      "Progressed": 20350,
       "Completed": 10430
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 711044,
+      "Progressed": 711049,
       "Completed": 12829
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-21T09:59:51.7053265+00:00",
-  "LastChanged_Achievements": "2023-07-21T18:08:19.3850139+00:00",
+  "LastChanged_Achievements": "2023-07-21T19:07:42.1654652+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:57.8822848+00:00",
-  "LastUpdate_Ratings": "2023-07-21T18:00:25.9228592+00:00",
-  "LastUpdate_Achievements": "2023-07-21T18:08:19.3851554+00:00"
+  "LastUpdate_Ratings": "2023-07-21T19:00:08.8612951+00:00",
+  "LastUpdate_Achievements": "2023-07-21T19:07:42.1655642+00:00"
 }

@@ -9,9 +9,11 @@
 | The Mysterious Stranger | 16.00% | ~123 |
 | The Steel Shadow | 15.00% | ~116 |
 | Make Up For Lost Time | 15.00% | ~116 |
+| The Harder They Fall | 15.00% | ~116 |
 | Breaking Down Barriers | 15.00% | ~116 |
 | The Wicked Twins | 15.00% | ~116 |
 | The Prince in Heels | 15.00% | ~116 |
+| Immaculate Aim | 15.00% | ~116 |
 | Immaculate Aim | 15.00% | ~116 |
 | The Brass Boss | 15.00% | ~116 |
 | The Betrayer | 14.00% | ~108 |
@@ -19,14 +21,12 @@
 | The Loose Cannon | 14.00% | ~108 |
 | Cartographer | 14.00% | ~108 |
 | Time Flies | 14.00% | ~108 |
-| The Harder They Fall | 14.00% | ~108 |
 | No, Thanks! | 14.00% | ~108 |
+| Honest Mistake | 14.00% | ~108 |
 | Fast Learner | 14.00% | ~108 |
-| Immaculate Aim | 14.00% | ~108 |
 | The Family Fortune | 14.00% | ~108 |
 | Treasure Trove | 13.00% | ~100 |
 | Like Clockwork | 13.00% | ~100 |
-| Honest Mistake | 13.00% | ~100 |
 | Golem Chaser | 13.00% | ~100 |
 | Check Your Pulse | 13.00% | ~100 |
 | Right On Time | 12.00% | ~93 |

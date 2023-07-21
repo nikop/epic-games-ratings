@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -1723,9 +1723,9 @@
       "ID": "ID_ACHIEV_03",
       "SetID": "98bke8c",
       "Name": "Big Sister",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 674
+      "UsersEstimate": 719
     },
     {
       "ID": "ID_ACHIEV_04",
@@ -2251,8 +2251,8 @@
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-07-15T15:00:43.484172+00:00",
-  "LastChanged_Achievements": "2023-07-21T18:04:19.5179222+00:00",
+  "LastChanged_Achievements": "2023-07-21T19:04:16.3180692+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:38.9910145+00:00",
-  "LastUpdate_Ratings": "2023-07-21T17:59:05.0952042+00:00",
-  "LastUpdate_Achievements": "2023-07-21T18:04:19.5180167+00:00"
+  "LastUpdate_Ratings": "2023-07-21T18:59:01.3661033+00:00",
+  "LastUpdate_Achievements": "2023-07-21T19:04:16.3181554+00:00"
 }

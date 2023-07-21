@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -5552,9 +5552,9 @@
       "ID": "REWARD_45_STONE_CARVING",
       "SetID": "bm6el81",
       "Name": "Eagle Eyed",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 17
     },
     {
       "ID": "REWARD_48_WORKBENCH_USER",
@@ -5839,8 +5839,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-20T01:58:46.9192666+00:00",
-  "LastChanged_Achievements": "2023-07-21T18:04:32.1733643+00:00",
+  "LastChanged_Achievements": "2023-07-21T19:04:27.4001271+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:56:52.6032381+00:00",
-  "LastUpdate_Ratings": "2023-07-21T17:57:11.3468871+00:00",
-  "LastUpdate_Achievements": "2023-07-21T18:04:32.1735467+00:00"
+  "LastUpdate_Ratings": "2023-07-21T18:57:21.7551479+00:00",
+  "LastUpdate_Achievements": "2023-07-21T19:04:27.4002463+00:00"
 }

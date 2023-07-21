@@ -26,19 +26,19 @@ Rating: 4.63 (Ranked 331)
 | Impenetrable Fortress | 3.00% | ~151 |
 | Intimidation Tactics | 3.00% | ~151 |
 | Here be Dragons | 3.00% | ~151 |
-| Valley of Wonders | 2.00% | ~100 |
-| The Magic That Empowers Me! | 2.00% | ~100 |
-| Return of the Wizard King | 2.00% | ~100 |
-| God Emperor | 2.00% | ~100 |
-| Lord of Chaos | 2.00% | ~100 |
-| Arch Mage | 2.00% | ~100 |
-| The Creator | 2.00% | ~100 |
-| Enchanted Archipelago | 2.00% | ~100 |
-| The Goddess of Nature | 2.00% | ~100 |
-| Eternal Lord | 2.00% | ~100 |
-| Digging for Treasure | 2.00% | ~100 |
-| Preparation Is Everything | 2.00% | ~100 |
-| Duality | 2.00% | ~100 |
+| Valley of Wonders | 2.00% | ~101 |
+| The Magic That Empowers Me! | 2.00% | ~101 |
+| Return of the Wizard King | 2.00% | ~101 |
+| God Emperor | 2.00% | ~101 |
+| Lord of Chaos | 2.00% | ~101 |
+| Arch Mage | 2.00% | ~101 |
+| The Creator | 2.00% | ~101 |
+| Enchanted Archipelago | 2.00% | ~101 |
+| The Goddess of Nature | 2.00% | ~101 |
+| Eternal Lord | 2.00% | ~101 |
+| Digging for Treasure | 2.00% | ~101 |
+| Preparation Is Everything | 2.00% | ~101 |
+| Duality | 2.00% | ~101 |
 | Crimson Caldera | 1.00% | ~50 |
 | The Eternal Court | 1.00% | ~50 |
 | Jack of All Tomes | 1.00% | ~50 |
@@ -56,7 +56,7 @@ Rating: 4.63 (Ranked 331)
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,025 (Ranked 136)  
+Progressed: 5,026 (Ranked 136)  
 Completed: 5 (0.10%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 5 (0.10%) (Ranked 186)
 | 2023-07-18 | 5,010 | 5 |
 | 2023-07-19 | 5,014 | 5 |
 | 2023-07-20 | 5,021 | 5 |
-| 2023-07-21 | 5,025 | 5 |
+| 2023-07-21 | 5,026 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,7 +2,7 @@
   "ID": "947753e35eda434f9eafba17afa8f570",
   "Name": "Alekon",
   "ProductSlug": "alekon-b2faec",
-  "Ranking_EOS_Progress": 424,
+  "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 83,
@@ -169,9 +169,9 @@
       "ID": "ACH_21_JIGSAW",
       "SetID": "2k150c1",
       "Name": "Sticking With It",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_22_MIND_READER",
@@ -281,9 +281,9 @@
       "ID": "ACH_34_PHOTO_EDITOR",
       "SetID": "2k150c1",
       "Name": "Photo Wizard",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_35_GROUP_PHOTO",
@@ -392,8 +392,8 @@
   ],
   "FirstSeen": "2023-06-01T17:57:13.1793768+00:00",
   "FirstSeenAchievements": "2023-05-06T12:01:39.7571986+00:00",
-  "LastChanged_Achievements": "2023-07-21T18:08:00.3854226+00:00",
+  "LastChanged_Achievements": "2023-07-21T19:07:25.6920902+00:00",
   "LastUpdate_AppInfo": "2023-07-15T19:57:06.9703834+00:00",
-  "LastUpdate_Ratings": "2023-07-21T17:57:51.5625886+00:00",
-  "LastUpdate_Achievements": "2023-07-21T18:08:00.3854551+00:00"
+  "LastUpdate_Ratings": "2023-07-21T18:57:57.5887258+00:00",
+  "LastUpdate_Achievements": "2023-07-21T19:07:25.6921223+00:00"
 }

@@ -1946,9 +1946,9 @@
       "ID": "ParryBoss",
       "SetID": "a9e499d",
       "Name": "The Harder They Fall",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 116
     },
     {
       "ID": "ParryRepeated1",
@@ -1994,9 +1994,9 @@
       "ID": "RewindParry",
       "SetID": "a9e499d",
       "Name": "Honest Mistake",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 108
     },
     {
       "ID": "ScrambotCompletion1",
@@ -2074,9 +2074,9 @@
       "ID": "TimewinderMultiKill1",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 116
     },
     {
       "ID": "WarwickDefeated",
@@ -2129,8 +2129,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-21T18:03:55.2312778+00:00",
+  "LastChanged_Achievements": "2023-07-21T19:03:45.0794597+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:20.5747926+00:00",
-  "LastUpdate_Ratings": "2023-07-21T18:00:53.4913241+00:00",
-  "LastUpdate_Achievements": "2023-07-21T18:03:55.2313854+00:00"
+  "LastUpdate_Ratings": "2023-07-21T19:00:31.9260994+00:00",
+  "LastUpdate_Achievements": "2023-07-21T19:03:45.0795129+00:00"
 }

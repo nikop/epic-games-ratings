@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -280,7 +280,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5025,
+  "EOS_Progressed": 5026,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
@@ -5370,6 +5370,11 @@
       "Time": "2023-07-21T17:04:29.7347002+00:00",
       "NumProgressed": 5025,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-21T19:04:28.9395999+00:00",
+      "NumProgressed": 5026,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 50,
@@ -5381,7 +5386,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "10",
@@ -5413,7 +5418,7 @@
       "Name": "The Magic That Empowers Me!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "14",
@@ -5429,7 +5434,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "16",
@@ -5437,7 +5442,7 @@
       "Name": "God Emperor",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "17",
@@ -5445,7 +5450,7 @@
       "Name": "Lord of Chaos",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "18",
@@ -5453,7 +5458,7 @@
       "Name": "Arch Mage",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "19",
@@ -5461,7 +5466,7 @@
       "Name": "The Creator",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "2",
@@ -5469,7 +5474,7 @@
       "Name": "Enchanted Archipelago",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "20",
@@ -5477,7 +5482,7 @@
       "Name": "The Goddess of Nature",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "21",
@@ -5485,7 +5490,7 @@
       "Name": "Eternal Lord",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "22",
@@ -5533,7 +5538,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "28",
@@ -5565,7 +5570,7 @@
       "Name": "Preparation Is Everything",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "31",
@@ -5749,7 +5754,7 @@
       "Name": "Duality",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "48",
@@ -5780,13 +5785,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5025,
+      "Progressed": 5026,
       "Completed": 4760
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5025,
+      "Progressed": 5026,
       "Completed": 5
     }
   ],
@@ -5794,8 +5799,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-07-19T14:00:18.5966835+00:00",
-  "LastChanged_Achievements": "2023-07-21T18:04:34.0997403+00:00",
+  "LastChanged_Achievements": "2023-07-21T19:04:28.9395993+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:27.6381321+00:00",
-  "LastUpdate_Ratings": "2023-07-21T18:01:00.5429148+00:00",
-  "LastUpdate_Achievements": "2023-07-21T18:04:34.0998752+00:00"
+  "LastUpdate_Ratings": "2023-07-21T19:00:38.0753416+00:00",
+  "LastUpdate_Achievements": "2023-07-21T19:04:28.9396779+00:00"
 }

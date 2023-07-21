@@ -6,15 +6,18 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Clergy | 0.30% | ~39 |
-| The Great Mage | 0.20% | ~26 |
+| The Clergy | 0.40% | ~52 |
+| The Great Mage | 0.30% | ~39 |
+| Poetic Leader | 0.20% | ~26 |
 | Regicide | 0.10% | ~13 |
 | Bad Heir Day | 0.10% | ~13 |
+| Hanging Gardens in Babylon | 0.10% | ~13 |
 | Cleopatra's Love | 0.10% | ~13 |
 | Able | 0.10% | ~13 |
 | Ambitious | 0.10% | ~13 |
 | Architect | 0.10% | ~13 |
 | Drillmaster | 0.10% | ~13 |
+| Brilliant | 0.10% | ~13 |
 | Capable | 0.10% | ~13 |
 | Conqueror | 0.10% | ~13 |
 | Devout | 0.10% | ~13 |
@@ -39,6 +42,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 0.10% | ~13 |
 | Subjugator | 0.10% | ~13 |
 | Victorious | 0.10% | ~13 |
+| Warrior | 0.10% | ~13 |
 | Wise | 0.10% | ~13 |
 | Developing Cities | 0.10% | ~13 |
 | Strong Cities | 0.10% | ~13 |
@@ -46,6 +50,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just Difficulty | 0.10% | ~13 |
 | Artisans | 0.10% | ~13 |
 | Champions | 0.10% | ~13 |
+| Clerics | 0.10% | ~13 |
 | Hunters | 0.10% | ~13 |
 | Landowners | 0.10% | ~13 |
 | Patrons | 0.10% | ~13 |
@@ -55,10 +60,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 0.10% | ~13 |
 | Furious Family | 0.10% | ~13 |
 | Game of the Week | 0.10% | ~13 |
+| Acropolis | 0.10% | ~13 |
+| Apadana | 0.10% | ~13 |
 | Circus Maximus | 0.10% | ~13 |
 | Colossus | 0.10% | ~13 |
 | Great Ziggurat | 0.10% | ~13 |
 | Hanging Gardens | 0.10% | ~13 |
+| Church of the Holy Sepulchre | 0.10% | ~13 |
 | Temple of Solomon | 0.10% | ~13 |
 | Adur Burzen-Mihr | 0.10% | ~13 |
 | Ishtar Gate | 0.10% | ~13 |
@@ -72,10 +80,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 2 | 0.10% | ~13 |
 | Learn to Play 3 | 0.10% | ~13 |
 | Learn to Play 4 | 0.10% | ~13 |
+| Learn to Play 5 | 0.10% | ~13 |
 | Macedonian Wars | 0.10% | ~13 |
 | Babylonia | 0.10% | ~13 |
+| Egypt | 0.10% | ~13 |
 | Greece | 0.10% | ~13 |
 | Rome | 0.10% | ~13 |
+| Pantheon of Gods | 0.10% | ~13 |
 | Play a 1-v-1 Game | 0.10% | ~13 |
 | Play a Free-For-All Game (>2 Players) | 0.10% | ~13 |
 | Play a Network Game | 0.10% | ~13 |
@@ -86,6 +97,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Manichaeism | 0.10% | ~13 |
 | Assyrian Paganism | 0.10% | ~13 |
 | Babylonian Paganism | 0.10% | ~13 |
+| Carthaginian Paganism | 0.10% | ~13 |
 | Egyptian Paganism | 0.10% | ~13 |
 | Greek Paganism | 0.10% | ~13 |
 | Hittite Paganism | 0.10% | ~13 |
@@ -93,6 +105,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Paganism | 0.10% | ~13 |
 | Zoroastrianism | 0.10% | ~13 |
 | Circus Maximus in Roma | 0.10% | ~13 |
+| Building Wonders | 0.10% | ~13 |
 | Naming Landmarks | 0.10% | ~13 |
 | Economic Reform | 0.10% | ~13 |
 | Industrial Progress | 0.10% | ~13 |
@@ -120,7 +133,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Five Cults | 0.10% | ~13 |
 | The Mythical Beast | 0.10% | ~13 |
 | Pilgrimage | 0.10% | ~13 |
-| Poetic Leader | 0.10% | ~13 |
 | Patriarch St Paul | 0.10% | ~13 |
 | Hypatia the Teacher | 0.10% | ~13 |
 | The Royal Couple | 0.10% | ~13 |
@@ -132,7 +144,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Alliance Victory | 0.00% | ~0 |
 | Future Regicide | 0.00% | ~0 |
 | Acropolis in Athenai | 0.00% | ~0 |
-| Hanging Gardens in Babylon | 0.00% | ~0 |
 | Ishtar Gate in Babylon | 0.00% | ~0 |
 | Barbarian Horde | 0.00% | ~0 |
 | The Great Raging Horde | 0.00% | ~0 |
@@ -165,7 +176,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ancient | 0.00% | ~0 |
 | Avenger | 0.00% | ~0 |
 | Beloved | 0.00% | ~0 |
-| Brilliant | 0.00% | ~0 |
 | Destroyer | 0.00% | ~0 |
 | Holy | 0.00% | ~0 |
 | Intercessor | 0.00% | ~0 |
@@ -176,7 +186,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Rebuilder | 0.00% | ~0 |
 | Restorer | 0.00% | ~0 |
 | Valiant | 0.00% | ~0 |
-| Warrior | 0.00% | ~0 |
 | White Death | 0.00% | ~0 |
 | Council of Madness | 0.00% | ~0 |
 | Legendary Cities | 0.00% | ~0 |
@@ -192,7 +201,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ethnic Diversity | 0.00% | ~0 |
 | Et tu Brutus? | 0.00% | ~0 |
 | Event Level High | 0.00% | ~0 |
-| Clerics | 0.00% | ~0 |
 | Riders | 0.00% | ~0 |
 | Battle of the Fertile Crescent | 0.00% | ~0 |
 | The Eternal Treaty | 0.00% | ~0 |
@@ -242,10 +250,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum in Halicarnassus | 0.00% | ~0 |
 | Hardcore | 0.00% | ~0 |
 | Hittite Iron | 0.00% | ~0 |
-| Acropolis | 0.00% | ~0 |
-| Apadana | 0.00% | ~0 |
 | Hagia Sophia | 0.00% | ~0 |
-| Church of the Holy Sepulchre | 0.00% | ~0 |
 | Cao'an | 0.00% | ~0 |
 | Mausoleum | 0.00% | ~0 |
 | Via Recta Souk | 0.00% | ~0 |
@@ -254,30 +259,25 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn By Playing 2 - Just | 0.00% | ~0 |
 | Learn By Playing 3 - Good | 0.00% | ~0 |
 | Learn By Playing 4 - Strong | 0.00% | ~0 |
-| Learn to Play 5 | 0.00% | ~0 |
 | Medo-Babylonian Conquest | 0.00% | ~0 |
 | Pyramids in Menefer | 0.00% | ~0 |
 | Merchants of the Levant | 0.00% | ~0 |
 | Realistic Mortality | 0.00% | ~0 |
 | Assyria | 0.00% | ~0 |
 | Carthage | 0.00% | ~0 |
-| Egypt | 0.00% | ~0 |
 | Hatti | 0.00% | ~0 |
 | Persia | 0.00% | ~0 |
 | Old World Order | 0.00% | ~0 |
 | One True Faith | 0.00% | ~0 |
-| Pantheon of Gods | 0.00% | ~0 |
 | Apadana in Parsa | 0.00% | ~0 |
 | Play a Hotseat Game | 0.00% | ~0 |
 | Play a LAN Game | 0.00% | ~0 |
 | Play a MP Teams Game | 0.00% | ~0 |
 | Play a Play-By-Cloud Game | 0.00% | ~0 |
 | Punic Wars | 0.00% | ~0 |
-| Carthaginian Paganism | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
 | Roman Papacy | 0.00% | ~0 |
 | Pantheon in Roma | 0.00% | ~0 |
-| Building Wonders | 0.00% | ~0 |
 | Capturing Cities | 0.00% | ~0 |
 | Ten Crowns | 0.00% | ~0 |
 | Military Prestige | 0.00% | ~0 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,988 (Ranked 113)  
+Progressed: 12,992 (Ranked 113)  
 Completed: 5 (0.04%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -395,7 +395,7 @@ Completed: 5 (0.04%) (Ranked 209)
 | 2023-07-18 | 12,937 | 5 |
 | 2023-07-19 | 12,960 | 5 |
 | 2023-07-20 | 12,979 | 5 |
-| 2023-07-21 | 12,988 | 5 |
+| 2023-07-21 | 12,992 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 257)  
 Sum: 1,783 (Ranked 204)  

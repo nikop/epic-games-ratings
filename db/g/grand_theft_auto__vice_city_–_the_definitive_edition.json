@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 441,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -532,9 +532,9 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 9042,
+  "EOS_Progressed": 9043,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -6597,6 +6597,11 @@
       "Time": "2023-07-21T18:04:31.3451796+00:00",
       "NumProgressed": 9042,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-21T19:04:26.6819915+00:00",
+      "NumProgressed": 9043,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -6712,7 +6717,7 @@
       "Name": "Greasy Palms",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3707
+      "UsersEstimate": 3708
     },
     {
       "ID": "ACH15",
@@ -6776,7 +6781,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1808
+      "UsersEstimate": 1809
     },
     {
       "ID": "ACH23",
@@ -6784,7 +6789,7 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2260
+      "UsersEstimate": 2261
     },
     {
       "ID": "ACH24",
@@ -6879,7 +6884,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9042,
+      "Progressed": 9043,
       "Completed": 43
     }
   ],
@@ -6887,8 +6892,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-20T21:00:57.6369425+00:00",
-  "LastChanged_Achievements": "2023-07-21T18:04:31.345179+00:00",
+  "LastChanged_Achievements": "2023-07-21T19:04:26.6819908+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:03.5723456+00:00",
-  "LastUpdate_Ratings": "2023-07-21T17:59:21.6006804+00:00",
-  "LastUpdate_Achievements": "2023-07-21T18:04:31.3452469+00:00"
+  "LastUpdate_Ratings": "2023-07-21T18:59:14.1451778+00:00",
+  "LastUpdate_Achievements": "2023-07-21T19:04:26.6820774+00:00"
 }

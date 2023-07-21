@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -180,7 +180,7 @@
   "Tags": [],
   "EOS_Progressed": 7428,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6111,9 +6111,9 @@
       "ID": "0009",
       "SetID": "2n2feee",
       "Name": "Mainframe Hacker",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 3491
+      "UsersEstimate": 3565
     },
     {
       "ID": "0010",
@@ -6231,9 +6231,9 @@
       "ID": "0024",
       "SetID": "2n2feee",
       "Name": "Tomorrow Never Dyes",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 3343
+      "UsersEstimate": 3417
     },
     {
       "ID": "0025",
@@ -6344,8 +6344,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-07-21T11:00:13.8455224+00:00",
-  "LastChanged_Achievements": "2023-07-21T18:03:10.6792368+00:00",
+  "LastChanged_Achievements": "2023-07-21T19:02:27.546825+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:40.2743278+00:00",
-  "LastUpdate_Ratings": "2023-07-21T18:01:16.6491699+00:00",
-  "LastUpdate_Achievements": "2023-07-21T18:03:10.6793509+00:00"
+  "LastUpdate_Ratings": "2023-07-21T19:00:54.5577942+00:00",
+  "LastUpdate_Achievements": "2023-07-21T19:02:27.5469002+00:00"
 }

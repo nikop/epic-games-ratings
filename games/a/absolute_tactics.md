@@ -16,17 +16,17 @@
 | Bloody Vengeance | 20.00% | ~1 |
 | Glorious Loot | 20.00% | ~1 |
 | Victorious | 20.00% | ~1 |
+| Heroes of Neu Selea | 20.00% | ~1 |
+| Classy | 20.00% | ~1 |
 | Good Fortune | 0.00% | ~0 |
-| Heroes of Neu Selea | 0.00% | ~0 |
 | Eternal Darkness | 0.00% | ~0 |
 | Real Ultimate Power | 0.00% | ~0 |
 | Protector of the People | 0.00% | ~0 |
 | Secret Admirer | 0.00% | ~0 |
-| Classy | 0.00% | ~0 |
 | The Hordes of Mercy | 0.00% | ~0 |
 | Thinning the Horde | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5 (Ranked 431)  
+Progressed: 5 (Ranked 433)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |

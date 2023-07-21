@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2861,
+  "EOS_Progressed": 2864,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3693,6 +3693,11 @@
       "Time": "2023-07-21T17:05:51.4666683+00:00",
       "NumProgressed": 2861,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T19:05:40.3603752+00:00",
+      "NumProgressed": 2864,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -3704,7 +3709,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "ACH_BASE_10",
@@ -3784,7 +3789,7 @@
       "Name": "Guy de Borderlands",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "ACH_BASE_21",
@@ -3792,7 +3797,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "ACH_BASE_22",
@@ -3920,7 +3925,7 @@
       "Name": "Access Granted",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ACH_BASE_37",
@@ -3928,7 +3933,7 @@
       "Name": "Necessary Enhancement",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ACH_BASE_38",
@@ -4048,7 +4053,7 @@
       "Name": "All in Good Health",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ACH_BASE_56",
@@ -4088,7 +4093,7 @@
       "Name": "Hope Seeker",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "ACH_BASE_60",
@@ -4136,7 +4141,7 @@
       "Name": "From the Past",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ACH_BASE_8",
@@ -4159,13 +4164,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1043,
+      "Progressed": 1046,
       "Completed": 6
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2861,
+      "Progressed": 2864,
       "Completed": 0
     }
   ],
@@ -4173,8 +4178,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-07-08T02:22:11.1138638+00:00",
-  "LastChanged_Achievements": "2023-07-21T18:05:57.0141849+00:00",
+  "LastChanged_Achievements": "2023-07-21T19:05:40.3603743+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:23.6946025+00:00",
-  "LastUpdate_Ratings": "2023-07-21T17:59:45.7122756+00:00",
-  "LastUpdate_Achievements": "2023-07-21T18:05:57.0143297+00:00"
+  "LastUpdate_Ratings": "2023-07-21T18:59:35.3464114+00:00",
+  "LastUpdate_Achievements": "2023-07-21T19:05:40.3604778+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -496,9 +496,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3074,
+  "EOS_Progressed": 3076,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3281,6 +3281,11 @@
       "Time": "2023-07-21T18:07:00.4275066+00:00",
       "NumProgressed": 3074,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-21T19:06:34.1003689+00:00",
+      "NumProgressed": 3076,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 42,
@@ -3324,7 +3329,7 @@
       "Name": "Blood and justice",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "CordonBleu_28",
@@ -3332,7 +3337,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1323
     },
     {
       "ID": "CrowdPleaser",
@@ -3340,7 +3345,7 @@
       "Name": "Crowd Pleaser.",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Encyclopedic_30",
@@ -3364,7 +3369,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "ForAllAurai_8",
@@ -3388,7 +3393,7 @@
       "Name": "Hold my Mead and Watch This",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "HomeSweetHome_25",
@@ -3396,7 +3401,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "HouseofCards_19",
@@ -3460,7 +3465,7 @@
       "Name": "Perfect Defense",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "PowerToThePeople",
@@ -3468,7 +3473,7 @@
       "Name": "Power! To! The People!",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ReadyforSummer_41",
@@ -3476,7 +3481,7 @@
       "Name": "Ready for Summer",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1568
+      "UsersEstimate": 1569
     },
     {
       "ID": "ReadyforWinter_42",
@@ -3484,7 +3489,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1967
+      "UsersEstimate": 1969
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -3500,7 +3505,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 799
+      "UsersEstimate": 800
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -3516,7 +3521,7 @@
       "Name": "Tapped!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1137
+      "UsersEstimate": 1138
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -3612,7 +3617,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2306
+      "UsersEstimate": 2307
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -3620,22 +3625,22 @@
       "Name": "Your actions define you",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     }
   ],
   "AchievementSets": [
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3074,
+      "Progressed": 3076,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-07-11T02:15:21.6079736+00:00",
-  "LastChanged_Achievements": "2023-07-21T18:07:00.4275059+00:00",
+  "LastChanged_Achievements": "2023-07-21T19:06:34.1003681+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:26.5691499+00:00",
-  "LastUpdate_Ratings": "2023-07-21T17:58:52.5581911+00:00",
-  "LastUpdate_Achievements": "2023-07-21T18:07:00.4275714+00:00"
+  "LastUpdate_Ratings": "2023-07-21T18:58:50.1896047+00:00",
+  "LastUpdate_Achievements": "2023-07-21T19:06:34.1004219+00:00"
 }

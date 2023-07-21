@@ -2,7 +2,7 @@
   "ID": "00968dd40b6e49548220ce6f215cbb44",
   "Name": "Absolute Tactics",
   "ProductSlug": "absolute-tactics-ca91e4",
-  "Ranking_EOS_Progress": 431,
+  "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 83,
@@ -171,9 +171,9 @@
       "ID": "AT_ACHIEVEMENT_NAME_0014",
       "SetID": "9jb1eoe",
       "Name": "Heroes of Neu Selea",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "AT_ACHIEVEMENT_NAME_0015",
@@ -211,9 +211,9 @@
       "ID": "AT_ACHIEVEMENT_NAME_0019",
       "SetID": "9jb1eoe",
       "Name": "Classy",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "AT_ACHIEVEMENT_NAME_0020",
@@ -244,8 +244,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.3491897+00:00",
   "FirstSeenAchievements": "2023-06-19T22:05:39.5621964+00:00",
   "LastChanged": "2023-03-31T05:57:50.3491898+00:00",
-  "LastChanged_Achievements": "2023-07-21T18:08:07.4676827+00:00",
+  "LastChanged_Achievements": "2023-07-21T19:07:31.7058328+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:09.0698267+00:00",
-  "LastUpdate_Ratings": "2023-07-21T18:01:57.4360861+00:00",
-  "LastUpdate_Achievements": "2023-07-21T18:08:07.4676996+00:00"
+  "LastUpdate_Ratings": "2023-07-21T19:01:23.8191975+00:00",
+  "LastUpdate_Achievements": "2023-07-21T19:07:31.7058497+00:00"
 }

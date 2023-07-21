@@ -2144,7 +2144,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 67250,
+  "EOS_Progressed": 67252,
   "EOS_Completed": 103,
   "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 1,
@@ -10444,6 +10444,11 @@
       "Time": "2023-07-21T17:05:10.0355033+00:00",
       "NumProgressed": 67250,
       "NumCompleted": 103
+    },
+    {
+      "Time": "2023-07-21T19:05:04.1991928+00:00",
+      "NumProgressed": 67252,
+      "NumCompleted": 103
     }
   ],
   "TotalAchievements": 61,
@@ -10599,7 +10604,7 @@
       "Name": "Fusion Expert",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -10623,7 +10628,7 @@
       "Name": "Talonted",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "DEFEAT_FREAKS_1",
@@ -10639,7 +10644,7 @@
       "Name": "Out of Their League",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -10655,7 +10660,7 @@
       "Name": "Family Meeting",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -10727,7 +10732,7 @@
       "Name": "Batarang Collector",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "GOTHAM_COO_PAGES",
@@ -10751,7 +10756,7 @@
       "Name": "Claiming the Mural High Ground",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "HARLEY_1",
@@ -10839,7 +10844,7 @@
       "Name": "A Worthy Successor",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "MYSTERY_01",
@@ -10919,7 +10924,7 @@
       "Name": "Solid Alibi",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -10942,13 +10947,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 67250,
+      "Progressed": 67252,
       "Completed": 103
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 37530,
+      "Progressed": 37532,
       "Completed": 2653
     }
   ],
@@ -10956,8 +10961,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-07-21T11:59:53.4239197+00:00",
-  "LastChanged_Achievements": "2023-07-21T18:05:15.866381+00:00",
+  "LastChanged_Achievements": "2023-07-21T19:05:04.1991919+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:49.4668745+00:00",
-  "LastUpdate_Ratings": "2023-07-21T18:01:32.7652961+00:00",
-  "LastUpdate_Achievements": "2023-07-21T18:05:15.8665616+00:00"
+  "LastUpdate_Ratings": "2023-07-21T19:01:05.7249971+00:00",
+  "LastUpdate_Achievements": "2023-07-21T19:05:04.1992946+00:00"
 }

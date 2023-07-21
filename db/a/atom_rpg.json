@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 448,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -358,9 +358,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 1029,
+  "EOS_Progressed": 1030,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1683,6 +1683,11 @@
       "Time": "2023-07-21T17:03:16.0969508+00:00",
       "NumProgressed": 1029,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T19:03:22.0401957+00:00",
+      "NumProgressed": 1030,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1750,7 +1755,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1020
     },
     {
       "ID": "EXPERT_1",
@@ -1854,7 +1859,7 @@
       "Name": "One shot, one kill",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "PACIFIST",
@@ -1886,7 +1891,7 @@
       "Name": "Protection racket",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "RELICTS",
@@ -1910,7 +1915,7 @@
       "Name": "Sacrifice",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "SAVANT_1",
@@ -1926,7 +1931,7 @@
       "Name": "Secret room",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "SHOG",
@@ -1966,7 +1971,7 @@
       "Name": "Wanderer",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "WISHMASTER_1",
@@ -1981,15 +1986,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1029,
+      "Progressed": 1030,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-11T18:59:46.5771351+00:00",
-  "LastChanged_Achievements": "2023-07-21T18:03:28.1308709+00:00",
+  "LastChanged_Achievements": "2023-07-21T19:03:22.0401949+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:11.8607725+00:00",
-  "LastUpdate_Ratings": "2023-07-21T18:01:58.3754464+00:00",
-  "LastUpdate_Achievements": "2023-07-21T18:03:28.1309311+00:00"
+  "LastUpdate_Ratings": "2023-07-21T19:01:24.7553017+00:00",
+  "LastUpdate_Achievements": "2023-07-21T19:03:22.0402447+00:00"
 }

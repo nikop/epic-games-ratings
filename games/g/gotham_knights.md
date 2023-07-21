@@ -36,11 +36,11 @@ Rating: 4.18 (Ranked 857)
 | Seeking Asylum | 2.00% | ~1,345 |
 | Gotham Knight | 2.00% | ~1,345 |
 | Gotham City Confidential | 2.00% | ~1,345 |
-| Fusion Expert | 1.00% | ~672 |
-| Out of Their League | 1.00% | ~672 |
-| Family Meeting | 1.00% | ~672 |
-| A Worthy Successor | 1.00% | ~672 |
-| Solid Alibi | 1.00% | ~672 |
+| Fusion Expert | 1.00% | ~673 |
+| Out of Their League | 1.00% | ~673 |
+| Family Meeting | 1.00% | ~673 |
+| A Worthy Successor | 1.00% | ~673 |
+| Solid Alibi | 1.00% | ~673 |
 | Expert Crime Fighter | 0.90% | ~605 |
 | Dressed to Impress | 0.80% | ~538 |
 | A Momentum Occasion | 0.60% | ~404 |
@@ -54,10 +54,10 @@ Rating: 4.18 (Ranked 857)
 | Element of Surprise | 0.20% | ~75 |
 | It's Nice to Be Wanted | 0.20% | ~75 |
 | The Cold, the Bad and the Ugly | 0.20% | ~75 |
-| Talonted | 0.20% | ~134 |
+| Talonted | 0.20% | ~135 |
 | Icebreaker | 0.20% | ~75 |
-| Batarang Collector | 0.20% | ~134 |
-| Claiming the Mural High Ground | 0.20% | ~134 |
+| Batarang Collector | 0.20% | ~135 |
+| Claiming the Mural High Ground | 0.20% | ~135 |
 | A Sophisticated Mallet | 0.20% | ~75 |
 | Gotham's Greatest Depths | 0.10% | ~38 |
 | Showdown Sovereign | 0.10% | ~38 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 857)
 | History Major | 0.10% | ~67 |
 | Confronting Your Demon | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,250 (Ranked 77)  
+Progressed: 67,252 (Ranked 77)  
 Completed: 103 (0.15%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 103 (0.15%) (Ranked 175)
 | 2023-07-18 | 67,170 | 102 |
 | 2023-07-19 | 67,208 | 102 |
 | 2023-07-20 | 67,235 | 102 |
-| 2023-07-21 | 67,250 | 103 |
+| 2023-07-21 | 67,252 | 103 |
 ## Awards
 Max (Great Boss Battles): 2,455  (Ranked 101)  
 Sum: 4,076 (Ranked 138)  
