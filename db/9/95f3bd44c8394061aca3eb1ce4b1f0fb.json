@@ -2,9 +2,9 @@
   "ID": "95f3bd44c8394061aca3eb1ce4b1f0fb",
   "Name": "Tabletop Playground",
   "ProductSlug": "tabletop-playground-9623f1",
-  "Ranking_EOS_Progress": 368,
+  "Ranking_EOS_Progress": 367,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-06-15T19:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 29,
+  "EOS_Progressed": 30,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -166,6 +166,11 @@
       "Time": "2023-07-20T22:05:29.8518716+00:00",
       "NumProgressed": 29,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T05:05:44.7802112+00:00",
+      "NumProgressed": 30,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 5,
@@ -183,7 +188,7 @@
       "ID": "CreateTemplate",
       "SetID": "9ajogia",
       "Name": "Creator",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 200,
       "UsersEstimate": 6
     },
@@ -216,14 +221,14 @@
     {
       "ID": "9ajogia",
       "IsBase": true,
-      "Progressed": 29,
+      "Progressed": 30,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T04:57:23.9027898+00:00",
   "FirstSeenAchievements": "2023-05-18T13:05:33.6610739+00:00",
-  "LastChanged_Achievements": "2023-07-21T04:05:48.2798862+00:00",
+  "LastChanged_Achievements": "2023-07-21T05:05:44.7802105+00:00",
   "LastUpdate_AppInfo": "2023-07-20T17:57:05.9461786+00:00",
-  "LastUpdate_Ratings": "2023-07-21T03:57:48.0785123+00:00",
-  "LastUpdate_Achievements": "2023-07-21T04:05:48.2798927+00:00"
+  "LastUpdate_Ratings": "2023-07-21T04:57:47.1197153+00:00",
+  "LastUpdate_Achievements": "2023-07-21T05:05:44.7802278+00:00"
 }

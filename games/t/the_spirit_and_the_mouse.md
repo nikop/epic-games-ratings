@@ -19,7 +19,7 @@
 | The Girl and the Homework | 29.00% | ~21 |
 | OK, I heard you!! | 27.00% | ~20 |
 | North Town Energy | 26.00% | ~19 |
-| Lightbulb Detective | 23.00% | ~17 |
+| Lightbulb Detective | 25.00% | ~18 |
 | Unlimited Power!! | 22.00% | ~16 |
 | The Quiche and the Hair Dryer | 22.00% | ~16 |
 | Cartographer | 22.00% | ~16 |

@@ -22,11 +22,11 @@
 | Time Flies | 14.00% | ~107 |
 | The Harder They Fall | 14.00% | ~107 |
 | No, Thanks! | 14.00% | ~107 |
+| Honest Mistake | 14.00% | ~107 |
 | Fast Learner | 14.00% | ~107 |
 | Immaculate Aim | 14.00% | ~107 |
 | The Family Fortune | 14.00% | ~107 |
 | Like Clockwork | 13.00% | ~100 |
-| Honest Mistake | 13.00% | ~100 |
 | Golem Chaser | 13.00% | ~100 |
 | Check Your Pulse | 13.00% | ~100 |
 | Right On Time | 12.00% | ~92 |
@@ -54,7 +54,7 @@
 | Thinking Two Steps Ahead | 1.00% | ~8 |
 | No Time to Waste | 1.00% | ~8 |
 | Wildlife Protection | 0.90% | ~7 |
-| A Lesson in Precision | 0.80% | ~6 |
+| A Lesson in Precision | 0.90% | ~7 |
 | Going to Live Forever | 0.50% | ~4 |
 | Raw Talent | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)

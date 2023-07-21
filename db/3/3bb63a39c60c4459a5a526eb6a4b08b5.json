@@ -2,7 +2,7 @@
   "ID": "3bb63a39c60c4459a5a526eb6a4b08b5",
   "Name": "Fly Corp",
   "ProductSlug": "fly-corp-398021",
-  "Ranking_EOS_Progress": 241,
+  "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 148,
   "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 77,
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 321,
+  "EOS_Progressed": 322,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1031,6 +1031,11 @@
       "Time": "2023-07-20T14:04:00.7118531+00:00",
       "NumProgressed": 321,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-21T05:04:53.1891096+00:00",
+      "NumProgressed": 322,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -1058,7 +1063,7 @@
       "Name": "Basic Controls",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "BigPlane",
@@ -1066,7 +1071,7 @@
       "Name": "Expensive Plane",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "BudgetFlight",
@@ -1104,9 +1109,9 @@
       "ID": "Debtor",
       "SetID": "1e89b4i",
       "Name": "Debtor",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 35
     },
     {
       "ID": "EdgeOfTheWorld",
@@ -1154,7 +1159,7 @@
       "Name": "One Hundred",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Incredible",
@@ -1208,9 +1213,9 @@
       "ID": "LongDistance",
       "SetID": "1e89b4i",
       "Name": "Long Distances",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 80
     },
     {
       "ID": "ManagementMaster",
@@ -1322,7 +1327,7 @@
       "Name": "Restructuring",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "Reviewer",
@@ -1362,7 +1367,7 @@
       "Name": "Time for Management",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "TransportHub",
@@ -1377,14 +1382,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 321,
+      "Progressed": 322,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-07-21T04:05:01.2209776+00:00",
+  "LastChanged_Achievements": "2023-07-21T05:04:53.1891089+00:00",
   "LastUpdate_AppInfo": "2023-07-18T08:57:06.2338611+00:00",
-  "LastUpdate_Ratings": "2023-07-21T03:57:29.0048158+00:00",
-  "LastUpdate_Achievements": "2023-07-21T04:05:01.2210089+00:00"
+  "LastUpdate_Ratings": "2023-07-21T04:57:29.0976236+00:00",
+  "LastUpdate_Achievements": "2023-07-21T05:04:53.1891516+00:00"
 }

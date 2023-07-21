@@ -6,30 +6,30 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 16.00% | ~99,539 |
-| Incurious | 15.00% | ~93,318 |
-| Climate Change | 14.00% | ~87,097 |
-| Stroller | 13.00% | ~80,876 |
+| Advanced Stroller | 16.00% | ~99,540 |
+| Incurious | 15.00% | ~93,319 |
+| Climate Change | 14.00% | ~87,098 |
+| Stroller | 13.00% | ~80,877 |
 | Toy Train | 12.00% | ~74,655 |
-| Advanced Hiker | 11.00% | ~68,433 |
-| Hiker | 10.00% | ~62,212 |
+| Advanced Hiker | 11.00% | ~68,434 |
+| Hiker | 10.00% | ~62,213 |
 | Mojave Courier | 5.00% | ~31,106 |
 | Voyager | 3.00% | ~18,664 |
 | Advanced Voyager | 3.00% | ~18,664 |
 | Expert Stroller | 3.00% | ~18,664 |
 | Orient Express | 3.00% | ~18,664 |
 | Saved by Nausicaä | 3.00% | ~18,664 |
-| Expert Hiker | 2.00% | ~12,442 |
-| Marathon | 2.00% | ~12,442 |
-| Destructionist | 2.00% | ~12,442 |
+| Expert Hiker | 2.00% | ~12,443 |
+| Marathon | 2.00% | ~12,443 |
+| Destructionist | 2.00% | ~12,443 |
 | Lost | 1.00% | ~6,221 |
 | Expert Voyager | 0.60% | ~3,733 |
 | Rocketman | 0.60% | ~3,733 |
 | Shopaholic | 0.60% | ~3,733 |
 | Nanuk | 0.50% | ~3,111 |
 | Dynamite Fishing | 0.50% | ~3,111 |
-| Scrooge | 0.40% | ~2,488 |
-| Terminal Station | 0.40% | ~2,488 |
+| Scrooge | 0.40% | ~2,489 |
+| Terminal Station | 0.40% | ~2,489 |
 | Wayfarer | 0.30% | ~1,866 |
 | Advanced Wayfarer | 0.30% | ~1,866 |
 | Trans-Siberian Railway | 0.30% | ~1,866 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~622 |
 | 20 Miles under the Sea | 0.10% | ~622 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 622,121 (Ranked 24)  
+Progressed: 622,128 (Ranked 24)  
 Completed: 7 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 7 (0.00%) (Ranked 238)
 | 2023-07-18 | 621,278 | 7 |
 | 2023-07-19 | 621,668 | 7 |
 | 2023-07-20 | 622,060 | 7 |
-| 2023-07-21 | 622,121 | 7 |
+| 2023-07-21 | 622,128 | 7 |
 ## Awards
 Max (Diverse Characters): 190  (Ranked 273)  
 Sum: 1,539 (Ranked 215)  

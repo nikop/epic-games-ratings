@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 386,
+  "EOS_Progressed": 387,
   "EOS_Completed": 71,
   "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 18.39,
+  "EOS_Completed_Percentage": 18.35,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -1838,6 +1838,11 @@
       "Time": "2023-07-21T03:02:05.8039291+00:00",
       "NumProgressed": 386,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2023-07-21T05:02:10.7803758+00:00",
+      "NumProgressed": 387,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 22,
@@ -1849,7 +1854,7 @@
       "Name": "Welcome!",
       "Percentage": 98,
       "XP": 35,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "LEVEL_002",
@@ -1857,7 +1862,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "LEVEL_003",
@@ -1871,9 +1876,9 @@
       "ID": "LEVEL_004",
       "SetID": "3khpmem",
       "Name": "Great view from the beach and from the hill",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 35,
-      "UsersEstimate": 216
+      "UsersEstimate": 221
     },
     {
       "ID": "LEVEL_005",
@@ -1881,7 +1886,7 @@
       "Name": "Bridges to come and go",
       "Percentage": 49,
       "XP": 35,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "LEVEL_006",
@@ -1905,15 +1910,15 @@
       "Name": "Passion for sports",
       "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "LEVEL_009",
       "SetID": "3khpmem",
       "Name": "Who loves trains?",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 116
+      "UsersEstimate": 112
     },
     {
       "ID": "LEVEL_010",
@@ -1929,7 +1934,7 @@
       "Name": "At the heart of the city",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "LEVEL_012",
@@ -1937,7 +1942,7 @@
       "Name": "Calm neighborhood",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "LEVEL_013",
@@ -1993,7 +1998,7 @@
       "Name": "Aiming for a living and human city",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "LEVEL_020",
@@ -2001,7 +2006,7 @@
       "Name": "City of dreams",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "LEVEL_021",
@@ -2009,7 +2014,7 @@
       "Name": "Happy Christmas night!",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "LEVEL_022",
@@ -2017,14 +2022,14 @@
       "Name": "Night walk along the beach",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     }
   ],
   "AchievementSets": [
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 386,
+      "Progressed": 387,
       "Completed": 71
     }
   ],
@@ -2032,8 +2037,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-07-21T03:02:05.8039281+00:00",
+  "LastChanged_Achievements": "2023-07-21T05:02:10.7803533+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:43.4679377+00:00",
-  "LastUpdate_Ratings": "2023-07-21T03:58:55.959208+00:00",
-  "LastUpdate_Achievements": "2023-07-21T03:02:05.8039978+00:00"
+  "LastUpdate_Ratings": "2023-07-21T04:58:58.2286025+00:00",
+  "LastUpdate_Achievements": "2023-07-21T05:02:10.782803+00:00"
 }

@@ -336,9 +336,9 @@
       "ID": "ACH_BLOODISH_RED",
       "SetID": "8h8m55b",
       "Name": "Blood(ish) Red",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_BREW_FIRST_TIME",
@@ -368,9 +368,9 @@
       "ID": "ACH_CHILDS_PLAY",
       "SetID": "8h8m55b",
       "Name": "Child\u2019s Play",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_COLD_SHOULDERS",
@@ -392,9 +392,9 @@
       "ID": "ACH_FAILED_MESSENGER",
       "SetID": "8h8m55b",
       "Name": "Failed Messenger",
-      "Percentage": 39,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_FELLOW_INFLUENCER",
@@ -448,9 +448,9 @@
       "ID": "ACH_GOOD_REVIEW",
       "SetID": "8h8m55b",
       "Name": "Good Review",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_GUEST_OF_HONOR",
@@ -512,9 +512,9 @@
       "ID": "ACH_MASTER_PURLOINER",
       "SetID": "8h8m55b",
       "Name": "Master Purloiner",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_NEW_GAME_FIRST_TIME",
@@ -560,9 +560,9 @@
       "ID": "ACH_SAVED100",
       "SetID": "8h8m55b",
       "Name": "Saved $100",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_STAR_CROSSED_SIBLINGS",
@@ -600,9 +600,9 @@
       "ID": "ACH_TRASH_25_DRINKS",
       "SetID": "8h8m55b",
       "Name": "Stop it!",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_TRASH_FIRST_TIME",
@@ -632,9 +632,9 @@
       "ID": "ACH_UNLOCK_ALL_CHARACTER",
       "SetID": "8h8m55b",
       "Name": "We are all friends",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_UNLOCK_ALL_DRINK",
@@ -711,8 +711,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-07-21T04:06:38.5471387+00:00",
+  "LastChanged_Achievements": "2023-07-21T05:06:37.7370515+00:00",
   "LastUpdate_AppInfo": "2023-07-18T06:57:00.6515942+00:00",
-  "LastUpdate_Ratings": "2023-07-21T03:57:32.584663+00:00",
-  "LastUpdate_Achievements": "2023-07-21T04:06:38.5471761+00:00"
+  "LastUpdate_Ratings": "2023-07-21T04:57:32.9227496+00:00",
+  "LastUpdate_Achievements": "2023-07-21T05:06:37.7371012+00:00"
 }

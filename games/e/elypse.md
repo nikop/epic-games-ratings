@@ -6,11 +6,11 @@
 | ---- | ---------- | ----- |
 | A path of no return | 101.00% | ~70 |
 | A bottomless pit | 86.00% | ~59 |
-| Pigeon | 81.00% | ~56 |
-| Baited | 70.00% | ~48 |
+| Pigeon | 83.00% | ~57 |
+| Baited | 71.00% | ~49 |
 | "Swoosh" | 59.00% | ~41 |
 | The light at the end of the tunnel | 58.00% | ~40 |
-| Splash! | 55.00% | ~38 |
+| Splash! | 57.00% | ~39 |
 | Masochistic | 51.00% | ~35 |
 | Soft skin | 43.00% | ~30 |
 | Squid game | 36.00% | ~25 |
@@ -39,7 +39,7 @@
 | Gold digger | 0.00% | ~0 |
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69 (Ranked 325)  
+Progressed: 69 (Ranked 326)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |

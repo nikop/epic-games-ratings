@@ -140,7 +140,7 @@
   "Tags": [],
   "EOS_Progressed": 4727,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -3540,9 +3540,9 @@
       "ID": "ACH_DOCEND",
       "SetID": "5nj1ea3",
       "Name": "Soup Can into Space",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 142
     },
     {
       "ID": "ACH_DOGE",
@@ -3861,8 +3861,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-07-05T23:03:34.5212412+00:00",
-  "LastChanged_Achievements": "2023-07-21T04:04:43.367791+00:00",
+  "LastChanged_Achievements": "2023-07-21T05:04:35.3129977+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:23.889821+00:00",
-  "LastUpdate_Ratings": "2023-07-21T04:01:40.1073699+00:00",
-  "LastUpdate_Achievements": "2023-07-21T04:04:43.3678561+00:00"
+  "LastUpdate_Ratings": "2023-07-21T05:01:53.6781962+00:00",
+  "LastUpdate_Achievements": "2023-07-21T05:04:35.3131511+00:00"
 }

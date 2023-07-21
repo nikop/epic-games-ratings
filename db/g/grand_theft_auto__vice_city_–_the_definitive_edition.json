@@ -532,9 +532,9 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 9023,
+  "EOS_Progressed": 9024,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -6542,6 +6542,11 @@
       "Time": "2023-07-21T04:04:33.7721498+00:00",
       "NumProgressed": 9023,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-21T05:04:25.1259313+00:00",
+      "NumProgressed": 9024,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -6657,7 +6662,7 @@
       "Name": "Greasy Palms",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3699
+      "UsersEstimate": 3700
     },
     {
       "ID": "ACH15",
@@ -6713,7 +6718,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4060
+      "UsersEstimate": 4061
     },
     {
       "ID": "ACH22",
@@ -6753,7 +6758,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1353
+      "UsersEstimate": 1354
     },
     {
       "ID": "ACH27",
@@ -6824,7 +6829,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9023,
+      "Progressed": 9024,
       "Completed": 43
     }
   ],
@@ -6832,8 +6837,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-20T21:00:57.6369425+00:00",
-  "LastChanged_Achievements": "2023-07-21T04:04:33.7721493+00:00",
+  "LastChanged_Achievements": "2023-07-21T05:04:25.1259303+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:03.5723456+00:00",
-  "LastUpdate_Ratings": "2023-07-21T03:59:09.1475297+00:00",
-  "LastUpdate_Achievements": "2023-07-21T04:04:33.7721972+00:00"
+  "LastUpdate_Ratings": "2023-07-21T04:59:12.3674486+00:00",
+  "LastUpdate_Achievements": "2023-07-21T05:04:25.1260244+00:00"
 }

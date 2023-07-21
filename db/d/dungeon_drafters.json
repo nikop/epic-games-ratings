@@ -4,7 +4,7 @@
   "ProductSlug": "dungeon-drafters-82c40a",
   "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -375,9 +375,9 @@
       "ID": "MasterRaiderQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Friend!",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "MasterRaiderQuestlineLast",
@@ -616,8 +616,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-07-21T04:02:11.0122222+00:00",
+  "LastChanged_Achievements": "2023-07-21T05:02:16.0041964+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:10.1042982+00:00",
-  "LastUpdate_Ratings": "2023-07-21T03:58:01.6405652+00:00",
-  "LastUpdate_Achievements": "2023-07-21T04:02:11.0122514+00:00"
+  "LastUpdate_Ratings": "2023-07-21T04:58:00.0910375+00:00",
+  "LastUpdate_Achievements": "2023-07-21T05:02:16.0042275+00:00"
 }

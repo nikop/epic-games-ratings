@@ -7344,9 +7344,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 72134,
+  "EOS_Progressed": 72139,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2770,
+  "EOS_NewPlayers": 2768,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17304,6 +17304,11 @@
       "Time": "2023-07-21T04:05:32.4438392+00:00",
       "NumProgressed": 72134,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T05:05:27.4331016+00:00",
+      "NumProgressed": 72139,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -17835,7 +17840,7 @@
       "Name": "Cold War",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2885
+      "UsersEstimate": 2886
     },
     {
       "ID": "achievement_colonial_management",
@@ -19907,7 +19912,7 @@
       "Name": "True Catholic",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2885
+      "UsersEstimate": 2886
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -19979,7 +19984,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 6492
+      "UsersEstimate": 6493
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -20146,21 +20151,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 72134,
+      "Progressed": 72139,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 72134,
+      "Progressed": 72139,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-07-21T02:02:02.5422434+00:00",
-  "LastChanged_Achievements": "2023-07-21T04:05:32.4438388+00:00",
+  "LastChanged_Achievements": "2023-07-21T05:05:27.4331009+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:17.9711886+00:00",
-  "LastUpdate_Ratings": "2023-07-21T03:58:08.294707+00:00",
-  "LastUpdate_Achievements": "2023-07-21T04:05:32.4449014+00:00"
+  "LastUpdate_Ratings": "2023-07-21T04:58:07.7440173+00:00",
+  "LastUpdate_Achievements": "2023-07-21T05:05:27.4345932+00:00"
 }

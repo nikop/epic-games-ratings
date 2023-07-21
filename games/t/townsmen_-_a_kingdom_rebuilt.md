@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,188 (Ranked 142)  
+Progressed: 4,189 (Ranked 142)  
 Completed: 3 (0.07%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 3 (0.07%) (Ranked 197)
 | 2023-07-16 | 4,183 | 3 |
 | 2023-07-18 | 4,184 | 3 |
 | 2023-07-20 | 4,187 | 3 |
-| 2023-07-21 | 4,188 | 3 |
+| 2023-07-21 | 4,189 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -1910,9 +1910,9 @@
       "ID": "NoRewindCamille",
       "SetID": "a9e499d",
       "Name": "A Lesson in Precision",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 60,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ParallelConvergenceMultiHit1",
@@ -1974,9 +1974,9 @@
       "ID": "RewindParry",
       "SetID": "a9e499d",
       "Name": "Honest Mistake",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 107
     },
     {
       "ID": "ScrambotCompletion1",
@@ -2109,8 +2109,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-21T04:03:49.3991988+00:00",
+  "LastChanged_Achievements": "2023-07-21T05:03:38.3145057+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:20.5747926+00:00",
-  "LastUpdate_Ratings": "2023-07-21T04:00:30.6310619+00:00",
-  "LastUpdate_Achievements": "2023-07-21T04:03:49.3992418+00:00"
+  "LastUpdate_Ratings": "2023-07-21T05:00:39.2938596+00:00",
+  "LastUpdate_Achievements": "2023-07-21T05:03:38.3145639+00:00"
 }

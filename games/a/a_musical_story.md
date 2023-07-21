@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ECG | 97.00% | ~69 |
-| Rehearsal | 96.00% | ~68 |
-| Daily Life | 93.00% | ~66 |
-| Assembly Line Work | 89.00% | ~63 |
-| Solitude | 83.00% | ~59 |
-| Pinewood, Here we come! | 76.00% | ~54 |
-| The Van | 69.00% | ~49 |
+| ECG | 96.00% | ~69 |
+| Rehearsal | 94.00% | ~68 |
+| Daily Life | 92.00% | ~66 |
+| Assembly Line Work | 88.00% | ~63 |
+| Solitude | 82.00% | ~59 |
+| Pinewood, Here we come! | 75.00% | ~54 |
+| The Van | 68.00% | ~49 |
 | Road-Trip | 63.00% | ~45 |
-| A Musical Pause | 62.00% | ~44 |
-| Briget's | 52.00% | ~37 |
-| Sound of Noise | 48.00% | ~34 |
+| A Musical Pause | 61.00% | ~44 |
+| Briget's | 51.00% | ~37 |
+| Sound of Noise | 47.00% | ~34 |
 | Big City Music | 46.00% | ~33 |
-| Love at First Sight | 44.00% | ~31 |
+| Love at First Sight | 43.00% | ~31 |
 | First Kiss | 38.00% | ~27 |
 | A Bigger Band | 35.00% | ~25 |
 | Symbiosis | 35.00% | ~25 |
-| Fuel | 30.00% | ~21 |
+| Fuel | 29.00% | ~21 |
 | Alone Together | 28.00% | ~20 |
-| Threatening Nature | 27.00% | ~19 |
+| Threatening Nature | 26.00% | ~19 |
 | TV Dreams | 25.00% | ~18 |
 | Flat Tire | 24.00% | ~17 |
-| The Clash | 20.00% | ~14 |
-| Dreamers | 20.00% | ~14 |
+| The Clash | 19.00% | ~14 |
+| Dreamers | 19.00% | ~14 |
 | The Fix | 17.00% | ~12 |
 | Time | 13.00% | ~9 |
 | Regrets | 13.00% | ~9 |
@@ -59,8 +59,8 @@
 | Pinewood | 1.00% | ~1 |
 | Love is All | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71 (Ranked 323)  
-Completed: 1 (1.41%) (Ranked 92)  
+Progressed: 72 (Ranked 323)  
+Completed: 1 (1.39%) (Ranked 92)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -81,6 +81,7 @@ Completed: 1 (1.41%) (Ranked 92)
 | 2023-06-21 | 69 | 1 |
 | 2023-06-28 | 70 | 1 |
 | 2023-07-19 | 71 | 1 |
+| 2023-07-21 | 72 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

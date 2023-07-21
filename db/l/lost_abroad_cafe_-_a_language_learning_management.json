@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 218,
+  "EOS_Progressed": 219,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -991,6 +991,11 @@
       "Time": "2023-07-21T04:07:30.9474611+00:00",
       "NumProgressed": 218,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T05:07:34.8817372+00:00",
+      "NumProgressed": 219,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 8,
@@ -1008,9 +1013,9 @@
       "ID": "coffee_100",
       "SetID": "56hff7o",
       "Name": "Brew Master",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "coffee_50",
@@ -1018,7 +1023,7 @@
       "Name": "Coffee Connoisseur",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "countertop",
@@ -1042,7 +1047,7 @@
       "Name": "Tea-ser",
       "Percentage": 36,
       "XP": 75,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "tea_100",
@@ -1065,14 +1070,14 @@
     {
       "ID": "56hff7o",
       "IsBase": true,
-      "Progressed": 218,
+      "Progressed": 219,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-23T10:58:45.2753016+00:00",
   "FirstSeenAchievements": "2023-05-18T05:04:21.5286003+00:00",
-  "LastChanged_Achievements": "2023-07-21T04:07:30.9474607+00:00",
+  "LastChanged_Achievements": "2023-07-21T05:07:34.8817365+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:31.1755823+00:00",
-  "LastUpdate_Ratings": "2023-07-21T03:59:34.9248776+00:00",
-  "LastUpdate_Achievements": "2023-07-21T04:07:30.9474711+00:00"
+  "LastUpdate_Ratings": "2023-07-21T04:59:41.9222998+00:00",
+  "LastUpdate_Achievements": "2023-07-21T05:07:34.8817617+00:00"
 }

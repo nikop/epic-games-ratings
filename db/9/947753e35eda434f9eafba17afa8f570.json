@@ -4,7 +4,7 @@
   "ProductSlug": "alekon-b2faec",
   "Ranking_EOS_Progress": 422,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewPlayers": 321,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
@@ -217,9 +217,9 @@
       "ID": "ACH_27_JUMP_ROPE",
       "SetID": "2k150c1",
       "Name": "Keep On Hoppin\u0027",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_28_COOKING",
@@ -233,9 +233,9 @@
       "ID": "ACH_29_CLOTHING",
       "SetID": "2k150c1",
       "Name": "The Next Gucci",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_2_ALL_FICTIONS",
@@ -257,9 +257,9 @@
       "ID": "ACH_31_CUSTOM_WINTER",
       "SetID": "2k150c1",
       "Name": "Creative Potential: Snowdrop Slopes",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_32_CUSTOM_FOREST",
@@ -329,9 +329,9 @@
       "ID": "ACH_3_SOGGY_DONUTS",
       "SetID": "2k150c1",
       "Name": "Waste Of A Good Donut",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_4_PERFECTIONIST",
@@ -361,9 +361,9 @@
       "ID": "ACH_7_LEVEL_DESERT",
       "SetID": "2k150c1",
       "Name": "Prickly Pass",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_8_LEVEL_ENDING",
@@ -392,8 +392,8 @@
   ],
   "FirstSeen": "2023-06-01T17:57:13.1793768+00:00",
   "FirstSeenAchievements": "2023-05-06T12:01:39.7571986+00:00",
-  "LastChanged_Achievements": "2023-07-21T04:07:43.8874163+00:00",
+  "LastChanged_Achievements": "2023-07-21T05:07:48.9200525+00:00",
   "LastUpdate_AppInfo": "2023-07-15T19:57:06.9703834+00:00",
-  "LastUpdate_Ratings": "2023-07-21T03:57:52.2101517+00:00",
-  "LastUpdate_Achievements": "2023-07-21T04:07:43.8874408+00:00"
+  "LastUpdate_Ratings": "2023-07-21T04:57:50.1613733+00:00",
+  "LastUpdate_Achievements": "2023-07-21T05:07:48.9200878+00:00"
 }

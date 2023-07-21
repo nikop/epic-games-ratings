@@ -1,27 +1,27 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.57 (Ranked 440)  
+Rating: 4.57 (Ranked 441)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 58.00% | ~112,285 |
-| Where's that freaking Dwarf? | 46.00% | ~89,053 |
-| GG EZ | 28.00% | ~54,206 |
-| Speedrun | 26.00% | ~50,334 |
-| Déjà vu | 21.00% | ~40,655 |
-| Sock! SOCK! | 16.00% | ~30,975 |
-| DM intervention | 13.00% | ~25,167 |
-| Fireproof Wizardess | 9.00% | ~17,423 |
-| Livin' in a dwarven paradise | 7.00% | ~13,552 |
-| Way of the Wimp | 7.00% | ~13,552 |
-| A beer, two curses, three companions | 7.00% | ~13,552 |
-| The plot thickens... At the tavern | 5.00% | ~9,680 |
-| The Woman in the High Castle | 4.00% | ~7,744 |
-| The demons' feast | 3.00% | ~5,808 |
-| I am the night | 3.00% | ~5,808 |
-| Team Building Exercise | 3.00% | ~5,808 |
+| Alt+F4 | 58.00% | ~112,299 |
+| Where's that freaking Dwarf? | 46.00% | ~89,065 |
+| GG EZ | 28.00% | ~54,213 |
+| Speedrun | 26.00% | ~50,341 |
+| Déjà vu | 21.00% | ~40,660 |
+| Sock! SOCK! | 16.00% | ~30,979 |
+| DM intervention | 13.00% | ~25,170 |
+| Fireproof Wizardess | 9.00% | ~17,426 |
+| Livin' in a dwarven paradise | 7.00% | ~13,553 |
+| Way of the Wimp | 7.00% | ~13,553 |
+| A beer, two curses, three companions | 7.00% | ~13,553 |
+| The plot thickens... At the tavern | 5.00% | ~9,681 |
+| The Woman in the High Castle | 4.00% | ~7,745 |
+| The demons' feast | 3.00% | ~5,809 |
+| I am the night | 3.00% | ~5,809 |
+| Team Building Exercise | 3.00% | ~5,809 |
 | Shiny and Crôm | 2.00% | ~3,872 |
 | The Great Library | 2.00% | ~3,872 |
 | Torture and Sensibility | 2.00% | ~3,872 |
@@ -39,7 +39,7 @@ Number of Ratings: 118  (23.09.2022)
 | In Navalu's footsteps | 1.00% | ~1,936 |
 | Lust and Debauchery | 1.00% | ~1,936 |
 | Material Girl | 1.00% | ~1,936 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.90% | ~1,742 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.90% | ~1,743 |
 | Dead for good | 0.80% | ~1,549 |
 | Law and Order | 0.80% | ~1,549 |
 | It's been a hard day's night | 0.80% | ~1,549 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 193,594 (Ranked 57)  
+Progressed: 193,619 (Ranked 57)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-18 | 191,296 | 0 |
 | 2023-07-19 | 192,371 | 0 |
 | 2023-07-20 | 193,404 | 0 |
-| 2023-07-21 | 193,594 | 0 |
+| 2023-07-21 | 193,619 | 0 |
 ## Awards
 Max (Character Customization): 120  (Ranked 313)  
 Sum: 120 (Ranked 402)  
