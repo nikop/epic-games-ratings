@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 902)  
+Rating: 4.06 (Ranked 903)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -519,7 +519,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.00% | ~0 |
 | Animated Giff | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 214,049 (Ranked 53)  
+Progressed: 214,074 (Ranked 53)  
 Completed: 2,059 (0.96%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -611,7 +611,7 @@ Completed: 2,059 (0.96%) (Ranked 106)
 | 2023-07-18 | 213,209 | 2,058 |
 | 2023-07-19 | 213,523 | 2,058 |
 | 2023-07-20 | 213,863 | 2,059 |
-| 2023-07-21 | 214,049 | 2,059 |
+| 2023-07-21 | 214,074 | 2,059 |
 ## Awards
 Max (Diverse Characters): 5,048  (Ranked 66)  
 Sum: 30,618 (Ranked 38)  

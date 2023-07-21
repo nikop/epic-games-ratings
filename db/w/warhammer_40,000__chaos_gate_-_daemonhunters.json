@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 304,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -606,9 +606,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2991,
+  "EOS_Progressed": 2993,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2346,6 +2346,11 @@
       "Time": "2023-07-21T10:04:09.2180299+00:00",
       "NumProgressed": 2991,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T13:10:52.4937549+00:00",
+      "NumProgressed": 2993,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2373,7 +2378,7 @@
       "Name": "Look Over There!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1018
     },
     {
       "ID": "BloodAndIron",
@@ -2453,7 +2458,7 @@
       "Name": "Surgical Excision",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -2517,7 +2522,7 @@
       "Name": "Hold Your Ground",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "Kills_Auto",
@@ -2525,7 +2530,7 @@
       "Name": "Not So Fast...",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "Kills_Bleed",
@@ -2533,7 +2538,7 @@
       "Name": "Blood for the Blood God!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -2549,7 +2554,7 @@
       "Name": "Executioner",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1167
     },
     {
       "ID": "Kills_Exterminator",
@@ -2565,7 +2570,7 @@
       "Name": "Friendly Fire",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "Kills_Interactable",
@@ -2581,7 +2586,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "Kills_Streak",
@@ -2605,7 +2610,7 @@
       "Name": "An Ill Omen",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -2635,9 +2640,9 @@
       "ID": "MasterCraftLevel3_Ranged",
       "SetID": "3jha1np",
       "Name": "Gunmaster",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 359
+      "UsersEstimate": 329
     },
     {
       "ID": "MasterOfTheForge",
@@ -2693,7 +2698,7 @@
       "Name": "Bloodless",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "MissionVictory_NoWP",
@@ -2828,21 +2833,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2991,
+      "Progressed": 2993,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2991,
+      "Progressed": 2993,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-13T14:59:29.0223898+00:00",
-  "LastChanged_Achievements": "2023-07-21T12:03:37.4638114+00:00",
+  "LastChanged_Achievements": "2023-07-21T13:10:52.4937544+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:36.8896867+00:00",
-  "LastUpdate_Ratings": "2023-07-21T11:58:52.8402098+00:00",
-  "LastUpdate_Achievements": "2023-07-21T12:03:37.4639311+00:00"
+  "LastUpdate_Ratings": "2023-07-21T13:06:18.4879495+00:00",
+  "LastUpdate_Achievements": "2023-07-21T13:10:52.4938264+00:00"
 }

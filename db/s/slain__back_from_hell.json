@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -187,9 +187,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 30831,
+  "EOS_Progressed": 30834,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 917,
+  "EOS_NewPlayers": 911,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -10097,6 +10097,11 @@
       "Time": "2023-07-21T12:04:11.2048961+00:00",
       "NumProgressed": 30831,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-07-21T13:11:27.0673946+00:00",
+      "NumProgressed": 30834,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -10116,7 +10121,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 6166
+      "UsersEstimate": 6167
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -10300,7 +10305,7 @@
       "Name": "Vroll With It",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_27_VROLL_QUICK_KILL",
@@ -10308,7 +10313,7 @@
       "Name": "Swift of Foot, Keen of Blade",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_28_FINISHED_GAME_NO_MANA_USE",
@@ -10339,7 +10344,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 30831,
+      "Progressed": 30834,
       "Completed": 20
     }
   ],
@@ -10347,8 +10352,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-07-11T15:00:39.3575549+00:00",
-  "LastChanged_Achievements": "2023-07-21T12:04:11.2048954+00:00",
+  "LastChanged_Achievements": "2023-07-21T13:11:27.067394+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:58:02.6964927+00:00",
-  "LastUpdate_Ratings": "2023-07-21T12:00:02.4415499+00:00",
-  "LastUpdate_Achievements": "2023-07-21T12:04:11.2050447+00:00"
+  "LastUpdate_Ratings": "2023-07-21T13:07:34.3410544+00:00",
+  "LastUpdate_Achievements": "2023-07-21T13:11:27.0674888+00:00"
 }

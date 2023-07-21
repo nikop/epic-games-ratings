@@ -6,19 +6,19 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~365,951 |
-| Now You're Talking | 62.00% | ~324,128 |
-| Steel Yourself | 62.00% | ~324,128 |
+| First Step | 70.00% | ~365,952 |
+| Now You're Talking | 62.00% | ~324,129 |
+| Steel Yourself | 62.00% | ~324,129 |
 | Window Dressing | 50.00% | ~261,394 |
 | Trigger Happy | 46.00% | ~240,482 |
-| Riverborn | 45.00% | ~235,254 |
+| Riverborn | 45.00% | ~235,255 |
 | Starry Eyed | 34.00% | ~177,748 |
 | Poking Around | 34.00% | ~177,748 |
 | Talk of the Town | 24.00% | ~125,469 |
 | AAARR! | 23.00% | ~120,241 |
 | Hello Darkness | 23.00% | ~120,241 |
 | Wind At Our Backs | 22.00% | ~115,013 |
-| To the Beat | 20.00% | ~104,557 |
+| To the Beat | 20.00% | ~104,558 |
 | Sunny Shores | 17.00% | ~88,874 |
 | Sunday Best | 16.00% | ~83,646 |
 | To Victory! | 15.00% | ~78,418 |
@@ -42,12 +42,12 @@ Number of Ratings: 617  (23.09.2022)
 | Noble Intentions | 5.00% | ~26,139 |
 | Rising Star | 5.00% | ~26,139 |
 | Slime Slayer | 5.00% | ~26,139 |
-| Privacy, Please! | 4.00% | ~20,911 |
-| Silky Smooth | 4.00% | ~20,911 |
-| Hash It Over | 4.00% | ~20,911 |
-| Biting Tongue | 4.00% | ~20,911 |
-| What a Catch! | 4.00% | ~20,911 |
-| Hit the Spot | 4.00% | ~20,911 |
+| Privacy, Please! | 4.00% | ~20,912 |
+| Silky Smooth | 4.00% | ~20,912 |
+| Hash It Over | 4.00% | ~20,912 |
+| Biting Tongue | 4.00% | ~20,912 |
+| What a Catch! | 4.00% | ~20,912 |
+| Hit the Spot | 4.00% | ~20,912 |
 | Talk the Talk | 3.00% | ~15,684 |
 | Skin in the Game | 3.00% | ~15,684 |
 | Caving In | 3.00% | ~15,684 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,568 |
 | Point Taken | 0.10% | ~523 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 522,787 (Ranked 29)  
+Progressed: 522,788 (Ranked 29)  
 Completed: 450 (0.09%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 450 (0.09%) (Ranked 191)
 | 2023-07-18 | 522,571 | 448 |
 | 2023-07-19 | 522,662 | 449 |
 | 2023-07-20 | 522,746 | 450 |
-| 2023-07-21 | 522,787 | 450 |
+| 2023-07-21 | 522,788 | 450 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

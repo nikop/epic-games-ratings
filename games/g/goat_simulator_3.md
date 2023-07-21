@@ -1,51 +1,51 @@
 # Goat Simulator 3
 [Store](https://store.epicgames.com/en-US/p/goat-simulator-3)  
 [View Rawdata](../../db/g/goat_simulator_3.json)  
-Rating: 4.85 (Ranked 41)  
+Rating: 4.85 (Ranked 40)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~212,379 |
-| Private Club | 74.00% | ~172,703 |
-| Rogue Guild | 65.00% | ~151,699 |
-| I Watched the Intro | 57.00% | ~133,028 |
-| Covert Consortium | 55.00% | ~128,361 |
-| Goat Queen | 53.00% | ~123,693 |
-| Reach the Stratosphere | 50.00% | ~116,692 |
-| Synchronization Complete | 47.00% | ~109,690 |
-| Secret Society | 45.00% | ~105,022 |
-| Shadow Syndicate | 38.00% | ~88,686 |
-| What a Waste of Money | 33.00% | ~77,016 |
-| New Goat Order | 30.00% | ~70,015 |
-| Don't touch the servers | 28.00% | ~65,347 |
-| San Angora: Become Human | 26.00% | ~60,680 |
-| Raider of the Lost Parking Garage | 26.00% | ~60,680 |
-| Real Buoy | 26.00% | ~60,680 |
-| Welcome to Earth | 25.00% | ~58,346 |
-| Into the Matrix | 19.00% | ~44,343 |
-| Where is It? | 17.00% | ~39,675 |
-| Egg Simulator | 16.00% | ~37,341 |
-| Beauty, Mindfulness and Meditation | 15.00% | ~35,007 |
-| Black Market | 14.00% | ~32,674 |
-| 401(K.O.) | 14.00% | ~32,674 |
-| Car Cave | 12.00% | ~28,006 |
+| Forgotten Sorority | 91.00% | ~212,385 |
+| Private Club | 74.00% | ~172,709 |
+| Rogue Guild | 65.00% | ~151,704 |
+| I Watched the Intro | 57.00% | ~133,032 |
+| Covert Consortium | 55.00% | ~128,365 |
+| Goat Queen | 53.00% | ~123,697 |
+| Reach the Stratosphere | 50.00% | ~116,695 |
+| Synchronization Complete | 47.00% | ~109,693 |
+| Secret Society | 45.00% | ~105,026 |
+| Shadow Syndicate | 38.00% | ~88,688 |
+| What a Waste of Money | 33.00% | ~77,019 |
+| New Goat Order | 30.00% | ~70,017 |
+| Don't touch the servers | 28.00% | ~65,349 |
+| San Angora: Become Human | 26.00% | ~60,681 |
+| Raider of the Lost Parking Garage | 26.00% | ~60,681 |
+| Real Buoy | 26.00% | ~60,681 |
+| Welcome to Earth | 25.00% | ~58,348 |
+| Into the Matrix | 19.00% | ~44,344 |
+| Where is It? | 17.00% | ~39,676 |
+| Egg Simulator | 16.00% | ~37,342 |
+| Beauty, Mindfulness and Meditation | 15.00% | ~35,008 |
+| Black Market | 14.00% | ~32,675 |
+| 401(K.O.) | 14.00% | ~32,675 |
+| Car Cave | 12.00% | ~28,007 |
 | Club Mohair | 8.00% | ~18,671 |
 | A Center for Ants? | 8.00% | ~18,671 |
 | French Fika | 7.00% | ~16,337 |
-| Who Baywatches the Baywatch? | 4.00% | ~9,335 |
-| Nasty! | 4.00% | ~9,335 |
-| [REDACTED] | 4.00% | ~9,335 |
+| Who Baywatches the Baywatch? | 4.00% | ~9,336 |
+| Nasty! | 4.00% | ~9,336 |
+| [REDACTED] | 4.00% | ~9,336 |
 | Cannibanana | 2.00% | ~4,668 |
 | Daredevil | 2.00% | ~4,668 |
 | You Trusted Your Instincts | 1.00% | ~2,334 |
 | Certified Fresh | 1.00% | ~2,334 |
 | Streaking | 1.00% | ~2,334 |
 | Try Hard 2 | 1.00% | ~2,334 |
-| Crocsquatch | 0.90% | ~2,100 |
+| Crocsquatch | 0.90% | ~2,101 |
 | Move! That! Bus! | 0.60% | ~1,400 |
 | G.O.A.T | 0.30% | ~700 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,383 (Ranked 47)  
+Progressed: 233,390 (Ranked 47)  
 Completed: 778 (0.33%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,15 +137,15 @@ Completed: 778 (0.33%) (Ranked 143)
 | 2023-07-18 | 233,075 | 777 |
 | 2023-07-19 | 233,222 | 777 |
 | 2023-07-20 | 233,337 | 778 |
-| 2023-07-21 | 233,383 | 778 |
+| 2023-07-21 | 233,390 | 778 |
 ## Awards
 Max (Great for Beginners): 369  (Ranked 218)  
-Sum: 3,066 (Ranked 158)  
+Sum: 3,067 (Ranked 158)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 369 |
-| This game has Diverse Characters | 345 |
+| This game has Diverse Characters | 346 |
 | This game is Highly Recommended | 331 |
 | This game has Amazing Characters | 308 |
 | This game is Extremely Fun | 301 |
@@ -277,4 +277,4 @@ Diff (max vs sum): 60
 | 2023-07-18 | 4.85 | 368 | 3,054 |
 | 2023-07-19 | 4.85 | 369 | 3,060 |
 | 2023-07-20 | 4.85 | 369 | 3,065 |
-| 2023-07-21 | 4.85 | 369 | 3,066 |
+| 2023-07-21 | 4.85 | 369 | 3,067 |

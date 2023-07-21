@@ -6,48 +6,48 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~223,528 |
-| Uncharted Territory | 89.00% | ~207,229 |
+| First Steps | 96.00% | ~223,529 |
+| Uncharted Territory | 89.00% | ~207,230 |
 | Getting A Glimpse | 73.00% | ~169,975 |
-| A Quick Escape | 65.00% | ~151,347 |
-| Explorer | 62.00% | ~144,362 |
+| A Quick Escape | 65.00% | ~151,348 |
+| Explorer | 62.00% | ~144,363 |
 | Defeat The Dark | 61.00% | ~142,034 |
 | An Offering | 61.00% | ~142,034 |
-| Colorful Corpse | 58.00% | ~135,048 |
+| Colorful Corpse | 58.00% | ~135,049 |
 | That Was Quick | 56.00% | ~130,392 |
 | A Donation | 56.00% | ~130,392 |
 | Goodbye, Frog Friend | 54.00% | ~125,735 |
-| Heavy Hitter | 53.00% | ~123,406 |
-| Heartless | 46.00% | ~107,107 |
-| Spine Breaker | 46.00% | ~107,107 |
+| Heavy Hitter | 53.00% | ~123,407 |
+| Heartless | 46.00% | ~107,108 |
+| Spine Breaker | 46.00% | ~107,108 |
 | Deflection | 45.00% | ~104,779 |
 | Sneaky | 43.00% | ~100,122 |
 | Delving Deeper | 42.00% | ~97,794 |
-| Ambitious Intent | 41.00% | ~95,465 |
-| C-C-Combo | 41.00% | ~95,465 |
+| Ambitious Intent | 41.00% | ~95,466 |
+| C-C-Combo | 41.00% | ~95,466 |
 | Nothing To Lose | 40.00% | ~93,137 |
 | The Bestiary | 40.00% | ~93,137 |
 | What's Yours Is Mine | 38.00% | ~88,480 |
 | R.I.P | 36.00% | ~83,823 |
 | Shootout | 36.00% | ~83,823 |
 | I Am Overburdened | 35.00% | ~81,495 |
-| Cold Hearted | 34.00% | ~79,166 |
+| Cold Hearted | 34.00% | ~79,167 |
 | Dig Your Own Grave | 33.00% | ~76,838 |
 | Toxic | 33.00% | ~76,838 |
-| Who To Trust? | 32.00% | ~74,509 |
+| Who To Trust? | 32.00% | ~74,510 |
 | Flesh Wound | 29.00% | ~67,524 |
 | Stone Touch | 28.00% | ~65,196 |
-| Walk It Off | 27.00% | ~62,867 |
-| Acid Bath | 27.00% | ~62,867 |
-| New Perspectives | 27.00% | ~62,867 |
-| Shadow Walker | 27.00% | ~62,867 |
-| Shapeshifting | 27.00% | ~62,867 |
+| Walk It Off | 27.00% | ~62,868 |
+| Acid Bath | 27.00% | ~62,868 |
+| New Perspectives | 27.00% | ~62,868 |
+| Shadow Walker | 27.00% | ~62,868 |
+| Shapeshifting | 27.00% | ~62,868 |
 | Consecutive Curses | 26.00% | ~60,539 |
 | Destroy Your Fears | 26.00% | ~60,539 |
-| Save Our Souls | 25.00% | ~58,210 |
-| To The Death! | 20.00% | ~46,568 |
-| Well Prepared | 20.00% | ~46,568 |
-| Just Chilling | 20.00% | ~46,568 |
+| Save Our Souls | 25.00% | ~58,211 |
+| To The Death! | 20.00% | ~46,569 |
+| Well Prepared | 20.00% | ~46,569 |
+| Just Chilling | 20.00% | ~46,569 |
 | Stop Hitting Yourself | 19.00% | ~44,240 |
 | All Consuming | 18.00% | ~41,912 |
 | Shadow Spreads | 17.00% | ~39,583 |
@@ -57,8 +57,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Doing Time | 16.00% | ~37,255 |
 | Spreading Plague | 15.00% | ~34,926 |
 | The Long Run | 14.00% | ~32,598 |
-| A Rough Road | 13.00% | ~30,269 |
-| Chain Reaction | 13.00% | ~30,269 |
+| A Rough Road | 13.00% | ~30,270 |
+| Chain Reaction | 13.00% | ~30,270 |
 | Berzerker | 12.00% | ~27,941 |
 | Antivenom | 12.00% | ~27,941 |
 | Thank You, Friend | 10.00% | ~23,284 |
@@ -129,8 +129,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Never Too Many Hats | 0.40% | ~931 |
 | Near Death Experience | 0.30% | ~699 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,842 (Ranked 48)  
-Completed: 250 (0.11%) (Ranked 182)  
+Progressed: 232,843 (Ranked 48)  
+Completed: 251 (0.11%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -221,10 +221,10 @@ Completed: 250 (0.11%) (Ranked 182)
 | 2023-07-18 | 232,708 | 247 |
 | 2023-07-19 | 232,773 | 247 |
 | 2023-07-20 | 232,821 | 249 |
-| 2023-07-21 | 232,842 | 250 |
+| 2023-07-21 | 232,843 | 251 |
 ## Awards
 Max (Quickly Understood Controls): 1,485  (Ranked 120)  
-Sum: 11,492 (Ranked 75)  
+Sum: 11,493 (Ranked 75)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
@@ -232,7 +232,7 @@ Diff (max vs sum): 45
 | This game is Great for Beginners | 1,480 |
 | This game is Relaxing | 1,416 |
 | This game has Challenging Combat | 1,404 |
-| This game is Extremely Fun | 1,394 |
+| This game is Extremely Fun | 1,395 |
 | This game is Highly Recommended | 1,354 |
 | This game has Amazing Storytelling | 1,304 |
 | This game has Amazing Characters | 1,209 |
@@ -363,3 +363,4 @@ Diff (max vs sum): 45
 | 2023-07-16 | 4.58 | - | 1,484 | 11,489 |
 | 2023-07-18 | 4.58 | - | 1,484 | 11,491 |
 | 2023-07-20 | 4.58 | - | 1,485 | 11,492 |
+| 2023-07-21 | 4.58 | - | 1,485 | 11,493 |

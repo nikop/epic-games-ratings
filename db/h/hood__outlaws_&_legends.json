@@ -2,13 +2,13 @@
   "ID": "5a2108f4db804040aaf44d139bd21bd1",
   "Name": "Hood: Outlaws \u0026 Legends",
   "ProductSlug": "hood-outlaws-and-legends",
-  "Ranking_Rating": 919,
+  "Ranking_Rating": 920,
   "Ranking_Popularity": 217,
   "Ranking_PopularitySum": 170,
   "Ranking_EOS_Progress": 503,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-05-10T15:00:00+00:00",
     "PcReleaseDate": "2021-05-10T15:00:00+00:00",
@@ -2450,10 +2450,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 2748,
       "NumberOfAwardsMax": 372
+    },
+    {
+      "Time": "2023-07-21T13:05:52.8660114+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 2749,
+      "NumberOfAwardsMax": 372
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2748,
+  "NumberOfAwards": 2749,
   "NumberOfAwardsMax": 372,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2467,7 +2473,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 342
+      "Count": 343
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2517,8 +2523,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:31.7735861+00:00",
-  "LastChanged": "2023-07-01T21:58:47.2551538+00:00",
+  "LastChanged": "2023-07-21T13:05:52.8660111+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:58.4746959+00:00",
-  "LastUpdate_Ratings": "2023-07-21T11:58:27.5319778+00:00",
-  "LastUpdate_Achievements": "2023-07-21T12:04:57.0848679+00:00"
+  "LastUpdate_Ratings": "2023-07-21T13:05:52.8660121+00:00",
+  "LastUpdate_Achievements": "2023-07-21T13:12:12.8214749+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "volley-pals-0120b4",
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 8,
-  "Ranking_EOS_NewPlayers": 287,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-05-19T01:00:00+00:00",
     "PcReleaseDate": "2023-05-19T01:00:00+00:00",
@@ -20,10 +20,10 @@
   "ReviewsDisabled": false,
   "Tags": [],
   "EOS_Progressed": 86,
-  "EOS_Completed": 19,
+  "EOS_Completed": 20,
   "EOS_NewPlayers": 1,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 22.09,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 23.26,
   "EosHistory": [
     {
       "Time": "2023-05-19T19:23:39.9762126+00:00",
@@ -444,6 +444,11 @@
       "Time": "2023-07-19T03:22:46.2156851+00:00",
       "NumProgressed": 86,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-07-21T13:11:44.968214+00:00",
+      "NumProgressed": 86,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 10,
@@ -517,17 +522,17 @@
       "ID": "LEVEL_8",
       "SetID": "1fnbp5h",
       "Name": "Arcade",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "LEVEL_9",
       "SetID": "1fnbp5h",
       "Name": "Custom Court",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     }
   ],
   "AchievementSets": [
@@ -535,12 +540,12 @@
       "ID": "1fnbp5h",
       "IsBase": true,
       "Progressed": 86,
-      "Completed": 19
+      "Completed": 20
     }
   ],
   "FirstSeenAchievements": "2023-05-02T15:59:43.451096+00:00",
-  "LastChanged_Achievements": "2023-07-21T12:04:28.4752861+00:00",
+  "LastChanged_Achievements": "2023-07-21T13:11:44.9682135+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:08.4228159+00:00",
-  "LastUpdate_Ratings": "2023-07-21T11:57:39.6998944+00:00",
-  "LastUpdate_Achievements": "2023-07-21T12:04:28.4752985+00:00"
+  "LastUpdate_Ratings": "2023-07-21T13:04:56.891528+00:00",
+  "LastUpdate_Achievements": "2023-07-21T13:11:44.968228+00:00"
 }

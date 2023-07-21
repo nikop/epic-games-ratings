@@ -3,9 +3,9 @@
   "Name": "Aeon Must Die!",
   "ProductSlug": "aeon-must-die",
   "Ranking_EOS_Progress": 144,
-  "Ranking_EOS_Completed": 2927,
-  "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_Completed": 2928,
+  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-10-27T21:59:00+00:00",
     "PcReleaseDate": "2021-10-27T21:59:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3523,
+  "EOS_Progressed": 3524,
   "EOS_Completed": -28,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": -0.79,
   "EosHistory": [
@@ -356,6 +356,11 @@
       "Time": "2023-07-21T07:06:52.0414197+00:00",
       "NumProgressed": 3523,
       "NumCompleted": -28
+    },
+    {
+      "Time": "2023-07-21T13:13:54.1457714+00:00",
+      "NumProgressed": 3524,
+      "NumCompleted": -28
     }
   ],
   "TotalAchievements": 35,
@@ -575,7 +580,7 @@
       "Name": "Cheap Tricks",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "34",
@@ -646,7 +651,7 @@
     {
       "ID": "5cfan5f",
       "IsBase": true,
-      "Progressed": 3523,
+      "Progressed": 3524,
       "Completed": -28
     }
   ],
@@ -654,8 +659,8 @@
   "FirstSeenRating": "2023-03-31T05:57:47.6282552+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:12.6590754+00:00",
   "LastChanged": "2023-03-31T05:57:47.6282553+00:00",
-  "LastChanged_Achievements": "2023-07-21T12:06:33.5809581+00:00",
+  "LastChanged_Achievements": "2023-07-21T13:13:54.1457708+00:00",
   "LastUpdate_AppInfo": "2023-07-15T02:22:13.4085818+00:00",
-  "LastUpdate_Ratings": "2023-07-21T11:57:42.6478777+00:00",
-  "LastUpdate_Achievements": "2023-07-21T12:06:33.5809989+00:00"
+  "LastUpdate_Ratings": "2023-07-21T13:05:01.3422951+00:00",
+  "LastUpdate_Achievements": "2023-07-21T13:13:54.1458018+00:00"
 }

@@ -7,12 +7,18 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Regicide | 0.10% | ~13 |
+| Bad Heir Day | 0.10% | ~13 |
+| Cleopatra's Love | 0.10% | ~13 |
 | Able | 0.10% | ~13 |
 | Ambitious | 0.10% | ~13 |
 | Architect | 0.10% | ~13 |
+| Enlightened | 0.10% | ~13 |
+| Explorer | 0.10% | ~13 |
 | Fountainhead | 0.10% | ~13 |
 | Good | 0.10% | ~13 |
+| Intrepid | 0.10% | ~13 |
 | Just | 0.10% | ~13 |
+| Keystone | 0.10% | ~13 |
 | Learned | 0.10% | ~13 |
 | Mighty | 0.10% | ~13 |
 | Noble | 0.10% | ~13 |
@@ -23,24 +29,32 @@ Number of Ratings: 1,307  (23.09.2022)
 | Victorious | 0.10% | ~13 |
 | Wise | 0.10% | ~13 |
 | Able Difficulty | 0.10% | ~13 |
+| Just Difficulty | 0.10% | ~13 |
 | Artisans | 0.10% | ~13 |
 | Champions | 0.10% | ~13 |
 | Patrons | 0.10% | ~13 |
 | Sages | 0.10% | ~13 |
+| Traders | 0.10% | ~13 |
 | Friendly Family | 0.10% | ~13 |
 | Circus Maximus | 0.10% | ~13 |
 | Great Ziggurat | 0.10% | ~13 |
+| Hanging Gardens | 0.10% | ~13 |
 | Temple of Solomon | 0.10% | ~13 |
+| Ishtar Gate | 0.10% | ~13 |
 | Lighthouse | 0.10% | ~13 |
+| Necropolis | 0.10% | ~13 |
 | Oracle | 0.10% | ~13 |
+| Pyramids | 0.10% | ~13 |
 | Learn to Play 1 | 0.10% | ~13 |
 | Learn to Play 2 | 0.10% | ~13 |
 | Learn to Play 3 | 0.10% | ~13 |
 | Learn to Play 4 | 0.10% | ~13 |
+| Babylonia | 0.10% | ~13 |
 | Greece | 0.10% | ~13 |
 | Play a Single Player Game | 0.10% | ~13 |
 | Christianity | 0.10% | ~13 |
 | Judaism | 0.10% | ~13 |
+| Egyptian Paganism | 0.10% | ~13 |
 | Greek Paganism | 0.10% | ~13 |
 | Persian Paganism | 0.10% | ~13 |
 | Roman Paganism | 0.10% | ~13 |
@@ -56,6 +70,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis in Waset | 0.10% | ~13 |
 | Win a Free-For-All Game (>2 Players) | 0.10% | ~13 |
 | Win a Network Game | 0.10% | ~13 |
+| Win a Single Player Game | 0.10% | ~13 |
 | The Clergy | 0.10% | ~13 |
 | Religious Dissent | 0.10% | ~13 |
 | Five Cults | 0.10% | ~13 |
@@ -63,6 +78,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pilgrimage | 0.10% | ~13 |
 | Poetic Leader | 0.10% | ~13 |
 | Patriarch St Paul | 0.10% | ~13 |
+| Hypatia the Teacher | 0.10% | ~13 |
 | The Royal Couple | 0.10% | ~13 |
 | Centenarian | 0.00% | ~0 |
 | Alexander the Great | 0.00% | ~0 |
@@ -70,7 +86,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lighthouse in Alexandria | 0.00% | ~0 |
 | Musaeum in Alexandria | 0.00% | ~0 |
 | Alliance Victory | 0.00% | ~0 |
-| Bad Heir Day | 0.00% | ~0 |
 | Future Regicide | 0.00% | ~0 |
 | Acropolis in Athenai | 0.00% | ~0 |
 | Hanging Gardens in Babylon | 0.00% | ~0 |
@@ -103,7 +118,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gold Victory (Carthage 4) | 0.00% | ~0 |
 | Silver Victory (Carthage 4) | 0.00% | ~0 |
 | Carthage Campaign | 0.00% | ~0 |
-| Cleopatra's Love | 0.00% | ~0 |
 | Ancient | 0.00% | ~0 |
 | Avenger | 0.00% | ~0 |
 | Beloved | 0.00% | ~0 |
@@ -113,15 +127,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conqueror | 0.00% | ~0 |
 | Destroyer | 0.00% | ~0 |
 | Devout | 0.00% | ~0 |
-| Enlightened | 0.00% | ~0 |
-| Explorer | 0.00% | ~0 |
 | Glorious | 0.00% | ~0 |
 | Great | 0.00% | ~0 |
 | Holy | 0.00% | ~0 |
 | Intercessor | 0.00% | ~0 |
-| Intrepid | 0.00% | ~0 |
 | Invincible | 0.00% | ~0 |
-| Keystone | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
 | Lion | 0.00% | ~0 |
 | Magnificent | 0.00% | ~0 |
@@ -143,7 +153,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious Difficulty | 0.00% | ~0 |
 | Good Difficulty | 0.00% | ~0 |
 | Great Difficulty | 0.00% | ~0 |
-| Just Difficulty | 0.00% | ~0 |
 | Magnificent Difficulty | 0.00% | ~0 |
 | Noble Difficulty | 0.00% | ~0 |
 | Strong Difficulty | 0.00% | ~0 |
@@ -156,7 +165,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Landowners | 0.00% | ~0 |
 | Riders | 0.00% | ~0 |
 | Statesmen | 0.00% | ~0 |
-| Traders | 0.00% | ~0 |
 | Furious Family | 0.00% | ~0 |
 | Battle of the Fertile Crescent | 0.00% | ~0 |
 | The Eternal Treaty | 0.00% | ~0 |
@@ -211,16 +219,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana | 0.00% | ~0 |
 | Colossus | 0.00% | ~0 |
 | Hagia Sophia | 0.00% | ~0 |
-| Hanging Gardens | 0.00% | ~0 |
 | Church of the Holy Sepulchre | 0.00% | ~0 |
 | Cao'an | 0.00% | ~0 |
 | Adur Burzen-Mihr | 0.00% | ~0 |
-| Ishtar Gate | 0.00% | ~0 |
 | Mausoleum | 0.00% | ~0 |
 | Musaeum | 0.00% | ~0 |
-| Necropolis | 0.00% | ~0 |
 | Pantheon | 0.00% | ~0 |
-| Pyramids | 0.00% | ~0 |
 | Via Recta Souk | 0.00% | ~0 |
 | Knowledge of the Ancients | 0.00% | ~0 |
 | Learn By Playing 1 - Able | 0.00% | ~0 |
@@ -234,7 +238,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Merchants of the Levant | 0.00% | ~0 |
 | Realistic Mortality | 0.00% | ~0 |
 | Assyria | 0.00% | ~0 |
-| Babylonia | 0.00% | ~0 |
 | Carthage | 0.00% | ~0 |
 | Egypt | 0.00% | ~0 |
 | Hatti | 0.00% | ~0 |
@@ -257,7 +260,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Assyrian Paganism | 0.00% | ~0 |
 | Babylonian Paganism | 0.00% | ~0 |
 | Carthaginian Paganism | 0.00% | ~0 |
-| Egyptian Paganism | 0.00% | ~0 |
 | Hittite Paganism | 0.00% | ~0 |
 | Zoroastrianism | 0.00% | ~0 |
 | Colossus in Rhodes | 0.00% | ~0 |
@@ -298,10 +300,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.00% | ~0 |
 | Win a MP Teams Game | 0.00% | ~0 |
 | Win a Play-By-Cloud Game | 0.00% | ~0 |
-| Win a Single Player Game | 0.00% | ~0 |
 | Deposed Tribe | 0.00% | ~0 |
 | The Mythical Beast | 0.00% | ~0 |
-| Hypatia the Teacher | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12,983 (Ranked 113)  
 Completed: 5 (0.04%) (Ranked 209)  

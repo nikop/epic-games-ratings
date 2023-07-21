@@ -4,8 +4,8 @@
   "ProductSlug": "gigapocalypse-fdc53b",
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 287,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-03-22T16:00:00+00:00",
     "PcReleaseDate": "2021-11-20T17:00:00+00:00",
@@ -352,9 +352,9 @@
       "ID": "secret19",
       "SetID": "39f6ck8",
       "Name": "Feng Shui",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 117
     },
     {
       "ID": "secret2",
@@ -705,8 +705,8 @@
   "FirstSeenRating": "2023-03-31T05:57:53.8583887+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:25.0690436+00:00",
   "LastChanged": "2023-03-31T05:57:53.8583888+00:00",
-  "LastChanged_Achievements": "2023-07-21T12:06:34.2279262+00:00",
+  "LastChanged_Achievements": "2023-07-21T13:13:54.7894177+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:57.5290057+00:00",
-  "LastUpdate_Ratings": "2023-07-21T11:59:57.7864414+00:00",
-  "LastUpdate_Achievements": "2023-07-21T12:06:34.228016+00:00"
+  "LastUpdate_Ratings": "2023-07-21T13:07:30.0757087+00:00",
+  "LastUpdate_Achievements": "2023-07-21T13:13:54.7894684+00:00"
 }

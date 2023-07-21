@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -160,9 +160,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2986,
+  "EOS_Progressed": 2987,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2935,6 +2935,11 @@
       "Time": "2023-07-21T12:02:25.4636224+00:00",
       "NumProgressed": 2986,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-21T13:10:19.4287283+00:00",
+      "NumProgressed": 2987,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2976,9 +2981,9 @@
       "ID": "ACH_APC_RUN_OVER",
       "SetID": "816efe",
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1493
+      "UsersEstimate": 1523
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -2986,7 +2991,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -3024,9 +3029,9 @@
       "ID": "ACH_FINISH_MEDIUM",
       "SetID": "816efe",
       "Name": "This Went Smoothly",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 299
     },
     {
       "ID": "ACH_FINISH_NIGHTMARE",
@@ -3042,7 +3047,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2180
+      "UsersEstimate": 2181
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -3050,7 +3055,7 @@
       "Name": "Regicide",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "ACH_KILL_UNDETECTED",
@@ -3058,7 +3063,7 @@
       "Name": "Call Me Snake",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1821
+      "UsersEstimate": 1822
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -3098,7 +3103,7 @@
       "Name": "El Riesgo Siempre Vive",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "ACH_MAX_MEDIC",
@@ -3146,7 +3151,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 1493
+      "UsersEstimate": 1494
     },
     {
       "ID": "ACH_MISSION_03",
@@ -3154,7 +3159,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1224
+      "UsersEstimate": 1225
     },
     {
       "ID": "ACH_MISSION_04",
@@ -3210,7 +3215,7 @@
       "Name": "The Spire",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "ACH_MISSION_11",
@@ -3224,9 +3229,9 @@
       "ID": "ACH_MISSION_12",
       "SetID": "816efe",
       "Name": "Abysmal Horrors",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 448
+      "UsersEstimate": 478
     },
     {
       "ID": "ACH_OBJECTIVE_MARINE",
@@ -3240,9 +3245,9 @@
       "ID": "ACH_PREVENT_ABDUCTED",
       "SetID": "816efe",
       "Name": "Snatched Out",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 2210
+      "UsersEstimate": 2181
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -3258,7 +3263,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1702
+      "UsersEstimate": 1703
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -3266,7 +3271,7 @@
       "Name": "People Person",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 1612
+      "UsersEstimate": 1613
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -3274,7 +3279,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1194
+      "UsersEstimate": 1195
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -3298,14 +3303,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 1612
+      "UsersEstimate": 1613
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 2986,
+      "Progressed": 2987,
       "Completed": 0
     }
   ],
@@ -3313,8 +3318,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-20T02:02:12.6421273+00:00",
-  "LastChanged_Achievements": "2023-07-21T12:02:25.4636216+00:00",
+  "LastChanged_Achievements": "2023-07-21T13:10:19.428728+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:57:18.2957495+00:00",
-  "LastUpdate_Ratings": "2023-07-21T11:59:29.0686501+00:00",
-  "LastUpdate_Achievements": "2023-07-21T12:02:25.4637198+00:00"
+  "LastUpdate_Ratings": "2023-07-21T13:06:54.7835258+00:00",
+  "LastUpdate_Achievements": "2023-07-21T13:10:19.4287823+00:00"
 }

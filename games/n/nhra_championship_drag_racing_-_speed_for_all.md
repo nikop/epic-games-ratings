@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Graduated | 99.00% | ~719 |
-| Trouble with the swerve | 69.00% | ~501 |
-| Oops, My bad | 67.00% | ~486 |
-| Don't get ahead on yourself | 40.00% | ~290 |
+| Graduated | 99.00% | ~720 |
+| Trouble with the swerve | 69.00% | ~502 |
+| Oops, My bad | 67.00% | ~487 |
+| Don't get ahead on yourself | 39.00% | ~284 |
 | I didn't know you where there! | 31.00% | ~225 |
 | Participation trophy | 24.00% | ~174 |
 | Whole again | 12.00% | ~87 |
@@ -38,7 +38,7 @@
 | Winning streak | 0.00% | ~0 |
 | Finisher | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 726 (Ranked 201)  
+Progressed: 727 (Ranked 201)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-15 | 719 | 0 |
 | 2023-07-17 | 721 | 0 |
 | 2023-07-20 | 724 | 0 |
-| 2023-07-21 | 726 | 0 |
+| 2023-07-21 | 727 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

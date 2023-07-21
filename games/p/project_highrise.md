@@ -5,38 +5,38 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | In the Black | 58.00% | ~135 |
-| Starting Skyward | 51.00% | ~118 |
-| Grime is Not Good | 45.00% | ~104 |
-| Campaign Launch | 40.00% | ~93 |
-| Floor Galore | 38.00% | ~88 |
-| Dinner Dash | 38.00% | ~88 |
-| Need a Consult | 35.00% | ~81 |
-| It's Technical | 35.00% | ~81 |
-| Upgrade Unlock | 34.00% | ~79 |
-| Delegate Maintenance | 32.00% | ~74 |
-| Proper Walls | 31.00% | ~72 |
+| Starting Skyward | 52.00% | ~121 |
+| Grime is Not Good | 45.00% | ~105 |
+| Campaign Launch | 39.00% | ~91 |
+| Floor Galore | 38.00% | ~89 |
+| Dinner Dash | 38.00% | ~89 |
+| Need a Consult | 35.00% | ~82 |
+| It's Technical | 35.00% | ~82 |
+| Upgrade Unlock | 33.00% | ~77 |
+| Proper Walls | 32.00% | ~75 |
+| Delegate Maintenance | 32.00% | ~75 |
 | Destination Destiny | 28.00% | ~65 |
-| Happy Tenants | 26.00% | ~60 |
+| Happy Tenants | 26.00% | ~61 |
 | Your Prestige is Rising | 24.00% | ~56 |
 | Potent Potables | 24.00% | ~56 |
 | Retail Revenue | 24.00% | ~56 |
 | Smooth Service | 24.00% | ~56 |
 | Lux Living | 22.00% | ~51 |
-| People Mover | 22.00% | ~51 |
 | Leveled Up Shops | 22.00% | ~51 |
+| People Mover | 21.00% | ~49 |
 | Emporium Empire | 21.00% | ~49 |
 | Get Electrified | 21.00% | ~49 |
-| Don't Feel a Loan | 20.00% | ~46 |
+| Don't Feel a Loan | 20.00% | ~47 |
 | Artfully Done | 19.00% | ~44 |
 | Rehab Expert | 19.00% | ~44 |
 | Tasty Profits | 19.00% | ~44 |
-| We Don't Need No Education | 19.00% | ~44 |
-| Under One Roof | 17.00% | ~39 |
-| Established Fame | 17.00% | ~39 |
-| Cashflow Chief | 17.00% | ~39 |
-| Starred Dining | 16.00% | ~37 |
-| Boutique Benefits | 16.00% | ~37 |
-| Terrifically Trashed | 16.00% | ~37 |
+| We Don't Need No Education | 18.00% | ~42 |
+| Under One Roof | 17.00% | ~40 |
+| Established Fame | 17.00% | ~40 |
+| Cashflow Chief | 17.00% | ~40 |
+| Starred Dining | 15.00% | ~35 |
+| Boutique Benefits | 15.00% | ~35 |
+| Terrifically Trashed | 15.00% | ~35 |
 | Thrilled Tenants | 15.00% | ~35 |
 | Smooth Operator | 13.00% | ~30 |
 | Swimming in Surplus | 13.00% | ~30 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232 (Ranked 259)  
+Progressed: 233 (Ranked 258)  
 Completed: 0 (0.00%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,6 +144,7 @@ Completed: 0 (0.00%) (Ranked 238)
 | 2023-07-06 | 230 | 0 |
 | 2023-07-16 | 231 | 0 |
 | 2023-07-20 | 232 | 0 |
+| 2023-07-21 | 233 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

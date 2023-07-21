@@ -2,10 +2,10 @@
   "ID": "22068a5c6e3649599c02ba4ec6be1a03",
   "Name": "The Lord of the Rings - Gollum\u2122",
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
-  "Ranking_EOS_Progress": 218,
+  "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 471,
+  "EOS_Progressed": 472,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -990,6 +990,11 @@
       "Time": "2023-07-21T12:06:33.5196151+00:00",
       "NumProgressed": 471,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-21T13:13:54.0174612+00:00",
+      "NumProgressed": 472,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1025,7 +1030,7 @@
       "Name": "The Wraith",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "Chapter10",
@@ -1049,7 +1054,7 @@
       "Name": "The Breeder",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "Chapter4",
@@ -1153,7 +1158,7 @@
       "Name": "Like Flying...",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "GollumChoices",
@@ -1288,14 +1293,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 471,
+      "Progressed": 472,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-07-21T12:06:33.5196144+00:00",
+  "LastChanged_Achievements": "2023-07-21T13:13:54.0174608+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:22:16.9740017+00:00",
-  "LastUpdate_Ratings": "2023-07-21T11:58:05.5858246+00:00",
-  "LastUpdate_Achievements": "2023-07-21T12:06:33.5196733+00:00"
+  "LastUpdate_Ratings": "2023-07-21T13:05:28.9894108+00:00",
+  "LastUpdate_Achievements": "2023-07-21T13:13:54.0174963+00:00"
 }

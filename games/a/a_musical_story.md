@@ -9,11 +9,11 @@
 | Daily Life | 92.00% | ~67 |
 | Assembly Line Work | 88.00% | ~64 |
 | Solitude | 82.00% | ~60 |
-| Pinewood, Here we come! | 74.00% | ~54 |
-| The Van | 67.00% | ~49 |
-| Road-Trip | 62.00% | ~45 |
-| A Musical Pause | 60.00% | ~44 |
-| Briget's | 51.00% | ~37 |
+| Pinewood, Here we come! | 75.00% | ~55 |
+| The Van | 68.00% | ~50 |
+| Road-Trip | 63.00% | ~46 |
+| A Musical Pause | 62.00% | ~45 |
+| Briget's | 52.00% | ~38 |
 | Sound of Noise | 48.00% | ~35 |
 | Big City Music | 45.00% | ~33 |
 | Love at First Sight | 42.00% | ~31 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 55,
   "Ranking_EOS_Completed": 160,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -225,10 +225,10 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 196900,
+  "EOS_Progressed": 196907,
   "EOS_Completed": 468,
-  "EOS_NewPlayers": 643,
-  "EOS_NewCompleters": 4,
+  "EOS_NewPlayers": 645,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
     {
@@ -9950,6 +9950,11 @@
       "Time": "2023-07-21T12:02:17.4281942+00:00",
       "NumProgressed": 196900,
       "NumCompleted": 468
+    },
+    {
+      "Time": "2023-07-21T13:10:11.459824+00:00",
+      "NumProgressed": 196907,
+      "NumCompleted": 468
     }
   ],
   "TotalAchievements": 29,
@@ -9961,7 +9966,7 @@
       "Name": "No Anchor too great.",
       "Percentage": 0.5,
       "XP": 80,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "ACHIEVEMENT_ARCHWAY",
@@ -9985,7 +9990,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 185086
+      "UsersEstimate": 185093
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -10145,7 +10150,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 19690
+      "UsersEstimate": 19691
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -10192,7 +10197,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 196900,
+      "Progressed": 196907,
       "Completed": 468
     }
   ],
@@ -10200,8 +10205,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-06-26T22:58:32.656469+00:00",
-  "LastChanged_Achievements": "2023-07-21T12:02:17.4281936+00:00",
+  "LastChanged_Achievements": "2023-07-21T13:10:11.4598235+00:00",
   "LastUpdate_AppInfo": "2023-07-15T03:23:47.6182594+00:00",
-  "LastUpdate_Ratings": "2023-07-21T11:59:00.8309134+00:00",
-  "LastUpdate_Achievements": "2023-07-21T12:02:17.4282807+00:00"
+  "LastUpdate_Ratings": "2023-07-21T13:06:28.9352399+00:00",
+  "LastUpdate_Achievements": "2023-07-21T13:10:11.4599147+00:00"
 }

@@ -6,15 +6,18 @@
 | Powerful Allies | 20.00% | ~4 |
 | Scholar | 20.00% | ~4 |
 | The Collector | 20.00% | ~4 |
+| Geared Up | 15.00% | ~3 |
 | Fashion Victim | 15.00% | ~3 |
 | The Mentor | 10.00% | ~2 |
 | Adventurer | 10.00% | ~2 |
 | Tributes of Caladrias | 10.00% | ~2 |
-| Geared Up | 10.00% | ~2 |
+| Essence Blow | 10.00% | ~2 |
+| Stone Collection | 10.00% | ~2 |
 | Find Allies | 5.00% | ~1 |
-| Essence Blow | 5.00% | ~1 |
+| Calm before the Storm | 5.00% | ~1 |
+| I Found It | 5.00% | ~1 |
+| Alchemist | 5.00% | ~1 |
 | Break Out | 0.00% | ~0 |
-| Calm before the Storm | 0.00% | ~0 |
 | To Battle | 0.00% | ~0 |
 | Godslayer | 0.00% | ~0 |
 | Clear Sight | 0.00% | ~0 |
@@ -31,10 +34,7 @@
 | Fine Feathers Make Fine Birds | 0.00% | ~0 |
 | All There Is | 0.00% | ~0 |
 | False God | 0.00% | ~0 |
-| I Found It | 0.00% | ~0 |
 | All That Gold | 0.00% | ~0 |
-| Alchemist | 0.00% | ~0 |
-| Stone Collection | 0.00% | ~0 |
 | Miner | 0.00% | ~0 |
 | Feeling Fancy | 0.00% | ~0 |
 | A Queen's Tale | 0.00% | ~0 |
